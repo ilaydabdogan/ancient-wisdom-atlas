@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l3569-l3643
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER VI. / CHAPTER VII. / CHAPTER VIII. / CHAPTER IX.; lines 3569-3643
+  start: '3569'
+  end: '3643'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In Bethlehem, where children suffer deadly illnesses, two mothers bring
+    or obtain help for their sick sons through St. Mary. Water used to wash Jesus
+    is applied to the children, and both recover; Mary directs thanks to God and in
+    the second case tells the woman not to disclose what happened.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is Bethlehem, where several severe illnesses are troubling children
+    and many children die.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A woman brings her son, who is at the point of death, to Lady St. Mary while
+    Mary is washing Jesus Christ.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: St. Mary tells the woman to take some of the water used to wash her son and
+    sprinkle it on the sick child.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman sprinkles the water on her son; after sleeping briefly, he wakes
+    fully recovered.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: St. Mary tells the first mother to praise God, whom she identifies as having
+    cured the son.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A neighboring woman has a son with the same disease; his eyes are almost shut,
+    and she laments for him day and night.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The mother of the healed child tells the neighbor that her own son was cured
+    by the water with which Jesus' body was washed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The neighboring woman obtains the same water and washes her son with it; his
+    body and eyes are immediately restored.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: St. Mary commands the second woman to thank God for her son's recovered health
+    and to tell no one what happened.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: St. Mary / Lady Mary
+  description: Mary is washing Jesus, instructs the mothers about the water, and commands
+    thanksgiving to God and secrecy in the second case.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Jesus Christ
+  description: Jesus is Mary's son; the water used to wash his body is applied to
+    the sick children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: First mother
+  description: A woman whose son is near death brings him to Mary, applies the washing
+    water, rejoices at his recovery, and later tells a neighbor about the remedy.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: First sick son
+  description: The first woman's son is at the point of death, suffers violent pains,
+    sleeps after the water is sprinkled on him, and wakes recovered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Neighboring mother
+  description: A neighboring woman has a son with the same disease, obtains the same
+    water, washes him with it, and reports his case to Mary.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Second sick son
+  description: The neighboring woman's son has the same disease, with eyes almost
+    shut, and is restored after being washed with the same water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: God
+  description: God is named by Mary as the one to be praised for curing the children.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: holy mother and adviser
+  assigned_to:
+  - fig:1
+  basis: Mary is addressed as Lady Mary, gives the water remedy, and directs the women
+    to thank God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: child associated with curative washing water
+  assigned_to:
+  - fig:2
+  basis: The effective water is identified as water used to wash Jesus, Mary's son.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: mother-caregiver seeking cure
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Each woman seeks help for her sick son and applies the water as remedy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: sick child healed
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Both sons are described as gravely ill and then restored after contact with
+    the washing water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: witness transmitting the remedy
+  assigned_to:
+  - fig:3
+  basis: The first healed child's mother tells the neighboring mother how her son
+    was cured.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: divine agent credited with cure
+  assigned_to:
+  - fig:7
+  basis: Mary tells both women to give thanks to God for the cure or recovery.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: healing washing water
+  literal_form: Water with which Jesus was washed, used first for sprinkling and then
+    for washing the sick children.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Illness among children in Bethlehem
+  summary: The passage opens in Bethlehem, where severe diseases are afflicting children
+    and causing many deaths.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First child cured by water from washing Jesus
+  summary: A mother brings her dying son to Mary; Mary instructs her to sprinkle the
+    water used to wash Jesus on him, and the child recovers after sleeping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Neighboring child restored by the same water
+  summary: A neighboring mother learns of the first healing, obtains the same water,
+    washes her own son with it, and his body and eyes are restored; Mary tells her
+    to thank God and keep silent about the event.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: curative water from contact with a holy child
+  taxonomy_refs:
+  - miraculous_child
+  basis: The water used to wash Jesus, presented as Mary's son, cures two gravely
+    ill children when sprinkled or used for washing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy has no specific healing-water motif; the link to
+    miraculous_child rests on the child's association with the effective water.
+- id: motif:2
+  label: holy mother mediating a child's healing power
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Mary, identified as mother of Jesus, directs the use of the water connected
+    with her son and instructs the recipients after recovery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage presents Mary and Jesus in mother-son terms and does not expand
+    the theological status of the relationship within this excerpt.
+- id: motif:3
+  label: secrecy command after a healing
+  taxonomy_refs: []
+  basis: After the second child's recovery, Mary tells the mother to thank God and
+    to tell no one what happened.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only one explicit secrecy instruction occurs in this passage, so the motif
+    candidate is limited to this scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER IX.1-2 heading and opening
+  quote_or_summary: The heading states that two sick children are cured by water in
+    which Christ was washed; the opening describes Bethlehem as afflicted by desperate
+    diseases among children.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: CHAPTER IX.2-4
+  quote_or_summary: A woman brings her dying son to Lady St. Mary while Mary is washing
+    Jesus; Mary instructs her to take some of that washing water and sprinkle it on
+    the child.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: CHAPTER IX.5-6
+  quote_or_summary: The woman sprinkles the water on her son; after a short sleep
+    he wakes well, and Mary tells the mother to praise God for curing him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: CHAPTER IX.7-9
+  quote_or_summary: A neighboring woman has a son with the same disease and nearly
+    closed eyes; the first healed child's mother tells her that her own son was cured
+    by the water used to wash Jesus' body.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: CHAPTER IX.10
+  quote_or_summary: The neighboring woman obtains the same water and washes her son
+    with it; his body and eyes are instantly restored.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: CHAPTER IX.11
+  quote_or_summary: The second mother brings her son to Mary and explains the case;
+    Mary commands her to thank God for recovery and to tell no one what happened.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The actions, figures, and water symbol are explicit in the passage. Motif
+    labels are candidate abstractions constrained by the supplied taxonomy. No comparison
+    claims are made because the excerpt does not itself compare the episode to another
+    text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata; no external parallels or taxonomy identifiers beyond the supplied lists were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l3569-l3643
+  passage_sha256=7f64c312b109b0d4471e5f5e08c210a53ba40d961140290dc279e49f9000b1f8
+

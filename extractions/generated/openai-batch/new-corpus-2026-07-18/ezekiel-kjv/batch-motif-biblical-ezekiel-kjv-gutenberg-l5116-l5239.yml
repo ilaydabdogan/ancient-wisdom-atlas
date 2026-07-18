@@ -1,0 +1,447 @@
+---
+record_id: batch.motif.biblical-ezekiel-kjv-gutenberg-l5116-l5239
+source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+passage_locator:
+  label: 'The Bible, King James Version, Book 26: Ezekiel / Book 26        Ezekiel;
+    lines 5116-5239'
+  start: '5116'
+  end: '5239'
+  translation: 'The Bible, King James Version, Book 26: Ezekiel'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes life-giving trees by a sanctuary-fed river, then
+    gives divine instructions for the borders, inheritance, tribal allotments, holy
+    oblation, priestly and Levitical lands, and measured city space in the restored
+    land.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Trees grow on both banks of the river; their leaves do not fade, their fruit
+    is renewed by months, their fruit is for food, and their leaves are for medicine
+    because the waters issue from the sanctuary.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lord GOD states the border by which the land is to be inherited according
+    to the twelve tribes of Israel, with Joseph receiving two portions.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The land is described by north, east, south, and west borders using seas,
+    rivers, and named places as boundary markers.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The land is to be divided among the tribes of Israel, and resident strangers
+    with children among Israel are to receive inheritance in the tribe where they
+    sojourn.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A sequence of tribal portions is listed from the north, including portions
+    for Dan, Asher, Naphtali, Manasseh, Ephraim, Reuben, and Judah.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An offering of land is assigned by the border of Judah, and the sanctuary
+    is placed in the midst of it.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The holy oblation is assigned to the sanctified priests, the sons of Zadok,
+    who are described as having kept the divine charge when others went astray.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Levites receive a measured portion by the priests' border, and the land
+    is not to be sold, exchanged, or alienated because it is holy to the LORD.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A remaining measured area is set aside as a profane place for the city, dwelling,
+    and suburbs, with the city in its midst and equal measures on all four sides.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Lord GOD / LORD
+  description: Divine speaker who declares borders, inheritance rules, and holy land
+    assignments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Twelve tribes of Israel
+  description: Collective inheritors among whom the land is divided.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Joseph
+  description: Tribal ancestor or house specified as receiving two portions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Strangers that sojourn among Israel
+  description: Resident foreigners with children among Israel who are to receive inheritance
+    with the tribes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Dan, Asher, Naphtali, Manasseh, Ephraim, Reuben, and Judah
+  description: Named tribes listed in sequence as receiving portions from the north
+    toward the holy offering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Priests, sons of Zadok
+  description: Sanctified priests who kept the divine charge and receive the most
+    holy oblation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Levites
+  description: Levitical group assigned a measured portion by the priests' border;
+    some are said to have gone astray in contrast to the sons of Zadok.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: divine speaker and land allocator
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly introduces commands and allocations with divine speech
+    formulas and references land as holy to the LORD.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:2
+  label: collective inheritors
+  assigned_to:
+  - fig:2
+  basis: The land is to be inherited and divided according to the tribes of Israel.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: double-portion recipient
+  assigned_to:
+  - fig:3
+  basis: Joseph is specifically stated to have two portions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: included resident co-inheritors
+  assigned_to:
+  - fig:4
+  basis: Sojourning strangers with children among Israel are to receive inheritance
+    among the tribes.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: listed tribal portion recipients
+  assigned_to:
+  - fig:5
+  basis: The passage names tribes in order and assigns each a portion from east side
+    to west side.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: sanctified priestly recipients of most holy land
+  assigned_to:
+  - fig:6
+  basis: The sons of Zadok are said to have kept the charge and receive the most holy
+    oblation.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: adjacent Levitical landholders
+  assigned_to:
+  - fig:7
+  basis: The Levites receive a measured portion over against the border of the priests.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sanctuary-fed waters
+  literal_form: River waters issuing out of the sanctuary
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unfading food and medicine trees
+  literal_form: Trees on both riverbanks with unfading leaves, monthly fruit, food,
+    and medicinal leaves
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: measured inherited land
+  literal_form: Land divided by borders, lots, and tribal portions
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: central sanctuary
+  literal_form: Sanctuary of the LORD in the midst of the offering/oblation of land
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: holy oblation of land
+  literal_form: Measured land offering assigned as most holy for priests and bordered
+    by Levites
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: four-sided measured city
+  literal_form: City and suburbs measured equally toward north, south, east, and west
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Riverbank trees nourished by sanctuary waters
+  summary: Trees grow on both sides of a river whose waters come from the sanctuary;
+    the trees provide continual fruit for food and leaves for medicine.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine definition of land inheritance and borders
+  summary: The Lord GOD defines the inheritance of the land for the twelve tribes,
+    identifies Joseph's double portion, and describes the land's borders on all sides.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Inclusive allotment by tribe
+  summary: The land is divided among Israel's tribes, and sojourning strangers with
+    children among Israel are to receive inheritance in the tribe where they reside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Tribal portions and central holy offering
+  summary: Named tribes receive east-west portions, and beside Judah a measured land
+    offering is set aside with the sanctuary in its midst.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Priestly, Levitical, and city measurements
+  summary: The sons of Zadok receive the most holy oblation, the Levites receive an
+    adjacent measured portion that may not be alienated, and a measured area is set
+    aside for the city and suburbs.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: life-giving sanctuary water and healing trees
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage links waters issuing from the sanctuary with trees that bear
+    continuing fruit for food and leaves for medicine.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage describes multiple riverbank trees rather than a single explicit
+    cosmic tree or axis.
+- id: motif:2
+  label: sacred center within ordered land
+  taxonomy_refs:
+  - world_center
+  basis: The sanctuary is repeatedly placed in the midst of a measured land offering,
+    and the surrounding land is distributed in ordered portions.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage gives geographic and cultic measurements; broader cosmological
+    meaning is not explicitly stated.
+- id: motif:3
+  label: divine land inheritance by oath and allotment
+  taxonomy_refs:
+  - covenant
+  basis: The land is given as inheritance according to the tribes, connected with
+    a divine oath to the fathers, and apportioned by lot including resident strangers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The word covenant is not used in this passage, though the oath and inheritance
+    language support a covenantal pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26:047:012
+  quote_or_summary: Trees on both banks of the river grow because the waters issue
+    from the sanctuary; their fruit is for food and their leaves for medicine.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:2
+  type: summary
+  locator: 26:047:013-014
+  quote_or_summary: The Lord GOD declares the border for inheritance according to
+    the twelve tribes; Joseph has two portions, and the land is tied to the oath to
+    the fathers.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:3
+  type: summary
+  locator: 26:047:015-020
+  quote_or_summary: The north, east, south, and west sides of the land are described
+    through named locations, seas, Jordan, and boundary markers.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:4
+  type: summary
+  locator: 26:047:021-023
+  quote_or_summary: The land is divided among Israel's tribes; sojourning strangers
+    with children among Israel are to receive inheritance in the tribe where they
+    sojourn.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:5
+  type: summary
+  locator: 26:048:001-007
+  quote_or_summary: Portions are listed from northward for Dan, Asher, Naphtali, Manasseh,
+    Ephraim, Reuben, and Judah.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:6
+  type: summary
+  locator: 26:048:008-010
+  quote_or_summary: A measured offering/oblation of land is assigned by Judah's border,
+    with the sanctuary of the LORD in its midst.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:7
+  type: summary
+  locator: 26:048:011-012
+  quote_or_summary: The sons of Zadok are described as sanctified priests who kept
+    the divine charge; their oblation is most holy by the Levites' border.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:8
+  type: summary
+  locator: 26:048:013-014
+  quote_or_summary: The Levites receive a measured portion opposite the priests' border;
+    it must not be sold, exchanged, or alienated because it is holy to the LORD.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+- id: ev:9
+  type: summary
+  locator: 26:048:015-017
+  quote_or_summary: A remaining area is assigned for the city, dwelling, and suburbs;
+    the city is in the midst, with equal side measures and suburbs in the four directions.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text via Project Gutenberg.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is highly explicit. Motif
+    assignments are cautious where taxonomy labels require broader interpretation
+    than the passage states. No comparison claims were generated because the passage
+    itself does not explicitly compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references were limited to supplied motif and symbol lists; no external comparisons were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-ezekiel-kjv-gutenberg__l5116-l5239
+  passage_sha256=faf745a4b8d8427450a83f8dd6c97bb3ace23b69b21b50bec66fe0d43dc1c6e3
+

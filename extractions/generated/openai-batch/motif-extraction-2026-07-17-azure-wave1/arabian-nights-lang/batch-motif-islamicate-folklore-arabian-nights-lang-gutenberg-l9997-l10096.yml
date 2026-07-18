@@ -1,0 +1,540 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l9997-l10096
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 9997-10096
+  start: '9997'
+  end: '10096'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: he touched the screw, and the horse began to leave the earth quickly behind
+    him.
+  summary: Prince Firouz Schah persuades the Princess of Bengal to flee with him on
+    the enchanted horse to Persia. After he returns to his father and secures consent
+    for their marriage, the released Indian deceives the country-house doorkeeper
+    and the princess, mounts the enchanted horse with her, and flies over the city
+    in revenge.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Prince of Persia tells the princess that his happiness depends on being
+    with her and says the Persian court and the King of Bengal should accept their
+    marriage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess does not verbally answer, but her silence and downcast eyes indicate
+    that she has no objection to accompanying him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The princess fears that Prince Firouz Schah may not know how to manage the
+    horse, but he reassures her and they plan a secret flight from the palace.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Early in the morning, while the palace sleeps, the princess joins the prince
+    on the roof; they mount the horse, she holds his belt, he touches the screw, and
+    the horse rises from the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The horse travels rapidly, and after two and a half hours the prince sees
+    the Persian capital below and leaves the princess in a country house outside the
+    town.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The prince is welcomed by the people, finds the Sultan and ministers in mourning,
+    and tells his father that the Princess of Bengal waits for the Sultan's consent
+    to their marriage.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Sultan consents to the marriage, promises to bring the princess back for
+    a wedding that day, orders mourning to cease and music to begin, and commands
+    that the Indian be released.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Sultan tells the Indian that he had been imprisoned as a penalty pledge
+    in case the prince was lost, but now orders him to take his horse and leave forever.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After release, the Indian learns where the princess is waiting, forms a revenge
+    plan, and falsely claims he was sent by the Sultan and prince to bring her to
+    the palace on the enchanted horse.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The doorkeeper accepts the Indian's claim because he recognizes him and sees
+    him free; the princess consents because she hears he has come from the prince.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The Indian mounts the horse with the princess behind him, turns the peg, and
+    deliberately steers over the city to make his revenge quicker and sweeter.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Prince Firouz Schah / Prince of Persia
+  description: The prince who persuades the Princess of Bengal to accompany him, guides
+    the enchanted horse to Persia, and seeks his father's consent to marry her.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Princess of Bengal
+  description: The princess who silently assents to accompany the prince, flies behind
+    him on the horse, waits in a Persian country house, and is later deceived into
+    mounting the horse with the Indian.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Sultan of Persia
+  description: The prince's father, found in mourning, who joyfully receives his son,
+    consents to the marriage, orders celebration, and releases the Indian.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: The Indian
+  description: The man associated with the enchanted horse, formerly imprisoned by
+    the Sultan, released after the prince's return, and then acting by deception to
+    carry off the princess in revenge.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Country-house doorkeeper
+  description: The doorkeeper left in charge at the country house who recognizes the
+    Indian, assumes his claim is true, and leads him to the Princess of Bengal.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Persian people, ministers, and court
+  description: Collective figures who mourn the prince's absence, welcome his return,
+    and accompany the Sultan toward the country house.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+roles:
+- id: role:1
+  label: lover and suitor
+  assigned_to:
+  - fig:1
+  basis: He declares that his life can only be happy with the princess and asks for
+    marriage consent.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: returning prince and guide of the horse
+  assigned_to:
+  - fig:1
+  basis: He guides the horse back to Persia and returns to his father after an absence
+    feared permanent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: consenting beloved and bride-to-be
+  assigned_to:
+  - fig:2
+  basis: Her silence signals agreement to accompany the prince, and she waits for
+    the Sultan's marriage consent.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: deceived passenger
+  assigned_to:
+  - fig:2
+  basis: She agrees to the Indian's request after hearing that he has come from the
+    prince.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: royal father and consenting sovereign
+  assigned_to:
+  - fig:3
+  basis: He consents to the marriage, plans public wedding arrangements, and orders
+    mourning replaced by celebration.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: released prisoner linked to the horse
+  assigned_to:
+  - fig:4
+  basis: The Sultan releases him and tells him to take his horse and leave forever.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: vengeful deceiver
+  assigned_to:
+  - fig:4
+  basis: He devises a revenge plan, falsely presents himself as an envoy, and flies
+    away with the princess.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: credulous gatekeeper
+  assigned_to:
+  - fig:5
+  basis: He takes the Indian's claim for truth because he recognizes him and sees
+    him at liberty.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: mourning and celebrating community
+  assigned_to:
+  - fig:6
+  basis: The people and court are described as mourning the lost prince and then participating
+    in his public return and celebration.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+symbols:
+- id: sym:1
+  label: enchanted flying horse
+  literal_form: A horse able to fly rapidly when operated; the Indian calls it the
+    enchanted horse.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: screw or peg control
+  literal_form: A screw touched by the prince and a peg turned by the Indian to make
+    the horse move or rise.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: sym:3
+  label: roof departure point
+  literal_form: The palace roof where the princess secretly meets the prince and mounts
+    the horse.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mourning garments and ceremonial music
+  literal_form: Deep mourning garments are thrown off and drums, trumpets, and cymbals
+    are ordered after the prince's return.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: country house waiting place
+  literal_form: A country house outside the Persian capital where the prince leaves
+    the princess and where the Indian deceives her.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Persuasion and assent
+  summary: The prince asks the princess to come with him to Persia and speaks of marriage;
+    her silence and downcast eyes indicate consent, though she worries about the horse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Secret aerial departure
+  summary: Before the palace wakes, the princess meets the prince on the roof, mounts
+    behind him, and the horse rises after he touches its screw.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Arrival near the Persian capital
+  summary: The prince guides the horse swiftly to Persia, sees the capital below,
+    and places the princess in a country house while he goes to inform his father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Return of the prince and royal consent
+  summary: The people welcome the prince, the mourning Sultan hears his story, consents
+    to the marriage, orders celebration, and releases the Indian.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Revenge plan by false envoy
+  summary: The released Indian learns that the princess waits at the country house
+    and falsely claims he was sent to fetch her on the enchanted horse.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Second flight over the city
+  summary: The doorkeeper and princess accept the Indian's claim; he mounts the horse
+    with her behind him, turns the peg, and steers above the city for revenge.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Secret departure by enchanted flying vehicle
+  taxonomy_refs:
+  - departure
+  - ascent
+  basis: The prince and princess arrange a secret flight, mount the enchanted horse
+    on the roof, and leave the earth when the control is touched.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy labels are broad; the passage presents a magical/mechanical
+    flight rather than a ritual ascent.
+- id: motif:2
+  label: Return of the lost prince
+  taxonomy_refs:
+  - return
+  basis: The prince, thought lost by his father and people, returns to the Persian
+    capital and is welcomed with joy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage covers the return episode but not the full earlier loss narrative.
+- id: motif:3
+  label: Royal consent legitimating marriage
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The prince seeks the Sultan's consent to marry the Princess of Bengal, and
+    the Sultan's approval initiates public celebration and wedding arrangements.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage concerns dynastic and familial consent; it does not explicitly
+    frame the marriage as sacred or cosmic.
+- id: motif:4
+  label: False envoy steals the beloved
+  taxonomy_refs:
+  - stolen_beloved
+  - trickster_boundary
+  basis: The Indian falsely claims royal authorization, gains access through the doorkeeper,
+    persuades the princess to mount the horse, and flies away with her in revenge.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage shows the beginning of the carrying-off; it does not show
+    the later outcome of the abduction.
+- id: motif:5
+  label: Mourning transformed into celebration after return
+  taxonomy_refs:
+  - return
+  basis: The Sultan and court are in deep mourning before the prince's return; afterward,
+    mourning garments are ordered thrown off and instruments sounded.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a local narrative reversal of mood, not a full death-and-rebirth
+    sequence in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9997-10006
+  quote_or_summary: The Prince of Persia tells the princess that absence should not
+    make her distrust him, asks her to come with him, and speaks of Persian welcome
+    and expected marriage consent.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:2
+  type: summary
+  locator: 10008-10017
+  quote_or_summary: The princess's silence and downcast eyes show willingness to accompany
+    him; she worries about his ability to manage the horse, but he reassures her and
+    they plan a secret flight.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:3
+  type: quote
+  locator: 10019-10024
+  quote_or_summary: The princess comes to the roof while the palace sleeps; the prince
+    helps her mount behind him, she holds his belt, and he touches the screw so the
+    horse leaves the earth.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; short passage summarized with brief
+    exact wording in canonical quote.
+- id: ev:4
+  type: summary
+  locator: 10026-10032
+  quote_or_summary: The horse travels swiftly; after two and a half hours the prince
+    sees the Persian capital beneath him, lands at a country house, lodges the princess,
+    and goes to inform his father.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:5
+  type: summary
+  locator: 10034-10048
+  quote_or_summary: The people welcome the prince; the Sultan and ministers are in
+    mourning; the prince tells his father the story and says the princess waits for
+    marriage consent in a country house.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:6
+  type: summary
+  locator: 10050-10060
+  quote_or_summary: The Sultan gladly consents to the marriage, plans to visit and
+    bring back the princess for a wedding that day, orders mourning ended and music
+    played, and commands the Indian be brought from prison.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:7
+  type: summary
+  locator: 10062-10068
+  quote_or_summary: The Indian is brought before the Sultan, who says he imprisoned
+    him so his life would pay if the prince were lost; since the prince has returned,
+    he tells him to take his horse and leave forever.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:8
+  type: summary
+  locator: 10070-10083
+  quote_or_summary: The released Indian asks where the prince has been, learns that
+    the Princess of Bengal waits at the country palace, plans revenge, and claims
+    he was sent to fetch her on the enchanted horse.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:9
+  type: summary
+  locator: 10085-10096
+  quote_or_summary: The doorkeeper trusts the Indian because he recognizes him and
+    sees him free; the princess agrees because she hears he came from the prince;
+    the Indian mounts with her, turns the peg, and steers over the city for revenge.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; neutral summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the passage. Motif mapping is
+    moderate because available taxonomy families are broad. No comparison claims were
+    extracted because the passage itself does not make an explicit comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; no external tale context was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l9997-l10096
+  passage_sha256=2e61396e73802562ffe0af31c87a309fa978e35d6f547450ee501e99da37c7a9
+

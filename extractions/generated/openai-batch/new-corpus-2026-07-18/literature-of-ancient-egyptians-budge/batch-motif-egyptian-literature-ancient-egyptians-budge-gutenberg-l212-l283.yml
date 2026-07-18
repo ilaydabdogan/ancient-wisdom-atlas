@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l212-l283
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: PREFACE / E.A. WALLIS BUDGE. / CONTENTS / VI.  THE EGYPTIAN STORY OF THE
+    CREATION                             67; lines 212-283
+  start: '212'
+  end: '283'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents listing for sections VI-XV of the anthology.
+    It names an Egyptian creation story, legends of gods, historical and autobiographical
+    texts, travel and fairy tales, hymns, moral/philosophical works, poetry, miscellaneous
+    ritual and magical books, and editions of Egyptian texts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Section VI lists an entry titled "The Egyptian Story of the Creation" with
+    page number 67.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Section VII is titled "Legends of the Gods" and lists titles concerning the
+    destruction of mankind, Ra and Isis, Horus of Behutet, Khnemu and a seven years'
+    famine, the wanderings of Isis, and the Princess of Bekhten.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The travel-and-adventure section lists a journey of the priest Unu-Amen into
+    Syria.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fairy-tale section lists "The Tale of the Two Brothers" and "The Story
+    of the Shipwrecked Traveller."
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hymn section is titled "Egyptian Hymns to the Gods" and lists hymns to
+    Amen-Ra, Amen, the Sun-god, Osiris, and Shu.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The miscellaneous-literature section lists books and ritual texts including
+    "The Book of Two Ways," "The Book \"Am Tuat\", "The Book of Gates," the Ritual
+    of Embalmment, the Ritual of the Divine Cult, and "The Book of Aapep."
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: Named in the contents title "The Legend of Ra and Isis" under "Legends
+    of the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Isis
+  description: Named in the contents titles "The Legend of Ra and Isis" and "The Legend
+    of the Wanderings of Isis" under "Legends of the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Horus of Behutet
+  description: Named in the contents title "The Legend of Horus of Behutet" under
+    "Legends of the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Khnemu
+  description: Named in the contents title "The Legend of Khnemu and the Seven Years'
+    Famine" under "Legends of the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Amen-Ra
+  description: Named as the recipient of a hymn in the section "Egyptian Hymns to
+    the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Amen
+  description: Named as the recipient of a hymn in the section "Egyptian Hymns to
+    the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Sun-god
+  description: Named as the recipient of a hymn in the section "Egyptian Hymns to
+    the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Osiris
+  description: Named as the recipient of a hymn in the section "Egyptian Hymns to
+    the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Shu
+  description: Named as the recipient of a hymn in the section "Egyptian Hymns to
+    the Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: two brothers
+  description: Unnamed brother pair named by the fairy-tale title "The Tale of the
+    Two Brothers."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:11
+  name_or_label: shipwrecked traveller
+  description: Unnamed traveller figure named by the fairy-tale title "The Story of
+    the Shipwrecked Traveller."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:12
+  name_or_label: Unu-Amen
+  description: Named in the travel-and-adventure title "The Journey of the Priest
+    Unu-Amen into Syria."
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: god or divine hymn recipient named in a title
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The contents groups Ra, Isis, Horus of Behutet, and Khnemu under "Legends
+    of the Gods," and lists hymns to Amen-Ra, Amen, the Sun-god, Osiris, and Shu under
+    "Egyptian Hymns to the Gods."
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: brother pair
+  assigned_to:
+  - fig:10
+  basis: The title explicitly names "The Tale of the Two Brothers."
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: traveller or journeying figure
+  assigned_to:
+  - fig:11
+  - fig:12
+  basis: One title names a "Shipwrecked Traveller" and another names "The Journey
+    of the Priest Unu-Amen into Syria."
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: priest
+  assigned_to:
+  - fig:12
+  basis: The title calls Unu-Amen a priest.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: seven-year duration
+  literal_form: Seven Years' Famine
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: two-brother pair
+  literal_form: Two Brothers
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - sibling_pair
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: two ways as title image
+  literal_form: The Book of Two Ways
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: gates as title image
+  literal_form: The Book of Gates
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: creation account
+  taxonomy_refs: []
+  basis: The contents include a section title, "The Egyptian Story of the Creation."
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a title; it does not describe creation acts, materials,
+    beings, or sequence.
+- id: motif:2
+  label: destruction of mankind
+  taxonomy_refs: []
+  basis: The contents list a legend titled "The Destruction of Mankind."
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No mechanism, agent, survival, or renewal element is described; specific
+    taxonomy refs such as flood or fire are not supported by this passage.
+- id: motif:3
+  label: divine figure linked with seven years' famine
+  taxonomy_refs: []
+  basis: The contents list "The Legend of Khnemu and the Seven Years' Famine."
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the title is present; the passage does not state Khnemu's action
+    or the famine's cause or resolution.
+- id: motif:4
+  label: wanderings of a divine figure
+  taxonomy_refs: []
+  basis: The contents list "The Legend of the Wanderings of Isis."
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The title supports wandering only; it does not provide route, purpose,
+    danger, or return.
+- id: motif:5
+  label: sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The fairy-tale section lists "The Tale of the Two Brothers."
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The fraternal relationship is explicit in the title, but the passage gives
+    no plot or role differentiation.
+- id: motif:6
+  label: shipwrecked traveller
+  taxonomy_refs: []
+  basis: The fairy-tale section lists "The Story of the Shipwrecked Traveller."
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The title supports a shipwrecked traveller motif, but no vessel, sea setting,
+    rescue, or ordeal is described in this passage.
+- id: motif:7
+  label: ways and gates in titled books
+  taxonomy_refs: []
+  basis: The miscellaneous-literature section lists "The Book of Two Ways" and "The
+    Book of Gates."
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage supplies titles only; it does not state whether the ways or
+    gates are ritual, cosmological, underworld, or narrative features.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 212
+  quote_or_summary: '"VI.  THE EGYPTIAN STORY OF THE CREATION                             67"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 214-220
+  quote_or_summary: Section VII, "Legends of the Gods," lists titles concerning the
+    Destruction of Mankind, Ra and Isis, Horus of Behutet, Khnemu and the Seven Years'
+    Famine, the Wanderings of Isis, and the Princess of Bekhten.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 242-249
+  quote_or_summary: The contents list travel/adventure tales including Sanehat, Khuenanpu,
+    and the journey of the priest Unu-Amen into Syria, followed by fairy tales titled
+    The Tale of the Two Brothers and The Story of the Shipwrecked Traveller.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 251-256
+  quote_or_summary: Section XII, "Egyptian Hymns to the Gods," lists hymns to Amen-Ra,
+    Amen, the Sun-god, Osiris, and Shu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 268-278
+  quote_or_summary: Section XV, "Miscellaneous Literature," lists The Book of Two
+    Ways, The Book "Am Tuat," The Book of Gates, rituals of embalmment and divine
+    cult, The Book "May My Name Flourish," The Book of Aapep, instructions, and medical
+    and magical papyri.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is high-confidence because the passage is a table of contents.
+    Motif candidates are limited and mostly title-based; no narrative scenes are present.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is not a narrative excerpt; it supplies headings and titles only. Scenes and cross-tradition comparison claims were therefore left empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l212-l283
+  passage_sha256=814955307ae507c6e51898df7f7b91104648a2a1b59c2446302eb4e9f1b288eb
+

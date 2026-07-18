@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l111-l121
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: An Old Babylonian Version of the Gilgamesh Epic / Part III / PREFATORY NOTE;
+    lines 111-121
+  start: '111'
+  end: '121'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A prefatory note assigns scholarly responsibility: Professor Jastrow is
+    responsible for the Introduction, Commentary, and Appendix; Professor Clay provides
+    the Yale tablet text; both authors jointly produced the transliteration and translation;
+    and the transliteration follows C. E. Keiser''s system of accentuation for Sumero-Akkadian
+    signs.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Professor Jastrow is solely responsible for the Introduction,
+    Commentary to the two tablets, and Appendix.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the text of the Yale tablet is by Professor Clay.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the transliteration and translation of the two tablets
+    are the joint work of the two authors.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the transliteration follows C. E. Keiser's system
+    of accentuation for Sumero-Akkadian signs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Professor Jastrow
+  description: Named as solely responsible for the Introduction, Commentary, and Appendix,
+    and included among the two authors responsible for transliteration and translation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Professor Clay
+  description: Named as responsible for the text of the Yale tablet and included among
+    the two authors responsible for transliteration and translation.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: C. E. Keiser
+  description: Named as the source of the cited system of accentuation for Sumero-Akkadian
+    signs followed in the transliteration.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sole responsible contributor
+  assigned_to:
+  - fig:1
+  basis: The note says Professor Jastrow assumes sole responsibility for the Introduction,
+    Commentary, and Appendix.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Yale tablet text contributor
+  assigned_to:
+  - fig:2
+  basis: The note says the text of the Yale tablet is by Professor Clay.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: joint transliteration and translation contributor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note says the transliteration and translation represent the joint work
+    of the two authors.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cited accentuation-system author
+  assigned_to:
+  - fig:3
+  basis: The note identifies C. E. Keiser's system of accentuation as the system followed
+    in the transliteration.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Prefatory scholarly attribution
+  summary: The note explains which portions of the edition are attributed to Jastrow,
+    Clay, their joint work, and Keiser's accentuation system.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 111-115
+  quote_or_summary: Professor Jastrow is assigned sole responsibility for the Introduction,
+    Commentary to the two tablets, and Appendix.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 115-116
+  quote_or_summary: The text of the Yale tablet is attributed to Professor Clay.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 116-118
+  quote_or_summary: The transliteration and translation of the two tablets are described
+    as joint work by the two authors.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 118-121
+  quote_or_summary: The transliteration follows C. E. Keiser's System of Accentuation
+    for Sumero-Akkadian signs, cited as Yale Oriental Researches, Volume IX, Appendix,
+    New Haven, 1919.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an editorial prefatory note, not a narrative mythological
+    passage; therefore no symbols, mythic motifs, or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol references are supported by this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l111-l121
+  passage_sha256=a980ffff37c5c0081a2a7e1fe3e96e73da7db1dcf072e8908bd5d0d4d52dd6e4
+

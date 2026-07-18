@@ -1,0 +1,545 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l2937-l3041
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 2937-3041
+  start: '2937'
+  end: '3041'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person prince watches an old man and slaves hide a young merchant's
+    son in a furnished underground chamber to evade a prophecy. The prince uncovers
+    the chamber, befriends and serves the youth, but on the fortieth day accidentally
+    kills him with a knife, thereby fulfilling the prophecy that Agib would cause
+    the boy's death. The father returns, finds the body, faints with grief, and the
+    slaves bury the youth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sailors bring a ship into a creek, and ten slaves land with spades and pickaxes
+    on the island.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The slaves open a concealed trapdoor, carry furniture and provisions below,
+    lead a young boy underground with an old man, then leave without the boy and cover
+    the entrance with earth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator descends from a tree, digs at the concealed place, removes a
+    large stone with a ring, and finds stone steps leading to a furnished, taper-lit
+    room.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boy is seated on cushions in the underground room and is frightened when
+    the narrator appears.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator tells the boy that he is a king and a king's son and says he
+    may have been sent to deliver him from a tomb where he has been buried alive.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The boy says his father is a wealthy merchant who once mourned having no child
+    to inherit his wealth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The boy reports that wise men predicted he would be in great danger at fifteen
+    and that, fifty days after a brass horse statue on the mountain of adamant was
+    thrown into the sea by Agib son of Cassib, he would fall by Agib's hand.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After hearing that the brass statue had been thrown into the sea, the father
+    hid the boy in the underground chamber and promised to fetch him out after forty
+    days.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator realizes privately that he is the Agib named in the prophecy,
+    but he does not reveal this to the boy.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: For thirty-nine days the narrator serves the boy and converses with him in
+    the underground chamber.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: On the fortieth morning, the boy gives thanks that the danger has passed and
+    asks the narrator to prepare hot water for bathing and later to bring melon and
+    sugar.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: While reaching for a knife in the cornice, the narrator catches his foot in
+    the bed covering, slips, and falls on the boy so that the knife enters the boy's
+    heart.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The narrator grieves, fears punishment, closes the chamber again, and hides
+    in a tree as the ship returns.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The old man and slaves return, find the entrance disturbed, discover the dead
+    youth, and the old man faints from sorrow before the slaves bury the youth.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Narrator / Prince Agib, son of Cassib
+  description: First-person speaker who identifies himself as a king and king's son
+    and privately recognizes himself as the Agib named in the prophecy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Young merchant's son
+  description: A handsome boy of about fourteen or fifteen, hidden in the underground
+    chamber by his father and later accidentally killed by the narrator.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Old man / rich merchant father
+  description: The boy's father, described as a rich merchant with land, ships, and
+    precious-stone dealings, who hides his son and later faints from sorrow after
+    finding him dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:10
+- id: fig:4
+  name_or_label: Ten slaves
+  description: A group who dig open the hidden entrance, carry provisions and furniture,
+    accompany the old man, later carry him when he faints, and bury the youth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:5
+  name_or_label: Sailors
+  description: The ship's crew who run the ship into a creek and later depart by sea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Wise men of the kingdom
+  description: Advisers consulted about the infant's future who all give the same
+    prediction about the boy's danger and death by Agib's hand.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: First-person discoverer, helper, and accidental killer
+  assigned_to:
+  - fig:1
+  basis: He uncovers the hidden chamber, reassures and serves the boy, conceals that
+    he is Agib, and accidentally kills him with the knife.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:2
+  label: Hidden prophesied victim
+  assigned_to:
+  - fig:2
+  basis: The boy is hidden underground because of a prophecy and dies by the hand
+    of the named figure.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:3
+  label: Protective and grieving father
+  assigned_to:
+  - fig:3
+  basis: The father arranges the underground hiding place to protect his son and later
+    faints from sorrow after discovering the death.
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: role:4
+  label: Attendants who dig, transport, and bury
+  assigned_to:
+  - fig:4
+  basis: The slaves open and close the chamber, help bring goods and the boy below,
+    return with the father, and bury the young man.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:5
+  label: Ship operators
+  assigned_to:
+  - fig:5
+  basis: The sailors bring the vessel to the island and depart after the boy is hidden.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Prognosticators
+  assigned_to:
+  - fig:6
+  basis: The wise men are consulted about the infant's future and give the shared
+    prediction of his danger and death.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Concealed entrance
+  literal_form: Trapdoor, earth covering, large stone with a ring, and stone steps
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Underground chamber or tomb
+  literal_form: A large furnished room below ground, lit by tapers, described by the
+    narrator as a tomb where the boy has been buried alive
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Brass horse on the mountain of adamant
+  literal_form: A statue of a brass horse on the top of the mountain of adamant, said
+    in the prophecy to be thrown into the sea by Agib
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Knife in the cornice
+  literal_form: A knife kept in the cornice over the boy's head, used to cut a melon
+    and then accidentally driven into the boy's heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: Tree hiding place
+  literal_form: A tree from which the narrator watches and later in whose branches
+    he conceals himself
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: Bath water
+  literal_form: Hot water requested by the boy for bathing on the fortieth morning
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Forty-day waiting period
+  literal_form: The father's promise to fetch the boy out after forty days and the
+    boy's rejoicing on the fortieth morning
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Landing and concealment of the boy
+  summary: The ship arrives at the island; slaves open a hidden trapdoor, carry supplies
+    below, bring the boy into the chamber with the old man, then conceal the entrance
+    and sail away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of the underground chamber
+  summary: The narrator leaves his tree, uncovers the hidden entrance, descends stone
+    steps, and finds the frightened boy in a furnished underground room.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Account of the prophecy
+  summary: The boy explains his father's wealth, the dream of his birth, the wise
+    men's prediction, and the connection between the brass horse statue, Agib, and
+    the danger to his life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Companionship in hiding
+  summary: The narrator hides his identity as Agib, assures the boy of friendship
+    and protection, serves him, and spends thirty-nine days with him underground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Fortieth-day accident
+  summary: On the fortieth morning the boy believes the danger has passed, asks to
+    bathe and eat, and the narrator accidentally kills him while reaching for the
+    knife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Return of the father and burial
+  summary: The narrator seals the chamber and hides in a tree; the father and slaves
+    return, find the entrance disturbed, discover the dead youth, and bury him after
+    the father faints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Child hidden underground to avoid foretold death
+  taxonomy_refs: []
+  basis: The father hides his son in a purpose-built underground chamber after hearing
+    that the prophetic sign has occurred, intending to retrieve him after forty days.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The hiding place is a human-built chamber rather than a supernatural refuge.
+- id: motif:2
+  label: Foretold death fulfilled by the named agent despite precautions
+  taxonomy_refs: []
+  basis: The prophecy names Agib as the one by whose hand the boy will fall; the boy
+    is hidden to avoid this, but the narrator, who is Agib, accidentally kills him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage presents the fulfillment as accidental; it does not explicitly
+    discuss fate as a doctrine.
+- id: motif:3
+  label: Descent into a concealed underground chamber
+  taxonomy_refs:
+  - hero_descent
+  basis: The narrator uncovers a hidden entrance, descends stone steps, and enters
+    a below-ground room where he encounters the hidden youth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The descent is literal and domestic rather than an explicit descent to
+    an underworld.
+- id: motif:4
+  label: Protector becomes accidental cause of death
+  taxonomy_refs: []
+  basis: The narrator assures the boy of friendship and protection, serves him for
+    many days, but unintentionally kills him while trying to obtain the requested
+    knife.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage frames the death as an accident rather than intentional betrayal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2937-2946
+  quote_or_summary: A ship is brought into a creek; ten slaves with digging tools
+    open a concealed trapdoor, bring furniture and provisions below, lead a young
+    boy underground with an old man, then leave without him and cover the entrance.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2948-2958
+  quote_or_summary: After the ship leaves, the narrator descends from a tree, digs
+    up the entrance, removes a ringed stone, descends stone steps to a furnished taper-lit
+    room, and reassures the frightened boy that he may deliver him from being buried
+    alive.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2960-2965
+  quote_or_summary: The boy says his father is a wealthy merchant with land, ships,
+    and precious-stone dealings, who had mourned having no child to inherit his wealth.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2967-2975
+  quote_or_summary: 'The boy recounts a dream foretelling his birth and the wise men''s
+    prediction that he would face danger at fifteen: fifty days after Agib son of
+    Cassib throws the brass horse statue from the mountain of adamant into the sea,
+    the boy will fall by Agib''s hand.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2977-2985
+  quote_or_summary: The father reacts with grief to the prophecy and, after news arrives
+    that the brass statue was thrown into the sea, hides his son in the underground
+    chamber and promises to fetch him out after forty days.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2987-2999
+  quote_or_summary: The narrator recognizes privately that he is Agib, conceals this
+    from the boy, offers friendship and protection, and for thirty-nine days serves
+    and converses with him underground.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3001-3011
+  quote_or_summary: On the fortieth morning the boy rejoices that the danger has passed,
+    requests hot water for bathing and clean clothes, then asks for melon and sugar;
+    he tells the narrator to look in the cornice for a knife.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3013-3018
+  quote_or_summary: The narrator reaches for the high knife, catches his foot in the
+    bed covering, slips, and falls on the boy so that the knife goes into the boy's
+    heart.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3020-3029
+  quote_or_summary: The narrator cries out, tears his clothes and hair, fears being
+    punished as a murderer, closes the chamber again, and hides in a tree when he
+    sees the ship returning.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 3031-3041
+  quote_or_summary: The old man and slaves return, see the disturbed earth, go down
+    and call to the youth, then the slaves carry out the father after he faints from
+    sorrow and later bury the young man's body.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are candidate
+    descriptions; no external comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself name an external text, tradition, or comparative corpus.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l2937-l3041
+  passage_sha256=64ae798242e97d0e440094ffedc337883f709b9278e31ef2b925288b3f1c5eb9
+

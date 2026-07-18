@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2079-l2101
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: JACKAL'S BRIDE / THE STORY OF HARE / THE WHITE MAN AND SNAKE / ANOTHER VERSION
+    OF THE SAME FABLE; lines 2079-2101
+  start: '2079'
+  end: '2101'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Dutchman frees Snake from under a large stone. Once free, Snake says
+    she will eat him. The Man appeals to Hare and Hyena, who both say Snake is right.
+    He then appeals to Jackal, who asks to see the original situation. Snake lies
+    down again, the Man replaces the stone over her, and Jackal tells him to leave
+    her there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Dutchman walking alone sees Snake lying under a large stone.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Snake asks the Dutchman for help, but after being freed says she will eat
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Man objects that Snake's threat is not right and proposes asking Hare.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hare and Hyena each say that Snake's position is right.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Man, in despair, proposes asking Jackal.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Jackal doubts the account and asks to inspect the place and the Man's ability
+    to lift the stone.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Snake lies down again, and the Man puts the stone over her to prove his account.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: When Snake is fast under the stone, Jackal says to leave her there.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dutchman / Man
+  description: A man walking alone who frees Snake, seeks judgments from animal figures,
+    and later places the stone over Snake again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Snake
+  description: A female Snake lying under a large stone; she asks for help, threatens
+    to eat the Man after release, and is put back under the stone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Hare
+  description: An animal figure consulted by the Man who says Snake's position is
+    right.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Hyena
+  description: An animal figure consulted by the Man who also declares Snake's position
+    right.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Jackal
+  description: An animal figure consulted by the Man; Jackal doubts the account, asks
+    to see the original place, and tells the Man to leave Snake under the stone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: trapped supplicant and later threatener
+  assigned_to:
+  - fig:2
+  basis: Snake is first trapped under a stone and asks for help, then says she will
+    eat the Man once free.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: rescuer and threatened victim
+  assigned_to:
+  - fig:1
+  basis: The Man frees Snake and is then threatened with being eaten.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: arbiters affirming Snake's claim
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Hare and Hyena are consulted and each says Snake's position is right.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: skeptical resolving arbiter
+  assigned_to:
+  - fig:5
+  basis: Jackal questions the story, requires a reenactment, and then instructs that
+    Snake be left under the stone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Snake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: large stone
+  literal_form: large stone used to confine Snake
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Snake freed and threatens rescuer
+  summary: The Man finds Snake under a large stone, helps free her, and Snake announces
+    that she will eat him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Appeals to Hare and Hyena
+  summary: The Man disputes Snake's claim and seeks judgment from Hare and Hyena,
+    both of whom say Snake is right.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Jackal's reenactment and Snake's confinement
+  summary: Jackal doubts the affair and asks to see the original place. Snake lies
+    down again, the Man places the stone over her, and Jackal says she should remain
+    there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: rescued dangerous being threatens rescuer
+  taxonomy_refs:
+  - serpent
+  basis: Snake is trapped and asks for help, but after being freed she says she will
+    eat the Man.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is supported by Snake's literal identity; the broader
+    motif label is descriptive rather than a supplied taxonomy ID.
+- id: motif:2
+  label: appeal to animal arbiters
+  taxonomy_refs: []
+  basis: The Man seeks judgments from Hare, Hyena, and Jackal about whether Snake
+    may eat him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy ID directly names this arbitration pattern.
+- id: motif:3
+  label: clever reenactment restores the trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal questions the account and has the original situation repeated, resulting
+    in Snake being trapped again under the stone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call Jackal a trickster; the taxonomy
+    match is inferred from Jackal's problem-solving action.
+- id: motif:4
+  label: ingratitude after rescue reversed
+  taxonomy_refs: []
+  basis: Snake threatens the one who freed her, and the final action leaves Snake
+    confined again.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The label summarizes a narrative pattern; it is not a supplied taxonomy
+    ID.
+comparison_claims:
+- id: claim:1
+  claim: The heading presents this passage as another version of the same fable, indicating
+    a variant relationship to a nearby related fable in the source.
+  claim_level: same_motif
+  target: the same fable referenced by the passage heading
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt does not include the other version, so the target
+    version's details cannot be compared here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '2079'
+  quote_or_summary: '"ANOTHER VERSION OF THE SAME FABLE"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 2081-2084
+  quote_or_summary: A Dutchman walking alone sees Snake under a large stone. Snake
+    asks for help; after being freed she says, "Now I shall eat you."
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; brief summary with short quotation.
+- id: ev:3
+  type: summary
+  locator: 2085-2086
+  quote_or_summary: The Man says this is not right and suggests first going to Hare.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2087-2092
+  quote_or_summary: Hare says it is right; Hyena later declares the same, saying it
+    is right.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2093-2099
+  quote_or_summary: The Man asks Jackal. Jackal answers slowly, doubts the affair,
+    and asks to see the place and whether the Man can lift the stone.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 2099-2101
+  quote_or_summary: Snake lies down again; the Man puts the stone over her, and when
+    she is fast Jackal says, "Now let her lie there."
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; brief summary with short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are descriptive; only
+    supplied taxonomy references with direct or cautious support were used. The comparison
+    claim relies only on the passage heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated tale versions were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2079-l2101
+  passage_sha256=31e2e55c5ecc8ed57c3c3dc8856e113378b9031c24cf51a215d182ef43e5e7be
+

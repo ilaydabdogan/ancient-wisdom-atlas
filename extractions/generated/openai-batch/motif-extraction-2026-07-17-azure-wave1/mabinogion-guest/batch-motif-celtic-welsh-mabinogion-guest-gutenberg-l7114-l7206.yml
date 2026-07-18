@@ -1,0 +1,533 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l7114-l7206
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF ERBIN / THE DREAM OF RHONABWY
+    / PWYLL PRINCE OF DYVED; lines 7114-7206
+  start: '7114'
+  end: '7206'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Manawyddan and Pryderi repeatedly prosper at crafts in towns, provoking
+    local artisans to plot their deaths. Manawyddan counsels withdrawal rather than
+    violence, and they eventually go to Dyved and Narberth, where they live by hunting.
+    During a hunt, their dogs react fearfully to a bush, a pure white boar appears,
+    and the pursuit leads to a newly appeared castle. The boar and dogs enter and
+    disappear from hearing. Pryderi enters despite Manawyddan's warning that the castle
+    has been caused by a spell, and he finds an empty interior with a fountain, golden
+    bowl, marble slab, and chains hanging from the air.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Manawyddan's saddlery becomes so sought after in Hereford that local saddlers
+    lose trade and agree to slay him and his companions.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After receiving warning, Pryderi proposes killing the hostile townsmen, while
+    Manawyddan advises leaving to avoid evil fame and imprisonment.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In another city, Manawyddan and Pryderi make enamelled shields, prosper, and
+    again provoke craftsmen and townsmen to plan their destruction.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Manawyddan chooses shoemaking, teaches Pryderi to stitch, uses fine leather
+    and gilded clasps, and becomes known as one of the three makers of Gold Shoes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Cordwainers whose trade declines because of Manawyddan and Pryderi's shoes
+    gather and agree to slay them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Manawyddan again refuses Pryderi's proposal to slay the attackers and decides
+    that they should leave Lloegyr for Dyved.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: They reach Dyved and Narberth, kindle fire, live by hunting, gather their
+    dogs, and remain there for a year.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: During a morning hunt, some dogs reach a small bush, retreat quickly to the
+    men, and have their hair bristling.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A wild boar of pure white color rises from the bush, is pursued by the dogs,
+    repeatedly falls back as the men approach, and then flees.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The pursuit leads to a vast, lofty, newly built castle in a place where the
+    men had not previously seen stone or building.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The boar and the dogs run into the castle, after which the men hear nothing
+    from the dogs.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Pryderi says he will enter the castle to seek news of the dogs; Manawyddan
+    warns him not to enter and says that whoever cast a spell over the land caused
+    the castle to be there.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Inside the castle, Pryderi sees no man, beast, boar, dogs, house, or dwelling,
+    but sees a fountain with marble work, a golden bowl on a marble slab, and chains
+    hanging from the air with no visible end.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Manawyddan
+  description: A skilled maker of saddles, shields, and shoes who repeatedly counsels
+    departure rather than retaliatory violence and warns against entering the newly
+    appeared castle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Pryderi
+  description: Manawyddan's companion, who repeatedly urges violent retaliation against
+    hostile townsmen and later enters the castle to seek the dogs despite Manawyddan's
+    warning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Hostile town artisans
+  description: Local saddlers, shield craftsmen and townsmen, and cordwainers whose
+    trades are displaced by Manawyddan and Pryderi's work and who plan to kill them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Hunting dogs
+  description: Dogs gathered by the companions at Narberth; during the hunt they recoil
+    from a bush, pursue the white boar into the castle, and are no longer heard.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Wild white boar
+  description: A wild boar of pure white color that rises from a bush, faces the dogs,
+    retreats as the men approach, flees to the newly appeared castle, and enters it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Skilled artisan
+  assigned_to:
+  - fig:1
+  basis: Manawyddan produces sought-after saddles, shields, and shoes, teaches Pryderi
+    stitching, and learns gilding methods for shoe clasps.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Cautious counselor and conflict avoider
+  assigned_to:
+  - fig:1
+  basis: He advises leaving towns rather than killing opponents, citing consequences
+    such as evil fame, imprisonment, and danger from Caswallawn's men; he also warns
+    against entering the unknown castle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:3
+  label: Violent-retaliation advocate and dog-seeker
+  assigned_to:
+  - fig:2
+  basis: Pryderi repeatedly urges slaying hostile townsmen and later insists on entering
+    the castle because he will not give up the dogs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:4
+  label: Hostile displaced competitors
+  assigned_to:
+  - fig:3
+  basis: The local artisan groups lose trade because of the companions' workmanship
+    and gather to plan their deaths.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Uncanny quarry or lure
+  assigned_to:
+  - fig:5
+  basis: The white boar appears from the bush, draws pursuit, retreats in stages,
+    and runs into the newly appeared castle.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: Hunting pack and vanished animals
+  assigned_to:
+  - fig:4
+  basis: The dogs participate in the hunt, react fearfully to the bush, pursue the
+    boar into the castle, and then cannot be heard.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Kindled fire at Narberth
+  literal_form: Fire kindled after the companions reach Narberth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Gold shoes and gilded clasps
+  literal_form: Shoes made from fine leather with gilded clasps
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Small bush
+  literal_form: A small bush near at hand during the hunt
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Pure white boar
+  literal_form: Wild boar of pure white color
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Newly appeared castle
+  literal_form: A vast and lofty newly built castle where no stone or building had
+    been seen before
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: Fountain with marble work
+  literal_form: Fountain in the center of the castle floor with marble work around
+    it
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Golden bowl on marble slab
+  literal_form: Golden bowl on the margin of the fountain, set upon a marble slab
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Chains hanging from the air
+  literal_form: Chains hanging from the air with no visible end
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Saddlery success and flight from Hereford
+  summary: Manawyddan's saddlery displaces local saddlers, who plot to kill him and
+    his companions; after warning, Manawyddan advises leaving rather than fighting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shield-making repeats the trade conflict
+  summary: In another city, the companions make many enamelled shields and again provoke
+    local craftsmen and townsmen to plan their deaths; Manawyddan counsels another
+    move.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Gold shoes and departure from Lloegyr
+  summary: Manawyddan and Pryderi make fine shoes with gilded clasps, draw customers
+    away from cordwainers, and leave Lloegyr for Dyved after the cordwainers plot
+    against them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Hunting life at Narberth
+  summary: The companions reach Dyved and Narberth, kindle fire, support themselves
+    by hunting, gather their dogs, and remain for a year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: White boar leads the hunt to a new castle
+  summary: During a hunt, dogs recoil from a bush; a white boar appears, is pursued,
+    and leads the men and dogs to a castle that had not previously been seen there.
+    The boar and dogs enter, and the men hear nothing from the dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Pryderi enters the empty castle
+  summary: Pryderi enters the castle to seek the dogs despite Manawyddan's warning
+    that the castle is spell-caused. Inside, he finds no living beings but sees a
+    fountain, a golden bowl on a marble slab, and chains hanging from the air.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Superior craft disrupts local trade and provokes lethal hostility
+  taxonomy_refs: []
+  basis: In three towns or crafts, Manawyddan and Pryderi's superior workmanship draws
+    customers away from established artisans, who respond by plotting to slay them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the conflict economically and socially; it does not
+    explicitly sacralize the crafts.
+- id: motif:2
+  label: Avoidance of retaliatory violence through repeated departure
+  taxonomy_refs:
+  - departure
+  basis: Pryderi urges slaying hostile townsmen, but Manawyddan repeatedly advises
+    leaving, and the companions move from town to town and then from Lloegyr to Dyved.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The departures are pragmatic responses to danger, not explicitly ritual
+    journeys.
+- id: motif:3
+  label: Uncanny animal leads hunters to a perilous threshold
+  taxonomy_refs:
+  - mystical_quest
+  - trickster_boundary
+  basis: A pure white boar appears from a bush, draws the dogs and men in pursuit,
+    and runs into a newly appeared castle where the dogs vanish from hearing.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not identify the boar's origin or state that it is a
+    shapeshifter.
+- id: motif:4
+  label: Spell-caused castle as dangerous boundary
+  taxonomy_refs:
+  - trickster_boundary
+  - mystical_quest
+  basis: The castle appears where none had been seen before, Manawyddan says it was
+    caused by whoever cast a spell over the land, and he warns Pryderi not to enter.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The later consequences of entry are outside this passage, so the function
+    of the boundary remains incomplete here.
+- id: motif:5
+  label: Empty enchanted interior with suspended objects
+  taxonomy_refs:
+  - mystical_quest
+  basis: Upon entering the castle, Pryderi finds no living beings or dwellings but
+    sees a central fountain, a golden bowl on marble, and chains hanging from the
+    air with no visible end.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage stops before explaining the objects' use or effect.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7114-7119
+  quote_or_summary: Manawyddan's workmanship in saddlery takes business from Hereford
+    saddlers, who gather and agree to kill him and his companions.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:2
+  type: summary
+  locator: 7121-7126
+  quote_or_summary: After warning, Pryderi counsels killing the hostile townsmen,
+    while Manawyddan advises leaving to avoid evil fame and imprisonment; the four
+    go to another city.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:3
+  type: summary
+  locator: 7128-7142
+  quote_or_summary: They make enamelled shields in another city and prosper; local
+    craftsmen and townsmen plan to slay them, and Manawyddan again counsels moving
+    elsewhere.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:4
+  type: summary
+  locator: 7144-7161
+  quote_or_summary: Manawyddan chooses shoemaking, teaches Pryderi stitching, uses
+    fine leather and gilded clasps, is called one of the three makers of Gold Shoes,
+    and draws trade away from cordwainers, who plot to kill them.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:5
+  type: summary
+  locator: 7163-7167
+  quote_or_summary: Pryderi proposes slaying the hostile cordwainers; Manawyddan refuses
+    and decides not to remain in Lloegyr, setting out for Dyved.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:6
+  type: summary
+  locator: 7169-7172
+  quote_or_summary: They journey to Dyved and Narberth, kindle fire, support themselves
+    by hunting, gather their dogs, and remain for a year.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:7
+  type: summary
+  locator: 7174-7192
+  quote_or_summary: During a hunt, dogs recoil from a small bush with bristling hair;
+    a pure white boar rises from it, draws pursuit, and runs into a newly appeared
+    vast castle where the dogs follow and then cannot be heard.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:8
+  type: summary
+  locator: 7194-7200
+  quote_or_summary: Pryderi says he will enter the castle for news of the dogs; Manawyddan
+    warns him that entering is unwise and says the castle was caused by the one who
+    cast a spell over the land; Pryderi enters anyway.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+- id: ev:9
+  type: summary
+  locator: 7202-7206
+  quote_or_summary: Inside the castle, Pryderi sees no people, animals, boar, dogs,
+    house, or dwelling, but sees a central fountain with marble work, a golden bowl
+    on a marble slab, and chains hanging from the air with no visible end.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source text; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are explicit in the passage. Motif labels
+    are candidate abstractions based on repeated craft conflict and the spell-caused
+    castle episode. No separate comparison claims were extracted because the passage
+    itself does not compare the episode to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied public-domain passage and metadata; taxonomy references limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l7114-l7206
+  passage_sha256=b8ef4d0cc32e181f076a96e370dd40679a136f0d338660ba69c8e9bee391ac4a
+

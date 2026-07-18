@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l22752-l22828
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 22752-22828
+  start: '22752'
+  end: '22828'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A stepmother sets a girl impossible tasks: emptying a pond with a holed
+    spoon and building a castle by evening. A good old woman twice sends the girl
+    to sleep and completes the tasks by touch and magical action. The stepmother inspects
+    the completed castle, kitchen, and cellar; during the cellar descent a trap-door
+    falls, and she is found lifeless below.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The stepmother gives the girl a spoon and commands her to empty the great
+    pond beside the garden by night, with an implied threat if she fails.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The spoon is full of holes, and the girl recognizes that she could not empty
+    the pond with it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The girl kneels by the water, her tears fall into it, and she begins to empty
+    it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The good old woman appears, learns why the girl is grieving, tells her to
+    lie down and sleep in the thicket, and says she will do the work.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When alone, the old woman touches the pond; vapor rises from the water into
+    the clouds, and the pond is gradually emptied, leaving fish struggling in the
+    mud.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The girl shows the stepmother that the pond task is done; the stepmother becomes
+    angry and plans something new.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On the third morning the stepmother orders the girl to build a castle on the
+    plain by evening and threatens punishment if anything is missing, even in the
+    kitchen or cellar.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In the valley, rocks are piled up, and the girl cannot move even the smallest
+    one; she sits and weeps while hoping the old woman will help.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The old woman comes, comforts the girl, tells her to sleep in the shade, and
+    says she will build the castle and that the girl may live in it if she wishes.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The old woman touches the gray rocks, which rise and move together; walls,
+    pillars, and tiles assemble as if by giant or invisible labor.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The castle is completed with a tower weather-cock like a golden figure of
+    the Virgin, silk and velvet rooms, furniture, chandeliers, birds in gilt cages,
+    red-clothed steps, golden balustrade, flowering trees, and dazzling lights.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The girl reports that the castle is ready, and the stepmother moves to inspect
+    it; the brightness forces the stepmother to shield her eyes.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The stepmother examines the rooms for defects, finds nothing missing, and
+    proceeds to inspect the kitchen and cellar while threatening punishment.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The kitchen has a burning hearth fire, cooking meat, tongs, shovel, brazen
+    utensils, coal-box, and water-pail, with nothing missing.
+  category: setting
+  evidence_refs:
+  - ev:10
+- id: obs:15
+  text: The stepmother raises the trap-door and descends toward the cellar; the heavy
+    trap-door falls after two steps, the girl hears a scream, and the stepmother is
+    found lifeless at the bottom.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: the girl / maiden
+  description: A girl ordered by her stepmother to perform impossible labors; she
+    weeps, receives help from the old woman, reports the finished tasks, and tries
+    to aid the stepmother after hearing a scream.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: the stepmother
+  description: The girl’s stepmother, who assigns impossible tasks, threatens punishment,
+    inspects the completed castle and kitchen, descends toward the cellar, and is
+    found lifeless below.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: the good old woman
+  description: An old woman who appears when the girl grieves, comforts her, sends
+    her to sleep, and completes the pond and castle tasks by touching the pond and
+    rocks.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: persecuted task-doer
+  assigned_to:
+  - fig:1
+  basis: The girl is commanded to perform tasks that she cannot complete by ordinary
+    means and is threatened with consequences if she fails.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: hostile task-setter
+  assigned_to:
+  - fig:2
+  basis: The stepmother orders the pond and castle tasks and repeatedly threatens
+    punishment.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+- id: role:3
+  label: malicious examiner
+  assigned_to:
+  - fig:2
+  basis: The stepmother searches the castle, kitchen, and cellar for anything missing
+    or defective while looking at the girl with malicious eyes.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:4
+  label: recipient of magical assistance
+  assigned_to:
+  - fig:1
+  basis: The old woman tells the girl to sleep and completes the tasks for her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:5
+  label: victim of fatal cellar fall
+  assigned_to:
+  - fig:2
+  basis: The stepmother descends through the trap-door, falls, and is found lifeless
+    at the bottom.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: supernatural helper
+  assigned_to:
+  - fig:3
+  basis: The old woman appears at moments of distress and performs otherwise impossible
+    works by simple touch and unexplained means.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: holed spoon
+  literal_form: A spoon full of holes used as the required implement for emptying
+    the pond.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: great pond / water
+  literal_form: The great pond beside the garden whose water is to be emptied and
+    later rises as vapor into the clouds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: gray rocks
+  literal_form: Piled gray rocks in the valley that rise and move together after the
+    old woman touches them.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: magically built castle
+  literal_form: A castle assembled by moving rocks and invisible or autonomous labor,
+    richly furnished and dazzlingly bright.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: golden Virgin weather-cock
+  literal_form: A weather-cock on the castle tower described as like a golden figure
+    of the Virgin with fluttering garments.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: hearth fire
+  literal_form: A fire burning on the kitchen hearth while meat cooks in the pans.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: trap-door and cellar
+  literal_form: A heavy trap-door leading downward to the cellar; it falls as the
+    stepmother descends.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Emptying the pond
+  summary: The stepmother orders the girl to empty a pond with a holed spoon. The
+    girl grieves by the water, the old woman sends her to sleep, and the old woman
+    empties the pond by touching it so that vapor rises and fish remain in mud.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Building the castle
+  summary: The stepmother commands the girl to build a castle by evening. In the valley
+    of immovable rocks, the girl weeps; the old woman comforts her and then causes
+    the rocks, walls, pillars, tiles, and furnishings to assemble into a splendid
+    castle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Inspection and cellar death
+  summary: The stepmother enters the completed castle, inspects rooms and kitchen
+    for defects, threatens the girl over the cellar, descends through the trap-door,
+    and is found lifeless after the door falls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: impossible task with defective implement
+  taxonomy_refs:
+  - initiation
+  basis: The girl is ordered to empty a great pond by night using a spoon full of
+    holes, a task she cannot accomplish by ordinary means.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the task as hostile persecution rather than an explicit
+    rite of initiation; the taxonomy link is functional and tentative.
+- id: motif:2
+  label: supernatural helper completes impossible labor
+  taxonomy_refs: []
+  basis: The old woman appears when the girl is distressed, sends her to sleep, and
+    completes both the pond-emptying and castle-building tasks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The old woman’s identity and source of power are not explained in the
+    passage.
+- id: motif:3
+  label: magical alteration of natural elements by touch
+  taxonomy_refs: []
+  basis: A touch from the old woman makes pond water rise as vapor and later makes
+    rocks rise, move together, and become a castle.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage describes the effects but does not provide a cosmological
+    explanation.
+- id: motif:4
+  label: magically constructed splendid dwelling
+  taxonomy_refs: []
+  basis: The castle is formed from rocks and completed with elaborate rooms, furnishings,
+    lights, birds, tower, and ornamentation before evening.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage likens the magnificence to a king’s dwelling but does not
+    state royal succession or legitimacy.
+- id: motif:5
+  label: persecutor destroyed during malicious inspection
+  taxonomy_refs: []
+  basis: The stepmother searches for omissions to justify punishment, then dies after
+    descending toward the cellar through the trap-door.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage narrates the death as a trap-door fall and does not explicitly
+    label it as divine or moral judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22752-22756
+  quote_or_summary: The stepmother gives the girl a spoon, commands her to empty the
+    great pond by night, and the girl sees the spoon is full of holes.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 22757-22761
+  quote_or_summary: The girl kneels by the water with tears falling into it; the good
+    old woman appears, comforts her, and tells her to sleep while she does the work.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 22762-22765
+  quote_or_summary: The old woman touches the pond; vapor rises from the water to
+    the clouds, the pond empties, and fish are left struggling in mud.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 22766-22768
+  quote_or_summary: The girl shows the completed pond task; the stepmother says it
+    should have been done sooner, grows angry, and plans something new.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 22770-22777
+  quote_or_summary: On the third morning the stepmother orders the girl to build a
+    castle by evening, says she will take possession of it, and threatens punishment
+    if anything is missing.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 22778-22783
+  quote_or_summary: The girl finds piled rocks she cannot move, sits weeping, hopes
+    for the old woman, and the old woman comes, comforts her, and tells her to sleep
+    while she builds the castle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 22784-22792
+  quote_or_summary: The old woman touches the gray rocks; they rise and move together,
+    walls and building arise, and pillars and roof tiles arrange themselves.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 22793-22808
+  quote_or_summary: The castle is completed with a golden Virgin-like weather-cock,
+    silk and velvet rooms, rich furniture, chandeliers, birds, great magnificence,
+    dazzling lights, red-clothed steps, golden balustrade, and flowering trees.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 22809-22818
+  quote_or_summary: The girl tells the stepmother the castle is ready; the stepmother
+    enters, is dazzled, calls the task easy, examines the rooms, and finds no defect.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 22819-22822
+  quote_or_summary: The stepmother says the kitchen and cellar must be examined; the
+    kitchen contains the required fire, cooking meat, tools, utensils, coal-box, and
+    water-pail.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 22823-22828
+  quote_or_summary: The stepmother demands the cellar, raises the trap-door, descends,
+    the heavy door falls, the girl hears a scream and lifts it, and the stepmother
+    lies lifeless at the bottom.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    the only motif-family taxonomy assignment is tentative. No comparison claims were
+    generated because the passage itself does not make an explicit cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata identifies the text as public domain and English translation. Literal observations, roles, symbols, scenes, and motifs are separated from interpretation where possible.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l22752-l22828
+  passage_sha256=72410ba80b395f0590fa92bba8b1856b6d280ec5522cba37651cbaa1def81d5e
+

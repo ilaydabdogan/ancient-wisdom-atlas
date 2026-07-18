@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l5881-l5905
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE BOAT (UMIAQ). / THE SLEDGE AND DOGS. / HABITATIONS AND DRESS. / THE HOUSE.;
+    lines 5881-5905
+  start: '5881'
+  end: '5905'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes documentary references and several tent forms: conical
+    tents, spring skin-roof tents, winterized summer tents with shrubs, extra skin
+    covers and snow vaults, and joined family tents connected by a whale-rib passage.
+    It notes that plans of feasting houses are given elsewhere.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that he could not find a description of the tent of the
+    Hudson Bay Eskimo, but notes illustrations of Netchillirmiut tents in Klutschak
+    and Ross.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some illustrated Netchillirmiut tents are described as conical tents like
+    those used by eastern tribes before enough skins for a large tent are available.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another tent drawn by Klutschak is described as similar to the Iglulik tent;
+    its entrance is formed by two converging poles, and a rope runs over the ridge
+    and is tied to a rock.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Small spring tents are made from a few converging poles forming a cone and
+    are covered with a skin roof.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some families winterize a summer tent by covering it with shrubs and adding
+    a second skin cover instead of building snow or stone houses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Snow vaults are built in front of the winterized tent to protect the interior
+    from cold.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In some instances several families join their tents, remove the adjoining
+    covers, and use a whale rib to create a passage from one room to another.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage refers readers elsewhere for plans of feasting houses.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hudson Bay Eskimo
+  description: Named group for whom the author says he could not find a tent description.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Netchillirmiut
+  description: Named group whose tents are represented in illustrations by Klutschak
+    and Ross.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: eastern tribes
+  description: Groups said to use conical tents before obtaining enough skins for
+    a large tent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Iglulik
+  description: Named group whose tent form is used as a comparison for one tent drawn
+    by Klutschak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: some families / several families
+  description: Families described as winterizing summer tents and, in some instances,
+    joining their tents together.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: reference group in tent description or comparison
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The passage names these groups while discussing available tent descriptions,
+    illustrations, or comparative tent forms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: users of conical interim tents
+  assigned_to:
+  - fig:3
+  basis: The passage says conical tents are used by the eastern tribes before enough
+    skins for a large tent can be procured.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: families modifying or joining tents
+  assigned_to:
+  - fig:5
+  basis: The passage describes families covering summer tents for winter and sometimes
+    joining tents to form connected rooms.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: conical tent
+  literal_form: A few converging poles forming a cone, covered by a skin roof or represented
+    as a conical tent form.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: winterized summer tent covering
+  literal_form: A summer tent covered with shrubs and a second skin cover for winter
+    use.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: snow vaults
+  literal_form: Snow vaults built in front of a tent to protect the interior from
+    cold.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: whale rib passage support
+  literal_form: A whale rib placed where tent covers are removed, affording passage
+    between joined rooms.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ridge rope tied to rock
+  literal_form: A rope running over a tent ridge and tied to a rock.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: survey of documented tent forms
+  summary: The passage reviews missing and available documentation for Hudson Bay
+    Eskimo and Netchillirmiut tents and compares one illustrated tent with an Iglulik
+    form.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: spring conical tent construction
+  summary: Small spring tents are described as cone-shaped structures made from converging
+    poles and covered with skin.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: winterizing a summer tent
+  summary: Some families use a summer tent in winter by adding shrubs, a second skin
+    cover, and snow vaults in front.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: joining family tents
+  summary: Several families may join tents; adjoining covers are removed and replaced
+    by a whale rib to make a passage between rooms.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal tent adaptation
+  taxonomy_refs: []
+  basis: The passage distinguishes spring conical tents from winterized summer tents
+    covered with shrubs, extra skin, and snow vaults.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic material-culture pattern, not a mythic narrative
+    motif; no available taxonomy motif is directly applied.
+- id: motif:2
+  label: conical temporary shelter
+  taxonomy_refs: []
+  basis: Conical tents are described both in comparative illustrations and as spring
+    tents made of converging poles with a skin roof.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a structural description only and does not state symbolic
+    meaning.
+- id: motif:3
+  label: connected household tents with shared passage
+  taxonomy_refs: []
+  basis: Several families sometimes join tents and create a passage between rooms
+    with a whale rib.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage describes a practical dwelling arrangement; symbolic or ritual
+    meaning is not stated.
+comparison_claims:
+- id: claim:1
+  claim: The conical tents illustrated for the Netchillirmiut are presented as the
+    same kind as conical tents used by eastern tribes before enough skins for a large
+    tent are procured.
+  claim_level: visual_similarity
+  target: eastern tribes' conical interim tent form
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the author's description of illustrations
+    and does not provide detailed measurements or construction data.
+- id: claim:2
+  claim: One tent drawn by Klutschak is described as similar to the Iglulik tent form.
+  claim_level: visual_similarity
+  target: Iglulik tent form
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage notes that the arrangement of poles in the back part of
+    the drawn tent is invisible, limiting the comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5881-5887
+  quote_or_summary: The author reports no found description for the Hudson Bay Eskimo
+    tent, cites illustrations of Netchillirmiut tents in Klutschak and Ross, and describes
+    some as conical tents like those used by eastern tribes before enough skins for
+    a large tent are obtained.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5888-5890
+  quote_or_summary: Another Klutschak tent is said to be similar to the Iglulik one;
+    its entrance has two converging poles and a ridge rope tied to a rock.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5892-5894
+  quote_or_summary: Small spring tents are made of converging poles forming a cone
+    and covered with a skin roof.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5895-5898
+  quote_or_summary: Some families cover summer tents with shrubs and a second skin
+    cover for winter, and build snow vaults in front to keep out cold.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5899-5901
+  quote_or_summary: Several families may join tents; the covers are removed where
+    the tents adjoin and replaced by a whale rib, making a passage between rooms.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5903-5905
+  quote_or_summary: The author states that plans of feasting houses are found elsewhere
+    in the work.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal material-culture descriptions and internal comparisons are clear.
+    Motif status is limited because the passage is ethnographic and architectural
+    rather than mythic or narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological taxonomy refs were applied; available symbol refs such as cave, fire, water, tree, serpent, milk, and mountain are not directly present in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l5881-l5905
+  passage_sha256=bcb0f2818f7c9f2c243470a28d044455ec3007555199b979229a993fa7d8958b
+

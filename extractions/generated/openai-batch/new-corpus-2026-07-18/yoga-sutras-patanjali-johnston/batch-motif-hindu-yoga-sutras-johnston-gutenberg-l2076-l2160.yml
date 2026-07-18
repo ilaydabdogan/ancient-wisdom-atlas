@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.hindu-yoga-sutras-johnston-gutenberg-l2076-l2160
+source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+passage_locator:
+  label: INTRODUCTION TO BOOK II / BOOK II / INTRODUCTION TO BOOK III / BOOK III;
+    lines 2076-2160
+  start: '2076'
+  end: '2160'
+  translation: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains several Yoga Sutras in which perfectly concentrated
+    meditation on the sun, moon, fixed pole-star, lower trunk center, and throat center
+    yields specific knowledge or bodily mastery. The commentary interprets these objects
+    both cosmologically and inwardly: the sun as Soul, the moon as analytic mind,
+    the pole-star as eternal spirit, and the lower bodily center as a site for understanding
+    and redirecting creative force toward the spiritual man. It concludes that spiritual
+    vision, aspiration, sacrifice, and new birth from above cure spiritual blindness
+    and enable mastery of bodily powers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Perfectly concentrated meditation on the sun is said to bring knowledge of
+    the worlds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says the sun can be understood as the physical sun and also
+    as the Soul; knowledge of the Soul brings knowledge of the realms of life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Perfectly concentrated meditation on the moon is said to bring knowledge of
+    the lunar mansions; the commentary also says the moon symbolizes the analytic
+    mind with divided realms.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Perfectly concentrated meditation on the fixed pole-star is said to bring
+    knowledge of the motions of the stars.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fixed pole-star is described both as the star toward which the earth's
+    axis points and as the eternal spirit about which all things move.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Perfectly concentrated meditation on the center of force in the lower trunk
+    is said to bring understanding of the order of the bodily powers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary describes the spiritual man's attainment of full self-consciousness
+    and awakening behind and above the natural man.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentary says the creative power of the spiritual man, when embodied
+    in the natural man, becomes the power of generation and contributes to bodily
+    race-continuance and personal life.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The creative force is described as rising through the body's life-channels
+    and, later, being drawn off to build the body of the spiritual man.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Meditation on this force is said to provide insight and control, directing
+    the force to the body of the spiritual man and withdrawing it from the body of
+    the natural man so that purity replaces passion.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Spiritual blindness and ignorance are said to close channels through which
+    creative force could flow into the body of the spiritual man.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage names spiritual vision, spiritual aspiration, sacrifice, and the
+    new birth from above as the cure for blindness, misery, and shame.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Perfectly concentrated meditation on the center of force in the well of the
+    throat is said to bring cessation of hunger and thirst.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: spiritual man
+  description: The inward spiritual being described as attaining full self-consciousness,
+    awakening behind and above the natural man, and receiving redirected creative
+    force for the building of its body.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: natural man
+  description: The embodied personal or physical aspect in which the creative power
+    appears as generation and from which the force may be gradually withdrawn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: awakened spiritual self
+  assigned_to:
+  - fig:1
+  basis: The passage describes the spiritual man's awakening to full self-consciousness
+    behind and above the natural man.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: embodied natural self
+  assigned_to:
+  - fig:2
+  basis: The passage describes the natural man as the embodied level where creative
+    power becomes generation and supports the dominance of personal physical life.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: recipient of redirected creative force
+  assigned_to:
+  - fig:1
+  basis: The creative force is said to be directed toward the body of the spiritual
+    man, building an immortal vesture.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon
+  literal_form: moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lunar mansions
+  literal_form: mansions of the stars through which the moon passes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fixed pole-star
+  literal_form: fixed pole-star / polestar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lower trunk center of force
+  literal_form: center of force in the lower trunk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: creative force
+  literal_form: creative power or force linked with generation and spiritual body-building
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: life-channels
+  literal_form: channels through which creative force rises or could flow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:8
+  label: immortal vesture
+  literal_form: body or vesture of the spiritual man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: light
+  literal_form: light sought through sacrifice and aspiration
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: throat center of force
+  literal_form: center of force in the well of the throat
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sun meditation and knowledge of worlds
+  summary: Meditation on the sun yields knowledge of the worlds; the commentary expands
+    this to include knowledge of stars and an inward knowledge of the Soul and realms
+    of life.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moon meditation and lunar mansions
+  summary: Meditation on the moon yields knowledge of lunar mansions; the moon is
+    also interpreted as the analytic mind with divided realms.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pole-star meditation and cosmic motion
+  summary: Meditation on the fixed pole-star yields knowledge of the motions of the
+    stars; the pole-star is described as both an astronomical axis-marker and a sign
+    of the eternal spirit about which all things move.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lower trunk meditation and redirection of creative force
+  summary: Meditation on the lower trunk center reveals bodily powers and leads to
+    insight and control over the creative force, which is redirected from the natural
+    man toward the spiritual man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Spiritual cure for blindness
+  summary: The commentary says spiritual blindness closes channels and is cured through
+    spiritual vision, aspiration, sacrifice, new birth from above, and seeking the
+    light.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Throat meditation and cessation of hunger and thirst
+  summary: Meditation on the force-center in the well of the throat brings cessation
+    of hunger and thirst.
+  figure_refs: []
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: meditation grants cosmic and inward knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Meditation on the sun, moon, and pole-star is repeatedly said to yield knowledge
+    of worlds, lunar mansions, star motions, and inward realities such as Soul and
+    analytic mind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a philosophical-yogic exposition rather than a mythic narrative.
+- id: motif:2
+  label: cosmic center or axis as point of knowledge
+  taxonomy_refs:
+  - world_center
+  basis: The fixed pole-star is described as the star toward which the earth's axis
+    points and as the eternal spirit about which all things move; meditation on it
+    yields knowledge of stellar motions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the pole-star through yogic meditation and commentary,
+    not as a developed myth of a world center.
+- id: motif:3
+  label: ascent of consciousness into the spiritual world
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: Meditation on the creative force is said to begin with the rising of consciousness
+    into the spiritual world, giving a vantage point for further insight and control.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The ascent is described as contemplative and interior, with no external
+    journey episode.
+- id: motif:4
+  label: spiritual rebirth through vision, aspiration, and sacrifice
+  taxonomy_refs:
+  - death_rebirth
+  - sacrifice
+  - initiation
+  basis: The passage says the cure for spiritual blindness is spiritual vision, aspiration,
+    sacrifice, and the new birth from above.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The text names new birth and sacrifice directly, but does not narrate
+    a death-and-return episode.
+- id: motif:5
+  label: transmutation of generative force into spiritual embodiment
+  taxonomy_refs:
+  - mystical_quest
+  - initiation
+  basis: The creative force associated with generation is redirected from the natural
+    man toward the body of the spiritual man, building an immortal vesture and replacing
+    passion with purity.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Available taxonomy does not include a specific category for yogic sublimation
+    or bodily transmutation; assigned motif family refs are approximate.
+- id: motif:6
+  label: ascetic mastery over hunger and thirst
+  taxonomy_refs: []
+  basis: Meditation on the force-center in the well of the throat is said to cause
+    cessation of hunger and thirst.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this bodily-siddhi pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2076-2083
+  quote_or_summary: Meditation on the sun brings knowledge of the worlds; the commentary
+    treats the sun as both physical sun and Soul, through which realms of life are
+    known.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2085-2093
+  quote_or_summary: Meditation on the moon brings knowledge of lunar mansions; the
+    moon is also described as symbolizing the analytic mind and its divided realms.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2095-2109
+  quote_or_summary: Meditation on the fixed pole-star brings knowledge of stellar
+    motions; the commentary links the pole-star with the earth's axis and with the
+    eternal spirit about which all things move.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2111-2112
+  quote_or_summary: Meditation on the center of force in the lower trunk brings understanding
+    of the order of the bodily powers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2114-2132
+  quote_or_summary: The commentary describes the spiritual man's awakening behind
+    and above the natural man; creative power becomes generation in the natural man
+    and sustains bodily and personal life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2134-2144
+  quote_or_summary: Meditation on the creative force begins with rising consciousness
+    into the spiritual world and then yields insight and control, directing the force
+    toward the body of the spiritual man and away from the natural man.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2145-2156
+  quote_or_summary: Spiritual blindness closes channels through which creative force
+    could build an immortal vesture; spiritual vision, aspiration, sacrifice, new
+    birth from above, and seeking the light are given as the cure and path to mastery.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 2158-2160
+  quote_or_summary: Meditation on the center of force in the well of the throat brings
+    cessation of hunger and thirst.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the provided English passage.
+    Motif-family assignments are more tentative because the passage is a yogic philosophical
+    commentary rather than a myth narrative; no comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied motif families; no supplied symbol taxonomy terms directly matched the passage symbols.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:hindu-yoga-sutras-johnston-gutenberg__l2076-l2160
+  passage_sha256=80d648b4e0d3bc248dd958855ee845896d1fa33f59c034b93526d0c77403c2ba
+

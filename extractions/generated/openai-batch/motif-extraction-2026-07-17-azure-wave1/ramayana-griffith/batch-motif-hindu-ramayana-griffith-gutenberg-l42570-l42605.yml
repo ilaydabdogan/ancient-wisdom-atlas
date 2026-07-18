@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l42570-l42605
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXVIII. The Rains. / Canto XXXI. The Envoy. / Canto XXXVII. The Gathering.
+    / Canto XL. The Army Of The East.; lines 42570-42605
+  start: '42570'
+  end: '42605'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“O search for my lost Sítá, strive / To find her if she still survive”"
+  summary: A Vánar king reviews the assembled Vánar hosts and offers their obedience
+    to Rāma. Rāma embraces the Vánar monarch, asks him to search for lost Sītā and
+    locate Rāvaṇ, and declares that the Vánar sovereign must now be their hope and
+    leader.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A king reviews the Vánars’ countless multitude after his command has been
+    fulfilled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king says the Vánar hosts are gathered under his sovereign authority and
+    will serve Rāma at his call.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: The Vánar chiefs are described as strong as Indra, fierce as Daityas or Dānavas,
+    tireless, and able to go where they wish.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Vánars are described as wandering freely over hills, vales, and islets
+    of the distant sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rāma presses the Vánar monarch to his breast before answering him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Rāma asks the Vánar monarch to search for lost Sītā, determine whether she
+    still survives, and trace Rāvaṇ to his dwelling-place.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rāma says that once Sītā’s location and the foe’s location are known, he and
+    the Vánar monarch will devise means to end the enterprise.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rāma says that neither he nor Lakshmaṇ can guide them in the doubtful hour,
+    and that the Vánar sovereign must be their hope and leader.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vánar monarch / king
+  description: The king who reviews the Vánar multitude, speaks to Rāma, is embraced
+    by Rāma, and is addressed as sovereign of the Vánars.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Rāma / Raghu’s mighty son
+  description: The addressed son of Raghu; recipient of the Vánar host’s service;
+    speaker who requests the search for Sītā and Rāvaṇ.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Vánar hosts, chiefs, and armies
+  description: Countless Vánars gathered in hosts and myriads, led by powerful chiefs,
+    ready to obey Rāma’s mandates.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Sītā
+  description: Rāma’s lost Sītā, to be sought and found if she still survives.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Rāvaṇ
+  description: Fierce Rāvaṇ, the foe whose dwelling-place is to be traced.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Lakshmaṇ
+  description: Named by Rāma as one whose power, like Rāma’s own, is not sufficient
+    to guide them in the doubtful hour.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: gathering sovereign and army reviewer
+  assigned_to:
+  - fig:1
+  basis: The king reviews the Vánar multitude and says the hosts are gathered under
+    his sovereign might.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of service and requester of search
+  assigned_to:
+  - fig:2
+  basis: The host is offered to Rāma, and Rāma asks for Sītā and Rāvaṇ to be found.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: assembled auxiliary host
+  assigned_to:
+  - fig:3
+  basis: The Vánar myriads are gathered and said to obey Rāma’s mandates.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: lost sought figure
+  assigned_to:
+  - fig:4
+  basis: Rāma asks that lost Sītā be searched for and found if she survives.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: foe to be located
+  assigned_to:
+  - fig:5
+  basis: Rāvaṇ is called fierce and is to be traced to his dwelling-place; the foe’s
+    location is to be learned.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: designated hope and leader in uncertainty
+  assigned_to:
+  - fig:1
+  basis: Rāma says the sovereign of the Vánars must now be their hope and leader.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: self-excluded guides
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Rāma says that neither his own power nor Lakshmaṇ’s can guide them in the
+    doubtful hour.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gathered myriads
+  literal_form: The Vánar hosts gathered in countless multitude and myriads.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: hills and vales
+  literal_form: The terrain over which the Vánars wander freely.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: distant sea and islets
+  literal_form: Islets of the distant sea included in the Vánars’ range of wandering.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Rāvaṇ’s dwelling-place
+  literal_form: The dwelling-place to which fierce Rāvaṇ must be traced.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Review and mustering of the Vánar host
+  summary: The Vánar king reviews the countless host and tells Rāma that the assembled
+    Vánar myriads, led by formidable chiefs, will obey his commands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Commission to search for Sītā and locate Rāvaṇ
+  summary: Rāma embraces the Vánar monarch, asks him to search for lost Sītā and trace
+    Rāvaṇ’s dwelling-place, and declares the Vánar sovereign to be the needed leader
+    in the uncertain enterprise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mustered auxiliary army for a hero’s enterprise
+  taxonomy_refs: []
+  basis: A gathered Vánar multitude is offered to Rāma and promised to obey his commands.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage shows mustering and obedience, not the later execution of
+    the enterprise.
+- id: motif:2
+  label: Search for lost beloved and enemy’s dwelling
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Rāma asks the Vánar monarch to search for lost Sītā, learn whether she survives,
+    and trace Rāvaṇ to his dwelling-place.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt says Sītā is lost and links the search with Rāvaṇ as foe,
+    but it does not itself narrate an abduction or theft.
+- id: motif:3
+  label: Delegated leadership to a Vánar ally in a doubtful quest
+  taxonomy_refs: []
+  basis: Rāma states that neither he nor Lakshmaṇ can guide the group and that the
+    Vánar sovereign must be their hope and leader.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no specific supplied
+    taxonomy family directly matches it.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage can be compared at the functional level to a lost- or stolen-beloved
+    search pattern: Rāma asks allies to locate Sītā and the enemy associated with
+    her loss.'
+  claim_level: same_function
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt itself uses the language of loss and search; it does not
+    explicitly describe the act of stealing or abduction.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 42572-42577
+  quote_or_summary: The king reviews the Vánars’ countless multitude and says the
+    Vánar hosts are gathered under his sovereign might.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: 42578-42585
+  quote_or_summary: The chiefs are compared to Indra for strength and to Daityas or
+    Dānavas for fierceness; the hosts are described as tireless and roaming hills,
+    vales, and sea islets.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: quote
+  locator: 42586-42589
+  quote_or_summary: "“these gathered myriads, all / Will serve thee, Ráma, at thy
+    call... / Thy mandates will the host obey.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: 42591-42596
+  quote_or_summary: 'Rāma presses the Vánar monarch to his breast and says: “O search
+    for my lost Sítá... / And in thy wondrous wisdom trace / Fierce Rávaṇ to his dwelling-place.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 42597-42604
+  quote_or_summary: Rāma says that after toil and search reveal where Sītā and the
+    foe are, he and the Vánar monarch will devise means to end the enterprise; he
+    adds that the Vánar sovereign must be their hope and leader, not Rāma or Lakshmaṇ.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal scene, figures, and roles are clear. Motif mapping is cautious
+    because the passage refers to Sītā as lost but does not itself recount her abduction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to supplied refs and applied only where directly or cautiously supported.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l42570-l42605
+  passage_sha256=81f40ff6445de06caa7323babd35a3f9bae4f0c92a9a28e3a9e824e2a0c59096
+

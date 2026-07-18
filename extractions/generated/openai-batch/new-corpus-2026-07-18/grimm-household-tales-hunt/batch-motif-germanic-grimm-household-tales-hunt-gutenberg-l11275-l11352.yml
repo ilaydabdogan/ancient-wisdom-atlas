@@ -1,0 +1,499 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l11275-l11352
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 11275-11352
+  start: '11275'
+  end: '11352'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first shows Grethel eating the two roasted chickens meant for
+    her master and his guest, then deceiving the guest into fleeing by warning him
+    that the master intends to cut off his ears, and deceiving the master by claiming
+    the guest stole the chickens. The passage then gives the tale of an old grandfather
+    mistreated by his son and daughter-in-law until their young child imitates their
+    behavior by preparing a trough for them in old age, prompting them to restore
+    the grandfather to the family table.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Grethel tends roasted fowls at the fire, tastes them, eats both wings, then
+    eats one chicken and then the other while drinking from the cellar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The master returns before the guest and sharpens the great knife intended
+    for carving the chickens.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Grethel tells the arriving guest to flee because the master intends to cut
+    off his two ears.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The guest hears the sharpening and runs away.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Grethel tells her master that the guest has taken the chickens and run away
+    with them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The master runs after the guest with the knife, calling for just one chicken,
+    while the guest thinks the demand concerns one of his ears.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: An old grandfather has weak sight, poor hearing, trembling knees, difficulty
+    eating, and spills food at the table.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old grandfather is made to sit in a corner behind the stove and is given
+    too little food in an earthenware bowl; after it breaks, he is given a wooden
+    bowl.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A four-year-old grandson gathers bits of wood and says he is making a trough
+    for his father and mother to eat from when he is grown.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The father and mother cry, bring the grandfather back to the table, and thereafter
+    allow him to eat with them even if he spills food.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Grethel
+  description: A woman serving the master who tends and eats the roasted chickens
+    and then speaks separately to the guest and master.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the master
+  description: The household master expecting a guest for supper; he sharpens the
+    carving knife and later chases the guest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the guest
+  description: An invited supper guest who comes to the door, is warned by Grethel,
+    and flees.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the old grandfather
+  description: An elderly man with failing senses and trembling limbs who is first
+    excluded from the table and later restored to it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: the son / father
+  description: The old man's son, father of the small child, who initially mistreats
+    the old man and later changes his behavior.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: the son's wife / mother
+  description: The old man's daughter-in-law, mother of the small child, who initially
+    scolds or mistreats the old man and later changes her behavior.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: the little grandson
+  description: A four-year-old child who gathers wood and says he is making a trough
+    for his parents' future use.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: servant or cook
+  assigned_to:
+  - fig:1
+  basis: Grethel prepares the fowls, answers the master about serving, and handles
+    the food for supper.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deceiver
+  assigned_to:
+  - fig:1
+  basis: She invents one warning for the guest and a different explanation for the
+    master after eating the chickens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: host and pursuer
+  assigned_to:
+  - fig:2
+  basis: He expects a guest for supper, sharpens the carving knife, and runs after
+    the guest calling for one chicken.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: invited guest
+  assigned_to:
+  - fig:3
+  basis: He is expected at supper and arrives at the house-door.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: frightened fugitive
+  assigned_to:
+  - fig:3
+  basis: He accepts Grethel's warning and flees from the house and later from the
+    pursuing master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: neglected elder
+  assigned_to:
+  - fig:4
+  basis: He is separated from the table, underfed, scolded after breaking a bowl,
+    and later restored to the table.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: adults corrected by example
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Their child's statement about making a trough for them causes them to weep
+    and change how they treat the grandfather.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: child moral demonstrator
+  assigned_to:
+  - fig:7
+  basis: The grandson's wooden trough project mirrors his parents' treatment of the
+    grandfather and prompts their reversal.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: roasted chickens
+  literal_form: two roasted fowls or chickens intended for supper
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: fire and stove
+  literal_form: cooking fire for the fowls and stove near the old man's corner
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: great knife
+  literal_form: the knife sharpened by the master for carving the chickens
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: two ears
+  literal_form: the guest's two ears, described by Grethel as threatened body parts
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: finger-to-lips warning gesture
+  literal_form: Grethel puts her finger to her lips before warning the guest
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: earthenware bowl
+  literal_form: the bowl given to the grandfather, which falls and breaks
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: wooden bowl and wooden trough
+  literal_form: the wooden bowl bought for the grandfather and the trough the grandson
+    says he is making for his parents
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:8
+  label: family table
+  literal_form: the table from which the grandfather is excluded and to which he is
+    later restored
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Grethel consumes the supper
+  summary: While waiting for the master and guest, Grethel eats the wings and then
+    both chickens prepared for supper, with drinks from the cellar.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning at the house-door
+  summary: After the master returns and sharpens the knife, the guest arrives; Grethel
+    warns him that the master intends to cut off his ears, and the guest flees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: False theft and comic pursuit
+  summary: Grethel tells the master that the guest has stolen the chickens; the master
+    chases the guest with the knife asking for one chicken, but the guest interprets
+    this as a demand for one ear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Grandfather excluded from the table
+  summary: The old grandfather's frailty and spilling disgust his son and daughter-in-law,
+    so he is made to sit behind the stove with insufficient food and inferior eating
+    vessels.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Grandson's trough and restoration
+  summary: The grandson says he is making a trough for his parents to eat from when
+    he is grown; the parents weep and restore the grandfather to the family table.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: servant-trickster conceals eaten feast through deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Grethel consumes the supper and then uses separate lies to make the guest
+    flee and make the master believe the guest stole the chickens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term is broad; the passage gives a comic household
+    deception rather than an explicitly mythic boundary-crossing episode.
+- id: motif:2
+  label: misinterpreted threat causes flight
+  taxonomy_refs: []
+  basis: The guest interprets the sharpening knife and the master's cry of 'just one'
+    as signs that one of his ears will be taken, while the master means one chicken.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local comic pattern in the passage; no external motif index
+    identifier is supplied.
+- id: motif:3
+  label: child's example teaches adults to honor an elder
+  taxonomy_refs:
+  - wisdom
+  basis: The grandson's statement about preparing a trough for his parents causes
+    them to recognize their treatment of the grandfather and restore him to the table.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The wisdom taxonomy reference is general; the passage frames the lesson
+    through family behavior rather than explicit doctrine.
+- id: motif:4
+  label: future reciprocity within the household
+  taxonomy_refs: []
+  basis: The child's trough for his parents when he is grown mirrors the parents'
+    current treatment of the old grandfather.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage implies the pattern through the child's action and the parents'
+    reaction; no named motif family is provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11275-11300
+  quote_or_summary: Grethel tends the fowls at the fire, tastes them, eats the wings,
+    drinks from the cellar, and eats first one chicken and then the second while the
+    master is absent.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 11301-11311
+  quote_or_summary: The master returns, says the guest is coming, checks the table,
+    sharpens the great carving knife, and Grethel tells the arriving guest that the
+    master intends to cut off his two ears.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 11312-11326
+  quote_or_summary: The guest flees; Grethel claims he stole the chickens; the master
+    runs after him with the knife calling for 'just one,' meaning one chicken, while
+    the guest thinks one ear is demanded.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 11330-11339
+  quote_or_summary: The old man is frail and spills food; his son and son's wife are
+    disgusted, make him sit behind the stove with too little food in an earthenware
+    bowl, and replace it with a wooden bowl after it breaks.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 11340-11347
+  quote_or_summary: The four-year-old grandson gathers bits of wood and says he is
+    making a little trough for his father and mother to eat from when he is big.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 11348-11352
+  quote_or_summary: The man and his wife cry, bring the old grandfather back to the
+    table, always let him eat with them, and no longer object if he spills a little.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal events and figures are clear in the supplied passage. Motif family
+    mappings are cautious because the available taxonomy is broad and no external
+    motif index is supplied. No comparison claims are made because the passage itself
+    does not explicitly compare traditions or motif families beyond the extracted
+    local patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The line range contains the end of one tale and the complete short tale 'The Old Man and His Grandson'; the following heading 'The Water-Nix' has no narrative content in the supplied passage and was not extracted as a scene or figure.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l11275-l11352
+  passage_sha256=23eacc279916d3689556ad600f1a43b4dbc218a26ab76ccc2b2d3eca025d4d91
+

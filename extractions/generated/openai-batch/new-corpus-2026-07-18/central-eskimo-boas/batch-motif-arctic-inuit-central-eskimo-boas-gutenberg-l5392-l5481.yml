@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l5392-l5481
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SUNDRY IMPLEMENTS. / TRANSPORTATION BY BOATS AND SLEDGES. / THE BOAT (UMIAQ).
+    / THE SLEDGE AND DOGS.; lines 5392-5481
+  start: '5392'
+  end: '5481'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes practical handling of dog teams and sledges, including
+    discipline, stopping and steering, harness and trace hazards on rough ice, seasonal
+    care of dogs’ feet, crossing cracks in floe ice, raising and training young dogs,
+    feeding practices, self-provisioning dogs, and regional dog disease.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If a named lazy dog is to be lashed, the driver must strike that dog; striking
+    another can trigger conflict among the dogs and leader, resulting in a fighting
+    team that must be waited out before traces are cleared.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The driver places mittens and whip carefully on the sledge because the leader
+    may start the team as soon as the traces are strung, before the driver is ready.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: To stop or recover a dropped object, the driver may drive in a wide circle,
+    dig heels into the snow, stand before the sledge, and make the dogs lie down by
+    gently lashing their heads.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sledge is steered with the legs, usually the driver’s right foot, and
+    can be pulled aside by the head or by deer’s antlers when avoiding a large hummock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Two riders on a long drive are instructed not to speak to one another because
+    the dogs will stop, turn around, sit down, and listen.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The described harnessing method is defended as effective on rough ice, where
+    other arrangements would cause cross pieces to break against hummocks.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Traces can catch on projecting ice or sledge runners, pulling dogs back or
+    dragging them; the driver must lift or reposition traces, including traces caught
+    between a dog’s hind legs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Sledges are not used until ice is well covered with snow, because autumn salt
+    crystals hurt dogs’ feet; in late spring sharp ice needles require leather foot
+    coverings tied to the dogs’ legs.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Cracks in the floe are crossed by narrow snow bridges or by floating across
+    on a drifting piece of ice.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Eskimo rarely raise more than three or four young dogs at once; pups are
+    nursed, may lie on the couch or hang over the lamp in skin, and are put to the
+    sledge at about four months old.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Dogs are fed small portions every other day when food is plentiful, receive
+    seal parts in winter, eat leather when possible, and may go without food for five
+    or six days during travel.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: In some regions dogs are taken in summer to small islands where they feed
+    on beach foods; the narrator recalls two runaway dogs that lived independently
+    from April to August and returned fat.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Dog disease troubles the Arctic regions described, though it is said to be
+    unknown in Davis Strait and Aggo; team numbers and losses differ by region.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: sledge driver
+  description: The person who calls and lashes dogs, manages traces, steers, stops,
+    and stands before the sledge to make dogs lie down.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: dog team
+  description: The group of dogs that pulls the sledge, may quarrel or fight, may
+    stop to listen, and is subject to feeding, foot care, training, and disease.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: leader dog
+  description: The lead dog that joins quarrels and watches for the traces to be strung,
+    sometimes starting the team before the driver is ready.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: young dogs or pups
+  description: Young dogs that are nursed, kept warm or near people, and gradually
+    trained to pull the sledge from about four months old.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Eskimo dog owners and trainers
+  description: People in the described regions who rear limited numbers of dogs, train
+    them for sledging, feed them, and maintain dog teams of varying size.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: driver and controller of sledge team
+  assigned_to:
+  - fig:1
+  basis: The driver calls, lashes, steers, stops, and manages traces while the team
+    is moving.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: draft animal team
+  assigned_to:
+  - fig:2
+  basis: The dogs pull the sledge and are managed through harnesses, traces, discipline,
+    feeding, and foot protection.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:3
+  label: team leader
+  assigned_to:
+  - fig:3
+  basis: The leader dog affects the whole team by entering quarrels and initiating
+    starts when traces are ready.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: cared-for and trained young working animals
+  assigned_to:
+  - fig:4
+  basis: Young dogs are nursed, sheltered, then gradually accustomed to pull with
+    older dogs.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: dog keepers and trainers
+  assigned_to:
+  - fig:5
+  basis: The Eskimo are described as raising, training, feeding, relocating, and counting
+    dog teams in different regions.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: sledge
+  literal_form: dog-drawn sledge used for travel over snow and ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: whip
+  literal_form: whip used by the driver in handling the dog team
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: traces and harnesses
+  literal_form: lines and harness equipment connecting the dogs to the sledge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: deer’s antlers
+  literal_form: antlers used as a means of pulling the sledge head aside
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: leather dog foot coverings
+  literal_form: small leather pieces with holes for nails, tied to dogs’ legs in late
+    spring
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: floe cracks and crossings
+  literal_form: cracks in sea ice crossed by snow bridges or drifting ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: lamp and skin sling for pups
+  literal_form: a piece of skin hung over the lamp for young dogs in winter
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: dog food sources
+  literal_form: seal heads, entrails, bones, skins, leather objects, clams, codfish,
+    and beach foods
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: dog-team quarrel after misdirected lashing
+  summary: A driver calls out a lazy dog’s name and must hit that dog; if another
+    dog is struck, conflict spreads through the leader and pack until the driver can
+    only wait and clear the traces afterward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: starting and stopping the sledge
+  summary: The driver prepares the sledge carefully because the leader may start too
+    soon; stopping may require circling back, digging heels into snow, and positioning
+    oneself before the sledge to make dogs lie down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: steering and managing traces on rough ice
+  summary: The driver steers with feet or by pulling the sledge head aside, while
+    preventing traces from catching on ice, runners, or the dogs’ legs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: seasonal ice conditions and crossings
+  summary: Travel depends on snow-covered ice to protect dogs’ feet; in spring dogs
+    may wear leather foot coverings, and floe cracks are crossed by snow bridges or
+    drifting ice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: raising and training young dogs
+  summary: Dog owners raise only a few young dogs at once, shelter and nurse them,
+    and gradually accustom them to pulling with older dogs after about four months.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: feeding, self-provisioning, and disease
+  summary: Dogs receive limited food, feed on seal parts and sometimes leather, may
+    endure travel without food, can forage on summer islands, and are affected by
+    regional disease conditions.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: animal-drawn travel controlled through discipline and equipment management
+  taxonomy_refs: []
+  basis: The passage repeatedly describes managing a dog-drawn sledge through calls,
+    lashing, steering, stopping, harnessing, and trace correction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic transportation pattern, not a clearly mythic motif
+    in the supplied passage.
+- id: motif:2
+  label: travel across unstable ice by improvised crossings
+  taxonomy_refs: []
+  basis: The passage describes seasonal ice dangers, dog foot protection, and crossing
+    floe cracks by snow bridges or drifting ice.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents practical travel methods without symbolic or narrative
+    elaboration.
+- id: motif:3
+  label: seasonal care and hardship of working animals
+  taxonomy_refs: []
+  basis: Dogs’ feet are protected in certain ice conditions; young dogs are reared
+    and trained; adult dogs experience limited feeding, occasional fasting, foraging,
+    and disease.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The evidence supports a subsistence and animal-care pattern rather than
+    a mythological motif.
+- id: motif:4
+  label: animal agency within a working team
+  taxonomy_refs: []
+  basis: Dogs respond to being struck, the leader can start the team unexpectedly,
+    dogs stop to listen to riders, some dogs strip off harnesses, and runaway dogs
+    survive independently.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: low
+  cautions: The passage uses behavioral description; no mythic personhood or supernatural
+    agency is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5392-5402
+  quote_or_summary: A lazy dog is called by name and lashed; hitting the wrong dog
+    can cause conflict, the leader joins, and the team becomes a fighting mass until
+    their anger abates and traces can be cleared.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5402-5414
+  quote_or_summary: The driver places mittens and whip on the sledge, watches for
+    premature starting by the leader, circles back for dropped items, and stops the
+    team by digging in heels and making dogs lie down from the front of the sledge.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5415-5422
+  quote_or_summary: The sledge is steered by the legs or right foot, or pulled aside
+    by the head or deer’s antlers; two riders must not talk because dogs will stop
+    and listen.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5422-5439
+  quote_or_summary: The harnessing method is explained as suitable for rough ice;
+    traces can catch on hummocks or runners, dogs may be dragged or strip off harnesses,
+    and the driver must reposition traces to prevent injury.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5440-5447
+  quote_or_summary: Sledges are delayed until ice is snow-covered because salt crystals
+    hurt dogs’ feet; in late spring sharp ice needles lead to the use of small leather
+    foot coverings tied to the legs.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5448-5451
+  quote_or_summary: Cracks in the floe are crossed by narrow snow bridges at convenient
+    places or by floating across on drifting pieces of ice.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 5452-5460
+  quote_or_summary: The Eskimo rarely raise more than three or four dogs at once;
+    young dogs are nursed, allowed on the couch or hung over a lamp in skin, and introduced
+    to sledge work at about four months with much lashing and whipping before becoming
+    useful.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 5461-5474
+  quote_or_summary: Dogs receive small shares every other day when food is available,
+    eat seal parts and leather, may go without food for five or six days while traveling,
+    and in some regions are left on islands to feed on beach foods; two runaway dogs
+    reportedly survived independently and returned fat.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 5475-5481
+  quote_or_summary: Dog disease troubles these Arctic regions but is said to be unknown
+    in Davis Strait and Aggo; some places have six to twelve dogs per man, while Cumberland
+    Sound sometimes loses nearly all dogs in winter.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal extraction is high-confidence because the passage is descriptive
+    and concrete. Motif candidates are low-to-medium as cultural-practice patterns,
+    not explicit mythic motifs. No comparison claims are supported by the passage
+    itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family is directly supported. Available symbol taxonomy refs were not applied because the passage emphasizes ice, sledges, dogs, and equipment rather than the listed symbolic categories.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l5392-l5481
+  passage_sha256=d54d0ba4057a44f47eaef81e6d2e26cf05dca79647360ca74b8fdaad7ab1e149
+

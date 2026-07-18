@@ -1,0 +1,538 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l23300-l23386
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XVII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XVIII. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 23300-23386
+  start: '23300'
+  end: '23386'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: And they remained in their cave three hundred years, and nine years over.
+  summary: A group sleeps in a cave under divine protection, with their dog at the
+    cave mouth. They are awakened, debate how long they stayed, and send one member
+    to the city for food while fearing discovery and coercion. Their people later
+    learn of the event, dispute the matter, and propose a building or chapel over
+    them. The passage emphasizes that God best knows their number, duration, and the
+    secrets of heaven and earth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The sun is described as moving to the right and left of the cave while the
+    sleepers remain in a spacious part of it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The described arrangement in the cave is called one of the signs of God, and
+    God is said to direct or cause to err whom he wills.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sleepers would appear awake although they are sleeping, and they are made
+    to turn to the right and to the left.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Their dog stretches its forelegs at the mouth of the cave.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A sudden visitor to the cave would flee and be filled with fear at the sight
+    of them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: God awakens them, and they ask one another how long they have tarried.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Some sleepers estimate that they have tarried a day or part of a day; others
+    answer that their Lord best knows the time.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: One member is to take their money to the city, buy good and cheap food, bring
+    provision, act carefully, and avoid discovery.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The group fears that discovery will lead to stoning or being forced to return
+    to another religion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Their people are made acquainted with what happened so that they may know
+    God's promise is true and that there is no doubt of the last hour.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: People dispute concerning the sleepers and propose erecting a building over
+    them; those who prevail say they will build a chapel over them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Different reports count the sleepers as three, five, or seven, with their
+    dog as the fourth, sixth, or eighth.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The passage says God best knows their number and instructs that the matter
+    not be disputed except according to revealed knowledge.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:14
+  text: The passage instructs not to ask Christians concerning the sleepers.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: The sleepers are said to have remained in the cave three hundred years and
+    nine years over, while God best knows how long they continued there.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:16
+  text: God is said to know the secrets of heaven and earth, to be the only protector,
+    and not to share the establishment or knowledge of his decree.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the sleepers in the cave
+  description: A plural group sleeping in a cave, later awakened; their exact number
+    is disputed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: their dog
+  description: The dog stretches its forelegs at the mouth of the cave and is included
+    in disputed counts of the group.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: God
+  description: God is described as directing, causing the sleepers to turn, awakening
+    them, making the event known, and knowing their number, duration, and hidden things.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: the member sent to the city
+  description: An unnamed member of the sleepers is instructed to take money into
+    the city, buy food, and avoid discovery.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: their people and those who prevailed
+  description: The people learn of what happened, dispute concerning the sleepers,
+    and propose a building or chapel over them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Christians
+  description: A group mentioned in the instruction not to ask them concerning the
+    sleepers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: long-sleeping cave group
+  assigned_to:
+  - fig:1
+  basis: They sleep in the cave, are awakened, and are later said to have remained
+    there three hundred and nine years.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: role:2
+  label: animal companion at the cave mouth
+  assigned_to:
+  - fig:2
+  basis: The dog lies at the mouth of the cave and is included in reported counts
+    with the sleepers.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: divine agent and knower
+  assigned_to:
+  - fig:3
+  basis: God directs, causes actions, awakens the sleepers, makes the event known,
+    and knows secret matters.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:4
+  label: provision seeker
+  assigned_to:
+  - fig:4
+  basis: One member is sent with money to the city to obtain food and conceal the
+    group.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: witnessing and commemorating community
+  assigned_to:
+  - fig:5
+  basis: Their people are made acquainted with the event and debate erecting a building
+    or chapel over them.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: external group not to be consulted
+  assigned_to:
+  - fig:6
+  basis: The passage instructs not to ask Christians concerning the sleepers.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: A cave with a spacious inner part and a mouth or entrance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: sym:2
+  label: sun around the cave
+  literal_form: The sun at rising and setting declines to the right and left of the
+    cave.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dog at the threshold
+  literal_form: A dog stretching its forelegs at the mouth of the cave.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: money and food errand
+  literal_form: Money carried into the city to buy the best and cheapest food and
+    bring provision.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: building or chapel over the sleepers
+  literal_form: A building or chapel proposed over the sleepers after their people
+    learn of the event.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: three hundred and nine years
+  literal_form: The duration stated as three hundred years and nine years over.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Preserved sleep in the cave
+  summary: The sleepers remain in the spacious part of the cave while the sun passes
+    to either side; they appear awake while sleeping, turn from side to side, and
+    their dog lies at the cave mouth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Awakening and cautious food mission
+  summary: God awakens the sleepers. They debate how long they have remained there,
+    then send one member with money to buy food in the city while avoiding discovery
+    because of fear of stoning or forced religious return.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Public disclosure and memorial proposal
+  summary: Their people learn what happened so that God's promise and the last hour
+    may be known as true. During dispute about the matter, some propose a building
+    and the prevailing party proposes a chapel over them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Disputed number and divine knowledge
+  summary: Different counts of the sleepers and their dog are reported. The passage
+    says God best knows their number and duration, instructs limited dispute, tells
+    the speaker not to ask Christians about them, and states that the sleepers remained
+    in the cave three hundred and nine years.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Miraculous long sleep in a cave as a sign of the last hour
+  taxonomy_refs:
+  - resurrection
+  basis: The sleepers are awakened after a long stay in the cave, and the event is
+    explicitly linked to knowing that God's promise is true and that there is no doubt
+    of the last hour.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage describes sleep and awakening, not literal death and bodily
+    resurrection within this excerpt.
+- id: motif:2
+  label: Hidden refuge from threatened religious coercion
+  taxonomy_refs:
+  - departure
+  basis: The group acts secretly and fears stoning or being forced to return to another
+    religion if discovered; the notes also state that the dog followed them when they
+    fled to the cave.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The actual flight into the cave is supplied in the translator's note within
+    the passage range, while the main excerpt chiefly states the danger of discovery.
+- id: motif:3
+  label: Animal companion at a sacred or fearful threshold
+  taxonomy_refs: []
+  basis: The dog lies at the mouth of the cave, is associated with the sleepers, and
+    is included in the reported counts of the group.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The main passage states the dog's position and association but does not
+    explicitly interpret it as a guardian; guarding appears in the note.
+- id: motif:4
+  label: Secret number and duration known fully only to God
+  taxonomy_refs:
+  - wisdom
+  basis: The passage reports competing numbers for the sleepers and states that God
+    best knows their number and the length of their stay, while also saying that God
+    knows the secrets of heaven and earth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The wisdom classification is based on divine knowledge and human limits,
+    not on a named wisdom figure.
+- id: motif:5
+  label: Memorial building over revealed holy sleepers
+  taxonomy_refs: []
+  basis: After people learn what happened, they dispute the matter and propose erecting
+    a building or chapel over the sleepers.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage records the proposal but does not describe the completed construction.
+comparison_claims:
+- id: claim:1
+  claim: The awakening after long sleep functions in the passage as evidence for God's
+    promise and the last hour, aligning it functionally with the resurrection motif
+    family.
+  claim_level: same_function
+  target: resurrection / last-hour proof motif family
+  evidence_refs:
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The episode is explicitly about sleep, so the comparison is functional
+    rather than a claim that the sleepers die and are resurrected in this excerpt.
+- id: claim:2
+  claim: The passage and notes place the cave-sleepers episode in relation to a Seven
+    Sleepers tradition associated with Christians, but the excerpt does not provide
+    an independent parallel narrative.
+  claim_level: same_motif
+  target: Christian-associated Seven Sleepers tradition
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This relies on the translator's notes and the instruction not to ask
+    Christians; no separate Christian text is included in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23300-23306
+  quote_or_summary: The sun is described as declining to the right and left of the
+    cave while the sleepers remain in its spacious part; this is called one of God's
+    signs, with God directing or causing to err whom he wills.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:2
+  type: summary
+  locator: lines 23307-23313
+  quote_or_summary: The sleepers would seem awake while sleeping; they are caused
+    to turn right and left; their dog stretches its forelegs at the cave mouth; a
+    sudden viewer would flee in fear.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:3
+  type: summary
+  locator: lines 23314-23321
+  quote_or_summary: God awakens the sleepers; they ask how long they have tarried,
+    estimate a day or part of a day, say the Lord knows best, and send one member
+    with money to the city for food and provision while acting discreetly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:4
+  type: summary
+  locator: lines 23322-23324
+  quote_or_summary: The sleepers warn that if others come upon them, they may be stoned
+    or forced to return to the others' religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:5
+  type: summary
+  locator: lines 23326-23355, translator notes x-e
+  quote_or_summary: The notes explain the cave's orientation and the sleepers' open-eyed
+    appearance and turning; a note says the dog followed them when they fled to the
+    cave, includes a report that the dog spoke and offered to guard them, and mentions
+    the 'dog of the seven sleepers.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary of notes.
+- id: ev:6
+  type: summary
+  locator: lines 23360-23366
+  quote_or_summary: God makes their people acquainted with what happened so they may
+    know God's promise is true and there is no doubt of the last hour; people dispute
+    and propose a building, and those who prevail say they will build a chapel over
+    them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:7
+  type: summary
+  locator: lines 23367-23372
+  quote_or_summary: Reports say the sleepers were three with the dog fourth, five
+    with the dog sixth, or seven with the dog eighth; the passage says God best knows
+    their number.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:8
+  type: summary
+  locator: lines 23373-23378
+  quote_or_summary: The passage instructs not to dispute concerning them except with
+    clear revealed disputation, not to ask Christians about them, and to say 'If God
+    please' regarding future action.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short summary.
+- id: ev:9
+  type: quote
+  locator: lines 23379-23386
+  quote_or_summary: '"And they remained in their cave three hundred years, and nine
+    years over." The passage adds that God best knows how long they continued and
+    knows the secrets of heaven and earth.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied range. Motif labels involving
+    resurrection, departure, and Seven Sleepers comparison require review because
+    they depend on functional interpretation or translator notes within the passage
+    range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references. Translator notes were treated as within-range evidence but kept distinct from the main narrative where relevant.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l23300-l23386
+  passage_sha256=a659be9a3907af94c2643cb727c7361279d8c02fd44340a2186334430fac4117
+

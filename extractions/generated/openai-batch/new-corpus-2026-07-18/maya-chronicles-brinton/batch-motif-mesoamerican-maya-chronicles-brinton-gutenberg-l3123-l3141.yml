@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l3123-l3141
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: TEXT. / TRANSLATION. / NOTES. / CORPORATION OF VALLADOLID--YEAR 1618.; lines
+    3123-3141
+  start: '3123'
+  end: '3141'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“under the trees, under the branches, under the foliage”"
+  summary: The note discusses the probable form of the name Chakan peten, then explains
+    the recurring Maya expression yalan che, yalan aban, yalan ak as a formula meaning
+    life without house or settled shelter. It also notes that the expression occurs
+    in a prophetic chant in a Book of Chilan Balam.
+  language: English with Yucatec Maya terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The name is described as probably having the correct form Chakan peten, glossed
+    as the savanna region.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The expression yalan che, yalan aban, yalan ak is described as obscure in
+    this section and as recurring often in ancient Maya manuscripts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The expression is characterized by the editor as probably a well-known formula
+    or refrain of an ancient chant.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The expression is literally glossed as being under trees, branches, and foliage.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that people described by this formula were homeless and houseless.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the same expression occurs in a prophetic chant in one of
+    the Books of Chilan Balam.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Those who lived under trees, branches, and foliage
+  description: An unnamed group described through the formula as homeless and houseless.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mayas
+  description: The passage says the formula testifies to the Mayas' love of solid
+    buildings and walled cities.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: homeless or houseless people
+  assigned_to:
+  - fig:1
+  basis: The formula is said to mean that those living under trees, branches, and
+    foliage were homeless and houseless.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: people associated with solid buildings and walled cities
+  assigned_to:
+  - fig:2
+  basis: The note says the formula is testimony to the Mayas' love of solid buildings
+    and walled cities.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: trees, branches, and foliage
+  literal_form: yalan che, yalan aban, yalan ak; under the trees, under the branches,
+    under the foliage
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: solid buildings and walled cities
+  literal_form: solid buildings and walled cities
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanation of a recurrent formula
+  summary: The note explains a recurrent Maya expression by translating it literally
+    as under trees, branches, and foliage and by glossing it as a description of homelessness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Contrast with Maya built settlement
+  summary: The editor interprets the homelessness formula as evidence for the Mayas'
+    preference for solid buildings and walled cities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Reference to a Chilan Balam prophetic chant
+  summary: The passage introduces a verse from a prophetic chant in one of the Books
+    of Chilan Balam where the same expression occurs.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: homelessness under vegetal cover
+  taxonomy_refs: []
+  basis: The recurrent formula is literally glossed as being under trees, branches,
+    and foliage and is said to mean that those so described were homeless and houseless.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an editorial philological note rather than a full narrative
+    episode; the motif is inferred from the explained formula only.
+- id: motif:2
+  label: recurring chant formula
+  taxonomy_refs: []
+  basis: The expression is said to recur in ancient Maya manuscripts and is characterized
+    as probably a well-known formula or refrain of an ancient chant.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not provide the full chant verse, only an editorial statement
+    that the expression occurs there.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious linguistic comparison between the expression
+    in this section and the same or similar formula in ancient Maya manuscripts and
+    a prophetic chant from a Book of Chilan Balam.
+  claim_level: linguistic_similarity
+  target: ancient Maya manuscripts and a prophetic chant in one of the Books of Chilan
+    Balam
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports recurrence and a planned example but does not include
+    the full parallel verse within this line range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3123-3124
+  quote_or_summary: The note says the correct form of the name is probably Chakan
+    peten, the savanna region.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 3125-3129
+  quote_or_summary: The expression yalan che, yalan aban, yalan ak is described as
+    obscure here, as recurring in ancient Maya manuscripts, and as probably a well-known
+    formula or refrain of an ancient chant.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 3130-3138
+  quote_or_summary: The phrase is glossed as “under the trees, under the branches,
+    under the foliage,” and is said to mean that those so living were homeless and
+    houseless; the note contrasts this with Maya love of solid buildings and walled
+    cities.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short quotation used for exact formula.
+- id: ev:4
+  type: summary
+  locator: lines 3139-3141
+  quote_or_summary: The editor says he will add a verse from a prophetic chant in
+    one of the Books of Chilan Balam where this expression occurs.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is mainly a translation note and not a narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned. The available symbol taxonomy supports only the tree reference for the vegetal-cover formula.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l3123-l3141
+  passage_sha256=d58810c9e30df56259b602bf5388ae5adab159f01d4e60ccf8fb0e1bcd54ee52
+

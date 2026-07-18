@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l3077-l3179
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: CONFUCIUS ON HIMSELF / MISCELLANEOUS SAYINGS / PERSONALIA / CONFUCIUS AS
+    SEEN BY OTHERS; lines 3077-3179
+  start: '3077'
+  end: '3179'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Confucius is proof against detraction.
+  summary: Shu-sun Wu-shu claims or implies that Tz Kung is greater than Confucius.
+    Tz Kung answers with images of walls, a hidden temple, mountains, and the sun
+    and moon to argue that Confucius' greatness is harder to perceive and cannot be
+    harmed by disparagement.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Shu-sun Wu-shu tells ministers at Court that Tz Kung is a greater sage than
+    Confucius.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tz-fu Ching-po repeats Shu-sun Wu-shu's statement to Tz Kung.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tz Kung describes his own wall as shoulder-high, allowing anyone to see the
+    excellent building within.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tz Kung describes his Master's wall as many fathoms high, with a gate that
+    must be found before the temple, beauties, and officiating priests' rich apparel
+    can be seen.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Tz Kung says only a few may succeed in finding the gate.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Shu-sun Wu-shu is described as disparaging Confucius.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tz Kung says Confucius is proof against detraction.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Tz Kung compares the wisdom of other men to hills and mountain-peaks that
+    can be scaled.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Tz Kung compares Confucius to the sun or the moon, which cannot be reached
+    by human foot.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Tz Kung says a person may cut himself off from the light of the sun or moon,
+    but this harms neither the sun nor the moon.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: A note identifies Shu-sun Wu-shu as a leading member of one of the three great
+    families in the Lu State.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: A note identifies Tz-fu Ching-po as a high official.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Shu-sun Wu-shu
+  description: A speaker at Court who says Tz Kung is a greater sage than Confucius
+    and later is described as disparaging Confucius; a note identifies him as a leading
+    member of one of the three great families in Lu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Tz Kung
+  description: The person praised above Confucius by Shu-sun Wu-shu; he answers by
+    defending Confucius through similes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Confucius
+  description: Tz Kung's Master and the subject of comparison, disparagement, and
+    defense; represented in Tz Kung's speech as concealed behind a high wall and as
+    like the sun or moon.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Tz-fu Ching-po
+  description: The person who repeats Shu-sun Wu-shu's statement to Tz Kung; a note
+    identifies him as a high official.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: ministers at Court
+  description: The audience before whom Shu-sun Wu-shu speaks.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: officiating priests
+  description: Figures within Tz Kung's simile whose rich apparel is hidden from those
+    who cannot find the gate of entry.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: disparaging court speaker
+  assigned_to:
+  - fig:1
+  basis: Shu-sun Wu-shu claims Tz Kung is greater than Confucius and is later said
+    to disparage Confucius.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: defender of Confucius
+  assigned_to:
+  - fig:2
+  basis: Tz Kung answers the criticism with similes that elevate Confucius above other
+    sages.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: sage in comparative evaluation
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Shu-sun Wu-shu compares Tz Kung and Confucius as sages, while Tz Kung rejects
+    the comparison.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: master of hidden and unreachable excellence
+  assigned_to:
+  - fig:3
+  basis: Tz Kung calls Confucius his Master and compares him to a high-walled temple
+    and to the sun or moon.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: reporting intermediary
+  assigned_to:
+  - fig:4
+  basis: Tz-fu Ching-po repeats Shu-sun Wu-shu's words to Tz Kung.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: court audience
+  assigned_to:
+  - fig:5
+  basis: The ministers are present as the audience for Shu-sun Wu-shu's statement
+    at Court.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: imagined temple functionaries
+  assigned_to:
+  - fig:6
+  basis: The officiating priests appear only inside Tz Kung's simile of the hidden
+    temple.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: walled house and gate
+  literal_form: A house surrounded by a wall, with a low wall for Tz Kung and a many-fathom
+    wall with a gate for his Master.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hidden temple and richly dressed priests
+  literal_form: The beauties of a temple and the rich apparel of officiating priests
+    inside the Master's wall.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hills and mountain-peaks
+  literal_form: Hills and mountain-peaks used as an image for the wisdom of other
+    men, high yet scalable.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sun and moon
+  literal_form: The sun or the moon, unreachable by human foot and not harmed when
+    someone cuts himself off from their light.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: light cut off by the observer
+  literal_form: A man cutting himself off from the light of the sun or moon.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Court statement and report to Tz Kung
+  summary: Shu-sun Wu-shu tells ministers that Tz Kung is a greater sage than Confucius,
+    and Tz-fu Ching-po reports this to Tz Kung.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tz Kung's wall and temple simile
+  summary: Tz Kung answers by comparing his own visible merit to a low-walled house
+    and Confucius' merit to a high-walled enclosure whose gate must be found before
+    its inner temple can be seen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tz Kung's response to disparagement
+  summary: After Shu-sun Wu-shu disparages Confucius, Tz Kung says the disparagement
+    is ineffective and contrasts scalable mountains with the unreachable sun and moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom beyond ordinary measure
+  taxonomy_refs:
+  - wisdom
+  basis: Tz Kung rejects the claim that he surpasses Confucius by portraying Confucius'
+    excellence as hidden behind a much higher wall and as unreachable like the sun
+    or moon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is ethical and rhetorical rather than mythic narrative; the
+    motif is extracted as a wisdom-pattern in metaphorical speech.
+- id: motif:2
+  label: hidden excellence accessible only through the gate
+  taxonomy_refs:
+  - wisdom
+  basis: The Master's qualities are figured as a temple within a high wall, visible
+    only to those who find the gate of entry.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The gate and temple are part of a simile, not a literal sacred architecture
+    episode.
+- id: motif:3
+  label: detraction harms the detractor, not the radiant sage
+  taxonomy_refs:
+  - wisdom
+  basis: Tz Kung says a person may cut himself off from the sun or moon's light without
+    harming the sun or moon, applying this to criticism of Confucius.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a moral-rhetorical pattern rather than a developed mythic plot.
+- id: motif:4
+  label: scalable mountains contrasted with unreachable celestial bodies
+  taxonomy_refs:
+  - wisdom
+  basis: The wisdom of other men is compared to hills and mountain-peaks that can
+    be scaled, while Confucius is compared to the sun or moon beyond human reach.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif rests on metaphorical comparison within reported speech.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3077-3080
+  quote_or_summary: Shu-sun Wu-shu, speaking to ministers at Court, says Tz Kung is
+    a greater sage than Confucius; Tz-fu Ching-po repeats this to Tz Kung.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3080-3089
+  quote_or_summary: 'Tz Kung uses a simile of walls: his own wall is shoulder-high
+    and easily looked over, while his Master''s wall is many fathoms high, and only
+    those who find the gate can see the temple and officiating priests within.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3090-3094
+  quote_or_summary: When Shu-sun Wu-shu disparages Confucius, Tz Kung says Confucius
+    is proof against detraction and compares other men's wisdom to scalable hills
+    and mountain-peaks.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3094-3099
+  quote_or_summary: Tz Kung compares Confucius to the sun or moon, unreachable by
+    human foot; a person may cut himself off from their light, but this does not harm
+    them.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3175-3179
+  quote_or_summary: Notes identify Shu-sun Wu-shu as a leading member of one of the
+    three great families in Lu and Tz-fu Ching-po as a high official.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction relies on the two visible anecdotes and the identifying notes
+    for figures. Motif candidates are rhetorical wisdom-patterns rather than full
+    mythic episodes. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy references were used only where directly supported: the wisdom motif family and the mountain symbol.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l3077-l3179
+  passage_sha256=d77bc74fdce9960106a161b00c964f791c11c66c311f9eb64c2b67fdd98e7d55
+

@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l10480-l10619
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: XVIII / HERE NOW IS TOLD THE MISTHROW AT BELACH EOIN. / HERE NOW FOLLOWETH
+    THE DISGUISING OF TAMON / HERE NOW COMETH THE HEAD-PLACE OF FERCHU; lines 10480-10619
+  start: '10480'
+  end: '10619'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: It was not long before they met in the middle of the ford.
+  summary: Cuchulain and Ferdiad face one another at a ford, exchange a wary welcome,
+    recall their former association in warrior training, renounce friendship through
+    reproachful speeches, threaten each other with death, and Cuchulain warns that
+    Ferdiad has been drawn into the combat by Ailill and Medb's false promises.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cuchulain reaches the ford; Ferdiad is on the south side and Cuchulain on
+    the north side.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ferdiad welcomes Cuchulain, and Cuchulain replies that he no longer trusts
+    the welcome.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Cuchulain says Ferdiad has come into Cuchulain's land and province, and says
+    women, boys, youths, horses, droves, flocks, and herds are fleeing before Ferdiad.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ferdiad recalls that he and Cuchulain were together with Scathach, Uathach,
+    and Aife, and says Cuchulain formerly served him by arming his spear and dressing
+    his bed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cuchulain accepts that he performed those services because of his youth and
+    smallness, but says his mood is different now and that no warrior in the world
+    would be able to withstand him that day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The two meet in the middle of the ford and exchange sharp reproaches while
+    renouncing their friendship.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the verse exchange, both warriors threaten violence, including wounding,
+    drowning, sword or spear combat, destruction, and loss of the head.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:8
+  text: Cuchulain recalls shared arms training with Scathach and describes Ferdiad
+    as his heart's comrade, clan, kinsman, and one dear to him.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Cuchulain says Ferdiad came to battle because of Ailill and Medb's instigation,
+    false promises, deceitful terms, and a maiden; he says many good men have been
+    slain and predicts Ferdiad will fall by his hand.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Warrior who reaches the ford, stands on the north side, disputes Ferdiad's
+    welcome, recalls former comradeship, and warns that Ferdiad will fall by his hand.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Ferdiad
+  description: Warrior waiting on the south side of the ford; he welcomes Cuchulain,
+    recalls their former association, exchanges reproaches and threats, and is accused
+    of coming because of Ailill and Medb's promises.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Scathach
+  description: Named figure associated with the earlier period when Cuchulain and
+    Ferdiad were together and with Cuchulain's recalled arms training.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Uathach
+  description: Named figure associated with the earlier time when Cuchulain and Ferdiad
+    were together.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Aife
+  description: Named figure associated with the earlier time when Cuchulain and Ferdiad
+    were together.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Ailill
+  description: Named by Cuchulain as one whose instigation, intermeddling, and false
+    promises brought Ferdiad to the combat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Medb
+  description: Named by Cuchulain as one whose instigation, intermeddling, and false
+    promises brought Ferdiad to the combat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: unnamed maiden
+  description: A maiden mentioned by Cuchulain in connection with deceitful terms
+    by which many good men have been slain.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: resident defender of the province
+  assigned_to:
+  - fig:1
+  basis: Cuchulain says Ferdiad has come into the land and province where Cuchulain
+    dwells and that it is not fitting for Ferdiad to contend with him there.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: opposing warrior at the ford
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two warriors stand on opposite sides of the ford, meet in its middle,
+    and exchange threats of combat.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: challenging visitor in hostile territory
+  assigned_to:
+  - fig:2
+  basis: Cuchulain describes Ferdiad as having come into Cuchulain's land and province
+    to contend and do battle.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: former comrade and kinsman
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Their speeches refer to earlier time together and Cuchulain calls Ferdiad
+    his heart's comrade, clan, and kinsman.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: instigator through false promises
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Cuchulain says Ailill and Medb's instigation, intermeddling, and false promises
+    brought Ferdiad to battle.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: figures of former warrior-training association
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Ferdiad names Scathach, Uathach, and Aife in recalling when he and Cuchulain
+    were together; Cuchulain later recalls arms training with Scathach.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: unnamed maiden linked to deceitful terms
+  assigned_to:
+  - fig:8
+  basis: Cuchulain says that because of deceitful terms and the maiden many good men
+    have been slain.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ford
+  literal_form: water-crossing where the warriors stand on opposite banks and meet
+    in the middle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: deep water
+  literal_form: the deep in which Cuchulain threatens to drown Ferdiad
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: weapons of single combat
+  literal_form: hard swords, red spear-points, and weapons mentioned in the threats
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: threatened head
+  literal_form: Ferdiad's head defended in combat and Cuchulain's head threatened
+    on a spit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: fire image
+  literal_form: smoke and kindling of firebrands in Ferdiad's threat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Opposite banks of the ford
+  summary: Cuchulain arrives at the ford; Ferdiad waits on the south side and Cuchulain
+    stands on the north side. Ferdiad welcomes him, but Cuchulain distrusts the welcome
+    and frames Ferdiad as the one entering Cuchulain's province.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Former association recalled
+  summary: Ferdiad recalls their earlier time with Scathach, Uathach, and Aife and
+    says Cuchulain once served him. Cuchulain answers that this was due to youth and
+    smallness, not his present state.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Reproaches and threats in the middle of the ford
+  summary: The warriors meet in the middle of the ford, renounce friendship, and exchange
+    verse threats of wounds, drowning, weapons, destruction, and severed heads.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: Comradeship and warning of deceit
+  summary: Cuchulain recalls Ferdiad as former comrade and kinsman, then warns that
+    Ailill and Medb's false promises and deceitful terms have led many men to death
+    and that Ferdiad will also fall by Cuchulain's hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Single combat at a ford
+  taxonomy_refs: []
+  basis: The two named warriors stand on opposite sides of a ford, meet in the middle,
+    and frame the encounter as combat between them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is preparatory and rhetorical; the actual physical fighting
+    is not narrated within this excerpt.
+- id: motif:2
+  label: Flyting before battle
+  taxonomy_refs: []
+  basis: The passage states that the warriors cast sharp-cutting reproaches at one
+    another and then presents alternating speeches of threat and insult.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The term 'flyting' is a modern descriptive label; the passage itself calls
+    the exchange reproaches and gives the speeches.
+- id: motif:3
+  label: Former comrades forced into enmity
+  taxonomy_refs: []
+  basis: The warriors renounce friendship during the confrontation, while Cuchulain
+    also recalls Ferdiad as his former comrade, clan, and kinsman from their time
+    of arms training.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage preserves both hostility and affection; it does not explain
+    the full earlier relationship beyond the recalled training and kinship language.
+- id: motif:4
+  label: Combat induced by false promises
+  taxonomy_refs: []
+  basis: Cuchulain says Ferdiad has come because of Ailill and Medb's instigation,
+    false promises, deceitful terms, and the maiden, and says many good men have already
+    died because of them.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is presented as Cuchulain's accusation within direct speech; the
+    passage does not independently narrate the making of the promises.
+- id: motif:5
+  label: Threatened death of the opponent before combat
+  taxonomy_refs: []
+  basis: Both speeches include predictions or threats of death, including slaying,
+    destruction, and Cuchulain's statement that Ferdiad will fall by his hand.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: These are threats and predictions within dialogue, not fulfilled events
+    within the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10480-10485, opening ford encounter
+  quote_or_summary: Cuchulain reaches the ford; Ferdiad waits on the south side, Cuchulain
+    stands on the north side, and Ferdiad welcomes him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10485-10494, Cuchulain's reply to the welcome
+  quote_or_summary: Cuchulain says he no longer trusts the welcome, that Ferdiad has
+    come into Cuchulain's land and province, and that Cuchulain's people and herds
+    are fleeing before him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 10495-10504, recollection of former status
+  quote_or_summary: Ferdiad asks why Cuchulain has come to fight, recalls their time
+    with Scathach, Uathach, and Aife, and says Cuchulain served him; Cuchulain replies
+    that this was due to youth and smallness but no longer applies.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 10505-10509, meeting in the ford
+  quote_or_summary: '"It was not long before they met in the middle of the ford."
+    The narrator adds that they exchange sharp-cutting reproaches and renounce friendship.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 10510-10576, first portion of verse exchange
+  quote_or_summary: The alternating verse speeches threaten gore, firebrands, drowning
+    in the deep, destruction, hard swords, red spear-points, weapons, and the end
+    of Ferdiad's life-term.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; concise summary used.
+- id: ev:6
+  type: quote
+  locator: lines 10577-10586, Cuchulain remembers Ferdiad
+  quote_or_summary: Cuchulain says, "When we were with Scathach," they went together
+    for arms training, and calls Ferdiad his "heart's comrade," "clan," and "kinsman."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; short quotation used.
+- id: ev:7
+  type: summary
+  locator: lines 10587-10600, Ferdiad's head threat
+  quote_or_summary: Ferdiad says that unless they do battle, before the cock crows
+    Cuchulain's head will be on a spit, and accuses Cuchulain of mad frenzy and sin.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 10601-10619, Cuchulain warns of Ailill and Medb
+  quote_or_summary: Cuchulain says it was not fitting for Ferdiad to come because
+    Ailill and Medb instigated him with false promises; because of deceitful terms
+    and the maiden many good men have been slain, and Ferdiad too will fall by Cuchulain's
+    hand.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source metadata supplied; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are descriptive and require human review, especially where based on speeches rather
+    than narrated events. No comparison claims are made because the passage does not
+    itself establish external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line subranges are approximate subdivisions within the supplied stable range 10480-10619.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l10480-l10619
+  passage_sha256=d5837c64c0cbfa32097003e89640adf49a5c1a27599c1a381219c487fddf0b68
+

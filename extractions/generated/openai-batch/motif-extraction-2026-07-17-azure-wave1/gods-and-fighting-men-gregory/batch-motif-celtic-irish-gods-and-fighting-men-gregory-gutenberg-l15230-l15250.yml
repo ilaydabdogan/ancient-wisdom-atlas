@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15230-l15250
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER I. OISIN'S STORY / CHAPTER II. OISIN IN PATRICK'S HOUSE / CHAPTER
+    III. THE ARGUMENTS / CHAPTER IV. OISIN'S LAMENTS; lines 15230-15250
+  start: '15230'
+  end: '15250'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: I am the last of the Fianna, great Oisin, son of Finn
+  summary: The first-person speaker laments being without former martial, musical,
+    feasting, courting, and hunting pursuits. He says hunting, hounds, bravery, play,
+    and lake-swimming are absent; describes himself as an old man dragging stones;
+    and identifies himself as Oisin, son of Finn, the last of the Fianna, listening
+    to bells.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker lists former pursuits now absent from his life, including fighting,
+    battles, learned feats, young girls, music, harps, great deeds, learning, generosity,
+    drinking at feasts, courting, hunting, and going to battle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says there is no hunting of deer or stag, no leashes for hounds,
+    and no hounds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says there is no rising up to bravery, no playing as desired,
+    and no swimming of fighting men in the lake.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The refrain states that clouds are over the speaker tonight.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The speaker describes his present condition as pitiable and calls himself
+    an old man dragging stones.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker identifies himself as Oisin, son of Finn, and as the last of the
+    Fianna.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker says he is listening to the voice of bells.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Oisin
+  description: The first-person speaker, self-identified as great Oisin, son of Finn,
+    the last of the Fianna; he describes himself as an old man dragging stones and
+    listening to bells.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Finn
+  description: Named as Oisin's father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Fianna
+  description: Named warrior group of which Oisin says he is the last.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: fighting men
+  description: A remembered collective of fighting men formerly swimming in the lake.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: lamenting first-person speaker
+  assigned_to:
+  - fig:1
+  basis: The passage is voiced in the first person and repeatedly laments the absence
+    of former activities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: last member of the Fianna
+  assigned_to:
+  - fig:1
+  basis: Oisin states that he is the last of the Fianna.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: aged laborer
+  assigned_to:
+  - fig:1
+  basis: The speaker describes himself as an old man dragging stones.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: former fighter and hunter
+  assigned_to:
+  - fig:1
+  basis: The speaker contrasts his present deprivation with former fighting, battle-going,
+    hunting, and related heroic activities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: father of Oisin
+  assigned_to:
+  - fig:2
+  basis: Oisin identifies himself as son of Finn.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: named warrior company
+  assigned_to:
+  - fig:3
+  basis: The Fianna are named as the group of which Oisin is the last.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: remembered fighting companions
+  assigned_to:
+  - fig:4
+  basis: The passage recalls fighting men swimming in the lake.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: clouds over the speaker
+  literal_form: clouds over me to-night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hounds and leashes
+  literal_form: leashes for hounds and hounds, named as absent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: deer and stag
+  literal_form: deer or stag as hunted animals, named in the absence of hunting
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: harps and music
+  literal_form: music and harps, named among absent former enjoyments
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: feast drinking
+  literal_form: drinking at feasts, named among absent former activities
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: lake
+  literal_form: lake where fighting men formerly swam
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: stones
+  literal_form: stones dragged by the old man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: bells
+  literal_form: voice of bells heard by Oisin
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Inventory of absent heroic pursuits
+  summary: Oisin lists former pursuits and pleasures that are now absent, including
+    fighting, feats, music, feasting, courting, hunting, and battle-going.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Absence of hunting and hounds
+  summary: Oisin states that deer and stag hunting, hound leashes, and hounds are
+    gone, followed by the cloud refrain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Absent bravery, play, and lake-swimming
+  summary: Oisin says there is no rising to bravery, no free play, and no swimming
+    of fighting men in the lake, again followed by the cloud refrain.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Present old age and labor
+  summary: Oisin describes himself as pitiable and as an old man dragging stones,
+    with the cloud refrain repeated.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Last of the Fianna listening to bells
+  summary: Oisin names himself as the last of the Fianna, son of Finn, and says he
+    is listening to bells.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Lament for lost heroic pursuits
+  taxonomy_refs: []
+  basis: The speaker repeatedly lists fighting, hunting, feasting, music, courting,
+    play, and other former activities as absent and says their want is sorrowful.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level poetic lament; the broader narrative cause of
+    the loss is not given in the supplied excerpt.
+- id: motif:2
+  label: Last survivor of a warrior band
+  taxonomy_refs: []
+  basis: Oisin explicitly identifies himself as the last of the Fianna.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage names only one survivor, so it should not be mapped to a survivor-pair
+    motif.
+- id: motif:3
+  label: Aged hero reduced from martial life to menial labor
+  taxonomy_refs: []
+  basis: The speaker contrasts former battle, hunting, bravery, and companionship
+    with his present identity as an old man dragging stones.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain how the change occurred.
+- id: motif:4
+  label: Clouded refrain of sorrow
+  taxonomy_refs: []
+  basis: The repeated line about clouds being over the speaker tonight marks the lament
+    across several stanzas.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The clouds may be poetic imagery rather than an independent narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15230-15235
+  quote_or_summary: 'The speaker lists former pursuits now absent: fighting, battles,
+    learned feats, young girls, music, harps, great deeds, learning, generosity, feasts,
+    courting, hunting, and battle-going; he says their lack is sorrowful.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:2
+  type: quote
+  locator: 15236-15238
+  quote_or_summary: "“No hunting of deer or stag... no leashes for our hounds, no
+    hounds; it is long the clouds are over me to-night!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:3
+  type: summary
+  locator: 15239-15242
+  quote_or_summary: The speaker says there is no rising to bravery, no playing as
+    desired, and no swimming of the fighting men in the lake; the cloud refrain is
+    repeated.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:4
+  type: quote
+  locator: 15243-15246
+  quote_or_summary: "“an old man dragging stones; it is long the clouds are over me
+    to-night!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; supplied passage text.
+- id: ev:5
+  type: quote
+  locator: 15247-15250
+  quote_or_summary: "“I am the last of the Fianna, great Oisin, son of Finn, listening
+    to the voice of bells”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; supplied passage text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    are passage-level candidates without external comparison claims; broader narrative
+    context is not used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparison claims were added because the supplied excerpt does not itself establish a specific cross-textual or historical comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15230-l15250
+  passage_sha256=4ab90fcc2ea232a9b92d8b7fd6e14969b754efac064edb3f4260dd6cd3347718
+

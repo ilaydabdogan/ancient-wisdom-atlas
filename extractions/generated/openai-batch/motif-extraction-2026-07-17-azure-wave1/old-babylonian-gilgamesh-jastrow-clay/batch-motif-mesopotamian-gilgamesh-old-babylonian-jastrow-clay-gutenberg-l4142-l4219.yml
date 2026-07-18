@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l4142-l4219
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: COMMENTARY ON THE PENNSYLVANIA TABLET. / YALE TABLET. / TRANSLITERATION.
+    / TRANSLATION.; lines 4142-4219
+  start: '4142'
+  end: '4219'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"The one who saw everything, Gilgamesh the strong one (?) of the land."'
+  summary: The passage is scholarly commentary on damaged lines and variant witnesses.
+    It reconstructs an opening epithet for Gilgamesh, summarizes Gilgamesh addressing
+    Shamash after a favorable oracle, notes the hero’s arming by a master craftsman,
+    explains Enkidu’s function as guide toward Huwawa’s country, mentions an Assyrian-version
+    counsel scene with Ninsun omitted in the Old Babylonian version, and interprets
+    later lines as a hope that Gilgamesh will possess Huwawa’s territory and use its
+    water for washing and libation to Shamash.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary reconstructs a first-line description of Gilgamesh/Gish as
+    the one who saw everything and as a strong or superior figure of the land.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gilgamesh addresses the sun-god after receiving a favorable oracle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gilgamesh promises to honor and celebrate the god by erecting thrones for
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A master craftsman arms the hero with items including the pasu, patru, bow
+    or possible bow, and quiver.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Enkidu is said to lead the way because he knows the country where Huwawa dwells.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The commentary says the later Assyrian fragment supplements Enkidu’s guide
+    role by describing him as more experienced in battle than Gilgamesh.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary states that an Assyrian fragment includes Gish and Enkidu proceeding
+    to Ninsun, Gish’s mother, to obtain counsel, while this episode appears omitted
+    in the Old Babylonian version.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentary interprets later lines as voicing a hope that Gish will take
+    possession of Huwawa’s territory, wash in Huwawa’s stream after the fight, and
+    find pure water there for a libation to Shamash.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh / Gish
+  description: Hero named in the reconstructed opening line; described by an epithet
+    indicating superior position, addresses Shamash, is armed, and is expected to
+    take possession of Huwawa’s territory.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Shamash / sun-god
+  description: God who gives a favorable oracle, is addressed by Gilgamesh, and is
+    to receive honor, thrones, and a libation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Master craftsman
+  description: The figure who arms the hero with weapons and gear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Enkidu
+  description: Companion who leads the way because he knows Huwawa’s country; in the
+    Assyrian variation he is also described as more experienced in battle than Gilgamesh.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Huwawa
+  description: Figure associated with a country, territory, and stream that Gilgamesh
+    hopes to enter, possess, and use after the fight.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Ninsun
+  description: Mother of Gish, approached for counsel in the Assyrian fragment according
+    to the commentary.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Hero with superior status
+  assigned_to:
+  - fig:1
+  basis: The passage calls Gilgamesh/Gish the hero and says the first line described
+    him by an epithet indicating superior position.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Divine oracle-giver and cult recipient
+  assigned_to:
+  - fig:2
+  basis: Shamash gives a favorable oracle and is to be honored with thrones and libation.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: Armorer craftsman
+  assigned_to:
+  - fig:3
+  basis: The master craftsman arms the hero with listed weapons and equipment.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Companion-guide
+  assigned_to:
+  - fig:4
+  basis: Enkidu leads the way because he knows the country where Huwawa dwells.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Battle-experienced companion in Assyrian variant
+  assigned_to:
+  - fig:4
+  basis: The passage says the Assyrian version supplements Enkidu’s role by describing
+    him as more experienced in battle than Gilgamesh.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Devotee or honor-giver to Shamash
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh addresses Shamash after the oracle and promises to honor and celebrate
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Territorial opponent or expedition target
+  assigned_to:
+  - fig:5
+  basis: The passage refers to Huwawa’s country, territory, stream, and the fight
+    after which Gish hopes to wash there.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:8
+  label: Maternal counselor in Assyrian variant
+  assigned_to:
+  - fig:6
+  basis: The Assyrian fragment has Gish and Enkidu proceed to Ninsun, mother of Gish,
+    to obtain counsel.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Thrones for the sun-god
+  literal_form: Thrones erected for Shamash as promised honor and celebration
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Hero’s weapons and gear
+  literal_form: pasu, patru, bow or possible bow, and quiver
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Huwawa’s country and territory
+  literal_form: The country where Huwawa dwells and the territory Gish hopes to possess
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: Pure water in Huwawa’s land
+  literal_form: Huwawa’s stream and pure water used for washing and libation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Reconstructed opening epithet
+  summary: The commentary reconstructs the first line as naming Gilgamesh and describing
+    him as one who saw everything and as a strong or superior figure of the land.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Address to Shamash after oracle
+  summary: Gilgamesh addresses the sun-god after a favorable oracle and promises to
+    honor him by erecting thrones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Arming of the hero
+  summary: A master craftsman equips Gilgamesh with weapons and gear before the Huwawa
+    expedition.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Enkidu as guide to Huwawa’s country
+  summary: Enkidu’s reason for leading is explained as his knowledge of Huwawa’s country,
+    with an Assyrian variant adding battle experience.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Ninsun counsel episode in Assyrian variant
+  summary: The commentary notes that an Assyrian fragment includes Gish and Enkidu
+    going to Ninsun for counsel, while the Old Babylonian version appears to omit
+    it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Hope for possession, washing, and libation in Huwawa’s land
+  summary: The passage interprets the lines as hoping that Gish will possess Huwawa’s
+    territory, wash in Huwawa’s stream after the fight, and find pure water to offer
+    Shamash a libation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Armament and guided departure for a hostile expedition
+  taxonomy_refs:
+  - departure
+  basis: The hero is armed by a master craftsman, and Enkidu leads the way toward
+    Huwawa’s country because he knows it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is commentary summarizing the narrative; it does not provide
+    the full departure scene.
+- id: motif:2
+  label: Divine sanction and promised cultic repayment
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Gilgamesh receives a favorable oracle from Shamash, promises honor and thrones,
+    and later hopes to offer a libation with pure water from Huwawa’s land.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage supports reciprocal honor and offering, but it does not describe
+    a formal covenant or completed exchange.
+- id: motif:3
+  label: Knowledgeable guide and counsel before expedition
+  taxonomy_refs:
+  - wisdom
+  basis: Enkidu knows Huwawa’s country and leads the way; the Assyrian variant also
+    includes a visit to Ninsun for counsel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The Ninsun counsel episode is explicitly described as omitted in the Old
+    Babylonian version and belongs to a compared Assyrian fragment.
+- id: motif:4
+  label: Possession of adversary’s land followed by washing and libation
+  taxonomy_refs: []
+  basis: The commentary says the lines express hope that Gish will take possession
+    of Huwawa’s territory, wash in Huwawa’s stream after the fight, and use pure water
+    for libation to Shamash.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is described as a hoped-for outcome, not as an accomplished action
+    within the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Old Babylonian and Assyrian witnesses as preserving
+    Enkidu’s leading function while the Assyrian version supplements it by making
+    Enkidu more experienced in battle than Gilgamesh.
+  claim_level: same_function
+  target: Enkidu’s guide or leader role in the Old Babylonian version and King’s Assyrian
+    fragment
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim rests on the commentary’s comparison of specific fragmentary
+    witnesses, not on a full comparative survey of all versions.
+- id: claim:2
+  claim: The commentary treats the Assyrian Ninsun-counsel episode as an elaboration
+    absent from the Old Babylonian version.
+  claim_level: historical_contact
+  target: Pre-expedition counsel scene with Ninsun in the Assyrian fragment relative
+    to the Old Babylonian version
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states that the episode appears omitted; omission could
+    reflect versional difference or preservation limits, and the historical-development
+    claim is the commentator’s inference.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4142-4172; commentary on line 229
+  quote_or_summary: 'The commentary reconstructs: "The one who saw everything, Gilgamesh
+    the strong one (?) of the land," and says the hero’s name occurred in the first
+    line with an epithet of superior position.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 4173-4176; commentary on lines 229-235
+  quote_or_summary: Gilgamesh addresses the sun-god after receiving a favorable oracle
+    and promises to honor and celebrate the god by erecting thrones.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 4177-4179; commentary on lines 237-244
+  quote_or_summary: The hero is armed by the master craftsman; items mentioned include
+    pasu, patru, bow or possible bow, and quiver.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 4182-4192; commentary on lines 251-253 and Assyrian fragment comparison
+  quote_or_summary: The commentary states that Enkidu leads the way because he knows
+    Huwawa’s country, and that the Assyrian version adds that Enkidu is more experienced
+    in battle than Gilgamesh.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 4196-4200; commentary on line 255
+  quote_or_summary: An Assyrian fragment has Gish and Enkidu proceed to Ninsun, mother
+    of Gish, to obtain counsel; the commentary says this appears omitted in the Old
+    Babylonian version and calls it an elaboration as the tale passed down the ages.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 4204-4213; commentary on lines 266-270
+  quote_or_summary: The passage says the lines voice the hope that Gish will take
+    possession of Huwawa’s territory, wash after the fight in Huwawa’s stream, and
+    find pure water there for a libation to Shamash.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly commentary with damaged-line reconstructions and
+    summaries of narrative content. Literal extraction is relatively secure where
+    the commentary states events directly; motif classification remains provisional
+    because the underlying narrative lines are not fully quoted here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the available lists; uncertain restorations and variant claims are marked cautiously.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l4142-l4219
+  passage_sha256=840ed2831c5e936f24a2032d613cb878b48374478884d19be7573e71c3316162
+

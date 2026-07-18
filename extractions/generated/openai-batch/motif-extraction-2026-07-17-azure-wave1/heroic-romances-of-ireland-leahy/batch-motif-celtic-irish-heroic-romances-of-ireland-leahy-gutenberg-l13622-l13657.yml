@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l13622-l13657
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: LITERAL TRANSLATION / TEXT OF LEABHAR NA H-UIDHRI / INTRODUCTION / TEXT WITH
+    INTERLINEAR TRANSLATION; lines 13622-13657
+  start: '13622'
+  end: '13657'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A woman is carried off through or over the skylight of a house. After the
+    resulting disgrace, two swans are seen around Tara. A road is taken toward the
+    elfmound at Femun. Echaid goes with a troop of the men of Ireland to the elfmound,
+    glossed as the elfmound of the fair-haired women. The men of Ireland counsel digging
+    up each elfmound so that the wife should come back from them; the manuscript is
+    fragmentary at this point.
+  language: English with Old/Middle Irish interlinear text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure is carried off over the skylight of a house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text reports hosts around the king immediately after the carrying off.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After a disgrace on them, two swans are seen around Tara.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A road is taken toward the elfmound about Femun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Echaid goes with a troop of the men of Ireland to the elfmound about Femun.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The elfmound about Femun is glossed as the elfmound of the fair-haired women.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The counsel of the men of Ireland is to dig up each elfmound.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The stated aim is that his wife should come to him from them.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: carried-off woman / wife
+  description: A woman is carried off and is later referred to as a wife who should
+    come to him from them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the king
+  description: The hosts are described as being around the king after the carrying
+    off.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: hosts
+  description: A collective host is reported around the king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: two swans
+  description: Two swans are seen around Tara.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Echaid
+  description: Echaid goes with a troop of the men of Ireland to the elfmound about
+    Femun.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: men of Ireland
+  description: The men of Ireland accompany Echaid as a troop and give counsel about
+    digging up each elfmound.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: carried-off wife
+  assigned_to:
+  - fig:1
+  basis: The woman is carried off and later called his wife in the stated aim of recovery.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: king associated with hosts
+  assigned_to:
+  - fig:2
+  basis: The passage places the hosts about the king.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: assembled hosts
+  assigned_to:
+  - fig:3
+  basis: The hosts are reported around the king after the carrying off.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: seen pair of swans
+  assigned_to:
+  - fig:4
+  basis: The passage says the two swans were seen around Tara.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: traveler to the elfmound
+  assigned_to:
+  - fig:5
+  basis: Echaid goes with a troop to the elfmound about Femun.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: companions and counsellors
+  assigned_to:
+  - fig:6
+  basis: The men of Ireland accompany Echaid and their counsel is given concerning
+    the digging of elfmounds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: house skylight
+  literal_form: skylight of the house
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two swans
+  literal_form: two swans around Tara
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Tara
+  literal_form: Tara
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: elfmound at Femun
+  literal_form: síd / elfmound about Femun; elfmound of the fair-haired women
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: dug elfmounds
+  literal_form: each elfmound to be dug up
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Carrying off through the house opening
+  summary: A woman is carried off over the skylight of a house, and the hosts are
+    reported around the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Swans around Tara and movement toward Femun
+  summary: After disgrace, two swans are seen around Tara, and a road is taken toward
+    the elfmound about Femun.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Echaid’s party at the elfmound
+  summary: Echaid goes with a troop of the men of Ireland to the elfmound about Femun,
+    identified in the gloss as the elfmound of the fair-haired women.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Counsel to dig the elfmounds
+  summary: The men of Ireland counsel digging up each elfmound so that the wife should
+    come to him from them.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wife or beloved carried off
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The passage states that a woman is carried off and later frames the aim as
+    having his wife come back to him from them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage is fragmentary, and the abductor or abducting party is not
+    preserved in this excerpt.
+- id: motif:2
+  label: pursuit or recovery attempt at an elfmound
+  taxonomy_refs:
+  - mystical_quest
+  basis: After the carrying off and the sighting of swans, Echaid and the men of Ireland
+    go to the elfmound at Femun, and counsel is given to dig elfmounds to recover
+    the wife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The preserved text does not give the outcome, and the manuscript has gaps.
+- id: motif:3
+  label: digging otherworld mounds to recover a wife
+  taxonomy_refs: []
+  basis: The men of Ireland counsel digging up each elfmound so that the wife should
+    come to him from them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The end of the version is lost after a damaged line, so the full ritual
+    or narrative function is uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13622-13623
+  quote_or_summary: A woman is carried off over the skylight of the house; the hosts
+    are reported about the king.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 13626-13634
+  quote_or_summary: After a disgrace on them, they see the two swans around Tara and
+    take the road to the elfmound about Femun.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 13636-13641
+  quote_or_summary: Echaid goes with a troop of the men of Ireland to the elfmound
+    about Femun, glossed as the elfmound of the fair-haired women.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 13643-13657
+  quote_or_summary: The men of Ireland counsel digging up each elfmound so that his
+    wife should come to him from them; the passage includes manuscript gaps and the
+    rest of the version is lost.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and interlinear, with explicit manuscript gaps.
+    Literal extraction is mostly clear, but identities and outcomes are uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another text or tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l13622-l13657
+  passage_sha256=e7c7d010b0b0e4f52d7dc787f95f50ed8dcf9a194657b6fef4f21feee6b55646
+

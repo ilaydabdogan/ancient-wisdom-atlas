@@ -1,0 +1,174 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l4731-l4753
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: 'TRANSLATION. / NOTES. / FOOTNOTES: / V. THE CHIEF KATUNS.; lines 4731-4753'
+  start: '4731'
+  end: '4753'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives footnotes and introduces a brief document titled “The
+    Chief Katuns,” said to come from the Book of Chilan Balam of Chumayel. The editor
+    describes it as not a connected history, but as chant-like, referring incidents
+    to the katuns in which they occurred, with repetitions resembling a song refrain.
+    It is said to have a mythological character and to have been inserted without
+    explanation, likely copied from an ancient writing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a section titled “V. The Chief Katuns.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The section is identified as being from the Book of Chilan Balam of Chumayel.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editor says the document is brief and of peculiar interest.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor says the document does not appear to present a connected history
+    of events.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editor says the document refers certain incidents to the katuns in which
+    they occurred.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The editor describes the form as a chant and says its repetitions resemble
+    the refrain of a song.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The editor states that the document has more of a mythological character.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The document is said to be found in the Book of Chilan Balam of Chumayel and
+    inserted without explanation or introduction.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The editor says the document was probably copied from some ancient writing.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: katuns
+  literal_form: katuns as named time periods to which incidents are referred
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: chant refrain
+  literal_form: repetitions resembling the refrain of a song
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Editorial introduction to The Chief Katuns
+  summary: An editor introduces a brief chant-like document from the Book of Chilan
+    Balam of Chumayel, describing it as mythological in character and as assigning
+    incidents to katuns rather than narrating a connected history.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: incidents assigned to calendrical periods
+  taxonomy_refs: []
+  basis: The passage says the document refers certain incidents to the katuns in which
+    they occurred, rather than presenting a connected history.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only an editorial introduction and does not provide the
+    incidents themselves.
+- id: motif:2
+  label: chant-like repetition as mythological presentation
+  taxonomy_refs: []
+  basis: The editor describes the document as chant-like, with repetitions resembling
+    a song refrain, and says it has a mythological character.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The actual repeated lines or mythic content are not included in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The editor compares the document’s repetitions to the refrain of a song.
+  claim_level: same_function
+  target: song refrain pattern
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial analogy based on form; the passage does not provide
+    the repeated wording or establish historical relationship to song traditions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4737-4741
+  quote_or_summary: "“V. THE CHIEF KATUNS. / From the Book of Chilan Balam of Chumayel.”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4743-4750
+  quote_or_summary: The editor says the following document is brief, not a connected
+    history, chant-like, assigns incidents to katuns, has mythological character,
+    and includes repetitions resembling a song refrain.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4751-4753
+  quote_or_summary: The editor says the document is also in the Book of Chilan Balam
+    of Chumayel, inserted without explanation or introduction, and probably copied
+    from an ancient writing.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage contains editorial description rather than the actual mythological
+    content, so formal patterns can be extracted but specific myth motifs cannot be
+    confidently identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No named mythic figures or taxonomy-linked motifs are present in the provided passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l4731-l4753
+  passage_sha256=928234a4a12fdbd007a6007853ef1d2f027a23ed62a392c7d52055578c114d5f
+

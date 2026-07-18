@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l36863-l36876
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LI. The Combat. / Canto LX. Lakshman Reproved. / Canto LXX. Kabandha.
+    / BOOK IV.; lines 36863-36876
+  start: '36863'
+  end: '36876'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: At the opening of Book IV, Canto I, the princes stand beside Pampá, adorned
+    with blooming lilies. Ráma, distressed and overwhelmed, laments by the fair flood
+    and then speaks to Sumitrá’s son.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens Book IV and Canto I, titled “Ráma’s Lament.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princes stand beside Pampá.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Blooming lilies adorn Pampá.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ráma is described as troubled in heart and overwhelmed in sense.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ráma makes a piteous moan beside the fair flood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ráma’s reason gives way as the flood lies before him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Tender thoughts arise in Ráma before he speaks to Sumitrá’s son.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: A prince and chief who laments with troubled heart and speaks to Sumitrá’s
+    son.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Sumitrá’s son
+  description: The person to whom Ráma speaks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: the princes
+  description: A collective label for the figures standing beside Pampá.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: lamenting figure
+  assigned_to:
+  - fig:1
+  basis: Ráma makes a piteous moan and is described as troubled.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: Ráma speaks to Sumitrá’s son.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: Sumitrá’s son is the one addressed by Ráma.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: princes at Pampá
+  assigned_to:
+  - fig:3
+  basis: The princes stand by Pampá’s side.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Pampá / fair flood
+  literal_form: A body of water called Pampá, described as a fair flood.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: blooming lilies
+  literal_form: Lilies blooming beside or upon Pampá.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Princes beside Pampá
+  summary: The princes stand by Pampá, which is adorned with blooming lilies.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ráma’s lament and address
+  summary: Ráma, troubled and overwhelmed, laments beside the flood; tender thoughts
+    arise, and he speaks to Sumitrá’s son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: lament beside a body of water
+  taxonomy_refs: []
+  basis: The titled canto is Ráma’s lament, and the passage places his piteous moan
+    beside Pampá, the fair flood.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports the local pattern of lament beside water, but it
+    does not itself state a broader mythic function for the water.
+- id: motif:2
+  label: grieving hero speaks to companion
+  taxonomy_refs: []
+  basis: Ráma is described as troubled and overwhelmed, then speaks to Sumitrá’s son
+    after tender thoughts arise.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies the emotional speech setting but does not provide
+    the content of the speech in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 36863-36865
+  quote_or_summary: "“BOOK IV.” and “Canto I. Ráma’s Lament.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: 36867-36868
+  quote_or_summary: "“The princes stood by Pampá’s side / Which blooming lilies glorified.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used as evidence.
+- id: ev:3
+  type: quote
+  locator: 36869-36870
+  quote_or_summary: "“With troubled heart and sense o’erthrown / There Ráma made his
+    piteous moan.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used as evidence.
+- id: ev:4
+  type: quote
+  locator: 36871-36872
+  quote_or_summary: "“As the fair flood before him lay / The reason of the chief gave
+    way;”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used as evidence.
+- id: ev:5
+  type: quote
+  locator: 36873-36876
+  quote_or_summary: "“And tender thoughts within him woke, / As to Sumitrá’s son he
+    spoke:”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used as evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    directly visible in the brief excerpt; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. No external Ramayana context was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l36863-l36876
+  passage_sha256=2a64a6fc15022ad1d67e0e455d32ec5f0ec85625d25e889b3511b3199b4d23b8
+

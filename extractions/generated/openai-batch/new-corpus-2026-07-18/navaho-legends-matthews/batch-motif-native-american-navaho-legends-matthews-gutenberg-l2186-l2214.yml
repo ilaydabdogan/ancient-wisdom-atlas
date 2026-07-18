@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l2186-l2214
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: ALPHABET USED. / SPELLING OF NAVAHO. / NOTES. / A LAST WORD (TO POETS AND
+    OTHERS).; lines 2186-2214
+  start: '2186'
+  end: '2214'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The author addresses poets and other literary borrowers, allowing that
+    they may draw on the volume but requesting that they not distort the material
+    or impose alien ideas, objects, clothing, or actions on Indigenous legendary figures.
+    He gives an example from a retelling of Stephen Powers's Karok fire story in which
+    Coyote is made to stroke a goatee, and he asks that no poet similarly put a beard
+    on the Navaho Coyote God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author anticipates that poets, novelists, travellers, and compilers may
+    take facts and fancies from the volume, possibly without acknowledging the source.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author asks literary borrowers not to garble or distort the material,
+    not to give the figures alien thoughts, weapons, clothing, or incongruous actions.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Stephen Powers is cited as giving the story of how fire came to the Karok
+    nation in simple and direct language.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A later poem based on that story represented Coyote, while in a quandary,
+    as stroking his goatee.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The author states that coyotes and Indians have no goatees and that stroking
+    a goatee in perplexity is a nervous American mannerism.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author asks that no poet put a beard on the chin of the Navaho Coyote
+    God.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The author
+  description: The speaker who addresses prospective literary borrowers and makes
+    requests about accurate representation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Poets, novelists, travellers, and compilers
+  description: Prospective users of the volume who may borrow facts and fancies from
+    it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pagan heroes
+  description: Legendary figures whom the author says should not be given alien thoughts,
+    weapons, clothing, or incongruous actions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Stephen Powers
+  description: Cited author of a simple account of how fire came to the Karok nation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Coyote
+  description: A character in the later poem who is represented as stroking his goatee
+    while in a quandary.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Navaho Coyote God
+  description: A figure whom the author asks future poets not to portray with a beard.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: authorial speaker requesting accurate representation
+  assigned_to:
+  - fig:1
+  basis: The author makes explicit requests to literary borrowers about not distorting
+    the material.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: prospective literary borrowers
+  assigned_to:
+  - fig:2
+  basis: The passage names poets, novelists, travellers, and compilers as possible
+    users of the volume.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: legendary figures at risk of distortion
+  assigned_to:
+  - fig:3
+  basis: The author says these heroes should not be assigned alien thoughts, arms,
+    habiliments, or actions.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: published source for Karok fire story
+  assigned_to:
+  - fig:4
+  basis: Stephen Powers is cited for a story of how fire came to the Karok nation.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: misrepresented Coyote figure in adaptation
+  assigned_to:
+  - fig:5
+  basis: The later poem portrays Coyote with a goatee and a mannerism the author calls
+    out of place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: specific Navaho figure protected from incongruous portrayal
+  assigned_to:
+  - fig:6
+  basis: The author asks that no poet put a beard on the Navaho Coyote God.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: goatee or beard
+  literal_form: goatee; beard on the chin
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: alien weapons and habiliments
+  literal_form: weapons and habiliments of an alien race
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Authorial warning to literary borrowers
+  summary: The author says later writers may use the volume but asks them not to distort
+    its material or impose alien thoughts, weapons, clothing, or actions on its legendary
+    figures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Example of the Coyote goatee distortion
+  summary: The author cites a Karok fire story retold as a poem in which Coyote is
+    made to stroke a goatee, criticizes the image as alien to the legend, and asks
+    that the Navaho Coyote God not be treated similarly.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fire comes to a people
+  taxonomy_refs: []
+  basis: The passage refers to a story of how fire came to the Karok nation.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage only names the subject of the Karok story; it does not describe
+    the narrative mechanism or actors involved in bringing fire.
+- id: motif:2
+  label: alien cultural attributes imposed in retelling
+  taxonomy_refs: []
+  basis: The author warns against giving Indigenous legendary figures alien thoughts,
+    objects, dress, or actions, and illustrates this with Coyote being given a goatee
+    and a foreign mannerism.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a meta-literary pattern in the author’s commentary, not necessarily
+    a traditional mythic motif within a narrated legend.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2186-2198
+  quote_or_summary: The author says writers may borrow from the volume but asks them
+    not to garble or distort it, not to put alien thoughts into the heroes, and not
+    to give them alien weapons, clothing, or incongruous actions.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2199-2205
+  quote_or_summary: Stephen Powers is cited for the story of how fire came to the
+    Karok nation; a later illustrated magazine poem worked that story into verse and
+    represented Coyote in a quandary.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 2205-2211
+  quote_or_summary: '"stroking his goatee"; the author adds that coyotes and Indians
+    have no goatees and calls the gesture a nervous American mannerism out of place
+    in an Indian legend.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 2211-2214
+  quote_or_summary: The author asks that any poet using tales from the book not put
+    a beard on the chin of the Navaho Coyote God.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is an authorial
+    note. The fire motif is only indirectly referenced, while the strongest pattern
+    is the author’s explicit warning against distorted retellings. No comparison claim
+    is made because the passage does not establish a shared motif between the Karok
+    and Navaho materials.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This passage is commentary rather than a myth narrative; extracted motifs are therefore limited and cautious.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l2186-l2214
+  passage_sha256=83c89cfbc5a4bed2031ad1c1add065c427abcb5ebc0c9bf2d012ebbbb332062e
+

@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l8255-l8298
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 8255-8298
+  start: '8255'
+  end: '8298'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: I shall reveal it to thee face to face, without parable.
+  summary: Maria asks Jesus for patient, exact revelation about matters she and the
+    disciples will seek, including preaching to mankind and the way baptisms forgive
+    sins. Jesus praises Maria, promises direct revelation, and explains that Contentious
+    Ministers convict and hold souls of sinners who have not received mysteries, while
+    souls receiving mysteries are not subject to their overpowering in the Chaoses.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Jesus hears Maria's words and praises her as happy and spiritual, saying that
+    her explanations match words he had spoken.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maria asks the Lord to be long-suffering and to reveal everything the group
+    seeks, including how her brothers will preach to all mankind.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Saviour promises to reveal what is asked, additional things not known
+    to seek, and to reveal to Maria face to face without parable.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Maria asks what type of baptisms forgive sin and whether baptismal mysteries
+    blot out sins associated with the Contentious Ministers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Saviour says the Ministers remain among the judgments, hold onto souls,
+    convict souls of sinners who received no mystery, and punish them in the Chaoses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Contentious ones are said not to be able to pass through the Chaoses to
+    the arrays above the Chaoses to convict souls coming from those Places.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Souls that receive mysteries are said not to be allowed to be overpowered
+    or taken out of the Chaos by the Contentious Ministers.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage contrasts souls of sinners who did not receive mystery with souls
+    who receive mysteries.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jesus / the Saviour
+  description: Speaker who praises Maria, promises direct revelation, and answers
+    about Ministers, souls, mysteries, judgments, and Chaoses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Maria
+  description: Questioner praised as spiritual; she asks for exact revelation and
+    asks how baptisms forgive sin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Maria's brothers
+  description: Group whom Maria says will preach to the race of all mankind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Contentious Ministers / Contentious ones
+  description: Agents connected with judgments who convict, hold, and punish souls
+    of sinners without mystery, but cannot pass above the Chaoses or overpower souls
+    receiving mysteries.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: souls of sinners who received no mystery
+  description: Souls described as convicted, held down, and punished in the Chaoses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: souls which receive mysteries
+  description: Souls described as not subject to being overpowered, taken out of the
+    Chaos, or convicted by the Contentious Ministers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: race of all mankind
+  description: Collective audience to whom Maria says her brothers will preach.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: revealing teacher
+  assigned_to:
+  - fig:1
+  basis: Jesus/the Saviour promises revelation and gives the answer concerning baptisms,
+    Ministers, and souls.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: questioning disciple seeking exact knowledge
+  assigned_to:
+  - fig:2
+  basis: Maria asks the Lord to reveal everything in exactness and then asks about
+    baptisms forgiving sin.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: future preachers
+  assigned_to:
+  - fig:3
+  basis: Maria asks about the manner in which her brothers will preach to all mankind.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: intended preaching audience
+  assigned_to:
+  - fig:7
+  basis: The passage names the race of all mankind as the audience of the brothers'
+    preaching.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: judicial accusers and punishers
+  assigned_to:
+  - fig:4
+  basis: The Ministers are said to remain among judgments, hold souls, convict sinners,
+    and punish them in the Chaoses.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: uninitiated sinner-souls under punishment
+  assigned_to:
+  - fig:5
+  basis: These souls received no mystery and are held, convicted, and punished in
+    the Chaoses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: mystery-receiving protected souls
+  assigned_to:
+  - fig:6
+  basis: These souls receive mysteries and cannot be overpowered or taken by the Contentious
+    Ministers.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Chaoses
+  literal_form: Chaoses / Chaos
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: judgments
+  literal_form: judgments
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: arrays above the Chaoses
+  literal_form: arrays which are above the Chaoses
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - ascent
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: face-to-face revelation
+  literal_form: face to face, without parable
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: mysteries of the baptisms
+  literal_form: mysteries of the baptisms / mysteries
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - initiation
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Maria asks for exact revelation and Jesus promises direct disclosure
+  summary: Maria asks the Lord to be patient and reveal everything sought, including
+    preaching to mankind; the Saviour promises to reveal both asked and unasked things
+    face to face without parable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Question about baptisms, sin, and Contentious Ministers
+  summary: Maria asks what type of baptisms forgive sin and whether baptismal mysteries
+    blot out sins connected with the Contentious Ministers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Saviour explains conviction and protection of souls
+  summary: The Saviour explains that Contentious Ministers convict and punish souls
+    without mystery in the Chaoses, cannot pass to the upper arrays, and cannot overpower
+    souls that receive mysteries.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: revealed wisdom through question-and-answer dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: Maria seeks exact knowledge and the Saviour promises direct revelation without
+    parable.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents instruction through dialogue but does not name a
+    formal teaching setting beyond the exchange.
+- id: motif:2
+  label: baptismal mysteries as protection from sin-accusation
+  taxonomy_refs:
+  - initiation
+  - divine_judgment
+  basis: Maria asks how baptisms forgive sin, and the Saviour contrasts souls without
+    mystery, who are convicted and punished, with souls receiving mysteries, who cannot
+    be overpowered or taken by the Ministers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The Saviour's answer corrects or reframes Maria's premise about the Ministers;
+    the exact mechanics of forgiveness are not fully detailed in this excerpt.
+- id: motif:3
+  label: postmortem judgment by hostile ministers
+  taxonomy_refs:
+  - divine_judgment
+  - afterlife_journey_map
+  basis: The passage describes Ministers among judgments who hold, convict, and punish
+    souls of sinners in the Chaoses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives a partial afterlife judicial scenario, not a complete
+    itinerary of the soul.
+- id: motif:4
+  label: chaotic lower realms contrasted with upper arrays
+  taxonomy_refs:
+  - chaos
+  - ascent
+  - afterlife_journey_map
+  basis: The Contentious ones are unable to pass through the Chaoses to the arrays
+    above the Chaoses, while souls and Places are discussed in relation to these regions.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The geography is fragmentary in this line range and should not be expanded
+    beyond Chaoses, Places, and upper arrays named here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8255-8261
+  quote_or_summary: Jesus praises Maria as happy and spiritual; Maria asks the Lord
+    to be patient and reveal everything sought, including how her brothers will preach
+    to all mankind.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: quote
+  locator: 8261-8268
+  quote_or_summary: The Saviour promises to reveal what is sought and other unknown
+    matters, and says, "I shall reveal it to thee face to face, without parable."
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 8268-8276
+  quote_or_summary: Maria asks what type of baptisms forgive sin, refers to Contentious
+    Ministers connected with witnessing and convicting sins in judgments, and asks
+    whether baptismal mysteries blot out sins or cause forgetfulness.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 8276-8285
+  quote_or_summary: The Saviour says the Ministers remain among judgments, hold onto
+    souls, convict souls of sinners who received no mystery, and hold them down in
+    the Chaoses while punishing them.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 8285-8292
+  quote_or_summary: The Contentious ones cannot pass through the Chaoses to the arrays
+    above the Chaoses to convict souls coming out of those Places, but they convict
+    and seize souls of sinners without mysteries.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: 8292-8298
+  quote_or_summary: Souls receiving mysteries cannot be overpowered or taken from
+    the Chaos by the Contentious Ministers, and the Ministers cannot stand before
+    or take them in those Chaoses.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. Motif assignments use
+    the provided taxonomy refs and are conservative; no separate comparison claims
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external traditions, identities, or taxonomy IDs beyond those supplied were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l8255-l8298
+  passage_sha256=701b06bfa4e36310a037e3e8c01f526049a744a4b47b54fd82ada01c7c2525d3
+

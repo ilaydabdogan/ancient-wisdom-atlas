@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2436-l2461
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: 'LION AND BABOON / FOOTNOTES: / THE ZEBRA STALLION / WHEN LION COULD FLY;
+    lines 2436-2461'
+  start: '2436'
+  end: '2461'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Lion, it is said, used once to fly”"
+  summary: The passage tells how Lion formerly flew and was overwhelmingly destructive,
+    how Great Frog broke the bones Lion had ordered White Crows to guard, how Lion
+    then lost the ability to fly, failed to catch Frog at a pool, and thereafter walked
+    and crept while the White Crows became dumb.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Lion is described as once having the ability to fly, and at that time nothing
+    could live before him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lion ordered a pair of White Crows to watch the bones of what he caught while
+    he went hunting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Great Frog came to the kraal, broke the bones into pieces, asked why men and
+    animals could no longer live, and directed Lion to seek him at a pool.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Lion later tried to fly up while lying in wait for game, he found that
+    he could not fly and returned angrily to the kraal.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The White Crows told Lion that someone had broken the bones and had said Lion
+    could look for him at the pool.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the water's edge, Lion tried to creep stealthily upon Frog, but Frog called
+    out, dived, and moved to the other side of the pool.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Lion pursued Frog but could not catch him and returned home.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: From that day Lion walked on his feet and began to creep upon his game, and
+    the White Crows became entirely dumb.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A formerly flying hunter whose ability to fly is lost after the guarded
+    bones are broken; afterward he walks and creeps upon game.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Pair of White Crows
+  description: Two White Crows appointed by Lion to watch bones at the kraal; they
+    report the breaking of the bones and later become entirely dumb.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Great Frog
+  description: A frog who breaks the bones, sends Lion to the pool, and evades Lion
+    by diving across the water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Men and animals
+  description: Living beings named in Great Frog's question about why they can no
+    longer live.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: formerly flying predator
+  assigned_to:
+  - fig:1
+  basis: Lion once flew, nothing could live before him, and he went hunting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: appointed bone guardians and witnesses
+  assigned_to:
+  - fig:2
+  basis: Lion made the White Crows watch the bones, and they later reported what happened.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: bone-breaker and evasive challenger
+  assigned_to:
+  - fig:3
+  basis: Great Frog broke the bones, invited Lion to seek him at the pool, and escaped
+    Lion by diving.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: threatened living beings
+  assigned_to:
+  - fig:4
+  basis: The passage says nothing could live before Lion, and Frog asks why men and
+    animals can live no longer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Guarded bones
+  literal_form: The bones of what Lion caught, left at the kraal under the care of
+    the White Crows and broken by Great Frog.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Pool and water's edge
+  literal_form: The pool where Great Frog says he lives and where he evades Lion by
+    diving across the water.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Lion's flight and loss of flight
+  literal_form: Lion's former ability to fly, followed by his inability to fly and
+    later walking on his feet.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Lion's former flying predation and bone-watchers
+  summary: Lion is said to have once flown and to have been so destructive that nothing
+    could live before him; he appoints White Crows to guard the bones of his prey
+    at the kraal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Great Frog breaks the bones
+  summary: Great Frog comes to the kraal, breaks the guarded bones, questions why
+    men and animals can no longer live, and leaves word that Lion should seek him
+    at a pool.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lion discovers he cannot fly
+  summary: While lying in wait for game, Lion tries to fly up but cannot; he returns
+    home angrily and hears the White Crows' report.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Frog evades Lion at the pool
+  summary: Lion reaches the pool and tries to creep upon Frog at the water's edge,
+    but Frog dives to the other side and Lion cannot catch him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Changed traits of Lion and White Crows
+  summary: The passage closes by saying that from that day Lion walked and crept upon
+    game, and the White Crows became entirely dumb.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Etiology of Lion's loss of flight and stalking gait
+  taxonomy_refs: []
+  basis: The passage begins with Lion formerly flying and ends by explaining that
+    from that day Lion walked on his feet and crept upon game.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The causal mechanism is given through the narrative sequence rather than
+    explicitly explained as a rule.
+- id: motif:2
+  label: Etiology of White Crows' dumbness
+  taxonomy_refs: []
+  basis: The ending states that the White Crows became entirely dumb after the events
+    at the kraal.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the outcome but does not elaborate a detailed cause
+    beyond their speech about the matter.
+- id: motif:3
+  label: Guarded remains broken, disabling a powerful predator
+  taxonomy_refs: []
+  basis: Lion orders the bones watched; Great Frog breaks them; Lion then discovers
+    that he cannot fly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The connection between the bones and Lion's loss of flight is strongly
+    sequential but not analytically explained in the passage.
+- id: motif:4
+  label: Small water-associated challenger evades powerful predator
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Great Frog summons Lion to the pool and avoids capture by diving to the other
+    side when Lion creeps upon him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call Frog a trickster; the taxonomy reference
+    is based only on Frog's disruptive action and escape across a water boundary.
+- id: motif:5
+  label: Restraint of an overwhelming predator
+  taxonomy_refs: []
+  basis: Lion's former flight made him so destructive that nothing could live before
+    him; after Frog breaks the bones, Lion loses flight and thereafter walks and creeps.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage suggests relief for men and animals through Frog's question,
+    but it does not directly state the later condition of those beings.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions like an etiological animal-trait tale, explaining present
+    features of Lion and White Crows through a past event.
+  claim_level: same_function
+  target: etiological animal-trait tale pattern
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional pattern comparison only; it does not imply historical
+    contact, common inheritance, or dependence on another named text.
+- id: claim:2
+  claim: The Frog episode cautiously resembles a trickster-boundary pattern in which
+    a less powerful figure disrupts a stronger figure and escapes through a liminal
+    place, here the pool.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not label Frog as a trickster and gives no
+    cross-textual comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2436-2438
+  quote_or_summary: "“WHEN LION COULD FLY”; Lion “used once to fly,” and at that time
+    “nothing could live before him.”"
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 2438-2445
+  quote_or_summary: Lion made a pair of White Crows watch the bones at the kraal while
+    he hunted; Great Frog came, broke the bones, asked why men and animals could no
+    longer live, and said Lion could find him at a nearby pool.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2446-2452
+  quote_or_summary: Lion tried to fly while lying in wait for game, found he could
+    not fly, returned angrily to the kraal, and heard from the White Crows that someone
+    had broken the bones and sent him to the pool.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2452-2458
+  quote_or_summary: Lion found Frog at the water's edge and tried to creep upon him;
+    Frog called out, dived to the other side of the pool, sat there, and Lion could
+    not catch him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2459-2461
+  quote_or_summary: From that day Lion walked on his feet and crept upon game, and
+    the White Crows became entirely dumb after saying that nothing could be said of
+    the matter.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidate classifications; the etiological animal-trait pattern is strong,
+    while trickster-boundary classification requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or common-inheritance claims are made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2436-l2461
+  passage_sha256=d8181ec8357fae2124b9869ef6b441d929e399cc72bc748e7ea86e3b99d568d9
+

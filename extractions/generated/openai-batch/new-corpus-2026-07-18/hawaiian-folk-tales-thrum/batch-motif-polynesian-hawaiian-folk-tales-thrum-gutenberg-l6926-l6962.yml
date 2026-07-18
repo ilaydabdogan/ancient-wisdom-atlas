@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l6926-l6962
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: KANEAUKAI / A LEGEND OF WAIALUA / THE SHARK-MAN, NANAUE / FISH STORIES AND
+    SUPERSTITIONS; lines 6926-6962
+  start: '6926'
+  end: '6962'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Hawaiian fish stories and fishing superstitions,
+    describes old kapu restrictions on fishing under Ku-ula the fish god, explains
+    signs marking shallow-sea kapu, and states that a fisherman's first fish of each
+    variety was marked and dedicated to Ku-ula before further catch could be freely
+    used.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narration of different fishes is described as told and largely believed
+    by native fishermen, with some disagreement in particulars but stable main features.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Certain varieties of fish were tabooed in olden time and could not be caught
+    at all times.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fishing restrictions are said to be subject to the kapu of Ku-ula, described
+    as the fish god who propagated the fish of Hawaiian waters.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Shallow-sea and shore fishing were subject to restrictions of the konohiki
+    and aliis regarding kinds of fish and periods of fishing.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Branches of the hau tree placed along the shore served as the sign of shallow-sea
+    kapu.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Violation of the kapu in ancient times was said to be punishable by death.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When hau branches were removed, the kapu was understood to be lifted and people
+    fished as they desired, except on makahiki taboo days when canoes were not allowed
+    on the water.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The first fish caught by a fisherman or anyone else was marked and dedicated
+    to Ku-ula.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the first-fish offering recognized Ku-ula's right, further fish of that
+    variety were free from additional oblations.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Fishermen from Hawaii to Niihau are said to have observed the first-fish dedication
+    custom religiously.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: When a large supply was caught by net, hook, or shell, one of each kind was
+    reserved as an offering to Ku-ula and the remainder was free to the people.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Native fishermen
+  description: The people who tell and largely believe the fish narrations and observe
+    the fishing customs.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Ku-ula
+  description: The fish god who propagated the fish of Hawaiian waters and receives
+    dedicated first fish offerings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Konohiki
+  description: Land authority associated with restrictions on shallow-sea and shore
+    fishing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Aliis
+  description: Chiefly authorities associated with restrictions on shore fishing and
+    makahiki taboo days.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Priest or alii
+  description: Authority associated with makahiki taboo days when no canoes were allowed
+    on the water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: The people
+  description: Those who respect the kapu token, seek food from deep-sea stations
+    during kapu, and fish after the kapu is lifted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: Tradition-bearers
+  assigned_to:
+  - fig:1
+  basis: The narration is said to be told and largely believed by native fishermen.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Fish god and recipient of offerings
+  assigned_to:
+  - fig:2
+  basis: Ku-ula is identified as the fish god, propagator of fish, and recipient of
+    first-fish offerings.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:3
+  label: Kapu authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Konohiki, aliis, and priests or aliis are named in connection with fishing
+    restrictions and taboo days.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: Observers of fishing kapu and offering custom
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The people respect the kapu sign, and fishermen are said to observe the first-fish
+    dedication custom.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: Hau branches as kapu sign
+  literal_form: Branches of the hau tree placed along the shore
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: First fish offering
+  literal_form: The first fish caught, marked and dedicated to Ku-ula
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: Shallow sea and shore fishing grounds
+  literal_form: Shallow sea, shore, and water where canoes may or may not go
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Reserved fish of each kind
+  literal_form: One fish of each kind reserved from a catch made by net, hook, or
+    shell
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Introduction of fish narratives and beliefs
+  summary: The passage frames the following fish narrations as widely known among
+    native fishermen, with some variation in detail and a strong hold on Hawaiian
+    belief.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fishing kapu and its visible sign
+  summary: Certain fish and fishing areas are restricted under kapu; hau branches
+    along the shore announce shallow-sea kapu, and people respect the sign.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Kapu lifted and fishing resumes
+  summary: When hau branches are removed, the kapu is considered lifted and people
+    may fish, subject to remaining makahiki taboo days when canoes stay off the water.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: First-fish dedication to Ku-ula
+  summary: The first fish of a variety is marked and dedicated to Ku-ula, after which
+    fish of that variety may be used without further oblations; one of each kind is
+    reserved from large catches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: First-catch offering to a deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A first fish is marked and dedicated to Ku-ula, recognizing the god's right
+    before further use of that fish variety becomes free.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage presents the offering custom but does not describe an explicit
+    reciprocal blessing or bargain beyond release from further oblations.
+- id: motif:2
+  label: Reserved portion as sacred offering
+  taxonomy_refs:
+  - sacrifice
+  basis: From a large catch, one fish of each kind is reserved as an offering to Ku-ula
+    before the remainder is free to the people.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage calls the reserved fish an offering but does not describe
+    ritual killing, altar practice, or consumption by the deity.
+- id: motif:3
+  label: Sacred restriction marked by boundary token
+  taxonomy_refs: []
+  basis: Hau branches placed along the shore visibly mark a shallow-sea kapu that
+    people are expected to respect.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to boundary markers or
+    taboo signs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6926-6935
+  quote_or_summary: The fish narrations are said to be told and largely believed by
+    native fishermen; particulars may vary, but main features are well known and influential
+    in Hawaiian belief.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6936-6939
+  quote_or_summary: In olden time certain fish varieties were tabooed and could not
+    always be caught; they were subject to the kapu of Ku-ula, the fish god who propagated
+    Hawaiian fish.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 6939-6942
+  quote_or_summary: Deep-sea fishing was more general, while shallow-sea or shore
+    fishing was restricted by the konohiki and aliis as to kinds and periods.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 6942-6946
+  quote_or_summary: Branches of the hau tree along the shore marked shallow-sea kapu;
+    people respected the token, and violation was said to be punishable by death in
+    ancient times.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 6946-6952
+  quote_or_summary: During kapu, people resorted to deep-sea stations; when hau branches
+    were removed, the kapu was lifted, though makahiki taboo days still barred canoes
+    from the water.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 6953-6957
+  quote_or_summary: The first fish caught was marked and dedicated to Ku-ula; after
+    this offering recognized Ku-ula's right, further oblations for that fish variety
+    were unnecessary.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 6957-6958
+  quote_or_summary: Fishermen from Hawaii to Niihau are said to have observed the
+    first-fish custom religiously.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 6958-6962
+  quote_or_summary: When a large supply was caught by net, hook, or shell, one fish
+    of each kind was reserved as an offering to Ku-ula; the rest was free to the people.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is expository rather than narrative, so figure and motif extraction
+    is limited to explicitly described fishing beliefs, kapu practices, and offerings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself compare these practices to another tradition or corpus.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l6926-l6962
+  passage_sha256=bcb596bff6a9fda717bd96301740779f10b14c909cfe5f1aa934997f5d582977
+

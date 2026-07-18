@@ -1,0 +1,176 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6953-l6973
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 26 / PAGE 27 / PAGE 28. / PAGE 29; lines 6953-6973
+  start: '6953'
+  end: '6973'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a translator''s note on Page 29 explaining several literal
+    renderings and uncertain interpretations: a rhetoric involving a request, oxen,
+    and a causeway; the phrase rendered as “over the chariot-pole of life”; the obscure
+    dress term in “High was he girt”; and a disputed reading of Eochaid’s action or
+    fear of Mider.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A literal translation of a rhetoric includes an instruction to put something
+    in hand, mentions oxen after sunset, describes a request as heavy, and says the
+    gain or loss from the causeway is unknown.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says “Over the chariot-pole of life” is a literal rendering of an
+    Irish phrase, while another rendering gives its sense as “on the face of the world.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The phrase “High was he girt” contains an obscure term whose meaning is unknown
+    but is said to refer to an arrangement of dress.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note discusses whether the phrase about Eochaid should mean that Eochaid
+    arose or that Eochaid feared Mider; the commentator favors the reading that Eochaid
+    arose.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eochaid
+  description: Named figure in a note on a disputed verb, where he is interpreted
+    either as arising or as fearing Mider.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Mider
+  description: Named figure in the same note as the possible object of Eochaid’s fear
+    under an alternative interpretation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named actor in disputed action
+  assigned_to:
+  - fig:1
+  basis: The note glosses the phrase as either “Eochaid arose” or, alternatively,
+    “Eochaid feared him.”
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: possible object of fear in alternative reading
+  assigned_to:
+  - fig:2
+  basis: The note states that Eochaid does not elsewhere show fear of Mider, in discussing
+    the rejected alternative interpretation.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: oxen after sunset
+  literal_form: oxen
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: causeway with uncertain gain or loss
+  literal_form: causeway
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: chariot-pole of life
+  literal_form: chariot-pole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Literal rhetoric of request and causeway
+  summary: A quoted literal rendering presents an instruction to put something in
+    hand, describes a heavy request, and leaves uncertain who gains or loses from
+    a causeway.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Textual note on Eochaid’s response
+  summary: A note discusses whether Eochaid’s action should be read as arising or
+    as fearing Mider, and argues that arising better fits the story.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: PAGE 29, Line 19 note
+  quote_or_summary: "“noble are oxen for hours after sunset, heavy is the request,
+    it is unknown to whom the gain, to whom the loss from the causeway.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: PAGE 29, Line 28 note
+  quote_or_summary: "“Over the chariot-pole of life” is described as a literal rendering;
+    Strachan renders the sense as “on the face of the world.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: PAGE 29, Line 30 note
+  quote_or_summary: The note explains that the meaning of the term in “High was he
+    girt” is unknown, but that it was used for some arrangement of dress.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: PAGE 29, Line 31 note
+  quote_or_summary: The note discusses “Eochaid arose” as a possible deponent form
+    and contrasts it with Strachan’s suggestion that Eochaid feared Mider; the commentator
+    says the “arose” reading better fits the story.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The literal translation notes are clear, but the passage is primarily philological
+    commentary rather than a narrative scene. No taxonomy motif family or comparative
+    claim is sufficiently supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned; mentioned images are retained only as literal forms from the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6953-l6973
+  passage_sha256=4148f39b34baa53aadb740ed3bed9d2d6ce21d57bb9f7f019f91f1649bb1cd7f
+

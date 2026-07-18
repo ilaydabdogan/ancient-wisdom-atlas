@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l6720-l6827
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS
+    / STORY OF SOHRB; lines 6720-6827
+  start: '6720'
+  end: '6827'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rustem, released and restored after prayer at a flood, returns to combat
+    with Sohrb. The two wrestle again, and Rustem mortally wounds the youth. As Sohrb
+    dies, he says he had sought his father Rustem and identifies a bracelet from his
+    mother as proof. Rustem realizes he has slain his own son, grieves, and his delayed
+    return causes his army and Persia's monarch to fear that Rustem is dead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After being released, Rustem goes to a murmuring flood, drinks, bathes, and
+    prays for strengthening aid; Heaven approves, and strength returns to him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sohrb is surprised to see the recently mastered foe return in renewed condition
+    and accuses him of possible deceit after twice sparing him because of age.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rustem replies mildly that youth is proud and that his aged arm may yet control
+    Sohrb's fury.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The two dismount, grapple, and wrestle; Rustem throws Sohrb to the ground
+    and gives him a deadly thrust with steel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator describes Destiny as marking a victim and hastening the dying
+    hour.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Wounded Sohrb tells Rustem that Rustem is only the instrument of fate and
+    is guiltless of his downfall.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sohrb says that he sought his father, that his mother gave him the mark and
+    sign, and that he will die with his wish to behold his father unfulfilled.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Rustem reacts with horror, sinks senseless under grief, and then declares
+    himself to be Rustem while asking Sohrb to prove the relationship.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sohrb asks Rustem to remove his mail and look at the gold bracelet on his
+    arm, which his mother gave him as his father's token when war was announced.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When the mail is loosened and the bracelet is revealed, Rustem falls prostrate
+    and says that by his own hand his son has been slain.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Rustem rends his hair in dust and weeps in despair until the western sun has
+    gone down.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Rustem's legions notice the long delay and riderless Rakush; a rumor reaches
+    Persia's monarch that Rustem is dead.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Ks, Persia's monarch, fears that if Rustem is lost and the young warrior is
+    victorious, he will be torn from his kingdom and wander like Jemshd.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rustem
+  description: The Champion; restored after prayer, returns to battle, wounds Sohrb,
+    then recognizes him as his son and mourns.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Sohrb
+  description: The young stripling warrior who fights Rustem, is mortally wounded,
+    and reveals that he sought his father Rustem.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Heaven
+  description: The supernatural power that approves Rustem's prayer and grants renewed
+    strength.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Destiny
+  description: A personified force described as pursuing and marking a victim; Sohrb
+    also speaks of fate causing his downfall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Sohrb's mother
+  description: The mother who gave Sohrb a mark, sign, and bracelet as his father's
+    token before war.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Rakush
+  description: Rustem's horse, seen riderless and astray during Rustem's absence from
+    the army.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Ks, Persia's Monarch
+  description: The monarch who hears the rumor of Rustem's death and fears loss of
+    kingdom and exile.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Rustem's legions
+  description: The observing forces who notice the delay and riderless horse before
+    rumor spreads.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Restored champion
+  assigned_to:
+  - fig:1
+  basis: Rustem prays at the flood and receives renewed bodily strength before returning
+    to battle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Unknowing father and slayer
+  assigned_to:
+  - fig:1
+  basis: Rustem mortally wounds Sohrb and then recognizes him as his son through the
+    bracelet proof.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Young adversary and dying son seeking father
+  assigned_to:
+  - fig:2
+  basis: Sohrb fights Rustem, is wounded, and says he had sought his father using
+    his mother's sign.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Answering supernatural power
+  assigned_to:
+  - fig:3
+  basis: Heaven approves Rustem's prayer and restores his strength.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Personified fate
+  assigned_to:
+  - fig:4
+  basis: Destiny is said to pursue and mark victims, and Sohrb calls Rustem an instrument
+    of fate.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: Giver of recognition token
+  assigned_to:
+  - fig:5
+  basis: Sohrb says his mother bestowed the bracelet as his father's token.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Riderless steed as sign of absence
+  assigned_to:
+  - fig:6
+  basis: Rakush is seen riderless and astray while Rustem is delayed.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: Alarmed monarch dependent on champion
+  assigned_to:
+  - fig:7
+  basis: The monarch fears loss of kingdom and wandering exile if Rustem is dead and
+    the young warrior has won.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: Watching army
+  assigned_to:
+  - fig:8
+  basis: The legions notice the long delay and the riderless horse before the rumor
+    spreads.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Restorative water
+  literal_form: The murmuring flood where Rustem drinks, bathes, and prays.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Recognition bracelet
+  literal_form: The sacred bracelet of refulgent gold on Sohrb's arm, described as
+    the father's token and a mystic gift.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Concealing mail
+  literal_form: The shining mail that must be stripped or loosened to reveal the bracelet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Deadly steel
+  literal_form: The shining steel with which Rustem gives the deadly thrust that bloodies
+    the weapon.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Riderless horse
+  literal_form: Rakush seen riderless and astray during Rustem's delay.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Sunset in gloom
+  literal_form: The western sun disappearing in gloom while Rustem continues to weep.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Restoration at the flood
+  summary: Rustem seeks water, drinks, bathes, prays to Heaven, and receives renewed
+    strength before reentering the conflict.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Renewed meeting and verbal challenge
+  summary: Sohrb sees Rustem return and taunts him about deceit and mercy; Rustem
+    answers with a warning about youthful pride.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Final wrestling and mortal wound
+  summary: The warriors dismount, grapple, and wrestle until Rustem throws Sohrb and
+    strikes him mortally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sohrb's dying speech
+  summary: Sohrb attributes his downfall to fate, says he sought his father, and warns
+    that Rustem will avenge him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Recognition by bracelet
+  summary: Rustem reveals his identity, Sohrb calls for the mail to be removed, and
+    the bracelet is presented as proof of father and son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Grief and rumor of Rustem's death
+  summary: Rustem mourns his slain son while his army sees the riderless horse and
+    a rumor of Rustem's death reaches the monarch.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Restoration through prayer at water before renewed combat
+  taxonomy_refs: []
+  basis: Rustem drinks and bathes at the flood, prays, and receives renewed strength
+    before returning to face Sohrb.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage supports immediate bodily restoration, not a broader rebirth
+    or initiation pattern by itself.
+- id: motif:2
+  label: Unrecognized father-son combat ending in fatal recognition
+  taxonomy_refs: []
+  basis: Rustem and Sohrb fight as enemies; after the mortal wound, speech and token
+    reveal that the victim is Rustem's son.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the recognition after the fatal blow; it does not narrate
+    the earlier birth history except through Sohrb's report.
+- id: motif:3
+  label: Inherited token proves hidden kinship too late
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The gold bracelet, called sacred and mystic, is given by Sohrb's mother as
+    his father's token and reveals the father-son relationship only after the wound.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage emphasizes a token-gift
+    and proof of identity rather than a full ritual exchange.
+- id: motif:4
+  label: Human warrior as instrument of fate
+  taxonomy_refs: []
+  basis: The narrator personifies Destiny, and Sohrb says Rustem is only the instrument
+    of fate in causing his downfall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No separate doctrine of fate is explained beyond this scene.
+- id: motif:5
+  label: Riderless horse and delayed return produce rumor of hero's death
+  taxonomy_refs: []
+  basis: The army sees Rakush riderless during Rustem's long absence, and a rumor
+    reaches the monarch that Rustem is dead.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage presents the riderless horse as circumstantial evidence for
+    rumor, not explicitly as an omen.
+- id: motif:6
+  label: Champion's presumed death threatens royal security
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Ks fears that if Rustem is lost and the young warrior has won, he will be
+    torn from his kingdom and wander like Jemshd.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage shows royal dependence on the champion's survival, but does
+    not set out a formal theory of kingship or legitimacy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6720-6729
+  quote_or_summary: Rustem goes to the murmuring flood, drinks, bathes, prays for
+    strengthening aid, and receives renewed strength from Heaven, though his spirits
+    remain wounded.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public-domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 6731-6746
+  quote_or_summary: At the renewed meeting, Sohrb is surprised by Rustem's return
+    and accuses him of deceit after twice showing mercy; Rustem answers that youth
+    is proud and his aged arm may still prevail.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public-domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 6748-6761
+  quote_or_summary: The warriors dismount and wrestle; Rustem throws Sohrb, delivers
+    a deadly thrust with shining steel, and the narrator invokes Destiny as marking
+    victims.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public-domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 6762-6779
+  quote_or_summary: Sohrb, wounded, tells Rustem not to vaunt, says Rustem is only
+    the instrument of fate, and explains that he sought his father using a sign from
+    his mother.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public-domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 6781-6806
+  quote_or_summary: Rustem reacts with horror and declares himself to be Rustem; Sohrb
+    asks that his mail be removed so the gold bracelet on his arm, bestowed by his
+    mother as his father's token, may be seen.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public-domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 6808-6815
+  quote_or_summary: The bracelet is revealed; Rustem falls prostrate, says his own
+    hand has slain his son, rends his hair in the dust, and weeps until sunset.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public-domain source metadata; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 6816-6827
+  quote_or_summary: Rustem's legions notice the delay and riderless Rakush; rumor
+    reaches Persia's monarch that Rustem is dead, and Ks fears exile if the young
+    warrior has won.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public-domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the literal sequence, figures, recognition token,
+    and fate language. Motif labels are cautious and mostly passage-internal; no external
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly compare this episode to another tradition or motif family.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l6720-l6827
+  passage_sha256=def50acda59ac7bcf338b794b4aee3183578e277c95c3d0736bd8e14e48c4813
+

@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l2712-l2823
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION. / COMMENTARY ON THE
+    PENNSYLVANIA TABLET.; lines 2712-2823
+  start: '2712'
+  end: '2823'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentary on the Pennsylvania Tablet argues that a phrase about a changed
+    countenance denotes Enkidu's anger in connection with a brandished axe; notes
+    that Gish finds Enkidu attractive and loves or embraces him; discusses restorations
+    involving Enkidu before the woman/courtesan, her bodily fascination, and the Enkidu
+    story as combined with a tale of primitive man entering civilized life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary interprets the phrase about a changed countenance as indicating
+    anger, displeasure, or disturbance rather than a literal axe-like face.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary cites a Yale Tablet parallel in which Huwawa hears something
+    and his face is changed, identifying this as aroused fury.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The commentary states that Enkidu's anger was stirred together with the brandishing
+    of the axe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The commentary states that Gish describes Enkidu as so attractive that Gish
+    instantly falls in love with him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The commentary prefers rendering a relevant verb as “embrace.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A restored line places Enkidu sitting before the harimtu, the woman.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The commentary says a line describes the fascination exercised on Enkidu by
+    the woman's bodily charms, making him forget everything else.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The commentary distinguishes samkatu as “courtesan” and harimtu as “woman,”
+    both connected with the female companion in Enkidu-related material.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The commentary states that the Enkidu story has been combined with a tale
+    of the evolution of primitive man to civilized life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The commentary notes a repeated speech by the woman beginning with “come,”
+    and an Assyrian-version line in which Enkidu and the woman go to walled Erech.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: Hero whose anger is discussed, who is loved or embraced by Gish, and
+    who is fascinated by the woman in the commentary's reconstruction.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Gish
+  description: Figure said to find Enkidu attractive and to fall in love with him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Huwawa
+  description: Tyrant in the Yale Tablet parallel whose changed face is cited as an
+    expression of aroused fury.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: woman / harimtu / samkatu
+  description: Female companion described through the terms harimtu, “woman,” and
+    samkatu, “courtesan”; her bodily charms fascinate Enkidu.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: angered hero
+  assigned_to:
+  - fig:1
+  basis: The commentary says Enkidu's anger is described by the changed-countenance
+    phrase and stirred with the brandished axe.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beloved or embraced companion
+  assigned_to:
+  - fig:1
+  basis: Gish is said to find Enkidu attractive, fall in love with him, and the relevant
+    verb is rendered “embrace.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: lover or admirer
+  assigned_to:
+  - fig:2
+  basis: The commentary states that Gish instantly fell in love with Enkidu.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: furious tyrant in parallel passage
+  assigned_to:
+  - fig:3
+  basis: Huwawa is cited in a parallel where the changed face expresses aroused fury.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: primitive-man figure undergoing civilization
+  assigned_to:
+  - fig:1
+  basis: The commentary connects the Enkidu story with a tale of primitive man's evolution
+    to civilized life.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: female companion or courtesan
+  assigned_to:
+  - fig:4
+  basis: The commentary identifies the associated woman as harimtu, “woman,” and samkatu,
+    “courtesan,” and describes her fascination of Enkidu.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: axe
+  literal_form: Brandished axe associated with the discussion of Enkidu's anger.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: changed countenance
+  literal_form: The face or visage being changed, used in the commentary as an expression
+    of anger or fury.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: embrace
+  literal_form: A gesture preferred by the commentary as the rendering of a verb connected
+    with love.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: woman's bodily charms
+  literal_form: The woman's loins or bodily charms that fascinate Enkidu in the restored
+    line.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: walled Erech
+  literal_form: A walled city named in an Assyrian-version line where Enkidu and the
+    woman go there.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Axe and changed countenance
+  summary: The commentary reconstructs a moment in which Enkidu's anger is expressed
+    through a changed countenance and is connected with the brandishing of an axe.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gish's attraction to Enkidu
+  summary: Gish is said to find Enkidu attractive and to fall in love with him; the
+    commentary also prefers the rendering “embrace.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Enkidu before the woman
+  summary: A restored line places Enkidu before the woman, and another line describes
+    him as fascinated by her bodily charms and forgetting everything else.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Woman's invitation and variant journey to Erech
+  summary: The commentary notes a second speech by the woman beginning with “come,”
+    and cites an Assyrian-version line in which Enkidu and the woman go to walled
+    Erech, while noting textual differences from the Old Babylonian version.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Changed face as sign of anger
+  taxonomy_refs: []
+  basis: The commentary repeatedly treats the changed-countenance phrase as an expression
+    of anger, including for Enkidu and in the Huwawa parallel.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is primarily an expressive or philological pattern rather than a
+    full narrative motif.
+- id: motif:2
+  label: Axe-associated heroic anger
+  taxonomy_refs: []
+  basis: The passage connects Enkidu's stirred anger with the brandishing of an axe.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The underlying narrative line is fragmentary and discussed through commentary.
+- id: motif:3
+  label: Instant love or embrace between heroic companions
+  taxonomy_refs: []
+  basis: The passage says Gish instantly falls in love with Enkidu and prefers a rendering
+    involving embrace.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives commentary rather than the full narrative context.
+- id: motif:4
+  label: Woman or courtesan as civilizing companion of primitive man
+  taxonomy_refs:
+  - initiation
+  basis: The commentary says the Enkidu story is combined with a tale of primitive
+    man's evolution to civilized life and identifies the female associate as woman
+    or courtesan.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The motif is inferred from the commentator's synthesis of textual strands,
+    not from a complete narrative episode in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the harimtu as the woman associated with
+    primitive man to the Genesis tale in which Adam's companion is simply called “woman.”
+  claim_level: same_function
+  target: Genesis tale of Adam and his female companion
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to role and naming; the passage does not
+    argue direct dependence or a full shared narrative structure.
+- id: claim:2
+  claim: The passage compares the changed-countenance expression for anger with Hebrew,
+    Biblical Aramaic, and the Yale Tablet Huwawa passage.
+  claim_level: linguistic_similarity
+  target: Hebrew and Biblical Aramaic phrases for changed reason or visage, and Yale
+    Tablet Huwawa parallel
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic and expressive comparison, not a claim of a shared
+    mythic episode.
+- id: claim:3
+  claim: The passage treats several lines of the Old Babylonian material as parallel
+    to the Assyrian version while noting redactional variation.
+  claim_level: same_motif
+  target: Assyrian Gilgamesh version, especially Enkidu and woman episodes
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The commentary notes that the Assyrian version may represent an independent
+    redaction and that some lines are absent from the Old Babylonian tablet.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2712-2745
+  quote_or_summary: The commentary rejects the literal “axe-like face” reading, interprets
+    “change of countenance” as anger, cites Huwawa's changed face as aroused fury,
+    and says Enkidu's anger was stirred with the brandishing of the axe.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2746-2761
+  quote_or_summary: The commentary says Enkidu seemed attractive to Gish, who instantly
+    fell in love with him, and prefers rendering the relevant verb as “embrace.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 2768-2792
+  quote_or_summary: The commentary restores a line with Enkidu sitting before the
+    harimtu and says another line describes the woman's bodily charms fascinating
+    Enkidu so that he forgets everything else.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 2794-2811
+  quote_or_summary: The commentary discusses samkatu as “courtesan” and harimtu as
+    “woman,” suggests the Enkidu story was combined with a tale of primitive man's
+    evolution to civilized life, and compares the female companion to Adam's companion
+    called “woman” in Genesis.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 2812-2823
+  quote_or_summary: The commentary notes parallels to the Assyrian version, a second
+    speech of the woman beginning “come,” and an Assyrian-version line where Enkidu
+    and the woman go to walled Erech, while noting differences from the Old Babylonian
+    version.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly philological commentary and reconstruction, so literal
+    extraction is strong but motif identification requires caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbol taxonomy refs from the supplied symbol list were directly applicable to the axe, changed countenance, embrace, bodily charms, or walled Erech.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l2712-l2823
+  passage_sha256=85c7a7ab714508b968163f7a6d24c1eab7f8bba25e796c359e477c24b1a213d8
+

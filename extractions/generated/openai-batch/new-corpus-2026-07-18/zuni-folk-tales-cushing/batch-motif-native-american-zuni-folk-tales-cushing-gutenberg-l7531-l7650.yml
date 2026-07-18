@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l7531-l7650
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE COYOTE AND THE BEETLE / HOW THE COYOTE DANCED WITH THE BLACKBIRDS / HOW
+    THE TURTLE OUT HUNTING DUPED THE COYOTE / THE COYOTE AND THE LOCUST; lines 7531-7650
+  start: '7531'
+  end: '7650'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An old Coyote hears an old Locust singing and playing a flute from a piñon
+    branch. Coyote asks to learn the song so he can dance his children to it. After
+    learning imperfectly and setting off for home, he is startled first by a Gopher’s
+    hole trap and later by a flock of Pigeons or Doves, and each time he forgets the
+    song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tale is set south of Zuñi near a rocky headland, with an old Coyote living
+    at Suski-ashokton and an old Locust living in a steep arroyo bank near a crooked,
+    sparse piñon tree.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Coyote leaves his old wife and large family of children at home while
+    he goes hunting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Locust crawls from his arroyo home, climbs to a bare branch of the piñon
+    tree, hooks his feet into the bark, and sings while playing a flute.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Coyote praises the Locust’s flute-playing and asks to be taught the song
+    so he can take it home and dance his children to it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Locust repeats the song; the Coyote imitates it in a hoarse voice, with
+    mistakes, and then sings it together with the Locust.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The Coyote leaves for home while repeating the song to himself and looking
+    upward, and he does not notice an old Gopher ahead on the trail.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The Gopher lays a trap in his hole; the Coyote falls into it, is startled,
+    curses the Gopher, and discovers he has forgotten the song.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Coyote returns to the piñon tree and asks the Locust to sing the song
+    again; the Locust does so and tells him to be more careful.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: On the second trip home, the Coyote starts the song again, but a flock of
+    Pigeons or Doves flutters from bushes at his feet, frightening him; after cursing
+    them, he again forgets the song.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: old Coyote
+  description: An old Coyote living south of Zuñi at Suski-ashokton, with an old wife
+    and many children; he hunts, tries to learn the Locust’s song, and repeatedly
+    forgets it after being startled.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: old Locust
+  description: An old Locust living in the loam of a steep arroyo bank near a piñon
+    tree; he sings and plays a flute from a branch and teaches the song to the Coyote
+    twice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: old Gopher
+  description: An old Gopher on the trail who peers at the Coyote and lays a trap
+    for him in his hole.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Coyote’s old wife and children
+  description: The Coyote’s family, left at home; the Coyote says he wants the song
+    so he can dance his children to it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: flock of Pigeons or Doves
+  description: A flock that flutters out of bushes at the Coyote’s feet with a whizzing
+    and whistling sound, frightening him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: song learner
+  assigned_to:
+  - fig:1
+  basis: The Coyote asks the Locust to teach him the song and attempts to repeat it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: musician and song teacher
+  assigned_to:
+  - fig:2
+  basis: The Locust sings, plays a flute, repeats the song for Coyote, and later sings
+    it again when asked.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: startling obstacle
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The Gopher’s hole causes the Coyote to fall and forget the song; the flock’s
+    sudden flight frightens him and he forgets again.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: hunter and family provider
+  assigned_to:
+  - fig:1
+  basis: The Coyote goes out hunting and repeatedly refers to taking the song home
+    for his children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:5
+  label: home family motivating the song request
+  assigned_to:
+  - fig:4
+  basis: The Coyote says he has a large family at home and wants to dance his children
+    to the song.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: piñon tree perch
+  literal_form: A crooked piñon tree, bereft of needles, with bare branches where
+    the Locust clings and sings.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: flute and song
+  literal_form: The Locust’s flute-playing and repeated song taught to the Coyote.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: Gopher hole trap
+  literal_form: A hole in the trail used by the Gopher as a trap, into which the Coyote
+    falls.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: startling flock
+  literal_form: A flock of Pigeons or Doves bursting from bushes at the Coyote’s feet.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Locust performs from the piñon tree
+  summary: The Locust climbs to a bare piñon branch, clings to the bark, and sings
+    while playing a flute as Coyote approaches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Coyote asks for and learns the song
+  summary: Coyote praises the music, asks to learn the song for his children, imitates
+    it imperfectly, and sings it with the Locust before leaving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Gopher trap makes Coyote forget
+  summary: On his way home, Coyote rehearses the song but falls into the Gopher’s
+    hole, is startled and angry, and forgets the song.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Coyote returns for the song
+  summary: Coyote goes back to the Locust, explains the mishap, and asks for the song
+    again; the Locust repeats it and warns him to be careful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Birds startle Coyote into forgetting again
+  summary: Coyote resumes his trip home and begins singing, but a sudden flock of
+    Pigeons or Doves frightens him; after cursing the birds, he forgets the song again.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal learns a song from another animal
+  taxonomy_refs: []
+  basis: The Coyote asks the Locust to teach him the song, listens to it repeated,
+    and practices it aloud.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level motif label rather than a supplied taxonomy category.
+- id: motif:2
+  label: valued song forgotten after sudden fright
+  taxonomy_refs: []
+  basis: The Coyote forgets the learned song after falling into the Gopher’s hole
+    and again after being startled by the birds.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage presents repeated forgetting, but does not give an explicit
+    moral or broader explanation.
+- id: motif:3
+  label: comic journey interrupted by small animal obstacles
+  taxonomy_refs: []
+  basis: The Coyote’s homeward journey with the song is interrupted by a Gopher’s
+    hole and then by a flock bursting from bushes, both causing failure of his aim.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The comic quality is inferred from the described mishaps and Coyote’s
+    exaggerated complaints; the passage does not explicitly call the events comic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7531-7535
+  quote_or_summary: The passage locates an old Coyote south of Zuñi at Suski-ashokton
+    and an old Locust in a steep arroyo bank near a crooked, needle-poor piñon tree.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7536-7544
+  quote_or_summary: Coyote goes hunting while his wife and children stay home; Locust
+    climbs from the arroyo loam to a bare piñon branch, clings there, and begins singing
+    and playing a flute.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7545-7574
+  quote_or_summary: Coyote praises the Locust’s playing and asks to learn the song
+    so he can take it home and dance his children to it; Locust agrees and sings it
+    again.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7575-7593
+  quote_or_summary: Coyote repeats the song hoarsely and with mistakes, then sings
+    it with the Locust and leaves toward home while rehearsing it to himself.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7594-7604
+  quote_or_summary: A Gopher lays a trap in his hole; Coyote falls into it while singing,
+    is startled, curses the Gopher, and cannot recall the song.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7605-7624
+  quote_or_summary: Coyote returns to the piñon tree, tells Locust that the Gopher’s
+    hole made him forget, and asks for the song again; Locust repeats it and advises
+    care.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 7625-7650
+  quote_or_summary: On the next trip home, Coyote thinks of using the song for his
+    children; a flock of Pigeons or Doves suddenly flies from bushes at his feet,
+    frightens him, and he forgets the song again.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    passage-level candidates, with no historical or cross-text comparison claims made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond its own narrative pattern.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l7531-l7650
+  passage_sha256=387f5cb56970474dcf1d6aaafa810d2096196314e554f1a61cda1dc7eae9b0eb
+

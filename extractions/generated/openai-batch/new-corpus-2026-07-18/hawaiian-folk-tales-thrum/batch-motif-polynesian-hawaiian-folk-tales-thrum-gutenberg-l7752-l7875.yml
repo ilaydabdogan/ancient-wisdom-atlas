@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l7752-l7875
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: THE HOU, OR SNORING FISH / THE END / GLOSSARY OF HAWAIIAN WORDS / NOTES;
+    lines 7752-7875
+  start: '7752'
+  end: '7875'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of notes explaining locations, Pele’s traditional
+    progress in relation to volcanic action, an initiatory act, a chant summoning
+    numerous gods of woods, mountain, knoll, and water-dam, a drum used by initiated
+    performers for nonverbal communication, and a lunar timing gloss. The remainder
+    is promotional review material for another book, Hawaiian Yesterdays.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A translator’s note states that Pele’s progress in the tradition agrees with
+    geological observation, placing earliest volcanic action on Kauai and latest on
+    Hawaii.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note glosses an item as an initiatory act, specifically comparing it to
+    priesthood initiation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A chant addresses very large numbers of gods and calls gods of woods, mountain,
+    knoll, and water-dam to come.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A drum is described as made from a hollowed section of coconut-tree trunk
+    covered at one end with sharkskin, generally used in pairs.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says that initiated performers could use special drum variations
+    to express messages without spoken words, intelligible to initiated listeners.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note glosses a time reference as when the moon is twenty-seven days old.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The later part of the passage contains review quotations and publication details
+    for Hawaiian Yesterdays, a separate book.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pele
+  description: Named figure whose traditional progress is linked in the note with
+    volcanic action across the Hawaiian islands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: assembly of gods
+  description: The chant addresses four thousand, forty thousand, and four hundred
+    thousand gods, including gods of woods, mountain, knoll, and water-dam.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: initiated drum performer
+  description: A performer who knows the special variations of drumming and can communicate
+    without speech.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: initiated listeners
+  description: Listeners who can understand the special drummed communication.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named traditional figure associated with volcanic progress
+  assigned_to:
+  - fig:1
+  basis: The note says Pele’s progress in the tradition corresponds to the order of
+    volcanic action from Kauai to Hawaii.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: invoked divine assembly
+  assigned_to:
+  - fig:2
+  basis: The chant directly addresses large numbers of gods and asks gods of particular
+    places to come.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: initiated nonverbal communicator
+  assigned_to:
+  - fig:3
+  basis: The performer uses drum variations known only to the initiated to express
+    messages without voice.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: initiated recipients of encoded sound
+  assigned_to:
+  - fig:4
+  basis: The drummed messages are said to be intelligible to initiated listeners.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: mountain named as one domain of the gods invoked in the chant
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water-dam
+  literal_form: water-dam named as one domain of the gods invoked in the chant
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: paired drum
+  literal_form: drum made from hollow coconut-tree trunk and sharkskin, used in pairs
+    for communicative drumming
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: multiplied divine numbers
+  literal_form: four thousand gods, forty thousand gods, four hundred thousand gods,
+    file of gods, assembly of gods
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: twenty-seven-day-old moon
+  literal_form: moon when twenty-seven days old
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Pele’s progress and volcanic sequence
+  summary: A note states that the tradition’s account of Pele’s progress corresponds
+    to geological observation of volcanic activity beginning on Kauai and ending on
+    Hawaii.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invocation of many localized gods
+  summary: A chant summons a vast assembly of gods, including gods associated with
+    woods, mountain, knoll, and water-dam.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Initiated drum communication
+  summary: An initiated performer uses paired drums and specialized variations to
+    convey messages without speech to initiated listeners.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: initiation and restricted ritual knowledge
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly glosses an act as initiatory and describes drum variations
+    known only to initiated performers and listeners.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The material appears in explanatory notes, not in a full narrative scene.
+- id: motif:2
+  label: invocation of a localized divine assembly
+  taxonomy_refs: []
+  basis: The chant calls on numerous gods and specifies gods tied to woods, mountain,
+    knoll, and water-dam.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the chant excerpt is provided; its original ritual or narrative context
+    is not included in this passage.
+- id: motif:3
+  label: deity’s movement mapped onto volcanic geography
+  taxonomy_refs: []
+  basis: The translator’s note links Pele’s traditional progress with the geographical
+    sequence of volcanic action from Kauai to Hawaii.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The note summarizes a tradition rather than presenting the tradition itself;
+    no detailed episode is included here.
+- id: motif:4
+  label: nonverbal encoded communication by ritual instrument
+  taxonomy_refs: []
+  basis: The passage describes drummed messages, based on special variations, as intelligible
+    only to initiated listeners and produced without spoken words.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The claim is reported in an explanatory note and marked by the text as
+    alleged.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7752-7765; note [3]
+  quote_or_summary: 'The translator notes that Pele’s traditional progress agrees
+    with geological observation: earliest volcanic action on Kauai and latest on Hawaii.'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 7769-7771; note [6]
+  quote_or_summary: "“An initiatory act, as in the priesthood.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 7773-7784; note [7]
+  quote_or_summary: "“O the four thousand gods, / The forty thousand gods, / The four
+    hundred thousand gods,” followed by calls to gods of woods, mountain, knoll, and
+    water-dam to come."
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 7786-7797; note [8]
+  quote_or_summary: The note describes a paired drum made from hollow coconut-tree
+    trunk and sharkskin; special variations known only to the initiated allegedly
+    allowed messages to be drummed without spoken words for initiated listeners.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 7800-7802; note [11]
+  quote_or_summary: "“When the moon is twenty-seven days old.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 7804-7875; Hawaiian Yesterdays promotional section
+  quote_or_summary: The passage shifts to reviews and publication information for
+    Hawaiian Yesterdays by Dr. Henry M. Lyman.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extract is mostly notes and publisher material, so motif identification
+    is limited to explicit ritual, divine, and symbolic references in the notes. No
+    passage-supported cross-tradition comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references were applied only where directly supported by explicit wording.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l7752-l7875
+  passage_sha256=b0f16772f026d12558e448ede4161e67ad3ee69217a52f461cee9562a8a34cf2
+

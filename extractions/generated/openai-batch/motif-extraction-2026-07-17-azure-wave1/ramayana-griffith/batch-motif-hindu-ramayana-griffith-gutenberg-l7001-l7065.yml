@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l7001-l7065
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLI. Kapil. / Canto XLV. The Quest Of The Amrit. / Canto XLVII. Sumati.
+    / Canto L. Janak.; lines 7001-7065
+  start: '7001'
+  end: '7065'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Vaśishṭha refuses Viśvámitra’s offers of immense wealth in exchange for
+    his cow Dapple-skin, explaining that his offerings, rites, sacred fire, lore,
+    banquet, and daily needs depend upon her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vaśishṭha answers Viśvámitra and refuses to sell his cow, even for very large
+    sums of silver.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vaśishṭha says the cow remains with him, and describes her as his guardian,
+    friend, and minister.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vaśishṭha states that offerings to gods and spirits, the sacred flame, doles
+    to living creatures, sacrifices by fire, ritual formulas, saving lore, and the
+    banquet depend on or are supplied by the cow.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The royal sage offers elephants, chariots, horses, heifers, gems, and gold
+    in exchange for Dapple-skin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Vaśishṭha again refuses to give away the cow, calling her his gem, wealth,
+    life, and support, and says his worship, sacrifices, rites, and holy service spring
+    from her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Vaśishṭha says the cow yields him what he asks each day.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Vaśishṭha
+  description: A great arch-hermit who owns Dapple-skin and refuses to sell or give
+    her away.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Viśvámitra
+  description: A king and royal sage who asks for Dapple-skin and offers great wealth
+    for her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Dapple-skin
+  description: Vaśishṭha’s cow, described as his guardian, friend, minister, treasure,
+    and source of ritual provisions and daily requested goods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: hermit-owner and ritual custodian
+  assigned_to:
+  - fig:1
+  basis: Vaśishṭha refuses to alienate the cow and says his offerings, rites, and
+    life depend on her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: royal petitioner offering exchange
+  assigned_to:
+  - fig:2
+  basis: Viśvámitra seeks Dapple-skin and repeatedly offers immense wealth in exchange.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: sacred provider of ritual support
+  assigned_to:
+  - fig:3
+  basis: The cow is said to supply offerings, ritual fire support, formulas, lore,
+    banquet provisions, and daily requested goods.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Dapple-skin cow
+  literal_form: Cow named Dapple-skin
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: sacred flame and fire sacrifice
+  literal_form: Sacred flame and sacrifice by fire
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: royal wealth offered for the cow
+  literal_form: Elephants, chariots, horses, heifers, gems, and gold
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Initial refusal to sell Dapple-skin
+  summary: Vaśishṭha refuses Viśvámitra’s monetary offer and explains that Dapple-skin
+    is inseparable from his household and sacred obligations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Expanded royal offer
+  summary: Viśvámitra increases his offer with elephants, chariots, horses, heifers,
+    gems, and gold in exchange for the cow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Final refusal and ritual explanation
+  summary: Vaśishṭha again refuses and says Dapple-skin is his wealth, life, ritual
+    root, and daily source of what he asks.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Refusal to exchange a sacred provider for royal wealth
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A king offers escalating material wealth for the cow, but the hermit refuses
+    because the cow sustains his sacred and practical life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The exchange is attempted but not completed; the passage emphasizes refusal
+    rather than successful transfer.
+- id: motif:2
+  label: Sacrificial rites sustained by a sacred animal
+  taxonomy_refs:
+  - sacrifice
+  basis: Vaśishṭha says offerings, the sacred flame, sacrifice by fire, formulas,
+    and holy service depend on Dapple-skin.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives the cow’s ritual function but does not describe the
+    performance of a full sacrifice.
+- id: motif:3
+  label: Wish-yielding sacred cow
+  taxonomy_refs: []
+  basis: Dapple-skin is credited with preparing the banquet and yielding what Vaśishṭha
+    asks each day.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The exact mechanism of yielding goods is not described in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7001-7010
+  quote_or_summary: Vaśishṭha answers Viśvámitra and says, “Will I my cow, O Monarch,
+    sell.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7011-7028
+  quote_or_summary: Vaśishṭha says Dapple-skin remains with him, calls her guardian,
+    friend, and minister, and states that offerings, sacred flame, sacrifices, ritual
+    formulas, saving lore, and the banquet depend on her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7030-7051
+  quote_or_summary: The royal sage offers thousands of elephants, hundreds of chariots,
+    many horses, ten million heifers, and gems and gold in exchange for Dapple-skin.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7053-7065
+  quote_or_summary: Vaśishṭha says, “Ne’er will I give my cow away,” and adds that
+    rites and holy service spring from her and that she yields what he asks each day.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The named figures, actions, and ritual claims are explicit in the passage.
+    Motif labels are candidate classifications and require human review. No external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l7001-l7065
+  passage_sha256=5d7739284be2ea333a688b4c93b53bd5e42dd8498a7ce2693b15e5e9d60d33b2
+

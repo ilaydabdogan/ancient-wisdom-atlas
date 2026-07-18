@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l1825-l1853
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: CANTO III / THE FATE OF LINDA / CANTO IV / THE ISLAND MAIDEN; lines 1825-1853
+  start: '1825'
+  end: '1853'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A copper man offers weapons to a woman if she will marry him. She refuses,
+    preferring a husband from the land. After he laughs, her foot slips and she sinks
+    into the sea. Her parents find only her ornaments on the beach and call her home.
+    She answers that she cannot return because the water weighs her down, and says
+    she now has a dwelling and resting-place at the bottom of the sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man of copper offers the woman weapons on the condition that she take
+    him as her husband.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman refuses the offer and says she is the daughter of a landsman and
+    prefers a husband from a village on land.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man of copper laughs scornfully.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman's foot slips and she sinks into the sea.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Her father and mother come to seek her and find only her ornaments scattered
+    on the beach.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The parents call her by name and ask her to go home with them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: She answers that she cannot go home because she is weighed down by the water.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: She asks her parents not to weep and describes a dwelling, chamber, room,
+    and soft nest in the sea, depths, and ooze.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: woman in the sea
+  description: A woman who refuses the copper man's marriage offer, sinks into the
+    sea, and speaks to her parents from there.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: man of copper
+  description: A copper man who offers weapons in exchange for marriage and then laughs
+    scornfully after the woman refuses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: father
+  description: The woman's father, who comes to seek her and is addressed by her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: mother
+  description: The woman's mother, who comes to seek her and is addressed by her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: refuser of marriage offer
+  assigned_to:
+  - fig:1
+  basis: She refuses the copper man's offer of weapons if she will take him as husband.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: submerged speaker
+  assigned_to:
+  - fig:1
+  basis: She sinks into the sea and later answers her parents from the water.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: conditional suitor
+  assigned_to:
+  - fig:2
+  basis: He offers weapons if the woman will take him as husband.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: seeking parents
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: They come to seek their daughter, find her ornaments, and call her home.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sea water
+  literal_form: sea, water, depths, ooze at the bottom of the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: weapons offered for marriage
+  literal_form: weapons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ornaments on the beach
+  literal_form: ornaments scattered on the beach
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: undersea dwelling
+  literal_form: house, chamber, room, and soft nest at the bottom of the sea and in
+    the ooze
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Marriage offer and refusal
+  summary: The copper man offers weapons if the woman will marry him; she refuses
+    and states her preference for a husband from the land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sinking into the sea
+  summary: After the copper man laughs scornfully, the woman's foot slips and she
+    sinks into the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Parents find ornaments and call their daughter
+  summary: The father and mother seek the woman, find her ornaments on the beach,
+    and call for her to return home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Voice from the water
+  summary: The woman says she cannot return because the water weighs her down and
+    tells her parents not to weep because she now has a dwelling and resting-place
+    under the sea.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: conditional marriage bargain with weapons
+  taxonomy_refs: []
+  basis: A copper man offers weapons to the woman if she will take him as husband,
+    and she refuses.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not state whether the weapons or the copper man have
+    ritual or supernatural status beyond their literal description.
+- id: motif:2
+  label: woman sinks into sea after rejected suitor's scorn
+  taxonomy_refs: []
+  basis: After refusing the copper man's offer, the woman hears his scornful laugh,
+    slips, and sinks into the sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the sequence but does not explicitly say the copper
+    man causes the fall.
+- id: motif:3
+  label: lost daughter speaks from underwater dwelling
+  taxonomy_refs: []
+  basis: The parents seek their daughter and call her home, but she answers from the
+    water and describes her dwelling at the bottom of the sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not clarify whether her underwater state is death, enchantment,
+    or another condition.
+- id: motif:4
+  label: ornaments left as trace of disappearance
+  taxonomy_refs: []
+  basis: The parents find only the woman's ornaments scattered on the beach after
+    she sinks into the sea.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not assign further meaning to the ornaments.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1825-1829
+  quote_or_summary: The copper man offers weapons if the woman will marry him; she
+    refuses, saying she is a landsman's daughter and prefers a husband from a land
+    village.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 1829-1831
+  quote_or_summary: The copper man laughs scornfully; the woman's foot slips and she
+    sinks into the sea.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 1831-1835
+  quote_or_summary: Her father and mother come to seek her, find only her ornaments
+    on the beach, call her by name, and ask her to go home with them.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 1835-1838
+  quote_or_summary: She answers that she cannot return because she is weighed down
+    by the water and tells them about her adventure with the copper man.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: 1838-1853
+  quote_or_summary: She asks her parents not to weep and says, "In the sea is now
+    my dwelling," with a resting-place in the depths and ooze.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and intentionally
+    avoid unsupported taxonomy assignments beyond the water symbol.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another tradition or motif family.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l1825-l1853
+  passage_sha256=f4e10452d06027ba6db52a4981458a69b0f4fda762c45af140c0f4c0334120f0
+

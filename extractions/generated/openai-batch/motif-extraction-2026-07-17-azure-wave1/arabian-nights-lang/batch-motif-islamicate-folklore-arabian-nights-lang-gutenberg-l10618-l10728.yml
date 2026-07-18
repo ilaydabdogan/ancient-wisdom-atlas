@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l10618-l10728
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 10618-10728
+  start: '10618'
+  end: '10728'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Princess Parizade receives an old pious woman, who says the princess''s
+    house lacks three marvels: the Talking Bird, the Singing Tree, and the Golden
+    Water. The old woman gives partial directions toward India. Parizade tells her
+    brothers, and Prince Bahman volunteers to seek the marvels. Before departure he
+    gives Parizade a knife whose blade will indicate whether he lives or dies. After
+    twenty days on the road he nears the Persian frontier and sees a strange old man
+    seated under a tree.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The princess welcomes the old woman as a holy person, seats her beside her
+    on the best seat, and orders refreshments.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess questions the old woman about her way of life, pious exercises,
+    and opinion of the house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old woman says the house and garden are beautiful but that three things
+    are lacking to make the place absolutely perfect.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The three named marvels are the Talking Bird, the Singing Tree, and the Golden
+    Water, each described by a distinctive wonder-working property.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The old woman says the three things are in one place on the borders of the
+    kingdom toward India, reachable by following the road by the house for twenty
+    days and asking the first person met.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the old woman leaves abruptly, Princess Parizade realizes that the directions
+    are not very clear and continues thinking about possessing the rarities.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Princess Parizade tells her brothers that she will not be content until she
+    has the three marvels and asks whom to send on the undertaking.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Prince Bahman claims the right, as elder brother, to make the first attempt;
+    Prince Perviz objects because of the danger, but Bahman prepares for the journey.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: At Bahman's departure, Parizade urges him to give up the quest because he
+    may not return and says she would rather lose the marvels than have him run into
+    danger.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Bahman gives Parizade a sheathed knife from his belt and says its clean blade
+    will mean he is alive, while a blood-spotted blade will mean he is dead.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Bahman rides for twenty days on the high road without turning aside and approaches
+    the frontiers of Persia.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Near the frontier Bahman sees a hideous old man seated under a wayside tree,
+    with very long white facial hair, enormous nails, and a large hat used as an umbrella.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Princess Parizade
+  description: A princess who hosts the old woman, desires the three marvels, tells
+    her brothers of them, and receives Bahman's knife as a sign of his life or death.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Old woman / pilgrim / Mussulman devotee
+  description: An old pious visitor who is treated as holy, describes the three missing
+    marvels, gives directions toward India, and departs abruptly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Prince Bahman
+  description: Princess Parizade's brother, described as elder and head of the family,
+    who volunteers for the first attempt, gives Parizade the knife-token, and rides
+    out armed.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Prince Perviz
+  description: Princess Parizade's brother who objects that Bahman should not expose
+    himself to danger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Hideous old man by the wayside
+  description: A strange old man seen by Bahman near the Persian frontier, seated
+    under a tree, with long white moustache and beard, enormous nails, and a huge
+    hat.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: Host to a holy visitor
+  assigned_to:
+  - fig:1
+  basis: Parizade honors the old woman, seats her, and provides refreshments.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Requester of the undertaking
+  assigned_to:
+  - fig:1
+  basis: Parizade desires the three marvels and asks her brothers whom to send to
+    obtain them.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: Pious informant
+  assigned_to:
+  - fig:2
+  basis: The old woman is treated as holy and later identified as a Mussulman devotee;
+    she names the marvels and gives directions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:4
+  label: Volunteer quester
+  assigned_to:
+  - fig:3
+  basis: Bahman claims the first attempt and departs on horseback, armed, to follow
+    the road for the quest.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:5
+  label: Concerned objector to danger
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Perviz objects to Bahman exposing himself to danger, and Parizade implores
+    Bahman to abandon the quest rather than risk not returning.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: Life-token giver
+  assigned_to:
+  - fig:3
+  basis: Bahman gives Parizade a knife whose blade will show whether he lives or has
+    died.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: Life-token keeper
+  assigned_to:
+  - fig:1
+  basis: Parizade is instructed to draw and inspect the knife from time to time for
+    signs of Bahman's state.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: Wayside encounter figure
+  assigned_to:
+  - fig:5
+  basis: The old man is encountered beside the road near the frontier after Bahman's
+    twenty-day ride.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Talking Bird
+  literal_form: A bird whose voice draws all other singing birds to join it in chorus.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: Singing Tree
+  literal_form: A tree in which every leaf is a never-silent song.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: Golden Water
+  literal_form: Water of which one drop poured into a basin becomes an inexhaustible
+    fountain that does not overflow.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: Life-sign knife
+  literal_form: A sheathed knife whose blade remains bright and clean if Bahman lives,
+    but becomes spotted with blood if he dies.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: Wayside tree
+  literal_form: A tree by the road under which the hideous old man sits near the Persian
+    frontier.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Reception of the old woman
+  summary: Princess Parizade welcomes the old woman as a holy guest, seats her honorably,
+    provides refreshments, and asks about her practices and the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Revelation of the three missing marvels
+  summary: The old woman says the house lacks the Talking Bird, the Singing Tree,
+    and the Golden Water, describes their powers, and gives directions toward India
+    for finding them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Parizade tells her brothers
+  summary: After the old woman leaves, Parizade tells Bahman and Perviz about the
+    three marvels and asks whom to send; Bahman volunteers despite Perviz's objection.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Bahman's departure and knife-token
+  summary: Bahman prepares to leave on horseback; Parizade fears he may not return,
+    and Bahman gives her a knife whose condition will indicate his life or death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Twenty-day ride to the frontier
+  summary: Bahman rides straight for twenty days toward the Persian frontier and notices
+    a strange old man seated beneath a wayside tree.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Hospitality repaid with revelation of marvels
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The princess offers honor and refreshments to the old pious visitor; the
+    visitor says she would ill repay the hospitality if she refused to answer and
+    then reveals where the three marvels may be found.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage explicitly frames the information as repayment for hospitality;
+    the classification as sacred exchange depends on the visitor's pious status and
+    should be reviewed.
+- id: motif:2
+  label: Quest for three marvelous objects
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage centers on obtaining the Talking Bird, Singing Tree, and Golden
+    Water, and Bahman departs to seek them.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: Only the beginning of the quest is included in this passage; outcome and
+    trials are outside the supplied range.
+- id: motif:3
+  label: Heroic departure for dangerous undertaking
+  taxonomy_refs:
+  - departure
+  basis: Bahman volunteers, prepares, says farewell, mounts his horse, and rides armed
+    along the high road despite family concern about danger.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage establishes departure but does not yet show the main trial
+    or return.
+- id: motif:4
+  label: Life-token indicating the quester's fate
+  taxonomy_refs: []
+  basis: Bahman gives Parizade a knife whose bright or blood-spotted blade will indicate
+    whether he is alive or dead.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: No taxonomy reference was assigned because the supplied motif-family list
+    has no specific life-token category.
+- id: motif:5
+  label: Pious or wise informant gives route to quest objects
+  taxonomy_refs:
+  - wisdom
+  basis: The old woman, identified as a devotee/pilgrim, supplies knowledge of the
+    three marvels and instructions for the road to them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage shows special knowledge and guidance, but does not explicitly
+    call the old woman wise.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10618-10627
+  quote_or_summary: Princess Parizade honors the old woman as a holy person, gives
+    her the best seat and refreshments, and asks about her way of life and pious exercises.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10629-10633
+  quote_or_summary: The pilgrim praises the house and garden but says three things
+    are lacking to make the house absolutely perfect.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10638-10644
+  quote_or_summary: 'The old woman identifies the Talking Bird, the Singing Tree,
+    and the Golden Water and describes their effects: attracting singing birds, leaves
+    that sing, and an inexhaustible fountain from one drop.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10650-10657
+  quote_or_summary: The pilgrim says the three things are all in one place on the
+    border of the kingdom toward India; a messenger should follow the road for twenty
+    days and ask the first person met.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10659-10664
+  quote_or_summary: After the old woman leaves abruptly, Parizade realizes the directions
+    are unclear and thinks about how delightful it would be to possess the rarities.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 10677-10689
+  quote_or_summary: Parizade tells her brothers that the house lacks the Talking Bird,
+    Singing Tree, and Golden Water, says a Mussulman devotee told her where they may
+    be found, and asks whom to send.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 10691-10700
+  quote_or_summary: Bahman claims the right as elder to make the first attempt; Perviz
+    objects because Bahman is head of the family and should not face danger, but Bahman
+    prepares for the journey.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 10702-10710
+  quote_or_summary: On the morning of departure, Bahman mounts his horse, and Parizade
+    implores him to give up the quest because he may not return and she would rather
+    lose the marvels than risk him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 10712-10719
+  quote_or_summary: Bahman gives Parizade a knife from his belt and tells her its
+    clean blade means he is alive, while a blood-spotted blade means he is dead.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 10721-10728
+  quote_or_summary: Bahman says farewell, starts armed on the high road, rides straight
+    for twenty days toward the Persian frontier, and sees a hideous old man under
+    a wayside tree with long white facial hair, enormous nails, and a huge hat.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidate classifications for review. No external comparison claims were added
+    because the passage does not itself make such comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, events, or comparisons outside the supplied line range were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l10618-l10728
+  passage_sha256=fd2ebe2534e63868f9cf1134026421cf588a13a31d1d32f2ba1a2ad95f3ce2ae
+

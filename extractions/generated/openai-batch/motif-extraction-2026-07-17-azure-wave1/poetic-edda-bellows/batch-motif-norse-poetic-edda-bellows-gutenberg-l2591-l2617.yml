@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l2591-l2617
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / HOVAMOL / THE BALLAD OF THE HIGH ONE / INTRODUCTORY NOTE; lines 2591-2617
+  start: '2591'
+  end: '2617'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Stanzas 161-165 continue a numbered catalogue of songs known by the speaker.
+    The fifteenth is associated with Thjothrrir the dwarf singing before Delling's
+    doors and bringing might, glory, and wisdom to named recipients. The sixteenth
+    and seventeenth concern influence over maidens. Loddfafnir is told that these
+    songs are hard to gain and sing. The eighteenth is withheld from maidens and wives,
+    except for an intimate woman or sister.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he knows a fifteenth song; Thjothrrir the dwarf sang before
+    Delling's doors, with might for the gods, glory for elves, and wisdom for Hroptatyr.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he knows a sixteenth song used when seeking delight from
+    a wise maiden; he turns and changes the mind or thoughts of the white-armed maid.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he knows a seventeenth song so that a young maiden will seldom
+    go from him; the remaining lines are shown as missing or omitted.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker addresses Loddfafnir and says these songs will be sought in vain
+    to sing, but would be good, useful, and helpful if obtained, learned, or possessed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker says he knows an eighteenth song that he will not tell to a maiden
+    or another man's wife; he says what one alone knows is best, except for disclosure
+    to the woman in whose arms he lies or to his sister.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker, named only as "I"
+  description: The first-person speaker who knows the fifteenth through eighteenth
+    songs and controls their disclosure.
+  role_refs:
+  - role:1
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Thjothrrir the dwarf
+  description: A dwarf said to have sung before Delling's doors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Delling
+  description: A named figure associated with the doors before which Thjothrrir sang.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the gods
+  description: A group for whom might is said to have been sung.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: elves
+  description: A group for whom glory is said to have been sung.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Hroptatyr wise
+  description: A named figure for whom wisdom is said to have been sung.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: wise maiden / white-armed maid
+  description: The maiden whose mind and thoughts the speaker says he can turn and
+    change with the sixteenth song.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: young maiden
+  description: The maiden mentioned in connection with the seventeenth song, who shall
+    seldom go from the speaker.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Loddfafnir
+  description: The named addressee told that the songs are hard to sing and beneficial
+    if obtained, learned, or possessed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: maiden or wife of man
+  description: Recipients to whom the speaker says he will not tell the eighteenth
+    song.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: intimate woman or sister
+  description: 'The exceptions named as possible recipients of the eighteenth song:
+    the woman in whose arms the speaker lies, or his sister.'
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: knower of numbered songs
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly says that he knows the fifteenth, sixteenth, seventeenth,
+    and eighteenth songs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: dwarf singer
+  assigned_to:
+  - fig:2
+  basis: Thjothrrir is identified as a dwarf who sang before Delling's doors.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: figure associated with doors
+  assigned_to:
+  - fig:3
+  basis: The song is placed before the doors of Delling.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: named beneficiaries of song
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The stanza names might for the gods, glory for elves, and wisdom for Hroptatyr.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: maiden affected by a song
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The sixteenth and seventeenth songs are described in relation to influencing
+    or retaining maidens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: addressee and potential learner
+  assigned_to:
+  - fig:9
+  basis: Loddfafnir is told that the songs are difficult to sing but beneficial if
+    he could get, learn, or have them.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: excluded recipients of secret song
+  assigned_to:
+  - fig:10
+  basis: The speaker says he will not tell the eighteenth song to a maiden or wife
+    of man.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: permitted exception to secrecy
+  assigned_to:
+  - fig:11
+  basis: The speaker allows disclosure only to the woman in whose arms he lies or
+    to his sister.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: keeper of withheld knowledge
+  assigned_to:
+  - fig:1
+  basis: The speaker states that the eighteenth song will not be told broadly and
+    that what one alone knows is best.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: numbered songs
+  literal_form: The fifteenth, sixteenth, seventeenth, and eighteenth songs known
+    by the speaker.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: doors of Delling
+  literal_form: The doors before which Thjothrrir the dwarf sang.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: withheld eighteenth song
+  literal_form: The eighteenth song that the speaker says he will not tell except
+    under limited intimate or kinship conditions.
+  associated_figures:
+  - fig:1
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: arms as intimacy marker
+  literal_form: The phrase describing the woman "in whose arms" the speaker lies as
+    an exception to secrecy.
+  associated_figures:
+  - fig:1
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Thjothrrir's fifteenth song before Delling's doors
+  summary: The speaker identifies a fifteenth song and says Thjothrrir the dwarf sang
+    before Delling's doors, bringing might, glory, and wisdom to gods, elves, and
+    Hroptatyr.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: songs concerning maidens
+  summary: The speaker describes the sixteenth song as turning a wise maiden's thoughts
+    and the seventeenth as preventing a young maiden from going from him, though the
+    seventeenth stanza is partly missing.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Loddfafnir urged toward difficult songs
+  summary: The speaker tells Loddfafnir that these songs are hard to sing or gain,
+    but would be good, useful, and helpful if learned or possessed.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: withholding the eighteenth song
+  summary: The speaker says he knows an eighteenth song that he will not tell to maidens
+    or wives, saying solitary knowledge is best, with exceptions for an intimate woman
+    or sister.
+  figure_refs:
+  - fig:1
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: catalogue of esoteric numbered songs
+  taxonomy_refs:
+  - wisdom
+  basis: The passage lists successive songs known by the speaker and presents them
+    as difficult, beneficial knowledge that Loddfafnir might seek to learn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage uses the word "songs" and describes their effects, but it
+    does not provide a full ritual setting.
+- id: motif:2
+  label: secret knowledge withheld from most recipients
+  taxonomy_refs:
+  - forbidden_knowledge
+  - wisdom
+  basis: The eighteenth song is explicitly withheld from maidens and wives; the speaker
+    states that knowledge known only to oneself is best, with narrow exceptions.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The text gives rules of disclosure but does not explain the content of
+    the eighteenth song.
+- id: motif:3
+  label: song that changes a maiden's thoughts
+  taxonomy_refs: []
+  basis: The sixteenth song is said to turn the mind and change the thoughts of a
+    wise or white-armed maiden; the seventeenth also concerns retaining a young maiden.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The seventeenth stanza is partly lacunose, and the passage does not clarify
+    whether the maidens in stanzas 162 and 163 are the same figure.
+- id: motif:4
+  label: benefit-granting song for divine and otherworld figures
+  taxonomy_refs:
+  - wisdom
+  basis: The fifteenth song is associated with might for the gods, glory for elves,
+    and wisdom for Hroptatyr.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports the effects in compressed poetic form and does not
+    explain how the song confers these benefits.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: stanza 161, lines 2591-2594
+  quote_or_summary: The speaker knows a fifteenth song; Thjothrrir the dwarf sang
+    before Delling's doors, with might for gods, glory for elves, and wisdom for Hroptatyr.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: stanza 162, lines 2596-2599
+  quote_or_summary: The speaker knows a sixteenth song to seek delight from a wise
+    maiden by turning and changing the mind or thoughts of the white-armed maid.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: stanza 163, lines 2601-2604
+  quote_or_summary: The speaker knows a seventeenth song so a young maiden will seldom
+    go from him; the remaining lines are represented by ellipses.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: stanza 164, lines 2606-2610
+  quote_or_summary: Loddfafnir is told that these songs will be sought in vain to
+    sing, but would be good, useful, and helpful if he could get, learn, or have them.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: stanza 165, lines 2612-2617
+  quote_or_summary: The speaker knows an eighteenth song he will not tell to a maiden
+    or wife; he says solitary knowledge is best, except for an intimate woman or sister.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for figures and actions named in the passage.
+    Motif assignments are limited to visible patterns in the supplied text. No cross-tradition
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external identifications of figures or traditions were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l2591-l2617
+  passage_sha256=3e6bc41b85d99fa6f3a4460f50e09f0197acbf465f8e48a87904da3f1e3cc24d
+

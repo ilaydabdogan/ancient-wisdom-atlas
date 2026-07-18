@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4900-l4946
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4900-4946
+  start: '4900'
+  end: '4946'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes rewards of paradise: dismissal after a feast to
+    allotted mansions, happiness proportioned to merit, abundant servants, wives,
+    jeweled tents, gold vessels, varied foods and non-inebriating wine diluted with
+    sweet fragrant waters, absence of bodily evacuations, splendid garments and furniture,
+    perpetual youth after being raised, Adamic stature, and immediate conception,
+    birth, and growth of desired children.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After a feast, each person is dismissed to a mansion designed for him, with
+    felicity proportioned to his merits.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The least person in paradise is described as having many servants, wives from
+    paradise, former earthly wives, and a large jeweled tent.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Another tradition describes attendants serving many gold dishes of different
+    foods and many sorts of liquors in gold vessels.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Wine, forbidden in this life, is described as freely allowed in the next life
+    and as not causing inebriation.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The water of Tasnm and other fountains is described as sweet and fragrant
+    and used to dilute the wine of paradise.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Inhabitants of paradise are described as not needing bodily evacuation or
+    even nose-blowing; excess is carried off through musk-scented perspiration.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The godly in the next life are described as clothed in rich silks and brocades,
+    especially green, supplied by fruits of paradise and leaves of the tree Tba.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The blessed are described as adorned with gold and silver bracelets and pearl-set
+    crowns and as using rich carpets, litters, couches, pillows, and embroidered furnishings.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The inhabitants of paradise are said to enjoy perpetual youth and to be raised
+    in prime vigor, about thirty years old, never exceeding that age.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: On entering paradise, the inhabitants are said to have the stature of Adam,
+    described here as sixty cubits high.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: If a faithful person in paradise desires offspring, the child is said to be
+    conceived, born, and grown within an hour.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: inhabitants of paradise
+  description: People dismissed to assigned mansions and described as enjoying paradise's
+    food, drink, bodily condition, garments, youth, stature, and possible offspring.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: godly
+  description: Recipients of promised garments and furniture in the next life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: faithful in paradise
+  description: Those who may desire issue, which is then conceived, born, and grown
+    within an hour.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:11
+- id: fig:4
+  name_or_label: servants and attendants
+  description: Servants and attendants assigned to inhabitants of paradise and serving
+    food and drink.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: wives and girls of paradise
+  description: Wives from paradise and former earthly wives associated with a person
+    in paradise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Adam
+  description: Named as the stature model for those entering paradise; his height
+    is given as sixty cubits.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: recipient of paradisal reward
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes assigned mansions, felicity, garments, furnishings,
+    youth, stature, and offspring for people in paradise or the next life.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:2
+  label: transformed resurrected inhabitant
+  assigned_to:
+  - fig:1
+  basis: The inhabitants are said to be raised in prime vigor and to enter paradise
+    with Adam's stature.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:3
+  label: paradisal server
+  assigned_to:
+  - fig:4
+  basis: The passage describes servants and attendants waiting on the inhabitant and
+    serving dishes and liquors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: paradisal consort
+  assigned_to:
+  - fig:5
+  basis: The passage mentions wives from paradise and wives from this world belonging
+    to the paradise recipient.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: primordial stature model
+  assigned_to:
+  - fig:6
+  basis: Adam is cited as the height pattern for those entering paradise.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: jeweled mansion and tent
+  literal_form: Assigned mansion and a large tent of pearls, jacinths, and emeralds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: gold vessels and dishes
+  literal_form: Dishes and vessels of gold used for food and liquors.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: non-inebriating wine of paradise
+  literal_form: Wine allowed in the next life that does not inebriate.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sweet fragrant fountain water
+  literal_form: Water of Tasnm and other fountains used to dilute paradise wine.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: musk-scented perspiration
+  literal_form: Sweat as odoriferous as musk that removes bodily superfluities.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: green silk and brocade garments
+  literal_form: Rich silks and brocades, chiefly green, produced from fruits of paradise
+    and leaves of the tree Tba.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: tree Tba
+  literal_form: Tree whose leaves supply garments.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: crowns and bracelets
+  literal_form: Bracelets of gold and silver and crowns set with pearls.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: perpetual youth
+  literal_form: Being raised at about thirty years of age and never exceeding that
+    age.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: Adamic stature
+  literal_form: Height of Adam, described as sixty cubits, given to those entering
+    paradise.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:11
+  label: instant offspring
+  literal_form: Desired child conceived, born, and grown within an hour.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Allotment to paradisal mansions
+  summary: After the feast, each person is sent to a designated mansion and receives
+    felicity proportioned to merit.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Paradisal banquet and drink
+  summary: The inhabitants of paradise receive servants, wives, abundant foods, gold
+    dishes, liquors, non-inebriating wine, and sweet fragrant fountain water.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Odoriferous purification of the body
+  summary: The inhabitants of paradise have no need for ordinary bodily evacuation
+    because excess is removed through musk-scented perspiration, after which appetite
+    returns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Splendid garments and furnishings
+  summary: The godly receive green silks, brocades, jewelry, crowns, and rich furniture,
+    with garments supplied by fruits of paradise and the leaves of the tree Tba.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Resurrection in youth and stature
+  summary: The inhabitants of paradise are raised in perpetual youthful vigor and
+    enter paradise with Adam's stature.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Desired offspring in paradise
+  summary: If a faithful person in paradise desires offspring, the child is conceived,
+    born, and grown within an hour.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: afterlife reward proportioned to merit
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that each person is dismissed to a mansion and receives
+    felicity proportioned to his merits.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage emphasizes reward and proportion to merit, but it does not
+    narrate a judgment scene in this excerpt.
+- id: motif:2
+  label: resurrection into transformed youthful body
+  taxonomy_refs:
+  - resurrection
+  basis: The inhabitants are said to be raised in prime vigor, about thirty years
+    old, with perpetual youth and Adamic stature.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The description is doctrinal and descriptive rather than a narrative episode.
+- id: motif:3
+  label: paradisal abundance of food, drink, consorts, attendants, and luxury
+  taxonomy_refs: []
+  basis: The passage describes servants, wives, jeweled tents, abundant dishes, liquors,
+    wine, garments, jewelry, and rich furnishings for the inhabitants of paradise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly captures this abundance motif, so
+    no motif-family reference is assigned.
+- id: motif:4
+  label: paradisal sacred water and tree as sources of delight and clothing
+  taxonomy_refs: []
+  basis: The passage mentions sweet fragrant fountain waters used with wine and the
+    tree Tba whose leaves supply garments.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: Although available symbol refs include water and tree, the passage does
+    not frame the tree as an axis or world-center motif.
+- id: motif:5
+  label: instant generation of desired offspring
+  taxonomy_refs:
+  - miraculous_child
+  basis: A saying attributed to the prophet states that desired issue in paradise
+    is conceived, born, and grown within an hour.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The child is miraculous in rapid development, but the passage does not
+    present an individual miraculous-child narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4900-4904
+  quote_or_summary: After the feast, everyone is dismissed to the mansion designed
+    for him, where felicity is proportioned to merits and exceeds comprehension or
+    expectation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4904-4909
+  quote_or_summary: The meanest in paradise is said to have eighty thousand servants,
+    seventy-two wives from the girls of paradise, former earthly wives, and a large
+    tent of pearls, jacinths, and emeralds.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4909-4914
+  quote_or_summary: Another tradition describes three hundred attendants serving three
+    hundred gold dishes at once, each with different food, and many sorts of liquors
+    in gold vessels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4914-4918
+  quote_or_summary: Paradise includes wine which, though forbidden in this life, is
+    allowed in the next and does not inebriate like earthly wine.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4918-4921
+  quote_or_summary: The water of Tasnm and other fountains used to dilute the wine
+    is described as wonderfully sweet and fragrant.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4921-4927
+  quote_or_summary: Inhabitants of paradise need no evacuation or nose-blowing; superfluities
+    leave through perspiration as odoriferous as musk, after which appetite returns.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4928-4933
+  quote_or_summary: The godly are clothed in rich silks and brocades, chiefly green,
+    which come from fruits of paradise and from leaves of the tree Tba.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4933-4936
+  quote_or_summary: The godly are adorned with gold and silver bracelets and pearl-set
+    crowns and use rich carpets, litters, couches, pillows, and furnishings embroidered
+    with gold and precious stones.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4937-4941
+  quote_or_summary: Inhabitants of paradise enjoy perpetual youth; whenever they die,
+    they are raised in prime vigor, about thirty years old, and never exceed that
+    age.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 4941-4943
+  quote_or_summary: Those entering paradise are said to have the stature of Adam,
+    here described as sixty cubits high.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 4943-4946
+  quote_or_summary: '"If any of the faithful in paradise be desirous of issue, it
+    shall be conceived, born, and grown up within the space of an hour."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is descriptive and rich in afterlife imagery. Motif taxonomy
+    mapping is limited by the available motif families; comparison claims are omitted
+    because the excerpt itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Spelling follows the provided passage for Tasnm and Tba.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4900-l4946
+  passage_sha256=b75e138da983b51c8055d8eca986528e05ec857ec70fc7d4d43555a60e13cd16
+

@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4525-l4563
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: TRADE AND INTERCOURSE BETWEEN THE TRIBES. / LIST OF THE CENTRAL ESKIMO TRIBES.
+    / SEAL, WALRUS, AND WHALE HUNTING. / DEER, MUSK OX, AND BEAR HUNTING.; lines 4525-4563
+  start: '4525'
+  end: '4563'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Central Eskimo winter hunting methods for deer,
+    musk ox, and polar bear: snow pit traps and lures for deer; dogs, close-quarters
+    weapons, and herd encirclement for musk ox; sledges and released dogs to bring
+    polar bears to bay; seasonal pursuit of bears and winter den killing; and the
+    later easing of dangerous hunts through firearms.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In winter, deer may be caught in snow-covered pit traps baited or lured with
+    urine or salt-water ice, then speared after falling in.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dogs are described as ineffective for chasing nimble deer but useful in hunting
+    musk ox.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When dogs overtake a musk ox herd, the herd forms a defensive circle and is
+    kept at bay until the hunter approaches.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Musk oxen try to strike attacking dogs with their horns while hunters attack
+    at close range with a lance, sometimes attached to a thong.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A wounded musk ox may charge the hunter, who dodges aside while dogs again
+    keep the animal at bay.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Polar bears are pursued in light sledges, and selected dogs are released from
+    the team to bring the bear to bay.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The bear is killed with a spear or with bow and arrow after the hunter gets
+    near and the last dogs are released.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: March and April are named as the best season for bear hunting because bears
+    enter fjords and bays while pursuing young seals.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: At this season, a she bear may be accompanied by a cub born in February or
+    March, and the cub's skin and flesh are highly valued.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: At some places, she bears dig holes in snow banks for winter sleep; natives
+    seek these holes and kill the bear before it awakes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage says musk ox and bear hunting became easier after firearms were
+    introduced in Arctic America, reducing former dangers to hunters.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eskimo hunters / natives
+  description: People who set traps, pursue animals, use dogs, and kill deer, musk
+    oxen, and bears.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Deer
+  description: Winter prey attracted to snow pit traps by urine or salt-water ice
+    and speared after falling in.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hunting dogs
+  description: Dogs used to overtake musk ox herds and bring musk oxen or polar bears
+    to bay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Musk oxen / musk ox herd
+  description: Prey animal whose herd forms a defensive circle and may charge the
+    hunter when wounded.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Polar bear
+  description: Prey pursued by sledge and dogs, brought to bay, and killed with spear
+    or bow and arrow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: She bear with cub
+  description: Female bear accompanied by a cub born in February or March; at some
+    places she bears sleep in snow-bank holes during winter.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Young seals
+  description: Animals pursued by bears in fjords and bays during March and April.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The Eskimo set traps, pursue game, direct dogs, and kill animals with spears,
+    lances, bows, arrows, or firearms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: hunted animal or prey
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage presents deer, musk oxen, polar bears, she bears, cubs, and seals
+    as animals pursued, trapped, killed, prized, or pursued by other animals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: hunting helper
+  assigned_to:
+  - fig:3
+  basis: Dogs assist in musk ox and bear hunting by overtaking animals and holding
+    them at bay.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: defensive herd
+  assigned_to:
+  - fig:4
+  basis: The musk ox herd forms a circle of defense and resists dogs and hunters.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mother with offspring
+  assigned_to:
+  - fig:6
+  basis: The she bear is described as accompanied by a cub born in February or March.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: snow pit trap
+  literal_form: holes dug in snow and covered with slabs of snow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lure on trap
+  literal_form: urine poured on or around the trap, or salt-water ice placed upon
+    it
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: defensive circle
+  literal_form: musk oxen forming a circle of defense
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: close-range hunting weapons
+  literal_form: lance, spear, bow and arrow
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: light sledge pursuit
+  literal_form: light sledges used to pursue polar bears
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: snow-bank winter hole
+  literal_form: holes dug by she bears in snow banks for winter sleep
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: firearms
+  literal_form: firearms introduced in Arctic America
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Winter deer trapping
+  summary: Hunters prepare snow pit traps, use urine or salt-water ice as attractants,
+    and spear deer after the animals fall through the covered trap roof.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Musk ox herd brought to bay
+  summary: Dogs overtake a musk ox herd, the herd forms a defensive circle, and hunters
+    attack at close quarters while dogs keep wounded animals at bay.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Polar bear pursuit by sledge and dogs
+  summary: Hunters pursue a polar bear by light sledge, release reliable dogs to bring
+    it to bay, and then kill it with spear or bow and arrow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Seasonal bear hunting and she-bear dens
+  summary: In March and April bears enter fjords and bays after young seals; she bears
+    may have cubs, and at some places natives seek snow-bank sleeping holes and kill
+    bears before they awake.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:5
+  label: Firearms reduce hunting danger
+  summary: The passage states that firearms made musk ox and bear hunting easier and
+    less dangerous than before.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: pitfall trap with attractant lure
+  taxonomy_refs: []
+  basis: Deer are drawn by urine or salt-water ice to a concealed snow pit trap, fall
+    through, and are speared.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic hunting pattern, not presented as a mythic or
+    sacred motif in the passage.
+- id: motif:2
+  label: dogs bringing dangerous prey to bay
+  taxonomy_refs: []
+  basis: Dogs overtake musk oxen or polar bears and hold them at bay so hunters can
+    approach and attack.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage treats this as practical hunting technique rather than symbolic
+    narrative.
+- id: motif:3
+  label: prey herd forming defensive circle
+  taxonomy_refs: []
+  basis: The musk ox herd forms a circle of defense while dogs attack and hunters
+    approach.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference is directly supported; extracted only
+    as a recurring action pattern.
+- id: motif:4
+  label: winter den killing before awakening
+  taxonomy_refs: []
+  basis: Natives seek snow-bank holes where she bears sleep during winter and kill
+    the bear before it awakes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a hunting practice description, not an explicit mythological episode.
+- id: motif:5
+  label: new weapon reduces danger of traditional hunt
+  taxonomy_refs: []
+  basis: The passage contrasts earlier dangerous musk ox and bear hunting with later
+    easier hunting after firearms were introduced.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not elaborate a narrative theme beyond technological
+    change.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that polar bears are hunted in about the same
+    manner as musk ox, supporting a cautious comparison between the two hunting patterns.
+  claim_level: same_function
+  target: musk ox hunting pattern and polar bear hunting pattern within the same passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The similarity is limited to hunting procedure; the passage also gives
+    species-specific details such as sledges for bears and herd defense for musk oxen.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4525-4531
+  quote_or_summary: Winter deer are trapped in holes dug in snow and covered with
+    slabs; urine or salt-water ice may be used to attract them, and fallen deer are
+    speared in the hole.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 4532-4547
+  quote_or_summary: Musk ox are pursued with dogs; the herd forms a defensive circle;
+    dogs keep animals at bay while hunters attack at close range with lance, arrow,
+    or repeated throws until much of the herd is killed or an ox escapes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 4548-4558
+  quote_or_summary: 'Polar bears are hunted similarly to musk ox: pursued by light
+    sledge, brought to bay by released dogs, and killed with spear or bow and arrow;
+    March and April are best because bears enter fjords and bays after young seals,
+    and she bears may have cubs.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 4558-4561
+  quote_or_summary: At Cape Raper and Cape Kater, she bears dig snow-bank holes for
+    winter sleep, and natives seek the holes and kill the bear before it wakes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 4562-4563
+  quote_or_summary: The chase of musk ox and bear became easier after firearms were
+    introduced in Arctic America, allowing game to be killed with less danger than
+    formerly.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are framed as ethnographic
+    action patterns because the passage does not present mythic narration or explicit
+    symbolism.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological taxonomy motif family is directly supported by this passage. The only available symbol taxonomy reference used is water, for salt-water ice, as a literal form rather than an interpreted symbol.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4525-l4563
+  passage_sha256=9efeee57c8a6ad409f143c1264c0212d6b56b6ca1c4d3311d550705242350a26
+

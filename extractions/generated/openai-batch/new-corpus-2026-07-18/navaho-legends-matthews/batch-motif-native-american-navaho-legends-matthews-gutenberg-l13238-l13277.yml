@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l13238-l13277
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: BY PROF. JOHN COMFORT FILLMORE. / TEXTS AND INTERLINEAR TRANSLATIONS. / FREE
+    TRANSLATION OF PRAYER. / REMARKS ON THE PRAYER.; lines 13238-13277
+  start: '13238'
+  end: '13277'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The remarks explain that the prayer is addressed to a mythic thunder-bird,
+    described as a male divinity dwelling with other yéi at Tse`gíhi. The prayer is
+    performed at the beginning of work on the last night of the klédzi hatál, with
+    a shaman reciting each verse and a first dancer repeating it. The passage also
+    discusses the semantic range of hozó-related words and identifies hozóna hastlé
+    as a repeated closing expression for recorded Navaho prayers, analogous in function
+    to the Christian Amen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prayer is addressed to a mythic thunder-bird.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The thunder-bird is described as a male divinity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The thunder-bird is said to dwell with other yéi at Tse`gíhi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A reference to wings in the prayer is explained by the thunder-bird addressee.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The prayer is said at the beginning of work on the last night of the klédzi
+    hatál.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The shaman speaks the prayer verse by verse, and one of the atsá`lei or first
+    dancers repeats each verse after him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The word hozó is said to mean terrestrial beauty primarily, while related
+    forms are extended to meanings such as happiness and joyful manner.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The expression hozóna hastlé, repeated twice or four times according to circumstances,
+    is said to end all recorded Navaho prayers known to the author.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The author states that the prayer-ending expression is analogous to the Christian
+    Amen.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: mythic thunder-bird
+  description: A mythic bird addressed by the prayer, spoken of as a male divinity
+    and associated with wings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: other yéi
+  description: Other yéi with whom the thunder-bird is supposed to dwell at Tse`gíhi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: shaman
+  description: The ritual speaker who recites the prayer verse by verse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: atsá`lei or first dancer
+  description: One of the first dancers who repeats each verse after the shaman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: prayer addressee
+  assigned_to:
+  - fig:1
+  basis: The passage says the prayer is addressed to the mythic thunder-bird.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: male divinity
+  assigned_to:
+  - fig:1
+  basis: The bird is spoken of as a male divinity.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: co-dwelling yéi
+  assigned_to:
+  - fig:2
+  basis: The thunder-bird is supposed to dwell with other yéi at Tse`gíhi.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: primary ritual reciter
+  assigned_to:
+  - fig:3
+  basis: The shaman speaks the prayer verse by verse.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: responsive ritual repeater
+  assigned_to:
+  - fig:4
+  basis: One of the atsá`lei or first dancers repeats each verse after the shaman.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wings
+  literal_form: reference to wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tse`gíhi dwelling place
+  literal_form: Tse`gíhi
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hozó word cluster
+  literal_form: hozó, hozógo, hozóni, Hozóna
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: prayer-ending expression
+  literal_form: hozóna hastlé
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: repetition count
+  literal_form: repeated twice or four times
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Prayer addressed to thunder-bird divinity
+  summary: The remarks identify the prayer’s addressee as a mythic thunder-bird, described
+    as a male divinity dwelling with other yéi at Tse`gíhi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Verse-by-verse ritual recitation
+  summary: At the beginning of work on the last night of the klédzi hatál, the shaman
+    recites the prayer verse by verse and a first dancer repeats each verse.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Explanation of hozó language and closing formula
+  summary: The passage explains the beauty and happiness meanings of hozó-related
+    words and identifies hozóna hastlé as a repeated ending for recorded Navaho prayers.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Prayer to mythic bird divinity
+  taxonomy_refs: []
+  basis: The passage states that the prayer is addressed to a mythic thunder-bird
+    spoken of as a male divinity.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a commentary on the prayer, not the full prayer text itself.
+- id: motif:2
+  label: Call-and-response ceremonial prayer recitation
+  taxonomy_refs: []
+  basis: The shaman recites each verse and a first dancer repeats it after him in
+    a specified ritual setting.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes procedure but gives limited detail about the wider
+    ceremony.
+- id: motif:3
+  label: Repeated prayer-closing formula
+  taxonomy_refs: []
+  basis: The expression hozóna hastlé is repeated twice or four times and is said
+    to end all recorded Navaho prayers known to the author.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The claim reflects the author’s recorded corpus and should be reviewed
+    against additional sources.
+- id: motif:4
+  label: Beauty-happiness blessing vocabulary
+  taxonomy_refs: []
+  basis: The hozó word group is explained as moving from terrestrial beauty to meanings
+    of happiness and joyful manner in translation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is primarily a linguistic and ritual-language pattern rather than
+    a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents hozóna hastlé as functionally analogous to
+    the Christian Amen as a prayer-ending expression.
+  claim_level: same_function
+  target: Christian Amen
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states functional analogy only; it does not claim historical
+    contact, shared origin, or equivalence of theological meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13240-13243
+  quote_or_summary: The prayer is addressed to a mythic thunder-bird; the wing reference
+    is explained by this addressee, which is spoken of as a male divinity dwelling
+    with other yéi at Tse`gíhi.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 13243-13246
+  quote_or_summary: The prayer is said at the beginning of work on the last night
+    of the klédzi hatál; the shaman recites it verse by verse and one atsá`lei or
+    first dancer repeats each verse.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 13248-13255
+  quote_or_summary: The author explains hozó as primarily terrestrial beauty and describes
+    related forms whose meanings extend to happiness, happy manner, and joyfulness
+    in free translation.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 13257-13260
+  quote_or_summary: The author now regards hozóna hastlé as the more correct form;
+    repeated twice or four times according to circumstances, it ends all recorded
+    Navaho prayers and is analogous to the Christian Amen.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 13262-13276
+  quote_or_summary: The note explains that spelling or accent variations in Navaho
+    words may arise from pronunciation differences, changing usage, compound forms,
+    alphabet differences, or the author’s later study.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explanatory and ethnographic rather than narrative; ritual
+    roles and functional comparison are explicit, while motif labels remain candidates
+    pending human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol ref was applied because the passage does not explicitly support mapping to the supplied taxonomy IDs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l13238-l13277
+  passage_sha256=3de9b88e220678ad2471520466b01398a73892f277bbde3631e8c5e963671290
+

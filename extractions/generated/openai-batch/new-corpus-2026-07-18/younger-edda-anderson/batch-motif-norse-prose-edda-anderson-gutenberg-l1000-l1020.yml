@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.norse-prose-edda-anderson-gutenberg-l1000-l1020
+source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+passage_locator:
+  label: INDEX                                          291 / THE YOUNGER EDDA. /
+    INTRODUCTION. / FOREWORD.; lines 1000-1020
+  start: '1000'
+  end: '1020'
+  translation: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: the tongue of these Asiamen became the native tongue of all these lands
+  summary: The passage narrates Odin traveling north to the sea, establishing his
+    son Saming in the kingdom now called Norway, and associating Norwegian rulers
+    with descent from Saming. It also says Odin's son Yngve was king in Sweden and
+    ancestor of the Ynglings. The Asas marry within the land, their families spread
+    over Saxland and the northern region, and their language becomes native to those
+    lands, while old English place names are said to show another tongue.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Odin fares north until he reaches the sea, which is described as surrounding
+    all lands in the belief of the people mentioned.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Odin establishes his son Saming in the kingdom now called Norway.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The kings of Norway, jarls, and other mighty men are said to count their ancestry
+    back to Saming.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Odin has with him the son called Yngve, who is king in Sweden.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The families called Ynglings or Yngvelings are said to descend from Yngve.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Asas take wives in the land, and some take wives for their sons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The families of the Asas become numerous and spread over Saxland and then
+    over the whole northern region.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The tongue of the Asiamen is said to become the native tongue of all these
+    lands.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: People are said to infer from written ancestral names that the Asas brought
+    this tongue north to Norway, Sweden, and Saxland.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Old English place and town names are said to appear to have been given in
+    another tongue than the one attributed to the Asiamen.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Odin
+  description: A figure who fares north, establishes Saming in Norway, and has Yngve
+    with him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Saming
+  description: Odin's son, established in the kingdom now called Norway, and named
+    as ancestor of Norwegian rulers.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Yngve
+  description: Odin's son, described as king in Sweden and ancestor of the Ynglings
+    or Yngvelings.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Asas / Asiamen
+  description: A group that takes wives in the land, grows into numerous families,
+    spreads over Saxland and the northern region, and is associated with the language
+    of those lands.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Kings of Norway, jarls, and other mighty men
+  description: Ruling and high-status groups said to count their ancestors back to
+    Saming.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Ynglings / Yngvelings
+  description: Families said to descend from Yngve.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: northward traveler
+  assigned_to:
+  - fig:1
+  basis: Odin is described as faring north until he reaches the sea.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father of dynastic sons
+  assigned_to:
+  - fig:1
+  basis: Saming and Yngve are both identified as sons of Odin in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: dynastic progenitor
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Saming is made ancestor of Norwegian rulers, and Yngve is made ancestor of
+    the Ynglings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: established ruler in Norway
+  assigned_to:
+  - fig:2
+  basis: Odin establishes Saming in the kingdom now called Norway.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: king in Sweden
+  assigned_to:
+  - fig:3
+  basis: Yngve is directly described as king in Sweden.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: settling and language-bearing people
+  assigned_to:
+  - fig:4
+  basis: The Asas marry, multiply, spread over regions, and are associated with the
+    tongue that becomes native there.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: descendant ruling families
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage names Norwegian kings, jarls, mighty men, and Ynglings as groups
+    descended from Saming or Yngve.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: surrounding sea
+  literal_form: the sea thought to surround all lands
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Odin's northward journey and Saming's establishment
+  summary: Odin travels north to the sea and establishes Saming in the kingdom now
+    called Norway; Norwegian rulers are said to trace ancestry to Saming.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Yngve and the Swedish Ynglings
+  summary: Odin has with him Yngve, who is king in Sweden, and the Yngling families
+    are said to descend from Yngve.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Marriage, spread, and language of the Asas
+  summary: The Asas take wives, provide wives for sons, become numerous, spread over
+    Saxland and the northern region, and are credited with bringing a tongue to Norway,
+    Sweden, and Saxland.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: royal ancestry from named ancestral sons
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Norwegian kings, jarls, and mighty men are linked to Saming, while the Ynglings
+    are linked to Yngve; both Saming and Yngve are identified as sons of Odin.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives genealogical legitimacy rather than describing an enthronement
+    ritual or explicit divine sanction.
+- id: motif:2
+  label: ancestral migration and settlement of lands
+  taxonomy_refs: []
+  basis: Odin travels north, and the Asas later multiply and spread over Saxland and
+    the whole northern region.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not include the point of departure or a full migration
+    narrative.
+- id: motif:3
+  label: ancestral language transmission
+  taxonomy_refs: []
+  basis: The Asiamen's tongue becomes native to the lands, and the passage says the
+    Asas brought this tongue north to Norway, Sweden, and Saxland.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an etiological-linguistic claim in the prose introduction; it
+    is not tied to a specific available motif family.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly anchors the Norwegian pedigree in Haleygjatal, described
+    in the footnote as a heroic poem giving the pedigree of Norse kings.
+  claim_level: same_function
+  target: Haleygjatal
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the passage citation and explanatory footnote are provided here;
+    no independent lines from Haleygjatal are included.
+- id: claim:2
+  claim: The passage makes a linguistic contrast between names associated with the
+    Asiamen's tongue in the north and old English place and town names said to come
+    from another tongue.
+  claim_level: linguistic_similarity
+  target: old English place and town names
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal linguistic comparison, not a separate mythic parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1002-1007
+  quote_or_summary: Odin fares north to the sea, establishes Saming in Norway, and
+    Norwegian rulers trace ancestry to Saming.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 1007-1015
+  quote_or_summary: Yngve, Odin's son, is king in Sweden and ancestor of the Ynglings;
+    the Asas marry, multiply, spread, and their tongue becomes native to the lands.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 1015-1018
+  quote_or_summary: People infer from written forefather names that the Asas brought
+    their tongue north; English place and town names are said to reflect another tongue.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 1019-1020
+  quote_or_summary: Footnote 7 identifies Haleygjatal as a heroic poem giving the
+    pedigree of Norse kings.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is genealogical and etiological rather than a self-contained
+    mythic episode. Royal descent and language-origin patterns are clear, while broader
+    motif assignments remain cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied metadata were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-prose-edda-anderson-gutenberg__l1000-l1020
+  passage_sha256=cd6903a1a5f356b90a17bd686849e545bb53474b88797c59707ca006839cc163
+

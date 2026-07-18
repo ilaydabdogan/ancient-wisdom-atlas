@@ -1,0 +1,535 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l16009-l16141
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 16009-16141
+  start: '16009'
+  end: '16141'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lemminkainen changes into an eagle, attempts an upward flight, and is burned
+    by moonlight and sunshine. He prays to Ukko for a vapor cloak or silver cloud
+    so he can return safely to his mother. He encounters a gray-hawk and sends a defiant
+    message to Northland. He returns troubled to his mother, who repeatedly asks what
+    has harmed him. He finally says he has seen visions, asks for provisions, and
+    says he must leave because men are sharpening weapons for his death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lemminkainen changes his form, features, raiment, and body, and becomes a
+    mighty eagle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: As an eagle, he soars on magic wings and tries to fly to highest heaven, but
+    moonlight burns his temples and sunshine singes his feathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lemminkainen prays to Ukko, addressing him with titles connected to mercy,
+    wisdom, lightning, thunder, and clouds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the prayer, Lemminkainen asks for a cloak of vapor or a silver cloud to
+    protect him while he hastens to his native country and mother’s island dwelling.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: While flying on eagle pinions, Lemminkainen sees a gray-hawk with eyes described
+    as having fire-like splendor; the gray-hawk speaks to him about combat with Northland
+    heroes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lemminkainen instructs the gray-hawk to fly to Sariola and tell Northland
+    archers and spearmen that they will not catch the eagle on his journey from Pohyola
+    to his island home.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Ahti-eagle hastens to his mother’s cottage with a troubled face and sorrowful
+    heart; his mother runs to meet him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Lemminkainen’s mother asks whether he was harmed at the banquet or drinking,
+    and offers better treatment and a cup associated with his father.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Lemminkainen rejects the idea that drinking caused his trouble and says he
+    would have defeated the host and many heroes if that had happened.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: 'The mother asks other possible causes: disgrace or insult, the loss of his
+    courser, scorn from Northland maidens or women, poor feasting, bad beer, or evil
+    dreams.'
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Lemminkainen rejects the proposed causes involving his steed and Northland
+    women, and then says he has seen wondrous visions since leaving his island cottage.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:12
+  text: Lemminkainen asks his mother to fill his bag with provisions, specifically
+    flour and salt.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Lemminkainen says he must wander farther, leave his home and island dwelling,
+    and journey away because men are sharpening swords, spears, and lances for his
+    death.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: His mother again asks why men are whetting swords and sharpening spears.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Lemminkainen / Ahti / Kaukomieli / Islander
+  description: A hero who changes into an eagle, prays to Ukko, returns to his mother
+    troubled, and says he must leave because men are preparing weapons for his death.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Ukko
+  description: Invoked by Lemminkainen as a heavenly being associated with mercy,
+    wisdom, lightning, thunder, and clouds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: gray-hawk
+  description: A bird with fiery-looking eyes that appears near the flying Lemminkainen
+    and speaks about combat with Northland heroes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Lemminkainen’s mother / Ahti’s mother
+  description: The mother who runs to meet Lemminkainen, questions the cause of his
+    distress, offers material help, and is asked for provisions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Northland archers, spearmen, and weapon-sharpening men
+  description: A hostile group connected with Sariola, Pohyola, or Northland; Lemminkainen
+    says they will not catch the eagle and later says men are sharpening weapons for
+    his death.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: island hero
+  assigned_to:
+  - fig:1
+  basis: The passage calls Lemminkainen an Islander, Island-hero, and hero.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: shapeshifted eagle
+  assigned_to:
+  - fig:1
+  basis: He changes body and becomes a mighty eagle, later called the Ahti-eagle.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: supplicant seeking divine protection
+  assigned_to:
+  - fig:1
+  basis: He turns to Ukko in prayer and asks for a protective vapor cloak or silver
+    cloud.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sky and weather deity
+  assigned_to:
+  - fig:2
+  basis: Ukko is addressed with heavenly, lightning, thunder, and cloud titles.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: avian interlocutor and requested messenger
+  assigned_to:
+  - fig:3
+  basis: The gray-hawk speaks to Lemminkainen and is instructed to fly to Sariola
+    with a message.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: concerned mother and potential helper
+  assigned_to:
+  - fig:4
+  basis: She runs to meet her son, questions his distress, offers resources, and is
+    asked to provide food for his journey.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:7
+  label: hostile pursuers or death-threateners
+  assigned_to:
+  - fig:5
+  basis: They are identified as archers and spearmen who cannot catch the eagle, and
+    as men sharpening weapons for Lemminkainen’s death.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:8
+  label: son returning to mother
+  assigned_to:
+  - fig:1
+  basis: He goes to his mother’s cottage and is addressed by her as one of her sons
+    and children.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: eagle form
+  literal_form: mighty eagle; eagle-pinions; Ahti-eagle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: protective vapor cloak or silver cloud
+  literal_form: cloak of vapor and silver cloud requested from Ukko
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: burning moonlight and singeing sunshine
+  literal_form: moonlight burning Lemminkainen’s temples and sunshine singing his
+    feathers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: gray-hawk with fiery eyes
+  literal_form: gray-hawk whose eyes hold fire-like splendor
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: weapons prepared for death
+  literal_form: broadswords, spears, and lances being sharpened
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: journey provisions
+  literal_form: bag filled with flour and salt
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: island home and mother’s cottage
+  literal_form: native country, mother’s Island-dwelling, Island-home and fortress,
+    mother’s cottage
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Transformation and blocked ascent
+  summary: Lemminkainen changes into an eagle and tries to fly to highest heaven,
+    but moonlight and sunshine injure him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayer to Ukko for cloud protection
+  summary: Lemminkainen invokes Ukko and asks for a vapor cloak or silver cloud so
+    he can return safely to his mother’s island dwelling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Encounter with the gray-hawk
+  summary: Lemminkainen, still flying, sees a gray-hawk with fiery eyes; the bird
+    asks about combat with Northland heroes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Defiant message to Northland
+  summary: Lemminkainen tells the gray-hawk to go to Sariola and tell the archers
+    and spearmen that they will never catch the eagle traveling from Pohyola to his
+    island home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Troubled return to the mother
+  summary: The Ahti-eagle reaches his mother’s cottage sorrowful; his mother greets
+    him and questions whether banquet injury, disgrace, loss of a horse, or women’s
+    scorn caused his distress.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Impending departure under threat
+  summary: Lemminkainen says he has seen visions, asks his mother for flour and salt,
+    and says he must leave because men are sharpening weapons for his death; his mother
+    asks why.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: heroic shapeshifting into a bird
+  taxonomy_refs:
+  - shapeshifter
+  basis: Lemminkainen changes form and body and becomes a mighty eagle.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the transformation plainly, but does not explain its
+    mechanism beyond magic wings.
+- id: motif:2
+  label: attempted ascent toward heaven
+  taxonomy_refs:
+  - ascent
+  basis: The eagle-form hero tries to fly to highest heaven before being burned by
+    moonlight and sunshine.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The ascent is attempted and obstructed; the passage does not show a successful
+    heavenly arrival.
+- id: motif:3
+  label: prayer for divine weather-protection
+  taxonomy_refs: []
+  basis: Lemminkainen prays to Ukko for a vapor cloak or silver cloud to protect him
+    on his return.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy family precisely names divine protective weather
+    aid.
+- id: motif:4
+  label: return from hostile land to mother’s home
+  taxonomy_refs:
+  - return
+  basis: Lemminkainen travels from Pohyola toward his island home and reaches his
+    mother’s cottage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The return is embedded in an ongoing threat and is followed by planned
+    departure.
+- id: motif:5
+  label: departure under mortal threat
+  taxonomy_refs:
+  - departure
+  basis: Lemminkainen asks for provisions and says he must leave home because men
+    are sharpening weapons for his death.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage states the need to depart but ends before the departure is
+    enacted.
+- id: motif:6
+  label: mother as anxious questioner and helper at the threshold
+  taxonomy_refs: []
+  basis: The mother meets Lemminkainen, questions his distress, offers possible aid,
+    and is asked to prepare provisions.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage shows maternal concern and potential help, but does not show
+    whether she gives the requested provisions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16009-16018
+  quote_or_summary: Lemminkainen changes form and body, becomes a mighty eagle, soars
+    on magic wings, tries to fly to highest heaven, and is burned or singed by moonlight
+    and sunshine.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: 16020-16034
+  quote_or_summary: Lemminkainen prays to Ukko, addressing him with heavenly and weather-related
+    titles, and asks for a vapor cloak or silver cloud to protect his flight to his
+    native country and mother’s island dwelling.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: 16036-16046
+  quote_or_summary: Lemminkainen flies on eagle pinions, sees a gray-hawk with fiery-looking
+    eyes, and the gray-hawk asks whether he is thinking of combat with Northland heroes.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: 16048-16058
+  quote_or_summary: Lemminkainen tells the gray-hawk to fly to Sariola and tell the
+    Northland archers and spearmen that they will never catch the eagle traveling
+    from Pohyola to his island home.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: 16060-16083
+  quote_or_summary: The Ahti-eagle reaches his mother’s cottage troubled and sorrowful;
+    his mother runs to meet him, asks whether he was harmed at a banquet or drinking,
+    and Lemminkainen denies that explanation.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: 16084-16121
+  quote_or_summary: The mother asks whether Lemminkainen’s distress came from insult,
+    a stolen courser, women’s scorn, bad feasting, bad beer, or evil dreams; he rejects
+    the courser and women explanations.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+- id: ev:7
+  type: summary
+  locator: 16122-16136
+  quote_or_summary: Lemminkainen says he has seen wondrous visions, asks his mother
+    for a bag with flour and salt, and says he must leave home because men are sharpening
+    swords, spears, and lances for his death.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+- id: ev:8
+  type: summary
+  locator: 16138-16141
+  quote_or_summary: The mother asks why men are whetting swords and sharpening spears.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are limited to patterns evident in the passage and available taxonomy labels.
+    No separate comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external comparison added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l16009-l16141
+  passage_sha256=6964d239ee934c1d300c1df63e29912a850354e20677c282e0268be187ba1ae7
+

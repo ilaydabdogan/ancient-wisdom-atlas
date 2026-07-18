@@ -1,0 +1,535 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l9548-l9654
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: CHEKH MYTHS AND FOLK-TALES. / BOYISLAV, YOUNGEST OF TWELVE. / THE TABLE,
+    THE PACK, AND THE BAG. / THE KING OF THE TOADS.; lines 9548-9654
+  start: '9548'
+  end: '9654'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The king repeatedly tries to have three wonderful fish cooked, but each
+    attempt is interrupted by violent shaking, unseen blows that knock witnesses senseless,
+    and the fish speaking among themselves before vanishing. The king then travels
+    with the fisherman by means of a herb and wind-borne flight to the mountain and
+    lake where the fish are caught. Exploring beyond the lake, the king meets an old
+    boatman, crosses the water, and sees a beautiful castle partly hidden in the forest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When the fish are buttered in the pan, the castle or palace shakes violently
+    and those present are slapped by an unseen hand until they fall senseless.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: While the witnesses are unconscious, one fish stands on its tail in the pan
+    and asks the other two whether they will be food for the king or serve it.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The two other fish answer that they will serve, and all three fish vanish.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The fisherman can catch the wonderful fish only on Mondays, and on Monday
+    he catches three fish at the lake on the third cast of the net.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fisherman's wife takes the fish to the palace and receives two handfuls
+    of gold from the king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fisherman gives the king some herb received from a fiery man, takes his
+    hand, stands on a stone step, and a mighty wind carries the king and fisherman
+    through the air.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king and fisherman appear on the summit of a mountain, from which the
+    king sees the whole country.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The king reaches a green meadow between forest and lake and sees an old white-haired
+    grandfather sitting in a boat near the shore.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The old man rows the king over the lake, and in the middle of the lake turns
+    to one side, after which the king sees a grand castle half hidden in the dark
+    forest.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A ruler who orders the wonderful fish cooked, witnesses their disappearance,
+    and travels to inspect the lake himself.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the fisherman
+  description: A man who catches the three wonderful fish at the lake and guides the
+    king to the place where they are caught.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: three wonderful fish
+  description: Three fish that resist being cooked; one addresses the other two, the
+    others agree to serve it, and all three vanish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the cook
+  description: The cook prepares the fish and is knocked senseless during the cooking
+    attempts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: the chamberlain
+  description: A palace official present during the cooking attempts and knocked senseless
+    with the others.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: the prince
+  description: The king's eldest son, sent to watch the chamberlain and cook and later
+    present during the cooking attempts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:7
+  name_or_label: the fisherman's wife
+  description: She sends the fisherman out at dawn, takes the fish from him, brings
+    them to the palace, and receives gold.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: fiery man
+  description: A figure previously associated with the herb that the fisherman gives
+    the king for the journey.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: old grandfather in the boat
+  description: An old white-haired man sitting in a boat by the lake shore who rows
+    the king across the lake.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: royal seeker
+  assigned_to:
+  - fig:1
+  basis: The king orders the fish cooked and later goes personally to examine the
+    lake and surrounding place.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: royal recipient of fish
+  assigned_to:
+  - fig:1
+  basis: The fish are being prepared as food for the king, and he pays for fish brought
+    to the palace.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: fisherman-guide
+  assigned_to:
+  - fig:2
+  basis: The fisherman catches the fish and leads the king to the cliff, mountain,
+    and lake.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: holder of travel-enabling herb
+  assigned_to:
+  - fig:2
+  basis: He gives the king herb received from the fiery man before the wind-borne
+    flight.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: marvelous escaping beings
+  assigned_to:
+  - fig:3
+  basis: The fish speak, choose service instead of being eaten, and vanish from the
+    pan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: palace witness
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The cook, chamberlain, and prince are present at the attempted cooking and
+    are struck senseless.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: seller or deliverer of fish
+  assigned_to:
+  - fig:7
+  basis: She takes the fish to the palace and receives two handfuls of gold.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: source of magical herb
+  assigned_to:
+  - fig:8
+  basis: The passage says the herb used before the aerial journey had been received
+    from the fiery man.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: boatman or ferryman
+  assigned_to:
+  - fig:9
+  basis: The old man says rowing is what he is there for and rows the king over the
+    lake.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: wonderful fish
+  literal_form: three fish in a pan that speak, refuse to be food, and vanish
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: unseen striking hand
+  literal_form: unseen hand that slaps people senseless during cooking
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Monday catch
+  literal_form: fish that can be caught only on Mondays
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: magical herb
+  literal_form: herb received from the fiery man and given to the king before flight
+  associated_figures:
+  - fig:2
+  - fig:8
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mountain
+  literal_form: mountain summit reached after wind-borne flight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: lake water crossing
+  literal_form: lake crossed by boat to reach sight of the hidden castle
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: hidden castle
+  literal_form: grand castle half hidden in the dark forest beyond or across the lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: boat
+  literal_form: boat in which the old grandfather rows the king over the lake
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: First attempted cooking of the fish
+  summary: The cook, chamberlain, and prince watch the fish in the pan; violent shaking
+    and unseen blows knock them senseless; while they lie unconscious, the fish speak
+    and vanish.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second Monday catch and palace delivery
+  summary: On Monday the fisherman catches three fish at the lake, his wife carries
+    them to the palace, and the king gives her gold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Second attempted cooking before the king
+  summary: The king, prince, chamberlain, and cook watch the fish being prepared;
+    the palace shakes, unseen blows knock everyone senseless, and the fish again choose
+    service and vanish.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Wind-borne journey to the mountain and lake
+  summary: The king asks to inspect the lake; the fisherman gives him a herb from
+    the fiery man, stands with him on a stone step, and a mighty wind carries them
+    away while the body-guard remains behind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Lake crossing and hidden castle
+  summary: Exploring near the lake, the king finds a meadow, meets an old white-haired
+    boatman, crosses the lake, and sees a beautiful castle partly hidden in the forest.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: marvelous animals resist being eaten and vanish
+  taxonomy_refs: []
+  basis: The fish speak in the pan, reject being food for the king, and disappear
+    before they can be cooked.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain what the fish become or where they go.
+- id: motif:2
+  label: unseen force punishes attempted violation
+  taxonomy_refs: []
+  basis: Each cooking attempt is interrupted by shaking and unseen blows that incapacitate
+    the witnesses before the fish vanish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The source of the unseen force is not identified in the passage.
+- id: motif:3
+  label: magical journey to hidden realm
+  taxonomy_refs:
+  - mystical_quest
+  - departure
+  basis: The king leaves the palace to inspect the fish's lake, uses herb-assisted
+    wind travel to reach a mountain and lake, then crosses water toward a hidden castle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage ends before the king enters the castle or learns its nature.
+- id: motif:4
+  label: ferryman at liminal water crossing
+  taxonomy_refs: []
+  basis: An old man in a boat says rowing is what he is there for and carries the
+    king over the lake, after which the hidden castle is revealed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives no explicit supernatural identity for the boatman.
+- id: motif:5
+  label: magical object enables extraordinary travel
+  taxonomy_refs: []
+  basis: A herb received from a fiery man is given to the king immediately before
+    a mighty wind carries the king and fisherman through the air.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify the herb's full powers beyond this journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9548-9566
+  quote_or_summary: During the first cooking attempt, violent shaking and unseen slaps
+    knock the cook, chamberlain, and prince senseless; one fish asks the other two
+    whether they will be food for the king or serve it, they choose service, and all
+    three vanish.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9588-9608
+  quote_or_summary: During a later cooking attempt watched by the king, prince, chamberlain,
+    and cook, the palace shakes, all present are slapped senseless, the fish repeat
+    the choice between serving and being food, and all three vanish.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9575-9587
+  quote_or_summary: On Monday the fisherman reaches the mountain and lake, catches
+    three fish on the third cast, and his wife takes the fish to the palace, where
+    the king gives her two handfuls of gold.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9615-9625
+  quote_or_summary: The king asks the fisherman to take him to the lake; at the cliff
+    the fisherman gives him herb received from the fiery man, takes his hand, and
+    a mighty wind carries them through the air while the body-guard remains behind.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9628-9634
+  quote_or_summary: The king and fisherman appear on the mountain summit; the king
+    sees the country, and the fisherman points out the lake where he catches the wonderful
+    fish.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9635-9647
+  quote_or_summary: At the lake the king explores, passes through thick grass to a
+    green meadow between forest and lake, and sees an old white-haired grandfather
+    sitting in a boat near the shore.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9648-9654
+  quote_or_summary: The old man rows the king over the smooth water; near the middle
+    he turns aside, and the king sees a grand castle half hidden in the dark forest.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and cautious; no comparison claims are made because the passage itself does not
+    explicitly compare these events with another tradition or motif family beyond
+    general pattern recognition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l9548-l9654
+  passage_sha256=17a8d3fa2ec489569b3003c221f289fb627f46b0fcd7d8bd47b99ee8a463d587
+

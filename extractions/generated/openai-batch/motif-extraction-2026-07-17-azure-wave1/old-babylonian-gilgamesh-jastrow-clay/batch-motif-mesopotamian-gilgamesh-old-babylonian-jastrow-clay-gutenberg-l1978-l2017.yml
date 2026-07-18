@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l1978-l2017
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: Part III / PREFATORY NOTE / INTRODUCTION. / VIII.; lines 1978-2017
+  start: '1978'
+  end: '2017'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"Whose roar is a flood, whose mouth is fire, and whose breath is death"'
+  summary: The passage compares parts of the Yale tablet with the fourth tablet of
+    the Assyrian version, noting uncertain correspondences involving Enkidu, a repeated
+    description of Huwawa, and a shared six-column tablet format in Old Babylonian
+    and Assyrian versions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that the few comparable passages between the Yale tablet
+    and the fourth tablet of the Assyrian version are insufficient for firm conclusions,
+    except confirmation of the literary independence of the Assyrian version.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A section of the Yale tablet is described as involving Enkidu's grief at his
+    friend's decision to fight Huwawa and Enkidu's confession of physical exhaustion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports a variation between "seven-fold fear" in the Yale tablet
+    and "fear of men" in the Assyrian version.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Huwawa is described by the formula: his roar is a flood, his mouth is fire,
+    and his breath is death.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Huwawa description occurs twice in the Yale tablet and is compared with
+    the same phrase in the Assyrian version, where it has an elaboration.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Yale tablet is described as adding to knowledge of the Huwawa episode,
+    pending discovery of more fragments of the fourth tablet of the Assyrian version.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The Old Babylonian and Assyrian versions are said to resemble each other
+    externally: both were inscribed on tablets with six columns, three on the obverse
+    and three on the reverse, with similar average length.'
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: A figure whose grief at his friend's decision to fight Huwawa and physical
+    exhaustion are reported in the described Yale tablet section.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Enkidu's friend
+  description: An unnamed friend of Enkidu who has decided to fight Huwawa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Huwawa
+  description: A figure to be fought; described with a roar like a flood, a mouth
+    as fire, and breath as death.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: grieving and exhausted companion
+  assigned_to:
+  - fig:1
+  basis: The passage says Enkidu grieves at his friend's decision and confesses physical
+    exhaustion.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: friend choosing combat
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the friend's decision to fight Huwawa.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: opponent to be fought
+  assigned_to:
+  - fig:3
+  basis: The passage says the friend has decided to fight Huwawa.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: terrifying described being
+  assigned_to:
+  - fig:3
+  basis: The passage gives Huwawa attributes of flood-like roar, fiery mouth, and
+    deathly breath.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: flood-roar
+  literal_form: Huwawa's roar is a flood
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: fire-mouth
+  literal_form: Huwawa's mouth is fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: death-breath
+  literal_form: Huwawa's breath is death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Enkidu grieves before the fight with Huwawa
+  summary: The passage reports that Enkidu grieves at his friend's decision to fight
+    Huwawa and confesses physical exhaustion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Formulaic description of Huwawa
+  summary: Huwawa is characterized through a repeated formula linking his roar with
+    flood, his mouth with fire, and his breath with death.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: companion's grief before dangerous combat
+  taxonomy_refs: []
+  basis: Enkidu grieves at his friend's decision to fight Huwawa and admits physical
+    exhaustion.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial summary of the episode, not the full narrative
+    scene.
+- id: motif:2
+  label: destructive elemental adversary
+  taxonomy_refs:
+  - chaos
+  basis: Huwawa is described through flood, fire, and death imagery.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to chaos is inferred from the destructive imagery; the
+    passage itself does not name chaos as a theme.
+comparison_claims:
+- id: claim:1
+  claim: The Yale tablet section on Enkidu's grief and exhaustion may correspond to
+    Tablet IV, column 4, of the Assyrian version, but the passage treats this as uncertain.
+  claim_level: linguistic_similarity
+  target: Assyrian version, Tablet IV, column 4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs:
+  - ev:1
+  confidence: low
+  limitations: The passage explicitly says the evidence is not sufficient for firm
+    conclusions and uses tentative language.
+- id: claim:2
+  claim: The Huwawa formula in the Yale tablet is compared with the same phrase in
+    the Assyrian version, Tablet IV, 5, 3, though the Assyrian passage is said to
+    include elaboration.
+  claim_level: linguistic_similarity
+  target: Assyrian version, Tablet IV, 5, 3
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns a shared phrase and does not establish broader narrative
+    identity beyond the cited description.
+- id: claim:3
+  claim: The Old Babylonian and Assyrian versions show exterior-form resemblance in
+    tablet layout and approximate length.
+  claim_level: visual_similarity
+  target: Old Babylonian and Assyrian tablet formats
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a material-format comparison, not a mythic-motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1978-1982
+  quote_or_summary: The passage says comparison between the Yale tablet and the fourth
+    tablet of the Assyrian version is limited and insufficient for conclusions beyond
+    literary independence.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1982-1992
+  quote_or_summary: The passage summarizes Enkidu's grief at his friend's decision
+    to fight Huwawa, Enkidu's physical exhaustion, possible correspondence with Assyrian
+    Tablet IV, and the variation between "seven-fold fear" and "fear of men."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain; summarized with short quoted phrases from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1993-2000
+  quote_or_summary: '"Whose roar is a flood, whose mouth is fire, and whose breath
+    is death"; the passage says this occurs twice in the Yale tablet and is paralleled
+    in the Assyrian version Tablet IV, 5, 3, with elaboration.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2002-2007
+  quote_or_summary: The passage states that the Yale tablet adds to knowledge of the
+    Huwawa episode and that more Assyrian fragments are needed.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2009-2017
+  quote_or_summary: The passage notes that Old Babylonian and Assyrian versions were
+    inscribed on six-column tablets, three columns on each side, with roughly similar
+    length of about 40 to 50 lines.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily editorial and comparative, with limited narrative
+    content. Motif extraction is therefore restricted to the referenced Huwawa episode
+    and its descriptive formula.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external information was used; the named friend was left unnamed because the passage itself does not identify him.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l1978-l2017
+  passage_sha256=1f905ac8828bf60bc5b5e18bc2854e57bf0587db1bf363dbdf67c8df6aaa92a9
+

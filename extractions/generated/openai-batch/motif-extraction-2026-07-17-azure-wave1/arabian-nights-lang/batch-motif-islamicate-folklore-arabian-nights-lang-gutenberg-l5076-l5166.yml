@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l5076-l5166
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 5076-5166
+  start: '5076'
+  end: '5166'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Alnaschar, owning only a basket of glass, imagines multiplying his money
+    through trade, becoming wealthy, marrying the grand-vizir's daughter, displaying
+    rank, and dominating his imagined wife. While absorbed in this fantasy, he physically
+    kicks the basket, which falls into the street and breaks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Alnaschar says the basket cost one hundred drachmas and represents all he
+    possesses.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He imagines selling the contents, reinvesting in glass, increasing his capital,
+    and becoming a jeweller who trades in precious stones.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He imagines buying a country house, horses, and slaves, entertaining friends,
+    and continuing trade until he has a large capital.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He imagines asking for the grand-vizir's daughter in marriage, offering gold
+    on the wedding day, and dragging the grand-vizir by the beard if refused.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: He imagines appearing in gorgeous robes on a horse with a gold saddle and
+    diamond trappings, followed by slaves, while people bow as he passes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: He imagines the grand-vizir receiving him, embracing him as son-in-law, giving
+    him his seat, and sitting below him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: He imagines two servants bringing purses, each containing one thousand pieces
+    of gold, which he presents to the grand-vizir.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: He imagines refusing a gift from his wife, restricting her movements, and
+    arranging visits to her with ceremony meant to inspire respect.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: He imagines his wife standing humbly before him, compared to the full moon,
+    while her women ask him to notice her and allow her to sit.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: He imagines ignoring the women's pleas and later ignoring the wife's mother
+    when she comes to beseech him.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:11
+  text: He imagines his wife offering him a glass of wine with tears in her eyes,
+    after which he imagines striking her cheek and kicking her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The barber says his brother was so absorbed in his dreams that he actually
+    kicked the basket of glass, which fell into the street and broke into many pieces.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Alnaschar / the barber's brother
+  description: Speaker who owns the basket of glass, imagines future wealth and status,
+    and actually kicks the basket.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Grand-vizir
+  description: Imagined father of the woman Alnaschar plans to marry; in the fantasy
+    he may accept gifts and treat Alnaschar as son-in-law.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Grand-vizir's daughter / imagined wife
+  description: Woman Alnaschar imagines marrying; she is described as beautiful and
+    witty, later standing humbly, weeping, and offering wine in the fantasy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Wife's women attendants
+  description: Women in the fantasy who address Alnaschar as lord and master, plead
+    for him to notice his wife, and throw themselves at his feet.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mother of the imagined wife
+  description: Woman in the fantasy who comes to seek Alnaschar, kisses his hands,
+    begs him to look on her daughter, and gives the daughter a glass of wine to present.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Imagined servants, slaves, eunuchs, and officer
+  description: Service figures in Alnaschar's fantasy, including eunuchs for his wife,
+    slaves in his procession, servants bearing purses, and an officer sent with compliments.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: The barber
+  description: Frame narrator who identifies Alnaschar as his brother and reports
+    the actual breaking of the basket.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: daydreaming owner of fragile goods
+  assigned_to:
+  - fig:1
+  basis: Alnaschar's entire property is a basket of glass, and the barber says he
+    was absorbed in dreams when he kicked it.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: imagined wealthy suitor and household master
+  assigned_to:
+  - fig:1
+  basis: In his fantasy Alnaschar grows rich, seeks the grand-vizir's daughter, displays
+    rank, and controls his imagined wife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: prospective father-in-law and high official
+  assigned_to:
+  - fig:2
+  basis: The grand-vizir is imagined as the father whose daughter's hand Alnaschar
+    requests and whom Alnaschar visits ceremonially.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: imagined bride and supplicant wife
+  assigned_to:
+  - fig:3
+  basis: She is the proposed bride and later appears in the fantasy as wife, waiting
+    to be noticed and offering wine while crying.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:5
+  label: petitioning female attendants and kin
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The attendants and the mother plead with Alnaschar on behalf of the imagined
+    wife.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: imagined retinue and household service
+  assigned_to:
+  - fig:6
+  basis: Eunuchs, slaves, servants, and an officer appear as service figures in Alnaschar's
+    projected household and public display.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: frame narrator
+  assigned_to:
+  - fig:7
+  basis: The barber narrates that his brother's actual kick broke the basket.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: basket of glass
+  literal_form: A basket containing glass goods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: money and gold purses
+  literal_form: Drachmas, gold pieces, and purses containing gold
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: precious stones
+  literal_form: Pearls, diamonds, and other precious stones
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: status display objects
+  literal_form: Gorgeous robes, a horse, a gold saddle, and diamond trappings
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ranked seating and staircase
+  literal_form: The grand-vizir's staircase, his seat, and Alnaschar's imagined place
+    of honour
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: full moon comparison
+  literal_form: The imagined wife is described as lovely as the full moon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: glass of wine
+  literal_form: A glass of wine placed in the wife's hand and offered to Alnaschar
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: kick
+  literal_form: An imagined violent kick against the wife and an actual kick against
+    the basket
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Profit calculation over the basket
+  summary: Alnaschar looks at his basket of glass and imagines turning his small property
+    into increasing sums through trade.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imagined wealth, marriage, and public display
+  summary: He imagines acquiring wealth, seeking the grand-vizir's daughter, appearing
+    in rich dress with a retinue, and presenting gold to the grand-vizir.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Imagined household authority
+  summary: He imagines returning home, restricting his wife, sitting in the place
+    of honour, and ignoring the wife while her attendants plead.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Wine offering and imagined violence
+  summary: The imagined wife's mother urges reconciliation; the wife offers wine while
+    weeping, and Alnaschar imagines striking and kicking her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Actual breaking of the basket
+  summary: The barber reports that the dreaming Alnaschar actually kicks the basket
+    of glass, causing it to fall into the street and shatter.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Daydreamed fortune lost through physical enactment
+  taxonomy_refs:
+  - wisdom
+  basis: Alnaschar builds a long fantasy of wealth and rank from a basket that is
+    all he owns; while absorbed in the dream, an actual kick breaks the basket.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The wisdom classification is broad; the passage presents the comic loss
+    but does not state an explicit moral in this excerpt.
+- id: motif:2
+  label: Imagined upward mobility through trade and marriage alliance
+  taxonomy_refs: []
+  basis: Alnaschar imagines multiplying money through commerce, becoming a jeweller,
+    acquiring luxury goods, and marrying the grand-vizir's daughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The ascent is entirely projected in Alnaschar's fantasy, not realized
+    in the passage.
+- id: motif:3
+  label: Fantasy of domestic dominance and supplication
+  taxonomy_refs: []
+  basis: Alnaschar imagines his wife, her attendants, and her mother pleading for
+    his attention while he withholds acknowledgment and then imagines violence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This episode occurs within the daydream; only the final kick is enacted
+    physically, and it strikes the basket rather than the imagined wife.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits a broad daydreamed-fortune pattern: a poor owner projects
+    great wealth from a fragile present possession and destroys that possession by
+    acting out part of the fantasy.'
+  claim_level: same_motif
+  target: daydreamed-fortune / castles-in-the-air pattern
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself supports the structural pattern, but it does not
+    name an external analogue or provide evidence of historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5076-5083
+  quote_or_summary: Alnaschar says the basket cost one hundred drachmas, all he owns,
+    and imagines selling and reinvesting in glass until he can become a jeweller dealing
+    in precious stones.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 5084-5095
+  quote_or_summary: He imagines wealth, a country house, horses, slaves, feasts, musicians,
+    a large capital, marriage to the grand-vizir's daughter, and a threat to drag
+    the vizir by the beard if refused.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 5097-5113
+  quote_or_summary: He imagines his married state, eunuchs for his wife, splendid
+    dress, a gold-saddled horse with diamond trappings, a slave procession, public
+    bows, the grand-vizir's reception, and gold purses presented by servants.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 5115-5140
+  quote_or_summary: He imagines returning home, controlling his wife's movements,
+    sitting in honour, ignoring his wife as she stands before him, and refusing the
+    pleas of her women attendants.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 5142-5161
+  quote_or_summary: He imagines the wife complaining to her mother, the mother begging
+    him, the wife offering him wine with tears, and himself responding with an angry
+    look, a blow, and a violent kick.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 5163-5166
+  quote_or_summary: The barber says his brother was absorbed in dreams, actually kicked
+    the basket of glass, and the basket fell into the street and broke into a thousand
+    pieces.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is explicit. Motif labels are descriptive and require
+    human review, especially the broad wisdom classification and the external pattern
+    label.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All interpretive labels are limited to the supplied passage and available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l5076-l5166
+  passage_sha256=fcd451d10a2f8f97d857226c4c3c54b179c3d112ba91bd5a60318946d4b517b2
+

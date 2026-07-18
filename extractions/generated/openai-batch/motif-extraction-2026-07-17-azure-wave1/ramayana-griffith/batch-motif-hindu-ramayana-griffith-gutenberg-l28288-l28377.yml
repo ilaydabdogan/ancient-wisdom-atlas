@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l28288-l28377
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto V. Sarabhanga. / Canto VIII. The Hermitage. / Canto XI. Agastya. /
+    Canto XII. The Heavenly Bow.; lines 28288-28377
+  start: '28288'
+  end: '28377'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“The spot is pure and pleasant”"
+  summary: Rāma describes a pleasant forest glade near the Godāvarī, with lake, trees,
+    birds, deer, hills, rock, and cave, and asks Lakshmaṇ to build a cottage there.
+    Lakshmaṇ constructs a leaf-thatched hermitage from forest materials, bathes, gathers
+    lilies, fruit, and berries, performs sacrifice, and presents the cottage. Rāma
+    and Sītā admire it; Rāma embraces and praises Lakshmaṇ, and the three dwell there
+    contentedly.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Rāma points out a smooth shaded glade and asks Lakshmaṇ to raise a pleasant
+    cot for lodging there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The place is described with a lilied lake, Godāvarī’s shore, swans, geese,
+    deer, peacocks, hills, mountains, rock, cave, creepers, and many named flowering
+    trees.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rāma says Agastya’s earlier words about the charms of the place have proven
+    true.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Lakshmaṇ obeys and builds a cottage with hardened earth walls, bamboo pillars,
+    rafters, laths, Śamī boughs, cord, holy grass, reeds, and leaves after clearing
+    and smoothing the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lakshmaṇ bathes in the Godāvarī, gathers lilies, fruit, and berries, performs
+    sacrifice, appeals to the gods for aid, and shows the cottage to Rāma.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rāma and Sītā look at the completed hermitage, and Rāma is moved with joy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rāma embraces Lakshmaṇ and praises his work, wisdom, gratitude, duty, and
+    resemblance to their father.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Rāma stays there contentedly with Lakshmaṇ and Sītā beneath sheltering boughs,
+    in a place with fruit.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ráma / Raghu’s son
+  description: The speaker who chooses the site, requests the cottage, later views
+    it with Sītā, embraces Lakshmaṇ, praises him, and dwells there contentedly.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lakshmaṇ
+  description: Rāma’s beloved brother, obedient to Rāma’s word, who builds the cottage,
+    performs associated bathing and sacrifice, and receives Rāma’s embrace and praise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Sítá / Maithil spouse
+  description: Rāma’s Maithil spouse, who views the completed home with him and dwells
+    there with Rāma and Lakshmaṇ.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Agastya
+  description: Named as one whose earlier words described the charms now seen at the
+    place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: site-chooser and requester of dwelling
+  assigned_to:
+  - fig:1
+  basis: Rāma describes the glade and asks Lakshmaṇ to build a cot there.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: obedient builder and ritual preparer
+  assigned_to:
+  - fig:2
+  basis: Lakshmaṇ obeys, constructs the cottage, bathes, gathers materials, performs
+    sacrifice, and asks the gods for aid.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: spouse and co-resident
+  assigned_to:
+  - fig:3
+  basis: Sītā views the hermitage with Rāma and later stays there with Rāma and Lakshmaṇ.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: prior describer of the place
+  assigned_to:
+  - fig:4
+  basis: The passage states that Agastya had told of the charms now being seen.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: approver and praiser of the dwelling work
+  assigned_to:
+  - fig:1
+  basis: Rāma rejoices at the hermitage, embraces Lakshmaṇ, and praises his work and
+    duty.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred water setting
+  literal_form: Lilied lake and Godāvarī’s pleasant flood; later Godāvarī’s stream
+    used for bathing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: flowering forest trees
+  literal_form: Flowery trees, Sāl, palms, date-tree, Jak, Tamālas, Mango, Aśokas,
+    Ketak, Champacs, creepers, sheltering boughs, and leaf materials for the hermitage.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: hills and mountains
+  literal_form: Tall hills and mountains marked with gold, silver, and copper-like
+    hues.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rock and cave
+  literal_form: Rock and cave beneath blossoming trees on the hills.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: leafy hermitage
+  literal_form: A cottage or cot with earth walls, bamboo supports, Śamī boughs, holy
+    grass, reeds, and leaves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Selection of the forest site
+  summary: Rāma describes the attractive glade, waters, wildlife, hills, caves, and
+    flowering trees, notes Agastya’s prior description, and asks Lakshmaṇ to build
+    a cottage there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Construction and ritual preparation of the hermitage
+  summary: Lakshmaṇ builds the cottage from forest materials, clears the ground, bathes
+    in the Godāvarī, gathers lilies, fruit, and berries, performs sacrifice, asks
+    the gods for aid, and presents the dwelling to Rāma.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Approval, embrace, and settled dwelling
+  summary: Rāma and Sītā view the completed hermitage; Rāma embraces and praises Lakshmaṇ,
+    and the three remain there contentedly beneath the trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Establishment of a forest hermitage
+  taxonomy_refs: []
+  basis: A chosen natural site is described, a dwelling is requested and built from
+    forest materials, and the main figures settle there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: Plain narrative pattern; no supplied taxonomy family directly names this
+    motif.
+- id: motif:2
+  label: Consecratory sacrifice before habitation
+  taxonomy_refs:
+  - sacrifice
+  basis: Before presenting the cottage, Lakshmaṇ bathes, gathers lilies, fruit, and
+    berries, performs sacrifice, and appeals to the gods for aid.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states the sacrifice but gives little ritual detail.
+- id: motif:3
+  label: Brotherly service recognized by embrace and praise
+  taxonomy_refs: []
+  basis: Lakshmaṇ obeys and completes the dwelling; Rāma responds by embracing him
+    and praising his wisdom, duty, and filial resemblance.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethical and kinship pattern in the passage rather than a named
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28288-28325
+  quote_or_summary: Rāma describes a smooth shaded glade near a lilied lake and Godāvarī,
+    with birds, deer, hills, mountains, rock, cave, creepers, and many trees; he says
+    Agastya’s words are true and asks Lakshmaṇ to build a cot there.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 28326-28343
+  quote_or_summary: Lakshmaṇ obeys and builds a cottage to shelter Rāma, using hardened
+    earth, bamboo, rafters, laths, Śamī boughs, cord, holy grass, reeds, and leaves
+    after clearing and smoothing the ground.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 28344-28351
+  quote_or_summary: Lakshmaṇ goes to Godāvarī’s stream, bathes, gathers lilies, fruit,
+    and berries, performs sacrifice, asks the gods to aid their hopes, and shows the
+    prepared cot to Rāma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 28352-28367
+  quote_or_summary: Rāma and Sītā gaze at the home; Rāma is delighted, embraces Lakshmaṇ,
+    and praises his noble work, wisdom, duty, gratitude, and resemblance to their
+    father.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 28368-28377
+  quote_or_summary: Rāma stays in the pleasant fruit-bearing shade with Lakshmaṇ and
+    Sītā, living happily like a god in a heavenly mansion.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions, figures, objects, and settings are clear. Motif candidates
+    are conservative and based only on the supplied passage. No comparison claims
+    were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided motif and symbol lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l28288-l28377
+  passage_sha256=d02ba8fecb65e3f8d4abdbddc8bf52247df4ae96ea5a8f036ef51196be53b870
+

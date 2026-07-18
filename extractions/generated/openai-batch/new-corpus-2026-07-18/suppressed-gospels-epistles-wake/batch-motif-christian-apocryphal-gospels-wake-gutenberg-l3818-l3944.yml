@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l3818-l3944
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER IX. / CHAPTER X. / CHAPTER XI. / CHAPTER XII.; lines 3818-3944
+  start: '3818'
+  end: '3944'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A leprous woman seeks help from Mary, receives water used to wash Jesus,
+    pours it on herself, and is healed. She later guides others to Mary so that a
+    leprous young woman, rejected by her husband, is washed with the same kind of
+    water, cured, and restored to marriage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A leprous woman asks Lady St. Mary for help and is told to wait until Mary
+    has washed her son Jesus and put him to bed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mary gives the woman water used to wash Jesus and instructs her to pour it
+    on her body; after doing so, the woman becomes clean and praises God.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The healed woman later sees a prince whose marriage has been declared void
+    because the bride has signs of leprosy between her eyes described as like a star.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The healed woman reports that she had gone to Bethlehem, entered a cave, saw
+    Mary and Jesus, received water from Mary, sprinkled herself, and became clean.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The afflicted young woman's companions ask the healed woman to guide them
+    to Mary, and they bring noble presents.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mary gives them a little water used to wash Jesus Christ's body and tells
+    them to wash the diseased person with it; the young woman is cured.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After hearing that his wife is cured, the prince takes her home and makes
+    a second marriage, giving thanks to God.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: leprous woman healed first
+  description: A woman afflicted with leprosy who seeks Mary's help, is healed by
+    Jesus' washing water, and later directs others to the same remedy.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Lady St. Mary
+  description: Mother of Jesus who washes him, gives the washing water to afflicted
+    persons, and speaks a blessing of mercy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Jesus / Jesus Christ
+  description: Mary's son whose body is washed; water from that washing is used in
+    both healings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: the prince
+  description: A prince who declares his marriage void after seeing leprous signs
+    on his wife, then later takes her home after her cure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: leprous young woman / prince's wife
+  description: A prince's daughter and wife whose leprous sign appears between her
+    eyes; she is later washed with Jesus' washing water and cured.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: companions of the leprous young woman
+  description: Persons or women associated with the afflicted young woman who seek
+    a remedy, bring noble presents, and accompany her to Mary.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: afflicted petitioner healed by washing water
+  assigned_to:
+  - fig:1
+  basis: She asks Mary for help with leprosy and becomes clean after pouring the water
+    on her body.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: giver of healing washing water
+  assigned_to:
+  - fig:2
+  basis: Mary gives water used to wash Jesus to the first woman and later to the group
+    with the diseased young woman.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: source associated with healing water
+  assigned_to:
+  - fig:3
+  basis: The water used in the cures is described as water with which Jesus' body
+    had been washed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: witness and guide to remedy
+  assigned_to:
+  - fig:1
+  basis: After her cure, she tells others about Mary, Jesus, and the washing water,
+    then agrees to lead them to Mary.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: rejected wife healed and restored
+  assigned_to:
+  - fig:5
+  basis: Her leprous sign causes the marriage to be dissolved; after being washed
+    with the water, she is cured and restored to her husband.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:6
+  label: husband who rejects and later restores
+  assigned_to:
+  - fig:4
+  basis: He declares the marriage void when he sees leprosy, then takes his wife home
+    after she is cured.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:7
+  label: seekers of remedy
+  assigned_to:
+  - fig:6
+  basis: They disclose the young woman's disease, ask to be shown Mary, bring presents,
+    and receive instructions for washing the diseased person.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: healing washing water
+  literal_form: Water with which Mary washed the body of Jesus / Jesus Christ
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: cave at Bethlehem
+  literal_form: A cave in Bethlehem where the first woman says she saw Mary and Jesus
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: star-like leprosy sign
+  literal_form: Signs of leprosy between the young woman's eyes, described as like
+    a star
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: noble presents
+  literal_form: Very noble presents brought to Lady St. Mary
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: first healing by Jesus' washing water
+  summary: A leprous woman asks Mary for help; Mary gives her water used to wash Jesus
+    and the woman becomes clean after pouring it on her body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: marriage dissolved because of leprous sign
+  summary: The healed woman encounters a prince and his bride; the prince has declared
+    the marriage void after seeing star-like signs of leprosy between the bride's
+    eyes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: testimony and journey to Mary
+  summary: The healed woman tells how Mary healed her with Jesus' washing water in
+    Bethlehem, then agrees to guide the others to Mary as they bring noble presents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: second healing and restoration of wife
+  summary: Mary blesses the group, gives water used to wash Jesus Christ, and instructs
+    them to wash the diseased young woman; she is cured, all praise God, and the prince
+    takes her home again.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: healing through water associated with a holy body
+  taxonomy_refs: []
+  basis: Both afflicted women are cured after using water described as having washed
+    Jesus' body.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage presents the water as effective in healing but does not formulate
+    a general doctrine of healing water.
+- id: motif:2
+  label: miraculous child as source of healing power
+  taxonomy_refs:
+  - miraculous_child
+  basis: Jesus is presented as Mary's son being washed and put to bed, and water from
+    washing his body cures leprosy in two cases.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage implies a child context through Mary washing her son and putting
+    him to bed, but it does not explicitly state Jesus' age in the excerpt.
+- id: motif:3
+  label: healed sufferer becomes witness and guide
+  taxonomy_refs: []
+  basis: The first woman is healed, then recounts the cure and leads others to Mary
+    for the same remedy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No external comparison is inferred; this is a passage-level recurring
+    action pattern.
+- id: motif:4
+  label: miraculous cure restores a broken marriage
+  taxonomy_refs: []
+  basis: A bride's leprosy causes the prince to dissolve the marriage, and her cure
+    leads him to take her home and make a second marriage.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The restoration is social and marital; the passage does not frame it as
+    legal commentary beyond the narrative action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XII.1-6; lines 3818-3839
+  quote_or_summary: A leprous woman asks Mary for help; Mary waits until she has washed
+    Jesus and put him to bed, gives the woman the washing water, and the woman becomes
+    clean after pouring it on herself.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: Chapter XII.7-13; lines 3840-3859
+  quote_or_summary: After staying three days, the healed woman enters the city and
+    sees a prince whose bride has leprous signs between her eyes like a star; the
+    marriage has been declared dissolved and the people are sorrowful.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: Chapter XII.14-15; lines 3860-3873
+  quote_or_summary: The healed woman says she had the same disease, went to Bethlehem,
+    entered a cave, saw Mary and Jesus, received water used to wash Jesus' body, sprinkled
+    herself, and became clean.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: Chapter XII.16-18; lines 3874-3886
+  quote_or_summary: The afflicted young woman's companions ask the healed woman to
+    show them Mary; they go to Mary with noble presents and present the leprous young
+    woman to her.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: Chapter XII.19-21; lines 3887-3897
+  quote_or_summary: Mary invokes the mercy of Jesus Christ, gives a little water used
+    to wash Jesus' body, instructs them to wash the diseased person, and the young
+    woman is cured; those present praise God.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: Chapter XII.22; lines 3898-3944
+  quote_or_summary: The prince hears that his wife is cured, takes her home, makes
+    a second marriage, and gives thanks to God for her recovery.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied Chapter XII passage. Motif
+    taxonomy alignment is limited because the available motif families do not include
+    a specific healing-water category; comparison claims are omitted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. The locator label mentions multiple chapters, but the provided passage text is Chapter XII.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l3818-l3944
+  passage_sha256=61d53122b4f3bc6cde26d57a533574cc41bd61c791b0bb70709918184960a1b0
+

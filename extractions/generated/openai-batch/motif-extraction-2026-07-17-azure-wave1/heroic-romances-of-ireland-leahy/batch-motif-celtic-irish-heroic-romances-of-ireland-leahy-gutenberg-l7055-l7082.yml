@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7055-l7082
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 32 / MAC DATHO'S BOAR / PAGE 37 / PAGE 38; lines 7055-7082
+  start: '7055'
+  end: '7082'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss variant manuscript readings and translation choices
+    for verses in the dialogue between Mac Datho and his wife. The notes mention Crimthann
+    Nia Nair, Nar described in another source as a witch, a line about Ireland being
+    roused, an image of a plain bare with ashes, and a difficult line concerning Ailbe
+    being sent by God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a literal version of the dialogue between Mac Datho
+    and his wife and notes manuscript differences between A.O., the Leinster text,
+    and the Rawlinson manuscript.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A verse line is glossed as saying that Crimthann Nia Nair has spoken; the
+    note explains possible meanings of “Nia” as “sister's son” or “champion.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Coir Anmann is cited as saying that Nar was a witch.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A verse line concerns speaking to or against a woman when something is amiss
+    or failing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A verse line is interpreted as saying that Ireland shall be roused over the
+    people by an unnamed male referent.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A difficult verse line is interpreted as describing nothing on the plain because
+    of bareness of ashes, or more literally a “no-plain.”
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A verse line is interpreted as saying that Ailbe was sent by God, while the
+    meaning of one word remains obscure.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mac Datho
+  description: Named as one participant in a dialogue with his wife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mac Datho's wife
+  description: Named by relationship as Mac Datho's wife and as the other participant
+    in the dialogue.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Crimthann Nia Nair
+  description: Named in a glossed verse line as one who has said something; the note
+    discusses the meaning of “Nia.”
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Nar
+  description: Identified in the cited Coir Anmann as a witch.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ailbe
+  description: Named in a difficult verse line, with the supplied sense that God sent
+    him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: God
+  description: Named as the sender of Ailbe in the translator's supplied sense.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dialogue participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly refers to “the dialogue between Mac Datho and his
+    wife.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wife
+  assigned_to:
+  - fig:2
+  basis: The figure is identified as Mac Datho's wife.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named speaker
+  assigned_to:
+  - fig:3
+  basis: The glossed phrase is rendered “Crimthann Nia Nair has said.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: figure with glossed epithet or name element
+  assigned_to:
+  - fig:3
+  basis: The note explains “Nia” as “sister's son” and also as “champion,” while noting
+    manuscript accent issues.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: witch in cited source
+  assigned_to:
+  - fig:4
+  basis: The Coir Anmann is cited as saying that Nar was a witch.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: sent figure
+  assigned_to:
+  - fig:5
+  basis: The supplied sense of the difficult line is “as for Ailbe, God sent him.”
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: divine sender
+  assigned_to:
+  - fig:6
+  basis: God is named as the one who sent Ailbe in the supplied translation sense.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ireland
+  literal_form: Ireland, described as being roused over the people
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: plain bare with ashes
+  literal_form: a plain or “no-plain” characterized by bareness of ashes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Editorial note on Mac Datho's dialogue
+  summary: The passage notes a literal version of the dialogue between Mac Datho and
+    his wife and identifies manuscript witnesses and divergences.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Verse note on Crimthann and Nar
+  summary: A verse line naming Crimthann Nia Nair is glossed, and a cited source identifies
+    Nar as a witch.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Verse note on Ireland and ashes
+  summary: A verse line is explained as saying that Ireland will be roused, and another
+    line is interpreted as describing a plain bare with ashes.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Verse note on Ailbe
+  summary: A difficult verse line is interpreted as saying that Ailbe was sent by
+    God, though one word remains obscure.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: consultation or dialogue with wife in a troubled situation
+  taxonomy_refs: []
+  basis: The passage identifies a dialogue between Mac Datho and his wife, and a related
+    verse line asks why one would speak to or against a woman unless something were
+    amiss or failing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The passage is editorial commentary and does not provide the full narrative
+    context of the dialogue.
+- id: motif:2
+  label: devastated plain marked by ashes
+  taxonomy_refs: []
+  basis: A verse line is interpreted as describing nothing on the plain because of
+    bareness of ashes.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives a translation note only; it does not explicitly describe
+    the cause of the ashes or a complete destruction episode.
+- id: motif:3
+  label: being sent by God
+  taxonomy_refs: []
+  basis: The supplied sense of a difficult line says that Ailbe was sent by God.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The note says the meaning of the word “cutal” is obscure, and the line
+    is presented as a translation problem rather than a developed narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7055-7060
+  quote_or_summary: The passage states that a literal version of the dialogue between
+    Mac Datho and his wife is given in A.O. following the Leinster text, with only
+    two lines in the Rawlinson manuscript and some divergences from the verse translation.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 7062-7066
+  quote_or_summary: A verse line is glossed as “Crimthann Nia Nair has said”; the
+    note explains “Nia” as “sister's son” or “champion,” and cites the Coir Anmann
+    as saying Nar was a witch.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary with short quoted phrases.
+- id: ev:3
+  type: summary
+  locator: 7068-7072
+  quote_or_summary: A verse line is discussed as meaning either “Why wouldest thou
+    talk to a woman if something were not amiss?” or “Why dost thou speak against
+    a woman unless something fails on that account.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short translation excerpts used.
+- id: ev:4
+  type: summary
+  locator: 7074-7080
+  quote_or_summary: A verse line is glossed as “By him Ireland shall be roused over
+    the people”; another line is interpreted as “There is nothing on the plain for
+    bareness of ashes,” more literally a “no-plain.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short translation excerpts used.
+- id: ev:5
+  type: summary
+  locator: 7081-7082
+  quote_or_summary: A difficult verse line is interpreted as “It does not make sorrow
+    for me; as for Ailbe, God sent him,” while the meaning of “cutal” is described
+    as obscure.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short translation excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited because the passage is primarily philological commentary
+    rather than a continuous mythic narrative. Candidate motifs are therefore tentative
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage supports textual and manuscript comparison, but not a clear comparative mythological claim within the permitted claim categories.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7055-l7082
+  passage_sha256=1476227bf429ccd57991104833d321fd0caac3917c3ecfe4b9ae766f9b4689dc
+

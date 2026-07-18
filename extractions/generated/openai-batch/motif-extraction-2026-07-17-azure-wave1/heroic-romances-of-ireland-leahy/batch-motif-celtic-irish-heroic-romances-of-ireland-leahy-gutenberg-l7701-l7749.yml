@@ -1,0 +1,447 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7701-l7749
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 69 / PAGE 71 / PAGE 76 / PAGE 78; lines 7701-7749
+  start: '7701'
+  end: '7749'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: The idea of a battle with the waves of the sea underlies the third verse
+    of this description.
+  summary: The passage gives a literal translation of Liban's welcome to Cuchulain,
+    an editorial note on Cuchulain's omitted battle account, and a literal rendering
+    in which Cuchulain describes throwing a spear into the host of Eogan the Stream,
+    being followed by a white army associated with Manannan Mac Lir, fighting many
+    opponents alone, and hearing Echaid Juil groan. A final note states that the third
+    verse is underlain by the idea of battle with sea-waves.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Liban's rhetoric welcomes Cuchulain and praises him with elevated heroic and
+    royal language.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A manuscript gloss explains the word "Torc" in the second line as meaning
+    "a king."
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary states that Cuchulain's own battle account was omitted by Thurneysen
+    and that the omission removes one feature of the tale.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the literal rendering, the speaker says he threw a light spear into the
+    host of Eogan the Stream and does not know the victory or deed he accomplished.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker refers to a man in the mist and says that this man did not come
+    away alive.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A white army, described as very red because of many horses, followed the speaker;
+    the army is called the people of Manannan Mac Lir and is named by Eogan the Stream.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The speaker says that when his full strength returned, he faced great numbers
+    alone and brought them to death.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The speaker says he heard the groan of Echaid Juil and mentions lips speaking
+    in friendship.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The commentary states that the third verse is underlain by the idea of a battle
+    with the waves of the sea.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Liban
+  description: Speaker whose rhetoric is described as a welcome to Cuchulain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cuchulain
+  description: Addressee of Liban's welcome and the hero whose own battle account
+    is rendered in the passage.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Eogan the Stream
+  description: Named in connection with the host into which the spear is thrown and
+    with the people who follow the speaker.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: white army / people of Manannan Mac Lir
+  description: Collective group that follows the speaker, described as a white army
+    red with many horses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Manannan Mac Lir
+  description: Named figure with whom the pursuing people are associated.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Echaid Juil
+  description: Named figure whose groan the speaker says he heard.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: man in the mist
+  description: Unnamed man in the mist who, according to the speaker, did not come
+    away alive.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: welcome-speaker
+  assigned_to:
+  - fig:1
+  basis: Liban's rhetoric is explicitly described as a welcome to Cuchulain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: praised heroic king or prince
+  assigned_to:
+  - fig:2
+  basis: The welcome calls Cuchulain a king, prince, hero, and battle-triumphing figure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: first-person battle narrator
+  assigned_to:
+  - fig:2
+  basis: The commentary identifies the battle account as Cuchulain's own account,
+    and the rendered verses use first-person narration.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:4
+  label: named opponent or host-associate
+  assigned_to:
+  - fig:3
+  basis: The speaker throws a spear into the host of Eogan the Stream, and the pursuing
+    people are connected with Eogan's naming.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: pursuing army
+  assigned_to:
+  - fig:4
+  basis: The group follows the speaker on every side and is described as an army.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: named associate of the pursuing people
+  assigned_to:
+  - fig:5
+  basis: The army is described as the people of Manannan Mac Lir.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: groaning figure
+  assigned_to:
+  - fig:6
+  basis: The speaker says he heard the groan of Echaid Juil.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: mist-obscured casualty
+  assigned_to:
+  - fig:7
+  basis: The man in the mist is said not to have come away alive.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: light spear
+  literal_form: A light spear thrown by the speaker into the host of Eogan the Stream.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: mist
+  literal_form: Mist surrounding or obscuring an unnamed man.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: white army and red horses
+  literal_form: A white army made very red by multitudes of horses.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: sea waves / water
+  literal_form: The waves of the sea, named in the commentary as the idea underlying
+    the third verse.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:9
+scenes:
+- id: scene:1
+  label: Liban welcomes Cuchulain
+  summary: Liban's rhetoric greets Cuchulain and praises him as a royal and heroic
+    figure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Spear cast into Eogan's host
+  summary: The first-person speaker says he threw a light spear into the host of Eogan
+    the Stream and is uncertain about the victory or deed accomplished.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Man in the mist and pursuing army
+  summary: The speaker says that a man in the mist did not leave alive, and a white
+    army associated with Manannan Mac Lir followed on every side.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: One warrior against many
+  summary: The speaker says he regained full strength and fought alone against large
+    numbers until he brought them to death.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Groan of Echaid Juil
+  summary: The speaker reports hearing Echaid Juil groan and mentions friendly speech
+    and a cast whose nature is uncertain in the rendering.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: heroic welcome and praise
+  taxonomy_refs: []
+  basis: Liban's welcome heaps royal, martial, and heroic epithets on Cuchulain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a rhetorical praise passage; the wider narrative function is not
+    supplied in this excerpt.
+- id: motif:2
+  label: hero minimizes or does not claim full battle glory
+  taxonomy_refs: []
+  basis: The commentary says it fits Cuchulain's character to lessen his own glory,
+    and the rendered speech says he does not know the victory or deed he has done.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Part of the basis comes from editorial commentary rather than only the
+    translated verse.
+- id: motif:3
+  label: single warrior against a multitude
+  taxonomy_refs: []
+  basis: The speaker describes himself as one man against thirty or hundreds and says
+    he brought them to death.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The exact numbers are rendered uncertainly in the translation.
+- id: motif:4
+  label: battle with sea-waves
+  taxonomy_refs: []
+  basis: The final commentary explicitly states that the idea of a battle with the
+    waves of the sea underlies the third verse, where a pursuing army is linked with
+    Manannan Mac Lir and Eogan the Stream.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The sea-wave reading is given as commentary on the verse; the verse itself
+    presents the image through an army and named figures.
+- id: motif:5
+  label: fatal encounter with a mist-obscured opponent
+  taxonomy_refs: []
+  basis: The speaker refers to a throw and to a man in the mist who did not come away
+    alive.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The translation is uncertain and does not identify the man in the mist.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies the third verse with a battle-against-sea-waves
+    pattern.
+  claim_level: same_motif
+  target: battle with the waves of the sea pattern
+  evidence_refs:
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external parallel or historical relationship is provided in the
+    passage; the claim rests on the passage's own commentary and the water-associated
+    imagery in the verse.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7701-7708
+  quote_or_summary: '"Liban''s rhetoric in welcome to Cuchulain" begins, "Hail to
+    Cuchulain! King who brings help..."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+- id: ev:2
+  type: quote
+  locator: 7709-7710
+  quote_or_summary: '"Torc in the second line is glossed in the MS. by ''that is,
+    a king.''"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+- id: ev:3
+  type: summary
+  locator: 7712-7718
+  quote_or_summary: The commentary says Cuchulain's own battle account was omitted
+    by Thurneysen and suggests that the account lessens Cuchulain's own glory.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; summary based on supplied passage.
+- id: ev:4
+  type: quote
+  locator: 7720-7725
+  quote_or_summary: '"I threw a cast with my light spear / into the host of Eogan
+    the Stream" and the speaker says he does not know the victory or deed.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+- id: ev:5
+  type: quote
+  locator: 7727-7730
+  quote_or_summary: The verse mentions "a throw, ignorance of the man in the mist"
+    and says "he came not away a living man."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+- id: ev:6
+  type: quote
+  locator: 7732-7735
+  quote_or_summary: '"A white army, very red for multitudes of horses" followed the
+    speaker; they are called "people of Manannan Mac Lir."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+- id: ev:7
+  type: quote
+  locator: 7737-7740
+  quote_or_summary: '"one man to their thirty, hundreds, / until I brought them to
+    death."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+- id: ev:8
+  type: quote
+  locator: 7742-7745
+  quote_or_summary: '"I heard the groan of Echaid Juil" and the verse mentions lips
+    speaking in friendship.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+- id: ev:9
+  type: quote
+  locator: 7748-7749
+  quote_or_summary: '"The idea of a battle with the waves of the sea underlies the
+    third verse of this description."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; short quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative figures and actions are explicit, but some rendered lines are marked
+    uncertain in the translation and one major motif reading is supplied by commentary
+    rather than by the verse alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Non-narrative scholarly names mentioned in the commentary were not treated as mythic figures.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7701-l7749
+  passage_sha256=12fab9f94714c7b54cc52d11d524e8cb75356eac3a0d7cba338f54e6e103daaa
+

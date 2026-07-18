@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l6965-l6975
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: A LEGEND OF WAIALUA / THE SHARK-MAN, NANAUE / FISH STORIES AND SUPERSTITIONS
+    / DEIFIED FISH SUPERSTITION; lines 6965-6975
+  start: '6965'
+  end: '6975'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Some of the varieties of fish we now eat were deified and prayed to
+  summary: The passage states that some fish formerly were deified and prayed to,
+    and that some Hawaiians continued to avoid eating or touching sharks, eels, oopus,
+    and other fish for fear of consequences. It describes the belief as transmitted
+    from parents to children and notes that the writer was raised with it but later
+    ate ancestral kapu fish without fear.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some varieties of fish that are eaten in the present were formerly deified
+    and prayed to by people of the olden time.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names sharks, eels, oopus, and some other fish as subjects of
+    a similar belief among some Hawaiians of the writer's day.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some people are described as afraid to eat or touch these fish because they
+    expect to suffer a consequence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The belief is described as handed down from parents to children and continuing
+    into the present.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The writer states that he was raised with this belief and later ate the kapu
+    fish of his ancestors without fearing a penalty.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Deified fish varieties
+  description: Fish varieties formerly deified and prayed to; some are also treated
+    as kapu fish associated with fear of penalty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: People of the olden time
+  description: Earlier people who deified and prayed to certain fish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Some Hawaiians of the writer's day
+  description: People described as maintaining a similar belief about sharks, eels,
+    oopus, and other fish.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Parents and children
+  description: The groups through whom the belief is said to have been handed down.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: The writer
+  description: First-person narrator who was raised with the belief and later ate
+    ancestral kapu fish without fear of penalty.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deified and tabooed food beings
+  assigned_to:
+  - fig:1
+  basis: The fish are said to have been deified, prayed to, avoided as dangerous to
+    eat or touch, and identified as kapu fish of the writer's ancestors.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: past worshippers
+  assigned_to:
+  - fig:2
+  basis: The passage says people of the olden time deified and prayed to certain fish.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: continuing believers
+  assigned_to:
+  - fig:3
+  basis: Some Hawaiians are described as still holding the superstition and avoiding
+    certain fish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: intergenerational transmitters and receivers
+  assigned_to:
+  - fig:4
+  basis: The belief is described as handed down from parents to children.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: first-person witness and former adherent
+  assigned_to:
+  - fig:5
+  basis: The writer states he was brought up with the belief and later ate the kapu
+    fish without fear.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: deified fish
+  literal_form: Varieties of fish formerly deified and prayed to
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: kapu fish of the ancestors
+  literal_form: Ancestral kapu fish eaten by the writer
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: sharks, eels, oopus, and other fish
+  literal_form: Named fish categories associated with the continuing belief
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Former deification of fish
+  summary: In the olden time, some fish varieties were treated as deified beings and
+    prayed to.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Continuing avoidance of taboo fish
+  summary: Some Hawaiians are described as fearing to eat or touch sharks, eels, oopus,
+    and other fish because of expected consequences.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Transmission and personal departure from fear
+  summary: The belief is described as passed from parents to children; the writer
+    says he was raised with it but has lately eaten the ancestral kapu fish without
+    fearing penalty.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deified food animal taboo
+  taxonomy_refs: []
+  basis: Certain fish are described as deified and prayed to, and some people avoid
+    eating or touching them because of feared consequences.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage describes a belief or superstition rather than a full narrative
+    episode.
+- id: motif:2
+  label: ancestral kapu food and feared penalty
+  taxonomy_refs: []
+  basis: The writer refers to the fish as the kapu fish of his ancestors and notes
+    fear of penalty surrounding eating it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The nature of the penalty is not specified in the passage.
+- id: motif:3
+  label: intergenerational transmission of taboo belief
+  taxonomy_refs: []
+  basis: The belief is explicitly said to have been handed down from parents to children
+    into the present.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a cultural-transmission pattern rather than a mythic plot motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6967-6969
+  quote_or_summary: Some varieties of fish now eaten were formerly “deified and prayed
+    to” by people of the olden time.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; excerpt permitted.
+- id: ev:2
+  type: quote
+  locator: 6969-6971
+  quote_or_summary: The continuing belief is said to concern “sharks, eels, oopus,
+    and some others.”
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; excerpt permitted.
+- id: ev:3
+  type: quote
+  locator: 6971-6972
+  quote_or_summary: Believers are “afraid to eat or touch these lest they suffer in
+    consequence.”
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; excerpt permitted.
+- id: ev:4
+  type: summary
+  locator: 6972-6974
+  quote_or_summary: The belief is described as perpetuated by being handed down from
+    parents to children into the present day.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summary of public domain passage.
+- id: ev:5
+  type: quote
+  locator: 6974-6975
+  quote_or_summary: The writer says he was raised with the belief and lately ate “the
+    kapu fish of his ancestors” without fearing penalty.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; excerpt permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate analytical
+    groupings because the passage is an explanatory note on belief rather than a complete
+    myth narrative. No comparison claims were added because the passage itself does
+    not make an explicit cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No available taxonomy references were applied because fish, kapu taboo, and deified food animals are not present as supplied symbol or motif-family IDs, and broader mappings would be interpretive.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l6965-l6975
+  passage_sha256=e24b782f6cca6fac270ac8cb2e883dabb05da8e7ab8ba5f150aa5bd15b5b9939
+

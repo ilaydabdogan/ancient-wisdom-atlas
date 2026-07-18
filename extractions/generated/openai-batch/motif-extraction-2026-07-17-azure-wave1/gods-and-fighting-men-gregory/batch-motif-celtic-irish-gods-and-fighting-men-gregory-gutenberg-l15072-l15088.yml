@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15072-l15088
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'BOOK ELEVEN: OISIN AND PATRICK. / CHAPTER I. OISIN''S STORY / CHAPTER II.
+    OISIN IN PATRICK''S HOUSE / CHAPTER III. THE ARGUMENTS; lines 15072-15088'
+  start: '15072'
+  end: '15088'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"I will cry my fill, but not for God, but because Finn and the Fianna are
+    not living."'
+  summary: Oisin praises Finn as a rescuer, asks Patrick not to forsake the Fianna
+    before the King of Heaven, lists his own deprivations, and laments that Finn and
+    the Fianna are dead.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Finn is said to have freed anyone in pain or danger by giving silver or gold,
+    or by fighting until he won.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks Patrick not to forsake the great men and to bring in the
+    Fianna, described as unknown to the King of Heaven.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he has a claim on Patrick's God and describes himself as
+    being without food, clothing, music, and rewards to poets.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says he is without the cry of hounds or horns, without guarding
+    coasts, and without courting generous women; he says he forgives the King of Heaven
+    after suffering want of food.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Oisin says his story is sorrowful, Patrick's voice is not pleasant to him,
+    and he will cry because Finn and the Fianna are not living.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: A heroic figure said to free people in pain or danger by payment or
+    victorious fighting; later named as dead.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Patrick
+  description: The addressee whom Oisin asks not to forsake the great men; his voice
+    is later said to be unpleasant to Oisin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: The Fianna
+  description: A group called great men, asked to be brought in despite being unknown
+    to the King of Heaven; later said not to be living.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: King of Heaven / God
+  description: The divine figure named as the King of Heaven and as Patrick's God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Oisin
+  description: The speaker who laments, lists deprivation, addresses Patrick, and
+    says he will cry for Finn and the Fianna.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: rescuer by ransom or combat
+  assigned_to:
+  - fig:1
+  basis: Finn is said to free those in pain or danger by silver, gold, or victorious
+    fighting.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: religious addressee asked to aid the Fianna
+  assigned_to:
+  - fig:2
+  basis: Patrick is addressed and asked not to forsake the great men and to bring
+    in the Fianna.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: absent heroic company needing inclusion
+  assigned_to:
+  - fig:3
+  basis: The Fianna are called great men and are the object of the request to Patrick.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: heavenly divine authority
+  assigned_to:
+  - fig:4
+  basis: The passage names the King of Heaven and Patrick's God in relation to the
+    Fianna and Oisin's claim.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: dead or vanished heroic figures
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Oisin says he cries because Finn and the Fianna are not living.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: lamenting speaker
+  assigned_to:
+  - fig:5
+  basis: Oisin says his story is sorrowful and that he will cry for Finn and the Fianna.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: silver and gold
+  literal_form: silver or gold
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hounds and horns
+  literal_form: the cry of the hounds or the horns
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: deprivation of sustenance and arts
+  literal_form: without food, without clothing, without music, without giving rewards
+    to poets
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Finn frees the distressed
+  summary: Finn is praised as one who freed people in pain or danger through wealth
+    or victory in fighting.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Appeal to Patrick for the Fianna
+  summary: Oisin appeals to Patrick not to forsake the great men and to bring in the
+    Fianna, who are described as unknown to the King of Heaven.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Oisin's deprivation and lament
+  summary: Oisin lists losses and deprivations, says he forgives the King of Heaven,
+    and declares he will cry because Finn and the Fianna are dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: heroic rescuer frees the endangered by wealth or combat
+  taxonomy_refs:
+  - culture_hero
+  basis: Finn is described as freeing anyone in pain or danger by silver, gold, or
+    victorious fighting.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents heroic rescue, but it does not narrate a full culture-hero
+    foundation myth.
+- id: motif:2
+  label: appeal for dead heroic company before heavenly authority
+  taxonomy_refs:
+  - divine_judgment
+  basis: Oisin asks Patrick to bring in the Fianna, who are unknown to the King of
+    Heaven, and later laments that Finn and the Fianna are not living.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage implies religious inclusion or exclusion but does not depict
+    an explicit judgment scene.
+- id: motif:3
+  label: lament for the vanished heroic band
+  taxonomy_refs: []
+  basis: Oisin says he will cry because Finn and the Fianna are not living.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No external motif-family taxonomy reference is assigned.
+- id: motif:4
+  label: loss of heroic life through deprivation of food, music, hunting, and courtship
+  taxonomy_refs: []
+  basis: Oisin lists being without food, clothing, music, rewards to poets, hounds,
+    horns, guarding coasts, and courting generous women.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is extracted as a passage pattern rather than a named traditional
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15072-15073
+  quote_or_summary: '"Finn left no one in pain or in danger without freeing him by
+    silver or gold, or by fighting till he got the victory."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 15075-15076
+  quote_or_summary: '"For the strength of your love, Patrick, do not forsake the great
+    men; bring in the Fianna unknown to the King of Heaven."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 15078-15081
+  quote_or_summary: The speaker says he has a claim on Patrick's God and is without
+    food, clothing, music, and rewards to poets.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15083-15085
+  quote_or_summary: The speaker says he lacks the cry of hounds and horns, guarding
+    coasts, and courting generous women, and says he forgives the King of Heaven after
+    suffering want of food.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 15087-15088
+  quote_or_summary: Oisin says his story is sorrowful and that he will cry not for
+    God but because Finn and the Fianna are not living.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt summarized with named speaker.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a short argumentative lament and does not provide full narrative
+    development. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata; comparison claims left empty because the passage does not itself support a specific external comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15072-l15088
+  passage_sha256=b1ae9c0d9cc22e469e140971f70710a818daa82fb0cd35fb3298c034feed639b
+

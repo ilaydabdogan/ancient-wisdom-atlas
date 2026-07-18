@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l35841-l35998
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLVI. The Guest. / Canto LI. The Combat. / Canto LX. Lakshman Reproved.
+    / Canto LXX. Kabandha.; lines 35841-35998
+  start: '35841'
+  end: '35998'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama and Lakshman travel through difficult forests while seeking Sita.
+    They find a dark cave where the giantess Ayomukhi seizes and woos Lakshman; Lakshman
+    wounds her and she flees. Lakshman then warns Rama of bad omens, including an
+    ill-omened bird. The brothers hear a destructive sound, discover a huge headless
+    fiend with a chest-eye, mouth below the waist, and league-long arms, and are seized
+    in his grasp.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After completing rites, the princely brothers travel onward, armed, and continue
+    the lady’s quest through western, southern, and then eastern forest routes.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The brothers seek Sita through forests described as lonely, dark, fearful,
+    tangled, and difficult to pass.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In a mountain’s wooded side, the brothers see a cave or den with deep dark
+    abysses.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Inside the dark recess is a huge misshapen giantess with fierce voice, long
+    teeth, dishevelled hair, and a feast of animal flesh.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The giantess comes from her den, focuses on Lakshman, spreads her arms to
+    hold him, asks him to be her love, and names herself Ayomukhi.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lakshman, enraged at the monster’s wooing, draws his sword and cuts her breast,
+    ear, and nose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After being wounded, the demon roars in pain and flees to her secret dwelling
+    place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Lakshman tells Rama that his throbbing arm, sick heart, and other signs foretell
+    peril.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Lakshman identifies a loud discordant bird as ill-omened and says it announces
+    approaching strife and victory.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: As the brothers continue the search, they hear a mighty sound that breaks
+    trees, and Rama raises his sword while both seek its hidden cause.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The discovered fiend is a huge headless and neckless trunk with bristling
+    hair, a mouth below the waist, thunderous voice, chest-brilliance, and a single
+    chest-eye.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The headless fiend eats lions, birds, and bears, uses league-long arms to
+    seize animals, blocks the brothers’ path, and grasps both brothers so they are
+    helpless in his hold.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: One of Raghu’s princely sons and royal brothers; he travels in search
+    of Sita, raises his sword to investigate the sound, and is seized by the headless
+    fiend.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Lakshman
+  description: Rama’s brother; Ayomukhi seizes and woos him, he wounds her with his
+    sword, he interprets bad omens, and he is later seized by the headless fiend.
+  role_refs:
+  - role:1
+  - role:5
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: Sita
+  description: The lady sought by the brothers; the passage says their thoughts are
+    bent on her and that they are dismayed at her loss.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ayomukhi
+  description: A huge misshapen cave-dwelling giantess who eats animal flesh, seizes
+    Lakshman, asks him to be her love, names herself, and flees after being wounded.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Headless fiend
+  description: A huge neckless and headless trunk with a mouth below the waist, a
+    single eye in the chest, flame-like brilliance, and league-long arms; he blocks
+    the way and captures the brothers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: Questing royal brother
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the princely brothers travel armed through forests with
+    their thoughts on Sita and the lady’s quest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Sought lost lady
+  assigned_to:
+  - fig:3
+  basis: The brothers are described as seeking Sita and being dismayed at the lady’s
+    loss.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Cave-dwelling devouring giantess
+  assigned_to:
+  - fig:4
+  basis: Ayomukhi is found in the cave’s dark recess and is described as a huge misshapen
+    giantess eating flesh of beasts.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Unwanted monster-wooer
+  assigned_to:
+  - fig:4
+  basis: She spreads her arms toward Lakshman, holds him to her breast, asks him to
+    be her love, and promises play with her in hills and islets.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Armed retaliator
+  assigned_to:
+  - fig:2
+  basis: Lakshman draws his sword and cuts Ayomukhi after her wooing.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Omen reader and adviser
+  assigned_to:
+  - fig:2
+  basis: Lakshman interprets bodily signs and the bird’s cry as warnings of peril,
+    strife, and victory, and tells Rama to advance armed.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Path-blocking devouring captor
+  assigned_to:
+  - fig:5
+  basis: The headless fiend eats animals, bars the brothers’ passage, stretches out
+    his arms, and holds both brothers fast.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: Captured royal brother
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The headless fiend casts his grasping limbs around Raghu’s sons and holds
+    them fast, leaving them helpless in his hold.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Dark cave or den
+  literal_form: A cave in a mountain’s woody side with deep dark abysses where darkness
+    never ceased to dwell.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Tangled dark forest
+  literal_form: Lonely, fearful, wild, black, tangled woods and groves through which
+    the brothers pass while searching.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Ill-omened bird
+  literal_form: A bird with a loud discordant cry interpreted by Lakshman as announcing
+    strife and victory.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Fire-like chest brilliance
+  literal_form: A brilliance from the headless fiend’s chest described as like gushing
+    flame.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Single chest-eye
+  literal_form: One fierce, bright eye set deep in the headless fiend’s chest.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: League-long grasping arms
+  literal_form: The headless fiend’s vast arms, each a league in length, used to seize
+    animals and the brothers.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Forest quest for Sita
+  summary: Rama and Lakshman travel armed through difficult forests, changing direction
+    and searching for Sita while dismayed at her loss.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ayomukhi in the cave
+  summary: The brothers see a dark mountain cave and encounter a huge misshapen giantess
+    inside, eating flesh of beasts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ayomukhi woos Lakshman and is wounded
+  summary: Ayomukhi seizes Lakshman and asks him to be her love; Lakshman draws his
+    sword, mutilates her, and she flees roaring.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Lakshman warns of omens
+  summary: After the giantess flees, Lakshman tells Rama that bodily signs and a discordant
+    bird cry foretell danger, strife, and victory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Discovery of the headless fiend
+  summary: The brothers hear a tree-breaking sound, investigate, and see a huge headless
+    fiend with chest-eye, flame-like brilliance, and mouth below the waist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: The brothers seized
+  summary: The headless fiend eats and sorts animals, bars the path, stretches out
+    his league-long arms, and holds Rama and Lakshman fast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Search for a lost lady through perilous wilderness
+  taxonomy_refs:
+  - mystical_quest
+  basis: The brothers travel through dark, tangled forests while their thoughts are
+    bent on Sita and they are engaged in the lady’s quest.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage supports a quest/search pattern, but the available taxonomy
+    label is broad; the passage itself does not frame the search as explicitly mystical.
+- id: motif:2
+  label: Monster-woman seizes and woos a hero
+  taxonomy_refs: []
+  basis: Ayomukhi emerges from a den, holds Lakshman, asks him to be her love, and
+    promises life and play with her before he wounds her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No taxonomy reference in the supplied list directly matches this episode.
+- id: motif:3
+  label: Ill omens before danger and combat
+  taxonomy_refs: []
+  basis: Lakshman reads bodily signs and a bird’s discordant cry as warnings that
+    peril, strife, and victory are near.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the omen reading directly, but no supplied taxonomy
+    reference directly matches omen interpretation.
+- id: motif:4
+  label: Path-blocking devourer captures the heroes
+  taxonomy_refs: []
+  basis: The headless fiend devours animals, bars the brothers’ passage, and seizes
+    both princes with vast arms so they become helpless in his hold.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The extracted label describes the local episode; no broader historical
+    or cross-cultural comparison is made from the passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35843-35878
+  quote_or_summary: The princely brothers travel armed through difficult woods, continue
+    the lady’s quest, pass Krauncha’s wood, and search for Sita while dismayed at
+    her loss.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:2
+  type: summary
+  locator: lines 35879-35896
+  quote_or_summary: The brothers see a cave in a mountain’s wooded side, described
+    as dark and abyssal; within is a huge misshapen giantess eating the flesh of beasts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:3
+  type: summary
+  locator: lines 35897-35908
+  quote_or_summary: The giantess leaves her den, reaches toward Lakshman, asks him
+    to be her love, holds him, names herself Ayomukhi, and promises life with her
+    among hills and islets.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:4
+  type: summary
+  locator: lines 35910-35921
+  quote_or_summary: Lakshman draws his sword and cuts Ayomukhi’s breast, ear, and
+    nose; the demon roars in pain and flees to her secret dwelling place.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:5
+  type: summary
+  locator: lines 35922-35938
+  quote_or_summary: Lakshman warns Rama that his bodily signs and cheerless omens
+    foretell peril; he points to a discordant ill-omened bird whose cry announces
+    strife and victory.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:6
+  type: summary
+  locator: lines 35940-35947
+  quote_or_summary: While continuing the search, the brothers hear a mighty sound
+    that breaks trees like a tempest; Rama raises his sword and both investigate the
+    hidden cause.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:7
+  type: summary
+  locator: lines 35948-35965
+  quote_or_summary: A huge broad-chested fiend appears as a vast trunk without neck
+    or head, with bristling hair, mouth below the waist, loud voice, flame-like chest
+    brilliance, and one fierce eye in the chest.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:8
+  type: summary
+  locator: lines 35966-35977
+  quote_or_summary: The headless fiend swallows lions, birds, and bears; with league-long
+    arms he seizes and sorts deer, bears, and birds, and stands barring the brothers’
+    passage.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+- id: ev:9
+  type: summary
+  locator: lines 35978-35997
+  quote_or_summary: The brothers see the headless shape again; it stretches out its
+    arms, casts them around Raghu’s sons, and holds both armed brothers fast so they
+    are helpless, though Rama remains heroic and Lakshman becomes fearful.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata permits full text
+    use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on the supplied passage. Motif candidates are
+    local descriptive patterns; only the broad quest taxonomy reference is applied.
+    No passage-internal comparative claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external Ramayana context was used beyond the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l35841-l35998
+  passage_sha256=b30821d0251e0e57839aa63dcc303bb49671ec9fa7eeaaf8cd4d3cf4f9dff003
+

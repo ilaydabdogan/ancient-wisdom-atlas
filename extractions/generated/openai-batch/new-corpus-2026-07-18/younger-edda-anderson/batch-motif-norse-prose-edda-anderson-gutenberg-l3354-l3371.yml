@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.norse-prose-edda-anderson-gutenberg-l3354-l3371
+source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+passage_locator:
+  label: CHAPTER XVII. / REGENERATION. / AFTERWORD / TO THE FOOLING OF GYLFE.; lines
+    3354-3371
+  start: '3354'
+  end: '3371'
+  translation: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: to him are ascribed the great deeds done by Hektor in Troy
+  summary: In the afterword, the asas sit in counsel, recall the tales told to Gylfe,
+    and assign the same names to men and places so that later people will not doubt
+    their identity. The passage then names Thor as Asa-Thor and Oku-Thor, connects
+    Thor with deeds attributed to Hektor in Troy, and reports that Turks told of Ulysses
+    under the name Loke.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The asas sat down to talk, held counsel, and remembered the tales told to
+    Gylfe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The asas gave the same names that had been named before to men and places
+    there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stated reason for giving the same names was so that, after a long time,
+    men would not doubt that the asas in the tales and those given the same names
+    were identical.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One figure is called Thor, Asa-Thor the old, and Oku-Thor.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Great deeds done by Hektor in Troy are ascribed to Thor.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage reports that men think the Turks told of Ulysses and called him
+    Loke.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Turks are described as Ulysses' greatest enemies.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: asas
+  description: Collective group who sit down to talk, hold counsel, remember the tales
+    told to Gylfe, and give names to men and places.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Gylfe
+  description: The figure to whom the remembered tales had been told.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Thor / Asa-Thor / Oku-Thor
+  description: Figure called Thor, Asa-Thor the old, and Oku-Thor; Hektor's deeds
+    in Troy are ascribed to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Hektor
+  description: Figure associated with Troy whose great deeds are said to be ascribed
+    to Thor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ulysses
+  description: Figure whom the Turks are said to have told of and called Loke; the
+    Turks are described as his greatest enemies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Loke
+  description: Name by which Ulysses is said to have been called in the reported Turkish
+    telling.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Turks
+  description: Group said to have told of Ulysses, called him Loke, and been his greatest
+    enemies.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: council holders
+  assigned_to:
+  - fig:1
+  basis: The asas sit down to talk and hold counsel.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of prior tales
+  assigned_to:
+  - fig:2
+  basis: The tales remembered by the asas are described as having been told to Gylfe.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: name assigners
+  assigned_to:
+  - fig:1
+  basis: The asas give the same names to men and places that had been named before.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: multiply named figure with ascribed deeds
+  assigned_to:
+  - fig:3
+  basis: Thor is also named Asa-Thor and Oku-Thor, and deeds of Hektor are ascribed
+    to him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: source of ascribed deeds
+  assigned_to:
+  - fig:4
+  basis: The passage says Hektor's deeds in Troy are ascribed to Thor.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: reported renamed subject
+  assigned_to:
+  - fig:5
+  basis: Ulysses is the figure whom the Turks are said to have told of and called
+    Loke.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: reported alternate name
+  assigned_to:
+  - fig:6
+  basis: Loke is the name reportedly applied to Ulysses by the Turks.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: reported hostile tellers
+  assigned_to:
+  - fig:7
+  basis: The Turks are said to tell of Ulysses and to be his greatest enemies.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Council after the tales to Gylfe
+  summary: The asas sit down, talk, hold counsel, and remember the tales told to Gylfe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reassignment of names for remembered identity
+  summary: The asas give the same names to men and places so that later people will
+    not doubt the identity of the figures associated with those names.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Trojan and Turkish name associations
+  summary: Thor is identified by several names and linked with Hektor's deeds in Troy;
+    Ulysses is reported to have been called Loke by the Turks, who are described as
+    his enemies.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine council recalling prior tales
+  taxonomy_refs: []
+  basis: The asas sit together, talk, hold counsel, and remember the tales told to
+    Gylfe.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a brief afterword setting and does not describe
+    a decision beyond the naming explanation.
+- id: motif:2
+  label: Identity preserved through repeated names
+  taxonomy_refs: []
+  basis: The passage explicitly says the same names are given so that later people
+    will not doubt that the named figures are identical.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a descriptive naming/identity pattern and is not directly matched
+    to the supplied motif-family taxonomy.
+- id: motif:3
+  label: Foreign heroic figures assimilated through name and deed attribution
+  taxonomy_refs: []
+  basis: Thor receives deeds attributed to Hektor in Troy, while Ulysses is said to
+    be called Loke in a reported Turkish telling.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage reports identifications and attributions but gives no details
+    of the deeds or narrative parallels.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports an attribution connecting Thor, also called Asa-Thor
+    and Oku-Thor, with Hektor of Troy by assigning Hektor's deeds to Thor.
+  claim_level: same_function
+  target: Hektor in Troy / Trojan heroic tradition
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no details of Hektor's deeds and does not demonstrate
+    a full narrative parallel; it only reports an attribution.
+- id: claim:2
+  claim: The passage reports that Turks told of Ulysses under the name Loke.
+  claim_level: linguistic_similarity
+  target: Ulysses as named Loke in the reported Turkish telling
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a reported naming equivalence, not an explained etymology or
+    demonstrated linguistic similarity; no narrative features are provided.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3354-3358
+  quote_or_summary: The asas sat down to talk, held counsel, and remembered the tales
+    told to Gylfe.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; concise evidence excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3358-3364
+  quote_or_summary: The asas gave the same names to men and places so that, after
+    a long time, people would not doubt that the figures in the tales and those given
+    the same names were identical.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3364-3366
+  quote_or_summary: There was one called Thor, identified also as Asa-Thor the old
+    and Oku-Thor.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; concise evidence excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3366-3367
+  quote_or_summary: Great deeds done by Hektor in Troy are ascribed to Thor.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; concise evidence excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: lines 3367-3371
+  quote_or_summary: The passage says men think the Turks told of Ulysses, called him
+    Loke, and were his greatest enemies.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; concise evidence excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about the council, name repetition, and stated identifications.
+    Motif labels are descriptive because the supplied taxonomy has no direct category
+    for euhemeristic name assimilation. Comparison claims are internal to the passage
+    and should not be treated as external historical conclusions without review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied symbol taxonomy entries are directly present in this passage; symbols array is therefore empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-prose-edda-anderson-gutenberg__l3354-l3371
+  passage_sha256=a89cb1e46a379c9c0404bafeefe97efb1669366aaf2f40c62d3bc73af3fd2cf4
+

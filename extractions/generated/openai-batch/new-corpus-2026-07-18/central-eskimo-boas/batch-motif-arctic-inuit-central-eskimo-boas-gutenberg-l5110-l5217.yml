@@ -1,0 +1,545 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l5110-l5217
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SUNDRY IMPLEMENTS. / TRANSPORTATION BY BOATS AND SLEDGES. / THE BOAT (UMIAQ).
+    / THE SLEDGE AND DOGS.; lines 5110-5217
+  start: '5110'
+  end: '5217'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Ethnographic description of Central Eskimo sledges, runners, shoeing, antler
+    backs, thongs, clasps, dog harnesses, sealing use of dogs, substitute sledge materials,
+    and regional variations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: For much of the year, ice and snow provide the main passable road, so sledges
+    are used for travel.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hudson Strait and Davis Strait model has two long runners, cross bars,
+    and a back made from deer antlers with the skull attached.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The runners may be shod with whalebone, ivory, or whale jawbone; wider shoeing
+    near the front helps the sledge move through soft snow.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Sledge shoes may be tied or riveted to the runners, with recessed drill holes
+    used to avoid friction when lashed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cross bars have notched projecting ends used for fastening load lashings;
+    thongs and wedges tighten the fastenings to the runners.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The antler back functions as a steering and pulling handle, a lashing point,
+    and a place to hang the snow knife and harpoon line.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A stout thong called the pitu passes through the foremost runner holes and
+    fastens the dogs’ traces to the sledge by a loop and clasp arrangement.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: One artistic clasp design is described as representing an animal head with
+    a gaping mouth.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Dogs wear sealskin or deerskin harnesses with bights under the forelegs, straps
+    over the breast and neck, and traces running from the back to the sledge.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: During sealing, a dog may be detached from the sledge so it can lead the hunter
+    to a breathing hole.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Other sledges are made from whale bone, frozen walrus or seal skin bags, frozen
+    salmon, slabs of freshwater ice, or hollowed ice blocks.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: In Boothia, frozen salmon used as sledge material in winter may be eaten in
+    spring.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Parry reports that Iglulik people detach antlers from the sledge in winter
+    for sealing, while Davis Strait groups generally keep antlers on their sledges.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Hudson Strait and Davis Strait tribes
+  description: Groups identified as making the best sledge model because they can
+    obtain abundant driftwood for long wooden runners.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: fig:2
+  name_or_label: Dogs
+  description: Harnessed animals whose traces are fastened to the sledge; individual
+    dogs may be removed for sealing work.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Hunter
+  description: A person who may be led by a detached dog to a seal breathing hole.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Iglulik people
+  description: People cited through Parry as having a three-bight dog harness form
+    and as detaching antlers from sledges in winter when sealing.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:10
+roles:
+- id: role:1
+  label: Sledge makers and users
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage identifies regional groups in relation to sledge construction
+    or winter sealing use.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:2
+  label: Draught animals
+  assigned_to:
+  - fig:2
+  basis: Dogs wear harnesses and their traces are fastened to the sledge.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: Sealing guide
+  assigned_to:
+  - fig:2
+  basis: A dog can be taken from the sledge to lead the hunter to a breathing hole.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: Sealing hunter
+  assigned_to:
+  - fig:3
+  basis: The hunter is described as being led by the dog to the breathing hole.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: Regional variant bearers
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage contrasts Iglulik and Davis Strait antler practices and notes
+    a distinct Iglulik harness form.
+  evidence_refs:
+  - ev:7
+  - ev:10
+symbols:
+- id: sym:1
+  label: Sledge
+  literal_form: qamuting with runners, cross bars, shoeing, lashings, and antler back
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Ice and snow road
+  literal_form: ice and snow as the only passable road for much of the year
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Antler back
+  literal_form: deer antlers with skull attached forming the back of the sledge
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:10
+- id: sym:4
+  label: Runner shoeing
+  literal_form: whalebone, ivory, or whale jawbone shoe attached to the bottom of
+    the runner
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: Pitu clasp and thong
+  literal_form: stout two-part thong with loop and clasp used to fasten dogs’ traces
+    to the sledge
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Animal-head clasp image
+  literal_form: clasp design representing an animal head with a gaping mouth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Dog harness
+  literal_form: ano harness of sealskin or deerskin with bights, straps, and trace
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Detachable trace clasp
+  literal_form: sadniriaq clasp unbuttoning the fore part of a dog trace
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: Substitute sledge materials
+  literal_form: whale bone, frozen walrus skin, frozen seal skin, frozen salmon, freshwater
+    ice slabs, and hollowed ice blocks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: Snow knife and harpoon line
+  literal_form: tools hung on the right brow antler of the sledge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Travel over ice and snow
+  summary: The passage frames sledge travel as a response to seasonal conditions in
+    which ice and snow are the main passable road.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Long-runner sledge construction
+  summary: The Hudson Strait and Davis Strait sledge is described with long runners,
+    cross bars, runner shoeing, and an antler back.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Dog traction arrangement
+  summary: A pitu thong, clasp, uqsirn implement, traces, and harnesses connect dogs
+    to the sledge.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Dog detached for sealing
+  summary: In sealing, a dog may be unbuttoned from the sledge trace and used to lead
+    the hunter to a breathing hole.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Alternative sledge fabrication
+  summary: Where ordinary plank materials are unavailable, sledges can be made from
+    bone, frozen skins, frozen salmon, or ice, though these are described as inferior
+    to the main sledge model.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:9
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Regional antler practices
+  summary: The passage contrasts Iglulik winter sealing practice of detaching antlers
+    with Davis Strait use of sledges that usually retain a pair of antlers.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Seasonal ice-road travel by sledge
+  taxonomy_refs: []
+  basis: Travel is organized around the fact that ice and snow form the main passable
+    road for much of the year, making sledges necessary.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic transportation pattern, not a mythic narrative
+    motif in the passage.
+- id: motif:2
+  label: Animal-drawn sledge
+  taxonomy_refs: []
+  basis: Dogs are harnessed with traces connected to the sledge through specialized
+    thongs, clasps, and ivory implements.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage describes practical equipment rather than symbolic animal
+    helpers.
+- id: motif:3
+  label: Detachable helper animal for hunting
+  taxonomy_refs: []
+  basis: A dog can be removed from the sledge during sealing to lead the hunter to
+    a breathing hole.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The helper role is practical and hunting-related; no supernatural role
+    is stated.
+- id: motif:4
+  label: Travel technology made from animal and ice materials
+  taxonomy_refs: []
+  basis: Sledges and parts are made from antlers, whale jawbone, whalebone, ivory,
+    sealskin, deerskin, walrus skin, frozen salmon, and ice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: This groups several material-culture details; the passage does not present
+    them as a single named motif.
+- id: motif:5
+  label: Winter utility and spring consumption of frozen salmon sledge material
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: In Boothia, frozen salmon are used like sledge material in winter and eaten
+    in spring after serving that purpose.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The seasonal-cycle taxonomy reference is limited to a practical winter-spring
+    sequence, not a cosmological or ritual seasonal myth.
+- id: motif:6
+  label: Animal-head image on utilitarian fastener
+  taxonomy_refs: []
+  basis: An artistic pitu clasp design is explicitly described as representing an
+    animal head with a gaping mouth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a visual description but does not explain symbolic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The pitu clasp for the main dog-trace connection and the sadniriaq clasp
+    for detachable traces are presented as similar clasp mechanisms serving related
+    fastening functions.
+  claim_level: same_function
+  target: sadniriaq clasp compared with pitu clasp
+  evidence_refs:
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states similarity and function but gives limited morphological
+    detail for the sadniriaq.
+- id: claim:2
+  claim: Alternative sledges made of whale bone, frozen skins, frozen salmon, and
+    ice are described as serving the same transport function as the long-runner sledge,
+    though they are considered clumsier and inferior.
+  claim_level: same_function
+  target: substitute sledge-material practices compared with the described long-runner
+    sledge
+  evidence_refs:
+  - ev:2
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Specific regional attribution is given only for the Boothia frozen-salmon
+    example.
+- id: claim:3
+  claim: Parry’s Iglulik three-bight harness and the two-bight harness described in
+    the passage are comparable regional variants of dog harnessing for sledge use.
+  claim_level: same_function
+  target: Iglulik dog harnesses described by Parry compared with the described harness
+    form
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison relies on a cited secondary observation within the passage
+    and does not provide full construction details for both forms.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5110-5114
+  quote_or_summary: For most of the year, ice and snow are the only passable road,
+    so sledges of different constructions are used in travel.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5116-5128
+  quote_or_summary: 'Hudson Strait and Davis Strait groups make a preferred sledge
+    model using abundant driftwood: two long runners, cross bars, an antler-and-skull
+    back, and shoeing of whalebone, ivory, or whale jawbone; wider front shoeing helps
+    in soft snow.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5130-5139
+  quote_or_summary: Runner shoes are tied or riveted; whale jaws, ivory pieces, and
+    whalebone are used, and points may be covered with bone to prevent damage.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5141-5150
+  quote_or_summary: Cross bars project beyond the runners and have notches for load
+    lashings; thongs pass through holes and may be tightened with additional thongs
+    or wedges.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5152-5161
+  quote_or_summary: The antler back is shaped to fit the runners and serves as a handle
+    for steering or pulling; the right brow antler holds lashings, the snow knife,
+    and the harpoon line.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5163-5178
+  quote_or_summary: A stout two-part pitu thong through the runners fastens dogs’
+    traces by loop and clasp; one artistic clasp design represents an animal head
+    with a gaping mouth; traces are strung by an ivory uqsirn.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 5180-5186
+  quote_or_summary: Dogs have sealskin or deerskin harnesses with bights under the
+    forelegs and straps over breast and neck; Parry reports Iglulik harnesses with
+    three bights.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 5188-5194
+  quote_or_summary: For sealing, a dog may be taken from the sledge to lead the hunter
+    to a breathing hole; two-part traces can be opened by a sadniriaq clasp similar
+    to the pitu clasp.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 5196-5208
+  quote_or_summary: Other sledges use whale bone, frozen walrus or seal skin bags,
+    frozen salmon in Boothia later eaten in spring, freshwater ice slabs, or hollowed
+    ice blocks; these are called clumsy and inferior.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 5210-5214
+  quote_or_summary: Parry states that Iglulik people detach sledge antlers in winter
+    while sealing; Davis Strait groups generally use sledges with a pair of antlers.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is strongly supported by the passage. Motif candidates
+    are mostly practical material-culture patterns rather than mythic motifs, so they
+    require human review for atlas relevance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbolic or mythological meaning is inferred beyond the passage. Taxonomy use is limited to the explicitly seasonal winter-spring frozen-salmon sequence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l5110-l5217
+  passage_sha256=6025b34d453fdc753391fd7d645a259047dc186e5a37a1945348d4b2a1e9c5e3
+

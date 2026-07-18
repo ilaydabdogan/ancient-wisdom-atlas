@@ -1,0 +1,582 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l8692-l8763
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 8692-8763
+  start: '8692'
+  end: '8763'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: A. L. M. There is no doubt in this book; it is a direction to the pious
+  summary: The opening of Chapter II presents the book as guidance for the pious,
+    describes marks of belief and practice, contrasts believers with unbelievers,
+    and condemns insincere people who profess belief publicly while privately mocking
+    believers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage begins with the isolated letter sequence “A. L. M.” before describing
+    the book.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The book is described as free from doubt and as a direction or guidance for
+    the pious.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The pious are described as believing in mysteries of faith, observing appointed
+    prayer times, and distributing alms from what has been bestowed on them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The pious are also described as believing in revelation sent to the addressee
+    and in revelation sent to earlier prophets.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The pious are said to have firm assurance of the life to come, to be directed
+    by their Lord, and to prosper.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Unbelievers are described as not believing whether admonished or not.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: God is said to have sealed the hearts and hearing of unbelievers, while dimness
+    covers their sight, and they are assigned grievous punishment.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Some people say they believe in God and the last day but are described as
+    not really believers.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The insincere group is said to seek to deceive God and believers, but to deceive
+    only themselves.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: An infirmity is described as being in the hearts of the insincere group, and
+    God is said to increase that infirmity.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: When told not to act corruptly in the earth, the insincere group replies that
+    they are men of integrity; the passage calls them corrupt doers who are not aware
+    of it.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: When told to believe as others believe, the insincere group speaks contemptuously
+    of those others as fools; the passage reverses the charge and calls the insincere
+    group fools.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The insincere group says “We do believe” when meeting believers, but privately
+    tells its “devils” that it really holds with them and only mocks the believers.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: GOD / LORD
+  description: Named as God and Lord; described as merciful, bestowing, directing
+    the pious, sealing hearts and hearing, increasing infirmity, and assigning punishment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: the pious / those who believe
+  description: People who believe in the mysteries of faith, observe prayer, distribute
+    alms, believe in revelation, have assurance of the life to come, and are directed
+    by their Lord.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:11
+- id: fig:3
+  name_or_label: the addressee of revelation
+  description: The person addressed as “thee,” to whom revelation is said to have
+    been sent down.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: prophets before the addressee
+  description: Earlier prophets to whom revelation is said to have been sent down;
+    the translator’s note mentions Moses, Jesus, Mohammed, and other prophets as recipients
+    of written revelations in Muslim belief.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:13
+- id: fig:5
+  name_or_label: unbelievers
+  description: People who will not believe whether admonished or not, whose hearts
+    and hearing are sealed, whose sight is dimmed, and who receive grievous punishment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: insincere professing believers
+  description: People who claim belief in God and the last day but are not really
+    believers; they deceive themselves, claim integrity while acting corruptly, and
+    speak differently in public and private.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:7
+  name_or_label: their devils
+  description: Private associates to whom the insincere group says it really holds
+    with them and only mocks believers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: divine guide and judge
+  assigned_to:
+  - fig:1
+  basis: God/Lord directs the pious, seals unbelievers’ faculties, increases infirmity,
+    and assigns punishment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:2
+  label: guided faithful community
+  assigned_to:
+  - fig:2
+  basis: The pious are marked by belief, prayer, almsgiving, and assurance of the
+    life to come, and are said to prosper by divine direction.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: recipient of sent-down revelation
+  assigned_to:
+  - fig:3
+  basis: The passage refers to revelation sent down to “thee.”
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: earlier recipients of revelation
+  assigned_to:
+  - fig:4
+  basis: The passage says revelation was also sent down to prophets before the addressee.
+  evidence_refs:
+  - ev:4
+  - ev:13
+- id: role:5
+  label: unbelieving recipients of admonition
+  assigned_to:
+  - fig:5
+  basis: Unbelievers are described as unchanged by admonition and subject to sealed
+    faculties and punishment.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: deceivers and hypocritical speakers
+  assigned_to:
+  - fig:6
+  basis: They profess belief without really believing, seek deception, claim integrity,
+    and contradict their public profession in private.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: role:7
+  label: private confederates of the insincere group
+  assigned_to:
+  - fig:7
+  basis: The insincere group privately addresses its “devils” and states allegiance
+    to them.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: A. L. M. opening letters
+  literal_form: The isolated letter sequence “A. L. M.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: the book as direction
+  literal_form: A book described as having no doubt and as direction to the pious
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mysteries of faith / unseen things
+  literal_form: "“mysteries of faith,” glossed in the note as absent, distant, or
+    invisible things"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: sym:4
+  label: life to come / last day
+  literal_form: The future life after death and the last day
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:14
+- id: sym:5
+  label: sealed hearts, sealed hearing, dim sight
+  literal_form: Hearts and hearing sealed by God, with dimness covering sight
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: infirmity in the heart
+  literal_form: An infirmity located in the heart and increased by God
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: corruption in the earth
+  literal_form: Acting corruptly in the earth
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: The book guides the pious
+  summary: The passage opens with letters, presents the book as guidance, and lists
+    the pious as people who believe, pray, give alms, accept revelation, and trust
+    the life to come.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Unbelievers remain closed and are punished
+  summary: Unbelievers are described as unaffected by admonition; God seals their
+    hearts and hearing, dimness covers their sight, and punishment is assigned to
+    them.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: False profession and self-deception
+  summary: Some people profess belief in God and the last day while not truly believing;
+    they seek to deceive God and believers, but the passage says they deceive themselves
+    and have heart-infirmity increased.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Corruption, mockery, and secret allegiance
+  summary: The insincere group denies corruption, mocks the call to believe as others
+    believe, professes belief when meeting believers, and privately tells its devils
+    that it stands with them and only mocks believers.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: revealed book as divine guidance
+  taxonomy_refs:
+  - wisdom
+  basis: The book is presented as undoubted direction for the pious, and the pious
+    are described as guided by their Lord.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference “wisdom” is broad; the passage emphasizes
+    guidance more than wisdom personified or a wisdom quest.
+- id: motif:2
+  label: continuity of revelation through prophets
+  taxonomy_refs: []
+  basis: The pious believe in revelation sent down to the addressee and in revelation
+    sent down to prophets before him.
+  evidence_refs:
+  - ev:4
+  - ev:13
+  confidence: high
+  cautions: The passage asserts continuity but does not narrate specific prophetic
+    episodes in this excerpt.
+- id: motif:3
+  label: faith in unseen realities and the future life
+  taxonomy_refs:
+  - resurrection
+  basis: The pious believe in mysteries of faith and have firm assurance of the life
+    to come; the notes gloss the unseen as including resurrection, paradise, and hell,
+    and gloss the life to come as the future state after death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:12
+  - ev:14
+  confidence: medium
+  cautions: The excerpt does not narrate a resurrection event; the taxonomy link rests
+    on doctrinal references and translator notes.
+- id: motif:4
+  label: divine judgment against unbelief and deception
+  taxonomy_refs:
+  - divine_judgment
+  basis: Unbelievers receive grievous punishment, and insincere professing believers
+    receive painful punishment because they disbelieved.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The judgment is stated doctrinally rather than dramatized as a courtroom
+    or end-time scene.
+- id: motif:5
+  label: sealed inner faculties and spiritual blindness
+  taxonomy_refs: []
+  basis: God is said to seal hearts and hearing, while dimness covers sight; a related
+    heart-infirmity is increased in the insincere group.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a strong image in the passage, but no supplied taxonomy family
+    directly matches it.
+- id: motif:6
+  label: hypocritical double speech and secret allegiance
+  taxonomy_refs:
+  - duality
+  basis: The insincere group professes belief to believers but privately tells its
+    devils that it truly holds with them and only mocks believers.
+  evidence_refs:
+  - ev:7
+  - ev:11
+  confidence: medium
+  cautions: The “duality” taxonomy reference is broad; the passage specifically concerns
+    public/private religious duplicity.
+- id: motif:7
+  label: corruption masked as integrity
+  taxonomy_refs: []
+  basis: When told not to act corruptly in the earth, the group claims to be men of
+    integrity, while the passage calls them corrupt doers.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: No supplied motif-family reference directly captures this ethical reversal.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the addressee’s revelation and earlier prophetic revelations
+    as analogous instances of divine revelation serving the faithful community.
+  claim_level: same_function
+  target: earlier prophetic revelations to prophets before the addressee
+  evidence_refs:
+  - ev:4
+  - ev:13
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt states continuity of revelation but does not identify a
+    specific shared narrative motif, historical contact, or textual dependence within
+    the passage itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8692-8763; chapter heading
+  quote_or_summary: "“CHAPTER II. ENTITLED, THE COW; ... IN THE NAME OF THE MOST MERCIFUL
+    GOD.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 8692-8763; beginning of Chapter II
+  quote_or_summary: "“A. L. M. There is no doubt in this book; it is a direction to
+    the pious”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 8692-8763; description of the pious
+  quote_or_summary: The pious believe in mysteries of faith, observe appointed prayer
+    times, and distribute alms from what has been bestowed on them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8692-8763; revelation and future life
+  quote_or_summary: The pious believe in revelation sent to the addressee and to prophets
+    before him, and have firm assurance of the life to come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8692-8763; promise to the pious
+  quote_or_summary: "“these are directed by their LORD, and they shall prosper.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 8692-8763; unbelievers
+  quote_or_summary: Unbelievers will not believe whether admonished or not; God has
+    sealed their hearts and hearing, dimness covers their sight, and they shall suffer
+    grievous punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 8692-8763; false profession
+  quote_or_summary: "“There are some who say, We believe in GOD, and the last day;
+    but are not really believers”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 8692-8763; deception and heart-infirmity
+  quote_or_summary: The insincere group seeks to deceive God and believers but deceives
+    only itself; an infirmity is in their hearts, God increases it, and painful punishment
+    is assigned because of disbelief.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8692-8763; corruption in the earth
+  quote_or_summary: When told not to act corruptly in the earth, the group replies
+    that it is made of men of integrity; the passage calls them corrupt doers unaware
+    of themselves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 8692-8763; accusation of folly
+  quote_or_summary: When told to believe as others believe, the group asks whether
+    it should believe as fools believe; the passage says they themselves are fools
+    but do not know it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 8692-8763; public and private speech
+  quote_or_summary: When meeting believers, the group says it believes; when privately
+    with its “devils,” it says it truly holds with them and only mocks those people.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:12
+  type: note
+  locator: lines 8692-8763; footnote f
+  quote_or_summary: The translator’s note glosses the Arabic word for mysteries as
+    what is absent, distant, or invisible, including resurrection, paradise, and hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; note summarized.
+- id: ev:13
+  type: note
+  locator: lines 8692-8763; footnote g
+  quote_or_summary: The translator’s note says Muslims believe God gave written revelations
+    to Moses, Jesus, Mohammed, and other prophets.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; note summarized.
+- id: ev:14
+  type: note
+  locator: lines 8692-8763; footnote h
+  quote_or_summary: The translator’s note glosses the “life to come” as the latter
+    or future state after death, opposed to the present life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; note summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear in the supplied English translation. Motif taxonomy
+    links are limited because the excerpt is doctrinal and exhortative rather than
+    narrative; several images do not have exact supplied taxonomy references. Footnote-supported
+    concepts are marked as such.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references. No external Arabic text or commentary was consulted.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l8692-l8763
+  passage_sha256=520349eb7ee5377b149cf6efca306541a5eb221284614bb937df09d2aed840bf
+

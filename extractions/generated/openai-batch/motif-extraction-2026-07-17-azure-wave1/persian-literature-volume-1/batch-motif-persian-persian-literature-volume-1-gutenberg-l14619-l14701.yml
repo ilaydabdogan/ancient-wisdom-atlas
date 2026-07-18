@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l14619-l14701
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: SIKANDER / FIRDUSI'S INVOCATION / FIRDUSI'S SATIRE ON MAHMUD / THE RUBIYT
+    OF OMAR KHAYYM; lines 14619-14701
+  start: '14619'
+  end: '14701'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Edward Fitzgerald's translation of Omar Khayyam's
+    Rubaiyat. It describes the poem as independent quatrains filled with roses, nightingales,
+    wine, love, feasting, and sensual pleasure, but governed by melancholy, fear of
+    death, and Fate. Omar is presented as both mathematician and poet, skeptical toward
+    established religion, faintly mystical in longing for knowledge of the invisible,
+    and modern in a pessimism compared with nineteenth-century Europe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as The Rubaiyat of Omar Khayyam in Edward
+    Fitzgerald's translation.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Rubaiyat is described as a string of quatrains, each having independent
+    significance like an epigram.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Omar's poetic world is described with bowers full of roses and notes of the
+    nightingale.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wine, lovely women, feasting, revelry, love, and appetite are described as
+    elements in Omar's song.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The prevailing note of Omar's poetry is described as melancholy, fear of death,
+    approaching Fate, dejection, and anguish.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Omar is described as the greatest mathematician of his day, with an exact
+    and analytic mind reflected in his quatrains.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The quatrains are said to show revolt by a clear intellect against religious
+    bigotry and fanaticism.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says Omar shows traces of Mysticism, a longing for knowledge of
+    the invisible, and a foreboding that the grave is the end of life.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: At his brightest moments Omar is said to express vague pantheism, though his
+    views are obscured by skeptical despondency.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage compares intellectual Persia in the twelfth century with nineteenth-century
+    Europe in relation to religious restlessness, misgiving, and pessimism.
+  category: relationship
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Omar Khayyam
+  description: Persian poet of the Rubaiyat, described as a mathematician, analytic
+    thinker, skeptical observer of religion, and poet of melancholy and pleasure.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Edward Fitzgerald
+  description: Named as the translator whose English version made the poem available
+    to English readers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hafiz
+  description: Named as another writer with whom Omar is compared as one of the most
+    Persian of Persian writers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: established clergy
+  description: A collective religious authority described as narrow, ignorant, and
+    hypocritical in the introduction's account of Omar's intellectual revolt.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: lovely women in Omar's lyric imagery
+  description: Women whose bright eyes are described as present to Omar's mind among
+    the pleasures of his song.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: quatrain poet
+  assigned_to:
+  - fig:1
+  basis: The passage presents Omar as the authorial figure associated with the Rubaiyat
+    and its quatrains.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mathematician and analytic intellect
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Omar the greatest mathematician of his day and
+    links his analytic mind to the quatrains' finish.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: skeptical mystical seeker
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to Omar revolt against religious fanaticism, traces
+    of Mysticism, longing for the invisible, pantheism, and skeptical despondency.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: translator
+  assigned_to:
+  - fig:2
+  basis: Edward Fitzgerald is identified as translator of the version discussed.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: comparative Persian poet
+  assigned_to:
+  - fig:3
+  basis: Hafiz is named as a comparison for Omar's Persian literary character.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: criticized religious establishment
+  assigned_to:
+  - fig:4
+  basis: The clergy are described as narrow, ignorant, and hypocritical in the account
+    of Omar's revolt.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: erotic lyric presence
+  assigned_to:
+  - fig:5
+  basis: The bright eyes of lovely women are listed among the pleasures present to
+    Omar's mind.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: roses in bowers
+  literal_form: bowers full of roses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: nightingale notes
+  literal_form: notes of the nightingale trembling through the stanzas
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wine and intoxication
+  literal_form: intoxication of wine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: feast and revel
+  literal_form: feast, revel, joys of love, and satisfaction of appetite
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: approaching Fate
+  literal_form: approaching Fate and fear of death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: grave as endpoint
+  literal_form: the grave as the be-all and end-all of life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: jewel-like quatrains
+  literal_form: verses compared to gems and jacinth jewelry
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Characterization of the Rubaiyat form
+  summary: The introduction presents the Rubaiyat as a difficult-to-classify work
+    made of independent quatrains rather than a sustained elegy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sensual garden and revel imagery
+  summary: Omar's poetic world is described through roses, nightingales, wine, lovely
+    women, feasting, revelry, love, and appetite.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Pleasure shadowed by death and Fate
+  summary: The introduction says Omar's poetry is dominated by melancholy and an ever-present
+    fear of death, even during genial moments.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: scene:4
+  label: Intellect against religious certainty
+  summary: Omar is described as a clear intellect revolting against established religious
+    bigotry while still longing for invisible knowledge and lacking supernatural hope.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: East-West pessimism comparison
+  summary: The introduction compares Omar's twelfth-century Persian pessimism with
+    nineteenth-century European religious restlessness and despair.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: sensual garden shadowed by mortality
+  taxonomy_refs: []
+  basis: The passage combines roses, nightingales, wine, love, feast, and revel with
+    a prevailing fear of death and approaching Fate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a literary thematic pattern in an introduction, not a narrative
+    myth episode.
+- id: motif:2
+  label: skeptical search for invisible knowledge
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage attributes to Omar traces of Mysticism, longing for knowledge
+    of the invisible, and inability to build a hopeful supernatural theory.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage describes an intellectual and spiritual posture; it does not
+    narrate an actual quest journey.
+- id: motif:3
+  label: intellect in revolt against religious authority
+  taxonomy_refs: []
+  basis: The quatrains are described as expressing a clear intellect's revolt against
+    bigotry, fanaticism, and hypocritical clergy.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No specific mythic authority figure or doctrinal conflict is narrated.
+- id: motif:4
+  label: late-civilization pessimism and heart-sickness
+  taxonomy_refs: []
+  basis: The introduction frames Omar's pessimism as representative of intellectual
+    Persia and compares it with nineteenth-century European religious restlessness,
+    cynicism, and despair.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: This is an editorial historical-literary pattern, not a traditional myth
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly analogizes Omar's twelfth-century Persian pessimism
+    to nineteenth-century European religious restlessness and pessimism.
+  claim_level: same_function
+  target: nineteenth-century European pessimism associated with Byron, Spencer, Darwin,
+    and Schopenhauer
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is editorial and thematic; it does not establish historical
+    transmission or a shared mythic source.
+- id: claim:2
+  claim: The passage says Fitzgerald's Rubaiyat was read as if it were a modern fin
+    de siecle work of intellectual satiety, cynicism, and despair.
+  claim_level: same_function
+  target: fin de siecle literary pattern of satiety, cynicism, and despair
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns reception and mood rather than a specific narrative
+    motif.
+- id: claim:3
+  claim: The passage places Omar alongside Hafiz as especially representative of Persian
+    literary character.
+  claim_level: same_function
+  target: Hafiz and Persian lyric tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a broad literary comparison and does not specify
+    shared story patterns.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14619-14701, opening of introduction
+  quote_or_summary: The passage identifies The Rubaiyat of Omar Khayyam, notes Fitzgerald's
+    translation, and describes the work as independent quatrains rather than a sustained
+    elegy.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 14619-14701, introduction, discussion of Persian qualities
+  quote_or_summary: Omar is compared with Hafiz as one of the most Persian writers;
+    the description includes Eastern gorgeousness, bowers full of roses, and nightingale
+    notes.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 14619-14701, introduction, description of lyric pleasures
+  quote_or_summary: The introduction lists wine, bright-eyed women, the feast, revelry,
+    love, and appetite among the grosser elements of Omar's song.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:4
+  type: summary
+  locator: lines 14619-14701, introduction, discussion of melancholy and death
+  quote_or_summary: The prevailing note is said to be deep melancholy, inspired by
+    fear of death and a sense of approaching Fate, ending at times in dejection and
+    anguish.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 14619-14701, introduction, discussion of mathematics and poetic finish
+  quote_or_summary: Omar is named the greatest mathematician of his day; his exact
+    analytic mind is said to appear in the finish and jewel-like craftsmanship of
+    the quatrains.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:6
+  type: summary
+  locator: lines 14619-14701, introduction, discussion of religion and clergy
+  quote_or_summary: The quatrains are described as a revolt of clear intellect from
+    religious bigotry and fanaticism; the poet sees the clergy's narrowness but finds
+    no hopeful supernatural theory.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:7
+  type: summary
+  locator: lines 14619-14701, introduction, discussion of Mysticism and the grave
+  quote_or_summary: The passage says Omar has traces of Mysticism, longs for knowledge
+    of the invisible, and fears that the grave is the be-all and end-all of life.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:8
+  type: summary
+  locator: lines 14619-14701, introduction, discussion of pantheism and skepticism
+  quote_or_summary: At his brightest moments Omar is said to express vague pantheism,
+    but his view of the power behind life remains obscured by skeptical despondency.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:9
+  type: summary
+  locator: lines 14619-14701, introduction, modernity comparison
+  quote_or_summary: The passage compares Omar with modern scientific and literary
+    figures and says nineteenth-century Europe resembles twelfth-century intellectual
+    Persia in religious pessimism.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:10
+  type: summary
+  locator: lines 14619-14701, conclusion of introduction
+  quote_or_summary: The Rubaiyat's popularity is explained by its seeming like a fin
+    de siecle work of intellectual satiety, cynicism, and despair; the Eastern seer
+    is said to reveal Western heart-sickness.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a prose literary introduction rather than a mythic narrative.
+    Literal extraction is strong, while motif labels are thematic and should be reviewed
+    for atlas inclusion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available concrete taxonomy symbol refs were applied; roses, nightingale, wine, Fate, and grave are retained as passage-specific symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l14619-l14701
+  passage_sha256=a02c12bb70ed40aaae2a7ada29eda730875819833eb395e0446bdb4f552302ed
+

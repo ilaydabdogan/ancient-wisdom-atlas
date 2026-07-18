@@ -1,0 +1,167 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8567-l8587
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 148 / PAGE 149 / PAGE 150 / PAGE 151; lines 8567-8587
+  start: '8567'
+  end: '8587'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of translator''s notes on poem lines: a battle summons
+    involving German the green-terrible, an identification of the Torrian Sea with
+    the Mediterranean, a literal death/life contrast, and a philological note on a
+    phrase about wars as games or scanty things.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quoted translation commands all to go to a swift battle that will come from
+    German the green-terrible, with a tentative gloss involving a terrible green spear.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note identifies the Torrian Sea as the Mediterranean.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A literal translation contrasts an addressed person in death with a speaker
+    who is alive and nimble.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A philological note discusses a line rendered around wars, games, littleness
+    or scantiness, and disputes confirmation for O'Curry's rendering as sport.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: German the green-terrible
+  description: Named in the quoted line as the source from which swift battle will
+    come; the note tentatively glosses the phrase as possibly involving a terrible
+    green spear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: source of coming battle
+  assigned_to:
+  - fig:1
+  basis: The quoted line says the swift battle will come from German the green-terrible.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Torrian Sea
+  literal_form: A named sea identified by the note as the Mediterranean.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: terrible green spear
+  literal_form: 'A tentative gloss in the note: “the terrible green spear.”'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Summons to swift battle
+  summary: A translated line commands all to go to an imminent swift battle associated
+    with German the green-terrible.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: summons to imminent battle
+  taxonomy_refs: []
+  basis: The passage quotes a command for all to go to a swift battle that is to come
+    from German the green-terrible.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only a translator's note on a poem line is provided; wider narrative context
+    is absent.
+- id: motif:2
+  label: death/life opposition in speech
+  taxonomy_refs:
+  - duality
+  basis: The literal rendering opposes an addressee in death to a speaker alive and
+    nimble.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The identities of the speaker and addressee are not provided in this passage.
+- id: motif:3
+  label: war described as game or smallness
+  taxonomy_refs: []
+  basis: The note gives “Each was a game, each was little” while discussing a line
+    about wars and the debated sense of sport or scantiness.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The note is primarily philological and explicitly questions part of the
+    traditional rendering.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: PAGE 149; lines 8567-8571
+  quote_or_summary: "“Go ye all to the swift battle that shall come to you from German
+    the green-terrible” with tentative gloss “of the terrible green spear.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: PAGE 150; lines 8573-8575
+  quote_or_summary: "“The Torrian Sea is the Mediterranean.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: PAGE 151; lines 8577-8579
+  quote_or_summary: "“Thou in death, I alive and nimble.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: PAGE 151; lines 8581-8587
+  quote_or_summary: The note discusses “Wars were gay” and the phrase “Each was a
+    game, each was little,” explaining a derivation meaning scanty and questioning
+    O'Curry's rendering as sport.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized with brief phrases for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a set of translator's philological notes rather than a continuous
+    narrative, so motif identification is necessarily tentative. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or cross-tradition comparison claims are supported by the supplied passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8567-l8587
+  passage_sha256=6d559ab0dcb91f98d65e1f4051371fe663ee3d25e458a94225003968c5d692d5
+

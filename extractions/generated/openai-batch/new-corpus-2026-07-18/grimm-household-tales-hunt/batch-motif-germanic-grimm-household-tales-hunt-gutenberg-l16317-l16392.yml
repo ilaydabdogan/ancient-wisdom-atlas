@@ -1,0 +1,573 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l16317-l16392
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 16317-16392
+  start: '16317'
+  end: '16392'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: The bright sun will bring it to light
+  summary: The passage includes the end of a tale in which a tailor’s apprentice murders
+    a Jewish man, later confesses after seeing sunlight reflected from coffee, and
+    is condemned when the story spreads. It then begins “The Blue Light,” where a
+    wounded discharged soldier enters a forest, accepts lodging from a witch in exchange
+    for labor, is lowered into a dry well to recover a blue light, refuses to hand
+    it over before reaching the ground, and is abandoned in the well.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A tailor’s apprentice travels in search of work and is described as extremely
+    poor.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tailor’s apprentice attacks a Jewish man on the road, demands money, beats
+    him near death, and the man dies after saying that the bright sun will bring it
+    to light.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the killing, the tailor’s apprentice finds only eight farthings and
+    hides the body behind a clump of trees.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The tailor’s apprentice later gets work, marries his master’s daughter, and
+    has two children with her.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sunlight reflects from coffee in a saucer, gleams on the wall, and makes circles
+    above the seated tailor.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After his wife presses him, the tailor tells her about the killing and repeats
+    the dead man’s words about the bright sun.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The wife tells her great friend the story, the whole town learns it, and the
+    tailor is tried and condemned.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A wounded soldier who has served the King is discharged without further wages
+    and walks into a forest at evening.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A witch offers the soldier lodging and food on condition that he perform work
+    for her, including digging around the garden and chopping wood.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The witch sends the soldier into an old dry well behind her house to bring
+    up a blue light that burns and never goes out.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: When the soldier nears the edge of the well, the witch tries to take the blue
+    light before he is on the ground; he refuses, and she lets him down again and
+    leaves.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: tailor’s apprentice
+  description: A poor traveling worker who kills a man for supposed money, later marries,
+    confesses, is brought to trial, and is condemned.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Jewish man on the road
+  description: A man carrying only eight farthings who is beaten and killed by the
+    tailor’s apprentice and whose last words say the bright sun will bring the deed
+    to light.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: bright sun / reflected sunlight
+  description: A light associated with the dying man’s words and later with a reflection
+    that prompts the tailor’s confession and the exposure of the crime.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: tailor’s wife
+  description: The tailor’s wife asks about his remark, receives his confession, promises
+    secrecy, and then tells her great friend.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: wife’s great friend
+  description: The person to whom the wife confides the story before it becomes known
+    to the town.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: wounded soldier
+  description: A discharged soldier who seeks food and lodging, works for the witch,
+    descends into the dry well, finds the blue light, and refuses to hand it over
+    too soon.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: King
+  description: The ruler who dismisses the wounded soldier after the war and refuses
+    him further wages.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: witch / old woman
+  description: A forest-dwelling witch who gives the soldier tasks, lowers him into
+    the well for the blue light, attempts to take it, and abandons him below.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: perpetrator of concealed killing
+  assigned_to:
+  - fig:1
+  basis: The tailor’s apprentice kills the man, finds only eight farthings, hides
+    the body, and is later condemned.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: dying accuser or prophetic speaker
+  assigned_to:
+  - fig:2
+  basis: The dying man’s last words state that the bright sun will bring the deed
+    to light.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: revealing light or celestial witness
+  assigned_to:
+  - fig:3
+  basis: The sun is named in the dying words and later sunlight reflection leads to
+    confession and exposure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: confessor under domestic questioning
+  assigned_to:
+  - fig:1
+  basis: The tailor says he must not tell, but after his wife insists he tells her
+    about the killing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: secret-bearer who discloses the confession
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The wife receives the confession, tells her great friend, and the story becomes
+    known in the town.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: dismissed wounded servant
+  assigned_to:
+  - fig:6
+  basis: The soldier has served for years, is wounded, and is discharged by the King
+    without further pay.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: dismissive ruler
+  assigned_to:
+  - fig:7
+  basis: The King tells the soldier to return home and refuses further wages because
+    he can no longer serve.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: supernatural task-giver and deceiver
+  assigned_to:
+  - fig:8
+  basis: The witch takes the soldier in only if he performs tasks, then tries to take
+    the blue light before he reaches safety and abandons him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:9
+  label: task-performing descender
+  assigned_to:
+  - fig:6
+  basis: The soldier performs the witch’s labors and is lowered into the old dry well
+    to retrieve the blue light.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: bright sun as revealer
+  literal_form: the bright sun named in the victim’s last words and later reflected
+    from coffee onto a wall
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: eight farthings
+  literal_form: the only money found in the dead man’s pockets
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: clump of trees
+  literal_form: a clump of trees behind which the body is hidden
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: coffee saucer reflection
+  literal_form: coffee poured into a saucer reflecting sunlight that gleams and makes
+    circles on the wall
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: forest house
+  literal_form: a house in the forest where the witch lives and where the soldier
+    seeks lodging
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: old dry well
+  literal_form: an old dry well behind the witch’s house into which the soldier is
+    lowered
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: blue light
+  literal_form: a blue light that burns and never goes out
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: basket descent
+  literal_form: the basket used to lower the soldier into the well and draw him up
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: roadside killing and concealment
+  summary: The poor tailor’s apprentice attacks a Jewish man for supposed money, kills
+    him, hears the dying words about the sun, finds only eight farthings, and hides
+    the body behind trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: sunlit reflection and confession
+  summary: Years later, reflected sunlight from coffee makes circles on the wall;
+    the tailor comments on it, and after his wife presses him he confesses the killing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: failed secrecy and condemnation
+  summary: The wife tells her friend despite the promise of secrecy; the town learns
+    the story, and the tailor is tried and condemned.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: discharged soldier enters the forest
+  summary: A wounded soldier is dismissed by the King without further wages, walks
+    away troubled, and reaches a witch’s house in the forest at night.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: witch’s labor conditions
+  summary: The witch gives the soldier food and lodging in return for work, first
+    digging around the garden and then chopping wood.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: descent for the blue light
+  summary: The witch lowers the soldier in a basket into a dry well to recover a never-extinguishing
+    blue light; she tries to take it before he reaches the ground, but he refuses,
+    and she abandons him below.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hidden murder revealed by sun or light
+  taxonomy_refs:
+  - divine_judgment
+  basis: The dying victim says the bright sun will reveal the killing; later reflected
+    sunlight prompts the confession, and the tale states that the sun did bring it
+    to light after trial and condemnation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage personifies the sun as a revealer, but it does not explicitly
+    identify the sun as a deity or formal divine judge.
+- id: motif:2
+  label: dangerous secret told in confidence becomes public
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The tailor warns his wife never to tell his confession or he will lose his
+    life; she tells a friend, the town learns it, and he is condemned.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The secret is forbidden by the murderer’s warning rather than by a divine
+    or ritual prohibition.
+- id: motif:3
+  label: dismissed wounded servant begins a forest encounter
+  taxonomy_refs:
+  - departure
+  basis: The wounded soldier is dismissed without pay, leaves troubled, walks all
+    day, and enters a forest where he finds the witch’s house.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only the beginning of the soldier’s tale is present in this passage.
+- id: motif:4
+  label: three-stage service to a witch before a deeper task
+  taxonomy_refs:
+  - initiation
+  basis: 'The soldier remains with the witch through successive tasks: digging the
+    garden, chopping wood, and descending into the well for the light.'
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage gives a task sequence, but the broader initiatory outcome
+    lies beyond the excerpt.
+- id: motif:5
+  label: descent into a well to retrieve a magical light
+  taxonomy_refs:
+  - hero_descent
+  - mystical_quest
+  basis: The soldier is lowered into an old dry well in a basket, finds the blue light
+    that burns and never goes out, and signals to be drawn up.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The magical function of the blue light is not yet revealed within the
+    supplied excerpt.
+- id: motif:6
+  label: deceptive supernatural task-giver traps the seeker at a threshold
+  taxonomy_refs:
+  - trickster_boundary
+  basis: At the edge of the well, the witch tries to take the blue light before the
+    soldier has both feet on the ground; when he refuses, she lowers him again and
+    leaves.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The assigned taxonomy is cautious because the passage shows deception
+    at a boundary but not a fully developed trickster episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16317-16329
+  quote_or_summary: A poor tailor’s apprentice attacks a Jewish man for money; the
+    dying man says, “The bright sun will bring it to light,” and the tailor finds
+    only eight farthings before hiding the body behind trees.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 16329-16336
+  quote_or_summary: The tailor later finds work, marries his master’s daughter, lives
+    happily, and has two children.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: lines 16337-16348
+  quote_or_summary: Sunlight reflects from coffee in a saucer, gleams on the wall,
+    makes circles, and the tailor says it would like to bring it to light but cannot;
+    his wife asks what he means.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: lines 16349-16359
+  quote_or_summary: The tailor tells his wife that years earlier he killed the man
+    and heard the words about the bright sun; he charges her never to repeat it, and
+    she promises.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: summary
+  locator: lines 16360-16365
+  quote_or_summary: The wife tells her great friend, the whole town soon knows, the
+    tailor is brought to trial and condemned, and the tale concludes that the bright
+    sun did bring it to light.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: summary
+  locator: lines 16368-16377
+  quote_or_summary: A wounded soldier who had served the King is discharged without
+    further wages, leaves troubled, walks all day, enters a forest at evening, and
+    comes to a witch’s house.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: summary
+  locator: lines 16378-16386
+  quote_or_summary: The witch offers lodging and food if the soldier does what she
+    wishes; he digs around her garden and then chops wood for another night’s stay.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:8
+  type: summary
+  locator: lines 16387-16392
+  quote_or_summary: The witch says her blue light, which burns and never goes out,
+    has fallen into an old dry well; she lowers the soldier in a basket, he finds
+    it, refuses to hand it over before standing on the ground, and she lowers him
+    again and leaves.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    cautious because the excerpt combines the ending of one tale and the beginning
+    of another, and the larger function of the blue light lies outside the provided
+    range. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage contains anti-Jewish terminology and violence as part of the historical source text; figure labels and summaries use neutral descriptive wording while retaining necessary source identification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l16317-l16392
+  passage_sha256=9ede0797c6a11c7aa2f229c8083a0f794644a69237f8e6f590e2fe12197e1723
+

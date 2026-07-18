@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l2595-l2689
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 2595-2689
+  start: '2595'
+  end: '2689'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The old woman is revealed as a cannibal witch who lures children with a
+    bread house. She imprisons Hansel to fatten him and forces Grethel to serve. Hansel
+    deceives her by offering a bone instead of his finger. Grethel later tricks the
+    witch into entering the oven and burns her, frees Hansel, and the siblings take
+    jewels from the witch's house. A white duck carries them across a great water,
+    and they return to their father's house, where the household's anxiety ends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old woman is described as a wicked witch who built a little house of bread
+    to entice children, then killed, cooked, and ate captured children.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Witches are described as having red eyes, poor distance vision, and a keen
+    scent like beasts.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The witch notices Hansel and Grethel nearby, says they will not escape, and
+    regards the sleeping children as a dainty mouthful.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The witch seizes Hansel, carries him to a little stable, and shuts him behind
+    a grated door.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The witch wakes Grethel and orders her to fetch water and cook food for Hansel
+    so that he may be fattened and eaten.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hansel receives the best food while Grethel receives only crab-shells.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Each morning the witch asks Hansel to stretch out his finger; Hansel stretches
+    out a little bone, which the dim-eyed witch mistakes for his finger.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After four weeks, the witch decides to kill and cook Hansel whether he is
+    fat or lean; Grethel laments and prays for help.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Grethel is made to hang up a cauldron with water, light the fire, and go toward
+    the heated oven, where the witch intends to bake and eat her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Grethel asks the witch to show how to enter the oven, then pushes the witch
+    inside, shuts the iron door, bolts it, and the witch burns to death.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Grethel opens Hansel's stable and announces that they are saved because the
+    witch is dead; the siblings rejoice, embrace, dance, and kiss.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The children find chests full of pearls and jewels in the witch's house and
+    fill Hansel's pockets and Grethel's pinafore.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: After walking away, the children reach a great piece of water with no plank,
+    bridge, or boat visible.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: Grethel calls to a white duck, and the duck carries Hansel and Grethel across
+    the water one after the other.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The children recognize the forest, run to their father's house, and throw
+    themselves into his arms.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:16
+  text: The father has been unhappy since leaving the children in the forest; the
+    woman is dead; the children pour out pearls and precious stones, and the family
+    lives in happiness.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hansel
+  description: A child and Grethel's brother; he is imprisoned and fattened by the
+    witch, deceives her with a little bone, is freed by Grethel, gathers jewels, crosses
+    the water, and returns home.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Grethel
+  description: A child and Hansel's sister; she is forced to serve the witch, tricks
+    the witch into entering the oven, frees Hansel, asks the duck for help, gathers
+    jewels, and returns home.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: the old woman / wicked witch
+  description: A witch who pretends kindness, lures children with a bread house, eats
+    captured children, imprisons Hansel, plans to cook both children, and is burned
+    in her own oven.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: white duck
+  description: A duck swimming at the great piece of water; after Grethel calls to
+    it, it carries the children across one after another.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: the father / the man
+  description: The children's father, who receives them when they return and is said
+    to have had no happy hour since leaving them in the forest.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hansel and Grethel are presented as brother and sister who remain linked
+    through imprisonment, rescue, crossing, and homecoming.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: captive fattened child
+  assigned_to:
+  - fig:1
+  basis: Hansel is locked in a little stable and fed so that the witch may later eat
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: forced servant and rescuer
+  assigned_to:
+  - fig:2
+  basis: Grethel is compelled to fetch water and prepare food, then later kills the
+    witch and opens Hansel's stable.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: child deceiver of captor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hansel deceives the witch with a bone in place of his finger, and Grethel
+    deceives the witch into demonstrating entry into the oven.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: cannibal captor witch
+  assigned_to:
+  - fig:3
+  basis: The witch lures children, eats them, imprisons Hansel to fatten him, and
+    attempts to bake Grethel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: animal helper
+  assigned_to:
+  - fig:4
+  basis: The white duck responds to Grethel's call and carries both children across
+    the water.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: return-home parent
+  assigned_to:
+  - fig:5
+  basis: The father is at the house to which the children return and receives them
+    in his arms.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bread house as lure
+  literal_form: little house of bread
+  associated_figures:
+  - fig:3
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: oven and fire
+  literal_form: heated oven with flames of fire and an iron door
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bone substituted for finger
+  literal_form: little bone stretched out in place of Hansel's finger
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: witch-house treasure
+  literal_form: chests full of pearls and jewels; pearls and precious stones carried
+    home
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: water barrier
+  literal_form: great piece of water with no plank, bridge, or boat
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: white duck crossing helper
+  literal_form: white duck carrying the children across on its back
+  associated_figures:
+  - fig:4
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: grated stable prison
+  literal_form: little stable with a grated door
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Witch revealed and Hansel imprisoned
+  summary: The old woman is identified as a cannibal witch; she seizes Hansel, locks
+    him in a little stable, and forces Grethel to cook for him so he can be fattened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fattening test and bone deception
+  summary: Hansel is fed good food while Grethel is given crab-shells; each morning
+    the witch feels what she thinks is Hansel's finger, but he offers a little bone
+    instead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Oven reversal
+  summary: The witch prepares to bake Grethel, but Grethel asks the witch to demonstrate
+    entering the oven and then shuts and bolts the oven door, burning the witch.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rescue and treasure from the witch's house
+  summary: Grethel frees Hansel, the siblings celebrate, enter the witch's house,
+    and gather pearls and jewels before leaving the witch's forest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Water crossing and return home
+  summary: The children reach a water barrier, call a white duck to carry them across,
+    recognize the forest, return to their father's house, and bring out the jewels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Child-enticing cannibal witch
+  taxonomy_refs: []
+  basis: The witch builds a bread house to lure children and is said to kill, cook,
+    and eat those who fall into her power.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The supplied taxonomy list has no exact cannibal-witch or edible-house
+    motif family; no taxonomy ref assigned.
+- id: motif:2
+  label: Imperiled sibling pair escapes together
+  taxonomy_refs:
+  - sibling_pair
+  basis: Hansel and Grethel are brother and sister; one is imprisoned, the other frees
+    him, and they cross the water and return home together.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is an episode within a larger tale; this extraction covers
+    only the escape and return portion.
+- id: motif:3
+  label: Captive children deceive dangerous captor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hansel uses a bone to fool the witch's touch-test, and Grethel tricks the
+    witch into putting herself into the oven.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy ref is broad; the passage supports deception and role reversal
+    but does not name a trickster figure.
+- id: motif:4
+  label: Intended victim turns fiery death onto aggressor
+  taxonomy_refs: []
+  basis: The witch intends to bake Grethel in the oven, but Grethel pushes the witch
+    into it and burns her to death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No exact oven-reversal motif family is present in the supplied taxonomy
+    list.
+- id: motif:5
+  label: Animal-assisted crossing during return
+  taxonomy_refs:
+  - return
+  basis: After leaving the witch's forest, the children cannot cross a great water
+    until a white duck carries them over; after crossing they soon recognize the way
+    home.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The duck is literal in the passage; no further symbolic or supernatural
+    interpretation is required by the text.
+- id: motif:6
+  label: Return home with treasure and restored household happiness
+  taxonomy_refs:
+  - return
+  basis: The children take pearls and jewels from the witch's house, return to their
+    father's home, pour out the treasure, and the household's anxiety ends.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage states the happy restoration but does not elaborate its social
+    or legal consequences.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2595-2606
+  quote_or_summary: The old woman is revealed as a wicked witch who built a bread
+    house to entice children; she kills, cooks, and eats captured children; witches
+    are described as red-eyed, poor-sighted, and keen-scented; she notices Hansel
+    and Grethel and says they will not escape.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2606-2613
+  quote_or_summary: The witch seizes Hansel with her shriveled hand, locks him in
+    a little stable with a grated door, wakes Grethel, and orders her to fetch water
+    and cook for Hansel so he can be fattened and eaten.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2615-2630
+  quote_or_summary: Hansel receives good food while Grethel gets crab-shells; each
+    morning the witch asks to feel Hansel's finger, but Hansel offers a little bone,
+    which she mistakes for his finger; after four weeks she resolves to kill and cook
+    him the next day, while Grethel laments and prays.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2632-2646
+  quote_or_summary: Grethel is ordered to prepare the cauldron, water, fire, and oven;
+    the witch intends to bake and eat her, but Grethel asks how to enter the oven,
+    the witch demonstrates, and Grethel pushes her in, bolts the iron door, and the
+    witch burns to death.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2648-2658
+  quote_or_summary: Grethel frees Hansel from the little stable and says the witch
+    is dead; the children rejoice, enter the witch's house, find chests full of pearls
+    and jewels, fill Hansel's pockets and Grethel's pinafore, and decide to leave
+    the witch's forest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2660-2675
+  quote_or_summary: The children reach a great piece of water with no plank, bridge,
+    or boat; Grethel calls to a white duck, which carries Hansel and Grethel across
+    one after the other.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2675-2685
+  quote_or_summary: After the crossing, the forest becomes familiar and the children
+    see their father's house; they run into his arms, learn that he has been unhappy
+    and the woman is dead, pour out pearls and precious stones, and live in happiness.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the literal extraction and several motif candidates.
+    Taxonomy mapping is partly broad because the supplied list lacks exact refs for
+    the cannibal witch, edible house, oven reversal, and animal helper. No external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The final tale-coda and following title were not treated as motifs in this extraction.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l2595-l2689
+  passage_sha256=68fe21344714d932aace49a6dc8109f0b379bfed684f7f8e91c81b3e1f395afa
+

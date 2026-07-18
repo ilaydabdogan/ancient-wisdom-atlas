@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l15648-l15718
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: SIGRDRIFUMOL / THE BALLAD OF THE VICTORY-BRINGER / INTRODUCTORY NOTE / NOTES;
+    lines 15648-15718
+  start: '15648'
+  end: '15718'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on Sigrdrifumol discuss lost and interpolated stanzas,
+    Brynhild and Sigurth's dialogue, a possible oath-bound exchange preserved in Volsungasaga
+    paraphrase, a list of counsels attributed to Brynhild, several kennings or difficult
+    phrases, and manuscript transmission issues.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that stanzas 20-21 are all that remains of a dialogue between
+    Brynhild and Sigurth from an older poem.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes state that lost intervening stanzas evidently had Brynhild warn
+    Sigurth of perils that would follow if he swore loyalty to her.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The manuscript is said not to indicate the speaker of a stanza, while the
+    Volsungasaga names Sigurth before stanza 21.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'A possible original conclusion is paraphrased in the Volsungasaga: Sigurth
+    praises Brynhild''s wisdom, swears that he will have her, she says she would rather
+    have him than any man, and they bind the matter between them with oaths.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The numbered counsels beginning with stanza 22 are described as closely resembling
+    Loddfafnismol and as being attributed here to Brynhild, though the note calls
+    an original connection with Brynhild improbable.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The phrase 'Wolf of his word' is glossed as an oath-destroyer or oath-breaker.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: One obscure passage is summarized as advising that excessive silence may be
+    taken for cowardice, and that a false taunter should not be argued with but killed
+    the next morning as proof that he lied.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The phrase 'Silver of kinship' is explained as apparently meaning the marriage-price
+    for which a bride was bought.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The notes state that part of Regius is lost and that later paper manuscripts
+    supply the rest of stanza 29 and stanzas 30-37, with Volsungasaga paraphrases
+    of these added stanzas.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A stanza is explained as meaning that it is better to go to battle than remain
+    at home and be burned to death.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The phrase 'Race of wolves' is glossed as the family of a slain foe.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The notes propose that some lines may have come from the old Sigurth-Brynhild
+    poem and may have belonged to a warning preceding Brynhild's speech in stanza
+    20.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Brynhild
+  description: Participant in the dialogue with Sigurth; described in the notes as
+    warning Sigurth, being praised for wisdom, accepting him over all men, and being
+    the attributed speaker of the counsels.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:10
+- id: fig:2
+  name_or_label: Sigurth
+  description: Participant in the dialogue with Brynhild; named by the Volsungasaga
+    before stanza 21 and paraphrased as swearing that he will have Brynhild.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: false taunter
+  description: Generic person in the editor's paraphrase who falsely taunts someone
+    because of silence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wise counselor
+  assigned_to:
+  - fig:1
+  basis: Sigurth is paraphrased as calling Brynhild unsurpassed in wisdom, and the
+    numbered counsels are attributed to her in this section.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: oath-making suitor
+  assigned_to:
+  - fig:2
+  basis: The Volsungasaga paraphrase has Sigurth swear that he shall have Brynhild
+    for his own.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: oath-bound beloved chooser
+  assigned_to:
+  - fig:1
+  basis: The paraphrase has Brynhild answer that she would rather have Sigurth than
+    any man, followed by mutual oaths.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: false accuser or taunter
+  assigned_to:
+  - fig:3
+  basis: The interpolated passage is summarized as involving someone who falsely taunts
+    another because of silence.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: oath-bound promise
+  literal_form: Swearing loyalty and binding a choice between Brynhild and Sigurth
+    with oaths.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wolf of his word
+  literal_form: A kenning glossed as an oath-destroyer or oath-breaker.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: silver of kinship
+  literal_form: A difficult phrase glossed as the marriage-price for which a bride
+    was bought.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: fire of house-burning
+  literal_form: Being burned to death at home; the note mentions the burning of a
+    house as an example of such a death.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: tree as warrior kenning
+  literal_form: The note glosses 'Tree, etc.' as meaning warrior.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: race of wolves
+  literal_form: A phrase glossed as the family of a slain foe.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Warning and oath-bound choice
+  summary: The notes reconstruct a lost dialogue in which Brynhild warns Sigurth about
+    perils if he swears loyalty to her; a Volsungasaga paraphrase then has Sigurth
+    and Brynhild choose each other and bind the choice with oaths.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: scene:2
+  label: Counsels and glossed admonitions
+  summary: The notes describe a list of numbered counsels attributed to Brynhild,
+    including glosses about oath-breaking, silence under taunts, bride-price, battle
+    versus house-burning, and the family of a slain foe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: scene:3
+  label: Manuscript loss and later preservation
+  summary: The notes describe lost leaves of Regius, additions from later paper manuscripts,
+    Volsungasaga paraphrases, and uncertainty about whether some concluding material
+    once existed in verse or prose note form.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: oath-bound union after warning
+  taxonomy_refs:
+  - covenant
+  basis: The passage describes Brynhild warning Sigurth about perils if he swears
+    loyalty and a Volsungasaga paraphrase in which Sigurth and Brynhild bind their
+    mutual choice with oaths.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+  confidence: medium
+  cautions: The oath exchange is given through editorial reconstruction and Volsungasaga
+    paraphrase, not as surviving continuous verse in this passage.
+- id: motif:2
+  label: wise woman as giver of counsels
+  taxonomy_refs:
+  - wisdom
+  basis: Brynhild is praised as wiser than others in a paraphrase, and the numbered
+    counsels are attributed to her in this section.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The note explicitly says that an original connection between this counsel
+    section and Brynhild is more than improbable.
+- id: motif:3
+  label: oath-breaking named through animal metaphor
+  taxonomy_refs:
+  - covenant
+  basis: The passage glosses 'Wolf of his word' as an oath-destroyer or oath-breaker.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a brief lexical gloss rather than a developed narrative episode.
+- id: motif:4
+  label: violent answer to false taunting
+  taxonomy_refs: []
+  basis: The note summarizes an interpolated obscure passage as counseling that a
+    person falsely taunted because of silence should kill the taunter the next morning
+    rather than argue.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The editor calls the lines chaotic, obscure, and clearly an interpolation.
+- id: motif:5
+  label: warrior preference for battle over house-burning
+  taxonomy_refs: []
+  basis: The passage explains a stanza as meaning that it is better to go forth to
+    battle than stay at home and be burned to death.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The note frames this as a social or heroic value and gives a saga example;
+    it is not developed as a mythic episode here.
+comparison_claims:
+- id: claim:1
+  claim: The numbered counsels in this Sigrdrifumol section are said to closely resemble
+    Loddfafnismol in Hovamol 111-138.
+  claim_level: same_function
+  target: Loddfafnismol / Hovamol 111-138
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states resemblance but does not provide the parallel text
+    itself; it also questions whether the section originally belonged to Brynhild.
+- id: claim:2
+  claim: The passage supports a textual-comparative link between the Sigrdrifumol
+    material and Volsungasaga paraphrases of the Sigurth-Brynhild oath and advice
+    sequence.
+  claim_level: linguistic_similarity
+  target: Volsungasaga paraphrases
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited relationship is based on editorial notes about paraphrase
+    and manuscript transmission, not on side-by-side quoted passages here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15648-15654
+  quote_or_summary: Stanzas 20-21 are described as the surviving part of a Brynhild-Sigurth
+    dialogue; lost stanzas evidently warned Sigurth of perils if he swore loyalty
+    to Brynhild; the manuscript lacks speaker indication, while Volsungasaga names
+    Sigurth before stanza 21.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 15655-15662
+  quote_or_summary: 'The note says a possible original conclusion is paraphrased in
+    Volsungasaga: Sigurth says no one wiser than Brynhild can be found, swears to
+    have her, Brynhild chooses him over all men, and they bind this between them with
+    oaths.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15663-15666
+  quote_or_summary: The list of numbered counsels beginning with stanza 22 is said
+    to closely resemble Loddfafnismol in Hovamol 111-138 and is here attributed to
+    Brynhild, though the note considers an original connection with Brynhild improbable.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: '15668'
+  quote_or_summary: '"Wolf of his word: oath-destroyer, oath-breaker."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 15670-15675
+  quote_or_summary: An obscure interpolated passage is summarized as warning that
+    prolonged silence may be viewed as cowardice; if someone falsely taunts because
+    of that silence, one should not argue but kill him the next morning as proof that
+    he lied.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 15679-15680
+  quote_or_summary: The phrase 'Silver of kinship' is said to be doubtful but apparently
+    to mean the marriage-price for which a bride was bought.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 15682-15689
+  quote_or_summary: The note says part of Regius is lost after the thirty-second leaf;
+    the rest of stanza 29 and stanzas 30-37 are supplied from later paper manuscripts,
+    and Volsungasaga paraphrases these added stanzas.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 15693-15696
+  quote_or_summary: A stanza is explained as meaning that it is better to go forth
+    to battle than to remain at home and be burned to death; the note adds that many
+    Norse warriors died in house-burnings and cites Njalssaga as a famous example.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 15700-15701
+  quote_or_summary: The phrase 'Race of wolves' is glossed as the family of a slain
+    foe.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: 15705-15718
+  quote_or_summary: The notes suggest some lines may come from the old Sigurth-Brynhild
+    poem and may have belonged to a warning before Brynhild's speech in stanza 20;
+    they discuss Volsungasaga placement and the possibility that concluding stanzas
+    existed in verse or as a prose note.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial and often reconstructive; literal extraction is
+    clear, but motifs involving the underlying poem are limited by lost leaves, interpolations,
+    and paraphrase noted in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used; extraction is limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l15648-l15718
+  passage_sha256=88cc679ca9901ca74f77c89f964d3a6089ecb860691e946e2417c79bd475eb59
+

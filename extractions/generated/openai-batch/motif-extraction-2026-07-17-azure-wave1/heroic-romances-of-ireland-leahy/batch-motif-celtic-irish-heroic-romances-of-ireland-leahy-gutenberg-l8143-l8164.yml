@@ -1,0 +1,162 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8143-l8164
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 95 / PAGE 97 / PAGE 98 / PAGE 103; lines 8143-8164
+  start: '8143'
+  end: '8164'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: I am Deirdre without joy, / it is for me the end of my life;
+  summary: The passage gives editorial notes about manuscript witnesses for stanzas
+    in the Glenn Masain version and inserts a literal translation of stanza 22, in
+    which Deirdre says she is without joy, that her life is ending, and that remaining
+    behind them is worst and leaves no long life for herself.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage directs readers to Whitley Stokes in Irische Texte for literal
+    translations of poems in the Glenn Masain version.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that stanzas 13 to 16 are not in manuscript LVI but are
+    in the manuscript called II by Stokes.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that stanza 22 is from O'Flanagan's manuscript and was
+    not translated by Stokes.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the inserted literal translation, the speaker identifies herself as Deirdre
+    and says she is without joy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Deirdre says that it is the end of her life.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Deirdre says that remaining behind them is the worst thing and that long life
+    is not for herself.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Deirdre
+  description: The first-person speaker of the inserted literal translation; she describes
+    herself as without joy and nearing the end of her life.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first-person speaker
+  assigned_to:
+  - fig:1
+  basis: The stanza begins with the speaker saying, "I am Deirdre without joy."
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: one remaining behind
+  assigned_to:
+  - fig:1
+  basis: Deirdre says that remaining behind them is the worst thing.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Deirdre's inserted lament
+  summary: In the literal translation of stanza 22, Deirdre speaks in the first person,
+    states that she is without joy, says that her life is ending, and says that remaining
+    behind them is the worst thing.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lament of one left behind
+  taxonomy_refs: []
+  basis: Deirdre says she is without joy and that remaining behind them is the worst
+    thing.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not identify who "them" are within this excerpt.
+- id: motif:2
+  label: anticipated death after separation
+  taxonomy_refs: []
+  basis: Deirdre says that it is the end of her life and that long life is not for
+    herself after remaining behind them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not specify whether the stated end of life is literal,
+    immediate, or part of a broader narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8143-8145
+  quote_or_summary: The passage refers readers to Whitley Stokes in Irische Texte
+    for literal translations of poems in the Glenn Masain version.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; supplied passage permits full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 8147-8154
+  quote_or_summary: Stanzas 13 to 16 are absent from manuscript LVI but present in
+    the manuscript Stokes calls II, which is also the version used by O'Flanagan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; supplied passage permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 8156-8159
+  quote_or_summary: Stanza 22 is from O'Flanagan's manuscript; it was not translated
+    by Stokes, and the editor inserts a literal translation.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; supplied passage permits full-text use.
+- id: ev:4
+  type: quote
+  locator: lines 8161-8164
+  quote_or_summary: '"I am Deirdre without joy, / it is for me the end of my life;
+    / since to remain behind them is the worst thing, / not long life to myself."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; supplied passage permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly editorial commentary, with motif-relevant material
+    limited to the short inserted stanza. No comparison claims are made because the
+    passage does not itself support a mythological or motif-family comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Motif extraction is limited to the supplied passage. Available taxonomy references were not assigned because no provided motif family or symbol was directly supported by this excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8143-l8164
+  passage_sha256=fedf8f615380e588037606f9370589ed63fdbe261f26fce662371a652ace7cf3
+

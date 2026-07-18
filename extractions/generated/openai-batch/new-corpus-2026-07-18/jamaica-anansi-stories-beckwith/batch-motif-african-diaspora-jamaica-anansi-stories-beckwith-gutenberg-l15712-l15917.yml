@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l15712-l15917
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: SUPPLEMENTARY NOTES. / INDEX TO INFORMANTS. / NOTES / BOYS     GIRLS; lines
+    15712-15917
+  start: '15712'
+  end: '15917'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A supplementary notes passage listing comparative references for riddles,
+    mainly British, Irish, Canadian, Porto Rican, Catalan, Welsh-Gypsy, and New-Mexican
+    Spanish parallels. Several quoted riddle variants describe hidden objects such
+    as a well, frying pan, holly tree or parrot, cloud, egg, letter forms, and paradoxical
+    things involving God, kings, Adam, the dead, and the living.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as numbered supplementary notes that cite parallel
+    riddle collections and variants using repeated comparative markers such as “Cf.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: obs:2
+  text: One riddle group compares round, deep, or bowl-like objects with answers including
+    a well and a frying pan.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A quoted green-object riddle says that a king and queen could not read it,
+    so a wise man from the east was consulted; the answer given there is holly tree,
+    while a Lancashire variant gives parrot.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Lincolnshire riddle describes something sitting over the kitchen door and
+    gives the answer as a cloud.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A quoted riddle depicts an enclosed object with marble walls white as milk,
+    a silk-soft lining, a crystal-clear fountain, and a golden apple; thieves break
+    into the doorless stronghold and steal the gold.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some cited riddles are based on letter, number, or shape transformations,
+    including geometric descriptions and removing head or tail from a word or number.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Several variants frame paradoxes involving what God never sees, what kings
+    or rulers seldom see, and what ordinary people see daily.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Other cited variants involve Adam’s age, something the dead can eat that kills
+    the living, and something that a man gave to God.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note states that numbers enclosed within parentheses belong to the last
+    group and are not strictly Jamaica folk riddles.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: king and queen
+  description: Royal figures in the green-object riddle who cannot read the riddle
+    object.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: wise man from the east
+  description: A wise man summoned in the green-object riddle who identifies the object
+    as horned but not a beast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: thieves
+  description: Intruders in the egg riddle who break into the doorless stronghold
+    and steal the gold.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: God, king, and everyday observers
+  description: Figures named in comparative riddles about what God never sees, what
+    a king seldom sees, and what people see daily.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Adam
+  description: A primordial human figure used as a chronological reference in an English
+    riddle variant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: dead person and living person
+  description: Contrasted figures in a Porto Rican riddle asking what the dead eat
+    that would cause the living to die.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: unable royal readers
+  assigned_to:
+  - fig:1
+  basis: The riddle says the king could not read it and neither could the queen.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: riddle interpreter
+  assigned_to:
+  - fig:2
+  basis: The wise man is sent for and provides an identifying statement about the
+    green object.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: enclosure-breakers and gold-takers
+  assigned_to:
+  - fig:3
+  basis: The riddle says thieves break into the stronghold and steal the gold.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: figures in perception paradox
+  assigned_to:
+  - fig:4
+  basis: The cited riddles contrast what God, the king, and ordinary people see or
+    do not see.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: primordial chronological reference
+  assigned_to:
+  - fig:5
+  basis: Adam is used to date the age of the riddled thing in the quoted English variant.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: contrasted eaters
+  assigned_to:
+  - fig:6
+  basis: The Porto Rican riddle contrasts what a dead person eats with what would
+    kill a living person.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: well and clear fountain
+  literal_form: A well in one riddle answer and a crystal-clear fountain inside the
+    enclosed object of another riddle.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: green horned object
+  literal_form: A thing clothed in green that has horns but is not a beast; the cited
+    answer is holly tree, with parrot as a variant answer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cloud over kitchen door
+  literal_form: A cloud described in the riddle as sitting over the kitchen door.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: doorless stronghold with gold
+  literal_form: An enclosed stronghold with no doors, containing a golden apple or
+    gold that thieves steal.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: milk-white enclosure
+  literal_form: Marble walls described as white as milk in the egg riddle image.
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: letter and shape transformation
+  literal_form: Crosses, circles, semicircles, a perpendicular, a triangle, and word
+    or number parts used in riddle transformations.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Comparative riddle-note listing
+  summary: The notes cite multiple collections and traditions as parallels for the
+    riddles under discussion.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: scene:2
+  label: Royal failure and wise interpretation
+  summary: A green, horned but non-animal object cannot be read by king or queen;
+    a wise man from the east explains its nature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The enclosed treasure and theft image
+  summary: A riddle describes a sealed, milk-white, silk-lined enclosure with clear
+    liquid and gold inside; thieves break in and steal the gold.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Perception and theological paradox riddles
+  summary: Comparative riddles ask what God never sees, what kings seldom see, what
+    people see daily, and related paradoxes involving God and human action.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Chronology, death, and transformation riddles
+  summary: Other notes cite riddles involving Adam as chronological marker, dead and
+    living eaters, and verbal or geometric transformations.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Riddle wisdom and interpretation by a wise figure
+  taxonomy_refs:
+  - wisdom
+  basis: The green-object riddle stages failed interpretation by royal figures and
+    successful interpretation by a wise man from the east.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a comparative riddle note, not a narrative myth; the wisdom
+    motif is limited to riddle-solving structure.
+- id: motif:2
+  label: Enclosed treasure breached by thieves
+  taxonomy_refs: []
+  basis: The egg riddle imagines a closed stronghold with no doors, containing a golden
+    interior that thieves steal.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives this as a riddle image; no sacred status or mythic theft
+    is stated.
+- id: motif:3
+  label: Divine and royal perception paradox
+  taxonomy_refs:
+  - wisdom
+  basis: Several cited riddle variants turn on paradoxical comparisons between what
+    God, kings, and ordinary people do or do not see.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The evidence supports a riddle pattern rather than a developed mythological
+    episode.
+- id: motif:4
+  label: Life-death contrast through fatal food
+  taxonomy_refs: []
+  basis: A Porto Rican cited riddle asks what the dead eat that would cause the living
+    to die if they ate it.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: Only the riddle question is present; the answer and narrative context
+    are not provided in this passage.
+- id: motif:5
+  label: Word and shape transformation puzzle
+  taxonomy_refs:
+  - wisdom
+  basis: The notes cite riddles based on geometric assembly and removing the head
+    or tail of a word or number to form another answer.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a formal puzzle pattern, not necessarily a mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents the riddles as comparable to variants in
+    British, Irish, Canadian, Porto Rican, Catalan, Welsh-Gypsy, and New-Mexican Spanish
+    collections.
+  claim_level: same_motif
+  target: Cross-regional riddle variants cited in the supplementary notes
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage consists mostly of bibliographic comparison notes; the
+    underlying Jamaica riddle texts are not fully reproduced in this line range.
+- id: claim:2
+  claim: The green-object riddle is presented with English and Lancashire parallels,
+    with answers varying between holly tree and parrot.
+  claim_level: same_motif
+  target: Highty/tighty green-object riddle variants in Halliwell and Lancashire Notes
+    and Queries
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The variants share wording elements, but the cited answers differ.
+- id: claim:3
+  claim: The egg-as-enclosed-treasure riddle is linked to Canadian Ontario and English
+    collections.
+  claim_level: same_motif
+  target: Egg riddle with marble walls, clear fountain, golden apple, and thieves
+    stealing gold
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage quotes comparative versions but does not provide a full
+    local performance context.
+- id: claim:4
+  claim: The riddle about what God never sees, rulers seldom see, and people see daily
+    is compared across English, Irish, Welsh-Gypsy, Catalan, and Porto Rican materials.
+  claim_level: same_motif
+  target: Divine/royal/everyday perception paradox riddle
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is textual and bibliographic; no claim of historical
+    transmission is stated.
+- id: claim:5
+  claim: The passage juxtaposes Porto Rican and New-Mexican Spanish versions of a
+    paradox involving something absent from heaven or the world and given to God by
+    a man.
+  claim_level: same_motif
+  target: Spanish-language riddle about a human giving something to God
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only short cited variants are included; the passage does not explain
+    their answers or transmission history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15720-15736
+  quote_or_summary: Notes compare round or deep object riddles from Holme, Canadian
+    Ontario, and Yorkshire sources; answers include a well and a frying pan.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 15738-15752
+  quote_or_summary: "“Highty, tighty, paradighty clothed in green, / The king could
+    not read it, no more could the queen; / They sent for a wise man out of the east,
+    / Who said it had horns but wasn’t a beast.” Answer: holly tree; Lancashire variant
+    answer: parrot."
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15758-15770
+  quote_or_summary: A Lincolnshire riddle beginning “Hickamore, ’ackamore” says it
+    sits over the kitchen door; the answer is a cloud.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 15790-15800
+  quote_or_summary: A cited riddle describes “marble walls as white as milk,” a silk-soft
+    lining, a crystal-clear fountain, and a golden apple; there are no doors, yet
+    thieves break in and steal the gold.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summarized with brief phrasing from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 15826-15846
+  quote_or_summary: English, Irish, Welsh-Gypsy, Catalan, and Porto Rican variants
+    are cited for a riddle about what God does not see, what a king or ruler seldom
+    sees, and what people see every day.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 15802-15824
+  quote_or_summary: English puzzle references include geometric descriptions using
+    crosses, circles, semicircles, a perpendicular, and a triangle; another asks that
+    the head and tail be cut off an odd number to produce new meanings.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 15848-15880
+  quote_or_summary: Further notes cite riddles about an unwanted thing such as a broken
+    head, a thing dated by Adam’s age, a Porto Rican question about what the dead
+    eat that kills the living, and Porto Rican/New-Mexican Spanish questions about
+    something absent from heaven or the world that a man gave to God.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: note
+  locator: 15882-15917
+  quote_or_summary: The passage notes that numbers enclosed in parentheses belong
+    to the last group and are not strictly Jamaica folk riddles, then lists journal
+    and society abbreviations and supplementary note references.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly comparative notes for riddles rather than narrative
+    mythology. Literal extraction and comparison claims are strong where the text
+    explicitly says “Cf.” and lists traditions; motif-family assignments are more
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical transmission claim is made. Taxonomy references are limited to available terms directly supported by quoted images or broad riddle-wisdom structure.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l15712-l15917
+  passage_sha256=ec38b9ce361869f39b79b1cab43cca5bb61daf73970a06ae2a41c004fff7927e
+

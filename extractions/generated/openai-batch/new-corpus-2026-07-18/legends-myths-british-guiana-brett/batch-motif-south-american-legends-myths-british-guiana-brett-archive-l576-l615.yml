@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l576-l615
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: LEGENDS AND MYTHS OF THE / ABORIGINAL TRIBES OF GUIANA. / LEGENDS AND MYTHS
+    OF THE / OF THE SUPREME BEING.; lines 576-615
+  start: '576'
+  end: '615'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"There is a mighty One above"; "He sits on high, above the sky"; "Our tongue
+    gives Him no proper name."'
+  summary: A verse passage describes a supreme being above the sky, prior to the world
+    and its celestial bodies, known by titles rather than a proper name, maker and
+    mover of all things, provider of food, yet distant and not called upon for help.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says there is a mighty one above, unlike any other.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figure sits high above the sky, where none can see his throne.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The figure is described as existing before he made the world, stars, moon,
+    and sun, and as remaining after their courses end.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker's language gives the figure no proper name but uses more than
+    one title.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The titles named in the passage are "Dweller in the Height," "Great Our Father,"
+    and "Our Maker."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says people have not gone to him for comfort and do not call upon
+    him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The figure is said to have formed all things and made them move.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The figure bestows food for all things, described in the passage as seeming
+    proof of love.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage repeats that the figure calmly sits above the sky and that none
+    can fly to him for succour because he is so high above.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mighty One / Supreme Being
+  description: A singular figure above the sky, described by titles including "Dweller
+    in the Height," "Great Our Father," and "Our Maker," who made the world and all
+    things.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: speaking community / "we"
+  description: The collective voice whose language lacks a proper name for the supreme
+    being, uses titles for him, and says he is not called upon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: high unseen dweller
+  assigned_to:
+  - fig:1
+  basis: He sits above the sky, his throne cannot be seen, and he is titled "Dweller
+    in the Height."
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: maker and mover of all things
+  assigned_to:
+  - fig:1
+  basis: He made the world with stars, moon, and sun, formed all things, and made
+    them move.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: provider of food
+  assigned_to:
+  - fig:1
+  basis: The passage says he bestows food for all things.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: father-titled deity
+  assigned_to:
+  - fig:1
+  basis: One of his named titles is "Great Our Father."
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: naming but non-supplicating community
+  assigned_to:
+  - fig:2
+  basis: The collective voice says "our tongue" gives no proper name, "we call" him
+    by titles, and people do not call upon him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: height above the sky
+  literal_form: A high place above the sky where the supreme being sits alone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: unseen throne
+  literal_form: A throne above the sky that none can see.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: celestial bodies
+  literal_form: The world with stars, moon, and sun made by the supreme being.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: food for all things
+  literal_form: Food bestowed for all things.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Supreme being above the sky before and after creation
+  summary: The passage presents the mighty one seated above the sky on an unseen throne
+    and says he existed before making the world and its celestial bodies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Titles without proper name or invocation
+  summary: The collective speaker says the being has no proper name in their tongue,
+    names several titles for him, and says he is not approached for comfort or called
+    upon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Formation and provisioning from afar
+  summary: The maker forms and moves all things, provides food, and remains too high
+    above for anyone to reach for help.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: remote high creator deity
+  taxonomy_refs: []
+  basis: The being is above the sky, made the world and all things, gives food, but
+    is not called upon and cannot be reached for succour.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific supplied taxonomy family directly names a remote high creator
+    motif; this is a passage-level candidate label.
+- id: motif:2
+  label: supreme being known by titles rather than a proper name
+  taxonomy_refs: []
+  basis: The passage states that the language gives him no proper name and lists multiple
+    titles.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives titles but does not explain whether the absence of a
+    proper name is ritual, linguistic, or theological.
+- id: motif:3
+  label: divine father title without supplication
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The being is titled "Great Our Father," while the passage also says people
+    do not go to him for comfort or call upon him.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage supplies a father title but does not narrate a parent-child
+    interaction or lineage relationship.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 576-587
+  quote_or_summary: '"There is a mighty One above"; "He sits on high, above the sky,
+    where none can see His throne"; "He was there ere He made the world, with stars,
+    and moon, and sun."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 588-600
+  quote_or_summary: '"Our tongue gives Him no proper name"; "We call Him ''Dweller
+    in the Height''"; "The ''Great Our Father''"; "of ''Our Maker'' oft we speak,
+    but never call upon."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:3
+  type: quote
+  locator: lines 601-615
+  quote_or_summary: '"That Mighty Maker all things formed" and "food for all things
+    He bestows"; "To Him for succour none can fly, He is so high above."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit about the high creator figure, titles,
+    and remoteness. Motif labels are candidate abstractions from this single passage.
+    No comparison claims were generated because the passage itself does not compare
+    traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were kept empty except for the cautiously applied divine_parent_child family based on the title "Great Our Father."
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l576-l615
+  passage_sha256=1cbe0d38ece3a00fb22d1a26eb6bf55ce9f48e07fe2a037554e6128c68345801
+

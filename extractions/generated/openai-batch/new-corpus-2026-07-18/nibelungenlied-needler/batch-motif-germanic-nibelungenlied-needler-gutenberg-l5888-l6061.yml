@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l5888-l6061
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: SEVENTH ADVENTURE / EIGHTH ADVENTURE / NINTH ADVENTURE / TENTH ADVENTURE;
+    lines 5888-6061
+  start: '5888'
+  end: '6061'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"wrapped in mantle / invisible I''ll be"'
+  summary: Siegfried tells Gunther that he will enter the bridal chamber secretly
+    and invisibly, extinguish the pages' lights as a token of his presence, and subdue
+    Brunhild while leaving her a maiden. After a feast and chamber transition, Siegfried
+    vanishes from Kriemhild, enters the chamber, and acts as if he were Gunther. Brunhild
+    violently resists, throws and pins him, but Siegfried eventually overpowers her
+    while Gunther listens nearby.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Siegfried tells Gunther he will come to the chamber at night secretly, wearing
+    an invisible mantle, and that attendants should be sent away.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Siegfried says he will extinguish the lights held by pages, and that this
+    extinguishing will be the token by which Gunther knows he is present.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gunther states that Brunhild is still a maiden; Siegfried pledges to leave
+    her a maiden.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: During the feast and courtly procession, Gunther remains focused on Siegfried's
+    promise and looks forward to being with his lady.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Siegfried sits beside Kriemhild, she holds his hand, and then he vanishes
+    from her sight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kriemhild asks her attendants in wonder where the king has gone and who has
+    drawn his hands from hers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Siegfried extinguishes the pages' lights; Gunther recognizes the token, dismisses
+    ladies and maids-in-waiting, and locks the door with two bolts.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: In the chamber, Siegfried lies near Brunhild and acts as though he were Gunther,
+    while Gunther listens without seeing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Brunhild throws Siegfried from the bed so that his head strikes loudly against
+    a stool.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Brunhild says her white gown shall not be disordered, clasps Siegfried, and
+    attempts to bind him as she had bound the king the previous night.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Brunhild presses Siegfried between the wall and a chest, proving bodily strength
+    over him for a time.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Brunhild grips Siegfried's hand so tightly that blood oozes from under the
+    nails.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Siegfried subdues Brunhild, presses her against the bed, and she cries aloud.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:14
+  text: Brunhild reaches for a girdle to bind Siegfried, but his strength overwhelms
+    her and the struggle ends with Gunther's wife vanquished.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: A doughty knight and hero who promises to assist Gunther, uses an invisible
+    mantle, vanishes from Kriemhild, enters Brunhild's chamber, acts as Gunther, struggles
+    with Brunhild, and subdues her.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Gunther
+  description: A king and Brunhild's husband who accepts Siegfried's plan, waits for
+    the token of extinguished lights, dismisses attendants, locks the chamber door,
+    and listens to the struggle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Brunhild
+  description: A stately maiden and Gunther's wife who enters her chamber, resists
+    the man she takes to be Gunther, throws Siegfried, tries to bind him, and is eventually
+    overpowered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Kriemhild
+  description: Siegfried's wife, described as fair and royal, who sits with Siegfried
+    and wonders when he vanishes from her grasp.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Pages, ladies, maids-in-waiting, and attendants
+  description: Court attendants who hold lights, attend the royal women, and are sent
+    away before the chamber is locked.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: secret invisible helper
+  assigned_to:
+  - fig:1
+  basis: Siegfried says he will come secretly at night in an invisible mantle and
+    serve Gunther.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bridal-chamber proxy
+  assigned_to:
+  - fig:1
+  basis: In the chamber Siegfried acts as if he were Gunther and engages Brunhild
+    in his place.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: consenting husband and hidden listener
+  assigned_to:
+  - fig:2
+  basis: Gunther accepts the plan, locks the door after dismissing attendants, and
+    listens to the unseen encounter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: resisting bride and physical opponent
+  assigned_to:
+  - fig:3
+  basis: Brunhild resists, throws Siegfried, attempts to bind him, and is later overpowered.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:5
+  label: wife who notices disappearance
+  assigned_to:
+  - fig:4
+  basis: Kriemhild holds Siegfried's hand and then asks in wonder where he has gone
+    after he vanishes.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: court attendants dismissed from chamber
+  assigned_to:
+  - fig:5
+  basis: Pages hold lights, and ladies and maids-in-waiting are ordered away before
+    the chamber is locked.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: invisible mantle
+  literal_form: mantle that makes Siegfried invisible
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: extinguished lights as token
+  literal_form: lights held by pages, extinguished to signal Siegfried's presence
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: bolted chamber door
+  literal_form: locked chamber door secured with two bolts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bridal bed or couch
+  literal_form: bed or couch where the chamber encounter and struggle occur
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: girdle for binding
+  literal_form: girdle around Brunhild's sides that she reaches for to bind Siegfried
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Plan for secret intervention
+  summary: Siegfried tells Gunther he will enter the chamber invisibly at night, extinguish
+    the lights as a signal, and subdue Brunhild while pledging to leave her a maiden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Feast and disappearance
+  summary: After the feast and the royal women's departure toward their chambers,
+    Siegfried sits with Kriemhild and then vanishes from her sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Chamber sealed after the light-token
+  summary: Siegfried extinguishes the pages' lights; Gunther recognizes the sign,
+    sends attendants away, and bolts the chamber door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bridal-chamber struggle
+  summary: Siegfried acts as Gunther and lies near Brunhild. Brunhild throws and pins
+    him, tries to bind him, draws blood with her grip, and is finally subdued by Siegfried
+    while Gunther listens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Invisible helper in a secret nocturnal task
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Siegfried uses an invisible mantle, secret entry, and extinguished lights
+    to cross into the bridal chamber and aid Gunther without public knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link is broad; the passage supports secrecy, invisibility,
+    and deception but does not explicitly name a comparative motif family.
+- id: motif:2
+  label: Proxy in the bridal chamber
+  taxonomy_refs: []
+  basis: Siegfried acts as though he were Gunther in Brunhild's chamber while Gunther
+    remains present as a hidden listener.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference exactly matches this episode-level pattern.
+- id: motif:3
+  label: Bridal-night contest of strength
+  taxonomy_refs: []
+  basis: Brunhild physically resists, throws, pins, and attempts to bind Siegfried
+    before he subdues her.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The label describes the passage-level pattern only; no broader historical
+    comparison is asserted.
+- id: motif:4
+  label: Attempted binding with garment-object
+  taxonomy_refs: []
+  basis: Brunhild attempts to use her girdle to bind Siegfried during the struggle.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a narrow object-action pattern within the scene rather than a
+    securely identified external motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: stanzas 654-656; within lines 5888-6061
+  quote_or_summary: Siegfried promises to come secretly in an invisible mantle, extinguish
+    the pages' lights as a token of presence, and tame Brunhild while pledging to
+    leave her a maiden; Gunther accepts.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: stanzas 657-660; within lines 5888-6061
+  quote_or_summary: The courtly feast and procession proceed; Gunther thinks on Siegfried's
+    promise, and Brunhild and Kriemhild leave the table for their chambers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: stanzas 661-664; within lines 5888-6061
+  quote_or_summary: Siegfried sits with Kriemhild, vanishes from her sight, extinguishes
+    the pages' lights, and Gunther dismisses women attendants and bolts the chamber
+    door.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: stanzas 665-668; within lines 5888-6061
+  quote_or_summary: Lights are hidden, Siegfried and Brunhild begin the chamber encounter,
+    Gunther listens without seeing, and Siegfried acts as if he were Gunther before
+    Brunhild throws him from the bed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: stanzas 669-672; within lines 5888-6061
+  quote_or_summary: Siegfried tries to curb Brunhild's resistance; she objects to
+    her gown being disordered, clasps him, attempts to bind him, and presses him between
+    wall and chest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: stanzas 673-675; within lines 5888-6061
+  quote_or_summary: Siegfried fears death at a woman's hand; Gunther hears and trembles;
+    Brunhild's grip makes blood ooze under Siegfried's nails, and he begins to subdue
+    her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: stanzas 676-678; within lines 5888-6061
+  quote_or_summary: Siegfried presses Brunhild against the bed; she cries aloud, reaches
+    for a girdle to bind him, and the struggle ends with Gunther's wife vanquished.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels describe passage-level
+    patterns; one broad taxonomy link is tentative. No comparison claims were made
+    because the passage itself provides no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs apply directly to the passage objects; symbol taxonomy arrays are therefore empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l5888-l6061
+  passage_sha256=98a5105533c95fc74eb09384363aad99e6f6de114ba791456f9af9b78b2304c8
+

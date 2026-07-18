@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38927-l38963
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCIX. / ENTITLED, THE EARTHQUAKE;
+    WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines
+    38927-38963
+  start: '38927'
+  end: '38963'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“On that day the earth shall declare her tidings”"
+  summary: The chapter describes the earth shaken by an earthquake, casting forth
+    its burdens, and declaring its tidings because the Lord inspires it. People go
+    forward in distinct classes to behold their works, and even good or evil of the
+    weight of an ant is beheld. Notes gloss the earthquake as occurring at a trumpet
+    blast and the earth’s burdens as treasures and dead bodies, and state that the
+    earth may testify to human actions at the last day.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Chapter XCIX, entitled “The Earthquake,” with the
+    place of revelation disputed.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The earth is shaken by an earthquake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The earth casts forth her burdens.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man asks what is wrong with the earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The earth declares her tidings because the Lord inspires her.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Men go forward in distinct classes so that they may behold their works.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Whoever has done good or evil of the weight of an ant beholds the same.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note glosses the earth’s burdens as treasures and dead bodies within it.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note places the earthquake at the first or second blast of the trumpet.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A note says some hold that the earth will be enabled to speak and give evidence
+    of the actions of its inhabitants at the last day.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The earth
+  description: The earth is shaken, casts forth burdens, declares tidings, and is
+    glossed in a note as possibly speaking and giving evidence at the last day.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: A man
+  description: A human questioner who asks what ails the earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Men / whoever has wrought deeds
+  description: Human beings go forward in distinct classes to behold their works;
+    each person who has done ant-weight good or evil beholds it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: The LORD
+  description: The Lord inspires the earth to declare her tidings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: shaken burden-casting earth
+  assigned_to:
+  - fig:1
+  basis: The earth is shaken by earthquake and casts forth her burdens.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: inspired declarer or witness
+  assigned_to:
+  - fig:1
+  basis: The earth declares tidings because the Lord inspires her; a note adds that
+    she may give evidence of inhabitants’ actions.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:3
+  label: divine inspirer
+  assigned_to:
+  - fig:4
+  basis: The Lord inspires the earth to declare her tidings.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: human questioner
+  assigned_to:
+  - fig:2
+  basis: A man asks what ails the earth.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: humans whose works are disclosed
+  assigned_to:
+  - fig:3
+  basis: Men go forward in classes to behold their works, including ant-weight good
+    and evil.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Earth
+  literal_form: The earth, personified as “her,” shaken and made to declare tidings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: Earthquake
+  literal_form: The earth shaken by an earthquake.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: Burdens of the earth
+  literal_form: The earth’s burdens, glossed as treasures and dead bodies within it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: Ant-weight measure
+  literal_form: Good or evil of the weight of an ant.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Trumpet blast
+  literal_form: The first or second blast of the trumpet in the note on the earthquake.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Earthquake and human question
+  summary: The earth is shaken, casts forth her burdens, and a man asks what ails
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Earth’s tidings under divine inspiration
+  summary: The earth declares her tidings because the Lord inspires her; the note
+    adds that she may speak and give evidence at the last day.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: scene:3
+  label: Human procession and disclosed works
+  summary: People go forward in distinct classes to behold their works, and each ant-weight
+    good or evil deed is beheld.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Commentarial last-day sequence
+  summary: The notes place the earthquake at a trumpet blast and identify the earth’s
+    burdens as treasures and dead bodies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment by disclosed deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: People proceed in distinct classes to behold their works, and even ant-weight
+    good and evil is shown; a note says the earth may give evidence of inhabitants’
+    actions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage emphasizes disclosure of deeds; it does not describe a full
+    judicial court scene.
+- id: motif:2
+  label: Earth as speaking witness
+  taxonomy_refs: []
+  basis: The earth declares tidings because the Lord inspires her, and the note says
+    she may speak and give evidence of human actions.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level pattern without an available taxonomy reference
+    in the supplied list.
+- id: motif:3
+  label: Eschatological earthquake
+  taxonomy_refs: []
+  basis: The chapter centers on the earth being shaken and casting forth burdens;
+    a note links the event to a trumpet blast.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific supplied taxonomy family exactly matches earthquake imagery.
+- id: motif:4
+  label: Resurrection from the earth
+  taxonomy_refs:
+  - resurrection
+  basis: The note glosses the earth’s burdens as including dead bodies and links the
+    speaking earth to the last day.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The main verse says “burdens”; the explicit identification with dead bodies
+    comes from the translator’s note.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the divine judgment motif family at a typological level
+    because human works, including minute good and evil acts, are made visible, and
+    the earth can provide evidence of actions.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level comparison only; no external text or historical
+    relationship is asserted.
+- id: claim:2
+  claim: The passage partially fits a resurrection-related eschatological pattern
+    through the note that the earth casts forth dead bodies and through the last-day
+    testimony imagery.
+  claim_level: same_function
+  target: resurrection
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The resurrection connection depends chiefly on the notes rather than
+    the main verse’s literal wording.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 38927-38931
+  quote_or_summary: "“CHAPTER XCIX. / ENTITLED, THE EARTHQUAKE; WHERE IT WAS REVEALED
+    IS DISPUTED.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 38933-38935
+  quote_or_summary: "“the earth shall be shaken by an earthquake” and “the earth shall
+    cast forth her burdens”; a man asks what ails her."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt and summary used.
+- id: ev:3
+  type: quote
+  locator: lines 38936-38937
+  quote_or_summary: "“the earth shall declare her tidings” because “thy LORD will
+    inspire her.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 38938-38939
+  quote_or_summary: Men go forward in distinct classes so that they may behold their
+    works.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 38940-38943
+  quote_or_summary: Whoever has wrought good or evil “of the weight of an ant” shall
+    behold the same.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt and summary used.
+- id: ev:6
+  type: summary
+  locator: lines 38952-38953
+  quote_or_summary: Note b says the earthquake will happen at the first, or according
+    to others the second, blast of the trumpet.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: quote
+  locator: line 38954
+  quote_or_summary: Note c glosses the burdens as “The treasures and dead bodies within
+    it.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 38955-38959
+  quote_or_summary: Note d says the Lord will inform creatures of the occasion of
+    the earth’s trembling and that some say the earth will be enabled to speak and
+    give evidence of inhabitants’ actions at the last day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The main passage is concise and clear. The resurrection-related extraction
+    relies partly on Sale’s explanatory notes. Unrelated footnote material in the
+    supplied line range about the promised apostle and corrupted scriptures was not
+    used for this earthquake passage extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used; no historical-contact claims are made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38927-l38963
+  passage_sha256=55f0bfd4ea1578d76d3b4c05ee5b05fa2ba6958c1a56e76ee9d507f7afa1e6d1
+

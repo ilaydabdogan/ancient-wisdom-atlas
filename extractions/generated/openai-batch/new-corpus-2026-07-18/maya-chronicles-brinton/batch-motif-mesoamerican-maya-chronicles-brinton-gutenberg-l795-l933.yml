@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l795-l933
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: THE CHRONICLES. / THE CHRONICLE OF CHAC XULUB CHEN. / INTRODUCTION. / CONTENTS.;
+    lines 795-933
+  start: '795'
+  end: '933'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: The Mayas had a mathematical turn, and possessed a developed system of numeration.
+  summary: The passage discusses Maya linguistic relations with Aztec/Nahuatl and
+    then explains the Maya vigesimal numeral system, including number terms, methods
+    of counting above forty, Beltran's proposed system, Rosny's analysis, and Juan
+    Pio Perez's critique based on native usage.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that no relationship of the Maya linguistic group to any
+    other has been discovered, while also reporting reciprocal word borrowing between
+    Maya dialects and Aztec/Nahuatl.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Maya numeral system is described as counting by units and scores, i.e.
+    as vigesimal.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists Maya cardinal number terms from hun, one, through hunkal,
+    twenty.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The term lahun is explained as apparently connected with completing one person
+    in finger counting, and kal, a score, is glossed as a fastening or shutting up.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'For numbers above forty, the passage describes three possible methods: continuing
+    the same score-based construction, using the copulative catac with tul, or counting
+    upon the next higher score.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Father Beltran is said to have advanced the next-score system, Prof. Leon
+    de Rosny to have analyzed it as consistent, and later writers to have adopted
+    it.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Don Juan Pio Perez criticized Beltran's method as artificial, non-native in
+    past or present usage, and shaped by an attempt to assimilate Maya to the Latin
+    numeral system.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Perez's quoted Spanish account says the Indians of Yucatan count by twenties
+    called kal, use tul or tu for fractional units, and that ancient manuscripts and
+    present usage support the system he describes.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Mayas / Maya linguistic group
+  description: Described as a linguistic group with no discovered external relationship
+    and as possessing a developed vigesimal system of numeration.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Aztec / Nahuatl
+  description: Described as having borrowed words from Maya dialects and as having
+    supplied borrowed words to Maya.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Father Beltran / Fr. Beltran de Santa Rosa
+  description: Presented as the grammarian who formally mentioned or advanced the
+    next-score method of Maya numeration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Prof. Leon de Rosny
+  description: Presented as a scholar who carefully analyzed Beltran's system and
+    found it to be a consistent vigesimal method.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Don Juan Pio Perez
+  description: Described as an able Yucatecan linguist who criticized Beltran's method
+    and supplied a Spanish account of Maya counting usage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Later writers and Maya Gospel translators
+  description: Later writers are said to have adopted Beltran's system; examples include
+    a Maya translation of the Gospel of St. John and a Gospel of St. Luke attributed
+    to Father Joaquin Ruz.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: vigesimal numeration users
+  assigned_to:
+  - fig:1
+  basis: The passage says the Mayas possessed a developed numeral system counting
+    by units and scores.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: linguistic contact participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage reports reciprocal borrowing between Maya dialects and Aztec/Nahuatl
+    and interprets it as evidence of long and close relations.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: next-score numeral-system formalizer
+  assigned_to:
+  - fig:3
+  basis: Beltran is named as advancing and formally mentioning the method of counting
+    upon the next score above.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: scholarly analyst of Beltran's system
+  assigned_to:
+  - fig:4
+  basis: Leon de Rosny is said to have carefully analyzed the system and shown it
+    to be consistent and vigesimal.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: critic and native-usage witness
+  assigned_to:
+  - fig:5
+  basis: Perez criticizes Beltran's system and cites older manuscripts and native
+    usage in support of an alternative account.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: later adopters of Beltran's system
+  assigned_to:
+  - fig:6
+  basis: The passage says later writers adopted Beltran's method and gives Maya Gospel
+    translations as examples.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: score / twenty
+  literal_form: kal or hunkal as the twenty-count unit; kal is glossed as a score
+    and literally as fastening or shutting up.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: completion of one person in finger counting
+  literal_form: lahun is explained as lah hun, 'it finishes one (man),' in counting
+    on the fingers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Maya-Aztec linguistic contact noted
+  summary: The passage distinguishes lack of discovered genetic relationship from
+    evidence of reciprocal lexical borrowing between Maya and Aztec/Nahuatl.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maya vigesimal numeration explained
+  summary: The passage introduces Maya numeration as vigesimal, lists cardinal number
+    terms, and explains selected terms including lahun and kal.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Methods for numbers above forty compared
+  summary: The passage describes three ways to form numbers above forty and identifies
+    the next-score method with Beltran and later analysis by Rosny.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Perez's critique of Beltran
+  summary: Perez rejects Beltran's system as artificial and gives a Spanish explanation
+    of counting by twenties based on manuscript and native usage.
+  figure_refs:
+  - fig:5
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: vigesimal ordering by scores
+  taxonomy_refs: []
+  basis: The passage repeatedly describes Maya counting by scores or twenties and
+    gives examples of number construction around twenty, forty, and higher scores.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: This is a cultural-numerical pattern rather than a narrative mythological
+    motif; no available motif-family taxonomy is directly supported.
+- id: motif:2
+  label: body-based counting completion
+  taxonomy_refs: []
+  basis: The passage interprets lahun as 'it finishes one (man)' in the context of
+    counting on fingers.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This depends on the etymological explanation supplied in the passage and
+    is not presented as a mythic symbol.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a contact claim rather than a genetic-relationship
+    claim: reciprocal Maya and Aztec/Nahuatl borrowings are presented as evidence
+    of long and close relations.'
+  claim_level: historical_contact
+  target: Maya dialects and Aztec/Nahuatl
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is linguistic-historical, not a motif comparison; it relies
+    only on the excerpt's statement.
+- id: claim:2
+  claim: Perez characterizes Beltran's numeral method as an artificial assimilation
+    of Maya counting to the Latin numeral system rather than native usage.
+  claim_level: linguistic_similarity
+  target: Latin numeral system as invoked in Perez's critique
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: This is reported as Perez's criticism; the passage also states that
+    Rosny analyzed Beltran's method as internally consistent.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 795-800
+  quote_or_summary: No external relationship of the Maya linguistic group has been
+    discovered; Maya and Aztec/Nahuatl are said to show reciprocal lexical borrowing
+    and long close relations.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 802-827
+  quote_or_summary: The passage states that the Mayas had a developed system of numeration,
+    counted by units and scores, and lists cardinal numbers from hun, one, to hunkal,
+    twenty.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 829-833
+  quote_or_summary: Lahun is explained as apparently meaning 'it finishes one (man)'
+    in finger counting; kal, a score, is glossed as a fastening or shutting up.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 835-847
+  quote_or_summary: From twenty upward, scores are used; above forty the passage says
+    three different methods can continue the numeration.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 849-866
+  quote_or_summary: 'The three methods are illustrated: continuation of the same construction,
+    use of catac with tul, and counting on the next score above.'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 868-890
+  quote_or_summary: Beltran's next-score system is said to be the only one he formally
+    mentioned; Rosny analyzed it as consistent, and later writers and Maya Gospel
+    translations adopted it.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 892-899
+  quote_or_summary: Juan Pio Perez is said to have criticized Beltran's method as
+    artificial, not matching native past or present usage, and built from an effort
+    to assimilate Maya to the Latin numeral system.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 901-933
+  quote_or_summary: Perez's Spanish text says the Indians of Yucatan count by twenties
+    called kal, form intervening units with tul or tu, and that old manuscripts and
+    current usage support the system he indicates.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The linguistic and numerical content is explicit. Motif confidence is limited
+    because the passage is grammatical and historical rather than myth-narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic narrative figures or available taxonomy motif families are directly attested in this passage; extracted motifs are cultural-numerical patterns only.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l795-l933
+  passage_sha256=4b356956080d13beddf5859889c984b3332e621626787d3708a77925f5a087f6
+

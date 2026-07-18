@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l1178-l1219
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: VIII. THE SQUIRREL AND THE SPIDER / IX. WHY WE SEE ANTS CARRYING BUNDLES
+    AS BIG AS THEMSELVES / X. WHY SPIDERS ARE ALWAYS FOUND IN THE CORNERS OF CEILINGS
+    / XI. ANANSI THE BLIND FISHERMAN; lines 1178-1219
+  start: '1178'
+  end: '1219'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Anansi becomes blind in old age but continues fishing with two helpful
+    men. He repeatedly responds to their assistance with rudeness and claims he already
+    knows what they tell him. The helpers decide to punish his ingratitude. While
+    still away from shore, they tell him they have reached the beach; Anansi jumps
+    out, sinks in deep water, cannot find land because of his blindness, becomes exhausted,
+    and drowns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Anansi becomes a fisherman in old age, loses his sight, and grows completely
+    blind.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two men help Anansi continue fishing by leading him to the beach and canoe,
+    directing his net, and telling him when and where to step out.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Anansi repeatedly answers the helpers sharply, says he already knows their
+    instructions, and behaves rudely rather than gratefully.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The helpers decide to punish Anansi because they can no longer bear his treatment
+    and view it as ingratitude.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the canoe is full of fish and while not yet at the beach, the helpers
+    tell Anansi that they have reached the beach.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Anansi jumps from the canoe expecting to land on the beach, but instead finds
+    himself sinking in deep water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The two men row away and leave Anansi struggling in the water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Although Anansi is a good swimmer, his blindness prevents him from seeing
+    where the land is; he swims until exhausted and drowns.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Anansi
+  description: An old fisherman who becomes blind, relies on two helpers, responds
+    rudely to them, and drowns after jumping into deep water.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: two men
+  description: Two men who assist Anansi with fishing and later punish him by falsely
+    saying the canoe has reached the beach.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: blind fisherman
+  assigned_to:
+  - fig:1
+  basis: Anansi becomes a fisherman and then grows completely blind.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dependent beneficiary
+  assigned_to:
+  - fig:1
+  basis: Anansi continues fishing through the daily assistance of two men.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rude and ungrateful recipient of help
+  assigned_to:
+  - fig:1
+  basis: The passage says Anansi is not grateful and becomes increasingly rude to
+    his helpers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: helpers and guides
+  assigned_to:
+  - fig:2
+  basis: The two men lead Anansi, direct his fishing, and help him enter and leave
+    the canoe.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: punishers by deception
+  assigned_to:
+  - fig:2
+  basis: The men decide to punish Anansi and falsely tell him they are at the beach
+    while still in deep water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: deep water
+  literal_form: deep water in which Anansi sinks and drowns
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: canoe
+  literal_form: canoe used for fishing and for the deceptive return toward shore
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: fishing net
+  literal_form: net that Anansi is told where to spread and when to pull in
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: beach
+  literal_form: shore landing-place that the helpers falsely claim has been reached
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:5
+  label: fish
+  literal_form: fish filling the canoe before the return toward land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Blind fisherman assisted by two men
+  summary: Anansi grows blind but continues fishing because two men guide him to the
+    canoe, direct his net, and help him return to land safely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Repeated rude denial of help
+  summary: Anansi answers the helpers' directions with claims that he already knows
+    what to do and becomes increasingly rude.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: False landing announced
+  summary: The helpers, angered by Anansi's insults, row partway home with a canoe
+    full of fish and tell him they are at the beach before they have reached it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Drowning in deep water
+  summary: Anansi jumps out expecting the beach, sinks in deep water, is abandoned
+    by the two men, cannot locate land because of blindness, and drowns after exhaustion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ingratitude punished
+  taxonomy_refs: []
+  basis: Anansi repeatedly mistreats helpers who have been kind to him; they decide
+    to punish him for ingratitude, leading to his death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states the helpers' motive as punishment for ingratitude,
+    but no external motif index number is supplied.
+- id: motif:2
+  label: False claim of arrival causes fatal misstep
+  taxonomy_refs: []
+  basis: The helpers falsely say they are at the beach; Anansi believes the claim,
+    jumps out of the canoe, and enters deep water instead of landing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern description rather than a verified cross-traditional
+    motif classification.
+- id: motif:3
+  label: Proud denial of dependence leads to disaster
+  taxonomy_refs: []
+  basis: Anansi insists he already knows what his helpers tell him, despite depending
+    on them because of blindness; his proud confidence contributes to his fatal jump.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage explicitly describes pride and rude denial, but the abstract
+    causal label is interpretive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1178-1187
+  quote_or_summary: Anansi becomes a fisherman in old age, loses his sight, grows
+    blind, and continues fishing with two men who kindly guide him to the beach, canoe,
+    and net work.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1189-1194
+  quote_or_summary: Anansi is described as not grateful, behaving badly, and replying
+    sharply that he already knows where to put the net or when they are at the beach.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1196-1205
+  quote_or_summary: Anansi becomes ruder each day; the helpers decide to punish him
+    for ingratitude, and this resolve is renewed after more abuse while fishing.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1207-1214
+  quote_or_summary: With the canoe full of fish, the men row toward home, stop before
+    reaching the beach, say they are at the beach, and Anansi jumps out into deep
+    water; the men row away.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1216-1219
+  quote_or_summary: Anansi is a good swimmer, but because he is blind he cannot see
+    where the land is; he swims until exhausted and drowns.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are local descriptive candidates without external index confirmation. No comparison
+    claims were made because the passage itself does not establish historical or cross-corpus
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy reference applied only to the literal water symbol.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l1178-l1219
+  passage_sha256=d22504f90e2a899e775b2e3b6d077809cb8c7d7803a5622b091c8f1094736514
+

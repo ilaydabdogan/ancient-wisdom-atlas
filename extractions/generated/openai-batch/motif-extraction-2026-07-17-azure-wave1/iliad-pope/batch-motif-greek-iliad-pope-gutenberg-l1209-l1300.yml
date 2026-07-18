@@ -1,0 +1,464 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1209-l1300
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1209-1300
+  start: '1209'
+  end: '1300'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Our authors work is a wild paradise...
+  summary: The passage is a literary-critical preface praising Homer's invention as
+    the foundation of poetry. It contrasts invention with judgment and art, describes
+    Homer's work through images of nature, garden, nursery, fire, star, vortex, and
+    world-making, and compares Homer's poetic force with that of several later poets.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage attributes the greatest invention among writers to Homer and treats
+    invention as the foundation of poetry.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts art, judgment, regular gardens, and bounded walks with
+    the larger and more varied extent of nature.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Homer's work is described as a wild paradise and a copious nursery containing
+    seeds and first productions from which later writers selected plants.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage attributes unequalled fire and rapture to Homer's invention and
+    says a true poetical spirit is not master of himself while reading him.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The reader of Homer is described as being made a hearer in one place and a
+    spectator in another, especially in scenes such as councils and battles.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Homer's verses are compared to an army and to fire sweeping the earth; his
+    fancy is said to grow and become on fire like a chariot-wheel by its own rapidity.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The passage compares the manifestation of poetic fire in Homer, Virgil, Lucan,
+    Statius, Milton, and Shakespeare.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Homer's ruling faculty is compared to a powerful star that draws things within
+    its vortex.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says Homer opened a new boundless walk for imagination, created
+    a world for himself in fable, and first breathed into poetry what Aristotle calls
+    its soul.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet praised as having unrivalled invention, poetic fire, and a world-making
+    faculty in fable.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Virgil
+  description: Poet said to have contested the praise of judgment with Homer and to
+    show fire reflected from Homer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Common critics
+  description: Critics described as preferring judicious and methodical genius to
+    great and fruitful genius.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Later writers or followers of Homer
+  description: Writers described as selecting particular plants from Homer's copious
+    nursery to cultivate and beautify.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Reader or true poetical spirit
+  description: The reader affected by Homer's force, becoming hearer or spectator
+    rather than merely being informed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Lucan and Statius
+  description: Poets in whom poetic fire is said to burst out in sudden, short, interrupted
+    flashes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Milton
+  description: Poet whose fire is said to glow like a furnace maintained by art.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Shakespeare
+  description: Poet whose fire is said to strike like accidental fire from heaven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Aristotle
+  description: Authority cited for calling fable the soul of poetry.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Unrivalled poetic inventor
+  assigned_to:
+  - fig:1
+  basis: Homer is praised as having the greatest invention and as creating a world
+    in fable.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: Comparative poet
+  assigned_to:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage compares named poets according to the form and intensity of their
+    poetic fire.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Judgment-preferring critic
+  assigned_to:
+  - fig:3
+  basis: Common critics are said to prefer a judicious and methodical genius to a
+    great and fruitful one.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Cultivator of selected poetic materials
+  assigned_to:
+  - fig:4
+  basis: Later writers are described as selecting plants from Homer's nursery to cultivate
+    and beautify.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Transported reader
+  assigned_to:
+  - fig:5
+  basis: The reader is described as hurried out of himself and turned into hearer
+    or spectator.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Cited poetic authority
+  assigned_to:
+  - fig:9
+  basis: Aristotle is cited for defining fable as the soul of poetry.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Poetic fire
+  literal_form: Fire, flashes, furnace, fire from heaven, and burning
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Ordered garden
+  literal_form: Regular garden and bounded walk of art
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Wild paradise
+  literal_form: Wild paradise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Nursery of seeds and plants
+  literal_form: Copious nursery, seeds, first productions, plants, soil
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Chariot-wheel on fire
+  literal_form: Chariot-wheel becoming on fire by rapidity
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Powerful star and vortex
+  literal_form: Powerful star drawing things within its vortex
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Created world of fable
+  literal_form: A world created for imagination in the invention of fable
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Breath and soul of poetry
+  literal_form: Soul of poetry breathed into it
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Praise of Homeric invention
+  summary: The preface praises Homer as the greatest poetic inventor and contrasts
+    invention with judgment, art, regularity, and critical method.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Homer as wild paradise and nursery
+  summary: Homer's work is described as overflowing natural abundance, like a wild
+    paradise and a nursery from which later writers selected materials.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Animated reading experience
+  summary: Homer's invention is said to move everything into action and to transform
+    the reader into a hearer or spectator of councils and battles.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Comparative poetic fire
+  summary: The passage distinguishes Homer's poetic fire from the fire attributed
+    to Virgil, Lucan, Statius, Milton, and Shakespeare.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Expansion into fable
+  summary: Homer's faculty is likened to a star and vortex that gathers arts, nature,
+    passions, and forms, then opens a boundless imaginative field and creates a world
+    of fable.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Poetic fire as animating force
+  taxonomy_refs: []
+  basis: The passage repeatedly uses fire imagery to describe the force, movement,
+    and intensity of Homeric poetry and to compare other poets.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a literary-critical metaphor in a preface, not a narrative mythic
+    fire episode.
+- id: motif:2
+  label: Generative poetic garden or nursery
+  taxonomy_refs: []
+  basis: Homer's work is described as a wild paradise and a nursery containing seeds
+    and plants later writers cultivate.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The imagery is metaphorical and concerns literary influence rather than
+    a mythic garden, tree, or fertility narrative.
+- id: motif:3
+  label: World-making through fable
+  taxonomy_refs: []
+  basis: The passage says Homer opened a boundless walk for imagination and created
+    a world for himself in the invention of fable.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The world-making language is critical and metaphorical; it is not a cosmogonic
+    narrative in the passage.
+- id: motif:4
+  label: Ruling star and vortex of creative power
+  taxonomy_refs: []
+  basis: Homer's ruling faculty is likened to a powerful star drawing all things within
+    its vortex.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is an image of poetic faculty, not an explicit astral myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats poetic fire as a shared comparative image across Homer,
+    Virgil, Lucan, Statius, Milton, and Shakespeare, while assigning Homer the clearest
+    and most irresistible form of it.
+  claim_level: same_function
+  target: Poetic-fire imagery across the named poets in the preface
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is literary-critical and metaphorical, not a claim about
+    a shared mythic narrative.
+- id: claim:2
+  claim: The passage presents later writers as drawing selectively from Homer's abundant
+    poetic materials, using nursery and plant-cultivation imagery.
+  claim_level: same_function
+  target: Homer as source for later poetic cultivation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify specific later texts or demonstrate historical
+    transmission beyond the stated literary image.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1209-1300; paragraph beginning 'Homer is universally allowed...'
+  quote_or_summary: Homer is praised for unrivalled invention; judgment, art, regular
+    gardens, and bounded walks are contrasted with the wider extent of nature.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: 1209-1300; paragraph beginning 'Our authors work is a wild paradise...'
+  quote_or_summary: Homer's work is called a 'wild paradise' and a 'copious nursery'
+    containing seeds and first productions selected by later writers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: 1209-1300; paragraph beginning 'It is to the strength of this amazing invention...'
+  quote_or_summary: Homer's invention is said to produce fire and rapture; everything
+    moves and lives, and the reader becomes hearer or spectator in councils and battles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 1209-1300; paragraph continuing 'They pour along like a fire...'
+  quote_or_summary: Homer's verse is compared to fire sweeping the earth and a chariot-wheel
+    on fire; poetic fire is then compared in Virgil, Lucan, Statius, Milton, Shakespeare,
+    and Homer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 1209-1300; final paragraph beginning 'This strong and ruling faculty...'
+  quote_or_summary: Homer's faculty is likened to a powerful star and vortex; he takes
+    in arts, nature, passions, forms, and images, opens a boundless imaginative walk,
+    creates a world in fable, and is linked with Aristotle's 'soul of poetry.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a literary preface rather than a myth narrative. Extracted
+    motifs are metaphorical patterns explicitly present in the wording and should
+    be reviewed before use in comparative mythology datasets.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy IDs or comparisons were added beyond the supplied passage and available symbol reference for fire.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1209-l1300
+  passage_sha256=adb5eec46c3e5920dc31c7a08a318418807bef2b7459a21cb7e245a000900ea9
+

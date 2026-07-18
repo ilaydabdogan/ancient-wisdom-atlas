@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l7210-l7260
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 7210-7260
+  start: '7210'
+  end: '7260'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains the importance of legal knowledge in regulating outward
+    religious profession, then classifies points of faith under four theological bases:
+    divine attributes and unity, predestination and justice, promises and threats
+    with divine decisions, and history/reason including prophecy and the office of
+    Imam. It lists several Muslim theological sects as disputants under these headings.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes outward religious profession and actions from the
+    inner heart, saying the civilian does not inquire into the heart.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Knowledge of laws is described as so necessary that it is called the Science,
+    and a person is not reckoned learned without applying himself to it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Points of faith are reduced to four general heads called four bases or great
+    fundamental articles.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first basis concerns the attributes of God, divine unity, eternal attributes,
+    essential and action attributes, and what may or may not be affirmed of God.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The second basis concerns predestination and justice, including God’s purpose
+    and decree, human compulsion or cooperation in action, good and evil, and divine
+    will, power, and knowledge.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The third basis concerns promises and threats, names used in divinity, divine
+    decisions, faith, repentance, forbearance, infidelity, and error.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The fourth basis concerns the weight of history and reason in religion, the
+    mission of prophets, and the office of Imam or chief pontiff.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Under the fourth basis, the passage discusses moral beauty or turpitude of
+    actions, whether things are allowed or forbidden by nature or positive law, divine
+    favor or grace, prophetic innocence, and the conditions for the office of Imam.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Named Muslim sectarian groups are repeatedly listed as parties to controversies
+    under the four bases.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity whose attributes, unity, purpose, decree, will, power, knowledge,
+    favor, and grace are topics of doctrinal questions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: civilian
+  description: The civil/legal authority associated with regulating outward actions
+    and profession, not inquiry into the heart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: scholastic divines
+  description: Theological examiners and discussants of points of faith reduced to
+    four bases.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: named Mohammedan sects
+  description: Groups listed as disputants, including Ashrians, Kermians, Mojassemians
+    or Corporalists, Mtazalites, Kadarians, Najarians, Jabarians, Morgians, Wadians,
+    and Shiites.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: prophets
+  description: Figures whose mission and office-related innocence are treated under
+    the fourth basis.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Imam or chief pontiff
+  description: A religious office whose required conditions, succession, transfer,
+    consent, and confirmation are debated.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: the faithful
+  description: The community whose consent is described as one possible basis for
+    the office of Imam.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: subject of divine attributes and unity
+  assigned_to:
+  - fig:1
+  basis: The first basis relates to God’s attributes and unity and what may be affirmed
+    or denied of him.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: source of decree, will, knowledge, power, favor, and grace
+  assigned_to:
+  - fig:1
+  basis: The second and fourth bases discuss God’s purpose, decree, will, power, knowledge,
+    favor, and grace.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: civil adjudicator of outward profession
+  assigned_to:
+  - fig:2
+  basis: The civilian decides religion as far as profession made by the mouth and
+    outward actions, but not the heart.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: theological examiners
+  assigned_to:
+  - fig:3
+  basis: The passage says the points of faith are subject to the examination and discussion
+    of scholastic divines.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: doctrinal disputants
+  assigned_to:
+  - fig:4
+  basis: The named sects are listed as parties to controversies under multiple bases.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: prophetic office-bearers
+  assigned_to:
+  - fig:5
+  basis: The fourth basis includes the mission of prophets and innocence attending
+    the prophetical office.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: religious leadership office
+  assigned_to:
+  - fig:6
+  basis: The fourth basis includes conditions for the office of Imam or chief pontiff
+    and modes of succession, transfer, consent, and confirmation.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: consenting community
+  assigned_to:
+  - fig:7
+  basis: One view described in the passage connects the office of Imam with the consent
+    of the faithful.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: four bases
+  literal_form: four bases, or great fundamental articles
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mouth and heart distinction
+  literal_form: profession made by the mouth; heart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Civil regulation of outward religion
+  summary: The passage assigns civil/legal concern to outward actions and spoken profession
+    of religion while excluding inquiry into the heart; legal knowledge is elevated
+    as Science.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Announcement of the four bases
+  summary: The scholastic discussion of faith is organized under four general heads
+    called bases or fundamental articles.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: 'First basis: divine attributes and unity'
+  summary: Questions about God’s eternal, essential, and action attributes, unity,
+    and possible or impossible divine actions are presented as disputed by named groups.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: 'Second basis: predestination and justice'
+  summary: Questions about predestination, divine decree, human necessity or cooperation,
+    good and evil, and divine will, power, and knowledge are presented as disputed
+    by named groups.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: 'Third basis: promises, threats, and divine decisions'
+  summary: Questions about promises, threats, divine names and decisions, faith, repentance,
+    infidelity, and error are presented as disputed by named groups.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: 'Fourth basis: history, reason, prophecy, and Imamate'
+  summary: Questions about history and reason in religion, prophecy, moral valuation,
+    divine grace, prophetic innocence, and the office of Imam are presented as disputed
+    by named groups.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Fourfold doctrinal foundation
+  taxonomy_refs: []
+  basis: The passage explicitly reduces points of faith to four bases or fundamental
+    articles.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an expository theological classification rather than a narrative
+    mythic motif.
+- id: motif:2
+  label: Hidden heart versus outward profession
+  taxonomy_refs: []
+  basis: The passage contrasts profession made by the mouth and outward actions with
+    the heart, which the civilian is not to examine.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The pattern is legal-theological and not tied to a mythic episode in this
+    passage.
+- id: motif:3
+  label: Divine attributes and unity under dispute
+  taxonomy_refs: []
+  basis: The first basis gathers questions about God’s attributes, unity, and what
+    can or cannot be affirmed of God, with controversies among named groups.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No narrative action or symbolic object is present; the material is doctrinal.
+- id: motif:4
+  label: Predestination, human agency, and divine justice
+  taxonomy_refs: []
+  basis: The second basis treats God’s decree, human compulsion or cooperation, good
+    and evil, and divine will, power, and knowledge.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a theological problem-pattern rather than a mythological scene.
+- id: motif:5
+  label: Promises, threats, and divine decisions
+  taxonomy_refs:
+  - divine_judgment
+  basis: The third basis includes promises, threats, and divine decisions, along with
+    faith, repentance, infidelity, and error.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference is only broadly applicable; the passage
+    does not narrate a judgment event.
+- id: motif:6
+  label: Legitimacy of religious leadership by succession or consent
+  taxonomy_refs: []
+  basis: The fourth basis includes conditions for the office of Imam, with some asserting
+    right of succession and others the consent of the faithful.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage concerns a religious office, not royal succession as such.
+- id: motif:7
+  label: Prophetic mission and required innocence
+  taxonomy_refs: []
+  basis: The fourth basis includes the mission of prophets and the innocence that
+    ought to attend the prophetical office.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions the doctrinal topic but gives no narrative example
+    of a prophet.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7210-7215
+  quote_or_summary: Civil authority is described as regulating outward actions and
+    profession made by the mouth, not inquiry into the heart; legal knowledge is called
+    the Science and required for being learned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: 7216-7218
+  quote_or_summary: Points of faith examined by scholastic divines are reduced to
+    four general heads called four bases or fundamental articles.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 7219-7227
+  quote_or_summary: The first basis concerns God’s attributes and unity, including
+    eternal, essential, and action attributes and what is proper, affirmable, or impossible
+    for God; disputes are assigned to named sects.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: 7228-7236
+  quote_or_summary: The second basis concerns predestination and justice, including
+    divine purpose and decree, human compulsion or cooperation, good and evil, and
+    what belongs to God’s will, power, and knowledge; named sects dispute these points.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: 7237-7242
+  quote_or_summary: The third basis concerns promises, threats, divine names and decisions,
+    faith, repentance, forbearance, infidelity, and error; named sects dispute these
+    topics.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: 7243-7256
+  quote_or_summary: The fourth basis concerns history and reason in religion, prophetic
+    mission, the office of Imam, moral valuation, law or nature as grounds for permission
+    and prohibition, divine grace, prophetic innocence, and succession or consent
+    regarding the Imam; named sects dispute these matters.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is doctrinal and classificatory rather than narrative. Motif
+    candidates are therefore treated as theological pattern candidates, with limited
+    taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No literal instances of the available symbol taxonomy items cave, fire, milk, mountain, serpent, tree, or water occur in this passage. Comparison claims are left empty because the passage does not itself make a cross-tradition or motif-family comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l7210-l7260
+  passage_sha256=ae24e21781c781b728b0d462ae8183b9e5b928870967c72561457b9d779baaa1
+

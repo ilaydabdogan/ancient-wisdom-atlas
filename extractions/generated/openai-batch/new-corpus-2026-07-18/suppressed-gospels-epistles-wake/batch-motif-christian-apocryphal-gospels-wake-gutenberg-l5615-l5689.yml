@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l5615-l5689
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER IV. / CHAPTER I. / CHAPTER II. / CHAPTER III.; lines 5615-5689
+  start: '5615'
+  end: '5689'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: My kingdom is not of this world
+  summary: Pilate declares that he finds no fault in Jesus. The Jews reject this and
+    say Jesus was brought because he is wicked, while also saying they cannot lawfully
+    put anyone to death. Pilate questions Jesus privately about kingship. Jesus says
+    his kingdom is not of this world and that he came to bear witness to the truth.
+    Pilate asks what truth is, and Jesus says truth is from heaven and is also on
+    earth among those who judge rightly.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pilate leaves the hall and tells the Jews that he finds no fault in Jesus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Jews answer that they would not have brought Jesus to Pilate if he were
+    not a wicked person.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pilate tells the Jews to take Jesus and try him according to their law.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Jews say it is not lawful for them to put anyone to death.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pilate enters the hall again, calls Jesus by himself, and asks whether he
+    is the king of the Jews.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Jesus answers that his kingdom is not of this world and that his servants
+    would fight if his kingdom were of this world.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Jesus says he was born and came into the world to bear witness to the truth,
+    and that everyone who is of the truth hears his voice.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Pilate asks Jesus what truth is.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Jesus says truth is from heaven, and also says truth is on earth among those
+    who exercise judgment while governed by truth.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Pilate
+  description: The official who examines Jesus, addresses the Jews, declares that
+    he finds no fault in Jesus, and questions Jesus about kingship and truth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Jesus
+  description: The accused man questioned by Pilate; he answers concerning his kingdom,
+    his purpose, and truth.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: the Jews
+  description: A collective group who bring Jesus to Pilate, respond to Pilate’s declaration,
+    and state that they cannot lawfully put anyone to death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: examining judge or political authority
+  assigned_to:
+  - fig:1
+  basis: Pilate questions Jesus, speaks about legal authority, and declares whether
+    he finds fault in him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: accused person under examination
+  assigned_to:
+  - fig:2
+  basis: Jesus is delivered to Pilate by the Jewish nation and rulers and is questioned
+    by Pilate.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: otherworldly king claimant or questioned king
+  assigned_to:
+  - fig:2
+  basis: Pilate asks whether Jesus is king of the Jews; Jesus answers by describing
+    a kingdom not of this world.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: witness to truth
+  assigned_to:
+  - fig:2
+  basis: Jesus says he came into the world to bear witness to the truth.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: accusers or delivering group
+  assigned_to:
+  - fig:3
+  basis: The Jews say they brought Jesus to Pilate because he was wicked and state
+    limits on their power to put someone to death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: kingdom not of this world
+  literal_form: kingdom described as not belonging to this world
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: heaven
+  literal_form: heaven named as the source of truth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: earth
+  literal_form: earth named as a place where truth may be found among truthful judges
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Pilate’s public statement to the Jews
+  summary: Pilate leaves the hall, declares that he finds no fault in Jesus, and disputes
+    with the Jews over who should judge or execute him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Private questioning about kingship
+  summary: Pilate calls Jesus by himself and asks if he is king of the Jews. Jesus
+    replies that his kingdom is not of this world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Dialogue about truth
+  summary: Jesus says he came to bear witness to the truth. Pilate asks what truth
+    is. Jesus states that truth is from heaven and is on earth among judges who are
+    governed by truth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: innocent accused before a ruler
+  taxonomy_refs: []
+  basis: Pilate publicly says he finds no fault in Jesus, while the Jews maintain
+    that Jesus has been brought because he is wicked.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents Pilate’s finding of no fault, but it does not narrate
+    a full acquittal or final verdict within this excerpt.
+- id: motif:2
+  label: otherworldly kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Jesus is asked whether he is king of the Jews and replies that his kingdom
+    is not of this world.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage emphasizes non-worldly
+    kingship more than dynastic or earthly royal legitimacy.
+- id: motif:3
+  label: heavenly truth and righteous judgment
+  taxonomy_refs:
+  - wisdom
+  basis: Jesus teaches that truth is from heaven and that truth is present on earth
+    among those who exercise judgment under truth.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The motif identification is based on a wisdom discourse about truth and
+    judgment; no separate wisdom figure is named.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: CHAPTER III.1
+  quote_or_summary: Pilate says to the Jews, “I find no fault in that man.”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: CHAPTER III.2
+  quote_or_summary: The Jews reply that if Jesus had not been wicked, they would not
+    have brought him before Pilate.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: CHAPTER III.3-5
+  quote_or_summary: Pilate tells the Jews to try Jesus by their law and says the command
+    not to kill belongs to them, not to him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: CHAPTER III.4
+  quote_or_summary: The Jews say, “It is not lawful for us to put any one to death.”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: CHAPTER III.6-8
+  quote_or_summary: Pilate calls Jesus by himself, asks whether he is king of the
+    Jews, and says the Jewish nation and rulers delivered him up.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: CHAPTER III.9
+  quote_or_summary: Jesus says, “My kingdom is not of this world,” and adds that his
+    servants would fight if it were of this world.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: summary
+  locator: CHAPTER III.10
+  quote_or_summary: Jesus says he was born and came into the world to bear witness
+    to the truth, and those who are of the truth hear his voice.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: CHAPTER III.11
+  quote_or_summary: Pilate asks, “What is truth?”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:9
+  type: summary
+  locator: CHAPTER III.12-14
+  quote_or_summary: Jesus says truth is from heaven; after Pilate infers truth is
+    not on earth, Jesus says truth is on earth among those who have judgment and are
+    governed by truth.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and figures are explicit in the passage. Motif mapping
+    is moderate because available taxonomy categories are broad and the excerpt does
+    not itself make comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not explicitly support comparison to another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l5615-l5689
+  passage_sha256=e9a018461d064690b450c248c4d4a0244dd4836f4bee27a1b8db183f31fc2c14
+

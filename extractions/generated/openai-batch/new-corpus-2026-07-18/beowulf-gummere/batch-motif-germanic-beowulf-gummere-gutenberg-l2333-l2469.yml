@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l2333-l2469
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: UNFERTH TAUNTS BEOWULF. / BEOWULF SILENCES UNFERTH.--GLEE IS HIGH. / ALL
+    SLEEP SAVE ONE. / GRENDEL AND BEOWULF.; lines 2333-2469
+  start: '2333'
+  end: '2469'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Grendel comes from the moor to Heorot, enters the hall, sees the sleeping
+    retainers, kills and eats one sleeping warrior, and then grapples with Beowulf.
+    Grendel discovers Beowulf's grip is stronger than any he has encountered, wants
+    to flee back toward his covert and the fen-moors, and howls in defeat while the
+    hall shakes but remains standing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Grendel comes from under cloudy cliffs and the moor, is described as bearing
+    God's anger, and intends to entrap and kill someone in the hall-building.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Grendel goes toward the wine-joyous, gold-adorned building associated with
+    Hrothgar, and the passage says this is not his first visit there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The door opens after Grendel touches it with his fingers, and he flings open
+    the entrance and enters the shining hall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Grendel's eyes are described as glimmering with a light likened to fire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Grendel sees many heroes and thanes sleeping together in the hall and intends
+    to take life from each before morning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that Providence would not permit Grendel to eat any more
+    men in the night-time.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Grendel seizes a sleeping soldier, tears him, drinks his blood, and eats parts
+    of his body.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A hand-grapple begins between Grendel and Beowulf, and Grendel discovers that
+    he has not encountered a greater hand-grapple in any other man.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Grendel becomes fearful and wants to flee to his covert, the devils' assembly,
+    and the fen-moors.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: Beowulf recalls his speech of the evening, stands upright, and seizes Grendel
+    firmly.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The hall echoes and rattles during the struggle; mead-benches bend, but the
+    hall withstands the combat because it is firmly fastened with iron.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The North Danes hear Grendel's weeping, plaining, howling, and hell-bound
+    bewailing, while Beowulf holds him firmly.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Grendel
+  description: A monster, horrible demon, and foeman of heaven who comes from the
+    moor/fens to Heorot, kills a sleeping warrior, and grapples with Beowulf.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Beowulf / Higelac's kinsman
+  description: A stout-hearted warrior and kinsman of Higelac who waits in the hall,
+    recalls his evening speech, seizes Grendel, and holds him firmly.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: sleeping soldier
+  description: A warrior asleep in the hall whom Grendel seizes, kills, and consumes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: heroes, thanes, and Danes in Heorot
+  description: The men sleeping in the hall and the Danes who are terrified by Grendel's
+    cries during the struggle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: nocturnal monster-attacker
+  assigned_to:
+  - fig:1
+  basis: Grendel comes from the moor at night, enters the hall, plans to kill the
+    sleepers, and devours a sleeping soldier.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: defending hero and grappler
+  assigned_to:
+  - fig:2
+  basis: Beowulf seizes Grendel, proves stronger in hand-grapple, and holds him firmly.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:3
+  label: first victim in the hall
+  assigned_to:
+  - fig:3
+  basis: The sleeping soldier is the one whom Grendel immediately seizes and eats
+    before the grapple with Beowulf.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: threatened hall-community and witnesses
+  assigned_to:
+  - fig:4
+  basis: The heroes and thanes sleep in the hall, and the Danes hear Grendel's cries
+    and experience terror.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: fen-moor approach and covert
+  literal_form: cloudy cliffs, moor, covert, fen-moors
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: gold-hall / wine-hall
+  literal_form: wine-joyous building, gold-hall, shining hall-pavement, mead-benches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:3
+  label: fire imagery
+  literal_form: fire-hinges; eyes likest to fire; fire that might consume the hall
+    in smoke
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: iron-fastened hall
+  literal_form: fetters of iron and armorer's fastenings holding the hall firm
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: hand-grip
+  literal_form: hand-grapple and grip between Grendel and Beowulf
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Grendel approaches Heorot
+  summary: Grendel comes from the moor beneath cloudy cliffs and goes toward the wine-joyous
+    gold-hall associated with Hrothgar.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Entry into the sleeping hall
+  summary: Grendel opens the door, enters the shining hall, sees the sleeping heroes
+    and thanes, and plans to kill them before morning.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Grendel devours a sleeping warrior
+  summary: Grendel quickly seizes a sleeping soldier, tears him, drinks his blood,
+    and eats his hands and feet.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Beowulf and Grendel grapple
+  summary: Grendel encounters Beowulf's hand-grip, realizes it is stronger than any
+    he has met, and becomes fearful; Beowulf stands and seizes him firmly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: The hall shakes and Grendel cries out
+  summary: The combat makes the hall echo and rattle, bends the mead-benches, terrifies
+    the Danes, and produces Grendel's weeping and howling while Beowulf holds him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Nocturnal monster attack on a communal hall
+  taxonomy_refs: []
+  basis: Grendel comes from the moor to the gold-hall at night, enters among sleeping
+    retainers, and intends to kill and eat men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The label describes only the passage-level pattern; no external parallel
+    is asserted.
+- id: motif:2
+  label: Hero's hand-to-hand defeat of a man-eating monster
+  taxonomy_refs: []
+  basis: Beowulf engages Grendel in hand-grapple, Grendel discovers Beowulf's superior
+    grip, and Beowulf holds him firmly.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage excerpt ends before the full outcome of the fight is narrated.
+- id: motif:3
+  label: Providential limit on the monster's predation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says Providence would not permit Grendel to eat any more men
+    in the night-time, immediately before Beowulf's confrontation with him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage explicitly invokes Providence, but it does not present a formal
+    judgment scene.
+- id: motif:4
+  label: Monster attempts flight back to wild or demonic refuge
+  taxonomy_refs: []
+  basis: After feeling Beowulf's grip, Grendel becomes fearful and wants to flee to
+    his covert, the devils' assembly, and the fen-moors.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader taxonomy
+    reference is assigned.
+- id: motif:5
+  label: Heroic combat tests the built hall
+  taxonomy_refs: []
+  basis: The struggle makes the palace re-echo, terrifies the Danes, bends mead-benches,
+    and nearly threatens the hall, though it remains standing because of iron fastenings.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The motif is architectural and scene-based; it is not tied to a supplied
+    motif-family taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: source lines 2333-2469; passage opening, poem lines 1-4
+  quote_or_summary: Grendel comes from the cloudy cliffs and moor, is described as
+    bearing God's anger, and intends to entrap and kill an earthman in the hall-building.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: source lines 2333-2469; poem lines 5-16
+  quote_or_summary: Grendel goes to the wine-joyous gold-hall of earthmen, a home
+    of Hrothgar he has visited before; after his fingers touch the door, it opens,
+    he flings the entrance open, and he steps inside.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: source lines 2333-2469; poem lines 17-24
+  quote_or_summary: Grendel strides angrily; his eyes glimmer with a light likened
+    to fire. He sees heroes and thanes sleeping in a circle and exults in the thought
+    of taking their lives before morning.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: source lines 2333-2469; poem lines 25-29
+  quote_or_summary: '"Providence willed not / To permit him any more of men under
+    heaven / To eat in the night-time."'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:5
+  type: summary
+  locator: source lines 2333-2469; poem lines 30-35
+  quote_or_summary: Grendel quickly seizes a sleeping soldier, tears him, bites his
+    body, drinks blood, swallows mouthfuls, and eats the dead man's feet and hands.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: source lines 2333-2469; poem lines 36-48
+  quote_or_summary: As Grendel reaches the stout-hearted warrior, the hand-grapple
+    begins; Grendel discovers that no greater hand-grapple exists among men under
+    heaven, becomes fearful, and thinks of flight to his covert and the devils' assembly.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: source lines 2333-2469; poem lines 49-56
+  quote_or_summary: Higelac's kinsman recalls his evening speech, stands straight,
+    and seizes Grendel; Grendel's fingers crackle, and he seeks a chance to flee to
+    the fen-moors because he knows the strength of his opponent's grip.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: source lines 2333-2469; poem lines 57-74
+  quote_or_summary: The attack on Heorot is called ill-taken for Grendel; the palace
+    echoes, Danes are terrified, the two combatants rage, the building rattles, mead-benches
+    bend, and the hall withstands because it is firmly fastened with iron; fire is
+    named as the expected force that could consume it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: source lines 2333-2469; poem lines 75-81
+  quote_or_summary: The North Danes hear Grendel's weeping, plaining, horror-howling,
+    and hell-bound bewailing; Beowulf, described as strongest in main-strength among
+    men of that era, holds him too firmly.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    passage-level candidates; no external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnotes in the supplied passage were not used for motif extraction except as part of the provided text context; the main narrative supplied sufficient evidence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l2333-l2469
+  passage_sha256=413e90e4096eb0bfa0a13497b9aa108d3f2c9c9fde9b67dde471410896d4af23
+

@@ -1,0 +1,781 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l18383-l18502
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: ODDRUNARGRATR / THE LAMENT OF ODDRUN / INTRODUCTORY NOTE / NOTES; lines 18383-18502
+  start: '18383'
+  end: '18502'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Bellows''s notes identify figures and variant narrative materials associated
+    with Oddrun''s Lament: Oddrun''s kinship with Atli and Brynhild, her skill in
+    birth-runes, her love for Gunnar, obscure eastern geography, manuscript and speaker
+    uncertainties, appeals to charms and healing/love deities, Brynhild''s Valkyrie
+    association, variant accounts of Brynhild being given to Gunnar after a siege
+    or won for him through a ring of flames, and references to marriage gold and Sigurth''s
+    treasure from Fafnir.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Oddrun is described as the sister of Atli and Brynhild and as proficient in
+    birth-runes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Oddrun is connected with a love relationship involving Gunnar, who is identified
+    as Guthrun's brother and Brynhild's husband.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Morningland is described as geographically obscure, apparently identical with
+    Hunland, and probably a vague country in the East.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notes repeatedly state that manuscript speakers, stanza order, and line
+    placement are uncertain or editorially reconstructed.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note on charms refers back to Oddrun's birth-runes and compares them with
+    Sigrdrifumol.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Frigg is described in relation to healing, and Freyja is described as a friend
+    of lovers.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Vilmund is identified as the likely referent of 'Hogni's slayer,' though the
+    note says there is otherwise little connecting him with Hogni's death unless he
+    cut out Hogni's heart.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Buthli is identified as the father of Oddrun, Atli, and Brynhild.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note says making Buthli plan the marriage of Oddrun and Gunnar may be either
+    the poet's invention or evidence of a lost version of the legend.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Brynhild is called a 'wish-maid,' explained as a Valkyrie, and Valkyries are
+    described as choosing slain heroes for Valhall in fulfillment of Othin's wish.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: One underlying story has Gunnar and Sigurth laying siege to Atli's city, with
+    Atli giving Brynhild to Gunnar as wife and winning her consent by falsely representing
+    Gunnar as Sigurth.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: A different version has Sigurth winning Brynhild for Gunnar by riding through
+    a ring of flames.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: Rings are interpreted as probably Gunnar's offered marriage gold for Oddrun's
+    hand.
+  category: object
+  evidence_refs:
+  - ev:12
+- id: obs:14
+  text: Grani's burden is identified as the treasure won by Sigurth from Fafnir.
+  category: object
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Oddrun
+  description: Sister of Atli and Brynhild; proficient in birth-runes; associated
+    with love for Gunnar.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Atli
+  description: Brother of Oddrun and Brynhild; king of the Huns in the notes; in one
+    version gives Brynhild to Gunnar as wife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: fig:3
+  name_or_label: Brynhild
+  description: Sister of Oddrun and Atli; Gunnar's wife; elsewhere described as a
+    wish-maid or Valkyrie; given to Gunnar in one version and won for him through
+    flames in another.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: Gunnar
+  description: Guthrun's brother, Brynhild's husband, and Oddrun's beloved; appears
+    in marriage and siege traditions involving Brynhild and Oddrun.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:5
+  name_or_label: Guthrun
+  description: Identified as Gunnar's sister.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Vilmund
+  description: Identified as the likely referent of 'Hogni's slayer.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Hogni
+  description: A figure whose death is associated uncertainly with Vilmund; the note
+    mentions the cutting out of Hogni's heart.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Buthli
+  description: Father of Oddrun, Atli, and Brynhild; possibly represented as planning
+    Oddrun and Gunnar's marriage.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Sigurth
+  description: Called Fafnir's slayer; in one version besieges Atli's city with Gunnar;
+    in another wins Brynhild for Gunnar by riding through flames; won treasure from
+    Fafnir.
+  role_refs:
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:13
+- id: fig:10
+  name_or_label: Frigg
+  description: Mentioned as a goddess associated with healing.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Freyja
+  description: Mentioned as a friend of lovers.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:5
+- id: fig:12
+  name_or_label: Valkyries
+  description: Explained as beings who fulfill Othin's wish by choosing slain heroes
+    for Valhall.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:9
+- id: fig:13
+  name_or_label: Othin
+  description: The Valkyries fulfill Othin's wish by choosing slain heroes for Valhall.
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:9
+- id: fig:14
+  name_or_label: Fafnir
+  description: A figure from whom Sigurth won treasure; Sigurth is called Fafnir's
+    slayer.
+  role_refs:
+  - role:16
+  evidence_refs:
+  - ev:10
+  - ev:13
+roles:
+- id: role:1
+  label: birth-rune practitioner
+  assigned_to:
+  - fig:1
+  basis: Oddrun is said to be proficient in birth-runes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lover or beloved in disputed relationship
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The note refers to Oddrun's love for Gunnar.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: marriage giver in variant tradition
+  assigned_to:
+  - fig:2
+  basis: Atli is said to give Brynhild to Gunnar as wife in the siege version.
+  evidence_refs:
+  - ev:10
+- id: role:4
+  label: bride or wife in variant traditions
+  assigned_to:
+  - fig:3
+  basis: Brynhild is identified as Gunnar's wife and as given or won for him in variant
+    accounts.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  - ev:11
+- id: role:5
+  label: Valkyrie or wish-maid
+  assigned_to:
+  - fig:3
+  basis: The note explains 'wish-maid' as a Valkyrie and says the reference to Brynhild
+    as a Valkyrie does not fit all versions.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: suitor or recipient of bride
+  assigned_to:
+  - fig:4
+  basis: Gunnar receives Brynhild as wife in one version and is associated with marriage
+    gold for Oddrun in another note.
+  evidence_refs:
+  - ev:10
+  - ev:12
+- id: role:7
+  label: possible slayer
+  assigned_to:
+  - fig:6
+  basis: Vilmund is called the obvious referent of 'Hogni's slayer,' with qualifications.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: victim of killing
+  assigned_to:
+  - fig:7
+  basis: The note discusses Hogni's death and the cutting out of his heart.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: father and possible marriage planner
+  assigned_to:
+  - fig:8
+  basis: Buthli is identified as father of Oddrun, Atli, and Brynhild, and possibly
+    as planning the marriage of Oddrun and Gunnar.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: dragon-slayer or named slayer
+  assigned_to:
+  - fig:9
+  basis: The note glosses 'Fafnir's slayer' as Sigurth.
+  evidence_refs:
+  - ev:10
+- id: role:11
+  label: proxy winner of bride
+  assigned_to:
+  - fig:9
+  basis: One version has Sigurth winning Brynhild for Gunnar by riding through a ring
+    of flames.
+  evidence_refs:
+  - ev:11
+- id: role:12
+  label: healing-associated goddess
+  assigned_to:
+  - fig:10
+  basis: The note mentions Frigg as a goddess of healing.
+  evidence_refs:
+  - ev:5
+- id: role:13
+  label: lover-associated goddess
+  assigned_to:
+  - fig:11
+  basis: The note mentions Freyja as the friend of lovers.
+  evidence_refs:
+  - ev:5
+- id: role:14
+  label: chooser of slain heroes
+  assigned_to:
+  - fig:12
+  basis: Valkyries are described as choosing slain heroes for Valhall.
+  evidence_refs:
+  - ev:9
+- id: role:15
+  label: divine will behind selection of slain
+  assigned_to:
+  - fig:13
+  basis: The Valkyries are said to fulfill Othin's wish in choosing slain heroes.
+  evidence_refs:
+  - ev:9
+- id: role:16
+  label: source of won treasure
+  assigned_to:
+  - fig:14
+  basis: Grani's burden is glossed as treasure won by Sigurth from Fafnir.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: birth-runes or charms
+  literal_form: Birth-runes / charms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: vague eastern land
+  literal_form: Morningland / Hunland / country vaguely in the East
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ring of flames
+  literal_form: Ring of flames
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:11
+- id: sym:4
+  label: marriage gold
+  literal_form: Rings offered for Oddrun's hand
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:5
+  label: won treasure
+  literal_form: Grani's burden, the treasure won by Sigurth from Fafnir
+  associated_figures:
+  - fig:9
+  - fig:14
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:6
+  label: Valhall selection
+  literal_form: Choosing slain heroes for Valhall
+  associated_figures:
+  - fig:12
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Oddrun characterized by birth-rune skill
+  summary: The notes present Oddrun as a sister of Atli and Brynhild who is proficient
+    in birth-runes, with charms compared to Sigrdrifumol.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Obscure eastern geography
+  summary: Morningland is discussed as obscure, apparently the same as Hunland, and
+    probably a vague eastern country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Possible secret meeting of lovers
+  summary: A note on a draught says it apparently refers to a secret meeting of the
+    lovers, in the context of Oddrun and Gunnar's affair at Atli's court.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:14
+- id: scene:4
+  label: Possible planned marriage of Oddrun and Gunnar
+  summary: The notes say that Buthli planning the marriage of Oddrun and Gunnar may
+    be poetic invention or may preserve a lost version of the legend.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:12
+- id: scene:5
+  label: Valkyries choose the slain
+  summary: The notes explain the term wish-maid by saying Valkyries fulfill Othin's
+    wish in choosing slain heroes for Valhall.
+  figure_refs:
+  - fig:3
+  - fig:12
+  - fig:13
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Siege and deceptive marriage arrangement
+  summary: In one underlying story, Gunnar and Sigurth lay siege to Atli's city; Atli
+    gives Brynhild to Gunnar as wife, securing her consent by falsely identifying
+    Gunnar as Sigurth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+- id: scene:7
+  label: Bride won through a ring of flames
+  summary: A different tradition has Sigurth winning Brynhild for Gunnar by riding
+    through a ring of flames.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:11
+- id: scene:8
+  label: Treasure from Fafnir
+  summary: The note glosses Grani's burden as the treasure Sigurth won from Fafnir.
+  figure_refs:
+  - fig:9
+  - fig:14
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: magical birth-rune knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Oddrun is explicitly described as proficient in birth-runes, and the notes
+    compare the charms to another Eddic passage.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage is editorial notes rather than the poem itself; it identifies
+    birth-runes but gives little narrative action here.
+- id: motif:2
+  label: divine or semi-divine selection of the heroic dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: Valkyries are described as fulfilling Othin's wish by choosing slain heroes
+    for Valhall.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The note explains a term and does not narrate a specific death-selection
+    episode in this passage.
+- id: motif:3
+  label: marriage by exchange or compensation
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Atli gives Brynhild to Gunnar as wife in one variant, and rings are interpreted
+    as Gunnar's offered marriage gold for Oddrun's hand.
+  evidence_refs:
+  - ev:10
+  - ev:12
+  confidence: medium
+  cautions: The exchange is political or marital in the note; the available taxonomy
+    term is broader than the literal evidence.
+- id: motif:4
+  label: bride obtained through deception or proxy identity
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Brynhild's consent to marry Gunnar is won by falsely representing Gunnar
+    as Sigurth; another version has Sigurth win Brynhild for Gunnar.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage presents variant traditions and emphasizes their contradiction;
+    it does not provide the full narrative.
+- id: motif:5
+  label: fiery barrier crossed to win a bride
+  taxonomy_refs: []
+  basis: One version is summarized as Sigurth winning Brynhild for Gunnar by riding
+    through a ring of flames.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: No available motif-family taxonomy precisely matches this fire-barrier
+    bride-winning pattern; only the symbol taxonomy supports fire.
+- id: motif:6
+  label: treasure won from a slain adversary
+  taxonomy_refs: []
+  basis: Grani's burden is glossed as the treasure won by Sigurth from Fafnir, and
+    Sigurth is called Fafnir's slayer.
+  evidence_refs:
+  - ev:10
+  - ev:13
+  confidence: medium
+  cautions: The note does not describe the winning of the treasure in detail.
+comparison_claims:
+- id: claim:1
+  claim: Oddrun's birth-runes or charms are explicitly compared by the note to Sigrdrifumol
+    stanza 8.
+  claim_level: same_motif
+  target: Sigrdrifumol 8 birth-rune or charm material
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a cross-reference and does not quote the compared
+    stanza.
+- id: claim:2
+  claim: The healing function associated with Frigg is compared by the note to Svipdagsmol
+    52.
+  claim_level: same_function
+  target: Svipdagsmol 52 healing association of Frigg
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note only cites the comparison; the target passage is not included
+    here.
+- id: claim:3
+  claim: The lover-supporting function associated with Freyja is compared by the note
+    to Grimnismol 14.
+  claim_level: same_function
+  target: Grimnismol 14 Freyja as friend of lovers
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The target passage is not present, so the extraction records only the
+    editorial cross-reference.
+- id: claim:4
+  claim: The siege-and-deceptive-marriage version involving Gunnar, Sigurth, Atli,
+    and Brynhild is identified as the story used in Sigurtharkvitha en skamma and
+    referred to in Guthrunarkvitha I.
+  claim_level: same_motif
+  target: Sigurtharkvitha en skamma stanzas 32-39 and Guthrunarkvitha I stanza 24
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs:
+  - ev:11
+  confidence: high
+  limitations: The note also says this version is utterly at variance with the ring-of-flames
+    version.
+- id: claim:5
+  claim: The siege-and-deceptive-marriage version is described as probably more closely
+    akin to early German traditions, with a comparison to Brynhild in the Nibelungenlied
+    as a queen ruling lands and peoples.
+  claim_level: common_inheritance
+  target: Early German traditions and the Nibelungenlied portrayal of Brynhild
+  evidence_refs:
+  - ev:15
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editor's historical-literary judgment summarized in a note,
+    without detailed comparative evidence in the passage.
+- id: claim:6
+  claim: The ring-of-flames bride-winning account is explicitly contrasted with the
+    siege-and-deceptive-marriage account as a contradictory version of the Brynhild-for-Gunnar
+    tradition.
+  claim_level: same_function
+  target: Alternative Brynhild-winning traditions involving Gunnar and Sigurth
+  evidence_refs:
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns narrative function within variant traditions, not
+    proven historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18383-18502; prose note and note 6 context
+  quote_or_summary: Oddrun is identified as sister of Atli and Brynhild, proficient
+    in birth-runes, and in love with Gunnar, Guthrun's brother and Brynhild's husband.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: note 1
+  quote_or_summary: Morningland is said to be geographically obscure, apparently identical
+    with Hunland, and probably no more than a vague eastern country.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: notes 3-5, 9-15, 19-20
+  quote_or_summary: The notes discuss spurious lines, missing half-lines, unnamed
+    speakers, conjectural additions, and transposed stanza order in the manuscript
+    and editions.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: note 6
+  quote_or_summary: The note glosses charms by comparing them to Sigrdrifumol stanza
+    8, in connection with Oddrun's birth-runes.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: note 8
+  quote_or_summary: Frigg is cited as a goddess of healing, and Freyja as the friend
+    of lovers, with cross-references to Svipdagsmol and Grimnismol.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: note 7
+  quote_or_summary: Vilmund is identified as the obvious referent of 'Hogni's slayer,'
+    though the note qualifies the connection with Hogni's death and mentions the cutting
+    out of Hogni's heart.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: note 13
+  quote_or_summary: Buthli is identified as the father of Oddrun, Atli, and Brynhild.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: note 14
+  quote_or_summary: The note says that making Buthli plan the marriage of Oddrun and
+    Gunnar may be poetic invention or may point to a lost version of the legend.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: note 15
+  quote_or_summary: Brynhild is referred to as a wish-maid, explained as a Valkyrie;
+    Valkyries are said to fulfill Othin's wish by choosing slain heroes for Valhall.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: note 16
+  quote_or_summary: One version has Gunnar and Sigurth besieging Atli's city, after
+    which Atli gives Brynhild to Gunnar and wins her consent by falsely presenting
+    Gunnar as Sigurth; Sigurth is also glossed as Fafnir's slayer.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: note 16
+  quote_or_summary: The note contrasts another version in which Sigurth wins Brynhild
+    for Gunnar by riding through a ring of flames.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: note 19
+  quote_or_summary: Rings are interpreted as more probably Gunnar's offered marriage
+    gold for Oddrun's hand, though another interpretation as payment for Brynhild's
+    death is mentioned.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: note 20
+  quote_or_summary: Grani's burden is glossed as the treasure won by Sigurth from
+    Fafnir.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: summary
+  locator: note 11
+  quote_or_summary: Borgny is said to have been present at Atli's court while Oddrun
+    and Gunnar's love affair was in progress, and a draught is interpreted as referring
+    to a secret meeting of the lovers.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:15
+  type: summary
+  locator: note 16
+  quote_or_summary: The note says the siege-and-marriage version is probably closer
+    to early German traditions and compares Brynhild in the Nibelungenlied as a queen
+    ruling lands and peoples.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial notes section rather than a continuous mythic
+    narrative. Extraction is reliable for named relationships, cross-references, and
+    variant-tradition summaries, but many details are explicitly uncertain or conjectural.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied line-range passage and metadata were used. Quotations were avoided in favor of concise summaries.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l18383-l18502
+  passage_sha256=31f3b6da4ec218c35d6d1fd9fe8f1d5bd384eb9b0d0b3a24f6a45c0484da2764
+

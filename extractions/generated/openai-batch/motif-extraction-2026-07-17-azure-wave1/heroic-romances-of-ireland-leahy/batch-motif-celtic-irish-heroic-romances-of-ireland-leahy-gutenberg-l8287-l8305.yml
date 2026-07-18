@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8287-l8305
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE COMBAT AT THE FORD / PAGE 118 / PAGE 121 / PAGE 124; lines 8287-8305
+  start: '8287'
+  end: '8305'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"woe shall be to him who goeth that journey."'
+  summary: 'The passage gives corrected readings for lines in a poem: a weapon-point
+    may pass through a man; a speaker warns an addressee not to go, saying the departure
+    to encounter the Rock of Ulster will bring sickness, distress, bad outcome, long
+    remembrance, and woe; another line states refusal to hold back to please someone.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A corrected line says that a male figure may take the point of a weapon through
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A speaker says it would be better for the addressee to stay.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the addressee's threats will not be gentle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker predicts that someone will have sickness on account of the addressee's
+    action or threats.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The departure is described as distressful and directed toward an encounter
+    with the Rock of Ulster.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker predicts the venture may turn out ill, be long remembered, and
+    bring woe to the one who goes on the journey.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A corrected line says, "I will not keep back to please you."
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker of the warning
+  description: The voice that warns the addressee to stay and predicts distress, sickness,
+    ill outcome, remembrance, and woe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: warned addressee
+  description: The person addressed as "thee" and warned against departing to encounter
+    the Rock of Ulster.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Rock of Ulster
+  description: A named entity or epithet presented as the one to be encountered after
+    departure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: man pierced by weapon-point
+  description: A male figure referred to as possibly taking the point of a weapon
+    through him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: someone who shall have sickness
+  description: An unspecified person predicted to suffer sickness on that account.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: warner
+  assigned_to:
+  - fig:1
+  basis: The speaker tells the addressee it would be better to stay and forecasts
+    negative consequences.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: warned traveler or combatant
+  assigned_to:
+  - fig:2
+  basis: The addressee is told to stay and is associated with threats, departure,
+    venture, and journey.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: encountered opponent or destination
+  assigned_to:
+  - fig:3
+  basis: The stanza describes departure "to encounter the Rock of Ulster."
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: potential wounded man
+  assigned_to:
+  - fig:4
+  basis: The corrected line says he may take a weapon-point through him.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: predicted sufferer
+  assigned_to:
+  - fig:5
+  basis: The stanza says there will be someone who shall have sickness on that account.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: weapon point
+  literal_form: point of a weapon
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: journey of woe
+  literal_form: departure / journey to encounter the Rock of Ulster
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: warning before encounter
+  summary: A speaker advises the addressee to stay, describes the addressee's threats,
+    and predicts sickness, distress, ill outcome, lasting remembrance, and woe if
+    the addressee departs to encounter the Rock of Ulster.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: possible weapon wound
+  summary: A corrected line states that a male figure may receive the point of a weapon
+    through him.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: refusal to hold back
+  summary: A corrected line states that the speaker will not keep back to please the
+    person addressed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ominous departure toward dangerous encounter
+  taxonomy_refs:
+  - departure
+  basis: The stanza centers on a warned departure or journey to encounter the Rock
+    of Ulster, with predicted distress, illness, ill outcome, lasting remembrance,
+    and woe.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a textual correction note and contains only a short corrected
+    stanza; the broader narrative context is not included here.
+- id: motif:2
+  label: foretold wound by weapon
+  taxonomy_refs: []
+  basis: A corrected line states that a male figure may take the point of a weapon
+    through him.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The line is fragmentary in this passage and does not identify the combatants
+    or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8287-8288
+  quote_or_summary: 'Corrected line: a male figure may take the point of a weapon
+    through him.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: quote
+  locator: lines 8292-8303
+  quote_or_summary: Corrected stanza warns the addressee to stay; says the threats
+    will not be gentle; predicts sickness, distressful departure to encounter the
+    Rock of Ulster, ill outcome, long remembrance, and woe to the one who goes that
+    journey.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized with short quoted phrases only in
+    derived fields.
+- id: ev:3
+  type: quote
+  locator: line 8305
+  quote_or_summary: '"I will not keep back to please you."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quote used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mainly editorial correction text rather than a full narrative
+    episode. Literal extraction is straightforward, but figure identities and motif
+    classification require review against the surrounding poem.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text comparison beyond a possible departure motif candidate.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8287-l8305
+  passage_sha256=54bfbe117337dd760a8a3722b722536c0efced5d99f074a8772b0db47d7269b7
+

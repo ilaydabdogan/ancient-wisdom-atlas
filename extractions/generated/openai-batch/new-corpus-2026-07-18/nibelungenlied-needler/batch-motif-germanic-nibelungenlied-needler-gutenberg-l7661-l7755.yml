@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l7661-l7755
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: TWELFTH ADVENTURE / THIRTEENTH ADVENTURE / FOURTEENTH ADVENTURE / FIFTEENTH
+    ADVENTURE; lines 7661-7755
+  start: '7661'
+  end: '7755'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Fell down between his shoulders / full broad a linden leaf. / There may
+    he be smitten”"
+  summary: The passage recounts that Siegfried bathed in a dragon’s blood, but a linden
+    leaf left a vulnerable place between his shoulders. Hagen asks Kriemhild to mark
+    that place on Siegfried’s clothing, claiming he will protect him there. Kriemhild
+    plans to sew a secret cross, believing it will help Siegfried, while the narrator
+    states this betrays him. Hagen views the mark, sends secret messengers to cancel
+    the military pretext, and Gunther proposes a hunt in the Vosges forest, which
+    Hagen had advised. Siegfried agrees to join the hunt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Siegfried bathed in blood flowing from a wounded dragon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A broad linden leaf fell between Siegfried’s shoulders, leaving a place where
+    he could be struck.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hagen asks Kriemhild to sew a small token on Siegfried’s tunic, saying it
+    will show him where to protect Siegfried in battle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kriemhild says she will sew a small secret cross on Siegfried’s coat.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator states that Kriemhild thought the mark would help Siegfried but
+    thereby betrayed him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After seeing the token, Hagen secretly sends two men with tidings that Gunther’s
+    country has nothing more to fear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Gunther thanks Siegfried for his willingness to help and then proposes a hunt
+    for bear and boar in the Vosges forest.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that Hagen had counselled the hunting plan and calls him
+    dark and faithless.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Siegfried agrees to ride hunting with Gunther and asks for a huntsman and
+    a good hound.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Hagen tells Gunther how he will have the noble thane within his power.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: Valiant knight and Kriemhild’s knight; he bathed in dragon blood, has
+    a vulnerable place between his shoulders, rides out with Gunther’s men, and agrees
+    to join the hunt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Kriemhild
+  description: Queen and spouse of Siegfried; she reveals and marks the vulnerable
+    place because she believes Hagen will protect him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hagen of Tronje
+  description: Thane who asks for the token, inspects it, sends secret messengers,
+    counsels the hunting plan, and is called dark and faithless.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: King Gunther
+  description: Monarch who receives Siegfried’s aid, thanks him, and announces the
+    hunt in the Vosges forest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Royal Luedeger
+  description: Named royal figure reported as sending tidings that Gunther’s country
+    has nothing more to fear.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Two secret messengers
+  description: Two men whom Hagen sends secretly with tidings that cancel the hostile
+    menace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: marked vulnerable hero
+  assigned_to:
+  - fig:1
+  basis: Siegfried’s dragon-blood bath is incomplete because a linden leaf leaves
+    a place between his shoulders where he can be struck.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unwitting revealer of vulnerability
+  assigned_to:
+  - fig:2
+  basis: Kriemhild intends the secret cross to help protect Siegfried, but the narrator
+    says she betrays him by doing so.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: treacherous plotter
+  assigned_to:
+  - fig:3
+  basis: Hagen obtains the mark, sends secret tidings after viewing it, counsels the
+    hunt, and is explicitly described as faithless.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: kingly host arranging hunt
+  assigned_to:
+  - fig:4
+  basis: Gunther thanks Siegfried, proposes the Vosges hunt, and invites guests to
+    join.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: reported sender of reassuring tidings
+  assigned_to:
+  - fig:5
+  basis: The passage reports tidings attributed to royal Luedeger that Gunther’s country
+    has nothing to fear.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: secret message-bearers
+  assigned_to:
+  - fig:6
+  basis: Hagen sends two of his men secretly with the tidings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dragon blood
+  literal_form: Blood flowing from a wounded dragon, in which Siegfried bathes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: linden leaf
+  literal_form: A broad linden leaf that falls between Siegfried’s shoulders during
+    the dragon-blood bath.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: secret cross token
+  literal_form: A small secret cross sewn on Siegfried’s coat or tunic to identify
+    the vulnerable place.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Vosges forest hunt
+  literal_form: A hunt for wild bear and boar in the Vosges forest.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: huntsman and hound
+  literal_form: The huntsman and good hound requested by Siegfried to discover game.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dragon-blood bath and hidden vulnerable spot
+  summary: Siegfried is said to have bathed in the blood of a wounded dragon, but
+    a linden leaf left a vulnerable place between his shoulders.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hagen obtains the secret mark
+  summary: Hagen asks Kriemhild to sew a token on Siegfried’s clothing under the claim
+    that it will let him protect Siegfried; Kriemhild chooses a secret cross.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: False tidings after the token is viewed
+  summary: Hagen rides close enough to view the token, then secretly sends two men
+    with tidings that the danger to Gunther’s country has ended.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hunt proposed in the Vosges forest
+  summary: Gunther thanks Siegfried and proposes a hunt in the Vosges forest; the
+    passage states that Hagen counselled this plan.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Siegfried agrees to the hunt
+  summary: Siegfried agrees to ride hunting and asks for a huntsman and hound; Hagen
+    later tells Gunther how he will have the noble thane in his power.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: single vulnerable spot after protective immersion
+  taxonomy_refs: []
+  basis: Siegfried’s dragon-blood bath would appear protective, but the linden leaf
+    leaves one place between his shoulders where he can be struck.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the vulnerable point clearly, but it does not name
+    a broader motif family.
+- id: motif:2
+  label: unwitting betrayal of a loved one’s secret
+  taxonomy_refs: []
+  basis: Kriemhild gives Hagen the means to identify Siegfried’s vulnerable place
+    because she believes it will protect him, while the narrator says this betrays
+    Siegfried.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The extraction treats the betrayal as unwitting because the passage says
+    she expected the action to benefit Siegfried.
+- id: motif:3
+  label: protective mark turned into a fatal sign
+  taxonomy_refs: []
+  basis: The small token or secret cross is requested as a means of protection but
+    is used by Hagen to identify Siegfried’s vulnerable place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The fatal outcome is foreshadowed within this passage, though the actual
+    killing is not included in the supplied lines.
+- id: motif:4
+  label: false crisis used to redirect the hero
+  taxonomy_refs: []
+  basis: After Hagen views the token, secret messengers report that Gunther’s country
+    has nothing to fear, ending the battle-journey and turning events toward the hunt.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the cancellation as arranged by Hagen, but the broader
+    deception depends on surrounding narrative context not included here.
+- id: motif:5
+  label: hunting expedition as trap for the hero
+  taxonomy_refs: []
+  basis: Gunther proposes the hunt after Hagen has learned the secret mark; the passage
+    says Hagen counselled the hunt and then tells the king how the noble thane will
+    be in his power.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage prepares the trap but does not include its execution.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7661-7668; stanza 902
+  quote_or_summary: "“When from the wounded dragon / reeking flowed the blood,” Siegfried
+    bathed in it, but a “linden leaf” fell between his shoulders, leaving a place
+    where he may be struck."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: public_domain; short excerpt and summary from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 7669-7676; stanza 903
+  quote_or_summary: 'Hagen says: “Upon his tunic sew / Thou a little token,” so he
+    may know where to protect Siegfried; the narrator says Kriemhild “weened to save
+    the hero.”'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: public_domain; short excerpt and summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 7677-7692; stanzas 904-905
+  quote_or_summary: Kriemhild says she will sew “A little cross full secret”; the
+    narrator says she thought it would help, but “there alone did Kriemhild / her
+    own good knight betray.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: public_domain; short excerpt and summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7701-7716; stanzas 907-909
+  quote_or_summary: Siegfried rides out; Hagen rides near to view the tunic token,
+    then secretly sends two men with tidings that Gunther’s country has nothing to
+    fear and that royal Luedeger sent them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: public_domain; neutral summary from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 7717-7740; stanzas 910-912
+  quote_or_summary: Gunther thanks Siegfried and says he will ride hunting “the wild
+    bear and the boar / Away to the Vosges forest”; the passage adds, “The same had
+    counselled Hagen, / the full dark and faithless man.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: public_domain; short excerpt and summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7741-7748; stanza 913
+  quote_or_summary: Siegfried says that if Gunther rides hunting, he will gladly go
+    too, asking for a huntsman and good hound to discover game.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: public_domain; neutral summary from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 7749-7755; stanzas 914-915
+  quote_or_summary: After Siegfried rides to his spouse, Hagen tells the king “How
+    he within his power / would have the noble thane.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: public_domain; short excerpt and summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage explicitly states the vulnerable
+    spot, marked garment, secret tidings, and hunting plan. Motif labels are descriptive
+    and not mapped to a supplied taxonomy family because no available family exactly
+    matches the passage-level patterns. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references left empty where not directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l7661-l7755
+  passage_sha256=9d7814f63582d59e3e20aefd17a23587ebea63e169b395c8d21b6bf84cfce5d1
+

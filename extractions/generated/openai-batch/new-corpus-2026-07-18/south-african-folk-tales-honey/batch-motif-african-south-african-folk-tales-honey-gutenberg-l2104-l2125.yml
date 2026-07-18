@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2104-l2125
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE STORY OF HARE / THE WHITE MAN AND SNAKE / ANOTHER VERSION OF THE SAME
+    FABLE / CLOUD-EATING; lines 2104-2125
+  start: '2104'
+  end: '2125'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Jackal descended upon it, and ate of the cloud as if it were fat.
+  summary: In the tale titled “Cloud-Eating,” Jackal and Hyena encounter a white cloud
+    and eat from it. Hyena catches Jackal when he comes down, but Jackal later avoids
+    catching Hyena by claiming a thorn has pricked him; Hyena falls and is hurt, and
+    the tale explains this as the origin of Hyena’s shorter, smaller hind feet.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A white cloud rises while Jackal and Hyena are together.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jackal is described as descending upon the cloud and eating it as if it were
+    fat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jackal asks Hyena to catch him when he comes down and says he is going to
+    divide with her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hyena catches Jackal and breaks his fall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hyena goes up to the top of the cloud and eats there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hyena asks Jackal to catch her, and Jackal says he will catch her well.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Jackal holds up his hands while Hyena comes down from the cloud.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When Hyena is near, Jackal jumps to one side and says that a thorn has pricked
+    him and sticks in him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Hyena falls from above and is badly hurt.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage states that since that day Hyena’s hind feet have been shorter
+    and smaller than the front ones.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: Animal figure who eats the cloud, asks Hyena to catch him, later promises
+    to catch Hyena, and then jumps aside claiming a thorn has pricked him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Hyena
+  description: Animal figure addressed as Jackal’s sister and friend; she catches
+    Jackal, eats on the cloud, asks Jackal to catch her, falls, is hurt, and is said
+    afterward to have shorter and smaller hind feet.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive catcher
+  assigned_to:
+  - fig:1
+  basis: Jackal promises to catch Hyena but jumps aside and gives the excuse of a
+    thorn when she is near.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: injured trusting companion
+  assigned_to:
+  - fig:2
+  basis: Hyena catches Jackal, trusts his promise to catch her, then falls and is
+    hurt when he moves aside.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: cloud-eater
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both Jackal and Hyena eat from the cloud.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: white cloud
+  literal_form: A white cloud that rises and is treated as a place or substance from
+    which the animals eat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cloud as fat-like food
+  literal_form: The cloud is eaten “as if it were fat,” and Hyena also eats there
+    on top of the cloud.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: claimed thorn
+  literal_form: A thorn that Jackal says has pricked him and sticks in him; it appears
+    in his spoken excuse while he jumps aside.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: White cloud rises and Jackal eats
+  summary: Jackal and Hyena are together when a white cloud rises; Jackal descends
+    upon the cloud and eats it as if it were fat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hyena catches Jackal and eats on the cloud
+  summary: Jackal asks Hyena to catch him and says he will divide with her; Hyena
+    catches him, then goes up and eats on the top of the cloud.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jackal evades catching Hyena
+  summary: Hyena asks Jackal to catch her. Jackal promises to do so, holds up his
+    hands, then jumps aside claiming a thorn has pricked him, and Hyena falls and
+    is hurt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Hyena’s hind feet explained
+  summary: The narrator states that from that day Hyena’s hind feet have been shorter
+    and smaller than the front ones.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Trickster breaks a promise to catch a companion
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal promises to catch Hyena but jumps aside with the excuse of a thorn
+    when she descends.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly use the word “trickster,” but it calls
+    Jackal a rogue and shows deceptive action.
+- id: motif:2
+  label: Edible cloud or cloud as food
+  taxonomy_refs: []
+  basis: The white cloud is eaten by Jackal as if it were fat, and Hyena also eats
+    on the top of the cloud.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy symbol directly matches cloud or cloud-food.
+- id: motif:3
+  label: Ascent to cloud for food and descent from above
+  taxonomy_refs:
+  - ascent
+  basis: Hyena goes up to the top of the cloud to eat and later comes down from the
+    cloud; Jackal also comes down after eating.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage’s wording for Jackal says he “descended upon” the cloud rather
+    than explicitly saying he ascended first.
+- id: motif:4
+  label: Etiological injury explaining animal anatomy
+  taxonomy_refs: []
+  basis: Hyena’s fall and injury are followed by the statement that since that day
+    Hyena’s hind feet have been shorter and smaller than the front ones.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy motif directly names etiological animal anatomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2104-2107
+  quote_or_summary: "“CLOUD-EATING”; Jackal and Hyena are together when a white cloud
+    rises, and Jackal “ate of the cloud as if it were fat.”"
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 2109-2112
+  quote_or_summary: Jackal asks Hyena to catch him and says he will divide with her;
+    Hyena catches him, breaks his fall, then goes up and eats on the top of the cloud.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2114-2116
+  quote_or_summary: Hyena asks Jackal to catch her; the narration calls Jackal the
+    “greyish rogue,” and he tells her he will catch her well.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence with short quoted phrase.
+- id: ev:4
+  type: summary
+  locator: 2118-2121
+  quote_or_summary: Jackal holds up his hands as Hyena comes down, then jumps aside,
+    saying a thorn has pricked him; Hyena falls from above and is badly hurt.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 2123-2124
+  quote_or_summary: "“Since that day,” Hyena’s hind feet are said to have been “shorter
+    and smaller than the front ones.”"
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence and figures are explicit in the passage. Motif labels
+    are cautious and limited to the supplied taxonomy where applicable. No external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because no explicit passage-supported external comparison is present.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2104-l2125
+  passage_sha256=9199e34bf3b34ac22a23078bbebec441aeb9f3f32053becd796ba928d22df302
+

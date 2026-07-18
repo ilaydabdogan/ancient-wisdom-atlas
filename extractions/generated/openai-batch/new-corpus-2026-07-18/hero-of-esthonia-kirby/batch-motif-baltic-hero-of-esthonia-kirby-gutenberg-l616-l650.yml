@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l616-l650
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: INTRODUCTION / ESTHONIA / THE KALEVIPOEG / FOLK-TALES IN PROSE; lines 616-650
+  start: '616'
+  end: '650'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys Esthonian prose tale collections and translations,
+    especially Kreutzwald's 1866 collection, then briefly notes a comic tale about
+    seven tailors going to war in Turkey, and other tales involving a plot against
+    a chaste wife and a girl who clears herself from scandal by lifting and hurling
+    a huge stone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An important collection of Esthonian prose tales was edited by Kreutzwald
+    and published by the Finnish Literary Society at Helsingfors in 1866.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists later translations, notices, and collections of Esthonian
+    tales, including German, French, Russian, and German-language selections.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One tale is titled "How Seven Tailors went to war in Turkey," and the passage
+    gives the seven tailors' names.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The seven-tailors tale is described as a comic account of their cowardice.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Other tales include a plot against a chaste wife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Another noted tale involves a girl who clears herself from scandal by lifting
+    and hurling a huge stone.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Seven tailors
+  description: A group of tailors named First-man, One-strong, Two-strong, Three-strong,
+    Four-strong, Five-strong, and Last-man, said to go to war in Turkey in a comic
+    tale.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Chaste wife
+  description: A wife against whom a plot is said to be directed in one of the tales.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Girl who clears herself from scandal
+  description: A girl who clears herself from scandal by lifting and hurling a huge
+    stone.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: comic cowardly warriors
+  assigned_to:
+  - fig:1
+  basis: The tailors go to war in Turkey, and the story is described as a comic account
+    of their poltrooneries.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: target of a plot
+  assigned_to:
+  - fig:2
+  basis: The passage says other tales relate to a plot against a chaste wife.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: vindicated girl performing strength feat
+  assigned_to:
+  - fig:3
+  basis: The girl clears herself from scandal by lifting and hurling a huge stone.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: huge stone
+  literal_form: A huge stone lifted and hurled by the girl.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Seven tailors go to war in Turkey
+  summary: A summarized tale presents seven named tailors going to war in Turkey,
+    with the story described as comic and centered on their poltrooneries.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Plot and vindication tales briefly noted
+  summary: The passage briefly notes tales involving a plot against a chaste wife
+    and a girl who clears herself from scandal by lifting and hurling a huge stone.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: comic cowards going to war
+  taxonomy_refs: []
+  basis: The seven tailors are said to go to war in Turkey, and their tale is described
+    as a comic account of their poltrooneries.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only a brief catalogue notice and gives no narrative details
+    beyond title, names, and comic cowardice.
+- id: motif:2
+  label: plot against a chaste wife
+  taxonomy_refs: []
+  basis: The passage says other tales relate to a plot against a chaste wife.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The plot is only mentioned in summary form; no agents, outcome, or episode
+    structure are provided.
+- id: motif:3
+  label: vindication by lifting and hurling a huge stone
+  taxonomy_refs: []
+  basis: The passage notes a girl who clears herself from scandal by lifting and hurling
+    a huge stone.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not provide the wider tale context, the accusation, or
+    whether the stone feat is an ordeal, proof, or miracle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 616-638
+  quote_or_summary: The passage describes Kreutzwald's 1866 Esthonian prose tale collection,
+    later glossary, translations, and other collections of Esthonian tales.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 640-647
+  quote_or_summary: '"How Seven Tailors went to war in Turkey." Their names were,
+    "First-man, One-strong, Two-strong, Three-strong, Four-strong, Five-strong, and
+    Last-man;" and the story gives a comic account of their poltrooneries.'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 649-650
+  quote_or_summary: '"Other tales relate to a plot against a chaste wife; a girl who
+    clears herself from scandal by lifting and hurling a huge stone; &c."'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is straightforward for bibliographic and catalogue-level statements.
+    Motif candidates remain limited because the passage gives only brief notices of
+    tales rather than full narratives. No passage-supported comparative claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy references were not applied because the passage does not support a clear match to the supplied motif families or symbol list.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l616-l650
+  passage_sha256=aed8c383d7984fe824e82b7b13bb23d644051d9ffd312f86ba840a3a0a37cc28
+

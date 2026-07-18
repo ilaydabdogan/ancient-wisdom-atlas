@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l36329-l36351
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXVI. / ENTITLED, PROHIBITION;
+    REVEALED AT MEDINA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 36329-36351
+  start: '36329'
+  end: '36351'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“O PROPHET, why holdest thou that to be prohibited which GOD hath allowed
+    thee...”"
+  summary: The excerpt opens Chapter LXVI, identified as “Prohibition” and revealed
+    at Medina. God addresses the Prophet about treating as prohibited something God
+    allowed in order to please his wives; states that God permits dissolution of oaths
+    and is master, knowing, and wise; and recounts that the Prophet entrusted a secret
+    to one wife, she disclosed it, and God revealed this to him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Chapter LXVI, entitled “Prohibition,” and described
+    as revealed at Medina.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Prophet is asked why he treats as prohibited something God has allowed
+    him, while seeking to please his wives.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God is described in the address as inclined to forgive and merciful.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God is said to have allowed dissolution of oaths.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God is called master, knowing, and wise.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Prophet entrusted a secret concerning a certain incident to one of his
+    wives.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wife disclosed the secret, and God made the disclosure known to the Prophet.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Prophet told the wife part of what she had done and refrained from reproaching
+    her for the other part.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the wife asked who had informed him, the Prophet answered that the knowing
+    and sagacious God had disclosed it to him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine speaker and authority who allows, forgives, is merciful,
+    permits dissolution of oaths, and reveals hidden information to the Prophet.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The Prophet
+  description: The addressee of the divine speech; he had prohibited something allowed,
+    entrusted a secret to one wife, and later confronted her after divine disclosure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The Prophet’s wives
+  description: The plural wives are mentioned as those whom the Prophet sought to
+    please.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: One of the Prophet’s wives
+  description: A wife to whom the Prophet entrusted a secret; she disclosed it and
+    later asked who had revealed this to him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Divine authority and revealer
+  assigned_to:
+  - fig:1
+  basis: God is the one whose allowance is invoked, who permits dissolution of oaths,
+    and who makes the disclosed secret known to the Prophet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Forgiving and knowing master
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls God forgiving, merciful, master, knowing, wise,
+    and sagacious.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Prophetic addressee and secret-holder
+  assigned_to:
+  - fig:2
+  basis: The Prophet is directly addressed, had made something prohibited for himself,
+    and had entrusted a secret to one wife.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: Marital audience
+  assigned_to:
+  - fig:3
+  basis: The Prophet is described as seeking to please his wives.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Secret recipient and discloser
+  assigned_to:
+  - fig:4
+  basis: One wife receives a secret from the Prophet, discloses it, and is questioned
+    after God reveals it to him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Divine address about prohibition
+  summary: God addresses the Prophet about prohibiting what God allowed in order to
+    please his wives, while God is characterized as forgiving and merciful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Allowance for dissolution of oaths
+  summary: The passage states that God has allowed dissolution of oaths and names
+    God as master, knowing, and wise.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Secret disclosed and divinely revealed
+  summary: The Prophet entrusts a secret to one wife; she discloses it; God makes
+    it known to the Prophet; the Prophet partially confronts her; she asks who told
+    him, and he attributes the disclosure to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine correction of self-imposed prohibition
+  taxonomy_refs: []
+  basis: The passage presents a divine address questioning why the Prophet prohibited
+    what God had allowed in order to please his wives.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a passage-specific legal and household context; no broader taxonomy
+    reference is assigned from the available list.
+- id: motif:2
+  label: Divine dispensation from oaths
+  taxonomy_refs: []
+  basis: The passage states that God has allowed the dissolution of oaths.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt mentions oaths, not a formal covenant narrative; no covenant
+    taxonomy reference is assigned.
+- id: motif:3
+  label: Divine disclosure of concealed household speech
+  taxonomy_refs:
+  - wisdom
+  basis: A secret disclosed by one wife is made known to the Prophet by God, who is
+    described as knowing and sagacious.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad and rests on divine knowledge and
+    disclosure, not on an extended wisdom narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36329-36333
+  quote_or_summary: "“CHAPTER LXVI. / ENTITLED, PROHIBITION; REVEALED AT MEDINA. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 36335-36337
+  quote_or_summary: "“O PROPHET, why holdest thou that to be prohibited which GOD
+    hath allowed thee, seeking to please thy wives...?”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 36343-36344
+  quote_or_summary: "“GOD hath allowed you the dissolution of your oaths... and he
+    is knowing and wise.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 36345-36348
+  quote_or_summary: The Prophet entrusted a secret about an incident to one wife;
+    she disclosed it; God made it known to him; he told her part of what she had done
+    and did not reproach her for the rest.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 36349-36351
+  quote_or_summary: The wife asks who disclosed it; the Prophet answers that “The
+    knowing, the sagacious God” disclosed it to him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: note
+  locator: lines 36339-36341
+  quote_or_summary: The provided excerpt contains footnote fragments labeled f and
+    g that appear between the opening address and the oath statement; they are not
+    used for motif extraction because their referents are not present in this passage
+    segment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; note based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are modest because
+    the excerpt is short and primarily legal/household in focus. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available symbol taxonomy terms such as cave, fire, milk, mountain, serpent, tree, and water are not present in the passage. Footnote fragments f and g are acknowledged but not interpreted.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l36329-l36351
+  passage_sha256=267823ffea3483116ace5c969653b36d5b7e7467d4595ab66a4c545451daaa19
+

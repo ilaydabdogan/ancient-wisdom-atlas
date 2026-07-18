@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l1930-l2035
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: BEOWULF INTRODUCES HIMSELF AT THE PALACE. / HROTHGAR AND BEOWULF. / VIII.
+    / UNFERTH TAUNTS BEOWULF.; lines 1930-2035
+  start: '1930'
+  end: '2035'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Unferth, jealous of Beowulf's fame, taunts Beowulf in Hrothgar's hall by
+    recalling a dangerous swimming contest with Breca and predicting failure against
+    Grendel. Beowulf replies that Unferth is drunk, explains the swim as a youthful
+    pact, says currents separated him from Breca, and recounts being dragged underwater
+    by a sea-creature that he killed with his weapon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Unferth, son of Ecglaf, sits at the feet of the lord of the Scyldings and
+    speaks; Beowulf's journey or arrival is said to cause him sorrow and chagrin because
+    of Beowulf's glory.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: obs:2
+  text: Unferth asks whether Beowulf struggled with Breca in a swimming contest on
+    wide sea-currents.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Unferth characterizes the swimming venture as prideful, difficult, and life-risking
+    in the waters, amid angry winter waves.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Unferth says Beowulf and Breca toiled for a seven-night and that Breca outdid
+    Beowulf, reached Heathoremes' shore, and returned to the Brondings.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Unferth predicts Beowulf will have a less fortunate outcome if he waits near
+    Grendel for a night of grim grappling.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Beowulf replies to Unferth, says Unferth is fuddled with beer, and asserts
+    that he had greater strength in the waters and ocean dangers than any other man.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Beowulf says he and Breca made a youthful agreement to venture on the ocean
+    and fulfilled it.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Beowulf says that while swimming, he and Breca brandished unsheathed sword-blades
+    to protect their bodies from sharks.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Beowulf says he and Breca remained together in the ocean for five nights until
+    currents, bleak weather, night, north wind, and billows separated them.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Beowulf says his corslet aided him when a hateful sea-fiend dragged him to
+    the bottom, seized him, and was then pierced and killed by Beowulf's weapon and
+    hand-blow.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Beowulf
+  description: Sea-farer and offspring of Ecgtheow; target of Unferth's taunt; speaker
+    who recounts the swimming venture and the killing of a sea-creature.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Unferth
+  description: Ecglaf's son and Hrothgar's thane; seated at the feet of the lord of
+    the Scyldings; jealous or chagrined at Beowulf's glory; taunts Beowulf.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Breca
+  description: Beowulf's swimming opponent or companion; called the son of Beanstan
+    in Unferth's speech; associated with the Brondings and with return to a peace-castle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Hrothgar / lord of the Scyldings
+  description: Royal figure associated with the hall setting; Unferth is described
+    as Hrothgar's thane and sits at the feet of the lord of the Scyldings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Grendel
+  description: Named by Unferth as the adversary whom Beowulf might dare to await
+    nearby for a night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Hateful fiend-scather / mighty mere-creature
+  description: Underwater creature that drags Beowulf to the bottom, seizes him, and
+    is pierced and killed by Beowulf.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: jealous taunter
+  assigned_to:
+  - fig:2
+  basis: The passage says Unferth is jealous or chagrined by Beowulf's glory and opens
+    the verbal challenge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: replying hero and sea-contest participant
+  assigned_to:
+  - fig:1
+  basis: Beowulf answers Unferth, defends his conduct in the swimming venture, and
+    recounts killing a sea-creature.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: rival swimmer or companion
+  assigned_to:
+  - fig:3
+  basis: Breca is named as the one with whom Beowulf struggled in swimming and whom
+    Beowulf says he accompanied until currents separated them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:4
+  label: royal lord or host
+  assigned_to:
+  - fig:4
+  basis: Unferth is described as Hrothgar's thane and as seated at the feet of the
+    lord of the Scyldings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: anticipated monstrous opponent
+  assigned_to:
+  - fig:5
+  basis: Unferth invokes Grendel as the opponent Beowulf may await for a night of
+    grappling.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: underwater attacker
+  assigned_to:
+  - fig:6
+  basis: The sea-fiend seizes Beowulf, drags him to the bottom, and is then slain.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: ocean waters
+  literal_form: wide sea-currents, waters, sea-floods, waves, and bottom of the sea
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: unsheathed sword-blade / weapon
+  literal_form: sword-blade unscabbarded; obedient blade; point of my weapon
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:3
+  label: corslet / battle-sark
+  literal_form: firm-knotted corslet, hand-jointed and hardy; braided battle-sark
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: contest durations
+  literal_form: Unferth's seven-night and Beowulf's five nights together in the ocean
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:5
+  label: sea-fiend or mere-creature
+  literal_form: hateful fiend-scather and mighty mere-creature dragging Beowulf to
+    the bottom
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Unferth taunts Beowulf in the royal hall
+  summary: Unferth, seated by the lord of the Scyldings and resentful of Beowulf's
+    fame, begins a verbal challenge against Beowulf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Unferth's account of the Breca swimming contest
+  summary: Unferth says Beowulf and Breca pridefully risked themselves in the winter
+    sea, swam for seven nights, and that Breca outdid Beowulf and returned home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Prediction of Beowulf's failure against Grendel
+  summary: Unferth predicts that Beowulf will fare worse if he dares wait near Grendel
+    for a night of grappling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Beowulf rebuts the swimming-contest taunt
+  summary: Beowulf rebukes Unferth, describes the swim as a youthful agreement with
+    Breca, and says they swam armed with swords and stayed together until currents
+    and weather separated them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Beowulf recounts underwater attack and monster-slaying
+  summary: Beowulf says his armor aided him when a sea-fiend dragged him to the bottom;
+    he then pierced and killed the creature.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: jealous retainer taunts arriving hero over fame
+  taxonomy_refs: []
+  basis: Unferth's speech arises from chagrin that another man might gain more glory
+    and takes the form of a public challenge to Beowulf.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage shows jealousy and taunting but does not name a formal verbal-contest
+    genre.
+- id: motif:2
+  label: dangerous sea contest between youthful companions or rivals
+  taxonomy_refs: []
+  basis: Both Unferth and Beowulf recount a swimming venture with Breca through dangerous
+    sea-currents and winter waters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The two speakers give different emphases and different duration counts.
+- id: motif:3
+  label: armed hero faces threats in the water
+  taxonomy_refs: []
+  basis: Beowulf says he and Breca swam with unsheathed swords against sharks, and
+    Beowulf later uses his weapon against the sea-creature.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage is retrospective speech, not a direct narration of the past
+    event.
+- id: motif:4
+  label: hero dragged into underwater depth and slays sea-creature
+  taxonomy_refs:
+  - hero_descent
+  basis: Beowulf is dragged to the bottom by a hostile mere-creature and kills it
+    there with his weapon and hand-blow.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The alignment to hero_descent is limited to underwater downward movement
+    and combat; the supplied passage does not describe an extended underworld journey.
+- id: motif:5
+  label: pre-combat prediction of failure against monstrous adversary
+  taxonomy_refs: []
+  basis: Unferth uses the Breca episode to predict that Grendel will overcome or outdo
+    Beowulf if Beowulf waits for him at night.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a prediction within taunting speech rather than an event completed
+    in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The episode of Beowulf being dragged to the sea-bottom by a hostile creature
+    and killing it can be cautiously compared with the provided hero_descent motif
+    family at the passage level.
+  claim_level: same_motif
+  target: hero_descent
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage contains descent-like underwater movement and combat but
+    not a full mapped journey to an underworld or return sequence.
+- id: claim:2
+  claim: The exchange between Unferth and Beowulf functions as a pre-combat verbal
+    challenge and rebuttal pattern before the anticipated encounter with Grendel.
+  claim_level: same_function
+  target: pre-combat verbal challenge / rebuttal pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the function of taunt and rebuttal, but it does
+    not itself assign a formal comparative genre label.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1930-1933
+  quote_or_summary: Heading and editorial note identify the episode as Unferth taunting
+    Beowulf; Unferth is described as a thane of Hrothgar and as jealous of Beowulf.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:2
+  type: summary
+  locator: 1934-1942; internal lines 1-7
+  quote_or_summary: Unferth, Ecglaf's son, sits at the feet of the lord of the Scyldings
+    and speaks; Beowulf's journey gives Unferth sorrow and chagrin because he resists
+    another man's greater glory.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:3
+  type: summary
+  locator: 1944-1956; internal lines 8-18
+  quote_or_summary: Unferth asks whether Beowulf struggled with Breca in swimming
+    on wide sea-currents and says the two risked their bodies from vaunting amid angry
+    winter waters.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:4
+  type: summary
+  locator: 1957-1965; internal lines 19-26
+  quote_or_summary: Unferth says the swimmers toiled for a seven-night, Breca outdid
+    Beowulf, reached Heathoremes' shore, returned to the Brondings, and fulfilled
+    his pledge.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:5
+  type: summary
+  locator: 1966-1971; internal lines 27-30
+  quote_or_summary: Unferth predicts Beowulf will find a less fortunate outcome if
+    he dares wait near Grendel for one night of grim grappling.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:6
+  type: summary
+  locator: 1973-1977; internal lines 31-36
+  quote_or_summary: Beowulf, offspring of Ecgtheow, answers Unferth, says he is fuddled
+    with beer, and claims greater strength in the waters and ocean dangers than any
+    other man.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:7
+  type: summary
+  locator: 1978-1987; internal lines 37-45
+  quote_or_summary: Beowulf says he and Breca made a youthful agreement to venture
+    on the ocean; while swimming, they brandished unsheathed swords to protect themselves
+    from sharks, and Beowulf would not leave Breca.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:8
+  type: summary
+  locator: 1988-1996; internal lines 46-54
+  quote_or_summary: Beowulf says he and Breca stayed together in the ocean for five
+    nights until currents, bleak weather, night, north wind, billows, and ruffled
+    mere-fishes parted them; his hand-jointed corslet aided him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:9
+  type: summary
+  locator: 1997-2002; internal lines 55-60
+  quote_or_summary: Beowulf says a hateful fiend-scather dragged him to the bottom,
+    seized him, and held him; he pierced the monster with his weapon and killed the
+    mere-creature by a hand-blow.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+- id: ev:10
+  type: note
+  locator: 2003-2007; footnote [1]
+  quote_or_summary: The footnote states that the word rendered as Beowulf's 'journey'
+    may plausibly mean 'arrival' in the bracket about Unferth's chagrin.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text supplied with full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif taxonomy alignment
+    is cautious, especially for hero_descent, because the excerpt gives a brief retrospective
+    account rather than an extended descent narrative. Source-line locators combine
+    the supplied canonical line range with internal passage line references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external Beowulf context was used. Comparisons are limited to the provided motif taxonomy and passage-supported patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l1930-l2035
+  passage_sha256=a894e84cdaaac5a89452c7b29474ebe77025cfba69ea3d9e43feb052f323a9e9
+

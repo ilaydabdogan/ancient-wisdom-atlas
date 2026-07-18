@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l8872-l8885
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: ITITAUJANG. / THE EMIGRATION OF THE SAGDLIRMIUT. / KALOPALING. / THE UISSUIT.;
+    lines 8872-8885
+  start: '8872'
+  end: '8885'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Uissuit as dwarf men and women who live in the
+    sea and deep water between Iglulik and Netchillik. Inuit who wish to see them
+    go by boat to deep water and try to draw them up with hooks, but the Uissuit dive
+    back down before being taken from the water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Uissuit are described as a strange people who live in the sea and are
+    dwarfs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Uissuit are said to be frequently seen between Iglulik and Netchillik,
+    where the Anganidjen live.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Anganidjen are identified as an Inuit tribe whose women tattoo rings around
+    their eyes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Uissuit include men and women, live in deep water, and never come up to
+    the surface.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Inuit who wish to see the Uissuit go in boats to water where they cannot see
+    the bottom.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Inuit try to catch the Uissuit with hooks moved slowly up and down, and
+    draw in the line when there is a bite.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When drawn near the surface, the Uissuit dive headlong back down, with only
+    their legs emerging from the water.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Inuit have never succeeded in getting a Uissuit out of the water.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Uissuit
+  description: A strange dwarf people, including men and women, who live in the sea
+    and deep water and do not come to the surface.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The Inuit
+  description: People who go by boat to deep water and try to see or catch the Uissuit
+    with hooks and lines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: The Anganidjen
+  description: An Inuit tribe living between Iglulik and Netchillik; their women are
+    said to tattoo rings around their eyes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Underwater dwarf people
+  assigned_to:
+  - fig:1
+  basis: The passage says the Uissuit are dwarfs who live in the sea and deep water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Human seekers or attempted captors
+  assigned_to:
+  - fig:2
+  basis: The Inuit go in boats to deep water and try to draw the Uissuit up with hooks
+    and lines.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Location-associated Inuit tribe
+  assigned_to:
+  - fig:3
+  basis: The Anganidjen are named as the Inuit tribe living in the area where the
+    Uissuit are seen.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Deep sea water
+  literal_form: sea; deep water where the bottom cannot be seen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Hooks and line
+  literal_form: hooks moved slowly up and down; line drawn in after a bite
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Description and location of the Uissuit
+  summary: The Uissuit are introduced as dwarf sea-dwellers seen between Iglulik and
+    Netchillik, in an area associated with the Anganidjen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Attempt to draw up the Uissuit
+  summary: Inuit go by boat to deep water, use hooks to catch the Uissuit, and pull
+    the line in, but the Uissuit dive back down before they can be taken from the
+    water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Underwater dwarf people
+  taxonomy_refs: []
+  basis: The passage presents the Uissuit as dwarf men and women living in the sea
+    and deep water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No provided motif-family taxonomy item directly names underwater dwarf
+    people.
+- id: motif:2
+  label: Failed capture of elusive underwater beings
+  taxonomy_refs: []
+  basis: The Inuit attempt to catch and draw up the Uissuit with hooks, but the beings
+    dive back down and have never been taken out of the water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states the failed capture pattern literally, but does not
+    connect it to a named comparative motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8872-8877
+  quote_or_summary: The Uissuit are introduced as strange dwarf sea-people, frequently
+    seen between Iglulik and Netchillik, where the Anganidjen live; Anganidjen women
+    are said to tattoo rings around their eyes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8877-8879
+  quote_or_summary: The Uissuit include men and women, live in deep water, and never
+    come up to the surface.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8879-8882
+  quote_or_summary: Inuit who wish to see the Uissuit travel by boat to water where
+    the bottom is not visible and try to catch them with hooks moved slowly up and
+    down.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8882-8885
+  quote_or_summary: When drawn upward, the Uissuit dive down again as they near the
+    surface, with only their legs emerging; the Inuit have never succeeded in getting
+    one out of the water.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and not matched to a provided motif-family taxonomy. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external taxonomy or comparative claims added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l8872-l8885
+  passage_sha256=96310037948521446813813e1066c4cbaa0f6fe2c12fa33b0899a13f4bd3994a
+

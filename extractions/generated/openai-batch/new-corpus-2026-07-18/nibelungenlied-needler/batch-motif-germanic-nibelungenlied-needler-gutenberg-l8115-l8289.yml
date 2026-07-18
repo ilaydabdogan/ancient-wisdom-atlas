@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l8115-l8289
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: THIRTEENTH ADVENTURE / FOURTEENTH ADVENTURE / FIFTEENTH ADVENTURE / SIXTEENTH
+    ADVENTURE; lines 8115-8289
+  start: '8115'
+  end: '8289'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"As there the noble Siegfried / to drink o''er fountain bent, / Through
+    the cross he pierced him"'
+  summary: During a hunt, Hagen and Gunther use the absence of wine and the promise
+    of a cold spring to draw thirsty Siegfried to a fountain. Hagen challenges Siegfried
+    to a race; Siegfried wins, lays aside his weapons, and courteously lets Gunther
+    drink first. Hagen removes Siegfried's weapons, locates a cross on his tunic,
+    and spears him as he bends to drink. Wounded, Siegfried attacks Hagen with his
+    shield, then weakens, sinks among the flowers, and condemns Hagen and Gunther
+    for a faithless killing that brings shame on their kin.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The king speaks at table in treachery, and Hagen explains the missing wine
+    by saying it was sent to the Spessart forest.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hagen says he knows a cold spring nearby and suggests that the company go
+    there.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Siegfried is afflicted by thirst and wants to go along the hillside to the
+    fountain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Siegfried had won the hunting honors through the game he
+    slaughtered.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hagen challenges Siegfried's reputation for running and proposes that he prove
+    it by racing to the fountain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Siegfried agrees to the race, offers a starting handicap, and says he will
+    keep on his clothing, spear, shield, hunting dress, sword, and quiver.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Siegfried reaches the fountain first.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: At the fountain, Siegfried ungirds his sword, lays aside his quiver, leans
+    his spear against the linden tree, and lays down his shield by the water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Although thirsty, Siegfried does not drink until after King Gunther has drunk.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Hagen carries away Siegfried's bow and sword, returns to the spear, and scans
+    Siegfried's tunic for a cross.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: As Siegfried bends over the fountain to drink, Hagen pierces him through the
+    cross with the spear, causing blood to spatter.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The spear remains in the wound at Siegfried's heart, and Hagen flees from
+    the wounded warrior.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Siegfried springs up from the fountain, looks for his bow or sword, and, finding
+    the sword gone, seizes his shield.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: Siegfried strikes Hagen with the shield, splitting it and knocking Hagen to
+    the ground.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: Siegfried's color fades, his strength wanes, and he sinks among flowers while
+    blood flows from the wound.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:16
+  text: The wounded Siegfried accuses two cowards of killing him despite his faithful
+    service and declares lasting shame on their kin.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: A noble knight of Netherland and Kriemhild's knight; thirsty after
+    the hunt, he wins the race to the fountain, yields drinking precedence to Gunther,
+    is speared by Hagen, retaliates with a shield, and then weakens and rebukes his
+    killers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Hagen of Tronje
+  description: A thane who explains the absence of wine, proposes the nearby spring,
+    challenges Siegfried to run, removes Siegfried's weapons, locates the cross on
+    his tunic, spears him, and is struck down by Siegfried's shield blow.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Gunther
+  description: The king who speaks in treachery, drinks at the spring before Siegfried,
+    and is included in Siegfried's accusation against the two cowards.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+roles:
+- id: role:1
+  label: thirsty hunted hero
+  assigned_to:
+  - fig:1
+  basis: Siegfried is thirsty after the hunt, is credited with the day's hunting honors,
+    and goes to the fountain.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: courteous victim
+  assigned_to:
+  - fig:1
+  basis: Siegfried wins the race and is thirsty but waits until Gunther has drunk
+    first; the passage says he suffered for his courtesy.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: deceptive counselor
+  assigned_to:
+  - fig:2
+  basis: Hagen gives the explanation for the absent wine and directs the party toward
+    the nearby cold spring; the counsel is called wicked.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: treacherous assailant
+  assigned_to:
+  - fig:2
+  basis: Hagen removes Siegfried's weapons, finds the cross, and spears him as he
+    bends to drink.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: wounded avenger and accuser
+  assigned_to:
+  - fig:1
+  basis: After being speared, Siegfried attacks Hagen with a shield and later condemns
+    the killing as faithless.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:6
+  label: complicit king
+  assigned_to:
+  - fig:3
+  basis: Gunther speaks in treachery and is later addressed by Siegfried as one of
+    the two cowards responsible for the killing.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:7
+  label: recipient of precedence
+  assigned_to:
+  - fig:3
+  basis: Gunther drinks from the spring before Siegfried, while Siegfried waits despite
+    thirst.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: spring or fountain
+  literal_form: a nearby cold spring, running fountain, and clear cool water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: linden tree
+  literal_form: the linden tree by the fountain where Siegfried leans the spear
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: cross on tunic
+  literal_form: a cross on Siegfried's tunic, scanned by Hagen and used as the point
+    through which he pierces him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: spear
+  literal_form: Siegfried's mighty spear, leaned against the linden tree and then
+    used by Hagen to pierce him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: shield
+  literal_form: Siegfried's shield, laid by the fountain and then used to strike Hagen
+    after the sword is gone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Deceptive proposal to seek water
+  summary: At table, the lack of drink is discussed. Hagen says the wine was sent
+    elsewhere and proposes going to a nearby cold spring; the passage characterizes
+    the counsel as wicked.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Race to the fountain
+  summary: Hagen challenges Siegfried's running ability. Siegfried accepts, keeps
+    his equipment, and reaches the fountain first.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Weapons laid aside and precedence at the spring
+  summary: At the fountain, Siegfried lays aside his weapons and waits while Gunther
+    drinks first.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Spear attack through the cross
+  summary: Hagen removes Siegfried's weapons, finds the cross on his tunic, and spears
+    him as he bends over the fountain to drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Wounded retaliation
+  summary: Siegfried rises from the fountain, cannot find his sword, seizes his shield,
+    and strikes Hagen down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Dying rebuke
+  summary: Siegfried weakens, sinks among flowers, and denounces Hagen and Gunther
+    for a faithless killing that brings shame on their descendants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: deceptive guidance to a killing-place
+  taxonomy_refs: []
+  basis: The absence of wine and the promise of a nearby cold spring are used to move
+    the thirsty Siegfried toward the place where Hagen attacks him; the passage calls
+    the counsel wicked.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage supports deception and ambush, but it does not present an
+    explicit ritual or supernatural framework.
+- id: motif:2
+  label: challenge or contest used to disarm the hero
+  taxonomy_refs: []
+  basis: Hagen proposes a race to test Siegfried's speed; after winning, Siegfried
+    lays aside his weapons at the fountain, enabling Hagen to remove them and use
+    the spear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The text does not say the race alone was the full plan; it is one step
+    in the ambush sequence.
+- id: motif:3
+  label: marked vulnerable spot
+  taxonomy_refs: []
+  basis: Hagen scans Siegfried's tunic for a cross and pierces him through it as he
+    bends to drink.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage shows the cross as the target, but the broader reason for
+    the mark is not explained within this excerpt.
+- id: motif:4
+  label: hero slain while drinking at water
+  taxonomy_refs: []
+  basis: Siegfried is thirsty, goes to the spring, waits for Gunther, and is speared
+    as he bends over the fountain to drink.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy includes the symbol water, but no specific supplied
+    motif family directly matches the slaying at water.
+- id: motif:5
+  label: dying hero's denunciation of betrayal
+  taxonomy_refs: []
+  basis: After being mortally wounded, Siegfried accuses the two cowards of repaying
+    faithful service with murder and declares shame on their kin.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The speech is moral and social in emphasis; no explicit curse mechanism
+    or supernatural judgment is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8115-8289; stanzas 967-969
+  quote_or_summary: Gunther speaks in treachery about the missing drink; Hagen says
+    the wine was sent to the Spessart forest and suggests a nearby cold spring, after
+    which the narrator calls the counsel wicked.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8115-8289; stanzas 970-971
+  quote_or_summary: Siegfried is sore with thirst, is first to urge going to the fountain,
+    and is credited with the hunting honors for the game he killed; the passage says
+    Hagen soon breaks faith with him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8115-8289; stanzas 972-976
+  quote_or_summary: Hagen challenges Siegfried to prove his speed in a race to the
+    fountain. Siegfried accepts, offers a starting handicap, and says he will wear
+    his full hunting gear, including spear, shield, sword, and quiver. Siegfried reaches
+    the fountain first.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8115-8289; stanzas 977-979
+  quote_or_summary: At the fountain, Siegfried lays aside sword and quiver, leans
+    the spear against the linden tree, lays down his shield, and waits for Gunther
+    to drink first before drinking himself.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8115-8289; stanzas 980-981
+  quote_or_summary: Hagen carries away the bow and sword, scans for the cross on Siegfried's
+    tunic, and, as Siegfried bends over the fountain, "Through the cross he pierced
+    him."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 8115-8289; stanzas 982-984
+  quote_or_summary: The spear remains where it pierced the heart; Hagen flees. Siegfried
+    springs up from the fountain, looks for bow or sword, and seizes his shield because
+    the sword is gone.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8115-8289; stanzas 985-986
+  quote_or_summary: Although nearly dead, Siegfried strikes Hagen with the shield,
+    sending stones from it, splitting it, and knocking Hagen down; the narrator says
+    Hagen would have paid if Siegfried had had his sword.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8115-8289; stanzas 987-988
+  quote_or_summary: Siegfried's color fades, his strength wanes, he sinks among flowers,
+    and blood flows from his wound while he reviles those who brought about his death
+    by a faithless deed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8115-8289; stanzas 989-991
+  quote_or_summary: The wounded Siegfried addresses two base cowards, says his faithful
+    service has been repaid by death, and declares that their kindred and generations
+    are dishonored and separated from good knights' company.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The sequence of deception, race, disarming, spear attack, retaliation, and
+    dying rebuke is explicit in the passage. Motif labels are descriptive candidates
+    without asserted cross-cultural comparison. No comparison claims were extracted
+    because the passage itself does not provide a comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy symbol refs were applied only to water and tree; no supplied motif-family ref was assigned.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l8115-l8289
+  passage_sha256=b3959db6d3964419f87427822554548237707d064a084b136766f8e38af7d068
+

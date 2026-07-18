@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l12480-l12511
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: TWENTY-SECOND ADVENTURE / TWENTY-THIRD ADVENTURE / TWENTY-FOURTH ADVENTURE
+    / TWENTY-FIFTH ADVENTURE; lines 12480-12511
+  start: '12480'
+  end: '12511'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Hagen smote it to pieces / and cast it on the flood
+  summary: After the company empties the boat and unloads its stores, Hagen breaks
+    the boat and throws it into the water. Dankwart asks how they will return from
+    Hunland to the Rhine; Hagen says he did this so that any coward who tries to flee
+    will die in the river. Volker approves Hagen's action. The crossing causes no
+    harm except to the king's chaplain, who must return to the Rhine on foot.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The boat is emptied, and the monarch's followers carry the stores onto the
+    shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hagen breaks the boat into pieces and casts it into the flood while surrounding
+    knights watch in wonder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dankwart asks Hagen how they will cross the river again when returning from
+    Hunland to the Rhine.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hagen says he destroyed the boat so that anyone in their company who tries
+    to flee from lack of courage will die beneath the billows.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Volker is described as a valiant knight from Burgundy and as the Fiddler,
+    and he finds Hagen's actions fitting.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The chargers are ready and the carriers are loaded after the river passage.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: No harm is reported at the river crossing except for the king's chaplain,
+    who must journey back to the Rhine on foot.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hagen of Tronje
+  description: A knight who destroys the boat and explains that he did so to prevent
+    cowardly flight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sir Dankwart
+  description: Hagen's brother, who asks why the boat was destroyed and how they will
+    cross back from Hunland.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Volker
+  description: A valiant Burgundian knight, called the Fiddler, who approves what
+    Hagen does.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The monarch's followers and surrounding knights
+  description: The group unloads stores onto the shore and stands in wonder when Hagen
+    destroys the boat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: The king's chaplain
+  description: The only person singled out as harmed or inconvenienced by the river
+    passage; he must go back to the Rhine on foot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Destroyer of the return vessel
+  assigned_to:
+  - fig:1
+  basis: Hagen breaks the boat and says the action is meant to stop any cowardly flight.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Questioner of the blocked return
+  assigned_to:
+  - fig:2
+  basis: Dankwart asks why Hagen did this and how the company will return across the
+    river.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Approving companion
+  assigned_to:
+  - fig:3
+  basis: Volker finds Hagen's actions fitting.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Unloaders and witnesses
+  assigned_to:
+  - fig:4
+  basis: The followers carry stores ashore and the knights stand in wonder at Hagen's
+    action.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Exception to the safe passage
+  assigned_to:
+  - fig:5
+  basis: The passage says none suffered harm except the king's chaplain, who must
+    return on foot.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Destroyed boat
+  literal_form: A boat emptied, smashed to pieces, and cast into the flood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: River flood and billows
+  literal_form: The river, flood, and billows into which the boat is thrown and in
+    which a fleeing coward would die.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Rhine as return destination
+  literal_form: The Rhine, named as the place to which the company would return and
+    to which the chaplain must go back.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Unloading and destruction of the boat
+  summary: After the boat is emptied and stores are carried ashore, Hagen breaks the
+    boat and throws it into the flood while the knights watch in wonder.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dankwart questions the blocked return
+  summary: Dankwart asks how the company will cross back from Hunland to the Rhine,
+    and Hagen tells him to abandon such a purpose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hagen explains the no-flight purpose
+  summary: Hagen states that destroying the boat ensures any coward in the company
+    who tries to flee will die beneath the river's billows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Volker approves Hagen's action
+  summary: Volker, a valiant Burgundian knight and Fiddler, approves what Hagen has
+    done.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Departure after the river passage
+  summary: The chargers and carriers are ready; the passage says no harm occurred
+    at the river crossing except that the king's chaplain must return to the Rhine
+    on foot.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Destruction of the return vessel to prevent retreat
+  taxonomy_refs:
+  - departure
+  basis: Hagen destroys the boat after crossing and explicitly says the purpose is
+    to stop cowardly flight by making the river deadly to anyone who turns back.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The broader taxonomy reference to departure is interpretive; the passage
+    itself gives the more specific pattern of blocking return.
+- id: motif:2
+  label: Cowardice deterred by threatened death in water
+  taxonomy_refs: []
+  basis: Hagen says any rider who flees from lack of courage must die beneath the
+    billows.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states a threat and rationale, not an actual death by water
+    in this episode.
+- id: motif:3
+  label: Safe crossing with a singled-out exception
+  taxonomy_refs: []
+  basis: The narration reports that the river passage caused no harm except to the
+    king's chaplain, who must return on foot.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This may be a narrative detail rather than a durable comparative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12480-12511, stanza 1581
+  quote_or_summary: The boat is emptied and stores are carried ashore; Hagen smites
+    the boat to pieces and casts it on the flood, astonishing the knights.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; brief excerpt or summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12480-12511, stanza 1582
+  quote_or_summary: Dankwart asks Hagen why he has done this and how they will cross
+    back from Hunland to the Rhine; Hagen tells him to abandon that purpose.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: quote
+  locator: lines 12480-12511, stanza 1583
+  quote_or_summary: Hagen says he did it so that any coward who would flee from lack
+    of courage must die beneath the billows.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; brief excerpt or summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12480-12511, stanza 1584
+  quote_or_summary: Volker, a valiant knight from Burgundy and the Fiddler, is described
+    as finding whatever Hagen does fitting.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12480-12511, stanza 1585
+  quote_or_summary: The chargers stand ready and carriers are loaded; no harm happens
+    at the river passage except to the king's chaplain, who must go back to the Rhine
+    on foot.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif candidates
+    are limited to patterns explicitly supported by the episode. No cross-text comparison
+    claims are made from the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; no external corpus comparison was added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l12480-l12511
+  passage_sha256=6a8b1faafb8cdc5b7df75ef4f356a99c20e09d9cf1ad2e276f403348be8b22a3
+

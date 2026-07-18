@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l708-l766
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS / MY MOTHER / CONTENTS / PREFACE;
+    lines 708-766
+  start: '708'
+  end: '766'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The translator’s preface explains editorial restraint in notes, defines
+    retained Irish terms such as geis, gilla, liss, rath, and dun, discusses spelling
+    choices for names and places, and acknowledges difficulty translating obscure
+    rosc passages while hoping the translation helps students of Irish language and
+    literature.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes have been reduced to a minimum, with fuller commentary and illustrative
+    material reserved for a possible later volume.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Old Irish term geis is retained in translation and is said to be often
+    translated by the Polynesian word tabu, though several proposed English or Scots-Gaelic
+    renderings are described as inadequate.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A geis is described as an adjuration by a man’s honour, positive or negative,
+    compelling a person to do something or more commonly prohibiting the person from
+    doing it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The term gilla is explained as often translated by several words with misleading
+    connotations, and as originally meaning a youth in the third of the six ages of
+    man.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A liss or rath is defined as a fortified place enclosed by a circular mound
+    or trench or both, while a dun is defined as a fortified residence surrounded
+    by an earthen rampart.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The translator states a policy of following the spellings used in the LL manuscript
+    for names of places and persons, while retaining certain established English forms
+    and the forms Erin and Alba.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some rosc passages are described as obscure, allusive, and perhaps shaped
+    as much by the music of the words as by sense.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The translator acknowledges limits in reproducing precise meanings and hopes
+    the translation will encourage students to take interest in Irish language and
+    literature.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: present writer / translator
+  description: The first-person speaker who explains editorial choices, translation
+    difficulties, and the intended usefulness of the translation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: person adjured by a geis
+  description: A generic person described as bound by an adjuration, either compelled
+    to act or prohibited from acting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: translator-editor
+  assigned_to:
+  - fig:1
+  basis: The speaker discusses reducing notes, retaining terms, choosing spellings,
+    and the difficulty of translating precise shades of meaning.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: bound or prohibited person
+  assigned_to:
+  - fig:2
+  basis: The passage describes the adjured person as made duty-bound to do something
+    or, more commonly, prohibited from doing it.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: geis as binding prohibition or injunction
+  literal_form: Old Irish term for an adjuration by honour, positive or negative,
+    compelling or prohibiting action.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: liss or rath fortified enclosure
+  literal_form: Fortified place enclosed by a circular mound or trench, or both.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: dun fortified residence
+  literal_form: Fortified residence surrounded by an earthen rampart.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Editorial glossary of retained Irish terms
+  summary: The translator explains several Irish terms retained in the translation,
+    including geis, gilla, liss, rath, and dun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Translator’s caveat on obscurity and purpose
+  summary: The translator discusses difficulty with antiquated or obscure words, especially
+    rosc, cites the limits of modern Celtic scholarship, and states a hope that the
+    translation will serve students.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Binding injunction or taboo-like prohibition
+  taxonomy_refs: []
+  basis: The passage defines geis as an honour-based adjuration that can compel action
+    or prohibit it, and notes its common translation by tabu while also distinguishing
+    its Irish legal sense.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an expository glossary entry in the preface, not a narrated instance
+    of a geis within the tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious lexical comparison between Old Irish geis
+    and Polynesian tabu, because it says geis is often translated by tabu while also
+    noting that ordinary translations do not fully capture the ancient Irish idea.
+  claim_level: linguistic_similarity
+  target: Polynesian tabu
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The passage frames tabu as a translation analogue, not as evidence
+    of historical contact or exact functional identity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 708-711
+  quote_or_summary: The notes are reduced to an indispensable minimum, with fuller
+    commentary and illustrative material reserved for another hoped-for volume.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: 712-718
+  quote_or_summary: The translator retains geis, compares it to Polynesian tabu as
+    a common translation, and lists several English or Scots-Gaelic renderings that
+    do not express the ancient Irish legal idea adequately.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: 718-723
+  quote_or_summary: Geis is described as an adjuration by a man’s honour, either positive
+    or negative, making the person bound to do something or more commonly forbidden
+    to do it.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: 723-734
+  quote_or_summary: Gilla is said to be translated by words such as vassal, youth,
+    boy, messenger, servant, page, squire, and guide, but these are said to carry
+    false connotations; it originally meant a youth in the third of six ages of man.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: 734-736
+  quote_or_summary: Liss or rath is defined as a fortified place enclosed by a circular
+    mound or trench, or both; dun is defined as a fortified residence surrounded by
+    an earthen rampart.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: 736-748
+  quote_or_summary: For place and person names, the translator follows LL manuscript
+    spellings where possible, notes some entrenched English forms, retains Erin and
+    Alba, and sometimes marks final e with a grave accent.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:7
+  type: summary
+  locator: 750-757
+  quote_or_summary: The translator says some meanings were difficult to reproduce,
+    especially rosc passages that were obscure, allusive, and perhaps valued for verbal
+    music as much as meaning.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:8
+  type: summary
+  locator: 757-766
+  quote_or_summary: The translator cites Zimmer on the difficulty of Old Irish saga
+    texts, invokes Don Quijote’s criticism of bad translators, and hopes the translation
+    will help students become interested in Irish language and literature.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a clear editorial preface rather than a mythic narrative episode;
+    motif extraction is therefore limited to terminology and cultural patterns explicitly
+    defined in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were applied because the passage does not explicitly support any listed motif family or symbol taxonomy item.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l708-l766
+  passage_sha256=8f1e94930864ecbbbc6d71a06fe8befa14d59006c03c8f77776685fca147cddf
+

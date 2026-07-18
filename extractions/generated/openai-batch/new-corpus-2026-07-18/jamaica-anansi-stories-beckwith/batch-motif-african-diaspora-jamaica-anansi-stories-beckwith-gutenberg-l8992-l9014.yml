@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l8992-l9014
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: DUPPY STORIES. / VIII. / ANIMAL JESTS. / XIII.; lines 8992-9014
+  start: '8992'
+  end: '9014'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Three brief animal jests: Monkey sells an unwanted jacket to Goat after
+    urging him to try it on and praising the fit; Anansi and Tiger travel through
+    a stream, where Anansi steps on a stone and makes a fish-related claim that Tiger
+    answers; Tacoomah tells Anansi that his mother is dead and then awake, and Anansi
+    replies with short pragmatic sayings.'
+  language: English with Jamaican Creole dialogue
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Monkey tells Goat he has a jacket he does not want to wear and asks whether
+    Goat will buy it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Goat tries on the jacket, Monkey says it cannot fit better, and Goat buys
+    the jacket.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Anansi and Tiger are travelling through a stream of water.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anansi wants to find out whether Tiger can tell a story.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Anansi steps on a stone in the water and says he has mashed a fish; Tiger
+    replies that he smells the fat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Tacoomah tells Anansi that Anansi's mother is dead; Anansi replies with a
+    saying about meat for the day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tacoomah then tells Anansi that Anansi's mother is awake; Anansi replies that
+    one person cannot live forever in the world.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: Animal figure who offers an unwanted jacket to Goat for purchase and
+    praises its fit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Goat
+  description: Animal figure who tries on the jacket, admires the fit, and buys it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Anansi
+  description: Figure travelling with Tiger through water; he seeks to find whether
+    Tiger can tell a story and later responds to news about his mother.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Tiger
+  description: Animal figure travelling with Anansi who answers Anansi's fish-related
+    statement.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Tacoomah
+  description: Figure who reports to Anansi that Anansi's mother is dead and then
+    awake.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Anansi's mother
+  description: Reported figure described by Tacoomah first as dead and then as awake.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: jacket seller
+  assigned_to:
+  - fig:1
+  basis: Monkey says he has a jacket he does not want to wear and asks Goat if he
+    will buy it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: jacket buyer
+  assigned_to:
+  - fig:2
+  basis: Goat tries on the jacket and buys it after Monkey comments on the fit.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: story-testing traveler
+  assigned_to:
+  - fig:3
+  basis: Anansi travels with Tiger and wants to find out if Tiger can tell a story.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: responding traveler
+  assigned_to:
+  - fig:4
+  basis: Tiger travels with Anansi and answers Anansi's statement about mashing a
+    fish.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: news speaker
+  assigned_to:
+  - fig:5
+  basis: Tacoomah tells Anansi two pieces of news about Anansi's mother.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of family news
+  assigned_to:
+  - fig:3
+  basis: Anansi receives statements that his mother is dead and then awake and replies
+    to both.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: reported mother
+  assigned_to:
+  - fig:6
+  basis: Tacoomah identifies her as Anansi's mother and reports her condition.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: jacket
+  literal_form: unwanted jacket offered for sale and tried on by Goat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stream of water
+  literal_form: stream of water through which Anansi and Tiger travel
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stone in the water
+  literal_form: stone in the stream that Anansi steps on
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fish and fat speech image
+  literal_form: Anansi says he mashed a fish, and Tiger says he smells the fat
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Monkey sells Goat a jacket
+  summary: Monkey says he has an unwanted jacket, asks Goat to buy it, urges Goat
+    to try it on, praises the fit, and Goat buys it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Anansi and Tiger in the stream
+  summary: Anansi and Tiger travel through water; Anansi, wanting to test Tiger's
+    storytelling, steps on a stone and makes a fish-related statement, which Tiger
+    answers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tacoomah reports on Anansi's mother
+  summary: Tacoomah tells Anansi that his mother is dead and then awake; Anansi answers
+    each report with a brief pragmatic saying.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: comic animal bargain through flattery
+  taxonomy_refs: []
+  basis: Monkey invites Goat to try on the jacket, praises the fit, and Goat buys
+    it while admiring himself.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is very brief and does not explicitly state deception; the
+    motif label describes the observable comic bargain sequence.
+- id: motif:2
+  label: trickster verbal test of a companion
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Anansi explicitly wants to find whether Tiger can tell a story and initiates
+    a short call-and-response around the stone, fish, and fat.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports a verbal test but
+    gives little context for a fuller trickster episode.
+- id: motif:3
+  label: irreverent response to family death notice
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Tacoomah reports Anansi's mother dead and then awake, and Anansi responds
+    with unsentimental, comic sayings.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text presents a jest rather than an explicit mythic pattern; linkage
+    to the trickster-boundary family depends on Anansi's boundary-crossing speech.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8992-9000; XIII
+  quote_or_summary: Monkey tells Goat he has an unwanted jacket, asks Goat to try
+    it on, praises the fit, and Goat buys it.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 9002-9008; XIV
+  quote_or_summary: Anansi and Tiger travel through a stream; Anansi wants to test
+    whether Tiger can tell a story, steps on a stone, says he mashed a fish, and Tiger
+    replies that he smells the fat.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 9010-9014; XV
+  quote_or_summary: Tacoomah reports that Anansi's mother is dead and then awake;
+    Anansi responds with short pragmatic sayings to each report.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for three short jests. Motif labels
+    are cautious because the passage provides minimal narrative context. No comparison
+    claims were made because the passage does not itself support cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l8992-l9014
+  passage_sha256=5dd8f2bae4e73bda8bda325d4c17c7aa014ee4b03e359d6aa63e3a1b61dcdff5
+

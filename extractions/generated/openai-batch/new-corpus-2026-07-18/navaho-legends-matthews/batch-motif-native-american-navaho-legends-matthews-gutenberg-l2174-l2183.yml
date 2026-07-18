@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l2174-l2183
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: THE LEGENDS. / ALPHABET USED. / SPELLING OF NAVAHO. / NOTES.; lines 2174-2183
+  start: '2174'
+  end: '2183'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An ethnographic note describes Navaho shamans openly seeking medical treatment
+    from the author, not claiming universal cures, sometimes offering their own remedies
+    when the author’s treatment has not helped, and using plants for simple acute
+    illnesses without ritual actions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shamans often came to the author seeking treatment for themselves and for
+    friends.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shamans did not conceal seeking treatment and asked for medicine in the
+    presence of lay members of their own tribe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the shamans did not claim to possess panaceas.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the author failed to give prompt relief to a sick Indian, shamans sometimes
+    politely offered to try a remedy they knew.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The shamans did not restrict themselves to shamanistic rites.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The shamans used various plants in treating disease.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In simple acute cases, the shamans administered plant treatments without prayer,
+    sacrifice, or incantation.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Navaho shamans
+  description: Practitioners described as seeking treatment from the author, offering
+    remedies, practicing shamanistic rites, and using plants for disease treatment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the author
+  description: The person from whom shamans sought treatment and who sometimes failed
+    to give prompt relief to a sick Indian.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: sick Indian
+  description: A sick person for whom the author did not give prompt relief in the
+    described example.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: laity of their own tribe
+  description: Lay members of the shamans’ tribe in whose presence shamans asked for
+    medicine.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: shamanic practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies the figures as shamans and refers to their
+    shamanistic rites.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: healer using remedies and plants
+  assigned_to:
+  - fig:1
+  basis: They offer remedies and use plants in the treatment of disease.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: medical treatment provider
+  assigned_to:
+  - fig:2
+  basis: Shamans come to the author for treatment, and the author attempts to relieve
+    sickness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: patient
+  assigned_to:
+  - fig:3
+  basis: The person is described as a sick Indian for whom relief was sought.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: lay witnesses
+  assigned_to:
+  - fig:4
+  basis: The passage says shamans asked for medicine in the presence of the laity
+    of their own tribe.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: medicine
+  literal_form: medicine requested from the author
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: remedy
+  literal_form: a remedy known by a shaman for a specific difficulty
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: plants used for treatment
+  literal_form: various plants administered in disease treatment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: shamanistic rites
+  literal_form: prayer, sacrifice, or incantation are named as ritual acts not used
+    in some simple acute cases
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Shamans seek medical treatment openly
+  summary: Shamans come to the author for treatment for themselves and friends and
+    ask for medicine before lay members of their tribe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shaman offers a remedy after failed relief
+  summary: When the author does not promptly relieve a sick person, a shaman politely
+    says he knows a remedy and asks permission to try it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plant treatment without ritual in simple cases
+  summary: The passage states that shamans use plants for disease treatment and may
+    administer them in simple acute cases without prayer, sacrifice, or incantation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: practical healing knowledge alongside ritual practice
+  taxonomy_refs: []
+  basis: The passage contrasts shamanistic rites with the use of remedies and plant
+    treatments, including cases without prayer, sacrifice, or incantation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic note on medical practice rather than a mythic
+    narrative motif; no supplied taxonomy motif directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2174-2177
+  quote_or_summary: Shamans often come to the author for treatment for themselves
+    and friends, openly asking for medicine before lay members of their own tribe.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2177-2181
+  quote_or_summary: They do not claim panaceas; when the author fails to give prompt
+    relief, they may say, "I know a remedy for that difficulty. Will you let me try
+    it?"
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2181-2183
+  quote_or_summary: Shamans do not limit themselves to shamanistic rites; they use
+    various plants for disease treatment and may administer them in simple acute cases
+    without prayer, sacrifice, or incantation.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is an ethnographic medical-practice note, not a myth narrative. No
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol was directly supported by the passage; plants are recorded as a passage-specific symbol without taxonomy reference.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l2174-l2183
+  passage_sha256=5fda3c5cf5e359c0e442684d88eb1b860b0eda8a1182a0ffa4a1fc554eecab5d
+

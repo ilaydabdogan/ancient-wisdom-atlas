@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2459-l2507
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2459-2507
+  start: '2459'
+  end: '2507'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: usually retiring for a month in the year to a cave in Mount Hara, near Mecca
+  summary: The passage recounts Mohammed's early poverty, guardianship, mercantile
+    work, marriage to Khadjah, and the later formation of a religious project described
+    as restoring ancient monotheism. It also presents the narrator's speculation about
+    Mohammed's motives, conviction about divine unity, and solitary retreats to a
+    cave on Mount Hara.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A widow and infant son are described as being left in very mean circumstances,
+    with property consisting of five camels and one Ethiopian she-slave.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Abd'almotalleb cared for his grandchild Mohammed and instructed Abu Tleb to
+    provide for Mohammed after Abd'almotalleb's death.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Abu Tleb provided for Mohammed, instructed him in mercantile business, and
+    took him to Syria when Mohammed was thirteen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Khadjah employed Mohammed as her factor and later married him, which the passage
+    says raised him to equality with the richest people in Mecca.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After his marriage improved his circumstances, Mohammed is said to have formed
+    a scheme of establishing a new religion, or of replanting an ancient true religion.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The described religious project opposed idolatry among his countrymen and
+    sought to remove corruptions and superstitions attributed to later Jews and Christians.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage identifies the religion's original purity chiefly with worship
+    of one only God.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator declines to decide whether Mohammed's undertaking arose from
+    enthusiasm or ambition, and reports that Christian writers generally attributed
+    it to ambition and sensual desire.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator says Mohammed was persuaded of the unity of God and might have
+    regarded rescuing the world from ignorance and superstition as meritorious.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage says Mohammed's idea of being destined by providence might have
+    deepened during solitude, when he usually retired for a month each year to a cave
+    in Mount Hara near Mecca.
+  category: setting
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Grandchild cared for by Abd'almotalleb and Abu Tleb; later a merchant/factor,
+    husband of Khadjah, and the figure said to form a project of religious restoration
+    and to retire in solitude to Mount Hara.
+  role_refs:
+  - role:1
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Abd'almotalleb
+  description: Mohammed's grandfather, who cared for him and instructed Abu Tleb to
+    provide for him after his death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Abu Tleb
+  description: Abd'almotalleb's eldest son and brother to Abd'allah by the same mother;
+    he provided for Mohammed and instructed him as a merchant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Khadjah
+  description: A noble and rich widow who employed Mohammed as her factor and later
+    married him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Adam, Noah, Abraham, Moses, Jesus, and all the prophets
+  description: Earlier prophetic figures named as professing the ancient true religion
+    that Mohammed is said to have sought to replant.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Pagan Arabs / Mohammed's countrymen
+  description: The passage describes the generality of Mohammed's countrymen as having
+    fallen into gross idolatry.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: Jews and Christians as represented in the passage
+  description: Groups described by the narrator as having introduced corruptions or
+    as violating Mohammed's article of divine unity.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: impoverished dependent grandchild
+  assigned_to:
+  - fig:1
+  basis: The passage describes Mohammed as a grandchild needing care after a widow
+    and infant son are left in mean circumstances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: grandfather guardian
+  assigned_to:
+  - fig:2
+  basis: Abd'almotalleb is said to have taken care of Mohammed and arranged future
+    provision for him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: uncle guardian and merchant instructor
+  assigned_to:
+  - fig:3
+  basis: Abu Tleb is said to have provided for Mohammed, instructed him in trade,
+    and taken him to Syria.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: patron employer and spouse
+  assigned_to:
+  - fig:4
+  basis: Khadjah employed Mohammed as a factor and then married him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: merchant and factor
+  assigned_to:
+  - fig:1
+  basis: Mohammed is described as following mercantile business and serving Khadjah
+    as her factor.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: religious reformer / restorer of monotheism
+  assigned_to:
+  - fig:1
+  basis: The passage says Mohammed formed a project to replant the ancient true religion
+    and restore worship of one God.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: earlier prophetic exemplars
+  assigned_to:
+  - fig:5
+  basis: The named figures are presented as prior possessors or professors of the
+    ancient true religion.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: communities targeted for correction
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage describes idolatry among Mohammed's countrymen and corruptions
+    or violations of divine unity among Jews and Christians.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave in Mount Hara, near Mecca
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: mountain
+  literal_form: Mount Hara near Mecca
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Childhood guardianship and mercantile formation
+  summary: Mohammed is described as moving from poor early circumstances into the
+    care of Abd'almotalleb and Abu Tleb, receiving mercantile instruction, traveling
+    to Syria, and later entering Khadjah's service and marriage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Formation of a religious restoration project
+  summary: After his advantageous marriage, Mohammed is said to form a project described
+    as either establishing a new religion or restoring an ancient one professed by
+    earlier prophets, opposing idolatry and corruptions, and centering on worship
+    of one God.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Solitary retreat at Mount Hara
+  summary: The narrator speculates that Mohammed's thought of being providentially
+    destined for reform may have deepened during solitude, with annual month-long
+    retreats to a cave in Mount Hara near Mecca.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Restoration of an ancient true monotheism
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes Mohammed's project as replanting an ancient true religion
+    professed by earlier prophets and as restoring worship of one only God against
+    ignorance and superstition.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is Sale's preliminary discourse
+    and includes interpretive, polemical framing rather than a narrative from the
+    Qur'an itself.
+- id: motif:2
+  label: Solitary cave-and-mountain retreat linked to prophetic vocation
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage links Mohammed's possible sense of providential destiny with
+    solitude and annual retirement to a cave on Mount Hara.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage presents this as speculation and does not narrate a revelation
+    or initiation event within the selected lines.
+- id: motif:3
+  label: Reformer opposing idolatry and religious corruption
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents Mohammed's undertaking as a reform that would destroy
+    idolatry, remove perceived corruptions, and bring people to knowledge of the true
+    God.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is an authorial characterization of Mohammed's aims and motives,
+    not a direct self-narrated mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, Mohammed's religious project is presented as functioning
+    as a restoration of the same ancient monotheistic religion attributed to Adam,
+    Noah, Abraham, Moses, Jesus, and the prophets.
+  claim_level: same_function
+  target: Earlier Abrahamic prophetic figures named in the passage
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: This is an intra-passage comparison based on the narrator's report
+    of how Mohammed expressed his project; the passage also records disputed interpretations
+    of his motives.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2459-2460
+  quote_or_summary: A widow and infant son are described as left in very mean circumstances,
+    with only five camels and one Ethiopian she-slave.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:2
+  type: summary
+  locator: 2461-2464
+  quote_or_summary: Abd'almotalleb cared for his grandchild Mohammed and, at death,
+    instructed Abu Tleb to provide for him in the future.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:3
+  type: summary
+  locator: 2464-2469
+  quote_or_summary: Abu Tleb instructed Mohammed in mercantile work and took him to
+    Syria at thirteen; Khadjah employed Mohammed as factor and later married him,
+    raising his status in Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:4
+  type: quote
+  locator: 2470-2477
+  quote_or_summary: Mohammed is described as "replanting the only true and ancient
+    one, professed by Adam, Noah, Abraham, Moses, Jesus, and all the prophets" and
+    restoring worship of "the one only GOD."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:5
+  type: summary
+  locator: 2478-2487
+  quote_or_summary: The narrator declines to determine whether the undertaking came
+    from enthusiasm or ambition, reports Christian writers' negative view, and then
+    states that Mohammed's original design of bringing pagan Arabs to knowledge of
+    the true God was noble.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:6
+  type: summary
+  locator: 2488-2497
+  quote_or_summary: The narrator says Mohammed was persuaded of divine unity, saw
+    idolaters, Christians, and Jews as violating it, and might have thought rescuing
+    the world from ignorance and superstition meritorious and providentially assigned
+    to him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:7
+  type: quote
+  locator: 2497-2503
+  quote_or_summary: The passage says this idea might deepen during solitude, with
+    Mohammed "usually retiring for a month in the year to a cave in Mount Hara, near
+    Mecca."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied by requester.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English preliminary discourse passage.
+    Confidence is limited by the passage's polemical/editorial voice and the fact
+    that the selected range begins mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external Islamic tradition material was added; cave and mountain symbols are recorded only from the passage's explicit wording.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2459-l2507
+  passage_sha256=7b4d8c4fb2a7dae78a6815017f66cec0203e1c886c02795872db561210889e9a
+

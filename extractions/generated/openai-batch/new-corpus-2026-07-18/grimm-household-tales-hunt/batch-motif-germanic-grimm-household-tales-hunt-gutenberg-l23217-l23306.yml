@@ -1,0 +1,610 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l23217-l23306
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 23217-23306
+  start: '23217'
+  end: '23306'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A princess with twelve all-seeing windows requires any prospective husband
+    to hide from her or be beheaded. After two elder brothers fail and die, the youngest
+    spares a raven, fish, and fox while hunting. Each helper repays him by hiding
+    him: first in an egg, then in a fish’s stomach, and finally through water-based
+    transformation into a sea-hare hidden under the princess’s hair. On the final
+    attempt she cannot find him and breaks the windows in anger.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The princess lives high in a castle apartment with twelve windows looking
+    in every direction; from the twelfth she can see everything above and under the
+    earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess proclaims that only a man who can hide from her so completely
+    that she cannot find him may become her husband; discovered contestants are beheaded
+    and their heads placed on posts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ninety-seven posts with dead men’s heads already stand before the castle before
+    the three brothers arrive.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eldest brother hides in a lime-pit and the second in the palace cellar;
+    the princess sees both from the first window, and both are executed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The youngest brother asks for a day to consider and for the princess to overlook
+    two discoveries; she grants this but warns that he will not succeed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: While hunting, the youth refrains from killing a raven, a fish, and a fox
+    after each promises to make it worth his while; he also removes a thorn from the
+    fox’s foot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The raven hides the youth inside an egg from its nest, but the princess sees
+    him from the eleventh window and orders the raven shot and the egg broken.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The fish swallows the youth and descends to the bottom of the lake, but the
+    princess sees him from the twelfth window and orders the fish caught and killed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The fox dips into a spring and becomes a stall-keeper and animal dealer; the
+    youth dips into the water and becomes a small sea-hare.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The transformed fox sells the sea-hare to the princess and instructs it to
+    creep under her hair braids when she goes to the window.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: On the final search, the princess cannot see the youth from any of the twelve
+    windows; in anger she shuts the window so violently that all the window glass
+    shivers and the castle shakes.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: princess / King’s daughter
+  description: A royal woman in a castle whose twelve windows allow extraordinary
+    sight; she sets the hiding challenge and orders executions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: youngest brother / youth
+  description: The youngest of three brothers; he seeks to pass the princess’s hiding
+    test, spares three animals, and is hidden or transformed by them.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: eldest brother
+  description: A brother who attempts the hiding challenge by entering a lime-pit
+    and is found and beheaded.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: second brother
+  description: A brother who attempts the hiding challenge by entering the palace
+    cellar and is found and beheaded.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: raven
+  description: A bird spared by the youth while hunting; later it hides him inside
+    an egg from its nest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: large fish
+  description: A fish from the lake spared by the youth; later it swallows him and
+    goes to the bottom of the lake.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: fox
+  description: A lame fox with a thorn in its foot; after being spared, it advises
+    the youth, transforms through a spring into a stall-keeper, and arranges the final
+    hiding.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: dead suitors
+  description: Men previously discovered by the princess and represented by heads
+    placed on posts before the castle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: all-seeing royal watcher
+  assigned_to:
+  - fig:1
+  basis: The princess’s twelve windows let her see in every direction and ultimately
+    above and under the earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lethal challenge-setter
+  assigned_to:
+  - fig:1
+  basis: She proclaims the hiding test and orders discovered contestants beheaded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: contestant suitor
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The three brothers present themselves to try their luck in the princess’s
+    challenge.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hidden contestant
+  assigned_to:
+  - fig:2
+  basis: The youngest brother repeatedly seeks concealment from the princess’s sight.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:5
+  label: spared animal helper
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each animal is spared by the youth and later provides concealment or advice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: shapeshifting helper
+  assigned_to:
+  - fig:7
+  basis: The fox enters a spring and emerges as a stall-keeper and animal dealer.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: prior failed contestants
+  assigned_to:
+  - fig:8
+  basis: The heads on posts belong to men previously discovered by the princess.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: twelve windows
+  literal_form: An apartment with twelve windows looking in every possible direction,
+    culminating in a twelfth window that sees above and under the earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heads on posts
+  literal_form: Posts before the castle bearing the heads of men who failed the hiding
+    test.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lime-pit
+  literal_form: The eldest brother’s failed hiding place.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: palace cellar
+  literal_form: The second brother’s failed hiding place.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: raven’s egg
+  literal_form: An egg from the raven’s nest, cut open and remade around the youth
+    as a hiding container.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: lake water
+  literal_form: A lake where the fish rises from below and later descends to the bottom
+    with the youth in its stomach.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:7
+  label: fish stomach
+  literal_form: The fish’s stomach, used as the youth’s second hiding place.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: spring water
+  literal_form: A spring into which the fox and youth dip themselves and emerge in
+    changed forms.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: small sea-hare
+  literal_form: The animal form into which the youth is changed and then sold to the
+    princess.
+  associated_figures:
+  - fig:2
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:10
+  label: hair braids
+  literal_form: The princess’s braids, beneath which the sea-hare is told to hide
+    during the final search.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:11
+  label: shattered window glass
+  literal_form: Glass from every window shattering after the princess violently shuts
+    the final window.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: The all-seeing princess and the lethal proclamation
+  summary: The princess’s chamber with twelve windows gives her extraordinary sight,
+    and she announces that any man who cannot hide from her will be executed.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The three brothers enter the challenge
+  summary: The eldest and second brothers fail in simple hiding places and are beheaded;
+    the youngest obtains time and two pardons before the final attempt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The hunter spares three animals
+  summary: The youth goes hunting and spares a raven, a fish, and a fox, each of which
+    promises future recompense.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: First concealment in the raven’s egg
+  summary: The raven encloses the youth in an egg; the princess eventually sees him
+    from the eleventh window and has the egg broken.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Second concealment in the fish
+  summary: The fish swallows the youth and goes to the lake bottom; the princess sees
+    him from the twelfth window and has the fish killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: The fox’s spring transformation and sale of the sea-hare
+  summary: The fox uses a spring to become a stall-keeper, and the youth becomes a
+    sea-hare that the princess buys.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Final hiding under the princess’s hair
+  summary: The sea-hare hides under the princess’s braids; she cannot find him from
+    any window and shatters the window glass in anger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: lethal hiding contest for marriage
+  taxonomy_refs: []
+  basis: The princess declares that only a man who can hide from her may become her
+    husband, while discovered contestants are beheaded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as a marriage condition and execution threat;
+    no external motif index number is supplied.
+- id: motif:2
+  label: all-seeing royal woman
+  taxonomy_refs: []
+  basis: The princess’s twelve windows enable sight in all directions and, from the
+    twelfth, sight above and under the earth.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage attributes the power to the windows and her use of them; it
+    does not explain their origin.
+- id: motif:3
+  label: spared animals repay mercy with aid
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The youth spares the raven, fish, and fox after they promise recompense,
+    and each later helps him hide or transform.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The reciprocal exchange is explicit, but the taxonomy label 'sacred_exchange'
+    is broader than the passage’s literal wording.
+- id: motif:4
+  label: concealment inside animal or egg enclosure
+  taxonomy_refs: []
+  basis: The youth is hidden inside a raven’s egg and then inside a fish’s stomach
+    during successive attempts to evade detection.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no taxonomy reference
+    is directly supplied.
+- id: motif:5
+  label: transformation through water
+  taxonomy_refs:
+  - shapeshifter
+  basis: 'The fox and youth dip into a spring and emerge in new forms: a stall-keeper
+    and a small sea-hare.'
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage describes transformation but does not identify its mechanism
+    beyond entering the spring.
+- id: motif:6
+  label: third attempt succeeds after two discoveries
+  taxonomy_refs: []
+  basis: The first two aided concealments are discovered, while the final concealment
+    under the princess’s braids defeats all twelve windows.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage ends at the moment of the princess’s failed search and does
+    not include the later outcome of the contest.
+- id: motif:7
+  label: hiding in proximity to the seeker
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox instructs the transformed youth to hide under the princess’s own
+    hair, a place her window-search fails to detect.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The close-proximity concealment is explicit; the 'trickster_boundary'
+    taxonomy reference is interpretive and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23217-23227
+  quote_or_summary: The princess has a high castle apartment with twelve windows;
+    the windows give progressively stronger sight, and the twelfth reveals everything
+    above and under the earth.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 23228-23239
+  quote_or_summary: The princess wants sole dominion and proclaims that a husband
+    must hide beyond her discovery; failed suitors are beheaded and their heads put
+    on posts, with ninety-seven already present.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 23239-23255
+  quote_or_summary: Three brothers arrive; the eldest hides in a lime-pit and the
+    second in the palace cellar, both found from the first window and executed. The
+    youngest obtains a day and permission for two failed discoveries.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 23256-23274
+  quote_or_summary: While hunting, the youth spares a raven, a fish, and a fox after
+    promises of recompense; he removes a thorn from the fox’s foot before letting
+    it go.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 23275-23291
+  quote_or_summary: The raven repays the youth by enclosing him in an egg; the princess
+    cannot see him until the eleventh window, then orders the raven shot and the egg
+    broken.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 23292-23305
+  quote_or_summary: The fish swallows the youth and descends to the lake bottom; the
+    princess sees him from the twelfth window, orders the fish caught and killed,
+    and grants the second pardon.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: '23306'
+  quote_or_summary: On the last day, the fox leads the youth to a spring; the fox
+    becomes a stall-keeper and animal dealer, and the youth becomes a small sea-hare
+    that is sold to the princess.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: '23306'
+  quote_or_summary: The fox tells the sea-hare to hide under the princess’s hair braids
+    when she searches; she fails to see him from all twelve windows and violently
+    shatters the window glass as the castle shakes.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    links are conservative and require human review, especially broad references such
+    as sacred_exchange and trickster_boundary. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Evidence line locators are approximate within the provided range because the passage was supplied as continuous text.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l23217-l23306
+  passage_sha256=5b7718dfcb1daac359dcf5f8892a63537d5837605d07873c972a45534b853687
+

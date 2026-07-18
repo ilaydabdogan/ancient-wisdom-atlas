@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l1246-l1291
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 17 / THE LEGEND. / ABORIGINAL TRIBES OF GUIANA.
+    19 / LEGENDS AND MYTHS OF THE; lines 1246-1291
+  start: '1246'
+  end: '1291'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Water-Mother instructs Arawanili about a fallen fruit and a meeting
+    by the sea, then sinks into the wave. Arawanili raises a tree, brings a calabash
+    to the shore, works its rind, and receives from the Water-Mother a feathered handle,
+    shining ocean stones, tobacco, and charms that make the Yauhahu dread him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female Water-Mother tells Arawanili to take the first large round fruit
+    that falls and meet her by the sea.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Water-Mother withdraws from Arawanili's gaze and sinks into the wave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Arawanili raises a tree at his place and watches the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Arawanili brings a calabash to the shore, where the Water-Mother meets him
+    again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Arawanili empties the rind of the calabash through holes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Water-Mother brings a feathered handle for Arawanili.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Water-Mother dives, seeks gems of the ocean, and brings shining white
+    stones to Arawanili.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Water-Mother brings tobacco, which the passage says was then unknown but
+    is now common.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Water-Mother brings charms that make all Yauhahu dread Arawanili.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Water-Mother
+  description: A named female water-associated figure who speaks to Arawanili, sinks
+    into the wave, meets him at the shore, dives in the sea, and brings objects and
+    charms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Arawanili
+  description: The named recipient who raises a tree, brings the calabash, hollows
+    its rind, and receives items from the Water-Mother.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Yauhahu
+  description: A named plural group said to dread Arawanili because of the charms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: water-being donor and instructor
+  assigned_to:
+  - fig:1
+  basis: The Water-Mother gives instructions, appears from or in the sea, dives, and
+    brings a handle, stones, tobacco, and charms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: recipient and maker
+  assigned_to:
+  - fig:2
+  basis: Arawanili follows the sea meeting, raises the tree, brings the calabash,
+    empties its rind, and receives objects.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: fear-affected group
+  assigned_to:
+  - fig:3
+  basis: The passage states that the charms made all Yauhahu dread Arawanili.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea and wave
+  literal_form: sea, wave, ocean
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: tree
+  literal_form: tree reared at Arawanili's place
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: calabash fruit and rind
+  literal_form: large round fruit; calabash; emptied rind with holes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: feathered handle
+  literal_form: handle, feathered fair
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: shining white ocean stones
+  literal_form: gems of ocean sea; stones of shining white
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: tobacco
+  literal_form: tobacco, described as then unknown and now common
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: charms
+  literal_form: charms that made all Yauhahu dread Arawanili
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Instruction by the sea
+  summary: The Water-Mother instructs Arawanili about taking the first fallen large
+    round fruit and meeting her by the sea, then sinks into the wave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Calabash brought to shore
+  summary: Arawanili raises a tree, watches the sea, brings the calabash to the shore,
+    and hollows its rind while the Water-Mother brings a feathered handle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Objects and charms from the sea
+  summary: The Water-Mother dives and brings shining white stones, tobacco, and charms
+    that make the Yauhahu dread Arawanili.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: water-being gives potent objects to a human recipient
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Water-Mother repeatedly meets Arawanili by the shore and brings him a
+    feathered handle, stones from the sea, tobacco, and charms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows transfer or gifting, but does not describe a reciprocal
+    exchange or full ritual context.
+- id: motif:2
+  label: origin or first introduction of tobacco
+  taxonomy_refs: []
+  basis: The passage says the Water-Mother brought tobacco, which none then knew though
+    it is now common.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The broader narrative context is not included, so the cultural scope of
+    the origin claim should be reviewed.
+- id: motif:3
+  label: supernatural charms confer fearsome power
+  taxonomy_refs: []
+  basis: The charms brought by the Water-Mother make all Yauhahu dread Arawanili.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not define the Yauhahu or specify the nature of the charms.
+- id: motif:4
+  label: calabash object prepared with supernatural materials
+  taxonomy_refs: []
+  basis: Arawanili hollows the calabash rind through holes, and the Water-Mother supplies
+    a feathered handle and shining stones from the sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not name the finished object or state its later use.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1246-1257
+  quote_or_summary: The Water-Mother instructs Arawanili to take the first fallen
+    large round fruit and meet by the sea; she then sinks into the wave.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 1258-1267
+  quote_or_summary: Arawanili raises a tree, watches the sea, carries the calabash
+    to the shore, and is met again by the Water-Mother.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 1268-1273
+  quote_or_summary: Arawanili empties the rind through holes, and the Water-Mother
+    brings a feathered handle for him.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 1274-1281
+  quote_or_summary: The Water-Mother dives, seeks ocean gems, and brings shining white
+    stones to Arawanili.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 1282-1291
+  quote_or_summary: The Water-Mother brings tobacco, described as then unknown and
+    now common, along with charms that make all Yauhahu dread Arawanili.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the excerpt does not define the
+    completed calabash object or the Yauhahu, and broader narrative context is absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-tradition comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l1246-l1291
+  passage_sha256=daaf8adf18e6e7dd246d47644464d532f92e48857a84b165fd16d920a4a7cb7b
+

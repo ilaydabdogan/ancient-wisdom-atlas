@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l5725-l5807
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF
+    ERBIN / THE DREAM OF RHONABWY; lines 5725-5807
+  start: '5725'
+  end: '5807'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Arthur and Owain continue playing chess while three armed knights arrive
+    in succession to report that Owain's Ravens are killing attendants, pages, nobles'
+    sons, household men, and horses. Arthur repeatedly asks Owain to forbid the Ravens,
+    but Owain tells him to continue the game. After the third petition, Arthur crushes
+    the golden chessmen to dust; Owain orders Gwres son of Rheged to lower his banner,
+    and peace follows.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Arthur and Owain are seated at chess while they hear or observe tumult and
+    see an armed knight approaching on a dun-coloured horse.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The first knight and horse are described with heavy foreign armour, richly
+    colored horse-clothing, a gold helmet with a flame-coloured leopard image, and
+    a blue-shafted lance stained crimson with the blood and plumage of Ravens.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first knight reports that Owain's Ravens are slaying his young men and
+    attendants; Arthur tells Owain to forbid the Ravens, and Owain answers that Arthur
+    should play the game.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After more play, the Ravens croak, carry men into the air, tear them between
+    themselves, and let them fall piecemeal to the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A second armed knight on a light grey horse arrives and reports to Arthur,
+    called the Emperor, that pages, young men, and nobles' sons of Britain are being
+    slain; Arthur again tells Owain to forbid the Ravens, and Owain again tells him
+    to play the game.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Arthur and Owain finish one game and begin another while the tumult continues;
+    Ravens and wing-flapping are heard as armour is flung down entire and men and
+    horses are dropped piecemeal.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A third armed knight on a piebald horse arrives wrathfully and reports that
+    the Ravens have slain his household and sons of chief men, asking Arthur to cause
+    Owain to forbid them.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: After Arthur beseeches Owain, Arthur crushes the golden chessmen on the board
+    to dust; Owain orders Gwres son of Rheged to lower his banner, the banner is lowered,
+    and peace follows.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Arthur
+  description: Seated at chess with Owain; addressed as Lord and Emperor; repeatedly
+    asks Owain to forbid the Ravens; crushes the golden chessmen to dust before peace
+    is restored.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Owain
+  description: Arthur's chess opponent; identified as the one whose Ravens are attacking;
+    repeatedly tells Arthur to play; finally orders Gwres son of Rheged to lower his
+    banner.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Owain's Ravens
+  description: Ravens attributed to Owain; they slay men, croak, carry men into the
+    air, tear them apart, and contribute to the tumult until the banner is lowered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: First knight on the dun-coloured horse
+  description: An armed youth on a dun-coloured horse with ornate equipment and a
+    blood-stained lance; he is harassed, vexed, and weary, and reports that Owain's
+    Ravens are slaying his young men and attendants.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Second knight on the light grey horse
+  description: An armed youth on a light grey horse, wearing heavy blue armour and
+    a golden helmet with a flame-coloured lion figure; he reports slaughter among
+    pages, young men, and nobles' sons of Britain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Third knight on the piebald horse
+  description: A wrathful armed knight on a lofty-headed piebald horse, with a griffin-crested
+    helmet and blood-stained spear; he reports that the Ravens have slain his household
+    and sons of chief men.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Gwres son of Rheged
+  description: Named subordinate whom Owain orders to lower his banner.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Attacked young men, attendants, pages, nobles' sons, household men,
+    and horses
+  description: Groups reported or shown as being slain, torn, carried into the air,
+    or flung down by the Ravens.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Ruler addressed for intervention
+  assigned_to:
+  - fig:1
+  basis: Knights address Arthur as Lord or Emperor, and Arthur repeatedly asks or
+    beseeches Owain to forbid the Ravens.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:2
+  label: Chess opponent and holder of the Ravens
+  assigned_to:
+  - fig:2
+  basis: Owain plays chess with Arthur, is told to forbid 'thy Ravens,' and later
+    commands Gwres to lower his banner.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Attacking war-birds
+  assigned_to:
+  - fig:3
+  basis: The Ravens slay, carry, tear, and drop men and are the focus of repeated
+    pleas to be forbidden.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: Petitioning armed knights
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each mounted knight arrives during the tumult and reports losses caused by
+    the Ravens, asking for intervention.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:5
+  label: Victims of the Raven attack
+  assigned_to:
+  - fig:8
+  basis: The passage names young men, attendants, pages, nobles' sons, household members,
+    men, and horses as killed or torn by the Ravens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: Banner-lowering subordinate
+  assigned_to:
+  - fig:7
+  basis: Owain orders Gwres son of Rheged to lower his banner, after which it is lowered
+    and peace follows.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Chess game and golden chessmen
+  literal_form: Chess board with golden chessmen, used by Arthur and Owain during
+    the reports of battle; Arthur crushes the chessmen to dust.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: Owain's Ravens
+  literal_form: Ravens that croak, fly, attack, carry, tear, and drop men and horses.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: Lowered banner
+  literal_form: Banner held under Gwres son of Rheged's responsibility and lowered
+    by Owain's order before peace follows.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Blood-stained lance and spear heads
+  literal_form: A blue-shafted lance stained with blood and Raven plumage; later lance
+    or spear heads newly steeped or stained with blood and overlaid with silver.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: Helmet crests of fierce beasts
+  literal_form: Helmet images of a flame-coloured leopard, a flame-coloured lion with
+    fiery-red tongue and venomous eyes, and a griffin with a stone of many virtues.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: First petition during the chess game
+  summary: Arthur and Owain are playing chess when a richly armed knight on a dun-coloured
+    horse arrives, reports that Owain's Ravens are killing his young men and attendants,
+    and receives no effective restraint from Owain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Escalation and second petition
+  summary: The Ravens carry and tear men apart. A second armed knight appears, reports
+    further slaughter among pages, young men, and nobles' sons, and Arthur again asks
+    Owain to forbid the Ravens; Owain again insists on the game.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Third petition, broken chessmen, and peace
+  summary: After another game, the tumult intensifies and a third knight reports his
+    household and sons of chief men slain. Arthur crushes the golden chessmen, Owain
+    orders Gwres to lower the banner, and peace follows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Game continues while battle escalates
+  taxonomy_refs: []
+  basis: Arthur and Owain continue or resume chess despite successive reports and
+    sounds of the Ravens killing men, until Arthur destroys the chessmen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explicitly state that the chess game controls the
+    battle; the link is sequential and dramatic.
+- id: motif:2
+  label: Repeated petitions to restrain destructive allies
+  taxonomy_refs: []
+  basis: Three mounted knights arrive in succession to ask Arthur to make Owain forbid
+    his Ravens after reporting escalating losses.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The threefold repetition is clear, but broader typological classification
+    is not supplied by the passage.
+- id: motif:3
+  label: War-birds under a warrior's command
+  taxonomy_refs: []
+  basis: The attackers are repeatedly called Owain's Ravens; Arthur asks Owain to
+    forbid them, and peace follows when Owain orders his banner lowered.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The precise mechanism connecting Owain, the Ravens, and the banner is
+    not explained in the passage.
+- id: motif:4
+  label: Destructive birds dismember warriors from the air
+  taxonomy_refs: []
+  basis: The Ravens carry men into the air, tear them between themselves, and later
+    fling down armour, men, and horses piecemeal.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage describes the action literally; symbolic meaning is not stated.
+- id: motif:5
+  label: Crisis resolved by destroying game pieces and lowering a banner
+  taxonomy_refs: []
+  basis: After repeated pleas fail, Arthur crushes the golden chessmen; Owain then
+    orders Gwres to lower the banner, it is lowered, and peace follows.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Causation between the crushed chessmen, lowered banner, and peace is implied
+    by sequence but not explicitly interpreted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5725-5743
+  quote_or_summary: Arthur and Owain marvel at tumult while playing chess; a first
+    knight on a dun-coloured horse approaches with ornate armour, a leopard-crested
+    golden helmet, and a lance stained with Raven blood and plumage.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: 5745-5751
+  quote_or_summary: The first knight comes to Arthur and Owain at chess, weary and
+    vexed, and says Owain's Ravens are slaying his young men and attendants; Arthur
+    tells Owain to forbid the Ravens, but Owain tells him to play.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: 5753-5756
+  quote_or_summary: A mighty tumult, men's wailing, and Ravens' croaking are heard
+    as the Ravens carry men into the air, tear them between themselves, and let them
+    fall piecemeal.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: summary
+  locator: 5757-5772
+  quote_or_summary: A second knight on a light grey horse appears in heavy blue armour,
+    with a golden helmet bearing a flame-coloured lion, and a blood-steeped lance
+    head overlaid with silver.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: summary
+  locator: 5774-5778
+  quote_or_summary: The second knight addresses Arthur as Emperor and asks whether
+    he cares for the slaying of pages, young men, and nobles' sons; Arthur tells Owain
+    to forbid the Ravens, and Owain tells Arthur to play the game.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:6
+  type: summary
+  locator: 5780-5799
+  quote_or_summary: Arthur and Owain finish one game and begin another; amid renewed
+    tumult, Ravens' croaking, and flapping wings, armour, men, and horses are flung
+    down. A third knight on a piebald horse arrives with a griffin-crested helmet
+    and blood-stained spear.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:7
+  type: summary
+  locator: 5801-5807
+  quote_or_summary: The third knight reports that the Ravens have slain his household
+    and sons of chief men and asks Arthur to make Owain forbid them. Arthur beseeches
+    Owain, crushes the golden chessmen to dust, and Owain orders Gwres son of Rheged
+    to lower his banner; when it is lowered, all is peace.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about the sequence of petitions, the Raven attacks,
+    the chess game, the crushed chessmen, and the lowered banner. Motif labels are
+    descriptive rather than taxonomic. No comparison claims are made because the passage
+    itself does not compare this scene to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol references were assigned because the supplied taxonomy list does not contain close literal matches for Ravens, chess, banners, or battle-bird control.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l5725-l5807
+  passage_sha256=b5916f0691fad9ef7bb4136107c8307559c74c795504d9b52f7fac4e206363cb
+

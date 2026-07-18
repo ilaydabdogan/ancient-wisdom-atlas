@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7752-l7782
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 71 / PAGE 76 / PAGE 78 / PAGE 79; lines 7752-7782
+  start: '7752'
+  end: '7782'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces five rhetorical pieces and gives a literal translation
+    of one speech in which Cuchulain asks Emer why he should not be allowed to delay
+    with an unnamed lady. He praises the lady's beauty, nobility, skill, understanding,
+    possessions, and ability to cross mighty sea-waves, then praises his own heroic
+    appearance and battle-worthiness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that five rhetorical pieces follow and discusses prior
+    translation and metrical treatment of them.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cuchulain addresses Emer and asks why he should not be permitted to delay
+    with the lady.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cuchulain describes the lady as bright, pure, clear, beautiful, and a worthy
+    mate for a king.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Cuchulain says the lady can pass over waves of mighty seas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Cuchulain attributes to the lady noble race, embroidery, skill, handiwork,
+    understanding, sense, firmness, horses, and cattle.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Cuchulain says that, regarding the wish for a dear spouse, there is nothing
+    under heaven that the lady does not have or do.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Cuchulain tells Emer that she will never find a hero as beautiful, scarred
+    with wounds, battle-triumphing, and worthy as himself.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Speaker who addresses Emer, asks to delay with the lady, praises the
+    lady, and praises his own heroic qualities.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Emer
+  description: Addressee of Cuchulain's speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: this lady
+  description: Unnamed lady praised by Cuchulain as beautiful, king-worthy, skilled,
+    noble, wealthy in livestock, and able to pass over mighty sea-waves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: Cuchulain is explicitly named as the one speaking to Emer.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: addressed woman
+  assigned_to:
+  - fig:2
+  basis: Emer is directly addressed by Cuchulain in the speech.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: self-praising hero
+  assigned_to:
+  - fig:1
+  basis: Cuchulain claims that Emer will not find a hero as beautiful, wounded, battle-triumphing,
+    and worthy as himself.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: praised potential spouse or mate
+  assigned_to:
+  - fig:3
+  basis: The unnamed lady is described as a worthy mate for a king and as fulfilling
+    wishes for a dear spouse.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: mighty sea-waves
+  literal_form: waves of mighty seas
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: livestock wealth
+  literal_form: horses and cattle
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: heroic wounds
+  literal_form: scars from wounds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cuchulain's address to Emer about the lady
+  summary: Cuchulain asks Emer why he should not be allowed to delay with the unnamed
+    lady, praises the lady's qualities and possessions, and asserts his own superior
+    heroic worth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: exceptional woman praised as ideal mate
+  taxonomy_refs: []
+  basis: The lady is praised as beautiful, noble, skilled, wealthy, sea-crossing,
+    and a worthy mate for a king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents praise within a speech, but does not narrate a marriage,
+    union, abduction, or divine identity in this excerpt.
+- id: motif:2
+  label: heroic self-boast before beloved or spouse
+  taxonomy_refs: []
+  basis: Cuchulain tells Emer that no hero she finds will equal his beauty, wounds,
+    battle-triumph, and worthiness.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The boast is explicit, but the broader narrative function is not supplied
+    in this passage.
+- id: motif:3
+  label: woman able to cross mighty seas
+  taxonomy_refs: []
+  basis: Cuchulain says the lady can pass over waves of mighty seas.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage does not explain whether this is supernatural travel, metaphorical
+    praise, or a conventional attribute.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7752-7770
+  quote_or_summary: Editorial commentary introduces five rhetorical pieces, notes
+    Thurneysen's translations, discusses metre, and states that the last piece has
+    major differences between verse and literal translations.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 7771-7773
+  quote_or_summary: '"Wherefore now, O Emer!" said Cuchulain, "should I not be permitted
+    to delay with this lady?"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 7773-7776
+  quote_or_summary: Cuchulain says the lady is bright, pure, clear, a worthy mate
+    for a king, and of many forms of beauty.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 7775-7776
+  quote_or_summary: '"she can pass over waves of mighty seas"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 7776-7780
+  quote_or_summary: Cuchulain attributes to the lady good shape and countenance, noble
+    race, embroidery, skill, handiwork, understanding, sense, firmness, and plenty
+    of horses and cattle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 7780-7781
+  quote_or_summary: Cuchulain says there is nothing under heaven, no wish for a dear
+    spouse, that the lady does not have or do.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 7781-7782
+  quote_or_summary: Cuchulain tells Emer that she will never find a hero as beautiful,
+    scarred with wounds, battle-triumphing, and worthy as himself.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal figures and attributes are explicit in the supplied passage. Motif
+    labels are cautious because the excerpt is largely rhetorical praise and does
+    not give wider narrative context. No comparison claims are made because the passage
+    itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol reference applied only to the explicit water image of sea-waves; no motif-family taxonomy reference assigned due to insufficient support in this excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7752-l7782
+  passage_sha256=66a39f5b7097743e91d103fb79f883c924aa3362d071952cb36083a6a1cf211a
+

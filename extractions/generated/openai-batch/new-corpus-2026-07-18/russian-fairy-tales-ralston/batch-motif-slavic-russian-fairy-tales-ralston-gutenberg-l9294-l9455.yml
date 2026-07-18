@@ -1,0 +1,538 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l9294-l9455
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'FOOTNOTES: / CHAPTER III. / MYTHOLOGICAL. / SOZH AND DNIEPER.; lines 9294-9455'
+  start: '9294'
+  end: '9455'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A stepmother orders an old man to take Marfa into the forest and leave
+    her under a pine as a bride for Morozko, or Frost. Frost questions the freezing
+    girl, who answers respectfully, and he rewards her with warmth and gifts. Seeing
+    this, the stepmother sends her own two daughters to the same pine for the same
+    bridegroom; they quarrel and complain of the cold as Frost approaches.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old woman tells the old man to drive Marfa to Morozko, identified parenthetically
+    as Frost, by turning into the forest to a big pine on a hill.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old woman describes the intended bridegroom as rich, associating his possessions
+    with firs, pine-tops, and birches in snowy covering, and calls him a bogatir.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old man takes Marfa by sledge into the forest, leaves her basket under
+    the tall pine, tells her to await the bridegroom, and drives home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Marfa sits in the cold, shivering and losing strength, while Frost cracks,
+    snaps his fingers, leaps from fir to fir, and appears on the pine above her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Frost repeatedly asks Marfa whether she is warm, and she repeatedly answers
+    that she is warm while addressing him respectfully as Frost or Father Frost.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After Marfa becomes numb with cold, Frost takes pity on her, wraps her in
+    furs, and warms her with blankets.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The next morning the old man finds Marfa alive, with a good pelisse, a costly
+    bridal veil, and a pannier containing rich gifts.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The old woman, after seeing Marfa alive with gifts, tells the old man to take
+    her own daughters to the same bridegroom because she expects greater presents
+    for them.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The old woman prepares her daughters as brides, and the old man leaves them
+    under the same pine.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The two daughters sit under the pine, laugh about being married off, quarrel
+    over which of them the bridegroom will choose, and complain of the cold.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Frost numbs the daughters' hands while they continue quarrelling, then approaches
+    cracking, snapping his fingers, and leaping from fir to fir until he appears on
+    the pine above them.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: old woman / stepmother
+  description: Woman who commands the old man to take Marfa to Frost and later sends
+    her own daughters after seeing Marfa return with gifts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: old man
+  description: Man who transports Marfa and later the old woman's daughters by sledge
+    to the forest pine and returns to collect Marfa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Marfa / the daughter / the maiden
+  description: Girl taken to the forest pine as Frost's bride, questioned by Frost
+    while freezing, and later found alive with clothing and gifts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Morozko / Frost / Father Frost
+  description: Personified Frost who moves among firs, appears on the pine, questions
+    Marfa, and then gives her warmth and gifts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:11
+- id: fig:5
+  name_or_label: Prascovia
+  description: One of the old woman's daughters, sent under the pine as a bride for
+    Frost; she quarrels with Mashka while waiting in the cold.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:6
+  name_or_label: Mashka
+  description: One of the old woman's daughters, sent under the pine as a bride for
+    Frost; she complains of the cold and quarrels with Prascovia.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: sender to the supernatural bridegroom
+  assigned_to:
+  - fig:1
+  basis: She orders the old man to deliver Marfa to Morozko and later orders her own
+    daughters sent to the same bridegroom.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: obedient transporter
+  assigned_to:
+  - fig:2
+  basis: He drives the girls to the forest pine and leaves them there as instructed.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:3
+  label: exposed maiden who receives aid
+  assigned_to:
+  - fig:3
+  basis: Marfa is left alone under the pine in the cold, responds to Frost, and is
+    later found alive with gifts.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: supernatural bridegroom, tester, and benefactor
+  assigned_to:
+  - fig:4
+  basis: Frost is named as the bridegroom, questions Marfa about warmth, and then
+    gives her warmth, furs, and gifts.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: second maidens sent to Frost
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The old woman's daughters are dressed as brides, left under the same pine,
+    and wait for the bridegroom while quarrelling.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: pine tree meeting-place
+  literal_form: The big or tall pine in the forest, on a hill, under which Marfa and
+    later the two daughters are left, and on which Frost appears.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:11
+- id: sym:2
+  label: winter forest
+  literal_form: Forest of firs, pine-tops, birches, frozen snow, and the pine where
+    the girls wait for Frost.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:11
+- id: sym:3
+  label: cold and frost
+  literal_form: Piercing cold, numbness, and the personified Frost who cracks, snaps
+    his fingers, and moves through the trees.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+- id: sym:4
+  label: bridal clothing and rich gifts
+  literal_form: A good pelisse, a costly bridal veil, a pannier with rich gifts, and
+    a basket of linen associated with Marfa's return.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: sledge journey
+  literal_form: The sledge used by the old man to carry Marfa and later the old woman's
+    daughters to the forest and to bring Marfa back.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: Order to deliver Marfa to Frost
+  summary: At home, the old woman tells the old man to take Marfa into the forest
+    and leave her at the big pine for Morozko, described as Frost and as a wealthy
+    bridegroom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Marfa left under the pine
+  summary: The old man drives Marfa across frozen snow into the forest, sets her basket
+    under the tall pine, tells her to await the bridegroom pleasantly, and leaves
+    her there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Frost questions and aids Marfa
+  summary: Frost appears on the pine after moving through the firs, asks Marfa repeatedly
+    if she is warm, receives respectful answers, and then warms her with furs and
+    blankets.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Marfa returns alive with gifts
+  summary: The old man finds Marfa alive the next morning with new clothing and rich
+    gifts, brings her home, and the old woman is astonished.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: The old woman's daughters sent to the same pine
+  summary: Hoping for even greater gifts, the old woman sends her own daughters as
+    brides. They wait under the pine, laugh, quarrel, suffer the cold, and hear Frost
+    approaching before he appears above them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: maiden delivered to a supernatural bridegroom in the forest
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Marfa is sent to Morozko/Frost as to a bridegroom and is left under a forest
+    pine to await him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage frames Frost as a bridegroom in speech, but no actual marriage
+    ceremony or union occurs in the excerpt.
+- id: motif:2
+  label: ordeal by cold answered with courtesy and rewarded
+  taxonomy_refs:
+  - initiation
+  - sacred_exchange
+  basis: Marfa endures freezing cold, answers Frost's repeated questions respectfully,
+    and receives warmth, clothing, and rich gifts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state that the respectful answers cause
+    the reward, though the sequence strongly links the exchange and gift.
+- id: motif:3
+  label: forest exposure at a marked tree
+  taxonomy_refs:
+  - tree
+  basis: Marfa and later the old woman's daughters are taken into the forest and left
+    under the same pine, which also becomes the place where Frost appears.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: The tree is a repeated literal setting and meeting-place; broader axis
+    or world-tree interpretations are not stated in the passage.
+- id: motif:4
+  label: imitative second sending after first reward
+  taxonomy_refs: []
+  basis: After Marfa returns alive with rich gifts, the old woman sends her own daughters
+    to the same bridegroom expecting greater presents.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The excerpt ends before the outcome of the second daughters' encounter
+    with Frost.
+- id: motif:5
+  label: quarreling sister pair awaiting a suitor
+  taxonomy_refs:
+  - sibling_pair
+  basis: Prascovia and Mashka, the old woman's daughters, are sent together as brides
+    and quarrel over which of them the bridegroom will choose.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: Their sibling relation is implied by their being the old woman's daughters;
+    the passage does not complete their episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9294-9455; stepmother's first command
+  quote_or_summary: The old woman orders the old man to take Marfa along the road,
+    turn into the forest, go to the big pine on the hill, and hand her over to Morozko,
+    glossed as Frost.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 9294-9455; description of Frost as bridegroom
+  quote_or_summary: The old woman calls the bridegroom rich and beautiful, listing
+    firs, pine-tops, and birches in down-like robes among his possessions, and calls
+    him a bogatir.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 9294-9455; first forest journey
+  quote_or_summary: The old man puts things on the sledge, dresses Marfa warmly, drives
+    into the forest across frozen snow, leaves her basket under the tall pine, tells
+    her to await the bridegroom, and goes home.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 9294-9455; Frost's first appearance
+  quote_or_summary: Marfa shivers in the cold; Frost is heard cracking on a fir, leaping
+    from fir to fir, snapping his fingers, and then appearing on the pine above her.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 9294-9455; repeated questioning of Marfa
+  quote_or_summary: Frost repeatedly asks Marfa whether she is warm; although she
+    can scarcely breathe and later becomes numb, she answers that she is warm and
+    addresses him as dear Frost or Father Frost.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: lines 9294-9455; Frost's aid to Marfa
+  quote_or_summary: Frost takes pity on Marfa, wraps her in furs, and warms her with
+    blankets.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 9294-9455; Marfa found alive with gifts
+  quote_or_summary: The next morning the old man finds Marfa alive with a good pelisse,
+    a costly bridal veil, and a pannier of rich gifts; he brings her home, where the
+    old woman is astonished.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 9294-9455; stepmother sends her own daughters
+  quote_or_summary: After seeing Marfa's gifts, the old woman tells the old man to
+    take her daughters to their bridegroom, expecting gifts greater than Marfa's.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:9
+  type: summary
+  locator: lines 9294-9455; second forest journey
+  quote_or_summary: The old woman feeds and dresses her girls as brides, sends them
+    off, and the old man leaves them under the pine as before.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:10
+  type: summary
+  locator: lines 9294-9455; daughters waiting and quarrelling
+  quote_or_summary: The daughters laugh about being married off, discuss the unknown
+    bridegroom, argue over which of them he will take, complain of cold, and insult
+    each other.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+- id: ev:11
+  type: summary
+  locator: lines 9294-9455; Frost approaches the daughters
+  quote_or_summary: Frost numbs the daughters' hands; while they quarrel and blow
+    on their fingers, he approaches cracking, snapping his fingers, leaping from fir
+    to fir, and appears on the pine above them.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence and figures are explicit in the supplied passage. Motif
+    labels are cautious and passage-based; comparison claims are omitted because the
+    passage itself does not make cross-textual comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied line range and metadata were used. The excerpt ends just as Frost begins addressing the old woman's daughters, so their outcome is not inferred.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l9294-l9455
+  passage_sha256=b6ca3e034b7c02fb3d7f7a51a0c0fb8ffd117844565519534ef463341c74a166
+

@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l1416-l1436
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Footnotes / Chapter 15 / Footnotes / Chapter 16; lines 1416-1436
+  start: '1416'
+  end: '1436'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: He stood between the dead and the living; and the plague was stayed.
+  summary: After a memorial warning against unauthorized incense offerings, the congregation
+    accuses Moses and Aaron. Yahweh's glory appears at the Tent of Meeting; Moses
+    instructs Aaron to bring altar fire and incense to make atonement. Aaron stands
+    between the dead and living, and the plague stops after 14,700 deaths.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A memorial is designated so that no one outside Aaron's offspring comes near
+    to burn incense before Yahweh or becomes like Korah and his company.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The congregation complains against Moses and Aaron, accusing them of killing
+    Yahweh's people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the congregation assembles against Moses and Aaron, a cloud covers the
+    Tent of Meeting and Yahweh's glory appears.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Moses and Aaron come to the front of the Tent of Meeting.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Yahweh tells Moses to get away from the congregation so he may consume them
+    in a moment; Moses and Aaron fall on their faces.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Moses tells Aaron to take a censer with fire from the altar and incense, carry
+    it quickly to the congregation, and make atonement, saying wrath has gone out
+    from Yahweh and the plague has begun.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Aaron runs into the assembly, applies the incense, and makes atonement for
+    the people while the plague has already begun.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Aaron stands between the dead and the living, and the plague is stayed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Fourteen thousand seven hundred die by the plague, besides those connected
+    with Korah; Aaron returns to Moses at the Tent door, and the plague is stopped.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: children of Israel / congregation
+  description: Collective group that complains against Moses and Aaron, assembles
+    at the Tent of Meeting, and suffers the plague.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Moses
+  description: Human leader accused by the congregation, addressed by Yahweh, and
+    giver of instructions to Aaron for the atoning rite.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Aaron
+  description: Priestly figure accused with Moses; he carries the censer, uses altar
+    fire and incense, makes atonement, and stands between the dead and the living.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Yahweh
+  description: Divine figure whose glory appears at the Tent of Meeting, who speaks
+    to Moses, and whose wrath and plague are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Korah and his company
+  description: Referenced group used as a warning example in the memorial instruction;
+    deaths connected with the matter of Korah are counted separately from the plague
+    deaths.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: divine speaker and source of judgment
+  assigned_to:
+  - fig:4
+  basis: Yahweh's glory appears, Yahweh speaks of consuming the congregation, and
+    wrath from Yahweh is said to have gone out.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: accused leaders
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The congregation complains against Moses and Aaron and accuses them of killing
+    Yahweh's people.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: complaining congregation and afflicted people
+  assigned_to:
+  - fig:1
+  basis: The congregation complains, assembles against Moses and Aaron, and is struck
+    by the plague.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: ritual mediator making atonement
+  assigned_to:
+  - fig:3
+  basis: Aaron takes the censer, fire, and incense, makes atonement, stands between
+    dead and living, and the plague is stayed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: commanding human mediator
+  assigned_to:
+  - fig:2
+  basis: Moses receives Yahweh's speech and instructs Aaron in the urgent atoning
+    rite.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: cautionary negative exemplar
+  assigned_to:
+  - fig:5
+  basis: The memorial warns that no unauthorized person should become like Korah and
+    his company, and the later death count distinguishes those who died in the Korah
+    matter.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: memorial warning
+  literal_form: memorial to the children of Israel concerning who may burn incense
+    before Yahweh
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tent of Meeting
+  literal_form: Tent of Meeting, including its front and door
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: cloud and glory
+  literal_form: cloud covering the Tent of Meeting and Yahweh's glory appearing
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: altar fire with censer and incense
+  literal_form: censer containing fire from the altar with incense laid on it
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: plague
+  literal_form: plague begun among the people and then stopped
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: boundary between dead and living
+  literal_form: Aaron standing between the dead and the living
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: death toll number
+  literal_form: fourteen thousand seven hundred
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Memorial warning about unauthorized incense
+  summary: A memorial is established to warn Israel that no one outside Aaron's offspring
+    should come near to burn incense before Yahweh or become like Korah and his company.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Complaint and divine manifestation at the Tent
+  summary: The congregation accuses Moses and Aaron; when they assemble against them,
+    the cloud covers the Tent of Meeting, Yahweh's glory appears, and Yahweh speaks
+    of consuming the congregation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Urgent atoning rite during the plague
+  summary: Moses tells Aaron to take the censer, altar fire, and incense to the congregation
+    to make atonement because wrath and plague have begun; Aaron runs into the assembly
+    and performs the rite.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mediator between dead and living
+  summary: Aaron stands between the dead and living, the plague is stayed, the death
+    toll is given, and Aaron returns to Moses at the Tent of Meeting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment by plague against a rebellious congregation
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the congregation complains and assembles against Moses and Aaron, Yahweh
+    speaks of consuming them; wrath from Yahweh and a plague are described, with 14,700
+    deaths.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The immediate passage frames the event around complaint and assembly;
+    broader Korah context is only referenced, not narrated here.
+- id: motif:2
+  label: Ritual atonement halts collective death
+  taxonomy_refs:
+  - sacrifice
+  basis: Moses directs Aaron to use altar fire and incense in a censer to make atonement,
+    and Aaron's action is followed by the staying of the plague.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes incense and altar fire rather than an animal sacrifice;
+    the taxonomy link to sacrifice is therefore approximate.
+- id: motif:3
+  label: Authorized sacred office and boundary around incense offering
+  taxonomy_refs: []
+  basis: The memorial warns that no stranger outside Aaron's offspring should come
+    near to burn incense before Yahweh.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy family exactly names priestly authorization or cultic
+    boundary.
+- id: motif:4
+  label: Mediator standing between the dead and the living
+  taxonomy_refs: []
+  basis: Aaron physically stands between the dead and the living, and the plague is
+    stayed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is based on a single vivid image in the passage; no broader
+    taxonomy reference is supplied.
+- id: motif:5
+  label: Theophanic cloud at the sanctuary
+  taxonomy_refs: []
+  basis: A cloud covers the Tent of Meeting and Yahweh's glory appears when the congregation
+    assembles against Moses and Aaron.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The supplied symbol taxonomy does not include cloud or sanctuary, so no
+    taxonomy reference is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares its warning memorial to Korah and his company
+    and separately counts the new plague deaths in relation to the earlier 'matter
+    of Korah,' supporting an internal comparison to a Korah-related judgment pattern.
+  claim_level: same_motif
+  target: Korah and his company / the matter of Korah as named in the passage
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names Korah but does not narrate the full earlier event;
+    the comparison is limited to the explicit references and shared warning/judgment
+    framing within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Numbers 16:40; line 1416
+  quote_or_summary: A memorial is established so no stranger outside Aaron's offspring
+    comes near to burn incense before Yahweh, lest he be as Korah and his company.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; World English Bible classic source metadata indicates
+    full text allowed.
+- id: ev:2
+  type: quote
+  locator: Numbers 16:41
+  quote_or_summary: 'The congregation complains against Moses and Aaron: “You have
+    killed Yahweh’s people!”'
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; World English Bible classic source metadata indicates
+    full text allowed.
+- id: ev:3
+  type: summary
+  locator: Numbers 16:42-45
+  quote_or_summary: The congregation assembles against Moses and Aaron; the cloud
+    covers the Tent of Meeting, Yahweh's glory appears, Yahweh tells Moses to get
+    away so he may consume the congregation, and Moses and Aaron fall on their faces.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; World English Bible classic source metadata indicates
+    full text allowed.
+- id: ev:4
+  type: summary
+  locator: Numbers 16:46
+  quote_or_summary: Moses tells Aaron to take his censer, put fire from the altar
+    and incense in it, carry it quickly to the congregation, and make atonement because
+    wrath has gone out from Yahweh and the plague has begun.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; World English Bible classic source metadata indicates
+    full text allowed.
+- id: ev:5
+  type: summary
+  locator: Numbers 16:47-48
+  quote_or_summary: Aaron runs into the assembly, puts on the incense, makes atonement
+    for the people, stands between the dead and the living, and the plague is stayed.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; World English Bible classic source metadata indicates
+    full text allowed.
+- id: ev:6
+  type: summary
+  locator: Numbers 16:49-50
+  quote_or_summary: Fourteen thousand seven hundred die by the plague, in addition
+    to those who died about Korah; Aaron returns to Moses at the Tent of Meeting door,
+    and the plague is stopped.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; World English Bible classic source metadata indicates
+    full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the passage. Motif taxonomy confidence
+    is lower where the supplied taxonomy lacks exact categories for priestly mediation,
+    sanctuary manifestation, or incense atonement.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and supplied taxonomy references were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l1416-l1436
+  passage_sha256=8f79a3671f4703162a039b386b3a652c6727a3985207a8e638685aa4af02fb0c
+

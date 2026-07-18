@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l27061-l27100
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto CXIX. The Forest. / BOOK III. / Canto I. The Hermitage. / Canto V.
+    Sarabhanga.; lines 27061-27100
+  start: '27061'
+  end: '27100'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A holy hermit praises his forest retreat and invites Ráma to rest there.
+    Ráma answers that his weapons might harm the animals near the hermitage and thus
+    dishonor the saint, so he will stay only briefly. He performs evening rites and
+    spends the night with Sítá and his brother under the grove’s shade, while Sutíkshṇa
+    offers hospitable food suited to hermits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The holy man describes the retreat as calm, blessed, charming, supplied with
+    roots and fruits, and loved by hermits.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Silvan beasts and deer are said to wander in large herds near the retreat,
+    secure from harm and pleasing to the hermits’ eyes.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hermit says the grove has nothing to fear except beasts bred in thickets.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ráma places his hand on his great bow before replying to the hermit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ráma says his steel darts, with murderous barbs, could destroy the forest
+    creatures around the hermit’s dwelling.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ráma says such destruction would dishonor the saint and make his own fate
+    wretched.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Ráma says he will delay in the grove only for the briefest stay.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Ráma turns to evening prayer and performs customary rites.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Ráma, Sítá, and Ráma’s brother lodge for the night beneath the grove’s shade.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Sutíkshṇa hospitably entertains the princely chieftains with choice food appropriate
+    for hermit fare.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: A prince and hero who replies to the saint, bears a great bow and darts,
+    performs evening rites, and lodges with Sítá and his brother.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Sutíkshṇa / the holy hermit
+  description: A saintly hermit who praises the retreat and provides hospitality to
+    the princely chieftains.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Sítá
+  description: A companion of Ráma who lodges with him beneath the grove’s shade.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ráma’s brother
+  description: Ráma’s brother, unnamed in this passage, lodges with Ráma and Sítá
+    beneath the grove’s shade.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: hermits
+  description: Hermits are said to love the holy ground of the retreat.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: forest animals and deer
+  description: Silvan beasts and gentle deer wander in large herds around the retreat
+    and are described as secure from harm.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: prince
+  assigned_to:
+  - fig:1
+  basis: The hermit addresses him as prince.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: armed hero
+  assigned_to:
+  - fig:1
+  basis: The passage calls him a hero and shows him laying his hand on his great bow
+    while speaking of his steel darts.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ritual observer
+  assigned_to:
+  - fig:1
+  basis: He performs evening prayer and customary rites.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: holy host
+  assigned_to:
+  - fig:2
+  basis: The hermit invites Ráma to rest in the retreat and later entertains the princely
+    chieftains with food.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: forest ascetic
+  assigned_to:
+  - fig:2
+  basis: He is described as a saint, holy man, and hermit associated with the retreat.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:6
+  label: night-lodging companion
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Sítá and Ráma’s brother are named as lodging with him beneath the grove’s
+    shade.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: inhabitants or devotees of the holy ground
+  assigned_to:
+  - fig:5
+  basis: Hermits are said to love the holy ground.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: protected forest creatures
+  assigned_to:
+  - fig:6
+  basis: The animals are described as wandering secure from harm, and Ráma expresses
+    concern that his darts would destroy them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: forest hermitage retreat
+  literal_form: calm retreat, holy ground, grove, and dwelling-place with roots, fruits,
+    shade, hermits, and animals
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: bow and steel darts
+  literal_form: Ráma’s great bow and darts of keenest steel with murderous barbs
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: grove shade
+  literal_form: the grove’s delightful shade where Ráma, Sítá, and Ráma’s brother
+    lodge
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hermit food
+  literal_form: choice food ordained for holy hermit’s fare
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hermit praises and offers the retreat
+  summary: The holy man tells Ráma that the calm retreat is blessed, rich in roots
+    and fruits, loved by hermits, and filled with harmless animals, and invites him
+    to rest there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ráma declines a long stay to avoid harm
+  summary: Ráma, touching his bow, says his darts could destroy the forest creatures
+    around the hermit’s dwelling and that this would dishonor the saint, so he will
+    remain only briefly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Evening rites and lodging
+  summary: Ráma performs evening prayer and customary rites, then lodges for the night
+    beneath the grove’s shade with Sítá and his brother.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sutíkshṇa’s hospitality
+  summary: When night approaches, Sutíkshṇa hospitably entertains the princely chieftains
+    with choice food suited to hermits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred forest hospitality
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A holy hermit invites Ráma to rest in the blessed retreat and later provides
+    hospitable food appropriate for hermits.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage shows hospitality clearly, but the broader taxonomy label
+    'sacred_exchange' is applied cautiously because no explicit reciprocal exchange
+    is described.
+- id: motif:2
+  label: armed hero restrains presence in a sanctuary
+  taxonomy_refs: []
+  basis: Ráma states that his weapons might destroy the animals around the hermit’s
+    dwelling and that he will therefore stay only briefly to avoid dishonoring the
+    saint.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied named taxonomy
+    family.
+- id: motif:3
+  label: ritual observance before night lodging
+  taxonomy_refs: []
+  basis: Ráma performs evening prayer and customary rites before seeking lodging for
+    the night.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned.
+- id: motif:4
+  label: temporary rest during forest journey
+  taxonomy_refs:
+  - departure
+  basis: The hermit offers rest in the retreat, while Ráma says he will stay only
+    briefly and then lodges for the night with Sítá and his brother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage implies a brief stop rather than narrating a departure itself;
+    the taxonomy reference is therefore uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 27061-27076
+  quote_or_summary: 'The hermit says: “This calm retreat, O Prince, is blest,” and
+    describes roots, fruits, hermits, deer, and a grove with little to dread.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 27077-27090
+  quote_or_summary: Ráma lays his hand on his bow and says his steel darts could destroy
+    the animals near the hermit’s dwelling, causing dishonor to the saint, so he will
+    stay only briefly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 27091-27096
+  quote_or_summary: Ráma performs evening prayer and customary rites, then lodges
+    for the night with Sítá and his brother beneath the grove’s shade.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: 27097-27100
+  quote_or_summary: Sutíkshṇa provides hospitality to the princely chieftains with
+    choice food described as holy hermit’s fare.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are conservative; two taxonomy links are tentative because the passage does not
+    explicitly name broader comparative categories. No comparison claims were made
+    because the passage itself does not support comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata; unnamed brother was not identified beyond the wording in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l27061-l27100
+  passage_sha256=f1abf23fd057367e3b926b67585377a35f14040aaedcc860d83903f78d8cc5f9
+

@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l69-l118
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: Maha-bharata / MAHA-BHARATA / THE EPIC OF ANCIENT INDIA / CONDENSED INTO
+    ENGLISH VERSE; lines 69-118
+  start: '69'
+  end: '118'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter for Romesh C. Dutt's English verse condensation of the Maha-bharata,
+    including title-page information, dedication to the Marquis of Ripon, and a contents
+    list naming twelve books and later sections.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as the Maha-bharata, an epic of ancient India
+    condensed into English verse by Romesh C. Dutt.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A frontispiece is labeled as showing or concerning “The Banishment.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translation is dedicated to the Marquis of Ripon, who is praised for just
+    and benevolent administration and measures supporting self-government in India.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list twelve books with page numbers, followed by a conclusion
+    and a translator’s epilogue.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Several contents titles name major actions or rites, including an imperial
+    sacrifice, fatal dice, cattle-lifting, falls of named figures, funeral rites,
+    and sacrifice of a horse.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Romesh C. Dutt C.I.E.
+  description: Named as the person by whom the epic is condensed into English verse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Marquis of Ripon
+  description: Named as the dedicatee of the translation and praised for administration
+    and measures for self-government in India.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Bhishma
+  description: Named in the contents title “Fall of Bhishma.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Drona
+  description: Named in the contents title “Fall of Drona.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Karna
+  description: Named in the contents title “Fall of Karna.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: English verse condenser or translator
+  assigned_to:
+  - fig:1
+  basis: The title page names Romesh C. Dutt after the statement that the epic is
+    condensed into English verse.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dedicatee praised for governance
+  assigned_to:
+  - fig:2
+  basis: The dedication addresses the Marquis of Ripon and describes why he is gratefully
+    remembered.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named subject of a fall-book title
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The contents include book titles for the fall of Bhishma, Drona, and Karna.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fatal dice
+  literal_form: dice named in the contents title “Dyuta (The Fatal Dice)”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sacrificial horse
+  literal_form: horse named in the contents title “Aswa-Medha (Sacrifice of the Horse)”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: cattle
+  literal_form: cattle named in the contents title “Go-Harana (Cattle-Lifting)”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Title page and dedication
+  summary: The passage presents publication and translation information and dedicates
+    the translation to the Marquis of Ripon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Contents overview
+  summary: The contents list names twelve books, including titles involving tournament,
+    bride’s choice, sacrifices, dice, cattle-lifting, preparation, falls of Bhishma,
+    Drona, and Karna, funeral rites, and horse sacrifice.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal or ritual sacrifice
+  taxonomy_refs:
+  - sacrifice
+  - royal_legitimacy
+  basis: The contents include “Rajasuya (The Imperial Sacrifice)” and “Aswa-Medha
+    (Sacrifice of the Horse).”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a contents list, not a narrative account of the sacrifices.
+- id: motif:2
+  label: banishment as enforced departure
+  taxonomy_refs:
+  - departure
+  basis: The frontispiece is labeled “The Banishment.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Only the frontispiece label is present; no banishment scene is narrated
+    in this passage.
+- id: motif:3
+  label: fatal dice or game of chance
+  taxonomy_refs: []
+  basis: The contents include “Dyuta (The Fatal Dice).”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only a contents title is available, without narrative details of the dice
+    event.
+- id: motif:4
+  label: funeral rites
+  taxonomy_refs: []
+  basis: The contents include “Sraddha (Funeral Rites).”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only the book title is present; no ritual sequence is described in the
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 69-84
+  quote_or_summary: Title-page material identifies the work as the Maha-bharata, an
+    epic of ancient India condensed into English verse by Romesh C. Dutt, with publication
+    details.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: line 73
+  quote_or_summary: "[Frontespiece: The Banishment]"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short excerpt used as evidence.
+- id: ev:3
+  type: summary
+  locator: lines 86-96
+  quote_or_summary: The dedication addresses the Marquis of Ripon and praises his
+    administration and measures supporting self-government in India.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 98-118
+  quote_or_summary: The contents list twelve books, including Astra Darsana, Swayamvara,
+    Rajasuya, Dyuta, Pativrata-Mahatmya, Go-Harana, Udyoga, Bhishma-Badha, Drona-Badha,
+    Karna-Badha, Sraddha, and Aswa-Medha, with English subtitles and page numbers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized with short title references.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is straightforward for front matter and contents. Motif candidates
+    are low to medium confidence because the passage gives titles rather than narrative
+    episodes. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the explicit objects in the passage—dice, horse, and cattle—are not in the provided symbol taxonomy list.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l69-l118
+  passage_sha256=ce2789a218c3cb29d3ef658027dc25d96a2b1baba8aea1a31388c9518e545c3a
+

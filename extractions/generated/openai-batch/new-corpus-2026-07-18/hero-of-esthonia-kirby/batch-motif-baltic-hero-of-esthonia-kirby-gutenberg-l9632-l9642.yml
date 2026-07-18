@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l9632-l9642
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE DRAGON-SLAYER. / THE ENVIOUS SISTERS. / THE GIFTED BROTHERS. / THE IDIOT'S
+    LUCK.; lines 9632-9642
+  start: '9632'
+  end: '9642'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes an Estonian tale identified as a form of the despised
+    younger-son story: a dying father leaves an ox to his simple third son, who misunderstands
+    a noise in a tree as an offer to buy the ox, takes a log as security, later finds
+    money inside the log, kills a shepherd who tries to cheat him, and the shepherd''s
+    disappearance is attributed to the devil.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator identifies the tale as a form of the story of the despised younger
+    son and names Kreutzwald's "Strange Tale of an Ox" as the form cited.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A dying father leaves an ox to his third son, who is described as a simpleton.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The third son goes to sell the ox and passes through a wood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The son hears a noise in a tree and interprets it as an offer to buy the ox.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The son ties the ox to the tree and takes a log home as security for the expected
+    money.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the money is not received as expected, the son breaks open the log and
+    finds a jar of money inside.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The son later kills a shepherd who tries to cheat him out of the money.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: It is reported that the shepherd has been carried away by the devil.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: dying father
+  description: A father near death who leaves an ox to his third son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: third son / simpleton
+  description: The father's third son, described as a simpleton and associated by
+    the narrator with the despised younger-son story.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: ox
+  description: The animal inherited by the third son and taken to be sold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: shepherd
+  description: A shepherd who tries to cheat the third son out of the money and is
+    killed by him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: devil
+  description: A being named in the report that the shepherd was carried away by the
+    devil.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dying testator
+  assigned_to:
+  - fig:1
+  basis: The father is dying and leaves the ox to his third son.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: despised younger son / simpleton
+  assigned_to:
+  - fig:2
+  basis: The narrator frames the tale as a despised younger-son story, and the son
+    is called a simpleton.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: unexpected finder of money
+  assigned_to:
+  - fig:2
+  basis: After taking a log as security, he breaks it open and finds a jar of money.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: inherited animal for sale
+  assigned_to:
+  - fig:3
+  basis: The ox is left to the third son, who goes to sell it.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: would-be cheat and victim
+  assigned_to:
+  - fig:4
+  basis: The shepherd tries to cheat the son out of the money and is killed.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: reported supernatural abductor
+  assigned_to:
+  - fig:5
+  basis: The shepherd's disappearance is said to have been caused by the devil carrying
+    him away.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree and log
+  literal_form: A tree in a wood where the son hears a noise; a log taken home as
+    security and later broken open.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: jar of money
+  literal_form: A jar of money found inside the broken log.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: ox
+  literal_form: An ox inherited by the third son and taken to be sold.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Inheritance of the ox
+  summary: A dying father leaves an ox to his third son, who is described as a simpleton.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Misunderstood offer in the wood
+  summary: While taking the ox to sell, the son hears a noise in a tree, interprets
+    it as an offer, ties the ox to the tree, and takes a log home as security.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Money found inside the log
+  summary: After not receiving the expected money, the son breaks open the log and
+    finds a jar of money inside.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Shepherd killed and blamed on the devil
+  summary: The son kills a shepherd who tries to cheat him out of the money, and it
+    is said that the shepherd was carried away by the devil.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: despised or simple younger son gains fortune through apparent foolishness
+  taxonomy_refs: []
+  basis: The narrator identifies the tale as a despised younger-son story; the simple
+    third son's mistaken actions lead to finding a jar of money.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a brief prose summary rather than the full tale, and no
+    formal motif index number is supplied.
+- id: motif:2
+  label: mistaken sale to a tree leads to hidden treasure
+  taxonomy_refs: []
+  basis: The son mistakes a noise in a tree for an offer to buy the ox, takes a log
+    as security, and later finds money inside the log.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the source of the noise or the origin of
+    the money.
+- id: motif:3
+  label: hidden money inside a log
+  taxonomy_refs: []
+  basis: The son breaks open the log and finds a jar of money inside.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only the discovery is summarized; no further background is given.
+- id: motif:4
+  label: killing of a cheater explained as devil-abduction
+  taxonomy_refs: []
+  basis: The son kills a shepherd who tries to cheat him, and the explanation circulated
+    is that the shepherd was carried away by the devil.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not specify who gives out the explanation or whether
+    it is believed within the tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies this tale as a form of the despised younger-son
+    story pattern.
+  claim_level: same_motif
+  target: despised younger-son story pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal narrator classification only; no external motif
+    index or comparative corpus evidence is provided in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9632-9635
+  quote_or_summary: '"this form of the story of the despised younger son" in the "Strange
+    Tale of an Ox"'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9635-9638
+  quote_or_summary: A dying father leaves an ox to his third son, a simpleton, who
+    goes to sell it; while passing through a wood he hears a noise in a tree and thinks
+    it is an offer to buy the ox.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9638-9640
+  quote_or_summary: The son ties the ox to the tree and takes a log home as security
+    for the money.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9640-9641
+  quote_or_summary: When the expected money does not arrive, he breaks open the log
+    and finds a jar of money inside.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9641-9642
+  quote_or_summary: He kills a shepherd who tries to cheat him out of the money; it
+    is then said that the shepherd was carried away by the devil.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short but explicit about the main actions and its own despised-younger-son
+    classification. Motif labeling beyond that remains provisional because no external
+    motif index numbers are supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference assigned only to the literal tree symbol from the provided symbol list.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l9632-l9642
+  passage_sha256=1f35c9abe02f7cda15b22445bd18751657740746563ea5e97ed16cff28692bff
+

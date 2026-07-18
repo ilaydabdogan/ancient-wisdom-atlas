@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l7749-l7798
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 7749-7798
+  start: '7749'
+  end: '7798'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: he hath commanded the pen to write the same in the preserved table
+  summary: 'The passage summarizes theological positions about avoiding speculative
+    interpretation of divine attributes and about predestination: God has an eternal
+    will and decree, human actions are created by God, and some writers explain human
+    agency through acquisition, power, choice, and attribution of action to God and
+    to man in different respects.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some interpreters reject explaining divine attributes such as hand or face
+    by conjecture, and some require such terms to remain in the original language
+    rather than being translated.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that God has one eternal will applied to what he wills,
+    including divine actions and human actions insofar as they are created by him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that God wills human good and evil, profit and hurt, and
+    commands the pen to write what he knows in the preserved table.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies this writing and will as God's decree and eternal immutable
+    counsel and purpose.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that some held it may accord with God's way to command a
+    person to do what the person is unable to perform.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage describes Acquisition, or Casb, as an action created by God but
+    produced, employed, or acquired by man.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: One cited explanation says God causes power and choice to exist in man, and,
+    if no impediment exists, also causes the action to exist joined with that power
+    and choice.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Abu'l Hasan al Ashri is reported as asserting that all human actions are subject
+    to God's power and are created by him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: The divine being described as possessing eternal will, decree, power,
+    and the power to create human actions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: man / men
+  description: Human beings whose actions, power, choice, and acquisition are discussed
+    in relation to God's power.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: some interpreters or scholars
+  description: People described as refusing conjectural explanation or translation
+    of terms for divine attributes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Abu'l Hasan al Ashri
+  description: A named theologian reported as asserting that human actions fall under
+    God's power and are created by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine decreer and creator of actions
+  assigned_to:
+  - fig:1
+  basis: God is said to will and know what concerns men, command the pen to write
+    it in the preserved table, and create or cause actions to exist.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: human acquirer of action
+  assigned_to:
+  - fig:2
+  basis: Human beings are described as having power and choice and as producing, employing,
+    or acquiring actions, while creation is ascribed to God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: guardians of literal divine-attribute language
+  assigned_to:
+  - fig:3
+  basis: They reject conjectural explanation of terms for divine attributes and sometimes
+    require retaining the original words.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: reported theological authority
+  assigned_to:
+  - fig:4
+  basis: He is cited as asserting a position on God's power over human actions.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: pen
+  literal_form: pen commanded to write what God knows concerning men
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: preserved table
+  literal_form: preserved table on which the pen writes the divine decree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hand and face terms
+  literal_form: words such as hand, face, hand and finger used in discussion of divine
+    attributes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Acquisition / Casb
+  literal_form: theological term for an action created by God and acquired by man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Restriction on explaining divine attributes
+  summary: The passage reports a position that terms for divine attributes should
+    not be explained through conjecture and, in some cases, should not be translated
+    from the original wording.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine decree written in the preserved table
+  summary: God is described as willing and knowing what concerns human beings and
+    commanding the pen to write it in the preserved table, which is identified as
+    divine decree and immutable purpose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Acquisition as relation between divine creation and human action
+  summary: The passage explains that action is attributed to God in respect of creation
+    and to man in respect of production, employment, or acquisition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Al Ashri on divine power over human actions
+  summary: Abu'l Hasan al Ashri is reported as teaching that all human actions are
+    subject to God's power and are created by him, while human power has no influence
+    over what it is empowered to do.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine decree inscribed in a preserved record
+  taxonomy_refs: []
+  basis: The passage describes God commanding a pen to write what he knows concerning
+    men in a preserved table, and identifies this as decree and eternal immutable
+    purpose.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy list has no precise reference for divine decree,
+    celestial writing, or heavenly record; no taxonomy reference is assigned.
+- id: motif:2
+  label: human agency subordinated to divine will
+  taxonomy_refs: []
+  basis: The passage repeatedly describes human actions as created or caused by God
+    while also discussing human power, choice, and acquisition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an extracted theological pattern rather than a narrative mythic
+    episode.
+- id: motif:3
+  label: guarded divine language resists interpretation
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage reports reluctance to explain or translate divine-attribute terms
+    because such explanation is forbidden, conjectural, and risks altering the intended
+    meaning.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage concerns limits on theological interpretation, not a narrative
+    of forbidden knowledge; the taxonomy link is therefore approximate and should
+    be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7749-7759
+  quote_or_summary: Some reject explaining divine-attribute terms such as hand and
+    face by conjecture and some require these words to remain in the original language
+    rather than being translated.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 7759-7768
+  quote_or_summary: God has one eternal will, wills what he knows concerning men,
+    and has "commanded the pen to write the same in the preserved table"; this is
+    called his decree and eternal immutable counsel and purpose.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 7768-7777
+  quote_or_summary: The passage says some held that God may command what a person
+    cannot perform, and explains Casb or Acquisition as an action created by God but
+    produced, employed, or acquired by man.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 7777-7788
+  quote_or_summary: A cited writer says elective actions fall under God's power alone,
+    while God causes power and choice to exist in man and causes action to exist joined
+    with them; another explanation grants influence to man's created power and calls
+    this Acquisition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 7788-7798
+  quote_or_summary: Abu'l Hasan al Ashri is reported as asserting that all human actions
+    are subject to God's power, created by him, and that man's power has no influence
+    on what he is empowered to do.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal theological content is clear in the supplied passage. Motif assignment
+    is more tentative because the passage is doctrinal exposition rather than narrative
+    mythology, and the provided taxonomy has no exact category for predestination
+    or heavenly inscription.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparison to another text, tradition, or motif family beyond internal theological pattern extraction.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l7749-l7798
+  passage_sha256=3973b68a789ab259cf7a3bd531b66aaebf630375e2b6373112df722816d0d40f
+

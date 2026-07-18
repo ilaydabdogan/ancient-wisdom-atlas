@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l806-l929
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 806-929
+  start: '806'
+  end: '929'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A fisherman opens a sealed jar and releases a smoke-like genius imprisoned
+    in it. The genius recounts rebellion, punishment by the king of the genii, long
+    captivity, changing vows toward any liberator, and a final vow to kill whoever
+    frees him. The fisherman tricks the genius into proving he can fit back into the
+    vase, reseals it, and refuses to trust him. The passage then begins an embedded
+    tale about a leprous Greek king in Persia and the learned physician Douban, who
+    proposes a cure and prepares a hollow polo club containing a drug.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fisherman examines a sealed jar, opens it with a knife, turns it upside
+    down, and sees nothing come out at first.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thick smoke comes out of the jar, rises toward the clouds, spreads over the
+    sea and shore, gathers, and appears as a very large genius.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The genius first cries out to the king of the genii that he will never again
+    disobey him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The genius threatens to kill the fisherman despite having been freed, while
+    allowing him to choose the manner of death.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The genius says he rebelled against the king of the genii and was punished
+    by being shut in a copper vase with a leaden cover bearing an enchanted seal,
+    then thrown into the sea.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The genius says his vows changed over time: first to enrich a liberator,
+    then to give all treasures, then to make the liberator a king with daily wishes,
+    and finally to kill any liberator.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The fisherman devises a plot and asks the genius to prove that his body could
+    really fit inside the vase.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The genius changes into smoke and returns slowly into the vase until nothing
+    remains outside.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The fisherman quickly shuts the leaden lid on the vase after the genius has
+    re-entered it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The fisherman threatens to throw the sealed genius back into the sea and to
+    warn other fishermen about him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The genius cannot escape because of the lid’s enchantment and then offers
+    repayment if the fisherman removes the cover.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:12
+  text: The fisherman refuses to trust the genius and introduces the story of a Greek
+    king and the physician Douban.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: In the embedded story, a Greek king in Zouman, Persia, is a leper whom his
+    doctors have not been able to cure.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The physician Douban is described as learned in languages, herbs, and medicines,
+    and he offers to cure the king without medicines or outward application.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:15
+  text: The king promises wealth to the physician and his descendants, and the physician
+    prepares a hollow polo club containing a drug, along with a ball.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the fisherman
+  description: The man who finds and opens the sealed jar, releases the genius, and
+    later tricks him back into the vase.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the genius
+  description: A terrible-looking monster or genius who emerges from smoke after being
+    freed from the jar and threatens to kill the fisherman.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: king of the genii
+  description: The ruler whom the genius says he disobeyed and who punished him by
+    sealing him in the vase.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Greek king of Zouman
+  description: A king in Persia who is afflicted with leprosy and seeks cure in the
+    embedded story.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: physician Douban
+  description: A clever and learned physician who offers to cure the Greek king and
+    prepares a hollow polo club with a drug inside.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: the king's doctors
+  description: The doctors who had been unable to cure the Greek king before Douban
+    arrives.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: finder and liberator
+  assigned_to:
+  - fig:1
+  basis: The fisherman opens the jar from which the genius emerges.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: imprisoned threatening supernatural being
+  assigned_to:
+  - fig:2
+  basis: The genius says he was shut in the vase and threatens to kill the person
+    who freed him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: supernatural ruler and punisher
+  assigned_to:
+  - fig:3
+  basis: The genius identifies the king of the genii as the ruler he disobeyed and
+    as the one responsible for his imprisonment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: strategic deceiver of a dangerous being
+  assigned_to:
+  - fig:1
+  basis: The fisherman devises a plot, challenges the genius to re-enter the vase,
+    and seals him inside.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: shape-changing captive
+  assigned_to:
+  - fig:2
+  basis: The genius changes into smoke and re-enters the vase.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: diseased royal patient
+  assigned_to:
+  - fig:4
+  basis: The Greek king is described as a leper whom doctors have not cured.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: learned healer
+  assigned_to:
+  - fig:5
+  basis: Douban is learned in languages, herbs, and medicines, and claims he can cure
+    the king.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:8
+  label: unsuccessful physicians
+  assigned_to:
+  - fig:6
+  basis: The king's doctors are described as unable to cure him.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: sealed vessel
+  literal_form: jar or copper vase with a leaden cover and seal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: smoke body
+  literal_form: thick smoke that emerges, gathers into the genius, and later returns
+    into the vase
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: sea
+  literal_form: sea into which the vase was thrown and from which the fisherman drew
+    it out
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: enchanted lid and seal
+  literal_form: leaden cover bearing a seal that prevents the genius from coming out
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: hollow polo club with drug
+  literal_form: polo club handle hollowed out and filled with a drug, paired with
+    a ball
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Opening the sealed jar
+  summary: The fisherman opens the jar; smoke emerges, spreads across sea and shore,
+    and becomes a huge genius.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The genius explains captivity and vows
+  summary: The genius threatens the fisherman and explains rebellion, magical imprisonment
+    in the vase, disposal in the sea, and changing vows toward any liberator.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The fisherman traps the genius again
+  summary: The fisherman challenges the genius to prove he can fit in the vase; the
+    genius turns to smoke, re-enters it, and the fisherman shuts the lid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Beginning of the Douban tale
+  summary: The fisherman begins an embedded story about a leprous Greek king in Persia
+    and a learned physician who proposes an unusual cure and prepares a polo club
+    with a hidden drug.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: imprisoned supernatural being released from a sealed vessel
+  taxonomy_refs:
+  - ark_vessel
+  basis: A genius has been sealed in a copper vase with an enchanted lid and is released
+    when the fisherman opens it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: 'The taxonomy reference is broad: the vessel functions as a prison, not
+    specifically as an ark or rescue vessel.'
+- id: motif:2
+  label: dangerous released captive reverses expected gratitude
+  taxonomy_refs: []
+  basis: The genius acknowledges being freed but still insists he will kill the fisherman,
+    after recounting how his vows changed from rewarding a liberator to killing one.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific supplied taxonomy family exactly matches this ingratitude-after-release
+    pattern.
+- id: motif:3
+  label: clever human tricks supernatural threat back into confinement
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fisherman pretends disbelief that the genius could fit in the vase, inducing
+    him to re-enter it, then seals the lid.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The fisherman is not labeled a trickster in the passage; the classification
+    rests on his strategic deception.
+- id: motif:4
+  label: shape-changing smoke-being
+  taxonomy_refs:
+  - shapeshifter
+  basis: The genius appears from smoke and later changes himself into smoke to return
+    into the vase.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage shows transformation between smoke and giant-like form, without
+    broader shapeshifting episodes.
+- id: motif:5
+  label: learned healer prepares concealed curative device
+  taxonomy_refs:
+  - wisdom
+  basis: Douban is described as learned in languages, herbs, and medicines; he offers
+    a cure and prepares a hollow polo club containing a drug.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The excerpt ends before the cure is carried out, so the motif remains
+    preliminary.
+- id: motif:6
+  label: embedded warning tale used to resist persuasion
+  taxonomy_refs: []
+  basis: The fisherman refuses to uncover the vase and introduces the story of the
+    Greek king and Physician Douban as a reason not to trust the genius.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: Only the beginning of the embedded tale is included in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself sets up an analogy between the fisherman's possible trust
+    in the genius and the Greek king's treatment of Physician Douban, using the embedded
+    story as a cautionary example.
+  claim_level: same_function
+  target: Greek King and Physician Douban embedded tale
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt includes only the setup and beginning of the embedded tale,
+    so the full basis of the analogy is not present here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 806-819
+  quote_or_summary: The fisherman opens the jar; smoke emerges, rises, spreads over
+    sea and shore, gathers, and appears as a huge genius.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:2
+  type: summary
+  locator: lines 821-837
+  quote_or_summary: The genius addresses the king of the genii, then threatens to
+    kill the fisherman while granting him a choice of death.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:3
+  type: summary
+  locator: lines 844-852
+  quote_or_summary: The genius says he rebelled, was sealed in a copper vase with
+    a leaden enchanted cover, thrown into the sea, and initially vowed rewards to
+    a liberator.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:4
+  type: summary
+  locator: lines 853-859
+  quote_or_summary: The genius says later vows included making a liberator king and
+    granting wishes, but after long captivity he vowed to kill whoever released him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:5
+  type: summary
+  locator: lines 861-877
+  quote_or_summary: The fisherman laments his danger, devises a plot, and challenges
+    the genius to prove he could truly fit inside the vase.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:6
+  type: summary
+  locator: lines 878-887
+  quote_or_summary: The genius turns back into smoke, re-enters the vase, and the
+    fisherman quickly shuts the leaden lid.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:7
+  type: summary
+  locator: lines 888-895
+  quote_or_summary: The fisherman threatens to return the genius to the sea and warn
+    others; the genius cannot escape because of the lid's enchantment.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:8
+  type: summary
+  locator: lines 897-904
+  quote_or_summary: The genius offers repayment if the cover is removed; the fisherman
+    refuses and invokes the example of the Greek king and Physician Douban.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:9
+  type: summary
+  locator: lines 905-917
+  quote_or_summary: 'The embedded story begins: a leprous Greek king in Zouman, Persia,
+    cannot be cured by his doctors; the learned physician Douban offers an unusual
+    cure.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:10
+  type: summary
+  locator: lines 919-929
+  quote_or_summary: The king promises wealth to Douban and his descendants; Douban
+    prepares a hollow polo club containing a drug and makes a ball.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal narrative extraction is well supported by the passage. Motif taxonomy
+    assignments are cautious, especially where supplied taxonomy labels are broader
+    than the exact passage pattern. The comparison claim is intra-passage and limited
+    by the excerpt ending early in the Douban tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external motif indices or variant traditions were consulted.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l806-l929
+  passage_sha256=a9fda1dee77afafd409c5474b3e83a2c6b89a83b69d0af78b9d0c9717bfd951e
+

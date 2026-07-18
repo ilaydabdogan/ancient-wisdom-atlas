@@ -1,0 +1,446 @@
+---
+record_id: batch.motif.confucian-analects-legge-gutenberg-l424-l450
+source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+passage_locator:
+  label: THE CHINESE CLASSICS / IN FIVE VOLUMES / BOOK II. WEI CHANG. / BOOK III.
+    PA YIH.; lines 424-450
+  start: '424'
+  end: '450'
+  translation: The Analects of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives several sayings and narrative notices: the Master criticizes
+    Kwan by comparing his gate screen and cup-stand with princely usages; instructs
+    the grand music-master of Lu on how music should begin, harmonize, remain distinct,
+    and conclude; is visited by the border warden at Yi, who interprets the Master''s
+    loss of office as Heaven''s intended use of him as a wooden-tongued bell; evaluates
+    the Shao and Wu; and condemns high office, ceremony, and mourning when they lack
+    corresponding inward virtues.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Master says princes of States have a screen intercepting the view at their
+    gates, and that Kwan likewise had a screen at his gate.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master says princes of States had a stand for inverted cups at friendly
+    meetings, and that Kwan also had such a stand.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Master rhetorically questions Kwan's knowledge of the rules of propriety.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Master instructs the grand music-master of Lu that music should begin
+    with all parts sounding together, then proceed harmoniously while remaining distinct
+    and flowing without break to the conclusion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The border warden at Yi asks to be introduced to the Master, saying he has
+    not been denied seeing men of superior virtue who came there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The followers of the sage introduce the border warden to the Master.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the interview, the border warden tells the followers not to be distressed
+    by their master's loss of office.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The border warden says the kingdom has long lacked principles of truth and
+    right, and that Heaven is going to use the Master as a bell with a wooden tongue.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The Master says the Shao was perfectly beautiful and perfectly good, while
+    the Wu was perfectly beautiful but not perfectly good.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The Master criticizes high station without generosity, ceremonies without
+    reverence, and mourning without sorrow.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: The speaker who judges Kwan's propriety, instructs the grand music-master,
+    is visited by the border warden, evaluates the Shao and Wu, and criticizes empty
+    forms of office, ceremony, and mourning.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Kwan
+  description: A person said to have a gate screen and cup-stand like those of princes
+    of States.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Princes of States
+  description: Rulers whose gate screen and friendly-meeting cup-stand are used as
+    the standard of comparison in the Master's criticism of Kwan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Grand music-master of Lu
+  description: The official instructed by the Master on how music should be played.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Border warden at Yi
+  description: The official who requests introduction to the Master, meets him, and
+    then interprets the Master's loss of office as part of Heaven's use of him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Followers of the sage
+  description: The followers who introduce the border warden to the Master and are
+    addressed by him afterward.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Heaven
+  description: Named in the warden's speech as the agent that is going to use the
+    Master as a bell with a wooden tongue.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Teacher and evaluator
+  assigned_to:
+  - fig:1
+  basis: The Master instructs the music-master and evaluates propriety, music, office,
+    ceremony, and mourning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Object of propriety criticism
+  assigned_to:
+  - fig:2
+  basis: Kwan is described as possessing objects associated with princes, after which
+    the Master questions his knowledge of propriety.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Princely standard of comparison
+  assigned_to:
+  - fig:3
+  basis: The princes' screens and cup-stands provide the comparison by which Kwan
+    is judged.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Recipient of musical instruction
+  assigned_to:
+  - fig:4
+  basis: The Master instructs the grand music-master of Lu on how to play music.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Interpreter of the Master's public mission
+  assigned_to:
+  - fig:5
+  basis: The warden tells the followers that Heaven will use their master as a wooden-tongued
+    bell.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Heaven's intended instrument
+  assigned_to:
+  - fig:1
+  basis: The warden says Heaven is going to use the Master as a bell with its wooden
+    tongue.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Introducing followers
+  assigned_to:
+  - fig:6
+  basis: The followers introduce the warden to the Master and receive his explanation
+    afterward.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Commissioning heavenly agent
+  assigned_to:
+  - fig:7
+  basis: Heaven is said to be going to use the Master as a bell with a wooden tongue.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Gate screen
+  literal_form: A screen intercepting the view at a gate.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Stand for inverted cups
+  literal_form: A stand on which to place inverted cups during friendly meetings between
+    princes.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Ordered musical performance
+  literal_form: Music beginning with all parts together, then continuing in harmony,
+    distinctness, and unbroken flow to the conclusion.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Bell with wooden tongue
+  literal_form: A bell with its wooden tongue, named as what Heaven will use the Master
+    as.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Shao music
+  literal_form: The Shao, described by the Master as perfectly beautiful and perfectly
+    good.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Wu music
+  literal_form: The Wu, described by the Master as perfectly beautiful but not perfectly
+    good.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Ceremony and mourning without inward response
+  literal_form: Ceremonies performed without reverence and mourning conducted without
+    sorrow.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Criticism of Kwan's princely furnishings
+  summary: The Master compares Kwan's gate screen and cup-stand with objects used
+    by princes and questions Kwan's knowledge of propriety.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruction on musical order
+  summary: The Master tells the grand music-master of Lu how a musical piece should
+    begin, proceed in harmony with distinct parts, flow without break, and conclude.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The warden's interpretation of the Master's loss of office
+  summary: The border warden at Yi is introduced to the Master and afterward tells
+    the followers not to be distressed, saying Heaven will use the Master as a wooden-tongued
+    bell in a kingdom lacking truth and right.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Evaluation of Shao and Wu
+  summary: The Master distinguishes the Shao and the Wu by saying both are beautiful,
+    but only the Shao is also perfectly good.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Condemnation of empty forms
+  summary: The Master rejects high station without generosity, ceremony without reverence,
+    and mourning without sorrow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom teaching through concise judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents the Master giving evaluative and instructional sayings
+    on propriety, music, aesthetic-moral value, office, ceremony, and mourning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy category is broad; the passage is primarily ethical
+    and ritual instruction rather than mythic narrative.
+- id: motif:2
+  label: Heaven appoints a moral messenger
+  taxonomy_refs:
+  - wisdom
+  basis: The warden says that, despite the Master's loss of office and the kingdom's
+    lack of truth and right, Heaven will use the Master as a bell with a wooden tongue.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is reported as the warden's interpretation after an interview, not
+    as a narrator-confirmed divine act.
+- id: motif:3
+  label: Ritual form contrasted with inward virtue
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The passage contrasts high station with generosity, ceremonies with reverence,
+    and mourning with sorrow, condemning the outward form when inward quality is absent.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The taxonomy mapping to 'duality' is thematic and should be reviewed because
+    the passage frames the issue ethically rather than cosmologically.
+- id: motif:4
+  label: Harmony of distinct parts
+  taxonomy_refs:
+  - wisdom
+  basis: The musical instruction says all parts should begin together, then remain
+    harmonious while severally distinct and flowing without break.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is extracted from musical instruction; any broader social or
+    cosmological interpretation is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 424-429
+  quote_or_summary: The Master says princes have gate screens and cup-stands for inverted
+    cups, Kwan had the same, and asks whether Kwan knew the rules of propriety.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 430-435
+  quote_or_summary: The Master instructs the grand music-master of Lu that music should
+    start with all parts together, proceed harmoniously while distinct, and flow without
+    break to the conclusion.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 437-444
+  quote_or_summary: The border warden at Yi requests and receives introduction to
+    the Master, then tells the followers not to grieve the Master's loss of office
+    because Heaven will use him as a bell with a wooden tongue.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 445-447
+  quote_or_summary: The Master says the Shao was perfectly beautiful and good, while
+    the Wu was perfectly beautiful but not perfectly good.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 448-450
+  quote_or_summary: The Master criticizes high station without generosity, ceremonies
+    without reverence, and mourning without sorrow.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are broad because
+    the passage is primarily didactic and ethical; no external comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs match the passage's literal symbols; symbol taxonomy arrays are therefore empty.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-analects-legge-gutenberg__l424-l450
+  passage_sha256=c2554cd91f9eadbf381aa1680929fff116bf04bd7599f7822671addd78cfbc44
+

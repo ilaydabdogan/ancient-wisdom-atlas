@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l22260-l22312
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 22260-22312
+  start: '22260'
+  end: '22312'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A miller whose fortunes have declined encounters the Nix of the Mill-pond,
+    who offers him restored wealth in exchange for the young thing newly born in his
+    house. The miller assumes this means an animal and promises, but learns that his
+    wife has given birth to a son. Prosperity returns, while the miller fears the
+    Nix’s claim and warns the boy away from water. The boy later becomes a huntsman
+    and marries a maiden.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The miller and his wife begin in contentment with money and land, but their
+    prosperity decreases until the miller is distressed and nearly loses ownership
+    of the mill.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before daybreak the miller goes outside, crosses the mill-dam, hears rippling
+    in the pond, and sees a beautiful woman rising out of the water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman is identified as the Nix of the Mill-pond; she calls the miller
+    by name and asks why he is sad.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Nix says she will make the miller richer and happier than before if he
+    promises to give her the young thing just born in his house.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The miller thinks the promised object must be a puppy or kitten and agrees
+    to the Nix’s demand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A maid-servant tells the miller that his wife has given birth to a little
+    boy, and the miller realizes that the Nix knew this and had cheated him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The miller tells his wife about the promise and laments that riches and prosperity
+    are useless if he must lose his child.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: 'Prosperity returns to the miller’s house: his undertakings succeed, storage
+    places seem to fill themselves, and money multiplies.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The miller remains troubled by the bargain and fears that the Nix may rise
+    from the mill-pond and remind him of his debt.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: The miller forbids the boy to go near the water and warns that if he touches
+    it a hand will rise, seize him, and draw him down.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The boy grows into a youth, becomes an excellent huntsman, enters the lord
+    of the village’s service, marries a maiden, and lives happily with her.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: miller
+  description: A miller whose prosperity declines, who bargains with the Nix, and
+    who fears losing his child.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: miller’s wife
+  description: The miller’s wife, who gives birth to a little boy while the miller
+    is away at the mill-pond.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Nix of the Mill-pond
+  description: A beautiful woman rising from the water, identified as the Nix of the
+    Mill-pond, who offers the miller wealth in exchange for the young thing born in
+    his house.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: miller’s son / huntsman
+  description: The little boy born to the miller’s wife after the bargain; he later
+    grows into a youth and becomes an excellent huntsman.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: maid-servant
+  description: The servant who tells the miller that his wife has given birth to a
+    little boy.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: relations
+  description: Relatives who come to wish the parents joy and do not know what to
+    say after hearing of the promise.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: lord of the village
+  description: The village lord who takes the grown huntsman into his service and
+    gives him a little house after perceiving his interest in the maiden.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: beautiful and true-hearted maiden
+  description: A maiden in the village who pleases the huntsman and becomes his wife.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: impoverished householder
+  assigned_to:
+  - fig:1
+  basis: The passage describes the miller’s prosperity declining until he is in great
+    distress.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bargain-maker and debtor
+  assigned_to:
+  - fig:1
+  basis: The miller promises the Nix the newly born thing in his house and later fears
+    being reminded of the debt.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: mother of the promised child
+  assigned_to:
+  - fig:2
+  basis: The wife gives birth to the boy who becomes the object of the miller’s promise
+    to the Nix.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: supernatural water figure
+  assigned_to:
+  - fig:3
+  basis: The figure rises from the pond water and is identified as the Nix of the
+    Mill-pond.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wealth-giver and claimant
+  assigned_to:
+  - fig:3
+  basis: The Nix offers increased wealth in exchange for the young thing newly born
+    in the miller’s house.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: promised child
+  assigned_to:
+  - fig:4
+  basis: The boy’s birth reveals that he is the newly born being implicated in the
+    miller’s promise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: later huntsman and husband
+  assigned_to:
+  - fig:4
+  basis: The boy grows up, becomes an excellent huntsman, enters service, and marries
+    the maiden.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: birth messenger
+  assigned_to:
+  - fig:5
+  basis: The maid-servant announces the wife’s birth of a little boy to the miller.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: visiting kin
+  assigned_to:
+  - fig:6
+  basis: The relations come to wish the family joy and are silent after the bargain
+    is explained.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: patron and household-giver
+  assigned_to:
+  - fig:7
+  basis: The lord takes the huntsman into service and gives him a little house.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: bride
+  assigned_to:
+  - fig:8
+  basis: The maiden is loved by the huntsman, marries him, and lives happily with
+    him.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mill-pond water
+  literal_form: The mill-pond, mill-dam, and water from which the Nix rises and near
+    which the boy is forbidden to go.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: rising hand from the water
+  literal_form: The warned image of a hand rising from the water, seizing the boy,
+    and drawing him down if he touches it.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: self-filling coffers and multiplying money
+  literal_form: Presses and coffers seeming to fill themselves and money multiplying
+    nightly in cupboards after the bargain.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: decline of the miller’s fortunes
+  summary: The miller and his wife move from prosperity and contentment into poverty,
+    distress, and sleepless worry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: dawn encounter at the mill-pond
+  summary: At daybreak the miller crosses the mill-dam, hears the pond, and sees the
+    Nix rise from the water and ask about his sorrow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bargain with the Nix
+  summary: The Nix offers renewed wealth if the miller promises her the newly born
+    thing in his house; the miller assumes it is an animal and agrees.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: birth revealed and debt recognized
+  summary: The maid-servant announces the birth of a boy, and the miller understands
+    that the Nix knew of the child and had misled him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: prosperity with anxiety
+  summary: Wealth returns to the miller’s household, but the bargain torments him
+    and he fears the Nix may rise from the pond to claim the debt.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: warning against the water
+  summary: The miller keeps the boy away from water and warns that touching it will
+    cause a hand to rise and draw him down.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: the boy’s adulthood and marriage
+  summary: The boy becomes a skilled huntsman, serves the village lord, receives a
+    house, marries a maiden, and lives happily with her.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: supernatural exchange of wealth for a newborn child
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A supernatural water figure promises the miller greater wealth if he gives
+    her the newly born being in his house, which is revealed to be his son; prosperity
+    then returns.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy term is broad; the passage frames the exchanger
+    as a Nix rather than explicitly as a deity or sacred authority.
+- id: motif:2
+  label: ambiguous promise exploited by a supernatural being
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The miller interprets the Nix’s demand as referring to a puppy or kitten,
+    but the passage states that the Nix knew of the boy’s birth and had cheated him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The Nix is not explicitly labeled a trickster; the classification rests
+    on the deception and ambiguous wording in the bargain.
+- id: motif:3
+  label: human child under claim from a water being
+  taxonomy_refs: []
+  basis: After the bargain, the boy is treated as the Nix’s possible claim, and the
+    miller fears the pond and warns that water may seize and draw the boy down.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: In this passage segment the child is threatened and protected from water,
+    but not yet actually taken.
+- id: motif:4
+  label: prohibition against contact with dangerous water
+  taxonomy_refs: []
+  basis: The miller forbids the boy to go near or touch the water and describes a
+    hand that would seize him and pull him down.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The warning is reported by the miller; the passage segment does not show
+    the warned event occurring.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22260-22267
+  quote_or_summary: The miller and his wife live contentedly with money and land,
+    but their prosperity declines until the miller is distressed and sleepless.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 22268-22276
+  quote_or_summary: Before daybreak the miller crosses the mill-dam, hears the pond,
+    sees a beautiful woman rising from the water, and recognizes the Nix of the Mill-pond,
+    who calls him by name.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 22277-22284
+  quote_or_summary: The Nix says she will make him richer and happier, but he must
+    promise to give her “the young thing which has just been born in thy house”; the
+    miller thinks of a puppy or kitten and promises.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 22285-22289
+  quote_or_summary: The Nix descends into the water; the maid-servant announces that
+    the miller’s wife has borne a little boy, and the miller realizes the Nix knew
+    this and had cheated him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 22290-22301
+  quote_or_summary: The miller tells his wife and visiting relations of the promise;
+    prosperity returns as coffers fill and money multiplies, but the bargain with
+    the Nix torments him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 22302-22305
+  quote_or_summary: 'The miller fears the Nix may rise from the mill-pond and warns
+    the boy: “if thou dost but touch the water, a hand will rise, seize thee, and
+    draw thee down.”'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:7
+  type: summary
+  locator: lines 22306-22312
+  quote_or_summary: The boy grows into a youth, becomes an excellent huntsman, enters
+    the lord’s service, receives a house, marries a true-hearted maiden, and lives
+    happily with her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are cautious and use only the supplied taxonomy where the passage evidence fits
+    broadly. No comparison claims are made because the passage does not itself establish
+    comparison with another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupplied tale context were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l22260-l22312
+  passage_sha256=e2e598097ea33fd3f1ca58c85a33a4dd72c0d0182f6574474bf8db756b9faa2f
+

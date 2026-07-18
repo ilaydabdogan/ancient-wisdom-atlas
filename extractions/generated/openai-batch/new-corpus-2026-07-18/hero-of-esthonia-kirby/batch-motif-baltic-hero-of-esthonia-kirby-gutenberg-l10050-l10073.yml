@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l10050-l10073
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: SNOWWHITE, THE GLASS MOUNTAIN, AND THE DESPISED YOUNGEST SON. / THE THREE
+    WISHES. / THE WITCH-BRIDE. / THE STEPMOTHER.; lines 10050-10073
+  start: '10050'
+  end: '10073'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A tale summary identifies two girls as half-sisters. The younger is veiled
+    and married to the elder's suitor in deception. The husband discovers the deception,
+    throws the false bride under a river's ice, and takes his intended bride. Later,
+    the mother encounters a water-lily that identifies itself as her daughter. The
+    mother and daughter are transformed into a black dog and black cat with a magician's
+    aid, but their revenge attempts are stopped by a sorceress who had helped the
+    young mother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The two girls are described as half-sisters rather than step-sisters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The younger half-sister is dressed up, veiled, and married to the elder half-sister's
+    suitor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The husband discovers the deception.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The husband throws the false bride under the ice of a river while on the way.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The husband takes his own bride instead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The next year, the mother gathers a water-lily while traveling to visit her
+    supposed daughter and child.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The water-lily tells the mother that it is her own daughter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The mother and daughter are transformed into a black dog and a black cat with
+    the aid of a magician.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The transformed mother and daughter attempt revenge.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A sorceress who had previously befriended the young mother frustrates the
+    revenge attempts.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: elder half-sister
+  description: The girl whose suitor is deceived into marrying the younger half-sister.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: younger half-sister / false bride
+  description: The younger half-sister who is dressed up, veiled, and married to the
+    elder half-sister's suitor; later thrown under river ice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: husband / suitor
+  description: The suitor who marries the veiled false bride, discovers the deception,
+    throws her under the river ice, and takes his own bride.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: mother
+  description: The mother who later travels to visit her supposed daughter and child,
+    gathers a water-lily, and is transformed into a black dog or black cat together
+    with her daughter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: daughter identified by water-lily
+  description: The mother's own daughter, identified when the water-lily tells the
+    mother it is her daughter; later transformed with the mother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: magician
+  description: A magician who aids the transformation of the mother and daughter into
+    a black dog and a black cat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: sorceress
+  description: A sorceress who had previously befriended the young mother and frustrates
+    the revenge attempts.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: young mother
+  description: The young mother who had previously been befriended by the sorceress.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: intended bride
+  assigned_to:
+  - fig:1
+  basis: Her suitor is the one to whom the younger half-sister is deceptively married.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: false bride
+  assigned_to:
+  - fig:2
+  basis: She is explicitly described as the false bride after being veiled and married
+    to the other's suitor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: deceived husband who punishes the false bride
+  assigned_to:
+  - fig:3
+  basis: He discovers the deception, throws the false bride under the ice, and takes
+    his own bride.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mother seeking daughter
+  assigned_to:
+  - fig:4
+  basis: She travels to visit her supposed daughter and child and encounters the identifying
+    water-lily.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: daughter revealed through water-lily
+  assigned_to:
+  - fig:5
+  basis: The water-lily tells the mother that it is her own daughter.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: magical transformer helper
+  assigned_to:
+  - fig:6
+  basis: The magician aids the transformation of the mother and daughter.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: protective sorceress
+  assigned_to:
+  - fig:7
+  basis: The sorceress had previously befriended the young mother and stops the revenge
+    attempts.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: previously aided young mother
+  assigned_to:
+  - fig:8
+  basis: The passage states that the sorceress had previously befriended the young
+    mother.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: river ice
+  literal_form: ice of a river
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water-lily
+  literal_form: water-lily
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: black dog
+  literal_form: black dog
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: black cat
+  literal_form: black cat
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: veil
+  literal_form: veil
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: deceptive veiled marriage
+  summary: The younger half-sister is dressed up and veiled, then married to the elder
+    half-sister's suitor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: discovery and punishment at the river
+  summary: After discovering the deception, the husband throws the false bride under
+    the river ice and takes his own bride.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: water-lily identification
+  summary: The mother gathers a water-lily, which tells her that it is her own daughter.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: animal transformation and failed revenge
+  summary: With a magician's aid, the mother and daughter become a black dog and a
+    black cat, but a sorceress prevents their revenge attempts.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: false bride substituted for intended bride
+  taxonomy_refs: []
+  basis: The younger half-sister is veiled and married to the elder half-sister's
+    suitor, and the husband later discovers the deception.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a condensed tale summary and does not give the full mechanics
+    or motivations of the substitution.
+- id: motif:2
+  label: punishment of false bride beneath river ice
+  taxonomy_refs:
+  - water
+  basis: The husband throws the false bride under the ice of a river after discovering
+    the deception.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state whether this act kills the false bride or causes
+    later transformation.
+- id: motif:3
+  label: daughter revealed through water-lily
+  taxonomy_refs:
+  - water
+  basis: A gathered water-lily tells the mother that it is her own daughter.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The relationship between the water-lily and the daughter's bodily state
+    is not explained in the summary.
+- id: motif:4
+  label: magically aided transformation into black animals
+  taxonomy_refs:
+  - shapeshifter
+  basis: The mother and daughter are transformed into a black dog and a black cat
+    with the aid of a magician.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify which person becomes which animal.
+- id: motif:5
+  label: protective sorceress frustrates revenge
+  taxonomy_refs: []
+  basis: The revenge attempts of the transformed mother and daughter are stopped by
+    a sorceress who had previously befriended the young mother.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe the means by which the sorceress frustrates
+    the revenge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10050-10056
+  quote_or_summary: The passage states that the two girls are half-sisters, and that
+    the younger is dressed up and veiled to marry the other's suitor.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 10056-10059
+  quote_or_summary: After discovering the deception, the husband throws the false
+    bride under river ice and takes his own bride instead.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 10059-10062
+  quote_or_summary: The next year, the mother gathers a water-lily while traveling
+    to visit her supposed daughter and child; the water-lily says it is her own daughter.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 10062-10064
+  quote_or_summary: The mother and daughter are transformed into a black dog and a
+    black cat with a magician's aid.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 10064-10066
+  quote_or_summary: Their revenge attempts are frustrated by a sorceress who had previously
+    befriended the young mother.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 10069-10073
+  quote_or_summary: A following section heading introduces familiar stories of Northern
+    Europe and mentions variants of well-known but not cosmopolitan tales, including
+    a variant of Melusina.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a brief comparative tale summary, so roles and scene sequence
+    are extractable, but some identities and transformations are compressed. No comparison
+    claims were made because the explicit Melusina note appears in a new section and
+    is not clearly tied to the summarized Stepmother passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to supplied refs and only applied where directly supported by literal objects or transformations.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l10050-l10073
+  passage_sha256=a4e5dc73b512c80a86a337b3b0c97dccdbe2d523ee279dac1e7be614c507477b
+

@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.biblical-ezekiel-kjv-gutenberg-l4399-l4520
+source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+passage_locator:
+  label: 'The Bible, King James Version, Book 26: Ezekiel / Book 26        Ezekiel;
+    lines 4399-4520'
+  start: '4399'
+  end: '4520'
+  translation: 'The Bible, King James Version, Book 26: Ezekiel'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A guide brings the speaker through parts of a temple complex, measures
+    posts, doors, walls, chambers, galleries, and courts, identifies the most holy
+    place, describes side chambers rising upward around the house, notes cherubim
+    and palm tree imagery on walls and doors, identifies a wooden altar as the table
+    before the LORD, and then brings the speaker toward north-side chambers in the
+    outer court.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The guide brings the speaker to the temple and measures posts, door breadths,
+    length, and breadth of the space.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The guide measures a twenty-cubit by twenty-cubit space before the temple
+    and says, “This is the most holy place.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wall of the house and the side chambers around the house are measured
+    in cubits.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The side chambers are arranged three levels high and thirty in order, with
+    a winding upward from the lowest chamber to the highest.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The separate place, building, house, galleries, door posts, narrow windows,
+    and wooden ceiling or paneling are described by measurement.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cherubim and palm trees are made around the house and on the temple wall.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'Each cherub has two faces: a man’s face toward a palm tree on one side and
+    a young lion’s face toward a palm tree on the other side.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A wooden altar is measured, and the guide identifies it as the table that
+    is before the LORD.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The temple and sanctuary have two doors with two turning leaves apiece, and
+    the temple doors also bear cherubim and palm trees.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The guide brings the speaker into the outer court toward the north and into
+    a chamber near the separate place and the building; galleries and north-facing
+    doors are described.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed guide
+  description: The figure called “he” brings the speaker through the temple complex,
+    measures its features, and speaks identifications.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: first-person speaker
+  description: The speaker is brought through the temple complex and reports what
+    is seen and measured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: cherubim
+  description: Made figures on the temple walls and doors; every cherub has two faces,
+    including a man’s face and a young lion’s face directed toward palm trees.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the LORD
+  description: Named as the one before whom the wooden altar or table stands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: guide and measurer
+  assigned_to:
+  - fig:1
+  basis: The guide brings the speaker to locations, measures architectural features,
+    and identifies the most holy place and the table before the LORD.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: observing recipient
+  assigned_to:
+  - fig:2
+  basis: The speaker is brought through the complex and reports seeing and hearing
+    the guide’s measurements and identifications.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:3
+  label: decorative two-faced beings
+  assigned_to:
+  - fig:3
+  basis: Cherubim are made on walls and doors, and each is described as having two
+    faces.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: divine referent
+  assigned_to:
+  - fig:4
+  basis: The wooden altar is identified as the table before the LORD.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: measured sacred architecture
+  literal_form: Measured posts, doors, walls, chambers, galleries, and courts expressed
+    in cubits.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: most holy place
+  literal_form: A twenty-cubit by twenty-cubit inner space identified as the most
+    holy place.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: palm trees
+  literal_form: Palm tree imagery made between cherubim and on walls, doors, porch
+    sides, and side chambers.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: two-faced cherubim
+  literal_form: Cherubim with a man’s face on one side and a young lion’s face on
+    the other side.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wooden altar or table before the LORD
+  literal_form: A wooden altar, three cubits high and two cubits long, identified
+    as the table before the LORD.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: upward winding side chambers
+  literal_form: A winding around the house that goes upward from the lowest chamber
+    to the highest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Measurement of the temple and most holy place
+  summary: The guide brings the speaker to the temple, measures its posts and doors,
+    and identifies an inner measured space as the most holy place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Side chambers around the house
+  summary: The wall and side chambers are measured; the chambers are arranged in multiple
+    levels and wind upward around the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Measurements of separate place, building, and galleries
+  summary: The separate place, building, house, galleries, posts, windows, and wall
+    surfaces are described by measurements and architectural placement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cherubim, palm trees, doors, and table before the LORD
+  summary: The temple walls and doors bear cherubim and palm tree imagery, and a wooden
+    altar is identified as the table before the LORD.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Outer court north chambers
+  summary: The guide brings the speaker toward the north in the outer court and into
+    a chamber near the separate place; galleries and doors are described.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: measured sacred enclosure
+  taxonomy_refs:
+  - world_center
+  basis: The passage centers on a guide-led measurement of temple architecture, including
+    the most holy place and the table before the LORD.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call the temple a cosmic center; the taxonomy
+    link is a candidate based on sacred central architecture only.
+- id: motif:2
+  label: architectural upward ascent
+  taxonomy_refs:
+  - ascent
+  basis: The side chambers are described as winding upward around the house from the
+    lowest chamber to the highest.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The ascent is architectural and spatial, not an explicit spiritual or
+    heroic ascent.
+- id: motif:3
+  label: sacred tree imagery with composite beings
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Palm trees are repeatedly placed between cherubim and on temple walls and
+    doors, with cherub faces directed toward the palm trees.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage describes carved palm imagery, not a living tree or explicit
+    world-axis tree.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Ezekiel 41:1-4; lines 4399-4413
+  quote_or_summary: The guide brings the speaker to the temple, measures posts and
+    doors, and identifies a twenty-cubit by twenty-cubit space as “the most holy place.”
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text; summary and short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: Ezekiel 41:5-11; lines 4414-4440
+  quote_or_summary: The wall and side chambers around the house are measured; the
+    chambers are three levels and thirty in order, with a winding upward from lowest
+    to highest.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Ezekiel 41:12-17; lines 4441-4462
+  quote_or_summary: The separate place, building, house, galleries, door posts, narrow
+    windows, and covered windows are described and measured.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: Ezekiel 41:18-20; lines 4463-4472
+  quote_or_summary: Cherubim and palm trees are made around the house; every cherub
+    has two faces, with a man’s face and a young lion’s face directed toward palm
+    trees.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Ezekiel 41:21-26; lines 4473-4494
+  quote_or_summary: A wooden altar is identified as the table before the LORD; the
+    temple and sanctuary have two-leaved doors, and the temple doors also bear cherubim
+    and palm trees.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: Ezekiel 42:1-4; lines 4495-4520
+  quote_or_summary: The guide brings the speaker to the outer court toward the north
+    and into a chamber near the separate place and building; galleries and north-facing
+    doors are described.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are cautious because the passage is primarily architectural description. No comparison
+    claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy links are limited to available references and marked cautiously where interpretive.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-ezekiel-kjv-gutenberg__l4399-l4520
+  passage_sha256=568e88c968d1c6eb95683cf1cadb1e0878c2ae074c81ad0fd4ee63ba143f1f65
+

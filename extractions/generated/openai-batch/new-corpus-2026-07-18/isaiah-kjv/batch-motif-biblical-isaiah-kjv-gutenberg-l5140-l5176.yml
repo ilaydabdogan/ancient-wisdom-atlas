@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.biblical-isaiah-kjv-gutenberg-l5140-l5176
+source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+passage_locator:
+  label: 'The Bible, King James Version, Book 23: Isaiah / Book 23        Isaiah;
+    lines 5140-5176'
+  start: '5140'
+  end: '5176'
+  translation: 'The Bible, King James Version, Book 23: Isaiah'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage condemns people performing garden rites and eating forbidden
+    or abominable foods, announces that the LORD will gather all nations to see divine
+    glory, sends survivors to distant peoples, brings dispersed brethren as an offering
+    to the holy mountain Jerusalem, appoints some as priests and Levites, promises
+    enduring new heavens and new earth, describes regular worship by all flesh, and
+    ends with the sight of transgressors' carcasses with undying worm and unquenched
+    fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group sanctifies and purifies themselves in gardens behind one tree in the
+    midst, eats swine's flesh, the abomination, and the mouse, and is said to be consumed
+    together.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The LORD says he knows the works and thoughts of the addressed people and
+    will gather all nations and tongues to see his glory.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The LORD says he will set a sign among them and send escapees to named and
+    distant nations and isles that have not heard his fame or seen his glory.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Those sent to distant peoples are to declare the LORD's glory among the Gentiles.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Brethren are brought from all nations as an offering to the LORD on horses,
+    chariots, litters, mules, and swift beasts to the holy mountain Jerusalem.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The bringing of brethren as an offering is compared to the children of Israel
+    bringing an offering in a clean vessel into the house of the LORD.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The LORD says he will take some of them for priests and Levites.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The LORD says the new heavens and the new earth that he will make shall remain
+    before him, and that the seed and name of the addressed group shall remain.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: From one new moon to another and from one sabbath to another, all flesh will
+    come to worship before the LORD.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: People go forth and look upon the carcasses of men who transgressed against
+    the LORD; their worm does not die, their fire is not quenched, and they are an
+    abhorring to all flesh.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the LORD
+  description: The speaking deity who announces judgment, gathering, sending, appointment,
+    new creation, and worship before him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: garden rite participants
+  description: Those who sanctify and purify themselves in gardens behind one tree
+    and eat swine's flesh, the abomination, and the mouse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: all nations and tongues / Gentiles / all flesh
+  description: The nations and tongues gathered to see the LORD's glory; Gentiles
+    among whom the glory is declared; all flesh that comes to worship and later abhors
+    the transgressors.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: those that escape
+  description: Escapees whom the LORD sends to Tarshish, Pul, Lud, Tubal, Javan, and
+    distant isles to declare his glory.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: brethren from all nations
+  description: Brethren brought from all nations as an offering to the LORD and conveyed
+    to the holy mountain Jerusalem.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: priests and Levites
+  description: Persons taken by the LORD from among them for priestly and Levitical
+    roles.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: men who transgressed against the LORD
+  description: Dead transgressors whose carcasses are viewed; their worm does not
+    die and their fire is not quenched.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine speaker
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly frames declarations with 'saith the LORD' and attributes
+    the announced acts to the LORD.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: divine judge and creator
+  assigned_to:
+  - fig:1
+  basis: The LORD announces consumption of offenders, enduring new heavens and new
+    earth, and the final condition of transgressors.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:3
+  label: condemned ritual practitioners
+  assigned_to:
+  - fig:2
+  basis: They perform garden purification rites, eat named forbidden or abominable
+    foods, and are said to be consumed together.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: gathered witnesses and worshippers
+  assigned_to:
+  - fig:3
+  basis: All nations and tongues are gathered to see glory; all flesh comes to worship
+    before the LORD.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:5
+  label: surviving emissaries
+  assigned_to:
+  - fig:4
+  basis: Those that escape are sent to distant nations and declare the LORD's glory
+    among the Gentiles.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: offering brought to the holy mountain
+  assigned_to:
+  - fig:5
+  basis: Brethren from all nations are brought as an offering to the LORD at the holy
+    mountain Jerusalem.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: appointed cultic personnel
+  assigned_to:
+  - fig:6
+  basis: The LORD says he will take some of them for priests and Levites.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: post-judgment transgressors
+  assigned_to:
+  - fig:7
+  basis: They are described as carcasses of men who transgressed against the LORD,
+    associated with undying worm and unquenched fire.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: tree in the garden rite
+  literal_form: one tree in the midst
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: holy mountain Jerusalem
+  literal_form: my holy mountain Jerusalem
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: unquenched fire
+  literal_form: their fire shall not be quenched
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: new heavens and new earth
+  literal_form: the new heavens and the new earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sign among them
+  literal_form: a sign set among them
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: clean vessel
+  literal_form: a clean vessel used to bring an offering into the house of the LORD
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: undying worm
+  literal_form: their worm shall not die
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Condemned garden purification and consumption
+  summary: People performing purification rites in gardens behind one tree and eating
+    named foods are declared destined to be consumed together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gathering of nations and dispatch of survivors
+  summary: The LORD gathers all nations and tongues to see his glory, sets a sign,
+    and sends escapees to distant peoples so that they declare his glory among the
+    Gentiles.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Brethren brought as offering to Jerusalem
+  summary: Brethren from all nations are transported by various means as an offering
+    to the LORD at the holy mountain Jerusalem, with an analogy to an offering in
+    a clean vessel; some are taken as priests and Levites.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Enduring new creation and cyclical worship
+  summary: The LORD declares that the new heavens and new earth will remain, that
+    the people's seed and name will remain, and that all flesh will worship before
+    him from new moon to new moon and sabbath to sabbath.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Viewing the carcasses of transgressors
+  summary: People go forth and look on the carcasses of those who transgressed against
+    the LORD; the transgressors are associated with undying worm, unquenched fire,
+    and abhorrence to all flesh.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment on transgressors
+  taxonomy_refs:
+  - divine_judgment
+  basis: The LORD declares that condemned practitioners will be consumed together
+    and later presents transgressors' carcasses with undying worm and unquenched fire.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: The passage gives prophetic judgment imagery but does not narrate the
+    mechanics of the consumption.
+- id: motif:2
+  label: Holy mountain as destination of gathered peoples
+  taxonomy_refs:
+  - cosmic_mountain
+  - world_center
+  basis: Brethren from all nations are brought as an offering to the LORD's holy mountain
+    Jerusalem, and all flesh comes to worship before the LORD.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage names Jerusalem as a holy mountain and cultic destination;
+    it does not explicitly describe a full cosmic geography.
+- id: motif:3
+  label: Universal gathering and proclamation of divine glory
+  taxonomy_refs: []
+  basis: All nations and tongues are gathered to see the LORD's glory, and escapees
+    are sent to distant peoples to declare that glory among the Gentiles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference exactly names this proclamation pattern.
+- id: motif:4
+  label: Community brought as sacred offering
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Brethren from all nations are brought as an offering to the LORD, compared
+    to Israel bringing an offering in a clean vessel.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The offering is a gathered people rather than an explicit slaughtered
+    victim; the taxonomy references are approximate.
+- id: motif:5
+  label: New heavens and new earth as enduring renewal
+  taxonomy_refs: []
+  basis: The LORD says he will make new heavens and a new earth that will remain before
+    him, and links this endurance to the people's seed and name.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states cosmic renewal but does not detail a destruction-and-recreation
+    sequence.
+- id: motif:6
+  label: Unquenched fire in judgment imagery
+  taxonomy_refs:
+  - divine_judgment
+  basis: The carcasses of transgressors are associated with fire that is not quenched
+    and with abhorrence to all flesh.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: Although fire is prominent, the passage does not present a world-destroying
+    fire.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5140-5143; Isaiah 66:17
+  quote_or_summary: Those sanctifying and purifying themselves in gardens behind one
+    tree and eating swine's flesh, the abomination, and the mouse shall be consumed
+    together, says the LORD.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5145-5147; Isaiah 66:18
+  quote_or_summary: The LORD says he knows their works and thoughts and will gather
+    all nations and tongues to come and see his glory.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5149-5154; Isaiah 66:19
+  quote_or_summary: The LORD will set a sign, send escapees to Tarshish, Pul, Lud,
+    Tubal, Javan, and distant isles, and they will declare his glory among the Gentiles.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5156-5162; Isaiah 66:20
+  quote_or_summary: Brethren are brought from all nations as an offering to the LORD,
+    transported by several animals and vehicles to the holy mountain Jerusalem, like
+    an offering in a clean vessel brought to the house of the LORD.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5164-5165; Isaiah 66:21
+  quote_or_summary: The LORD says he will take some of them for priests and Levites.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5167-5169; Isaiah 66:22
+  quote_or_summary: The LORD says the new heavens and new earth that he will make
+    shall remain before him, and that the people's seed and name shall remain.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5171-5173; Isaiah 66:23
+  quote_or_summary: From one new moon to another and one sabbath to another, all flesh
+    will come to worship before the LORD.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5175-5176; Isaiah 66:24
+  quote_or_summary: People go forth to look on the carcasses of men who transgressed
+    against the LORD; their worm does not die, their fire is not quenched, and they
+    are abhorrent to all flesh.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are strongest
+    for divine judgment, gathering, holy mountain destination, offering, and new creation;
+    taxonomy alignment is approximate for several candidates. No external comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make a cross-traditional comparison; it only includes an internal ritual analogy to Israelite offering practice.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-isaiah-kjv-gutenberg__l5140-l5176
+  passage_sha256=35c27885c8c753ff2d8a88e2c8638bdf54af9991bfb1a2af023b61d20162c6de
+

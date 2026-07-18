@@ -1,0 +1,623 @@
+---
+record_id: batch.motif.confucian-analects-legge-gutenberg-l1298-l1408
+source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+passage_locator:
+  label: BOOK VII. SHU R. / BOOK VIII. T'AI-PO. / BOOK IX. TSZE HAN. / BOOK X. HEANG
+    TANG.; lines 1298-1408
+  start: '1298'
+  end: '1408'
+  translation: The Analects of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Confucius' demeanor, speech, bodily gestures, dress,
+    fasting, eating, sacrificial conduct, seating, and participation in village ceremonies,
+    especially in relation to court, ruler, guests, sacrifices, and communal rites.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Confucius appears simple and sincere in his village, speaks minutely but cautiously
+    in the ancestral temple and court, and adjusts his speech and manner according
+    to rank and the ruler's presence.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When called by the prince to receive a visitor, Confucius' countenance and
+    movement change; he inclines to other officers, keeps his robe adjusted, hastens
+    with arms compared to bird wings, and reports after the visitor retires.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the palace gate and audience hall, Confucius bends his body, avoids the
+    middle of the gateway and the threshold, changes demeanor near the prince's vacant
+    place, holds up his robe, and restrains his breath.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the audience, Confucius relaxes after descending, advances rapidly with
+    arms compared to wings, and still shows respectful uneasiness on returning to
+    his place.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When carrying the ruler's scepter, Confucius bends as if it is heavy, holds
+    it at regulated height, looks apprehensive, and drags his feet; he appears placid
+    when presenting entrusted gifts and pleased at private audience.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage lists dress rules for the superior man, including avoided colors,
+    garments worn over different furs, sleeping and home clothing, mourning restrictions,
+    and monthly court robes.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: During fasting, Confucius considers it necessary to wear brightly clean linen
+    clothing, change his food, and change his usual sitting place.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: 'The passage describes food rules: preference for clean rice and finely cut
+    meat, avoidance of spoiled, discolored, badly flavored, ill-cooked, out-of-season,
+    improperly cut, or improperly sauced food, proportioning meat to rice, avoiding
+    confusion from wine, rejecting market wine and dried meat, keeping ginger, and
+    eating moderately.'
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After assisting at the prince's sacrifice, Confucius does not keep received
+    flesh overnight; family sacrifice flesh is not kept beyond three days, and even
+    coarse food is offered in sacrifice with grave respect.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:10
+  text: Confucius does not converse while eating, does not speak in bed, and does
+    not sit on a mat unless it is straight.
+  category: action
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:11
+  text: At village drinking, Confucius leaves immediately after those who carry staffs
+    go out.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: When villagers perform ceremonies to drive away pestilential influences, Confucius
+    puts on court robes and stands on the eastern steps.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: Named subject whose conduct in village, court, palace, fasting, eating,
+    sacrifice, seating, and village ceremonies is described.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Prince or ruler
+  description: Authority in whose temple, court, palace, reception service, scepter,
+    audience, and sacrifice Confucius is involved.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Officers
+  description: Ranked court officers of lower and higher grade, including officers
+    among whom Confucius stands during reception of a visitor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Visitor or guest
+  description: Visitor received for the prince and later reported as no longer turning
+    round after retirement.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Superior man
+  description: Generic exemplary person whose dress practices are listed in the passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Villagers and staff-carriers
+  description: Village participants in communal drinking and ceremonies against pestilential
+    influences; some are described as carrying staffs.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: Exemplary ritual actor
+  assigned_to:
+  - fig:1
+  basis: Confucius' speech, bodily posture, dress, fasting, eating, sacrifice, seating,
+    and village conduct are regulated by setting and occasion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:12
+- id: role:2
+  label: Court functionary receiving a visitor
+  assigned_to:
+  - fig:1
+  basis: The prince calls Confucius to assist in the reception of a visitor, and Confucius
+    performs formal movements and reports afterward.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Participant in sacrificial practice
+  assigned_to:
+  - fig:1
+  basis: Confucius assists at the prince's sacrifice, handles sacrificial flesh according
+    to time limits, and offers food in sacrifice with respect.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: Ruler or princely authority
+  assigned_to:
+  - fig:2
+  basis: The ruler or prince is present at court, calls Confucius for reception service,
+    has a vacant palace place, possesses a scepter, and is associated with a sacrifice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:5
+  label: Ranked court interlocutors
+  assigned_to:
+  - fig:3
+  basis: The passage distinguishes speech with lower-grade and higher-grade officers
+    and describes Confucius inclining toward officers during reception.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: Received guest
+  assigned_to:
+  - fig:4
+  basis: The visitor is received for the prince and later retires.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Ideal wearer of proper dress
+  assigned_to:
+  - fig:5
+  basis: The superior man's clothing colors, furs, mourning garments, and court robes
+    are enumerated.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Village communal participants
+  assigned_to:
+  - fig:6
+  basis: Villagers drink together and perform rites to drive away pestilential influences;
+    some carry staffs.
+  evidence_refs:
+  - ev:11
+  - ev:12
+symbols:
+- id: sym:1
+  label: Ritual dress and robes
+  literal_form: Robe skirts, court robes, clean linen fasting clothes, garments of
+    specified colors and furs, mourning attire, sleeping dress, and home furs.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:12
+- id: sym:2
+  label: Ruler's scepter
+  literal_form: The scepter of the ruler carried by Confucius at a regulated height.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Gate and threshold
+  literal_form: Palace gate, middle of the gateway, and threshold avoided by Confucius.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Steps and audience space
+  literal_form: Reception hall steps, Confucius' place after audience, and eastern
+    steps during village ceremonies.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:12
+- id: sym:5
+  label: Food, wine, ginger, and sacrificial flesh
+  literal_form: Rice, minced meat, sauces, wine, dried meat, ginger, sacrificial flesh,
+    coarse rice, and vegetable soup.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: Straight mat
+  literal_form: A mat that must be straight before Confucius sits on it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: Staffs
+  literal_form: Staffs carried by some participants leaving village drinking.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:8
+  label: Arms like wings
+  literal_form: Confucius' arms compared to the wings of a bird while hastening forward.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:9
+  label: Pestilential influences
+  literal_form: Pestilential influences named as the object of village ceremonies
+    to drive them away.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Village, ancestral temple, and court demeanor
+  summary: Confucius' speech and appearance vary by village, temple, court, officer
+    rank, and ruler's presence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reception of a visitor for the prince
+  summary: Confucius performs formal bodily movements, keeps his robe arranged, advances
+    with arms compared to wings, and reports when the visitor has retired.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Palace gate and audience hall conduct
+  summary: Confucius bends, avoids the threshold and central gateway, changes demeanor
+    near the prince's place, ascends and descends the hall carefully, and returns
+    to his place with respectful uneasiness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Carrying the ruler's scepter and presenting gifts
+  summary: Confucius carries the ruler's scepter with marked bodily caution, presents
+    entrusted gifts placidly, and appears pleased at private audience.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Dress, fasting, and altered routine
+  summary: The passage lists regulated clothing practices and describes fasting as
+    involving clean linen clothing, changed food, and changed sitting place.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Food discipline and sacrificial handling
+  summary: Confucius follows rules for food quality, preparation, proportion, wine,
+    ginger, speech during eating, handling of sacrificial flesh, and respectful food
+    offering.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: Mat and village rites
+  summary: Confucius sits only on a straight mat, leaves village drinking after staff-carriers,
+    and wears court robes on eastern steps during ceremonies against pestilential
+    influences.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Wisdom embodied as regulated conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents exemplary conduct through careful adjustment of speech,
+    demeanor, clothing, food, sitting, and ritual behavior to each social and ceremonial
+    context.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage is prescriptive and behavioral rather than mythic narrative;
+    the taxonomy link to wisdom is broad.
+- id: motif:2
+  label: Ritualized approach to political authority and court space
+  taxonomy_refs: []
+  basis: Confucius alters posture, breath, gait, and placement at the palace gate,
+    vacant princely place, audience hall, scepter-bearing, and court reception.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a court-ritual pattern, not a supernatural or narrative myth motif.
+- id: motif:3
+  label: Fasting and ritual alteration of ordinary routine
+  taxonomy_refs: []
+  basis: During fasting, clothing is clean linen, food changes, and the ordinary sitting
+    place changes.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The purpose of the fast is not specified in the passage.
+- id: motif:4
+  label: Sacrificial offering and regulated sacrificial food
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes assisting at the prince's sacrifice, time limits for
+    sacrificial flesh, family sacrifice, and offering even coarse food with grave
+    respect.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage focuses on ritual handling and demeanor rather than a mythic
+    account of sacrifice.
+- id: motif:5
+  label: Communal expulsion of pestilential influences
+  taxonomy_refs: []
+  basis: Villagers conduct ceremonies to drive away pestilential influences while
+    Confucius wears court robes and stands on the eastern steps.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The passage gives no details about the rite beyond its stated purpose
+    and Confucius' posture and clothing.
+- id: motif:6
+  label: Ritual avoidance and spatial alignment
+  taxonomy_refs: []
+  basis: Confucius avoids the middle of the gateway and the threshold, sits only on
+    a straight mat, and stands on the eastern steps during village ceremonies.
+  evidence_refs:
+  - ev:3
+  - ev:10
+  - ev:12
+  confidence: medium
+  cautions: The symbolic meaning of these spatial rules is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Book X, Chaps. I-II within lines 1298-1408
+  quote_or_summary: Confucius' demeanor in village, ancestral temple, court, and ruler's
+    presence is described, along with different modes of speech to lower and higher
+    officers.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:2
+  type: summary
+  locator: Book X, Chap. III within lines 1298-1408
+  quote_or_summary: When called by the prince to receive a visitor, Confucius changes
+    countenance and movement, inclines to officers, keeps his robe adjusted, advances
+    with arms like bird wings, and reports after the guest retires.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:3
+  type: summary
+  locator: Book X, Chap. IV within lines 1298-1408
+  quote_or_summary: At the palace gate and audience hall, Confucius bends, avoids
+    the gateway center and threshold, changes demeanor near the prince's vacant place,
+    holds up his robe, restrains breath, descends, relaxes, and returns with respectful
+    uneasiness.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:4
+  type: summary
+  locator: Book X, Chap. V within lines 1298-1408
+  quote_or_summary: When carrying the ruler's scepter, Confucius bends as if burdened,
+    holds it at regulated height, looks apprehensive, drags his feet, presents gifts
+    placidly, and appears pleased at private audience.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: summary
+  locator: Book X, Chap. VI within lines 1298-1408
+  quote_or_summary: The superior man's dress rules are listed, including avoided colors,
+    garments over different furs, undress, sleeping dress, home furs, mourning clothing,
+    and first-day court robes.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:6
+  type: summary
+  locator: Book X, Chap. VII within lines 1298-1408
+  quote_or_summary: During fasting, clean linen clothing is required, and food and
+    usual sitting place are changed.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:7
+  type: summary
+  locator: Book X, Chap. VIII.1-7 within lines 1298-1408
+  quote_or_summary: Food rules include clean rice, finely cut meat, avoidance of spoiled
+    or improper foods, proper cutting and sauces, proportion of meat to rice, wine
+    without confusion, no market wine or dried meat, ginger, and moderate eating.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:8
+  type: summary
+  locator: Book X, Chap. VIII.8 within lines 1298-1408
+  quote_or_summary: After assisting at the prince's sacrifice, Confucius does not
+    keep received flesh overnight; flesh from family sacrifice is not kept beyond
+    three days.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:9
+  type: summary
+  locator: Book X, Chap. VIII.9-10 within lines 1298-1408
+  quote_or_summary: Confucius does not converse while eating or speak in bed; even
+    with coarse rice and vegetable soup, he offers a little in sacrifice with grave
+    respect.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:10
+  type: summary
+  locator: Book X, Chap. IX within lines 1298-1408
+  quote_or_summary: If Confucius' mat is not straight, he does not sit on it.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:11
+  type: summary
+  locator: Book X, Chap. X.1 within lines 1298-1408
+  quote_or_summary: At village drinking, Confucius goes out immediately after those
+    carrying staffs go out.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:12
+  type: summary
+  locator: Book X, Chap. X.2 within lines 1298-1408
+  quote_or_summary: When villagers perform ceremonies to drive away pestilential influences,
+    Confucius puts on court robes and stands on the eastern steps.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is primarily ritual-ethical description rather than mythic narrative.
+    No comparison claims were made because the passage itself does not support comparison
+    to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available motif families and used only where directly supportable.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-analects-legge-gutenberg__l1298-l1408
+  passage_sha256=a935197a9676fbd2d30285a1988c40b5da3a3f3be8ccea1aa4c3c3c082ff87b0
+

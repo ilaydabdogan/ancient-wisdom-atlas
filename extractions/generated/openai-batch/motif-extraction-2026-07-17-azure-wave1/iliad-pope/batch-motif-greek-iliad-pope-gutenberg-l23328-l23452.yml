@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l23328-l23452
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE REDEMPTION OF THE BODY OF HECTOR. / CONCLUDING NOTE. / A. POPE / END
+    OF THE ILIAD; lines 23328-23452
+  start: '23328'
+  end: '23452'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Concluding end matter to Pope's Iliad, including a signature, a Marcus
+    Aurelius epigraph, an end marker, and footnotes discussing loyalty, Homer and
+    Shakespeare as shared cultural benefactors, Homeric biography, bardic recitation
+    with harp, ancient beliefs about consecrated trees, attributed works of Homer,
+    and parallels to Odyssey material.
+  language: English with Greek and Latin quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage marks the end of the Iliad with Pope's signature, an epigraph,
+    and an explicit end label.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote defines loyalty as rooted in a natural bond among families, clans,
+    and nations, directed toward hereditary representatives of ancient blood.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A footnote describes the thoughts of Homer and Shakespeare as a universal
+    inheritance of the human race and calls such figures common benefactors.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A footnote states that a Life of Homer has little biographical value, though
+    it has been paraphrased and abridged for readers.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A footnote says the first poets both composed and recited or sang their own
+    verses.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The bard is described as using a harp, playing a prelude, accompanying the
+    song, and preserving a voice between singing and recitation.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Demodocus and Phemius are named as examples for imagining this kind of bardic
+    performance.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A footnote reports an ancient belief that trees near places consecrated by
+    gods or great men could be very old, giving examples of Socrates' plane tree and
+    the tree at Delos where Latona gave birth to Apollo.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A footnote says Homer was said to have composed the Little Iliad and the Phocid
+    during a stay at Phoca.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A footnote says a picture of early manners and hospitality is apparently copied
+    from Odyssey Book 14 and that the fictitious biography identifies Homer with events
+    described in his poems.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A footnote says Homer was said to have written the Batrachomyomachia, the
+    Epicichlidia, and other minor works at Bolissus in a Chian citizen's house.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Named ancient poet whose biography, attributed works, and cultural
+    importance are discussed in the notes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Shakespeare
+  description: Named poet whose thoughts, together with Homer's, are described as
+    a universal inheritance of the human race.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: first poets / generic bard
+  description: The passage describes early poets or a bard as composing, singing or
+    reciting, and performing with a harp.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Demodocus and Phemius
+  description: Named as examples through which the reader may imagine ancient bardic
+    performance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Latona
+  description: Named as giving birth to Apollo at the tree at Delos.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Apollo
+  description: Named as the child born to Latona at the tree at Delos.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Socrates
+  description: Named as associated with a plane tree under which he used to walk.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: poet as common cultural benefactor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note says the thoughts of Homer and Shakespeare are the universal inheritance
+    of the human race and calls such figures common benefactors.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: biographical subject and attributed author
+  assigned_to:
+  - fig:1
+  basis: The notes discuss a Life of Homer, alleged stays at Phoca and Bolissus, and
+    works said to have been composed there.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: bard or poet-reciter
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The note describes early poets singing their own verses with instrumental
+    accompaniment and names Demodocus and Phemius as examples.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine mother in birth reference
+  assigned_to:
+  - fig:5
+  basis: Latona is named as giving birth to Apollo at Delos.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: divine child in birth reference
+  assigned_to:
+  - fig:6
+  basis: Apollo is named as the child born to Latona at Delos.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: great man associated with consecrated tree example
+  assigned_to:
+  - fig:7
+  basis: Socrates is named in connection with a plane tree under which he used to
+    walk, in a note about trees near places associated with gods and great men.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: harp
+  literal_form: harp used by the bard to play a prelude and accompany song
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: consecrated tree
+  literal_form: trees near consecrated places; the plane tree of Socrates; the tree
+    at Delos
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Delos
+  literal_form: Delos as the place of the tree where Latona gave birth to Apollo
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Bardic performance with harp
+  summary: The notes describe early poetic performance in which a bard sings or recites
+    his own verses, plays a harp prelude, and accompanies the song with the instrument.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Consecrated trees and divine birth examples
+  summary: The notes describe a belief in the great age of trees near consecrated
+    places and give examples involving Socrates' plane tree and the Delos tree where
+    Latona gave birth to Apollo.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Homeric biography compared to Odyssey material
+  summary: The notes say that a fictitious biography of Homer borrows a hospitality
+    picture from Odyssey Book 14 and identifies Homer with events described in his
+    poems.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:4
+  label: Poets as shared benefactors
+  summary: The notes present Homer and Shakespeare as figures whose thoughts belong
+    to the whole human race and who function as common benefactors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: harp-accompanied bardic song
+  taxonomy_refs: []
+  basis: The passage describes first poets singing their own verses and a bard using
+    a harp, prelude, and song-recitation.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a scholarly note on performance practice, not a narrative episode
+    from the Iliad.
+- id: motif:2
+  label: consecrated long-lived tree associated with divine or great human presence
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage states that ancient belief attributed great age to trees near
+    places consecrated by gods and great men, citing trees associated with Socrates
+    and with Latona's birth of Apollo at Delos.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a sacred or consecrated tree pattern, but it does
+    not describe an axis mundi or world-tree function.
+- id: motif:3
+  label: divine birth at a sacred place with tree association
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage mentions the tree at Delos where Latona gave birth to Apollo.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The birth is mentioned only as an illustrative example in a footnote;
+    no full mythic birth narrative is given.
+- id: motif:4
+  label: hospitality scene borrowed from Odyssey tradition
+  taxonomy_refs: []
+  basis: The passage states that a picture of early manners and hospitality in the
+    Homeric biography is apparently copied from Odyssey Book 14.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The details of the hospitality scene are not included in the supplied
+    passage.
+- id: motif:5
+  label: poet as common cultural benefactor
+  taxonomy_refs: []
+  basis: The passage describes Homer and Shakespeare as giving expression to deep
+    human inspirations and as common benefactors of the human race.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a literary-critical characterization rather than a mythic narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The footnote explicitly compares a hospitality picture in the Homeric biography
+    to Odyssey Book 14 and says it is apparently copied from that book.
+  claim_level: same_motif
+  target: Odyssey Book 14 hospitality pattern
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied passage reports the comparison but does not reproduce
+    the hospitality scene itself.
+- id: claim:2
+  claim: The bardic performance described in the note is presented as functionally
+    comparable to the performances of Demodocus and Phemius.
+  claim_level: same_function
+  target: Homeric bardic performers Demodocus and Phemius
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage names Demodocus and Phemius as analogues but does not quote
+    or summarize their Odyssey episodes in detail.
+- id: claim:3
+  claim: The plane tree associated with Socrates and the Delos tree associated with
+    Latona and Apollo are used as examples of the same stated belief in long-lived
+    trees near consecrated places.
+  claim_level: same_function
+  target: ancient consecrated-tree belief involving gods and great men
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives examples within a scholarly note and does not describe
+    ritual use or a developed mythic structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23328-23335; concluding end matter
+  quote_or_summary: The passage has Pope's signature, a Marcus Aurelius epigraph,
+    and the label marking the end of the Iliad.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+- id: ev:2
+  type: summary
+  locator: footnote [1] within lines 23328-23452
+  quote_or_summary: Wilberforce is cited on loyalty as a natural bond among families,
+    clans, and nations, attaching affection to hereditary representatives of ancient
+    blood.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+- id: ev:3
+  type: summary
+  locator: footnote [1] within lines 23328-23452
+  quote_or_summary: The footnote states that the thoughts of Homer and Shakespeare
+    are a universal inheritance and that such figures are common benefactors of the
+    race.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+- id: ev:4
+  type: summary
+  locator: footnote [2] within lines 23328-23452
+  quote_or_summary: A Life of Homer is noted as paraphrased in English and described
+    as having insignificant biographical value.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+- id: ev:5
+  type: summary
+  locator: footnote [3] within lines 23328-23452
+  quote_or_summary: The note says first poets sang their own verses; a bard used a
+    harp, played a prelude, accompanied the song, and had a voice between singing
+    and recitation; Demodocus and Phemius are named as examples.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+- id: ev:6
+  type: summary
+  locator: footnote [4] within lines 23328-23452
+  quote_or_summary: The note reports belief in the great age of trees near places
+    consecrated by gods and great men, citing the plane tree of Socrates and the Delos
+    tree where Latona gave birth to Apollo.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+- id: ev:7
+  type: summary
+  locator: footnotes [8] and [11] within lines 23328-23452
+  quote_or_summary: The notes say Homer was said to have composed the Little Iliad
+    and Phocid at Phoca, and the Batrachomyomachia, Epicichlidia, and other minor
+    works at Bolissus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+- id: ev:8
+  type: summary
+  locator: footnote [9] within lines 23328-23452
+  quote_or_summary: The note says a picture of early manners and hospitality is apparently
+    copied from Odyssey Book 14, and that the fictitious biography identifies Homer
+    with events in his poems.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text supplied in the request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the passage is end matter and
+    footnotes rather than an Iliad narrative episode. Motif candidates are limited
+    to patterns explicitly mentioned in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No Iliad action scene is present in this line range; extraction focuses on explicit scholarly-note material in the supplied passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l23328-l23452
+  passage_sha256=f393e5c628f2c66d9bac09aad0b127e137b4527dba4a9f86f9a7b8f2eb40421e
+

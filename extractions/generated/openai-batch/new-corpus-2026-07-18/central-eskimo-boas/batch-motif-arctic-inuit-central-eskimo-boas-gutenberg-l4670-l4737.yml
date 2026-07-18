@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4670-l4737
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SEAL, WALRUS, AND WHALE HUNTING. / DEER, MUSK OX, AND BEAR HUNTING. / HUNTING
+    OF SMALL GAME. / FISHING.; lines 4670-4737
+  start: '4670'
+  end: '4737'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Central Eskimo fishing methods, especially salmon
+    fishing through seasonal movements, with pronged spears, ivory or tooth baits,
+    fish stringers, stone weirs, hooks through lake ice, and reports of nets among
+    other Eskimo groups.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Salmon are described as the most important fish and are caught abundantly
+    in summer when they descend from lakes to the sea along a narrow lead between
+    land floe and water.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The kakivang is a fishing spear with a widening handle, a central bone or
+    iron prong, and two larger side prongs made of deer antler or musk-ox horn.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When salmon are very plentiful, no bait is needed, and fishers spear them
+    as they swim along.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After the ice is gone, fishers catch salmon in shallow rivers using an ivory
+    fish lure or bear teeth bait moved on a line, then spear the salmon with the kakivang.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A fisherman holds an ivory quqartaun in the left hand to string or kill caught
+    salmon by passing its point through the gills and mouth or into the neck.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Stone dikes or weirs are built across creeks or river forks so that salmon
+    pass over at high water but are cut off and speared as the water falls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In autumn some salmon remain too long in small ponds as rivers dry up; some
+    ponds freeze to the bottom, and frozen fish are removed through holes cut in the
+    ice in spring.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In early spring, salmon are caught through holes cut in lake ice using hooks,
+    bait, and plaited deer-sinew lines held by hand or tied to short rods.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that the author did not personally see fishing nets, but
+    other observers reported nets among the Utkusiksalik tribe, Anderson River natives,
+    and Labrador Eskimo.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: salmon
+  description: The principal fish described; caught in summer abundance, in autumn
+    rivers and ponds, and in early spring through lake ice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Central Eskimo fishers / natives
+  description: People who spear, bait, string, trap, and hook fish using the described
+    implements and seasonal methods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: trout and sea fish
+  description: Other fish said to be caught by the hook-and-bait method described
+    for salmon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Utkusiksalik tribe
+  description: Group reported by Klutschak to use fishing nets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: natives of Anderson River
+  description: Group reported by Petitot to use fishing nets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Labrador Eskimo
+  description: Group said to use fishing nets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: fish catch
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Salmon, trout, and sea fish are described as animals caught by the fishing
+    methods in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: fishers and tool users
+  assigned_to:
+  - fig:2
+  basis: The natives or fishermen use spears, bait, stringing tools, weirs, hooks,
+    and lines to catch fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: reported net users
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage reports fishing nets in use among these groups.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: water and ice fishing environment
+  literal_form: lakes, sea, narrow lead, shallow rivers, creeks, ponds, and holes
+    cut through lake ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: kakivang spear
+  literal_form: pronged spear with bone or iron center prong and larger side prongs
+    of deer antler or musk-ox horn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fish lure and tooth bait
+  literal_form: small ivory fish tied to plaited deer-sinew string, and bear teeth
+    attached to a separate moving line
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: quqartaun fish stringer
+  literal_form: ivory instrument with thong and knot, passed through the gills and
+    mouth or into the neck of a salmon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: stone weirs or dikes
+  literal_form: stone dikes about one and a half or two feet high built across creeks
+    or river forks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: hooks and deer-sinew lines
+  literal_form: hooks made formerly of deer antler or of crooked pointed nail set
+    in ivory or bone, used with plaited deer-sinew line
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: fishing nets
+  literal_form: nets for fishing reported among Utkusiksalik, Anderson River, and
+    Labrador Eskimo groups
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: summer salmon descent and spear fishing
+  summary: As lakes break up in summer, salmon descend toward the sea in large numbers
+    and are speared with the kakivang along the lead between land floe and water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: shallow-river baiting and stringing
+  summary: After the ice is gone, fishers use ivory fish lures or bear teeth bait
+    to draw salmon near, spear them, and string or kill them with the quqartaun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: stone-dike trapping at changing water levels
+  summary: Fishers build stone dikes across creeks or river forks so salmon pass above
+    them at high water and are then cut off and speared as water levels change.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: autumn ponds and spring frozen fish retrieval
+  summary: In autumn, salmon may be trapped in drying ponds; in spring, people cut
+    holes in frozen ponds and remove fish that froze there over winter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: spring ice fishing with hooks
+  summary: In early spring, holes are cut through lake ice and hooks with bait and
+    deer-sinew lines are used to catch salmon, trout, and sea fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: reported distribution of net fishing
+  summary: The author notes that he had not personally seen fishing nets, while citing
+    reports of nets among Utkusiksalik, Anderson River, and Labrador Eskimo groups.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal fishing cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Fishing practices are organized around summer lake break-up and salmon descent,
+    autumn river drying, winter freezing, and early spring ice fishing.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is an ethnographic subsistence description, not a mythic narrative;
+    the taxonomy reference is used only for the observed seasonal pattern.
+- id: motif:2
+  label: animal lure and capture technology
+  taxonomy_refs: []
+  basis: Fishers use an artificial ivory fish and bear teeth bait to attract salmon
+    before spearing or hooking them.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a practical fishing pattern; no symbolic or sacred interpretation
+    is stated.
+- id: motif:3
+  label: barrier trapping of fish by water-level change
+  taxonomy_refs: []
+  basis: Stone dikes or weirs alter fish movement so salmon are cut off from the sea
+    or gathered above river forks and then speared.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a literal technological pattern rather than a mythological motif
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between reported
+    net fishing among Utkusiksalik, Anderson River, and Labrador Eskimo groups and
+    the broader fishing practices described in the passage, while distinguishing these
+    reports from the author's own observations.
+  claim_level: same_function
+  target: fishing nets among Utkusiksalik, Anderson River natives, and Labrador Eskimo
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The net-use comparison is based on brief ethnographic reports cited
+    in the passage; the passage gives no detailed net form, ritual meaning, or mythic
+    context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4670-4737, paragraph 1, first section
+  quote_or_summary: Salmon are abundant in summer as lakes break up and they descend
+    to the sea; they are speared with the kakivang, a pronged implement described
+    in detail.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 4670-4737, paragraph 1, second section
+  quote_or_summary: In shallow rivers, fishers use an ivory fish lure or bear teeth
+    bait to attract salmon, spear them with the kakivang, and use the ivory quqartaun
+    to string or kill them.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 4670-4737, paragraph 2
+  quote_or_summary: Stone weirs or dikes are built across creeks or river forks so
+    salmon pass at high water but are trapped or gathered and then speared.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 4670-4737, paragraph 3
+  quote_or_summary: In autumn, salmon ascending rivers may be trapped in drying ponds;
+    some ponds freeze to the bottom, and frozen fish are taken out through ice holes
+    in spring.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 4670-4737, paragraphs 4-5
+  quote_or_summary: In early spring, fishers cut holes through lake ice and use hooks,
+    bait, deer-sinew lines, and sometimes rods to catch salmon, trout, and sea fish.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 4670-4737, final paragraph, first clause
+  quote_or_summary: The author states that he himself has never seen nets for fishing.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 4670-4737, final paragraph, second clause
+  quote_or_summary: Klutschak found fishing nets among the Utkusiksalik tribe; Petitot
+    reported them among Anderson River natives; the Labrador Eskimo also use nets.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is descriptive. Motif candidates
+    are treated as practical subsistence patterns, not mythic symbols, because the
+    passage contains no narrative or sacred explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic figures or ritual interpretations are stated in the passage. Taxonomy use is limited to the explicit seasonal and water-based pattern.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4670-l4737
+  passage_sha256=d3219d1544ab50de1a5fad950a0ddcf99f617f16451527e4c4b4b818d0459dca
+

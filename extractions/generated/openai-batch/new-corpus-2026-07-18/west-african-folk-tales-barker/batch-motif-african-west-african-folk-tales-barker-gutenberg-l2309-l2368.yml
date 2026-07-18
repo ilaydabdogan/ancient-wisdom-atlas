@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l2309-l2368
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XXIV. THE LION AND THE WOLF / XXV. MAKU MAWU AND MAKU FIA / XXVI. THE ROBBER
+    AND THE OLD MAN / XXVII. THE LEOPARD AND THE RAM; lines 2309-2368
+  start: '2309'
+  end: '2368'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“From that time leopards have made their abode in the woods while rams have
+    remained at home.”"
+  summary: A ram and a leopard unknowingly build the same house and agree to live
+    together. Their sons exchange demonstrations of how their fathers hunt. The leopard
+    learns that the ram’s backward movement precedes a headlong charge. Later, when
+    the ram slips backward on a wet floor, the leopard thinks he is about to attack,
+    flees to the woods, and thereafter leopards live in the woods while rams remain
+    at home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A ram decides to clear land in the woods and build a house; a nearby leopard
+    independently decides to do the same.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ram and leopard choose the same site without knowing it and work on the
+    clearing and building on alternate occasions.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each animal interprets the progress made in his absence as help from fairies
+    and gives thanks.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the house is finished, the ram and leopard meet, explain their stories,
+    and agree to live together.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Both the leopard and the ram have sons who play together while the parents
+    hunt.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The leopard is surprised that the ram brings home as much meat from hunting
+    as he does.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The leopard asks his son to learn how the ram kills animals despite lacking
+    claws and sharp teeth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Young Leopard demonstrates a hunting motion with a plantain stem by bowing,
+    standing on his hind legs, aiming, springing, and tearing the stem.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Young Ram demonstrates a hunting motion with a plantain stem by going backward,
+    aiming, running forward, striking with his head, and tearing the stem.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Young Leopard tells his father how the ram hunts and warns him to beware when
+    the ram goes backward.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Rain makes the house floor slippery; when the ram slips backward while coming
+    to dine, the leopard thinks the ram is about to kill him.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The leopard calls his son, leaps over the wall, flees to the woods, and does
+    not return when the ram calls him back.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The tale concludes that leopards have lived in the woods and rams have stayed
+    at home from that time onward.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ram
+  description: A ram who clears land, helps build the shared house, hunts successfully,
+    and remains at home after the leopard flees.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Leopard
+  description: A leopard who unknowingly builds the same house as the ram, lives with
+    him, seeks knowledge of the ram’s hunting method, and flees to the woods after
+    misreading the ram’s backward slip.
+  role_refs:
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Young Ram
+  description: The ram’s son, who plays with Young Leopard and demonstrates his father’s
+    head-first hunting method on a plantain stem.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Young Leopard
+  description: The leopard’s son, who asks Young Ram about his father’s hunting method,
+    demonstrates his own father’s method, and reports the ram’s method to Leopard.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Fairies
+  description: Unseen beings whom Ram and Leopard believe are helping with the building
+    work done in their absence.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: house-builder
+  assigned_to:
+  - fig:1
+  basis: The ram decides to clear land and build a house, then works on the shared
+    building site.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: house-builder
+  assigned_to:
+  - fig:2
+  basis: The leopard also decides to build a house and continues work begun by the
+    ram without knowing it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: co-resident
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: After meeting, the ram and leopard agree to live together in the completed
+    house.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: child informant and imitator
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The young animals exchange demonstrations of their fathers’ hunting methods,
+    and Young Leopard reports the information to his father.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: misread companion
+  assigned_to:
+  - fig:1
+  basis: The ram slips backward on the wet floor and is mistaken by Leopard for an
+    attacker.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: fearful interpreter
+  assigned_to:
+  - fig:2
+  basis: The leopard interprets the ram’s backward slip as preparation for attack
+    and flees.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: imagined helpers
+  assigned_to:
+  - fig:5
+  basis: The ram and leopard conclude that fairies have been helping with the work,
+    though the passage presents their help as the animals’ mistaken conclusion.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: shared house
+  literal_form: house built by Ram and Leopard on the same clearing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: woods
+  literal_form: woods where the house site is chosen and where Leopard finally flees
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: plantain stems
+  literal_form: two large pieces of plantain stem used by the young animals to demonstrate
+    hunting methods
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: backward movement
+  literal_form: the ram’s movement backward before a forward charge, later repeated
+    accidentally by slipping
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: rain-wet floor
+  literal_form: rain that makes the house floor slippery
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: wall of the house
+  literal_form: wall over which Leopard springs while fleeing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Unknowing joint construction
+  summary: Ram and Leopard independently choose the same site, alternately work on
+    the building, and each assumes unseen fairies are helping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Agreement to share the house
+  summary: When the completed house is ready for occupation, Ram and Leopard meet,
+    explain what happened, and decide to live together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Exchange of hunting demonstrations
+  summary: At Leopard’s request, Young Leopard asks Young Ram about Ram’s hunting
+    method; the two young animals demonstrate their fathers’ techniques on plantain
+    stems.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Leopard learns and watches
+  summary: Young Leopard reports the ram’s method to his father and warns him that
+    the ram’s backward movement is significant, leading Leopard to watch Ram closely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Flight after misinterpretation
+  summary: After rain makes the floor slippery, Ram slips backward; Leopard interprets
+    this as an attack signal, leaps over the wall, and flees to the woods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Etiological ending
+  summary: 'The tale explains the continuing separation of leopard and ram habitats:
+    leopards live in the woods and rams remain at home.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: unwitting co-builders of a shared dwelling
+  taxonomy_refs: []
+  basis: Two animals independently choose the same site and, without meeting, alternately
+    complete a house each believes is being helped by fairies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no wider comparative reference for this motif.
+- id: motif:2
+  label: children reveal parental hunting secrets through imitation
+  taxonomy_refs: []
+  basis: Leopard uses his son to learn Ram’s method, and the young animals act out
+    their fathers’ techniques with plantain stems.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif label is descriptive and not tied to a supplied taxonomy ID.
+- id: motif:3
+  label: misread gesture causes fearful flight
+  taxonomy_refs: []
+  basis: Leopard has learned that Ram goes backward before charging; when Ram slips
+    backward on a wet floor, Leopard misreads the motion and flees.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a confirmed cross-cultural
+    motif classification.
+- id: motif:4
+  label: origin of animal habitats
+  taxonomy_refs: []
+  basis: The ending explicitly explains why leopards live in the woods while rams
+    remain at home.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No matching supplied motif-family taxonomy ref directly names etiological
+    animal habitat origins.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2309-2313
+  quote_or_summary: Ram decides to clear land in the woods and build a house; Leopard,
+    living nearby, decides to do the same.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2314-2324
+  quote_or_summary: Ram and Leopard unknowingly choose the same site, work there on
+    alternate days, notice progress made in their absence, and each concludes fairies
+    have helped.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2325-2330
+  quote_or_summary: The house is completed; Ram and Leopard meet in astonishment,
+    tell their stories, and decide to live together after friendly discussion.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2331-2336
+  quote_or_summary: Both animals have sons who play together while the parents hunt;
+    Leopard is surprised that Ram brings home as much meat as he does.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2337-2344
+  quote_or_summary: Leopard asks his son to learn how Ram kills animals without claws
+    or sharp teeth; Young Ram agrees to tell only if Young Leopard demonstrates his
+    father’s way too; they take two plantain stems into the woods.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2345-2350
+  quote_or_summary: Young Leopard demonstrates his father’s method by positioning
+    a plantain stem, moving right and left, bowing, standing on his hind legs, aiming,
+    springing, and tearing the stem.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2351-2355
+  quote_or_summary: Young Ram demonstrates his father’s method by going backward,
+    aiming, running forward, striking the stem with his head, and tearing it apart.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 2356-2360
+  quote_or_summary: Young Leopard reports the hunting information to Leopard and warns
+    him to be careful whenever Ram goes backward; Leopard watches Ram closely afterward.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 2361-2367
+  quote_or_summary: Rain makes the house floor slippery; when Ram slips backward while
+    coming to dine, Leopard thinks Ram is about to kill him, calls his son, leaps
+    over the wall, and flees to the woods despite Ram calling him back.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: quote
+  locator: line 2368
+  quote_or_summary: "“From that time leopards have made their abode in the woods while
+    rams have remained at home.”"
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif labels are descriptive
+    because the supplied taxonomy does not include a direct etiological animal-habitat
+    category. No comparison claims were made because the passage itself supplies no
+    comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided XXVII. THE LEOPARD AND THE RAM passage text was used, despite the broader locator label naming adjacent tales.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l2309-l2368
+  passage_sha256=47e47bb0bdce12f4e79f7ebd3e06cd6a3dcfdeacf9badec8ff40aee1213da1a1
+

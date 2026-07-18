@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l2090-l2126
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: 'FOOTNOTES: / DICCIONARIO DE MOTUL, MS., 1590. / THE CHRONICLES. / THE CHRONICLES.;
+    lines 2090-2126'
+  start: '2090'
+  end: '2126'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a thirteen-katun cycle or doubling that ends at the
+    tenth Ahau Katun, is marked on a katun circle or wheel, and then begins again.
+    The commentator explains the counting of these repetitions, names the circle or
+    wheel terms, notes the lack of verified original examples, and introduces a chronological
+    table arranged by Great Cycles and Katuns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At the last of the tenth Ahau Katun, one doubling of the katun is said to
+    end, and a second return of thirteen katuns is written on the face of the katun
+    circle.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The doubling of the katuns is described as finishing its course and beginning
+    again, with another katun commencing.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A parallel formulation describes the joining together of thirteen katuns as
+    written on the face of the katun circle, after which another katun begins and
+    ends as the eighth katun.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentator states that the repetitions of the great cycle of thirteen
+    katuns were counted from the tenth katun rather than from either terminal of the
+    cycle.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The repetitions are called a doubling or folding over of the katuns and are
+    associated with terms translated as circle, wheel, or return of the katuns.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentator reports having several copies of katun wheels, including one
+    in Landa's work, but says he knows of no genuine original and has not found the
+    referenced signs adjacent to the tenth katun.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentator says he has prepared a chronological table of events from
+    the Chronicles, arranging them under Great Cycles and Katuns and inserting katuns
+    omitted by native chroniclers.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: commentator
+  description: The first-person speaker who interprets the calendrical passage, reports
+    copies of katun wheels, and prepares the chronological table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: writer
+  description: The writer whose meaning the commentator attempts to interpret regarding
+    the repetitions of the thirteen-katun cycle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: native chroniclers
+  description: The chroniclers said by the commentator to have omitted some katuns
+    from their records.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Landa
+  description: A named author whose work is said to include one copy of a katun wheel.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: commentarial interpreter and arranger
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker interprets the writer's meaning, discusses copies
+    of the wheels, and draws up a chronological table.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: source writer
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the writer's meaning about repetitions of the great
+    cycle.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: chronicle recorders with omissions
+  assigned_to:
+  - fig:3
+  basis: The commentator says the native chroniclers omitted katuns that he inserted
+    to complete the records according to calendar theory.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: source of a copied katun wheel
+  assigned_to:
+  - fig:4
+  basis: The passage says one copy of a katun wheel is given in Landa's work.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: katun circle or wheel
+  literal_form: The face of the katun circle; also named as the circle of the katuns,
+    wheel of the katuns, or return of the katuns.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: thirteen-katun cycle
+  literal_form: A joining together, great cycle, or return of thirteen katuns.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: doubling or folding of katuns
+  literal_form: A calendrical repetition called the doubling or foldings over of the
+    katuns.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: completion and recommencement of the katun cycle
+  summary: The tenth Ahau Katun marks the completion of a doubling or joining of thirteen
+    katuns; the cycle is written on a katun circle and begins again.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: commentarial explanation of the katun wheel
+  summary: The commentator explains that repetitions of the thirteen-katun cycle were
+    counted from the tenth katun and inscribed on the katun circle or wheel, while
+    noting uncertainty about surviving copies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: construction of a chronological table
+  summary: The commentator arranges Chronicle events under Great Cycles and Katuns
+    and inserts omitted katuns to make the records conform to the stated Maya calendar
+    sequence.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cyclical return of calendrical periods
+  taxonomy_refs:
+  - return
+  basis: The passage repeatedly describes thirteen katuns returning, a katun doubling
+    finishing its course and beginning again, and the wheel being called the return
+    of the katuns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is calendrical commentary rather than a mythic narrative;
+    the taxonomy reference to return is literal and structural, not necessarily a
+    hero-return motif.
+- id: motif:2
+  label: time represented as a wheel or circle
+  taxonomy_refs: []
+  basis: The passage refers to the face of the katun circle, the wheel of the katuns,
+    and the placement of cycle repetitions on that circular representation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy symbol directly covers circle or wheel; this is recorded
+    as a candidate pattern without taxonomy assignment.
+- id: motif:3
+  label: completion followed by renewal
+  taxonomy_refs: []
+  basis: The katun doubling is described as finishing its course and then beginning
+    again, with the next katun commencing after the cycle's completion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The renewal is calendrical and procedural; the passage does not describe
+    biological rebirth, resurrection, or a narrative death-rebirth episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2090-2096
+  quote_or_summary: At the end of the tenth Ahau Katun, one doubling of the katun
+    ends; a second return of thirteen katuns is written on the katun circle, and the
+    doubling finishes its course to begin again.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; extracted from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2098-2104
+  quote_or_summary: A second formulation says the joining together of thirteen katuns
+    is written on the katun circle; after the doubling finishes, another katun begins
+    and ends as the eighth katun, repeating as before.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; extracted from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2106-2115
+  quote_or_summary: The commentator interprets the repetitions of the thirteen-katun
+    cycle as counted from the tenth katun and calls them uuc katun, the doubling or
+    foldings over of the katuns, inscribed on the circle or wheel of the katuns.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; extracted from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2115-2119
+  quote_or_summary: The commentator says he has several copies of katun wheels, one
+    in Landa's work, but knows of no genuine original and has not found the signs
+    referred to near the tenth katun.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; extracted from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2121-2126
+  quote_or_summary: The commentator introduces a chronological table of Chronicle
+    events arranged under Great Cycles and Katuns, including katuns omitted by native
+    chroniclers but needed to complete the records according to the theory of the
+    Maya calendar.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; extracted from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The calendrical objects and sequences are explicit. Motif candidates are
+    limited because the passage is explanatory calendar commentary rather than narrative
+    mythology. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures from mythic narrative are present; listed figures are textual or scholarly actors mentioned in the passage. No available symbol taxonomy reference directly matches the katun circle or wheel.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l2090-l2126
+  passage_sha256=bc5f01e48f99c3d56185d4f48a3f59f3f41f67cf46c5d4ed2b92d09bf77777b2
+

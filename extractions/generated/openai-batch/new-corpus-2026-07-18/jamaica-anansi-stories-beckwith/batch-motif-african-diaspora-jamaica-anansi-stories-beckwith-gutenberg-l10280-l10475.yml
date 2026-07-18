@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l10280-l10475
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: XVII. / PHILOSOPHY. / XVIII. / RIDDLES.; lines 10280-10475
+  start: '10280'
+  end: '10475'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A public-domain English passage from Jamaica Anansi Stories listing riddles
+    200-225 with answer glosses. The riddles include a snake-and-coconut incident,
+    hidden-name wordplay, counting and arithmetic traps, relationship puzzles, a horse-sale
+    puzzle, a river-crossing capacity puzzle, and a sheep-counting word puzzle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of numbered riddles 200-225, most followed by explanatory
+    answers or solution glosses.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One riddle describes a man sleeping under a tree, a snake coming to kill him,
+    a coconut falling and killing the snake, and another man eating the coconut and
+    leaving the sleeper.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several riddles ask for a name that has already appeared, been repeated, or
+    been embedded in the riddle wording; answers include Anne, Andrew, and Ben.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Some riddles make ordinary words function as personal names in order to change
+    the expected answer, including More, Honey, and Each.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Several riddles use numerical wording, counting traps, or arithmetic constraints
+    involving people, pears, ducks, apples, letters, pigeons, laborers, or sheep.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The river-crossing riddle gives weight limits for a dray and a family, then
+    solves the crossing by a sequence of shuttle trips.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The horse-sale riddle satisfies a money condition by selling the horse's shoes
+    separately from the horse.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage explicitly notes a variant of the crossing story involving a fox,
+    a goose, and a bag of corn.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: sleeping man
+  description: A man sleeping under a tree in riddle 200.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: snake
+  description: A snake that comes to kill the sleeping man in riddle 200.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: second man
+  description: Another man who comes after the coconut falls, eats it, and leaves
+    the first man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: coolie-man in the crossing riddle
+  description: A poor man in riddle 224 who makes a dray for conveying his family
+    across an overflowed path; he is said to weigh 150 pounds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: wife in the crossing riddle
+  description: The wife of the man in riddle 224; she is said to weigh 150 pounds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: two sons in the crossing riddle
+  description: Two sons in riddle 224 whose combined weight is said to be 150 pounds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: threatened sleeper
+  assigned_to:
+  - fig:1
+  basis: The man is asleep under the tree when the snake comes to kill him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: attacking animal
+  assigned_to:
+  - fig:2
+  basis: The snake is described as coming to kill the sleeping man.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: coconut eater and leaver
+  assigned_to:
+  - fig:3
+  basis: The second man eats the fallen coconut and leaves the first man.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: capacity-constrained travelers
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The man, wife, and sons must cross using a dray that cannot carry more than
+    150 pounds at a time.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree under which the man sleeps
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: serpent
+  literal_form: snake that comes to kill the sleeping man
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: falling coconut
+  literal_form: coconut that falls, kills the snake, and is later eaten
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: overflowed water crossing
+  literal_form: Cabrietta overflowing a path that the family must cross
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: dray
+  literal_form: dray used to convey the family across the overflowed path, limited
+    to 150 pounds at a time
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: horse and horseshoes
+  literal_form: horse sold for ten pounds, with shoes removed and sold separately
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: numbers and counted sets
+  literal_form: 4000 people, twelve pears, seven wives with sacks and kits, ducks,
+    three apples, one hundred pigeons, twelve laborers, and six sheep
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: sleeping man, snake, and falling coconut
+  summary: A sleeping man lies under a tree; a snake comes to kill him; a coconut
+    falls and kills the snake; a second man eats the coconut and leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: hidden-name riddles
+  summary: A group of riddles asks the hearer to recover names already present in
+    the wording or repeated in the riddle frame.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: counting and arithmetic riddles
+  summary: A group of riddles uses numbers, counting, and identity conditions to produce
+    unexpected answers.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: capacity-limited river crossing
+  summary: A family must cross an overflowed path using a dray that can carry only
+    150 pounds, requiring a specific sequence of trips.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: horse sale with separated parts
+  summary: A horse is sold under a condition that the seller must keep the same amount
+    of money after breakfast; the solution separates the value of the horseshoes from
+    the horse.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: riddle-solving as wisdom exercise
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is a sequence of riddles with answer glosses requiring interpretation,
+    guessing, or calculation.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents oral riddles rather than a mythic narrative; the
+    taxonomy link is to the general wisdom function of riddling.
+- id: motif:2
+  label: hidden name in the wording
+  taxonomy_refs:
+  - wisdom
+  basis: Several riddles ask for names already embedded, repeated, or implied in their
+    wording, such as Anne, Andrew, and Ben.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a verbal riddle pattern; no broader mythological figure is supplied
+    in the passage.
+- id: motif:3
+  label: word as name trick
+  taxonomy_refs:
+  - wisdom
+  basis: Riddles use words such as More, Honey, and Each as names, altering how the
+    listener should parse the question.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a linguistic puzzle motif, not evidence for a named trickster
+    character.
+- id: motif:4
+  label: counting and arithmetic trap
+  taxonomy_refs:
+  - wisdom
+  basis: Multiple riddles depend on unexpected counting, numerical interpretation,
+    or arithmetic constraints.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The examples are grouped by puzzle function; the passage does not claim
+    a single narrative source for them.
+- id: motif:5
+  label: capacity-limited crossing puzzle
+  taxonomy_refs:
+  - wisdom
+  basis: Riddle 224 asks how a family can cross when the conveyance has a strict weight
+    limit and gives a stepwise solution.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage frames this as a riddle or logic problem, not as a sacred
+    journey or mythic crossing.
+- id: motif:6
+  label: unexpected rescue from snake by falling fruit
+  taxonomy_refs: []
+  basis: Riddle 200 has a snake approaching a sleeper to kill him, but the snake is
+    killed by a falling coconut.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The incident appears inside a riddle with a gloss; no wider narrative
+    development or religious meaning is stated.
+- id: motif:7
+  label: parts separated from whole to satisfy an obligation
+  taxonomy_refs:
+  - wisdom
+  basis: The horse-sale riddle is solved by removing and selling the horseshoes separately
+    while still returning the required ten pounds.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The motif is identified at the level of puzzle logic only.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies the family crossing riddle as having a variant
+    with a fox, a goose, and a bag of corn, so the two are cautiously comparable as
+    the same capacity-constrained crossing riddle pattern.
+  claim_level: same_motif
+  target: fox, goose, and bag of corn crossing-riddle variant noted after riddle 224
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the variant note in this passage; it does not
+    establish historical origin, transmission route, or relationship to any external
+    corpus.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10280-10475; riddles 200-225
+  quote_or_summary: The passage lists numbered riddles 200-225 with answer explanations
+    or solution glosses.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: 10280-10284; riddle 200
+  quote_or_summary: "“Man sleeping under a tree; snake comes to kill man; cocoanut
+    falls and kills snake; another man comes, eats the cocoanut, leaves the first
+    man.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: riddles 205-207
+  quote_or_summary: Riddles ask for names that have already appeared or been sounded
+    in the wording; the supplied answers include Anne, Andrew, and Ben.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: riddles 212-214
+  quote_or_summary: 'Riddles turn on names that also look like ordinary words: More
+    is a man''s name, Honey is a horse''s name, and Each is a man''s name.'
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: riddles 210, 214-222, 225
+  quote_or_summary: Several riddles ask numerical or counting questions involving
+    4000 people, pears, apples, ducks, letters, pigeons, laborers, and six sheep.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: riddle 224 and variant note
+  quote_or_summary: A family must cross an overflowed path using a dray that can carry
+    only 150 pounds at a time; the solution uses shuttle trips, and a note says the
+    same story occurs with a fox, goose, and bag of corn.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: riddle 223
+  quote_or_summary: A horse must be sold for ten pounds while breakfast is paid for
+    from the money and the same ten pounds brought home; the answer is to remove and
+    sell the horse's shoes separately.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage provides riddle
+    answers. Motif candidates are framed as riddle-pattern functions, not as claims
+    about mythic narratives. The comparison claim is limited to the passage's own
+    variant note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are derived only from the supplied passage and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l10280-l10475
+  passage_sha256=c9f826c2c003eb8dd09141d8112b29c5f5c2375f1b89ded28052b5e0ab1df514
+

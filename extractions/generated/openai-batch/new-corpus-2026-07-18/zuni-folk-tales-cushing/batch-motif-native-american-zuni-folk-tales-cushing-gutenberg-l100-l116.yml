@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l100-l116
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: HOW THE SUMMER BIRDS CAME                                         65 / THE
+    SERPENT OF THE SEA                                            93 / THE MAIDEN
+    OF THE YELLOW ROCKS                                   104 / THE FOSTER-CHILD OF
+    THE DEER                                     132; lines 100-116
+  start: '100'
+  end: '116'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment lists eight tale titles with page numbers,
+    including titles about a youth and eagle, a turkey girl, summer birds, a sea serpent,
+    a maiden of yellow rocks, a foster-child of deer, a boy hunter who did not sacrifice
+    to a slain deer, and ÁHAIYÚTA and MÁTSAILÉMA stealing a thunder-stone and lightning-shaft.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a list of tale titles with page numbers rather than a narrative
+    episode.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:2
+  text: One title links a youth with his eagle.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One title identifies a poor turkey girl.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One title states that summer birds came.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One title names a serpent of the sea.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One title links a maiden with yellow rocks.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One title names a foster-child of the deer.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: One title describes a boy hunter who never sacrificed to a deer he had slain
+    and connects this with the origin of a society of rattlesnakes.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: One title states that ÁHAIYÚTA and MÁTSAILÉMA stole the thunder-stone and
+    the lightning-shaft.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Youth
+  description: Title figure linked with “his Eagle.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: His Eagle
+  description: Eagle linked by the possessive phrase “his Eagle” to the youth in the
+    title.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Poor Turkey Girl
+  description: Girl described by the title as poor and as a turkey girl.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Summer Birds
+  description: Bird group whose coming is named in a title.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Serpent of the Sea
+  description: Serpent identified with the sea in a title.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Maiden of the Yellow Rocks
+  description: Maiden associated with yellow rocks in a title.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Foster-Child of the Deer
+  description: Foster-child associated with deer in a title.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Deer in foster-child title
+  description: Deer associated with the foster-child in a title.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Boy Hunter
+  description: Hunter described as never sacrificing to the deer he had slain.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Slain Deer
+  description: Deer slain by the boy hunter and not sacrificed to by him, according
+    to the title.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Society of Rattlesnakes
+  description: Group named in the title as a society of rattlesnakes.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:12
+  name_or_label: ÁHAIYÚTA
+  description: Named actor in the title about stealing the thunder-stone and lightning-shaft.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:13
+  name_or_label: MÁTSAILÉMA
+  description: Named actor in the title about stealing the thunder-stone and lightning-shaft.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: title-listed figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  basis: Each assigned figure or group appears in one of the listed tale titles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: paired youth-and-eagle figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The title “THE YOUTH AND HIS EAGLE” links the two figures.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named theft actor
+  assigned_to:
+  - fig:12
+  - fig:13
+  basis: The title says ÁHAIYÚTA and MÁTSAILÉMA stole the thunder-stone and lightning-shaft.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: hunter who does not sacrifice
+  assigned_to:
+  - fig:9
+  basis: The title describes the boy hunter as one who never sacrificed to the deer
+    he had slain.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: slain animal lacking sacrifice
+  assigned_to:
+  - fig:10
+  basis: The title refers to the deer the boy hunter had slain and to whom he never
+    sacrificed.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: foster-child relationship participant
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The title names a foster-child of the deer.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: origin group named in title
+  assigned_to:
+  - fig:11
+  basis: The title names the origin of the society of rattlesnakes.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: eagle
+  literal_form: eagle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: summer birds
+  literal_form: summer birds
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sea serpent
+  literal_form: serpent of the sea
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: yellow rocks
+  literal_form: yellow rocks
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: deer
+  literal_form: deer
+  associated_figures:
+  - fig:8
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: rattlesnakes
+  literal_form: society of rattlesnakes
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: thunder-stone
+  literal_form: thunder-stone
+  associated_figures:
+  - fig:12
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: lightning-shaft
+  literal_form: lightning-shaft
+  associated_figures:
+  - fig:12
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: serpent and snake title figures
+  taxonomy_refs:
+  - serpent
+  basis: The passage includes titles naming “THE SERPENT OF THE SEA” and the “SOCIETY
+    OF RATTLESNAKES.”
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage gives only table-of-contents titles, so no narrative function
+    for the serpent or rattlesnakes is available here.
+- id: motif:2
+  label: theft of thunder and lightning objects
+  taxonomy_refs:
+  - sacred_theft
+  basis: A title states that ÁHAIYÚTA and MÁTSAILÉMA stole the thunder-stone and the
+    lightning-shaft.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: Theft is explicit, but the passage does not provide the narrative context
+    or explicitly state sacred status for the objects.
+- id: motif:3
+  label: withheld sacrifice to a slain animal
+  taxonomy_refs:
+  - sacrifice
+  basis: A title describes a boy hunter who never sacrificed to the deer he had slain.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The title states the sacrifice motif, but no outcome or ritual details
+    are included in this passage.
+- id: motif:4
+  label: seasonal bird arrival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The title “HOW THE SUMMER BIRDS CAME” links birds with summer and arrival.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The seasonal association is title-level only; the passage does not include
+    the story’s events.
+- id: motif:5
+  label: animal foster-child association
+  taxonomy_refs: []
+  basis: The title “THE FOSTER-CHILD OF THE DEER” indicates a foster-child relationship
+    involving deer.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: Only the title is present, so the nature of the foster relationship is
+    unknown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 100
+  quote_or_summary: "“THE YOUTH AND HIS EAGLE                                           34”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: line 102
+  quote_or_summary: "“THE POOR TURKEY GIRL                                              54”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: line 104
+  quote_or_summary: "“HOW THE SUMMER BIRDS CAME                                         65”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: line 106
+  quote_or_summary: "“THE SERPENT OF THE SEA                                            93”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: line 108
+  quote_or_summary: "“THE MAIDEN OF THE YELLOW ROCKS                                   104”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: line 110
+  quote_or_summary: "“THE FOSTER-CHILD OF THE DEER                                     132”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: quote
+  locator: lines 112-113
+  quote_or_summary: "“THE BOY HUNTER WHO NEVER SACRIFICED TO THE DEER HE HAD SLAIN:
+    OR THE ORIGIN OF THE SOCIETY OF RATTLESNAKES”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:8
+  type: quote
+  locator: lines 115-116
+  quote_or_summary: "“HOW ÁHAIYÚTA AND MÁTSAILÉMA STOLE THE THUNDER-STONE AND THE
+    LIGHTNING-SHAFT”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is a table of contents.
+    Motif candidates are limited to title-level evidence; no comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage appears to be a table of contents rather than a narrative passage. Motifs and symbols are therefore candidate labels derived only from listed titles.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l100-l116
+  passage_sha256=2630a0dae66f29231547d7551df1e4350102c56de8b6f9fce3fc8af9994fbab5
+

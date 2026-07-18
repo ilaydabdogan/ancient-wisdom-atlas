@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.australian-euahlayi-tribe-parker-gutenberg-l4674-l4687
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+passage_locator:
+  label: CHAPTER XI / SOMETHING ABOUT STARS AND LEGENDS / CHAPTER XII / THE TRAPPING
+    OF GAME; lines 4674-4687
+  start: '4674'
+  end: '4687'
+  translation: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that iguanas remain in soft sand ridges during winter
+    and come out after butcher birds, described as their sub-totems, sing loudly and
+    call on thunder to help warn them that winter has ended. It then describes customary
+    restrictions in which old men refuse certain foods prepared by women, though women
+    may cook items prepared by men unless they have young children or are pregnant,
+    in which case they are described as unclean.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Iguanas burrow into soft sand ridges and remain there during winter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Curreequinquins, identified as butcher birds and as one of the iguanas' sub-totems,
+    sing loudly to warn the iguanas that winter is gone.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The butcher birds call Dooloomai, the thunder, to their aid so that their
+    singing will be heard by their relations.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After the storms, the iguanas come out again in as good condition as when
+    they disappeared.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage says old men, under ancient custom, will not eat bread made by
+    gins.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says old men will not eat iguana, fish, piggiebillah, or similar
+    foods if the inside has been removed by a woman.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: After men prepare such foods, they allow gins to cook them, except if the
+    women have young children or are pregnant.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Women with young children or who are pregnant are described in the passage
+    as unclean under those conditions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Iguanas
+  description: Animals that burrow through winter and emerge after the storms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Curreequinquins / butcher birds
+  description: Birds identified as one of the iguanas' sub-totems; they sing loudly
+    to warn the iguanas that winter has gone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Dooloomai / thunder
+  description: Thunder called on by the butcher birds to help their warning be heard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Old men / black men
+  description: Men described as following ancient custom in refusing foods prepared
+    in certain ways by women.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Gins / women
+  description: Women whose bread or food preparation is restricted by the custom described;
+    they may cook items prepared by men, with exceptions for women with young children
+    or who are pregnant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: winter-hidden animals
+  assigned_to:
+  - fig:1
+  basis: The iguanas remain in sand ridges during winter and emerge after storms.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warning sub-totem birds
+  assigned_to:
+  - fig:2
+  basis: The butcher birds are named as sub-totems and sing to warn the iguanas that
+    winter has ended.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: summoned thunder aid
+  assigned_to:
+  - fig:3
+  basis: The butcher birds call Dooloomai, the thunder, to aid their warning.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: customary food-restriction observers
+  assigned_to:
+  - fig:4
+  basis: The old men are described as refusing bread and certain prepared foods under
+    ancient custom.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: restricted food preparers or cooks
+  assigned_to:
+  - fig:5
+  basis: Women are barred from some preparation acts but may cook foods prepared first
+    by men, except under specified conditions.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: soft sand ridges
+  literal_form: soft sand ridges used by iguanas as winter burrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: warning birdsong
+  literal_form: loud singing of the Curreequinquins / butcher birds
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: thunder and storms
+  literal_form: Dooloomai, the thunder, and the storms after which iguanas emerge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: restricted foods
+  literal_form: bread, iguana, fish, piggiebillah, and similar foods subject to preparation
+    restrictions
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Winter concealment and storm emergence
+  summary: Iguanas remain in sand ridges during winter; butcher birds, described as
+    their sub-totems, sing to warn them winter has ended and call on thunder to help,
+    after which the iguanas emerge following storms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Customary restrictions on food preparation
+  summary: Old men refuse bread made by women and certain foods if women remove the
+    inside; women may cook items after men have prepared them, except when they have
+    young children or are pregnant.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Seasonal withdrawal and return of animals
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The iguanas disappear into winter burrows and return after signs that winter
+    has ended, including birdsong, thunder, and storms.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents an animal seasonal pattern with totemic relations;
+    it does not frame it as a full narrative episode here.
+- id: motif:2
+  label: Animal kinship signaled by sub-totem warning
+  taxonomy_refs: []
+  basis: The butcher birds are identified as one of the iguanas' sub-totems and act
+    to warn their relations.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No external totemic taxonomy is supplied; the motif label remains descriptive.
+- id: motif:3
+  label: Gendered food preparation taboo
+  taxonomy_refs: []
+  basis: The passage describes restrictions on eating food prepared by women and exceptions
+    for cooking after male preparation, with additional restrictions related to young
+    children or pregnancy.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic custom in the passage rather than a mythic narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4674-4680
+  quote_or_summary: Iguanas stay in soft sand ridges during winter; butcher birds,
+    identified as their sub-totems, sing to warn them winter has ended, call Dooloomai
+    the thunder to help, and the iguanas emerge after storms in good condition.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 4681-4687
+  quote_or_summary: Old men under ancient custom refuse bread made by women and refuse
+    certain foods if women remove the inside; after men prepare the foods, women may
+    cook them except when they have young children or are pregnant, conditions described
+    as unclean.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and limited
+    to the supplied taxonomy where directly supported; no comparison claims are made
+    because the passage itself does not compare traditions or motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-euahlayi-tribe-parker-gutenberg__l4674-l4687
+  passage_sha256=c36e4e4fc54fe70b00d00ea7ab117d89ebdfee27cd7809674fb78faf79480e98
+

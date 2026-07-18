@@ -1,0 +1,559 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1633-l1692
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1633-1692
+  start: '1633'
+  end: '1692'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Pope's preface argues that perceived defects in Homer reflect ancient manners
+    and beliefs. The passage contrasts violent heroic-era customs with simple royal
+    employments, explains repeated Homeric epithets as religious or identifying attributes,
+    and invokes Hesiod's fourth age of heroes, demi-gods, and the islands of the blessed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author says Homer’s grosser representations of gods and imperfect manners
+    of heroes may seem defective, but attributes those features to the nature of the
+    times in which Homer lived.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes those ages as marked by revenge, cruelty, rapine, robbery,
+    mercy shown for lucre, princes put to the sword, and wives and daughters made
+    slaves and concubines.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Homeric heroes are sometimes seen in servile offices and
+    mean employments.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Examples of ancient simplicity include monarchs without guards, princes tending
+    flocks, and princesses drawing water from springs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Homer is described as the most ancient author in the heathen world, giving
+    readers a vision or mirror of an ancient world now gone.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage lists repeated epithets such as far-darting Phoebus, blue-eyed
+    Pallas, and swift-footed Achilles.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Divine epithets are explained as tied to the gods’ believed powers and offices,
+    and to rites and solemn devotions in which they were used.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Epithets of great men are explained as surname-like distinctive additions
+    based on parents, birthplace, profession, or similar markers.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage states that Hesiod places a fourth age between the brazen and
+    iron ages, containing heroes distinct from other men, a divine race called demi-gods
+    who fought at Thebes and Troy and live in the islands of the blessed under Jupiter’s
+    care.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The author conjectures that heroes who received divine honors may, like gods,
+    have been mentioned with solemn epithets celebrating their families, actions,
+    or qualities.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: The ancient author whose representations of gods, heroes, manners,
+    and epithets are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Homeric gods
+  description: Gods represented by Homer and addressed with repeated epithets tied
+    to their powers, offices, and rites.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Homeric heroes and great men
+  description: Heroes whose manners, employments, repeated epithets, and possible
+    divine honors are discussed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Phoebus
+  description: Named with the epithet far-darting.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Pallas
+  description: Named with the epithet blue-eyed.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Achilles
+  description: Named with the epithet swift-footed.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Ancient royal figures
+  description: Monarchs, princes, princesses, wives, and daughters used as examples
+    in the discussion of ancient violence and simplicity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: Jupiter
+  description: Named as caring for the demi-gods who live in the islands of the blessed.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Hesiod
+  description: Cited as dividing the world into ages and placing a fourth age of heroes
+    between the brazen and iron ages.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Mons. Boileau
+  description: Cited for the opinion that epithets of great men were like surnames.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Madame Dacier
+  description: Cited as holding that ancient times and manners were more excellent
+    because they were more contrary to modern ones.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ancient author under discussion
+  assigned_to:
+  - fig:1
+  basis: Homer is described as the most ancient author in the heathen world and as
+    the author whose gods, heroes, and epithets are being evaluated.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: deity or divine group
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:8
+  basis: The passage discusses gods, names Phoebus and Pallas with divine epithets,
+    and names Jupiter as caring for the demi-gods.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:3
+  label: hero, great man, or demi-god
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The passage discusses Homeric heroes, great men with epithets, Achilles as
+    an example, and Hesiodic heroes called demi-gods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: royal figures in ancient manners
+  assigned_to:
+  - fig:7
+  basis: The passage refers to princes killed, wives and daughters enslaved, monarchs
+    without guards, princes tending flocks, and princesses drawing water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: source for world-age tradition
+  assigned_to:
+  - fig:9
+  basis: Hesiod is cited as dividing the world into ages and describing the fourth
+    age of heroes.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: commentator cited in the preface
+  assigned_to:
+  - fig:10
+  - fig:11
+  basis: Madame Dacier and Mons. Boileau are cited as authorities or examples in the
+    argument about antiquity and epithets.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:7
+  label: divine caretaker of demi-gods
+  assigned_to:
+  - fig:8
+  basis: Jupiter is said to care for the demi-gods in the islands of the blessed.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: example of fixed epithet
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Phoebus, Pallas, and Achilles are listed with repeated formulaic epithets.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fixed epithet
+  literal_form: Repeated descriptive titles such as far-darting Phoebus, blue-eyed
+    Pallas, and swift-footed Achilles.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: sym:2
+  label: water from springs
+  literal_form: Water drawn by princesses from springs.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: flocks
+  literal_form: Flocks tended by princes.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: islands of the blessed
+  literal_form: The islands of the blessed where demi-gods live by Jupiter’s care.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: fourth age between brazen and iron
+  literal_form: A fourth world age placed between the brazen age and the iron age.
+  associated_figures:
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Ancient violent manners assessed
+  summary: The preface describes ancient manners through revenge, cruelty, robbery,
+    killing of princes, and enslavement or concubinage of women, while criticizing
+    unqualified praise of those times.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Heroic simplicity and humble royal labor
+  summary: The passage contrasts later luxury with ancient simplicity, giving examples
+    of monarchs without guards, princes tending flocks, and princesses drawing water
+    from springs.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Explanation of Homeric epithets
+  summary: The passage explains repeated epithets of gods and heroes as attributes
+    grounded in religious salutation, identifying custom, poetic distinction, and
+    possibly divine honors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: scene:4
+  label: Hesiodic heroic age and blessed islands
+  summary: The passage invokes Hesiod’s fourth age of a divine heroic race that fought
+    at Thebes and Troy, were called demi-gods, and live in the islands of the blessed
+    under Jupiter’s care.
+  figure_refs:
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ritualized or solemn epithet
+  taxonomy_refs: []
+  basis: The passage treats repeated divine epithets as religious attributes used
+    in rites and solemn devotions, and conjectures that honored heroes may also be
+    mentioned with solemn epithets.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: This is a literary-critical explanation of formulaic diction, not a narrated
+    ritual scene.
+- id: motif:2
+  label: heroic age as a divine race of demi-gods
+  taxonomy_refs: []
+  basis: Hesiod’s fourth age is described as containing heroes distinct from other
+    men, a divine race called demi-gods who fought at Thebes and Troy.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The motif is reported through Pope’s prefatory discussion rather than
+    through a primary narrative episode.
+- id: motif:3
+  label: blessed island residence of demi-gods
+  taxonomy_refs: []
+  basis: The passage says demi-gods live by Jupiter’s care in the islands of the blessed.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage names a blessed residence but does not narrate a journey there
+    or specify the circumstances of arrival.
+- id: motif:4
+  label: high-born figures performing humble tasks
+  taxonomy_refs: []
+  basis: The passage presents monarchs without guards, princes tending flocks, and
+    princesses drawing water from springs as examples of ancient simplicity.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The examples are used in commentary on Homeric manners and are not developed
+    as a mythic episode in this passage.
+- id: motif:5
+  label: violent heroic-era warfare and captivity
+  taxonomy_refs: []
+  basis: The passage describes revenge, cruelty, rapine, robbery, slain princes, and
+    wives and daughters enslaved or made concubines.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a general characterization of ancient manners, not a specific
+    narrated mythic event.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats Homeric epithets of great men as performing
+    the same identifying function as surname-like additions, including parentage,
+    birthplace, profession, and modern descriptive names.
+  claim_level: same_function
+  target: Greek and modern surname-like identifiers cited in the passage
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is a literary-critical analogy about naming practice,
+    not evidence for historical contact or shared mythic origin.
+- id: claim:2
+  claim: The passage links Homeric heroes with Hesiod’s fourth-age divine race of
+    demi-gods, suggesting a shared Greek heroic-age pattern involving Thebes, Troy,
+    demi-gods, and divine care.
+  claim_level: same_motif
+  target: Hesiodic fourth age of heroes and demi-gods
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The linkage is made within Pope’s prefatory argument; the passage does
+    not quote Homeric narrative scenes for this claim.
+- id: claim:3
+  claim: The passage compares the possible solemn naming of honored heroes with the
+    religiously required epithets of gods, assigning both a sacred salutation or honorific
+    function.
+  claim_level: same_function
+  target: divine epithets used in rites and solemn devotions
+  evidence_refs:
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The author presents the extension from gods to heroes as conjectural,
+    using 'might,' so the comparison requires review.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1633-1639
+  quote_or_summary: Perceived defects in Homer, including grosser representations
+    of gods and imperfect manners of heroes, are attributed to the nature of his times.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1640-1647
+  quote_or_summary: The passage rejects unqualified praise of antiquity and describes
+    ages of revenge, cruelty, rapine, robbery, mercenary mercy, slain princes, and
+    enslaved wives and daughters.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1648-1653
+  quote_or_summary: 'The passage notes Homeric heroes in servile offices and gives
+    examples of simplicity: monarchs without guards, princes tending flocks, and princesses
+    drawing water from springs.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1653-1662
+  quote_or_summary: Readers are asked to view Homer as the most ancient author in
+    the heathen world and as a mirror or vision of a vanished ancient world nearly
+    three thousand years back.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1664-1667
+  quote_or_summary: Examples of repeated epithets include “the far-darting Phbus,
+    the blue-eyed Pallas, the swift-footed Achilles.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 1668-1672
+  quote_or_summary: Epithets of gods are said to depend on powers and offices believed
+    to belong to them, to gain veneration from rites and devotions, and to function
+    as religious salutes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 1672-1682
+  quote_or_summary: Boileau’s view is cited that epithets of great men were like surnames
+    or distinctive additions; the passage compares these to Greek and modern descriptive
+    names.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 1684-1688
+  quote_or_summary: 'Hesiod is said to place a fourth age between the brazen and iron
+    ages: heroes distinct from other men, a divine race called demi-gods, fought at
+    Thebes and Troy and live in the islands of the blessed by Jupiter’s care.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 1688-1692
+  quote_or_summary: Among divine honors paid to heroes, the author conjectures they
+    may share with gods the practice of being mentioned with solemn epithets celebrating
+    families, actions, or qualities.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is prefatory literary criticism rather than a primary Iliad narrative.
+    Literal extraction is strong; motif candidates and comparison claims should be
+    reviewed because several are based on authorial explanation or conjecture.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy motif family was assigned. The available symbol taxonomy ref 'water' was used only for the literal occurrence of water from springs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1633-l1692
+  passage_sha256=5e36c9a60b3eb262c441475ac14ae9b1214c0b8f719ba1442e004fbc32409d29
+

@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l733-l805
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Chapter 11 / Footnotes / Chapter 12 / Chapter 13; lines 733-805
+  start: '733'
+  end: '805'
+  translation: World English Bible Classic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Yahweh instructs Moses and Aaron about priestly examination of skin conditions
+    called plagues of leprosy. Priests inspect visible signs such as white hair, depth
+    of appearance, spread, fading, raw flesh, scars from boils or burns, and itching
+    on the head or beard. Depending on the signs, the priest isolates the person for
+    seven-day periods or pronounces the person clean or unclean; some clean verdicts
+    require washing clothes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yahweh speaks to Moses and Aaron and gives instructions for cases where a
+    person has swelling, a scab, or a bright spot in the skin that may become a plague
+    of leprosy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person with such a skin condition is to be brought to Aaron the priest or
+    to one of his sons, the priests.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The priest examines the skin condition and pronounces the person unclean if
+    the hair in the affected place has turned white and the appearance is deeper than
+    the skin.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a white bright spot is not deeper than the skin and the hair has not turned
+    white, the priest isolates the infected person for seven days and may isolate
+    him for seven more days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If after isolation the plague has faded and has not spread, the priest pronounces
+    the person clean; the person washes his clothes and is clean.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If a scab spreads after the person has shown himself for cleansing, the priest
+    examines him again and pronounces him unclean.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A white swelling with white hair and raw flesh is described as chronic leprosy,
+    and the person is pronounced unclean without isolation.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: If leprosy covers all the person’s skin and all the flesh has turned white,
+    the priest pronounces him clean; whenever raw flesh appears, he is unclean.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A healed boil that develops a white swelling or reddish-white bright spot
+    is examined; depth, white hair, spreading, or stability determine whether the
+    person is unclean or clean.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A burn from fire that develops a reddish-white or white bright spot is examined;
+    depth, white hair, spreading, fading, and stability determine whether the person
+    is unclean or clean.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A plague on the head or beard is examined; deeper appearance with yellow thin
+    hair leads to an unclean verdict and is called an itch and leprosy of the head
+    or beard.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: When an itch lacks the decisive signs, the person is isolated, shaved except
+    for the itch, isolated for seven more days, and can be pronounced clean if the
+    itch has not spread and is not deeper than the skin.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: If an itch spreads after cleansing, the priest examines the person and may
+    pronounce him unclean without looking for yellow hair.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: The divine speaker who addresses Moses and Aaron with the instructions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: One of the addressed recipients of Yahweh’s speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aaron
+  description: One of the addressed recipients and named priest to whom an affected
+    person may be brought.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Aaron’s sons, the priests
+  description: Priests to whom an affected person may be brought for examination.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Person with a skin condition
+  description: A man or person who has swelling, scab, bright spot, boil, burn, or
+    itch and is examined, isolated, or declared clean or unclean.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Man or woman with plague on head or beard
+  description: A person described as having a plague on the head or beard, examined
+    for itching and hair signs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: divine instructor
+  assigned_to:
+  - fig:1
+  basis: Yahweh speaks the instructions to Moses and Aaron.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed recipient of divine speech
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Moses and Aaron are the named recipients of Yahweh’s speech.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: priestly examiner and declarer of status
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The affected person is brought to Aaron or his sons, and the priest examines
+    and pronounces clean or unclean.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: examined person subject to isolation or purity verdict
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Persons with skin conditions are examined, isolated, shaved in one case,
+    and pronounced clean or unclean.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: white hair and deeper appearance
+  literal_form: Hair in the affected place turned white, with the appearance of the
+    plague deeper than the skin.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: seven-day isolation interval
+  literal_form: Isolation for seven days, sometimes followed by seven more days.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: washing clothes
+  literal_form: The person washes his clothes after being pronounced clean.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: sym:4
+  label: raw flesh
+  literal_form: Raw flesh appearing in a swelling or in a body otherwise affected
+    by leprosy.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: skin wholly turned white
+  literal_form: Leprosy covers all the skin and all the flesh has turned white.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: fire burn
+  literal_form: A burn from fire on the skin that develops a reddish-white or white
+    bright spot.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: yellow thin hair in itch
+  literal_form: Yellow and thin hair in a plague on the head or beard.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:8
+  label: shaving around the itch
+  literal_form: The person is shaved, but the itch itself is not shaved.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Divine instruction and referral to priests
+  summary: Yahweh addresses Moses and Aaron and states that a person with swelling,
+    scab, or bright spot in the skin should be brought to Aaron or to his priestly
+    sons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Initial skin plague examination and isolation
+  summary: The priest examines skin signs. White hair and deeper appearance lead to
+    an unclean verdict; less decisive signs lead to seven-day isolation, possible
+    second isolation, and a clean verdict with washing if the condition fades and
+    does not spread.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Chronic leprosy and whole-body whiteness
+  summary: The priest evaluates white swelling, raw flesh, and cases where the entire
+    skin has turned white. Raw flesh is linked with uncleanness, while complete whiteness
+    without raw flesh can lead to a clean verdict.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Boil and burn examinations
+  summary: Healed boils and fire burns that develop bright spots are examined. The
+    priest uses depth, white hair, spread, fading, and stability to distinguish plague
+    from scar and to pronounce clean or unclean.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Head or beard itch examination
+  summary: A plague on the head or beard is examined for depth and yellow thin hair.
+    If signs are inconclusive, the person is isolated, shaved except for the itch,
+    isolated again, and later pronounced clean or unclean depending on spread and
+    appearance.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Priestly diagnosis of purity status
+  taxonomy_refs: []
+  basis: The passage repeatedly assigns the priest the task of examining visible bodily
+    signs and pronouncing the person clean or unclean.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a ritual-legal pattern in the passage; no broader comparative
+    taxonomy reference is explicitly supplied by the text.
+- id: motif:2
+  label: Temporary isolation followed by re-examination
+  taxonomy_refs: []
+  basis: For uncertain conditions, the person is isolated for seven days and sometimes
+    for seven more days before a clean or unclean verdict.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage presents this as procedure rather than narrative initiation
+    or ordeal.
+- id: motif:3
+  label: Visible bodily signs govern boundary between clean and unclean
+  taxonomy_refs: []
+  basis: Changes in hair color, depth of appearance, spread, fading, raw flesh, and
+    complete whiteness determine the status pronounced by the priest.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The extraction does not infer medical diagnosis beyond the passage’s terms.
+- id: motif:4
+  label: Cleansing by washing clothes after favorable verdict
+  taxonomy_refs: []
+  basis: After being pronounced clean in certain cases, the person washes his clothes
+    and is clean.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: medium
+  cautions: Washing appears as a required action in specific clean-verdict sequences;
+    the passage does not elaborate symbolic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Leviticus 13:1-2
+  quote_or_summary: Yahweh speaks to Moses and Aaron; a man with swelling, scab, or
+    bright spot that becomes a plague of leprosy is brought to Aaron the priest or
+    to one of his priestly sons.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:2
+  type: summary
+  locator: Leviticus 13:3
+  quote_or_summary: The priest examines the plague; if the hair has turned white and
+    the appearance is deeper than the skin, it is called leprosy and the priest pronounces
+    the person unclean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:3
+  type: summary
+  locator: Leviticus 13:4-6
+  quote_or_summary: If the bright spot lacks deeper appearance and white hair, the
+    priest isolates the person seven days, may isolate him seven more days, and pronounces
+    him clean with clothes-washing if the plague fades and does not spread.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:4
+  type: summary
+  locator: Leviticus 13:7-8
+  quote_or_summary: If the scab spreads after the person has shown himself for cleansing,
+    he returns to the priest, who examines him and pronounces him unclean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:5
+  type: summary
+  locator: Leviticus 13:9-11
+  quote_or_summary: A man with a white swelling, white hair, and raw flesh in the
+    swelling is described as having chronic leprosy and is pronounced unclean without
+    isolation.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:6
+  type: summary
+  locator: Leviticus 13:12-17
+  quote_or_summary: If leprosy covers the skin from head to feet and all flesh has
+    turned white, the person is pronounced clean; raw flesh makes him unclean, and
+    turning white again leads to a clean verdict.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:7
+  type: summary
+  locator: Leviticus 13:18-23
+  quote_or_summary: A healed boil with white swelling or reddish-white bright spot
+    is shown to the priest; depth, white hair, spreading, or remaining in place determine
+    unclean or clean verdicts, with stable marks treated as scars.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:8
+  type: summary
+  locator: Leviticus 13:24-28
+  quote_or_summary: A fire burn with reddish-white or white bright spot is examined;
+    white hair and depth or spreading lead to an unclean verdict, while faded and
+    stable swelling is treated as the scar from the burn and pronounced clean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:9
+  type: summary
+  locator: Leviticus 13:29-34
+  quote_or_summary: A man or woman with a plague on the head or beard is examined.
+    Deeper appearance with yellow thin hair is unclean; otherwise the person is isolated,
+    shaved except for the itch, isolated again, and may be pronounced clean with clothes-washing.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:10
+  type: summary
+  locator: Leviticus 13:35-36
+  quote_or_summary: If the itch spreads after cleansing, the priest examines the person
+    and, if it has spread, does not need to look for yellow hair; the person is unclean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is procedural and repetitive.
+    Motif labels are descriptive of ritual patterns and should be reviewed before
+    integration with broader comparative taxonomy. No comparison claims were made
+    because the passage itself does not explicitly compare these procedures with another
+    tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference was assigned only to the literal fire symbol because the passage explicitly mentions a burn from fire and the provided symbol taxonomy includes fire.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l733-l805
+  passage_sha256=fd945f14052ed8ef536ae6fde18d457e43e3c58e0c4bb09c91ecf6feb726583a
+

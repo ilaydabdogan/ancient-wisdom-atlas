@@ -1,0 +1,640 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l1572-l1669
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 1572-1669
+  start: '1572'
+  end: '1669'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A queen warns Benjamin that twelve coffins have been prepared for him and
+    his brothers if she gives birth to a daughter. The brothers flee to the forest,
+    see the red flag announcing a daughter, and swear vengeance against girls. Years
+    later the daughter learns of her brothers, takes their shirts, seeks them in the
+    forest, is recognized by Benjamin, and is reconciled with all twelve brothers
+    after Benjamin secures a promise that the first maiden they meet will not be killed.
+    The siblings then live together in harmony in the forest hut.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The mother unlocks a room and shows Benjamin twelve coffins prepared for him
+    and his eleven brothers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mother says the sons will be killed and buried in the coffins if she gives
+    birth to a little girl.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mother instructs the sons to go into the forest and use a white flag or
+    red flag raised at the castle tower as a signal of the birth outcome.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sons keep watch from the highest oak toward the tower, and Benjamin sees
+    the blood-red flag.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After seeing the red flag, the brothers swear that any girl they find shall
+    have her blood flow.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The brothers find an empty bewitched hut in the dark middle of the forest
+    and live there for ten years.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Benjamin, described as the youngest and weakest, stays at home and keeps house
+    while the others hunt food.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The daughter grows up good-hearted and beautiful, with a golden star on her
+    forehead.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The daughter sees twelve men’s shirts and asks her mother to whom they belong.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The queen shows the daughter the twelve coffins and explains that they had
+    been intended for her brothers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The daughter takes the twelve shirts and goes into the great forest to seek
+    her brothers.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: At the bewitched hut the daughter meets Benjamin, shows him the shirts, and
+    they recognize each other as siblings.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The sister says she would willingly die if doing so could deliver her twelve
+    brothers.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: Benjamin hides the sister beneath a tub until the eleven brothers return.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: Benjamin obtains the brothers’ promise that the first maiden who meets them
+    shall not be killed, then reveals their sister.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:16
+  text: The brothers rejoice, embrace, kiss, and love their sister after she is revealed.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:17
+  text: The sister remains with Benjamin, gathers wood and herbs, prepares meals,
+    orders the little house, and the siblings live in harmony.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Mother / Queen
+  description: Mother of Benjamin, the eleven brothers, and the daughter; she warns
+    the sons, gives signal instructions, prays for them, and later tells the daughter
+    about the brothers and coffins.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Benjamin
+  description: Youngest brother; receives the mother’s warning, sees the red flag,
+    keeps house in the hut, recognizes the sister, hides her, and mediates with the
+    eleven brothers.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Eleven brothers
+  description: Benjamin’s eleven brothers; flee to the forest, hunt for food, join
+    in the oath against girls, and later accept their sister after Benjamin’s mediation.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: King’s daughter / sister
+  description: Daughter of the queen, sister of the twelve brothers; marked by a golden
+    star on her forehead, she seeks her brothers with their shirts and is reconciled
+    with them.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Father
+  description: The father is said to have had twelve coffins made for the sons in
+    case a daughter was born.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: warning and protective mother
+  assigned_to:
+  - fig:1
+  basis: She shows the coffins, explains the danger, instructs the sons how to watch
+    for flags, blesses them, and later reveals the story to the daughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: threatened exiled sons
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The sons are to be killed if a daughter is born and therefore leave for the
+    forest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: youngest housekeeper
+  assigned_to:
+  - fig:2
+  basis: Benjamin is called the youngest and weakest and is assigned to stay at home
+    and keep house.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: sibling mediator
+  assigned_to:
+  - fig:2
+  basis: Benjamin recognizes the sister, hides her from danger, secures a promise
+    not to kill the first maiden, and reveals her to the others.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: hunters under vengeance oath
+  assigned_to:
+  - fig:3
+  basis: The eleven brothers hunt for food and had sworn that girls they find should
+    die, before later promising mercy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:6
+  label: seeking sister
+  assigned_to:
+  - fig:4
+  basis: She takes the twelve shirts and goes into the forest to find her twelve brothers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: reconciler and household helper
+  assigned_to:
+  - fig:4
+  basis: After being accepted by the brothers, she helps Benjamin prepare food and
+    keep order, and the siblings live in harmony.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: maker of fatal decree or preparations
+  assigned_to:
+  - fig:5
+  basis: The mother says the father had twelve coffins made for the sons if a girl
+    were born.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: twelve coffins
+  literal_form: Twelve coffins filled with shavings, later shown with pillows for
+    the head
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: white and red flags
+  literal_form: White flag for a son’s birth; red or blood-red flag for a daughter’s
+    birth and danger to the brothers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: highest oak watchpoint
+  literal_form: Highest oak or highest tree used by the brothers to watch the castle
+    tower
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: forest refuge
+  literal_form: Great forest, with a darker middle where the brothers find the hut
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: bewitched hut
+  literal_form: Little bewitched hut standing empty in the forest
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: twelve shirts
+  literal_form: Twelve men’s shirts belonging to the brothers, taken by the sister
+    when she seeks them
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: golden star on forehead
+  literal_form: Golden star on the daughter’s forehead
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:8
+  label: fire
+  literal_form: Fire mentioned in the mother’s winter prayer and later used for cooking
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:9
+  label: tub hiding place
+  literal_form: Tub beneath which the sister sits until the eleven brothers return
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Coffins revealed and flight plan given
+  summary: The mother shows Benjamin the twelve coffins, explains the threat if a
+    daughter is born, and instructs the sons to go into the forest and watch for flag
+    signals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Red flag and oath of vengeance
+  summary: The brothers watch the tower from the highest oak; Benjamin sees the blood-red
+    flag, and the brothers swear vengeance against girls.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ten-year life in the bewitched forest hut
+  summary: The brothers move deeper into the forest, find an empty bewitched hut,
+    assign Benjamin to keep house, and sustain themselves by hunting for ten years.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Sister learns of the brothers and departs
+  summary: The daughter sees the twelve shirts, learns from the queen about the twelve
+    brothers and the coffins, takes the shirts, and sets out to seek them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Recognition between Benjamin and the sister
+  summary: At the bewitched hut the daughter meets Benjamin, identifies herself as
+    a king’s daughter seeking her twelve brothers, shows the shirts, and is recognized
+    as his sister.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Threat averted and sister revealed
+  summary: Benjamin tells the sister of the brothers’ oath, hides her under a tub,
+    obtains a promise of mercy from the returning brothers, and reveals her to them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Shared household harmony
+  summary: The sister stays with Benjamin, helps prepare food and keep the hut orderly,
+    while the eleven hunt; the siblings live contentedly and harmoniously.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: sons flee because of a fatal birth condition
+  taxonomy_refs:
+  - departure
+  basis: The sons leave for the forest after learning they will be killed if their
+    mother bears a daughter, and the red flag confirms the daughter’s birth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a flight into forest exile, not a complete quest departure
+    structure by itself.
+- id: motif:2
+  label: sibling separation and recognition through tokens
+  taxonomy_refs:
+  - sibling_pair
+  basis: The sister learns of her twelve brothers through their shirts and coffins,
+    takes the shirts into the forest, shows them to Benjamin, and is recognized as
+    his sister.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy label is 'sibling_pair', while this passage concerns
+    a sister and twelve brothers rather than only two siblings.
+- id: motif:3
+  label: red warning signal opposed to white safe signal
+  taxonomy_refs: []
+  basis: The mother establishes white and red flags as signals, and the blood-red
+    flag announces the daughter’s birth and the brothers’ danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this signal pattern.
+- id: motif:4
+  label: vengeance oath against maidens revoked for a sister
+  taxonomy_refs: []
+  basis: The brothers swear that any girl they find shall die; Benjamin later secures
+    a promise that the first maiden shall not be killed and reveals their sister.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage resolves the oath for this encounter, but does not describe
+    any wider legal or ritual consequence.
+- id: motif:5
+  label: willing self-sacrifice to deliver siblings
+  taxonomy_refs:
+  - sacrifice
+  basis: The sister says she will willingly die if that can deliver her twelve brothers.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The offered death is not carried out; the motif is present as stated willingness
+    rather than enacted sacrifice.
+- id: motif:6
+  label: hidden maiden revealed after promise of mercy
+  taxonomy_refs: []
+  basis: Benjamin hides the sister beneath a tub until the brothers promise the first
+    maiden will not be killed, then lifts the tub and reveals her.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches the hidden-revelation
+    episode.
+- id: motif:7
+  label: forest exile in a bewitched hut
+  taxonomy_refs:
+  - departure
+  basis: The brothers leave the kingdom, go deeper into the forest, find an empty
+    bewitched hut, and live there for ten years.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The hut is called bewitched, but the passage does not describe magical
+    actions within it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1572-1578
+  quote_or_summary: The mother shows Benjamin twelve coffins filled with shavings
+    and says the father had them made for Benjamin and his eleven brothers, who are
+    to be killed and buried if she bears a girl.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1578-1588
+  quote_or_summary: The mother tells the sons to go into the forest, keep watch from
+    the highest tree toward the castle tower, return if a white flag is raised for
+    a son, flee if a red flag is raised for a daughter, and says she will pray for
+    them, including warmth by fire in winter.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1589-1598
+  quote_or_summary: The sons watch in turn from the highest oak; Benjamin sees the
+    blood-red flag instead of the white one, and the brothers angrily swear that wherever
+    they find a girl, her red blood shall flow.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1599-1608
+  quote_or_summary: The brothers go deeper into the dark middle of the forest, find
+    an empty little bewitched hut, assign Benjamin to keep house, hunt animals for
+    food, and live there together for ten years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1609-1624
+  quote_or_summary: The daughter grows up good-hearted and beautiful with a golden
+    star on her forehead; after seeing twelve men’s shirts, she learns from the queen
+    about her brothers, the coffins, and their secret departure, and resolves to seek
+    them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1625-1638
+  quote_or_summary: The daughter takes the twelve shirts, walks into the great forest,
+    reaches the bewitched hut, meets Benjamin, says she is a king’s daughter seeking
+    her twelve brothers, shows the shirts, and Benjamin recognizes her as his sister.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1639-1647
+  quote_or_summary: Benjamin tells the sister that the brothers agreed every maiden
+    they meet should die; she says she would willingly die to deliver them, but Benjamin
+    refuses and tells her to sit beneath a tub until the others come.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1648-1661
+  quote_or_summary: When the eleven return, Benjamin obtains their promise that the
+    first maiden who meets them shall not be killed, lifts the tub, and reveals the
+    king’s daughter with the golden star; the brothers rejoice, embrace, kiss, and
+    love her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1662-1669
+  quote_or_summary: The sister stays at home with Benjamin, helps with work, gathers
+    wood and herbs, cooks at the fire, keeps the house and beds orderly, while the
+    eleven hunt; the brothers are content and live in harmony with her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction uses only the supplied passage. Motif candidates are clear
+    at the episode level, but taxonomy alignment is sometimes approximate, especially
+    for the sibling_pair label applied to a larger sibling group.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added; comparison_claims is empty because the passage alone does not support a specific cross-text or historical-contact claim.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l1572-l1669
+  passage_sha256=a7d270ee74b18e7bf06195583af70406b400d40324a7001c6ba650460b2414e4
+

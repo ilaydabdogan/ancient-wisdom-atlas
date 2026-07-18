@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l962-l981
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: XVIII / XXIII / XXVII / XXVIII; lines 962-981
+  start: '962'
+  end: '981'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Nachiketas asks for no other boon than that which penetrates this hidden
+    secret.
+  summary: Nachiketas rejects satisfaction through wealth, long life, beauty, and
+    sense pleasure, and asks Death to tell him about the doubted great Hereafter and
+    its hidden secret.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that man cannot be satisfied by wealth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker questions whether wealth should be possessed or life continued
+    as long as Death rules, and says only a particular boon is to be chosen.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage refers to a man dwelling on a decaying mortal plane who has approached
+    an undecaying immortal one.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage mentions reflection on enjoyment through beauty and sense pleasure
+    and questions delight in long life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Death is directly addressed and asked to tell about the great Hereafter, which
+    is described as a matter of doubt.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Nachiketas is named as asking for no other boon than one that penetrates a
+    hidden secret.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Nachiketas
+  description: Named asker who seeks no other boon than knowledge of the hidden secret.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Death
+  description: Directly addressed figure associated with rule over life and asked
+    to speak about the great Hereafter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: man dwelling on the decaying mortal plane
+  description: Generic mortal figure used in the rhetorical question about approaching
+    the undecaying immortal one and rejecting delight in long life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: seeker of hidden knowledge
+  assigned_to:
+  - fig:1
+  basis: Nachiketas asks for the boon that penetrates the hidden secret concerning
+    the Hereafter.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: immortal addressee and source asked about the Hereafter
+  assigned_to:
+  - fig:2
+  basis: Death is addressed by name and asked to tell about the great Hereafter; the
+    speaker also refers to living as long as Death rules.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: mortal human contrasted with the immortal
+  assigned_to:
+  - fig:3
+  basis: The passage describes a man on the decaying mortal plane who has approached
+    the undecaying immortal one.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wealth
+  literal_form: wealth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: long life
+  literal_form: long life / continued life as long as Death rules
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: beauty and sense pleasure
+  literal_form: enjoyment through beauty and sense pleasure
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: decaying mortal plane
+  literal_form: the decaying mortal plane
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: undecaying immortal one
+  literal_form: the undecaying immortal one
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: great Hereafter
+  literal_form: the great Hereafter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: hidden secret
+  literal_form: this hidden secret
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Rejection of wealth as sufficient
+  summary: The speaker says that man cannot be satisfied by wealth and chooses only
+    a particular boon rather than wealth or continued life under Death's rule.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mortal reflection before the immortal
+  summary: A rhetorical question contrasts mortal existence with the undecaying immortal
+    one and asks whether a person who has reflected on beauty and sense pleasure would
+    delight in long life.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nachiketas asks Death about the Hereafter
+  summary: Nachiketas asks Death to tell him about the doubted great Hereafter and
+    seeks no boon other than the one that penetrates the hidden secret.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Renunciation of wealth and sensory pleasure for a higher boon
+  taxonomy_refs:
+  - wisdom
+  basis: The passage rejects satisfaction through wealth, questions delight in long
+    life, beauty, and sense pleasure, and identifies a different boon as the one to
+    be chosen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not specify the full ritual or narrative context of the
+    boon beyond these lines.
+- id: motif:2
+  label: Quest for hidden knowledge of the Hereafter
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: Nachiketas asks Death to explain the doubted great Hereafter and seeks the
+    boon that penetrates a hidden secret.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage asks about the Hereafter but does not itself describe an afterlife
+    journey or map.
+- id: motif:3
+  label: Mortal approaching the immortal teacher or authority
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts a man on the decaying mortal plane with the undecaying
+    immortal one whom he has approached.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identity of the 'undecaying immortal one' is inferred from the immediate
+    address to Death, but the phrase itself is not named as Death within the same
+    sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXVII, lines 962-967
+  quote_or_summary: '"Man cannot be satisfied by wealth... Therefore that boon alone
+    is to be chosen by me."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: XXVIII, lines 968-974
+  quote_or_summary: '"What man dwelling on the decaying mortal plane, having approached
+    the undecaying immortal one... would delight in long life?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: XXIX, lines 975-981
+  quote_or_summary: '"O Death... of the great Hereafter, tell us. Nachiketas asks
+    for no other boon than that which penetrates this hidden secret."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate abstractions
+    from a short passage. No comparison claims were made because the supplied passage
+    does not itself establish a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l962-l981
+  passage_sha256=1e3e69c7dd4103fc95340934bcbce60499415d8ea0d9392d423188c9cde97a4c
+

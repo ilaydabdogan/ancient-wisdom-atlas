@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5283-l5332
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5283-5332
+  start: '5283'
+  end: '5332'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Islamic prayer practice in Sale''s commentary: five
+    daily prayer times, their alleged authorization through Muhammad''s night journey
+    to heaven, public calls from mosque steeples, prayer forms and postures, orientation
+    toward Mecca, emphasis on inward devotion, modest dress before God, and the exclusion
+    of women from public prayer with the main group described.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prayer is described as an important duty, and Mohammed is said to have obliged
+    his followers to pray five times every twenty-four hours.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The five stated prayer times are before sunrise, after noon when the sun declines
+    from the meridian, afternoon before sunset, evening after sunset before day is
+    shut in, and after day is shut in before the first watch of the night.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The institution of the prayer times is linked to a divine command said to
+    have been received from the throne of God during Mohammed's night journey to heaven.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated prayer times are said to be frequently insisted on in the Koran,
+    though not particularly prescribed there according to the passage.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Public notice for prayer is given by Muedhdhins or Criers from mosque steeples,
+    and bells are not used.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A conscientious Moslem prepares for prayer and performs it in a mosque or
+    any other clean place, using a prescribed form, phrases or ejaculations, and postures
+    of worship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The more scrupulous are said to count prayer phrases or ejaculations by a
+    string of beads.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The prescribed prayer form ought not to be abridged except in special cases
+    such as a journey or preparing for battle.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Those praying must turn their faces toward the temple of Mecca.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The prayer direction, or Kebla, is indicated in mosques by a niche called
+    al Mehrab and by architectural features outside, with tables also used for finding
+    the direction where no other marker is available.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Moslem doctors are said to regard the inward disposition of the heart as the
+    life and spirit of prayer.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: External rites and ceremonies are described as having little or no avail if
+    performed without attention, reverence, devotion, and hope.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Mohammedans are said not to address God in sumptuous apparel; they remain
+    decently clothed but lay aside costly habits and ornaments when approaching the
+    divine presence.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The passage says women are not admitted to pray with the main group in public.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Presented as obliging his followers to pray five times daily and as
+    claiming a divine command received during a night journey to heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: GOD
+  description: Presented as the divine source of command from the throne and as the
+    addressee approached in prayer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Followers / Moslems / Mohammedans
+  description: The prayer-practicing community described as observing stated times,
+    preparing for prayer, facing Mecca, and following rules of conduct.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Muedhdhins or Criers
+  description: Those who give public notice of prayer times from mosque steeples.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Moslem doctors
+  description: Religious authorities cited for the teaching that inward disposition
+    is the life and spirit of prayer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Women
+  description: Described as not admitted to pray with the main group in public.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Institutor of prayer obligation
+  assigned_to:
+  - fig:1
+  basis: The passage says Mohammed obliged his followers to pray five times daily
+    and connected the institution with a divine command.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Divine commander and addressee
+  assigned_to:
+  - fig:2
+  basis: The command is said to come from God's throne, and prayer is described as
+    approaching the divine presence.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: Ritual practitioners
+  assigned_to:
+  - fig:3
+  basis: The community prepares for prayer, performs it at stated times, uses prescribed
+    forms and postures, and faces Mecca.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: Callers to prayer
+  assigned_to:
+  - fig:4
+  basis: They give public notice from the steeples of mosques.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Ritual authorities
+  assigned_to:
+  - fig:5
+  basis: They are cited for the doctrine that inward heart-disposition is essential
+    to prayer.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Excluded public-prayer group
+  assigned_to:
+  - fig:6
+  basis: The passage states that women are not admitted to pray with the main group
+    in public.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Five stated prayer times
+  literal_form: Number five and five daily intervals of prayer
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Night journey to heaven
+  literal_form: A night journey upward to heaven
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Throne of God
+  literal_form: The throne of GOD himself
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Mosque steeple call
+  literal_form: Public notice from mosque steeples by Muedhdhins or Criers, without
+    bells
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: String of beads
+  literal_form: A string of beads used to count phrases or ejaculations
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Temple of Mecca / Kebla
+  literal_form: The temple of Mecca as the quarter toward which worshippers turn their
+    faces
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Al Mehrab niche
+  literal_form: A niche within mosques marking the prayer direction
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Costly apparel laid aside
+  literal_form: Sumptuous apparel, costly habits, and pompous ornaments removed before
+    prayer
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: Clean place of prayer
+  literal_form: A mosque or any other place, provided it be clean
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Institution of five daily prayers
+  summary: Mohammed obliges his followers to pray five times daily, and the passage
+    connects the practice with a divine command received during a night journey to
+    heaven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Public call and performance of prayer
+  summary: Muedhdhins or Criers announce the prayer times from mosque steeples, and
+    Moslems perform prayer in a mosque or clean place with prescribed forms, phrases,
+    beads, and postures.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Orientation toward Mecca
+  summary: Worshippers turn their faces toward the temple of Mecca, and the direction
+    is marked by the al Mehrab niche, architectural features, or tables for calculating
+    the Kebla.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Inward disposition of prayer
+  summary: Moslem doctors are cited as teaching that the heart's disposition is the
+    life and spirit of prayer and that external rites alone are insufficient.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Dress and public participation rules
+  summary: Mohammedans are described as laying aside costly apparel and ornaments
+    before approaching the divine presence, while women are described as not admitted
+    to pray publicly with the main group.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Heavenly ascent as source of ritual command
+  taxonomy_refs:
+  - ascent
+  basis: The passage says the prayer institution was authorized by a divine command
+    received from God's throne during Mohammed's night journey to heaven.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wording is mediated by Sale's commentary and includes a polemical
+    verb; the passage only briefly mentions the journey.
+- id: motif:2
+  label: Fixed daily prayer cycle
+  taxonomy_refs: []
+  basis: Prayer is organized into five specified times across the day and night.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a ritual pattern rather than a narrative myth motif.
+- id: motif:3
+  label: Orientation toward a sacred center
+  taxonomy_refs:
+  - world_center
+  basis: Prayer requires turning toward the temple of Mecca, with the direction marked
+    by mosque architecture and tables for finding the Kebla.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage establishes Mecca as a ritual focus, but it does not explicitly
+    describe a cosmological world center.
+- id: motif:4
+  label: Inner devotion over external rite
+  taxonomy_refs: []
+  basis: The passage reports that inward heart-disposition is the life and spirit
+    of prayer and that external ceremonies are of little avail without attention,
+    reverence, devotion, and hope.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a doctrinal or ritual-emphasis pattern rather than a mythic episode.
+- id: motif:5
+  label: Humility before the divine presence
+  taxonomy_refs: []
+  basis: The passage says worshippers lay aside sumptuous apparel and ornaments before
+    addressing God so that they do not seem proud or arrogant.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The motif is based on described ritual etiquette rather than a narrative
+    sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5283-5288
+  quote_or_summary: Prayer is described as an important duty; Mohammed obliged followers
+    to pray five times in twenty-four hours at stated times from before sunrise through
+    the first watch of night.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5288-5291
+  quote_or_summary: The passage says Mohammed claimed the institution came by divine
+    command from God's throne during his night journey to heaven, and that stated
+    prayer times are insisted on in the Koran though not particularly prescribed there.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5291-5298
+  quote_or_summary: At prayer times, public notice is given by Muedhdhins or Criers
+    from mosque steeples; worshippers pray in a mosque or clean place with prescribed
+    form, phrases or ejaculations, sometimes counted by beads, and postures of worship.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5298-5300
+  quote_or_summary: The prescribed prayer form should not be abridged except in special
+    cases such as traveling or preparing for battle.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5301-5308
+  quote_or_summary: Regular prayer requires facing the temple of Mecca; the Kebla
+    is indicated by the al Mehrab niche, architectural orientation, and tables for
+    finding the direction.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5309-5315
+  quote_or_summary: Moslem doctors say the inward disposition of the heart is the
+    life and spirit of prayer, and external rites have little or no value without
+    attention, reverence, devotion, and hope.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5316-5321
+  quote_or_summary: Mohammedans are said to avoid sumptuous apparel when addressing
+    God, laying aside costly habits and ornaments before approaching the divine presence
+    to avoid pride and arrogance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5321-5322
+  quote_or_summary: The passage states that women are not admitted to pray with the
+    main group in public; the line range ends before the explanation is complete.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies directly on the supplied passage. Motif candidates are
+    mostly ritual-pattern classifications; no separate cross-text comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is from Sale's English commentary/translation context and includes period-specific polemical wording; descriptions here preserve only what the supplied passage states.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5283-l5332
+  passage_sha256=669a3fbfac8954f68374fe8550484d7a848f8b0bce61b9f912641501ba253030
+

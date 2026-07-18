@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l196-l311
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 196-311
+  start: '196'
+  end: '311'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists later table-of-contents entries and children’s legends,
+    then begins “The Frog-King, or Iron Henry.” In the opening scene, a king’s youngest
+    daughter plays with a golden ball beside a well in a forest. The ball falls into
+    the deep water; she weeps; a frog speaks to her from the water and she says she
+    is weeping for the lost golden ball.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a table-of-contents sequence naming tales numbered 123
+    through 200, followed by a section headed “Children’s Legends” with legends numbered
+    1 through 10.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The narrative opening states that a king had beautiful daughters and that
+    the youngest was especially beautiful.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: A great dark forest lies near the king’s castle; under an old lime-tree in
+    the forest is a well or cool fountain.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: When the day is warm, the king’s child goes into the forest, sits by the cool
+    fountain, and plays with a golden ball, her favorite plaything.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The golden ball misses her hand, rolls into the water, vanishes, and the well
+    is described as too deep to see the bottom.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The king’s daughter cries and cannot be comforted after the ball disappears
+    into the well.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A voice asks what troubles the king’s daughter, and she sees a frog stretching
+    its thick, ugly head from the water.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The king’s daughter addresses the frog as an “old water-splasher” and says
+    she is weeping because her golden ball has fallen into the well.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A king whose daughters are described as beautiful.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: king’s youngest daughter / princess
+  description: The youngest daughter of the king, described as exceptionally beautiful
+    and shown playing with a golden ball by the forest well.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: frog
+  description: A frog that appears from the water, has a thick ugly head, and speaks
+    to the king’s daughter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: royal parent
+  assigned_to:
+  - fig:1
+  basis: The passage identifies him as a king with daughters.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: royal child at the well
+  assigned_to:
+  - fig:2
+  basis: The passage calls her the king’s child or king’s daughter and places her
+    at the forest fountain with the golden ball.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: speaking water-side animal
+  assigned_to:
+  - fig:3
+  basis: The frog speaks from the water to the weeping king’s daughter.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: golden ball
+  literal_form: A golden ball used by the king’s child as her favorite plaything;
+    it falls into the well.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: well / water
+  literal_form: A deep well or cool fountain in the forest, containing water into
+    which the ball falls and from which the frog appears.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: great dark forest
+  literal_form: A great dark forest close by the king’s castle.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: old lime-tree
+  literal_form: An old lime-tree in the forest, under which the well is located.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: frog
+  literal_form: A frog with a thick ugly head that emerges from the water and speaks.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Contents and legend list
+  summary: The passage enumerates tale titles from 123 to 200 and then lists ten children’s
+    legends.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Princess at the forest well
+  summary: A king’s youngest daughter goes from the castle area into the nearby forest,
+    sits at a cool fountain under an old lime-tree, and plays with her golden ball.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Golden ball lost in deep water
+  summary: The princess’s golden ball rolls into the well, vanishes in the deep water,
+    and she begins to cry.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Frog speaks from the water
+  summary: A voice asks the princess why she is weeping; she sees a frog emerging
+    from the water and tells it that her golden ball has fallen into the well.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: royal child in a liminal forest-water setting
+  taxonomy_refs: []
+  basis: The king’s daughter leaves the castle area for a forest fountain under an
+    old tree, where the central encounter begins.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage establishes the setting but does not yet show the full narrative
+    function of the encounter.
+- id: motif:2
+  label: cherished golden object lost in deep water
+  taxonomy_refs: []
+  basis: The princess’s favorite golden ball rolls into the well, vanishes, and cannot
+    be recovered by sight because the well is very deep.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The later recovery or consequences are outside the supplied excerpt.
+- id: motif:3
+  label: speaking animal encountered at water
+  taxonomy_refs: []
+  basis: A frog emerges from the water and speaks to the crying king’s daughter.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Although the title names a Frog-King, the excerpt does not yet show transformation
+    or royal identity for the frog.
+- id: motif:4
+  label: magical old-time opening
+  taxonomy_refs: []
+  basis: The tale begins by locating the action in old times when wishing still helped
+    one.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt mentions the magical time-frame but has not yet depicted a
+    wish being granted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 196-311; contents entries 123-200
+  quote_or_summary: The contents list includes tales numbered 123 through 200, from
+    “The Old Woman in the Wood” through “The Golden Key.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 196-311; Children’s Legends list
+  quote_or_summary: A heading “Children’s Legends” is followed by ten legend titles,
+    including “St. Joseph in the Forest,” “The Twelve Apostles,” and “The Hazel Branch.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 196-311; opening of “The Frog-King, or Iron Henry”
+  quote_or_summary: In old times when wishing still helped, a king had beautiful daughters,
+    and the youngest was so beautiful that even the sun was astonished when it shone
+    on her face.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 196-311; opening forest-well description
+  quote_or_summary: Near the king’s castle is a great dark forest; under an old lime-tree
+    is a well or cool fountain where the king’s child sits on warm days and plays
+    with her favorite golden ball.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 196-311; golden ball falls
+  quote_or_summary: The golden ball does not fall back into the princess’s hand, rolls
+    into the water, vanishes, and the well is so deep that the bottom cannot be seen;
+    she begins to cry.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 196-311; frog appears
+  quote_or_summary: A voice asks what troubles the king’s daughter; she looks toward
+    it and sees a frog stretching its thick, ugly head from the water.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 196-311; princess addresses frog
+  quote_or_summary: "“I am weeping for my golden ball, which has fallen into the well.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for the supplied excerpt. Motif labels
+    are cautious because only the opening of the tale is included; no transformation,
+    bargain, recovery, or resolution appears in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself establish a comparative relationship beyond its own tale opening and contents list.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l196-l311
+  passage_sha256=8fcc047d5ab307a19d8900cc1733fe4855fcb0944acb94abb3d24834e100a6cb
+

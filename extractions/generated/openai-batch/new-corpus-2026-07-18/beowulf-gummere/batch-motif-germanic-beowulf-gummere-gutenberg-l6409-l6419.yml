@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l6409-l6419
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: THE MESSENGER OF DEATH. / THE MESSENGER'S RETROSPECT. / XLII. / WIGLAF'S
+    SAD STORY.--THE HOARD CARRIED OFF.; lines 6409-6419
+  start: '6409'
+  end: '6419'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Now shall the fire consume, the wan-flame devour, the prince of warriors”"
+  summary: The supplied passage consists of editorial translation notes. The notes
+    discuss a treasure that drew the king and was granted in an overpowering way,
+    a proposed reading involving fire-wood brought to the place where the folk-ruler
+    lay, and a proposed rendering in which fire consumes or devours a prince of warriors.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note states that the treasure drew the king to a place and was granted to
+    the speaker’s group in a way that overcame them.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note identifies the good folk-ruler as Beowulf in one proposed grammatical
+    reading.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A proposed rendering has fire or wan-flame consuming or devouring the prince
+    of warriors.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note mentions bringing fire-wood to the place where the good folk-ruler
+    lay.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A king whom the treasure drew thither in the translation note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Beowulf / good folk-ruler
+  description: The figure identified by the note as Beowulf and as the good folk-ruler
+    lying at a place where fire-wood should be brought.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: prince of warriors
+  description: A prince of warriors whom the proposed rendering says the fire shall
+    consume or the wan-flame devour.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: king drawn by treasure
+  assigned_to:
+  - fig:1
+  basis: The note says the treasure drew the king thither.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lying folk-ruler
+  assigned_to:
+  - fig:2
+  basis: The note refers the phrase to Beowulf and renders a line about bringing fire-wood
+    to the place where the good folk-ruler lay.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: warrior-prince consumed by fire
+  assigned_to:
+  - fig:3
+  basis: The proposed rendering names the prince of warriors as the one consumed or
+    devoured by fire.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: treasure
+  literal_form: treasure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: fire / wan-flame
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fire-wood
+  literal_form: fire-wood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Treasure draws the king
+  summary: An editorial rendering says that the treasure drew the king to a place
+    and was granted to the group in a way that overcame them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fire prepared for the lying folk-ruler
+  summary: A grammatical note proposes that fire-wood should be brought to the place
+    where the good folk-ruler, identified as Beowulf, lay.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fire consumes the prince
+  summary: A proposed reading says that the fire or wan-flame shall consume or devour
+    the prince of warriors.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: treasure that overcomes its possessors
+  taxonomy_refs: []
+  basis: The note says the treasure was granted to the group, but in such a way that
+    it overcomes them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial note and gives only a brief alternate rendering,
+    not a full narrative episode.
+- id: motif:2
+  label: funerary fire consuming a ruler or warrior
+  taxonomy_refs: []
+  basis: The notes mention bringing fire-wood to where the folk-ruler lay and a rendering
+    in which fire consumes or devours the prince of warriors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The supplied text is a set of translation notes; the broader funeral context
+    is not present in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6409-6411, note [5]
+  quote_or_summary: "“That which drew the king thither (i.e. the treasure) was granted
+    us, but in such a way that it overcomes us.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6412-6415, note [6]
+  quote_or_summary: "“Should bring fire-wood to the place where the good folk-ruler
+    lay.” The note says this refers to Beowulf."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6416-6419, note [7]
+  quote_or_summary: "“Now shall the fire consume, the wan-flame devour, the prince
+    of warriors”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is not a continuous narrative excerpt but editorial notes on
+    translation and grammar. Motif extraction is therefore limited to literal elements
+    explicitly present in those notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a cautious cross-textual or tradition-level comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l6409-l6419
+  passage_sha256=dc9661f1e196e2e661b612b984ef1e8a6b4eda038cb3a88f1f8dea8d920cccd6
+

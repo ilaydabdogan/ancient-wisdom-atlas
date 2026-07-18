@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7264-l7278
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 48 / THE SICK-BED OF CUCHULAIN / PAGE 57 / PAGE 58; lines 7264-7278
+  start: '7264'
+  end: '7278'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes state that a delay involving Conall and Fergus may derive
+    from a third form of the story; identify Leborcham as Deirdre's nurse and confidant
+    in the story of Deirdre; and discuss “their three blemishes” as disfigurement
+    of Ulster women in honour of chosen heroes, possibly indicating hero-worship or
+    alternatively rough humour in the Antiquarian form of the story.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says that the delay of Conall and Fergus leads to nothing and may
+    be an introduction from a third form of the story.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Leborcham is identified as Deirdre's nurse and confidant in the story of Deirdre.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note cites the phrase “Their three blemishes.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes disfigurement of the women of Ulster in honour of their
+    chosen heroes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that this disfigurement may point to worship of the heroes
+    as gods in an original legend, but may instead be rough humour in the Antiquarian
+    form of the story.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Conall
+  description: Named in an editorial note about a delay that leads to nothing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fergus
+  description: Named in an editorial note about a delay that leads to nothing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Leborcham
+  description: Identified as Deirdre's nurse and confidant in the story of Deirdre.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Deirdre
+  description: Named as the person for whom Leborcham is nurse and confidant in the
+    story of Deirdre.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: women of Ulster
+  description: A group described as disfigured in honour of their chosen heroes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: chosen heroes
+  description: Heroes in whose honour the women of Ulster are described as disfigured;
+    the note says this may point to their worship as gods in an original legend.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: delayed figures
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note refers to “the delay of Conall and Fergus.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: nurse and confidant
+  assigned_to:
+  - fig:3
+  basis: Leborcham is explicitly identified as Deirdre's nurse and confidant.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: figure attended by nurse-confidant
+  assigned_to:
+  - fig:4
+  basis: Deirdre is named as the person whose nurse and confidant is Leborcham.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: disfigured women
+  assigned_to:
+  - fig:5
+  basis: The note describes disfigurement of the women of Ulster.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: honoured heroes
+  assigned_to:
+  - fig:6
+  basis: The disfigurement is described as being in honour of the women’s chosen heroes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: three blemishes
+  literal_form: The phrase “Their three blemishes,” referring to blemishes or disfigurement.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: disfigurement in honour of heroes
+  literal_form: Bodily disfigurement of the women of Ulster in honour of chosen heroes.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Editorial note on delayed Conall and Fergus
+  summary: The commentary says the delay of Conall and Fergus has no result and may
+    come from another form of the story.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial note identifying Leborcham
+  summary: The commentary identifies Leborcham as Deirdre's nurse and confidant in
+    the story of Deirdre.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial note on three blemishes
+  summary: 'The commentary discusses the disfigurement of Ulster women in honour of
+    chosen heroes and offers alternative explanations: hero-worship in an original
+    legend or rough humour in the Antiquarian form.'
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: unused or interpolated delay from another story form
+  taxonomy_refs: []
+  basis: The note says the delay of Conall and Fergus leads to nothing and may be
+    an introduction from a third form of the story.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an editorial observation about textual form rather than a fully
+    narrated mythic motif.
+- id: motif:2
+  label: nurse-confidant attached to a heroine
+  taxonomy_refs: []
+  basis: Leborcham is identified as Deirdre's nurse and confidant in the story of
+    Deirdre.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only gives a brief cross-reference and does not narrate Leborcham's
+    actions.
+- id: motif:3
+  label: bodily blemish or disfigurement in honour of heroes
+  taxonomy_refs: []
+  basis: The note describes disfigurement of the women of Ulster in honour of their
+    chosen heroes and suggests it may point to worship of those heroes as gods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is an editorial interpretation and also gives an alternative
+    explanation as rough humour in the Antiquarian form.
+comparison_claims:
+- id: claim:1
+  claim: The passage connects Leborcham with the story of Deirdre by identifying her
+    there as Deirdre's nurse and confidant.
+  claim_level: same_function
+  target: 'Story of Deirdre: Deirdre''s nurse and confidant'
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim rests only on the editorial note; no Deirdre passage is included
+    in the supplied text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7266-7267
+  quote_or_summary: The delay of Conall and Fergus leads to nothing and may be an
+    introduction from a third form of the story.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 7269-7270
+  quote_or_summary: "“Leborcham is, in the story of Deirdre, Deirdre's nurse and confidant.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: line 7272
+  quote_or_summary: "“Their three blemishes.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7273-7275
+  quote_or_summary: The note describes disfigurement of the women of Ulster in honour
+    of their chosen heroes and says it may point to worship of those heroes as gods
+    in the original legend.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7275-7278
+  quote_or_summary: 'The note offers an alternative explanation: the episode may be
+    rough humour intentionally introduced in the Antiquarian form, where other such
+    examples occur.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit, but it is editorial commentary rather
+    than a narrative episode; motif labels therefore require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy reference such as cave, fire, milk, mountain, serpent, tree, or water is directly supported by this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7264-l7278
+  passage_sha256=2e47997bd582e7a88a46eac6f862296cda697498e46763fe4fa161ca57d12d51
+

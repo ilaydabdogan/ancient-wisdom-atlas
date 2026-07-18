@@ -1,0 +1,535 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l6936-l7004
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: SLYBOOTS. / THE GOLD-SPINNERS. / SECTION II / THE WOOD OF TONTLA.; lines
+    6936-7004
+  start: '6936'
+  end: '7004'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young man serves a master in a remote stony place, using oxen and a crowbar
+    to move stones and guarding a door against dangerous dogs or hell-hounds. After
+    years of service and long periods of the master's sleep, a speaking eagle advises
+    him to take the master's swift horse and his saved money and ride west back among
+    humans. The youth follows the advice, ignores the master's plea to leave the horse,
+    returns among mortal men, becomes wealthy, marries, and lives happily. A closing
+    editorial transition notes Linda's egg-birth and says a princess in the following
+    tale resembles Cinderella.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The stall contains one hundred black oxen, each with seven horns.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The master says six yoke of oxen can pull a stone, gives the young man a crowbar
+    that makes a touched stone roll into the wagon, and instructs him to watch the
+    door three times by day and once at night.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dogs scratch a hole under the door, and a stone is rolled against the breach,
+    forcing them to start again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After many years the young man has saved money but longs to see other humans;
+    the master sometimes sleeps for seven weeks without appearing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A great eagle descends on the hill of stones and advises the young man to
+    take the master's swift horse, bind his money to it, ride toward the setting sun,
+    and secure the horse with an iron chain.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The eagle says God created the master to guard the hell-hounds and that, without
+    a stranger servant, the master would have to wake and do the work himself.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The young man takes the horse and gold, rides away, ignores the master's call
+    to leave the horse, reaches mortal men, builds a house, marries, and lives as
+    a rich man.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The editorial transition states that Linda was hatched from an egg and that
+    a princess in the following tale has adventures resembling Cinderella's.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: young man
+  description: The servant who watches the door, saves money, follows the eagle's
+    advice, escapes on the horse, and returns among mortal men.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: master
+  description: The young man's master, owner of the horse, associated with guarding
+    the hell-hounds and with long sleeps.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: hundred black oxen
+  description: A group of one hundred black oxen in the stall, each with seven horns,
+    used in the work of moving stones.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: dogs or hell-hounds
+  description: Dogs confined behind the guarded door; the eagle identifies them as
+    hell-hounds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: great eagle
+  description: A speaking eagle that descends on the hill of stones and counsels the
+    young man how to escape.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: master's swift horse
+  description: The master's swift, later wind-swift, horse that carries the young
+    man back among mortal men and whose absence prevents the master from leaving the
+    place.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: Linda
+  description: A named figure whom the editorial note says was hatched from an egg.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: unnamed princess in the following tale
+  description: A princess whose later adventures are said by the editorial note to
+    resemble those of Cinderella.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: door-watching servant
+  assigned_to:
+  - fig:1
+  basis: The master assigns the young man to watch the door at specified times to
+    prevent misfortune.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: master and employer
+  assigned_to:
+  - fig:2
+  basis: The master gives the work instructions, owns the horse, and calls after the
+    fleeing youth.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: appointed guardian of hell-hounds
+  assigned_to:
+  - fig:2
+  basis: The eagle says God created the master to guard the hell-hounds.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: escapee and returnee to human society
+  assigned_to:
+  - fig:1
+  basis: The young man leaves the mountain on the horse and later finds himself among
+    mortal men.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: confined dangerous animals
+  assigned_to:
+  - fig:4
+  basis: The dogs dig under the door and are later called hell-hounds requiring a
+    guardian.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: speaking animal adviser
+  assigned_to:
+  - fig:5
+  basis: The eagle speaks and gives detailed advice for the young man's escape.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: escape mount
+  assigned_to:
+  - fig:6
+  basis: The eagle instructs the youth to ride the swift horse west, and the youth
+    escapes on it.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:8
+  label: egg-born named figure
+  assigned_to:
+  - fig:7
+  basis: The transition note says Linda was hatched from an egg.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: Cinderella-compared princess
+  assigned_to:
+  - fig:8
+  basis: The transition note says the princess's later adventures resemble Cinderella's.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hill or mountain of stones
+  literal_form: A hill of stones, also called the mountain when the youth rides away
+    from it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: stone barrier
+  literal_form: Stones moved for the master's work and a stone rolled against the
+    hole under the door.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: crowbar that moves stones
+  literal_form: A crowbar that causes a touched stone to roll into the wagon by itself.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: guarded door
+  literal_form: A door that must be checked three times during the day and once at
+    night and under which the dogs dig.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: seven-horned black oxen
+  literal_form: One hundred black oxen, each with seven horns.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: westward route
+  literal_form: The direction in which the sun sets, named by the eagle as the route
+    back among men.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: iron chain
+  literal_form: An iron chain used to bind the horse so that it cannot run away.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: bag of money or gold
+  literal_form: The young man's saved money or gold bound to the horse's neck during
+    the escape.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:9
+  label: egg birth
+  literal_form: The egg from which Linda is said to have been hatched.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: assignment at the guarded door
+  summary: The master shows or possesses extraordinary oxen, gives the young man a
+    crowbar for moving stones, and explains the required vigilance at the door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: long service and breached door
+  summary: The young man lives well and accumulates money, while the dogs dig beneath
+    the door and are stopped by a stone; over time he becomes lonely as the master
+    sleeps for seven-week stretches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: eagle's escape counsel
+  summary: During the master's sleep, a great eagle tells the young man to take the
+    swift horse and saved money, ride west, and restrain the horse with an iron chain;
+    the eagle also says the master is the true guardian of the hell-hounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: escape and settlement among mortal men
+  summary: The youth takes the horse and gold, leaves the mountain despite the master's
+    plea, returns to mortal men, builds a house, marries, and lives as a rich man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: guarding dangerous hounds behind a boundary door
+  taxonomy_refs: []
+  basis: The young man is told to watch a door carefully, dogs attempt to dig beneath
+    it, and the eagle later identifies the animals as hell-hounds requiring guardianship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the nature of the door or the full consequences
+    of the hounds' escape.
+- id: motif:2
+  label: long-sleeping supernatural or powerful master enables escape
+  taxonomy_refs: []
+  basis: The master sleeps for seven weeks at a stretch, and the eagle gives escape
+    advice while he is in one of these deep sleeps.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The master is not explicitly called supernatural in this passage, though
+    his assigned guardianship and dependence on the horse mark him as unusual.
+- id: motif:3
+  label: speaking eagle as animal helper and adviser
+  taxonomy_refs: []
+  basis: A great eagle descends and gives the youth practical instructions for escaping
+    back among humans.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives no origin or further identity for the eagle.
+- id: motif:4
+  label: return from an isolated otherworld-like place to mortal society
+  taxonomy_refs:
+  - return
+  - departure
+  basis: The eagle directs the youth to ride away toward the setting sun, after which
+    he finds himself again among mortal men.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The place is remote and contrasted with mortal human society, but the
+    passage does not explicitly call it an underworld or otherworld.
+- id: motif:5
+  label: taking the master's indispensable horse for escape
+  taxonomy_refs: []
+  basis: The eagle says the master cannot leave without the horse; the youth takes
+    it, and the master calls after him to leave it behind.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not label the act as theft or provide a moral judgment
+    beyond the master's protest.
+- id: motif:6
+  label: egg-born figure
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: The editorial transition states that Linda was hatched from an egg.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only a brief reminder is present here; the actual birth episode is not
+    narrated in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage's editorial transition says that the later adventures of an unnamed
+    princess in the following tale resemble those of Cinderella.
+  claim_level: same_motif
+  target: Cinderella tale pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives only the narrator's brief comparison and does not
+    list the shared incidents, so it does not support a claim of historical contact
+    or detailed motif equivalence by itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6936-6954
+  quote_or_summary: A stall contains one hundred black oxen with seven horns each;
+    the master explains that oxen and a crowbar will move stones and that the door
+    must be watched several times daily and nightly.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6955-6964
+  quote_or_summary: The young man lives comfortably; dogs scratch a hole under the
+    door, but a stone is rolled against the breach and they must begin again.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6965-6975
+  quote_or_summary: After many years the young man has saved money and longs for human
+    company; the master sometimes sleeps for seven uninterrupted weeks.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6976-6991
+  quote_or_summary: A great eagle descends on the hill of stones and advises the youth
+    to take the master's swift horse, fasten his money to it, ride toward the setting
+    sun, and bind the horse with an iron chain because the master cannot leave without
+    it.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 6991-6999
+  quote_or_summary: When asked who will watch the dogs, the eagle says God created
+    the master to guard the hell-hounds and that he sleeps from laziness when a servant
+    does the work.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 7000-7004
+  quote_or_summary: The youth takes the horse and gold, rides away from the mountain,
+    ignores the master's demand to leave the horse, returns among mortal men, builds
+    a house, marries, and lives richly; the wind-swift horse later dies.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 7004-7004
+  quote_or_summary: "“Linda was hatched from an egg,” and the princess's later adventures
+    “resemble those of Cinderella.”"
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation used for comparison evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The narrative actions are explicit, but motif labels are cautious because
+    the passage is a fragment and the Cinderella comparison is only an editorial note
+    without supporting episode details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No historical-contact claim is made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l6936-l7004
+  passage_sha256=713066c9ff5eb5a9b8ef5428ab37a82c86822348cb26f9be81cf90af224bb4ee
+

@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7028-l7052
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 31 / PAGE 32 / MAC DATHO'S BOAR / PAGE 37; lines 7028-7052
+  start: '7028'
+  end: '7052'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: This semi-supernatural power of the hound is the only supernatural touch
+    in either version of the tale.
+  summary: Editorial notes for “Mac Datho's Boar” give a literal rendering of a wedding-feast
+    phrase, describe a Rawlinson variant concerning a hound, identify a Rawlinson
+    verse about Mesroda son of Datho, and relate Irish hostelries or guest-houses
+    to Togail Da Derga, Conaire, Forgall, Emer, Cuchulain, and da Choca.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note gives the literal rendering of a line as “no evil wedding feast” for
+    the addressee.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the section as “Mac Datho's Boar.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The Rawlinson version is said to give a hound variant: instead of being guardian
+    of all Leinster, the hound would run round Leinster in a day.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The editor states that the hound's semi-supernatural power is the only supernatural
+    touch in either version of the tale.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A verse reading “Mesroda son of Datho” is attributed to the Rawlinson manuscript.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A list of Irish hostelries or guest-houses is said to include the scene of
+    Togail Da Derga.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Conaire, king of Ireland, is said to have been killed in the sack of Togail
+    Da Derga.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Forgall the Wily is identified as the father of Emer, and Emer is identified
+    as Cuchulain's wife.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The tale of the plunder of da Choca is said to be classified in manuscript
+    H. 3, 18 in the Trinity College, Dublin, Library.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the hound
+  description: A hound described in variant readings as guardian of all Leinster or
+    as able to run round Leinster in a day; its power is called semi-supernatural.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mesroda son of Datho
+  description: Named in a Rawlinson manuscript verse as “Mesroda son of Datho.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Conaire
+  description: King of Ireland, killed in the sack of Togail Da Derga.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Forgall the Wily
+  description: Identified as the father of Emer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Emer
+  description: Identified as Forgall the Wily's child and Cuchulain's wife.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Cuchulain
+  description: Identified through his relationship to Emer, who is called his wife.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: semi-supernatural hound
+  assigned_to:
+  - fig:1
+  basis: The note calls the hound's power semi-supernatural and says it is the only
+    supernatural touch in either version.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: son of Datho
+  assigned_to:
+  - fig:2
+  basis: The Rawlinson verse names Mesroda as son of Datho.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: slain king
+  assigned_to:
+  - fig:3
+  basis: Conaire is identified as king of Ireland and as killed in the sack of Togail
+    Da Derga.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: father
+  assigned_to:
+  - fig:4
+  basis: Forgall the Wily is identified as the father of Emer.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: child of Forgall the Wily
+  assigned_to:
+  - fig:5
+  basis: Emer is identified through Forgall the Wily's fatherhood.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: wife
+  assigned_to:
+  - fig:5
+  basis: Emer is identified as Cuchulain's wife.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: husband
+  assigned_to:
+  - fig:6
+  basis: Cuchulain is identified through Emer being called his wife.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wedding feast
+  literal_form: The phrase “no evil wedding feast” in the literal rendering of a line.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: boar of the title
+  literal_form: The title “Mac Datho's Boar.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: semi-supernatural hound
+  literal_form: A hound with the power to run round Leinster in a day, or described
+    as guardian of all Leinster in another version.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hostelries or guest-houses of Ireland
+  literal_form: A list of Irish hostelries or guest-houses including the scene of
+    Togail Da Derga.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Togail Da Derga
+  literal_form: A named scene associated with a sack in which Conaire was killed.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hound variant in the Rawlinson version
+  summary: An editorial note reports that one version makes the hound guardian of
+    all Leinster, while the Rawlinson version says it would run round Leinster in
+    a day; the power is described as semi-supernatural.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Sack of Togail Da Derga
+  summary: The passage states that Togail Da Derga is the scene of a sack in which
+    Conaire, king of Ireland, was killed.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: semi-supernatural animal with guardian or extraordinary-speed function
+  taxonomy_refs: []
+  basis: The hound is described either as guardian of all Leinster or as able to run
+    round Leinster in a day, and the editor calls this the only supernatural touch
+    in the tale versions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is an editorial note and gives only the hound attribute, not
+    a full narrative episode.
+- id: motif:2
+  label: royal death during sack of a named guest-house setting
+  taxonomy_refs: []
+  basis: The passage links Togail Da Derga to a sack in which Conaire, king of Ireland,
+    was killed, and places it among Irish hostelries or guest-houses.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The note summarizes a related tale setting but does not narrate the sack
+    in detail.
+- id: motif:3
+  label: named heroic boar as title focus
+  taxonomy_refs: []
+  basis: The section title is “Mac Datho's Boar.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Only the title is present in this passage; no boar action or attributes
+    are described here.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage directly compares two versions of the hound description: one
+    as guardian of all Leinster and the Rawlinson version as able to run round Leinster
+    in a day.'
+  claim_level: same_motif
+  target: Rawlinson version and another version of the hound episode in Mac Datho's
+    Boar
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to a brief editorial variant note and does
+    not provide the surrounding narrative.
+- id: claim:2
+  claim: The passage links the list of Irish hostelries or guest-houses with Togail
+    Da Derga, suggesting a shared guest-house setting pattern within nearby Irish
+    heroic narrative material.
+  claim_level: same_function
+  target: Togail Da Derga and the Irish hostelry or guest-house list referenced in
+    the note
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names the connection but does not present enough detail
+    to establish a broader historical or structural relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7028-7030
+  quote_or_summary: 'Line 1 gives the literal rendering: “no evil wedding feast ...
+    for thee?”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: line 7032
+  quote_or_summary: 'Section title: “MAC DATHO''S BOAR.”'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 7036-7040
+  quote_or_summary: The Rawlinson version has the hound “who would run round Leinster
+    in a day” instead of “who was the guardian of all Leinster”; the editor calls
+    this semi-supernatural power the only supernatural touch in either version.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 7042-7045
+  quote_or_summary: The verse “Mesroda son of Datho” is said to be from the Rawlinson
+    manuscript, with a literal version cited in Anecdota Oxoniensia.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 7047-7052
+  quote_or_summary: The note says the list of Irish hostelries or guest-houses includes
+    Togail Da Derga, where Conaire was killed in a sack; it also identifies Forgall
+    as Emer's father, Emer as Cuchulain's wife, and gives a manuscript classification
+    for the plunder of da Choca.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly editorial annotation rather than continuous mythic
+    narrative. Named figures and relationships are clear, but motif extraction is
+    limited by the brief, contextual nature of the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. No available taxonomy symbol reference applied because the passage does not contain cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7028-l7052
+  passage_sha256=1cc22f325fac5fd39edb56b1135d8d0ce11e3d7b71401abade13a63131bec83f
+

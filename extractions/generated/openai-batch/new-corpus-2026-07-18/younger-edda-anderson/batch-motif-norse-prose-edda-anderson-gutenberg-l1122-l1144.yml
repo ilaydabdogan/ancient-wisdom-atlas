@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.norse-prose-edda-anderson-gutenberg-l1122-l1144
+source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+passage_locator:
+  label: CHAPTER I. / CHAPTER II. / CHAPTER III. / OF THE HIGHEST GOD.; lines 1122-1144
+  start: '1122'
+  end: '1144'
+  translation: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a question-and-answer exchange, Ganglere asks who is the highest and
+    oldest god. Har identifies him as Alfather and lists twelve names, then describes
+    him as everlasting ruler of all things. Jafnhar says he made heaven, earth, air,
+    and their contents. Thride says he made man and gave him an imperishable spirit,
+    and distinguishes the postmortem dwellings of the virtuous from the destinations
+    of the wicked. Har also says that before heaven and earth were made, Alfather
+    was with the frost-giants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ganglere asks who is the highest and oldest of all the gods.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Har answers that the god is called Alfather in their tongue and had twelve
+    names in old Asgard.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ganglere asks where the god is, what he can do, and what mighty works he has
+    accomplished.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Har says the god lives from everlasting to everlasting, rules over his realm,
+    and governs all things great and small.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jafnhar says the god made heaven and earth, the air, and all things in them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Thride says the god made man and gave him a spirit that shall live and never
+    perish, though the body may turn to dust or burn to ashes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Those who live a life of virtue are said to dwell with the god in Gimle or
+    Vingolf.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The wicked are said to go to Hel, and from her to Niflhel, down into the ninth
+    world.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When asked what the god was doing before heaven and earth were made, Har answers
+    that he was with the frost-giants.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ganglere
+  description: Questioner who asks about the highest god, the god's works, and the
+    time before heaven and earth were made.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Har
+  description: Respondent who identifies Alfather, describes his rule, and says he
+    was with the frost-giants before heaven and earth were made.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Alfather / the highest god
+  description: Named as the highest and oldest god; described as everlasting ruler,
+    maker of heaven and earth, maker of man, and giver of spirit.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Jafnhar
+  description: Respondent who says the god made heaven, earth, air, and all things
+    in them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Thride
+  description: Respondent who says the god made man, gave spirit, and assigns postmortem
+    dwellings or destinations to the virtuous and wicked.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Man
+  description: Created being whom the god made and gave a spirit that shall live and
+    never perish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Hel
+  description: Named destination or figure to whom the wicked go before going to Niflhel;
+    the passage refers to Hel as 'her.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Frost-giants
+  description: Beings with whom the god was before heaven and earth were made.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Ganglere asks multiple questions in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:2
+  label: answering speaker
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Har, Jafnhar, and Thride each answer or add information in response to Ganglere's
+    questions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: highest and oldest god
+  assigned_to:
+  - fig:3
+  basis: Har answers Ganglere's question by naming Alfather as the god in question.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: everlasting ruler and governor
+  assigned_to:
+  - fig:3
+  basis: Har says he lives from everlasting to everlasting, rules his realm, and governs
+    all things.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: creator and giver of spirit
+  assigned_to:
+  - fig:3
+  basis: Jafnhar and Thride say he made heaven, earth, air, man, and gave man spirit.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: created recipient of imperishable spirit
+  assigned_to:
+  - fig:6
+  basis: Thride says the god made man and gave him a spirit that shall live and never
+    perish.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: afterlife destination or intermediary
+  assigned_to:
+  - fig:7
+  basis: The wicked go to Hel and from her to Niflhel.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: pre-creation companions
+  assigned_to:
+  - fig:8
+  basis: Har says the god was with the frost-giants before heaven and earth were made.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: twelve names of Alfather
+  literal_form: 'A list of twelve names: Alfather, Herran or Herjan, Nikar or Hnikar,
+    Nikuz or Hnikud, Fjolner, Oske, Ome, Biflide or Biflinde, Svidar, Svidrer, Vidrer,
+    and Jalg or Jalk.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: created heaven, earth, and air
+  literal_form: Heaven, earth, air, and all things in them.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: imperishable spirit
+  literal_form: A spirit given to man that shall live and never perish.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: body as dust or ashes
+  literal_form: The body may turn to dust or burn to ashes.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Gimle or Vingolf
+  literal_form: Dwellings where those who live a life of virtue shall dwell with the
+    god.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Hel, Niflhel, and the ninth world
+  literal_form: The wicked go to Hel, then to Niflhel, down into the ninth world.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Question about the highest god
+  summary: Ganglere asks who is the highest and oldest god, and Har identifies the
+    god as Alfather with twelve names.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine rule and creation
+  summary: Ganglere asks about the god's location, powers, and works; Har describes
+    everlasting rule, Jafnhar describes creation of heaven, earth, air, and their
+    contents, and Thride describes the creation of man and the gift of spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Postmortem destinations
+  summary: Thride states that the virtuous shall dwell with the god in Gimle or Vingolf,
+    while the wicked go to Hel and then to Niflhel, down into the ninth world.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Before heaven and earth
+  summary: Ganglere asks what the god was doing before heaven and earth were made,
+    and Har answers that he was with the frost-giants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: supreme creator and ruler
+  taxonomy_refs: []
+  basis: The passage names Alfather as the highest and oldest god, says he lives everlasting,
+    governs all things, and made heaven, earth, air, and man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly labels creator-god cosmogony; the
+    motif label is descriptive.
+- id: motif:2
+  label: creation of humanity with imperishable spirit
+  taxonomy_refs: []
+  basis: Thride says the god made man and gave him a spirit that shall live and never
+    perish even when the body becomes dust or ashes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe birth, lineage, or ritual; no parent-child
+    taxonomy is assigned.
+- id: motif:3
+  label: moral afterlife destinations
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  - duality
+  basis: The virtuous dwell with the god in Gimle or Vingolf, while the wicked go
+    to Hel and then to Niflhel, down into the ninth world.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives moral destinations but does not narrate an explicit
+    judgment scene or tribunal.
+- id: motif:4
+  label: descent to a lower world after death
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The wicked go to Hel and then to Niflhel, described as down into the ninth
+    world.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a destination sequence but does not describe the travel
+    process in detail.
+- id: motif:5
+  label: catalogue of divine names
+  taxonomy_refs:
+  - wisdom
+  basis: Har answers a theological question by identifying Alfather through a list
+    of twelve names used in Asgard of old.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wisdom taxonomy is applied to the instructional question-and-answer
+    context; the passage itself does not call the name-list a wisdom rite.
+- id: motif:6
+  label: pre-creation association with frost-giants
+  taxonomy_refs: []
+  basis: Har says that before heaven and earth were made, Alfather was with the frost-giants.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explain the nature of the association or give a broader
+    primordial narrative here.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared to an afterlife journey-map and moral afterlife
+    allocation pattern because it distinguishes the dwelling of the virtuous from
+    a downward sequence for the wicked to Hel, Niflhel, and the ninth world.
+  claim_level: same_motif
+  target: afterlife_journey_map and divine_judgment motif families
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate a full journey, judgment procedure, or
+    ritual passage; it only states destinations.
+- id: claim:2
+  claim: The passage has the same function as a creator-deity cosmogony pattern because
+    the highest god is credited with making heaven, earth, air, their contents, man,
+    and spirit.
+  claim_level: same_function
+  target: creator-deity cosmogony pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific external tradition or historical relationship is supported
+    by this passage alone.
+- id: claim:3
+  claim: The dialogue frame can be compared to a wisdom-instruction pattern, since
+    Ganglere asks theological and cosmological questions and named respondents provide
+    answers.
+  claim_level: same_function
+  target: wisdom instruction pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage presents exposition through dialogue, but it does not explicitly
+    mark the exchange as a wisdom contest or initiation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1122-1132
+  quote_or_summary: Ganglere asks, 'Who is the highest and oldest of all the gods?'
+    Har answers that he is called Alfather and lists twelve names used in old Asgard.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1132-1136
+  quote_or_summary: Ganglere asks where the god is, what he can do, and what works
+    he has accomplished; Har says he lives from everlasting to everlasting, rules
+    his realm, and governs all things great and small.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 1136-1137
+  quote_or_summary: 'Jafnhar says: ''He made heaven and earth, the air and all things
+    in them.'''
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 1137-1140
+  quote_or_summary: Thride says the god made man and gave him a spirit that shall
+    live and never perish, even though the body may become dust or ashes.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 1140-1141
+  quote_or_summary: Those who live virtuously 'shall dwell with him in Gimle or Vingolf.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 1141-1143
+  quote_or_summary: The wicked 'go to Hel, and from her to Niflhel, that is, down
+    into the ninth world.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: 1143-1144
+  quote_or_summary: Ganglere asks what the god was doing before heaven and earth were
+    made; Har answers that he was with the frost-giants.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based directly on the supplied passage. Motif labels involving
+    judgment, wisdom, and cosmogony are descriptive and require human review for taxonomy
+    alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external Norse mythological context was used beyond the supplied passage and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-prose-edda-anderson-gutenberg__l1122-l1144
+  passage_sha256=6f7489a10513525bcb05b444b27778eb60826c4fd9bd0ec622f36af535377e42
+

@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l10741-l10797
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: XVII. / PHILOSOPHY. / XVIII. / RIDDLES.; lines 10741-10797
+  start: '10741'
+  end: '10797'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of numbered riddles and answers treats baptism, household objects,
+    family relations, trades, legal authority, the devil, animals, money, marriage,
+    and verbal puns such as holy/holey.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage consists of numbered riddles, each followed by an answer.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: One riddle asks about something on earth that God could do but did not, the
+    devil lacks power to do, and men do; the answer is baptism.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several riddles rely on resemblance or wordplay between paired subjects, including
+    tailor and plantain, lady and chair, judge and mile-post, devil and shoemaker,
+    money and matrimony, and bible and moth-eaten coat.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Domestic and family subjects appear in riddles about a dirty woman’s house,
+    a man’s daughter, Mr. Bigger and his baby, and matrimony.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: An animal riddle asks what an elephant’s tail will cover; the answer is the
+    skin.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named in the baptism riddle as able to do something but not having
+    done it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: devil
+  description: 'Named in two riddles: as lacking power in the baptism riddle and as
+    resembling a shoemaker by seeking a sinner’s soul.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: men
+  description: Named as those who perform baptism in the riddle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: dirty woman
+  description: A woman whose house is the setting for the egg riddle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: daughter
+  description: Given as the best furniture for a man’s house.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: tailor
+  description: Compared with a plantain because one cuts to fit.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: well-dressed lady
+  description: Compared with a chair because both use pins.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: judge
+  description: Compared with a mile-post by a pun on justifying the law and the mile.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: shoemaker
+  description: Compared with the devil because the shoemaker seeks a boot sole.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Mr. Bigger and baby
+  description: Named in a riddle where the baby is called a little Bigger.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:11
+  name_or_label: elephant
+  description: Appears in a riddle about four feet covering four acres and the tail
+    covering the skin.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine actor in riddle premise
+  assigned_to:
+  - fig:1
+  basis: God is named as able to do the unnamed act but not having done it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: devil figure in riddle wordplay
+  assigned_to:
+  - fig:2
+  basis: The devil is named in riddles involving powerlessness and a pun on soul/sole.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: human performers
+  assigned_to:
+  - fig:3
+  basis: Men are identified as doing baptism.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: householder in domestic riddle
+  assigned_to:
+  - fig:4
+  basis: The riddle asks about the cleanest thing in a dirty woman’s house.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: valued household relation
+  assigned_to:
+  - fig:5
+  basis: The daughter is the answer to the riddle about the best furniture for a man’s
+    house.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: paired subject in resemblance riddle
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These figures are each paired with another item through resemblance or punning
+    explanation.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: name-pun subjects
+  assigned_to:
+  - fig:10
+  basis: Mr. Bigger and his baby are used for a pun in which the baby is a little
+    Bigger.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: animal subject in measurement riddle
+  assigned_to:
+  - fig:11
+  basis: The elephant’s feet and tail are used in the riddle question and answer.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: baptism
+  literal_form: baptism
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: egg
+  literal_form: egg
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: plantain
+  literal_form: plantain
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pins
+  literal_form: pins used by a well-dressed lady and a chair
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: mile-post
+  literal_form: mile-post
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: boot sole / sinner’s soul
+  literal_form: pun between boot sole and sinner’s soul
+  associated_figures:
+  - fig:2
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: matrimony as hard money to change
+  literal_form: matrimony treated as money by sound-play
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: holy/holey bible and coat
+  literal_form: moth-eaten coat and bible linked by holy/holey
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Baptism riddle
+  summary: A riddle contrasts God, the devil, and men in relation to baptism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Domestic and resemblance riddles
+  summary: Riddles identify an egg as clean in a dirty house, a daughter as household
+    furniture, and several paired subjects as resembling each other through practical
+    or verbal links.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Name, animal, money, and holy/holey riddles
+  summary: Riddles use a name-pun on Bigger, an elephant tail question, matrimony
+    as hard money to change, and a holy/holey pun linking a bible and a moth-eaten
+    coat.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: riddling as verbal wisdom and wit
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is a sequence of riddles whose answers depend on verbal inference,
+    puns, and clever reinterpretation of the question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents riddles rather than
+    an extended wisdom narrative.
+- id: motif:2
+  label: pun-based resemblance riddle
+  taxonomy_refs: []
+  basis: Multiple riddles ask why two unlike things resemble each other and answer
+    through phonetic or semantic wordplay, such as soul/sole and holy/holey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy ID specifically names punning or riddle resemblance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10741-10745; riddle 264
+  quote_or_summary: Riddle 264 asks what God could do but did not, the devil lacks
+    power to do, and men do; the answer is baptism.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 10747-10777; riddles 265-270
+  quote_or_summary: Riddles 265-270 answer with egg, daughter, tailor/plantain, well-dressed
+    lady/chair using pins, judge/mile-post, and devil/shoemaker through soul/sole
+    wordplay.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 10779-10797; riddles 271-274
+  quote_or_summary: Riddles 271-274 use a Bigger/bigger name-pun, an elephant tail
+    covering the skin, matrimony as hard money to change, and a holy/holey link between
+    a bible and a moth-eaten coat.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is limited because
+    the passage is a short riddle list and only a broad wisdom taxonomy reference
+    is available. No passage-supported comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l10741-l10797
+  passage_sha256=05fae8e5a19d35a594211460d69143fceda82567d3c878ea1fe94067fa9ef01d
+

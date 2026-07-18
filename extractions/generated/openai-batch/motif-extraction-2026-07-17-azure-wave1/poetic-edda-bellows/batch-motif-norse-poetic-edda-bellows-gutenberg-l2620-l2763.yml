@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l2620-l2763
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: HOVAMOL / THE BALLAD OF THE HIGH ONE / INTRODUCTORY NOTE / NOTES; lines 2620-2763
+  start: '2620'
+  end: '2763'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on Hovamol describing manuscript variants, transpositions,
+    interpolations, and source-critical issues. The notes also identify mythic references
+    including the heron as a bird of forgetfulness, Gunnloth as daughter of the giant
+    Suttung, Othin winning the mead of poetry, runes as magic signs, Othin's unsuccessful
+    love-affair with Billing's daughter, and the later introduction of the story of
+    Othin and the mead of song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies the heron as the bird of forgetfulness.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gunnloth is described as the daughter of the giant Suttung.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Othin is said to have won the mead of poetry from Gunnloth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Fjalar is described as apparently another name for Suttung.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Fitjung, glossed as the Nourisher, is identified with Earth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A stanza's reference to runes as magic signs is said to suggest that it belongs
+    in a list of charms.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The editor describes stanzas 81-102 as a chaotic passage involving inserted
+    material on women, untrustworthy things, love, and Othin's story with Billing's
+    daughter.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Stanzas 96-102 are said to illustrate the falseness of woman through Othin's
+    unsuccessful love-affair with Billing's daughter.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The note says the virtues of fair speech account for the introduction of the
+    story of Othin and the mead of song in stanzas 104-110.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Othin
+  description: Named as the figure who won the mead of poetry from Gunnloth; also
+    associated with an unsuccessful love-affair with Billing's daughter and with the
+    story of the mead of song.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Gunnloth
+  description: Daughter of the giant Suttung, from whom Othin won the mead of poetry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Suttung
+  description: A giant and father of Gunnloth; Fjalar is apparently another name for
+    him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Fjalar
+  description: Apparently another name for Suttung.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the heron
+  description: Identified as the bird of forgetfulness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Billing's daughter
+  description: Person involved in Othin's unsuccessful love-affair; the note says
+    nothing else is known of her beyond what is told there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: winner of the mead of poetry
+  assigned_to:
+  - fig:1
+  basis: Othin is said to have won the mead of poetry from Gunnloth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: giant's daughter and source of the mead
+  assigned_to:
+  - fig:2
+  basis: Gunnloth is identified as daughter of Suttung and as the figure from whom
+    Othin won the mead of poetry.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: giant / alternate-name bearer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Suttung is called a giant, and Fjalar is described as apparently another
+    name for Suttung.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: bird of forgetfulness
+  assigned_to:
+  - fig:5
+  basis: The heron is explicitly identified as the bird of forgetfulness.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: participants in unsuccessful love-affair
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The notes describe Othin's unsuccessful love-affair with Billing's daughter.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: bird of forgetfulness
+  literal_form: heron
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mead of poetry / mead of song
+  literal_form: mead
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: runes as magic signs
+  literal_form: runes
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Fitjung the Nourisher as Earth
+  literal_form: Earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Othin wins the mead of poetry
+  summary: The note refers to an episode in which Othin won the mead of poetry from
+    Gunnloth, daughter of the giant Suttung.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Runes placed among charms
+  summary: A stanza's reference to runes as magic signs is interpreted by the editor
+    as belonging more properly to a list of charms.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Othin and Billing's daughter
+  summary: The notes describe stanzas 96-102 as Othin's unsuccessful love-affair with
+    Billing's daughter, used to illustrate the falseness of woman.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Introduction of the mead of song story
+  summary: The note says that the virtues of fair speech introduce the story of Othin
+    and the mead of song in stanzas 104-110.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Acquisition of poetic mead
+  taxonomy_refs:
+  - wisdom
+  basis: Othin is said to have won the mead of poetry from Gunnloth; a later note
+    calls it the mead of song.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The passage is an editorial note, not the narrative itself; it says Othin
+    won the mead but does not describe how.
+- id: motif:2
+  label: Runes as magical signs used in charms
+  taxonomy_refs:
+  - wisdom
+  basis: The note explicitly connects runes as magic signs with a probable list of
+    charms.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage only summarizes the stanza's reference and does not give the
+    charm list itself.
+- id: motif:3
+  label: Bird of forgetfulness
+  taxonomy_refs: []
+  basis: The heron is identified as the bird of forgetfulness.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The note does not narrate an episode involving the bird.
+- id: motif:4
+  label: Unsuccessful love-affair as illustrative episode
+  taxonomy_refs: []
+  basis: The notes describe Othin's story with Billing's daughter as an unsuccessful
+    love-affair used illustratively in stanzas 96-102.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage frames the story through the editor's source-critical commentary
+    and gives minimal narrative detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a textual parallel between a Hovamol stanza and Snorri/most
+    Prose Edda manuscripts, noting that the stanza is quoted by Snorri with one line
+    omitted in most manuscripts.
+  claim_level: linguistic_similarity
+  target: Snorri and Prose Edda manuscripts
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual quotation/omission claim, not evidence of shared
+    motif content by itself.
+- id: claim:2
+  claim: The passage supports a textual parallel between lines of Hovamol stanza 84
+    and Fostbrthrasaga, because the notes state that lines 3 and 4 are quoted there.
+  claim_level: linguistic_similarity
+  target: Fostbrthrasaga
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports quotation only and does not provide enough detail
+    for broader motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2620-2763; note 13
+  quote_or_summary: The heron is identified as the bird of forgetfulness; Gunnloth
+    is named as daughter of the giant Suttung, from whom Othin won the mead of poetry.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 2620-2763; note 14
+  quote_or_summary: Fjalar is described as apparently another name for Suttung; the
+    stanza and probably the preceding one are called illustrative insertions.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 2620-2763; note 76
+  quote_or_summary: The note identifies Fitjung, glossed as the Nourisher, with Earth.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 2620-2763; note 79
+  quote_or_summary: The stanza's reference to runes as magic signs is said to suggest
+    that it belongs in a list of charms such as the Ljothatal.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 2620-2763; note 81
+  quote_or_summary: The editor describes a process in which stanzas about love, women,
+    fickleness, untrustworthy things, and Othin's story with Billing's daughter were
+    inserted, producing a chaotic passage from stanzas 81-102.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 2620-2763; note 96
+  quote_or_summary: Stanzas 96-102 are said to illustrate the falseness of woman by
+    the story of Othin's unsuccessful love-affair with Billing's daughter; the note
+    adds that nothing else is known of her beyond this account.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 2620-2763; note 103
+  quote_or_summary: The subject changes abruptly; the virtues of fair speech are said
+    to account for the introduction of the story of Othin and the mead of song in
+    stanzas 104-110.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 2620-2763; note 1
+  quote_or_summary: A stanza is reported as quoted by Snorri, with the second line
+    omitted in most Prose Edda manuscripts.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: lines 2620-2763; note 84
+  quote_or_summary: Lines 3 and 4 of stanza 84 are reported as quoted in Fostbrthrasaga.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explicit editorial notes. Motif confidence is lower
+    where the notes only allude to narratives rather than presenting them directly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only passage-supplied details were used. Most of the line range consists of editorial notes on manuscript condition and stanza order; extraction focuses on explicit mythic references and reported textual parallels.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l2620-l2763
+  passage_sha256=72fe8fab17ea5203aeee00d006c2b7f9d04511195f219ea08171650e7383d0c6
+

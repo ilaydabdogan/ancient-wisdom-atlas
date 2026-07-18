@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l392-l462
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: Persian Literature, Volume 1 / PERSIAN LITERATURE / SPECIAL INTRODUCTION;
+    lines 392-462
+  start: '392'
+  end: '462'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage surveys Persian lyric poetry and presents Hafiz as its greatest
+    poet: a Shiraz-based lyricist, associated with wine, love, nature, Sufi symbolism,
+    veiled language, and imagery in which literal and mystical meanings are difficult
+    to separate. It also includes images of paradise, willow shade, serpent-like asceticism,
+    fire persisting in a dead heart, and seasonal language for the decline of Persian
+    letters.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes lyric poetry from heroic and didactic forms and
+    says early Persian poets sang of love, wine, youth, and nature without necessarily
+    drawing a moral or illustrating a tale.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hafiz is described as the greatest Persian lyric poet and as born and dead
+    at Shiraz.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: War and strife are said to have surrounded Hafiz's country and native place,
+    but the passage says no trace of this appears in his poems.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hafiz is described as largely remaining in Shiraz; the passage records only
+    one trip, to Yezd, after which he soon returned.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Hafiz put on the garb of a Dervish, while also saying he
+    was free of Dervish conceit.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A saying attributed to Hafiz calls the ascetic the serpent of his age.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage presents Hafiz as a poet of melody, imagery, delicate rhythms,
+    present joy, and ethical humanity.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hafiz is quoted as contrasting the Garden of Paradise with the shade of the
+    willow-tree and the margin of the fruitful field.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Shah Shuja is reported as saying that Hafiz wrote in one song of wine, Sufism,
+    and the object of his affection.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Sufism is described as using veiled language and treating everyday things
+    as symbols of the highest transcendentalism.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage says readers may be unable to tell whether Hafiz's bodies, wine,
+    and love are literal or have a mystic background.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Hafiz is quoted as imagining his grave opened after death, with smoke rising
+    from it and fire still burning in his dead heart and winding-sheet.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The passage says Persia's political downfall prevented another spring and
+    summer of literary greatness, leaving the land's pride in its past.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Shams al-Din Mohammed Hafiz
+  description: Persian lyric poet described as greatest among Persian lyric poets,
+    born and dead at Shiraz, associated with melody, imagery, Sufi symbolism, wine,
+    love, and grave-fire imagery.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: early Persian lyric poets of sentiment
+  description: Poets who sang of love, wine, youth, and nature and charmed their hearers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Shah Shuja
+  description: Person reported as addressing Hafiz about his writing of wine, Sufism,
+    and the object of affection in one song.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the ascetic
+  description: A generalized figure in a saying attributed to Hafiz, called the serpent
+    of his age.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: lyric poet or songmaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage presents early poets and Hafiz as singers of lyric subjects such
+    as love, wine, youth, and nature.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Sufi poet
+  assigned_to:
+  - fig:1
+  basis: The passage states that Hafiz was a thorough Sufi and discusses Sufi dimensions
+    of his poetry.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: reported critic of asceticism
+  assigned_to:
+  - fig:1
+  basis: A saying put into Hafiz's mouth identifies the ascetic as the serpent of
+    his age.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: interlocutor or commentator
+  assigned_to:
+  - fig:3
+  basis: Shah Shuja is reported as commenting directly on Hafiz's combination of wine,
+    Sufism, and affection in a song.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: criticized ascetic type
+  assigned_to:
+  - fig:4
+  basis: The ascetic is the target of the reported serpent saying.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wine
+  literal_form: wine sung by lyric poets and by Hafiz
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: love or object of affection
+  literal_form: love, object of affection, or beloved-like focus in lyric and Sufi
+    song
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: serpent
+  literal_form: the ascetic called the serpent of his age
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Dervish garb
+  literal_form: garb of a Dervish worn by Hafiz, according to the passage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Garden of Paradise
+  literal_form: Garden of Paradise described as pleasant
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: willow-tree and fruitful field
+  literal_form: shade of the willow-tree and fair margin of the fruitful field
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: grave and smoke
+  literal_form: opened grave with a cloud of smoke rising from it
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: fire in the dead heart
+  literal_form: fire still burning in Hafiz's dead heart and setting the winding-sheet
+    alight
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: spring and summer
+  literal_form: another spring and summer used for renewed literary flourishing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: lyric tradition beyond heroic and didactic poetry
+  summary: The passage introduces a tradition of Persian poets who sang of love, wine,
+    youth, and nature apart from moral or heroic storytelling.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hafiz in Shiraz amid unrest
+  summary: Hafiz is described as living and singing at Shiraz, largely untouched in
+    his poetry by the wars and strife around him and uninterested in travel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: serpent saying against the ascetic
+  summary: A saying attributed to Hafiz identifies the ascetic as the serpent of his
+    age.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: earthly landscape beside paradise
+  summary: Hafiz is quoted as acknowledging the Garden of Paradise while urging remembrance
+    of willow shade and the fruitful field.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Sufi ambiguity of wine, affection, and bodies
+  summary: The passage reports that Hafiz's songs combine wine, Sufism, and affection,
+    and says that readers may not know whether the images are literal or mystical.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:6
+  label: posthumous smoke and heart-fire
+  summary: Hafiz is quoted as imagining smoke rising from his opened grave and fire
+    still burning in his dead heart and winding-sheet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: seasonal image of literary decline
+  summary: The passage says political downfall prevented another spring and summer
+    of Persian literary greatness, leaving pride in the past.
+  figure_refs: []
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: lyric celebration of love, wine, youth, and nature
+  taxonomy_refs: []
+  basis: The passage identifies a Persian lyric mode that sings of love, wine, youth,
+    and nature without moral or heroic framing, and presents Hafiz as its greatest
+    poet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literary pattern rather than a narrative myth motif.
+- id: motif:2
+  label: veiled Sufi symbolism of everyday things
+  taxonomy_refs: []
+  basis: The passage explicitly says Sufism uses veiled language and treats everyday
+    things as symbols of the highest transcendentalism, making Hafiz's wine, love,
+    and bodies hard to read as either literal or mystical.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not provide a systematic symbolic key; it emphasizes
+    ambiguity.
+- id: motif:3
+  label: ambiguous mortal or mystical beloved
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage says Hafiz writes of an object of affection and that readers
+    may not know whether the love is centered on a mortal being or has a mystic background.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: uncertain
+  cautions: The passage does not explicitly identify the beloved as divine; the taxonomy
+    reference is tentative.
+- id: motif:4
+  label: posthumous inner fire
+  taxonomy_refs: []
+  basis: Hafiz is quoted as imagining smoke from his grave and fire still burning
+    in his dead heart after death.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage itself calls the imagery extravagant while also saying it
+    has a ring of reality.
+- id: motif:5
+  label: ascetic as serpent
+  taxonomy_refs:
+  - serpent
+  basis: A saying attributed to Hafiz equates the ascetic with the serpent of his
+    age.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a reported aphoristic metaphor, not a full serpent narrative.
+- id: motif:6
+  label: seasonal metaphor for cultural flourishing and decline
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage says political downfall prevented another spring and summer of
+    Persian literature.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The seasonal language is a literary-historical metaphor rather than a
+    mythic seasonal cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 392-399
+  quote_or_summary: Persian lyric poets are described as singing of love, wine, youth,
+    and nature without moralizing or tale illustration.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 399-412
+  quote_or_summary: Hafiz is called the greatest Persian lyric poet; war and strife
+    leave no trace in his poems; he is tied to Shiraz, made one recorded trip to Yezd,
+    wore Dervish garb, and is associated with the saying that the ascetic is the serpent
+    of his age.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 414-424
+  quote_or_summary: The passage compares Hafiz with Omar Khayyam, describes Hafiz
+    as a poet of melody, imagery, rhythm, joy, and ethical humanity, and quotes him
+    on the Garden of Paradise, willow shade, and fruitful field.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 426-435
+  quote_or_summary: Hafiz is described as a thorough Sufi; Shah Shuja is reported
+    as saying he wrote of wine, Sufism, and affection in one song; Sufism is described
+    as veiled language that treats everyday things as symbols of transcendentalism.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 435-442
+  quote_or_summary: The passage says readers may be unsure whether Hafiz's bodies,
+    wine, and love are literal or mystical.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 442-448
+  quote_or_summary: Hafiz is quoted as imagining his opened grave emitting smoke,
+    with fire still burning in his dead heart and setting his winding-sheet alight;
+    Persians are said to regard him with special affection.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 450-459
+  quote_or_summary: The passage lists Firdusi, Omar, Sa'di, and Hafiz as literary
+    names of pride, says later revivals did not equal them, and says Persia's political
+    downfall prevented another spring and summer.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the supplied English passage only. Motif candidates
+    are mostly literary-symbolic rather than narrative mythic. No external comparison
+    claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata indicates public-domain text and allowed full-text use; short quotations were avoided in favor of summaries.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l392-l462
+  passage_sha256=c344d898ac57da438035f34bf8ab35b714335afb562d58ca426554712773d812
+

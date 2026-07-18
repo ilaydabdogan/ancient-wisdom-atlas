@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l21914-l22001
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 21914-22001
+  start: '21914'
+  end: '22001'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young count agrees to carry an old woman's bundle and baskets to her
+    house beyond a hill. The burden becomes unbearably heavy, cannot be cast off,
+    and the old woman eventually rides on it while forcing him onward. At her house,
+    where geese and her daughter are present, she lets him rest and then rewards him
+    with a small emerald book that she says will bring good fortune.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old woman asks the young man to help her by carrying her bundle, apples,
+    and pears to her house on the heath behind the hill.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young man identifies his father as a rich count and agrees to carry the
+    old woman's load.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bundle and baskets are described by the young man as extremely heavy,
+    like cobblestones and lead.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While climbing the hill, the stones roll under the young man's feet, he sweats,
+    and he asks to rest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the young man tries to throw off the bundle, it remains fastened to his
+    back as if it had grown there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The old woman jumps onto the bundle, seats herself on it, and strikes the
+    young man's legs with a switch and stinging-nettles when he does not continue.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At the old woman's house, geese run cackling to meet her, and a strong, large,
+    ugly old daughter appears with a stick.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: The old woman removes the bundle and baskets from the young man and tells
+    him to sit and rest because he has earned his wages.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The old woman strokes and fondles the geese as if they were children before
+    going into the house with her daughter.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The young man lies on a bench under a wild apple-tree in a warm meadow with
+    flowers, a clear brook, and white geese nearby.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: After waking him, the old woman gives the young man a little book cut from
+    a single emerald and says it will bring him good fortune.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The young man feels fresh and vigorous again, thanks the old woman, leaves
+    without looking back at the daughter, and later hears the geese in the distance.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young man / young count
+  description: A young man with a straight back and young legs who says his father
+    is a rich count; he carries the old woman's burden and receives the emerald book.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: old woman
+  description: An old woman who asks for help, loads the young man with her bundle
+    and baskets, forces him onward, has geese and a daughter at her house, and gives
+    him a fortune-bringing emerald book.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: old woman's daughter / goose-girl
+  description: A strong, big, ugly old woman-like daughter who carries a stick and
+    addresses the old woman as mother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: geese
+  description: The old woman's geese greet her at the house, are fondled by her, and
+    walk or paddle by the brook.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: burden-bearer
+  assigned_to:
+  - fig:1
+  basis: He carries the bundle and baskets, and later carries the old woman seated
+    on the bundle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: reward recipient
+  assigned_to:
+  - fig:1
+  basis: After the journey, he receives the little emerald book that is said to bring
+    good fortune.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: task-giver and enforcer
+  assigned_to:
+  - fig:2
+  basis: She asks him to carry the load, refuses to let him stop or cast it off, and
+    strikes his legs to make him continue.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: reward-giver
+  assigned_to:
+  - fig:2
+  basis: She tells him he has earned wages and gives him the emerald book.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: household daughter / goose-girl
+  assigned_to:
+  - fig:3
+  basis: She appears at the old woman's house among the geese and calls the old woman
+    mother.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: household flock
+  assigned_to:
+  - fig:4
+  basis: The geese greet the old woman, are treated fondly by her, and remain around
+    the house and brook.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: heavy burden
+  literal_form: bundle with baskets of apples and pears
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hill or mountain ascent
+  literal_form: hill / mountain climbed on the way to the old woman's house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: geese
+  literal_form: flock of geese and white geese by the brook
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: wild apple-tree
+  literal_form: wild apple-tree over the bench where the young man sleeps
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: clear brook
+  literal_form: clear brook through the meadow, with geese paddling in the water
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: emerald book
+  literal_form: little book cut out of a single emerald
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Request for help and loading of the burden
+  summary: The old woman asks the young man to carry her bundle and baskets to her
+    house, and he agrees despite identifying himself as the son of a rich count.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Climb under an uncanny burden
+  summary: The load becomes unbearable during the climb, cannot be thrown off, and
+    the old woman rides on it and forces the young man onward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Arrival at the old woman's house
+  summary: At the house, the geese greet the old woman, her daughter appears, and
+    the old woman removes the burden and tells the young man he has earned his wages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Rest in the meadow and emerald book reward
+  summary: The young man rests under a wild apple-tree near a brook, is woken by the
+    old woman, receives the emerald book, regains vigor, and departs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: burden-carrying ordeal on the way to an old woman's house
+  taxonomy_refs:
+  - initiation
+  basis: The young count is loaded with a heavy burden, made to climb a hill or mountain,
+    cannot cast off the load, and is forced to continue until reaching the old woman's
+    house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly call the ordeal an initiation; the taxonomy
+    link is based on the ordeal-and-completion structure.
+- id: motif:2
+  label: help to an old woman rewarded with a fortune-bringing object
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After carrying the old woman's burden and being told he has earned wages,
+    the young man receives a little emerald book that is said to bring good fortune.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage presents an exchange of service for reward, but it does not
+    explicitly identify the exchange as sacred or divine.
+- id: motif:3
+  label: uncanny old woman as tester and reward-giver
+  taxonomy_refs: []
+  basis: The old woman makes the young man endure a harsh task, mocks and enforces
+    his progress, then kindly rewards him with an extraordinary emerald book.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The role of tester is inferred from the sequence of hardship followed
+    by reward; the passage does not state her nature or motive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21914-21927
+  quote_or_summary: The old woman asks whether the young man will help carry her bundle,
+    apples, and pears to her house on the heath behind the hill; he says his father
+    is a rich count but agrees to carry them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 21927-21948
+  quote_or_summary: The young man complains that the bundle is as heavy as cobblestones
+    and the fruit as heavy as lead; on the hill he sweats, asks to rest, and cannot
+    throw off the bundle because it sticks to his back.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 21948-21964
+  quote_or_summary: The old woman promises a present, jumps onto the bundle, rides
+    on it, strikes the young man's legs with a switch and stinging-nettles, and he
+    reaches her house where geese run cackling to meet her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 21964-21980
+  quote_or_summary: The old woman's daughter appears and calls her mother; the old
+    woman removes the young man's load, says he has earned wages, sends the daughter
+    inside, and fondles the geese as if they were children.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 21980-21990
+  quote_or_summary: The young man lies on a bench under a wild apple-tree in a warm
+    meadow with flowers, a clear brook, sunlight, and white geese walking and paddling
+    in the water.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 21990-22001
+  quote_or_summary: The old woman wakes the young man, gives him a little book cut
+    from a single emerald, says it will bring good fortune, and he leaves refreshed
+    while still hearing the geese in the distance.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidates and require review, especially where broad taxonomy terms are used.
+    No passage-supported comparison claims were identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage does not itself support a comparison to another corpus or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l21914-l22001
+  passage_sha256=aa5386fcd92763dc14c416f294b2a3bf7736c694fe3d111b9e685690ee587b14
+

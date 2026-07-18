@@ -1,0 +1,609 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18846-l18933
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IX. / CHAPTER X. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 18846-18933
+  start: '18846'
+  end: '18933'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Opening passage of Chapter X, Jonas: the text presents the revealed book
+    as divine signs, defends revelation to a man among the Meccans, describes God
+    as creator and sovereign, declares return to God with reward and punishment, treats
+    celestial cycles and creation as signs, contrasts hell with gardens and rivers,
+    describes prayer in affliction and forgetfulness after deliverance, recalls destroyed
+    former generations, and rejects demands to alter the Koran and claims of other
+    intercessors.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter is identified as entitled Jonas and revealed at Mecca; its opening
+    letters are followed by a statement that these are signs of the wise book.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says divine will has been revealed to a man from among the Meccans
+    to warn people and give good tidings to believers, while unbelievers call it manifest
+    sorcery.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: God is described as creating the heavens and the earth in six days, ascending
+    the throne, governing all things, and allowing no intercessor except by permission.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: All are said to return to God; God produces a creature and causes it to return,
+    rewarding believers and punishing unbelievers with boiling water and grievous
+    punishment.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sun, moon, lunar stations, night and day, and created things in heaven
+    and earth are presented as signs by which people may know time and understand.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Those who do not hope to meet God at the last day are assigned hell fire,
+    while believers and righteous workers are directed to gardens of pleasure with
+    rivers, prayer, praise, and peace.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When evil befalls a man, he prays lying down, sitting, or standing; after
+    deliverance, he returns to his former course as if he had not prayed for help.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Former unjust generations were destroyed after apostles came to them with
+    evident miracles and they would not believe; the present audience is said to succeed
+    them in the earth as a test of action.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Some people ask for a different or changed Koran; the speaker answers that
+    he follows only what is revealed and fears punishment on the great day if disobedient.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: People worship beings or things besides God that can neither hurt nor profit
+    them and call them intercessors; the text rejects this association and says people
+    once professed one religion but dissented.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: GOD / LORD
+  description: Creator, sovereign governor, revealer, judge, deliverer, and object
+    of worship in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: A man from among them / first-person messenger
+  description: Recipient and reciter of the revelation, commanded to warn and give
+    good tidings, and described as following only what is revealed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:3
+  name_or_label: Men of Mecca / addressed audience
+  description: Local audience to whom revelation is addressed and who are said to
+    have succeeded former generations in the earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:4
+  name_or_label: Unbelievers, transgressors, and wicked people
+  description: Those who reject signs, call the revelation sorcery, do not hope for
+    the last day or resurrection, and are associated with punishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Believers and righteous workers
+  description: Those who believe, do right, receive good tidings, are rewarded with
+    equity, and are directed to gardens of pleasure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Former generations
+  description: Earlier unjust peoples who were destroyed after rejecting apostles
+    and evident miracles.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Apostles
+  description: Messengers who came to former generations with evident miracles.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Worshipped entities besides God
+  description: Entities or objects worshipped besides God, described as unable to
+    hurt or profit and claimed by worshippers to be intercessors.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: Creator and sovereign governor
+  assigned_to:
+  - fig:1
+  basis: God creates the heavens and earth, ascends the throne, and governs all things.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Revealer, judge, rewarder, punisher, and deliverer
+  assigned_to:
+  - fig:1
+  basis: God reveals, causes return, rewards believers, punishes unbelievers, delivers
+    from affliction, and defers or enacts judgment.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:3
+  label: Messenger and reciter of revelation
+  assigned_to:
+  - fig:2
+  basis: The man among the people receives revelation to warn and bring good tidings
+    and states that he follows only what is revealed.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: Addressed successors in the earth
+  assigned_to:
+  - fig:3
+  basis: The audience is addressed as men of Mecca and told they were caused to succeed
+    former generations in the earth.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:5
+  label: Righteous recipients of reward
+  assigned_to:
+  - fig:5
+  basis: Believers and those who work righteousness receive good tidings, equitable
+    reward, divine direction, and gardens with rivers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:6
+  label: Rejecters subject to punishment
+  assigned_to:
+  - fig:4
+  basis: Unbelievers reject signs or resurrection and are associated with boiling
+    water, hell fire, grievous punishment, and wandering in error.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:7
+  label: Destroyed unjust predecessors
+  assigned_to:
+  - fig:6
+  basis: Former generations acted unjustly, rejected apostles and miracles, and were
+    destroyed.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: Prior apostolic witnesses
+  assigned_to:
+  - fig:7
+  basis: Apostles came to former generations with evident miracles.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: Alleged intercessors without power
+  assigned_to:
+  - fig:8
+  basis: The worshipped entities besides God are described as unable to hurt or profit
+    and are called intercessors by their worshippers.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Divine throne
+  literal_form: God ascends the throne and governs all things.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Boiling water of punishment
+  literal_form: Unbelievers drink boiling water as part of punishment.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Hell fire
+  literal_form: The dwelling of those who do not hope to meet God is hell fire.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Rivers in gardens of pleasure
+  literal_form: Rivers flow through gardens of pleasure for believers and righteous
+    workers.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Sun, moon, and lunar stations
+  literal_form: The sun shines by day, the moon is a light by night, and the moon
+    has stations for reckoning years and time.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Wise book / Koran
+  literal_form: The revealed book is called a wise book, recited as evident signs,
+    and contested by demands for alteration.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:7
+  label: Postures of distress prayer
+  literal_form: A man prays lying on his side, sitting, or standing when evil befalls
+    him.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Revelation to a local messenger contested as sorcery
+  summary: The opening presents the wise book as signs and says God revealed his will
+    to a man among the people to warn and give glad tidings; unbelievers call this
+    sorcery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation, throne, and divine government
+  summary: God creates the heavens and earth in six days, ascends the throne, governs
+    all things, and permits no intercession except by divine permission.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return to God with reward and punishment
+  summary: All return to God; believers are rewarded with equity, while unbelievers
+    receive boiling water and grievous punishment.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Celestial signs and reckoning of time
+  summary: The sun, moon, lunar stations, the alternation of night and day, and created
+    things in heaven and earth are identified as signs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Contrasted afterlife dwellings
+  summary: Those who do not hope for the last day are assigned hell fire, while believers
+    are directed to gardens with flowing rivers, praise, and peace.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Prayer in affliction and forgetfulness after deliverance
+  summary: A person afflicted by evil prays in various postures, but after divine
+    deliverance continues as though no prayer had been made.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Destruction of former generations and succession
+  summary: Earlier unjust generations reject apostles and miracles and are destroyed;
+    the current audience is made to succeed them in the earth.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:8
+  label: Demand to alter revelation and prophetic refusal
+  summary: Those who do not hope for resurrection ask for a different or changed Koran;
+    the messenger answers that he follows only revelation and fears the great-day
+    punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:9
+  label: False intercessors and religious dissent
+  summary: Worshippers claim powerless beings besides God as intercessors; the text
+    rejects this association and notes that people once professed one religion before
+    dissenting, while punishment is deferred by decree.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment with reward and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeatedly contrasts believers and unbelievers, assigning reward,
+    gardens, hell fire, boiling water, destruction of former peoples, and punishment
+    on the great day.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage is doctrinal and exhortative; the motif is identified from
+    repeated judgment language rather than from a narrative trial scene.
+- id: motif:2
+  label: Return and resurrection before God
+  taxonomy_refs:
+  - resurrection
+  - return
+  basis: The text states that all return to God, refers to the last day and resurrection,
+    and links this return with reward, punishment, and meeting God.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: Return and resurrection are theological assertions in this passage, not
+    a described journey narrative.
+- id: motif:3
+  label: Divine ascent to enthroned sovereignty
+  taxonomy_refs:
+  - ascent
+  basis: God is said to create the heavens and earth and then ascend the throne to
+    govern all things.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy term 'ascent' may also cover human or visionary ascent traditions;
+    here the passage specifically describes divine enthronement.
+- id: motif:4
+  label: Revealed wisdom rejected as sorcery or falsehood
+  taxonomy_refs:
+  - wisdom
+  basis: The wise book and evident signs are revealed through a messenger, while opponents
+    call the revelation sorcery, request changes, or accuse signs of falsehood.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage uses wisdom-language for the book, but it does not present
+    an extended wisdom quest or sapiential narrative.
+- id: motif:5
+  label: False intercessors rejected
+  taxonomy_refs: []
+  basis: The passage says some worship things besides God and call them intercessors,
+    but the text denies their power and rejects association with God.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names intercession or idolatry; therefore
+    no taxonomy reference is assigned.
+- id: motif:6
+  label: Prayer in distress followed by forgetfulness
+  taxonomy_refs: []
+  basis: An afflicted person prays to God in multiple bodily postures, but after deliverance
+    resumes former conduct as if no appeal had been made.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as a moral pattern rather than a full mythic
+    narrative.
+- id: motif:7
+  label: Destroyed predecessors and successor testing
+  taxonomy_refs:
+  - divine_judgment
+  basis: Former unjust generations are destroyed after rejecting apostles and miracles,
+    and the present audience is made to succeed them so their conduct may be observed.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a compressed historical-warning pattern; the specific former peoples
+    are not named in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18846-18857
+  quote_or_summary: Chapter X is titled Jonas and revealed at Mecca; the opening calls
+    the text signs of the wise book, describes revelation to a man among the people,
+    and reports unbelievers calling it sorcery.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 18858-18861
+  quote_or_summary: God creates the heavens and earth in six days, ascends the throne
+    to govern all things, and permits no intercessor except by permission.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 18862-18866
+  quote_or_summary: All return to God; God produces and returns creatures, rewards
+    believers justly, and punishes unbelievers with boiling water and grievous punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 18867-18872
+  quote_or_summary: God ordains sun and moon, lunar stations, time computation, night
+    and day, and creation in heaven and earth as signs for those who understand and
+    fear him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 18889-18899
+  quote_or_summary: Those not hoping to meet God at the last day have hell fire as
+    dwelling; believers and righteous workers have rivers through gardens of pleasure,
+    prayer, praise, and peace.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 18900-18908
+  quote_or_summary: God defers the end of those who reject resurrection; when evil
+    befalls a man he prays lying, sitting, or standing, then after deliverance resumes
+    his former life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 18909-18914
+  quote_or_summary: Former unjust generations were destroyed after apostles came with
+    evident miracles and they did not believe; the current audience is made successors
+    in the earth to see how they act.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 18915-18924
+  quote_or_summary: Those who do not hope for resurrection ask for a different or
+    changed Koran; the speaker says he follows only revelation and fears punishment
+    of the great day if disobedient.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 18925-18933
+  quote_or_summary: People worship powerless beings besides God and call them intercessors;
+    the text rejects such association and says people once professed one religion
+    but dissented, with punishment deferred by decree.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are strongest
+    for judgment, resurrection/return, rejected revelation, intercession, and distress
+    prayer. No external comparison claims were made because the passage itself does
+    not explicitly compare traditions or motif families beyond the provided taxonomy
+    matching.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All evidence uses concise summaries from the public-domain passage. Line locators are tied to the supplied stable line range and should be checked against the repository text during review.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18846-l18933
+  passage_sha256=1032c955e62e38d9d5519d92bb089b05b17d288990243094738032451cdad562
+

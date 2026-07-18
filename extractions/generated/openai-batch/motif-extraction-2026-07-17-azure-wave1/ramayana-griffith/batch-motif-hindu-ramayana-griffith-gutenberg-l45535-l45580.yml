@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l45535-l45580
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto III. The Guardian Goddess. / Canto IV. Within The City. / Canto VI.
+    The Court. / Canto VIII. The Enchanted Car.; lines 45535-45580
+  start: '45535'
+  end: '45580'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a luxurious sleeping chamber with a crystal dais,
+    couches, canopy, ornaments, and fan-bearing female figures. The Vánar approaches
+    and observes the sleeping monarch of the giants/fiends, whose body is described
+    with serpent, mountain, Indra, Airávat, and thunderbolt imagery. The king’s spouses
+    sleep around him; Mandodarí, the favorite queen, lies by his side. The Vánar,
+    seeing her exceptional beauty, thinks she must be the Maithil queen he seeks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A crystal dais with couches, gold, gems, soft skins, and a pale canopy is
+    described as a place of repose.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Female figures are said to fan the faces of the sleepers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The monarch of the giants lies asleep, perfumed with sandal and adorned with
+    golden ornaments and glittering robes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Vánar comes nearer in order to view the monarch of the fiends.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king is stretched supine, fatigued with play and drunk with wine; his
+    breath is compared to hissing serpents.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The king’s arms are extended and compared to shafts bearing Indra’s flag.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Scars on the king’s body are attributed to Airávat’s tusk and the thunderbolt.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The spouses of the giant king sleep around their lord, wearing sparkling earrings
+    and compared in beauty to the moon.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Mandodarí, the favorite queen, is seen by her husband’s side and is described
+    as more beautiful than the other royal ladies.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Vánar concludes in thought that Mandodarí must be the Maithil queen he
+    has come to seek.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Vánar
+  description: A Vánar who approaches the sleeping monarch to view him and who is
+    seeking the Maithil queen.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Monarch of the giants / monarch of the fiends
+  description: A giant king lying asleep on a splendid couch, adorned with sandal
+    scent, gold, robes, and bodily scars.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Mandodarí
+  description: The favorite queen, seen by her husband’s side and judged by the Vánar
+    to be more beautiful than the other royal ladies.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: The Maithil queen
+  description: The queen whom the Vánar has come to seek; she is named only in the
+    Vánar’s thought in this passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Spouses of the giant king
+  description: The giant king’s spouses sleep around their lord, adorned with sparkling
+    earrings.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: observer
+  assigned_to:
+  - fig:1
+  basis: The Vánar comes nearer to view the sleeping monarch.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: searcher for the Maithil queen
+  assigned_to:
+  - fig:1
+  basis: The Vánar thinks of Mandodarí as the matchless dame he has come to seek and
+    as the Maithil queen.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: sleeping monarch
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly describes the monarch of the giants/fiends lying asleep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: husband and lord of sleeping spouses
+  assigned_to:
+  - fig:2
+  basis: His spouses sleep around their lord, and Mandodarí is seen by her husband’s
+    side.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: favorite queen
+  assigned_to:
+  - fig:3
+  basis: Mandodarí is explicitly called the favorite queen.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: mistakenly identified as the sought queen
+  assigned_to:
+  - fig:3
+  basis: The Vánar sees Mandodarí and thinks she must be the Maithil queen.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: sought queen
+  assigned_to:
+  - fig:4
+  basis: The Vánar refers to the Maithil queen as the matchless dame he came to seek.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: sleeping royal spouses
+  assigned_to:
+  - fig:5
+  basis: The spouses of the giant king are described as slumbering around him.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Crystal dais and couch of repose
+  literal_form: A crystal dais with couches, gold, gems, soft animal skins, and a
+    pale canopy.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Serpent-like breath
+  literal_form: The sleeping king’s breath is compared to hissing serpents.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Mountain-like sleeping king
+  literal_form: The king is compared to Mandar’s mighty hill asleep with flowering
+    trees on its slope.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Indra flagstaff arms
+  literal_form: The king’s extended arms are compared to towering shafts that bear
+    Indra’s flag.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Airávat and thunderbolt scars
+  literal_form: Red scars from Airávat’s tusk and dents from the thunderbolt are displayed
+    on the king’s breast and shoulders.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Moon-like beauty and canopy
+  literal_form: The canopy is compared to moonlight, and the sleeping spouses are
+    compared in fairness to the moon.
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Luxurious sleeping chamber
+  summary: A crystal dais with couches, animal skins, gold, gems, a pale canopy, and
+    female fan-bearing figures is presented as the setting of repose.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vánar observes the sleeping giant king
+  summary: The Vánar approaches the sleeping monarch of the giants/fiends and sees
+    him supine, perfumed, ornamented, drunk with wine, serpent-breathed, and marked
+    by divine-combat scars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sleeping spouses around the monarch
+  summary: The giant king’s spouses sleep around him, and Mandodarí is seen by his
+    side as the favorite queen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mistaken recognition of Mandodarí
+  summary: The Vánar observes Mandodarí’s beauty and thinks that she must be the Maithil
+    queen he has come to seek.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Observer enters a royal sleeping chamber
+  taxonomy_refs: []
+  basis: The passage places the Vánar inside a luxurious chamber where he observes
+    the sleeping monarch and his household.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state the full circumstances of entry; the role of
+    the Vánar beyond observation and search is limited to this excerpt.
+- id: motif:2
+  label: Search for a hidden or absent queen
+  taxonomy_refs: []
+  basis: The Vánar explicitly thinks of the Maithil queen as the matchless woman he
+    has come to seek.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not state why the Maithil queen is absent or whether
+    she has been stolen.
+- id: motif:3
+  label: False recognition of the sought woman
+  taxonomy_refs: []
+  basis: The Vánar sees Mandodarí and concludes that she must be the Maithil queen
+    he is seeking.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the Vánar’s thought but does not itself confirm the
+    broader narrative consequences of the mistake.
+- id: motif:4
+  label: Monstrous royal body marked by divine combat
+  taxonomy_refs: []
+  basis: The sleeping king is described with serpent-like breath, huge arms, and scars
+    from Airávat’s tusk and the thunderbolt.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives bodily imagery and marks but not the combat events themselves.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the sleeping giant king to Mandar’s mighty
+    hill, creating a visual analogy between royal bodily scale and mountain imagery.
+  claim_level: visual_similarity
+  target: Mandar hill / mountain imagery
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit simile within the passage; no broader historical
+    or genealogical motif relation is inferred.
+- id: claim:2
+  claim: The scars attributed to Airávat’s tusk and the thunderbolt link the king’s
+    body to divine-combat imagery associated with Indra’s elephant and weapon.
+  claim_level: visual_similarity
+  target: Indra, Airávat, and thunderbolt combat imagery
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage mentions the marks but does not narrate the combat or specify
+    its context.
+- id: claim:3
+  claim: The king’s breath is compared to hissing serpents, supporting a localized
+    serpent-image comparison rather than evidence of an actual serpent being present.
+  claim_level: visual_similarity
+  target: serpent imagery
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is figurative in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 45535-45544
+  quote_or_summary: A crystal dais rises with couches, gold, gems, soft animal skins,
+    a pale canopy, and female figures fanning the sleepers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 45545-45554
+  quote_or_summary: The monarch of the giants lies asleep, dark as a cloud, perfumed
+    with sandal, adorned with gold and glittering robes, compared to Mandar hill;
+    the Vánar draws near to view him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 45555-45566
+  quote_or_summary: The king lies supine, fatigued and drunk; his breath is like hissing
+    serpents, his arms are compared to Indra’s flagstaffs, and scars from Airávat’s
+    tusk and the thunderbolt mark his body.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 45567-45572
+  quote_or_summary: The giant king’s spouses sleep around their lord, adorned with
+    sparkling earrings and compared in beauty to the moon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 45573-45580
+  quote_or_summary: Mandodarí, the favorite queen, is seen by her husband’s side;
+    the Vánar sees her surpassing beauty and thinks she must be the Maithil queen
+    he seeks.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal scene and figures are clear within the supplied passage. Motif
+    labels are cautious because the excerpt does not include the surrounding narrative
+    circumstances of the search or prior conflicts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No identification of unnamed figures beyond the labels present in the excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l45535-l45580
+  passage_sha256=db34beacf90a3fa3cee673f93d94b1704e2b128a8e66ea038b9c2073efb18855
+

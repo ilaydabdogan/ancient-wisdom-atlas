@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37942-l37996
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXI. / ENTITLED, THE FOLDING
+    UP; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 37942-37996
+  start: '37942'
+  end: '37996'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: every soul shall know what it hath wrought.
+  summary: The passage describes eschatological signs in which the sun, stars, mountains,
+    animals, seas, souls, books, heaven, hell, and paradise are transformed or disclosed.
+    It then swears by stars, night, and morning, affirms that the words come through
+    an honourable messenger, denies that Mohammed is distracted or that the words
+    are from a devil, and presents the message as an admonition whose acceptance depends
+    on God's will.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The sun is said to be folded up.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stars are said to fall, and later are described as retrograde, swift-moving,
+    and hiding themselves.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: The mountains are said to pass away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Camels ten months pregnant are said to be neglected.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Wild beasts are said to be gathered together.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The seas are said to boil.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:7
+  text: Souls are said to be joined again to their bodies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: A girl buried alive is said to be asked for what crime she was put to death.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: obs:9
+  text: Books are said to be laid open.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Heaven is said to be removed; hell is said to burn fiercely; paradise is said
+    to be brought near.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: Every soul is said to know what it has wrought.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:12
+  text: An oath is made by the stars, the night when it comes on, and the morning
+    when it appears.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: The words are attributed to an honourable messenger who is strong, dignified
+    before the possessor of the throne, obeyed by angels, and faithful.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Mohammed is called the hearers' companion and is said not to be distracted;
+    he is said to have seen the messenger in the clear horizon and not to have suspected
+    the revealed secrets.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The words are denied to be the words of an accursed devil.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:16
+  text: The passage calls the message an admonition to all creatures and to anyone
+    willing to walk uprightly, while stating that willing depends on God's will.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: every soul
+  description: The collective souls who are joined again to their bodies and know
+    what they have wrought.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the girl buried alive
+  description: A girl put to death by burial alive and asked for what crime she was
+    killed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:3
+  name_or_label: honourable messenger
+  description: A messenger described as honourable, strong, faithful, dignified in
+    the sight of the possessor of the throne, and obeyed by angels under his authority.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: GOD, the LORD of all creatures
+  description: The deity whose will conditions human willing and who is named as the
+    Lord of all creatures; the passage also refers to the possessor of the throne.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Mohammed / your companion
+  description: Mohammed is described as not distracted, as having seen the messenger
+    in the clear horizon, and as not suspecting the secrets revealed to him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: angels under the messenger's authority
+  description: Angels are described as obeying the honourable messenger under his
+    authority.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: accursed devil
+  description: A devil mentioned only in order to deny that the words are from him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: resurrected and accountable souls
+  assigned_to:
+  - fig:1
+  basis: Souls are joined again to bodies, books are opened, and every soul knows
+    what it has wrought.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: wrongfully killed questioned victim
+  assigned_to:
+  - fig:2
+  basis: The buried-alive girl is asked for what crime she was put to death; the note
+    contextualizes the practice of burying daughters alive.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:3
+  label: revelatory messenger
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the words as those of an honourable messenger endowed
+    with strength, dignity, angelic obedience, and faithfulness.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine lord and determiner of will
+  assigned_to:
+  - fig:4
+  basis: The passage names God as the Lord of all creatures and states that humans
+    do not will unless God wills.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: human witness and recipient of revelation
+  assigned_to:
+  - fig:5
+  basis: Mohammed is said to have seen him in the clear horizon and not to have suspected
+    the revealed secrets.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: obedient angelic attendants
+  assigned_to:
+  - fig:6
+  basis: The angels are described as obeying the honourable messenger under his authority.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: denied demonic source
+  assigned_to:
+  - fig:7
+  basis: The passage explicitly says the words are not the words of an accursed devil.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: folded sun
+  literal_form: The sun shall be folded up.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: falling and hidden stars
+  literal_form: The stars shall fall; the oath also names retrograde, swift-moving
+    stars that hide themselves.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: passing mountains
+  literal_form: The mountains shall be made to pass away.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: boiling seas
+  literal_form: The seas shall boil.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: removed heaven
+  literal_form: The heaven shall be removed; the note glosses this as plucked away
+    from its place like skin from a flayed camel.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:6
+  label: opened books
+  literal_form: The books shall be laid open.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: burning hell
+  literal_form: Hell shall burn fiercely.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: near paradise
+  literal_form: Paradise shall be brought near.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: throne
+  literal_form: The honourable messenger has established dignity in the sight of the
+    possessor of the throne.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: night and morning
+  literal_form: The night comes on and the morning appears.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:11
+  label: neglected pregnant camels
+  literal_form: Camels ten months gone with young shall be neglected.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:12
+  label: gathered wild beasts
+  literal_form: Wild beasts shall be gathered together.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Eschatological transformation of world signs
+  summary: The sun is folded up, stars fall, mountains pass away, pregnant camels
+    are neglected, wild beasts gather, and seas boil.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Resurrection and reckoning
+  summary: Souls are rejoined to bodies, the buried-alive girl is questioned, books
+    are opened, heaven is removed, hell burns, paradise is brought near, and every
+    soul knows its deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Oath by celestial and temporal signs
+  summary: An oath is sworn by retrograde and hidden stars, by night coming on, and
+    by morning appearing.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:10
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Messenger, witness, and admonition
+  summary: The words are ascribed to an honourable messenger associated with the throne
+    and obeyed by angels; Mohammed is defended from distraction, the words are denied
+    to be demonic, and the message is addressed as an admonition under God's will.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: cosmic dissolution before reckoning
+  taxonomy_refs:
+  - chaos
+  basis: 'The passage lists overturned cosmic and earthly conditions: sun folded up,
+    stars falling, mountains passing, seas boiling, and heaven removed.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no explicit apocalypse category; the chaos
+    reference is used only for the ordered cosmos being disrupted.
+- id: motif:2
+  label: resurrection of souls to bodies
+  taxonomy_refs:
+  - resurrection
+  basis: The passage states that souls shall be joined again to their bodies before
+    the reckoning signs continue.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: divine judgment by opened record and known deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: Books are laid open, hell burns, paradise is brought near, and every soul
+    knows what it has wrought.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: questioning of the buried-alive victim
+  taxonomy_refs:
+  - divine_judgment
+  basis: The girl buried alive is asked for what crime she was put to death, placing
+    a victim's death within the final reckoning sequence.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: high
+  cautions: The motif label is limited to this passage's explicit judgment context
+    and the translator's contextual note.
+- id: motif:5
+  label: authoritative revelation through a heavenly messenger
+  taxonomy_refs:
+  - wisdom
+  basis: The words are attributed to an honourable, faithful messenger with dignity
+    before the throne and angelic obedience, and the passage calls the message an
+    admonition to all creatures.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The wisdom taxonomy reference is broad; the passage specifically emphasizes
+    revelation and admonition rather than a wisdom quest.
+comparison_claims:
+- id: claim:1
+  claim: A translator's note reports Marracci's conjecture that the image of heaven
+    being removed or plucked away may allude to Psalm civ. 2, where God is said to
+    stretch out heaven like a skin.
+  claim_level: linguistic_similarity
+  target: Psalm civ. 2 as cited in the footnote
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is explicitly presented as a conjecture in the note
+    and is not established by the passage itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37948-37953
+  quote_or_summary: 'Opening signs: the sun is folded up, stars fall, mountains pass
+    away, pregnant camels are neglected, wild beasts gather, and seas boil.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37954-37956
+  quote_or_summary: Souls are joined again to their bodies, and the girl buried alive
+    is asked for what crime she was put to death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 37957-37961
+  quote_or_summary: The books are laid open, heaven is removed, hell burns fiercely,
+    paradise is brought near, and "every soul shall know what it hath wrought."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 37978-37981
+  quote_or_summary: An oath is sworn by retrograde, swift-moving, hidden stars, by
+    night coming on, and by morning appearing.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 37982-37985
+  quote_or_summary: The words are described as those of an honourable messenger, strong,
+    dignified before the possessor of the throne, obeyed by angels, and faithful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37986-37989
+  quote_or_summary: Mohammed is said not to be distracted; he had seen him in the
+    clear horizon, did not suspect the revealed secrets, and the words are not those
+    of an accursed devil.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 37990-37993
+  quote_or_summary: The message is called an admonition to all creatures and to whoever
+    is willing to walk uprightly, while stating that willing depends on God, Lord
+    of all creatures.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 37971-37975
+  quote_or_summary: The note glosses heaven's removal as being plucked from its place
+    like skin from a flayed camel and reports Marracci's conjecture of an allusion
+    to Psalm civ. 2, where God stretches out heaven like a skin.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 37967-37970
+  quote_or_summary: The note says that among ancient Arabs it was customary to bury
+    daughters alive from fear of poverty or disgrace.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is direct from the supplied passage and notes. Motif taxonomy
+    mapping is strongest for resurrection and divine judgment; broader mappings such
+    as chaos and wisdom require review. The comparison claim is only a reported footnote
+    conjecture.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text, metadata, and available taxonomy references were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37942-l37996
+  passage_sha256=78c7021136c63ef2eb2b3db90b10e7b0ae5cb843f786ff84d191327fe3bb46ea
+

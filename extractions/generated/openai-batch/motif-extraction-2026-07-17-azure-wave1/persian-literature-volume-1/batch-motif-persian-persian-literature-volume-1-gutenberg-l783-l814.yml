@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l783-l814
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE SHH NMEH / KAIMERS / HSHENG / TAHMERS; lines 783-814
+  start: '783'
+  end: '814'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Tahmers, called the Binder of Demons, as a sovereign
+    associated with public-benefit deliberation, textile work, taming animals, defeating
+    a demon army led by Gh, sparing captured demons in exchange for the art of reading
+    and writing, and being succeeded by his son Jemshd after a thirty-year reign.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tahmers is identified as a sovereign also called Dw-bund, or the Binder of
+    Demons.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tahmers assembled wise men in his dominions to deliberate on what would be
+    useful and advantageous to the people of God.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: During Tahmers's days wool was spun and woven, garments and carpets were manufactured,
+    and animals including panthers, falcons, hawks, and syagoshes were tamed for field
+    sports.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tahmers had a vizir renowned for wisdom and understanding, and this vizir
+    charmed a Demon into his power by philters and magic and conveyed him to Tahmers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The captured Demon’s brethren and allies felt ashamed by the insult, collected
+    an army, and went to war against the king.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Tahmers also gathered an army; the demon leader was named Gh, and the opposing
+    sides are described as fire, smoke, and Demons on one side and brave warriors
+    on the other.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Tahmers struck Gh on the head with a mace and killed him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The other Demons were taken prisoner; Tahmers ordered them destroyed, but
+    they petitioned for mercy and promised to teach him a wonderful art if spared.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Tahmers agreed, and the Demons brought books, pens, and ink and instructed
+    him how to read and write.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The verse says the Demons taught Tahmers letters, his mind was illumined with
+    learning, the world had quiet and repose, and Peris and Demons submitted to his
+    will.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Tahmers reigned for thirty years, after which the monarchy descended to Jemshd,
+    his son.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Tahmers
+  description: A sovereign also called Dw-bund, or the Binder of Demons; he defeats
+    Gh, spares captured Demons in exchange for instruction, reigns thirty years, and
+    is succeeded by his son Jemshd.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Wise men of Tahmers's dominions
+  description: Wise men assembled by Tahmers to deliberate on what would benefit the
+    people of God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tahmers's vizir
+  description: A vizir renowned for wisdom and understanding who charms a Demon into
+    his power by philters and magic and conveys him to Tahmers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Charmed Demon / prisoner
+  description: A Demon captured by the vizir and conveyed to Tahmers; his brethren
+    and allies respond to the insult by going to war.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Demons, brethren, allies, and prisoners
+  description: The Demons include the captured Demon’s brethren and allies, the army
+    opposing Tahmers, and the prisoners who petition for mercy and teach reading and
+    writing.
+  role_refs:
+  - role:6
+  - role:7
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Gh
+  description: The named leader of the Demons, killed by Tahmers with a mace blow
+    to the head.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Tahmers's warriors
+  description: The brave and magnanimous warriors on the side opposing the fire, smoke,
+    and Demons.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Peris
+  description: Supernatural beings mentioned with Demons as submitting to Tahmers's
+    will after he is taught letters.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Jemshd
+  description: Tahmers's son, to whom the monarchy descends after Tahmers's thirty-year
+    reign.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: sovereign king
+  assigned_to:
+  - fig:1
+  basis: The passage calls Tahmers a sovereign and states the duration of his reign.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: binder and subduer of demons
+  assigned_to:
+  - fig:1
+  basis: Tahmers is called the Binder of Demons, kills the demon leader Gh, and later
+    has Peris and Demons submitting to his will.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:3
+  label: public-benefit advisers
+  assigned_to:
+  - fig:2
+  basis: The wise men are assembled to consider what would be useful and advantageous
+    to the people of God.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: wise vizir and demon-capturing magician
+  assigned_to:
+  - fig:3
+  basis: The vizir is described as renowned for wisdom and understanding and as using
+    philters and magic to capture a Demon.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: captured demon prisoner
+  assigned_to:
+  - fig:4
+  basis: The Demon is charmed into the vizir’s power, conveyed to Tahmers, and called
+    the prisoner whose allies react.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: demon enemy force
+  assigned_to:
+  - fig:5
+  basis: The captured Demon’s brethren and allies gather an army and go to war; the
+    opposing force includes fire, smoke, and Demons.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: writing instructors seeking mercy
+  assigned_to:
+  - fig:5
+  basis: The captured Demons petition for mercy, promise to teach a wonderful art,
+    and instruct Tahmers how to read and write.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: leader of the Demons
+  assigned_to:
+  - fig:6
+  basis: The passage names Gh as the leader of the Demons.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: royal warriors
+  assigned_to:
+  - fig:7
+  basis: Tahmers's side is described as brave and magnanimous warriors.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: submitting supernatural beings
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The verse states that Peris and Demons submit to Tahmers's will.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: royal successor and son
+  assigned_to:
+  - fig:9
+  basis: The monarchy descends to Jemshd, identified as Tahmers's son.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire and smoke of the demon force
+  literal_form: fire and smoke
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: mace blow
+  literal_form: Tahmers's mace used to strike Gh on the head
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: writing implements
+  literal_form: books, pens, and ink
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: letters and learning
+  literal_form: letters; reading and writing taught by the Demons
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: textile production
+  literal_form: spun and woven wool; manufactured garments and carpets
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: tamed field animals
+  literal_form: panthers, falcons, hawks, and syagoshes tamed for field sports
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Tahmers organizes useful arts and counsel
+  summary: Tahmers is introduced as Binder of Demons, gathers wise men for public
+    benefit, and his days are associated with textile work and the taming of animals
+    for field sports.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The vizir captures a Demon
+  summary: Tahmers's wise vizir charms a Demon into his power by philters and magic
+    and brings the prisoner to Tahmers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: War against the demon army
+  summary: The prisoner’s demon brethren and allies gather an army against the king;
+    Tahmers gathers his own army; Gh leads the Demons, whose force is described with
+    fire and smoke, and Tahmers kills Gh with a mace blow.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Demons ransom their lives with writing
+  summary: After Gh is killed, the other Demons are captured and ordered destroyed,
+    but they petition for mercy and teach Tahmers reading and writing using books,
+    pens, and ink.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Peace, submission, and succession
+  summary: The verse links Tahmers's learning with quiet and repose in the world and
+    Peris and Demons submitting to him; after a thirty-year reign, the monarchy passes
+    to his son Jemshd.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: culture-bearing reign associated with useful arts
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: Tahmers gathers wise men for public benefit; his days are associated with
+    textile production, taming animals, and receiving instruction in reading and writing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage says some arts occurred in his days; it does not explicitly
+    state that Tahmers personally invented all of them.
+- id: motif:2
+  label: royal subjugation of demons
+  taxonomy_refs:
+  - royal_legitimacy
+  - duality
+  basis: Tahmers is called the Binder of Demons, defeats the demon leader Gh, captures
+    the other Demons, and is later described as having Peris and Demons submit to
+    his will.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No external demonology or wider cosmological system is inferred beyond
+    this passage.
+- id: motif:3
+  label: knowledge exchanged for spared lives
+  taxonomy_refs:
+  - sacred_exchange
+  - wisdom
+  basis: The captured Demons petition for mercy and promise to teach a wonderful art;
+    when Tahmers agrees, they teach him to read and write.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage frames the art as wonderful, but does not call the exchange
+    sacred or forbidden.
+- id: motif:4
+  label: human royal warriors opposed to elemental demonic host
+  taxonomy_refs:
+  - duality
+  - chaos
+  basis: The battle is described as fire, smoke, and Demons on one side and brave
+    and magnanimous warriors on the other, ending in Tahmers's victory over Gh.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The contrast of sides is explicit, but the broader 'chaos' motif-family
+    label is analytic and not named in the passage.
+- id: motif:5
+  label: hereditary royal succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After Tahmers's thirty-year reign, the monarchy descends to Jemshd, identified
+    as his son.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The succession is reported briefly without elaborating a succession ritual
+    or conflict.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 783-788
+  quote_or_summary: Tahmers is called Dw-bund, or the Binder of Demons, and assembles
+    wise men to deliberate on what would benefit the people of God.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 788-790
+  quote_or_summary: In Tahmers's days wool is spun and woven, garments and carpets
+    are manufactured, and animals such as panthers, falcons, hawks, and syagoshes
+    are tamed for field sports.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 791-793
+  quote_or_summary: Tahmers's vizir, renowned for wisdom and understanding, charms
+    a Demon by philters and magic and conveys him to Tahmers.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 793-799
+  quote_or_summary: The prisoner’s brethren and allies gather an army against the
+    king; Tahmers gathers his army; Gh is named leader of the Demons; one side consists
+    of fire, smoke, and Demons, and the other of brave warriors.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: quote
+  locator: lines 800-801
+  quote_or_summary: "“Tahmers lifted his mace” and, striking Gh on the head, “killed
+    him on the spot.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 801-806
+  quote_or_summary: The other Demons are taken prisoner and ordered destroyed, but
+    they ask mercy, promise to teach a wonderful art, then bring books, pens, and
+    ink and teach Tahmers to read and write.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short summary used.
+- id: ev:7
+  type: quote
+  locator: lines 808-811
+  quote_or_summary: "“They taught him letters,” his mind was “illumined,” and “Peris
+    and Demons” submit to his will."
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:8
+  type: summary
+  locator: lines 813-814
+  quote_or_summary: Tahmers reigns thirty years, and afterward the monarchy descends
+    to Jemshd, his son.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about names, actions, objects, and sequence. Motif
+    labels are limited to supported taxonomy families. No cross-text comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Names are retained as they appear in the passage, including Gh and Jemshd.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l783-l814
+  passage_sha256=ced55501dc566dfa9f99cfc1ca38330ea81199d6475ce997d9e33ab811c907a7
+

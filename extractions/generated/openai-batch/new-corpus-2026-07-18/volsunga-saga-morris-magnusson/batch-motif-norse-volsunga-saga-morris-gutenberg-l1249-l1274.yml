@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.norse-volsunga-saga-morris-gutenberg-l1249-l1274
+source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+passage_locator:
+  label: H. HALLIDAY SPARLING. / TRANSLATORS' PREFACE. / THE STORY OF THE VOLSUNGS
+    AND NIBLUNGS. / CHAPTER V. Of the Slaying of King Volsung.; lines 1249-1274
+  start: '1249'
+  end: '1274'
+  translation: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Signy sends each of her two sons by Siggeir to Sigmund in the wood so that
+    they may help him in avenging his father. The eldest boy fails Sigmund's bread-making
+    task because he fears something living in the meal-bag. Sigmund judges him unfit,
+    and Signy tells Sigmund to kill him. The next winter the second son is sent and
+    is slain in the same way by Signy's counsel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Siggeir has two sons by his wife Signy.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the elder son is ten winters old, Signy sends him to Sigmund to help
+    if Sigmund strives to avenge his father.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The elder son goes to the wood and reaches Sigmund's earth-house late in the
+    evening.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sigmund welcomes the boy and tells him to prepare bread while Sigmund goes
+    to seek firewood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sigmund gives the meal-bag to the boy before leaving to fetch firewood.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When Sigmund returns, the boy has not made the bread.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boy says he did not dare touch the meal sack because something living
+    lay in the meal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Sigmund concludes that the boy lacks the heart he wants in a companion.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Signy tells Sigmund to take the boy and kill him, and Sigmund does so.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The next winter Signy sends her second son to Sigmund, and the same events
+    occur.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Sigmund kills the second child by Signy's counsel.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Siggeir
+  description: Husband of Signy and father of two sons mentioned in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Signy
+  description: Wife of Siggeir, sister of Sigmund, and mother of the two sons; she
+    sends each son to Sigmund and counsels their killing.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Sigmund
+  description: Dweller in an earth-house in the wood; receives Signy's sons, tests
+    the elder son with bread-making, judges him unfit, and kills both sons by Signy's
+    counsel.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Signy's elder son
+  description: Ten-winter-old son of Siggeir and Signy; sent to Sigmund, fails to
+    handle the meal-bag, and is killed.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Signy's second son
+  description: Second son of Siggeir and Signy; sent to Sigmund the next winter and
+    killed in the same way.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: father to be avenged
+  description: A father whose avenging is named as the aim for which help is sought.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: father of the two boys
+  assigned_to:
+  - fig:1
+  basis: The passage states that Siggeir had two sons by Signy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother of the two boys
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the boys as Signy's sons by Siggeir.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: sister of Sigmund
+  assigned_to:
+  - fig:2
+  basis: Sigmund refers to meeting his sister after judging the boy unfit.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: counselor of killing
+  assigned_to:
+  - fig:2
+  basis: Signy tells Sigmund to kill the elder boy, and the second child is slain
+    by her counsel.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: intended avenger
+  assigned_to:
+  - fig:3
+  basis: Signy's son is sent to help Sigmund if Sigmund strives to avenge his father.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: host in the earth-house
+  assigned_to:
+  - fig:3
+  basis: The boy comes to Sigmund's earth-house, where Sigmund welcomes him.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: tester of courage or fitness
+  assigned_to:
+  - fig:3
+  basis: Sigmund gives the boy a bread-making task involving the meal-bag and then
+    judges him as lacking the desired heart for a fellow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: killer of the children
+  assigned_to:
+  - fig:3
+  basis: Sigmund kills the elder son after Signy's command and later slays the second
+    child by her counsel.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: potential helper
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Each son is sent to Sigmund so that he might provide help.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:10
+  label: child slain after failing or repeating the test
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The elder son is killed after failing the meal-bag task; the second son is
+    slain after the same pattern repeats.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:11
+  label: object of vengeance
+  assigned_to:
+  - fig:6
+  basis: The passage states that Sigmund may strive to avenge his father.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wood
+  literal_form: The wood where Sigmund's earth-house is located.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: earth-house
+  literal_form: Sigmund's dwelling in the wood, reached by the boy late in the evening.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: meal-bag
+  literal_form: A meal-bag given by Sigmund to the boy for bread-making.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: unidentified living thing in the meal
+  literal_form: The boy reports that something quick, or living, lay in the meal.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: bread-making task
+  literal_form: The task of preparing bread from the meal-bag while Sigmund gathers
+    firewood.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: firewood
+  literal_form: Firewood or firing sought by Sigmund while the boy is to prepare bread.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Signy sends her elder son to Sigmund
+  summary: Signy sends her ten-winter-old elder son to Sigmund so that he may help
+    with vengeance, and the boy reaches Sigmund's earth-house in the wood late in
+    the evening.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The failed bread-making task
+  summary: Sigmund welcomes the elder son, gives him the meal-bag, and asks him to
+    make bread while Sigmund gathers firewood. The boy does nothing because he fears
+    the living thing in the meal.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Judgment and killing of the elder son
+  summary: Sigmund judges the boy unfit as a companion and tells Signy. Signy tells
+    Sigmund to kill the boy, and he does so.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Second son sent and slain
+  summary: The next winter Signy sends her second son to Sigmund. The passage says
+    the same pattern occurs, and Sigmund kills the child by Signy's counsel.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: failed test of courage or fitness
+  taxonomy_refs:
+  - initiation
+  basis: The elder boy is given a task involving the meal-bag, refuses to touch it
+    because of a living thing in the meal, and is judged by Sigmund as lacking the
+    heart needed for fellowship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not call the episode an initiation; the classification
+    is based on the functional pattern of testing and rejection.
+- id: motif:2
+  label: sibling pair arranging vengeance
+  taxonomy_refs:
+  - sibling_pair
+  basis: Signy sends her sons to her brother Sigmund as potential aid for avenging
+    the father, and Sigmund reports his judgment of the boy to his sister.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a brother-sister relationship and shared vengeance
+    context, but it does not elaborate the full vengeance plan here.
+- id: motif:3
+  label: mother counsels death of her own sons
+  taxonomy_refs: []
+  basis: Signy tells Sigmund to kill the elder son after he is judged unfit, and the
+    second son is later slain by her counsel.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents the act as counsel and killing, not as a formal sacrifice
+    or ritual.
+- id: motif:4
+  label: repeated failed helper trial
+  taxonomy_refs: []
+  basis: The first son is sent, tested, and killed; the next winter the second son
+    is sent and the same events occur, ending in his death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The second son's detailed trial is summarized rather than narrated in
+    full.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1249-1253
+  quote_or_summary: Siggeir has two sons by Signy. When the elder is ten winters old,
+    Signy sends him to Sigmund so he may help if Sigmund strives to avenge his father.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1253-1255
+  quote_or_summary: The youngling goes to the wood and arrives late in the evening
+    at Sigmund's earth-house, where Sigmund welcomes him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1255-1260
+  quote_or_summary: Sigmund tells the boy to make their bread, gives him the meal-bag,
+    and goes to fetch firewood or firing.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 1260-1265
+  quote_or_summary: The boy has not made bread and says, "I durst not set hand to
+    the meal sack, because somewhat quick lay in the meal."
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1266-1269
+  quote_or_summary: Sigmund judges that the lad does not have the heart he wants in
+    a fellow and tells his sister that the youngling has brought him no nearer to
+    the aid of a man.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 1270-1272
+  quote_or_summary: Signy says, "Take him and kill him then; for why should such an
+    one live longer?" and Sigmund does so.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1273-1274
+  quote_or_summary: The next winter Signy sends her next son to Sigmund; the same
+    pattern occurs, and Sigmund slays the child by Signy's counsel.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and character relations are clear in the supplied passage.
+    Motif labels involving initiation or testing are interpretive and should be reviewed.
+    No comparison claims were added because the passage itself does not explicitly
+    support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references were limited to available refs and used only where directly supportable as candidate motif families. The living thing in the meal is left unidentified because the supplied passage does not name it.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-volsunga-saga-morris-gutenberg__l1249-l1274
+  passage_sha256=d56f67674aa4ab0f81dbea6c1514352e24ebe91126a9bd9ac340e91654bdd3af
+

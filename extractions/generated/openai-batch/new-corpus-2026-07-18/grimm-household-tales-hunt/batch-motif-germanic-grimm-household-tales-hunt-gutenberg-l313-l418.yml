@@ -1,0 +1,539 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l313-l418
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 313-418
+  start: '313'
+  end: '418'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A frog bargains to recover a princess’s golden ball from the well in exchange
+    for companionship at table and bed. The princess promises but resists fulfilling
+    the promise until her father enforces it. When she angrily throws the frog against
+    the wall, he becomes a King’s son, explaining that a witch had enchanted him and
+    that only she could free him. The couple depart in a carriage, accompanied by
+    Faithful Henry, whose iron heart-bands break from joy at his master’s release.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The frog says he can help the princess recover her plaything and asks what
+    she will give him in return.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess offers clothing, pearls, jewels, and her golden crown, but the
+    frog instead requests love, companionship, shared tableware, and a place in her
+    bed.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The princess verbally promises the frog’s terms while privately thinking that
+    a water-dwelling frog cannot be a human companion.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The frog sinks into the water, returns with the golden ball in his mouth,
+    and the princess runs away with the ball without taking him along.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The next day the frog comes up the palace staircase, knocks at the door, and
+    calls for the youngest princess to open it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The princess tells her father that the frog recovered her ball and that she
+    promised he could be her companion, though she did not expect him to leave the
+    water.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The King commands the princess to perform what she promised and later states
+    that one who helped her in trouble should not be despised afterward.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:8
+  text: The frog follows the princess to her chair, is lifted beside her, eats from
+    her golden plate, and then asks to be carried to her room and bed.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The princess throws the frog against the wall, after which he is no longer
+    a frog but a King’s son with beautiful kind eyes.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The King’s son says a wicked witch had bewitched him, that only the princess
+    could deliver him from the well, and that they will go to his kingdom.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A carriage with eight white horses comes for the young King, and Faithful
+    Henry accompanies them after his master’s deliverance.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Faithful Henry had placed three iron bands around his heart because of grief
+    when his master was changed into a frog; the bands break during the journey because
+    his master is free and happy.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Frog / revealed King’s son
+  description: A frog who retrieves the princess’s golden ball, demands fulfillment
+    of her promise, and is later revealed to be a bewitched King’s son.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: King’s daughter / youngest princess
+  description: The princess who loses the golden ball, promises companionship to the
+    frog, resists him, throws him against the wall, and is identified as his deliverer
+    from the well.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: King / father of the princess
+  description: The princess’s father, who commands her to keep her promise and not
+    despise the helper who aided her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Wicked witch
+  description: The figure said by the King’s son to have bewitched him; she does not
+    appear directly in the scene.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Faithful Henry
+  description: The young King’s servant, who bound his heart with three iron bands
+    from grief and rejoices when his master is delivered.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: animal helper and claimant
+  assigned_to:
+  - fig:1
+  basis: The frog retrieves the lost ball and then claims the promised companionship
+    and shared domestic space.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: enchanted royal suitor
+  assigned_to:
+  - fig:1
+  basis: After being thrown against the wall, the frog is revealed as a King’s son
+    who had been bewitched.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: reluctant promise-maker
+  assigned_to:
+  - fig:2
+  basis: She promises the frog’s requested terms but runs away after receiving the
+    ball and later resists letting him in.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: paternal promise-enforcer
+  assigned_to:
+  - fig:3
+  basis: The King orders the princess to perform what she promised and frames the
+    frog as a benefactor not to be despised.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: absent enchanter
+  assigned_to:
+  - fig:4
+  basis: The King’s son states that a wicked witch bewitched him, but no direct action
+    by her occurs in the passage.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: loyal servant and grief-bearer
+  assigned_to:
+  - fig:5
+  basis: Faithful Henry binds his heart with iron bands because of grief over his
+    master’s transformation and rejoices at his deliverance.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:7
+  label: named deliverer
+  assigned_to:
+  - fig:2
+  basis: The King’s son states that no one but the princess could have delivered him
+    from the well.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: golden ball
+  literal_form: The princess’s golden plaything, lost in the water and recovered by
+    the frog.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: well and water
+  literal_form: The well, fountain, and water into which the ball falls and from which
+    the frog retrieves it; the King’s son is also said to have been delivered from
+    the well.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: shared golden plate and cup
+  literal_form: The little golden plate and cup named in the frog’s requested terms,
+    with the plate later used at table.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: little silken bed
+  literal_form: The princess’s bed, which the frog demands to share after eating.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: frog form
+  literal_form: The animal body in which the King’s son appears before his transformation
+    back into human form.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: casting against the wall
+  literal_form: The princess’s act of throwing the frog with all her might against
+    the wall immediately before his transformation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: carriage with eight white horses
+  literal_form: A carriage drawn by eight white horses with white ostrich feathers
+    and golden chains, sent to conduct the young King to his kingdom.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: three iron bands around the heart
+  literal_form: The three iron bands Faithful Henry had placed around his heart to
+    keep it from bursting with grief.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Bargain and recovery at the well
+  summary: The frog offers to recover the princess’s golden ball from the water in
+    exchange for companionship, shared meals, and shared sleeping space; after receiving
+    her promise, he retrieves the ball, and she runs away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Frog claims the promise at the palace
+  summary: The frog comes to the palace door, the princess explains the promise to
+    her father, and the King commands her to let the frog in and fulfill what she
+    promised.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Bedroom resistance and transformation
+  summary: The frog asks to sleep in the princess’s bed; she resists and throws him
+    against the wall, whereupon he becomes a King’s son and explains the witch’s enchantment
+    and his deliverance from the well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Departure with Faithful Henry
+  summary: The next morning the young King and princess depart in a carriage; Faithful
+    Henry accompanies them, and his iron heart-bands break as his grief is released
+    by his master’s freedom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: aid-for-promise bargain
+  taxonomy_refs:
+  - sacred_exchange
+  - covenant
+  basis: The frog recovers the lost ball only after the princess promises specified
+    reciprocal obligations, and the King later insists that the promise must be performed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the exchange as a promise rather than explicitly as
+    sacred exchange or covenant; taxonomy mapping is approximate.
+- id: motif:2
+  label: enchanted animal transformed into royal spouse
+  taxonomy_refs:
+  - shapeshifter
+  basis: The frog is revealed to be a bewitched King’s son after the princess throws
+    him against the wall, and he becomes her companion and husband by her father’s
+    will.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage describes enchantment and transformation, not voluntary shape-changing.
+- id: motif:3
+  label: descent below water to recover a lost object
+  taxonomy_refs:
+  - hero_descent
+  basis: The frog says he will go down below, sinks into the water, and returns with
+    the princess’s golden ball.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The descending figure is the frog helper rather than a conventional human
+    hero.
+- id: motif:4
+  label: deliverance from enchanted imprisonment in a well
+  taxonomy_refs:
+  - shapeshifter
+  basis: The King’s son states that he had been bewitched by a witch and that no one
+    but the princess could have delivered him from the well.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The mechanics of the deliverance are only partly explained in the passage.
+- id: motif:5
+  label: return to kingdom after release
+  taxonomy_refs:
+  - return
+  basis: After the transformation and explanation, a carriage arrives to conduct the
+    young King back into his kingdom with the princess.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The return is royal and domestic rather than explicitly cosmic or initiatory.
+- id: motif:6
+  label: loyal servant’s grief physically bound and released
+  taxonomy_refs: []
+  basis: Faithful Henry’s grief over his master’s frog transformation is represented
+    by three iron bands around his heart, which break when the master is free and
+    happy.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 313-418; frog’s initial bargain
+  quote_or_summary: The frog offers to help recover the plaything and asks what the
+    princess will give him; she offers clothes, pearls, jewels, and her golden crown.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 313-418; frog’s requested terms
+  quote_or_summary: The frog rejects valuables and asks instead to be loved, to be
+    her companion and play-fellow, to sit at her table, eat from her golden plate,
+    drink from her cup, and sleep in her bed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 313-418; promise and ball retrieval
+  quote_or_summary: The princess promises but privately dismisses the frog as a water-dwelling
+    creature; the frog sinks into the water, returns with the golden ball, and she
+    runs away without him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 313-418; frog at the palace door
+  quote_or_summary: At dinner the next day, the frog creeps up the marble staircase,
+    knocks, and calls for the youngest princess to open the door.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 313-418; princess explains and King responds
+  quote_or_summary: The princess tells the King that the frog recovered her ball and
+    that she promised companionship; the King says that what she promised she must
+    perform.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 313-418; table sequence
+  quote_or_summary: The frog enters, follows the princess to her chair, asks to be
+    lifted beside her, eats from her golden plate, and then asks to be taken to her
+    room and bed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 313-418; King’s moral statement
+  quote_or_summary: "“He who helped thee when thou wert in trouble ought not afterwards
+    to be despised by thee.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 313-418; transformation and explanation
+  quote_or_summary: The princess throws the frog against the wall; he becomes a King’s
+    son, says a wicked witch had bewitched him, states that only the princess could
+    deliver him from the well, and says they will go to his kingdom.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 313-418; carriage and Faithful Henry
+  quote_or_summary: A carriage with eight white horses, white ostrich feathers, and
+    golden chains arrives; Faithful Henry, the young King’s servant, had placed three
+    iron bands around his heart because of grief when his master was changed into
+    a frog.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 313-418; breaking of the heart-bands
+  quote_or_summary: During the journey, cracking sounds are heard; Henry explains
+    that the sounds are the iron bands springing from his heart because his master
+    is set free and happy.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is clear from the passage. Some motif-family taxonomy
+    assignments are approximate because the supplied taxonomy is broad. No cross-text
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line naming “Cat and Mouse in Partnership” appears to be the next tale heading and was not treated as part of the extracted Frog King narrative.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l313-l418
+  passage_sha256=7b8d4481af91cfcf9f10aa6162ab35d08369f1d0059450e8eaa49bb2510a3e0f
+

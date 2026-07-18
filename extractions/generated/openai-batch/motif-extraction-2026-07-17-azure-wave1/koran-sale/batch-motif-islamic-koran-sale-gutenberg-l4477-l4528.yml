@@ -1,0 +1,526 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4477-l4528
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4477-4528
+  start: '4477'
+  end: '4528'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes elements of the final judgment: a body blames the
+    soul for its actions; God answers with a parable of a blind man and a lame man
+    jointly punished for taking fruit from a garden; witnesses will testify against
+    denial; the trial is described as swift; each person receives a written account
+    of deeds; and a vast balance held by Gabriel weighs all things, with its scales
+    over paradise and hell.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A body addresses God and says it was like wood, lacking effective limbs and
+    senses, until a soul entered it and enabled speech, sight, and movement.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The body asks that the soul be punished eternally and that the body be delivered.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: God is said to answer with a parable involving a king, a garden with ripe
+    fruit, a blind man, and a lame man.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the parable, the lame man sees the fruit, persuades the blind man to carry
+    him, gathers the fruit, and the two divide it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king orders the lame man to be set on the blind man and punishes both
+    after each tries to excuse himself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Men, angels, a person's own members, and the earth are described as ready
+    to bear witness against denial of evil actions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The trial after resurrection is described as taking a very short time, using
+    comparisons to milking an ewe, the interval between two milkings of a she-camel,
+    half a day, or the twinkling of an eye.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Each person receives a book in which the actions of life are written; the
+    righteous receive it in the right hand, while the ungodly receive it in the left
+    hand behind the back, with the right hand tied to the neck.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A balance is described as held by Gabriel, with one scale over paradise and
+    the other over hell, and with capacity for heaven and earth.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage reports both allegorical and literal understandings of the judgment
+    balance, with the older orthodox view described as literal.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine judge who hears the body’s apology, propounds the parable,
+    deals with body and soul, and swiftly judges creatures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Body
+  description: A body that describes itself as inert like wood before the soul entered
+    and asks to be delivered while the soul is punished.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Soul
+  description: A soul compared to a ray of light entering the body and enabling speech,
+    sight, and walking; it is blamed by the body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: King or lord of the garden
+  description: The owner of a pleasant garden who appoints the blind and lame men
+    to guard it, asks after the fruit, and punishes both.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Blind man
+  description: A garden keeper who cannot see the fruit, carries the lame man on his
+    shoulders, and later says he had no eyes to see with.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Lame man
+  description: A garden keeper who can see the fruit but cannot approach the trees,
+    persuades the blind man to carry him, gathers fruit, and later says he had no
+    feet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Witnesses against the sinner
+  description: Men, angels, the person's own members, and the earth itself, all described
+    as ready to bear witness against evil actions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Resuscitated creatures at trial
+  description: Those attending before trial after resurrection; all creatures are
+    said to be judged swiftly.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Righteous persons
+  description: Persons who receive their books in their right hand and read them with
+    pleasure and satisfaction.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Ungodly persons
+  description: Persons forced to take their books in the left hand, bound behind their
+    backs, with the right hand tied to the neck.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Gabriel
+  description: The figure who holds the vast balance used on the great day of trial.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Judge or sentencer
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: God is described as judging creatures and dealing with body and soul; the
+    king passes sentence and punishes the two garden keepers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Apologizing body
+  assigned_to:
+  - fig:2
+  basis: The body makes an apology to God and asks to be delivered from punishment.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Animating soul blamed by body
+  assigned_to:
+  - fig:3
+  basis: The soul enters the body like a ray of light and is blamed by the body for
+    enabling action.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Incapacitated accomplice in parable
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The blind man and lame man each lack a faculty alone but cooperate to gather
+    the fruit and are punished together.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Witness against denial of evil actions
+  assigned_to:
+  - fig:7
+  basis: The passage says these witnesses will testify against a person who denies
+    evil actions.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Examined creature at final trial
+  assigned_to:
+  - fig:8
+  basis: The resuscitated attend before their trial, and all creatures are judged
+    swiftly.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Recipient of written account
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Righteous and ungodly persons receive books recording the actions of life
+    in different hands and postures.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Holder of the judgment balance
+  assigned_to:
+  - fig:11
+  basis: The balance is said to be held by Gabriel.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Inert wood-like body
+  literal_form: A body compared to a stock of wood before the soul enters it.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Soul as ray of light
+  literal_form: The soul is compared to a ray of light entering the body.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Garden with ripe fruit and trees
+  literal_form: A pleasant garden containing ripe fruit and trees.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Book of actions
+  literal_form: A book in which all actions of a person's life are written.
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Right hand and left hand reception
+  literal_form: The righteous receive the book in the right hand; the ungodly receive
+    it in the left hand behind the back.
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Judgment balance
+  literal_form: A vast balance with one scale over paradise and one over hell, held
+    by Gabriel.
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Milking interval
+  literal_form: The trial's short duration is compared to milking an ewe or the interval
+    between two milkings of a she-camel.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Body blames the soul before God
+  summary: The body tells God that it was inert before the soul entered and enabled
+    action, and asks that the soul be punished while the body is delivered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parable of the blind and lame garden keepers
+  summary: A king appoints a blind man and a lame man to guard a fruit garden; they
+    cooperate to take the fruit, deny responsibility separately, and are punished
+    together.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Witnesses and swift trial
+  summary: Denial of evil actions is said to fail because witnesses will testify,
+    and the trial of resurrected creatures is described as very brief.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Distribution of books of deeds
+  summary: Each person receives a written record of life actions, with the righteous
+    receiving it in the right hand and the ungodly receiving it in the left hand behind
+    the back.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Weighing on the vast balance
+  summary: The great day of trial includes a balance held by Gabriel, whose scales
+    hang over paradise and hell and are described as vast enough to contain heaven
+    and earth.
+  figure_refs:
+  - fig:11
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Post-resurrection divine trial
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The passage speaks of the resuscitated attending before trial and of God
+    judging all creatures swiftly.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage focuses on judgment after resurrection rather than narrating
+    the resurrection event itself.
+- id: motif:2
+  label: Shared culpability of body and soul
+  taxonomy_refs:
+  - divine_judgment
+  basis: The body blames the soul, but God answers with a parable in which two impaired
+    accomplices are punished together, and the passage applies this to body and soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the idea through commentary and parable rather than
+    through a narrative episode in the Qur'anic text itself.
+- id: motif:3
+  label: Witnesses against denial at judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Men, angels, bodily members, and the earth are said to bear witness against
+    evil actions, making denial useless.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The listed witnesses are treated collectively in the passage.
+- id: motif:4
+  label: Book of deeds assigned by moral status
+  taxonomy_refs:
+  - divine_judgment
+  basis: Each person receives a book recording life actions; the righteous receive
+    it in the right hand and the ungodly in the left hand behind the back.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No additional narrative about the writing of the book is provided in this
+    passage.
+- id: motif:5
+  label: Cosmic balance weighing all things
+  taxonomy_refs:
+  - divine_judgment
+  basis: A vast balance held by Gabriel is described as weighing all things, with
+    scales over paradise and hell and capacity for heaven and earth.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage also notes allegorical interpretations, though it reports
+    the older orthodox view as literal.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that the parable of the blind man and the lame
+    man was borrowed by Muslims from Jewish sources, citing Gemara Sanhedrin and related
+    references.
+  claim_level: historical_contact
+  target: Jewish blind-and-lame garden parable tradition, including Gemara Sanhedrin
+    as cited in the passage note
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This extraction records the passage's own comparative assertion only;
+    it does not independently verify borrowing, direction of influence, or exact textual
+    relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4477-4481
+  quote_or_summary: A body says to God that it was like wood, lacking hand, foot,
+    speech, sight, and walking until the soul entered like a ray of light, and asks
+    that the soul be punished instead.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summary generated for extraction.
+- id: ev:2
+  type: summary
+  locator: 4481-4497
+  quote_or_summary: 'God gives a parable: a king sets a blind man and a lame man to
+    guard a fruit garden; the lame man rides the blind man to gather fruit; both excuse
+    themselves, but the king sets the lame on the blind and punishes both; the passage
+    applies this to body and soul.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summary generated for extraction.
+- id: ev:3
+  type: summary
+  locator: 4497-4499
+  quote_or_summary: Apologies and denial of evil actions will fail because men, angels,
+    one's own members, and the earth will be ready to bear witness.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summary generated for extraction.
+- id: ev:4
+  type: summary
+  locator: 4500-4506
+  quote_or_summary: 'Although the resuscitated are said to wait a long time before
+    trial, the trial itself is described as brief: as short as milking an ewe, the
+    interval between two milkings of a she-camel, half a day, or less than the twinkling
+    of an eye.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summary generated for extraction.
+- id: ev:5
+  type: summary
+  locator: 4507-4513
+  quote_or_summary: Each person receives a book recording all life actions; the righteous
+    receive it in the right hand and read happily, while the ungodly receive it unwillingly
+    in the left hand bound behind the back, with the right hand tied to the neck.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summary generated for extraction.
+- id: ev:6
+  type: summary
+  locator: 4514-4528
+  quote_or_summary: The balance of the great day of trial is described as held by
+    Gabriel, with one scale over paradise and one over hell, capacious enough for
+    heaven and earth; the passage notes both figurative and literal interpretations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summary generated for extraction.
+- id: ev:7
+  type: citation
+  locator: 4481-4483 and footnote 5
+  quote_or_summary: The commentary says the blind-and-lame parable, like the preceding
+    dispute, was borrowed from the Jews and cites Gemara Sanhedrin, R. Joseph Albo,
+    and Epiphanius.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; citation/summary generated for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction confidence is high for passage contents. Motif taxonomy is broad
+    but directly supported by judgment imagery. The comparison claim is limited to
+    the passage's explicit assertion and citations, not independent historical verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motifs are derived from the supplied passage and metadata only.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4477-l4528
+  passage_sha256=6c9a89a5a70cb0576b168934bbafedd3f6002825fac41c70020734549f08bc7e
+

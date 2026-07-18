@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l13227-l13310
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: INTRODUCTORY NOTE / GRIPISSPO / GRIPIRS PROPHECY / INTRODUCTORY NOTE; lines
+    13227-13310
+  start: '13227'
+  end: '13310'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Introductory note to Gripisspo / Gripir''s Prophecy. The passage describes
+    the poem''s manuscript position, date, dialogue form between Sigurth and Gripir,
+    its function as a condensed outline of Sigurth''s career, and a scholarly account
+    of the Sigurth/Siegfried legend''s Frankish/German origin, spread to Norway, and
+    early features: heroic strength, winning a treasure, wooing a supernatural bride,
+    and death by kinsmen.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Gripisspo follows Fra Dautha Sinfjotla in the Codex Regius and is said
+    to appear in no other early manuscript.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The introductory note characterizes the Gripisspo as one of the latest Eddic
+    poems, probably dating not much before 1200.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The poem is described as a dialogue between the youthful Sigurth and his uncle
+    Gripir.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The substance of the poem is described as a condensed outline of Sigurth's
+    whole career as told in older poems.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the Sigurth story reached the North from Germany after
+    developing among the Franks of the Rhine country.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that commercial and other contact existed between Franks
+    of northwestern Germany and Norwegians from about 600 to 800, and cites coins
+    of Charlemagne in Norway as evidence.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage suggests that the story likely entered Norway in the seventh century
+    and continued in oral prose saga form even after poets used it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that popular traditional heroes could attract originally
+    unrelated stories.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says Sigurth/Sifrit was a great traditional hero among the Franks,
+    associated with strength, valor, winning a treasure, wooing a supernatural bride,
+    and death at the hands of kinsmen.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sigurth / Sifrit / Siegfried
+  description: Youthful figure in the Gripisspo dialogue; described as a great traditional
+    hero among the Franks whose legend includes strength, valor, a won treasure, a
+    supernatural bride, and death by kinsmen.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Gripir
+  description: Sigurth's uncle and dialogue partner in the poem's form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Franks of the Rhine country
+  description: Group among whom the Sigurth story is said to have previously developed
+    before reaching the North.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Norwegians
+  description: Group said to have had contact with the Franks and to have received
+    or popularized the Sigurth story in Norway and Norwegian settlements.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Unnamed supernatural bride
+  description: A more or less supernatural bride whom Sigurth is said to woo in early
+    features of the legend.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Unnamed kinsmen
+  description: Kinsmen at whose hands Sigurth is said to die in early features of
+    the legend.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: traditional hero
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Sigurth/Sifrit a great traditional hero among
+    the Franks.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: uncle and dialogue partner
+  assigned_to:
+  - fig:2
+  basis: The poem is described as a dialogue between youthful Sigurth and his uncle
+    Gripir.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source tradition community
+  assigned_to:
+  - fig:3
+  basis: The story is said to have developed among the Franks of the Rhine country
+    before reaching the North.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: receiving and transmitting community
+  assigned_to:
+  - fig:4
+  basis: The passage connects the story's northward spread and popularity with Norway
+    and Norwegian settlements.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: heroic career subject
+  assigned_to:
+  - fig:1
+  basis: The Gripisspo is described as outlining Sigurth's whole career.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: supernatural bride
+  assigned_to:
+  - fig:5
+  basis: One early feature of the legend is said to be Sigurth's wooing of a more
+    or less supernatural bride.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: kinsmen responsible for hero's death
+  assigned_to:
+  - fig:6
+  basis: One early feature of the legend is said to be Sigurth's death at the hands
+    of his kinsmen.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: great treasure
+  literal_form: A great treasure won by Sigurth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: oral prose saga
+  literal_form: The legend's continuing oral prose saga form after entering Norway.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dialogue frame of Gripisspo
+  summary: The poem is framed as a dialogue between youthful Sigurth and his uncle
+    Gripir, in which Sigurth's career is outlined.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Condensed heroic career pattern
+  summary: The early Sigurth legend is summarized as involving strength and valor,
+    winning a treasure, wooing a supernatural bride, and dying at the hands of kinsmen.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Transmission of the Sigurth story to Norway
+  summary: The story is described as moving from German and Frankish Rhine contexts
+    to the North, likely through contacts between Franks and Norwegians, and continuing
+    in oral prose saga form.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: prophetic or retrospective outline of a hero's career
+  taxonomy_refs:
+  - wisdom
+  basis: The title identifies Gripir's Prophecy, and the note describes the poem as
+    a dialogue that outlines Sigurth's whole career.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an introductory note and does not provide the prophecy's
+    actual spoken contents.
+- id: motif:2
+  label: hero wins a great treasure
+  taxonomy_refs: []
+  basis: The passage lists winning a great treasure among probable early features
+    of the Sigurth legend.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives only a summary, not the episode's details.
+- id: motif:3
+  label: hero woos a supernatural bride
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage lists wooing a more or less supernatural bride among probable
+    early features of the Sigurth legend.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The bride is described as supernatural, not explicitly divine; the taxonomy
+    link is therefore approximate.
+- id: motif:4
+  label: hero dies at the hands of kinsmen
+  taxonomy_refs: []
+  basis: The passage lists Sigurth's death at the hands of his kinsmen among probable
+    early features of the legend.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No details of the killing, motive, or ritual meaning are supplied in this
+    passage.
+- id: motif:5
+  label: traditional hero as accretion point for unrelated stories
+  taxonomy_refs: []
+  basis: The passage states that a popular traditional hero could become a magnet
+    for originally unrelated stories and applies this as a principle for understanding
+    the growth of the Sigurth story.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a scholarly pattern about legend growth, not a narrative motif
+    enacted inside the poem.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Norse Sigurth story as historically connected with
+    a German and Frankish Rhine tradition that spread northward, especially into Norway.
+  claim_level: historical_contact
+  target: Frankish/Rhine Sigurth-Sifrit-Siegfried tradition and Norse Sigurth poems
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage says the broad origin is recognized but notes uncertainty
+    about how and when the story moved from northwestern Germany into Scandinavia.
+- id: claim:2
+  claim: The passage treats Sigurth, Sifrit, and Siegfried as related names or forms
+    of the same traditional hero across Norse and Frankish/German contexts.
+  claim_level: linguistic_similarity
+  target: Sigurth / Sifrit / Siegfried hero-name complex
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives name equivalences in parentheses but does not provide
+    detailed linguistic argumentation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13227-13243
+  quote_or_summary: The passage introduces Gripisspo / Gripir's Prophecy, says it
+    follows Fra Dautha Sinfjotla in the Codex Regius, appears in no other early manuscript,
+    and is considered one of the latest Eddic poems, probably near 1200.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13244-13260
+  quote_or_summary: The passage describes the poem as a dialogue between youthful
+    Sigurth and his uncle Gripir and as a condensed outline of Sigurth's whole career
+    as preserved in older poems, giving a brief summary of the Sigurth story in Iceland.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13266-13295
+  quote_or_summary: The passage states that the Sigurth story reached the North from
+    Germany after developing among the Franks of the Rhine country; it notes Frankish-Norwegian
+    contact from 600 to 800, including coins of Charlemagne found in Norway, and suggests
+    the story likely entered Norway in the seventh century and persisted in oral prose
+    saga form.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13296-13306
+  quote_or_summary: The passage says lack of contemporary material prevents certainty
+    about the seventh-century Rhine legend and emphasizes that popular traditional
+    heroes could attract unrelated stories; it also states that medieval saga could
+    combine history and fairy-tale elements.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13307-13310
+  quote_or_summary: The passage states that Sigurth's origin is unknown, that no historical
+    analogy fits him, and that a nature-myth explanation is possible but not necessary.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13310-13310
+  quote_or_summary: 'The passage says that from early days Sigurth/Sifrit was a great
+    traditional hero among the Franks and lists probable early features: strength
+    and valor, winning a great treasure, wooing a more or less supernatural bride,
+    and death at the hands of kinsmen.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata supplied; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial introduction rather than a direct mythic episode.
+    Extraction is strongest for explicit summary statements about the Sigurth legend
+    and weaker for taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references are limited to available refs and applied only where directly supportable or clearly cautioned.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l13227-l13310
+  passage_sha256=41289042e1db0d9e45d283eb6c5e86d9d2038809718fd8b913e01c5d9cb8c978
+

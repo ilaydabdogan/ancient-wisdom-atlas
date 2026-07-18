@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l3926-l3939
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE HEROES AND THE DWARF / CANTO XVIII / CANTO XIX / THE LAST FEAST OF THE
+    HEROES; lines 3926-3939
+  start: '3926'
+  end: '3939'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Fugitives arrive at the city with news that war is near and that their
+    youths' axes cannot withstand the swords of mail-clad warriors. The Kalevide has
+    the weary men fed and housed, then goes to his father's grave seeking counsel.
+    No voice answers; only wind, distant sea, and rain-clouds are heard or seen. He
+    returns home sorrowful and uneasy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A troop of fugitives comes to the city with word that war is close at hand.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fugitives report that axes used by the youths are useless against the
+    swords of mail-clad warriors.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Kalevide orders the weary men to be fed and comfortably housed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While the men sleep, the Kalevide goes to his father's grave.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the grave there is no voice or counsel.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sounds present are the sighing wind and the moaning distant sea, and the
+    clouds shed rain described as sad tears.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The hero returns home sorrowful and uneasy.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Kalevide
+  description: The hero who orders the fugitives cared for and then goes to his father's
+    grave.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Troop of fugitives
+  description: Weary men who arrive at the city bringing news that war is near.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Mail-clad warriors
+  description: Warriors whose swords are reported to make the youths' axes useless.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The Kalevide's father
+  description: The deceased father associated with the grave to which the Kalevide
+    goes; no voice or counsel is heard there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Hero-host
+  assigned_to:
+  - fig:1
+  basis: He is called the hero and orders the weary fugitives to be fed and comfortably
+    housed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Seeker of counsel at a grave
+  assigned_to:
+  - fig:1
+  basis: He goes to his father's grave, where no voice or counsel is received.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: War messengers and refugees
+  assigned_to:
+  - fig:2
+  basis: They flee to the city and bring word that war is close at hand.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Approaching armed threat
+  assigned_to:
+  - fig:3
+  basis: Their swords are reported to overpower the youths' axes.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Silent deceased father
+  assigned_to:
+  - fig:4
+  basis: The father's grave is visited, but no voice or counsel comes from it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Father's grave
+  literal_form: grave
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Wind and distant sea
+  literal_form: wind and sea
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Axes and swords
+  literal_form: axes of the youths and swords of the mail-clad warriors
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Fugitives bring warning of war
+  summary: Fugitives arrive at the city and report that war is near and that their
+    axes cannot stand against the swords of mail-clad warriors.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kalevide shelters the weary men
+  summary: The Kalevide orders the fugitives to be fed and housed, and they sleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Unanswered visit to the father's grave
+  summary: The Kalevide goes to his father's grave seeking counsel, but no voice answers;
+    only wind, distant sea, and rain-clouds are present, and he returns sorrowful
+    and uneasy.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Refugees warn a city of approaching war
+  taxonomy_refs: []
+  basis: The passage opens with fugitives arriving at the city and announcing that
+    war is close at hand.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader taxonomy
+    reference is asserted.
+- id: motif:2
+  label: Hero shelters weary fugitives before conflict
+  taxonomy_refs: []
+  basis: The Kalevide orders the weary men to be fed and comfortably housed after
+    their flight and warning.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not specify the longer outcome of this hospitality.
+- id: motif:3
+  label: Unanswered appeal for ancestral counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The Kalevide goes to his father's grave, apparently seeking a voice or counsel,
+    but receives none.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The connection to the taxonomy ref 'wisdom' is based on the explicit absence
+    of counsel; the passage does not name a wisdom quest.
+- id: motif:4
+  label: Ominous natural lament around the silent grave
+  taxonomy_refs: []
+  basis: The grave scene is marked by silence, sighing wind, moaning sea, and clouds
+    shedding sad tears before the hero returns uneasy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The natural imagery may be atmospheric description rather than an independent
+    symbolic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3926-3930
+  quote_or_summary: A troop of fugitives comes to the city with word that war is near
+    and that the youths' axes are useless against the swords of mail-clad warriors.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 3931-3933
+  quote_or_summary: The Kalevide orders the weary men fed and comfortably housed;
+    while they sleep, he goes to his father's grave.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 3933-3937
+  quote_or_summary: At the father's grave there is no voice or counsel, only the sighing
+    wind, the moaning distant sea, and clouds described as shedding sad tears.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: 3937-3938
+  quote_or_summary: '"The hero returned home sorrowful and uneasy."'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation used for precise wording.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    directly visible in the passage; no cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another text, tradition, or motif family beyond cautious taxonomy tagging.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l3926-l3939
+  passage_sha256=8b8ef0e63109de0d7465a4ec58e375822eefb1845bfb81621b66f94f080ea191
+

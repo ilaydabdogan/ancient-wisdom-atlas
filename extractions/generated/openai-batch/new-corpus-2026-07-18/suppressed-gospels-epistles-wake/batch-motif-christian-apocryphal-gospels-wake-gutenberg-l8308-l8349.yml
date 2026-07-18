@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8308-l8349
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XX. / CHAPTER XXI. / CHAPTER XXII. / CHAPTER I.; lines 8308-8349
+  start: '8308'
+  end: '8349'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ABGARUS, king of Edessa, to Jesus the good Saviour, who appears at Jerusalem,
+    greeting.
+  summary: A letter attributed to King Abgarus of Edessa addresses Jesus at Jerusalem,
+    reports Jesus' cures and raising of the dead, infers that Jesus is either God
+    descended from heaven or the Son of God, and asks Jesus to come to Edessa to cure
+    Abgarus' disease.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The heading presents the passage as a copy of a letter from King Abgarus to
+    Jesus, sent by Ananius, Abgarus' footman, to Jerusalem, inviting Jesus to Edessa.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Abgarus addresses Jesus as the good Saviour who appears at Jerusalem.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Abgarus says he has been informed that Jesus performs cures without medicines
+    or herbs.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The reported acts include making the blind see, making the lame walk, cleansing
+    lepers, casting out unclean spirits and devils, restoring those long diseased,
+    and raising the dead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Abgarus states that these reports persuaded him that Jesus is either God descended
+    from heaven or the Son of God.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Abgarus asks Jesus to journey to him and cure the disease that Abgarus is
+    under.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Abgarus says he hears that the Jews ridicule Jesus and intend mischief against
+    him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Abgarus describes his city as small, neat, and large enough for both himself
+    and Jesus.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: King Abgarus of Edessa
+  description: King of Edessa; presented as the writer of the letter, as diseased,
+    and as inviting Jesus to Edessa.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Jesus
+  description: Addressed as the good Saviour at Jerusalem; reported to cure illnesses,
+    cast out spirits and devils, raise the dead, and be either God descended from
+    heaven or the Son of God.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ananius
+  description: Abgarus' footman, named in the heading as the person who sent or carried
+    the letter to Jerusalem.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The Jews
+  description: A group whom Abgarus says ridicule Jesus and intend mischief against
+    him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Letter writer
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the passage as a letter written by King Abgarus to
+    Jesus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Supplicant for healing
+  assigned_to:
+  - fig:1
+  basis: Abgarus asks Jesus to come and cure the disease he is under.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: Miraculous healer
+  assigned_to:
+  - fig:2
+  basis: Abgarus reports that Jesus cures without medicines or herbs and heals multiple
+    conditions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Addressee invited to travel
+  assigned_to:
+  - fig:2
+  basis: The letter is addressed to Jesus and asks him to journey to Abgarus.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: Host city ruler
+  assigned_to:
+  - fig:1
+  basis: Abgarus offers his city as small, neat, and large enough for both himself
+    and Jesus.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: Inferred divine identity
+  assigned_to:
+  - fig:2
+  basis: Abgarus says the reports persuade him that Jesus is either God descended
+    from heaven or the Son of God.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Messenger or footman
+  assigned_to:
+  - fig:3
+  basis: The heading names Ananius as Abgarus' footman who sends or carries the letter
+    to Jerusalem.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: Hostile group
+  assigned_to:
+  - fig:4
+  basis: Abgarus reports that the Jews ridicule Jesus and intend mischief.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Letter of invitation
+  literal_form: A letter written by King Abgarus to Jesus and sent by Ananius to Jerusalem,
+    inviting Jesus to Edessa.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Jerusalem
+  literal_form: The place where Jesus appears and where the letter is sent.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Edessa
+  literal_form: Abgarus' city, described as small, neat, and large enough for both
+    Abgarus and Jesus.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:4
+  label: Disease
+  literal_form: The disease under which Abgarus says he suffers and wants Jesus to
+    cure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Abgarus writes to Jesus requesting healing
+  summary: King Abgarus addresses Jesus at Jerusalem, recounts reports of Jesus' medicine-free
+    cures and raising of the dead, infers a divine identity for Jesus, asks him to
+    come cure Abgarus' disease, notes danger from hostile Jews, and offers Edessa
+    as sufficient for them both.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Miraculous healing without medicines
+  taxonomy_refs: []
+  basis: Abgarus reports that Jesus performs cures without medicines or herbs and
+    heals blindness, lameness, leprosy, possession, and long disease.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports the cures in a letter rather than narrating a specific
+    healing scene.
+- id: motif:2
+  label: Raising the dead
+  taxonomy_refs:
+  - resurrection
+  basis: The reported powers of Jesus include raising the dead.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The dead-raising is listed as a reported act, not described as a full
+    resurrection episode.
+- id: motif:3
+  label: Divine identity inferred from miracles
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Abgarus says Jesus' works persuade him that Jesus is either God descended
+    from heaven or the Son of God.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage uses divine titles and alternatives but does not narrate a
+    parent-child interaction.
+- id: motif:4
+  label: Distant ruler invites healer to his city
+  taxonomy_refs: []
+  basis: Abgarus writes to Jesus, asks him to journey to Edessa to cure his disease,
+    and describes Edessa as suitable for both of them.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage records the invitation only; it does not narrate whether Jesus
+    travels.
+comparison_claims:
+- id: claim:1
+  claim: The passage aligns at a motif-family level with resurrection because it reports
+    that Jesus raises the dead.
+  claim_level: same_motif
+  target: resurrection motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a report of a power, not a detailed resurrection
+    narrative.
+- id: claim:2
+  claim: The passage aligns cautiously with a divine parent-child motif family through
+    the title 'Son of God' applied to Jesus.
+  claim_level: same_motif
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The evidence is a title within Abgarus' inference and does not include
+    a narrated parent-child relationship.
+- id: claim:3
+  claim: The passage fits a miraculous-healer pattern because Jesus is said to cure
+    multiple afflictions without medicines or herbs.
+  claim_level: same_function
+  target: miraculous healer pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The healing acts are summarized as reports rather than enacted in the
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8308-8314; Chapter I heading
+  quote_or_summary: The heading identifies the passage as a copy of a letter written
+    by King Abgarus to Jesus, sent by Ananius his footman to Jerusalem, inviting Jesus
+    to Edessa.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: Chapter I:1
+  quote_or_summary: '"ABGARUS, king of Edessa, to Jesus the good Saviour, who appears
+    at Jerusalem, greeting."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: Chapter I:2
+  quote_or_summary: Abgarus says he has been informed concerning Jesus and the cures
+    performed without medicines and herbs.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: Chapter I:3
+  quote_or_summary: Abgarus reports that Jesus makes the blind see, the lame walk,
+    cleanses lepers, casts out unclean spirits and devils, restores the long diseased,
+    and raises the dead.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: Chapter I:4
+  quote_or_summary: Abgarus says the reports persuade him that Jesus is either God
+    descended from heaven or the Son of God.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: Chapter I:5
+  quote_or_summary: Abgarus asks Jesus to make a journey to him and cure the disease
+    under which Abgarus suffers.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: Chapter I:6
+  quote_or_summary: Abgarus says he hears that the Jews ridicule Jesus and intend
+    mischief against him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: Chapter I:7
+  quote_or_summary: Abgarus describes his city as small, neat, and large enough for
+    both himself and Jesus.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit. Motif identifications are limited because
+    most miracle material is reported rather than narrated in individual scenes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to available motif families supplied in the request.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8308-l8349
+  passage_sha256=00eba6eb576c772a5d26d6986a4c49aaef0ef164b89b9981f1816c206ced7784
+

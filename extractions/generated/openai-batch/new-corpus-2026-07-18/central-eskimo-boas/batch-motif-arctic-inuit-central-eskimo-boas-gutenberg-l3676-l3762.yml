@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l3676-l3762
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SMITH SOUND. / TRADE AND INTERCOURSE BETWEEN THE TRIBES. / LIST OF THE CENTRAL
+    ESKIMO TRIBES. / SEAL, WALRUS, AND WHALE HUNTING.; lines 3676-3762
+  start: '3676'
+  end: '3762'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Central Eskimo methods and implements used in seal-hole
+    hunting: the hunter’s long wait at a breathing hole, wind shelter, leg restraint,
+    placement of tools, listening for the seal, striking the hole, optional use of
+    a qipekutang warning rod, closing wounds with plugs, attaching lines with toggles,
+    preventing line disorder with a whirl, dragging and securing the seal to a sledge,
+    and firearm hunting at winter water holes during spring tides.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a long wait is expected and famine is impending, a sealer may wait at
+    a seal hole for a whole day or longer despite cold and wind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sealer builds a semicircular wall of snow blocks against the wind and
+    makes a seat in its center.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A skin is placed under the hunter’s feet, and his legs are tied with a thong
+    fastened by a two-holed buckle called tutareang; the restraint helps keep him
+    quiet but can be opened quickly by force.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The hunter arranges a snow knife, an unang placed on two pegs, and a coil
+    of line in his lap; his left arm is kept out of its sleeve for warmth until action
+    is needed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: After hearing the seal breathe, the hunter puts his arm back into the sleeve,
+    takes the line coil, picks up the unang, rises, and strikes the center of the
+    hole.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ross and Rae are reported as saying that sealing at the hole is more difficult
+    in daylight than in darkness, while Boas notes that Davis Strait Eskimo do not
+    complain of daylight when snow is deep.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'A qipekutang warning implement may be used: a thin rod with a knob is stuck
+    through the snow into the water, and its movement indicates that a seal has risen
+    to breathe.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The qipekutang is generally made of whalebone, may have a string attached
+    for easier detection of motion, and is avoided by some because it can scare seals.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After a seal carcass is drawn from the water, its wounds are closed with ivory
+    plugs called tuputang, carried in wooden or leather cases.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A hole is cut beneath the lower jaw, a thong is passed through the hole and
+    mouth, and a qanging toggle is used to fasten the line to the seal.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Some qanging toggles are made in decorative forms, including seal shapes;
+    simpler examples may be plain ivory pieces with drilled holes.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: A qidjarung whirl may be used to prevent the hunting line from getting out
+    of order.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: After capture, the seal is dragged to the sledge, covered with bearskin, lashed
+    securely, allowed to freeze quickly, and the hunter sits on it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: Winter water holes are visited by Eskimo hunters, especially those with firearms,
+    who wait on the lower tide side, shoot a seal when it blows, and secure it with
+    a harpoon after it drifts to the ice edge.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: The winter water holes can be visited only at spring tides because a treacherous
+    floe partly covers the opening between those tides.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: seal-hole hunter
+  description: A sealer who waits at a seal breathing hole, prepares tools and restraints,
+    listens for the seal, and strikes the hole.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: seal
+  description: The hunted animal that rises to breathe or blow at a hole, may strike
+    the warning rod, and after capture is treated as a carcass to be plugged, tied,
+    transported, and secured.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Eskimo water-hole hunters
+  description: Eskimo hunters, especially those with firearms, who visit winter water
+    holes and wait at the tide-side position to shoot and harpoon seals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: patient seal-hole hunter
+  assigned_to:
+  - fig:1
+  basis: The passage describes the hunter’s shelter, restraint, waiting posture, tool
+    arrangement, listening, and striking action at a seal hole.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hunted breathing-hole animal
+  assigned_to:
+  - fig:2
+  basis: The seal is waited for at the breathing hole, rises or blows, and is struck
+    or shot.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: role:3
+  label: winter water-hole firearms hunters
+  assigned_to:
+  - fig:3
+  basis: The passage says Eskimo hunters, especially those with firearms, visit winter
+    water holes, wait on the lower tide side, shoot the seal, and secure it with a
+    harpoon.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: captured carcass and transported catch
+  assigned_to:
+  - fig:2
+  basis: After the animal is drawn from the water, wounds are plugged, a line is attached,
+    and the seal is dragged to the sledge, covered, lashed, and frozen.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: seal breathing hole or water hole
+  literal_form: Opening through snow or ice into water where a seal breathes or blows.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: semicircular snow-block wall and central seat
+  literal_form: Windbreak made of snow blocks with a seat in the center.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tutareang buckle and leg thong
+  literal_form: Two-holed buckle fastening a thong around the hunter’s legs to help
+    keep him quiet.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: snow knife
+  literal_form: Snow knife stuck into the snow at the hunter’s right hand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: unang
+  literal_form: Hunting implement placed on two pegs and used by the hunter when striking
+    the center of the hole.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:6
+  label: qipekutang warning rod
+  literal_form: Thin rod with a knob or knot, usually whalebone, stuck through the
+    snow into the water to show by movement that a seal has risen.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: tuputang ivory plugs
+  literal_form: Ivory plugs, triangular or square, used to close wounds in the seal
+    carcass and carried in a wooden or leather case.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: qanging toggle
+  literal_form: Small implement used to fasten a thong to the seal and prevent the
+    line from slipping through the hole.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: seal-shaped toggle forms
+  literal_form: Qanging examples sometimes made in the shape of seals or similar forms.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: qidjarung whirl
+  literal_form: Line whirl used to keep the hunting line from getting out of order;
+    one described form has a hollow body and an internal ball.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: sledge and bearskin covering
+  literal_form: Sledge to which the captured seal is dragged and bearskin used to
+    cover it before lashing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:12
+  label: firearms and harpoon at winter water holes
+  literal_form: Firearms used to shoot seals at water holes and a harpoon used to
+    secure the animal after it drifts to the ice edge.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Long-wait preparation at the seal hole
+  summary: A hunter expecting a long wait builds a snow-block windbreak, sits at the
+    center, places a skin under his feet, fastens his legs with a thong and tutareang
+    buckle, arranges tools, and keeps one arm out of the sleeve for warmth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Breathing heard and strike at the hole
+  summary: The hunter waits until he hears the seal breathing, then restores his arm
+    to the sleeve, takes the line coil, picks up the unang, rises, and strikes the
+    center of the hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Use of the qipekutang indicator
+  summary: A thin rod with a knob is set through the snow into the water so that a
+    seal rising to breathe moves the rod and warns the hunter; the implement may be
+    avoided because it scares seals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Closing wounds and attaching the line
+  summary: After the seal is drawn from the water, its wounds are closed with ivory
+    plugs, and a thong is attached through a cut beneath the lower jaw and mouth using
+    a qanging toggle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Line-ordering device
+  summary: A qidjarung whirl is described as an optional device for preventing the
+    hunting line from becoming disordered.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Transport and securing of captured seal
+  summary: The captured seal is dragged to the sledge, covered with bearskin, lashed
+    firmly, freezes quickly, and the hunter sits on it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Winter water-hole firearm hunting
+  summary: Eskimo hunters visit winter water holes, wait on the lower tide side, shoot
+    the seal when it blows, and secure it with a harpoon after it drifts to the ice
+    edge; the holes are usable only at spring tides because of a dangerous floe.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:12
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: patient vigil at an animal breathing hole
+  taxonomy_refs: []
+  basis: The passage presents a structured pattern of shelter-building, bodily restraint
+    for stillness, silent waiting, listening for breath, and striking at a seal breathing
+    hole.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic hunting pattern in the supplied passage, not a
+    mythological narrative motif; no supplied motif-family taxonomy clearly applies.
+- id: motif:2
+  label: tool-mediated detection and securing of prey
+  taxonomy_refs: []
+  basis: The passage describes a warning rod for detecting a seal, plugs for closing
+    wounds, toggles for fastening the line, and a whirl for line order.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The pattern is technical and subsistence-oriented; symbolic or sacred
+    interpretation is not stated in the passage.
+- id: motif:3
+  label: tide-conditioned winter water-hole hunt
+  taxonomy_refs: []
+  basis: The passage describes hunters using winter water holes only during spring
+    tides, positioning themselves by the tide direction, and combining shooting with
+    harpoon recovery.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is an environmental and hunting-practice pattern rather than a mythic
+    motif; no historical or symbolic comparison is implied.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage contrasts reports on seal-hole hunting conditions: Ross and
+    Rae are said to find daylight more difficult than darkness, while Boas states
+    that Davis Strait Eskimo do not complain about daylight when snow is deep.'
+  claim_level: same_function
+  target: seal-hole hunting under daylight versus darkness in Ross/Rae reports and
+    Davis Strait Eskimo practice
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional ethnographic comparison within the passage, not
+    a claim about mythic motif transmission, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3676-3694
+  quote_or_summary: The passage describes the hunter’s long wait, snow-block windbreak,
+    central seat, skin underfoot, leg thong with tutareang buckle, tool placement,
+    line coil, and sleeve arrangement at a seal hole.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 3694-3702
+  quote_or_summary: The hunter waits for the seal’s breathing, then puts his arm into
+    the sleeve, takes the coil, picks up the unang, rises, and strikes the center
+    of the hole.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 3703-3710
+  quote_or_summary: Ross and Rae are cited as saying seal-hole hunting is harder by
+    daylight than in darkness; Boas adds that Davis Strait Eskimo do not complain
+    about daylight when snow is deep.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 3711-3724
+  quote_or_summary: The qipekutang is described as a thin rod with a knob or knot,
+    usually whalebone, set through the snow into the water so seal movement signals
+    its approach; a string may be attached, but the implement may scare seals.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 3725-3746
+  quote_or_summary: After the carcass is pulled from the water, wounds are closed
+    with ivory tuputang plugs; a thong is passed through a hole beneath the lower
+    jaw and the mouth, and a qanging toggle secures the line, with some examples shaped
+    like seals.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 3747-3754
+  quote_or_summary: A qidjarung whirl is described as an optional device for keeping
+    the line in order, including one pattern with a hollow body and internal ball
+    and another simpler pattern.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 3755-3760
+  quote_or_summary: On capture, the seal is dragged to the sledge, covered with bearskin,
+    lashed securely, freezes quickly, and the hunter sits on it; sometimes a second
+    seal may be taken soon after arrival.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:8
+  type: summary
+  locator: lines 3760-3762
+  quote_or_summary: Winter water holes are visited by Eskimo hunters, especially firearm
+    users; they wait on the lower tide side, shoot the seal when it blows, secure
+    it with a harpoon, and can visit only at spring tides because of a treacherous
+    floe.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The material details and sequences are explicit in the passage. Motif candidates
+    are marked low overall because the passage is technical ethnography of hunting
+    practice rather than myth narrative. The single comparison claim is limited to
+    a reported functional contrast about daylight and darkness.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No sacred, mythological, or cosmological interpretation is stated in the supplied passage; taxonomy motif references were therefore left empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l3676-l3762
+  passage_sha256=cbb2fe39e52c1f1512af60d9b5d4556d7ed400de8e89a7668286a391ac99938e
+

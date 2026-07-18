@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6719-l6763
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 14 / PAGE 15 / PAGE 17 / PAGE 18; lines 6719-6763
+  start: '6719'
+  end: '6763'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives translator's notes and a literal rendering of a poem.
+    In the poem, a first-person speaker addresses Ailill, promises to heal him, proposes
+    an intimate courtship gesture and kissing, offers more of herself if needed for
+    healing, and lists valuables and beasts brought as a price for her, including
+    gifts attributed to Eochaid.
+  language: English, with cited Irish terms in notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first-person speaker tells Ailill that his healing will be done by the speaker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker invites Ailill to place a hand about the speaker's neck if it
+    pleases him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The poem describes woman and man kissing each other as a beginning of courtship.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says that, if this is not enough, the speaker will give from knee
+    to navel for Ailill's healing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The poem lists a hundred cows, a hundred ounces of gold, a hundred bridled
+    horses, and a hundred variegated garments as brought as a price for the speaker.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The poem says a hundred of each other beast came and that Eochaid gave these
+    to the speaker at one time until the sum was complete.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A translator's note says the Irish phrase ro lessaig may mean either healed
+    him or waited upon him, according to cited renderings.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ailill
+  description: Addressed as glorious Ailill, son of a king, and royal prince; recipient
+    of the promised healing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: First-person speaker of the poem
+  description: Speaker who promises to heal Ailill, invites intimate courtship, offers
+    from knee to navel, and says valuables were brought as a price for the speaker.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Eochaid
+  description: Named as the one who gave the beasts to the speaker until the sum was
+    complete.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Woman and man
+  description: Generic pair mentioned in the poem as kissing each other at the beginning
+    of courtship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: healing recipient
+  assigned_to:
+  - fig:1
+  basis: Ailill is told that his healing shall be done by the speaker.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: healer or promised healer
+  assigned_to:
+  - fig:2
+  basis: The speaker says Ailill's healing will be done by the speaker.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: courting speaker and valued bride-price recipient
+  assigned_to:
+  - fig:2
+  basis: The speaker invites courtship and says valuables were brought as a price
+    for the speaker.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: giver of payment or goods
+  assigned_to:
+  - fig:3
+  basis: Eochaid is said to have given the beasts to the speaker at one time.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: courtship pair
+  assigned_to:
+  - fig:4
+  basis: The poem explicitly describes woman and man kissing each other as a beginning
+    of courtship.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: hand about neck
+  literal_form: A hand placed about the speaker's neck
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: kissing in courtship
+  literal_form: Woman and man kissing each other
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: body offering from knee to navel
+  literal_form: The speaker's offer of giving from knee to navel for healing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: price of cows, gold, horses, garments, and beasts
+  literal_form: A hundred cows, a hundred ounces of gold, a hundred bridled horses,
+    a hundred variegated garments, and a hundred of each other beast
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Promise of healing to Ailill
+  summary: The speaker addresses Ailill and says that what he wished for is here and
+    that the speaker will perform his healing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Courtship gesture and kiss
+  summary: The speaker invites Ailill to put a hand about the speaker's neck and describes
+    woman and man kissing as a beginning of courtship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Additional bodily offer for healing
+  summary: The speaker says that, if the earlier gesture is insufficient, the speaker
+    will give from knee to navel for Ailill's healing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Enumeration of price and goods
+  summary: The poem lists large groups of cattle, gold, horses, garments, and other
+    beasts as brought or given as a price for the speaker, with Eochaid named as giver
+    of the completed sum.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Healing through intimate courtship or bodily offering
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker connects Ailill's healing with intimate gestures and an additional
+    bodily offer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a literal rendering with notes on uncertain translation;
+    it does not explain the ritual or narrative mechanics of the healing.
+- id: motif:2
+  label: Courtship joined to payment of a price for the beloved
+  taxonomy_refs:
+  - sacred_marriage
+  - sacred_exchange
+  basis: The poem places courtship language beside a detailed enumeration of goods
+    brought as a price for the speaker.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage uses the phrase price for me, but broader marital, legal,
+    or ritual context is not included in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6719-6763, poem stanza 1
+  quote_or_summary: '"since thou shalt find here what was wished by thee, / thy healing
+    shall be done by me."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6719-6763, poem stanza 2
+  quote_or_summary: '"place hand about my neck; / a beginning of courtship... / woman
+    and man kissing each other."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6719-6763, poem stanza 3
+  quote_or_summary: '"I will give for thy healing... / from my knee to my navel."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6719-6763, poem stanza 4
+  quote_or_summary: The poem lists a hundred cows, a hundred ounces of gold, a hundred
+    bridled horses, and a hundred variegated garments as brought as a price for the
+    speaker.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6719-6763, poem stanza 5
+  quote_or_summary: The poem says a hundred of each other beast came, and that Eochaid
+    gave these to the speaker at one time until the sum was complete.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: note
+  locator: lines 6719-6763, note on line 27 of text
+  quote_or_summary: A note reports alternative renderings of Irish ro lessaig as healed
+    him or waited upon him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the excerpt's translator notes and stated uncertainties.
+    Motif candidates are based only on the literal rendering supplied here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond candidate motif-family tagging.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6719-l6763
+  passage_sha256=2fd347dd9958dc698156f43ed57e60e39da0aead8a72d1e8952a1436bdd05b88
+

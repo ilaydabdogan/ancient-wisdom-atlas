@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l8575-l8593
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE PRAIRIE-DOGS AND THEIR PRIEST, THE BURROWING-OWL / HOW THE RATTLESNAKES
+    CAME TO BE WHAT THEY ARE / HOW THE CORN-PESTS WERE ENSNARED / JACK-RABBIT AND
+    COTTONTAIL; lines 8575-8593
+  start: '8575'
+  end: '8593'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“one asking for snow, the other for rain”"
+  summary: The Jack-rabbit and Cottontail live in different nearby places, see clouds
+    gather, and sing for different kinds of weather. The story explains that Jack-rabbits
+    run when it snows and Cottontails when it rains.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Anciently, the Jack-rabbit lived in a sage plain and the Cottontail rabbit
+    lived in a nearby cliff.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two rabbits saw clouds gather and went out to sing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Jack-rabbit is described as long-legged and sang for snow.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Cottontail is described as short-legged and sang for rain.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that one animal asked for snow and the other asked for
+    rain.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The passage gives a present-day result: the Jack-rabbit runs when it snows,
+    and the Cottontail runs when it rains.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jack-rabbit / Pók’ia
+  description: A long-legged rabbit who lived in a sage plain, sang for snow, and
+    is said to run when it snows.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Cottontail / Â′kshiko
+  description: A short-legged rabbit who lived in a nearby cliff, sang for rain, and
+    is said to run when it rains.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: snow-requesting singer
+  assigned_to:
+  - fig:1
+  basis: The Jack-rabbit is specifically said to sing for snow.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: rain-requesting singer
+  assigned_to:
+  - fig:2
+  basis: The Cottontail is specifically said to sing for rain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: animal whose present behavior is explained
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The story links each animal’s weather request to when that animal runs to
+    this day.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: gathering clouds
+  literal_form: clouds gather
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: snow
+  literal_form: snow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: rain
+  literal_form: rain
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rabbits sing after clouds gather
+  summary: The Jack-rabbit and Cottontail see clouds gather and go out to sing, each
+    asking for a different form of weather.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Explanation of present-day running behavior
+  summary: The passage explains that Jack-rabbits run when it snows and Cottontails
+    run when it rains because of the earlier weather requests.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: etiology of animal behavior through weather songs
+  taxonomy_refs: []
+  basis: The story links the rabbits’ songs for snow and rain to the present-day behavior
+    of each animal in those weather conditions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific provided taxonomy family directly names etiological animal-behavior
+    tales.
+- id: motif:2
+  label: contrasting animal pair requests different weather
+  taxonomy_refs: []
+  basis: The two rabbits are contrasted by body type, habitat, requested weather,
+    and resulting weather-linked behavior.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents contrast, but does not explicitly generalize it into
+    a broader dualistic system.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8575-8579
+  quote_or_summary: The title names Jack-rabbit and Cottontail; anciently the Jack-rabbit
+    lived in a sage plain and the Cottontail in a nearby cliff, and both saw clouds
+    gather and went out to sing.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: quote
+  locator: 8579-8583
+  quote_or_summary: "“The long-legged Jack-rabbit sang for snow”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 8585-8587
+  quote_or_summary: "“the short-legged Cottontail sang for rain”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: 8589-8592
+  quote_or_summary: "“one asking for snow, the other for rain; hence to this day the
+    Pók’ia (Jack-rabbit) runs when it snows, the Â′kshiko (Cottontail) when it rains.”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit about figures, actions, and etiological
+    outcome. Motif labels are descriptive rather than tied to a supplied taxonomy.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; Zuni terms are retained as given in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l8575-l8593
+  passage_sha256=47a2d08fdb7980a6858a2180f00a4320271e7fde31135029546eed26ee389fdd
+

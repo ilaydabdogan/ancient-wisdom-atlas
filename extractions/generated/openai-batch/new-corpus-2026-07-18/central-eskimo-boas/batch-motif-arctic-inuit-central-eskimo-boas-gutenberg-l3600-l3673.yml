@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l3600-l3673
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SMITH SOUND. / TRADE AND INTERCOURSE BETWEEN THE TRIBES. / LIST OF THE CENTRAL
+    ESKIMO TRIBES. / SEAL, WALRUS, AND WHALE HUNTING.; lines 3600-3673
+  start: '3600'
+  end: '3673'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Central Eskimo seal-hunting equipment and procedure:
+    harpoon lines, clasps, harpoon heads, sledges and dogs, locating a seal breathing
+    hole, concealing signs of disturbance, avoiding scent contamination, waiting for
+    the seal''s breathing, striking downward through the hole, and hauling the animal
+    up onto the ice.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hunter holds a coiled harpoon line whose doubled end forms a loop used
+    as a handle when a diving seal runs out the line.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A leather piece with slits and an ivory clasp is fastened to the loop; the
+    clasp usually represents a seal, with the seal's head forming a hook.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage distinguishes naulang and siatko harpoon heads by the orientation
+    of the edge relative to the line hole, and states that the whaling harpoon head
+    acts on the same principle as the siatko.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At dawn, the hunter harnesses dogs to the sledge, prepares the hunting implements,
+    and sets off for the hunting ground.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Near the expected seal area, a dog with a good scent is taken from the team
+    and followed until a seal's snow-covered breathing hole is found.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hunter checks whether the hole is still used by cutting a small opening
+    and looking for new ice over the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When a recently used hole is found, the hunter marks its center, fills the
+    peep hole with snow blocks, and tries not to alter the snow's appearance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Eskimo are said to avoid letting hairs from clothing fall into or remain
+    near the hole because they believe the smell would scare away the seal.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The center of the breathing hole is marked because the seal remains invisible
+    and a strike into the center is most likely to hit it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The hunter waits near the hole with the naulang fastened to the harpoon shaft,
+    the line coiled in the left hand, and the unang held in both hands, listening
+    until the seal blows.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: When the seal is heard, the hunter stands upright, drives the harpoon straight
+    downward, pays out the line, then cuts down the snow cover, hauls the line, dispatches
+    the seal, and draws it onto the ice.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo hunter
+  description: A seal hunter who prepares the sledge and implements, follows a scenting
+    dog, examines and marks the breathing hole, waits with harpoon and line, strikes
+    the seal, and hauls it up.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Seal
+  description: The hunted animal; it uses a breathing hole hidden under snow, remains
+    invisible below the surface, is heard when it blows, and is struck and drawn up
+    onto the ice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Sledge dogs and scenting dog
+  description: Dogs are harnessed to the sledge; one dog with a good scent is taken
+    from the team and followed to locate a seal's hole.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Hunter or harpooner
+  assigned_to:
+  - fig:1
+  basis: The figure prepares equipment, locates the hole, waits, strikes with the
+    harpoon, and retrieves the seal.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Hidden quarry
+  assigned_to:
+  - fig:2
+  basis: The seal remains invisible at the breathing hole, is detected by recent signs
+    and blowing, and is the animal struck and hauled up.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Scent guide and draft animal
+  assigned_to:
+  - fig:3
+  basis: The dogs pull the sledge, and a dog with a good scent guides the hunter to
+    the seal's hole.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Harpoon line with loop
+  literal_form: Coiled line with a doubled end forming a loop handle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Seal-shaped ivory clasp
+  literal_form: Ivory clasp on a leather strap, usually representing a seal whose
+    head forms a hook
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Harpoon and harpoon head
+  literal_form: Unang, naulang, siatko, and related harpoon-head forms used in seal
+    and whale hunting
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Seal breathing hole
+  literal_form: Snow-covered opening over water where the seal breathes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Young seal skin foot mat
+  literal_form: A small piece of skin, generally from a young seal, spread close to
+    the hole for the hunter's feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of seal-hunting line and clasp
+  summary: The passage describes the coiled line, loop handle, leather attachment,
+    and seal-shaped ivory clasp used with the harpoon line.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Harpoon-head comparison
+  summary: The passage describes the siatko harpoon head and contrasts its construction
+    with the naulang, also noting a functional similarity with the whaling harpoon
+    head.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Travel and finding the breathing hole
+  summary: At dawn the hunter harnesses dogs, prepares equipment, travels by sledge,
+    and uses a scenting dog to locate a snow-covered seal hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Preparing the hole without alarming the seal
+  summary: The hunter verifies that the breathing hole is active, marks its center,
+    restores the snow surface, and avoids leaving hair or scent near the hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Waiting, striking, and retrieving the seal
+  summary: The hunter waits at the hole with harpoon and line, listens for the seal's
+    blowing, strikes downward through the center, pays out and hauls in the line,
+    dispatches the seal, and draws it onto the ice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal-shaped hunting implement
+  taxonomy_refs: []
+  basis: The ivory clasp used on the harpoon line is described as usually representing
+    a seal, with the seal's head serving as a hook.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a material-culture pattern in an ethnographic passage, not a mythic
+    episode.
+- id: motif:2
+  label: Scent avoidance around hunted animal
+  taxonomy_refs: []
+  basis: The passage states that hunters avoid hairs from clothing falling into or
+    near the hole because they believe the smell would scare away the seal.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a practical hunting belief; it does not state
+    a ritual or supernatural cause.
+- id: motif:3
+  label: Guided search for hidden prey
+  taxonomy_refs: []
+  basis: A dog with good scent is followed to find a snow-covered seal breathing hole,
+    where the seal itself remains unseen.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an observed hunting procedure rather than a comparative myth motif.
+- id: motif:4
+  label: Waiting at a breathing hole for an unseen animal
+  taxonomy_refs: []
+  basis: The hunter waits with harpoon and line, listens for the seal's blowing, and
+    strikes downward through the marked center of the hidden hole.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The pattern is technical and ethnographic; no narrative or cosmological
+    interpretation is supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The siatko harpoon head and the whaling harpoon head are described as acting
+    on the same principle.
+  claim_level: same_function
+  target: Whaling harpoon head mentioned as Fig. 436
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to implement function as stated in the passage;
+    it does not support a mythological, historical-contact, or symbolic claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3600-3610
+  quote_or_summary: The harpoon line is coiled and held by the hunter; its loop may
+    carry a leather piece and ivory clasp, usually shaped as a seal whose head forms
+    a hook. Old British Museum specimens are said to show no change over about 150
+    years.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain.
+- id: ev:2
+  type: summary
+  locator: lines 3612-3621
+  quote_or_summary: Parry's siatko harpoon head is compared with the naulang by the
+    orientation of edge and line-hole; the passage adds that the head of the whaling
+    harpoon acts on the same principle.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain.
+- id: ev:3
+  type: summary
+  locator: lines 3623-3637
+  quote_or_summary: At dawn the hunter harnesses dogs, prepares the sledge and implements,
+    travels to the hunting ground, turns the sledge over to restrain the dogs, and
+    follows a scenting dog to a snow-covered seal hole, then checks whether the hole
+    is still active.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain.
+- id: ev:4
+  type: summary
+  locator: lines 3639-3653
+  quote_or_summary: For an active hole, the hunter marks the center, fills the peep
+    hole with snow, avoids changing the snow's appearance, prevents clothing hairs
+    from falling near the hole because their smell is believed to scare the seal,
+    and marks the center since the animal remains invisible.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain.
+- id: ev:5
+  type: summary
+  locator: lines 3653-3664
+  quote_or_summary: The hunter may place a small young-seal skin near the hole for
+    his feet, fasten the naulang to the harpoon shaft, hold the coiled line and unang,
+    wait and listen for the seal's blowing, then stand and thrust the harpoon straight
+    downward while paying out line.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain.
+- id: ev:6
+  type: summary
+  locator: lines 3665-3673
+  quote_or_summary: After the seal is struck, the line may detach from the shaft or
+    drag the harpoon into the water; the hunter cuts down the snow cover, hauls in
+    the line, dispatches the seal when it surfaces to breathe, and draws it onto the
+    ice.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a detailed ethnographic description of hunting technology
+    and procedure. Literal extraction is strong; motif labels are treated as practical
+    patterns rather than mythological motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available motif-family taxonomy refs are strongly supported by this passage. The only available symbol taxonomy ref used is water, for the literal breathing hole over water.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l3600-l3673
+  passage_sha256=6257dbf90234765b41de9eb535c9c0a8b7a9cdcc82d2bc25b37e984492ed4528
+

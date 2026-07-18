@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l603-l684
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: CRANIA. / LANGUAGE. / HOUSES. / ARTS.; lines 603-684
+  start: '603'
+  end: '684'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is an ethnographic description of Navajo arts: pottery, bows,
+    leather-dressing, embroidery, basketry, silver-work, weaving, loom arrangements,
+    women’s weaving practice, and knitting. It notes that certain baskets are required
+    in ceremonies and are called sacred baskets by the author.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Navajo arts are not numerous and describes pottery, bows
+    and arrows, deerskin dressing, and embroidery as limited or often obtained from
+    others.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bows and arrows are described as falling into disuse because people have money
+    and opportunity to buy modern firearms.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Navajo basketry is described as excellent but limited in quantity, forms,
+    and patterns, with many baskets and wicker water-jars purchased from other tribes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Certain kinds of baskets are required for rites; only women of the tribe are
+    said to understand the special ritual requirements; these baskets are used in
+    ceremonies and called sacred baskets by the author.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A few Navajo silversmiths are described as producing artistic work despite
+    rude tools and processes, and their work is sought by white people.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The smith’s working arrangement is described as changing from a forge on the
+    ground with squatting work posture to an elevated frame with a stool or chair.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Navajo weaving is described as especially excellent, and the blanket-making
+    art is said to have changed through double-sided designs, purchased aniline dyes,
+    and trader-supplied yarn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Diagonal cloth, belts, sashes, garters, and saddle-girths require changes
+    in loom arrangement and weaving method.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Navajo women are said to weave not only for gain but also for artistic recreation,
+    including women with large herds as well as poorer neighbors.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage reports knitting with four needles and notes knitted leggings
+    of human hair and wooden knitting-needles found in cliff-dwellings believed to
+    predate Spanish arrival.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Navahoes
+  description: The people whose arts and crafts are surveyed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Navaho women
+  description: Women are described as understanding ceremonial basket requirements
+    and as major practitioners of weaving.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Navaho silversmiths
+  description: A small number of tribal members who make artistic silver-work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Jake
+  description: A named maker of silver ornaments represented in one of the book’s
+    figures.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: community whose arts are described
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes arts, tools, crafts, and purchases attributed
+    to the Navahoes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: ceremonial basket knowledge holders
+  assigned_to:
+  - fig:2
+  basis: The passage states that only women of the tribe understand the special requirements
+    of the rites involving certain baskets.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: weavers
+  assigned_to:
+  - fig:2
+  basis: The passage identifies women as developing blanket-making and describes Navajo
+    women weaving as both labor and artistic recreation.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: silversmiths
+  assigned_to:
+  - fig:3
+  basis: The passage identifies a few silversmiths in the tribe and describes their
+    work and tools.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: named silver-ornament maker
+  assigned_to:
+  - fig:4
+  basis: The passage says silver ornaments shown in a figure were made by Jake.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacred baskets
+  literal_form: certain ceremonial baskets with patterns shown in figures 16 and 17
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: General survey of arts
+  summary: The passage surveys pottery, bows and arrows, deerskin dressing, and embroidery,
+    emphasizing limited production or reliance on other groups for some goods.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Basketry and ceremonial use
+  summary: Navajo basketry is described as excellent but narrow in range; certain
+    baskets are retained because rites require them, women know the special requirements,
+    and the baskets are used in ceremonies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Silver-work and changed work setup
+  summary: A few Navajo silversmiths make valued ornaments; the passage notes changes
+    in forge placement and working posture, and names Jake as maker of represented
+    ornaments.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Weaving excellence and material change
+  summary: Navajo weaving is praised, especially blankets, while the passage notes
+    double-sided design, purchased aniline dyes, and trader-supplied yarn as changes
+    in the art.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Loom arrangements for varied textiles
+  summary: The passage describes diagonal cloth, belts, sashes, garters, and saddle-girths
+    as requiring changes in simple loom mechanisms and weaving methods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Women weaving for recreation as well as gain
+  summary: Navajo women are described as weaving even when the financial return is
+    low, with weaving partly framed as artistic recreation.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Knitting and older material evidence
+  summary: The passage describes four-needle knitting and reports knitted human-hair
+    leggings and wooden knitting needles from cliff-dwellings believed to predate
+    Spanish arrival.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ceremonial object preserved by ritual requirement
+  taxonomy_refs: []
+  basis: The passage says certain baskets would possibly be lost as an art if they
+    were not required in rites, and that these baskets are used in ceremonies.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic craft description rather than a mythic narrative;
+    the sacred status is reported through the author’s terminology.
+- id: motif:2
+  label: gendered specialized ritual craft knowledge
+  taxonomy_refs: []
+  basis: The passage states that only women of the tribe understand the special requirements
+    for baskets used in rites.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not elaborate a myth explaining this knowledge or assign
+    it to named mythic figures.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 603-614
+  quote_or_summary: The arts of the Navahoes are described as not numerous; pottery,
+    bows and arrows, buckskins, and embroidery are discussed, with several arts described
+    as limited or obtained from other groups.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 616-631
+  quote_or_summary: They make excellent baskets but few; certain kinds are required
+    in rites, only women understand the special requirements, and the author calls
+    the ceremonial examples sacred baskets.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short quote/summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 633-644
+  quote_or_summary: A few tribal silversmiths produce artistic work; the passage describes
+    white demand, likely recent adoption, changed forge setup, and silver ornaments
+    made by Jake.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 646-660
+  quote_or_summary: Navajo weaving is praised above other Indigenous weaving within
+    the United States; blanket-making is described as changed by double-sided designs,
+    aniline dyes, and trader yarn.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 662-670
+  quote_or_summary: Diagonal cloth, belts, sashes, garters, and saddle-girths are
+    said to require changes in loom arrangement and weaving methods.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 672-679
+  quote_or_summary: The passage says Navajo women weave blankets not only for gain
+    but also for artistic recreation, even when returns are low.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 681-684
+  quote_or_summary: The passage describes four-needle knitting and reports human-hair
+    knitted leggings and wooden knitting-needles from cliff-dwellings believed older
+    than Spanish arrival.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence because the passage is descriptive.
+    Motif candidates are limited to ritual-object and ritual-knowledge patterns; the
+    passage is not a mythic narrative and no available taxonomy motif family is clearly
+    supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage’s cross-group remarks concern material-culture comparisons rather than explicit mythological motif relationships.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l603-l684
+  passage_sha256=1a791ff809a543b94be3361d55bf227f1659aa2dd7715d7c052770fb07d7b1e7
+

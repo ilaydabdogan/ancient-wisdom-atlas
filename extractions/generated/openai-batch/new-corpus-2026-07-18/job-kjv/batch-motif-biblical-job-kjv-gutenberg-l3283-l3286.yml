@@ -1,0 +1,157 @@
+---
+record_id: batch.motif.biblical-job-kjv-gutenberg-l3283-l3286
+source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+passage_locator:
+  label: 'The Bible, King James Version, Book 18: Job / Book 18        Job; lines
+    3283-3286'
+  start: '3283'
+  end: '3286'
+  translation: 'The Bible, King James Version, Book 18: Job'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: So Job died, being old and full of days.
+  summary: After the preceding events, Job lives one hundred and forty years, sees
+    his sons and descendants to four generations, and dies at an old age.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Job lives for one hundred and forty years after the preceding events.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Job sees his sons and his sons' sons, extending to four generations.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Job dies when he is old and described as full of days.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Job
+  description: The named figure who lives one hundred and forty years, sees descendants,
+    and dies old and full of days.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Job's sons
+  description: Job's sons, whom Job sees during his extended life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Job's sons' sons
+  description: Job's descendants, described as his sons' sons and associated with
+    four generations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: long-lived elder
+  assigned_to:
+  - fig:1
+  basis: Job is said to live one hundred and forty years after the preceding events.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dying elder
+  assigned_to:
+  - fig:1
+  basis: Job dies old and full of days.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: children
+  assigned_to:
+  - fig:2
+  basis: The passage names Job's sons as those he sees.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: descendants
+  assigned_to:
+  - fig:3
+  basis: The passage names Job's sons' sons and mentions four generations.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Job's long life and death
+  summary: Job lives one hundred and forty years after the preceding events, sees
+    sons and descendants over four generations, and then dies old and full of days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: long life with multi-generational descendants
+  taxonomy_refs: []
+  basis: The passage links Job's extended lifespan with seeing his sons and descendants
+    to four generations.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No explicit symbolic interpretation is given in the passage.
+- id: motif:2
+  label: peaceful death in fulfilled old age
+  taxonomy_refs: []
+  basis: Job's death is described as occurring when he is old and full of days.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly describe ritual, afterlife, or resurrection
+    motifs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3283-3284
+  quote_or_summary: Job lives one hundred and forty years and sees his sons and his
+    sons' sons, even four generations.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg metadata;
+    training and full text use allowed.
+- id: ev:2
+  type: quote
+  locator: line 3286
+  quote_or_summary: So Job died, being old and full of days.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain King James Version text from Project Gutenberg metadata;
+    training and full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is short and literal. Motif candidates are descriptive rather
+    than tied to a supplied taxonomy family because the passage itself does not explicitly
+    invoke one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs or comparison claims were added because the passage provides only a brief closing notice of longevity, descendants, and death.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-job-kjv-gutenberg__l3283-l3286
+  passage_sha256=9fc6573242d2044312b5076d4abf1a0fa6f5d323dce82b18c5191c0feab1fabf
+

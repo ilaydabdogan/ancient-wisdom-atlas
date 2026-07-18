@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15588-l15630
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: III. THE AUTHORITIES / PART ONE. BOOKS ONE, TWO, AND THREE / BOOK FOUR /
+    THE EVER-LIVING LIVING ONES; lines 15588-15630
+  start: '15588'
+  end: '15630'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: |-
+    BOOK FOUR
+
+    THE EVER-LIVING LIVING ONES
+  summary: An authorities section for Book Four lists the sources used for separate
+    stories, including headings for Midhir and Etain, Manannan, calls to Bran, Cormac,
+    and Connla, Cliodna's Wave, Tadg in the Islands, Laegaire in the Happy Plain,
+    and the Children of Lir.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage appears under Book Four with the heading "The Ever-Living Living
+    Ones."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator introduces the passage as a list of authorities used for separate
+    stories.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A story heading names Midhir and Etain and is followed by several listed authorities.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A story heading names Manannan at play and cites S. Hayes O'Grady's Silva
+    Gaedelica.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Three headings are phrased as calls: a call to Bran, three calls to Cormac,
+    and a call to Connla.'
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: obs:6
+  text: A heading names Cliodna's Wave and is followed by two listed authorities.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A heading places Tadg in the islands.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: A heading places Laegaire in the Happy Plain.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: A heading names the fate of the Children of Lir.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Midhir
+  description: Named in the heading "MIDHIR AND ETAIN."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Etain
+  description: Named in the heading "MIDHIR AND ETAIN."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Manannan
+  description: Named in the heading "MANANNAN AT PLAY."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Bran
+  description: Named after "to" in the heading "HIS CALL TO BRAN."
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Cormac
+  description: Named after "to" in the heading "HIS THREE CALLS TO CORMAC."
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Cliodna
+  description: Named in the possessive heading "CLIODNA'S WAVE."
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Connla
+  description: Named after "to" in the heading "HIS CALL TO CONNLA."
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Tadg
+  description: Named in the heading "TADG IN THE ISLANDS."
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Laegaire
+  description: Named in the heading "LAEGAIRE IN THE HAPPY PLAIN."
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:10
+  name_or_label: Children of Lir
+  description: Group named in the heading "FATE OF THE CHILDREN OF LIR."
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: named in a story heading
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: Each assigned figure or group is named in one of the listed story headings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:2
+  label: named addressee in a call heading
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: The headings use the forms "Call to Bran," "Three Calls to Cormac," and "Call
+    to Connla."
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: figure associated with a titled wave
+  assigned_to:
+  - fig:6
+  basis: The heading is phrased possessively as "Cliodna's Wave."
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: figure placed in a titled locality
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The headings place Tadg "in the Islands" and Laegaire "in the Happy Plain."
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: named child group
+  assigned_to:
+  - fig:10
+  basis: The heading identifies the group as "the Children of Lir."
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: wave
+  literal_form: wave
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: number three
+  literal_form: three calls
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: islands
+  literal_form: islands
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Happy Plain
+  literal_form: Happy Plain
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: call to a named recipient
+  taxonomy_refs: []
+  basis: 'Multiple story headings are framed as calls directed to named recipients:
+    Bran, Cormac, and Connla.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: low
+  cautions: The passage is an authority list and does not narrate the caller, content,
+    journey, response, or outcome of any call.
+- id: motif:2
+  label: named figure associated with a wave
+  taxonomy_refs: []
+  basis: The title "Cliodna's Wave" directly associates a named figure with a wave.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: Only the title is present; the passage gives no narrative function for
+    the wave.
+- id: motif:3
+  label: named figure located in a special place title
+  taxonomy_refs: []
+  basis: 'Two headings place named figures in titled locations: Tadg in the Islands
+    and Laegaire in the Happy Plain.'
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: low
+  cautions: The passage does not describe the places or events occurring there.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15588-15593
+  quote_or_summary: '"BOOK FOUR"; "THE EVER-LIVING LIVING ONES"; the narrator says
+    separate story authorities may be given.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt and summary used.
+- id: ev:2
+  type: summary
+  locator: 15595-15601
+  quote_or_summary: The heading "MIDHIR AND ETAIN" is followed by authorities including
+    O'Curry, Whitley Stokes, Mller, Nutt, De Jubainville, and Standish Hayes O'Grady.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 15603-15604
+  quote_or_summary: The heading "MANANNAN AT PLAY" is followed by S. Hayes O'Grady,
+    Silva Gaedelica.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 15606-15609
+  quote_or_summary: The heading "HIS CALL TO BRAN" is followed by authorities including
+    Kuno Meyer, S. Hayes O'Grady, and De Jubainville.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 15611-15612
+  quote_or_summary: The heading "HIS THREE CALLS TO CORMAC" is followed by Whitley
+    Stokes, Irische Texte.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 15614-15616
+  quote_or_summary: The heading "CLIODNA'S WAVE" is followed by authorities by S.
+    Hayes O'Grady and Whitley Stokes.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 15618-15620
+  quote_or_summary: The heading "HIS CALL TO CONNLA" is followed by O'Beirne Crowe
+    and Windisch as authorities.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: 15622-15623
+  quote_or_summary: The heading "TADG IN THE ISLANDS" is followed by S. Hayes O'Grady,
+    Silva Gaedelica.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: 15625-15627
+  quote_or_summary: The heading "LAEGAIRE IN THE HAPPY PLAIN" is followed by S.H.
+    O'Grady and Kuno Meyer as authorities.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: 15629-15630
+  quote_or_summary: The heading "FATE OF THE CHILDREN OF LIR" is followed by O'Curry,
+    Atlantis.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but the passage is a bibliographic
+    authorities list rather than a narrative episode. Motif candidates are therefore
+    limited to title-level patterns only. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This record intentionally avoids narrative claims not present in the passage. Story headings and source authorities are treated as the primary evidence.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15588-l15630
+  passage_sha256=e4a7041c377fa6704c3934b75237afeb3f7b35b58235df2f5415c5d644679fae
+

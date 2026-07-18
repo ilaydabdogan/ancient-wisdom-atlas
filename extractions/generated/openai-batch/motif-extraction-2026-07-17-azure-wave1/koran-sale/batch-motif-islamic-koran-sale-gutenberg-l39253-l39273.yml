@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39253-l39273
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER CVII. / ENTITLED, NECESSARIES; WHERE IT WAS REVEALED IS DISPUTED.
+    / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CVIII.; lines 39253-39273
+  start: '39253'
+  end: '39273'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter CVII, titled “Necessaries,” opens with an invocation of the Most
+    Merciful God. It asks about one who denies future judgment and identifies such
+    conduct with pushing away the orphan and failing to encourage feeding the poor.
+    It then pronounces woe on those who pray negligently, act hypocritically, and
+    deny necessities to the needy. The excerpt ends with the heading for Chapter CVIII,
+    “Al Cawthar,” said to be revealed at Mecca.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens the chapter with an invocation in the name of the Most Merciful
+    God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A question is posed about a person who denies future judgment as falsehood.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The denier is described as pushing away the orphan and not stirring others
+    to feed the poor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Woe is pronounced upon people who pray while being negligent at their prayer.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same condemned worshippers are described as hypocrites who deny necessaries
+    to the needy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The next chapter heading names Chapter CVIII as “Al Cawthar” and states that
+    it was revealed at Mecca.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Most Merciful God
+  description: The deity invoked in the opening formula.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Denier of future judgment
+  description: A person described as denying future judgment, pushing away the orphan,
+    and failing to encourage feeding the poor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Orphan
+  description: The orphan is pushed away by the denier.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Poor and needy persons
+  description: The poor are not encouraged to be fed, and the needy are denied necessaries.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Negligent hypocritical worshippers
+  description: People who pray negligently, play the hypocrites, and deny necessaries
+    to the needy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Invoked deity
+  assigned_to:
+  - fig:1
+  basis: The opening formula invokes God as most merciful.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Denier of future judgment
+  assigned_to:
+  - fig:2
+  basis: The passage asks about one who denies future judgment and then describes
+    his conduct toward the orphan and poor.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Vulnerable recipients denied care
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The orphan is pushed away; the poor and needy are not given or encouraged
+    to receive needed support.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Negligent hypocritical worshippers
+  assigned_to:
+  - fig:5
+  basis: The passage condemns those who pray negligently, act hypocritically, and
+    deny necessaries to the needy.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Invocation and question about judgment
+  summary: The chapter opens by invoking the Most Merciful God and asks about a person
+    who denies future judgment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Neglect of orphan and poor
+  summary: The denier of future judgment is associated with pushing away the orphan
+    and failing to encourage feeding the poor.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Condemnation of negligent prayer and withholding aid
+  summary: Woe is declared against worshippers who are negligent in prayer, act hypocritically,
+    and deny necessities to the needy.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Denial of future judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly refers to one who denies future judgment as falsehood.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage names future judgment but does not describe a judgment scene
+    or afterlife process.
+- id: motif:2
+  label: Neglect of orphan and poor
+  taxonomy_refs: []
+  basis: The denier is characterized by pushing away the orphan and failing to encourage
+    feeding the poor.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical admonition rather than a developed narrative motif.
+- id: motif:3
+  label: Hypocritical prayer joined to refusal of aid
+  taxonomy_refs: []
+  basis: The passage condemns those who pray negligently, act as hypocrites, and deny
+    necessaries to the needy.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No explicit comparative taxonomy reference is supplied by the available
+    motif list for this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '39257'
+  quote_or_summary: "“IN THE NAME OF THE MOST MERCIFUL GOD.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 39259-39261
+  quote_or_summary: The text asks about one who denies future judgment; it identifies
+    him as one who pushes away the orphan and does not stir others to feed the poor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 39262-39265
+  quote_or_summary: Woe is pronounced upon those who pray negligently, play hypocrites,
+    and deny necessaries to the needy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 39268-39270
+  quote_or_summary: The following heading identifies Chapter CVIII as entitled “Al
+    Cawthar” and revealed at Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and primarily admonitory. Literal extraction is straightforward,
+    but motif classification is limited by the absence of narrative detail. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied available symbol list are explicitly present in this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39253-l39273
+  passage_sha256=fd3db14c9e0a57fc7da13c81224f5506e95ffd66464e5f96fb09237d43a6e399
+

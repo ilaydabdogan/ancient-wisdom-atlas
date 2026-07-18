@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l1555-l1563
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Footnotes / Chapter 21 / Chapter 22 / Chapter 23; lines 1555-1563
+  start: '1555'
+  end: '1563'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage commands a seven-day feast to Yahweh in the seventh month,
+    involving tree fruit and branches, rejoicing before Yahweh, and dwelling in temporary
+    shelters so later generations remember that Yahweh made the children of Israel
+    dwell in temporary shelters when he brought them out of Egypt. Moses declares
+    the appointed feasts to Israel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On the first day, the people are instructed to take fruit of majestic trees,
+    palm branches, boughs of thick trees, and willows of the brook.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people are instructed to rejoice before Yahweh their God for seven days.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The observance is to be kept as a feast to Yahweh for seven days in the year,
+    in the seventh month, as a statute forever throughout generations.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people are instructed to dwell in temporary shelters for seven days, with
+    all native-born in Israel dwelling in temporary shelters.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The stated purpose of dwelling in temporary shelters is that later generations
+    may know Yahweh made the children of Israel dwell in temporary shelters when he
+    brought them out of Egypt.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Moses declares the appointed feasts of Yahweh to the children of Israel.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: The deity before whom the people rejoice and who says he made the children
+    of Israel dwell in temporary shelters when he brought them out of Egypt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: children of Israel
+  description: The group addressed by Moses and identified as having been made to
+    dwell in temporary shelters when brought out of Egypt.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: native-born in Israel
+  description: Those specifically required to dwell in temporary shelters during the
+    seven-day observance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Moses
+  description: The figure who declares the appointed feasts of Yahweh to the children
+    of Israel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: generations
+  description: Later generations who are to know the reason for the temporary-shelter
+    observance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: divine source of remembered deliverance
+  assigned_to:
+  - fig:1
+  basis: Yahweh is named as the one who made Israel dwell in shelters and brought
+    them out of Egypt.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: festival recipients
+  assigned_to:
+  - fig:2
+  basis: Moses declares the appointed feasts to the children of Israel.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: remembered exodus group
+  assigned_to:
+  - fig:2
+  basis: The children of Israel are described as having dwelt in temporary shelters
+    when brought out of Egypt.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: shelter dwellers
+  assigned_to:
+  - fig:3
+  basis: All native-born in Israel are instructed to dwell in temporary shelters.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: declarer of appointed feasts
+  assigned_to:
+  - fig:4
+  basis: Moses declares the appointed feasts of Yahweh to the children of Israel.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: future commemorative audience
+  assigned_to:
+  - fig:5
+  basis: The shelter rite is said to teach future generations the reason for the observance.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: temporary shelters
+  literal_form: temporary shelters inhabited for seven days
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: tree fruit and branches
+  literal_form: fruit of majestic trees, palm branches, boughs of thick trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: willows of the brook
+  literal_form: willows of the brook
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: seven days
+  literal_form: seven-day period of rejoicing, feasting, and shelter dwelling
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: seventh month
+  literal_form: the seventh month as the appointed time of the feast
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: First-day plant taking and rejoicing
+  summary: The people are instructed to take specified tree products and rejoice before
+    Yahweh for seven days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Annual seven-day feast statute
+  summary: The feast to Yahweh is established as a seven-day yearly observance in
+    the seventh month, continuing throughout generations.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dwelling in temporary shelters
+  summary: The people, especially all native-born in Israel, are instructed to dwell
+    in temporary shelters for seven days.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Commemorative explanation of Egypt departure
+  summary: The shelter dwelling is explained as a way for generations to know that
+    Yahweh made the children of Israel dwell in temporary shelters when he brought
+    them out of Egypt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Moses declares appointed feasts
+  summary: Moses declares the appointed feasts of Yahweh to the children of Israel.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: annual sacred festival in a fixed month
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage establishes a yearly seven-day feast to Yahweh in the seventh
+    month.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage specifies ritual timing but does not describe a full agricultural
+    cycle beyond the annual month.
+- id: motif:2
+  label: commemorative dwelling in temporary shelters
+  taxonomy_refs:
+  - departure
+  basis: Dwelling in temporary shelters is explicitly tied to remembering that Yahweh
+    made Israel dwell in shelters when he brought them out of Egypt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The departure from Egypt is referenced briefly and not narrated in this
+    passage.
+- id: motif:3
+  label: perpetual divine statute across generations
+  taxonomy_refs:
+  - covenant
+  basis: The feast is called a statute forever throughout generations and is directed
+    toward Yahweh.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage uses statutory language but does not explicitly use the word
+    covenant in this excerpt.
+- id: motif:4
+  label: ritual use of tree products before the deity
+  taxonomy_refs: []
+  basis: The observance begins with taking tree fruit, palm branches, boughs, and
+    brook willows, followed by rejoicing before Yahweh.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage says to take the plants but does not specify whether they
+    are offerings, decorations, or carried objects.
+comparison_claims:
+- id: claim:1
+  claim: The temporary-shelter rite is explicitly linked to the earlier departure
+    from Egypt and functions as commemoration of that remembered event.
+  claim_level: same_function
+  target: departure from Egypt / departure motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to the internal connection stated in the passage;
+    it does not establish external historical contact or broader cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1555-1556; Leviticus 23:40
+  quote_or_summary: On the first day, the people are told to take tree fruit, palm
+    branches, thick-tree boughs, and brook willows, and to rejoice before Yahweh for
+    seven days.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1557-1558; Leviticus 23:41
+  quote_or_summary: The feast to Yahweh is to last seven days each year, remain a
+    statute forever through generations, and be kept in the seventh month.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1559-1560; Leviticus 23:42
+  quote_or_summary: The people are instructed to dwell in temporary shelters for seven
+    days; all native-born in Israel are to dwell in temporary shelters.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1561-1562; Leviticus 23:43
+  quote_or_summary: The stated purpose is that generations may know Yahweh made the
+    children of Israel dwell in temporary shelters when he brought them out of Egypt.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 1563; Leviticus 23:44
+  quote_or_summary: Moses declares the appointed feasts of Yahweh to the children
+    of Israel.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ritual instructions and figures are clear. Motif taxonomy mapping
+    is cautious because the passage is legal-ritual prose and only briefly references
+    the Egypt departure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied Leviticus passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l1555-l1563
+  passage_sha256=49486100c584ae0f07ee8b36e40642919a89c3c5ebff470b38552746f583f77b
+

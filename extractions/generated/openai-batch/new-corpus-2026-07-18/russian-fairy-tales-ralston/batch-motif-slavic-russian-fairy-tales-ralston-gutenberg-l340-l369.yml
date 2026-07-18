@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l340-l369
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: CHAPTER V. / GHOST STORIES. / CHAPTER VI. / LEGENDS.; lines 340-369
+  start: '340'
+  end: '369'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents segment listing topics for Chapter V,
+    “Ghost Stories,” and Chapter VI, “Legends.” It enumerates subjects concerning
+    the dead, heaven and hell, named story patterns, ghosts, vampires, saints, animals
+    and objects in legends, demons, curses, possession, tricks, gratitude, devils,
+    and a moral tale.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage labels Chapter V as “Ghost Stories” and lists topics under that
+    chapter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ghost-stories chapter topics include Slavonic ideas about the dead and
+    heaven and hell.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ghost-stories chapter topics name the Jack and the Beanstalk story and
+    the Rip van Winkle story.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The ghost-stories chapter topics include harmless ghosts, ghosts attached
+    to shrouds and coffin-lids, murderous ghosts, vampire stories, the name vampire,
+    and belief in vampirism.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The legends chapter has a subsection “Saints, &c.” listing legends connected
+    with the dog, izba, creation of man, rye, snake, ox, sole, birds, and named saints.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The demons subsection lists hasty words and parental curses as having power
+    to subject persons to demoniacal possession.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The demons subsection lists the dullness of demons, tricks played upon them,
+    their gratitude to those who treat them kindly, their general behavior, legends
+    about devils, and a moral tale.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Dead
+  description: The contents list “Slavonic Ideas about the Dead” as a ghost-stories
+    topic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ghosts
+  description: The contents list harmless ghosts, ghosts attached to shrouds and coffin-lids,
+    and murderous ghosts.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Vampires
+  description: The contents list stories about vampires, the name vampire, and belief
+    in vampirism.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Saints
+  description: The legends subsection is headed “Saints, &c.” and names SS. Nicholas,
+    Andrew, George, Kasian, and others.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Demons and devils
+  description: The contents list demons in skazkas, demoniacal possession, the dullness
+    of demons, tricks played upon them, their gratitude to kind people, and legends
+    about devils.
+  role_refs:
+  - role:6
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Persons subject to demoniacal possession
+  description: The contents state that hasty words and parental curses have power
+    to subject persons to demoniacal possession.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: afterlife-belief subject
+  assigned_to:
+  - fig:1
+  basis: The passage lists Slavonic ideas about the dead and heaven and hell.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ghostly being
+  assigned_to:
+  - fig:2
+  basis: The passage lists harmless ghosts and murderous ghosts.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: being attached to burial objects
+  assigned_to:
+  - fig:2
+  basis: The passage lists the attachment of ghosts to shrouds and coffin-lids.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: vampiric being or belief subject
+  assigned_to:
+  - fig:3
+  basis: The passage lists vampire stories, the name vampire, and belief in vampirism.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: saintly legend figure
+  assigned_to:
+  - fig:4
+  basis: The passage names saints in the legends subsection.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: possessing demonic entity
+  assigned_to:
+  - fig:5
+  basis: The passage says hasty words and parental curses can subject persons to demoniacal
+    possession.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: tricked supernatural target
+  assigned_to:
+  - fig:5
+  basis: The passage lists stories about tricks played upon demons.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: grateful supernatural responder
+  assigned_to:
+  - fig:5
+  basis: The passage lists demons’ gratitude to those who treat them with kindness.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: cursed or possessed person
+  assigned_to:
+  - fig:6
+  basis: The passage refers to persons subjected to demoniacal possession by hasty
+    words and parental curses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Heaven and Hell
+  literal_form: Heaven and Hell
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Shrouds and coffin-lids
+  literal_form: Shrouds and Coffin-Lids
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Snake
+  literal_form: Snake
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Izba
+  literal_form: Izba
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Rye
+  literal_form: Rye
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Birds
+  literal_form: Birds; Peewit, Sparrow, Swallow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ghost-stories contents unit
+  summary: The contents group topics about the dead, heaven and hell, named story
+    patterns, ghosts, vampire stories, and vampirism under Chapter V.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Saints and legends contents unit
+  summary: The contents introduce a legends subsection about saints and legends connected
+    with animals, an izba, the creation of man, rye, a snake, birds, and named saints.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Demons contents unit
+  summary: The contents list demon-related skazka topics, hasty words, parental curses
+    and possession, tricks on demons, demon gratitude, devils, and a moral tale.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: afterlife realms and the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The contents list Slavonic ideas about the dead and heaven and hell.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage only lists topics; it does not describe an afterlife journey
+    or map.
+- id: motif:2
+  label: ghosts attached to burial objects
+  taxonomy_refs: []
+  basis: The contents list the attachment of ghosts to shrouds and coffin-lids.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a contents heading is present; no narrative episode is supplied.
+- id: motif:3
+  label: murderous ghosts and vampires
+  taxonomy_refs: []
+  basis: The contents list murderous ghosts, vampire stories, the name vampire, and
+    belief in vampirism.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no details about the vampire stories or ghost actions.
+- id: motif:4
+  label: creation of man legend
+  taxonomy_refs: []
+  basis: The contents list legends connected with the creation of man.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No creation narrative is included in this passage.
+- id: motif:5
+  label: snake-associated legend
+  taxonomy_refs:
+  - serpent
+  basis: The contents list legends connected with the snake.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The snake is listed as a topic only; its narrative role is not described.
+- id: motif:6
+  label: curse-caused demoniacal possession
+  taxonomy_refs: []
+  basis: The contents list hasty words and parental curses as having power to subject
+    persons to demoniacal possession.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not provide a specific curse or possession episode.
+- id: motif:7
+  label: tricks played upon demons
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The contents list stories about tricks played upon demons.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The trickster role is inferred from the listed act of tricking demons;
+    no trick narrative is present.
+- id: motif:8
+  label: supernatural gratitude for kindness
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The contents list demons’ gratitude to those who treat them with kindness.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The sacred-exchange taxonomy fit is broad; the passage only states a topic
+    heading.
+- id: motif:9
+  label: Jack and the Beanstalk story reference
+  taxonomy_refs: []
+  basis: The contents name “the Jack and the Beanstalk Story” as a ghost-stories chapter
+    topic.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage only names the story; it gives no plot or motif details.
+- id: motif:10
+  label: Rip van Winkle story reference
+  taxonomy_refs: []
+  basis: The contents name “The Rip van Winkle Story” as a ghost-stories chapter topic.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage only names the story; it gives no plot or motif details.
+comparison_claims:
+- id: claim:1
+  claim: The contents explicitly name the Jack and the Beanstalk story as a topic
+    in the ghost-stories chapter, supporting only that this story pattern is a discussion
+    target in the source.
+  claim_level: same_motif
+  target: Jack and the Beanstalk story pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No narrative details or explicit parallel are provided in the passage;
+    the claim is limited to a named contents reference.
+- id: claim:2
+  claim: The contents explicitly name the Rip van Winkle story as a topic in the ghost-stories
+    chapter, supporting only that this story pattern is a discussion target in the
+    source.
+  claim_level: same_motif
+  target: Rip van Winkle story pattern
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No narrative details or explicit parallel are provided in the passage;
+    the claim is limited to a named contents reference.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 340-348
+  quote_or_summary: "“CHAPTER V. GHOST STORIES. Slavonic Ideas about the Dead--On
+    Heaven and Hell--On the Jack and the Beanstalk Story...”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 346-348
+  quote_or_summary: "“Harmless Ghosts--The Rip van Winkle Story--the attachment of
+    Ghosts to their Shrouds and Coffin-Lids--Murderous Ghosts--Stories about Vampires--on
+    the name Vampire, and the belief in Vampirism”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 350-358
+  quote_or_summary: "“CHAPTER VI. LEGENDS. 1. Saints, &c. Legends connected with the
+    Dog, the Izba, the Creation of Man, the Rye, the Snake, Ox, Sole, &c.; with Birds...Legends
+    about SS. Nicholas, Andrew, George, Kasian, &c.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 360-365
+  quote_or_summary: "“2. Demons, &c. Part played by Demons in the Skazkas--On ‘Hasty
+    Words,’ and Parental Curses; their power to subject persons to demoniacal possession...”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 365-369
+  quote_or_summary: "“The dulness of Demons; Stories about Tricks played upon them--Their
+    Gratitude to those who treat them with Kindness and their General Behavior--Various
+    Legends about Devils--Moral Tale of the Gossip's Bedstead”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a contents listing rather than a complete narrative. Literal
+    topic extraction is straightforward, but motif and comparison candidates are limited
+    because no episodes are narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Motifs are topic-level candidates derived from a table-of-contents passage, not from narrative scenes.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l340-l369
+  passage_sha256=c98f2e0e67e035e9c973d365f37f2e89f16238ebaf6f987df37b04bdc5f1e814
+

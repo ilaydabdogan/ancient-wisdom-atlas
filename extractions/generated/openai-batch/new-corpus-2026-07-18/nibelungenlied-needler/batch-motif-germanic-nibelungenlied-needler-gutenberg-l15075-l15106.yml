@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l15075-l15106
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: TWENTY-NINTH ADVENTURE / THIRTIETH ADVENTURE / THIRTY-FIRST ADVENTURE / THIRTY-SECOND
+    ADVENTURE; lines 15075-15106
+  start: '15075'
+  end: '15106'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Thus strode he 'mid the foemen / as doth in wood the boar / By yelping hounds
+    beleaguered
+  summary: A weary knight identified as Hagen's brother fights his way through surrounding
+    enemies toward the court. Stewards and cup-bearers drop goblets and food when
+    they hear the clash of swords. He tells them to attend to the guests and let him
+    bring tidings to his masters. Anyone blocking the stairway is struck with his
+    sword and yields before him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Enemies press the knight's way from both right and left sides.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The knight is compared to a boar in the woods surrounded by yelping hounds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: His path is wet with blood as he advances while surrounded by foes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Stewards and cup-bearers hear sword-blades ringing and drop goblets and food
+    they were carrying to the table.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The weary knight tells the stewards to serve the guests and allow him to bring
+    tidings to his masters.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Whoever springs before him across the stairway is struck by his sword and
+    gives way.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hagen's brother / weary knight
+  description: A weary knight, identified in the passage as Hagen's brother, fights
+    through enemies toward the court and seeks to report tidings to his masters.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Foemen / enemies
+  description: Opponents surround the knight, beset his way, withstand him near the
+    door, and block the stairway.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Stewards and cup-bearers
+  description: Household attendants carrying goblets and food who hear sword-blades
+    ringing and are addressed by the knight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Guests and lords at table
+  description: Recipients of food and service mentioned in the knight's speech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Masters dear
+  description: The unnamed masters to whom the knight wishes to bring tidings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: surrounded fighter
+  assigned_to:
+  - fig:1
+  basis: He advances while enemies press him on both sides and while he is surrounded
+    by foes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: message-bearer
+  assigned_to:
+  - fig:1
+  basis: He asks to be allowed to bring tidings to his masters.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: blocking opponents
+  assigned_to:
+  - fig:2
+  basis: They beset his way, withstand him near the door, and spring before him across
+    the stairway.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: table attendants
+  assigned_to:
+  - fig:3
+  basis: They are stewards and cup-bearers carrying goblets and viands for the table.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: banquet recipients
+  assigned_to:
+  - fig:4
+  basis: They are described as guests and lords at table to whom food should be borne.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: intended recipients of tidings
+  assigned_to:
+  - fig:5
+  basis: The knight says he wants to tell tidings to his masters.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mighty sword
+  literal_form: The knight's sword, with which he strikes those who block the stairway.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: blood-wet pathway
+  literal_form: The pathway made wet with reeking blood as the knight advances.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: boar surrounded by hounds
+  literal_form: A simile likening the knight among enemies to a boar in the woods
+    surrounded by yelping hounds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: goblets and food dropped by attendants
+  literal_form: Brimming goblets and viands dropped by stewards and cup-bearers when
+    sword-blades ring.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: stairway and door as contested passage
+  literal_form: The door and stairway where opponents withstand or block the knight's
+    movement.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: The knight fights through encircling enemies
+  summary: The knight advances between enemies on both sides, is compared to a boar
+    surrounded by hounds, and makes his way toward the court over a blood-wet path.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Attendants drop banquet service amid fighting
+  summary: Stewards and cup-bearers hear sword-blades ringing, drop goblets and food,
+    and encounter the fighting near the door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The knight demands passage to deliver tidings
+  summary: The weary knight tells the stewards to serve the guests and let him report
+    tidings to his masters, then strikes those who block the stairway.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hero fights through many surrounding foes
+  taxonomy_refs: []
+  basis: The passage repeatedly describes one knight advancing while beset from both
+    sides, surrounded by foes, and overcoming those who block his path.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a local heroic-combat pattern; no supplied taxonomy family directly
+    matches it.
+- id: motif:2
+  label: message-bearer forces passage through battle
+  taxonomy_refs: []
+  basis: The knight asks to be allowed to bring tidings to his masters while continuing
+    to fight through blockers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The content and importance of the tidings are not given in this passage.
+- id: motif:3
+  label: banquet service interrupted by violence
+  taxonomy_refs: []
+  basis: Stewards and cup-bearers carrying goblets and food drop them when they hear
+    sword-blades and encounter fighting near the door.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The broader banquet context is only indirectly visible in this line range.
+- id: motif:4
+  label: hero compared to hunted wild animal
+  taxonomy_refs: []
+  basis: The knight among enemies is explicitly compared to a boar in the woods beleaguered
+    by yelping hounds.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an explicit simile in the passage, not evidence by itself of a
+    wider historical motif connection.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15075-15082
+  quote_or_summary: Enemies beset him from right and left; he strides among them like
+    a boar in the wood beleaguered by yelping hounds.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; brief excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15083-15090; stanza 1947
+  quote_or_summary: His pathway is wet with blood; he fights bravely while surrounded
+    and Hagen's brother makes his way to court with valor.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15091-15098; stanza 1948
+  quote_or_summary: Stewards and cup-bearers hear sword-blades ringing, drop brimming
+    goblets and viands, and many foes withstand him near the door.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15099-15106; stanza 1949
+  quote_or_summary: The weary knight tells the stewards that they should tend the
+    guests, bear fitting food to the lords at table, and allow him to tell tidings
+    to his masters.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: following lines in supplied passage; stanza 1950
+  quote_or_summary: Whoever rashly springs before him across the stairway is struck
+    by his mighty sword and yields before his path.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are descriptive and local because no supplied taxonomy family directly matches
+    the combat-through-enemies pattern. No broader comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy references were assigned because the available motif families and symbol list do not directly match the passage evidence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l15075-l15106
+  passage_sha256=5b8016364a8570dfcf30bb1204f8d27f0ed23fbc144fc8cdc2fd687a3fca3e95
+

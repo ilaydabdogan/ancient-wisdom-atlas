@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l12456-l12519
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: HERE NOW COMETH THE HEAD-PLACE OF FERCHU / XXIII / HERE FOLLOWETH THE TOOTH-FIGHT
+    OF FINTAN / THE RED-SHAME OF MENN FOLLOWETH HERE; lines 12456-12519
+  start: '12456'
+  end: '12519'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: THE RED-SHAME OF MENN FOLLOWETH HERE
+  summary: Menn son of Salcholga arrives from Renna of the Boyne with twelve armed
+    men carrying spears headed at both ends. They make three attacks on the hosts,
+    kill three times their own number, and lose all but Menn, who is badly wounded
+    and bloodied. The men of Erin call the event Menn's Reddening Shame. They then
+    say Menn may leave without dishonour, while the hosts withdraw a day's journey
+    to wait until Conchobar recovers and the foretold great battle occurs. Menn agrees
+    and returns to his own land.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Menn son of Salcholga comes from Renna, described as the Waterways of the
+    Boyne in the north.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Menn is accompanied by twelve men, with a variant note giving thirty in another
+    manuscript witness.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The men carry shafts with spear-heads at both the top and the butt.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Menn and his men make three attacks on the hosts.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Three times their own number fall at their hands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Twelve of Menn's people are slain, leaving Menn alone alive.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Menn is badly wounded, and blood runs crimson on him; his followers are also
+    described as crimsoned.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The men of Erin name the event the Reddening Shame of Menn because Menn's
+    people are slain and he is wounded and bloodied.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The men of Erin say it would not dishonour Menn to leave the camp and quarters.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The hosts are to go a day's journey back north while Menn ceases weapon-feats
+    until Conchobar rises from his Pains and battle is offered at Garech and Ilgarech.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Druids, soothsayers, and knowers of the men of Erin had foretold the great
+    battle between the men of Erin and the men of Ulster.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Menn agrees to leave, the hosts fall back a day's march to rest and wait,
+    and Menn returns to his own land.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Menn son of Salcholga
+  description: A warrior from Renna of the Boyne who arrives with armed men, attacks
+    the hosts, is left alone alive, is wounded, and later agrees to leave.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Menn's men
+  description: A group numbered as twelve in the passage, armed with many-pointed
+    weapons, who attack the hosts and are slain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the hosts
+  description: The opposing hosts attacked by Menn and his men; they later fall back
+    a day's march to rest and wait.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: men of Erin
+  description: A group who comment on Menn's shame, name the tale episode, and say
+    Menn may leave without dishonour.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Conchobar
+  description: A figure whose recovery from his Pains is named as a condition before
+    the later battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: druids, soothsayers, and knowers of the men of Erin
+  description: Forecasters who had foretold the great battle of the Cualnge Cow-spoil.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: men of Ulster
+  description: A group named as future opponents of the men of Erin in the great battle.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: attacking warrior leader
+  assigned_to:
+  - fig:1
+  basis: Menn arrives with armed followers, participates in attacks on the hosts,
+    and survives alone.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: armed followers slain in combat
+  assigned_to:
+  - fig:2
+  basis: Menn's men carry double-headed spear shafts, join the attacks, and are killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: opposing host
+  assigned_to:
+  - fig:3
+  basis: The hosts are attacked and later withdraw a day's march.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: wounded survivor
+  assigned_to:
+  - fig:1
+  basis: The passage says all Menn's people are slain, Menn alone remains alive, and
+    he is wounded and bloodied.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: naming and judging community
+  assigned_to:
+  - fig:4
+  basis: The men of Erin call the event a red shame and then judge that Menn may leave
+    without dishonour.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: absent or incapacitated battle-condition figure
+  assigned_to:
+  - fig:5
+  basis: The later battle is deferred until Conchobar arises from his Pains.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: forecasters
+  assigned_to:
+  - fig:6
+  basis: The passage states that druids, soothsayers, and knowers had foretold the
+    great battle.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: future battle party
+  assigned_to:
+  - fig:7
+  basis: The men of Ulster are named as future combatants against the men of Erin.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: double-ended spear shafts
+  literal_form: Shafts with a spear-head on the top and a spear-head at the butt.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: crimson blood and red shame
+  literal_form: Blood running crimson on Menn and crimsoning his followers; the event
+    is called the Reddening Shame of Menn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: twelve warriors
+  literal_form: Menn's company is numbered as twelve men in the passage, with a manuscript
+    variant of thirty noted.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: three attacks
+  literal_form: Menn and his men offer three attacks upon the hosts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Waterways of the Boyne
+  literal_form: Renna, glossed as the Waterways of the Boyne in the north.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Menn's armed arrival
+  summary: Menn son of Salcholga comes from Renna of the Boyne with twelve men carrying
+    spear shafts headed at both ends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Three attacks and Menn's wounding
+  summary: Menn and his men attack the hosts three times, kill three times their number,
+    lose all of Menn's followers, and leave Menn wounded and bloodied.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Naming of the Reddening Shame
+  summary: The men of Erin describe Menn's losses and wounds as a red shame and identify
+    this as the tale-name Reddening Shame of Menn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Withdrawal and deferred battle
+  summary: The men of Erin permit Menn to depart without dishonour, the hosts withdraw
+    northward to rest and wait, the coming battle is linked to Conchobar's recovery
+    and prior prophecy, and Menn returns home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: small warrior band makes repeated attacks against a host
+  taxonomy_refs: []
+  basis: Menn and his twelve armed men attack the hosts three times and kill three
+    times their own number.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level combat pattern; no broader comparative taxonomy
+    reference is supplied by the passage.
+- id: motif:2
+  label: sole wounded survivor after followers are slain
+  taxonomy_refs: []
+  basis: The passage states that Menn's men are slain, Menn alone remains alive, and
+    he is badly wounded and bloodied.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as shame and survival, not as death-rebirth
+    or initiation.
+- id: motif:3
+  label: episode named from visible blood and public shame
+  taxonomy_refs: []
+  basis: The men of Erin call the event a red shame because Menn's people are killed
+    and Menn is bloodied, and the passage gives this as the tale-name.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The naming is explicit, but symbolic interpretation of redness beyond
+    blood and shame is not stated.
+- id: motif:4
+  label: battle deferred until recovery and foretold time
+  taxonomy_refs: []
+  basis: The men of Erin say Menn should cease weapon-feats until Conchobar rises
+    from his Pains and the foretold great battle at Garech and Ilgarech is offered.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The prophecy is mentioned only briefly and no details of the foretold
+    battle are given in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12456-12462
+  quote_or_summary: Menn son of Salcholga comes from Renna, the Waterways of the Boyne
+    in the north, with twelve men; a note records a variant reading of thirty.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12462-12466
+  quote_or_summary: 'The men carry many-pointed weapons: each shaft has a spear-head
+    at both the top and the butt, so either end can wound the hosts.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 12466-12473
+  quote_or_summary: They make three attacks; three times their number fall at their
+    hands; Menn's twelve men are killed, Menn alone remains alive, and he is sorely
+    wounded and crimsoned with blood along with his followers.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12473-12481
+  quote_or_summary: The men of Erin say the event is a red shame for Menn because
+    his twelve men are destroyed and he is bloodied; the passage names the episode
+    the Reddening Shame of Menn.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12496-12510
+  quote_or_summary: The men of Erin say Menn may leave without dishonour; the hosts
+    will go a day's journey north and Menn should cease weapon-feats until Conchobar
+    rises from his Pains and the foretold great battle at Garech and Ilgarech occurs.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 12514-12519
+  quote_or_summary: Menn agrees to leave the camp and halting-place; the hosts fall
+    back a day's march to rest and wait, and Menn goes to his own land.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal combat sequence, naming, and withdrawal are explicit. Motif labels
+    are descriptive rather than tied to supplied motif-family taxonomy. No comparison
+    claims were made because the passage itself does not support a cross-traditional
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Manuscript variant notes were included only where directly relevant to counted figures.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l12456-l12519
+  passage_sha256=6f066f208b3dff3f4afc193709e19db5e0e173ed9c55d3cbc3822a848cf537f8
+

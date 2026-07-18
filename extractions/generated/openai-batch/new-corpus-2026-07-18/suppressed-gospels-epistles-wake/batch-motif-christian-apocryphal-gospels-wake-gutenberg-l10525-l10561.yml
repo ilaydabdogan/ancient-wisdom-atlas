@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l10525-l10561
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XI. / REFERENCES TO THE ACTS OF ST. PAUL AND THECLA. / CHAPTER I.
+    / CHAPTER II.; lines 10525-10561
+  start: '10525'
+  end: '10561'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“From hence came emulation, and envy, and strife, and sedition...”"
+  summary: The passage admonishes an addressed community, saying that honor and enlargement
+    led to envy and conflict. It describes social inversion between lesser-known and
+    honored groups, says righteousness and peace have departed because people abandoned
+    fear of God and divine commandments, and concludes that wicked envy was the means
+    by which death first entered the world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Honor and enlargement were said to have been given to the addressed group.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A written saying is cited in which the beloved eats, drinks, is enlarged,
+    becomes fat, and kicks.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists emulation, envy, strife, sedition, persecution, disorder,
+    war, and captivity as arising from the preceding condition.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those described as of no renown, of no reputation, foolish, and young are
+    said to rise against those described as honorable, respected, wise, and aged.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Righteousness and peace are said to have departed from the addressed group.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The departure of righteousness and peace is attributed to forsaking the fear
+    of God, blindness in faith, failure to walk by God’s commandments, and failure
+    to live fittingly in Christ.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Everyone is said to follow wicked lusts and to have taken up unjust and wicked
+    envy.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that death first entered the world by wicked envy.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: addressed community
+  description: The group addressed as “you,” to whom honor and enlargement were given
+    and from whom righteousness and peace are said to have departed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: my beloved
+  description: A figure in the cited written saying who ate and drank, was enlarged,
+    waxed fat, and kicked.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: those of no renown / no reputation / foolish / young men
+  description: Groups said to have lifted themselves against honorable, respected,
+    wise, and aged groups.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: honourable / respected / wise / aged
+  description: Groups against whom the lesser-known, foolish, and young are said to
+    have risen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: admonished recipient group
+  assigned_to:
+  - fig:1
+  basis: The passage directly addresses “you,” describes what was given to the group,
+    and says righteousness and peace departed from them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: cited example of satiation followed by kicking
+  assigned_to:
+  - fig:2
+  basis: The beloved appears in the written saying as one who ate, drank, became enlarged
+    and fat, and kicked.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: opposing lower-renown groups
+  assigned_to:
+  - fig:3
+  basis: These groups are described as lifting themselves against honored, respected,
+    wise, and aged groups.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: opposed honored and elder groups
+  assigned_to:
+  - fig:4
+  basis: These groups are named as the targets of those who lifted themselves against
+    them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: satiation and kicking
+  literal_form: The beloved eats, drinks, is enlarged, waxes fat, and kicks.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: departure of righteousness and peace
+  literal_form: Righteousness and peace depart from the addressed group.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: death entering the world
+  literal_form: Death first enters the world by wicked envy.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Honor, enlargement, and cited satiation
+  summary: The addressed community is told that honor and enlargement were given to
+    them, and a written saying is cited about a beloved who ate, drank, grew enlarged
+    and fat, and kicked.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Emergence of envy and social conflict
+  summary: The passage says that emulation, envy, strife, sedition, persecution, disorder,
+    war, and captivity arose, and that groups of no renown, no reputation, foolishness,
+    and youth opposed honorable, respected, wise, and aged groups.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Loss of righteousness and entry of death
+  summary: Righteousness and peace are said to depart because people have forsaken
+    the fear of God, divine commandments, and fitting life in Christ; the passage
+    concludes that wicked envy is the means by which death first entered the world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: prosperity followed by rebellious action
+  taxonomy_refs: []
+  basis: The cited written saying links eating, drinking, enlargement, and fatness
+    with the action of kicking.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the image as a citation and applies it rhetorically;
+    the exact source and wider narrative context are not supplied in the passage.
+- id: motif:2
+  label: envy producing communal disorder
+  taxonomy_refs:
+  - chaos
+  basis: The passage says emulation and envy lead to strife, sedition, persecution,
+    disorder, war, and captivity.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage concerns communal and moral
+    disorder rather than a cosmic chaos episode.
+- id: motif:3
+  label: inversional conflict between lesser and honored groups
+  taxonomy_refs: []
+  basis: The passage describes those of no renown, no reputation, foolishness, and
+    youth rising against honorable, respected, wise, and aged groups.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage lists opposing social categories but does not narrate a specific
+    battle or named historical event.
+- id: motif:4
+  label: withdrawal of righteousness and peace after abandoning divine fear
+  taxonomy_refs: []
+  basis: Righteousness and peace depart because everyone has forsaken fear of God,
+    become blind in faith, and ceased to follow God’s commandments and fitting life
+    in Christ.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif is extracted from moral exhortation rather than from a mythic
+    narrative scene.
+- id: motif:5
+  label: death enters the world through envy
+  taxonomy_refs: []
+  basis: The passage explicitly states that death first entered the world by unjust
+    and wicked envy.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the etiology but does not provide the fuller narrative
+    of the first entrance of death.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the satiated beloved who waxes fat and kicks
+    as an allusion to an earlier written saying.
+  claim_level: linguistic_similarity
+  target: unnamed written source cited as “that which is written”
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited source is not named in the supplied passage, so only the
+    passage’s explicit claim of written citation can be recorded.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10529-10534
+  quote_or_summary: "“All honour and enlargement was given unto you... my beloved
+    did eat and drink, he was enlarged and waxed fat, and he kicked.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 10536-10539
+  quote_or_summary: "“From hence came emulation, and envy, and strife, and sedition;
+    persecution and disorder, war and captivity.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 10541-10547
+  quote_or_summary: The passage says those of no renown, no reputation, foolishness,
+    and youth lifted themselves against the honorable, respected, wise, and aged.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 10549-10555
+  quote_or_summary: Righteousness and peace have departed because everyone has forsaken
+    fear of God, become blind in faith, and no longer walks by God’s commandments
+    or lives fittingly in Christ.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 10557-10561
+  quote_or_summary: "“Every one follows his own wicked lusts... having taken up an
+    unjust and wicked envy, by which death first entered into the world.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is direct. Motif labels are mostly descriptive rather
+    than tied to established taxonomy, with one broad chaos taxonomy reference requiring
+    review. The only comparison claim is limited to the passage’s own statement that
+    a saying is written.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy entries such as cave, fire, milk, mountain, serpent, tree, or water are present in the supplied passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l10525-l10561
+  passage_sha256=39659ecb99e2fdc5ec311aae49c76d30be8ad65b89dd6549bdf2f8aa5cac53ad
+

@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l3494-l3520
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: 'CORPORATION OF VALLADOLID--YEAR 1618. / TZOLAH TI AHKIN CHILAM. / FOOTNOTES:
+    / II. THE SERIES OF THE KATUNS.; lines 3494-3520'
+  start: '3494'
+  end: '3520'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial introduction to the Tizimin Book of Chilam Balam passage titled
+    “The Series of the Katuns.” The passage gives manuscript provenance, states that
+    the chronicle appears to be a version of a Book of Mani chronicle, and proposes
+    corrections to a katun sequence by treating repeated numbered katuns as duplicates
+    and omitting an inserted group of katuns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a section titled “The Series of the Katuns” from the
+    Book of Chilan Balam of Tizimin.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tizimin is described as a town in the district of Valladolid, about one hundred
+    miles east of Merida.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Book of Chilan Balam found at Tizimin is described as one of the most
+    ancient known and as apparently written near the close of the sixteenth century.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The manuscript is said to be in the possession of Canon Crescencio Carrillo
+    y Ancona of Merida, who described it in a work on Maya literature.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The manuscript is said to contain 26 unnumbered leaves, with this chronicle
+    inserted on the 17th leaf without title or prefatory remarks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The chronicle is described as evidently a version of one previously given
+    from the Book of Mani, with a few added particulars and an attempt at a more complete
+    arrangement of epochs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The editor states that a number of katuns have been inserted that do not properly
+    belong in the count.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The proposed corrections include treating repeated 8th, 6th, and 4th katuns
+    as the same entries, treating an 8th katun connected with an attack on Mayapan
+    as the same as another 8th katun, omitting 25 katuns, and placing an 8th katun
+    after a 10th katun.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Book of Chilan Balam of Tizimin
+  description: A manuscript found at Tizimin, described as ancient, probably written
+    near the close of the sixteenth century, containing 26 unnumbered leaves and the
+    chronicle on the 17th leaf.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Tizimin
+  description: Town in the district of Valladolid, about one hundred miles east of
+    Merida, where the Book of Chilan Balam was found.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Canon Crescencio Carrillo y Ancona
+  description: Merida antiquary said to possess the Tizimin manuscript and to have
+    described it in a work on Maya literature.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Book of Mani
+  description: A previously given source whose chronicle is described as the apparent
+    version-parallel for the Tizimin chronicle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mayapan
+  description: Place named in connection with an attack occurring on an 8th katun
+    in section 11.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: source manuscript for the passage
+  assigned_to:
+  - fig:1
+  basis: The section is identified as from the Book of Chilan Balam of Tizimin, and
+    the passage describes the manuscript’s date, leaves, and inserted chronicle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: findspot and geographic context
+  assigned_to:
+  - fig:2
+  basis: Tizimin is named as the town where the Book of Chilan Balam was found and
+    is geographically located in the passage.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: manuscript possessor and describer
+  assigned_to:
+  - fig:3
+  basis: The passage states that the manuscript is in Carrillo y Ancona’s possession
+    and that he described it in a work on Maya literature.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: parallel or prior chronicle source
+  assigned_to:
+  - fig:4
+  basis: The passage says the Tizimin chronicle is evidently a version of one previously
+    given from the Book of Mani.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: place named in katun event
+  assigned_to:
+  - fig:5
+  basis: Mayapan is named as the place of an attack associated with an 8th katun in
+    section 11.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: katun series
+  literal_form: Numbered katun periods and sequence corrections, including 8th, 6th,
+    4th, 10th, and a group of 25 katuns to be omitted.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Manuscript provenance note
+  summary: The passage identifies the section as from the Tizimin Book of Chilan Balam
+    and summarizes the manuscript’s location, date, ownership, physical leaves, and
+    placement of the chronicle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Editorial correction of katun count
+  summary: The editor explains that some katuns were inserted into the count incorrectly
+    and proposes treating several repeated numbered katuns as duplicates, omitting
+    25 katuns, and rearranging one 8th katun after a 10th katun.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: katun-based chronological ordering
+  taxonomy_refs: []
+  basis: The passage is titled as a series of katuns, discusses arranging epochs more
+    completely, and gives corrections to the numbered katun count.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a calendrical and textual-ordering pattern, not a mythic narrative
+    motif; no supplied taxonomy reference directly fits it.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s editor identifies the Tizimin chronicle as a version of a chronicle
+    previously given from the Book of Mani, while noting added particulars and a fuller
+    arrangement attempt.
+  claim_level: historical_contact
+  target: Book of Mani version of the chronicle
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The relationship is presented as an editorial judgment within this
+    passage; the chronicle text itself is not included for side-by-side comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3494-3496
+  quote_or_summary: Section title identifies the passage as “The Series of the Katuns”
+    from the Book of Chilan Balam of Tizimin.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 3498-3504
+  quote_or_summary: Tizimin is located in Valladolid district near Merida; the Book
+    of Chilan Balam found there is described as ancient, late-sixteenth-century, and
+    in the possession of Canon Crescencio Carrillo y Ancona.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3504-3506
+  quote_or_summary: The manuscript is described as containing 26 unnumbered leaves,
+    with this chronicle inserted on the 17th leaf without title or prefatory remarks.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 3506-3508
+  quote_or_summary: The chronicle is described as evidently a version of a previously
+    given Book of Mani chronicle, with added particulars and a more complete epoch
+    arrangement attempt.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 3510-3519
+  quote_or_summary: The editor says inserted katuns do not properly belong in the
+    count and proposes corrections involving repeated 8th, 6th, and 4th katuns, an
+    8th katun associated with an attack on Mayapan, omission of 25 katuns, and sequence
+    placement after a 10th katun.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is chiefly editorial, codicological, and chronological rather
+    than mythic narrative. Literal extraction is strong; motif extraction is limited
+    to a calendrical ordering pattern, and the comparison claim depends on the passage’s
+    editorial assertion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy motif family or symbol reference is directly supported by the passage. The named katun sequence is retained as a passage-level calendrical pattern without taxonomy mapping.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l3494-l3520
+  passage_sha256=6caa277131705f9cf00af4f1140424250aacef170fc018acbb95a8e0f0605b2b
+

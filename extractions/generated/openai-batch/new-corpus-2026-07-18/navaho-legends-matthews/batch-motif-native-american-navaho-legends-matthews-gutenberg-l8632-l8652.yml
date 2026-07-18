@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l8632-l8652
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: II. EARLY EVENTS IN THE FIFTH WORLD. / III. THE WAR GODS. / IV. GROWTH OF
+    THE NAVAHO NATION. / NATI'NESTHANI.; lines 8632-8652
+  start: '8632'
+  end: '8652'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The pueblo people hear a strange song and see the dancing Navaho rise from
+    the ground toward the sky while carrying the great shell of Kintyél and wealth
+    in shell-beads and turquoise. They plead with him to return, then try to obtain
+    ropes and arrows, but he is lifted by the gods with white lightning from a dark
+    cloud and disappears into the black cloud, never again seen on earth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The pueblo people regard the song as strange and initially wonder what it
+    means.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dancing Navaho slowly rises from the ground, with successive parts of
+    his body appearing above the crowd.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He rises toward the sky while bearing the great shell of Kintyél and wealth
+    in shell-beads and turquoise on his body.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The pueblo people call him by affectionate kinship names and urge him to come
+    down, but he rises higher as they call.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A streak of white lightning passes under his feet like a rope and hangs from
+    a dark cloud above.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the gods are lifting him and says this is how the
+    gods lift mortals to the sky.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When persuasion fails, some pueblo people call for ropes to pull him down
+    and then for arrows to shoot him, but he is beyond reach and disappears into a
+    black cloud.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the dancing Navaho
+  description: A Navaho who dances, rises from the ground toward the sky, carries
+    the great shell of Kintyél and wealth on his body, and disappears into a black
+    cloud.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the pueblo people
+  description: The crowd who hear the song, watch the ascent, plead with the Navaho
+    to return, and call for ropes and arrows when persuasion fails.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the gods
+  description: Divine agents identified by the passage as lifting the Navaho to the
+    sky.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: skyward ascender
+  assigned_to:
+  - fig:1
+  basis: The Navaho slowly rises from the ground toward the sky and disappears into
+    the cloud.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: bearer of shell and wealth
+  assigned_to:
+  - fig:1
+  basis: He rises with the great shell of Kintyél and with shell-beads and turquoise
+    on his body.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: pleading and pursuing crowd
+  assigned_to:
+  - fig:2
+  basis: The pueblo people plead for him to come down and later call for ropes and
+    arrows.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: divine lifters of a mortal
+  assigned_to:
+  - fig:3
+  basis: The passage says the gods are lifting him and that the gods lift mortals
+    to the sky in this way.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: great shell of Kintyél
+  literal_form: the great shell of Kintyél
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shell-beads and turquoise wealth
+  literal_form: wealth of many pueblos in shell-beads and turquoise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: white lightning rope
+  literal_form: a streak of white lightning passing under the Navaho's feet like a
+    rope
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dark or black cloud
+  literal_form: a dark cloud above, later a black cloud into which the Navaho disappears
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: ropes and arrows
+  literal_form: ropes requested to pull him down and arrows requested to shoot him
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Strange song and beginning of ascent
+  summary: The pueblo people hear a strange song and then see the dancing Navaho slowly
+    rise from the ground above the crowd.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ascent with shell and wealth
+  summary: The Navaho rises toward the sky carrying the great shell of Kintyél and
+    shell-bead and turquoise wealth, making the pueblo people realize a threatened
+    loss.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pleading during ascent
+  summary: The pueblo people call the rising Navaho by kinship names and ask him to
+    return, but he rises higher.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Divine lifting by lightning and cloud
+  summary: White lightning appears like a rope beneath the Navaho's feet, hanging
+    from a dark cloud, and the passage identifies the gods as lifting him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Failed recovery and disappearance
+  summary: The pueblo people call for ropes and then arrows, but the Navaho is too
+    high and disappears into a black cloud, never more seen on earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Skyward ascent of a mortal by divine agency
+  taxonomy_refs:
+  - ascent
+  basis: The Navaho rises from earth toward the sky, white lightning from a cloud
+    functions like a rope, and the passage states that the gods are lifting him as
+    they lift mortals to the sky.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe his destination beyond the cloud or any
+    subsequent return.
+- id: motif:2
+  label: Removal of valued objects during ascent
+  taxonomy_refs: []
+  basis: The ascender carries the great shell of Kintyél and the wealth of many pueblos
+    in shell-beads and turquoise, which the pueblo people perceive as a threatened
+    loss.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the threatened loss but does not by itself explain
+    how the Navaho acquired the objects or whether the act should be classified as
+    theft.
+- id: motif:3
+  label: Lightning or cloud as a lifting mechanism
+  taxonomy_refs: []
+  basis: White lightning passes under the ascender's feet like a rope and hangs from
+    a dark cloud, with the gods identified as the lifting agents.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a literal narrative image but does not elaborate the
+    mechanism beyond this statement.
+comparison_claims:
+- id: claim:1
+  claim: This passage fits the supplied ascent motif family at a passage level because
+    a mortal rises from earth into the sky through divine action.
+  claim_level: same_motif
+  target: ascent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family alignment only; the passage does not establish
+    historical contact, common inheritance, or a broader cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8632-8638
+  quote_or_summary: The pueblo people find the song strange and then observe the dancing
+    Navaho slowly rising from the ground until his body rises above the crowd.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8638-8642
+  quote_or_summary: The Navaho rises toward the sky with the great shell of Kintyél
+    and with shell-beads and turquoise wealth from many pueblos on his body, causing
+    the people to realize a threatened loss.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8642-8646
+  quote_or_summary: The pueblo people scream, call him father, brother, and son, and
+    ask him to come down, but he rises higher as they call.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8646-8650
+  quote_or_summary: A streak of white lightning passes under his feet like a rope
+    from a dark cloud; the passage says the gods are lifting him and that this is
+    how gods lift mortals to the sky.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8650-8652
+  quote_or_summary: The pueblo people call for ropes and then arrows, but the Navaho
+    is beyond reach and disappears into the black cloud, never again seen on earth.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif identification
+    is strongest for ascent; the wealth-removal pattern is included without assigning
+    a theft taxonomy because acquisition is not explained in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. No external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l8632-l8652
+  passage_sha256=798df2dd871d34e2aae525f71f592ad9a0297162a5853e7eefeac9f604eaa513
+

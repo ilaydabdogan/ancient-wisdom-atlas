@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l655-l744
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 655-744
+  start: '655'
+  end: '744'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“I should like to learn how to shudder.”"
+  summary: Opening passage of the tale in which a younger son, unable to understand
+    fear, seeks to learn shuddering. A sexton attempts to frighten him in a church
+    tower by posing as a ghost, but the youth pushes him down the stairs. The father
+    then sends the youth out into the world with money, and the youth resolves to
+    learn how to shudder.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A father has two sons; the elder is described as smart, sensible, and capable,
+    while the younger is described as stupid and unable to learn or understand.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The elder son avoids night errands through a churchyard or other dismal place
+    because they make him shudder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The younger son hears people speak of shuddering during frightening stories
+    by the fire at night and does not understand what they mean.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When urged by his father to learn a way to earn a living, the younger son
+    says he wants to learn how to shudder.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sexton offers to teach the younger son to shudder, takes him into his
+    house, and has him ring the bell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At midnight the sexton sends the youth up the church tower to ring the bell
+    and secretly goes there ahead of him; the youth sees a white figure standing on
+    the stairs near the sounding hole.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The youth repeatedly demands that the silent figure answer or leave and threatens
+    to throw it down the steps.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: After receiving no answer, the youth pushes the figure down the stairs, rings
+    the bell, returns home, and goes to sleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The silent figure is the sexton; his wife later finds him moaning in a corner
+    with a broken leg.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The sexton’s wife complains to the youth’s father, and the father scolds the
+    youth; the youth answers that he warned the unknown night figure three times.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The father tells the youth to leave, gives him fifty thalers, and tells him
+    to go into the wide world and conceal his origin; the youth intends to go forth
+    to learn how to shudder.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: younger son / youth
+  description: The father’s younger son, described as unable to learn or understand,
+    who wants to learn how to shudder and later leaves home to seek that knowledge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: father
+  description: Father of the two sons; he is troubled by the younger son, sends him
+    to the sexton, later scolds him and sends him away with fifty thalers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: elder son
+  description: The elder brother, described as smart, sensible, capable, and afraid
+    of night journeys through dismal places.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: sexton
+  description: A church official who offers to teach the youth shuddering, sends him
+    to ring the bell at midnight, stands motionless so the youth might think he is
+    a ghost, and is injured when pushed down the stairs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: sexton’s wife
+  description: The sexton’s wife waits for her husband, asks the youth about him,
+    finds him injured, and complains to the youth’s father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: fearless learner of shuddering
+  assigned_to:
+  - fig:1
+  basis: The youth says he does not understand shuddering and wants to learn it, then
+    leaves home still seeking that lesson.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: disappointed father who expels the son
+  assigned_to:
+  - fig:2
+  basis: The father laments the younger son’s backwardness, sends him to the sexton,
+    and later gives him money and orders him into the world.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: contrasting capable elder brother
+  assigned_to:
+  - fig:3
+  basis: The elder brother is described as capable and sensible, in contrast to the
+    younger brother, and he is afraid of dismal night places.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: tester disguised as ghost
+  assigned_to:
+  - fig:4
+  basis: The sexton secretly precedes the youth to the tower and stands motionless
+    so the youth might think he is a ghost.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: complainant and witness of injury
+  assigned_to:
+  - fig:5
+  basis: The sexton’s wife finds her husband injured and reports the misfortune to
+    the youth’s father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire-side fear stories
+  literal_form: fire at night where frightening stories are told
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: churchyard or dismal night-place
+  literal_form: churchyard or other dismal place on a late or night-time errand
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: church tower and bell
+  literal_form: church tower, bell rope, and bell rung at midnight
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: white figure / supposed ghost
+  literal_form: white figure standing motionless on the stairs opposite the sounding
+    hole
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: fifty thalers
+  literal_form: fifty thalers given by the father when sending the youth into the
+    world
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Family contrast and desire to learn shuddering
+  summary: The tale introduces a father with two sons, contrasts the capable fearful
+    elder son with the uncomprehending younger son, and shows the younger son asking
+    to learn how to shudder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Midnight church-tower test
+  summary: The sexton takes the youth in, sends him to the church tower at midnight,
+    and appears before him as a silent white figure near the bell area.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The false ghost is thrown down
+  summary: The youth demands an answer from the motionless figure, pushes it down
+    the stairs when it remains silent, and later the sexton’s wife finds her husband
+    injured.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Complaint, rejection, and departure
+  summary: The sexton’s wife reports the injury; the father scolds and rejects the
+    youth; the youth agrees to leave at daybreak to continue learning how to shudder,
+    and his father gives him fifty thalers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Quest to learn fear or shuddering
+  taxonomy_refs:
+  - initiation
+  basis: The youth repeatedly states that he does not understand shuddering and wants
+    to learn it, and the passage ends with him setting out to do so.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames the goal as learning
+    an unfamiliar human experience or skill, not as a formal rite.
+- id: motif:2
+  label: Departure after family rejection
+  taxonomy_refs:
+  - departure
+  basis: After the failed church-tower incident, the father rejects the youth, gives
+    him money, and tells him to go into the wide world.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an opening departure episode; the passage does not include later
+    return or resolution.
+- id: motif:3
+  label: Contrasting sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage contrasts an elder son who is capable and fearful with a younger
+    son who is described as foolish but fearless.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: Only the opening sibling contrast is present in this passage.
+- id: motif:4
+  label: Failed ghost-frightening test
+  taxonomy_refs: []
+  basis: The sexton tries to frighten the youth by standing motionless like a ghost
+    in the church tower, but the youth treats him as a silent intruder and throws
+    him down the stairs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No actual supernatural being appears in the passage; the ghostly figure
+    is the sexton’s staged deception.
+- id: motif:5
+  label: Night trial in a church tower
+  taxonomy_refs:
+  - initiation
+  basis: The youth is sent at midnight into a church tower to ring the bell and encounters
+    the staged white figure there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The trial is arranged by the sexton rather than by a supernatural or ritual
+    authority; the initiation label is interpretive and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 655-673
+  quote_or_summary: 'The father has two sons: the elder is capable and fears dismal
+    night places, while the younger cannot understand why people say that frightening
+    stories by the fire make them shudder.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 674-690
+  quote_or_summary: The father tells the younger son to learn a way to earn his living;
+    the youth says he wants to learn how to shudder, the elder brother mocks him,
+    and the father says shuddering will not earn bread.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 691-702
+  quote_or_summary: The sexton offers to teach the youth, takes him in, has him ring
+    the bell, wakes him at midnight, sends him up the tower, and secretly appears
+    ahead of him as a silent white figure.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 703-718
+  quote_or_summary: The youth warns the silent figure, pushes it down the stairs,
+    rings the bell, and sleeps; the sexton’s wife later learns what happened and finds
+    her husband injured with a broken leg.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 719-734
+  quote_or_summary: The sexton’s wife complains to the father; the father scolds the
+    youth, and the youth says he warned the unknown night figure three times because
+    it would neither speak nor leave.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 735-744
+  quote_or_summary: The youth says he will go forth at daybreak to learn how to shudder;
+    the father gives him fifty thalers and tells him to go into the wide world and
+    conceal his origin.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    pattern labels and include broad taxonomy mappings where directly supported. No
+    comparison claims were made because the passage itself does not compare this episode
+    to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations, figures, roles, symbols, scenes, and candidate motifs cite supplied passage evidence only.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l655-l744
+  passage_sha256=d8cd2ea3c50d7c228c381535989874d900cc24b50b7e1ca85c97a412b3d977eb
+

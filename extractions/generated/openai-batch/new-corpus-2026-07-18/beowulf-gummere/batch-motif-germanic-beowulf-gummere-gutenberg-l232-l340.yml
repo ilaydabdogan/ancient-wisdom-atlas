@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l232-l340
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: 'Beowulf: An Anglo-Saxon Epic Poem / JNO: LESSLIE HALL, / CONTENTS. / PREFACE.;
+    lines 232-340'
+  start: '232'
+  end: '340'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The preface describes the translator''s effort to render Beowulf in modern
+    measures while retaining features of Anglo-Saxon verse. It then outlines the story:
+    Hrothgar, king of the Danes or Scyldings, builds a mead-hall for feasting and
+    gifts; Grendel attacks from a fen-dwelling and persecutes Hrothgar''s people for
+    twelve years; Beowulf of the Geats hears of the trouble, sails with fourteen companions
+    to Dane-land, persuades Hrothgar of his ability to help, and is given wardship
+    of the hall for the night.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The preface says the work is an approximate reproduction of Beowulf in modern
+    measures rather than a close reproduction of Anglo-Saxon verse.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translator states that the Heyne-Socin text and glossary have been closely
+    followed, with occasional deviations and conjectures.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The work is addressed to Anglo-Saxon scholars and students of English literature,
+    with the aim of presenting an ancient epic in modern form.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The preface discusses translation features including cadence, four stresses,
+    alliteration, occasional rhyme, preservation of parallelisms, and archaic diction.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hrothgar is identified as king of the Danes, or Scyldings, and builds a great
+    mead-hall or palace for feasting his liegemen and giving them presents.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Grendel is called a monster; he is jealous of the joyful sounds that reach
+    his fen-dwelling near the hall.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Grendel repeatedly goes to the hall, carries off and devours thanes, and persecutes
+    Hrothgar and his vassals for twelve years.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Beowulf is identified as a Geat and as the nephew of Higelac, king of the
+    Geats; he hears across the sea of Grendel's actions and Hrothgar's misery.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Beowulf resolves to crush Grendel and relieve Hrothgar, then sails to Dane-land
+    with fourteen chosen companions.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: After reaching Dane-land, Beowulf persuades Hrothgar that he can help; the
+    time before night is spent in beer-drinking and conversation.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: At bedtime Hrothgar leaves the hall in Beowulf's charge and says he has never
+    before given another person absolute wardship of his palace.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: All retire to rest, and Beowulf sleeps upon his arms.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the translator
+  description: The preface's speaker who explains the translation method, audience,
+    and poetic choices.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Hrothgar
+  description: King of the Danes, or Scyldings; builder of the mead-hall; persecuted
+    by Grendel; later entrusts the hall to Beowulf.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Danes or Scyldings
+  description: Hrothgar's people, including liegemen, retainers, thanes, and vassals
+    associated with the hall and targeted by Grendel.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Grendel
+  description: A monster dwelling in a fen near the hall; jealous of the hall's joy;
+    carries off and devours thanes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Beowulf
+  description: A Geat, nephew of Higelac, who hears of Hrothgar's misery, sails to
+    Dane-land, offers help, and receives wardship of the hall.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Higelac
+  description: King of the Geats and uncle of Beowulf.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Geats
+  description: The people from whom Beowulf comes; Higelac is their king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: fourteen chosen companions
+  description: The companions who sail with Beowulf to Dane-land.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: translator-adapter
+  assigned_to:
+  - fig:1
+  basis: The speaker describes reproducing the poem approximately in modern measures
+    and explains textual and metrical choices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: king and hall-builder
+  assigned_to:
+  - fig:2
+  basis: Hrothgar is named king of the Danes or Scyldings and builds the great mead-hall
+    or palace.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: afflicted ruler or community
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Grendel persecutes Hrothgar and his vassals and carries off thanes from the
+    hall.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: people or polity
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The passage names the Danes or Scyldings under Hrothgar and the Geats under
+    Higelac.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: monster antagonist
+  assigned_to:
+  - fig:4
+  basis: Grendel is called a monster and is described attacking and devouring thanes.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: heroic helper
+  assigned_to:
+  - fig:5
+  basis: Beowulf resolves to crush the monster and relieve Hrothgar, and persuades
+    Hrothgar of his ability to help.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: night-ward of the hall
+  assigned_to:
+  - fig:5
+  basis: Hrothgar gives Beowulf absolute wardship of the palace for the night.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: kinsman king
+  assigned_to:
+  - fig:6
+  basis: Higelac is named as king of the Geats and Beowulf's uncle.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: chosen companions
+  assigned_to:
+  - fig:8
+  basis: The passage says Beowulf sets sail with fourteen chosen companions.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mead-hall or palace
+  literal_form: A great mead-hall, or palace, built by Hrothgar for feasting and giving
+    presents.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: fen-dwelling
+  literal_form: Grendel's fen-dwelling near the hall, from which he hears the sounds
+    of joyance.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: sea crossing
+  literal_form: The sea between Beowulf's land and Dane-land, described as a day's
+    voyage.
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: twelve years
+  literal_form: The duration for which Grendel persecutes Hrothgar and his vassals.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fourteen chosen companions
+  literal_form: The number and status of Beowulf's companions on the voyage to Dane-land.
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: arms while sleeping
+  literal_form: Beowulf sleeps upon his arms after receiving charge of the hall.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Prefatory translation program
+  summary: The translator explains the aim of reproducing Beowulf approximately in
+    modern English measures, names textual practice, addresses intended audiences,
+    and describes metrical and stylistic choices.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Hrothgar builds the hall
+  summary: Hrothgar, king of the Danes or Scyldings, builds a great mead-hall or palace
+    for feasting liegemen and giving presents.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Grendel's persecution
+  summary: Grendel, jealous of the hall's joy, comes from his nearby fen-dwelling,
+    attacks the hall, carries off and devours thanes, and persecutes Hrothgar's people
+    for twelve years.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Beowulf sets out for Dane-land
+  summary: Beowulf, a Geat and nephew of Higelac, hears of Grendel and Hrothgar's
+    misery, resolves to fight the monster, and sails over the sea with fourteen chosen
+    companions.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Wardship of the hall
+  summary: After arriving in Dane-land, Beowulf persuades Hrothgar he can help; after
+    beer-drinking and conversation, Hrothgar gives Beowulf charge of the palace for
+    the night, and Beowulf rests armed.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: royal hall as feast and gift center
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king builds a great hall or palace in which he hopes to feast liegemen
+    and give presents.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents hall-building and gift-giving literally; the broader
+    royal-legitimacy classification is inferred from the kingly context and should
+    be reviewed.
+- id: motif:2
+  label: monster disrupts the joy of the hall
+  taxonomy_refs:
+  - chaos
+  basis: Grendel is jealous of the sounds of joy from the hall, repeatedly attacks
+    it, carries off and devours thanes, and persecutes the ruler's people.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supports disruption by a monster; assigning this to the broad
+    chaos motif family is interpretive.
+- id: motif:3
+  label: monster from marginal wet dwelling
+  taxonomy_refs: []
+  basis: Grendel hears the hall's joy from a fen-dwelling near the hall before attacking
+    the joyful building.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No specific taxonomy motif for fen or marsh monster is supplied; only
+    the literal pattern is recorded.
+- id: motif:4
+  label: hero departs over sea to aid an afflicted king
+  taxonomy_refs:
+  - departure
+  basis: Beowulf hears of Grendel's deeds and Hrothgar's misery across the sea, resolves
+    to help, and sets sail for Dane-land with companions.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage describes the departure and voyage but not the later combat
+    outcome.
+- id: motif:5
+  label: chosen retinue accompanies the hero
+  taxonomy_refs: []
+  basis: Beowulf sets sail with fourteen chosen companions.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives the number and chosen status but does not elaborate
+    the companions' later actions.
+- id: motif:6
+  label: champion receives night wardship of threatened hall
+  taxonomy_refs: []
+  basis: Hrothgar leaves the hall in Beowulf's charge and says he has never before
+    given another person absolute wardship of the palace.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly matches the wardship pattern.
+- id: motif:7
+  label: armed rest before expected danger
+  taxonomy_refs: []
+  basis: After the hall is entrusted to him for the night, Beowulf sleeps upon his
+    arms.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage implies readiness but does not yet narrate the ensuing confrontation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 232-237
+  quote_or_summary: The preface says the work aims to reproduce Beowulf approximately
+    in modern measures rather than in a form that would sound like prose to modern
+    ears.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 239-243
+  quote_or_summary: The translator says the Heyne-Socin text and glossary are closely
+    followed, with occasional justified deviations and conjectures.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 245-253
+  quote_or_summary: The translator addresses Anglo-Saxon scholars and students of
+    English literature and describes the work as presenting an ancient epic in modern
+    form, with reference to Hrothgar and Beowulf.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 255-311
+  quote_or_summary: The preface describes cadence, verse translation choices, alliteration,
+    rhyme, stress patterns, preservation of parallelisms, and archaism.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 320-322
+  quote_or_summary: Hrothgar, king of the Danes or Scyldings, builds a great mead-hall
+    or palace for feasting liegemen and giving presents; the joy is short-lived.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 322-328
+  quote_or_summary: Grendel, called a monster, is jealous of the hall's joyful sounds
+    reaching his fen-dwelling; he repeatedly attacks, carries off and devours thanes,
+    and persecutes Hrothgar and his vassals for twelve years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 330-333
+  quote_or_summary: Beowulf, a Geat and nephew of Higelac, hears across the sea of
+    Grendel and Hrothgar's misery, resolves to kill the monster and relieve the king,
+    and sails to Dane-land with fourteen chosen companions.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 333-338
+  quote_or_summary: In Dane-land Beowulf persuades Hrothgar of his ability to help;
+    after beer-drinking and conversation, Hrothgar gives him absolute wardship of
+    the palace for the night, and Beowulf rests upon his arms.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    this passage is a translator's preface plus a compressed story outline rather
+    than the full narrative episode. No external comparison claims were recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage includes both paratextual translation commentary and an outline of the opening Beowulf story. Motif candidates are drawn only from the supplied passage and available taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l232-l340
+  passage_sha256=8f75ec6bf326a58770f672cd3f4c350c4244b642902a51d8952a019a9ee5f8cd
+

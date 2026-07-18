@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l192-l288
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: OF THE / COLLECTED AND EDITED ,EY THE REV. / WILLIAM HENRY BRETT, B.D., /
+    PREFACE,; lines 192-288
+  start: '192'
+  end: '288'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter and preface identify the work as a collection edited by William
+    Henry Brett. The preface states that the work aims to preserve serious religious,
+    mythological, and historical traditions of four aboriginal races near the shores
+    of Guiana; describes earlier publication and later research; explains the use
+    of metrical form as related to chanted native recitation; notes that head-men,
+    mostly sorcerers, guarded and recited such traditions; and distinguishes serious
+    traditions from fanciful legends told for amusement over evening fires.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title presents the work as legends and myths of the aboriginal Indians
+    of British Guiana.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: William Henry Brett is identified as the collector and editor of the work
+    and as a missionary connected with S.P.G.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated chief object of the work is to preserve and present serious religious,
+    mythological, and historical traditions of four aboriginal races living nearest
+    the shores of Guiana.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The preface says that some legends had appeared in a former work and that
+    further results came from systematic research over many years.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The preface says a metrical form was adopted because earlier native recitation
+    used peculiar intonation and was chanted rather than simply told.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Head-men, mostly sorcerers, are described as having guarded and recited the
+    traditions from time to time.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The preface says many such head-men near the missions had passed away.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The preface says many time-honoured legends expired as the old state of things
+    yielded to the spread of Christianity.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Fanciful legends are described as common, popular, and likely to continue
+    being told for amusement over evening fires while native languages remain spoken.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: William Henry Brett
+  description: Collector and editor of the work; described in the front matter as
+    a missionary connected with S.P.G., chaplain to the Lord Bishop of Guiana, and
+    late rector of Holy Trinity, Essequibo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: four aboriginal races nearest the shores of Guiana
+  description: Collective group whose serious religious, mythological, and historical
+    traditions the preface says the work seeks to preserve.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: head-men, mostly sorcerers
+  description: Persons said to have guarded and from time to time recited the traditions;
+    near the missions they had nearly all passed away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: collector and editor
+  assigned_to:
+  - fig:1
+  basis: The front matter states that the legends and myths were collected and edited
+    by William Henry Brett.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source communities for preserved traditions
+  assigned_to:
+  - fig:2
+  basis: The preface identifies the traditions as belonging to four aboriginal races
+    living nearest the shores of Guiana.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: tradition custodians and reciters
+  assigned_to:
+  - fig:3
+  basis: The preface says the head-men, mostly sorcerers, guarded and recited the
+    traditions.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: evening fires
+  literal_form: fires used as the evening setting for telling fanciful legends
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Editorial preservation of traditions
+  summary: The preface frames the book as an effort to preserve and present serious
+    religious, mythological, and historical traditions from four aboriginal races
+    near Guiana’s shores.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Chanted recitation and custodianship
+  summary: The preface explains that the metrical form reflects an older native style
+    in which national traditions were chanted, and it identifies head-men, mostly
+    sorcerers, as custodians and reciters of those traditions.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Decline of older tradition and ongoing fireside tales
+  summary: The preface says many serious legends disappeared with the passing of their
+    custodians, while fanciful legends continued as popular amusement told over evening
+    fires.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: custodianship of oral traditions
+  taxonomy_refs: []
+  basis: The preface describes head-men, mostly sorcerers, as guarding and periodically
+    reciting serious traditions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an editorial description of tradition transmission, not a myth
+    narrative motif within a legend.
+- id: motif:2
+  label: fireside storytelling for amusement
+  taxonomy_refs: []
+  basis: The preface describes fanciful legends as likely to continue being told for
+    amusement over evening fires.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a performance setting rather than a narrated mythic event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 192-224
+  quote_or_summary: Title and front matter identify the work as Legends and Myths
+    of the Aboriginal Indians of British Guiana, collected and edited by Rev. William
+    Henry Brett, with missionary and clerical affiliations.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 225-231
+  quote_or_summary: The preface states that the chief object is to preserve and present
+    serious religious, mythological, and historical traditions of four aboriginal
+    races living nearest the shores of Guiana.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 232-235
+  quote_or_summary: The preface says a few legends had appeared in an earlier work
+    and that the present book adds results of systematic research over many years.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 236-240
+  quote_or_summary: The preface explains that a metrical form was adopted because,
+    in earlier native style, national traditions were recited with peculiar intonation
+    and chanted rather than told.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 241-245
+  quote_or_summary: The preface describes head-men, mostly sorcerers, as guarding
+    and periodically reciting the traditions, and says that near the missions they
+    had nearly all passed away.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 246-248
+  quote_or_summary: The preface says many time-honoured legends expired with those
+    custodians as the old state of things yielded to the spread of Christianity.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 250-259
+  quote_or_summary: The preface distinguishes fanciful legends from serious traditions,
+    describes some as popular, and says they will likely continue to be told for amusement
+    over evening fires while native languages are spoken.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is front matter and preface rather than a myth narrative. Extraction
+    is limited to stated editorial, performance, and transmission details; OCR noise
+    is present but the relevant prose is readable. No comparison claims are made because
+    the passage itself does not support a specific comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative myth episode occurs in this passage. Taxonomy use is limited to the literal fire symbol in the fireside storytelling setting.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l192-l288
+  passage_sha256=24f319375532597739b86fdcef404e61289c2fad7a79d0bc43eca161552e3c0b
+

@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l2027-l2314
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 2027-2314
+  start: '2027'
+  end: '2314'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists chiefly of editorial footnotes and introductory notes.
+    It mentions limited transmigrations, a possible Manichaean comparison, Jesus and
+    the disciples as not belonging to the Cosmos, the power of knowing names, demon-associated
+    names corresponding to wicked Rulers, Sophias as typifying Earth, and a Vesture
+    of Light containing five Words or Addresses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says transmigrations are limited in number, but the number is
+    not stated; it raises the possibility that the number might have been five, like
+    those of the Manichaeans.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note reports Irenaeus as saying that Jesus suffered after completing his
+    thirtieth year, yet taught until he was forty or fifty years old.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that knowledge of the name of a person or thing was believed
+    to give the possessor power over it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the names Iao and Maskelli are names by which they are called
+    by demons and that they correspond to certain wicked Rulers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Jesus is quoted as saying to his disciples that they are not of the Cosmos
+    and that he also is not of it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that all Sophias, pre-Christian as well as Gnostic, typify
+    the Earth in some way.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage refers to five Words or Addresses in the Vesture of Light.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jesus
+  description: A figure reported as having suffered after his thirtieth year and as
+    saying he is not of the Cosmos.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: disciples
+  description: The addressed group whom Jesus says are not of the Cosmos.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Iao and Maskelli
+  description: Named entities or names associated in the note with demons and with
+    wicked Rulers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: demons
+  description: Beings said to call Iao and Maskelli by those names.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: wicked Rulers
+  description: Rulers whose names are said to correspond to Iao and Maskelli.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Sophias
+  description: Pre-Christian and Gnostic Sophias are said to typify the Earth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: speaker not of the Cosmos
+  assigned_to:
+  - fig:1
+  basis: Jesus is quoted as saying that he is not of the Cosmos.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: audience not of the Cosmos
+  assigned_to:
+  - fig:2
+  basis: Jesus is quoted as saying to the disciples that they are not of the Cosmos.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: named entities with demon and Ruler correspondences
+  assigned_to:
+  - fig:3
+  basis: The passage connects the names Iao and Maskelli with demons and wicked Rulers.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: naming demons
+  assigned_to:
+  - fig:4
+  basis: The note says the names are those by which the entities are called by the
+    demons.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: wicked powers linked by corresponding names
+  assigned_to:
+  - fig:5
+  basis: The passage says the names correspond to certain wicked Rulers.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Earth-typifying Sophia figures
+  assigned_to:
+  - fig:6
+  basis: The note says all Sophias typify the Earth in some way.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: name as power-bearing knowledge
+  literal_form: the name of a person or thing
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Cosmos
+  literal_form: Cosmos
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Earth
+  literal_form: Earth
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Vesture of Light
+  literal_form: Vesture of Light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Finite transmigrations note
+  summary: The note states that transmigrations are finite but unspecified in number,
+    and it raises a possible comparison with a Manichaean number of five.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Power through names
+  summary: The passage states that knowledge of names gives power and connects the
+    names Iao and Maskelli with demons and wicked Rulers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Not of the Cosmos saying
+  summary: Jesus tells the disciples that they are not of the Cosmos and says that
+    he also is not of it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Sophias and Earth typology
+  summary: The note states that all Sophias typify the Earth in some way.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Vesture of Light reference
+  summary: The passage refers to five Words or Addresses in the Vesture of Light.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: finite cycle of transmigrations
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage states that transmigrations are limited in number.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not state the number or describe the mechanism of transmigration.
+- id: motif:2
+  label: knowledge of names gives power
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says that knowing the name of a person or thing gives
+    its possessor power over it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an editorial note rather than a narrated ritual or episode.
+- id: motif:3
+  label: non-belonging to the Cosmos
+  taxonomy_refs:
+  - duality
+  basis: Jesus is quoted as distinguishing himself and the disciples from the Cosmos.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a quoted saying and a textual comparison, not a
+    full cosmological exposition.
+- id: motif:4
+  label: Sophia as Earth type
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that all Sophias typify the Earth in some way.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The statement is a broad editorial generalization and supplies no examples
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously raises a possible comparison between the limited transmigrations
+    in this text and a Manichaean set of five transmigrations.
+  claim_level: same_motif
+  target: Manichaean five transmigrations
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: low
+  limitations: The comparison is framed as a question; the number in the present text
+    is explicitly not stated.
+- id: claim:2
+  claim: The passage compares the belief that knowing a name gives power with Egyptian
+    material, especially the Book of the Dead and the story of the Places of Râ.
+  claim_level: same_motif
+  target: Book of the Dead and the Places of Râ
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an editorial comparison but does not quote the Egyptian
+    passages.
+- id: claim:3
+  claim: The passage reports a proposed similarity between Jesus' saying that he and
+    the disciples are not of the Cosmos and John 17:16, while also noting reasons
+    against identifying the two.
+  claim_level: linguistic_similarity
+  target: Gospel of John 17:16
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: low
+  limitations: The note itself says the words may come from a different time and place
+    and that many alleged Fourth Gospel parallels could come from Synoptic material.
+- id: claim:4
+  claim: The passage makes a comparative functional claim that pre-Christian and Gnostic
+    Sophias typify the Earth in some way.
+  claim_level: same_function
+  target: pre-Christian and Gnostic Sophia figures
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is asserted in an editorial footnote and does not present
+    supporting examples within this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2027-2029
+  quote_or_summary: Transmigrations are said to be limited in number; the number is
+    not stated, and the author wonders if it was five like those of the Manichaeans.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: Footnote 34 within lines 2027-2314
+  quote_or_summary: Irenaeus is summarized as saying that Jesus suffered after completing
+    his thirtieth year but taught until he was forty or fifty.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: Footnote 44 within lines 2027-2314
+  quote_or_summary: "“knowledge of the name of a person or thing gave its possessor
+    power over it”"
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: Footnote 44 within lines 2027-2314
+  quote_or_summary: The names Iao and Maskelli are said to be names used by demons
+    and to correspond to names of certain wicked Rulers.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: Footnote 65 within lines 2027-2314
+  quote_or_summary: Jesus is quoted as telling the disciples that they are not of
+    the Cosmos and that he also is not of it; the note discusses a proposed comparison
+    with John 17:16 and cautions against it.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: Footnote 70 within lines 2027-2314
+  quote_or_summary: "“all the Sophias, pre-Christian as well as Gnostic, in some way
+    or other typify the Earth”"
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: summary
+  locator: Footnote 62 within lines 2027-2314
+  quote_or_summary: The note refers to five Words or Addresses in the Vesture of Light.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a set of editorial footnotes and introductory notes rather
+    than a continuous mythic episode. Motifs are therefore extracted from explicit
+    statements and comparisons only, with caution where antecedents or narrative context
+    are outside the supplied range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Bibliographic notes and source references without extractable mythic or symbolic content were not modeled as motifs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l2027-l2314
+  passage_sha256=8c075e3cee40daf32ece225ecf43f8f19186a601816b77a0a8c3186899950a59
+

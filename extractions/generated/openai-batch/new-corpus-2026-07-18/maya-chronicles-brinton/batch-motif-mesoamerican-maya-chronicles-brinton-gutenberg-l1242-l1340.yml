@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l1242-l1340
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: THE CHRONICLES. / THE CHRONICLE OF CHAC XULUB CHEN. / INTRODUCTION. / CONTENTS.;
+    lines 1242-1340
+  start: '1242'
+  end: '1340'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes the term ahau katun, describes the personified and
+    numbered thirteen Katun periods, explains a practical calendrical conversion using
+    a ruling number and Katun wheel, discusses uncertainty in Maya annal dates, and
+    introduces ancient Maya hieroglyphic books and the difficulty of decipherment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage defines ahau as the ordinary word for chief, king, or ruler and
+    connects it etymologically with a male agent prefix and a collar associated with
+    chiefs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage treats katun as usually meaning a body or battalion of warriors
+    in action and as a verb meaning to fight or give battle.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage likens the ordered series of years under a controlling day and
+    date to a row of soldiers commanded by a chief.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each ahau or chief of a Katun is said to have been represented in native calendars
+    by the picture or portrait of a particular personage identified with the Katun
+    and giving it a name.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The thirteen ahau katuns are listed in an alternating number order beginning
+    with 13 and proceeding 11, 9, 7, 5, 3, 1, 12, 10, 8, 6, 4, 2.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage explains the Ahau number as a ruling number used for the practical
+    conversion of an Ahau year into its equivalent in a 52-year Kin Katun cycle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the Mayas apparently had no common era and that different
+    provinces may have selected different starting eras.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage describes the Mayas as a literary people who used tablets, wrote
+    books, and placed hieroglyphic signs on building walls.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage says Bishop Landa's reported alphabet was insufficient when applied
+    to extant manuscripts and mural inscriptions.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ahau, chief of a Katun
+  description: A calendrical chief, king, or ruler associated with a Katun period
+    and represented in native calendars.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Particular Katun personage
+  description: A named portrait figure in native calendars, identified with a specific
+    Katun.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: The Mayas
+  description: The people described as using Katun wheels, keeping annals, making
+    tablets, writing books, and marking buildings with hieroglyphic signs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Bishop Landa
+  description: Author of an account of Yucatan that gave what he called an alphabet
+    of the language.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: calendrical ruler or personified period
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says each chief of the Katuns was represented by a portrait of
+    a particular personage identified with the Katun, and the term ahau means chief,
+    king, or ruler.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: calendar-using and literary people
+  assigned_to:
+  - fig:3
+  basis: The passage describes Maya use of a Katun wheel and their tablets, books,
+    and hieroglyphic signs.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: source of proposed decipherment key
+  assigned_to:
+  - fig:4
+  basis: The passage says Bishop Landa gave an alphabet-like account that proved insufficient
+    for deciphering manuscripts and inscriptions.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: chiefly collar
+  literal_form: collar of gold or other precious substance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sculptured date stone
+  literal_form: sculptured stone set up at the close of periods and later consulted
+    for dates
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: portrait of Katun personage
+  literal_form: picture or portrait of a particular personage in native calendars
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: thirteen Ahau Katun number sequence
+  literal_form: 13, 11, 9, 7, 5, 3, 1, 12, 10, 8, 6, 4, 2
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Katun wheel
+  literal_form: table or Katun wheel used to find a Cauac year in the cycle
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: hieroglyphic signs
+  literal_form: signs cut in stone or painted on plaster, also connected with manuscripts
+    and mural inscriptions
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Analysis of the name ahau katun
+  summary: The passage analyzes ahau as chief or ruler and katun as a warrior body
+    or act of fighting, then explains the name through an analogy of years as soldiers
+    under a chief.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Katuns represented by named personages
+  summary: The passage says each chief of a Katun had a calendar portrait of a particular
+    personage identified with and naming the Katun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ordering and converting the thirteen Ahau Katuns
+  summary: The thirteen Ahau Katuns are presented in a fixed numerical sequence, and
+    the ruling number is explained as a practical device for converting Ahau years
+    into the 52-year cycle by reference to a Katun wheel.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Chronological uncertainty in the annals
+  summary: The passage raises the question of exact dating, notes doubts about translations
+    and discrepancies, and explains that differing Katun lengths and provincial eras
+    may account for conflicts.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Ancient hieroglyphic books and decipherment problem
+  summary: The passage describes Maya literacy through tablets, books, and wall signs,
+    then says Landa's alphabet-like account was insufficient to decipher extant manuscripts
+    and inscriptions.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: calendar period personified as a named ruler
+  taxonomy_refs: []
+  basis: Each Ahau or chief of a Katun is said to be represented by a portrait of
+    a particular personage identified with the Katun and giving it a name.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a calendrical and historiographic pattern in the passage, not
+    explicitly a myth narrative.
+- id: motif:2
+  label: ordered time as martial command
+  taxonomy_refs: []
+  basis: The passage interprets katun through warrior terminology and compares ordered
+    years under a controlling day and date to soldiers commanded by a chief.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The martial image is presented as the author's explanatory analogy for
+    the term, so it should not be treated as a full narrative motif without corroborating
+    textual evidence.
+- id: motif:3
+  label: cyclical time reckoning by ruling number
+  taxonomy_refs: []
+  basis: The passage describes a ruling number and Katun wheel used to convert named
+    Ahau years into the 52-year Kin Katun cycle.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a calendrical pattern rather than a mythological episode.
+- id: motif:4
+  label: ancient writing as difficult or lost knowledge
+  taxonomy_refs: []
+  basis: The passage emphasizes Maya books and hieroglyphic signs and states that
+    Landa's alphabet-like key was insufficient to decipher the surviving manuscripts
+    and inscriptions.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage frames this as an archaeological and philological problem,
+    not as a mythic secret or sacred wisdom narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage proposes a linguistic similarity between katun as a term connected
+    with fighting and Cakchiquel kat, glossed as to cut, wound, or make prisoner.
+  claim_level: linguistic_similarity
+  target: Cakchiquel kat
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the relation only 'seems' to hold and provides no
+    extended linguistic demonstration in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1242-1248
+  quote_or_summary: '"Ahau is the ordinary word for chief, king, ruler" and is connected
+    with "u, collar, a collar of gold or other precious substance, distinguishing
+    the chiefs."'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 1252-1256
+  quote_or_summary: Katun is described as usually meaning a body or battalion of warriors
+    in action; as a verb, to fight or give battle; the series of years are likened
+    to soldiers commanded by a chief.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1257-1263
+  quote_or_summary: '"Each of these ahaus or chiefs of the Katuns was represented
+    in the native calendars by the picture or portrait of a particular personage"
+    identified with the Katun.'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 1265-1269
+  quote_or_summary: 'The thirteen ahau katuns are ordered: "13, 11, 9, 7, 5, 3, 1,
+    12, 10, 8, 6, 4, 2".'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 1286-1302
+  quote_or_summary: The number of the Ahau is called the ruling number and is explained
+    as a practical means for converting an Ahau year to its equivalent in the 52-year
+    Kin Katun cycle; the Mayas are said to use a Katun wheel for reference.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1304-1320
+  quote_or_summary: The passage questions how exactly the cycles preserved dates,
+    notes disagreements among annals, and says discrepancies may result from differing
+    Katun lengths and differing eras, since no common Maya era was apparently adopted.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1322-1328
+  quote_or_summary: '"The Mayas were a literary people" who used tablets, wrote books,
+    and covered building walls with hieroglyphic signs cut in stone or painted on
+    plaster.'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 1330-1340
+  quote_or_summary: The explanation of Maya signs is called a leading archaeological
+    problem; Bishop Landa's so-called alphabet proved insufficient for deciphering
+    extant manuscripts and mural inscriptions.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1248-1251
+  quote_or_summary: Don Pio Perez analyzed katun as connected with setting up a sculptured
+    stone at the close of periods, later referred to for fixing dates; the author
+    disputes this derivation.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 1253-1255
+  quote_or_summary: Katun as a fighting term "seems related to the Cakchiquel [k]at,
+    to cut, or wound, to make prisoner."
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily calendrical, linguistic, and archaeological exposition
+    rather than narrative mythology. Extracted motifs are therefore treated as candidate
+    patterns and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were applied because the passage symbols do not match the supplied cave, fire, milk, mountain, serpent, tree, or water refs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l1242-l1340
+  passage_sha256=090d021953531d2458073ce4257f9ba5f09a5963b52851b0544e3b2d15bfdfcf
+

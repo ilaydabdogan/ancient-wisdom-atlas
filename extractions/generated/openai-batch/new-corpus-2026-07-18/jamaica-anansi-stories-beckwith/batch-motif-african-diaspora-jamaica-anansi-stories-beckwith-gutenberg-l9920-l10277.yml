@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l9920-l10277
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: XVII. / PHILOSOPHY. / XVIII. / RIDDLES.; lines 9920-10277
+  start: '9920'
+  end: '10277'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A numbered sequence of Jamaican riddles gives figurative clues and then
+    supplies answers. The riddles encode ordinary objects, natural phenomena, animals,
+    body parts, plants, tools, sounds, colors, numbers, and actions through paradoxical
+    or metaphorical descriptions.
+  language: English with Jamaican Creole forms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as a sequence of numbered riddles, usually with an
+    answer introduced after a dash.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several riddles present human or animate situations and answer them with ordinary
+    events or objects, such as a coconut falling before a boy climbs down, a ship
+    at sea, or a guitar with six strings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Animal figures appear repeatedly in the clues, including hen, chickens, horses,
+    John-crow, mule, hog, dogs, cat, rat, cow, flea, and goat.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:4
+  text: Some riddles connect distant place names with sounds or communication, including
+    Kingston, Montego, England, Jamaica, Portland, and Westmoreland.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Plant, food, and household answers include pumpkin-vine, bottle of ale, sugar-cane,
+    boot, moon, castor-oil bean-pod, purse, butter, road, saw, and ring.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage uses color and material contrasts, including black, white, red,
+    green, snow, grass, blood, milk, rock, indigo, and rainbow colors.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Several riddles are structured around counting, including sequences involving
+    four, six, nine, ten, twenty-four, and other numbers.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Sacred or elevated place names such as Mt. Olivet, Zion hill, and Mount Zion
+    appear in clues whose answers are the moon or coconut-related actions.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: obs:9
+  text: Many clues are built from bodily or tactile actions such as climbing, poking,
+    tickling, drilling, brushing, making a broom, and driving an animal from a cabbage
+    patch.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Old man Brenta
+  description: A clue figure who sits on a stump and cuts two packey of equal size.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Boy and doctor
+  description: A clue pair in which a boy is sent to fetch a doctor, but the doctor
+    comes before the boy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Dead and living
+  description: A clue image says the dead carry the living, with the answer given
+    as a ship at sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Animal clue figures
+  description: Animal figures in the riddles include hen and chickens, horses, John-crow,
+    mule, hog, dogs, cat, rat, cow, flea, and goat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Kinship and human clue figures
+  description: Later riddles include figures labeled Papa, Unco Joey, Aunty Mary,
+    Long Aunty Long-long, and a white man sending a white boy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: riddle-clue figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These figures occur inside the riddle clues rather than in a continuous narrative
+    episode.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: role:2
+  label: animate analogue for an object or phenomenon
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Animal or human clue figures are paired with answers such as tools, natural
+    phenomena, foods, or household actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: tree and plant imagery
+  literal_form: Stump, cotton-tree, pumpkin-vine, sugar-cane, chip-cherry, cedar,
+    cocoanut tree, onion, and cabbage-patch.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: fire
+  literal_form: Fire-stones, fire in the kitchen, lamp with fire above water, frying-pan
+    described with hell above and below, and baking fire.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: water and milk
+  literal_form: Sea, water, water that grows or stands up, washing water, Zion water,
+    and coconut milk.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  - milk
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: mountain and hill imagery
+  literal_form: Mountain hill, Mt. Olivet church, Zion hill, and Mount Zion.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: smoke
+  literal_form: Smoke outside a kitchen, smoke filling a room and hall, and smoke
+    that cannot climb.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:6
+  label: numbers and counting
+  literal_form: Six chickens, six strings, four waiting for four, six and four waiting
+    for twenty-four, nine run, ten on to four, six in and seventh out, and ten toes.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:7
+  label: color contrasts
+  literal_form: White, black, red, green, blue, snow, grass, blood, milk, indigo,
+    and rainbow colors.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+scenes:
+- id: scene:1
+  label: Riddle-answer catalogue
+  summary: The passage presents a catalogue of riddles in which each clue is followed
+    by an answer naming the intended object, event, or phenomenon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animate clues for objects and phenomena
+  summary: Animals and human-like figures are used in clues whose answers include
+    guitar, mill-rollers, cooking-pot on fire-stones, needle and thread, fire and
+    smoke, pipe, rooster, newspaper, thunder, and great gun.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Domestic, plant, and material riddles
+  summary: A group of riddles identifies plants, foods, household items, body-related
+    objects, colors, and natural appearances through short clues and answers.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Counting riddles
+  summary: Several riddles use numerical arrangements to point to animals, childbirth,
+    horseshoes and nails, cow teats, hen hatching, boots and toes, and a cow's body
+    parts.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Zion, action, and tool riddles
+  summary: Later riddles include smoke, a broken bottle on a stump, climbing Mount
+    Zion or Zion hill to get coconut fruit and milk, lock and key, flea, broom, ants,
+    needle and thread, hair brushing, blacking brush, broom-making, road, and goat
+    in a cabbage patch.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Riddling knowledge and verbal wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is a numbered riddle sequence where concealed meanings are resolved
+    by answer lines.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a riddle catalogue, not a narrative wisdom contest or mythic
+    episode.
+- id: motif:2
+  label: Animate masking of ordinary objects
+  taxonomy_refs: []
+  basis: People and animals in the clues are paired with answers naming tools, household
+    items, sounds, natural phenomena, or everyday actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The equivalences are rhetorical riddle devices, not literal transformations
+    or shapeshifting events.
+- id: motif:3
+  label: Remote answering sound
+  taxonomy_refs: []
+  basis: A cluster of riddles uses barking dogs in different places to describe rooster
+    calls, newspaper communication, thunder, and a great gun.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a local riddle pattern within the passage; broader distribution
+    is not established by the provided text.
+- id: motif:4
+  label: Sacred place imagery applied to ordinary referents
+  taxonomy_refs: []
+  basis: Mt. Olivet and Zion/Mount Zion appear in clues answered by the moon and by
+    climbing a coconut tree, picking the nut, and drinking coconut milk.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage gives sacred names as riddle imagery but does not state a
+    ritual or theological meaning.
+- id: motif:5
+  label: Number-based riddling
+  taxonomy_refs: []
+  basis: Several riddles depend on counts and numerical groupings, including four
+    waiting for four, six and four waiting for twenty-four, nine/one/two, ten on four,
+    six in and seventh out, and black covering ten.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a formal pattern rather than a mythological narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a same-function comparison with a wisdom or riddle-knowledge
+    motif family because it encodes knowledge in obscure verbal clues and reveals
+    answers.
+  claim_level: same_function
+  target: wisdom motif family / riddle-knowledge pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The text does not present a contest, initiation, divine teacher, or
+    explicit moral lesson; the comparison is functional and formal only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9920-10277; riddle sequence as a whole
+  quote_or_summary: The passage is a numbered catalogue of riddles, each generally
+    followed by an answer line.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9920-10277; opening item and riddles 135-136
+  quote_or_summary: Opening riddles include Old man Brenta on a stump, a boy sent
+    to fetch a doctor before the boy returns, and the dead carrying the living, answered
+    with cloud imagery, a coconut-fall situation, and a ship at sea.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9920-10277; riddles 137-142
+  quote_or_summary: Riddles in this section use hen and chickens, two horses, John-crow,
+    a horse over a bridge, a mule with tail outside, and a hog, with answers including
+    guitar, mill-rollers, cooking-pot on fire-stones, needle and thread, kitchen fire
+    and smoke, and pipe.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9920-10277; riddles 143-146
+  quote_or_summary: A cluster of riddles about dogs barking or sounding across Kingston,
+    Montego, England, Jamaica, Portland, and Westmoreland is answered by rooster calls,
+    newspaper, thunder, and a great gun.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9920-10277; riddles 147-158
+  quote_or_summary: Riddles identify pumpkin-vine and pumpkin, bottle of ale, sugar-cane,
+    foot in a boot, moon, castor-oil bean-pod, purse, butter, road, saw, and ring.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9920-10277; riddles 159-176
+  quote_or_summary: Riddles use color, body, clothing, fire, smoke, food, and natural
+    imagery, with answers including a mixed-color family image, jigger, turn-stick,
+    smoke, mat, lamp, frying-pan, eye and eyelashes, stockings, boot, bammie with
+    baking-iron and fire, coffee blossom and berry, onion, ackee, coconut, and rainbow.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9920-10277; riddles 177-184
+  quote_or_summary: Number and animal riddles include rat and corn, cat waiting for
+    rat, horse-shoes and nails, birth of a baby and nipples, cow teats, hen hatching
+    six chicks, boots covering toes, and cow body parts.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9920-10277; riddles 185-190
+  quote_or_summary: Riddles identify smoke, a broken bottle on a stump, climbing Zion
+    or Mount Zion to get coconut fruit and drink coconut milk, lock and key, and flea.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9920-10277; riddles 191-199
+  quote_or_summary: Final riddles identify broom, ants, needle and thread, hair brushing,
+    brush and blacking, broom-making, road, and a white man sending a white boy to
+    drive a white goat from a cabbage patch.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward because answers are provided. Motif
+    interpretation is limited because the passage is a riddle catalogue rather than
+    a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or inheritance claims are made. Taxonomy references are limited to supplied motif and symbol labels directly supported by passage wording.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l9920-l10277
+  passage_sha256=ed10d421fbc5e3533f2a992e96d72420acec3847a85f63189be395f71ee66f0f
+

@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l6422-l6492
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: XLII. / WIGLAF'S SAD STORY.--THE HOARD CARRIED OFF. / XLIII. / THE BURNING
+    OF BEOWULF.; lines 6422-6492
+  start: '6422'
+  end: '6492'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Geats prepare Beowulf's decorated funeral pyre, burn his body, build
+    a high barrow visible from the sea, place treasure in it, and mourn and praise
+    him as an ideal king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Geatmen prepared a strong pile on the earth for Beowulf's burning and
+    hung it with helmets, shields, and bright mail-shirts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wailing war-heroes laid their beloved chieftain and liegelord in the middle
+    of the pyre.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Soldiers made a large dead-fire on the barrow; smoke rose, and the fire broke
+    the body apart.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mourners lamented the ruin of their leader with heavy spirits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage mentions a much-grieving widow, followed by a marked lacuna in
+    the printed text.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: The Weders built a high and extensive hill or beacon on the height, visible
+    to sea-going sailors, and surrounded it with a wall.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Rings, jewels, and gold from the treasure were placed in the barrow and entrusted
+    to the earth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Twelve chiefs' sons rode around the dead-mound.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The mourners lamented their ruler, spoke of him in measured words, and praised
+    his worth and warlike achievements.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The mourners said Beowulf was the kindest of kings, gentlest of men, friendliest
+    to people, and fond of honor.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Beowulf
+  description: The deceased world-famous chieftain, beloved liegelord, ruler, and
+    king whose body is burned and whose deeds are praised.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Geatmen / Weders / men of the Geats
+  description: The funeral community who prepare the pyre, build the barrow, place
+    treasure in it, and mourn their lord.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Twelve chiefs' sons
+  description: The twelve sons of the chiefs of the people who ride around the dead-mound
+    and participate in mourning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Much-grieving widow
+  description: A widow briefly mentioned in connection with mournful measures before
+    a lacuna in the printed text.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: deceased liegelord
+  assigned_to:
+  - fig:1
+  basis: Beowulf is laid in the middle of the pyre as the beloved chieftain and liegelord
+    whose body is burned.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: praised ideal king
+  assigned_to:
+  - fig:1
+  basis: The mourners praise his worth, warlike achievements, kindness, gentleness,
+    friendliness, and honor.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: funeral builders and mourners
+  assigned_to:
+  - fig:2
+  basis: The Geat/Weder community prepares the pyre, builds the barrow, deposits treasure,
+    and laments the lord.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: riders around the dead-mound
+  assigned_to:
+  - fig:3
+  basis: The twelve chiefs' sons ride around the dead-mound as part of the mourning
+    scene.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: grieving mourner
+  assigned_to:
+  - fig:4
+  basis: The passage identifies a much-grieving widow in a mourning context before
+    the lacuna.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: funeral fire
+  literal_form: pyre, dead-fire, smoke-cloud, and sad-roaring fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: burial barrow as beacon
+  literal_form: high and extensive hill on the height, built where the fire was, visible
+    to sea-going sailors, and later called a dead-mound
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: weapons and armor on the pyre
+  literal_form: helmets, hero-knights' shields, and bright-shining mail-shirts hung
+    on the pyre
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: buried treasure
+  literal_form: rings, jewels, ornaments, gold, and treasure placed in the barrow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ride around the dead-mound
+  literal_form: twelve chiefs' sons riding around the mound
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparation of Beowulf's pyre
+  summary: The Geatmen prepare a strong pyre, decorate it with helmets, shields, and
+    mail, and lay Beowulf in the middle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Funeral burning and lament
+  summary: Soldiers kindle the dead-fire; smoke rises, the body is consumed, and the
+    mourners lament their leader's ruin. A widow is mentioned before a lacuna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: scene:3
+  label: Construction of the barrow beacon
+  summary: The Weders build a high, extensive mound where the fire had been, visible
+    to sailors and surrounded by a wall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Treasure placed in the barrow
+  summary: Rings, jewels, ornaments, and gold from the treasure are placed in the
+    barrow and left in the earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Mourning ride and praise of the king
+  summary: Twelve chiefs' sons ride around the dead-mound while the Geats mourn Beowulf,
+    praise his deeds, and call him a kind, gentle, friendly, honor-loving king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Hero's cremation on a decorated pyre
+  taxonomy_refs: []
+  basis: Beowulf is laid on a pyre decorated with martial equipment, and the funeral
+    fire consumes his body.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a descriptive funerary motif; no supplied taxonomy motif exactly
+    matches it.
+- id: motif:2
+  label: Monumental burial mound as seafarers' beacon
+  taxonomy_refs: []
+  basis: The Weders build a high mound where the fire was, visible to sailors from
+    a distance.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage calls it a hill, beacon, barrow, and dead-mound; it should
+    not be equated with a mountain symbol without review.
+- id: motif:3
+  label: Treasure interred with the dead and removed from use
+  taxonomy_refs: []
+  basis: Rings, jewels, and gold are entrusted to the earth in the barrow and described
+    as useless to mortals.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a burial deposit, not a theft or exchange scene.
+- id: motif:4
+  label: Ritual mourning around the grave
+  taxonomy_refs: []
+  basis: Twelve chiefs' sons ride around the dead-mound while mourners lament their
+    lord and praise him in measured words.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The exact ritual status of the ride is not explained beyond the passage's
+    description.
+- id: motif:5
+  label: Funerary praise of the ideal king
+  taxonomy_refs: []
+  basis: The Geats commend Beowulf's worth, achievements, kindness, gentleness, friendliness,
+    and love of honor after his death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is close to kingship commemoration, but the passage does not present
+    succession or explicit royal legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6422-6492; XLIII, verse lines 1-6
+  quote_or_summary: The Geatmen prepare Beowulf's pyre, hang it with helmets, shields,
+    and bright mail, and lay their beloved chieftain in the middle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6422-6492; XLIII, verse lines 7-13
+  quote_or_summary: Soldiers make a large dead-fire on the barrow; smoke rises, the
+    fire consumes the body, and the mourners lament the leader's ruin.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6422-6492; XLIII, verse lines 21-26
+  quote_or_summary: The Weders build a high, extensive hill or beacon where the fire
+    was, visible to sea-going sailors, completed over ten days and surrounded by a
+    wall.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6422-6492; XLIII, verse lines 27-32
+  quote_or_summary: Rings, jewels, ornaments, and gold from the treasure are placed
+    in the barrow and entrusted to the earth, where they remain useless to mortals.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6422-6492; XLIII, verse lines 33-42
+  quote_or_summary: Twelve chiefs' sons ride around the dead-mound; the Geats mourn
+    their ruler, speak of him in measured words, and commend his worth and warlike
+    achievements.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6422-6492; XLIII, verse lines 43-45
+  quote_or_summary: The mourners describe Beowulf as the kindest of kings, gentlest
+    of men, friendliest to people, and fondest of honor.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6422-6492; XLIII, verse lines 14-20
+  quote_or_summary: A much-grieving widow is mentioned in connection with mournful
+    measures, after which the printed passage marks a lacuna.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The main funeral sequence is explicit. The widow passage is limited by a
+    lacuna. No comparison claims are made because the passage itself does not establish
+    historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy refs are assigned only where directly supported; the funeral fire is linked to the supplied fire symbol.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l6422-l6492
+  passage_sha256=3f583116c0393a9e28b57ac56842f0f5da31dc9f70e259487181244ba515dd22
+

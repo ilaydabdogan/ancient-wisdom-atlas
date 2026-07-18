@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8167-l8195
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 98 / PAGE 103 / PAGE 107 / THE COMBAT AT THE FORD; lines 8167-8195
+  start: '8167'
+  end: '8195'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An editorial note introduces the section titled “The Combat at the Ford.”
+    It says two passages concerning Fergus’ sons and deeds are omitted. It then discusses
+    O'Curry’s translation of the Book of Leinster version of the Táin bó Cuailnge,
+    notes inaccuracies and partial corrections, mentions an expected complete version
+    by Windisch, and credits E. J. Quiggin for valuable corrections.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage states that two passages are omitted: one about Fergus’ sons
+    born in Connaught and one summarizing Fergus’ deeds.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The section heading is “THE COMBAT AT THE FORD.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies O'Curry’s translation as a translation of this part
+    of the Book of Leinster version of the Táin bó Cuailnge.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says O'Curry’s translation has often been pointed out as containing
+    many inaccuracies.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the present translation is mainly founded on O'Curry and
+    does not claim to correct all or most inaccuracies.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage mentions that a complete version of the Great Táin by Windisch
+    was eagerly expected to provide a trustworthy text.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says two poems have been literally translated in full, with uncertain
+    renderings marked by a query when based only on O'Curry.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage credits Mr. E. J. Quiggin for the more valuable corrections made
+    to O'Curry’s translation.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fergus
+  description: A named figure whose sons born in Connaught and deeds are said to be
+    treated in omitted passages.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fergus’ sons
+  description: A group mentioned as born in Connaught in an omitted passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: O'Curry
+  description: Translator of this part of the Book of Leinster version of the Táin
+    bó Cuailnge; the present translation is mainly founded on his version.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Windisch
+  description: Scholar associated with an expected complete version of the Great Táin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mr. E. J. Quiggin
+  description: Fellow of Caius College, Cambridge, credited for valuable corrections
+    to O'Curry’s translation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: referenced heroic figure
+  assigned_to:
+  - fig:1
+  basis: Fergus is mentioned in relation to sons and deeds in omitted narrative passages.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: referenced kin group
+  assigned_to:
+  - fig:2
+  basis: Fergus’ sons are mentioned as born in Connaught in an omitted passage.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: translator-source
+  assigned_to:
+  - fig:3
+  basis: O'Curry’s translation is identified and used as the main basis for the present
+    translation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: expected editor or translator
+  assigned_to:
+  - fig:4
+  basis: Windisch is named in connection with an expected complete version of the
+    Great Táin.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: correction contributor
+  assigned_to:
+  - fig:5
+  basis: The passage says the valuable corrections to O'Curry’s translation are owed
+    to Quiggin.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial introduction to “The Combat at the Ford”
+  summary: The passage introduces the section, notes omitted material concerning Fergus,
+    and explains the textual and translational basis of the present version.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8167-8171
+  quote_or_summary: 'Two passages are omitted: one describing Fergus’ sons born in
+    Connaught and another summarizing Fergus’ deeds.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 8173
+  quote_or_summary: "“THE COMBAT AT THE FORD”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quote.
+- id: ev:3
+  type: summary
+  locator: lines 8175-8178
+  quote_or_summary: O'Curry’s translation of this part of the Book of Leinster version
+    of the Táin bó Cuailnge is identified as appearing in volume three of his Manners
+    and Customs.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8178-8188
+  quote_or_summary: The note says O'Curry’s translation contains many inaccuracies;
+    the present version does not claim to correct most of them, is mainly founded
+    on O'Curry, and awaits Windisch’s complete version of the Great Táin as a trustworthy
+    text.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8189-8195
+  quote_or_summary: The note discusses literal translation of two poems, marks uncertain
+    renderings based only on O'Curry with a query, and credits E. J. Quiggin for valuable
+    corrections.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is editorial and contains no extractable mythic action or symbol
+    pattern beyond references to omitted material and the section title; therefore
+    motif and comparison arrays are empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or symbols were extracted because the passage itself provides only editorial commentary and does not narrate the combat or related mythic events.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8167-l8195
+  passage_sha256=eba755c281d12886548d1b51cd3273b33d13e605fe2b1af5e87de5dbba95b194
+

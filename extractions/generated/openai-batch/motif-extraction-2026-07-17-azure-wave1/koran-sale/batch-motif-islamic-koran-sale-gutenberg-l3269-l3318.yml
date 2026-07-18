@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3269-l3318
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3269-3318
+  start: '3269'
+  end: '3318'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"In the name of the most merciful GOD;"'
+  summary: The passage describes divisions of the Koran into sixty or thirty portions
+    for recitation, the daily reading of the whole text by assigned readers, the Bismillah
+    formula at chapter openings and writings, comparative opening formulas in Jewish,
+    eastern Christian, and Persian Magian practice, debate over whether chapter titles
+    and the Bismillah are divine or human additions, and the mysterious alphabetic
+    initials at the start of twenty-nine chapters, interpreted by some through Cabbalistic
+    methods.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage notes that some have computed how often each alphabet letter occurs
+    in the Koran.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Koran is described as divided by Muslims into sixty Ahzab or Hizb portions,
+    each subdivided into four parts, and more usually into thirty Ajza or Joz sections,
+    each also subdivided into four parts.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The textual divisions are used by readers in royal temples or adjoining chapels,
+    where thirty readers each read a section daily so that the whole Koran is read
+    once a day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sixty-part division is described as an imitation of a Jewish division
+    of the Mishna into sixty portions called Massictoth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bismillah is placed after the title at the head of every chapter except
+    the ninth, and is also placed at the beginning of books and writings as a distinguishing
+    religious mark; omitting it is described as impious.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Jews, eastern Christians, and Persian Magi use comparable
+    divine-name opening formulas.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The generality of doctors and commentators are said to believe the Bismillah
+    and chapter titles are of divine origin, while more moderate interpreters regard
+    them as human additions.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Twenty-nine chapters of the Koran are said to begin with certain alphabet
+    letters, either one letter or several.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Muslims are described as believing these initial letters to be peculiar marks
+    of the Koran that conceal profound mysteries, whose certain understanding has
+    not been communicated to any mortal except the prophet.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Some interpreters are said to guess that the letters, by Notarikon, stand
+    for words expressing God's names and attributes, works, ordinances, and decrees.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Other interpretations explain the letters from their nature or organ, or from
+    their numerical value, according to another species of Jewish Cabbala.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mohammedans / Muslims
+  description: The religious community described as dividing the Koran, using the
+    Bismillah, and believing the initial letters conceal mysteries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Thirty readers of the Koran
+  description: Readers attached to each chapel, each reading one section daily so
+    that the entire Koran is read daily.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Jews
+  description: A comparison group associated with the Mishna division, divine-name
+    opening formulas, and Cabbalistic interpretive methods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Eastern Christians
+  description: A comparison group said to begin writings with the formula naming the
+    Father, Son, and Holy Ghost.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Persian Magi
+  description: A comparison group said to have begun books with a formula translated
+    as invoking the most merciful, just God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: GOD
+  description: The deity invoked in the Bismillah and other opening formulas, and
+    whose names and attributes are said by some to be encoded in the mysterious letters.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: Mohammed / their prophet
+  description: Named by the passage as the person the author believes may have taken
+    the Bismillah form from the Persian Magi, and as the prophet excepted from mortal
+    ignorance of the mysterious letters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:8
+  name_or_label: Doctors and commentators
+  description: Interpreters described as generally believing the Bismillah and chapter
+    titles to be of divine original.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: More moderate interpreters
+  description: Interpreters described as regarding the Bismillah and chapter titles
+    as human additions rather than the very word of God.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: textual-religious community
+  assigned_to:
+  - fig:1
+  basis: The community is described as organizing, marking, and interpreting the Koran
+    through divisions, formulas, and mysterious letters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:2
+  label: daily ritual reciters
+  assigned_to:
+  - fig:2
+  basis: Thirty readers each read a section every day so that the whole Koran is read
+    once daily.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: comparative Jewish precedent
+  assigned_to:
+  - fig:3
+  basis: The passage compares Koranic divisions, opening formulas, and alphabetic
+    interpretive methods with Jewish examples.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:4
+  label: comparative Christian formula users
+  assigned_to:
+  - fig:4
+  basis: Eastern Christians are said to use an opening formula in the name of the
+    Father, Son, and Holy Ghost.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: possible source tradition for opening formula
+  assigned_to:
+  - fig:5
+  basis: The author states an opinion that Mohammed took the formula from the Persian
+    Magi.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine addressee and claimed source
+  assigned_to:
+  - fig:6
+  basis: God is invoked in the formulas, identified as the possible divine origin
+    of the Bismillah and titles, and named in interpretations of the letters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:7
+  label: prophet with exceptional access to hidden meaning
+  assigned_to:
+  - fig:7
+  basis: The passage says certain understanding of the mysterious letters has not
+    been communicated to any mortal except the prophet.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: assertors of divine origin
+  assigned_to:
+  - fig:8
+  basis: Doctors and commentators are described as believing the formula and titles
+    to be divine in origin.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: assertors of human addition
+  assigned_to:
+  - fig:9
+  basis: More moderate interpreters are described as denying that the formula and
+    titles are the very word of God.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Bismillah opening formula
+  literal_form: '"In the name of the most merciful GOD"'
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: mysterious alphabetic signs
+  literal_form: Certain single or multiple alphabet letters placed at the beginning
+    of twenty-nine chapters and described as signs concealing mysteries.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Text divided for daily recitation
+  summary: The passage describes the Koran as divided into regular portions and read
+    daily by thirty chapel readers so that the whole text is completed each day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Opening invocation and comparative formulas
+  summary: The passage describes the Bismillah at chapter openings and writings, then
+    compares it with Jewish, eastern Christian, and Persian Magian opening formulas.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Debate over divine or human origin
+  summary: The passage reports disagreement over whether the Bismillah and chapter
+    titles are divinely original or human additions.
+  figure_refs:
+  - fig:6
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Initial letters treated as hidden signs
+  summary: The passage describes the alphabetic initials of twenty-nine chapters as
+    mysterious signs and reports interpretive guesses using Notarikon, divine names,
+    and numerical values.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacred opening invocation
+  taxonomy_refs: []
+  basis: The Bismillah is placed at the head of chapters and writings, omission is
+    described as impious, and the passage compares it with other divine-name openings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No exact supplied taxonomy family matches this textual invocation pattern.
+- id: motif:2
+  label: ritualized complete-text recitation cycle
+  taxonomy_refs: []
+  basis: Thirty readers each recite a section daily so that the whole Koran is read
+    once per day.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a described devotional-textual practice, not a narrative mythic
+    episode.
+- id: motif:3
+  label: concealed alphabetic wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The initial letters are described as concealing profound mysteries not certainly
+    understood by mortals except the prophet, and as interpretable through divine
+    names, attributes, and numerical methods.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage reports beliefs and guesses about the letters; it does not
+    supply their meanings.
+- id: motif:4
+  label: divine-origin paratext disputed as revelation or addition
+  taxonomy_refs: []
+  basis: The Bismillah and chapter titles are said by some to be of divine origin
+    and by others to be human additions.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a doctrinal or textual-authority pattern rather than a conventional
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly describes the Koran's sixty-part Ahzab division as
+    an imitation of the Jewish Mishna's sixty Massictoth.
+  claim_level: historical_contact
+  target: Jewish Mishna division into sixty Massictoth
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the source author's assertion within the passage;
+    no independent demonstration is provided here.
+- id: claim:2
+  claim: 'The Bismillah and Jewish and eastern Christian divine-name formulas are
+    presented as serving the same function: beginning writings in a sacred name and
+    marking religious identity.'
+  claim_level: same_function
+  target: Jewish and eastern Christian opening formulas
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage compares function, not necessarily origin or direct borrowing
+    for the Jewish and Christian examples.
+- id: claim:3
+  claim: The author speculates that Mohammed took the Bismillah-like opening formula
+    from the Persian Magi.
+  claim_level: historical_contact
+  target: Persian Magi opening formula
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording is explicitly tentative as the author's belief; the passage
+    does not prove borrowing.
+- id: claim:4
+  claim: Interpretation of the Koranic initial letters through Notarikon and numerical
+    value is presented as sharing a function with Jewish Cabbalistic methods of alphabetic
+    interpretation.
+  claim_level: same_function
+  target: Jewish Cabbala, including Notarikon and numerical interpretation
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage identifies the interpretive methods, but does not establish
+    a complete shared symbolic system.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3269-3270
+  quote_or_summary: The passage notes computations of the number of times each alphabet
+    letter occurs in the Koran.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 3271-3288
+  quote_or_summary: The Koran is described as divided into sixty Ahzab/Hizb portions
+    or more usually thirty Ajza/Joz sections, subdivided into four parts; thirty chapel
+    readers each read a section daily so the whole Koran is read once a day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 3272-3277
+  quote_or_summary: The sixty-part Koran division is described as an imitation of
+    the Jewish Mishna divided into sixty Massictoth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 3289-3297
+  quote_or_summary: The Bismillah, translated as "In the name of the most merciful
+    GOD," is prefixed to every chapter except the ninth and placed at the beginning
+    of books and writings; omitting it is counted impious.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 3298-3305
+  quote_or_summary: The passage compares Jewish, eastern Christian, and Persian Magian
+    opening formulas, and the author says he is inclined to believe Mohammed took
+    the form from the Persian Magi.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 3306-3310
+  quote_or_summary: Doctors and commentators are said generally to regard the Bismillah
+    and chapter titles as divine in origin, while more moderate interpreters regard
+    them as human additions rather than the very word of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 3311-3317
+  quote_or_summary: Twenty-nine chapters begin with alphabet letters; Muslims are
+    said to regard these as peculiar marks of the Koran concealing profound mysteries,
+    certainly understood by no mortal except the prophet.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:8
+  type: summary
+  locator: lines 3317-3318
+  quote_or_summary: Some interpreters use Notarikon to read the letters as standing
+    for words about God's names, attributes, works, ordinances, and decrees; others
+    explain them by nature, organ, or numerical value as a form of Jewish Cabbala.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository and comparative rather than narrative. Literal
+    textual practices and symbolic-letter patterns are clear, but motif classification
+    is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied symbol taxonomy entries such as cave, fire, milk, mountain, serpent, tree, or water are present in this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3269-l3318
+  passage_sha256=b916f73cd3572208856b2bde8496dccc3570de358902144d64364684622e98e5
+

@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l1846-l1937
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 1846-1937
+  start: '1846'
+  end: '1937'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sister cares for her bewitched brother in roebuck form, leads him into
+    the forest, and lives with him in an empty cottage. The roebuck repeatedly joins
+    the King’s hunt, is wounded and followed, and the King learns the cottage password.
+    The King uses the call to enter, sees the maiden, proposes marriage, and accepts
+    her condition that the roebuck accompany her. She becomes Queen, and the roebuck
+    is cared for in the palace garden.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sister and the little roe weep, and the girl tells the roe that she will
+    never leave him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sister puts her golden garter around the roebuck’s neck, makes a soft
+    cord from rushes, ties him with it, and leads him deeper into the forest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sister and roebuck find an empty little house, where she makes a bed for
+    the roe, gathers food for herself and grass for him, prays in the evening, and
+    sleeps with her head on his back.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The King holds a great hunt in the forest; the roebuck hears the horns, dogs,
+    and huntsmen, asks to join, and the sister lets him go after giving him a door-call
+    to use on return.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The King and huntsmen chase the roebuck but cannot catch him; at dark he returns
+    to the cottage, uses the call, is admitted, and rests on his bed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: On the next hunt the roebuck is seen with a golden collar, chased, slightly
+    wounded in the foot, and followed by a hunter who observes the door-call and reports
+    it to the King.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The sister washes blood from the hurt fawn, lays herbs on the wound, and warns
+    him not to go out again, but he insists and she opens the door with a heavy heart.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The King orders the huntsmen to chase the roebuck until nightfall but not
+    to harm him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The King goes to the cottage, repeats the door-call, enters, sees the maiden,
+    proposes that she come to his palace as his wife, and agrees that the little roe
+    may stay with her.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The sister ties the roebuck again with the rush cord, leaves the cottage with
+    the King, is taken to the palace, marries him, becomes Queen, and the roebuck
+    is cherished in the palace garden.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: sister / maiden / later Queen
+  description: The girl is the sister of the bewitched brother; she cares for the
+    roebuck in the forest cottage, refuses to leave him, and later becomes the King’s
+    wife and Queen.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: bewitched brother / little roe / roebuck
+  description: The brother is in roe or roebuck form, is led and cared for by his
+    sister, joins the hunt repeatedly, is wounded slightly, and later lives cared
+    for in the palace garden.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: King
+  description: The King of the country holds the forest hunt, learns the cottage call,
+    enters the cottage, proposes marriage to the maiden, and takes her to his palace.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: huntsmen / hunter
+  description: The huntsmen participate in the King’s hunt, chase and surround the
+    roebuck, one wounds him slightly, and a hunter observes the cottage password and
+    reports it to the King.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: protective sibling and caretaker
+  assigned_to:
+  - fig:1
+  basis: She promises not to leave the roe, feeds him, makes his bed, tends his wound,
+    and insists he accompany her.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:2
+  label: bewitched animal-sibling
+  assigned_to:
+  - fig:2
+  basis: The passage calls him the sister’s poor bewitched brother and notes that
+    he lacks human form while appearing as a roe or roebuck.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: royal hunter and suitor
+  assigned_to:
+  - fig:3
+  basis: The King holds the hunt, pursues the roebuck, enters the cottage, and asks
+    the maiden to be his wife.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:4
+  label: pursuers and informants
+  assigned_to:
+  - fig:4
+  basis: The huntsmen chase and wound the roebuck, and one hunter reports the observed
+    cottage call to the King.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: royal bridegroom and bride
+  assigned_to:
+  - fig:3
+  - fig:1
+  basis: The King asks the maiden to go to his palace as his wife; the wedding is
+    held and she becomes Queen.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: forest and trees
+  literal_form: The forest, wilderness, trees, bushes, and wood surrounding the cottage
+    and hunt.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: golden neck-band
+  literal_form: The sister’s golden garter placed around the roebuck’s neck, later
+    seen by the huntsmen as a golden collar.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: rush cord
+  literal_form: Rushes woven into a soft cord used to tie and lead the roebuck.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:4
+  label: cottage door-call
+  literal_form: The cottage door is opened to the words, “My little sister, let me
+    in,” or a close variant used by the King.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: royal hunt
+  literal_form: The King’s hunt with horns, dogs, huntsmen, pursuit, and repeated
+    chasing of the roebuck.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: wound and healing herbs
+  literal_form: The roebuck’s wounded foot, blood washed away, and herbs laid on the
+    wound.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: palace wedding and garden
+  literal_form: The King’s palace, the wedding, the Queen’s new status, and the roebuck
+    in the palace garden.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Sister promises loyalty and leads the roe into the forest
+  summary: The sister mourns with the roe, promises never to leave him, places a golden
+    garter on his neck, ties him with a rush cord, and leads him deeper into the forest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Forest cottage life
+  summary: The pair find an empty house and live there; the sister gathers food, makes
+    the roe’s bed, prays, and sleeps using the roebuck’s back as a pillow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: First hunt and password return
+  summary: The King’s hunt draws the roebuck out; the sister gives him a return call,
+    and after evading the hunters he comes back to the cottage by using it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Second hunt, wound, and discovery of the call
+  summary: The roebuck joins the hunt again, is seen with the golden collar, is wounded
+    slightly, and is followed by a hunter who observes the door-call and reports it
+    to the King.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Healing and one more hunt
+  summary: The sister treats the roebuck’s wound and fears he will be killed, but
+    he insists on joining the hunt again; the King commands pursuit without harm.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: King enters the cottage and proposes
+  summary: At sunset the King is shown the cottage, repeats the call, enters, sees
+    the maiden, proposes marriage, and accepts that the little roe must remain with
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Wedding and palace garden
+  summary: The King takes the maiden to the palace, the wedding is held, she becomes
+    Queen, and the roebuck is tended and cherished in the palace garden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: bewitched human in animal form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The brother is described as bewitched, appears as a roe or roebuck, and the
+    passage refers to the absence of his human form.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The cause of the enchantment is outside the supplied line range.
+- id: motif:2
+  label: loyal sibling pair in forest exile
+  taxonomy_refs:
+  - sibling_pair
+  - departure
+  basis: The sister refuses to abandon the bewitched brother, leads him into the forest,
+    and lives with him alone in the wilderness cottage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The broader departure context before this passage is not included.
+- id: motif:3
+  label: protected threshold with a password
+  taxonomy_refs: []
+  basis: The sister keeps the cottage door shut and opens only when the returning
+    roe says the agreed call, which is later overheard and repeated by the King.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage presents this as a practical recognition device; no further
+    ritual meaning is stated.
+- id: motif:4
+  label: wounded animal leads pursuers to hidden dwelling
+  taxonomy_refs: []
+  basis: After the roebuck is wounded and runs slowly, a hunter follows him to the
+    cottage and learns the door-call.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The roebuck does not intentionally guide the hunter.
+- id: motif:5
+  label: royal hunt reveals hidden maiden
+  taxonomy_refs: []
+  basis: The King’s hunt leads to discovery of the cottage, where the King sees the
+    maiden and asks her to become his wife.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly frame the hunt as a quest for the maiden.
+- id: motif:6
+  label: marriage conditioned on preserving animal-sibling bond
+  taxonomy_refs: []
+  basis: The maiden accepts the King’s proposal only after stating that the little
+    roe must go with her, and the King agrees that it will stay with her and lack
+    nothing.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The condition is stated in domestic and familial terms, not as a formal
+    contract motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1846-1848
+  quote_or_summary: The sister weeps over her bewitched brother; the little roe also
+    weeps, and she says, “I will never, never leave you.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1850-1853
+  quote_or_summary: The sister puts her golden garter around the roebuck’s neck, weaves
+    rushes into a soft cord, ties him, and leads him deeper into the forest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1855-1864
+  quote_or_summary: They find an empty little house and live there; the sister makes
+    a bed of leaves and moss, gathers roots, berries, nuts, and grass, prays, and
+    sleeps with her head on the roebuck’s back.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1866-1876
+  quote_or_summary: The King holds a great forest hunt; horns, dogs, and huntsmen
+    sound through the trees, the roebuck begs to go, and the sister permits him after
+    giving him the return call.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1878-1884
+  quote_or_summary: The King and huntsmen chase the roebuck but cannot catch him;
+    at dark he returns to the cottage, knocks, says the call, and is admitted to rest
+    on his bed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 1886-1901
+  quote_or_summary: On another hunt the roebuck is seen with the golden collar, chased,
+    slightly wounded in the foot, and followed to the cottage by a hunter who hears
+    the call and reports it to the King.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 1903-1918
+  quote_or_summary: The sister washes blood from the fawn, lays herbs on the wound,
+    fears he will be killed, but opens the door after he insists; the King orders
+    the huntsmen to chase him without harming him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 1920-1932
+  quote_or_summary: At sunset the King is shown the cottage, uses the call, enters,
+    sees the maiden, asks her to be his wife, agrees that the little roe may remain
+    with her, and she leaves with him while holding the rush cord.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: lines 1934-1937
+  quote_or_summary: The King carries the maiden to the palace, the wedding is held,
+    she becomes Queen, and the roebuck is tended and cherished in the palace garden.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    limited to passage-supported patterns and available taxonomy refs; no comparison
+    claims are made because the passage itself provides no comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Public-domain Grimm passage in English translation; transformation background outside the provided line range was not used except where this passage explicitly states the brother is bewitched and lacks human form.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l1846-l1937
+  passage_sha256=29c45be50d3e6b922eb3f0e0380474521ace2147de985edbdda0f1362924fe4b
+

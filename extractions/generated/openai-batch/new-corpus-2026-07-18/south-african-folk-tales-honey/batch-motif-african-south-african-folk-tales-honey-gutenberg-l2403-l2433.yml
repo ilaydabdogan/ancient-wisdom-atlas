@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2403-l2433
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: 'THE JUDGMENT OF BABOON / LION AND BABOON / FOOTNOTES: / THE ZEBRA STALLION;
+    lines 2403-2433'
+  start: '2403'
+  end: '2433'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A footnote says that Lion came close upon Baboon while Baboon was doing
+    an unspecified action. In the tale titled "The Zebra Stallion," Baboons disturb
+    Zebra Mares at water. A foal is born and helped to grow by the mares' suckling.
+    As a grown stallion, he brings the mares to water, confronts a Baboon, reveals
+    a milky mouth, and sees gum in the Baboon's mouth. The Baboon licks milk from
+    the Stallion's tongue; the Stallion angrily presses him onto a hot flat rock,
+    explaining the bald place on the Baboon's back. The Baboon laments that the gum-eater
+    has been outdone by the milk-eater.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote states that Lion came close upon Baboon while Baboon did an unspecified
+    action.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Baboons used to disturb the Zebra Mares while the mares were drinking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One Zebra Mare became the mother of a foal, and the other mares helped her
+    suckle him so he might grow up soon.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the Stallion was grown and the mares needed water, he brought them to
+    the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Baboons came into the mares' way and kept them from the water as they
+    had done before.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Stallion stepped forward and addressed one Baboon as a gum-eater's child.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Stallion's opened mouth was milky, while the Baboon's opened mouth contained
+    gum.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The Baboon quickly licked some milk from the Stallion's tongue.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The angry Stallion took the Baboon by the shoulders and pressed him onto a
+    hot flat rock; the passage says that since then the Baboon has a bald place on
+    his back.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Baboon lamented that he, the gum-eater, had been outdone by the milk-eater.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Baboon in footnote
+  description: A Baboon mentioned in the footnote; Lion comes close upon him while
+    he is doing an unspecified action.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lion in footnote
+  description: Lion comes close upon Baboon in the footnote.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Baboons
+  description: A group who disturb Zebra Mares at drinking and block them from water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Zebra Mares
+  description: Mares disturbed while drinking; they include the foal's mother and
+    other mares who help suckle him, and later are blocked from water.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Mother Mare
+  description: One of the Zebra Mares who becomes the mother of the foal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Zebra Stallion
+  description: The foal suckled by the mares, later grown into a stallion who brings
+    them to water, confronts a Baboon, has a milky mouth, and presses the Baboon onto
+    a hot flat rock.
+  role_refs:
+  - role:7
+  - role:8
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Challenged Baboon
+  description: One of the Baboons addressed by the Stallion; his mouth contains gum,
+    he licks milk from the Stallion, is pressed onto the hot rock, and laments being
+    outdone.
+  role_refs:
+  - role:3
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: approached footnote figure
+  assigned_to:
+  - fig:1
+  basis: The footnote says Lion came close upon Baboon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: approaching footnote figure
+  assigned_to:
+  - fig:2
+  basis: The footnote identifies Lion as the one who came close upon Baboon.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: water blockers
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The Baboons disturb the mares at drinking and keep them from water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: blocked drinking herd
+  assigned_to:
+  - fig:4
+  basis: The Zebra Mares are disturbed in drinking and later stand blocked from water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: mother of the foal
+  assigned_to:
+  - fig:5
+  basis: One mare becomes the mother of the foal.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: collective sucklers and nurturers
+  assigned_to:
+  - fig:4
+  basis: The other mares help the mother suckle the young stallion so he may grow
+    up soon.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: water-bringer
+  assigned_to:
+  - fig:6
+  basis: When grown, the Stallion brings the mares to the water.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: challenger and retaliator
+  assigned_to:
+  - fig:6
+  basis: The Stallion steps forward to confront a Baboon and later retaliates when
+    the Baboon licks milk from his tongue.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: gum-eater outdone by milk-eater
+  assigned_to:
+  - fig:7
+  basis: The Baboon has gum in his mouth and laments that he, the gum-eater, is outdone
+    by the milk-eater.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:10
+  label: cause of Baboon's bald place
+  assigned_to:
+  - fig:6
+  basis: The Stallion presses the Baboon onto a hot flat rock, after which the passage
+    explains the Baboon's bald place.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Water
+  literal_form: Water used for drinking and sought by the mares, but blocked by the
+    Baboons.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Milk
+  literal_form: The Stallion's mouth is milky; the Baboon licks milk from his tongue;
+    the Baboon calls him a milk-eater.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Gum
+  literal_form: Gum is in the Baboon's mouth, and the Baboon identifies himself as
+    a gum-eater.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Open mouth test
+  literal_form: The Stallion and the Baboon each open the mouth so the other may see
+    what he lives on.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Hot flat rock
+  literal_form: A hot, flat rock onto which the Stallion presses the Baboon.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Bald place on Baboon's back
+  literal_form: The bald place on the Baboon's back, said to exist since the pressing
+    onto the hot rock.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: 'Footnote fragment: Lion approaches Baboon'
+  summary: A footnote reports that Lion came close upon Baboon while Baboon was doing
+    an unspecified action.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Foal nurtured while Baboons disturb the mares
+  summary: Baboons disturb Zebra Mares at drinking; one mare bears a foal, and the
+    other mares help suckle him so he grows quickly.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Stallion brings mares to water and meets obstruction
+  summary: The grown Stallion leads the mares to water, but the Baboons block their
+    way as before.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mouth inspection and food identities
+  summary: The Stallion addresses one Baboon as a gum-eater's child; each opens his
+    mouth, revealing milk in the Stallion's mouth and gum in the Baboon's mouth.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Milk licking, retaliation, and bald mark
+  summary: The Baboon licks milk from the Stallion's tongue; the angry Stallion presses
+    the Baboon onto a hot flat rock, and the passage explains this as the origin of
+    the Baboon's bald back.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Blocked access to water
+  taxonomy_refs: []
+  basis: The Baboons repeatedly disturb the Zebra Mares' drinking and keep them from
+    the water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific external motif index is supplied in the passage.
+- id: motif:2
+  label: Nursed young grows into protector or provider
+  taxonomy_refs: []
+  basis: The mares suckle the young stallion so he grows quickly; when grown, he brings
+    them to water and confronts the blockers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents protection and provision in animal-tale terms, without
+    naming a broader heroic category.
+- id: motif:3
+  label: Food identity revealed by the mouth
+  taxonomy_refs: []
+  basis: The Stallion and Baboon inspect one another's mouths, revealing milk for
+    the Stallion and gum for the Baboon; the closing speech contrasts gum-eater and
+    milk-eater.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Interpretation is limited to the explicit contrast between substances
+    and speakers.
+- id: motif:4
+  label: Opportunistic taking punished
+  taxonomy_refs: []
+  basis: The Baboon licks milk from the Stallion's tongue and is immediately punished
+    by being pressed onto the hot rock.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Although the action is opportunistic, the passage does not explicitly
+    call the Baboon a trickster.
+- id: motif:5
+  label: Origin of an animal bodily mark
+  taxonomy_refs: []
+  basis: The passage explicitly links the Baboon's bald place on his back to the Stallion
+    pressing him onto the hot flat rock.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No formal taxonomy reference for etiological animal marks is provided
+    in the available taxonomy list.
+comparison_claims:
+- id: claim:1
+  claim: The explanation of the Baboon's bald place functions as an etiological animal-mark
+    tale pattern.
+  claim_level: same_function
+  target: animal-feature origin or etiological animal-mark pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides the etiological function internally but names
+    no external analogue, historical connection, or broader tradition for comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2403-2405
+  quote_or_summary: 'Footnote: Lion came close upon Baboon while Baboon was doing
+    an unspecified action.'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2407-2411
+  quote_or_summary: In "The Zebra Stallion," Baboons disturb Zebra Mares while drinking;
+    one mare bears a foal, and others help suckle him so he grows up quickly.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 2413-2415
+  quote_or_summary: The grown Stallion brings the mares to water when they need it,
+    but Baboons block their way and keep them from the water.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 2417-2421
+  quote_or_summary: The Stallion says, "Thou gum-eater's child!" and opens his mouth;
+    it is milky.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 2423-2428
+  quote_or_summary: The Baboon opens his mouth with gum in it, licks milk from the
+    Stallion's tongue, and is pressed by the Stallion onto a hot flat rock; since
+    then the Baboon has a bald place on his back.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: 2430-2431
+  quote_or_summary: The Baboon laments that he, "the gum-eater," is "outdone by this
+    milk-eater."
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The Zebra Stallion narrative is clear and internally etiological. The opening
+    footnote belongs to adjacent material and is treated only as a fragment. Comparison
+    is limited to functional pattern recognition from the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage combines a brief footnote fragment with the separate tale "The Zebra Stallion"; figures from the footnote are not merged with figures in the tale.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2403-l2433
+  passage_sha256=6f385b4d1e0f44da3e330dc20287281bf6b5c92859c78a3dbff09011c3813b28
+

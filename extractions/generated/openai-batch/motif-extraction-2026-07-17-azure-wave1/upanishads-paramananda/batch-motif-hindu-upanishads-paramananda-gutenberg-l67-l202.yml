@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l67-l202
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: The Upanishads; lines 67-202
+  start: '67'
+  end: '202'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Introductory material describes the Upanishads as the wisdom portion of
+    the Vedas, explains the name as teacher-centered sacred instruction or destruction
+    of ignorance, imagines seekers approaching a seer in a secluded Himalayan forest,
+    and characterizes the teachings as forest-based, dialogic, oral, and regarded
+    as divine revelation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Upanishads are described as the wisdom portion or Gnana-Kanda of the Vedas,
+    contrasted with the sacrificial or Karma-Kanda portion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ritual and ceremonial portions of the Vedas are said to prepare man for
+    higher attainment through right action.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Upanishad portion is said to deal with philosophic discrimination and
+    ultimate spiritual vision and to be known as Vedanta, the final goal of wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The name Upanishad is interpreted in the passage either as sitting at the
+    feet or in the presence of a teacher, or as shattering or destroying the fetters
+    of ignorance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage depicts aspiring seekers approaching a wise Seer in the seclusion
+    of a Himalayan forest to learn profound truths about the cosmic universe and God.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The teachings are said to have usually been given in the stillness of distant
+    retreats and are therefore also known as Aranyakas or Forest Books.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Vanaprasthas are described as people who, after fulfilling worldly duties,
+    retired to the forest for spiritual study.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The teaching form is described as dialogue, and instruction is said to have
+    been transmitted orally.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Upanishads are called Srutis, meaning what is heard, and are also described
+    as revealed or regarded as direct revelations of God.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says that no author or recorder is mentioned anywhere in the Upanishads.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage says the teaching probably existed before it was set down in written
+    form and that teachers sometimes quote earlier scriptures now unknown.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: aspiring seekers
+  description: Seekers who approach a wise Seer in a secluded Himalayan forest to
+    learn profound truths.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: wise Seer or teacher
+  description: A teacher or Seer in whose presence seekers sit or whom seekers approach
+    for instruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Vanaprasthas
+  description: People who have fulfilled worldly duties and retired to the forest
+    for spiritual study.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: God
+  description: God is named as a subject of profound truths and as the source with
+    which the Upanishads are associated when regarded as direct revelations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: spiritual learner or seeker
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes seekers approaching a Seer for profound truths and
+    Vanaprasthas retiring to the forest for spiritual study.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: seer-teacher
+  assigned_to:
+  - fig:2
+  basis: The passage interprets Upanishad as sitting at the feet or in the presence
+    of a teacher and imagines seekers approaching a wise Seer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: forest retiree devoted to study
+  assigned_to:
+  - fig:3
+  basis: Vanaprasthas are defined as those who retire to the forest after worldly
+    duties to devote themselves to spiritual study.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: divine source or object of sacred knowledge
+  assigned_to:
+  - fig:4
+  basis: The passage names God as an object of truths learned by seekers and says
+    the Upanishads were regarded as direct revelations of God.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: secluded forest retreat
+  literal_form: Himalayan forest, distant retreat, Forest Books
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: sitting at the teacher's feet
+  literal_form: sitting at the feet or in the presence of a teacher
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fetters of ignorance
+  literal_form: fetters of ignorance to be shattered or destroyed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: heard revelation
+  literal_form: oral instruction; Sruti, what is heard; direct revelations of God
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Seekers approach the forest seer
+  summary: The passage imagines seekers approaching a wise Seer in a secluded Himalayan
+    forest to learn profound truths about the cosmos and God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Forest retirement for spiritual study
+  summary: Vanaprasthas, having completed worldly duties, are described as retiring
+    to the forest to devote themselves to spiritual study.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Dialogic oral transmission
+  summary: The teaching is described as taking the form of dialogue, being transmitted
+    orally, and being known as Sruti, or what is heard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Revealed scripture without named human author
+  summary: The Upanishads are described as revealed or direct revelations of God,
+    while the passage also notes that no author or recorder is named.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom as final spiritual goal
+  taxonomy_refs:
+  - wisdom
+  basis: The passage identifies the Upanishads as the wisdom portion of the Vedas
+    and as Vedanta, the final goal of wisdom, concerned with ultimate spiritual vision.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an introductory doctrinal characterization, not a mythic narrative
+    episode.
+- id: motif:2
+  label: Seeker approaches seer for sacred knowledge
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: The passage interprets the name Upanishad through sitting near a teacher
+    and depicts seekers approaching a wise Seer to learn profound truths.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No formal initiation rite is narrated; the motif is inferred from the
+    pedagogical image supplied by the passage.
+- id: motif:3
+  label: Retirement to forest for spiritual study
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The passage says teachings were given in distant retreats and that Vanaprasthas
+    retired to the forest to devote themselves to spiritual study.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The departure is an ascetic or educational setting rather than an adventure
+    narrative.
+- id: motif:4
+  label: Destruction of ignorance through sacred teaching
+  taxonomy_refs:
+  - wisdom
+  basis: One interpretation of Upanishad given in the passage is to shatter or destroy
+    the fetters of ignorance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as an etymological interpretation of the title,
+    not as an enacted scene.
+- id: motif:5
+  label: Oral divine revelation
+  taxonomy_refs:
+  - wisdom
+  basis: The Upanishads are described as Srutis, what is heard, transmitted orally,
+    and regarded as direct revelations of God without named human author or recorder.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage reports scriptural status and transmission mode; it does not
+    narrate a specific revelatory event.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Upanishadic teaching form of dialogue
+    with a form later used by Plato and other Greek philosophers.
+  claim_level: same_function
+  target: Greek philosophical dialogue associated with Plato and other Greek philosophers
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a formal and pedagogical comparison stated by the passage;
+    it does not provide a specific shared mythic motif or independent evidence for
+    historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 67-202; Introduction paragraph beginning 'The Upanishads represent...'
+  quote_or_summary: The Upanishads are described as the wisdom portion of the Vedas,
+    contrasted with the sacrificial portion; the ritual portion prepares man for higher
+    attainment, while the Upanishads concern philosophic discrimination, ultimate
+    spiritual vision, and Vedanta as the final goal of wisdom.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain Project Gutenberg text; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 67-202; Introduction paragraph beginning 'The name Upanishad...'
+  quote_or_summary: The name Upanishad is interpreted as sitting at the feet or in
+    the presence of a teacher, and also as shattering or destroying the fetters of
+    ignorance.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain Project Gutenberg text; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 67-202; Introduction paragraph on the name Upanishad and seekers
+    approaching a Seer
+  quote_or_summary: The passage says the name gives a picture of aspiring seekers
+    approaching a wise Seer in the seclusion of a Himalayan forest to learn profound
+    truths regarding the cosmic universe and God.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain Project Gutenberg text; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 67-202; Introduction paragraph on Aranyakas and Vanaprasthas
+  quote_or_summary: The teachings are said to have usually been given in the stillness
+    of distant retreats and therefore called Aranyakas or Forest Books; the name is
+    also linked to Vanaprasthas, who retired to the forest for spiritual study.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain Project Gutenberg text; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 67-202; Introduction paragraph beginning 'The form which the teaching
+    naturally assumed...'
+  quote_or_summary: The teaching is described as naturally taking the form of dialogue,
+    a form later adopted by Plato and other Greek philosophers; instruction was transmitted
+    orally, so the Upanishads are called Srutis, 'what is heard,' and regarded as
+    direct revelations of God, with no author or recorder mentioned.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain Project Gutenberg text; short summary with brief quoted
+    term.
+- id: ev:6
+  type: summary
+  locator: lines 67-202; Introduction final paragraph on antiquity and oral teaching
+  quote_or_summary: The passage says no date can be fixed for the Upanishads, that
+    the teaching probably existed before written form, and that teachers in dialogues
+    sometimes quote earlier scriptures now unknown.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain Project Gutenberg text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is introductory prose rather than a mythic narrative. Literal
+    details are clear, but motif labels such as initiation, departure, and mystical
+    quest are candidate classifications requiring human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided available motif families; no symbol taxonomy reference was assigned because the available symbol list does not directly include forest, teacher's feet, fetters, or hearing.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l67-l202
+  passage_sha256=e9aef47ad0c716a7d261962c8b98684373fa2de4d076acacf97f144c924d74f9
+

@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l21218-l21240
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: COMMAND I. / COMMAND II. / COMMAND III. / COMMAND IV.; lines 21218-21240
+  start: '21218'
+  end: '21240'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A questioner asks whether a surviving spouse sins by marrying again. The
+    answer says remarriage is not sin, while remaining single brings great honor before
+    the Lord. The speaker commands chastity, modesty, and observance of his commandments,
+    promising forgiveness of former sins to the addressee and to all others who keep
+    them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator asks whether a husband or wife who survives a spouse and marries
+    again sins by doing so.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The answer states that the person who marries again does not sin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The answer states that remaining single brings great honor before the Lord.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker commands the addressee to keep chastity and modesty and to live
+    unto God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker tells the addressee to observe the things he speaks and commands
+    from the time he was delivered to the addressee and dwells in the addressee's
+    house.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker says the addressee's former sins will be forgiven if the commandments
+    are kept.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker says all others who observe the commandments will likewise be
+    forgiven.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Questioner and addressee
+  description: The first-person speaker asks about remarriage after a spouse's death
+    and is addressed with commands to observe chastity, modesty, and commandments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Commanding speaker
+  description: The answering figure says remarriage is not sin, commands chastity
+    and observance, and says he has been delivered to the addressee and dwells in
+    the addressee's house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hypothetical surviving spouse
+  description: A husband or wife whose spouse dies and who may marry again in the
+    question posed by the narrator.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Lord / God
+  description: Named as the Lord before whom honor is gained and as God unto whom
+    the addressee is told to live.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: Questioner and recipient of commands
+  assigned_to:
+  - fig:1
+  basis: This figure asks the remarriage question and is addressed by the speaker's
+    commandments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Moral instructor and command-giver
+  assigned_to:
+  - fig:2
+  basis: This figure answers the question, issues commands, and describes forgiveness
+    as conditional on keeping the commandments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Hypothetical surviving spouse
+  assigned_to:
+  - fig:3
+  basis: The question concerns a husband or wife who survives a spouse and marries
+    again.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Divine authority
+  assigned_to:
+  - fig:4
+  basis: The Lord/God is the one before whom honor is gained and unto whom the addressee
+    is told to live.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Question about remarriage after a spouse's death
+  summary: The questioner asks whether a surviving husband or wife sins by remarrying;
+    the speaker answers that remarriage is not sin but singleness brings honor before
+    the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Command to keep chastity and observe instruction
+  summary: The speaker commands the addressee to keep chastity and modesty, live unto
+    God, and observe the things spoken and commanded.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Conditional forgiveness through observance
+  summary: The speaker says the addressee's former sins, and the sins of others, will
+    be forgiven if the commandments are observed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Singleness or chastity bringing divine honor
+  taxonomy_refs: []
+  basis: The passage says remarriage after a spouse's death is not sin, but remaining
+    single brings great honor before the Lord, followed by a command to keep chastity
+    and modesty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is presented as moral instruction rather than as a narrative episode.
+- id: motif:2
+  label: Obedience to commandments as condition for forgiveness
+  taxonomy_refs:
+  - covenant
+  basis: Forgiveness of former sins is promised if the addressee keeps the commandments,
+    and the same condition is extended to others.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a conditional command-and-forgiveness pattern, but it
+    does not describe a formal covenant ritual.
+- id: motif:3
+  label: Revealed moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: A commanding speaker answers an ethical question and gives rules about remarriage,
+    chastity, modesty, and commandment observance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link is broad; the passage is commandment instruction, not
+    a wisdom contest or proverb collection.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21218-21225
+  quote_or_summary: The narrator asks whether a surviving spouse sins by remarrying;
+    the answer says the one who marries does not sin, while remaining single gains
+    great honor before the Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 21226-21234
+  quote_or_summary: The speaker commands the addressee to keep chastity and modesty,
+    live unto God, and observe what the speaker commands from the time he was delivered
+    to the addressee and dwells in the addressee's house.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 21235-21240
+  quote_or_summary: The speaker says the addressee's former sins, and likewise those
+    of all others, will be forgiven if the commandments are kept.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are broad because
+    the passage is doctrinal instruction rather than mythic narrative. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No provided symbol taxonomy items are literally present in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l21218-l21240
+  passage_sha256=8c6d6df7e9147f726e2e8c7515a815ac72b0697015e443434e05a1a41d7cf349
+

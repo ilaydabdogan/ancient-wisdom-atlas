@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l13088-l13144
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: HERE FOLLOWETH ILIACH'S CLUMP-FIGHT / HERE NOW THE DEER-STALKING OF AMARGIN
+    IN TALTIU / THE ADVENTURES OF CUROI SON OF DARE FOLLOW NOW / THE REPEATED WARNING
+    OF SUALTAIM; lines 13088-13144
+  start: '13088'
+  end: '13144'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"Men are slain, women stolen, cattle lifted, ye men of Ulster!"'
+  summary: Sualtaim leaves the men of Ulster angry, rides toward Emain, and dies when
+    his own shield cuts off his head. His horse returns to Emain carrying the shield
+    and the head, and the head repeats a warning about slain men, stolen women, and
+    lifted cattle. Conchobar answers with a vow to restore the women and cattle unless
+    cosmic disasters overturn the world, then summons Findchad to muster the men of
+    Ulster.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sualtaim departs indignant and angry because he has not received an answer
+    from the men of Ulster that served him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Liath, called the Roan of Macha, rears under Sualtaim and dashes to the ramparts
+    of Emain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sualtaim falls under his own shield, and the scalloped edge of the shield
+    severs his head.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A variant explanation says Sualtaim was asleep on a stone and fell onto his
+    shield when he awoke.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The horse returns to Emain with the shield on the horse and Sualtaim's head
+    on the shield.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sualtaim's head speaks the warning that men are slain, women stolen, and cattle
+    lifted.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Conchobar replies that the cry is too great while the sky remains above, the
+    earth underneath, and the sea around them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: 'Conchobar names possible cosmic disasters: falling heavens with showers of
+    stars, the ground bursting in quakes, and the ocean breaking over the brow of
+    the earth.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Conchobar vows to restore every cow and woman to her proper place with victory
+    in battle, contest, and combat.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Conchobar summons Findchad Ferbenduma, a runner of his body-guard and son
+    of Fraech Lethan, and commands him to assemble and muster the men of Ulster.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: In the drunkenness of sleep and of his Pains, Conchobar enumerates the quick
+    and the dead and tells Findchad to proclaim the message to the chiefs of Ulster.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sualtaim
+  description: A man who leaves the men of Ulster angry, is decapitated by his own
+    shield, and whose head speaks a warning after death.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Liath, the Roan of Macha
+  description: Sualtaim's horse, which rears and dashes to Emain, then returns carrying
+    the shield and head.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Conchobar
+  description: The speaker who answers Sualtaim's head, vows restoration of the cows
+    and women, and summons Findchad to muster Ulster.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Findchad Ferbenduma
+  description: A runner of Conchobar's body-guard, son of Fraech Lethan, ordered to
+    assemble and muster the men of Ulster.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Men of Ulster
+  description: A collective group from whom Sualtaim did not receive a useful answer
+    and whom Conchobar orders to be assembled and mustered.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:6
+  name_or_label: Women
+  description: A collective group described in the warning as stolen and in Conchobar's
+    vow as to be restored.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: failed living messenger
+  assigned_to:
+  - fig:1
+  basis: Sualtaim departs angry after not receiving the answer he sought, then dies
+    before his warning is delivered normally.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: posthumous warner
+  assigned_to:
+  - fig:1
+  basis: After Sualtaim is decapitated, his head speaks the warning about slain men,
+    stolen women, and lifted cattle.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: returning bearer
+  assigned_to:
+  - fig:2
+  basis: The horse returns to Emain bearing the shield and Sualtaim's head.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: vow-maker and commander
+  assigned_to:
+  - fig:3
+  basis: Conchobar responds to the head's cry, vows restoration, and orders the muster
+    of Ulster.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: summoned runner
+  assigned_to:
+  - fig:4
+  basis: Findchad is summoned as a runner of Conchobar's body-guard and sent to assemble
+    and proclaim to Ulster.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: mustered host
+  assigned_to:
+  - fig:5
+  basis: Conchobar orders the men of Ulster to be assembled and mustered.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: captives to be restored
+  assigned_to:
+  - fig:6
+  basis: The women are said to be stolen, and Conchobar vows to restore each woman
+    to her dwelling-place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: scalloped shield
+  literal_form: Sualtaim's own shield, whose scalloped edge severs his head and later
+    carries the head on the horse.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: speaking severed head
+  literal_form: Sualtaim's head placed on the shield and uttering the warning to the
+    men of Ulster.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cosmic frame of sky, earth, and sea
+  literal_form: The sky above, earth underneath, and sea round about, invoked by Conchobar
+    when answering the warning.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cosmic disasters
+  literal_form: Heavens falling with showers of stars, ground bursting in quakes,
+    and ocean breaking over the earth.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lifted cattle and cows
+  literal_form: Cattle described as lifted, and cows that Conchobar vows to restore
+    to byre, stall, abode, and dwelling-place.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sualtaim's death at Emain
+  summary: Sualtaim departs angrily, Liath rears and runs to the ramparts of Emain,
+    and Sualtaim is decapitated by his own shield, with a variant account of falling
+    from a stone onto the shield.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The horse returns with the speaking head
+  summary: Liath returns to Emain with the shield and Sualtaim's head; the head announces
+    that men are slain, women stolen, and cattle lifted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Conchobar's cosmic vow
+  summary: Conchobar answers the warning by invoking the ordered world of sky, earth,
+    and sea, naming cosmic disasters as the only conditions that would prevent him
+    from restoring the stolen women and cattle.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Muster order to Findchad
+  summary: Conchobar summons Findchad Ferbenduma and orders him to assemble and muster
+    the men of Ulster, giving him words to proclaim to the chiefs.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: speaking severed head delivers warning
+  taxonomy_refs: []
+  basis: Sualtaim's severed head is carried back on a shield and speaks the warning
+    that men are slain, women stolen, and cattle lifted.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the speaking head directly, but no external comparison
+    is asserted here.
+- id: motif:2
+  label: death by one's own shield
+  taxonomy_refs: []
+  basis: Sualtaim falls under his own shield and its scalloped edge severs his head;
+    a variant also has him falling onto the shield from a stone.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local death episode; broader motif classification would require
+    comparison beyond the passage.
+- id: motif:3
+  label: returning horse bears death-token
+  taxonomy_refs: []
+  basis: The horse returns to Emain bearing the shield and the severed head of Sualtaim.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the horse's return and burden literally; symbolic
+    meaning is not stated.
+- id: motif:4
+  label: cosmic catastrophe oath
+  taxonomy_refs:
+  - chaos
+  basis: Conchobar frames his vow by saying he will restore the women and cattle unless
+    heavens fall, earth quakes, or ocean overwhelms the earth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to chaos is supported by images of disrupted cosmic
+    order, but the passage does not name a formal motif family.
+- id: motif:5
+  label: muster after supernatural or posthumous warning
+  taxonomy_refs: []
+  basis: After the severed head's warning, Conchobar summons a runner to assemble
+    and muster the men of Ulster.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The warning is posthumous in the passage; whether it is supernatural in
+    a wider classificatory sense is not further explained here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13088-13099
+  quote_or_summary: Sualtaim leaves angrily; Liath rears and dashes to Emain; Sualtaim
+    falls under his own shield, whose scalloped edge severs his head; a variant says
+    he fell from a stone onto the shield on waking.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 13105-13107
+  quote_or_summary: The horse returns to Emain with the shield and head; Sualtaim's
+    head says, "Men are slain, women stolen, cattle lifted, ye men of Ulster!"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 13109-13122
+  quote_or_summary: Conchobar answers that the cry is too great while sky, earth,
+    and sea remain; unless heavens fall, earth quakes, or ocean overwhelms the earth,
+    he will restore each cow and woman with victory.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 13125-13142
+  quote_or_summary: Conchobar summons Findchad Ferbenduma, a runner of his body-guard,
+    orders him to assemble the men of Ulster, and in sleep and Pains gives words instructing
+    him to proclaim to the chiefs.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: citation
+  locator: line 13144
+  quote_or_summary: The passage closes with the heading, "The Order of the men of
+    Ulster."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are descriptive
+    and passage-level; no external comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote manuscript markers and variant readings were treated as part of the supplied passage but not expanded beyond the given text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l13088-l13144
+  passage_sha256=e92c9a5c6b4f0e1d71769627127efc9861348967ec2e9c80fb135a8d22dcc83b
+

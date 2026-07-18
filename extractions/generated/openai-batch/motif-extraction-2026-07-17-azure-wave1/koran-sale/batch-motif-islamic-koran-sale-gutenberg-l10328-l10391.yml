@@ -1,0 +1,597 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l10328-l10391
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 10328-10391
+  start: '10328'
+  end: '10391'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives instructions on prayer, widow and divorce provision,
+    divine signs, a story of people who fled death and were restored to life by God,
+    commands to fight for God's religion and lend to God, and an account of the children
+    of Israel requesting a king and receiving Talt/Saul by divine choice despite objections.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressees are told to observe appointed prayers, including the middle
+    prayer, and to pray even under danger, whether on foot or horseback.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men who die leaving wives are instructed to bequeath a year's maintenance
+    without expelling the wives from their houses; divorced women are also said to
+    be due a reasonable provision.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says God declares signs so that the addressees may understand.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A group described as thousands left their habitations for fear of death; God
+    said to them to die and then restored them to life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The addressees are commanded to fight for the religion of God and are invited
+    to lend to God on good usury, with the promise that God will multiply the return.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An assembly of the children of Israel after Moses asked their prophet Samuel
+    to set a king over them so they could fight for God's religion.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When war was enjoined, most of the assembly turned back except a few.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Samuel announced that God had set Talt as king; the people objected that they
+    were worthier and that he lacked great riches.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Samuel answered that God had chosen Talt, increased him in knowledge and stature,
+    and gives kingdom to whom he pleases.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A footnote reports a commentator tradition in which the dead Israelites' bodies
+    were corrupted, Ezekiel was told to call them, and they arose and lived afterward.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity addressed and described as teaching, declaring signs, causing
+    death and restoration to life, commanding religious duty, multiplying a loan,
+    and choosing a king.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: Addressees / believers
+  description: The audience instructed to pray, observe provisions, understand signs,
+    fight for God's religion, and lend to God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Wives of deceased men
+  description: Women for whom a year's maintenance is prescribed without being put
+    out of their houses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Divorced women
+  description: Women for whom a reasonable provision is said to be due.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Thousands who fled death
+  description: People who left their habitations for fear of death and were told by
+    God to die, then restored to life.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ezekiel
+  description: In the footnote tradition, the prophet who sees the bones, weeps, is
+    told by God to call to them, and is associated with their restoration to life.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: Assembly of the children of Israel
+  description: A group after the time of Moses who ask Samuel for a king, state that
+    they have been dispossessed and deprived of children, and mostly turn back when
+    war is commanded.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Samuel
+  description: The prophet addressed by the children of Israel and the one who announces
+    Talt's kingship and explains God's choice.
+  role_refs:
+  - role:8
+  - role:11
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Talt / Saul
+  description: The man whom God is said to have set as king over the children of Israel,
+    increased in knowledge and stature, and whom a footnote identifies with Saul.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:12
+roles:
+- id: role:1
+  label: divine teacher
+  assigned_to:
+  - fig:1
+  basis: God is said to have taught the addressees what they did not know.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: life-restorer
+  assigned_to:
+  - fig:1
+  basis: God tells the fleeing thousands to die and then restores them to life.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recipient and multiplier of sacred loan
+  assigned_to:
+  - fig:1
+  basis: The passage asks who will lend to God and says God will double it manifold.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: kingmaker
+  assigned_to:
+  - fig:1
+  basis: Samuel says God has set Talt as king and gives kingdom to whom he pleases.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: religious and legal addressees
+  assigned_to:
+  - fig:2
+  basis: The audience receives instructions about prayer, provisions, fighting, and
+    lending to God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:6
+  label: provision recipients
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage prescribes maintenance or reasonable provision for these women.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: death-fleeing restored group
+  assigned_to:
+  - fig:5
+  basis: They leave habitations for fear of death, die by God's command, and are restored
+    to life.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: prophet
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: Ezekiel is called a prophet in the footnote, and Samuel is named as the prophet
+    addressed by the Israelite assembly.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:9
+  label: petitioners for a king
+  assigned_to:
+  - fig:7
+  basis: They ask Samuel to set a king over them.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: reluctant warriors
+  assigned_to:
+  - fig:7
+  basis: After war is enjoined, they turn back except for a few.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: announcer of divine appointment
+  assigned_to:
+  - fig:8
+  basis: Samuel announces that God has set Talt as king and explains the basis of
+    the appointment.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:12
+  label: divinely chosen king
+  assigned_to:
+  - fig:9
+  basis: Talt is named as king by God's appointment and described as chosen and increased
+    in knowledge and stature.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: appointed prayer
+  literal_form: Appointed prayers, including the middle prayer, performed with devotion
+    and even under danger.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: good loan to God
+  literal_form: A loan to God on good usury that God will double manifold.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: restored dead multitude
+  literal_form: Thousands who die by divine command and are restored to life.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: divine kingship
+  literal_form: A king set over the people by God's choice rather than by wealth or
+    the people's stated preference.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: bones of the restored dead
+  literal_form: In the footnote tradition, Ezekiel sees the bones of the dead before
+    their restoration.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Prayer and household provisions
+  summary: The addressees are instructed to keep prayer, pray under danger, remember
+    what God has taught, and provide maintenance for widows and divorced women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Death and restoration of the fleeing multitude
+  summary: A multitude leaves its dwellings from fear of death; God commands death
+    and then restores the group to life.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Sacred loan and return to God
+  summary: The addressees are called to fight for God's religion and to lend to God,
+    with a promised multiplied return and a reminder that they return to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Israelite request for a king
+  summary: The children of Israel ask Samuel to appoint a king for religious war;
+    despite their stated reasons, most turn back when war is commanded.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Appointment of Talt
+  summary: Samuel says God has set Talt as king; the people object, but Samuel says
+    God chose him, increased him in knowledge and stature, and grants kingdom as he
+    pleases.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Footnote resurrection tradition
+  summary: The footnote recounts a commentator tradition in which the dead Israelites
+    become bones, Ezekiel is instructed to call them, and they arise and live afterward.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Mass death followed by divine restoration to life
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage states that thousands fleeing death were told by God to die and
+    were then restored to life.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The canonical excerpt gives few details about the group's identity or
+    the mechanism of restoration; added details come from the footnote tradition.
+- id: motif:2
+  label: Prophetic calling of the dead to life
+  taxonomy_refs:
+  - resurrection
+  basis: The footnote tradition says Ezekiel is told to call the dead and that they
+    arise and live afterward.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: This is from Sale's footnote/commentator report rather than the main translated
+    verse.
+- id: motif:3
+  label: Sacred exchange with multiplied divine return
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage asks who will lend to God on good usury and says God will double
+    it manifold.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage frames the exchange in devotional and religious terms; no
+    ritual object is specified.
+- id: motif:4
+  label: Divinely legitimated kingship over objections
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Samuel says God has set Talt as king, chosen him, increased him in knowledge
+    and stature, and gives kingdom to whom he pleases despite the people's objections.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage emphasizes divine choice; it does not narrate Talt's later
+    reign in this excerpt.
+- id: motif:5
+  label: Reluctant warriors after requesting a leader
+  taxonomy_refs:
+  - departure
+  basis: The Israelite assembly requests a king to fight for God's religion but turns
+    back when war is enjoined, except for a few.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy has no exact category for failed martial commitment;
+    the departure reference is approximate and should be reviewed.
+- id: motif:6
+  label: Chosen ruler marked by knowledge and stature
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: Talt's divine selection is justified by an increase in knowledge and stature
+    rather than wealth.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage states attributes but does not develop a separate wisdom tale.
+comparison_claims:
+- id: claim:1
+  claim: Sale's footnote explicitly compares the story of the dead Israelites restored
+    to life with Ezekiel's vision of the resurrection of dry bones.
+  claim_level: same_motif
+  target: Ezekiel 37:1-10 dry bones resurrection vision
+  evidence_refs:
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is supplied by the translator/editorial note and not
+    by the translated Qur'anic verse alone.
+- id: claim:2
+  claim: Sale's note identifies Talt as the Muslim name for Saul, linking the king-appointment
+    scene to an Israelite/Samuel royal tradition.
+  claim_level: same_function
+  target: Saul in the Israelite Samuel royal-selection tradition
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself gives the Samuel and Talt narrative, while the Saul
+    identification is provided only in the note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10328-10332
+  quote_or_summary: The passage commands careful observance of appointed prayers and
+    the middle prayer, with prayer under danger on foot or horseback, and remembrance
+    of what God taught.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10333-10340
+  quote_or_summary: The passage prescribes a year's maintenance for wives left by
+    deceased men, without expelling them, and reasonable provision for divorced women.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 10341-10342
+  quote_or_summary: '"Thus GOD declareth his signs unto you, that ye may understand."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 10343-10347
+  quote_or_summary: Thousands leave their habitations for fear of death; God says
+    to them, 'Die,' and then restores them to life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized with brief embedded wording.
+- id: ev:5
+  type: summary
+  locator: lines 10348-10352
+  quote_or_summary: The passage commands fighting for God's religion, asks who will
+    lend to God on good usury, promises manifold doubling, and says all return to
+    God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10353-10359
+  quote_or_summary: After Moses, an assembly of the children of Israel asks their
+    prophet Samuel to set a king over them so they may fight for God's religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10359-10363
+  quote_or_summary: The assembly says it has been dispossessed and deprived of children,
+    but when war is enjoined, most turn back except a few.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 10364-10368
+  quote_or_summary: Samuel says God has set Talt as king; the people object that they
+    are worthier of the kingdom and that Talt lacks great riches.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 10368-10371
+  quote_or_summary: Samuel answers that God has chosen Talt, increased him in knowledge
+    and stature, and gives kingdom to whom he pleases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 10378-10386
+  quote_or_summary: The footnote says commentators identify the fleeing group as Israelites;
+    God struck them dead, their bodies corrupted, Ezekiel saw their bones, was told
+    to call them, and they arose and lived afterward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 10386-10387
+  quote_or_summary: '"This story seems to have been taken from Ezekiel''s vision of
+    the resurrection of dry bones."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:12
+  type: quote
+  locator: line 10391
+  quote_or_summary: '"So the Mohammedans name Saul."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main narrative extraction is straightforward. Some motif labels, especially
+    reluctant warriors and prophetic calling of the dead, rely on brief passage detail
+    or footnote/commentator material and need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to the provided motif-family list; no available symbol taxonomy entries were directly applicable.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l10328-l10391
+  passage_sha256=009beb22cded512193fe0ca2fd478a892022d2a6fb1898984965d2ed63e65831
+

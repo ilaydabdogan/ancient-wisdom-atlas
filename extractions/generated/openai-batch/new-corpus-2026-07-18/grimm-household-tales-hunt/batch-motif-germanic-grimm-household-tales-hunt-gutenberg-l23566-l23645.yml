@@ -1,0 +1,610 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l23566-l23645
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 23566-23645
+  start: '23566'
+  end: '23645'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young drummer finds white linen by a lake and later learns it is the
+    dress of a king's daughter held by a witch on the glass-mountain. After returning
+    the dress, he undertakes to reach the glass-mountain through a forest of man-eaters.
+    He tricks giants by claiming a hidden army follows him, gains transport from three
+    giants, and reaches the foot of the smooth glass-mountain, where he cannot climb.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young drummer goes alone into the country at evening and reaches a lake
+    where three pieces of white linen lie on the shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The drummer takes one piece of the white linen and puts it in his pocket.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At night a soft voice calls to the drummer and asks for the dress he took
+    by the lake.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The voice identifies herself as the daughter of a mighty king, in the power
+    of a witch and shut up on the glass-mountain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The king's daughter says she bathes in the lake daily with two sisters and
+    cannot fly back without her dress.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The drummer returns the dress to the king's daughter in the dark, and she
+    flies away.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king's daughter says help would require ascending the glass-mountain and
+    freeing her from the witch.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The road to the glass-mountain passes through a great forest where man-eaters
+    live.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The drummer enters the forest at daybreak with his drum and beats it loudly.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A giant as tall as a fir-tree wakes and confronts the drummer.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The drummer tells the giant that many thousands are following him to destroy
+    the giant and cleanse the forest.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The giant believes the drummer's account may be dangerous and agrees to carry
+    him to the glass-mountain.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: A second giant takes the drummer from the first and places him in a button-hole;
+    a third giant later sets him on the rim of his hat.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The giants bring the drummer to the foot of the glass-mountain, but the final
+    giant refuses to place him on the summit.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:15
+  text: The glass-mountain is extremely high and smooth like a looking-glass, and
+    the drummer repeatedly slips back when he tries to climb it.
+  category: setting
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: young drummer
+  description: A young drummer who finds the linen, returns the dress, enters the
+    forest, deceives the giant, and reaches the glass-mountain.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: king's daughter
+  description: A daughter of a mighty king whose dress is taken; she is held by a
+    witch on the glass-mountain and can fly when she has her dress.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: two sisters of the king's daughter
+  description: Two sisters who bathe with the king's daughter in the lake and have
+    gone away before she recovers her dress.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: witch
+  description: The figure in whose power the king's daughter has fallen.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: first giant
+  description: A giant in the forest, as tall as a fir-tree, who carries the drummer
+    toward the glass-mountain after being deceived.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: second giant
+  description: A giant who takes the drummer from the first giant and carries him
+    in a button-hole.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: third giant
+  description: A giant who carries the drummer on the rim of his hat to the foot of
+    the glass-mountain and then returns to the forest.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: man-eaters
+  description: Beings said to live in the great forest on the road to the glass-mountain.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: finder and taker of garment
+  assigned_to:
+  - fig:1
+  basis: The drummer finds white linen by the lake and puts one piece in his pocket.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questing helper
+  assigned_to:
+  - fig:1
+  basis: The drummer offers to help the king's daughter and sets out toward the glass-mountain.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: deceiver of giant
+  assigned_to:
+  - fig:1
+  basis: He tells the giant that many thousands follow him with steel hammers, causing
+    the giant to cooperate.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: captive royal woman
+  assigned_to:
+  - fig:2
+  basis: She says she is a king's daughter, in a witch's power and shut up on the
+    glass-mountain.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: winged or flying figure dependent on dress
+  assigned_to:
+  - fig:2
+  basis: She says she cannot fly back without her dress, and after the dress is returned
+    her wings are heard as she flies away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: captor or hostile magic-holder
+  assigned_to:
+  - fig:4
+  basis: The king's daughter says she has fallen into the witch's power and must be
+    freed from it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: forest threat
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The road is said to pass through a forest of man-eaters, and the awakened
+    giant threatens violence.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: giant transporter
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The giants successively carry the drummer toward the glass-mountain.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: lake
+  literal_form: lake
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: white linen or dress
+  literal_form: three pieces of white linen; one piece later called a dress
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: glass-mountain
+  literal_form: glass-mountain, high and smooth like a looking-glass
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+  - ev:10
+- id: sym:4
+  label: great forest
+  literal_form: great forest in which man-eaters live
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: drum
+  literal_form: drum beaten by the drummer in the forest
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:6
+  label: wings
+  literal_form: wings heard quivering as the king's daughter flies away
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: linen found by the lake
+  summary: The drummer goes to a lake at evening, sees three pieces of white linen,
+    and takes one.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: night visit and request for the dress
+  summary: A soft voice wakes the drummer and asks him to return the dress taken from
+    the lake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: captive king's daughter explains her condition
+  summary: The voice says she is a king's daughter held by a witch on the glass-mountain,
+    that she bathes with two sisters, and that she cannot fly back without the dress.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: dress returned and quest proposed
+  summary: The drummer returns the dress; the king's daughter says that helping her
+    requires reaching the glass-mountain and freeing her from the witch, and she flies
+    away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: forest encounter with the first giant
+  summary: The drummer enters the great forest, beats his drum, wakes a giant, and
+    persuades him through a false claim about hidden followers.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: transport by giants to the mountain
+  summary: Three giants successively carry the drummer until he reaches the foot of
+    the glass-mountain.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: failed ascent of the glass-mountain
+  summary: The drummer stands before the high, smooth glass-mountain and cannot climb
+    it because he slips back.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: stolen or withheld flying garment
+  taxonomy_refs:
+  - sacred_theft
+  basis: The drummer takes the white linen that the king's daughter calls her dress;
+    she says she cannot fly back without it, and flies away after it is returned.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy does not include a specific swan-maiden or feather-garment
+    motif; the theft label is approximate and should be reviewed.
+- id: motif:2
+  label: captive royal woman on inaccessible mountain
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The king's daughter is held by a witch on the glass-mountain, and the drummer
+    undertakes to help free her.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage establishes captivity and rescue intent, but the broader relationship
+    between rescuer and captive is not yet developed in this excerpt.
+- id: motif:3
+  label: ascent of the glass-mountain
+  taxonomy_refs:
+  - ascent
+  - mountain
+  basis: The required help depends on ascending the glass-mountain; the drummer reaches
+    it but cannot climb its smooth surface.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This excerpt ends before any successful ascent occurs.
+- id: motif:4
+  label: trickster obtains transport from giant
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The drummer deceives the giant with a claim about many armed followers, causing
+    the giant to carry him toward the glass-mountain.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The drummer is not explicitly named a trickster; the motif label refers
+    to the deceptive action in this passage.
+- id: motif:5
+  label: quest through dangerous forest
+  taxonomy_refs:
+  - mystical_quest
+  - departure
+  basis: The drummer leaves at daybreak to seek the glass-mountain by a road through
+    a forest said to contain man-eaters.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives the journey's beginning and one obstacle but not the
+    full quest outcome.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage matches an ascent-pattern at the motif-family level: a helper
+    must reach an inaccessible mountain associated with a captive figure.'
+  claim_level: same_function
+  target: ascent motif family
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt shows attempted, not completed, ascent; no historical or
+    cross-textual contact claim is made.
+- id: claim:2
+  claim: The episode resembles a garment-dependent flying-woman pattern at the motif-family
+    level, because the woman's return flight depends on recovering a dress taken by
+    a mortal.
+  claim_level: same_motif
+  target: stolen or withheld flying garment pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name a species such as swan-maiden, and the available
+    taxonomy lacks a precise garment motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23566-23570
+  quote_or_summary: The drummer goes alone to the country at evening, reaches a lake,
+    sees three pieces of white linen on the shore, and puts one in his pocket.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 23571-23578
+  quote_or_summary: At night a soft voice wakes the drummer and asks for the dress
+    he took from her by the lake.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 23579-23588
+  quote_or_summary: The voice says she is a mighty king's daughter, in a witch's power,
+    shut on the glass-mountain, and unable to fly back after bathing with her sisters
+    because her dress is missing.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23589-23596
+  quote_or_summary: The drummer returns the dress in the dark; she takes it quickly,
+    and after speaking with him he hears her wings quiver as she flies away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 23592-23603
+  quote_or_summary: She says he can help only by ascending the glass-mountain and
+    freeing her from the witch; the road goes through the great forest where man-eaters
+    live.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 23604-23612
+  quote_or_summary: At daybreak the drummer enters the forest, beats his drum, wakes
+    a giant who had slept in the grass, and is confronted by him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 23613-23624
+  quote_or_summary: The drummer claims he is drumming to guide many thousands who
+    will kill the giant and attack him with steel hammers while he sleeps.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 23625-23635
+  quote_or_summary: The giant decides the supposed small hidden enemies may be dangerous,
+    offers help, and agrees to carry the drummer to the glass-mountain; the drummer
+    beats the drum from the giant's shoulder.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 23636-23642
+  quote_or_summary: A second giant carries the drummer in a button-hole, a third carries
+    him on his hat rim, and they reach the foot of the glass-mountain; the last giant
+    refuses to put him on the summit.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 23643-23645
+  quote_or_summary: The drummer stands before the glass-mountain, which is as high
+    as three piled mountains and smooth like a looking-glass; he tries to climb and
+    slips back.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied public-domain passage. Motif
+    labels are candidate mappings to the supplied taxonomy and need human review,
+    especially the garment-dependent flying-woman pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external tale-type or motif-index identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l23566-l23645
+  passage_sha256=f33bc68bdb2dcb839c11d89b1658c2716829cf9cad8e4c157717552d6d328b93
+

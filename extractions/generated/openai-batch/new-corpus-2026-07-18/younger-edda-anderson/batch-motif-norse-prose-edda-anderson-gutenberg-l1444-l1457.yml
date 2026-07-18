@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.norse-prose-edda-anderson-gutenberg-l1444-l1457
+source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+passage_locator:
+  label: CHAPTER IV. / THE CREATION OF THE WORLD. / CHAPTER V. / THE CREATION--(CONTINUED.);
+    lines 1444-1457
+  start: '1444'
+  end: '1457'
+  translation: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: the gods made a bridge from earth to heaven, which is called Bifrost
+  summary: Ganglere asks about the path from earth to heaven. Har answers that the
+    gods made Bifrost, a rainbow-like bridge with three colors, strong and skillfully
+    made. Har says it will break when the sons of Muspel ride over it, forcing them
+    to swim their horses through great rivers, and adds that nothing in the world
+    can stand when they come to the fight.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ganglere asks what the path from earth to heaven is.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Har answers that the gods made a bridge from earth to heaven called Bifrost.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Har says Bifrost may be what Ganglere calls the rainbow.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bifrost is described as having three colors, being very strong, and being
+    made with exceptional craft and skill.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Har says Bifrost will break when the sons of Muspel ride over it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After Bifrost breaks, the sons of Muspel will have to swim their horses over
+    great rivers in order to get on.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ganglere suggests that the gods did not build the bridge honestly if it can
+    break to pieces.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Har replies that the gods are not to blame for the structure and that nothing
+    in the world can stand when the sons of Muspel come to the fight.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ganglere
+  description: Speaker who asks about the path from earth to heaven and questions
+    the bridge's construction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Har
+  description: Speaker who answers Ganglere and explains Bifrost, its future breaking,
+    and the force of the sons of Muspel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: the gods
+  description: Collective builders of the bridge from earth to heaven called Bifrost.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: sons of Muspel
+  description: Collective group that will ride over Bifrost, causing it to break,
+    and will come to the fight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: horses of the sons of Muspel
+  description: Horses that the sons of Muspel will have to swim over great rivers
+    after Bifrost breaks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Ganglere asks what the path from earth to heaven is and later challenges
+    the bridge's durability.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: answering authority
+  assigned_to:
+  - fig:2
+  basis: Har answers Ganglere's questions and explains the bridge and its future failure.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: bridge builders
+  assigned_to:
+  - fig:3
+  basis: The gods are said to have made the bridge called Bifrost.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: future destructive riders
+  assigned_to:
+  - fig:4
+  basis: The sons of Muspel are said to ride over Bifrost, break it, and come to the
+    fight.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: mounts for river crossing
+  assigned_to:
+  - fig:5
+  basis: The sons of Muspel will have to swim their horses over great rivers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Bifrost
+  literal_form: Bridge from earth to heaven
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: rainbow
+  literal_form: Rainbow-like form of Bifrost
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three colors
+  literal_form: Three colors of Bifrost
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: great rivers
+  literal_form: Rivers that the horses must swim over
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: earth and heaven
+  literal_form: Two realms connected by the bridge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Question about the earth-heaven path
+  summary: Ganglere asks what path leads from earth to heaven, and Har identifies
+    it as the gods' bridge Bifrost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of Bifrost
+  summary: Har describes Bifrost as rainbow-like, three-colored, very strong, and
+    more skillfully made than other structures.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Future breaking of the bridge
+  summary: Har says Bifrost will break when the sons of Muspel ride over it, after
+    which they must swim their horses across great rivers.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Defense of the bridge and its builders
+  summary: Ganglere questions the bridge's construction, and Har answers that the
+    gods are not blameworthy because nothing can stand when the sons of Muspel come
+    to the fight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: earth-heaven bridge
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly identifies Bifrost as a bridge or path from earth
+    to heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a connection between realms but does not narrate
+    an actual ascent by a traveler.
+- id: motif:2
+  label: rainbow bridge
+  taxonomy_refs: []
+  basis: Har says the bridge called Bifrost may be what Ganglere calls the rainbow
+    and describes it as having three colors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No external rainbow-bridge parallels are asserted from this passage alone.
+- id: motif:3
+  label: divine structure broken by future attackers
+  taxonomy_refs: []
+  basis: The bridge made by the gods will break when the sons of Muspel ride over
+    it, despite being strong and skillfully made.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage names a future fight but gives limited narrative context for
+    the event.
+- id: motif:4
+  label: forced water crossing after bridge failure
+  taxonomy_refs: []
+  basis: After Bifrost breaks, the sons of Muspel must swim their horses over great
+    rivers to proceed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not elaborate on the rivers beyond their role as an obstacle.
+comparison_claims:
+- id: claim:1
+  claim: Bifrost functions as a constructed path between earth and heaven, cautiously
+    comparable to an ascent or vertical-connection motif family.
+  claim_level: same_function
+  target: ascent motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents a bridge and path but does not depict a completed
+    ascent, initiation, or journey along it.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1444-1445
+  quote_or_summary: 'Ganglere asks: "What is the path from earth to heaven?"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 1445-1448
+  quote_or_summary: Har says that "the gods made a bridge from earth to heaven, which
+    is called Bifrost" and adds that Ganglere may call it the rainbow.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 1448-1450
+  quote_or_summary: Bifrost is described as having three colors, being very strong,
+    and being made with more craft and skill than other structures.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1450-1453
+  quote_or_summary: Har says Bifrost will break when the sons of Muspel ride over
+    it, and then they must swim their horses over great rivers to continue.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1453-1455
+  quote_or_summary: Ganglere says the gods seem not to have built the bridge honestly
+    if it can break apart, since they could have made it otherwise if they wished.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1455-1457
+  quote_or_summary: Har replies that the gods are not to blame and that "there is
+    no thing in the world that is able to stand when the sons of Muspel come to the
+    fight."
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignment to ascent is cautious
+    because the passage describes an earth-heaven bridge rather than a narrated journey.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external Norse mythological context was added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-prose-edda-anderson-gutenberg__l1444-l1457
+  passage_sha256=0f86ed9431cbf518c1835df9a177787b64aae6caa19f3b50bbd7eefab7ac373c
+

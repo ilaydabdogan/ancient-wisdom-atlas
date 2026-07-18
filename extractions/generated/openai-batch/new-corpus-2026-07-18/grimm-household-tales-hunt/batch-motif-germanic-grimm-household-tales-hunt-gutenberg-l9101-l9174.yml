@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l9101-l9174
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 9101-9174
+  start: '9101'
+  end: '9174'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A goldsmith tries to eat a wondrous gold bird whose heart and liver give
+    the eater daily gold. Two poor twin boys accidentally eat the heart and liver;
+    the goldsmith's wife substitutes cock organs, and the goldsmith gains nothing.
+    The boys begin finding gold each morning. The envious goldsmith falsely warns
+    their father that they are in league with the Evil One, and the father abandons
+    them in the forest. A huntsman adopts them, trains them, tests them with difficult
+    shots at wild geese, declares them skilled huntsmen, and permits them to travel
+    to prove themselves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The goldsmith orders his wife to roast the gold bird and says he wants to
+    eat it all himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bird is described as wondrous; whoever eats its heart and liver finds
+    a piece of gold beneath his pillow every morning.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Two children of the poor broom-maker eat two small pieces that fall from the
+    roasting bird into the dripping-tin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The goldsmith's wife believes the eaten pieces were the bird's heart and liver
+    and substitutes the heart and liver of a young cock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The goldsmith eats the roasted bird alone but does not find new gold beneath
+    his pillow the next morning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The two children find two gold pieces when they rise in the morning, and this
+    continues daily.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The goldsmith tells the children's father that the children are in league
+    with the Evil One and should not remain in the house.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The father fears the Evil One and leaves the twins in the forest, though it
+    pains him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The lost children meet a huntsman, tell him their story, and are taken home
+    by him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The huntsman says he will be their father and raises them; they learn huntsmanship
+    from him.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The huntsman keeps the gold pieces found by each child for future need.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: When the youths are grown, the foster-father tests them by having each shoot
+    birds from the corners of flying formations.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: After successful trial shots, the foster-father declares the brothers out
+    of apprenticeship and skilled huntsmen.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The brothers ask permission to leave and travel in order to prove themselves
+    in the world.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: goldsmith
+  description: Crafty and cunning man who knows the nature of the gold bird, tries
+    to eat it all, later recognizes what happened, and speaks against the children
+    out of envy and hard-heartedness.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: goldsmith's wife
+  description: Woman who prepares and roasts the gold bird, sees the children eating,
+    and substitutes a young cock's heart and liver for the missing pieces.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: two children / twins / poor broom-maker's boys
+  description: Two boys who accidentally eat the bird's heart and liver, begin receiving
+    gold, are abandoned in the forest, are adopted by a huntsman, learn huntsmanship,
+    and later set out to travel.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: poor broom-maker / father
+  description: Father of the twins who is astonished by the daily gold, tells his
+    brother, fears the Evil One, and leaves the children in the forest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: huntsman / foster-father
+  description: Good man with no children of his own who takes in the lost boys, raises
+    them, teaches huntsmanship, tests their skill, and allows them to travel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: would-be eater of the whole magical bird
+  assigned_to:
+  - fig:1
+  basis: He orders the gold bird roasted, asks that none be lost, and says he wants
+    to eat it all himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: envious false accuser
+  assigned_to:
+  - fig:1
+  basis: After understanding that the children ate the heart and liver, he speaks
+    to their father from revenge, envy, and hard-heartedness, claiming they are in
+    league with the Evil One.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: cook and substitute-maker
+  assigned_to:
+  - fig:2
+  basis: She roasts the bird, sees the children eating, fears her husband's anger,
+    and replaces the missing heart and liver with those of a young cock.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: twin recipients of the gold-giving food
+  assigned_to:
+  - fig:3
+  basis: The boys eat the fallen pieces identified as the heart and liver and thereafter
+    find gold pieces each morning.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: fearful abandoning father
+  assigned_to:
+  - fig:4
+  basis: He believes the warning about the Evil One and leaves the twins in the forest
+    despite sadness.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: foster-father and huntsmanship teacher
+  assigned_to:
+  - fig:5
+  basis: He takes the boys home, says he will be their father, raises them, teaches
+    them huntsmanship, and later releases them from apprenticeship.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: initiated hunters and departing brothers
+  assigned_to:
+  - fig:3
+  basis: They complete trial shots, are declared skilled huntsmen, and ask to travel
+    to prove themselves.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: gold bird
+  literal_form: A wondrous gold bird roasted on a spit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: heart and liver of the gold bird
+  literal_form: Two small pieces from the bird, identified by the wife as the heart
+    and liver.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: daily gold beneath pillows
+  literal_form: Gold pieces found each morning beneath or by the boys' pillows.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: roasting fire
+  literal_form: The fire at which the gold bird roasts on the spit.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: forest abandonment place
+  literal_form: The forest where the father leaves the twins and where they lose their
+    way.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: triangle of wild geese
+  literal_form: A covey of wild geese flying in the form of a triangle, used for a
+    trial shot.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: figure-two formation of wild geese
+  literal_form: A covey of wild geese flying in the form of the figure two, used for
+    a trial shot.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Roasting of the gold bird and accidental eating of its organs
+  summary: The goldsmith has the gold bird roasted for himself; while it is at the
+    fire, the broom-maker's two boys eat two fallen pieces, and the wife replaces
+    the missing heart and liver with those of a young cock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Gold appears for the boys and the twins are abandoned
+  summary: The boys begin finding gold pieces each morning. The goldsmith recognizes
+    that they gained the bird's power, falsely accuses them of being in league with
+    the Evil One, and their father leaves them in the forest.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Lost children adopted by a huntsman
+  summary: The children wander lost in the forest, meet a huntsman, tell him why they
+    were rejected, and are taken home to be raised and trained by him.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Trial shots and release from apprenticeship
+  summary: After the boys grow up, their foster-father tests their hunting skill by
+    directing shots at wild geese formations, then declares them skilled huntsmen.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Request to travel and prove themselves
+  summary: The brothers ask their foster-father to let them go into the world, and
+    he joyfully grants the request.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: magical animal organs grant daily wealth
+  taxonomy_refs: []
+  basis: The bird's heart and liver give whoever eats them a piece of gold every morning,
+    and the boys receive daily gold after eating the pieces.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents the effect literally but does not name a formal motif
+    type.
+- id: motif:2
+  label: sibling pair of twins share a supernatural fortune
+  taxonomy_refs:
+  - sibling_pair
+  basis: The two boys are later called twins; both eat the bird pieces and both receive
+    gold each morning.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy includes sibling_pair; the passage does not require
+    a specifically sacred-twin interpretation.
+- id: motif:3
+  label: false accusation causes expulsion into the forest
+  taxonomy_refs: []
+  basis: The goldsmith falsely links the children to the Evil One, and their father
+    subsequently leaves them in the forest.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The accusation is motivated by revenge and envy in the passage; broader
+    demonization or scapegoat patterns are not asserted.
+- id: motif:4
+  label: abandoned children rescued by foster mentor
+  taxonomy_refs:
+  - departure
+  basis: The twins are left in the forest, lose their way, meet a childless huntsman,
+    and are adopted and raised by him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The departure is involuntary at first; the taxonomy reference is used
+    only for the movement away from the natal home.
+- id: motif:5
+  label: apprenticeship trial proves adult skill
+  taxonomy_refs:
+  - initiation
+  basis: The foster-father sets trial shots for the grown boys and declares them skilled
+    huntsmen when they succeed.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage frames this as release from apprenticeship rather than a ritual
+    initiation.
+- id: motif:6
+  label: young heroes depart to prove themselves in the world
+  taxonomy_refs:
+  - departure
+  basis: After completing training, the brothers ask to go away and travel so that
+    they may prove themselves in the world.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: Subsequent deeds are outside the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9101-9105
+  quote_or_summary: The goldsmith, described as crafty and cunning, calls his wife
+    and orders her to roast the gold bird, saying he wants to eat all of it himself.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 9105-9109
+  quote_or_summary: The bird is not common; whoever eats its heart and liver finds
+    a piece of gold beneath his pillow every morning.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 9109-9119
+  quote_or_summary: While the bird roasts, the broom-maker's two children enter, eat
+    two fallen pieces from the dripping-tin, and the wife, frightened, substitutes
+    the heart and liver of a young cock.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: 9119-9124
+  quote_or_summary: The goldsmith eats the bird alone and expects gold the next morning,
+    but finds no more than usual beneath his pillow.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 9125-9134
+  quote_or_summary: The children find two gold pieces the next morning and continue
+    finding two daily; their father is astonished and tells his brother.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: 9134-9144
+  quote_or_summary: The goldsmith recognizes that the children ate the heart and liver
+    and, out of revenge and envy, tells their father they are in league with the Evil
+    One; the father leaves the twins in the forest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: 9145-9159
+  quote_or_summary: The lost children meet a huntsman, tell him about the gold beneath
+    their pillows, and he takes them home, says he will be their father, raises them,
+    teaches huntsmanship, and keeps their gold for later need.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: 9160-9169
+  quote_or_summary: When grown, the foster-father tests the brothers with shots at
+    wild geese flying in a triangle and in the form of a figure two; both succeed
+    and are declared skilled huntsmen.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: 9169-9174
+  quote_or_summary: The brothers ask permission to go away and travel to prove themselves;
+    the old man grants the request, and they eat and drink joyfully together.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are conservative
+    and tied to available taxonomy where directly supported. No comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external motif index or material outside the supplied passage was used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l9101-l9174
+  passage_sha256=7d05398c0730ef6eda0f19f5647278ac3e6b2d6970f8c32c92b1885e84a7780a
+

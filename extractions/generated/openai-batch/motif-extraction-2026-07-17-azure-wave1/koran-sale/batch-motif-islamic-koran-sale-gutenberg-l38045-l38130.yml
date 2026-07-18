@@ -1,0 +1,560 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38045-l38130
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXIII. / ENTITLED, THOSE
+    WHO GIVE SHORT MEASURE OR WEIGHT; REVEALED AT MECCA. / IN THE NAME OF THE MOST
+    MERCIFUL GOD.; lines 38045-38130
+  start: '38045'
+  end: '38130'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: WOE be unto those who give short measure or weight
+  summary: The passage condemns fraudulent measuring and weighing, affirms resurrection
+    and a great day when mankind stands before God, describes written registers for
+    wicked and righteous deeds, contrasts punishment and exclusion for deniers with
+    paradisal delight for the righteous, and closes with a reversal in which believers
+    look down on punished infidels who had mocked them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Those who give short measure or weight take full measure when receiving but
+    defraud when measuring or weighing for others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks whether such people think they will be raised again for a
+    great day when mankind stands before the Lord of all creatures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The actions of the wicked are said to be in Sejjin, described as a distinctly
+    written book.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Those who deny the day of judgment and call divine signs fables of the ancients
+    are condemned.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The condemned are said to be shut out from their Lord and sent into hell to
+    be burned.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The actions of the righteous are said to be in Illiyyun, described as a distinctly
+    written book witnessed by those near to God.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The righteous dwell among delights, sit on couches, show brightness of joy
+    in their faces, and receive sealed pure wine mixed with water from Tasnim.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Tasnim is described in the note as a fountain in paradise, with those near
+    the divine presence drinking its water pure.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Wicked people laugh at true believers, wink at one another, make scurrilous
+    jests, and call the believers mistaken.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage says true believers will in turn laugh at the infidels while lying
+    on couches and looking down upon them in hell.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: those who give short measure or weight
+  description: People condemned for defrauding others in measuring or weighing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the wicked / unjust and flagitious deniers
+  description: People whose actions are registered in Sejjin and who deny the day
+    of judgment and divine signs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the righteous / true believers
+  description: People whose actions are registered in Illiyyun and who dwell among
+    delights.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:4
+  name_or_label: the Lord of all creatures / God
+  description: The divine figure before whom mankind stands on the great day and from
+    whom the wicked are shut out.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: infernal guards
+  description: Guards who address the condemned in hell, saying this is what they
+    denied as falsehood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: those who approach near unto God / divine presence
+  description: Figures near to God who witness the book in Illiyyun and drink from
+    Tasnim.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: infidels
+  description: Mockers and deniers who are later looked down upon in hell by true
+    believers.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: fraudulent measurers
+  assigned_to:
+  - fig:1
+  basis: They give short measure or weight and defraud others.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: condemned deniers
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: They deny the day of judgment or are shown punished in hell.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:10
+- id: role:3
+  label: rewarded righteous
+  assigned_to:
+  - fig:3
+  basis: They dwell among delights and receive paradisal drink.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: divine judge
+  assigned_to:
+  - fig:4
+  basis: Mankind stands before the Lord on the great day, and the wicked are shut
+    out from Him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: hell guards
+  assigned_to:
+  - fig:5
+  basis: They speak to the condemned in hell.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: near-divine witnesses or recipients
+  assigned_to:
+  - fig:6
+  basis: They witness the righteous register and drink from Tasnim near the divine
+    presence.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: mockers reversed
+  assigned_to:
+  - fig:7
+  basis: They mock believers, but believers later laugh at them and look down on them
+    in hell.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: short measure or weight
+  literal_form: defrauded commercial measure or weight
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: great day / day of judgment
+  literal_form: day when mankind stands before the Lord
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Sejjin
+  literal_form: register of the actions of the wicked; in the note, also interpreted
+    as prison or dungeon beneath the seventh earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:11
+- id: sym:4
+  label: Illiyyun
+  literal_form: register of the actions of the righteous; in the note, also interpreted
+    as high places or a place in the seventh heaven
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: sym:5
+  label: written book/register of actions
+  literal_form: book distinctly written recording deeds
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:6
+  label: hell-burning
+  literal_form: hell where the condemned are burned
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:7
+  label: sealed pure wine with musk
+  literal_form: pure wine, sealed, with a seal of musk
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Tasnim fountain water
+  literal_form: water from Tasnim, a fountain in paradise
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:9
+  label: couches
+  literal_form: couches on which the righteous recline while beholding delights or
+    looking down upon the punished
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:10
+  label: veil over hearts
+  literal_form: a veil cast over hearts by lusts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Condemnation of fraudulent measuring
+  summary: Those who take full measure for themselves but give short measure or weight
+    to others are warned of woe and asked whether they expect resurrection and judgment.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Register and punishment of the wicked
+  summary: The wicked have their actions recorded in Sejjin, deny judgment and signs,
+    are veiled in heart, shut out from their Lord, and sent to hell to be burned.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:10
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:11
+- id: scene:3
+  label: Register and reward of the righteous
+  summary: The righteous have their actions recorded in Illiyyun, witnessed by those
+    near to God, and enjoy couches, joyful faces, sealed wine, and water from Tasnim.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:12
+- id: scene:4
+  label: Mockery reversed after judgment
+  summary: The wicked mock true believers in life, but one day true believers laugh
+    at infidels while reclining on couches and looking down upon them in hell.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment according to deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes resurrection, mankind standing before God, registers
+    of deeds, and reward or punishment for what people have done.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:10
+  confidence: high
+  cautions: The passage is theological and eschatological; motif labeling should not
+    reduce doctrinal claims to folklore categories.
+- id: motif:2
+  label: Resurrection before the great day
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly asks whether wrongdoers think they shall be raised
+    again for the great day.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Books or registers of deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The wicked and the righteous each have actions recorded in a distinctly written
+    book or register.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: No separate taxonomy reference for books of deeds is supplied, so this
+    is grouped under divine judgment.
+- id: motif:4
+  label: Contrasted afterlife destinations for wicked and righteous
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: The passage and notes contrast Sejjin, hell, Illiyyun, paradise, and Tasnim
+    as destinations or settings associated with the wicked and the righteous.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The passage maps afterlife places but does not narrate an afterlife journey.
+- id: motif:5
+  label: Paradisal drink from a sacred fountain
+  taxonomy_refs: []
+  basis: The righteous receive sealed pure wine mixed with water from Tasnim, and
+    those near the divine presence drink Tasnim water pure.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No specific supplied motif-family reference for paradisal drink is available.
+- id: motif:6
+  label: Reversal of mockery after judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those who mocked true believers are later laughed at by believers while being
+    seen in hell.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The motif is expressed as moral reversal within a judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 38045-38130, opening verses
+  quote_or_summary: '"WOE be unto those who give short measure or weight"; they take
+    full measure when receiving but defraud when measuring or weighing for others.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 38045-38130, opening verses
+  quote_or_summary: The passage asks whether such people think they shall be raised
+    again at the great day when mankind stands before the Lord of all creatures.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 38045-38130, verses around line 10
+  quote_or_summary: The register of the actions of the wicked is said to be in Sejjin,
+    and Sejjin is described as a distinctly written book.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 38045-38130, verses around line 10
+  quote_or_summary: Those who accuse prophets of imposture and deny the day of judgment
+    are described as unjust and flagitious; when signs are rehearsed, they call them
+    fables of the ancients, and a veil is cast over their hearts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 38045-38130, verses after line 10
+  quote_or_summary: The condemned are shut out from their Lord, sent into hell to
+    be burned, and addressed by infernal guards who say this is what they denied.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 38045-38130, verses around lines 19-21
+  quote_or_summary: The register of the actions of the righteous is in Illiyyun, described
+    as a distinctly written book witnessed by those who approach near to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 38045-38130, verses after line 20
+  quote_or_summary: The righteous dwell among delights, sit on couches, have faces
+    bright with joy, and are given sealed pure wine whose seal is musk, mixed with
+    water from Tasnim.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 38045-38130, notes i-k
+  quote_or_summary: The notes identify Tasnim as a fountain in paradise; those near
+    the divine presence drink its water pure, while other inhabitants drink it mixed
+    with wine.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 38045-38130, verses around lines 29-33
+  quote_or_summary: Those who act wickedly laugh true believers to scorn, wink at
+    one another, make scurrilous jests, and say the believers are mistaken.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 38045-38130, closing verses
+  quote_or_summary: One day true believers will laugh at the infidels, lying on couches
+    and looking down upon them in hell, and the passage asks whether the infidels
+    are not rewarded for what they have done.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 38045-38130, note e
+  quote_or_summary: The note explains Sejjin as a general register of the wicked;
+    it also reports interpretations connecting the name to prison or to a dungeon
+    beneath the seventh earth where Eblis and his host reside and where wicked souls
+    may be detained until resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 38045-38130, note f
+  quote_or_summary: The note explains Illiyyun as meaning high places; it reports
+    interpretations of it as the register of righteous actions or as a place in the
+    seventh heaven under God's throne where the souls of the just remain until the
+    last day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the passage. Motif assignment is clearest
+    for divine judgment and resurrection; afterlife-map labeling is more cautious
+    because the passage gives spatial afterlife settings rather than a journey narrative.
+    No comparison claims were added because the passage does not itself support cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, notes, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38045-l38130
+  passage_sha256=7678532bb9b1f29ccdd04a719e26dbd5bb941688e89397bd950538ca3e448bd0
+

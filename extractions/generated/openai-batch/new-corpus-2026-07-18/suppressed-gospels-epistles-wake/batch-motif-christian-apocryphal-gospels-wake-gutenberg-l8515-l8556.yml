@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8515-l8556
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XXII. / CHAPTER I. / CHAPTER II. / CHAPTER I.; lines 8515-8556
+  start: '8515'
+  end: '8556'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Annaeus Seneca greets Paul, refers to a recent conversation with Lucilius
+    about hypocrisy and other matters in which some of Paul's disciples were present,
+    says that he wishes for Paul's conversation, praises Paul's epistles for moral
+    instruction, and describes the doctrines conveyed through Paul as sublime and
+    difficult to master fully.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Annaeus Seneca addresses Paul with a greeting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seneca supposes Paul has been informed of a conversation between Seneca and
+    Lucilius concerning hypocrisy and other subjects.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some of Paul's disciples were in company with Seneca and Lucilius during or
+    after the referenced conversation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Seneca and Lucilius were in the Sallustian gardens and persuaded the passing
+    disciples to join them rather than go another way.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Seneca says he and his companions greatly wish for Paul's conversation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Seneca says they were delighted with Paul's book of many epistles written
+    to cities and chief towns of provinces.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Seneca characterizes Paul's epistles as containing wonderful instructions
+    for moral conduct.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Seneca says Paul may be the author, the instrument of conveying the sentiments,
+    or sometimes both.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Seneca describes the doctrines as sublime and grand, and says a human lifetime
+    is scarcely sufficient to be instructed and perfected in their knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Annaeus Seneca
+  description: The sender of the greeting to Paul and first-person speaker of the
+    letter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Paul
+  description: The addressee of Seneca's greeting; associated with a book of many
+    epistles and with doctrines praised by Seneca.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Lucilius
+  description: Seneca's companion in the referenced conversation about hypocrisy and
+    other subjects.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Paul's disciples
+  description: A group described as some of Paul's disciples, present with Seneca
+    and Lucilius and persuaded to join company in the Sallustian gardens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: The heading names Annaeus Seneca as greeting Paul, and the letter proceeds
+    in the first person.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: letter recipient and desired conversation partner
+  assigned_to:
+  - fig:2
+  basis: Paul is greeted and Seneca says he wishes for Paul's conversation.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: conversation companion
+  assigned_to:
+  - fig:3
+  basis: Seneca refers to a conversation between himself and Lucilius.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: disciples present and persuaded companions
+  assigned_to:
+  - fig:4
+  basis: The passage says some of Paul's disciples were in company with Seneca and
+    Lucilius, and that they were persuaded to join them in the gardens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: writer or conveyor of moral doctrine
+  assigned_to:
+  - fig:2
+  basis: Seneca praises Paul's book of epistles and says Paul may be author, instrument
+    of conveying, or both.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: book of many epistles
+  literal_form: book of many Epistles
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Opening greeting and report of prior conversation
+  summary: Seneca greets Paul and says Paul may already know about Seneca's conversation
+    with Lucilius concerning hypocrisy and other matters, during which some of Paul's
+    disciples were present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Meeting in the Sallustian gardens
+  summary: Seneca and Lucilius are in the Sallustian gardens; Paul's disciples are
+    passing through and are persuaded to join them instead of going another way.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Praise of Paul's epistles and doctrines
+  summary: Seneca states his desire for Paul's conversation, praises Paul's epistles
+    as moral instruction, and describes the doctrines conveyed through Paul as sublime,
+    grand, and difficult to master fully.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: moral wisdom transmitted through authoritative writings
+  taxonomy_refs:
+  - wisdom
+  basis: The passage praises Paul's epistles as containing wonderful moral instruction
+    and describes the associated doctrines as sublime knowledge requiring extensive
+    instruction.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage is an epistolary praise of doctrine rather than a narrative
+    myth; the taxonomy link is functional and thematic.
+- id: motif:2
+  label: human figure as conveyor of elevated doctrine
+  taxonomy_refs:
+  - wisdom
+  basis: Seneca explicitly frames Paul as author, instrument of conveying sentiments,
+    or both, and associates him with doctrines of great sublimity and grandeur.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly name a divine source for the conveyed
+    sentiments, so the motif should not be expanded beyond the stated author-or-instrument
+    language.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a wisdom motif pattern in which
+    authoritative teaching is transmitted through a revered figure and preserved in
+    writings for moral instruction.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to shared function and theme; the passage does
+    not itself compare Paul with another tradition or present a full mythic narrative.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8515-8556; heading
+  quote_or_summary: '"ANNAEUS SENECA to PAUL Greeting."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8515-8556; chapter I, verse 1
+  quote_or_summary: Seneca says Paul may have been informed of the conversation that
+    passed yesterday between Seneca and Lucilius concerning hypocrisy and other subjects,
+    with some of Paul's disciples in company.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 8515-8556; chapter I, verse 2
+  quote_or_summary: In the Sallustian gardens, Seneca and Lucilius encountered passing
+    disciples and persuaded them to join company instead of going another way.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:4
+  type: quote
+  locator: lines 8515-8556; chapter I, verse 3
+  quote_or_summary: '"I desire you to believe, that we much wish for your conversation"'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 8515-8556; chapter I, verse 4
+  quote_or_summary: Seneca says they were delighted with Paul's book of many epistles
+    to cities and chief towns of provinces, containing wonderful instructions for
+    moral conduct.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:6
+  type: quote
+  locator: lines 8515-8556; chapter I, verse 5
+  quote_or_summary: '"not the author of, but only the instrument of conveying, though
+    sometimes both the author and the instrument"'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 8515-8556; chapter I, verse 6
+  quote_or_summary: Seneca describes the doctrines as sublime and grand, and says
+    a man's lifetime is scarcely sufficient to be instructed and perfected in their
+    knowledge.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif and comparison claims are
+    cautious because the passage is primarily epistolary and doctrinal rather than
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or comparisons were used beyond the supplied passage and available taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8515-l8556
+  passage_sha256=e3e94b62e8951fda87fe400790e5ff5d7c917b1e7170eb749dc793beb54503de
+

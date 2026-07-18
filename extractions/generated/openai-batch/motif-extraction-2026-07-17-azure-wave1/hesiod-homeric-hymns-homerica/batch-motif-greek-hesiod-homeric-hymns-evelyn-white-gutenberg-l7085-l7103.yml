@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7085-l7103
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: VIII. TO ARES / IX. TO ARTEMIS / X. TO APHRODITE / XI. TO ATHENA; lines 7085-7103
+  start: '7085'
+  end: '7103'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains a brief hymn to Aphrodite/Cytherea, describing her
+    as Cyprus-born, gift-giving, smiling, bright-faced, and queen of Salamis and Cyprus,
+    followed by a request for a cheerful song. It then contains a brief hymn to Pallas
+    Athene, describing her as city-guardian, dread, associated with Ares and war,
+    protector of people going to and returning from war, followed by a request for
+    good fortune and happiness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he will sing of Cytherea, identified with Aphrodite, who
+    is born in Cyprus.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aphrodite gives kindly gifts to men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Aphrodite is described as having smiles on her lovely face and brightness
+    playing over it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker hails Aphrodite as goddess and queen of well-built Salamis and
+    sea-girt Cyprus, and asks her to grant a cheerful song.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says he will remember Aphrodite and another song also.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker begins to sing of Pallas Athene, called guardian of the city.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Athene is described as dread and as loving, with Ares, deeds of war, the sack
+    of cities, shouting, and battle.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Athene saves the people as they go out to war and as they come back.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The speaker hails Athena and asks her to give good fortune with happiness.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Aphrodite / Cytherea
+  description: Goddess born in Cyprus; gives kindly gifts to men; has smiles and brightness
+    on her face; hailed as queen of Salamis and Cyprus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Pallas Athene / Athena
+  description: Goddess called guardian of the city; described as dread; associated
+    with Ares in loving war; saves people going to and returning from war.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ares
+  description: Named as the god with whom Athene loves deeds of war, the sack of cities,
+    shouting, and battle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Men / people
+  description: Humans who receive Aphrodite's kindly gifts and whom Athene saves as
+    they go to and return from war.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Hymnic speaker
+  description: First-person speaker who sings, hails the goddesses, remembers songs,
+    and asks for song, good fortune, and happiness.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Praised goddess
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Each goddess is the subject of a hymn and is hailed by the speaker.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: Gift-giving deity
+  assigned_to:
+  - fig:1
+  basis: Aphrodite is said to give kindly gifts to men.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Queen of named places
+  assigned_to:
+  - fig:1
+  basis: Aphrodite is hailed as queen of well-built Salamis and sea-girt Cyprus.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: City guardian and war-protector
+  assigned_to:
+  - fig:2
+  basis: Athene is called guardian of the city and saves people as they go out to
+    war and come back.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: War-associated deity
+  assigned_to:
+  - fig:3
+  basis: Ares is named in connection with Athene's love of war deeds, city-sacking,
+    shouting, and battle.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Human beneficiaries
+  assigned_to:
+  - fig:4
+  basis: Men receive Aphrodite's gifts, and the people are saved by Athene in wartime
+    movement.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:7
+  label: Hymnic supplicant and singer
+  assigned_to:
+  - fig:5
+  basis: The speaker sings, hails, remembers songs, and requests favor from the goddesses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: Cyprus and Salamis
+  literal_form: 'Named island and city-place associated with Aphrodite: Cyprus and
+    Salamis.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Smiles and brightness
+  literal_form: Smiles on Aphrodite's face and brightness playing over it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: City
+  literal_form: The city guarded by Pallas Athene.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: War and battle
+  literal_form: Deeds of war, sack of cities, shouting, and battle.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Going out and coming back from war
+  literal_form: People going out to war and coming back.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hymn to Aphrodite
+  summary: The speaker announces a song for Aphrodite/Cytherea, describes her Cyprus
+    birth, gifts, smiles, and brightness, hails her as queen of Salamis and Cyprus,
+    and asks for a cheerful song.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hymn to Athena
+  summary: The speaker begins to sing of Pallas Athene as city guardian, describes
+    her warlike character and association with Ares, states that she saves people
+    going to and returning from war, and asks for good fortune and happiness.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hymnic praise followed by request for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: 'In both hymns the speaker hails a goddess and asks her to grant a benefit:
+    a cheerful song from Aphrodite, and good fortune with happiness from Athena.'
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The exchange is hymnic and verbal; the passage does not describe a material
+    offering.
+- id: motif:2
+  label: Beneficent goddess gives gifts to humans
+  taxonomy_refs: []
+  basis: Aphrodite is explicitly said to give kindly gifts to men.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The specific nature of the gifts is not stated in the passage.
+- id: motif:3
+  label: City-guardian war goddess protects people in wartime movement
+  taxonomy_refs: []
+  basis: Athene is called guardian of the city and is said to save the people as they
+    go out to war and come back.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not narrate a specific battle or rescue event.
+- id: motif:4
+  label: Divine association in war
+  taxonomy_refs: []
+  basis: Athene is described as loving deeds of war together with Ares, including
+    city-sacking, shouting, and battle.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The relationship is limited to shared association with warlike deeds in
+    this brief hymn.
+comparison_claims:
+- id: claim:1
+  claim: 'The two hymn units share a praise-and-petition function: each addresses
+    a goddess with honorific language and asks for a benefit.'
+  claim_level: same_function
+  target: Internal comparison between Hymn X to Aphrodite and Hymn XI to Athena as
+    brief hymnic praise-and-request passages
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal formal comparison within the provided passage only;
+    it does not claim historical contact, common inheritance, or a broader corpus-wide
+    pattern.
+evidence:
+- id: ev:1
+  type: summary
+  locator: X. To Aphrodite, ll. 1-3
+  quote_or_summary: The speaker will sing of Cytherea, born in Cyprus; she gives kindly
+    gifts to men, and smiles and brightness are on her face.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: X. To Aphrodite, ll. 4-6
+  quote_or_summary: The speaker hails the goddess as queen of well-built Salamis and
+    sea-girt Cyprus, asks her to grant a cheerful song, and says he will remember
+    her and another song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: XI. To Athena, ll. 1-4
+  quote_or_summary: The speaker begins to sing of Pallas Athene, guardian of the city;
+    she is dread and, with Ares, loves deeds of war, the sack of cities, shouting,
+    and battle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: XI. To Athena, ll. 4
+  quote_or_summary: Athene saves the people as they go out to war and come back.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: XI. To Athena, l. 5
+  quote_or_summary: The speaker hails the goddess and asks her to give good fortune
+    with happiness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the provided passage. Motif labeling
+    is cautious because the passage consists of very brief hymnic summaries rather
+    than extended narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text was used. Although the locator label mentions Hymns VIII and IX, the provided passage text includes only Hymn X to Aphrodite and Hymn XI to Athena.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7085-l7103
+  passage_sha256=56c0c7f47013182440346b05e8c6cb79b027d91ee6f979de27664df077eca5b6
+

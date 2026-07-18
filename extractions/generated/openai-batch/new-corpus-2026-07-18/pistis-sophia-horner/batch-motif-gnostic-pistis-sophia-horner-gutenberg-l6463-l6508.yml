@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l6463-l6508
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 6463-6508
+  start: '6463'
+  end: '6508'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage repeatedly describes a Mystery that knows why punishments,
+    sin, light-emanations, baptisms, fire, seals, and many paired moral or existential
+    states came to be, ending with death and life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A repeated formula states that a Mystery knows why different things or states
+    came to be.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:2
+  text: The Mystery is said to know why the Judgments of the Punishments and the emanations
+    of the Light came to be.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Mystery is said to know why Sin and the Baptisms with the Mystery of the
+    Light came to be.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Mystery is said to know why the fire of the Punishment and the Seals of
+    the Light came to be, with the seals preventing the fire from hurting an unspecified
+    group.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage lists paired or contrasted states including Anger and Peace, Blasphemy
+    and Hymns of the light, Curse and Blessing, and Murder and Vivifying of souls.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage lists further paired or contrasted moral, sexual, emotional, and
+    social states including Adultery or Fornication and Purity, Intercourse and Continence,
+    Pride or Boasting and Humility or Meekness, Weeping and Laughter, and Poverty
+    and Wealth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The final pair in the passage is Death and Life.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: that Mystery
+  description: A repeatedly named Mystery described as knowing why the listed punishments,
+    light-emanations, rites, forces, and opposed states came to be.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: knower of why things came to be
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly says the Mystery 'knoweth because of what' the listed
+    things became.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire of punishment
+  literal_form: fire of the Punishment
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seals of light
+  literal_form: Seals of the Light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: light
+  literal_form: Light, including emanations, baptisms with the Mystery of the Light,
+    Seals of the Light, Hymns of the light, and Prayers of the Light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: baptisms with the Mystery of the Light
+  literal_form: Baptisms with the Mystery of the Light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: catalogue of the Mystery's knowledge
+  summary: The passage gives a catalogue of things whose coming-to-be is known by
+    the Mystery, moving from punishments, light, sin, baptisms, fire, and seals into
+    many paired moral and existential states.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: comprehensive knowing mystery
+  taxonomy_refs:
+  - wisdom
+  basis: The central figure is a Mystery that knows why a wide range of cosmic, ritual,
+    moral, and existential realities came to be.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is a doctrinal catalogue rather than a narrative episode.
+- id: motif:2
+  label: paired opposites and moral duality
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly arranges states in opposing or contrasting pairs,
+    such as anger and peace, curse and blessing, purity and sinfulness, poverty and
+    wealth, and death and life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The text lists contrasts but does not explain their full cosmological
+    structure within this excerpt.
+- id: motif:3
+  label: punishment fire restrained by seals of light
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage mentions Judgments of the Punishments, the fire of the Punishment,
+    and Seals of the Light that prevent the fire from hurting an unspecified group.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not narrate an actual judgment scene or identify the
+    judged parties.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6463-6465
+  quote_or_summary: The Mystery knows why the Judgments of the Punishments and all
+    emanations of the Light came to be.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 6467-6473
+  quote_or_summary: The Mystery knows why Sin, Baptisms with the Mystery of the Light,
+    the fire of the Punishment, and the Seals of the Light came to be; the seals keep
+    the fire from hurting them.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 6473-6484
+  quote_or_summary: The Mystery knows why Anger and Peace, Blasphemy and Hymns of
+    the light, Prayers of the Light, Curse and Blessing, Wickedness and Deceit, and
+    Murder and Vivifying of souls came to be.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 6485-6496
+  quote_or_summary: The Mystery knows why Adultery with Fornication and Purity, Intercourse
+    and Continence, Pride with Boasting and Humility with Meekness, Weeping and Laughter,
+    Slander and the good Word, Obedience and Disregard of man, and Murmuring and Innocence
+    with humility came to be.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 6498-6508
+  quote_or_summary: The Mystery knows why Sinfulness and Purity, Strength and Weakness,
+    Movement of the body and its usefulness, Poverty and Wealth, Wealth of the World
+    and Slavery, and Death and Life came to be.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is formulaic. Motif
+    assignment is limited by the excerpt's catalogue form and lack of narrative context.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references are limited to provided motif and symbol lists.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l6463-l6508
+  passage_sha256=035b70d5b627b2c2c348551ad038d81513a505ebbba951c5cf03516f8a989c5f
+

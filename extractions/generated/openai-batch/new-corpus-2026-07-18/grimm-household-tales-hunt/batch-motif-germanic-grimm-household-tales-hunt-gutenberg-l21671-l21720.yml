@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l21671-l21720
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 21671-21720
+  start: '21671'
+  end: '21720'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After creation, God fixes the lifespans of creatures. The ass, dog, and
+    monkey each complain that thirty years are too many, and God removes years from
+    them. Man asks for more than thirty years, and God adds the years removed from
+    the animals. The narrator explains the seventy-year human life as thirty human
+    years followed by ass, dog, and monkey years.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God has created the world and is about to determine the length of each creature’s
+    life.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ass asks how long it will live, receives thirty years, complains of burdens,
+    corn-carrying, blows, and kicks, and is relieved of eighteen years.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The dog is offered thirty years, complains of running, loss of barking voice,
+    loss of biting teeth, and growling, and is released from twelve years.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The monkey is offered thirty years, says its apparent enjoyment hides hardship
+    and sadness, and God takes off ten years.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Man appears joyous, healthy, and vigorous, receives thirty years, and asks
+    for more time after describing house-building, hearth fire, and fruit-bearing
+    trees.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God adds the ass’s eighteen years, the dog’s twelve years, and the monkey’s
+    ten years to man’s allotted life, but grants no more.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'The narrator states that man lives seventy years: thirty human years, eighteen
+    ass years, twelve dog years, and ten monkey years.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: 'The later human stages are described through animal-associated conditions:
+    burdens and harsh reward, toothless growling in a corner, and foolishness that
+    makes man a jest of children.'
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: Creator who determines and reallocates the lengths of creaturely life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: ass
+  description: Animal first assigned thirty years; complains of burdensome labor and
+    is relieved of eighteen years.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: dog
+  description: Animal offered thirty years; complains of running, lost voice, lost
+    teeth, and growling, and is released from twelve years.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: monkey
+  description: Animal offered thirty years; describes mirth, face-making, sour fruit,
+    and hidden sadness, and is relieved of ten years.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: man
+  description: Human figure who asks God for a longer life and receives years associated
+    with the ass, dog, and monkey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: children
+  description: Group before whom man in the final stage becomes a jest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine allocator of lifespan
+  assigned_to:
+  - fig:1
+  basis: God fixes the length of each creature’s life and later assigns the animal
+    years to man.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: petitioner for shortened life
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The ass, dog, and monkey each object to thirty years and receive a reduction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: source of reallocated years
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: God later names the ass’s eighteen years, dog’s twelve years, and monkey’s
+    ten years as added to man.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: recipient of extended lifespan
+  assigned_to:
+  - fig:5
+  basis: Man asks that his short time be lengthened and receives the animal years.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: child audience of final old-age stage
+  assigned_to:
+  - fig:6
+  basis: In the last ten years man becomes the jest of the children.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: allotted life-years
+  literal_form: thirty-year initial lifespan, with eighteen, twelve, and ten years
+    removed from animals and added to man
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: burdens and corn-carrying
+  literal_form: heavy burdens, sacks of corn, and carrying corn that feeds others
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: hearth fire
+  literal_form: fire burning on man’s own hearth
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fruit-bearing trees
+  literal_form: trees planted by man that blossom and bear fruit
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: lost voice and teeth
+  literal_form: voice for barking and teeth for biting, later absent in the dog-years
+    stage
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:6
+  label: monkey mirth and foolishness
+  literal_form: merry pranks, face-making, sour apple, hidden sadness, and final foolish
+    behavior
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Creation-time lifespan allocation begins
+  summary: God, after creating the world, begins fixing creaturely lifespans, and
+    the ass asks how long it will live.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animals seek shorter lives
+  summary: The ass, dog, and monkey each describe the hardships of their allotted
+    thirty years and receive reductions from God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Man receives the animal years
+  summary: Man asks for more than thirty years, citing his house, hearth, and trees;
+    God adds the removed animal years to him and refuses any further extension.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Explanation of seventy-year human life
+  summary: The narrator explains man’s life as a sequence of human, ass, dog, and
+    monkey years, each with corresponding conditions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine allotment of lifespan after creation
+  taxonomy_refs: []
+  basis: The passage opens with God having created the world and preparing to fix
+    the length of every creature’s life.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage concerns lifespan allocation, not the origin of death in general.
+- id: motif:2
+  label: reallocation of animal years to human life
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Years removed from the ass, dog, and monkey are later added to man by God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the animals do not directly exchange
+    with man; God reallocates the years.'
+- id: motif:3
+  label: human old age explained as animal-derived stages
+  taxonomy_refs: []
+  basis: The narrator explicitly divides seventy years of human life into human, ass,
+    dog, and monkey years with matching traits.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a narrative explanation of life stages rather than a separate
+    adventure episode.
+- id: motif:4
+  label: dissatisfied petitioner seeking longer life
+  taxonomy_refs: []
+  basis: Man receives thirty years, calls it too short, asks repeatedly for more,
+    and remains unsatisfied even after receiving animal years.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No further consequence for dissatisfaction is narrated beyond the explanation
+    of the seventy-year lifespan.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage functions like an etiological lifespan and aging tale: present
+    human longevity and old-age conditions are explained as the outcome of a creation-time
+    divine allocation and reallocation of animal years.'
+  claim_level: same_function
+  target: etiological tales explaining human lifespan and old age
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external text or tradition is named in the passage; this is a functional
+    pattern comparison only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21671-21673
+  quote_or_summary: God has created the world and is about to fix each creature’s
+    lifespan; the ass asks how long it shall live and receives thirty years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied Project Gutenberg passage.
+- id: ev:2
+  type: summary
+  locator: 21674-21679
+  quote_or_summary: The ass describes heavy burdens, corn-carrying, and blows and
+    kicks; God pities him and relieves him of eighteen years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied Project Gutenberg passage.
+- id: ev:3
+  type: summary
+  locator: 21679-21686
+  quote_or_summary: The dog objects to thirty years, describing running, loss of barking
+    voice and biting teeth, and growling; God releases him from twelve years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied Project Gutenberg passage.
+- id: ev:4
+  type: summary
+  locator: 21686-21695
+  quote_or_summary: The monkey says its apparent enjoyment includes pranks, face-making,
+    sour fruit, and hidden sadness; God takes off ten years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied Project Gutenberg passage.
+- id: ev:5
+  type: summary
+  locator: 21697-21702
+  quote_or_summary: Man appears healthy and vigorous, receives thirty years, and asks
+    for more time after mentioning his house, hearth fire, and planted fruit-bearing
+    trees.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied Project Gutenberg passage.
+- id: ev:6
+  type: summary
+  locator: 21702-21707
+  quote_or_summary: God adds the ass’s eighteen years, the dog’s twelve years, and
+    the monkey’s ten years to man, but grants no more; man leaves unsatisfied.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied Project Gutenberg passage.
+- id: ev:7
+  type: summary
+  locator: 21709-21717
+  quote_or_summary: 'The narrator states that man lives seventy years: thirty human
+    years, then ass years of burdens, dog years of toothless growling, and monkey
+    years of foolishness before children.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied Project Gutenberg passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif taxonomy assignment is cautious
+    because most available taxonomy families do not exactly name etiological lifespan
+    tales.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The line containing “177 Death’s Messengers” appears to be a following tale heading and is not treated as part of the extracted narrative.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l21671-l21720
+  passage_sha256=40d3e02af84258af8df8207c7c0db8b862fd4208cdab22ca52aea2cbbad510b0
+

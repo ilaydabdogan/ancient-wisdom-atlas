@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l115-l136
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: NEW YORK / E. P. DUTTON AND COMPANY / CONTENTS / EDITORIAL NOTE; lines 115-136
+  start: '115'
+  end: '136'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: |-
+    these books
+    shall be the ambassadors of goodwill and understanding between East
+    and West
+  summary: An editorial note states that the editors intend the series to promote
+    goodwill and understanding between East and West through knowledge of Oriental
+    thought, thanks press and public for receiving the series, and says specialists
+    have been secured for the subjects.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note states that the editors of the series have a definite object.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editors desire the books to be ambassadors of goodwill and understanding
+    between East and West.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: East and West are described as the old world of Thought and the new world
+    of Action.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says deeper knowledge of Oriental ideals and philosophy may help
+    revive a spirit of Charity that does not despise or fear nations of another creed
+    and colour.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editors thank the press and public for the cordial reception of the Wisdom
+    of the East Series.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note states that pains have been spared to secure specialists for the
+    various subjects.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The note is signed by L. Cranmer-Byng and S. A. Kapadia, with the Northbrook
+    Society address at 185, Piccadilly, W.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Editors of this series
+  description: Collective speakers who state the object of the series and its intended
+    cultural purpose.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: These books / Wisdom of the East Series
+  description: The books are described as ambassadors of goodwill and understanding
+    between East and West.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Press and public
+  description: Recipients of thanks for the cordial reception of the series.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: L. Cranmer-Byng and S. A. Kapadia
+  description: Named signatories of the editorial note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Series editors stating purpose
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the object and desire of the Editors of this series.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Ambassadors of goodwill and understanding
+  assigned_to:
+  - fig:2
+  basis: The books are explicitly described as ambassadors between East and West.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Thanked audience
+  assigned_to:
+  - fig:3
+  basis: The press and public are thanked for cordial reception of the series.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Named signatories
+  assigned_to:
+  - fig:4
+  basis: The names appear after the editorial note, followed by the society address.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: East and West
+  literal_form: Paired cultural-geographic terms, East and West
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Thought and Action
+  literal_form: The old world of Thought and the new of Action
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Spirit of Charity
+  literal_form: True spirit of Charity
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Editorial statement of cross-cultural purpose
+  summary: The editors state that the books are intended to foster goodwill and understanding
+    between East and West and to encourage knowledge of Oriental ideals and philosophy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Acknowledgment and assurance of editorial care
+  summary: The editors thank the press and public for receiving the series and say
+    specialists have been secured for the subjects; the note then gives named signatories
+    and an address.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cross-cultural transmission of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The note frames the books as mediators of goodwill and understanding and
+    links deeper knowledge of Oriental thought with moral renewal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an editorial paratext rather than a narrative mythic passage;
+    the motif is thematic and broadly aligned with the available wisdom category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 117-120
+  quote_or_summary: The editors state their definite object and say that the books
+    should be “ambassadors of goodwill and understanding between East and West.”
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 120-126
+  quote_or_summary: The passage contrasts the old world of Thought with the new of
+    Action and says knowledge of Oriental ideals and philosophy may revive Charity
+    that neither despises nor fears nations of another creed and colour.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 126-130
+  quote_or_summary: The editors thank the press and public for the cordial reception
+    of the Wisdom of the East Series and state that specialists have been secured
+    for the subjects.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source metadata.
+- id: ev:4
+  type: citation
+  locator: lines 132-136
+  quote_or_summary: The note lists L. Cranmer-Byng and S. A. Kapadia, followed by
+    Northbrook Society, 185, Piccadilly, W.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear editorial prose. Motif extraction is limited because
+    the passage is paratextual and non-narrative; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available concrete symbol taxonomy refs such as tree, water, fire, serpent, mountain, cave, or milk appear in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l115-l136
+  passage_sha256=62519d39d0030cc686bdd5f7c04f01e063e2237b4a8ff26a81f3e7ed332eef55
+

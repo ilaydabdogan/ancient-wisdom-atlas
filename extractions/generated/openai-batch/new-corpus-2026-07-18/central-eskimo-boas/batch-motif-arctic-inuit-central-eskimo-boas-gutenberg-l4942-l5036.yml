@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4942-l5036
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: FISHING. / MANUFACTURES. / MAKING LEATHER AND PREPARING SKINS. / SUNDRY IMPLEMENTS.;
+    lines 4942-5036
+  start: '4942'
+  end: '5036'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Central Eskimo sewing implements, needle cases, thimbles,
+    whalebone and bone working, drill use, fire making, ivory and stone implement
+    manufacture, engraving tools, and a reported belief about a soapstone cement mixture.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sewing thread is made from deer or white whale sinews; steel needles are generally
+    used, while ivory needles are used where steel ones are lacking; needles are kept
+    in ivory needle cases.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thimbles are made from ground sealskin, and women sew by pulling the thread
+    toward themselves and making an overcast seam.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Whalebone is used for elastic thongs and as a substitute for wood, including
+    kayak parts and boxes; bones of large animals and the walrus penis bone are used
+    instead of poles.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Wood and deer horn are made pliable in boiling water, and small pieces of
+    bone are straightened after steaming with a specific implement.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The drill for working ivory and bone has a bow with string, a drill, and a
+    mouthpiece, and it is operated by setting the drill against the material and moving
+    the bow.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A second drill arrangement uses a string with handles; usually one man pulls
+    the string while another holds the mouthpiece.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The same drilling instrument can be used to make fire by rotating hard wood
+    against driftwood, applying moss to the glowing wood, and gently blowing it; flint
+    and pyrite are also used where available.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Ivory implements are cut from tusks, shaped by chipping, finished with files,
+    and some knives and harpoons are made from repurposed saw blades or Scotch whale
+    harpoons.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: Engravings in bone and ivory are scratched with an implement consisting of
+    a point inserted into a wooden handle; the point is iron in the described form
+    and was formerly quartz.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: Stone implements are made from flint, slate, or soapstone, and soapstone fragments
+    may be cemented with a mixture of seal blood, clay, and dog hair.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: Lyon is cited for the report that hair from a bitch was believed to spoil
+    the soapstone cement mixture and prevent it from sticking.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Women who sew
+  description: Women are described sewing by pulling the thread toward themselves
+    and making an overcast seam.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Drill operators
+  description: The passage describes one-man and two-man ways of operating the drill
+    apparatus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Native implement makers
+  description: The passage refers to native tool use and describes processes for cutting,
+    filing, engraving, and making implements.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: sewer
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly states that women sew by pulling the thread toward
+    themselves and making an overcast seam.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: drill operator
+  assigned_to:
+  - fig:2
+  basis: The passage describes one or two men using the drill apparatus, including
+    bow, string, drill, and mouthpiece.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: implement maker and finisher
+  assigned_to:
+  - fig:3
+  basis: The passage describes natives using files and describes making, finishing,
+    and engraving implements.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: sinew thread and needle toolkit
+  literal_form: Thread made of deer or white whale sinews, steel or ivory needles,
+    and ivory needle cases.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sealskin thimble
+  literal_form: An oblong piece of ground sealskin fitted to the point of the first
+    finger.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: whalebone and large bone substitutes
+  literal_form: Whalebone used for elastic thongs and wood substitutes; large animal
+    bones and walrus penis bone used instead of poles.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bow drill
+  literal_form: A drill apparatus made of bow and string, drill, and mouthpiece.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: fire
+  literal_form: Fire produced from glowing wood, moss tinder, breath, or by striking
+    flint and pyrite.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: boiling water and steam
+  literal_form: Boiling water used to make wood and deer horn pliable; steam used
+    before straightening bone pieces.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: engraving point
+  literal_form: An iron point in a wooden handle, with a formerly used quartz point,
+    for scratching designs into ivory.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: soapstone cement mixture
+  literal_form: A mixture of seal blood, clay, and dog hair used to cement soapstone
+    fragments.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Sewing implements and seam making
+  summary: Sinew thread, needles, needle cases, and sealskin thimbles are described,
+    followed by the sewing method used by women.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Preparing bone, horn, and whalebone materials
+  summary: Whalebone and large bones are used as structural materials; wood, horn,
+    and bone are softened or straightened with boiling water or steam.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Operating the drill
+  summary: The drill’s parts and use are described, including a bow-driven form and
+    a two-person string-driven form.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Making fire with the drill
+  summary: The drill is adapted for fire making by rotating hard wood against driftwood
+    until it glows, then applying moss and blowing it into flame; flint and pyrite
+    are also used where available.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Cutting, filing, engraving, and stone-working
+  summary: Ivory, bone, flint, slate, and soapstone implements are made or finished
+    by cutting, chipping, filing, scratching, drilling, whetting, chiseling, and cementing.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: animal-derived sewing toolkit
+  taxonomy_refs: []
+  basis: 'Sewing equipment is made from animal-derived materials: sinew thread, ivory
+    needles or cases, and a sealskin thimble.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a practical ethnographic pattern, not a narrative myth motif in
+    the passage.
+- id: motif:2
+  label: friction fire from drill, tinder, and breath
+  taxonomy_refs: []
+  basis: The passage describes using the drill to produce glowing wood, applying moss,
+    and blowing until it burns.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage presents this as a technical fire-making method; it does not
+    attach a mythic origin story or ritual explanation.
+- id: motif:3
+  label: animal bone and whalebone as substitute structural materials
+  taxonomy_refs: []
+  basis: Whalebone is used in place of wood for kayak parts and boxes, and large bones
+    are used instead of poles.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif candidate records a material-culture pattern only.
+- id: motif:4
+  label: tool transformation and reuse under material scarcity
+  taxonomy_refs: []
+  basis: The passage notes old scarcity of iron, an older method of splitting bone
+    by drilled holes, and the making of knives or harpoons from saw blades and Scotch
+    whale harpoons.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: This is inferred as a pattern of adaptation from several technical statements;
+    no symbolic interpretation is stated.
+- id: motif:5
+  label: cement mixture affected by animal hair belief
+  taxonomy_refs: []
+  basis: A soapstone cement mixture includes dog hair, and Lyon is cited for the belief
+    that hair from a bitch would spoil it and prevent sticking.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The belief is reported second-hand through Lyon within the passage and
+    is not elaborated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4942-5036; sewing thread, needles, and needle cases paragraph
+  quote_or_summary: Thread is made of deer or white whale sinews; steel needles are
+    common, ivory needles are used when steel is lacking, and needles are kept in
+    ivory needle cases.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 4942-5036; Kumlien needle description
+  quote_or_summary: Kumlien describes a differently designed tool, awl-like in shape
+    with an eye near the point, apparently made with deer horn and walrus ivory.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 4942-5036; thimbles paragraph
+  quote_or_summary: "“The women sew by pulling the thread toward them and making an
+    overcast seam.” Thimbles are described as ground sealskin pieces fitted to the
+    first finger."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; short excerpt and summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 4942-5036; whalebone and bone-working paragraph
+  quote_or_summary: Whalebone is used for elastic thongs and as a substitute for wood;
+    boiling water makes wood and deer horn pliable; large bones are used instead of
+    poles; old bone splitting used many drilled holes before breaking pieces apart.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 4942-5036; bone-straightening paragraph
+  quote_or_summary: Small bone pieces for arrows and similar uses are straightened
+    after steaming with the implement shown in Fig. 474.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 4942-5036; drill components and operation paragraph
+  quote_or_summary: The drill for ivory and bone consists of bow with string, drill,
+    and mouthpiece; the bow string turns the drill while the mouthpiece holds the
+    rounded end.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 4942-5036; alternate drill operation paragraph
+  quote_or_summary: An alternate drill form uses a string with a handle at each end;
+    one man usually pulls the string while another holds the mouthpiece.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: quote
+  locator: 4942-5036; fire-making paragraph
+  quote_or_summary: "“The same instrument is sometimes used for making fire.” A hard-wood
+    drill is turned on driftwood until it glows; moss is applied and blown until it
+    burns; flint, pyrite, moss, and Eryophorum hair may serve in fire making."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; short excerpt and summary from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 4942-5036; ivory implements and files paragraph
+  quote_or_summary: Ivory implements are cut from tusks, chipped into shape, and finished
+    with files; files are important for natives; women’s knives are cut from old saw
+    blades and seal harpoons from Scotch whale harpoons.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:10
+  type: summary
+  locator: 4942-5036; engraving paragraph
+  quote_or_summary: Bone and ivory engravings are made with an iron point in a wooden
+    handle; a quartz point was formerly used, and designs are scratched into ivory.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:11
+  type: summary
+  locator: 4942-5036; stone implements and soapstone cement paragraph
+  quote_or_summary: Flint is worked with a squeezing tool, slate is formed and finished
+    with drill and whetstone, and soapstone fragments are cemented with seal blood,
+    clay, and dog hair; Lyon reports the belief that hair of a bitch would spoil the
+    cement.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The technical observations are explicit. Motif candidates are treated as
+    material-culture patterns because the passage contains little mythic or narrative
+    content. No comparison claims are supported by the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage is ethnographic and technical rather than mythological. Taxonomy symbol refs are used only for literal fire and water references present in the passage; no motif-family refs or external comparisons were assigned.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4942-l5036
+  passage_sha256=598c447471a2e5a26e1d8c6e71ef09af0ea20580e3c1a6b97963dab18e073e7a
+

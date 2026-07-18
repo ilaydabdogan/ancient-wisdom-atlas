@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l2520-l2544
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XXVI. THE ROBBER AND THE OLD MAN / XXVII. THE LEOPARD AND THE RAM / XXVIII.
+    WHY THE LEOPARD CAN ONLY CATCH PREY ON ITS LEFT SIDE / XXIX. QUARCOO BAH-BONI;
+    lines 2520-2544
+  start: '2520'
+  end: '2544'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Elephant throws away the load containing Quarcoo, and the animals flee
+    to a huge tree to rest. Quarcoo has already escaped, taken a short cut, and hidden
+    in the tree. When Goat denies responsibility for Quarcoo and asks that he appear
+    if Goat is to blame, Quarcoo jumps down. The frightened animals scatter to different
+    habitats, which the tale gives as the reason they no longer live together.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Elephant is asked to be relieved of his load and is told to throw it away
+    if he does not want to carry it farther.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Elephant throws away the load, the animals run several miles and rest
+    beneath a huge tree.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Quarcoo has already left the basket, taken a short cut, arrived before the
+    animals, and climbed into the tree branches.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The animals discuss Quarcoo and blame Goat for persuading them to take the
+    boy as a servant.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Goat says that if he is to blame for Quarcoo’s admission, Quarcoo should appear
+    before them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Quarcoo jumps down from the tree and stands before the animals.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The animals are alarmed by Quarcoo’s appearance and scatter in different directions.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage explains the animals’ scattering as the reason they now live in
+    separate places instead of all together.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Quarcoo
+  description: A boy whom the animals had taken as a servant; he escapes from the
+    basket, hides in a tree, and appears before the animals.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Elephant
+  description: An animal whose turn comes to carry the load and who throws it away
+    when told to do so.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Goat
+  description: The youngest of the company, assigned domestic work, blamed for persuading
+    the animals to take Quarcoo as a servant, and later said to go to the abode of
+    human beings.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: animal company
+  description: The group of animals traveling together, resting beneath the tree,
+    discussing Quarcoo, and scattering after he appears.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: wolf
+  description: One of the animals that scatters; it runs to the woods.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: tiger
+  description: One of the animals that scatters; it runs into the heart of the forest.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: lion
+  description: One of the animals that scatters; it runs to the desert.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hidden escapee
+  assigned_to:
+  - fig:1
+  basis: Quarcoo steps out of the basket, reaches the tree first, and hides among
+    the leaves.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sudden appearing figure
+  assigned_to:
+  - fig:1
+  basis: After Goat calls for Quarcoo to appear, Quarcoo jumps down and stands before
+    the animals.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: carrier of discarded load
+  assigned_to:
+  - fig:2
+  basis: Elephant is carrying the load and throws it away when told to do so.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: blamed younger member
+  assigned_to:
+  - fig:3
+  basis: The animals blame Goat, identified as the youngest, for persuading them to
+    take Quarcoo as a servant.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: speaker who summons the hidden figure
+  assigned_to:
+  - fig:3
+  basis: Goat says that if he is truly to blame, Quarcoo should appear before them.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: frightened animal group
+  assigned_to:
+  - fig:4
+  basis: The animals are alarmed when Quarcoo appears and scatter in all directions.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: dispersed animal
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Wolf, tiger, and lion are each named among the animals that run to separate
+    places.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: huge tree
+  literal_form: A huge tree with shade, branches, and leaves, where the animals rest
+    and Quarcoo hides.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: basket
+  literal_form: The basket from which Quarcoo quietly steps out before taking a short
+    cut.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: separate animal habitats
+  literal_form: The woods, heart of the forest, Nigeria, desert, and abode of human
+    beings as destinations for scattered animals.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Elephant discards the load and the animals flee
+  summary: Elephant throws away the load after being told to do so, and the animals
+    run for miles until they rest under a huge tree.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quarcoo hides in the tree before the animals arrive
+  summary: Quarcoo escapes from the basket, takes a short cut, reaches the tree first,
+    and conceals himself among its branches and leaves.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Goat is blamed and Quarcoo appears
+  summary: The animals blame Goat for bringing Quarcoo among them; Goat denies the
+    charge and calls for Quarcoo to appear, whereupon Quarcoo jumps down from the
+    tree.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Animals scatter to different places
+  summary: The animals are frightened by Quarcoo’s appearance and run to different
+    places; the passage presents this as the origin of their separate present-day
+    habitats.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of animals living in separate habitats
+  taxonomy_refs: []
+  basis: The passage explicitly states that the animals’ flight to separate places
+    explains why they now live apart instead of together.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy list does not contain a specific etiological animal-habitat
+    motif reference.
+- id: motif:2
+  label: hidden figure appears when named or challenged
+  taxonomy_refs: []
+  basis: Goat says Quarcoo should appear if Goat is to blame; Quarcoo, already hidden
+    in the tree, immediately jumps down before the group.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage supports the sequence but does not present it as a magical
+    summoning; Quarcoo’s appearance is enabled by prior concealment.
+- id: motif:3
+  label: clever escape and ambush-like reappearance
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Quarcoo escapes from the basket unnoticed, reaches the resting place first,
+    hides above the animals, and appears suddenly, causing them to flee.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call Quarcoo a trickster; the taxonomy
+    reference is based only on his deceptive escape and disruptive reappearance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2520-2525
+  quote_or_summary: Elephant’s turn comes; he is told to throw away the load if he
+    does not want to carry it. He does so, and the animals run until they stop under
+    a huge tree to rest.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2526-2532
+  quote_or_summary: Quarcoo has already stepped out of the basket, taken a short cut,
+    reached the tree before the others, and hidden among the leaves in its branches.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2533-2538
+  quote_or_summary: The animals discuss Quarcoo’s troublemaking and blame Goat, the
+    youngest, who had wanted help with domestic work, for persuading them to take
+    the boy as a servant.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 2538-2541
+  quote_or_summary: Goat says, “let him appear before us,” and Quarcoo promptly jumps
+    down from the tree and stands in front of them.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:5
+  type: summary
+  locator: 2541-2544
+  quote_or_summary: 'The animals are alarmed and scatter: wolf to the woods, tiger
+    to the forest, elephant to Nigeria, lion to the desert, and goat to human beings;
+    the passage says this explains why they now live in different places.'
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the literal sequence and etiological animal-dispersal
+    motif. Broader taxonomy alignment is limited because the provided motif-family
+    list lacks a direct animal-habitat origin category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparison to another text, tradition, or motif family beyond its own etiological explanation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l2520-l2544
+  passage_sha256=b6f0f1c9e49e7ea7f69a24c2161dca18e1c897cd3804b20a4a761a802b52397d
+

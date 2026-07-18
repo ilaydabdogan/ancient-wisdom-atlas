@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l746-l797
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 746-797
+  start: '746'
+  end: '797'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“If I could but shudder! If I could but shudder!”"
+  summary: A youth travels with fifty thalers, repeatedly wishing to learn how to
+    shudder. A man directs him to spend the night beneath a gallows where seven men
+    hang. The youth tries to warm the dead men by a fire, then hangs them up again
+    when their clothes burn, and reports in the morning that he still has not learned
+    to shudder. He continues on, meets a waggoner, and arrives at an inn where the
+    host says there may be an opportunity to shudder, while the hostess warns that
+    many inquisitive people have already lost their lives there.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The youth sets out at dawn with fifty thalers and repeatedly says that he
+    wishes he could shudder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man on the road hears the youth, points to a gallows described as a tree,
+    and says that seven men are there and that waiting below it at night will teach
+    the youth to shudder.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The youth agrees to sit beneath the gallows and promises the man fifty thalers
+    if he learns to shudder quickly.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At the gallows the youth waits until evening, lights a fire because he is
+    cold, and at midnight sees the wind move the hanged men.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Feeling pity for the hanged men, the youth raises a ladder, climbs up, unbinds
+    all seven, and places them around the fire to warm them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The dead men sit silently and do not move while the fire catches their clothes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After warning them, the youth hangs the dead men back up, sleeps by the fire,
+    and tells the man in the morning that he still does not know how to shudder.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The youth continues traveling and repeats his wish to shudder; a waggoner
+    questions him, and the youth says he does not know who he is or where he comes
+    from, may not tell who his father is, and cannot find anyone to teach him to shudder.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The waggoner takes the youth to an inn; the host says there should be an opportunity
+    for the youth’s desire there, and the hostess warns that many inquisitive persons
+    have already lost their lives.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the youth / boy
+  description: A young male traveler carrying fifty thalers who repeatedly wants to
+    learn how to shudder and does not fear the gallows scene.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the man on the highway
+  description: A man who hears the youth speaking to himself, points out the gallows,
+    proposes that the youth wait there at night, and later asks whether he has learned
+    to shudder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the seven hanged men / dead men
+  description: Seven men hanging at the gallows; after being taken down, they remain
+    silent and unmoving while their clothes burn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the waggoner
+  description: A waggoner who hears the youth muttering, questions him, and offers
+    to find a place for him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the host
+  description: The innkeeper who hears the youth’s wish to shudder and says there
+    should be a good opportunity there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the hostess
+  description: The innkeeper’s wife or female host who warns that many inquisitive
+    persons have already lost their lives.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seeker of shuddering
+  assigned_to:
+  - fig:1
+  basis: The youth repeatedly says he wishes he could shudder and seeks someone or
+    something to teach him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: gallows-test proposer
+  assigned_to:
+  - fig:2
+  basis: The man directs the youth to sit beneath the gallows at night and expects
+    the youth to learn how to shudder there.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: silent hanged dead
+  assigned_to:
+  - fig:3
+  basis: The seven men hang at the gallows and, after being brought to the fire, remain
+    silent and unmoving.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: roadside helper
+  assigned_to:
+  - fig:4
+  basis: The waggoner tells the youth to come with him and says he will see about
+    a place for him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: host who offers an opportunity
+  assigned_to:
+  - fig:5
+  basis: The host says that if the youth wants to shudder, there ought to be a good
+    opportunity at the inn.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: warning hostess
+  assigned_to:
+  - fig:6
+  basis: The hostess cautions that many inquisitive persons have already lost their
+    lives.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fifty thalers
+  literal_form: money carried by the youth and promised as payment if he learns to
+    shudder
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: gallows tree
+  literal_form: the gallows described as a tree where seven men hang
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: seven hanged men
+  literal_form: a group of seven men hanging at the gallows
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: fire at the gallows
+  literal_form: a fire the youth lights for warmth and around which he places the
+    dead men
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: dangerous inn
+  literal_form: an inn where the host suggests an opportunity to shudder and the hostess
+    warns of prior deaths
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Roadside invitation to the gallows
+  summary: The youth travels with fifty thalers and repeats his wish to shudder. A
+    man hears him, points out a gallows with seven hanged men, and tells him to wait
+    beneath it at night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Midnight fire beneath the gallows
+  summary: The youth sits beneath the gallows, lights a fire, sees the wind move the
+    hanged men, pities them, takes them down, and places them near the fire.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failure of the gallows test
+  summary: The dead men remain silent while their clothes burn. The youth hangs them
+    back up, sleeps, and in the morning says he still has not learned to shudder,
+    so the man does not receive the fifty thalers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Road to the inn
+  summary: The youth continues repeating his wish. A waggoner questions him and takes
+    him to an inn, where the host promises a possible opportunity and the hostess
+    warns of deaths among inquisitive persons.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: quest to learn fear or shuddering
+  taxonomy_refs:
+  - initiation
+  basis: The youth repeatedly states his wish to learn how to shudder and moves from
+    one possible test or teacher to another.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents only part of the tale, so the outcome of the youth’s
+    learning quest is not included here.
+- id: motif:2
+  label: fearless night at the gallows
+  taxonomy_refs: []
+  basis: The youth sits beneath a gallows at night, handles the hanged dead, sleeps
+    there, and reports no fear or shuddering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader historical or cross-cultural comparison is inferred from this
+    passage alone.
+- id: motif:3
+  label: dead mistaken or treated as if living
+  taxonomy_refs: []
+  basis: The youth pities the hanged men as if they might suffer from cold, brings
+    them to the fire, warns them, and then hangs them up again when they do not respond.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level motif description, not a claim about the youth’s
+    psychology beyond the stated actions.
+- id: motif:4
+  label: dangerous lodging as next test
+  taxonomy_refs:
+  - initiation
+  basis: At the inn the host suggests an opportunity for the youth to shudder, while
+    the hostess warns that many inquisitive persons have already died there.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage ends before the inn episode unfolds, so the exact nature of
+    the danger is not shown in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 746-756
+  quote_or_summary: The youth sets out with fifty thalers, repeats his wish to shudder,
+    and meets a man who points him to a gallows described as a tree with seven men
+    and tells him to wait there at night.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:2
+  type: summary
+  locator: lines 757-766
+  quote_or_summary: The youth sits beneath the gallows, lights a fire, sees the wind
+    move the hanged men, pities them, climbs up, unbinds all seven, and sets them
+    around the fire.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 766-779
+  quote_or_summary: The dead men do not move or speak while their clothes burn; the
+    youth hangs them up again, sleeps, and tells the man in the morning that he still
+    has not learned to shudder.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 781-789
+  quote_or_summary: The youth continues muttering that he wants to shudder; a waggoner
+    questions him about his identity and origin, and the youth answers that he does
+    not know or may not tell.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: summary
+  locator: lines 790-797
+  quote_or_summary: The waggoner brings the youth to an inn; the host says the inn
+    may offer a chance to shudder, and the hostess warns that many inquisitive persons
+    have lost their lives.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are passage-level candidates only. No comparison claims were generated because
+    the excerpt itself does not establish a cross-text or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references are limited to supplied motif families and symbols where directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l746-l797
+  passage_sha256=011c19b3f3906c979d8c1a0561c9e2b240b7e828519362d5c1a379ffd7cfbf7b
+

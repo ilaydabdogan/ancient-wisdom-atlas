@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l1651-l1672
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: 'ABORIGINAL TRIBES OF GUIANA. 27 / THE LEGENDS. / * # * # / NOTE TO ARAWIDI.;
+    lines 1651-1672'
+  start: '1651'
+  end: '1672'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes tales of others' fate being performed with song and
+    dance during a feast that lasts to the third day. A note to Arawidi explains that
+    the broader chain of legends gives mythical origins for peculiarities of Guiana
+    animals in connection with deeds of heroic figures in national folklore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tales are told about the fate of others described as “Wild children of the
+    sun.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Song and dance accompany the telling of the tales until late in the evening.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the third day of the feast ends, drink and dancing have ceased, but the
+    legends are still scarcely finished.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note states that one apparent object of the chain of legends is to give
+    mythical origins for peculiarities of various animals of Guiana.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note connects those animal peculiarities with deeds of heroic personages
+    from national folklore.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage identifies the note as belonging to Arawidi and refers to the
+    foregoing tale of Arawidi.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: others / Wild children of the sun
+  description: A collective group whose fate is the subject of tales in the feast-performance
+    frame.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: various animals of Guiana
+  description: Animals whose peculiarities are said to receive mythical origins in
+    the chain of legends.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: heroic personages of national folklore
+  description: Heroic figures whose deeds are connected with the animal peculiarities
+    explained by the legends.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Arawidi
+  description: Named in the note title and as the subject of the foregoing tale.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: subjects of narrated fate
+  assigned_to:
+  - fig:1
+  basis: The stanza says tales were told of their fate.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animals whose traits are explained
+  assigned_to:
+  - fig:2
+  basis: The note says the legends give mythical origins for animal peculiarities.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: heroic deed-doers
+  assigned_to:
+  - fig:3
+  basis: The note connects animal peculiarities with deeds of heroic personages.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: named subject of foregoing tale
+  assigned_to:
+  - fig:4
+  basis: The passage labels the note as to Arawidi and refers to the foregoing tale
+    of Arawidi.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: solar image
+  literal_form: sun in the phrase “Wild children of the sun”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Feast-time legend performance
+  summary: Tales are performed with song and dance, continuing until the feast reaches
+    its third day and the dancing ceases.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Editorial note on the legend chain
+  summary: The note explains that the broader chain of legends accounts for animal
+    peculiarities in Guiana through the deeds of heroic folklore figures and associates
+    this explanation with Arawidi.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: communal legend-telling during a feast
+  taxonomy_refs: []
+  basis: The passage describes tales told with song and dance during a feast that
+    reaches its third day while the legends remain unfinished.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a performance-frame motif rather than the plot of a single legend.
+- id: motif:2
+  label: mythical origin of animal peculiarities
+  taxonomy_refs: []
+  basis: The note explicitly says the legend chain gives mythical origins for peculiarities
+    of Guiana animals.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The supplied passage does not provide the specific animal traits, and
+    the text ends mid-word.
+- id: motif:3
+  label: heroic deeds as etiological cause
+  taxonomy_refs:
+  - culture_hero
+  basis: Animal peculiarities are said to be connected with deeds of heroic personages
+    of national folklore.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage says “heroic personages,” not explicitly “culture heroes,”
+    and gives no specific deed in the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The note places Arawidi within a broader Guiana chain of legends that share
+    an etiological function: explaining peculiarities of animals.'
+  claim_level: same_function
+  target: the great chain of Guiana animal-peculiarity origin legends mentioned in
+    the note
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No individual parallel legend from the chain is named in the supplied
+    passage, and the excerpt ends mid-word.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1653-1658
+  quote_or_summary: "“Then tales were told of others' fate / (Wild children of the
+    sun), / With song and dance, till evening late”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1659-1662
+  quote_or_summary: The feast closes on the third day; drink and dancing have ceased,
+    yet the legends are scarcely done.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 1666-1669
+  quote_or_summary: The note says the legends give “a mythical origin to the peculiarities
+    of the various animals of Guiana.”
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 1668-1669
+  quote_or_summary: The animal peculiarities are described as being “in connection
+    with the deeds of the heroic personages of their national folk-lore.”
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1664, 1671-1672
+  quote_or_summary: The section is headed “NOTE TO ARAWIDI,” and the note refers to
+    the “foregoing tale of Arawidi” before the excerpt breaks off.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; summarized with brief title reference from supplied
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and partly editorial; the final line is truncated, so
+    details about the Arawidi tale and the alligator reference are not available in
+    the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy assignment to culture_hero is cautious because the passage uses the wording “heroic personages” rather than a formal culture-hero category.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l1651-l1672
+  passage_sha256=1c14e58b1dd751aba9f2979cc3d9b3e15ce6a95556df0fc27979362abc6b8820
+

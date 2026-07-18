@@ -1,0 +1,551 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l23647-l23727
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 23647-23727
+  start: '23647'
+  end: '23727'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A drummer obtains a wish-transport saddle by tricking two disputants and
+    reaches the glass-mountain. There he finds an old stone house, a pond, and a dark
+    forest. An old woman grants him lodging and food in exchange for three services,
+    then imposes difficult tasks. A maiden from the house repeatedly brings him food,
+    has him sleep with his head in her lap, and uses a wishing-ring to complete the
+    pond-and-fish task and the forest-cutting task. She instructs him to answer the
+    old woman by throwing an isolated fish in her face and later by using a remaining
+    bough against her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two men struggle over a saddle lying on the ground, and one explains that
+    whoever sits on it and wishes to be anywhere is transported there instantly.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The drummer proposes a race to a white rod as a way to decide the saddle dispute,
+    then mounts the saddle himself and wishes to be on the glass-mountain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On the top of the mountain there is a plain with an old stone house, a large
+    fish-pond in front, and a dark forest behind; the place is quiet except for wind
+    and nearby clouds.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An old woman with a brown face, red eyes, spectacles, and a long nose opens
+    the house and offers entrance, food, and a bed if the drummer performs three services.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The first service is to empty the pond with a thimble before night and arrange
+    all fishes by kind and size; the drummer works in vain and gives up at noon.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A beautiful maiden brings food, tells the drummer to sleep with his head in
+    her lap, turns a wishing-ring, and commands the water and fishes so that the pond
+    task is completed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The maiden warns that one fish lies alone and tells the drummer to throw it
+    in the old woman's face if questioned; in the evening he does so, while the old
+    woman remains silent and looks at him maliciously.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The second service is to hew down the whole forest, split the wood, and pile
+    it by evening; the old woman provides a lead axe and tin mallet and wedges, which
+    fail when used.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The maiden again has the drummer sleep, turns the wishing-ring, and the forest
+    falls, splits, and arranges itself as if unseen giants were doing the work.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: After the second task is completed, one bough remains; the maiden instructs
+    the drummer to strike the old woman with it if she asks, and the old woman returns
+    and asks about the remaining bough.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the drummer
+  description: Male traveler who intervenes in the saddle dispute, rides to the glass-mountain,
+    accepts the old woman's terms, attempts the tasks, and receives help from the
+    maiden.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: two men disputing the saddle
+  description: Two men struggling over a shared magical saddle and arguing over whose
+    turn it is to ride.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old woman / witch
+  description: Old woman with brown face, red eyes, spectacles, and long nose; she
+    hosts the drummer in exchange for three services, imposes difficult tasks, and
+    is called an old witch in the maiden's instructed replies.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: the maiden
+  description: Wondrously beautiful maiden from the house who brings food, comforts
+    the drummer, uses a wishing-ring to complete his tasks, and tells him how to answer
+    the old woman.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: questing protagonist
+  assigned_to:
+  - fig:1
+  basis: The drummer says he came to seek a king's daughter and continues through
+    the glass-mountain episode by undertaking services.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: deceptive arbitrator and rider
+  assigned_to:
+  - fig:1
+  basis: He offers to decide the saddle dispute with a race, then mounts the saddle
+    himself and uses it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: saddle disputants
+  assigned_to:
+  - fig:2
+  basis: They struggle over the saddle, which one says belongs to them in common.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: host and task-giver
+  assigned_to:
+  - fig:3
+  basis: She grants entrance, food, and bed in exchange for three services and assigns
+    the pond and forest tasks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:5
+  label: witch-adversary
+  assigned_to:
+  - fig:3
+  basis: The maiden's instructed replies call her an old witch; she sets severe tasks
+    and looks at the drummer maliciously after the fish is thrown.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: magical helper
+  assigned_to:
+  - fig:4
+  basis: She comforts the drummer, has him sleep, turns a wishing-ring, completes
+    the impossible tasks, and gives instructions for confronting the old woman.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: wish-transport saddle
+  literal_form: A saddle on which the rider can wish himself to any place and arrive
+    instantly.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white rod goal
+  literal_form: A white rod stuck in the ground as the race goal proposed by the drummer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: glass-mountain
+  literal_form: The mountain to which the drummer wishes himself; its top has a plain,
+    house, pond, and forest.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: old stone house
+  literal_form: An old stone house on the mountaintop plain.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: fish-pond and water
+  literal_form: A large fish-pond whose water must be emptied and whose fishes must
+    be sorted.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: thimble for emptying pond
+  literal_form: A thimble given to the drummer as the tool for emptying the pond.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: wishing-ring
+  literal_form: A ring turned by the maiden to command the water, fishes, and forest
+    work.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:8
+  label: dark forest, wood, and remaining bough
+  literal_form: The dark forest behind the house, the wood to be split and piled,
+    and one bough left after the magical work.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:9
+  label: lead and tin tools
+  literal_form: A lead axe and tin mallet and wedges that bend or lose shape when
+    used for the forest task.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: isolated fish
+  literal_form: One fish left lying apart from the sorted fishes, later thrown in
+    the old woman's face.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Saddle dispute and magical journey
+  summary: The drummer finds two men fighting over a magical saddle, sets up a race
+    as arbitration, takes the saddle, and wishes himself to the glass-mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at the glass-mountain house
+  summary: The drummer arrives on the mountaintop plain with an old house, pond, and
+    forest, then meets an old woman who offers lodging in exchange for three services.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First impossible service at the pond
+  summary: The old woman orders the drummer to empty the pond with a thimble and sort
+    the fishes; after he cannot succeed, the maiden uses a wishing-ring while he sleeps
+    to complete the task.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Question about the isolated fish
+  summary: The maiden tells the drummer how to answer the expected question about
+    the lone fish; when the old woman asks, he throws the fish in her face and she
+    looks at him maliciously.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Second impossible service in the forest
+  summary: The old woman orders the whole forest cut, split, and piled using inadequate
+    tools; the maiden again uses the wishing-ring while the drummer sleeps, and the
+    work completes itself as if by unseen giants.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Question about the remaining bough
+  summary: After the forest task, one bough remains; the maiden gives the drummer
+    an answer involving that bough, and the old woman returns and asks why it is left.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wish-powered magical conveyance
+  taxonomy_refs: []
+  basis: The saddle transports whoever sits on it to any wished place instantly, and
+    the drummer uses it to reach the glass-mountain.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the object's function but no broader comparative framing.
+- id: motif:2
+  label: trickster acquisition through false arbitration
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The drummer appears to settle the quarrel by proposing a race to a goal,
+    then seizes the opportunity to mount the saddle and depart.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The trickster taxonomy reference is interpretive; the passage itself narrates
+    the deception without labeling it as a trickster episode.
+- id: motif:3
+  label: quest to remote glass-mountain dwelling
+  taxonomy_refs:
+  - mystical_quest
+  basis: The drummer travels by magical means to the glass-mountain and says he came
+    to seek a king's daughter believed to dwell there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not confirm the king's daughter's identity or complete
+    the quest.
+- id: motif:4
+  label: series of impossible services
+  taxonomy_refs:
+  - initiation
+  basis: The old woman requires three services; the first two shown are extreme tasks
+    involving emptying a pond with a thimble and felling an entire forest with failing
+    tools.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: Only two of the three services appear in this passage; the initiation
+    taxonomy reference is broad.
+- id: motif:5
+  label: magical helper completes impossible tasks while hero sleeps
+  taxonomy_refs: []
+  basis: For both tasks, the maiden tells the drummer to sleep with his head in her
+    lap, turns a wishing-ring, and completes the work by magical command.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the maiden's origin or the source of the
+    ring's power.
+- id: motif:6
+  label: leftover object used against the witch
+  taxonomy_refs: []
+  basis: 'The maiden instructs the drummer to use the anomalous leftover from the
+    completed task against the old woman: first an isolated fish, and then a remaining
+    bough; the fish action occurs in the excerpt.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The bough action is only instructed and prompted in this excerpt; the
+    actual blow is not included in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23647-23660
+  quote_or_summary: The drummer encounters two men fighting over a shared saddle;
+    one says it carries its rider instantly to any wished place. The drummer sets
+    a race goal with a white rod, then mounts the saddle and wishes himself to the
+    glass-mountain.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 23661-23672
+  quote_or_summary: At the top of the glass-mountain is a plain with an old stone
+    house, a fish-pond, and a dark forest. An old woman with brown face, red eyes,
+    spectacles, and long nose opens the door and offers entrance, food, and bed in
+    exchange for three services.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 23673-23684
+  quote_or_summary: The old woman gives the drummer a thimble and orders him to empty
+    the pond before night and sort all fishes by kind and size. He bails all morning
+    but realizes the task is useless and stops.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 23685-23700
+  quote_or_summary: A beautiful maiden brings food, hears that the drummer seeks a
+    king's daughter, tells him to sleep with his head in her lap, turns a wishing-ring,
+    and commands the water and fishes. The water rises like mist, the fishes arrange
+    themselves by size and kind, and she tells him how to answer the old woman about
+    one fish lying alone.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 23701-23705
+  quote_or_summary: In the evening the old woman asks about the lone fish; the drummer
+    throws it in her face. She says nothing but looks at him with malicious eyes.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 23706-23714
+  quote_or_summary: 'The old woman assigns a harder task: cut down the whole forest,
+    split the wood, and pile it by evening. She gives a lead axe and tin mallet and
+    wedges; the axe edge turns back and the other tools are beaten out of shape.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 23715-23724
+  quote_or_summary: At midday the maiden brings dinner, tells the drummer to sleep,
+    turns the wishing-ring, and the whole forest falls, splits, and piles itself as
+    if unseen giants did the work. One bough remains, and she tells him what to do
+    if the old woman asks about it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 23725-23727
+  quote_or_summary: The old woman returns, remarks how easy the work was, and asks
+    for whom the remaining bough has been left.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidate-level and some taxonomy mappings are broad. No comparison claims
+    are made because the passage itself provides no comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used. The old woman is called a witch only within the maiden's instructed speech and related narrative context.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l23647-l23727
+  passage_sha256=847699b439f6074aff6266112afead1a99bca1865f9cc293dff20ccd83b8454e
+

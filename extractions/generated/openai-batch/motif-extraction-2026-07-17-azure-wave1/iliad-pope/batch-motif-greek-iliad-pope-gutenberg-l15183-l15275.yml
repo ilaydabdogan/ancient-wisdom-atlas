@@ -1,0 +1,477 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l15183-l15275
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: JUNO DECEIVES JUPITER BY THE GIRDLE OF VENUS. / BOOK XV. / ARGUMENT. / THE
+    FIFTH BATTLE AT THE SHIPS; AND THE ACTS OF AJAX.; lines 15183-15275
+  start: '15183'
+  end: '15275'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: During the battle at the Greek ships, Hector advances with Trojan forces
+    under Jove's encouragement, seizes the stern of the ship associated with dead
+    Protesilaus, and orders flames brought to burn the fleet. Ajax stands near the
+    ships, exhorts the Greeks by stressing that no retreat or aid remains, and kills
+    twelve Trojans who approach with flaming brands.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ajax moves swiftly from ship to ship during the fighting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hector threatens loudly, advances before the Trojan crowd, and attacks the
+    beached ships.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage compares Hector's rush to a strong eagle descending from height
+    upon swans or cranes near water.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Jove leads Hector on and inspires the following band with fierce spirits.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Greek and Trojan forces fight at the ship prows; the Greeks continue from
+    despair, while Troy hopes to see the ships burning and heroes slain.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hector is the first to seize a ship on the contested strand, identified as
+    the same ship that bore dead Protesilaus and first touched the Trojan shore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The fighting is hand-to-hand with falchions, axes, swords, shortened darts,
+    shields, and blood on the shore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hector grasps the high stern of a ship and commands the warriors to bring
+    flames against the hostile fleet.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Hector says Jove had delayed the Trojans before but now calls them to arms
+    with thunder and supports their fires.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Ajax pauses under dense javelin fire, stands near the oars, defends his naval
+    charge, and encourages the Greeks amid attacks, deaths, darts, and fires.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Ajax tells the Greeks that they have no aid, no bulwarks, no nearby city,
+    the Trojans before them, and the deep behind them.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Ajax kills Trojan warriors who come against the ships with flaming brands;
+    twelve fall and are described as sent to the shades of hell.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ajax
+  description: Greek warrior defending the ships, moving among them, exhorting the
+    Greeks, and killing attackers who approach with flaming brands.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Hector
+  description: Trojan leader who advances against the ships, seizes a stern, and orders
+    flames brought to burn the fleet.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Jove
+  description: Divine figure described as leading Hector, inspiring his followers,
+    calling with thunder, and supporting Trojan fires.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Greeks / Grecian band
+  description: The defenders at the ships, fighting despite despair and exhorted by
+    Ajax to hold their position.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Trojans / Trojan warriors
+  description: The attacking force following Hector, pressing the Greeks, and approaching
+    the ships with flaming brands.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Protesilaus
+  description: Dead Greek hero associated with the ship seized by Hector; the ship
+    is said to have borne him and to have first touched the Trojan shore.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ship defender
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Ajax and the Greeks defend the Greek ships against Trojan assault.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: ship assailant
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Hector and Trojan warriors attack the ships and try to burn them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:3
+  label: divine supporter of the assault
+  assigned_to:
+  - fig:3
+  basis: Jove is described as leading Hector, inspiring his band, calling with thunder,
+    and supporting fires.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: battle commander or exhorter
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hector commands the Trojans to bring flames; Ajax exhorts the Greeks to defend
+    the ships.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: opposed battle force
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Greeks and Trojans meet in close combat at the ships.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: dead hero linked to contested ship
+  assigned_to:
+  - fig:6
+  basis: The ship seized by Hector is identified through its earlier association with
+    dead Protesilaus.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Greek ships
+  literal_form: beached ships, beaky prows, high stern, oars, sable ships
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: destructive fire
+  literal_form: flames, blaze, fires, flaming brands
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: sea boundary
+  literal_form: main, flood, deep
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: predatory eagle simile
+  literal_form: strong eagle stooping from airy height on swans or cranes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Jove's thunder
+  literal_form: peals of thunder calling to arms
+  associated_figures:
+  - fig:3
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Divinely encouraged Trojan advance on the ships
+  summary: Hector advances against the Greek ships before the Trojan crowd, while
+    Jove is said to lead him and inspire the following force.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seizure of Protesilaus's ship and close combat
+  summary: Hector seizes the stern of the ship associated with Protesilaus, and both
+    sides fight hand-to-hand on the bloody shore.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hector's order to burn the Greek fleet
+  summary: Holding the stern, Hector orders the Trojans to bring flames and frames
+    the moment as one favored by Jove.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ajax's last defense and exhortation
+  summary: Ajax stands near the oars under missile fire, defends the ships, and tells
+    the Greeks that no retreat or outside help remains.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Ajax kills the fire-bearers
+  summary: Ajax turns his javelin against Trojans who approach the ships with flaming
+    brands, killing twelve attackers.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divinely aided warrior assault
+  taxonomy_refs: []
+  basis: Hector's attack is explicitly supported by Jove, who leads him, inspires
+    his followers, calls with thunder, and supports Trojan fires.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The available motif-family list does not include a specific divine-aid-in-battle
+    category, so no taxonomy family is assigned.
+- id: motif:2
+  label: fire attack on defended ships
+  taxonomy_refs: []
+  basis: Trojans hope to see the fleet ablaze, Hector orders flames brought, and warriors
+    approach the ships with flaming brands.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: This is a martial destruction motif in the passage, not a world-destroying
+    or sacrificial fire motif.
+- id: motif:3
+  label: last stand at the sea boundary
+  taxonomy_refs: []
+  basis: 'Ajax frames the Greeks'' position as an utmost strait: Trojans stand before
+    them, the deep is behind them, and there are no aids, bulwarks, friends, or city
+    nearby.'
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives a battlefield exhortation rather than a formal initiation,
+    descent, or journey pattern.
+- id: motif:4
+  label: predatory bird image for warrior assault
+  taxonomy_refs: []
+  basis: The passage likens the assault to an eagle stooping from height upon swans
+    or cranes near water.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an explicit poetic simile within the passage; broader cross-textual
+    significance is not established here.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself creates a visual comparison between Hector's assault and
+    a predatory eagle descending on water birds.
+  claim_level: visual_similarity
+  target: predatory-bird image for a warrior attack
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile, not evidence by itself for historical contact,
+    common inheritance, or a broader comparative mythology relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15183-15196
+  quote_or_summary: Ajax moves among ships; Hector advances against the ships; the
+    assault is compared to an eagle descending on swans or cranes; Jove leads him
+    and inspires his band.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:2
+  type: summary
+  locator: 15197-15210
+  quote_or_summary: The battle roars at the ship prows; Greeks fight from despair,
+    while Troy hopes for the fleet to blaze and heroes to fall.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:3
+  type: summary
+  locator: 15211-15225
+  quote_or_summary: Hector seizes the ship associated with dead Protesilaus; the armies
+    fight hand-to-hand with weapons and blood on the shore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:4
+  type: summary
+  locator: 15226-15238
+  quote_or_summary: Hector grasps the stern and commands flames to be brought; he
+    says Jove now calls with thunder and supports Trojan fires.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:5
+  type: summary
+  locator: 15239-15249
+  quote_or_summary: Trojan warriors intensify the attack; Ajax stands near the oars,
+    defends the ships, and encourages the Greeks amid darts and fires.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:6
+  type: quote
+  locator: 15250-15262
+  quote_or_summary: '"There stand the Trojans, and here rolls the deep." Ajax says
+    the Greeks have no aid, bulwark, friend, or city to defend them.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: summary
+  locator: 15263-15272
+  quote_or_summary: Ajax kills Trojans who come against the ships with flaming brands;
+    twelve of the boldest fall and are described as sent to the shades of hell.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for concise extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actors and battlefield actions are explicit. Motif labels are descriptive
+    and not mapped to motif-family taxonomy because the available families do not
+    closely match the passage-level war patterns. The final illustration caption naming
+    Castor and Pollux is not treated as a motif because no narrative context is supplied
+    in this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Literal observations are separated from motif and comparison interpretation.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l15183-l15275
+  passage_sha256=f1d7a83750d983dcae10bad1f115ed9607867279433fb77aaa415c32ab1b68a6
+

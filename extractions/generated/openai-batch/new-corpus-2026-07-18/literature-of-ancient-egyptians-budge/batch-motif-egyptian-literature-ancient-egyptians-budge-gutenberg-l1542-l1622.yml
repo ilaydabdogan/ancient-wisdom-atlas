@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l1542-l1622
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: THE MAGICIAN TETA WHO RESTORED LIFE TO DEAD ANIMALS, ETC. / THE STORY OF
+    RUT-TETET AND THE THREE SONS OF RA / CHAPTER IV / THE BOOK OF THE DEAD; lines
+    1542-1622
+  start: '1542'
+  end: '1622'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes the textual history and physical forms of the Egyptian
+    Book of the Dead, describes how copies were placed with the deceased, and explains
+    its religious purpose: to equip the dead with spells, prayers, charms, words of
+    power, and amulets needed to traverse the dangerous Tuat, reach the Elysian Fields,
+    and join the subjects of Osiris.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chapters of the Book of the Dead are said to have been written in several
+    Egyptian towns, including Khemenu, Anu or Heliopolis, Busiris, and other Delta
+    towns.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many chapters of an eleventh- and twelfth-dynasty recension are described
+    as written in cursive hieroglyphs on wooden sarcophagi.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: From the beginning of the eighteenth dynasty, the Book of the Dead was commonly
+    written on papyrus rolls laid with the dead in coffins rather than written on
+    coffins themselves.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Theban Recension is described as written in black ink in vertical hieroglyphic
+    columns, with chapter titles, opening words, and rubrics in red ink.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Brightly painted vignettes were added to chapters around the middle of the
+    eighteenth dynasty and are said to sometimes explain obscure parts of the text.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Later copies included hieratic manuscripts, the Saite Recension, condensed
+    priestly works, and eventually very abbreviated texts on small scraps of papyrus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Papyrus rolls containing the Book of the Dead were placed in niches in mummy
+    chambers, in coffins near the deceased body, or inside hollow wooden divine figures
+    or their pedestals.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Egyptians believed that souls leaving this world had to traverse the Tuat
+    before reaching the Elysian Fields and appearing before Osiris.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Tuat is described as a vast, difficult, roadless region inhabited by gods,
+    devils, fiends, demons, spirits, wicked souls, snakes, serpents, savage animals,
+    and monsters.
+  category: setting
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: Souls were believed to need spells, incantations, prayers, charms, words of
+    power, and amulets in order to reach the Kingdom of Osiris.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Spells and incantations are said to be used against hostile beings; prayers,
+    charms, and words of power to gain help from powerful beings; and amulets to give
+    the soul strength, power, will, and knowledge.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The stated object of the Book of the Dead is to provide the dead with ritual
+    resources so that the dead person can overcome the Tuat and reach Sekhet Aaru
+    and Sekhet Hetep among the subjects of Osiris.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The passage says that Egyptians continued using older chapters even after
+    beliefs changed and that the work reflects religious beliefs from many periods.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: souls of the dead
+  description: The souls leaving this world and traveling through the Tuat toward
+    the Elysian Fields and Osiris.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: dead man or deceased
+  description: The deceased person with whom the Book of the Dead could be placed
+    and for whom its spells, prayers, and amulets were supplied.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: Osiris
+  description: The god in whose presence the dead hope to appear and among whose subjects
+    the dead person hopes to take a place in the Land of Everlasting Life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: inhabitants of the Tuat
+  description: Gods, devils, fiends, demons, good spirits, bad spirits, wicked souls,
+    snakes, serpents, savage animals, and monsters inhabiting the Tuat.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Egyptians
+  description: The people whose beliefs about the dead, the Tuat, and the Book of
+    the Dead are summarized in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:6
+  name_or_label: priests
+  description: Priests in the Ptolemaic and Roman periods are described as composing
+    condensed works based on the Book of the Dead.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: afterlife traveler
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The souls of the dead and the deceased are described as needing to traverse
+    the Tuat and reach the Elysian Fields and Osiris.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:2
+  label: lord of the destination realm
+  assigned_to:
+  - fig:3
+  basis: The dead are to appear before Osiris and take a place among his subjects
+    in the Land of Everlasting Life.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:3
+  label: dangerous beings of the underworld route
+  assigned_to:
+  - fig:4
+  basis: The Tuat is inhabited by devils, fiends, demons, bad spirits, snakes, serpents,
+    savage animals, and monsters; hostile beings require bewitchment by spells.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:4
+  label: potential helper beings
+  assigned_to:
+  - fig:4
+  basis: Some powerful beings can be made to help the soul on its journey through
+    prayers, charms, and words of power.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: belief community
+  assigned_to:
+  - fig:5
+  basis: The passage repeatedly frames the described afterlife journey and ritual
+    equipment as Egyptian belief and practice.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: role:6
+  label: condensers of funerary texts
+  assigned_to:
+  - fig:6
+  basis: Priests are said to have composed small works based on the Book of the Dead
+    in later periods.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Book of the Dead papyrus roll
+  literal_form: papyrus roll containing the Book of the Dead
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: amulets
+  literal_form: amulets equipped with the dead soul
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: spells and words of power
+  literal_form: spells, incantations, prayers, charms, and words of power
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: Tuat
+  literal_form: vast, difficult, roadless region traversed by souls of the dead
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: Elysian Fields
+  literal_form: Sekhet Aaru and Sekhet Hetep, called the Elysian Fields
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:6
+  label: serpents of the Tuat
+  literal_form: snakes and serpents among the beings in the Tuat
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: hollow wooden divine figure
+  literal_form: hollow wooden figures of Osiris or Ptah-Seker-Osiris, or hollow pedestals
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Textual transmission and changing manuscript form
+  summary: The Book of the Dead is described as moving through different recensions
+    and physical forms, including coffin inscriptions, papyrus rolls, hieroglyphic
+    and hieratic copies, condensed derivative works, and abbreviated papyrus scraps.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Placement of funerary papyrus with the deceased
+  summary: Papyrus rolls containing the Book of the Dead are placed in a mummy chamber
+    niche, in the coffin beside or near the deceased, or inside hollow divine figures
+    or pedestals.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Soul’s passage through the Tuat
+  summary: The soul leaves this world and must traverse the difficult, roadless Tuat,
+    which is inhabited by many divine, demonic, animal, and monstrous beings, before
+    reaching the Elysian Fields and Osiris.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Ritual equipment for overcoming the Tuat
+  summary: The dead person is equipped by the Book of the Dead with spells, incantations,
+    prayers, charms, words of power, and amulets that help overcome hostile beings,
+    obtain help, and reach the realm of Osiris.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: perilous afterlife journey through a mapped otherworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The dead soul must traverse the Tuat, a dangerous roadless region filled
+    with beings and monsters, before reaching the Elysian Fields and Osiris.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage gives a general religious explanation rather than a single
+    narrative episode.
+- id: motif:2
+  label: ritual text as guide and protection for the dead
+  taxonomy_refs:
+  - wisdom
+  basis: The Book of the Dead is explicitly said to provide spells, prayers, words
+    of power, charms, and amulets necessary for the dead to overcome the Tuat and
+    attain the realm of Osiris.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The available taxonomy has no exact label for funerary spellbook or protective
+    ritual manual; 'wisdom' is used only for the text’s knowledge-providing function.
+- id: motif:3
+  label: attainment of everlasting life after death
+  taxonomy_refs:
+  - death_rebirth
+  basis: The dead person seeks to reach Sekhet Aaru and Sekhet Hetep and take a place
+    among the subjects of Osiris in the Land of Everlasting Life.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage states salvation and everlasting life but does not narrate
+    a literal rebirth scene.
+- id: motif:4
+  label: serpentine dangers in the underworld
+  taxonomy_refs:
+  - serpent
+  basis: Snakes and serpents are included among the dangerous inhabitants of the Tuat
+    through which the dead must pass.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Serpents are listed among many beings and are not developed as the central
+    focus of the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1542-1549
+  quote_or_summary: Chapters are associated with Khemenu, Anu or Heliopolis, Busiris,
+    and Delta towns; eleventh- and twelfth-dynasty chapters are described on wooden
+    sarcophagi.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1550-1561
+  quote_or_summary: Beginning in the eighteenth dynasty, the text was written on papyrus
+    rolls placed with the dead; the Theban Recension is described with black hieroglyphic
+    columns and red titles, opening words, and rubrics.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1562-1573
+  quote_or_summary: Brightly colored vignettes were added around the middle of the
+    eighteenth dynasty; later hieratic copies with outlined vignettes replaced hieroglyphic
+    copies.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1574-1585
+  quote_or_summary: The Saite Recension arose about 600 B.C.; later Ptolemaic and
+    Roman priestly works condensed the Book of the Dead, followed by even more abbreviated
+    papyrus texts.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1587-1591
+  quote_or_summary: Papyrus rolls were placed in a mummy chamber niche, in the coffin
+    near the deceased body, or inside hollow figures of Osiris or Ptah-Seker-Osiris
+    or their hollow pedestals.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1593-1599
+  quote_or_summary: Souls of the dead must traverse the Tuat, inhabited by divine,
+    demonic, spiritual, animal, serpentine, and monstrous beings, before reaching
+    the Elysian Fields and Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1599-1606
+  quote_or_summary: The Tuat is compared to roadless African bush; souls need spells,
+    incantations, prayers, charms, words of power, and amulets to reach the Kingdom
+    of Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 1606-1613
+  quote_or_summary: Spells and incantations bewitch hostile beings; prayers, charms,
+    and words of power gain help from powerful beings; amulets give the soul strength,
+    power, will, and knowledge.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 1615-1620
+  quote_or_summary: The object of the Book of the Dead is to equip the dead person
+    to overcome the dangers of the Tuat, reach Sekhet Aaru and Sekhet Hetep, and join
+    Osiris’s subjects in the Land of Everlasting Life.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 1620-1622
+  quote_or_summary: The passage says Egyptians did not update older chapters despite
+    changed beliefs and that the work reflects religious beliefs across many periods.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is expository and provides clear evidence for afterlife-journey
+    and funerary-protection motifs. Motif labels beyond afterlife journey are more
+    interpretive because the taxonomy lacks exact categories for funerary spellbooks
+    and mortuary textual equipment. No comparison claims were made because the passage
+    itself does not compare the material to another tradition or motif family beyond
+    the supplied taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All claims are based only on the supplied passage and metadata; comparison_claims left empty because no passage-supported external comparison is present.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l1542-l1622
+  passage_sha256=58d8d8302fef742ad2683e62152a3e575ae9140330e83e3310d127d7a94f2091
+

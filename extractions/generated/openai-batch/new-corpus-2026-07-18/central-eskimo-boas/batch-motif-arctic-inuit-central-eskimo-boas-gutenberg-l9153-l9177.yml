@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9153-l9177
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE UISSUIT. / KIVIUNG. / ORIGIN OF THE NARWHAL. / THE VISITOR.; lines 9153-9177
+  start: '9153'
+  end: '9177'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A malicious old witch envies the hosts of a visiting hunter and angakoq.
+    She prepares a poisonous soup of wolf and human brains and sends her grandson
+    to invite the visitor, warning him not to reveal the ingredients. The boy repeats
+    the warning and thereby reveals them. The visitor understands the plot, eats while
+    his tornaq causes the soup to pass through him into a vessel, then compels the
+    witch to eat the soup; she dies at the first spoonful.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old hag lives in a house with her grandson and is described as a bad woman,
+    a witch, and someone who tries to harm people by witchcraft.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A stranger visits friends in a nearby hut and obtains plenty of food for them
+    as a good hunter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old woman envies the hosts and decides to kill the newcomer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old woman prepares a soup of wolf's and man's brains, described as the
+    most poisonous meal she could prepare.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old woman sends her grandson to invite the stranger and cautions him not
+    to say what she has cooked.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The old woman knows the visitor is a great angakoq and superior to her in
+    wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The grandson invites the stranger and, while saying he does not say it, reveals
+    that the food is made of man's and wolf's brains.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The angakoq understands the old woman's scheme but follows the boy and sits
+    down with her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The old woman feigns gladness and gives the visitor a dish full of soup.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: With the help of his tornaq, the food falls through the visitor into a vessel
+    placed between his feet.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The visitor gives the soup to the old witch and compels her to eat it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The old witch dies as soon as she brings the first spoonful to her mouth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: old hag / old woman / grandmother
+  description: A bad woman and witch who lives with her grandson, envies the visitor's
+    hosts, prepares poison, and dies after being compelled to taste it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: grandson / boy
+  description: The old woman's grandson, sent to invite the stranger; his invitation
+    reveals the concealed ingredients of the soup.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: stranger / visitor / angakoq
+  description: A visiting hunter who procures food for his hosts, is recognized as
+    a great angakoq superior in wisdom, understands the plot, and counters the poison
+    with help from his tornaq.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: friends / hosts in neighboring hut
+  description: Friends visited by the stranger; they receive plenty of food from him
+    and become the object of the old woman's envy.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: tornaq
+  description: The visitor's tornaq, by whose help the food falls through him into
+    a vessel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: witchcraft antagonist
+  assigned_to:
+  - fig:1
+  basis: The woman is called a witch who tries to harm everybody by witchcraft and
+    plots to kill the visitor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: poisoning host
+  assigned_to:
+  - fig:1
+  basis: She prepares poisonous soup, invites the stranger, feigns gladness, and serves
+    the dish to him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: messenger who reveals the hidden danger
+  assigned_to:
+  - fig:2
+  basis: The grandson carries the invitation and discloses the forbidden information
+    about the soup's ingredients.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: visiting hunter and intended victim
+  assigned_to:
+  - fig:3
+  basis: The stranger procures food for his hosts and becomes the target of the old
+    woman's plan to kill him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: wise angakoq who counters the plot
+  assigned_to:
+  - fig:3
+  basis: He is identified as a great angakoq superior in wisdom, understands the scheme,
+    and causes the poison to pass harmlessly into a vessel.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: hosts benefited by the visitor
+  assigned_to:
+  - fig:4
+  basis: The visitor stays with friends nearby and provides plenty of food for them.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: protective helper
+  assigned_to:
+  - fig:5
+  basis: The visitor's tornaq helps make the food fall through him into a vessel.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: poison soup
+  literal_form: A soup made of wolf's and man's brains, described as the most poisonous
+    meal the old woman could prepare.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: wolf and human brains
+  literal_form: The ingredients named in the poisoned soup.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: vessel between the feet
+  literal_form: A vessel placed between the visitor's feet on the hut floor to receive
+    the food that falls through him.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: tornaq assistance
+  literal_form: The visitor's tornaq helps divert the poisoned food through his body
+    into a vessel.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: neighboring huts
+  literal_form: The old woman's dwelling and the nearby hut where the stranger visits
+    friends.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Envy and poisoned invitation
+  summary: The old witch envies the visitor's hosts, prepares a poisonous soup of
+    wolf and human brains, and sends her grandson to invite the visitor while warning
+    him not to disclose the food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The messenger reveals the ingredients
+  summary: The grandson invites the stranger to a feast and states the forbidden information,
+    revealing that the soup contains man's and wolf's brains.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The poison is reversed
+  summary: The angakoq understands the plot, accepts the dish, uses his tornaq to
+    divert the soup into a vessel, and compels the witch to eat it; she dies immediately
+    upon tasting it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: poisoned hospitality
+  taxonomy_refs: []
+  basis: The old woman invites the visitor to what is presented as a feast but serves
+    a deliberately poisonous soup.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents a deceptive meal, not a formalized hospitality code.
+- id: motif:2
+  label: concealed danger revealed by messenger
+  taxonomy_refs: []
+  basis: The boy is instructed not to disclose the meal's ingredients but repeats
+    the warning in a way that reveals them to the stranger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state whether the revelation is intentional or naive.
+- id: motif:3
+  label: superior wisdom counters witchcraft
+  taxonomy_refs:
+  - wisdom
+  basis: The visitor is identified as a great angakoq superior in wisdom, understands
+    the witch's scheme, and survives through aided counteraction.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy ref is broad; the passage specifically concerns
+    angakoq knowledge and counter-witchcraft.
+- id: motif:4
+  label: poison returned upon the poisoner
+  taxonomy_refs: []
+  basis: The poisoned soup intended for the visitor is diverted into a vessel and
+    then given back to the witch, who is compelled to eat it and dies.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not frame the reversal as moral judgment; that interpretation
+    should not be assumed.
+- id: motif:5
+  label: protective helping power averts ingestion
+  taxonomy_refs: []
+  basis: The visitor's tornaq prevents the food from harming him by causing it to
+    fall through him into a vessel.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names the tornaq but does not further explain its nature within
+    this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9153-9160
+  quote_or_summary: An old hag lives with her grandson, is described as a malicious
+    witch, and a stranger visits nearby friends, providing them with food as a good
+    hunter.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 9160-9168
+  quote_or_summary: The old woman envies the hosts, plans to kill the newcomer, prepares
+    poisonous soup of wolf's and man's brains, sends her grandson to invite him, and
+    knows the visitor is a great angakoq superior in wisdom.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 9169-9174
+  quote_or_summary: The boy invites the stranger and reveals the supposedly unsaid
+    information that the food is man's and wolf's brains.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 9175-9177
+  quote_or_summary: The angakoq understands the plot, follows the boy, is served soup,
+    uses his tornaq so the food passes into a vessel, gives it to the witch, compels
+    her to eat, and she dies at the first spoonful.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate analytical groupings and should be reviewed, especially taxonomy
+    alignment. No comparison claims are made because the passage itself does not explicitly
+    compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external ethnographic explanation of angakoq or tornaq was added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9153-l9177
+  passage_sha256=69a57d37ee296451d8d7c8b78b317615e584d7e2846e989c08938edd66c54c1a
+

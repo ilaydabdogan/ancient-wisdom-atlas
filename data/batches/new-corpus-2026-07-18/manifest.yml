@@ -2,15 +2,21 @@
 batch_pipeline_manifest_version: '1'
 run_id: new-corpus-2026-07-18
 created_at: '2026-07-18T04:15:43Z'
-updated_at: '2026-07-18T04:15:44Z'
+updated_at: '2026-07-18T07:44:49Z'
 artifacts:
   passages_path: data/batches/new-corpus-2026-07-18/passages.jsonl
   requests_index_path: data/batches/new-corpus-2026-07-18/requests/index.yml
   request_map_path: data/batches/new-corpus-2026-07-18/request-map.jsonl
+  results_dir: data/batches/new-corpus-2026-07-18/results
+  ingested_results_path: data/batches/new-corpus-2026-07-18/ingested-results.jsonl
+  generated_extractions_dir: extractions/generated/openai-batch/new-corpus-2026-07-18
 openai: {}
-state: {}
+state:
+  last_realtime_run_at: '2026-07-18T07:44:05Z'
+  realtime_concurrency: 48
+  last_ingest_at: '2026-07-18T07:44:49Z'
 pipeline: motif_extraction
-status: requests_prepared
+status: results_downloaded
 config:
   segmentation:
     glob:
@@ -81,6 +87,8 @@ counts:
   requests_prepared: 3647
   request_shards: 4
   skipped_ingested_requests: 0
+  ingested_records: 3579
+  failed_ingestions: 12
 source_texts:
 - path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
   source_text_id: african_diaspora.jamaica_anansi_stories.beckwith_gutenberg

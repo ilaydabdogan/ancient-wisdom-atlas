@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l5202-l5237
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XXII. / CHAPTER I. / CHAPTER II. / CHAPTER III.; lines 5202-5237
+  start: '5202'
+  end: '5237'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Astonishes his schoolmaster by his learning.
+  summary: A schoolmaster named Zaccheaus hears the child Jesus speaking to his father,
+    asks Joseph to send him for reading instruction, begins teaching with Aleph, but
+    Jesus recites the letters and then opens a book to teach the prophets. The schoolmaster
+    leaves ashamed, perplexed, and astonished.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A schoolmaster named Zaccheaus hears Jesus speaking to his father.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Zaccheaus is surprised that Jesus, being a child, speaks in this way.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Zaccheaus tells Joseph that he has a wise and sensible child and asks that
+    Jesus be sent to him to learn to read.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Zaccheaus begins teaching Jesus the letters, starting with the first letter
+    Aleph.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jesus pronounces the next named letters and says all the letters through to
+    the end.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Jesus opens a book and teaches his master the prophets.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The master is ashamed, cannot understand how Jesus knows the letters, and
+    goes home greatly surprised.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Jesus
+  description: A child who speaks to his father, is brought for reading instruction,
+    recites the letters, and teaches his master the prophets.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Zaccheaus
+  description: A schoolmaster who hears Jesus, asks Joseph to send him for instruction,
+    begins teaching letters, and is later ashamed and astonished.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Joseph
+  description: Jesus's father, addressed by Zaccheaus about sending the child for
+    instruction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: child with unexpected learning
+  assigned_to:
+  - fig:1
+  basis: Zaccheaus is surprised that Jesus is a child speaking in this way and later
+    cannot conceive how he knows the letters.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: schoolmaster
+  assigned_to:
+  - fig:2
+  basis: Zaccheaus is named as a schoolmaster and begins teaching Jesus the letters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: father addressed about the child
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Jesus speaking to his father and says Zaccheaus came
+    to Joseph to ask that the child be sent to him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: child who teaches the master
+  assigned_to:
+  - fig:1
+  basis: Jesus opens a book and teaches his master the prophets.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: letters
+  literal_form: Aleph; Mpeth (Beth); Cghimel (Gimel); all the letters to the end
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: book
+  literal_form: a book
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prophets
+  literal_form: the prophets
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Zaccheaus hears Jesus and approaches Joseph
+  summary: Zaccheaus hears Jesus speaking to his father, is surprised by the child's
+    speech, and asks Joseph to send him for reading instruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alphabet lesson reversed
+  summary: Zaccheaus begins with Aleph, but Jesus pronounces the following named letters
+    and recites all the letters to the end.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jesus teaches the master the prophets
+  summary: Jesus opens a book and teaches his master the prophets; the master is ashamed,
+    perplexed, and astonished.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: child wisdom surpasses formal instruction
+  taxonomy_refs:
+  - wisdom
+  basis: Jesus is called a wise and sensible child, recites the letters beyond the
+    lesson, and teaches the schoolmaster the prophets.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif label is descriptive; the passage does not explicitly formulate
+    a comparative category.
+- id: motif:2
+  label: precocious or miraculous child astonishes adult teacher
+  taxonomy_refs:
+  - miraculous_child
+  basis: The passage emphasizes that Jesus is a child whose speech and knowledge astonish
+    the schoolmaster, culminating in Jesus teaching the master.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The supplied excerpt presents extraordinary precocity and astonishment
+    but does not explicitly call the event a miracle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER III.1-3; lines 5202-5237
+  quote_or_summary: Zaccheaus, a schoolmaster, hears Jesus speaking to his father,
+    is surprised that a child speaks this way, and asks Joseph to send the wise and
+    sensible child to learn to read.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: CHAPTER III.4-5; lines 5202-5237
+  quote_or_summary: During the reading lesson, Zaccheaus begins with Aleph; Jesus
+    pronounces Beth/Gimel as given in the passage and recites all the letters to the
+    end.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: CHAPTER III.6-7; lines 5202-5237
+  quote_or_summary: Jesus opens a book and teaches his master the prophets; the master
+    is ashamed, cannot conceive how Jesus knows the letters, and goes home greatly
+    surprised.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif classification
+    is cautious because the excerpt emphasizes precocious knowledge but does not explicitly
+    interpret it as miraculous. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No external comparisons or non-supplied taxonomy references were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l5202-l5237
+  passage_sha256=291707c5708e9b9a140e568b1498aed951e44752cbe59658d24f50113d3c8cb8
+

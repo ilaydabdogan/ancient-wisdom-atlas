@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l712-l768
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: THE NIBELUNGENLIED. / THE NIBELUNGENLIED / I. THE NIBELUNGEN SAGA / II. THE
+    NIBELUNGENLIED; lines 712-768
+  start: '712'
+  end: '768'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the manuscript tradition and textual status of the
+    Nibelungenlied, explains the title and shifting application of the name Nibelungen,
+    and summarizes the poem as a remodelling of older Siegfried myth and historical
+    saga material involving the Burgundians and Attila.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Nibelungenlied is said to have enjoyed exceptional popularity among medieval
+    German epic poems, with about thirty complete or fragmentary manuscripts preserved
+    from the centuries after its appearance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Three manuscripts are identified as especially important textual witnesses:
+    Munich, St. Gall, and Donaueschingen, cited as A, B, and C.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The St. Gall manuscript, cited as B, is described as containing the best and
+    most nearly original text, and as the basis for the translation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The title Nibelungenlied is explained as the lay of the Nibelungen, while
+    other manuscript wording is explained as the need, distress, or downfall of the
+    Nibelungen.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the poem title, Nibelungen is said to be equivalent to Burgundians, and
+    the poem is said to relate the downfall of the Burgundian kings and their people.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The name Nibelungen is connected in the passage with nebel, meaning mist or
+    gloom.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The original Nibelungen are described as powers of darkness to whom the light-hero
+    Siegfried fell prey.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After Siegfried obtains possession of the treasure, the name Nibelungen is
+    still applied to Alberich and the dwarfs who guard it and who are then Siegfried's
+    vassals.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After Siegfried's death, the name Nibelungen is given to the Burgundians.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The poem is described as not being a perfect literary unit in its present
+    form, but as a remodelling of material already existing in an earlier form.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage identifies the poem's antecedent material as primeval Siegfried
+    myth and historical saga of the Burgundians and Attila.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The passage says the material passed through a series of transformations during
+    seven centuries of growth.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nibelungen
+  description: 'A name applied in different contexts: originally to powers of darkness;
+    later to Alberich and the dwarfs guarding the treasure; later to the Burgundians.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Siegfried
+  description: A light-hero who fell prey to the original Nibelungen and later obtained
+    possession of the treasure.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Alberich
+  description: A figure to whom the name Nibelungen remains applied after Siegfried
+    obtains the treasure; associated with the dwarfs who guard it and become Siegfried's
+    vassals.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Dwarfs
+  description: Guardians of the treasure who, with Alberich, are described as Siegfried's
+    vassals after he obtains possession of it.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Burgundians
+  description: In the poem title, Nibelungen is said to be equivalent to Burgundians;
+    after Siegfried's death the name is given to them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Burgundian kings and their people
+  description: The poem is said to relate their downfall.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Attila
+  description: Named as part of the historical saga material connected with the Burgundians.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: powers of darkness
+  assigned_to:
+  - fig:1
+  basis: The passage says the original Nibelungen were powers of darkness.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: light-hero
+  assigned_to:
+  - fig:2
+  basis: Siegfried is explicitly called the light-hero.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: treasure possessor
+  assigned_to:
+  - fig:2
+  basis: The passage says Siegfried obtains possession of the treasure.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: treasure guardians
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Alberich and the dwarfs are associated with guarding the treasure.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: vassals of Siegfried
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage says Alberich and the dwarfs are now Siegfried's vassals.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: people of downfall
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The poem is described as relating the downfall of the Burgundian kings and
+    their people, and the name Nibelungen is later given to the Burgundians.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: historical saga figure
+  assigned_to:
+  - fig:7
+  basis: Attila is named in connection with the historical saga of the Burgundians
+    and Attila.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Treasure
+  literal_form: Treasure obtained by Siegfried and guarded by Alberich and the dwarfs.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Mist or gloom name association
+  literal_form: The name Nibelungen is connected with nebel, glossed as mist or gloom.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Darkness and light opposition
+  literal_form: Powers of darkness opposed to the light-hero Siegfried.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Manuscript transmission and textual witnesses
+  summary: The passage describes the popularity of the Nibelungenlied through its
+    manuscript preservation and identifies three major manuscript witnesses, with
+    the St. Gall manuscript treated as closest to the original among them.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shifting application of the name Nibelungen
+  summary: The name Nibelungen is explained as moving from powers of darkness, to
+    Alberich and the treasure-guarding dwarfs after Siegfried gains the treasure,
+    and finally to the Burgundians after Siegfried's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Poem as remodelling of older myth and saga
+  summary: The passage characterizes the present poem as a remodelling of earlier
+    material combining primeval Siegfried myth with the historical saga of the Burgundians
+    and Attila, transformed over seven centuries.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Light-hero opposed by powers of darkness
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly describes the original Nibelungen as powers of darkness
+    and Siegfried as a light-hero who fell prey to them.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is explanatory rather than a narrative episode, so the motif
+    is inferred from the summary statement rather than from a narrated scene.
+- id: motif:2
+  label: Hero gains possession of guarded treasure
+  taxonomy_refs: []
+  basis: The passage says Siegfried obtains possession of the treasure, while Alberich
+    and the dwarfs guard it and become his vassals.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe how Siegfried obtains the treasure, so motifs
+    involving theft, quest, or combat should not be assigned.
+- id: motif:3
+  label: Downfall of a royal people
+  taxonomy_refs: []
+  basis: The passage states that the poem relates the downfall of the Burgundian kings
+    and their people.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a prose characterization of the poem's subject,
+    without narrative details of the downfall.
+- id: motif:4
+  label: Myth and historical saga combined through long transmission
+  taxonomy_refs: []
+  basis: The passage frames the poem as a remodelling of older material, including
+    primeval Siegfried myth and historical saga of the Burgundians and Attila, transformed
+    during seven centuries of growth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a literary-historical pattern rather than a mythic action motif
+    within the poem itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage situates the Nibelungenlied's material within the broader Nibelungen
+    saga also known from the Edda and other literary and historical sources.
+  claim_level: same_motif
+  target: Nibelungen saga as revealed in the Edda and other literary and historic
+    sources
+  evidence_refs:
+  - ev:7
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts the broader connection but does not provide specific
+    Eddic parallels or detailed comparative episodes.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 712-718
+  quote_or_summary: The Nibelungenlied is described as exceptionally popular among
+    medieval German epic poems, with about thirty preserved manuscripts, complete
+    or fragmentary.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 718-728
+  quote_or_summary: The Munich, St. Gall, and Donaueschingen manuscripts are cited
+    as A, B, and C; the St. Gall manuscript B is described as the best and most nearly
+    original text and as the basis of the translation.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 730-737
+  quote_or_summary: The closing strophe of manuscript C gives the title as the lay
+    of the Nibelungen; manuscripts A and B phrase it as the need, distress, or downfall
+    of the Nibelungen; in the title, Nibelungen is equivalent to Burgundians, and
+    the poem relates the downfall of the Burgundian kings and their people.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 737-740
+  quote_or_summary: The name Nibelungen is connected with nebel, meaning mist or gloom,
+    and the original Nibelungen are described as powers of darkness to whom the light-hero
+    Siegfried fell prey.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 740-743
+  quote_or_summary: After Siegfried obtains the treasure, the name Nibelungen remains
+    applied to Alberich and the dwarfs who guard the treasure and are Siegfried's
+    vassals.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 743-745
+  quote_or_summary: After Siegfried's death, the name Nibelungen is given to the Burgundians;
+    the passage rejects the idea that the name always applies to possessors of the
+    hoard.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 751-758
+  quote_or_summary: The passage says that the poem is not a perfect literary unit
+    in its present form and shows inconsistencies and inequalities proving it to be
+    a remodelling of earlier material.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 758-764
+  quote_or_summary: The passage asks how the primeval Siegfried myth and the historical
+    saga of the Burgundians and Attila entered German poetic stock and what transformations
+    they passed through during seven centuries of growth.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 751-753
+  quote_or_summary: The passage refers to the history of the Nibelungen saga as revealed
+    in the Edda and through other literary and historic sources.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly literary-historical introduction rather than a mythic
+    narrative episode. Several motif candidates are based on summarized mythic background
+    within the passage and therefore require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol IDs were assigned because the available symbol list does not include treasure, mist, gloom, darkness, manuscripts, or hoard.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l712-l768
+  passage_sha256=e329ff8e113820d0cadf3c24a59d82fa47d403b7f8f8b6ac2752ed44c70f7ee3
+

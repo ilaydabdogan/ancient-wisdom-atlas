@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l327-l346
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: ANIMAL STORIES. / OLD STORIES, CHIEFLY OF SORCERY. / MODERN EUROPEAN STORIES.
+    / SONG AND DANCE.; lines 327-346
+  start: '327'
+  end: '346'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment headed “Song and Dance” lists tale numbers
+    139–149 with titles and page numbers, followed by later contents headings for
+    witticisms, riddles, notes, and indexes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contains a table-of-contents heading, “Song and Dance.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading is followed by numbered entries 139 through 149, each with a title
+    and page number.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Two listed titles state that Tacoomah and Anansi each make a dance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several listed titles contain animal or bird names, including Fowl, John-crow,
+    Cock, and the title “Animal Talk.”
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After the Song and Dance entries, the contents list sections for Witticisms,
+    Riddles, Index to Riddles, Abbreviations of Titles, Notes to the Tales, and Index
+    to Informants.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tacoomah
+  description: Named in the listed title “Tacoomah Makes a Dance.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Anansi
+  description: Named in the listed title “Anansi Makes a Dance.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Fowl
+  description: Named in listed titles including “Fowl and Pretty Poll” and “John-crow
+    and Fowl at Court.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: John-crow
+  description: Named in the listed title “John-crow and Fowl at Court.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Cock
+  description: Named in the listed title “Wooden Ping-ping and Cock.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dance-maker named in title
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The titles “Tacoomah Makes a Dance” and “Anansi Makes a Dance” both use the
+    phrase “Makes a Dance.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: animal or bird named in title
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The listed titles include the animal or bird names Fowl, John-crow, and Cock.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dance
+  literal_form: dance
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: dance-making
+  taxonomy_refs: []
+  basis: Two adjacent table-of-contents entries are titled “Tacoomah Makes a Dance”
+    and “Anansi Makes a Dance.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only titles, not the narrative actions within the tales.
+- id: motif:2
+  label: animal-centered speech or social setting
+  taxonomy_refs: []
+  basis: The title list includes animal or bird figures and the title “Animal Talk,”
+    as well as “John-crow and Fowl at Court.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage is a contents list only; it does not provide plot details
+    or confirm how speech or court action functions in the tales.
+- id: motif:3
+  label: song-and-dance grouping
+  taxonomy_refs: []
+  basis: The contents section is explicitly headed “Song and Dance” and groups entries
+    139–149 beneath that heading.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not include lyrics, performance description, or narrative
+    scenes.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 327
+  quote_or_summary: "“SONG AND DANCE.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 329-339
+  quote_or_summary: Entries numbered 139 through 149 are listed under the heading,
+    with page numbers 169 through 178.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 331-332
+  quote_or_summary: "“Tacoomah Makes a Dance”; “Anansi Makes a Dance.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 335-339
+  quote_or_summary: The listed titles include “Fowl and Pretty Poll,” “John-crow and
+    Fowl at Court,” “Wooden Ping-ping and Cock,” and “Animal Talk.”
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source metadata; short excerpt and summary from supplied
+    passage.
+- id: ev:5
+  type: summary
+  locator: lines 341-346
+  quote_or_summary: The following contents headings are Witticisms, Riddles, Index
+    to Riddles, Abbreviations of Titles, Notes to the Tales, and Index to Informants.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The table-of-contents data are clear, but motif identification is limited
+    because the passage provides titles only and no tale narratives. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned; the passage does not itself support a specific available taxonomy reference such as trickster_boundary.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l327-l346
+  passage_sha256=789092435a69c86f1521383aabfb0bad4978a949bef96abb69657a73e43e5336
+

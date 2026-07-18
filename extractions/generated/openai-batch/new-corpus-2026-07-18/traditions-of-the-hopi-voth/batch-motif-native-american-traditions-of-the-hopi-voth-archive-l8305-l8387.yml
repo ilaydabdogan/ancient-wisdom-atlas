@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.native-american-traditions-of-the-hopi-voth-archive-l8305-l8387
+source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+passage_locator:
+  label: STARS.' / HIS WIFE. 1 / FOR THEIR LIFE. 1 / NIGHT. 1; lines 8305-8387
+  start: '8305'
+  end: '8387'
+  translation: The Traditions of the Hopi
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young man returns home, learns from two Eagles that his sisters locked
+    the door and beat them, dresses in decorated attire, and is carried upward by
+    an Eagle while singing. The Eagles circle above the village and field, ignore
+    the family's pleas, and carry him out of sight through an opening in the sky to
+    the Eagle world. They leave him on a high bluff because of his sisters' mistreatment.
+    Despondent, he considers jumping down and then sees a little Wren at the bluff
+    edge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young man returns thirsty, finds the door locked, and learns from the
+    Eagles that the key is buried near the fireplace under ashes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Eagles say that the young man's sisters locked the door and beat them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the Eagles' direction, the young man paints and decorates his body, adds
+    bells or rattles, eagle feathers, a kilt, sash, belt, beads, and ear pendants.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One Eagle carries the young man on its back while another Eagle leads, and
+    they begin to ascend.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During the flight, the young man sings a song addressing mother and father
+    and mentioning corn and figured corn husks.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Eagles circle above the village four times, travel south toward the field,
+    and later rise again while circling four times as the young man sings four times.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The sisters hear the song, recognize their brother, and the parents ask the
+    Eagles to come down and leave him, but the Eagles give no answer and carry him
+    out of sight.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Eagles pass through an opening high in the sky into a world where Eagles
+    dwell and where white houses stand around a high bluff.
+  category: setting
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: The Eagles deposit the young man on the high bluff and say he must stay there
+    because his sisters were bad to them and beat them.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The young man becomes despondent, considers jumping from the bluff, and asks
+    a little Wren whether there is a way down, but receives no answer.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: young man / Chorzhvufcfqoio
+  description: A young man recognized by villagers; he is decorated, carried by an
+    Eagle, sings during the flight, and is left on a bluff in the Eagle world.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: two Eagles
+  description: Two Eagles who speak to the young man, direct his preparation, carry
+    him upward, refuse the family's request, and leave him in the Eagle world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: sisters / maidens
+  description: The young man's sisters are said to have locked the door and beaten
+    the Eagles; they later hear his song, recognize him, and mourn.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: parents and family
+  description: The young man's parents and family are in the field, ask the Eagles
+    to return him, and mourn when he is carried away.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: little Wren
+  description: A small bird that appears at the edge of the bluff after the young
+    man considers jumping; it gives no answer to his question about getting down.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: carried and displaced son-brother
+  assigned_to:
+  - fig:1
+  basis: The young man is carried from his village and family, taken through the sky
+    opening, and left on a bluff in the Eagle world.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Eagle transporters and punitive captors
+  assigned_to:
+  - fig:2
+  basis: The Eagles carry the young man upward, refuse the family's request to leave
+    him, and state that he must stay because his sisters beat them.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:3
+  label: kin accused of mistreating the Eagles
+  assigned_to:
+  - fig:3
+  basis: The Eagles report that the sisters locked the door and beat them, and later
+    cite the sisters' bad treatment as the reason the young man must stay on the bluff.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: mourning and requesting kin
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The sisters recognize the young man, the parents ask the Eagles to come down
+    and leave him, and the family mourns when he is carried out of sight.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: silent bird encountered on the bluff
+  assigned_to:
+  - fig:5
+  basis: The Wren appears at the bluff edge and does not answer the young man's question
+    about getting down.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: singer during ascent
+  assigned_to:
+  - fig:1
+  basis: The young man sings during the upward flight and again near the field as
+    the Eagles circle and rise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: hidden key at fireplace
+  literal_form: key buried near the fireplace under ashes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: decorated flight attire
+  literal_form: yellow leg paint, bells or rattles, eagle feathers, kilt, sash, belt,
+    body colors, black face line, beads, and ear pendants
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: recognition song of kin and corn
+  literal_form: song addressing mother and father and mentioning grown corn, corn
+    husks, and figured corn husks
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: fourfold circling and repetition
+  literal_form: circling four times above the village and later circling four times
+    with the song sung four times
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: opening in the sky
+  literal_form: an opening high in the sky leading into the world where Eagles dwell
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: high bluff and white Eagle houses
+  literal_form: a very high bluff with a valley of perfectly white houses where Eagles
+    lived
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: little Wren at the bluff edge
+  literal_form: a little Wren jumping up and down at the edge of the bluff
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Locked house and preparation
+  summary: The young man returns to the locked house, finds the hidden key after the
+    Eagles tell him where it is, hears that his sisters beat the Eagles, and dresses
+    in decorated attire at the Eagles' direction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Eagle ascent over village and field
+  summary: One Eagle carries the young man and another leads; he sings during the
+    ascent, they circle four times, fly toward the field, and his family recognizes
+    him but cannot stop the Eagles from carrying him out of sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Entry into the Eagle world
+  summary: The Eagles pass through an opening high in the sky into the world where
+    Eagles dwell and proceed to a high bluff above white houses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Abandonment on the bluff and Wren encounter
+  summary: The Eagles leave the young man on the bluff as punishment for his sisters'
+    treatment of them; he considers jumping down and then encounters a little Wren
+    that does not answer his question.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Ascent to an upper Eagle world by bird transport
+  taxonomy_refs:
+  - ascent
+  basis: The young man mounts an Eagle, is carried upward while another Eagle leads,
+    disappears into the sky, and passes through a sky opening into the world where
+    Eagles dwell.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the ascent and arrival but not the outcome beyond the
+    beginning of the Wren episode.
+- id: motif:2
+  label: Punitive abduction for a kin-group offense
+  taxonomy_refs: []
+  basis: The Eagles say the sisters beat them and later leave the young man on the
+    bluff because his sisters were bad to them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The motive is based on the Eagles' statements within this passage; wider
+    story context may add details.
+- id: motif:3
+  label: Fourfold circling and repeated song during flight
+  taxonomy_refs: []
+  basis: The Eagles circle four times above the village and later circle again while
+    the young man sings the song four times.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader ritual meaning is inferred beyond the repeated number and action
+    stated in the passage.
+- id: motif:4
+  label: Recognition through song during separation
+  taxonomy_refs: []
+  basis: The young man sings while approaching the field; his sisters hear the song,
+    identify that their brother is coming, and then recognize him with the Eagles.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports recognition by song, but does not fully explain the
+    song's prior history except through surrounding editorial context.
+- id: motif:5
+  label: Otherworld threshold and elevated dwelling
+  taxonomy_refs: []
+  basis: The passage describes a sky opening leading to the Eagles' world, with a
+    high bluff and white houses where Eagles live.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No available taxonomy reference exactly matches this upper-world Eagle
+    dwelling without adding interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8305-8314
+  quote_or_summary: The young man returns thirsty, finds the door locked, and the
+    Eagles tell him the sisters locked it, hid the key near the fireplace under ashes,
+    and had beaten them.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 8314-8323
+  quote_or_summary: The young man paints his legs yellow, adds bells or rattles, eagle
+    feathers, clothing, body colors, a black face line, beads, and ear pendants.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 8323-8331
+  quote_or_summary: One Eagle says it will carry him; he mounts it and holds its wings
+    while another Eagle leads, and the people in the village recognize him as they
+    ascend.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 8331-8353
+  quote_or_summary: During the upward flight, the young man sings a song addressing
+    mother and father and mentioning corn and figured corn husks; the Eagles circle
+    four times above the village and go south toward the field.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 8353-8369
+  quote_or_summary: The sisters hear and recognize him; the parents ask the Eagles
+    to come down and leave their son, but the Eagles rise again, circle four times
+    as he sings four times, disappear, and the family mourns.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 8370-8377
+  quote_or_summary: The Eagles fly higher to their home and pass through an opening
+    in the sky into the world where Eagles dwell and from which they come down in
+    response to Hopi prayers.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 8377-8383
+  quote_or_summary: The Eagles go east of the sky opening to a high bluff above a
+    valley of white houses where Eagles live, deposit the young man there, and say
+    he must stay because his sisters were bad to them and beat them.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: 8383-8387
+  quote_or_summary: The young man thinks of jumping from the bluff; a little Wren
+    appears at the edge, and when he asks whether there is a way down, he receives
+    no answer.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public-domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are cautious
+    because the passage ends during the Wren episode and the surrounding story is
+    not included. No cross-text comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied excerpt ends with the Wren episode unresolved; later narrative developments were not inferred.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-traditions-of-the-hopi-voth-archive__l8305-l8387
+  passage_sha256=b68724165d3025ab777d543bb3380b18b57976bf1f83326a1f9325a6ed3b4e4d
+

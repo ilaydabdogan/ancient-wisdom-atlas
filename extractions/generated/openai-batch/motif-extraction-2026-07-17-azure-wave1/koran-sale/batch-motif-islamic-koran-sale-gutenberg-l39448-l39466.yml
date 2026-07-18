@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39448-l39466
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER CXIII. / ENTITLED, THE DAYBREAK; WHERE IT WAS REVEALED IS DISPUTED.
+    / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CXIV.; lines 39448-39466
+  start: '39448'
+  end: '39466'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter CXIII, titled “The Daybreak,” instructs the speaker to seek refuge
+    with the Lord of daybreak for deliverance from the mischief of created things,
+    the night when it comes on, women blowing on knots, and the envious person when
+    he envies. The excerpt then begins the heading of Chapter CXIV, titled “Men.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage commands the speaker to say that he flies for refuge unto the
+    LORD of the daybreak.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The requested deliverance is from the mischief of things created by the LORD.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The night, when it comes on, is named as a source of mischief from which deliverance
+    is sought.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Women blowing on knots are named as a source of mischief from which deliverance
+    is sought.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The envious person, when he envies, is named as a source of mischief from
+    which deliverance is sought.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage then introduces Chapter CXIV, titled “Men,” with a note that where
+    it was revealed is disputed.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: speaker or supplicant
+  description: The “I” who is instructed to seek refuge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: LORD of the daybreak
+  description: The divine figure with whom refuge is sought and who is asked to deliver
+    the speaker from mischief.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: women blowing on knots
+  description: Women described as blowing on knots and associated with mischief.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the envious
+  description: An envious figure described in the act or condition of envying.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: refuge-seeker
+  assigned_to:
+  - fig:1
+  basis: The speaker says, “I fly for refuge.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine refuge and deliverer
+  assigned_to:
+  - fig:2
+  basis: The LORD of the daybreak is the one in whom refuge is sought and who is asked
+    to deliver the speaker from mischief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: creator
+  assigned_to:
+  - fig:2
+  basis: The passage refers to “those things which he hath created.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: knot-blowing source of mischief
+  assigned_to:
+  - fig:3
+  basis: The speaker seeks deliverance from the mischief of women blowing on knots.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: envious source of mischief
+  assigned_to:
+  - fig:4
+  basis: The speaker seeks deliverance from the mischief of the envious when he envies.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: daybreak
+  literal_form: daybreak
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: nightfall
+  literal_form: the night, when it cometh on
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: knots
+  literal_form: knots blown upon by women
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: blowing on knots
+  literal_form: the gesture or action of women blowing on knots
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Prayer for refuge from mischief
+  summary: The instructed speaker seeks refuge with the LORD of the daybreak and asks
+    for deliverance from the mischief of created things, nightfall, women blowing
+    on knots, and the envious person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine refuge against harmful forces
+  taxonomy_refs: []
+  basis: The speaker seeks refuge with the LORD of the daybreak so that he may be
+    delivered from several named forms of mischief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is a brief prayer formula and does not narrate a larger mythic
+    episode.
+- id: motif:2
+  label: Daybreak and night as opposed conditions
+  taxonomy_refs:
+  - duality
+  basis: The divine title invokes daybreak, while the night when it comes on is named
+    among the dangers from which refuge is sought.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly state a full cosmic dualism; the duality
+    reading is limited to the juxtaposition of daybreak and night.
+- id: motif:3
+  label: Knot-blowing as harmful ritual action
+  taxonomy_refs: []
+  basis: Women blowing on knots are specifically named as a source of mischief.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the practice beyond naming the action and
+    its mischief.
+- id: motif:4
+  label: Envy as an active source of harm
+  taxonomy_refs: []
+  basis: The envious person, when he envies, is named as a source of mischief from
+    which deliverance is sought.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives no additional narrative or personification beyond the
+    phrase “the envious.”
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 39454
+  quote_or_summary: "“SAY, I fly for refuge unto the LORD of the daybreak”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 39455-39456
+  quote_or_summary: "“that he may deliver me from the mischief of those things which
+    he hath created”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: line 39457
+  quote_or_summary: "“and from the mischief of the night, when it cometh on”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: line 39458
+  quote_or_summary: "“and from the mischief of women blowing on knots”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:5
+  type: quote
+  locator: line 39459
+  quote_or_summary: "“and from the mischief of the envious, when he envieth”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 39463-39466
+  quote_or_summary: The passage begins Chapter CXIV, titled “Men,” and notes that
+    where it was revealed is disputed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied English passage. Candidate motifs
+    are limited to passage-level patterns; no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote markers in the supplied passage were not interpreted; only the visible passage wording was used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39448-l39466
+  passage_sha256=a7976a41f56003fbefd826e91d05f069b10b05271e4c24584614e522ebac1120
+

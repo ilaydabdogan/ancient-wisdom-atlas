@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l6945-l6988
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: VISITING. / SOCIAL CUSTOMS IN SUMMER. / SOCIAL ORDER AND LAWS. / RELIGIOUS
+    IDEAS AND THE ANGAKUNIRN (PRIESTHOOD).; lines 6945-6988
+  start: '6945'
+  end: '6988'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Their Supreme Being is a woman whose name is Sedna.
+  summary: Boas introduces Central Eskimo religious ideas about Sedna and compares
+    them with Greenlander beliefs and with reports by Warmow, Hall, whalers, and Boas's
+    own observations from neighboring Inuit groups.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the principal religious ideas of the Central Eskimo
+    and the Greenlanders are identical, while their mythologies differ in many material
+    points.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Central Eskimo are said to believe in the Tornait of the old Greenlanders,
+    while Tornarsuk, identified parenthetically as the great Tornaq of the Greenlanders,
+    is unknown to them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the Central Eskimo Supreme Being is a woman named
+    Sedna.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Warmow's report names Sanaq or Sana as a good spirit or unknown deity whose
+    help is invoked in need.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In Warmow's report, one man says that Takaq, the moon, gives desired seals
+    and deer, and another says Sanaq lived on earth and later ascended to the moon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hall's account reports that the Nugumiut believe in a Supreme Being named
+    Anguta, who created the earth, sea, and heavenly bodies.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hall's account reports a secondary female divinity, Sidne, daughter of Anguta,
+    who created living animal and vegetable things, protects the Inuit, receives supplications
+    and offerings, and is the reference point for many rites and observances.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Boas says that Hall's second-journey journals mention Sedna, spelled Sydney,
+    and that this is the only proof in the passage that she is known among the tribes
+    of Hudson Bay.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Boas says that whaler statements concerning the Sikosuilarmiut and Akuliarmiut
+    of Hudson Strait correspond with his own observations, and that he will give the
+    particulars of the myth as received from the Oqomiut and Akudnirmiut.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sedna / Sidne / Sydney
+  description: A woman named Sedna is described as the Central Eskimo Supreme Being;
+    in Hall's related account Sidne is a female secondary divinity, daughter of Anguta,
+    and Hall's second-journey journals spell the name Sydney.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Sanaq / Sana
+  description: A good spirit or unknown deity in Warmow's report, invoked in need;
+    one statement says Sanaq lived on earth and afterward ascended to the moon.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Takaq, the moon
+  description: The moon, named Takaq in Warmow's report, is said to give requested
+    seals and deer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Anguta
+  description: A Supreme Being in Hall's Nugumiut report who created the earth, sea,
+    and heavenly bodies and is father of Sidne.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Tornait
+  description: Beings or spirits of the old Greenlanders in which the Central Eskimo
+    are said to believe.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Tornarsuk / great Tornaq
+  description: The great Tornaq of the Greenlanders, stated to be unknown to the Central
+    Eskimo.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: female Supreme Being
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly states that the Central Eskimo Supreme Being is a
+    woman named Sedna.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: secondary divinity and divine daughter
+  assigned_to:
+  - fig:1
+  basis: Hall's account describes Sidne as a secondary female divinity and the daughter
+    of Anguta.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: creator of living things, protector, and recipient of offerings
+  assigned_to:
+  - fig:1
+  basis: Hall's account attributes creation of living animal and vegetable things,
+    protection of the Inuit, supplications, offerings, rites, and observances to Sidne.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: good spirit or unknown deity invoked in need
+  assigned_to:
+  - fig:2
+  basis: Warmow's report says Sanaq or Sana is called the good spirit or unknown deity
+    and is asked for help in need.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: earth-to-moon ascender
+  assigned_to:
+  - fig:2
+  basis: One statement in Warmow's report says Sanaq lived on the earth and afterward
+    ascended to the moon.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: lunar provider of game animals
+  assigned_to:
+  - fig:3
+  basis: Warmow's report says Takaq, the moon, gives what is wanted, specifically
+    seals and deer.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Supreme Being and cosmic creator
+  assigned_to:
+  - fig:4
+  basis: Hall's account says Anguta is a Supreme Being who created the earth, sea,
+    and heavenly bodies.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: father of Sidne
+  assigned_to:
+  - fig:4
+  basis: Hall's account identifies Sidne as the daughter of Anguta.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: Greenlander-associated spirit beings believed in by the Central Eskimo
+  assigned_to:
+  - fig:5
+  basis: The passage says the Central Eskimo believe in the Tornait of the old Greenlanders.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: Greenlander great Tornaq unknown to Central Eskimo
+  assigned_to:
+  - fig:6
+  basis: The passage says Tornarsuk, the great Tornaq of the Greenlanders, is unknown
+    to the Central Eskimo.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: moon
+  literal_form: Takaq, the moon
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: seals and deer
+  literal_form: seals and deer given by Takaq in response to need
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: created cosmic domains
+  literal_form: earth, sea, and heavenly bodies
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: supplications and offerings
+  literal_form: supplications, offerings, rites, and superstitious observances directed
+    to or referencing Sidne
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Boas outlines Central Eskimo and Greenlander religious comparison
+  summary: Boas states that Central Eskimo and Greenlander principal religious ideas
+    are identical but their mythologies differ, then notes Central Eskimo belief in
+    Tornait, non-recognition of Tornarsuk, and Sedna as a female Supreme Being.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Warmow report on Sanaq, Takaq, and the moon
+  summary: Warmow's reported informants describe Sanaq or Sana as invoked in need,
+    Takaq the moon as giver of seals and deer, and Sanaq as having lived on earth
+    before ascending to the moon.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hall report on Anguta and Sidne
+  summary: Hall's account of Nugumiut belief presents Anguta as creator of earth,
+    sea, and heavenly bodies, and Sidne as his daughter, a female divinity who creates
+    living things, protects Inuit, and receives ritual attention.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Evidence of wider regional knowledge of Sedna tradition
+  summary: Boas notes Hall's Sydney spelling as proof of Hudson Bay knowledge of Sedna
+    and says whaler statements about Hudson Strait groups correspond with his observations
+    before introducing a fuller myth version from other groups.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: female life-creator and protecting divinity
+  taxonomy_refs:
+  - mother_goddess
+  basis: Sedna is named as a female Supreme Being, and Hall's Sidne is described as
+    a female divinity who created living things, protects the Inuit, and receives
+    offerings.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not call Sedna or Sidne a mother; Hall's account makes
+    Sidne secondary to Anguta, while Boas's statement calls Sedna the Supreme Being.
+- id: motif:2
+  label: divine parent and daughter divinity
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hall's account identifies Sidne as the daughter of the Supreme Being Anguta.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This relation is reported only in Hall's quoted account within the passage.
+- id: motif:3
+  label: ascent from earth to the moon
+  taxonomy_refs:
+  - ascent
+  basis: Warmow's report includes a statement that Sanaq lived on earth and afterward
+    ascended to the moon.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief reported statement, not a full ascent narrative.
+- id: motif:4
+  label: supplication and offering connected with divine aid
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Warmow's report says help is requested in need and Takaq gives seals and
+    deer; Hall's account says supplications and offerings are made to Sidne.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe a single detailed ritual transaction; the
+    requests, gifts, and offerings come from separate reported accounts.
+- id: motif:5
+  label: named creator beings assign cosmic and living domains
+  taxonomy_refs: []
+  basis: Hall's account assigns creation of earth, sea, and heavenly bodies to Anguta
+    and creation of living animal and vegetable things to Sidne.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a short ethnographic summary rather than a narrated creation myth.
+comparison_claims:
+- id: claim:1
+  claim: Boas explicitly compares Central Eskimo and Greenlander religion, stating
+    shared principal religious ideas and noting Central Eskimo belief in the Greenlander-associated
+    Tornait, while also marking Tornarsuk as absent among the Central Eskimo.
+  claim_level: same_motif
+  target: old Greenlander Tornait and Tornarsuk religious complex
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The passage gives a general comparison and one contrast but does not
+    narrate the Tornait or Tornarsuk mythology in detail.
+- id: claim:2
+  claim: The passage presents Warmow's Sanaq/Sana notice, Hall's Sidne/Sydney notices,
+    whaler statements, and Boas's observations as regional reports relevant to comparison
+    with the Sedna tradition.
+  claim_level: same_function
+  target: Sedna/Sidne/Sydney/Sanaq reports among Cumberland Sound, Frobisher Bay,
+    Hudson Bay, and Hudson Strait Inuit groups
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  limitations: The names, gendered pronouns, and assigned ranks differ across reports;
+    the passage says fuller comparison will follow and does not settle all identities
+    here.
+- id: claim:3
+  claim: Central Eskimo Sedna and Hall's Nugumiut Sidne are presented in adjacent
+    reports as female divinities with major religious significance, but their rank
+    differs between reports.
+  claim_level: same_function
+  target: Central Eskimo Sedna and Nugumiut Sidne
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: Boas's statement calls Sedna the Supreme Being, while Hall's account
+    calls Sidne secondary and daughter of Anguta; the passage does not provide a full
+    harmonization.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6945-6951
+  quote_or_summary: '"Although the principal religious ideas of the Central Eskimo
+    and those of the Greenlanders are identical, their mythologies differ in many
+    material points."'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 6951-6957
+  quote_or_summary: Boas says the Central Eskimo believe in the Tornait of the old
+    Greenlanders, do not know Tornarsuk/the great Tornaq, and have a female Supreme
+    Being named Sedna.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6959-6972
+  quote_or_summary: Warmow's Cumberland Sound report names Sanaq or Sana as a good
+    spirit or unknown deity invoked in need; one informant says Takaq the moon gives
+    seals and deer, and another says Sanaq lived on earth and then ascended to the
+    moon.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6974-6985
+  quote_or_summary: Hall's Frobisher Bay/Nugumiut statement reports Anguta as Supreme
+    Being and creator of earth, sea, and heavenly bodies; Sidne as his daughter and
+    a secondary female divinity who created living animal and vegetable things, protects
+    the Inuit, and receives supplications, offerings, rites, and observances.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6986-6988
+  quote_or_summary: Boas states that Hall's second-journey journals mention Sedna,
+    spelled Sydney, and that this is the only proof that she is known among Hudson
+    Bay tribes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: final paragraph of supplied passage
+  quote_or_summary: Boas says whaler statements about the Sikosuilarmiut and Akuliarmiut
+    of Hudson Strait correspond with his observations, and that he will give the particulars
+    of the myth as received from the Oqomiut and Akudnirmiut.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an ethnographic introduction and source comparison rather
+    than the full Sedna myth narrative. Figure identities across Sedna/Sidne/Sydney
+    and Sanaq/Sana are reported cautiously because the passage itself notes variant
+    reports.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided available references were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l6945-l6988
+  passage_sha256=b97163ea2dd7d881151bc478daa9abd7ca2fd12c93b6a9eaf6cb4c80a20fa1fc
+

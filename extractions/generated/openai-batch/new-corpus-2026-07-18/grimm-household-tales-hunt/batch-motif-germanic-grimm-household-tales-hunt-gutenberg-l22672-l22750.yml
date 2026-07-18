@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l22672-l22750
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 22672-22750
+  start: '22672'
+  end: '22750'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A boy mistakes honey and wine for poison, goes to a grave expecting death,
+    and dies there from wine and cold dew. The farmer''s household then burns and
+    the farmer and wife live in poverty and remorse. A new tale begins: a motherless
+    girl is oppressed by her stepmother, assigned an impossible task of picking twelve
+    pounds of feathers, and aided by a kind old woman who completes the work while
+    the girl sleeps; the stepmother then plans harder work.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The boy retrieves a pot from under the farmer's wife's bed and eats its contents;
+    the pot contains honey, though she had described it as poison to keep greedy people
+    away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After eating the honey, the boy says death tastes sweet, sits in a little
+    chair, and prepares to die, but feels strengthened instead.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boy takes a bottle from the farmer's clothes box, believes it to be poison
+    for flies, empties it, and becomes stupefied; the bottle contains Hungarian wine.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boy staggers to the churchyard, lies in a newly dug grave, hears wedding
+    music from a nearby inn, loses consciousness, and never awakes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that strong wine and cold night-dew deprive the boy of
+    life, and that he remains in the grave where he had lain down.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the farmer hears of the boy's death, he is terrified, fears being brought
+    to justice, and faints.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The farmer's wife runs from the hearth with a pan of hot fat to help him;
+    flames strike the pan, the house catches fire, and the household later lives in
+    poverty and misery with pangs of conscience.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A young and beautiful girl has lost her mother and is made wretched by her
+    stepmother, who keeps increasing her burdens.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The stepmother commands the girl to pick twelve pounds of feathers by evening
+    and threatens her with a beating if she fails.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The girl cries over the task; when she sighs or strikes her hands together,
+    the feathers fly away and she must begin again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: After the girl asks whether anyone on God's earth will pity her, a low voice
+    answers, and an old woman appears by her side to comfort her.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The old woman tells the girl to rest, sits at the table, removes the feathers
+    from the quills, finishes the twelve pounds, and vanishes before the girl wakes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: When the stepmother sees the completed work, she says the girl should have
+    begun something else and decides to give her harder work.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: An unnamed boy who eats honey and drinks Hungarian wine while believing
+    each will bring death, then lies in a grave and dies there.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the farmer's wife
+  description: A woman who had said there was poison under her bed to deter greedy
+    people; later she stands at the hearth with hot fat and runs to help the fainting
+    farmer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the farmer
+  description: A farmer who had a bottle in his clothes box and who, after hearing
+    of the boy's death, fears justice, faints, and later lives in poverty and misery.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the girl / maiden
+  description: A young, beautiful, motherless girl whose stepmother makes her life
+    wretched and gives her excessive work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: the stepmother
+  description: A wicked stepmother who burdens the girl, threatens a beating over
+    the feather task, and plans harder work after the task is completed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: the old woman
+  description: A kind old woman who appears after the girl asks for pity, comforts
+    her, completes the feather-picking task while she sleeps, and vanishes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mistaken seeker of death
+  assigned_to:
+  - fig:1
+  basis: The boy repeatedly believes he has found poison, prepares for death, and
+    goes to a grave before dying there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: household wife linked to false poison and fire
+  assigned_to:
+  - fig:2
+  basis: She identifies honey as poison to keep people away and later carries hot
+    fat when flames cause the house to burn.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: fearful householder facing consequences
+  assigned_to:
+  - fig:3
+  basis: He fears being brought to justice after the boy's death, faints, and afterward
+    lives in poverty and remorse.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: oppressed stepdaughter
+  assigned_to:
+  - fig:4
+  basis: The girl is motherless, made wretched by her stepmother, threatened, and
+    assigned a task she cannot finish alone.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: persecuting stepmother
+  assigned_to:
+  - fig:5
+  basis: The stepmother increases the girl's burdens, threatens her with a beating,
+    and plans still harder work even after the task is done.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:6
+  label: kind helper
+  assigned_to:
+  - fig:6
+  basis: The old woman appears in response to the girl's distress, comforts her, and
+    completes the assigned work.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pot of honey called poison
+  literal_form: A pot under the farmer's wife's bed containing honey but described
+    by her as poison.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hungarian wine mistaken for poison
+  literal_form: A small bottle in the farmer's clothes box containing Hungarian wine,
+    believed by the boy to be poison for flies.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: newly dug grave
+  literal_form: A newly dug grave in the churchyard where the boy lies down and dies.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wedding music heard as Paradise
+  literal_form: Music from a nearby inn where a wedding is being held, which the boy
+    fancies is Paradise.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: house fire
+  literal_form: Flames, a pan of hot fat, and a house that catches fire and lies in
+    ashes.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: twelve pounds of feathers
+  literal_form: Twelve pounds of feathers assigned to the girl to pick by evening.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Boy eats the supposed poison under the bed
+  summary: The boy takes a pot from under the bed, eats the honey inside, expects
+    death, and instead feels strengthened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Boy drinks wine and dies in the grave
+  summary: The boy drinks Hungarian wine while believing it is poison, becomes stupefied,
+    goes to the churchyard, lies in a newly dug grave, hears wedding music, loses
+    consciousness, and dies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Farmer's household burns after the boy's death
+  summary: The farmer hears of the boy's death, fears justice, faints, and the farmer's
+    wife accidentally contributes to a fire that burns the house; afterward they live
+    in poverty and conscience-stricken misery.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Stepmother burdens the girl with feathers
+  summary: The motherless girl is oppressed by her stepmother and ordered to pick
+    twelve pounds of feathers by evening under threat of beating.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Old woman completes the feather task
+  summary: After the girl cries out for pity, an old woman appears, comforts her,
+    lets her sleep, completes the feather-picking, and vanishes.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Stepmother plans harder work
+  summary: The stepmother sees the completed feathers, criticizes the girl for not
+    starting more work, and decides to assign something harder.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: false poison mistaken for sweet death
+  taxonomy_refs: []
+  basis: The boy twice seeks death through substances he believes are poison, but
+    the first is honey and the second is wine that tastes sweet before stupefying
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the boy's belief literally; no broader symbolic meaning
+    is stated.
+- id: motif:2
+  label: lying down in one's own grave before death
+  taxonomy_refs: []
+  basis: The boy goes to the churchyard, lies in a newly dug grave because he thinks
+    he must die, and remains there after death.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No afterlife journey is narrated beyond the boy's mistaken fancy that
+    wedding music is Paradise.
+- id: motif:3
+  label: household ruin after a child's death
+  taxonomy_refs: []
+  basis: After the boy's death, the farmer fears justice, the house burns, and the
+    farmer and wife live in poverty and misery with conscience-pangs.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents moral and practical consequences but does not explicitly
+    describe divine punishment.
+- id: motif:4
+  label: persecuted stepdaughter given an impossible domestic task
+  taxonomy_refs: []
+  basis: The stepmother makes the motherless girl's life wretched and orders her to
+    pick twelve pounds of feathers by evening under threat of beating.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage segment begins this tale and does not yet show the full narrative
+    outcome.
+- id: motif:5
+  label: kind old woman helper completes impossible work
+  taxonomy_refs: []
+  basis: An old woman appears after the girl's plea, comforts her, lets her sleep,
+    completes the feathers, and vanishes.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The helper's exact nature is not named in the passage.
+- id: motif:6
+  label: task escalation after miraculous success
+  taxonomy_refs: []
+  basis: When the stepmother sees the work completed, she does not relent and instead
+    resolves to give the girl harder work.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: Only the intention to assign harder work appears within this passage range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22672-22681
+  quote_or_summary: The boy recalls the farmer's wife saying a pot under her bed contains
+    poison; it is actually honey. He eats it, says death tastes sweet, sits to die,
+    and feels strengthened.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 22681-22695
+  quote_or_summary: The boy takes a bottle from the farmer's clothes box, believes
+    it is fly poison, but it is Hungarian wine. He drinks it, becomes stupefied, goes
+    to the churchyard, lies in a newly dug grave, hears wedding music as if in Paradise,
+    loses consciousness, and dies from strong wine and cold dew.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 22697-22705
+  quote_or_summary: The farmer hears of the boy's death, fears justice, and faints.
+    His wife runs from the hearth with hot fat; flames catch the pan, the house burns
+    to ashes, and the couple spend their remaining years in poverty, misery, and pangs
+    of conscience.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 22707-22717
+  quote_or_summary: The tale 'The True Sweethearts' begins with a young beautiful
+    girl who lost her mother in childhood; her stepmother makes her life wretched
+    and gives her heavier and heavier burdens.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 22719-22732
+  quote_or_summary: The stepmother gives the girl twelve pounds of feathers to pick
+    by evening and threatens a beating. The girl cries because the task is impossible,
+    and the feathers scatter whenever she sighs or strikes her hands together.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 22732-22744
+  quote_or_summary: After the girl asks if anyone on God's earth will pity her, a
+    low voice answers and an old woman appears. The old woman comforts her, hears
+    her trouble, tells her to rest, completes the twelve pounds of feathers while
+    the girl sleeps, and vanishes.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 22745-22750
+  quote_or_summary: The girl thanks God and waits. When the stepmother arrives, she
+    marvels that the work is completed, scolds the girl for not beginning something
+    else, and says she must give her harder work.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear, but it spans the ending of one tale and the beginning
+    of another. Motif labels are candidate descriptive groupings only; no external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy was applied only where directly supported, namely the fire symbol.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l22672-l22750
+  passage_sha256=96fe5f2852e99b40df01320be1e58d72cedd3ba2b550275fa05839afe6a014c5
+

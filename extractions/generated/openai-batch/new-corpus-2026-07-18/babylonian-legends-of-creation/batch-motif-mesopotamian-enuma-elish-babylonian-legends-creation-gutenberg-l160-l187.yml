@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.mesopotamian-enuma-elish-babylonian-legends-creation-gutenberg-l160-l187
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+passage_locator:
+  label: TOLD BY ASSYRIAN TABLETS FROM NINEVEH / DISCOVERY OF THE TABLETS. / PUBLICATION
+    OF THE CREATION TABLETS. / THE OBJECT OF THE BABYLONIAN LEGEND OF THE CREATION.;
+    lines 160-187
+  start: '160'
+  end: '187'
+  translation: The Babylonian Legends of the Creation
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that the Seven Tablets of Creation chiefly glorify
+    Marduk, son of Ea/Enki, as conqueror of the dragon Tiamat, rather than chiefly
+    narrating the creation of heaven, earth, and humankind. It notes that creation
+    is treated as one exploit of Marduk, that the Seventh Tablet lists his honorific
+    titles, and that other city traditions could place their own chief gods in the
+    hero position, including Ashur in Assyrian texts and possibly Enlil in an earlier
+    form.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the main object of the Legend was the glorification
+    of Marduk, son of Ea/Enki, as conqueror of the dragon Tiamat.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts Marduk’s glorification with the narration of the creation
+    of the heavens, earth, and humankind.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says creation proper is mentioned as an exploit of Marduk in the
+    Sixth Tablet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the Seventh Tablet is devoted to enumerating Marduk’s honorific
+    titles.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says it is probable that great Babylonian cities accepted the
+    general form of the Creation Legend while making their own greatest local god
+    the hero.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage links Marduk’s prominence in the Legend with the political importance
+    of Babylon.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says that, in texts of the Legend used at Ashur, the god Ashur
+    occupied the position held by Marduk in Babylonian versions.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says there is reason to think Enlil/Bel was the original hero
+    of the Legend and that Marduk usurped his position at Babylon when Babylon rose
+    to power.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Marduk
+  description: God identified as the son of Ea/Enki, conqueror of the dragon Tiamat,
+    central object of glorification, and holder of the hero position in Babylonian
+    versions of the Legend.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ea / Enki
+  description: God named as the father of Marduk.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tiamat
+  description: Dragon conquered by Marduk.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ashur
+  description: National god of Assyria who, in texts of the Legend used in the city
+    of Ashur, occupied the position held by Marduk in Babylonian versions.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Enlil / Bel
+  description: Great god of Nippur, presented as a possible original hero of the Legend
+    whose position was later usurped at Babylon by Marduk.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: glorified central deity
+  assigned_to:
+  - fig:1
+  basis: The passage states that the main object of the Legend was the glorification
+    of Marduk.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine son
+  assigned_to:
+  - fig:1
+  basis: Marduk is called the son of Ea/Enki.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine father
+  assigned_to:
+  - fig:2
+  basis: Ea/Enki is named as Marduk’s parent.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: dragon conqueror
+  assigned_to:
+  - fig:1
+  basis: Marduk is described as the conqueror of the dragon Tiamat.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: conquered dragon
+  assigned_to:
+  - fig:3
+  basis: Tiamat is described as the dragon conquered by Marduk.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: national god of Assyria
+  assigned_to:
+  - fig:4
+  basis: The passage calls Ashur the national god of Assyria.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Assyrian holder of Marduk’s narrative position
+  assigned_to:
+  - fig:4
+  basis: The passage says Ashur occupied in Assyrian texts the position held by Marduk
+    in Babylonian legends.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: possible original hero
+  assigned_to:
+  - fig:5
+  basis: The passage says there is reason for thinking Enlil/Bel was the original
+    hero of the Legend.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: great god of Nippur
+  assigned_to:
+  - fig:5
+  basis: Enlil/Bel is identified as the great god of Nippur.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dragon
+  literal_form: the dragon Tiamat
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: honorific titles
+  literal_form: enumeration of the honorific titles of Marduk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Marduk’s glorification over creation narration
+  summary: The passage presents the Legend as chiefly glorifying Marduk as Tiamat’s
+    conqueror, while creation is treated as a secondary exploit rather than the primary
+    narrative purpose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Local deity substitution in versions of the Creation Legend
+  summary: The passage describes a pattern in which local or national gods could occupy
+    the hero position in versions of the Creation Legend, including Marduk at Babylon,
+    Ashur at Ashur, and possibly Enlil/Bel in an earlier form.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine hero conquers dragon
+  taxonomy_refs: []
+  basis: Marduk is explicitly described as the conqueror of the dragon Tiamat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage calls Tiamat a dragon but does not further describe the combat
+    or identify Tiamat with any taxonomy symbol such as serpent.
+- id: motif:2
+  label: creation as an exploit of the glorified deity
+  taxonomy_refs: []
+  basis: Creation is said to be mentioned as an exploit of Marduk in the Sixth Tablet,
+    while the passage says the Legend chiefly glorifies Marduk.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the creation act itself.
+- id: motif:3
+  label: local god made hero of a shared creation legend
+  taxonomy_refs: []
+  basis: The passage says great Babylonian cities probably accepted the general form
+    of the Creation Legend while making their greatest local god its hero; it gives
+    Marduk, Ashur, and possibly Enlil as examples of this role shifting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Some statements are qualified as probable or as a reasoned surmise rather
+    than presented as direct narrative evidence.
+- id: motif:4
+  label: deity glorified through honorific titles
+  taxonomy_refs: []
+  basis: The Seventh Tablet is described as wholly devoted to enumerating Marduk’s
+    honorific titles.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not provide the titles themselves.
+- id: motif:5
+  label: divine parent-child identification
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Marduk is identified as the son of Ea/Enki.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage only states the relationship and does not narrate a parent-child
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: Assyrian texts of the Creation Legend used in the city of Ashur assign Ashur
+    the same narrative position that Marduk holds in Babylonian versions.
+  claim_level: same_function
+  target: Assyrian texts of the Creation Legend from Ashur
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage summarizes the comparison and does not quote the Assyrian
+    fragments or describe Ashur’s specific deeds.
+- id: claim:2
+  claim: Different Babylonian city traditions could preserve the general form of the
+    Creation Legend while replacing the hero with the city’s chief local god.
+  claim_level: same_function
+  target: local Babylonian city versions of the Creation Legend
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents this as probable and does not list all city versions.
+- id: claim:3
+  claim: Enlil/Bel may have held the hero position in an earlier form of the Legend
+    before Marduk took that role at Babylon.
+  claim_level: same_function
+  target: possible earlier Enlil/Bel version associated with Nippur
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says there is reason for thinking this, rather than presenting
+    it as certain.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 162-167
+  quote_or_summary: "“the main object of the Legend was the glorification of the god
+    Marduk, the son of Ea (Enki), as the conqueror of the dragon Tiamat” and not chiefly
+    the narration of creation."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 167-170
+  quote_or_summary: Creation proper is mentioned as an exploit of Marduk in the Sixth
+    Tablet, and the Seventh Tablet enumerates Marduk’s honorific titles.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 170-174
+  quote_or_summary: The passage says great Babylonian cities probably adapted the
+    general form of the Creation Legend by making their greatest local god the hero,
+    and it links Marduk’s prominence to Babylon’s political importance.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 175-180
+  quote_or_summary: Fragments from Kal’at Sharkat/Ashur are said to show that the
+    god Ashur, national god of Assyria, occupied the position held by Marduk in Babylonian
+    versions of the Legend.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 180-184
+  quote_or_summary: The passage says there is reason to think Enlil/Bel, great god
+    of Nippur, was the original hero and that Marduk usurped his position at Babylon
+    when Babylon rose to power under the First Dynasty.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an expository summary rather than a mythic episode. Figure
+    and role extraction is well supported, but motif labels involving local adaptation
+    and hero substitution are interpretive summaries of the passage’s scholarly claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated taxonomy identifiers were used. Taxonomy reference was assigned only for the explicitly stated divine parent-child relationship.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesopotamian-enuma-elish-babylonian-legends-creation-gutenberg__l160-l187
+  passage_sha256=021253106c2735c1338837ba7183be7f796bcd879cdd4bb37808448c22b53fb6
+

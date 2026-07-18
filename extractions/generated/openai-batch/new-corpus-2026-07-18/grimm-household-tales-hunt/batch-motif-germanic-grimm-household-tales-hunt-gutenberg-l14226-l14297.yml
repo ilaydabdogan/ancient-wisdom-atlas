@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l14226-l14297
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 14226-14297
+  start: '14226'
+  end: '14297'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor woodcutter spends his savings on his only son's schooling, but the
+    son must return home when the money is gone. The son accompanies his father to
+    forest work, wanders during the meal break, and finds a voice under the roots
+    of an ancient oak. He discovers a glass bottle containing a frog-shaped creature,
+    uncorks it, and releases a spirit who grows enormous and threatens to strangle
+    him. The spirit identifies himself as mighty Mercurius and says his confinement
+    was punishment. The scholar tricks him into proving he can fit back into the bottle,
+    then corks it and returns it to the roots.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A poor woodcutter has one son and uses his saved money for the son's education.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the father's money is spent, the son returns home from school.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The son goes with his father to the forest to help with woodcutting work using
+    a borrowed axe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During the midday rest, the son walks through the forest looking for birds'
+    nests despite his father's warning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The son reaches a very old, dangerous-looking oak tree that is too large for
+    five men to span.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A smothered voice calls from among the roots of the oak and asks to be let
+    out.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The son finds a glass bottle in a hollow among the roots, containing a creature
+    shaped like a frog.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The son removes the cork from the bottle, and a spirit comes out and grows
+    rapidly into a huge figure.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The released spirit says the son's wage for releasing him is that the spirit
+    must strangle him.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: The spirit says he is the mighty Mercurius and that his confinement was a
+    punishment.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The scholar demands proof that the spirit was truly confined in the small
+    bottle before accepting the spirit's threat.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The spirit makes himself small and slender, re-enters the bottle, and the
+    scholar corks it again and throws it back among the oak roots.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: poor woodcutter
+  description: A poor father who works from morning until night and has one son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: son / scholar
+  description: The woodcutter's only child, educated at school, later helping his
+    father in the forest and confronting the spirit.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: neighbour
+  description: A neighbour who lends an axe to the father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: school masters
+  description: Teachers who praise the son's diligence at the High School.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: spirit / mighty Mercurius
+  description: A being first seen as a frog-shaped creature in a glass bottle, then
+    released as a spirit who grows huge and threatens to strangle the scholar.
+  role_refs:
+  - role:7
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: poor working father
+  assigned_to:
+  - fig:1
+  basis: He toils for earnings, spends his savings on his son's education, and later
+    works in the forest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: educated son
+  assigned_to:
+  - fig:2
+  basis: He attends a High School, learns diligently, and is called the scholar in
+    the later encounter.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: helper in forest work
+  assigned_to:
+  - fig:2
+  basis: He accompanies his father to the forest and helps him work.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: clever captor of the released spirit
+  assigned_to:
+  - fig:2
+  basis: He persuades the spirit to re-enter the bottle and then corks it.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: lender of axe
+  assigned_to:
+  - fig:3
+  basis: The father borrows an axe from the neighbour.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: teachers praising diligence
+  assigned_to:
+  - fig:4
+  basis: The masters praise the boy's learning.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: imprisoned being
+  assigned_to:
+  - fig:5
+  basis: The being is confined in a glass bottle among the oak roots and asks to be
+    let out.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: threatening released spirit
+  assigned_to:
+  - fig:5
+  basis: After release, the spirit grows enormous and says he must strangle the releaser.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: self-identified Mercurius
+  assigned_to:
+  - fig:5
+  basis: The spirit states, 'I am the mighty Mercurius.'
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ancient oak tree
+  literal_form: great dangerous-looking oak with roots and a hollow beneath it
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: glass bottle
+  literal_form: glass bottle found in a hollow among the oak roots
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: cork
+  literal_form: cork closing the glass bottle
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: borrowed axe
+  literal_form: axe lent by the neighbour for forest work
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: forest
+  literal_form: forest where father and son work and where the son finds the oak
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: frog-shaped form
+  literal_form: creature shaped like a frog seen inside the bottle
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Education interrupted by poverty
+  summary: The poor woodcutter spends his saved money on his son's education, but
+    the son returns home when the money is gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Father and son work in the forest
+  summary: The son helps his father in the forest with a borrowed axe and then wanders
+    during the meal break to look for birds' nests.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Voice and bottle under the oak
+  summary: The son hears a voice from the roots of an ancient oak and finds a glass
+    bottle containing a frog-shaped creature asking to be released.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Release and threat
+  summary: The son uncorks the bottle; the spirit emerges, grows huge, and says he
+    must strangle the person who released him.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Proof-test and renewed confinement
+  summary: The scholar asks the spirit to prove he can fit back inside the bottle;
+    when the spirit re-enters, the scholar corks the bottle and returns it to the
+    oak roots.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Poor parent sacrifices savings for child's learning
+  taxonomy_refs: []
+  basis: The woodcutter spends money earned by hard labor on his only son's education,
+    but poverty ends the schooling.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a social setup rather than a strongly marked mythic motif in the
+    supplied taxonomy.
+- id: motif:2
+  label: Forest wandering leads to hidden supernatural captive
+  taxonomy_refs: []
+  basis: The son leaves the work site, wanders in the forest, hears a voice under
+    an ancient oak, and finds a bottled being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no explicit sacred status to the forest or oak.
+- id: motif:3
+  label: Released captive spirit threatens rescuer
+  taxonomy_refs: []
+  basis: After the scholar removes the cork, the spirit emerges and declares that
+    he must strangle the one who released him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No direct taxonomy reference among the supplied motif families exactly
+    names this pattern.
+- id: motif:4
+  label: Clever test tricks dangerous being back into confinement
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The scholar challenges the spirit to prove he can re-enter the bottle, then
+    corks it once the spirit is inside.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The taxonomy references are broad; the passage does not call the scholar
+    a trickster, but his action functions as a deceptive boundary maneuver.
+- id: motif:5
+  label: Supernatural being alters size to enter and leave a container
+  taxonomy_refs:
+  - shapeshifter
+  basis: The spirit grows to a huge size after release and later makes himself small
+    and slender to pass through the bottle opening.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The change is a size transformation, not a full change of species; 'shapeshifter'
+    is therefore approximate.
+comparison_claims:
+- id: claim:1
+  claim: 'The scholar''s ruse has the same functional pattern as a trickster-boundary
+    motif: a weaker human uses a verbal test and the threshold of a container to overcome
+    a stronger supernatural threat.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not use the term trickster and no external parallel
+    is supplied; the claim is limited to functional similarity with the provided taxonomy
+    family.
+- id: claim:2
+  claim: The spirit's expansion from the bottle and contraction back into it can be
+    cautiously compared to a shapeshifter pattern of bodily transformation.
+  claim_level: same_function
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage describes changes in size and slenderness, not a complete
+    identity or species transformation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14226-14244
+  quote_or_summary: A poor woodcutter spends his saved earnings on his only son's
+    schooling; the son is praised by masters but returns home when the money is exhausted.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 14245-14258
+  quote_or_summary: The son offers to help his father in the forest; the father borrows
+    an axe from a neighbour; at midday the son walks in the forest looking for birds'
+    nests despite being told to rest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 14259-14273
+  quote_or_summary: The son comes to a very old, huge oak, hears a voice from among
+    its roots calling to be released, and finds a glass bottle in a hollow containing
+    a frog-shaped creature.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 14273-14281
+  quote_or_summary: 'The scholar removes the cork; a spirit ascends from the bottle,
+    grows rapidly into a huge figure, and asks whether he knows the wages for releasing
+    him: strangulation.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: quote
+  locator: 14281-14288
+  quote_or_summary: 'The spirit says his confinement was punishment and declares:
+    "I am the mighty Mercurius. Whoso releases me, him must I strangle."'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; brief quotation from public domain passage.
+- id: ev:6
+  type: summary
+  locator: 14288-14297
+  quote_or_summary: The scholar asks the spirit to prove he was in the bottle; the
+    spirit makes himself small and re-enters; the scholar corks the bottle and throws
+    it back among the oak roots.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    links are cautious because the available motif families are broad and do not include
+    an exact label for the bottled-spirit episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and interpretive candidates are limited to the supplied passage and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l14226-l14297
+  passage_sha256=8814bc09589836d265c62ff6f66f266d5ed88b7b5fa4aa5153ffeb2aeefbaa39
+

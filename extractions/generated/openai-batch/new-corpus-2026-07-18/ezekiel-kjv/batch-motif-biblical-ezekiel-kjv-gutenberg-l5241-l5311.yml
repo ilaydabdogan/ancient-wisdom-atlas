@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.biblical-ezekiel-kjv-gutenberg-l5241-l5311
+source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+passage_locator:
+  label: 'The Bible, King James Version, Book 26: Ezekiel / Book 26        Ezekiel;
+    lines 5241-5311'
+  start: '5241'
+  end: '5311'
+  translation: 'The Bible, King James Version, Book 26: Ezekiel'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes measured allotments around the holy portion and city,
+    land portions for the prince and tribes, named city gates corresponding to tribes
+    of Israel, and the city’s final name, “The LORD is there.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A residue of land beside the holy portion is assigned to provide food for
+    those who serve the city, and city servants are drawn from all the tribes of Israel.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The holy oblation is specified as twenty-five thousand by twenty-five thousand
+    and is to be offered foursquare with the possession of the city.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Land on both sides of the holy oblation and city possession is assigned to
+    the prince, and the sanctuary of the house is in the midst of the holy oblation.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The possessions of the Levites and of the city are described as lying in the
+    midst of what belongs to the prince, between the borders of Judah and Benjamin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage lists portions for Benjamin, Simeon, Issachar, Zebulun, and Gad
+    from the east side to the west side.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A southern border is described from Tamar to the waters of strife in Kadesh
+    and to the river toward the great sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The land is to be divided by lot to the tribes of Israel for inheritance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The city has four sides of four thousand and five hundred measures each, with
+    three gates on each side named after tribes of Israel.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The total measure around the city is eighteen thousand, and the city is named
+    “The LORD is there.”
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tribes of Israel
+  description: Collective group from which city servants come, to whom the land is
+    divided for inheritance, and after whose names the city gates are named.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Those who serve the city
+  description: People who serve the city and receive food from the increase of the
+    residue beside the holy portion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The prince
+  description: Holder of the residue on both sides of the holy oblation and the city
+    possession.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Levites
+  description: Group with a possession named alongside the possession of the city,
+    located in the midst of the prince’s area.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: The LORD GOD / The LORD
+  description: Named as the speaker of the declaration about the tribal portions and
+    as present in the city’s final name.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: inheritance recipients
+  assigned_to:
+  - fig:1
+  basis: The land is divided by lot to the tribes of Israel for inheritance.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: gate-name referents
+  assigned_to:
+  - fig:1
+  basis: The gates of the city are named after tribes of Israel.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: source of city servants
+  assigned_to:
+  - fig:1
+  basis: Those who serve the city are said to serve it out of all the tribes of Israel.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: city servants
+  assigned_to:
+  - fig:2
+  basis: They serve the city and receive food from the land’s increase.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: princely land holder
+  assigned_to:
+  - fig:3
+  basis: Residue on both sides of the holy oblation and city possession is assigned
+    to the prince.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Levitical possessors
+  assigned_to:
+  - fig:4
+  basis: The passage mentions the possession of the Levites in relation to the city
+    and prince’s land.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: divine speaker
+  assigned_to:
+  - fig:5
+  basis: The allotment statement concludes with “saith the Lord GOD.”
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: named divine presence
+  assigned_to:
+  - fig:5
+  basis: The city’s name is given as “The LORD is there.”
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: holy oblation
+  literal_form: A foursquare holy allotment of twenty-five thousand by twenty-five
+    thousand, associated with the possession of the city and containing the sanctuary
+    in its midst.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: central sanctuary
+  literal_form: The sanctuary of the house located in the midst of the holy oblation.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tribal city gates
+  literal_form: Twelve city gates, three on each side, named for Reuben, Judah, Levi,
+    Joseph, Benjamin, Dan, Simeon, Issachar, Zebulun, Gad, Asher, and Naphtali.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: city name of divine presence
+  literal_form: The city is named “The LORD is there.”
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: water boundary
+  literal_form: The waters of strife in Kadesh, the river, and the great sea are named
+    as part of the southern boundary description.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Holy portion, city, and prince’s land described
+  summary: Measured land beside the holy portion is assigned for city service; the
+    holy oblation and city possession are described; surrounding residue is assigned
+    to the prince, with the sanctuary in the midst.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tribal portions and southern boundary listed
+  summary: Portions are listed for several tribes, a southern boundary is described,
+    and the land is declared to be divided by lot to the tribes for inheritance.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: City gates and city name given
+  summary: The city’s sides and gates are measured and named after tribes of Israel;
+    the city’s circumference and final name are stated.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred center with sanctuary in the midst
+  taxonomy_refs:
+  - world_center
+  basis: The sanctuary is placed in the midst of the holy oblation, and the city’s
+    name identifies divine presence there.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a sacred administrative layout; it does not explicitly
+    describe the site as a cosmic center.
+- id: motif:2
+  label: tribal inheritance by ordered allotment
+  taxonomy_refs: []
+  basis: The land is divided by lot to the tribes of Israel for inheritance, with
+    specified portions and named gates.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No external taxonomy reference is assigned because the passage frames
+    this as land division rather than an explicit mythic journey or combat motif.
+- id: motif:3
+  label: city of divine presence
+  taxonomy_refs: []
+  basis: The passage concludes by naming the city “The LORD is there.”
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif label is descriptive and limited to the passage’s naming statement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26:048:018-022
+  quote_or_summary: Land beside the holy portion supports city servants; the holy
+    oblation is foursquare; land on both sides is for the prince; the sanctuary is
+    in the midst; Levite and city possessions lie within the prince’s area.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text from Project Gutenberg metadata supplied in
+    request.
+- id: ev:2
+  type: summary
+  locator: 26:048:023-029
+  quote_or_summary: Portions are listed for Benjamin, Simeon, Issachar, Zebulun, and
+    Gad; the southern border is described using Tamar, the waters of strife in Kadesh,
+    the river, and the great sea; the land is divided by lot to the tribes of Israel
+    for inheritance.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text from Project Gutenberg metadata supplied in
+    request.
+- id: ev:3
+  type: summary
+  locator: 26:048:030-034
+  quote_or_summary: The city sides measure four thousand and five hundred, and there
+    are three gates on each side named for tribes of Israel.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text from Project Gutenberg metadata supplied in
+    request.
+- id: ev:4
+  type: quote
+  locator: 26:048:035
+  quote_or_summary: "“The LORD is there.” The same verse gives the measure around
+    the city as eighteen thousand."
+  source_text_path: texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md
+  rights_note: Public domain KJV text from Project Gutenberg metadata supplied in
+    request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious and mostly descriptive; only the central sanctuary/divine-presence
+    pattern is tentatively linked to the available world_center taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare its layout or imagery to another text, tradition, or motif family.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-ezekiel-kjv-gutenberg__l5241-l5311
+  passage_sha256=bc5f5a12a8b70266304d99b26a4143916ca42cad80f23ceaea40967be1899ffa
+

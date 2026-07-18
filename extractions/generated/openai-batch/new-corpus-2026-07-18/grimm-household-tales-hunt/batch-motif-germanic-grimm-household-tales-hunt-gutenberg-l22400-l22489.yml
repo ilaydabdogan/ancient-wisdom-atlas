@@ -1,0 +1,576 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l22400-l22489
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 22400-22489
+  start: '22400'
+  end: '22489'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first concludes a tale in which a separated husband and wife
+    regain human form after waters recede, live for years as shepherds among strangers,
+    and recognize each other through a sorrowful flute melody under the full moon.
+    It then begins “The Little Folks’ Presents”: a tailor and a goldsmith encounter
+    little people dancing on a moonlit hill. An old man shaves them, directs them
+    to take coals, and the coals become gold overnight. The contented tailor refuses
+    a second quest for treasure, while the greedy goldsmith returns with bags for
+    more.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Water tears a pair apart and carries them far away; after the water disperses
+    and they touch dry land, they regain human form.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The separated pair find themselves among strangers, with high mountains and
+    deep valleys between them, and both survive by tending sheep.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: In spring the two shepherds draw near one another, meet in a valley, and do
+    not recognize each other at first.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Under a full moon, the shepherd plays a sorrowful air on a flute, and the
+    shepherdess weeps because the tune recalls the last time she played it and saw
+    her beloved’s head rise from the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The shepherd recognizes the shepherdess as his wife, and she recognizes him
+    when moonlight shines on his face; they embrace and kiss.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A tailor and a goldsmith hear distant music after sunset and find a crowd
+    of little men and women dancing on a hill under the moon.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An old man among the little folk invites the two travelers into the dance
+    circle, and both enter.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The old man sharpens a large knife and shaves the hair from the goldsmith’s
+    head and then from the tailor’s head.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the shaving, the old man claps the travelers on the shoulder in a friendly
+    manner and gestures for them to fill their pockets with coals.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When the neighboring monastery clock strikes twelve, the song ceases, the
+    little folk vanish, and the hill is left empty in the moonlight.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: At the inn, the travelers discover that the coals in their pockets have become
+    pure gold and that their hair and beards have returned.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The goldsmith is described as greedy, has taken more than the tailor, and
+    proposes returning for greater treasure; the tailor says he has enough and is
+    content.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The goldsmith returns to the hill with bags, is shaved again by the old man,
+    takes as much coal as the bags will hold, and falls asleep expecting to wake rich.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the separated husband / shepherd
+  description: A husband separated by water, restored to human form, living as a shepherd,
+    and later recognized through the flute melody and moonlight.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the separated wife / shepherdess
+  description: A wife separated from her beloved, restored to human form, living as
+    a shepherdess, and moved to tears by a flute melody before recognizing her husband.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the tailor
+  description: A traveler who joins the little folk’s dance after initial fear, submits
+    to shaving, takes coals that become gold, and declares himself content.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: the goldsmith
+  description: A hunchbacked traveler described as brave and greedy; he submits to
+    shaving, receives gold from transformed coals, and returns with bags for more.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: the little folk
+  description: A crowd of little men and women dancing and singing on a moonlit hill,
+    who open their circle to the two travelers and vanish at midnight.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: the old man among the little folk
+  description: An old man, taller than the rest, wearing a parti-coloured coat and
+    an iron-grey beard; he invites the travelers, shaves them, and directs them to
+    take coals.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+roles:
+- id: role:1
+  label: separated spouse recognized as beloved
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two are separated, long for each other, and later recognize each other
+    as husband and wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: shepherd in exile-like separation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both survive among strange people by tending sheep for many years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: human traveler receiving supernatural gift
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The tailor and goldsmith encounter little folk, obey the old man’s gestures,
+    take coals, and later receive gold.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:4
+  label: contented recipient
+  assigned_to:
+  - fig:3
+  basis: After the first gift, the tailor says he has enough and is content.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: greedy return seeker
+  assigned_to:
+  - fig:4
+  basis: The goldsmith is explicitly described as greedy and returns with bags to
+    obtain more treasure.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: supernatural dancing community
+  assigned_to:
+  - fig:5
+  basis: The little men and women dance and sing on a moonlit hill, admit the travelers,
+    and vanish at midnight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:7
+  label: supernatural ritual giver
+  assigned_to:
+  - fig:6
+  basis: The old man performs the shaving and gestures for the travelers to take coals
+    that later become gold.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: separating water
+  literal_form: water that tears the pair apart, later disperses, and is recalled
+    when the beloved’s head rose from it
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: dry land and restored human form
+  literal_form: dry land touched after the water disperses, followed by regaining
+    human form
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mountains and valleys between the separated pair
+  literal_form: high mountains and deep valleys lying between them
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: full moon
+  literal_form: full moon shining when the flute is played and when the spouses recognize
+    each other
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: flute melody
+  literal_form: a beautiful but sorrowful air played on a flute
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: moonlit hill and dance circle
+  literal_form: hill under the moon where little men and women dance hand in hand
+    in a circle
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: knife and shaving
+  literal_form: large knife used by the old man to shave the travelers’ hair clean
+    off
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: coals becoming gold
+  literal_form: coals placed in pockets that are found to be pure gold the next morning
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:9
+  label: restored hair and beards
+  literal_form: hair and beards found restored as thick as ever after the night
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: bags for extra treasure
+  literal_form: bags carried by the goldsmith to hold more coal on the second visit
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Water separation and shepherd life
+  summary: The separated spouses are carried far apart by water, regain human form
+    on dry land, and spend years as shepherds among strangers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moonlit musical recognition
+  summary: The shepherd’s flute melody under the full moon causes the shepherdess
+    to remember her beloved, leading both spouses to recognize each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Travelers reach the little folk’s dance
+  summary: The tailor and goldsmith follow strange pleasant music to a moonlit hill
+    where little men and women sing and dance in a circle.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Shaving and coal gift
+  summary: The old man shaves both travelers, gestures approval, and instructs them
+    to fill their pockets with coals before the little folk vanish at midnight.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Coals discovered as gold
+  summary: The travelers sleep at an inn and wake to find the coals changed into gold
+    and their hair and beards restored.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Greedy return to the hill
+  summary: The goldsmith, wanting more treasure, returns with bags, undergoes the
+    shaving again, and takes as much coal as he can carry.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:10
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Restored human form after water-borne separation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The pair regain human form after the water disperses and they touch dry land,
+    but the prior transformation context lies outside the excerpt.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage begins mid-action, so the original non-human form and cause
+    of transformation are not specified here.
+- id: motif:2
+  label: Separated beloveds reunited by remembered music
+  taxonomy_refs: []
+  basis: The shepherd’s flute melody recalls an earlier moment and leads the separated
+    spouses to recognize each other under the moon.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage identifies the pair as husband and wife, but gives only the
+    conclusion of the larger tale.
+- id: motif:3
+  label: Moonlit encounter with dancing little folk
+  taxonomy_refs: []
+  basis: Two travelers follow music to a moonlit hill and enter a circle of little
+    men and women who sing and dance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader origin or identity for the little folk is stated beyond their
+    description and actions.
+- id: motif:4
+  label: Supernatural reward for submitting to strange treatment
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The travelers allow the old man to shave them, obey his gesture to take coals,
+    and later find the coals changed into gold with their hair restored.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage frames the exchange as supernatural but does not explicitly
+    call it sacred.
+- id: motif:5
+  label: Contentment contrasted with greed after a magical gift
+  taxonomy_refs:
+  - wisdom
+  basis: After receiving gold, the tailor says he has enough, while the goldsmith
+    is described as greedy and returns for greater treasure.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage ends before the outcome of the goldsmith’s second attempt
+    is shown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22400-22405
+  quote_or_summary: Water separates the pair; once it disperses and they touch dry
+    land, they regain human form and find themselves among strangers, with mountains
+    and valleys between them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22405-22413
+  quote_or_summary: Both survive by tending sheep for years; in spring they meet in
+    a valley without recognizing each other and then bring their flocks to the same
+    place daily.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22413-22422
+  quote_or_summary: Under a full moon, the shepherd plays a sorrowful flute tune;
+    the shepherdess recalls playing the same air when her beloved’s head rose from
+    the water, and the two recognize each other as spouses.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 22424-22433
+  quote_or_summary: The tale “The Little Folks’ Presents” begins; a tailor and goldsmith
+    hear pleasant distant music after sunset and reach a moonlit hill where little
+    men and women dance.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22435-22445
+  quote_or_summary: An old man, taller than the other little folk and wearing a parti-coloured
+    coat, invites the travelers into the circle; the goldsmith enters first and the
+    tailor follows.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22445-22458
+  quote_or_summary: The old man sharpens a large knife, shaves the goldsmith and tailor,
+    then gestures approval and directs them to fill their pockets with coals.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 22459-22461
+  quote_or_summary: When the neighboring monastery clock strikes twelve, the song
+    ceases and all the little folk vanish, leaving the hill in moonlight.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 22463-22469
+  quote_or_summary: At an inn, the travelers wake to find their pockets filled not
+    with coals but with pure gold; their hair and beards have returned.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 22471-22488
+  quote_or_summary: The goldsmith, described as greedy, wants more treasure and returns
+    with bags; the tailor says he has enough. The goldsmith undergoes the shaving
+    again, takes much coal, and sleeps expecting wealth.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the provided excerpt. Motif labels are candidate-level
+    because the passage combines the ending of one tale with the beginning of another,
+    and the second tale is cut off before its full conclusion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage itself does not explicitly compare these scenes to other traditions or texts.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l22400-l22489
+  passage_sha256=0d6bd330a5724d838ee692bbfcd564c3f05828575068dec89f28d1f0db5eb29a
+

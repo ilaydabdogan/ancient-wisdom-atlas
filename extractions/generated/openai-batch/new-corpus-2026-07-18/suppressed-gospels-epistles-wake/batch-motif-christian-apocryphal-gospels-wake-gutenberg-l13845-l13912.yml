@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l13845-l13912
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: A FRAGMENT. / REFERENCE TO THE SECOND EPISTLE THE CORINTHIANS. / THE GENERAL
+    EPISTLE OF BARNABAS. / CHAPTER I.; lines 13845-13912
+  start: '13845'
+  end: '13912'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The writer greets his sons and daughters in the name of Jesus Christ, rejoices
+    in their knowledge, faith, charity, hope, and received grace, and states his intention
+    to write briefly so their knowledge may be perfected. He describes the Lord as
+    ordaining hope, beginning, and completion of life, revealing past and future through
+    prophets, and urges the audience to approach the altar more holily.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a greeting to sons and daughters in the name of the
+    Lord Jesus Christ.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressees are said to possess abundant knowledge of the great and excellent
+    laws of God.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressees are described as having received grace grafted in them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he sees a spirit infused into the addressees from the pure
+    fountain of God.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker intends to communicate part of what he has received so that the
+    addressees' knowledge may be perfect alongside their faith.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'Three things are said to be ordained by the Lord: the hope of life, the beginning,
+    and the completion of it.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Lord is said to have declared past things by the prophets and opened beginnings
+    of things to come.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The addressees are urged to come more holily and nearer to the Lord's altar.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker of the epistle
+  description: The writer who greets the addressees, rejoices in them, and says he
+    will write a few words to them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: sons and daughters / brethren
+  description: The addressees, described as possessing knowledge, faith, charity,
+    hope, and received grace.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Lord Jesus Christ
+  description: Named in the greeting as the Lord Jesus Christ who loved us.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: God
+  description: Named as the source of great laws and as the pure fountain from which
+    a spirit is infused.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: prophets
+  description: Figures through whom the Lord is said to have declared things past.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: the Lord
+  description: The figure said to ordain the hope, beginning, and completion of life,
+    and to declare past and future things.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: exhorting writer
+  assigned_to:
+  - fig:1
+  basis: The speaker says he will write a few words and lay before the addressees
+    things by which they may become more joyful.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:2
+  label: instructed community
+  assigned_to:
+  - fig:2
+  basis: The addressees are greeted and are the recipients of instruction intended
+    to perfect their knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: beloved Lord
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Jesus Christ is named as Lord who loved the community; the Lord is also the
+    authority cited in later exhortation.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:4
+  label: divine source
+  assigned_to:
+  - fig:4
+  basis: God is named as source of laws and of the pure fountain from which spirit
+    comes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: prophetic intermediaries
+  assigned_to:
+  - fig:5
+  basis: The prophets are described as the means by which the Lord declared things
+    past.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: revealer of past and future
+  assigned_to:
+  - fig:6
+  basis: The Lord is said to declare past things and open beginnings of things to
+    come.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pure fountain of God
+  literal_form: pure fountain
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: grace grafted in the addressees
+  literal_form: grafted grace
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: altar of the Lord
+  literal_form: altar
+  associated_figures:
+  - fig:6
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: hope of life
+  literal_form: hope of life
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Greeting and praise of the addressees
+  summary: The speaker greets the addressees in the name of Jesus Christ and praises
+    their knowledge, received grace, faith, charity, and hope.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Purpose for writing
+  summary: The speaker says he will communicate part of what he has received in a
+    brief writing so that the addressees' knowledge may become perfect with their
+    faith.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Divine ordination and revelation
+  summary: The Lord is said to ordain hope, beginning, and completion of life, and
+    to reveal past and future things through the prophets.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Exhortation toward the altar
+  summary: The addressees are urged to come more holily and nearer to the Lord's altar.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: instruction in divine knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes knowledge of God's laws, received teaching, and the
+    perfection of knowledge alongside faith.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is a didactic preface rather than a narrative wisdom quest.
+- id: motif:2
+  label: divine revelation of past and future
+  taxonomy_refs:
+  - wisdom
+  basis: The Lord is said to reveal past things through prophets and open beginnings
+    of things to come.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states revelation generally and does not narrate a specific
+    vision, prophecy, or apocalyptic journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13845-13912, Chapter I, verses 1
+  quote_or_summary: '"ALL happiness to you my sons and daughters, in the name of our
+    Lord Jesus Christ, who loved us, in peace."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13845-13912, Chapter I, verse 2
+  quote_or_summary: The writer rejoices that the addressees have abundant knowledge
+    of God's laws and have received grace grafted in them.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13845-13912, Chapter I, verse 3
+  quote_or_summary: The speaker says he sees "a spirit infused into you, from the
+    pure fountain of God."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13845-13912, Chapter I, verses 5-6
+  quote_or_summary: The writer says he loves the addressees, notes their faith, charity,
+    and hope of life to come, and writes briefly to communicate what he has received
+    so their knowledge may be perfect.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 13845-13912, Chapter I, verse 7
+  quote_or_summary: '"There are therefore three things ordained by the Lord; the hope
+    of life, the beginning, and the completion of it."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 13845-13912, Chapter I, verse 8
+  quote_or_summary: The Lord is said to have declared past things by the prophets
+    and opened beginnings of things to come.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 13845-13912, Chapter I, verse 9
+  quote_or_summary: The addressees are urged "to come more holily, and nearer to his
+    altar."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 13845-13912, Chapter I, verse 10
+  quote_or_summary: The writer states that he speaks not as a teacher but as one of
+    the addressees and will lay before them a few things to make them more joyful.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily epistolary exhortation with theological imagery;
+    motif identification is limited to explicit themes of divine knowledge and revelation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a concrete cross-text or cross-tradition comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l13845-l13912
+  passage_sha256=ea2844682313c42eef32c1e6460f51208a2924d5e715ce548704311296dd7009
+

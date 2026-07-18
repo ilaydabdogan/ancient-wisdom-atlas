@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l5484-l5550
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 5484-5550
+  start: '5484'
+  end: '5550'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A tailor grieves after his sons are gone. His eldest son becomes a joiner
+    and receives from his master a plain wooden table that furnishes food and wine
+    when commanded. The son uses it while traveling, feeds guests at an inn, and sleeps
+    there. The innkeeper secretly substitutes a similar ordinary table. The son returns
+    home to his father and publicly tries to demonstrate the table's power, but it
+    fails, causing shame and mockery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tailor is left alone in his house, grieves, and wants his sons back.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The eldest son apprentices himself to a joiner and learns diligently.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the end of the apprenticeship, the master gives the eldest son a plain
+    little table made of common wood.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When the table is set out and addressed with a command to spread or cover
+    itself, it provides cloth, tableware, food, and red wine.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The young journeyman travels with the table and can eat in places such as
+    a plain, wood, or meadow without depending on an inn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At a crowded inn, the joiner uses the table to feed the guests, and empty
+    dishes are replaced by full ones.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The innkeeper watches the table and thinks such a cook would be useful in
+    his kitchen.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: While the apprentice sleeps, the innkeeper brings out a similar old table
+    and exchanges it for the wishing-table.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The joiner returns to his father, says he has become a joiner, and presents
+    the table as the best thing brought back from apprenticeship.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: When relatives and friends assemble, the table does not respond to the command,
+    and the apprentice realizes it has been changed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: After the failed demonstration, the relations mock the apprentice, the father
+    resumes tailoring, and the son goes to a master in the craft.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the tailor
+  description: Father of the absent sons; he grieves when alone, later receives the
+    eldest son, judges the table as a poor piece of work, and resumes tailoring after
+    the failure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the eldest son / joiner / young journeyman
+  description: The eldest son apprentices as a joiner, receives and uses the magic
+    table, returns to his father, and is shamed when the substituted table fails.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: the joiner master
+  description: The master of the eldest son's apprenticeship who presents him with
+    the little table.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the innkeeper / host
+  description: The host at the crowded inn who observes the table, covets its usefulness,
+    and exchanges it for a similar old table.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: inn guests
+  description: Guests at the inn who are invited by the joiner to eat from the magic
+    table and witness its abundance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: relations and friends
+  description: The company invited by the father and son to witness and enjoy the
+    table at home; they leave without eating or drinking and mock the apprentice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: grieving father and household recipient
+  assigned_to:
+  - fig:1
+  basis: The tailor grieves for his absent sons and later receives the returning eldest
+    son at home.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: apprentice bearer of a magic object
+  assigned_to:
+  - fig:2
+  basis: The eldest son learns the joiner's craft, receives the table, travels with
+    it, and attempts to use it on returning home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: gift-giving craft master
+  assigned_to:
+  - fig:3
+  basis: The joiner master presents the apprentice with the special table at the end
+    of his apprenticeship.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deceptive thief by substitution
+  assigned_to:
+  - fig:4
+  basis: The innkeeper secretly exchanges the magic table for a similar ordinary table.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: communal witnesses
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The inn guests witness the functioning table, while the relations and friends
+    witness the later failed demonstration.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: wishing-table
+  literal_form: A plain little wooden table that furnishes itself with cloth, tableware,
+    dishes, and wine when commanded.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: substitute old table
+  literal_form: A similar old table from the innkeeper's lumber-room exchanged for
+    the wishing-table.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: self-renewing feast
+  literal_form: Dishes of boiled and roasted meats, red wine, and full dishes replacing
+    empty ones.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: The tailor alone and the eldest son's apprenticeship
+  summary: The tailor grieves at home, while the eldest son learns the joiner's trade
+    and receives a plain wooden table from his master.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Travel with the self-furnishing table
+  summary: The journeyman travels joyfully and uses the table outdoors or wherever
+    he chooses, obtaining what he desires without reliance on inns.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Feast at the crowded inn
+  summary: At an inn, the joiner invites the guests to be his guests, commands the
+    table, and the company eats from food that renews itself.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The innkeeper's substitution
+  summary: After the apprentice goes to sleep, the innkeeper secretly replaces the
+    wishing-table with a similar ordinary table.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Homecoming and failed demonstration
+  summary: The son returns to his father, invites relations and friends, and commands
+    the table, but the substituted table remains bare; he is shamed and mocked.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Magic self-provisioning table
+  taxonomy_refs: []
+  basis: A plain wooden table produces prepared food, table settings, and wine when
+    addressed with a command, and its dishes renew during a feast.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage supports the motif at the object-function level; no external
+    tale-type classification is supplied in the metadata.
+- id: motif:2
+  label: Wonder-object stolen by substitution
+  taxonomy_refs: []
+  basis: The innkeeper notices the table's usefulness and secretly exchanges it with
+    a similar ordinary table while the owner sleeps.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes theft by exchange, but does not characterize the
+    stolen object as sacred or assign a taxonomy label.
+- id: motif:3
+  label: Return home with failed proof of a magical gift
+  taxonomy_refs:
+  - return
+  basis: The journeyman returns to his father intending to display the wishing-table,
+    but the table fails before assembled relations because it has been changed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference captures the homecoming component only; the failed
+    proof and stolen-object components are more specific than the available taxonomy
+    label.
+- id: motif:4
+  label: Apprenticeship reward as marvel-object
+  taxonomy_refs: []
+  basis: The eldest son completes a craft apprenticeship and receives the wondrous
+    table from his master as the object he brings back from learning his trade.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage provides the reward and craft context, but does not state
+    a broader ritual or sacred exchange frame.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5484-5493
+  quote_or_summary: The tailor is alone and grieving; the eldest son apprentices to
+    a joiner, learns diligently, and receives a plain little wooden table from his
+    master.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 5493-5500
+  quote_or_summary: The table responds to a command to spread or cover itself by producing
+    a cloth, plate, knife, fork, meats, and red wine.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 5500-5508
+  quote_or_summary: The journeyman travels with the table, uses it outdoors or wherever
+    he wishes, and decides to return to his father with it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 5508-5526
+  quote_or_summary: At a crowded inn, the joiner commands the table, feeds the guests,
+    and the empty dishes are replaced by full ones while the innkeeper watches.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 5526-5533
+  quote_or_summary: The innkeeper finds a similar old table in his lumber-room and
+    secretly exchanges it for the wishing-table while the apprentice sleeps.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 5533-5539
+  quote_or_summary: The joiner returns home, is received joyfully by his father, and
+    says he has become a joiner.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 5539-5547
+  quote_or_summary: The son identifies the little table as the best thing brought
+    from apprenticeship, explains its power, invites relations and friends, and commands
+    it to cover itself.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 5547-5550
+  quote_or_summary: The table remains bare; the apprentice realizes it has been changed,
+    the relations mock him, the father resumes tailoring, and the son goes to a master
+    in the craft.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are descriptive and passage-level; no external tale-type or cross-cultural comparison
+    is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison to another text, tradition, or motif family beyond descriptive candidate motifs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l5484-l5550
+  passage_sha256=74241a81c3f7c2a641f93754a2e5c073c491394ce2e59caa42bd8f3d442ce725
+

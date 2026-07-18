@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l1764-l1811
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: POETRY AND MUSIC. / TRIBAL ORGANIZATION. / RELIGION. / CEREMONIES.; lines
+    1764-1811
+  start: '1764'
+  end: '1811'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Navaho ceremonial dances as religiously symbolic
+    public performances that also entertain spectators, especially on the final night
+    of major ceremonies. It then summarizes Navaho prayer forms, including deity-addressed
+    healing and blessing prayers led by a shaman and repeated by a patient, fourfold
+    closing formulas, and other prayer types used by shamans, priests, and laypeople.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Navaho dances are described as accompanied by religious symbolism and sometimes
+    performed by men wearing sacred costumes, while also serving largely to entertain
+    spectators.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Large crowds gather for the last night of a great ceremony, and many spectators
+    stay up all night to watch.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The last night of the mountain chant includes picturesque and varied dances,
+    many borrowed from other rites; the last night of the night chant varies little
+    to an ordinary observer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dancing is rhythmical and well-timed, includes figures likened to quadrilles,
+    excludes round dances such as waltz or polka, and is preceded by private practice
+    by dancers and drummers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A common long-prayer form names a god, gives flattering attributes, may mention
+    the god's residence, states that sacrifices have been prepared, asks removal of
+    a disease spell, immediately affirms its removal, and asks blessings for the supplicant
+    and the supplicant's kin and people.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the described prayer performance, the shaman gives the prayer one sentence
+    at a time and the patient repeats each sentence.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The two-voice prayers are said to sound like litanies and end with the expression
+    “hozóna hastlé,” analogous to amen, repeated four times.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The author states that these prayers show no indication of Christian teaching
+    influence, except for occasional requests for wealth in the form of horses and
+    sheep as evidence of modern influence.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Other prayer types include shamanic monologue prayers, silent and vocal prayers,
+    formulated and extempore prayers, prayers used by priests and laypeople, and short
+    devotional sayings classed as benedictions and ejaculations.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Navaho dancers
+  description: Ceremonial dancers, including men wearing sacred costumes, who perform
+    public dances and practice before exhibition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Spectators
+  description: People who gather in large numbers on the last night of major ceremonies
+    and stay awake watching the performances.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Drummers
+  description: Drummers who practice privately with dancers before public exhibition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Shaman
+  description: Ritual specialist who gives the prayer sentence by sentence and possesses
+    various prayer forms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Patient or supplicant
+  description: Person who repeats the shaman's prayer sentence by sentence and for
+    whom disease removal and blessings are requested.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: God addressed in prayer, exemplified by Hastséyalti
+  description: A deity named in prayer, given attributes and sometimes a residence,
+    informed of prepared sacrifices, and asked to remove disease and give blessings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Kindred and people of the supplicant
+  description: Collective beneficiaries for whom blessings are requested in the prayer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ceremonial performer
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Dancers and drummers prepare privately and participate in public ceremonial
+    performance.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual spectator
+  assigned_to:
+  - fig:2
+  basis: Spectators gather to witness final-night dances and often remain all night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: prayer leader or ritual specialist
+  assigned_to:
+  - fig:4
+  basis: The shaman gives out the prayer one sentence at a time and is associated
+    with multiple prayer types.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: patient and supplicant
+  assigned_to:
+  - fig:5
+  basis: The patient repeats the shaman's words; the prayer asks removal of disease
+    and blessings for the supplicant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: deity addressed for healing and blessing
+  assigned_to:
+  - fig:6
+  basis: The god is named, praised, told of sacrifices, and asked to remove disease
+    and bestow blessings.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: beneficiaries of blessing
+  assigned_to:
+  - fig:7
+  basis: The prayer asks blessings for the supplicant's kindred and people.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred costumes
+  literal_form: Sacred costumes worn by men in ceremonial dances.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ritual dance figures
+  literal_form: Rhythmical dance figures likened to quadrille figures, with round
+    dances not observed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prepared sacrifices
+  literal_form: Sacrifices said in prayer to have been prepared for the god.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: disease spell
+  literal_form: A spell of disease that the deity is asked to remove and is immediately
+    affirmed as removed.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fourfold prayer closure
+  literal_form: The expression “hozóna hastlé,” analogous to amen, repeated four times
+    at the end of prayers.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: wealth as horses and sheep
+  literal_form: Requests for increase of wealth in the form of horses and sheep.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Final-night public ceremonial dances
+  summary: Navaho ceremonial dances with religious symbolism and sacred costumes are
+    performed before spectators, with large crowds especially attending final-night
+    performances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Formulaic deity-addressed healing prayer
+  summary: A long prayer names and praises a deity, mentions prepared sacrifices,
+    asks the deity to remove a disease spell, affirms the removal, and requests blessings
+    for the supplicant and wider community.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Two-voice prayer and closing formula
+  summary: The shaman recites a prayer sentence by sentence while the patient repeats
+    it, and the prayer ends with a fourfold amen-like expression.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Range of prayer types
+  summary: The passage lists additional prayer modes, including monologue, silent,
+    vocal, formulated, extempore, priestly, lay, and short devotional forms.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Public sacred performance with spectators
+  taxonomy_refs: []
+  basis: The dances are marked by religious symbolism and sacred costumes while also
+    functioning as public entertainment for crowds on final ceremonial nights.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic performance pattern rather than a narrative myth
+    motif.
+- id: motif:2
+  label: Sacrifice-linked supplication for healing and blessing
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The prayer tells the deity that sacrifices have been prepared, asks removal
+    of disease, affirms the removal, and requests blessings for the supplicant and
+    community.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage summarizes prayer structure and does not describe the actual
+    sacrificial rite in detail.
+- id: motif:3
+  label: Call-and-response ritual prayer
+  taxonomy_refs: []
+  basis: The shaman gives the prayer sentence by sentence and the patient repeats
+    each sentence after him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The pattern is described as ritual procedure, not as a mythic episode.
+- id: motif:4
+  label: Fourfold formulaic prayer ending
+  taxonomy_refs: []
+  basis: Two-voice prayers end with the expression “hozóna hastlé,” described as amen-like
+    and repeated four times.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain the symbolic meaning of the fourfold repetition.
+comparison_claims:
+- id: claim:1
+  claim: The two-voice Navaho prayers are compared in sound to litanies and their
+    closing expression is compared in function to the Christian amen.
+  claim_level: same_function
+  target: Christian litanies and amen-like prayer closure
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: high
+  limitations: The passage explicitly states that the prayers show no indication of
+    influence from Christian teaching, so the comparison is limited to formal or functional
+    resemblance.
+- id: claim:2
+  claim: Some Navaho dance figures are visually likened to quadrille figures, while
+    round dances such as waltz or polka are stated not to have been observed.
+  claim_level: visual_similarity
+  target: Quadrille figures, with waltz and polka as absent contrasts
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison reflects the observer's descriptive analogy and does
+    not establish historical contact or shared ritual meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1764-1768
+  quote_or_summary: Navaho dances are described as religiously symbolic, sometimes
+    performed in sacred costumes, and intended largely to entertain spectators.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1768-1779
+  quote_or_summary: Large crowds attend the last night of great ceremonies; mountain
+    chant dances are varied and often borrowed from other rites, while night chant
+    dances vary little to ordinary observers.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1780-1787
+  quote_or_summary: Dancing is rhythmical and well-timed, includes figures like quadrilles,
+    excludes observed round dances such as waltz or polka, and is rehearsed privately
+    by dancers and drummers.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 1793-1803
+  quote_or_summary: A common long-prayer plan names and praises a god, may state the
+    god's residence, mentions prepared sacrifices, asks removal of disease, affirms
+    removal, and asks blessings for the supplicant and the supplicant's people.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 1803-1805
+  quote_or_summary: The shaman gives the prayer one sentence at a time, and the patient
+    repeats it sentence by sentence.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 1807-1816
+  quote_or_summary: Two-voice prayers sound like litanies and end with “hozóna hastlé,”
+    analogous to amen, repeated four times; the author states they show no Christian
+    teaching influence, apart from occasional modern wealth requests for horses and
+    sheep.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 1818-1822
+  quote_or_summary: Besides long two-person prayers, shamans have monologue prayers;
+    prayers may be silent or vocal, formulated or extempore, used by priest or layman,
+    and include short benedictions and ejaculations.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text allowed by source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is ethnographic and procedural rather than a myth narrative;
+    motif candidates are therefore ritual-pattern extractions and require human review
+    for taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were assigned only where the passage explicitly supports sacrifice or sacred exchange patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l1764-l1811
+  passage_sha256=6ec4dbf610fefa9a607e3d43dee53251020d53ba98ba63b02d2a41decda20996
+

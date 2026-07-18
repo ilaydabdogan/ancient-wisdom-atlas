@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l7008-l7131
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: OR WHY COYOTES RUN THEIR NOSES INTO DEADFALLS / HOW THE COYOTES TRIED TO
+    STEAL THE CHILDREN OF THE SACRED DANCE / THE COYOTE AND THE BEETLE / HOW THE COYOTE
+    DANCED WITH THE BLACKBIRDS; lines 7008-7131
+  start: '7008'
+  end: '7131'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In late autumn, Blackbirds gather on the rocky slopes of Gorge Mountain
+    to dance, sing, fly upward in a flock, dip into a spring at the mountain’s foot,
+    and return. A Coyote sees them, praises their dancing, and asks to join. The Blackbirds
+    plant their feathers into his body to give him wings. The first attempt uses feathers
+    from only one side, causing him to fly crookedly and crash into the mountain.
+    The Blackbirds then add feathers from the other side, strong wing-tip feathers,
+    and tail feathers; Coyote successfully flies with them, returns to the spring
+    and slope, and boasts that he can fly as well as they can.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A large council of Blackbirds gathers in late autumn on the rocky slopes of
+    Gorge Mountain, northwest of Zuñi.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Blackbirds’ dance is organized on the slope, with older birds in front
+    and younger birds behind.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The flock sings while hopping down the slope, flies upward in a dense black
+    flock, circles, dips in a spring at the mountain’s foot, and returns to the rocky
+    slopes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coyote is out hunting, sees the Blackbirds, praises their dancing, and asks
+    whether he may join the first part of the dance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Blackbirds agree to let Coyote join and an old Blackbird says they may
+    be able to fit him out so that he can fly.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Each Blackbird plucks a wing-feather for Coyote, but the first set of feathers
+    all comes from the same side of the birds’ wings.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Blackbirds plant feathers along the rear of Coyote’s forelegs and down
+    the sides of his back where wings would be; the procedure hurts him, but he remains
+    silent.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: During the first flight attempt, Coyote flies slanting and spirally, then
+    strikes the side of the mountain.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The old Blackbird orders feathers from the other sides of the birds, including
+    strong feathers from the wing tips, and tail-feathers are inserted into the tip
+    of Coyote’s tail.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: On the second attempt, Coyote flies among the Blackbirds, circles high with
+    them, returns, dips into the spring, and settles on the rocky slopes.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: After the successful flight, Coyote says he can fly as well as the Blackbirds
+    and asks to try again, although he is winded.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Blackbirds
+  description: A large council or flock of Blackbirds gathered on Gorge Mountain;
+    they dance, sing, fly, dip in the spring, and provide feathers to Coyote.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Old Blackbird
+  description: An old Blackbird who proposes fitting Coyote for flight and directs
+    the later correction of the feather arrangement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Coyote
+  description: A Coyote out hunting who becomes enraptured by the Blackbirds’ dance,
+    asks to join, receives implanted feathers, crashes during the first attempt, and
+    succeeds in flying on the second attempt.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: autumn dancers and flyers
+  assigned_to:
+  - fig:1
+  basis: The Blackbirds gather in autumn, sing, dance down the mountain slope, fly
+    upward, dip in the spring, and return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: providers of feathers
+  assigned_to:
+  - fig:1
+  basis: The Blackbirds pluck feathers from their wings and later tail-feathers for
+    Coyote’s fitted wings and tail.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: flight instructor and director
+  assigned_to:
+  - fig:2
+  basis: The old Blackbird proposes fitting Coyote for flight and later instructs
+    the flock to gather feathers from the other sides and strong wing-tip feathers.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: outsider seeking to join the dance
+  assigned_to:
+  - fig:3
+  basis: Coyote watches the Blackbirds, praises their dancing, and asks whether he
+    can join their dance.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: novice flyer with borrowed feathers
+  assigned_to:
+  - fig:3
+  basis: Coyote receives planted feathers, fails in his first attempt, and succeeds
+    after additional feathers are added.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Gorge Mountain
+  literal_form: The smooth, rocky slopes of Gorge Mountain northwest of Zuñi, used
+    as the Blackbirds’ dancing place and the site of Coyote’s crash.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: spring at the foot of the mountain
+  literal_form: A broad spring flowing out at the foot of Gorge Mountain, where the
+    Blackbirds and later Coyote dip themselves after flight.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:3
+  label: borrowed wing-feathers
+  literal_form: Wing-feathers plucked by the Blackbirds and planted in Coyote’s body
+    where wings would be.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: tail-feathers on Coyote’s tail
+  literal_form: Tail-feathers plucked from the Blackbirds and inserted into the tip
+    of Coyote’s tail before the successful flight.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: Blackbirds’ dance-song
+  literal_form: The repeated song and hopping dance performed by the Blackbirds as
+    they move down the mountain slope before flying.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+scenes:
+- id: scene:1
+  label: Blackbirds’ autumn dance on Gorge Mountain
+  summary: The Blackbirds gather in late autumn on the rocky slopes of Gorge Mountain,
+    arrange themselves by age, sing, hop down the slope, fly upward in a flock, dip
+    in the spring, and return.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Coyote asks to join the dance
+  summary: Coyote sees the Blackbirds’ dance, praises them, asks to join, and the
+    Blackbirds agree; the old Blackbird proposes fitting him for flight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: First feathering and failed flight
+  summary: The Blackbirds plant feathers from one side of their wings into Coyote’s
+    body. Coyote joins the procession but flies crookedly and crashes into the mountain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Corrected feathers and successful flight
+  summary: The Blackbirds add feathers from the other side, strong wing-tip feathers,
+    and tail-feathers. Coyote then flies with the flock, circles high, dips into the
+    spring, returns to the slope, and declares that he can fly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: outsider animal joins a bird dance
+  taxonomy_refs: []
+  basis: Coyote, who is not one of the Blackbirds, asks to join their organized dance
+    and later participates in their procession.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage presents a specific interaction with Blackbirds; no broader
+    ritual interpretation is supplied in the passage.
+- id: motif:2
+  label: borrowed feathers enable attempted flight
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Blackbirds plant their feathers into Coyote’s body where wings would
+    be, then add corrective feathers so that he can fly with them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The transformation is mechanical and temporary-looking in the passage;
+    Coyote does not inherently change shape by his own power.
+- id: motif:3
+  label: boundary-crossing Coyote imitates birds
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote crosses a species boundary by trying to join the Blackbirds’ dance
+    and flight, receives bird feathers, fails comically once, and then boasts after
+    succeeding.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly use the word trickster; the motif label
+    rests on Coyote’s boundary-crossing conduct in this episode.
+- id: motif:4
+  label: comic failed flight caused by faulty wings
+  taxonomy_refs: []
+  basis: The first feather arrangement uses feathers from only one side, causing Coyote
+    to fly slanting and spirally and crash into the side of the mountain.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The episode gives a comic failure but does not attach an explicit moral
+    in the provided passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode can be cautiously compared at motif-family level to a trickster-boundary
+    pattern: Coyote attempts to move beyond ordinary coyote capacities by adopting
+    bird feathers and joining bird flight.'
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not state a cross-cultural comparison or historical
+    relationship; this is only a taxonomy-level motif comparison based on the supplied
+    motif family list.
+- id: claim:2
+  claim: The fitted-feather episode has a limited same-function resemblance to transformation
+    or shapeshifting motifs because Coyote is physically altered so he can perform
+    bird flight.
+  claim_level: same_function
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs:
+  - ev:6
+  confidence: low
+  limitations: Coyote’s change is produced by planted feathers rather than by innate
+    shapeshifting, and the first alteration fails.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7008-7131; opening setting
+  quote_or_summary: In late autumn, a large council of Blackbirds gathers on the smooth
+    rocky slopes of Gorge Mountain northwest of Zuñi; the passage connects this with
+    autumn harvest time and retreat to the Land of Everlasting Summer.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7008-7131; Blackbirds’ dance description
+  quote_or_summary: The Blackbirds form on the slope with older birds in front and
+    younger ones behind, hop down singing their dance-song, fly upward in a dense
+    flock, circle, dip into the broad spring at the foot of the mountain, and return
+    to their dancing place.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7008-7131; Coyote observes and speaks
+  quote_or_summary: Coyote, out hunting, sees the Blackbirds, is delighted, praises
+    them as beautiful and graceful, and asks whether he could join in the dance, at
+    least the first part.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7008-7131; Blackbirds accept and gather feathers
+  quote_or_summary: The Blackbirds say Coyote may join; an old Blackbird says they
+    may be able to fit him out to fly. At the old Blackbird’s instruction, the Blackbirds
+    each contribute a wing-feather, but all pluck feathers from the same side.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7008-7131; first feather implantation
+  quote_or_summary: After Coyote agrees to the operation, the Blackbirds thrust the
+    feathers along the rear of his forelegs and down the sides of his back where wings
+    ought to be; it hurts him, but he says nothing.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 7008-7131; first flight attempt
+  quote_or_summary: Coyote joins the dance and follows the birds into the air, but
+    because his wings are made from feathers all from one side, he flies slanting
+    and spirally and strikes the side of the mountain.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 7008-7131; corrected feathering
+  quote_or_summary: The old Blackbird explains that the wings are not thick enough
+    and instructs the others to get feathers from their other sides and strong tip
+    feathers; the Blackbirds also add tail-feathers to the tip of Coyote’s tail while
+    he endures the pain and thinks proudly of flying.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 7008-7131; successful flight and boast
+  quote_or_summary: The procession forms again; Coyote flies in the midst of the Blackbirds,
+    circles high with them, returns, dips into the spring, settles on the rocks, and
+    says he can fly as well as the rest, asking to try again despite being winded.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious, especially where they map the fitted-feather episode to supplied
+    taxonomy families. Comparison claims do not assert historical contact or broad
+    cross-cultural distribution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used. No claims are made about adjacent tales named in the locator label but not included in the passage text.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l7008-l7131
+  passage_sha256=f611226c07bbc0b80e62168a9489d77617166f2cf0af48a2a070be23958cf5d2
+

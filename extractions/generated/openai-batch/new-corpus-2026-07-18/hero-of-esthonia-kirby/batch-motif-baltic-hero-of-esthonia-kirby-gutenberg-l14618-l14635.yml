@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l14618-l14635
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE CHURCH AT FELLIN. / THE RICH BROTHER AND THE POOR ONE. / THE ORIGIN OF
+    THE SWALLOW. / THE SPIDER AND THE HORNET.; lines 14618-14635
+  start: '14618'
+  end: '14635'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Boys burn a hornet's nest after being stung. The hornet complains to God
+    and brings the king of the spiders as witness, but the spider gives truthful testimony
+    that mitigates the boys' behavior. God rewards the spider and punishes the hornet,
+    explaining the spider's web and the hornet's pinched body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some boys burn a hornet's nest because the hornet has stung them badly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hornet goes to God and complains that the boys despised God's gifts and
+    scattered broken victuals in the fields.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God objects that the hornet has no witnesses.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hornet brings the king of the spiders to God as a witness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The spider says the boys were not at fault because they had no table on which
+    to put their bread.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God praises the spider for speaking the truth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: God condemns the hornet for telling lies and hating her neighbours without
+    cause.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: God strikes the hornet on the back with his staff and casts her from heaven
+    to earth, where she breaks in two from the fall.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: God lets the spider down with a cord because he has spoken the truth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage explains that since then the spider has a net and web by which
+    he can climb up and down as on a cord.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage explains that the hornet retains the pinched-in body received
+    when falling from heaven, while remaining fat at both ends.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: some boys
+  description: Boys who burn the hornet's nest after being badly stung.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the hornet
+  description: A hornet whose nest is burned, who complains to God, is condemned for
+    lying, and receives a pinched-in body after being cast down from heaven.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: God
+  description: The divine figure who hears the complaint, asks for witnesses, judges
+    the spider and hornet, and gives punishments and rewards.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: king of the spiders
+  description: The spider brought as a witness, who tells God that the boys were not
+    at fault and is rewarded with a cord-like means of descent and ascent.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: nest-burners
+  assigned_to:
+  - fig:1
+  basis: They burn the hornet's nest after being stung.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: complainant and false accuser
+  assigned_to:
+  - fig:2
+  basis: The hornet complains against the boys, but God later condemns her for telling
+    lies.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine judge
+  assigned_to:
+  - fig:3
+  basis: God evaluates the complaint and witness statement, praises truth, condemns
+    falsehood, and imposes reward and punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: truthful witness
+  assigned_to:
+  - fig:4
+  basis: The spider answers God's question and is praised for speaking the truth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: punished animal
+  assigned_to:
+  - fig:2
+  basis: The hornet is struck, cast from heaven to earth, and marked with a pinched-in
+    body.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: rewarded animal
+  assigned_to:
+  - fig:4
+  basis: The spider is let down with a cord and thereafter has a net and web for climbing.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hornet's nest
+  literal_form: nest burned by the boys
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: God's staff
+  literal_form: staff used to strike the hornet on the back
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: cord
+  literal_form: cord by which God lets the spider down
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: spider's net and web
+  literal_form: net and web by which the spider climbs up and down as on a cord
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: pinched-in hornet body
+  literal_form: hornet's pinched-in middle, fat at both ends
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: heaven-to-earth fall
+  literal_form: the hornet is cast down from heaven to earth
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Burning of the hornet's nest
+  summary: Boys burn the hornet's nest because the hornet has stung them badly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Complaint before God
+  summary: The hornet complains to God about the boys, and God says she has no witnesses.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Spider's testimony
+  summary: The hornet brings the king of the spiders to God, and the spider says the
+    boys were not at fault because they lacked a table for their bread.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Judgment and punishment
+  summary: God praises the spider for truthfulness, condemns the hornet for lying
+    and causeless hatred, strikes her with his staff, and casts her from heaven to
+    earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Origin of spider web and hornet body
+  summary: God lets the truthful spider down with a cord; the tale explains the spider's
+    web and climbing ability and the hornet's pinched body as results of this judgment.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine judgment rewards truth and punishes falsehood
+  taxonomy_refs:
+  - divine_judgment
+  basis: God praises the spider for truthful speech, condemns the hornet for lies,
+    rewards the spider, and punishes the hornet.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy label is broad; the passage is specifically an animal etiological
+    tale framed as divine judgment.
+- id: motif:2
+  label: origin of animal traits through punishment and reward
+  taxonomy_refs: []
+  basis: The spider's web and climbing ability and the hornet's pinched body are explained
+    as consequences of God's treatment of them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific available taxonomy reference for animal-origin or etiological-body-form
+    tale was supplied.
+- id: motif:3
+  label: truthful animal witness
+  taxonomy_refs: []
+  basis: The spider is brought as a witness and contradicts the hornet's accusation,
+    after which God praises him for truthfulness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is extracted as a passage-level motif without assigning an external
+    taxonomy ID.
+- id: motif:4
+  label: casting down from heaven as punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: God strikes the hornet and casts her down from heaven to earth as part of
+    his condemnation.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the descent as punishment for a hornet, not as a
+    broader cosmological fall narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14618-14621
+  quote_or_summary: Some boys burn a hornet's nest because the hornet has stung them
+    badly.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 14621-14624
+  quote_or_summary: The hornet complains to God that the boys despised God's gifts
+    and scattered broken victuals in fields; God says she lacks witnesses.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 14624-14628
+  quote_or_summary: The hornet brings the king of the spiders to God; when asked,
+    the spider says the boys were not at fault because they had no table for their
+    bread.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 14628-14631
+  quote_or_summary: God praises the spider for speaking the truth and condemns the
+    hornet for lies and hatred of neighbors without cause.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 14631-14633
+  quote_or_summary: God strikes the hornet on the back with his staff and casts her
+    from heaven to earth, where she breaks in two from the fall.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 14633-14635
+  quote_or_summary: God lets the spider down with a cord; since then the spider has
+    a net and web for climbing, while the hornet keeps the pinched-in body from the
+    fall.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the provided passage. Comparison claims are omitted
+    because the passage itself does not explicitly compare this tale to another tradition
+    or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy IDs were added beyond the supplied broad motif family reference for divine judgment.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l14618-l14635
+  passage_sha256=935249e8b87996db0e43def660067dd28cb79e12931a8623b2b9429cde520924
+

@@ -1,0 +1,642 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l4301-l4405
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 4301-4405
+  start: '4301'
+  end: '4405'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Red-Cap and her grandmother avoid a second wolf by keeping the house closed
+    and luring him into a water trough, where he drowns. The next tale begins: an
+    old donkey flees toward Bremen to become a town musician, recruits an old hound,
+    cat, and cock who are also threatened with death, and the four animals find a
+    lighted robbers'' house in the forest, where they plan to stack themselves at
+    the window to drive the robbers away.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Red-Cap is again carrying cakes to her grandmother when another wolf speaks
+    to her and tries to entice her from the path; she remains on guard and goes straight
+    forward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Red-Cap tells her grandmother about the wolf, and the grandmother says they
+    will shut the door so he cannot come in.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf knocks and falsely claims to be little Red-Cap bringing cakes; when
+    the door is not opened, he circles the house, climbs onto the roof, and intends
+    to follow and devour Red-Cap after dark.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The grandmother has Red-Cap carry sausage-boiling water into a great stone
+    trough; the smell draws the wolf forward until he slips from the roof into the
+    trough and drowns.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An old donkey, no longer fit for work, runs away after his master considers
+    saving the cost of keeping him and sets out for Bremen to become a town musician.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The donkey meets an old hound whose master wanted to kill him because he can
+    no longer hunt; the donkey invites the hound to come to Bremen as a musician,
+    and the hound agrees.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The donkey and hound meet an old cat whose mistress wanted to drown him; the
+    donkey invites the cat to Bremen as a town musician, and the cat joins them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The three fugitives meet a cock who says he is to be beheaded and eaten in
+    soup; the donkey invites him to come along because he has a good voice, and the
+    cock agrees.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The four animals cannot reach Bremen in one day and stop in a forest, resting
+    under or in a large tree; the cock sees a distant spark or light that indicates
+    a house.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The animals follow the light to a well-lit robbers' house, where the donkey
+    sees robbers sitting at a table covered with food and drink.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: 'The animals take counsel about driving away the robbers and plan to form
+    a stack at the window: donkey below, hound on donkey, cat on hound, and cock on
+    cat.'
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Red-Cap
+  description: A child carrying cakes to her old grandmother; she stays on the path,
+    helps fill the trough, and goes home joyously after the wolf drowns.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Grandmother
+  description: Red-Cap's old grandmother, who orders the door shut and directs Red-Cap
+    to fill the trough with sausage-boiling water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Another wolf / grey-beard
+  description: A wolf who tries to entice Red-Cap from the path, impersonates her
+    at the grandmother's door, climbs onto the roof, and drowns in the trough.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Donkey
+  description: An old work donkey who runs away toward Bremen to become a town musician
+    and recruits the other animals.
+  role_refs:
+  - role:4
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Hound
+  description: An old hunting dog who flees because his master wanted to kill him
+    and joins the donkey as a musician.
+  role_refs:
+  - role:5
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:10
+- id: fig:6
+  name_or_label: Cat
+  description: An old cat with worn teeth whose mistress wanted to drown him; he joins
+    the others and is later assigned a place in the planned stack.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: Cock
+  description: A cock threatened with beheading and being eaten in soup; he joins
+    the animals, sees the distant light, and is assigned the top of the planned stack.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: Robbers
+  description: Robbers sitting in a well-lit house at a table covered with food and
+    drink.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: cautious child traveler
+  assigned_to:
+  - fig:1
+  basis: Red-Cap stays on guard, keeps to her way, reports the wolf, and carries the
+    water that fills the trough.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: protective household strategist
+  assigned_to:
+  - fig:2
+  basis: The grandmother shuts the door against the wolf and devises the trough trap
+    using sausage-boiling water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: predatory deceiver
+  assigned_to:
+  - fig:3
+  basis: The wolf tries to lure Red-Cap from the path, falsely speaks as Red-Cap at
+    the door, and plans to devour her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: aged labor animal and initiating fugitive
+  assigned_to:
+  - fig:4
+  basis: The donkey is old and unfit for work, flees his master, sets out for Bremen,
+    and invites other threatened animals to join.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: aged hunting animal and fugitive recruit
+  assigned_to:
+  - fig:5
+  basis: The hound says he is old, weaker, no longer able to hunt, and fled because
+    his master wanted to kill him.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: aged domestic hunter and fugitive recruit
+  assigned_to:
+  - fig:6
+  basis: The cat says he is old, has worn teeth, no longer hunts mice, and fled because
+    his mistress wanted to drown him.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: threatened domestic bird and fugitive recruit
+  assigned_to:
+  - fig:7
+  basis: The cock says he is to be eaten in soup and beheaded, and the donkey recruits
+    him for his voice.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: robber-house occupants
+  assigned_to:
+  - fig:8
+  basis: The robbers are seated in the well-lit house at a table with food and drink.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: cooperative animal band
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The four animals travel together, seek shelter and food, and collectively
+    plan how to drive away the robbers.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+symbols:
+- id: sym:1
+  label: path and public road
+  literal_form: The path and public road on which Red-Cap stays after the wolf tries
+    to entice her away.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: closed door and house boundary
+  literal_form: The grandmother's door, which is kept shut when the wolf knocks and
+    impersonates Red-Cap.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: great stone trough of sausage-boiling water
+  literal_form: A great stone trough filled with water in which sausages had been
+    boiled; the wolf falls into it and drowns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: road to Bremen
+  literal_form: The road and destination chosen by the donkey and his companions as
+    the route toward becoming town musicians.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: fire
+  literal_form: The cat says he prefers to sit by the fire and spin rather than hunt
+    mice.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: large forest tree
+  literal_form: A large tree in the forest where the donkey and hound lie beneath
+    and the cat and cock settle in the branches.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: distant spark or light
+  literal_form: A little spark burning, seen by the cock, which indicates a house
+    not far away.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: well-lit robber's house and window
+  literal_form: A well-lit house belonging to robbers; the donkey looks in through
+    the window.
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:9
+  label: animal stack at the window
+  literal_form: The planned arrangement of donkey, hound, cat, and cock stacked on
+    one another at the window-ledge.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Red-Cap resists the second wolf's lure
+  summary: While carrying cakes to her grandmother, Red-Cap meets another wolf who
+    tries to entice her from the path; she stays on guard, continues on her way, and
+    reports the encounter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wolf refused at the grandmother's door
+  summary: The grandmother orders the door shut; the wolf knocks while pretending
+    to be Red-Cap, but the women do not answer or open the door, and the wolf climbs
+    to the roof to wait.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Trough trap and drowning of the wolf
+  summary: The grandmother tells Red-Cap to fill the trough with sausage-boiling water;
+    the smell attracts the wolf until he slips from the roof into the trough and drowns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Donkey departs for Bremen and recruits hound
+  summary: The old donkey flees his master and sets out to Bremen as a would-be town
+    musician; he meets an old hound threatened with death and invites him to join.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Cat joins the fugitives
+  summary: The donkey and hound meet an old cat whose mistress wanted to drown him;
+    the donkey proposes Bremen and town musicianship, and the cat joins.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Cock joins the fugitives
+  summary: The three animals meet a cock threatened with beheading and being eaten;
+    the donkey invites him to come to Bremen and make music, and the cock agrees.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Forest shelter and distant light
+  summary: The four animals stop for the night in a forest tree; the cock sees a spark
+    or light in the distance, and the group heads toward it.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:8
+  label: Robbers' house and stacking plan
+  summary: The animals reach a well-lit robber's house, see food, drink, and robbers
+    inside, and plan to drive the robbers away by stacking themselves at the window.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: deceiver at path and door boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolf tries to lure Red-Cap from the path and later tries to enter the
+    grandmother's house by falsely claiming to be Red-Cap.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage presents the wolf
+    primarily as a predator using deception, not as a fully developed trickster figure.'
+- id: motif:2
+  label: household trap destroys predator
+  taxonomy_refs: []
+  basis: The grandmother and Red-Cap use sausage-boiling water in a trough to attract
+    the wolf, causing him to fall from the roof and drown.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available motif-family taxonomy precisely matches this household counter-trap.
+- id: motif:3
+  label: threatened old animals depart to seek a new role
+  taxonomy_refs:
+  - departure
+  basis: The donkey, hound, cat, and cock each leave or agree to leave after becoming
+    old, useless, or threatened with death, and they set out toward Bremen as musicians.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The 'departure' taxonomy is broad; the passage frames the journey pragmatically
+    rather than ritually.
+- id: motif:4
+  label: animal companions recruited into a cooperative band
+  taxonomy_refs: []
+  basis: The donkey successively recruits the hound, cat, and cock, and the four continue
+    together.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a narrative pattern rather than a taxonomy-linked motif in the
+    supplied list.
+- id: motif:5
+  label: stacked animals plan to confront human robbers
+  taxonomy_refs: []
+  basis: The animals take counsel and plan to drive away robbers by arranging themselves
+    vertically at the window.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The excerpt stops at the formation of the plan, before the plan is carried
+    out.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4301-4308
+  quote_or_summary: Red-Cap carries cakes to her grandmother, another wolf tries to
+    entice her from the path, she remains on guard and tells her grandmother, who
+    proposes shutting the door.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4308-4314
+  quote_or_summary: The wolf knocks and falsely says he is little Red-Cap bringing
+    cakes; after the door remains closed, he circles the house, climbs onto the roof,
+    and plans to devour Red-Cap in the darkness.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4315-4323
+  quote_or_summary: The grandmother instructs Red-Cap to fill a great stone trough
+    with sausage-boiling water; the smell attracts the wolf, who slips from the roof
+    into the trough and drowns, after which Red-Cap goes home joyously.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4325-4335
+  quote_or_summary: The tale 'The Bremen Town-Musicians' begins with an old donkey
+    whose master considers saving his keep; the donkey runs away toward Bremen to
+    become a town musician and meets a tired hound on the road.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4337-4345
+  quote_or_summary: The hound says he is old, weaker, unable to hunt, and fled because
+    his master wanted to kill him; the donkey invites him to Bremen as a musician,
+    and the hound agrees.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4347-4360
+  quote_or_summary: The animals meet an old cat with worn teeth, who says his mistress
+    wanted to drown him because he no longer hunts mice and prefers to sit by the
+    fire; the donkey invites him to Bremen, and the cat joins.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4360-4377
+  quote_or_summary: The three fugitives meet a cock in a farm-yard who says the housewife
+    plans to eat him in soup and have his head cut off; the donkey invites him because
+    of his good voice, and the cock joins.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4377-4387
+  quote_or_summary: 'The four animals cannot reach Bremen in one day and stop in a
+    forest: donkey and hound lie under a large tree, cat and cock settle in the branches,
+    and the cock sees a distant spark or light indicating a house.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4389-4398
+  quote_or_summary: The animals follow the light to a well-lit robber's house; the
+    donkey looks through the window and sees a table with food and drink and robbers
+    enjoying themselves.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 4400-4404
+  quote_or_summary: 'The animals take counsel about driving the robbers away and plan
+    a vertical arrangement at the window: donkey on the ledge, hound on donkey, cat
+    on hound, and cock on cat.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    mostly plain labels; only broad taxonomy references are used where the passage
+    supports them. No comparison claims were made because the passage itself does
+    not provide an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage spans the ending of the Red-Cap episode and the opening of 'The Bremen Town-Musicians'; motifs are separated by tale section where possible.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l4301-l4405
+  passage_sha256=6cc4409ea380e3b179afa40142f96203457861721dd9310205a0ae1ff5ae005a
+

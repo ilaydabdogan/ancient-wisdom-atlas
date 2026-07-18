@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8798-l8821
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER VII. / CHAPTER VIII. / CHAPTER IX. / CHAPTER X.; lines 8798-8821
+  start: '8798'
+  end: '8821'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Paul writes to Seneca, saying that placing Paul's name before Seneca's
+    in the epistle is disagreeable to Paul and contrary to his religion. He says he
+    should become all things to all men, respect Seneca's honored quality, and put
+    his own name last in the epistle inscription. He closes by addressing Seneca as
+    a most respected master and dating the letter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a greeting from Paul to Seneca.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Paul says that when he writes to Seneca and places Paul's own name before
+    Seneca's, he does something disagreeable to himself and contrary to his religion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Paul says he ought to become all things to all men.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Paul says he should show regard for Seneca's quality, which Roman law has
+    honored all senators with.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Paul says his name should be placed last in the inscription of the epistle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Paul closes the letter by calling Seneca a most respected master and dating
+    the letter to the fifth of the calends of July in the fourth consulship of Nero
+    and Messala.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Paul
+  description: Named sender of the greeting and first-person writer of the letter.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Seneca
+  description: Named recipient of Paul's greeting, addressed at the close as a most
+    respected master.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Roman senators
+  description: Collective group mentioned as being honored by Roman law with the relevant
+    quality or rank.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the greeting as from Paul, and the body uses Paul's
+    first-person speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: letter recipient
+  assigned_to:
+  - fig:2
+  basis: The heading identifies the greeting as addressed to Seneca.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deferential correspondent
+  assigned_to:
+  - fig:1
+  basis: Paul says it troubles him to place his name first and that he ought to put
+    it last in the epistle inscription.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: respected master
+  assigned_to:
+  - fig:2
+  basis: Paul addresses Seneca as 'most respected master' and refers to Seneca's honored
+    quality.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: legally honored rank group
+  assigned_to:
+  - fig:3
+  basis: Roman law is said to have honored all senators with the relevant quality.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: epistolary name order
+  literal_form: The placement of Paul's name before or after Seneca's in the inscription
+    of the epistle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Paul explains epistolary precedence to Seneca
+  summary: Paul states that putting his own name before Seneca's is improper for him,
+    links his reasoning to religion and social regard, and says his name should come
+    last in the epistle inscription.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Epistolary humility before a higher-status addressee
+  taxonomy_refs: []
+  basis: The passage centers on Paul's wish to place his own name last rather than
+    before Seneca's, in deference to Seneca's quality and to avoid shame.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level ethical or epistolary pattern rather than a fully
+    developed mythic narrative motif.
+- id: motif:2
+  label: Adaptive regard for others
+  taxonomy_refs: []
+  basis: Paul states that he ought to become all things to all men and to have regard
+    for Seneca's honored quality.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as a moral maxim within a letter; broader motif
+    classification would require comparison beyond the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8798-8800
+  quote_or_summary: '"PAUL to SENECA Greeting."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:2
+  type: quote
+  locator: 8802-8806
+  quote_or_summary: '"place my name before yours" is described as "disagreeable" to
+    Paul and "contrary to our religion."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: quote
+  locator: 8808-8813
+  quote_or_summary: '"to become all things to all men" and to regard Seneca''s quality,
+    "which the Roman law has honoured all senators with."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:4
+  type: quote
+  locator: 8814-8818
+  quote_or_summary: Paul says he should "put my name last in the (inscription of the)
+    Epistle" to avoid uneasiness and shame.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:5
+  type: quote
+  locator: 8819-8821
+  quote_or_summary: '"Farewell, most respected master. Dated the fifth of the calends
+    of July, in the fourth Consulship of Nero, and Messala."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal epistolary content is clear. Motif labels are limited to local
+    ethical and epistolary patterns; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is an epistolary etiquette and humility passage, not a mythic narrative. No supplied symbol taxonomy item is directly attested.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8798-l8821
+  passage_sha256=1a44ba34ae9e100e4a8b043586bf39da98c2b4438f5512f3c456373403f5ac52
+

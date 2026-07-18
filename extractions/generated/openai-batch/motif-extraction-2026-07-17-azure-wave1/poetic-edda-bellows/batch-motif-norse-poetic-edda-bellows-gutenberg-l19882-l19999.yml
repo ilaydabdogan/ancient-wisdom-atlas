@@ -1,0 +1,608 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l19882-l19999
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: ATLAMOL EN GRNLENZKU / THE GREENLAND BALLAD OF ATLI / INTRODUCTORY NOTE /
+    NOTES; lines 19882-19999
+  start: '19882'
+  end: '19999'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial notes identify figures and textual variants in the Greenland
+    Atli ballad: Atli and advisers plan the deaths of Gunnar and Hogni; Guthrun is
+    Atli''s wife and sends a warning in runes; emissaries invite Gunnar; Kostbera
+    and Glaumvor are associated with ominous dreams; notes discuss Greenlandic geography,
+    an ice-bear, possible Atli eagle-shape or fylgja imagery, and several parallels
+    to nearby Eddic and saga texts.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Atli and his advisers are identified as the men who planned the deaths of
+    Gunnar and Hogni, the sons of Gjuki.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Atli's slaying of his wife's brothers is said to have caused his own death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Guthrun is identified as Atli's wife and as the woman referred to in the poem.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notes describe a geographic variant in which the sea separates Atli's
+    land from the Gjukungs' land; Limafjord is also mentioned as a place-name used
+    for vividness or localization.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Guthrun's warning is connected with runes, and the messenger is named Vingi
+    in this version.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Atli has two emissaries, Vingi and another unnamed figure, and Gunnar is described
+    as first invited and replying doubtfully or making a promise concerning the journey.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Kostbera has warning dreams, and Hogni gives matter-of-fact interpretations
+    of them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An ice-bear is noted as a polar bear and as evidence for Greenlandic setting
+    or origin.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note discusses Atli's spirit, a possible female following-spirit, the word
+    hamr meaning skin or shape, and the possibility that Atli assumed an eagle shape.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The phrase 'two roads' is explained as probably meaning that the travelers'
+    way or success would be doubtful.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Glaumvor's dream dialogue is noted; editorially suggested dream interpretation
+    includes gallows and serpents, and another note mentions bloody spears as a possible
+    phrase in a Volsungasaga paraphrase.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Atli
+  description: A prince or king who, with advisers, planned the deaths of Gunnar and
+    Hogni; husband of Guthrun; his slaying of his wife's brothers caused his own death;
+    possibly associated with an eagle shape or following-spirit in a note.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Gunnar
+  description: One of the sons of Gjuki, brother of Hogni, one of the wife's brothers
+    whose death Atli planned; he is invited and replies doubtfully or makes a promise
+    concerning the journey.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Hogni
+  description: One of the sons of Gjuki, brother of Gunnar, one of the wife's brothers
+    whose death Atli planned; he is in dialogue with Kostbera and interprets her warning
+    dreams matter-of-factly.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Guthrun
+  description: Atli's wife, referred to as the woman or husfreyja, and associated
+    with a runic warning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Vingi
+  description: Messenger named in this version and one of Atli's two emissaries.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Unnamed second emissary
+  description: The second of Atli's two emissaries, unnamed in the note and possibly
+    Knefrth according to editorial uncertainty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Kostbera
+  description: A named figure in dialogue with Hogni and associated with warning dreams.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Glaumvor
+  description: A named figure in a later dialogue whose dream is discussed in the
+    notes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Atli's advisers
+  description: Collective advisers with whom Atli planned the death of Gunnar and
+    Hogni.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: planner of deaths
+  assigned_to:
+  - fig:1
+  - fig:9
+  basis: The notes identify Atli and his advisers as those who planned the death of
+    Gunnar and Hogni.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: targeted brothers and sons of Gjuki
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Gunnar and Hogni are named as sons of Gjuki and the brothers of Atli's wife
+    whose deaths were planned or enacted.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wife and warning sender
+  assigned_to:
+  - fig:4
+  basis: Guthrun is identified as Atli's wife, and the notes discuss versions of her
+    warning in runes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: emissary or messenger
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The notes identify Vingi and another unnamed figure as Atli's two emissaries,
+    with Vingi also named as messenger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: omen-dreamer
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Kostbera is associated with warning dreams, and Glaumvor's dream dialogue
+    is separately discussed.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:6
+  label: matter-of-fact dream interpreter
+  assigned_to:
+  - fig:3
+  basis: Hogni is said to give matter-of-fact interpretations of Kostbera's warning
+    dreams.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: possible shape-assumer or spirit manifestation
+  assigned_to:
+  - fig:1
+  basis: The note says the poet may imply that Atli assumed the shape of an eagle
+    and also discusses Atli's spirit and hamr.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: runes as warning medium
+  literal_form: runes used in versions of Guthrun's warning
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sea separation
+  literal_form: the sea separating Atli's land from the Gjukungs' land in the Greenland
+    variation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Limafjord localization
+  literal_form: Limafjord, probably the Limfjord of northern Jutland, used as a vivid
+    place-name
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ice-bear
+  literal_form: polar bear, noted as common in Greenland
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: eagle shape or hamr
+  literal_form: possible eagle shape assumed by Atli; hamr explained as skin or shape
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: two roads
+  literal_form: two roads, explained as a doubtful way or doubtful success
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: serpents in dream interpretation
+  literal_form: serpents watched in an editorially suggested answer to Glaumvor's
+    dream
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: gallows in dream interpretation
+  literal_form: gallows in an editorially suggested answer to Glaumvor's dream
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: bloody spears
+  literal_form: possible phrase 'bloody spears' noted from the Volsungasaga paraphrase
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Plotted death of the Gjukungs
+  summary: Atli and his advisers plan the deaths of Gunnar and Hogni, and Atli's slaying
+    of his wife's brothers is identified as the cause of his own death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Runic warning and emissary invitation
+  summary: Guthrun's warning is associated with runes; Vingi and another emissary
+    are linked to Atli's summons, and Gunnar's response to the invitation is uncertain
+    or doubtful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: scene:3
+  label: Greenlandic and Jutlandic localization
+  summary: The notes mark a Greenland variation involving sea separation, refer to
+    Limafjord, and cite the ice-bear as evidence for Greenlandic setting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: scene:4
+  label: Kostbera's warning dreams
+  summary: Kostbera's warning dreams are discussed, along with Hogni's matter-of-fact
+    interpretations; nearby notes include the ice-bear and possible Atli spirit or
+    eagle-shape imagery.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Glaumvor's dream dialogue
+  summary: Glaumvor's dream dialogue is discussed through editorial notes, including
+    conjectural or paraphrased images of gallows, serpents, and bloody spears.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Betrayal of wife's brothers rebounds on the slayer
+  taxonomy_refs: []
+  basis: The notes state that Atli killed his wife's brothers, who would have supported
+    him, and that this act caused his own death.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is extracted from editorial explanation rather than the verse passage
+    itself.
+- id: motif:2
+  label: Runic warning before a fatal journey
+  taxonomy_refs: []
+  basis: Guthrun's warning is connected with runes, and the notes also discuss the
+    emissary and Gunnar's invitation or promise of the journey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The notes refer to versions of the warning rather than quoting the warning
+    itself.
+- id: motif:3
+  label: Ominous dreams interpreted away
+  taxonomy_refs: []
+  basis: Kostbera's warning dreams are paired with Hogni's matter-of-fact interpretations;
+    Glaumvor's dream dialogue is also noted.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: Some parts of the dream material are affected by missing lines or editorial
+    reconstruction.
+- id: motif:4
+  label: Spirit or shape in eagle form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The note discusses Atli's spirit, the term hamr as skin or shape, and the
+    possibility that Atli assumed an eagle shape.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The note explicitly treats the interpretation as uncertain and says the
+    poet's folklore seems weak.
+- id: motif:5
+  label: Doubtful road as omen of uncertain success
+  taxonomy_refs: []
+  basis: The phrase 'two roads' is explained as probably meaning that the travelers'
+    way or success would be doubtful.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The note says the proper location for missing words is guesswork.
+- id: motif:6
+  label: Serpents, gallows, and bloody weapons in dream interpretation
+  taxonomy_refs:
+  - serpent
+  basis: The notes mention gallows and serpents in an editorially suggested answer
+    to Glaumvor's dream and 'bloody spears' as a possible phrase from a Volsungasaga
+    paraphrase.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The serpent and gallows wording is editorially suggested, and the bloody
+    spears phrase is presented as a possible correction.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the sea separating Atli's land from the Gjukungs' land
+    as a Greenlandic geographic variant of the Atli story, contrasting it with Atlakvitha's
+    forest separation.
+  claim_level: same_function
+  target: Atlakvitha geographic separation of Atli's land and the Gjukungs' land by
+    a forest
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a comparison of setting function, not a full motif correspondence.
+- id: claim:2
+  claim: The passage connects Guthrun's runic warning and the messenger name with
+    versions discussed in Drap Niflunga.
+  claim_level: same_motif
+  target: Drap Niflunga versions of Guthrun's warning and messenger name
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note only points to comparison and does not summarize the parallel
+    versions.
+- id: claim:3
+  claim: Kostbera's warning dreams and Hogni's matter-of-fact interpretations are
+    explicitly compared to material in Guthrunarkvitha II, stanzas 39-44.
+  claim_level: same_motif
+  target: Guthrunarkvitha II 39-44 warning dreams and interpretations
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is reported by the editor and not demonstrated through
+    quoted parallel passages here.
+- id: claim:4
+  claim: The note cautiously compares Atli's possible following-spirit or shape manifestation
+    with a female following-spirit in Helgakvitha Hjorvarthssonar.
+  claim_level: same_function
+  target: Helgakvitha Hjorvarthssonar prose following stanza 34, female following-spirit
+    or fylgja
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: low
+  limitations: The note itself marks the interpretation as uncertain, noting a possible
+    problem with the word hamr and saying the poet's folklore seems weak.
+- id: claim:5
+  claim: The phrase translated as 'Gods doom' is linked philologically to ragna rök
+    and compared by reference to Voluspo.
+  claim_level: linguistic_similarity
+  target: Voluspo usage or discussion of ragna rök
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs:
+  - ev:9
+  confidence: low
+  limitations: The note describes the usage as odd and apparently mistaken, so this
+    is a linguistic note rather than a strong motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: notes 1-2 within lines 19882-19999
+  quote_or_summary: Atli and his advisers planned the death of the sons of Gjuki,
+    Gunnar and Hogni; Atli's slaying of his wife's brothers caused his own death.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: note 3 within lines 19882-19999
+  quote_or_summary: Guthrun is identified as Atli's wife and as 'the woman'; the sea
+    is described as a late Greenland variation of the Atli-story geography, contrasted
+    with Atlakvitha's forest separation.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: note 4 within lines 19882-19999
+  quote_or_summary: The note discusses runes in versions of Guthrun's warning, the
+    messenger name Vingi, comparison to Drap Niflunga, and Limafjord as a likely northern
+    Jutland place-name.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: notes 6-7 within lines 19882-19999
+  quote_or_summary: Kostbera and Glaumvor are named; Atli's two emissaries are Vingi
+    and another unnamed figure; a lost stanza may have contained Gunnar's invitation
+    and doubtful reply; the text concerning promise or refusal is obscure.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: notes 14-15 within lines 19882-19999
+  quote_or_summary: The notes describe a dialogue between Kostbera and Hogni, identify
+    Kostbera's warning dreams, and mention Hogni's matter-of-fact interpretations,
+    with comparison to Guthrunarkvitha II 39-44.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: note 17 within lines 19882-19999
+  quote_or_summary: An ice-bear is explained as a polar bear, common in Greenland
+    and rare or absent in Iceland and Norway, supporting the manuscript's Greenland
+    reference.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: note 18 within lines 19882-19999
+  quote_or_summary: The note discusses 'Atli's spirit,' a possible female following-spirit
+    or fylgja parallel, the word hamr meaning skin or shape, and the possibility that
+    Atli assumed an eagle shape; the interpretation is treated as uncertain.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: note 20 within lines 19882-19999
+  quote_or_summary: The manuscript has difficult wording; the note explains 'two roads'
+    as probably meaning that the travelers' way or success would be doubtful.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: notes 21 and 23 within lines 19882-19999
+  quote_or_summary: The notes discuss a dialogue around Glaumvor's dream, possible
+    missing lines, a suggested answer mentioning gallows and serpents, the phrase
+    'Gods doom' as an odd use of ragna rök, and a possible phrase 'bloody spears'
+    from the Volsungasaga paraphrase.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial notes rather than continuous narrative
+    verse. Several details are explicitly uncertain, reconstructed, or based on comparisons
+    to other texts, so motifs should be reviewed against the underlying stanzas.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references were used only where directly supported by the supplied taxonomy list and passage language; several candidate motifs are left without taxonomy refs because the notes do not support a more specific mapping.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l19882-l19999
+  passage_sha256=6d53a23c030850ae99e4078f9cf07f101db73f4003e1c66174eaf7c51f20ce40
+

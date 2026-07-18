@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.confucian-analects-legge-gutenberg-l2037-l2056
+source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+passage_locator:
+  label: BOOK X. HEANG TANG. / BOOK XI. HSIEN TSIN. / BOOK XII. YEN YUAN. / BOOK XIII.
+    TSZE-LU.; lines 2037-2056
+  start: '2037'
+  end: '2056'
+  translation: The Analects of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives brief sayings attributed to the Master on employing people
+    according to capacity, contrasting the superior man and the mean man, qualities
+    near virtue, the requirements of a scholar, and the need to instruct people before
+    employing them in war.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person is described as employing men according to their capacity, while
+    the mean man is said to be difficult to serve, easy to please, and demanding in
+    employment.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master says the superior man has dignified ease without pride, and the
+    mean man has pride without dignified ease.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Master says firmness, endurance, simplicity, and modesty are near to virtue.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tsze-lu asks what qualities entitle a man to be called a scholar.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Master answers that a scholar must be earnest, urgent, and bland, with
+    earnestness and urgency among friends and blandness among brethren.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Master says that after a good man teaches the people for seven years,
+    they may likewise be employed in war.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Master says leading an uninstructed people to war is to throw them away.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: Speaker of the sayings in this passage and respondent to Tsze-lu's
+    question.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Tsze-lu
+  description: Person who asks what qualities are required for a man to be called
+    a scholar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: superior man
+  description: A type of person described as having dignified ease without pride.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mean man
+  description: A type of person described as prideful without dignified ease, difficult
+    to serve, and easy to please in a way not accordant with right.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: scholar
+  description: A person whose qualifying traits are defined as earnestness, urgency,
+    and blandness in proper social contexts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: good man
+  description: A person said to be able to teach the people for seven years before
+    they may be employed in war.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: people / uninstructed people
+  description: A collective that may be taught and employed in war, but if led to
+    war uninstructed is described as being thrown away.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: moral teacher
+  assigned_to:
+  - fig:1
+  basis: The Master gives evaluative sayings and answers a question about the scholar.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: Tsze-lu asks what qualities entitle a man to be called a scholar.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: exemplary person
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The superior man is described by an approved quality, and the good man is
+    presented as a proper teacher of the people.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: negative moral counterpart
+  assigned_to:
+  - fig:4
+  basis: The mean man is contrasted with the superior man and is described with pride
+    and improper expectations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: qualified learner or gentleman-scholar
+  assigned_to:
+  - fig:5
+  basis: The passage defines the qualities that entitle a man to be called a scholar.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: instructor of the people
+  assigned_to:
+  - fig:6
+  basis: The good man is said to teach the people for seven years.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: collective subject of instruction and war leadership
+  assigned_to:
+  - fig:7
+  basis: The people are described as taught before war, or as uninstructed when improperly
+    led to war.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Moral contrasts and traits near virtue
+  summary: The Master contrasts the superior man with the mean man and lists traits
+    that are near to virtue.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Tsze-lu asks about the scholar
+  summary: Tsze-lu asks what makes a man a scholar, and the Master answers with traits
+    and social contexts for those traits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Instruction before war
+  summary: The Master states that people taught by a good man for seven years may
+    be employed in war, while leading uninstructed people to war is to throw them
+    away.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: didactic wisdom sayings on virtue and conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of concise teachings on virtue, character types, scholarly
+    qualities, and proper governance or leadership.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethical-philosophical passage rather than a narrative myth;
+    the motif classification is functional and thematic.
+- id: motif:2
+  label: ethical contrast between exemplary and deficient persons
+  taxonomy_refs: []
+  basis: The superior man and mean man are set in explicit contrast by their qualities
+    of dignified ease and pride.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No mythic figures or supernatural elements are present.
+- id: motif:3
+  label: preparation of the people before warfare
+  taxonomy_refs: []
+  basis: The passage links seven years of instruction with the legitimate employment
+    of people in war and warns against leading uninstructed people to war.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a governance and military-ethics teaching, not a developed mythic
+    war motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2037-2041
+  quote_or_summary: A referenced person employs men according to capacity; the mean
+    man is difficult to serve, easy to please wrongly, and expects men to be equal
+    to everything.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2042-2044
+  quote_or_summary: '"The superior man has a dignified ease without pride. The mean
+    man has pride without a dignified ease."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 2045-2046
+  quote_or_summary: '"The firm, the enduring, the simple, and the modest are near
+    to virtue."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 2047-2051
+  quote_or_summary: Tsze-lu asks what qualities make a man a scholar; the Master answers
+    that he must be earnest, urgent, and bland, with specified conduct among friends
+    and brethren.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: lines 2053-2055
+  quote_or_summary: '"Let a good man teach the people seven years, and they may then
+    likewise be employed in war."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: quote
+  locator: lines 2055-2056
+  quote_or_summary: '"To lead an uninstructed people to war, is to throw them away."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is straightforward for figures and teachings. Motif identification
+    is limited because the passage is aphoristic ethical instruction rather than mythic
+    narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol list are directly present in this passage; no external comparisons are asserted.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-analects-legge-gutenberg__l2037-l2056
+  passage_sha256=c9041a9b533bc82be507c6258b1b6e7263903386f7d488e09d0f75b7aab99353
+

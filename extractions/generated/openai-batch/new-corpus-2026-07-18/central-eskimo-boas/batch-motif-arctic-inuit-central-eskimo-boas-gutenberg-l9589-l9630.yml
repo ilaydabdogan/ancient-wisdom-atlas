@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9589-l9630
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE WOMAN AND THE SPIRIT OF THE SINGING HOUSE. / THE CONSTELLATION UDLEQDJUN.
+    / ORIGIN OF THE ADLET AND OF THE QADLUNAIT. / THE GREAT FLOOD.; lines 9589-9630
+  start: '9589'
+  end: '9630'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first recounts a flood in which the ocean rises over all the
+    land and mountains, leaves ice caps and marine remains on the mountains, kills
+    many Inuit, and saves others who take to kayaks. It then recounts Inugpaqdjuqdjualung,
+    an enormous man living with Inuit by a fjord, who catches whales with his hands,
+    scoops whales and boats onto shore, and kills two bears after dismissing them
+    as small creatures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ocean suddenly rises until it covers the whole land.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The water reaches the tops of mountains, and ice drifts over them.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the flood subsides, stranded ice remains as an ice cap on the mountain
+    tops, and marine shells and bones remain high and dry.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many Inuit die during the flood, while many others are saved after taking
+    to their kayaks as the water begins to rise.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Inugpaqdjuqdjualung is described as an enormous man living with many Inuit
+    in a village on a large fjord.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Inugpaqdjuqdjualung is so tall that he can straddle the fjord and wait for
+    whales to pass beneath him.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When a whale passes beneath him, Inugpaqdjuqdjualung stoops, catches it, and
+    eats it as another person would eat a small piece of meat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When other natives are hunting a whale from boats, Inugpaqdjuqdjualung scoops
+    both the whale and the boats from the water and places them on the beach.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Inugpaqdjuqdjualung lies down on a high hill to nap and asks his friends to
+    wake him with large stones if bears come near.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After being roused, Inugpaqdjuqdjualung dismisses two huge bears as small
+    creatures, crushes one between his fingers, and strangles the other in the eyelet
+    of his boot.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Inuit during the flood
+  description: A great number die during the flood, while many others are saved by
+    taking to their kayaks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Inugpaqdjuqdjualung
+  description: An enormous man living with many Inuit in a village on a large fjord;
+    he is tall enough to straddle the fjord and strong enough to handle whales and
+    bears with ease.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Fjord-village Inuit
+  description: Many Inuit living with Inugpaqdjuqdjualung; they hunt whales from boats
+    and warn him about bears near the village.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Whales
+  description: Whales pass under Inugpaqdjuqdjualung, are hunted by the natives, and
+    are caught or moved by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Two huge bears
+  description: Two bears are seen near the village and are killed by Inugpaqdjuqdjualung.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: flood dead and flood survivors
+  assigned_to:
+  - fig:1
+  basis: The passage states that many Inuit died, while many others were saved in
+    kayaks.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: enormous superhuman hunter
+  assigned_to:
+  - fig:2
+  basis: He is described as enormous, able to straddle a fjord, catch whales, move
+    boats, and kill bears with his fingers and boot eyelet.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: village companions and hunters
+  assigned_to:
+  - fig:3
+  basis: They live with Inugpaqdjuqdjualung, man boats to hunt a whale, and alert
+    him to bears.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: animals hunted or killed
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Whales are caught or hunted, and the bears are killed by Inugpaqdjuqdjualung.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: flood water
+  literal_form: The rising ocean water that covers the whole land and reaches the
+    mountain tops.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: mountain-top flood traces
+  literal_form: Mountain tops with stranded ice caps, shells, and bones after the
+    flood subsides.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: kayaks as survival craft
+  literal_form: Kayaks taken by many Inuit when the flood water begins to rise.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fjord-spanning body
+  literal_form: Inugpaqdjuqdjualung straddling the fjord while waiting for whales.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: boats lifted from the water
+  literal_form: Boats manned by hunters that are scooped from the water with the whale
+    and placed on the beach.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The great flood and its aftermath
+  summary: The ocean rises over the land and mountains; after it subsides, ice, shells,
+    and bones remain on mountain tops, many Inuit have died, and many kayak users
+    survive.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Inugpaqdjuqdjualung catches whales from the fjord
+  summary: The enormous man straddles the fjord, waits for whales to pass beneath
+    him, catches them, and eats them as small pieces of meat.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: The giant interrupts a whale hunt
+  summary: While the natives hunt a whale from boats, Inugpaqdjuqdjualung scoops up
+    both whale and boats and sets them on the beach.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: The giant kills two bears
+  summary: After being awakened with stones, Inugpaqdjuqdjualung dismisses the bears
+    as small creatures, crushes one, and strangles the other in his boot eyelet.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: world-covering flood with survivors
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The ocean covers the whole land and mountains, many Inuit die, and many others
+    survive by taking to kayaks.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage gives no explicit divine cause, covenant, or full account
+    of social renewal after the flood.
+- id: motif:2
+  label: watercraft survival during flood
+  taxonomy_refs:
+  - ark_vessel
+  basis: Many Inuit are saved because they take to their kayaks when the water begins
+    to rise.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The vessels are kayaks, not a single ark, and no construction command
+    or animal-preservation theme is stated.
+- id: motif:3
+  label: flood as explanation for mountain ice and marine remains
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage explains mountain-top ice caps and visible shells and bones as
+    remains left after the flood subsided.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an etiological element attached to the flood; the taxonomy reference
+    is broad rather than exact.
+- id: motif:4
+  label: giant whose scale dwarfs ordinary animals and landscape
+  taxonomy_refs: []
+  basis: Inugpaqdjuqdjualung straddles a fjord, catches whales as small food, and
+    treats huge bears as small creatures.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy family directly names a giant motif.
+- id: motif:5
+  label: superhuman hunter casually overpowers dangerous animals
+  taxonomy_refs: []
+  basis: Inugpaqdjuqdjualung catches whales by hand and kills two bears with his fingers
+    and boot eyelet.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: This overlaps with the giant-scale motif and should be reviewed for whether
+    it should remain separate.
+comparison_claims:
+- id: claim:1
+  claim: The flood account fits a broad flood-and-renewal motif family because rising
+    waters cover all land, some people die, some survive, and the post-flood landscape
+    bears traces of the event.
+  claim_level: same_motif
+  target: flood_and_renewal motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage itself does not support claims of historical contact, common
+    inheritance, divine judgment, covenant, or a named survivor pair.
+- id: claim:2
+  claim: The kayak-survival detail is functionally similar to an ark-vessel pattern
+    in which a watercraft enables survival during a flood.
+  claim_level: same_function
+  target: ark_vessel motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage mentions multiple kayaks used by many survivors, not a
+    single ark or divinely appointed vessel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9589-9593
+  quote_or_summary: "“the ocean suddenly began to rise, until it covered the whole
+    land. The water even rose to the top of the mountains”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9593-9597
+  quote_or_summary: After the flood subsides, stranded ice forms an ice cap on the
+    mountains, and shellfish, fish, seal, and whale remains are left high and dry
+    and visible.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 9597-9600
+  quote_or_summary: "“A great number of Inuit died during this period, but many others,
+    who had taken to their kayaks when the water commenced to rise, were saved.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9609-9618
+  quote_or_summary: Inugpaqdjuqdjualung is an enormous man in a fjord village; he
+    is tall enough to straddle the fjord, waits for whales below him, catches them,
+    and eats them like small pieces of meat.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9619-9623
+  quote_or_summary: When the natives are hunting a whale from boats, Inugpaqdjuqdjualung
+    scoops both the whale and boats from the water and places them on the beach.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9624-9628
+  quote_or_summary: Inugpaqdjuqdjualung lies down on a high hill to nap and tells
+    his friends to rouse him with large stones if bears come near.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 9628-9630
+  quote_or_summary: "“those little things? Those are not worth the bustle; they are
+    small foxes, not bears,” after which he crushes one and strangles the other in
+    his boot eyelet."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied passage. Motif mapping for
+    the flood is strong; mapping kayaks to ark_vessel and separating giant-related
+    motifs require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact or common-inheritance claim is made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9589-l9630
+  passage_sha256=2ec749512ad646c3798121f391d508ede911e3bee795359528943a51db0546d0
+

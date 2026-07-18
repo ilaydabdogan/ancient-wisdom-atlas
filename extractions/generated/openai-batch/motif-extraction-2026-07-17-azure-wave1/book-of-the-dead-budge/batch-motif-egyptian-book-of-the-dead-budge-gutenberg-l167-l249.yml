@@ -1,0 +1,614 @@
+---
+record_id: batch.motif.egyptian-book-of-the-dead-budge-gutenberg-l167-l249
+source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+passage_locator:
+  label: THE BOOK OF THE DEAD. / CHAPTER I / CHAPTER II / CHAPTER III; lines 167-249
+  start: '167'
+  end: '249'
+  translation: The Book of the Dead
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the work Per-t em hru, or the Chapters of Coming
+    Forth by or into the Day, as funerary spells and texts associated with Thoth.
+    It summarizes rubrics about the text's discovery or inscription, its promised
+    benefits for the dead, ritual purity requirements for recitation, and the historical
+    development of coffin and papyrus versions with vignettes, offerings, and afterlife-region
+    imagery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The work is identified as Per-t em hru, the Chapters of Coming Forth by or
+    into the Day, commonly called the Book of the Dead.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says spells and other texts written by Thoth were for the benefit
+    of the dead and directly connected with him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One rubric says the text was discovered by a high official in the foundations
+    of a shrine of the god Hennu during the reign of Semti or Hesepti.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another rubric says the text was cut on the alabaster plinth of a statue of
+    Menkaura, with letters inlaid with lapis lazuli, and that Prince Herutataf found
+    the plinth and carried it to King Khufu.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The composition is said to grant victory on earth and in the Other World,
+    safe passage through the Tuat, freedom to go in and out, ability to take any desired
+    form, flourishing of the soul, and prevention of the second death.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For the deceased to receive full benefit, the text had to be recited by a
+    ceremonially pure man who had not eaten fish or meat and had not consorted with
+    women.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The rubric connected with Herutataf associates the finding of the chapter
+    with Khemenu, or Hermopolis, and indicates Thoth as author.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says many original forms of chapters are found in the Pyramid
+    Texts and that XIth- and XIIth-dynasty coffin texts may also be related to Per-t
+    em hru.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Some coffin texts have coloured vignettes referring to the region traversed
+    by the deceased on the way to the Other World and to the Islands of the Blessed
+    or Elysian Fields.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Coffin margins often show coloured drawings of offerings presented to the
+    deceased or to the deceased's statue during Opening the Mouth and the Liturgy
+    of Funerary Offerings.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Under the XVIIIth dynasty, scribes began writing collections of chapters on
+    papyrus rolls, with hieroglyphic text, rubrics and catchwords in red, and vignettes
+    drawn or coloured.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Some papyrus rolls were written by their owners for their own tombs; later
+    production could divide text writing from the addition of coloured vignettes.
+  category: relationship
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Thoth
+  description: God connected with the spells and texts, and indicated as their author
+    in the Hermopolis-associated rubric.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: the dead / the deceased
+  description: Beneficiaries of the spells and texts; the deceased is described as
+    traversing a region toward the Other World and receiving offerings or benefits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: god Hennu
+  description: God whose shrine foundations are named as the place where one rubric
+    says the text was discovered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed high official
+  description: A high official said in one rubric to have discovered the text in the
+    foundations of Hennu's shrine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Menkaura / Mycerinus
+  description: King of the IVth dynasty whose statue's alabaster plinth is said to
+    bear the text.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Prince Herutataf
+  description: Son of King Khufu who is said to have found the plinth, carried it
+    to his king, and exhibited it as wonderful.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: King Khufu / Cheops
+  description: King to whom Prince Herutataf carried and exhibited the plinth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: ceremonially pure reciter
+  description: A man required to recite the text for the deceased's full benefit while
+    meeting purity and abstinence conditions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine author of funerary texts
+  assigned_to:
+  - fig:1
+  basis: The passage says the spells and texts were written by Thoth and later indicates
+    Thoth as author.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: dead beneficiary and afterlife traveler
+  assigned_to:
+  - fig:2
+  basis: The text is for the benefit of the dead, promises afterlife benefits, and
+    includes imagery of the deceased traversing a region toward the Other World.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:3
+  label: deity of discovery-shrine
+  assigned_to:
+  - fig:3
+  basis: One rubric places discovery of the text in the foundations of Hennu's shrine.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: finder or transmitter of the text
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: One account names an unnamed high official as discoverer; another names Herutataf
+    as finder and carrier of the inscribed plinth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: royal figure linked to inscribed statue
+  assigned_to:
+  - fig:5
+  basis: The passage says the text was cut on the plinth of a statue of Menkaura.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: royal recipient of exhibited object
+  assigned_to:
+  - fig:7
+  basis: Herutataf is said to carry the plinth to King Khufu and exhibit it to him.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: purified ritual reciter
+  assigned_to:
+  - fig:8
+  basis: The full benefit requires recitation by a ceremonially pure man observing
+    specified abstinences.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Coming Forth by or into the Day
+  literal_form: Title phrase of the work Per-t em hru.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hennu shrine foundations
+  literal_form: Foundations of a shrine of the god Hennu where one rubric says the
+    text was discovered.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: alabaster plinth with lapis lazuli letters
+  literal_form: The plinth of a statue of Menkaura, cut with the text and inlaid with
+    lapis lazuli letters.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Tuat / Under World
+  literal_form: The Under World through which the composition promises safe and free
+    passage.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Other World
+  literal_form: Realm in which the composition promises victory and toward which the
+    deceased travels in vignette descriptions.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:6
+  label: Islands of the Blessed / Elysian Fields
+  literal_form: Afterlife places named in relation to coffin vignettes of the deceased's
+    route.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: coloured vignettes of the afterlife route
+  literal_form: Coloured drawings illustrating regions traversed by the deceased,
+    later developed in papyrus manuscripts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+- id: sym:8
+  label: funerary offerings
+  literal_form: Coloured drawings of offerings presented to the deceased or to the
+    deceased's statue during funerary rites.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: Opening the Mouth
+  literal_form: Named funerary ceremony associated with offerings to the deceased
+    or the deceased's statue.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Title and divine attribution of the funerary work
+  summary: The passage identifies Per-t em hru as Chapters of Coming Forth by or into
+    the Day and says the relevant spells and texts were written by or attributed to
+    Thoth for the benefit of the dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Discovery and royal transmission of the text
+  summary: Rubrics describe the text as discovered in Hennu's shrine foundations or
+    inscribed on Menkaura's statue plinth; Herutataf finds and brings the plinth to
+    Khufu.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: scene:3
+  label: Promised powers of the composition
+  summary: The composition is described as giving victory, safe Tuat passage, freedom
+    of movement, form-taking, flourishing of the soul, and prevention of the second
+    death.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Purity condition for recitation
+  summary: The deceased receives full benefit only if the text is recited by a ceremonially
+    pure man who has observed specified abstinences.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Manuscript imagery of route and offerings
+  summary: Coffins and papyri are described as carrying coloured vignettes of the
+    deceased's route to the Other World, named blessed regions, and offerings associated
+    with funerary rites.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: afterlife journey through mapped regions
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The composition promises safe passage through the Tuat, and coffin vignettes
+    depict the region traversed by the deceased on the way to the Other World and
+    blessed fields.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The passage is introductory prose and manuscript description, not a narrated
+    journey episode.
+- id: motif:2
+  label: postmortem transformation into any form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The composition is said to allow the beneficiary to take any form he pleased.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific transformations or assumed forms are named in this passage.
+- id: motif:3
+  label: avoidance of second death and flourishing of the soul
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage states that the composition would make the soul flourish and
+    prevent the second death; the title also centers on coming forth by or into the
+    day.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe bodily resurrection or a full death-and-rebirth
+    narrative.
+- id: motif:4
+  label: divinely authored funerary wisdom text
+  taxonomy_refs:
+  - wisdom
+  basis: The spells and texts are attributed to Thoth, are for the benefit of the
+    dead, and are treated as a revered composition transmitted through discovery rubrics.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage frames this as textual history and rubric tradition rather
+    than as a mythic revelation scene.
+- id: motif:5
+  label: ritual purity enabling sacred recitation
+  taxonomy_refs:
+  - initiation
+  basis: The text's full benefit depends on recitation by a ceremonially pure man
+    who has abstained from certain foods and sexual contact.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The reciter is not described as an initiate, and the passage gives only
+    purity prerequisites.
+- id: motif:6
+  label: funerary offerings for the deceased or statue
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes coloured drawings of offerings presented to the deceased
+    or to the deceased's statue during Opening the Mouth and the Liturgy of Funerary
+    Offerings.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The passage mentions offerings in the context of coffin imagery and ritual
+    service, but does not describe an explicit exchange.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Per-t em hru, the Pyramid Texts, and XIth- to XIIth-dynasty
+    coffin texts as related funerary corpora with overlapping chapter forms and afterlife
+    functions.
+  claim_level: same_function
+  target: Pyramid Texts and XIth- to XIIth-dynasty coffin texts
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The relationship is reported cautiously in the passage, including the
+    statement that some affiliations are possible; no individual spell is compared
+    line by line.
+- id: claim:2
+  claim: The passage supports a cautious visual-continuity claim between coffin vignettes
+    and later papyrus vignettes as illustrated accompaniments to funerary texts and
+    afterlife-route material.
+  claim_level: visual_similarity
+  target: coffin vignettes and illustrated papyrus rolls of Per-t em hru
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage describes broad manuscript practices and does not compare
+    specific images or iconographic details.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 169-175
+  quote_or_summary: The work is named Per-t em hru, the Chapters of Coming Forth by
+    or into the Day; spells and texts written by Thoth are said to benefit the dead.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 176-180
+  quote_or_summary: A rubric in the Papyrus of Nu says the text was discovered by
+    a high official in the foundations of a shrine of the god Hennu during Semti or
+    Hesepti's reign.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 181-186
+  quote_or_summary: Another rubric says the text was cut on the alabaster plinth of
+    a statue of Menkaura with lapis lazuli letters; Prince Herutataf found it, carried
+    it to Khufu, and exhibited it as wonderful.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 186-191
+  quote_or_summary: The composition is said to make a man victorious on earth and
+    in the Other World, ensure safe passage through the Tuat, allow entering and exiting
+    and taking any form, make the soul flourish, and prevent the second death.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 192-194
+  quote_or_summary: Full benefit for the deceased requires recitation by a ceremonially
+    pure man who has not eaten fish or meat and has not consorted with women.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 195-202
+  quote_or_summary: The passage describes long and short versions and says the Herutataf
+    rubric associates the finding with Khemenu/Hermopolis and indicates Thoth as author.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:7
+  type: summary
+  locator: lines 204-216
+  quote_or_summary: Per-t em hru expanded over centuries; many original forms of chapters
+    are found in Pyramid Texts, and coffin texts of the XIth and XIIth dynasties may
+    also belong to or extract from the work.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:8
+  type: summary
+  locator: lines 216-220
+  quote_or_summary: Pyramid Texts have no illustrations, while some coffin texts have
+    coloured vignettes referring to the region traversed by the deceased toward the
+    Other World and the Islands of the Blessed or Elysian Fields.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:9
+  type: summary
+  locator: lines 220-225
+  quote_or_summary: Coffin margins often include coloured drawings of offerings presented
+    to the deceased or the deceased's statue during Opening the Mouth and the Liturgy
+    of Funerary Offerings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:10
+  type: summary
+  locator: lines 226-237
+  quote_or_summary: With large coffins less used, scribes wrote chapters on papyrus
+    rolls, first in hieroglyphs with black ink and black-outline vignettes, then with
+    red titles and rubrics and larger coloured vignettes.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+- id: ev:11
+  type: summary
+  locator: lines 238-249
+  quote_or_summary: The passage names papyrus examples, says many rolls were written
+    by owners for their tombs, and describes later division between scribe and artist,
+    with some later hieratic papyri lacking vignettes but having coloured frontispieces.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source text; Project Gutenberg/Budge translation metadata
+    indicates full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear English public-domain prose, but much of it is textual
+    history rather than mythic narrative; motif candidates therefore emphasize explicitly
+    stated funerary functions, afterlife travel, transformation, and ritual requirements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied motif-family list; no supplied symbol taxonomy item directly matches the passage's named objects or places.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:egyptian-book-of-the-dead-budge-gutenberg__l167-l249
+  passage_sha256=a023376da55fcaef9a372d385188ff671262e010a0162e8989f6d1756eb1fdf3
+

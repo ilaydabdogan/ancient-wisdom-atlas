@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16743-l16766
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: CXLIX / CLVII / CLXVI / CLXXIII; lines 16743-16766
+  start: '16743'
+  end: '16766'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lyric speaker addresses an absent beloved, describes suffering through
+    blood, tears, illness, and public mockery, depicts the beloved through moon-and-sun
+    imagery when her veil is removed, and ends by asking for a cup or goblet filled
+    with her grace.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says he wrote to a dear one with his heart's blood and that the
+    earth seems doom-struck when she is not near.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker's eyes are described as showing many signs of absence; tears are
+    named as signs of woe.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he gained no boon from her and quotes a warning that trying
+    the tried leads to repentance.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the speaker asks how she fares, a physician replies that health is far
+    from her and ache is near her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The East-wind removes the veil from the speaker's Moon, and at morning the
+    Sun shines from pale vapors.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker says others will mock if he goes around the beloved's lane, and
+    adds that no love escapes mockers.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage ends with a request to grant Hfiz' prayer for one cup or goblet
+    replete with the beloved's grace.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker / Hfiz
+  description: The first-person speaker who writes, asks, fears mockery, and requests
+    a cup; named in the closing request as Hfiz.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: beloved / one most dear / Moon
+  description: The dear female addressee whose absence causes distress, from whom
+    no boon is gained, and whose veil is removed in celestial imagery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: physician
+  description: A physician who answers the speaker's question about the beloved's
+    condition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: East-wind
+  description: A wind from the East that removes the beloved's veil in the dawn image.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: mockers
+  description: Unspecified people whose mockery is anticipated by the speaker and
+    generalized as a bane of love.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: lamenting lover and supplicant
+  assigned_to:
+  - fig:1
+  basis: The speaker writes in suffering, fears mockery for going near the beloved's
+    lane, and asks that Hfiz' prayer be granted.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:2
+  label: absent beloved and source of grace
+  assigned_to:
+  - fig:2
+  basis: The addressee is called dear, her absence affects the speaker, and the desired
+    goblet is replete with her grace.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:3
+  label: medical commentator
+  assigned_to:
+  - fig:3
+  basis: The physician speaks about health and ache in answer to the speaker's inquiry.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: unveiling natural force
+  assigned_to:
+  - fig:4
+  basis: The East-wind is said to remove the veil from the speaker's Moon.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: social opponents of love
+  assigned_to:
+  - fig:5
+  basis: Mockers are described as afflicting love and as a reason the speaker may
+    be mocked near the beloved's lane.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: heart's blood as writing substance
+  literal_form: heart's blood
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tears as signs of absence
+  literal_form: tears from the speaker's eyes
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: beloved as Moon
+  literal_form: Moon with a veil
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: dawn Sun after unveiling
+  literal_form: Sun shining at morning from pale vapors
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: veil
+  literal_form: veil removed by the East-wind
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: cup or goblet of grace
+  literal_form: one cup; a goblet replete with grace
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: beloved's lane
+  literal_form: the lane around which the speaker may go
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Writing to the absent beloved
+  summary: The speaker writes to a dear beloved using the image of heart's blood and
+    declares the world afflicted in her absence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Signs of absence and no boon gained
+  summary: The speaker describes tears and other signs of absence, then says no benefit
+    was received from the beloved despite effort.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Physician's answer
+  summary: The speaker asks about the beloved's state, and the physician answers in
+    terms of health being far and ache being near.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Unveiling at dawn
+  summary: The East-wind removes the veil from the beloved figured as Moon, and the
+    morning Sun appears from pale vapors.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Mockery and prayer for a cup
+  summary: The speaker anticipates mockery for going around the beloved's lane and
+    closes with a prayer for a cup or goblet filled with her grace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: absent beloved as source of suffering and grace
+  taxonomy_refs:
+  - divine_beloved
+  basis: The beloved's absence produces signs of woe, the speaker seeks her boon and
+    grace, and the closing request is framed as a prayer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state that the beloved is divine; the
+    taxonomy reference is based on prayer, grace, and lyric beloved imagery and requires
+    human review.
+- id: motif:2
+  label: love exposed to public mockery
+  taxonomy_refs: []
+  basis: The speaker fears being mocked for circling the beloved's lane and generalizes
+    that no love escapes mockers.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this social-love motif.
+- id: motif:3
+  label: unveiling of the beloved as dawn illumination
+  taxonomy_refs: []
+  basis: The East-wind removes the beloved's veil, followed by the morning Sun shining
+    from pale vapors.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a local image pattern in the passage; broader cosmological or
+    mystical significance is not stated explicitly.
+- id: motif:4
+  label: requested cup filled with grace
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker asks that Hfiz' prayer be granted in the form of one cup or goblet
+    replete with the beloved's grace.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage supports a request for a gracious cup, but it does not clearly
+    describe an exchange or ritual act; taxonomy assignment is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16743-16746
+  quote_or_summary: '"With my heart''s blood I wrote to one most dear"; the earth
+    seems doom-struck if the beloved is not near.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 16748-16749
+  quote_or_summary: The speaker's eyes show "a hundred signs of absence" and tears
+    are signs of woe.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 16751-16752
+  quote_or_summary: 'The speaker gains no boon from her and quotes: "Who tries the
+    tried will in the end repent."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 16754-16755
+  quote_or_summary: The speaker asks how she fares; the physician says health is far
+    from her, but ache is near her.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 16757-16758
+  quote_or_summary: '"The East-wind from my Moon removed her veil"; at morning the
+    Sun shines from pale vapors.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 16760-16761
+  quote_or_summary: The speaker says people will mock if he goes around the beloved's
+    lane, and that no love escapes mockers.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 16763-16766
+  quote_or_summary: The closing request asks to grant Hfiz' prayer for "One cup" and
+    a goblet replete with the beloved's grace.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy assignments involving
+    divine beloved or sacred exchange are tentative because the passage is lyric and
+    does not explicitly define the beloved's ontological status.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. No comparison claims were added because the passage itself does not explicitly support comparison to another named tradition or corpus.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16743-l16766
+  passage_sha256=c6ee3af500b2c72255240b6fc2f5d8395884f5e1a91cc55427e9b6434b6ae7af
+

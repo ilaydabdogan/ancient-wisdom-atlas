@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.norse-volsunga-saga-morris-gutenberg-l2172-l2180
+source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+passage_locator:
+  label: THE STORY OF THE VOLSUNGS AND NIBLUNGS. / CHAPTER V. Of the Slaying of King
+    Volsung. / CHAPTER VII. Of the Birth of Sinfjotli the Son of Sigmund. / CHAPTER
+    VIII. The Death of King Siggeir and of Signy.; lines 2172-2180
+  start: '2172'
+  end: '2180'
+  translation: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The endnotes gloss 'Waterfall' with Icelandic forms, identify Ran as sea
+    goddess and wife of Aegir, state that the otter was sacred to Norsefolk and widely
+    present in myth and legend, note that otter-killing is a grave crime among the
+    Parsees, and compare a penalty mentioned elsewhere with that for killing the Welsh
+    king's cat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note glosses 'Waterfall' with Icelandic forms 'foss' and 'fors'.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ran is identified as the goddess of the sea.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ran is identified as the wife of Aegir.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The otter is described as having been held sacred by Norsefolk.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The otter is said to figure in the myth and legend of most races besides Norsefolk.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The killing of the otter is said to be held a great crime by the Parsees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note instructs the reader to compare a penalty mentioned above with the
+    penalty for killing the Welsh king's cat.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ran
+  description: Named as the goddess of the sea and wife of Aegir.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Aegir
+  description: Named as the spouse of Ran.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: sea goddess
+  assigned_to:
+  - fig:1
+  basis: The note identifies Ran as 'the goddess of the sea'.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: wife of Aegir
+  assigned_to:
+  - fig:1
+  basis: The note identifies Ran as Aegir's wife.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: spouse of Ran
+  assigned_to:
+  - fig:2
+  basis: Aegir is named in the relationship statement that Ran is his wife.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Waterfall
+  literal_form: Waterfall, glossed with Icelandic forms 'foss' and 'fors'.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sea
+  literal_form: The sea, associated with Ran's divine domain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Otter
+  literal_form: The otter, described as sacred to Norsefolk and significant in myth
+    and legend.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Welsh king's cat
+  literal_form: The Welsh king's cat, mentioned in connection with a penalty for killing
+    it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Sacred or protected animal
+  taxonomy_refs: []
+  basis: The otter is described as sacred to Norsefolk, and its killing is said to
+    be treated as a great crime by the Parsees.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an editorial endnote and gives no narrative episode in the excerpt.
+- id: motif:2
+  label: Penalty for killing a valued animal
+  taxonomy_refs: []
+  basis: The note explicitly compares a penalty mentioned elsewhere with the penalty
+    for killing the Welsh king's cat.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The actual penalties and their narrative or legal contexts are not included
+    in the passage.
+- id: motif:3
+  label: Sea goddess
+  taxonomy_refs: []
+  basis: Ran is identified as the goddess of the sea.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only identifies the figure in an endnote and does not narrate
+    a mythic action involving her.
+comparison_claims:
+- id: claim:1
+  claim: The note compares a penalty in the surrounding work with the penalty for
+    killing the Welsh king's cat.
+  claim_level: same_function
+  target: Penalty for killing the Welsh king's cat in the cited Welsh legal material
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not provide the compared penalty or the Welsh legal
+    passage itself, so the functional similarity remains only editorially indicated.
+- id: claim:2
+  claim: The note places the Norse sacred status of the otter alongside the Parsee
+    view that otter-killing is a great crime, suggesting a cross-cultural protected-animal
+    pattern.
+  claim_level: same_function
+  target: Parsee prohibition or grave offense concerning otter-killing
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim depends on an editorial note and supplies no primary Parsee
+    text or detailed ritual/legal context.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2172-2173
+  quote_or_summary: Waterfall glossed as Icelandic 'foss' and 'fors'.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; concise summary of endnote.
+- id: ev:2
+  type: quote
+  locator: 2173-2174
+  quote_or_summary: Ran is identified as 'the goddess of the sea, wife of Aegir'.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: summary
+  locator: 2174-2176
+  quote_or_summary: The otter is described as sacred to Norsefolk and as appearing
+    in the myth and legend of many other peoples.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2176-2177
+  quote_or_summary: The note says that killing the otter is held a great crime by
+    the Parsees, citing Haug's Religion of the Parsees.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2177-2180
+  quote_or_summary: The note tells the reader to compare the penalty above with the
+    penalty for killing the Welsh king's cat in Ancient Laws and Institutes of Wales.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward, but the passage is editorial endnote
+    material, not narrative myth. Motif and comparison claims are therefore limited
+    to explicit statements in the note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes are present in the supplied excerpt. Taxonomy references are used only for water-related literal forms supported by the available symbol list.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-volsunga-saga-morris-gutenberg__l2172-l2180
+  passage_sha256=81c6072d18bb1106cd9a3301e2a9cf0bb1baf2c468b0d41a4daa70e99ea677da
+

@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l212-l319
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: RUSSIAN MYTHS AND FOLK-TALES. / CHEKH MYTHS AND FOLK-TALES. / MAGYAR MYTHS
+    AND FOLK-TALES. / INTRODUCTION.; lines 212-319
+  start: '212'
+  end: '319'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction argues for mythology as a science and discusses how European
+    folk-tales often preserve disguised or substituted mythic actors. It identifies
+    elemental figures in the volume, including Raven, Whirlwind, South Wind, brothers
+    Wind, and a wise fire-eating Magyar steed, and notes comparisons to American mythology
+    and to Russian and other Slav tales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says many European folk-tales have substituted heroes such as
+    royal sons, merchants, poor men, and soldiers, while incidents may still indicate
+    the original hero.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says a few tales in the volume preserve elemental heroes and that
+    this points to a similarity with the American system of mythology.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Raven is described not as the common bird but as an elemental power that was
+    overcome, became the common raven, and flew to the mountains.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Whirlwind and South Wind are described as heroes in two Russian stories, one
+    as a leading character and the other as an important secondary character.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Two brothers Wind are mentioned in “The Cuirassier and the Horned Princess,”
+    where the personal character of Wind is said to be well maintained.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A Magyar steed is described as fire-eating and wise, also appearing in Russian
+    and other Slav tales, and as mangy and miserable except in action.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that no tale in the volume clearly identifies all its characters,
+    because modifying influences have been too great and long-continued.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says literary masterpieces and early chronicles are strongly associated
+    with mythology, and gives Gaelic chronicles as preserving a buried pantheon under
+    the guise of history.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: The passage claims mythology is needed for thorough understanding of religion
+    and says the science should be founded by collecting myths, beliefs, and worldviews
+    from races outside the Aryan and Semitic.
+  category: other
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: An elemental power, distinguished from the common bird, that was overcome,
+    turned into the common raven, and flew to the mountains.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Whirlwind
+  description: A hero and leading character in a Russian story.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: South Wind
+  description: A hero and important secondary character in a Russian story.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Two brothers Wind
+  description: Wind figures in “The Cuirassier and the Horned Princess,” with the
+    personal character of Wind maintained.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Magyar steed
+  description: A fire-eating and wise steed, mangy and miserable except in action,
+    appearing also in Russian and other Slav tales.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Elemental hero or personified elemental power
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage explicitly identifies elemental heroes and names Raven, Whirlwind,
+    South Wind, and brothers Wind as such or as personified elemental figures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Leading character
+  assigned_to:
+  - fig:2
+  basis: Whirlwind is described as a hero and leading character in one Russian story.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Important secondary character
+  assigned_to:
+  - fig:3
+  basis: South Wind is described as a hero and important secondary character in one
+    Russian story.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Wise fire-eating steed
+  assigned_to:
+  - fig:5
+  basis: The steed is described as fire-eating and wise, and as mangy and miserable
+    except in action.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Defeated transformed being
+  assigned_to:
+  - fig:1
+  basis: Raven is described as an elemental power that was overcome and then turned
+    into the common raven.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Raven form
+  literal_form: Raven; common raven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Mountains
+  literal_form: mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Wind as personal being
+  literal_form: Whirlwind, South Wind, and two brothers Wind
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Fire-eating attribute
+  literal_form: fire-eating steed
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Exceptional steed
+  literal_form: mangy and miserable steed, except in action
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Referenced Raven transformation
+  summary: The introduction reports that Raven was an elemental power, was overcome,
+    became the common raven, and flew to the mountains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Referenced wind heroes
+  summary: The introduction reports that Whirlwind and South Wind are heroes in Russian
+    stories and that two brothers Wind preserve the personal character of Wind in
+    another tale.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Referenced wise fire-eating steed
+  summary: The introduction describes a Magyar steed that is fire-eating, wise, outwardly
+    mangy and miserable, and present also in Russian and other Slav tales.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Substituted hero concealing an original mythic actor
+  taxonomy_refs: []
+  basis: The passage says many European tales have substituted social-type heroes,
+    while incidents may reveal what kind of person the original hero was; it later
+    says scientific interest depends on identifying actors under disguises.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is presented as an analytical pattern in the introduction rather
+    than as a single tale episode.
+- id: motif:2
+  label: Elemental powers as folk-tale heroes
+  taxonomy_refs: []
+  basis: The passage states that a few tales preserve elemental heroes and names Raven,
+    Whirlwind, South Wind, and brothers Wind as examples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives brief examples rather than full tale narratives.
+- id: motif:3
+  label: Defeated elemental power transformed into a common animal
+  taxonomy_refs:
+  - shapeshifter
+  basis: Raven is described as an elemental power that, after being overcome, turned
+    into the common raven and flew away.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a transformation, not necessarily voluntary or repeated
+    shapeshifting.
+- id: motif:4
+  label: Personified winds as named heroic actors
+  taxonomy_refs: []
+  basis: Whirlwind, South Wind, and two brothers Wind are described as tale characters
+    in whom Wind has personal character.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The cited passage does not summarize the plots of the wind tales.
+- id: motif:5
+  label: Wise fire-eating steed with degraded outward appearance
+  taxonomy_refs:
+  - wisdom
+  basis: The Magyar steed is described as fire-eating and wise, and always mangy and
+    miserable except in action.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage identifies the character type but does not provide a complete
+    episode involving the steed.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the preservation of elemental heroes in some tales
+    from the volume points to a similarity with the American system of mythology.
+  claim_level: same_function
+  target: American system of mythology
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific American myths, figures, or transmission mechanism are
+    identified in the passage.
+- id: claim:2
+  claim: The passage states that the wise fire-eating Magyar steed also appears in
+    Russian and other Slav tales.
+  claim_level: same_motif
+  target: Russian and other Slav tales
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not name the Russian or other Slav tales in which
+    the steed appears.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 249-254
+  quote_or_summary: "“The great majority ... have mainly substituted heroes” and “incidents”
+    indicate “what kind of person the original hero must have been.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 256-258
+  quote_or_summary: "“A few of the tales in this volume have preserved elemental heroes,”
+    which “points to a similarity with the American system of mythology.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:3
+  type: quote
+  locator: lines 260-262
+  quote_or_summary: Raven is “not the common bird” but an “elemental power” that,
+    after being overcome, “turned into the common raven” and flew to the mountains.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:4
+  type: summary
+  locator: lines 263-266
+  quote_or_summary: Whirlwind and South Wind are heroes in Russian stories, and two
+    brothers Wind appear in “The Cuirassier and the Horned Princess,” where Wind’s
+    personal character is maintained.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:5
+  type: summary
+  locator: lines 267-270
+  quote_or_summary: The Magyar steed is described as fire-eating and wise, appearing
+    also in Russian and other Slav tales, and as mangy and miserable except in action.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:6
+  type: summary
+  locator: lines 270-275
+  quote_or_summary: The passage says no tale makes clear who all characters are, because
+    modifying influences were too strong; scientific interest requires showing who
+    the actors are under their disguises.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:7
+  type: summary
+  locator: lines 279-292
+  quote_or_summary: The passage says literary masterpieces are filled with myths or
+    modeled on earlier myth-tales, naming works such as the Iliad, Odyssey, Æneid,
+    Divine Comedy, Paradise Lost, and others.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:8
+  type: quote
+  locator: lines 294-299
+  quote_or_summary: Irish Gaelic chronicles and historical tales, “in the guise of
+    history,” give mythology and preserve “a whole buried Pantheon.”
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:9
+  type: summary
+  locator: lines 301-305
+  quote_or_summary: The passage says mythology will serve myth-tales, literature,
+    early history, and especially religion, because religion cannot be thoroughly
+    understood without mythology.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+- id: ev:10
+  type: summary
+  locator: lines 310-318
+  quote_or_summary: The passage says the science of mythology should be founded by
+    obtaining myths, beliefs, and worldviews from races outside the Aryan and Semitic,
+    while noting the damage caused by European actions.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain Project Gutenberg source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introduction and gives brief references to tale figures
+    rather than complete narratives; extraction is strongest for named figures and
+    author-stated comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Motif candidates are treated as passage-supported patterns rather than full tale-level classifications.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l212-l319
+  passage_sha256=9be578c0be984634acb080053210b200696531d11771a50b7849e66ad5dbf49e
+

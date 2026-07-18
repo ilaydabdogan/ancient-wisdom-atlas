@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4011-l4062
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4011-4062
+  start: '4011'
+  end: '4062'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes beliefs about examination and torment in the grave,
+    Jewish parallels to grave punishment, objections and doctrinal answers concerning
+    perception and bodily restoration, and the soul's interval between death and resurrection,
+    including angelic conveyance of believers and classifications of faithful souls.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A corpse is described as pressed by the earth and gnawed or stung until the
+    resurrection by ninety-nine seven-headed dragons; a variant says sins become venomous
+    beasts such as dragons, scorpions, and serpents, with some readers taking this
+    figuratively.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The examination of the sepulchre is reported as founded on a tradition of
+    Mohammed and hinted at in the Koran; orthodox Mohammedans are said to make graves
+    hollow so the deceased can sit up during angelic examination, while the Mtazalites
+    reject the doctrine.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Jewish account is summarized in which the angel of death sits on the grave,
+    the soul reenters the body and raises it, the departed person is examined, and
+    the angel strikes the body with a chain half iron and half fire until it returns
+    to the grave as dust and ashes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage reports objections that cries of the examined dead are not heard
+    and that some bodies are burned, eaten, or otherwise consumed; the answer given
+    is that events beyond the grave are imperceptible to living people and that any
+    body part capable of understanding the angels' questions may be restored to life.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The soul is said to be separated from the body by the angel of death, gently
+    for the good and violently for the wicked, and then to enter Al Berzakh, the interval
+    between death and resurrection.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If the departed person was a believer, two angels meet the soul and convey
+    it to heaven so that its place may be assigned according to merit and degree.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The souls of the faithful are divided into prophets, whose souls enter paradise
+    immediately; martyrs, whose spirits rest in the crops of green birds eating and
+    drinking in paradise; and other believers, whose pre-resurrection state is variously
+    described, including remaining near sepulchres with freedom to travel.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Deceased body or departed person
+  description: The corpse or departed person undergoing grave pressure, examination,
+    possible restoration, and post-mortem torment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Grave-examining angels
+  description: Angels associated with examining the deceased in the grave and asking
+    questions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Angel of death
+  description: The angel who separates the soul from the body; in the Jewish account
+    summarized here, he also sits on the grave, examines the departed person, and
+    strikes the body.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Believer's soul
+  description: The soul of a departed believer met by angels and conveyed to heaven
+    for assignment according to merit and degree.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Two angels meeting the believer's soul
+  description: Two angels who meet a believer's separated soul and convey it to heaven.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Prophets' souls
+  description: The first class of faithful souls, admitted into paradise immediately.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Martyrs' spirits
+  description: The second class of faithful souls, whose spirits rest in the crops
+    of green birds in paradise.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Other believers' souls
+  description: The third class of faithful souls, with varying reported pre-resurrection
+    states, including staying near sepulchres while being free to go where they please.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: post-mortem examinee and torment subject
+  assigned_to:
+  - fig:1
+  basis: The dead body or person is pressed, stung, examined, and in some accounts
+    restored for questioning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: sepulchre examiners
+  assigned_to:
+  - fig:2
+  basis: The passage describes the deceased as examined by angels and refers to questions
+    put by the angels.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: soul-separating angel
+  assigned_to:
+  - fig:3
+  basis: The angel of death separates the soul from the body, gently toward the good
+    and violently toward the wicked.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Jewish grave examiner and punisher
+  assigned_to:
+  - fig:3
+  basis: In the summarized Jewish account, the angel of death sits on the grave, examines
+    the departed person, and strikes the body with a chain.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: faithful soul assigned a heavenly place
+  assigned_to:
+  - fig:4
+  basis: A believer's soul is conveyed to heaven so its place may be assigned according
+    to merit and degree.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: heavenly conveyors
+  assigned_to:
+  - fig:5
+  basis: Two angels meet the believer's soul and convey it to heaven.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: immediately admitted faithful souls
+  assigned_to:
+  - fig:6
+  basis: Prophets' souls are described as admitted into paradise immediately.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: martyr spirits housed in green birds
+  assigned_to:
+  - fig:7
+  basis: Martyrs' spirits are said to rest in the crops of green birds that feed and
+    drink in paradise.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: believers with disputed interim state
+  assigned_to:
+  - fig:8
+  basis: Other believers' souls have varying reported states before resurrection,
+    including staying near sepulchres with freedom of movement.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: grave or sepulchre
+  literal_form: Hollow grave or sepulchre where the deceased may sit up for examination
+    and where grave punishment occurs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: venomous grave-beasts
+  literal_form: Ninety-nine dragons with seven heads each; or sins appearing as venomous
+    beasts, including dragons, scorpions, and serpents.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: iron-and-fire chain
+  literal_form: A chain half of iron and half of fire used to strike the departed
+    body in the Jewish grave-punishment account.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Al Berzakh
+  literal_form: The interval between death and the resurrection entered by the separated
+    soul.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: heaven or paradise
+  literal_form: Heaven where the believer's place is assigned; paradise immediately
+    entered by prophets' souls and inhabited by martyrs' spirits.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: green birds
+  literal_form: Green birds whose crops contain the spirits of martyrs while they
+    eat fruits and drink from paradise rivers.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: paradise rivers
+  literal_form: Rivers of paradise from which the green birds drink.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Orthodox grave examination and torment
+  summary: The deceased is associated with a hollow grave, angelic examination, and
+    torment by earth pressure and venomous beasts or sins until resurrection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Jewish beating of the sepulchre
+  summary: The angel of death sits on the grave, the soul reenters and raises the
+    body, the departed person is examined, and chain blows reduce the body to dust
+    and ashes before it returns to the grave.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Soul separation and entry into Berzakh
+  summary: The angel of death separates the soul from the body, gently for the good
+    and violently for the wicked, after which the soul enters the interval between
+    death and resurrection.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Believer soul conveyed and classified
+  summary: A believer's soul is met by two angels and conveyed to heaven for assignment;
+    faithful souls are described in classes of prophets, martyrs, and other believers
+    with differing interim states.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: post-mortem grave examination
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes the dead being examined by angels in the sepulchre
+    and questions put to restored bodily capacity.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as doctrine and commentary, not as a direct
+    quoted narrative from the Koran.
+- id: motif:2
+  label: grave torment by venomous beasts or embodied sins
+  taxonomy_refs:
+  - serpent
+  - divine_judgment
+  basis: The corpse is said to be gnawed and stung until resurrection by dragons,
+    or sins are said to become venomous beasts such as dragons, scorpions, and serpents.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage notes that some understand these circumstances figuratively;
+    the beasts listed are not all serpents.
+- id: motif:3
+  label: interim afterlife state before resurrection
+  taxonomy_refs:
+  - afterlife_journey_map
+  - resurrection
+  basis: The soul enters Al Berzakh, an interval between death and resurrection, and
+    faithful souls have differing pre-resurrection conditions.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage reports multiple opinions for some believers' souls rather
+    than a single uniform itinerary.
+- id: motif:4
+  label: angelic conveyance of the soul to heaven
+  taxonomy_refs:
+  - ascent
+  - afterlife_journey_map
+  basis: A believer's soul is met by two angels and conveyed to heaven for assignment
+    according to merit and degree.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not elaborate a detailed ascent route, only the conveyance
+    to heaven.
+- id: motif:5
+  label: restoration or reanimation for post-mortem examination
+  taxonomy_refs:
+  - resurrection
+  basis: The Jewish account has the soul reenter the body and raise it for examination,
+    and the doctrinal answer says any body part capable of understanding may be restored
+    to life for questioning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a temporary or partial restoration for examination, not necessarily
+    the final resurrection itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage asserts that the Islamic notions of sepulchre examination were
+    borrowed from ancient Jewish beliefs about grave examination and punishment.
+  claim_level: historical_contact
+  target: Jewish Hibbut hakkeber, or beating of the sepulchre
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is the passage author's historical assertion; the supplied passage
+    gives no independent chronological or transmission evidence beyond the stated
+    comparison.
+- id: claim:2
+  claim: The Islamic sepulchre examination and the Jewish beating of the sepulchre
+    are presented as functionally similar post-mortem grave tests or punishments before
+    resurrection.
+  claim_level: same_function
+  target: Post-mortem grave examination or grave torment traditions in Islamic and
+    Jewish accounts
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: 'The agents and details differ: the Islamic account emphasizes angels''
+    questions and venomous torment, while the Jewish account emphasizes the angel
+    of death and chain blows.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4011-4016
+  quote_or_summary: The corpse is pressed by earth and gnawed or stung until resurrection
+    by ninety-nine seven-headed dragons; another view says sins become venomous beasts
+    such as dragons, scorpions, and serpents, sometimes read figuratively.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 4017-4024
+  quote_or_summary: The examination of the sepulchre is said to rest on Mohammedan
+    tradition and to be hinted at in the Koran; orthodox Mohammedans believe it and
+    make hollow graves, while the Mtazalites reject it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 4025-4036
+  quote_or_summary: 'The passage says Mohammed borrowed these notions from Jews, then
+    summarizes a Jewish account: the angel of death sits on the grave, the soul reenters
+    the body, the person is examined and struck with a half-iron, half-fire chain,
+    and the punishment is called Hibbut hakkeber or beating of the sepulchre.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 4037-4044
+  quote_or_summary: The passage reports objections about unheard cries and destroyed
+    bodies, and answers that events beyond the grave are imperceptible and that any
+    body part able to understand the angels' questions can be restored to life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 4045-4051
+  quote_or_summary: The soul is separated from the body by the angel of death, gently
+    for the good and violently for the wicked, and enters Al Berzakh, the interval
+    between death and resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 4051-4055
+  quote_or_summary: If the departed was a believer, two angels meet the soul and convey
+    it to heaven so its place may be assigned according to merit and degree.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 4055-4062
+  quote_or_summary: Faithful souls are divided into prophets admitted immediately
+    to paradise, martyrs whose spirits rest in the crops of green birds feeding and
+    drinking in paradise, and other believers whose pre-resurrection state is variously
+    described, including staying near sepulchres with freedom to travel.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about the described doctrines and comparisons, but
+    it appears to be Sale's explanatory or prefatory material rather than a direct
+    Quranic passage; historical-contact claims are therefore recorded only as claims
+    made by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4011-l4062
+  passage_sha256=566abb2313c050f72643c11e21772f34c9991b55481b80f3879fab8ee3d45380
+

@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l14605-l14616
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE CHURCH AT REVEL. / THE CHURCH AT FELLIN. / THE RICH BROTHER AND THE POOR
+    ONE. / THE ORIGIN OF THE SWALLOW.; lines 14605-14616
+  start: '14605'
+  end: '14616'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A drunkard's wife is weaving with her child on her lap when her husband
+    comes home, destroys the loom, kills the child, and beats her senseless. Ukko
+    takes pity on her and changes her into a swallow. As she escapes, the man strikes
+    with a knife and cleaves her tail; since then she twitters her misfortunes and
+    nests against human houses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wife of a drunkard sits weaving with her child on her lap.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The woman wears a black head cloth, a red neckerchief, a white shift, and
+    a coal-black petticoat.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The husband comes home, pushes his wife away, and destroys the loom with an
+    axe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The husband kills the child with a blow of his fist and beats his wife until
+    she falls senseless.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ukko takes pity on the wife and changes her into a swallow.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: As the transformed woman tries to escape, the man strikes at her with a knife
+    and cleaves her tail.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Since that time the swallow flies about twittering her misfortunes, does not
+    shun men like other birds, and builds her nest against their houses.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: wife of a drunkard
+  description: A woman sitting at a loom with her child; she is attacked by her husband
+    and changed by Ukko into a swallow.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: child
+  description: The child sits on the mother's lap and is killed by the husband.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: drunkard husband / man
+  description: The husband destroys the loom, kills the child, beats his wife, and
+    later strikes at the swallow with a knife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Ukko
+  description: Ukko takes pity on the beaten woman and changes her into a swallow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: abused wife
+  assigned_to:
+  - fig:1
+  basis: The passage says the husband pushes her away, beats her until she falls senseless,
+    and she is pitied by Ukko.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: child victim
+  assigned_to:
+  - fig:2
+  basis: The child is on the wife's lap and is killed by the husband.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: violent aggressor
+  assigned_to:
+  - fig:3
+  basis: The husband destroys property, kills the child, beats the wife, and strikes
+    at the escaping swallow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine helper and transformer
+  assigned_to:
+  - fig:4
+  basis: Ukko takes pity on the woman and changes her into a swallow.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: transformed bird
+  assigned_to:
+  - fig:1
+  basis: The wife is changed into a swallow and thereafter flies, twitters, and nests
+    against houses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: swallow
+  literal_form: The woman transformed into a swallow.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: cleft tail
+  literal_form: The swallow's tail is cleft when the man strikes at her with a knife
+    as she escapes.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: loom
+  literal_form: The loom at which the wife is weaving, destroyed by the husband with
+    an axe.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: axe
+  literal_form: The axe used by the husband to destroy the loom.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: knife
+  literal_form: The knife with which the man strikes at the escaping swallow.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: colored garments
+  literal_form: Black head cloth, red neckerchief, white shift, and coal-black petticoat
+    worn by the wife before transformation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: nest against houses
+  literal_form: The swallow builds her nest against human houses and does not shun
+    men like other birds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Woman weaving with child
+  summary: The drunkard's wife sits weaving with her child on her lap and is described
+    by her clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Domestic violence and destruction
+  summary: The husband comes home, pushes his wife aside, destroys the loom with an
+    axe, kills the child, and beats the wife until she is senseless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Transformation and swallow origin
+  summary: Ukko pities the woman and changes her into a swallow; the husband cleaves
+    her tail with a knife as she escapes, and the passage explains the swallow's later
+    cries and nesting near houses.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of the swallow
+  taxonomy_refs: []
+  basis: The title names the passage as an origin of the swallow, and the ending explains
+    the swallow's tail, twittering, and nesting near houses as consequences of the
+    narrated events.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy list supplied has no specific etiological-animal-origin category.
+- id: motif:2
+  label: human transformed into bird by divine pity
+  taxonomy_refs:
+  - shapeshifter
+  basis: Ukko takes pity on the beaten woman and changes her into a swallow.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The transformation is performed by Ukko rather than shown as voluntary
+    shapeshifting by the woman; the taxonomy reference is therefore broad.
+- id: motif:3
+  label: animal feature caused by injury during escape
+  taxonomy_refs: []
+  basis: The man strikes at the escaping swallow with a knife and cleaves her tail,
+    giving an etiological account of the swallow's tail.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this animal-feature origin
+    pattern.
+- id: motif:4
+  label: misfortune carried into animal behavior
+  taxonomy_refs: []
+  basis: After transformation, the swallow is said to fly about twittering her misfortunes
+    and to remain near human houses.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an inferred motif label based on the passage's stated explanation
+    of behavior, not a supplied taxonomy category.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as an etiological animal-origin tale, explaining the
+    swallow's form and behavior through a human-to-bird transformation narrative.
+  claim_level: same_function
+  target: etiological animal-origin tale pattern
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage alone supports functional comparison to an origin-tale
+    pattern; it does not establish historical contact, common inheritance, or a specific
+    parallel text.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '14605'
+  quote_or_summary: '"THE ORIGIN OF THE SWALLOW."'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: 14607-14609
+  quote_or_summary: The wife of a drunkard sits weaving with her child on her lap
+    and is described as wearing black, red, white, and coal-black garments.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 14610-14612
+  quote_or_summary: The husband comes home, pushes his wife away, destroys the loom
+    with an axe, kills the child with his fist, and beats his wife senseless.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 14612-14614
+  quote_or_summary: Ukko pities the wife and changes her into a swallow; as she escapes,
+    the man strikes with a knife and cleaves her tail.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 14615-14616
+  quote_or_summary: Since that time the swallow twitters her misfortunes, does not
+    avoid men like other birds, and builds her nest against human houses.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are based on the passage's
+    explicit etiological framing, while taxonomy mapping is limited because the supplied
+    taxonomy lacks a specific animal-origin category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l14605-l14616
+  passage_sha256=ca23168fe73126598b54086db64fca56c421318a0973582618c2fe89964f7db1
+

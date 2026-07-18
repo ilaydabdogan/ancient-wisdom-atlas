@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l3731-l3814
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 3731-3814
+  start: '3731'
+  end: '3814'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Cinderella flees from the King’s son, leaving a golden slipper on a pitch-smeared
+    staircase. The King’s son declares he will marry only the woman whose foot fits
+    the slipper. The two sisters each mutilate a foot at their mother’s urging and
+    are exposed by pigeons at the hazel-tree because of blood in the shoe. Cinderella
+    is called, cleans herself, fits the slipper, and is recognized as the true bride.
+    At the wedding, pigeons blind the two false sisters as punishment for wickedness
+    and falsehood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cinderella leaves in the evening and escapes the King’s son; her left slipper
+    remains stuck on a staircase smeared with pitch.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King’s son picks up the small golden slipper and states that no one shall
+    be his wife except the woman whose foot fits it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The eldest sister, advised by her mother, cuts off her toe, forces her foot
+    into the shoe, and is taken away by the King’s son as a bride.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pigeons on the hazel-tree by the grave warn that there is blood in the shoe
+    and that the true bride still waits; the King’s son sees the blood and returns
+    the eldest sister home.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The other sister, advised by her mother, cuts off part of her heel, forces
+    her foot into the shoe, and is also taken away by the King’s son until the pigeons
+    warn him and he sees blood in the shoe.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The father first denies having another daughter except a kitchen-wench left
+    by his late wife, and the step-mother objects that Cinderella is too dirty to
+    appear.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Cinderella washes her hands and face, bows before the King’s son, removes
+    her wooden shoe, and puts on the golden slipper, which fits.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The King’s son recognizes Cinderella as the beautiful maiden who danced with
+    him and calls her the true bride.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: As Cinderella and the King’s son pass the hazel-tree, the white doves affirm
+    that there is no blood in the shoe and that the true bride rides with him, then
+    sit on Cinderella’s shoulders.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: At the wedding journey to and from church, the pigeons peck out both eyes
+    of each false sister; the passage states that the sisters are punished with lifelong
+    blindness for wickedness and falsehood.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cinderella
+  description: The maiden who flees the King’s son, loses the golden slipper, is later
+    called from household work, fits the slipper, is recognized as the true bride,
+    and rides away with the King’s son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The King’s son
+  description: The royal suitor who retrieves the golden slipper, requires that his
+    wife fit it, tests the sisters and Cinderella, rejects the false brides, and takes
+    Cinderella as the true bride.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The eldest sister
+  description: One of the two sisters; she cuts off her toe to fit the slipper, is
+    exposed by blood in the shoe, and is later blinded by the pigeons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: The younger or other sister
+  description: One of the two sisters; she cuts off part of her heel to fit the slipper,
+    is exposed by blood in the shoe, and is later blinded by the pigeons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: The step-mother / mother of the two sisters
+  description: The woman who gives a knife to each sister and instructs them to cut
+    their feet so they can fit the shoe; she also says Cinderella is too dirty to
+    appear before the King’s son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: The father
+  description: The man to whom the King’s son brings the slipper; he says there is
+    no other daughter except the kitchen-wench left by his late wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:7
+  name_or_label: Two pigeons / white doves
+  description: Birds seated on the hazel-tree by the grave who warn about blood in
+    the false brides’ shoes, affirm Cinderella as the true bride, sit on her shoulders,
+    and later peck out the false sisters’ eyes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: true bride
+  assigned_to:
+  - fig:1
+  basis: Cinderella’s foot fits the golden slipper, the King’s son recognizes her,
+    and the doves affirm that the true bride rides with him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: royal suitor and tester
+  assigned_to:
+  - fig:2
+  basis: The King’s son sets the slipper-fitting condition for marriage and rejects
+    or accepts claimants based on the test and the birds’ warnings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: false bride
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Each sister mutilates her foot to fit the shoe, is taken away as a bride,
+    and is exposed as not the true bride.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: instigator of deception
+  assigned_to:
+  - fig:5
+  basis: The step-mother gives each sister a knife and tells her to cut part of her
+    foot to fit the shoe, and she resists Cinderella’s appearance before the King’s
+    son.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: household father
+  assigned_to:
+  - fig:6
+  basis: The father receives the King’s son and identifies Cinderella only as a kitchen-wench
+    left by his late wife.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:6
+  label: truth-revealing and punitive birds
+  assigned_to:
+  - fig:7
+  basis: The birds reveal the false brides by calling attention to blood in the shoe,
+    affirm Cinderella as the true bride, and punish the sisters with blindness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: golden slipper
+  literal_form: A small, dainty, all-golden slipper that remains stuck on the pitch-smeared
+    staircase and becomes the test object for identifying the bride.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: blood in the shoe
+  literal_form: Blood streaming or running from the false sisters’ feet inside the
+    shoe, contrasted with the absence of blood when Cinderella wears it.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: hazel-tree by the grave
+  literal_form: A hazel-tree at the grave where the pigeons sit and cry out when the
+    King’s son passes with each bride.
+  associated_figures:
+  - fig:7
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: pigeons / white doves
+  literal_form: Two birds who speak warnings and affirmations, perch on Cinderella’s
+    shoulders, and peck out the eyes of the false sisters.
+  associated_figures:
+  - fig:7
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: knife
+  literal_form: A knife given by the mother to each sister for cutting the toe or
+    heel so the foot can be forced into the shoe.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: heavy wooden shoe
+  literal_form: Cinderella’s heavy wooden shoe, which she removes before putting her
+    foot into the golden slipper.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The slipper is captured and made into a marriage test
+  summary: Cinderella escapes the King’s son, leaving her left golden slipper stuck
+    on the pitch-smeared staircase; the King’s son takes it to her father and declares
+    he will marry only the woman whom it fits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The eldest sister is exposed as a false bride
+  summary: The eldest sister cuts off her toe at her mother’s urging, forces the shoe
+    on, and is taken away by the King’s son, but the pigeons at the hazel-tree reveal
+    the blood in the shoe and he returns her.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The other sister is exposed as a false bride
+  summary: The other sister cuts off part of her heel at her mother’s urging, forces
+    the shoe on, and is taken away by the King’s son, but the pigeons again warn him
+    and he sees blood in the shoe.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cinderella is identified as the true bride
+  summary: After the King’s son insists that Cinderella be called, she washes, appears
+    before him, removes her wooden shoe, and fits the golden slipper; he recognizes
+    her and takes her away while the doves affirm her as the true bride.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: The false sisters are blinded at the wedding
+  summary: The two false sisters come to the wedding seeking favor; during the movement
+    to and from church, the pigeons peck out one eye and then the other of each sister,
+    leaving them blind as punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: recognition by golden slipper
+  taxonomy_refs: []
+  basis: The golden slipper left by Cinderella becomes the decisive test by which
+    the King’s son distinguishes the true bride from the false claimants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names footwear recognition.
+- id: motif:2
+  label: false bride exposed by bodily sign
+  taxonomy_refs: []
+  basis: Both sisters temporarily pass as brides by forcing their feet into the shoe,
+    but blood in the shoe exposes each as false.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The label is passage-derived rather than drawn from the supplied taxonomy
+    list.
+- id: motif:3
+  label: rival sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The two sisters perform parallel deceptive attempts to become the bride and
+    receive parallel punishment at the wedding.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The supplied taxonomy label is broad; the passage concerns rival sisters
+    rather than cooperative siblings.
+- id: motif:4
+  label: animal witnesses enact moral punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The birds reveal the sisters’ falsehood and later blind them; the passage
+    explicitly frames the blindness as punishment for wickedness and falsehood.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call the birds divine agents, so the taxonomy
+    reference is tentative.
+- id: motif:5
+  label: royal bride identified as rightful consort
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King’s son seeks his wife by a test, rejects false claimants, recognizes
+    Cinderella as the true bride, and proceeds to the wedding.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage centers on choosing the King’s son’s bride, not on explicit
+    succession or sovereignty.
+- id: motif:6
+  label: self-mutilation for promised rank
+  taxonomy_refs: []
+  basis: The mother tells each sister to cut part of her foot because, once queen,
+    she will no longer need to walk; each sister wounds herself in pursuit of marriage
+    to the King’s son.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The act is not presented as sacred sacrifice; no supplied taxonomy reference
+    directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3731-3739
+  quote_or_summary: Cinderella escapes the King’s son; her left golden slipper sticks
+    to the pitch-smeared staircase. The King’s son picks it up and tells the father
+    that he will marry only the woman whose foot fits it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: 3740-3757
+  quote_or_summary: The eldest sister cannot fit the shoe, cuts off her toe at her
+    mother’s instruction, and is taken away by the King’s son. Pigeons at the grave’s
+    hazel-tree warn of blood in the shoe and the true bride waiting; he sees the blood
+    and returns her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: 3758-3775
+  quote_or_summary: The other sister cuts off part of her heel at her mother’s instruction,
+    forces the shoe on, and is taken away. The pigeons warn again; the King’s son
+    sees blood staining her stocking and returns her as another false bride.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: 3775-3788
+  quote_or_summary: The father mentions a kitchen-wench left by his late wife, and
+    the mother says she is too dirty to appear. The King’s son insists; Cinderella
+    washes, bows, removes her wooden shoe, fits the golden slipper, and is recognized
+    as the true bride.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: 3788-3799
+  quote_or_summary: The King’s son takes Cinderella away. At the hazel-tree the two
+    white doves say there is no blood in the shoe and that the true bride rides with
+    him; then they fly down and sit on Cinderella’s shoulders.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: 3801-3810
+  quote_or_summary: At the wedding, the two false sisters seek favor. On the way to
+    and from church, the pigeons peck out both eyes of each sister, and the passage
+    states that they are punished with lifelong blindness for wickedness and falsehood.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are partly passage-derived because the supplied taxonomy does not include several
+    precise tale-type motifs such as footwear recognition or false-bride exposure.
+    No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to the supplied lists; labels without taxonomy references are descriptive labels derived from the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l3731-l3814
+  passage_sha256=c10b4de30a264cc45509d759c311fe47171f8cadd0bec868f242e219ea19790f
+

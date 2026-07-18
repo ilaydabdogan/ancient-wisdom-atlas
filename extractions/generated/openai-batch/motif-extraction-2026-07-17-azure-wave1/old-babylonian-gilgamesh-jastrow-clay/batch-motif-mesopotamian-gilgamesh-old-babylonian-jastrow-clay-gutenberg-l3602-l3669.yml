@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l3602-l3669
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: TRANSLATION. / COMMENTARY ON THE PENNSYLVANIA TABLET. / YALE TABLET. / TRANSLITERATION.;
+    lines 3602-3669
+  start: '3602'
+  end: '3669'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Fragmentary Old Babylonian transliteration naming Gilgamesh, Enkidu, Huwawa/Humbaba,
+    Shamash, Lugalbanda, Uruk, a journey or road, a forest entrance, a river of Huwawa,
+    a well at a stopping-place, and water offered to Shamash. Elders counsel Gilgamesh
+    for the journey, Enkidu is directed to go before him, divine assistance is invoked,
+    and Enkidu speaks to Gilgamesh in damaged lines.
+  language: Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is highly fragmentary, with damaged words and a note that three
+    lines are missing.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:2
+  text: Gilgamesh is addressed in connection with a road or journey and a return to
+    Uruk is mentioned in a damaged line.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A group labeled as elders blesses or counsels Gilgamesh concerning the journey.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gilgamesh is warned not to rely on his own strength and is told to protect
+    himself.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Enkidu is directed to go before Gilgamesh on the road.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The route is associated with Huwawa/Humbaba and with a forest entrance in
+    damaged lines.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Shamash is invoked to bring about Gilgamesh's victory or success and to disclose
+    or guide the way.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Lugalbanda is invoked to stand by Gilgamesh in his victory or success.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage mentions a river of Huwawa and an instruction to wash the feet
+    there.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage instructs that a well be dug at a stopping-place or resting-place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Pure or clear water is to be poured or offered to Shamash.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: Enkidu opens his mouth and speaks to Gilgamesh; the surrounding lines are
+    damaged but include language of not fearing and trusting him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Named as dGis; addressed by elders and by Enkidu in connection with
+    the journey.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Enkidu
+  description: Named as dEn-ki-du; directed to go before Gilgamesh and later speaks
+    to Gilgamesh.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Huwawa / Humbaba
+  description: Named as dHu-wa-wa; associated with the route, the forest entrance,
+    and a river.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Shamash
+  description: Named as dSamas; invoked for success and guidance and as recipient
+    of a water offering.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Lugalbanda
+  description: Named as dLugal-ban-da; invoked to stand by Gilgamesh and to remember
+    or be mindful.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: elders
+  description: Collective group labeled si-bu-tum; they bless or counsel Gilgamesh.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of journey counsel
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh is addressed by the elders about the road, strength, self-protection,
+    and Enkidu going before him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: companion-guide on the road
+  assigned_to:
+  - fig:2
+  basis: The passage says Enkidu should go before Gilgamesh and later has Enkidu speak
+    to him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: named focus of the dangerous route
+  assigned_to:
+  - fig:3
+  basis: Huwawa/Humbaba is linked to the route, forest entrance, and river encountered
+    or mentioned in the instructions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: divine helper invoked
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Shamash and Lugalbanda are invoked in lines asking for success, guidance,
+    support, remembrance, or ritual attention.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: counseling elders
+  assigned_to:
+  - fig:6
+  basis: The elders are said to bless or counsel Gilgamesh regarding the journey.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: road or journey
+  literal_form: harrana, the road/journey repeatedly named in the counsel
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: forest entrance
+  literal_form: kisti ni-ri-bi-tim, a forest entrance mentioned with Huwawa/Humbaba
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: river of Huwawa
+  literal_form: na-ri s dHu-wa-wa, the river of Huwawa
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: well at the stopping-place
+  literal_form: a well or pit dug at the resting-place/camp
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: pure water offering
+  literal_form: pure/clear water poured or set down for Shamash
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Uruk
+  literal_form: Uruk named in a damaged line about return
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Elders counsel Gilgamesh before the journey
+  summary: The elders address Gilgamesh about the journey, warn him not to rely only
+    on his strength, tell him to protect himself, and direct that Enkidu go before
+    him on the road associated with Huwawa/Humbaba and the forest entrance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Invocations for divine aid and ritual directions
+  summary: Shamash is invoked to aid the undertaking and guide the path; Lugalbanda
+    is invoked to stand by Gilgamesh. Instructions mention the river of Huwawa, washing
+    the feet, digging a well at a stopping-place, and offering pure water to Shamash.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Enkidu answers Gilgamesh in damaged lines
+  summary: Enkidu opens his mouth and speaks to Gilgamesh. The damaged lines include
+    an exhortation not to fear and to trust him, with continued reference to the road
+    of Huwawa/Humbaba.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Lower-edge fragment of continued travel speech
+  summary: The lower-edge fragment contains damaged wording about going, going with
+    the speaker, Gilgamesh going before, a divine or personal guide, and showing the
+    road, but the sequence is too broken for a full scene reconstruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: counseled departure for a dangerous journey
+  taxonomy_refs:
+  - departure
+  basis: The elders counsel Gilgamesh about the journey, warn him not to rely only
+    on strength, instruct self-protection, and tell him to let Enkidu go before him
+    on the route connected with Huwawa/Humbaba.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The lines are fragmentary, but the journey-counsel pattern is explicit
+    enough for a departure motif candidate.
+- id: motif:2
+  label: companion-guide precedes the hero on the perilous road
+  taxonomy_refs:
+  - mystical_quest
+  basis: Enkidu is directed to go before Gilgamesh, and the road is associated with
+    Huwawa/Humbaba and the forest entrance.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage supports Enkidu's guiding or preceding function, but the broader
+    quest framing is inferred from the journey context and should be reviewed.
+- id: motif:3
+  label: divine aid invoked for the journey
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Shamash and Lugalbanda are invoked for success, guidance, support, and remembrance;
+    pure water is to be offered to Shamash.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The link to sacred exchange rests on the water offering to Shamash; the
+    damaged wording limits certainty about the exact ritual function.
+- id: motif:4
+  label: elders' practical wisdom before heroic action
+  taxonomy_refs:
+  - wisdom
+  basis: 'The elders give practical advice: do not rely on strength, protect yourself,
+    and let Enkidu go before on the road.'
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wisdom motif is limited to counsel in this passage and should not
+    be expanded beyond the preserved instructions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3602-3617
+  quote_or_summary: Fragmentary opening lines name Gilgamesh and include damaged references
+    to a road/journey, food, joy of heart, seats, a bow/quiver, and an axe or weapon;
+    wording is too damaged for secure sequence reconstruction.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary only.
+- id: ev:2
+  type: summary
+  locator: lines 3618-3629
+  quote_or_summary: Elders bless or counsel Gilgamesh; the passage mentions return
+    to Uruk, counsel for the journey, not trusting his strength, protecting himself,
+    Enkidu going before him, and the route/forest entrance associated with Huwawa/Humbaba.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary with names from transliteration.
+- id: ev:3
+  type: summary
+  locator: lines 3630-3638
+  quote_or_summary: Lines invoke Shamash to make the victory or success happen and
+    to guide or disclose the way; the road and track are mentioned, and Lugalbanda
+    is asked to stand by Gilgamesh in success.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary only.
+- id: ev:4
+  type: summary
+  locator: lines 3639-3644
+  quote_or_summary: The passage mentions the river of Huwawa, washing the feet, digging
+    a well at the stopping-place, pure water, pouring or placing water for Shamash,
+    and Lugalbanda remembering or being mindful.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary only.
+- id: ev:5
+  type: summary
+  locator: lines 3645-3650
+  quote_or_summary: Enkidu opens his mouth and speaks to Gilgamesh; damaged wording
+    includes making the journey, not fearing, trusting him, and the road of Huwawa/Humbaba.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary only.
+- id: ev:6
+  type: summary
+  locator: lines 3651-3669
+  quote_or_summary: After a note that three lines are missing, the lower-edge fragment
+    has broken phrases about going with the speaker, joy of heart, hearing this, going
+    alone or setting out on the road, Gilgamesh going before, a god or guide, showing
+    the road, and the names Gilgamesh and Enkidu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies on recognizable names and recurrent phrases in a damaged
+    transliteration rather than a continuous translation. Motif candidates are limited
+    to what the fragment supports. No passage-internal comparative claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were generated because the passage itself does not explicitly compare this episode with another corpus or motif tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l3602-l3669
+  passage_sha256=8be4496e05efa9cae164f736aa7c388157c1a01b7bdccb09fc7ef7934460c4b8
+

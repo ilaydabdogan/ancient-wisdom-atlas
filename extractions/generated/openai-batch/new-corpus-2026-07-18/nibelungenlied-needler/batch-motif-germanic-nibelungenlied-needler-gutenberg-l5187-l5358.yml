@@ -1,0 +1,551 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l5187-l5358
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: SIXTH ADVENTURE / SEVENTH ADVENTURE / EIGHTH ADVENTURE / NINTH ADVENTURE;
+    lines 5187-5358
+  start: '5187'
+  end: '5358'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A knight brings joyful news that the king and his bride are coming and
+    conveys the king’s request that the noble guests be received and met at the Rhine
+    near Worms. Kriemhild is consoled, thanks and rewards the messenger, and the court
+    prepares an elaborate reception with seating, invitations, rich garments, horse
+    trappings, noble maidens, and armed warriors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The message says that the king and his bride will offer loyal service and
+    will soon arrive.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lady dries her eyes after weeping, thanks the knight who brought the glad
+    tidings, and has her sorrow lessened.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kriemhild says she would gladly repay the message-bringer with gold, and she
+    orders her chamberlain to bring message-money.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kriemhild gives the messenger twenty-four armlets with precious stones, but
+    he distributes them to her attendants rather than keeping them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The messenger conveys the king’s request that the noble guests be well received
+    and that the women ride forth to meet him before Worms on the strand.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Kriemhild declares herself ready to serve the king faithfully and kindly,
+    and her color deepens from joy.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Court figures prepare sitting-places before Worms on the strand, summon kinsmen,
+    decorate the palace and hall, and set seats and tables for guests.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Watchers report that Brunhild’s followers are approaching, causing great stir
+    among the Burgundian people.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Kriemhild instructs her maidens to seek the best attire from the chests so
+    that praise and honor may come from the noble guests.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Richly furnished saddles, gold-shining bridles with precious stones, mounting
+    stools, carpets, and silk horse-bands are prepared for the ladies’ ride.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Eighty-six ladies and fifty-four noble Burgundian maidens assemble in shining
+    garments, hair-bands, and costly attire.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The women’s dress includes sable, ermine, rings, girdles, ferrandine silk
+    from Araby, and clasps; warriors accompany them with shields and ashen shafts.
+  category: object
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Kriemhild
+  description: The fair maiden who receives the message, thanks and rewards the messenger,
+    and directs the maidens’ preparation for reception.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Siegfried / the knight-messenger
+  description: The knight and hero who brings glad tidings, conveys the king’s request,
+    and gives away the armlets he receives.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: The king / monarch
+  description: The king whose arrival is expected and whose command asks that noble
+    guests be received and met before Worms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: The king’s bride
+  description: The bride expected to arrive with the king and to offer loyal service.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Brunhild’s followers
+  description: The approaching followers whose arrival is reported by watchers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Kriemhild’s attendants and maidens
+  description: Attendants and maidens in Kriemhild’s company who receive distributed
+    armlets and prepare fine attire for the reception.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:11
+  - ev:12
+- id: fig:7
+  name_or_label: Court preparers and kinsmen
+  description: Sindold, Hunold, Rumold, Ortwein, Gere, and the monarchs’ kinsmen,
+    who prepare seating, summon relatives, and arrange the reception.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Warriors accompanying the maidens
+  description: High-hearted warriors who accompany the maidens and carry shields and
+    ashen shafts.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: messenger of glad tidings
+  assigned_to:
+  - fig:2
+  basis: He brings news of the imminent arrival and is called the messenger of glad
+    tidings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: reward-giver
+  assigned_to:
+  - fig:1
+  basis: She orders message-money and gives twenty-four precious armlets to the messenger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: royal commander
+  assigned_to:
+  - fig:3
+  basis: The messenger states the king’s request and command concerning reception
+    of the guests and the meeting at Worms.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: distributor of gifts
+  assigned_to:
+  - fig:2
+  basis: He does not keep the armlets and distributes them to attendants in the chamber.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: reception party
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: Kriemhild and her maidens prepare attire and company for the reception of
+    the incoming guests.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:6
+  label: incoming bride
+  assigned_to:
+  - fig:4
+  basis: The message refers to the king’s bride arriving with him and offering loyal
+    service.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: incoming followers
+  assigned_to:
+  - fig:5
+  basis: Watchers see Brunhild’s followers riding toward Burgundy.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: ceremonial preparers
+  assigned_to:
+  - fig:7
+  basis: They raise sitting-places, summon kinsmen, decorate the palace, and prepare
+    the hall for guests.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: armed escort
+  assigned_to:
+  - fig:8
+  basis: Warriors accompany the maidens while carrying shields and ashen shafts.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: message reward
+  literal_form: twenty-four armlets with precious stones
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: tears dried with white garment
+  literal_form: fold of snow-white garment used to dry eyes after weeping
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Rhine strand at Worms
+  literal_form: the strand before Worms by the Rhine where the reception is to occur
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: best attire from chests
+  literal_form: garments selected from chests for the reception
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: golden horse equipment
+  literal_form: rich saddles, gold-shining bridles, precious stones, mounting stools,
+    carpets, and silk breast-bands
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: costly court dress
+  literal_form: sable, ermine, rings, girdles, ferrandine silk from Araby, and clasps
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: sym:7
+  label: armed escort equipment
+  literal_form: shields and ashen shafts carried by warriors
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Glad tidings and consolation
+  summary: The messenger announces the imminent arrival of the king and his bride,
+    and Kriemhild’s grief is relieved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rewarding the messenger
+  summary: Kriemhild offers payment for the message, gives the messenger precious
+    armlets, and he distributes them to her attendants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Royal command for reception
+  summary: The messenger conveys the king’s command that noble guests be welcomed
+    and met at the Rhine before Worms, and Kriemhild agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Court preparations at Worms
+  summary: Court officials and kinsmen prepare seating, invitations, palace decoration,
+    hall tables, and clothing for the expected guests.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Approach of Brunhild’s followers
+  summary: Watchers report that Brunhild’s followers are riding toward Burgundy, producing
+    commotion among the people.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Adorned reception company
+  summary: Kriemhild’s maidens select splendid attire, horses are equipped richly,
+    noble ladies assemble in costly garments, and warriors accompany them armed.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: messenger rewarded for joyful news
+  taxonomy_refs: []
+  basis: Kriemhild receives consoling news, offers payment, gives twenty-four jeweled
+    armlets, and the messenger distributes them to attendants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a courtly narrative pattern in the passage; no broader historical
+    or religious comparison is asserted.
+- id: motif:2
+  label: ceremonial reception of royal arrivals
+  taxonomy_refs: []
+  basis: The king commands that noble guests be welcomed and met at Worms; the court
+    prepares seating, hall, clothing, attendants, and horse equipment for the arrival.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage emphasizes social ceremony rather than a sacred or explicitly
+    mythic rite.
+- id: motif:3
+  label: lavish display of rank through garments and gold
+  taxonomy_refs: []
+  basis: The reception party uses best attire, gold and jeweled horse gear, sable,
+    ermine, rings, girdles, and imported silk to create honor before guests.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: No symbolic meaning beyond visible wealth, honor, and rank is stated in
+    the passage.
+- id: motif:4
+  label: armed escort for noble women in procession
+  taxonomy_refs: []
+  basis: After the women are prepared for the reception, high-hearted warriors accompany
+    them with shields and ashen shafts.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The passage gives the armed escort detail briefly and does not describe
+    a completed procession within the supplied range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: supplied lines 5187-5194; before stanza 555
+  quote_or_summary: The messenger says the king and his bride offer service in love
+    and loyalty and will soon be there; the hearers had not heard dearer news for
+    many seasons.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: stanza 555 within supplied lines 5187-5358
+  quote_or_summary: The lady dries her eyes with a snow-white garment, thanks the
+    knight who brought glad tidings, and has much sorrow removed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: stanzas 556-557 within supplied lines 5187-5358
+  quote_or_summary: Kriemhild invites the knight to sit, says she would rejoice to
+    repay the messenger with gold, and orders her chamberlain to bring message-money.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: stanza 558 within supplied lines 5187-5358
+  quote_or_summary: She gives him twenty-four armlets with precious stones; he chooses
+    not to keep them and gives them to attendants in the chamber.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: stanzas 559-560 within supplied lines 5187-5358
+  quote_or_summary: The warrior says the king asks that the noble guests be well received
+    and that the women ride to meet him before Worms on the strand.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: stanza 561 within supplied lines 5187-5358
+  quote_or_summary: Kriemhild answers that she is ready to serve him faithfully and
+    kindly; her color deepens from joy.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: stanzas 562-566 within supplied lines 5187-5358
+  quote_or_summary: 'In Burgundy they follow Siegfried’s advice: Sindold, Hunold,
+    Rumold, Ortwein, Gere, and the monarchs’ kinsmen prepare seats, summon relatives,
+    decorate the palace and hall, set tables, and bring out rare garments.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: stanza 567 within supplied lines 5187-5358
+  quote_or_summary: Watchers report Brunhild’s followers riding toward them, and a
+    great stir rises among the Burgundian people.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: stanza 568 within supplied lines 5187-5358
+  quote_or_summary: Kriemhild tells the maidens who will accompany her at the reception
+    to seek the best attire from the chests for praise and honor before noble guests.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: stanzas 569-571 within supplied lines 5187-5358
+  quote_or_summary: Knights have rich red-gold saddles, gold-shining bridles with
+    precious stones, mounting stools, carpets, and silk breast-bands prepared for
+    the ladies’ horses.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: stanzas 572-574 within supplied lines 5187-5358
+  quote_or_summary: Eighty-six ladies and fifty-four noble Burgundian maidens come
+    in shining garments, hair-bands, and costly attire fit for their beauty before
+    the strangers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: stanzas 575-578 within supplied lines 5187-5358
+  quote_or_summary: Many wear sable, ermine, rings, costly girdles, ferrandine silk
+    from Araby, and clasps; high-hearted warriors accompany the maidens with shields
+    and ashen shafts.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    are descriptive courtly-narrative patterns without broader comparative claims.
+    No comparison claims were made because the passage itself does not explicitly
+    support cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were avoided except for the literal Rhine/water setting.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l5187-l5358
+  passage_sha256=4294e6dd3f018cf45dc53da8b4cf161f4c12f4731c54db8c44f9e21c3f76d4ef
+

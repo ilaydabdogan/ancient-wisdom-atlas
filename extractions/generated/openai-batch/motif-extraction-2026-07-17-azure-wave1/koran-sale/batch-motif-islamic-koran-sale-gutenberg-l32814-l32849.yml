@@ -1,0 +1,580 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l32814-l32849
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XLI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XLII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 32814-32849
+  start: '32814'
+  end: '32849'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes condemned people beholding punishment and hell fire,
+    lacking protectors or refuge on the day of resurrection, and desiring return.
+    It states that the preacher's duty is only to preach, describes human responses
+    to mercy and evil, affirms God's sovereignty over heaven, earth, creation, offspring,
+    and childlessness, and describes modes of divine speech through revelation, veil,
+    or messenger. The revealed book is called a light that directs servants to the
+    right way, and all things return to God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Those who behold the prepared punishment ask whether there is any way to return
+    back into the world.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The condemned are exposed to hell fire, dejected by ignominy, and look at
+    the fire sideways and by stealth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: True believers say that the losers are those who have lost their own souls
+    and families on the day of resurrection, and that the ungodly continue in eternal
+    torment.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The condemned have no protectors to defend them against God, and those whom
+    God causes to err find no way to the truth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The audience is told to hearken to the Lord before a day comes that God will
+    not keep back; on that day there is no refuge and no ability to deny sins.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The preacher is not sent as a guardian over those who turn aside; his stated
+    duty is preaching only.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When God causes man to taste mercy, man rejoices; when evil befalls people
+    because of what their hands formerly committed, man becomes ungrateful.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: God is said to possess the kingdom of heaven and earth and to create what
+    he pleases.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: God gives females, males, both males and females, or childlessness to whom
+    he pleases.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: God's speech to man is limited to private revelation, speech from behind a
+    veil, or the sending of a messenger to reveal by permission.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A revelation is said to have been revealed by God's command; the recipient
+    previously did not understand what the book or faith was.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The revealed book is ordained as a light by which God directs chosen servants
+    into the right way, the way of God.
+  category: object
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:13
+  text: The passage closes by saying that whatever is in heaven and earth belongs
+    to God and that all things return to God.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: The divine sovereign who prepares or governs punishment, owns heaven
+    and earth, creates what he pleases, gives offspring or childlessness, speaks by
+    revelation, veil, or messenger, reveals the book as light, and is the one to whom
+    all things return.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: condemned ungodly
+  description: Those who behold punishment, desire return to the world, are exposed
+    to hell fire, lack protectors, and continue in eternal torment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: true believers
+  description: Speakers who identify the condemned as losers on the day of resurrection.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: preacher / recipient of revelation
+  description: The addressed figure whose duty is preaching only and to whom revelation
+    has been revealed by God's command.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: man / humanity
+  description: Human beings described as rejoicing when tasting mercy, becoming ungrateful
+    when evil befalls them, and as possible recipients of God's speech only in specified
+    modes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: messenger
+  description: A messenger whom God may send to reveal, by God's permission, what
+    God pleases.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: chosen servants
+  description: Servants whom God directs by the revealed light into the right way.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine sovereign
+  assigned_to:
+  - fig:1
+  basis: God possesses the kingdom of heaven and earth and whatever is in heaven and
+    earth.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:2
+  label: divine revealer
+  assigned_to:
+  - fig:1
+  basis: God speaks through revelation, from behind a veil, or through a messenger,
+    and reveals the book as light.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: divine guide and judge
+  assigned_to:
+  - fig:1
+  basis: The passage describes no refuge from God on the appointed day and also describes
+    God directing servants into the right way.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:4
+  label: condemned sinners
+  assigned_to:
+  - fig:2
+  basis: They behold punishment, are exposed to hell fire, have no protectors, and
+    are described as ungodly in eternal torment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: eschatological witnesses
+  assigned_to:
+  - fig:3
+  basis: The true believers speak about the losers on the day of resurrection.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: preacher
+  assigned_to:
+  - fig:4
+  basis: His stated duty is preaching only, not guardianship over those who turn aside.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: recipient of revelation
+  assigned_to:
+  - fig:4
+  basis: A revelation is said to have been revealed to him by God's command.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: human moral respondent
+  assigned_to:
+  - fig:5
+  basis: Man rejoices at mercy and becomes ungrateful when evil befalls people because
+    of prior deeds.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: mediator of revelation
+  assigned_to:
+  - fig:6
+  basis: God may send a messenger to reveal by permission what God pleases.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: guided servants
+  assigned_to:
+  - fig:7
+  basis: The revealed light directs such servants as God pleases into the right way.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hell fire
+  literal_form: fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: day of resurrection
+  literal_form: appointed day / day of resurrection
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: absence of refuge
+  literal_form: no place of refuge; no protectors
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: veil before divine speech
+  literal_form: behind a veil
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: revealed light
+  literal_form: light
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: right way
+  literal_form: right way / way of God
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: kingdom of heaven and earth
+  literal_form: kingdom of heaven and earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Condemned behold punishment
+  summary: The condemned see prepared punishment, ask whether return to the world
+    is possible, are exposed to hell fire, and are described by true believers as
+    losers on the day of resurrection.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Warning before the irreversible day
+  summary: The audience is urged to heed the Lord before the day that God will not
+    delay, when there is no refuge, no denial of sins, and no protectors against God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Preaching and human response
+  summary: The preacher is told that he is not a guardian over those who turn aside.
+    Human beings rejoice at mercy but become ungrateful when evil befalls them because
+    of prior deeds.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Divine sovereignty over creation and offspring
+  summary: God's possession of heaven and earth is affirmed, along with his power
+    to create and to grant females, males, both, or childlessness.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Modes of divine revelation
+  summary: God's speech to man is described as occurring by private revelation, from
+    behind a veil, or through a messenger sent to reveal by permission.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Revealed light and return to God
+  summary: The revelation is described as a light that directs chosen servants into
+    the right way, the way of God, to whom all things return.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: eschatological divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage depicts prepared punishment, hell fire, no protectors, no refuge,
+    inability to deny sins, and an appointed day controlled by God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is doctrinal and admonitory rather than a narrative trial
+    scene.
+- id: motif:2
+  label: resurrection and afterlife consequence
+  taxonomy_refs:
+  - resurrection
+  basis: The day of resurrection is named, and the ungodly are described as undergoing
+    eternal torment after losing souls and families.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the mechanics of resurrection; it invokes
+    the day and its consequences.
+- id: motif:3
+  label: impossible return from punishment
+  taxonomy_refs:
+  - return
+  basis: Those beholding punishment ask whether there is a way to return back into
+    the world, while the passage also states that all things return to God.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy term 'return' is broader than the passage's eschatological
+    usage; the return to the world is posed as a desperate question, not granted.
+- id: motif:4
+  label: revealed wisdom as guiding light
+  taxonomy_refs:
+  - wisdom
+  basis: God's modes of speaking are described, and the revelation/book is ordained
+    as a light that directs chosen servants into the right way.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage emphasizes revelation and guidance; its fit with a broad 'wisdom'
+    motif family should be reviewed.
+- id: motif:5
+  label: divine sovereignty over creation and offspring
+  taxonomy_refs: []
+  basis: God owns heaven and earth, creates what he pleases, and grants females, males,
+    both, or childlessness.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No closer supplied taxonomy motif family is assigned.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the supplied divine_judgment motif family at the level
+    of motif content: an irreversible appointed day, punishment, hell fire, no refuge,
+    and divine authority over the condemned.'
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomic alignment only; it does not imply historical contact
+    or dependence on any other tradition.
+- id: claim:2
+  claim: The passage fits the supplied resurrection motif family at the level of eschatological
+    setting because it explicitly names the day of resurrection and describes afterlife
+    loss and torment.
+  claim_level: same_motif
+  target: resurrection motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage names resurrection but does not describe a resurrection
+    episode in narrative detail.
+- id: claim:3
+  claim: The revealed book as light that guides into the right way has the same function
+    as a revealed-wisdom or sacred-guidance pattern.
+  claim_level: same_function
+  target: wisdom motif family / revealed guidance pattern
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses revelation and light imagery; the broader wisdom classification
+    is interpretive and should be reviewed.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32814-32818
+  quote_or_summary: Those seeing the prepared punishment ask about return to the world;
+    they are exposed to hell fire, dejected, and look at the fire sideways and by
+    stealth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 32818-32820
+  quote_or_summary: True believers say the losers are those who lost their souls and
+    families on the day of resurrection, and the ungodly continue in eternal torment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 32821-32825
+  quote_or_summary: The condemned have no protectors against God; the audience is
+    told to heed the Lord before the day comes when there is no refuge and no denial
+    of sins.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 32826-32831
+  quote_or_summary: If the hearers turn aside, the preacher is not their guardian
+    and his duty is only preaching. Man rejoices at mercy but becomes ungrateful when
+    evil befalls because of former deeds.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 32832-32835
+  quote_or_summary: God owns the kingdom of heaven and earth, creates what he pleases,
+    and grants females, males, both males and females, or childlessness.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 32836-32839
+  quote_or_summary: God speaks to man only by private revelation, from behind a veil,
+    or by sending a messenger to reveal by permission what God pleases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 32840-32844
+  quote_or_summary: A revelation has been revealed by God's command; the recipient
+    previously did not understand the book or faith, and the revelation is ordained
+    as a light to direct chosen servants.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 32844-32849
+  quote_or_summary: The revelation directs into the right way, the way of God, to
+    whom belongs whatever is in heaven and earth; all things return to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif alignments
+    use only the provided taxonomy refs and remain draft classifications for human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l32814-l32849
+  passage_sha256=d8b322920ce35c48bc00401281922dd9e03f2945a5b60a28495a1c7f8c254315
+

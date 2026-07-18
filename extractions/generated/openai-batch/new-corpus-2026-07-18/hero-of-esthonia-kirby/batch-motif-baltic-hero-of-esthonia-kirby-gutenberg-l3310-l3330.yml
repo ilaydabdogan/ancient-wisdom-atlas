@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l3310-l3330
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: CANTO XIII / THE KALEVIDE'S FIRST JOURNEY TO HADES / CANTO XIV / THE PALACE
+    OF SARVIK; lines 3310-3330
+  start: '3310'
+  end: '3330'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Notwithstanding his load, the Kalevide ran on as if his feet were burning
+  summary: The sisters lament the destruction of a unique hat and fear that hope is
+    lost. The Kalevide reassures them, loads planks with booty and the sisters, while
+    they also take clothing and the youngest keeps a wishing-rod. He runs swiftly
+    under the load as the sisters laugh and sing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The sisters cry and reproach the Kalevide for destroying a hat said to have
+    no equal on earth or in Põrgu.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sisters say that all hope is now at an end.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Kalevide comforts the sisters and tells them that this is not a time for
+    lamentation.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Kalevide takes planks on his back, piles his booty on them, and invites
+    the sisters to sit on top.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Before departing, the sisters take rich clothing from silk and satin chambers,
+    and the youngest sister secures a wishing-rod in case it is needed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Despite his load, the Kalevide runs very quickly while the sisters jest, laugh,
+    and sing.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Kalevide
+  description: The hero addressed by the sisters; he comforts them, carries planks,
+    booty, and the sisters, and runs swiftly under the load.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: The sisters
+  description: A group of sisters who lament the destroyed hat, prepare clothing,
+    ride atop the hero's load, and later jest, laugh, and sing.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The youngest sister
+  description: The youngest among the sisters, specifically noted as securing the
+    wishing-rod in case of need.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: comforting speaker
+  assigned_to:
+  - fig:1
+  basis: He responds to the sisters' lament by comforting them and urging them not
+    to lament.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: burden-bearing hero
+  assigned_to:
+  - fig:1
+  basis: He carries planks, booty, and the sisters, then runs swiftly despite the
+    load.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: lamenting companions
+  assigned_to:
+  - fig:2
+  basis: They cry, reproach the hero, and say that hope is at an end.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: transported companions
+  assigned_to:
+  - fig:2
+  basis: They are invited to take their place on top of the planks and booty carried
+    by the Kalevide.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: keeper of the wishing-rod
+  assigned_to:
+  - fig:3
+  basis: The youngest sister secures the wishing-rod in case it is needed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: destroyed unequal hat
+  literal_form: a hat said to have no equal on earth or in Põrgu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Põrgu
+  literal_form: Põrgu, named as a place contrasted with earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: planks used for transport
+  literal_form: planks carried on the Kalevide's back
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: booty
+  literal_form: booty piled on the planks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: rich clothing
+  literal_form: rich clothing taken from the silk and satin chambers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: wishing-rod
+  literal_form: a wishing-rod secured by the youngest sister in case of need
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lament over the destroyed hat
+  summary: The sisters cry, reproach the Kalevide for destroying an unmatched hat,
+    and say that hope is lost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Consolation before departure
+  summary: The Kalevide comforts the sisters and speaks of an imminent return to the
+    pleasures of life after long deprivation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Loading the planks and provisions
+  summary: The Kalevide loads planks with booty and the sisters; the sisters also
+    take rich clothing, and the youngest secures the wishing-rod.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Swift departure under load
+  summary: The Kalevide runs rapidly despite the load while the sisters laugh, jest,
+    and sing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: departure from an underworld or otherworld place with companions and goods
+  taxonomy_refs:
+  - hero_descent
+  - return
+  basis: The passage names Põrgu, shows the sisters preparing for departure, and depicts
+    the Kalevide carrying them and booty away.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt gives only the escape/departure segment; the full descent
+    and return arc are inferred from the local passage and locator, not fully narrated
+    within these lines.
+- id: motif:2
+  label: magical implement kept for future need
+  taxonomy_refs: []
+  basis: The youngest sister secures a wishing-rod explicitly in case it is needed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not show the wishing-rod being used, only retained.
+- id: motif:3
+  label: heroic burden-bearing transport
+  taxonomy_refs: []
+  basis: The Kalevide carries planks, booty, and the sisters, yet runs swiftly despite
+    the load.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference is assigned.
+- id: motif:4
+  label: loss of unique object causing despair
+  taxonomy_refs: []
+  basis: The sisters mourn the destruction of a hat said to be unequaled on earth
+    or in Põrgu and declare hope lost.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The object's prior function is not described in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously read as performing the return or escape phase
+    of a hero-descent pattern, since it names Põrgu and shows the hero departing with
+    companions and goods.
+  claim_level: same_function
+  target: hero_descent / return motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage alone does not narrate the initial descent or final arrival
+    outside Põrgu; the comparison is functional rather than evidence of historical
+    contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3310-3314
+  quote_or_summary: The sisters cry, reproach the hero for destroying a hat unequaled
+    on earth or in Põrgu, and say that all hope is ended.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 3314-3320
+  quote_or_summary: The hero comforts them, says it is not a time for lamentation,
+    and speaks of summer and restored pleasures of life after long deprivation.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 3320-3323
+  quote_or_summary: The hero takes planks on his back, piles his booty on them, and
+    invites the sisters to sit on top again.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 3323-3327
+  quote_or_summary: Before departure, the sisters take rich clothing from the silk
+    and satin chambers, while the youngest secures the wishing-rod in case of need.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: 3328-3330
+  quote_or_summary: "“Notwithstanding his load, the Kalevide ran on as if his feet
+    were burning, while the sisters jested and laughed and sang.”"
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the named figures and objects. Motif assignments
+    are cautious because the excerpt preserves only a short departure sequence within
+    a larger underworld episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact claim is made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l3310-l3330
+  passage_sha256=ca4ae920f2fce66ccab82d70379ceed0a2e67126b93f7cc8a8c51847419d5323
+

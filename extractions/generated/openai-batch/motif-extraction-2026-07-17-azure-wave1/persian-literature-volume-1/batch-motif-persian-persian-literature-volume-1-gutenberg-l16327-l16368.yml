@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16327-l16368
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: LXXVII / LXXXV / LXXXVI / LXXXVII; lines 16327-16368
+  start: '16327'
+  end: '16368'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Three short lyric passages praise love, depict the speaker as a beggar
+    enamored of a cypress-like beloved, request wine and secrecy, and describe the
+    beloved’s beauty at creation igniting the world with love, affecting Adam’s mould,
+    confounding Reason, repelling an enemy seeking the beloved’s secret, and ending
+    with Hafiz addressing a love-scroll to the beloved after canceling what his heart
+    loved best.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says love’s echo is the sweetest sound beneath the circling Round.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker identifies himself as a beggar enamored of one described as of
+    cypress mould.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The beloved’s belt is associated with a hand that remains only with silver
+    and gold.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks for wine and says Hafiz’s hand should first embrace the cup,
+    on the condition that no word go beyond the place.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At creation’s morn, the addressed beloved’s beauty beams and the world is
+    set on fire by newly born love.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The beloved’s cheek shines while angels’ hearts are cold.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Fire flashes and turns to Adam’s mould.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The lamp of Reason burns from the flame, but jealous lightning overturns the
+    world.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: An enemy seeks the beloved’s secret, and an unseen hand repels the profane
+    beast.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The speaker says Fate’s die may gladden others, but his own heart is saddened
+    by its lot.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The beloved’s chin is described as a deep pit that allures the lofty mind,
+    and the hand would grasp the beloved’s entwined locks.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Hafiz addresses his love-scroll to the beloved after canceling what his heart
+    loved best.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: speaker / Hafiz
+  description: The lyric speaker names himself as a beggar and later as Hafiz, asking
+    for wine and addressing a love-scroll to the beloved.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+- id: fig:2
+  name_or_label: addressed beloved / Thyself
+  description: The addressed figure is described as cypress-like, beautiful at creation’s
+    morn, possessing a shining cheek, a secret, a chin’s deep pit, and entwined locks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: angels
+  description: Angels are said to have cold hearts while the beloved’s cheek shines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Adam’s mould
+  description: Adam is present as mould to which the flashed fire turns.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Reason
+  description: Reason is figured through a lamp that burns from the flame.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: enemy / beast profane
+  description: The enemy seeks to gain the beloved’s secret and is called a profane
+    beast.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: unseen hand
+  description: An unseen hand repels the profane beast.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: enamored beggar-poet
+  assigned_to:
+  - fig:1
+  basis: The speaker calls himself a beggar enamored of the beloved and is named as
+    Hafiz addressing a love-scroll.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:2
+  label: beautiful addressed beloved
+  assigned_to:
+  - fig:2
+  basis: The figure is the addressee whose beauty beams at creation and whose bodily
+    features attract the speaker.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: role:3
+  label: cold-hearted heavenly beings
+  assigned_to:
+  - fig:3
+  basis: The passage states that angels’ hearts were cold when the beloved’s cheek
+    shone.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: human mould affected by fire
+  assigned_to:
+  - fig:4
+  basis: The fire flashes and turns to Adam’s mould.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: personified reason illuminated by flame
+  assigned_to:
+  - fig:5
+  basis: Reason appears as a lamp burning from the flame.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: secret-seeking profane enemy
+  assigned_to:
+  - fig:6
+  basis: The enemy seeks the beloved’s secret and is described as a profane beast.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: protective repeller
+  assigned_to:
+  - fig:7
+  basis: The unseen hand repels the profane beast.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: love’s echo
+  literal_form: echo of love
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: circling Round
+  literal_form: circling Round
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cypress form
+  literal_form: one of cypress mould
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wine and cup
+  literal_form: wine; cheery cup
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: creation fire of love
+  literal_form: fire, flame, lamp, lightning
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: beloved’s secret
+  literal_form: secret sought by the enemy
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: die of Fate
+  literal_form: die of Fate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: chin’s deep pit and entwined locks
+  literal_form: deep pit of the chin; twined locks
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: love-scroll
+  literal_form: love-scroll addressed to the beloved
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Love’s echo beneath the circling Round
+  summary: The speaker ranks love’s echo as the sweetest sound beneath the circling
+    Round.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beggar-lover, wine, and secrecy
+  summary: The speaker calls himself an enamored beggar, describes the cypress-like
+    beloved, requests wine, and requires secrecy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Beauty at creation ignites love
+  summary: The beloved’s beauty beams at creation’s morn, the world is set on fire
+    by new-born love, and fire turns to Adam’s mould while angels remain cold-hearted.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Reason, jealousy, and guarded secret
+  summary: Reason’s lamp burns from the flame, jealous lightning overturns the world,
+    and an unseen hand repels the enemy who seeks the beloved’s secret.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Fate, allure, and love-scroll
+  summary: The speaker laments his sad lot from Fate, describes the beloved’s chin
+    and locks as alluring, and says Hafiz addressed a love-scroll to the beloved after
+    canceling what his heart loved best.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: beloved beauty as cosmic creative fire
+  taxonomy_refs:
+  - divine_beloved
+  basis: The addressed beloved’s beauty beams at creation’s morn and the world is
+    set on fire by newly born love; the same fire is linked with Adam’s mould and
+    Reason’s lamp.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call the beloved divine, but creation,
+    angels, Adam, and cosmic fire support a cautious divine-beloved reading.
+- id: motif:2
+  label: guarded secret repelling a profane seeker
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: An enemy seeks the beloved’s secret, and an unseen hand repels the profane
+    beast.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The content of the secret is not specified, and the passage does not narrate
+    a full quest for forbidden knowledge.
+- id: motif:3
+  label: wine, love, and secrecy
+  taxonomy_refs: []
+  basis: The speaker requests wine, has Hafiz embrace the cup, and sets a condition
+    that no word go beyond the place.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader ritual or mythic function is explicit in the passage.
+- id: motif:4
+  label: fated sorrow of the lover
+  taxonomy_refs: []
+  basis: The speaker contrasts others made glad by Fate’s die with his own heart saddened
+    by its lot.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a lyric motif of allotted sorrow rather than a fully developed
+    mythic episode.
+- id: motif:5
+  label: renunciation before addressing the beloved
+  taxonomy_refs: []
+  basis: Hafiz addresses his love-scroll to the beloved after canceling what his heart
+    loved best.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The object or attachment canceled is not specified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: LXXXV within lines 16327-16368
+  quote_or_summary: "“To me love's echo is the sweetest sound / Of all that 'neath
+    this circling Round”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: LXXXVI within lines 16327-16368
+  quote_or_summary: "“A beggar am I; yet enamoured of one of cypress mould” with a
+    belt associated with silver and gold."
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: LXXXVI within lines 16327-16368
+  quote_or_summary: "“Bring wine!”; Hafiz’s hand is to embrace the cup, with the condition
+    “No word beyond this place!”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: LXXXVII within lines 16327-16368
+  quote_or_summary: "“When beamed Thy beauty on creation's morn, / The world was set
+    on fire by love new-born.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: LXXXVII within lines 16327-16368
+  quote_or_summary: The beloved’s cheek shines; angels’ hearts are cold; fire flashes
+    and turns to Adam’s mould.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: LXXXVII within lines 16327-16368
+  quote_or_summary: Reason’s lamp burns from the flame, but jealous lightning overturns
+    the world.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: LXXXVII within lines 16327-16368
+  quote_or_summary: "“The enemy Thy secret sought to gain; / A hand unseen repelled
+    the beast profane.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: LXXXVII within lines 16327-16368
+  quote_or_summary: Fate’s die may make others glad, but the speaker’s heart is saddened
+    by its lot.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: LXXXVII within lines 16327-16368
+  quote_or_summary: The beloved’s chin is a deep pit alluring the lofty mind, and
+    the hand would grasp the beloved’s entwined locks.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: quote
+  locator: LXXXVII within lines 16327-16368
+  quote_or_summary: "“Hfiz his love-scroll / To Thyself addressed,” after he “cancelled
+    / What his heart loved best.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif identifications
+    involving divine-beloved or forbidden-knowledge patterns are cautious because
+    the passage is lyric and symbolic rather than an explicit narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare its imagery to another tradition or named motif family.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16327-l16368
+  passage_sha256=5de25c5bea47a7212875644fe9167fd2a622176e7a2137ddca6f275094771836
+

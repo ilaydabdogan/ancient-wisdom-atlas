@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l929-l971
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Chapter 12 / Chapter 13 / Footnotes / Chapter 14; lines 929-971
+  start: '929'
+  end: '971'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives priestly procedures for inspecting a house-plague, quarantining
+    the house, removing or demolishing contaminated materials, regulating uncleanness
+    for people who enter the house, and cleansing a healed house with birds, running
+    water, cedar wood, scarlet, and hyssop, ending with a summary law distinguishing
+    clean and unclean conditions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Before entering to inspect the plague, the priest commands that the house
+    be emptied so that its contents are not made unclean.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The house-plague is described as being in the walls, with hollow greenish
+    or reddish streaks that appear deeper than the wall.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If the described signs are present, the priest goes to the door and shuts
+    up the house for seven days.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: On the seventh day, if the plague has spread, the affected stones are removed
+    and cast into an unclean place outside the city.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The inside of the house is scraped, the scraped-off mortar is poured into
+    an unclean place outside the city, and replacement stones and mortar are used
+    to plaster the house.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: If the plague returns and spreads after the repair, the priest identifies
+    it as destructive mildew and declares the house unclean.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A house with recurrent destructive mildew is broken down, and its stones,
+    timber, and mortar are carried outside the city to an unclean place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A person who enters the house while it is shut up becomes unclean until evening.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A person who lies down or eats in the house must wash his clothes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: If the plague has not spread after plastering, the priest pronounces the house
+    clean because the plague is healed.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The cleansing of the house requires two birds, cedar wood, scarlet, and hyssop.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: One bird is killed in an earthen vessel over running water.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The cedar wood, hyssop, scarlet, and living bird are dipped in the slain bird’s
+    blood and running water, and the house is sprinkled seven times.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: The living bird is released outside the city into the open field.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The rite makes atonement for the house, and the house becomes clean.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:16
+  text: The passage concludes that these instructions are the law for leprosy-like
+    plagues, itch, destructive mildew in garments or houses, swelling, scab, and bright
+    spot, teaching when something is unclean or clean.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the priest
+  description: The priest commands, examines, quarantines, pronounces clean or unclean,
+    and conducts the house-cleansing rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: unnamed workers under command
+  description: The unnamed people who empty the house, remove affected stones, scrape
+    the house, pour out mortar, replace stones, and plaster the house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: persons entering, lying down, or eating in the house
+  description: Generic persons who enter the shut-up house, lie down in it, or eat
+    in it, and are subject to uncleanness or washing requirements.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: priestly examiner and purifier
+  assigned_to:
+  - fig:1
+  basis: The priest inspects the plague, orders quarantine or repair, declares the
+    house clean or unclean, and performs the cleansing procedure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: commanded remediators of the house
+  assigned_to:
+  - fig:2
+  basis: They carry out the priest’s commands to empty the house, remove stones, scrape
+    mortar, and replaster.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: temporarily unclean house users
+  assigned_to:
+  - fig:3
+  basis: Those who enter the shut-up house are unclean until evening, and those who
+    lie down or eat there must wash their clothes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: plagued house
+  literal_form: A house whose walls show hollow greenish or reddish streaks and may
+    contain destructive mildew.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: unclean place outside the city
+  literal_form: The place outside the city where infected stones, scraped mortar,
+    and demolished house materials are taken.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: two birds
+  literal_form: 'Two birds used in the cleansing rite: one killed and one kept living
+    and released.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: running water
+  literal_form: Running water used with the slain bird’s blood in the cleansing rite.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: cedar wood, scarlet, and hyssop
+  literal_form: Ritual materials dipped with the living bird in blood and running
+    water and used in cleansing the house.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: seven
+  literal_form: Seven days of shutting up the house and seven sprinklings during cleansing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:7
+  label: house materials
+  literal_form: Stones, timber, and mortar removed, replaced, scraped, or carried
+    away according to the plague’s condition.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:8
+  label: earthen vessel
+  literal_form: An earthen vessel in which one bird is killed over running water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: inspection and quarantine of the house
+  summary: The priest has the house emptied, inspects the wall-plague, and shuts the
+    house for seven days if the signs are present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: removal and replastering after spread
+  summary: If the plague spreads, contaminated stones and mortar are removed to an
+    unclean place outside the city, and the house is replastered with replacement
+    materials.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: destruction after recurrent mildew
+  summary: If the plague returns and spreads after repair, the priest declares the
+    house unclean, and the whole house is dismantled and taken outside the city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: uncleanness of house users
+  summary: People who enter, lie down, or eat in the shut-up house incur temporary
+    uncleanness or must wash their clothes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: cleansing and atonement for the healed house
+  summary: If the plague has not spread after plastering, the priest pronounces the
+    house clean and performs a rite with two birds, running water, cedar wood, scarlet,
+    and hyssop, sprinkling the house seven times and releasing the living bird outside
+    the city.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: summary law of clean and unclean conditions
+  summary: The passage closes by identifying the preceding instructions as law for
+    various plagues and conditions, to teach when something is unclean or clean.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritual purification of a contaminated dwelling
+  taxonomy_refs: []
+  basis: The priest inspects the house, determines whether it is unclean or healed,
+    and conducts a cleansing rite when the plague has not spread.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is extracted as a procedural purity pattern; the passage does not
+    frame it as a narrative myth.
+- id: motif:2
+  label: sacrifice for purification and atonement
+  taxonomy_refs:
+  - sacrifice
+  basis: One bird is killed, its blood is used with running water in sprinkling the
+    house, and the rite is said to make atonement for the house.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage applies the rite specifically to a house-cleansing procedure.
+- id: motif:3
+  label: removal of impurity beyond the city boundary
+  taxonomy_refs: []
+  basis: Contaminated materials are carried to an unclean place outside the city,
+    and the living bird is released outside the city into the open field.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly state that impurity is transferred to
+    the living bird; only removal and release are literal.
+- id: motif:4
+  label: sevenfold timing and ritual action
+  taxonomy_refs: []
+  basis: The house is shut up for seven days, and during cleansing the house is sprinkled
+    seven times.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage gives the number seven in two procedures but does not explain
+    its symbolic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 929-934; verses 36-38
+  quote_or_summary: The priest commands the house to be emptied, enters to examine
+    the plague, observes greenish or reddish hollow streaks in the walls, and shuts
+    the house for seven days.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 935-938; verses 39-42
+  quote_or_summary: On the seventh day, if the plague has spread, affected stones
+    are removed to an unclean place outside the city, the inside is scraped, scraped
+    mortar is poured outside the city, and replacement stones and mortar are used.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 939-941; verses 43-45
+  quote_or_summary: If the plague returns after repair and spreads, the priest identifies
+    destructive mildew, declares the house unclean, and orders the house broken down
+    and carried outside the city to an unclean place.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 942-943; verses 46-47
+  quote_or_summary: A person entering the shut-up house is unclean until evening;
+    anyone who lies down or eats in the house must wash his clothes.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 944-945; verses 48-49
+  quote_or_summary: If the plague has not spread after plastering, the priest pronounces
+    the house clean and takes two birds, cedar wood, scarlet, and hyssop to cleanse
+    it.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 946-949; verses 50-53
+  quote_or_summary: One bird is killed in an earthen vessel over running water; the
+    living bird and other materials are dipped in blood and running water; the house
+    is sprinkled seven times; the living bird is released outside the city; atonement
+    is made and the house is clean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 950-953; verses 54-57
+  quote_or_summary: The passage states that this is the law for leprosy-like plagues,
+    itch, destructive mildew of garment or house, swelling, scab, and bright spot,
+    to teach when something is unclean or clean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to procedural patterns directly attested in the passage. No cross-text or cross-cultural
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned beyond the available water symbol and sacrifice motif where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l929-l971
+  passage_sha256=3df916b7e0e3cead84e707129fbb81bebf4bf0e5892634391df54d06dee161b6
+

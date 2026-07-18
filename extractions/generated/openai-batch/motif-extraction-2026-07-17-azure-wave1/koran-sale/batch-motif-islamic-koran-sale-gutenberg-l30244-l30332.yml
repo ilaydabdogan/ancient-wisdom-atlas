@@ -1,0 +1,531 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l30244-l30332
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXIV.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 30244-30332
+  start: '30244'
+  end: '30332'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts Solomon's death being disclosed when an earth-creature
+    gnaws his staff and his body falls, revealing to the genii that they did not know
+    hidden things. It then recounts the descendants of Saba, who had two fruitful
+    gardens and safe travel between nearby cities, but turned aside from command,
+    were punished by the inundation of al Arem, had their gardens changed to bitter
+    growth, requested longer journeys, and were dispersed. Sale's notes add explanatory
+    traditions about Solomon, the temple, the worm, the dam or reservoir of Saba,
+    and the later dispersal of Sabaean tribes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God decrees that Solomon should die, and his death is not discovered until
+    a creeping thing of the earth gnaws his staff.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the staff is gnawed through, Solomon's body falls down.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The genii perceive after Solomon's fall that they did not know hidden knowledge
+    and had continued in a vile or servile punishment.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:4
+  text: Sale's note says Solomon's death was concealed from the genii for a year while
+    they completed the temple, with his body supported in prayer by the staff.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The descendants of Saba had a sign in their dwelling: two gardens on the
+    right and on the left, with provision from the Lord and a command to give thanks.'
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The descendants of Saba turned aside from the command, and God sent against
+    them the inundation of al Arem.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Their two gardens were changed into two gardens producing bitter fruit, tamarisks,
+    and some fruit of the lote-tree.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: God placed nearby cities between Saba and the blessed cities and made the
+    journey safe by night and by day.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The people asked God to put a greater distance between their journeys.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: They were described as unjust to themselves, made a subject of discourse,
+    and dispersed with a total dispersion.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: obs:11
+  text: Sale's note explains al Arem as mounds or dams for holding water and describes
+    a reservoir above Saba that broke by a mighty flood at night.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Sale's note says the petition for longer journeys was motivated by covetousness
+    and was punished by the ruin and abandonment of many intermediate cities.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Solomon
+  description: A king whose death is decreed by God; his body remains leaning on a
+    staff until the staff is gnawed and the body falls.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Genii
+  description: Supernatural workers under Solomon who continue in servile subjection
+    until his death is revealed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Creeping thing of the earth / worm
+  description: A small creature that gnaws Solomon's staff and thereby reveals his
+    death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: The LORD / GOD
+  description: The divine actor who decrees Solomon's death, provides for Saba, sends
+    punishment, arranges cities and journeys, and disperses the people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: Descendants of Sabae / Saba
+  description: A people dwelling in a good country with two gardens who turn aside,
+    are punished by flood and altered gardens, request longer journeys, and are dispersed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:10
+roles:
+- id: role:1
+  label: Divine decreer, provider, and judge
+  assigned_to:
+  - fig:4
+  basis: God decrees death, gives provision and safe travel, sends the inundation,
+    changes the gardens, and disperses the people.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Concealed dead king
+  assigned_to:
+  - fig:1
+  basis: Solomon's death remains undiscovered until his staff is gnawed and his body
+    falls.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Supernatural workers ignorant of the hidden
+  assigned_to:
+  - fig:2
+  basis: The genii continue under Solomon's command until his death is revealed, showing
+    that they did not know what was secret.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: Small revealer of hidden death
+  assigned_to:
+  - fig:3
+  basis: The creeping thing or worm gnaws the staff, causing the body to fall and
+    Solomon's death to be known.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Ungrateful people receiving punishment and dispersal
+  assigned_to:
+  - fig:5
+  basis: The descendants of Saba are commanded to give thanks, turn aside, are punished
+    by inundation and changed gardens, ask for longer journeys, and are dispersed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:10
+symbols:
+- id: sym:1
+  label: Staff supporting the dead king
+  literal_form: Solomon's staff
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Gnawing earth-creature
+  literal_form: Creeping thing of the earth / worm
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Twin gardens of Saba
+  literal_form: Two gardens on the right hand and on the left
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Flood from al Arem
+  literal_form: Inundation of al Arem; dam or reservoir water breaking out
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: Changed fruit trees and shrubs
+  literal_form: Bitter fruit, tamarisks, and lote-tree fruit
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Safe chain of cities
+  literal_form: Cities situated near each other between Saba and the blessed cities
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Solomon's hidden death revealed
+  summary: Solomon dies while supported by his staff; a creeping thing gnaws the staff,
+    the body falls, and the genii learn that they did not know the hidden matter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Saba's initial abundance
+  summary: The descendants of Saba have two gardens, a good country, provision from
+    the Lord, and a command to give thanks.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Flood and garden transformation
+  summary: After Saba turns aside, God sends the inundation of al Arem and changes
+    the gardens into bitter and sparse growth.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: scene:4
+  label: Safe route rejected and dispersal follows
+  summary: God provides nearby cities and safe travel, but the people ask for longer
+    distances; they are judged unjust, become a subject of discourse, and are dispersed.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Hidden death revealed by a small creature damaging a support
+  taxonomy_refs: []
+  basis: Solomon's death remains undiscovered until a creeping thing or worm gnaws
+    through his staff and his body falls.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this specific staff-and-worm
+    disclosure pattern.
+- id: motif:2
+  label: Supernatural beings shown not to know hidden things
+  taxonomy_refs:
+  - wisdom
+  basis: The genii recognize that if they had known the secret matter of Solomon's
+    death, they would not have continued in servile punishment.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns lack of knowledge of the hidden rather than a quest
+    for wisdom; the taxonomy reference is broad.
+- id: motif:3
+  label: Flood or dam-breach as divine punishment for communal ingratitude
+  taxonomy_refs:
+  - divine_judgment
+  - flood_and_renewal
+  basis: Saba turns aside and is punished by the inundation of al Arem; Sale's note
+    describes a dam or reservoir broken by a mighty flood because of impiety and pride.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: Flood and judgment are explicit; renewal is only indirectly present through
+    later resettlements noted after dispersal.
+- id: motif:4
+  label: Abundance transformed into bitter landscape
+  taxonomy_refs:
+  - divine_judgment
+  basis: The two gardens of Saba are changed from provision-bearing abundance into
+    gardens of bitter fruit, tamarisks, and sparse lote-tree fruit as reward for ingratitude.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The transformation is moralized as punishment; the passage does not describe
+    a seasonal cycle.
+- id: motif:5
+  label: Punitive granting of a harmful request
+  taxonomy_refs:
+  - divine_judgment
+  basis: After safe nearby journeys are provided, the people ask for greater distance;
+    Sale's note says the request is granted as punishment through ruin of intermediate
+    cities.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The motive of covetousness and the ruin of cities come from Sale's explanatory
+    note rather than the main translated verse alone.
+- id: motif:6
+  label: Total dispersion becomes proverbial discourse
+  taxonomy_refs:
+  - divine_judgment
+  - departure
+  basis: The people are made a subject of discourse and dispersed with a total dispersion;
+    Sale's note says their scattering became proverbial and lists tribes seeking new
+    settlements.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The 'departure' taxonomy is broad; the passage emphasizes punishment and
+    dispersal rather than a voluntary quest departure.
+comparison_claims:
+- id: claim:1
+  claim: Sale's note cautiously suggests that the story of the temple being built
+    by genii may be related to the biblical notice that Solomon's temple was built
+    without the sound of hammer, axe, or iron tool in the house.
+  claim_level: same_function
+  target: Biblical Solomon temple tradition, specifically I Kings vi. 7 as cited in
+    Sale's note
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editorial speculation introduced with 'Possibly'; it is
+    not an explicit comparison made in the translated Qur'anic verses.
+- id: claim:2
+  claim: Sale's note compares the worm that gnaws Solomon's staff with a rabbinic
+    tradition about a worm whose virtue causes rocks and stones to split.
+  claim_level: same_motif
+  target: Rabbinic worm tradition associated with temple construction, as cited by
+    Sale through Kimhi and other references
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note itself says the identification is uncertain; no rabbinic passage
+    is quoted here, and the comparison is made by the translator-commentator.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30244-30247
+  quote_or_summary: Solomon's death is decreed; only the creeping thing of the earth
+    gnawing his staff reveals the death, and when the body falls the genii perceive
+    their ignorance of secret knowledge.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:2
+  type: summary
+  locator: note c, approx. lines 30265-30276
+  quote_or_summary: 'Sale''s note reports commentator tradition: Solomon dies standing
+    at prayer and leaning on his staff; the body remains supported for a year while
+    the genii complete the temple, until a worm eats through the staff and the corpse
+    falls.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:3
+  type: summary
+  locator: note d, approx. lines 30286-30287
+  quote_or_summary: Sale glosses the genii's punishment as servile subjection to Solomon's
+    command and continued work on the temple.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:4
+  type: summary
+  locator: lines 30248-30250
+  quote_or_summary: 'The descendants of Saba have a sign in their dwelling: two gardens
+    to right and left; they are told to eat the Lord''s provision and give thanks
+    in a good country with a gracious Lord.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:5
+  type: summary
+  locator: lines 30251-30256
+  quote_or_summary: Because they turn aside, God sends the inundation of al Arem and
+    changes the two gardens into gardens with bitter fruit, tamarisks, and some lote-tree
+    fruit, as reward for ingratitude.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:6
+  type: summary
+  locator: lines 30257-30259
+  quote_or_summary: God places nearby cities between Saba and the blessed cities and
+    makes the journey safe by night and day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:7
+  type: summary
+  locator: lines 30260-30263
+  quote_or_summary: The people ask God to put greater distance between their journeys;
+    they are unjust to themselves, made a subject of discourse, and dispersed with
+    total dispersion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:8
+  type: summary
+  locator: note g, approx. lines 30295-30301
+  quote_or_summary: Sale explains al Arem as mounds or dams for retaining water and
+    describes a vast reservoir above Saba that was broken down at night by a mighty
+    flood, causing terrible destruction because of the inhabitants' impiety, pride,
+    and insolence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:9
+  type: summary
+  locator: note l, approx. lines 30308-30313
+  quote_or_summary: Sale says the request for longer journeys was made from covetousness
+    and that God punished them by granting the wish and allowing most cities between
+    Saba and Syria to be ruined and abandoned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:10
+  type: summary
+  locator: note m, approx. lines 30314-30323
+  quote_or_summary: Sale says neighboring nations marveled at Saba's sudden reversal;
+    their scattering became proverbial, and various Sabaean tribes left for Syria,
+    Yathreb, Tehmah, Oman, Najd, near Mecca, near Damascus, Hira, and other places.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+- id: ev:11
+  type: summary
+  locator: note c, approx. lines 30277-30285
+  quote_or_summary: Sale speculates that the genii-built temple story may derive from
+    scripture about Solomon's temple being built without tools heard in the house,
+    and mentions rabbinic lore about a worm that splits rocks and stones; he says
+    he does not know if it is the same kind of worm and calls the story Jewish in
+    character.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg/Sale translation metadata supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Main narrative elements are explicit. Some motif taxonomy assignments are
+    broad, and comparison claims come from Sale's notes rather than the translated
+    Qur'anic verses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. Sale's notes are treated as part of the supplied passage but distinguished from the main translated verses in evidence and cautions.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l30244-l30332
+  passage_sha256=375ff53ce0fe27d2100531a5444fdd315a4066e01c327c0408437849ef7f6d4a
+

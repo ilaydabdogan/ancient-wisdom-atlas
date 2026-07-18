@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8505-l8564
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 141 / PAGE 144 / PAGE 146 / PAGE 148; lines 8505-8564
+  start: '8505'
+  end: '8564'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator’s notes discuss a verse alluding to the slaying of Aife’s only
+    son, compare that allusion with other records about Conlaoch, note a chronological
+    difficulty involving the War of Cualgne, summarize a Yellow Book of Lecan reconciliation,
+    and give literal renderings and metrical comments on related poems.
+  language: English with quoted Irish verse
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note gives O'Curry's rendering in which the speaker says he has not met,
+    since slaying Aife's only son, anyone like Ferdia in deeds of battle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says other records identify Aife's only son as Conlaoch, son of Cuchulain
+    and Aife.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says Cuchulain killed Conlaoch without knowing who Conlaoch was at
+    the time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says the battle with Conlaoch is usually placed at the end of Cuchulain's
+    life, but the present allusion places it before the War of Cualgne, where Cuchulain
+    is represented as a youth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentator proposes that an early legend of a fight with Aife's son may
+    have later been developed by making him Cuchulain's son; the Yellow Book of Lecan
+    version is said to make Conlaoch seven years old when he took up arms.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A poem line is literally rendered as a comparison to thrusting a spear into
+    sand or against the sun.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary says the poems beginning “Ah that brooch of gold” and “Hound,
+    of feats so fair” have unique metre in this collection and a complicated rhyme
+    system.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Two poem lines are glossed as “O hero of strong-striking blows” and “Triumphant
+    was thine arm.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aife
+  description: Named as the mother of an only son; in other records, named with Cuchulain
+    as parent of Conlaoch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Cuchulain
+  description: Named as Conlaoch's father in other records; said to have killed Conlaoch
+    without knowing his identity; represented as a youth in the War of Cualgne chronology
+    discussed by the note.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Conlaoch / Aife's only son
+  description: Identified in other records as the son of Cuchulain and Aife; said
+    to be killed by his father; in the Yellow Book of Lecan reconciliation, said to
+    be seven years old when he took up arms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Ferdia
+  description: Named as the addressee in the rendered line and in the Irish verse;
+    described by the speaker as unmatched in deeds of battle since the slaying of
+    Aife's only son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: mother of Aife's only son
+  assigned_to:
+  - fig:1
+  basis: The note refers to “Aife's only son” and says other records identify him
+    as Conlaoch, son of Cuchulain and Aife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: father and unwitting killer
+  assigned_to:
+  - fig:2
+  basis: The note says Conlaoch was the son of Cuchulain and Aife and was killed by
+    his father, who did not know who he was.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: slain son / child-warrior variant
+  assigned_to:
+  - fig:3
+  basis: Conlaoch is described as Aife's son killed by his father; the Yellow Book
+    of Lecan version makes him seven years old when he took up arms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: battle peer addressed in poem
+  assigned_to:
+  - fig:4
+  basis: The rendered line addresses Ferdia and says no one like him in deeds of battle
+    had been met since Aife's son was slain.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: youth in War of Cualgne chronology
+  assigned_to:
+  - fig:2
+  basis: The note says that in this chronology Cuchulain is represented as a youth
+    during the War of Cualgne.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spear
+  literal_form: A spear used in the literal rendering of a poetic comparison.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sand
+  literal_form: Sand as the ineffective target in the spear-thrust comparison.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sun
+  literal_form: The sun as the other target in the spear-thrust comparison.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: brooch of gold
+  literal_form: A gold brooch named in the poem title/commentary and linked with the
+    Irish verse addressing Ferdia.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: arm
+  literal_form: The praised arm in the gloss “Triumphant was thine arm.”
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Allusion to earlier slaying and comparison with Ferdia
+  summary: The rendered line presents Ferdia as a battle figure whose deeds are compared
+    with all opponents encountered since the slaying of Aife's only son.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Commentary on Conlaoch variant and chronology
+  summary: The note compares the allusion with other accounts in which Conlaoch is
+    Cuchulain and Aife's son, killed unknowingly by Cuchulain, and discusses whether
+    the episode belongs before or after the War of Cualgne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Poetic imagery and praise in metrical notes
+  summary: The commentary gives a spear-against-sand-or-sun simile, discusses the
+    gold-brooch poem and its metre, and glosses lines praising a hero and his arm.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: unrecognized father-son combat killing
+  taxonomy_refs: []
+  basis: Other records are summarized as saying Conlaoch, son of Cuchulain and Aife,
+    was killed by his father, who did not know who he was.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is commentary summarizing other records, not a full narrative
+    of the combat.
+- id: motif:2
+  label: present opponent measured against a previously slain champion
+  taxonomy_refs: []
+  basis: The rendered line says the speaker had not met anyone like Ferdia in battle
+    since slaying Aife's only son.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a single allusive line preserved in a translator's note.
+- id: motif:3
+  label: seven-year-old takes up arms
+  taxonomy_refs: []
+  basis: The Yellow Book of Lecan reconciliation is summarized as making Conlaoch
+    only seven years old when he took up arms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The commentator says this reconciliation could hardly have been the original
+    version; the passage does not narrate the episode.
+- id: motif:4
+  label: impossible spear-thrust comparison
+  taxonomy_refs: []
+  basis: A literal rendering compares an action to thrusting a spear into sand or
+    against the sun.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives this as a poetic line rendering; no broader narrative
+    context is provided.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the fight with Aife's son as the same narrative problem
+    across variant records, with other records identifying the son as Conlaoch and
+    placing the battle late in Cuchulain's life, while the present allusion appears
+    to place it before the War of Cualgne.
+  claim_level: same_motif
+  target: Conlaoch / Son of Aife fight in other records and the present verse allusion
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The other records are not quoted directly here; the comparison is mediated
+    through the commentator's summary.
+- id: claim:2
+  claim: The Yellow Book of Lecan version is described as a reconciliation of the
+    same Conlaoch problem by making Conlaoch seven years old when he took up arms.
+  claim_level: same_motif
+  target: Yellow Book of Lecan version of the Conlaoch / Son of Aife episode
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports the Yellow Book version only in summary and adds
+    that this could hardly have been the original version.
+evidence:
+- id: ev:1
+  type: quote
+  locator: PAGE 148, note on Line 5, lines 8505-8510
+  quote_or_summary: "“Never until now have I met, since I slew Aife's only son, thy
+    like in deeds of battle ... O Ferdia.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:2
+  type: summary
+  locator: PAGE 148, note on Line 5, lines 8510-8514
+  quote_or_summary: The note says Aife's only son is, according to other records,
+    Conlaoch, son of Cuchulain and Aife, and that Cuchulain killed him without knowing
+    who he was.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: PAGE 148, note on Line 5, lines 8514-8526
+  quote_or_summary: The note says the Conlaoch battle is usually placed near the end
+    of Cuchulain's life, but this allusion places it before the War of Cualgne; it
+    suggests an earlier legend of a fight with Aife's son and notes that the Yellow
+    Book of Lecan makes Conlaoch seven years old when he takes up arms.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:4
+  type: quote
+  locator: PAGE 148, note on Line 23, lines 8527-8529
+  quote_or_summary: "“It is like thrusting a spear into sand or against the sun.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:5
+  type: summary
+  locator: PAGE 148, metrical note, lines 8530-8560
+  quote_or_summary: The note discusses the poems “Ah that brooch of gold” and “Hound,
+    of feats so fair,” calls their metre unique in the collection, quotes Irish verses
+    including an address to Ferdia, and describes the rhyme pattern.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:6
+  type: quote
+  locator: PAGE 148, final line notes, lines 8561-8564
+  quote_or_summary: Line 3 is “O hero of strong-striking blows”; Line 4 is “Triumphant
+    was thine arm.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata says full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translator/commentator note rather than a continuous myth
+    narrative. Named figures, relationships, and variant-comparison claims are explicit,
+    but motif labels remain provisional.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned because the passage does not clearly support the listed motif-family or symbol identifiers beyond literal imagery.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8505-l8564
+  passage_sha256=cdc956306ae1772ceea11c39ea7264ed285d68afa6f88c2fa2ce8958d3af3cb5
+

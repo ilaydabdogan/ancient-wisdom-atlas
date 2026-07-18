@@ -1,0 +1,490 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l55357-l55397
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXXV. The Night Attack. / Canto CII. Lakshman Healed. / Canto CVI.
+    Glory To The Sun. / Canto CVIII. The Battle.; lines 55357-55397
+  start: '55357'
+  end: '55397'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama reverently praises the Day-God and arms himself again. In battle against
+    Ravana, the giant chief attacks Rama’s pennon and steeds, but Rama’s heavenly
+    chariot and steeds withstand the assault. Rama’s blazing, snake-like arrow splits
+    Ravana’s standard. Ravana then sends a magic storm of trees, mountain peak, and
+    weapons toward Rama; Rama escapes, and the missiles crush many Vanars.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed speaker vanishes before Rama raises his eyes reverently, praises
+    the Day-God, and arms himself again.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The giant’s charioteer urges the giant’s foaming steeds forward as the battle
+    begins loudly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Rakshas host and Vanar bands stand armed and watch the battle in terror
+    and dismay.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The giant chief aims darts at Rama’s pennon, but their force is stopped when
+    they touch the heavenly-made chariot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rama draws his bow and sends an arrow at Ravana’s banner, splitting the standard
+    in two so that it falls.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Rama’s arrow is described as deadly, swift, and like a huge snake ablaze with
+    light.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The giant shoots arrows hot with flames of fire at Rama’s steeds, but the
+    heavenly steeds remain unmoved.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: By magic art, tree, mountain peak, spear, dart, trident, pike, club, and mace
+    fly toward Rama’s face.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Rama, his steeds, and his car escape the missile storm; the missiles fall
+    elsewhere and crush a thousand Vanars.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: Warrior who praises the Day-God, arms for battle, shoots an arrow at
+    Ravana’s banner, and escapes the missile storm.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Day-God
+  description: Glorious deity visible to Rama and praised by him before the renewed
+    fight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Rávaṇ, the giant chief
+  description: Giant chief opposed to Rama; he aims darts at Rama’s pennon, shoots
+    fiery arrows at Rama’s steeds, and sends magic missiles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Unnamed charioteer
+  description: Charioteer associated with urging the giant’s foaming steeds onward.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Rákshas host
+  description: Armed host watching the battle in terror and dismay.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Vánar bands
+  description: Armed bands watching the battle; a thousand Vanars are later crushed
+    by missiles that miss Rama.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:7
+  name_or_label: Ráma’s heavenly steeds
+  description: Heavenly steeds drawing Rama’s car; they withstand the giant’s fiery
+    arrows without moving.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: The giant’s foaming steeds
+  description: Steeds of the giant, urged forward by the charioteer.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: reverent worshipper before battle
+  assigned_to:
+  - fig:1
+  basis: Rama raises his eyes reverently, praises the Day-God, and arms himself for
+    the fight.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: combatant opposed to Ravana
+  assigned_to:
+  - fig:1
+  basis: Rama shoots at Ravana’s banner and escapes the giant’s missile storm.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: praised solar deity
+  assigned_to:
+  - fig:2
+  basis: The Day-God is praised by Rama before the renewed battle.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: giant antagonist
+  assigned_to:
+  - fig:3
+  basis: The giant chief attacks Rama’s pennon and steeds and sends magic missiles
+    toward him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: charioteer
+  assigned_to:
+  - fig:4
+  basis: The charioteer urges the giant’s foaming steeds onward.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: armed onlookers
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Rakshas host and Vanar bands stand armed and watch the battle in fear.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: casualties of diverted missiles
+  assigned_to:
+  - fig:6
+  basis: Missiles that miss Rama fall to earth and crush a thousand Vanars.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: heavenly battle steeds
+  assigned_to:
+  - fig:7
+  basis: Rama’s heavenly steeds sustain the shower of fiery arrows unmoved.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: enemy battle steeds
+  assigned_to:
+  - fig:8
+  basis: The giant’s foaming steeds come near when urged onward.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Day-God
+  literal_form: The glorious Day-God visible to Rama and praised before battle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavenly chariot or car
+  literal_form: A chariot made by heavenly hands; Rama’s car later escapes the missile
+    storm.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: pennon, banner, and standard
+  literal_form: Rama’s pennon is attacked; Ravana’s banner and standard are struck
+    and split.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: snake-like blazing arrow
+  literal_form: Rama’s deadly arrow is compared to a huge snake ablaze with light.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fiery arrows
+  literal_form: Arrows hot with flames of fire shot by the giant at Rama’s steeds.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: lotus tendrils
+  literal_form: Soft lotus tendrils are used as a comparison for the ineffectual impact
+    of arrows on the heavenly steeds.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: tree and mountain peak as missiles
+  literal_form: Tree and mountain peak hurled by magic art toward Rama.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: weapon storm
+  literal_form: Spear, dart, trident, pike, club, and mace flying toward Rama by magic
+    art.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rama praises the Day-God and rearms
+  summary: After an unnamed speaker vanishes, Rama reverently praises the visible
+    Day-God and prepares again for battle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Armies watch the approaching duel
+  summary: The giant’s charioteer drives the foaming steeds onward while Rakshas and
+    Vanar forces stand armed and watch in fear.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attack on pennon and fall of Ravana’s standard
+  summary: The giant chief attacks Rama’s pennon, but the heavenly chariot blocks
+    the darts; Rama answers by splitting Ravana’s standard with a blazing, snake-like
+    arrow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Fiery arrows fail against heavenly steeds
+  summary: The giant shoots fiery arrows at Rama’s steeds, but the heavenly steeds
+    endure the attack as if only touched by lotus tendrils.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Magic missile storm misses Rama and crushes Vanars
+  summary: By magic art, natural objects and weapons fly toward Rama; Rama, his steeds,
+    and car escape, while the missiles fall to earth and kill many Vanars.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: solar praise before renewed combat
+  taxonomy_refs: []
+  basis: Rama reverently praises the Day-God and then arms himself again for the fight.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage shows praise before battle but does not explicitly state a
+    ritual formula or divine intervention in response.
+- id: motif:2
+  label: supernatural vehicle protects the hero in battle
+  taxonomy_refs: []
+  basis: Darts lose force on a chariot made by heavenly hands, and Rama’s heavenly
+    steeds withstand fiery arrows.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage describes protection by heavenly-made vehicle elements, but
+    does not explain their origin within this excerpt.
+- id: motif:3
+  label: enemy standard destroyed in heroic duel
+  taxonomy_refs: []
+  basis: Rama’s arrow strikes Ravana’s banner and splits the standard so that it falls.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly interpret the fallen standard as omen
+    or defeat; that is only a possible martial pattern.
+- id: motif:4
+  label: serpentine and fiery weapon imagery
+  taxonomy_refs: []
+  basis: Rama’s arrow is compared to a huge snake ablaze with light, and the giant’s
+    arrows are hot with flames of fire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The serpent is a simile for an arrow, not an actual serpent-being in the
+    action.
+- id: motif:5
+  label: magic storm of natural objects and weapons
+  taxonomy_refs: []
+  basis: By magic art, tree, mountain peak, spear, dart, trident, pike, club, and
+    mace fly toward Rama.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage lists the magical volley but gives no further explanation
+    of the magic.
+- id: motif:6
+  label: hero escapes missile storm while allies are crushed
+  taxonomy_refs: []
+  basis: Rama, his steeds, and car escape the storm, while the missiles fall to earth
+    and crush a thousand Vanars.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage reports the collateral casualties without assigning blame
+    or moral meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 55357-55362
+  quote_or_summary: An unnamed speaker vanishes; Rama reverently raises his eyes,
+    praises the glorious Day-God, and arms himself anew.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 55363-55370
+  quote_or_summary: The giant’s charioteer urges foaming steeds forward; Rakshas and
+    Vanar forces stand armed and watch the battle in terror.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 55371-55374
+  quote_or_summary: The giant chief aims darts at Rama’s pennon, but their force is
+    stopped by the chariot made by heavenly hands.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 55375-55382
+  quote_or_summary: Rama draws his bow and sends a deadly arrow, compared to a huge
+    snake ablaze with light, at Ravana’s banner; the standard splits and falls.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 55383-55388
+  quote_or_summary: The giant shoots arrows hot with flames of fire at Rama’s steeds;
+    the heavenly steeds sustain the shower as though struck by soft lotus tendrils.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 55389-55397
+  quote_or_summary: By magic art, tree, mountain peak, and weapons fly toward Rama;
+    Rama, his steeds, and car escape, and the missiles crush a thousand Vanars.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are descriptive
+    and not linked to external comparison claims. No comparison claims were extracted
+    because the passage itself does not assert historical, linguistic, or intertextual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and source metadata. Taxonomy references were limited to available symbol references where directly supported by literal imagery.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l55357-l55397
+  passage_sha256=9177bbc499b233fe4c3f6a1bdc21f46ad964e3dfec01d93abb76ecd3a5a43d22
+

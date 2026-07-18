@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9514-l9531
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: I. STORY OF THE THREE BROTHERS. / II. QAUDJAQDJUQ. / IGIMARASUGDJUQDJUAQ
+    THE CANNIBAL. / THE WOMAN AND THE SPIRIT OF THE SINGING HOUSE.; lines 9514-9531
+  start: '9514'
+  end: '9531'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman enters a dark singing house despite warnings because she wants
+    to see the house spirit. She summons the spirit, who answers while remaining invisible.
+    She asks where each part of his body is, moving upward from feet to head. When
+    she touches the head, she dies; the head is described as having no bones and no
+    hair.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman entered the singing house when it was quite dark.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman had long wished to see the spirit of the house.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Inuit had warned the woman of impending danger, but she insisted on the
+    undertaking.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The woman summoned the spirit and said that if he was in the house he should
+    come to her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The spirit answered while still invisible, saying that he was present.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The woman asked the spirit about the locations of his body parts from feet
+    upward to head, and the spirit answered each time.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When the woman touched the spirit's head, she suddenly fell dead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The spirit's head is described as having no bones and no hair.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: woman
+  description: A woman who enters the dark singing house, summons the spirit, questions
+    him about his body, touches his head, and dies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: spirit of the singing house
+  description: An initially invisible house spirit who answers the woman's summons
+    and body-part questions; his head has no bones and no hair.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the Inuit
+  description: The people who warn the woman of impending danger before she enters
+    the singing house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: summoner and seeker of the spirit
+  assigned_to:
+  - fig:1
+  basis: The woman wished to see the spirit and summoned him in the singing house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: fatal contact victim
+  assigned_to:
+  - fig:1
+  basis: The woman fell dead when she touched the spirit's head.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: invisible house spirit
+  assigned_to:
+  - fig:2
+  basis: The spirit answered while invisible and was identified as the spirit of the
+    house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: warners of danger
+  assigned_to:
+  - fig:3
+  basis: The Inuit warned the woman of impending danger before her undertaking.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: dark singing house
+  literal_form: The singing house entered by the woman when it was quite dark.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: invisible house spirit
+  literal_form: A spirit present in the house who answers while unseen.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: boneless hairless head
+  literal_form: The spirit's head, touched by the woman, described as having no bones
+    and no hair.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: entry into the dark singing house
+  summary: The woman enters the singing house in darkness after wanting to see its
+    spirit and after being warned of danger.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: summoning and invisible reply
+  summary: The woman calls for the spirit to come if he is in the house; the spirit
+    answers that he is present, though she cannot see him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: body-part questioning and fatal touch
+  summary: The woman asks where the spirit's body parts are, ending with the head.
+    When she touches the head, she dies, and the head is described as lacking bones
+    and hair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dangerous encounter with an invisible house spirit
+  taxonomy_refs: []
+  basis: The woman enters the dark singing house to see its spirit, summons him, and
+    receives replies while he remains invisible.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives only this brief episode and does not explain the spirit's
+    wider identity or cultic context.
+- id: motif:2
+  label: warning ignored before supernatural danger
+  taxonomy_refs: []
+  basis: The Inuit warn the woman of impending danger, but she insists on entering
+    and later dies after contact with the spirit.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The warning is explicit, but the passage does not describe a formal prohibition
+    or taboo.
+- id: motif:3
+  label: body-part interrogation ending in fatal contact
+  taxonomy_refs: []
+  basis: The woman asks sequentially about the spirit's body parts from feet to head;
+    touching the head causes her sudden death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is identified as a passage-level pattern, not assigned to a supplied
+    comparative taxonomy family.
+- id: motif:4
+  label: dangerous desire to see a hidden spirit
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The woman has long wished to see the house spirit despite warnings of danger,
+    and the attempt culminates in death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a dangerous pursuit of hidden knowledge or sight,
+    but it does not state an explicit prohibition; taxonomy assignment should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9514-9520
+  quote_or_summary: The titled episode concerns a woman who enters the singing house
+    in darkness, having long wished to see its spirit, despite warnings from the Inuit
+    of impending danger.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 9521-9524
+  quote_or_summary: 'The woman summons the spirit: “If you are in the house, come
+    here”; though invisible, the spirit answers, “Here I am; there I am.”'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 9524-9530
+  quote_or_summary: The woman asks where the spirit's feet, shins, thighs, hips, loins,
+    belly, breast, shoulders, neck, and head are; the spirit answers each time that
+    the parts are here or there.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 9530-9531
+  quote_or_summary: "“in touching the head the woman all of a sudden fell dead. It
+    had no bones and no hair”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence because the passage is short and explicit.
+    Motif labels are passage-level candidates; the forbidden_knowledge taxonomy link
+    is plausible but requires review because no explicit taboo is stated. No external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. No comparison claims were added because the passage itself does not compare this episode with another tradition or corpus.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9514-l9531
+  passage_sha256=2d36b8b00235ec0c0023bb6bbbe520f4f55033aaef3fb0e87a957e1f953234ab
+

@@ -1,0 +1,135 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l9312-l9315
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 9312-9315
+  start: '9312'
+  end: '9315'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage defines Fate as that which compels a man’s death toward him;
+    Fate’s sole work is to follow the man until the day of his death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fate is described as compelling a man's death toward him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fate is said to have no other work except this function.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fate is described as following after the man until the day of his death.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage uses feminine reference for Fate.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Fate
+  description: A personified Fate that compels a man's death toward him and follows
+    him until his death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: that man
+  description: The man whose death is compelled toward him and whom Fate follows until
+    the day of his death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: death-compelling pursuer
+  assigned_to:
+  - fig:1
+  basis: Fate compels the man's death toward him and follows him until the day of
+    death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: death-bound human
+  assigned_to:
+  - fig:2
+  basis: The man is the one toward whom death is compelled and whom Fate follows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Fate follows a man toward death
+  summary: Fate’s work is described as compelling a man’s death toward him and following
+    him until the day he dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: personified Fate pursuing a human until death
+  taxonomy_refs: []
+  basis: The passage presents Fate as a feminine figure whose sole work is to bring
+    death toward a man and follow him until death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No broader narrative episode or available taxonomy family is directly
+    stated in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9312-9313
+  quote_or_summary: '"the Fate is (that) which compelleth his death toward him. This
+    is the work of the Fate"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9313-9315
+  quote_or_summary: '"she hath not other work except this, and is wont the Fate to
+    follow after that man ... until the day of his death"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labeling is limited because
+    the passage is a brief doctrinal statement rather than a full narrative scene.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no taxonomy reference was assigned because the available motif families do not directly match the brief passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l9312-l9315
+  passage_sha256=626b562bbb5c30f3adc014fa1c58b9c542f448e3835aeb4608305c0cfadf2cb3
+

@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l12542-l12674
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / THE BATTLE AT THE GRECIAN WALL. / BOOK XIII. / ARGUMENT.; lines
+    12542-12674
+  start: '12542'
+  end: '12674'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A god in human form is recognized as divine rather than Calchas, and Greek
+    heroes feel renewed strength. Neptune inspires the exhausted Greeks at the ships
+    with a speech rebuking shame and warning that Hector is at the wall. The Greeks
+    form a dense phalanx around the Ajaxes. Hector leads the Trojan charge, is compared
+    to a rock rolling down from a mountain, withstands attack, and exhorts the Trojans.
+    Deiphobus advances with his shield, and Merion's javelin breaks against it before
+    Merion retreats to get another weapon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker says that a god in human form descended in favor of the Greeks and
+    was not Calchas.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Greek heroes report divine energy, burning spirits, strengthened limbs,
+    and readiness to meet Hector.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Neptune inspires Greeks who are breathless, pale, tired, and gathered at the
+    ships while Troy presses over the walls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Neptune's speech rebukes Greek chiefs for disgrace, contrasts Achilles' grievance
+    with their shame, and urges them to save their country.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speech presents the gates and brazen barriers as breaking and Hector as
+    thundering at the wall at the decisive hour to conquer or fall.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Greeks respond to the speech; the Ajaxes hold their posts with close-ranked
+    squadrons, shields, armour, spears, and helms pressed together.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hector leads the Trojan charge and is compared to a rock fragment torn from
+    a mountain and driven downward by a torrent before stopping unmoved.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Hector stands under darts and falchions, shouts to his army, and says a supreme
+    god inspires Trojan arms.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Deiphobus advances behind his shield; Merion's javelin pierces the bull-hide
+    but breaks, and Merion returns toward the ships to seek another javelin.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Neptune, the god in human form
+  description: A deity identified as not Calchas and later named as Neptune, who inspires
+    and exhorts the Greeks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Ajax son of Telamon
+  description: A Greek hero who replies with ardor, says his soul is kindled and his
+    arm strengthened, and imagines meeting Hector.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Ajaxes
+  description: Two Greek leaders found fixed at their posts with well-ranged squadrons
+    around them.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: The Greek/Grecian forces
+  description: Routed and tired troops at the ships who receive new courage and form
+    a compact defensive line.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Hector
+  description: The leading Trojan chief at the wall, compared to a rolling rock, who
+    withstands attack and exhorts his army.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: The Trojan forces
+  description: The attacking army pressing over the Greek wall and later urged on
+    by Hector.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Deiphobus
+  description: A Trojan warrior who marches forward with an ample shield before him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Merion
+  description: A Greek warrior stirred by the god, who throws a javelin at Deiphobus
+    and then goes to seek another weapon.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:9
+  name_or_label: Named Greek warriors stirred by Neptune
+  description: Teucer, Leitus, Peneleus, Thoas, Deipyrus, Merion, and Nestor's son
+    are named among those excited to fight.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine inspirer and martial exhorter
+  assigned_to:
+  - fig:1
+  basis: The god in human form is recognized as divine, and Neptune inspires the routed
+    Greeks and awakens martial fire through speech.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: inspired Greek defender
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  - fig:9
+  basis: These Greek figures receive or express renewed ardor, courage, or battle-readiness
+    from the divine intervention.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:3
+  label: phalanx leaders at the post
+  assigned_to:
+  - fig:3
+  basis: The Ajaxes are fixed at their posts with squadrons strongly circled around
+    them in close order.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Trojan assault leader
+  assigned_to:
+  - fig:5
+  basis: Hector is first of Troy in the charge, appears at the wall, resists attacks,
+    and urges the Trojan army forward.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: attacking force
+  assigned_to:
+  - fig:6
+  basis: Troy is described as calling to conquest, swarming over the walls, and charging
+    first.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: advancing shield-bearer
+  assigned_to:
+  - fig:7
+  basis: Deiphobus marches forward while holding his ample shield before his steps.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: Greek javelin attacker
+  assigned_to:
+  - fig:8
+  basis: Merion aims a javelin at Deiphobus, but the point breaks after piercing the
+    shield's bull-hide.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: god in human form
+  literal_form: A god appearing in human form and mistaken for Calchas
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: martial fire
+  literal_form: 'Fire imagery for inspired courage: kindled soul, burning bosom, martial
+    fire, and godlike fire'
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:9
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Greek ships
+  literal_form: The ships or fleet where the Greeks pant and which the Trojans threaten
+    to burn
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: gates and brazen barriers
+  literal_form: Bursting gates and roaring brazen barriers at the Greek wall
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mountain rock and torrent
+  literal_form: A rock fragment torn from a mountain by a torrent, rolling and thundering
+    downward as an image for Hector
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: shield and broken spear
+  literal_form: Deiphobus's ample bull-hide shield and Merion's javelin whose point
+    breaks in the sand
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Recognition of divine aid
+  summary: A god in human form is recognized as not Calchas, and Greek heroes describe
+    newly felt divine strength and ardor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Neptune rallies the Greeks at the ships
+  summary: Neptune inspires the exhausted Greeks near the ships and rebukes them with
+    a speech about shame, country, burning ships, breached gates, and Hector at the
+    wall.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Compact Greek phalanx
+  summary: The Greeks catch the godlike fire and stand in close formation around the
+    Ajaxes, with armor, shields, spears, and helms packed together.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Hector's charge and exhortation
+  summary: Hector leads Troy's charge, is likened to a mountain rock driven downward
+    by a torrent, stands firm under attack, and urges the Trojans to break the Greek
+    array.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Merion's failed strike on Deiphobus
+  summary: Deiphobus advances under his shield; Merion's javelin strikes but breaks,
+    and Merion withdraws to obtain a stronger weapon.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divinity in human form aiding warriors
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage identifies a god in human form, distinguishes him from Calchas,
+    and then names Neptune as the power inspiring the Greeks.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt reports recognition of a divine human form but does not narrate
+    the full transformation or disguise episode.
+- id: motif:2
+  label: Divine inspiration as martial fire
+  taxonomy_refs: []
+  basis: Renewed courage is repeatedly described through kindling, burning breasts,
+    martial fire, and armies catching godlike fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The fire language is primarily figurative except for the threatened burning
+    of ships.
+- id: motif:3
+  label: Shame-and-fame exhortation before a last stand
+  taxonomy_refs: []
+  basis: Neptune's speech rebukes disgrace, invokes lost glory, urges defense of country,
+    and presents the moment as instant death or enduring infamy.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a battlefield exhortation within the passage; broader heroic-code
+    implications require comparison outside the excerpt.
+- id: motif:4
+  label: Warrior as unstoppable falling rock
+  taxonomy_refs: []
+  basis: Hector's charge is described through an extended image of a rock torn from
+    a mountain, gaining force, thundering down, and stopping unmoved.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an explicit simile rather than an independent narrated event.
+- id: motif:5
+  label: Weapon failure against a protected foe
+  taxonomy_refs: []
+  basis: Merion's javelin pierces Deiphobus's shield covering but breaks before passing
+    through, sparing the foe and forcing Merion to seek another weapon.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage gives a single instance and does not state a supernatural
+    cause for the weapon failure.
+comparison_claims:
+- id: claim:1
+  claim: The god-in-human-form episode can be compared at the motif-family level to
+    the available shapeshifter category because a deity appears under human form and
+    acts among mortals.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe an explicit transformation; it only states
+    that the figure is a god in human form and later identifies the divine actor as
+    Neptune.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12542-12549
+  quote_or_summary: '"Some god, my friend, some god in human form" descends; the speaker
+    says it is "Not Calchas" and that evidence reveals a god.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 12550-12566
+  quote_or_summary: Telamon replies that his soul is kindled, his bosom burns, his
+    limbs and arm are braced, and he imagines meeting Hector alone.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12567-12583
+  quote_or_summary: Neptune inspires routed, breathless Greeks at the ships while
+    Troy presses over yielding walls; several named Greek warriors receive bold ardor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12584-12623
+  quote_or_summary: Neptune rebukes the Greeks for disgrace and cowardice, tells them
+    Achilles' grievance is not their cause, warns of ships in flame and bursting gates,
+    and frames the hour as "to conquer, or to fall."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized with brief quotation.
+- id: ev:5
+  type: summary
+  locator: lines 12624-12641
+  quote_or_summary: The Greeks' hearts are inspired; armies catch godlike fire; the
+    Ajaxes hold their posts amid a close phalanx of interlocked shields, armor, spears,
+    and helms.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12642-12653
+  quote_or_summary: Hector leads Troy's charge and is compared to a rock fragment
+    torn from a mountain by a torrent, rolling, smoking, thundering downward, and
+    then stopping unmoved.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12654-12662
+  quote_or_summary: Darts and falchions gather around Hector; he stands firm, shouts
+    to the Trojans, promises to break the Greek array, and says the first of gods
+    inspires Trojan arms.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 12663-12674
+  quote_or_summary: Deiphobus advances with shield raised; Merion's javelin pierces
+    the bull-hide but breaks, and Merion retreats toward the ships to find a surer
+    javelin.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the provided passage. Motif labels are passage-level
+    candidates and should be reviewed, especially the mapping of divine human form
+    to the shapeshifter family and the treatment of figurative fire as symbolic imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external context was used beyond the supplied metadata and passage text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l12542-l12674
+  passage_sha256=9c572ba8604ac180d09ec0b9139d38bde3a76e4ffa702b98a88c9e7b6c99a26e
+

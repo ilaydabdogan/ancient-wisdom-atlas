@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l1868-l1964
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: MIRTS-TZ, AND HIS SON ZOHK / KAVAH, THE BLACKSMITH / FERIDN / FERIDN AND
+    HIS THREE SONS; lines 1868-1964
+  start: '1868'
+  end: '1964'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Feridn arranges marriages between his three sons and the three daughters
+    of the King of Yemen, then divides his empire among the sons. Slim and Tr resent
+    that Irij receives Persia, described as the best portion, and they send a threatening
+    message. Feridn counsels peace and warns Irij, who chooses to renounce throne
+    and dominion rather than fight his brothers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Feridn has three sons named Slim, Tr, and Irij.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Feridn sends Chundel to seek three daughters born of the same parents so that
+    his sons may marry into one family.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chundel finds three suitable daughters of Sar, King of Yemen; Feridn's sons
+    marry them and receive dowries.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'Feridn divides his empire: Slim receives Rm and Khwer, Tr receives Trn, and
+    Irij receives Irn or Persia.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage describes Persia as beautiful and fresh, while Trn is described
+    as less cultivated and troubled by broils and insurrections.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Slim is dissatisfied with the partition and complains to Tr that Irij received
+    the most delightful and productive kingdom.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Tr agrees with Slim and the two decide to act together to deprive Irij of
+    his dominions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A messenger sent by Slim threatens Feridn that troops from Trn, Rm, and Chn
+    will ruin Irij and Persia unless Irij receives a humbler portion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Feridn replies that he gave kingdoms, urges fear of God, and counsels contentment
+    and peace rather than strife.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Feridn tells Irij that his two older brothers have confederated, threaten
+    to invade, seize his kingdom, and put him to death.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Feridn advises Irij not to fight because he cannot resist both brothers and
+    because Feridn is aged and seeks repose.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Irij declares that he would sacrifice his throne and diadem rather than go
+    to war with his brothers.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Irij resolves to go to his brothers, place his kingdom at their disposal,
+    and seek peace and affection.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Feridn
+  description: Father of Slim, Tr, and Irij; he arranges their marriages, divides
+    the empire, answers the brothers' threat, and counsels Irij toward peace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Chundel
+  description: A learned person sent by Feridn to find three suitable daughters for
+    Feridn's sons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Slim
+  description: One of Feridn's sons; he receives Rm and Khwer, becomes dissatisfied,
+    and initiates complaint against Irij's portion.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Tr
+  description: One of Feridn's sons; he receives Trn, agrees with Slim's complaint,
+    and joins the plan against Irij.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Irij
+  description: Feridn's third and younger son; he receives Irn or Persia and chooses
+    to yield throne and kingdom rather than fight his brothers.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Sar, King of Yemen
+  description: King of Yemen and father of the three daughters whom Feridn's sons
+    marry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Three daughters of the King of Yemen
+  description: Three sisters, born of the same father and mother, who marry Feridn's
+    three sons and receive splendid dowries.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Messenger sent to Feridn
+  description: Envoy who carries Slim and Tr's dissatisfaction and threat to Feridn.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: father-king and divider of empire
+  assigned_to:
+  - fig:1
+  basis: Feridn has three sons, arranges their marriages, allocates kingdoms to them,
+    and later counsels peace.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:2
+  label: marriage envoy
+  assigned_to:
+  - fig:2
+  basis: Chundel is sent to search for three daughters suitable for Feridn's sons.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: bride-giving king
+  assigned_to:
+  - fig:6
+  basis: Sar is the King of Yemen and father of the three daughters whose marriages
+    to Feridn's sons are agreed.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: royal sons and heirs
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Slim, Tr, and Irij are Feridn's sons and each receives a kingdom or realm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: confederated discontented brothers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Slim and Tr object to the distribution and unite in a plan to deprive Irij
+    of dominion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: threatened peace-seeking heir
+  assigned_to:
+  - fig:5
+  basis: Irij is warned that his brothers threaten him, and he chooses to give up
+    throne and dominion rather than wage war.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: threat-bearing court messenger
+  assigned_to:
+  - fig:8
+  basis: The messenger delivers the brothers' demand and military threat to Feridn.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: sister brides
+  assigned_to:
+  - fig:7
+  basis: The three daughters of Sar marry Feridn's three sons.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: number three in dynastic pairing
+  literal_form: three sons paired with three daughters born of the same parents
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divided royal portions
+  literal_form: Rm and Khwer; Trn; Irn or Persia as allotted realms
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: throne and diadem
+  literal_form: throne and diadem that Irij is willing to sacrifice
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: mountains of Trn
+  literal_form: mountains of Trn invoked as the source of troops in the threat
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Persia as garden of spring
+  literal_form: Persia described as a beautiful country and garden of spring, full
+    of freshness and perfume
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Search for three brides
+  summary: Feridn sends Chundel to find three sisters for his sons; Chundel finds
+    Sar's daughters in Yemen, and the marriages take place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Partition of the empire
+  summary: Feridn allocates realms to his sons, assigning Rm and Khwer to Slim, Trn
+    to Tr, and Irn or Persia to Irij.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Brothers' resentment and threat
+  summary: Slim and Tr resent Irij's superior portion, decide to deprive him of it,
+    and send a messenger to Feridn with a military threat.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Feridn's rebuke and peace counsel
+  summary: Feridn answers the messenger by denying wrongdoing, invoking God, and urging
+    his sons to accept their lots and keep peace.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Irij warned and renounces conflict
+  summary: Feridn warns Irij of his brothers' confederacy and advises peace; Irij
+    chooses to surrender throne and kingdom rather than fight.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: threefold dynastic marriage alliance
+  taxonomy_refs: []
+  basis: The father arranges for three sons to marry three sisters from one royal
+    household.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents the marriages as dynastic and familial; it does not
+    describe them as sacred marriages.
+- id: motif:2
+  label: partition of a royal realm among heirs
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Feridn distributes named territories among his sons, creating the political
+    framework for competing claims.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain formal succession law beyond the father's
+    allocation.
+- id: motif:3
+  label: sibling rivalry over unequal inheritance
+  taxonomy_refs: []
+  basis: Slim and Tr resent Irij's more desirable kingdom, ally together, and threaten
+    to seize or ruin his portion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy has no exact sibling-rivalry family; the conflict
+    involves three brothers, with two acting together against one.
+- id: motif:4
+  label: renunciation of kingship to avoid fraternal war
+  taxonomy_refs:
+  - sacrifice
+  basis: Irij states that he will sacrifice throne and diadem, place his kingdom at
+    his brothers' disposal, and seek peace rather than war.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is political self-renunciation, not a ritual sacrifice or death scene
+    in the supplied passage.
+- id: motif:5
+  label: fatherly counsel against unnatural strife
+  taxonomy_refs:
+  - wisdom
+  basis: Feridn responds to rebellion and danger by counseling fear of God, contentment,
+    peace, and abandonment of dominion.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The wisdom motif is limited to counsel and moral advice within a dynastic
+    crisis.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage can be compared at the level of function to a royal-legitimacy
+    inheritance-conflict pattern: territorial allotments define heirs'' claims, and
+    perceived unfairness triggers political conflict.'
+  claim_level: same_function
+  target: royal_legitimacy motif family / inheritance-conflict pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage does not state an external parallel, historical
+    contact, or broader comparative tradition; this is a taxonomic comparison only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: supplied passage, lines 1868-1964; opening marriage-arrangement section
+  quote_or_summary: Feridn has three sons; he sends Chundel to find three daughters
+    born of the same parents, finds King Sar of Yemen's three daughters, and the sons
+    marry them with dowries.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:2
+  type: summary
+  locator: supplied passage, lines 1868-1964; empire-division section
+  quote_or_summary: 'Feridn divides the empire: Slim receives Rm and Khwer, Tr receives
+    Trn, and Irij receives Irn or Persia; Persia is described as beautiful and fresh,
+    while Trn is less cultivated and turbulent.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:3
+  type: summary
+  locator: supplied passage, lines 1868-1964; Slim's complaint to Tr
+  quote_or_summary: Slim complains to Tr that Irij received the most delightful kingdom
+    while they received wild regions; Tr concurs, and the brothers seek to deprive
+    Irij of dominion.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:4
+  type: summary
+  locator: supplied passage, lines 1868-1964; threatening message to Feridn
+  quote_or_summary: Slim's messenger tells Feridn to give Irij a humbler portion or
+    troops from Trn, Rm, and Chn will bring disgrace and ruin on Irij and Persia.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:5
+  type: summary
+  locator: supplied passage, lines 1868-1964; Feridn's reply to the messenger
+  quote_or_summary: Feridn replies that he gave kingdoms, urges fear of God, contentment
+    with their lot, and peace rather than unnatural strife.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:6
+  type: summary
+  locator: supplied passage, lines 1868-1964; Feridn warns Irij
+  quote_or_summary: Feridn tells Irij the two older brothers have confederated and
+    threaten to invade, seize his kingdom, and put him to death, and will wage war
+    on Feridn if he takes Irij's part.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:7
+  type: summary
+  locator: supplied passage, lines 1868-1964; Feridn's counsel to Irij
+  quote_or_summary: Feridn says Irij cannot resist both brothers, says he himself
+    is aged and wants repose, and advises Irij to follow peace and abandon desire
+    for dominion.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:8
+  type: summary
+  locator: supplied passage, lines 1868-1964; Irij's response and resolution
+  quote_or_summary: Irij agrees to sacrifice throne and diadem rather than fight;
+    he reflects on the brevity of life and resolves to go to his brothers, offering
+    his kingdom and seeking peace.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary derived from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and figures are clear in the supplied passage. Motif taxonomy
+    assignments are cautious, especially where broad categories such as sacrifice
+    and wisdom are used for political renunciation and counsel rather than ritual
+    or doctrinal scenes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names and place spellings are retained as supplied in the passage. No historical-contact claims are made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l1868-l1964
+  passage_sha256=ee54237ec71acee51c483d2f1d3274fb85bbcdb588315bf6d3ea508493f3051c
+

@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l306-l381
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: STELE ON WHICH IS CUT THE SPEECH OF AMEN-RA                          107
+    / STELE ON WHICH IS CUT THE AUTOBIOGRAPHY OF THAIEMHETEP               150 / THE
+    LITERATURE OF THE ANCIENT EGYPTIANS / CHAPTER I; lines 306-381
+  start: '306'
+  end: '381'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Chapter I on Thoth and Egyptian writing. It describes
+    Egyptian scripts, attributes writing, numbers, astronomy, arts, books, record-keeping,
+    and wisdom to Thoth, and states that sacred hieroglyphic religious texts were
+    believed to help the dead. It recounts Thoth as judge in the heavenly trial of
+    Osiris and Set and as presider over the weighing of the heart at the Great Judgment.
+    It also describes the Books of Thoth, inspired scribes, Thoth’s ibis-headed form,
+    his companion Asten, and Thoth’s enduring role as righteous judge and law-framer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ancient Egyptian literature is described as written over about four thousand
+    years in hieroglyphic, hieratic, and demotic scripts.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Egyptian writing was believed to have been invented by Thoth, and hieroglyphs
+    were regarded as holy, divine, or sacred.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Certain religious texts were believed to possess special virtue when written
+    in hieroglyphs, and texts attributed to Thoth were believed to benefit the dead
+    when placed in coffins.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Thoth is said to have invented numbers, fixed the courses of the sun, moon,
+    and stars, ordered the seasons, and possessed heavenly and earthly knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Thoth is described as the maker of books, skilled scribe, clerk of the gods,
+    and keeper of registers recording human deeds.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Because of his deep knowledge, Thoth was assigned the role of Chief Judge
+    of the dead.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A legend says Thoth examined evidence in a heavenly trial after Set accused
+    his twin-brother Osiris, and Thoth proved the charges false.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Egyptians prayed that Thoth would act for them as he did for Osiris and preside
+    over the weighing of the heart in the Balance at the Great Judgment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Important religious works were believed to have been composed by Thoth or
+    by holy scribes inspired by him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Late popular tradition is said to have numbered the Books of Thoth at 36,525,
+    and scribes who copied them were believed to possess the spirit of Thoth.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Thoth appears in papyri and monuments as an ibis-headed man, and his usual
+    companion is a dog-headed ape named Asten.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: In the Hall of the Great Judgment, Thoth writes the result of the heart-weighing
+    on a palette with a reed, and the gods reward or punish the soul according to
+    his report.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The passage states that Thoth’s position as righteous judge and framer of
+    laws for heaven, earth, humans, and gods remained unchanged throughout Egyptian
+    history.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thoth / Tehuti
+  description: God credited with inventing writing and numbers; lord of wisdom and
+    knowledge; maker of books; scribe and clerk of the gods; Chief Judge of the dead;
+    ibis-headed in representations.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Osiris
+  description: A god accused of crimes by his twin-brother Set in a heavenly trial;
+    Thoth proves that Osiris spoke truth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Set
+  description: Twin-brother of Osiris and god of evil; accuses Osiris, but Thoth proves
+    the charges untrue and Set a liar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Asten
+  description: Dog-headed ape usually shown as the companion of Thoth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Dead person / soul
+  description: The person whose heart is weighed in the Balance at the Great Judgment;
+    souls are rewarded or punished according to Thoth’s report.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: The gods
+  description: Divine assembly that accepts Thoth’s report without question and rewards
+    the good soul or punishes the bad soul.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:7
+  name_or_label: Scribes / holy scribes
+  description: Writers who studied and copied Thoth’s books; important religious works
+    were attributed either to Thoth or to holy scribes inspired by him.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine inventor of writing and numbers
+  assigned_to:
+  - fig:1
+  basis: The passage says Egyptian writing and the science of numbers were believed
+    to have been invented by Thoth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: lord of wisdom and possessor of knowledge
+  assigned_to:
+  - fig:1
+  basis: Thoth is called lord of wisdom and possessor of heavenly, earthly, divine,
+    and human knowledge.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine scribe and record-keeper
+  assigned_to:
+  - fig:1
+  basis: Thoth is described as maker of books, skilled scribe, clerk of the gods,
+    and keeper of registers of human deeds.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: judge of the dead and law-framer
+  assigned_to:
+  - fig:1
+  basis: The passage assigns Thoth the positions of Chief Judge of the dead, righteous
+    judge, presider over the heart-weighing, and framer of laws.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: vindicated accused god
+  assigned_to:
+  - fig:2
+  basis: Osiris is accused by Set, but Thoth proves the charges untrue and confirms
+    Osiris spoke truth.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: false accuser and hostile twin-brother
+  assigned_to:
+  - fig:3
+  basis: Set is named as Osiris’s twin-brother and god of evil; his accusations are
+    declared false.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: companion of Thoth
+  assigned_to:
+  - fig:4
+  basis: Asten is identified as the dog-headed ape usually accompanying Thoth.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: judged soul
+  assigned_to:
+  - fig:5
+  basis: The dead person’s heart is weighed in the Balance, and the soul is rewarded
+    or punished according to Thoth’s report.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:9
+  label: divine adjudicating assembly
+  assigned_to:
+  - fig:6
+  basis: The gods accept Thoth’s report and reward or punish the soul accordingly.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: inspired custodians and copyists of sacred books
+  assigned_to:
+  - fig:7
+  basis: Holy scribes are said to be inspired by Thoth, and scribes who studied and
+    copied the Books of Thoth were honored because his spirit was believed to dwell
+    in them.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sacred hieroglyphs
+  literal_form: picture characters / hieroglyphs
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Books of Thoth
+  literal_form: the Books of Thoth, numbered in late tradition as 36,525
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Heart in the Balance
+  literal_form: the heart of the dead man weighed in the Balance
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Reed and palette
+  literal_form: reed and palette used by Thoth to write the result of the weighing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Ibis-headed form
+  literal_form: Thoth appearing as an ibis-headed man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Dog-headed ape companion
+  literal_form: Asten as a dog-headed ape
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sacred origin and use of writing
+  summary: Writing is attributed to Thoth; hieroglyphs are treated as sacred, and
+    religious texts written in them are believed to help the dead when placed in coffins.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thoth as cosmic organizer and divine scribe
+  summary: Thoth invents numbers, orders celestial courses and seasons, possesses
+    wisdom and knowledge, makes books, and keeps registers of human deeds for the
+    gods.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Heavenly trial of Osiris and Set
+  summary: Set accuses his twin-brother Osiris; Thoth examines the evidence, disproves
+    the charges, confirms Osiris’s truthfulness, and exposes Set’s falsehood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Great Judgment and heart-weighing
+  summary: Egyptians pray that Thoth will act for them at the Great Judgment as he
+    did for Osiris; in the Hall of the Great Judgment he writes the result of the
+    heart-weighing, and the gods reward or punish the soul accordingly.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:5
+  label: Books of Thoth and honored scribes
+  summary: Religious works are attributed to Thoth or to scribes inspired by him;
+    the Books of Thoth are revered, and scribes who study and copy them are honored
+    because Thoth’s spirit is believed to dwell in them.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine source of writing and wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage attributes writing, numbers, books, knowledge, and wisdom to
+    Thoth and treats Thoth-associated books as sources of deep wisdom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an expository summary rather than a narrative episode.
+- id: motif:2
+  label: Sacred texts aiding the dead
+  taxonomy_refs: []
+  basis: Religious texts written in hieroglyphs and attributed to Thoth are said to
+    possess virtue and benefit the dead when buried in coffins.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states benefit to the dead but does not describe a detailed
+    afterlife journey.
+- id: motif:3
+  label: Judgment of the dead by heart-weighing
+  taxonomy_refs:
+  - divine_judgment
+  basis: Thoth is Chief Judge of the dead, presides over the weighing of the heart
+    in the Balance, writes the result, and the gods reward or punish the soul according
+    to his report.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The procedure is summarized, not narrated as a full judgment scene for
+    a named deceased person.
+- id: motif:4
+  label: Divine scribe records deeds and judgment
+  taxonomy_refs:
+  - wisdom
+  - divine_judgment
+  basis: Thoth keeps registers of human deeds and writes the result of the weighing
+    in the Hall of the Great Judgment.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage links scribal record-keeping and judgment, but gives few details
+    about the registers.
+- id: motif:5
+  label: Antagonistic divine twin-brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: Osiris and Set are identified as twin-brothers, with Set accusing Osiris
+    in a heavenly trial and Thoth proving Set’s charges false.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The sibling relationship is mentioned briefly and serves the judgment
+    motif rather than a full twin narrative in this passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly presents Thoth’s desired role for an Egyptian at
+    the Great Judgment as the same kind of role he performed for Osiris in the heavenly
+    trial: a truth-finding divine adjudicator whose decision affects vindication or
+    judgment.'
+  claim_level: same_function
+  target: Thoth’s role in Osiris’s heavenly trial and in the individual dead person’s
+    Great Judgment
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the passage; it does not establish
+    historical contact or comparison with another tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 323-339
+  quote_or_summary: The passage describes Egyptian literature and scripts, says writing
+    was believed invented by Thoth, treats hieroglyphs as sacred, and says certain
+    hieroglyphic religious texts attributed to Thoth benefited the dead when buried
+    with them.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 339-346
+  quote_or_summary: Thoth is said to have invented numbers, fixed the courses of the
+    sun, moon, and stars, ordered seasons, possessed all knowledge, authored arts,
+    made books, served as skilled scribe and clerk of the gods, and kept records of
+    human deeds.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 347-357
+  quote_or_summary: Thoth’s knowledge lets him find truth, so Egyptians assign him
+    as Chief Judge of the dead. In a heavenly trial, Osiris is accused by his twin-brother
+    Set; Thoth examines evidence, proves the charges untrue, and Egyptians pray he
+    will preside over their heart-weighing at the Great Judgment.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 358-369
+  quote_or_summary: Important religious works are believed to have been composed by
+    Thoth or inspired scribes; such books are sources of deep wisdom. Late tradition
+    numbers the Books of Thoth at 36,525, and scribes who copied them are honored
+    because Thoth’s spirit was believed to dwell in them.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 370-381
+  quote_or_summary: The scribe’s profession is praised. Thoth is shown as an ibis-headed
+    man with Asten, a dog-headed ape. In the Hall of the Great Judgment, he writes
+    on a palette with a reed the result of the heart-weighing; the gods accept his
+    report and reward or punish the soul. Thoth remains righteous judge and law-framer.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary prepared for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are limited
+    to directly stated functions and objects; the sibling-pair motif is medium confidence
+    because it is only briefly mentioned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is directly present in the passage; symbol taxonomy references are therefore left empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l306-l381
+  passage_sha256=8f06d103f8e645715d83cbe93fa74fa0b9b82071fcd5d51d28e11278b880fadd
+

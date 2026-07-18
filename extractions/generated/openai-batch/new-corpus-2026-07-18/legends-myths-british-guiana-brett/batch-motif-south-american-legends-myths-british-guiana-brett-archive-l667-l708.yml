@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l667-l708
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: OF THE SUPREME BEING. / ABORIGINAL TRIBES OF GUIANA. / ORIGIN OF LIVING CREATURES.
+    / LEGENDS AND MYTHS OF THE; lines 667-708
+  start: '667'
+  end: '708'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: |-
+    Taught the native arts you see :
+
+    Hunting, fishing, husbandry.
+  summary: The passage describes living creatures appearing in water, air, and on
+    land; men and women being raised by the Great Maker; an early time when people
+    ate fruit, drank water, and did not kill animals; and the ancestral Wadili taking
+    maidens as wives and teaching hunting, fishing, and husbandry.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In the stream where woody fragments were, shining fishes dart and gleam.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Other beings move through the air with wings and feathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Beasts and reptiles are found on solid ground and on the river's marshy strand,
+    spreading to fill the land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Men and women stand upright and are raised by the Great Maker's hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Wild fruits are described as the first human food, and water as the sole human
+    drink.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: No hunters roam the wood, and no one takes life away in the early period described.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Beasts and birds play with young children day by day.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Wadili comes to earth, sees maidens, feels love, and takes them as wives.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Wadili teaches hunting, fishing, and husbandry.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Shining fishes
+  description: Fishes that dart and gleam in the stream where woody fragments were.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Winged and feathered beings / birds
+  description: Beings that sport through the air with wings and feathers; later named
+    among the birds that play with children.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Beasts and reptiles
+  description: Creatures found on solid ground or the river's marshy strand, spreading
+    to fill the land; beasts later play with children.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Men and women
+  description: Humans who stand upright and are raised by the Great Maker's hand.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Great Maker
+  description: The figure whose hand raises men and women upright.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Young children
+  description: Children who play day by day with beasts and birds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Wadili
+  description: Called "our sire," young and brave; comes to earth, takes maidens as
+    wives, and teaches native arts.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Maidens
+  description: Maidens seen by Wadili and taken as his wives.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: living creature group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage lists fishes, winged beings, beasts, and reptiles as creatures
+    occupying water, air, ground, and marsh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: created upright humans
+  assigned_to:
+  - fig:4
+  basis: Men and women are said to stand upright and to be raised by the Great Maker's
+    hand.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: maker of humans
+  assigned_to:
+  - fig:5
+  basis: The Great Maker's hand raises men and women.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ancestral sire
+  assigned_to:
+  - fig:7
+  basis: Wadili is introduced as "our sire" who comes to earth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: peaceful companions of children
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: Beasts and birds are said to sport and play with young children day by day.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: teacher of native arts
+  assigned_to:
+  - fig:7
+  basis: Wadili teaches hunting, fishing, and husbandry.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: wives of Wadili
+  assigned_to:
+  - fig:8
+  basis: The maidens are taken by Wadili as wives.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: stream, river, and drinking water
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: woody fragments
+  literal_form: woody fragments in the stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: wild fruits
+  literal_form: wild fruits as first human food
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Maker's hand
+  literal_form: the Great Maker's hand raising men and women
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Creatures occupy water, air, and land
+  summary: Fishes appear in the stream, winged and feathered beings move through the
+    air, and beasts and reptiles spread over solid and marshy land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human making and peaceful early life
+  summary: Men and women are raised by the Great Maker; early human food is fruit
+    and water, no hunting or killing occurs, and animals play with children.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wadili marries and teaches arts
+  summary: Wadili, called the people's sire, comes to earth, takes maidens as wives,
+    and teaches hunting, fishing, and husbandry.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Origin of living creatures across water, air, and land
+  taxonomy_refs: []
+  basis: The passage enumerates fishes in the stream, winged beings in the air, and
+    beasts and reptiles on land and marsh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The antecedent of "those" and the full origin mechanism are partly outside
+    the supplied passage.
+- id: motif:2
+  label: Human creation by a Great Maker
+  taxonomy_refs: []
+  basis: Men and women are described as standing upright after being raised by the
+    Great Maker's hand.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not provide details of the making beyond the image of
+    being raised by the Maker's hand.
+- id: motif:3
+  label: Early nonviolent age of fruit and water
+  taxonomy_refs: []
+  basis: The passage says early humans ate wild fruit, drank water, did not hunt,
+    did not take life, and lived alongside animals that played with children.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader cosmological period name is given in the passage.
+- id: motif:4
+  label: Ancestral culture teacher introduces subsistence arts
+  taxonomy_refs:
+  - culture_hero
+  basis: Wadili is called "our sire" and teaches hunting, fishing, and husbandry after
+    coming to earth and marrying maidens.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents Wadili as an ancestral teacher, but does not label
+    him with an explicit mythological title such as culture hero.
+comparison_claims:
+- id: claim:1
+  claim: Wadili has the same narrative function as a culture-hero figure insofar as
+    he is an ancestral sire who teaches core subsistence arts.
+  claim_level: same_function
+  target: culture_hero motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional motif comparison only; the passage does not support
+    claims of historical contact, common inheritance, or a named external parallel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 667-678
+  quote_or_summary: '"Shining fishes dart and gleam" in the stream where "woody fragments
+    were"; others sport through the air with wings and feathers.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 679-686
+  quote_or_summary: Beasts and reptiles are found on solid ground and the river's
+    marshy strand, spreading to fill the land; men and women stand upright, raised
+    by the Great Maker's hand.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 687-698
+  quote_or_summary: Early humans eat wild fruits and drink only water; no hunters
+    roam the wood, no one takes life, and beasts and birds play with young children.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 699-708
+  quote_or_summary: Wadili, called "our sire," comes to earth, takes maidens as wives,
+    and "Taught the native arts" of hunting, fishing, and husbandry.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the supplied range begins mid-sequence,
+    so the antecedent of "those" and the full context of the woody fragments are not
+    available here. Motif labels remain provisional.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata identifies this as an English missionary verse retelling of Guiana Amerindian oral traditions; no external parallels were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l667-l708
+  passage_sha256=787521f775152cc431f2e852e01a34aba0fabe627b4afb0f57c58f479c57035f
+

@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l20909-l20966
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: ARGUMENT. / BOOK XXII. / ARGUMENT. / THE DEATH OF HECTOR.; lines 20909-20966
+  start: '20909'
+  end: '20966'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A mourning wife laments her dead husband, her own desolation, and the future
+    vulnerability of their only child, Astyanax. She imagines the child losing protection,
+    inheritance, and welcome after his father’s death. She then addresses Hector’s
+    exposed body and orders woven garments burned as an honor for the living rather
+    than useful service to the dead. The surrounding matrons respond with shared lamentation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker describes her husband as dead and gone to the dismal realms, while
+    she remains abandoned and alone.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says an only child remains as the product of the marriage and
+    will no longer have his father’s smile, help, or defense.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker imagines the child losing paternal friends, patrimonial land,
+    food, and social welcome after his father is sent to the shades.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The child is named Astyanax and is associated with well-guarded walls, but
+    the speaker says the name no longer fits because his father no longer guards Troy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hector lies exposed in the open air, far from the care of his parents and
+    consort.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker refers to a martial scarf and robe of triumph that her hand wove
+    and commands them to be given to devouring flames.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker calls the burning of the garments a sacrifice and says it is an
+    honor to the living, not the dead.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The matrons hear the mournful speaker and answer her grief with sighs and
+    tears.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mournful dame
+  description: The female speaker who laments her husband, her own abandonment, and
+    the future of her child.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hector
+  description: The dead husband addressed by the speaker; he is described as gone
+    to the dismal realms and lying exposed in air.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Astyanax
+  description: The only child of the speaker and Hector, imagined as orphaned, insulted,
+    and returning to his widowed mother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: matrons
+  description: Women who hear the speaker and respond with sighs and tears.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ation
+  description: The speaker names Ation in connection with her birth and former tender
+    care.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Priam
+  description: Priam is named through reference to his roof, under a baneful star.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: mourning wife
+  assigned_to:
+  - fig:1
+  basis: She addresses her dead husband and speaks as his abandoned consort.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: widowed mother
+  assigned_to:
+  - fig:1
+  basis: She speaks of the only child who remains and imagines him returning to his
+    widowed mother.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: dead husband
+  assigned_to:
+  - fig:2
+  basis: The speaker calls him her dead husband and a ghost gone to the dismal realms.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: fallen defender of Troy
+  assigned_to:
+  - fig:2
+  basis: The speaker says the child’s name no longer fits because his father no longer
+    guards Troy.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: orphaned child
+  assigned_to:
+  - fig:3
+  basis: The child is described as left without a father to help or defend him and
+    as vulnerable to future wrongs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: mourning attendants
+  assigned_to:
+  - fig:4
+  basis: The matrons hear the lament and answer with sighs and tears.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: parent named by the speaker
+  assigned_to:
+  - fig:5
+  basis: The speaker asks why her birth was owed to Ation and why tender care was
+    bestowed.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: dismal realms and shades
+  literal_form: underworld or realm of the dead, named as dismal realms and shades
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: devouring flames
+  literal_form: flames used to consume the martial scarf and robe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: martial scarf and robe of triumph
+  literal_form: woven garments formerly made for Hector
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: paternal roof and patrimonial field
+  literal_form: father’s house and inherited field imagined as lost or occupied by
+    a stranger
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: well-guarded walls
+  literal_form: walls of Ilion associated with the name Astyanax and Hector’s protection
+    of Troy
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lament for the dead husband
+  summary: The speaker laments that her husband is dead and gone to the dismal realms
+    while she remains abandoned with their only child.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imagined future of the orphan
+  summary: The speaker imagines the child deprived of paternal protection, friends,
+    inheritance, food, and welcome, and returning in tears to his widowed mother.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Name Astyanax loses its basis
+  summary: The speaker recalls that Ilion calls the child Astyanax from its guarded
+    walls, but says the name is no longer fitting because Hector no longer guards
+    Troy.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Garments consigned to fire
+  summary: The speaker addresses Hector’s exposed body and directs the scarf and robe
+    she wove to be burned as a sacrifice and honor to the living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Communal mourning
+  summary: The matrons hear the mournful speaker and respond with sighs and tears.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: widow’s lament over fallen husband
+  taxonomy_refs: []
+  basis: The speaker addresses her dead husband, describes herself as abandoned, and
+    grieves his exposed body.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif label, not one of the supplied taxonomy
+    families.
+- id: motif:2
+  label: orphan deprived of paternal protection
+  taxonomy_refs: []
+  basis: The passage repeatedly imagines the child without fatherly defense, inheritance,
+    food, social regard, or paternal friends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is inferred from the speaker’s projected future for the child
+    within the passage.
+- id: motif:3
+  label: dead person sent to shades
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The dead husband is said to have gone to the dismal realms, and the father’s
+    death is described as being sent to the shades.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage names the realm of the dead but does not narrate a detailed
+    afterlife journey.
+- id: motif:4
+  label: funerary burning of garments as sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The speaker orders the scarf and robe to be prey to devouring flames and
+    explicitly calls the act a sacrifice and an honor to the living.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames the act as for the living, not useful to the dead.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20909-20924
+  quote_or_summary: The speaker recalls a shared unhappy fate, names Ation and Priam,
+    addresses the ghost of her dead husband gone to the dismal realms, and says she
+    is abandoned with only one child remaining.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 20925-20943
+  quote_or_summary: The speaker imagines the fatherless child losing paternal friends,
+    being expelled from his roof, seeing a stranger plough his patrimonial field,
+    depending on inadequate charity, and being rejected by those who still have both
+    parents.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 20944-20954
+  quote_or_summary: The child appears to the speaker’s sad soul as Astyanax, returning
+    to his widowed mother after insults; he was formerly delicately bred, but his
+    name is said to fail now that his father no longer guards Troy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 20955-20962
+  quote_or_summary: The speaker says Hector lies exposed in air, far from parental
+    and consort care; she directs the martial scarf and robe of triumph she wove to
+    be consumed by flames as a sacrifice and honor to the living.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 20965-20966
+  quote_or_summary: The mournful dame speaks; the matrons hear her, sigh back, and
+    answer tear with tear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the lament, orphan imagery, exposed corpse,
+    and burning of garments. Motif taxonomy links are limited to direct passage cues
+    such as shades, fire, and explicit sacrifice. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; no external Iliad context added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l20909-l20966
+  passage_sha256=037768f5e04fea2612e52119990bf4e955d10a816df9ac13c9e8c485f6d8f034
+

@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l2432-l2440
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Footnotes / Chapter 29 / Chapter 30 / Chapter 31; lines 2432-2440
+  start: '2432'
+  end: '2440'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“to make atonement for our souls before Yahweh”"
+  summary: Men present gold ornaments taken as booty as Yahweh’s offering. Moses and
+    Eleazar receive the gold, including worked jewels, and bring the gold from the
+    captains into the Tent of Meeting as a memorial before Yahweh for the children
+    of Israel.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Men state that they have brought Yahweh’s offering from items each man found,
+    including gold ornaments and jewelry.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated purpose of the offering is to make atonement for their souls before
+    Yahweh.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Moses and Eleazar the priest take the gold and worked jewels.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gold is described as a wave offering offered up to Yahweh by captains
+    of thousands and captains of hundreds.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The amount of gold in the wave offering is sixteen thousand seven hundred
+    fifty shekels.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The men of war had taken booty for themselves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Moses and Eleazar bring the gold into the Tent of Meeting as a memorial for
+    the children of Israel before Yahweh.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Men bringing the offering
+  description: Men who report bringing Yahweh’s offering from what each man found.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Moses
+  description: Moses receives the gold with Eleazar and brings it into the Tent of
+    Meeting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Eleazar the priest
+  description: Eleazar the priest receives the gold with Moses and brings it into
+    the Tent of Meeting.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Yahweh
+  description: The deity before whom the atonement and memorial are presented.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Captains of thousands and captains of hundreds
+  description: Military captains whose gold is offered as a wave offering to Yahweh.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Men of war
+  description: Men of war who had taken booty, each for himself.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Children of Israel
+  description: The group for whom the gold is placed as a memorial before Yahweh.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: offerers
+  assigned_to:
+  - fig:1
+  basis: They say they have brought Yahweh’s offering from what each man found.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual receivers and depositors
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Moses and Eleazar take the gold and bring it into the Tent of Meeting.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: priest
+  assigned_to:
+  - fig:3
+  basis: Eleazar is explicitly called the priest.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine recipient
+  assigned_to:
+  - fig:4
+  basis: The offering is brought and offered up to Yahweh, and the memorial is placed
+    before Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:5
+  label: military leaders associated with the offering
+  assigned_to:
+  - fig:5
+  basis: The gold of the wave offering is attributed to the captains of thousands
+    and hundreds.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: booty takers
+  assigned_to:
+  - fig:6
+  basis: The men of war are said to have taken booty for themselves.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: memorial beneficiaries
+  assigned_to:
+  - fig:7
+  basis: The gold is placed as a memorial for the children of Israel before Yahweh.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gold ornaments and jewels
+  literal_form: Gold ornaments, armlets, bracelets, signet rings, earrings, necklaces,
+    and worked jewels.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: wave offering
+  literal_form: Gold presented as a wave offering offered up to Yahweh.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Tent of Meeting
+  literal_form: The Tent of Meeting, where the gold is brought.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: memorial before Yahweh
+  literal_form: Gold brought into the Tent of Meeting for a memorial for the children
+    of Israel before Yahweh.
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: booty
+  literal_form: Booty taken by the men of war, each for himself.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Offering of gold for atonement
+  summary: Men report bringing gold ornaments and jewelry as Yahweh’s offering in
+    order to make atonement for their souls before Yahweh.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reception and weighing of the wave offering
+  summary: Moses and Eleazar receive the gold and worked jewels, and the gold wave
+    offering from the captains is recorded as sixteen thousand seven hundred fifty
+    shekels.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Memorial deposit in the Tent of Meeting
+  summary: After noting that the men of war had taken booty for themselves, Moses
+    and Eleazar bring the captains’ gold into the Tent of Meeting as a memorial for
+    the children of Israel before Yahweh.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: atoning offering of precious goods
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Precious objects taken as booty are presented as Yahweh’s offering with the
+    stated purpose of atonement before Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a ritual offering and atonement, but does not elaborate
+    a broader exchange theory or mythic transaction.
+- id: motif:2
+  label: memorial deposit before the deity
+  taxonomy_refs: []
+  basis: The captains’ gold is brought into the Tent of Meeting as a memorial for
+    the children of Israel before Yahweh.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names memorial deposits; classification
+    remains descriptive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 31:50; lines 2432-2433
+  quote_or_summary: Men say they have brought Yahweh’s offering of gold ornaments
+    and jewelry “to make atonement for our souls before Yahweh.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: Numbers 31:51; line 2435
+  quote_or_summary: Moses and Eleazar the priest take the gold, including all worked
+    jewels.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Numbers 31:52; line 2437
+  quote_or_summary: The gold of the wave offering offered to Yahweh by captains of
+    thousands and hundreds totals sixteen thousand seven hundred fifty shekels.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Numbers 31:53; line 2439
+  quote_or_summary: The men of war had taken booty, each man for himself.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Numbers 31:54; line 2440
+  quote_or_summary: Moses and Eleazar bring the captains’ gold into the Tent of Meeting
+    as a memorial for the children of Israel before Yahweh.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are limited to directly supported ritual actions; no comparison claims are made
+    because the passage itself does not support comparison to another tradition or
+    corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy did not include the passage’s main literal objects, so symbol taxonomy references are empty.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l2432-l2440
+  passage_sha256=9022567af0bee99bc4968657308af6a45a2974e9b8ca1f69e7363990fff53e2a
+

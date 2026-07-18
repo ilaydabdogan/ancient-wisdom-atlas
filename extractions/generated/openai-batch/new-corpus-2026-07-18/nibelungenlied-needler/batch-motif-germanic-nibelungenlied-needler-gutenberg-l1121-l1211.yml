@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l1121-l1211
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: THE NIBELUNGENLIED. / THE NIBELUNGENLIED / I. THE NIBELUNGEN SAGA / II. THE
+    NIBELUNGENLIED; lines 1121-1211
+  start: '1121'
+  end: '1211'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: To us, in olden legends, / is many a marvel told
+  summary: The passage opens with a stanza announcing old legends of marvels, praise-worthy
+    heroes, labours, grief, festivals, and battles of bold knights. The remainder
+    is a prose discussion of English metrical translations and of the Nibelungen strophe,
+    describing its four long lines, caesurae, rhyme pattern, accented-syllable structure,
+    and variants, followed by Middle High German examples including the opening strophe
+    and a strophe naming Sivride.
+  language: English with Middle High German examples
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The opening stanza says that olden legends tell many marvels.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opening stanza describes heroes as praise-deserving and associates them
+    with manifold labours.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The opening stanza places weeping and wailing alongside joy and festival.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The opening stanza tells the audience it will hear a wondrous tale of bold
+    knights' battling.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The prose discussion describes the Nibelungen strophe as four long lines with
+    paired end-rhymes, clearly marked caesurae, and a fixed accented-syllable pattern.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says the original opening strophe is more regular than average
+    and has complete caesural rhyme.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A quoted Middle High German stanza introduced as the twenty-second strophe
+    names Sivride.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: praise-deserving heroes
+  description: A collective group named in the opening stanza as subjects of olden
+    legends and manifold labours.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: bold knights
+  description: A collective group whose battling is announced as the subject of a
+    wondrous tale.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Sivride
+  description: A named figure in the quoted Middle High German twenty-second strophe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: legendary heroes associated with labours
+  assigned_to:
+  - fig:1
+  basis: The opening stanza lists praise-deserving heroes and manifold labours among
+    the contents of olden legends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: battling knights
+  assigned_to:
+  - fig:2
+  basis: The opening stanza announces a wondrous tale of bold knights' battling.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: named subject in quoted strophe
+  assigned_to:
+  - fig:3
+  basis: The Middle High German example includes the phrase naming Sivride.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Prologue of heroic marvels
+  summary: The narrator frames the tale as drawn from old legends containing marvels,
+    heroic labours, grief, joy, festival, and battles of bold knights.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wondrous heroic tale
+  taxonomy_refs: []
+  basis: The opening stanza frames the work as an old legendary tale of marvels, heroes'
+    labours, and battles by bold knights.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a broad narrative frame rather than a narrowly defined taxonomy
+    motif.
+- id: motif:2
+  label: Joy and lament paired in heroic narrative
+  taxonomy_refs:
+  - duality
+  basis: The stanza explicitly pairs weeping and wailing with joy and festival in
+    its list of narrative contents.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The evidence supports a thematic opposition, but the passage does not
+    develop a full mythic dualism.
+- id: motif:3
+  label: Heroic labours
+  taxonomy_refs: []
+  basis: The opening stanza links praise-worthy heroes with manifold labours.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only announces labours generally and does not narrate a specific
+    labour episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1121-1124
+  quote_or_summary: 'Opening stanza: olden legends tell marvels, including heroes''
+    labours, grief, joy and festival, and a wondrous tale of bold knights'' battling.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: '1122'
+  quote_or_summary: Of praise-deserving heroes, / of labours manifold,
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: '1123'
+  quote_or_summary: Of weeping and of wailing, / of joy and festival;
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: '1124'
+  quote_or_summary: Of bold knights' battling shall you / now hear a wondrous tale.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 1158-1168
+  quote_or_summary: The prose describes the Nibelungen strophe as four long lines,
+    with first/second and third/fourth lines rhyming, each line divided by caesura,
+    and accented-syllable counts defining the form.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1194-1201
+  quote_or_summary: The passage states that the original opening strophe is more regular
+    than average and has complete caesural rhyme, then quotes the Middle High German
+    stanza.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 1206-1211
+  quote_or_summary: The prose introduces the twenty-second strophe as an example of
+    typical irregularities; the quoted stanza includes “von Sivride sagen.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for the English prologue and prose
+    metrical discussion. Motif candidates are limited because most of the passage
+    is editorial and metrical rather than narrative. The Middle High German example
+    is handled cautiously without adding unsupported narrative details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l1121-l1211
+  passage_sha256=b2b94a7f8f7b23f7a16a3d0c9808e113df5903b156f94b1918b393fd648edda6
+

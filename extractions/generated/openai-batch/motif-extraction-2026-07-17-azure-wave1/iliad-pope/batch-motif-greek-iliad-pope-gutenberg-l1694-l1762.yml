@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1694-l1762
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1694-1762
+  start: '1694'
+  end: '1762'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: A work of this kind seems like a mighty tree...
+  summary: The preface defends Homer against critics who elevate Virgil at Homer’s
+    expense, argues for Homer’s priority and inventive power, compares Homer’s work
+    to a vigorous fruit-bearing tree that could be pruned but not fundamentally surpassed,
+    and states that a translator must preserve the author’s images and design entire
+    and unmaimed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says some criticisms of Homer arise from an attempt to exalt Virgil
+    by undermining Homer.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Homer wrote before Virgil and that this priority should
+    be kept in mind when comparing the two poets.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports that some critics prefer the fable and moral of the Aeneid
+    to those of the Iliad and compare Achilles with Aeneas.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes Homer as retaining the honour of chief invention and
+    as superior to followers while invention remains unequalled.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage calls Homer the inventor of poetry and says he has absorbed the
+    honour of later successors.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage uses the image of a mighty tree rising from a vigorous seed, flourishing,
+    and producing fine fruit as a metaphor for a work of this kind.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says nature and art cooperate to raise the tree, and pleasure
+    and profit make it valuable.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says critics may find faults comparable to luxuriant branches
+    that might be lopped into a more regular form.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage says a translator’s first duty is to give the author entire and
+    unmaimed.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage says a translator may harm the poem’s chief characteristic by
+    omissions, contractions, or by lessening images, descriptions, and similes.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet defended as prior to Virgil, holder of chief invention, and inventor
+    of poetry.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Virgil
+  description: Later poet whom some critics attempt to exalt by comparison with Homer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Achilles
+  description: Hero described as not being as good and perfect a prince as Aeneas,
+    because the moral of Homer’s poem required a contrary character.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Aeneas
+  description: Hero described as wiser and more beneficial to his country in the critical
+    comparison reported by the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Critics of Homer
+  description: Various critics are described as objecting to Homer, preferring Virgil,
+    selecting less laboured passages, quarrelling with expressions, or attributing
+    Homer’s fame to accidents.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:11
+- id: fig:6
+  name_or_label: Translator or interpreter
+  description: A translator is described as responsible for preserving the author
+    entire and unmaimed while supplying diction and versification.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: prior poet
+  assigned_to:
+  - fig:1
+  basis: The passage says Homer wrote first and this should be considered in comparisons
+    with Virgil.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: chief inventor
+  assigned_to:
+  - fig:1
+  basis: The passage assigns Homer chief invention and calls him the inventor of poetry.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: later comparator
+  assigned_to:
+  - fig:2
+  basis: Virgil is the poet whom critics exalt in comparisons with Homer, while the
+    passage emphasizes Homer’s priority.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: contrary-character hero
+  assigned_to:
+  - fig:3
+  basis: Achilles is said not to be as good and perfect a prince as Aeneas because
+    Homer’s poem required a contrary character.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: wiser national-benefit hero
+  assigned_to:
+  - fig:4
+  basis: The passage reports critical claims that the Aeneid’s hero is wiser and his
+    action more beneficial to his country.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: objector or evaluator
+  assigned_to:
+  - fig:5
+  basis: The passage lists several kinds of critics and objections against Homer.
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: role:7
+  label: preserver of authorial integrity
+  assigned_to:
+  - fig:6
+  basis: The interpreter’s first duty is to present the author entire and unmaimed.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: mighty tree
+  literal_form: A mighty tree rising from a vigorous seed, improved with industry,
+    flourishing, and producing fine fruit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: vigorous seed
+  literal_form: Seed from which the mighty tree rises.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: luxuriant branches
+  literal_form: Branches running luxuriant through richness of nature and capable
+    of being lopped into more regular form.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: foundation and superstructure
+  literal_form: The image of raising a superstructure by undermining the foundation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: enchantment of the reader
+  literal_form: The reader’s heart held under strong enchantment by warmth of fancy.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Critics compare Homer and Virgil
+  summary: The passage describes critics who attempt to elevate Virgil by criticizing
+    Homer, sometimes overlooking Homer’s priority or comparing the Iliad and Aeneid
+    by their heroes, fables, and morals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Homer defended as inventor
+  summary: The passage argues that objections do not undermine Homer’s claim to chief
+    invention and that his imaginative power makes him superior to followers.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:12
+- id: scene:3
+  label: Poetic work imagined as a tree
+  summary: The passage likens a great poetic work to a mighty tree growing from a
+    vigorous seed, flourishing, producing fruit, and requiring only limited pruning
+    for regularity.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Translator’s duty
+  summary: The passage turns from the original poem to translation and states that
+    a translator must preserve the author’s design, images, descriptions, and similes
+    without omission or diminution.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: foundational inventor surpassed only by successors’ dependence
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: The passage presents Homer as the original inventor of poetry whose priority
+    and imaginative power structure the achievements of later poets.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a literary-critical pattern rather than a mythic narrative episode;
+    taxonomy links are approximate and require review.
+- id: motif:2
+  label: great work as living tree from seed to fruit
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage explicitly compares the poetic work to a mighty tree rising from
+    a seed, flourishing, producing fruit, and bearing branches that may be pruned.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The tree is a rhetorical metaphor for literary composition, not a sacred
+    or cosmological tree in the passage.
+- id: motif:3
+  label: preservation of the source whole and unmaimed
+  taxonomy_refs: []
+  basis: The passage frames the interpreter’s duty as preserving the author without
+    omissions, contractions, or diminution of images and similes.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: This is a translation principle, not a conventional mythological motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Homer as prior to Virgil and treats comparison of the
+    two poets as requiring recognition of Homer’s earlier authorship.
+  claim_level: historical_contact
+  target: Homeric epic and Virgilian epic comparison
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a literary preface and does not document a specific
+    mythic borrowing within a narrative episode.
+- id: claim:2
+  claim: The passage reports that some critics compare the Iliad and Aeneid by contrasting
+    Achilles with Aeneas and by judging the fable and moral of each poem.
+  claim_level: same_function
+  target: Iliad and Aeneid heroic epic evaluation
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim records the passage’s reported critical comparison; it does
+    not establish a shared mythic motif beyond broad heroic-epic function.
+- id: claim:3
+  claim: The passage says Virgil drew some passages from Homer, implying later epic
+    adaptation of earlier Homeric material.
+  claim_level: historical_contact
+  target: Virgil’s use of Homeric passages
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no specific examples in this line range, so the claim
+    remains general.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1694-1702
+  quote_or_summary: Criticisms arose from an attempt “to exalt Virgil,” likened to
+    trying to raise a superstructure by undermining its foundation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 1700-1703
+  quote_or_summary: The critics are said to forget “Homers having written first,”
+    a point needed when comparing the two poets.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 1704-1713
+  quote_or_summary: The passage reports comparisons between the Aeneid, Iliad, and
+    Odyssey, including claims that Aeneas is wiser or more beneficial to his country,
+    while Achilles is not meant to be a perfect prince.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source summarized.
+- id: ev:4
+  type: quote
+  locator: 1734-1739
+  quote_or_summary: The objections do not contradict Homer’s “title to the honour
+    of the chief invention,” and he remains superior while this remains unequalled.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 1743-1746
+  quote_or_summary: "“Homer not only appears the inventor of poetry,” and has “swallowed
+    up the honour” of successors."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: 1749-1752
+  quote_or_summary: The work is compared to “a mighty tree” rising from “the most
+    vigorous seed,” flourishing and producing fine fruit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: 1752-1754
+  quote_or_summary: "“Nature and art conspire to raise it; pleasure and profit join
+    to make it valuable.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: 1754-1758
+  quote_or_summary: Faults are compared to branches that “run luxuriant” and might
+    be “lopped into form.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: quote
+  locator: 1760-1762
+  quote_or_summary: "“It is the first grand duty of an interpreter to give his author
+    entire and unmaimed.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: summary
+  locator: 1759-1762
+  quote_or_summary: The passage says a translator cannot damage the main fable, manners,
+    or sentiments except by omissions or contractions, and must not lessen images,
+    descriptions, or similes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source summarized.
+- id: ev:11
+  type: summary
+  locator: 1714-1733
+  quote_or_summary: The passage lists critics who select less laboured Homeric passages
+    later drawn out by Virgil, quarrel with low expressions, or explain Homer’s fame
+    by accidents rather than merit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source summarized.
+- id: ev:12
+  type: quote
+  locator: 1739-1743
+  quote_or_summary: The passage says warmth of fancy wins universal applause by holding
+    “the heart of a reader under the strongest enchantment.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is literary-critical rather than mythic narrative. Literal features
+    and literary comparisons are clear, but motif taxonomy matches are limited and
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external taxonomy IDs beyond the supplied references were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1694-l1762
+  passage_sha256=26eb1f783171dd95b23832fb1d8b9bf5c21bae3445ed603778101e2e99a049e0
+

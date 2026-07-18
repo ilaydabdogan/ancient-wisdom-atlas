@@ -1,0 +1,591 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l4658-l4819
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / SKIRNISMOL / THE BALLAD OF SKIRNIR / INTRODUCTORY NOTE; lines 4658-4819
+  start: '4658'
+  end: '4819'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Skirnir offers Gerth a marvelous ring, then threatens her with a sword
+    and with magical curses. He invokes gods and giants, writes runes of longing,
+    madness, and lust, and says the writing can be undone. Gerth finally welcomes
+    him with mead and appoints a meeting with Freyr at Barri after nine nights. Skirnir
+    returns to Freyr, who laments the delay.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Skirnir offers Gerth a ring associated with Othin's son, from which eight
+    rings of equal weight fall every ninth night; Gerth rejects it, saying Gymir's
+    home lacks no gold.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Skirnir shows a keen, bright sword and threatens to cut Gerth's head from
+    her neck if she does not do his will.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gerth says she will not be moved by might and says Gymir will gladly fight
+    if he finds Skirnir there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Skirnir says the old giant bends before the sword and that Gerth's father
+    is doomed to die.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Skirnir says he strikes Gerth with a magic staff to tame her to his will and
+    describes isolation, Hel, loathsome food, prison, torment, and harm in giants'
+    homes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The curse describes rage, longing, fetters, wrath, tears, torment, grief instead
+    of gladness, dwelling with three-headed giants, or never knowing a husband.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Skirnir says he went to the wood and wet forest to win a magic wand, then
+    calls on frost-rulers, giants, Sons of Suttung, and gods to hear his ban on the
+    maid's meeting with men.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'Skirnir assigns Hrimgrimnir as the giant who shall have Gerth near the doors
+    of Hel, describes horns of filth by the root of the tree, and writes a charm with
+    three runes: longing, madness, and lust.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Gerth welcomes Skirnir with a frost-cup filled with mead, says she did not
+    expect to love one of the Wanes, and sets a meeting with the son of Njorth at
+    Barri after nine nights.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Skirnir rides home, Freyr asks what happened in the giants' dwelling, Skirnir
+    reports the appointed meeting, and Freyr laments the long wait.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Skirnir
+  description: Speaker who offers the ring, threatens with sword and magic, writes
+    runes, receives Gerth's answer, and rides home to Freyr.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Gerth
+  description: Maiden in Gymir's home who refuses the ring and threats, is addressed
+    by Skirnir's curses, then appoints a meeting with Freyr at Barri.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Freyr / son of Njorth / one of the Wanes
+  description: The god for whom Skirnir seeks a meeting with Gerth; he awaits Skirnir's
+    tidings and expresses desire and impatience.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Gymir
+  description: Gerth's father, whose home is wealthy and who is expected by Gerth
+    to fight Skirnir; Skirnir threatens his death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Hrimnir
+  description: A figure named in Skirnir's curse who will stand and stare if Gerth
+    comes forth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Hrimgrimnir
+  description: A giant named in Skirnir's curse as the one who shall have Gerth in
+    the depth by the doors of Hel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Frost-rulers, giants, Sons of Suttung, and gods
+  description: Collective groups called by Skirnir to hear his ban on Gerth's meeting
+    with men.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Othin
+  description: Named deity said by Skirnir to grow angry during the curse speech.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: emissary returning with tidings
+  assigned_to:
+  - fig:1
+  basis: Skirnir seeks Gerth's answer for Freyr, then rides home and reports the appointed
+    meeting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: threatening spell-worker
+  assigned_to:
+  - fig:1
+  basis: Skirnir threatens with sword, staff, wand, ban, charm, and runes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: threatened maiden who appoints a meeting
+  assigned_to:
+  - fig:2
+  basis: Gerth is addressed as maiden, threatened, and later sets the meeting at Barri
+    after nine nights.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: desiring recipient of the appointed meeting
+  assigned_to:
+  - fig:3
+  basis: Gerth appoints a meeting with the son of Njorth, and Freyr laments the wait
+    in terms of desire.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: wealthy father and threatened adversary
+  assigned_to:
+  - fig:4
+  basis: Gerth cites Gymir's wealth and says he will fight; Skirnir says Gerth's father
+    is doomed to die.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: hostile watcher in curse
+  assigned_to:
+  - fig:5
+  basis: Skirnir says Hrimnir will stand and stare if Gerth comes forth.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: curse-assigned giant possessor
+  assigned_to:
+  - fig:6
+  basis: Skirnir says Hrimgrimnir is the giant who shall have Gerth by the doors of
+    Hel.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: invoked witnesses to a ban
+  assigned_to:
+  - fig:7
+  basis: Skirnir calls these groups to hear how he forbids and bans Gerth's meeting
+    with men.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: divine anger invoked
+  assigned_to:
+  - fig:8
+  basis: Skirnir says Othin grows angry during the curse speech.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: multiplying ring
+  literal_form: A ring burned of old with Othin's son, from which eight rings of like
+    weight fall every ninth night.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: keen bright sword
+  literal_form: A sword held by Skirnir and used in threats against Gerth and her
+    father.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: magic staff or wand
+  literal_form: A magic staff used to strike Gerth and a magic wand won from the wood
+    and wet forest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: eagle's hill and gates or doors of Hel
+  literal_form: Places named in the curse where Gerth will sit, gaze, or be assigned
+    to a giant.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: light-hued snake
+  literal_form: A snake used as a comparison for how loathsome Gerth's food will become.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: prison
+  literal_form: A prison from which Gerth is told to peer forth in the curse speech.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: three runes and charm
+  literal_form: A written charm with three runes named as longing, madness, and lust,
+    which Skirnir says he may unwrite.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: root of the tree and horns of filth
+  literal_form: A curse image in which base wretches by the root of the tree hold
+    horns of filth for Gerth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: frost-cup filled with mead
+  literal_form: A cup of mead offered by Gerth as welcome to Skirnir.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: Barri forest and nine nights
+  literal_form: A fair, still forest appointed as the meeting place, with the meeting
+    set nine nights hence.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:11
+  label: crushed thistle
+  literal_form: A thistle in a loft, cast there and crushed, used as an image in Skirnir's
+    curse.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Offer and rejection of the ring
+  summary: Skirnir offers Gerth the marvelous ring, and Gerth rejects it because Gymir's
+    home has wealth enough.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sword threat and resistance
+  summary: Skirnir threatens Gerth with a sword; Gerth refuses to be moved by force
+    and invokes Gymir's likely resistance; Skirnir then threatens her father's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Magic staff curse of isolation and torment
+  summary: Skirnir says he strikes Gerth with a magic staff and describes a cursed
+    state involving Hel, prison, loathsome food, sorrow, giants, and loss of husband.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:11
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Runic ban before gods and giants
+  summary: Skirnir says he obtained a magic wand, invokes divine and giant witnesses,
+    bans Gerth's meetings with men, assigns Hrimgrimnir to her, and writes a reversible
+    charm with three runes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Mead welcome and Barri appointment
+  summary: Gerth welcomes Skirnir with mead, says she did not expect to love one of
+    the Wanes, and names Barri as the meeting place after nine nights.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Return to Freyr and delayed desire
+  summary: Skirnir rides home, Freyr asks for the outcome, Skirnir reports the Barri
+    appointment, and Freyr laments the length of the delay.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Rejected precious gift before coercion
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Skirnir first offers an extraordinary ring, but Gerth refuses the gift because
+    her father's house has sufficient gold.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents an attempted exchange rather than a completed exchange.
+- id: motif:2
+  label: Coercive wooing by weapon and magical curse
+  taxonomy_refs: []
+  basis: After the ring is rejected, Skirnir threatens Gerth with a sword, threatens
+    her father, and uses staff, wand, ban, and runes to compel the outcome.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The label summarizes actions in this passage; no external motif index
+    is asserted.
+- id: motif:3
+  label: Reversible runic compulsion
+  taxonomy_refs: []
+  basis: Skirnir writes a charm with three runes named longing, madness, and lust,
+    and says he may unwrite what he has written.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the writing and possible un-writing but does not detail
+    the mechanism.
+- id: motif:4
+  label: Divine beloved meeting arranged through an emissary
+  taxonomy_refs:
+  - divine_beloved
+  basis: Gerth appoints a meeting with the son of Njorth, and Freyr waits for Skirnir's
+    report with desire.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Gerth's consent follows threats and curses; the passage does not present
+    an uncomplicated courtship.
+- id: motif:5
+  label: Appointed divine-giant union in a secluded grove
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Gerth names the fair, still forest Barri and says that nine nights hence
+    she will grant delight to the son of Njorth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage describes a meeting and delight, not a formal marriage rite.
+- id: motif:6
+  label: Underworld and monster exile curse
+  taxonomy_refs: []
+  basis: Skirnir's curse threatens Gerth with Hel, giant halls, Hrimgrimnir, horns
+    of filth, isolation, and loss of human companionship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a curse-threat motif within the speech, not a narrated completed
+    journey.
+- id: motif:7
+  label: Return with appointed tryst and impatient lover
+  taxonomy_refs:
+  - return
+  basis: Skirnir rides home and reports the appointed Barri meeting; Freyr responds
+    by lamenting the delay caused by desire.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Only the return and report are included in this passage; the initial departure
+    is outside the provided excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: stanzas 21-22
+  quote_or_summary: Skirnir offers the ring burned with Othin's son, from which eight
+    equal rings fall every ninth night; Gerth refuses it, saying Gymir's home lacks
+    no gold.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:2
+  type: summary
+  locator: stanzas 23-25
+  quote_or_summary: Skirnir shows a keen, bright sword and threatens Gerth; she refuses
+    to be moved by might and says Gymir will fight; Skirnir says the old giant bends
+    before the blade and her father is doomed.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: stanzas 26-31
+  quote_or_summary: Skirnir says he strikes Gerth with a magic staff to tame her,
+    then describes exile, Hel, loathsome food, Hrimnir staring, prison, torment, grief,
+    three-headed giants, and the crushed thistle image.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: stanzas 32-37
+  quote_or_summary: Skirnir says he won a magic wand in the wood, invokes gods and
+    giants to hear his ban, assigns Hrimgrimnir to Gerth by the doors of Hel, describes
+    horns of filth by a tree-root, and writes three runes of longing, madness, and
+    lust that he may unwrite.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: stanzas 38-40
+  quote_or_summary: Gerth welcomes Skirnir with a frost-cup filled with mead, says
+    she did not expect to love one of the Wanes, and appoints Barri as the place where
+    nine nights hence she will grant delight to the son of Njorth.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: prose after stanza 40 and stanzas 41-42
+  quote_or_summary: Skirnir rides home; Freyr asks what was done in the giants' dwelling,
+    and Skirnir reports the Barri meeting nine nights hence.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: stanza 43
+  quote_or_summary: Freyr says one night is long, two are longer, asks how he shall
+    bear three, and says a month has often seemed less than half a night of desire
+    now.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied stanzas and prose. Motif labels
+    are candidates requiring human review, especially where coercive threats complicate
+    courtship or union categories. No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the provided passage text, corresponding to Skirnismol stanzas 21-43 in the supplied excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l4658-l4819
+  passage_sha256=b84a664aa428e711fc820dc4a844d43c8a1ab20d71d92ebb1b070c1c933cd718
+

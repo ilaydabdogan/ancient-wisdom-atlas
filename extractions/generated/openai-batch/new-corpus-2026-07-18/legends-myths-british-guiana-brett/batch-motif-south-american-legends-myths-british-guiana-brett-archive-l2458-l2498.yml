@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l2458-l2498
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 43 / THE FIGHT ON THE WAIINI. / ABORIGINAL TRIBES
+    OF GUIANA. 45 / ALLIANCE AND INTERCOURSE WITH WHITE MEN.; lines 2458-2498
+  start: '2458'
+  end: '2498'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a verse retrospect, Dutchmen propose peace, trade, and firm alliance
+    with the speakers' fathers, offering iron tools, clothes, ornaments, and mirrors
+    in exchange for assistance guarding the woods. The fathers answer that attractive
+    goods can cost liberty, identify themselves as free hunters, and require that
+    no Arawak be enslaved. The narration says this liberty was maintained and that
+    Christian teaching came only with later white men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dutchmen address the speakers' fathers and propose peace, trade, and firm
+    alliance.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Dutchmen ask for assistance in guarding the woods behind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Dutchmen urge the fathers to stop using stone implements and say they
+    have many iron tools.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Dutchmen list clothes, combs, bodkins, beads, and looking-glasses as goods
+    pleasing to women.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fathers reply that attractive goods may be bought dearly through loss
+    of liberty.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fathers describe themselves as free and brave hunters and state that no
+    Arawak must be a slave.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The fathers make freedom from enslavement a condition for faithful alliance.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narration says liberty was maintained, the Dutchmen declared the Arawak
+    free, and the Dutchmen observed that status.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The narration says Christ's word and instruction of children did not come
+    until other white men arrived.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dutchmen
+  description: White men who propose peace, trade, and alliance; offer goods; and
+    later are said to have declared the Arawak free.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: our fathers
+  description: The speakers' ancestors who answer the Dutchmen, value liberty over
+    goods, and set a no-enslavement condition.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Arawak
+  description: The named people whose enslavement is rejected in the fathers' reply.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: women
+  description: Women are mentioned as intended wearers or recipients of clothes, combs,
+    bodkins, beads, and looking-glasses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: children
+  description: Children are mentioned as not having been taught until other white
+    men came.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: other white men
+  description: Later arrivals associated in the narration with the coming of Christ's
+    word and instruction.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: trade-alliance proposer
+  assigned_to:
+  - fig:1
+  basis: The Dutchmen propose peace, trade, firm alliance, and ask for assistance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ancestral respondent
+  assigned_to:
+  - fig:2
+  basis: The fathers make a reply to the Dutchmen's offer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: free hunter / anti-enslavement claimant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The fathers call themselves free hunters and state that no Arawak must be
+    a slave.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: recognizer of freedom
+  assigned_to:
+  - fig:1
+  basis: The Dutchmen are said to have declared the Arawak free and observed that
+    status.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: intended recipients of adornment and clothing
+  assigned_to:
+  - fig:4
+  basis: Clothes, combs, bodkins, beads, and looking-glasses are described as pleasing
+    to the female mind.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: previously untaught children
+  assigned_to:
+  - fig:5
+  basis: The passage says the children were not taught until other white men came.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: later religious-contact figures
+  assigned_to:
+  - fig:6
+  basis: Other white men are named as arriving after the period when Christ's word
+    had not been brought.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: stone implements
+  literal_form: stone implements
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: iron tools
+  literal_form: iron tools offered by the Dutchmen
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ornamental and domestic trade goods
+  literal_form: clothes, combs, bodkins, beads, and looking-glasses
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dutch proposal of peace and trade
+  summary: The Dutchmen propose peace, trade, alliance, and mutual assistance, while
+    presenting foreign manufactured goods as advantageous.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fathers' reply defending liberty
+  summary: The fathers answer that goods may cost liberty and require a rule that
+    no Arawak be enslaved as the condition for free alliance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Retrospective outcome and later Christian contact
+  summary: The narration states that liberty was maintained under the Dutch, while
+    Christian teaching came only with later white men.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: alliance conditional on freedom
+  taxonomy_refs:
+  - covenant
+  basis: The passage presents a proposed alliance, a condition that no Arawak be enslaved,
+    and a reported observance of that condition.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy term 'covenant' is only a loose fit; the passage
+    presents a political trade alliance rather than an explicitly sacred covenant.
+- id: motif:2
+  label: foreign goods offered for local assistance
+  taxonomy_refs: []
+  basis: The Dutchmen offer iron tools, clothing, adornments, and mirrors while asking
+    for assistance guarding the woods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a social-contact pattern in a historical verse passage, not necessarily
+    a mythic motif.
+- id: motif:3
+  label: liberty valued over attractive goods
+  taxonomy_refs: []
+  basis: The fathers say pleasing goods may be dearly bought with loss of liberty
+    and insist no Arawak be enslaved.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethical-political theme stated in the passage; no broader comparative
+    claim is made.
+- id: motif:4
+  label: later arrival of Christian instruction
+  taxonomy_refs: []
+  basis: The narration says Christ's word and the teaching of children came only when
+    other white men arrived.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only a brief retrospective statement and does not narrate
+    the later arrival in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2460-2467
+  quote_or_summary: The Dutchmen say, "Make peace with us, and let us trade," propose
+    being "In firm alliance joined," and ask for assistance "Guarding the woods behind."
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 2468-2471
+  quote_or_summary: '"Use your stone implements no more, / Of iron tools we have great
+    store, / Which you will better find."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 2472-2476
+  quote_or_summary: The offered goods include "Clothes," "Combs," "bodkins," "Beads,"
+    and "looking-glasses" to please women.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 2480-2484
+  quote_or_summary: The fathers reply that the goods are pleasing, "But men such things
+    may dearly buy / With loss of liberty!"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 2485-2489
+  quote_or_summary: '"We all are hunters, free and brave; / No Arawak must be a slave.
+    / Make that your law" and then they will be faithful free allies.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 2491-2494
+  quote_or_summary: '"We thus maintained our liberty; / The Dutchmen all declared
+    us free / And well observed the same."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 2495-2498
+  quote_or_summary: '"But Christ''s good word was never brought / To us, nor were
+    our children taught, / Till other white men came."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a historical/contact verse rather than a mythic narrative. No comparison
+    claims are made because the passage itself does not support a specific cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy entries apply directly to this passage; object symbols are recorded without taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l2458-l2498
+  passage_sha256=036e17e703524d2cd006cfd75ff10d4ef55e885d61c32c187b276076f525d008
+

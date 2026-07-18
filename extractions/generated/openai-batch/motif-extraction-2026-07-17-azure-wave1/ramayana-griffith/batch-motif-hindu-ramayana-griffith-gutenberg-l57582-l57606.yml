@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l57582-l57606
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: CAREY AND MARSHMAN. / SCHLEGEL. / GORRESIO. / HIPPOLYTE FAUCHE.; lines 57582-57606
+  start: '57582'
+  end: '57606'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“the triumphant return of Ráma and his rescued queen to Ayodhyá”"
+  summary: The passage is an editorial note stating that the Ramayan is epically complete
+    with Rama's return to Ayodhya with his rescued queen and his consecration and
+    coronation. It describes the Uttarakanda as a later appendix or supplement, notes
+    traditional attribution to Valmiki, and cites modern translations or summaries
+    by Gorresio and Muir.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the Ramayan ends with the triumphant return of Rama and his
+    rescued queen to Ayodhya.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Rama is consecrated and crowned in the capital of his forefathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the conclusion of the last canto of the sixth book
+    speaks of Rama's glorious and happy reign and promises blessings to readers and
+    hearers of the Ramayan.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Uttarakanda is described as an appendix or supplement relating events
+    before and after those of the original poem.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Indian scholars are said to ascribe the Last Book to Valmiki and to regard
+    it as part of the Ramayan.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage notes published or epitomized scholarly treatments of the Uttarakanda
+    by Gorresio and Muir.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: Returned triumphantly to Ayodhya with his rescued queen; consecrated
+    and crowned in the ancestral capital; later described as having a glorious and
+    happy reign.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: rescued queen
+  description: Rama's queen, described as rescued and returning with him to Ayodhya.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: returning royal pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes Rama and his rescued queen returning triumphantly to
+    Ayodhya.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: consecrated and crowned ruler
+  assigned_to:
+  - fig:1
+  basis: Rama is said to undergo consecration and coronation in the capital of his
+    forefathers.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rescued queen
+  assigned_to:
+  - fig:2
+  basis: The queen is explicitly called rescued and accompanies Rama in his return.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Ayodhyá as ancestral capital
+  literal_form: Ayodhyá, the capital of Rama's forefathers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: consecration and coronation
+  literal_form: royal consecration and coronation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Return to Ayodhyá and coronation
+  summary: Rama returns triumphantly to Ayodhya with his rescued queen and is consecrated
+    and crowned in the ancestral capital.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial account of the Uttarakanda
+  summary: The passage describes the Uttarakanda as a supplementary last book, notes
+    its traditional attribution to Valmiki, and cites later scholarly translations
+    or summaries.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: triumphant return after rescue
+  taxonomy_refs:
+  - return
+  basis: The passage explicitly centers the ending of the epic on Rama's triumphant
+    return to Ayodhya with his rescued queen.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an editorial summary, not the full narrative episode.
+- id: motif:2
+  label: royal restoration through consecration and coronation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Rama's return culminates in consecration and coronation in the capital of
+    his forefathers, marking royal legitimacy in literal terms.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage summarizes the coronation rather than narrating ritual details.
+- id: motif:3
+  label: rescued queen accompanying the hero's return
+  taxonomy_refs: []
+  basis: The queen is described as rescued and returning with Rama to Ayodhya.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not itself state the circumstances of her abduction or
+    rescue, so a more specific taxonomy label such as stolen beloved is not applied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 57586-57588
+  quote_or_summary: The Ramayan ends with “the triumphant return of Ráma and his rescued
+    queen to Ayodhyá” and with his “consecration and coronation” in the capital of
+    his forefathers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 57588-57593
+  quote_or_summary: The passage says a later-added conclusion to the sixth book describes
+    Rama's glorious and happy reign and promises blessings to those who read and hear
+    the Ramayan.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 57593-57596
+  quote_or_summary: The Uttarakanda or Last Book is described as an appendix or supplement
+    concerning events before and after the original poem.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 57596-57598
+  quote_or_summary: Indian scholars are said to ascribe the Last Book to Valmiki and
+    regard it as part of the Ramayan.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 57599-57604
+  quote_or_summary: The passage notes Gorresio's Italian prose translation of the
+    Uttarakanda from the Bengal recension and Muir's epitome of part of the book.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly editorial and contains only a brief narrative summary
+    of Rama's return and coronation; motif extraction is therefore limited to explicitly
+    stated summary elements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparative claim beyond internal textual and scholarly references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l57582-l57606
+  passage_sha256=5cdc52ef0d8173cfc8a497ab9e65e9466a4ff1f0b46e73974761aaf473b04fe5
+

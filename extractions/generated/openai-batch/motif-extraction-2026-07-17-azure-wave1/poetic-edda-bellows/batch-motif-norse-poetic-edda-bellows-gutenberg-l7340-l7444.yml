@@ -1,0 +1,737 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l7340-l7444
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: THRYMSKVITHA / THE LAY OF THRYM / INTRODUCTORY NOTE / NOTES; lines 7340-7444
+  start: '7340'
+  end: '7444'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial notes to the Lay of Thrym identify figures, kinships, objects,
+    places, and textual variants connected with the poem: Thor and his hammer Mjollnir,
+    Loki, Freyja and her feather-dress, Thrym the frost-giant, Brisings necklace,
+    Heimdall, Thor''s goats and wagon, Jotunheim, Noatun, Sif, Vor, and hammer hallowing.
+    The notes also report scholarly interpretations and comparisons, including the
+    theft of Thor''s hammer as a possible winter-thunderstorm symbol and the hammer
+    sign as comparable in sacred function to the Christian cross.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vingthor is given as another name for Thor; Thor is associated with the hammer
+    Mjollnir, and Jorth/Earth and Othin are identified as his mother and father.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Loki is separately noted, and Laufey is identified as Loki's mother.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: obs:3
+  text: Freyja is identified as Njorth's daughter and Freyr's sister; her house Sessrymnir
+    is in Folkvang.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Freyja has a feather-dress or hawk's dress described as flying equipment,
+    which Loki borrows in the Thjazi story to rescue Ithun.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thrym is identified as a frost-giant, and the story is described as involving
+    the theft of Thor's hammer.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Brisings necklace is described as a marvelous necklace fashioned by dwarfs.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Heimdall is described through the phrase 'whitest of the gods'; the note connects
+    him with light, watchmanship, wisdom, and sleepless watching over all the worlds.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Wanes are mentioned in relation to knowledge of future events, though
+    the note says they are not elsewhere described as especially gifted in that way.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Thor's wagon is said to be always drawn by goats; Jotunheim is identified
+    as the world of the giants.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Njorth's home is Noatun, called Ships-Haven; Skathi is identified as his wife
+    and as unable to stay there.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Thor is associated with a notable appetite, and Sif is identified as Thor's
+    wife.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: A note on 'fire' says the noun is absent from the manuscript and inserted
+    by most editors from a later paper manuscript.
+  category: other
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The meaning of 'hallow' is said to be unclear, but the note cites other consecrations
+    with the sign of the hammer and a story where Thor hallows a cooked goat with
+    his hammer.
+  category: action
+  evidence_refs:
+  - ev:14
+- id: obs:14
+  text: Vor is identified as the goddess of vows, especially vows between men and
+    women.
+  category: attribute
+  evidence_refs:
+  - ev:14
+- id: obs:15
+  text: Several notes discuss manuscript abbreviations, stanza divisions, supplied
+    lines, rejected lines, or possible lost lines.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:13
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: Thor / Vingthor / Hlorrithi
+  description: A god named by several epithets, associated with the hammer Mjollnir,
+    son of Jorth/Earth and Othin, husband of Sif, rider in a goat-drawn wagon, and
+    user of the hammer for hallowing in a cited story.
+  role_refs:
+  - role:1
+  - role:2
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+  - ev:11
+  - ev:14
+- id: fig:2
+  name_or_label: Jorth / Earth
+  description: Thor's mother.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Othin
+  description: Thor's father.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Loki
+  description: A figure noted in connection with Lokasenna; son of Laufey; borrower
+    of Freyja's hawk's dress in the cited Thjazi story to rescue Ithun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Freyja
+  description: Njorth's daughter, Freyr's sister, owner of Sessrymnir in Folkvang,
+    and owner of the feather-dress or hawk's dress.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Njorth
+  description: Father of Freyja; associated with the home Noatun and with his wife
+    Skathi.
+  role_refs:
+  - role:5
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: fig:7
+  name_or_label: Freyr
+  description: Freyja's brother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ithun
+  description: A figure whom Loki rescues in the cited Thjazi story.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Thjazi
+  description: A figure named through the cited story in which Loki borrows Freyja's
+    hawk's dress.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Thrym
+  description: A frost-giant connected in the note with the story of the theft of
+    Thor's hammer.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Dwarfs / Brisings
+  description: Artisans who fashioned Brisings necklace.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+- id: fig:12
+  name_or_label: Heimdall
+  description: A god described as white, light-associated, watchful, and wise through
+    sleepless watching over all worlds.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:7
+- id: fig:13
+  name_or_label: Wanes
+  description: A divine group mentioned in relation to knowledge of future events,
+    with a note that this trait is not otherwise especially attested for them.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:7
+- id: fig:14
+  name_or_label: Laufey
+  description: Loki's mother.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:15
+  name_or_label: Sif
+  description: Thor's wife.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:11
+- id: fig:16
+  name_or_label: Skathi
+  description: Njorth's wife, who found it impossible to stay at Noatun.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+- id: fig:17
+  name_or_label: Vor
+  description: Goddess of vows, particularly vows between men and women.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:14
+roles:
+- id: role:1
+  label: Hammer-bearing deity
+  assigned_to:
+  - fig:1
+  basis: Thor is linked with his hammer Mjollnir and with the hammer as a holy sign.
+  evidence_refs:
+  - ev:1
+  - ev:14
+- id: role:2
+  label: Parent or child in named divine kinship
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:14
+  basis: The notes identify Thor's mother and father and identify Laufey as Loki's
+    mother.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: Borrower of flying equipment
+  assigned_to:
+  - fig:4
+  basis: Loki borrows Freyja's hawk's dress in the cited Thjazi story.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Owner of flying equipment
+  assigned_to:
+  - fig:5
+  basis: Freyja's feather-dress or hawk's dress is described as her flying equipment.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Named sibling or parent relation of Freyja
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Freyja is identified as Njorth's daughter and Freyr's sister.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Rescued figure in cited story
+  assigned_to:
+  - fig:8
+  basis: The note says Loki borrows Freyja's hawk's dress to rescue Ithun.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Named figure of cited Thjazi story
+  assigned_to:
+  - fig:9
+  basis: The note refers to the story of Thjazi as the context for Loki borrowing
+    the hawk's dress.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Frost-giant
+  assigned_to:
+  - fig:10
+  basis: The note identifies Thrym as a frost-giant.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: Goat-wagon rider
+  assigned_to:
+  - fig:1
+  basis: Thor's wagon is said to be always drawn by goats.
+  evidence_refs:
+  - ev:9
+- id: role:10
+  label: Spouse
+  assigned_to:
+  - fig:6
+  - fig:15
+  - fig:16
+  basis: Sif is identified as Thor's wife, and Skathi is identified as Njorth's wife.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:11
+  label: Marvelous-object artisans
+  assigned_to:
+  - fig:11
+  basis: Brisings necklace is said to have been fashioned by dwarfs.
+  evidence_refs:
+  - ev:6
+- id: role:12
+  label: Watchful wise god
+  assigned_to:
+  - fig:12
+  basis: Heimdall's wisdom is connected with his sleepless watching over all worlds.
+  evidence_refs:
+  - ev:7
+- id: role:13
+  label: Group associated here with future knowledge
+  assigned_to:
+  - fig:13
+  basis: The note discusses the Wanes in connection with knowledge of future events
+    while qualifying that this is not elsewhere a special trait.
+  evidence_refs:
+  - ev:7
+- id: role:14
+  label: Goddess of vows
+  assigned_to:
+  - fig:17
+  basis: Vor is identified as goddess of vows, especially vows between men and women.
+  evidence_refs:
+  - ev:14
+symbols:
+- id: sym:1
+  label: Thor's hammer / Mjollnir / Thor's-hammer sign
+  literal_form: Hammer; holy sign; runic sign named Thor's-hammer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:14
+- id: sym:2
+  label: Freyja's feather-dress or hawk's dress
+  literal_form: Flying feather-dress / hawk's dress
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Brisings necklace
+  literal_form: Marvelous necklace fashioned by dwarfs
+  associated_figures:
+  - fig:5
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Sessrymnir in Folkvang
+  literal_form: Freyja's house, Rich in Seats, built in Field of the Folk
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Goat-drawn wagon
+  literal_form: Thor's wagon drawn by goats
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: Jotunheim
+  literal_form: World of the giants
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Noatun / Ships-Haven
+  literal_form: Njorth's home
+  associated_figures:
+  - fig:6
+  - fig:16
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: Fire
+  literal_form: Fire, noted as an editor-supplied noun absent from the manuscript
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Borrowing of Freyja's flying dress in the Thjazi story
+  summary: The note says Freyja's feather-dress or hawk's dress is used in the Thjazi
+    story, where Loki borrows it to rescue Ithun.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Theft of Thor's hammer
+  summary: The note identifies the story as one involving the theft of Thor's hammer
+    and identifies Thrym as a frost-giant.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Thor's goat-drawn wagon and Jotunheim
+  summary: The note explains that Thor's wagon is drawn by goats and that Jotunheim
+    is the world of the giants.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:4
+  label: Hammer hallowing and goat resuscitation
+  summary: The note discusses consecration with the sign of the hammer and cites a
+    story in which Thor hallows a cooked goat with his hammer.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:14
+- id: scene:5
+  label: Vows and possible bride consecration context
+  summary: The note says the meaning of hallowing is unclear, mentions consecration
+    with the hammer, and identifies Vor as goddess of vows between men and women.
+  figure_refs:
+  - fig:17
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: Theft of a divine hammer
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage explicitly describes the story as the theft of Thor's hammer;
+    another note treats the hammer as a holy sign used for consecration.
+  evidence_refs:
+  - ev:4
+  - ev:14
+  confidence: high
+  cautions: The note does not narrate the theft in detail within this passage.
+- id: motif:2
+  label: Animal-flight garment used for rescue
+  taxonomy_refs:
+  - shapeshifter
+  basis: Freyja's feather-dress or hawk's dress is described as flying equipment borrowed
+    by Loki to rescue Ithun in the Thjazi story.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes flying equipment but does not explicitly state bodily
+    transformation.
+- id: motif:3
+  label: Consecration by sacred hammer sign
+  taxonomy_refs: []
+  basis: The note discusses hallowing with the sign of the hammer and describes the
+    hammer as a holy sign with heathens.
+  evidence_refs:
+  - ev:14
+  confidence: high
+  cautions: The note says the meaning of the hallowing in the poem is not clear.
+- id: motif:4
+  label: Resuscitation through divine hammer hallowing
+  taxonomy_refs:
+  - resurrection
+  basis: The note cites Snorri's story of Thor's resuscitation of his cooked goat
+    and says Thor hallows the goat with his hammer.
+  evidence_refs:
+  - ev:14
+  confidence: high
+  cautions: This is a cited parallel story in the note, not the main episode narrated
+    in the passage.
+- id: motif:5
+  label: Watchful divine wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Heimdall's wisdom is connected with his sleepless watching over all the worlds.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The note phrases this connection as probable rather than certain.
+- id: motif:6
+  label: Bride or vow consecration by sacred sign
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The note discusses hallowing, says other consecrations are known with the
+    sign of the hammer, and identifies Vor as goddess of vows between men and women.
+  evidence_refs:
+  - ev:14
+  confidence: low
+  cautions: The note explicitly says the meaning is unclear and that other consecrations
+    are not of a bride.
+comparison_claims:
+- id: claim:1
+  claim: The theft of Thor's hammer is reported as having been interpreted by Gering
+    as symbolizing the rarity of thunderstorms in winter.
+  claim_level: archetypal_reading
+  target: Seasonal meteorological pattern of winter thunderstorm scarcity
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an attributed scholarly interpretation in a note, not a claim
+    made by the mythic narrative itself.
+- id: claim:2
+  claim: The hammer sign is reported, according to Vigfusson, to have functioned for
+    heathens like the Christian cross as a holy sign.
+  claim_level: same_function
+  target: Christian cross as sacred sign
+  evidence_refs:
+  - ev:14
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents this as Vigfusson's view and does not provide
+    independent demonstration.
+- id: claim:3
+  claim: Freyja's hawk's dress is identified as the same flying equipment used in
+    another nearby mythic story, the story of Thjazi, where Loki borrows it to rescue
+    Ithun.
+  claim_level: same_function
+  target: Thjazi/Ithun story in nearby Norse corpus
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note gives only a brief cross-reference, not the full parallel
+    episode.
+- id: claim:4
+  claim: The note states that lines 1-3 of one stanza are identical with lines in
+    Baldrs Draumar.
+  claim_level: linguistic_similarity
+  target: Baldrs Draumar 1, lines 1-3
+  evidence_refs:
+  - ev:16
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual similarity claim rather than a motif interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7340-7343
+  quote_or_summary: Vingthor is another name for Thor; Thor has the hammer Mjollnir;
+    Jorth/Earth is Thor's mother and Othin his father.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: '7345'
+  quote_or_summary: The note identifies Loki and cross-references Lokasenna.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7347-7353
+  quote_or_summary: Freyja is Njorth's daughter and Freyr's sister; her house is Sessrymnir
+    in Folkvang; her feather-dress is flying equipment also used when Loki borrows
+    Freyja's hawk's dress to rescue Ithun in the Thjazi story.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7363-7365
+  quote_or_summary: Thrym is identified as a frost-giant; Gering says the story of
+    the theft of Thor's hammer symbolizes the rarity of thunderstorms in winter.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7367-7375
+  quote_or_summary: A note identifies Hlorrithi as Thor and discusses manuscript speaker
+    and superscription issues involving Loki.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7379-7381
+  quote_or_summary: Brisings necklace is described as a marvelous necklace fashioned
+    by dwarfs.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 7385-7389
+  quote_or_summary: Heimdall is described as possibly a god of light and as watchman;
+    his wisdom is probably connected with sleepless watching over all worlds; the
+    Wanes are discussed in relation to future knowledge.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 7392-7397
+  quote_or_summary: Laufey is Loki's mother; nearby notes discuss abbreviated manuscript
+    lines and possible lost lines.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 7399-7402
+  quote_or_summary: Thor's wagon is always drawn by goats; Jotunheim is the world
+    of the giants.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 7404-7407
+  quote_or_summary: Njorth's home is Noatun, Ships-Haven; Skathi is his wife and found
+    it impossible to stay there.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 7409-7413
+  quote_or_summary: A note discusses remnants of stanzas describing Thor's supper,
+    refers to Thor's appetite, and identifies Sif as Thor's wife.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 7415-7417
+  quote_or_summary: A note on 'Fire' says the noun is lacking in the manuscript and
+    most editors insert it from a late paper manuscript.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: 7419-7421
+  quote_or_summary: The manuscript abbreviation of a stanza is discussed; only sleep,
+    Freyja, and found are written out.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: summary
+  locator: 7427-7436
+  quote_or_summary: The note says the meaning of 'hallow' is unclear; it mentions
+    consecration with the sign of the hammer, Vigfusson's comparison of the hammer
+    sign to the Christian cross, Thor's resuscitation of a cooked goat by hallowing
+    with his hammer, a runic sign named Thor's-hammer, and Vor as goddess of vows.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:15
+  type: summary
+  locator: 7438-7444
+  quote_or_summary: The note discusses an editor's rejection of a line and manuscript
+    capitalization suggesting a new stanza.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:16
+  type: summary
+  locator: '7383'
+  quote_or_summary: A note states that lines 1-3 are identical with Baldrs Draumar
+    1, lines 1-3.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial notes rather than a continuous mythic narrative,
+    so motif extraction relies on explicitly stated note content and cited parallels.
+    Several items are qualified by the editor as uncertain, supplied, or based on
+    scholarly interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only provided passage text and metadata were used. Taxonomy references are limited to supplied motif and symbol lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l7340-l7444
+  passage_sha256=36b42ed93564a6dafad614aac91d91e96afff7b7f8d0fd8ccc5cd145452caaee
+

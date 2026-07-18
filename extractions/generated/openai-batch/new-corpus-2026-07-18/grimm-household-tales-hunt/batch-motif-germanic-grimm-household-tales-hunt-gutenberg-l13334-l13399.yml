@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l13334-l13399
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 13334-13399
+  start: '13334'
+  end: '13399'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A deserted husband loses his wife, child, and ring while asleep; acquires
+    a sword, cloak, and boots from three giants; returns invisibly to the Golden Mountain
+    during his wife’s planned wedding to another; declares himself the true king;
+    and uses the sword’s command to kill the assembled opponents and regain rule.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man leads the woman from the town to a field and stream, asks to sleep
+    on her lap, and falls asleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While he sleeps, the woman removes a ring from his finger, withdraws herself
+    while leaving a slipper behind, takes her child, and wishes herself back to her
+    own kingdom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When he wakes, the man finds his wife, child, and ring gone, with only the
+    slipper remaining as a token.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man decides he cannot return to his parents because they would call him
+    a wizard, and he walks until he reaches his own kingdom.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At a hill, three giants are disputing over how to divide their father’s property.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The giants’ inheritance consists of a sword with a head-severing command,
+    a cloak that makes the wearer invisible, and boots that carry the wearer to any
+    wished-for place.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man obtains the three inherited objects by asking to test them; the cloak
+    makes him invisible and changes him into a fly, and the sword cuts a tree trunk
+    in two.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After putting on the boots, the man wishes to be on the Golden Mountain and
+    vanishes from the giants’ sight.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Near his palace, the man hears music and celebration and is told that his
+    wife is celebrating her wedding with another.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The man enters the palace unseen with the cloak and repeatedly takes food
+    and wine that his wife serves herself.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The wife withdraws to her chamber and weeps; the man follows, accuses her,
+    strikes her, and makes himself visible.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The man declares in the hall that the wedding is over and that the true king
+    has returned.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The assembled kings, princes, and councillors mock him, then try to seize
+    him.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The man uses the sword’s command; all heads except his own fall, and he becomes
+    master and king of the Golden Mountain again.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: deserted husband / returning King of the Golden Mountain
+  description: A man whose wife and child leave while he sleeps; he later acquires
+    magical objects, returns to the Golden Mountain, and declares himself the true
+    king.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: wife / queen
+  description: The man’s wife, who removes his ring, takes the child, returns to her
+    kingdom, and is later seated crowned at a wedding celebration with another.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: child
+  description: The child taken by the wife when she leaves the sleeping man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: three giants
+  description: Three giants at a hill who dispute over their father’s inherited sword,
+    cloak, and boots.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: assembled kings, princes, councillors, and guests
+  description: Royal and courtly figures present at the wedding feast who mock the
+    returning man and try to seize him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: deserted spouse
+  assigned_to:
+  - fig:1
+  basis: He wakes to find his wife and child gone, along with the ring.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: returning true king
+  assigned_to:
+  - fig:1
+  basis: He declares that the wedding is over and that the true king has returned;
+    after using the sword he is again king of the Golden Mountain.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: wife who returns to her kingdom and prepares another wedding
+  assigned_to:
+  - fig:2
+  basis: She leaves with the child and is later described as celebrating her wedding
+    with another while seated crowned in the hall.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: child of the couple
+  assigned_to:
+  - fig:3
+  basis: The passage names the child as being taken by the wife and absent when the
+    man awakes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: holders of disputed magical inheritance
+  assigned_to:
+  - fig:4
+  basis: 'The giants dispute the division of their father’s property: the sword, cloak,
+    and boots.'
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: wedding assembly and opponents
+  assigned_to:
+  - fig:5
+  basis: The royal assembly at the feast mocks the man and tries to seize him.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ring taken from sleeper
+  literal_form: ring
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: slipper left as token
+  literal_form: slipper
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sword with command over heads
+  literal_form: sword
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: invisibility cloak
+  literal_form: cloak
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: transporting boots
+  literal_form: pair of boots
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: Golden Mountain
+  literal_form: mountain kingdom / place named Golden Mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:7
+  label: tree cut during sword test
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: stream and little boat site
+  literal_form: stream where a little boat had been pushed off
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: desertion beside the stream
+  summary: After the man falls asleep on the woman’s lap near the stream, she removes
+    his ring, leaves a slipper behind, takes the child, and returns to her own kingdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: acquisition of the giants’ inheritance
+  summary: The man encounters three giants disputing over a sword, cloak, and boots,
+    tests the objects, and gains possession of all three.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: return to the Golden Mountain wedding
+  summary: Using the boots, the man reaches the Golden Mountain, learns of his wife’s
+    wedding to another, enters unseen with the cloak, and takes her food and wine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: confrontation and restoration as king
+  summary: The man reveals himself, declares that the true king has returned, and
+    uses the sword’s command against the royal assembly, leaving himself master and
+    king again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: deserted spouse returns to interrupt remarriage
+  taxonomy_refs:
+  - return
+  basis: The husband is deserted while asleep, later returns to his palace, and stops
+    his wife’s wedding to another.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage supports the return-and-interrupted-wedding pattern, but no
+    broader tale-type identification is made from this excerpt alone.
+- id: motif:2
+  label: trickster acquisition of magical objects from giants
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The man is asked to divide the giants’ inheritance, requests the items for
+    testing, and leaves with the sword, cloak, and boots.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents quick-witted acquisition, but it does not explicitly
+    call the act theft or frame it as sacred.
+- id: motif:3
+  label: magical objects enabling concealment, transport, and lethal power
+  taxonomy_refs: []
+  basis: The inherited sword, cloak, and boots respectively sever heads by command,
+    make the wearer invisible, and transport the wearer to a wished-for place.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: No specific external taxonomy reference is assigned beyond the literal
+    object pattern.
+- id: motif:4
+  label: rightful king restored through violent return
+  taxonomy_refs:
+  - royal_legitimacy
+  - return
+  basis: The man identifies himself as the true king, defeats the assembled royal
+    opponents, and is once more king of the Golden Mountain.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents restoration of kingship, but moral or legal legitimacy
+    beyond the character’s claim is not independently verified within the excerpt.
+- id: motif:5
+  label: temporary fly-form or concealment through magic garment
+  taxonomy_refs:
+  - shapeshifter
+  basis: When the man puts on the cloak, he becomes invisible and is said to change
+    into a fly before resuming his own form.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The transformation is tied to testing the cloak and is brief; the passage
+    does not describe a recurring shapeshifter identity.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13334-13338
+  quote_or_summary: The man leads the woman outside the town to a field and stream
+    where a little boat had been pushed off, then asks to sleep on her lap and falls
+    asleep.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 13338-13343
+  quote_or_summary: While he sleeps, she removes the ring from his finger, leaves
+    only a slipper behind, takes her child, and wishes herself back to her own kingdom.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 13343-13349
+  quote_or_summary: 'He wakes deserted: wife, child, and ring are gone, with the slipper
+    remaining; he decides not to return to his parents and walks toward his own kingdom.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 13349-13361
+  quote_or_summary: 'At a hill, three giants dispute over their father’s inheritance:
+    a sword that answers the command for all heads but the wielder’s to fall, a cloak
+    of invisibility, and boots that transport the wearer anywhere wished.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 13361-13378
+  quote_or_summary: The man tests the cloak and becomes invisible and fly-like, tests
+    the sword on a tree trunk, obtains the boots, wishes to be on the Golden Mountain,
+    and vanishes from the giants.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: 13378-13389
+  quote_or_summary: Near his palace, he hears wedding music and learns his wife is
+    marrying another; with the cloak he enters unseen and takes food and wine from
+    her plate and glass during the feast.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: quote
+  locator: 13389-13395
+  quote_or_summary: 'After following her to her chamber, he accuses and strikes her,
+    makes himself visible, and announces: “The wedding is at an end, the true King
+    has returned.”'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: 13395-13399
+  quote_or_summary: The assembled kings, princes, and councillors mock him and try
+    to seize him; he uses the sword’s command, all heads roll except his, and he is
+    once more King of the Golden Mountain.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied public-domain passage.
+    Motif labels are candidate classifications from the provided taxonomy where supported;
+    no external tale-type or historical comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line naming “93 The Raven” appears to mark the next tale and was not treated as part of the extracted narrative scene.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l13334-l13399
+  passage_sha256=4a50d4187e83f101c470b7fb3df05f448ad20b723d238b7d4c054c0be32140a8
+

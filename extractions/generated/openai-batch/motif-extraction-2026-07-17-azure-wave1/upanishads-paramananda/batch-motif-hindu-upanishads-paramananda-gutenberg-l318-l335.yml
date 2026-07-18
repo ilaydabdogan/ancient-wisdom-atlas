@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l318-l335
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: The Upanishads; lines 318-335
+  start: '318'
+  end: '335'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: from the Invisible Whole comes forth the visible whole
+  summary: The passage introduces the Isa-Upanishad by stating themes of Soul-God
+    oneness, faith, works, ultimate attainment, and knowledge of the real Self. The
+    Peace Chant describes the Invisible-Absolute and the visible phenomenal as whole,
+    with the visible whole coming forth from the Invisible Whole while the Whole remains
+    unaltered.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that oneness of the Soul and God is a leading theme of
+    the Upanishad.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that faith and works have value as means of ultimate attainment.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says works alone can bring only temporary happiness and can bind
+    a man unless they lead to knowledge of the real Self.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that helping a person acquire knowledge of the real Self
+    is the aim of this and all Upanishads.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Peace Chant identifies the Invisible-Absolute and the visible phenomenal
+    as whole.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Peace Chant says the visible whole comes forth from the Invisible Whole,
+    and the Whole remains unaltered.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Soul
+  description: Named in the passage as one term in the stated theme of oneness of
+    the Soul and God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: Named in the passage as one term in the stated theme of oneness of
+    the Soul and God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: a man
+  description: A generic human figure who may be bound by works unless through them
+    he gains knowledge of his real Self.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Invisible Whole / Invisible-Absolute
+  description: Described as whole; the visible whole comes forth from it, yet it remains
+    unaltered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: visible whole / visible phenomenal
+  description: Described as whole and as coming forth from the Invisible Whole.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: paired principles in oneness
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage names the oneness of the Soul and God as a leading theme.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: human seeker of real Self-knowledge
+  assigned_to:
+  - fig:3
+  basis: The passage describes a man as bound by works unless he gains knowledge of
+    his real Self through them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: undiminished source
+  assigned_to:
+  - fig:4
+  basis: The visible whole comes forth from the Invisible Whole, yet the Whole remains
+    unaltered.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: manifest whole
+  assigned_to:
+  - fig:5
+  basis: The visible phenomenal is called whole and is said to come forth from the
+    Invisible Whole.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: OM
+  literal_form: The opening syllable of the Peace Chant.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Invisible Whole
+  literal_form: "“That” identified parenthetically as the Invisible-Absolute and described
+    as whole."
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: visible whole
+  literal_form: "“this” identified parenthetically as the visible phenomenal and described
+    as whole."
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introductory teaching on works and self-knowledge
+  summary: The passage introduces themes of Soul-God oneness, faith, works, ultimate
+    attainment, and the need for knowledge of the real Self beyond works alone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Peace Chant of whole from Whole
+  summary: The chant opens with OM and describes the Invisible-Absolute and visible
+    phenomenal as whole; the visible whole emerges from the Invisible Whole without
+    altering it.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Soul-God oneness as ultimate attainment
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage explicitly names oneness of the Soul and God and ultimate attainment
+    as leading themes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states oneness but does not explicitly describe annihilation
+    or loss of individuality.
+- id: motif:2
+  label: Self-knowledge over binding works
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says works alone bring temporary happiness and bind unless they
+    lead to knowledge of the real Self, and that acquiring this knowledge is the aim
+    of the Upanishads.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is doctrinal rather than narrative in this passage.
+- id: motif:3
+  label: Visible manifestation from an undiminished invisible source
+  taxonomy_refs: []
+  basis: The Peace Chant says the visible whole comes from the Invisible Whole, while
+    the Whole remains unaltered.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this emanation pattern.
+- id: motif:4
+  label: Invisible-visible whole polarity
+  taxonomy_refs:
+  - duality
+  basis: The chant contrasts the Invisible-Absolute with the visible phenomenal while
+    describing both as whole.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes wholeness and continuity rather than a strict opposition
+    between two separate realms.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 318-320
+  quote_or_summary: "“Oneness of the Soul and God, and the value of both faith and
+    works as means of ultimate attainment” are stated as leading themes."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 320-326
+  quote_or_summary: The passage says works alone bring temporary happiness and bind
+    a man unless through them he gains knowledge of his real Self; helping acquire
+    this knowledge is the aim of the Upanishads.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 331-334
+  quote_or_summary: The Peace Chant begins with OM and states that “That,” the Invisible-Absolute,
+    is whole, and “this,” the visible phenomenal, is whole.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized with brief terms.
+- id: ev:4
+  type: quote
+  locator: 333-335
+  quote_or_summary: "“from the Invisible Whole comes forth the visible whole”; after
+    this emergence, the Whole remains unaltered."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are cautious
+    because the passage is doctrinal and liturgical rather than narrative. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l318-l335
+  passage_sha256=b4bb72ec03a40e3a101430b36969b503fcd7378399238b67bbeb365ea7bdbc81
+

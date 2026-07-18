@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l47327-l47373
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLI. The Ruin Of The Grove. / Canto XLII. The Giants Roused. / Canto
+    XLIII. The Ruin Of The Temple. / Canto XLV. The Seven Defeated.; lines 47327-47373
+  start: '47327'
+  end: '47373'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: The remnant, seized with sudden dread, / Turned from the grove and wildly
+    fled.
+  summary: Seven armed chiefs with chariots and bows attack Hanumán in the ruined
+    grove. Hanumán evades their arrows, roars, rushes on the hostile force, kills
+    many by physical blows and by his roar, and the surviving remnant flees through
+    a battlefield covered with wreckage and blood.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Seven chiefs go forth in brave attire with massive bows, gold-worked banners,
+    chariots, and noble horses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The seven drive through the ruins of the grove at Hanumán and shoot a rain-like
+    shower of deadly arrows.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hanumán’s form is nearly hidden by the arrows, with a simile comparing him
+    to the king of mountains partly veiled by rainy clouds.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hanumán avoids the arrows and rushing chariots by quick turns, bounds, and
+    rising in the air.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hanumán roars and yells, causing fear to fall on the army before he rushes
+    on the foe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hanumán kills or overthrows enemies with his open hand, feet, nails, fists,
+    legs, chest, and roar.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The surviving remnant becomes afraid and flees from the grove.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The ground is trampled and covered with fallen horses, chariots, and flags,
+    while blood flows along the path and road from slaughtered fiends.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hanumán / the Vánar
+  description: A mighty Vánar who is attacked in the ruined grove, evades arrows and
+    chariots, roars, and defeats the hostile force.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The seven chiefs
+  description: Seven brave, impetuous, martial chiefs with massive bows, gold-worked
+    banners, chariots, and noble horses.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Hostile army or foemen
+  description: The larger hostile force around Hanumán; fear falls on the army, many
+    are killed, and the remnant flees.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: single embattled warrior
+  assigned_to:
+  - fig:1
+  basis: Hanumán stands amid archer foemen, evades their attack, roars, and rushes
+    on them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: attacking armed foes
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The seven chiefs and foemen drive at Hanumán with bows, arrows, chariots,
+    and an army.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: defeated and routed enemies
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Enemies are killed or overthrown, and the surviving remnant flees from the
+    grove.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire-brilliance
+  literal_form: The seven are described as being “brilliant as the fire,” and Hanumán’s
+    warrior soul is described as aglow with fury.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: arrow storm
+  literal_form: A shower of deadly arrows and an arrowy storm envelop Hanumán’s form.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mountain veiled by clouds
+  literal_form: Hanumán under the arrows is compared to the Mountains’ King half veiled
+    by rainy clouds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wind among clouds
+  literal_form: Hanumán amid bow-armed foemen is compared to frolic wind among clouds.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: terrifying roar
+  literal_form: Hanumán raises a roar and yell that spreads fear, and some enemies
+    are struck senseless by his roar.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: ruined grove
+  literal_form: The combat takes place through the ruins of the grove.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: rivers of blood
+  literal_form: Red blood flows in rivers from slaughtered fiends over the path and
+    road.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: seven
+  literal_form: The passage title and opening identify seven defeated warriors or
+    chiefs.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+scenes:
+- id: scene:1
+  label: The seven chiefs advance
+  summary: Seven martial chiefs go forth in decorated chariots with bows, banners,
+    and noble horses.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrow attack in the ruined grove
+  summary: The chiefs drive at Hanumán through the ruined grove and shoot so many
+    arrows that his form is nearly hidden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hanumán evades and counterattacks
+  summary: Hanumán moves rapidly, rises in the air, avoids arrows and chariots, roars,
+    and rushes on the foe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Defeat and rout of the hostile force
+  summary: Hanumán kills many enemies by bodily force and by his roar; the remnant
+    flees, leaving a field strewn with wreckage and blood.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: single warrior defeats multiple armed attackers
+  taxonomy_refs: []
+  basis: Hanumán is attacked by seven bow-bearing chiefs and archer foemen, evades
+    their assault, and defeats the hostile force.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives a battle episode but does not itself generalize it into
+    a named mythic motif.
+- id: motif:2
+  label: terrifying roar as weapon
+  taxonomy_refs: []
+  basis: Hanumán’s roar spreads fear through the army, and some enemies are struck
+    senseless by the roar and die.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The roar is a literal battle action in this passage; broader symbolic
+    interpretation is not stated.
+- id: motif:3
+  label: battlefield devastation after heroic combat
+  taxonomy_refs: []
+  basis: After the combat, the remnant flees and the earth is covered with fallen
+    horses, chariots, flags, and rivers of blood.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an aftermath image of slaughter rather than an explicitly named
+    motif family in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 47329-47338
+  quote_or_summary: Seven chiefs go forth in brave attire, “brilliant as the fire,”
+    with massive bows, gold-worked banners, chariots, and noble horses.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 47339-47346
+  quote_or_summary: The chiefs drive through the ruined grove at Hanumán and loose
+    a “shower of deadly arrows”; his form is enveloped in an “arrowy storm” and compared
+    to the Mountains’ King veiled by rainy clouds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 47347-47354
+  quote_or_summary: Hanumán avoids the arrows and rushing chariots by quick turns,
+    bounds, and rising in the air; he is compared to playful wind among bow-armed
+    clouds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 47355-47358
+  quote_or_summary: Hanumán raises a “mighty roar and yell” that causes fear in the
+    army, then rushes on the foe with fury.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 47359-47366
+  quote_or_summary: Hanumán beats, tramples, rends, overthrows, and crushes enemies
+    with hand, feet, nails, fists, legs, chest, and roar; some die after being struck
+    senseless by the roar.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 47367-47372
+  quote_or_summary: The remnant flees; the trampled earth is strewn with fallen steed,
+    car, and flag, and “red blood in rivers flowed” from slaughtered fiends.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: citation
+  locator: line 47327
+  quote_or_summary: Canto title identifies the episode as “The Seven Defeated.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; citation-level evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal battle sequence, figures, and images are explicit in the passage.
+    Motif labels are descriptive and not asserted as formal taxonomy matches. No external
+    comparative claim is made because the supplied passage does not support one directly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to explicit fire and mountain imagery from the available symbol list.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l47327-l47373
+  passage_sha256=7d2641f9086a42c8e4d33c3a05f4d16b6567d9a9ca1cfa27358f2fc0bfd04b2e
+

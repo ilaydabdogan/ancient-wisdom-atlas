@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l5039-l5107
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: MAKING LEATHER AND PREPARING SKINS. / SUNDRY IMPLEMENTS. / TRANSPORTATION
+    BY BOATS AND SLEDGES. / THE BOAT (UMIAQ).; lines 5039-5107
+  start: '5039'
+  end: '5107'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A technical ethnographic description of the umiaq: a driftwood-framed
+    boat assembled with thongs, covered with seal skins, propelled by large oars,
+    steered by paddle or rare rudder, and sometimes fitted with a seal-intestine sail.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The main frame element is a timber running from stem to stern, made of driftwood;
+    boats are rare or not made in places where wood is lacking.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gunwales, curved bottom strips, cross pieces, ribs, lateral strips, and thwarts
+    form the boat frame; the pieces are tied with thongs rather than riveted.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The frame is covered with seal skins, usually ground seal skins when available,
+    and the cover is wetted, tightened over the gunwale, and secured with thongs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boat is propelled by two large oars, held in rowlocks made from bone,
+    thongs, loops, and toggles to protect the skin covering from friction.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The oar has a long shaft and oval or round blade, and generally three or four
+    women work at each oar.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Steering is done with a paddle of the whaling type; rudders are rare and are
+    described as probably imitating European devices.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When wind permits, a mast and square sail are used; the sail is made of sewn
+    seal intestines and worked with sealskin rope and sheets fastened to thwarts.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Women working the oars
+  description: A collective group described as generally three or four women working
+    at each oar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: rowers
+  assigned_to:
+  - fig:1
+  basis: The passage states that three or four women generally work at each oar.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: umiaq boat
+  literal_form: Large wood-framed, skin-covered boat used for transportation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: driftwood frame
+  literal_form: Central timber, gunwales, ribs, strips, cross pieces, and thwarts
+    tied with thongs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: seal-skin cover
+  literal_form: Ground seal, harp seal, or small seal skins stretched over the frame
+    and fastened with thongs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: oars and rowlocks
+  literal_form: Two large oars with bone-and-thong rowlocks tightened by toggles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: steering paddle and rare rudder
+  literal_form: Paddle used for steering, with rudder rarely found
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: seal-intestine sail
+  literal_form: Square sail made of sewn seal intestines, fastened to a yard and hoisted
+    with sealskin rope
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Frame construction
+  summary: The umiaq frame is described as a driftwood structure with stem-to-stern
+    timber, posts, gunwales, ribs, strips, cross pieces, and thwarts tied together
+    with thongs.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Skin covering
+  summary: Seal skins are fitted over the frame, wetted, drawn tightly over the gunwale,
+    and fastened to upper side strips and end pieces with thongs.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Rowing arrangement
+  summary: The boat is propelled by two large oars held in protective bone-and-thong
+    rowlocks; groups of women commonly work each oar.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Steering and sailing
+  summary: The boat is steered by paddle or rarely by rudder, and when wind allows
+    it can carry a mast and square seal-intestine sail.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: skin-covered driftwood vessel
+  taxonomy_refs: []
+  basis: The passage repeatedly describes a large boat whose wooden frame is tied
+    with thongs and covered with seal skins.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a material-culture pattern, not evidence for a sacred or mythological
+    vessel motif in this passage.
+- id: motif:2
+  label: collective rowing by women
+  taxonomy_refs: []
+  basis: The passage states that three or four women generally work at each of the
+    two oars.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a social and technical rowing arrangement, with no narrative
+    or ritual interpretation.
+- id: motif:3
+  label: animal-derived boat covering and sail materials
+  taxonomy_refs: []
+  basis: The passage describes seal skins as the boat cover and sewn seal intestines
+    as sail material, with sealskin rope used for hoisting.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: This is an observed technological pattern; symbolic meaning is not stated.
+comparison_claims:
+- id: claim:1
+  claim: The rare rudder is described as probably made in imitation of European devices.
+  claim_level: historical_contact
+  target: European rudder or steering-device technology
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage qualifies the claim with 'most probably' and gives no further
+    details about date, mechanism, or specific European model.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5039-5107; opening boat-frame paragraph
+  quote_or_summary: The main frame timber runs from stem to stern, is made of driftwood
+    procured in named regions, and boats are rare or not made where wood is lacking.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 5039-5107; frame-construction paragraph
+  quote_or_summary: '"All these pieces are tied together with thongs, rivets not being
+    used at all."'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5039-5107; skin-covering paragraph
+  quote_or_summary: The frame is covered with ground seal skins when available, with
+    other seal skins as substitutes; the cover is wetted, drawn tight, and fastened
+    by thongs.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5039-5107; propulsion and rowlock paragraph
+  quote_or_summary: The boat is propelled by two large oars; bone protects the skin
+    at the rowlock, and crossed thong loops tightened by toggles hold the oar.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 5039-5107; oar paragraph
+  quote_or_summary: '"Generally three or four women work at each oar."'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5039-5107; steering paragraph
+  quote_or_summary: Steering uses a paddle like that used in whaling; a rudder is
+    rare and is said most probably to imitate European devices.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 5039-5107; sail paragraph
+  quote_or_summary: When wind permits, a mast and square sail are set; the sail is
+    made of sewn seal intestines, fastened to a yard, and hoisted by sealskin rope.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a technical ethnographic description. Literal extraction is
+    strong, but mythological or symbolic interpretation is not directly supported;
+    motif candidates are therefore limited to material-culture patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference is applied; the passage does not support an ark-vessel, sacred, or narrative reading.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l5039-l5107
+  passage_sha256=d9ad5006dac7c1aa1b3f2dd928fd5a633af554731a08c5e8b436fd0785d39d2d
+

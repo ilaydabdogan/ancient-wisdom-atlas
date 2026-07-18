@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l8332-l8491
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'MYTHOLOGICAL. / FOOTNOTES: / CHAPTER III. / MYTHOLOGICAL.; lines 8332-8491'
+  start: '8332'
+  end: '8491'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A peasant and Woe uncover gold under a stone in an open plain. The peasant
+    tricks Woe into entering the pit and seals it under the stone, becoming prosperous.
+    His rich brother learns the story, releases Woe out of envy, and Woe clings to
+    him, causing renewed drinking and loss. The merchant then tricks Woe into a wheel,
+    wedges it shut, and throws it into a river, where Woe is drowned. A Tula variant
+    replaces Woe with Nuzhda, or Need, whose voice joins a poor couple's song after
+    they drink water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Woe asks the peasant whether he knows the big stone on the plain and directs
+    him to drive to it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the stone is lifted, a pit underneath is revealed, filled with gold.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The peasant fills the cart with gold and clears the pit to the last ducat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The peasant tells Woe to get into the pit to look for remaining money, and
+    then closes the pit mouth with the stone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After taking the gold home, the peasant buys a wood, builds a large homestead,
+    and becomes twice as rich as his brother.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At a name-day feast, the peasant tells his rich brother that Woe had attached
+    itself to him, drunk away his goods, shown him treasure, and then been escaped
+    from.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The rich brother becomes envious and decides to lift the stone and release
+    Woe so that Woe will destroy his brother.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the rich brother opens the stone, Woe leaps out, sits on his shoulders,
+    and declares that it will not depart from him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Woe grips the rich merchant by the neck, is carried home by him, and resumes
+    causing daily drinking and loss of valuables at the pot-house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The merchant prepares two oaken wedges and a new wheel by driving one wedge
+    into one end of the axle-box.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: During a hide-and-seek game, Woe boasts that it can enter any chink, slips
+    into the wheel, is wedged in from the other side, and is thrown into the river,
+    where it drowns.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A Tula Government variant has Nuzhda, or Need, in place of Woe; a poor brother
+    and his wife drink water, begin singing, and hear a third voice identified as
+    Need.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: poor peasant / former beggar / moujik
+  description: The man formerly afflicted by Woe, who takes the treasure, traps Woe
+    under the stone, and later becomes prosperous.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Woe the Woeful
+  description: A speaking being called Woe that attaches itself to humans, reveals
+    the treasure, is trapped in a pit, later clings to the rich brother, induces drinking,
+    enters a wheel, and is drowned.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: rich brother / merchant
+  description: The peasant's rich brother, who becomes envious, releases Woe from
+    under the stone, carries Woe home, suffers losses, and then traps Woe in a wheel.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Nuzhda / Need
+  description: In the Tula Government variant, Need appears in place of Woe and answers
+    as a third voice in the poor couple's song.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: poor brother and wife in Tula variant
+  description: A poor couple returning disconsolately from the rich brother's son's
+    marriage party; after drinking water, they sing and hear Need's voice.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: former bearer of Woe
+  assigned_to:
+  - fig:1
+  basis: The peasant says Woe attached itself to him and helped drink away all that
+    he had before showing him the treasure.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: personified affliction
+  assigned_to:
+  - fig:2
+  basis: Woe attaches to people, sits on shoulders, grips the neck, induces drinking,
+    and causes possessions to be lost.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: treasure revealer
+  assigned_to:
+  - fig:2
+  basis: Woe directs the peasant to the stone and helps lift it, revealing a pit filled
+    with gold.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deceptive confinor of Woe
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The peasant traps Woe in the pit under a stone, and the merchant later traps
+    Woe inside a wheel with wedges.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: envious releaser and new bearer of Woe
+  assigned_to:
+  - fig:3
+  basis: The rich brother releases Woe to harm his brother, but Woe instead attaches
+    itself to him and follows him home.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: variant personified Need
+  assigned_to:
+  - fig:4
+  basis: The variant is explicitly said to have Nuzhda, or Need, in place of Woe,
+    and the third voice identifies itself as Need.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: variant poor singers
+  assigned_to:
+  - fig:5
+  basis: The poor brother and his wife drink water on their way home and begin a song
+    joined by a third voice.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: big stone over hidden pit
+  literal_form: A big stone on the open plain covering the mouth of a pit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: pit filled with gold
+  literal_form: A pit beneath the lifted stone, chock full of gold and ducats.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gold treasure
+  literal_form: Gold and ducats loaded into the cart and later stored in the peasant's
+    cellar.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: wheel with axle-box
+  literal_form: A new wheel whose axle-box becomes Woe's hiding place and prison.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: oaken wedges
+  literal_form: Two oaken wedges used to seal the wheel's axle-box from both sides.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: river water
+  literal_form: The river into which the merchant throws the wheel containing Woe.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: draught of water in variant
+  literal_form: Water drunk by the poor brother and his wife before they begin singing.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: third voice
+  literal_form: A third voice prolonging the song of two people and identifying itself
+    as Need.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Discovery of treasure under the stone
+  summary: Woe guides the peasant to a big stone on the plain; when they lift it,
+    they find a pit full of gold, which the peasant loads into the cart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Woe sealed in the pit
+  summary: The peasant persuades Woe to enter the pit to look for remaining money
+    and then closes the pit with the stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prosperity and disclosure at the feast
+  summary: The peasant becomes wealthy, hosts his rich brother and sister-in-law,
+    and explains how Woe once ruined him, showed him treasure, and was left behind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Rich brother releases Woe
+  summary: Moved by envy, the rich brother opens the stone intending to free Woe against
+    his brother, but Woe leaps onto him and refuses to leave.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Merchant afflicted by Woe
+  summary: Woe grips the rich merchant, goes home with him, and resumes its usual
+    role of prompting drinking and loss of valuables.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Wheel trap and drowning of Woe
+  summary: The merchant proposes hide-and-seek, challenges Woe to enter a wheel, wedges
+    Woe inside, and throws the wheel into the river, drowning Woe.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Tula variant with Need
+  summary: The passage notes a Tula variant in which Need replaces Woe; a poor couple
+    drink water, sing, and hear a third voice identified as Need.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Personified misfortune clinging to a human
+  taxonomy_refs: []
+  basis: Woe is described as attaching to the peasant, later seating itself on the
+    rich brother's shoulders, gripping his neck, and refusing to depart.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage names Woe as an acting figure, but does not provide a formal
+    motif label.
+- id: motif:2
+  label: Hidden treasure beneath a stone in an open field
+  taxonomy_refs: []
+  basis: A big stone in the plain covers a pit full of gold, which Woe reveals to
+    the peasant.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to this treasure-location
+    pattern.
+- id: motif:3
+  label: Tricking a harmful being into confinement
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The peasant tricks Woe into a pit and seals it with a stone; the merchant
+    later tricks Woe into a wheel and seals it with wedges.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports deception and confinement,
+    but not a named trickster figure.
+- id: motif:4
+  label: Envious release of a confined affliction backfires
+  taxonomy_refs: []
+  basis: The rich brother opens the stone to release Woe against his brother, but
+    Woe attaches to him instead.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than an explicitly named
+    motif.
+- id: motif:5
+  label: Drowning a contained supernatural antagonist
+  taxonomy_refs: []
+  basis: After Woe enters the wheel, the merchant wedges it shut and throws the wheel
+    into the river, where Woe is drowned.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage treats Woe as a speaking being; classification as supernatural
+    remains an interpretive label based on its actions and name.
+- id: motif:6
+  label: Need as variant replacement for Woe
+  taxonomy_refs: []
+  basis: The passage states that a Tula Government variant has Nuzhda, or Need, in
+    place of Woe, and presents Need as a responding voice.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: Only the opening of the variant is provided in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The Tula Government variant is presented as functionally substituting Nuzhda,
+    or Need, for Woe in the story's role of personified hardship.
+  claim_level: same_function
+  target: Tula Government variant with Nuzhda / Need
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage explicitly says Need appears in place of Woe, but it gives
+    only the variant's opening scene, so the full plot correspondence cannot be confirmed
+    from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8336-8356
+  quote_or_summary: Woe directs the peasant to a big stone on the plain; lifting it
+    reveals a pit full of gold, and the peasant loads the gold into the cart.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 8358-8374
+  quote_or_summary: The peasant claims something still shines in the pit, tells Woe
+    to enter and look, and then closes the pit mouth with the stone so Woe cannot
+    accompany him home.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 8376-8380
+  quote_or_summary: The peasant brings the money home, returns the oxen, buys a wood,
+    builds a large homestead, and becomes twice as rich as his brother.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 8382-8410
+  quote_or_summary: At a name-day gathering, the peasant tells his rich brother that
+    Woe attached itself to him, drank away his goods, showed him treasure, and was
+    escaped from; the rich brother becomes envious.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 8412-8440
+  quote_or_summary: The rich brother opens the stone intending to release Woe against
+    his brother; Woe leaps out, sits on him, refuses to leave, grips him by the neck,
+    and causes renewed drinking and losses.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 8442-8476
+  quote_or_summary: The merchant prepares oaken wedges and a wheel, proposes hide-and-seek,
+    challenges Woe to enter the wheel, wedges Woe inside, throws the wheel into the
+    river, and Woe is drowned.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 8478-8491
+  quote_or_summary: A Tula Government variant has Nuzhda, or Need, in place of Woe;
+    after a poor brother and his wife drink water and sing, a third voice joins and
+    identifies itself as Need.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions are clear in the supplied passage. Motif labels are
+    candidate-level and require review, especially the broad taxonomy mapping to trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external tale-type or motif-index identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l8332-l8491
+  passage_sha256=ad06626b8b30fd170b27ee3569e11ca0dd5d12b25ee02ff7f2d83de903c3c3c8
+

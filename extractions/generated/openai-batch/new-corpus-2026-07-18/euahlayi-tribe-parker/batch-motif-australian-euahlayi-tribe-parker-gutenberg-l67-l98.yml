@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.australian-euahlayi-tribe-parker-gutenberg-l67-l98
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+passage_locator:
+  label: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia / CONTENTS;
+    lines 67-98'
+  start: '67'
+  end: '98'
+  translation: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is the title page and table of contents for K. Langloh Parker's
+    The Euahlayi Tribe. The contents list chapters on Byamee as All Father, relationships
+    and totems, medicine men, a witch woman, birth and betrothal, boy training and
+    Boorah meetings, funerals and mourning, stars and legends, practical subsistence
+    topics, amusements, and bush bogies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage identifies the work as The Euahlayi Tribe: A Study of Aboriginal
+    Life in Australia by K. Langloh Parker.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage is a contents list rather than a narrative episode.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One listed chapter is titled The All Father, Byamee.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list chapters concerning medicine men and leechcraft.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The contents list a chapter titled Our Witch Woman.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The contents list a chapter concerning stars and legends.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The contents list chapters concerning a boy's training before Boorah preliminaries
+    and Boorah meetings.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Byamee
+  description: Named in a contents entry as the All Father.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: medicine men
+  description: Listed as a chapter subject, including further discussion with leechcraft.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: witch woman
+  description: Listed as the subject of a chapter titled Our Witch Woman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: boy
+  description: Listed as the subject of training up to Boorah preliminaries.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: All Father
+  assigned_to:
+  - fig:1
+  basis: The contents entry explicitly calls Byamee the All Father.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: medicine practitioners
+  assigned_to:
+  - fig:2
+  basis: The contents list chapters on medicine men and on medicine men with leechcraft.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: witch woman
+  assigned_to:
+  - fig:3
+  basis: The contents entry gives the label Our Witch Woman.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: initiation-stage boy
+  assigned_to:
+  - fig:4
+  basis: The contents refer to training a boy up to Boorah preliminaries.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: stars
+  literal_form: stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: All Father figure
+  taxonomy_refs: []
+  basis: A contents entry names Byamee as the All Father, but the passage gives no
+    narrative action or relationships beyond this title.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage is only a table of contents; it does not provide a myth episode
+    or enough detail to map securely to a taxonomy motif.
+- id: motif:2
+  label: initiation or ceremonial training
+  taxonomy_refs:
+  - initiation
+  basis: The contents refer to a boy's training up to Boorah preliminaries and to
+    Boorah meetings.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The contents headings indicate an initiation-related topic, but no ceremonial
+    sequence is described in this passage.
+- id: motif:3
+  label: star legends
+  taxonomy_refs: []
+  basis: The contents include a chapter concerning stars and legends.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage does not give the content of any star legend.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 67-75
+  quote_or_summary: 'Title and authorship: The Euahlayi Tribe: A Study of Aboriginal
+    Life in Australia by K. Langloh Parker.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 76-98
+  quote_or_summary: The passage presents a contents list with sixteen chapters.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: line 79
+  quote_or_summary: II.   THE ALL FATHER, BYAMEE
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 81-82
+  quote_or_summary: The contents list chapters on the medicine men and on medicine
+    men with leechcraft.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 83
+  quote_or_summary: VI.   OUR WITCH WOMAN
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: line 88
+  quote_or_summary: The contents list a chapter on stars and legends.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 85-87
+  quote_or_summary: The contents list chapters on training a boy up to Boorah preliminaries
+    and on the Boorah and other meetings.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is weak because
+    the passage is a title page and contents list rather than a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support comparison beyond chapter-topic labels.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-euahlayi-tribe-parker-gutenberg__l67-l98
+  passage_sha256=eadd4fd86dac6b6a630022ef46dfc3bcf6bde298972c8f1e18273361fe1577bf
+

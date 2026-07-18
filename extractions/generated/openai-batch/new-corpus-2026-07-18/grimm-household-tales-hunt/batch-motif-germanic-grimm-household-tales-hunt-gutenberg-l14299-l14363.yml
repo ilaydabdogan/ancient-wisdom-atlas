@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l14299-l14363
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 14299-14363
+  start: '14299'
+  end: '14363'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A scholar releases a spirit from a bottle after extracting a promise of
+    reward. The spirit gives him a two-ended plaster-like object: one end heals wounds,
+    and the other turns steel or iron into silver. The scholar tests the healing power
+    on a tree, later changes an axe head into silver, sells the silver axe through
+    a goldsmith, enriches his father, returns to school, and becomes a famous doctor
+    through the plaster’s healing power.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The scholar initially refuses to release the spirit because the spirit had
+    once tried to take his life and had been caught again.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The spirit promises the scholar lasting plenty, no harm, and a rich reward
+    if released.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The scholar removes the cork, and the spirit rises from the bottle, stretches
+    out, and becomes as large as a giant.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The spirit gives the scholar a little bag like a plaster and says one end
+    heals wounds while the other changes steel or iron into silver.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The scholar tests the plaster on a tree after tearing off bark with his axe,
+    and the injured place closes and heals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The spirit thanks the scholar for release, and the scholar thanks the spirit
+    for the gift before returning to his father.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The father rebukes the scholar for neglecting work in the wood.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The scholar rubs the axe with the plaster and strikes a tree; because the
+    iron has changed into silver, the axe edge bends.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The father fears he must pay for the damaged axe and lacks the means to do
+    so.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The scholar persuades his father to go home with him from the wood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The scholar takes the axe to a goldsmith, who tests it, weighs it, values
+    it at four hundred thalers, pays three hundred, and remains one hundred in debt.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The scholar gives his father money, tells him to pay the neighbor double the
+    requested compensation for the axe, and says the father shall never know want.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The scholar tells his father what happened, returns to the High School, continues
+    learning, heals wounds with the plaster, and becomes a famous doctor.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the scholar / boy / son
+  description: A student who bargains with the spirit, releases it, receives and tests
+    the plaster, changes an axe into silver, provides money to his father, returns
+    to school, and becomes a famous doctor.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the spirit
+  description: A being in a bottle who had previously tried to take the scholar’s
+    life, begs release, promises reward, expands to giant size when freed, and gives
+    the scholar the plaster-like gift.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the father
+  description: The scholar’s father, working in the wood, who rebukes his son, fears
+    the cost of the damaged axe, and receives money from him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: the goldsmith
+  description: A town goldsmith who tests and weighs the axe, values it at four hundred
+    thalers, pays three hundred, and owes the scholar the remainder.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: the neighbor
+  description: A mentioned person to whom the father expects payment for the damaged
+    axe.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: cautious releaser
+  assigned_to:
+  - fig:1
+  basis: The scholar refuses release at first because of the prior threat, then decides
+    to risk releasing the spirit while believing it will not get the better of him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient and tester of magical gift
+  assigned_to:
+  - fig:1
+  basis: The scholar receives the plaster-like object, tests its healing power on
+    a tree, and later uses it on the axe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: imprisoned dangerous spirit
+  assigned_to:
+  - fig:2
+  basis: The spirit begs to be let out, is released from the bottle, and is described
+    as having once tried to take the scholar’s life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: supernatural reward-giver
+  assigned_to:
+  - fig:2
+  basis: The spirit promises reward and gives the scholar the plaster that heals wounds
+    and changes iron or steel into silver.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: anxious father and beneficiary
+  assigned_to:
+  - fig:3
+  basis: The father rebukes the son, worries about paying for the axe, and later receives
+    money and assurance of comfort.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:6
+  label: healer and student
+  assigned_to:
+  - fig:1
+  basis: The scholar returns to the High School, continues learning, heals wounds
+    with the plaster, and becomes a famous doctor.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: assayer and buyer
+  assigned_to:
+  - fig:4
+  basis: The goldsmith tests, weighs, values, and pays for the silver axe.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: compensation claimant
+  assigned_to:
+  - fig:5
+  basis: The father expects to pay the neighbor for the axe, and the son instructs
+    him to pay double the neighbor’s requested sum.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: bottle with cork
+  literal_form: A bottle closed by a cork from which the spirit is released.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: two-ended plaster-like bag
+  literal_form: A little bag like a plaster; one end heals wounds, and the other changes
+    steel or iron into silver.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: tree
+  literal_form: A tree whose bark is torn off and healed; later a tree is struck with
+    the treated axe.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: axe changed from iron to silver
+  literal_form: An axe rubbed with the plaster so that its iron becomes silver and
+    its edge bends.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: silver and thalers
+  literal_form: Silver produced from the axe and money paid for it by the goldsmith.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Bargain and release of the spirit
+  summary: The scholar refuses to release the spirit because of a prior attempt on
+    his life, then accepts the spirit’s promise of no harm and reward, removes the
+    cork, and frees it from the bottle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gift of the plaster and test on the tree
+  summary: The spirit gives the scholar a plaster-like object with healing and metal-changing
+    powers; the scholar tests the healing end on a tree wound and finds that it closes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Axe transmutation in the wood
+  summary: After the father rebukes him, the scholar rubs the axe with the plaster
+    and strikes a tree, but the iron has become silver and the edge turns crooked.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Sale of the silver axe and payment to the father
+  summary: The scholar takes the damaged axe to a goldsmith, who values it highly;
+    the scholar receives money, tells his father to pay the neighbor double, and gives
+    his father funds for comfort.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Return to study and fame as a doctor
+  summary: The scholar explains the events to his father, returns to the High School,
+    continues learning, heals wounds with the plaster, and becomes a famous doctor.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Release of a trapped spirit rewarded by a magical gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The scholar releases the spirit after a promise of reward, and the spirit
+    gives him a plaster-like object with healing and transmuting powers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exchange is explicit, but the taxonomy term is broader than the passage’s
+    wording; the passage does not call the exchange sacred.
+- id: motif:2
+  label: Dangerous captive being negotiated with rather than simply freed
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The spirit had previously tried to take the scholar’s life, begs to be released,
+    promises not to harm him, and is released only after the scholar weighs the risk.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage supports danger, containment, and negotiation; it does not
+    explicitly name the spirit a trickster.
+- id: motif:3
+  label: Transformation of base metal implement into precious metal wealth
+  taxonomy_refs: []
+  basis: The plaster changes the axe’s iron into silver, and the silver axe is valued
+    by a goldsmith for a large sum.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names metal transmutation.
+- id: motif:4
+  label: Healing object proves power by mending an injured tree
+  taxonomy_refs: []
+  basis: The scholar tears bark from a tree, applies one end of the plaster, and the
+    wound closes and heals.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The tree is literal and healing is explicit; broader sacred-tree interpretation
+    is not asserted.
+- id: motif:5
+  label: Released spirit expands to giant size
+  taxonomy_refs:
+  - shapeshifter
+  basis: When the cork is removed, the spirit rises from the bottle, stretches out,
+    and becomes as big as a giant.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a change in size and form, but not a full change
+    of species or identity.
+- id: motif:6
+  label: Magical healing gift leads to vocation and renown
+  taxonomy_refs: []
+  basis: The scholar continues his studies and becomes the most famous doctor in the
+    world because he can heal all wounds with the plaster.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level narrative pattern without a supplied taxonomy
+    match.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14299-14309
+  quote_or_summary: The spirit begs release; the scholar refuses because the spirit
+    had tried to take his life, while the spirit promises plenty, no harm, and rich
+    reward; the scholar decides to risk release while guarding against being bested.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 14309-14315
+  quote_or_summary: The scholar removes the cork; the spirit rises from the bottle,
+    becomes giant-sized, and gives a little bag like a plaster with one end for healing
+    wounds and the other for changing steel or iron into silver.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 14315-14320
+  quote_or_summary: The scholar tests the plaster on a tree by tearing off bark with
+    his axe; the wound closes and heals. The spirit and scholar thank each other and
+    part, and the scholar returns to his father.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 14322-14330
+  quote_or_summary: The father rebukes the scholar for neglecting work. The scholar
+    rubs the axe with the plaster and strikes a tree; the iron has become silver,
+    so the axe edge bends crooked.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 14330-14345
+  quote_or_summary: The father fears he must pay for the damaged axe and lacks means.
+    The son promises to pay, says he cannot work more, and persuades the father to
+    go home; the father tells him to sell the damaged axe and pay the neighbor.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 14346-14352
+  quote_or_summary: The son takes the axe to a goldsmith in town; the goldsmith tests
+    and weighs it, says it is worth four hundred thalers, gives three hundred, and
+    remains one hundred in debt.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 14352-14358
+  quote_or_summary: The son tells his father he has money, instructs him to pay the
+    neighbor double the asked price for the axe, gives the father one hundred thalers,
+    and says he shall never know want.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+- id: ev:8
+  type: summary
+  locator: lines 14358-14363
+  quote_or_summary: The father asks how the scholar got the riches; the scholar tells
+    what happened, returns to the High School, continues learning, and becomes the
+    most famous doctor because he can heal all wounds with the plaster.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Narrative actions, figures, and objects are explicit in the supplied passage.
+    Motif taxonomy mappings are cautious where taxonomy labels are broader than the
+    passage wording. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The visible next-tale title, “100 The Devil’s Sooty Brother,” was treated as a non-narrative heading and not extracted as part of the scene sequence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l14299-l14363
+  passage_sha256=df7e76ae5d083be79db5ca5a09a407d71d9376f2f3f010c8eb2041591192a832
+

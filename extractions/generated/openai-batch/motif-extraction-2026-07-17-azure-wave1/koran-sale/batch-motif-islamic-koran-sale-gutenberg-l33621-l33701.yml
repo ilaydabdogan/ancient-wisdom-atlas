@@ -1,0 +1,644 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l33621-l33701
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XLVI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XLVII. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 33621-33701
+  start: '33621'
+  end: '33701'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied line range contains the beginning of Chapter XLVII, declaring
+    that God nullifies the works of unbelievers, forgives and guides believers, commands
+    fighting against opponents, promises divine aid and paradise to believers, warns
+    through destroyed former peoples and cities, and contrasts paradise’s rivers and
+    fruits with hell fire and boiling water. The range also includes notes about genii
+    hearing Mohammed recite the Koran and believing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God is said to render ineffective the works of those who do not believe and
+    to expiate evil deeds from believers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The revelation is described as having been sent down unto Mohammed and as
+    truth from the Lord.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A commentarial note says genii heard Mohammed reading the Koran in the valley
+    of al-Nakhlah and believed on him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who do not believe are said to follow vanity, while those who believe
+    are said to follow truth from their Lord.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: When encountering unbelievers, the addressed believers are commanded to strike
+    them, bind them in bonds, and afterward release them freely or for ransom until
+    war ends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God is said to be able to take vengeance without human assistance, but to
+    command fighting in order to prove people by one another.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Those who fight in defense of God’s true religion are promised that their
+    works will not perish, that they will be guided, and that they will be led into
+    paradise.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: True believers who assist God by fighting for his religion are promised divine
+    assistance and firm footing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Infidels are said to perish, to have their works rendered vain, and to have
+    no protector.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:10
+  text: The audience is told to travel through the earth and observe the end of earlier
+    peoples whom God destroyed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Believers who do good works are said to be introduced into gardens beneath
+    which rivers flow, while unbelievers are assigned hell fire as their abode.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Paradise is described with rivers of water, milk, wine, and honey, along with
+    fruits and pardon; the contrasting hell-dweller is given boiling water to drink.
+  category: setting
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: Cities stronger than the city that expelled Mohammed are said to have been
+    destroyed without any helper.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The devil is said to have dressed up evil works for some people who follow
+    their lusts.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity who reveals truth, judges works, guides believers, commands
+    fighting, destroys former peoples and cities, assists believers, and assigns paradise
+    or hell.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: Mohammed
+  description: Named recipient of the revelation; in a note, he reads the Koran to
+    genii; the passage also refers to the city that expelled him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: fig:3
+  name_or_label: true believers / pious
+  description: Those who believe, do righteous works, follow truth, fight or assist
+    in God’s religion, and are promised guidance and paradise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:11
+- id: fig:4
+  name_or_label: unbelievers / infidels / enemies
+  description: Those who do not believe, turn men from God’s way, are encountered
+    as opponents in war, reject revelation, lack a protector, and are assigned hell
+    fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:11
+- id: fig:5
+  name_or_label: former peoples and stronger cities
+  description: Earlier peoples and cities described as having been destroyed by God
+    and used as examples for the present audience.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:6
+  name_or_label: devil
+  description: Agent said to dress up evil works for people who follow their lusts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: genii
+  description: Nonhuman hearers in a commentarial note who listen to Mohammed reciting
+    the Koran and believe on him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine judge and protector
+  assigned_to:
+  - fig:1
+  basis: God nullifies or preserves works, guides believers, destroys opponents, acts
+    as patron of believers, and assigns paradise or hell.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:11
+- id: role:2
+  label: recipient and reciter of revelation
+  assigned_to:
+  - fig:2
+  basis: The revelation is sent down unto Mohammed, and a note reports Mohammed reading
+    the Koran to genii.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: faithful recipients of guidance and reward
+  assigned_to:
+  - fig:3
+  basis: Believers are described as following truth, doing righteousness, fighting
+    or assisting God’s religion, receiving guidance, and entering paradise.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:11
+- id: role:4
+  label: opponents marked for defeat and punishment
+  assigned_to:
+  - fig:4
+  basis: Unbelievers are the opponents encountered in war, have vain works, lack a
+    protector, and are assigned hell fire.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:11
+- id: role:5
+  label: exemplary destroyed predecessors
+  assigned_to:
+  - fig:5
+  basis: Former peoples and stronger cities are cited as destroyed examples for the
+    audience to observe.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:6
+  label: evil-adornment agent
+  assigned_to:
+  - fig:6
+  basis: The devil is named as dressing up evil works for people who follow lusts.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: nonhuman hearers and converts in commentary
+  assigned_to:
+  - fig:7
+  basis: The note states that genii heard Mohammed reciting the Koran and believed
+    on him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: revelation / Koran
+  literal_form: Revelation sent down unto Mohammed; Koran recited by Mohammed in the
+    note.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bonds
+  literal_form: Bonds used to bind captured unbelievers.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: war laying down its arms
+  literal_form: The image of war laying down its arms.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: gardens with flowing rivers
+  literal_form: Gardens beneath which rivers flow.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: incorruptible water rivers
+  literal_form: Rivers of incorruptible water in paradise.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: milk rivers
+  literal_form: Rivers of milk whose taste does not change.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: wine rivers
+  literal_form: Rivers of wine pleasant to drinkers.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:8
+  label: honey rivers
+  literal_form: Rivers of clarified honey.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:9
+  label: hell fire
+  literal_form: Hell fire as the abode of unbelievers.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+  - ev:11
+- id: sym:10
+  label: boiling water
+  literal_form: Boiling water given to the hell-dweller to drink.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+- id: sym:11
+  label: fruits of paradise
+  literal_form: Plenty of all kinds of fruits in paradise.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Revelation and recompense
+  summary: 'God distinguishes unbelievers from believers: unbelievers’ works are made
+    ineffective, while believers who accept the revelation sent to Mohammed receive
+    expiation and rightly disposed hearts.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Genii hear recitation in commentary
+  summary: A note reports that genii heard Mohammed reciting the Koran in the valley
+    of al-Nakhlah and believed on him.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Battle command and captivity
+  summary: Believers are instructed how to act when encountering unbelievers in battle,
+    including striking, binding captives, and later releasing or ransoming them until
+    war ends; the command is framed as a divine test.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Divine aid for believers and ruin for infidels
+  summary: Those who assist God’s religion are promised divine assistance and firm
+    footing, while infidels are said to perish and have their works made vain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Destroyed predecessors and cities
+  summary: The audience is urged to observe the fate of earlier peoples and stronger
+    cities that God destroyed, with a similar catastrophe said to await unbelievers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: scene:6
+  label: Paradise and hell contrasted
+  summary: Believers who do good are promised gardens with rivers, fruits, and pardon,
+    while unbelievers or hell-dwellers are associated with hell fire and boiling water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:8
+  - ev:11
+- id: scene:7
+  label: Plain declaration versus devil-dressed evil
+  summary: A contrast is drawn between one who follows the plain declaration of the
+    Lord and one whose evil works have been dressed up by the devil and who follows
+    lusts.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment according to belief and works
+  taxonomy_refs:
+  - divine_judgment
+  basis: God invalidates unbelievers’ works, expiates believers’ evil deeds, preserves
+    the works of those fighting for the true religion, and assigns paradise or hell.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:11
+  confidence: high
+  cautions: The passage presents a theological judgment pattern; no external comparative
+    claim is required.
+- id: motif:2
+  label: Destroyed predecessors as warning exempla
+  taxonomy_refs:
+  - divine_judgment
+  basis: Earlier peoples and stronger cities are cited as destroyed by God, with a
+    like catastrophe said to await unbelievers.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage does not name the earlier peoples or cities in this excerpt.
+- id: motif:3
+  label: Contrasted afterlife landscapes of paradise and hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: Paradise is described with gardens, flowing rivers, water, milk, wine, honey,
+    fruits, and pardon; hell is described through fire and boiling water.
+  evidence_refs:
+  - ev:8
+  - ev:11
+  confidence: medium
+  cautions: The passage describes destinations and conditions, but it does not narrate
+    an afterlife journey.
+- id: motif:4
+  label: Battle as divine proof and rewarded service
+  taxonomy_refs: []
+  basis: Fighting is commanded as God’s test of people by one another, and those who
+    fight or assist God’s religion are promised guidance, divine assistance, and paradise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames battle legally and theologically; no mythic combat
+    episode or heroic monster-slaying is narrated.
+- id: motif:5
+  label: Nonhuman beings converted by sacred recitation
+  taxonomy_refs: []
+  basis: A note reports that genii heard Mohammed reading the Koran and believed on
+    him.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This detail appears in a commentarial note within the supplied range and
+    may refer to adjacent chapter context rather than the main Chapter XLVII passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the fate awaiting unbelievers with the fate of
+    earlier peoples and stronger cities destroyed by God, using the earlier destructions
+    as warning precedents.
+  claim_level: same_function
+  target: earlier destroyed peoples and cities as warning exempla for present unbelievers
+  evidence_refs:
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage; the excerpt names no specific
+    destroyed community and does not support claims of historical contact or cross-tradition
+    borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 33621-33701, opening declaration of Chapter XLVII
+  quote_or_summary: God renders ineffective the works of unbelievers, expiates evil
+    deeds from believers, disposes believers’ hearts aright, and identifies the revelation
+    sent down unto Mohammed as truth from the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 33621-33701, notes q-r
+  quote_or_summary: A note says genii heard Mohammed reading the Koran by night or
+    after morning prayer in the valley of al-Nakhlah during his retreat to al-Tayef
+    and believed; another note says commentators suppose they had formerly been Jewish.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 33621-33701, battle command section
+  quote_or_summary: When encountering unbelievers, the addressed believers are told
+    to strike them, bind them in bonds, and afterward release them freely or for ransom
+    until war lays down its arms.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 33621-33701, divine testing and fighters’ reward
+  quote_or_summary: God could take vengeance without human assistance, but commands
+    fighting to prove people by one another; those who fight in defense of God’s true
+    religion will have their works preserved, be guided, have hearts set right, and
+    be led into paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 33621-33701, promise of assistance and ruin of infidels
+  quote_or_summary: True believers who assist God by fighting for his religion are
+    promised God’s assistance and firm footing; infidels are said to perish and to
+    have works rendered vain because they reject what God revealed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 33621-33701, travel-through-earth warning
+  quote_or_summary: The audience is asked whether they have traveled through the earth
+    and seen the end of earlier peoples; God utterly destroyed them, and a like catastrophe
+    awaits unbelievers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 33621-33701, patron/protector contrast
+  quote_or_summary: God is described as patron of true believers, while infidels are
+    said to have no protector.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 33621-33701, gardens and hell contrast
+  quote_or_summary: Believers who do good works are introduced into gardens beneath
+    which rivers flow; unbelievers indulge themselves and their abode is hell fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 33621-33701, stronger cities destroyed
+  quote_or_summary: Many cities stronger than the city that expelled Mohammed are
+    said to have been destroyed, with none to help them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 33621-33701, devil-dressed evil works
+  quote_or_summary: The passage contrasts one who follows the Lord’s plain declaration
+    with one whose evil works have been dressed up by the devil and who follows lusts.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+- id: ev:11
+  type: summary
+  locator: lines 33621-33701, description of paradise and hell-drink
+  quote_or_summary: Paradise promised to the pious contains rivers of incorruptible
+    water, milk, wine, clarified honey, many fruits, and pardon; by contrast, the
+    hell-dweller receives boiling water to drink.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source supplied; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage and notes. Motif taxonomy
+    assignments are cautious where the passage describes afterlife settings or battle
+    commands without narrating a journey or mythic combat. The only comparison claim
+    is internal to the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupplied taxonomy identifiers were used. Available symbol refs were applied only to literal water, milk, and fire imagery present in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l33621-l33701
+  passage_sha256=14eb8da09303b53aaa4de00ad96c28b9a854834d9c1d120620ae2c167d20898f
+

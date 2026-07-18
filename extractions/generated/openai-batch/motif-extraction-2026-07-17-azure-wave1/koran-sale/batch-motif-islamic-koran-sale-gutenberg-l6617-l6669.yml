@@ -1,0 +1,610 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6617-l6669
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN THE KORN. / SECTION VI. / OF
+    THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS.; lines 6617-6669
+  start: '6617'
+  end: '6669'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes legal rules attributed to the Koran and related
+    commentary: legitimacy of children, contract witnesses and writings, oaths in
+    debt disputes, compensation or retaliation for wilful murder, comparison with
+    Mosaic law, Arab revenge customs, and penalties or redemption for manslaughter.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children of legal wives are treated as legitimate; only children of common
+    women whose fathers are unknown are described as bastards.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says private contracts between persons should be conscientiously
+    performed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Contracts and future debts are to be witnessed and, when not immediately executed,
+    written in the presence of witnesses; two male Muslim witnesses are preferred,
+    with one man and two women allowed if two men are not available.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Where a writer cannot be found for a debt, pledges are to be taken.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If parties rely on trust without writing, witnesses, or pledge, the demanded
+    party is acquitted by denying the charge on oath unless contrary circumstances
+    prove the claim.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Wilful murder is described as forbidden under severe penalties in the next
+    life.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Wilful murder may be compounded by paying a fine to the deceased's family
+    and freeing a Muslim captive, but the next of kin may accept this satisfaction
+    or demand the murderer for execution.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage contrasts the murder-compensation rule with Mosaic law and links
+    it to Arab customs of revenge and tribal warfare.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Manslaughter must be redeemed by fine and freeing a captive unless the next
+    of kin remits the fine; if the slayer cannot do this, he must fast two months
+    as penance.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The fine for a man's blood is stated as one hundred camels and distributed
+    among the deceased's relations; if the slain person belongs to an enemy or non-confederate
+    group, freeing a captive is treated as sufficient.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: contracting persons
+  description: Persons involved in private contracts, debts, or trust-based obligations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: witnesses
+  description: Witnesses to contracts and debts, specified as two male Muslims or
+    one man and two women when two men cannot be had.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: writer
+  description: A person who writes down a contract or debt obligation; if no writer
+    is found, pledges are taken.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: party on whom the demand is made
+  description: The person against whom a claim is made and who may be acquitted by
+    denial on oath in the absence of writing, witnesses, or pledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: plaintiff
+  description: The claimant to whom the demanded party allegedly owes something.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: murderer or slayer
+  description: The person who commits wilful murder or manslaughter and is subject
+    to compensation, execution, captivity-redemption, or fasting penalties.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: deceased or slain person
+  description: The person killed in murder or manslaughter cases.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: next of kin or revenger of blood
+  description: The deceased person's kin who may accept compensation, remit it, or
+    demand delivery of the murderer.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:9
+  name_or_label: Muslim captive or captive
+  description: A captive whose freeing forms part of compensation or penalty for murder
+    or manslaughter.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:10
+  name_or_label: family or relations of the deceased
+  description: The deceased person's family or relations who receive the fine for
+    blood according to inheritance rules.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:11
+  name_or_label: Arabs and tribes in revenge custom
+  description: Arab groups described as engaging in unmerciful revenge and tribal
+    wars over murder in the absence of a common superior judge.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+- id: fig:12
+  name_or_label: legal wives, common women, and unknown fathers
+  description: Persons named in the legitimacy rule distinguishing children of wives
+    from children of common women whose fathers are unknown.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: contracting party
+  assigned_to:
+  - fig:1
+  basis: The passage discusses private contracts and debts between persons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: legal witness
+  assigned_to:
+  - fig:2
+  basis: Witnesses are required for contracts and writings, with specified witness
+    combinations.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: scribe or writer
+  assigned_to:
+  - fig:3
+  basis: Contracts or debts are to be reduced into writing, and pledges are used when
+    no writer is found.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: oath-denying defendant
+  assigned_to:
+  - fig:4
+  basis: The demanded party may deny the claim on oath in the absence of other securities.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: claimant
+  assigned_to:
+  - fig:5
+  basis: The plaintiff is the party to whom the demanded party is alleged to owe something.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: killer subject to penalty or redemption
+  assigned_to:
+  - fig:6
+  basis: The murderer or manslaughterer may face death, fine, freeing a captive, or
+    fasting.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: victim whose death triggers compensation or vengeance
+  assigned_to:
+  - fig:7
+  basis: The death of the murdered or slain person produces obligations toward kin
+    or relations.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:8
+  label: kin-avenger and decision maker
+  assigned_to:
+  - fig:8
+  basis: The next of kin may accept satisfaction, refuse it, remit a fine, or demand
+    the murderer.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:9
+  label: person freed as part of penalty
+  assigned_to:
+  - fig:9
+  basis: Freeing a Muslim captive or captive is part of the penalty for murder or
+    manslaughter.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:10
+  label: compensation recipients
+  assigned_to:
+  - fig:10
+  basis: The fine is paid to the family or distributed among the relations of the
+    deceased.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:11
+  label: customary revenge groups
+  assigned_to:
+  - fig:11
+  basis: The passage describes Arab tribes pursuing revenge and engaging in wars over
+    murder.
+  evidence_refs:
+  - ev:5
+- id: role:12
+  label: parentage-status figures
+  assigned_to:
+  - fig:12
+  basis: The passage distinguishes legal wives, common women, and unknown fathers
+    in determining legitimacy.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: two-witness attestation
+  literal_form: Two male Muslim witnesses, or one man and two women when two men cannot
+    be obtained.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: written contract or debt record
+  literal_form: A contract or future debt reduced into writing in the presence of
+    witnesses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pledge as security
+  literal_form: Pledges taken where a writer is not found.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: denial on oath
+  literal_form: An oath swearing that nothing is owed to the plaintiff.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: blood fine
+  literal_form: A fine paid for blood, stated in the Sonna as one hundred camels for
+    a man.
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: freed captive
+  literal_form: Freeing a Muslim captive or captive from captivity as part of penalty
+    or redemption.
+  associated_figures:
+  - fig:6
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:7
+  label: two-month fast
+  literal_form: Fasting two months together by way of penance when unable to pay or
+    free a captive.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: legitimacy rule
+  summary: The passage states a rule distinguishing legitimate children of legal wives
+    from children of common women whose fathers are unknown.
+  figure_refs:
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: contract attestation and security
+  summary: Private contracts and debts are to be performed, witnessed, written when
+    deferred, and secured by pledges if a writer is unavailable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: oath in an unsecured dispute
+  summary: When no writing, witness, or pledge exists, the demanded party may be acquitted
+    by denial on oath unless strong contrary circumstances prove the claim.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: wilful murder, compensation, and kin choice
+  summary: Wilful murder is forbidden and punished in the next life, but it may be
+    compounded by fine and freeing a captive; the next of kin may accept or refuse
+    compensation and demand the murderer.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: comparison with Mosaic law and Arab revenge custom
+  summary: The passage contrasts the compensation rule with Mosaic law and explains
+    it as related to Arab revenge customs and tribal wars.
+  figure_refs:
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:6
+  label: manslaughter redemption and penance
+  summary: Manslaughter is redeemed through fine and freeing a captive, with a two-month
+    fast when the slayer cannot do this; the fine is measured in camels and has exceptions
+    for enemy or non-confederate victims.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: witnessed written covenant or contract
+  taxonomy_refs:
+  - covenant
+  basis: Private contracts and future debts are directed to be witnessed and written,
+    with specified witness arrangements.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is legal exposition rather than mythic narrative; the taxonomy
+    link to covenant is functional and should be reviewed.
+- id: motif:2
+  label: oath as proof in absence of material security
+  taxonomy_refs: []
+  basis: In disputes lacking writing, witnesses, or pledge, denial on oath can acquit
+    the demanded party unless other proof is strong.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a legal-procedural pattern, not a narrative motif in the passage.
+- id: motif:3
+  label: afterlife punishment for murder
+  taxonomy_refs:
+  - divine_judgment
+  basis: Wilful murder is described as forbidden under severe penalties in the next
+    life.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not narrate a judgment scene; it states a legal-religious
+    sanction.
+- id: motif:4
+  label: blood guilt redeemed by compensatory exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Murder and manslaughter may be addressed through fine, freeing a captive,
+    and in manslaughter an alternative fast when the slayer cannot perform the required
+    redemption.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The compensation is legal and penal; its classification as sacred exchange
+    is interpretive and requires review.
+- id: motif:5
+  label: kin-avenger chooses compensation or retaliation
+  taxonomy_refs: []
+  basis: The next of kin or revenger of blood may accept satisfaction or demand the
+    murderer for death, and may remit the manslaughter fine.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage frames this as law and custom rather than a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage notes a functional resemblance between the contract-witness requirement
+    and Jewish law requiring witnesses, including in cases where life is not concerned.
+  claim_level: same_function
+  target: Jewish law witness requirement cited in Deuteronomy and New Testament references
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison appears in a footnote and is based on Sale's cited parallels
+    rather than a full comparative legal analysis.
+- id: claim:2
+  claim: The passage explicitly contrasts Koranic permission for murder compensation
+    with Mosaic law, which it says forbids taking satisfaction for the life of a murderer.
+  claim_level: same_function
+  target: Mosaic homicide law, especially Numbers xxxv.31 as cited
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is a contrast in legal function, not evidence of direct borrowing
+    or shared mythic narrative.
+- id: claim:3
+  claim: The passage identifies the deceased's next of kin with the Pentateuchal term
+    'revenger of blood.'
+  claim_level: linguistic_similarity
+  target: Pentateuchal 'revenger of blood' terminology
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a terminological link is supplied; no broader textual comparison
+    is developed in the passage.
+- id: claim:4
+  claim: The passage presents the Koranic compensation rule as responsive to Arab
+    revenge customs and tribal wars over murder.
+  claim_level: historical_contact
+  target: Arab customary blood revenge and tribal warfare
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is Sale's explanatory claim within the passage; independent historical
+    evidence is not supplied here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6617-6618
+  quote_or_summary: Children of legal wives are not accounted bastards; children of
+    common women with unknown fathers are the exception.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6619-6628
+  quote_or_summary: Private contracts should be conscientiously performed; disputes
+    are prevented by witnesses, writing before witnesses, and pledges if a writer
+    is unavailable; witness combinations are specified.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6628-6631
+  quote_or_summary: Where parties trust one another without writing, witnesses, or
+    pledge, the demanded party is acquitted if he denies the charge on oath unless
+    contrary circumstances prove it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6632-6639
+  quote_or_summary: Wilful murder is forbidden under severe next-life penalties but
+    may be compounded by fine to the deceased's family and freeing a Muslim captive;
+    the next of kin may accept compensation or demand the murderer for death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6640-6645
+  quote_or_summary: The passage says this differs from Mosaic law, which accepts no
+    satisfaction for a murderer's life, and links the rule to Arab revenge customs
+    and tribal wars without a superior judge.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 6646-6657
+  quote_or_summary: Manslaughter is redeemed by fine and freeing a captive, or by
+    two months' fasting if unable; the blood fine is one hundred camels, distributed
+    among relations, with an exception for enemy or non-confederate victims.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: citation
+  locator: lines 6659-6669
+  quote_or_summary: Footnotes cite Koran chapters, Jewish-law parallels, Numbers xxxv.31,
+    and sources on related customs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal legal content is clear. Motif classification is less certain because
+    the passage is expository legal commentary rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were applied because the available symbol list did not match the passage's legal objects and actions.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6617-l6669
+  passage_sha256=8beaed3d817e62d14eff4509977ac01f3d889f3772477903b69eb491a2a565b0
+

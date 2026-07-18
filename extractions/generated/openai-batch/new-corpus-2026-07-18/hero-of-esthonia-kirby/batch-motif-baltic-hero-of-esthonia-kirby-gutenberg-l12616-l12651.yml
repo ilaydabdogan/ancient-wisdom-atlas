@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l12616-l12651
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: EMMU LAKE AND VIRTS LAKE. / THE BLACK POOL. / THE MOON-PAINTER. / THE TREASURE-BRINGER.;
+    lines 12616-12651
+  start: '12616'
+  end: '12651'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A hungry creature demands dinner. The farmer takes a burning pine-faggot,
+    locks the doors from outside, and sets the thatch on fire, intending to burn the
+    creature inside. Villagers gather and wish to put out the fire, but the farmer
+    prevents them. After the house collapses, the creature rises unhurt from the ruins,
+    visible only to the farmer, who dies of terror.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A creature asks for dinner and says it is hungry.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The farmer tells the creature to wait a little.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The farmer takes a burning pine-faggot from the stove, runs outside, and locks
+    all the doors from the outside.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The scene is set on a cold autumn night near a pine forest with wind making
+    a strange sighing sound.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The farmer calls the being a spirit of hell and casts fire onto the thatch.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The whole house becomes wrapped in bright flames.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The firelight rouses the villagers, who gather and want to put out the fire
+    and save the house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The farmer pushes the villagers back and says the house does not matter if
+    the being perishes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The house falls in, and the farmer declares that the being is burnt.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The creature rises unhurt from the smoking ruins with a threatening gesture
+    and is visible only to the farmer.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Old Michel arrives, smiles, and asks the farmer what he sees.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The farmer gives no answer and dies of terror.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the farmer
+  description: A farmer who attempts to burn the creature inside the house and later
+    dies of terror after seeing it unhurt.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the creature
+  description: A hungry being inside the house, called a spirit of hell by the farmer;
+    it rises unhurt from the smoking ruins and is visible only to the farmer.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: people of the village
+  description: Villagers roused by the firelight who gather around and wish to put
+    out the fire and save the house.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: old Michel
+  description: A late-arriving witness who stands smiling and asks the farmer what
+    he sees.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: house-burner
+  assigned_to:
+  - fig:1
+  basis: The farmer takes a burning faggot, locks the doors, casts fire on the thatch,
+    and prevents others from putting the fire out.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: hungry demander
+  assigned_to:
+  - fig:2
+  basis: The creature demands dinner and says it is hungry.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: unhurt survivor of the burning house
+  assigned_to:
+  - fig:2
+  basis: After the house falls in, the creature rises unhurt from the smoking ruins.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: death-by-terror victim
+  assigned_to:
+  - fig:1
+  basis: The farmer sees the creature and falls to the ground with a shriek; he dies
+    of terror.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: village witnesses and would-be rescuers
+  assigned_to:
+  - fig:3
+  basis: The villagers gather at the fire and wish to extinguish it and save the house.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: questioning witness
+  assigned_to:
+  - fig:4
+  basis: Old Michel arrives, stands smiling, and asks the farmer what he sees.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Burning pine-faggot, thatch fire, bright flames, smoking ruins.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: locked burning house
+  literal_form: A house whose doors are locked from outside before the thatch is set
+    on fire.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: threatening gesture
+  literal_form: The creature rises from the ruins with a threatening gesture.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dinner demand and preparation
+  summary: The creature demands dinner. The farmer replies that it should wait, then
+    takes a burning faggot, goes outside, and locks the doors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: House set on fire
+  summary: On a cold autumn night, the farmer calls the being a spirit of hell and
+    sets the thatch alight. Villagers gather and want to save the house, but the farmer
+    pushes them back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Creature rises and farmer dies
+  summary: After the house collapses, the farmer thinks the being is burnt. The creature
+    rises unhurt from the smoking ruins, visible only to the farmer. Old Michel asks
+    what the farmer sees, but the farmer dies of terror.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: attempted burning of a tormenting creature
+  taxonomy_refs: []
+  basis: The farmer says the being has tormented him long enough, locks the house,
+    sets it on fire, and says the house does not matter if the being perishes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the farmer's claim of prior torment but does not include
+    details of that torment within this excerpt.
+- id: motif:2
+  label: supernatural-seeming creature survives destructive fire
+  taxonomy_refs: []
+  basis: The creature rises unhurt from the smoking ruins after the house collapses
+    in flames, and it is visible only to the farmer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage calls the being a creature and records the farmer's phrase
+    'spirit of hell'; no fuller classification is provided in this excerpt.
+- id: motif:3
+  label: death from terror at a returning apparition
+  taxonomy_refs: []
+  basis: The farmer sees the unhurt creature rise from the ruins with a threatening
+    gesture, then falls with a shriek and dies of terror.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The text states death by terror, but the inner cause beyond the sight
+    of the creature is not elaborated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12616-12618
+  quote_or_summary: The creature demands dinner, saying it is hungry; the farmer replies
+    that it should wait a little.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12620-12622
+  quote_or_summary: The farmer takes a burning pine-faggot from the stove, runs outside,
+    and locks all the doors on the outside.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12624-12629
+  quote_or_summary: The night is cold and windy near a pine forest; the farmer calls
+    the being a spirit of hell, casts fire on the thatch, and the house is covered
+    in flames.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12631-12639
+  quote_or_summary: Villagers gather and want to extinguish the fire, but the farmer
+    pushes them back and says the house does not matter if the being perishes.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 12641-12643
+  quote_or_summary: The house falls in, and the farmer shouts that the being is burnt.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 12645-12646
+  quote_or_summary: The creature, visible only to the farmer, rises unhurt from the
+    smoking ruins with a threatening gesture.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 12648-12651
+  quote_or_summary: Old Michel arrives smiling and asks what the farmer sees; the
+    farmer gives no answer and dies of terror.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear in the excerpt. Motif labels are descriptive
+    candidates without external taxonomy matches. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the available motif refs do not precisely match this passage-level fire-survival and terror-death episode.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l12616-l12651
+  passage_sha256=75ab94fc318b966d32ee37cd2427649e891214d6abd540ed78d6e79a40f9c371
+

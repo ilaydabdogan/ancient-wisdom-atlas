@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l240-l285
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: MY LORD, / A SKETCH / OF THE / LIFE OF GEORGE SALE.; lines 240-285
+  start: '240'
+  end: '285'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Biographical and polemical passage defending George Sale''s treatment
+    of Mohammed: it says Sale criticized alleged imposture while giving praise where
+    due, rejected any equality of Islamism and Christianity, quoted a comparison of
+    Mohammed with Minos and Numa rather than Moses and Jesus Christ, then recounts
+    Sale''s learned-society work, death, family, and manuscript library.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sale is described as considering the character of Mohammed calmly, censuring
+    alleged imposture, subterfuges, and inventions, while also acknowledging points
+    worthy of praise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sale's rules for conversion are described as sensible and amiable, but not
+    acceptable to those who favor coercive instruments for extirpating heresy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage denies that Sale placed Islamism on an equality with Christianity.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A quoted statement compares Mohammed's respectability with Minos or Numa,
+    while distinguishing him from Moses or Jesus Christ.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sale remained a member of the Society for Promoting of Christian Knowledge
+    until his death, according to the passage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In 1736, Sale helped found a society for the encouragement of learning and
+    served on its first committee.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Sale died of a fever on 13 November 1736 after eight days of illness and was
+    buried at St. Clement Danes.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Sale's library is described as valuable and as containing rare and beautiful
+    manuscripts in Persian, Turkish, Arabic, and other languages.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: George Sale
+  description: Biographical subject; described as evaluating Mohammed, founding a
+    learned society, dying in 1736, and possessing a valuable manuscript library.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Mohammed
+  description: Figure whose character and religious role are discussed; the passage's
+    quoted material says he gave his Arabs a religion and is compared with lawgiver
+    figures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Moses
+  description: Named in the quoted comparison as a figure whose laws came from heaven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Jesus Christ
+  description: Named in the quoted comparison as a figure whose laws came from heaven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Minos
+  description: Named as a comparator for Mohammed among ancient lawgiver figures.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Numa
+  description: Named as a comparator for Mohammed among ancient lawgiver figures.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Unnamed society for the encouragement of learning
+  description: Society established in 1736, including noblemen and literary men, with
+    a committee deciding which works to print.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Society for Promoting of Christian Knowledge
+  description: Institution of which Sale is said to have remained a member until death.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  basis: The passage focuses on Sale's opinions, public work, death, family, and library.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: evaluator of Mohammed's character
+  assigned_to:
+  - fig:1
+  basis: Sale is described as censuring Mohammed's alleged imposture while acknowledging
+    points worthy of praise.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: religious founder or lawgiver under evaluation
+  assigned_to:
+  - fig:2
+  basis: The quoted statement says Mohammed gave Arabs a religion and discusses setting
+    up a new religion acknowledging one God and destroying idolatry.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: heavenly lawgiver comparator
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The quote distinguishes Moses and Jesus Christ as figures whose laws came
+    really from heaven.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ancient lawgiver comparator
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The quote says Mohammed may deserve respect comparable with Minos or Numa.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: learned institutional body
+  assigned_to:
+  - fig:7
+  basis: The society is described as encouraging learning and selecting works for
+    publication.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Christian membership institution
+  assigned_to:
+  - fig:8
+  basis: Sale is said to have remained a member of the Society for Promoting of Christian
+    Knowledge until his death.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: founder and committee member
+  assigned_to:
+  - fig:1
+  basis: Sale is named as one of the founders of the 1736 learned society and as a
+    member of its first committee.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: coercive instruments
+  literal_form: the sword and the fagot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: multilingual manuscript library
+  literal_form: valuable library containing rare and beautiful manuscripts in Persian,
+    Turkish, Arabic, and other languages
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Defense of Sale's treatment of Mohammed
+  summary: The passage presents Sale as criticizing Mohammed's alleged imposture while
+    granting praise, rejects the claim that he equated Islamism with Christianity,
+    and quotes his comparison of Mohammed with other lawgiver figures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Founding and operation of a learned society
+  summary: A society for encouraging learning is established in 1736; Sale is one
+    of its founders and first committee members, and the committee decides which works
+    should be printed and on what terms.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Sale's death and library
+  summary: Sale dies suddenly of a fever, leaves a wife and five children, and is
+    described as having a valuable library of rare manuscripts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: contested prophet as lawgiver or religion-founder
+  taxonomy_refs: []
+  basis: The passage evaluates Mohammed as a founder who gave Arabs a religion and
+    compares his status with Minos and Numa while distinguishing him from Moses and
+    Jesus Christ.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a biographical and polemical comparison reported in the prefatory
+    material, not a narrative myth episode.
+- id: motif:2
+  label: persuasion contrasted with coercive suppression of heresy
+  taxonomy_refs: []
+  basis: Sale's conversion rules are praised as sensible and amiable, in contrast
+    to those who favor the sword and fagot for extirpating heresy.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The image is rhetorical and historical-polemical; no mythic action is
+    narrated.
+- id: motif:3
+  label: learning patronage and manuscript culture
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes a society for the encouragement of learning and Sale's
+    valuable library of rare multilingual manuscripts.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: low
+  cautions: The available taxonomy reference 'wisdom' is only broadly applicable;
+    the passage is biographical rather than mythological.
+comparison_claims:
+- id: claim:1
+  claim: The quoted argument gives Mohammed a similar lawgiver or religion-founding
+    function to Minos and Numa, while explicitly denying equivalence with Moses and
+    Jesus Christ.
+  claim_level: same_function
+  target: lawgiver/religion-founder comparison involving Mohammed, Minos, Numa, Moses,
+    and Jesus Christ
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim reflects the quoted apologetic argument in the passage; it
+    does not establish historical contact, common inheritance, or doctrinal equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 240-245
+  quote_or_summary: The passage says Sale considered Mohammed's character calmly,
+    censured alleged imposture, and did justice to points worthy of praise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 245-250
+  quote_or_summary: Sale's rules for conversion are described as sound and amiable,
+    but not satisfying those who think the sword and the fagot are proper instruments
+    against heresy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 250-263
+  quote_or_summary: The passage denies that Sale equated Islamism with Christianity
+    and quotes him saying Mohammed deserves respect comparable with Minos or Numa,
+    though not with Moses or Jesus Christ, whose laws came from heaven.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 263-269
+  quote_or_summary: The passage argues the charge against Sale is groundless and notes
+    that he remained a member of the Society for Promoting of Christian Knowledge
+    until death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 270-279
+  quote_or_summary: In 1736, a society for encouraging learning was established; Sale
+    was a founder and first committee member, and the committee selected works to
+    print and set terms.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: lines 280-284
+  quote_or_summary: Sale died of fever on 13 November 1736 at his house in Surrey-street,
+    Strand, after eight days' illness, and was buried at St. Clement Danes; he left
+    a wife and five children.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+- id: ev:7
+  type: summary
+  locator: lines 284-285
+  quote_or_summary: Sale is described as having a healthy constitution, communicative
+    mind, comely person, and a valuable library containing rare manuscripts in Persian,
+    Turkish, Arabic, and other languages.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif confidence is limited because
+    this is prefatory biographical and polemical prose rather than a mythological
+    narrative passage; the lawgiver comparison is explicit in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No Qur'anic narrative episode appears in this line range; the material concerns George Sale's biography, apologetic positioning, learned society activity, death, and library.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l240-l285
+  passage_sha256=51e25c833fd235e4f166a763e831d5c5f8171ebde2badee3357762e218498e3d
+

@@ -1,0 +1,84 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l149-l156
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: MY LORD, / A SKETCH / OF THE / LIFE OF GEORGE SALE.; lines 149-156
+  start: '149'
+  end: '156'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: |-
+    A SKETCH
+
+    OF THE
+
+    LIFE OF GEORGE SALE.
+  summary: The passage is a front-matter heading announcing a sketch of the life of
+    George Sale, followed by a separator line.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents a heading for a sketch of the life of George Sale.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading is followed by a separator line.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: George Sale
+  description: Named in the heading as the subject of a life sketch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the text as a sketch of the life of George Sale.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 149-154
+  quote_or_summary: A SKETCH / OF THE / LIFE OF GEORGE SALE.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: line 156
+  quote_or_summary: A separator line appears after the heading.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a front-matter biographical heading and contains no mythological
+    narrative, symbolic object, or supported comparative motif claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the passage only contains a heading for a biographical sketch.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l149-l156
+  passage_sha256=1b568e420bde691c261a1d6211ca412ff1fa21b747f60ed3dc8d4bc4e986940d
+

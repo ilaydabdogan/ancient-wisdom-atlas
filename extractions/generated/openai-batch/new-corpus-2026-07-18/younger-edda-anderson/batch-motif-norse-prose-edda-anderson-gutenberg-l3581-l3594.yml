@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.norse-prose-edda-anderson-gutenberg-l3581-l3594
+source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+passage_locator:
+  label: CHAPTER III. / HOW NJORD GOT SKADE TO WIFE. / CHAPTER IV. / THE ORIGIN OF
+    POETRY.; lines 3581-3594
+  start: '3581'
+  end: '3594'
+  translation: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Æger questions Brage about the kinds of poetry and poetic diction. Brage
+    answers that poetry has two classes, diction and meter, and that poetic diction
+    has three sorts: naming by proper name, naming by pronoun, and kenning. He explains
+    kennings by reference to divine names and gives appellative examples for Odin.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Æger asks how many ways poetical expressions vary, or how many kinds of poetry
+    there are.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Brage answers that there are two kinds of poetry and that all poetry falls
+    into one or the other class.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Æger asks which two kinds are meant, and Brage answers: diction and meter.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Brage says there are three sorts of poetic diction: naming by proper name,
+    naming with a pronoun, and kenning.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kenning is described as adding to the name of Odin, Thor, Tyr, or another
+    asa or elf a reference to another asa or to some of the named figure's works.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that in such a phrase the appellation belongs to the figure
+    corresponding to the whole phrase, not to the figure actually named within it.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Odin is given as an example with appellatives such as Sigtyr, Hangatyr, Farmatyr,
+    and Reidartyr.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Æger
+  description: Questioner who asks Brage about the kinds of poetry and poetic diction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Brage
+  description: Responder who classifies poetry and explains poetic diction and kenning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Odin
+  description: Named divine figure used as an example in the explanation of kennings
+    and appellatives.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Thor
+  description: Named divine figure included among possible subjects of kenning construction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Tyr
+  description: Named divine figure included among possible subjects of kenning construction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: asas
+  description: Collective group mentioned as figures whose names may be involved in
+    poetic naming.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: elves
+  description: Collective group mentioned as figures whose names may be involved in
+    poetic naming.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Æger asks the questions that prompt the classification of poetry and diction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: teacher or respondent on poetic art
+  assigned_to:
+  - fig:2
+  basis: Brage answers Æger and supplies the categories and definitions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: example figure in poetic naming
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These named beings or groups are cited as possible subjects in the formation
+    of kennings or related appellations.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: specific example of appellative naming
+  assigned_to:
+  - fig:3
+  basis: Odin is specifically illustrated by the appellatives Sigtyr, Hangatyr, Farmatyr,
+    and Reidartyr.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Dialogue on the classes of poetry
+  summary: 'Æger asks about the varieties of poetic expression, and Brage replies
+    that poetry has two classes: diction and meter.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Explanation of poetic diction and kenning
+  summary: Brage describes three sorts of poetic diction and explains kenning as a
+    descriptive naming practice, using divine names and Odin's appellatives as examples.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: instruction in specialized poetic wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a question-and-answer teaching scene in which Brage
+    explains technical categories of poetry and poetic diction to Æger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is mainly didactic and technical rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: sacred or divine appellative naming through kenning
+  taxonomy_refs: []
+  basis: The explanation of kenning focuses on forming poetic names for Odin, Thor,
+    Tyr, other asas, and elves by reference to another divine figure or to deeds;
+    Odin's appellatives are supplied as examples.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available taxonomy
+    does not include a specific kenning or poetic-naming category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3581-3584
+  quote_or_summary: Æger asks about varieties of poetical expression or kinds of poetry;
+    Brage answers that there are two kinds and that all poetry falls into one of them.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3584-3586
+  quote_or_summary: "“Æger asks: Which two? Brage answers: Diction and meter.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 3586-3589
+  quote_or_summary: 'Brage says poetic diction has three sorts: naming by proper name,
+    naming with a pronoun, and kenning, described parenthetically as a poetical periphrasis
+    or descriptive name.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3589-3593
+  quote_or_summary: Kenning is explained as naming Odin, Thor, Tyr, or another asa
+    or elf while adding reference to another asa or to some of the figure's works;
+    the full phrase determines the appellation's referent.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 3593-3594
+  quote_or_summary: "“Thus we speak of Odin as Sigtyr, Hangatyr or Farmatyr... In
+    the same manner he is called Reidartyr.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is a technical explanation of poetic diction, not a mythic narrative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy are directly present in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-prose-edda-anderson-gutenberg__l3581-l3594
+  passage_sha256=4c13553a59047c9ed6e5e8da39fd9fe6a3581b9aca27dabfd0221587389c2004
+

@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l16234-l16315
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 16234-16315
+  start: '16234'
+  end: '16315'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A princess tests three suitors with a riddle about the two colors of hair
+    on her head. The little tailor gives the correct answer, but the princess imposes
+    a further trial: he must spend the night in a stable with a deadly bear. The tailor
+    tricks the bear with pebbles, music, and a vise, survives the night, and is taken
+    to church for the promised marriage. Two envious tailors release the bear, but
+    the tailor frightens it away by threatening to put it back in the vise.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three men present themselves to the princess and ask her to propound her riddle
+    to them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess asks what color the two kinds of hair on her head are; the first
+    and second respondents answer wrongly, and the little tailor answers that the
+    hairs are silver and golden.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'After the riddle is solved, the princess sets an additional condition: the
+    little tailor must spend the night below in the stable with a bear and be alive
+    in the morning in order to marry her.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bear is described as having never left alive anyone who fell into its
+    clutches.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the stable, the little tailor gives the bear pebbles while making them
+    seem like nuts, and the bear fails to bite them open.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The little tailor plays a violin; the bear dances and asks to learn fiddling.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The little tailor has the bear put its claws in a vise, screws it tight, leaves
+    the bear growling, and sleeps on straw.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The princess hears the bear growling during the night and assumes that the
+    bear has killed the tailor, but in the morning she finds the tailor alive in the
+    stable.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Because the princess had made a public promise, the king orders a carriage
+    so she and the tailor can go to church to be married.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The two other tailors release the bear from the vise, and the bear runs after
+    the wedding carriage.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The little tailor threatens the bear with the vise from the carriage window,
+    and the bear turns around and runs away.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The tailor and princess are married at church, and the passage closes with
+    a formula about paying a thaler if one does not believe the tale.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: princess
+  description: The princess poses the hair-color riddle, adds the night-with-bear
+    condition, expects the bear to kill the tailor, and is bound by her promise to
+    marry him when he survives.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: little tailor
+  description: The little tailor correctly answers the princess's riddle, survives
+    the bear ordeal by tricking and restraining the bear, frightens the bear away
+    from the carriage, and marries the princess.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: first tailor
+  description: The first respondent gives the wrong answer to the princess's riddle
+    and is later included among the two other tailors who envy the little tailor and
+    release the bear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: second tailor
+  description: The second respondent gives the wrong answer to the princess's riddle
+    and is later included among the two other tailors who envy the little tailor and
+    release the bear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:5
+  name_or_label: bear
+  description: A deadly bear kept below in the stable attacks or threatens those placed
+    with it, is deceived with pebbles and music, trapped in a vise, released, and
+    finally frightened away.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: king
+  description: The king orders the carriage for the princess and tailor to go to church
+    after the tailor survives the bear ordeal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: riddle-setter and promised bride
+  assigned_to:
+  - fig:1
+  basis: The princess poses the riddle, imposes the bear ordeal, and has publicly
+    promised marriage if the tailor survives.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: clever suitor and ordeal survivor
+  assigned_to:
+  - fig:2
+  basis: The little tailor solves the riddle, defeats the bear through deceptive tactics,
+    survives the night, and marries the princess.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: unsuccessful and envious rivals
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The two other tailors answer wrongly and later release the bear out of envy
+    for the little tailor's good fortune.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: dangerous animal adversary
+  assigned_to:
+  - fig:5
+  basis: The bear is used as a lethal obstacle, threatens the tailor, is restrained,
+    and pursues the carriage after being released.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:5
+  label: royal enforcer of promise
+  assigned_to:
+  - fig:6
+  basis: The king orders the carriage to church once the princess can no longer object
+    to the wedding.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: silver and golden hair
+  literal_form: Two differently colored hairs on the princess's head, one silver and
+    one golden.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stable bear
+  literal_form: A bear kept below in the stable as the night trial for the suitor.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pebbles as false nuts
+  literal_form: Pebbles given to the bear in place of nuts during the tailor's deception.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: violin or fiddle
+  literal_form: A violin taken from beneath the tailor's coat and played so that the
+    bear dances and wants lessons.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: vise
+  literal_form: A vise used to clamp the bear's claws and later invoked as a threat
+    to drive the bear away.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: wedding carriage
+  literal_form: The carriage ordered by the king to take the princess and tailor to
+    church for marriage.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Riddle before the princess
+  summary: The three respondents hear the princess's hair-color riddle. The first
+    two answer incorrectly, and the little tailor answers that her hair colors are
+    silver and golden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bear ordeal in the stable
+  summary: The little tailor is taken to the bear and uses pebbles, a violin, and
+    a vise to deceive and restrain it, then sleeps on straw while it growls.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Morning survival and wedding arranged
+  summary: The princess expects the bear to have killed the tailor but finds him alive;
+    because of her promise, the king orders a carriage for the wedding journey to
+    church.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Bear released and frightened away
+  summary: The two other tailors release the bear, which chases the carriage. The
+    little tailor threatens it with the vise, and the bear flees before the tailor
+    and princess are married.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Riddle contest as a marriage obstacle
+  taxonomy_refs:
+  - wisdom
+  basis: The princess sets a riddle about the colors of her hair, and the little tailor's
+    correct answer is necessary before he can proceed toward marrying her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The supplied taxonomy family 'wisdom' is broad; the passage presents a
+    folktale riddle rather than an explicit wisdom doctrine.
+- id: motif:2
+  label: Bride-winning night ordeal with a deadly animal
+  taxonomy_refs:
+  - initiation
+  basis: The princess requires the tailor to spend the night with a bear that has
+    previously killed those who fell into its clutches, and survival is the condition
+    for marriage.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the ordeal as a marriage test, not as an explicit ritual
+    initiation.
+- id: motif:3
+  label: Small clever hero defeats a stronger animal by deception
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: The little tailor overcomes the bear through deceptive substitutions, music,
+    and trapping its claws in a vise rather than through physical force.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The 'trickster_boundary' taxonomy reference is broad; the passage supports
+    trickery, but does not name the tailor as a trickster.
+- id: motif:4
+  label: Public promise compels unwanted royal marriage
+  taxonomy_refs: []
+  basis: After the tailor survives, the princess cannot object because she had promised
+    before everyone, and the king orders the wedding carriage.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference fits this motif closely without adding
+    interpretation.
+- id: motif:5
+  label: Envious rivals release contained danger
+  taxonomy_refs: []
+  basis: The two other tailors, described as envious and false-hearted, unscrew the
+    bear after the tailor's success, causing it to pursue the carriage.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a local narrative pattern within the passage; no broader comparison
+    is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16234-16249
+  quote_or_summary: Three respondents answer the princess's hair-color riddle; the
+    first two are wrong, and the little tailor answers that she has a silver and a
+    golden hair.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 16249-16256
+  quote_or_summary: The princess says the tailor has not yet won her and must spend
+    the night in the stable with a bear; if alive in the morning, he may marry her.
+    The bear is said never to have left anyone alive who fell into its clutches.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 16258-16276
+  quote_or_summary: In the stable, the tailor cracks real nuts for himself but gives
+    the bear pebbles as if they were nuts, making the bear fail repeatedly to crack
+    them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 16277-16292
+  quote_or_summary: The tailor plays a violin; the bear dances and asks for lessons.
+    The tailor says the bear's claws must be trimmed, has them put in a vise, screws
+    it tight, and sleeps while the bear growls.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 16294-16301
+  quote_or_summary: The princess hears the bear growling and thinks it has killed
+    the tailor, but finds him alive in the morning. Because of her public promise,
+    the king orders a carriage to take them to church for marriage.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 16302-16312
+  quote_or_summary: The two other tailors release the bear, which pursues the carriage.
+    The tailor threatens it with the vise, the bear runs away, and the tailor and
+    princess are married at church.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:7
+  type: note
+  locator: lines 16314-16315
+  quote_or_summary: The final visible line gives the title of the next tale, 'The
+    Bright Sun Brings It to Light,' and is not used for motif extraction in this record.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is high-confidence because the passage states the actions
+    and objects directly. Motif labels are candidate-level and use broad supplied
+    taxonomy references only where the passage supports them. No comparison claims
+    are made because the passage itself provides no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final title line appears to introduce the next tale and was excluded from motif interpretation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l16234-l16315
+  passage_sha256=5b53d210c1901933bccad4b8b1aa9d522e27868928017dfab3723406b7a18262
+

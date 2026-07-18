@@ -1,0 +1,508 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l825-l909
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 825-909
+  start: '825'
+  end: '909'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses theories about the date, preservation, editing, oral
+    transmission, and authorship of the Iliad and Odyssey, arguing that the poems
+    preserve older linguistic and cultural features, that Peisistratus likely acted
+    editorially rather than compositionally, and that oral ballads from a war context
+    may have been collected and recast into a unified poem.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Iliad and Odyssey lack signs of the age of Peisistratus,
+    including later developments in language, money, writing, government, military
+    formation, ship construction, festivals, and religious influences.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Onomakritus and other literary friends of Peisistratus
+    would likely have noticed later cultural alterations if they had first pieced
+    many separate epics into one aggregate.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the Homeric poems were likely recited substantially
+    as they now stand by 776 B.C., allowing for textual divergences and interpolations.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator believes Peisistratus' labours were editorial and that he would
+    preserve an ancient and traditional order rather than patching or reconstructing
+    the poems according to a hypothesis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage treats the story attributing preservation of the poems to Lycurgus
+    as a version of the Peisistratus story.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage proposes that common soldiers had persons able to perform excellent
+    music among them, including extemporaneous songs alluding to surrounding events.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The events around the singers are described as the grand events of a spirit-stirring
+    war, likely to impress themselves on memory like mystical legends of former times.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage describes a progression from ballad recitations with intonation,
+    to recitative with an intoned burden, and then to tune, which aided memory.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage states that a poet named Melesigenes, or Monides, saw that the
+    ballads could serve his purpose, published the lays as a collection, and connected
+    them by a tale of his own.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage states that the resulting poem exists under the title Odyssea
+    and that the author called it the poem of Homeros, meaning the Collector.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The passage says that a great poet might recast pre-existing separate songs
+    into one comprehensive whole, whereas mere arrangers or compilers would not be
+    competent to do so.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Peisistratus
+  description: An Athenian associated with editorial labour on the Homeric poems and
+    with a story of their preservation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Onomakritus and other literary friends of Peisistratus
+  description: Literary associates mentioned as persons who would have noticed later
+    alterations if they had newly pieced separate epics together.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Lycurgus
+  description: A figure to whom a story attributes preservation of the poems; the
+    narrator treats the story as a version of the Peisistratus story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: common soldiers' musicians or singers
+  description: Persons among common soldiers qualified to discourse in excellent music,
+    including extemporaneous pieces alluding to current events.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Melesigenes or Monides
+  description: A poet, probably called Melesigenes in the passage, who is said to
+    collect and publish ballads as lays and connect them with a tale of his own.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: Homeros or the Collector
+  description: A name applied to the poem's attributed author; the passage glosses
+    Homeros as meaning the Collector.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: great poet
+  description: A generalized figure described as capable of recasting pre-existing
+    separate songs into one comprehensive whole.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: editorial preserver
+  assigned_to:
+  - fig:1
+  basis: The narrator says Peisistratus' labours were editorial and that he would
+    preserve an ancient traditional order.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: potential compilers of epics
+  assigned_to:
+  - fig:2
+  basis: They are discussed in connection with the hypothetical task of piecing many
+    self-existent epics into one aggregate.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: alternate preserver figure
+  assigned_to:
+  - fig:3
+  basis: The passage mentions a story attributing preservation of the poems to Lycurgus
+    and compares it to the Peisistratus story.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: oral performers among soldiers
+  assigned_to:
+  - fig:4
+  basis: The passage says common soldiers had someone qualified to discourse in excellent
+    music among them, with extemporaneous songs.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: collector and arranger of lays
+  assigned_to:
+  - fig:5
+  basis: The passage says this poet published ballads as a collection and connected
+    them by a tale of his own.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: collector-name attached to poem
+  assigned_to:
+  - fig:6
+  basis: The passage says the author called it the poem of Homeros, or the Collector.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: unifying poetic recaster
+  assigned_to:
+  - fig:7
+  basis: The passage states that a great poet might recast separate songs into one
+    comprehensive whole.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: Homeric poems
+  literal_form: The Iliad and Odyssey as preserved, recited, edited, and debated texts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: ballads or lays
+  literal_form: Oral recitations and songs associated with war events and later collected
+    into a poem.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: memory
+  literal_form: Retentive memory cultivated as a virtue and aided by tune.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: war events
+  literal_form: The grand events of a spirit-stirring war surrounding the singers
+    and shaping the songs.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: collection
+  literal_form: A collection of lays connected by a tale and associated with the name
+    Homeros, the Collector.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Argument for an older Homeric text
+  summary: The passage argues that the poems lack later features from the age of Peisistratus
+    and therefore belong in substance and language to an earlier age.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Peisistratus as editor rather than composer
+  summary: The narrator states that Peisistratus likely performed editorial labour
+    and preserved traditional order instead of composing or reconstructing the poems.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Lycurgus preservation story compared to Peisistratus story
+  summary: The passage says the story of Lycurgus preserving the poems is little more
+    than a version of the Peisistratus preservation story.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: War songs and cultivated memory
+  summary: The passage imagines soldiers' musical performers making extemporaneous
+    songs about surrounding war events, with memory treated as highly valued and aided
+    by musical form.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Collection and recasting of lays
+  summary: The passage proposes that Melesigenes or Monides collected archaic ballads,
+    connected them with his own tale, and issued them as the Odyssea under the name
+    Homeros, the Collector.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: ancient poem preserved by editorial ordering
+  taxonomy_refs: []
+  basis: The passage presents Peisistratus as preserving an ancient and traditional
+    order of the poems through editorial labour rather than composing them anew.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a literary-historical pattern in the introduction, not a mythic
+    narrative episode from the Iliad itself.
+- id: motif:2
+  label: oral war songs becoming epic tradition
+  taxonomy_refs: []
+  basis: The passage describes extemporaneous songs among soldiers, shaped by war
+    events, memory, recitation, burden, and tune, later becoming material for collected
+    lays.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage presents this as a theory from an ingenious friend, not as
+    a mythic event within the poem.
+- id: motif:3
+  label: collector unifies separate songs into a comprehensive poem
+  taxonomy_refs: []
+  basis: The passage says a poet collected ballads, connected them with a tale, and
+    that a great poet could recast separate songs into one comprehensive whole.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The figure of Homeros is treated as an etymological or authorship explanation,
+    not as a narrative character.
+- id: motif:4
+  label: memory as vehicle of traditional transmission
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says retentive memory was esteemed and cultivated, and that musical
+    tune aided memory in preserving and shaping recitations.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The taxonomy reference is broad; the passage concerns mnemonic transmission
+    rather than a wisdom tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the Lycurgus preservation story as a version
+    of the Peisistratus preservation story.
+  claim_level: same_motif
+  target: Peisistratus preservation story
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the narrator's literary-historical judgment; the passage does
+    not provide independent evidence for the relationship between the two stories.
+- id: claim:2
+  claim: The passage compares extemporaneous music among ancient common soldiers with
+    music among common sailors and with extemporaneous songs of Black people in the
+    United States.
+  claim_level: same_function
+  target: extemporaneous communal song traditions used to comment on surrounding events
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the passage, but it is external to Greek
+    mythology and reflects the historical language and assumptions of the source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 825-838
+  quote_or_summary: The passage says the Iliad and Odyssey contain nothing characteristic
+    of the age of Peisistratus, listing changes in language, coined money, writing,
+    government, military array, ships, festivals, and religious influences.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 838-845
+  quote_or_summary: The passage says Onomakritus and Peisistratus' literary friends
+    could hardly have failed to notice later alterations if they had first pieced
+    many self-existent epics into one aggregate.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 848-858
+  quote_or_summary: The passage states that evidence supports believing the Iliad
+    and Odyssey were recited substantially as they now stand in 776 B.C., with allowances
+    for textual divergence and interpolation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:4
+  type: summary
+  locator: lines 863-873
+  quote_or_summary: The narrator says Peisistratus' labours were wholly editorial
+    and that his taste would lead him to preserve an ancient traditional order rather
+    than patch or reconstruct the poems.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:5
+  type: quote
+  locator: lines 878-881
+  quote_or_summary: '"the story which attributes the preservation of these poems to
+    Lycurgus, is little else than a version of the same story as that of Peisistratus"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short quotation used for exact comparison claim.
+- id: ev:6
+  type: summary
+  locator: lines 886-891
+  quote_or_summary: The passage says common soldiers had someone able to perform excellent
+    music, and compares some of these extemporaneous performances to those of sailors
+    and Black people in the United States.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized; note contains historical terminology
+    normalized for modern description.
+- id: ev:7
+  type: summary
+  locator: lines 891-897
+  quote_or_summary: The passage identifies the surrounding subject matter as the grand
+    events of a spirit-stirring war, likely to impress memory like mystical legends,
+    and says retentive memory was valued and cultivated.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:8
+  type: summary
+  locator: lines 897-901
+  quote_or_summary: The passage describes ballads as first recitations with intonation,
+    then recitative with an intoned burden, and then tune, which considerably aided
+    memory.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:9
+  type: summary
+  locator: lines 902-908
+  quote_or_summary: The passage says a poet named Melesigenes or Monides saw that
+    the ballads could be useful, published the lays as a collection, and connected
+    them by a tale of his own.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:10
+  type: summary
+  locator: lines 907-909
+  quote_or_summary: The passage says the poem exists as the Odyssea and that the author
+    called it the poem of Homeros, or the Collector.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:11
+  type: summary
+  locator: lines 909
+  quote_or_summary: The passage cites the view that a great poet could recast pre-existing
+    separate songs into one comprehensive whole, whereas mere arrangers or compilers
+    could not.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a prose introduction on Homeric textual history rather than
+    a mythic narrative passage. Extracted motifs are therefore transmission and authorship
+    patterns, not narrative myth motifs from the Iliad itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external Homeric content was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l825-l909
+  passage_sha256=1eda3ecaa7e74c607e761bc1fc1aa805ce1cbb3efa35d1c71062c74090d31e83
+

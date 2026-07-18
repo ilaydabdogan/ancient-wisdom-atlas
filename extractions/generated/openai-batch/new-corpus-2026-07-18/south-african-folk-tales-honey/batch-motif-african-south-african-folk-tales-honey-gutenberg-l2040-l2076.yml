@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2040-l2076
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: LION'S SHARE / JACKAL'S BRIDE / THE STORY OF HARE / THE WHITE MAN AND SNAKE;
+    lines 2040-2076
+  start: '2040'
+  end: '2076'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A White Man frees Snake from beneath a large stone, but Snake then wants
+    to bite him. The White Man asks Hyena and then Jackal whether this is right. Hyena
+    gives a self-serving answer. Jackal demands to see the original situation, has
+    Snake lie down under the stone again, and then stops the White Man from freeing
+    her a second time. The White Man and Jackal leave Snake trapped under the stone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A White Man meets Snake while she is trapped under a large stone and unable
+    to rise.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The White Man lifts the stone off Snake.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After being freed, Snake wants to bite the White Man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The White Man asks to consult wise people before Snake bites him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hyena is consulted, and the narrator says Hyena expects a share of the White
+    Man's body.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hyena answers that it would not matter if the White Man were bitten.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Jackal says he does not believe Snake could have been unable to rise under
+    a stone unless he sees it himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: At the original place, Jackal tells Snake to lie down and be covered.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The White Man covers Snake with the stone again, and Snake cannot rise despite
+    exerting herself.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The White Man wants to release Snake again, but Jackal stops him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The White Man and Jackal leave Snake under the stone.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: White Man
+  description: A man who frees Snake from beneath a stone, seeks judgment, and is
+    threatened by Snake.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Snake
+  description: A female Snake trapped beneath a large stone; after being freed she
+    wants to bite the White Man, and later is trapped again under the stone.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Hyena
+  description: A consulted figure who gives a dismissive answer while expecting a
+    share of the White Man's body.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Jackal
+  description: A consulted figure who demands visual proof, directs a reenactment,
+    and prevents Snake's second release.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: rescuer
+  assigned_to:
+  - fig:1
+  basis: The White Man lifts the stone off Snake when she cannot rise.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: threatened helper
+  assigned_to:
+  - fig:1
+  basis: After helping Snake, he is threatened with a bite and seeks judgment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: trapped supplicant
+  assigned_to:
+  - fig:2
+  basis: Snake is covered by a stone and unable to rise.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: dangerous beneficiary
+  assigned_to:
+  - fig:2
+  basis: After being freed, Snake wants to bite the one who helped her.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: self-interested counselor
+  assigned_to:
+  - fig:3
+  basis: Hyena's answer is linked by the narrator to his expectation of a share of
+    the White Man's body.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: skeptical tester and intervener
+  assigned_to:
+  - fig:4
+  basis: Jackal requires seeing the original situation, has Snake reenact it, and
+    stops the White Man from lifting the stone again.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Snake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: large stone
+  literal_form: A large stone that covers Snake and prevents her from rising.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rescue followed by threat
+  summary: The White Man finds Snake trapped beneath a large stone, frees her, and
+    is then threatened with a bite.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Consultation with Hyena
+  summary: The White Man asks Hyena whether Snake is right to bite him after being
+    helped; Hyena answers against the White Man's interest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jackal demands proof
+  summary: The White Man asks Jackal the same question, and Jackal says he will not
+    believe the story unless he sees the place and circumstances himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Reenactment and renewed confinement
+  summary: At the place of the original event, Jackal has Snake lie down and be covered
+    by the stone again; when Snake cannot rise, Jackal prevents her release and leaves
+    her trapped.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: rescued serpent threatens rescuer
+  taxonomy_refs:
+  - serpent
+  basis: Snake is freed from under a stone and then wants to bite the White Man who
+    released her.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an animal tale episode; it does not present a cosmic or
+    sacred serpent context.
+- id: motif:2
+  label: appeal to wise judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The White Man delays the bite by asking to consult wise people about whether
+    Snake's conduct is right.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The word 'wise' appears in the passage, but the wisdom motif family is
+    broad.
+- id: motif:3
+  label: trickster-like judgment by reenactment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal resolves the danger by requiring Snake to recreate the original condition,
+    leaving her unable to act on her threat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call Jackal a trickster; the classification
+    rests on the functional shape of his intervention.
+- id: motif:4
+  label: danger returned to confinement
+  taxonomy_refs: []
+  basis: The threatening Snake is placed back under the stone and left there after
+    she cannot rise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No supplied taxonomy reference directly names this pattern.
+comparison_claims:
+- id: claim:1
+  claim: Within the supplied taxonomy, the episode can be cautiously compared to a
+    serpent motif pattern because Snake is both the imperiled being and the later
+    threat.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses Snake as an animal-tale figure and does not provide
+    broader mythic serpent attributes.
+- id: claim:2
+  claim: 'The resolution has the same function as a trickster-boundary pattern: Jackal
+    uses a test and reenactment to limit the danger posed by Snake.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison only; the passage itself does not explicitly
+    identify Jackal as a trickster.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2040-2045
+  quote_or_summary: A White Man meets Snake trapped beneath a large stone, lifts the
+    stone away, and Snake then wants to bite him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2045-2053
+  quote_or_summary: The White Man asks to consult wise people; Hyena is consulted
+    and, expecting a share of the White Man's body, says it would not matter if he
+    were bitten.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2054-2061
+  quote_or_summary: The White Man asks Jackal whether Snake is right to bite him;
+    Jackal replies that he will not believe Snake could be trapped under a stone unless
+    he sees it himself.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2062-2068
+  quote_or_summary: They return to the place; Jackal tells Snake to lie down and be
+    covered, the White Man covers her with the stone, and Snake cannot rise.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2068-2076
+  quote_or_summary: The White Man wants to release Snake again, but Jackal says not
+    to lift the stone because Snake wanted to bite him; the White Man and Jackal leave
+    Snake under the stone.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal event extraction is straightforward from the supplied passage. Motif
+    and comparison assignments are cautious and limited to the available taxonomy
+    references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external tale-type or motif-index identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2040-l2076
+  passage_sha256=8ac5b33ca5ecdf84b8cf96a39ee7918fa4abc6725d0a76d7c518e11220b76a16
+

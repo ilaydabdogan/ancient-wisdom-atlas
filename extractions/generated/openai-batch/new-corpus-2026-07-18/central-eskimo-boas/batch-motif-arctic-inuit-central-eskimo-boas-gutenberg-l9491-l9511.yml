@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9491-l9511
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: QAUDJAQDJUQ. / I. STORY OF THE THREE BROTHERS. / II. QAUDJAQDJUQ. / IGIMARASUGDJUQDJUAQ
+    THE CANNIBAL.; lines 9491-9511
+  start: '9491'
+  end: '9511'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage recounts traditions about the Tornit and Inuit: the Tornit
+    did not make kayaks but stole them from Inuit hunters; a young Tuniq damaged a
+    young Inung''s kayak and was killed while sleeping; fearing revenge or extermination,
+    the Tornit left the country after disguising themselves. A variant says a young
+    Inung died accidentally while playing with the Tornit, prompting the Tornit to
+    leave from fear of revenge. The passage also notes old songs associated with the
+    Tornit.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tornit did not build kayaks but knew their hunting advantages and stole
+    boats from the Inuit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Inuit did not defend their property because the Tornit were much stronger.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A young Tuniq took a young Inung's kayak without permission and damaged its
+    bottom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The young Inung killed the sleeping Tuniq by stabbing him in the nape of the
+    neck with a knife; another tradition says he drilled a hole into his head.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Tornit feared the Inuit would kill them all and decided to leave the country
+    permanently.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Tornit assembled at Qernirtung in Cumberland Sound.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: To deceive pursuers, the Tornit cut off the tails of their jumpers and tied
+    their hair into a protruding bunch on top of the head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A variant says a young Inung fell down and broke his neck while playing with
+    the Tornit.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In the variant, the Tornit feared Inuit revenge and left the country.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage reports old ditties about the Tornit or said to have been sung
+    by them.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tornit
+  description: A strong people who do not build kayaks, steal Inuit boats, fear Inuit
+    retaliation, disguise themselves, and leave the country.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Inuit
+  description: The people from whom the Tornit steal kayaks; they are described as
+    not daring to defend their property because the Tornit are stronger.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: young Tuniq
+  description: A young member of the Tornit who takes and damages a young Inung's
+    kayak and is killed while sleeping.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: young Inung
+  description: A young Inuit person whose kayak is taken and damaged; he becomes angry
+    and kills the young Tuniq in one version. In another version, a young Inung dies
+    while playing with the Tornit.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: stronger boat-takers
+  assigned_to:
+  - fig:1
+  basis: The Tornit are described as stronger than the Inuit and as stealing Inuit
+    boats.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: weaker property-holders
+  assigned_to:
+  - fig:2
+  basis: The Inuit own the kayaks but do not defend them because of the Tornit's superior
+    strength.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fearful departing group
+  assigned_to:
+  - fig:1
+  basis: The Tornit leave the country because they fear the Inuit will kill them or
+    take revenge.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: self-disguising fugitives
+  assigned_to:
+  - fig:1
+  basis: The Tornit alter clothing and hair in order to deceive pursuers.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: offending victim
+  assigned_to:
+  - fig:3
+  basis: The young Tuniq takes and damages a kayak, then is killed while sleeping.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: avenger of damaged property
+  assigned_to:
+  - fig:4
+  basis: The young Inung becomes angry after his kayak is damaged and kills the young
+    Tuniq.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: accidental death figure in variant
+  assigned_to:
+  - fig:4
+  basis: A variant says a young Inung falls and breaks his neck while playing with
+    the Tornit.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kayak or boat
+  literal_form: Kayaks or boats used for hunting and stolen from the Inuit by the
+    Tornit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: knife
+  literal_form: A knife used by the young Inung to stab the sleeping young Tuniq in
+    the nape of the neck.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cut jumper tails
+  literal_form: The Tornit cut off the tails of their jumpers to deceive pursuers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hair tied into crown bunch
+  literal_form: Hair tied into a bunch protruding from the crown of the head as part
+    of a deceptive alteration.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Qernirtung
+  literal_form: A place in Cumberland Sound where the Tornit assemble before disguising
+    themselves.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tornit steal Inuit kayaks
+  summary: The Tornit, who do not build kayaks, steal Inuit boats because they know
+    their hunting usefulness, while the Inuit do not resist because of the Tornit's
+    strength.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Damaged kayak and killing of the young Tuniq
+  summary: A young Tuniq takes and damages a young Inung's kayak. The angry Inung
+    kills the Tuniq while he sleeps; another version gives a different method of killing.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Tornit departure and disguise
+  summary: Fearing that the Inuit will kill them all, the Tornit assemble at Qernirtung,
+    alter their clothing and hair to deceive pursuers, and leave the country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Variant death and flight
+  summary: In another form, a young Inung dies by falling and breaking his neck while
+    playing with the Tornit; the Tornit fear revenge and leave the country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Songs associated with the Tornit
+  summary: The passage notes old ditties about the Tornit or said to have been sung
+    by them.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: theft of essential hunting boats by a stronger group
+  taxonomy_refs: []
+  basis: The Tornit do not build kayaks but steal Inuit boats because of their usefulness
+    in hunting, and the Inuit do not defend them because the Tornit are stronger.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No available taxonomy reference exactly matches non-sacred theft of hunting
+    equipment.
+- id: motif:2
+  label: revenge killing after damaged property
+  taxonomy_refs: []
+  basis: A young Tuniq takes and damages a young Inung's kayak, after which the angry
+    Inung kills him while he sleeps.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a variant method of killing, so details of the act vary.
+- id: motif:3
+  label: collective departure after fear of revenge
+  taxonomy_refs:
+  - departure
+  basis: After the killing, the Tornit fear the Inuit will kill them all and leave
+    the country for good; a variant also has them leave because they fear revenge.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents an ethnographic
+    tradition of group departure rather than a formal heroic departure.
+- id: motif:4
+  label: disguise to deceive pursuers during flight
+  taxonomy_refs: []
+  basis: Before leaving, the Tornit cut off the tails of their jumpers and tie their
+    hair into a crown bunch in order to deceive pursuers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not state whether the disguise succeeds or whether pursuers
+    actually follow.
+- id: motif:5
+  label: accidental death causing fear of retaliation
+  taxonomy_refs: []
+  basis: A variant says a young Inung breaks his neck while playing with the Tornit,
+    and the Tornit leave because they fear Inuit revenge.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is explicitly presented as another form of the tradition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9491-9494
+  quote_or_summary: The Tornit do not build kayaks, know their hunting advantages,
+    and steal boats from the Inuit, who do not defend them because the Tornit are
+    stronger.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9494-9496
+  quote_or_summary: A young Tuniq takes a young Inung's kayak without permission and
+    damages its bottom.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9496-9499
+  quote_or_summary: The young Inung becomes angry and kills the sleeping Tuniq by
+    stabbing the nape of his neck; a variant says he drills a hole into his head.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9499-9503
+  quote_or_summary: The Tornit fear the Inuit will kill them all, leave the country
+    for good, assemble at Qernirtung, and alter jumper tails and hair to deceive pursuers.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9504-9508
+  quote_or_summary: Another form says a young Inung falls and breaks his neck while
+    playing with the Tornit; the Tornit fear revenge and leave the country.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9509-9511
+  quote_or_summary: Many old ditties are sung about the Tornit or reported to have
+    been sung by them.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are descriptive and passage-level; only the broad 'departure' taxonomy reference
+    is used. No comparison claims are made because the passage itself does not support
+    a specific comparative claim beyond the local variants.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata; no external tradition or taxonomy details added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9491-l9511
+  passage_sha256=b8267a6e5c26321eb9993f3ea2e17e4d80f1629fa304996574fc4c1f3e5271e6
+

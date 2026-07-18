@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l1244-l1383
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: I. THE NIBELUNGEN SAGA / II. THE NIBELUNGENLIED / THE NIBELUNGENLIED / FIRST
+    ADVENTURE; lines 1244-1383
+  start: '1244'
+  end: '1383'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The opening of the First Adventure introduces Kriemhild, her Burgundian
+    royal family and court, then recounts her dream of a falcon killed by two eagles.
+    Queen Ute interprets the falcon as a noble future husband. Kriemhild rejects love
+    because joy can lead to sorrow, but the narration says she later marries the knight
+    represented by the falcon; her kin later slay him, and her revenge causes many
+    deaths.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens by announcing old stories of heroes, trials, joy, weeping,
+    woe, and warriors meeting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kriemhild is introduced as a noble Burgundian maiden of exceptional beauty,
+    through whom many thanes are said to be doomed to die.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gunther, Gernot, and Giselher are Kriemhild's brothers, guard her, and rule
+    Burgundy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Burgundian rulers and their warriors dwell at Worms beside the Rhine,
+    and the narration says they later perish through the hate of two noble women.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kriemhild dreams that she reared a beautiful, strong, wild falcon, and that
+    two eagles killed it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The dream causes Kriemhild great sorrow.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Queen Ute interprets the falcon as a noble spouse and says Kriemhild may lose
+    him unless God guards him from evil.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Kriemhild answers that she wishes to remain without a wooing knight so that
+    lover's wooing will not bring her to need.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Kriemhild says the fate of many women shows that joy often leads to sorrow,
+    and she resolves to stay apart from both.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The narration says Kriemhild remains free from love for a long time, lives
+    happily, and later honorably weds a worthy knight.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The narration identifies the later husband as the falcon from the dream, says
+    Kriemhild's nearest kin later slay him, and says her revenge for him causes many
+    other deaths.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Kriemhild
+  description: A noble Burgundian maiden, sister of Gunther, Gernot, and Giselher;
+    she dreams of the falcon, rejects love, later weds the knight represented by the
+    falcon, and later takes revenge for his death.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Queen Ute
+  description: Kriemhild's mother; she hears Kriemhild's dream and interprets the
+    falcon as a noble spouse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Gunther
+  description: One of Kriemhild's three noble brothers and guardians, a ruler in Burgundy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Gernot
+  description: One of Kriemhild's three noble brothers and guardians, a ruler in Burgundy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Giselher
+  description: One of Kriemhild's three noble brothers and guardians, described as
+    young and heroic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: unnamed worthy knight and future spouse
+  description: The knight whom Kriemhild later weds; the narration identifies him
+    with the falcon from her dream and says he is later slain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: Kriemhild's nearest kin
+  description: A collective referred to by the narration as those who later slay the
+    hero represented by the falcon.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: noble maiden and dreamer
+  assigned_to:
+  - fig:1
+  basis: Kriemhild is introduced as a noble maiden and is the one who dreams of the
+    falcon.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: mother and dream interpreter
+  assigned_to:
+  - fig:2
+  basis: Ute is Kriemhild's mother and interprets the falcon as a noble spouse.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: brother-guardians and Burgundian rulers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The three named brothers guard Kriemhild and command Burgundy.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: future spouse and doomed hero
+  assigned_to:
+  - fig:6
+  basis: Ute interprets the falcon as a spouse, and the narration later identifies
+    the husband with the falcon and says he is slain.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: future avenger
+  assigned_to:
+  - fig:1
+  basis: The narration says Kriemhild wreaks vengeance for the slain hero.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: future kin-slayers
+  assigned_to:
+  - fig:7
+  basis: The narration says Kriemhild's nearest kin later slay the hero.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: falcon
+  literal_form: A beautiful, strong, wild falcon reared by Kriemhild in her dream.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: two eagles
+  literal_form: Two eagles in Kriemhild's dream that kill the falcon.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: ominous dream vision
+  literal_form: Kriemhild's dream of the falcon's death, later explained and linked
+    to future events.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Burgundian royal house introduced
+  summary: The passage introduces Kriemhild, her brothers, their parents, and the
+    Burgundian court at Worms beside the Rhine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Kriemhild dreams of the falcon
+  summary: Kriemhild dreams that she has reared a strong and beautiful falcon, which
+    is killed by two eagles, causing her deep sorrow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Ute interprets the dream and Kriemhild refuses love
+  summary: Ute interprets the falcon as a noble spouse, while Kriemhild says she wants
+    to avoid wooing, love, and the sorrow that can follow joy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Narrated fulfillment and revenge
+  summary: The narration says Kriemhild later marries the worthy knight represented
+    by the falcon; her nearest kin later slay him, and her revenge causes many deaths.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: prophetic dream of future loss
+  taxonomy_refs: []
+  basis: Kriemhild dreams of a falcon killed by eagles; Ute interprets the falcon
+    as a spouse, and the narration later identifies the husband with the falcon and
+    foretells his death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage gives an internal interpretation and later narrative confirmation,
+    but no external typological classification is asserted.
+- id: motif:2
+  label: animal image of the future spouse
+  taxonomy_refs: []
+  basis: The falcon in Kriemhild's dream is explicitly interpreted as a noble spouse
+    and later identified with the knight she marries.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The two eagles are not explicitly interpreted by Ute in the cited passage.
+- id: motif:3
+  label: refusal of love to avoid sorrow
+  taxonomy_refs: []
+  basis: Kriemhild rejects wooing and says that joy often leads to sorrow, even though
+    the narration says she later weds.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a stated character response and thematic pattern rather than a
+    fully developed action sequence in the passage.
+- id: motif:4
+  label: slain spouse avenged against kin
+  taxonomy_refs: []
+  basis: The narration says Kriemhild's nearest kin later slay the hero represented
+    by the falcon, and that she takes vengeance, leading to many deaths.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The slaying and revenge are foreshadowed rather than narrated in full
+    within this passage.
+- id: motif:5
+  label: joy turning into sorrow
+  taxonomy_refs: []
+  basis: The opening announces both joy and woe, and Kriemhild later states that many
+    women's fates show joy often leading to sorrow.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: This is a broad thematic pattern; the passage does not attach it to a
+    supplied taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: First Adventure, stanza 1; within lines 1244-1383
+  quote_or_summary: The narrator announces old stories of heroes, many trials, joy,
+    festive greeting, weeping, woe, and warriors meeting.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+- id: ev:2
+  type: summary
+  locator: First Adventure, stanzas 2-3; within lines 1244-1383
+  quote_or_summary: Kriemhild is introduced as a noble and exceptionally fair Burgundian
+    maiden; the narration says many thanes are doomed to lose their lives through
+    her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+- id: ev:3
+  type: summary
+  locator: First Adventure, stanzas 4-8; within lines 1244-1383
+  quote_or_summary: Gunther, Gernot, and Giselher are Kriemhild's brothers and guardians;
+    Ute is their mother, Dankrat their father, and the brothers rule Burgundy.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+- id: ev:4
+  type: summary
+  locator: First Adventure, stanza 6; within lines 1244-1383
+  quote_or_summary: The Burgundian rulers dwell at Worms beside the Rhine; the narration
+    says they later perish beneath the hate of two noble women.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+- id: ev:5
+  type: quote
+  locator: First Adventure, stanza 13; within lines 1244-1383
+  quote_or_summary: Kriemhild dreams that she reared "a falcon, / in beauty strong
+    and wild," and that it "by two eagles perished."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+- id: ev:6
+  type: quote
+  locator: First Adventure, stanza 14; within lines 1244-1383
+  quote_or_summary: 'Ute says: "The falcon that thou rearedst, / doth mean a noble
+    spouse" and warns that Kriemhild may soon lose him unless God guards him.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+- id: ev:7
+  type: summary
+  locator: First Adventure, stanzas 15-17; within lines 1244-1383
+  quote_or_summary: Kriemhild says she will live without a wooing knight, because
+    lover's wooing may bring need; she adds that many women's fates show joy often
+    leading to sorrow.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+- id: ev:8
+  type: summary
+  locator: First Adventure, stanzas 18-19; within lines 1244-1383
+  quote_or_summary: Kriemhild remains free from love for a long time, later honorably
+    weds a worthy knight, and the narration identifies him as the falcon; her nearest
+    kin later slay him, and her revenge causes many deaths.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source text supplied in the request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high-confidence because the passage explicitly states
+    the dream, interpretation, later marriage, slaying, and revenge. Motif labels
+    are candidate descriptions without external taxonomy IDs because the supplied
+    taxonomy list lacks a precise omen-dream or bird-symbol category. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage and metadata. Available taxonomy references were left unused where they were not directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l1244-l1383
+  passage_sha256=d6a5ccb716b6432fb0774c6243646b180b5ea51cd5a7fefc07fe0b0b71c86775
+

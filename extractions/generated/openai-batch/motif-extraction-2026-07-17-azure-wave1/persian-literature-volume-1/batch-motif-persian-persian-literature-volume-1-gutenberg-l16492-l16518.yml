@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16492-l16518
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: LXXXVII / LXXXVIII / CXXIX / CXXXIV; lines 16492-16518
+  start: '16492'
+  end: '16518'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person speaker addresses a beautiful but inconstant young beloved.
+    The beloved is described as a child who attacks the speaker's heart, a fourteen-year-old
+    idol, a rose, and a pearl. The speaker's heart is lost seeking the beloved, and
+    the speaker says he would sacrifice his life if the beloved would rest in his
+    eye.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says the beloved's moon-like cheek has delight and beauty but
+    lacks constancy and love, and asks the Lord to bestow these qualities.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The beloved is described as a child who makes war against the speaker's heart
+    and may put the speaker to a cruel death in sport.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says it would be for his own good to guard his heart from the
+    beloved, who does not know good from ill.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The beloved is described as agile, sweet, fourteen years old, and an idol
+    praised by the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The beloved's breath is compared to the sweet smell of milk from sugary lips,
+    while the beloved's black roguish eyes are described as dripping blood.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker says his heart has gone to find the new-born rose and has been
+    lost for many days.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The young friend is said to own the speaker's heart and to be able to break
+    the speaker's center.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The speaker says the Pasha will command the beloved to take a lifeguard's
+    rank if the beloved can break the speaker's center.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The speaker says he would sacrifice his life in thanks if the pearl would
+    make the shell of Hfiz' eye its resting place.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Hfiz / first-person speaker
+  description: The first-person lover whose heart is endangered, lost, and owned;
+    the closing stanza refers to Hfiz' eye.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: young beloved / child / idol / young friend / pearl
+  description: A beautiful but inconstant fourteen-year-old beloved described as a
+    child, idol, young friend, new-born rose, and pearl.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Pasha
+  description: An authority figure who, according to the speaker, will command the
+    beloved to take a lifeguard's rank.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Lord
+  description: The invoked addressee whom the speaker asks to bestow constancy and
+    love and addresses while asking where the heart can be found.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: first-person lover and supplicant
+  assigned_to:
+  - fig:1
+  basis: The speaker describes the effects of the beloved on his heart and says he
+    would sacrifice his life.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:2
+  label: youthful beloved and possessor of the heart
+  assigned_to:
+  - fig:2
+  basis: The beloved is a fourteen-year-old child or young friend who owns, wounds,
+    and attracts the speaker's heart.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: civil or military authority
+  assigned_to:
+  - fig:3
+  basis: The Pasha is described as able to command the beloved to take a lifeguard's
+    rank.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: invoked divine addressee
+  assigned_to:
+  - fig:4
+  basis: The speaker invokes the Lord to bestow qualities and asks where the heart
+    can be found.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: moon-like beauty
+  literal_form: moon-like cheek; moon of fourteen days
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: vulnerable heart and broken center
+  literal_form: my heart; my centre
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: milk-scented breath
+  literal_form: sweet smell of milk from sugary lips
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: blood-dripping eyes
+  literal_form: black and roguish eyes dripping blood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: new-born rose
+  literal_form: new-born rose sought by the speaker's heart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: pearl in the eye's shell
+  literal_form: pearl of sheen; shell of Hfiz' eye
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: praised idol
+  literal_form: that idol whom I praise
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Invocation over the beloved's beauty and inconstancy
+  summary: The speaker describes the beloved's beautiful cheek and asks the Lord to
+    grant the beloved constancy and love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The child beloved attacks the heart
+  summary: The beloved is described as a child making war on the speaker's heart;
+    the speaker says he should guard the heart from him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sensory and celestial description of the young beloved
+  summary: The beloved is described as a fourteen-year-old idol with moon imagery,
+    milk-scented breath, sugary lips, and blood-dripping black eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The heart lost in search of the rose
+  summary: The speaker says his heart has gone searching for the new-born rose and
+    remains lost; the beloved owns and can break the speaker's heart or center.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Vow of life-sacrifice for the pearl's presence
+  summary: The speaker says he would sacrifice his life if the pearl-like beloved
+    would rest in the shell of his eye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: beautiful but inconstant beloved
+  taxonomy_refs: []
+  basis: The beloved has beauty and delight but lacks constancy and love.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a lyric love pattern rather than a narrative mythic episode.
+- id: motif:2
+  label: youthful beloved as assailant of the heart
+  taxonomy_refs: []
+  basis: The beloved is a child who makes war against the speaker's heart and may
+    kill the speaker in sport.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The violence is poetic language within a love lyric.
+- id: motif:3
+  label: heart's journey in search of the rose-like beloved
+  taxonomy_refs: []
+  basis: The speaker's heart has gone upon its way to find the new-born rose and has
+    long been lost.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a heart-search image, but not enough by itself to
+    classify it securely as a full quest narrative.
+- id: motif:4
+  label: self-sacrifice for the beloved's nearness
+  taxonomy_refs:
+  - sacrifice
+  basis: The speaker says he would sacrifice his life in thanks if the pearl-like
+    beloved would rest in the shell of his eye.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The sacrifice is stated as lyric devotion, not as an enacted ritual.
+- id: motif:5
+  label: beloved as precious pearl contained in the eye
+  taxonomy_refs: []
+  basis: The beloved is called a pearl that might make the shell of Hfiz' eye its
+    resting place.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a symbolic image rather than a developed narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 16494-16495
+  quote_or_summary: '"Although upon his moon-like cheek delight and beauty glow, /
+    Nor constancy nor love is there"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 16497-16498
+  quote_or_summary: '"A child makes war against my heart" and may put the speaker
+    "to a cruel death" in sport.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 16500-16501
+  quote_or_summary: The speaker says he should guard his heart from the beloved, who
+    does not know good from ill.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: quote
+  locator: 16503-16504
+  quote_or_summary: '"Agile and sweet of fourteen years that idol whom I praise";
+    the moon retains his earrings.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 16506-16507
+  quote_or_summary: The beloved's lips give a milk-sweet breath, while black roguish
+    eyes are described as dripping blood.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:6
+  type: quote
+  locator: 16509-16510
+  quote_or_summary: '"My heart to find that new-born rose has gone upon its way" and
+    has been lost many days.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: 16512-16513
+  quote_or_summary: The young friend owns the speaker's heart, can break his center,
+    and may be commanded by the Pasha to take a lifeguard's rank.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:8
+  type: quote
+  locator: 16515-16518
+  quote_or_summary: '"I''d sacrifice my life in thanks" if the pearl would make "the
+    shell of Hfiz'' eye" its resting place.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied English lyric excerpt. Motif candidates
+    identify recurrent lyric images and actions; no external comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16492-l16518
+  passage_sha256=086993bc74b1294643bef28349110970865959ec04697af73ecf40c17cab2782
+

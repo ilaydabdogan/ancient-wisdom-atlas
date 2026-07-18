@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l389-l401
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: X. THE MISER                                                  60 / XI. THE
+    FOOL AND THE BIRCH-TREE                                62 / XII. THE MIZGIR                                                 68
+    / XIII. THE SMITH AND THE DEMON                                    70; lines 389-401
+  start: '389'
+  end: '401'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a table-of-contents segment listing tale titles VII through
+    XIII with page numbers: The Bad Wife, The Golovikha, The Three Copecks, The Miser,
+    The Fool and the Birch-Tree, The Mizgir, and The Smith and the Demon.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists the title “VII. THE BAD WIFE” with page number 52.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists the title “VIII. THE GOLOVIKHA” with page number 55.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists the title “IX. THE THREE COPECKS” with page number 56.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists the title “X. THE MISER” with page number 60.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists the title “XI. THE FOOL AND THE BIRCH-TREE” with page number
+    62.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage lists the title “XII. THE MIZGIR” with page number 68.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage lists the title “XIII. THE SMITH AND THE DEMON” with page number
+    70.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Bad Wife
+  description: A title figure named in the table of contents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Golovikha
+  description: A title figure or entity named in the table of contents; no further
+    description is provided in this passage.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Miser
+  description: A title figure named in the table of contents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The Fool
+  description: A title figure named in the table of contents.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: The Mizgir
+  description: A title figure or entity named in the table of contents; no further
+    description is provided in this passage.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: The Smith
+  description: A title figure named in the table of contents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: The Demon
+  description: A title figure named in the table of contents.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: wife
+  assigned_to:
+  - fig:1
+  basis: The figure is titled “The Bad Wife.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: miser
+  assigned_to:
+  - fig:3
+  basis: The figure is titled “The Miser.”
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: fool
+  assigned_to:
+  - fig:4
+  basis: The figure is titled “The Fool and the Birch-Tree.”
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: smith
+  assigned_to:
+  - fig:6
+  basis: The figure is titled “The Smith and the Demon.”
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: demon
+  assigned_to:
+  - fig:7
+  basis: The figure is titled “The Smith and the Demon.”
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: three copecks
+  literal_form: three copecks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: birch-tree
+  literal_form: birch-tree
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 389-390
+  quote_or_summary: "“VII. THE BAD WIFE                                               52”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 391-392
+  quote_or_summary: "“VIII. THE GOLOVIKHA                                              55”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 393-394
+  quote_or_summary: "“IX. THE THREE COPECKS                                          56”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 395-396
+  quote_or_summary: "“X. THE MISER                                                  60”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 397-398
+  quote_or_summary: "“XI. THE FOOL AND THE BIRCH-TREE                                62”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 399-400
+  quote_or_summary: "“XII. THE MIZGIR                                                 68”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 400-401
+  quote_or_summary: "“XIII. THE SMITH AND THE DEMON                                    70”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is only a table-of-contents list. Figure and symbol extraction
+    is limited to literal title words; no narrative scenes or motif candidates are
+    inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims or motif candidates were added because the passage itself does not provide narrative content or explicit comparative framing.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l389-l401
+  passage_sha256=164ec69e6ea8f7889f0787f8f3be23e0b7a19c7599cf5f6d12a9d1cd50906f8b
+

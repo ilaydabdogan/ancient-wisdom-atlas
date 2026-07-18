@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l6369-l6376
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 6369-6376
+  start: '6369'
+  end: '6376'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“My Lord and my Saviour, command to me also, that I may speak in thy presence...”"
+  summary: After Jesus finishes speaking to his disciples, Iohannes comes forward
+    and asks Jesus for permission to speak, requests that Jesus not be angry at his
+    exact questioning, recalls Jesus’ promise to reveal what he seeks, and asks that
+    nothing be hidden from them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Jesus has just finished saying words to his disciples.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Iohannes comes forward after Jesus’ speech.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Iohannes addresses Jesus as “My Lord and my Saviour.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Iohannes asks Jesus to command him to speak in Jesus’ presence.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Iohannes asks that Jesus not be angry with his seeking after everything with
+    exactness and certainty.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Iohannes says Jesus promised to reveal everything that Iohannes would seek
+    from him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Iohannes asks Jesus not to hide anything from the group in what they seek
+    from him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jesus
+  description: The figure who has finished speaking to his disciples and is addressed
+    by Iohannes as Lord and Saviour.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Iohannes
+  description: The figure who comes forward and asks Jesus for permission to speak
+    and for full revelation of what is sought.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: disciples
+  description: The group to whom Jesus has been speaking.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: speaker-teacher
+  assigned_to:
+  - fig:1
+  basis: Jesus is described as having finished saying words to his disciples.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: revealer addressed as Lord and Saviour
+  assigned_to:
+  - fig:1
+  basis: Iohannes addresses Jesus as Lord and Saviour and refers to Jesus’ promise
+    to reveal what is sought.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: questioning disciple seeking revelation
+  assigned_to:
+  - fig:2
+  basis: Iohannes asks to speak, seeks exact certainty, and asks that nothing be hidden.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: disciple audience
+  assigned_to:
+  - fig:3
+  basis: The passage says Jesus has been speaking to his disciples.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Iohannes requests permission and revelation from Jesus
+  summary: After Jesus finishes addressing the disciples, Iohannes comes forward and
+    asks Jesus to let him speak, to tolerate his exact questioning, and to reveal
+    rather than hide what is sought.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: request for revealed wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Iohannes explicitly seeks exact and certain understanding and asks Jesus
+    to reveal everything sought and not hide anything.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames the request for knowledge but does not yet narrate
+    the content of the revelation.
+- id: motif:2
+  label: disciple questions divine teacher
+  taxonomy_refs: []
+  basis: A disciple-like figure approaches Jesus, asks permission to speak, and requests
+    answers from him as Lord and Saviour.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a local dialogue pattern rather than a supplied taxonomy motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6369-6370
+  quote_or_summary: Jesus finishes speaking to his disciples; Iohannes comes forward.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: 6370-6372
+  quote_or_summary: "“My Lord and my Saviour, command to me also, that I may speak
+    in thy presence”"
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: 6372-6374
+  quote_or_summary: Iohannes asks Jesus not to be angry with him for seeking everything
+    with exactness and certainty.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: 6374-6375
+  quote_or_summary: Iohannes says Jesus promised to reveal everything he would seek
+    from him.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: quote
+  locator: 6375-6376
+  quote_or_summary: "“hide not anything from us at all ... which we shall seek from
+    thee”"
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal speaker relations are clear. Motif assignment to wisdom is directly
+    supported by the request for exact, certain revelation; broader comparative claims
+    are not made from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No concrete symbolic object from the supplied symbol list appears in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l6369-l6376
+  passage_sha256=95a6b0eced9099a0af6828d2c81056ede74e8957ee96e0d17796d41c68f55995
+

@@ -1,0 +1,539 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l315-l390
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: Persian Literature, Volume 1 / PERSIAN LITERATURE / SPECIAL INTRODUCTION;
+    lines 315-390
+  start: '315'
+  end: '390'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A biographical and literary introduction presents Sa'di as a wise Persian
+    teacher, born in Shiraz, shaped by exile, captivity, study, travel, return, and
+    reclusive authorship. The passage emphasizes his serenity, contentment, didactic
+    works, and the garden and mirror imagery associated with the Bustan and Gulistan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sa'di is placed alongside Firdusi and Omar and is described as a wise man
+    whose countrymen call him "the Sheikh."
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives Sa'di's full name as Muharrif al-Din Abdallah Sa'di, says
+    he was born at Shiraz in 1184, and says he lived to be one hundred and ten years
+    old.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage situates Sa'di's life amid Mongol devastation in the East and
+    Crusader fighting in the West.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In 1226 Sa'di was forced to leave Shiraz and take up a wanderer's staff.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Crusaders took Sa'di captive and led him to Tripoli.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that Sa'di's wide experience of the world and of people
+    produced serenity and a firm hold upon life.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sa'di is quoted as saying that when he lacked shoes and then met a man without
+    feet, he became thankful and resigned to his want of shoes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says Sa'di offers advice and regards the telling of the messenger's
+    tale as sufficient even if no one hears it with desire.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sa'di's apprenticeship is described as being spent in Arabic Bagdad, where
+    he sat at the feet of noted scholars and learned Persian Sufism as well as Abbasid
+    science and learning.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Sa'di's journeyman-years are described as wide travels through regions under
+    Arab influence before he returned to Shiraz.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After returning to Shiraz, Sa'di put his thoughts into writing, lived almost
+    as a recluse, and produced twenty-two works.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: A quoted Oriental writer divides Sa'di's life into study, travel with experience
+    and dissemination of knowledge, and a final reclusive period marked by temperance
+    and piety.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The passage says Sa'di wrote mystic-religious homilies, lyrics in Arabic,
+    Turkish, and Persian, erotic verses, and chiefly didactic works.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: The Bustan is described as the "Tree-Garden," treating ethical questions and
+    containing Mystic and Sufic descriptions of love.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:15
+  text: The Gulistan is described as a "Garden of Roses," a mirror for all stations
+    of life, and a work mixing prose, poetry, adventures, devices, accounts of kings,
+    maxims, and worldly wisdom.
+  category: object
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Sa'di
+  description: Persian wise man and teacher called "the Sheikh," born at Shiraz, forced
+    into wandering and captivity, later a traveler, recluse, and didactic author.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Firdusi
+  description: Named as an epic poet beside whom Sa'di is placed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Omar
+  description: Named as a philosopher beside whom Sa'di is placed and later contrasted
+    with Sa'di's avoidance of extremes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Mongols
+  description: Historical group described as devastating in the East during Sa'di's
+    lifetime.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Crusaders
+  description: Historical group described as fighting in the West and as taking Sa'di
+    captive and leading him to Tripoli.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: man without feet
+  description: Man encountered in Sa'di's reported example, whose condition makes
+    Sa'di thankful despite lacking shoes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: noted scholars of Arabic Bagdad
+  description: Unnamed scholars at whose feet Sa'di is said to have sat during his
+    apprenticeship.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: wise teacher
+  assigned_to:
+  - fig:1
+  basis: Sa'di is called a wise man and "the Sheikh," and the passage emphasizes his
+    advice, didactic works, and worldly wisdom.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:10
+  - ev:11
+- id: role:2
+  label: wanderer and captive
+  assigned_to:
+  - fig:1
+  basis: He is said to have been forced to leave Shiraz with a wanderer's staff and
+    to have been captured by Crusaders.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: student of scholars
+  assigned_to:
+  - fig:1
+  basis: His apprenticeship is described as sitting at the feet of noted scholars
+    in Arabic Bagdad.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: reclusive author
+  assigned_to:
+  - fig:1
+  basis: After returning to Shiraz, he is described as living almost as a recluse
+    and producing twenty-two works.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: literary comparand
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Firdusi and Omar are named as major figures beside whom Sa'di is placed.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: historical force of disruption
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Mongols are described as devastating in the East, and Crusaders as fighting
+    in the West and taking Sa'di captive.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: exemplar of greater deprivation
+  assigned_to:
+  - fig:6
+  basis: The man without feet functions in Sa'di's reported example as the sight that
+    makes him thankful despite lacking shoes.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: scholarly instructors
+  assigned_to:
+  - fig:7
+  basis: The scholars are described as teachers at whose feet Sa'di sat in Bagdad.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: nightingale titles
+  literal_form: The titles "nightingale of the groves of Shiraz" and "nightingale
+    of a Thousand Songs" applied to Sa'di.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wanderer's staff
+  literal_form: The staff Sa'di is said to have grasped when forced to leave Shiraz.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bare feet and shoes
+  literal_form: Sa'di's bare feet and lack of shoes in his reported example of contentment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Bustan as Tree-Garden
+  literal_form: The work title "Bustan," glossed as "Tree-Garden."
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: Gulistan as Garden of Roses
+  literal_form: The work title "Gulistan," glossed as "Garden of Roses."
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: mirror for all stations
+  literal_form: The Gulistan described as "a mirror for every one alike" regardless
+    of station in life.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Recognition of Sa'di as wise Sheikh
+  summary: The passage introduces Sa'di beside Firdusi and Omar, identifies him as
+    a wise man, and notes that his countrymen call him "the Sheikh."
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Forced departure and captivity
+  summary: Amid Mongol and Crusader violence, Sa'di is forced to leave Shiraz, takes
+    up a wanderer's staff, and is captured by Crusaders and led to Tripoli.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Contentment after seeing the man without feet
+  summary: Sa'di reports that he once complained only when barefoot and without shoes;
+    after meeting a man without feet, he became thankful and resigned.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Study, travel, and return to Shiraz
+  summary: Sa'di studies in Bagdad under scholars, travels widely through regions
+    under Arab influence, and returns to Shiraz to write the thoughts formed through
+    his experience.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Reclusive authorship and didactic garden works
+  summary: Sa'di spends his mastership in seclusion, produces twenty-two works, and
+    is chiefly associated with the didactic Bustan and Gulistan, described through
+    garden and mirror imagery.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: wise teacher shaped by lived experience
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents Sa'di as a wise man and teacher whose wide experience
+    produces serenity and whose didactic works communicate worldly wisdom.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage is a literary-biographical introduction rather than a mythic
+    narrative.
+- id: motif:2
+  label: forced departure into wandering and captivity
+  taxonomy_refs:
+  - departure
+  basis: Sa'di is described as being forced to leave Shiraz with a wanderer's staff
+    and then as being captured and led to Tripoli.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The departure is presented as historical biography, not as a mythic quest
+    episode.
+- id: motif:3
+  label: return from wide travels to a learning center
+  taxonomy_refs:
+  - return
+  - wisdom
+  basis: After wide travels, Sa'di returns to Shiraz, called the seat of learning,
+    and writes the thoughts developed during his years of observation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The return is explicit, but its motif status depends on comparative framing
+    outside this passage.
+- id: motif:4
+  label: three-phase sage life of study, travel, and retreat
+  taxonomy_refs:
+  - wisdom
+  basis: A quoted writer divides Sa'di's life into study, acquisition and dissemination
+    of experience through travel, and a final reclusive phase marked by temperance
+    and piety.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is a biographical pattern stated by the source; no broader tradition
+    is established in the passage.
+- id: motif:5
+  label: garden and mirror as vehicles of instruction
+  taxonomy_refs:
+  - wisdom
+  basis: Sa'di's didactic works are named through garden imagery, and the Gulistan
+    is described as a mirror for all stations of life that teaches worldly wisdom.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The garden and mirror imagery is literary and titular here; the passage
+    does not develop a mythic garden scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 315-322
+  quote_or_summary: Sa'di is placed beside Firdusi the epic poet and Omar the philosopher;
+    he is called a wise man, "the Sheikh," and also receives nightingale titles in
+    Oriental hyperbole.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 322-328
+  quote_or_summary: The passage gives Sa'di's name, birth at Shiraz in 1184, lifespan
+    of one hundred and ten years, and the context of Mongols in the East and Crusaders
+    in the West.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 328-332
+  quote_or_summary: In 1226 Sa'di was forced to leave Shiraz, grasp a wanderer's staff,
+    and was captured by Crusaders and led to Tripoli.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 332-339
+  quote_or_summary: The passage says world-experience produced Sa'di's serenity; Sa'di
+    reports becoming thankful after seeing a man without feet while he himself merely
+    lacked shoes.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 341-348
+  quote_or_summary: Sa'di is contrasted with extremes attributed to Omar and speaks
+    of giving advice, saying the messenger has told his tale and that is enough.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 350-356
+  quote_or_summary: Sa'di's apprenticeship is described as study in Arabic Bagdad
+    under noted scholars, including Persian Sufism and Abbasid science and learning.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 356-363
+  quote_or_summary: His journeyman-years take him through Europe, the Barbary States,
+    Egypt, Abyssinia, Arabia, Syria, Palestine, Asia Minor, and India before return
+    to Shiraz.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 363-367
+  quote_or_summary: After returning to Shiraz, the "seat of learning," Sa'di writes
+    the thoughts formed through years of experience and lives in near-reclusive seclusion
+    while producing twenty-two works.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 367-375
+  quote_or_summary: A quoted Oriental writer divides Sa'di's long life into thirty
+    years of study, thirty or forty years of travel and dissemination of knowledge,
+    and a long reclusive remainder marked by temperance and piety.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 377-384
+  quote_or_summary: Sa'di's works include mystic-religious homilies, lyrics in several
+    languages, erotic verses, and chiefly didactic works; the Bustan, or Tree-Garden,
+    treats ethics and Sufic love.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:11
+  type: summary
+  locator: lines 385-390
+  quote_or_summary: The Gulistan, or Garden of Roses, is described as a mirror for
+    all stations of life, mixing prose and poetry, adventures, accounts of kings,
+    maxims, and worldly wisdom.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a biographical-literary introduction with clear evidence for
+    wisdom, departure, return, and instructional imagery. Motif candidates are therefore
+    cautious and mostly literary-biographical rather than mythic. No mythology-relevant
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Literary comparisons to Firdusi, Omar, and Goethe were not treated as comparative mythology claims.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l315-l390
+  passage_sha256=aed76d82c50a000c48e07562321c6a71382806389631b9a4b0e2e63f0506d7fd
+

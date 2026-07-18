@@ -1,0 +1,602 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9797-l9929
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE BEAR STORY. / SUNDRY TALES. / THE OWL AND THE RAVEN. / COMPARISON BETWEEN
+    BAFFIN LAND TRADITIONS AND THOSE OF OTHER TRIBES.; lines 9797-9929
+  start: '9797'
+  end: '9929'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an ethnographic comparison of Central Eskimo/Baffin Land
+    traditions with traditions from Greenland, Labrador, Alaska, and the Mackenzie
+    region. It lists corresponding tales and recurring elements, including sun and
+    moon as siblings, descent of humans from a dog, origins of thunder, fish, deer
+    or reindeer, transformation of a man into a seal, walking on water, and the man
+    of the moon's one-dog sledge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that the similarity of Eskimo language and traditions from
+    Behring Strait to Greenland is remarkable despite the distance between tribes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author states that non-Greenland comparative material is scanty, but that
+    the same traditions or elements of traditions are probably known to all the tribes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A table pairs named Greenlander and other-tribe traditions with named Central
+    Eskimo traditions.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author says that some stories are almost identical in both countries and
+    that some speeches and songs occur literally in both countries.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author says that the Tornit tradition and the form of the second tale,
+    the origin of the narwhal, resemble Labrador versions more than Greenland versions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author states that elements are combined differently in Baffin Land and
+    Greenland tales, but that most of the elements are identical.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A comparative table lists shared elements including transformation of a man
+    into a seal, men walking on water, harpooning a witch, the man of the moon's one-dog
+    sledge, the origin of salmon, and the origin of thunder.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A table compares Alaska and Mackenzie traditions with Central Eskimo traditions,
+    including dog ancestry, origins of reindeer and fishes, thunder and lightning,
+    sun and moon, and Orion.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'The passage concludes that five ideas are known to all tribes from Alaska
+    to Greenland: the sun as brother of the moon, descent of man from a dog, thunder
+    from rubbing a deerskin, fish from chips of wood, and the origin of deer.'
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The author says that more collected Alaskan traditions would help decide the
+    question of Eskimo origin.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: The sun is described in the sun myth as the brother of the moon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Moon
+  description: The moon is described in the sun myth as the sun's brother; a separate
+    listed element also mentions the man of the moon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Man of the moon
+  description: A comparative element names the sledge of the man of the moon drawn
+    by one dog.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Dog
+  description: A dog appears in traditions of human descent and as the one animal
+    drawing the man of the moon's sledge.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Man transformed into a seal
+  description: A comparative element is the transformation of a man into a seal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Witch
+  description: A comparative element is the harpooning of a witch.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Erqigdlit / Adlet
+  description: The table pairs Erqigdlit in Greenland traditions with Adlet in the
+    Central Eskimo tradition of the origin of the Adlet and white men.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Kadlu the thunderer
+  description: The Alaska and Mackenzie comparison pairs thunder and lightning with
+    the Central Eskimo tradition titled Kadlu the thunderer.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sun-moon sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The concluding list states that the sun myth represents the sun as the brother
+    of the moon.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: moon-sledge owner
+  assigned_to:
+  - fig:3
+  basis: The comparative element names the sledge of the man of the moon drawn by
+    one dog.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: animal ancestor
+  assigned_to:
+  - fig:4
+  basis: The Alaska/Mackenzie table and the concluding list identify a tradition of
+    men or humans descending from a dog.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: sledge draft animal
+  assigned_to:
+  - fig:4
+  basis: The comparative element states that the man of the moon's sledge is drawn
+    by one dog.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: transformed human
+  assigned_to:
+  - fig:5
+  basis: The comparative table lists transformation of a man into a seal.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: harpooned witch
+  assigned_to:
+  - fig:6
+  basis: The comparative table lists harpooning a witch.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: paired named people or beings in comparative table
+  assigned_to:
+  - fig:7
+  basis: The comparative table aligns Erqigdlit with Adlet, and another table aligns
+    dog-descended men with the origin of the Adlet and white men.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: thunder-associated figure
+  assigned_to:
+  - fig:8
+  basis: The table aligns thunder and lightning with the Central Eskimo tradition
+    titled Kadlu the thunderer.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sun and moon as siblings
+  literal_form: the sun represented as brother of the moon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sibling_pair
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: dog ancestor
+  literal_form: descent of man from a dog
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: deerskin rubbed to produce thunder
+  literal_form: rubbing a deerskin as origin of thunder
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: wood chips producing fish
+  literal_form: origin of fish from chips of wood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: surface of water
+  literal_form: men walking on the surface of the water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: seal transformation
+  literal_form: transformation of a man into a seal
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: one-dog moon sledge
+  literal_form: sledge of the man of the moon drawn by one dog
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Orion
+  literal_form: Orion listed as a compared tradition topic
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: deer or reindeer origin
+  literal_form: story of the origin of deer; origin of reindeer in the Alaska/Mackenzie
+    table
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:10
+  label: fish or salmon origin
+  literal_form: origin of fishes from chips of wood; origin of salmon in the Greenland/Baffin
+    Land comparison
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Greenland and other-tribe tale correspondences
+  summary: The first table aligns Greenlander and other-tribe tale titles with Central
+    Eskimo traditions, including pairs concerning Qaudjaqdjuq, the narwhal, Kiviung,
+    the sun and moon, the moon, Tornit, and a woman mated with a dog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Shared Greenland and Baffin Land narrative elements
+  summary: A second table lists recurring elements shared between Greenland and Baffin
+    Land traditions, including man-to-seal transformation, water-walking, harpooning
+    a witch, Erqigdlit or Adlet, the moon man's one-dog sledge, origin of salmon,
+    Arnaquagsaq or Sedna, and origin of thunder.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:10
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Alaska and Mackenzie comparison with pan-regional list
+  summary: 'The passage compares Alaska and Mackenzie traditions with Central Eskimo
+    traditions and then lists ideas said to be known from Alaska to Greenland: sun
+    and moon as siblings, descent from a dog, thunder from a deerskin, fish from wood
+    chips, and origin of deer.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cross-regional recurrence of tale elements
+  taxonomy_refs: []
+  basis: The author states that similar traditions occur from Behring Strait to Greenland
+    and that Baffin Land and Greenland tales combine mostly identical elements differently.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a comparative pattern in the passage, not a single narrative motif.
+- id: motif:2
+  label: sun and moon as siblings
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage explicitly identifies the sun myth as representing the sun as
+    the brother of the moon.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives only the comparative statement, not the full tale.
+- id: motif:3
+  label: human descent from a dog
+  taxonomy_refs: []
+  basis: The Alaska/Mackenzie table lists men as descendants of a dog, and the conclusion
+    lists the descent of man from a dog among ideas known from Alaska to Greenland.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not provide the full narrative sequence.
+- id: motif:4
+  label: origin of thunder by rubbing a deerskin
+  taxonomy_refs: []
+  basis: The concluding list names the origin of thunder by rubbing a deerskin as
+    an idea known from Alaska to Greenland.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not provide the surrounding story.
+- id: motif:5
+  label: origin of fish from wood chips
+  taxonomy_refs: []
+  basis: The concluding list names the origin of fish from chips of wood as an idea
+    known from Alaska to Greenland.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not provide the surrounding story.
+- id: motif:6
+  label: origin of deer or reindeer
+  taxonomy_refs: []
+  basis: The Alaska/Mackenzie table compares the origin of reindeer with a Central
+    Eskimo origin of reindeer and walrus, and the conclusion lists the story of the
+    origin of deer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives only motif headings and a broad distribution statement.
+- id: motif:7
+  label: man transformed into a seal
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Greenland/Baffin Land element table lists transformation of a man into
+    a seal.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage provides only the element label, not the transformation episode.
+- id: motif:8
+  label: walking on the surface of water
+  taxonomy_refs: []
+  basis: The Greenland/Baffin Land element table lists men walking on the surface
+    of the water.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not identify the walkers or narrative context.
+- id: motif:9
+  label: moon flight and one-dog moon sledge
+  taxonomy_refs:
+  - ascent
+  basis: The first table includes an angakoq's flight to the moon, and the element
+    table lists the man of the moon's sledge drawn by one dog.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The ascent taxonomy is supported by the title 'flight to the moon,' but
+    the passage supplies no full journey narrative.
+- id: motif:10
+  label: harpooning a witch
+  taxonomy_refs: []
+  basis: The Greenland/Baffin Land element table lists harpooning a witch.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supplies only the shared element, not the tale details.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a same-motif comparison between multiple Greenlander
+    traditions and Central Eskimo traditions, with some stories described as almost
+    identical.
+  claim_level: same_motif
+  target: Rink's Greenlander traditions and the listed Central Eskimo traditions
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a table and general assessment rather than reproducing
+    the full tales.
+- id: claim:2
+  claim: The passage states that the Baffin Land Tornit tradition and the origin-of-the-narwhal
+    tale resemble Labrador forms more than Greenland forms.
+  claim_level: same_motif
+  target: Labrador versions of the Tornit tradition and the origin of the narwhal
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not quote the Labrador versions or detail the resemblances.
+- id: claim:3
+  claim: The passage supports a same-motif comparison between Greenland and Baffin
+    Land for listed elements such as man-to-seal transformation, water-walking, witch
+    harpooning, the one-dog moon sledge, salmon origin, and thunder origin.
+  claim_level: same_motif
+  target: Greenland and Baffin Land tradition elements
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The elements are listed without full narrative contexts.
+- id: claim:4
+  claim: The passage supports a same-motif comparison between Alaska/Mackenzie traditions
+    and Central Eskimo traditions for dog descent, reindeer and fish origins, thunder
+    and lightning, sun and moon, and Orion.
+  claim_level: same_motif
+  target: Alaska and Mackenzie traditions compared with Central Eskimo traditions
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  limitations: The author notes that comparative material from tribes other than Greenlanders
+    is scanty and that few Alaskan traditions had been collected.
+- id: claim:5
+  claim: 'The passage supports a broad distribution claim from Alaska to Greenland
+    for five ideas: sun-moon sibling myth, dog descent, thunder from deerskin rubbing,
+    fish from wood chips, and deer origin.'
+  claim_level: same_motif
+  target: tribes from Alaska to Greenland
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The passage frames this as a distribution of ideas but does not resolve
+    historical origin or transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9797-9805
+  quote_or_summary: The author says Eskimo language and traditions from Behring Strait
+    to Greenland are remarkably similar; other material is scanty, but probably the
+    same traditions or elements are known to all tribes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: lines 9806-9845
+  quote_or_summary: The first table compares Greenlander and other-tribe traditions
+    with Central Eskimo traditions, including Qaudjaqdjuq, the narwhal, Kiviung, the
+    visitor, sun and moon, the moon, Tornit, and the origin of the Adlet and white
+    men.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: lines 9846-9856
+  quote_or_summary: The author states that some stories are almost identical, that
+    some speeches and songs occur literally in both countries, that Tornit and the
+    narwhal-origin tale resemble Labrador forms, and that Baffin Land and Greenland
+    use mostly identical elements in different combinations.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: lines 9857-9881
+  quote_or_summary: The Greenland/Baffin Land element table lists man-to-seal transformation,
+    walking on water, harpooning a witch, Erqigdlit/Adlet, the man of the moon's one-dog
+    sledge, origin of salmon, Arnaquagsaq/Sedna, and origin of thunder.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: lines 9882-9907
+  quote_or_summary: The Alaska/Mackenzie comparison pairs men as descendants of a
+    dog, origins of reindeer and fishes, thunder and lightning, sun and moon, and
+    Orion with Central Eskimo traditions.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; Project Gutenberg text.
+- id: ev:6
+  type: quote
+  locator: lines 9908-9914
+  quote_or_summary: 'The table shows ideas known from Alaska to Greenland: sun as
+    brother of moon, descent of man from a dog, thunder from rubbing a deerskin, fish
+    from chips of wood, and the origin of deer.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; Project Gutenberg text.
+- id: ev:7
+  type: summary
+  locator: lines 9915-9929
+  quote_or_summary: The author regrets that very few Alaskan traditions had been collected
+    and says further study would help decide the question of the origin of the Eskimo.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicitly comparative and gives clear lists of corresponding
+    traditions and elements. Motif confidence is lower where only titles or element
+    labels are supplied without narrative detail. The author also notes that Alaskan
+    comparative material is scanty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or taxonomy IDs beyond the supplied available references were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9797-l9929
+  passage_sha256=5945c309f4199ed2f5e26e82f336d4f681d99954c197929cdb79e8f240825425
+

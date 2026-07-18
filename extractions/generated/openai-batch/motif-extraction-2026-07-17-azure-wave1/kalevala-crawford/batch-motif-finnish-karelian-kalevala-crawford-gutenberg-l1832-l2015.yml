@@ -1,0 +1,561 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l1832-l2015
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 1832-2015
+  start: '1832'
+  end: '2015'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Wainamoinen clears a forest, spares a birch for birds, and an eagle from
+    heaven burns the remaining trees while the birch survives. Wainamoinen sows seven
+    barley grains in ash-enriched soil, invokes the earth-mother and Ukko for fertility
+    and rain, and Ukko sends clouds and rain so the barley grows. A cuckoo rests in
+    the spared birch, and Wainamoinen asks it to sing for forest growth, barley ripening,
+    Northland's richness, and Kalevala's joy. The passage then begins Rune III by
+    describing Wainamoinen as a famous wisdom-singer whose reputation reaches Youkahainen,
+    a young Lapland minstrel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wainamoinen makes an axe, clears the forest, fells many kinds of trees, and
+    leaves only the birch-tree standing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The birch-tree is left as a nesting, resting, and singing place for birds,
+    including the eagle and cuckoo.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: obs:3
+  text: An eagle comes down from heaven through the air and asks Wainamoinen why the
+    birch-tree alone was left standing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eagle praises Wainamoinen's judgment, then kindles fire among the branches;
+    winds fan the flames, and the forest burns to ashes while the birch remains.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Wainamoinen brings seven magic barley grains from pouches made of squirrel
+    and marten skin and scatters the grains in soil enriched with ashes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wainamoinen addresses an ancient mother below the earth and ocean, called
+    mother of fields and forests, asking her to make the soil and seed produce.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Wainamoinen addresses Ukko, father of the heavens, asking him to send clouds
+    and rain from several directions so the barley may ripen.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Ukko holds counsel in the cloud-space, sends clouds from several directions,
+    joins and sews their edges, grasps a cloud, and hurls it earthward.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Rain falls from heaven, and the barley grows from germ to blade and richly
+    colored ears.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: After seven days and on the morning of the eighth, Wainamoinen inspects the
+    barley and finds triple-knotted blades and six-sided ears.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A spring-time cuckoo rests on the birch and sings; Wainamoinen says the birch
+    was left as its home and asks it to call at morning, evening, and noon for growth,
+    ripening, richness, and joy.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: In Wainola and Kalevala, Wainamoinen sings legends, wisdom-songs, heroic tales,
+    and creation legends, and his fame spreads southward and through Northland.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Youkahainen, described as a young and reckless Lapland minstrel in Northland,
+    hears that Wainamoinen is the better singer of legends.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Wainamoinen
+  description: Wise and ancient figure; forest-clearer, barley-sower, invoker of divine
+    powers, and famed minstrel of wisdom and creation songs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Eagle
+  description: Bird of heaven that descends through the air, questions Wainamoinen,
+    approves the spared birch, and kindles fire among the branches.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ukko
+  description: Benignant father of the heavens who lives high in Ether and sends,
+    joins, and hurls rain-clouds in response to Wainamoinen's request.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Ancient mother
+  description: Mother below the earth and ocean, called mother of the fields and forests,
+    addressed for fertile soil and sprouting seed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Spring-time cuckoo
+  description: Sweet-voiced bird that rests and sings on the spared birch and is asked
+    to call for forest growth and barley ripening.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:6
+  name_or_label: Youkahainen
+  description: Young and reckless Lapland minstrel in Northland who hears of Wainamoinen's
+    superior singing.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: forest-clearer and cultivator
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen makes an axe, clears the forest, sows barley, and later inspects
+    the crop.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: role:2
+  label: protector of bird refuge
+  assigned_to:
+  - fig:1
+  basis: He leaves the birch standing as a place for birds, the eagle, and the cuckoo.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: role:3
+  label: heavenly fire-kindler
+  assigned_to:
+  - fig:2
+  basis: The eagle descends from heaven, approves the birch, and kindles fire among
+    the branches.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: sky and rain giver
+  assigned_to:
+  - fig:3
+  basis: Ukko is addressed as father of the heavens and responds by sending and joining
+    clouds so rain falls.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: earth and field mother
+  assigned_to:
+  - fig:4
+  basis: The ancient mother is described as living below earth and ocean and as mother
+    of fields and forests, invoked for production and sprouting.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: renowned wisdom-singer
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen sings ancient wit and wisdom, heroic tales, and creation legends;
+    his reputation spreads widely.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: fertility-associated songbird
+  assigned_to:
+  - fig:5
+  basis: The cuckoo is asked to sing from the birch for the better growth of forests
+    and the ripening of barley.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: younger rival minstrel
+  assigned_to:
+  - fig:6
+  basis: Youkahainen is a young reckless minstrel who hears that Wainamoinen is the
+    better singer.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: spared sacred birch-tree
+  literal_form: Birch-tree left standing after the forest is cleared and burned; resting
+    and singing place for eagle, cuckoo, and other birds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: sym:2
+  label: fire among the branches
+  literal_form: Fire kindled by the eagle and fanned by north- and east-winds, burning
+    felled trees to ash.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: seven barley seed-grains
+  literal_form: Seven magic grains of barley carried in squirrel- and marten-skin
+    pouches and sown by Wainamoinen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: ash-enriched soil
+  literal_form: Soil enriched with ashes in which Wainamoinen sows the barley.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: rain-clouds and honey-like rain
+  literal_form: Clouds sent from several directions, joined and hurled earthward by
+    Ukko, dropping rain described as honey.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: spring-time cuckoo song
+  literal_form: Cuckoo calls at morning, evening, and noon from the birch for forest
+    growth, barley ripening, Northland's richness, and Kalevala's joy.
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Forest clearing and birch spared
+  summary: Wainamoinen makes an axe, clears the forest, and leaves the birch-tree
+    standing so birds may rest, nest, and sing there.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eagle's approval and forest fire
+  summary: The eagle descends from heaven, asks why the birch remains, approves its
+    preservation, and kindles fire; winds fan the flames and the other trees burn
+    to ash while the birch stands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sowing barley and invoking fertility powers
+  summary: Wainamoinen sows seven barley grains in ash-enriched soil and invokes the
+    ancient mother of fields and forests and Ukko of the heavens for growth and rain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Ukko sends rain and barley grows
+  summary: Ukko sends clouds from several directions, joins them, hurls a rain-cloud
+    earthward, and rain falls so the barley grows from germ to ears.
+  figure_refs:
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Eighth-day crop inspection and cuckoo blessing-song
+  summary: Wainamoinen inspects the maturing barley after seven days, then addresses
+    the cuckoo on the birch and asks it to sing for natural and communal prosperity.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Fame of Wainamoinen reaches Youkahainen
+  summary: The new rune presents Wainamoinen as a famous singer of wisdom, heroic,
+    and creation lore; the report of his superior skill reaches Youkahainen in Northland.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: culture hero establishes cultivation
+  taxonomy_refs:
+  - culture_hero
+  basis: Wainamoinen clears the forest, preserves a useful tree, sows barley in ash-enriched
+    soil, invokes fertility powers, and oversees the crop's growth.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents agricultural actions rather than an explicit universal
+    origin of agriculture.
+- id: motif:2
+  label: sacred tree spared as bird refuge
+  taxonomy_refs: []
+  basis: The birch alone is left standing, repeatedly called sacred or set apart,
+    and serves as a resting and singing place for the eagle, cuckoo, and other birds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: The passage does not explicitly make the birch a cosmic axis or world
+    tree.
+- id: motif:3
+  label: burning and ash prepare new fertility
+  taxonomy_refs: []
+  basis: The eagle's fire burns the forest to dust and ashes, and Wainamoinen then
+    sows barley in soil enriched with ashes where the crop flourishes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The renewal pattern is agricultural and literal; broader death-rebirth
+    interpretation would require comparison beyond this passage.
+- id: motif:4
+  label: earth mother and sky father invoked for crop growth
+  taxonomy_refs:
+  - mother_goddess
+  basis: Wainamoinen calls on the ancient mother of fields and forests for sprouting
+    and on Ukko, father of the heavens, for clouds and rain; Ukko answers with rain.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Only the earth-mother side directly matches the available mother-goddess
+    taxonomy; Ukko is present as sky father but not part of that taxonomy label.
+- id: motif:5
+  label: sacred song supports fertility and prosperity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The spring-time cuckoo is asked to sing at morning, evening, and noon for
+    forest growth, barley ripening, Northland's richness, and Kalevala's joy.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The seasonal aspect is implied by the spring cuckoo and crop ripening,
+    but the passage does not describe a full seasonal cycle.
+- id: motif:6
+  label: renowned wisdom-singer draws a rival
+  taxonomy_refs:
+  - wisdom
+  basis: Wainamoinen's songs of ancient wisdom and creation spread widely, and Youkahainen
+    hears that Wainamoinen is a better singer than himself and his teacher.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: This passage introduces the rivalry but does not yet narrate a contest
+    or confrontation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1832-1840, 1848-1852
+  quote_or_summary: Wainamoinen makes an axe, clears the forest, and leaves the birch-tree
+    standing for birds, the eagle, and the sacred cuckoo.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1841-1859
+  quote_or_summary: An eagle comes down from heaven, asks why the birch remains, and
+    praises Wainamoinen's judgment in leaving it as a resting-place for eagles and
+    other birds.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1860-1866
+  quote_or_summary: The bird of heaven kindles fire; north- and east-winds fan the
+    flames; trees burn to dust and ashes, while the birch remains standing.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1868-1881
+  quote_or_summary: Wainamoinen brings seven magic barley grains from animal-skin
+    pouches and sows them through his fingers in ash-enriched soil.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1882-1902
+  quote_or_summary: Wainamoinen invokes the ancient mother below earth and ocean,
+    mother of fields and forests, asking her to bring soil and seed-grains to production
+    and sprouting.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1903-1917
+  quote_or_summary: Wainamoinen invokes Ukko, father of the heavens, to send clouds
+    from east, northeast, west, northwest, and south so rain may fall and the barley
+    ripen.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1919-1939
+  quote_or_summary: Ukko sends clouds, joins and sews their edges, hurls a rain-cloud
+    earthward, and rain falls; barley grows from germ to blade and ears.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1941-1951
+  quote_or_summary: After seven days, on the eighth morning, Wainamoinen inspects
+    the barley and finds the crop growing with triple-knotted blades and six-sided
+    ears.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 1953-1973
+  quote_or_summary: A spring-time cuckoo rests on the birch and sings; Wainamoinen
+    tells it the birch was left as its home and asks it to call for forest growth,
+    barley ripening, Northland's richness, and Kalevala's joy.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 1978-2000
+  quote_or_summary: Wainamoinen lives in Wainola and Kalevala singing legends, ancient
+    wit and wisdom, heroic tales, and creation legends; knowledge of his song spreads
+    southward and through Northland.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 2002-2015
+  quote_or_summary: Youkahainen, a young reckless Lapland minstrel in Northland, hears
+    during a feast that Wainamoinen is a sweeter and better-skilled singer of legends.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are conservative candidates; broader comparative claims are omitted because the
+    passage itself does not support historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line locators are based on the supplied passage range and may require verification against the canonical markdown line numbering.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l1832-l2015
+  passage_sha256=4dfb2294c3cd6baa09427662756d982f53dcd269347c24acc2a1b55d144b5a06
+

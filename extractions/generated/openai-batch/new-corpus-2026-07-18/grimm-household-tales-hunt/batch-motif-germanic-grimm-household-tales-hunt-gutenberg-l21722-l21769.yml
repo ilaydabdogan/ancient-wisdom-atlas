@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l21722-l21769
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 21722-21769
+  start: '21722'
+  end: '21769'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A giant meets personified Death on a highway, fights him, and leaves him
+    defeated. A young man helps Death recover, and Death promises to send messengers
+    before taking him. Later the man suffers illnesses but resumes merry living; Death
+    comes, explains that the illnesses and Sleep were the promised messengers, and
+    the man yields and goes with Death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A giant travels on a great highway, and an unknown man suddenly appears before
+    him and orders him to halt.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unknown man identifies himself as Death and says that no one resists him
+    and that the giant must obey his commands.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The giant refuses, fights Death in a long violent battle, gains the upper
+    hand, strikes Death down with his fist, and leaves him weak by a stone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Death says that if he remains lying there, no one will die in the world and
+    the world will become too full of people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A strong and healthy young man comes along the road singing, sees Death half-fainting,
+    raises him up, gives him a strengthening draught from a flask, and waits for him
+    to recover.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Death reveals his identity to the youth and promises, out of gratitude, not
+    to fall on him unexpectedly but to send messengers before taking him away.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The youth accepts the promise as a gain, continues light-heartedly, and lives
+    without thought.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: Youth and health do not last; sicknesses and sorrows torment the man by day
+    and take away his rest by night.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The man believes he will not die because Death must send messengers first,
+    and after he feels well again he resumes merry living.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Death taps the man on the shoulder, stands behind him, and says the hour of
+    his departure from the world has come.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The man accuses Death of breaking his promise because he has seen no messengers.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Death identifies fever, dizziness, gout, ringing ears, toothache, darkness
+    before the eyes, and his brother Sleep as messengers or reminders already sent.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The man cannot answer, yields to his fate, and goes away with Death.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: giant
+  description: A giant travelling on a great highway who refuses Death's command,
+    fights him, and overcomes him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Death
+  description: An unknown man who identifies himself as Death, claims universal authority,
+    is defeated by the giant, is helped by the youth, promises warning messengers,
+    and later takes the man away.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: young man / youth / man
+  description: A strong and healthy young man who compassionately helps Death, receives
+    a promise of advance warning, later suffers illness, disputes Death's arrival,
+    and finally goes with Death.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Sleep
+  description: Called Death's own brother and named as a nightly reminder of Death.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: challenger who defeats Death
+  assigned_to:
+  - fig:1
+  basis: The giant refuses Death's command, struggles with him, and strikes him down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: personified Death and universal commander
+  assigned_to:
+  - fig:2
+  basis: Death identifies himself, says no one resists him, and commands obedience.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: temporarily defeated power whose absence halts dying
+  assigned_to:
+  - fig:2
+  basis: Death lies conquered and says that if he stays down no one will die in the
+    world.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: compassionate helper of Death
+  assigned_to:
+  - fig:3
+  basis: The youth raises the half-fainting Death, gives him a strengthening draught,
+    and waits for his recovery.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: grateful promisor and final summoner
+  assigned_to:
+  - fig:2
+  basis: Death promises to send messengers before taking the youth away and later
+    comes to announce the hour of departure.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: warned mortal who misunderstands the warnings
+  assigned_to:
+  - fig:3
+  basis: The man expects visible messengers, fails to recognize illnesses and sleep
+    as warnings, and yields when Death explains.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: brother of Death and nightly reminder
+  assigned_to:
+  - fig:4
+  basis: Death calls Sleep his own brother and says Sleep reminded the man every night
+    of him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: great highway / road
+  literal_form: The highway or road on which the giant travels and the young man later
+    comes along.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: stone beside defeated Death
+  literal_form: A stone by which Death drops after the giant strikes him down.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: flask and strengthening draught
+  literal_form: The youth's flask containing a strengthening draught poured out for
+    Death.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Death's messengers
+  literal_form: Fever, dizziness, gout, ringing ears, toothache, darkness before the
+    eyes, and related sicknesses and sorrows named as messengers before Death's arrival.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: Sleep as brother of Death
+  literal_form: Sleep, called Death's own brother, reminding the man nightly of Death.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: tap on the shoulder
+  literal_form: Death taps the man on the shoulder before announcing that his hour
+    has come.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Death blocks the giant on the highway
+  summary: On a great highway, Death appears before a travelling giant, orders him
+    to halt, and declares that no one resists him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The giant defeats Death
+  summary: The giant refuses Death's command, fights him, strikes him down by a stone,
+    and leaves Death too weak to rise; Death worries that no one will die if he remains
+    there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The young man helps Death and receives a promise
+  summary: A strong young man helps the half-fainting Death recover with a draught
+    from his flask. Death reveals himself and promises to send messengers before taking
+    the youth away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The youth experiences illnesses but resumes merry living
+  summary: The man lives without thought, is afflicted by sicknesses and sorrows,
+    believes Death's promised messengers have not yet come, and returns to merry living
+    when well.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Death summons the man and identifies the messengers
+  summary: Death taps the man, announces his departure from the world, and answers
+    the man's protest by naming bodily afflictions and Sleep as the promised messengers.
+    The man yields and goes with Death.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Combat with Death and temporary defeat of mortality
+  taxonomy_refs: []
+  basis: The giant battles Death, strikes him down, and Death says that while he lies
+    there no one in the world will die.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents a temporary incapacitation of Death, not a resurrection
+    or rebirth episode.
+- id: motif:2
+  label: Aid to Death rewarded by promised forewarning
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The young man compassionately restores Death with a strengthening draught,
+    and Death promises out of gratitude to send messengers before taking him away.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the exchange is explicit, but the passage
+    does not call it sacred.
+- id: motif:3
+  label: Illnesses and Sleep as messengers of Death
+  taxonomy_refs:
+  - wisdom
+  basis: Death explains that fever, dizziness, gout, sensory afflictions, and Sleep
+    had already served as his warning messengers.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The wisdom association is interpretive and broad; literally the passage
+    names the symptoms and Sleep as messengers or reminders.
+- id: motif:4
+  label: Final departure led by Death
+  taxonomy_refs:
+  - departure
+  basis: Death announces that the hour of departure from the world has come, and the
+    man yields and goes away with Death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is based on the passage's wording of departure
+    from the world; no extended journey is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21722-21727
+  quote_or_summary: A giant travelling on a highway is stopped by an unknown man,
+    who identifies himself as Death and says no one resists him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 21727-21734
+  quote_or_summary: The giant fights Death, strikes him down by a stone, and leaves
+    him weak; Death says that if he remains there, no one will die and the world will
+    become overcrowded.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 21735-21745
+  quote_or_summary: A strong young man helps the half-fainting Death with a strengthening
+    draught from his flask; Death reveals himself and promises to send messengers
+    before taking him away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 21746-21753
+  quote_or_summary: The youth lives light-heartedly and without thought; later sicknesses
+    and sorrows come, but he thinks he will not die before Death's messengers arrive
+    and resumes merriment when well.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 21753-21756
+  quote_or_summary: Death taps the man on the shoulder and says, “Follow me, the hour
+    of thy departure from this world has come.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt from public domain text.
+- id: ev:6
+  type: summary
+  locator: 21756-21766
+  quote_or_summary: The man protests that no messengers came; Death names fever, dizziness,
+    gout, ringing ears, toothache, darkened sight, and his brother Sleep as reminders,
+    after which the man yields and goes with Death.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear. Motif-family taxonomy links are cautious because
+    the provided taxonomy does not include exact labels for personified Death, mortality
+    suspended, or death's warning messengers. No comparison claims are made because
+    the passage itself does not compare this tale to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The following title, “178 Master Pfriem (Master Cobbler’s Awl),” appears after the tale passage and was not treated as evidence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l21722-l21769
+  passage_sha256=accd392bb652c9c54c6cbc02f28b073da332b4c0f0fbc723a310ee41d4b02467
+

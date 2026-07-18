@@ -1,0 +1,490 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l3466-l3570
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: THE LEGEND OF KHNEMU AND A SEVEN YEARS' FAMINE / THE LEGEND OF THE WANDERINGS
+    OF ISIS / CHAPTER VIII / HISTORICAL LITERATURE; lines 3466-3570
+  start: '3466'
+  end: '3570'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Egyptian historical literature, explaining the scarcity
+    of native historical writing in the modern sense, the role of royal and scribal
+    records, the ideological tendency to glorify individual kings, and the preservation
+    or destruction of records. It then gives sample annalistic entries from the Palermo
+    Stone for the reign of Seneferu, listing shipbuilding, a raid, captives and livestock,
+    construction, imported cedar ships, and Nile-height measurements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter frames the Egyptian historical period as the period ruled by kings,
+    each called NESU-BATI, translated as “King of the South, King of the North.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that no native Egyptian work is known that can be regarded
+    as a history of Egypt in the modern sense, and that Manetho’s history survives
+    only through a king list transmitted in later authors.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Principal acts and wars of kings are said to have been recorded by court scribes
+    or official recorders and preserved in temple libraries called the House of Books.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Later scribes are described as sometimes uncertain about the sequence, spelling,
+    and reading of early royal names.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says each king wished to be thought as great as possible and that
+    court scribes avoided praising earlier kings as greater than the reigning ruler.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Local chiefs who seized the throne are said not to have preserved the deeds
+    of predecessors, and foreign invaders are said to have destroyed towns and monuments
+    recording overthrown kings.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage concludes that Egyptian history can only be partially constructed
+    because many sources were written to glorify individual kings rather than to describe
+    dynasties or general historical development.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The earliest known annals are said to be preserved on the Palermo Stone, recording
+    principal events from the Predynastic Period to the middle of the fifth dynasty.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A Palermo Stone entry for Seneferu lists shipbuilding, a raid in the Land
+    of the Blacks, the bringing in of prisoners and livestock, construction of a wall
+    named House of Seneferu, cedar ships, and a measured Nile height.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Another Seneferu annal entry includes an unclear cattle-related line, construction
+    of ships, a seventh numbering, and another measured Nile height.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Egyptian kings / NESU-BATI
+  description: Kings ruling Egypt, each called “King of the South, King of the North,”
+    and described as rulers whose deeds were often glorified in official sources.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Manetho
+  description: A skilled scribe and learned man in the reign of Ptolemy II Philadelphus
+    who undertook to write a history of Egypt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Court scribes / official recorders
+  description: Scribes or official remembrancers who recorded principal acts and wars
+    of kings and whose texts contributed to royal historical records.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Learned scribes of the later period
+  description: Scribes who compiled king lists but were not always certain about the
+    sequence, spelling, or reading of early royal names.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Local chief who became king of All Egypt
+  description: A local chief who seized the throne and did not concern himself with
+    preserving records of the previous king’s deeds.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Foreign foes and their followers
+  description: Invaders and followers who conquered Egypt, raided towns, destroyed
+    what could be removed, and smashed monuments of overthrown kings.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Seneferu
+  description: A king named in Palermo Stone annal entries that list shipbuilding,
+    a raid, construction, imported cedar ships, counting, and Nile-height measurements.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: King
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:7
+  basis: The passage identifies Egyptian rulers as kings, describes a local chief
+    becoming king of All Egypt, and presents annal entries under the reign of Seneferu.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:2
+  label: Beneficiary of royal glorification
+  assigned_to:
+  - fig:1
+  basis: The passage states that sources were written to glorify individual kings
+    and that each king wished to be considered great.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Historian-scribe
+  assigned_to:
+  - fig:2
+  basis: Manetho is described as a skilled scribe and learned man who undertook to
+    write a history of Egypt.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Court recorder
+  assigned_to:
+  - fig:3
+  basis: Court scribes or official recorders are said to have recorded the principal
+    acts and wars of kings.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Compiler of king lists
+  assigned_to:
+  - fig:4
+  basis: Later learned scribes are linked to the compilation of king lists preserved
+    on several monuments and manuscripts.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Non-preserver of predecessor’s records
+  assigned_to:
+  - fig:5
+  basis: The passage says a local chief who became king did not concern himself with
+    preserving records of the king whose throne he seized.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Destroyer of monuments
+  assigned_to:
+  - fig:6
+  basis: Foreign foes and their followers are described as burning, destroying, and
+    smashing monuments of overthrown kings.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: Subject of annal entries
+  assigned_to:
+  - fig:7
+  basis: The quoted annal entries are introduced as entries for the reign of Seneferu.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Royal title
+  literal_form: NESU-BATI, “King of the South, King of the North”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: House of Books
+  literal_form: Temple library where royal records were preserved
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Palermo Stone
+  literal_form: Stone preserving the earliest known annals
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: Ships and royal boats
+  literal_form: Tuataua ships, royal boats, and cedar or mer-wood ships listed in
+    annal entries
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: Wall of the South and North
+  literal_form: A wall called House of Seneferu
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Nile height
+  literal_form: Recorded Nile levels measured in cubits, fingers, and a hand
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: Royal monuments and inscriptions
+  literal_form: Monuments and inscriptions recording royal prowess or preserving official
+    records
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Explanation of Egyptian historical records
+  summary: The passage explains that Egypt lacks a native history in the modern sense,
+    mentions Manetho’s lost history and surviving king list, and describes court scribes
+    recording royal acts and wars for preservation in temple libraries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Royal glorification and loss of records
+  summary: The passage describes a court culture that glorified individual kings,
+    discouraged praise of predecessors, and led to partial historical preservation
+    through neglect, conquest, and monument destruction.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: First Palermo Stone entry for Seneferu
+  summary: A Seneferu annal year lists the building of ships and royal boats, a raid
+    in the Sudan, prisoners and livestock brought in, the building of a wall named
+    House of Seneferu, cedar ships, and a Nile-height measurement.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Second Palermo Stone entry for Seneferu
+  summary: Another Seneferu annal year lists an unclear cattle-related entry, construction
+    of ships, a seventh numbering, and a Nile-height measurement.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Royal self-glorification in official record
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage states that each king wished to be seen as great and that surviving
+    sources were written to glorify individual kings rather than describe broad history.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is an ideological and historiographical pattern rather than a mythic
+    episode; the taxonomy link to royal legitimacy is plausible but should be reviewed.
+- id: motif:2
+  label: King as builder and conqueror in annals
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Seneferu’s annal entries present royal actions as shipbuilding, raiding,
+    taking captives and livestock, building a wall, importing cedar ships, and overseeing
+    numbered events.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The annal entries list events without explicit interpretation; the motif
+    label summarizes an official-record pattern.
+- id: motif:3
+  label: Preservation and erasure of royal memory
+  taxonomy_refs: []
+  basis: The passage contrasts scribal preservation of royal records in libraries
+    and monuments with neglect by usurping chiefs and destruction by foreign invaders.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No specific taxonomy reference is assigned; this is a documentary-history
+    pattern rather than a mythological motif.
+- id: motif:4
+  label: Nile measurement as annual marker
+  taxonomy_refs: []
+  basis: The Palermo Stone entries include Nile-height measurements alongside yearly
+    royal events.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The passage records water levels administratively; it does not provide
+    a mythic or symbolic interpretation of the Nile measurements.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3470-3488
+  quote_or_summary: The passage defines the historical period by kings called NESU-BATI,
+    notes uncertainty in total duration and number of kings, says no native history
+    in the modern sense is known, and describes Manetho’s history and surviving king
+    list.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3489-3501
+  quote_or_summary: Court scribes or official recorders recorded royal acts and wars;
+    records were kept in the House of Books; later scribes compiled lists on the Palermo
+    Stone, Turin Papyrus, Abydos tablets, and Karnak Tablet, though they were sometimes
+    uncertain about early royal names.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3502-3511
+  quote_or_summary: The passage explains that each king wanted to be thought great,
+    courtiers promoted this view, and scribes did not praise earlier kings such as
+    Amenemhat III, Usertsen III, or Thothmes III as the greatest kings of Egypt.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3512-3517
+  quote_or_summary: A local chief who became king did not preserve the records of
+    the predecessor whose throne he seized; foreign invaders and followers raided
+    towns, destroyed property, and smashed monuments of overthrown kings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3518-3529
+  quote_or_summary: Egyptian history can only be partially constructed; sources were
+    written to glorify individual kings rather than describe dynasties or national
+    development, and the chapter will provide extracts from annals, building inscriptions,
+    conquest narratives, and triumph inscriptions.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3531-3536
+  quote_or_summary: The earliest known annals are on the Palermo Stone, preserving
+    principal events from the Predynastic Period to the middle of the fifth dynasty.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3538-3552
+  quote_or_summary: Under the reign of Seneferu, an annal entry lists building Tuataua
+    ships and royal boats, a raid in the Land of the Blacks, seven thousand prisoners,
+    twenty thousand livestock, construction of the Wall of the South and North called
+    House of Seneferu, forty cedar ships, and Nile height of two cubits and two fingers.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3554-3563
+  quote_or_summary: Another Seneferu annal entry includes the line “thirty-five ...
+    122 cattle,” construction of one cedar Tuataua ship and two mer-wood ships, the
+    seventh numbering, and Nile height of five cubits, one hand, and one finger.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt and summary from public domain
+    text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The historical and annalistic content is explicit. Motif assignments are
+    cautious because the passage is historiographical and administrative rather than
+    a myth narrative. No comparison claims were made because the passage itself does
+    not support external comparative assertions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic narrative from the preceding legend headings appears in the supplied passage; extraction is limited to the historical-literature discussion and Palermo Stone annal examples.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l3466-l3570
+  passage_sha256=59979738ab1e437b7121d524c3c0079c9788488d8b1731a3c9c84ced4fb822b3
+

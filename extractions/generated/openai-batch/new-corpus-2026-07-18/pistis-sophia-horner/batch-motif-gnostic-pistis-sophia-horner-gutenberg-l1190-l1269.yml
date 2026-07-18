@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l1190-l1269
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 1190-1269
+  start: '1190'
+  end: '1269'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction argues for the priority of the First Document, describing
+    it as an orderly account of a heavenly hierarchy and its places, then summarizes
+    the Pistis Sophia episode as an allegory of transgression, repentance, deliverance
+    from Chaos, loss and restoration of light, blocked return without divine aid,
+    and the condemnation of magic and astrology as unlawful knowledge from sinning
+    angels.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the earliest or First Document gives an orderly account of
+    the heavenly hierarchy and its “Places” and serves as a key to later documents.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the documents contain information about different universes
+    or worlds and their inhabitants, and about the Godhead and the relation of the
+    Saviour to the Supreme Being.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the First Document devotes nearly all its space to the episode
+    of Pistis Sophia and presents that episode as concerning transgression of Divine
+    Law and repentance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In one Penitence, Pistis Sophia confesses to the highest Power she knew that
+    she offended the “Law of the Light” and attributes deliverance from Chaos to repentance.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says there are hints that the fall and repentance occur within
+    “the world of humanity.”
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says Sophia’s afflictions are chiefly loss of light and inability
+    to return without Divine aid to the Place she had abandoned.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The passage says magic and astrology are condemned as unlawful knowledge brought
+    to humans by sinning angels.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The passage explicitly compares the Pistis Sophia allegory with Christian
+    in Pilgrim’s Progress leaving the city of Mansoul and striving upward to the Heavenly
+    City.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pistis Sophia
+  description: Central figure of the episode summarized in the First Document; she
+    confesses offending the Law of the Light, repents, is delivered from Chaos, loses
+    light, and cannot return unaided to the Place she abandoned.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Highest Power
+  description: The highest Power known to Pistis Sophia and addressed in one of her
+    Penitences.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Sinning angels
+  description: Angelic beings described as bringing magic and astrology to humans
+    as unlawful knowledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Christian
+  description: Comparative allegorical figure from Pilgrim’s Progress who leaves the
+    city of Mansoul to strive upward to the Heavenly City.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Saviour
+  description: A divine figure whose relation to the Supreme Being is said to be treated
+    in the First Document’s theological speculations.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Supreme Being
+  description: A divine figure named in relation to the Saviour within the passage’s
+    description of theological speculations.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Penitent transgressor
+  assigned_to:
+  - fig:1
+  basis: Pistis Sophia confesses offending the Law of the Light and attributes deliverance
+    to repentance.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: Afflicted return-seeker
+  assigned_to:
+  - fig:1
+  basis: Sophia’s afflictions are described as loss of light and inability to return
+    without Divine aid to the Place she abandoned.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: Divine addressee
+  assigned_to:
+  - fig:2
+  basis: Pistis Sophia addresses one Penitence to the highest Power she knew.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Bringers of unlawful knowledge
+  assigned_to:
+  - fig:3
+  basis: The passage says sinning angels brought magic and astrology to humans as
+    unlawful knowledge.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: Comparative allegorical pilgrim
+  assigned_to:
+  - fig:4
+  basis: Christian is cited as a parallel figure who leaves Mansoul and strives upward
+    to the Heavenly City.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Related divine figures
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage says the First Document treats the relation of the Saviour to
+    the Supreme Being.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Heavenly hierarchy and Places
+  literal_form: An ordered heavenly hierarchy with named “Places.”
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Light and Law of the Light
+  literal_form: The “Law of the Light” offended by Pistis Sophia, and the light whose
+    loss constitutes her affliction.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: Chaos
+  literal_form: Chaos as the condition or realm from which Pistis Sophia is delivered.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Abandoned Place
+  literal_form: The Place that Pistis Sophia had wilfully abandoned and to which she
+    cannot return without Divine aid.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - return
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Unlawful knowledge
+  literal_form: Magic and astrology condemned as unlawful knowledge brought by sinning
+    angels.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - forbidden_knowledge
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: Mansoul and Heavenly City
+  literal_form: The city of Mansoul and the Heavenly City in the Pilgrim’s Progress
+    comparison.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cosmic ordering of heavenly places
+  summary: The First Document is described as presenting an orderly heavenly hierarchy
+    and its Places, along with worlds, inhabitants, and theological relations.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pistis Sophia’s confession and deliverance
+  summary: Pistis Sophia confesses that she offended the Law of the Light, repents,
+    and is said to be delivered from Chaos.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Loss of light and blocked return
+  summary: Sophia’s afflictions are summarized as loss of light and inability to return
+    to the Place she abandoned without Divine aid.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Condemnation of magic and astrology
+  summary: Magic and astrology are condemned as unlawful knowledge brought to humans
+    by sinning angels.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Allegorical pilgrimage comparison
+  summary: The passage compares Pistis Sophia’s allegorical pattern with Christian
+    leaving Mansoul and striving upward to the Heavenly City.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Cosmic hierarchy of heavenly places
+  taxonomy_refs: []
+  basis: The passage says the earliest document gives an orderly account of the heavenly
+    hierarchy and its Places and treats different universes or worlds and their inhabitants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is an introduction summarizing the document rather than the
+    cosmological passage itself.
+- id: motif:2
+  label: Transgression of divine law followed by repentance and deliverance
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage frames the Pistis Sophia episode as showing the penalty for transgressing
+    Divine Law and the necessity of repentance; Sophia confesses offending the Law
+    of the Light and connects deliverance from Chaos with repentance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is reported through the translator’s introductory interpretation.
+- id: motif:3
+  label: Loss of light and return requiring divine aid
+  taxonomy_refs:
+  - ascent
+  - return
+  basis: Sophia’s afflictions are described as loss of light and inability to return
+    without Divine aid to the Place she abandoned.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage names the Place but does not describe its full mythic geography
+    in this excerpt.
+- id: motif:4
+  label: Deliverance from Chaos
+  taxonomy_refs:
+  - chaos
+  basis: Pistis Sophia attributes her deliverance from Chaos to her repentance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Chaos is named but not elaborated in the selected lines.
+- id: motif:5
+  label: Unlawful or forbidden knowledge from fallen beings
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Magic and astrology are described as unlawful knowledge brought to humans
+    by sinning angels.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage briefly states the condemnation without narrating the angels’
+    act in detail.
+- id: motif:6
+  label: Allegorical upward pilgrimage toward a heavenly destination
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The passage draws a close parallel to Christian in Pilgrim’s Progress leaving
+    Mansoul and striving upward to the Heavenly City.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This motif is introduced through comparison, not as a direct quotation
+    from the Pistis Sophia narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between Pistis Sophia’s
+    fall-repentance-return pattern and the Pilgrim’s Progress allegory of Christian
+    leaving Mansoul and striving upward to the Heavenly City.
+  claim_level: same_function
+  target: Pilgrim’s Progress / Christian’s allegorical journey
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made at a broad allegorical level and the passage
+    itself notes differences of time and place.
+- id: claim:2
+  claim: The passage supports a cautious historical-contact or literary-acquaintance
+    claim for later Pistis Sophia documents with the Fourth Gospel, while distinguishing
+    the First Document as lacking clear use of that Gospel.
+  claim_level: historical_contact
+  target: Fourth Gospel / Gospel of John tradition
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs:
+  - ev:9
+  confidence: medium
+  limitations: This is a textual-critical claim from the introduction rather than
+    a motif comparison; the same passage also argues that the First Document did not
+    know the Fourth Gospel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1190-1202
+  quote_or_summary: The First Document is described as having a preface and as giving
+    an orderly, coherent account of the heavenly hierarchy and its “Places,” functioning
+    as a key and mother document for the rest.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 1202-1208
+  quote_or_summary: The passage says the documents supply information about different
+    universes or worlds and their inhabitants, and that the First Document treats
+    the Constitution of the Godhead and relation of the Saviour to the Supreme Being.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 1241-1247
+  quote_or_summary: The First Document is said to devote nearly all its space to the
+    episode of Pistis Sophia, interpreted as an allegory of the penalty for transgressing
+    Divine Law and the necessity of repentance.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 1247-1252
+  quote_or_summary: Pistis Sophia confesses that she offended “the Law of the Light”
+    and attributes “her deliverance from Chaos” to repentance.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 1252-1257
+  quote_or_summary: The passage says there are hints that Sophia’s fall and repentance
+    occur in “the world of humanity,” and then offers an allegorical reading involving
+    the heathen world and Christian light.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 1257-1261
+  quote_or_summary: The passage says there is a close parallel to Christian in Pilgrim’s
+    Progress, who leaves the city of Mansoul to strive upward to the Heavenly City.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 1261-1266
+  quote_or_summary: The passage says hell-terrors are barely treated and Sophia’s
+    afflictions are limited to loss of light and inability to return without Divine
+    aid to the Place she had wilfully abandoned.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 1267-1269
+  quote_or_summary: Magic and astrology are said to be condemned as unlawful knowledge
+    brought to humans by sinning angels.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: 1213-1239
+  quote_or_summary: The passage argues that the First Document does not quote the
+    Fourth Gospel, that part of the Second may echo a saying from John, and that the
+    Fourth Document unmistakably includes the Samaritan woman conversation and spear-thrust
+    at the Crucifixion.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The selected passage is a scholarly introduction summarizing and interpreting
+    the text, not a continuous mythic narrative. Motif extraction is therefore based
+    on the passage’s own summary statements and should be reviewed against the primary
+    narrative sections.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy refs were limited to provided motif-family or symbol labels when directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l1190-l1269
+  passage_sha256=2f0bb1f2e8711639c2335dd4fd8bdce52d3b72d0400141b541b5f88d3d067a2c
+

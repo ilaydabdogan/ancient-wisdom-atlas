@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l897-l977
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE CENTRAL ESKIMO. / INTRODUCTION. / AUTHORITIES QUOTED. / ORTHOGRAPHY.;
+    lines 897-977
+  start: '897'
+  end: '977'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A geographic and environmental description of currents, tides, pack ice,
+    land floes, open water, and regional differences in sea-ice formation across parts
+    of the Central Eskimo/Inuit region. The passage notes how floe distribution affects
+    native travel and helps explain tribal distribution and migrations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Strong currents in Lancaster Sound and Smith Sound generally prevent ice from
+    forming under steep cliffs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pack ice in the sounds may stop and freeze into rough floes, but the passage
+    states that a smooth plain is never formed there.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The largest land floe described extends from Bylot Island to Cape Dyer and
+    is favored by shoals and grounded icebergs that stop large drifting floes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A strong southerly current through Davis Strait breaks up ice along the shore
+    from Cape Dyer to Cape Walsingham, while some bays remain covered by ice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Near Cape Mercy, tides caused by Cumberland Sound prevent ice from consolidating
+    at the gulf entrance, so the floe does not extend beyond the narrow entrance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The southwestern shore of Cumberland Sound is described as always washed by
+    water because a strong current sets along the coast and often breaks up bay ice.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Where the floe runs from point to point, natives are compelled to cross land
+    in order to reach the floe of a neighboring bay.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A dangerous current between Resolution Island and the mainland forms whirlpools
+    that menace ships attempting the passage.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Hudson Strait is described as never freezing over; it is filled for much of
+    the year with pack ice that does not consolidate into a continuous floe.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Only certain bays and fjords along Hudson Strait are covered with floes important
+    to the natives.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage contrasts regions with connected or extensive land ice, such as
+    Fury and Hecla Strait and parts of Fox Basin, with regions where land ice is scarce
+    or drifting ice rarely consolidates, such as parts of Hudson Bay and the Gulf
+    of Boothia.
+  category: setting
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:12
+  text: The passage states that the western and eastern parts of the country have
+    extensive floes, while the Hudson Bay region and Gulf of Boothia are almost devoid
+    of them.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The geographic sketch is said to help explain the distribution and migrations
+    of the Eskimo tribes inhabiting the country.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: natives / Eskimo tribes
+  description: Human inhabitants mentioned as crossing land to reach neighboring bay
+    floes and as tribes whose distribution and migrations are clarified by the geographic
+    sketch.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+roles:
+- id: role:1
+  label: travelers constrained by floe distribution
+  assigned_to:
+  - fig:1
+  basis: The passage says natives are compelled to pass across land to reach a neighboring
+    bay floe when the floe runs from point to point.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: inhabitants whose distribution and migrations are linked to geography
+  assigned_to:
+  - fig:1
+  basis: The passage states that the ice and geography sketch helps one understand
+    the geographical distribution and migrations of the Eskimo tribes inhabiting the
+    region.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: water, currents, tides, and whirlpools
+  literal_form: strong currents, tides, open water, water-washed shores, and whirlpools
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: sea ice and land floes
+  literal_form: pack ice, rough floes, land floes, sheets of ice, and borders of land
+    ice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Regional survey of ice formation and disruption
+  summary: The passage surveys how currents, tides, shoals, islands, and bays affect
+    the formation, breakup, or absence of pack ice and land floes across named Arctic
+    regions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:2
+  label: Travel and migration implications of floe geography
+  summary: The passage links floe distribution to human movement, including natives
+    crossing land to reach neighboring bay floes and a broader claim that the sketch
+    explains Eskimo tribal distribution and migrations.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: sea-ice geography shaping travel and migration
+  taxonomy_refs: []
+  basis: The passage explicitly links floe distribution and regional ice conditions
+    to native travel and to the geographical distribution and migrations of Eskimo
+    tribes.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  confidence: medium
+  cautions: This is an ethnographic-geographic pattern, not a mythic narrative motif
+    in the passage. No available motif-family taxonomy reference is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 897-907
+  quote_or_summary: Strong currents in Lancaster Sound and Smith Sound prevent ice
+    under cliffs; pack ice may freeze into rough floes; the largest land floe extends
+    from Bylot Island to Cape Dyer and is favored by shoals and grounded icebergs.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 909-916
+  quote_or_summary: A strong southerly Davis Strait current breaks up shore ice from
+    Cape Dyer to Cape Walsingham, while Exeter Sound and the bay between Cape Mickleham
+    and Cape Mercy retain larger or extensive ice coverage.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 918-926
+  quote_or_summary: Tides near Cape Mercy and Cumberland Sound prevent ice consolidation
+    at the gulf entrance; the floe remains within the narrow entrance, and open water
+    may extend between named points.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 928-931
+  quote_or_summary: The southwestern shore of Cumberland Sound is always washed by
+    water because a strong coastwise current often breaks up ice in Field and Grinnell
+    Bay.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 933-944
+  quote_or_summary: The floe seldom reaches Lady Franklin and Monumental Islands and
+    often runs from point to point, compelling natives to cross land to reach a neighboring
+    bay floe; a current near Resolution Island creates whirlpools dangerous to ships.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 946-953
+  quote_or_summary: Hudson Strait never freezes over and is usually filled with unconsolidated
+    pack ice; only certain bays and fjords form floes important to the natives.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 955-960
+  quote_or_summary: Probably no land ice forms between King Cape and northern Fox
+    Basin; Fury and Hecla Strait and its eastern outlet are reported to be covered
+    by land ice connected with Fox Basin bay floes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 962-966
+  quote_or_summary: In Hudson Bay, few places have land ice extending far from shore;
+    Frozen Strait and Rowe’s Welcome remain open due to swift tides, while Repulse
+    Bay, Wager Bay, and Chesterfield Inlet form extensive floes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 968-973
+  quote_or_summary: The Gulf of Boothia’s drifting ice does not consolidate, Committee
+    Bay rarely has smooth land floe, and sheltered areas near Pelly Bay, Boothia,
+    Back River, and King William Land freeze over to varying extents.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: lines 975-977
+  quote_or_summary: The passage contrasts extensive floes in the far western and eastern
+    regions with their scarcity in Hudson Bay and the Gulf of Boothia, and says the
+    sketch helps explain Eskimo tribal distribution and migrations.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal geographic extraction is high confidence. Motif confidence is low
+    because the passage is descriptive geography rather than mythic narrative; one
+    environmental movement pattern is included only because the passage explicitly
+    links ice conditions to travel and migration. No comparison claims are supported
+    by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic figures, plot events, or explicit comparative mythology claims appear in this passage. Symbols are recorded as literal environmental elements, not as interpreted symbolic meanings.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l897-l977
+  passage_sha256=d652a8eca9263ad0f56eda8ef3f566afd0c44d57dd4ca53e3dbfe6b15c7ca900
+

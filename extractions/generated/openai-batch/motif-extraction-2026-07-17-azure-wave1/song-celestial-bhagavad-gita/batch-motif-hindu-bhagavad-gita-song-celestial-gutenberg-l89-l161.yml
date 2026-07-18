@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.hindu-bhagavad-gita-song-celestial-gutenberg-l89-l161
+source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+passage_locator:
+  label: The Song Celestial; Or, Bhagavad-Gita / TO INDIA / EDWIN ARNOLD / PREFACE;
+    lines 89-161
+  start: '89'
+  end: '161'
+  translation: The Song Celestial; Or, Bhagavad-Gita
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The dedication and preface characterize the Bhagavad-Gita as a wisdom-bearing
+    dialogue between Krishna and Prince Arjun/Arjuna. The preface identifies it as
+    an episode in the Mahabharata, describes its authority and philosophical content,
+    notes reported parallels with New Testament teachings and uncertainty over its
+    date, and summarizes the frame scene: Arjuna speaks with Krishna, the Supreme
+    Deity disguised as a charioteer, in a war-chariot between the armies of the Kauravas
+    and Pandavas before battle.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dedication describes a speech or discourse held between Krishna and Prince
+    Arjun and says the translator has written its wisdom and hidden mystery for England.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preface identifies the poem as an episode of the Mahabharata in the sixth,
+    or Bhishma, Parva.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The preface says the poem has immense popularity and authority in India and
+    is reckoned as one of the Five Jewels of Devanagiri literature.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The preface says the poem unfolds a philosophical system blending doctrines
+    associated with Kapila, Patanjali, and the Vedas.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The preface reports close, sometimes verbal, parallelism between the poem's
+    teachings and those of the New Testament and says this produced controversy about
+    borrowing.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The preface says the poem's date cannot be positively settled, gives competing
+    indications about a pre-Christian or post-Christian date, and suggests possible
+    echoes of Galilee and the Syrian incarnation.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The scene is placed in level country between the Jumna and Sarsooti rivers,
+    identified parenthetically with Kurnul and Jheend.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The plot is summarized as a dialogue between Prince Arjuna, brother of King
+    Yudhisthira, and Krishna, the Supreme Deity in the disguise of a charioteer.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A great battle is impending between the armies of the Kauravas and Pandavas,
+    and the conversation takes place in a war-chariot drawn up between the opposing
+    hosts.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Krishna
+  description: The Supreme Deity, wearing the disguise of a charioteer, who dialogues
+    with Prince Arjuna.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Prince Arjun / Arjuna
+  description: A prince, brother of King Yudhisthira, who dialogues with Krishna.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: King Yudhisthira
+  description: A king named as the brother of Prince Arjuna.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Kauravas
+  description: One of the two armies or hosts in the impending battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Pandavas
+  description: One of the two armies or hosts in the impending battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Supreme Deity
+  assigned_to:
+  - fig:1
+  basis: The preface directly identifies Krishna as the Supreme Deity.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: Disguised charioteer
+  assigned_to:
+  - fig:1
+  basis: The preface says Krishna wears the disguise of a charioteer.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Dialogue participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The dedication and preface describe Krishna and Arjuna as discoursing or
+    holding a dialogue with each other.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: Prince
+  assigned_to:
+  - fig:2
+  basis: The passage calls Arjuna a prince.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: Royal brother
+  assigned_to:
+  - fig:3
+  basis: Yudhisthira is named as king and as Arjuna's brother.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Opposing battle host
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The preface places the armies of the Kauravas and Pandavas as opposing hosts
+    before an impending battle.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: War-chariot
+  literal_form: A war-chariot drawn up between the opposing hosts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Charioteer disguise
+  literal_form: The Supreme Deity wearing the disguise of a charioteer.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: River setting
+  literal_form: The level country between the Jumna and Sarsooti rivers.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wisdom speech transmitted
+  summary: The dedication presents the work as a wisdom-bearing, hidden-mystery speech
+    or discourse between Krishna and Prince Arjun that has been written for English
+    readers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dialogue before the impending battle
+  summary: In the country between two rivers, Prince Arjuna speaks with Krishna, the
+    Supreme Deity disguised as a charioteer, while their war-chariot stands between
+    the Kaurava and Pandava hosts before battle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly frames the work as wisdom, hidden mystery, philosophical
+    teaching, and a dialogue between Krishna and Arjuna.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage is a dedication and preface summarizing the dialogue, not
+    the full teaching itself.
+- id: motif:2
+  label: Divine figure in concealed charioteer role
+  taxonomy_refs: []
+  basis: Krishna is identified as the Supreme Deity while also said to wear the disguise
+    of a charioteer.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage describes disguise, not an explicit bodily transformation.
+- id: motif:3
+  label: Instructional dialogue in a battle limen
+  taxonomy_refs: []
+  basis: The preface places the conversation in a war-chariot between opposing hosts
+    immediately before a great battle.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage summarizes the setting but does not provide the full dramatic
+    sequence of the battle or dialogue.
+comparison_claims:
+- id: claim:1
+  claim: The preface reports close, sometimes verbal, parallelism between the poem's
+    moral teachings and those of the New Testament.
+  claim_level: linguistic_similarity
+  target: New Testament teachings
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the translator-preface's reported comparison; the excerpt does
+    not quote specific parallel passages from either text.
+- id: claim:2
+  claim: The preface raises possible borrowing or echoes between the Brahmanic poem
+    and Christian sources, including the lessons of Galilee and the Syrian incarnation,
+    while leaving date and direction unresolved.
+  claim_level: historical_contact
+  target: Christian sources; Evangelists and Apostles; lessons of Galilee; Syrian
+    incarnation
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: uncertain
+  limitations: The passage explicitly says the date cannot be positively settled and
+    presents the contact question as controversy or possibility rather than proof.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 91-94
+  quote_or_summary: '"speech, / By Krishna and Prince Arjun held"; the dedication
+    also says its wisdom and hidden mystery have been written for England.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 100-106
+  quote_or_summary: The preface identifies the poem as an episode of the Mahabharata's
+    Bhishma Parva, calls it one of the Five Jewels, and says it unfolds a philosophical
+    system blending Kapila, Patanjali, and the Vedas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 116-121
+  quote_or_summary: The preface says there is "close the parallelism--ofttimes actually
+    verbal--" between its teachings and the New Testament, producing controversy over
+    borrowing.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 123-129
+  quote_or_summary: The preface says the date cannot be positively settled, notes
+    arguments for a pre-Christian date and evidence tending toward the third century
+    after Christ, and suggests possible echoes of Galilee and the Syrian incarnation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 131-137
+  quote_or_summary: The preface places the scene between the Jumna and Sarsooti rivers
+    and summarizes the plot as a dialogue between Prince Arjuna and Krishna, the Supreme
+    Deity disguised as a charioteer, in a war-chariot between the Kaurava and Pandava
+    armies before battle.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal scene and figure extraction is clear from the preface. Motif labels
+    are cautious because the passage is prefatory and summarizes the poem. Comparison
+    claims are explicitly present but historically unresolved in the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external details about the Bhagavad-Gita were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-bhagavad-gita-song-celestial-gutenberg__l89-l161
+  passage_sha256=6a55709e15d161149a030219ac5ae53fdcf2e49b3f64ecf68075baf420b56d41
+

@@ -1,0 +1,584 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l4841-l4910
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: THE FOOTLESS AND BLIND CHAMPIONS. / THE THREE KINGDOMS. / VASSILISSA GOLDEN
+    TRESS, BAREHEADED BEAUTY. / THE RING WITH TWELVE SCREWS.; lines 4841-4910
+  start: '4841'
+  end: '4910'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A cat and dog swim across the sea with a ring, lose it in the water, and
+    later recover it from a fish. They bring the ring to Ivan, who unscrews its twelve
+    screws and summons twelve thousand men. Ivan commands them to destroy a stone
+    pillar and restore his castle from beyond the sea. He then elicits a judgment
+    from the Tsar against a wife and her lover; the Tsar's daughter and the servant
+    are found asleep in the restored castle and punished according to that judgment.
+    Ivan marries a beautiful maiden whom he had saved from fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dog and cat swim through the sea and take turns supporting one another
+    when tired.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the cat invites the tired dog to sit on her, the ring falls from her
+    mouth into the water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The animals reach shore, weep, and feed themselves by catching sparrows and
+    small fish.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cat finds the lost ring inside a fish she has caught.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dog and cat bring the recovered ring to Ivan.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ivan unscrews twelve screws on the ring, and twelve thousand men appear before
+    him and acknowledge him as master.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ivan commands the summoned men to destroy the stone pillar completely and
+    bring his castle back from beyond the sea with its inhabitants still asleep.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Tsar reports that a bare-legged man had claimed to be his son-in-law and
+    had been walled up in a stone pillar.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Ivan asks the Tsar to judge a case in which a wife robbed her husband and
+    went beyond the sea with a sweetheart.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Tsar declares that both the wife and her sweetheart should be tied to
+    horses' tails and released into an open field.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Ivan and the Tsar find the Tsar's daughter and the servant asleep in Ivan's
+    castle.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The Tsar's daughter and the servant are tied to horses' tails and punished
+    in the open field.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Ivan later marries the beautiful maiden whom he had saved from the fire.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: cat
+  description: A female cat who carries the ring in her mouth during the sea crossing
+    and later finds it inside a fish.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: dog
+  description: A dog who swims with the cat, supports her when tired, hunts sparrows,
+    and helps bring the ring to Ivan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ivan
+  description: The ring's user, son-in-law of the Tsar, commander of the twelve thousand
+    men, and later husband of the rescued maiden.
+  role_refs:
+  - role:3
+  - role:4
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: twelve thousand men
+  description: Men who appear after Ivan unscrews the twelve screws of the ring and
+    declare themselves his men.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Tsar
+  description: Ivan's father-in-law, who receives Ivan, reports the walling-up of
+    a claimant, and pronounces judgment on Ivan's stated case.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Tsar's daughter
+  description: A royal daughter found asleep in Ivan's restored castle with the servant
+    and then punished.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: servant
+  description: A servant found asleep with the Tsar's daughter in Ivan's castle and
+    then punished.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: beautiful maiden saved from fire
+  description: A beautiful maiden whom Ivan had saved from fire and later marries.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: bare-legged claimant
+  description: A man reported by the Tsar to have called himself the Tsar's son-in-law
+    and to have been walled up in a stone pillar.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: animal helper
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The cat and dog cooperate during the sea crossing and bring the recovered
+    ring to Ivan.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: ring bearer and recoverer
+  assigned_to:
+  - fig:1
+  basis: The cat has the ring in her mouth, loses it into the water, and later finds
+    it in a fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: master of summoned men
+  assigned_to:
+  - fig:3
+  basis: The twelve thousand men who appear from the ring call Ivan their master and
+    await his command.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: son-in-law and petitioner of judgment
+  assigned_to:
+  - fig:3
+  basis: The Tsar calls Ivan his son-in-law, and Ivan presents a case for the Tsar's
+    judgment.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: summoned servants
+  assigned_to:
+  - fig:4
+  basis: The men appear after the ring is opened, declare themselves Ivan's men, and
+    carry out his command.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: royal judge and father-in-law
+  assigned_to:
+  - fig:5
+  basis: The Tsar receives Ivan as son-in-law and pronounces sentence on the case
+    Ivan describes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: condemned royal daughter
+  assigned_to:
+  - fig:6
+  basis: The Tsar's daughter is found asleep with the servant in Ivan's castle and
+    is punished according to the Tsar's sentence.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: condemned servant companion
+  assigned_to:
+  - fig:7
+  basis: The servant is found asleep with the Tsar's daughter and is punished with
+    her.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: rescued maiden
+  assigned_to:
+  - fig:8
+  basis: The passage states that Ivan had saved the maiden from the fire.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: bride of Ivan
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: Ivan marries the beautiful maiden after the punishment scene.
+  evidence_refs:
+  - ev:8
+- id: role:11
+  label: reported claimant walled in stone
+  assigned_to:
+  - fig:9
+  basis: The Tsar reports that this man claimed to be his son-in-law and was walled
+    up in a stone pillar.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: ring with twelve screws
+  literal_form: A ring that has twelve screws and can be opened by Ivan.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: sea and water
+  literal_form: The sea crossed by the animals and the water into which the ring falls;
+    also the place beyond which the castle is located.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: fish containing the ring
+  literal_form: A fish caught by the cat, inside which the lost ring is found.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: stone pillar
+  literal_form: A stone pillar used to wall up a claimant and later ordered by Ivan
+    to be broken into dust.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: castle beyond the sea
+  literal_form: Ivan's castle, brought from beyond the sea and put back in its old
+    place with its inhabitants sleeping.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:6
+  label: horses in the open field
+  literal_form: Horses to whose tails the condemned pair are tied before being released
+    into the open field.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: fire
+  literal_form: The fire from which Ivan had saved the beautiful maiden.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sea crossing, loss, and recovery of the ring
+  summary: The cat and dog swim across the sea; the ring falls into the water, and
+    the cat later finds it inside a fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ring returned and men summoned
+  summary: The animals bring Ivan the ring; Ivan opens its twelve screws, and twelve
+    thousand men appear and declare service to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Destruction and restoration by command
+  summary: Ivan orders the summoned men to destroy the stone pillar and bring his
+    castle back from beyond the sea with everyone still asleep.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Tsar's audience and judgment
+  summary: Ivan visits the Tsar, hears of the walled-up claimant, and asks the Tsar
+    to judge a case about a wife who robbed her husband and fled with a sweetheart.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Punishment and later marriage
+  summary: Ivan shows the Tsar the sleeping Tsar's daughter and servant in the castle;
+    they are punished according to the Tsar's sentence, and Ivan later marries the
+    maiden he had saved from fire.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Animal helpers recover a lost talisman
+  taxonomy_refs: []
+  basis: The cat and dog cooperate after the ring is lost in the water; the cat finds
+    it inside a fish and the animals return it to Ivan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain how or why the animals became Ivan's helpers.
+- id: motif:2
+  label: Magic ring summons obedient workers
+  taxonomy_refs: []
+  basis: When Ivan unscrews the twelve screws of the ring, twelve thousand men appear,
+    call him master, and perform his commands.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes the ring's operation but not its origin.
+- id: motif:3
+  label: Restoration from beyond the sea
+  taxonomy_refs:
+  - return
+  basis: Ivan commands that his castle be brought back from beyond the sea and restored
+    to its old place with its inhabitants asleep.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The broader removal of the castle occurred outside this passage.
+- id: motif:4
+  label: Self-condemning royal judgment
+  taxonomy_refs: []
+  basis: Ivan asks the Tsar to judge a case involving a wife and sweetheart; the Tsar's
+    own sentence is then applied when the Tsar's daughter and servant are revealed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage implies the link between Ivan's stated case and the discovered
+    pair, but fuller prior context may clarify it.
+- id: motif:5
+  label: Punishment of unfaithful wife and lover
+  taxonomy_refs: []
+  basis: Ivan describes a wife who robs her husband and goes away with a sweetheart;
+    the Tsar prescribes punishment for both, and the Tsar's daughter and servant are
+    punished accordingly.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The charge is framed through Ivan's speech; the preceding narrative would
+    provide fuller context for the accusation.
+- id: motif:6
+  label: Marriage to a maiden rescued from fire
+  taxonomy_refs: []
+  basis: The passage states that Ivan marries the beautiful maiden whom he had saved
+    from the fire.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The rescue from fire is only alluded to in this line range, not narrated
+    here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4841-4848
+  quote_or_summary: The cat and dog swim across the sea, take turns supporting one
+    another, and the ring falls from the cat's mouth into the water.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4848-4858
+  quote_or_summary: After reaching shore, the dog catches sparrows and the cat catches
+    fish; the cat finds the ring inside a fish.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4859-4860
+  quote_or_summary: The dog and cat rejoice and bring the ring to Ivan.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 4861-4865
+  quote_or_summary: Ivan opens the ring's twelve screws, and twelve thousand men appear
+    saying, "Thou art our master, we are thy men."
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 4866-4870
+  quote_or_summary: Ivan orders the stone pillar broken to dust and his castle brought
+    back from beyond the sea with all in it still asleep; the command is fulfilled.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4871-4884
+  quote_or_summary: The Tsar receives Ivan as son-in-law and says that, during Ivan's
+    absence, a bare-legged man claimed to be son-in-law and was walled up in a stone
+    pillar.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 4885-4900
+  quote_or_summary: Ivan describes a wife who robbed her husband and fled beyond the
+    sea with a sweetheart; the Tsar sentences both to be tied to horses' tails and
+    released into the open field.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 4901-4910
+  quote_or_summary: At Ivan's castle, the Tsar's daughter and the servant are found
+    asleep and punished by being tied to horses; Ivan afterward marries the beautiful
+    maiden he had saved from fire.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif candidates
+    are cautious because several events are continuations or allusions to prior narrative
+    outside the line range. No comparison claims were made because the passage itself
+    does not explicitly support comparison with another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy identifiers were added beyond the provided available references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l4841-l4910
+  passage_sha256=164529be732668d909173b66df461d39984f410dcf89033d9c6f7438f89e84ef
+

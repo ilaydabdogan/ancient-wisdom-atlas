@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l13730-l13825
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: BAHMAN / HMAI AND THE BIRTH OF DRB / DRB AND DR / SIKANDER; lines 13730-13825
+  start: '13730'
+  end: '13825'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Failaks crowns Sikander, appoints Arist as vizir, and gives moral counsel.
+    After Dr demands customary tribute, Sikander rejects Persian superiority, threatens
+    war, enters the Persian camp disguised as an envoy to inspect the enemy, keeps
+    four cups from Dr's table, escapes after being recognized, defeats Dr, takes the
+    capital, and consolidates rule by claiming Persian inheritance and descent from
+    Drb.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Failaks places the crown of sovereignty on Sikander, appoints Arist as vizir,
+    and counsels Sikander toward virtue, humility, justice, mercy, and attention to
+    advice.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dr sends an envoy to Sikander to claim the customary tribute; Sikander replies
+    that Rm no longer acknowledges Persian superiority, demands tribute from Dr, and
+    threatens invasion and wider conquest.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the armies come into sight on the Persian frontier, Sikander enters the
+    Persian camp in the assumed character of an envoy in order to learn the enemy's
+    condition.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dr is struck by the envoy's commanding appearance and asks whether he is Sikander;
+    the envoy denies having such rank.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At Dr's table, the envoy drinks from cups but does not return them, explaining
+    that his country does not take back a cup once placed in an ambassador's hands;
+    he keeps four cups.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An unnamed person at the feast recognizes Sikander and informs Dr; Sikander
+    notices the change, takes the four cups, mounts his horse, and escapes by night.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: Sikander displays the four golden cups to Aristtals and his courtiers as objects
+    taken from his enemy's table and says he has learned the enemy's strength and
+    numbers.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The armies fight for seven days without decision; on the eighth day Dr flees,
+    is pursued to the Euphrates, later suffers another defeat, and Sikander takes
+    the capital.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Sikander wins support among the people by telling them that Persia is his
+    inheritance and that he descends from Drb; legions then unite with his cause.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Failaks
+  description: Ruler who, before death, crowns Sikander, appoints Arist as vizir,
+    and gives counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sikander
+  description: Crowned by Failaks; rejects Dr's tribute claim, invades Persia, disguises
+    himself as an envoy, takes four cups, defeats Dr, and claims descent from Drb.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Arist / Aristtals
+  description: Disciple of Afltn, appointed as Sikander's vizir; later summoned with
+    Sikander's courtiers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: Afltn
+  description: Named as the great teacher whose disciple is Arist.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Dr
+  description: Ruler who demands tribute from Sikander, receives the disguised Sikander
+    as an envoy, presents cups, and is later defeated.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: cup-bearer
+  description: Attendant who asks the envoy to return the cup.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: unnamed person at the feast
+  description: Person present at the entertainment who recognizes Sikander and whispers
+    to Dr that the enemy is in his power.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: people of Persia
+  description: People whose affection Sikander seeks after victory; they cease to
+    remember their former king with attachment.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: royal predecessor and father-counsellor
+  assigned_to:
+  - fig:1
+  basis: Failaks crowns Sikander before death and gives ethical counsel that Sikander
+    initially follows as his father's instruction.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: newly enthroned ruler and conqueror
+  assigned_to:
+  - fig:2
+  basis: Sikander receives the crown, rejects tribute subordination, invades, defeats
+    Dr, and takes the capital.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:3
+  label: vizir and counsellor
+  assigned_to:
+  - fig:3
+  basis: Arist is appointed vizir and is named among those whose counsel Sikander
+    follows.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: named philosophical teacher
+  assigned_to:
+  - fig:4
+  basis: Afltn is identified as the great figure whose disciple is Arist.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: opposing king
+  assigned_to:
+  - fig:5
+  basis: Dr demands tribute, commands the Persian side, hosts the supposed envoy,
+    and is defeated by Sikander.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:6
+  label: disguised envoy and reconnaissance agent
+  assigned_to:
+  - fig:2
+  basis: Sikander enters the Persian camp in the assumed character of an envoy to
+    ascertain the enemy's condition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:7
+  label: attendant cup-bearer
+  assigned_to:
+  - fig:6
+  basis: The cup-bearer demands that the envoy return the cup after drinking.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: recognizer and informant
+  assigned_to:
+  - fig:7
+  basis: An unnamed person recognizes Sikander during the entertainment and whispers
+    this to Dr.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: conquered subjects won over by new ruler
+  assigned_to:
+  - fig:8
+  basis: After victory, Sikander conciliates the people and they cease to remember
+    their former king with attachment.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: crown of sovereignty
+  literal_form: crown placed on Sikander's head by Failaks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - royal_legitimacy
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: customary tribute
+  literal_form: tribute claimed by Dr and rejected by Sikander
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - royal_legitimacy
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: four golden cups
+  literal_form: four cups taken by Sikander from Dr's table and later displayed to
+    his court
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: dust image
+  literal_form: Failaks' counsel says humans are dust and created from dust
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: escape horse
+  literal_form: horse on which Sikander vaults while fleeing the Persian tent
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Euphrates riverbank
+  literal_form: banks of the Euphrates reached during pursuit after Dr's defeat
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: coronation and counsel
+  summary: Failaks crowns Sikander, appoints Arist as vizir, and urges a just, humble,
+    counsel-receiving kingship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: tribute dispute and war challenge
+  summary: Dr seeks customary tribute; Sikander rejects Persian superiority, demands
+    tribute from Dr, and threatens invasion and universal conquest.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: disguised envoy in the Persian camp
+  summary: Sikander crosses into the Persian camp as a supposed envoy to inspect the
+    enemy and speaks to Dr under this assumed identity.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: cups, recognition, and escape
+  summary: At Dr's feast, Sikander keeps cups given to him, is recognized by an attendee,
+    seizes the four cups, and escapes on horseback under cover of night.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: battle, conquest, and consolidation
+  summary: Sikander defeats Dr, takes the capital, conciliates the people, asserts
+    hereditary connection to Persia through Drb, and gains the support of legions.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: royal succession and hereditary legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Sikander is crowned by Failaks and later tells the Persians that Persia is
+    his inheritance because he descends from Drb.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The passage presents dynastic and political legitimacy, not explicit divine
+    authorization.
+- id: motif:2
+  label: king in disguise inside the enemy camp
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Sikander assumes the character of an envoy, enters Dr's camp, denies being
+    Sikander, gathers information, and escapes when recognized.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage frames the action as military strategy; it does not call Sikander
+    a trickster or mark the boundary as sacred.
+- id: motif:3
+  label: trophy objects taken from an enemy ruler's table
+  taxonomy_refs: []
+  basis: Sikander keeps four cups from Dr's table, escapes with them, and presents
+    them to his own court as proof that he took them before his enemy's eyes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The cups are not described as sacred objects; the passage also gives Sikander's
+    claimed diplomatic custom as an explanation for keeping them.
+- id: motif:4
+  label: royal wisdom counsel at accession
+  taxonomy_refs:
+  - wisdom
+  basis: Failaks instructs Sikander to reject pride, be just and merciful, and listen
+    to counsel; Sikander initially follows these instructions and Arist's counsel.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The counsel is ethical and political rather than esoteric or supernatural
+    wisdom.
+- id: motif:5
+  label: ambition toward universal conquest and world travel
+  taxonomy_refs: []
+  basis: Sikander threatens not to be satisfied with Persia alone and says the whole
+    world shall be his; in the envoy speech his object is also described as travel
+    through the whole world.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states ambition and travel but does not develop a full world-conquest
+    cycle within this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The coronation, tribute reversal, and descent claim serve the same broad
+    function as a royal-legitimacy motif pattern.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to function within this passage; no external
+    source or divine sanction is cited here.
+- id: claim:2
+  claim: Sikander's false envoy identity, entry into the enemy camp, acquisition of
+    cups, and escape fit a cautious comparison to an infiltrating ruler or trickster-boundary
+    pattern.
+  claim_level: same_function
+  target: trickster_boundary motif family / disguised reconnaissance pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents a military deception rather than an explicit mythic
+    trickster episode; no supernatural boundary is involved.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13732-13746
+  quote_or_summary: Failaks crowns Sikander, appoints Arist, a disciple of Afltn,
+    as vizir, counsels humility, justice, mercy, and attention to advice, and Sikander
+    initially follows his father and Arist.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 13748-13755
+  quote_or_summary: After Sikander's enthronement, Dr sends for customary tribute;
+    Sikander answers that Rm no longer acknowledges Persia, demands tribute from Dr,
+    threatens invasion, and says the whole world shall be his; Dr assembles an army.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 13756-13767
+  quote_or_summary: At the Persian frontier, Sikander assumes the character of an
+    envoy to learn the enemy's condition; the supposed envoy tells Dr that Sikander
+    wants to inspect Persia's history, laws, and customs and travel through the whole
+    world.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 13768-13781
+  quote_or_summary: Dr is astonished by the envoy's majestic bearing and asks whether
+    he is Sikander; the envoy denies this and says Sikander has many in his host superior
+    to him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 13783-13796
+  quote_or_summary: Dr serves wine; the envoy keeps the cup and explains this as his
+    country's custom for ambassadors. Dr gives more cups until four are retained.
+    During the feast, an attendee recognizes Sikander and tells Dr.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: 13797-13810
+  quote_or_summary: Sikander notices the danger, snatches the four cups, mounts his
+    horse, and escapes; pursuit fails in the dark. Back in his camp, he shows Aristtals
+    and the courtiers the four golden cups and says he has learned Dr's strength and
+    numbers.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: 13811-13825
+  quote_or_summary: After arrangements for battle, the armies fight seven days; on
+    the eighth Dr flees and is pursued to the Euphrates. After another defeat, Sikander
+    takes the capital, wins popular support, claims Persia as his inheritance through
+    descent from Drb, and legions unite with him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage. Names are retained
+    in the reduced transliteration as provided, including Dr, Drb, Rm, Aristtals,
+    and Afltn. Motif-family assignments are provisional and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or taxonomy identifiers beyond the supplied available taxonomy references were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l13730-l13825
+  passage_sha256=661b4a4aefcc0d0371b40a1e1c25b8ee3411ae5c9889b28fddc066fc6f730596
+

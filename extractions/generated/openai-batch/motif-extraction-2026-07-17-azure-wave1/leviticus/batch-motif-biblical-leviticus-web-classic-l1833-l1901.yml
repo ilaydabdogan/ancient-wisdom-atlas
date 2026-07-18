@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l1833-l1901
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Footnotes / Chapter 25 / Chapter 26 / Chapter 27; lines 1833-1901
+  start: '1833'
+  end: '1901'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Leviticus 27 presents Yahweh’s instructions to Moses for Israel concerning
+    vows, valuations, dedication and redemption of persons, animals, houses, fields,
+    firstborn animals, devoted things, and tithes. It concludes that these commandments
+    were commanded on Mount Sinai.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yahweh speaks to Moses and tells him to speak to the children of Israel.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Persons consecrated to Yahweh in a vow are assigned monetary valuations according
+    to age and sex.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If a person is poorer than the stated valuation, he is set before the priest,
+    and the priest assigns a value according to ability to pay.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An offerable animal given to Yahweh becomes holy and must not be altered or
+    exchanged; if exchanged, both animals become holy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: An unclean animal is set before the priest for evaluation and may be redeemed
+    by adding a fifth part to its valuation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A house dedicated as holy to Yahweh is evaluated by the priest and may be
+    redeemed by adding a fifth part of the valuation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A field dedicated to Yahweh is valued according to seed capacity and the years
+    remaining until the Year of Jubilee.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If a dedicated field is not redeemed, or has been sold to another, it becomes
+    holy to Yahweh at Jubilee as a devoted field and is owned by the priests.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A bought field dedicated to Yahweh returns in the Year of Jubilee to the person
+    whose possession the land belongs to.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: All valuations are to be according to the shekel of the sanctuary, with twenty
+    gerahs to the shekel.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Firstborn animals that belong to Yahweh as firstborn may not be dedicated
+    by a man; an unclean firstborn animal may be bought back with an added fifth part
+    or sold according to valuation.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A devoted thing from a person’s possessions, whether human, animal, or field,
+    may not be sold or redeemed and is most holy to Yahweh.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: A person devoted to destruction from among humans must not be ransomed and
+    is to be put to death.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The tithe of land, seed, fruit, herds, and flocks is Yahweh’s and holy to
+    Yahweh; every tenth animal passing under the rod is holy.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: The passage closes by identifying these instructions as commandments Yahweh
+    commanded Moses for the children of Israel on Mount Sinai.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: The speaker who commands Moses and to whom holy, dedicated, firstborn,
+    devoted, and tithed things belong.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Moses
+  description: The recipient of Yahweh’s commandments and the one addressed to speak
+    to the children of Israel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:3
+  name_or_label: children of Israel
+  description: The community to whom Moses is instructed to speak and for whom the
+    commandments are given.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:4
+  name_or_label: man who consecrates, dedicates, or redeems
+  description: A generic person who consecrates a person, gives an animal, dedicates
+    a house or field, redeems property, or redeems a tithe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:5
+  name_or_label: the priest
+  description: The evaluator who assigns values to persons, animals, houses, and fields
+    in the stated cases.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: the priests
+  description: The group who owns a dedicated field that goes out in the Jubilee as
+    a devoted field.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine commander and recipient of holy things
+  assigned_to:
+  - fig:1
+  basis: Yahweh speaks the commandments and the passage repeatedly identifies dedicated,
+    firstborn, devoted, and tithed things as Yahweh’s or holy to Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: command recipient and mediator
+  assigned_to:
+  - fig:2
+  basis: Yahweh commands Moses to speak to Israel and the closing line says Yahweh
+    commanded Moses for Israel.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:3
+  label: commanded community
+  assigned_to:
+  - fig:3
+  basis: The children of Israel are named as the audience of the speech and the community
+    for whom the commandments are given.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:4
+  label: dedicator or redeemer
+  assigned_to:
+  - fig:4
+  basis: The legal cases repeatedly describe a man who consecrates, dedicates, gives,
+    exchanges, or redeems.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:5
+  label: priestly evaluator
+  assigned_to:
+  - fig:5
+  basis: The priest evaluates or assigns value to persons, animals, houses, and fields.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: priestly owners of devoted field
+  assigned_to:
+  - fig:6
+  basis: A dedicated field that goes out in the Jubilee as a devoted field is said
+    to be owned by the priests.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mount Sinai
+  literal_form: mountain setting named as Mount Sinai
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+- id: sym:2
+  label: shekel of the sanctuary
+  literal_form: sanctuary shekel used for valuations; twenty gerahs to the shekel
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: fifth part added in redemption
+  literal_form: additional fifth part added to valuation when redeeming certain dedicated
+    or tithed things
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: Year of Jubilee
+  literal_form: Jubilee year used to calculate field value and determine return of
+    land
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: firstborn animal
+  literal_form: firstborn ox or sheep belonging to Yahweh
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: tithe and tenth under the rod
+  literal_form: tenth part of land produce, herds, or flocks; every tenth animal passing
+    under the rod
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: fruit of the trees
+  literal_form: fruit of the trees included in the land tithe belonging to Yahweh
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: rod
+  literal_form: rod under which herd or flock animals pass for identifying the tenth
+    as holy
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Commandment delivered through Moses
+  summary: Yahweh speaks to Moses, instructing him to address the children of Israel,
+    and the passage closes by locating these commandments at Mount Sinai.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: scene:2
+  label: Valuation and redemption of vowed or dedicated things
+  summary: Persons, animals, houses, and fields consecrated or dedicated to Yahweh
+    are assigned valuations, often by the priest, with specified conditions for redemption
+    and added fifth parts.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Restrictions on firstborn, devoted things, and tithes
+  summary: Firstborn animals, permanently devoted things, devoted persons, and tithes
+    are governed by limits on dedication, ransom, exchange, sale, and redemption.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Sacred valuation and redemption
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage regulates vows, dedication, valuation, redemption, added fifth
+    parts, and tithes as transactions involving things made holy to Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: This is a legal instruction passage rather than a narrative mythic episode.
+- id: motif:2
+  label: Sacral offering and non-substitution
+  taxonomy_refs:
+  - sacrifice
+  basis: Offerable animals given to Yahweh become holy, exchanges are forbidden or
+    make both animals holy, and firstborn animals already belong to Yahweh.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage mentions offerings and holy animals but does not narrate an
+    actual sacrificial ritual.
+- id: motif:3
+  label: Divine commandments mediated at a mountain
+  taxonomy_refs:
+  - covenant
+  basis: The passage frames the laws as commandments Yahweh commanded Moses for Israel
+    on Mount Sinai.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: low
+  cautions: The word covenant does not appear in this passage; the taxonomy link rests
+    only on the Sinai commandment setting.
+- id: motif:4
+  label: Irrevocable devotion to deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Things permanently devoted to Yahweh cannot be sold or redeemed, and a human
+    devoted to destruction cannot be ransomed.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives legal prohibitions and does not elaborate a narrative
+    or ritual performance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Leviticus 27:1-8; lines 1835-1849
+  quote_or_summary: Yahweh speaks to Moses for Israel; persons vowed to Yahweh receive
+    set valuations by age and sex, with priestly adjustment for poverty.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:2
+  type: summary
+  locator: Leviticus 27:9-13; lines 1851-1859
+  quote_or_summary: Offerable animals given to Yahweh become holy and must not be
+    exchanged; unclean animals are evaluated by the priest and can be redeemed with
+    an added fifth.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:3
+  type: summary
+  locator: Leviticus 27:14-15; lines 1861-1863
+  quote_or_summary: A house dedicated as holy to Yahweh is evaluated by the priest
+    and can be redeemed with an added fifth part of the valuation money.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:4
+  type: summary
+  locator: Leviticus 27:16-24; lines 1865-1881
+  quote_or_summary: Dedicated fields are valued by seed measure and Jubilee timing;
+    redemption adds a fifth, unreclaimed fields may become priestly property, and
+    bought fields return at Jubilee.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:5
+  type: summary
+  locator: Leviticus 27:25; line 1883
+  quote_or_summary: All valuations are according to the sanctuary shekel, counted
+    as twenty gerahs.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:6
+  type: summary
+  locator: Leviticus 27:26-27; lines 1885-1887
+  quote_or_summary: Firstborn animals belong to Yahweh and cannot be dedicated by
+    a man; an unclean animal may be bought back with an added fifth or sold by valuation.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:7
+  type: summary
+  locator: Leviticus 27:28-29; lines 1889-1891
+  quote_or_summary: Devoted things from a person’s possessions cannot be sold or redeemed
+    and are most holy to Yahweh; a person devoted to destruction is not ransomed and
+    is put to death.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:8
+  type: summary
+  locator: Leviticus 27:30-33; lines 1893-1899
+  quote_or_summary: The tithe of land, seed, fruit, herds, and flocks belongs to Yahweh;
+    every tenth animal passing under the rod is holy, and exchange or redemption is
+    restricted.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+- id: ev:9
+  type: summary
+  locator: Leviticus 27:34; line 1901
+  quote_or_summary: The passage identifies these as commandments Yahweh commanded
+    Moses for the children of Israel on Mount Sinai.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal content is explicit and stable. Motif assignments are cautious
+    because the passage is prescriptive law rather than a narrative mythic scene.
+    No passage-internal comparative claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references were limited to available refs and applied only where supported by passage details.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l1833-l1901
+  passage_sha256=e4f0a713e64fdaa5d6ca933ba3e486e272c2c8fadee8829f4b38bd121d55c78f
+

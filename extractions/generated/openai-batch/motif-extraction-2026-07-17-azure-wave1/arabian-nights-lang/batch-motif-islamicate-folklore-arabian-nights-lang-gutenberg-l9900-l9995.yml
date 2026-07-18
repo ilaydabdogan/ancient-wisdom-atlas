@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l9900-l9995
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 9900-9995
+  start: '9900'
+  end: '9995'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Princess of Bengal welcomes Prince Firouz Schah, entertains him with
+    a courtly meal and amusements, and hopes to bring him before her father so that
+    a marriage may result. The prince is moved by her kindness but insists he must
+    first return to his own father, whose grief he imagines, and later return properly
+    attended as a prince to seek her hand.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Princess of Bengal says she followed the prince's adventures and trembled
+    at his danger in the upper regions of the air.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess welcomes the prince warmly and says he is free in her house rather
+    than a slave.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An attendant interrupts the prince by announcing dinner.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dinner is served in a magnificent apartment with fruits, music, richly dressed
+    girls, and later a blue-and-gold room overlooking a garden with flowers and arbutus
+    trees.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The prince praises the Bengal palace and garden by comparing them with what
+    he had believed about Persian palaces and gardens.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The princess says her own palace is poor beside that of her father and invites
+    the prince to greet the King of Bengal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The princess hopes that a meeting between the prince and her father will lead
+    the king to offer her to the prince in marriage.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The prince says he cannot present himself before the King of Bengal without
+    attendants suitable to his rank, because he might be taken for an adventurer.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The princess offers to provide attendants, Persian merchants, and money from
+    her treasury.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The prince is touched by the princess's kindness and feels increasing passion,
+    but says duty requires him to return to his grieving father as soon as possible.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The prince says he will later present himself before the King of Bengal as
+    a prince and ask for the princess's hand.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The princess accepts the prince's explanation but fears his feeling for her
+    will fade after he leaves, so she asks him to remain a little longer.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The prince remains for two months in balls, spectacles, and hunting before
+    declaring that he can no longer neglect his duty and must depart, while promising
+    to return.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Prince Firouz Schah
+  description: A Persian prince who is welcomed by the Princess of Bengal, wishes
+    to preserve his royal rank before the King of Bengal, feels affection for the
+    princess, and insists on returning to his father before seeking her hand.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: Princess of Bengal
+  description: A royal woman who hosts Prince Firouz Schah, provides hospitality and
+    entertainment, hopes her father will offer her in marriage, and tries to delay
+    the prince's departure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Prince Firouz Schah's father
+  description: The prince's father and king, imagined by the prince as deeply grieving
+    over his son's absence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: King of Bengal
+  description: The Princess of Bengal's father, a great sovereign whom the prince
+    is invited to visit and before whom he wants to appear with proper attendants.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: Princess's attendants and court girls
+  description: Attendants announce dinner and richly dressed girls sing to stringed
+    instruments during the meal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: royal guest and prospective suitor
+  assigned_to:
+  - fig:1
+  basis: The prince is hosted by the princess, considers how to appear before her
+    father, and promises to seek her hand as a prince.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+- id: role:2
+  label: royal hostess and prospective bride
+  assigned_to:
+  - fig:2
+  basis: The princess welcomes and entertains the prince, hopes her father will offer
+    her in marriage, and asks him to prolong his stay.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:10
+- id: role:3
+  label: absent grieving father and sovereign
+  assigned_to:
+  - fig:3
+  basis: The prince describes his father as suffering uneasiness and deep grief because
+    of his absence.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: prospective royal evaluator and father-in-law
+  assigned_to:
+  - fig:4
+  basis: The princess wants the prince to meet the King of Bengal, and the prince
+    plans to ask him for her hand after returning properly attended.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:5
+  label: court attendants and entertainers
+  assigned_to:
+  - fig:5
+  basis: An attendant announces dinner, and court girls sing to instruments during
+    the meal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: upper regions of the air
+  literal_form: The princess refers to the prince's danger in the upper regions of
+    the air.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: courtly feast
+  literal_form: A magnificent dinner with delicious fruits and musical accompaniment.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: garden with arbutus trees
+  literal_form: A garden stocked with flowers and arbutus trees, seen from a blue-and-gold
+    room.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: treasury
+  literal_form: The princess's treasury, which she offers to open to the prince for
+    money.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: attendants suitable to royal rank
+  literal_form: A retinue the prince says he needs before presenting himself to the
+    King of Bengal.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Princess welcomes the prince
+  summary: The Princess of Bengal responds to the prince's account of his adventures,
+    welcomes him warmly, and assures him he is free in her house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Courtly meal and garden chamber
+  summary: An attendant announces dinner, the prince and princess dine amid music,
+    and afterward they move to a blue-and-gold room overlooking a garden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Invitation to the King of Bengal
+  summary: The prince praises the palace and garden; the princess invites him to her
+    father's greater palace, hoping a marriage offer will follow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Rank and retinue negotiation
+  summary: The prince explains that he cannot appear before the King of Bengal without
+    attendants suitable to his rank, and the princess offers attendants and funds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Duty to father and promised return
+  summary: The prince says he must return to his grieving father before coming back
+    as a prince to ask for the Princess of Bengal's hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Delayed departure
+  summary: The princess persuades the prince to remain longer, and two months pass
+    in entertainments before he insists that duty requires his departure and promises
+    to return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: welcomed royal stranger
+  taxonomy_refs: []
+  basis: The princess receives the prince warmly, assures him he is free, and provides
+    a courtly meal and entertainment.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage presents elite hospitality rather than a supernatural hospitality
+    test.
+- id: motif:2
+  label: royal rank confirmed by retinue
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The prince says he cannot appear before the King of Bengal without attendants
+    suitable to his rank and later promises to return as a prince.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The concern is social and political presentation, not a formal coronation
+    or succession episode.
+- id: motif:3
+  label: filial duty requiring return
+  taxonomy_refs:
+  - return
+  basis: The prince says his father must be grieving and that he must return at the
+    first possible moment despite his affection for the princess.
+  evidence_refs:
+  - ev:8
+  - ev:11
+  confidence: high
+  cautions: The return is planned and motivated by family duty; the actual journey
+    is not narrated within this passage.
+- id: motif:4
+  label: delayed departure by courtly pleasures
+  taxonomy_refs:
+  - departure
+  basis: The princess asks the prince to remain, and two months pass in balls, spectacles,
+    and hunting before he insists he can no longer delay his duty.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The delay is social and romantic rather than an explicit magical obstruction.
+- id: motif:5
+  label: royal courtship through parental approval
+  taxonomy_refs: []
+  basis: The princess hopes her father will offer her in marriage, and the prince
+    promises to ask the King of Bengal for her hand after returning properly as a
+    prince.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: The marriage is prospective; no marriage ceremony or formal betrothal
+    occurs in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9900-9912
+  quote_or_summary: The Princess of Bengal says she followed the prince's adventures,
+    trembled at his danger in the upper air, welcomes him warmly, and tells him he
+    is free in her house.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 9913-9916
+  quote_or_summary: An attendant enters and announces that dinner is served, interrupting
+    the prince before he can answer the princess's suggestion about his heart.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 9917-9923
+  quote_or_summary: Dinner is laid in a magnificent apartment with fruits and music;
+    afterward the prince and princess enter a blue-and-gold room looking into a garden
+    with flowers and arbutus trees.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 9924-9934
+  quote_or_summary: The prince compares Bengal's palace and garden favorably with
+    Persia; the princess replies that her palace is poor beside that of her father
+    and hopes he will visit the King of Bengal.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 9935-9938
+  quote_or_summary: The princess hopes that if her father meets the prince, he will
+    be struck by the prince's bearing and manners and offer him his daughter as wife.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: 9939-9946
+  quote_or_summary: The prince says he wishes to visit the King of Bengal but cannot
+    present himself before so great a sovereign without attendants suitable to his
+    rank, lest he be thought an adventurer.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: 9947-9950
+  quote_or_summary: The princess replies that he can have attendants, Persian merchants,
+    and money from her treasury as he pleases.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: 9951-9965
+  quote_or_summary: The prince is touched by the princess's kindness but says duty
+    to his father requires him to return, since his father must be grieving over his
+    absence.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:9
+  type: summary
+  locator: 9966-9974
+  quote_or_summary: The prince says that after obeying his conscience he will come
+    before the King of Bengal not as a wanderer but as a prince to ask for the princess's
+    hand.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:10
+  type: summary
+  locator: 9975-9982
+  quote_or_summary: The princess accepts his explanation but fears his impression
+    of her may fade after he leaves, so she asks him to remain a day or two longer.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:11
+  type: summary
+  locator: 9983-9995
+  quote_or_summary: The prince stays for two months amid balls, spectacles, and hunting,
+    then says he can neglect his duty no longer and asks that no more obstacles be
+    placed in his way, while promising to return magnificently.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    taxonomy links are limited to available refs and used only where directly supported.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs beyond supplied available references were introduced.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l9900-l9995
+  passage_sha256=2fb3de631ec2a7254920e98b71cd2baad1f0b50e0a94912b0bfe0b864c96fc6e
+

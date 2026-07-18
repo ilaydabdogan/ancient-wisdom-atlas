@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.australian-australian-legendary-tales-parker-gutenberg-l230-l290
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: WITH INTRODUCTION BY ANDREW LANG, M.A. / CONTENTS / PREFACE / INTRODUCTION;
+    lines 230-290
+  start: '230'
+  end: '290'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Introductory prose describes Australia as ancient and unfamiliar to Europeans,
+    contrasts it with other ancient or colonially encountered societies, and summarizes
+    Aboriginal Australian customs, rites, technology, nature-kinship language, spirits,
+    magic, Bora initiation, and oral storytelling settings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Australia is described as novel to Europeans yet extremely old, with distinctive
+    vegetation, animals, rare hills, infrequent streams, and deserts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the soil, cave walls, sea, plains, and other places
+    show no pottery, cave pictures, ruined palaces, cities, inscriptions, or agriculture.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the people had no temples, divine images, sacrificial altars,
+    or many memorials of the dead.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Worship is described as hymns directed to a vague, half-forgotten deity or
+    First Maker of things.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Spirits are said to be known and feared but scarcely defined or described.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sympathetic magic, and perhaps a little hypnotism, are described as the people’s
+    science.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Custom is described as king, with detailed taboos and regulations around marriage.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage lists boomerang, weet-weet, throwing stick, and message stick
+    among technologies, while noting absence of bow, sword, and hieroglyphs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The people are described as considering themselves akin to nature and calling
+    rain, smoke, clouds, sky, beasts, and trees their cousins.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage says Bora mysteries, initiatory rites, some magic, social customs,
+    fragments of myths, and camp-fire or gum-tree-shade stories are known or collected.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the natives / Australian natives
+  description: A collective human group described as having rites, customs, tools,
+    nature-kinship ideas, hunting and tracking skills, and oral stories.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: vague, half-forgotten deity / First Maker of things
+  description: A deity or First Maker to whom hymns are said to be offered; described
+    by the passage as aged or nearly careless of his children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: spirits
+  description: Supernatural beings said to be known and feared, though scarcely defined
+    or described.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: collective tradition-bearers
+  assigned_to:
+  - fig:1
+  basis: The group is described through customs, rites, myths, and storytelling practices.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: worshippers or hymn-singers
+  assigned_to:
+  - fig:1
+  basis: The passage says worship was offered in hymns to a deity or First Maker.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: First Maker or creator figure
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls the deity a “First Maker of things.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: feared spirit beings
+  assigned_to:
+  - fig:3
+  basis: The passage says spirits were known and feared.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: oral storytellers
+  assigned_to:
+  - fig:1
+  basis: The passage refers to stories Australian natives tell by the camp-fire or
+    in gum-tree shade.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: camp-fire storytelling place
+  literal_form: camp-fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: gum-tree shade storytelling place
+  literal_form: gum-tree shade
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: natural kin cluster
+  literal_form: rain, smoke, clouds, sky, beasts, and trees called cousins
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cave walls without pictures
+  literal_form: cave walls
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: message stick
+  literal_form: message stick
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Introductory description of an ancient continent
+  summary: The passage presents Australia as ancient, unfamiliar to Europeans, and
+    marked by distinctive landforms, plants, and animals, while emphasizing absence
+    of many material traces associated with settled civilizations.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summary of worship, spirits, and magic
+  summary: The passage describes hymnic worship of a vague First Maker, fear of spirits,
+    and sympathetic magic as a form of practical knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Custom, technology, and nature kinship
+  summary: The passage describes custom and marriage taboos, lists tools and missing
+    technologies, and states that the people called natural phenomena and beings their
+    cousins.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Bora, myths, and oral storytelling
+  summary: The passage says that Bora mysteries, initiation, magic, social customs,
+    myth fragments, and stories told by camp-fire or in gum-tree shade were known
+    or collected.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: First Maker addressed in hymns
+  taxonomy_refs: []
+  basis: The passage describes worship offered in hymns to a vague deity or First
+    Maker of things.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only an outsider summary and no creation narrative or
+    actions of the First Maker.
+- id: motif:2
+  label: Feared but undefined spirits
+  taxonomy_refs: []
+  basis: Spirits are said to be known and feared, though scarcely defined or described.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No individual spirit names, stories, or functions are given in this passage.
+- id: motif:3
+  label: Sympathetic magic as practical knowledge
+  taxonomy_refs: []
+  basis: The passage identifies sympathetic magic, and perhaps hypnotism, as the people’s
+    science.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe a specific magical act.
+- id: motif:4
+  label: Initiatory rites or Bora mysteries
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly mentions the mysteries or Bora of the natives and
+    initiatory rites.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Only the existence of the rites is mentioned; ritual sequence and symbolism
+    are not described.
+- id: motif:5
+  label: Kinship with natural phenomena and beings
+  taxonomy_refs: []
+  basis: The passage states that the people deemed themselves akin to all nature and
+    called rain, smoke, clouds, sky, beasts, and trees cousins.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a general statement, not as a specific myth
+    episode.
+- id: motif:6
+  label: Camp-fire and tree-shade oral storytelling
+  taxonomy_refs: []
+  basis: The passage refers to stories Australian natives tell by the camp-fire or
+    in gum-tree shade.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a storytelling setting rather than a narrative motif within one
+    tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously suggests that intricate marriage taboos and regulations
+    may help explain less complicated prohibitions in a less antique form of totemism.
+  claim_level: same_function
+  target: totemic prohibition and marriage-regulation patterns
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage itself frames the idea speculatively with “may”; it gives
+    no examples of the taboos or of the compared totemic systems.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 230-290; Introduction, opening paragraph on Australia’s antiquity
+    and material traces
+  quote_or_summary: Australia is described as novel yet ancient, with distinctive
+    plants and animals, sparse streams and deserts, and absence of pottery, cave pictures,
+    ruined palaces, cities, inscriptions, or agriculture.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 230-290; paragraph beginning “The manners and rites of the natives”
+  quote_or_summary: The passage says there were no temples, divine images, or sacrificial
+    altars; worship was in hymns to a vague deity or First Maker; spirits were known
+    and feared; sympathetic magic is mentioned.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 230-290; discussion of custom, marriage rules, and tools
+  quote_or_summary: Custom is called king; marriage customs and taboos are described
+    as intricate; boomerang, weet-weet, throwing stick, and message stick are listed,
+    with absences of bow, sword, and hieroglyphs.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 230-290; sentence on kinship with nature
+  quote_or_summary: "“called cousins with rain and smoke, with clouds and sky, as
+    well as with beasts and trees.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; supplied passage; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 230-290; closing sentences on Bora, myths, and stories
+  quote_or_summary: The passage mentions Bora mysteries, initiatory rites, magic,
+    social customs, fragments of myths, and stories told by the camp-fire or in gum-tree
+    shade; it says Parker’s book supplied more of these stories.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is clear introductory prose, but it is not a myth narrative.
+    Motif candidates are broad cultural or ritual patterns rather than episode-level
+    motifs. The only comparison claim retained is explicitly speculative in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All extracted items are based only on the supplied passage and metadata. Taxonomy references are used only where the passage explicitly supports available symbol or motif-family labels.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-australian-legendary-tales-parker-gutenberg__l230-l290
+  passage_sha256=301fbc4f148dc54632dcdf4d622140fca5e18013bf33aaaf6b1fce37d7383f49
+

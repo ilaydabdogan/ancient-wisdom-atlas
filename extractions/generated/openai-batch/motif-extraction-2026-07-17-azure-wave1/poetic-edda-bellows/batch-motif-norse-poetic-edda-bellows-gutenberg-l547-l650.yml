@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l547-l650
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: THE ORIGIN OF THE EDDIC POEMS / THE EDDA AND OLD NORSE LITERATURE / PRESERVATION
+    OF THE EDDIC POEMS / THE VERSE-FORMS OF THE EDDIC POEMS; lines 547-650
+  start: '547'
+  end: '650'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A prose discussion of three Eddic verse-forms—Fornyrthislag, Ljothahattr,
+    and Malahattr—explains their stanza structures, accent patterns, caesural pauses,
+    and initial rhyme. It gives Old Norse examples and English translations, including
+    short sample scenes involving Vingthor missing his hammer, a proverbial contrast
+    between early action and idleness, and a wise woman who understands secret speech
+    but cannot help.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies three Eddic verse-forms and states that these forms
+    normally group lines in four-line stanzas.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fornyrthislag is described as having lines divided by a caesural pause into
+    two half-lines, with accented and unaccented syllables and initial-rhyme binding
+    the half-lines.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ljothahattr is described as having first and third lines like Fornyrthislag,
+    while the second and fourth lines are shorter, lack a caesural pause, and have
+    three accented syllables.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Malahattr is described as a younger verse-form in which each four-line stanza
+    line is divided by a caesural pause, with initial rhyme as in Fornyrthislag.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In the translated Fornyrthislag sample, Vingthor wakes, misses his hammer,
+    shakes his beard, has bristling hair, and begins groping; he is called the son
+    of Jorth.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: In the translated Ljothahattr sample, a person who wants another's blood or
+    goods must go forth early, while an idle wolf and a sleeping man gain little.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: In the translated Malahattr sample, a wise woman wants to use wisdom, understands
+    what is said in secret, cannot see how to help, and is excluded from a sea journey
+    others must take.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: The passage says poems in Fornyrthislag are normally titled with -kvitha and
+    rendered here as “lay,” while poems in Ljothahattr are titled with -mol and rendered
+    as “ballad.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The translator states an effort to preserve Eddic verse effects by retaining
+    stanza and line counts, accented syllables, and generally two initial-rhymed accented
+    syllables per line, while allowing freedom with unaccented syllables.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vingthor
+  description: A named figure in the Fornyrthislag sample who wakes, misses a mighty
+    hammer, shakes his beard, has bristling hair, and begins groping.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Jorth
+  description: A named figure mentioned only through the phrase identifying Vingthor
+    as the son of Jorth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: unnamed early-goer
+  description: A generic person in the Ljothahattr sample who must go forth early
+    if he wants another's blood or goods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: wolf
+  description: A wolf in the Ljothahattr sample that lies idle and wins little meat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: sleeping man
+  description: A man in the Ljothahattr sample whose sleeping is associated with little
+    success.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: wise woman
+  description: A woman in the Malahattr sample who is wise, wants to use wisdom, understands
+    secret speech, and cannot see how to help.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: awakened figure missing a hammer
+  assigned_to:
+  - fig:1
+  basis: Vingthor wakes, misses his mighty hammer, and begins groping.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: named parent in epithet
+  assigned_to:
+  - fig:2
+  basis: Vingthor is identified as the son of Jorth.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: seeker of another's blood or goods
+  assigned_to:
+  - fig:3
+  basis: The sample says one who wants another's blood or goods must go forth early.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: idle animal exemplum
+  assigned_to:
+  - fig:4
+  basis: The wolf that lies idle is said to win little meat.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: sleeping human exemplum
+  assigned_to:
+  - fig:5
+  basis: The sleeping man is said to gain little success.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: wise but unable helper
+  assigned_to:
+  - fig:6
+  basis: The woman is called wise, wants to use wisdom, understands secret speech,
+    yet cannot see how to render help.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: hammer
+  literal_form: The mighty hammer missed by Vingthor.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: blood or goods
+  literal_form: The blood or goods of another sought by the unnamed early-goer.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: wolf
+  literal_form: The wolf that lies idle and wins little meat.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: sea
+  literal_form: The sea that others should sail while the woman should not go.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Vingthor wakes and misses the hammer
+  summary: A translated Fornyrthislag example presents Vingthor waking in agitation,
+    missing his hammer, shaking his beard, bristling, and groping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:2
+  label: Early action contrasted with idleness
+  summary: A translated Ljothahattr example says one seeking another's blood or goods
+    must go forth early, while an idle wolf and sleeping man gain little.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+- id: scene:3
+  label: Wise woman unable to help
+  summary: A translated Malahattr example describes a wise woman who understands secret
+    words but does not know how to help; others must sail the sea while she does not
+    go.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: missing hammer and searching action
+  taxonomy_refs: []
+  basis: The translated Fornyrthislag sample centers on Vingthor waking, finding his
+    hammer missing, and beginning to grope for it.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage provides this as a metrical example only and gives no wider
+    narrative context or cause for the missing hammer.
+- id: motif:2
+  label: wisdom unable to render help
+  taxonomy_refs:
+  - wisdom
+  basis: The translated Malahattr sample explicitly describes a wise woman who wants
+    to use wisdom and understands secret speech, but cannot see how to help.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The excerpt is only a short illustrative stanza; the surrounding story
+    and mythic function are not supplied.
+- id: motif:3
+  label: idleness prevents gain
+  taxonomy_refs: []
+  basis: The translated Ljothahattr sample contrasts early going-forth with an idle
+    wolf and a sleeping man who gain little meat or success.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This appears as a proverbial pattern in a verse-form example rather than
+    as a developed mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 547-563, Fornyrthislag description
+  quote_or_summary: The passage introduces three Eddic verse-forms, says they normally
+    use four-line stanzas, and describes Fornyrthislag line division, accents, unaccented
+    syllables, and initial-rhyme.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 564-568, Old Norse Fornyrthislag example
+  quote_or_summary: The Old Norse Fornyrthislag example includes Vingthor awakening,
+    missing his hammer, shaking his beard, and being identified with Jorth's son.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 569-580, Ljothahattr description and Old Norse example
+  quote_or_summary: The passage describes Ljothahattr as having alternating longer
+    and shorter lines, then gives an example about going forth for another's blood
+    or goods and the idle wolf or sleeping man gaining little.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 582-592, Malahattr description and Old Norse example
+  quote_or_summary: The passage describes Malahattr as a younger form with caesural
+    division and initial rhyme, then gives an example concerning a wise housewife
+    or woman, secret speech, help, and sailing the sea.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 594-599, poem-title terminology
+  quote_or_summary: The passage explains that Fornyrthislag poems are normally titled
+    with -kvitha and rendered as lay, while Ljothahattr poems are titled with -mol
+    and rendered as ballad; it says the distinction appears mainly metrical here.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 601-619, translation method
+  quote_or_summary: The translator explains efforts to preserve Eddic verse effects
+    by retaining line and stanza counts, accented syllables, and initial rhyme while
+    allowing flexibility in unaccented syllables and some consonant-rhyme rules.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 621-626, translated Fornyrthislag sample
+  quote_or_summary: The translated sample says Vingthor was wild when he awoke, missed
+    his mighty hammer, shook his beard, had bristling hair, and that the son of Jorth
+    began groping.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 628-633, translated Ljothahattr sample
+  quote_or_summary: The translated sample says one who wants another's blood or goods
+    must go forth early; an idle wolf wins little meat, and a sleeping man wins little
+    success.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 635-640, translated Malahattr sample
+  quote_or_summary: The translated sample says a wise woman wanted to use wisdom,
+    understood what was said in secret, could not see how to help, and that others
+    should sail the sea while she should not go.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Formal verse information is explicit. Motif candidates are based only on
+    brief illustrative translated stanzas, not full narrative context. No passage-supported
+    comparative mythology claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This passage is primarily a metrical and translation-method discussion. Figures, symbols, scenes, and motif candidates are extracted only from the short verse examples included in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l547-l650
+  passage_sha256=67914d1f96f4e4f029024c2cf594c5450fb17e33b39e6a1ac2277b3ce3329182
+

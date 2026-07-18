@@ -1,0 +1,588 @@
+---
+record_id: batch.motif.biblical-job-kjv-gutenberg-l1173-l1334
+source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+passage_locator:
+  label: 'The Bible, King James Version, Book 18: Job / Book 18        Job; lines
+    1173-1334'
+  start: '1173'
+  end: '1334'
+  translation: 'The Bible, King James Version, Book 18: Job'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage moves from a speech describing the downfall of wicked or hypocritical
+    people, to Job's reply against his comforters, his description of affliction,
+    his appeal for a heavenly witness and a pleader with God, his expectation of the
+    grave, and Bildad's renewed claim that the wicked person's light will be extinguished.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male figure is depicted charging against another, even against the neck
+    and the thick bosses of bucklers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes wicked or hypocritical people losing wealth, failing
+    to continue their substance, dwelling in desolate houses, and remaining in darkness.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Flame, fire, branches, vine, grape, flower, and olive imagery is used in descriptions
+    of failed continuation and desolation.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Job answers and calls his companions miserable comforters; he says that if
+    their positions were reversed he would strengthen and assuage them rather than
+    heap words against them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Job says that neither speaking nor silence eases his grief, and he describes
+    himself as weary, desolate, wrinkled, and lean.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'Job describes hostile attack imagery: tearing, gnashing teeth, sharpened
+    eyes, gaping mouths, smiting on the cheek, being delivered to the ungodly, broken,
+    surrounded by archers, and attacked like a giant.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Job says he has sewn sackcloth on his skin, defiled his horn in the dust,
+    wept until his face is foul, and has the shadow of death on his eyelids, while
+    also claiming no injustice in his hands and pure prayer.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Job addresses the earth not to cover his blood or suppress his cry, says his
+    witness is in heaven and his record on high, and wishes that someone might plead
+    for a man with God.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Job expects to go on a way from which he will not return and later says his
+    breath is corrupt, his days are extinct, and graves are ready for him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: Job reports the presence of mockers, asks for surety, says he has been made
+    a byword, and describes his eye as dim and his members as a shadow.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Job says his days and purposes are broken, that the grave is his house and
+    his bed is in darkness, and that corruption and the worm are like close kin to
+    him.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Bildad the Shuhite answers, asks when words will end, objects that he and
+    others are counted as beasts or vile, and says the light, spark, and candle of
+    the wicked will be put out.
+  category: speech
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Job
+  description: The speaker who answers, rebukes his comforters, laments his condition,
+    claims innocence, and speaks of the grave.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Job's friends or comforters
+  description: The companions whom Job calls miserable comforters and later describes
+    as scorners or mockers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: God
+  description: The divine figure to whom Job refers when he says God delivered him
+    to the ungodly and to whom Job directs tears and a desired legal plea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: The wicked, hypocrites, deceived, and bribers
+  description: A generalized group or type described as losing wealth, dwelling in
+    desolation, receiving vanity, and having light or fire extinguished.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: fig:5
+  name_or_label: Job's heavenly witness and high record
+  description: An unnamed witness in heaven and record on high that Job invokes in
+    his speech.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Desired pleader with God
+  description: An unnamed hypothetical figure Job wishes might plead for a man with
+    God as one pleads for a neighbor.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Bildad the Shuhite
+  description: The named respondent who answers after Job and speaks about the wicked
+    person's extinguished light.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: fig:8
+  name_or_label: Upright, innocent, righteous, and clean-handed people
+  description: A group described as astonished, stirred against the hypocrite, continuing
+    on their way, and becoming stronger.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: lamenting sufferer
+  assigned_to:
+  - fig:1
+  basis: Job describes grief, physical decline, mockery, and expectation of the grave.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:2
+  label: failed comforters and scorners
+  assigned_to:
+  - fig:2
+  basis: Job calls them miserable comforters, says his friends scorn him, and refers
+    to mockers and their provocation.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:3
+  label: divine addressee and agent in Job's complaint
+  assigned_to:
+  - fig:3
+  basis: Job says God delivered him to the ungodly and wishes for someone to plead
+    for a man with God.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: claimant of innocence
+  assigned_to:
+  - fig:1
+  basis: Job says there is no injustice in his hands and that his prayer is pure.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: condemned wrongdoers
+  assigned_to:
+  - fig:4
+  basis: The passage describes hypocrites, bribery, deceit, and the wicked whose light
+    will be put out.
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: role:6
+  label: heavenly witness or record
+  assigned_to:
+  - fig:5
+  basis: Job states that his witness is in heaven and his record is on high.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: desired legal pleader
+  assigned_to:
+  - fig:6
+  basis: Job wishes that one might plead for a man with God as one pleads for a neighbor.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: disputing respondent
+  assigned_to:
+  - fig:7
+  basis: Bildad answers Job, objects to being counted as vile, and makes a statement
+    about the wicked.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:9
+  label: righteous observers and persevering righteous
+  assigned_to:
+  - fig:8
+  basis: The upright are astonished, the innocent stir against the hypocrite, and
+    the righteous and clean-handed continue and grow stronger.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire and extinguished flame
+  literal_form: flame, fire, spark, and candle
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: sym:2
+  label: darkness and failed light
+  literal_form: darkness, dark tabernacle, light put out
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:11
+- id: sym:3
+  label: cut-off plant growth
+  literal_form: branches dried by flame, unripe grape, vine, flower, olive
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: grave, pit, and dust
+  literal_form: graves, grave as house and bed, bars of the pit, dust
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:5
+  label: mourning and abasement objects
+  literal_form: sackcloth, horn, and dust
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: uncovered blood and cry
+  literal_form: blood, cry, and earth addressed not to cover them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: heavenly witness and high record
+  literal_form: witness in heaven and record on high
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: kinship with decay
+  literal_form: corruption called father; worm called mother and sister
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Downfall of the wicked and hypocritical
+  summary: A generalized wrongdoer or group is described as charging against an opponent,
+    living in desolation, losing wealth and continuation, being associated with darkness,
+    withered plant growth, fire, vanity, and deceit.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Job rebukes the comforters
+  summary: Job answers his companions, calls them miserable comforters, and contrasts
+    their words with the strengthening speech he says he would offer them if roles
+    were reversed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Job describes affliction as attack
+  summary: Job says his grief is not relieved, describes desolation and bodily signs,
+    and presents his condition through imagery of tearing, smiting, archers, brokenness,
+    and attack.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Job appeals for witness and pleading
+  summary: Job asks the earth not to cover his blood or cry, invokes a witness in
+    heaven and a record on high, weeps toward God, and wishes for someone to plead
+    for a man with God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Job anticipates the grave
+  summary: Job describes corrupt breath, extinct days, graves ready for him, mockers
+    nearby, loss of purpose and hope, the grave as house and bed, kinship with corruption
+    and worms, and descent to the bars of the pit and dust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: scene:6
+  label: Righteous response and rejected wisdom
+  summary: Job says upright and innocent people will respond against the hypocrite
+    and the righteous will persist, while telling his companions that he cannot find
+    one wise man among them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Bildad's reply about the wicked person's light
+  summary: Bildad answers, asks for an end to words, objects to being treated as beastlike
+    or vile, and states that the light, spark, and candle of the wicked will be extinguished
+    and the tabernacle made dark.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Retributive downfall of the wicked through darkness, fire, and loss
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes hypocrites, bribery, deceit, and wicked people as losing
+    prosperity, being consumed or dried by fire, and having their light extinguished.
+  evidence_refs:
+  - ev:1
+  - ev:11
+  confidence: medium
+  cautions: The passage states the fate of wicked people but does not explicitly name
+    a divine judge in these specific sayings.
+- id: motif:2
+  label: Suffering speaker protests innocence against accusatory comforters
+  taxonomy_refs:
+  - wisdom
+  basis: Job rebukes his comforters, laments unrelieved grief and hostile treatment,
+    and claims clean hands and pure prayer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level wisdom-dispute pattern rather than a discrete
+    mythic episode.
+- id: motif:3
+  label: Appeal to a heavenly witness and desired pleader before God
+  taxonomy_refs:
+  - wisdom
+  basis: Job invokes a witness in heaven and a record on high, while wishing that
+    someone might plead for a man with God.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The witness and pleader are not identified by name in the passage.
+- id: motif:4
+  label: Movement toward the grave as a one-way path and dark dwelling
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Job expects to go the way from which he will not return, describes graves
+    as ready, makes the grave his house and bed in darkness, and speaks of descent
+    to the bars of the pit and rest in dust.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The passage gives death and grave imagery but not a detailed map of an
+    afterlife journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18:015:026-18:015:035
+  quote_or_summary: A wrongdoer is described as charging against an opponent's neck
+    and bucklers, living in desolate houses, losing wealth and continuation, remaining
+    in darkness, having branches dried by flame, and belonging to a hypocritical or
+    bribery-associated group consumed by fire and filled with vanity and deceit.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:2
+  type: summary
+  locator: 18:016:001-18:016:005
+  quote_or_summary: Job answers, calls his companions miserable comforters, says he
+    could heap words against them if roles were reversed, but says he would instead
+    strengthen them and assuage grief.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:3
+  type: summary
+  locator: 18:016:006-18:016:008
+  quote_or_summary: Job says neither speech nor silence relieves his grief; he says
+    he has been made weary, his company desolate, and his wrinkles and leanness witness
+    against him.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:4
+  type: summary
+  locator: 18:016:009-18:016:014
+  quote_or_summary: Job describes being torn, gnashed at, stared at, struck, surrounded,
+    delivered to the ungodly, broken, set as a mark, encircled by archers, and attacked
+    like a giant.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:5
+  type: summary
+  locator: 18:016:015-18:016:017
+  quote_or_summary: Job says he sewed sackcloth on his skin, defiled his horn in dust,
+    wept, bears the shadow of death on his eyelids, and yet has no injustice in his
+    hands and pure prayer.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:6
+  type: summary
+  locator: 18:016:018-18:016:022
+  quote_or_summary: Job asks earth not to cover his blood or cry, says his witness
+    is in heaven and record on high, says his friends scorn him while he weeps to
+    God, wishes for someone to plead for a man with God, and expects a way of no return.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:7
+  type: summary
+  locator: 18:017:001-18:017:007
+  quote_or_summary: Job says his breath is corrupt, his days extinct, graves ready,
+    mockers present, and that he has been made a byword; his eye is dim and his members
+    are like a shadow.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:8
+  type: summary
+  locator: 18:017:008-18:017:010
+  quote_or_summary: Job says upright people will be astonished, the innocent will
+    stir against the hypocrite, the righteous and clean-handed will strengthen, and
+    he cannot find a wise man among his companions.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:9
+  type: summary
+  locator: 18:017:011-18:017:016
+  quote_or_summary: Job says his days and purposes are past, night and day are confused,
+    the grave is his house and bed in darkness, corruption is like father and the
+    worm like mother and sister, and hope goes down to the bars of the pit and dust.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:10
+  type: summary
+  locator: 18:018:001-18:018:004
+  quote_or_summary: Bildad the Shuhite answers, asks when words will end, complains
+    that he and others are counted as beasts or vile, and asks whether the earth should
+    be forsaken or the rock moved.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+- id: ev:11
+  type: summary
+  locator: 18:018:005-18:018:006
+  quote_or_summary: Bildad says the light of the wicked will be put out, the spark
+    of his fire will not shine, his tabernacle will be dark, and his candle will be
+    put out with him.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/job-kjv.md
+  rights_note: Public domain KJV; source metadata rights_status=public_domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied KJV passage. Motif assignments
+    are cautious because several are wisdom-discourse patterns rather than fully narrated
+    mythic episodes. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage text, metadata, and available taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-job-kjv-gutenberg__l1173-l1334
+  passage_sha256=5e7a70a66d6b6270af7d37556ad8b00b6d9517afdf95131df3b182e6b73273d7
+

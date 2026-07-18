@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l1779-l1828
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 1779-1828
+  start: '1779'
+  end: '1828'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes non-idolatrous religious influences among Arabian
+    peoples before Mohammed: Magian religion introduced by Persians, Jewish migration
+    and proselytism, Dhu Nows''s persecution using a pit of fire, Christian migration
+    and tribal conversion, and an open public disputation between Christian and Jewish
+    representatives before a ruler and audience.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Persians, through vicinity and frequent intercourse with Arabians, are said
+    to have introduced the Magian religion among some Arabian tribes, especially Tamim.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Mohammed knew the Magian religion and borrowed many
+    of his institutions from it, according to the author.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jews fled in large numbers into Arabia after Roman destruction of their country
+    and made proselytes of several tribes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Abu Carb Asad, king of Yaman, is said to have introduced Judaism among the
+    idolatrous Hamyarites.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Yusef, surnamed Dhu Nows, is described as zealous and as persecuting those
+    who would not become Jews.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One common torture attributed to Dhu Nows was throwing victims into a glowing
+    pit of fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says the persecution by Dhu Nows is also mentioned in the Koran.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Christianity is described as having made great progress among Arabian peoples
+    before Mohammed.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says it is uncertain whether St. Paul preached in Arabia properly
+    so called.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Persecutions and disorders in the eastern church led many Christians to seek
+    shelter in Arabia.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Jews of Hamyar challenged neighboring Christians to a public disputation held
+    outdoors for three days before the king, nobility, and people.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Gregentius represented the Christians in the disputation, and Herbanus represented
+    the Jews.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Persians
+  description: A neighboring people said to have introduced Magian religion among
+    some Arabian tribes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arabian tribes
+  description: Arabian peoples among whom Magian, Jewish, and Christian religions
+    are described as spreading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Jews in Arabia
+  description: People said to have fled into Arabia, made proselytes, and become powerful
+    there.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Abu Carb Asad
+  description: King of Yaman, said to have introduced Judaism among the Hamyarites.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Yusef / Dhu Nows
+  description: A successor who embraced Judaism and is described as a persecutor called
+    the Lord of the Pit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: People who would not turn Jews
+  description: Persons persecuted by Dhu Nows and put to death by tortures, including
+    the glowing pit of fire.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Christians in Arabia
+  description: Christians who sought shelter in Arabia and whose religion spread among
+    several tribes and places.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: St. Paul
+  description: Named in an uncertain statement about whether he preached in Arabia
+    properly so called.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Gregentius
+  description: Bishop of Tephra, identified as the Christian disputant.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Herbanus
+  description: Identified as the Jewish disputant.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: King, nobility, and people
+  description: Audience before whom the public disputation was held.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: religious transmitters
+  assigned_to:
+  - fig:1
+  basis: The Persians are said to have introduced the Magian religion among some Arabian
+    tribes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipients of religious influence
+  assigned_to:
+  - fig:2
+  basis: Arabian tribes are described as receiving Magian, Jewish, and Christian religious
+    influence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: migrant proselytizers
+  assigned_to:
+  - fig:3
+  basis: Jews are described as fleeing into Arabia and making proselytes among tribes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: royal introducer of religion
+  assigned_to:
+  - fig:4
+  basis: Abu Carb Asad is said to have introduced Judaism among the Hamyarites.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: persecuting ruler
+  assigned_to:
+  - fig:5
+  basis: Dhu Nows is described as putting to death those who would not become Jews.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: persecuted victims
+  assigned_to:
+  - fig:6
+  basis: They are described as refusing conversion and being put to death by tortures.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: refuge seekers and converts
+  assigned_to:
+  - fig:7
+  basis: Christians are described as seeking shelter in Arabia, and Christianity is
+    described as spreading among tribes and places.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: uncertain preacher in Arabia
+  assigned_to:
+  - fig:8
+  basis: The passage says it is uncertain whether St. Paul preached in Arabia properly
+    so called.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: religious disputants
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Gregentius and Herbanus are named as representatives in the public disputation.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: public audience and ruling witnesses
+  assigned_to:
+  - fig:11
+  basis: The disputation is said to have occurred before the king, nobility, and all
+    the people.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pit of fire
+  literal_form: glowing pit of fire
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Magian religion enters some Arabian tribes
+  summary: Persians, through proximity and intercourse, are said to have introduced
+    Magian religion among some Arabian tribes, especially Tamim.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jewish migration and proselytism in Arabia
+  summary: Jews flee into Arabia, make proselytes among several tribes, and become
+    powerful in towns and fortresses; Abu Carb Asad is said to introduce Judaism among
+    Hamyarites.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dhu Nows persecutes non-converts
+  summary: Dhu Nows is described as persecuting those who would not become Jews, putting
+    them to death by tortures including a glowing pit of fire.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Christian refuge and expansion in Arabia
+  summary: Persecutions and disorders in the eastern church cause many Christians
+    to seek shelter in Arabia, and Christian communities or tribes are listed as present
+    there.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Public disputation between Jews and Christians
+  summary: Jews of Hamyar challenge neighboring Christians to a three-day public disputation
+    outdoors before the king, nobility, and people, with Gregentius and Herbanus as
+    disputants.
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: persecution by fiery pit
+  taxonomy_refs: []
+  basis: The passage describes Dhu Nows putting non-converts to death by throwing
+    them into a glowing pit of fire and receiving the title Lord of the Pit.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as historical-religious discourse rather than
+    a fully narrated mythic episode.
+- id: motif:2
+  label: religious migration to refuge after destruction or persecution
+  taxonomy_refs:
+  - departure
+  basis: Jews are said to flee into Arabia after Roman destruction of their country,
+    and Christians are said to seek shelter in Arabia because of church persecutions
+    and disorders.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage describes historical migrations
+    rather than a mythic hero departure.
+- id: motif:3
+  label: public religious contest before a ruler
+  taxonomy_refs: []
+  basis: The Jews of Hamyar challenge neighboring Christians to a public disputation
+    held for three days before the king, nobility, and people.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The episode is truncated in the provided passage, so the outcome and full
+    narrative function are unavailable.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies Dhu Nows's persecution by the pit of fire as an episode
+    also mentioned in the Koran.
+  claim_level: same_motif
+  target: Koran chapter 85 reference to the persecution associated with the pit
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the source author's identification; the passage does not quote
+    or summarize the Koranic account beyond the reference.
+- id: claim:2
+  claim: The passage asserts historical contact and borrowing between Magian religion
+    and some of Mohammed's institutions.
+  claim_level: historical_contact
+  target: Magian religious practices and Mohammed's institutions
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives no specific borrowed institutions in this excerpt
+    and reflects the translator-commentator's claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1783-1791
+  quote_or_summary: Persians, through vicinity and frequent intercourse with Arabians,
+    introduced Magian religion among some tribes, especially Tamim; the author says
+    Mohammed knew that religion and borrowed institutions from it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1792-1800
+  quote_or_summary: Jews fled into Arabia after Roman destruction, made proselytes
+    of tribes, became powerful, and Abu Carb Asad is said to have introduced Judaism
+    among the Hamyarites.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1800-1805
+  quote_or_summary: Dhu Nows persecuted those who would not turn Jews, including by
+    "throwing them into a glowing pit of fire"; the passage says this persecution
+    is also mentioned in the Koran.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 1806-1815
+  quote_or_summary: Christianity had made progress among Arabian peoples before Mohammed;
+    St. Paul's preaching in Arabia is uncertain; eastern church persecutions and disorders
+    caused many Christians to seek shelter there, mostly Jacobites.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1815-1821
+  quote_or_summary: The passage lists Christian tribes and communities, including
+    Najran and Hira, and says Najran Christians emerged in the time of Dhu Nows, perhaps
+    through a conversion occasion described next.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1821-1828
+  quote_or_summary: Jews of Hamyar challenged neighboring Christians to a three-day
+    public disputation outdoors before the king, nobility, and people; Gregentius
+    represented the Christians and Herbanus the Jews.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a historical preliminary discourse with some narrative elements.
+    Motif extraction is strongest for the pit of fire and public disputation; broader
+    migration and borrowing patterns require caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote bibliographic details were not treated as independent narrative evidence.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l1779-l1828
+  passage_sha256=4358f7708ca065b504fd179f41c5c60662ab09426d5324ec9feb6f1d3be00cf0
+

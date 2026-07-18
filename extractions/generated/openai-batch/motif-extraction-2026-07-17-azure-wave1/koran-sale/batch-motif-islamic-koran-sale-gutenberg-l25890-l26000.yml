@@ -1,0 +1,653 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l25890-l26000
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXIII. / ENTITLED, THE TRUE
+    BELIEVERS; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 25890-26000
+  start: '25890'
+  end: '26000'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the qualities and reward of true believers, God's
+    creation of humankind and promise of resurrection, the heavens and earthly provisions,
+    and the Noah ark episode. It then recounts a later apostle rejected by an affluent
+    people who deny resurrection and are punished.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: True believers are described as humble in prayer, avoiding vain discourse,
+    giving alms, practicing sexual restraint, keeping trust and covenant, observing
+    prayer times, and inheriting paradise forever.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is said to create man from clay, then as seed in a sure receptacle, then
+    through coagulated blood, flesh, bones, and flesh-clothed bones into another creation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Humans are said to die and then be restored to life on the day of resurrection.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God is said to have created seven heavens over humankind.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God sends measured rain from heaven, causes it to remain on earth, and can
+    deprive people of it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gardens of palm trees and vineyards grow by means of the rain, and a tree
+    from Mount Sinai produces oil and a sauce for eating.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Cattle provide milk, other advantages, and food, and people are carried on
+    animals and ships.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Noah is sent to his people and tells them to serve God alone.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Unbelieving chiefs reject Noah as only a man, accuse him of seeking superiority,
+    and call him frenzied; Noah asks the Lord for protection because they accuse him
+    of falsehood.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: God reveals instructions to Noah to make the ark, and when the oven boils
+    and pours forth water Noah is to carry animal pairs and his family except those
+    already sentenced to destruction.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Noah is told not to intercede for the unjust, because they will be drowned.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: When Noah and those with him enter the ark, he is to praise God for deliverance
+    and ask for a blessed descent from the ark.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: A later generation receives an apostle who calls them to worship God; affluent
+    unbelieving chiefs deny the meeting of the life to come and deny resurrection
+    from graves.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: After the later apostle asks for defense, severe punishment is inflicted,
+    and the people are rendered like refuse carried down by a stream.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The merciful God addressed as creator, provider, revealer, deliverer,
+    and judge in the passage.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: True believers
+  description: People characterized by prayer, alms, restraint, covenant-keeping,
+    and inheritance of paradise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Man / humankind
+  description: Human beings described as created in stages, mortal, and subject to
+    resurrection.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Noah
+  description: Messenger sent to his people, accused by unbelievers, protected by
+    God, and instructed to build and enter the ark.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Noah's people and chiefs
+  description: The people and chiefs who reject Noah's message and are associated
+    with the drowning judgment.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Noah's family and animal pairs
+  description: Those to be carried into the ark, except family members already sentenced
+    to destruction; each animal species is represented by one pair.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Later apostle
+  description: An unnamed apostle sent among a later generation, calling them to worship
+    God and asking God for defense after accusation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Later unbelieving chiefs and people
+  description: Affluent unbelieving chiefs and their people who deny the life to come
+    and resurrection and then receive punishment.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: Heirs of paradise
+  assigned_to:
+  - fig:2
+  basis: The passage says the true believers shall inherit paradise and remain there
+    forever.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Creator and restorer to life
+  assigned_to:
+  - fig:1
+  basis: God creates man in stages and promises restoration to life on the day of
+    resurrection.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Provider of natural sustenance and conveyance
+  assigned_to:
+  - fig:1
+  basis: God sends rain, produces gardens and a tree with oil, provides milk through
+    cattle, and mentions carriage on animals and ships.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Revealer and deliverer in the ark episode
+  assigned_to:
+  - fig:1
+  basis: God reveals ark instructions to Noah and is praised as delivering the ark
+    occupants from an ungodly people.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: Sent warning messenger
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: Noah and the later apostle are each sent to their people and call them to
+    worship God alone.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: Rejecting accusers of messengers
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The chiefs reject the messengers, accuse them, and refuse belief.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:7
+  label: Preserved ark occupants
+  assigned_to:
+  - fig:6
+  basis: Noah is told to carry animal pairs and his family into the ark, except those
+    under a prior sentence of destruction.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: Recipients of punitive judgment
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The unjust in Noah's episode are to be drowned, and the later rejecting people
+    receive severe punishment.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:9
+  label: Created mortal and resurrection subject
+  assigned_to:
+  - fig:3
+  basis: Humankind is created in bodily stages, dies, and is restored to life; the
+    later disputants discuss dead bodies becoming dust and bones.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:10
+  label: Divine judge
+  assigned_to:
+  - fig:1
+  basis: God rewards believers with paradise, sentences the unjust to drowning, and
+    inflicts punishment on later unbelievers.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+symbols:
+- id: sym:1
+  label: Paradise inheritance
+  literal_form: Paradise inherited forever by true believers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Clay and bodily formation stages
+  literal_form: Clay, seed, sure receptacle, coagulated blood, flesh, bones, and bones
+    clothed with flesh
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Seven heavens
+  literal_form: Seven heavens, with a note explaining the phrase as literally seven
+    paths
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Measured rain
+  literal_form: Rain sent down from heaven by measure and made to remain on earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Mount Sinai tree
+  literal_form: A tree springing from Mount Sinai that produces oil and sauce; the
+    note identifies it as the olive
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Milk in cattle
+  literal_form: Milk in the bellies of cattle, given for people to drink
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Animal and ship conveyance
+  literal_form: Cattle or animals and ships on which people are carried
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Ark
+  literal_form: The ark made by Noah in God's sight and according to revelation
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:9
+  label: Boiling oven water
+  literal_form: The oven boiling and pouring forth water when the decree is executed
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: Animal pairs
+  literal_form: One pair of every species of animals carried into the ark
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - survivor_pair
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: Dust, bones, and graves
+  literal_form: The dead becoming dust and bones and being brought forth alive from
+    graves
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - resurrection
+  evidence_refs:
+  - ev:8
+- id: sym:12
+  label: Refuse carried by a stream
+  literal_form: The punished people rendered like refuse carried down by a stream
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  - divine_judgment
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: True believers and paradise
+  summary: The passage lists traits of true believers and states that they inherit
+    paradise forever.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation, resurrection, heavens, and provision
+  summary: God creates humankind in stages, declares death and resurrection, creates
+    the heavens, sends rain, and provides gardens, a Mount Sinai tree, cattle milk,
+    and conveyance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Noah's mission and rejection
+  summary: Noah calls his people to serve God alone; the unbelieving chiefs dismiss
+    him as a man seeking superiority and as frenzied, and Noah asks the Lord for protection.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Ark command, flood danger, and descent
+  summary: God commands Noah to build the ark, bring animal pairs and permitted family
+    members aboard when water pours forth, and praise God for deliverance before asking
+    for a blessed descent.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Later denial of resurrection and punishment
+  summary: A later apostle calls a generation to worship God; affluent unbelievers
+    deny resurrection and the life to come, after which severe punishment renders
+    them like refuse in a stream.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Covenant fidelity and ritual conduct rewarded with paradise
+  taxonomy_refs:
+  - covenant
+  - divine_judgment
+  basis: The believers keep trust and covenant, observe prayer, give alms, and are
+    declared heirs of paradise.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage mentions covenant behavior but does not narrate a formal covenant-making
+    event.
+- id: motif:2
+  label: Human creation followed by death and resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: Humankind is created in bodily stages, then death and restoration to life
+    on the day of resurrection are stated.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The creation sequence is described literally in this passage; broader
+    creation-myth classification is not assigned from the available taxonomy.
+- id: motif:3
+  label: Divine provision through water, plant abundance, milk, and transport
+  taxonomy_refs: []
+  basis: God sends measured rain, produces gardens and a Mount Sinai tree with oil,
+    gives milk through cattle, and provides animal and ship conveyance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific supplied motif-family label directly matches this provision
+    pattern.
+- id: motif:4
+  label: Divinely instructed ark as rescue vessel
+  taxonomy_refs:
+  - ark_vessel
+  basis: God reveals to Noah how to make the ark and commands him to carry animal
+    pairs and permitted family members aboard.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The ark episode is summarized within a larger exhortative passage rather
+    than narrated with extended detail.
+- id: motif:5
+  label: Flood judgment with preserved pairs and family
+  taxonomy_refs:
+  - flood_and_renewal
+  - survivor_pair
+  - divine_judgment
+  basis: Water pours forth, the unjust are to be drowned, and animal pairs plus permitted
+    family members are preserved in the ark before a blessed descent.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Renewal is only implicit through preservation and subsequent continuation;
+    the preserved pair motif applies explicitly to animal species, not a human survivor
+    couple.
+- id: motif:6
+  label: Rejected apostle and punitive aftermath
+  taxonomy_refs:
+  - divine_judgment
+  basis: The later apostle is rejected by unbelieving chiefs who deny resurrection,
+    and severe punishment follows.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The people and apostle are unnamed in the main passage; footnotes suggest
+    identifications but the extraction keeps the figures generic.
+- id: motif:7
+  label: Denial of resurrection from graves
+  taxonomy_refs:
+  - resurrection
+  basis: The later unbelievers ask whether the dead, after becoming dust and bones,
+    will be brought forth alive from graves, and they reject this claim.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a negative speech about resurrection, not a resurrection event
+    within the scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 25890-26000; opening through internal marker 10
+  quote_or_summary: True believers keep prayer, alms, restraint, trust and covenant;
+    "these shall be the heirs" who inherit paradise forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation and summary.
+- id: ev:2
+  type: summary
+  locator: 25890-26000; after internal marker 10, creation and resurrection section
+  quote_or_summary: God creates man from clay, seed in a sure receptacle, coagulated
+    blood, flesh, bones, and another creation; afterward humans die and are restored
+    on the day of resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25890-26000; heavens, rain, gardens, and Mount Sinai tree section
+  quote_or_summary: God creates seven heavens, sends rain by measure, causes gardens
+    to grow, and raises a tree from Mount Sinai producing oil and sauce; notes identify
+    seven paths and the olive.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 25890-26000; cattle and ships section before Noah narrative
+  quote_or_summary: Cattle provide instruction, milk, advantages, and food; people
+    are carried on animals and on ships.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 25890-26000; Noah narrative opening
+  quote_or_summary: Noah is sent to his people and calls them to serve God alone;
+    unbelieving chiefs call him only a man, accuse him of seeking superiority, and
+    call him frenzied; Noah asks for protection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 25890-26000; Noah ark command and water decree
+  quote_or_summary: God orders Noah to make the ark; when the oven boils and pours
+    water, he is to carry one pair of every animal species and his family except those
+    under destruction, while the unjust are to be drowned.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 25890-26000; internal marker 30, ark praise and descent
+  quote_or_summary: Ark occupants are to say praise to God "who hath delivered us"
+    and ask for "a blessed descent" from the ark.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation and summary.
+- id: ev:8
+  type: summary
+  locator: 25890-26000; later generation and denial of life to come
+  quote_or_summary: Another generation receives an apostle; affluent unbelieving chiefs
+    deny the life to come and ask whether dead people who become dust and bones will
+    be brought alive from graves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 25890-26000; punishment after later apostle's prayer
+  quote_or_summary: The apostle asks the Lord to defend him; severe punishment is
+    inflicted, and the people are made like refuse carried down by a stream; other
+    generations are then raised.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    limited to supported patterns and available taxonomy references. No passage-supported
+    external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnotes included in the supplied passage were treated as part of the source evidence when noted. No external sources or comparisons were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l25890-l26000
+  passage_sha256=de5609ab4090e4fd097848b5410e4d9722a2e75527f0744c96db5565130c1606
+

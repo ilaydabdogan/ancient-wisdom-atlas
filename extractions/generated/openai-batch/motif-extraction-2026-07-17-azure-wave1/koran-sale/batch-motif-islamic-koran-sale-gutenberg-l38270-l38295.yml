@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38270-l38295
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXVI. / ENTITLED, THE STAR
+    WHICH APPEARED BY NIGHT; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL
+    GOD.; lines 38270-38295
+  start: '38270'
+  end: '38295'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Verily God is able to restore him to life,
+  summary: The passage invokes heaven, the night-appearing star, rain, and the opening
+    earth; states that each soul has a guardian; describes human creation from seed;
+    affirms restoration to life and examination of hidden thoughts and actions; describes
+    the discourse as distinguishing good from evil; and tells the prophet to bear
+    with unbelievers while plots are answered by a counterplot.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker invokes heaven and what appears by night, then identifies the
+    night-appearing thing as a star of piercing brightness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Every soul is said to have a guardian set over it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man is instructed to consider what he is created from.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Man is described as created from seed poured forth, issuing from the loins
+    and breastbones.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: God is said to be able to restore man to life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A day is described on which secret thoughts and actions will be examined,
+    and man will have no power to defend himself and no protector.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker invokes the heaven that returns rain and the earth that opens
+    to let forth vegetables and springs.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The discourse is described as distinguishing good from evil and as not composed
+    with lightness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The infidels are described as laying a plot to frustrate the speaker's designs,
+    and the first-person speaker says he will lay a plot for their ruin.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The prophet is told to bear with the unbelievers and leave them alone for
+    a while.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named as able to restore man to life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: man / human being
+  description: Told to consider his origin; described as created from poured seed
+    and later subject to restoration and examination.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: every soul
+  description: Said to have a guardian set over it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: guardian
+  description: A guardian set over every soul.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: infidels / unbelievers
+  description: Described as plotting to frustrate the speaker's designs; also named
+    as those the prophet should bear with for a while.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: prophet
+  description: Addressed directly and told to bear with the unbelievers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: first-person speaker
+  description: Says that infidels plot against 'my designs' and that 'I' will lay
+    a plot for their ruin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: one able to restore to life
+  assigned_to:
+  - fig:1
+  basis: The passage says God is able to restore man to life.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: guarded soul
+  assigned_to:
+  - fig:3
+  basis: Every soul is said to have a guardian set over it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: guardian over each soul
+  assigned_to:
+  - fig:4
+  basis: A guardian is set over every soul.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: created and examined human
+  assigned_to:
+  - fig:2
+  basis: Man is described as created from seed and as subject to restoration and examination.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: plotting opponents
+  assigned_to:
+  - fig:5
+  basis: The infidels are described as laying a plot to frustrate the speaker's designs.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: counterplotting speaker
+  assigned_to:
+  - fig:7
+  basis: The first-person speaker says he will lay a plot for the plotters' ruin.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: addressed prophet
+  assigned_to:
+  - fig:6
+  basis: The prophet is directly told to bear with the unbelievers.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: night-appearing star
+  literal_form: the star of piercing brightness appearing by night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heaven
+  literal_form: heaven invoked in oaths, including heaven that returns rain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: poured seed
+  literal_form: seed poured forth, issuing from the loins and breastbones
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rain and springs
+  literal_form: rain returned by heaven and springs let forth by the opened earth
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: opening earth
+  literal_form: earth opening to let forth vegetables and springs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: day of examination
+  literal_form: the day whereon all secret thoughts and actions shall be examined
+    into
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Heaven and night star oath
+  summary: The passage invokes heaven and the night-appearing phenomenon, identifies
+    it as a bright star, and states that every soul has a guardian.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Human origin, restoration, and examination
+  summary: Man is told to consider his creation from seed; God is said to be able
+    to restore him to life; a day of examination is described when he will have no
+    defender or protector.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Rain, opened earth, and discerning discourse
+  summary: The passage invokes heaven returning rain and earth opening to let forth
+    vegetables and springs, then describes the discourse as distinguishing good from
+    evil.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Plotting and patience command
+  summary: The infidels are said to plot against the speaker's designs; the speaker
+    announces a counterplot; the prophet is told to bear with unbelievers for a while.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cosmic oath by heaven and night star
+  taxonomy_refs: []
+  basis: The passage opens with an oath-like invocation of heaven and the night-appearing
+    star of piercing brightness.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the oath imagery but does not elaborate a narrative
+    role for the star.
+- id: motif:2
+  label: guardian over every soul
+  taxonomy_refs: []
+  basis: Every soul is explicitly said to have a guardian set over it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The guardian is not named or further described in this passage.
+- id: motif:3
+  label: restoration to life after bodily origin
+  taxonomy_refs:
+  - resurrection
+  basis: Human creation from seed is followed by the statement that God is able to
+    restore man to life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states restoration to life but does not describe a detailed
+    afterlife journey.
+- id: motif:4
+  label: examination of hidden deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes a day when secret thoughts and actions are examined
+    and the person has no defense or protector.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify the full procedure or agents of examination.
+- id: motif:5
+  label: revelatory discourse as moral discernment
+  taxonomy_refs:
+  - wisdom
+  basis: The discourse is described as distinguishing good from evil and not being
+    composed with lightness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The link to the wisdom motif family is broad; the passage does not personify
+    wisdom.
+- id: motif:6
+  label: rain and opened earth as renewal imagery
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage pairs heaven returning rain with earth opening to let forth vegetables
+    and springs.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Seasonal recurrence is not explicitly named; the motif label is based
+    only on rain-and-growth imagery.
+- id: motif:7
+  label: counterplot against plotters
+  taxonomy_refs: []
+  basis: The infidels are said to plot against the speaker's designs, and the first-person
+    speaker answers with a plot for their ruin.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not identify the mechanics of the counterplot within
+    this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38276-38280
+  quote_or_summary: The passage invokes heaven and what appears by night, identifies
+    it as the star of piercing brightness, and says every soul has a guardian set
+    over it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 38281-38283
+  quote_or_summary: A man is told to consider his creation; he is described as created
+    from poured seed issuing from the loins and breastbones.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 38284-38286
+  quote_or_summary: God is said to be able to restore man to life; on a day of examination,
+    secret thoughts and actions are examined and man has no defender or protector.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 38287-38290
+  quote_or_summary: The passage invokes heaven returning rain and earth opening to
+    let forth vegetables and springs, then describes the discourse as distinguishing
+    good from evil and not composed lightly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 38291-38293
+  quote_or_summary: The infidels are described as plotting to frustrate the speaker's
+    designs; the first-person speaker announces a counterplot, and the prophet is
+    told to bear with unbelievers for a while.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    involving taxonomy refs are cautious, especially seasonal_cycle and wisdom. No
+    cross-textual comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Footnote letters in the source passage were treated as editorial markers and not separately extracted.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38270-l38295
+  passage_sha256=be15129228591ec8c90610993adc42334f320e634c89d89e4e26bec905d1966d
+

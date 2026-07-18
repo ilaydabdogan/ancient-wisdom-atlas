@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l21171-l21488
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: INTRODUCTORY NOTE / NOTES / PRONOUNCING INDEX OF PROPER NAMES / PRONOUNCING
+    INDEX; lines 21171-21488
+  start: '21171'
+  end: '21488'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A section of the Pronouncing Index lists alphabetized proper names from
+    the Poetic Edda, with brief identifications such as gods, dwarfs, giants, family
+    relations, places, objects, and poem titles, followed by page references.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a pronouncing index made of alphabetized entries with names,
+    brief identifications, and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries identify divine beings, including a sea-god and gods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+  - ev:10
+- id: obs:3
+  text: Several entries identify dwarfs by name.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several entries identify giants or giantesses by name.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes mythic places described as homes or dwellings of groups
+    or figures, including a home of the elves, a home of the gods, Baldr's home, and
+    Thor's dwelling.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: obs:6
+  text: The index includes named objects described as rings and a sword.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index includes Bifrost and Bilrost as rainbow bridge entries.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index includes natural features and places, including a river, islands,
+    forests, a field, and a harbor.
+  category: setting
+  evidence_refs:
+  - ev:12
+  - ev:13
+- id: obs:9
+  text: The index records family or marital relationships such as mother, grandfather,
+    father, and wife.
+  category: relationship
+  evidence_refs:
+  - ev:14
+  - ev:15
+  - ev:16
+- id: obs:10
+  text: The index includes titles of poems, lays, ballads, and fragments.
+  category: other
+  evidence_refs:
+  - ev:17
+figures:
+- id: fig:1
+  name_or_label: g-ir
+  description: Identified in the index as a sea-god.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Baldr
+  description: Identified in the index as a god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: Brag-i
+  description: Identified in the index as a god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Dag
+  description: Identified in one entry as a god, with the gloss Day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:5
+  name_or_label: Al-vs
+  description: Identified in the index as a dwarf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: And-var-i
+  description: Identified in the index as a dwarf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Angr-both-a
+  description: Identified in the index as a giantess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Bel-i
+  description: Identified in the index as a giant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Bryn-hild
+  description: Identified in the index as wife of Gunnar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:16
+- id: fig:10
+  name_or_label: At-li
+  description: Identified in the index as Attila.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:15
+- id: fig:11
+  name_or_label: Buth-li
+  description: Identified in the index as father of Atli.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:16
+- id: fig:12
+  name_or_label: Best-la
+  description: Identified in the index as Othin's mother.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:14
+- id: fig:13
+  name_or_label: Bol-thorn
+  description: Identified in the index as Othin's grandfather.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:14
+roles:
+- id: role:1
+  label: sea-god
+  assigned_to:
+  - fig:1
+  basis: The entry glosses g-ir as the sea-god.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: god
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The entries for Baldr, Brag-i, and Dag identify them as gods or as a god.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:3
+  label: dwarf
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The entries for Al-vs and And-var-i identify them as dwarfs.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: giant or giantess
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The entries for Angr-both-a and Bel-i identify them as a giantess and a giant.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: wife of Gunnar
+  assigned_to:
+  - fig:9
+  basis: The entry identifies Bryn-hild as wife of Gunnar.
+  evidence_refs:
+  - ev:16
+- id: role:6
+  label: Attila
+  assigned_to:
+  - fig:10
+  basis: The entry identifies At-li as Attila.
+  evidence_refs:
+  - ev:15
+- id: role:7
+  label: father of Atli
+  assigned_to:
+  - fig:11
+  basis: The entry identifies Buth-li as father of Atli.
+  evidence_refs:
+  - ev:16
+- id: role:8
+  label: Othin's mother
+  assigned_to:
+  - fig:12
+  basis: The entry identifies Best-la as Othin's mother.
+  evidence_refs:
+  - ev:14
+- id: role:9
+  label: Othin's grandfather
+  assigned_to:
+  - fig:13
+  basis: The entry identifies Bol-thorn as Othin's grandfather.
+  evidence_refs:
+  - ev:14
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: sea, associated with a sea-god entry
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: river
+  literal_form: a river
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+- id: sym:3
+  label: Alf-heim
+  literal_form: home of the elves
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: s-garth
+  literal_form: home of the gods
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Breith-a-blik
+  literal_form: Baldr's home
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: Bil-skirn-ir
+  literal_form: Thor's dwelling
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: And-var-a-naut
+  literal_form: a ring
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Draup-nir
+  literal_form: a ring
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: Brim-ir
+  literal_form: a sword
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: Bif-rost / Bil-rost
+  literal_form: the rainbow bridge
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:11
+  label: Ask
+  literal_form: Ash
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:18
+- id: sym:12
+  label: forests
+  literal_form: named forests, including Bar-ri and Brag-a-lund
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:13
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: catalogued mythic geography of homes and bridge
+  taxonomy_refs: []
+  basis: The index groups named mythic locations such as Alf-heim as home of the elves,
+    s-garth as home of the gods, Breith-a-blik as Baldr's home, Bil-skirn-ir as Thor's
+    dwelling, and Bif-rost/Bil-rost as the rainbow bridge.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:11
+  confidence: low
+  cautions: This is an index, not a narrative passage; it lists place labels but does
+    not describe a journey, ritual, or cosmological event.
+- id: motif:2
+  label: catalogued named rings and weapon
+  taxonomy_refs: []
+  basis: The index identifies And-var-a-naut and Draup-nir as rings and Brim-ir as
+    a sword.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage gives only object identifications and page references; it
+    does not narrate the objects' ownership, use, or mythic function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21171-21488; Pronouncing Index entries
+  quote_or_summary: The passage consists of index entries with pronounced names, brief
+    glosses, and page references.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 21171-21488; entry 'g-ir'
+  quote_or_summary: '"g-ir, the sea-god"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 21171-21488; entries 'Al-vs' and 'And-var-i'
+  quote_or_summary: '"Al-vs, a dwarf"; "And-var-i, a dwarf"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 21171-21488; entries 'Angr-both-a' and 'Bel-i'
+  quote_or_summary: '"Angr-both-a, a giantess"; "Bel-i, a giant"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 21171-21488; entries 'Alf-heim' and 's-garth'
+  quote_or_summary: '"Alf-heim, home of the elves"; "s-garth, home of the gods"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 21171-21488; entries 'And-var-a-naut', 'Draup-nir', and 'Brim-ir'
+  quote_or_summary: '"And-var-a-naut, a ring"; "Draup-nir, a ring"; "Brim-ir, a sword"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:7
+  type: quote
+  locator: 21171-21488; entries 'Bif-rost' and 'Bil-rost'
+  quote_or_summary: '"Bif-rost, the rainbow bridge"; "Bil-rost, the rainbow bridge"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:8
+  type: quote
+  locator: 21171-21488; entry 'Baldr'
+  quote_or_summary: '"Baldr, a god"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:9
+  type: quote
+  locator: 21171-21488; entry 'Brag-i'
+  quote_or_summary: '"Brag-i, a god"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:10
+  type: quote
+  locator: 21171-21488; entry 'Dag'
+  quote_or_summary: '"Dag, a god (Day)"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:11
+  type: quote
+  locator: 21171-21488; entries 'Breith-a-blik' and 'Bil-skirn-ir'
+  quote_or_summary: '"Breith-a-blik, Baldrs home"; "Bil-skirn-ir, Thors dwelling"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:12
+  type: quote
+  locator: 21171-21488; entries 'k-in', 'Al-grn', 'Bolm', 'Brand-ey'
+  quote_or_summary: '"k-in, a river"; "Al-grn, an island"; "Bolm, an island"; "Brand-ey,
+    an island"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:13
+  type: quote
+  locator: 21171-21488; entries 'Bar-ri', 'Brag-a-lund', 'Br-voll', 'Brun-a-vg-ar'
+  quote_or_summary: '"Bar-ri, a forest"; "Brag-a-lund, a forest"; "Br-voll, a field";
+    "Brun-a-vg-ar, a harbor"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:14
+  type: quote
+  locator: 21171-21488; entries 'Best-la' and 'Bol-thorn'
+  quote_or_summary: '"Best-la, Othins mother"; "Bol-thorn, Othins grandfather"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:15
+  type: quote
+  locator: 21171-21488; entry 'At-li'
+  quote_or_summary: '"At-li, Attila"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:16
+  type: quote
+  locator: 21171-21488; entries 'Bryn-hild' and 'Buth-li'
+  quote_or_summary: '"Bryn-hild, wife of Gunnar"; "Buth-li, father of Atli"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:17
+  type: quote
+  locator: 21171-21488; poem-title entries
+  quote_or_summary: '"Al-vss-ml, the Ballad of Alvis"; "At-la-kvith-a, the Lay of
+    Atli"; "At-la-ml, the Ballad of Atli"; "Baldrs Draumar, Baldrs Dreams"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpts from supplied passage.
+- id: ev:18
+  type: quote
+  locator: 21171-21488; entry 'Ask'
+  quote_or_summary: '"Ask, Ash"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Entity and symbol extraction is limited by the passage being an index rather
+    than a narrative. Motif candidates are intentionally conservative and marked low-confidence.
+    No comparison claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Diacritics and some initial letters appear reduced or missing in the supplied passage text; labels preserve the supplied forms rather than normalizing them.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l21171-l21488
+  passage_sha256=4d9e9c699e4bbb11de8a7df8a2f5c2d699036214453ca24b94c6efde95472156
+

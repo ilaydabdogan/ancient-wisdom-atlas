@@ -1,0 +1,624 @@
+---
+record_id: batch.motif.biblical-genesis-web-classic-l490-l538
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Footnotes / Chapter 7 / Footnotes / Chapter 8; lines 490-538
+  start: '490'
+  end: '538'
+  translation: Genesis
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A footnote defines the cubit. In Genesis 8, God remembers Noah and the
+    living beings in the ship, the waters recede, the ship rests on Ararat’s mountains,
+    and Noah sends out birds to test whether the waters have abated. When the earth
+    is dry, God commands Noah, his household, and the animals to leave the ship and
+    multiply. Noah offers burnt offerings, and Yahweh declares that he will not again
+    curse the ground or strike every living thing, while regular earthly cycles continue.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote defines a cubit as the distance from the tip of the middle finger
+    to the elbow, about 18 inches or 46 centimeters.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God remembers Noah, the animals, and the livestock in the ship, makes a wind
+    pass over the earth, and the waters subside.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The deep’s fountains and the sky’s windows are stopped, rain is restrained,
+    and the waters recede after one hundred fifty days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ship rests on Ararat’s mountains, and later the tops of the mountains
+    become visible as the waters continue to recede.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Noah opens the ship’s window and sends out a raven, which goes back and forth
+    until the waters are dried from the earth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Noah sends out a dove to see whether the waters have abated; at first it finds
+    no place to rest and returns to the ship, where Noah brings it back in by hand.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After another seven days, the dove returns at evening with a freshly plucked
+    olive leaf, and Noah knows that the waters have abated; after a further seven
+    days, the dove does not return.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Noah removes the ship’s covering, looks out, and sees that the ground surface
+    is dry; the earth is later stated to be dry.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: God commands Noah, his wife, his sons, his sons’ wives, and all living creatures
+    to leave the ship so the creatures may breed abundantly, be fruitful, and multiply
+    on the earth.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Noah, his family, and every animal, creeping thing, and bird go out of the
+    ship after their families.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Noah builds an altar to Yahweh and offers burnt offerings from every clean
+    animal and every clean bird.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Yahweh smells the pleasant aroma and says in his heart that he will not again
+    curse the ground for man’s sake or strike every living thing as he has done.
+  category: speech
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: Yahweh states that while the earth remains, seed time and harvest, cold and
+    heat, summer and winter, and day and night will not cease.
+  category: speech
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: God / Yahweh
+  description: The divine actor remembers Noah and the living beings, causes wind,
+    speaks to Noah, receives Noah’s offerings, and declares future restraint and continuing
+    cycles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:12
+  - ev:13
+- id: fig:2
+  name_or_label: Noah
+  description: The human occupant of the ship who sends out birds, observes the drying
+    earth, exits with his household, builds an altar, and offers burnt offerings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Noah’s household
+  description: Noah’s wife, sons, and sons’ wives are commanded to leave the ship
+    and go out with Noah.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Animals and living creatures in the ship
+  description: Animals, livestock, birds, creeping things, and other living things
+    are with Noah in the ship and are brought out to multiply on the earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Raven
+  description: A bird Noah sends from the ship; it goes back and forth until the waters
+    are dried up from the earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Dove
+  description: A bird Noah sends from the ship to test whether the waters have abated;
+    it returns first with no resting place, later with an olive leaf, and then does
+    not return.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Clean animals and clean birds
+  description: Clean animals and clean birds are taken by Noah and offered as burnt
+    offerings on the altar.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: Divine preserver and declarer
+  assigned_to:
+  - fig:1
+  basis: God remembers the ship’s occupants, makes the waters subside, commands the
+    exit, and Yahweh declares that he will not again strike every living thing.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:12
+- id: role:2
+  label: Human survivor and ritual offerer
+  assigned_to:
+  - fig:2
+  basis: Noah remains in the ship, tests for dry land, exits when commanded, and builds
+    an altar with burnt offerings.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+  - ev:11
+- id: role:3
+  label: Surviving household
+  assigned_to:
+  - fig:3
+  basis: Noah’s wife, sons, and sons’ wives are named among those who go out of the
+    ship.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:4
+  label: Preserved and repopulating creatures
+  assigned_to:
+  - fig:4
+  basis: Living things are with Noah in the ship and are commanded to breed abundantly,
+    be fruitful, and multiply on the earth.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:10
+- id: role:5
+  label: Reconnaissance bird
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Noah sends the raven and dove out from the ship during the waters’ recession.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: Sign-bearing bird
+  assigned_to:
+  - fig:6
+  basis: The dove returns with a freshly plucked olive leaf, by which Noah knows the
+    waters have abated.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: Sacrificial offering beings
+  assigned_to:
+  - fig:7
+  basis: Clean animals and clean birds are used as burnt offerings on Noah’s altar.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: Ship as preservation vessel
+  literal_form: ship
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: Receding waters
+  literal_form: waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: Ararat’s mountains
+  literal_form: mountains
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Ship window
+  literal_form: window of the ship
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Raven sent from the ship
+  literal_form: raven
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Dove sent from the ship
+  literal_form: dove
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: Freshly plucked olive leaf
+  literal_form: olive leaf
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Altar and burnt offerings
+  literal_form: altar; burnt offerings
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: sym:9
+  label: Continuing earthly cycles
+  literal_form: seed time and harvest; cold and heat; summer and winter; day and night
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:13
+- id: sym:10
+  label: Wind over the earth
+  literal_form: wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Waters restrained and receding
+  summary: God remembers Noah and the living beings in the ship, sends wind over the
+    earth, and the waters subside as the fountains, sky windows, and rain are stopped.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ship rests on the mountains
+  summary: As the waters recede, the ship rests on Ararat’s mountains and the tops
+    of the mountains become visible.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Birds test the drying earth
+  summary: Noah opens the ship’s window, sends a raven and then a dove, receives the
+    dove back when it finds no resting place, later receives the dove with an olive
+    leaf, and finally the dove does not return.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Exit from the ship
+  summary: After the ground and earth are dry, God commands Noah, his household, and
+    every living thing to go out of the ship and multiply; Noah’s family and the creatures
+    exit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Offering and divine restraint
+  summary: Noah builds an altar and offers burnt offerings from clean animals and
+    birds. Yahweh receives the aroma and declares that he will not again curse the
+    ground or strike every living thing, and that earthly cycles will continue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Flood recession and renewal of life
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The waters recede, the earth dries, Noah and the living creatures leave the
+    ship, and the creatures are commanded to multiply on the earth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This passage covers the flood’s aftermath and renewal phase, not the full
+    onset of the flood narrative.
+- id: motif:2
+  label: Preservation vessel carrying survivors
+  taxonomy_refs:
+  - ark_vessel
+  basis: The ship contains Noah, his household, animals, and livestock during the
+    waters, rests on the mountains, and serves as the vessel from which they later
+    emerge.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage calls the vessel a ship; the extraction maps it to the ark-vessel
+    motif family because of its preservation function in the supplied text.
+- id: motif:3
+  label: Birds sent to discover habitable land
+  taxonomy_refs: []
+  basis: Noah sends out a raven and repeatedly sends out a dove to determine whether
+    the waters have abated; the dove’s olive leaf and final non-return mark changing
+    conditions outside the ship.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific supplied taxonomy reference corresponds to this bird-reconnaissance
+    pattern.
+- id: motif:4
+  label: Sacrifice after deliverance
+  taxonomy_refs:
+  - sacrifice
+  basis: After leaving the ship, Noah builds an altar to Yahweh and offers burnt offerings
+    from clean animals and birds; Yahweh responds to the aroma.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The passage describes the ritual act and divine response but does not
+    give a broader sacrificial doctrine.
+- id: motif:5
+  label: Divine judgment followed by restraint
+  taxonomy_refs:
+  - divine_judgment
+  basis: Yahweh says he will not again curse the ground for man’s sake or strike every
+    living thing as he has done, indicating a prior destructive act and a future restraint.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The destructive judgment is referred to retrospectively in this passage
+    rather than narrated in full here.
+- id: motif:6
+  label: Continuity of seasonal and daily cycles
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Yahweh declares that seed time and harvest, cold and heat, summer and winter,
+    and day and night will not cease while the earth remains.
+  evidence_refs:
+  - ev:13
+  confidence: high
+  cautions: The statement is about ongoing order; the passage does not explicitly
+    frame it as a calendrical institution.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Genesis 7:20 footnote; lines 490-492
+  quote_or_summary: A footnote explains that a cubit is the length from fingertip
+    to elbow, about 18 inches or 46 centimeters.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: Genesis 8:1; line 496
+  quote_or_summary: God remembers Noah and the animals in the ship, makes wind pass
+    over the earth, and the waters subside.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Genesis 8:2-3; lines 498-500
+  quote_or_summary: The deep’s fountains and the sky’s windows are stopped, rain is
+    restrained, and the waters recede after one hundred fifty days.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: Genesis 8:4-5; lines 502-504
+  quote_or_summary: The ship rests on Ararat’s mountains, and later the mountain tops
+    become visible as the waters continue to recede.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Genesis 8:6-7; lines 506-508
+  quote_or_summary: Noah opens the ship’s window and sends out a raven, which goes
+    back and forth until the waters dry from the earth.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: Genesis 8:8-9; lines 510-512
+  quote_or_summary: Noah sends a dove to see whether the waters have abated; it finds
+    no resting place and returns, and Noah brings it back into the ship.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: Genesis 8:10-12; lines 514-518
+  quote_or_summary: After seven days the dove returns with a freshly plucked olive
+    leaf; after another seven days it is sent out again and does not return.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: Genesis 8:13-14; lines 520-522
+  quote_or_summary: Noah removes the ship’s covering and sees dry ground; the earth
+    is later stated to be dry.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: Genesis 8:15-17; lines 524-528
+  quote_or_summary: God tells Noah to go out of the ship with his household and to
+    bring out every living thing so they may breed, be fruitful, and multiply on the
+    earth.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: Genesis 8:18-19; lines 530-532
+  quote_or_summary: Noah, his sons, his wife, his sons’ wives, and all animals, creeping
+    things, and birds go out of the ship after their families.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: Genesis 8:20; line 534
+  quote_or_summary: Noah builds an altar to Yahweh and offers burnt offerings from
+    every clean animal and every clean bird.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:12
+  type: summary
+  locator: Genesis 8:21; line 536
+  quote_or_summary: Yahweh smells the pleasant aroma and says he will not again curse
+    the ground for man’s sake or strike every living thing as he has done.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:13
+  type: quote
+  locator: Genesis 8:22; line 538
+  quote_or_summary: "“While the earth remains, seed time and harvest, and cold and
+    heat, and summer and winter, and day and night will not cease.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Comparison claims are omitted
+    because the passage itself does not compare this material with another text, tradition,
+    or motif family beyond the candidate motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated cross-tradition comparisons were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-genesis-web-classic__l490-l538
+  passage_sha256=342cc1bc8bf4e97958eacca68ecf3d56d252400b8c8b0602c621c5dbb51f5ba4
+

@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l4752-l4797
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: NERRIVIK / THE WIFE WHO LIED / KAGSSAGSSUK, THE HOMELESS BOY WHO BECAME A
+    STRONG MAN / QASIAGSSAQ, THE GREAT LIAR; lines 4752-4797
+  start: '4752'
+  end: '4797'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Many people travel eastward in umiaks and kayaks while Qasiagssaq repeatedly
+    directs them beyond successive small headlands. Each time nothing is found. The
+    others accuse him of lying, threaten to kill him, and finally kill him after further
+    failure to find the unnamed object or place.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Many umiaks and kayaks set out eastward on the next day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The travelers repeatedly ask where the unnamed thing or place is.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Qasiagssaq repeatedly answers that it is beyond a little ness or headland.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: After rowing to the indicated places, the travelers repeatedly find nothing
+    to be seen.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The group says Qasiagssaq is lying as usual and proposes killing him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Qasiagssaq asks them to wait and says they may kill him if they do not see
+    it after making sure it is a lie.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Near the base of a great fjord, after another unsuccessful search beyond a
+    further little ness, the group calls him a trouble to all and kills him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Qasiagssaq
+  description: A person who directs the boat party toward successive places and is
+    accused of lying as usual before being killed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: the others / boat party
+  description: Many people traveling in umiaks and kayaks who ask for directions,
+    accuse Qasiagssaq, and kill him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: repeated guide or director
+  assigned_to:
+  - fig:1
+  basis: Qasiagssaq repeatedly answers the group's questions by pointing them beyond
+    another little ness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:2
+  label: accused liar
+  assigned_to:
+  - fig:1
+  basis: The group states that Qasiagssaq is lying as usual and later decides he is
+    only a trouble to them.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: searching boat party
+  assigned_to:
+  - fig:2
+  basis: Many umiaks and kayaks set out eastward, row inward, and ask where the unnamed
+    target is.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: punishers
+  assigned_to:
+  - fig:2
+  basis: The group proposes killing Qasiagssaq and finally kills him.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: umiaks and kayaks
+  literal_form: boats used by the group to travel eastward and inward
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: little ness
+  literal_form: successive small headlands beyond which Qasiagssaq says the target
+    lies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: fjord water route
+  literal_form: a great fjord approached by rowing in umiaks and kayaks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:4
+  label: unseen unnamed target
+  literal_form: an unspecified thing or place repeatedly sought but never seen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: departure eastward by boat
+  summary: Many umiaks and kayaks set out eastward and row inward before the party
+    asks where the target is.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: repeated directions beyond headlands
+  summary: Qasiagssaq repeatedly directs the party beyond a little ness, but nothing
+    is found at the indicated places.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: accusation and warning of death
+  summary: The others accuse Qasiagssaq of lying and say they should kill him; he
+    asks them to wait until they are sure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: final failed search and killing
+  summary: After another direction near the base of a great fjord leads to nothing
+    visible, the group says Qasiagssaq is a trouble to all and kills him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: false directions in repeated search
+  taxonomy_refs: []
+  basis: The group repeatedly follows Qasiagssaq's directions beyond successive little
+    headlands, and each time nothing is visible.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not identify what the party is seeking.
+- id: motif:2
+  label: liar punished by community
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Qasiagssaq is explicitly accused of lying as usual and is killed after the
+    repeated unsuccessful search.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage labels him a liar but does not show supernatural trickster
+    traits; the taxonomy reference is therefore tentative.
+- id: motif:3
+  label: deferred execution pending proof
+  taxonomy_refs: []
+  basis: When threatened with death, Qasiagssaq asks the group to wait until they
+    have made sure it is a lie, after which they may kill him if they do not see it.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a local episode-level pattern rather than a clearly established
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4752-4753
+  quote_or_summary: Many umiaks and kayaks set out eastward and row a long way inward.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 4754-4762
+  quote_or_summary: The party asks, "Where is it?" and Qasiagssaq answers, "Over there,
+    beyond that little ness"; when they reach the place, nothing is seen.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 4763-4773
+  quote_or_summary: 'The question and answer repeat: Qasiagssaq again directs them
+    beyond a little ness, and again nothing is found.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4774-4776
+  quote_or_summary: They reach and row around another indicated place, where nothing
+    is visible.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 4777-4781
+  quote_or_summary: The others say, "Qasiagssaq is lying as usual. Let us kill him."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 4782-4785
+  quote_or_summary: Qasiagssaq asks them to wait, first make sure that it is a lie,
+    and then kill him if they do not see it.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4786-4794
+  quote_or_summary: After another uncertain direction beyond a little ness, they nearly
+    reach the base of a great fjord, round another small headland, and again see nothing.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 4795-4797
+  quote_or_summary: 'They say, "He is only a trouble to us all: let us kill him,"
+    and at last kill him.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal episode structure is clear. Motif classification is cautious because
+    the sought object or place is unnamed and the passage provides no broader context
+    beyond Qasiagssaq's repeated false directions and death.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or historical comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l4752-l4797
+  passage_sha256=15976edeb72a92e6200dc44ab9ae207a6e5b9d2ddbea0c0081e04e8fe1d91411
+

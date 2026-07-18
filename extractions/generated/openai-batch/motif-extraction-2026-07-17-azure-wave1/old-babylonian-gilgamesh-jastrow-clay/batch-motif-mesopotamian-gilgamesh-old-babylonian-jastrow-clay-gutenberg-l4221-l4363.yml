@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l4221-l4363
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: COMMENTARY ON THE PENNSYLVANIA TABLET. / YALE TABLET. / TRANSLITERATION.
+    / TRANSLATION.; lines 4221-4363
+  start: '4221'
+  end: '4363'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly commentary arguing that sabitum should be understood
+    as an epithet for the seashore woman whom Gilgamesh reaches in his wanderings,
+    namely an innkeeper or public woman. It interprets her speech as an invitation
+    for Gilgamesh to stay with her rather than seek life elsewhere, and explicitly
+    compares this invitation to the harimtu's temptation of Enkidu. The passage also
+    discusses the Sumerian Sal Gestinna, the female wine-woman, and then gives technical
+    corrections to Langdon's edition of the Pennsylvania Tablet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary reports Haupt's suggestion that sabitum is an epithet rather
+    than a proper name, describing the seashore woman reached by Gilgamesh as an innkeeper.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that sabitum consistently lacks the determinative used
+    before proper names in the relevant Old Babylonian and Assyrian evidence.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary links the proposed meaning 'innkeeper' with words for drink
+    and compares sabitum with terms for barmaids, public women, samhatu, and harimtu.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Sumerian Sal Gestinna is identified as the term for a female innkeeper
+    or 'woman of wine'; the passage describes the house of such a woman as a gathering
+    place for outlaws and a house of ill repute.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speech of the sabitum or innkeeper to Gilgamesh is described as an invitation
+    to stay with her instead of seeking life elsewhere.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says this invitation is parallel to the temptation offered by
+    the harimtu in the first tablet of Enkidu, to which Enkidu succumbs.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The proposed equation of sabitum with Sumerian Sal Gestinna is described as
+    possible but conjectural until confirmed by direct evidence.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The later section consists of proposed corrections to Langdon's edition of
+    the Pennsylvania Tablet, listing alternate readings for lines in columns 1-3.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: A figure who, in the commentary's description, reaches the seashore
+    during his wanderings and is addressed by the sabitum while seeking life elsewhere.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: sabitum / seashore innkeeper
+  description: The woman at the seashore, interpreted in the commentary as an innkeeper
+    or public woman who addresses Gilgamesh.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: harimtu
+  description: The woman whose temptation of Enkidu in the first tablet is cited as
+    a parallel to the sabitum's invitation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Enkidu
+  description: The figure who, according to the commentary, succumbs to the temptation
+    offered by the harimtu in the first tablet of the Enkidu cycle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: wanderer seeking life
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh is described as reaching the seashore in the course of his wanderings
+    and as seeking life elsewhere.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: seashore innkeeper and inviting public woman
+  assigned_to:
+  - fig:2
+  basis: The commentary identifies sabitum as the seashore woman or innkeeper and
+    interprets her speech as an invitation to Gilgamesh.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: tempter in cited parallel
+  assigned_to:
+  - fig:3
+  basis: The harimtu is named as offering the temptation to which Enkidu succumbs.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: tempted counterpart in cited parallel
+  assigned_to:
+  - fig:4
+  basis: Enkidu is said to succumb to the harimtu's temptation in the parallel episode.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: seashore
+  literal_form: The seashore where the woman dwells and which Gilgamesh reaches during
+    his wanderings.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: inn / public house / wine-woman's house
+  literal_form: The inn or house of the Sal Gestinna, associated in the commentary
+    with drink, public women, outlaws, and ill repute.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: drink and wine
+  literal_form: Words for drink, sesame wine or brandy, and the Sumerian phrase 'woman
+    of wine' used in the philological argument about sabitum.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Gilgamesh reaches the seashore woman
+  summary: The commentary frames Gilgamesh as reaching a woman at the seashore during
+    his wanderings; this woman is interpreted as the sabitum or innkeeper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invitation to stay instead of seeking life
+  summary: The sabitum's speech to Gilgamesh is interpreted as inviting him to stay
+    with her rather than continue seeking life elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: 'Cited parallel: harimtu tempts Enkidu'
+  summary: The commentary compares the sabitum's invitation to the harimtu's temptation
+    of Enkidu, which Enkidu accepts.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: quest for life during wandering
+  taxonomy_refs:
+  - mystical_quest
+  basis: Gilgamesh is described as wandering to the seashore and as seeking life elsewhere.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is commentary and does not narrate the full quest; the taxonomy
+    match is broad.
+- id: motif:2
+  label: female host or public woman as temptation to the hero
+  taxonomy_refs: []
+  basis: The sabitum is interpreted as a public woman whose address invites Gilgamesh
+    to stay, and the passage explicitly calls the invitation parallel to the harimtu's
+    temptation of Enkidu.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The motif depends on the commentary's interpretive identification of sabitum
+    as innkeeper or public woman.
+- id: motif:3
+  label: parallel temptation episodes in Gilgamesh and Enkidu cycles
+  taxonomy_refs: []
+  basis: The commentary states that the sabitum incident in Gilgamesh's adventures
+    forms a parallel to an episode originally belonging to the Enkidu cycle.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives the comparison but not the full text of both episodes.
+- id: motif:4
+  label: inn or wine-woman's house as disreputable setting
+  taxonomy_refs: []
+  basis: The passage describes the Sal Gestinna's house as a gathering place for outlaws
+    and a house of ill repute.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a social and legal contextual observation rather than a narrated
+    mythic event in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the sabitum's invitation to Gilgamesh with
+    the harimtu's temptation of Enkidu, presenting them as parallel temptation episodes.
+  claim_level: same_function
+  target: harimtu temptation of Enkidu in the first tablet / Enkidu cycle
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a commentary-based comparison; the passage does not include
+    the full wording of both underlying narrative episodes.
+- id: claim:2
+  claim: The passage proposes that sabitum may be the Akkadian equivalent of the Sumerian
+    Sal Gestinna, the female wine-woman.
+  claim_level: linguistic_similarity
+  target: Sumerian Sal Gestinna, 'the woman of the wine'
+  evidence_refs:
+  - ev:4
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: low
+  limitations: The passage itself says the equation remains conjectural until confirmed
+    by a syllabary or other direct evidence.
+- id: claim:3
+  claim: The passage relates sabitum to the force of samhatu and harimtu as terms
+    connected with public women or harlots in the Gilgamesh Epic.
+  claim_level: same_function
+  target: samhatu and harimtu terminology in the Gilgamesh Epic
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a philological and functional comparison, not an independently
+    narrated motif in this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4221-4225
+  quote_or_summary: Haupt suggests sabitum is an epithet for the 'woman who dwells
+    at the seashore which Gilgamesh in the course of his wanderings reaches' as an
+    innkeeper.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4225-4231
+  quote_or_summary: The commentary states that sabitum lacks the determinative normally
+    placed before proper names, supporting the interpretation as an epithet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4231-4245
+  quote_or_summary: The commentary connects sabitum with words for drink, Aramaic
+    forms for drinking or furnishing drink, barmaids, public women, and the terms
+    samhatu and harimtu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4245-4253
+  quote_or_summary: The Sumerian female innkeeper is called Sal Gestinna, 'the woman
+    of the wine'; Hammurabi Code statutes are cited for the bad reputation of such
+    houses as gathering places for outlaws and houses of ill repute.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4253-4256
+  quote_or_summary: The sabitum's speech to Gilgamesh was 'an invitation to stay with
+    her, instead of seeking for life elsewhere.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 4256-4261
+  quote_or_summary: The invitation is said to be 'parallel to the temptation offered
+    by the harimtu' to Enkidu, and to form a parallel between Gilgamesh's adventures
+    and the Enkidu cycle.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 4261-4265
+  quote_or_summary: The commentary says sabitum may be the Akkadian equivalent of
+    Sal Gestinna, but that 'it remains a conjecture' until confirmed by direct evidence.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4267-4363
+  quote_or_summary: The corrections section lists proposed readings for columns 1-3
+    of Langdon's edition of the Pennsylvania Tablet, including technical readings
+    such as heroes, Uruk, Enkidu, wine, shepherds, and dagger.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly scholarly commentary and textual correction, so mythic
+    motifs are indirect and depend on the commentary's interpretation. The explicit
+    parallel between sabitum and harimtu is strongly passage-supported; the sabitum-Sal
+    Gestinna equation is explicitly conjectural.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or motifs were inferred from outside the supplied passage. Corrections to Langdon's text were treated as technical evidence only, not as independent narrative scenes.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l4221-l4363
+  passage_sha256=9a6620b379d538c74c6e262816aff6348d5b11a54a087a5d891521688523ec2b
+

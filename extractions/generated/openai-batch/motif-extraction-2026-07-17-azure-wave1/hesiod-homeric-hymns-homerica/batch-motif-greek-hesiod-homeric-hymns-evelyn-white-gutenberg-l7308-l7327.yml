@@ -1,0 +1,471 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7308-l7327
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXIV. TO HESTIA / XXV. TO THE MUSES AND APOLLO / XXVI. TO DIONYSUS / XXVII.
+    TO ARTEMIS; lines 7308-7327
+  start: '7308'
+  end: '7327'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn praises Artemis as a golden-shafted maiden huntress, sister of
+    Apollo. She hunts over hills, peaks, mountains, woods, sea, and wild beasts, then
+    goes to Apollo's house at Delphi, puts away her bow and arrows, leads dances of
+    the Muses and Graces, and is hailed with Apollo as a child of Zeus and Leto.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Artemis is described as having golden shafts, cheering on hounds, being a
+    pure maiden, shooting stags, and delighting in archery.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Artemis is identified as the sister of Apollo, who is described as having
+    a golden sword.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Artemis draws her golden bow over shadowy hills and windy peaks, rejoicing
+    in the chase and sending out grievous shafts.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The high mountains tremble, the tangled wood echoes with the outcry of beasts,
+    and earthquakes and the sea are mentioned in connection with Artemis's hunt.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Artemis turns in every direction destroying wild beasts until she is satisfied.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the hunt, Artemis slackens her bow and goes to Apollo's great house
+    in Delphi.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: At Delphi, Artemis hangs up her bow and arrows and leads the dances of the
+    Muses and Graces.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Muses and Graces sing that Leto bore children supreme among the immortals
+    in thought and deed.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The hymn closes by hailing the children of Zeus and rich-haired Leto.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Artemis
+  description: A goddess described as golden-shafted, a pure maiden, a huntress and
+    archer, sister of Apollo, and leader of dances at Delphi.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Phoebus Apollo
+  description: Artemis's dear brother, associated with a great house in Delphi and
+    described as having a golden sword.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Muses
+  description: A group present at Delphi whose lovely dance Artemis orders and leads,
+    and who utter a heavenly voice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Graces
+  description: A group present at Delphi whose lovely dance Artemis orders and leads,
+    and who utter a heavenly voice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Leto
+  description: Mother of the children praised as supreme among the immortals; called
+    rich-haired in the closing hail.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Zeus
+  description: Named in the closing hail as father of the divine children.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: hounds
+  description: Hounds cheered on by Artemis in the hunt.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: wild beasts
+  description: Beasts whose outcry is heard in the wood and whose race Artemis destroys
+    in the hunt.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: huntress and archer
+  assigned_to:
+  - fig:1
+  basis: Artemis is described as shooting stags, delighting in archery, drawing a
+    golden bow, sending shafts, and rejoicing in the chase.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: sister
+  assigned_to:
+  - fig:1
+  basis: The passage calls Artemis the own sister of Apollo.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dance leader
+  assigned_to:
+  - fig:1
+  basis: At Delphi, Artemis heads and leads the dances of the Muses and Graces.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: brother
+  assigned_to:
+  - fig:2
+  basis: Apollo is called Artemis's dear brother.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: Delphic host or householder
+  assigned_to:
+  - fig:2
+  basis: Artemis goes to the great house of Phoebus Apollo in Delphi.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: divine singers and dancers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Muses and Graces participate in dances and utter a heavenly voice.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: divine mother
+  assigned_to:
+  - fig:5
+  basis: The song says Leto bore the praised divine children.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: divine father
+  assigned_to:
+  - fig:6
+  basis: The closing hail calls the praised figures children of Zeus and Leto.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: hunting companions
+  assigned_to:
+  - fig:7
+  basis: Artemis is said to cheer on the hounds.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: hunted creatures
+  assigned_to:
+  - fig:8
+  basis: The passage describes the outcry of beasts and Artemis destroying the race
+    of wild beasts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden bow and shafts
+  literal_form: Artemis's golden bow, golden shafts, curved bow, and arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: mountains and peaks
+  literal_form: shadowy hills, windy peaks, and high mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Delphi
+  literal_form: the rich land of Delphi and the great house of Phoebus Apollo
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: hounds
+  literal_form: hounds cheered on by Artemis
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: dance
+  literal_form: the lovely dance of the Muses and Graces led by Artemis
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: sea
+  literal_form: the sea where fishes shoal
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Invocation and attributes of Artemis
+  summary: The hymn names Artemis and lists her attributes as golden-shafted, maiden,
+    huntress, archer, stag-shooter, and sister of Apollo.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Artemis hunts across the wild landscape
+  summary: Artemis draws her bow over hills and peaks, sends shafts, and hunts wild
+    beasts amid trembling mountains, echoing woods, earthquakes, and the sea.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Artemis at Delphi leads divine dances
+  summary: When satisfied with hunting, Artemis slackens her bow, goes to Apollo's
+    house at Delphi, hangs up her bow and arrows, and leads the dances of the Muses
+    and Graces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Praise of Leto's children
+  summary: The divine singers praise how Leto bore children supreme among the immortals,
+    and the hymn hails the children of Zeus and Leto.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: Artemis is explicitly identified as Apollo's sister, and the closing praise
+    hails the children of Zeus and Leto together.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: high
+  cautions: The passage names the sibling relation but does not narrate a joint adventure
+    by the siblings.
+- id: motif:2
+  label: divine parent and children
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The hymn states that Leto bore children supreme among the immortals and closes
+    by hailing the children of Zeus and Leto.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage gives genealogical praise rather than a developed parent-child
+    narrative.
+- id: motif:3
+  label: huntress deity moves from wild hunt to ordered dance
+  taxonomy_refs: []
+  basis: Artemis hunts in mountains and woods, destroys wild beasts, then proceeds
+    to Delphi to put away her weapons and lead divine dances.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches this pattern; it is a
+    passage-level pattern rather than a cross-text comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XXVII. To Artemis, ll. 1-4; source lines 7308-7327
+  quote_or_summary: '"Artemis, whose shafts are of gold, who cheers on the hounds,
+    the pure maiden, shooter of stags, who delights in archery"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: XXVII. To Artemis, ll. 4-5; source lines 7308-7327
+  quote_or_summary: '"own sister to Apollo with the golden sword"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: XXVII. To Artemis, ll. 5-7; source lines 7308-7327
+  quote_or_summary: Artemis draws her golden bow over shadowy hills and windy peaks,
+    rejoices in the chase, and sends out grievous shafts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: XXVII. To Artemis, ll. 7-10; source lines 7308-7327
+  quote_or_summary: The tops of high mountains tremble; the tangled wood echoes with
+    the outcry of beasts; earthquakes and the sea where fishes shoal are also mentioned.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: XXVII. To Artemis, ll. 10-12; source lines 7308-7327
+  quote_or_summary: The goddess turns every way with a bold heart, destroying the
+    race of wild beasts until she is satisfied and has cheered her heart.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: XXVII. To Artemis, ll. 12-15; source lines 7308-7327
+  quote_or_summary: After the hunt, Artemis slackens her supple bow and goes to the
+    great house of her dear brother Phoebus Apollo in Delphi.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: XXVII. To Artemis, ll. 15-17; source lines 7308-7327
+  quote_or_summary: At Delphi, Artemis orders the dance of the Muses and Graces, hangs
+    up her curved bow and arrows, and heads and leads the dances.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: XXVII. To Artemis, ll. 17-20; source lines 7308-7327
+  quote_or_summary: The dancers utter a heavenly voice, singing how neat-ankled Leto
+    bore children supreme among the immortals in thought and deed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: quote
+  locator: XXVII. To Artemis, ll. 21-22; source lines 7308-7327
+  quote_or_summary: '"Hail to you, children of Zeus and rich-haired Leto!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    directly supported by the hymn and the supplied taxonomy; no external comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied Artemis passage and metadata were used; the broader locator label mentions other hymns, but the supplied passage text is XXVII. To Artemis.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7308-l7327
+  passage_sha256=eb2a79691e823b2ecb04d907981051385e40190fae4b9668d57965d34397becf
+

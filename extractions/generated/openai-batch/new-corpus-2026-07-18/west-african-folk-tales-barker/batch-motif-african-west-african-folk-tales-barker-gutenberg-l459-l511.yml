@@ -1,0 +1,437 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l459-l511
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: ILLUSTRATIONS / INTRODUCTION / W. H. B. / I. ANANSI, OR SPIDER, TALES; lines
+    459-511
+  start: '459'
+  end: '511'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains how stories once attributed to Nyankupon became Anansi
+    stories. Spider asks Nyankupon for the tales, is required to bring live bees in
+    a jar, a boa-constrictor, and a tiger, and obtains each through deception. Nyankupon,
+    impressed by Spider’s cleverness, grants him permission to call the old tales
+    Anansi tales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the olden days, stories told by men were described as stories of Nyankupon,
+    the chief of the gods.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Spider, described as conceited, wanted the stories to be told about him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Spider asked Nyankupon that future tales told by men be Anansi stories instead
+    of Nyankupon stories.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Nyankupon agreed on the condition that Spider bring three things: a jar full
+    of live bees, a boa-constrictor, and a tiger.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Spider induced bees to enter an earthen vessel by reporting a dispute about
+    whether they could fill the jar, then sealed the jar and sent it to Nyankupon.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Spider induced a boa-constrictor to lie straight beside a long stick for measurement,
+    tied it to the stick, and sent it to Nyankupon.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Spider sewed up his own eye, claimed this let him see wonderful things, and
+    sewed up the tiger’s eyes when the tiger asked for the same experience.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After making the tiger helpless, Spider led it to Nyankupon’s house.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Nyankupon was amazed at Spider’s cleverness and allowed him to call the old
+    tales Anansi tales in the future.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Nyankupon
+  description: Chief of the gods; the stories were originally stories of Nyankupon,
+    and he sets the conditions for Spider.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Spider / Anansi
+  description: Conceited figure who wants the stories told about him and fulfills
+    Nyankupon’s conditions through cleverness.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Bees
+  description: Live bees required by Nyankupon; they enter the jar after Spider’s
+    prompted dispute.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Boa-constrictor
+  description: Animal required by Nyankupon; it is measured against a stick and tied
+    to it by Spider.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Tiger
+  description: Animal required by Nyankupon; its eyes are sewn up by Spider, making
+    it helpless.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: chief deity
+  assigned_to:
+  - fig:1
+  basis: Nyankupon is explicitly called the chief of the gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tale-name claimant
+  assigned_to:
+  - fig:2
+  basis: Spider asks that future tales be Anansi stories rather than Nyankupon stories.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: clever task-fulfiller
+  assigned_to:
+  - fig:2
+  basis: Spider obtains the three required beings through deceptive verbal and practical
+    actions, and Nyankupon is amazed at his cleverness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: condition-setter and granter
+  assigned_to:
+  - fig:1
+  basis: Nyankupon sets the three conditions and later grants Spider permission to
+    call the old tales Anansi tales.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: required capture target
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Nyankupon requires Spider to bring live bees, a boa-constrictor, and a tiger.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: jar or earthen vessel
+  literal_form: An earthen vessel or jar used to contain live bees.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: live bees
+  literal_form: A jar full of live bees, the first required thing.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: boa-constrictor
+  literal_form: A boa-constrictor, the second required thing, tied to a long stick.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: tiger
+  literal_form: A tiger, the third required thing, rendered helpless after its eyes
+    are sewn up.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: long stick
+  literal_form: A long stick used to measure and bind the boa-constrictor.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: needle and thread / sewn eye
+  literal_form: Needle and thread used by Spider to sew up his own eye and then the
+    tiger’s eyes.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: three required things
+  literal_form: 'The set of three conditions: live bees in a jar, a boa-constrictor,
+    and a tiger.'
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Request for the tales
+  summary: Spider asks Nyankupon that future tales be called Anansi stories; Nyankupon
+    agrees only if Spider brings three specified things.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Capture of the bees
+  summary: Spider stages a dispute about whether the bees can fill the jar; the bees
+    enter, and Spider seals the jar and sends it to Nyankupon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Capture of the boa-constrictor
+  summary: Spider provokes the boa-constrictor into being measured against a stick,
+    ties it to the stick, and sends it to Nyankupon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Capture of the tiger
+  summary: Spider sews his own eye, persuades the tiger to have its eyes sewn up,
+    and leads the helpless tiger to Nyankupon’s house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Naming permission granted
+  summary: Nyankupon is amazed by Spider’s clever fulfillment of the conditions and
+    gives permission for the old tales to be called Anansi tales.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Trickster wins authority through deceptive task fulfillment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Spider obtains all three required beings through staged disputes, verbal
+    misdirection, and bodily deception, after which Nyankupon grants the requested
+    naming authority.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not use the abstract term trickster; this label is inferred
+    from Spider’s demonstrated deceptive behavior.
+- id: motif:2
+  label: Origin of the name Anansi tales
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage explicitly explains how tales formerly associated with Nyankupon
+    came to be called Anansi tales after Spider completed Nyankupon’s conditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The culture-hero classification is limited to the origin of a narrative
+    naming convention, not to broader creation or civilizing acts.
+- id: motif:3
+  label: Threefold capture challenge
+  taxonomy_refs: []
+  basis: 'Nyankupon requires Spider to bring three specified beings, and the narrative
+    proceeds through three successive captures: bees, boa-constrictor, and tiger.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names a threefold challenge motif.
+- id: motif:4
+  label: Exchange of offerings or tasks for divine permission
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Spider receives permission from Nyankupon, the chief of the gods, after fulfilling
+    the condition of delivering the three required beings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage frames this as a condition and permission rather than an explicit
+    ritual exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 463-467
+  quote_or_summary: The heading presents the origin of the name “Spider Tales”; stories
+    told by men were formerly stories of Nyankupon, chief of the gods, and Spider
+    wanted them told about him.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 469-474
+  quote_or_summary: Spider asks Nyankupon to make future tales Anansi stories; Nyankupon
+    agrees on the condition that Spider bring a jar full of live bees, a boa-constrictor,
+    and a tiger.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 476-485
+  quote_or_summary: Spider takes an earthen vessel to the bees, frames a dispute about
+    whether they can fill the jar, and seals them inside after they enter.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 487-496
+  quote_or_summary: Spider takes a long stick to the boa-constrictor, asks to measure
+    it after reporting a dispute about its length, ties it to the stick, and sends
+    it to Nyankupon.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 498-505
+  quote_or_summary: Spider sews up his own eye, tells the tiger this allows him to
+    see wonderful things, sews up the tiger’s eyes at its request, and leads the helpless
+    tiger to Nyankupon’s house.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 505-508
+  quote_or_summary: Nyankupon is amazed at Spider’s cleverness in fulfilling the three
+    conditions and permits the old tales to be called Anansi tales.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage gives a clear sequence of
+    actions. Motif labels involving supplied taxonomy are interpretive and should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparison to another corpus or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l459-l511
+  passage_sha256=6becbbb39e8c7e58f59094948b982024afaacad3e46004b1a036999352dae668
+

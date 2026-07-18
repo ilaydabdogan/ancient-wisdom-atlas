@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l3403-l3430
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: RDBEH / DEATH OF MINCHIHR / NAUDER / AFRSIYB MARCHES AGAINST NAUDER; lines
+    3403-3430
+  start: '3403'
+  end: '3430'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"friend and foe / Alternate wear the crown"'
+  summary: Nauder pursues Krun, while Afrsiyb pursues Nauder. The Trnians attack Nauder,
+    and Afrsiyb captures the Persian king along with many warriors. A reflection on
+    Fortune describes rulers alternately rising and falling. Afrsiyb then orders Krun
+    pursued, learns of Krun's actions in the shubistn and Brmn's death, reacts with
+    rage, and becomes master of Persia after Nauder's seven-year reign.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Nauder follows after finding that Krun has departed, and Afrsiyb pursues Nauder.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Trnians catch up with Nauder, attack him vigorously, and Nauder falls
+    into enemy hands with more than one thousand warriors.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The verse describes thick dust rising from the hosts and darkening the heavens
+    during the battle.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Afrsiyb seizes the Persian king by the girdle-belt and drags him from his
+    horse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage reflects that Fortune alternately exalts and crushes people, and
+    that friend and foe alternately wear the crown.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the victory, Afrsiyb orders Krun to be pursued and attacked wherever
+    he can be found.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Afrsiyb hears that Krun has hurried to the protection of the shubistn and
+    has conquered and slain Brmn; Afrsiyb gnaws his hands with rage.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Nauder's reign is said to have lasted seven years, and after him Afrsiyb is
+    master of Persia.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nauder
+  description: The Persian king who follows Krun, is attacked, captured, dragged from
+    his horse, and whose reign lasted seven years.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Krun
+  description: A departed figure followed by Nauder and later ordered pursued by Afrsiyb;
+    he is reported to have gone to the protection of the shubistn and to have conquered
+    and slain Brmn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Afrsiyb
+  description: The Tartar-chief and victor who pursues Nauder, captures him, orders
+    Krun pursued, reacts with rage to news about Krun, and becomes master of Persia.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Trnians
+  description: The attacking force that comes up with Nauder and attacks him with
+    vigor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Nauder's captured warriors
+  description: More than one thousand famous warriors taken with Nauder on the field.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Brmn
+  description: A figure reported as conquered and slain by Krun.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: captured king
+  assigned_to:
+  - fig:1
+  basis: Nauder is called the Persian king and falls into enemy hands after being
+    seized and dragged from his horse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: fugitive or target of pursuit
+  assigned_to:
+  - fig:2
+  basis: Krun has departed and is later ordered pursued and attacked wherever found.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: victorious captor
+  assigned_to:
+  - fig:3
+  basis: Afrsiyb pursues Nauder, seizes him, and wins the victory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: new master of Persia
+  assigned_to:
+  - fig:3
+  basis: After Nauder, Afrsiyb is said to be master of Persia.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: attacking army
+  assigned_to:
+  - fig:4
+  basis: The Trnians come up with Nauder and attack him with great vigor.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: captured warrior group
+  assigned_to:
+  - fig:5
+  basis: More than one thousand famous warriors are taken with Nauder.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: slain opponent
+  assigned_to:
+  - fig:6
+  basis: Brmn is reported to have been conquered and slain by Krun.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: crown
+  literal_form: the crown alternately worn by friend and foe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: world as juggler
+  literal_form: the world itself described as an ingenious juggler playing novel tricks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: battle dust darkening the heavens
+  literal_form: thick dust from both hosts darkening the rolling heavens
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: girdle-belt seizure
+  literal_form: Afrsiyb seizing the Persian king by the girdle-belt
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Pursuit and capture of Nauder
+  summary: Nauder follows Krun, Afrsiyb pursues Nauder, and the Trnians overtake and
+    attack Nauder. Afrsiyb captures the Persian king along with many warriors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Reflection on Fortune and the crown
+  summary: The passage pauses to describe Fortune and the world as unstable, alternately
+    raising and crushing people and shifting the crown between friend and foe.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Aftermath of victory and transfer of power
+  summary: After victory, Afrsiyb orders Krun pursued, learns that Krun has taken
+    protection in the shubistn and slain Brmn, reacts with rage, and becomes master
+    of Persia after Nauder's seven-year reign.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: king captured in battle
+  taxonomy_refs: []
+  basis: Nauder, identified as the Persian king, is seized and dragged from his horse
+    by Afrsiyb and taken with many warriors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a military capture, not an execution or ritual captivity
+    scene.
+- id: motif:2
+  label: reversal of fortune in kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage explicitly says friend and foe alternately wear the crown and
+    then states that Afrsiyb becomes master of Persia after Nauder.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The royal_legitimacy taxonomy link is broad; the passage emphasizes changing
+    power rather than divine sanction, coronation, or lawful legitimacy.
+- id: motif:3
+  label: pursuit of a fleeing rival
+  taxonomy_refs: []
+  basis: Krun's departure prompts Nauder's pursuit, and after victory Afrsiyb orders
+    Krun pursued and attacked wherever found.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage reports pursuit and flight but does not complete a pursuit
+    episode for Krun within this line range.
+- id: motif:4
+  label: moral reflection on mortality after victory
+  taxonomy_refs: []
+  basis: The poem reflects that Fortune raises and crushes people and ends with death
+    as the end of all.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a didactic reflection embedded in the narrative rather than a
+    discrete mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3403-3407
+  quote_or_summary: Nauder follows after Krun's departure; Afrsiyb pursues Nauder;
+    the Trnians overtake and attack Nauder, who is captured with more than one thousand
+    warriors.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 3409-3416
+  quote_or_summary: '"Afrsiyb / Seized by the girdle-belt the Persian king, / And
+    furious, dragged him from his foaming horse." The same verse says a thousand warriors
+    were taken on the field.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 3418-3423
+  quote_or_summary: '"friend and foe / Alternate wear the crown"; the world is described
+    as an ingenious juggler that exalts one and crushes another, with death as the
+    end of all.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: summary
+  locator: 3425-3430
+  quote_or_summary: After victory Afrsiyb orders Krun pursued; he hears Krun has taken
+    protection in the shubistn and conquered and slain Brmn; Nauder's reign lasted
+    seven years, and after him Afrsiyb was master of Persia.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal episode extraction is straightforward. Motif labels are cautious
+    and passage-bound. No separate comparison claims were made because the passage
+    does not itself present an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names and place terms are retained as supplied in the passage text, including stripped or variant spellings such as Afrsiyb, Krun, Trnians, shubistn, and Brmn.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l3403-l3430
+  passage_sha256=80b8880061c8db3fb4e35c2d6405983dc7a3def1bf312a900c64f97da6be6c04
+

@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6790-l6815
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 19 / PAGE 20 / PAGE 21 / PAGE 22; lines 6790-6815
+  start: '6790'
+  end: '6815'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes gloss several translated phrases, identify three yew wands
+    as a possible early divining rod, discuss an idiom for overcoming, note a genealogical
+    discrepancy involving Messbuachalla, Etain, and Conary, and clarify that the fairy
+    host and Mider are grammatical subjects in the original.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The phrase translated as an interval is glossed as meaning until the same
+    day in the next year.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage notes “three wands of yew” and describes this as looking like
+    an early case of a divining rod.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The phrase translated “Hath smitten thee” is glossed as “hath hit thee.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The phrase translated “They ruined” is treated as an idiom meaning “they overcame,”
+    with comparison to occurrences in the Annals of Ulster.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note states that this account makes Etain the great-grandmother of Conary,
+    whereas the usual account makes her his grandmother, implying an inserted extra
+    generation.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note states that Etain and Eochaid Airem are contemporary, in the opening,
+    with kings who survived Conary.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The note states that the original word order is misleading and difficult,
+    and that sithchaire and Mider are the subjects of two original verbs.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Messbuachalla
+  description: Named in a line note that introduces a genealogical discussion involving
+    Etain and Conary.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Etain
+  description: Described as great-grandmother of Conary in this account and grandmother
+    in the usual account; also said to be contemporary with Eochaid Airem and kings
+    who survived Conary.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Conary
+  description: A figure whose relationship to Etain is discussed, and whom certain
+    kings are said to have survived.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Eochaid Airem
+  description: Said to be contemporary with Etain in the opening.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: kings who survived Conary
+  description: A group of kings described as surviving Conary and as contemporary
+    with Etain and Eochaid Airem in the opening.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: fairy host / sithchaire
+  description: Mentioned in a line note; the note states that sithchaire is one of
+    the subjects in the original wording.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Mider
+  description: Named in a line note as one of the subjects in the original wording.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: variant ancestor of Conary
+  assigned_to:
+  - fig:2
+  basis: The note says this account makes Etain Conary’s great-grandmother, while
+    the usual account makes her his grandmother.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: descendant in discussed genealogy
+  assigned_to:
+  - fig:3
+  basis: Conary is the figure whose relationship to Etain is discussed in the genealogical
+    note.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: contemporary in opening chronology
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The note says Etain and Eochaid Airem are contemporary with kings who survived
+    Conary.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: survivors of Conary
+  assigned_to:
+  - fig:5
+  basis: The note identifies the kings as those who survived Conary.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: grammatical subject in original wording
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The note says sithchaire and Mider are the subjects of the original verbs
+    ro choillsiut and doronsat.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: yew wands
+  literal_form: three wands of yew
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: possible divining rod
+  literal_form: divining-rod
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: divination with yew wands
+  taxonomy_refs: []
+  basis: The note explicitly says that the three wands of yew look like an early case
+    of a divining rod.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial note and uses cautious wording; it does not
+    provide the surrounding narrative action of divination.
+- id: motif:2
+  label: variant genealogy with inserted generation
+  taxonomy_refs: []
+  basis: The note contrasts this account with the usual account, saying Etain is made
+    Conary’s great-grandmother rather than grandmother and that an extra generation
+    is inserted.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a textual-genealogical pattern in an editorial note, not a fully
+    narrated mythic episode in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: PAGE 21, Line 2 note; lines 6790-6792
+  quote_or_summary: "“from that day to its fellow,” i.e. “till the same day next year.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: PAGE 21, Line 10 note; lines 6794-6795
+  quote_or_summary: "“Three wands of yew.” This looks like an early case of a divining-rod."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: PAGE 21, Line 21 note; line 6797
+  quote_or_summary: "“Hath smitten thee” ... “hath hit thee.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: summary
+  locator: PAGE 21, Line 29 note; lines 6799-6801
+  quote_or_summary: The note treats “They ruined” as an idiomatic phrase meaning “they
+    overcame” and refers to Annals of Ulster entries for comparison.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: PAGE 22, Line 2 note; lines 6803-6807
+  quote_or_summary: The note on “Messbuachalla” says this version makes Etain Conary’s
+    great-grandmother, while the usual account makes her his grandmother, inserting
+    an extra generation.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: PAGE 22, Line 2 note continuation; lines 6807-6808
+  quote_or_summary: The note adds that Etain and Eochaid Airem are contemporary, in
+    the opening, with kings who survived Conary.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: PAGE 22, Line 4 note; lines 6810-6815
+  quote_or_summary: The note on “The fairy host” says the original word order is misleading
+    and difficult, and identifies sithchaire and Mider as the subjects of ro choillsiut
+    and doronsat.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of editorial and philological notes rather than a continuous
+    narrative scene. Extraction is strongest for named figures, relationships, and
+    the yew-wand/divining-rod observation; broader motif classification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external narrative context was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6790-l6815
+  passage_sha256=0ee4b4b81d8ddeb639aa8bc40e3c2dc517a8096ce88f873a2388a5af9583a9a0
+

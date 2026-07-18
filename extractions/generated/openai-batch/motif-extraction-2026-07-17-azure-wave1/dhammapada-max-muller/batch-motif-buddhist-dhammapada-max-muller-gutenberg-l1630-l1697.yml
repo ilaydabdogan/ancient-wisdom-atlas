@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.buddhist-dhammapada-max-muller-gutenberg-l1630-l1697
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Chapter XXI. Miscellaneous / Chapter XXII. The Downward Course / Chapter
+    XXIII. The Elephant / Chapter XXIV. Thirst; lines 1630-1697
+  start: '1630'
+  end: '1697'
+  translation: Dhammapada, a Collection of Verses
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of verses defines the true Brahmana as a nonviolent, truthful,
+    tolerant, desireless, unattached, awakened sage. The passage uses images of a
+    mustard seed falling from a needle, brightness like the moon, traversal of a miry
+    road to the other shore, freedom from bondage, knowledge of beings' destruction
+    and return, and vision of heaven and hell and former abodes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Brahmana is described as finding no fault with beings, not killing or
+    causing slaughter, being tolerant and mild, having anger and hatred dropped away,
+    speaking truthfully and gently, and not taking what is not given.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Brahmana is described as having no desires for this world or the next,
+    being unshackled, without interests, understanding truth, reaching the depth of
+    the Immortal, and being above good and evil and their bondage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Brahmana is compared to the moon as bright, pure, serene, and undisturbed.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Brahmana is said to have traversed a miry road, the impassable world and
+    its vanity, gone through, and reached the other shore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Brahmana is described as leaving desires and longings, traveling without
+    a home, and extinguishing concupiscence and covetousness.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Brahmana is said to leave bondage to men, rise above bondage to the gods,
+    become free from every bondage, leave pleasure and pain, and conquer all worlds.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Brahmana is said to know the destruction and return of beings everywhere
+    and is called free from bondage, Sugata, and Buddha.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Brahmana's path is said to be unknown to gods, Gandharvas, and men; he
+    is described as passionless and as an Arhat.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Brahmana is described as claiming nothing as his own before, behind, or
+    between, and as poor and free from worldly love.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Brahmana is called manly, noble, heroic, a great sage, a conqueror, impassible,
+    accomplished, and awakened.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The Brahmana is said to know former abodes, see heaven and hell, reach the
+    end of births, and be perfect in knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Brahmana
+  description: The recurring figure addressed as the true Brahmana, characterized
+    by ethical restraint, renunciation, freedom from bondage, awakened knowledge,
+    and completion of births.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Other beings
+  description: Beings, whether feeble or strong, whom the Brahmana does not fault,
+    kill, or cause to be slaughtered.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Gods, Gandharvas, and men
+  description: Groups said not to know the path of the Brahmana whose passions are
+    extinct.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Beings everywhere
+  description: Beings whose destruction and return are known by the Brahmana.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Nonviolent ethical speaker
+  assigned_to:
+  - fig:1
+  basis: The figure does not kill, does not take what is not given, is tolerant and
+    mild, and speaks true, instructive, non-harsh speech.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Renunciant freed from desire and possession
+  assigned_to:
+  - fig:1
+  basis: The figure has no desires for this world or the next, travels without a home,
+    leaves longings, and calls nothing his own.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: Awakened sage and conqueror
+  assigned_to:
+  - fig:1
+  basis: The figure is called Sugata, Buddha, Arhat, great sage, conqueror, accomplished,
+    and awakened.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Knower of rebirth and afterlife realms
+  assigned_to:
+  - fig:1
+  basis: The figure knows the destruction and return of beings, former abodes, heaven
+    and hell, and the end of births.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Recipients of non-harm
+  assigned_to:
+  - fig:2
+  basis: Other beings are specified as not faulted, killed, or caused to be slaughtered
+    by the Brahmana.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Unable observers of the Brahmana's path
+  assigned_to:
+  - fig:3
+  basis: Gods, Gandharvas, and men are said not to know the Brahmana's path.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Mustard seed falling from a needle
+  literal_form: A mustard seed dropping from the point of a needle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Moon-like purity
+  literal_form: Bright like the moon; pure, serene, undisturbed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Miry road and impassable world
+  literal_form: A miry road; the impassable world and its vanity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Other shore
+  literal_form: The other shore reached after going through the impassable world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Bondage and shackles
+  literal_form: Shackles and bondage to men, gods, good, evil, and the world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: Germs of renewed life
+  literal_form: Germs of renewed life from which the Brahmana is free
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Heaven and hell
+  literal_form: Heaven and hell seen by the Brahmana
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Former abodes
+  literal_form: Former abodes known by the Brahmana
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ethical harmlessness and true speech
+  summary: The passage first defines the Brahmana through harmlessness toward beings,
+    tolerance, mildness, absence of anger and envy, truthful non-harsh speech, and
+    refusal to take what is not given.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Desirelessness and release from dual bondage
+  summary: The Brahmana is described as without desires for this world or the next,
+    unshackled, beyond good and evil, and having reached the depth of the Immortal.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Purity and crossing to the other shore
+  summary: The Brahmana is depicted as moon-bright and serene, having traversed the
+    miry, impassable world and reached the other shore without attachment or doubt.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Homeless renunciation and conquest of bondage
+  summary: The Brahmana leaves desires and longings, wanders without a home, is free
+    from bondage to humans and gods, leaves pleasure and pain, and is called a hero
+    who has conquered all worlds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Awakened knowledge beyond gods and men
+  summary: The Brahmana knows the destruction and return of beings, is named Sugata,
+    Buddha, and Arhat, has a path unknown to gods, spirits, and men, and knows former
+    abodes, heaven, hell, and the end of births.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: True holy person defined by nonviolence and truthful speech
+  taxonomy_refs:
+  - wisdom
+  basis: The Brahmana is identified by harmlessness, tolerance, absence of anger,
+    gentle true speech, and not taking what is not given.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is aphoristic and prescriptive rather than narrative.
+- id: motif:2
+  label: Renunciation as release from desire, possession, and bondage
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The Brahmana has no desires for this world or the next, leaves longings,
+    travels homeless, calls nothing his own, and is free from bondage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The motif is expressed as a series of qualities, not as a plotted renunciation
+    story.
+- id: motif:3
+  label: Crossing the impassable world to the other shore
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Brahmana is said to traverse the miry road and impassable world, go through,
+    and reach the other shore.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the crossing metaphorically; no literal travel episode
+    is narrated.
+- id: motif:4
+  label: Knowledge of rebirth and ending of births
+  taxonomy_refs:
+  - death_rebirth
+  - wisdom
+  basis: The Brahmana knows the destruction and return of beings, knows former abodes,
+    is free from germs of renewed life, and has reached the end of births.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes knowledge and cessation rather than a dramatized
+    death-and-rebirth event.
+- id: motif:5
+  label: Vision of heaven and hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Brahmana is said to see heaven and hell and to know former abodes.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The text states visionary knowledge of realms but does not provide a detailed
+    mapped journey through them.
+- id: motif:6
+  label: Awakened sage whose path is hidden from gods, spirits, and humans
+  taxonomy_refs:
+  - wisdom
+  basis: The Brahmana's path is unknown to gods, Gandharvas, and men, and he is called
+    passionless, Arhat, Sugata, Buddha, sage, conqueror, and awakened.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an elevated status description; comparative scope beyond this
+    passage requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: vv. 405-409; lines 1630-1697 passage range
+  quote_or_summary: The true Brahmana finds no fault with beings, does not kill, is
+    tolerant and mild, has anger and hatred drop away like a mustard seed from a needle,
+    speaks true non-harsh speech, and takes nothing not given.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:2
+  type: summary
+  locator: vv. 410-412; lines 1630-1697 passage range
+  quote_or_summary: The true Brahmana has no desires for this world or the next, is
+    unshackled, understands truth, reaches the depth of the Immortal, and is above
+    good and evil and their bondage.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:3
+  type: summary
+  locator: vv. 413-414; lines 1630-1697 passage range
+  quote_or_summary: The true Brahmana is bright like the moon, pure and serene, and
+    has traversed the miry road, the impassable world and its vanity, gone through,
+    reached the other shore, and become free from doubts and attachment.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:4
+  type: summary
+  locator: vv. 415-418; lines 1630-1697 passage range
+  quote_or_summary: The true Brahmana leaves desires and longings, travels without
+    a home, extinguishes concupiscence and covetousness, leaves bondage to men and
+    gods, is free from every bondage, leaves pleasure and pain, and conquers all worlds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:5
+  type: summary
+  locator: vv. 419-420; lines 1630-1697 passage range
+  quote_or_summary: The true Brahmana knows the destruction and return of beings everywhere,
+    is free from bondage, is called Sugata and Buddha, has a path unknown to gods,
+    Gandharvas, and men, has extinct passions, and is an Arhat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:6
+  type: summary
+  locator: vv. 421-423; lines 1630-1697 passage range
+  quote_or_summary: The true Brahmana calls nothing his own, is poor and free from
+    worldly love, is called noble, hero, great sage, conqueror, accomplished, and
+    awakened, and knows former abodes, sees heaven and hell, reaches the end of births,
+    and is perfect in knowledge.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summary from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied verses. Motif labels
+    are cautious because the passage is didactic and aphoristic rather than narrative.
+    No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:buddhist-dhammapada-max-muller-gutenberg__l1630-l1697
+  passage_sha256=ee5f39c35a94c9a0b4413a355084b469fbe978157cd77578e73df72a0f149263
+

@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.hindu-yoga-sutras-johnston-gutenberg-l1559-l1581
+source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+passage_locator:
+  label: INTRODUCTION TO BOOK I / BOOK I / INTRODUCTION TO BOOK II / BOOK II; lines
+    1559-1581
+  start: '1559'
+  end: '1581'
+  translation: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Thereupon follows perfect mastery over the powers.
+  summary: The passage describes spiritual force being gathered back from differentiated
+    powers into inner intuition and will, contrasts spiritual and psychical consciousness,
+    states that perfect mastery over powers follows, and explains this mastery as
+    the result of purity, poise, vision, discipline, struggle, and sacrifice, using
+    an athletic race-and-crown simile attributed to St. Paul.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Spiritual force is imagined as reversed from differentiated powers and gathered
+    into the inner power of intuition and spiritual will.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts spiritual consciousness with psychical consciousness
+    and links love and attention to where powers are developed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The numbered sutra states that perfect mastery over the powers follows.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The spiritual man is described as coming into his inheritance and gaining
+    complete mastery of his powers when the described spiritual condition is reached.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The struggle to keep the Commandments and the Rules, together with sacrifice,
+    is said to have paved the way for mastery.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An athlete is used as a simile for gaining mastery in contest and race through
+    long and arduous training, ending with gaining a crown.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: spiritual man
+  description: A spiritual person who reaches purity, poise, illuminated vision, inheritance,
+    and mastery of powers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: athlete
+  description: A simile figure who gains mastery in contest and race through long
+    training and gains a crown.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: St. Paul
+  description: Named as the source of the athletic simile used in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: spiritual practitioner gaining mastery
+  assigned_to:
+  - fig:1
+  basis: The passage says the spiritual man comes into inheritance and gains complete
+    mastery of his powers.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: athletic analogy for mastery through training
+  assigned_to:
+  - fig:2
+  basis: The athlete gains mastery in contest and race through long and arduous training
+    and gains the crown.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: cited source of simile
+  assigned_to:
+  - fig:3
+  basis: The passage introduces the athlete image as St. Paul’s simile.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: heart and treasure
+  literal_form: heart; treasure
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: vesture with powers
+  literal_form: vesture with its powers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: crown of mastery
+  literal_form: crown
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: contest and race
+  literal_form: contest and race
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: inward gathering of spiritual force
+  summary: Spiritual force that had entered differentiated powers is imagined as gathered
+    back into intuition and spiritual will, taking on unity.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: attention determines developed powers
+  summary: Love and attention are said to determine whether consciousness and its
+    powers develop toward spiritual or psychical consciousness.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: spiritual man gains mastery
+  summary: After a condition of purity, poise, and illuminated vision is reached,
+    the spiritual man gains complete mastery of his powers.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: discipline and athletic simile
+  summary: Discipline, struggle, and sacrifice are said to prepare mastery, as an
+    athlete gains mastery through training in contest and race and receives a crown.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inward unification of dispersed spiritual powers
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The passage describes spiritual force gathered from differentiated powers
+    into intuition and spiritual will, with unity marking spiritual things.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy references are broad; the passage is philosophical exposition
+    rather than a narrative quest episode.
+- id: motif:2
+  label: mastery through discipline and sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage says struggle to keep Commandments and Rules and sacrifice paved
+    the way for mastery.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage uses sacrifice in an ascetic or disciplinary sense, not as
+    a ritual offering scene.
+- id: motif:3
+  label: athletic contest as image of spiritual attainment
+  taxonomy_refs: []
+  basis: The passage explicitly compares spiritual mastery to an athlete gaining mastery
+    in contest and race through arduous training.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is presented as a simile within commentary, not as an independent
+    mythic episode.
+- id: motif:4
+  label: crown as reward for mastered effort
+  taxonomy_refs: []
+  basis: The athlete who gains mastery through training is said to gain the crown.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The crown appears only inside the athletic simile and is not elaborated
+    as a royal or divine symbol.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares spiritual mastery to St. Paul’s athlete who
+    gains mastery in contest and race through arduous training and receives a crown.
+  claim_level: same_function
+  target: St. Paul’s athlete/race/crown simile
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports an explicit analogy, but it does not provide the
+    source text or justify broader historical or doctrinal claims beyond the named
+    simile.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1559-1563
+  quote_or_summary: Spiritual force is imagined as reversed from differentiated powers
+    and gathered into the inner power of intuition and spiritual will, taking on unity.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1565-1569
+  quote_or_summary: The passage contrasts spiritual and psychical consciousness, speaks
+    of love and attention, and uses the images of heart, treasure, and vesture with
+    powers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:3
+  type: quote
+  locator: line 1571
+  quote_or_summary: 55. Thereupon follows perfect mastery over the powers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 1573-1576
+  quote_or_summary: When the described spiritual condition of purity, poise, and illuminated
+    vision is reached, the spiritual man comes into inheritance and gains complete
+    mastery of powers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1578-1581
+  quote_or_summary: The struggle to keep Commandments and Rules and sacrifice paved
+    the way for mastery; St. Paul’s simile of the athlete gaining mastery in contest
+    and race through long training and gaining the crown is invoked.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif mapping is cautious because
+    the passage is philosophical commentary with metaphor and simile rather than a
+    narrative myth. The comparison claim is explicit in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs apply directly to this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:hindu-yoga-sutras-johnston-gutenberg__l1559-l1581
+  passage_sha256=d1bfd8799445f1642296ea207e250f8a619cf346f895e10a9d57f395081100b4
+

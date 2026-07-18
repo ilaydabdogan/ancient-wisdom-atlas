@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l23308-l23347
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 23308-23347
+  start: '23308'
+  end: '23347'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage concludes one tale with a hidden sea-hare discovered under
+    a woman's hair, restoration of true forms at a spring, the youth's thanks to the
+    fox, and the youth's marriage to the princess and accession to kingship. It then
+    begins “The Master-Thief,” where a richly dressed stranger arrives at a poor old
+    couple's house, asks for rustic potatoes, and speaks with the peasant about an
+    absent son who had run away and was known for sharpness and bad tricks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman finds the sea-hare beneath the braids of her hair, seizes it, and
+    throws it on the ground while ordering it away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sea-hare runs to the merchant; both go to a spring, plunge into it, and
+    receive back their true forms.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The youth thanks the fox and says the raven and the fish are inferior to it
+    in knowing what to do.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The youth goes to the palace, where the princess is expecting him and accepts
+    her destiny.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The youth and princess are married; the youth becomes king and lord of the
+    kingdom.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The youth does not tell the princess where he concealed himself for the third
+    time or who helped him, so she believes he succeeded by his own skill and respects
+    him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: An old man and his wife rest in front of a miserable house after work.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A splendid carriage with four black horses arrives, and a richly dressed man
+    descends from it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The stranger asks only to eat a country dish of potatoes at the old couple's
+    table.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The wife prepares the potatoes as country-folk eat them, while the peasant
+    takes the stranger into the garden.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The peasant has dug holes in the garden and wants to plant trees in them.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After the stranger asks whether he has children to help, the peasant says
+    he once had a son who went into the world, was sharp and knowing but full of bad
+    tricks, ran away, and has not been heard from since.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the woman / princess
+  description: Female figure who finds and casts away the sea-hare; later the princess
+    expects the youth, marries him, and respects him because she believes he succeeded
+    by his own skill.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: sea-hare
+  description: Creature hidden beneath the woman's hair braids; after being thrown
+    down, it runs to the merchant and plunges into the spring to recover its true
+    form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: merchant
+  description: Figure to whom the sea-hare runs; he plunges into the spring with it
+    and receives back his true form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: youth
+  description: The youth thanks the fox, returns to the palace, marries the princess,
+    becomes king, and keeps secret where he hid and who helped him.
+  role_refs:
+  - role:3
+  - role:11
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: fox
+  description: Animal helper whom the youth thanks for knowing the right way to act.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: raven and fish
+  description: Figures mentioned by the youth as less capable than the fox.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: old peasant
+  description: Old man resting with his wife before a miserable house; he receives
+    the stranger, works in the garden, and speaks of his absent son.
+  role_refs:
+  - role:7
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: peasant's wife
+  description: Old woman who prepares the potatoes requested by the stranger.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: richly dressed stranger
+  description: A man who arrives in a splendid carriage with four black horses, asks
+    to eat potatoes at the peasant's table, and asks whether the peasant has children.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:10
+  name_or_label: absent son
+  description: The peasant's son, described as having gone into the world, being sharp
+    and knowing but full of bad tricks, and having run away without later news.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: finder and rejecter of hidden creature
+  assigned_to:
+  - fig:1
+  basis: She finds the sea-hare under her braids, seizes it, and throws it away.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: restored true-form beings
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The sea-hare and merchant plunge into the spring and receive back their true
+    forms.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: successful suitor and new king
+  assigned_to:
+  - fig:4
+  basis: The youth marries the princess and becomes king and lord of the kingdom.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: clever animal helper
+  assigned_to:
+  - fig:5
+  basis: The youth thanks the fox and says it knows the right tune to play.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mentioned inferior helpers
+  assigned_to:
+  - fig:6
+  basis: The youth explicitly compares the raven and fish unfavorably with the fox.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: bride who accepts the outcome
+  assigned_to:
+  - fig:1
+  basis: The princess expects the youth, accommodates herself to her destiny, marries
+    him, and respects him.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: rural hosts and workers
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The old couple rest from work at their poor house, host the stranger, and
+    prepare the requested food.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: noble-appearing guest
+  assigned_to:
+  - fig:9
+  basis: He arrives richly dressed in a splendid carriage and is treated by the peasant
+    as a possible nobleman.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: absent runaway son associated with tricks
+  assigned_to:
+  - fig:10
+  basis: The peasant says his son went out into the world, was sharp and knowing but
+    full of bad tricks, and ran away.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: father and garden worker
+  assigned_to:
+  - fig:7
+  basis: The peasant works in the garden and answers the stranger's question about
+    children by describing his son.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:11
+  label: concealer of assistance
+  assigned_to:
+  - fig:4
+  basis: The youth does not tell the princess where he hid or who helped him.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spring water
+  literal_form: spring into which the sea-hare and merchant plunge
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea-hare
+  literal_form: sea-hare hidden under hair braids and then cast down
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hair braids as hiding place
+  literal_form: braids of the woman's hair concealing the sea-hare
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: splendid carriage with four black horses
+  literal_form: carriage drawn by four black horses
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: country potatoes
+  literal_form: potatoes prepared as balls in the country-folk manner
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: garden tree planting
+  literal_form: holes in the garden prepared for planting trees
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Discovery of the sea-hare and restoration at the spring
+  summary: The woman discovers the sea-hare under her braids, throws it away, and
+    the sea-hare and merchant plunge into a spring and recover their true forms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Youth thanks the fox
+  summary: The youth praises the fox for its superior cleverness and contrasts it
+    with the raven and fish.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wedding and concealed assistance
+  summary: The youth returns to the palace, marries the princess, becomes king, and
+    lets her believe his victory came entirely from his own skill.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rich stranger visits poor old couple
+  summary: A richly dressed man arrives in a splendid carriage, asks the old couple
+    for a rustic potato dish, and the wife prepares it.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Garden conversation about the absent son
+  summary: In the garden, the peasant prepares to plant trees; the stranger asks about
+    children, and the peasant describes his runaway son.
+  figure_refs:
+  - fig:7
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: hidden creature found in hair
+  taxonomy_refs: []
+  basis: The sea-hare is concealed beneath the woman's hair braids and is exposed
+    when she feels for it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The larger test or reason for the concealment is outside this excerpt.
+- id: motif:2
+  label: restoration of true forms by plunging in a spring
+  taxonomy_refs:
+  - shapeshifter
+  basis: The sea-hare and merchant plunge into a spring and receive back their true
+    forms.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not state how or why the altered forms were first assumed.
+- id: motif:3
+  label: clever animal helper brings success
+  taxonomy_refs:
+  - wisdom
+  basis: The youth thanks the fox and says it knew the right course better than the
+    raven and fish.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives praise after the help but does not narrate the fox's
+    full earlier action.
+- id: motif:4
+  label: marriage to princess confers kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the wedding with the princess, the youth becomes king and lord of the
+    kingdom.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No additional ritual or political details are given.
+- id: motif:5
+  label: concealed assistance mistaken for personal skill
+  taxonomy_refs: []
+  basis: The youth hides the identity of his helper, and the princess respects him
+    because she believes he succeeded by his own skill.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports the deception but not later consequences.
+- id: motif:6
+  label: noble-appearing stranger seeks humble hospitality
+  taxonomy_refs: []
+  basis: A richly dressed stranger arrives by carriage at a poor house and asks only
+    to eat country-style potatoes with the peasant couple.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not yet reveal the stranger's identity or purpose.
+- id: motif:7
+  label: runaway clever son with trickster traits
+  taxonomy_refs:
+  - departure
+  - trickster_boundary
+  basis: The tale title is “The Master-Thief,” and the peasant describes his absent
+    son as sharp, knowing, full of bad tricks, and long gone from home.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The son is only described indirectly in this passage and has not yet appeared
+    in the action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23308-23313
+  quote_or_summary: A woman finds the sea-hare beneath her hair braids, throws it
+    down, and the sea-hare runs to the merchant; both plunge into a spring and regain
+    true forms.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 23313-23316
+  quote_or_summary: The youth thanks the fox and says the raven and fish are foolish
+    compared with it because it knows the right course.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 23317-23323
+  quote_or_summary: The youth returns to the palace, marries the princess, becomes
+    king, and keeps secret where he hid and who helped him; she believes he acted
+    by his own skill and respects him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23325-23333
+  quote_or_summary: The tale “The Master-Thief” begins with an old couple at a poor
+    house; a richly dressed man arrives in a splendid carriage with four black horses
+    and asks for a country potato dish at their table.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 23334-23339
+  quote_or_summary: The peasant assumes the guest may be a nobleman, the wife prepares
+    potatoes in the country manner, and the peasant takes the stranger into the garden.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 23339-23343
+  quote_or_summary: The peasant has dug holes in the garden to plant trees; the stranger
+    asks whether he has children who could help with the work.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 23343-23347
+  quote_or_summary: The peasant says he had a son who went into the world long ago,
+    was sharp and knowing but full of bad tricks, ran away, and has not been heard
+    from since.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is mostly direct. Motif identifications are cautious because
+    the passage joins the end of one tale and the beginning of another, and some context
+    for the sea-hare test and the Master-Thief opening lies outside the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l23308-l23347
+  passage_sha256=07bb8229f1be54e8e30ea75b692d9ca1885cf48ccdba48495a64d1ff8c27ccc2
+

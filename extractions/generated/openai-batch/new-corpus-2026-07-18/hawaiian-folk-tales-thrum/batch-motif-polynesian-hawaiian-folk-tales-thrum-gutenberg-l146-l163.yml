@@ -1,0 +1,179 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l146-l163
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: 'Hawaiian Folk Tales: A Collection of Native Legends / PREFACE / T. G. T.;
+    lines 146-163'
+  start: '146'
+  end: '163'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A dated note from Honolulu explains that the compiler is publishing in
+    book form a series of legends previously featured in The Hawaiian Annual, with
+    added tales including a shark legend from Hawaiian Historical Society papers,
+    and lists recognized contributors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is dated Honolulu, January 1, 1907, and signed with the initials
+    T. G. T.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The compiler presents in book form a series of legends that had appeared in
+    The Hawaiian Annual over several previous years.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The series was enriched by several added tales.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A famous shark legend was furnished from the papers of the Hawaiian Historical
+    Society.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The collection includes contributions by named individuals described as recognized
+    authorities.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: T. G. T.
+  description: Initialed signer of the note dated Honolulu, January 1, 1907.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the compiler
+  description: Person who presents the legend series in book form in response to repeated
+    requests.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hawaiian Historical Society
+  description: Institution whose papers supplied the famous shark legend mentioned
+    in the note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: named contributors
+  description: Rev. A. O. Forbes, Dr. N. B. Emerson, J. S. Emerson, Mrs. E. M. Nakuina,
+    W. M. Gibson, Dr. C. M. Hyde, and others.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: signatory
+  assigned_to:
+  - fig:1
+  basis: The passage gives the initials T. G. T. before the Honolulu date.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: compiler of the collection
+  assigned_to:
+  - fig:2
+  basis: The passage says the compiler presents the series of legends in book form.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source archive or institution
+  assigned_to:
+  - fig:3
+  basis: The shark legend is said to have been furnished from the society's papers.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: contributors and recognized authorities
+  assigned_to:
+  - fig:4
+  basis: The listed individuals are described as contributors and recognized authorities.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: shark legend
+  literal_form: the famous shark legend
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Editorial note on the collection
+  summary: The note situates the publication of a book-form legend collection, identifies
+    prior publication in The Hawaiian Annual, mentions added tales including a shark
+    legend from Hawaiian Historical Society papers, and names contributors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 146-149
+  quote_or_summary: The note is signed T. G. T. and dated Honolulu, January 1, 1907.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 151-158
+  quote_or_summary: The compiler presents in book form a series of legends formerly
+    featured in The Hawaiian Annual; several tales are added, including a famous shark
+    legend from Hawaiian Historical Society papers.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 160-163
+  quote_or_summary: The collection includes contributions by Rev. A. O. Forbes, Dr.
+    N. B. Emerson, J. S. Emerson, Mrs. E. M. Nakuina, W. M. Gibson, Dr. C. M. Hyde,
+    and others, described as recognized authorities.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an editorial note rather than a myth narrative; no comparative
+    motif claims are supported beyond the literal mention of a shark legend.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not narrate the shark legend or any mythic action.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l146-l163
+  passage_sha256=18de9fa70cbb1b314d226c67e040a687ec8734c687695626dff228a5860de057
+

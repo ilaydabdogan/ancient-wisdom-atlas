@@ -1,0 +1,602 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l13953-l14051
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'GHOST STORIES. / FOOTNOTES: / CHAPTER VI. / LEGENDS.; lines 13953-14051'
+  start: '13953'
+  end: '14051'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Russian religious legends as a mixed body of apocryphal,
+    saintly, biblical, and possibly older heathen material, then gives etiological
+    legends about the dog at Paradise, the origin of windows in cottages, the composition
+    of the first human body, and the reduced form and preservation of grain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Russian popular memory preserves legends about biblical and
+    ecclesiastical persons and incidents, with sources including apocryphal books,
+    saints' lives, Indian adaptations, and older heathen traditions recast as Christian
+    narratives.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The passage states that Russian religious tales show a dual effect: pagan
+    elements entering Christian narratives and Christian names and language being
+    given to manifestly heathen legends.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In one legend, the Lord places the dog, then a clean beast, at the gates of
+    Paradise and orders it not to admit the Evil One.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Evil One gives the dog bread, the dog lets him into Paradise, and the
+    Evil One spits over Adam and Eve.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After Adam and Eve are expelled, the Lord declares the dog an unclean hound,
+    barred from dwellings and churches, while the story concludes that it is unclean
+    skin-deep but clean within.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In another story, early people ask the Devil how to build warm houses; he
+    teaches them to make windowless wooden cottages, which are warm but dark.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When the people pray to the Lord, he tells them to cut out a window, and the
+    cottage becomes light.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Dukhobortsui are said to hold that man was made from earthly materials
+    and animated when God breathed the breath of life into the body.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: One rye story says rye once bore ears from top to bottom, but after lazy harvest-women
+    cursed God's corn, the Lord stripped the ears until pity left a single ear.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A Little-Russian variant says Ilya began destroying all corn because of a
+    woman's misuse of God's corn; a dog begged for and received a few ears, from which
+    mankind later obtained seed.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage explicitly says some Russian traditions about creation of man
+    are closely connected with Teutonic myths, and that the rye story is also current
+    in Western Europe.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Lord
+  description: Divine figure who creates Adam and Eve, gives orders to the dog, judges
+    the dog, instructs people to make windows, breathes life into man, and strips
+    ears from rye in one story.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The Evil One / Devil
+  description: Adversarial figure who enters Paradise by giving bread to the dog,
+    spits on Adam and Eve, and later teaches people to build windowless cottages.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Adam and Eve
+  description: First humans created by the Lord, spat upon by the Evil One, and turned
+    out of Paradise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Dog / Hound
+  description: At first a clean guardian of Paradise; after admitting the Evil One,
+    declared an unclean hound; in the grain variant, a dog preserves a few ears of
+    corn for mankind.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Early people / mankind
+  description: People who do not know how to build winter houses, seek instruction
+    first from the Devil and then from the Lord; later receive seed from preserved
+    ears of corn.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:6
+  name_or_label: Dukhobortsui / Spirit-Wrestlers
+  description: Schismatic group said to hold a tradition about the elemental composition
+    of man and divine breath.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Lazy harvest-women
+  description: Women who curse God's corn in the rye story, causing the Lord to strip
+    ears from the stalk.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Ilya / Elijah
+  description: Figure in the Little-Russian variant who becomes angry at a woman's
+    misuse of God's corn and begins destroying all corn in the world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Woman misusing God's corn
+  description: Woman in the Little-Russian variant whose base use of God's corn provokes
+    Ilya's anger.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Creator
+  assigned_to:
+  - fig:1
+  basis: The Lord creates Adam and Eve and breathes life into man.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Punishing divine or saintly authority
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: The Lord judges the dog and strips rye ears; Ilya begins destroying corn
+    after misuse.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Adversary entering a guarded sacred place
+  assigned_to:
+  - fig:2
+  basis: The Evil One gives bread to the dog and is admitted into Paradise.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: First humans affected by defilement
+  assigned_to:
+  - fig:3
+  basis: Adam and Eve are spat upon by the Evil One and expelled from Paradise.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Beneficent instructor
+  assigned_to:
+  - fig:1
+  basis: The Lord tells people to cut out a window, bringing light into the cottage.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Defective instructor
+  assigned_to:
+  - fig:2
+  basis: The Devil teaches people to build warm cottages without windows, leaving
+    them dark.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Boundary guardian who fails
+  assigned_to:
+  - fig:4
+  basis: The dog is stationed at Paradise's gates but admits the Evil One after receiving
+    bread.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: Preserver of grain for mankind
+  assigned_to:
+  - fig:4
+  basis: A dog begs for and receives a few ears of corn, from which mankind later
+    obtains seed.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: Human recipients of supernatural instruction or aid
+  assigned_to:
+  - fig:5
+  basis: People receive house-building instructions and later seed from preserved
+    corn ears.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:10
+  label: Transmitters of anthropogonic belief
+  assigned_to:
+  - fig:6
+  basis: The passage attributes the elemental creation belief to the Dukhobortsui.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: Offenders against sacred grain
+  assigned_to:
+  - fig:7
+  - fig:9
+  basis: Harvest-women curse God's corn, and a woman misuses God's corn in the variant.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Gates of Paradise
+  literal_form: Gates of Paradise guarded by the dog
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Bread used to gain entry
+  literal_form: Piece of bread thrown to the dog by the Evil One
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Spittle as impurity
+  literal_form: Spittle covering Adam and Eve and explained as impure
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Windowless cottage
+  literal_form: Wooden izba with a door but no window, warm but dark
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Window and light
+  literal_form: Window cut into the cottage so that it becomes light
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Elemental human body
+  literal_form: Flesh of earth, bones of stone, veins of roots, blood of water, hair
+    of grass, thought of wind, spirit of cloud
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Rye or corn with diminished ears
+  literal_form: Rye once bearing ears from top to bottom, later reduced to a single
+    ear
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Preserved seed ears
+  literal_form: Few ears of corn obtained by a dog and used as seed for mankind
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Framing of Russian religious legends
+  summary: The passage describes religious legends as a mixed body shaped by apocryphal,
+    saintly, biblical, Indian, heathen, Christian, and dual-faith influences.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dog admits the Evil One into Paradise
+  summary: The Lord appoints the dog to guard Paradise, but the Evil One gives it
+    bread, enters, spits on Adam and Eve, and the Lord declares the dog unclean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Origin of cottage windows
+  summary: Early people learn to build warm but dark windowless cottages from the
+    Devil, then receive the Lord's instruction to cut out windows, bringing light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Elemental creation of man
+  summary: A belief attributed to the Dukhobortsui describes the human body as made
+    of natural materials and animated by God's breath.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Rye reduced after offense against God's corn
+  summary: Lazy harvest-women curse God's corn; the Lord strips ears from the rye
+    but leaves one after pitying the penitent offenders.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Dog preserves corn in Little-Russian variant
+  summary: Ilya destroys corn after a woman's misuse of it, but a dog obtains a few
+    ears, from which mankind later has seed, explaining why dogs should be fed and
+    cherished.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dual-faith syncretic religious legend
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly frames the legends as shaped by a mixture of Christian
+    and heathen elements and calls attention to a twofold effect in Russian peasant
+    religious tales.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an authorial framing of the corpus passage, not a single narrative
+    action within one tale.
+- id: motif:2
+  label: Corrupted guardian at sacred boundary admits evil
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The dog is stationed at Paradise's gates but admits the Evil One after receiving
+    bread.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy mapping is approximate; the passage gives the boundary episode
+    but does not call the Evil One a trickster.
+- id: motif:3
+  label: Etiology of impurity through divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Evil One's spittle explains the impurity of spittle, and the Lord's judgment
+    explains the dog's unclean status and exclusion from sacred/domestic spaces.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif combines two linked explanations from the same legend.
+- id: motif:4
+  label: Human culture skill corrected by divine instruction
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: The Devil teaches people an incomplete house form, while the Lord supplies
+    the decisive instruction to make a window and bring light.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents supernatural instruction in a practical skill; the
+    culture-hero taxonomy is used cautiously because the Lord and Devil are not explicitly
+    called culture heroes.
+- id: motif:5
+  label: Anthropogony from natural elements and divine breath
+  taxonomy_refs: []
+  basis: The Dukhobortsui belief describes man's flesh, bones, veins, blood, hair,
+    thought, and spirit as formed from natural substances, with life given by God's
+    breath.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference precisely matches elemental anthropogony.
+- id: motif:6
+  label: Sacred grain diminished by punishment but preserved for renewal
+  taxonomy_refs:
+  - divine_judgment
+  - death_rebirth
+  basis: Grain is reduced or destroyed after misuse or cursing of God's corn, but
+    a remnant ear or dog-preserved ears allow continued grain growth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The death_rebirth reference is approximate; the text concerns crop destruction,
+    survival, and renewed sowing rather than death and rebirth of a person.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that some Russian traditions about the creation of man
+    are closely connected with Teutonic myths.
+  claim_level: same_motif
+  target: Teutonic myths concerning the creation of man
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts the connection but does not provide the Teutonic
+    parallel text or details.
+- id: claim:2
+  claim: The passage states that the rye story about the reduction of grain ears is
+    also current in Western Europe.
+  claim_level: same_motif
+  target: Western European versions of the rye or grain-ear diminution story
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no specific Western European source or variant details.
+- id: claim:3
+  claim: The Little-Russian Ilya story is presented as a variant of the preceding
+    rye or corn diminution story, substituting Ilya and the dog-preserved ears for
+    the Lord's stripping of rye ears.
+  claim_level: same_motif
+  target: Russian rye/corn diminution legend in the preceding paragraph
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the two variants summarized in this passage.
+- id: claim:4
+  claim: The passage cautiously links some religious legends to adapted Indian legend
+    material, naming Varlaam and Josaphat as an example of such adaptation.
+  claim_level: historical_contact
+  target: Indian legend adaptations associated with Varlaam and Josaphat
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is a general source-history remark and is not tied to
+    one of the specific sample legends in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13953-13979
+  quote_or_summary: The chapter introduces Russian sacred legends as material drawn
+    from apocrypha, saints' lives, biblical and ecclesiastical history, Indian adaptations,
+    and older heathen traditions recast as Christian narratives; it emphasizes Christian-heathen
+    duality.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summary derived from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 13980-14005
+  quote_or_summary: The Lord appoints the dog to guard Paradise; the Evil One gives
+    the dog bread, enters, spits over Adam and Eve, and the Lord declares the dog
+    an unclean hound, though clean within.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summary derived from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 14006-14017
+  quote_or_summary: Early people ask the Devil how to build houses; he teaches warm
+    but windowless cottages. When they pray to the Lord, he tells them to cut out
+    a window, and the house becomes light.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summary derived from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 14018-14025
+  quote_or_summary: 'The passage says Russian creation-of-man traditions are connected
+    with Teutonic myths and quotes the Dukhobortsui belief: "His flesh was made of
+    earth, his bones of stone, his veins of roots, his blood of water, his hair of
+    grass, his thought of the wind, his spirit of the cloud."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 14026-14035
+  quote_or_summary: A rye story, said to be current in Western Europe, explains that
+    rye once had ears from top to bottom, but after lazy harvest-women cursed God's
+    corn, the Lord stripped the ears, leaving only one after pitying them.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summary derived from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 14036-14051
+  quote_or_summary: A Little-Russian variant says Ilya began destroying all corn after
+    a woman misused God's corn; a dog begged for a few ears, from which mankind later
+    obtained seed, explaining why dogs should be cherished and fed.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summary derived from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Some taxonomy
+    mappings are approximate because the available motif list does not include exact
+    categories for etiological impurity, elemental anthropogony, or grain-origin legends.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used. All comparison claims are limited to relationships explicitly stated or directly presented in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l13953-l14051
+  passage_sha256=22be3e499121afb69e83c4cc626c3f8634b3936fe074ccde326fd2aa6de85096
+

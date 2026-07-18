@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l1604-l1630
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: HSHENG / TAHMERS / JEMSHD / MIRTS-TZ, AND HIS SON ZOHK; lines 1604-1630
+  start: '1604'
+  end: '1630'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“When Feridn had attained his sixteenth year, he descended from the mountain”"
+  summary: Feridn descends from the mountain at sixteen, learns from his mother Farnuk
+    that Zohk killed his father, vows revenge despite her warnings, invokes Heaven
+    as his inspiration, and ultimately subdues Zohk.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Feridn reaches his sixteenth year, descends from the mountain, and stays for
+    a time on the plain beneath.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Feridn asks his mother Farnuk why Zohk killed his father, and she tells him
+    the story.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After hearing the story, Feridn resolves to take revenge on Zohk, who is called
+    a tyrant.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Farnuk tries to dissuade Feridn by saying he is young, friendless, and alone,
+    while Zohk rules the world and has armies.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Farnuk says that if Feridn is destined to become king, he should wait until
+    the Almighty blesses him with sufficient means.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Feridn replies that Heaven inspires and leads him, and he vows to bring the
+    tyrant from palace to dust.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Farnuk again warns Feridn that he cannot contend against imperial power and
+    fears his ruin.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Zohk becomes increasingly afraid of Feridn as people speak of the young invader
+    and expect his approach.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Feridn arrives, Zohk is subdued, and Zohk's power is extinguished.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Feridn
+  description: A sixteen-year-old youth who descends from the mountain, learns of
+    his father's death, vows revenge, claims Heaven inspires him, and subdues Zohk.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Farnuk
+  description: Feridn's mother, who tells him about his father's death and urges him
+    not to act rashly against Zohk.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Zohk
+  description: The tyrant who killed Feridn's father, is described as master of the
+    world with armies, fears Feridn, and is finally subdued.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Feridn's father
+  description: Feridn's father, said to have been put to death by Zohk.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: The Almighty / Heaven
+  description: The divine power invoked by Farnuk as able to bless Feridn with means
+    and by Feridn as inspiring and leading him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: avenging son
+  assigned_to:
+  - fig:1
+  basis: Feridn seeks revenge after learning that Zohk killed his father.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Heaven-led royal claimant
+  assigned_to:
+  - fig:1
+  basis: Farnuk speaks of his possible destiny to become king, and Feridn says Heaven
+    inspires and leads him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: maternal counselor
+  assigned_to:
+  - fig:2
+  basis: Farnuk warns Feridn against precipitate action and urges him to wait for
+    sufficient means.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: tyrant and world-ruling adversary
+  assigned_to:
+  - fig:3
+  basis: Zohk is called a tyrant, described as master of the world with armies, and
+    is Feridn's enemy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:5
+  label: murdered father
+  assigned_to:
+  - fig:4
+  basis: Feridn asks why Zohk put his father to death.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: invoked divine authority
+  assigned_to:
+  - fig:5
+  basis: Farnuk mentions the Almighty's blessing, and Feridn says Heaven inspires
+    and leads him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: the mountain from which Feridn descends
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: plain beneath
+  literal_form: the plain beneath the mountain where Feridn remains for a time
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: palace-to-dust reversal
+  literal_form: the tyrant brought from his palace to the dust
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Feridn descends and vows revenge
+  summary: Feridn descends from the mountain at sixteen, asks Farnuk about his father's
+    death, hears the story, and resolves revenge against Zohk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Farnuk warns against rash action
+  summary: Farnuk warns that Feridn is young and alone while Zohk has world-ruling
+    power and armies; she advises him to wait if kingship is his destiny.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Feridn invokes Heaven and rejects caution
+  summary: Feridn says Heaven inspires and leads him and vows to bring the tyrant
+    down, while Farnuk fears he will perish in the enterprise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Zohk fears and is subdued
+  summary: Zohk wastes away in dread as people expect Feridn's approach; Feridn arrives,
+    subdues Zohk, and ends his power.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: young hero's mountain departure
+  taxonomy_refs:
+  - departure
+  basis: At sixteen, Feridn descends from the mountain and begins the sequence that
+    leads to confrontation with Zohk.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a descent and approach, but not a fully developed journey
+    structure.
+- id: motif:2
+  label: avenging son confronts father's killer
+  taxonomy_refs: []
+  basis: Feridn learns that Zohk killed his father, resolves revenge, vows to bring
+    down the tyrant, and later subdues him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The father's death is reported only in summary within this passage.
+- id: motif:3
+  label: divinely sanctioned royal destiny
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Farnuk says kingship depends on destiny and the Almighty's aid; Feridn says
+    Heaven inspires and leads him before Zohk is overthrown.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not include an enthronement scene; divine sanction is
+    expressed through character speech.
+- id: motif:4
+  label: fearful tyrant awaiting the young invader
+  taxonomy_refs: []
+  basis: Zohk dreads Feridn, people speak of the young invader, and Zohk is eventually
+    subdued.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage mentions expectation and dread but does not give a detailed
+    prophecy in this line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at the same-function level to the royal_legitimacy
+    motif family because Feridn's possible kingship is framed as destiny and divine
+    aid before he overthrows a tyrant.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No coronation or formal investiture appears in the passage; the divine
+    framing is given through dialogue.
+- id: claim:2
+  claim: The passage can be cautiously compared at the same-function level to the
+    departure motif family because Feridn physically leaves the mountain setting and
+    moves into the conflict that culminates in Zohk's defeat.
+  claim_level: same_function
+  target: departure motif family
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage presents a descent from the mountain, but it does not narrate
+    a full departure ritual or journey cycle.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1604-1608
+  quote_or_summary: At sixteen, Feridn descends from the mountain to the plain, asks
+    Farnuk why Zohk killed his father, hears the story, and resolves revenge.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 1608-1614
+  quote_or_summary: 'Farnuk warns Feridn not to be precipitate: he is young, friendless,
+    and alone; Zohk is master of the world with armies; if Feridn is destined to become
+    king, he should wait for the Almighty to provide means.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 1615-1624
+  quote_or_summary: Feridn says, “'Tis Heaven inspires me,” and vows to bring the
+    tyrant “from his palace, to the dust”; Farnuk again warns him against imperial
+    power.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 1626-1630
+  quote_or_summary: Zohk increasingly dreads Feridn as people speak of the young invader
+    and expect his approach; Feridn comes, Zohk is subdued, and his power is extinguished.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied line range. Motif and comparison
+    labels are limited to passage evidence and the provided taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external context or unstated taxonomy identifiers were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l1604-l1630
+  passage_sha256=5cbf14df9a899ee82aec512b3c677a04bd70eb271715d57ab0d06d0a64c6aeb8
+

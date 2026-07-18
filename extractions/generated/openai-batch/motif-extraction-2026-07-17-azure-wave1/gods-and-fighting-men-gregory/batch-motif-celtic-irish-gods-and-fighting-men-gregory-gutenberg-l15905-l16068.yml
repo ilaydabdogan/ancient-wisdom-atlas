@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l15905-l16068
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: THE EVER-LIVING LIVING ONES / PART TWO. THE FIANNA / IV. THE PRONUNCIATION
+    / V. THE PLACE NAMES; lines 15905-16068
+  start: '15905'
+  end: '16068'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A place-name list mapping Irish or traditional names to modern locations.
+    The entries include rivers, lochs, waves, hills, mountains, islands, counties,
+    and a note that Magh Tuireadh/Moytura is the scene of battles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a catalogue of place names, pairing traditional names with
+    modern or geographic equivalents.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The catalogue includes water features such as rivers, lochs, waves, bays,
+    and islands.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:3
+  text: The catalogue includes hill and mountain entries, including names identified
+    with Benbulban, the Galtee Mountains, and Slieve Mis.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Magh Tuireadh is identified with Moytura near Sligo as the scene of a great
+    battle and with Moytura near Cong as the scene of a first battle.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Some place-name entries contain personal or possessive names, such as Cliodna's
+    Wave, Paps of Dana, and Wave of Rudraighe, without describing those named entities.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Water features
+  literal_form: Rivers, lochs or loughs, waves, bays, and island entries in the place-name
+    list.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Mountain and hill topography
+  literal_form: Entries for Beinn, hills, mountains, and Slieve place names.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Battle place
+  literal_form: Magh Tuireadh / Moytura identified as scenes of battles.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Named toponyms
+  literal_form: 'Place names containing possessive or personal labels: Cliodna''s
+    Wave, Paps of Dana, Wave of Rudraighe.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Place-name catalogue
+  summary: The passage lists traditional place names and gives modern equivalents
+    or county/location notes for them.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Magh Tuireadh battle-site note
+  summary: Within the catalogue, Magh Tuireadh is identified with two Moytura locations,
+    one described as the scene of a great battle and the other as the scene of a first
+    battle.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Toponymic localization / mythic geography catalogue
+  taxonomy_refs: []
+  basis: The passage anchors traditional names to modern Irish locations, including
+    counties, rivers, mountains, islands, and towns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an index-style list rather than a narrative episode; mythic
+    significance is not explained in the passage.
+- id: motif:2
+  label: Battle site localization
+  taxonomy_refs: []
+  basis: Magh Tuireadh is explicitly described through places that are scenes of a
+    great battle and a first battle.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The battles themselves are not narrated in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15905-16068; section heading and catalogue format
+  quote_or_summary: The section is headed "V. THE PLACE NAMES" and consists of entries
+    pairing names with locations, such as Accuill/Achill, Ath Cliath/Dublin, and Teamhair/Tara.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 15905-16068; water-feature entries
+  quote_or_summary: '"Banna The Bann"; "Boinn River Boyne"; "Loch Eirne Loch Erne";
+    "Sionnan River Shannon".'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 15905-16068; hill and mountain entries
+  quote_or_summary: '"Beinn Gulbain Benbulban, Co. Sligo"; "Crotta Cliach Galtee Mountains";
+    "Slieve Mis Co. Kerry".'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 15905-16068; Magh Tuireadh entry
+  quote_or_summary: '"Magh Tuireadh Moytura near Sligo, scene of great battle, and
+    Moytura, near Cong, scene of first battle."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 15905-16068; wave entries
+  quote_or_summary: '"Cliodna''s Wave At Glandore, Co. Cork"; "Wave of Rudraighe Bay
+    of Dundrum."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 15905-16068; Paps of Dana entry
+  quote_or_summary: '"Paps of Dana Co. Kerry."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward because the passage is a place-name
+    list. Motif candidates are limited because the passage contains little narrative
+    material. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or roles were extracted because named entities appear only inside toponyms and are not described as acting figures in the supplied passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l15905-l16068
+  passage_sha256=71e0e83b98d366ff81e196b8de09128c76cc9ef448e192ff552ba670587c41e4
+

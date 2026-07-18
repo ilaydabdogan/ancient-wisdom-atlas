@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7243-l7261
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 47 / PAGE 48 / THE SICK-BED OF CUCHULAIN / PAGE 57; lines 7243-7261
+  start: '7243'
+  end: '7261'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes gloss Samhain as a November 1 festival with Hallow-e'en
+    as its eve, discuss an exhibition of tongue tips as antiquarian information outside
+    the usual descriptions of the romance, and cross-reference demons screaming from
+    warriors' weapons to the Book of Leinster version of "Combat at the Ford."
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Samhain is glossed as being held on November 1, with Hallow-e'en identified
+    as its eve.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage mentions an exhibition of tips of tongues and analogizes it to
+    the principle of Indian scalps.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the tongue-tip exhibition has nothing to do with the
+    story and is not mentioned in usual descriptions of the romance.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage calls the tongue-tip detail possibly correct antiquarian information.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage suggests that the original form of the legends was probably barbaric
+    before literary men shaped the romances into their later form.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage refers to demons screaming from the weapons of warriors.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage directs readers to compare the demons screaming from warriors'
+    weapons with the Book of Leinster version of "Combat at the Ford."
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: demons
+  description: Demons are mentioned as screaming from warriors' weapons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: warriors
+  description: Warriors are mentioned in relation to the weapons from which demons
+    scream.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: screaming supernatural beings
+  assigned_to:
+  - fig:1
+  basis: The note says demons are screaming from weapons.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: weapon-associated warriors
+  assigned_to:
+  - fig:2
+  basis: The note identifies the weapons as belonging to or associated with warriors.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Samhain
+  literal_form: A festival held on November 1, with Hallow-e'en as its eve.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tips of tongues
+  literal_form: Exhibited tips of tongues.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: warriors' weapons
+  literal_form: Weapons from which demons scream.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Samhain gloss
+  summary: The editorial note identifies Samhain by date and relates it to Hallow-e'en.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tongue-tip exhibition note
+  summary: The editorial note mentions an exhibition of tongue tips, compares its
+    principle to Indian scalps, and states that it is extraneous to the usual romance.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Demons and warriors' weapons cross-reference
+  summary: The editorial note refers to demons screaming from warriors' weapons and
+    points to a comparison in the Book of Leinster version of "Combat at the Ford."
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Samhain calendrical festival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The note identifies Samhain as a festival held on November 1 and links its
+    eve with Hallow-e'en.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt is an editorial gloss rather than a narrative use of the festival.
+- id: motif:2
+  label: Display of tongue tips
+  taxonomy_refs: []
+  basis: The passage mentions an exhibition of tips of tongues and compares its principle
+    to Indian scalps.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The note explicitly says this detail has nothing to do with the story
+    and is not in usual descriptions of the romance.
+- id: motif:3
+  label: Demons sounding from weapons
+  taxonomy_refs: []
+  basis: The passage refers to demons screaming from the weapons of warriors.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt gives only an editorial cross-reference, not the full narrative
+    context.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself directs comparison between demons screaming from warriors'
+    weapons and the Book of Leinster version of "Combat at the Ford."
+  claim_level: same_motif
+  target: Book of Leinster version of "Combat at the Ford," pages 126 and 143 in this
+    volume
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the editorial cross-reference is present; the compared Book of
+    Leinster passages are not quoted in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7247-7248
+  quote_or_summary: '"Samhain was held on November 1st, and on its eve, ''Hallow-e''en''."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: line 7250
+  quote_or_summary: The passage mentions an exhibition of tips of tongues and analogizes
+    it to the principle of Indian scalps.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 7250-7252
+  quote_or_summary: The passage says the tongue-tip exhibition has nothing to do with
+    the story and is not mentioned in usual descriptions of the romance.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: summary
+  locator: lines 7253-7256
+  quote_or_summary: The passage describes the tongue-tip detail as possibly correct
+    antiquarian information and suggests earlier forms of the legends were probably
+    barbaric before later literary shaping.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: quote
+  locator: lines 7258-7260
+  quote_or_summary: '"For the demons screaming from the weapons of warriors compare
+    the Book of Leinster version of the ''Combat at the Ford''."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial notes rather than continuous narrative,
+    so motif extraction is limited to explicit glosses and cross-references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or motifs beyond those explicitly mentioned in the supplied passage were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7243-l7261
+  passage_sha256=eac380b8e11e57878014ccb90a44181888d88e3b4b25db30e41c3fd73227b079
+

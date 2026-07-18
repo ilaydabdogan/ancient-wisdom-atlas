@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l2284-l2293
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: QALAGANGUASE, WHO PASSED TO THE LAND OF GHOSTS / ISIGALIGARSSIK / THE INSECTS
+    THAT WOOED A WIFELESS MAN / THE VERY OBSTINATE MAN; lines 2284-2293
+  start: '2284'
+  end: '2293'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Moon Man tells the Obstinate One that he must not do something and
+    offers him a share of his own catch. The Obstinate One instead takes harpoons
+    from the Moon Man's store, harpoons and kills walruses, and after returning from
+    the Moon Man's place ceases being obstinate and no longer forces his mourning
+    wife to work.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Moon Man tells the Obstinate One that he must not or cannot proceed, and
+    promises him a share of the Moon Man's catch.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Obstinate One is not content with the offered share and takes harpoons
+    from the Moon Man's store.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Obstinate One harpoons a walrus and holds it on the line.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The passage describes the Obstinate One as very strong.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Obstinate One kills the walrus and deals similarly with another walrus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After returning from the Moon Man's place, the Obstinate One stops being obstinate.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After his return, the Obstinate One never again forces his wife to work while
+    she is in mourning.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Moon Man
+  description: A figure who speaks to the Obstinate One, has a recent catch, and has
+    a store containing harpoons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The Obstinate One
+  description: A very strong man who rejects the Moon Man's offer, takes harpoons,
+    harpoons and kills walruses, returns from the Moon Man's place, and ceases being
+    obstinate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: wife
+  description: The Obstinate One's wife, described as being in mourning and formerly
+    forced to work by him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: walruses
+  description: Animals harpooned and killed by the Obstinate One.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: warning host and owner of catch
+  assigned_to:
+  - fig:1
+  basis: The Moon Man warns the Obstinate One and offers a share of his own catch;
+    the harpoons are from his store.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: obstinate hunter and visitor
+  assigned_to:
+  - fig:2
+  basis: The man rejects the offered catch, takes harpoons, kills walruses, and later
+    returns from the Moon Man's place changed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mourning wife affected by the man's conduct
+  assigned_to:
+  - fig:3
+  basis: The passage says he never again forced his wife to work while she was in
+    mourning.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: hunted prey
+  assigned_to:
+  - fig:4
+  basis: The walruses are harpooned and killed by the Obstinate One.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Moon Man's place
+  literal_form: place associated with the Moon Man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: harpoons from the Moon Man's store
+  literal_form: harpoons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: walrus catch
+  literal_form: walruses or catch
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: mourning
+  literal_form: state of mourning
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Moon Man warns and offers catch
+  summary: The Moon Man tells the Obstinate One that he must not or cannot proceed
+    and offers him a share of his own catch.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Taking harpoons and killing walruses
+  summary: The Obstinate One rejects the offer, takes harpoons from the Moon Man's
+    store, harpoons a walrus, holds it on the line, kills it, and deals similarly
+    with another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Return and changed conduct
+  summary: After returning from the Moon Man's place, the Obstinate One stops being
+    obstinate and no longer forces his mourning wife to work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Return from the Moon Man's place with behavioral change
+  taxonomy_refs:
+  - return
+  basis: The passage explicitly states that after returning from the Moon Man's place,
+    the Obstinate One ceases being obstinate and changes his conduct toward his mourning
+    wife.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The broader journey to the Moon Man's place is not included in this excerpt;
+    the motif is based only on the stated return and subsequent change.
+- id: motif:2
+  label: Disregard of warning and taking a powerful figure's equipment
+  taxonomy_refs:
+  - sacred_theft
+  basis: After the Moon Man warns him and offers a share of catch, the Obstinate One
+    takes harpoons from the Moon Man's store and uses them to hunt walruses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage says he took harpoons from the store but does not explicitly
+    call the act theft or describe the Moon Man as sacred; the taxonomy link is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2284-2286
+  quote_or_summary: '"But you must not, you cannot," said the Moon Man, and promised
+    him a share of the catch he had just made himself.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: quote
+  locator: lines 2286-2288
+  quote_or_summary: The Obstinate One "took harpoons from the Moon Man's store, and
+    harpooned a walrus."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: quote
+  locator: lines 2288-2290
+  quote_or_summary: He held the walrus on the line, is described as "a man of very
+    great strength," killed it, and dealt similarly with another.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: quote
+  locator: lines 2292-2293
+  quote_or_summary: After returning from the Moon Man's place, he stopped being obstinate
+    and never again forced his wife to work while she was in mourning.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied lines. Motif candidates
+    are tentative because the excerpt contains the return and behavioral change but
+    not the full preceding journey context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims added because the passage itself does not establish a specific cross-text comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l2284-l2293
+  passage_sha256=f43a4393384b5f30dc69b41490ae3dedcd48209d0950fae56fb60ccbca750c17
+

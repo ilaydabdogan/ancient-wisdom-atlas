@@ -1,0 +1,472 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l4731-l4891
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: YALE TABLET. / TRANSLITERATION. / TRANSLATION. / NOTES; lines 4731-4891
+  start: '4731'
+  end: '4891'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Scholarly notes discuss the pronunciation and etymology of Gilgamesh’s
+    name, a proposed connection of the name with an axe, visual depictions of Gilgamesh
+    and Enkidu on cylinder seals, Enkidu’s actions and role in relation to Gilgamesh,
+    Enkidu’s field-born and clay-creation associations, and a cautious analogy between
+    the Enkidu episode and Adam-and-Eve traditions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes describe the writing Gish-gi-mash as part of a process interpreting
+    the first syllable of Gilgamesh’s name as “hero.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports Professor Clay’s proposal that the original form of Gilgamesh’s
+    name was West Semitic and perhaps meant “offspring of Mash.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the axe figures prominently in the Epic as an instrument
+    wielded by Gilgamesh and reports a proposed scribal interpretation of the name
+    as “the axe of Mash.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notes describe cylinder seals in which Gilgamesh and Enkidu can be visually
+    similar, including examples where Enkidu has human legs like Gilgamesh.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The notes also describe cylinder seals where Enkidu is distinguished by animal
+    hoofs and variations in beard and hair.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage cites a scene in which Enkidu blocks or interposes his foot at
+    the gate of the family house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note glosses a line to mean that Enkidu will save Gilgamesh.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says Enkidu is always spoken of as “born in the field.”
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage contrasts creation by the will or heart of Aruru with creation
+    by molding out of clay.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage identifies the woman who guides Enkidu as harimtu, glossed as
+    “woman.”
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage notes that Eve is not named until after the fall and before that
+    is called “woman.”
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage states that analogy between tales does not by itself imply dependence,
+    and that similar traditions may have arisen independently.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Hero whose name and etymology are discussed; associated in the notes
+    with an axe and with seal-cylinder scenes involving Enkidu.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Enkidu
+  description: Figure paired with Gilgamesh in seal-cylinder discussion; described
+    as blocking a gate, saving Gilgamesh, born in the field, and guided by a woman.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Aruru
+  description: Divine creator figure named in the note on creation by the heart or
+    will.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: the woman / harimtu
+  description: Woman who guides Enkidu; the term harimtu is glossed as “woman.”
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Eve
+  description: Biblical figure mentioned in a comparative note as unnamed until after
+    the fall and previously called “woman.”
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hero
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage refers to the “hero’s name” and to “the two heroes” in depictions
+    of Gilgamesh and Enkidu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: axe-wielder
+  assigned_to:
+  - fig:1
+  basis: The notes state that the axe figures prominently as an instrument wielded
+    by Gilgamesh.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: paired figure in seal imagery
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh is discussed alongside Enkidu in seal-cylinder depictions where
+    their identities and visual markers are compared.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: gate-blocker
+  assigned_to:
+  - fig:2
+  basis: The passage cites Enkidu blocking or interposing his foot at the family-house
+    gate.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rescuer of Gilgamesh
+  assigned_to:
+  - fig:2
+  basis: A note explicitly glosses that Enkidu will save Gilgamesh.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: field-born being
+  assigned_to:
+  - fig:2
+  basis: The passage says Enkidu is always spoken of as born in the field.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine creator
+  assigned_to:
+  - fig:3
+  basis: The note describes creation by Aruru’s heart or will.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: female guide
+  assigned_to:
+  - fig:4
+  basis: The passage calls her the woman who guides Enkidu.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: comparative female figure called woman before naming
+  assigned_to:
+  - fig:5
+  basis: The passage states that Eve is called “woman” before she is named after the
+    fall.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: axe
+  literal_form: axe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gate of the family house
+  literal_form: gate
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: field
+  literal_form: field
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: clay
+  literal_form: clay
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: animal hoofs
+  literal_form: hoofs of an animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: woman as guide
+  literal_form: woman / harimtu
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Seal-cylinder depictions of Gilgamesh and Enkidu
+  summary: The notes describe visual depictions in which Gilgamesh and Enkidu are
+    sometimes hard to distinguish and sometimes differentiated by features such as
+    clothing, nudity, girdle, animal hoofs, beard, and hair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Enkidu at the family-house gate
+  summary: The passage cites a scene in which Enkidu blocks or places his foot at
+    the gate of the family house.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Enkidu as field-born and creation by divine will or clay
+  summary: The notes associate Enkidu with being born in the field and discuss creation
+    by Aruru’s will in contrast with molding out of clay.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Woman guides Enkidu and comparison to Eve
+  summary: The passage states that the woman who guides Enkidu is called harimtu,
+    “woman,” and compares this with Eve being called “woman” before her naming after
+    the fall.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: hero associated with an axe
+  taxonomy_refs: []
+  basis: The notes link Gilgamesh’s name interpretation with an axe and state that
+    the axe figures prominently as his instrument.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a scholarly etymological note, not a full narrative episode.
+- id: motif:2
+  label: paired heroes visually doubled or differentiated
+  taxonomy_refs:
+  - duality
+  basis: Seal-cylinder notes describe Gilgamesh and Enkidu as two heroes who can appear
+    similar or be distinguished by human and animal traits.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports paired contrast
+    but not a full metaphysical dualism.
+- id: motif:3
+  label: companion saves the hero
+  taxonomy_refs: []
+  basis: A note glosses the relevant line as meaning that Enkidu will save Gilgamesh.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The evidence is a brief note rather than a complete scene.
+- id: motif:4
+  label: gate-blocking intervention
+  taxonomy_refs: []
+  basis: The passage cites Enkidu blocking or placing his foot at the gate of the
+    family house.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The surrounding narrative context is not included in this passage.
+- id: motif:5
+  label: field-born or clay-created being
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage states that Enkidu is spoken of as born in the field and discusses
+    creation by divine will and molding out of clay.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The note compresses several creation details; the exact narrative sequence
+    is not supplied here.
+- id: motif:6
+  label: female guide to Enkidu
+  taxonomy_refs: []
+  basis: The passage identifies a woman who guides Enkidu and highlights her designation
+    as “woman.”
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The episode itself is not narrated in full in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares the woman who guides Enkidu with Eve before
+    naming, because both are identified by terms glossed as “woman.”
+  claim_level: linguistic_similarity
+  target: Genesis Adam-and-Eve tradition
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on a note about naming and terminology, not
+    on a full narrative comparison.
+- id: claim:2
+  claim: The passage explicitly cautions that analogy between the Babylonian and biblical
+    material does not prove dependence and may reflect independently arising similar
+    traditions.
+  claim_level: independent_recurrence
+  target: Enkidu episode and Adam-and-Eve-related tradition
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a methodological caution stated in the notes; it does not establish
+    a specific historical relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4731-4733; note [60]
+  quote_or_summary: "“Gish-gi-mash ... interpret the first syllable as ‘hero.’”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 4747-4771; note [65]
+  quote_or_summary: Professor Clay proposes a West Semitic form of Gilgamesh’s name,
+    perhaps “offspring of Mash,” and suggests a scribal interpretation as “the axe
+    of Mash,” noting that the axe is a prominent instrument of Gilgamesh.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 4812-4824; notes [73]-[75]
+  quote_or_summary: Seal-cylinder notes describe Gilgamesh and Enkidu as sometimes
+    visually similar, with Enkidu having human legs like Gilgamesh, and sometimes
+    conventionally differentiated, including by Enkidu’s animal hoofs and by beard
+    and hair.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 4831-4833; note [79]
+  quote_or_summary: "“Enkidu blocked the gate” and “Enkidu interposed his foot at
+    the gate of the family house.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:5
+  type: quote
+  locator: line 4839; note [84]
+  quote_or_summary: "“Enkidu will save Gilgamesh.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 4872-4881; notes [101]-[104]
+  quote_or_summary: The notes recall that Enkidu is “born in the field” and discuss
+    creation by Aruru’s heart or will alongside creation by molding out of clay.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 4887-4891; notes [105]-[108]
+  quote_or_summary: The notes compare Eve, called “woman” before being named after
+    the fall, with the Babylonian tale’s harimtu, the “woman” who guides Enkidu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: quote
+  locator: lines 4885-4886; note [107]
+  quote_or_summary: "“An analogy does not involve a dependence of one tale upon the
+    other ... similar traditions ... may have arisen independently.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly editorial and comparative notes rather than a continuous
+    mythic narrative. Extracted motifs are therefore based on cited descriptions and
+    scholarly summaries within the notes and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were assigned because the listed taxonomy symbols do not include axe, gate, field, clay, hoofs, or woman/harimtu. The broad motif taxonomy ref “duality” is used cautiously for paired/differentiated heroes, and “sacred_birth” is used cautiously for field-born/clay-created origin material.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l4731-l4891
+  passage_sha256=9b2c466e25c65b4c453464e0bba33fc343d96a14ca2ba361c1e51e37ae139749
+

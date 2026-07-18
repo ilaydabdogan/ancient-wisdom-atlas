@@ -2,7 +2,7 @@
 batch_request_index_version: '1'
 run_id: new-corpus-2026-07-18
 created_at: '2026-07-18T04:15:44Z'
-updated_at: '2026-07-18T05:12:00Z'
+updated_at: '2026-07-18T07:44:05Z'
 endpoint: "/v1/responses"
 model: gpt-5.5
 prompt_path: templates/batch-motif-extraction-prompt.md
@@ -33,7 +33,14 @@ shards:
   sha256: cbbf6dfd79d8ba952da89cfb6fd2a25886c742e38470e25532c710164fc0fd1d
   endpoint: "/v1/responses"
   model: gpt-5.5
-  status: prepared
+  status: completed_with_errors
+  output_path: data/batches/new-corpus-2026-07-18/results/shard-0002.output.jsonl
+  output_sha256: a24676ddeed5118596fabad18614a948bae8132303b5fe4c8a0b61f3b414ade1
+  errors_path: data/batches/new-corpus-2026-07-18/results/shard-0002.errors.jsonl
+  errors_sha256: 91229dbdbd91c547a72fc422ed60a0876cc390408680f9ae32ffe971976308de
+  runtime: realtime
+  error_count: 9
+  last_checked_at: '2026-07-18T06:02:10Z'
 - shard_id: shard-0003
   path: data/batches/new-corpus-2026-07-18/requests/shard-0003.jsonl
   request_count: 1000
@@ -41,7 +48,14 @@ shards:
   sha256: 1a7ad057a912bad853bf4e357cf0562314620af757b887229cd9bc737e203ba0
   endpoint: "/v1/responses"
   model: gpt-5.5
-  status: prepared
+  status: completed_with_errors
+  output_path: data/batches/new-corpus-2026-07-18/results/shard-0003.output.jsonl
+  output_sha256: 1cc12299e5babbf3912ea57f6c638a2aa4ee5ae05880840adcc16bc837eb0826
+  errors_path: data/batches/new-corpus-2026-07-18/results/shard-0003.errors.jsonl
+  errors_sha256: 6e8ffd32500ce1f4b77f62bb010846173332be59143e18cb6e9da5d2cf802d86
+  runtime: realtime
+  error_count: 12
+  last_checked_at: '2026-07-18T06:56:46Z'
 - shard_id: shard-0004
   path: data/batches/new-corpus-2026-07-18/requests/shard-0004.jsonl
   request_count: 647
@@ -49,5 +63,12 @@ shards:
   sha256: 6e11aa3a338346f03fc5553a0da67788e88b674498207f1d6cacf471b057e35b
   endpoint: "/v1/responses"
   model: gpt-5.5
-  status: prepared
+  status: completed_with_errors
+  output_path: data/batches/new-corpus-2026-07-18/results/shard-0004.output.jsonl
+  output_sha256: 7fcf3ca37fb84431543dfaa0e93c9b8b47061989143217552d10e6bcc5730a38
+  errors_path: data/batches/new-corpus-2026-07-18/results/shard-0004.errors.jsonl
+  errors_sha256: 1dd8f4364c2c7dcd2867b1e1616e77a88ad3b20ec6cba8bd3cce7e4ea70f34ce
+  runtime: realtime
+  error_count: 23
+  last_checked_at: '2026-07-18T07:44:05Z'
 

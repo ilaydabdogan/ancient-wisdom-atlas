@@ -1,0 +1,527 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18697-l18768
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 18697-18768
+  start: '18697'
+  end: '18768'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage promises paradise to penitent and observant believers; forbids
+    the prophet and believers to pray for idolaters once their hell-status is known;
+    cites Abraham withdrawing from his father after learning he was an enemy of God;
+    affirms God's knowledge, sovereignty over heaven and earth, and power over life
+    and death; and describes divine reconciliation with the prophet's followers and
+    with three men left behind after distress and repentance. The included notes explain
+    proposed occasions and the hardship of the expedition to Tabuc.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Penitent persons who serve, praise, fast, bow, worship, command justice, forbid
+    evil, and keep God's ordinances are said to be rewarded with paradise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prophet and true believers are not allowed to pray for idolaters, even
+    kin, after it is known that those idolaters are inhabitants of hell.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Abraham's request for forgiveness for his father is described as arising only
+    from a promise; when Abraham knew his father was an enemy to God, Abraham declared
+    himself clear of him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God is said not to lead people into error after guiding them until what they
+    should avoid has become known to them.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: God is described as possessing the kingdom of heaven and earth, giving life,
+    causing death, and being the only patron or helper.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God is described as reconciled to the prophet and to the Mohajerin and Ansars
+    who followed him in an hour of distress after some hearts nearly swerved.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The three left behind experience the earth and their souls as constricted,
+    conclude there is no refuge from God except recourse to God, and are turned to
+    repentance.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note says the expedition of Tabuc involved excessive heat, scarce provisions
+    and water, shared camels, divided dates, and drinking water from camels' stomachs.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A note identifies the three left behind as three Ansars who were secluded
+    from fellowship and conversation for fifty days until their sincere repentance
+    and release by revelation.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity who rewards, knows, possesses heaven and earth, gives life
+    and death, and becomes reconciled to repentant followers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the prophet / Mohammed
+  description: The prophet addressed by the prohibition on praying for idolaters and
+    described with followers in the hour of distress; notes identify the prophet as
+    Mohammed in the Tabuc context.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: the penitent faithful
+  description: Persons characterized by service to God, praise, fasting, bowing, worship,
+    moral command and prohibition, and keeping ordinances.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: idolaters
+  description: Persons for whom prayer is forbidden after it becomes known that they
+    are inhabitants of hell; the prohibition applies even when they are kin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Abraham
+  description: A figure who had asked forgiveness for his father according to a promise
+    and then declared himself clear of him when he knew him to be God's enemy.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Abraham's father
+  description: Abraham's father is the relative for whom forgiveness had been requested
+    and who is described as an enemy to God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Mohajerin and Ansars
+  description: Followers of the prophet in the hour of distress; a note links the
+    distress to the expedition of Tabuc.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:8
+  name_or_label: the three left behind
+  description: Three persons left behind or left in suspense who experience constriction,
+    find no refuge except recourse to God, repent, and are reconciled; a note identifies
+    them as three Ansars.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: divine sovereign and giver of life and death
+  assigned_to:
+  - fig:1
+  basis: God is said to possess the kingdom of heaven and earth, give life, cause
+    death, and be the only patron or helper.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: merciful reconciler of repentants
+  assigned_to:
+  - fig:1
+  basis: God is described as reconciled to the prophet's followers and the three left
+    behind, and as compassionate and merciful.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: prophetic recipient of divine limits
+  assigned_to:
+  - fig:2
+  basis: The prophet is included in the rule forbidding prayer for known idolaters
+    and is also the leader followed in distress.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: penitent worshipers promised paradise
+  assigned_to:
+  - fig:3
+  basis: The passage lists their practices and states they shall be rewarded with
+    paradise.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: relative or outsider excluded from intercessory prayer after known opposition
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The passage forbids prayer for idolaters known as inhabitants of hell and
+    presents Abraham's father as one from whom Abraham separated after knowing him
+    as God's enemy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: exemplary disavower of God-opposing kin
+  assigned_to:
+  - fig:5
+  basis: Abraham declares himself clear of his father once his father's enmity toward
+    God is known.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: distressed followers nearly swerving but restored
+  assigned_to:
+  - fig:7
+  basis: They followed the prophet in the hour of distress after some hearts nearly
+    swerved, and God turned toward them.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:8
+  label: left-behind repentants restored after constriction
+  assigned_to:
+  - fig:8
+  basis: They are left behind, experience constriction, find no refuge except recourse
+    to God, and are turned to repentance.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: paradise
+  literal_form: paradise
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hell
+  literal_form: hell
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: kingdom of heaven and earth
+  literal_form: the kingdom of heaven and of earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: life and death
+  literal_form: he giveth life, and he causeth to die
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: constricted earth and souls
+  literal_form: the earth became too straight for them ... and their souls became
+    straightened within them
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: refuge only by recourse to God
+  literal_form: there was no refuge from GOD, otherwise than by having recourse unto
+    him
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: scarce water in distress
+  literal_form: water were so scarce ... drink the water out of the camels' stomachs
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Pious observance and promised paradise
+  summary: Penitent and observant worshipers are named and are promised reward with
+    paradise.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Forbidden intercession and Abraham's disavowal
+  summary: The prophet and believers are forbidden to pray for idolaters known as
+    inhabitants of hell; Abraham's withdrawal from his father is given as an example
+    tied to knowledge of enmity toward God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Divine knowledge and sovereignty
+  summary: God is described as not leading guided people into error before making
+    avoidance known, as knowing all things, and as sovereign over heaven, earth, life,
+    and death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Followers in the hour of distress
+  summary: God is reconciled to the prophet, Mohajerin, and Ansars after their ordeal
+    in the hour of distress; the note describes the Tabuc expedition as involving
+    heat, scarcity, and water hardship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:5
+  label: The three left behind and repentance
+  summary: Three left behind undergo constriction, recognize no refuge from God except
+    returning to God, and are reconciled so they may repent; the note adds their seclusion
+    and later release.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: pious observance rewarded with paradise
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links ritual and ethical observance with reward in paradise.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives reward language but not a detailed judgment-scene narrative.
+- id: motif:2
+  label: condemnation limiting intercession for kin
+  taxonomy_refs:
+  - divine_judgment
+  basis: Prayer for idolaters, even kin, is disallowed after their hell-status is
+    known, and Abraham's separation from his father is used as an example.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not narrate a full trial or sentencing; it states a rule
+    and an exemplary precedent.
+- id: motif:3
+  label: repentance after crisis brings divine reconciliation
+  taxonomy_refs: []
+  basis: The prophet's followers and the three left behind are described as restored
+    or reconciled after distress, constriction, and repentance.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: This is a thematic pattern inferred from adjacent statements and commentary;
+    it is not named as a motif in the passage.
+- id: motif:4
+  label: no refuge from the deity except return to the deity
+  taxonomy_refs: []
+  basis: The three left behind conclude that there is no refuge from God except by
+    recourse to God, after which God turns to them so they may repent.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The formulation is strong within the passage, but broader comparative
+    classification requires human review.
+- id: motif:5
+  label: divine sovereignty over life, death, heaven, and earth
+  taxonomy_refs: []
+  basis: God is explicitly described as owning the kingdom of heaven and earth, giving
+    life, causing death, and being the only patron or helper.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a theological assertion rather than a developed narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the divine judgment motif family in a limited sense: observant
+    believers are associated with paradise, while known idolaters are associated with
+    hell and are excluded from intercessory prayer.'
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No full eschatological judgment scene or afterlife journey is narrated
+    in this passage.
+- id: claim:2
+  claim: 'The episode of the three left behind functions like a repentance-and-restoration
+    pattern: exclusion or constriction is followed by recognition, recourse to God,
+    repentance, and reconciliation.'
+  claim_level: same_function
+  target: repentance-and-restoration pattern
+  evidence_refs:
+  - ev:7
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a pattern, not evidence of historical
+    contact or a named taxonomy motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18697-18700
+  quote_or_summary: '"The penitent ... and keep the ordinances of GOD, shall likewise
+    be rewarded with paradise."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 18701-18703
+  quote_or_summary: The prophet and true believers may not pray for idolaters, even
+    if they are kin, after it is known that they are inhabitants of hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 18704-18707
+  quote_or_summary: Abraham asked forgiveness for his father only because of a promise,
+    but when he knew his father was an enemy of God, he declared himself clear of
+    him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 18708-18710
+  quote_or_summary: God is not disposed to lead people into error after guiding them
+    until what they should avoid is made known; God knows all things.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 18711-18713
+  quote_or_summary: '"unto GOD belongeth the kingdom of heaven and of earth; he giveth
+    life, and he causeth to die."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 18714-18718
+  quote_or_summary: God is reconciled to the prophet and to the Mohajerin and Ansars
+    who followed him in the hour of distress, after some hearts nearly swerved.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: quote
+  locator: lines 18719-18723
+  quote_or_summary: '"the earth became too straight for them ... and they considered
+    that there was no refuge from GOD, otherwise than by having recourse unto him."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 18739-18744
+  quote_or_summary: A note explains the Tabuc expedition as an ordeal of excessive
+    heat, scarce provisions and water, shared camel-riding, divided dates, and drinking
+    water from camels' stomachs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage note.
+- id: ev:9
+  type: summary
+  locator: lines 18745-18754
+  quote_or_summary: A note identifies the three left behind as Caab Ebn Malec, Hell
+    Ebn Omeyya, and Merra Ebn Rab, three Ansars secluded from fellowship for fifty
+    days until sincere repentance and release by revelation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from provided passage note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction uses only the supplied verse text and included notes. Line subdivisions
+    within the supplied 18697-18768 range are approximate and should be checked against
+    the canonical markdown.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnotes are treated as part of the supplied passage metadata/commentary, distinct from the main translated text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18697-l18768
+  passage_sha256=1aa565a7ecb8d5f268603fe53a56f59982ed6ab5bfda7c959c64f87ab8bbfe07
+

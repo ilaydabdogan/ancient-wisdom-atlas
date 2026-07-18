@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.central-asian-gessar-khan-zeitlin-archive-l159-l189
+source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+passage_locator:
+  label: GESSAR KHAN / TOLD BY / THEODORE NADEJEN / FOREWORD; lines 159-189
+  start: '159'
+  end: '189'
+  translation: Gessar Khan
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Gessar Khan, mythical hero of Asia”"
+  summary: The foreword gives publication and translation history for the legend of
+    Gessar Khan, noting its earlier oral circulation, its 1716 Mongolian printing
+    in Peking, later Mongolian edition and German translation by Isaac Jakob Schmidt,
+    and related Kalmuck material. It also states that the epic’s Tibetan or Mongolian
+    origin is unclear.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The legend of Gessar Khan appeared in Mongolian in Peking in 1716 during the
+    reign of Kanghi and at his order.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gessar Khan is described as a mythical hero of Asia whose exploits had circulated
+    orally before being printed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Isaac Jakob Schmidt prepared a new Mongolian edition from the earlier text
+    and later produced a German translation titled Die Thaten Bogda Gesser Chans.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The present version is principally based on Schmidt’s German translation and
+    also refers to Benjamin Bergmann’s account of the so-called Little Gesser from
+    a Kalmuck original.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The foreword states that whether the epic’s origin is Tibetan or Mongolian
+    is unclear, since it has been set down in both languages.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Schmidt viewed the work as a source of material on speech and lifeways of
+    nomad tribes and as folk narrative.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gessar Khan
+  description: A mythical hero of Asia whose mighty exploits had long lived in oral
+    tradition before print.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kanghi
+  description: Ruler during whose reign and by whose order the Mongolian-language
+    legend appeared in Peking in 1716.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Isaac Jakob Schmidt
+  description: Member of the Imperial Academy of Sciences in St. Petersburg who prepared
+    a new Mongolian edition and German translation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Benjamin Bergmann
+  description: Author of an account of the so-called Little Gesser translated from
+    a Kalmuck original.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mythical hero
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Gessar Khan a mythical hero of Asia and mentions
+    his mighty exploits.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imperial patron of printed edition
+  assigned_to:
+  - fig:2
+  basis: The 1716 Mongolian-language appearance in Peking is said to have occurred
+    during Kanghi’s reign and at his order.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: editor and translator
+  assigned_to:
+  - fig:3
+  basis: Schmidt is described as preparing a new Mongolian edition and a German translation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: source author for related Little Gesser account
+  assigned_to:
+  - fig:4
+  basis: The present version refers to Bergmann’s account of the so-called Little
+    Gesser.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: 'Foreword: transmission and publication history'
+  summary: The passage summarizes how the Gessar Khan legend moved from oral circulation
+    to Mongolian print, later scholarly edition, German translation, and relation
+    to Kalmuck material, while noting uncertainty about Tibetan or Mongolian origin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mythical hero with mighty exploits preserved in oral tradition
+  taxonomy_refs:
+  - culture_hero
+  basis: The foreword identifies Gessar Khan as a mythical hero of Asia and says his
+    mighty exploits lived on the lips of the people before print.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a foreword rather than a narrative episode; it does not
+    describe specific deeds or culture-founding actions.
+comparison_claims:
+- id: claim:1
+  claim: The passage situates the Gessar Khan epic in more than one nearby textual
+    or linguistic tradition, specifically Tibetan, Mongolian, and a Kalmuck-related
+    Little Gesser account.
+  claim_level: same_motif
+  target: Tibetan, Mongolian, and Kalmuck Gessar/Gesser textual traditions
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports textual transmission and uncertain origin, but
+    does not compare narrative motifs or establish historical relationships beyond
+    the stated language traditions and referenced source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 159-164
+  quote_or_summary: In Peking in 1716, during Kanghi’s reign and at his order, the
+    Mongolian-language legend of Gessar Khan appeared; Gessar Khan is called a mythical
+    hero of Asia whose exploits had long circulated orally.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 164-171
+  quote_or_summary: In 1836 the Imperial Academy of Sciences authorized Isaac Jakob
+    Schmidt to prepare a new Mongolian edition; three years later it sanctioned his
+    German translation, Die Thaten Bogda Gesser Chans, published in St. Petersburg
+    in 1839, on which the present version is principally based.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 171-174
+  quote_or_summary: The version also refers to Benjamin Bergmann’s account of the
+    so-called Little Gesser, translated from a Kalmuck original and included in Nomadische
+    Streifereien.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 176-181
+  quote_or_summary: The foreword says the epic’s Tibetan or Mongolian origin is unclear
+    because it has been set down in both languages, though Schmidt inclined toward
+    Tibetan origin on internal evidence.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 181-189
+  quote_or_summary: Schmidt viewed the work as living material on the speech and lifeways
+    of nomad tribes and as a treasure of folk narrative made available to Europeans.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is introductory publication history, so motif extraction is limited
+    to the explicit description of Gessar Khan as a mythical hero and to stated cross-traditional
+    textual context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the available symbol list are explicitly present in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:central-asian-gessar-khan-zeitlin-archive__l159-l189
+  passage_sha256=24a8579cfb0ec19c7954c86d92371525cc12d2cbb28d1a48581441799de7f70e
+

@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4797-l4845
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4797-4845
+  start: '4797'
+  end: '4845'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Islamic paradise as a garden above or within
+    the highest heaven under God's throne, richly made of fragrant and precious substances.
+    It highlights the tree Tba, rivers and fountains of paradise, wish-fulfilling
+    abundance, the Hour al-oyn, and the names al Jannat, Jannat al Ferdaws, and Jannet
+    Aden.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Paradise is described as situated above the seven heavens, or in the seventh
+    heaven, and next under the throne of God.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The place is described with earth of wheat flour, musk, or saffron; stones
+    of pearls and jacinths; buildings enriched with gold and silver; and trees with
+    trunks of gold.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The tree called Tba, or the tree of happiness, is said to stand in the palace
+    of Mohammed, while a branch of it reaches the house of every true believer.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tba is described as laden with large pomegranates, grapes, dates, and other
+    fruits with tastes unknown to mortals.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Desired fruit or prepared birds are said to be presented according to a person's
+    wish, and the tree's boughs bend down to the hand of one gathering fruit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The tree is said to supply food, silken garments, and saddled riding beasts
+    that burst forth from its fruits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The tree's shade is described as so large that the fleetest horse could not
+    cross it in a hundred years.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Rivers of paradise are described as flowing with water, milk, wine, and honey,
+    all rising from the roof of Tba; al Cawthar and the river of life are named among
+    them.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The garden is also watered by many springs and fountains whose pebbles, earth,
+    beds, and sides are made of rubies, emeralds, camphire, musk, and saffron; Salsabl
+    and Tasnm are named as notable examples.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The girls of paradise are called Hr al oyn from their large black eyes, and
+    their company is described as a principal felicity of the faithful.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The Hr al oyn are said to be created of pure musk, free from natural impurities
+    and defects, modest, and secluded from public view in pavilions of hollow pearls.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The happy mansion is named al Jannat, Jannat al Ferdaws, and Jannet Aden;
+    the passage notes that Eden is generally interpreted differently from its Hebrew
+    acceptation.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The passage places paradise next under the throne of God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mohammed
+  description: The tree Tba is said to stand in the palace of Mohammed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: True believers / blessed / faithful
+  description: The passage describes true believers or the blessed as recipients of
+    the tree's branch, fruits, garments, riding beasts, and the felicity of paradise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Hr al oyn
+  description: Girls of paradise with large black eyes, created of pure musk and secluded
+    in pearl pavilions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Divine throne-holder
+  assigned_to:
+  - fig:1
+  basis: Paradise is located next under the throne of God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Prophetic palace-holder
+  assigned_to:
+  - fig:2
+  basis: The tree Tba is located in Mohammed's palace.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Blessed recipients of paradise abundance
+  assigned_to:
+  - fig:3
+  basis: The passage describes true believers or the blessed receiving fruit, food,
+    garments, riding beasts, and heavenly companionship.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: Heavenly companions of the faithful
+  assigned_to:
+  - fig:4
+  basis: The Hr al oyn are described as girls of paradise whose company is a principal
+    felicity of the faithful.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Paradise garden
+  literal_form: A garden or happy mansion above the seven heavens or in the seventh
+    heaven, next under God's throne.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Tree Tba / tree of happiness
+  literal_form: A gold-trunked tree in Mohammed's palace, extending to believers,
+    bearing extraordinary fruits, garments, and riding beasts, and casting immense
+    shade.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Rivers of paradise
+  literal_form: Rivers flowing with water, milk, wine, and honey, rising from the
+    roof of Tba; al Cawthar and the river of life are named.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Jeweled springs and fountains
+  literal_form: Springs and fountains with rubies, emeralds, camphire, musk, and saffron;
+    Salsabl and Tasnm are named.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Pearl pavilions
+  literal_form: Large pavilions of hollow pearls in which the Hr al oyn are secluded
+    from public view.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Precious and fragrant materials
+  literal_form: Wheat flour, musk, saffron, pearls, jacinths, gold, silver, rubies,
+    emeralds, and camphire used to describe the paradise landscape and structures.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Placement and adornment of paradise
+  summary: Paradise is located above or within the highest heaven under God's throne
+    and is described as made from fragrant substances, precious stones, gold, and
+    silver.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The abundance of Tba
+  summary: The tree Tba stands in Mohammed's palace, extends to every true believer,
+    bears extraordinary fruits, grants desired food, bends its boughs, and provides
+    garments and saddled beasts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rivers and fountains of the garden
+  summary: Rivers of water, milk, wine, and honey rise from Tba, and the garden is
+    watered by many jeweled springs and fountains.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Girls of paradise
+  summary: The Hr al oyn are described as resplendent girls of paradise, created of
+    pure musk, free from defects, modest, and secluded in large pearl pavilions.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Naming of the happy mansion
+  summary: The paradise mansion is named al Jannat, Jannat al Ferdaws, and Jannet
+    Aden, with a note distinguishing the interpretation of Eden from Hebrew usage.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Paradise as an afterlife garden of abundance
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage maps paradise as a garden above or within the highest heaven,
+    under God's throne, filled with rivers, fountains, precious materials, and rewards
+    for the faithful.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes an afterlife setting but does not narrate an actual
+    journey through it.
+- id: motif:2
+  label: Sacred tree as universal provider
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Tba is a vast tree in Mohammed's palace whose branch reaches every true believer,
+    whose fruits provide food, garments, and mounts, and from whose roof rivers arise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly call the tree an axis or world-tree; the
+    taxonomy link is based on its central provisioning and cosmic-scale features.
+- id: motif:3
+  label: Wish-fulfilling food and objects in paradise
+  taxonomy_refs: []
+  basis: Desired fruit or prepared birds appear according to wish, boughs bend to
+    the gatherer, and garments and riding beasts emerge from the tree's fruits.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific external taxonomy reference is assigned.
+- id: motif:4
+  label: Heavenly companions as reward for the faithful
+  taxonomy_refs: []
+  basis: The Hr al oyn are described as girls of paradise whose company is a principal
+    felicity of the faithful.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as part of paradise description; no broader
+    comparative claim is made here.
+- id: motif:5
+  label: Rivers of wondrous substances
+  taxonomy_refs: []
+  basis: The rivers of paradise flow with water, milk, wine, and honey and rise from
+    the roof of Tba.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the substances named in the passage are recorded.
+comparison_claims:
+- id: claim:1
+  claim: The passage notes a naming overlap between Jannet Aden and the garden of
+    Eden, while also stating that Eden is generally interpreted differently from its
+    Hebrew acceptation.
+  claim_level: linguistic_similarity
+  target: Hebrew Eden / garden of Eden naming tradition
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage's sentence is truncated at the supplied endpoint, and it
+    supports only a cautious naming or interpretive comparison, not narrative equivalence
+    or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4799-4805
+  quote_or_summary: Paradise is placed above or within the seventh heaven, next under
+    God's throne, and described with earth, stones, buildings, and tree trunks made
+    of fragrant or precious substances.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4805-4820
+  quote_or_summary: The tree Tba stands in Mohammed's palace, reaches every true believer,
+    bears immense fruits, provides desired foods, bends its boughs, supplies garments
+    and riding beasts, and has enormous shade.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4821-4830
+  quote_or_summary: Rivers of water, milk, wine, and honey rise from the roof of Tba;
+    al Cawthar and the river of life are named, and lesser jeweled fountains include
+    Salsabl and Tasnm.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4831-4840
+  quote_or_summary: The Hr al oyn are described as girls of paradise with large black
+    eyes, created of pure musk, free from impurities and defects, modest, and secluded
+    in large hollow-pearl pavilions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4841-4845
+  quote_or_summary: The happy mansion is called al Jannat, Jannat al Ferdaws, and
+    Jannet Aden, and the passage comments that Eden is not generally interpreted according
+    to its Hebrew acceptation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    assignment is cautious because the passage is descriptive and includes commentary/tradition
+    rather than a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external normalization of names or additional Qur'anic context was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4797-l4845
+  passage_sha256=7b98fe5f5d62c256f57db06aec40247cd3a7e969d926bcdece783901e6c7c9e5
+

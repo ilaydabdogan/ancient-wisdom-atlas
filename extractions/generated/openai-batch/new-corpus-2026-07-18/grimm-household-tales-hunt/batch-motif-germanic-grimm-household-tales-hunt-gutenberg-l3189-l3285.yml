@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l3189-l3285
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 3189-3285
+  start: '3189'
+  end: '3285'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the ending of the tale episode, Ilsabil, already made Emperor, demands
+    to become Pope and then to be like God so that she can command the sun and moon.
+    Her husband repeatedly petitions the Flounder amid increasingly violent storms.
+    The Flounder grants the papacy but, after the demand for divine likeness, sends
+    the couple back to their dirty hovel, where they remain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wife, already Emperor, says she also wants to be Pope and orders her husband
+    to go to the Flounder.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The husband fears the request, trembles, and goes to the sea while wind, clouds,
+    darkness, rising water, and distressed ships appear around him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Flounder responds to the husband’s petition and says the wife is Pope
+    already.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The husband returns to a large church and palaces where his wife sits in gold
+    on a high throne with three golden crowns, while emperors and kings kneel and
+    kiss her shoe.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The husband urges his wife to be satisfied, but she remains unsatisfied and
+    cannot sleep because of greed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At dawn the wife sees the rising sun and says she wants to order the sun and
+    moon to rise and to be like God.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The husband is horrified, falls before her, and begs her to remain Pope; she
+    becomes enraged and orders him to go.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: As the husband runs outside, a violent storm topples houses and trees, makes
+    mountains tremble, sends rocks into the sea, darkens the sky, and raises huge
+    black waves.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the final petition, the Flounder says the husband will find the wife
+    back in the dirty hovel, and the passage ends by saying they still live there.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the man / husband
+  description: A fearful husband who repeatedly goes to the Flounder, reports his
+    wife’s wishes, urges her to be satisfied, and finally returns to the hovel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: wife / Ilsabil
+  description: The husband’s wife, named Ilsabil in the petition formula; she is Emperor,
+    becomes Pope, remains unsatisfied, and demands to be like God.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: the Flounder
+  description: A speaking sea-being who answers the husband’s petition, grants the
+    wife’s papacy, and later sends the couple back to the dirty hovel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: emperors and kings
+  description: Collective rulers who kneel before the wife in her papal setting and
+    kiss her shoe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reluctant petitioner
+  assigned_to:
+  - fig:1
+  basis: He is afraid of the wife’s demands but goes to the Flounder and speaks the
+    petition formula.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: role:2
+  label: insatiable wish-maker
+  assigned_to:
+  - fig:2
+  basis: She demands to become Pope after becoming Emperor, remains unsatisfied, and
+    then demands divine likeness and control over the sun and moon.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:3
+  label: magical responder and arbiter
+  assigned_to:
+  - fig:3
+  basis: The Flounder answers petitions, declares the wife Pope, and later declares
+    the return to the hovel.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: subordinated rulers
+  assigned_to:
+  - fig:4
+  basis: The emperors and kings kneel before the wife and kiss her shoe.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stormy sea and rising water
+  literal_form: The sea, rising water, roaring waves, and black waves with white foam
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: sun and moon
+  literal_form: The rising sun and the wife’s stated wish to order the sun and moon
+    to rise
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: papal throne and regalia
+  literal_form: Large church, palaces, thousands of candles, gold clothing, high throne,
+    three golden crowns, and shoe-kissing rulers
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dirty hovel
+  literal_form: The dirty hovel to which the couple is returned
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: trembling mountains
+  literal_form: Mountains trembling during the final storm
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Demand for papacy and fearful errand
+  summary: The wife, already Emperor, demands to be Pope. The husband objects, becomes
+    afraid, and goes toward the Flounder while ominous weather gathers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Flounder grants the papal wish
+  summary: The husband speaks the petition formula, reports that his wife wants to
+    be Pope, and the Flounder says she is Pope already.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Papal splendor and renewed dissatisfaction
+  summary: The husband sees his wife enthroned in churchly splendor with rulers kneeling
+    before her. He asks her to be content, but she remains unsatisfied and restless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Desire to command the sun and moon
+  summary: At dawn the wife sees the sun rise and demands the power to order the sun
+    and moon, saying she wants to be like God. The husband is horrified and begs her
+    to stay as she is.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Final storm and return to the hovel
+  summary: The wife rages and sends the husband out. A destructive storm surrounds
+    him as he petitions the Flounder, who says the wife will be found back in the
+    dirty hovel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: escalating wishes beyond social and sacred rank
+  taxonomy_refs: []
+  basis: The wife moves from Emperor to Pope and then demands to be like God, despite
+    repeated warnings and pleas for contentment.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives only the concluding escalation, not the earlier wish
+    sequence before emperorship.
+- id: motif:2
+  label: attempt to control celestial order
+  taxonomy_refs: []
+  basis: The wife explicitly wants to order the sun and moon to rise and says she
+    cannot be happy unless she can make them rise herself.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states the desire, but the power is not granted.
+- id: motif:3
+  label: storm intensifies with transgressive desire
+  taxonomy_refs:
+  - chaos
+  basis: The weather and sea become progressively violent around the husband’s petitions,
+    culminating in toppled houses and trees, trembling mountains, black sky, thunder,
+    lightning, and enormous waves when the wife demands divine likeness.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage juxtaposes the storm with the wishes but does not explicitly
+    explain the storm’s symbolic function.
+- id: motif:4
+  label: final reversal to humble dwelling
+  taxonomy_refs:
+  - return
+  basis: After the demand to be like God, the Flounder sends the couple back to the
+    dirty hovel, where they remain.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The taxonomy reference is literal in the sense of return to a prior dwelling;
+    the passage does not frame it as a heroic return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3189-3204
+  quote_or_summary: The wife confirms she is Emperor, declares she will be Pope too,
+    rejects the husband’s objection, and commands him to go to the Flounder.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3205-3222
+  quote_or_summary: The husband goes in fear; wind, clouds, darkness, falling leaves,
+    rising roaring water, and distressed ships accompany his journey to the sea.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3223-3228
+  quote_or_summary: The Flounder asks what she wants; the husband says she wants to
+    be Pope; the Flounder replies, “she is Pope already.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 3229-3242
+  quote_or_summary: The husband finds a large church and palaces; inside, his wife
+    sits in gold on a high throne with three golden crowns, amid candles and ecclesiastical
+    splendor, while emperors and kings kneel and kiss her shoe.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3243-3253
+  quote_or_summary: The husband urges his wife, now Pope, to be satisfied; she is
+    stiff and unspeaking, later says she will consider it, but cannot sleep because
+    greed keeps her thinking of what else she might become.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3254-3269
+  quote_or_summary: At dawn the wife sees the sun rising and asks whether she too
+    can order the sun and moon to rise; she wakes her husband and says she wishes
+    to be like God, while he is horrified and begs her to remain Pope.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3270-3279
+  quote_or_summary: 'The wife rages and orders the husband to go. Outside, a storm
+    rages: houses and trees topple, mountains tremble, rocks roll into the sea, the
+    sky is black, thunder and lightning occur, and the sea rises in huge black waves
+    with white foam.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3280-3284
+  quote_or_summary: The husband tells the Flounder that the wife wants to be like
+    God. The Flounder says he will find her back in the dirty hovel, and the passage
+    ends by saying they still live there.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif labels are candidate
+    abstractions and should be reviewed. No external comparison claims were generated
+    because the supplied passage does not itself name another tale, corpus, or tradition
+    for comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line 3285 appears to be the next tale heading and was not treated as part of the extracted narrative episode.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l3189-l3285
+  passage_sha256=013ec29093b3baf84116456021ced5f3fff64c189e9ec1797271aefe20e51ae2
+

@@ -1,0 +1,386 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l1112-l1175
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: VI. TIT FOR TAT / VIII. THE SQUIRREL AND THE SPIDER / IX. WHY WE SEE ANTS
+    CARRYING BUNDLES AS BIG AS THEMSELVES / X. WHY SPIDERS ARE ALWAYS FOUND IN THE
+    CORNERS OF CEILINGS; lines 1112-1175
+  start: '1112'
+  end: '1175'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Egya Anansi farms a rich crop with his wife and son, then deceives them
+    so he can eat the harvest alone. His son discovers the loss, and villagers set
+    a sticky rubber-man in the field. Anansi strikes the figure and becomes stuck
+    to it. When he is found, he is ashamed, changes into a spider, and hides in a
+    ceiling corner; the tale concludes that this is why spiders are found in dark,
+    dusty corners.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Egya Anansi, his wife, and his son prepare a large farm planted with yams,
+    maize, and beans, and the crop is very abundant.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anansi is described as selfish and greedy, and he proposes that his wife and
+    son return to the village while he says he will travel to the coast.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After his wife and son leave, Anansi secretly stays near the farm, builds
+    a hut, stores crop from the barn, and feasts alone for a fortnight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Anansi’s son finds that more than half the harvest is gone; villagers help
+    make a sticky rubber-man and place it in the fields while watchers remain in a
+    barn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At night Anansi encounters the rubber-man, questions it, strikes it, and becomes
+    stuck to it with his hands, knees, body, and head.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At daybreak Anansi’s son and villagers find Anansi attached to the rubber-man
+    and identify him as the robber.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Anansi is ashamed, changes into a spider, and hides in a dark ceiling corner;
+    the tale says spiders have been found in dark, dusty corners since then.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Egya Anansi
+  description: A skilful farmer, husband, and father who is described as selfish and
+    greedy; he secretly consumes the shared harvest, is trapped by the rubber-man,
+    and changes into a spider.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Anansi’s wife
+  description: Anansi’s wife, who works on the farm, accepts Anansi’s plan, and returns
+    to the village.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Anansi’s son
+  description: Anansi’s son, who works on the farm, later discovers the missing harvest,
+    reports it, and helps catch the robber.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Villagers and young men
+  description: People from the village who help make and place the rubber-man; some
+    young men watch with Anansi’s son, and villagers are present when Anansi is discovered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: farm worker and harvest participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Anansi, his wife, and his son work together to prepare the farm and produce
+    the abundant harvest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deceptive hoarder of shared food
+  assigned_to:
+  - fig:1
+  basis: Anansi devises a plan to profit alone from the harvest and secretly eats
+    from the stored crop.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceived family member
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Anansi’s wife and son accept his plan and leave for the village, unaware
+    that he will stay behind.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: trap setter and witness
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The son reports the missing harvest; villagers help make the rubber-man,
+    place it in the field, and watch for the thief.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: exposed wrongdoer and transformed spider
+  assigned_to:
+  - fig:1
+  basis: Anansi is found stuck to the rubber-man, is ashamed, changes into a spider,
+    and hides in a ceiling corner.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: abundant harvest
+  literal_form: Yams, maize, beans, corn, and vegetables from the farm and barn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: rubber-man trap
+  literal_form: A sticky figure of a man made by the villagers and placed in the field.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: spider form
+  literal_form: The spider shape into which Anansi changes after being caught.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: dark ceiling corner
+  literal_form: A dark corner of the ceiling where Anansi hides after becoming a spider.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rich harvest and false plan
+  summary: Anansi farms with his wife and son, sees the unusually rich harvest, and
+    proposes a plan that sends them away while claiming he will travel to the coast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Secret solitary feast
+  summary: Anansi secretly remains near the farm, builds himself a hut, gathers stored
+    food, and eats alone until his son notices that much of the harvest is gone.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The sticky figure catches Anansi
+  summary: The villagers set a sticky rubber-man in the field. At night Anansi strikes
+    it and becomes attached to it by multiple parts of his body.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Discovery and spider transformation
+  summary: Anansi’s son and the villagers find Anansi caught as the thief. Ashamed,
+    he changes into a spider and hides in a dark ceiling corner, explaining where
+    spiders are now found.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Deceptive withholding of a shared harvest
+  taxonomy_refs: []
+  basis: Anansi arranges for his wife and son to leave so that he alone can consume
+    the harvest they all worked for.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level motif label, not an attested external taxonomy
+    ID.
+- id: motif:2
+  label: Sticky dummy traps the wrongdoer
+  taxonomy_refs: []
+  basis: A sticky rubber-man is set in the field; Anansi strikes it and becomes unable
+    to free his hands, knees, body, and head.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this trap pattern.
+- id: motif:3
+  label: Shame-driven transformation into spider explains spider habitat
+  taxonomy_refs:
+  - shapeshifter
+  basis: After being found out, Anansi changes into a spider and hides in a ceiling
+    corner; the passage explicitly connects this event to where spiders are found
+    afterward.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is limited to the transformation element; the etiological
+    explanation itself has no supplied taxonomy ID.
+- id: motif:4
+  label: Deceiver exposed at a social boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Anansi crosses from secret hiding-place to barn to take food, confronts a
+    decoy in the field, and is exposed as the thief before his family and villagers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage calls Anansi cunning and greedy but does not explicitly use
+    the word trickster; the taxonomy assignment requires review.
+- id: motif:5
+  label: Etiological explanation for present animal behavior
+  taxonomy_refs: []
+  basis: The closing sentence explains that spiders are found in dark, dusty corners
+    because Anansi hid there after becoming a spider.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied motif-family taxonomy ID directly corresponds to etiological
+    animal-habitat explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1112-1119
+  quote_or_summary: The tale opens by saying that Egya Anansi, his wife, and his son
+    prepare a large farm planted with yams, maize, and beans, and receive a crop much
+    larger than before.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1121-1131
+  quote_or_summary: Anansi is described as selfish and greedy. He tells his wife and
+    son that they should return to the village while he goes to the coast, after which
+    they will all return to feast.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1133-1141
+  quote_or_summary: Anansi’s wife and son go back to the village. Anansi does not
+    travel; instead he builds a hut near the farm, gathers food from the barn, and
+    prepares for a solitary feast.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1142-1153
+  quote_or_summary: After a fortnight, Anansi’s son goes to weed the farm, discovers
+    that more than half the harvest is gone, tells the villagers, and with them makes
+    a sticky rubber-man to set in the field while watchers remain nearby.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1155-1168
+  quote_or_summary: At night Anansi goes to fetch more food, sees the figure, questions
+    it, strikes it, and becomes stuck to it with both hands, knees, body, and head.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1168-1175
+  quote_or_summary: At daybreak Anansi’s son and villagers discover that the robber
+    is Anansi. Ashamed, Anansi changes into a spider and hides in a dark ceiling corner;
+    the tale concludes that spiders have since been found in dark, dusty corners.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is explicit in the passage. Motif labels are passage-level
+    candidates; taxonomy assignment to trickster_boundary is interpretive and should
+    be reviewed. No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references. The passage label mentions multiple tales, but the provided passage text is only the tale headed “X. WHY SPIDERS ARE ALWAYS FOUND IN THE CORNERS OF CEILINGS.”
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l1112-l1175
+  passage_sha256=1e5e2eb169fab07dfdd46bf4c23edb2a01e85a32140db9e8546964bcaa41f22e
+

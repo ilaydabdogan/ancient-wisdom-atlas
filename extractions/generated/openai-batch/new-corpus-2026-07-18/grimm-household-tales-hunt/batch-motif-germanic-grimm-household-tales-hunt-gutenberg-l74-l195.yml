@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l74-l195
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 74-195
+  start: '74'
+  end: '195'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table of contents enumerates tales 1-122, giving English tale titles
+    and, usually, German titles in parentheses. No narrative plot passage is included.
+  language: English with German parenthetical titles
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a numbered contents list of 122 tale titles, running from item
+    1 to item 122.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several titles name sibling or kinship figures, including brothers, a brother
+    and sister, and two kings’ children.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several titles contain snake wording, including snake-leaves, a white snake,
+    and snakes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'Two titles contain water wording: a water-nix and the water of life.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One title names a juniper-tree.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One title names a golden mountain.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Several titles use words of cleverness, wisdom, or knowing.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sibling-named figures
+  description: Brothers, a little brother and little sister, two brothers, and two
+    kings’ children are named in titles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Snake / snakes
+  description: Snake forms are named in titles as snake-leaves, a white snake, and
+    snakes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Water-Nix
+  description: A water-nix is named in one title.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: King of the Golden Mountain
+  description: A king connected with the golden mountain is named in one title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: kinship figure named in title
+  assigned_to:
+  - fig:1
+  basis: The cited titles explicitly name brothers, a brother and sister, and kings’
+    children.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: snake figure or snake object named in title
+  assigned_to:
+  - fig:2
+  basis: The cited titles explicitly use snake wording.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: water-associated supernatural figure named in title
+  assigned_to:
+  - fig:3
+  basis: The title names a Water-Nix.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: mountain-associated royal title figure
+  assigned_to:
+  - fig:4
+  basis: The title names a king of the golden mountain.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent / snake
+  literal_form: Snake-leaves; white snake; snakes
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: Water-Nix; Water of Life
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tree
+  literal_form: Juniper-tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: mountain
+  literal_form: Golden Mountain
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Sibling pair or sibling group in title list
+  taxonomy_refs:
+  - sibling_pair
+  basis: The contents list includes titles naming brothers, a brother and sister,
+    two brothers, and two kings’ children.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only titles, so no plot function or full sibling-pair
+    structure is demonstrated here.
+- id: motif:2
+  label: Serpent or snake title cluster
+  taxonomy_refs:
+  - serpent
+  basis: The contents list includes multiple titles with snake wording.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe the snakes’ narrative actions or symbolic
+    role.
+- id: motif:3
+  label: Life-giving water title
+  taxonomy_refs: []
+  basis: The title The Water of Life appears in the contents list, and another title
+    names a Water-Nix.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only title wording is present; the passage does not describe a quest,
+    healing, resurrection, or other water-of-life function.
+- id: motif:4
+  label: Cleverness, wisdom, and knowing in title list
+  taxonomy_refs:
+  - wisdom
+  basis: Multiple titles contain terms such as clever, wise, or know-all.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage does not provide narrative episodes showing wisdom, trickery,
+    judgment, or instruction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 74-195
+  quote_or_summary: The passage lists contents items 1-122, each as a tale title with
+    German title forms often in parentheses.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 82, 84, 133, 186
+  quote_or_summary: "“The Twelve Brothers”; “Little Brother and Little Sister”; “The
+    Two Brothers”; “The Two Kings’ Children.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpts.
+- id: ev:3
+  type: quote
+  locator: lines 89-90, 178
+  quote_or_summary: "“The Three Snake-Leaves”; “The White Snake”; “Stories about Snakes.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpts.
+- id: ev:4
+  type: quote
+  locator: lines 152, 170
+  quote_or_summary: "“The Water-Nix”; “The Water of Life.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpts.
+- id: ev:5
+  type: quote
+  locator: line 120
+  quote_or_summary: "“The Juniper-Tree.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: line 165
+  quote_or_summary: "“The King of the Golden Mountain.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 105, 107, 150, 167, 171, 177
+  quote_or_summary: "“Clever Hans”; “Clever Elsie”; “Clever Grethel”; “The Peasant’s
+    Clever Daughter”; “Dr. Know-All”; “Wise Folks.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpts.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence because the passage is a contents list.
+    Motif candidates are tentative because they are inferred only from title wording,
+    not from narrative episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No scenes or comparison claims were extracted because the passage contains contents titles rather than narrative material.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l74-l195
+  passage_sha256=bf1d5066d7cf3f296c31135331dd412b9c980b1b9e82b937bdd84a3aad77a4b2
+

@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l33408-l33433
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XLIV. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XLV. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 33408-33433
+  start: '33408'
+  end: '33433'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A divine book is said to speak truthfully concerning human deeds. Believers
+    who did good works are led by their Lord into mercy, while unbelievers are confronted
+    over rejecting signs, doubting the hour of judgment, mocking, and being deceived
+    by worldly life. Their evil deeds appear to them, they are forgotten as they forgot
+    the meeting of that day, and their abode is hell fire with no deliverer. The passage
+    closes with praise of God as Lord of heaven, earth, and all creatures, mighty
+    and wise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A book is described as speaking truth concerning the addressed people and
+    containing a written record of whatever they have done.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those who believed and performed good works are led by their Lord into mercy,
+    described as manifest felicity.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The infidels are addressed with a question about whether divine signs had
+    been rehearsed to them and are accused of proud rejection and wickedness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The infidels are described as having doubted or professed uncertainty about
+    the promise of God and the hour of judgment.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On that day, the evils of what they wrought appear to them, and what they
+    mocked at encompasses them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: They are told that they will be forgotten as they forgot the meeting of that
+    day, and their abode will be hell fire with no deliverer.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Their suffering is attributed to ridiculing the signs of God and being deceived
+    by worldly life; they are not taken out from there or asked to make themselves
+    pleasing to God.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: God is praised as Lord of the heavens, earth, and all creatures, with glory
+    in heaven and earth, and is called mighty and wise.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The Lord who leads believers into mercy, confronts or judges rejecters,
+    is Lord of heaven, earth, and all creatures, and is described as mighty and wise.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Those who believed and did good works
+  description: A group said to have believed and performed good works and to be led
+    by their Lord into mercy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The infidels / wicked people
+  description: A group accused of proudly rejecting divine signs, doubting the hour
+    of judgment, mocking, and being assigned hell fire as their abode.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: The book
+  description: A book that speaks truth concerning the addressed people and contains
+    a written account of what they have done.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Lord of creatures
+  assigned_to:
+  - fig:1
+  basis: God is explicitly named Lord of the heavens, earth, and all creatures.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: Divine judge and disposer of afterlife fate
+  assigned_to:
+  - fig:1
+  basis: The passage presents God or the divine speaker as assigning mercy to believers
+    and hell fire to rejecters in connection with the hour of judgment.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: Righteous recipients of mercy
+  assigned_to:
+  - fig:2
+  basis: Those who believed and did good works are led by their Lord into mercy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Rejecters subject to punishment
+  assigned_to:
+  - fig:3
+  basis: The infidels reject signs, doubt judgment, and are told their abode is hell
+    fire with no deliverer.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:5
+  label: Record and truth-speaking witness
+  assigned_to:
+  - fig:4
+  basis: The book is said to speak truth concerning people and to have written down
+    their deeds.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Book of deeds
+  literal_form: book containing written record of deeds and speaking truth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hour of judgment
+  literal_form: the hour of judgment
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Hell fire
+  literal_form: hell fire as abode
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Signs of God
+  literal_form: rehearsed signs of God that are rejected and ridiculed
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: Heaven and earth
+  literal_form: heavens and earth under God's lordship and glory
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: The book records and speaks truth
+  summary: A book is said to speak truthfully about the addressed people because their
+    deeds have been written down in it.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Believers led into mercy
+  summary: Those who believed and did good works are led by their Lord into mercy,
+    which is called manifest felicity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rejecters confronted over signs and judgment
+  summary: The infidels are addressed about the signs rehearsed to them, their proud
+    rejection, and their uncertainty about the hour of judgment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Punishment on the day of judgment
+  summary: The evils of what the rejecters did appear to them; what they mocked surrounds
+    them; they are forgotten, assigned hell fire, and have no deliverer.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Praise of God as cosmic Lord
+  summary: The passage closes by praising God as Lord of heaven, earth, and all creatures,
+    glorious in heaven and earth, mighty and wise.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment with recorded deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links a written record of deeds, the hour of judgment, the appearance
+    of evil deeds, and differentiated outcomes for believers and rejecters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes judgment and recompense; it does not give a detailed
+    courtroom scene.
+- id: motif:2
+  label: Afterlife punishment by hell fire
+  taxonomy_refs:
+  - divine_judgment
+  - fire
+  basis: Rejecters are told that their abode will be hell fire and that no deliverer
+    will remove them from it.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available motif-family taxonomy includes divine_judgment but not a
+    separate hell motif; fire is available as a symbol taxonomy ref.
+- id: motif:3
+  label: Mercy as reward for belief and good works
+  taxonomy_refs:
+  - divine_judgment
+  basis: Believers who do good works are led by their Lord into mercy, contrasted
+    with the punishment of rejecters.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is extracted as a judgment-reward pattern rather than a distinct
+    named taxonomy family.
+- id: motif:4
+  label: Rejected divine signs leading to judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The infidels are accused of rejecting and ridiculing the signs of God, and
+    their punishment is explicitly attributed to that conduct.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage does not specify the content of the signs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 33408-33410
+  quote_or_summary: The book will speak truth concerning the addressed people and
+    has written down whatever they have done.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 33411-33413
+  quote_or_summary: Those who believed and did good works are led by their Lord into
+    mercy, described as manifest felicity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 33414-33416
+  quote_or_summary: The infidels are asked whether God's signs were rehearsed to them
+    and are accused of proud rejection and wickedness.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 33417-33420
+  quote_or_summary: When told that God's promise is true and the hour of judgment
+    is beyond doubt, they answer that they know only an uncertain opinion and are
+    not assured.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 33421-33423
+  quote_or_summary: On that day, the evils they wrought appear to them, and what they
+    mocked encompasses them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 33424-33426
+  quote_or_summary: They are told that they will be forgotten as they forgot the meeting
+    of that day; their abode is hell fire and they have no deliverer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 33427-33430
+  quote_or_summary: Their fate is because they ridiculed the signs of God and were
+    deceived by worldly life; they are not taken out or asked to render themselves
+    pleasing to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 33431-33433
+  quote_or_summary: Praise is given to God, Lord of the heavens, earth, and all creatures;
+    glory is his in heaven and earth, and he is mighty and wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Comparison claims
+    are omitted because the passage does not itself establish a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy refs are limited to the provided lists; non-listed symbols are left without taxonomy refs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l33408-l33433
+  passage_sha256=7d6d51aab0a5c142563c73cc8c0ad1f2e9a0fdc730e1ef0247f4a3b2fc4faa0a
+

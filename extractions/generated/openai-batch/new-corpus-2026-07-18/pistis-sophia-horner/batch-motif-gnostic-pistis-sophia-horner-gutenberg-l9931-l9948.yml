@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l9931-l9948
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX ... 203 / INTRODUCTION /
+    THE FIFTH DOCUMENT; lines 9931-9948
+  start: '9931'
+  end: '9948'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragment of the Fifth Document describes an unnamed female subject being
+    punished by fire, taken along the road of the Middle where its Rulers punish her,
+    brought to the Virgin of the Light for judgment, delivered to Receivers associated
+    with the Sphere, cast to the Aeons of the Sphere, and taken by Ministers of the
+    Sphere to water below the Sphere that becomes boiling fire and purifies her. The
+    fragment then mentions Ialouham before a textual gap.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is part of a fragment headed "THE FIFTH DOCUMENT," with title
+    and eight pages wanting before the preserved text.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed female subject is punished in fire for a period stated as six other
+    months with eight days.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the fire punishment, the subject is taken upon the road of the Middle,
+    where each Ruler of that road punishes her for six other months with eight days.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The subject is taken to the Virgin of the Light, who is described as judging
+    the good and the evil, so that she may judge the subject.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the Sphere turns round, the subject is delivered to Receivers, who cast
+    her into the Aeons of the Sphere.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ministers of the Sphere take the subject to water below the Sphere; the water
+    becomes boiling, consuming fire until it entirely purifies her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A figure named Ialouham is mentioned as coming, but the text breaks off immediately
+    afterward with eight lines wanting.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed female subject
+  description: A female figure referred to only as "her"; she undergoes punishment,
+    judgment, casting into the Aeons of the Sphere, and purification.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Rulers of the road of the Middle
+  description: Rulers associated with the road of the Middle; each punishes the unnamed
+    subject.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Virgin of the Light
+  description: A judging figure described as accustomed to judge the good and the
+    evil.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Receivers
+  description: Agents to whom the subject is delivered and who cast her into the Aeons
+    of the Sphere.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ministers of the Sphere
+  description: Agents who take the subject to water below the Sphere.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Ialouham
+  description: A named figure said to come after the purification scene; the following
+    lines are missing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: punished and purified subject
+  assigned_to:
+  - fig:1
+  basis: The subject is punished by fire, judged, cast into the Aeons of the Sphere,
+    and purified by boiling fire-water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: punishing rulers
+  assigned_to:
+  - fig:2
+  basis: Each Ruler of the road of the Middle is said to punish the subject.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: judge of good and evil
+  assigned_to:
+  - fig:3
+  basis: The Virgin of the Light is described as one who judges the good and the evil
+    and judges the subject.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: transferring agents
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Receivers cast the subject into the Aeons of the Sphere, and the Ministers
+    of the Sphere take her to water below the Sphere.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: arriving named figure
+  assigned_to:
+  - fig:6
+  basis: Ialouham is mentioned as coming immediately before a textual lacuna.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire used for punishment and later as boiling, consuming fire arising
+    from water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: water below the Sphere
+  literal_form: water below the Sphere that becomes boiling fire and purifies the
+    subject
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: road of the Middle
+  literal_form: a road called the road of the Middle, governed by Rulers who punish
+    the subject
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Sphere and Aeons of the Sphere
+  literal_form: the Sphere, its Aeons, its Receivers, and its Ministers form the setting
+    of delivery, casting, and purification
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Virgin of the Light
+  literal_form: a judging being named the Virgin of the Light
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fragment opening and fire punishment
+  summary: In a fragmentary section, the unnamed female subject is punished in fire
+    for six other months with eight days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Punishment on the road of the Middle
+  summary: The subject is taken along the road of the Middle, where each Ruler of
+    that road punishes her for the same stated duration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Judgment by the Virgin of the Light
+  summary: The subject is brought to the Virgin of the Light, who is described as
+    judging good and evil, in order to judge her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Delivery to Receivers and Aeons of the Sphere
+  summary: When the Sphere turns round, the subject is delivered to Receivers, who
+    cast her into the Aeons of the Sphere.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Purification in water that becomes fire
+  summary: Ministers of the Sphere take the subject to water below the Sphere; it
+    becomes boiling, eating fire until she is entirely purified, after which Ialouham
+    is mentioned before a gap.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: judgment of a subject by a celestial or luminous judge
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Virgin of the Light is explicitly described as judging good and evil
+    and judging the subject.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The subject's identity and the larger doctrinal context are not preserved
+    in this fragment.
+- id: motif:2
+  label: sequential punitive passage through cosmic stations
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: 'The subject is moved through named cosmic locations and authorities: fire
+    punishment, the road of the Middle and its Rulers, the Virgin of the Light, Receivers,
+    Aeons of the Sphere, and water below the Sphere.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state in this excerpt that the journey
+    is after death; the taxonomy reference is therefore provisional.
+- id: motif:3
+  label: purification through water transformed into consuming fire
+  taxonomy_refs: []
+  basis: Water below the Sphere becomes boiling fire that eats into the subject until
+    it purifies her entirely.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No more specific supplied motif-family taxonomy fits this literal purification
+    scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9931-9933
+  quote_or_summary: '"THE FIFTH DOCUMENT"; "(_Title and eight pages wanting_)"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9935-9938
+  quote_or_summary: '"fire and punish her"; she is taken "upon the road of the Middle,"
+    where each Ruler punishes her for "six other months with eight days."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 9939-9940
+  quote_or_summary: She is taken "to the Virgin of the Light," who is wont "to judge
+    the good and ... the evil" and judge her.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 9941-9942
+  quote_or_summary: When the Sphere turns, she is delivered to "her Receivers," who
+    cast her "unto the Aeons of the Sphere."
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 9943-9945
+  quote_or_summary: The Ministers of the Sphere take her to "water which is below
+    the Sphere"; it becomes "a fire boiling and eating into her, until it purifieth
+    her entirely"; then Ialouham comes.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: line 9947
+  quote_or_summary: '"(_Eight lines wanting_)"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the fragmentary state of the passage and
+    by unidentified pronouns. Motif candidates are based only on preserved wording;
+    no external contextual claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this scene to another tradition or corpus.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l9931-l9948
+  passage_sha256=bd6a017b07b9159318b606d5022b0781b7cc7c98ed16d9a72a7166ca7d0b043a
+

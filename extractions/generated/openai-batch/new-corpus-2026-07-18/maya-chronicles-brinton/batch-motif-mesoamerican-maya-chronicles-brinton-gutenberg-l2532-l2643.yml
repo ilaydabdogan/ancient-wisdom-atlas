@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l2532-l2643
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: I. THE SERIES OF THE KATUNS. / TEXT. / TRANSLATION. / NOTES.; lines 2532-2643
+  start: '2532'
+  end: '2643'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Brinton’s notes analyze a difficult introductory paragraph about the order
+    of Katuns, the Tutulxiu departure from Nonoual west of Zuiua, their association
+    with Tulapan or Tula, and a debated term interpreted either as an agreement among
+    migrating leaders or as a possible echo of the Aztec place-name Chiconauhtlan.
+    The notes also discuss the Nahuatl/Aztec character of several proper names and
+    the Maya etymology of Tutulxiu.
+  language: English, with Maya, Spanish, French, and Nahuatl/Aztec terms discussed
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a scholarly note on the wording and translation of an introductory
+    paragraph, and the author states that his preferred translation is not certainly
+    correct.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The interlinear and free translations describe the Tutulxiu as departing from
+    their home and country Nonoual, located west of Zuiua, and as connected with Tulapan
+    or Tula.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The passage discusses a textual difficulty over whether the phrase refers
+    to four Tutulxiu persons or to four Katuns.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The term rendered as agreement or acting in concert is explained as referring
+    to an agreement among leaders preparing for migration into unknown lands.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: The word for the West, chikin, is explained literally as that which bites
+    or eats the sun, with an eclipse described as the sun bitten.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage raises a possible alternative that the debated word may echo the
+    Aztec place-name Chiconauhtlan, the place of the Nine, associated with a village
+    and mountain near Teotihuacan.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: In the Aztec myth mentioned by the note, gods assembled near Teotihuacan to
+    create the sun and moon.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage states that three of the four proper names in the paragraph are
+    Nahuatl or Aztec, while the name Tutulxiu has a Maya form.
+  category: attribute
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: Tutulxiu is explained as a compound involving words for herb or plant and
+    abundance, suggesting a local name meaning a place with abundant herbage.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Tutulxiu
+  description: A named group or family discussed in the translated paragraph; described
+    as leaving their home and country and later discussed as having a Maya name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: Migration leaders
+  description: Different leaders said by the note to have entered an agreement before
+    undertaking migration into unknown lands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Gods in the cited Aztec myth
+  description: Divine figures said to have assembled at or near Teotihuacan to create
+    the sun and moon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: departing group
+  assigned_to:
+  - fig:1
+  basis: The translations describe the Tutulxiu as departing or leaving their home
+    and country.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: leaders acting by agreement
+  assigned_to:
+  - fig:2
+  basis: The note explains the debated term as referring to leaders who agreed together
+    before migration.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: divine creators of luminaries
+  assigned_to:
+  - fig:3
+  basis: The cited Aztec myth says the gods assembled to create the sun and moon.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: four Katuns or four Tutulxiu
+  literal_form: the numeral four applied either to Katuns or to the Tutulxiu, depending
+    on textual interpretation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: West as sun-biting direction
+  literal_form: chikin, the West, explained as that which bites or eats the sun; eclipse
+    as the sun bitten
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Chiconauhtlan, place of the Nine
+  literal_form: a village and mountain north of Lake Tezcuco near Teotihuacan
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: sun and moon
+  literal_form: the sun and moon created by the assembled gods in the cited Aztec
+    myth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: abundant herbage
+  literal_form: Tutulxiu explained through xiu, herb or plant, and tutul, abundance
+    or excess
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Departure from Nonoual
+  summary: The translated paragraph is presented as dating the order of Katuns from
+    the period when the Tutulxiu left their home and country Nonoual, west of Zuiua,
+    and went from Tulapan or Tula.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Agreement before migration
+  summary: The note explains one difficult term as meaning agreement or acting in
+    concert among leaders who were about to undertake migration into unknown lands.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Cited Aztec creation assembly
+  summary: As a possible comparison, the note mentions Chiconauhtlan near Teotihuacan,
+    where in Aztec myth the gods assembled to create the sun and moon.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: departure from home and country
+  taxonomy_refs:
+  - departure
+  basis: The translated paragraph repeatedly describes the Tutulxiu as departing or
+    leaving their home and country and going from another named land or city.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The author explicitly says the paragraph is obscure and that his free
+    translation modifies the text somewhat.
+- id: motif:2
+  label: collective agreement before migration
+  taxonomy_refs:
+  - departure
+  basis: The note interprets the difficult term as agreement or acting in concert
+    among leaders preparing to migrate into unknown lands.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This depends on Brinton’s preferred emendation and interpretation of the
+    disputed word.
+- id: motif:3
+  label: divine assembly to create sun and moon
+  taxonomy_refs: []
+  basis: The passage cites an Aztec myth in which gods assembled at the sacred spot
+    Teotihuacan to create the sun and moon.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif appears in a comparative note, not in the translated Maya paragraph
+    itself.
+- id: motif:4
+  label: foreign-name origin and descent theorizing
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The note says the Nahuatl/Aztec proper names have prompted theorizing about
+    Toltec origin of Maya civilization and Nahuatl descent of the princely family
+    of the Tutulxiu.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage reports scholarly theorizing rather than establishing a lineage-legitimation
+    motif in the source paragraph; it also notes that Tutulxiu itself has a Maya form.
+comparison_claims:
+- id: claim:1
+  claim: The difficult form chiconahthan may be compared linguistically with the Aztec
+    place-name Chiconauhtlan, the place of the Nine, near Teotihuacan.
+  claim_level: linguistic_similarity
+  target: Aztec Chiconauhtlan / Teotihuacan creation-location tradition
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:6
+  confidence: low
+  limitations: The author presents this only as a possibility and first offers a Maya
+    emendation meaning agreement or acting in concert.
+- id: claim:2
+  claim: The cluster of Nahuatl or Aztec proper names in the paragraph has been used
+    to argue for Toltec or Nahuatl connections with the Tutulxiu and Maya civilization.
+  claim_level: historical_contact
+  target: Toltec or Nahuatl origin/descent theories connected to Maya/Tutulxiu traditions
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:9
+  confidence: low
+  limitations: The passage says these names have occasioned theorizing, not that such
+    descent or origin is proven; it identifies Tutulxiu itself as Maya in form.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2532-2643
+  quote_or_summary: Brinton says the introductory paragraph is “obscure” and that
+    his translation “does not satisfy me as certainly correct.”
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2532-2643, interlinear translation
+  quote_or_summary: The interlinear translation presents the Katun order since departure
+    from the land and house of Nonoual, names the Tutulxiu, locates the setting west
+    of Zuiua, and gives Tulapan as the land they came from.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2532-2643, free translation suggested
+  quote_or_summary: The free translation says the Tutulxiu left their home and country
+    Nonoual west of Zuiua and went from the land and city of Tula, having agreed together.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2532-2643, note on cante/anilo
+  quote_or_summary: The note explains the difficulty of reading cante as four persons
+    and suggests reading the passage as four Katuns rather than four Tutulxiu.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 2532-2643, note on chikin
+  quote_or_summary: "“chikin, the West, literally, that which bites or eats the sun”;
+    an eclipse is called “the sun bitten.”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 2532-2643, note on chiconahthan/chichcunahthan
+  quote_or_summary: Brinton interprets the difficult term as a faulty spelling for
+    a word meaning to support another’s statement, agree with, or act in concert,
+    referring to an agreement by leaders before migration into unknown lands.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 2532-2643, Aztec comparison note
+  quote_or_summary: 'The passage says the form may instead echo Aztec legend: Chiconauhtlan,
+    the place of the Nine, was a village and mountain near Teotihuacan, where in Aztec
+    myth the gods assembled to create the sun and moon.'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 2532-2643, proper names note
+  quote_or_summary: The passage states that three of four proper names are unquestionably
+    Nahuatl or Aztec and that this has prompted theories of Toltec origin of Maya
+    civilization and Nahuatl descent of the princely family of the Tutulxiu.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 2532-2643, Tutulxiu etymology note
+  quote_or_summary: Tutulxiu is explained as Maya in appearance, combining xiu, herb
+    or plant, with tutul, abundance or excess, suggesting a local name for a place
+    with abundant herbage.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is commentary on an obscure and textually uncertain paragraph.
+    Literal migration, agreement, directional, and comparison elements are clear,
+    but motif assignments and historical comparisons require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were limited to supplied options and applied only where directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l2532-l2643
+  passage_sha256=5bd4c9777360e5b27fbe6a9cb69ae47eff198770e459ab833b7af09177fcf50d
+

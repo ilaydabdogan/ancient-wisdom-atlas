@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l806-l867
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: LEGENDS AND MYTHS OF THE / THE FIRE AND THE FLOOD. / THE LEGENDS. / ABORIGINAL
+    TRIBES OF GUIANA.; lines 806-867
+  start: '806'
+  end: '867'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"Fire shall sweep the land!"'
+  summary: A divine Maker, angered by bloodshed, shame, and evil on earth, sends a
+    destructive fire. A warning comes from heaven. A chieftain who hears it leads
+    a small band to a sand reef, orders a deep shelter made for wives and children,
+    and has the surrounding vegetation cut and burned. When the flames arrive, the
+    already burned clearing stops them and they go out.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Fire is described as mighty and all-subduing, and its fury comes when the
+    Maker views bloodshed, shame, evil, and failing goodness.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A warning from heaven announces that fire will sweep the land.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One person who hears the warning seeks a reef of sand and, by his wisdom,
+    guides a small band to take refuge there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The chieftain orders a pit or vault to be prepared, with strong timber and
+    a sand roof, so wives and children can hide inside.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The chieftain orders trees to be felled and burned, and shrubs and grass to
+    be turned to ashes so that no fuel remains for the approaching flames.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Smoke conceals the sun, flames wrap the woods in fire, and the advancing blaze
+    is stopped by the burned clearing, where the flames expire.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Maker
+  description: A divine maker who views deeds of blood and shame and whose wrath is
+    associated with the coming burning flame.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the chieftain
+  description: The one who hears the heavenly warning, seeks a reef of sand, guides
+    the band, and gives instructions for shelter and clearing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the little band
+  description: A group guided by the chieftain to the sand reef refuge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: wives and children
+  description: Members of the group whom the chieftain says should be hidden in the
+    prepared pit or vault.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wrathful divine sender of destructive fire
+  assigned_to:
+  - fig:1
+  basis: The Maker sees bloodshed, shame, and evil; his wrath prevails and the burning
+    flame comes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warned leader and refuge-planner
+  assigned_to:
+  - fig:2
+  basis: He hears the warning, seeks the sand reef, guides the band, and directs construction
+    of the pit and clearing of vegetation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: endangered refuge-seekers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The little band is guided to refuge; wives and children are to be hidden
+    in the prepared shelter.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: destructive fire
+  literal_form: burning flame, fierce flames, blazing torrent
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: heavenly warning
+  literal_form: warning from heaven that fire shall sweep the land
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sand reef refuge
+  literal_form: reef of sand used as the chosen refuge site
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: underground shelter
+  literal_form: pit or vault with strong timber and a sand roof
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: felled and burned trees
+  literal_form: trees, shrubs, and grass cut and burned around the refuge
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: burned clearing
+  literal_form: cleared and burned ground that stops the advancing flames
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Maker's wrath and heavenly warning
+  summary: The Maker responds to violent and evil deeds with wrath, and a heavenly
+    warning announces that fire will sweep the land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Preparation of the refuge
+  summary: The chieftain leads the band to a sand reef, orders a deep timber-supported
+    shelter with a sand roof, and directs that wives and children be hidden there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Clearing and extinguishing of the fire
+  summary: The group cuts and burns the vegetation around the refuge. When smoke and
+    flames arrive, the fire is halted by the burned clearing and goes out.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine judgment by fire
+  taxonomy_refs:
+  - divine_judgment
+  - world_destroying_fire
+  basis: The Maker's wrath at bloodshed, shame, and evil is followed by a burning
+    flame that threatens the land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents punishment by fire but does not elaborate on later
+    renewal within this excerpt.
+- id: motif:2
+  label: heavenly warning before catastrophe
+  taxonomy_refs: []
+  basis: A warning from heaven announces the coming fire, and one hearer acts on it
+    before the flames arrive.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The source of the heavenly warning is not further personified in the passage.
+- id: motif:3
+  label: survival through prepared refuge
+  taxonomy_refs: []
+  basis: The chieftain prepares a sand-reef refuge with a deep shelter for wives and
+    children before the destructive fire arrives.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt describes a group rather than a named survivor pair.
+- id: motif:4
+  label: firebreak halts destructive fire
+  taxonomy_refs:
+  - fire
+  basis: The chieftain orders vegetation cut and burned in advance; the resulting
+    burned clearing stops the blazing torrent.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a practical survival action in the passage; broader symbolic interpretation
+    requires comparison beyond the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the world-destroying fire motif family at the level of
+    narrative pattern: a destructive fire threatens the land after divine anger, while
+    warned humans prepare a refuge.'
+  claim_level: same_motif
+  target: world_destroying_fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to motif-family classification; the passage gives
+    no evidence for historical contact or transmission.
+- id: claim:2
+  claim: The destructive fire functions as divine judgment because it follows the
+    Maker's response to bloodshed, shame, evil, and failing goodness.
+  claim_level: same_function
+  target: divine_judgment
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt does not provide a full theological explanation beyond
+    the Maker's wrath and the coming flame.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 806-819
+  quote_or_summary: Fire is called mighty and all-subduing; the Maker sees deeds of
+    blood and shame, evil raging, and goodness failing; his wrath prevails and the
+    burning flame comes.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 823-825
+  quote_or_summary: '"Fire shall sweep the land!"'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 826-833
+  quote_or_summary: One who hears the warning seeks a reef of sand, and by that chieftain's
+    wisdom some provide a refuge there for their little band.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 834-845
+  quote_or_summary: The chieftain instructs the group to prepare a deep, wide pit
+    or vault, hide wives and children, and support a sand roof with strong timber
+    and piles.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 846-857
+  quote_or_summary: The chieftain orders the trees felled and burned, shrubs and grass
+    reduced to ashes, and nothing left for the flames to fasten on.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 858-867
+  quote_or_summary: Smoke conceals the sun; fierce flames wrap the woods in fire;
+    the blazing torrent advances but is stopped by the burned clearing, where the
+    flames expire.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is clear for literal extraction and motif-family classification.
+    Comparison claims are limited to the supplied taxonomy and do not imply external
+    parallels or historical contact.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external tradition-level parallels were asserted.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l806-l867
+  passage_sha256=59fe5db1d6fc001284311db527baa8ba9c3a1809e1cf8506ac85644fa73e7781
+

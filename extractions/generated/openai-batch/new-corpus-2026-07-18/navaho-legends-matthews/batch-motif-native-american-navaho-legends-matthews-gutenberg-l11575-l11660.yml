@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l11575-l11660
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: MALE. / FEMALE. / NAVAHO MUSIC. / BY PROF. JOHN COMFORT FILLMORE.; lines
+    11575-11660
+  start: '11575'
+  end: '11660'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A musicological discussion describes certain Navaho songs as lying between
+    shouting and singing, analyzes cylinder recordings by their harmonic content,
+    and argues that the melodies overwhelmingly follow tonic chords with occasional
+    closely related by-tones. The author also notes an analogy between one song's
+    added minor seventh and melodies heard in a Dahomey village exhibit and among
+    Southern Black singers, using historical terminology.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes the songs as a link between excited shouting and excited
+    singing, with shout-like or howl-like tone quality and harmonic pitch relations.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Multiple recorded songs are analyzed as using tones of tonic chords, complete
+    or incomplete, in major or minor keys.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author states that, in the Navaho songs discussed, a tone perceived as
+    a key-note or tonic predominates together with the tones of its chord.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author states that when by-tones occur, they belong to chords nearest
+    in relation to the tonic.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author argues that the songs follow a harmonic line and attributes this
+    regularity to law rather than accident.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One song is said to contain a minor seventh added to the tonic chord, which
+    the author calls analogous to melodies heard in a Dahomey village exhibit and
+    among Southern Black singers.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Navaho singers
+  description: The collective singers whose recorded songs are analyzed as spontaneous
+    music.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: musicological speaker
+  description: The first-person analyst who interprets the recorded songs and states
+    conclusions about harmonic perception.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: performers of recorded songs
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Navahoes making melodies by singing tones in rhythmically
+    ordered succession and discusses their recorded songs.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: analyst of harmonic structure
+  assigned_to:
+  - fig:2
+  basis: The speaker lists harmonic features of the songs and explicitly states what
+    he wishes to insist upon as a fact.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Analysis of harmonic melody in recorded Navaho songs
+  summary: The passage surveys recorded songs on multiple cylinders and characterizes
+    them as built mainly from tonic chords, with occasional related by-tones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: General conclusion about harmonic line
+  summary: The author summarizes two recurring features of the songs and argues that
+    harmonic perception is the formative principle in folk melody if the pattern is
+    broadly found.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: melody organized around a tonic chord
+  taxonomy_refs: []
+  basis: The passage repeatedly identifies Navaho songs as built from tonic chord
+    tones, with by-tones drawn from closely related chords.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a musical pattern, not a mythological narrative motif; no available
+    mythic taxonomy reference is directly supported.
+- id: motif:2
+  label: spontaneous song as harmonic line
+  taxonomy_refs: []
+  basis: The author states that spontaneous Navaho melodies follow a harmonic line
+    and treats this as a formative principle rather than accident.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is the author's theoretical interpretation of musical data; the passage
+    contains no mythic action or symbolic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously supports a similarity between one Navaho song's added
+    minor seventh over the tonic chord and melodies the author heard in a Dahomey
+    village exhibit and among Southern Black singers.
+  claim_level: same_function
+  target: melodies heard in the Dahomey village at the World's Fair and among Southern
+    Black singers
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives only the author's analogy and does not provide independent
+    examples, historical context, or evidence of contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11575-11582
+  quote_or_summary: 'The songs are described as between excited shouting and singing:
+    their tone quality is like shouts or howls, while their pitch relations are harmonic.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11582-11623
+  quote_or_summary: The passage lists many cylinder recordings and identifies them
+    as containing complete or incomplete tonic chords in various keys, sometimes with
+    limited by-tones.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11624-11631
+  quote_or_summary: 'The author states two facts: spontaneous Navaho melodies have
+    a perceived key-note or tonic whose chord tones predominate, and any by-tones
+    belong to chords nearest to the tonic.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11632-11660
+  quote_or_summary: The author declines speculation but insists that Navaho songs
+    follow a harmonic line; he suggests harmonic perception may be subconscious and
+    says the pattern occurs by law, not accident.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11596-11603
+  quote_or_summary: Song No. 10 is described as having a minor seventh added to the
+    tonic chord, which the author says is analogous to melodies heard in a Dahomey
+    village exhibit and among Southern Black singers, using historical terminology.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a musicological analysis rather than a mythic narrative. Literal
+    musical observations are well supported; motif and comparison fields are limited
+    to musical patterns explicitly discussed in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or mythic motif family was directly supported by this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l11575-l11660
+  passage_sha256=130895d11ba1b030a234e35d2d851c906afe373300303c4f6e1a242d51310cc1
+

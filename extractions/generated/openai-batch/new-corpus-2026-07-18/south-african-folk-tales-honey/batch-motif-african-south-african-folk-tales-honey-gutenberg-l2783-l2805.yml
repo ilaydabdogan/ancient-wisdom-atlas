@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2783-l2805
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE ORIGIN OF DEATH / ANOTHER VERSION OF THE SAME FABLE / A THIRD VERSION
+    OF THE SAME FABLE / A FOURTH VERSION OF THE SAME FABLE; lines 2783-2805
+  start: '2783'
+  end: '2805'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a fourth version in which the Moon sends the Hare to
+    tell humans they will be renewed as the Moon is, but the Hare deceives them with
+    a message of perishing. It then gives a Zulu version in which God creates beings,
+    sends the Chameleon with a non-death message, and later sends the Salamander with
+    a death message; the Salamander arrives first and tells humans they must die.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Moon wishes to send a message to Men and the Hare says he will take it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Moon instructs the Hare to tell Men that, as the Moon dies and is renewed,
+    they also shall be renewed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hare deceives Men by saying that, as he dies and perishes, they also shall
+    do so.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: God, named in parentheses as Unknlunkuln, arises from beneath and creates
+    men, animals, and all things.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: God sends the Chameleon to tell Men that they shall not die.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Chameleon walks slowly, loiters on the way, and eats from a shrub called
+    Bukwebezane.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: God sends the Salamander after the Chameleon with an order to hurry and tell
+    Men that they should die.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Salamander outruns the Chameleon, arrives first where the Men are, and
+    tells them that they must die.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Moon
+  description: A celestial sender who wants Men to receive a message of renewal modeled
+    on the Moon's own dying and renewal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Hare
+  description: An animal who offers to carry the Moon's message but deceives Men by
+    delivering a message of perishing.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Men
+  description: Human recipients of the messages about renewal, non-death, or death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: God (Unknlunkuln)
+  description: Creator who arises from beneath, creates men, animals, and all things,
+    and sends animal messengers to Men.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: The Chameleon
+  description: An animal messenger sent to tell Men they shall not die, but who travels
+    slowly and loiters.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: The Salamander
+  description: An animal messenger sent after the Chameleon to tell Men they should
+    die; it outruns the Chameleon and arrives first.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Sender of message about human fate
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The Moon sends the Hare with a message for Men, and God sends the Chameleon
+    and the Salamander with messages for Men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Animal messenger
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: The Hare, Chameleon, and Salamander each carry or are sent to carry a message
+    to Men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: Deceptive messenger
+  assigned_to:
+  - fig:2
+  basis: The Hare is said to deceive Men by altering the Moon's message.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Delayed messenger
+  assigned_to:
+  - fig:5
+  basis: The Chameleon walks slowly, loiters, and eats a shrub while on the way.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Swift death-message bearer
+  assigned_to:
+  - fig:6
+  basis: The Salamander is ordered to make haste, outruns the Chameleon, arrives first,
+    and delivers the death message.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Human recipients
+  assigned_to:
+  - fig:3
+  basis: Men are the intended or actual recipients of the messages about renewal,
+    non-death, and death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:7
+  label: Creator
+  assigned_to:
+  - fig:4
+  basis: God creates men, animals, and all things at the beginning.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Lunar dying and renewal
+  literal_form: The Moon's statement that it dies and is renewed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Message of renewal, non-death, or death
+  literal_form: Spoken messages sent to Men concerning whether they will be renewed,
+    not die, or die.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Bukwebezane shrub
+  literal_form: A shrub called Bukwebezane eaten by the Chameleon while loitering
+    on the way.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Beneath / seat of the spiritual world
+  literal_form: The place from which God arises, described parenthetically as beneath,
+    the seat of the spiritual world according to the Zulu idea.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Moon sends Hare with renewal message, and Hare alters it
+  summary: The Moon instructs the Hare to tell Men that they will be renewed as the
+    Moon is renewed, but the Hare deceives Men with a message that they will perish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: God creates and sends Chameleon
+  summary: God arises from beneath, creates men, animals, and all things, and sends
+    the Chameleon to tell Men that they shall not die.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chameleon delays on the way
+  summary: The Chameleon travels slowly, loiters, and eats from the Bukwebezane shrub.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Salamander arrives first with death message
+  summary: God sends the Salamander with a death message; the Salamander outruns the
+    Chameleon, reaches Men first, and tells them they must die.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Origin of death through a failed or altered message
+  taxonomy_refs:
+  - death_rebirth
+  basis: Both accounts explain human death through messages about renewal, non-death,
+    or death that reach Men in altered or superseding form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage itself uses origin-of-death
+    headings, but no finer taxonomy ID is supplied.
+- id: motif:2
+  label: Animal messenger determines human mortality
+  taxonomy_refs: []
+  basis: The Hare, Chameleon, and Salamander function as animal messengers whose delivery
+    or misdelivery of a message affects what Men are told about death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern label rather than a supplied taxonomy
+    category.
+- id: motif:3
+  label: Deceptive animal messenger
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Hare is explicitly said to deceive Men by changing the Moon's renewal
+    message into a message of death and perishing.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage calls the Hare deceptive, but does not explicitly call the
+    Hare a trickster; the taxonomy reference is therefore cautious.
+- id: motif:4
+  label: Slow messenger overtaken by faster messenger
+  taxonomy_refs: []
+  basis: The Chameleon delays while carrying the non-death message, and the Salamander,
+    sent later with the death message, outruns it and arrives first.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a structural motif candidate without a supplied taxonomy ID.
+- id: motif:5
+  label: Lunar renewal contrasted with human mortality
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: The Moon's intended message compares its own dying and renewal with the renewal
+    Men should receive, while the delivered message says Men will perish.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The seasonal-cycle reference is inferred from lunar renewal language and
+    should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Moon-Hare account and the Zulu Chameleon-Salamander
+    account as related origin-of-death versions, both involving messages to humans
+    and animal messengers whose action or precedence results in a death message reaching
+    Men.
+  claim_level: same_motif
+  target: Moon-Hare fourth version and Zulu Chameleon-Salamander version within the
+    supplied passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the juxtaposition and headings in the supplied
+    passage; it does not establish historical contact, common inheritance, or broader
+    distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2783-2788
+  quote_or_summary: In the fourth version, the Moon sends the Hare to tell Men they
+    will be renewed as the Moon is, but the Hare deceives Men by saying they will
+    die and perish.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 2790-2796
+  quote_or_summary: The Zulu version says God (Unknlunkuln) arose from beneath, described
+    as the seat of the spiritual world, created men, animals, and all things, and
+    sent the Chameleon to tell Men they shall not die.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 2796-2799
+  quote_or_summary: The Chameleon walks slowly, loiters on the way, and eats from
+    a shrub called Bukwebezane.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 2801-2805
+  quote_or_summary: God sends the Salamander after the Chameleon to hurry with a message
+    that Men should die; the Salamander outruns the Chameleon, arrives first, and
+    tells Men they must die.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are passage-level candidates and require human review, especially where broad
+    taxonomy families are assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or comparisons were used; all claims are based on the supplied passage and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2783-l2805
+  passage_sha256=0d97f11f842dfa82210d48d7599dddc9fefe8f17e03e5ea39914bd8982fb2bfb
+

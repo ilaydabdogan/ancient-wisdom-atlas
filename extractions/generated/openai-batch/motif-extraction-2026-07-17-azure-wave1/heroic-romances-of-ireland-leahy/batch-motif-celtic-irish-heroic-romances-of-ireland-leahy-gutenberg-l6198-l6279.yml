@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6198-l6279
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: ALSO THE CONCLUSION OF THE TALE FROM THE SAME VERSION / THE COMBAT AT THE
+    FORD / INTRODUCTION / THE COMBAT AT THE FORD; lines 6198-6279
+  start: '6198'
+  end: '6279'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: every other combat and fight that I have made hath been only a game and a
+    light matter to me compared with this combat and fight with Ferdia.
+  summary: In the aftermath of a duel at the ford, the speaker laments a destructive
+    deed between pupils of Scathach. Laeg urges Cuchulain to leave the ford; Cuchulain
+    agrees, says the fight with Ferdia outweighed all his other combats, and recites
+    a lament recalling shared training, Ferdia's valor and death, and destruction
+    in the Raid.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The opening stanzas present the speaker and the addressee as pupils who were
+    trained or taught by Scathach.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes being weak, blood-drained, gory, and wounded, while
+    the addressee is described as brought to death and slain in the duel.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Laeg asks Cuchulain to quit the ford because they have been there too long,
+    and Cuchulain agrees to depart.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cuchulain says all his other combats were a game and light matter compared
+    with the combat with Ferdia.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cuchulain's recitation says he and Ferdia were alike in instruction, mistress,
+    rewards, praise, fights, and haunts, and that Scathach brought each of them a
+    shield.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ferdia is praised through images including a pillar of gold laid low at the
+    ford, lionlike movement, a wave of dread, a cliff-like form, and a remaining shade.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Cuchulain says three great armies went on the Raid and paid the price of death,
+    with cattle, men, and steeds lying in heaps.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The closing stanza says no one neared battle like Ferdia and that none whom
+    Banba nursed surpassed his fame.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Named by Laeg; agrees to depart from the ford; identifies the fight
+    with Ferdia as greater than his other combats; recites the lament.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Laeg
+  description: Named speaker who urges Cuchulain to quit the ford; addressed by Cuchulain
+    as his friend.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ferdia
+  description: Named as the combatant whose fight with Cuchulain is singled out; praised
+    as unmatched, famous, and first among sons of kings; presented as fallen at the
+    ford.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Scathach
+  description: Named as the teacher or mistress from whom the pupils learned and as
+    the giver of shields to each.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Three great armies
+  description: Collective figure named in the recited stanza as having gone on the
+    Raid and paid the price of death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: lamenting surviving combatant
+  assigned_to:
+  - fig:1
+  basis: Cuchulain agrees to depart after the combat, contrasts it with all his other
+    fights, and recites praise and lament for Ferdia.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: friend urging departure
+  assigned_to:
+  - fig:2
+  basis: Laeg tells Cuchulain to quit the ford, and Cuchulain addresses him as friend.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: slain matched opponent and former fellow pupil
+  assigned_to:
+  - fig:3
+  basis: The passage links the slain addressee and Ferdia with shared training under
+    Scathach and with the fight at the ford.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: trainer and mistress of both combatants
+  assigned_to:
+  - fig:4
+  basis: The stanzas say the pupils were trained or taught by Scathach and that one
+    kind mistress swayed both.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: raid host and casualties
+  assigned_to:
+  - fig:5
+  basis: The recitation says three great armies went on the Raid and paid the price
+    of death.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ford
+  literal_form: this ford / the Ford
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Blood and wounds
+  literal_form: red blood, gore, wounds
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Shared shields
+  literal_form: a shield brought by Scathach to each
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Pillar of gold
+  literal_form: pillar of gold, loved well, low at the Ford's side laid
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Heroic force images
+  literal_form: lionlike; wave of dread; cliff; shade
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wounded aftermath of a cruel duel
+  summary: The opening stanzas frame the deed between Scathach's pupils as sorrowful
+    and cruel, with the speaker wounded and the addressee slain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure from the ford
+  summary: Laeg tells Cuchulain they have stayed too long at the ford; Cuchulain agrees
+    to leave but says the fight with Ferdia outweighed all other combats.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Shared training and praise of Ferdia
+  summary: Cuchulain's recitation emphasizes his likeness to Ferdia in training and
+    honors, recalls the shields from Scathach, and praises Ferdia with elevated images.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Raid destruction catalogue
+  summary: The recitation states that three great armies went on the Raid and died,
+    with cattle, men, and steeds lying in heaps.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Matched former pupils in deadly duel
+  taxonomy_refs:
+  - duality
+  basis: 'The passage repeatedly emphasizes likeness between Cuchulain and Ferdia:
+    shared instruction, one mistress, similar rewards and praise, similar fights and
+    haunts, and shields from Scathach, followed by Ferdia''s death in the duel.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents martial pairing
+    and likeness rather than an explicit abstract doctrine of duality.
+- id: motif:2
+  label: Lament for a fallen equal
+  taxonomy_refs: []
+  basis: Cuchulain says no other combat compared with Ferdia's, praises Ferdia's unmatched
+    valor and fame, and addresses him as first among sons of kings.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage provides a lament and praise, but wider ritual or funerary
+    context is not included in the supplied excerpt.
+- id: motif:3
+  label: Combat at a ford
+  taxonomy_refs: []
+  basis: The ford is the named place from which Laeg urges departure and is repeatedly
+    recalled in the recited stanzas as the place where Ferdia's steeds stayed and
+    where he was laid low.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage identifies the ford as setting, but it does not explicitly
+    state a symbolic meaning for the location.
+- id: motif:4
+  label: Heroic catalogue of slaughter in a raid
+  taxonomy_refs: []
+  basis: The recitation names three great armies in the Raid, death paid by the armies,
+    heaps of cattle, men, and steeds, and the speaker's claim of slaughter.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The catalogue is brief and embedded within a lament for Ferdia.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6198-6279, opening three stanzas
+  quote_or_summary: The speaker says the deed brought sorrow and anguish; both parties
+    were pupils of Scathach; the speaker is blood-drained and wounded, and the addressee
+    is brought to death and slain in the duel.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 6198-6279, prose after opening stanzas
+  quote_or_summary: Laeg urges Cuchulain to quit the ford; Cuchulain calls Laeg his
+    friend, agrees to depart, and says every other combat was light compared with
+    the fight with Ferdia.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 6198-6279, first recited stanzas after prose
+  quote_or_summary: Cuchulain recites that he and Ferdia were alike in teaching, mistress,
+    rewards, praise, fights, and haunts, and that Scathach brought each a shield.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 6198-6279, middle recited stanzas
+  quote_or_summary: Ferdia is described as a pillar of gold laid low at the ford's
+    side, lionlike, blazing in wrath, rising like a wave of dread, high as a cliff,
+    and now a shade.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 6198-6279, Raid stanzas
+  quote_or_summary: The recitation says three great armies went on the Raid and paid
+    the price of death; cattle, men, and steeds lie in heaps; the speaker says he
+    slew the host that came to war.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 6198-6279, closing stanza
+  quote_or_summary: The final stanza says none neared battle like the addressed figure,
+    none whom Banba nursed surpassed his fame, and he is first among sons of kings.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main figures, setting, and lament structure are explicit. Motif labels are
+    candidate-level and require human review; no cross-text comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, source metadata, and available taxonomy references. Evidence locators are descriptive within the supplied stable line range.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6198-l6279
+  passage_sha256=e6cc5e027c41ce4d1bfe095df7fdc8efdaea7a09031a0ab821e0113e134f9d06
+

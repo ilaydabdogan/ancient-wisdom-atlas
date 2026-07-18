@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l16266-l16376
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: GUTHRUNARKVITHA I / THE FIRST LAY OF GUTHRUN / INTRODUCTORY NOTE / NOTES;
+    lines 16266-16376
+  start: '16266'
+  end: '16376'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial notes on Guthrunarkvitha I discuss variant or related traditions:
+    Guthrun eating part of Fafnir''s heart and becoming wiser; Herjan as Othin and
+    his maids as Valkyries; cursed gold as a motive in Sigurth''s murder; Atli''s
+    role in Brynhild''s forced or deceptive marriage to Gunnar; and the kenning of
+    gold as the flame of the snake''s bed because serpents and dragons guard treasure.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the Volsungasaga states that Sigurth gave Guthrun some of Fafnir's
+    heart to eat, after which she became grimmer and wiser.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says it is nowhere else stated that Guthrun understood the speech
+    of birds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note identifies Herjan as Othin and Herjan's maids as the Valkyries.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says desire for Sigurth's treasure, described as gold cursed by Andvari
+    and Loki, was one motive for Sigurth's murder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says Brynhild blames her brother Atli because he compelled her to
+    marry Gunnar against her will.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note reports an alternative version in which Atli buys off Gunnar and
+    Sigurth by giving Gunnar his sister Brynhild as wife.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note says Atli seems to have induced Brynhild to marry Gunnar by falsely
+    telling her that Gunnar was Sigurth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The note explains the phrase 'Flame of the snakes bed' as gold, so called
+    because serpents and dragons were traditional guardians of treasure on which they
+    lay.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Guthrun
+  description: Named as the person who, in the Volsungasaga account summarized by
+    the note, eats some of Fafnir's heart and becomes grimmer and wiser.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sigurth
+  description: Named as the giver of some of Fafnir's heart to Guthrun, as the murdered
+    figure linked with cursed treasure, and as a figure involved in the alternative
+    Atli-Gunnar-Brynhild account.
+  role_refs:
+  - role:1
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Fafnir
+  description: Named through the object 'Fafnir's heart,' some of which Sigurth gives
+    to Guthrun in the Volsungasaga account summarized by the note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Herjan / Othin
+  description: Herjan is identified by the note as Othin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Valkyries
+  description: Identified by the note as the maids of Herjan/Othin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Andvari
+  description: Named as one of the figures associated with the cursed gold connected
+    to Sigurth's murder.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Loki
+  description: Named as one of the figures associated with the cursed gold connected
+    to Sigurth's murder.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Atli
+  description: Named as Brynhild's brother who compels her to marry Gunnar against
+    her will in the note's explanation, and as the figure who gives Brynhild to Gunnar
+    in an alternative version.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Brynhild
+  description: Named as Atli's sister, as the woman compelled to marry Gunnar against
+    her will, and as the person falsely told that Gunnar was Sigurth in the note's
+    alternative account.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Gunnar
+  description: Named as the man Brynhild is compelled to marry and as the recipient
+    of Brynhild as wife in the alternative version summarized by the note.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: giver of Fafnir's heart
+  assigned_to:
+  - fig:2
+  basis: Sigurth is said to give Guthrun some of Fafnir's heart to eat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of wisdom after eating the heart
+  assigned_to:
+  - fig:1
+  basis: Guthrun is said to eat some of Fafnir's heart and afterwards become grimmer
+    and wiser.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: source of the eaten heart
+  assigned_to:
+  - fig:3
+  basis: The heart is explicitly called Fafnir's heart.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: god with Valkyrie maids
+  assigned_to:
+  - fig:4
+  basis: The note identifies Herjan as Othin and says his maids are the Valkyries.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: maids of Othin
+  assigned_to:
+  - fig:5
+  basis: The note identifies Othin's maids as the Valkyries.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: figures associated with cursed gold
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The treasure is described as gold cursed by Andvari and Loki.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: coercer and deceptive marriage broker
+  assigned_to:
+  - fig:8
+  basis: Atli is said to compel Brynhild to marry Gunnar and, in an alternative account,
+    to induce the marriage by false identification.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: compelled or deceived bride
+  assigned_to:
+  - fig:9
+  basis: Brynhild is said to have been compelled to marry Gunnar against her will
+    and falsely told Gunnar was Sigurth.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: recipient husband in forced marriage account
+  assigned_to:
+  - fig:10
+  basis: Gunnar is the man Brynhild is compelled to marry and to whom Atli gives Brynhild
+    as wife in the alternative version.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: murdered figure linked to cursed treasure
+  assigned_to:
+  - fig:2
+  basis: The note says desire for Sigurth's treasure was one motive for his murder.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fafnir's heart
+  literal_form: A portion of Fafnir's heart eaten by Guthrun in the Volsungasaga account
+    summarized by the note.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: speech of birds
+  literal_form: Bird speech that Guthrun is said not elsewhere to understand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cursed gold / Sigurth's treasure
+  literal_form: Gold cursed by Andvari and Loki and desired as Sigurth's treasure.
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: flame of the snake's bed
+  literal_form: A kenning for gold, explained as deriving from serpents and dragons
+    guarding treasure on which they lie.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: serpents and dragons as treasure guardians
+  literal_form: Serpents and dragons lying on treasure as traditional guardians.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Eating Fafnir's heart and becoming wiser
+  summary: The note summarizes a Volsungasaga account in which Sigurth gives Guthrun
+    part of Fafnir's heart to eat, after which she becomes grimmer and wiser.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cursed treasure as motive for murder
+  summary: The note says desire for Sigurth's treasure, the gold cursed by Andvari
+    and Loki, was one motive for Sigurth's murder.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Atli, Brynhild, Gunnar, and deceptive marriage
+  summary: The note explains a tradition in which Atli compels Brynhild to marry Gunnar
+    against her will, with an alternative account in which he gives Brynhild to Gunnar
+    and falsely identifies Gunnar as Sigurth.
+  figure_refs:
+  - fig:2
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Gold as the snake-bed flame
+  summary: The note explains a gold-kenning through the traditional image of serpents
+    and dragons guarding and lying on treasure.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom gained by eating a significant heart
+  taxonomy_refs:
+  - wisdom
+  basis: Guthrun becomes grimmer and wiser after eating some of Fafnir's heart in
+    the Volsungasaga account summarized by the note.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial note and says this detail is 'without point'
+    here and not otherwise stated for Guthrun's bird-speech understanding.
+- id: motif:2
+  label: Understanding bird speech linked to special ingestion
+  taxonomy_refs:
+  - wisdom
+  basis: The note connects the eaten heart tradition with the question of Guthrun
+    understanding the speech of birds.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The note explicitly says it is nowhere else stated that Guthrun understood
+    bird speech.
+- id: motif:3
+  label: Cursed treasure motivates murder
+  taxonomy_refs: []
+  basis: The note says desire for Sigurth's treasure, the gold cursed by Andvari and
+    Loki, was one motive for his murder.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports this as a tradition and cross-reference rather than
+    narrating the murder directly.
+- id: motif:4
+  label: Forced or deceptive marriage through false identity
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Brynhild is said to have been compelled to marry Gunnar against her will
+    and falsely told that Gunnar was Sigurth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage describes coercion
+    and false identity rather than a straightforward abduction of a beloved.
+- id: motif:5
+  label: Serpent or dragon guardian of treasure
+  taxonomy_refs:
+  - serpent
+  basis: The note states that serpents and dragons were traditional guardians of treasure
+    and explains a gold-kenning on that basis.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an explanatory note on a kenning, not a full narrative episode
+    in the passage.
+- id: motif:6
+  label: Transferred blame for murder
+  taxonomy_refs: []
+  basis: The note says Brynhild blames Atli, following a frequent custom of transferring
+    responsibility for a murder.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as an editorial explanation of a stanza rather
+    than a complete narrated motif.
+comparison_claims:
+- id: claim:1
+  claim: The eaten-heart wisdom motif for Guthrun is explicitly associated with the
+    Volsungasaga account rather than fully grounded in this lay's immediate text.
+  claim_level: same_motif
+  target: Volsungasaga account of Sigurth giving Guthrun part of Fafnir's heart
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The same note says the information is without point here and that Guthrun's
+    understanding of bird speech is not otherwise stated.
+- id: claim:2
+  claim: The treasure-motivated murder of Sigurth is linked by the note to Sigurtharkvitha
+    en skamma and to the German tradition as represented in the Nibelungenlied.
+  claim_level: same_motif
+  target: Sigurtharkvitha en skamma stanza 16; German tradition; Nibelungenlied
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives an editorial comparison and does not quote the parallel
+    passages.
+- id: claim:3
+  claim: The forced or deceptive Brynhild-Gunnar marriage account is connected by
+    the note to Sigurtharkvitha en skamma and to form-interchange explanations in
+    the Volsungasaga and Gripisspo.
+  claim_level: same_function
+  target: Sigurtharkvitha en skamma 32-39; Volsungasaga; Gripisspo 37-39
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note describes an alternative version and a rationalistic explanation,
+    so the correspondence is functional rather than necessarily identical in narrative
+    form.
+- id: claim:4
+  claim: The gold-kenning 'flame of the snake's bed' is explained through a broader
+    traditional pattern of serpents and dragons guarding treasure.
+  claim_level: same_motif
+  target: Traditional serpent or dragon treasure-guardian pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the explanatory note on a kenning; no
+    separate source text is named for the wider tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16270-16274
+  quote_or_summary: The note says the Volsungasaga states that Sigurth gave Guthrun
+    some of Fafnir's heart to eat; afterwards she was grimmer and wiser, while Guthrun's
+    bird-speech understanding is said not to be otherwise stated.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 16323-16324
+  quote_or_summary: '"Herjan: Othin; his maids are the Valkyries"; the note compares
+    the phrase to Voluspo 31.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 16326-16331
+  quote_or_summary: The note says desire for Sigurth's treasure, the gold cursed by
+    Andvari and Loki, was one motive for his murder and appears in Sigurtharkvitha
+    en skamma, German tradition, and the Nibelungenlied.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16343-16358
+  quote_or_summary: The note says Brynhild blames Atli because he compelled her to
+    marry Gunnar against her will; an alternative version has Atli give Brynhild to
+    Gunnar and falsely tell her that Gunnar was Sigurth, with desire for Sigurth's
+    treasure also mentioned.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16358-16369
+  quote_or_summary: The note explains 'Flame of the snakes bed' as gold, so called
+    because serpents and dragons were traditional guardians of treasure and lay on
+    it.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on explicit editorial notes rather than on a continuous
+    narrative passage. Comparisons are included only where the notes themselves mention
+    related texts, traditions, or traditional patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external information was used beyond the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l16266-l16376
+  passage_sha256=f24d84a618f9a3702b61ac01140c39de46ba2ff6399db266ecd1b4feee106b35
+

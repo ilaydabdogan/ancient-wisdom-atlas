@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l48016-l48072
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLVII. The Death Of Aksha. / Canto LIII. The Punishment. / Canto LVI.
+    Mount Arishta. / Canto LVIII. The Feast Of Honey.; lines 48016-48072
+  start: '48016'
+  end: '48072'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Vánars fly through the air to a guarded honey grove belonging to Sugríva.
+    With Angad's consent they eat the honey and fruit, become intoxicated and exuberant,
+    and damage the trees. Dadhimukh, the grove's guardian and Sugríva's uncle, tries
+    to stop them but is beaten. A prose note says Dadhimukh reports the misconduct
+    to Sugríva, who interprets the riotous joy as evidence that Hanumán's search party
+    has succeeded, and sends Dadhimukh back to hurry the monkeys onward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Vánars rise into the air and darken the region with their shadow as they
+    fly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They arrive at a lovely grove compared to heavenly Nandan and described as
+    Sugríva's pleasance.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The grove is fenced and barred to every creature and is guarded by Dadhimukh,
+    Sugríva's uncle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Vánars ask Angad for permission to eat the honeyed stores, and he consents.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Vánars eat honey and fruit, become increasingly merry, and dance, sing,
+    laugh, chatter, climb, and leap among the trees.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some Vánars break or bring down branches from trees crowned with creepers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Dadhimukh sees the intoxicated multitude, the rifled shade, and the damage
+    to the grove, and tries to save what remains.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Vánars ignore Dadhimukh's warnings and respond with taunts and threats.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A fight follows in which the Vánars beat Dadhimukh with claws, teeth, hands,
+    and trampling feet.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A prose note reports that Dadhimukh escapes, complains to Sugríva, and receives
+    little sympathy.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Sugríva infers from the Vánars' exuberant misconduct that Hanumán and his
+    band have succeeded in their search.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Sugríva tells Dadhimukh to return and send the monkeys on with all possible
+    speed.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: The Vánars / monkeys
+  description: A flying group who arrive at the grove, feast on honey and fruit, celebrate
+    wildly, damage the grove, and beat the keeper.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Angad
+  description: The lord approached by the Vánars for permission to eat the honeyed
+    stores; he gives consent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dadhimukh
+  description: A noble, brave Vánar; Sugríva's uncle; the appointed guardian of the
+    grove who tries to stop the revelers and later reports them.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Sugríva
+  description: The lord of the Vánars and owner of the grove; he interprets the misconduct
+    as a sign of successful search and orders the monkeys sent onward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:5
+  name_or_label: Hanumán
+  description: Named in the prose note as associated with the band whose search Sugríva
+    infers to have succeeded.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: exuberant feasters
+  assigned_to:
+  - fig:1
+  basis: The group eats honey and fruit, becomes drunk with sweetness, and celebrates
+    noisily.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: permission-giving leader
+  assigned_to:
+  - fig:2
+  basis: The Vánars petition Angad, and he consents to their eating the honeyed stores.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: grove guardian
+  assigned_to:
+  - fig:3
+  basis: Dadhimukh is explicitly set to guard the grove.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: destructive revelers
+  assigned_to:
+  - fig:1
+  basis: The Vánars rifle the store, damage branches, ignore warnings, and beat the
+    keeper.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:5
+  label: complainant
+  assigned_to:
+  - fig:3
+  basis: The prose note says Dadhimukh escapes and reports the monkeys' misconduct
+    to Sugríva.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: interpreting ruler
+  assigned_to:
+  - fig:4
+  basis: Sugríva interprets the excessive joy and mischief as evidence of success
+    and orders the monkeys sent onward.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: successful search-band figure
+  assigned_to:
+  - fig:5
+  basis: The prose note says Sugríva infers that Hanumán and his band have been successful
+    in their search.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: guarded honey grove
+  literal_form: A lovely, fenced, barred grove belonging to Sugríva, filled with honey
+    stored by countless bees.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: honeyed stores
+  literal_form: Honey stores kept by countless bees and eaten by the Vánars.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: trees and branches
+  literal_form: Trees thronged with bees, bearing fruit, crowned with creepers, and
+    damaged during the revelry.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: aerial flight
+  literal_form: The Vánars rise in air and fly so that their shadow darkens the region.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Flight to the guarded grove
+  summary: The Vánars fly through the air to a beautiful, restricted honey grove belonging
+    to Sugríva and guarded by Dadhimukh.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Consent and honey feast
+  summary: The Vánars ask Angad for permission to eat the honey, receive consent,
+    and feast on honey and fruit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Intoxicated revelry and damage
+  summary: The Vánars become intoxicated and joyous, dance and sing, climb and leap,
+    and damage branches in the grove.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Guardian beaten
+  summary: Dadhimukh angrily tries to stop the destruction, but the Vánars reject
+    his warnings and beat him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Report and interpretation
+  summary: Dadhimukh reports the misconduct to Sugríva, who treats the mischief as
+    the natural sign of successful search and tells him to send the monkeys onward
+    quickly.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: riotous victory-feast after successful quest
+  taxonomy_refs:
+  - return
+  basis: The prose note says Sugríva interprets the Vánars' exuberant misconduct as
+    the natural expression of joy after Hanumán's band has succeeded in its search
+    and orders them onward.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives Sugríva's inference rather than a full account of the
+    completed return or the search result itself.
+- id: motif:2
+  label: forbidden or guarded abundance consumed by revelers
+  taxonomy_refs: []
+  basis: The grove is fenced and barred, guarded by Dadhimukh, and full of honeyed
+    stores that the Vánars rifle and consume after receiving Angad's consent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the grove as guarded property, but does not explicitly
+    frame the act as sacred theft or taboo violation.
+- id: motif:3
+  label: flight through the air to a destination
+  taxonomy_refs:
+  - ascent
+  basis: The Vánars rise into the air and fly to the grove, darkening the region with
+    their shadow.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The flight is a brief travel action rather than a developed ascent episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 48018-48021
+  quote_or_summary: The Vánars rise in the air, cast a dark shadow over the region,
+    and fly swiftly to a lovely grove.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 48021-48028
+  quote_or_summary: The grove rivals heavenly Nandan, contains honey stored by countless
+    bees, belongs to the Vánars' lord, is fenced and barred to every creature, and
+    is guarded by Dadhimukh, Sugríva's uncle.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 48029-48034
+  quote_or_summary: The Vánars approach Angad and ask that they may eat the honeyed
+    stores; he gives consent.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 48035-48045
+  quote_or_summary: They seek the bee-filled trees, rifle the stored honey, eat fruit,
+    and become merry, drunken, dancing, singing, laughing, climbing, and chattering.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 48046-48052
+  quote_or_summary: Some climb creeper-crowned trees and bring branches down; others
+    spring, sing, weep, or mix with companions in changing moods.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 48053-48058
+  quote_or_summary: Dadhimukh angrily views the intoxicated multitude, the rifled
+    shade, and the ruin, and tries to save what remains of the grove.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 48059-48061
+  quote_or_summary: His warnings are rejected, and taunts and threats are returned.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 48062-48068
+  quote_or_summary: A violent contention follows; the drunken, angry Vánars use claws,
+    teeth, and hands and trample the keeper underfoot.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 48069-48072
+  quote_or_summary: The prose note says Dadhimukh escapes to Sugríva, reports the
+    misconduct, and Sugríva infers successful search by Hanumán's band, treats the
+    revelry as natural joy, and orders the monkeys sent onward quickly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious because the passage is an episode of revelry and inference rather
+    than an explicit mythic pattern statement. No comparison claims are made because
+    the passage itself does not support cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The bracketed prose omission note is treated as part of the supplied passage text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l48016-l48072
+  passage_sha256=1da65a7c99e9c6d3b3ac51a9261a961f6bcf3540a2563e689f77ff2b6895952f
+

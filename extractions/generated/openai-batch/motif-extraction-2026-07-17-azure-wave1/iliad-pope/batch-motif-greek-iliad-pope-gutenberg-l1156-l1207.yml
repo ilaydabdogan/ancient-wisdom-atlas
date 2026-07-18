@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1156-l1207
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 1156-1207
+  start: '1156'
+  end: '1207'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage evaluates Pope''s Iliad as an elegant English paraphrase rather
+    than a literal translation, explains why it should not be judged solely by later
+    philological standards, and describes the editor''s modest aim for the accompanying
+    notes: to assist general readers with brief antiquarian, mythological, textual,
+    and literary parallels.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Pope was not Greek and that his education was irregular.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Pope first knew Homer through Ogilby's version.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage characterizes Pope's Iliad as more like an elegant paraphrase
+    than a translation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports anecdotes that Pope consulted friends with stronger classical
+    attainments during the undertaking.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage argues that literal translation was less cultivated in Pope's
+    period than at the time of the note.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Pope's Iliad should be regarded as a delightful work in itself
+    and as part of English literature.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage mentions Buttmann, Loewe, and Liddell as figures associated with
+    more accurate knowledge of the original text.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage contrasts Pope's version with Chapman's English rendering, described
+    as fine, bold, rough, and old English.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The editor says the notes are mainly intended to help the general reader.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The editor says the notes will briefly address antiquarian or mythological
+    allusions, some departures from the original, and parallel passages from Milton.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The editor states that writing a commentary on Homer is not the present aim.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Alexander Pope
+  description: The translator whose Iliad is evaluated as non-Greek, irregularly educated,
+    and inclined toward general sense and poetic paraphrase.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Ogilby
+  description: The earlier translator or version through which Pope first became acquainted
+    with Homer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pope's consulted friends
+  description: Friends with sounder classical attainments whom Pope is said to have
+    consulted during the undertaking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Homer
+  description: The original poet whose works and text are the subject of translation,
+    annotation, and comparison.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Buttmann, Loewe, and Liddell
+  description: Scholars named in connection with increased accuracy about the original
+    text.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Chapman
+  description: An English translator whose Homeric version is praised for fine, bold,
+    rough old English.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: General reader
+  description: The intended audience of the accompanying notes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:8
+  name_or_label: Editor or annotator
+  description: The speaker who describes the purpose and limits of the notes accompanying
+    the volume.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:9
+  name_or_label: Milton
+  description: The English poet called 'our English Homer' and used as a source of
+    parallel passages.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: translator under evaluation
+  assigned_to:
+  - fig:1
+  basis: The passage evaluates Pope's education, methods, and the literary status
+    of his Iliad.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: source of Pope's early acquaintance with Homer
+  assigned_to:
+  - fig:2
+  basis: Pope's earliest acquaintance with the poet is said to have been through Ogilby's
+    version.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: classical consultants
+  assigned_to:
+  - fig:3
+  basis: The passage says Pope consulted friends whose classical attainments were
+    sounder than his own.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: original poet and object of commentary
+  assigned_to:
+  - fig:4
+  basis: The passage discusses translation of Homer, notes on Homer, and the possibility
+    of a commentary on Homer.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:10
+- id: role:5
+  label: philological authorities
+  assigned_to:
+  - fig:5
+  basis: They are named in relation to later accuracy about the original text.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: contrasting English translator
+  assigned_to:
+  - fig:6
+  basis: Chapman's version is contrasted favorably in style while Pope's faults are
+    acknowledged.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: intended readership
+  assigned_to:
+  - fig:7
+  basis: The notes are described as mainly helping the general reader and making Pope's
+    translation more entertaining and instructive to miscellaneous readers.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:8
+  label: annotator explaining editorial purpose
+  assigned_to:
+  - fig:8
+  basis: The speaker explains how the notes were prepared and what they are meant
+    to accomplish.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:9
+  label: English parallel to Homer
+  assigned_to:
+  - fig:9
+  basis: Milton is called 'our English Homer' and his passages are used as parallels.
+  evidence_refs:
+  - ev:9
+symbols: []
+scenes:
+- id: scene:1
+  label: Evaluation of Pope's translation method
+  summary: The passage explains that Pope lacked a Greek education, relied on earlier
+    English access to Homer and classical advisers, and produced a graceful paraphrase
+    rather than a literal translation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Literary defense of Pope's Iliad
+  summary: The passage argues that Pope's Iliad should not be judged only by later
+    scholarly accuracy but appreciated as a major English literary work, while still
+    acknowledging faults and contrasting Chapman.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Statement of editorial aims for the notes
+  summary: The editor describes the notes as modest aids for general readers, including
+    brief comments on antiquarian and mythological allusions, textual departures,
+    and Miltonic parallels, without attempting a full commentary on Homer.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Milton as an English literary parallel to Homer by calling
+    him 'our English Homer' and saying the notes include parallel passages from Milton.
+  claim_level: same_function
+  target: Milton as an English parallel to Homeric epic tradition
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is literary and editorial, not a passage-level mythological
+    motif comparison; no specific shared mythic motif is identified in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1156-1158
+  quote_or_summary: Pope is described as not Grecian, irregularly educated, and first
+    acquainted with Homer through Ogilby's version.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1159-1163
+  quote_or_summary: Pope's work is said to favor the general sense over minute linguistic
+    detail and to be better viewed as an elegant paraphrase than a translation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1163-1168
+  quote_or_summary: The passage mentions anecdotes that Pope consulted friends with
+    stronger classical learning, probably because of contradictory existing versions
+    rather than a wish for a perfect transcript.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1168-1175
+  quote_or_summary: The passage says literal translation was less cultivated then,
+    and readers could be satisfied if general sense, poetic cadence, fluency, and
+    fair interpretation were achieved.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1176-1181
+  quote_or_summary: The passage says it would be absurd to test Pope's translation
+    only by later knowledge and calls it a delightful work that belongs to English
+    literature as Homer belongs to Greek.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1181-1185
+  quote_or_summary: The passage refers to cherished associations with an older Iliad
+    and names Buttmann, Loewe, and Liddell as contributing to more accurate understanding
+    of the original text.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1185-1191
+  quote_or_summary: The passage refuses to defend Pope's faults, praises Chapman's
+    bold old English, and still sends Pope's Iliad to readers as an exceptional book.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1192-1197
+  quote_or_summary: The notes are described as unpretentious and mainly intended to
+    help the general reader, despite the editor's prior translation of Homer's works.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1197-1203
+  quote_or_summary: The editor says Pope's version is not a field for critical display
+    and that the notes briefly address antiquarian or mythological allusions, some
+    departures from the original, and parallel passages from Milton, called the English
+    Homer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 1203-1207
+  quote_or_summary: The editor disclaims high scholastic aims, says a commentary on
+    Homer is not intended, and hopes to make Pope's translation more entertaining
+    and instructive for miscellaneous readers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is editorial prose rather than mythic narrative. No concrete
+    mythological symbols or candidate myth motifs are directly present. The only comparison
+    claim retained is the explicit literary comparison between Homer and Milton.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol refs were assigned because the excerpt does not itself present mythic narrative content or supported symbolic objects from the supplied taxonomy.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1156-l1207
+  passage_sha256=094d890eec0b8550b1c3a61a1f50f192ee971de5cc7725b6f90767de9625f0ab
+

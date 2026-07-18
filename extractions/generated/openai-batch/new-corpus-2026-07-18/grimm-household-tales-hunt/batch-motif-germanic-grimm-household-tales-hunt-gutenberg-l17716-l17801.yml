@@ -1,0 +1,590 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l17716-l17801
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 17716-17801
+  start: '17716'
+  end: '17801'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl receives magical objects from an old toad, crosses a glass mountain,
+    sharp swords, and a lake to find the King's son she had freed. Disguised as a
+    scullery-maid, she bargains with a rival bride for nights in the bridegroom's
+    chamber using dresses found in nuts. After two drugged nights, the King's son
+    stays awake on the third, recognizes her as the true beloved, and returns with
+    her over the obstacles. The old house becomes a castle, the toads are disenchanted
+    as King's children, and the couple marry and rule two kingdoms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old toad gives the girl three needles, a plough-wheel, and three nuts
+    for a journey to regain her lover.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The journey requires crossing a high glass mountain, three piercing swords,
+    and a great lake.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The girl crosses the glass mountain by placing the needles before and behind
+    her feet, and crosses the swords by riding on the plough-wheel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the castle, the girl is hired as a low-paid scullery-maid while the King's
+    son is preparing to marry another maiden because he thinks the girl is dead.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each of the three nuts contains a royal garment; the garments are used in
+    bargains with the bride for nights in the bridegroom's chamber.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:6
+  text: The bride gives the bridegroom sleeping-drinks on the first two nights, so
+    he does not hear the scullery-maid's appeals.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:7
+  text: The scullery-maid weeps at night and recounts that she freed the King's son
+    from an iron stove and crossed the glass mountain, swords, and lake to find him.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: On the third night the King's son throws away the sleeping-draught, hears
+    her, and declares that she is the true one.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The couple leave at night, prevent the false bride from rising by taking her
+    clothes, and retrace the lake, swords, and glass mountain with the magical travel
+    objects.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The little old house is revealed as a great castle; the toads are disenchanted
+    and identified as King's children.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The King's son and the princess marry, fetch the lonely old King, possess
+    two kingdoms, and live in happy wedlock.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: girl / scullery-maid / true beloved
+  description: A young woman who receives objects from the old toad, crosses obstacles,
+    works as a scullery-maid, and is recognized by the King's son as the true one.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: old toad
+  description: An old toad who gives the girl three needles, a plough-wheel, and three
+    nuts for her journey.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King's son / bridegroom
+  description: The lover whom the girl seeks; he is in a castle with another bride,
+    is drugged to sleep, then recognizes the girl as the true one.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: bride / false bride
+  description: Another maiden beside the King's son who wants to marry him, bargains
+    for the garments, and gives him sleeping-drinks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: servants
+  description: Servants who sit by the chamber-door, hear the scullery-maid weeping,
+    and inform their lord.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: toads / King's children
+  description: Toads at the old house who are later disenchanted and revealed as King's
+    children.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: old King
+  description: An old King who grieves at being left alone and is brought to live
+    with the couple.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: questing beloved
+  assigned_to:
+  - fig:1
+  basis: She must cross difficult obstacles and find her lover again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: magical helper
+  assigned_to:
+  - fig:2
+  basis: The old toad supplies the objects needed for the journey.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: disguised servant
+  assigned_to:
+  - fig:1
+  basis: She presents herself as a poor girl and is hired as a scullery-maid.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: lost lover
+  assigned_to:
+  - fig:3
+  basis: The girl seeks him after freeing him earlier; he is present with another
+    maiden and believes she is dead.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: true bride
+  assigned_to:
+  - fig:1
+  basis: The King's son names her the true one and leaves with her.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: recognizing bridegroom
+  assigned_to:
+  - fig:3
+  basis: He stays awake on the third night and recognizes the girl.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: rival or false bride
+  assigned_to:
+  - fig:4
+  basis: She seeks to marry the King's son, buys access to the dresses, and administers
+    sleeping-drinks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:8
+  label: witnesses
+  assigned_to:
+  - fig:5
+  basis: They hear the girl's night-long weeping and report it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: disenchanted royal children
+  assigned_to:
+  - fig:6
+  basis: The toads are disenchanted and revealed as King's children.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: dependent royal elder
+  assigned_to:
+  - fig:7
+  basis: He is lonely after the marriage and is brought to live with the couple.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: glass mountain
+  literal_form: high slippery glass mountain
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: three needles
+  literal_form: three large needles used to cross the glass mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: three piercing swords
+  literal_form: three sharp or piercing swords that must be crossed
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: plough-wheel
+  literal_form: plough-wheel used to roll over the swords
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: great lake
+  literal_form: great lake crossed on the way to and from the castle
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:6
+  label: three nuts with garments
+  literal_form: three nuts containing increasingly beautiful royal garments, the third
+    stiff with pure gold
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:7
+  label: sleeping-draught
+  literal_form: sleeping-draught or sleeping-drink placed in wine for the bridegroom
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:8
+  label: old house transformed into castle
+  literal_form: little old house that is a great castle when entered after the return
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: iron stove
+  literal_form: iron stove in the wild forest from which the King's son had been freed
+    before this passage
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reception of magical travel objects
+  summary: The girl is lodged by the toads, and in the morning the old toad gives
+    her needles, a plough-wheel, and nuts for the journey to recover her lover.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Crossing the obstacles to the castle
+  summary: The girl crosses the glass mountain with needles, crosses the swords on
+    the plough-wheel, crosses the lake, and reaches the castle where the King's son
+    lives.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Service in the castle and first night bargain
+  summary: The girl becomes a scullery-maid, opens the first nut to find a royal garment,
+    trades it for a night in the bridegroom's chamber, but the bridegroom is drugged
+    asleep.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Repeated appeals beside the sleeping bridegroom
+  summary: The scullery-maid weeps and recounts her rescue and journey, but the bridegroom
+    does not hear on the first two nights because of sleeping-drinks; servants overhear
+    her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Recognition on the third night
+  summary: After the third nut produces a golden garment, the girl obtains a third
+    night. The King's son discards the sleeping-draught, hears her, and recognizes
+    her as the true one.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Return, disenchantment, and marriage
+  summary: The couple leave at night, retrace the lake, swords, and glass mountain
+    with the magical objects, reach the old house, find it transformed into a castle,
+    and the toads disenchanted; they marry and form a household with the old King.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: quest to recover a lost beloved through impossible crossings
+  taxonomy_refs:
+  - mystical_quest
+  - stolen_beloved
+  basis: The girl is told she must cross the glass mountain, swords, and lake to regain
+    her lover, and she completes the crossings with magical aids.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the task as recovering a lover, but it does not explicitly
+    classify the rival bride as a captor.
+- id: motif:2
+  label: magical helper supplies objects for ordeal journey
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The old toad gives the girl objects that are then used to pass the obstacles
+    and later return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy has no exact helper-object motif; the sacred_exchange
+    reference is approximate because a transfer of special objects occurs.
+- id: motif:3
+  label: threefold nights of attempted recognition
+  taxonomy_refs: []
+  basis: Three nuts produce garments used to obtain three nights in the bridegroom's
+    chamber; recognition succeeds only on the third night.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific available taxonomy reference matches this folktale pattern.
+- id: motif:4
+  label: sleeping draught prevents recognition
+  taxonomy_refs: []
+  basis: The rival bride twice gives the bridegroom a sleeping-drink so he cannot
+    hear the scullery-maid, while he discards it on the third night and recognizes
+    her.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No taxonomy reference was supplied for enchanted sleep or drugged recognition.
+- id: motif:5
+  label: disenchantment revealing hidden royal identity
+  taxonomy_refs:
+  - shapeshifter
+  - royal_legitimacy
+  basis: The toads are disenchanted and revealed as King's children; the old house
+    becomes a great castle.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage reports disenchantment but does not describe the original
+    spell or the mechanism of transformation.
+- id: motif:6
+  label: return journey reverses the ordeal path
+  taxonomy_refs:
+  - return
+  basis: After recognition, the couple cross back over the lake, swords, and glass
+    mountain using the same magical aids.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The return is literal within the passage; broader symbolic interpretation
+    is not asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17716-17727
+  quote_or_summary: After the girl brings the box and sleeps, the old toad gives her
+    three needles and also three large needles, a plough-wheel, and three nuts; she
+    is told she must cross a glass mountain, three piercing swords, and a great lake
+    to get her lover back.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 17728-17739
+  quote_or_summary: The girl uses the needles to cross the slippery glass mountain,
+    rides the plough-wheel over the swords, crosses the lake, reaches a beautiful
+    castle, and is hired as a scullery-maid; the King's son is there with another
+    maiden because he thinks she is dead.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17740-17757
+  quote_or_summary: The first nut contains a stately royal garment; the rival bride
+    wants it, and the girl gives it only for permission to sleep one night in the
+    bridegroom's chamber. The bride gives the bridegroom wine with a sleeping-draught,
+    so he cannot be awakened.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17758-17764
+  quote_or_summary: The girl weeps through the night, saying she freed him from the
+    iron stove in the wild forest and crossed the glass mountain, swords, and lake
+    before finding him; servants hear and report it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 17765-17783
+  quote_or_summary: The second and third nuts produce more beautiful garments, with
+    the third stiff with pure gold. The bride again uses a sleeping-drink the second
+    night, but on the third the King's son discards it, hears the girl's appeal, and
+    says she is the true one.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 17783-17795
+  quote_or_summary: The King's son and the girl leave at night, take the false bride's
+    clothes, cross the lake, swords, and glass mountain with the magical aids, reach
+    the little old house, find it a great castle, and see the toads disenchanted as
+    King's children. They marry, bring the old King to live with them, and have two
+    kingdoms.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is self-contained for literal extraction. Motif taxonomy mapping
+    is partly approximate because several folktale patterns in the passage do not
+    have exact supplied taxonomy references. No comparison claims were added because
+    the passage itself does not make comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line locators are based on the provided stable passage range and internal sequence of the supplied excerpt.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l17716-l17801
+  passage_sha256=34de9d5bc526ecc280aedf2e58cded4037a516eada9fdb02fea45eb96a6a53f3
+

@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l2932-l2988
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: ASALOQ / UKALEQ / IKARDLITUARSSUK / THE RAVEN WHO WANTED A WIFE; lines 2932-2988
+  start: '2932'
+  end: '2988'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A sparrow mourns her lost husband. A raven proposes to her and is refused.
+    The raven then seeks wives among wild geese preparing to migrate over water. Despite
+    being warned that travelers must be able to swim or rest on the water, he follows
+    them, becomes exhausted, sleeps on two geese, is dropped into the sea, drowns,
+    and is transformed after death into little sea ravens.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A little sparrow mourns for her lost husband, who had caught worms for her.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: A raven asks the sparrow why she is weeping and offers himself as a husband.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The raven describes his forehead, temples, beard, and beak, and promises shelter
+    under his wings and offal to eat.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sparrow refuses the raven as a husband, citing his features and the offal
+    he would give her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The raven leaves to seek a wife among wild geese and is described as lovesick
+    and unable to sleep.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The wild geese are preparing to fly to other lands.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The geese warn that no one can accompany them unless able to swim or rest
+    on the water because there are no icebergs along their route.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The raven says he will sail through the air and flies away with the wild geese.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: The raven becomes weary from lack of sleep and asks for something to rest
+    on.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Two geese called his wives sit side by side on the water, and the raven sleeps
+    on them.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: When the other geese have flown farther away, the two geese drop the raven
+    into the sea and fly after their companions.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The raven falls into the water, sinks to the bottom, and drowns.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:13
+  text: After a while the raven breaks into little pieces, and its soul becomes little
+    sea ravens.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: little sparrow
+  description: A sparrow mourning her lost husband and refusing the raven's proposal.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: sparrow's lost husband
+  description: The sparrow's absent husband, remembered because he caught worms for
+    her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: raven
+  description: A raven who seeks a wife, is refused by the sparrow, pursues wild geese,
+    becomes exhausted, drowns, and is transformed after death into sea ravens.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: two wild geese
+  description: Two geese whom the raven says he will have; they sit on the water so
+    he can rest, then drop him into the sea and fly away.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: other wild geese
+  description: The remaining geese, described as comrades who continue flying while
+    the two geese and the raven fall behind.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: little sea ravens
+  description: Beings into which the drowned raven's soul is said to turn.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: mourning spouse
+  assigned_to:
+  - fig:1
+  basis: The sparrow is mourning for her lost husband.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: lost provider husband
+  assigned_to:
+  - fig:2
+  basis: The sparrow remembers him as her husband who caught worms for her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: refuser of suitor
+  assigned_to:
+  - fig:1
+  basis: The sparrow refuses to take the raven as a husband.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: rejected suitor
+  assigned_to:
+  - fig:3
+  basis: The raven proposes to the sparrow and is refused.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: wife-seeker among geese
+  assigned_to:
+  - fig:3
+  basis: After the refusal, the raven goes to seek a wife among the wild geese.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: drowned and transformed figure
+  assigned_to:
+  - fig:3
+  basis: The raven sinks, drowns, breaks apart, and its soul becomes little sea ravens.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: temporary wives
+  assigned_to:
+  - fig:4
+  basis: The passage calls the two geese the raven's wives when they sit down on the
+    water for him.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: abandoning supports
+  assigned_to:
+  - fig:4
+  basis: The two geese support the raven on the water, then drop him into the sea
+    and leave.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: migrating companions
+  assigned_to:
+  - fig:5
+  basis: The other geese continue flying farther away while the raven rests behind.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:10
+  label: postmortem transformed beings
+  assigned_to:
+  - fig:6
+  basis: The drowned raven's soul is turned into little sea ravens.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: water and sea
+  literal_form: surface of the water; sea; bottom of the water
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: absence of icebergs
+  literal_form: no icebergs along the migration route
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: wings as promised shelter
+  literal_form: the raven says the sparrow shall sleep under his wings
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: offal and worms as foods
+  literal_form: worms caught by the lost husband; offal promised by the raven
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: little sea ravens
+  literal_form: little "sea ravens" into which the raven's soul is turned
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Sparrow mourning and raven's proposal
+  summary: The sparrow mourns her lost husband. The raven asks why she weeps and offers
+    himself as a replacement husband, listing his features and the food and shelter
+    he would provide.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sparrow refuses the raven
+  summary: The sparrow rejects the raven as a husband, repeating the features and
+    food offer that make him unacceptable to her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Raven seeks wives among migrating geese
+  summary: The raven goes to the wild geese, who are preparing to fly to other lands.
+    They warn that companions must be able to swim or rest on the water because there
+    are no icebergs, but the raven says he will sail through the air.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Raven rests on two geese
+  summary: The wild geese fly away with the raven, but he becomes exhausted. He asks
+    for something to rest on, and two geese sit side by side on the water while he
+    sleeps on them.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Raven dropped, drowned, and transformed
+  summary: The two geese drop the raven into the sea and fly after their companions.
+    The raven sinks, drowns, breaks into pieces, and its soul becomes little sea ravens.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: rejected animal suitor
+  taxonomy_refs: []
+  basis: The raven proposes himself as a husband to the mourning sparrow, but she
+    refuses him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents animal characters and courtship, but gives no broader
+    comparative label.
+- id: motif:2
+  label: fatal attempt to join incompatible migrating companions
+  taxonomy_refs: []
+  basis: The raven follows geese over water despite the stated need to swim or rest
+    on water, becomes exhausted, and drowns.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a passage-level pattern; no supplied taxonomy family exactly names
+    it.
+- id: motif:3
+  label: death followed by transformation into sea ravens
+  taxonomy_refs:
+  - death_rebirth
+  basis: After the raven drowns, it breaks into pieces and its soul is turned into
+    little sea ravens.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage supports transformation after death, but it is not a resurrection
+    of the same individual; the taxonomy reference is broad.
+- id: motif:4
+  label: wives as temporary resting place before abandonment
+  taxonomy_refs: []
+  basis: The two geese called the raven's wives sit on the water so he can sleep on
+    them, then drop him into the sea and fly away.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The relationship is brief and functional in the passage; the text does
+    not state a ritual or sacred marriage context.
+comparison_claims:
+- id: claim:1
+  claim: The raven's drowning followed by the soul becoming little sea ravens is functionally
+    comparable to a death-to-new-form pattern.
+  claim_level: same_function
+  target: death_rebirth motif family
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe return to ordinary life, historical contact,
+    or a named comparative tradition; the comparison is limited to narrative function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2932-2936
+  quote_or_summary: Title introduces the tale; a little sparrow mourns her lost husband,
+    whom she loved because he caught worms for her.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: 2938-2943
+  quote_or_summary: A raven asks why the sparrow is weeping; she says she mourns her
+    lost husband because he caught worms for her.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:3
+  type: quote
+  locator: 2944-2947
+  quote_or_summary: The raven says, "Take me for a husband," and promises that the
+    sparrow shall sleep under his wings and eat offal.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: 2949-2950
+  quote_or_summary: The sparrow refuses the raven as a husband, citing his forehead,
+    temples, beard, beak, and offer of offal.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: 2952-2954
+  quote_or_summary: The raven flies away to seek a wife among wild geese and is so
+    lovesick that he cannot sleep.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: 2956-2963
+  quote_or_summary: The wild geese are preparing to fly to other lands; the raven
+    speaks to two of them after the sparrow has refused him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:7
+  type: summary
+  locator: 2965-2969
+  quote_or_summary: The geese warn that travelers must be able to swim or rest on
+    the water because there are no icebergs; the raven says he will sail through the
+    air.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:8
+  type: summary
+  locator: 2971-2976
+  quote_or_summary: The geese and raven fly away; the raven becomes weary, asks for
+    a resting place, and sleeps on two geese sitting on the water.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:9
+  type: summary
+  locator: 2977-2982
+  quote_or_summary: When the other geese are far away, the two geese drop the raven
+    into the sea and fly after them; the raven asks again for something to rest on
+    as it falls into the water.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:10
+  type: summary
+  locator: 2983-2988
+  quote_or_summary: The raven sinks to the bottom, drowns, breaks into little pieces,
+    and its soul is turned into little sea ravens.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is clear in the supplied passage. Motif labels are passage-level
+    and should be reviewed, especially the broad death_rebirth taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l2932-l2988
+  passage_sha256=de44f5be7e0a1e64ca734dcdcc6d6ac6e3fb75bfae6a2f86f7b1f44c097d59ae
+

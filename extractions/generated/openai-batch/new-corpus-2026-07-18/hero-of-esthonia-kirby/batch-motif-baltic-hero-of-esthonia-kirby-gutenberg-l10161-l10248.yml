@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l10161-l10248
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE THREE WISHES. / THE WITCH-BRIDE. / THE STEPMOTHER. / THE FISHERMAN AND
+    HIS WIFE.; lines 10161-10248
+  start: '10161'
+  end: '10248'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Sleepy Tony encounters a mermaid on the shore after sunset. She says she
+    has expected him, has protected him before, and invites him to live with her.
+    He hesitates and asks for three days; she gives him a gold ring as a pledge. After
+    suffering in her absence, he accepts her offer. She blindfolds him, he is carried
+    by strong arms into the sea, loses consciousness, and later awakens.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sleepy Tony is alone on the beach after sunset when he hears the mermaid's
+    song.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mermaid is seen sitting on a rock, combing her hair with a golden comb,
+    and singing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mermaid approaches Sleepy Tony instead of fleeing from him and greets
+    him by the hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mermaid says a fateful dream warned her of his arrival and that she has
+    known, watched over, and protected him since childhood.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mermaid invites Sleepy Tony to come with her and promises happiness and
+    protection from wind, rain, and frost.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Sleepy Tony asks whether her home is far away, then asks for three days to
+    decide.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mermaid places a gold ring on Sleepy Tony's little finger as a pledge
+    that he will return and says it may become an engagement ring.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After the mermaid vanishes, the ring troubles Sleepy Tony, and he repeatedly
+    returns to the rock where she had sat.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Sleepy Tony grieves in the mermaid's absence and says he will either die of
+    hunger on the rock or throw himself into the sea if she does not return.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The mermaid returns before the three-day period ends, saying she has seen
+    his suffering and heard his sighs.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Sleepy Tony asks forgiveness and says he will go wherever the mermaid carries
+    him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The mermaid says she wants him as a living companion, leads him toward the
+    sea, blindfolds him, and he is carried into the sea, where he loses consciousness.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Sleepy Tony
+  description: A youth wandering alone on the beach who encounters and ultimately
+    follows the mermaid.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the mermaid / maiden
+  description: A female sea-being who sings on a rock, combs her hair with a golden
+    comb, claims to have protected Sleepy Tony, gives him a ring, and takes him into
+    the sea.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: shore wanderer
+  assigned_to:
+  - fig:1
+  basis: Sleepy Tony is introduced as wandering alone on the beach after sunset.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supernatural inviter
+  assigned_to:
+  - fig:2
+  basis: The mermaid invites Sleepy Tony to come with her and promises him happiness
+    and protection.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hesitant human companion
+  assigned_to:
+  - fig:1
+  basis: Sleepy Tony hesitates, asks for time, then accepts the mermaid's offer to
+    carry him away.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: protector and claimant
+  assigned_to:
+  - fig:2
+  basis: The mermaid says she has watched over and protected Sleepy Tony, gives him
+    a pledge-ring, and says she will take him as her companion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+symbols:
+- id: sym:1
+  label: sea and waves
+  literal_form: the beach, sea, waves, and depths into which Sleepy Tony is carried
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: gold ring
+  literal_form: a gold ring placed on Sleepy Tony's little finger as a pledge and
+    possible engagement ring
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: golden comb
+  literal_form: the golden comb used by the mermaid while sitting on the rock
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: shore rock
+  literal_form: the rock where the mermaid sits and where Sleepy Tony returns in longing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: silk blindfold
+  literal_form: a silk handkerchief bound over Sleepy Tony's eyes before the sea plunge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: three-day delay
+  literal_form: three days requested by Sleepy Tony to make up his mind
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Mermaid encounter on the shore
+  summary: After sunset, Sleepy Tony hears the mermaid's song, sees her on a rock
+    with a golden comb, and she comes to greet him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invitation, hesitation, and ring pledge
+  summary: The mermaid claims prior protection of Sleepy Tony and invites him to her
+    home. He asks for three days to decide, and she gives him a gold ring as a pledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Longing at the vacant rock
+  summary: After the mermaid vanishes, Sleepy Tony is troubled by the ring, waits
+    at the shore, and grieves when she does not appear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Acceptance and plunge into the sea
+  summary: The mermaid returns early, Sleepy Tony accepts her offer, and she blindfolds
+    him before he is carried into the sea and loses consciousness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: supernatural water-woman invites a human companion
+  taxonomy_refs:
+  - divine_beloved
+  basis: The mermaid presents herself as a female nonhuman protector and offers Sleepy
+    Tony happiness if he comes with her as a companion.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: medium
+  cautions: The passage calls her a mermaid or maiden, not a deity; the taxonomy reference
+    is approximate.
+- id: motif:2
+  label: pledge-ring binding a delayed decision
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The mermaid gives Sleepy Tony a gold ring so that he will not forget to return
+    and says it may serve as an engagement ring.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exchange is explicitly a pledge but is not explicitly described as
+    sacred.
+- id: motif:3
+  label: departure through water to an unknown otherworldly home
+  taxonomy_refs:
+  - departure
+  - hero_descent
+  basis: After accepting the mermaid's invitation, Sleepy Tony is blindfolded, carried
+    by strong arms, plunged into the sea, loses consciousness, and later awakens to
+    a stranger situation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The excerpt ends before describing the destination, so the nature of the
+    home is not yet confirmed within this passage.
+- id: motif:4
+  label: enchanting song and beauty causing longing
+  taxonomy_refs: []
+  basis: The mermaid's song and beauty deeply affect Sleepy Tony, and her absence
+    leads him to grief, sleeplessness, and a threat of self-destruction.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes emotional compulsion but does not explicitly state
+    magical coercion.
+comparison_claims:
+- id: claim:1
+  claim: 'The sequence has the same function as a departure or descent-to-otherworld
+    pattern: a human leaves the ordinary shore after accepting a supernatural guide''s
+    invitation and passes through the sea while unconscious.'
+  claim_level: same_function
+  target: departure / hero_descent motif family
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage alone does not establish historical contact, common inheritance,
+    or the full structure of an otherworld journey.
+- id: claim:2
+  claim: The ring functions like a binding pledge-token within an exchange between
+    a supernatural woman and a human man.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage identifies the ring as a pledge and possible engagement
+    token, but does not explicitly frame the exchange as sacred.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10161-10170
+  quote_or_summary: After sunset on the beach, Sleepy Tony hears the mermaid's song
+    and sees her sitting on a rock, combing her hair with a golden comb.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10171-10191
+  quote_or_summary: The mermaid approaches, greets him, says a fateful dream warned
+    her of his arrival, claims to have protected him before, and invites him to come
+    with her for happiness and protection.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10192-10203
+  quote_or_summary: Sleepy Tony asks whether her home is far away, asks for three
+    days to decide, and the mermaid places her gold ring on his little finger as a
+    pledge and possible engagement ring.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10204-10215
+  quote_or_summary: The mermaid vanishes; the ring proves the encounter was not a
+    dream and gives Sleepy Tony no rest, and he keeps returning to the vacant rock.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10216-10229
+  quote_or_summary: In the mermaid's absence, Sleepy Tony weeps on the rock and says
+    he will die of hunger there or throw himself into the waves if she does not return.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 10230-10236
+  quote_or_summary: The mermaid lays a warm hand on his forehead and says she has
+    seen his suffering and returned before the appointed time.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 10237-10242
+  quote_or_summary: Sleepy Tony asks the mermaid's forgiveness and says she may carry
+    him wherever she pleases.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 10243-10247
+  quote_or_summary: The mermaid says she wants him living as her companion, takes
+    him by the hand, leads him nearer the sea, blindfolds him, and he is lifted by
+    strong arms and plunged into the sea, where he loses consciousness.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: line 10248
+  quote_or_summary: When Sleepy Tony awakens, the narrator says he will experience
+    something stranger still.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious and passage-level only; taxonomy matches are approximate where the
+    supplied labels are broader than the passage wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or source-dependence claims are made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l10161-l10248
+  passage_sha256=29d1908aa343ab2138c9803a505ccc6b8cebb702c0632665f0dc2eb80d2e297e
+

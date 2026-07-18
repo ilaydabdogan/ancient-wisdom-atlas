@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8308-l8369
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 118 / PAGE 121 / PAGE 124 / PAGE 126; lines 8308-8369
+  start: '8308'
+  end: '8369'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: I hear the creaking of a chariot / with a beautiful silver yoke
+  summary: The passage gives a literal and metrical rendering of a poem describing
+    the heard approach of a victorious war-chariot. A man or heroic hound drives or
+    guides it, with imagery of charioteer, hawk, horses, battle, and slaughter. A
+    warning is addressed to someone waiting on a hillock for the Hound of Emain Macha,
+    whose body is described as having hues of all colours.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A chariot is heard creaking and is described with a beautiful silver yoke.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure of a man rises from or is associated with the wheels of a stout chariot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chariot passes over named places including Breg Row or Braeg Ross, Braine
+    or Braina, a highway, and the lower part of the Burg of the Trees or wooded sides.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chariot is described as triumphant for victories or accompanied by triumph
+    song for conquests.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The driver is called a heroic hound; the yoker is called a trusty charioteer
+    or servant; the scourger is compared with or called a noble hawk.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The horses are urged southward.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The approaching figure is described as a stubborn or hardy hero who will cause
+    heavy or gory slaughter and is skilled in war.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A warning of woe is addressed to someone on a hillock or hill who waits for
+    the hound.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The speaker says they had declared in the previous year that a hound would
+    come.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The coming hound is identified as the Hound of Emain Macha or Emain's Hound,
+    guarding or belonging to a territory and facing battle.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The hound's form or body is described as bearing hues of all colours.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: figure of a man / heroic hound / Hound of Emain Macha
+  description: The approaching chariot-associated figure is described as a man, heroic
+    hound, stubborn hero, hardy chief, and the Hound of Emain Macha with many-coloured
+    form.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: trusty charioteer or servant
+  description: A figure who yokes the chariot or ties the yoke-strap; the wording
+    may describe the same heroic chariot figure or an attendant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: person waiting on hillock
+  description: An addressed person on a hillock or hill waits for the hound and is
+    warned of coming woe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: approaching war-chariot hero
+  assigned_to:
+  - fig:1
+  basis: The figure is associated with the chariot, is called a hero or chief, and
+    is linked with battle and slaughter.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: territorial battle hound
+  assigned_to:
+  - fig:1
+  basis: The figure is named the Hound of Emain Macha, a hound of territory and battle,
+    or one who guards his land and faces fight.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: chariot attendant or yoker
+  assigned_to:
+  - fig:2
+  basis: The passage says a trusty charioteer yokes the chariot, and the metrical
+    rendering says a trusty servant ties the yoke-strap.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: threatened watcher
+  assigned_to:
+  - fig:3
+  basis: The addressed figure waits on a hill or hillock for the hound and is told
+    woe is dawning.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: war-chariot
+  literal_form: creaking chariot or war-car with wheels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: silver yoke
+  literal_form: beautiful silver yoke or silver yokes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hound epithet
+  literal_form: heroic hound; Hound of Emain Macha; Hound of battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: hawk image
+  literal_form: noble hawk used of the chariot-driving or scourging figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: horses driven southward
+  literal_form: horses or steeds urged to the south
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: hillock or hill
+  literal_form: hillock or hill where the warned person waits
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: many-coloured body
+  literal_form: form or body graced with hues of all colours
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Approach of the war-chariot
+  summary: A creaking chariot or war-car with a silver yoke approaches across named
+    places and is marked by triumph for victories.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Heroic driver and battle expectation
+  summary: The chariot-associated figure is described through hound and hawk imagery,
+    urges horses southward, and is expected to bring slaughter and warlike deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Warning to the hill-watcher
+  summary: Someone waiting on a hillock or hill for the hound is warned of woe, while
+    the coming figure is identified as Emain's Hound, a battle and territorial hound
+    with a many-coloured form.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ominous arrival of a battle hero in a chariot
+  taxonomy_refs: []
+  basis: The poem emphasizes the audible approach of a chariot, the hero associated
+    with it, triumph, battle, and expected slaughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is a poem with two renderings; some lines are marked uncertain
+    by the translator.
+- id: motif:2
+  label: warrior identified by animal epithets
+  taxonomy_refs: []
+  basis: The central figure is repeatedly called a hound and also described with hawk
+    imagery while acting as a battle hero.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage supports animal epithets and imagery, but not literal animal
+    transformation.
+- id: motif:3
+  label: prophetic or prior warning of a hero's coming
+  taxonomy_refs: []
+  basis: The speaker says they had declared the previous year that the hound would
+    come, and warns the watcher on the hill of woe.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a retrospective warning but does not provide the circumstances
+    of the earlier declaration.
+- id: motif:4
+  label: many-coloured heroic form
+  taxonomy_refs: []
+  basis: The Hound of Emain Macha is described as having a form or body with hues
+    of all colours.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The significance of the colours is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8308-8312
+  quote_or_summary: "“I hear the creaking of a chariot / with a beautiful silver yoke,
+    / the figure of a man with perfection / (rises) from the wheels of the stout chariot”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8313-8317 and metrical rendering
+  quote_or_summary: The chariot moves over Breg/Braeg, Braine/Braina, a highway, and
+    wooded or tree-associated places, and is described as triumphant for victories
+    or accompanied by conquest song.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8318-8323 and metrical rendering
+  quote_or_summary: The driver is called a heroic hound; a trusty charioteer or servant
+    yokes it; a noble hawk image is used; horses or steeds are urged southward.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8324-8327 and metrical rendering
+  quote_or_summary: The figure is described as a stubborn hero or hardy chief whose
+    fame will involve heavy or gory slaughter and skilled war.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8328-8333 and metrical rendering
+  quote_or_summary: A person on a hillock or hill waiting for the hound is warned
+    of woe; the speaker says they declared in the previous year that a hound would
+    come.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 8334-8338 and metrical rendering
+  quote_or_summary: "“the Hound of Emain Macha,” “the Hound of battle,” and in the
+    second rendering “Emain's Hound” whose body is graced by every hue."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of a literal translation and a second metrical rendering
+    of the same poem; several words in the literal rendering are explicitly uncertain.
+    Figures and motifs are therefore extracted conservatively.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy did not include clear matches for chariot, hound, hawk, hillock, or many-coloured heroic body, and the passage does not support shapeshifting as a literal event.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8308-l8369
+  passage_sha256=edcd38c2ec5494b2e2caf0d2d7958d42501da81868ecf7e0711a32a4f9c4c525
+

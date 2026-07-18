@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38991-l39019
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CI. / ENTITLED, THE STRIKING;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38991-39019
+  start: '38991'
+  end: '39019'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“On that day men shall be like moths scattered abroad”"
+  summary: The passage announces “the striking,” describes a terrifying day when people
+    are scattered and mountains are transformed, then contrasts those whose balance
+    is heavy with good works with those whose balance is light and whose dwelling
+    is the pit of hell, described as burning fire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage names and questions “the striking,” emphasizing its terror.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On that day, men are compared to moths scattered abroad.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mountains are said to become like carded wool of various colours driven by
+    the wind.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A person whose balance is heavy with good works is said to lead a pleasing
+    life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A person whose balance is light is said to have the pit of hell as his dwelling.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The pit of hell is described as a burning fire.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note identifies “the striking” as one of the names or epithets of the last
+    day because it will strike creatures’ hearts with terror.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note states that the original word Hwiyat names the lowest dungeon of hell
+    and signifies a deep pit or gulf.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: men on that day
+  description: People on the described day, compared to moths scattered abroad.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: person whose balance is heavy
+  description: A generic person whose balance is heavy with good works and who leads
+    a pleasing life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: person whose balance is light
+  description: A generic person whose balance is light and whose dwelling is the pit
+    of hell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: people affected by the terrifying day
+  assigned_to:
+  - fig:1
+  basis: Men are described as scattered abroad like moths on that day.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: rewarded judged person
+  assigned_to:
+  - fig:2
+  basis: The heavy balance with good works is followed by a pleasing life.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: condemned judged person
+  assigned_to:
+  - fig:3
+  basis: The light balance is followed by dwelling in the pit of hell, which is a
+    burning fire.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: the striking
+  literal_form: A name or epithet for the terrifying last day in the passage and note.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: scattered moths
+  literal_form: Men are likened to moths scattered abroad.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mountains like carded wool
+  literal_form: Mountains become like carded wool of various colours driven by wind.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: balance of good works
+  literal_form: A balance that may be heavy with good works or light.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: pit of hell
+  literal_form: The dwelling of the person whose balance is light; the note describes
+    it as a deep pit or gulf and lowest dungeon of hell.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:6
+  label: burning fire
+  literal_form: The pit of hell is described as a burning fire.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: announcement of the striking
+  summary: The passage names “the striking” and asks what will make the hearer understand
+    how terrible it is.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: cosmic disruption on that day
+  summary: People are likened to scattered moths, and mountains are likened to carded
+    wool driven by the wind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: weighing of works and outcomes
+  summary: The heavy balance with good works leads to a pleasing life, while the light
+    balance leads to the pit of hell.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: description of the pit of hell
+  summary: The pit of hell is presented as frightful and identified as a burning fire.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: judgment by weighed deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage distinguishes a heavy balance with good works from a light balance
+    and assigns different afterlife outcomes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly name a judge in this excerpt; the motif
+    is inferred from the described weighing and outcomes.
+- id: motif:2
+  label: terrifying last day with cosmic upheaval
+  taxonomy_refs:
+  - chaos
+  basis: The day called “the striking” is associated with terror, scattered humanity,
+    and mountains transformed like wind-driven wool.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference “chaos” is broad; the passage presents eschatological
+    disruption rather than an independent chaos myth.
+- id: motif:3
+  label: hell as pit and burning fire
+  taxonomy_refs: []
+  basis: The light-balance person’s dwelling is the pit of hell, which is described
+    as a burning fire; a note glosses the term as a deep pit or gulf.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: No specific available motif-family taxonomy exactly matches punitive hellfire
+    in the provided list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 38991-39019, main text opening
+  quote_or_summary: "“THE striking! What is the striking? And what shall make thee
+    to understand how terrible the striking will be?”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 38991-39019, main text
+  quote_or_summary: "“On that day men shall be like moths scattered abroad”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 38991-39019, main text
+  quote_or_summary: "“the mountains shall become like carded wool of various colours
+    driven by the wind”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 38991-39019, main text
+  quote_or_summary: "“he whose balance shall be heavy with good works, shall lead
+    a pleasing life”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 38991-39019, main text
+  quote_or_summary: "“as to him whose balance shall be light, his dwelling shall be
+    the pit of hell”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 38991-39019, main text
+  quote_or_summary: "“What shall make thee to understand how frightful the pit of
+    hell is? It is a burning fire.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 38991-39019, note g
+  quote_or_summary: The note says “the striking” is a name or epithet for the last
+    day because it will strike the hearts of all creatures with terror.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 38991-39019, note h
+  quote_or_summary: The note says the original word Hwiyat names the lowest dungeon
+    of hell and properly means a deep pit or gulf.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage and notes.
+    Motif taxonomy is limited by the available list; no independent comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote f in the supplied passage appears to refer to a preceding passage and was not used for this extraction.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38991-l39019
+  passage_sha256=ea40bbc2d6029cc8f40bed5e6fcb41f0fb537373eb50cba9bac65150e217558b
+

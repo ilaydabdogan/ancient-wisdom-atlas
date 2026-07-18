@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l3650-l3817
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XII. The Sacrifice Begun. / Canto XIII. The Sacrifice Finished. / Canto
+    XV. The Nectar. / Canto XIX. The Birth Of The Princes.; lines 3650-3817
+  start: '3650'
+  end: '3817'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A great sage is received by the king with formal hospitality. After the
+    king welcomes him and promises to grant his wish, the sage explains that two shape-changing
+    fiends repeatedly interrupt his holy rite by defiling the altar. He asks the king
+    to give him Ráma, the king’s eldest son, so that Ráma may slay the demons during
+    the ten-night sacrifice. The king is overwhelmed and faints.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Those who hear the holy man run to the king’s chamber, bow in the royal hall,
+    and inform the king that the great saint is waiting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king, accompanied by priest and peer, rises to meet the sage and offers
+    him the prescribed gift for guests.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sage asks about the king’s welfare, including town, field, kin, treasure,
+    neighbours, foes, and debts to gods and men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The king welcomes the sage with images of amrit, rain on thirsty ground, a
+    son to an heirless man, recovered gain, and dawn after night.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king says he grants the sage’s wish before hearing it fully and declares
+    his desire to perform the sage’s will.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The sage says that a holy rite now employs him and that two fiends who can
+    change form impede it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The fiends defeat the work when it is nearly complete by throwing bits of
+    bleeding flesh and pouring gore over the altar.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The sage says he cannot release anger, a curse, or threatening speech during
+    such a rite.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The sage asks the king for Ráma, the king’s eldest son, and says his own power
+    will shield the youth and strengthen his arm.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The sage says only Ráma can slay the two fiends and that Vaśishṭha and other
+    ascetics know Ráma’s qualities.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The sage says his sacrifice will last ten nights and that the two impious
+    fiends must fall before the set time has passed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The sage’s request causes the king intense distress; he falls prostrate and
+    lies fainting.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the king / lord of men
+  description: Royal host who receives the sage, promises to grant his wish, is asked
+    for his eldest son Ráma, and faints from distress.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Visvámitra / son of Kuśik
+  description: Glorious hermit and great saint who comes to the king, describes his
+    obstructed rite, and requests Ráma as defender.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Vaśishṭha
+  description: Sainted hermit addressed with honor; later named among those who know
+    Ráma and whose agreement is sought.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Ráma / Raghu’s son
+  description: The king’s eldest-born son, described as a brave youth and the only
+    one able to slay the two fiends.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: two fiends / demons
+  description: A pair of form-changing beings who interrupt the sage’s rite by defiling
+    the altar with flesh and gore.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: royal host and father
+  assigned_to:
+  - fig:1
+  basis: He formally receives the sage, offers hospitality, promises to grant the
+    request, and is asked to give his eldest son Ráma.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: honored sage-petitioner
+  assigned_to:
+  - fig:2
+  basis: He is received as a great saint and then states the favor he has come to
+    seek from the king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: ritual practitioner seeking protection
+  assigned_to:
+  - fig:2
+  basis: He is engaged in a holy rite that is repeatedly obstructed and asks for Ráma
+    to defend it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: seer or ritual authority whose agreement matters
+  assigned_to:
+  - fig:3
+  basis: He is honored in the assembly, and the sage later says Ráma should go if
+    Vaśishṭha and the holy men agree.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: requested youth champion
+  assigned_to:
+  - fig:4
+  basis: The sage asks for Ráma as the one who can slay the fiends, promising protection
+    and empowering gifts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: shape-changing ritual obstructors
+  assigned_to:
+  - fig:5
+  basis: The pair change forms at will, interrupt the rite, and defile the altar.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: guest gift
+  literal_form: the honored gift for guests offered according to holy texts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: holy rite / sacrifice
+  literal_form: the sage’s holy rite or sacrifice lasting ten nights
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: altar
+  literal_form: the altar over which gore is shed
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bleeding flesh and gore
+  literal_form: bits of bleeding flesh and a stream of gore thrown or shed by the
+    fiends
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ten nights
+  literal_form: the stated ten-night duration of the sacrifice
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: welcome images of blessing
+  literal_form: amrit found by a mortal, rain on thirsty ground, a son to an heirless
+    man, recovered gain, and sudden dawn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Reception of the sage
+  summary: The king is informed of the sage’s arrival, goes to meet him with courtly
+    and priestly figures, offers hospitality, and seats the assembly by rank.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: King’s welcome and promise
+  summary: The king praises the sage’s arrival as a great blessing and promises to
+    fulfill the sage’s wish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Obstructed rite
+  summary: The sage explains that two form-changing fiends repeatedly interrupt his
+    rite by defiling the altar with flesh and gore.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Request for Ráma
+  summary: The sage asks the king to give him Ráma as the champion who can slay the
+    fiends before the ten-night rite is finished.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: King’s collapse
+  summary: The request wounds the king emotionally, and he falls prostrate in a faint.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: obstructed sacrifice requiring protection
+  taxonomy_refs:
+  - sacrifice
+  basis: A holy rite or sacrifice is repeatedly stopped by hostile beings, and a defender
+    is requested so the rite can be completed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes the obstruction and requested defense, but not the
+    completion of the rite.
+- id: motif:2
+  label: shape-changing hostile beings
+  taxonomy_refs:
+  - shapeshifter
+  basis: The antagonists are explicitly described as two fiends who change their forms
+    at will.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states their form-changing ability but does not show a specific
+    transformation.
+- id: motif:3
+  label: sacred guest-request and pledged gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The king receives the sage with guest honors and grants his wish in advance;
+    the sage asks for Ráma and promises protection, power, and fame for him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the act as hospitality, duty, and favor rather than
+    explicitly naming it an exchange.
+- id: motif:4
+  label: young hero summoned from home
+  taxonomy_refs:
+  - departure
+  - initiation
+  basis: The sage requests that Ráma go with him to confront dangerous fiends during
+    a fixed ritual period.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The actual departure and any initiation-like instruction are not shown
+    in this excerpt.
+- id: motif:5
+  label: father’s grief at yielding the hero-child
+  taxonomy_refs: []
+  basis: The request for the king’s eldest son causes the king to collapse in distress.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage shows the immediate emotional reaction but not the later decision
+    or resolution.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3650-3817, opening reception section
+  quote_or_summary: Attendants inform the king of the waiting saint; the king goes
+    with priest and peer to meet him, offers the guest-gift, and the sage asks about
+    the kingdom and Vaśishṭha’s welfare.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3650-3817, king’s welcome speech
+  quote_or_summary: The king compares the sage’s coming to amrit found by a mortal,
+    rain on thirsty ground, a son to an heirless man, recovered gain, and dawn; he
+    says he grants the sage’s wish and will perform his will.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3650-3817, Visvámitra’s account of the rite
+  quote_or_summary: "“Two fiends who change their forms at will / Impede that rite”;
+    they throw bleeding flesh and shed gore over the altar, and the sage says curses
+    or threats must not be uttered in such a rite."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 3650-3817, request for Ráma
+  quote_or_summary: The sage asks the king to give him Ráma, the eldest-born son,
+    saying his own power will shield and empower the youth, that only Ráma can slay
+    the pair, and that Vaśishṭha and other ascetics know Ráma’s worth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 3650-3817, ten-night limit
+  quote_or_summary: "“Ten nights my sacrifice will last,” and before the stated time
+    passes the two impious fiends must fall by Ráma."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 3650-3817, king’s reaction
+  quote_or_summary: The sage’s virtuous request pierces the king’s ear and heart;
+    he falls prostrate and lies fainting.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    use only the available taxonomy where directly supported. No cross-text or historical
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage_text includes headings for Canto XXI and the start of Canto XXII; extraction follows the supplied passage content and does not attempt to reconcile the locator label with those headings.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l3650-l3817
+  passage_sha256=50d21e6e4e1a5f104a2dfb58eef504971fce286908a42b521d7e75e1fd390f88
+

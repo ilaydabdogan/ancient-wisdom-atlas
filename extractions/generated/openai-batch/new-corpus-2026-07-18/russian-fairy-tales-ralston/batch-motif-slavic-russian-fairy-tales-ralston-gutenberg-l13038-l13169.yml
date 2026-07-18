@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l13038-l13169
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'MAGIC AND WITCHCRAFT. / FOOTNOTES: / CHAPTER V. / GHOST STORIES.; lines
+    13038-13169'
+  start: '13038'
+  end: '13169'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage ends one ghostly riding episode, then gives the tale “The Two
+    Friends,” in which a bridegroom keeps a promise to invite his dead friend to his
+    wedding, enters the grave at the dead friend’s invitation, drinks three cups,
+    and returns to find that three hundred years have passed. An editorial note compares
+    the tale with several time-loss and otherworld-visit traditions, and the passage
+    then introduces a contrast between harmless grave-dwellers and more terrifying
+    corporeal revenants in Russian tales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the opening episode, an unnamed person accepts a horse, is carried off
+    rapidly, hears a cock crow, and then finds himself surrounded by graves with a
+    gravestone beneath him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two young men are described as close friends who agreed that whichever married
+    first would invite the other to the wedding, whether the other was alive or dead.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One of the two friends dies; later, the surviving friend prepares to marry
+    and stops near the graveyard to invite the dead friend.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: After the bridegroom calls to his dead friend at the grave, the grave opens
+    and the dead man rises.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dead man thanks the bridegroom for fulfilling the promise and invites
+    him to enter his abode for a drink.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bridegroom enters the grave, drinks three cups offered by the dead man,
+    and the narration marks the passing of one hundred, two hundred, and then three
+    hundred years.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the dead man takes leave, the coffin lid falls and the grave closes;
+    the bridegroom sees waste ground, no road, no kinsmen, no horses, and overgrown
+    vegetation.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The bridegroom returns to a changed village, speaks with a different priest,
+    and the church-books record that a bridegroom disappeared at the graveyard three
+    hundred years earlier; his bride later married another man.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The editorial note compares “The Two Friends” with the Rip van Winkle story,
+    the Seven Sleepers of Ephesus, a monk entranced by a bird’s song, a Russian version
+    in Chudinsky’s collection, and a Norse tale called “Friends in Life and Death.”
+  category: other
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: The prose commentary describes these stories as sketches of life beyond or
+    within the grave where old memories and friendships are preserved, then contrasts
+    them with later Russian tale-dead represented as vitalized corpses rather than
+    incorporeal phantoms.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: unnamed rider in opening episode
+  description: A person who accepts a horse, is carried off, and discovers graves
+    and a gravestone beneath him after a cock crows.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed horse-giver in opening episode
+  description: A speaker who offers the rider a horse to carry him home quickly.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: bridegroom / surviving friend
+  description: One of two close friends; after his comrade dies, he goes to the graveyard
+    on his wedding day, enters the grave, drinks with the dead man, and returns after
+    three hundred years have passed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: dead comrade
+  description: The deceased friend who rises from the grave, thanks the bridegroom,
+    invites him into the grave, gives him drink, and then takes leave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: bride
+  description: The woman the surviving friend was going to marry; the church-books
+    report that after his disappearance she married another man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:6
+  name_or_label: priest
+  description: A later priest who hears the bridegroom’s account and searches the
+    church-books for the earlier disappearance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: promise-keeping bridegroom
+  assigned_to:
+  - fig:3
+  basis: He remembers the agreement, stops at the graveyard on his wedding day, and
+    invites his dead friend.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dead friend as grave-host
+  assigned_to:
+  - fig:4
+  basis: He rises from the grave, thanks his friend, calls the grave his abode, and
+    offers drink.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: intended bride later remarried
+  assigned_to:
+  - fig:5
+  basis: The records state that the disappeared bridegroom’s bride later married another
+    man.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: record-checking priest
+  assigned_to:
+  - fig:6
+  basis: He searches the church-books and finds the old record of the bridegroom’s
+    disappearance.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: rider brought to grave setting
+  assigned_to:
+  - fig:1
+  basis: He rides the offered horse and finds himself among graves with a gravestone
+    beneath him.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: horse-offering speaker
+  assigned_to:
+  - fig:2
+  basis: He proposes that the other person ride his horse home quickly.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: grave and graveyard
+  literal_form: Graves, a graveyard, the dead friend’s grave, and the grave described
+    as an abode that opens and closes.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: horse
+  literal_form: A horse offered for quick travel that carries the rider off rapidly
+    in the opening episode.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cockcrow
+  literal_form: A cock crows immediately before the rider perceives the graveyard
+    and gravestone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: three cups of liquor
+  literal_form: A cup of liquor offered three times by the dead man; the narration
+    links the drinks with the passage of one hundred, two hundred, and three hundred
+    years.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: coffin lid
+  literal_form: The coffin lid falls when the dead man takes leave and the grave closes.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: church-books
+  literal_form: Church records searched by the priest, containing the notice of the
+    bridegroom’s disappearance three hundred years earlier.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: nettles and tall grass
+  literal_form: Vegetation growing where the bridegroom expected the graveyard, road,
+    wedding party, and horses.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Opening supernatural ride to graveyard
+  summary: An unnamed rider accepts a horse, is carried off rapidly, and after a cock
+    crows finds himself among graves with a gravestone beneath him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Friends’ wedding promise and death
+  summary: Two close friends agree that the first to marry will invite the other regardless
+    of life or death; one later dies, and the other prepares to marry.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Invitation at the grave
+  summary: The bridegroom stops at the graveyard, invites his dead comrade, and the
+    grave opens so that the dead man rises and speaks.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Drinking in the grave
+  summary: The dead man invites the bridegroom into his abode and gives him three
+    cups of liquor, with the narrative marking the passing of centuries.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Return after three hundred years
+  summary: The grave closes; the bridegroom finds the landscape and village changed,
+    and a priest verifies from church records that his disappearance occurred three
+    hundred years earlier.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Supernatural ride ending at a grave marker
+  taxonomy_refs: []
+  basis: The opening episode has a horse carry a rider rapidly until a cockcrow reveals
+    graves and a gravestone beneath him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The episode is only the ending of a preceding story, so its full setup
+    is outside the supplied passage.
+- id: motif:2
+  label: Promise to invite the dead to a wedding
+  taxonomy_refs: []
+  basis: The friends explicitly agree that the first to marry will invite the other
+    whether alive or dead, and the surviving friend fulfills the agreement at the
+    grave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No taxonomy reference from the supplied list directly names this promise
+    motif.
+- id: motif:3
+  label: Entry into the grave as an otherworld abode
+  taxonomy_refs:
+  - afterlife_journey_map
+  - hero_descent
+  basis: The dead friend’s grave opens, he calls it his abode, and the bridegroom
+    enters it to drink with him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents a grave-abode rather than a detailed map of the afterlife;
+    the “hero_descent” reference is functional and should be reviewed.
+- id: motif:4
+  label: Otherworld drink causing long time lapse
+  taxonomy_refs:
+  - afterlife_journey_map
+  - return
+  basis: The bridegroom drinks cups offered by the dead man, and the story states
+    that centuries pass before he returns to the outer world.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The narration verifies a total elapsed span of three hundred years, but
+    the wording around each cup should be checked against the edition for exact temporal
+    structure.
+- id: motif:5
+  label: Return to a transformed community after supernatural absence
+  taxonomy_refs:
+  - return
+  basis: When the bridegroom leaves the grave, the road, wedding party, village, people,
+    and priest are changed, and records show he disappeared three hundred years earlier.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is supported by the passage; no causal mechanism beyond the
+    grave-visit and drink is explained.
+- id: motif:6
+  label: Friendly dead preserving former bonds
+  taxonomy_refs: []
+  basis: The dead man thanks his friend for keeping the promise, receives him hospitably,
+    and the commentary describes such sketches as preserving memories of old friendships
+    within the grave.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: The commentary is editorial and generalizes beyond the single tale.
+- id: motif:7
+  label: Corporeal revenant rather than incorporeal phantom
+  taxonomy_refs: []
+  basis: The commentary states that visitors from the other world in the Skazkas are
+    represented not as mere phantoms but as vitalized corpses; in the tale, the dead
+    man rises from the grave and interacts physically with the bridegroom.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: The later commentary introduces a broader category and transitions toward
+    another story; the dead friend in “The Two Friends” is not malign.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note places “The Two Friends” within a time-loss and return
+    pattern associated with Rip van Winkle, the Seven Sleepers of Ephesus, and legends
+    of an entranced monk listening to a bird.
+  claim_level: same_motif
+  target: Rip van Winkle, Seven Sleepers of Ephesus, and entranced-monk legends
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editor’s comparative note rather than evidence from the
+    tale’s own narration, and the passage does not establish historical contact.
+- id: claim:2
+  claim: The editorial note says the Russian “Two Friends” closely resembles the Norse
+    “Friends in Life and Death,” especially in the dead friend’s grave, a living bridegroom’s
+    otherworld experience, bodily overgrowth, and return to a changed world.
+  claim_level: same_motif
+  target: Norse “Friends in Life and Death”
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The Norse tale is only summarized in the note; the supplied passage
+    does not include the full Norse source text or prove transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13038-13048
+  quote_or_summary: 'Opening episode: a horse is offered for quick travel; the rider
+    is carried off rapidly, a cock crows, and he finds graves around him and a gravestone
+    beneath him.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13052-13063
+  quote_or_summary: Two young men are close friends and agree that whichever marries
+    first will invite the other to the wedding whether alive or dead; one later falls
+    ill and dies, and the other prepares to marry.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13064-13077
+  quote_or_summary: The bridegroom stops by the graveyard, calls to his comrade, the
+    grave opens, the dead man arises, thanks him for keeping the promise, and invites
+    him into his abode for a drink.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13078-13090
+  quote_or_summary: The bridegroom enters the grave; the dead man pours liquor and
+    offers three cups, while the narration marks the passing of one hundred, two hundred,
+    and three hundred years.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13091-13098
+  quote_or_summary: The dead man takes leave; the coffin lid falls and the grave closes.
+    The bridegroom sees waste ground, no road, no wedding party, no horses, and overgrown
+    nettles and tall grass.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13099-13108
+  quote_or_summary: The bridegroom finds the village changed, tells a different priest
+    what happened, and church records show that a bridegroom disappeared at the graveyard
+    three hundred years before; his bride later married another man.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13110-13129
+  quote_or_summary: 'Editorial note: the tale is compared with the Rip van Winkle
+    story, folk-tales corresponding to the Seven Sleepers of Ephesus, and the legend
+    of a monk entranced by a bird’s song, including a Russian version in Chudinsky’s
+    collection.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13130-13148
+  quote_or_summary: 'Editorial note: Ralston states that “The Two Friends” very closely
+    resembles the Norse “Friends in Life and Death,” where a bridegroom contacts his
+    dead friend’s grave, sees the world beyond the grave, becomes overgrown, and returns
+    to a changed outer world.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 13150-13169
+  quote_or_summary: 'Commentary: these sketches show life beyond or within the grave,
+    with memories of old days and old friendships preserved by genial and harmless
+    ghosts; the next class of tales represents the dead as vitalized corpses rather
+    than incorporeal phantoms.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative sequence and editorial comparisons are explicit. Motif-family assignments
+    are conservative and should be reviewed, especially the broader afterlife and
+    revenant categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references are limited to the supplied lists; symbols not present in the supplied symbol taxonomy are recorded without taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l13038-l13169
+  passage_sha256=907c13c21ca3c9da123430ea6d5fcadc37428b6054698246fb6b199b69c0947b
+

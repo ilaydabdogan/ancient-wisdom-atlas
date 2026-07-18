@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l6063-l6144
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: SEVENTH ADVENTURE / EIGHTH ADVENTURE / NINTH ADVENTURE / TENTH ADVENTURE;
+    lines 6063-6144
+  start: '6063'
+  end: '6144'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A queen or maiden asks the noble monarch not to kill her and promises no
+    longer to resist him. Siegfried secretly takes a golden ring and a richly wrought
+    girdle from her and later gives them to Kriemhild, while Gunther lies with the
+    maiden and her former strength wanes. Siegfried departs and avoids Kriemhild’s
+    questions. The court festivities continue for two weeks with lavish distribution
+    of garments, horses, silver, and gold before the guests depart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman addresses a noble monarch, asks that her life not be taken, promises
+    repayment for harm done, and says she will no longer withstand his royal embraces.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Siegfried rises from the couch, leaves the maid lying there, and acts as if
+    he were setting aside his clothing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Siegfried secretly removes a golden ring from the woman’s finger without her
+    perceiving it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Siegfried also takes a richly wrought girdle and later gives the ring and
+    girdle to Kriemhild; the narration states that this brought sorrow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Gunther and the fair maiden lie beside one another.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman relinquishes anger and shame under Gunther’s embraces, grows pallid,
+    and her mighty prowess wanes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Afterward she is described as no stronger than another bride.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Siegfried departs and is received by a debonair lady.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Siegfried avoids the lady’s questions and long keeps secret what he had brought
+    for her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The next morning Gunther is in a better mood and joy spreads among the invited
+    knights.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The merry time lasts two weeks with feasting, merriment, and knightly entertainments.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Gunther’s kinsmen distribute gifts of gold, clothing, steeds, and silver to
+    minstrels and other guests.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The garments and saddled steeds brought by Siegfried’s thousand warriors from
+    Netherland are dealt away.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The guests receive unusually good gifts, and the feast ends according to Gunther’s
+    will.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: A named man who rises from the couch, secretly takes the woman’s ring
+    and girdle, gives them to Kriemhild, departs, and avoids later questioning.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Gunther
+  description: A named king or noble monarch who lies beside the maiden, whose embraces
+    are associated with her surrender and loss of strength, and whose court feast
+    and gift-giving conclude the passage.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: the noble queen / fair maiden
+  description: A woman addressed as queen and maiden who pleads for life, promises
+    not to resist the monarch’s embraces, loses her former strength, and lies beside
+    Gunther.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Kriemhild
+  description: A named woman who receives from Siegfried the ring and girdle taken
+    from the queen or maiden; Siegfried later avoids her questioning.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Gunther’s kinsmen
+  description: A collective group who distribute gifts by the monarch’s command.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: invited knights and guests
+  description: Collective court attendees who are entertained and receive gifts before
+    departing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:7
+  name_or_label: Siegfried’s thousand warriors from Netherland
+  description: A collective group whose brought garments and saddled steeds are distributed
+    at the feast.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: secret taker of tokens
+  assigned_to:
+  - fig:1
+  basis: Siegfried removes the ring without the queen perceiving it and also takes
+    the girdle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: giver and recipient of hidden tokens
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The ring and girdle taken by Siegfried are given to Kriemhild and long kept
+    secret.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: bridegroom king or monarch
+  assigned_to:
+  - fig:2
+  basis: The woman addresses a noble monarch, and Gunther lies with the maiden while
+    later presiding over court festivities.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:10
+- id: role:4
+  label: subdued bride or maiden
+  assigned_to:
+  - fig:3
+  basis: The woman promises not to resist, lies with Gunther, and is described as
+    losing her mighty prowess.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:5
+  label: royal distributors of largesse
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Gunther’s kinsmen distribute gifts at his command, and the feast ends according
+    to his will.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:6
+  label: questioner and questioned keeper of a secret
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Siegfried avoids Kriemhild’s questioning and keeps secret what he brought
+    for her.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: feast participants and gift recipients
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Invited knights and guests attend the merriment and receive distributed goods,
+    including stores brought by Siegfried’s warriors.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: golden ring
+  literal_form: a ring of golden sheen removed from the woman’s finger
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: richly wrought girdle
+  literal_form: a richly wrought girdle taken by Siegfried and given to Kriemhild
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: royal crown
+  literal_form: a royal crown worn by Kriemhild in Siegfried’s own country
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: lavish gifts
+  literal_form: gold, raiment, steeds, silver, garments, and saddled horses distributed
+    at the feast
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Plea and promise before the monarch
+  summary: The woman asks the noble monarch not to take her life and promises that
+    she will no longer resist his embraces.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Secret removal of ring and girdle
+  summary: Siegfried rises from the couch and secretly takes the woman’s golden ring
+    and richly wrought girdle; he gives them to Kriemhild, and the narration notes
+    future sorrow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gunther with the maiden and loss of strength
+  summary: Gunther and the maiden lie together; her anger and shame are relinquished,
+    she grows pallid, and her mighty prowess wanes until she is no stronger than another
+    bride.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Siegfried’s departure and concealed tokens
+  summary: Siegfried departs, is received by a lady, avoids her questions, and keeps
+    secret what he brought for her until she later wears a royal crown in his country.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Court merriment and distribution of gifts
+  summary: After Gunther’s improved mood, the feast continues for two weeks. Gold,
+    clothing, silver, horses, garments, and saddled steeds are distributed to guests,
+    who depart in a merry mood when the feast ends.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: secret taking of intimate tokens
+  taxonomy_refs: []
+  basis: Siegfried secretly removes a golden ring and girdle from the woman and later
+    gives them to Kriemhild, while the act is kept secret.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage supplies the objects and secrecy but does not fully explain
+    their later narrative function beyond the note that they bring sorrow.
+- id: motif:2
+  label: subduing of a powerful bride through union
+  taxonomy_refs: []
+  basis: The woman’s resistance ceases and her mighty prowess wanes during her encounter
+    with Gunther; she is afterward no stronger than another bride.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes the loss of strength but does not identify a broader
+    supernatural taxonomy within this excerpt alone.
+- id: motif:3
+  label: concealed gift that brings future sorrow
+  taxonomy_refs: []
+  basis: Siegfried gives Kriemhild the ring and girdle, and the narration states that
+    the same brought sorrow; he avoids questions and long keeps the matter secret.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The future sorrow is mentioned but not narrated within this passage.
+- id: motif:4
+  label: royal wedding feast and largesse
+  taxonomy_refs: []
+  basis: The feast lasts two weeks and includes lavish distribution of gold, garments,
+    horses, silver, and other goods to guests.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No sacred or mythic exchange is explicitly indicated in the passage.
+- id: motif:5
+  label: departure after accomplishing a hidden task
+  taxonomy_refs:
+  - departure
+  basis: After the secret taking of the ring and girdle, Siegfried departs and later
+    avoids questions about what he brought.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is limited to the literal departure; the passage
+    itself does not frame the departure as a full quest stage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6063-6067; stanza 679
+  quote_or_summary: The woman asks the noble monarch not to take her life, promises
+    to repay harm, and says she will not withstand his royal embraces.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6069-6074; stanza 680
+  quote_or_summary: Siegfried rises from the couch, leaves the maid lying there, and
+    secretly draws a golden ring from her finger without the queen perceiving it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6076-6082; stanza 681
+  quote_or_summary: Siegfried takes a richly wrought girdle, gives it to Kriemhild,
+    and the narration says it bore sorrow; Gunther and the fair maiden then lie beside
+    one another.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6084-6096; stanzas 682-683
+  quote_or_summary: Gunther embraces the woman; she relinquishes anger and shame,
+    grows pallid, loses mighty prowess, and is no stronger than another bride.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6097-6101; stanza 684 opening
+  quote_or_summary: Siegfried has meanwhile departed and is received by a debonair
+    lady.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6102-6108; stanza 684
+  quote_or_summary: Siegfried avoids the lady’s questioning and long keeps secret
+    what he had brought for her, until in his own country she wears a royal crown.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6110-6123; stanzas 685-686
+  quote_or_summary: The next morning Gunther is in better mood; joy spreads among
+    invited knights, and merriment continues for two weeks with lavish expenditure
+    by the king.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6125-6131; stanza 687
+  quote_or_summary: 'The monarch’s kinsmen distribute gifts by his command: gold,
+    raiment, steeds, and silver, including gifts to minstrels and others who desire
+    them.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6133-6138; stanza 688
+  quote_or_summary: The store of raiment and saddled steeds brought from Netherland
+    by Siegfried’s thousand warriors is completely dealt away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 6140-6144; stanza 689
+  quote_or_summary: Guests who wish to go home receive unusually good gifts, and the
+    merry feast ends as Gunther wills.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain text supplied in request; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal passage extraction is strong. Motif labels are descriptive rather
+    than comparative; no comparison claims are made because the excerpt itself does
+    not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. No external identifications or taxonomy IDs were added beyond the literal departure reference supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l6063-l6144
+  passage_sha256=c8facbc60708fba65d40d274f06eb662870e48f7563615e62e0f86eead824675
+

@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l10168-l10218
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: EGYPTIAN POETICAL COMPOSITIONS / CHAPTER XV / MISCELLANEOUS LITERATURE /
+    INDEX; lines 10168-10218
+  start: '10168'
+  end: '10218'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Alphabetical index segment listing topics and page references from “Valley
+    of Acacia” through “Zoan,” followed by a printer’s imprint. The entries include
+    places, ritual objects or images, water-related topics, words and writing, wisdom,
+    work, wife-related topics, souls of the West, and tomb worms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an alphabetical index excerpt with topic labels and page references
+    rather than a narrative scene.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:2
+  text: Place or geographical entries include Valley of Acacia, Wadi an-Natrun, Wadi
+    Halfah, Magharah, White Wall, and Zoan.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: obs:3
+  text: Water-related index entries list boiling water, celestial water, holy water,
+    offering water, water supply, and water fowl.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The index names ritual or emblematic objects and images including a vulture
+    amulet, wax figures, and a Winged Disk.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: 'The index includes entries concerning words and writing: weighing of words,
+    ill-natured words, words of power, writing boards, writing exercises, kinds of
+    writing, sacred writing, and writing materials.'
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The index includes didactic or social topics such as wisdom, work, duties
+    to a wife, and ill-natured words.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Death or tomb-related entries include souls of the West and worms in a tomb.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Washerman
+  description: Index entry naming “Washerman” with a page reference.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Wolf-god
+  description: Index entry naming “Wolf-god” with a page reference.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: The strange woman
+  description: Index entry naming “Woman, the strange” with a page reference.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Washerman
+  assigned_to:
+  - fig:1
+  basis: The role label is the index heading “Washerman.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Wolf-god
+  assigned_to:
+  - fig:2
+  basis: The role label is the index heading “Wolf-god.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Strange woman
+  assigned_to:
+  - fig:3
+  basis: The role label is the index heading “Woman, the strange.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Vulture amulet
+  literal_form: amulet named as a vulture amulet
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Water
+  literal_form: water, with indexed forms including boiling, celestial, holy, offering,
+    supply, and fowl
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Wax figures
+  literal_form: wax figures
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: West and souls
+  literal_form: West named in relation to souls
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Winged Disk
+  literal_form: Winged Disk
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Words of power
+  literal_form: words described as words of power
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Wisdom topic
+  taxonomy_refs:
+  - wisdom
+  basis: The index explicitly includes “Wisdom” and nearby didactic topics such as
+    duties to a wife, ill-natured words, and the importance of work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage is only an index; the actual wisdom content is not present
+    in this line range.
+- id: motif:2
+  label: Words of power
+  taxonomy_refs: []
+  basis: The index explicitly lists “Words ... of power” with page references.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The index gives no spell, speaker, action, or narrative context.
+- id: motif:3
+  label: Weighing of words
+  taxonomy_refs: []
+  basis: The index explicitly lists “Weighing of words.”
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not explain who weighs the words, why they are weighed,
+    or whether this is a judgment scene.
+- id: motif:4
+  label: Souls of the West and tomb decay
+  taxonomy_refs: []
+  basis: The index contains the entries “West, souls of” and “Worms in tomb.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The index supplies only headings and page references, not an afterlife
+    journey or narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10168-10173
+  quote_or_summary: |-
+    Valley of Acacia, 200, 201, 203
+    Vegetation, 70
+    Venus, 24
+    Vignettes of Book of the Dead, 39
+    Vital power, 11
+    Vulture amulet, 43
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation supplied from provided passage.
+- id: ev:2
+  type: quote
+  locator: 10175-10185
+  quote_or_summary: |-
+    Wadi an-Natrun, 169
+    Wadi Halfah, 101
+      --Magharah, 208
+    Washerman, 252
+    Water, boiling, 43
+      celestial, 216
+      holy, 60, 66
+      offering, 229
+      supply, 43
+      fowl, 19
+    Wax figures, 68
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation supplied from provided passage.
+- id: ev:3
+  type: quote
+  locator: 10186-10199
+  quote_or_summary: |-
+    Weighing of words, 22
+    West, souls of, 43
+    Westcar Papyrus, 25
+    Wheat, 45
+    Whip, 215
+    Whirlwind, 250
+    White Wall, 121, 151, 153
+    Wife, burning of a, 27
+      duties to, 227
+    Wine, 17
+    Winged Disk, 77
+    Wisdom, 227
+    Wolf-god, 57
+    Woman, the strange, 228
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation supplied from provided passage.
+- id: ev:4
+  type: quote
+  locator: 10200-10210
+  quote_or_summary: |-
+    Wood for writing upon, 4
+    Words, ill-natured, 230
+      of power, 41, 42, 75, 246
+    Work, importance of, 227
+      to avoid, 42
+    Worms in tomb, 43
+    Writing, boards for, 7
+      exercises in, 7
+      three kinds of, 1 ff.
+      sacred, 1
+      materials, 4
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation supplied from provided passage.
+- id: ev:5
+  type: quote
+  locator: 10212-10218
+  quote_or_summary: |-
+    Zoan, 81, 185
+
+                       Printed by BALLANTYNE, HANSON & Co.
+                           at Paul's Work, Edinburgh
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation supplied from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited because the passage is an index excerpt, not
+    a narrative or doctrinal passage. Motif candidates are based on index headings
+    only. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Index-only passage; motifs and symbols should be treated as pointers to possible content elsewhere in the source, not as full attestations within this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l10168-l10218
+  passage_sha256=33d8c00648505c231a2bc10142be796fe36496454d9ecbc8209d27302659f0e4
+

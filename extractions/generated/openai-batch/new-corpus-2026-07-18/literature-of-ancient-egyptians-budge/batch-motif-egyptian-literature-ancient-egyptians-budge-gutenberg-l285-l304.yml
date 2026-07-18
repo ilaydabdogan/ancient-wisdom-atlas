@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l285-l304
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: INDEX                                                          259 / ILLUSTRATIONS
+    / THOTH, THE SCRIBE OF THE GODS                                          3 / THOTH
+    AND AMEN-RA SUCCOURING ISIS                                      5; lines 285-304
+  start: '285'
+  end: '304'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section headed “Illustrations” lists illustration titles and page
+    references, including the Elysian Fields of the Egyptians, Thoth as scribe of
+    the gods, Thoth and Amen-Ra succouring Isis, Egyptian writing palettes, a Book
+    of the Dead vignette, and scenes involving Her-Heru and Queen Netchemet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section headed “Illustrations” that lists illustration
+    titles and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One listed illustration is titled “The Elysian Fields of the Egyptians” and
+    is marked as the frontispiece.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One listed illustration identifies Thoth as “the scribe of the gods.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One listed illustration title names Thoth and Amen-Ra as succouring Isis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One listed illustration is titled “Egyptian Writing Palettes.”
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One listed illustration is a vignette from the Book of the Dead, Chapter XCII.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One listed illustration title depicts Her-Heru and Queen Netchemet reciting
+    a hymn.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: One listed illustration title depicts Her-Heru and Queen Netchemet standing
+    in the Hall of Osiris.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thoth
+  description: Named in illustration titles as the scribe of the gods and as one of
+    those succouring Isis.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Amen-Ra
+  description: Named with Thoth in an illustration title as succouring Isis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Isis
+  description: Named as the figure being succoured by Thoth and Amen-Ra in an illustration
+    title.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Her-Heru
+  description: Named with Queen Netchemet in illustration titles as reciting a hymn
+    and standing in the Hall of Osiris.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Queen Netchemet
+  description: Named as queen in illustration titles; shown with Her-Heru reciting
+    a hymn and standing in the Hall of Osiris.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Osiris
+  description: Named in the place title “Hall of Osiris.”
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Scribe of the gods
+  assigned_to:
+  - fig:1
+  basis: The illustration title calls Thoth “the scribe of the gods.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Succourer of Isis
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The illustration title names Thoth and Amen-Ra as succouring Isis.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Recipient of succour
+  assigned_to:
+  - fig:3
+  basis: The illustration title names Isis as the figure succoured by Thoth and Amen-Ra.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Hymn reciter
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The illustration title describes Her-Heru and Queen Netchemet as reciting
+    a hymn.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: Queen
+  assigned_to:
+  - fig:5
+  basis: The illustration titles name Netchemet with the title “Queen.”
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: Figure standing in the Hall of Osiris
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The illustration title describes Her-Heru and Queen Netchemet standing in
+    the Hall of Osiris.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: Figure associated with named hall
+  assigned_to:
+  - fig:6
+  basis: The place is called the Hall of Osiris.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Elysian Fields of the Egyptians
+  literal_form: Named field or place in an illustration title
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Egyptian writing palettes
+  literal_form: Writing palettes listed as an illustration subject
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Book of the Dead vignette
+  literal_form: Vignette from the Book of the Dead, Chapter XCII
+  associated_figures: []
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Hall of Osiris
+  literal_form: Named hall or place in an illustration title
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Hymn
+  literal_form: A hymn recited by Her-Heru and Queen Netchemet in an illustration
+    title
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Elysian Fields illustration listing
+  summary: The index lists “The Elysian Fields of the Egyptians” as the frontispiece
+    illustration.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Thoth as divine scribe
+  summary: The index lists an illustration identifying Thoth as the scribe of the
+    gods.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Thoth and Amen-Ra succouring Isis
+  summary: The index lists an illustration in which Thoth and Amen-Ra succour Isis.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Egyptian writing palettes
+  summary: The index lists an illustration of Egyptian writing palettes.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Book of the Dead vignette
+  summary: The index lists a vignette from the Book of the Dead, Chapter XCII.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Her-Heru and Queen Netchemet reciting a hymn
+  summary: The index lists an illustration of Her-Heru and Queen Netchemet reciting
+    a hymn.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Her-Heru and Queen Netchemet in the Hall of Osiris
+  summary: The index lists an illustration of Her-Heru and Queen Netchemet standing
+    in the Hall of Osiris.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine scribe and sacred writing
+  taxonomy_refs:
+  - wisdom
+  basis: The passage lists Thoth as “the scribe of the gods” and separately lists
+    Egyptian writing palettes.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is only an illustration index; it does not narrate a wisdom
+    episode or explain the function of the writing palettes.
+- id: motif:2
+  label: Divine succour of Isis
+  taxonomy_refs: []
+  basis: The illustration title directly states that Thoth and Amen-Ra are succouring
+    Isis.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the title is given; the circumstances and narrative context of the
+    succour are not described.
+- id: motif:3
+  label: Afterlife and Book of the Dead imagery
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The illustration list includes the Elysian Fields of the Egyptians, a vignette
+    from the Book of the Dead, and the Hall of Osiris.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The index gives afterlife-associated titles but no explicit journey sequence
+    or map-like structure.
+- id: motif:4
+  label: Ritual hymn recitation
+  taxonomy_refs: []
+  basis: The illustration title depicts Her-Heru and Queen Netchemet reciting a hymn.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The title does not specify the ritual setting, recipient, or purpose of
+    the hymn.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 285-304
+  quote_or_summary: Index section headed “Illustrations” lists illustration titles
+    with page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: line 290
+  quote_or_summary: "“THE ELYSIAN FIELDS OF THE EGYPTIANS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: quote
+  locator: line 292
+  quote_or_summary: "“THOTH, THE SCRIBE OF THE GODS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: quote
+  locator: line 294
+  quote_or_summary: "“THOTH AND AMEN-RA SUCCOURING ISIS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: quote
+  locator: line 296
+  quote_or_summary: "“EGYPTIAN WRITING PALETTES”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:6
+  type: quote
+  locator: line 298
+  quote_or_summary: "“VIGNETTE FROM THE BOOK OF THE DEAD (Chapter XCII)”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:7
+  type: quote
+  locator: line 300
+  quote_or_summary: "“HER-HERU AND QUEEN NETCHEMET RECITING A HYMN”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:8
+  type: quote
+  locator: lines 302-303
+  quote_or_summary: "“HER-HERU AND QUEEN NETCHEMET STANDING IN THE HALL OF OSIRIS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high-confidence because the passage consists of clear
+    illustration titles. Motif candidates are tentative because the passage is an
+    index, not a narrative or explanatory mythic passage. No comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external context was used. Comparison claims are omitted because the passage itself does not support a specific comparative claim beyond taxonomy-style candidate motif tagging.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l285-l304
+  passage_sha256=808c6f56a1159fbf3f1dfe9987d12f43f5b4e5d3bdc4ffc53d3664a2047d27a6
+

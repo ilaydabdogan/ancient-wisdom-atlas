@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l1319-l1499
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 1319-1499
+  start: '1319'
+  end: '1499'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The daughter of the Ether, now a water-mother, laments her suffering in
+    the sea and calls on Ukko for help. A duck searches the empty waters for a nesting
+    place; the water-mother raises her body above the ocean, and the duck nests on
+    her knee, laying six golden eggs and a seventh iron egg. Heat from the hatching
+    eggs causes the water-mother to shake the nest, and the broken eggs transform
+    into earth, heaven, moonbeams, sunshine, starlight, and clouds. The water-mother
+    later shapes islands, reefs, deeps, banks, bays, fields, and forests through movements
+    of her body. Wainamoinen remains unborn in a dark enclosure on the sea and prays
+    to the Moon, Sun, and Bear of heaven to release him so that he may walk on land
+    and see the lights of the sky.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The water-mother says she left her home in ether, came to the sea-foam, suffers
+    in the ocean, and asks Ukko, ruler of the heavens, to deliver her in travail.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A beautiful duck descends toward the water-mother and searches east, west,
+    north, and south for a safe nesting place, but finds no grassy hillock, verdure,
+    or protected spot.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The daughter of the Ether raises her shoulders and knees above the water so
+    that the duck may build a nest safely.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The duck sees the water-mother's shoulders and knees, takes them for grassy
+    hillocks on the ocean, settles on her knee, builds a nest, and prepares to lay
+    eggs.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The duck lays six golden eggs and a seventh egg of iron, then sits on them
+    for three days to hatch them on the water-mother's knee.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The water around the nest grows warm; fire is kindled in the maiden's knee,
+    her shoulders burn, and she shakes the nest so that the eggs fall into the ocean
+    and break on the bottom.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The broken egg fragments do not perish; the lower half becomes the nether
+    vault of Terra, the upper half becomes the upper vault of Heaven, and other egg
+    parts become moonbeams, sunshine, starlight, and clouds.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: 'After years in the sea, the water-mother begins creating on the watery expanse:
+    where she moves her hand, foot, body, head, or back, hillocks, fish-holes, deeps,
+    banks, bays, inlets, rocks, and hidden reefs arise.'
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Islands, rocks, pillars of the sky, fields, forests, and many-colored stones
+    are established, while Wainamoinen remains undelivered and has not yet seen sunlight
+    or moonlight.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Wainamoinen has remained unborn in a dark dungeon for thirty summers and thirty
+    winters on the waters, and he prays to the Moon, Sun, and Bear of heaven to take
+    him from the dark prison so he can walk on islands and see the sky lights.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Daughter of the Ether / water-mother
+  description: A maiden from ether who dwells in the sea, suffers in travail, raises
+    her body as a nesting place, and later creates features of land and sea.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Ukko
+  description: Addressed as God up yonder and ruler of the heavens; invoked by the
+    water-mother for help and deliverance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Beauteous duck
+  description: A duck that descends over the waters, seeks a nesting place, settles
+    on the water-mother's knee, and lays the eggs that later break and transform.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Wainamoinen
+  description: Called a singer, old and trusty; he remains unborn in a dark enclosure
+    on the waters and prays for release.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Moon, Sun, and Bear of heaven
+  description: Celestial addressees named in Wainamoinen's prayer for release from
+    the dark prison.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: water-mother in travail
+  assigned_to:
+  - fig:1
+  basis: She calls herself unhappy, says she became a water-mother in ocean-spaces,
+    and asks to be delivered in travail.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: primordial creator and landform shaper
+  assigned_to:
+  - fig:1
+  basis: The passage says she begins her creations, and landforms and sea features
+    arise where she moves or rests parts of her body.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: heavenly ruler invoked for aid
+  assigned_to:
+  - fig:2
+  basis: Ukko is addressed as God and ruler of the heavens and is asked to come help
+    the helpless maiden.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: nest-seeking egg-layer
+  assigned_to:
+  - fig:3
+  basis: The duck searches for a safe nesting place, settles on the water-mother's
+    knee, and lays six golden eggs plus one iron egg.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: unborn imprisoned singer
+  assigned_to:
+  - fig:4
+  basis: Wainamoinen is named as a singer who remains undelivered, unborn, and confined
+    in darkness on the waste of waters.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: celestial powers invoked for release
+  assigned_to:
+  - fig:5
+  basis: Wainamoinen directly asks the Moon, Sun, and Bear of heaven to take him from
+    his dark prison.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: primordial waters
+  literal_form: sea-foam, rolling billows, salt-seas, floods, ocean-spaces, waste
+    of waters
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:9
+- id: sym:2
+  label: body as nesting hillock
+  literal_form: the water-mother's raised shoulders and knees, mistaken for grassy
+    hillocks on the ocean
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: world-forming eggs
+  literal_form: six golden eggs and a seventh iron egg laid by the duck on the water-mother's
+    knee
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cosmic_egg
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: hatching heat and fire
+  literal_form: warm water, a knee kindled with fire, burning shoulders, fire coursing
+    in every vein
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: egg fragments as cosmos
+  literal_form: upper and lower egg halves and egg parts becoming Terra, Heaven, moonbeams,
+    sunshine, starlight, and cloudage
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cosmic_egg
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: body-made landforms
+  literal_form: hillocks, fish-holes, deeps, banks, bays, inlets, rocks, and hidden
+    reefs created where the water-mother moves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: dark prison of the unborn
+  literal_form: dark and dreary prison, narrow resting place, dark and gloomy dwelling
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: celestial lights and Bear
+  literal_form: Moon, Sun, Bear of heaven, stars, moonlight, and silver sunlight
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+scenes:
+- id: scene:1
+  label: Water-mother laments and invokes Ukko
+  summary: The water-mother mourns her descent from ether into the sea and asks Ukko,
+    the ruler of the heavens, to come quickly and deliver her from trouble and travail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Duck finds a nest on the water-mother
+  summary: A duck searches the waters for a safe nest. The water-mother raises her
+    shoulders and knees; the duck mistakes them for hillocks, settles on her knee,
+    builds a nest, and lays eggs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Broken eggs form world elements
+  summary: Heat from the nesting eggs burns the water-mother, she shakes the nest
+    loose, and the eggs break in the ocean. Their fragments become earth, heaven,
+    moonbeams, sunshine, starlight, and clouds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Water-mother shapes land and sea
+  summary: After years swimming in the sea, the water-mother begins creating landforms
+    and ocean features by turning her hand, foot, side, head, and back in the waters.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Wainamoinen remains unborn and prays for release
+  summary: Though the world features are established, Wainamoinen remains unborn in
+    a dark sea-prison. He calls to the Moon, Sun, and Bear of heaven to release him
+    so that he may walk on land and see the sky.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Cosmos formed from broken bird eggs
+  taxonomy_refs:
+  - cosmic_egg
+  basis: A duck lays six golden eggs and one iron egg; when they break, their halves
+    and parts become Terra, Heaven, moonbeams, sunshine, starlight, and clouds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports a cosmic-egg classification at the motif-family level;
+    it does not itself compare this event to other traditions.
+- id: motif:2
+  label: Primordial water before established land
+  taxonomy_refs:
+  - chaos
+  basis: The setting is an open watery expanse where the duck cannot find land or
+    verdure for nesting, and later landforms are created out of the watery waste.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage presents waters and absence of nesting land, but does not
+    explicitly call the condition chaos.
+- id: motif:3
+  label: Water-mother as primordial creator
+  taxonomy_refs:
+  - mother_goddess
+  basis: The figure is repeatedly called water-mother and is described as commencing
+    creations that form hills, deeps, banks, bays, rocks, reefs, islands, fields,
+    and forests.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The role is grounded in the title water-mother and creative actions; the
+    passage does not explicitly call her a goddess.
+- id: motif:4
+  label: Creation through body movement
+  taxonomy_refs: []
+  basis: Specific land and sea features arise where the water-mother turns her hand,
+    rests her foot, dives, turns on her side, points her head landward, or rests on
+    her back.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this bodily creation pattern.
+- id: motif:5
+  label: Unborn singer seeking release from dark confinement
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: Wainamoinen remains unborn for thirty summers and thirty winters in darkness
+    on the waters and prays to celestial powers to bring him out to the islands and
+    open air.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage depicts prolonged unborn confinement and a request for emergence,
+    but the actual birth or release is not included in this line range.
+comparison_claims:
+- id: claim:1
+  claim: The egg-breaking creation episode can be cautiously aligned with the cosmic_egg
+    motif family because bird-laid eggs break and become major cosmic structures and
+    lights.
+  claim_level: same_motif
+  target: cosmic_egg motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level motif alignment only; it does not assert historical
+    contact, borrowing, or a specific relationship to another text.
+- id: claim:2
+  claim: 'The oceanic setting functions like a primordial-water creation pattern:
+    before stable land is described, the duck cannot find a nesting place, and later
+    land and sea features are formed from the watery expanse.'
+  claim_level: same_function
+  target: primordial waters / chaos pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage emphasizes water and lack of nesting land, but it does
+    not explicitly name chaos or describe a full cosmogonic doctrine beyond this episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1319-1348
+  quote_or_summary: The water-mother laments leaving ether for the sea, describes
+    oceanic suffering, and calls on Ukko, God and ruler of the heavens, to deliver
+    her in travail.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1350-1370
+  quote_or_summary: A duck descends toward the water-mother, flies in all directions
+    seeking a nesting place, and finds no grassy hillock, verdure, or protected spot
+    on the waters.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1372-1388
+  quote_or_summary: The water-mother raises her shoulders and knees above the ocean;
+    the duck sees them as grassy hillocks and settles on the knee as a safe nesting
+    place.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1389-1397
+  quote_or_summary: The duck builds a nest, lays six golden eggs and a seventh iron
+    egg, and sits on them for three days to hatch them on the water-mother's knee.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1398-1408
+  quote_or_summary: The water and nest grow warm; the water-mother's knee and shoulders
+    burn with fire, so she shakes the nest and the eggs fall into the deep ocean and
+    break.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1409-1427
+  quote_or_summary: 'The broken egg fragments transform: lower half into the vault
+    of Terra, upper half into Heaven, and egg parts into moonbeams, sunshine, starlight,
+    and cloudage.'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1429-1456
+  quote_or_summary: 'After years in the sea, the water-mother begins creating: her
+    hand, foot, diving, side, head, and back correspond to hillocks, fish-holes, deeps,
+    banks, bays, inlets, rocks, and reefs.'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1458-1468
+  quote_or_summary: Islands, ocean rocks, sky pillars, fields, forests, and colored
+    stones are created, but the singer Wainamoinen has not yet seen sunlight or moonlight
+    and remains undelivered.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1470-1499
+  quote_or_summary: Wainamoinen, old and trusty, has lingered unborn in a dark dungeon
+    for thirty summers and thirty winters on the waters, and he prays to the Moon,
+    Sun, and Bear of heaven for release into open air and light.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction uses only the supplied passage and metadata. Evidence subranges
+    follow the provided line range and visible stanza divisions. Taxonomy mappings
+    beyond the explicit cosmic-egg episode are cautious and marked with limitations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or borrowing claim is made. Comparisons are limited to motif-family or functional-pattern alignment supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l1319-l1499
+  passage_sha256=7f7e00384d8969a24aa1223506b6520c77c11a999a10bfcf80b060c62f2f28b0
+

@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l25618-l25679
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE REDEMPTION OF THE BODY OF HECTOR. / CONCLUDING NOTE. / A. POPE / END
+    OF THE ILIAD; lines 25618-25679
+  start: '25618'
+  end: '25679'
+  translation: Pope translation, Project Gutenberg text
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage comments on Achilles' treatment of Hector's corpse, explaining
+    it through heroic-age beliefs about vengeance, burial rites, and the soul's fate
+    after death. It also notes Patroclus' ghost, Achilles yielding Hector's body to
+    Priam, Astyanax's death, Helen's lament for Hector, Achilles' closing characterization,
+    and comments on the plain ending of the Iliad.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note describes Achilles' treatment of Hector's corpse as ferocious and
+    says it offends a modern standard of humanity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that, in the heroic age as described, retributive vengeance
+    against both the dead and the living was treated as a religious duty.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note states that the soul's welfare after death depended on the fate of
+    the body from which it had separated.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note states that denial of funeral rites prevented admission to more favored
+    regions of the lower world and punished the soul as a wanderer near the infernal
+    river.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ghost of Patroclus is said to have complained to Achilles about a brief
+    postponement of his own obsequies.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before yielding Hector's body to Priam, Achilles is said to ask pardon of
+    Patroclus for ceding part of Patroclus' rights of retribution.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Astyanax is said to have been thrown from a tower by stern Ulysses when Troy
+    was taken.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Andromache is said to bewail her infant son Astyanax.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Helen is described as lamenting Hector and hinting at her own unprotected
+    situation in Troy.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says Achilles is left at the end in repose and under more amiable
+    affections, though he is soon to be cut off.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage reports that the Iliad contains frequent allusions to the speedy
+    end of its hero and to the vanity of human life.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Cowper describes the conclusion of the poem as plain, and Coleridge is reported
+    to consider the termination of Paradise Lost somewhat similar.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Achilles
+  description: Hero whose treatment of Hector's corpse is discussed; he asks pardon
+    of Patroclus before yielding Hector's body to Priam and is described at the close
+    in repose before his imminent death.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Hector
+  description: Dead figure whose corpse or body is treated by Achilles, denied or
+    restored in relation to funerary rites, and lamented by Helen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Patroclus
+  description: Dead companion whose ghost complained of postponed obsequies and whose
+    rights of retribution are invoked when Achilles yields Hector's body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Priam
+  description: Figure to whom Achilles yields the body of Hector.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Astyanax
+  description: Infant son of Andromache, said to be thrown from a tower when Troy
+    was taken.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ulysses
+  description: Figure described as throwing Astyanax from the tower.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Andromache
+  description: Mother who bewails her infant son Astyanax.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Helen
+  description: Figure described by Coleridge as graceful, remorseful, affectionate,
+    and as lamenting Hector while hinting at her own unprotected situation in Troy.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: avenger over a corpse
+  assigned_to:
+  - fig:1
+  basis: Achilles' treatment of Hector's corpse is explained through retributive vengeance
+    on the dead.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead enemy whose body is withheld and restored
+  assigned_to:
+  - fig:2
+  basis: Hector's corpse is the object of Achilles' treatment and is later yielded
+    to Priam.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: ghost concerned with funeral rites and retribution
+  assigned_to:
+  - fig:3
+  basis: Patroclus' ghost complains of postponed obsequies, and Achilles asks his
+    pardon before yielding Hector's body.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of returned body
+  assigned_to:
+  - fig:4
+  basis: Achilles yields the body of Hector to Priam.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: slain child
+  assigned_to:
+  - fig:5
+  basis: Astyanax is said to be thrown from a tower when Troy was taken.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: thrower from tower
+  assigned_to:
+  - fig:6
+  basis: Ulysses is described as throwing Astyanax from the tower.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: mourner
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Andromache bewails Astyanax, and Helen laments Hector.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: hero nearing death
+  assigned_to:
+  - fig:1
+  basis: The commentary says Achilles will soon be suddenly cut off and notes allusions
+    to the speedy termination of the hero's course.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: unprotected woman in Troy
+  assigned_to:
+  - fig:8
+  basis: The commentary says Helen's speech hints at her own invidious and unprotected
+    situation in Troy.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: corpse or body of Hector
+  literal_form: Hector's corpse, body, or remains
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: funeral rites and obsequies
+  literal_form: rites essential to the soul's admission; obsequies postponed or denied
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: lower world and Hades
+  literal_form: more favoured regions of the lower world; dwellers in Hades
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: infernal river
+  literal_form: dreary shores of the infernal river
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: tower
+  literal_form: tower from which Astyanax is thrown
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: lament
+  literal_form: Andromache bewails Astyanax; Helen laments Hector
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Vengeance on Hector's corpse and denial of rites
+  summary: The commentary explains Achilles' treatment of Hector's corpse through
+    a belief that vengeance could be enacted on the dead and that the body's fate
+    affected the soul after death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Funeral rites as access to the lower world
+  summary: The passage states that denial of proper rites could bar the soul from
+    favored regions of the lower world and leave it wandering near the infernal river.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Patroclus' ghost and the return of Hector's body
+  summary: Patroclus' ghost is cited as complaining of postponed obsequies; Achilles
+    then asks Patroclus' pardon before yielding Hector's body to Priam.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Astyanax thrown from the tower
+  summary: When Troy is taken, Astyanax is said to be thrown from a tower by Ulysses
+    while Andromache bewails her infant son.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Helen's lament for Hector
+  summary: Helen's speech is described as lamenting Hector and hinting at her own
+    vulnerable position in Troy.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Closing view of Achilles and the poem
+  summary: The commentary leaves Achilles in repose after the subsiding of his passions,
+    while noting that he will soon die and that the poem points to the vanity of human
+    life.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: funeral rites as condition for afterlife passage
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage says rites are essential to the soul's admission into favored
+    regions of the lower world and that denial leaves the soul wandering by the infernal
+    river.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is explanatory commentary on Homeric belief, not a fresh narrated
+    action within the epic scene.
+- id: motif:2
+  label: vengeance against the dead through the body
+  taxonomy_refs: []
+  basis: Achilles' treatment of Hector's corpse is explained as retributive vengeance,
+    and refusal of rites to Hector's remains is said to satisfy revenge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names corpse-desecration or postmortem
+    vengeance.
+- id: motif:3
+  label: ghost concerned with delayed obsequies
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The ghost of Patroclus complains to Achilles about postponement of his obsequies,
+    showing the importance of burial rites for the dead.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The note cites this event as interpretive support for the treatment of
+    Hector's remains.
+- id: motif:4
+  label: return of a slain enemy's body to kin
+  taxonomy_refs: []
+  basis: The note says Achilles yields Hector's body to Priam, after asking pardon
+    of Patroclus for a partial cession of retribution.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not describe ransom goods or exchange mechanics, despite
+    the surrounding label 'redemption of the body.'
+- id: motif:5
+  label: lament for the dead
+  taxonomy_refs: []
+  basis: Andromache bewails Astyanax, and Helen laments Hector.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The two laments are referenced briefly in commentary rather than fully
+    narrated here.
+- id: motif:6
+  label: slain child at the fall of a city
+  taxonomy_refs: []
+  basis: Astyanax is said to be thrown from a tower when Troy was taken.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a short note, not as a developed scene.
+- id: motif:7
+  label: hero's imminent death and vanity of human life
+  taxonomy_refs: []
+  basis: The passage notes frequent allusions to Achilles' speedy end and the moral
+    of the vanity of human life.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a literary and ethical pattern identified by the commentator rather
+    than a discrete mythic episode in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that Coleridge considered the termination of Paradise
+    Lost somewhat similar to the termination of the Iliad.
+  claim_level: same_function
+  target: termination of Paradise Lost compared with the plain conclusion of the Iliad
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives only a brief reported comparison of endings and does
+    not specify a shared mythic motif or detailed structural features.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25618-25631
+  quote_or_summary: The note says Achilles' ferocious treatment of Hector's corpse
+    offends modern humanity but should be judged by heroic-age laws; it explains retributive
+    vengeance on dead and living as a duty and says the soul's welfare after death
+    depended on the body's fate.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 25631-25637
+  quote_or_summary: The note says denial of rites essential to the soul's admission
+    into favored regions of the lower world punished the dead as a wanderer on the
+    dreary shores of the infernal river.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 25637-25645
+  quote_or_summary: The ghost of Patroclus complains to Achilles of a postponement
+    of obsequies; refusal of rites to Hector's remains is said to satisfy revenge,
+    and Achilles asks Patroclus' pardon before yielding Hector's body to Priam.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 25647-25652
+  quote_or_summary: A note states that Astyanax was thrown from a tower by stern Ulysses
+    when Troy was taken, and Andromache bewailed her infant son.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 25654-25666
+  quote_or_summary: Coleridge's remarks describe Helen as elegant, tender, remorseful,
+    grateful, and affectionate; her speech laments Hector and hints at her own unprotected
+    situation in Troy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 25668-25675
+  quote_or_summary: The commentary says the reader leaves Achilles in repose after
+    his passions subside, under amiable affections, though he will soon be cut off;
+    it also notes allusions to the speedy termination of the hero's course and the
+    vanity of human life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 25677-25679
+  quote_or_summary: Cowper calls the poem's conclusion plain and compares it to the
+    exit of a great man; the note reports that Coleridge considered the termination
+    of Paradise Lost somewhat similar.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is clear, but much of it is secondary commentary and concluding
+    note material rather than direct epic narration; motif assignments are therefore
+    based on the beliefs and episodes explicitly referenced in the note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs beyond supplied available refs were invented. Empty taxonomy_refs indicate motifs or symbols not covered by the provided taxonomy list.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l25618-l25679
+  passage_sha256=bf01082f117ab9ee72c7516344e36d367d568fc096b71af472125cd248ad9d69
+

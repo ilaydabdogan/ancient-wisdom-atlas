@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l1737-l1874
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: Part III / PREFATORY NOTE / INTRODUCTION. / VIII.; lines 1737-1874
+  start: '1737'
+  end: '1874'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares the close association of Enkidu and Gilgamesh with
+    the widespread Heavenly Twins or twin-companion motif, while emphasizing limits
+    to that comparison. It then discusses literary differences between Old Babylonian
+    and Assyrian versions of the Gilgamesh Epic, including variant names, independent
+    recension, and differences in the presentation of Gilgamesh's dreams that foreshadow
+    Enkidu.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the close association of Enkidu and Gilgamesh recalls
+    the Heavenly Twins motif.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a widespread tendency to associate two divine or semi-divine
+    beings as inseparable companions or twins, and lists examples from multiple traditions.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that, in Indo-Iranian, Greek, and Roman mythology, such
+    twins almost invariably act together and go on expeditions to punish enemies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the parallels are too general to carry much weight and that
+    Gilgamesh is not killed by Enkidu, unlike examples in which one twin is killed
+    by a brother.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The passage says the mortal-and-immortal trait applies only partly: Enkidu
+    is killed by Ishtar, while Gilgamesh, offspring of a divine pair, is only smitten
+    with disease.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that Enkidu and Gilgamesh are portrayed as possessing the
+    same traits and accomplishing feats in common.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage suggests that duplication in some paired-figure cases may be due
+    to transfer of traits from one figure to another who usurped his place.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that Old Babylonian and Assyrian versions use different
+    forms of names for chief figures and different epithets for Erech, and that these
+    variations point to an independent Assyrian recension with elaboration.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that the Assyrian version anticipates Gilgamesh's dreams
+    and their interpretation through recital to Enkidu by his female companion, whereas
+    the Old Babylonian version gives the dreams directly in conversation between Gilgamesh
+    and his mother.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage states that the first Babylonian dream stresses a falling meteor
+    as an omen symbolizing the coming of Enkidu, while the second dream reveals Enkidu
+    as a man of whom Gilgamesh is enamored.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: 'The passage presents variant wording in the dream material: the Old Babylonian
+    version has Gilgamesh bearing and carrying the object to his mother, while the
+    Assyrian version has him throwing it or him at her feet, with an added line about
+    bringing him into contact.'
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Hero closely associated with Enkidu; described as worsted but not killed
+    by Enkidu, as offspring of a divine pair, as smitten with disease, and as the
+    dreamer in the Old Babylonian dream comparison.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Enkidu
+  description: Hero closely associated with Gilgamesh; described as killed by Ishtar,
+    symbolized by the falling meteor in the first dream, and revealed as a man in
+    the second dream.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Ishtar
+  description: Named as the figure by whom Enkidu is killed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Gilgamesh's mother
+  description: In the Old Babylonian version, Gilgamesh's dreams are given directly
+    in conversation between Gilgamesh and his mother; later variant wording anticipates
+    the speech of the mother.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: Enkidu's female companion
+  description: In the Assyrian version, Gilgamesh's dreams and their interpretation
+    are presented through recital to Enkidu by his female companion.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: paired heroic companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage treats Enkidu and Gilgamesh as closely associated figures with
+    shared traits and common feats.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: mortal member in partial paired contrast
+  assigned_to:
+  - fig:2
+  basis: The passage says Enkidu is killed by Ishtar in a comparison with the mortal-and-immortal
+    trait of twin figures.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine-offspring surviving member in partial paired contrast
+  assigned_to:
+  - fig:1
+  basis: The passage says Gilgamesh is the offspring of a divine pair and is only
+    smitten with disease.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: dreamer and enamored observer
+  assigned_to:
+  - fig:1
+  basis: The passage describes Gilgamesh's dreams and says the second dream reveals
+    Enkidu as a man of whom Gilgamesh is instantly enamored.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: dream-omen referent
+  assigned_to:
+  - fig:2
+  basis: The passage states that the falling meteor symbolizes the coming of Enkidu
+    and that the second dream reveals Enkidu as a man.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: killer of Enkidu
+  assigned_to:
+  - fig:3
+  basis: The passage says Enkidu is killed by Ishtar.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: maternal dream interlocutor
+  assigned_to:
+  - fig:4
+  basis: The passage says the Old Babylonian version gives the dreams directly in
+    a conversation between Gilgamesh and his mother.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: Assyrian dream-recital intermediary
+  assigned_to:
+  - fig:5
+  basis: The passage says the Assyrian version presents the dreams and their interpretation
+    through recital to Enkidu by his female companion.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: paired divine or semi-divine companions
+  literal_form: two divine or semi-divine beings as inseparable companions or twins
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacred_twins
+  - duality
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: falling meteor omen
+  literal_form: falling meteor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: carried or thrown dream object/person
+  literal_form: an object or person described as borne and carried to the mother in
+    one version and thrown at her feet in another
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Paired heroes compared with Heavenly Twins
+  summary: The passage frames the close association of Enkidu and Gilgamesh as recalling
+    the Heavenly Twins motif and notes that the two are portrayed with shared traits
+    and common feats.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Limits of the twin comparison
+  summary: The passage limits the comparison by noting that Gilgamesh is not killed
+    by Enkidu, while Enkidu is killed by Ishtar and Gilgamesh is only smitten with
+    disease.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dream variants foreshadowing Enkidu
+  summary: The passage contrasts the Assyrian version, where the dreams are recited
+    to Enkidu by his female companion, with the Old Babylonian version, where Gilgamesh
+    speaks directly with his mother; it identifies the falling meteor as an omen of
+    Enkidu's coming and the second dream as revealing Enkidu as a man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Old Babylonian and Assyrian textual comparison
+  summary: The passage compares name forms, city epithets, parallel passages, and
+    dream wording in the Old Babylonian and Assyrian versions, concluding that the
+    Assyrian version represents an independent and elaborated recension.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: paired heroic companions or twin-like heroes
+  taxonomy_refs:
+  - sacred_twins
+  - duality
+  basis: The passage explicitly says Enkidu and Gilgamesh recall the Heavenly Twins
+    motif and are portrayed as sharing traits and accomplishing feats in common.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage itself stresses that the comparison is only general or partial
+    and that critical features of the Heavenly Twins pattern do not fully apply.
+- id: motif:2
+  label: companion arrival announced by dream omen
+  taxonomy_refs: []
+  basis: The passage says the first dream emphasizes a falling meteor as an omen symbolizing
+    Enkidu's coming, while the second dream reveals Enkidu as a man loved by Gilgamesh.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage is a literary discussion of variant versions rather than a
+    full narrative episode.
+- id: motif:3
+  label: mortal and immortal contrast within a paired set
+  taxonomy_refs:
+  - sacred_twins
+  - duality
+  basis: The passage identifies a frequent twin-motif trait in which one figure is
+    immortal and the other mortal, and says this applies in some measure to Enkidu
+    and Gilgamesh.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The author calls this comparison unsubstantial and warrants no more than
+    a general comparison.
+- id: motif:4
+  label: transfer or duplication of traits between paired heroes
+  taxonomy_refs:
+  - duality
+  basis: The passage suggests that duplication in some paired-figure cases may arise
+    from transfer of traits from one figure to another who usurped his place, as in
+    the case of Enkidu and Gilgamesh.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: 'The phrasing is explicitly speculative: ''it may be''.'
+comparison_claims:
+- id: claim:1
+  claim: The passage supports only a general and partial comparison between the Enkidu-Gilgamesh
+    pair and the Heavenly Twins or twin motif found in many ancient traditions.
+  claim_level: same_motif
+  target: Heavenly Twins / twin motif in ancient mythologies, folklore, and legends
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  counter_evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  limitations: The passage says the parallels are too general, that Gilgamesh is not
+    killed by Enkidu, and that the mortal/immortal contrast is too unsubstantial for
+    more than a general comparison.
+- id: claim:2
+  claim: The passage compares the Old Babylonian and Assyrian Gilgamesh versions as
+    parallel but not verbally identical recensions, with the Assyrian version described
+    as independent and elaborated.
+  claim_level: linguistic_similarity
+  target: Assyrian version of the Gilgamesh Epic
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The claim is based on the selected discussion of the two tablets and
+    cited parallel passages, not a complete comparison of the whole epic.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1737-1754
+  quote_or_summary: The passage says the close association of Enkidu and Gilgamesh
+    recalls the Heavenly Twins motif and describes the tendency to associate two divine
+    or semi-divine beings as inseparable companions or twins.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1760-1764
+  quote_or_summary: '"Enkidu-Gilgamesh may represent a Babylonian counterpart to the
+    ''Heavenly Twins''"; the passage adds that such twins act together and proceed
+    on expeditions to punish enemies.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1766-1774
+  quote_or_summary: The passage says the parallels are too general and stop at a critical
+    point because Gilgamesh is not killed by Enkidu, unlike examples where one twin
+    is killed by the brother.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1775-1781
+  quote_or_summary: 'The passage says the mortal/immortal trait applies only in measure:
+    Enkidu is killed by Ishtar, while Gilgamesh, offspring of a divine pair, is only
+    smitten with disease; this is too unsubstantial for more than general comparison.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1781-1785
+  quote_or_summary: The passage says the two figures possess "the same traits" and
+    accomplish "feats in common," and suggests possible transfer of traits from one
+    figure to another.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotations from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1789-1806
+  quote_or_summary: The passage compares Old Babylonian and Assyrian forms of names
+    and the description of Erech, concluding that variations point to an independent
+    Assyrian recension and that the Assyrian version has been elaborated.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1808-1821
+  quote_or_summary: The passage says the Assyrian version anticipates Gilgamesh's
+    dreams through recital to Enkidu by his female companion, while the Old Babylonian
+    version gives the dreams directly in conversation between Gilgamesh and his mother.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 1821-1826
+  quote_or_summary: The first dream stresses "the omen of the falling meteor" as symbolizing
+    Enkidu's coming; the second dream reveals Enkidu as a man of whom Gilgamesh is
+    instantly enamored.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:9
+  type: quote
+  locator: lines 1830-1840
+  quote_or_summary: 'Old Babylonian: "I bore it and carried it to thee"; Assyrian:
+    "I threw it (or him) at thy feet," with an added line, "Thou didst bring him into
+    contact with me."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotations from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit commentary on motifs and textual comparison. Motif
+    assignment is cautious because the author repeatedly limits the Heavenly Twins
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references are limited to available refs and applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l1737-l1874
+  passage_sha256=cd651cd9e3abd57ccb09590d7e32dbe5c7aec15dd4f2a9df13c3b31b6d9f1b31
+

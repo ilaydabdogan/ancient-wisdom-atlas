@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l190-l248
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: W. R. S. RALSTON, M. A., / ALEXANDER AFANASIEF / TO HIM SO DEEPLY INDEBTED.
+    / PREFACE.; lines 190-248
+  start: '190'
+  end: '248'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The preface explains the translator's literal translation policy, uses
+    a photograph analogy for fidelity to the Russian storyteller, lists principal
+    Russian source books, identifies shorthand references to other European folktale
+    collections, and notes prior publication of some ghost stories and legends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The translator states that fifty-one stories translated at length were rendered
+    as literally as possible, with explanatory insertions bracketed except for routine
+    additions such as speech tags.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translator states that summaries were kept close to the text and that
+    passages marked as quotations were translated literally.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The translator contrasts a polished imitation of art with a faithful transcript
+    from nature and compares the desired result to an untouched photograph of the
+    Russian storyteller rather than an ideal portrait.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists principal Russian books referenced, including works by Afanasief,
+    Khudyakof, Chudinsky, Erlenvein, and Rudchenko.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage explains that references to Grimm, Asbjoernsen and Moe, Dasent,
+    Karajich, Schott, Schleicher, Hahn, Haltrich, and Campbell refer to specified
+    European folktale collections or editions.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that a few ghost stories from the following pages had appeared
+    in the Cornhill Magazine and that an account of some legends had appeared in the
+    Fortnightly Review.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: translator-editorial voice
+  description: The first-person speaker who translated the fifty-one stories, describes
+    translation choices, and states the aim of representing the Russian storyteller
+    faithfully.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Russian story-teller
+  description: The figure whom the translator says he has tried to reproduce as a
+    faithful photograph rather than an ideal portrait.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: named source authors and collectors
+  description: Bibliographic figures named in the passage as sources or reference
+    points, including Afanasief, Khudyakof, Chudinsky, Erlenvein, Rudchenko, Grimm,
+    Asbjoernsen and Moe, Dasent, Karajich, Schott, Schleicher, Hahn, Haltrich, and
+    Campbell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: translator and compiler
+  assigned_to:
+  - fig:1
+  basis: The speaker describes translating stories, inserting bracketed explanations,
+    preparing summaries, and giving references.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: represented oral performer
+  assigned_to:
+  - fig:2
+  basis: The translator says he attempted to produce a photograph of the Russian storyteller,
+    not an ideal portrait.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: referenced source authorities
+  assigned_to:
+  - fig:3
+  basis: The passage lists named authors, collectors, and collections used as Russian
+    sources or comparative references.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: untouched photograph image
+  literal_form: An untouched photograph, used as an image for a faithful representation
+    of the Russian storyteller.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Translation method and fidelity statement
+  summary: The translator describes literal translation practices, bracketed explanations,
+    literal quotation translation, and the aim of fidelity expressed through a photograph
+    analogy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bibliographic reference explanation
+  summary: The preface lists principal Russian books consulted and clarifies shorthand
+    references to other European folktale collections.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Prior publication note
+  summary: The preface notes that some ghost stories and an account of some legends
+    had previously appeared in periodicals.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 190-198
+  quote_or_summary: The translator says the fifty-one stories translated at length
+    were rendered as literally as possible, explanatory insertions were bracketed
+    except routine phrases, and summaries and quoted passages were kept close to the
+    text.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 198-206
+  quote_or_summary: '"An ''untouched'' photograph is in certain cases infinitely preferable";
+    the translator says he tried to produce "a photograph of the Russian story-teller"
+    rather than an ideal portrait.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 210-229
+  quote_or_summary: 'The passage lists principal Russian books referenced: Afanasief''s
+    Russian Popular Tales, Russian Popular Legends, and Poetic Views; Khudyakof''s
+    Great-Russian Tales; Chudinsky''s Russian Popular Tales; Erlenvein''s Popular
+    Tales; and Rudchenko''s South-Russian Popular Tales.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 231-244
+  quote_or_summary: The passage identifies shorthand references to Grimm, Asbjoernsen
+    and Moe, Dasent, Karajich, Schott, Schleicher, Hahn, Haltrich, and Campbell as
+    references to specified folktale collections or editions.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 246-248
+  quote_or_summary: The passage says that a few ghost stories later in the book had
+    appeared in the Cornhill Magazine in August 1872 and that an account of some legends
+    had appeared in the Fortnightly Review on April 1, 1868.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is prefatory and bibliographic rather than a tale narrative.
+    No mythological motif family from the supplied taxonomy is directly supported;
+    comparison claims are omitted because the passage lists reference works without
+    comparing specific motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or motif reference is assigned. The photograph image is recorded only as a literal rhetorical image in the passage, not as a mythic symbol.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l190-l248
+  passage_sha256=ae4a03b75cb2603be2211619f9e9157a0c3651eea844a8818f45bfc03f94be21
+

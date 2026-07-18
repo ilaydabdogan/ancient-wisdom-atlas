@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l2758-l2776
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WORKS ON THE TAIN BO CUALNGE / THE PILLOW-TALK / THIS IS THE ROUTE OF THE
+    TAIN / THE MARCH OF THE HOST; lines 2758-2776
+  start: '2758'
+  end: '2776'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Medb dismisses the importance of a young male figure, describing him as
+    a single body who avoids wounds and capture, too young and beardless to withstand
+    experienced men. Fergus rejects this assessment and says the lad performed manful
+    deeds when he was even younger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Medb says the person under discussion is not of much importance.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Medb says he has only a single body, shuns being wounded, and avoids being
+    taken.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Medb describes him as young, beardless, and an elf-man, with his age compared
+    to that of a girl to be wed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Medb says his deeds of manhood have not yet come and predicts he will not
+    withstand tried men.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Fergus rejects Medb's statement and says the lad had manful deeds when he
+    was younger than he is now.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Medb
+  description: Speaker who dismisses the young male figure's importance and fighting
+    capacity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Fergus
+  description: Speaker who replies to Medb and rejects her assessment of the lad.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed young beardless elf-man / lad
+  description: Male figure under discussion; described by Medb as young, beardless,
+    and evasive, and by Fergus as having already performed manful deeds when younger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: dismissive evaluator
+  assigned_to:
+  - fig:1
+  basis: Medb minimizes the young figure and predicts he will not stand against tried
+    men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: defender of the lad's prowess
+  assigned_to:
+  - fig:2
+  basis: Fergus contradicts Medb and asserts the lad's earlier manful deeds.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: contested youthful warrior
+  assigned_to:
+  - fig:3
+  basis: The young figure's age, manhood, and ability against experienced men are
+    debated.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Dispute over a young fighter's worth
+  summary: Medb dismisses the unnamed young male figure as too young and untested
+    to withstand experienced men, while Fergus counters that he had already performed
+    manful deeds at a younger age.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: contested youthful martial prowess
+  taxonomy_refs:
+  - initiation
+  basis: The passage frames the lad's status through whether his deeds of manhood
+    have occurred; Medb denies this, while Fergus asserts that manful deeds were already
+    done when he was younger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No formal initiation rite is narrated; the motif is inferred from the
+    language of manhood deeds and disputed youthful capacity.
+- id: motif:2
+  label: underestimated single combatant
+  taxonomy_refs: []
+  basis: Medb minimizes the figure as only a single body who avoids wounds and capture
+    and predicts failure against experienced men, while Fergus disputes her view.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage gives only a short dialogue and does not narrate the combat
+    outcome here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2758-2762
+  quote_or_summary: 'Medb says: "It is but a single body he has; he shuns being wounded;
+    he avoids being taken."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 2762-2765
+  quote_or_summary: Medb says the figure's age is like that of a girl to be wed, that
+    his deeds of manhood have not yet come, and that the young beardless elf-man will
+    not hold out against tried men.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 2765-2767
+  quote_or_summary: Fergus replies, "We say not so," and says the lad's deeds were
+    manful when he was younger than he is now.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The dialogue and figures are clear, but motif assignment is limited by the
+    short passage and absence of a narrated rite or combat outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage fragment does not name the young figure; no external identification has been added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l2758-l2776
+  passage_sha256=baaf3d76c509d47c9576a18d040f172a5153d6578dfd02d52525825ec116ea82
+

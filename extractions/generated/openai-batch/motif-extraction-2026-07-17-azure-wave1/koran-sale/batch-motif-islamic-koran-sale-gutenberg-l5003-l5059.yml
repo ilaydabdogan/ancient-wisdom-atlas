@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5003-l5059
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5003-5059
+  start: '5003'
+  end: '5059'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a translator/commentator discussion of afterlife felicity.
+    It compares descriptions of paradise attributed to Mohammed with Persian Magian
+    and Christian afterlife imagery, including the vision of God, paradise as a place
+    of delights, black-eyed nymphs, a celestial city with water and tree of life,
+    table fellowship in a future kingdom, resurrection without marriage, and a footnoted
+    Christian tradition of miraculous vines and wine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the highest degree of felicity belongs to those who
+    perpetually contemplate the face of God.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Persian Magi imagined a future happy estate called Behisht
+    and Mnu, where the righteous enjoy delights and the company of Hurni behisht,
+    whose care is assigned to the angel Zamiyd.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Christian scripture represents celestial enjoyments through
+    corporeal images, including a glorious city with gold, precious stones, twelve
+    gates, a river of water of life, and the tree of life with twelve kinds of fruit
+    and healing leaves.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the Saviour speaks of the blessed future state as a kingdom
+    where the blessed eat and drink at his table.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage contrasts Christian resurrection language about neither marrying
+    nor being given in marriage with the commentator's account that Mohammed bestows
+    wives and other comforts on beatified Moslems.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says a metaphorical interpretation of Mohammed's paradise would
+    mitigate the matter, but the commentator asserts that the tenor of the Koran indicates
+    a literal reading; it also says Magians read Zoroaster's description metaphorically.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A footnote reports a Christian writer's tradition of extraordinary vines with
+    many nested branches, twigs, clusters, grapes, abundant wine, and a bunch that
+    speaks.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: The divine figure whose face is contemplated by those in the highest
+    felicity; also named in the resurrection comparison as the God of the angels in
+    heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: the righteous, good, and blessed
+  description: People described as recipients of future felicity, paradise, celestial
+    blessedness, or resurrection reward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Mohammed
+  description: Described by the commentator as portraying paradise with corporeal
+    comforts and wives, and as possibly drawing on Magian and Christian accounts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Persian Magi / Magians
+  description: Tradition-bearers said to describe a future happy estate called Behisht
+    and Mnu, and to read Zoroaster's description metaphorically.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Hurni behisht
+  description: Black-eyed nymphs of paradise in the Magian account, presented as companions
+    of the righteous.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: angel Zamiyd
+  description: Angel said to have care of the Hurni behisht.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Our Saviour
+  description: Speaker who describes the future state of the blessed as a kingdom
+    where they eat and drink at his table.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine object of contemplation
+  assigned_to:
+  - fig:1
+  basis: The passage says the highest blessedness is perpetual contemplation of the
+    face of God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: afterlife beneficiaries
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly describes righteous, good, or blessed people receiving
+    felicity, paradise, or kingdom-table fellowship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: paradise describer as characterized by the commentator
+  assigned_to:
+  - fig:3
+  basis: The commentator attributes to Mohammed a paradise with wives and comforts,
+    and discusses possible sources for this description.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: comparative afterlife tradition-bearers
+  assigned_to:
+  - fig:4
+  basis: The Persian Magi/Magians are cited as having a comparable paradise and a
+    metaphorical interpretation of Zoroaster's description.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: paradisiacal companions
+  assigned_to:
+  - fig:5
+  basis: The Hurni behisht are described as black-eyed nymphs of paradise whose company
+    the righteous enjoy.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: caretaker of paradisiacal companions
+  assigned_to:
+  - fig:6
+  basis: The care of the Hurni behisht is said to be committed to the angel Zamiyd.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: speaker of future kingdom imagery
+  assigned_to:
+  - fig:7
+  basis: The Saviour is said to speak of the future blessed state as table fellowship
+    in a kingdom.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Paradise / Behisht / Mnu
+  literal_form: A future happy estate, also glossed as crystal, where the righteous
+    enjoy delights.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: Face of God
+  literal_form: The face of GOD contemplated perpetually by those in the highest felicity.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Celestial city with twelve gates
+  literal_form: A glorious and magnificent city built of gold and precious stones,
+    with twelve gates.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: River of water of life
+  literal_form: A river of water of life running through the streets of the blessed
+    city.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Tree of life
+  literal_form: The tree of life on either side of the river, bearing twelve kinds
+    of fruit and healing leaves.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Table of the future kingdom
+  literal_form: A kingdom in which the blessed eat and drink at the Saviour's table.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Paradisiacal ladies and wives
+  literal_form: Hurni behisht or black-eyed nymphs of paradise, and wives bestowed
+    on beatified Moslems.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:8
+  label: Miraculous vines, grapes, and wine
+  literal_form: Vines with vast nested branches, twigs, clusters, grapes yielding
+    abundant wine, and a speaking bunch.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Contemplation as highest felicity
+  summary: The passage describes the highest blessedness as perpetual contemplation
+    of God's face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Magian paradise parallel
+  summary: The Persian Magi are said to describe Behisht or Mnu as a paradise of delights
+    for the righteous, with Hurni behisht under the care of angel Zamiyd; the commentator
+    connects this to Mohammed's paradisiacal ladies.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Christian celestial city and resurrection contrast
+  summary: 'Christian accounts are described as using corporeal images for blessedness:
+    a jeweled city, water and tree of life, and table fellowship; the passage contrasts
+    this with resurrection language denying marriage and with Mohammed''s provision
+    of wives.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Literal and metaphorical paradise interpretations
+  summary: The passage considers whether Mohammed's paradise could be read metaphorically,
+    says Magians read Zoroaster's description that way, and states that the Koran's
+    tenor indicates otherwise.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Irenaeus vine abundance example
+  summary: A footnote gives an example of a Christian writer's abundant eschatological
+    vine tradition, including immense multiplication of branches, grapes, wine, and
+    a speaking bunch.
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Blissful afterlife paradise for the righteous
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage repeatedly describes future felicity or paradise for the righteous,
+    good, or blessed through images of contemplation, paradise, city, and kingdom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes afterlife places and states rather than an actual
+    journey; taxonomy assignment is approximate.
+- id: motif:2
+  label: Resurrection with transformed social state
+  taxonomy_refs:
+  - resurrection
+  basis: The passage quotes resurrection language in which people neither marry nor
+    are given in marriage, but are as angels of God in heaven.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is cited as Christian contrast within the commentator's discussion.
+- id: motif:3
+  label: Life-giving river and tree in heavenly city
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The Christian celestial city is described with a river of water of life and
+    the tree of life bearing fruit and healing leaves.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The tree is explicitly a tree of life, but the passage does not explicitly
+    present it as a cosmic axis.
+- id: motif:4
+  label: Companion-rich or sensual paradise
+  taxonomy_refs: []
+  basis: The passage links Magian black-eyed nymphs and Mohammed's paradisiacal ladies
+    or wives as rewards in paradise.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The wording belongs to a polemical commentator; extraction records only
+    the passage's stated comparison.
+- id: motif:5
+  label: Corporeal imagery for spiritual pleasures
+  taxonomy_refs: []
+  basis: The passage says spiritual pleasures are conveyed to common apprehension
+    through sensible objects such as city, river, tree, and table fellowship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an interpretive statement made by the commentator within the passage.
+- id: motif:6
+  label: Miraculous eschatological abundance
+  taxonomy_refs: []
+  basis: The footnote's Irenaeus tradition describes superabundant vines, grapes,
+    and wine, including a speaking sacred bunch.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a footnoted illustrative example, not the main line of the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Persian Magian Behisht/Mnu and Mohammed's paradise as
+    comparable happy afterlife estates for the righteous.
+  claim_level: same_function
+  target: Persian Magian/Zoroastrian paradise and Mohammedan paradise
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the commentator's comparison and is not independently substantiated
+    within the passage.
+- id: claim:2
+  claim: The passage suggests that Mohammed may have taken the idea of paradisiacal
+    ladies from the Magian Hurni behisht.
+  claim_level: historical_contact
+  target: Hurni behisht and Mohammed's paradisiacal ladies
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage uses tentative language and supplies no direct historical
+    evidence beyond the commentator's assertion.
+- id: claim:3
+  claim: The passage compares Christian celestial-city and kingdom imagery with Mohammedan
+    paradise as ways of representing blessed afterlife felicity through corporeal
+    images, while also emphasizing differences over sensual and marital elements.
+  claim_level: same_function
+  target: Christian afterlife imagery and Mohammedan paradise imagery
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The comparison is framed by the commentator and includes explicit contrast
+    rather than simple equivalence.
+- id: claim:4
+  claim: The passage cautiously suggests possible dependence of Mohammed's paradise
+    descriptions on Christian accounts of future felicity.
+  claim_level: historical_contact
+  target: Christian accounts of blessed future life and Mohammed's paradise description
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  limitations: The phrase in the passage is tentative, and the same passage stresses
+    major differences and a literal/metaphorical contrast.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5003-5005
+  quote_or_summary: '"the highest will be of those who perpetually contemplate the
+    face of GOD."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 5005-5011
+  quote_or_summary: The Persian Magi are said to call paradise Behisht and Mnu, where
+    the righteous enjoy delights and the company of Hurni behisht; the care of these
+    nymphs is assigned to angel Zamiyd, and the commentator says Mohammed seems to
+    have taken a hint from them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5011-5020
+  quote_or_summary: 'The commentator says Mohammed may have owed something to Christian
+    accounts; scripture is described as representing celestial enjoyment with bodily
+    images: a golden and jeweled city with twelve gates, a river of water of life,
+    and the tree of life with twelve fruits and healing leaves.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 5020-5022
+  quote_or_summary: '"the future state of the blessed as of a kingdom where they shall
+    eat and drink at his table."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 5022-5033
+  quote_or_summary: The passage says Christian descriptions lack sensual delights
+    and quotes resurrection language that people neither marry nor are given in marriage;
+    it then says Mohammed bestowed wives and other comforts on beatified Moslems.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5034-5039
+  quote_or_summary: The passage says that if Mohammed had taught paradise metaphorically,
+    as Magians are said to do with Zoroaster's description, this might mitigate the
+    matter; the commentator says the Koran's tenor indicates the contrary.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5042-5054
+  quote_or_summary: A footnote cites Irenaeus for a tradition of vines with enormous
+    numbers of branches, twigs, clusters, and grapes, each grape yielding abundant
+    wine, and a sacred bunch that speaks and asks to be chosen.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Most literal features are explicit. Motif taxonomy is partly approximate
+    because the passage discusses afterlife states and imagery rather than narrative
+    episodes. Historical-contact claims are recorded only as claims made by the passage
+    and should be reviewed critically.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This passage is Sale's translator/commentator discussion rather than a direct Qur'anic passage. Polemical wording has been neutralized where possible; comparisons reflect only assertions present in the supplied text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5003-l5059
+  passage_sha256=4b640dc7b0cf6a206ba44893d744b3c8d209899621f15cafe231789272d50fa2
+

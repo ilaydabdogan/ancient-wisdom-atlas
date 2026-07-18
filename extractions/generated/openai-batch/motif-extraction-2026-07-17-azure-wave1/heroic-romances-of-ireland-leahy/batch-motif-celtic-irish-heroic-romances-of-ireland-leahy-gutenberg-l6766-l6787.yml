@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6766-l6787
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 17 / PAGE 18 / PAGE 19 / PAGE 20; lines 6766-6787
+  start: '6766'
+  end: '6787'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator's notes explain several lexical and translation uncertainties
+    and compare an incident with the Bodleian Dinnshenchas, mentioning Crochen, Sinech,
+    Mider, Mag Cruachan, and the Fairy Mound or sid of Mag Cruachan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Baegal, translated as “danger,” can sometimes mean “chance”
+    or “risk.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note marks the translation of Irish “cid rotiarfaiged” as not quite certain.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note gives a literal rendering for a line as “it is so indeed well to
+    us both.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note directs comparison of an incident with the Bodleian Dinnshenchas
+    and says the introduction of Crochen is a human touch characteristic of this version's
+    author.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note says the Dinnshenchas account seems to be taken from the romance
+    but names Sinech as Mider's entertainer at Mag Cruachan.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note glosses “The Fairy Mound of Croghan” with Irish wording and proposes
+    reading “Maighe” for “snighe,” yielding “to the sid of Mag C.”
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Crochen
+  description: A figure whose introduction in the incident is noted as a human touch
+    characteristic of this version.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Sinech
+  description: Named in the Dinnshenchas account as Mider's entertainer at Mag Cruachan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Mider
+  description: A figure associated with Sinech, who is described as Mider's entertainer
+    at Mag Cruachan.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: introduced figure in this version's incident
+  assigned_to:
+  - fig:1
+  basis: The note states that the introduction of Crochen is characteristic of this
+    version's author.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: entertainer at Mag Cruachan
+  assigned_to:
+  - fig:2
+  basis: The note says the Dinnshenchas account gives Sinech as Mider's entertainer
+    at Mag Cruachan.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fairy Mound of Croghan
+  literal_form: The Fairy Mound of Croghan / sid of Mag Cruachan
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Mag Cruachan
+  literal_form: Mag Cruachan
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares an incident in this romance with the Bodleian
+    Dinnshenchas and suggests the Dinnshenchas account may be derived from the romance,
+    while recording a variant detail involving Sinech rather than the introduced Crochen.
+  claim_level: historical_contact
+  target: Bodleian Dinnshenchas, Nutt p. 27
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a translator's note and does not quote or summarize
+    the incident itself; the dependence claim is qualified with “seems.”
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 17
+  quote_or_summary: "“Baegal, ‘danger,’ has sometimes the sense of ‘chance,’ ‘risk.’”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: line 23
+  quote_or_summary: "“Translation not quite certain Irish, cid rotiarfaiged.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: page 20 line 2
+  quote_or_summary: "“lit. ‘it is so indeed well to us both.’”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: page 20 line 22
+  quote_or_summary: The note compares the incident with Bodleian Dinnshenchas, says
+    Crochen's introduction is characteristic of this version, and says the Dinnshenchas
+    account seems taken from the romance but names Sinech as Mider's entertainer at
+    Mag Cruachan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: page 20 line 25
+  quote_or_summary: "“The Fairy Mound of Croghan”; the note reads it as “to the sid
+    of Mag C.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is mostly philological and comparative commentary rather than
+    narrative; figures and places are extracted only where explicitly named.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative motif family was assigned because the supplied passage does not describe the incident itself.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6766-l6787
+  passage_sha256=2a98527c134ae1fcd8a811397088e7d66a252ea3b09d2b3b7cf87546a1d87c5d
+

@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l594-l657
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE DIVAN / THE SHH NMEH / FIRDUSI / INTRODUCTION; lines 594-657
+  start: '594'
+  end: '657'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A critical introductory passage evaluates James Atkinson’s English rendering
+    and abridgment of Firdusi’s Shah Nameh, especially the Story of Sohrab. It compares
+    Atkinson’s relation to Firdusi with other literary translator-source pairings,
+    emphasizes epic poetry’s appeal to shared human passions, praises Atkinson’s mixture
+    of prose and verse, and uses several metaphors for translation and poetic elevation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A physician employed by the East India Company, identified in the passage
+    as James Atkinson, published the Story of Sohrab in English heroic couplets as
+    a translation of an episode from the Shah Nameh.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares Atkinson’s relation to Firdusi with Pope’s relation to
+    Homer and says that a poet’s manner cannot be faithfully reproduced in translation,
+    though affecting epic material can survive in another language.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes epic action as depending on fundamental human passions
+    shared across places.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The publication of Sohrab is described as revealing a new world to London
+    literary circles and as influencing later English oriental or Persian-themed poetry.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the Persian original is about one hundred and twenty
+    thousand lines, making a full literal rendering impractically large for general
+    readers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Atkinson is said to provide prose summaries of chief episodes, with occasional
+    passages of verse interwoven into the narrative.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage compares Atkinson’s description of Manjeh’s tent with Homer’s
+    depiction of Alcinous’s palace, and compares the language of Sohrab with the pathos
+    of Vergil’s Nisus and Euryalus and Dante’s Ugolino.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rustem is described as showing tears of anguish and sorrow that vanish in
+    the excitement of renewed adventure.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage likens Atkinson’s treatment of the Persian source to Tennyson’s
+    treatment of Malory and praises the translation for bringing an extinct society
+    within modern vision and sympathy.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The closing assessment says Atkinson’s work preserves the spirit of an Oriental
+    poem in English narrative and alternates between pedestrian prose movement and
+    elevated verse flight.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: James Atkinson
+  description: A physician employed by the East India Company and the English translator-adapter
+    of the Story of Sohrab and other Shah Nameh material discussed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Firdusi
+  description: The Persian epic poet whose Shah Nameh is the source for Atkinson’s
+    translated and abridged material.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Sohrab
+  description: Named in the Story of Sohrab, described as the most pathetic episode
+    in the Shah Nameh and as a source of pathos in Atkinson’s language.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Rustem
+  description: A figure in Firdusi whose tears of anguish and sorrow are said to disappear
+    amid the excitement of fresh adventure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Manjeh
+  description: A named figure associated with a tent described by Atkinson; the description
+    is compared with Homer’s depiction of Alcinous’s palace.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: translator-adapter and abridger
+  assigned_to:
+  - fig:1
+  basis: Atkinson published the English Story of Sohrab and furnished prose outlines
+    with verse passages for Shah Nameh episodes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: source epic poet
+  assigned_to:
+  - fig:2
+  basis: The passage places Atkinson in relation to Firdusi and identifies the Persian
+    epic as the source being translated or abridged.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:3
+  label: pathetic episode or subject of translation
+  assigned_to:
+  - fig:3
+  basis: Sohrab is presented through the title Story of Sohrab and described as the
+    most pathetic episode in the Shah Nameh.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: grieving heroic figure returning to adventure
+  assigned_to:
+  - fig:4
+  basis: Rustem’s tears of anguish and sorrow are said to vanish in the excitement
+    of fresh adventure.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: figure associated with a described tent
+  assigned_to:
+  - fig:5
+  basis: The passage refers to Atkinson describing the tent of Manjeh.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden threads in storied tapestry
+  literal_form: Passages of verse are compared to golden threads woven into a storied
+    tapestry.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: morning dew
+  literal_form: Rustem’s tears of anguish and sorrow are compared to morning dew that
+    vanishes.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: wings of verse and upper air
+  literal_form: Atkinson is metaphorically said to rise on the wings of verse into
+    the upper air.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: march and flight
+  literal_form: The reader is said to follow Atkinson’s march and flight through alternating
+    prose and verse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Framing of Atkinson’s Sohrab translation
+  summary: The passage introduces Atkinson’s English heroic-couplet Story of Sohrab
+    as a translated episode from Firdusi’s Shah Nameh and frames the translation through
+    comparison with other literary translation relationships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Abridged presentation of the Persian epic
+  summary: The passage explains that the full Persian original is too long for general
+    readers and praises Atkinson’s prose summaries interspersed with verse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Comparative examples of style and pathos
+  summary: The passage invokes Manjeh’s tent, Sohrab’s pathos, and Rustem’s grief
+    as examples in a broader comparison with Homer, Vergil, and Dante.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Closing metaphor of prose movement and verse elevation
+  summary: The passage closes by describing Atkinson’s mixed prose and verse as alternating
+    between walking on foot and rising into poetic flight, leaving the reader with
+    the impression of having read a Persian poem in English.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ascent or flight through verse
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly says Atkinson rises on the wings of verse into the
+    upper air, and pairs this image with the reader following his flight.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is a rhetorical metaphor about literary style, not a narrative mythic
+    ascent.
+- id: motif:2
+  label: epic pathos of shared human passion
+  taxonomy_refs: []
+  basis: The passage states that epic action hinges on fundamental human passions
+    and links Sohrab, Rustem, Nisus and Euryalus, and Ugolino through pathos, anguish,
+    sorrow, and paternal despair.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is a critical introduction and does not narrate the underlying
+    Sohrab episode in detail.
+- id: motif:3
+  label: preservation of ancient poetic life through translation
+  taxonomy_refs: []
+  basis: The passage says valuable epic feeling survives transfusion into another
+    language and that Atkinson’s English narrative embalms the genuine spirit and
+    life of an Oriental poem.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: This is a literary transmission pattern rather than a mythic plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Atkinson’s relation to Firdusi as analogous to Pope’s
+    relation to Homer.
+  claim_level: same_function
+  target: Pope’s relation to Homer
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is about translation/adaptation function, not shared mythic
+    content.
+- id: claim:2
+  claim: The passage compares Atkinson’s description of Manjeh’s tent with Homer’s
+    depiction of Alcinous’s palace in simplicity and directness.
+  claim_level: visual_similarity
+  target: Homer’s depiction of the palace of Alcinous
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is stylistic and descriptive; it does not establish
+    a shared motif or historical relationship.
+- id: claim:3
+  claim: The passage says the language of Atkinson’s Sohrab recalls the pathos of
+    Vergil’s Nisus and Euryalus and Dante’s Ugolino.
+  claim_level: same_function
+  target: Vergil’s Nisus and Euryalus; Dante’s Ugolino
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage identifies an emotional-literary function, not a direct
+    narrative equivalence.
+- id: claim:4
+  claim: The passage likens Tennyson’s treatment of Malory to Atkinson’s treatment
+    of Abul Kasim Mansur, as both bring features of an extinct society into modern
+    vision and sympathy.
+  claim_level: same_function
+  target: Tennyson’s treatment of Sir Thomas Malory
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns adaptive literary mediation and uses only the analogy
+    stated in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 594-600
+  quote_or_summary: A physician employed by the East India Company published the Story
+    of Sohrab in heroic couplets as a translation of a pathetic episode from the Shah
+    Nameh.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 601-611
+  quote_or_summary: The passage compares Atkinson’s relation to Firdusi with Pope’s
+    relation to Homer and reflects on the limits and possibilities of translating
+    poetic manner and epic feeling.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 612-622
+  quote_or_summary: Epic poetry is said to depend on universal human passions; the
+    publication of Sohrab is described as revealing a new world to London coteries
+    and influencing English oriental poetry.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 623-632
+  quote_or_summary: The Persian original is described as about one hundred and twenty
+    thousand lines; Atkinson provides prose outlines of chief episodes, with verse
+    passages likened to golden threads in a storied tapestry.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 633-642
+  quote_or_summary: The passage compares Manjeh’s tent to Homeric palace description,
+    Sohrab’s language to Vergilian and Dantean pathos, and Rustem’s tears to morning
+    dew that vanishes before fresh adventure.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 643-650
+  quote_or_summary: Atkinson’s treatment of the Persian source is compared with Tennyson’s
+    treatment of Malory, bringing an extinct society into modern vision and sympathy.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 651-657
+  quote_or_summary: The passage praises Atkinson’s work as preserving the spirit of
+    an Oriental poem in English narrative and describes him as alternating between
+    walking on foot and rising on wings of verse into the upper air.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory literary-critical discussion rather than a
+    myth narrative. Figures, roles, symbols, and comparisons are therefore mostly
+    literary and rhetorical. Motif candidates are cautious and require human review
+    for atlas inclusion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external information was used. Taxonomy reference is limited to the available motif family 'ascent' for an explicit but rhetorical flight/ascent image.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l594-l657
+  passage_sha256=adc58f64f352572050410e4ccc63ff87ebc153dcdc0041ceb14098694ad95037
+

@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l168-l192
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: The Central Eskimo / THE CENTRAL ESKIMO. / DR. FRANZ BOAS / CONTENTS.; lines
+    168-192
+  start: '168'
+  end: '192'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists a section on poetry and music, including
+    merrymaking among the Tornit, several named songs, playing-at-ball items, extracts,
+    a glossary, and an appendix.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents listing with page references for a section titled
+    “Poetry and music” and related subsections.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list includes “Merrymaking among the Tornit” and two entries
+    titled “Song of the Tornit.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list includes song titles referring to a lemming, a killer, a
+    returning hunter, Inuit traveling to Nettilling, Oχaitoq, Utitiaq, a fox and a
+    woman, a raven, a Padlimio, and Ititaujang.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list includes two entries titled “Playing at ball,” followed
+    by extracts, a glossary, and an appendix.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tornit
+  description: A named group appearing in contents entries for merrymaking and songs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: lemming
+  description: An animal named in the contents entry “The lemming’s song.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: killer
+  description: A person or role named in the contents entry “Arlum pissinga (the killer’s
+    song).”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: returning hunter
+  description: A hunter named in the contents entry “The returning hunter.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Inuit traveling to Nettilling
+  description: A group named in the contents entry “Song of the Inuit traveling to
+    Nettilling.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Oχaitoq
+  description: A named individual in the contents entry “Oχaitoq’s song.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Utitiaq
+  description: A named individual in the contents entry “Utitiaq’s song.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: fox
+  description: An animal named in the contents entry “The fox and the woman.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: woman
+  description: A woman named in the contents entry “The fox and the woman.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: raven
+  description: A bird named in the contents entry “The raven’s song.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:11
+  name_or_label: Padlimio
+  description: A named person or affiliation in the contents entry “Song of a Padlimio.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:12
+  name_or_label: Ititaujang
+  description: A named individual in the contents entry “Ititaujang’s song.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: group named in contents entry
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage lists the Tornit and Inuit traveling to Nettilling in section
+    or song titles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: animal named in song title
+  assigned_to:
+  - fig:2
+  - fig:8
+  - fig:10
+  basis: The lemming, fox, and raven are named in song titles or song-related entries.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: person or personal label named in song title
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:11
+  - fig:12
+  basis: These names or personal labels appear in contents entries for songs or titled
+    items.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 168-192
+  quote_or_summary: The passage lists “Poetry and music” with page references for
+    subsections and song entries.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 169, 175, 181
+  quote_or_summary: "“Merrymaking among the Tornit”; “Song of the Tornit.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 170-184
+  quote_or_summary: The contents list song titles involving the lemming, killer, returning
+    hunter, Inuit traveling to Nettilling, Oχaitoq, Utitiaq, fox and woman, raven,
+    Padlimio, and Ititaujang.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 185-192
+  quote_or_summary: The contents list two “Playing at ball” entries, extracts, glossary
+    entries, and an appendix.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative passage. Named
+    entities and titles can be extracted literally, but motif identification is not
+    supported from this excerpt alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were added because the excerpt supplies only contents headings and page references, not narrative details.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l168-l192
+  passage_sha256=241d304951d657d92fb5194b7f26303524009b884e4abdb8f8bd3a5194262086
+

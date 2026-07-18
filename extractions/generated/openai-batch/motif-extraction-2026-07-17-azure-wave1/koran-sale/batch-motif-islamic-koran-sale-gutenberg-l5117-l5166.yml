@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5117-l5166
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5117-5166
+  start: '5117'
+  end: '5166'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains a doctrine of unavoidable predestination, describes
+    how Mohammed is said to use it to encourage followers and warn disobedient persons
+    of divine judgment, notes theological disputes over election and free will, and
+    then describes prayer-related purifications by immersion or washing. It also compares
+    these purifications with Jewish rites and pre-Islamic Arab or eastern lustrations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that fate or predestination, including everlasting happiness
+    or misery after death, cannot be avoided by foresight or wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mohammed is said to use the doctrine to encourage followers to fight without
+    fear for propagation of their faith, because caution cannot avert destiny or prolong
+    life.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mohammed is also said to deter disobedience or rejection by warning of the
+    danger of God's just judgment, including abandonment to seduction, hardness of
+    heart, and a reprobate mind.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports disputes among Mohammedan divines over absolute election
+    and reprobation, including concerns about God's goodness and justice and the contrary
+    position of absolute free will in humans.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Prayer is described as the first of four fundamental points of religious practice,
+    with legal washings or purifications as necessary preparations for it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'Two degrees of purification are named: Ghosl, a total immersion or bathing
+    of the body in water, and Wod or Abdest, washing the face, hands, and feet in
+    a certain manner.'
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ghosl is required in extraordinary cases such as sexual intercourse, emission
+    of seed, approaching a dead body, menstruation, or childbirth; Wod is the ordinary
+    ablution before prayer.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says these purifications were perhaps borrowed from the Jews,
+    agrees they resemble Jewish rites in great measure, and also states that pagan
+    Arabs used similar lustrations before Mohammed.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Said to make use of the predestination doctrine in the Koran and possibly
+    to have borrowed or recalled purifying rites.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Followers of Mohammed
+  description: Those encouraged to fight without fear and warned against disobedience
+    or rejection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: GOD
+  description: Named as the just judge who may abandon obstinate persons to seduction,
+    hardness of heart, and a reprobate mind; also the subject of debates about goodness
+    and justice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Mohammedan divines
+  description: Religious interpreters who debate absolute election and reprobation
+    and form differing sectarian explanations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Every person before prayer
+  description: A person who must use the ordinary ablution before entering upon prayer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Jews
+  description: Presented as a possible source and comparison group for similar purification
+    rites.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Pagan Arabs
+  description: Said to have used lustrations of this kind long before Mohammed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: promulgator or adapter of doctrine and rites
+  assigned_to:
+  - fig:1
+  basis: The passage attributes use of predestination doctrine and possible borrowing
+    or recalling of purifying rites to Mohammed.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: followers exhorted by doctrine
+  assigned_to:
+  - fig:2
+  basis: The followers are described as encouraged to fight without fear and deterred
+    from rejecting Mohammed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine judge
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly refers to the just judgment of GOD as punishment for
+    obstinacy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: theological disputants
+  assigned_to:
+  - fig:4
+  basis: The divines are described as inventing distinctions, raising disputes, and
+    forming sects over the doctrine.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: obligated ritual practitioner
+  assigned_to:
+  - fig:5
+  basis: The ordinary ablution must be used by every person before prayer.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: comparative purification tradition-bearers
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage compares Islamic purifications with Jewish rites and pre-Islamic
+    Arab lustrations.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water for purification
+  literal_form: Water used in total immersion or bathing, and in washing before prayer.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: lustration or ritual washing
+  literal_form: Ghosl, Wod/Abdest, Jewish purifications, and pagan Arab lustrations
+    of this kind.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Predestination used for exhortation and warning
+  summary: Unavoidable fate is presented as a doctrine used to encourage fearless
+    fighting and to warn against disobedience through the danger of divine judgment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dispute over election and free will
+  summary: Mohammedan divines debate absolute election and reprobation, raising distinctions
+    and forming sects, including some who affirm absolute free will in humans.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ablution before prayer
+  summary: Prayer is preceded by legal washings or purifications, including total
+    immersion in water and washing of face, hands, and feet.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Comparative account of purification rites
+  summary: The passage compares the purifications with Jewish rites and with lustrations
+    used by pagan Arabs and other eastern nations.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: unavoidable predestined fate
+  taxonomy_refs: []
+  basis: The passage states that fate or predestination cannot be avoided by foresight
+    or wisdom and is used to explain that caution cannot avert destiny or prolong
+    life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a doctrinal pattern in explanatory prose rather than a narrative
+    episode.
+- id: motif:2
+  label: divine judgment through reprobation
+  taxonomy_refs:
+  - divine_judgment
+  basis: Disobedience or rejection is linked with the just judgment of God and punishment
+    through abandonment to seduction, hardness of heart, and a reprobate mind.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports the author's explanation of doctrine rather than a
+    direct narrative of judgment.
+- id: motif:3
+  label: water purification before sacred practice
+  taxonomy_refs: []
+  basis: Legal washings or purifications are described as necessary preparations for
+    prayer, including immersion in water and washing the face, hands, and feet.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific narrative scene of an individual performing the rite is given.
+- id: motif:4
+  label: cross-cultural lustration tradition
+  taxonomy_refs: []
+  basis: The passage explicitly compares Islamic purifications with Jewish rites and
+    with pre-Islamic Arab and eastern lustrations.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The claims are framed partly as possibilities and broad comparisons by
+    the source author.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Islamic legal washings or purifications as functionally
+    similar to Jewish purification rites.
+  claim_level: same_function
+  target: Jewish purification rites associated with the precepts of Moses
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe the Jewish rites in detail and uses the
+    author's comparative framing.
+- id: claim:2
+  claim: The passage cautiously suggests possible borrowing by Mohammed from Jewish
+    purification practices.
+  claim_level: historical_contact
+  target: Jewish purification practices
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The source says 'perhaps borrowed' and provides no direct evidence
+    of borrowing within the passage.
+- id: claim:3
+  claim: The passage compares Islamic purifying rites with pre-Islamic Arab lustrations
+    and broader eastern cleanliness practices.
+  claim_level: same_function
+  target: pre-Islamic Arab and eastern lustrations
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and explanatory; the passage does not provide
+    detailed examples of the earlier Arab rites.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5117-5118
+  quote_or_summary: Predestination includes after-death happiness or misery and is
+    'not possible, by any foresight or wisdom, to avoid.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 5119-5126
+  quote_or_summary: Mohammed is said to use the doctrine to encourage followers to
+    fight without fear and to deter disobedience by warning of God's just judgment
+    and punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5127-5133
+  quote_or_summary: The passage describes disputes among Mohammedan divines over absolute
+    election and reprobation, including objections concerning God's goodness and justice
+    and the alternative of absolute free will.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5134-5137
+  quote_or_summary: Prayer is named as the first fundamental point of religious practice,
+    with legal washings or purifications as necessary preparations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5138-5148
+  quote_or_summary: Ghosl is total immersion or bathing in water; Wod/Abdest is washing
+    face, hands, and feet. Ghosl applies in extraordinary impurity cases, while Wod
+    is ordinary before prayer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5149-5160
+  quote_or_summary: The purifications are said perhaps to be borrowed from the Jews,
+    to agree greatly with Jewish rites, and to resemble lustrations used by pagan
+    Arabs long before Mohammed and by eastern nations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: citation
+  locator: lines 5162-5166
+  quote_or_summary: Footnotes cite Quran chapters, Reland, Pocock, Mark, and Herodotus
+    in connection with predestination and purification discussions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; citation summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif framing
+    is moderate because much of the passage is doctrinal and comparative commentary
+    rather than narrative myth. Historical comparison claims are limited by the passage's
+    cautious language.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This extraction reflects only the supplied public-domain passage and its claims, not independent historical validation.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5117-l5166
+  passage_sha256=4d4f13e7e72c144cbc59624b86cf3d69299fc13fcc323ae5a82b603c06a495a4
+

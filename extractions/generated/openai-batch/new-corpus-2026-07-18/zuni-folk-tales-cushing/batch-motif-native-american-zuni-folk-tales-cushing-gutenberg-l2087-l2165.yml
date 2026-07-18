@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l2087-l2165
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: 'INTRODUCTION / THE TRIAL OF LOVERS: / THE YOUTH AND HIS EAGLE / THE POOR
+    TURKEY GIRL; lines 2087-2165'
+  start: '2087'
+  end: '2165'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Behold, not a Turkey was there!”"
+  summary: A maiden finds the turkeys gone, pursues them, hears their song of departure,
+    calls them in vain, and sees them fly away toward Cañon Mesa and the plains near
+    the Zuñi Mountains. Her dress returns to its former poor condition, and she returns
+    to Mátsaki. The closing narration explains turkey tracks, graven song-figures
+    in the rocks, and the abundance of turkeys in that place, then adds a moral about
+    divine disposition and poverty of spirit.
+  language: English, with Zuni song text and approximate English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The maiden arrives breathless at an open wicket, looks in, and finds no Turkey
+    there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden runs up the valley after the Turkeys and comes within sound of
+    their voices.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Turkeys sing that their “maiden mother” went to the Middle Place to dance,
+    lingered, and therefore they run to Cañon Mesa and the plains above it.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: obs:4
+  text: The maiden calls repeatedly to her Turkeys, but they quicken their steps,
+    spread their wings, continue singing, and do not return.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Turkeys reach the base of Cañon Mesa at the borders of the Zuñi Mountains,
+    spread their wings, and flutter away over the plains above.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The poor Turkey girl looks at her dress and sees that it has changed back
+    to what it had been; she is again the same poor Turkey girl as before.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Weary, grieving, and despairing, the poor Turkey girl returns to Mátsaki.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says that rocks leading to the top of Cañon Mesa show turkey
+    tracks and other figures, and that the other figures are the Turkeys’ song graven
+    in the rocks.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator says that since that day turkeys have been more abundant on the
+    plains along the Zuñi Mountains than anywhere else.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The narrator states that the gods dispose of men according as men are fitted,
+    and connects poverty of heart and spirit with remaining poor.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the maiden / the poor Turkey girl
+  description: A maiden associated with the Turkeys; she pursues them, calls to them
+    in vain, sees her dress revert to its former state, and returns to Mátsaki.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the Turkeys
+  description: A flock absent from the wicket; they sing, run toward Cañon Mesa and
+    the plains, ignore the maiden’s calls, spread their wings, and flutter away. Their
+    tracks and song are later associated with rock markings and local abundance.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the gods
+  description: A collective divine reference in the narrator’s moral statement about
+    disposing of men according as men are fitted.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: pursuing caller
+  assigned_to:
+  - fig:1
+  basis: The maiden runs after the Turkeys and calls to them repeatedly.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: maiden mother named in song
+  assigned_to:
+  - fig:1
+  basis: The Turkeys’ song refers to “our maiden mother” going to the Middle Place
+    to dance.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: departing singing flock
+  assigned_to:
+  - fig:2
+  basis: The Turkeys sing of running away to Cañon Mesa and the plains and then enact
+    that departure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: returned poor girl
+  assigned_to:
+  - fig:1
+  basis: Her dress changes back, she is again the same poor Turkey girl, and she returns
+    to Mátsaki grieving.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: source of tracks, graven song, and local abundance
+  assigned_to:
+  - fig:2
+  basis: The closing narration links the Turkeys to tracks, graven figures understood
+    as their song, and the later abundance of turkeys near the Zuñi Mountains.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: general divine disposers
+  assigned_to:
+  - fig:3
+  basis: The narrator states that the gods dispose of men according as men are fitted.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Cañon Mesa and the Zuñi Mountains
+  literal_form: Cañon Mesa, Shoya-k‘oskwi, the plains above it, and the borders of
+    the Zuñi Mountains
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Turkeys’ song
+  literal_form: The Turkeys’ sung words and chorus, later described as graven in the
+    rocks as figures
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: spread wings
+  literal_form: The Turkeys spread their wings to help them along and then spread
+    them wide to flutter away
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: changed dress
+  literal_form: The poor Turkey girl’s dress, dust- and sweat-marked, changes back
+    to what it had been
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: turkey tracks and graven figures in rock
+  literal_form: Tracks of turkeys and other figures on the rocks leading to the top
+    of Cañon Mesa
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Empty wicket and pursuit
+  summary: The maiden reaches the open wicket, finds the Turkeys gone, and runs up
+    the valley toward their voices.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Song of departure
+  summary: The Turkeys sing that the maiden mother went to dance at the Middle Place
+    and lingered, so they are running to Cañon Mesa and the plains above.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: scene:3
+  label: Failed recall and flight
+  summary: The maiden calls in vain; the Turkeys quicken their steps, spread their
+    wings, continue singing, reach Cañon Mesa by the Zuñi Mountains, and flutter away
+    over the plains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dress reversion and return to Mátsaki
+  summary: The poor Turkey girl sees her dress changed back to its former state and
+    returns to Mátsaki weary and grieving.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Rock marks, turkey abundance, and moral close
+  summary: The narrator connects the event with turkey tracks and graven song-figures
+    in rocks near Cañon Mesa, explains the abundance of turkeys there, and adds a
+    moral statement about the gods and poverty of heart and spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: departing animal flock
+  taxonomy_refs:
+  - departure
+  basis: The Turkeys leave the wicket, run away toward Cañon Mesa and the plains,
+    ignore the maiden’s calls, and finally flutter away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference captures the broad departure pattern only; no external
+    parallel is asserted.
+- id: motif:2
+  label: neglected or lingering caretaker loses animals
+  taxonomy_refs: []
+  basis: The Turkeys’ song says their “maiden mother” went to the Middle Place to
+    dance and lingered; the Turkeys then run away, and her calls do not bring them
+    back.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The excerpt gives the Turkeys’ stated reason in song, but earlier narrative
+    context is not included here.
+- id: motif:3
+  label: loss of transformed or elevated appearance
+  taxonomy_refs: []
+  basis: After the Turkeys fly away, the girl’s dress changes back to what it had
+    been, and she is again the same poor Turkey girl as before.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports the reversion but does not include the earlier acquisition
+    of the changed dress.
+- id: motif:4
+  label: landscape marks and animal abundance explained by a past event
+  taxonomy_refs: []
+  basis: The closing narration explains turkey tracks, graven song-figures in rocks,
+    and the later abundance of turkeys near the Zuñi Mountains as consequences of
+    the Turkeys’ departure.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No named external motif index is supplied in the passage metadata.
+- id: motif:5
+  label: moralized divine disposition
+  taxonomy_refs:
+  - divine_judgment
+  basis: The narrator states that the gods dispose of men according as men are fitted
+    and links poverty of heart and spirit with remaining poor.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is stated as a closing aphorism rather than depicted as an explicit
+    divine trial within the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage has the same function as an etiological landscape-and-animal-abundance
+    tale pattern: it explains visible rock markings and local turkey abundance as
+    outcomes of the Turkeys’ departure.'
+  claim_level: same_function
+  target: etiological landscape-marking and animal-abundance tale pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is functional only; the passage does not identify a specific
+    external text, historical connection, or named motif index.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2087-2092
+  quote_or_summary: The maiden arrives at the open wicket, finds no Turkey there,
+    runs up the valley to overtake them, and comes within sound of their voices.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: song and translation within lines 2094-2137
+  quote_or_summary: The Turkeys’ song says their “maiden mother” went to the Middle
+    Place to dance, lingered, and therefore they run to Cañon Mesa and the plains
+    above it.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized with short quoted phrase.
+- id: ev:3
+  type: summary
+  locator: lines 2139-2145
+  quote_or_summary: The maiden calls to the Turkeys in vain; they quicken their steps,
+    spread their wings, keep singing, reach the base of Cañon Mesa at the borders
+    of the Zuñi Mountains, and flutter away over the plains above.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2147-2150
+  quote_or_summary: The poor Turkey girl looks at her dress; it has changed back to
+    what it had been, and she returns to Mátsaki weary, grieving, and despairing.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2154-2159
+  quote_or_summary: The narrator says rocks leading to the top of Cañon Mesa bear
+    turkey tracks and other figures; the figures are the Turkeys’ song graven in the
+    rocks, and turkeys have since been especially abundant along the nearby plains.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2161-2163
+  quote_or_summary: The narrator states that the gods dispose of men according as
+    men are fitted, and that those poor in heart and spirit as well as appearance
+    remain poor.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: note
+  locator: footnote within lines 2116-2117
+  quote_or_summary: A note says the folk-song is difficult to translate and that the
+    given translation is only approximate.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events and figures are clear in the excerpt. Motif labels are cautious
+    and mostly descriptive; taxonomy matches are broad. The song translation is explicitly
+    marked approximate in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or external-text comparison is asserted.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l2087-l2165
+  passage_sha256=c21d56688a049472e9312936a3def788c94a6770e0af4efe98d6149578ac5549
+

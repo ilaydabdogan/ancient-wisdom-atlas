@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9785-l9794
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE GREAT FLOOD. / THE BEAR STORY. / SUNDRY TALES. / THE OWL AND THE RAVEN.;
+    lines 9785-9794
+  start: '9785'
+  end: '9794'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“since that day has been black all over.”"
+  summary: The owl and raven are friends who make clothing for each other. The raven
+    will not sit still while the owl is making a white dress for it. In anger, the
+    owl pours lamp oil over the raven, after which the raven is black all over.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The owl and the raven are described as fast friends.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The raven makes a dappled white-and-black dress for the owl.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The owl makes whalebone boots for the raven and begins making a white dress.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The raven keeps hopping about and will not sit still when the owl is about
+    to try the dress on it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The owl becomes angry and threatens to pour the lamp out over the raven.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the raven continues hopping, the owl pours oil on it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The raven cries “Qaq! Qaq!” after being covered with oil.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The tale says that since that day the raven has been black all over.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: owl
+  description: A bird who is the raven’s friend, receives a dappled dress, makes boots
+    and begins making a white dress for the raven, becomes angry, and pours oil on
+    the raven.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: raven
+  description: A bird who is the owl’s friend, makes the owl a dappled dress, receives
+    whalebone boots, hops about instead of sitting still, cries out, and becomes black
+    all over.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: reciprocal craft-making friend
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage presents the owl and raven as friends who make clothing or footwear
+    for one another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: angered maker who stains another figure
+  assigned_to:
+  - fig:1
+  basis: The owl becomes angry when the raven will not sit still and pours oil on
+    it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: restless recipient who is changed in color
+  assigned_to:
+  - fig:2
+  basis: The raven will not sit still, receives the spilled oil, and is said thereafter
+    to be black all over.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: dappled dress
+  literal_form: new dress, dappled white and black
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: whalebone boots
+  literal_form: pair of boots of whalebone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: white dress
+  literal_form: white dress being made for the raven
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: lamp oil
+  literal_form: oil poured from the lamp over the raven
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: black coloration
+  literal_form: raven black all over
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: reciprocal clothing-making
+  summary: The owl and raven are friends and make dress, boots, and another dress
+    for each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: restlessness and threat
+  summary: The raven will not sit still while the owl works, and the owl angrily threatens
+    to pour out the lamp over it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: oil poured and raven blackened
+  summary: The raven continues hopping, the owl pours oil on it, and the tale explains
+    the raven’s black color from that day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of raven’s black color through staining
+  taxonomy_refs: []
+  basis: The passage explicitly ends by explaining that after the owl poured oil on
+    the raven, the raven has been black all over since that day.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No matching available taxonomy reference for an etiological animal-color
+    tale is supplied.
+- id: motif:2
+  label: animal friends exchange crafted garments
+  taxonomy_refs: []
+  basis: The owl and raven are friends who make dress and footwear for one another
+    before the conflict occurs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a passage pattern rather than an explicitly named motif in the
+    supplied taxonomy.
+- id: motif:3
+  label: anger at restlessness causes bodily alteration
+  taxonomy_refs: []
+  basis: The raven’s refusal to sit still leads the angry owl to pour oil on it, producing
+    a lasting color change.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports the sequence, but broader motif classification would
+    require comparison beyond the provided text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9785-9787
+  quote_or_summary: The tale opens by saying the owl and raven were fast friends.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 9787-9790
+  quote_or_summary: The raven makes a dappled white-and-black dress for the owl; the
+    owl makes whalebone boots for the raven and starts a white dress.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 9790-9791
+  quote_or_summary: When the owl is about to try the dress on the raven, the raven
+    keeps hopping about and will not sit still.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 9791-9793
+  quote_or_summary: The owl says, “Now sit still or I shall pour out the lamp over
+    you.”
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:5
+  type: summary
+  locator: lines 9793-9794
+  quote_or_summary: The raven continues hopping; the owl pours oil on it; the raven
+    cries “Qaq! Qaq!”; since that day the raven has been black all over.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary with brief quoted cry.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear. Motif labels are descriptive because
+    the supplied taxonomy lacks a direct etiological animal-color category. No comparison
+    claims are made because the passage itself provides no comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references left empty where not directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9785-l9794
+  passage_sha256=cff361efc611437e49f0809848d6cda22b67434f553a6b079466b6c329132e71
+

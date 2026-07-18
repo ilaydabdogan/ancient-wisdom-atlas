@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l15612-l15754
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE ADVENTURES OF CUROI SON OF DARE FOLLOW NOW / THE REPEATED WARNING OF
+    SUALTAIM / XXVII / XXVIII; lines 15612-15754
+  start: '15612'
+  end: '15754'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Medb gathers the men of Erin at Cruachan to watch the Brown Bull of Cualnge
+    and Finnbennach, the Whitehorned of Ai, fight. Bricriu is selected as an impartial
+    witness and judge, but the fighting bulls trample him to death. Cormac strikes
+    and reproaches the Brown Bull, who understands the speech, becomes enraged, and
+    injures the Whitehorned. The bulls continue fighting through the day and roam
+    across much of Erin by night, giving rise to bull-named places.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Medb keeps the hosts together, gathers the men of Erin, and leads them to
+    Cruachan to watch the battle of the bulls.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Brown Bull of Cualnge is brought to Cruachan with fifty heifers in his
+    company.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Brown Bull bellows in the strange land; the Whitehorned of Ai hears him,
+    becomes angry, and goes to seek him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The men of Erin choose Bricriu to witness and judge the bull fight because
+    he is described as no fairer to friend than to foe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Brown Bull is driven to meet the Whitehorned at Tarbga in the plain of
+    Ai, and survivors of the battle want to watch the combat.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The two bulls paw and dig up the ground, toss earth over themselves, show
+    blazing red eyes, and have swollen cheeks and nostrils.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The bulls strike, gore, and try to slaughter one another; the Whitehorned
+    drives a horn into the Brown Bull's side.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The bulls rush toward Bricriu, and their hoofs drive him into the ground,
+    causing his death.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Cormac sees Bricriu's death, strikes the Brown Bull with a spearshaft, and
+    verbally reproaches him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Brown Bull is said to have human understanding, hears Cormac's words,
+    circles the Whitehorned in rage, and breaks the Whitehorned's lower leg.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: The bull fight continues until night; after nightfall the men of Erin hear
+    only bellowing and roaring.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:12
+  text: The bulls course over much of Erin, and places called Bulls' Ditch, Bulls'
+    Gap, Bulls' Fen, Bulls' Loch, Bulls' Rath, and Bulls' Back are said to be named
+    from them.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Medb
+  description: Leader who gathers the men of Erin and leads them to Cruachan to view
+    the bull battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Brown Bull of Cualnge
+  description: Named bull brought to Cruachan with fifty heifers; he bellows, fights
+    the Whitehorned, is struck by Cormac, understands speech, and continues the combat.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Finnbennach Ai, the Whitehorned of Ai
+  description: Named bull who hears the Brown Bull's bellowing, becomes angry, seeks
+    him out, wounds him, and is later injured by him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Bricriu son of Carbad
+  description: Chosen as the witness and judge of the bull fight; he is trampled into
+    the ground and dies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Men of Erin
+  description: The gathered hosts and spectators who debate who should witness the
+    fight and watch or hear the bulls' combat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Cormac Conlongas son of Conchobar
+  description: Observer who reacts to Bricriu's death, strikes the Brown Bull, and
+    reproaches him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Fifty heifers
+  description: A group of heifers in the company of the Brown Bull when he is brought
+    to Cruachan.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: organizer of public viewing
+  assigned_to:
+  - fig:1
+  basis: Medb gathers and leads the men of Erin to Cruachan to watch the bulls.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rival bull combatant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Brown Bull and the Whitehorned meet, strike, gore, and injure each other.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:3
+  label: impartial witness and judge
+  assigned_to:
+  - fig:4
+  basis: Bricriu is selected to witness and judge because he is no fairer to friend
+    than foe and says he will truly recount the bulls' deeds.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: spectators
+  assigned_to:
+  - fig:5
+  basis: The men of Erin gather, debate the choice of witness, and watch or listen
+    to the contest.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+- id: role:5
+  label: human intervener and reprover
+  assigned_to:
+  - fig:6
+  basis: Cormac strikes the Brown Bull with a spearshaft and speaks critically to
+    him after Bricriu's death.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: animal with human understanding
+  assigned_to:
+  - fig:2
+  basis: The passage states that the Brown Bull heard Cormac's speech because he had
+    human understanding.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Brown Bull
+  literal_form: The Brown Bull of Cualnge, a named bull brought to Cruachan and engaged
+    in combat.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Whitehorned Bull
+  literal_form: Finnbennach Ai, the Whitehorned of Ai, a named bull who answers the
+    Brown Bull's bellowing and fights him.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: fire-like eyes
+  literal_form: The bulls' eyes blaze red in their heads like firm balls of fire.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: horns and hoofs
+  literal_form: Horns wound the opponent, and hoofs drive Bricriu into the ground.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: bull-named landscape features
+  literal_form: Bulls' Ditch, Bulls' Gap, Bulls' Fen, Bulls' Loch, Bulls' Rath, and
+    Bulls' Back are named from the bulls' course over Erin.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Medb gathers spectators at Cruachan
+  summary: Medb prevents the hosts from dispersing and leads the men of Erin to Cruachan
+    to watch how the two bulls will part from one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bellowing and challenge
+  summary: The Brown Bull bellows in the strange land, and the Whitehorned of Ai hears,
+    becomes angry, and goes to seek him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bricriu appointed witness
+  summary: The men of Erin debate who should witness the fight and select Bricriu,
+    who requests permission to judge and recount the bulls' deeds.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bull combat at Tarbga
+  summary: The bulls meet at Tarbga, paw up the ground, display fiery eyes and swollen
+    nostrils, and begin striking and goring each other.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Death of Bricriu
+  summary: The fighting bulls rush toward Bricriu, and their hoofs drive him into
+    the ground, where he is destroyed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Cormac's reproach and the Brown Bull's response
+  summary: Cormac strikes and reproaches the Brown Bull; the Brown Bull hears with
+    human understanding, becomes enraged, circles the Whitehorned, and breaks his
+    lower leg.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Night roaming and place names
+  summary: After fighting through the day, the bulls are heard bellowing and roaring
+    at night as they course over much of Erin, and bull-named places are attributed
+    to them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Contest of rival bulls
+  taxonomy_refs:
+  - duality
+  basis: Two named bulls, the Brown Bull of Cualnge and the Whitehorned of Ai, are
+    placed in direct opposition and fight violently over an extended period.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage supports a rival-pair structure, but it does not state a cosmic,
+    moral, or metaphysical dualism.
+- id: motif:2
+  label: Combat as public spectacle with chosen judge
+  taxonomy_refs: []
+  basis: Medb gathers the men of Erin to see the bulls, and Bricriu is selected to
+    witness, judge, and later recount the combat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a narrative function in the passage; no supplied taxonomy reference
+    directly matches it.
+- id: motif:3
+  label: Witness or judge destroyed by the combat he observes
+  taxonomy_refs: []
+  basis: Bricriu is appointed to witness and judge the fight, but the bulls trample
+    him into the ground during the combat.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage gives the death as an episode of the bull fight, not as an
+    explicit moral judgment.
+- id: motif:4
+  label: Animal with human understanding responds to speech
+  taxonomy_refs: []
+  basis: Cormac's reproach is heard by the Brown Bull because the bull is said to
+    have human understanding, and the bull immediately reacts against the Whitehorned.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not present the bull as changing shape; therefore no
+    shapeshifter taxonomy reference is assigned.
+- id: motif:5
+  label: Mythic animal combat explains place names
+  taxonomy_refs: []
+  basis: The bulls roam over much of Erin during the night, and multiple types of
+    bull-named places are said to be named from them.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The extraction identifies an etiological place-name pattern, but no specific
+    taxonomy reference for place-name etiology is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as an etiological account for bull-named landscape
+    features in Erin.
+  claim_level: same_function
+  target: etiological place-name narrative pattern
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison to a narrative pattern only; the passage
+    does not support claims about historical contact, diffusion, or common inheritance.
+- id: claim:2
+  claim: The opposed Brown Bull and Whitehorned Bull can be cautiously compared to
+    a rival-pair or duality pattern because the episode centers on two contrasted
+    named combatants.
+  claim_level: same_function
+  target: duality motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The contrast is narrative and visual; the passage does not present
+    an explicit cosmic or theological dualism.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15612-15624; XXVIII opening
+  quote_or_summary: Medb keeps the hosts from dispersing, gathers the men of Erin,
+    leads them to Cruachan to behold the battle of the bulls, and the Brown Bull is
+    there with fifty heifers.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15625-15636; Brown Bull bellows and Whitehorned responds
+  quote_or_summary: The Brown Bull sends out three loud bellowing calls; Finnbennach
+    Ai, the Whitehorned of Ai, hears, lifts his head in fierce anger, and hastens
+    to Cruachan to seek him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15637-15663; selection of Bricriu
+  quote_or_summary: The men of Erin debate who should witness the bull fight and choose
+    Bricriu because he is no fairer to friend than foe; he asks to judge and recount
+    the bulls' deeds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15664-15670; meeting at Tarbga
+  quote_or_summary: The Brown Bull is driven on the morning of the fight until he
+    meets the Whitehorned at Tarbga in the plain of Ai; those who survived the battle
+    wish to see the combat.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15671-15683; initial combat description
+  quote_or_summary: The bulls sight one another, paw and dig up the ground, toss earth
+    over themselves, their eyes blaze red like balls of fire, and they strike and
+    gore each other.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 15684-15692; wounding and Bricriu's death
+  quote_or_summary: The Whitehorned drives a horn into the Brown Bull's side; the
+    bulls then rush toward Bricriu, and their hoofs drive him a man's cubit into the
+    ground after his destruction.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15693-15703; Cormac strikes and reproaches the Brown Bull
+  quote_or_summary: Cormac sees what happened, seizes a spearshaft, strikes the Brown
+    Bull from ear to tail, and says the prize is not lasting if it cannot defend itself
+    against a stirk of its own age; the Brown Bull hears because he has human understanding.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 15704-15713; Brown Bull's rage and prolonged fight
+  quote_or_summary: The Brown Bull becomes infuriated, circles the Whitehorned, rushes
+    at him, breaks his lower leg, and the two bulls continue striking each other until
+    nightfall.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 15714-15728; night roaming and place names
+  quote_or_summary: After nightfall the men of Erin hear bellowing and roaring; the
+    bulls course over much of Erin, and places called Bulls' Ditch, Gap, Fen, Loch,
+    Rath, and Back are said to be named from them.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious, especially the limited duality comparison, which is supported only
+    by the opposed named bulls and not by explicit cosmology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy IDs or comparisons were added beyond the supplied motif-family and symbol reference lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l15612-l15754
+  passage_sha256=343bf8578bc98c917651070e52defdd5cf3836efb6c6b25de3add3dff0335b17
+

@@ -1,0 +1,598 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8476-l8566
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8476-8566
+  start: '8476'
+  end: '8566'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first concludes a Roland tale: a faithful maiden is compelled
+    to sing at Roland''s wedding, Roland recognizes her voice as that of the true
+    bride, remembers what he had forgotten, and marries her. The passage then begins
+    "The Golden Bird": a king''s golden apples disappear from a tree; his elder sons
+    fail as night watchmen; the youngest stays awake, wounds a golden bird, and obtains
+    a golden feather. The king demands the whole bird. The elder sons ignore a speaking
+    Fox''s counsel and choose the cheerful inn, forgetting the quest. The youngest
+    spares the Fox, rides on its tail, and follows its advice by entering the humble
+    inn.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An old custom requires all the girls to attend Roland's wedding and sing in
+    honor of the bridal pair; the faithful maiden is sad and reluctant but is brought
+    there.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the faithful maiden sings, Roland recognizes her voice, calls her the
+    true bride, remembers what he had forgotten, and holds his wedding with her.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A king has a pleasure-garden behind his palace with a tree that bears golden
+    apples; after the apples are counted, one is missing the next morning.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king orders a nightly watch beneath the golden-apple tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The eldest and second sons each keep watch at night but fall asleep at midnight,
+    after which another apple is missing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The third son keeps awake at midnight, sees a gold-feathered bird pluck an
+    apple, shoots at it, and obtains one fallen golden feather.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king's council says the golden feather is worth more than the whole kingdom,
+    and the king declares that he wants the whole bird.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: On the eldest son's journey, a Fox begs not to be shot and offers advice about
+    choosing between two inns; the eldest rejects the Fox as foolish and shoots at
+    him, but misses.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The eldest son chooses the cheerful inn, lives in riot and revel, and forgets
+    the bird, his father, and the counsel he received.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The second son sets out, receives the same advice from the Fox, ignores it,
+    enters the music-filled inn at his brother's call, and lives only for pleasure.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The youngest son wants to try the quest; although his father distrusts his
+    ability, he is eventually allowed to go.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The youngest son spares the Fox, accepts the Fox's transport on its tail,
+    follows the advice at the village, and spends the night quietly in the little
+    inn.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: faithful maiden
+  description: The maiden who is distressed by Roland's wedding, sings when compelled,
+    and is recognized by Roland as the true bride.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Roland
+  description: The bridegroom who hears the maiden's song, recognizes her voice, remembers
+    what he had forgotten, and marries her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King
+  description: The ruler who owns the garden with the golden-apple tree, orders the
+    watch, receives the feather, and demands the whole Golden Bird.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: eldest son
+  description: The king's eldest son, who falls asleep while watching the tree and
+    later ignores the Fox's counsel on the quest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: second son
+  description: The king's second son, who also falls asleep while watching the tree
+    and later ignores the Fox's counsel.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:6
+  name_or_label: third or youngest son
+  description: The king's youngest son, who keeps awake, obtains the golden feather,
+    later sets out on the quest, spares the Fox, and follows its advice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Golden Bird
+  description: A bird whose feathers shine with gold; it plucks a golden apple from
+    the tree and loses one golden feather when shot at by the youngest son.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Fox
+  description: A speaking Fox at the edge of the wood who begs for his life, gives
+    counsel about the inns, and carries the youngest son on his tail.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+roles:
+- id: role:1
+  label: recognized true bride
+  assigned_to:
+  - fig:1
+  basis: Roland identifies the maiden's voice and calls her the true bride before
+    marrying her.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: forgetful bridegroom who remembers
+  assigned_to:
+  - fig:2
+  basis: Roland hears the song, recognizes the voice, and what he had forgotten returns
+    to his heart.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: royal owner and quest-giver
+  assigned_to:
+  - fig:3
+  basis: The king owns the golden-apple tree, orders the watch, receives the feather,
+    and demands the whole bird.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: failed elder seeker
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The two elder sons fail at the watch and later disregard the Fox's advice
+    on the way to the Golden Bird.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: underestimated vigilant youngest seeker
+  assigned_to:
+  - fig:6
+  basis: The youngest son is doubted by the king but stays awake, obtains the feather,
+    spares the Fox, and follows its advice.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: role:6
+  label: golden apple-taker and desired bird
+  assigned_to:
+  - fig:7
+  basis: The bird plucks an apple from the tree, leaves a valuable feather, and becomes
+    the object the king demands.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: speaking animal adviser and carrier
+  assigned_to:
+  - fig:8
+  basis: The Fox speaks, asks to be spared, gives counsel about the inns, and transports
+    the youngest son on its tail.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+symbols:
+- id: sym:1
+  label: recognizing voice and wedding song
+  literal_form: The faithful maiden's song reaches Roland's ears and he recognizes
+    her voice.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: golden-apple tree
+  literal_form: A tree in the king's pleasure-garden that bears golden apples.
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: golden apples
+  literal_form: Golden apples that are counted as they ripen and disappear one by
+    one.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: golden feather
+  literal_form: A feather from the Golden Bird's plumage, declared worth more than
+    the whole kingdom.
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: two inns
+  literal_form: 'Two opposite inns: one bright and merry, the other poor or bad-looking.'
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: sym:6
+  label: Fox's tail ride
+  literal_form: The youngest son sits behind on the Fox's tail and is carried quickly
+    over stock and stone.
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: midnight watch
+  literal_form: The sons keep watch beneath the tree, and the crucial events occur
+    when midnight or twelve o'clock strikes.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wedding song and recognition
+  summary: At Roland's wedding, the faithful maiden is made to sing; Roland recognizes
+    her voice as that of the true bride, recovers his memory, and marries her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Missing golden apples
+  summary: A king's golden apples disappear from a tree in his pleasure-garden, and
+    he orders nightly watches beneath the tree.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Night watches and golden feather
+  summary: The elder sons fall asleep during their watches; the youngest remains awake,
+    sees the Golden Bird pluck an apple, shoots at it, and secures one golden feather.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: King demands the whole bird
+  summary: After the council values the feather above the kingdom, the king insists
+    that one feather is insufficient and demands the whole Golden Bird.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Eldest son rejects the Fox and forgets the quest
+  summary: The eldest son encounters the speaking Fox, refuses its advice, shoots
+    at it, then chooses the cheerful inn and forgets the quest.
+  figure_refs:
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Second son repeats the failure
+  summary: The second son sets out, receives the same Fox advice, ignores it after
+    seeing and hearing his brother at the music-filled inn, and lives for pleasure.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Youngest son spares the Fox and follows counsel
+  summary: The youngest son is allowed to attempt the quest, spares the Fox, rides
+    on its tail, and enters the little inn as advised.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Recognition of the true bride by voice or song
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Roland recognizes the faithful maiden's voice during the wedding song, identifies
+    her as the true bride, and marries her.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The available taxonomy reference is approximate; the excerpt shows recognition
+    of a true bride and recovery of memory, but does not in this line range explicitly
+    describe a bride being stolen.
+- id: motif:2
+  label: Golden apples stolen from a guarded royal tree
+  taxonomy_refs:
+  - sacred_theft
+  basis: A golden apple disappears after being counted, watches are set beneath the
+    tree, and the Golden Bird is seen plucking an apple.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a theft of extraordinary royal apples; it does not
+    explicitly call the tree or apples sacred.
+- id: motif:3
+  label: Youngest son succeeds where elder sons fail
+  taxonomy_refs: []
+  basis: The elder sons fall asleep while watching the tree, but the youngest stays
+    awake and discovers the Golden Bird.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Quest initiated by a single marvelous token
+  taxonomy_refs:
+  - mystical_quest
+  basis: A single golden feather proves so valuable that the king demands the entire
+    Golden Bird, prompting his sons' journeys.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage frames the object as magical
+    and precious, not explicitly mystical.
+- id: motif:5
+  label: Speaking animal adviser tests mercy and obedience
+  taxonomy_refs:
+  - wisdom
+  basis: The Fox asks not to be shot, offers counsel, is rejected by the elder sons,
+    and later helps the youngest son who spares him and follows his advice.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage shows counsel and reward for sparing the Fox; it does not
+    explicitly describe the encounter as a test.
+- id: motif:6
+  label: Choice between alluring and humble lodging
+  taxonomy_refs:
+  - initiation
+  basis: The Fox instructs the princes to avoid the bright, merry inn and enter the
+    bad-looking one; the elder sons choose pleasure and fail, while the youngest enters
+    the little inn quietly.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: The passage supports a quest-choice pattern, but does not explicitly label
+    it an initiation.
+- id: motif:7
+  label: Forgetting the quest through pleasure
+  taxonomy_refs: []
+  basis: The eldest son lives in riot and revel and forgets the bird, his father,
+    and all counsel; the second son also enters the inn and lives only for pleasure.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: ''
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8476-8488
+  quote_or_summary: All girls are required to sing at Roland's wedding; the faithful
+    maiden sings, Roland recognizes her voice as that of the true bride, remembers
+    what he had forgotten, and marries her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 8492-8496
+  quote_or_summary: A king has a pleasure-garden with a tree bearing golden apples;
+    after the ripe apples are counted, one is missing, so he orders a nightly watch
+    beneath the tree.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 8498-8504
+  quote_or_summary: The eldest and second sons each keep watch, but each falls asleep
+    at midnight or twelve o'clock, and an apple is gone in the morning.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 8506-8515
+  quote_or_summary: The third son stays awake; at midnight he sees a bird with gold-shining
+    feathers pluck an apple, shoots at it, and obtains one fallen golden feather.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 8515-8520
+  quote_or_summary: The council judges the golden feather worth more than the whole
+    kingdom, and the king declares he must have the whole bird.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 8522-8533
+  quote_or_summary: The eldest son meets a Fox at the edge of a wood; the Fox asks
+    not to be shot and advises him to choose the poor-looking inn over the bright
+    merry one, but the son rejects the advice and shoots unsuccessfully at the Fox.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 8535-8541
+  quote_or_summary: The eldest son reaches the two inns, enters the cheerful one,
+    lives in riot and revel, and forgets the bird, his father, and all good counsels.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: lines 8542-8548
+  quote_or_summary: The second son sets out, receives the same advice from the Fox,
+    ignores it, sees his brother at the music-filled inn, goes inside, and lives only
+    for pleasure.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:9
+  type: summary
+  locator: lines 8550-8555
+  quote_or_summary: The youngest son asks to set out; his father doubts him and says
+    he is less likely to find the Golden Bird, but finally lets him go.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:10
+  type: summary
+  locator: lines 8557-8566
+  quote_or_summary: The Fox again asks to be spared and gives advice; the youngest
+    son promises not to harm him, rides on the Fox's tail, and at the village follows
+    the advice by entering the little inn and spending the night quietly.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidate analytical groupings and some taxonomy references are broad approximations.
+    No passage-internal comparative claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied line range includes the conclusion of a Roland tale followed by the opening episodes of "The Golden Bird"; both segments are represented separately where relevant.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8476-l8566
+  passage_sha256=f903f3b6f79329a90635cc87f86415577cf64d7d4638138c582d31e8aee1c680
+

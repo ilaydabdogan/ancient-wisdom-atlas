@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l124-l211
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: An Old Babylonian Version of the Gilgamesh Epic / Part III / PREFATORY NOTE
+    / INTRODUCTION.; lines 124-211
+  start: '124'
+  end: '211'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: The life that thou seekest, thou wilt not find.
+  summary: The passage introduces the Gilgamesh Epic, discusses its Assyrian and older
+    Babylonian textual witnesses, mentions the Atra-hasis deluge episode, and summarizes
+    an Old Babylonian fragment in which Gish/Gilgamesh wanders after Enkidu's death
+    seeking to escape mortality and receives Sabitum's counsel that death is allotted
+    to humankind while daily joy and family life remain to be embraced.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Gilgamesh Epic is described as recounting the exploits and adventures
+    of a favorite hero and, in its final form, covering twelve tablets.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Atra-hasis is identified as one of the names given to the survivor of the
+    deluge, and the deluge story is said to be recounted on the eleventh tablet of
+    the Gilgamesh Epic.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An Old Babylonian tablet from the Hammurabi period is described as dealing
+    with the hero's wanderings in search of a cure from disease after the death of
+    his companion Enkidu.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The hero fears that his disease will be fatal and longs to escape death.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that, in the Assyrian version, the hero tells the maiden
+    Sabitum of grief for his lost companion and of longing to escape Enkidu's fate.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Sabitum is described as a maiden dwelling at the seaside, and Gilgamesh comes
+    to her during his wanderings.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sabitum tells Gish that the life he seeks will not be found, that the gods
+    imposed death on mankind, and that they kept life in their own power.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Sabitum urges Gish to fill his belly, rejoice day and night, keep his clothes
+    clean, wash his head and pour water over himself, care for a little one, and let
+    his wife rejoice in his bosom.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gish / Gilgamesh
+  description: The favorite hero of the epic; in the Old Babylonian fragment he wanders
+    after Enkidu's death seeking a cure and escape from death, and he receives Sabitum's
+    address.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Enkidu
+  description: Gilgamesh's companion whose death precedes the hero's disease, grief,
+    and fear of sharing Enkidu's fate.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Sabitum
+  description: A maiden dwelling at the seaside who addresses Gish/Gilgamesh with
+    counsel about death, life, rejoicing, cleansing, child-care, and wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Atra-hasis
+  description: Named as a survivor of the deluge and as the deluge hero in an early
+    text.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the gods
+  description: In Sabitum's speech, the gods created mankind, imposed death on mankind,
+    and kept life in their own power.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: epic hero
+  assigned_to:
+  - fig:1
+  basis: The passage calls the epic's central figure a favorite hero and describes
+    his exploits and adventures.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wanderer seeking cure
+  assigned_to:
+  - fig:1
+  basis: The Old Babylonian tablet deals with the hero's wanderings in search of a
+    cure from disease.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: seeker of escape from death
+  assigned_to:
+  - fig:1
+  basis: The hero fears fatal disease and longs to escape death and Enkidu's fate.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: lost companion
+  assigned_to:
+  - fig:2
+  basis: Enkidu is named as the companion whose death causes the hero's grief and
+    fear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: seaside counselor
+  assigned_to:
+  - fig:3
+  basis: Sabitum dwells at the seaside and gives a full address to Gish about the
+    limits of seeking life and how to live.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: deluge survivor
+  assigned_to:
+  - fig:4
+  basis: Atra-hasis is named as the survivor of the deluge and as the deluge hero.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divine creators and holders of life
+  assigned_to:
+  - fig:5
+  basis: Sabitum says the gods created mankind, imposed death on mankind, and kept
+    life in their power.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: deluge
+  literal_form: deluge / flood event
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seaside dwelling
+  literal_form: the seaside where Sabitum dwells
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: water poured over the head
+  literal_form: washing the head and pouring water over oneself
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: clean clothes
+  literal_form: clean clothes mentioned in Sabitum's counsel
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Deluge survivor episode noted
+  summary: The introduction notes that Atra-hasis is a name for the survivor of the
+    deluge and that a deluge story is recounted in the eleventh tablet of the Gilgamesh
+    Epic.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Hero wanders after Enkidu's death
+  summary: An Old Babylonian tablet is described as treating the hero's wanderings
+    in search of a cure from disease after Enkidu's death, with the hero fearing fatality
+    and longing to escape death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Gilgamesh comes to Sabitum at the seaside
+  summary: Gilgamesh comes to Sabitum, a maiden dwelling at the seaside, and is known
+    from the Assyrian version to tell her of grief for his lost companion and his
+    wish to avoid Enkidu's fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Sabitum counsels acceptance of mortality and daily rejoicing
+  summary: Sabitum tells Gish that the life he seeks will not be found because the
+    gods imposed death on mankind and kept life in their own power; she urges eating,
+    rejoicing, clean clothes, washing, care for a child, and joy with a wife.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Quest to escape death after the loss of a companion
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The hero wanders after Enkidu's death seeking a cure and longing to escape
+    death, but Sabitum tells him that the life he seeks will not be found.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is introductory and summarizes a fragment rather than presenting
+    the full narrative; the available taxonomy does not include a precise 'quest for
+    immortality' label.
+- id: motif:2
+  label: Human mortality allotted by the gods
+  taxonomy_refs:
+  - wisdom
+  basis: Sabitum states that when the gods created mankind they imposed death on mankind
+    and kept life in their own power.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is expressed as quoted counsel; broader theological interpretation
+    should be reviewed against the full tablet.
+- id: motif:3
+  label: Counsel to rejoice in daily and family life despite death
+  taxonomy_refs:
+  - wisdom
+  basis: Sabitum's address urges Gish to eat, rejoice day and night, keep clean, wash,
+    care for the child, and let the wife rejoice.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage itself identifies this as a philosophy of 'eat, drink and
+    be merry,' but extraction keeps the motif at the level of counsel given in the
+    text.
+- id: motif:4
+  label: Deluge survivor
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The introduction identifies Atra-hasis as a survivor of the deluge and connects
+    the deluge story with the eleventh tablet of the Gilgamesh Epic.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions the deluge survivor and story but gives no details
+    of renewal, vessel, destruction, or aftermath.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Atra-hasis deluge material is an episode also
+    incorporated into the Gilgamesh Epic, specifically in connection with the eleventh
+    tablet.
+  claim_level: same_motif
+  target: Atra-hasis deluge story and Gilgamesh Epic Tablet XI
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is based on the introduction's summary of textual relationship;
+    the actual deluge narrative is not included in this passage.
+- id: claim:2
+  claim: The passage states that the Old Babylonian Meissner tablet corresponds to
+    a portion of Tablet X of the Assyrian version, involving the hero's wandering,
+    grief after Enkidu, and longing to escape death.
+  claim_level: same_motif
+  target: Old Babylonian fragment and Assyrian version Tablet X
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage notes that only parts of the Old Babylonian tablet are
+    preserved and does not provide the full parallel text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 124-135
+  quote_or_summary: The Gilgamesh Epic is described as a notable Babylonian literary
+    work recounting the exploits and adventures of a favorite hero and, in final form,
+    consisting of twelve tablets.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 160-172
+  quote_or_summary: The passage identifies Atra-hasis as a name of the survivor of
+    the deluge, notes a deluge story on the eleventh tablet of the Gilgamesh Epic,
+    and says related early tablets introduce an episode incorporated into the Epic.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 173-184
+  quote_or_summary: A Hammurabi-period tablet published by Meissner is described as
+    part of an Old Babylonian version, dealing with the hero's wanderings in search
+    of a cure from disease after Enkidu's death; the hero fears the disease will be
+    fatal and longs to escape death, corresponding to part of Tablet X of the Assyrian
+    version.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 185-197
+  quote_or_summary: The passage notes the forms Gish and Enkidu and describes Sabitum
+    as a maiden dwelling at the seaside; Gilgamesh comes to her and, in the Assyrian
+    version, tells her of grief for his lost companion and longing to escape Enkidu's
+    fate.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 198-211
+  quote_or_summary: 'Sabitum says: "The life that thou seekest, thou wilt not find";
+    she adds that the gods imposed death on mankind and kept life, and urges Gish
+    to fill his belly, rejoice, keep clothes clean, wash his head, pour water over
+    himself, care for a little one, and let the wife rejoice.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation and summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is largely introductory and secondary in character, but it contains
+    clear summaries and a direct quotation of Sabitum's address. Motif candidates
+    are limited to details explicitly present in this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs beyond the supplied motif-family and symbol references were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l124-l211
+  passage_sha256=b3643a04c126bd5f76ec2af742e88d24e388d56b5d3c93efc2ff48fe7d59dc25
+

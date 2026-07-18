@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4317-l4417
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: TRADE AND INTERCOURSE BETWEEN THE TRIBES. / LIST OF THE CENTRAL ESKIMO TRIBES.
+    / SEAL, WALRUS, AND WHALE HUNTING. / DEER, MUSK OX, AND BEAR HUNTING.; lines 4317-4417
+  start: '4317'
+  end: '4417'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Central Eskimo deer-hunting practices: the seasonal
+    start of the summer hunt, driving deer into ponds or lakes, using cairns to make
+    deer think hunters are approaching, pursuing swimming deer by kayak and spear,
+    ambushing deer in narrow valleys, waiting at recurring migration passes, driving
+    reindeer onto treacherous ice near Simpson Strait, and stalking scattered deer
+    with bows and arrows. It also notes a frequently told tradition about deer hunts
+    of a fabulous tribe, but gives no details of that tradition here.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When snow melts and the short summer begins, the Eskimo start the deer hunt;
+    the passage states that summer is important because deerskins are then fit for
+    clothing.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Deer in migration cross narrow parts of lakes, where hunters lie in ambush
+    with kayaks or drive the deer into the water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On narrow peninsulas, the Eskimo deploy in a line and slowly drive the herd
+    to the point, cutting off retreat so the deer take to the water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Where the shore or landform requires it, a line of cairns is erected to deceive
+    deer into believing another line of hunters is approaching.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Once the deer are in the water, hunters pursue them in kayaks and kill them
+    with spears; wounded deer may turn on the boat and threaten to capsize or tear
+    it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In narrow valleys with steep sides, deer are driven toward men lying in ambush
+    because there is no chance for escape on either side.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says a frequently told Eskimo tradition refers to deer hunts of
+    a fabulous tribe in such passes.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Deer herds travel north in spring and south in autumn along the same course
+    each year, passing rivers, lakes, and valleys at deer passes.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: At Simpson Strait, reindeer may gather on Ita Island; hunters deploy over
+    the frozen strait, make noise, and drive the animals toward treacherous ice where
+    they break through and are killed.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: When deer are scattered, they are stalked; where there are no firearms, bows
+    and arrows are used.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: 'The passage distinguishes two kinds of bows: one made of wood and one made
+    of reindeer antlers; the wooden bow is described as reinforced with bone and many
+    sinew lines.'
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Eskimo hunters / natives
+  description: The people who start the deer hunt, drive deer, lie in ambush, pursue
+    them by kayak, and use spears, bows, arrows, cairns, and noise in hunting.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Deer / reindeer herds
+  description: Migrating animals that cross lakes, are driven into water or onto treacherous
+    ice, may scatter across the country, and are hunted for meat and skins.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Fabulous tribe
+  description: A group mentioned only as the subject of a frequently told Eskimo tradition
+    about deer hunts in narrow passes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seasonal deer hunters
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Eskimo start the deer hunt when snow has melted
+    and summer is at hand.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: drivers and ambushers
+  assigned_to:
+  - fig:1
+  basis: The hunters drive deer toward water, hills, valleys, ice, or men lying in
+    ambush, and pursue the animals by kayak or on foot.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: migratory hunted animals
+  assigned_to:
+  - fig:2
+  basis: The deer/reindeer are described as migrating seasonally, crossing lakes or
+    straits, being driven, and being killed for meat and skins.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:4
+  label: subject of referenced tradition
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly says a remarkable tradition refers to the deer hunts
+    of a fabulous tribe in the passes.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water as hunting terrain
+  literal_form: ponds, lakes, rivers, straits, and water crossed by deer
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: decoy cairns
+  literal_form: line of cairns called inugsung
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: kayak
+  literal_form: hunter's boat used to ambush and pursue swimming deer
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: spear
+  literal_form: spear called kapun
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: treacherous ice
+  literal_form: ice at Simpson Strait where reindeer break through
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: bow and arrow
+  literal_form: bows called pitiqse, including wooden bows and reindeer-antler bows,
+    used where firearms are absent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: summer departure for deer hunt
+  summary: After the snow melts and summer begins, the Eskimo start deer hunting because
+    summer deerskins are suitable for clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: driving deer into water
+  summary: Hunters ambush deer at lake crossings or drive them along peninsulas until
+    the herd takes to the water, where kayaks can overtake them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: cairns as false hunters
+  summary: A line of cairns is placed on a hill or plain so that deer think another
+    line of hunters is approaching and move toward the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: kayak pursuit and spear kill
+  summary: Hunters in kayaks overtake swimming deer and kill them with spears, though
+    a wounded animal may endanger the boat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: narrow-valley ambush and referenced tradition
+  summary: In steep narrow valleys, deer are driven toward ambushed hunters; the passage
+    also notes a tradition about deer hunts of a fabulous tribe in such passes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: waiting at seasonal deer passes
+  summary: Because herds follow the same north-south routes each year, hunters stay
+    at known passes during migrations to secure meat and skins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Simpson Strait ice drive
+  summary: Hunters frighten reindeer across the frozen strait toward treacherous ice,
+    where the animals break through and can be killed easily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:8
+  label: stalking with bows
+  summary: When deer are scattered, hunters stalk them and, without firearms, use
+    bows and arrows; the passage describes wooden and antler bows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: seasonal migration hunt at recurring passes
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes the snowmelt start of the hunt, deer moving north in
+    spring and south in autumn along the same routes, and hunters waiting at the passes
+    during migration.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is an ethnographic hunting pattern, not a myth narrative in this
+    excerpt; the seasonal-cycle taxonomy reference is literal and should be reviewed.
+- id: motif:2
+  label: prey driven into water or unsafe ice
+  taxonomy_refs: []
+  basis: Several hunting methods depend on forcing deer or reindeer into water, onto
+    lake crossings, or onto treacherous ice where hunters can overtake or kill them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The pattern is well attested in the passage as practice, but its mythic
+    or symbolic status is not established here.
+- id: motif:3
+  label: decoy stones mistaken for hunters
+  taxonomy_refs: []
+  basis: The passage states that lines of cairns are erected to deceive deer into
+    thinking a new line of hunters is approaching.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a literal hunting tactic; any broader symbolic reading would require
+    evidence outside this passage.
+- id: motif:4
+  label: fabulous tribe associated with deer hunts in passes
+  taxonomy_refs: []
+  basis: The passage explicitly mentions a frequently told Eskimo tradition concerning
+    deer hunts of a fabulous tribe in the same kind of narrow passes.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The excerpt gives only a reference to the tradition and no narrative content,
+    figures, events, or motifs from that tradition.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the practical narrow-pass deer ambush to a frequently
+    told Eskimo tradition about deer hunts of a fabulous tribe in such passes.
+  claim_level: same_motif
+  target: nearby Eskimo tradition referenced by the author as “see p. 635”
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The referenced tradition is not included in this passage, so the comparison
+    cannot go beyond the shared deer-hunt-in-passes setting stated by the author.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4319-4324
+  quote_or_summary: After snowmelt and the approach of short summer, the Eskimo begin
+    deer hunting; summer is important because deerskins are fit for clothing then.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 4326-4335
+  quote_or_summary: A favorite method is attacking deer while they swim across ponds
+    or lakes; hunters wait in kayaks or drive herds along peninsulas until retreat
+    is cut off and the deer enter the water.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 4337-4343
+  quote_or_summary: Hunters erect a line of cairns, called inugsung, on a hill or
+    plain to deceive deer into thinking hunters approach from the opposite side, causing
+    them to take to the water.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 4345-4352
+  quote_or_summary: Once deer are in the water, hunters overtake them by kayak and
+    kill them with a spear called kapun; wounded deer may attack and damage or capsize
+    the boat.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: quote
+  locator: lines 4354-4358
+  quote_or_summary: In narrow valleys, deer are driven toward hunters in ambush; the
+    passage adds that “a remarkable tradition referring to the deer hunts of a fabulous
+    tribe in these passes” is frequently told.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:6
+  type: summary
+  locator: lines 4360-4377
+  quote_or_summary: The herds travel north in spring and south in autumn by the same
+    routes each year, passing rivers, lakes, and valleys at known deer passes where
+    hunters stay during migrations.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 4379-4390
+  quote_or_summary: Near Simpson Strait, reindeer gather on Ita Island; hunters make
+    noise on the icy bridge and drive them toward treacherous ice where they break
+    through and are easily killed.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:8
+  type: summary
+  locator: lines 4392-4394
+  quote_or_summary: When deer are scattered over the country, they are stalked; where
+    hunters lack firearms, bows and arrows are used.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+- id: ev:9
+  type: summary
+  locator: lines 4396-4417
+  quote_or_summary: The passage describes two kinds of bows, wooden and reindeer-antler,
+    and gives details of a wooden bow reinforced with bone and many sinew lines.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the excerpt is primarily ethnographic and contains only one undeveloped reference
+    to an oral tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external material was used. Taxonomy references are limited to the supplied available refs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4317-l4417
+  passage_sha256=887c8ed4b05a44680bbd195285760d3dee1c07e6fba675da890236dea2b53912
+

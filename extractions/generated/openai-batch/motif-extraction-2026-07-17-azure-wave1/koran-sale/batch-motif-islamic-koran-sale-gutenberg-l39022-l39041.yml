@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39022-l39041
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE STRIKING; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL
+    GOD. / CHAPTER CII. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39022-39041
+  start: '39022'
+  end: '39041'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: 'Verily ye shall see hell: again, ye shall surely see it with the eye of
+    certainty.'
+  summary: The passage warns that rivalry in multiplying riches and children distracts
+    people until death; it says they will later know their folly, see hell with certainty,
+    and be examined concerning the pleasures of worldly life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The addressed audience is described as occupied by an emulous desire to multiply
+    riches and children.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: This occupation continues until the addressed audience visits the graves.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage repeatedly states that the audience will later know their folly.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the audience will see hell, and then surely see it with the
+    eye of certainty.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the audience will be examined on that day concerning pleasures
+    with which they amused themselves in this life.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: addressed audience
+  description: The plural audience addressed as those occupied by the desire to multiply
+    riches and children.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the Most Merciful God
+  description: God is invoked at the opening formula of the chapter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: worldly strivers
+  assigned_to:
+  - fig:1
+  basis: They are described as employed by desire for multiplying riches and children.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: future examinees
+  assigned_to:
+  - fig:1
+  basis: They are told they will be examined on that day concerning pleasures of this
+    life.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: invoked deity
+  assigned_to:
+  - fig:2
+  basis: The chapter opens in the name of the Most Merciful God.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: riches and children
+  literal_form: riches and children desired in multiplication
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: graves
+  literal_form: the graves visited by the addressed audience
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hell
+  literal_form: hell seen with the eye of certainty
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: worldly pleasures
+  literal_form: pleasures with which the audience amused themselves in this life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: preoccupation until the graves
+  summary: The audience is portrayed as occupied by rivalry in multiplying riches
+    and children until they visit the graves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: warning of future knowledge
+  summary: The audience is warned that they will later know their folly and that certain
+    knowledge would change their conduct.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: vision of hell and examination
+  summary: The audience is told they will see hell with certainty and then be examined
+    concerning pleasures enjoyed in this life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: worldly desire followed by death and accountability
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts preoccupation with riches, children, and pleasures
+    in this life with later examination on that day.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The examiner is not explicitly named in the selected lines; the judgment
+    motif is inferred from the stated examination and the chapter's religious context.
+- id: motif:2
+  label: certain vision of hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The audience is told they will see hell, and surely see it with the eye of
+    certainty.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions seeing hell but gives no descriptive imagery of hell
+    in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 39028-39029
+  quote_or_summary: "“THE emulous desire of multiplying riches and children employeth
+    you, until ye visit the graves.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 39030-39034
+  quote_or_summary: The passage repeatedly warns that the audience will later know
+    their folly and says certainty of knowledge would prevent such conduct.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 39035-39036
+  quote_or_summary: "“Verily ye shall see hell: again, ye shall surely see it with
+    the eye of certainty.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 39037-39038
+  quote_or_summary: The audience will be examined on that day concerning the pleasures
+    with which they amused themselves in this life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 39026-39026
+  quote_or_summary: "“IN THE NAME OF THE MOST MERCIFUL GOD.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif assignment to divine
+    judgment is supported by the stated examination and vision of hell, while details
+    of judge, procedure, and afterlife geography are not supplied in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another motif family, text, pattern, or tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39022-l39041
+  passage_sha256=5b0387455425f8f69eb49bd29719376559bac7630b6304341d58a2d838a425c7
+

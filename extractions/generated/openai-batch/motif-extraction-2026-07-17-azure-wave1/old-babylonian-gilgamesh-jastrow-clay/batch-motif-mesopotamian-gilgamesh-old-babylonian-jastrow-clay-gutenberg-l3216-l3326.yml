@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l3216-l3326
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION. / COMMENTARY ON THE
+    PENNSYLVANIA TABLET.; lines 3216-3326
+  start: '3216'
+  end: '3326'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is commentary on damaged lines of the Pennsylvania tablet.
+    It reconstructs an episode in which Gish/Gilgamesh goes at night toward the goddess
+    Ishhara in a family house, Enkidu blocks him at the street and gate, and the two
+    heroes fight, with Gish worsted. The commentary compares the episode and details
+    such as Enkidu's hair, the gate, and Gilgamesh's kneeling with Assyrian-version
+    passages and seal-cylinder imagery, while stressing that the meaning of the episode
+    remains unclear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary says lines 180-182 likely contained a description of Enkidu's
+    resemblance to Gish, but the text is too mutilated for certain restoration.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Line 183 is restored on the basis of an Assyrian-version description of Enkidu
+    as one whose power is strong in the land.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The commentary identifies a new episode beginning at line 192 that leads to
+    a hostile encounter between Gish and Enkidu.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gish is reconstructed as proceeding stealthily at night toward the goddess
+    Ishhara, who lies on a couch in a family house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Enkidu encounters Gish in the street and blocks his path.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Enkidu puts his foot in the gate leading to the house where the goddess is
+    and prevents Gish from entering.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:7
+  text: Gish and Enkidu have a fierce encounter, and Gish is worsted.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentary states that the meaning of the episode is unclear and frames
+    possible explanations as questions.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Enkidu's hair is described through comparison with wheat, and another Assyrian
+    passage is said to refer to his flowing hair.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Assyrian version is said to show that the gate in the Pennsylvania tablet
+    is the gate of the family house where Ishhara lies.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The detailed description of the fight between the two heroes is said to be
+    only partly preserved in the Assyrian version.
+  category: other
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Gilgamesh is noted as often represented kneeling on seal cylinders, and another
+    Assyrian-version passage describes him kneeling in prayer.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The commentary corrects a reading to 'his anger' and notes a verb used for
+    the cessation of anger.
+  category: other
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Gish / Gilgamesh
+  description: Hero who proceeds at night toward Ishhara's house, is blocked by Enkidu,
+    fights Enkidu, is worsted, and is elsewhere discussed as kneeling and as godlike
+    in the commentary.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:10
+  - ev:12
+- id: fig:2
+  name_or_label: Enkidu
+  description: Figure resembling Gish, described as powerful, with hair compared to
+    wheat; he blocks Gish at the street and gate and fights him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Ishhara
+  description: Goddess lying on a couch in the family house; the commentary questions
+    whether she is Gish's spouse or the object of a contest.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: combatant hero
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The commentary says the two heroes have a fierce hostile encounter.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+- id: role:2
+  label: night approacher toward the goddess's house
+  assigned_to:
+  - fig:1
+  basis: Gish proceeds stealthily at night toward Ishhara, who lies in the family
+    house.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: threshold blocker
+  assigned_to:
+  - fig:2
+  basis: Enkidu blocks Gish's path and puts his foot in the gate to prevent entry.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:4
+  label: goddess in the family house
+  assigned_to:
+  - fig:3
+  basis: Ishhara is described as lying on a couch in the family house.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:5
+  label: questioned spouse or object of rivalry
+  assigned_to:
+  - fig:3
+  basis: The commentary explicitly asks whether Enkidu seeks to deprive Gish of his
+    spouse Ishhara or whether the heroes contest possession of a goddess.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: godlike figure in commentary
+  assigned_to:
+  - fig:1
+  basis: The commentary discusses line 190 as 'God' and later says Gish is here viewed
+    as a god or 'like a god.'
+  evidence_refs:
+  - ev:6
+  - ev:12
+symbols:
+- id: sym:1
+  label: blocked gate / threshold
+  literal_form: The gate of the family house, blocked by Enkidu's foot to prevent
+    Gish from entering.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: couch in the family house
+  literal_form: A couch on which the goddess Ishhara lies inside the family house.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hair like wheat
+  literal_form: Enkidu's hair described as sprouting like wheat, with a related reference
+    to flowing hair.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: kneeling posture
+  literal_form: Gilgamesh represented as kneeling on seal cylinders and described
+    as kneeling in prayer in an Assyrian passage.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Damaged resemblance and power prelude
+  summary: The commentary reports that damaged lines likely described Enkidu's resemblance
+    to Gish, and that a following line may describe Enkidu's strong power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Night approach to Ishhara
+  summary: Gish proceeds stealthily at night toward Ishhara, who lies on a couch in
+    the family house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Enkidu blocks the gate
+  summary: Enkidu meets Gish in the street, blocks his path, places his foot in the
+    gate, and prevents him from entering the house where Ishhara lies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: scene:4
+  label: Fierce fight and Gish worsted
+  summary: The two heroes fight fiercely; the commentary says Gish is worsted and
+    notes that the fuller fight description is only partly preserved in the Assyrian
+    version.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Hostile encounter between counterpart heroes
+  taxonomy_refs:
+  - duality
+  basis: The commentary presents Gish and Enkidu as two heroes, notes Enkidu's resemblance
+    to Gish, and describes their fierce hostile encounter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The counterpart interpretation is framed partly as an unresolved question,
+    and the underlying lines are damaged.
+- id: motif:2
+  label: Blocked threshold preventing access to a goddess
+  taxonomy_refs: []
+  basis: Enkidu blocks Gish in the street and at the gate of the family house where
+    Ishhara lies, preventing entry.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: This is a literal scene pattern; the passage does not establish a broader
+    mythic meaning for the gate.
+- id: motif:3
+  label: Possible contest over a goddess or spouse
+  taxonomy_refs:
+  - divine_beloved
+  - stolen_beloved
+  basis: The commentary asks whether Enkidu intends to deprive Gish of his spouse
+    Ishhara or whether the two heroes contest possession of a goddess.
+  evidence_refs:
+  - ev:6
+  confidence: uncertain
+  cautions: The passage explicitly says the meaning of the episode is not clear and
+    states these explanations only as questions.
+- id: motif:4
+  label: Heroic kneeling image
+  taxonomy_refs: []
+  basis: The commentary links Gilgamesh in line 227 with kneeling representations
+    on seal cylinders and with an Assyrian passage where he kneels in prayer.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The kneeling comparison is iconographic and textual; its function in the
+    fight scene is not fully explained here.
+comparison_claims:
+- id: claim:1
+  claim: The commentary treats the Pennsylvania tablet's hostile-encounter episode
+    as corresponding to the Assyrian version, Tablet IV, column 2, lines 44-50, though
+    the Assyrian passage is a briefer repeated summary.
+  claim_level: same_motif
+  target: Assyrian version of the Gilgamesh Epic, Tablet IV, column 2, lines 44-50
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is based on the commentator's reconstruction; the Assyrian
+    passage is described as shorter and summary-like.
+- id: claim:2
+  claim: The commentary says Pennsylvania lines 197-200 appear to correspond to Assyrian
+    version Tablet IV, column 2, lines 35-37, but not as a complete parallel.
+  claim_level: linguistic_similarity
+  target: Assyrian version of the Gilgamesh Epic, Tablet IV, column 2, lines 35-37
+  evidence_refs:
+  - ev:13
+  counter_evidence_refs:
+  - ev:13
+  confidence: medium
+  limitations: The passage itself qualifies the parallel as incomplete.
+- id: claim:3
+  claim: The commentary says Pennsylvania lines 215-217 correspond almost entirely
+    to Assyrian version Tablet IV, column 2, lines 46-48, including the gate of the
+    family house where Ishhara lies.
+  claim_level: same_motif
+  target: Assyrian version of the Gilgamesh Epic, Tablet IV, column 2, lines 46-48
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: high
+  limitations: The passage notes slight variations between the versions.
+- id: claim:4
+  claim: The commentary compares Enkidu's hair description with Assyrian version Tablet
+    I, column 2, line 37, and another Assyrian reference to Enkidu's flowing hair.
+  claim_level: visual_similarity
+  target: Assyrian version of the Gilgamesh Epic, Tablet I, column 2, line 37, and
+    Tablet IV, column 4, line 6
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns a descriptive image rather than the whole episode.
+- id: claim:5
+  claim: The commentary compares Gilgamesh's kneeling in this passage with kneeling
+    depictions on seal cylinders and with an Assyrian-version passage where he kneels
+    in prayer.
+  claim_level: visual_similarity
+  target: Seal-cylinder depictions and Assyrian version of the Gilgamesh Epic, Tablet
+    V, column 3, line 6
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs:
+  - ev:10
+  confidence: medium
+  limitations: The Assyrian-version example is specifically kneeling in prayer, so
+    the scene function may differ.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Commentary on Pennsylvania tablet lines 180-183 within source lines 3216-3326
+  quote_or_summary: Lines 180-182 likely described Enkidu's resemblance to Gish but
+    are too mutilated; line 183 is restored from the Assyrian version as a description
+    of Enkidu's strong power in the land.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Commentary on Pennsylvania tablet line 192 within source lines 3216-3326
+  quote_or_summary: A new episode begins at line 192 and leads to the hostile encounter
+    between Gish and Enkidu; the commentary relates it to Assyrian version Tablet
+    IV, column 2, lines 44-50, in briefer summary form.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Commentary on Pennsylvania tablet line 192 and Assyrian version Tablet
+    IV, 2.46-48 within source lines 3216-3326
+  quote_or_summary: Gish proceeds stealthily at night to the goddess Ishhara, who
+    lies on a couch in the family house.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Commentary on Pennsylvania tablet line 192 episode within source lines
+    3216-3326
+  quote_or_summary: Enkidu encounters Gish in the street, blocks his path, places
+    his foot in the gate leading to the house, and prevents Gish from entering.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Commentary on Pennsylvania tablet line 192 episode within source lines
+    3216-3326
+  quote_or_summary: The two heroes have a fierce encounter in which Gish is worsted.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Interpretive questions in commentary on Pennsylvania tablet line 192 within
+    source lines 3216-3326
+  quote_or_summary: The commentary says the meaning is unclear and asks whether Enkidu
+    seeks to deprive godlike Gish of his spouse Ishhara, or whether two counterpart
+    heroes contest possession of a goddess.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: Commentary on Pennsylvania tablet line 211 within source lines 3216-3326
+  quote_or_summary: '"The form of his hair sprouted like wheat"; the commentary identifies
+    this as a description of Enkidu and notes another Assyrian reference to his flowing
+    hair.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: Commentary on Pennsylvania tablet lines 215-217 within source lines 3216-3326
+  quote_or_summary: Lines 215-217 correspond almost entirely to Assyrian version IV,
+    2, 46-48; the Assyrian version shows that the gate is the gate of the family house
+    in which Ishhara lies, with slight variations noted.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Commentary on Pennsylvania tablet lines 218-228 within source lines 3216-3326
+  quote_or_summary: The detailed fight between the two heroes is only partially preserved
+    in the Assyrian version.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: Commentary on Pennsylvania tablet line 227 within source lines 3216-3326
+  quote_or_summary: Gilgamesh is often represented kneeling on seal cylinders; another
+    Assyrian-version passage describes him kneeling in prayer.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: Commentary on Pennsylvania tablet lines 229-231 within source lines 3216-3326
+  quote_or_summary: The commentary corrects a reading to 'his anger' and identifies
+    a verb used for the cessation of anger.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: Commentary on Pennsylvania tablet line 190 within source lines 3216-3326
+  quote_or_summary: The commentary says i-li-im in line 190 is used like 'God' and
+    later refers to Gish here as viewed as a god or 'like a god.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: Commentary on Pennsylvania tablet lines 197-200 within source lines 3216-3326
+  quote_or_summary: Lines 197-200 appear to correspond to Assyrian version Tablet
+    IV, column 2, lines 35-37, though they do not form a complete parallel.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The commentary provides useful reconstruction and explicit comparisons, but
+    several underlying tablet lines are damaged and the meaning of the episode is
+    explicitly uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Literal observations are separated from candidate motif interpretations.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l3216-l3326
+  passage_sha256=624cb8ae5e7f2f99ae4b32198b867be1dc4749c300a04290ec3a00f7f244ff6d
+

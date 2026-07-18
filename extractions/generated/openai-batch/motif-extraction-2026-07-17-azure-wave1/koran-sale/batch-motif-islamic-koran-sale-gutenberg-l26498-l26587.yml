@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l26498-l26587
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE TRUE BELIEVERS; REVEALED AT MECCA. / IN THE NAME OF THE MOST
+    MERCIFUL GOD. / CHAPTER XXIV. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 26498-26587
+  start: '26498'
+  end: '26587'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: GOD is the light of heaven and earth
+  summary: The supplied range begins with translator notes on modesty, adornment,
+    ankle ornaments, slaves, manumission, and coerced prostitution. The translated
+    verses then present revealed signs and admonition, a parable of God as light using
+    a niche, lamp, glass, shining star, blessed olive tree oil, and fire, praise in
+    houses raised for God's name, reward for undistracted worshippers, and a mirage-like
+    image for unbelievers' works before divine accounting.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary discusses concealment of women's adornment and body, exceptions
+    for specified relations or social categories, and related questions about slaves,
+    servants, and women of different religious status.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary identifies ankle rings as ornaments that can be shaken to make
+    a sound, and it notes a comparison to Isaiah's reproof of Jewish ladies' tinkling
+    foot ornaments.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The translated verse says evident signs, histories like those of earlier people,
+    and an admonition for the pious have been revealed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God is described as the light of heaven and earth through a parable involving
+    a wall niche, lamp, glass, shining star, blessed olive tree oil, and fire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says God directs whom he pleases to his light and propounds parables
+    to men.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Men praise God morning and evening in houses permitted to be raised, and merchandising
+    or selling does not divert them from remembrance, prayer, and almsgiving.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The worshippers fear a day when hearts and eyes will be troubled, and God
+    will recompense and reward them abundantly.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The works of unbelievers are compared to vapor in a plain that a thirsty traveler
+    mistakes for water; on arriving, he finds nothing, but finds God, who pays his
+    account.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: Named as the light of heaven and earth, director to his light, giver
+    of recompense, and swift taker of account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Pious worshippers / men praising in the houses
+  description: The pious receive admonition; men in raised houses praise God morning
+    and evening and are not diverted by trade from remembrance, prayer, and alms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Unbelievers
+  description: Their works are likened to vapor or mirage in a plain, and they receive
+    a full account from God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Thirsty traveller
+  description: A figure in the simile who thinks the vapor in a plain is water, comes
+    to it, and finds it to be nothing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Divine source of light and judge
+  assigned_to:
+  - fig:1
+  basis: God is named as light, directs whom he pleases to light, recompenses deeds,
+    and pays accounts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Devout worshippers
+  assigned_to:
+  - fig:2
+  basis: They remember God, pray, give alms, praise morning and evening, and receive
+    recompense.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Objects of negative judgment
+  assigned_to:
+  - fig:3
+  basis: Their works are compared to an illusory vapor, and God fully pays their account.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: Parabolic seeker of water
+  assigned_to:
+  - fig:4
+  basis: The traveller is thirsty, mistakes vapor for water, and finds nothing when
+    he reaches it.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Divine light
+  literal_form: Light of heaven and earth; light added unto light.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Lamp in niche and glass
+  literal_form: A niche in a wall containing a lamp enclosed in glass, with the glass
+    appearing like a shining star.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Blessed olive tree and oil
+  literal_form: Oil of a blessed olive tree, neither of the east nor of the west,
+    almost giving light by itself.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Fire absent from self-luminous oil
+  literal_form: The oil would almost give light although no fire touched it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Raised houses of praise
+  literal_form: Houses permitted by God to be raised, where his name is commemorated
+    and praise is celebrated morning and evening.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Troubled day and account
+  literal_form: A day when men's hearts and eyes are troubled, followed by recompense,
+    reward, and account.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: Illusory water in the plain
+  literal_form: Vapor in a plain that a thirsty traveler thinks is water, but finds
+    to be nothing.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Tinkling ankle rings
+  literal_form: Rings worn about women's ankles, usually gold or silver, shaken to
+    make a tinkling sound.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Revealed signs and admonitory histories
+  summary: The passage states that evident signs, histories like those of earlier
+    people, and an admonition for the pious have been revealed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Parable of divine light
+  summary: God's light is compared to a lamp in a niche, glass like a shining star,
+    and oil from a blessed olive tree that nearly shines without fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Praise in raised houses and abundant reward
+  summary: Men in houses raised for God's name praise morning and evening, are not
+    diverted by trade from prayer and alms, fear the troubled day, and receive recompense
+    and reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Mirage of unbelievers' works
+  summary: Unbelievers' works are likened to vapor that a thirsty traveler mistakes
+    for water; when he arrives he finds nothing, but finds God, who pays the account.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine light parable
+  taxonomy_refs: []
+  basis: The passage explicitly frames God's light through layered images of light,
+    lamp, niche, glass, star, olive oil, and fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No exact supplied motif-family taxonomy ref corresponds to the divine-light
+    image; extraction remains at passage level.
+- id: motif:2
+  label: Blessed tree and self-luminous oil
+  taxonomy_refs: []
+  basis: The light parable includes oil from a blessed olive tree, neither eastern
+    nor western, nearly giving light without fire.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the tree within a simile; it does not describe a
+    world axis or cosmic tree function.
+- id: motif:3
+  label: Devotion in consecrated houses despite commerce
+  taxonomy_refs: []
+  basis: Raised houses commemorate God's name, and worshippers are not diverted by
+    buying or selling from remembrance, prayer, and almsgiving.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a devotional pattern rather than a narrative mythic episode.
+- id: motif:4
+  label: Divine recompense and accounting
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes fear of a troubling day, recompense according to deeds,
+    abundant reward, and God swiftly paying the unbelievers' account.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives judgment imagery but does not provide an extended afterlife
+    itinerary.
+- id: motif:5
+  label: Illusory water as image of futile works
+  taxonomy_refs: []
+  basis: Unbelievers' works are compared to vapor in a plain that a thirsty traveler
+    believes to be water, only to find nothing.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The image is explicitly a simile for works, not a literal travel narrative.
+- id: motif:6
+  label: Revelation as signs, parables, and admonitory history
+  taxonomy_refs:
+  - wisdom
+  basis: The passage refers to revealed evident signs, histories like those of earlier
+    people, admonition for the pious, and divine parables propounded to men.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The supplied taxonomy ref 'wisdom' is broad; the passage does not name
+    a specific wisdom figure or school.
+comparison_claims:
+- id: claim:1
+  claim: Sale's note explicitly compares the tinkling of ankle rings with Isaiah's
+    reproof of Jewish ladies' foot ornaments, supporting a cautious same-function
+    comparison of ostentatious ornamentation as moral admonition.
+  claim_level: same_function
+  target: Isaiah iii.16 and 18 as cited in the passage note
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is in translator commentary, not in the main translated
+    verse; the Isaiah passage itself is not supplied beyond citation and brief description.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26498-26555
+  quote_or_summary: Translator notes discuss women's adornment and bodily concealment,
+    permitted exceptions, slaves and servants, ankle rings that tinkle, an Isaiah
+    comparison, manumission, and coerced prostitution of women-slaves as occasion
+    for revelation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states rights_status public_domain and
+    full_text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 26562-26564
+  quote_or_summary: '"we revealed unto you evident signs, and a history like unto
+    some of the histories of those who have gone before you, and an admonition unto
+    the pious."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states rights_status public_domain and
+    full_text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 26565-26570
+  quote_or_summary: God is called the light of heaven and earth; his light is compared
+    to a niche with a lamp, glass like a shining star, and oil from a blessed olive
+    tree that almost gives light without fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states rights_status public_domain and
+    full_text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 26570-26572
+  quote_or_summary: '"This is light added unto light"; God directs whom he pleases
+    to his light and propounds parables to men.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states rights_status public_domain and
+    full_text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 26573-26577
+  quote_or_summary: In houses God permits to be raised, his name is commemorated;
+    men praise morning and evening and are not diverted by merchandising or selling
+    from remembrance, prayer, alms, and fear of the troubling day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states rights_status public_domain and
+    full_text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 26578-26580
+  quote_or_summary: God recompenses worshippers according to their works, adds a more
+    excellent reward, and bestows without measure on whom he pleases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states rights_status public_domain and
+    full_text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 26581-26587
+  quote_or_summary: Unbelievers' works are compared to vapor in a plain that a thirsty
+    traveler thinks is water; when he arrives he finds it nothing, but finds God,
+    who pays his account swiftly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states rights_status public_domain and
+    full_text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The central translated verses are clear, but the supplied range also includes
+    translator notes from preceding material; line subranges are approximate within
+    the supplied stable range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy refs were limited to available refs and applied only where directly supported.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l26498-l26587
+  passage_sha256=9d57da9b054e45d02c3d5cd22546462d2492b00351c338d617f179ddf5339084
+

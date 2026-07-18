@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2731-l2747
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: WHY HAS JACKAL A LONG BLACK STRIPE ON HIS BACK? / HORSE CURSED BY SUN / LION'S
+    DEFEAT / THE ORIGIN OF DEATH; lines 2731-2747
+  start: '2731'
+  end: '2747'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“As I die, and dying live, so ye shall also die, and dying live.”"
+  summary: The Moon sends an Insect to tell Men that they will die and live again
+    as the Moon does. The Hare overtakes the Insect, takes the errand, and tells Men
+    instead that they will die and come wholly to an end. When the Hare reports this
+    to the Moon, the Moon angrily strikes him with a piece of wood, explaining why
+    the Hare's nose is slit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Moon sends an Insect to Men with a message that Men will die and live
+    again as the Moon does.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Insect starts with the message and is overtaken on the way by the Hare.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Hare asks the Insect what errand he is bound on, and the Insect repeats
+    the Moon's message to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Hare says the Insect is an awkward runner and asks to go in his place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The Hare reaches Men and gives a different message: that they will die and
+    come wholly to an end.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Hare returns to the Moon and tells her what he said to Men.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Moon reproaches the Hare for telling people something she had not said.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Moon strikes the Hare on the nose with a piece of wood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that since that day the Hare's nose is slit.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: Personified Moon who sends the original message to Men and later punishes
+    the Hare.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Insect
+  description: Messenger sent by the Moon to carry the original message to Men; overtaken
+    by the Hare on the way.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Men
+  description: Human recipients for whom the Moon's message is intended and to whom
+    the Hare delivers the altered message.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Hare
+  description: Animal figure who overtakes the Insect, takes the errand, changes the
+    message to Men, and is struck by the Moon; the passage says his nose is slit since
+    then.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: sender of original message
+  assigned_to:
+  - fig:1
+  basis: The Moon sends the Insect to Men with the death-and-renewal message.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: original messenger
+  assigned_to:
+  - fig:2
+  basis: The Insect is sent by the Moon and starts with the message.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: human recipients
+  assigned_to:
+  - fig:3
+  basis: Men are the intended audience of the Moon's message and receive the Hare's
+    altered message.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: substitute messenger who changes the message
+  assigned_to:
+  - fig:4
+  basis: The Hare takes over the errand from the Insect and tells Men a different
+    message of final death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: punisher of false message
+  assigned_to:
+  - fig:1
+  basis: The Moon reproaches the Hare for saying what she had not said and strikes
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: recipient of punishment
+  assigned_to:
+  - fig:4
+  basis: The Hare is struck on the nose and is said to have a slit nose from that
+    day.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Moon's dying-and-living pattern
+  literal_form: The Moon says, “As I die, and dying live.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - death_rebirth
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: message of final death
+  literal_form: The Hare's wording says Men shall die and come wholly to an end.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: piece of wood used in punishment
+  literal_form: A piece of wood taken up by the Moon to strike the Hare on the nose.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: slit nose of the Hare
+  literal_form: The Hare's nose is slit from that day.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Moon commissions Insect
+  summary: The Moon sends the Insect to tell Men that, like the Moon, they will die
+    and live again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hare intercepts the messenger
+  summary: The Hare overtakes the Insect, asks about the errand, hears the message,
+    and offers to go because the Insect is an awkward runner.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hare delivers altered message
+  summary: The Hare reaches Men and tells them that they will die and come wholly
+    to an end.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Moon punishes Hare
+  summary: The Hare reports his words to the Moon; the Moon rebukes him, strikes him
+    on the nose with wood, and the passage explains the Hare's slit nose.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: failed death-and-renewal message creates mortality
+  taxonomy_refs:
+  - death_rebirth
+  basis: The Moon's intended message promises dying and living again, but the Hare
+    tells Men instead that they will die and come wholly to an end.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference captures the explicit death-and-renewal formula;
+    the passage also emphasizes the failure or corruption of that message.
+- id: motif:2
+  label: animal messenger alters a celestial message
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Hare takes over the Insect's errand and delivers a message different
+    from the Moon's original wording.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows message alteration but does not state the Hare's motive
+    or explicitly call the Hare a trickster.
+- id: motif:3
+  label: etiological animal mark from punishment
+  taxonomy_refs: []
+  basis: The Moon strikes the Hare's nose after the false message, and the passage
+    concludes that the Hare's nose has been slit since that day.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches this etiological animal-feature
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2731-2747
+  quote_or_summary: 'The Moon sends an Insect to Men, saying: “As I die, and dying
+    live, so ye shall also die, and dying live.”'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: 2731-2747
+  quote_or_summary: The Insect starts with the message, is overtaken by the Hare,
+    tells the Hare the errand, and the Hare says that because the Insect is an awkward
+    runner, he should go instead.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: quote
+  locator: 2731-2747
+  quote_or_summary: 'The Hare tells Men: “As I die, and dying perish, in the same
+    manner ye shall also die and come wholly to an end.”'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:4
+  type: summary
+  locator: 2731-2747
+  quote_or_summary: The Hare returns to the Moon and reports what he said; the Moon
+    angrily asks how he dared tell the people something she had not said.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: quote
+  locator: 2731-2747
+  quote_or_summary: The Moon takes up a piece of wood and strikes the Hare on the
+    nose; “Since that day the Hare's nose is slit.”
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the provided passage. Motif candidates are
+    strong at the passage level, but available taxonomy references only partially
+    match the specific origin-of-death and etiological-animal-feature patterns. No
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unprovided comparative parallels were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2731-l2747
+  passage_sha256=00541389f4558670658e86faba0c6c1dcb5f4a134488f34979c7127578758682
+

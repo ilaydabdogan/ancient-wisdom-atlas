@@ -1,0 +1,463 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l1896-l1958
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: II. MISCELLANEOUS TALES / XIX. OHIA AND THE THIEVING DEER / XX. HOW THE TORTOISE
+    GOT ITS SHELL / XXI. THE HUNTER AND THE TORTOISE; lines 1896-1958
+  start: '1896'
+  end: '1958'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“It is man who forces himself on things, / Not things which force themselves
+    on him.”"
+  summary: A hunter hears a tortoise singing and playing a harp in the forest. He
+    takes her home under the condition that she will sing only to him, but he tells
+    others and boasts before the Assembly. When he brings her to perform publicly,
+    she remains silent; the hunter is executed under his wager. Afterward the tortoise
+    speaks and explains that his punishment came from exposing a secret that did not
+    concern him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A village hunter goes farther than usual into an unfamiliar part of the forest
+    and hears a voice singing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song states that man forces himself on things, not that things force themselves
+    on man.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: The hunter sees that the singer is a tortoise with a tiny harp slung in front
+    of her.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hunter repeatedly returns to listen to the tortoise and persuades her
+    to come to his hut.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tortoise permits the hunter to carry her home only on the understanding
+    that she sings to him alone.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The hunter tells the secret because he wants to show off the tortoise and
+    gain honour.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The chief commands the hunter to tell his tale before the Assembly, where
+    the people refuse to believe him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The hunter stakes his life on bringing the tortoise to perform before the
+    Assembly the next day.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The hunter brings the tortoise and harp to the Assembly Place, but the tortoise
+    remains mute for hours.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: At nightfall, after the tortoise has not performed, the hunter is beheaded.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Immediately after the hunter is beheaded, the tortoise speaks and the people
+    realize the hunter had spoken truth.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The tortoise says the hunter brought punishment on himself by telling her
+    secret and trying to make a show of her.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: village hunter
+  description: A hunter who discovers the singing tortoise, carries her home, reveals
+    her secret, wagers his life, and is beheaded.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: tortoise with a tiny harp
+  description: A tortoise who sings in the forest, carries a tiny harp, agrees to
+    sing only to the hunter, remains mute before the Assembly, and later explains
+    the hunter’s punishment.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: the chief
+  description: The chief hears of the hunter’s claim and commands him to speak before
+    the Assembly.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the people at the Assembly
+  description: The people reject the hunter’s claim, agree to the wager, wait for
+    the tortoise to sing, scorn the hunter, and later recognize that they killed him
+    though he spoke truth.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: forest listener
+  assigned_to:
+  - fig:1
+  basis: The hunter hears the tortoise’s song in an unfamiliar forest and returns
+    repeatedly to listen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: secret-discloser and would-be exhibitor
+  assigned_to:
+  - fig:1
+  basis: He tells the tortoise’s secret because he wants to show her off and gain
+    honour.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: condemned wagerer
+  assigned_to:
+  - fig:1
+  basis: He offers his life if the tortoise cannot perform publicly and is later beheaded.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: marvellous singing animal
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the singer as a tortoise with a tiny harp and calls
+    the sight marvellous.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: keeper of a private condition
+  assigned_to:
+  - fig:2
+  basis: She allows the hunter to take her home only if she sings to him alone, then
+    remains mute when displayed publicly.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: moral explainer
+  assigned_to:
+  - fig:2
+  basis: After the execution, she explains that the hunter caused his punishment by
+    exposing her secret and repeats the song.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: summoning authority
+  assigned_to:
+  - fig:3
+  basis: The chief commands the hunter to come before the Assembly and tell his tale.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: skeptical audience
+  assigned_to:
+  - fig:4
+  basis: The people shout in scorn and refuse to believe the hunter’s account.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:9
+  label: participants in the wager and execution
+  assigned_to:
+  - fig:4
+  basis: They accept the wager and later say they killed the hunter after learning
+    he spoke truth.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: tiny harp
+  literal_form: a tiny harp slung in front of the tortoise
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: repeated song refrain
+  literal_form: the sung statement that man forces himself on things rather than things
+    forcing themselves on man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: unfamiliar forest place
+  literal_form: a part of the forest with which the hunter was unacquainted
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Assembly Place table
+  literal_form: a table set at the Assembly Place for the tortoise’s public performance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: hearing the forest song
+  summary: The hunter enters an unfamiliar forest area, hears singing accompanied
+    by sweet music, and listens to the refrain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: discovery and private condition
+  summary: The hunter discovers that the singer is a tortoise with a tiny harp and
+    later persuades her to come to his hut, where she will sing only to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: secret told before the Assembly
+  summary: The hunter reveals the secret, seeks honour, is summoned by the chief,
+    and faces disbelief from the Assembly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: life wager and failed public performance
+  summary: The hunter wagers his life on the tortoise’s ability to perform, brings
+    her and the harp to the Assembly Place, and fails to make her sing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: execution and explanation
+  summary: At nightfall the hunter is beheaded; the tortoise then speaks, the people
+    realize he told the truth, and the tortoise explains that he caused his punishment
+    by exposing her secret.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: marvellous animal musician
+  taxonomy_refs: []
+  basis: A tortoise sings a refrain in the forest while carrying and playing a tiny
+    harp.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes the animal performer plainly but does not name a
+    formal motif type.
+- id: motif:2
+  label: violated private secret brings punishment
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The tortoise agrees to sing only for the hunter; he reveals her secret and
+    is killed after attempting to make her perform publicly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The secret is a private condition rather than explicitly sacred or forbidden
+    knowledge; taxonomy fit is approximate.
+- id: motif:3
+  label: fatal boast or wager of truth
+  taxonomy_refs: []
+  basis: The hunter says he may be killed if the tortoise cannot do as he claims,
+    and he is beheaded when she remains silent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this motif.
+- id: motif:4
+  label: moral refrain about human intrusion
+  taxonomy_refs:
+  - wisdom
+  basis: The tortoise’s song is repeated at the beginning and end, and her explanation
+    applies it to the hunter’s conduct.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The wisdom classification is based on the explicit moralizing refrain
+    and explanation.
+- id: motif:5
+  label: boundary-enforcing animal silence
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The tortoise’s refusal to perform before the Assembly enforces the condition
+    that she sing only to the hunter and exposes his transgression.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly call the tortoise a trickster; the taxonomy
+    reference should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1896-1905
+  quote_or_summary: The hunter enters an unfamiliar forest area, hears a voice singing
+    the refrain about man forcing himself on things, and is charmed by sweet music.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1906-1915
+  quote_or_summary: The hunter sees that the singer is a tortoise with a tiny harp,
+    repeatedly returns to listen, and persuades her to come to his hut on the condition
+    that she sings to him alone.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1916-1924
+  quote_or_summary: Wanting to show off the tortoise and gain honour, the hunter tells
+    the secret until it reaches the chief; before the Assembly the people scorn and
+    disbelieve his claim.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1925-1931
+  quote_or_summary: The hunter offers that he may be killed if the tortoise cannot
+    perform; the people agree that if she can perform he may punish them as he chooses.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1932-1941
+  quote_or_summary: The hunter brings the tortoise and harp to the Assembly Place,
+    where a table is ready; the tortoise remains mute despite hours of waiting and
+    the hunter’s attempts to coax her.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1942-1947
+  quote_or_summary: At sunset the hunter is beheaded; immediately afterward the tortoise
+    speaks, and the people say that he spoke truth and they have killed him.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 1948-1958
+  quote_or_summary: The tortoise says the hunter brought punishment on himself by
+    telling her secret and trying to make a show of her, then repeats the refrain
+    about man forcing himself on things.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short summary of public domain passage used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and figures are clear. Motif taxonomy assignments, especially
+    forbidden_knowledge and trickster_boundary, are interpretive and should be reviewed.
+    No comparison claims are made because the passage itself does not compare the
+    tale to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the available lists.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l1896-l1958
+  passage_sha256=25dcb58b20924696bcccc06e4d1167fa45fe7ad2defc16b653bd0260f3a8d92b
+

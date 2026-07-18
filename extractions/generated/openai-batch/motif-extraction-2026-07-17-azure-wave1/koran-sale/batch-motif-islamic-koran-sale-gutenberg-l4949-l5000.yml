@@ -1,0 +1,584 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l4949-l5000
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 4949-5000
+  start: '4949'
+  end: '5000'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes pleasures of paradise, especially instant fruition,
+    music, praising trees, jewel-like trees, degrees of felicity, and the highest
+    reward of beholding God's face. It then presents comparisons between the described
+    paradise and Jewish or Edenic traditions, including heavenly gardens, gates, rivers,
+    and mythic beasts prepared for the blessed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A crop sown in the described setting is said to spring up and mature in a
+    moment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Auditory delight in paradise includes the songs of the angel Israfl, the daughters
+    of paradise, praising trees, bells moved by wind from God's throne, and the clashing
+    of golden-bodied trees.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The trees are described as golden-bodied and as bearing fruits of pearls and
+    emeralds.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The described delights are said to be common to all inhabitants of paradise,
+    including those of the lowest order, while higher degrees receive additional felicity.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mohammed is reported as saying that the meanest inhabitant of paradise will
+    see possessions extending over the space of a thousand years' journey.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The person in the highest honour with God is said to behold God's face morning
+    and evening.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Al Ghazali is said to interpret this divine vision as an additional or superabundant
+    recompense that makes other paradisal pleasures seem negligible.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The commentator says this passage demonstrates that spiritual pleasure is
+    admitted in the next life, not only corporeal pleasure.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says Jews describe the future mansion of the just as a delicious
+    garden reaching the seventh heaven, with gates and rivers.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The compared rivers are said to flow with milk, wine, balsam, and honey.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Behemoth and Leviathan are said to be slain for the entertainment of the blessed
+    and are compared with the Balm and Nun of Mohammed.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Blessed inhabitants of paradise
+  description: The inhabitants of paradise receive sensory delights; the blessed wish
+    for music; inhabitants have gardens, wives, servants, furniture, and other possessions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Angel Israfl
+  description: An angel described as having the most melodious voice of all God's
+    creatures and as providing song in paradise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Daughters of paradise
+  description: A group whose songs entertain the ear in paradise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Trees of paradise
+  description: Trees that celebrate divine praises, carry bells, clash musically,
+    and are described as golden-bodied with fruits of pearls and emeralds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: God
+  description: God is associated with the throne from which the wind proceeds, and
+    God's face is beheld by the one in highest honour.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: Mohammed
+  description: Reported source of the saying about the possessions of the meanest
+    inhabitant and the highest honour of beholding God's face.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Al Ghazali
+  description: Interpreter who supposes the vision of God's face to be the additional
+    or superabundant recompense promised in the Koran.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Jews and Rabbins
+  description: Described by the commentator as giving parallel accounts of the future
+    mansion of the just, its gates, rivers, and mythic beasts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Behemoth and Leviathan
+  description: Jewish mythic creatures said to be slain for the entertainment of the
+    blessed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Balm and Nun of Mohammed
+  description: Named as Mohammedan counterparts to Behemoth and Leviathan in the commentator's
+    comparison.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: recipient of paradisal delights
+  assigned_to:
+  - fig:1
+  basis: The inhabitants of paradise receive common delights, wish for music, and
+    possess expansive goods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: provider of paradisal music or praise
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Israfl, the daughters of paradise, and the trees are all described as sources
+    of song, praise, or musical sound.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine source and object of highest vision
+  assigned_to:
+  - fig:5
+  basis: Wind proceeds from God's throne, and the highest felicity is to behold God's
+    face.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: reported authority on degrees of paradise
+  assigned_to:
+  - fig:6
+  basis: Mohammed is reported to have described the meanest inhabitant's possessions
+    and the highest honour with God.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: interpreter of superabundant recompense
+  assigned_to:
+  - fig:7
+  basis: Al Ghazali is said to identify the vision of God's face with an additional
+    recompense promised in the Koran.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: comparative tradition describer
+  assigned_to:
+  - fig:8
+  basis: The Jews and Rabbins are cited as describing the future mansion, gates, rivers,
+    and mythic beasts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: mythic feast creature
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Behemoth and Leviathan are said to be slain for the blessed's entertainment
+    and compared with the Balm and Nun.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: instant fruition
+  literal_form: Seed or crop sown and brought to maturity in a moment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: paradisal music
+  literal_form: Songs of Israfl and the daughters of paradise, tree praises, bells,
+    and clashing golden trees
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: jewel-fruited trees
+  literal_form: Golden-bodied trees with bells and fruits of pearls and emeralds
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wind from the divine throne
+  literal_form: Wind proceeding from the throne of God and moving bells on the trees
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: divine face
+  literal_form: The face of God beheld morning and evening by the one in highest honour
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: vast paradisal possessions
+  literal_form: Gardens, wives, servants, furniture, and other possessions extending
+    over a thousand years' journey
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: heavenly garden with gates
+  literal_form: Future mansion of the just as a delicious garden reaching the seventh
+    heaven, with two or three gates
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: four paradisal rivers
+  literal_form: Four rivers flowing with milk, wine, balsam, and honey
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - milk
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: slain mythic beasts for the blessed
+  literal_form: Behemoth and Leviathan slain for entertainment, compared with Balm
+    and Nun
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Fertility and musical delights of paradise
+  summary: The passage presents instantaneous agricultural growth and an auditory
+    paradise filled with angelic songs, daughters' songs, praising trees, bells moved
+    by divine wind, and jewel-bearing golden trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Degrees of felicity and divine vision
+  summary: Common delights belong to all inhabitants, while higher felicity includes
+    vast possessions and, at the highest degree, beholding God's face morning and
+    evening, interpreted by Al Ghazali as superabundant recompense.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Jewish and Edenic parallels for paradise
+  summary: The commentator compares the described paradise with Jewish accounts of
+    a future mansion or garden reaching the seventh heaven, having gates and rivers,
+    and with the rivers of Eden.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:4
+  label: Mythic beasts prepared for the blessed
+  summary: The passage cites Behemoth and Leviathan as beasts slain for the entertainment
+    of the blessed and identifies them with the Balm and Nun of Mohammed in the commentator's
+    comparison.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Afterlife garden with mapped delights and degrees
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes paradise as a setting with sensory pleasures, ordered
+    degrees of felicity, expansive possessions, and comparative features such as heavenly
+    garden, gates, and rivers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is Sale's explanatory commentary and comparison, not a direct
+    continuous Quranic narrative.
+- id: motif:2
+  label: Divine vision as supreme afterlife reward
+  taxonomy_refs: []
+  basis: The highest honour is described as beholding God's face morning and evening,
+    and Al Ghazali is said to treat this as a superabundant recompense surpassing
+    other pleasures.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The interpretation is attributed to reported speech and to Al Ghazali
+    within the passage.
+- id: motif:3
+  label: Animate praise-giving trees in paradise
+  taxonomy_refs: []
+  basis: Trees are described as celebrating divine praises, bearing bells, producing
+    music, and possessing golden bodies with jewel-like fruits.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The available motif taxonomy includes tree as a symbol but no exact motif
+    family for musical or praising trees.
+- id: motif:4
+  label: Miraculous abundance and instant fruition
+  taxonomy_refs: []
+  basis: A sown crop springs up and matures in a moment, and the garden contains golden
+    trees with pearl and emerald fruits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The opening sentence is fragmentary within the supplied line range.
+- id: motif:5
+  label: Paradisal rivers, gates, and heavenly garden in comparative tradition
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage compares paradise with a Jewish future mansion as a delicious
+    garden reaching the seventh heaven, with gates and four rivers, including a stated
+    connection to Eden's rivers.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: This is a comparison made by the commentator; the passage does not supply
+    the full cited Jewish or Genesis texts.
+- id: motif:6
+  label: Mythic beasts served to the blessed in the afterlife
+  taxonomy_refs: []
+  basis: Behemoth and Leviathan are said to be slain for the blessed's entertainment
+    and compared to Balm and Nun.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The excerpt gives only a brief comparison and little detail about Balm
+    and Nun.
+comparison_claims:
+- id: claim:1
+  claim: The passage says the phrase about things unseen, unheard, and unconceived
+    is borrowed from scripture and cites Isaiah and I Corinthians.
+  claim_level: linguistic_similarity
+  target: Isaiah lxiv. 4 and I Cor. ii. 9
+  evidence_refs:
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is the commentator's statement; the passage does not reproduce
+    the full biblical texts.
+- id: claim:2
+  claim: The commentator presents Jewish descriptions of the future mansion of the
+    just as parallels or sources for the paradise described here.
+  claim_level: historical_contact
+  target: Jewish rabbinic descriptions of the future mansion of the just
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts borrowing but does not provide independent historical
+    evidence beyond cited references.
+- id: claim:3
+  claim: The four rivers in the compared paradise pattern are linked by the commentator
+    to the four rivers of Eden.
+  claim_level: same_motif
+  target: Garden of Eden's four rivers in Genesis ii. 10 and following
+  evidence_refs:
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns one shared landscape feature and is mediated
+    by the commentator.
+- id: claim:4
+  claim: The passage identifies the Jewish Behemoth and Leviathan as functionally
+    corresponding to the Balm and Nun of Mohammed because both are presented as creatures
+    for the blessed's entertainment.
+  claim_level: same_function
+  target: Jewish Behemoth and Leviathan compared with Islamic Balm and Nun
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only a short identification and no extended narratives
+    for the named creatures.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4949-4950
+  quote_or_summary: A sown thing is said to spring up and come to maturity in a moment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4951-4961
+  quote_or_summary: Paradise provides auditory delights through Israfl's song, the
+    daughters of paradise, trees praising God, bells moved by wind from God's throne,
+    and clashing golden trees with pearl and emerald fruits.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4962-4968
+  quote_or_summary: The common delights belong to all inhabitants, while superior
+    degrees receive additional felicity described as things no eye has seen, ear heard,
+    or heart conceived; the commentator calls the expression borrowed from scripture.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4969-4977
+  quote_or_summary: Mohammed is reported to say the meanest inhabitant sees possessions
+    occupying a thousand years' journey, while the one in highest honour with God
+    beholds God's face morning and evening; Al Ghazali interprets this as superabundant
+    recompense.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4977-4981
+  quote_or_summary: The commentator says this divine vision refutes the claim that
+    Mohammedans admit no spiritual pleasure in the next life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4982-4990
+  quote_or_summary: The Jews are said to describe the future mansion of the just as
+    a delicious garden reaching the seventh heaven, with two or three gates and four
+    rivers flowing with milk, wine, balsam, and honey; the four rivers are linked
+    to Eden.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4990-4994
+  quote_or_summary: Behemoth and Leviathan are said to be slain for the entertainment
+    of the blessed and to correspond to the Balm and Nun of Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:8
+  type: citation
+  locator: lines 4995-5000, footnotes
+  quote_or_summary: Footnotes cite Isaiah lxiv. 4, I Cor. ii. 9, Genesis ii. 10 and
+    following, rabbinic works, and Pococke notes as sources for the comparisons in
+    the passage.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized citation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The concrete paradise imagery is explicit. Motif and comparison fields are
+    more cautious because the passage is a translator-commentator's explanatory section
+    and contains secondary comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs directly supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l4949-l5000
+  passage_sha256=59c25fd9d0bec27506f17183ceb1bd9e4669b8994f656c300fef1b3498ddfad6
+

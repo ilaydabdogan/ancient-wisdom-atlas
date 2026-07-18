@@ -1,0 +1,570 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l16331-l16514
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 16331-16514
+  start: '16331'
+  end: '16514'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lemminkainen is driven by winds and waves across the ocean to the Isle
+    of Refuge, where island maidens greet him, answer his requests for harbor, hiding-place,
+    land, and a place to sing, and then witness his magical singing. He conjures trees,
+    birds, metals, gems, flowers, water sources, a duck, banquet vessels, food, drink,
+    and a silver-and-gold knife before feasting and charming the maidens.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Winds arise and drive Lemminkainen's vessel over the ocean for months toward
+    his father's Isle of Refuge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maidens sit on the sea-shore watching the billows; one waits for a brother,
+    one for a father, and one for a suitor.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The maidens see Lemminkainen and his vessel on the water, described as like
+    a cloudlet hanging between earth and heaven.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The maidens ask the stranger or vessel to sail to the harbor so that its tribe
+    may be discovered; waves then propel the vessel to the magic island and land Lemminkainen
+    safely.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lemminkainen asks whether there is room for his bark to anchor and dry; the
+    island maidens answer that the harbor has abundant space and copper-adorned rollers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lemminkainen asks for a place to hide from battle; the maidens answer that
+    there are places, castles, and courts where he can hide safely.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Lemminkainen asks for land to fell birch-wood and cultivate fallow; the maidens
+    answer that all fields and woods have been divided and have owners.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Lemminkainen asks for a place to sing magic songs, wisdom, ancient songs,
+    and legends; the maidens say he may sing in forest, castle, plains, and pastures.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Lemminkainen sings alders, oaks, branches, acorns, golden rollers, cuckoos,
+    and precious metals that fill the island.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Lemminkainen sings sea-sands into precious stones and pearls, robes groves
+    in iridescence, and fills the island with many-colored flowers.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Lemminkainen conjures a court well with golden cover and silver dipper, lakelets
+    on the plains, and a duck with gold, silver, and copper features.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:12
+  text: The island maidens wonder and stand entranced at Ahti's wisdom, Lemminkainen's
+    songs, and the hero's magic power.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Lemminkainen says he would sing a wondrous legend if seated at a table in
+    a hall or chamber; the maidens answer that the island has chambers, halls, and
+    courts for magic singers.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:14
+  text: Lemminkainen goes with the maidens to the castle, conjures pitchers, golden
+    goblets, beer, honey-drink, foods, a silver blade with golden handle, then feasts
+    and charms the maidens.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Lemminkainen / Ahti / Kaukomieli
+  description: A young hero, singer, and magic minstrel who arrives by vessel, asks
+    for harbor and refuge, seeks a place to sing, conjures abundant objects and food,
+    and feasts.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Island-maidens / virgins / dwellers on the Isle of Refuge
+  description: Maidens on the sea-shore and dwellers of the island who watch for relatives
+    or suitors, question the incoming vessel, answer Lemminkainen's requests, guide
+    him to the castle, and witness his magic.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: arrival hero and refuge-seeker
+  assigned_to:
+  - fig:1
+  basis: He is carried by vessel to the Isle of Refuge and asks for harbor space and
+    a place to hide from battle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: magic singer and conjurer
+  assigned_to:
+  - fig:1
+  basis: He asks where to sing his magic songs and then conjures trees, metals, water
+    sources, birds, banquet vessels, food, drink, and a knife through song.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:3
+  label: island hosts and respondents
+  assigned_to:
+  - fig:2
+  basis: They identify themselves as island dwellers, answer questions about harbor,
+    refuge, land, and song-space, and provide access to castle chambers and halls.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+- id: role:4
+  label: witnesses of magic power
+  assigned_to:
+  - fig:2
+  basis: They wonder and stand entranced at Ahti's wisdom, Lemminkainen's songs, and
+    the hero's magic power.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: sea-vessel or bark
+  literal_form: Lemminkainen's vessel or bark crossing the ocean and entering the
+    island harbor
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Isle of Refuge or magic island
+  literal_form: Island with harbor, sandy shore, forests, plains, pastures, castles,
+    courts, and chambers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+- id: sym:3
+  label: copper rollers or cylinders
+  literal_form: Copper-adorned rollers or cylinders used for the vessel in the harbor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: trees and acorns
+  literal_form: Alders, oaks, branches, acorns, and birch-wood mentioned or sung into
+    being
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: precious metals
+  literal_form: Gold, copper, and silver streaming or falling from cuckoos and appearing
+    in conjured objects
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: sym:6
+  label: cuckoos emitting metals
+  literal_form: Cuckoos sung onto golden rollers; gold streams from their throats,
+    copper falls from feathers, and silver comes from wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: gemmed sands and pearls
+  literal_form: Sea-sands sung into precious stones and stones sung into resplendent
+    pearls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: well, lakelets, and water
+  literal_form: A conjured well with golden cover and silver dipper, and lakelets
+    on the plains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:9
+  label: metal-adorned duck
+  literal_form: A duck on the waters with golden cheeks, silver head, and shining
+    copper feet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: castle hall for singing
+  literal_form: Castle chambers, halls, courts, walls, and a table where magical songs
+    may be performed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:11
+  label: banquet abundance
+  literal_form: Pitchers, golden goblets, barley beer, honey-drink, butter, biscuit,
+    bacon, fish, veal, venison, and northern dainties conjured in the castle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:12
+  label: silver knife with golden handle
+  literal_form: A blade of purest silver with a golden handle sung into being before
+    the feast
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Ocean crossing to the Isle of Refuge
+  summary: Winds and waves carry Lemminkainen's vessel for months over the ocean toward
+    his father's Isle of Refuge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shore encounter with the island maidens
+  summary: Maidens on the shore see Lemminkainen's cloud-like vessel, question it,
+    and direct it to the harbor, where waves land him safely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Requests for anchorage, refuge, land, and song-space
+  summary: Lemminkainen asks the island maidens whether there is room for his vessel,
+    a hiding-place from battle, land to cultivate, and a place to sing; they grant
+    harbor, refuge, and song-space but deny cultivable land because it is already
+    apportioned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Magical singing fills the island with abundance
+  summary: Lemminkainen sings trees, birds, metals, gems, flowers, water sources,
+    and a metal-adorned duck into being while the island maidens marvel at his wisdom
+    and power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Castle song and feast
+  summary: After requesting a hall and table for further singing, Lemminkainen goes
+    with the maidens to the castle, conjures drink, food, and a silver-gold knife,
+    then eats, drinks, and charms the maidens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:10
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: wind-driven sea journey to an island refuge
+  taxonomy_refs:
+  - ark_vessel
+  - departure
+  basis: The passage centers on a hero's vessel carried by commanded winds and waves
+    over the ocean to a named Isle of Refuge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage includes a vessel and refuge island but does not describe
+    an ark, flood, or full departure episode in this excerpt.
+- id: motif:2
+  label: stranger arrival tested through questions of place and belonging
+  taxonomy_refs: []
+  basis: The island maidens question the incoming stranger or vessel and answer successive
+    questions about harbor, hiding, land ownership, and permitted singing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents dialogue and boundary negotiation, but it does not
+    explicitly frame this as a formal test.
+- id: motif:3
+  label: magical song as operative wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Lemminkainen asks where to sing his magic songs and gathered wisdom; his
+    singing then produces objects and the maidens are entranced by his wisdom and
+    magic power.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The motif is limited here to sung conjuration within this passage.
+- id: motif:4
+  label: song-conjured abundance and wealth
+  taxonomy_refs: []
+  basis: Through song Lemminkainen brings forth trees, birds, metals, gems, pearls,
+    flowers, water sources, a duck, drink, food, and a knife.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: No external comparison is asserted; this is a passage-level motif candidate.
+- id: motif:5
+  label: hospitality hall for a magic singer
+  taxonomy_refs: []
+  basis: Lemminkainen says his song requires a hall, chamber, walls, and table; the
+    maidens provide castle chambers, halls, and courts where his singing will be welcome.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The hospitality is explicit, but the passage does not describe a reciprocal
+    obligation beyond welcome and performance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16331-16337
+  quote_or_summary: Winds arise as bidden, rock the vessel over the ocean for two
+    months and a third, and drive it toward the father's Isle of Refuge.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 16339-16351
+  quote_or_summary: Maidens sit on the sandy sea-shore watching the billows, waiting
+    for brother, father, or suitor, and see young Lemminkainen's vessel like a cloudlet
+    between earth and heaven.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 16353-16367
+  quote_or_summary: The island-maidens ask what the stranger on the waters is and
+    tell it to sail to the harbor; waves propel the vessel to the magic island and
+    land Lemminkainen safely on the sandy shore.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 16369-16386
+  quote_or_summary: Ahti asks whether there is room for his bark to anchor and dry;
+    the maidens reply that there is abundant room and copper-adorned rollers, even
+    for many vessels.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 16388-16420
+  quote_or_summary: Lemminkainen rolls his vessel onto copper cylinders, asks for
+    a place to hide from battle, then asks for birch-land to fell and cultivate; the
+    maidens grant hiding places but say all fields and forests are already apportioned
+    and owned.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 16422-16436
+  quote_or_summary: Kaukomieli asks where he may sing magic songs, gathered wisdom,
+    and ancient legends; the maidens answer that he may sing in forest, castle, island-plains,
+    and pastures.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 16438-16452
+  quote_or_summary: The magic minstrel sings alders, oaks, branches, acorns, golden
+    rollers, and cuckoos; gold, copper, and silver come from the cuckoos and fill
+    the island with precious metals.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 16453-16464
+  quote_or_summary: Lemminkainen sings sea-sands into precious stones, stones into
+    pearls, groves into iridescence, the island full of flowers, and a court well
+    with golden cover and silver dipper.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 16465-16471
+  quote_or_summary: He conjures lakelets and a duck with golden cheeks, silver head,
+    and copper feet; the island-maidens wonder and stand entranced at Ahti's wisdom,
+    Lemminkainen's songs, and the hero's magic power.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 16473-16490
+  quote_or_summary: Lemminkainen says he would sing a wondrous legend if seated at
+    a table in a hall or chamber; the maidens answer that the island has chambers,
+    halls, and courts where his singing will be welcome and not scattered.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 16492-16514
+  quote_or_summary: Lemminkainen goes with the maidens to the castle, conjures pitchers,
+    golden goblets, barley beer, honey-drink, food, a silver blade with golden handle,
+    then feasts and charms the maidens.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif taxonomy assignments
+    are cautious, especially where available taxonomy labels are broader than the
+    specific passage pattern. No comparison claims were recorded because the passage
+    itself does not explicitly compare this episode with another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All evidence is drawn only from the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols where directly supportable.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l16331-l16514
+  passage_sha256=ef3b05c261dddcb30faed43440df363ca4f625725f9e88f3a7670db829f8c3d6
+

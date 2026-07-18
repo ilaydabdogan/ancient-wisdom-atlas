@@ -1,0 +1,506 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l13014-l13235
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: NAVAHO MUSIC. / BY PROF. JOHN COMFORT FILLMORE. / TEXTS AND INTERLINEAR TRANSLATIONS.
+    / FREE TRANSLATION OF PRAYER.; lines 13014-13235
+  start: '13014'
+  end: '13235'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A prayer addresses a male divinity dwelling at Tse`gíhi in houses made
+    of dawn, twilight, cloud, rain, mist, pollen, and grasshoppers. The speaker summons
+    the divinity to come with dark cloud garments, thunder, rain, mist, lightning,
+    rainbow, and wings; states that sacrifice and smoke have been prepared; asks for
+    bodily and mental restoration and removal of a spell; requests weather, vegetation,
+    corn, goods, and jewels; asks that people return home on a pollen trail; and closes
+    with a beauty-walking formula.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prayer addresses a male divinity associated with Tse`gíhi and a dwelling
+    described as made of dawn, evening twilight, dark cloud, rains, mist, pollen,
+    and grasshoppers.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The divine dwelling has a doorway curtained by dark mist, a path on the rainbow,
+    and zigzag lightning and he-rain standing high on top.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The male divinity is repeatedly asked to come wearing or bearing dark cloud
+    moccasins, leggings, shirt, headdress, and a mind enveloped in dark cloud.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The divinity is asked to come soaring with thunder above, shaped cloud at
+    the feet, darkness, rain, mist, lightning, and rainbow over the head and on the
+    ends of the wings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker states that a sacrifice has been made and smoke has been prepared
+    for the divinity.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker asks for the restoration of feet, limbs, body, mind, and voice,
+    and asks that a spell be taken out and taken away.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The speaker describes recovery as happy: the interior and head become cool,
+    eyes and limbs regain power, hearing returns, and the speaker walks without pain
+    and with lightness.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker desires abundant dark clouds, dark mists, showers, vegetation,
+    pollen, and dew.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The speaker asks that fair white, yellow, blue, and all kinds of corn, as
+    well as plants, goods, and jewels, come with the divinity to the ends of the earth.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Requested blessings are placed before, behind, below, above, and all around
+    the divinity, and the prayer says the divinity accomplishes tasks happily.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Old men, old women, young men, young women, boys, girls, children, and chiefs
+    are said to regard the divinity happily, and their roads home are requested to
+    be on the trail of pollen.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The prayer closes with the speaker walking in beauty, with beauty before,
+    behind, below, above, and all around, and with repeated statements that it is
+    finished in beauty.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: male divinity
+  description: The addressed male divinity who dwells in Tse`gíhi and is summoned
+    to come with cloud, rain, mist, lightning, rainbow, thunder, and wings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: first-person prayer speaker
+  description: The speaker who says a sacrifice has been made and smoke prepared,
+    asks for restoration and spell removal, and says he or she walks in beauty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:3
+  name_or_label: human community groups
+  description: 'Groups named in the prayer: old men, old women, young men, young women,
+    boys, girls, children, and chiefs, who are said to regard the divinity and return
+    home.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: addressed male divinity
+  assigned_to:
+  - fig:1
+  basis: The prayer directly says, “Oh, male divinity!” after describing the divine
+    dwelling.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: weather-bearing summoned visitor
+  assigned_to:
+  - fig:1
+  basis: The divinity is repeatedly asked to come to the speakers with dark cloud
+    clothing, thunder, cloud, rain, mist, lightning, rainbow, and wings.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sacrificer and healing petitioner
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker says a sacrifice and smoke have been prepared and
+    asks for bodily and mental restoration and spell removal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: community witnesses and returnees
+  assigned_to:
+  - fig:3
+  basis: Named social groups are said to regard the divinity, scatter or approach
+    their homes, and get back on a pollen trail.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: weather-made divine house
+  literal_form: House made of dawn, evening twilight, dark cloud, he-rain, dark mist,
+    she-rain, pollen, and grasshoppers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rainbow path
+  literal_form: Path to the dwelling on the rainbow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: zigzag lightning and rain above the dwelling
+  literal_form: Zigzag lightning and he-rain standing high on top
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: dark cloud attire
+  literal_form: Moccasins, leggings, shirt, headdress, and mind enveloped in dark
+    cloud
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: wing-borne weather canopy
+  literal_form: Thunder, shaped cloud, darkness, rain, mist, zigzag lightning, and
+    rainbow over the divinity’s head and on the ends of the wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: sacrifice and smoke
+  literal_form: A sacrifice made and smoke prepared for the divinity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: flowing water and great corn roots
+  literal_form: Foam floating on flowing water over the roots of the great corn
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: abundant rain and vegetation
+  literal_form: Dark clouds, dark mists, passing showers, vegetation, pollen, and
+    dew
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: fair corn and goods
+  literal_form: White corn, yellow corn, blue corn, corn of all kinds, plants, goods,
+    and jewels coming with the divinity to the ends of the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: pollen trail
+  literal_form: Roads home on the trail of pollen, glossed in the passage as peace
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:11
+  label: beauty surrounding the walker
+  literal_form: Beauty before, behind, below, above, and all around the speaker while
+    walking
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Divine dwelling and weather-path invocation
+  summary: The prayer locates the male divinity in a weather- and pollen-made dwelling
+    at Tse`gíhi, with dark mist at the doorway, a rainbow path, and lightning and
+    rain above.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summoning of the cloud-clad winged divinity
+  summary: The male divinity is asked to come to the speakers with cloud garments,
+    thunder, shaped cloud, rain, mist, lightning, rainbow, darkness, and wings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Offering, smoke, and request for restoration
+  summary: The speaker says a sacrifice and smoke have been prepared, mentions foam
+    on flowing water over corn roots, and asks that body, mind, voice, and senses
+    be restored and a spell removed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Requests for rain, crops, and wealth
+  summary: The speaker requests abundant clouds, mist, showers, vegetation, pollen,
+    dew, corn of several colors, plants, goods, and jewels, all coming with the divinity
+    and placed around the divinity in multiple directions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Community regard and return on pollen trail
+  summary: Various community groups are said to regard the divinity happily, and their
+    roads home are requested to be on the trail of pollen so that all return.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Beauty-walking closure
+  summary: The speaker affirms walking in beauty, with beauty before, behind, below,
+    above, and all around, and closes by saying the prayer is finished in beauty.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Summoning a weather-associated divinity
+  taxonomy_refs: []
+  basis: The prayer calls a male divinity from a dwelling made of dawn, twilight,
+    cloud, rain, mist, pollen, and grasshoppers and repeatedly asks him to come with
+    cloud, rain, mist, thunder, lightning, rainbow, and wings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level ritual invocation pattern; no external comparison
+    or historical connection is asserted.
+- id: motif:2
+  label: Ritual offering for healing and spell removal
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The speaker states that a sacrifice has been made and smoke prepared, then
+    asks for restoration of body, mind, voice, and senses and for the divinity’s spell
+    to be taken away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the offering and petition in prayer sequence; it
+    does not narrate a completed transaction beyond the speaker’s recovery statements.
+- id: motif:3
+  label: Restoration after harmful spell
+  taxonomy_refs: []
+  basis: 'The prayer asks the divinity to take away a spell and describes happy recovery:
+    cooling, restored sight, restored limb power, hearing again, and walking without
+    pain.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The nature of the spell is not further specified in the passage.
+- id: motif:4
+  label: Rain, vegetation, corn, and wealth brought with the deity
+  taxonomy_refs: []
+  basis: The speaker requests abundant clouds, mists, showers, vegetation, pollen,
+    dew, corn of several colors, plants, goods, and jewels to come with the divinity
+    to the ends of the earth.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage emphasizes desired abundance but does not describe a separate
+    mythic episode of crop origin.
+- id: motif:5
+  label: Walking in beauty with harmony in all directions
+  taxonomy_refs: []
+  basis: The closing formula places beauty before, behind, below, above, and all around
+    the speaker, who walks and says the prayer is finished in beauty.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The term and formula are taken from the supplied English translation;
+    no broader cultural interpretation is added here.
+- id: motif:6
+  label: Safe communal return on pollen trail
+  taxonomy_refs:
+  - return
+  basis: The prayer asks that the roads home of the named human groups be on the trail
+    of pollen and that all get back.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy term “return” only partially fits because the passage
+    is a blessing for people going home, not a narrative return episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: prayer lines 1-14 within source lines 13014-13235
+  quote_or_summary: The prayer addresses a male divinity in Tse`gíhi and describes
+    houses made of dawn, twilight, dark cloud, he-rain, dark mist, she-rain, pollen,
+    and grasshoppers, with dark mist at the doorway, a rainbow path, and lightning
+    and rain above.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: prayer lines 15-35 within source lines 13014-13235
+  quote_or_summary: The divinity is repeatedly asked to “come to us” with dark cloud
+    clothing and mind, thunder above, shaped cloud at the feet, darkness, rain, mist,
+    zigzag lightning, rainbow, and wing ends.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized with a short quoted phrase.
+- id: ev:3
+  type: quote
+  locator: prayer lines 36-38 within source lines 13014-13235
+  quote_or_summary: "“I have made your sacrifice. / I have prepared a smoke for you.”
+    The preceding line mentions foam floating on flowing water over roots of the great
+    corn."
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: prayer lines 39-48 within source lines 13014-13235
+  quote_or_summary: The speaker asks for restoration of feet, limbs, body, mind, and
+    voice, and asks that the divinity’s spell be taken out, taken away, and removed
+    far off.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: prayer lines 49-59 within source lines 13014-13235
+  quote_or_summary: 'The speaker says recovery happens happily: the interior and head
+    become cool, eyes and limbs regain power, hearing returns, the spell is taken
+    off, and the speaker walks without pain and with lightness.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: prayer lines 60-72 within source lines 13014-13235
+  quote_or_summary: The speaker desires abundant dark clouds, mists, passing showers,
+    vegetation, pollen, and dew, and asks fair white, yellow, blue, and all kinds
+    of corn, plants, goods, and jewels to come with the divinity to the ends of the
+    earth.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: prayer lines 73-78 within source lines 13014-13235
+  quote_or_summary: The requested things are placed before, behind, below, above,
+    and all around the divinity, and the prayer says the divinity accomplishes tasks
+    happily.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: prayer lines 79-90 within source lines 13014-13235
+  quote_or_summary: Old men, old women, young men, young women, boys, girls, children,
+    and chiefs regard the divinity happily; as they scatter and approach their homes,
+    their roads home are requested to be on the trail of pollen, and all are to get
+    back.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: quote
+  locator: prayer lines 91-100 within source lines 13014-13235
+  quote_or_summary: "“With beauty before me, I walk”; the closing lines also place
+    beauty behind, below, above, and all around, then repeat that it is finished in
+    beauty."
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a clear English free translation of a prayer, supporting extraction
+    of literal figures, objects, symbolic forms, scenes, and internal motif candidates.
+    Taxonomy mapping is limited because many patterns are ritual-poetic rather than
+    narrative, and no external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Comparison claims are left empty because the passage does not itself make cross-textual or historical comparisons.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l13014-l13235
+  passage_sha256=3a7c8fcad21f3736c91f8fb6fa7ce0f4768b393da11cec3d8df84b9097b79599
+

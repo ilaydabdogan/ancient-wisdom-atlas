@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l10677-l10701
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: VLUNDARKVITHA / THE LAY OF VLUND / INTRODUCTORY NOTE / NOTES; lines 10677-10701
+  start: '10677'
+  end: '10701'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on stanzas 39-43 of the Lay of Vlund discuss manuscript
+    speaker attributions, possible interpolations and lacunae, parallels in the Thithrekssaga,
+    an episode in which Vlund deceives Nithuth with a concealed blood-filled bladder
+    after Egil is forced to shoot at him, the episode's appearance on an Anglo-Saxon
+    runic ivory casket, a name comparison involving Thakkrath and Dancrat, and the
+    identification of Vlund and Bothvild's son as Vithga or Witege.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the manuscript does not name the speaker for stanza 39 and reports
+    editorial uncertainty about possible interpolation or rejected lines.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the Thithrekssaga, Nithuth compels Egil, who is identified as Vlund's brother,
+    to shoot at Vlund.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vlund has concealed a bladder full of blood under his left arm.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Egil's arrow pierces the concealed blood-filled bladder, and Nithuth assumes
+    that Vlund has been killed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same episode is said to appear among scenes from Vlund's career carved
+    on an ancient ivory casket with an Anglo-Saxon runic inscription.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For stanza 40, the note refers to stanza 31 and says the manuscript indicates
+    no lacuna.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: For stanza 41, the first line is described as conjectural, and Thakkrath is
+    identified as probably the northern form of the Middle High German name Dancrat.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: For stanza 42, the manuscript indicates no gap but marks line 3 as the beginning
+    of a stanza; an added speech formula attributed to Vigfusson is described as plausible.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: For stanza 43, the manuscript does not name the speaker, and editors have
+    proposed rejecting lines or supposing a loss of lines.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: According to the Thithrekssaga, the son of Vlund and Bothvild was Vithga,
+    or Witege, a hero of Dietrich of Bern.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Nithuth
+  description: A figure in the reported Thithrekssaga episode who compels Egil to
+    shoot at Vlund and then assumes Vlund has been killed.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Egil
+  description: Identified as Vlund's brother; compelled by Nithuth to shoot at Vlund.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Vlund
+  description: Target of Egil's shot; conceals a blood-filled bladder under his left
+    arm so that the pierced bladder makes Nithuth think he is dead.
+  role_refs:
+  - role:3
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:4
+  name_or_label: Bothvild
+  description: Named with Vlund as parent of Vithga or Witege in the Thithrekssaga
+    report.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Vithga / Witege
+  description: Identified as the son of Vlund and Bothvild and as one of the heroes
+    of Dietrich of Bern.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Thakkrath
+  description: A name in stanza 41, described as probably the northern form of Middle
+    High German Dancrat.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Dancrat
+  description: Middle High German name compared with Thakkrath.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: coercer
+  assigned_to:
+  - fig:1
+  basis: Nithuth compels Egil to shoot at Vlund.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: compelled archer
+  assigned_to:
+  - fig:2
+  basis: Egil is compelled to shoot at Vlund, and his arrow pierces the hidden bladder.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceptive survivor or feigned victim
+  assigned_to:
+  - fig:3
+  basis: Vlund conceals a blood-filled bladder so that its piercing makes Nithuth
+    believe he has been killed.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: deceived enemy
+  assigned_to:
+  - fig:1
+  basis: Nithuth assumes his enemy has been killed after the blood bladder is pierced.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: brother pair
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Egil is identified as Vlund's brother.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: parents of named son
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Thithrekssaga identifies Vithga or Witege as the son of Vlund and Bothvild.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: heroic son
+  assigned_to:
+  - fig:5
+  basis: Vithga or Witege is identified as the son of Vlund and Bothvild and as a
+    hero of Dietrich of Bern.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: linguistically compared names
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Thakkrath is said to be probably the northern form of the Middle High German
+    name Dancrat.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: blood-filled bladder
+  literal_form: A bladder full of blood concealed under Vlund's left arm.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: arrow
+  literal_form: Egil's arrow, which pierces the concealed blood-filled bladder.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ivory casket with runic inscription
+  literal_form: An ancient ivory casket bearing an Anglo-Saxon inscription in runic
+    letters and carved scenes from Vlund's career.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Coerced shooting and feigned death in Thithrekssaga report
+  summary: Nithuth forces Egil to shoot at Vlund; Vlund has hidden a blood-filled
+    bladder under his arm, and when the arrow pierces it, Nithuth believes Vlund has
+    been killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Carved visual witness to Vlund episode
+  summary: The same episode is reported to appear as one of the carved scenes from
+    Vlund's career on an ancient ivory casket with Anglo-Saxon runic writing.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Genealogical link to Dietrich heroic material
+  summary: The Thithrekssaga is said to identify Vithga or Witege, one of the heroes
+    of Dietrich of Bern, as the son of Vlund and Bothvild.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: feigned death by blood substitute
+  taxonomy_refs: []
+  basis: Vlund hides a blood-filled bladder under his arm; when the arrow pierces
+    it, Nithuth concludes that Vlund has been killed.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports this as a Thithrekssaga parallel rather than narrating
+    it directly in the Eddic stanza.
+- id: motif:2
+  label: coerced brotherly attack
+  taxonomy_refs: []
+  basis: Nithuth compels Egil, identified as Vlund's brother, to shoot at Vlund.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state Egil's intentions beyond his being compelled.
+- id: motif:3
+  label: heroic offspring linking narrative cycles
+  taxonomy_refs: []
+  basis: The son of Vlund and Bothvild is identified as Vithga or Witege, one of the
+    heroes of Dietrich of Bern.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is a genealogical and cross-cycle identification, not a fully described
+    narrative episode in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The blood-bladder feigned-death episode is presented as shared between the
+    Thithrekssaga report and a carved scene from Vlund's career on an ancient Anglo-Saxon
+    runic ivory casket.
+  claim_level: same_motif
+  target: Thithrekssaga and ancient Anglo-Saxon runic ivory casket scenes of Vlund
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts the parallel but does not reproduce the image or
+    give full details of the casket scene.
+- id: claim:2
+  claim: The note proposes a linguistic correspondence between the name Thakkrath
+    and Middle High German Dancrat.
+  claim_level: linguistic_similarity
+  target: Thakkrath and Dancrat
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says 'probably,' so the identification is not presented
+    as certain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10677-10679
+  quote_or_summary: The manuscript does not name the speaker for stanza 39, and the
+    note reports possible interpolation or editorial rejection of lines.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10679-10681
+  quote_or_summary: In the Thithrekssaga, Nithuth compels Egil, Vlund's brother, to
+    shoot at Vlund.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10681-10684
+  quote_or_summary: Vlund has concealed a blood-filled bladder under his left arm;
+    when his brother's arrow pierces it, Nithuth thinks his enemy has been killed.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10684-10687
+  quote_or_summary: The episode is also said to appear among carved scenes from Vlund's
+    career on an ancient ivory casket with an Anglo-Saxon runic inscription.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 10689
+  quote_or_summary: For stanza 40, the note refers to stanza 31 and says the manuscript
+    indicates no lacuna.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10691-10693
+  quote_or_summary: For stanza 41, the first line is a conjectural addition, and Thakkrath
+    is probably the northern form of the Middle High German name Dancrat.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10695-10698
+  quote_or_summary: For stanza 42, the manuscript indicates no gap but marks line
+    3 as the beginning of a stanza; a proposed added speech formula by Vigfusson is
+    considered plausible.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 10700-10703
+  quote_or_summary: For stanza 43, the manuscript does not name the speaker; editors
+    have rejected different lines, and loss of lines has been suggested.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 10703-10705
+  quote_or_summary: According to the Thithrekssaga, the son of Vlund and Bothvild
+    was Vithga or Witege, one of the heroes of Dietrich of Bern.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial note rather than the primary narrative stanza;
+    motif candidates are extracted from the summarized Thithrekssaga parallel and
+    related commentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family was assigned because the passage supports specific motifs such as feigned death by blood substitute and coerced fraternal attack, which are not among the supplied taxonomy refs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l10677-l10701
+  passage_sha256=a889e932b4136b6e38c16ed4e41c685f146fa4a784ecf91c341df926463f0d14
+

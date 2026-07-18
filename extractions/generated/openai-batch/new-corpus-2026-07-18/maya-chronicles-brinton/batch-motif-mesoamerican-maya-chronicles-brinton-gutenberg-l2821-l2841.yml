@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l2821-l2841
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: I. THE SERIES OF THE KATUNS. / TEXT. / TRANSLATION. / NOTES.; lines 2821-2841
+  start: '2821'
+  end: '2841'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: habian venido de Mejico à poblar esta tierra de Yucatan
+  summary: An unnamed witness says he knows Don Juan Kahuil and Doña Maria Quen and
+    explains that his knowledge came through Don Juan Camal, former cacique and governor
+    of Sisal. The testimony recounts that four relatives or kinsmen came from Mexico
+    with followers to populate Yucatan, founding or settling Chichinica, Bacalar,
+    the northern coast, and the area toward Cozumel. They became lords of these provinces
+    for many years, and one, Tanupolchicbul, was reportedly related to Moctezuma,
+    king of Mexico.
+  language: Spanish
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The witness says he knows Don Juan Kahuil and Doña Maria Quen, identified
+    as Juan Kahuil's wife.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The witness says he had extensive knowledge because Don Juan Camal discussed
+    the matter with his principales and with the witness.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Don Juan Camal is described as a former cacique and governor of Sisal, among
+    the first to govern it under a commission and title from Oidor Tomas Lopez.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The account states that the people under discussion had come from Mexico to
+    populate the land of Yucatan.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Some of the migrants are said to have settled Chichinica and built very sumptuous
+    buildings there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Those who came from Mexico are described as four relatives or kinsmen with
+    adherents and people whom they brought.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'The account distributes the four settlers: one to Chichinica, one to Bacalar,
+    one toward the north coast, and one toward Cozumel.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The settlers are said to have populated with people, become lords of these
+    provinces, and governed them for many years.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The witness reports having heard that one of them, named Tanupolchicbul, was
+    a relative of Moctezuma, king of Mexico.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Unnamed witness
+  description: The testimony-giver who says he knows Juan Kahuil and Maria Quen and
+    who reports information learned from conversations in Juan Camal's house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Don Juan Kahuil
+  description: A named man whom the witness says he knows.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Doña Maria Quen
+  description: A named woman identified as the wife of Don Juan Kahuil.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Don Juan Camal
+  description: Former cacique and governor of Sisal; he discussed the account with
+    his principales and the witness.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Oidor Tomas Lopez
+  description: The official said to have given Juan Camal his commission and title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Four relatives or kinsmen from Mexico
+  description: A group of four relatives or kinsmen who came from Mexico with adherents
+    and people, settled parts of Yucatan, and became lords of the provinces.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Tanupolchicbul
+  description: One of the settlers from Mexico, reportedly a relative of Moctezuma.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Moctezuma
+  description: Identified in the passage as king of Mexico and as a reported relative
+    of Tanupolchicbul.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: witness or deponent
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly identifies the speaker as “este testigo.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: cacique and governor of Sisal
+  assigned_to:
+  - fig:4
+  basis: Juan Camal is described as cacique and governor of the pueblo of Sisal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: source of transmitted account
+  assigned_to:
+  - fig:4
+  basis: The witness says Juan Camal spoke about the migration and settlement account
+    in conversation with principales and the witness.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: official granting title
+  assigned_to:
+  - fig:5
+  basis: Tomas Lopez is named as the Oidor who gave Juan Camal a commission and title.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: founding settlers and provincial lords
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The four relatives from Mexico are said to have populated Yucatan locations
+    and later to have been lords who governed the provinces for many years.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: reported kinsman of Moctezuma
+  assigned_to:
+  - fig:7
+  basis: The witness says he heard Tanupolchicbul was related to Moctezuma.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: spouses named in testimony
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Maria Quen is identified as the wife of Don Juan Kahuil.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: king of Mexico
+  assigned_to:
+  - fig:8
+  basis: Moctezuma is explicitly called “rey de Mejico.”
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: four kinsmen
+  literal_form: "“cuatro deudos ò parientes” who came from Mexico with followers and
+    people"
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: sumptuous buildings at Chichinica
+  literal_form: Very sumptuous buildings made at Chichinica by some of the settlers
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: settlement places
+  literal_form: Chichinica, Bacalar, the northern coast, and the area toward Cozumel
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Mexico as place of origin
+  literal_form: Mejico as the origin from which the settlers came
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+scenes:
+- id: scene:1
+  label: Testimonial chain of knowledge
+  summary: The witness states his knowledge of named persons and explains that Juan
+    Camal, former cacique and governor of Sisal, transmitted the account in conversation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Migration and settlement from Mexico
+  summary: Four relatives or kinsmen from Mexico come with followers to populate Yucatan;
+    one settles Chichinica, another Bacalar, another the northern coast, and another
+    the area toward Cozumel.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Provincial lordship and Moctezuma kinship
+  summary: The settlers are said to have become lords and governors of the provinces
+    for many years, and one, Tanupolchicbul, is reported to have been related to Moctezuma,
+    king of Mexico.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Founding migration to populate a land
+  taxonomy_refs: []
+  basis: The passage narrates that people came from Mexico to populate Yucatan and
+    settled multiple named places.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as testimony or reported tradition, not as an
+    explicitly mythic episode.
+- id: motif:2
+  label: Fourfold founder dispersal
+  taxonomy_refs: []
+  basis: The settlers are described as four relatives or kinsmen, each associated
+    with a different settlement direction or location.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The text gives four destinations but does not explicitly frame them as
+    a cosmological four-directions scheme.
+- id: motif:3
+  label: Royal legitimacy through prestigious foreign kinship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The founders become lords of the provinces, and one is reported to be a relative
+    of Moctezuma, king of Mexico.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The kinship is introduced as something the witness heard; the passage
+    does not explicitly state that the Moctezuma connection was used as a legitimacy
+    claim.
+- id: motif:4
+  label: Founders as monumental builders
+  taxonomy_refs: []
+  basis: Some of the settlers are said to have populated Chichinica and made very
+    sumptuous buildings there.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names building activity but does not identify the builders
+    as divine or supernatural culture heroes.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, provincial lordship in Yucatan is linked to an origin
+    in Mexico and to reported kinship with Moctezuma; this cautiously supports comparison
+    to a royal-origin or royal-legitimacy pattern.
+  claim_level: same_function
+  target: royal_legitimacy motif family / Mexico-Moctezuma royal-origin linkage
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is testimonial and includes hearsay language for the Moctezuma
+    kinship; it does not independently verify historical descent or state a formal
+    legitimacy doctrine.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2821-2823
+  quote_or_summary: "“conoce al dicho D. Juan Kahuil, y à la dicha Da Maria Quen,
+    su muger”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+- id: ev:2
+  type: summary
+  locator: 2823-2829
+  quote_or_summary: The witness says he had extensive knowledge because Don Juan Camal,
+    associated with Sisal, spoke of these matters with his principales and with the
+    witness, who was often in his house.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+- id: ev:3
+  type: quote
+  locator: 2824-2826
+  quote_or_summary: "“D. Juan Camal, cacique è gobernador que fuè del pueblo de Sisal”
+    and “titulo que le diò el Oidor Tomas Lopez”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+- id: ev:4
+  type: quote
+  locator: 2829-2830
+  quote_or_summary: "“habian venido de Mejico à poblar esta tierra de Yucatan”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+- id: ev:5
+  type: quote
+  locator: 2830-2831
+  quote_or_summary: "“poblaron à Chichinica y hicieron los edificiós que estan en
+    dicho asiento muy suntuosos”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+- id: ev:6
+  type: summary
+  locator: 2832-2835
+  quote_or_summary: Those who came from Mexico are described as four relatives or
+    kinsmen with adherents and people; one settled Chichinica, one Bacalar, one the
+    northern coast, and one toward Cozumel.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+- id: ev:7
+  type: quote
+  locator: 2835-2837
+  quote_or_summary: "“poblaron con gente, y fueron Señores de estas provincias, y
+    las gobernaron y señorearon muchos años”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+- id: ev:8
+  type: quote
+  locator: 2837-2838
+  quote_or_summary: "“uno de ellos llamado Tanupolchicbul era pariente de Moctezuma,
+    rey de Mejico”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; full text use allowed by provided metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The named persons, locations, and sequence are explicit in the Spanish passage.
+    Motif classification is more tentative because the passage is colonial testimony
+    and does not overtly mark the material as mythic or symbolic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external historical claims or taxonomy identifiers beyond the supplied list were added. The passage contains only a Spanish text segment and a translation marker, not a full English translation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l2821-l2841
+  passage_sha256=b3b6a15aef1555cb6906ebeaff14ae98ac739ec56160988f6b204f27f352b477
+

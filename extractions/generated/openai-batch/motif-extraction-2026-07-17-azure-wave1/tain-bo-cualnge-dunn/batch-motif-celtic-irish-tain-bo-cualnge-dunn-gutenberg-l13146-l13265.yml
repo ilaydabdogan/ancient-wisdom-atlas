@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l13146-l13265
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: HERE FOLLOWETH ILIACH'S CLUMP-FIGHT / HERE NOW THE DEER-STALKING OF AMARGIN
+    IN TALTIU / THE ADVENTURES OF CUROI SON OF DARE FOLLOW NOW / THE REPEATED WARNING
+    OF SUALTAIM; lines 13146-13265
+  start: '13146'
+  end: '13265'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens with a long list of named people and places to be approached.
+    It then states that Finnchad easily gathered the assembly and muster commanded
+    by Conchobar. Ulstermen from several directions around Emain set out, some to
+    the field of Emain and some directly along the host’s trail. Conchobar leads the
+    first stage from Emain to Iraird Cuillinn; when the men delay to await Fiacha
+    and Fiachna returning from Tara with Erc and reinforcements, Conchobar refuses
+    further delay because the men of Erin do not know whether he has recovered or
+    is alive.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contains an opening instruction, introduced by “Go thou forward,”
+    that enumerates many named people and places, including the Morrigan at Dun Sobairche
+    and Cuchulain son of Sualtaim at Murthemne.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Finnchad is said to gather an assembly and muster that Conchobar had enjoined
+    upon him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ulstermen east, west, and north of Emain set out at once for the field of
+    Emain in the service of their king and at the word of their lord.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Those from south of Emain did not wait for Conchobar but set out directly
+    on the trail of the host and on the hoof-prints of the Tain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The first stage of the march under Conchobar goes from Emain to the green
+    in Iraird Cuillinn that night.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When Conchobar asks why the men delay, they answer that they await his sons
+    Fiacha and Fiachna, who went with a division to Tara to fetch Erc with his muster,
+    troops, levy, and forces.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Conchobar states that he will not delay longer, lest the men of Erin hear
+    of his rising from weakness and the Pains, since they do not know whether he is
+    alive.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Finnchad
+  description: Person who gathers the assembly and muster commanded by Conchobar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Conchobar
+  description: King or lord who enjoins the muster, leads the march, questions the
+    delay, and refuses to wait longer.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Ulstermen / men of Ulster
+  description: Mustered men from around Emain who set out for Emain, pursue the host’s
+    trail, and march under Conchobar.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Fiacha and Fiachna
+  description: Conchobar’s sons, described as having gone with a division to Tara
+    to fetch Erc.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Erc son of Fedlimid Nocruthach and Carbre Niafer
+  description: Person to be fetched from Tara with his muster, troops, levy, and forces.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Men of Erin
+  description: Group whom Conchobar says do not know whether he is still alive.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Named figures in the opening itinerary
+  description: Numerous named people in the opening list of places and persons to
+    be approached, including warriors and other named figures such as the Morrigan,
+    Conall Cernach, Cuchulain, and others.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: commanding king or lord
+  assigned_to:
+  - fig:2
+  basis: Conchobar had enjoined the muster, the Ulstermen set out in service of their
+    king and lord, and the march proceeds under Conchobar.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: muster-gatherer
+  assigned_to:
+  - fig:1
+  basis: Finnchad gathers the assembly and muster ordered by Conchobar.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mustered war-force
+  assigned_to:
+  - fig:3
+  basis: The Ulstermen set out for Emain or directly along the host’s trail and march
+    under Conchobar.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: kin-envoys sent to fetch reinforcements
+  assigned_to:
+  - fig:4
+  basis: Fiacha and Fiachna are identified as Conchobar’s sons and as having gone
+    to Tara to fetch Erc with forces.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: recovered leader refusing delay
+  assigned_to:
+  - fig:2
+  basis: Conchobar refuses further delay because he has risen from weakness and the
+    Pains and does not want the men of Erin to learn it.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: expected reinforcement leader
+  assigned_to:
+  - fig:5
+  basis: Erc is to come with his muster, troops, levy, and forces.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: uninformed external group
+  assigned_to:
+  - fig:6
+  basis: Conchobar says the men of Erin do not know whether he is still alive.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: named recipients or destinations of summons
+  assigned_to:
+  - fig:7
+  basis: The opening instruction lists many named people and places to be approached.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Opening itinerary of summons
+  summary: A command beginning “Go thou forward” names a long sequence of people and
+    places to be approached as part of the wider gathering.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Muster of Ulstermen around Emain
+  summary: Finnchad gathers the commanded muster. Ulstermen from east, west, and north
+    of Emain set out for the field of Emain, while those from the south go directly
+    onto the host’s trail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: March to Iraird Cuillinn and refusal to wait
+  summary: Conchobar leads the first stage from Emain to Iraird Cuillinn. The men
+    explain that they wait for Fiacha and Fiachna to return from Tara with Erc’s forces,
+    but Conchobar refuses to delay because the men of Erin do not know of his recovery
+    or whether he lives.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Catalogued summons to a war-muster
+  taxonomy_refs: []
+  basis: The passage combines a long itinerary of named people and places with the
+    statement that Finnchad gathered the assembly and muster enjoined by Conchobar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the list and the result of the gathering, but it does
+    not describe individual summons episodes for each named person.
+- id: motif:2
+  label: Royal war-band departure and pursuit
+  taxonomy_refs:
+  - departure
+  basis: Ulstermen set out for Emain or directly onto the host’s trail, and the first
+    stage of the march proceeds under Conchobar from Emain to Iraird Cuillinn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy link to “departure” is broad; the passage is specifically
+    a military departure and pursuit.
+- id: motif:3
+  label: Recovered ruler refusing delay for strategic surprise
+  taxonomy_refs: []
+  basis: Conchobar refuses to wait longer because the men of Erin do not know whether
+    he has risen from weakness and the Pains or whether he is alive.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage states Conchobar’s recovery and reason for haste, but the
+    wider cause of the Pains is not explained within this excerpt.
+- id: motif:4
+  label: Awaited reinforcements from royal kin and allied forces
+  taxonomy_refs: []
+  basis: The men delay because Conchobar’s sons have gone to Tara to bring Erc with
+    his muster, troops, levy, and forces.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage reports the expected reinforcement but not its arrival within
+    this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13146-13265, opening itinerary
+  quote_or_summary: The passage begins with “Go thou forward” and lists numerous named
+    persons and places to be approached, including the Morrigan at Dun Sobairche and
+    Cuchulain son of Sualtaim at Murthemne.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise quotation and summary allowed.
+- id: ev:2
+  type: quote
+  locator: lines 13146-13265, after opening itinerary
+  quote_or_summary: "“It was nowise a heavy task for Finnchad to gather this assembly
+    and muster which Conchobar had enjoined upon him.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise quotation allowed.
+- id: ev:3
+  type: summary
+  locator: lines 13146-13265, muster around Emain
+  quote_or_summary: All Ulstermen east, west, and north of Emain set out at once for
+    the field of Emain in service of their king and at the word of their lord, awaiting
+    Conchobar’s recovery.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:4
+  type: summary
+  locator: lines 13146-13265, southern contingent
+  quote_or_summary: Those south of Emain did not wait for Conchobar but set out directly
+    on the trail of the host and the hoof-prints of the Tain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:5
+  type: summary
+  locator: lines 13146-13265, first march stage
+  quote_or_summary: The first stage of the men of Ulster under Conchobar is from Emain
+    to the green in Iraird Cuillinn that night.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:6
+  type: summary
+  locator: lines 13146-13265, explanation for delay
+  quote_or_summary: The men answer Conchobar that they await his sons Fiacha and Fiachna,
+    who went with a division to Tara to fetch Erc with his muster, troops, levy, and
+    forces.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:7
+  type: quote
+  locator: lines 13146-13265, Conchobar’s refusal
+  quote_or_summary: Conchobar says he will delay no longer, lest the men of Erin hear
+    of his rising from weakness and the Pains, for they do not know whether he is
+    still alive.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise paraphrased quotation allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main actions and roles are clear, but the excerpt begins mid-instruction
+    and includes a long name catalogue with variant and corrupt readings. No external
+    comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction focuses on passage-level action patterns. Footnote apparatus and manuscript-variant notes are treated as source-context notes, not as separate motifs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l13146-l13265
+  passage_sha256=2534da8018dcfa5b53b6151184526cd650566ff7cabcfbf01d655bc8c7ccfa1a
+

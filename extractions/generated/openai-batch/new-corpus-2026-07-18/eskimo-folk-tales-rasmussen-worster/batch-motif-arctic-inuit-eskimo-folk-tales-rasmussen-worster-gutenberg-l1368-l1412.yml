@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l1368-l1412
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: ESKIMO FOLK-TALES / THE TWO FRIENDS WHO SET OFF TO TRAVEL ROUND THE WORLD
+    / THE COMING OF MEN, A LONG, LONG WHILE AGO / QUJAVARSSUK; lines 1368-1412
+  start: '1368'
+  end: '1412'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Qujavarssuk harpoons a whale. Other hunters expect it to swim out to sea,
+    but he says animals he strikes move inward toward his house. The whale appears
+    near shore and is towed. Qujavarssuk forbids anyone to eat until his mother has
+    eaten first. A strong man tries to eat anyway and suffers injury to his mouth.
+    After Qujavarssuk's mother eats, the others eat safely. The strong man does not
+    catch a whale until after Qujavarssuk catches another. Qujavarssuk later returns
+    south to his home and dies there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Qujavarssuk rows toward a whale and harpoons it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wounded whale goes down, and the bladder float also goes under water at
+    once.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other hunters say that a struck whale normally swims out to sea and tell Qujavarssuk
+    to row toward the place where it should surface.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Qujavarssuk waits until the third call before answering that animals he strikes
+    always move farther in toward his house.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The whale appears closer in to shore, in its death struggle, and the others
+    fasten a tow line to it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The strong man rows up and remarks that no one is eating the newly killed
+    whale.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Qujavarssuk says no one may eat from the whale until his mother has eaten
+    first.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The strong man tries to take a mouthful despite Qujavarssuk's statement; froth
+    comes from his mouth, and he spits the mouthful out because it is harming his
+    mouth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The whale is brought home; Qujavarssuk's mother eats from it, and afterward
+    the others eat from it without mouth injury.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The strong man waits and does not eat for a long time while his mouth heals.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The strong man of Amerdloq does not catch a whale until after Qujavarssuk
+    has caught another one.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Qujavarssuk stays at Amerdloq for a year, returns south to his home in spring,
+    and later dies in his own land.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Qujavarssuk
+  description: The person who harpoons the whale, says his struck animals move inward
+    toward his house, reserves first eating for his mother, later catches another
+    whale, and returns home.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Qujavarssuk's mother
+  description: The mother who must eat from the whale before others may eat safely.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Strong man of Amerdloq
+  description: A strong man who tries to eat before Qujavarssuk's mother has eaten,
+    suffers mouth injury, waits to heal, and later does not catch a whale until after
+    Qujavarssuk catches another.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Other hunters farther out
+  description: The people farther out who call instructions to Qujavarssuk, laugh,
+    and help tow the whale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Harpooned whale
+  description: The whale struck by Qujavarssuk, seen near shore in its death struggle,
+    towed home, and eaten.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: whale hunter whose catch moves shoreward
+  assigned_to:
+  - fig:1
+  basis: Qujavarssuk harpoons the whale and says animals he strikes move inward toward
+    his house; the whale appears closer to shore.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: son who sets first-eating condition for his mother
+  assigned_to:
+  - fig:1
+  basis: Qujavarssuk states that none may eat until his mother has eaten first.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: first eater before communal consumption
+  assigned_to:
+  - fig:2
+  basis: Qujavarssuk's mother eats from the whale before the others eat safely.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: strong man and premature eater
+  assigned_to:
+  - fig:3
+  basis: The strong man tries to eat before the mother has eaten and suffers injury
+    to his mouth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: advisers, witnesses, and towing helpers
+  assigned_to:
+  - fig:4
+  basis: The others call instructions, laugh at Qujavarssuk, and fasten a tow line
+    to the whale.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: hunted prey and shared catch
+  assigned_to:
+  - fig:5
+  basis: The whale is harpooned, towed, brought home, and eaten.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: whale catch
+  literal_form: A newly killed whale taken by harpoon, towed home, and eaten.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: bladder float
+  literal_form: The bladder float thrown out after the whale is struck and which immediately
+    goes under water.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sea water and shoreward movement
+  literal_form: The whale is expected to swim out to sea, but it appears closer in
+    to shore amid a washing of water.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: first eating from the whale
+  literal_form: The act of eating from the whale first, reserved for Qujavarssuk's
+    mother before others may eat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Harpooning and expected seaward flight
+  summary: Qujavarssuk harpoons the whale. Other hunters tell him that a struck whale
+    swims out to sea, but he says animals he strikes move inward toward his house.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Whale appears near shore and is towed
+  summary: The whale surfaces closer to shore in its death struggle, and the others
+    fasten a tow line to it. The strong man rows up and notes that no one is eating.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: First-eating condition and transgression
+  summary: Qujavarssuk says no one may eat until his mother has eaten first. The strong
+    man tries to eat anyway and suffers mouth injury.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mother eats first and others eat safely
+  summary: The whale is brought home. Qujavarssuk's mother eats, after which the others
+    eat without harm; the strong man waits for his mouth to heal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Aftermath and return home
+  summary: The strong man does not catch a whale until after Qujavarssuk catches another.
+    Qujavarssuk stays a year at Amerdloq, returns south to his home in spring, and
+    later dies there.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Exceptional hunter whose prey comes homeward
+  taxonomy_refs: []
+  basis: Qujavarssuk contradicts the expectation that a struck whale swims out to
+    sea and says animals he strikes move toward his house; the whale appears closer
+    to shore.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents an unusual hunting result but does not explain its
+    cause.
+- id: motif:2
+  label: First portion reserved for mother before communal eating
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Qujavarssuk forbids eating until his mother has eaten first; after she eats,
+    the others eat safely.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The mother is not described as divine or explicitly sacred; the taxonomy
+    link is based only on the structured food precedence and consequence.
+- id: motif:3
+  label: Violation of eating order causes bodily harm
+  taxonomy_refs: []
+  basis: The strong man tries to eat before Qujavarssuk's mother and immediately suffers
+    froth and mouth injury.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not state whether the harm is magical, ritual, or another
+    kind of consequence.
+- id: motif:4
+  label: Rival strong man outmatched in whale hunting
+  taxonomy_refs: []
+  basis: The strong man of Amerdloq does not catch a whale until after Qujavarssuk
+    has caught another one.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only a brief aftermath statement and does not develop
+    a full rivalry episode.
+- id: motif:5
+  label: Return south to homeland after a year away
+  taxonomy_refs:
+  - return
+  basis: After staying at Amerdloq for a year, Qujavarssuk returns southward to his
+    home in spring.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The return is stated as narrative closure and is not elaborated as a symbolic
+    return pattern in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1368-1371
+  quote_or_summary: Qujavarssuk rows toward the whale, harpoons it, and throws out
+    a bladder float that immediately goes under water as the whale sinks.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1372-1382
+  quote_or_summary: Other hunters say a struck whale will swim out to sea and call
+    repeatedly to Qujavarssuk; he answers that animals he strikes move farther inward
+    toward his house.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1383-1390
+  quote_or_summary: The hunters hear water closer to shore, find the whale there in
+    its death struggle, attach a tow line, and the strong man rows up to find no one
+    eating.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1391-1397
+  quote_or_summary: Qujavarssuk says none may eat until his mother has eaten; the
+    strong man nevertheless tries a mouthful, froth comes from his mouth, and he spits
+    it out because it harms his mouth.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1398-1405
+  quote_or_summary: The catch is brought home; Qujavarssuk's mother eats, then the
+    others eat without mouth trouble, while the strong man waits for his mouth to
+    heal.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1406-1408
+  quote_or_summary: The strong man of Amerdloq catches no whale until after Qujavarssuk
+    catches another one.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1410-1412
+  quote_or_summary: Qujavarssuk stays at Amerdloq for a year, returns south to his
+    home in spring, and later dies in his own land.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The sequence and figures are explicit in the passage. Motif labels are cautious;
+    no comparison claims are made because the passage itself does not compare this
+    episode with another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and used only where the passage gave direct support.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l1368-l1412
+  passage_sha256=e40f0c05c2d1d36bfeff6d423fc81406f75316d8be68764c4b463f45f0802c4c
+

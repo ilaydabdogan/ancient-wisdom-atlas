@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l9877-l9925
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE SECOND BATTLE, AND THE DISTRESS OF THE GREEKS. / BOOK IX. / ARGUMENT.
+    / THE EMBASSY TO ACHILLES.; lines 9877-9925
+  start: '9877'
+  end: '9925'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Fixd is his wrath, unconquerd is his pride;
+  summary: Ulysses reports that Achilles rejects the embassy and intends to leave
+    by ship; Tydides advises the Greeks to stop pleading with Achilles, refresh themselves,
+    and form for battle at dawn, after which the heroes make libations and sleep.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ithacus/Ulysses replies to a king and reports that Achilles' wrath and pride
+    are fixed, and that Achilles scorns friendship and proposals.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Achilles is reported as saying that saving the army and freeing the fleets
+    is not his concern.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Achilles is reported as planning to move over the sea under oars when morning
+    comes, and as telling the Greeks to use oars and sails too.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Achilles is reported as saying not to hope for Troy's fall because Jove protects
+    and supports Troy in war.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Phnix remains in Achilles' tent, with the possibility of being transported
+    to his native plains at dawn or choosing otherwise.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Achaian host receives Ulysses' report with sorrow and consternation before
+    Tydides speaks.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Tydides advises that the Greeks stop sending gifts and prayers to Achilles
+    and allow him either to desert or to aid them as he or Jove thinks fit.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Tydides advises the Greeks to take food and wine that night, then at dawn
+    form armed squadrons at the ships, with Atrides in the front.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The listening heroes acclaim the counsel, make libations to Heaven, and then
+    sleep in the tents.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ithacus / Ulysses
+  description: Speaker who reports Achilles' reply to the Greek assembly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Achilles
+  description: Absent chief whose wrath, pride, refusal, and intended departure are
+    reported; he retains Phnix in his tent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Jove
+  description: Divine power said to overshadow Troy, inspire its war, and determine
+    when Achilles may arm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Phnix
+  description: Person retained by Achilles in his tent, with his age described as
+    sacred and his choice free.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ajax
+  description: Named as one who heard Achilles' further declaration, along with the
+    sacred heralds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Sacred heralds
+  description: Heralds named as witnesses to Achilles' further declaration.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Tydides
+  description: Speaker who breaks the silence and gives counsel after Ulysses' report.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Achaian host / listening heroes
+  description: Collective Greek audience that reacts with sorrow, later acclaims the
+    counsel, offers libations, and sleeps.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:9
+  name_or_label: Atrides
+  description: Commander whom Tydides says should stand in the dread front, first
+    in danger and high command.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Embassy reporter
+  assigned_to:
+  - fig:1
+  basis: Ulysses reports the response of Achilles to the assembly.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: Wrathful refusing warrior
+  assigned_to:
+  - fig:2
+  basis: Achilles is described as fixed in wrath, scorning proposals, refusing care
+    for the army, and preparing to depart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Divine protector and arbiter
+  assigned_to:
+  - fig:3
+  basis: Jove is said to protect Troy and to be involved in when Achilles arms.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: Retained elder with free choice
+  assigned_to:
+  - fig:4
+  basis: Phnix is retained in Achilles' tent, his age is called sacred, and his choice
+    is described as free.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Witnesses to the message
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Ajax and the sacred heralds are named as having heard what Achilles further
+    declared.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Battle counselor
+  assigned_to:
+  - fig:7
+  basis: Tydides breaks the silence and advises food, rest, battle formation, and
+    no further pleading with Achilles.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:7
+  label: Collective army audience and ritual participants
+  assigned_to:
+  - fig:8
+  basis: The host hears the report, reacts with sorrow, later acclaims the counsel,
+    pays libations, and sleeps.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:8
+  label: Front-line commander
+  assigned_to:
+  - fig:9
+  basis: Tydides says Atrides should stand in the dread front, first in danger as
+    in command.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Oars and sails
+  literal_form: oars, sails, fleets, whitening billows
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Heaven-protected Troy
+  literal_form: Troy overshadowed by Jove's divine arm
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Gifts and prayers
+  literal_form: gifts sent to Achilles and prayers meant to bend his soul
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Wine and food
+  literal_form: generous wine and food taken to refresh strength
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Dawn and golden ray
+  literal_form: morning, rosy messenger of day, golden ray on blue mountains
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:6
+  label: Flaming arms in line
+  literal_form: squadrons ranged at the ships in flaming arms, a long-extended line
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Libations to Heaven
+  literal_form: due libations paid to Heaven
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Sleep over the tents
+  literal_form: sleep descending over the tents and bestowing repose
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Ulysses reports Achilles' refusal
+  summary: Ulysses tells the assembly that Achilles remains wrathful, rejects friendship
+    and proposals, will not care for the army or fleets, and speaks of sailing away
+    at morning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Tydides counsels battle readiness
+  summary: After the Achaian host reacts in sorrow, Tydides advises no further gifts
+    or prayers to Achilles, recommends food and wine for the night, and orders armed
+    formation at dawn with Atrides in front.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Acclaim, libation, and sleep
+  summary: The heroes approve the counsel, offer libations to Heaven, and sleep in
+    the tents.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Rejected embassy to a wrathful warrior
+  taxonomy_refs: []
+  basis: The reported reply says Achilles' wrath is fixed, he scorns friendship and
+    proposals, and Tydides urges the Greeks to stop sending gifts and prayers to him.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The passage reports the refusal indirectly through Ulysses rather than
+    presenting Achilles' speech directly.
+- id: motif:2
+  label: Threatened departure from the war
+  taxonomy_refs:
+  - departure
+  basis: Achilles is reported as preparing to take to the sea under oars at morning,
+    and Phnix may be transported to native plains.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a reported intention or plan; it does not narrate the
+    actual departure.
+- id: motif:3
+  label: Divine protection of a city in war
+  taxonomy_refs: []
+  basis: Achilles' reported statement says Troy should not be expected to fall because
+    Jove overshadows it, inspires its war, and makes its glory shine.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states divine support, but it does not include a formal judgment
+    scene.
+- id: motif:4
+  label: Ritual libation after council
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After the counsel is acclaimed, each hero pays due libations to Heaven before
+    sleep.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The rite is briefly mentioned and not elaborated as a central ritual episode.
+- id: motif:5
+  label: Dawn battle renewal after night counsel
+  taxonomy_refs: []
+  basis: Tydides advises night refreshment followed by armed squadrons at the ships
+    when dawn strikes the mountains.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is a battlefield planning pattern rather than a named taxonomy motif
+    in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9877-9880
+  quote_or_summary: 'Ulysses replies: Achilles'' wrath is fixed, his pride unconquered,
+    and he scorns friendship and proposals.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; brief excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9881-9882
+  quote_or_summary: Achilles is reported as saying that saving the army and freeing
+    the fleets is not his care, but is left to Greece and the king.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9883-9886
+  quote_or_summary: At morning Achilles' oars are expected to move through the billows;
+    he also bids the Greeks use oars and sails and not hope for Troy's fall.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 9887-9888
+  quote_or_summary: Jove is said to overshadow Troy with his divine arm, inspire her
+    war, and make her glory shine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; brief excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9889-9894
+  quote_or_summary: The sacred heralds and Ajax heard what Achilles further declared;
+    Phnix remains in Achilles' tent and may be transported home at dawn, though his
+    choice is free.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9896-9899
+  quote_or_summary: Ulysses ceases; the Achaian host is seized by sorrow and consternation
+    until Tydides breaks the silence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9900-9907
+  quote_or_summary: Tydides asks why they should send gifts or prayers to Achilles
+    and advises letting him desert or aid the battles as he or Jove thinks fit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9908-9917
+  quote_or_summary: Tydides counsels food and wine for strength, then at dawn a long
+    armed line by the ships, with Atrides in the dread front as commander.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9919-9922
+  quote_or_summary: The listening heroes raise shouts of acclaim, pay libations to
+    Heaven, and receive sleep over the tents.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to patterns directly visible in the passage; no external comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names and spellings follow the supplied passage where practical, including Phnix, Tydides, Jove, and Atrides.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l9877-l9925
+  passage_sha256=f81d8fcafe62af25c975443ec8b5ed4c60161ad03b4147bd7fe658b257d5655b
+

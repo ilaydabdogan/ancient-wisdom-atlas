@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l9887-l10007
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: XVIII / HERE NOW IS TOLD THE MISTHROW AT BELACH EOIN. / HERE NOW FOLLOWETH
+    THE DISGUISING OF TAMON / HERE NOW COMETH THE HEAD-PLACE OF FERCHU; lines 9887-10007
+  start: '9887'
+  end: '10007'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Laeg sees and describes a richly equipped chariot. Cuchulain recognizes
+    the approaching warrior as Fergus, his master, who comes to warn him. Fergus is
+    welcomed with a poor outlaw's portion and tells Cuchulain that Ferdiad, his friend,
+    comrade, foster-brother, and equal in arms, will fight him the next morning. Cuchulain
+    says his anxiety comes from love, not fear, and Fergus warns him of Ferdiad's
+    formidable horn-like battle-skin. Cuchulain vows not to retreat and says he has
+    held back the men of Erin for a long season.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Laeg announces an approaching chariot while acting as watcher and guard of
+    the four directions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The approaching chariot is described as large and royal-fortlike, with gold,
+    copper, and bronze fittings, drawn by black swift horses.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The warrior in the chariot is described with a large beard, a broad shield,
+    a red sword in a silver sheath, and a silver-banded spear.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cuchulain identifies the approaching warrior as Fergus, his master, and says
+    Fergus comes with warning and compassion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cuchulain welcomes Fergus and offers him birds, fish, water-cress, laver,
+    sea-grass, and cold water if such provisions are available.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Fergus calls the offered fare an outlaw's portion, and Cuchulain acknowledges
+    that his portion is an outlaw's portion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Fergus says he has come to tell Cuchulain who will fight him early the next
+    morning.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The named opponent is Ferdiad son of Daman son of Dare, described as Cuchulain's
+    friend, comrade, foster-brother, and equal in feats, arms, and deeds.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Cuchulain says he does not wish the encounter because of love and affection
+    for Ferdiad, not because of fear.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Cuchulain says he would almost prefer to fall by Ferdiad's hand than for Ferdiad
+    to fall by his.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Fergus urges Cuchulain to be prepared and says that fear of Ferdiad is fitting.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Ferdiad is said to have a horn-like battle-skin or belt on which weapon-points
+    and edges are not reddened.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: obs:13
+  text: Cuchulain swears by his arms that Ferdiad's limbs and joints will become soft
+    as rushes under the sword if Ferdiad appears at the ford.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Cuchulain says he has been checking and staying four of the five provinces
+    of Erin from Summer's end until the beginning of spring without retreating.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Laeg
+  description: Cuchulain's gilla and watcher, who sees and describes the approaching
+    chariot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cuchulain
+  description: Warrior holding back the men of Erin, host to Fergus, and prospective
+    combatant against Ferdiad.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Fergus
+  description: Cuchulain's master, arriving in a richly described chariot to warn
+    him about Ferdiad.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Ferdiad son of Daman son of Dare
+  description: Cuchulain's friend, comrade, foster-brother, equal in arms, and the
+    opponent expected to fight him the next morning; he is described as having horn-like
+    battle-skin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: Men of Erin / four of the five provinces of Erin
+  description: The collective force Cuchulain says he has been holding back during
+    the cattle-raid.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: watcher and announcer
+  assigned_to:
+  - fig:1
+  basis: Laeg keeps watch and announces the approaching chariot to Cuchulain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: defending warrior and host
+  assigned_to:
+  - fig:2
+  basis: Cuchulain welcomes Fergus, offers him fare, and states that he has held back
+    the men of Erin without retreat.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:3
+  label: master and warning-giver
+  assigned_to:
+  - fig:3
+  basis: Cuchulain identifies Fergus as his master coming with warning and compassion,
+    and Fergus states that he came to name the next opponent.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: beloved impending opponent
+  assigned_to:
+  - fig:4
+  basis: Ferdiad is named as the next fighter and as Cuchulain's friend, comrade,
+    foster-brother, and equal.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: opposing host
+  assigned_to:
+  - fig:5
+  basis: Cuchulain says he has been checking and staying the provinces and holding
+    Erin's men at bay.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: royal-fortlike chariot
+  literal_form: huge chariot with golden yoke, copper board, bronze shafts, and black
+    horses
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: warrior's arms
+  literal_form: broad shield, red sword in silver sheath, and silver-banded spear
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: outlaw's portion
+  literal_form: birds, fish, water-cress, laver, sea-grass, and cold water offered
+    as poor hospitality
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: horn-like battle-skin
+  literal_form: horny skin or belt in battle on which weapon-points and edges are
+    not reddened
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:5
+  label: ford
+  literal_form: the ford where Cuchulain says Ferdiad may show himself for combat
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: oath by arms
+  literal_form: Cuchulain swears by his arms of valour before the expected combat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Approach and description of Fergus's chariot
+  summary: Laeg sees an approaching chariot and describes its rich fittings, horses,
+    and armed warrior.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cuchulain welcomes Fergus with poor fare
+  summary: Cuchulain recognizes Fergus as his master, welcomes him, and offers him
+    a humble outlaw's portion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Warning of Ferdiad's coming
+  summary: Fergus tells Cuchulain that Ferdiad, Cuchulain's friend, foster-brother,
+    and equal, will fight him the next morning.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Ferdiad's dangerous nature and Cuchulain's vow
+  summary: Fergus warns that Ferdiad has horn-like battle-skin and should be feared;
+    Cuchulain vows he will not retreat and speaks of defeating Ferdiad at the ford.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: warning before single combat
+  taxonomy_refs: []
+  basis: Fergus arrives specifically to tell Cuchulain who will fight him early the
+    next morning and urges him to be prepared.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage supports the warning pattern, but no external taxonomy identifier
+    is supplied for it.
+- id: motif:2
+  label: beloved friend or foster-brother as fated opponent
+  taxonomy_refs: []
+  basis: Ferdiad is named as Cuchulain's friend, comrade, foster-brother, and equal,
+    yet is coming to fight him; Cuchulain says his concern is love rather than fear.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not state the broader causes forcing the duel; it only
+    presents the warning and emotional response.
+- id: motif:3
+  label: warrior with invulnerable body covering
+  taxonomy_refs: []
+  basis: Ferdiad is described as having a horn-like battle-skin or belt on which points
+    and edges are not reddened.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The exact nature of the covering is textually complex, with variants indicated
+    in the passage notes.
+- id: motif:4
+  label: single hero holding back a collective army
+  taxonomy_refs: []
+  basis: Cuchulain says he has checked four of the five provinces of Erin from Summer's
+    end to spring and has not retreated before one man or a multitude.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is extracted only as a passage-level pattern; the wider cattle-raid
+    context is not used beyond what the passage states.
+- id: motif:5
+  label: outlaw hospitality to an honored visitor
+  taxonomy_refs: []
+  basis: Cuchulain welcomes Fergus with a poor offering that Fergus calls an outlaw's
+    portion, and Cuchulain accepts that description.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the exchange literally, but its symbolic or social meaning
+    requires wider context not supplied here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9887-10007, opening chariot-description sequence
+  quote_or_summary: Laeg announces an approaching chariot while serving as watcher
+    and guard; the chariot is huge and royal-fortlike, with gold, copper, bronze,
+    and black swift horses.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9887-10007, chariot-warrior description
+  quote_or_summary: The warrior in the chariot is described with an expansive beard,
+    a broad many-colored shield, a red sword in a silver sheath, and a silver-banded
+    spear.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9887-10007, recognition of Fergus
+  quote_or_summary: Cuchulain says the approaching warrior is his master Fergus, coming
+    with warning and compassion; Fergus draws near, dismounts, and is welcomed.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9887-10007, welcome and outlaw's portion
+  quote_or_summary: Cuchulain offers Fergus such poor fare as birds, fish, greens,
+    sea plants, and cold water; Fergus calls it an outlaw's portion, and Cuchulain
+    agrees.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9887-10007, Fergus names the next combatant
+  quote_or_summary: Fergus says he came to inform Cuchulain that Ferdiad son of Daman
+    son of Dare, Cuchulain's friend, comrade, foster-brother, and equal in arms, will
+    fight him early the next morning.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9887-10007, Cuchulain's response to Ferdiad's coming
+  quote_or_summary: Cuchulain replies that he does not wish the encounter, not from
+    fear but from love and affection, and that he would almost prefer to fall by Ferdiad
+    than for Ferdiad to fall by him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9887-10007, Fergus warns of Ferdiad's strength
+  quote_or_summary: Fergus urges Cuchulain to be on guard, says fear of Ferdiad is
+    fitting, and describes Ferdiad as having horn-like skin or a belt in battle on
+    which weapon-points and edges do not redden.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9887-10007, Cuchulain's oath and record of resistance
+  quote_or_summary: Cuchulain swears by his arms that Ferdiad's limbs will be soft
+    as rushes under the sword if he comes to the ford; he says he has held four of
+    the five provinces from Summer's end to spring without retreat.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9887-10007, closing verse exchange
+  quote_or_summary: The verse exchange repeats Fergus's warning that Ferdiad comes
+    in rage, Cuchulain's claim to be holding Erin's men at bay, and the statement
+    that Ferdiad wears a skin of horn.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Figures and actions are explicit in the passage. Motif labels are cautious
+    passage-level patterns without external comparison claims. No comparison_claims
+    were added because the passage itself supplies no explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Editorial manuscript references and bracketed variants are treated as part of the supplied passage context, but no external manuscript evidence is added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l9887-l10007
+  passage_sha256=0d073d15f96e7e005f579a993c08f9a1b05bfe5a23d5bdcca109a86f14dd6885
+

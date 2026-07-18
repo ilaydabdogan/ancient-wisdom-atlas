@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.buddhist-diamond-sutra-gemmell-gutenberg-l4110-l4277
+source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+passage_locator:
+  label: WM. GEMMELL. / INTRODUCTION / THE DIAMOND SUTRA / INDEX; lines 4110-4277
+  start: '4110'
+  end: '4277'
+  translation: The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index segment lists names, terms, places, texts, and concepts
+    from Sattva through Yuen-Chioh-Sutra, each followed by page references. Entries
+    include Subhuti, Tathagata, Sumeru, Tuchita, Siva, Triratna, Treasures, Truth,
+    Waterfall, Water-strainer, and Wisdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as an alphabetical index with entries followed by
+    page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists several named or titled religious figures and terms, including
+    Subhuti, Tathagata, Siva, Sugata, and Sujata.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The index includes place or cosmological terms such as Shravasti, Sumeru,
+    Tuchita, Vais’ali, and West.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:4
+  text: The index includes doctrinal or conceptual terms including Selfhood, Signs,
+    Truth, Virtue, Vows, and Wisdom.
+  category: object
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:5
+  text: The index includes material or object-related entries such as Silver, Treasures,
+    Waterfall, and Water-strainer.
+  category: object
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Subhuti
+  description: Listed as an index entry with page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Tathagata
+  description: Listed as an index entry with page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Siva
+  description: Listed as an index entry with a page reference.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Sujata
+  description: Listed as an index entry with a page reference.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: indexed name or title
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage supplies only index entries and page references, without narrative
+    roles or actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sumeru
+  literal_form: Sumeru
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: water-related entries
+  literal_form: Waterfall; Water-strainer
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+- id: sym:3
+  label: Wisdom
+  literal_form: Wisdom
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: Treasures
+  literal_form: Treasures
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: wisdom as indexed theme
+  taxonomy_refs:
+  - wisdom
+  basis: The index contains a distinct entry for Wisdom with page references.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage is an index, so it establishes the presence of the theme in
+    the source but does not provide a narrative motif scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4110-4277
+  quote_or_summary: Alphabetical index entries from Sattva through Yuen-Chioh-Sutra,
+    each followed by one or more page references.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4170-4176
+  quote_or_summary: "“Subhuti, 6, 8, 13, etc.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 4218-4220
+  quote_or_summary: "“Tathagata, 25, 26, 38, 47, 49, 59, 63, 72, etc.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 4144-4184
+  quote_or_summary: "“Siva, 17”; “Sujata, 70”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 4134-4136
+  quote_or_summary: "“Shravasti, 2, 4, 6”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 4178-4180
+  quote_or_summary: "“Sumeru, 40, 42, 58”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:7
+  type: quote
+  locator: lines 4188-4258
+  quote_or_summary: "“Tuchita, 5”; “Vais’ali, 5”; “West, 110”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:8
+  type: quote
+  locator: lines 4120-4238
+  quote_or_summary: "“Selfhood, 42”; “Signs, 50”; “Truth, 27, 78, 79”; “Virtue, 3”;
+    “Vows, 19”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:9
+  type: quote
+  locator: lines 4266-4268
+  quote_or_summary: "“Wisdom, 3, 7, 8, 47”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:10
+  type: quote
+  locator: lines 4138-4230
+  quote_or_summary: "“Silver, 25, 43, 64, 107”; “Treasures, 25, 43, 64, 81, 90, 107”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:11
+  type: quote
+  locator: lines 4250-4254
+  quote_or_summary: "“Waterfall, 86”; “Water-strainer, 3”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is an index rather than a narrative or doctrinal passage. Literal
+    extraction is straightforward, but motif extraction is limited because entries
+    provide no actions, episodes, or symbolic explanations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No scenes or comparison claims were extracted because the passage provides only index entries and page references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:buddhist-diamond-sutra-gemmell-gutenberg__l4110-l4277
+  passage_sha256=e81889dac8b99772eb5db4cb8ce876e5ad1991eb39d6ee2640b49b981a7be5d4
+

@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l807-l851
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Chapter 11 / Footnotes / Chapter 12 / Chapter 13; lines 807-851
+  start: '807'
+  end: '851'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives regulations for priestly examination of skin conditions,
+    baldness, and mildew in garments or leather. It distinguishes clean from unclean
+    cases, prescribes visible marks and isolation for a leprous person, and sets procedures
+    for isolating, washing, tearing, or burning contaminated materials.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If an itch is arrested and black hair has grown in it, the itch is healed
+    and the priest pronounces the person clean.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man or woman with dull white bright spots in the skin is described as having
+    a harmless rash and is clean.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hair loss from the head or forehead alone is clean, but a reddish-white plague
+    on the bald head or forehead is leprosy and makes the man unclean.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The leper with the plague must wear torn clothes, let the hair of his head
+    hang loose, cover his upper lip, and cry out that he is unclean.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: For all the days the plague is in him, the leper is unclean, dwells alone,
+    and has his dwelling outside the camp.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A plague may appear in wool, linen, warp, woof, leather, or leather-made items,
+    with greenish or reddish coloring, and it must be shown to the priest.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The priest examines the plague in the material and isolates it for seven days.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: If the plague spreads in the garment, woven material, or skin item, it is
+    a destructive mildew, is unclean, and the affected item is burned in fire.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: If the plague has not spread, the affected thing is washed and isolated seven
+    more days; if unchanged afterward, it is unclean and burned.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: If the plague fades after washing, the affected part is torn out; if it reappears,
+    the item is burned, but if it departs after washing, the item is washed a second
+    time and becomes clean.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The stated law concerns mildew in wool, linen, warp, woof, or skin items,
+    for pronouncing them clean or unclean.
+  category: relationship
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: the priest
+  description: The priest examines skin conditions and material plagues, isolates
+    affected items, commands washing, and pronounces clean or unclean status.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: the leper with the plague
+  description: A person declared leprous and unclean, required to bear visible signs,
+    cry out his status, dwell alone, and live outside the camp.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: examined man or woman
+  description: A man or woman whose itch, bright spots, baldness, or other skin condition
+    is examined and may be pronounced clean or unclean.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: priestly examiner and pronouncer
+  assigned_to:
+  - fig:1
+  basis: The priest repeatedly examines bodily or material signs and declares clean
+    or unclean status.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:11
+- id: role:2
+  label: unclean afflicted person
+  assigned_to:
+  - fig:2
+  basis: The leprous man is declared unclean and must display signs of uncleanness
+    and dwell outside the camp.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: subject of examination
+  assigned_to:
+  - fig:3
+  basis: The passage describes men and women whose bodily signs are examined to determine
+    clean or unclean status.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire for burning contaminated material
+  literal_form: fire used to burn a garment, woven material, leather item, or spot
+    containing destructive mildew
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: visible signs of uncleanness
+  literal_form: torn clothes, loose head hair, covered upper lip, and the cry “Unclean!
+    Unclean!”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: outside-the-camp dwelling
+  literal_form: dwelling alone outside of the camp
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: seven-day isolation period
+  literal_form: isolation for seven days, followed by examination; in one case, seven
+    more days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:5
+  label: washing of affected material
+  literal_form: washing the thing containing the plague, and washing a second time
+    if the plague departs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: plagued garment or leather item
+  literal_form: wool, linen, warp, woof, leather, or leather-made item with a greenish
+    or reddish plague
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: priestly diagnosis of skin and scalp conditions
+  summary: The priest evaluates signs such as healed itch, white bright spots, baldness,
+    and reddish-white plague, and the person is categorized as clean or unclean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: public marking and isolation of the leper
+  summary: The leper bears visible marks, cries out his uncleanness, remains unclean
+    while the plague is present, dwells alone, and lives outside the camp.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: examination and isolation of a plagued garment
+  summary: A greenish or reddish plague in wool, linen, woven materials, or leather
+    is shown to the priest, who examines and isolates it for seven days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: washing, tearing, or burning contaminated material
+  summary: Depending on whether the plague spreads, remains unchanged, fades, reappears,
+    or departs, the material is washed, isolated again, torn, burned in fire, or pronounced
+    clean after a second washing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: ritual diagnosis of clean and unclean status
+  taxonomy_refs: []
+  basis: The passage repeatedly presents examination of bodily and material signs
+    followed by a clean or unclean pronouncement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:11
+  confidence: high
+  cautions: This is a legal-ritual pattern rather than a narrative mythic episode;
+    no supplied motif-family taxonomy is asserted.
+- id: motif:2
+  label: marked exclusion of the unclean person
+  taxonomy_refs: []
+  basis: The leper must display torn clothes, loose hair, covered upper lip, announce
+    uncleanness, dwell alone, and live outside the camp.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states ritual and spatial exclusion without giving a mythic
+    origin or comparative explanation.
+- id: motif:3
+  label: timed isolation and reexamination
+  taxonomy_refs: []
+  basis: The priest isolates the plague for seven days, examines it on the seventh
+    day, and in one case isolates it seven more days after washing.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The significance of the number seven is not explained in the passage.
+- id: motif:4
+  label: contamination in objects and material remediation
+  taxonomy_refs: []
+  basis: Garments, woven materials, and leather items can bear plague or mildew and
+    are treated by isolation, washing, tearing out, or burning.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage treats material impurity procedurally; it does not personify
+    the plague or describe supernatural agency.
+- id: motif:5
+  label: burning contaminated material
+  taxonomy_refs: []
+  basis: When mildew spreads, remains unchanged after washing, or reappears, the affected
+    material is burned in fire.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: Fire is a literal disposal method here; the passage does not frame it
+    as sacrifice or a broader cosmic fire motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '13:37'
+  quote_or_summary: "“the itch is healed. He is clean. The priest shall pronounce
+    him clean.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:2
+  type: summary
+  locator: 13:38-39
+  quote_or_summary: A man or woman with dull white bright spots has a harmless rash
+    and is clean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:3
+  type: summary
+  locator: 13:40-44
+  quote_or_summary: Baldness alone is clean; a reddish-white plague on the bald head
+    or forehead is leprosy and unclean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:4
+  type: quote
+  locator: '13:45'
+  quote_or_summary: "“wear torn clothes… hair… hang loose… cover his upper lip… cry,
+    ‘Unclean! Unclean!’”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:5
+  type: quote
+  locator: '13:46'
+  quote_or_summary: "“He shall dwell alone. His dwelling shall be outside of the camp.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:6
+  type: summary
+  locator: 13:47-49
+  quote_or_summary: A greenish or reddish plague in wool, linen, warp, woof, leather,
+    or leather item is shown to the priest.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:7
+  type: quote
+  locator: '13:50'
+  quote_or_summary: "“The priest shall examine the plague, and isolate the plague
+    seven days.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:8
+  type: summary
+  locator: 13:51-52
+  quote_or_summary: If the plague spreads, it is destructive mildew, unclean, and
+    the affected item is burned in fire.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:9
+  type: summary
+  locator: 13:53-55
+  quote_or_summary: If it has not spread, the item is washed and isolated seven more
+    days; if unchanged, it is burned.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:10
+  type: summary
+  locator: 13:56-58
+  quote_or_summary: If faded, the spot is torn out; if it reappears, burn it; if departed,
+    wash again and it is clean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+- id: ev:11
+  type: quote
+  locator: '13:59'
+  quote_or_summary: "“This is the law of the plague of mildew… to pronounce it clean…
+    or unclean.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain text as supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the legal passage. Motif labels
+    are descriptive and should be reviewed because the passage is ritual law rather
+    than narrative mythology. No comparison claims were made because the passage itself
+    does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, common-inheritance, or cross-tradition comparison claims were inferred from this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l807-l851
+  passage_sha256=357e0ab0de1af123b6e4c5d2680c13713102f651c42e62bc19559b922f03053f
+

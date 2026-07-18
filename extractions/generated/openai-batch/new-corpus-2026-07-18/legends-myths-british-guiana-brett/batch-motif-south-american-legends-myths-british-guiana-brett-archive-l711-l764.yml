@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l711-l764
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ORIGIN OF LIVING CREATURES. / LEGENDS AND MYTHS OF THE / ORIGIN OF THE WHITE
+    RACE. / ABORIGINAL TRIBES OF GUIANA.; lines 711-764
+  start: '711'
+  end: '764'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A verse passage explains a satirical origin for the white race. It says
+    the whites did not spring from the Komaka tree, but rose from wood cast on the
+    sea and found land far away. The passage contrasts useful local forest trees with
+    the worthless castaway stock of the white man, and frames the tale as mild revenge
+    by Indigenous people who suffered pursuit by armed Europeans and hounds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as an account of the origin of the white race.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says an addition was made to an old legend after ancestral witnesses
+    saw steel-clad white men.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: White men are described as using blood-hounds to hunt men for gold.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sages say the whites did not spring from the Komaka tree.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sages say the whites rose from wood cast on the sea, amid ocean spray,
+    and found land far over the waters.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker asks whether the wood belonged to local forest trees such as green-heart,
+    locust, balata, or mora.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Local trees are said to provide bark, gums, and strong timber, while the white
+    man's stock is described as good for nothing and cast away.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Red men seated on the ground smile and laugh at the old satire; the passage
+    says this was mild revenge for poor men who escaped in swamps from Spanish arcabuz
+    and hound.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the whites / white race / white men
+  description: The group whose origin is explained; they are also described as steel-clad
+    white men who hunted men for gold with blood-hounds.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: sages
+  description: Speakers who state that the whites did not spring from the Komaka tree
+    but from wood cast on the sea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: red men
+  description: People seated on the ground who smile and laugh at the old satire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: poor men who escaped
+  description: People said to have escaped in swamps from Spanish arcabuz and hound.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: our fathers
+  description: Ancestral witnesses who saw steel-clad white men.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: etiological subject
+  assigned_to:
+  - fig:1
+  basis: The passage presents an origin account for the whites and describes their
+    source as sea-cast wood.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: armed gold-seeking pursuers
+  assigned_to:
+  - fig:1
+  basis: White men are described as steel-clad and as hunting men with blood-hounds
+    for gold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: tradition-speaking sages
+  assigned_to:
+  - fig:2
+  basis: The sages are the named speakers who give the origin statement.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: satirical audience
+  assigned_to:
+  - fig:3
+  basis: The red men are seated on the ground and laugh at the old satire.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: escapees from pursuit
+  assigned_to:
+  - fig:4
+  basis: They are described as poor men who escaped in swamps from Spanish arcabuz
+    and hound.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: ancestral witnesses
+  assigned_to:
+  - fig:5
+  basis: The passage refers to fathers who surveyed steel-clad white men.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Komaka tree
+  literal_form: Komaka tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sea-cast wood
+  literal_form: wood cast on the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ocean waters
+  literal_form: sea, ocean spray, waters far away
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: local forest trees
+  literal_form: green-heart, locust, balata, mora
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: blood-hounds and hound
+  literal_form: blood-hounds; hound
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:6
+  label: gold
+  literal_form: gold
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: arcabuz
+  literal_form: Spanish arcabuz
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: steel-clad appearance
+  literal_form: steel-clad white men
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: historical frame of armed newcomers
+  summary: An old legend is said to have gained an addition after ancestral witnesses
+    saw steel-clad white men; these white men are described as hunting men with blood-hounds
+    for gold.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: sages give the origin statement
+  summary: The sages deny that the whites sprang from the Komaka tree and say instead
+    that they rose from wood cast on the sea and found land far away over the waters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: local trees contrasted with castaway stock
+  summary: The speaker rejects green-heart, locust, balata, and mora as the source
+    of the whites, saying local trees provide useful materials while the white man's
+    stock was worthless and cast away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: laughter at the old satire
+  summary: Red men seated on the ground laugh at the satire, which the passage calls
+    mild revenge for poor men who escaped in swamps from Spanish arcabuz and hound.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: origin of a people from castaway wood over the sea
+  taxonomy_refs: []
+  basis: The sages say the whites rose from wood cast on the sea and found land far
+    away over the waters.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief etiological statement and does not narrate
+    the transformation in detail.
+- id: motif:2
+  label: rejected tree-origin with degraded alternative origin
+  taxonomy_refs: []
+  basis: The whites are explicitly denied origin from the Komaka tree or useful local
+    forest trees and are instead linked to worthless stock cast away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The Komaka-tree origin tradition is only alluded to in this passage, not
+    fully narrated.
+- id: motif:3
+  label: satirical origin of hostile outsiders
+  taxonomy_refs: []
+  basis: The origin account is framed after violence by white men and ends with laughter
+    at an old satire described as mild revenge for those who escaped pursuit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage blends etiological myth, satire, and memory of European violence
+    in a missionary verse retelling.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the white-race origin from sea-cast wood is contrasted
+    with an alluded Komaka-tree origin tradition; both function as explanations of
+    group origin from tree or wood material, but the white origin is presented as
+    degraded castaway stock.
+  claim_level: same_function
+  target: Komaka-tree or wood-origin tradition alluded to in the passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only alludes to the Komaka-tree tradition and does not
+    provide the full adjacent myth for comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 711-719
+  quote_or_summary: The passage title names the origin of the white race; an old legend
+    is said to have gained an addition after 'our fathers' saw steel-clad white men.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: 720-724
+  quote_or_summary: '"They, with blood-hounds, we are told, / Hunted men — and all
+    for gold !"'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; brief quotation.
+- id: ev:3
+  type: summary
+  locator: 725-736
+  quote_or_summary: Sages say the whites did not spring from the Komaka tree, but
+    rose from wood cast on the sea amid ocean spray and found land far away.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 737-748
+  quote_or_summary: 'The speaker asks whether such wood came from local forest trees:
+    green-heart, locust, balata, or mora.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 749-756
+  quote_or_summary: Local trees are said to give useful bark, gums, and strong timber;
+    the white man's stock is said to be good for nothing and cast away.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 757-764
+  quote_or_summary: Red men seated on the ground laugh at the old satire, described
+    as mild revenge for poor men who escaped in swamps from Spanish arcabuz and hound.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Line subranges for evidence are approximate subdivisions within the supplied
+    canonical range 711-764. The passage is a verse retelling and includes satire
+    and historical framing; motif identifications are therefore kept cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Terms such as 'white race' and 'red men' are retained only as source-text categories for passage-level extraction.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l711-l764
+  passage_sha256=2bf2836d69b0a3bc3fae44b6bb74f2128c60a1514a17167aba562ffe60170650
+

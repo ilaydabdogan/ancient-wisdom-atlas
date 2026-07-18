@@ -1,0 +1,130 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8485-l8502
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 138 / PAGE 141 / PAGE 144 / PAGE 146; lines 8485-8502
+  start: '8485'
+  end: '8502'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss a reading of “four jewels of carbuncle,” an alternative
+    translation by O'Curry, a poem line lamenting the departing of the speaker's ghost,
+    and a line describing a hypothetical striking-off of parts of a leg and arm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note gives “Four jewels of carbuncle” as the reading of one manuscript
+    source, contrasting it with “forty” in the Book of Leinster.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note reports O'Curry's alternative translation of a phrase as “in each
+    compartment” and then comments on the Irish wording.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A poem line is quoted in which a first-person speaker laments the departing
+    of the speaker's ghost.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A quoted line describes a hypothetical act in which “he” would strike off
+    half of the speaker's sound leg and half of the speaker's arm.
+  category: action
+  evidence_refs:
+  - ev:4
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: carbuncle jewels
+  literal_form: four jewels of carbuncle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: departing ghost
+  literal_form: the departing of my ghost
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: departing ghost lament
+  taxonomy_refs: []
+  basis: The quoted poem line presents a first-person lament over the departing of
+    the speaker's ghost.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage is an isolated editorial note quoting a single line; it does
+    not provide enough narrative context for a stronger motif classification.
+- id: motif:2
+  label: bodily mutilation threat or comparison
+  taxonomy_refs: []
+  basis: The quoted lines refer to the possible striking-off of parts of the speaker's
+    leg and arm.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The wording is hypothetical and isolated from its narrative context; no
+    broader mythic function is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8485-8488
+  quote_or_summary: "“Four jewels of carbuncle.” The note says this is the reading
+    of H. 2, 17, contrasted with “forty” in the Book of Leinster."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8488-8491
+  quote_or_summary: The note states that O'Curry translates the phrase as “in each
+    compartment” and comments on the Irish wording.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: PAGE 144; line 8 of poem
+  quote_or_summary: "“Alas for the departing of my ghost.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: PAGE 146; lines 1-2
+  quote_or_summary: "“Though he had struck off the half of my leg that is sound, though
+    he had smitten off half my arm.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mainly editorial apparatus with short quoted fragments, so
+    literal extraction is possible but motif identification is weak and requires review
+    against the wider narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text, tradition, or motif family.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8485-l8502
+  passage_sha256=cf58f37bae7b49cc635f6848e4f0c0f176ed387a96459c032a62de2fe440f675
+

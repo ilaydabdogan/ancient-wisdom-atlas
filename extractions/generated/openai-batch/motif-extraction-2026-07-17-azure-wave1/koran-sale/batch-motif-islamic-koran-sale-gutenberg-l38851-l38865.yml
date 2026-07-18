@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38851-l38865
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCVII. / ENTITLED, AL KADR;
+    WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines
+    38851-38865
+  start: '38851'
+  end: '38865'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter XCVII, Al Kadr, states that the Koran was sent down during the
+    night of al Kadr; the night is described as better than a thousand months. Angels
+    and the spirit of Gabriel descend in it by their LORD's permission with decrees
+    concerning every matter, and it is peace until morning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter is entitled Al Kadr and includes an invocation of the Most Merciful
+    God.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person plural speaker states that the Koran was sent down in the night
+    of al Kadr.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The night of al Kadr is described as better than a thousand months.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Angels descend in that night, and the spirit of Gabriel also descends.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The descent occurs by permission of their LORD and with his decrees concerning
+    every matter.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The night is described as peace until the rising of the morn.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: First-person plural speaker
+  description: The voice that says it sent down the Koran in the night of al Kadr.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Most Merciful God / LORD
+  description: The passage invokes the Most Merciful God and says the angels descend
+    by permission of their LORD with his decrees.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Angels
+  description: Beings said to descend in the night of al Kadr by permission of their
+    LORD.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Spirit of Gabriel
+  description: The spirit of Gabriel is said to descend along with the angels.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sender of the Koran
+  assigned_to:
+  - fig:1
+  basis: The first-person plural speaker says the Koran was sent down in the night
+    of al Kadr.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: permitting Lord
+  assigned_to:
+  - fig:2
+  basis: The angels' and Gabriel's descent occurs by permission of their LORD.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: source of decrees
+  assigned_to:
+  - fig:2
+  basis: The passage mentions his decrees concerning every matter.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: descending heavenly beings
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The angels and the spirit of Gabriel descend in the night of al Kadr.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sent-down Koran
+  literal_form: The Koran, said to have been sent down in the night of al Kadr.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: night of al Kadr
+  literal_form: A named night in which the Koran is sent down and angelic beings descend.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: thousand months
+  literal_form: A duration used to describe the excellence of the night of al Kadr.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: angelic descent
+  literal_form: The descent of angels and the spirit of Gabriel in the night.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: decrees concerning every matter
+  literal_form: The LORD's decrees carried or accompanied in the angelic descent.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: rising of the morn
+  literal_form: The morning that marks the endpoint of the night's peace.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Koran sent down in the night of al Kadr
+  summary: The passage states that the Koran was sent down in the named night of al
+    Kadr.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Excellence of the night
+  summary: The night of al Kadr is presented as surpassing a thousand months.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Angels and Gabriel descend with decrees
+  summary: Angels and the spirit of Gabriel descend in the night by permission of
+    their LORD with decrees concerning every matter.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Peace until morning
+  summary: The passage concludes that the night is peace until the rising of the morn.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: revelation sent down in a sacred night
+  taxonomy_refs: []
+  basis: The Koran is said to be sent down in the night of al Kadr.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not elaborate a broader revelation narrative beyond this
+    statement.
+- id: motif:2
+  label: sacred night surpassing ordinary time
+  taxonomy_refs: []
+  basis: The night of al Kadr is described as better than a thousand months.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The value comparison is stated, but no ritual or calendrical context is
+    supplied in the passage.
+- id: motif:3
+  label: angelic descent with divine decrees
+  taxonomy_refs: []
+  basis: Angels and the spirit of Gabriel descend by their LORD's permission with
+    decrees concerning every matter.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states descent and decrees but does not specify the contents
+    of the decrees.
+- id: motif:4
+  label: peaceful night ending at dawn
+  taxonomy_refs: []
+  basis: The night is described as peace until the rising of the morn.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives a concise statement without additional imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38851-38856
+  quote_or_summary: Chapter XCVII is entitled Al Kadr; the passage includes the formula
+    'In the name of the Most Merciful God.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; brief summary with short quoted phrase.
+- id: ev:2
+  type: quote
+  locator: lines 38857-38857
+  quote_or_summary: VERILY we sent down the Koran in the night of al Kadr.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 38858-38861
+  quote_or_summary: The passage asks how the night of al Kadr may be understood and
+    states that it is better than a thousand months.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 38862-38864
+  quote_or_summary: In that night the angels and the spirit of Gabriel descend by
+    permission of their LORD with his decrees concerning every matter.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: line 38865
+  quote_or_summary: It is peace until the rising of the morn.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and direct. Motif candidates are descriptive rather
+    than mapped to the supplied taxonomy, because no available taxonomy reference
+    exactly matches this passage's revelation-night and angelic-descent features.
+    No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All claims are limited to the supplied passage and metadata. The record does not assert whether the first-person plural speaker and the LORD are identical beyond the passage's wording.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38851-l38865
+  passage_sha256=3418afbaa6d945b844c0f74d9a86cf748122e634c83b68ab44237b8644cc017c
+

@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l4607-l4661
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: AHUULA / A LEGEND OF KANIKANIAULA AND THE FIRST FEATHER CLOAK / KAALA AND
+    KAAIALII / A LEGEND OF LANAI; lines 4607-4661
+  start: '4607'
+  end: '4661'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"If I shut my eyes now I see her best; therefore let me shut my eyes forevermore."'
+  summary: Kaaialii declares that Kaala was his life and that he cannot live without
+    her. He kills himself beside her body. The king orders the two lovers to be placed
+    side by side on a ledge in the cave and wrapped in tapas. Ua laments them in a
+    chant that names the sea, the gods of the deep, Kahiki, Wakea, and the cave where
+    they sleep. Ua is then carried away, and the passage closes by saying the two
+    lovers sleep side by side in the Spouting Cave of Kaala.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kaaialii tells the king that he gave more life, strength, love, and thought
+    to Kaala than to battle, family, or himself.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kaaialii says he cannot live without Kaala and wants to shut his eyes forever.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kaaialii clasps Kaala, says farewell to Ua, and kills himself with a stone
+    blow to his head.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king orders the two lovers to be laid side by side on a cave ledge and
+    wrapped in tapas brought through the sea in tight bamboos.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ua wails over both dead lovers and chants questions about where they are,
+    whether they sleep by the sea, and whether they have gone to Kahiki, the land
+    of Wakea.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The lament compares the lovers to the sun and flower, the fish and wave, and
+    seeds in a shell.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ua is borne away by her brother to Kaunolu, where there is public wailing
+    and chants of lamentation for the two lovers.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage ends by identifying the lovers as sleeping side by side in the
+    Spouting Cave of Kaala.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kaaialii
+  description: A chief who declares his love for Kaala, kills himself after her death,
+    and is mourned in the cave.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Kaala
+  description: The dead beloved of Kaaialii, called a maid and a fond girl in the
+    lament, laid beside him in the cave.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Ua
+  description: A mourner who receives Kaaialii's farewell, wails over both lovers,
+    chants lamentation, and is borne away by her brother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: King
+  description: The king hears Kaaialii and orders burial arrangements for the two
+    lovers in the cave.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Ua's brother
+  description: The brother who carries Ua away to the sorrowful shore of Kaunolu.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Wakea
+  description: Named in Ua's lament as 'our father' and associated with the land of
+    Kahiki.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: gods of the deep
+  description: Named in Ua's lament as beings the lovers may dream of while sleeping
+    by the sea.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: bereaved lover
+  assigned_to:
+  - fig:1
+  basis: Kaaialii says Kaala was his breath and life and that he cannot live without
+    her.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-killing chief
+  assigned_to:
+  - fig:1
+  basis: Kaaialii kills himself with a stone after clasping his love and saying farewell
+    to Ua.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dead beloved
+  assigned_to:
+  - fig:2
+  basis: Kaala is already dead and is the one Kaaialii says he cannot live without.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: co-buried lover
+  assigned_to:
+  - fig:2
+  basis: The king orders Kaala and Kaaialii to lie side by side in the cave.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: lamenting mourner
+  assigned_to:
+  - fig:3
+  basis: Ua wails over both dead lovers and chants a lament.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: royal authority arranging burial
+  assigned_to:
+  - fig:4
+  basis: The king orders the lovers to be laid on a cave ledge and wrapped in tapas.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: escort of mourner
+  assigned_to:
+  - fig:5
+  basis: Ua is borne away by her brother to the shore of Kaunolu.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: ancestral father named in lament
+  assigned_to:
+  - fig:6
+  basis: Ua asks whether the lovers have gone to Kahiki, the land of 'our father,
+    Wakea.'
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: deep-sea divine beings named in lament
+  assigned_to:
+  - fig:7
+  basis: Ua asks whether the lovers will dream of the gods of the deep.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave; Spouting Cave of Kaala
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: sea and shore
+  literal_form: sea, sound of the sea, surf-beaten shore, sorrowful shore of Kaunolu
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: stone used for death blow
+  literal_form: stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: burial coverings and containers
+  literal_form: tapas brought through the sea in tight bamboos
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Kahiki and Wakea
+  literal_form: shores of Kahiki; land of our father, Wakea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: paired natural comparisons
+  literal_form: sun and flower; fish and wave; seeds in a shell
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Kaaialii's declaration and self-killing
+  summary: Kaaialii addresses the king, says Kaala was his life, clasps her, says
+    farewell to Ua, and kills himself with a stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Placement of the lovers in the cave
+  summary: After Ua wails over both bodies, the king orders the two lovers to lie
+    side by side on a cave ledge and to be wrapped in tapas brought through the sea
+    in tight bamboos.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ua's lament
+  summary: Ua chants a lament asking where the lovers are, invoking the sea, the gods
+    of the deep, Kahiki, Wakea, food of the cave and shore, and paired images for
+    their love and sleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Removal of Ua and final mourning
+  summary: Ua is carried away by her brother to Kaunolu, where there is loud wailing
+    and many laments for the two lovers sleeping in the Spouting Cave of Kaala.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: lovers united in death
+  taxonomy_refs:
+  - annihilation_union
+  basis: Kaaialii kills himself because he cannot live without Kaala, and the two
+    lovers are placed side by side in the cave and remembered as sleeping there together.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term is broader than the passage; the text presents
+    death and co-burial, not an explicit metaphysical union.
+- id: motif:2
+  label: mourning lament for dead lovers
+  taxonomy_refs: []
+  basis: Ua wails over both bodies and chants a lament naming their absence, possible
+    destination, abandoned tasks, and final sleep in the cave by the sea.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a supplied taxonomy
+    motif family.
+- id: motif:3
+  label: cave by the sea as resting place of the dead
+  taxonomy_refs: []
+  basis: The lovers are ordered to lie on a ledge of the cave, the lament asks whether
+    they will sleep by the sea, and the closing sentence says they sleep in the Spouting
+    Cave of Kaala.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not state a full underworld geography; it only links
+    burial/rest with the cave and sea.
+- id: motif:4
+  label: questioned journey to ancestral distant land
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Ua asks whether the dead lovers have gone to the shores of Kahiki, to the
+    land of 'our father, Wakea.'
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The wording is interrogative within a lament and does not confirm that
+    the lovers actually travel there or define an afterlife route.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4607-4615
+  quote_or_summary: Kaaialii tells the king that he gave Kaala more of his life, strength,
+    love, and thought than he gave to battle, his mother, or himself, and says, 'how
+    shall I live without her?'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4615-4619
+  quote_or_summary: Kaaialii says he sees Kaala best with his eyes shut, clasps her,
+    says farewell to Ua, and kills himself by crushing his brow and brain with a stone.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4620-4625
+  quote_or_summary: The dead chief lies beside his love; Ua wails; the king orders
+    the lovers placed side by side on a cave ledge and wrapped in tapas brought through
+    the sea in tight bamboos.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4626-4634
+  quote_or_summary: Ua's lament asks, 'Will ye sleep by the sound of the sea?' and
+    'will ye dream of the gods of the deep?'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4635-4645
+  quote_or_summary: Ua's lament asks whether the lovers have 'gone to the shores of
+    Kahiki, / To the land of our father, Wakea,' and mentions moss of the cave and
+    limpets of the surf-beaten shore.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 4646-4654
+  quote_or_summary: The lament says the lovers 'loved, like the sun and the flower,'
+    'lived like the fish and the wave,' and now sleep like 'seeds in a shell' in the
+    cave by the sea.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 4656-4661
+  quote_or_summary: Ua is carried by her brother to the sorrowful shore of Kaunolu;
+    there is loud wailing and many lamentation chants for the two lovers, who sleep
+    side by side in the Spouting Cave of Kaala.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions, speakers, and settings are clear in the passage. Motif assignments
+    are cautious because most available taxonomy terms are broader than the passage
+    evidence. No comparison claims were added because the passage itself does not
+    establish external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to the provided lists.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l4607-l4661
+  passage_sha256=01a2b5a8384db6ba8c31506dfda939d0ff6ee948c7d5c842b42c94fb018b65fa
+

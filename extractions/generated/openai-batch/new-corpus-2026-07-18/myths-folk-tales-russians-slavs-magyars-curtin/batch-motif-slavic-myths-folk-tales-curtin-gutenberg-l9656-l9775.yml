@@ -1,0 +1,582 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l9656-l9775
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: CHEKH MYTHS AND FOLK-TALES. / BOYISLAV, YOUNGEST OF TWELVE. / THE TABLE,
+    THE PACK, AND THE BAG. / THE KING OF THE TOADS.; lines 9656-9775
+  start: '9656'
+  end: '9775'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"Take this twig; it will be of use to thee."'
+  summary: A king enters an apparently deserted enchanted palace after receiving a
+    green twig from an old boatman. Inside he finds an old king frozen in place, whose
+    wife has betrayed him with the King of the Toads. The old king recounts that his
+    city and garden became a forest and lake, his subjects became fish, and the King
+    of the Toads seeks magic bird eggs to give the queen immortality and youth. The
+    visiting king uses the twig to immobilize the queen, disguises himself in her
+    garments, deceives the King of the Toads, and asks him to remove the old king's
+    spell.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old boatman gives the visiting king a green twig, says it will be useful,
+    says no one will take him back, and disappears.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The visiting king enters a palace or castle, finds no living soul through
+    several chambers, and thinks it is enchanted.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the last chamber the visiting king finds an old man who identifies himself
+    as a king without subjects or power.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The old king says his wife's treason caused another to rule in his place and
+    warns that she may kill the visiting king when she returns from the King of the
+    Toads.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The old king says his former city and garden have been changed into a dark
+    forest and a lake, and that the fish in the lake are his former subjects.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old king says the King of the Toads turned his wife's heart from him and
+    that she went every day to meet the King of the Toads.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The King of the Toads says he will find the magic bird's nest, take its eggs,
+    and give them to the queen to eat so she will become immortal and ever young.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old king cuts the King of the Toads in two, but after the queen falls
+    on him weeping, the King of the Toads grows together again.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The King of the Toads freezes the old king to his seat and lays a spell on
+    the land.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The visiting king's sword breaks when it touches the queen's clothing, but
+    three blows with the green twig make her unable to move.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The visiting king dresses in the queen's garments, changes his voice, and
+    deceives the King of the Toads into thinking he is the queen.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:12
+  text: The disguised visiting king asks the King of the Toads either to kill the
+    old husband completely or restore his former condition, and the King of the Toads
+    agrees.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: visiting king
+  description: The king who receives the green twig, enters the enchanted palace,
+    attacks and immobilizes the queen, and disguises himself to approach the King
+    of the Toads.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: old boatman
+  description: The old man at the shore who gives the visiting king a green twig,
+    says it will be useful, and disappears.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old king
+  description: An old man in the last chamber who says he is a king without subjects
+    or power and is frozen to his seat by the King of the Toads.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: queen, wife of the old king
+  description: The old king's wife, described as treacherous; she visits the King
+    of the Toads, catches frogs for him, and is immobilized by the green twig.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: King of the Toads
+  description: A being who rules in the old king's place, turned the queen's heart,
+    survived being cut in two, froze the old king to his seat, spelled the land, and
+    is deceived by the visiting king's disguise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: former subjects as fish
+  description: The old king's former subjects, said to be the fish in the lake.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: magic bird
+  description: A magic bird whose nest and eggs the King of the Toads says he will
+    take so the queen can eat the eggs and become immortal and ever young.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: magical helper
+  assigned_to:
+  - fig:2
+  basis: He gives the visiting king the green twig that later immobilizes the queen
+    and is planned for use against the King of the Toads.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:2
+  label: rescuer or active challenger
+  assigned_to:
+  - fig:1
+  basis: He refuses to flee, confronts the queen, consults with the old king, and
+    goes to the King of the Toads to seek removal of the enchantment.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: enchanted dispossessed king
+  assigned_to:
+  - fig:3
+  basis: He says he is a king without subjects or power, displaced by another, frozen
+    to a seat, and under the spell of the King of the Toads.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: treacherous queen and lover of the adversary
+  assigned_to:
+  - fig:4
+  basis: The old king attributes his ruin to his wife's treason and says she spends
+    each day with the King of the Toads.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: amphibian enchanter and adversary
+  assigned_to:
+  - fig:5
+  basis: He turns the queen's heart, spells the land, freezes the old king, protects
+    the queen, and promises immortality and youth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: transformed subjects
+  assigned_to:
+  - fig:6
+  basis: The old king says the fish in the lake are his former subjects.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: disguised deceiver
+  assigned_to:
+  - fig:1
+  basis: He puts on the queen's garments, changes his voice, and deceives the King
+    of the Toads.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: source of desired magical eggs
+  assigned_to:
+  - fig:7
+  basis: The King of the Toads says he will take the magic bird's eggs and give them
+    to the queen for immortality and youth.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: green twig
+  literal_form: A green twig given by the old boatman to the visiting king and later
+    used to immobilize the queen.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: empty enchanted palace
+  literal_form: A palace or castle with no visible living soul, containing the frozen
+    old king in its last chamber.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lake
+  literal_form: A lake occupying the place where the old king's city and garden had
+    been, containing fish who were formerly his subjects.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: dark forest
+  literal_form: A dark forest that replaces the former city and garden around the
+    palace.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: magic bird eggs
+  literal_form: Eggs from the magic bird's nest, proposed as food that will make the
+    queen immortal and ever young.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: broken sword
+  literal_form: The visiting king's sword, which breaks in two when it touches the
+    queen's clothing.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: queen's garments
+  literal_form: The queen's clothing, worn by the visiting king so he can impersonate
+    her before the King of the Toads.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: immobilizing seat or chair
+  literal_form: The old king is frozen to his seat, and the queen drops onto a seat
+    unable to move after being struck with the twig.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Twig given at the shore
+  summary: At the shore, the old boatman gives the visiting king a green twig, says
+    it will be useful, tells him he must return by dry land, and disappears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Entry into the deserted palace
+  summary: The visiting king enters the palace, finds it empty through several chambers,
+    and discovers the old king in the final room.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Old king's account of betrayal and enchantment
+  summary: The old king explains that his wife betrayed him with the King of the Toads,
+    his city and garden became a forest and lake, his subjects became fish, and he
+    was frozen by a spell.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Queen immobilized by the twig
+  summary: The queen returns at sunset; the visiting king's sword breaks when it touches
+    her clothing, but he strikes her three times with the green twig and she becomes
+    unable to move.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Disguise before the King of the Toads
+  summary: The visiting king dresses in the queen's garments, changes his voice, deceives
+    the King of the Toads, and asks him to remove the old husband's condition or kill
+    him completely.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: magical helper gives a useful token
+  taxonomy_refs:
+  - mystical_quest
+  basis: The old boatman gives the visiting king a green twig that later neutralizes
+    the queen and is intended for possible use against the King of the Toads.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The broader quest frame is only partly visible in this passage.
+- id: motif:2
+  label: enchanted kingdom with transformed subjects
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The old king is deprived of subjects and power, another rules in his place,
+    his city and garden become forest and lake, and his subjects become fish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage has not yet shown the final restoration of the kingdom.
+- id: motif:3
+  label: spouse turned toward a supernatural lover
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The old king says the King of the Toads turned his wife's heart from him,
+    and that she meets the King of the Toads daily and spends her time with him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The wife is also described as treacherous, so the passage does not present
+    her solely as an abducted or passive beloved.
+- id: motif:4
+  label: theft of magic bird eggs for immortality
+  taxonomy_refs:
+  - sacred_theft
+  basis: The King of the Toads says he will find the magic bird's nest, take its eggs,
+    and give them to the queen to eat so she becomes immortal and ever young.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The theft is proposed in reported speech; the passage does not show the
+    eggs actually being taken.
+- id: motif:5
+  label: dismembered adversary reconstitutes
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The old king cuts the King of the Toads in two, but after the queen falls
+    on him weeping, he grows together again.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The text says the King of the Toads grows together again, but does not
+    explicitly state that he died.
+- id: motif:6
+  label: magical freezing or paralysis
+  taxonomy_refs: []
+  basis: The King of the Toads freezes the old king to his seat; later the green twig
+    makes the queen unable to move.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific taxonomy reference among the supplied motif families exactly
+    matches this motif.
+- id: motif:7
+  label: deceptive disguise to obtain release from an enchantment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The visiting king dresses in the queen's garments and changes his voice to
+    trick the King of the Toads into granting the old husband's release or transformation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage ends immediately after the King of the Toads agrees, so the
+    outcome is not yet shown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9656-9663
+  quote_or_summary: The old boatman gives the king a green twig, says it will be useful,
+    tells him he will return by dry land, and disappears.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 9664-9675
+  quote_or_summary: The king enters the palace, finds no living soul through several
+    chambers, thinks it is enchanted, and finds an old man in the last room.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 9676-9693
+  quote_or_summary: The old man says he is a king without subjects or power, displaced
+    because of his wife's treason, and warns that she will kill the visitor when she
+    returns from the King of the Toads.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 9694-9716
+  quote_or_summary: The old king recounts that his city and garden became a dark forest
+    and lake, the lake's fish are his former subjects, the King of the Toads turned
+    his wife's heart, promised magic bird eggs for immortality and youth, was cut
+    in two, and grew together again.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 9716-9726
+  quote_or_summary: The King of the Toads freezes the old king to his seat, lays a
+    spell on the land, and receives frogs caught by the queen while promising her
+    immortality and youth.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 9727-9741
+  quote_or_summary: The visiting king refuses to flee, attacks the returning queen,
+    has his sword break on her clothing, remembers the twig, strikes her three times,
+    and leaves her unable to move.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 9742-9753
+  quote_or_summary: The old king suggests persuading the King of the Toads to free
+    the kingdom; the visiting king dresses in the queen's garments and plans to beg
+    or use the twig and sword.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 9754-9775
+  quote_or_summary: At night the disguised visiting king changes his voice, deceives
+    the King of the Toads, refuses an embrace until the old husband is killed or restored,
+    and the King of the Toads agrees.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidates and should be reviewed, especially broad taxonomy assignments.
+    No external comparison claims were generated from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims are left empty because the passage does not itself compare this tale to another text or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l9656-l9775
+  passage_sha256=67b25a2a9b0af74ef75c00d083352673a92fa7a2e5af5d7b438e292ab7f697b0
+

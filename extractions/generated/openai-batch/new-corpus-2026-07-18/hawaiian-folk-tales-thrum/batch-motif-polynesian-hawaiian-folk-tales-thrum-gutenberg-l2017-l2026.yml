@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l2017-l2026
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: LONOPUHA; OR, ORIGIN OF THE ART OF HEALING IN HAWAII / KAPEEPEEKAUILA; OR,
+    THE ROCKS OF KANA / KALELEALUAKA / PART I; lines 2017-2026
+  start: '2017'
+  end: '2026'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“I will not let him be buried; let him lie here, and I will watch over him...”"
+  summary: Makalani protests against burying Kaopele and says she will watch over
+    him, but the father-in-law binds Kaopele's feet with koali vines and stones, has
+    the body carried by canoe, and sinks it in the ocean between Kauai and Oahu. Makalani
+    mourns until her son is born and names him Kalelealuaka.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Makalani protests that Kaopele should not be buried and says she will watch
+    over him as he commanded.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The father-in-law disregards the wife's protests and binds strong koali vines
+    around Kaopele's feet with heavy stones attached.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kaopele's body is conveyed in a canoe and sunk in the ocean midway between
+    Kauai and Oahu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Makalani lives in sorrow for her husband until giving birth to a boy, whom
+    she names Kalelealuaka.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Makalani
+  description: Kaopele's wife, who protests against his burial and later bears and
+    names a son.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Kaopele
+  description: Makalani's husband; his body is bound and sunk in the ocean.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: father-in-law
+  description: Described as hard-hearted; he causes Kaopele's body to be bound, transported
+    by canoe, and sunk.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kalelealuaka
+  description: The male child born to Makalani after Kaopele's death and named by
+    her.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: protesting wife and watcher
+  assigned_to:
+  - fig:1
+  basis: Makalani refuses burial for Kaopele and says she will watch over him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead husband whose body is disposed of
+  assigned_to:
+  - fig:2
+  basis: Kaopele is named as the husband whose body is tied with vines and stones
+    and sunk in the ocean.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: body-disposing father-in-law
+  assigned_to:
+  - fig:3
+  basis: The father-in-law gathers vines, attaches stones, and causes the body to
+    be carried out and sunk.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mourning mother
+  assigned_to:
+  - fig:1
+  basis: Makalani lives in sorrow until the birth of her child.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: newborn named son
+  assigned_to:
+  - fig:4
+  basis: The child is a boy and receives the name Kalelealuaka.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: dark ocean waters
+  literal_form: the dark waters of the ocean midway between Kauai and Oahu
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: koali vines
+  literal_form: strong vines of the koali tied about Kaopele's feet
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heavy stones
+  literal_form: heavy stones attached to vines around Kaopele's feet
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: canoe
+  literal_form: a canoe used to convey Kaopele's body
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Protest and ocean disposal of Kaopele's body
+  summary: Makalani protests against burying Kaopele and intends to watch over him,
+    but the father-in-law has the body bound with vines and stones, carried by canoe,
+    and sunk in the ocean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Makalani's mourning and the birth of Kalelealuaka
+  summary: Makalani remains in sorrow for her husband until she gives birth to a boy
+    and names him Kalelealuaka.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Denied burial and secretive disposal of a corpse in water
+  taxonomy_refs: []
+  basis: Despite Makalani's protest against burial, the father-in-law weighs Kaopele's
+    body with vines and stones and has it sunk in the ocean.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not state a ritual or supernatural reason for the disposal.
+- id: motif:2
+  label: Posthumous or fatherless birth followed by naming of a son
+  taxonomy_refs: []
+  basis: After Kaopele's death and Makalani's mourning, she gives birth to a boy and
+    names him Kalelealuaka.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly say whether the child is posthumous in
+    a legal or genealogical sense beyond the narrative sequence.
+- id: motif:3
+  label: Widow's faithful watch over the dead obstructed by kin
+  taxonomy_refs: []
+  basis: Makalani says she will watch over Kaopele as he commanded, but the father-in-law
+    acts against her protests.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The broader command and its purpose are only alluded to in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2017-2019
+  quote_or_summary: 'Makalani protests: “I will not let him be buried; let him lie
+    here, and I will watch over him as he commanded.”'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2020-2024
+  quote_or_summary: The hard-hearted father-in-law gathers koali vines, ties them
+    around Kaopele's feet, attaches heavy stones, and has the body conveyed by canoe
+    and sunk in the ocean between Kauai and Oahu.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2025-2026
+  quote_or_summary: Makalani lives in sorrow for her husband until her child is born;
+    because the child is a boy, she names him Kalelealuaka.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to passage-level
+    patterns; no comparison claims were generated because the passage itself does
+    not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Uses only the supplied passage and metadata; taxonomy reference applied only to the literal ocean-water image.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l2017-l2026
+  passage_sha256=125fa26b6b5da0e79e617b05dda77510602a057f9d96b064c56baf898c8daca4
+

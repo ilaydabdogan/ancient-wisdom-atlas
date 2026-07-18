@@ -1,0 +1,149 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l65-l98
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: Zuni Folk Tales / FRANK HAMILTON CUSHING / LIST OF TALES; lines 65-98
+  start: '65'
+  end: '98'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“LIST OF TALES ... THE TRIAL OF LOVERS: OR THE MAIDEN OF MÁTSAKI AND THE
+    RED FEATHER”"
+  summary: 'The passage is front matter for Zuni Folk Tales, naming Frank Hamilton
+    Cushing as recorder and translator and beginning a list of tales with the title
+    “The Trial of Lovers: or The Maiden of Mátsaki and the Red Feather.”'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The source is titled “Zuni Folk Tales.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Frank Hamilton Cushing is named as the person who recorded and translated
+    the tales.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage contains a “LIST OF TALES.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The first listed tale title is “The Trial of Lovers: or The Maiden of Mátsaki
+    and the Red Feather.”'
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The tale title names lovers, a maiden associated with Mátsaki, and a red feather.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: lovers
+  description: The title refers to “lovers.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: maiden of Mátsaki
+  description: The title refers to “the Maiden of Mátsaki.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: lovers named in tale title
+  assigned_to:
+  - fig:1
+  basis: The listed tale title includes “The Trial of Lovers.”
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: maiden named in tale title
+  assigned_to:
+  - fig:2
+  basis: The listed tale title includes “The Maiden of Mátsaki.”
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: red feather
+  literal_form: red feather
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: trial of lovers
+  taxonomy_refs: []
+  basis: The listed tale title explicitly names “The Trial of Lovers.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only the table-of-contents title is present; no narrative action or plot
+    details are provided in this passage.
+- id: motif:2
+  label: maiden and distinctive token
+  taxonomy_refs: []
+  basis: The title links a maiden with a red feather, but does not state how the feather
+    functions in the tale.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The feather’s symbolic or narrative role cannot be determined from the
+    title alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 65-98
+  quote_or_summary: "“ZUÑI FOLK TALES”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 65-98
+  quote_or_summary: "“Recorded and Translated by FRANK HAMILTON CUSHING”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 65-98
+  quote_or_summary: "“LIST OF TALES”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 65-98
+  quote_or_summary: "“THE TRIAL OF LOVERS: OR THE MAIDEN OF MÁTSAKI AND THE RED FEATHER”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is front matter and a list-of-tales entry, not a narrative passage.
+    Extraction is limited to title-level figures, objects, and motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself provides only bibliographic/front-matter information and a tale title.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l65-l98
+  passage_sha256=e7d88480f18364d37ef60516a083369d082df93029b78d474c11ca1eb92f4d3b
+

@@ -1,0 +1,497 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l1418-l1507
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: LI. THE HASTY WORD                                            370 / RUSSIAN
+    FOLK-TALES. / CHAPTER I. / INTRODUCTORY.; lines 1418-1507
+  start: '1418'
+  end: '1507'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A ruined Russian merchant borrows fifty thousand roubles from a Tartar
+    merchant, naming the life-giving cross as surety. After prospering, he is caught
+    in a storm and sends the repayment in a barrel through the water. The barrel miraculously
+    reaches the Tartar, who later recognizes the repayment and is baptized with his
+    household after a thanksgiving service.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two merchants, one Russian and one Tartar, live in a town near a stream; the
+    Russian loses his property and asks the Tartar for a loan.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tartar asks for a surety, and the Russian names the life-giving cross
+    on the church as surety.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Tartar accepts the cross as surety and lends the Russian merchant fifty
+    thousand roubles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After gaining wealth through trade, the Russian merchant encounters a storm
+    while sailing on the Danube and connects it with his unpaid debt.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Russian merchant puts fifty thousand roubles and a note into a barrel
+    and throws it into the water, expecting it to reach the Tartar because the cross
+    was surety.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A Russian kitchen-maid in the Tartar's house sees a barrel floating in the
+    river when she goes for water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The barrel retreats from the kitchen-maid when she approaches and floats after
+    her when she turns toward shore.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the Tartar enters the water, the barrel floats to him of its own accord.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Inside the barrel the Tartar finds money and a note stating that the Russian
+    merchant is returning the borrowed fifty thousand roubles.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: When the Russian merchant later returns and offers repayment again, the Tartar
+    shows him the note and says he has no more money to receive from him.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The Russian merchant has a thanksgiving service performed to God, and the
+    Tartar is baptized with all his household; the Russian merchant is godfather and
+    the kitchen-maid godmother.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Russian merchant
+  description: A merchant who becomes ruined, borrows from the Tartar, later prospers,
+    sends repayment in a barrel, and becomes godfather at the Tartar's baptism.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Tartar merchant
+  description: A rich merchant who lends money to the Russian, accepts the cross as
+    surety, receives the barrel with repayment, and later is baptized.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Russian kitchen-maid
+  description: A kitchen-maid in the Tartar's house who first sees the floating barrel
+    and later serves as godmother at the Tartar's baptism.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:4
+  name_or_label: Tartar's household
+  description: The household baptized together with the Tartar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: debtor-borrower
+  assigned_to:
+  - fig:1
+  basis: The Russian merchant borrows fifty thousand roubles from the Tartar and later
+    returns the sum.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:2
+  label: merchant-trader
+  assigned_to:
+  - fig:1
+  basis: The Russian merchant resumes trade after borrowing and gains wealth.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: creditor-lender
+  assigned_to:
+  - fig:2
+  basis: The Tartar asks for surety and lends fifty thousand roubles.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of miraculous repayment
+  assigned_to:
+  - fig:2
+  basis: The barrel containing the repayment floats to the Tartar, and he finds the
+    money and note inside.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: initial discoverer of barrel
+  assigned_to:
+  - fig:3
+  basis: The kitchen-maid sees the floating barrel while going to the river for water
+    and reports it to her master.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: baptized convert or converts
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage says the Tartar was baptized with all his household.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: godfather
+  assigned_to:
+  - fig:1
+  basis: The Russian merchant is named as the Tartar's godfather.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: godmother
+  assigned_to:
+  - fig:3
+  basis: The kitchen-maid is named as the Tartar's godmother.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: life-giving cross as surety
+  literal_form: The life-giving cross on the church named as surety for the loan.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: water route
+  literal_form: Stream, Danube, river, and water through which storm and barrel episode
+    occur.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: barrel carrying repayment
+  literal_form: A barrel containing fifty thousand roubles and a note, thrown into
+    the water and later retrieved by the Tartar.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: fifty thousand roubles
+  literal_form: The exact sum borrowed and later returned in the barrel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: repayment note
+  literal_form: A written note placed on top of the money identifying it as repayment
+    of the loan secured by the cross.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: storm during voyage
+  literal_form: A storm arising while the Russian merchant sails on the Danube.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: baptism and godparenthood
+  literal_form: The Tartar and household are baptized, with the Russian merchant as
+    godfather and the kitchen-maid as godmother.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Loan secured by the life-giving cross
+  summary: The ruined Russian merchant asks the Tartar for money; when asked for surety,
+    he names the life-giving cross, and the Tartar lends him fifty thousand roubles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Storm and dispatch of repayment
+  summary: After prospering, the Russian merchant meets a storm on the Danube, remembers
+    the debt, and throws a barrel with the exact repayment and a note into the water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Barrel appears at the Tartar's river
+  summary: The kitchen-maid sees the barrel in the river; it will not come to her,
+    but when the Tartar enters the water, it floats to him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Debt recognized as already paid
+  summary: The Tartar opens the barrel, finds the money and note, and later shows
+    the note to the Russian merchant when he offers repayment again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Thanksgiving and baptism
+  summary: After the wondrous manifestation, the Russian merchant has a thanksgiving
+    service performed, and the Tartar and his household are baptized with the Russian
+    merchant and kitchen-maid as godparents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: sacred surety for a debt
+  taxonomy_refs:
+  - covenant
+  - sacred_exchange
+  basis: A loan is made only after the Russian merchant names the life-giving cross
+    as surety, and the later repayment is repeatedly tied to that surety.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage uses a Christian cross as surety in a loan rather than a formal
+    covenant ritual.
+- id: motif:2
+  label: storm prompts recognition of unpaid obligation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The merchant interprets the sudden storm as caused by his unpaid debt, and
+    the storm begins to subside after he recognizes this obligation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text reports the merchant's interpretation; it does not explicitly
+    state a divine speaker or named agent causing the storm.
+- id: motif:3
+  label: miraculous water-borne delivery to rightful recipient
+  taxonomy_refs: []
+  basis: The barrel with money sinks, later floats at the Tartar's river, avoids the
+    kitchen-maid, and comes to the Tartar of its own accord.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference exactly matches this specific water-borne
+    repayment motif.
+- id: motif:4
+  label: conversion following a wondrous manifestation
+  taxonomy_refs:
+  - initiation
+  basis: After the barrel episode is recognized as wondrous, the Russian merchant
+    makes a thanksgiving offering and the Tartar is baptized with his household.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The baptism is explicit, but the passage gives only a brief causal sequence
+    and does not elaborate the convert's inner motivation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1418-1427
+  quote_or_summary: Two rich merchants, one Russian and one Tartar, live near a stream;
+    the Russian loses all property and asks the Tartar for money.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1428-1441
+  quote_or_summary: '"there''s a surety for you, the life-giving cross on the church!"
+    The Tartar accepts and gives fifty thousand roubles.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1442-1453
+  quote_or_summary: After profiting from trade, the Russian merchant sails on the
+    Danube; a storm arises, he remembers the unpaid debt secured by the cross, and
+    the storm begins to subside.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1454-1463
+  quote_or_summary: The merchant places fifty thousand roubles and a note in a barrel,
+    throws it into the water, and trusts it will reach the Tartar because the cross
+    was surety.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1464-1476
+  quote_or_summary: A Russian kitchen-maid sees the barrel in the river; it retreats
+    when she approaches and follows when she turns toward shore.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1477-1487
+  quote_or_summary: The Tartar goes to the river; the barrel floats to him of its
+    own accord, and he carries it home and opens it.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 1488-1496
+  quote_or_summary: 'The note says: "I return to you the fifty thousand roubles" borrowed
+    with the life-giving cross as surety.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1497-1502
+  quote_or_summary: The Russian merchant returns, offers to settle the debt again,
+    and the Tartar shows him the note; everyone is astounded at the wondrous manifestation.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 1503-1507
+  quote_or_summary: The Russian merchant has a thanksgiving service performed to God;
+    next day the Tartar and his household are baptized, with the Russian as godfather
+    and the kitchen-maid as godmother.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage details are explicit and public-domain. Motif taxonomy assignments
+    are cautious, especially for divine judgment and initiation, because the passage
+    implies rather than doctrinally explains some connections. No comparison claims
+    were added because the passage itself does not compare this tale to another corpus
+    or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l1418-l1507
+  passage_sha256=67400bb3679e4343276c5eac5053cff1c8136a425799166c477869751ed0ca6a
+

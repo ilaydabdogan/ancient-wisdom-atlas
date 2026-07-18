@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.egyptian-legends-of-gods-budge-gutenberg-l2344-l2377
+source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+passage_locator:
+  label: THE HISTORY OF CREATION--B. / THE BOOK OF KNOWING THE EVOLUTIONS OF RA, AND
+    OF OVERTHROWING APEP. / THE LEGEND OF THE DESTRUCTION OF MANKIND. / CHAPTER I.;
+    lines 2344-2377
+  start: '2344'
+  end: '2377'
+  translation: 'Legends of the Gods: The Egyptian Texts, edited with Translations'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Ra departs from men, commands that an abode and fields be made, brings
+    fields, herbs, stars, and supports of heaven into being, and orders Shu to support
+    and nurse Nut, who trembles because of her height.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The deity says he is departing from men and that whoever would see him must
+    come after him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The deity commands that men be gathered and an abode for multitudes be prepared.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The deity commands that a great field be produced, and Sekhet-hetep comes
+    into being.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The deity says he will gather herbs there, and Sekhet-aaru comes into being.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The deity says he will make the place contain things like stars of all sorts,
+    and the stars come into being.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The goddess Nut trembles because of the height.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Ra decrees supports to bear the goddess, and the props of heaven come into
+    being.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ra addresses Shu as his son and Nut as his daughter, asking Shu to place himself
+    under Nut, guard the supports, take the goddess on his head, and act as nurse
+    for her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says that a custom of a son nursing a daughter and a father carrying
+    a son upon his head comes into being.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ra / the Majesty of this god
+  description: The deity who departs from men, issues creative commands, and later
+    is named as Ra.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: men / multitudes
+  description: Human collectives from whom the deity departs and whom he commands
+    to be gathered for an abode.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Nut
+  description: A goddess called Ra's daughter; she trembles because of height and
+    is to be supported by Shu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Shu
+  description: Ra's son, instructed to stand under Nut, guard the supports, carry
+    her on his head, and act as nurse for her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: departing deity
+  assigned_to:
+  - fig:1
+  basis: The deity states that he is departing from men.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creative decreer
+  assigned_to:
+  - fig:1
+  basis: The deity's commands bring fields, herbs, stars, and heavenly supports into
+    being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: divine father
+  assigned_to:
+  - fig:1
+  basis: Ra calls Shu his son and Nut his daughter.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: human collective
+  assigned_to:
+  - fig:2
+  basis: Men are the group from whom the deity departs and whom he orders gathered.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: elevated daughter-goddess needing support
+  assigned_to:
+  - fig:3
+  basis: Nut trembles because of height and is to be borne up by supports and by Shu.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: supporting son and nurse
+  assigned_to:
+  - fig:4
+  basis: Shu is told to set himself under Nut, guard the supports, carry her on his
+    head, and nurse her.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: great field
+  literal_form: A great field named Sekhet-hetep.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: herb-field
+  literal_form: Herbs gathered in the field, associated with Sekhet-aaru.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stars
+  literal_form: Things like stars of all sorts, followed by the stars coming into
+    being.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: height of Nut
+  literal_form: The goddess Nut at a height that causes her to tremble.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: props of heaven
+  literal_form: Supports or props of heaven decreed by Ra to bear the goddess.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: darkness
+  literal_form: Darkness in which the millions associated with the supports live.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Divine departure and gathering of men
+  summary: The deity announces his departure from men and commands that men be gathered
+    and an abode for multitudes prepared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation of fields, herbs, and stars
+  summary: The deity's spoken commands produce Sekhet-hetep, Sekhet-aaru, and the
+    stars; Nut trembles because of height.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Heavenly supports and Shu beneath Nut
+  summary: Ra decrees supports for the goddess and instructs Shu to stand under Nut,
+    guard the supports, carry her on his head, and nurse her, establishing related
+    customs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine departure from humanity
+  taxonomy_refs:
+  - departure
+  basis: The deity states that he is departing from men and that one who would see
+    him must come after him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe the destination in this line range.
+- id: motif:2
+  label: creative speech brings places and stars into being
+  taxonomy_refs: []
+  basis: Fields, herbs, stars, and heavenly supports come into being after the deity
+    speaks or decrees them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific available taxonomy family directly matches creation by decree.
+- id: motif:3
+  label: heaven or elevated goddess supported by divine props and a god
+  taxonomy_refs: []
+  basis: Ra decrees supports for the goddess, and Shu is told to stand beneath Nut
+    and carry her on his head.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage names the props of heaven but does not give a broader cosmological
+    explanation beyond this scene.
+- id: motif:4
+  label: divine parent-child hierarchy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Ra calls Shu his son and Nut his daughter, and assigns Shu a role toward
+    Nut.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the relationship in direct address but does not narrate
+    their births.
+- id: motif:5
+  label: origin of custom through divine precedent
+  taxonomy_refs: []
+  basis: The passage explicitly says that the custom of a son nursing a daughter and
+    a father carrying a son upon his head comes into being after Ra's command to Shu.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact social or ritual setting of the custom is not explained in this
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2344-2350
+  quote_or_summary: The deity says he is departing from men, that anyone who would
+    see him must come after him, then commands that men be gathered and an abode for
+    multitudes made ready.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2350-2358
+  quote_or_summary: The deity commands a great field, Sekhet-hetep, then herbs and
+    Sekhet-aaru, then things like stars; the stars come into being, and Nut trembles
+    because of the height.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2368-2370
+  quote_or_summary: Ra decrees supports to bear the goddess, and the props of heaven
+    come into being.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2370-2377
+  quote_or_summary: Ra tells his son Shu to stand under his daughter Nut, guard the
+    supports and the millions in darkness, take the goddess on his head, and nurse
+    her; the passage then derives customs of nursing and carrying from this act.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but the passage contains ellipses
+    and some motifs are not mapped to an exact available taxonomy family. No cross-tradition
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnotes in the supplied excerpt were not treated as narrative events except where they help identify translation notes; no unsupported taxonomy symbol references were assigned.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-legends-of-gods-budge-gutenberg__l2344-l2377
+  passage_sha256=d22daa0e40e8b53a29a5c4660215056ad8a941781d8470645796d9cea04878d6
+

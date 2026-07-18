@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.biblical-genesis-web-classic-l2776-l2794
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Footnotes / Chapter 39 / Chapter 40 / Chapter 41; lines 2776-2794
+  start: '2776'
+  end: '2794'
+  translation: Genesis
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Joseph stores the food and grain from seven years of abundance in Egyptian
+    cities. Before the famine, Asenath bears him two sons, whom he names Manasseh
+    and Ephraim with explanations referring to God, toil, his father’s house, fruitfulness,
+    and affliction. The seven years of plenty end and seven years of famine begin;
+    famine affects all lands, but Egypt has bread. Egyptians cry to Pharaoh for bread,
+    Pharaoh sends them to Joseph, and Joseph opens the storehouses and sells grain
+    to Egyptians and to people from all countries.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Joseph gathered food during the seven years in Egypt and stored it in cities,
+    placing food from nearby fields in each city.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joseph stored grain in such quantity that it is described as like the sand
+    of the sea and beyond counting.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Before the year of famine, Asenath, daughter of Potiphera priest of On, bore
+    Joseph two sons.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Joseph named his firstborn Manasseh and said God had made him forget all his
+    toil and all his father’s house.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Joseph named his second son Ephraim and said God had made him fruitful in
+    the land of his affliction.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The seven years of plenty in Egypt ended, and the seven years of famine began
+    as Joseph had said.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Famine is described as affecting all lands, while all the land of Egypt had
+    bread.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When Egypt was famished, the people cried to Pharaoh for bread, and Pharaoh
+    told the Egyptians to go to Joseph and do what Joseph said.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Joseph opened the storehouses and sold grain to the Egyptians during the severe
+    famine.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: All countries came into Egypt to Joseph to buy grain because the famine was
+    severe in all the earth.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Joseph
+  description: He gathers and stores food and grain, names his sons, is identified
+    by Pharaoh as the person Egyptians should obey, opens storehouses, and sells grain.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Asenath
+  description: Daughter of Potiphera priest of On; she bore Joseph two sons before
+    the famine.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Manasseh
+  description: Joseph’s firstborn son, named with an explanation about God making
+    Joseph forget his toil and father’s house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ephraim
+  description: Joseph’s second son, named with an explanation about God making Joseph
+    fruitful in the land of affliction.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Pharaoh
+  description: The famished people cry to him for bread, and he tells the Egyptians
+    to go to Joseph and obey Joseph’s instructions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Egyptians / people of Egypt
+  description: They become famished, cry to Pharaoh for bread, are directed to Joseph,
+    and buy grain during the famine.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: All countries
+  description: People from all countries come into Egypt to Joseph to buy grain because
+    the famine is severe in all the earth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: God
+  description: In Joseph’s naming explanations, God is said to have made Joseph forget
+    his toil and father’s house and made him fruitful in the land of affliction.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: storehouse administrator and famine provider
+  assigned_to:
+  - fig:1
+  basis: Joseph gathers food, stores grain, opens storehouses, and sells grain during
+    famine.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: father and name-giver
+  assigned_to:
+  - fig:1
+  basis: Joseph names his two sons and gives explanations for their names.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mother of Joseph’s sons
+  assigned_to:
+  - fig:2
+  basis: Asenath bears Joseph two sons before the famine.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sons named from Joseph’s experience
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Manasseh and Ephraim are identified as Joseph’s sons and are named with explanations
+    tied to Joseph’s toil, father’s house, fruitfulness, and affliction.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: royal referrer to Joseph
+  assigned_to:
+  - fig:5
+  basis: Pharaoh responds to pleas for bread by directing Egyptians to Joseph.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: food seekers and grain buyers
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Egyptians cry for bread and buy grain; all countries come to Egypt to Joseph
+    to buy grain.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: divine cause named in personal explanations
+  assigned_to:
+  - fig:8
+  basis: Joseph attributes forgetting and fruitfulness to God in the explanations
+    of his sons’ names.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: stored grain and food
+  literal_form: Food and grain gathered during seven abundant years, stored in cities,
+    and later sold during famine.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: bread in Egypt
+  literal_form: Bread available in Egypt while famine affects all lands and while
+    Egyptians cry out for bread.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: storehouses and storage cities
+  literal_form: Cities and storehouses where food is laid up and from which Joseph
+    later distributes grain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: seven-year abundance and famine sequence
+  literal_form: Seven years of plenty followed by seven years of famine.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Egypt as granary refuge
+  literal_form: The land of Egypt has bread during famine, and all countries come
+    into Egypt to buy grain.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Food stored during abundance
+  summary: Joseph gathers the food of the seven years in Egypt, stores it in cities
+    from surrounding fields, and lays up grain in uncountable quantity.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Birth and naming before famine
+  summary: Before famine arrives, Asenath bears Joseph two sons, and Joseph names
+    them Manasseh and Ephraim with explanations that refer to God, forgetting toil,
+    and becoming fruitful in affliction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plenty ends and famine begins
+  summary: The seven years of plenty end, the seven years of famine begin as Joseph
+    had said, famine affects all lands, and Egypt has bread.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: People seek bread and grain from Joseph
+  summary: Famished Egyptians cry to Pharaoh for bread; Pharaoh directs them to Joseph.
+    Joseph opens the storehouses and sells grain, and all countries come into Egypt
+    to buy grain because famine is severe.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: foresight and provision in famine
+  taxonomy_refs:
+  - wisdom
+  basis: The passage reports Joseph’s prior statement coming true, his earlier storage
+    of abundance, and his opening of storehouses during famine.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The surrounding dream-interpretation episode is outside the supplied passage;
+    this passage itself only reports Joseph’s storage, fulfilled prediction, and distribution.
+- id: motif:2
+  label: sevenfold abundance followed by sevenfold scarcity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly sets seven years of plenty against seven years of
+    famine.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The cycle is expressed as multi-year agricultural abundance and famine,
+    not as a ritual or seasonal calendar cycle.
+- id: motif:3
+  label: famine drives peoples to a food center
+  taxonomy_refs: []
+  basis: Famine affects all lands and all the earth, while Egypt has bread and all
+    countries come into Egypt to Joseph to buy grain.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The geographic scope follows the narrative wording; no independent historical
+    or cosmological claim is implied.
+- id: motif:4
+  label: etiological naming from divine reversal of hardship
+  taxonomy_refs: []
+  basis: Joseph names Manasseh and Ephraim with explanations that God made him forget
+    toil and made him fruitful in the land of affliction.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this naming pattern.
+- id: motif:5
+  label: royal delegation to a mediator-provider
+  taxonomy_refs: []
+  basis: When the people cry to Pharaoh for bread, Pharaoh directs them to Joseph
+    and tells them to obey Joseph; Joseph then distributes grain.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents an administrative delegation; it does not explicitly
+    frame the role as sacral kingship or royal legitimation.
+comparison_claims:
+- id: claim:1
+  claim: The seven-year plenty/famine sequence can be compared at the same-function
+    level to abundance-scarcity cycle motifs.
+  claim_level: same_function
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage describes a narrative sequence of years, not an explicit
+    seasonal rite or mythic seasonal calendar.
+- id: claim:2
+  claim: Joseph’s fulfilled prediction, storage of abundance, and distribution of
+    grain can be compared functionally to wisdom motifs centered on foresight and
+    practical crisis management.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied lines do not include the earlier dream interpretation
+    or the source of Joseph’s knowledge; the comparison is limited to the administrative
+    and predictive elements present here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Genesis 41:48-49; passage lines 2776-2794
+  quote_or_summary: Joseph gathers the food of seven years in Egypt, stores food in
+    cities from surrounding fields, and lays up grain in uncountable quantity.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Genesis 41:50-52; passage lines 2776-2794
+  quote_or_summary: Before famine, Asenath bears Joseph two sons. Joseph names them
+    Manasseh and Ephraim, explaining the names through God making him forget toil
+    and making him fruitful in affliction.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Genesis 41:53-54; passage lines 2776-2794
+  quote_or_summary: The seven years of plenty end and seven years of famine begin
+    as Joseph had said; famine affects all lands, but Egypt has bread.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: Genesis 41:55; passage lines 2776-2794
+  quote_or_summary: Pharaoh says to the Egyptians, “Go to Joseph. What he says to
+    you, do.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: Genesis 41:56-57; passage lines 2776-2794
+  quote_or_summary: With famine severe over the earth and in Egypt, Joseph opens the
+    storehouses and sells grain; all countries come into Egypt to Joseph to buy grain.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for literal extraction. Motif and comparison claims
+    are limited to the supplied lines and avoid relying on preceding dream-interpretation
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. No historical-contact or inheritance claims are made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-genesis-web-classic__l2776-l2794
+  passage_sha256=d7dc443d544af7500ec0044535b227809c143b8de3ae41416458c20973fd0a8c
+

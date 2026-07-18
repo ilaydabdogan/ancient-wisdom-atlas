@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l11519-l11555
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE SONG-GOD'S DEPARTURE. / JUTTA. / THE TWELVE DAUGHTERS. / THE FAITHLESS
+    FISHERMAN.; lines 11519-11555
+  start: '11519'
+  end: '11555'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Hans recovers his memory and recalls wandering from his path in winter,
+    sleeping by a fire with a stranger, and spending days as the stranger's guest.
+    He finds himself in summer beside the remains of an extinguished fire, whose ashes
+    are silver dust and whose sticks are gold. He gathers the treasure in his fur
+    coat, later becomes wealthy, moves away, marries, and tells his descendants that
+    he visited the master of underground treasures. The passage then transitions from
+    gnomes to wood-spirits.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hans recovered his recollection and regarded the events as strange and difficult
+    to reconcile with ordinary events.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hans remembered wandering from the path on a stormy winter night between Christmas
+    and New Year.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hans remembered sleeping by a fire with a stranger, being received as the
+    stranger's guest, dining with him, drinking, and spending a few days in jollity.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When Hans stood up, the surroundings were in the height of summer.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The place near Hans contained the remains of an extinguished fire; the supposed
+    ashes were silver dust and the remaining sticks were gold.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hans removed his winter fur coat, swept up the silver ashes, placed the gold
+    faggots and silver ashes into the fur, and tied it with his belt as a bag.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The bundle was very heavy, and Hans dragged it until he found a suitable place
+    to hide the treasure.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hans became suddenly wealthy, left his old dwelling-place, bought land elsewhere,
+    married, and lived richly until his death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Before his death, Hans told his children that he had visited the master of
+    the underground treasures, who had made him rich; the story was then spread by
+    his children and grandchildren.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The narrator closes the gnome material and turns to wood-spirits, described
+    as nature-spirits but not exactly elemental spirits.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hans
+  description: A man who remembers a winter wandering, receives hospitality from a
+    stranger, finds gold and silver remains of a fire, becomes wealthy, and later
+    tells his descendants his secret.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: stranger with a fir staff
+  description: A stranger who carried a fir staff, slept by a fire with Hans, and
+    later received Hans as his guest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: master of the underground treasures
+  description: The being or figure whom Hans says he visited and who made him rich.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Hans's children and grandchildren
+  description: Hans's descendants, to whom the secret was told and by whom the story
+    was spread.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: mortal beneficiary of treasure
+  assigned_to:
+  - fig:1
+  basis: Hans gathers the transformed fire remains as treasure and becomes wealthy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: host stranger
+  assigned_to:
+  - fig:2
+  basis: The stranger receives Hans as his guest after the two sleep by a fire.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: master of underground treasures
+  assigned_to:
+  - fig:3
+  basis: Hans reports that he visited the master of the underground treasures, who
+    made him rich.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: story transmitters
+  assigned_to:
+  - fig:4
+  basis: Hans's children and grandchildren spread the story after he tells them his
+    secret.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: A fire by which Hans sleeps; later an extinguished fire whose remains
+    are found in summer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fir staff
+  literal_form: A fir staff carried by the stranger.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: silver ashes
+  literal_form: A supposed heap of ashes that is actually fine silver dust.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: gold faggots
+  literal_form: Remaining sticks from the fire that are bright gold.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: winter fur coat used as a bag
+  literal_form: Hans's winter fur coat, tied with his belt, used to carry the gold
+    and silver.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: underground treasures
+  literal_form: Treasures associated with a master whom Hans says he visited.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: memory of winter wandering and hospitality
+  summary: Hans recalls wandering from the path during a stormy winter night, sleeping
+    beside a fire with a stranger, and spending days as the stranger's guest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: summer awakening beside transformed fire remains
+  summary: Hans finds himself in summer beside an extinguished fire whose ashes are
+    silver dust and whose sticks are gold.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: gathering and hiding the treasure
+  summary: Hans gathers the silver and gold into his fur coat, ties it with his belt,
+    drags the heavy bundle, and hides the treasure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: wealth, relocation, family, and transmission
+  summary: Hans becomes wealthy, moves away, buys land, marries, lives richly, and
+    before death tells his descendants about visiting the master of underground treasures.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: narrative transition from gnomes to wood-spirits
+  summary: The narrator leaves the subject of gnomes and turns to wood-spirits, classing
+    them as nature-spirits but not exactly elemental spirits.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: supernatural hospitality with altered seasonal time
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Hans recalls only a few days of hospitality after a winter wandering, but
+    when he stands up it is the height of summer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage indicates a winter-to-summer time displacement, but it does
+    not fully explain the mechanism beyond Hans's conclusion that there must be magic.
+- id: motif:2
+  label: fire remains transformed into precious metals
+  taxonomy_refs: []
+  basis: The extinguished fire's supposed ashes are silver dust, and the remaining
+    sticks are gold.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports the transformation as discovered by Hans; it does
+    not describe the act of transformation itself.
+- id: motif:3
+  label: mortal enriched by underground treasure master
+  taxonomy_refs: []
+  basis: Hans becomes rich from the gold and silver and later says he visited the
+    master of the underground treasures, who made him rich.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage reports Hans's retrospective explanation; the precise relationship
+    between the earlier stranger and the named treasure master is not explicitly stated
+    in this excerpt.
+- id: motif:4
+  label: departure after sudden supernatural fortune
+  taxonomy_refs:
+  - departure
+  basis: After gaining unexpected wealth, Hans decides to leave his old dwelling-place
+    and settle where people do not know him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The relocation is practical and social in the passage; its broader mythic
+    significance is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11519-11528
+  quote_or_summary: Hans recovers recollection, remembers wandering from the path
+    during a stormy winter night between Christmas and New Year, sleeping by a fire
+    with a stranger who carried a fir staff, and spending days as his guest in dining
+    and drinking.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 11528-11533
+  quote_or_summary: Hans finds it is the height of summer; near him are the remains
+    of an extinguished fire, whose supposed ashes are fine silver dust and whose remaining
+    sticks are bright gold.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 11533-11540
+  quote_or_summary: Hans uses his winter fur coat and belt as a bag, gathers all the
+    silver ashes and gold faggots into it, and drags the heavy bundle to hide the
+    treasure.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 11542-11548
+  quote_or_summary: Hans is suddenly enriched, leaves his old dwelling-place, buys
+    land elsewhere, marries, and lives happily as a rich man until death.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 11548-11552
+  quote_or_summary: 'Before death Hans tells his children the secret: he had visited
+    the master of the underground treasures, who had made him rich; the story is spread
+    by his children and grandchildren.'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 11554-11555
+  quote_or_summary: The narrator leaves the topic of gnomes and proceeds to wood-spirits,
+    described as nature-spirits but not exactly spirits of the elements.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and objects are clear in the supplied passage. Motif
+    labels are candidate-level because the excerpt gives limited context and does
+    not explicitly identify the stranger with the underground treasure master.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were extracted because the passage does not itself provide a substantive cross-tradition comparison beyond classifying adjacent material as gnomes and wood-spirits.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l11519-l11555
+  passage_sha256=cb52dcab9024afdd100ae2ae677eaeb11163ae5549333db573640058d0c1a762
+

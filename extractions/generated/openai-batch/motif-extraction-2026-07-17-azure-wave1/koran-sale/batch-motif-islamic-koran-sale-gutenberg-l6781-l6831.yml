@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l6781-l6831
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION V. / OF CERTAIN NEGATIVE PRECEPTS IN THE KORN. / SECTION VI. / OF
+    THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS.; lines 6781-6831
+  start: '6781'
+  end: '6831'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares Jewish, Christian, and Mohammedan teachings and laws
+    concerning religious warfare. It cites exhortations about courage in battle, divine
+    or heavenly reward for fighters who die or fight bravely, claimed divine authorization
+    for war against religious enemies, and legal treatment of enemies taken in battle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quoted saying states that a fearful combatant should return so that his
+    brethren's heart does not fail as his own.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Kabala applies a curse against doing the work of the
+    LORD negligently and keeping back the sword from blood.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A brave fighter who acts to glorify God's name is described as able to expect
+    victory, avoid fear of danger, and receive a sure house and life bound with God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Christian writers are quoted as promising the kingdom of heaven or a celestial
+    reward to those who die in holy warfare or in defense of the faith and Christians.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author states that Jews had a divine commission to attack, subdue, and
+    destroy enemies of their religion, and that Mohammed claimed to have received
+    a similar commission for himself and his Moslems.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The author states that Christians taught and practiced a doctrine he considered
+    opposed to the Gospel and that they showed a more violent spirit of intolerance
+    than Jews or Mohammedans.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The author says he will observe conformity between Mohammedan military laws
+    and those of the Jews.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that in the infancy of Mohammedism, opponents taken in
+    battle were doomed to death without mercy, but that this severity was later judged
+    unsuitable once the religion was established.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that the same sentence was pronounced against the seven
+    Canaanitish nations, whose possessions were given to the Israelites.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / LORD / Almighty
+  description: The divine figure invoked in cited Jewish and Christian exhortations
+    as the one whose name is glorified and from whom reward or life with God is expected.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Jewish combatant
+  description: A fighter addressed in cited Jewish material concerning fear, bravery,
+    battle, and responsibility toward brethren.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Christians and Franks engaged in holy war
+  description: Christian addressees or examples in quoted exhortations concerning
+    holy war, defense of faith, and celestial reward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Jews / Israelites
+  description: A collective group described as having a divine commission and as receiving
+    the possessions of the Canaanitish nations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Mohammed
+  description: The passage says Mohammed claimed to have received a commission in
+    favor of himself and his Moslems.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Moslems / Mohammedans
+  description: The community associated with Mohammedan laws of war and with the claimed
+    commission mentioned by the author.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Opposers of Mohammedism taken in battle
+  description: Enemies captured in battle during the infancy of Mohammedism, described
+    as doomed to death without mercy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Seven Canaanitish nations
+  description: Nations against whom the passage says the same sentence was pronounced
+    and whose possessions were given to the Israelites.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine rewarder
+  assigned_to:
+  - fig:1
+  basis: The passage associates God, the LORD, or the Almighty with reward, victory,
+    life bound with God, the kingdom of heaven, and celestial reward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: sacred-war combatant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The cited material addresses fighters engaged in battle or holy war and links
+    their conduct or death to divine or heavenly reward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: community with religious-war law or commission
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The author compares Jewish and Mohammedan military laws and says Jews had,
+    and Mohammed claimed for Moslems, a commission against religious enemies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: claimant of divine commission
+  assigned_to:
+  - fig:5
+  basis: The author says Mohammed pretended to have received a commission in favor
+    of himself and his Moslems.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: enemy group subject to death sentence
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage describes opposers of early Mohammedism taken in battle and the
+    seven Canaanitish nations as subject to death sentences.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: bloodguilt image
+  literal_form: blood hanging on a combatant's neck; sword from blood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sword
+  literal_form: sword kept back from blood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sure house
+  literal_form: a house built in Israel, appropriated to the brave fighter and his
+    children for ever
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bundle of life
+  literal_form: life bound up in the bundle of life with the LORD his God
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: heavenly reward
+  literal_form: kingdom of heaven; celestial reward
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Jewish battle exhortation and reward
+  summary: The passage cites Jewish material in which fearful battle conduct is condemned,
+    bravery for God's name is praised, and the brave fighter is promised victory,
+    a sure house, and life with God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Christian holy-war exhortations
+  summary: The passage quotes Christian writers addressing holy-war fighters and promising
+    heavenly or celestial reward to those who die for the faith, country, and defense
+    of Christians.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Comparison of religious-war commissions
+  summary: The author compares Jewish, Mohammedan, and Christian positions on warfare,
+    saying Jews had a divine commission, Mohammed claimed one for Moslems, and Christians
+    also taught and practiced violent intolerance.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Comparison of military laws and death sentences
+  summary: The author introduces conformity between Mohammedan and Jewish military
+    laws and describes death sentences against early opponents of Mohammedism and
+    against the seven Canaanitish nations.
+  figure_refs:
+  - fig:6
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred warfare with promised divine reward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The cited Jewish and Christian exhortations connect battle conduct or death
+    in holy warfare with reward from God, the kingdom of heaven, or celestial reward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is legal and comparative commentary rather than a mythic narrative;
+    the taxonomy reference is based on explicit divine or heavenly reward language.
+- id: motif:2
+  label: divine or claimed divine authorization for war against religious enemies
+  taxonomy_refs: []
+  basis: The author says Jews had a divine commission to attack, subdue, and destroy
+    religious enemies, and that Mohammed claimed a similar commission for himself
+    and his Moslems.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports the author's framing and does not reproduce the full
+    underlying scriptural passages.
+- id: motif:3
+  label: enemy group placed under total death sentence
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage compares early Mohammedan treatment of captured opponents with
+    the sentence against the seven Canaanitish nations.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The divine-judgment taxonomy is tentative because the immediate discussion
+    is framed as military law and comparative religious history.
+- id: motif:4
+  label: communal danger assigned to a fearful warrior
+  taxonomy_refs: []
+  basis: A quoted saying makes the failure of a fearful combatant dangerous to his
+    brethren and describes the blood of the whole people as hanging on his neck.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethical-legal exhortation, not an extended narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that Mohammedan military laws show conformity
+    with Jewish military laws.
+  claim_level: same_function
+  target: Mohammedan military laws and Jewish military laws
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim reflects the author's comparative statement within this passage;
+    the specific legal parallels are only briefly introduced here.
+- id: claim:2
+  claim: The passage compares Jewish and Mohammedan divine or claimed divine commissions
+    for warfare against religious enemies.
+  claim_level: same_function
+  target: Jewish divine commission and Mohammed's claimed commission for Moslems
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The author distinguishes between a divine commission attributed to
+    Jews and a commission Mohammed is said to have claimed; this is not evidence of
+    historical contact by itself.
+- id: claim:3
+  claim: The passage presents Christian holy-war exhortations as functionally similar
+    to Jewish and Mohammedan religious-war principles in promising reward and encouraging
+    battle against religious enemies.
+  claim_level: same_function
+  target: Christian holy-war exhortations alongside Jewish and Mohammedan religious-war
+    principles
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is polemical in tone and depends on quoted Christian
+    authorities selected by the author.
+- id: claim:4
+  claim: The passage compares the death sentence for early opponents of Mohammedism
+    taken in battle with the sentence against the seven Canaanitish nations.
+  claim_level: same_function
+  target: Captured opponents of early Mohammedism and the seven Canaanitish nations
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states the parallel but does not provide the full legal
+    texts beyond footnote references.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6781-6788
+  quote_or_summary: A fearful combatant is told to return lest his brethren's heart
+    fail; another cited curse concerns negligent work of the LORD and keeping back
+    the sword from blood.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6788-6796
+  quote_or_summary: The passage says the brave fighter who acts to glorify God's name
+    may expect victory and a sure house, with his life bound up with the LORD his
+    God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6796-6808
+  quote_or_summary: 'Two Christian writers are quoted: one says those who faithfully
+    lose life in this warfare will not be denied the kingdom of heaven; another promises
+    celestial reward for dying for faith, country, and defense of Christians.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6808-6817
+  quote_or_summary: The author says Jews had a divine commission to attack, subdue,
+    and destroy enemies of their religion; Mohammed claimed a similar commission for
+    himself and Moslems; Christians are described as carrying intolerance farther.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 6818-6822
+  quote_or_summary: The author says he will observe “some conformity between their
+    military laws and those of the Jews.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation from public domain supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 6822-6828
+  quote_or_summary: The passage states that early in Mohammedism, opponents taken
+    in battle were doomed to death without mercy, though this was later judged too
+    severe after the religion became established.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 6828-6831
+  quote_or_summary: The same sentence is said to have been pronounced against the
+    seven Canaanitish nations, whose possessions were given to the Israelites.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based directly on the supplied passage. Motif labels are
+    tentative because the passage is comparative legal-religious commentary, not a
+    narrative myth passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy identifiers beyond the supplied motif-family list were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l6781-l6831
+  passage_sha256=c60b1f9b29b9b5678d39af5a6481d862632dee46209cf8b0cea2b42cb3806bd7
+

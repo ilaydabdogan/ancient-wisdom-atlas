@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.norse-prose-edda-anderson-gutenberg-l3374-l3394
+source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+passage_locator:
+  label: REGENERATION. / AFTERWORD / TO THE FOOLING OF GYLFE. / CHAPTER I.; lines
+    3374-3394
+  start: '3374'
+  end: '3394'
+  translation: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: He made a journey to Asgard.
+  summary: Æger, also called Hler, travels from Hler's Isle to Asgard. The asas receive
+    him hospitably while using delusions. At an evening feast, Odin has bright swords
+    brought into the hall as light. Twelve asa judges sit in high-seats, goddesses
+    are present, the hall is decorated with shields, strong mead is drunk, and Brage
+    converses with Æger about events concerning the asas.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Æger, also called Hler, dwelt on Hler's Isle and was skilled in the black
+    art.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Æger made a journey to Asgard.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The asas knew of Æger's coming, gave him a friendly reception, and used many
+    sorts of delusions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the evening feast, Odin had swords brought into the hall; the swords were
+    bright enough that no other light was needed while the company drank.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Twelve asas appointed as judges seated themselves in high-seats and are named
+    in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The asynjes, identified as goddesses, were also present and are named in the
+    passage.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Æger thought what he saw looked grand; the wall panels were covered with beautiful
+    shields, the mead was strong, and the company drank deeply.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Brage sat next to Æger, talked with him over drink, and spoke of many things
+    that had happened to the asas.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Æger or Hler
+  description: A man dwelling on Hler's Isle, skilled in the black art, who journeys
+    to Asgard and attends the feast.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: The asas
+  description: The divine group in Asgard who know of Æger's coming, receive him,
+    use delusions, feast, and include the appointed judges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Odin
+  description: The figure who has bright swords brought into the hall for the evening
+    feast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Twelve appointed asa judges
+  description: Thor, Njord, Frey, Tyr, Heimdal, Brage, Vidar, Vale, Uller, Honer,
+    Forsete, and Loke, seated in high-seats as appointed judges.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: The asynjes
+  description: 'The goddesses present at the feast: Frigg, Freyja, Gefjun, Idun, Gerd,
+    Sigyn, Fulla, and Nanna.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Brage
+  description: One of the named asa judges who sits next to Æger and speaks with him
+    about events concerning the asas.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: visitor to Asgard
+  assigned_to:
+  - fig:1
+  basis: Æger makes a journey to Asgard and is seated at the feast.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: divine hosts and delusion-makers
+  assigned_to:
+  - fig:2
+  basis: The asas know of Æger's coming, receive him in a friendly way, and use many
+    delusions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: feast arranger of supernatural lighting
+  assigned_to:
+  - fig:3
+  basis: Odin has bright swords brought into the hall so no other light is needed.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: appointed judges in high-seats
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The twelve named asas are described as appointed judges who seat themselves
+    in high-seats.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: goddesses present at the feast
+  assigned_to:
+  - fig:5
+  basis: The passage states that the asynjes, glossed as goddesses, were also with
+    them.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: conversational companion and mythic speaker
+  assigned_to:
+  - fig:6
+  basis: Brage sits next to Æger, talks with him over drink, and speaks of many things
+    that happened to the asas.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Asgard
+  literal_form: destination and setting of Æger's journey
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bright swords used as hall-light
+  literal_form: swords bright enough to replace other light at the feast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: high-seats
+  literal_form: seats occupied by the twelve appointed asa judges
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: beautiful shields on wall panels
+  literal_form: shields covering the panels of the walls
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: strong mead
+  literal_form: strong mead drunk deeply at the feast
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: twelve judges
+  literal_form: the number twelve applied to the appointed asa judges
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Æger's journey and reception
+  summary: Æger travels from Hler's Isle to Asgard, where the asas know he is coming,
+    receive him kindly, and use delusions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Evening feast with sword-light
+  summary: At the evening feast, Odin has bright swords brought into the hall so that
+    no other light is needed while the company drinks.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Divine seating in the hall
+  summary: The twelve appointed asa judges sit in high-seats, and the asynjes are
+    present with them.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Grand hall and conversation with Brage
+  summary: Æger sees a grand hall decorated with shields, strong mead is drunk, and
+    Brage speaks with him about many things that happened to the asas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: journey to a divine hall
+  taxonomy_refs:
+  - departure
+  basis: The passage explicitly states that Æger makes a journey to Asgard and is
+    received by the asas.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no stated quest purpose and does not describe an ascent
+    or return.
+- id: motif:2
+  label: deceptive hospitality by divine hosts
+  taxonomy_refs: []
+  basis: The asas give Æger a friendly reception while also using many sorts of delusions.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The nature and purpose of the delusions are not specified in this excerpt.
+- id: motif:3
+  label: supernatural illumination at a feast
+  taxonomy_refs: []
+  basis: Odin has swords brought into the hall, and they shine so brightly that no
+    other light is needed while the company drinks.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No explicit symbolic explanation for the swords is provided in the passage.
+- id: motif:4
+  label: mythic instruction or narration over drink
+  taxonomy_refs:
+  - wisdom
+  basis: Brage sits next to Æger, talks with him over drink, and tells him many things
+    that happened to the asas.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The excerpt states that Brage speaks about past events but does not include
+    the contents of the instruction.
+- id: motif:5
+  label: divine council of seated judges
+  taxonomy_refs:
+  - divine_judgment
+  basis: Twelve named asas appointed as judges seat themselves in high-seats.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage identifies the figures as judges but does not show an act
+    of judgment.
+comparison_claims:
+- id: claim:1
+  claim: This passage supports a cautious identification with a broad journey-to-divine-realm
+    or divine-hall visit pattern, because Æger travels to Asgard and is received by
+    the asas.
+  claim_level: same_motif
+  target: journey to a divine realm or divine hall visit pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not state a quest goal, ritual purpose, ascent route,
+    or return, so the comparison should remain broad.
+- id: claim:2
+  claim: The conversation with Brage over drink can be cautiously compared to a mythic
+    wisdom-transmission pattern, since Brage recounts many things that happened to
+    the asas.
+  claim_level: same_function
+  target: wisdom or mythic narration motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The content of Brage's speech is not included in this passage, and
+    the excerpt does not explicitly frame the exchange as teaching or initiation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3374-3378
+  quote_or_summary: Æger, or Hler, dwelt on Hler's Isle, was skilled in the black
+    art, and 'made a journey to Asgard.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3378-3380
+  quote_or_summary: The asas knew of Æger's coming, gave him a friendly reception,
+    and also used many sorts of delusions.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3380-3384
+  quote_or_summary: At the evening feast, Odin had swords brought into the hall, and
+    they shone so brightly that no other light was needed while the company drank.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3384-3388
+  quote_or_summary: The twelve asas appointed as judges seated themselves in high-seats;
+    the named figures are Thor, Njord, Frey, Tyr, Heimdal, Brage, Vidar, Vale, Uller,
+    Honer, Forsete, and Loke.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3388-3390
+  quote_or_summary: 'The asynjes, glossed as goddesses, were present: Frigg, Freyja,
+    Gefjun, Idun, Gerd, Sigyn, Fulla, and Nanna.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3390-3393
+  quote_or_summary: Æger thought all he saw looked grand; the wall panels were covered
+    with beautiful shields, the mead was strong, and they drank deeply.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 3393-3394
+  quote_or_summary: Brage sat next to Æger, talked with him over drink, and spoke
+    of many things that had happened to the asas.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    the passage is mostly scene-setting and does not provide full narrative outcomes
+    or explicit symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs directly match the passage's main objects; symbol taxonomy references are therefore left empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-prose-edda-anderson-gutenberg__l3374-l3394
+  passage_sha256=57a506e7b39a22b2d5d09f9836eaed9fd07b646e6b29f16ee07e0c2a9fe751b5
+

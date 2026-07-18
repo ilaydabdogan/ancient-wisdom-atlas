@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l9037-l9136
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 9037-9136
+  start: '9037'
+  end: '9136'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: changed into a dog by magic
+  summary: A first-person narrator in dog form is fed and then excluded by one shopkeeper,
+    adopted and named Rufus by a baker, proves able to detect counterfeit coins, attracts
+    customers to the bakery, and is led away by a woman who suspects that the dog
+    is actually a man transformed by magic.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator refers to a recent change of shape and continues the account
+    while living in the form of a dog.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An initial host feeds the dog better pieces than other dogs receive but then
+    blocks the dog from re-entering the shop with a stick.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A baker gives the dog bread, interprets the dog's bowed head and wagging tail
+    as thanks, and allows the dog to stay in his shop and house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The baker names the dog Rufus and calls him when going out so the dog can
+    follow at his heels.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When a woman offers several coins including a bad one, the baker asks Rufus
+    to find the bad coin, and Rufus places his paw on the false coin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Neighbors repeatedly test the dog with bad money, and the dog passes the tests.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The dog's reputation brings many people to the baker's shop, increasing the
+    baker's trade and causing others to envy him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A later woman tests the dog with six coins, confirms that he selects the false
+    one, gazes at him, and signals for him to follow secretly.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator thinks the woman may have guessed what happened to him and follows
+    her while the baker is occupied.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: At her house, the woman tells her daughter she had suspected the famous dog
+    was really a man changed into a dog by magic.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: First-person narrator / Rufus
+  description: A narrator presently in dog form, named Rufus by the baker, who shows
+    human-like courtesy and can identify false coins.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Initial host or protector
+  description: A kind-hearted shopkeeper handling sheep's heads, tongues, and trotters
+    who feeds the dog but refuses to let him back into the shop.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The baker
+  description: A merry baker who feeds the dog, shelters him, names him Rufus, and
+    later benefits from the dog's reputation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: First woman with a bad coin
+  description: A woman buying bread who offers several pieces of money, one of which
+    is bad, and replaces it after the dog identifies it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Neighbors and customers
+  description: A collective group that tests the dog with bad money and comes to the
+    shop to see the dog's cleverness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Woman who leads the dog away
+  description: A woman who tests the dog with six coins, signals for him to follow,
+    brings him to her house, and says she suspected he was an enchanted man.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: The woman's daughter
+  description: A beautiful girl working at embroidery in the woman's house, addressed
+    by her mother about the dog.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Transformed human in animal form
+  assigned_to:
+  - fig:1
+  basis: The narrator mentions a change of shape, thinks of a spell laid on him, and
+    is described by the woman as a man changed into a dog by magic.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Dependent animal seeking protection
+  assigned_to:
+  - fig:1
+  basis: The dog accepts food, seeks shelter, and sits to show he asks the baker's
+    protection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Initial feeder and excluder
+  assigned_to:
+  - fig:2
+  basis: This figure feeds the dog larger pieces than the other dogs but blocks him
+    from entering the shop.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Benefactor and keeper
+  assigned_to:
+  - fig:3
+  basis: The baker feeds, shelters, names, and protects the dog.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: Discerner of false coins
+  assigned_to:
+  - fig:1
+  basis: The dog repeatedly identifies counterfeit coins by placing his paw on the
+    false one.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: Coin tester or witness
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures present coins or observe tests of the dog's ability to distinguish
+    good money from bad.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: Recognizer-guide
+  assigned_to:
+  - fig:6
+  basis: The woman gazes at the dog, signals for him to follow, and states that she
+    suspected he was really a man changed by magic.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: Addressee and household witness
+  assigned_to:
+  - fig:7
+  basis: The daughter is present in the house and is addressed by her mother about
+    the dog.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Dog form
+  literal_form: The narrator's canine body and the name Rufus given by the baker.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: False coin
+  literal_form: A bad or false piece of money placed among good coins for the dog
+    to detect.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Paw on the coin
+  literal_form: The dog's gesture of placing his paw on the false coin while looking
+    at the human observer.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Bread
+  literal_form: Bread given by the baker and bought by customers in the shop.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Secret beckoning sign
+  literal_form: The woman's sign for the dog to follow her secretly.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Food and exclusion after the change of shape
+  summary: The narrator, in dog form, joins hungry dogs near a shop, receives better
+    food than the other dogs, but is prevented from entering and must seek another
+    home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adoption by the baker
+  summary: The baker gives the dog bread, understands the dog's gestures of thanks
+    and request for protection, lets him stay, and names him Rufus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First detection of counterfeit money
+  summary: A woman disputes a bad coin; the baker jokingly asks Rufus to identify
+    it, and the dog points it out with his paw.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Public testing and profitable reputation
+  summary: Neighbors test the dog with bad money, many customers come to see him,
+    and the baker's business increases while others envy him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: The woman who recognizes the enchantment
+  summary: A new woman tests the dog, signals him to follow, brings him to her house,
+    and tells her daughter that she suspected he was a man changed into a dog by magic.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Human transformed into a dog by magic
+  taxonomy_refs:
+  - shapeshifter
+  basis: The narrator refers to his change of shape and the spell laid on him, and
+    the woman explicitly says she suspected the dog was really a man changed into
+    a dog by magic.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents an involuntary magical transformation rather than
+    voluntary shapeshifting.
+- id: motif:2
+  label: Enchanted animal displaying human intelligence
+  taxonomy_refs:
+  - wisdom
+  basis: The dog gives gestures of thanks, deliberately seeks protection, follows
+    human speech, and repeatedly distinguishes false coins from good ones.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The wisdom taxonomy reference is broad; the passage emphasizes practical
+    discernment and human-like understanding.
+- id: motif:3
+  label: Recognition of an enchanted person through unusual ability
+  taxonomy_refs: []
+  basis: The woman tests the dog, watches him closely, secretly leads him away, and
+    states that she suspected the famous dog was actually a transformed man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The outcome of the recognition is not included within the passage range.
+- id: motif:4
+  label: Magical or exceptional animal brings prosperity to a host
+  taxonomy_refs: []
+  basis: The dog's reputation for detecting false money fills the baker's shop and
+    increases the baker's trade.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The prosperity is a narrative consequence in this passage, not necessarily
+    the main motif of the larger tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the broad shapeshifter motif family in the specific form
+    of an involuntary human-to-dog transformation by magic.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not show the original transformation event or its
+    cause; it only reports the changed state and the suspicion of magic.
+- id: claim:2
+  claim: The coin-detection episodes share the function of a wisdom or discernment
+    pattern, where hidden truth is revealed by an exceptional nonhuman-appearing figure.
+  claim_level: same_function
+  target: wisdom / discernment pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external parallel or named tradition is supplied in the passage;
+    the comparison is limited to functional similarity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9037-9053
+  quote_or_summary: The narrator mentions the sad thoughts accompanying his change
+    of shape; a meat-selling host feeds him but blocks him from re-entering the shop
+    with a stick.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 9054-9078
+  quote_or_summary: A baker gives the dog bread, understands his bowed head and wagging
+    tail as thanks, shelters him, shares meals with him, and names him Rufus.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 9079-9095
+  quote_or_summary: A woman offers coins including a bad one; the baker asks Rufus
+    to find it, and the dog places his paw on the false coin.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 9096-9111
+  quote_or_summary: Neighbors test the dog with bad money; the shop fills with people
+    wanting to see the clever dog, and the baker's trade increases.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 9112-9126
+  quote_or_summary: A new woman tests the dog with six coins, signals him to follow
+    secretly, and the narrator thinks she may have guessed about the spell laid on
+    him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 9127-9136
+  quote_or_summary: The woman tells her daughter she was sure the dog "must be really
+    a man, changed into a dog by magic."
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the transformation, coin-detection, and recognition
+    elements. Broader motif classification remains provisional because the transformation
+    cause and resolution lie outside the supplied range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external tale context has been added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l9037-l9136
+  passage_sha256=9163f87f455a71230fb347889b4bcd9c9f5753e6c052a0667c48fd84e0f615b4
+

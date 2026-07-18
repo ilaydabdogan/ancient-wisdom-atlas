@@ -1,0 +1,610 @@
+---
+record_id: batch.motif.buddhist-dhammapada-max-muller-gutenberg-l1242-l1297
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Chapter XIX. The Just / Chapter XX. The Way / Chapter XXI. Miscellaneous
+    / Chapter XXII. The Downward Course; lines 1242-1297
+  start: '1242'
+  end: '1297'
+  translation: Dhammapada, a Collection of Verses
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Verses 306-319 warn that lying, denying one's deeds, unrestrained conduct,
+    coveting another's wife, badly practiced asceticism, careless action, false doctrine,
+    and missed moral discipline lead to hell, punishment, or the evil path. The passage
+    urges vigorous right action, self-guarding, avoidance of evil, and correct discernment
+    of what is forbidden and not forbidden.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who speaks falsely and a person who denies having done a deed are
+    said to go to hell and to be equal after death as evil-doers in the next world.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many yellow-gowned men are described as ill-conditioned and unrestrained,
+    and such evil-doers are said to go to hell by their evil deeds.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says it would be better to swallow a heated iron ball like flaring
+    fire than for a bad unrestrained fellow to live on the land's charity.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A reckless man who covets his neighbour's wife is said to gain bad reputation,
+    an uncomfortable bed, punishment, and hell; the king imposes heavy punishment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: A badly grasped grass-blade cuts the arm, and badly practiced asceticism is
+    said to lead to hell.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Careless acts, broken vows, and hesitant obedience to discipline bring no
+    great reward; the passage urges vigorous effort and says a careless pilgrim scatters
+    the dust of his passions more widely.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:7
+  text: An evil deed is better left undone because it brings later repentance, while
+    a good deed is better done because it brings no repentance.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: A man is told to guard himself like a frontier fort guarded within and without;
+    those who let the right moment pass suffer pain in hell.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: Those who misplace shame, fear, and prohibitions while embracing false doctrines
+    enter the evil path.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:10
+  text: Those who know what is forbidden as forbidden and what is not forbidden as
+    not forbidden, while embracing true doctrine, enter the good path.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: false speaker and denier of deed
+  description: A person who says what is not and a person who, after doing a thing,
+    says it was not done.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: yellow-gowned unrestrained men
+  description: Men whose shoulders are covered with the yellow gown and who are described
+    as ill-conditioned and unrestrained.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: bad unrestrained charity-recipient
+  description: A bad unrestrained fellow who lives on the charity of the land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: reckless coveter of neighbour's wife
+  description: A reckless man who covets his neighbour's wife and is associated with
+    reputation loss, discomfort, punishment, and hell.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: neighbour's wife
+  description: The neighbour's wife whom the reckless man covets or thinks of.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: king
+  description: The ruler who imposes heavy punishment in the warning against coveting
+    a neighbour's wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: careless pilgrim or bad practitioner
+  description: The passage refers to badly practiced asceticism and to a careless
+    pilgrim who scatters the dust of his passions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:8
+  name_or_label: self-guarding man
+  description: A man instructed to guard himself like a well-guarded frontier fort.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: false-doctrine adherents
+  description: Those who misjudge shame, fear, or prohibition and embrace false doctrines.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:11
+- id: fig:10
+  name_or_label: true-doctrine adherents
+  description: Those who correctly know what is forbidden and not forbidden and embrace
+    true doctrine.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: recipient of hell or evil-path consequence
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:9
+  basis: The passage repeatedly links false speech, evil deeds, coveting, and false
+    doctrines with hell, the next world, the evil way, or the evil path.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:11
+- id: role:2
+  label: unrestrained religious or charity-dependent person
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Yellow-gowned men and a bad unrestrained fellow living on charity are described
+    as morally compromised.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: coveter of neighbour's wife
+  assigned_to:
+  - fig:4
+  basis: The reckless man covets his neighbour's wife and receives named consequences.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: object of coveting
+  assigned_to:
+  - fig:5
+  basis: The neighbour's wife is the person whom the reckless man covets or is warned
+    not to think of.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: punishing ruler
+  assigned_to:
+  - fig:6
+  basis: The king imposes heavy punishment in the adultery warning.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: careless practitioner or pilgrim
+  assigned_to:
+  - fig:7
+  basis: Badly practiced asceticism leads to hell, and the careless pilgrim scatters
+    the dust of passions.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: self-guardian
+  assigned_to:
+  - fig:8
+  basis: The man is instructed to guard himself as a frontier fort is guarded.
+  evidence_refs:
+  - ev:10
+- id: role:8
+  label: false-doctrine adherent
+  assigned_to:
+  - fig:9
+  basis: Those who misjudge shame, fear, or prohibition are said to embrace false
+    doctrines.
+  evidence_refs:
+  - ev:11
+- id: role:9
+  label: true-doctrine adherent and discerner
+  assigned_to:
+  - fig:10
+  basis: Those who correctly know forbidden and not-forbidden things are said to embrace
+    true doctrine and enter the good path.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: hell and next world
+  literal_form: hell; next world; evil way to hell
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:10
+- id: sym:2
+  label: yellow gown
+  literal_form: yellow gown covering the shoulders
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heated iron ball and flaring fire
+  literal_form: a heated iron ball like flaring fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: four consequences
+  literal_form: 'four things: bad reputation, uncomfortable bed, punishment, hell'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cutting grass-blade
+  literal_form: a grass-blade badly grasped that cuts the arm
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: dust of passions
+  literal_form: the dust of his passions scattered more widely
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: well-guarded frontier fort
+  literal_form: a frontier fort with defences within and without
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: evil path and good path
+  literal_form: evil path; good path
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+scenes:
+- id: scene:1
+  label: False speech and denial after death
+  summary: The passage states that the false speaker and the denier of a deed both
+    go to hell and are equal after death as evil-doers in the next world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Unrestrained religious appearance and corrupt charity
+  summary: Yellow-gowned unrestrained men are said to go to hell, and a bad unrestrained
+    fellow living on charity is compared unfavorably to swallowing a fiery iron ball.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Coveting the neighbour's wife
+  summary: A reckless man who covets his neighbour's wife receives bad reputation,
+    discomfort, punishment, and hell; the king imposes heavy punishment.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Careless practice and vigorous effort
+  summary: Bad ascetic practice is likened to a badly grasped blade that cuts the
+    arm; careless action, broken vows, and hesitant discipline bring no reward, while
+    vigorous effort is urged and the careless pilgrim scatters the dust of passions.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Guarding the self like a fort
+  summary: A man is instructed to guard himself as a frontier fort is guarded within
+    and without, because missed right moments lead to pain in hell.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: False and true doctrine paths
+  summary: Those who misjudge shame, fear, and prohibition while embracing false doctrine
+    enter the evil path; those who correctly know forbidden and not-forbidden things
+    and embrace true doctrine enter the good path.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: evil conduct produces hell or evil-path consequence
+  taxonomy_refs: []
+  basis: False speech, denial of deeds, evil deeds, coveting another's wife, missed
+    right moments, and false doctrines are repeatedly linked to hell, the next world,
+    the evil way, or the evil path.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage does not describe a judging deity, tribunal, or detailed afterlife
+    itinerary.
+- id: motif:2
+  label: religious appearance without discipline brings danger
+  taxonomy_refs: []
+  basis: Yellow-gowned but unrestrained men go to hell; a bad unrestrained charity-recipient
+    is compared to one swallowing a fiery iron ball; badly practiced asceticism leads
+    to hell.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage gives aphoristic warnings rather than a narrative about a
+    named ascetic order.
+- id: motif:3
+  label: illicit desire brings social, royal, and hell penalties
+  taxonomy_refs: []
+  basis: The man who covets his neighbour's wife is said to gain bad reputation, an
+    uncomfortable bed, punishment, and hell, and the king imposes heavy punishment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is didactic and does not narrate a specific adultery episode.
+- id: motif:4
+  label: self-guarding as fortified defense
+  taxonomy_refs: []
+  basis: The self is to be guarded like a frontier fort with defenses within and without,
+    and missed right moments bring pain in hell.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The fort is an image for vigilance; no actual siege or battle is narrated.
+- id: motif:5
+  label: right discernment of prohibition and doctrine
+  taxonomy_refs:
+  - wisdom
+  basis: False doctrine is linked with misjudging shame, fear, and prohibition, while
+    true doctrine is linked with knowing forbidden and not-forbidden things correctly
+    and entering the good path.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The passage presents wisdom as doctrinal and moral discernment, not as
+    a personified figure or quest narrative.
+- id: motif:6
+  label: careless action scatters passions; vigorous effort is required
+  taxonomy_refs: []
+  basis: Careless acts, broken vows, and hesitant discipline bring no great reward;
+    whatever is to be done should be attacked vigorously, and the careless pilgrim
+    scatters the dust of passions.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is formulated as instruction rather than as a plotted mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a broad post-mortem moral-recompense pattern in which conduct
+    leads to hell, the next world, or an evil path.
+  claim_level: same_function
+  target: post-mortem moral recompense / hell consequence pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:10
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not mention a judge, deity, weighing of deeds, or
+    mapped afterlife journey; the comparison is functional and thematic only.
+- id: claim:2
+  claim: The final verses fit a wisdom or discernment pattern in which correct recognition
+    of what should be feared, shamed, forbidden, or accepted as true doctrine directs
+    one toward a good path.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:11
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is aphoristic; it does not present a personified Wisdom
+    figure, teacher-student scene, or quest for knowledge.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1244-1246; verse 306
+  quote_or_summary: False speech and denial of one's deed are said to lead to hell;
+    after death both persons are equal as evil-doers in the next world.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:2
+  type: summary
+  locator: lines 1248-1250; verse 307
+  quote_or_summary: Many men with shoulders covered by the yellow gown are described
+    as ill-conditioned and unrestrained; evil-doers go to hell by evil deeds.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:3
+  type: summary
+  locator: lines 1252-1254; verse 308
+  quote_or_summary: The verse says swallowing a heated iron ball like flaring fire
+    would be better than a bad unrestrained fellow living on the charity of the land.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:4
+  type: summary
+  locator: lines 1256-1258; verse 309
+  quote_or_summary: 'A reckless man who covets his neighbour''s wife gains four things:
+    bad reputation, an uncomfortable bed, punishment, and hell.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:5
+  type: summary
+  locator: lines 1260-1263; verse 310
+  quote_or_summary: The verse mentions bad reputation, the evil way to hell, frightened
+    pleasure, and heavy punishment imposed by the king; therefore a man should not
+    think of his neighbour's wife.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:6
+  type: summary
+  locator: lines 1265-1266; verse 311
+  quote_or_summary: A badly grasped grass-blade cuts the arm; badly practiced asceticism
+    leads to hell.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:7
+  type: summary
+  locator: lines 1268-1269; verse 312
+  quote_or_summary: A careless act, broken vow, and hesitant obedience to discipline
+    bring no great reward.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:8
+  type: summary
+  locator: lines 1271-1273; verse 313
+  quote_or_summary: Whatever is to be done should be done vigorously; a careless pilgrim
+    scatters the dust of his passions more widely.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:9
+  type: summary
+  locator: lines 1275-1277; verse 314
+  quote_or_summary: An evil deed is better left undone because of later repentance;
+    a good deed is better done because it brings no repentance.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:10
+  type: summary
+  locator: lines 1279-1282; verse 315
+  quote_or_summary: A man should guard himself like a frontier fort guarded within
+    and without; those who let the right moment pass suffer pain in hell.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:11
+  type: summary
+  locator: lines 1284-1293; verses 316-318
+  quote_or_summary: Those who misplace shame, fear, and prohibition while embracing
+    false doctrines enter the evil path.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+- id: ev:12
+  type: summary
+  locator: lines 1295-1297; verse 319
+  quote_or_summary: Those who know what is forbidden as forbidden and what is not
+    forbidden as not forbidden, embracing true doctrine, enter the good path.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg / Max Müller translation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif candidates are strong
+    where they rest on repeated explicit phrases; comparison claims are kept broad
+    because the passage is aphoristic and gives no external parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line locators follow the supplied stable markdown range and verse divisions. No historical-contact or common-inheritance claims are made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:buddhist-dhammapada-max-muller-gutenberg__l1242-l1297
+  passage_sha256=1049b2ae8d6b97d3ec94ed05b3c3d79195f5b41addf3e4187ad3f3a86658965b
+

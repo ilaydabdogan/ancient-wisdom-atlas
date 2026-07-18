@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2295-l2313
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: 'ELEPHANT AND TORTOISE / ANOTHER VERSION OF THE SAME FABLE / FOOTNOTES: /
+    TORTOISES HUNTING OSTRICHES; lines 2295-2313'
+  start: '2295'
+  end: '2313'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"Are you there?" ... "I am here."'
+  summary: A footnote explains a custom-related token of approval. In the tale, tortoises
+    plan in council to hunt ostriches by arranging themselves in rows and making the
+    ostriches run through them. The tortoises remain in place and call to one another
+    until the ostriches run themselves to exhaustion, fall, and are eaten by the tortoises.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A footnote states that a referenced action is a token of approval according
+    to a Hottentot custom.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tortoises hold a council about how they might hunt Ostriches.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Tortoises propose standing in rows on both sides near each other, while
+    one goes to hunt the Ostriches so that the Ostriches must flee through their midst.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Tortoises carry out the plan; because they are many, the Ostriches are
+    obliged to run through the midst of them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Tortoises remain in the same places and call to one another, asking and
+    answering whether each is there.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Ostriches hear the calls, run very hard, exhaust their strength, and fall
+    down.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Tortoises later assemble where the Ostriches have fallen and devour them.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tortoises
+  description: A numerous group that holds council, arranges itself in rows, remains
+    in place while calling, and eats the fallen Ostriches.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Ostriches
+  description: Animals hunted by the Tortoises; they flee through the rows, become
+    exhausted, fall, and are devoured.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: council-holding hunters
+  assigned_to:
+  - fig:1
+  basis: The Tortoises hold a council about hunting Ostriches and later devour the
+    fallen Ostriches.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: stationary callers
+  assigned_to:
+  - fig:1
+  basis: The Tortoises do not move, remain in the same places, and call to one another.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: hunted animals
+  assigned_to:
+  - fig:2
+  basis: The Ostriches are the target of the hunt, are made to run, collapse from
+    exhaustion, and are eaten.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: rows on both sides
+  literal_form: Tortoises standing in rows near each other on both sides of the path
+    of flight.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: call-and-response presence signals
+  literal_form: The repeated exchange, "Are you there?" and "I am here," among stationary
+    Tortoises.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Council and hunting plan
+  summary: The Tortoises meet in council and devise a plan to hunt Ostriches by placing
+    themselves in rows and driving the Ostriches through the middle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ostriches run through stationary rows
+  summary: The Tortoises execute the plan, remain in place, and call to one another
+    while the Ostriches run through their midst.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Exhaustion and devouring
+  summary: The Ostriches run until their strength is exhausted and fall; the Tortoises
+    gather at the place where they have fallen and eat them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: collective small-animal hunting strategy
+  taxonomy_refs: []
+  basis: A numerous group of Tortoises plans and executes a coordinated hunt that
+    causes the Ostriches to collapse before being eaten.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This label summarizes the passage-level pattern without asserting a broader
+    comparative classification.
+- id: motif:2
+  label: stationary trick using repeated calls
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Tortoises remain in the same places while calling to one another; the
+    Ostriches, hearing the calls, continue running until exhausted.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a successful stratagem but does not explicitly call
+    the Tortoises tricksters; the taxonomy reference is therefore broad and provisional.
+- id: motif:3
+  label: swift prey defeated by slow many hunters
+  taxonomy_refs: []
+  basis: Ostriches are made to run tremendously, exhaust their strength, and fall,
+    while the many Tortoises remain stationary and later devour them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The contrast between swift Ostriches and stationary Tortoises is inferred
+    from their actions in the passage, not explicitly stated as a moral or type.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2295-2297
+  quote_or_summary: '"In token of approval, according to a Hottentot custom."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2299-2304
+  quote_or_summary: The title introduces "Tortoises Hunting Ostriches"; the Tortoises
+    hold a council and plan to stand in rows while one hunts the Ostriches so that
+    they flee through the middle.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 2304-2307
+  quote_or_summary: The Tortoises are many; the Ostriches run through their midst
+    while the Tortoises remain in place and call, "Are you there?" / "I am here."
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; brief excerpt and summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2308-2313
+  quote_or_summary: Hearing the calls, the Ostriches run until their strength is exhausted
+    and they fall; the Tortoises gather at the place and devour them.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are provisional passage-level
+    generalizations. No comparison claims are made because the supplied passage does
+    not itself establish a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs apply directly to the passage objects or actions.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2295-l2313
+  passage_sha256=c09636b1a2c77d8e7a1a332487f7d7b88cc4848d9b42512ca41d78923a4e9d49
+

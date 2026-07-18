@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l618-l664
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: LEGENDS AND MYTHS OF THE / OF THE SUPREME BEING. / ABORIGINAL TRIBES OF GUIANA.
+    / ORIGIN OF LIVING CREATURES.; lines 618-664
+  start: '618'
+  end: '664'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“From that bright-green throne, His hand / Scattered twigs and bark around.”"
+  summary: A verse passage titled as an origin of living creatures and a legend of
+    the Ceiba tree says that old men told of the Mighty One before life existed. He
+    caused the Komaka, identified with the Ceiba or silk-cotton tree, to grow as his
+    seat or throne, then scattered twigs and bark into air, land, and water, after
+    which water, air, and ground abounded with life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Old men are described as telling the account beneath a sacred tree.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The moon, sun, earth, sky, and sea are said to lie before the Mighty One before
+    his work is complete.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The pre-creation scene includes waves and breezes but no life, birdsong, or
+    visible movement in land, plain, or grove.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The Mighty One causes Komaka, described as his seat and as a wondrous tree,
+    to grow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Komaka has branches amid the clouds, with earth and sea far below.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: From the bright-green throne, the Mighty One scatters twigs and bark into
+    air, land, and sparkling waters.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After the scattering, water, air, and solid ground are seen to abound with
+    life.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note identifies the Ceiba as the silk-cotton tree.
+  category: attribute
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: The Mighty One
+  description: A divine figure who stands before his work is done, causes Komaka to
+    grow as his seat, scatters twigs and bark, and sees life abound in water, air,
+    and ground.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Old men
+  description: Human tellers who recount the origin account beneath the sacred tree.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Creator or life-giver
+  assigned_to:
+  - fig:1
+  basis: The figure causes the tree to grow, scatters its twigs and bark into the
+    world, and afterward life abounds in water, air, and ground.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Occupant of tree-seat or throne
+  assigned_to:
+  - fig:1
+  basis: Komaka is called his seat, and the later stanza calls it a bright-green throne.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Tradition tellers
+  assigned_to:
+  - fig:2
+  basis: The old men are explicitly said to tell the account beneath the sacred tree.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Ceiba / Komaka sacred tree
+  literal_form: Sacred tree; Komaka; Ceiba or silk-cotton tree; bright-green throne
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Twigs and bark
+  literal_form: Twigs and bark scattered from the bright-green throne
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Water and sea
+  literal_form: Wide-spread sea, sparkling waters, water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: Air, land, and solid ground
+  literal_form: Air, land, solid ground
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Telling beneath the sacred tree
+  summary: Old men recount the origin account beneath a sacred tree.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Lifeless world before completion
+  summary: The moon, sun, earth, sky, and sea lie before the Mighty One; waves and
+    breezes are present, but no life or movement is visible on the land.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Growth of Komaka
+  summary: The Mighty One causes Komaka to grow as his seat; its branches are in the
+    clouds, while earth and sea lie below.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Scattering and emergence of life
+  summary: From the bright-green throne, the Mighty One scatters twigs and bark into
+    air, land, and waters; afterward water, air, and ground abound with life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Origin of living creatures through scattered tree matter
+  taxonomy_refs: []
+  basis: The titled passage concerns the origin of living creatures; after the Mighty
+    One scatters twigs and bark into air, land, and waters, those realms abound with
+    life.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The verse presents the sequence clearly, but it does not detail individual
+    animal species or explicitly state the mechanism by which each twig or piece of
+    bark becomes life.
+- id: motif:2
+  label: Sacred tree as elevated divine seat
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Komaka is the Mighty One’s seat or throne, its branches are among the clouds,
+    and earth and sea are far below.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a vertical sacred-tree pattern, but it does not explicitly
+    call the tree an axis, world center, or cosmic pillar.
+- id: motif:3
+  label: Creator deity brings life to formerly lifeless realms
+  taxonomy_refs: []
+  basis: The passage first describes the absence of life and movement, then depicts
+    the Mighty One’s action and the resulting abundance of life in water, air, and
+    ground.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is a missionary-era verse retelling, so the extraction records
+    the passage wording rather than reconstructing an underlying oral version.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 618-664; title and note
+  quote_or_summary: The passage is headed “ORIGIN OF LIVING CREATURES” and “Legend
+    of the Ceiba Tree”; a note identifies the Ceiba as the silk-cotton tree.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; short excerpt and summary.
+- id: ev:2
+  type: quote
+  locator: lines 618-664; opening stanza
+  quote_or_summary: "“Here, beneath this sacred tree, / Old men told how moon and
+    sun...”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 618-664; opening stanza
+  quote_or_summary: The poem says moon, sun, earth, sky, and sea lay before the Mighty
+    One, who stood where rivers run before his work was done.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 618-664; second stanza
+  quote_or_summary: Waves and breezes are present, but the land has no life, no birdsong,
+    and nothing seen moving across plain or grove.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 618-664; Komaka stanza
+  quote_or_summary: "“Then his seat, ‘Komaka,’ ... Wondrous tree! — He caused to grow.
+    / ’Midst the clouds its branches were, / Earth and sea lay far below.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 618-664; final stanza
+  quote_or_summary: "“From that bright-green throne, His hand / Scattered twigs and
+    bark around. / Some in air, and some on land; / Some the sparkling waters found.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 618-664; final stanza
+  quote_or_summary: "“Soon He saw with life abound / Water, air, and solid ground!”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied verse. Motif labels
+    involving sacred-tree structure are plausible but should be reviewed because the
+    passage does not explicitly use comparative terms such as axis or world center.
+    No separate cross-tradition comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata. The source is a public-domain English missionary-era verse retelling of Guiana Amerindian oral tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l618-l664
+  passage_sha256=265d0b4b0c7804a6b1b056a848d1807852620d804806f72165a92bf1a7681dfb
+

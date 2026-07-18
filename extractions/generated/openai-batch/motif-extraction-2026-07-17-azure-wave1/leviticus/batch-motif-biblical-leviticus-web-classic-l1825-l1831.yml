@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l1825-l1831
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Chapter 24 / Footnotes / Chapter 25 / Chapter 26; lines 1825-1831
+  start: '1825'
+  end: '1831'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Yahweh states that the land will lie desolate and enjoy its Sabbaths while
+    the people accept punishment for rejecting ordinances and statutes. Yet in enemies'
+    land Yahweh will not utterly reject or destroy them or break the covenant, but
+    will remember the covenant of their ancestors brought out of Egypt. The passage
+    closes by identifying these as statutes, ordinances, and laws made between Yahweh
+    and Israel at Mount Sinai by Moses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The land is described as left by the people, lying desolate without them,
+    and enjoying its Sabbaths.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people are said to accept punishment for their iniquity because they rejected
+    ordinances and abhorred statutes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yahweh says that when the people are in the land of their enemies, he will
+    not reject or abhor them, destroy them utterly, or break his covenant with them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yahweh says he will remember the covenant of the people's ancestors.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ancestors are described as those whom Yahweh brought out of Egypt in the
+    sight of the nations so that he might be their God.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The statutes, ordinances, and laws are said to have been made between Yahweh
+    and the children of Israel at Mount Sinai by Moses.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: The divine speaker who punishes, preserves the covenant, remembers
+    the ancestral covenant, brought the ancestors out of Egypt, and made laws with
+    Israel at Sinai.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Children of Israel / the people
+  description: The people whose absence leaves the land desolate, who accept punishment,
+    who are in enemies' land, and who remain parties to Yahweh's covenant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Ancestors
+  description: The earlier generation whose covenant Yahweh remembers and whom Yahweh
+    brought out of Egypt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Moses
+  description: The named mediator through whom the statutes, ordinances, and laws
+    were made at Mount Sinai.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: The land
+  description: The land left by the people, lying desolate, and enjoying its Sabbaths.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Covenant deity
+  assigned_to:
+  - fig:1
+  basis: Yahweh refuses to break the covenant, remembers the ancestral covenant, and
+    is identified as their God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Covenant people under punishment
+  assigned_to:
+  - fig:2
+  basis: The people accept punishment for iniquity, are in enemies' land, and remain
+    within the covenant relationship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: Ancestral covenant recipients
+  assigned_to:
+  - fig:3
+  basis: Yahweh remembers the covenant of the ancestors and recalls bringing them
+    out of Egypt.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Law mediator
+  assigned_to:
+  - fig:4
+  basis: The laws are said to have been made at Mount Sinai by Moses.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Desolated Sabbath-enjoying land
+  assigned_to:
+  - fig:5
+  basis: The land lies desolate without the people and enjoys its Sabbaths.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Covenant
+  literal_form: The covenant Yahweh refuses to break and remembers from the ancestors.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Desolate land
+  literal_form: The land left without the people.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Land Sabbaths
+  literal_form: The Sabbaths enjoyed by the land while it lies desolate.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Mount Sinai
+  literal_form: The mountain where the statutes, ordinances, and laws were made between
+    Yahweh and Israel by Moses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Egypt
+  literal_form: The land of Egypt from which Yahweh brought the ancestors out.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Desolation and land Sabbath
+  summary: The people are absent from the land; the land lies desolate and enjoys
+    its Sabbaths while the people accept punishment for rejected statutes and ordinances.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Covenant preserved in enemy land
+  summary: Yahweh states that even when the people are in enemies' land, he will not
+    utterly reject or destroy them or break the covenant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ancestral covenant remembered
+  summary: Yahweh states that he will remember the covenant of the ancestors, whom
+    he brought out of Egypt in the sight of the nations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sinai law covenant summary
+  summary: The passage identifies the statutes, ordinances, and laws as those made
+    between Yahweh and Israel at Mount Sinai by Moses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Covenant maintained despite punishment
+  taxonomy_refs:
+  - covenant
+  basis: Yahweh says he will not break the covenant, will remember the ancestral covenant,
+    and remains the people's God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level covenant statement, not a full covenant-making
+    narrative.
+- id: motif:2
+  label: Divine judgment through desolation and exile
+  taxonomy_refs:
+  - divine_judgment
+  basis: The people accept punishment for iniquity, the land lies desolate, and the
+    people are imagined in the land of their enemies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The judgment is explicitly limited by Yahweh's refusal to destroy the
+    people utterly or break the covenant.
+- id: motif:3
+  label: Land Sabbath fulfilled during desolation
+  taxonomy_refs: []
+  basis: The land is said to enjoy its Sabbaths while it lies desolate without the
+    people.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this land-rest pattern.
+- id: motif:4
+  label: Remembered ancestral deliverance as basis for mercy
+  taxonomy_refs:
+  - covenant
+  - departure
+  basis: Yahweh remembers the ancestors' covenant and recalls bringing them out of
+    Egypt so that he might be their God.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The departure from Egypt is recalled briefly rather than narrated in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with a covenant motif because its central
+    claim is that Yahweh will not break the covenant and will remember the ancestral
+    covenant.
+  claim_level: same_motif
+  target: covenant
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level motif comparison only; it does not claim historical
+    contact or broader cross-cultural dependence.
+- id: claim:2
+  claim: The passage also functions as a divine judgment pattern, since wrongdoing
+    leads to punishment, desolation of the land, and presence in enemies' land.
+  claim_level: same_function
+  target: divine_judgment
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  limitations: The same passage counters total destruction by emphasizing continuing
+    covenant mercy, so the judgment pattern is not absolute annihilation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1825-1826; verse 43
+  quote_or_summary: The land is left by the people, lies desolate, enjoys its Sabbaths,
+    and the people accept punishment for rejecting ordinances and statutes.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain; full text allowed per source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1827-1828; verse 44
+  quote_or_summary: When the people are in enemies' land, Yahweh will not reject,
+    abhor, utterly destroy, or break covenant with them, because he is their God.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain; full text allowed per source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 1829-1830; verse 45
+  quote_or_summary: Yahweh will remember the covenant of the ancestors, whom he brought
+    out of Egypt in the sight of the nations so that he might be their God.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain; full text allowed per source metadata.
+- id: ev:4
+  type: summary
+  locator: line 1831; verse 46
+  quote_or_summary: The statutes, ordinances, and laws were made between Yahweh and
+    the children of Israel at Mount Sinai by Moses.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain; full text allowed per source metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit about covenant, punishment, land desolation, and
+    Sinai law. Comparison claims are limited to taxonomy-level motif/function matching
+    supplied in the request.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external textual context was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l1825-l1831
+  passage_sha256=862808d8213ca56c29c43debdb4c73b4fa109ac1102496ab49f62dfa22eb9033
+

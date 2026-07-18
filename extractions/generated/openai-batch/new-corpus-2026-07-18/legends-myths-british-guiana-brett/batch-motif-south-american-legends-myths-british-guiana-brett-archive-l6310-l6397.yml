@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l6310-l6397
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: HISTORICAL AND WARLIKE LEGENDS. / THEIR WAR WITH THE CARIBS. / ABORIGINAL
+    TRIBES OF GUIANA. 137 / ABORIGINAL TRIBES OF GUIANA. 159; lines 6310-6397
+  start: '6310'
+  end: '6397'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In a siege episode, an unnamed speaker tells the women to wait for a signal
+    and flee silently through a tunnel and forest while a small defending band resists
+    the Caribs. The Caribs attack the fortified enclosure, suffer losses from wourali-tipped
+    arrows, and then set the structure aflame with flaming arrows. When they break
+    in, they find no victims or bodies because the defenders have escaped through
+    the floor toward Puriini's shore; the attackers call the event sorcery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed speaker tells the women that they shall live and instructs them
+    to flee silently through the tunnel and forest when given a signal during the
+    fighting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the small band will try what it can do against greater numbers
+    before following the women.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Caribs approach the assault and inspect the place, but see their leaders
+    fall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Arrows are shot from strong bulwarks, and the arrows are described as fatal
+    because they are tipped with wourali.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Carib attackers rush from the bush, shake and hew the timbers, and try to
+    climb into the fortified place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some attackers dig beneath the wooden wall and crawl through a hole, but those
+    who enter that way die.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Carib chiefs call off their men after losses and decide to try a safer
+    course rather than retreat.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: Flaming arrows are shot onto the loop-holed board sides and the thatched roof,
+    setting the roof and sides ablaze and prompting shouts of victory.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Caribs break into the enclosure expecting cries of pain and fear, but
+    find it quiet except for the sound of fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The defenders have gone down through the floor and are said to be on their
+    way to Puriini's shore, not to return.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The house burns to the ground, no charred skeletons are found, the passage
+    is covered by burning timbers, and the Caribs call the event sorcery.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the women
+  description: Women addressed by the speaker and instructed to escape through the
+    tunnel and forest in silence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed speaker among the defenders
+  description: A speaker who addresses the women, gives the escape instructions, and
+    says the small band will try to resist the attackers before following.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: small band / our men / defenders
+  description: The besieged defenders who shoot from the bulwarks, kill attackers
+    attempting entry, and later escape down through the floor toward Puriini's shore.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the Caribs / Carib warriors
+  description: The attacking force that assaults the enclosure, suffers losses, uses
+    flaming arrows, and later finds no bodies in the burned place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Carib chiefs
+  description: Commanders among the Caribs who call off their men after losses and
+    choose a different tactic.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: instructed escapees
+  assigned_to:
+  - fig:1
+  basis: They are told they shall live and are instructed to flee through the tunnel
+    and forest when signaled.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: escape instructor and defensive leader
+  assigned_to:
+  - fig:2
+  basis: The speaker gives orders to the women and speaks for the small band that
+    will resist the attackers.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: besieged defenders
+  assigned_to:
+  - fig:3
+  basis: They fight from the fortified place, kill attackers, and later escape through
+    the floor.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: attacking besiegers
+  assigned_to:
+  - fig:4
+  basis: They assault, climb, dig, set the structure on fire, and enter the enclosure
+    after the blaze.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: attack commanders
+  assigned_to:
+  - fig:5
+  basis: They call off the Carib men and direct a safer tactic after the initial losses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tunnel and hidden passage
+  literal_form: A tunnel through which the women are told to flee, and a passage reached
+    by going down through the floor.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: wourali-tipped arrows
+  literal_form: Arrows tipped with wourali, shot from the defenders' bulwarks.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wooden fortified enclosure
+  literal_form: Bulwarks, wooden wall, loop-holed board sides, and thatched roof of
+    the besieged place.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: fire
+  literal_form: Flaming arrows and the blaze that burns the roof, sides, and house.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Puriini's shore
+  literal_form: The shore toward which the escaped defenders are said to be traveling.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Escape instructions before the assault
+  summary: An unnamed speaker tells the women to wait for the fighting and a signal,
+    then flee silently through the tunnel and forest while the small band first resists
+    the attackers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First Carib assault and poisoned-arrow defense
+  summary: The Caribs approach and attack, but their leaders fall and defenders shoot
+    fatal wourali-tipped arrows from the bulwarks.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failed entry attempts through the wooden wall
+  summary: Carib attackers rush the enclosure, shake and hew the timbers, climb, and
+    dig under the wooden wall, but those who enter die; the chiefs call off the men
+    after the losses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Burning of the enclosure
+  summary: The Carib chiefs choose a safer tactic, and flaming arrows set the loop-holed
+    board sides and thatched roof on fire, leading the attackers to shout victory.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Empty burned house and escape through the floor
+  summary: The Caribs enter expecting victims but find quiet and no bodies, because
+    the defenders have escaped down through the floor toward Puriini's shore; the
+    covered passage is taken by them as sorcery.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Hidden tunnel escape during siege
+  taxonomy_refs: []
+  basis: The women are ordered to flee through a tunnel, and the defenders later escape
+    down through the floor through a passage hidden by burning timbers.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is extracted as a local narrative pattern; the passage does not identify
+    it with a named mythic motif family.
+- id: motif:2
+  label: Outnumbered defenders repel attackers with poisoned arrows
+  taxonomy_refs: []
+  basis: A small band faces greater numbers, shoots wourali-tipped arrows from bulwarks,
+    and kills attackers who try to enter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents a warlike episode rather than an explicitly sacred
+    or cosmological motif.
+- id: motif:3
+  label: Fire assault frustrated by secret evacuation
+  taxonomy_refs: []
+  basis: The attackers set the structure on fire and expect victims, but the defenders
+    have already escaped and no bodies are found.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy includes fire as a symbol, but no supplied motif
+    family exactly matches this siege-escape pattern.
+- id: motif:4
+  label: Enemy disappearance interpreted as sorcery
+  taxonomy_refs: []
+  basis: After the house burns and no skeletons are found, the Caribs say the escape
+    is sorcery.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The interpretation of sorcery is attributed to the Caribs within the passage;
+    no external comparison is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6310-6327
+  quote_or_summary: The speaker tells the women they shall live, wait for the signal
+    during the fight, and flee silently through the tunnel and forest; he adds that
+    the small band will try itself against the greater numbers before following.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:2
+  type: summary
+  locator: lines 6328-6340
+  quote_or_summary: The Caribs approach the assault, see their leaders fall, and learn
+    the fatal effect of arrows from the strong bulwarks tipped with wourali.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:3
+  type: summary
+  locator: lines 6341-6360
+  quote_or_summary: Carib attackers rush from the bush, shake and hew the timbers,
+    try to climb, and dig beneath the wooden wall; those entering through the hole
+    die, and the chiefs call off the men.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:4
+  type: summary
+  locator: lines 6361-6372
+  quote_or_summary: 'The chiefs say their warriors are slain by untouched foes and
+    choose a safer course: flaming arrows are sent onto the loop-holed board sides
+    and thatched roof, which blaze as the attackers shout victory.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:5
+  type: summary
+  locator: lines 6373-6385
+  quote_or_summary: The Caribs break into the enclosure expecting agony but find only
+    quiet and fire; the defenders have gone down through the floor and are on the
+    way to Puriini's shore, not to return.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:6
+  type: summary
+  locator: lines 6386-6397
+  quote_or_summary: 'The Caribs realize their vengeance is deceived: the house burns
+    down, no charred skeletons are found, the passage is covered by burning timbers,
+    and all call it sorcery.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: low
+  notes: Extraction is based only on the supplied passage. Motif candidates are local
+    descriptive patterns without external comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Public-domain English verse retelling. No historical-contact or broader comparative claims are made from this passage alone.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l6310-l6397
+  passage_sha256=18976798bea2833de43fcd8c118b3065c6326ef14d82e4b3365fcc95e46ef6ff
+

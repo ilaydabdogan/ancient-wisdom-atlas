@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l12913-l12938
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE MOON-PAINTER. / THE TREASURE-BRINGER. / THE WOODEN MAN AND THE BIRCH-BARK
+    MAID. / MARTIN AND HIS DEAD MASTER.; lines 12913-12938
+  start: '12913'
+  end: '12938'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes a prior tale by identifying a sorcerer as responsible
+    for sending a toad into a horse carcass because of a grudge against a farmer.
+    It then introduces a section on hidden treasures, stating that Estonian treasure
+    stories are often connected with devils and that hidden-treasure traditions are
+    common in war-devastated countries. The narrator compares Estonian and Oriental
+    tales in which treasures are guarded by non-human beings, and gives the example
+    of stories about Kidd burying treasure and causing a ghost to guard it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sorcerer who had a grudge against a farmer is said to have sent a toad into
+    a horse carcass.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage begins a section titled “Hidden Treasures.”
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator states that Estonian stories of hidden treasures are frequent
+    and are often connected with devils.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator says that traditions of hidden treasure are common in countries
+    devastated by war.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator recalls a report of old coins dug up in a field where local tradition
+    said a great treasure was concealed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator states that in Estonian and Oriental tales hidden treasures are
+    usually under the care of non-human guardians.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator reports that Kidd was said to bury treasure and kill a Black
+    person at the place so that the person’s ghost would guard the treasure.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The narrator says stories of Kidd’s hidden treasure remained widespread in
+    America.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: sorcerer
+  description: A sorcerer with a grudge against the farmer, identified as the sender
+    of the toad into the horse carcass.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: farmer
+  description: The target of the sorcerer’s grudge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: devils
+  description: Supernatural beings with which hidden-treasure stories are said to
+    be frequently connected.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: non-human guardians
+  description: Beings said to have care of hidden treasures in Estonian and Oriental
+    tales.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Kidd
+  description: The famous pirate said to have buried a hoard of treasure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: killed Black person and resulting ghost
+  description: A person whom Kidd is said to have killed at the treasure site so that
+    the ghost would guard the treasure.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: hostile sorcerer
+  assigned_to:
+  - fig:1
+  basis: The sorcerer is described as having a grudge and sending the toad into the
+    carcass.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: target of grudge
+  assigned_to:
+  - fig:2
+  basis: The farmer is the person against whom the sorcerer has a grudge.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: treasure-associated supernatural beings
+  assigned_to:
+  - fig:3
+  basis: Hidden-treasure stories are said to be frequently connected with devils.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: treasure guardian
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Hidden treasures are said to be under the care of non-human guardians; Kidd’s
+    victim’s ghost is said to guard the hoard.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: treasure-burier
+  assigned_to:
+  - fig:5
+  basis: Kidd is said to have buried a hoard of treasure.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: killed person whose ghost guards treasure
+  assigned_to:
+  - fig:6
+  basis: The person is said to be killed at the place so that the ghost might guard
+    the treasure.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: toad in horse carcass
+  literal_form: toad placed in the carcass of a horse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hidden treasure
+  literal_form: hidden or concealed treasure, including buried hoards and coins
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: non-human treasure guardian
+  literal_form: devil, non-human guardian, or ghost associated with guarding treasure
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: buried hoard
+  literal_form: Kidd’s buried hoard of treasure
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: concealed coins
+  literal_form: coins of Edward the Confessor and Harold dug up in a field
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: sorcerer’s hostile act
+  summary: A sorcerer with a grudge against a farmer is identified as having sent
+    a toad into a horse carcass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: introduction to hidden treasures
+  summary: The narrator introduces a section on hidden-treasure stories, emphasizing
+    their Estonian occurrence and frequent connection with devils.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: war and local treasure tradition
+  summary: The narrator states that hidden-treasure traditions are common in war-devastated
+    countries and recalls an example of coins dug up where local tradition placed
+    a great concealed treasure.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: guarded hidden treasure
+  summary: The narrator states that Estonian and Oriental hidden treasures are usually
+    cared for by non-human guardians and adds the example of Kidd’s hoard guarded
+    by a ghost.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hidden treasure tradition
+  taxonomy_refs: []
+  basis: The section title and exposition focus on stories and traditions of hidden
+    or concealed treasure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is an editorial introduction and does not narrate a complete
+    treasure-seeking tale.
+- id: motif:2
+  label: hidden treasure connected with devils
+  taxonomy_refs: []
+  basis: The narrator states that Estonian hidden-treasure stories are frequently
+    connected with devils.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify what the devils do in individual stories.
+- id: motif:3
+  label: treasure guarded by non-human beings
+  taxonomy_refs: []
+  basis: The passage states that Estonian and Oriental hidden treasures are usually
+    under the care of non-human guardians.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The term “non-human guardians” is broad and not tied to a single narrated
+    episode here.
+- id: motif:4
+  label: ghost made guardian of buried treasure through killing
+  taxonomy_refs:
+  - sacrifice
+  basis: Kidd is said to kill a person at the treasure site so that the ghost would
+    guard the hoard.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The source presents the Kidd example as reported tradition; the available
+    taxonomy term “sacrifice” is approximate because the passage says “slaughter”
+    rather than explicitly ritual sacrifice.
+- id: motif:5
+  label: hidden treasure after war devastation
+  taxonomy_refs: []
+  basis: The narrator says hidden-treasure traditions are common in countries devastated
+    by war.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a general observation, not a developed narrative motif in the
+    passage.
+- id: motif:6
+  label: malicious sorcery using an animal and carcass
+  taxonomy_refs: []
+  basis: A sorcerer with a grudge sends a toad into the carcass of a horse.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a brief closing statement from a preceding tale and is not part
+    of the hidden-treasure section.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents hidden-treasure traditions as recurring in Esthonia
+    and in other countries, especially those devastated by war.
+  claim_level: same_motif
+  target: hidden-treasure traditions in war-devastated countries
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an editorial generalization and one recalled report,
+    not a systematic comparative survey.
+- id: claim:2
+  claim: The passage explicitly compares Estonian and Oriental tales as sharing the
+    functional pattern of hidden treasures cared for by non-human guardians.
+  claim_level: same_function
+  target: Oriental tales of non-human treasure guardians
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: "“Oriental tales” is a broad category in the source, and no specific
+    tale is named in this passage."
+- id: claim:3
+  claim: The passage treats American Kidd treasure stories as another example of the
+    guarded-hidden-treasure pattern, with a ghost serving as guardian.
+  claim_level: same_function
+  target: American stories of Kidd’s hidden treasure
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Kidd example is introduced with “it is said,” and the passage does
+    not prove historical accuracy or direct connection to Estonian traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12913-12914
+  quote_or_summary: A sorcerer with a grudge against the farmer had sent the toad
+    into the carcass of the horse.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: citation
+  locator: 12917-12919
+  quote_or_summary: 'Section heading: SECTION IX, “Hidden Treasures.”'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short heading cited.
+- id: ev:3
+  type: summary
+  locator: 12921-12925
+  quote_or_summary: The narrator says Esthonia has many hidden-treasure stories, often
+    connected with devils; the section is placed next to Devil-stories, and some following
+    stories are given only in abstract.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12926-12931
+  quote_or_summary: The narrator states that hidden-treasure traditions are common
+    in countries devastated by war and recalls a report of coins dug up where local
+    tradition said treasure was concealed.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 12931-12934
+  quote_or_summary: In Estonian and Oriental tales, hidden treasures are usually under
+    the care of non-human guardians, even when not explicitly placed under their protection.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 12934-12938
+  quote_or_summary: The narrator says this notion persists in many countries and reports
+    that Kidd buried treasure and killed a person so the ghost would guard it; stories
+    of Kidd’s treasure are said to remain widespread in America.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly editorial and comparative rather than a full narrative.
+    Motif extraction is strongest for hidden treasure and supernatural guardians;
+    the sorcery detail belongs to a preceding tale fragment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All claims are based only on the supplied passage and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l12913-l12938
+  passage_sha256=abe597bbe355c551910888d086d62ba500c4b67cc11ae7484e8a1a956f9735fd
+

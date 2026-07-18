@@ -1,0 +1,513 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l34613-l34720
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LIII. / ENTITLED, THE STAR;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 34613-34720
+  start: '34613'
+  end: '34720'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: BY the star, when it setteth;
+  summary: The passage opens Chapter LIII, “The Star,” affirming Mohammed’s revelation,
+    describing a powerful heavenly teacher and visionary encounter near the lote-tree,
+    rejecting named Arabian goddesses and female angelic appellations, and declaring
+    God’s ownership, mercy, knowledge, and final recompense.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter is entitled “The Star” and opens with an oath by the star when
+    it sets; a footnote notes an alternate sense, when it rises.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mohammed is called “your companion,” is said not to err or be led astray,
+    and is said not to speak from his own will; the message is described as revelation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A figure described as mighty in power and endowed with understanding is said
+    to have taught the revelation; a note identifies this figure as the angel Gabriel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The powerful figure appears in the highest part of the horizon, approaches
+    the prophet, comes within two bows’ length or nearer, and reveals what he reveals.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mohammed’s heart is said not to have falsely represented what he saw, and
+    the audience is asked whether they will dispute with him about the vision.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mohammed is said to have seen him another time by the lote-tree beyond which
+    there is no passing, near the garden of eternal abode, while beholding signs of
+    his Lord.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note explains the lote-tree as standing in the seventh heaven, at the limit
+    beyond which angels or creaturely knowledge must not pass.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Allat, Al Uzza, and Manah are named as goddesses, but the text calls them
+    empty names named by the audience and their fathers, without divine authorization
+    for worship.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Angels in the heavens are said to have no effective intercession unless God
+    grants permission and accepts; those who do not believe in the life to come are
+    said to give angels a female appellation.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: God is said to own the life to come and the present life, and whatever is
+    in heaven and earth.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: The text instructs withdrawal from one who turns away from admonition and
+    seeks only the present life.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: God is described as rewarding evil and good according to deeds, being extensive
+    in mercy, and knowing humans from their production out of the earth and as embryos
+    in their mothers’ wombs.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Called “your companion Mohammed” and “the prophet”; described as recipient
+    and witness of revelation and vision.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Gabriel / one mighty in power
+  description: A mighty, understanding teacher of revelation; the note identifies
+    him as the angel Gabriel, appearing in the sky and approaching the prophet.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: God / LORD
+  description: Named as God and Lord; source of authorization, owner of present and
+    future life, granter of intercession, judge, rewarder, merciful knower of humans.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Allat
+  description: Named among three goddesses/idols questioned in the passage and then
+    rejected as an unauthorized name.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Al Uzza
+  description: Named among three goddesses/idols questioned in the passage and then
+    rejected as an unauthorized name.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Manah
+  description: Named as the other third goddess/idol and then rejected as an unauthorized
+    name.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Angels
+  description: Beings in the heavens whose intercession is ineffective unless God
+    permits and accepts; unbelievers are said to give them a female appellation.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Those who believe not in the life to come / present-life seekers
+  description: A group described as assigning female appellations to angels, following
+    opinion, turning away from admonition, and seeking only the present life.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: recipient of revelation
+  assigned_to:
+  - fig:1
+  basis: Mohammed is said not to speak from his own will; the message is revelation
+    revealed to him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: visionary witness
+  assigned_to:
+  - fig:1
+  basis: The passage says his heart did not misrepresent what he saw and that he saw
+    the figure another time by the lote-tree.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: heavenly teacher
+  assigned_to:
+  - fig:2
+  basis: The figure mighty in power and understanding taught the revelation; the note
+    identifies him as Gabriel.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: approaching visionary figure
+  assigned_to:
+  - fig:2
+  basis: The figure appeared at the horizon, approached the prophet, and came very
+    near before revelation occurred.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine authority
+  assigned_to:
+  - fig:3
+  basis: God is said to be the one whose revelation authorizes worship and who permits
+    or withholds intercession.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: judge and rewarder
+  assigned_to:
+  - fig:3
+  basis: God owns heaven and earth and recompenses evil and good; he is described
+    as merciful and all-knowing.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: named unauthorized goddesses/idols
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage names Allat, Al Uzza, and Manah as goddesses, then says they
+    are empty names with no divine authorization for worship.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: limited intercessors
+  assigned_to:
+  - fig:7
+  basis: Angels’ intercession is said to be of no avail until God permits and accepts.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: unbelieving or present-life-oriented audience
+  assigned_to:
+  - fig:8
+  basis: The passage describes people who do not believe in the life to come, follow
+    opinion, turn away from admonition, and seek only the present life.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: star at setting or rising
+  literal_form: star
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: highest horizon
+  literal_form: highest part of the horizon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: two bows’ length
+  literal_form: measure of nearness between the approaching figure and the prophet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lote-tree beyond which there is no passing
+  literal_form: lote-tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: garden of eternal abode
+  literal_form: garden near the lote-tree
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: empty names
+  literal_form: names assigned to Allat, Al Uzza, and Manah without revealed authorization
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Opening oath and defense of revelation
+  summary: The chapter opens by the star and states that Mohammed is not astray and
+    does not speak from his own will, but from revelation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Heavenly teacher appears and approaches
+  summary: A mighty, understanding figure identified in the note as Gabriel appears
+    at the highest horizon, approaches the prophet, comes near, and reveals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Second vision at the boundary lote-tree
+  summary: Mohammed sees the figure another time by the lote-tree beyond which there
+    is no passing, near the garden of eternal abode, and beholds great signs of his
+    Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Rejection of named goddesses and female angelic appellations
+  summary: Allat, Al Uzza, and Manah are questioned and dismissed as empty names without
+    divine authorization, while female appellations for angels are attributed to unbelievers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Admonition, ownership, mercy, and recompense
+  summary: The text tells the prophet to withdraw from those who seek only the present
+    life and declares God’s knowledge, ownership of heaven and earth, recompense of
+    deeds, and mercy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Revelation through a heavenly teacher
+  taxonomy_refs:
+  - wisdom
+  basis: Mohammed is said not to speak from will; the message is revelation taught
+    by a mighty figure identified as Gabriel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no specific angelic-revelation category; “wisdom”
+    is used broadly for transmitted divine instruction.
+- id: motif:2
+  label: Vision at a heavenly boundary tree
+  taxonomy_refs:
+  - ascent
+  - sacred_tree_axis
+  basis: The passage describes a second vision by the lote-tree beyond which there
+    is no passing, near the garden of eternal abode; a note locates the tree in the
+    seventh heaven and at the limit of angelic passage or creaturely knowledge.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The main excerpt describes the visionary location but does not narrate
+    a full ascent sequence; the explicit heavenly placement comes from the translator’s
+    notes.
+- id: motif:3
+  label: Divine judgment and recompense of deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is said to reward evil and good according to deeds, while being merciful
+    and fully knowing humans.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Rejection of unauthorized divine names
+  taxonomy_refs: []
+  basis: Named goddesses are called empty names invented by the audience and their
+    fathers, with no revealed authorization for their worship.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference directly matches polemic against idols
+    or unauthorized intercessors.
+- id: motif:5
+  label: Restricted intercession under divine permission
+  taxonomy_refs:
+  - divine_judgment
+  basis: Angelic intercession is said to be ineffective unless God grants permission
+    and accepts.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a doctrinal statement about intercession rather than
+    a narrative judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 34619-34623 within supplied range
+  quote_or_summary: "“BY the star ... your companion Mohammed erreth not ... It is
+    no other than a revelation”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 34623-34639 within supplied range, including notes m-n
+  quote_or_summary: A mighty, understanding figure teaches the revelation; note m
+    identifies the figure as Gabriel, and note n describes his natural form and appearance
+    in the sky.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 34626-34658 within supplied range
+  quote_or_summary: The figure appears at the highest horizon, approaches the prophet,
+    is at the distance of two bows or nearer, reveals, and Mohammed’s heart does not
+    falsify what he saw.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 34659-34666 within supplied range
+  quote_or_summary: "“He also saw him another time, by the lote-tree beyond which
+    there is no passing ... near it is the garden of eternal abode.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: notes r-t near end of supplied range
+  quote_or_summary: Translator’s notes identify the lote-tree as in the seventh heaven
+    near God’s throne, a limit beyond which angels or creaturely knowledge do not
+    pass, and mention beings beneath or on it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 34667-34675 within supplied range
+  quote_or_summary: Allat, Al Uzza, and Manah are named; the text asks about male
+    children for humans and female for God, then says the goddesses are empty names
+    without revealed authorization.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 34676-34684 within supplied range
+  quote_or_summary: The life to come and present life are God’s; angels’ intercession
+    has no avail unless God permits and accepts; unbelievers assign angels a female
+    appellation and follow opinion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 34685-34698 within supplied range
+  quote_or_summary: The text commands withdrawal from those who turn away and seek
+    only present life; God owns heaven and earth, rewards evil and good, is merciful,
+    and knows humans from earth and womb.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses the supplied passage and notes only. Some line subranges
+    are approximate within the provided stable range. No external comparison claims
+    were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnotes in the supplied excerpt that appear unrelated to Chapter LIII were not used as motif evidence.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l34613-l34720
+  passage_sha256=07b0e425e7d89ff812582942901a44267f0efad8c4f5c51090fbd1a3142595c4
+

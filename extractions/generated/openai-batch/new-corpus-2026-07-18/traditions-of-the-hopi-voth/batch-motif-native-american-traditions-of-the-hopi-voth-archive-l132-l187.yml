@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.native-american-traditions-of-the-hopi-voth-archive-l132-l187
+source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+passage_locator:
+  label: The Traditions of the Hopi / THE TRADITIONS OF THE HOPI / NOTE.; lines 132-187
+  start: '132'
+  end: '187'
+  translation: The Traditions of the Hopi
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is title-page and prefatory note material for The Traditions
+    of the Hopi. It identifies H. R. Voth, the Stanley McCormick Hopi Expedition,
+    and George A. Dorsey. The note states that Voth collected the Hopi traditions
+    in the vernacular without an interpreter during the previous two years, and that
+    Stanley McCormick funded the investigation. Dorsey, curator of the Department
+    of Anthropology, signs the acknowledgment in Chicago on January 1, 1905.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title material identifies the work as The Traditions of the Hopi and names
+    H. R. Voth in connection with it.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage associates the work with the Stanley McCormick Hopi Expedition
+    and George A. Dorsey, Curator of the Department of Anthropology.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note states that the traditions were collected in the vernacular and without
+    an interpreter by H. R. Voth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The collection took place during the last two years in connection with other
+    investigations among the Hopi.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that Stanley McCormick provided the means for the additional
+    investigation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: George A. Dorsey acknowledges gratitude to Stanley McCormick and signs the
+    note as Curator of the Department of Anthropology in Chicago.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: H. R. Voth
+  description: Named in the title material and described in the note as the person
+    who collected the Hopi traditions in the vernacular without an interpreter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: George A. Dorsey
+  description: Named as Curator of the Department of Anthropology and signer of the
+    prefatory note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Stanley McCormick
+  description: Named in the expedition title and credited in the note with providing
+    means for the additional investigation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: The Hopi
+  description: The people among whom Voth conducted investigations and from whose
+    traditions the work is presented.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: collector and named author
+  assigned_to:
+  - fig:1
+  basis: The title material names H. R. Voth, and the note says he collected the traditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: curator and acknowledger
+  assigned_to:
+  - fig:2
+  basis: George A. Dorsey is identified as curator and signs the note acknowledging
+    support.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: patron or funder
+  assigned_to:
+  - fig:3
+  basis: The note says Stanley McCormick provided the means for the additional investigation.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: source community and subject of investigation
+  assigned_to:
+  - fig:4
+  basis: The title and note identify the traditions and investigations as Hopi.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 132-161
+  quote_or_summary: Title material identifies The Traditions of the Hopi, H. R. Voth,
+    the Stanley McCormick Hopi Expedition, and George A. Dorsey as curator.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 164-178
+  quote_or_summary: The note states that Voth collected the traditions in the vernacular,
+    without an interpreter, during the last two years, while conducting other investigations
+    among the Hopi.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 178-183
+  quote_or_summary: The note states that Stanley McCormick generously provided the
+    means for the additional investigation and that the department owes him gratitude.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 183-187
+  quote_or_summary: George A. Dorsey signs the note as Curator of the Department of
+    Anthropology, with place and date given as Chicago, January 1, 1905.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is front matter and an editorial note, not a mythic narrative
+    passage. No symbols, scenes, motifs, or comparative claims are supported by the
+    supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological motif extraction was attempted beyond the literal documentary content supplied in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-traditions-of-the-hopi-voth-archive__l132-l187
+  passage_sha256=b7f386349d4986c3c7b195f148f031c625fc8016816da5210f4e6932c5fa8d8f
+

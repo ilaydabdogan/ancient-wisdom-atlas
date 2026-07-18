@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l14261-l14318
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'GHOST STORIES. / FOOTNOTES: / CHAPTER VI. / LEGENDS.; lines 14261-14318'
+  start: '14261'
+  end: '14318'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Sometimes the sacred visitor rewards with temporal goods the kindly host
+    who has hospitably received him.
+  summary: A poor man, unable to prepare beer for a Church feast or obtain credit
+    from a rich neighbor, prays before the sacred image in his cottage. An old man
+    is lodged as a guest and instructs him to borrow malt and put it into his well.
+    The next morning the well yields extraordinary beer, which the neighbors drink
+    with rejoicing. The rich neighbor imitates the act with his own malt but obtains
+    only malt and water. The passage then introduces peasant legends about saints
+    and explains that the Slavonic thunder-god Perun was functionally compared with
+    Donar or Thor, and that after Christianization attributes formerly associated
+    with Perun became attached to the Prophet Ilya or Elijah.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator states that a sacred visitor may reward a hospitable host with
+    temporal goods.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A poor man has an empty cupboard before a Church feast and cannot borrow from
+    a rich neighbor because he has no security.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The poor man stands near the sacred painting in the corner and says he lacks
+    money for oil to light the lamp before the image for the festival.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An old man enters the cottage, receives permission to spend the night, asks
+    why the host is sad, and tells him to borrow a quarter of malt from the rich neighbor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old man orders the borrowed malt to be thrown into the host’s well.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the morning, the old man tells the host to borrow tubs, fill them with
+    liquor drawn from the well, and invite the neighbors to drink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Buckets drawn from the well are filled with extraordinary beer, and the villagers
+    gather, drink, and rejoice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The rich neighbor learns the story, orders his servants to pour his best malt
+    into his own well, and the next day finds only malt and water, with no beer.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage introduces peasant legends about saints and names a story concerning
+    the Prophet Elijah and St. Nicholas.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Perun is described as a Slavonic thunder-god who was believed to sway the
+    elements, drive through the sky in a flaming car, and launch lightning at demon
+    foes.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage says that Perun’s name remains in western and southern Slavonian
+    local phrases, especially imprecations.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The passage says that after Christianity entered Slavonic lands, worship of
+    Perun ended, parts of the old faith merged into the new, and ideas formerly linked
+    with Perun became attached to the Prophet Ilya or Elijah.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: poor moujik / hospitable host
+  description: A poor villager whose cupboard is bare before the Church feast; he
+    lodges the old man and follows his instructions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: rich neighbor
+  description: A wealthy neighbor who lends at usurious rates, refuses credit without
+    security, later asks how the beer was brewed, and unsuccessfully imitates the
+    act.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: old man / sacred visitor
+  description: An old man who enters the cottage, is allowed to stay overnight, questions
+    the host, and gives instructions that lead to beer being drawn from the well;
+    the narrative frame identifies this type as a sacred visitor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: villagers / neighbors
+  description: The people who assemble in crowds, drink the beer from the poor man’s
+    well, and rejoice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Prophet Ilya / Elijah
+  description: A Christian sacred figure whose Russian designation is introduced and
+    to whom ideas formerly associated with Perun are said to have become attached.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Perun
+  description: A Slavonic thunder-god associated with control of the elements, a flaming
+    car, and lightning shafts against demon foes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Donar or Thor
+  description: A Teutonic comparandum named as occupying a place analogous to Perun’s
+    place in the Slavonic mythological system.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: hospitable poor host
+  assigned_to:
+  - fig:1
+  basis: He allows the old man to spend the night and follows the guest’s instructions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: sacred visitor and instructing guest
+  assigned_to:
+  - fig:3
+  basis: The frame describes a sacred visitor rewarding a hospitable host, and the
+    old man is the visitor who gives the successful instructions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: wealthy lender and failed imitator
+  assigned_to:
+  - fig:2
+  basis: He refuses the poor man credit without security and later imitates the well
+    ritual without success.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: celebrating community
+  assigned_to:
+  - fig:4
+  basis: The villagers assemble, drink the beer, and rejoice.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Slavonic thunder-god
+  assigned_to:
+  - fig:6
+  basis: The passage explicitly calls Perun a Slavonian thunder-god and describes
+    his thunder and lightning attributes.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Christian recipient of transferred attributes
+  assigned_to:
+  - fig:5
+  basis: The passage says ideas formerly associated with Perun became attached to
+    Prophet Ilya or Elijah.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: Teutonic thunder-god comparandum
+  assigned_to:
+  - fig:7
+  basis: The passage compares Perun’s mythological place with that assigned in the
+    Teutonic system to Donar or Thor.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacred image and lamp
+  literal_form: A sacred painting in the cottage corner and the lamp before the image
+    for which the poor man lacks oil.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: well water
+  literal_form: The host’s well, into which malt is thrown and from which liquor or
+    beer is drawn; the rich neighbor’s well, which yields only malt and water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: malt and beer
+  literal_form: A quarter of malt borrowed by the poor man, extraordinary beer drawn
+    from the well, and the rich neighbor’s best malt that fails to become beer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: flaming car and lightning shafts
+  literal_form: Perun’s flaming car across the sky and the shafts of lightning launched
+    at demon foes.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Poverty before the Church feast
+  summary: The poor man cannot obtain supplies for the feast and laments before the
+    sacred image that he lacks oil for the festival lamp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The old guest’s instruction
+  summary: The old man is lodged by the poor man, asks the cause of his sadness, and
+    directs him to borrow malt and throw it into the well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Beer from the well
+  summary: The next morning, at the old man’s instruction, liquor is drawn from the
+    well; it becomes extraordinary beer, and the villagers gather, drink, and rejoice.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The rich neighbor’s failed imitation
+  summary: The rich neighbor copies the act by putting his best malt into his well,
+    but the well contains only malt and water and no beer.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Perun, Elijah, and transferred thunder attributes
+  summary: The passage explains Perun’s thunder-god attributes, compares his place
+    to Donar or Thor, and states that after Christianization ideas formerly associated
+    with Perun became attached to Prophet Ilya or Elijah.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: hospitable host rewarded by sacred visitor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage frames the story as a sacred visitor rewarding a kindly host
+    with temporal goods, and the old guest’s instructions produce abundant beer for
+    the poor man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The visitor’s sacred identity is stated by the narrative frame but is
+    not further named in the excerpt.
+- id: motif:2
+  label: miraculous drink drawn from a well
+  taxonomy_refs: []
+  basis: Malt placed in the well at the guest’s command results in buckets filled
+    with extraordinary beer the next morning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available motif-family taxonomy ref specifically names miraculous beer
+    or well transformation.
+- id: motif:3
+  label: failed greedy imitation of a miracle
+  taxonomy_refs: []
+  basis: The rich neighbor copies the poor man’s act with his own best malt but receives
+    only malt and water instead of beer.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the sequence but does not explicitly state a moral
+    interpretation.
+- id: motif:4
+  label: thunder-god attributes transferred to a Christian sacred figure
+  taxonomy_refs: []
+  basis: The passage states that, after Christianization, ideas formerly associated
+    with Perun became attached to the Prophet Ilya or Elijah.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an explanatory comparative note rather than a full legend episode
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Perun’s place in the Slavonic mythological
+    system with the place assigned in the Teutonic system to Donar or Thor.
+  claim_level: same_function
+  target: Donar or Thor in Teutonic mythology
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt gives a functional comparison only and does not provide
+    a detailed Teutonic narrative.
+- id: claim:2
+  claim: The passage states that attributes or ideas formerly associated with Perun
+    were transferred to the Prophet Ilya or Elijah after the introduction of Christianity
+    into Slavonic lands.
+  claim_level: historical_contact
+  target: Prophet Ilya / Elijah in Russian Christian saint legend
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is presented as the collector’s explanatory statement; the
+    excerpt does not include the full Elijah legend that follows.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14261-14272
+  quote_or_summary: The story is introduced as a sacred visitor rewarding a hospitable
+    host. A poor man before a Church feast has no supplies, cannot borrow from a rich
+    neighbor, and laments before the sacred image that he lacks oil for the festival
+    lamp.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 14273-14283
+  quote_or_summary: An old man enters the cottage, is allowed to stay the night, asks
+    why the host is sad, tells him to borrow malt from the rich neighbor, and orders
+    the malt thrown into the well.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: 14284-14293
+  quote_or_summary: The host draws liquor from the well and the buckets are filled
+    with “such beer as neither fancy nor imagination can conceive”; the villagers
+    gather, drink, and rejoice.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quote from provided passage.
+- id: ev:4
+  type: summary
+  locator: 14294-14301
+  quote_or_summary: The rich neighbor asks how the beer was brewed, commands his servants
+    to pour his best malt into his own well, and the next day finds only malt and
+    water, with no beer.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 14302-14307
+  quote_or_summary: The passage turns to peasant legends about saints and introduces
+    the story of “The Prophet Elijah and St. Nicholas,” prefacing it with comments
+    on Ilya the Prophet.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 14308-14314
+  quote_or_summary: Perun is described as a Slavonic thunder-god whose mythological
+    place is compared to Donar or Thor; he is associated with the elements, a flaming
+    car across the sky, and lightning against demon foes.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 14314-14318
+  quote_or_summary: After Christianity entered Slavonic lands, worship of Perun ended;
+    parts of the old faith merged into the new, and ideas formerly associated with
+    Perun became attached to Prophet Ilya or Elijah.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious; only the hospitality exchange directly maps to an available motif-family
+    ref. Comparison claims are explicit in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or taxonomy refs beyond those supplied were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l14261-l14318
+  passage_sha256=810513010f662c76d84296b95ab01330a7892de802ab603d48f9536f3f5a6abe
+

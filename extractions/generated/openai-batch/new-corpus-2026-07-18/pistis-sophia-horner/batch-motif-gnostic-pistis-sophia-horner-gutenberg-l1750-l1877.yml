@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l1750-l1877
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 1750-1877
+  start: '1750'
+  end: '1877'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly introductory discussion of dating and sources
+    for the Third, Fourth, and Fifth Documents of Pistis Sophia. It notes a royal-pardon
+    analogy in the Third Document, magic, astrology, unintelligible divine language,
+    and the Great Name in the Fourth Document, and demonic punishment, hell torments,
+    and reincarnation-linked infirmities in the Fifth Document. It compares several
+    features with late antique, Coptic, Egyptian, Cabalistic, Pauline-apocalyptic,
+    and Manichaean-related materials, then summarizes the author’s view that the documents
+    belong to the school of Valentinus with differing dates.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports that the Third Document contains an argument about a contemporary
+    king who gives gifts, clothes a man equal to himself in royal vestures, and pardons
+    him for very grave crimes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that this royal-pardon argument is compared in the Third
+    Document to pardon extended by the Highest Powers to the worst sinners.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the Fourth Document increasingly uses magic and astrology,
+    including prefatory unintelligible material before prayers of Jesus and an important
+    role assigned to the stars in human destiny.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that similar unintelligible material is found in Graeco-Egyptian
+    Magic Papyri, Ethiopic magical prayers, the so-called Gnostic Papyrus of Turin,
+    and later Christian literature where unintelligible words are treated as divine
+    language.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The passage says the Fourth Document’s concluding words about the Great Name
+    can be related to the Egyptian tale of the Illness of Râ and resemble later stories
+    in the Medieval Cabala.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports that the Fifth Document pictures a murderer’s soul tied
+    by the tongue to a great demon in the shape of a horse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says descriptions of hell torments in the Fifth Document are not
+    identical to, but are cast in the same mould as, those in the Apocalypse of Paul.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage reports a doctrine that the sins committed by a soul determine
+    bodily infirmities assigned to it in its next incarnation.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage concludes that all documents in the text belong to the school
+    of Valentinus, with earlier portions attributed to Valentinus himself and later
+    portions assigned to successors and later dates.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: a King of to-day
+  description: A contemporary king in the Third Document’s argument who gives gifts,
+    clothes a man in royal vestures, and pardons grave crimes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man equal to the king
+  description: A man described as equal to the king and as receiving gifts, royal
+    vestures, and pardon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Highest Powers
+  description: Powers said to extend pardon to the worst sinners in the comparison
+    discussed by the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Jesus
+  description: The figure whose prayers in the Fourth Document are said to be prefaced
+    by unintelligible material.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: murderer’s soul
+  description: A soul pictured in the Fifth Document as tied by the tongue to a great
+    demon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: great demon in the shape of a horse
+  description: A great demon, horse-shaped, to which the murderer’s soul is tied by
+    the tongue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal giver and pardoner
+  assigned_to:
+  - fig:1
+  basis: The king gives gifts, gives royal vestures, and pardons heinous crimes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of royal gifts and pardon
+  assigned_to:
+  - fig:2
+  basis: The man equal to the king receives gifts, royal vestures, and pardon.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine pardoners of sinners
+  assigned_to:
+  - fig:3
+  basis: The Highest Powers are described as extending pardon to the worst sinners.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: figure associated with prayers
+  assigned_to:
+  - fig:4
+  basis: The passage refers to prayers of Jesus in the Fourth Document.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: punished soul
+  assigned_to:
+  - fig:5
+  basis: The murderer’s soul is tied by the tongue to a demon.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: demonic binder or tormentor
+  assigned_to:
+  - fig:6
+  basis: The great demon in horse shape is the being to which the murderer’s soul
+    is tied.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: royal vestures
+  literal_form: vestures of a king
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stars governing destiny
+  literal_form: stars assigned a preponderating part in man’s destiny
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: unintelligible divine language
+  literal_form: galimatias and words unintelligible to writers and readers treated
+    as divine language
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Great Name
+  literal_form: the Great Name mentioned at the conclusion of the Fourth Document
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: tongue-binding punishment
+  literal_form: a murderer’s soul tied by the tongue
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: horse-shaped demon
+  literal_form: a great demon in the shape of a horse
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: hell torments
+  literal_form: descriptions of the torments of hell
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: next-incarnation infirmities
+  literal_form: bodily infirmities allotted to a soul in its next incarnation according
+    to its sins
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Royal pardon analogy
+  summary: A king gives gifts and royal clothing to a man equal to himself and pardons
+    him for grave crimes; the argument compares this act to pardon from the Highest
+    Powers to grave sinners.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayers, astrology, and divine names in the Fourth Document
+  summary: 'The Fourth Document is described as using magical and astrological practices:
+    prayers of Jesus are preceded by unintelligible formulae, stars are given a major
+    role in human destiny, and the text ends with words about the Great Name.'
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Murderer’s soul bound to horse-shaped demon
+  summary: The Fifth Document pictures a murderer’s soul tied by the tongue to a great
+    demon shaped like a horse.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hell torments and reincarnation consequences
+  summary: The Fifth Document is said to contain hell-torment descriptions and a doctrine
+    that a soul’s sins determine bodily infirmities in its next incarnation.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal pardon as analogy for divine pardon
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Third Document’s royal-pardon argument is explicitly compared to the
+    Highest Powers pardoning the worst sinners.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports a scholarly summary of the Third Document rather than
+    quoting the full original argument.
+- id: motif:2
+  label: magical prayer language and divine names
+  taxonomy_refs: []
+  basis: The Fourth Document is said to include prefatory unintelligible language
+    before prayers and concluding words about the Great Name.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names magical formulae or divine
+    names.
+- id: motif:3
+  label: astrological determination of human destiny
+  taxonomy_refs: []
+  basis: The Fourth Document is described as assigning a preponderating part in human
+    destiny to the stars.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference directly names astrology or fate-by-stars.
+- id: motif:4
+  label: soul punished by demonic binding
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Fifth Document pictures a murderer’s soul tied by the tongue to a horse-shaped
+    demon.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide the broader narrative context for this punishment.
+- id: motif:5
+  label: torments of hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that the Fifth Document contains descriptions of hell
+    torments.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The specific torments are not described in detail in this passage.
+- id: motif:6
+  label: sins determining next-incarnation infirmities
+  taxonomy_refs:
+  - death_rebirth
+  - divine_judgment
+  basis: The passage reports a doctrine that sins committed by the soul determine
+    bodily infirmities in the soul’s next incarnation.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy references are broad; the passage states reincarnation and
+    sin-based consequence but does not describe the mechanism in detail.
+comparison_claims:
+- id: claim:1
+  claim: The Third Document’s royal-pardon argument is presented as possibly alluding
+    to an episode in the reign of Philip the Arabian recounted in the Augustan History.
+  claim_level: historical_contact
+  target: Episode in the reign of Philip the Arabian in the Augustan History
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as an attribution by Schmidt following Harnack
+    and says only that the episode may be hinted at.
+- id: claim:2
+  claim: The Fourth Document’s unintelligible formulae are compared with similar material
+    in Graeco-Egyptian Magic Papyri, Ethiopic magical prayers, the Gnostic Papyrus
+    of Turin, and later Christian literature treating such words as divine language.
+  claim_level: same_function
+  target: Graeco-Egyptian Magic Papyri, Ethiopic magical prayers, Gnostic Papyrus
+    of Turin, and post-Constantinian Christian apocryphal literature
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses these parallels mainly for dating and does not establish
+    direct textual dependence.
+- id: claim:3
+  claim: The Fourth Document’s Great Name motif is said to be traceable to the Egyptian
+    tale of the Illness of Râ and to approach later Medieval Cabala stories.
+  claim_level: same_motif
+  target: Egyptian tale of the Illness of Râ and Medieval Cabala stories about a great
+    divine name
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a broad comparison and does not quote the compared
+    stories.
+- id: claim:4
+  claim: The image of a murderer’s soul tied by the tongue to a horse-shaped demon
+    is said to occur again in the Coptic Life of Bishop Pisentius.
+  claim_level: same_motif
+  target: Coptic Life of Bishop Pisentius
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide the corresponding Pisentius passage, only
+    reports the recurrence.
+- id: claim:5
+  claim: The Fifth Document’s hell-torment descriptions are compared to those in the
+    Apocalypse of Paul as cast in the same mould, though not identical.
+  claim_level: same_motif
+  target: Apocalypse of Paul
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage explicitly cautions that the descriptions are not identical.
+- id: claim:6
+  claim: The doctrine that sins determine infirmities in the soul’s next incarnation
+    is compared with a formal statement in the Acta Archelai and with perceived Manichaean
+    features.
+  claim_level: same_function
+  target: Acta Archelai and Manichaean-related teaching
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states this as the author’s awareness and as a probable
+    reason for Lipsius’s perception; it does not prove dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1750-1763
+  quote_or_summary: The passage summarizes a Third Document argument in which a king
+    gives gifts, clothes an equal man in royal vestures, and pardons heinous crimes;
+    the argument is compared to the Highest Powers pardoning the worst sinners and
+    is linked by scholars to Philip the Arabian.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1764-1785
+  quote_or_summary: 'The passage describes the Fourth Document as increasingly using
+    magic and astrology: prayers of Jesus are preceded by unintelligible material,
+    and stars are assigned a preponderating role in human destiny; similar material
+    is noted in Graeco-Egyptian Magic Papyri and Ethiopic magical prayers.'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 1785-1798
+  quote_or_summary: The passage says the Gnostic Papyrus of Turin treats a crucifixion
+    phrase as one of the glorious names of God, later Christian literature treats
+    unintelligible words as divine language, and the Fourth Document’s Great Name
+    resembles traditions from the Illness of Râ and Medieval Cabala.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1800-1808
+  quote_or_summary: The passage says the Fifth Document includes a picture of a murderer’s
+    soul tied by the tongue to a great demon in the shape of a horse, and that this
+    image is found again in the Coptic Life of Bishop Pisentius.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1808-1813
+  quote_or_summary: The passage states that the Fifth Document’s descriptions of hell
+    torments are not identical with but are cast in the same mould as those in the
+    Apocalypse of Paul, attributed to 380 A.D.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 1813-1822
+  quote_or_summary: The passage describes a doctrine that sins committed by the soul
+    determine bodily infirmities in its next incarnation and compares its formal appearance
+    to the Acta Archelai, written against the teaching of Manes; this is said to have
+    led Lipsius to perceive Manichaean features.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:7
+  type: summary
+  locator: lines 1826-1835
+  quote_or_summary: The passage concludes that all the documents in the text belong
+    to the school of Valentinus, assigning the First and most of the Second to Valentinus
+    or early material and the later portions to successors, with later possible dates.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a secondary introductory discussion rather than a continuous
+    mythic narrative. Literal extraction is clear, but motif classification is cautious
+    because several features are summarized for dating and source criticism.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external taxonomy IDs beyond the provided motif family list were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l1750-l1877
+  passage_sha256=d49ca53ca791676f2033e64d95136b267dbbbac2c88d988561f51f3b449f37a8
+

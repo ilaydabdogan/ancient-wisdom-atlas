@@ -1,0 +1,720 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l8074-l8141
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: BALDRS DRAUMAR / BALDRS DREAMS / INTRODUCTORY NOTE / NOTES; lines 8074-8141
+  start: '8074'
+  end: '8141'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes to Baldrs Draumar identify Baldr’s parentage, death, and
+    later return; explain figures and places including Sleipnir, Niflhel, Hel, Garm,
+    Othin in disguise, Hoth, Rind, Vali, and Loki; and record manuscript uncertainties
+    and parallels with other Eddic passages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies Baldr as the son of Othin and Frigg, says he comes again
+    among the survivors after the final battle, and says he is mostly mentioned in
+    connection with his death.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sleipnir is described as Othin’s eight-legged horse and as the son of Loki
+    and the stallion Svathilfari.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Niflhel is glossed as the murky dwelling of Hel, goddess of the dead, and
+    the hound is identified as Garm.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Othin is called the god of magic; Hel is described as an offspring of Loki
+    and the giantess Angrbotha, along with Fenrir and Mithgarthsorm, and as ruler
+    of the world of the unhappy dead.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Othin conceals his identity as Vegtam, the son of Valtam, because the wise-woman
+    apparently belongs to the race of giants and might be unwilling to answer a god’s
+    questions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says the word translated as Heaven includes all upper worlds in contrast
+    to hell, and that adorned benches and raised platforms were part of preparations
+    for a welcome feast.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hoth is described as blind and as having cast the fatal mistletoe at Baldr
+    at Loki’s instigation.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Vali, son of Rind, is described as begotten by Othin for the express purpose
+    of avenging Baldr’s death, and as slaying Hoth the day after his birth.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The note reports Bugge’s interpretation that the maidens who weep for Baldr
+    are the daughters of the sea-god Aegir, understood as waves whose grief tosses
+    ships toward the sky.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The note says the wise-woman probably means she will never speak again until
+    the end of the world, while also reporting a suggestion that she may intend to
+    counsel Loki and thereby revenge herself on Othin.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The notes state that one set of lines is identical with Thrymskvitha 13 and
+    that another stanza’s lines appear practically verbatim in Voluspo 33-34.
+  category: other
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Baldr
+  description: A god described as the son of Othin and Frigg, best and noblest of
+    the gods, associated chiefly with his death and with return among survivors after
+    the final battle.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Othin / Vegtam
+  description: God of magic; father of Baldr and Vali; owner of Sleipnir; conceals
+    his identity as Vegtam when questioning a wise-woman.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Frigg
+  description: Named as Baldr’s mother.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sleipnir
+  description: Othin’s eight-legged horse, son of Loki and the stallion Svathilfari.
+  role_refs:
+  - role:1
+  - role:13
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Loki
+  description: Named as father of Sleipnir and Hel; instigator of Hoth’s casting of
+    the fatal mistletoe; associated in the note with escape and the destruction of
+    the gods.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:6
+  name_or_label: Svathilfari
+  description: A stallion named as Sleipnir’s father.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Hel
+  description: Goddess of the dead, offspring of Loki and Angrbotha, ruler of the
+    world of the unhappy dead.
+  role_refs:
+  - role:5
+  - role:12
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: Garm
+  description: The hound identified in the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Angrbotha
+  description: A giantess named as mother of Hel, Fenrir, and Mithgarthsorm with Loki.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Fenrir
+  description: A wolf named as offspring of Loki and Angrbotha.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:3
+- id: fig:11
+  name_or_label: Mithgarthsorm
+  description: Named as an offspring of Loki and Angrbotha.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:3
+- id: fig:12
+  name_or_label: Wise-woman
+  description: A questioning target who apparently belongs to the race of the giants
+    and may be unwilling to answer a god’s questions; later described as probably
+    refusing to speak until the end of the world.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: fig:13
+  name_or_label: Hoth
+  description: Blind figure who casts the fatal mistletoe at Baldr at Loki’s instigation
+    and is later slain by Vali.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:14
+  name_or_label: Rind
+  description: Mentioned as one of the goddesses and as mother of Vali.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:15
+  name_or_label: Vali
+  description: Son of Rind, begotten by Othin to avenge Baldr’s death, and slayer
+    of Hoth the day after his birth.
+  role_refs:
+  - role:1
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:16
+  name_or_label: Aegir
+  description: Sea-god whose daughters are identified by Bugge with the maidens or
+    waves who weep for Baldr.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+- id: fig:17
+  name_or_label: Daughters of Aegir / maidens / waves
+  description: Figures interpreted by Bugge as daughters of the sea-god Aegir, the
+    waves, whose grief for Baldr tosses ships up toward the sky.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named child or offspring
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:15
+  basis: The notes give parentage for Baldr, Sleipnir, and Vali.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: named parent or progenitor
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:9
+  - fig:14
+  basis: The notes name these figures as parents or progenitors of Baldr, Sleipnir,
+    Hel and her siblings, or Vali.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: returning post-battle god
+  assigned_to:
+  - fig:1
+  basis: Baldr is said to come again among the survivors after the final battle.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: god of magic and disguised questioner
+  assigned_to:
+  - fig:2
+  basis: Othin is called the god of magic and is said to conceal his identity as Vegtam
+    when questioning the wise-woman.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: goddess and ruler of the unhappy dead
+  assigned_to:
+  - fig:7
+  basis: Hel is called goddess of the dead and ruler of the world of the unhappy dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: hound
+  assigned_to:
+  - fig:8
+  basis: The note identifies the hound as Garm.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: instigator and end-destruction figure
+  assigned_to:
+  - fig:5
+  basis: Loki instigates Hoth’s fatal action against Baldr and is associated with
+    escape and the destruction of the gods.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:8
+  label: giant-associated wise-woman and reluctant speaker
+  assigned_to:
+  - fig:12
+  basis: The wise-woman apparently belongs to the race of giants, may not answer a
+    god, and is described as probably not speaking again until the end of the world.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:9
+  label: blind fatal caster
+  assigned_to:
+  - fig:13
+  basis: Hoth is blind and casts the fatal mistletoe at Baldr at Loki’s instigation.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: purpose-begotten avenger
+  assigned_to:
+  - fig:15
+  basis: Vali is begotten by Othin specifically to avenge Baldr’s death and slays
+    Hoth the day after birth.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: sea-god and water mourners
+  assigned_to:
+  - fig:16
+  - fig:17
+  basis: Bugge interprets the weeping maidens as daughters of the sea-god Aegir, the
+    waves.
+  evidence_refs:
+  - ev:7
+- id: role:12
+  label: offspring of Loki and Angrbotha
+  assigned_to:
+  - fig:7
+  - fig:10
+  - fig:11
+  basis: The note lists Hel, Fenrir, and Mithgarthsorm as offspring of Loki and Angrbotha.
+  evidence_refs:
+  - ev:3
+- id: role:13
+  label: Othin’s horse
+  assigned_to:
+  - fig:4
+  basis: Sleipnir is identified as Othin’s eight-legged horse.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Niflhel
+  literal_form: Murky dwelling of Hel, goddess of the dead.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Garm the hound
+  literal_form: A hound identified as Garm.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Fatal mistletoe
+  literal_form: Mistletoe cast at Baldr by Hoth at Loki’s instigation.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Heaven and hell contrast
+  literal_form: Heaven as all upper worlds in contrast to hell.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Adorned benches and raised platforms
+  literal_form: Benches and elevated parts of the house adorned for a welcome feast.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Sea waves as mourning maidens
+  literal_form: Daughters of Aegir interpreted as waves whose grief tosses ships toward
+    the sky.
+  associated_figures:
+  - fig:1
+  - fig:16
+  - fig:17
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Sleipnir as eight-legged horse
+  literal_form: Othin’s eight-legged horse.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: Vestrsalir / Western Hall
+  literal_form: A place name glossed as The Western Hall and said not to be mentioned
+    elsewhere in the poems.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Baldr’s death and return context
+  summary: The notes frame Baldr through his parentage, his death, the fatal mistletoe
+    episode involving Hoth and Loki, and his later return among survivors after the
+    final battle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:13
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Hel’s realm and cosmic geography
+  summary: The notes describe Niflhel as Hel’s murky dwelling, identify Garm as the
+    hound, describe Hel’s rule over unhappy dead, and contrast heaven as upper worlds
+    with hell.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Othin questions a wise-woman in disguise
+  summary: Othin, called a god of magic, conceals himself as Vegtam because the giant-associated
+    wise-woman may not answer a god’s questions.
+  figure_refs:
+  - fig:2
+  - fig:12
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Vali’s avenging birth
+  summary: Vali, son of Rind, is begotten by Othin for the purpose of avenging Baldr’s
+    death and slays Hoth the day after his birth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:13
+  - fig:14
+  - fig:15
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Sea-maidens or waves mourn Baldr
+  summary: According to the note’s report of Bugge, the maidens who weep for Baldr
+    are Aegir’s daughters, the waves, whose grief tosses ships toward the sky.
+  figure_refs:
+  - fig:1
+  - fig:16
+  - fig:17
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Wise-woman’s silence and possible counsel to Loki
+  summary: The note says the wise-woman probably means she will not speak again until
+    the end of the world, with an alternative suggestion that she may intend to counsel
+    Loki against Othin.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Dead god returns after final battle
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  basis: Baldr is described in relation to his death and as coming again among survivors
+    after the final battle.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial note and gives no detailed narrative of the
+    return.
+- id: motif:2
+  label: Divine parent-child chains and purposeful avenger birth
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The notes repeatedly specify parentage and include Vali’s begetting by Othin
+    expressly to avenge Baldr.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: Some figures named as parents are non-divine beings, so the taxonomy reference
+    is strongest for Othin, Frigg, Rind, Baldr, and Vali.
+- id: motif:3
+  label: Mapped afterlife realm under a ruler of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Niflhel is defined as Hel’s murky dwelling, Hel rules the world of the unhappy
+    dead, and the note contrasts upper worlds with hell.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The notes describe afterlife geography but do not narrate a complete journey
+    in this extracted passage.
+- id: motif:4
+  label: Disguised god seeks answers from a giant-associated wise-woman
+  taxonomy_refs:
+  - wisdom
+  basis: Othin, a god of magic, hides his identity as Vegtam because the wise-woman
+    might refuse a god’s questions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The note states that speaker superscriptions are absent and that some
+    text is uncertain.
+- id: motif:5
+  label: Fatal plant weapon used through instigation
+  taxonomy_refs: []
+  basis: Blind Hoth casts fatal mistletoe at Baldr after Loki’s instigation.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the episode only in summary and through cross-reference
+    to another poem.
+- id: motif:6
+  label: Cosmic mourning by sea-maidens or waves
+  taxonomy_refs: []
+  basis: The note reports an interpretation in which Aegir’s daughters, the waves,
+    grieve for Baldr so violently that ships are tossed toward the sky.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is explicitly reported as Bugge’s interpretation of obscure lines,
+    and the note states that something may be lost.
+- id: motif:7
+  label: End-world silence and possible counsel to a destroyer
+  taxonomy_refs:
+  - chaos
+  basis: The note links Loki to the destruction of the gods and says the wise-woman
+    may refuse to speak until the end of the world or may counsel Loki in revenge
+    against Othin.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The note says the counsel-to-Loki reading is only suggested and possible,
+    not certain.
+comparison_claims:
+- id: claim:1
+  claim: The note reports a direct verbal identity between lines in this passage tradition
+    and Thrymskvitha 13.
+  claim_level: linguistic_similarity
+  target: Thrymskvitha 13
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based on the editorial note only; the compared text is
+    not included in the supplied passage.
+- id: claim:2
+  claim: The note reports that the lines about Vali and the avenging of Baldr appear
+    practically verbatim in Voluspo 33-34.
+  claim_level: linguistic_similarity
+  target: Voluspo 33-34
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based on the editorial note only; the compared Voluspo
+    text is not included in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: supplied lines 8074-8141, note 1
+  quote_or_summary: Baldr is identified as son of Othin and Frigg, best and noblest
+    of the gods, one who comes again among survivors after the final battle, and one
+    mostly mentioned in connection with his death.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: supplied lines 8074-8141, note 2
+  quote_or_summary: Sleipnir is Othin’s eight-legged horse, son of Loki and Svathilfari;
+    Niflhel is the murky dwelling of Hel, goddess of the dead; the hound is Garm.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: supplied lines 8074-8141, note 3
+  quote_or_summary: Othin is called the god of magic; Hel is offspring of Loki and
+    Angrbotha, like Fenrir and Mithgarthsorm, and rules the world of the unhappy dead.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: supplied lines 8074-8141, note 6
+  quote_or_summary: Othin conceals his identity as Vegtam, son of Valtam, because
+    the giant-associated wise-woman may not answer a god; Heaven includes all upper
+    worlds in contrast to hell; adorned benches and platforms mark welcome-feast preparation.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: supplied lines 8074-8141, note 9
+  quote_or_summary: Blind Hoth, at Loki’s instigation, casts the fatal mistletoe at
+    Baldr.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: supplied lines 8074-8141, note 11
+  quote_or_summary: Rind is mentioned as a goddess; Vali, her son, is begotten by
+    Othin to avenge Baldr and slays Hoth the day after birth; Vestrsalir is glossed
+    as The Western Hall.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: supplied lines 8074-8141, note 12
+  quote_or_summary: The note says lines are obscure and reports Bugge’s view that
+    maidens who weep for Baldr are Aegir’s daughters, the waves, whose tempestuous
+    grief tosses ships toward the sky.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: supplied lines 8074-8141, note 13
+  quote_or_summary: The note says the passage may contain two separate stanzas and
+    that the meaning of the word rendered Enchanter is very uncertain.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: supplied lines 8074-8141, note 14
+  quote_or_summary: The note links Loki’s escape with the destruction of the gods
+    and says the wise-woman probably means she will never speak again until the end
+    of the world, though she may possibly intend to counsel Loki in revenge against
+    Othin.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: supplied lines 8074-8141, note 1
+  quote_or_summary: The note says lines 1-3 are identical with Thrymskvitha 13.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: supplied lines 8074-8141, note 11
+  quote_or_summary: The note says the lines of the stanza concerning Vali and Hoth
+    appear practically verbatim in Voluspo 33-34.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage consists of editorial notes rather than the primary stanza text.
+    Several notes explicitly mention manuscript uncertainty, obscure lines, and alternative
+    interpretations; motif candidates using those areas are marked lower confidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Cross-text claims are limited to explicit editorial statements of identity or near-verbatim wording.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l8074-l8141
+  passage_sha256=99bcc03ac8fab4873b41c28be48d52541e1ada777bbce76a8409870b2a210817
+

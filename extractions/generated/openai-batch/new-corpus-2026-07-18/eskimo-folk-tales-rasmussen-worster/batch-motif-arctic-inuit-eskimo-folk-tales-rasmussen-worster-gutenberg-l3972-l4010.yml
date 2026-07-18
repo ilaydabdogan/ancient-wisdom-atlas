@@ -1,0 +1,491 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l3972-l4010
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: THE SOUL THAT LIVED IN THE BODIES OF ALL BEASTS / PAPIK, WHO KILLED HIS WIFE'S
+    BROTHER / PATUSSORSSUAQ, WHO KILLED HIS UNCLE / THE MEN WHO CHANGED WIVES; lines
+    3972-4010
+  start: '3972'
+  end: '4010'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two men, Talilarssuaq and Navssarssuaq, exchange wives. Talilarssuaq frightens
+    Navssarssuaq's wife by thrusting a knife through bench skins. She tells Navssarssuaq
+    to kill him. Navssarssuaq stabs Talilarssuaq, disposes of the body on a rubbish
+    heap, and spares his own wife because their youngest son Pualuna still needs her.
+    Later Navssarssuaq is haunted by an avenging spirit, but a sickness kills him
+    before the spirit can tear him apart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Talilarssuaq and Navssarssuaq are described as two men who changed wives.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Talilarssuaq is described as mischievous and given to frightening people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Talilarssuaq thrusts a knife through the skins of the bench while sitting
+    with the other man's wife.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman runs to her husband and tells him to kill Talilarssuaq because he
+    is playing dangerous tricks.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Navssarssuaq dresses, takes his knife, approaches Talilarssuaq, pulls him
+    to the floor, and stabs him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Talilarssuaq asks why Navssarssuaq did not wait until he had dressed.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Navssarssuaq hauls Talilarssuaq through the passage way, casts him on the
+    rubbish heap, and leaves silently.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Navssarssuaq's wife asks whether he is going to murder her too.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Navssarssuaq says he will not kill his wife because Pualuna, their youngest
+    son, is not yet old enough to be without her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After the killing, Navssarssuaq perceives that he is haunted by a spirit.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Navssarssuaq tells his comrades that an invisible thing sometimes catches
+    hold of him.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The passage identifies the invisible thing as the avenging spirit watching
+    Navssarssuaq.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Many people in the place fall sick, including Navssarssuaq.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: The sickness kills Navssarssuaq, so the avenging spirit is not able to tear
+    him in pieces.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Talilarssuaq
+  description: One of the two men who changed wives; described as mischievous and
+    as frightening people; later stabbed by Navssarssuaq.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Navssarssuaq
+  description: One of the two men who changed wives; kills Talilarssuaq, spares his
+    wife, is haunted by an avenging spirit, and dies of sickness.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Navssarssuaq's wife
+  description: The wife borrowed by Talilarssuaq; she runs to her husband after Talilarssuaq's
+    dangerous trick and asks whether she will also be murdered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Pualuna
+  description: The youngest son of Navssarssuaq and his wife; named as the reason
+    Navssarssuaq does not kill his wife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: avenging spirit
+  description: A spirit that haunts and watches Navssarssuaq after the killing; described
+    by him as an invisible thing that catches hold of him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: comrades
+  description: People to whom Navssarssuaq reports the invisible thing catching hold
+    of him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: mischievous frightener
+  assigned_to:
+  - fig:1
+  basis: Talilarssuaq is explicitly described as mischievous and given to frightening
+    people.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: killer
+  assigned_to:
+  - fig:2
+  basis: Navssarssuaq takes a knife and stabs Talilarssuaq.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: warning wife
+  assigned_to:
+  - fig:3
+  basis: After Talilarssuaq's trick, she runs to her husband and tells him to kill
+    Talilarssuaq.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: dependent youngest son
+  assigned_to:
+  - fig:4
+  basis: Pualuna is called the youngest son and is said not to be old enough to be
+    without his mother.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: victim of stabbing
+  assigned_to:
+  - fig:1
+  basis: Talilarssuaq is pulled to the floor and stabbed by Navssarssuaq.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: haunted man
+  assigned_to:
+  - fig:2
+  basis: Navssarssuaq perceives that he is haunted and says an invisible thing catches
+    hold of him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: avenger
+  assigned_to:
+  - fig:5
+  basis: The spirit is identified as an avenging spirit watching Navssarssuaq and
+    is said to have been unable to tear him in pieces after sickness killed him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: listeners
+  assigned_to:
+  - fig:6
+  basis: Navssarssuaq speaks to his comrades about the invisible thing.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: knife
+  literal_form: knife
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: bench skins
+  literal_form: skins of the bench
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rubbish heap
+  literal_form: rubbish heap
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: invisible avenging spirit
+  literal_form: invisible thing / avenging spirit
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: sickness
+  literal_form: sickness
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Exchange of wives and characterization of Talilarssuaq
+  summary: Talilarssuaq and Navssarssuaq are introduced as men who changed wives;
+    Talilarssuaq is described as mischievous and frightening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dangerous knife trick
+  summary: Talilarssuaq, sitting with Navssarssuaq's wife, thrusts a knife through
+    bench skins; the woman goes to her husband and tells him to kill Talilarssuaq.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Killing and disposal of Talilarssuaq
+  summary: Navssarssuaq takes his knife, stabs Talilarssuaq, hauls him through the
+    passage way, casts him on the rubbish heap, and leaves silently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Navssarssuaq spares his wife
+  summary: Navssarssuaq's wife asks if he will murder her too; he says no because
+    their youngest son Pualuna is not old enough to be without her.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Haunting by the avenging spirit
+  summary: After the deed, Navssarssuaq perceives that he is haunted and tells his
+    comrades that an invisible thing catches hold of him; the passage identifies it
+    as the avenging spirit watching him.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Death by sickness before spirit dismemberment
+  summary: Many people fall sick, including Navssarssuaq; the sickness kills him,
+    preventing the avenging spirit from tearing him apart.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: wife exchange between two men
+  taxonomy_refs: []
+  basis: The passage begins by stating that Talilarssuaq and Navssarssuaq changed
+    wives, and later refers to Navssarssuaq's wife as the woman borrowed by Talilarssuaq.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage presents the exchange briefly and does not characterize it
+    as sacred or ritual.
+- id: motif:2
+  label: dangerous trick provokes retaliatory killing
+  taxonomy_refs: []
+  basis: Talilarssuaq frightens the borrowed wife with a knife trick; she calls it
+    dangerous and tells her husband to kill him; Navssarssuaq then stabs him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state a legal or ritual framework for the retaliation.
+- id: motif:3
+  label: mother spared because of dependent child
+  taxonomy_refs: []
+  basis: Navssarssuaq's wife asks whether he will murder her too, and he refuses because
+    their youngest son Pualuna is not old enough to be without her.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The motive is stated only in Navssarssuaq's speech.
+- id: motif:4
+  label: avenging spirit haunts a killer
+  taxonomy_refs: []
+  basis: After the killing, Navssarssuaq perceives that he is haunted; the passage
+    identifies the invisible thing that catches him as the avenging spirit watching
+    him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not identify whose spirit it is beyond calling it avenging.
+- id: motif:5
+  label: death by sickness prevents spirit vengeance
+  taxonomy_refs: []
+  basis: Sickness kills Navssarssuaq, and the passage states that the avenging spirit
+    was therefore unable to tear him in pieces.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The relation between the sickness and the avenging spirit is not explained
+    beyond the spirit's frustrated action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3972-3976
+  quote_or_summary: "“There were once two men, Talilarssuaq and Navssarssuaq, and
+    they changed wives.” Talilarssuaq is called mischievous and frightening."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 3978-3980
+  quote_or_summary: Talilarssuaq sits with the other man's borrowed wife and thrusts
+    his knife through the skins of the bench; the woman runs to her husband.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: '3982'
+  quote_or_summary: "“Go in and kill Talilarssuaq; he is playing very dangerous tricks.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 3984-3987
+  quote_or_summary: Navssarssuaq silently dresses, takes his knife, goes to Talilarssuaq,
+    pulls him onto the floor, and stabs him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3989-3991
+  quote_or_summary: Talilarssuaq says Navssarssuaq might have waited until he dressed;
+    Navssarssuaq hauls him through the passage way and casts him on the rubbish heap.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3993-3998
+  quote_or_summary: Navssarssuaq meets his wife; she asks if he will murder her too,
+    and he says no because Pualuna, their youngest son, still needs her.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4000-4001
+  quote_or_summary: Some time after the deed, Navssarssuaq begins to perceive that
+    he is haunted by a spirit.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4003-4005
+  quote_or_summary: Navssarssuaq tells his comrades that an invisible thing sometimes
+    catches hold of him; the passage calls it the avenging spirit watching him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4007-4009
+  quote_or_summary: Many in the place fall sick, including Navssarssuaq; sickness
+    kills him, so the avenging spirit cannot tear him in pieces.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage actions and figures are explicit. Motif labels are descriptive and
+    not mapped to taxonomy because no supplied taxonomy family is directly supported.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l3972-l4010
+  passage_sha256=a87d7db3c7626c83f8086fc78a77ad813ccdb0893d2e8304dd1e6255e4fae856
+

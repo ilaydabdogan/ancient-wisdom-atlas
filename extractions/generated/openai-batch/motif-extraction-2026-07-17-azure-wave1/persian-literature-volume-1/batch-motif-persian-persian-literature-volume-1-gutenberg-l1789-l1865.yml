@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l1789-l1865
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: JEMSHD / MIRTS-TZ, AND HIS SON ZOHK / KAVAH, THE BLACKSMITH / FERIDN; lines
+    1789-1865
+  start: '1789'
+  end: '1865'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Kandr reports to Zohak that Feridun and other warriors have overthrown
+    his power, released Shahrnaz and Arnawaz, destroyed the talisman, and dissolved
+    his magic. Zohak loses the support of army and people, attempts a night attack
+    on Feridun, is struck by Feridun's cow-headed mace, and is spared immediate death
+    by a supernatural command that he be chained in a dark cave on a mountain. The
+    passage closes by praising Feridun's justice and generosity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kandr, keeper of the talisman, escapes and informs Zohak of the release of
+    his women, the destruction of the talisman, and the conquest of his empire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kandr reports that three warriors advanced on Zohak's kingdom, one of them
+    young and apparently of the Kainian race.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kandr says the young warrior seized the splendid throne and that Zohak's spells,
+    sorceries, and magic were dissolved by a higher power.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Zohak is terrified by the report but dresses richly and tries to appear cheerful
+    before his army.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kandr says the attacker used a cow-headed mace, entered secret chambers, and
+    brought Shahrnaz and Arnawaz to light.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The soldiers and people rebel after learning of Feridun's success and of Zohak's
+    cruelty in feeding the accursed serpents.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Zohak goes alone by night to Feridun's camp, hoping to find him unguarded
+    and kill him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Zohak ascends a high place and sees Feridun with Shahrnaz; jealousy and revenge
+    intensify his intention.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Feridun is alerted by noise and strikes Zohak on the temples with the cow-headed
+    mace, crushing bone.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A supernatural voice tells Feridun not to kill Zohak immediately and instructs
+    him to bind Zohak with heavy chains in a deep, dark cave on a mountain.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The passage states that Feridun performs the work of heaven, purifies the
+    world from sin and crime, and gains fame through justice and generosity.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Kandr
+  description: Keeper of the talisman who escapes to Zohak and reports the overthrow
+    of his power.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Zohak / Zohk
+  description: Tyrant whose kingdom, palace, magic, and army support are lost; he
+    attempts to kill Feridun and is wounded.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Feridun / Feridn
+  description: Young warrior and new king who seizes the throne, releases the women,
+    wields the cow-headed mace, wounds Zohak, and is praised for justice and generosity.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: Shahrnaz / Shahrnz
+  description: Beautiful woman brought out from Zohak's secret chambers and later
+    seen with Feridun.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Arnawaz / Arnawz
+  description: Red-lipped woman brought out from Zohak's secret chambers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Soldiers and people
+  description: Collective body that turns from Zohak and embraces the cause of the
+    new king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Supernatural voice
+  description: Voice that whispers in Feridun's ear and commands that Zohak not be
+    slain immediately but be chained in a mountain cave.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: keeper and messenger
+  assigned_to:
+  - fig:1
+  basis: Kandr is called the keeper of the talisman and gives intelligence to Zohak
+    after escaping.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deposed tyrant and wounded enemy
+  assigned_to:
+  - fig:2
+  basis: Zohak loses his empire and army support, attempts revenge, and is struck
+    by Feridun.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: new king and warrior
+  assigned_to:
+  - fig:3
+  basis: Feridun's success leads the people to embrace the cause of the new king;
+    he wields the cow-headed mace against Zohak.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:4
+  label: released women from secret chambers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Kandr says Shahrnaz and Arnawaz were brought to light from Zohak's secret
+    chambers.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: revolting political community
+  assigned_to:
+  - fig:6
+  basis: The soldiers and people rebel against Zohak and prefer Feridun's cause.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: supernatural directive voice
+  assigned_to:
+  - fig:7
+  basis: The voice forbids immediate killing and orders Zohak's chained confinement.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: agent of heavenly purification
+  assigned_to:
+  - fig:3
+  basis: The passage says Feridun performs the work of heaven and purifies the world
+    from sin and crime.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: talisman
+  literal_form: Destroyed talisman formerly kept by Kandr
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: throne
+  literal_form: Splendid throne seized by the young warrior
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cow-headed mace
+  literal_form: Mace with a cow-headed form used to batter the palace and strike Zohak
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: accursed serpents
+  literal_form: Serpents for whom Zohak cruelly provides food
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: mountain
+  literal_form: Mountain on which Zohak is to be confined
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: cave
+  literal_form: Deep, dark, horrible cave where Zohak is to linger
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: heavy chains
+  literal_form: Heavy chains commanded for binding Zohak
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Kandr reports the overthrow
+  summary: Kandr escapes to Zohak and reports the release of the women, the destroyed
+    talisman, the captured throne, and the dissolution of Zohak's magic.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Revolt against Zohak
+  summary: Zohak turns toward his army to regain the throne, but soldiers and people
+    rebel after learning of Feridun's success and Zohak's cruelty connected with the
+    serpents.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Night attack and mace blow
+  summary: Zohak travels alone by night to Feridun's camp to kill him, sees him with
+    Shahrnaz, and is then struck on the temples by Feridun's cow-headed mace.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Supernatural command of confinement
+  summary: A supernatural voice stops Feridun from killing Zohak immediately and orders
+    that Zohak be bound in chains and taken to a dark cave on a mountain.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Closing praise of Feridun
+  summary: The passage concludes that Feridun purified the world from sin and crime
+    and became renowned through justice and generosity.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: overthrow of a tyrant and recognition of a new king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Feridun's success leads to seizure of the throne and the army and people
+    embracing the cause of the new king.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes accession and public support, but it does not give
+    a formal coronation scene in this excerpt.
+- id: motif:2
+  label: serpentine cruelty attached to a ruler
+  taxonomy_refs:
+  - serpent
+  basis: Zohak's cruelty in providing food for the accursed serpents causes horror
+    among soldiers and people.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This excerpt mentions the serpents and their feeding but does not narrate
+    their origin or full physical relationship to Zohak.
+- id: motif:3
+  label: supernatural judgment delays death and imposes confinement
+  taxonomy_refs:
+  - divine_judgment
+  basis: A supernatural voice says Zohak's time has not yet come, orders that punishment
+    be prolonged, and commands chained confinement in a mountain cave.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The speaking source is called only a supernatural voice; the passage does
+    not identify a named deity or angel.
+- id: motif:4
+  label: enemy bound in mountain cave
+  taxonomy_refs: []
+  basis: Zohak is to be bound with heavy chains and conveyed to a deep, dark cave
+    on a mountain to linger and die.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: No available motif-family taxonomy entry precisely names cave imprisonment;
+    related place symbols are recorded separately.
+- id: motif:5
+  label: just hero purifies the world
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage states that Feridun performs the work of heaven, purifies the
+    world from sin and crime, and gains fame through justice and generosity.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The wording supports a culture-hero-like function, but this excerpt frames
+    it as moral praise rather than a detailed institution-founding act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1789-1865, opening prose
+  quote_or_summary: Kandr, keeper of the talisman, escapes to Zohak and reports the
+    release of Zohak's women, the destruction of the talisman, and the conquest of
+    the empire.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 1789-1865, Kandr's report
+  quote_or_summary: '"Three warriors have advanced / Upon thy kingdom from a distant
+    land, / One of them young... / He seems to me of the Kainian race."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 1789-1865, Kandr's report on the palace
+  quote_or_summary: Kandr says the young warrior seized the splendid throne and that
+    Zohak's spells, sorceries, and magic were dissolved by a higher power.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 1789-1865, Zohak's response
+  quote_or_summary: Zohak is terrified by the report, but he dresses richly and tries
+    to appear cheerful before the army so they will not despair.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: lines 1789-1865, Kandr's taunt
+  quote_or_summary: '"with his mace, / Cow-headed" and he entered the secret chambers,
+    bringing out "the beautiful Shahrnz, / And red-lipped Arnawz."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 1789-1865, prose after Kandr's speech
+  quote_or_summary: The army and people rebel when they hear of Feridun's success
+    and are horrified by Zohak's cruelty in providing food for the accursed serpents;
+    they embrace the new king's cause.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 1789-1865, Zohak's night approach
+  quote_or_summary: Zohak goes by night to Feridun's camp intending to kill him, ascends
+    a high place, sees Feridun with Shahrnaz, and is consumed by jealousy and revenge.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: quote
+  locator: lines 1789-1865, Feridun strikes Zohak
+  quote_or_summary: Feridun "struck a furious blow with his cow-headed mace upon the
+    temples of Zohk, which crushed the bone."
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 1789-1865, supernatural voice
+  quote_or_summary: '"Slay him not now--his time is not yet come... / Bind him with
+    heavy chains... / Upon the mountain, there within a cave, / Deep, dark, and horrible."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: lines 1789-1865, closing moral statement
+  quote_or_summary: '"The work of heaven performing, Feridn / First purified the world
+    from sin and crime" and gained fame "By justice / And generosity."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    and tied to available taxonomy where directly supported. No external comparison
+    claims were asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names are retained in the passage's transliterated forms where relevant, with common normalized forms supplied only as paired labels.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l1789-l1865
+  passage_sha256=8ab6e85e8f27a7277ce05423f2c8cc44d147b628f69b59c97a51cbd41335f1cd
+

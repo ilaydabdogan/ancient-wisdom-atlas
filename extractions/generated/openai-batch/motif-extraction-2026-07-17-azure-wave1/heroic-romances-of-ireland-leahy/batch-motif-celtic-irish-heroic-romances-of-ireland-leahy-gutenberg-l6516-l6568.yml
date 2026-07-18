@@ -1,0 +1,447 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6516-l6568
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: GENERAL NOTES / THE COURTSHIP OF ETAIN / PAGE 8 / PAGE 9; lines 6516-6568
+  start: '6516'
+  end: '6568'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of translator’s notes and a literal rendering of a
+    poem about Etain. The poem places Etain at an elf-mound west of Alba and on the
+    shore of the Bay of Cichmaine, says she cured a king’s eye from a well, says she
+    was drunk in a heavy draught by the wife of Etar, predicts wars and losses connected
+    with her, and identifies her as a standard of fair women. Notes mark several renderings
+    as uncertain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Etain is placed at the elf-mound of the Fair-Haired Women west of Alba, among
+    little children, on the shore of the Bay of Cichmaine.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:2
+  text: Etain is said to have cured the eye of the king from the Well of Loch da lig.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Etain is said to have been drunk in a heavy draught by the wife of Etar.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Because of war for Etain, the king is predicted to chase birds from Tethba.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The king is predicted to drown his two horses in the lake da Airbrech.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:6
+  text: Many wars, destruction on elf-mounds, and war on many thousands are predicted
+    in connection with war for Etain and Echaid of Meath.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Etain is said to have been hurt in the land, though the translation is marked
+    uncertain.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: Etain is said to have striven to win the king and to be the person against
+    whom men speak of fair women.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The notes state uncertainty about several terms, including the rendering of
+    the shore/place phrase, the line about Etain being hurt, and the meaning of da
+    Airbrech.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Etain
+  description: Named woman located at an elf-mound and shore; said to cure a king’s
+    eye, to be drunk in a draught, to be connected with wars, and to be a standard
+    of fair women.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Fair-Haired Women
+  description: Group named in the phrase 'elf-mound of the Fair-Haired Women' west
+    of Alba.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: little children
+  description: Children mentioned as being with or near Etain in the opening location
+    of the poem.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the king
+  description: Unnamed king whose eye Etain cured; also said to chase birds and drown
+    two horses through war for her.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: wife of Etar
+  description: Woman who drank Etain in a heavy draught.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Echaid of Meath
+  description: Named figure associated with the line about war for Etain and Meath.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: central named woman connected with conflict and beauty
+  assigned_to:
+  - fig:1
+  basis: Etain is repeatedly identified as the subject of the poem, is connected with
+    war for her, and is described as the standard for speaking of fair women.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: healer of the king’s eye
+  assigned_to:
+  - fig:1
+  basis: The poem says Etain cured the king’s eye from the Well of Loch da lig.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: place-named female group
+  assigned_to:
+  - fig:2
+  basis: The group appears in the place-name phrase 'elf-mound of the Fair-Haired
+    Women.'
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: children near Etain
+  assigned_to:
+  - fig:3
+  basis: The poem places Etain among little children.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: king affected by healing and war actions
+  assigned_to:
+  - fig:4
+  basis: The king’s eye is cured by Etain, and the king is predicted to chase birds
+    and drown two horses through war for her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: drinker of the draught containing Etain
+  assigned_to:
+  - fig:5
+  basis: The poem says Etain was drunk in a heavy draught by the wife of Etar.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: named Meath figure associated with war
+  assigned_to:
+  - fig:6
+  basis: The poem mentions war for Etain in connection with Echaid of Meath.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: elf-mound
+  literal_form: elf-mound of the Fair-Haired Women
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: shore or bay
+  literal_form: shore of the Bay of Cichmaine
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: healing well
+  literal_form: Well of Loch da lig
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: heavy draught
+  literal_form: draught drunk by the wife of Etar
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: birds from Tethba
+  literal_form: birds from Tethba chased by the king
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: two horses
+  literal_form: the king’s two horses drowned in the lake
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: lake da Airbrech
+  literal_form: lake da Airbrech
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:8
+  label: king’s eye
+  literal_form: eye of the king cured by Etain
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Etain at the elf-mound and shore
+  summary: Etain is located at the elf-mound of the Fair-Haired Women west of Alba,
+    among little children, on the shore of the Bay of Cichmaine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Cure and draught
+  summary: Etain cures the king’s eye from the Well of Loch da lig and is drunk in
+    a heavy draught by the wife of Etar.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: War actions involving birds and horses
+  summary: Through war for Etain, the king is predicted to chase birds from Tethba
+    and drown his two horses in lake da Airbrech.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:4
+  label: Many wars and destruction of elf-mounds
+  summary: The poem predicts abundant wars through war for Etain and Echaid of Meath,
+    with destruction on elf-mounds and war upon many thousands.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Etain’s later identification and beauty comparison
+  summary: Etain is described in uncertain wording as hurt in the land, as striving
+    to win the king, and as the standard by whom men speak of fair women.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: war over or for a woman
+  taxonomy_refs: []
+  basis: The poem explicitly links war to Etain, predicts many wars, and connects
+    those wars with destruction and many thousands.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify abduction, marriage, or the exact cause of
+    the war beyond 'for her' or 'for thee.'
+- id: motif:2
+  label: healing from a well
+  taxonomy_refs: []
+  basis: Etain cures the king’s eye from the Well of Loch da lig.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the procedure or nature of the well beyond
+    its use in the cure.
+- id: motif:3
+  label: person drunk in a draught
+  taxonomy_refs: []
+  basis: The poem states that Etain was drunk in a heavy draught by the wife of Etar.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain how Etain could be present in the draught
+    or what follows from this act.
+- id: motif:4
+  label: conflict reaching elf-mounds
+  taxonomy_refs: []
+  basis: The poem predicts destruction on elf-mounds as part of the wars connected
+    with Etain.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no further description of the elf-mounds or the destruction.
+- id: motif:5
+  label: woman as standard of beauty
+  taxonomy_refs: []
+  basis: The poem says Etain is the one compared to whom men speak of fair women.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The wording includes a duplicated 'men' in the supplied text, but the
+    comparative sense is clear in the literal rendering.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6532-6535
+  quote_or_summary: Etain is located at the elf-mound of the Fair-Haired Women west
+    of Alba, among little children, on the shore of the Bay of Cichmaine.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6537-6540
+  quote_or_summary: Etain cured the king’s eye from the Well of Loch da lig and was
+    drunk in a heavy draught by the wife of Etar.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6542-6545
+  quote_or_summary: Through war for Etain, the king will chase birds from Tethba and
+    drown his two horses in lake da Airbrech.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6547-6550
+  quote_or_summary: The poem predicts many wars through war for Etain on Echaid of
+    Meath, destruction on elf-mounds, and war upon many thousands.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6552-6555
+  quote_or_summary: Etain is described as hurt in the land, striving to win the king,
+    compared with fair women, and identified as 'our Etain afterwards.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: lines 6557-6565
+  quote_or_summary: Translator’s notes state that 'west of Alba' is literally 'behind
+    Alba'; Windisch’s rendering of line 14 is rejected; line 17 is not quite certain;
+    and da Airbrech may mean 'of two chariots.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized with short quoted phrases from the
+    note.
+- id: ev:7
+  type: note
+  locator: lines 6524-6526
+  quote_or_summary: A note on the phrase rendered 'upon the shore of the bay' says
+    that the underlying word may mean bank or harbour, but may mean no more than place.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized with short quoted phrase.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is limited by the passage’s own translation notes and
+    uncertainties. No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The passage is a notes section with a literal poem rendering, not a full narrative episode.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6516-l6568
+  passage_sha256=90d723495e437db864c47521574b682df0de92da38e68e11491e2a8a8acf5f91
+

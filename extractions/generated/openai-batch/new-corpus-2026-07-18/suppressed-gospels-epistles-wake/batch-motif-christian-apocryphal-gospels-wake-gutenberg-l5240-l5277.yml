@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l5240-l5277
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER I. / CHAPTER II. / CHAPTER III. / CHAPTER IV.; lines 5240-5277
+  start: '5240'
+  end: '5277'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“AS Jesus was passing by a certain shop...”"
+  summary: A fragment from the infancy Gospel attributed to Thomas opens with Jesus
+    passing a dyer's shop, seeing a young man dyeing cloths and stockings in a furnace,
+    and the boy Jesus taking some cloths before the manuscript breaks off. A reference
+    note describes the Greek source, attribution, conjectured connection with the
+    Gospel of Mary, and the torn manuscript. The passage then introduces the Gospel
+    of Nicodemus, formerly called the Acts of Pontius Pilate, as concerning Jesus
+    Christ's sufferings and resurrection.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Chapter IV is introduced as a fragment of an adventure at a dyer's.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jesus passes a shop and sees a young man dyeing cloths and stockings in a
+    furnace, apparently according to customers' orders.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boy Jesus goes to the young man and takes some of the cloths before the
+    narrative breaks off.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The reference note says the Greek original is attributed to St. Thomas, conjectured
+    to have been connected with the Gospel of Mary, and that the manuscript was torn
+    at the second verse of the fourth chapter.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The next text is introduced as the Gospel of Nicodemus, formerly called the
+    Acts of Pontius Pilate, concerning the sufferings and resurrection of Jesus Christ.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jesus / boy Jesus
+  description: Jesus is described as passing by a shop; as the boy Jesus, he goes
+    to the young man and takes some cloths. In the following title he is called Master
+    and Saviour, Jesus Christ.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: young man at the dyer's shop
+  description: A young man is dyeing cloths and stockings in a furnace of a sad colour,
+    according to orders.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: St. Thomas
+  description: The infancy Gospel fragment is attributed to St. Thomas in the reference
+    note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Nicodemus
+  description: Nicodemus is named as the disciple associated with the Gospel of Nicodemus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Pontius Pilate
+  description: Pontius Pilate is named in the former title, Acts of Pontius Pilate.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: child figure in dyer's-shop fragment
+  assigned_to:
+  - fig:1
+  basis: The text identifies the actor as the boy Jesus in the dyer's-shop episode.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: dyer or dyeing worker
+  assigned_to:
+  - fig:2
+  basis: The young man is described as dyeing cloths and stockings in a furnace.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: attributed authorial figure
+  assigned_to:
+  - fig:3
+  basis: The reference note says the text is attributed to St. Thomas.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Master and Saviour
+  assigned_to:
+  - fig:1
+  basis: The title of the Gospel of Nicodemus refers to Jesus Christ as Master and
+    Saviour.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: disciple associated with a gospel title
+  assigned_to:
+  - fig:4
+  basis: The title names Nicodemus as the disciple.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: figure named in former title
+  assigned_to:
+  - fig:5
+  basis: The text says the Gospel of Nicodemus was formerly called the Acts of Pontius
+    Pilate.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dyer's shop
+  literal_form: shop where dyeing is being done
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cloths and stockings
+  literal_form: cloths and stockings being dipped or dyed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: furnace
+  literal_form: furnace used in the dyeing process
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sad colour
+  literal_form: sad colour of the dyed items
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fragment at the dyer's shop
+  summary: Jesus passes a dyer's shop, observes a young man dyeing cloths and stockings
+    in a furnace, and as the boy Jesus takes some cloths before the fragment ends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Reference note and textual transition
+  summary: A note describes the source and damaged state of the infancy Gospel fragment,
+    then the text introduces the Gospel of Nicodemus and its subject, Jesus Christ's
+    sufferings and resurrection.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Child Jesus at a dyer's shop
+  taxonomy_refs: []
+  basis: The fragment's heading identifies an adventure at a dyer's, and the narrative
+    shows the boy Jesus approaching the worker and taking cloths.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The manuscript breaks off before the outcome, so no miracle or completed
+    episode can be extracted from this passage alone.
+- id: motif:2
+  label: Sufferings and resurrection of Jesus Christ
+  taxonomy_refs:
+  - resurrection
+  basis: The title of the Gospel of Nicodemus states that it concerns the sufferings
+    and resurrection of Jesus Christ.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This passage only gives the title and subject of the following work; it
+    does not narrate the suffering or resurrection events.
+comparison_claims:
+- id: claim:1
+  claim: The reference note reports a conjectured connection between the infancy Gospel
+    attributed to St. Thomas and the Gospel of Mary.
+  claim_level: historical_contact
+  target: Gospel of Mary
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage presents this only as a conjecture and gives no motif-level
+    details for comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5240-5243
+  quote_or_summary: "“Fragment of an adventure at a dyer's.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5244-5251
+  quote_or_summary: Jesus passes a shop and sees a young man dipping or dyeing cloths
+    and stockings in a furnace, of a sad colour, according to each person's order.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5252-5256
+  quote_or_summary: The boy Jesus goes to the young man and takes some of the cloths;
+    the sentence trails off.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5257-5269
+  quote_or_summary: The reference note says the Greek original is printed by Cotelerius
+    from a manuscript in the French King's Library, attributed to St. Thomas, conjectured
+    to have been connected with the Gospel of Mary, and found torn at the second verse
+    of chapter four.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5270-5277
+  quote_or_summary: The Gospel of Nicodemus is introduced, formerly called the Acts
+    of Pontius Pilate, concerning the sufferings and resurrection of Jesus Christ.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The dyer's-shop narrative is fragmentary, limiting motif extraction. Paratextual
+    title material supports only cautious motif and comparison notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage gives a furnace but does not explicitly name fire, and no listed symbol exactly matches the dyer's shop or cloth imagery.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l5240-l5277
+  passage_sha256=fa4ec0a2d5cde926466112da561a10f36b186c6aa17557c7132e65b458cf7fc1
+

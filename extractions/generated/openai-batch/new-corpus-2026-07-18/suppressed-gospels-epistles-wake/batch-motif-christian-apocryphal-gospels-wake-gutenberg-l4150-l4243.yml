@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l4150-l4243
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XII. / CHAPTER XIII. / CHAPTER XIV. / CHAPTER XV.; lines 4150-4243
+  start: '4150'
+  end: '4243'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: At seven years old, Jesus plays with other boys who make clay animal figures.
+    Jesus commands his clay figures and birds to move, fly, stop, eat, and drink.
+    The boys report this to their parents, whose fathers warn them that Jesus is a
+    sorcerer. Later Jesus enters Salem's dyer's shop, throws cloths into a furnace,
+    and then makes each cloth emerge dyed in the desired color; witnesses praise God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jesus is described as seven years old and playing with boys of about the same
+    age.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boys at play make clay into shapes including asses, oxen, birds, and other
+    figures.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jesus says he will command the figures he made to walk; they move and return
+    when commanded.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Clay birds and sparrows made by Jesus fly, stand still, eat, and drink when
+    he commands or gives them food and drink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the boys tell their parents, their fathers warn them to avoid Jesus
+    and call him a sorcerer.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Jesus enters a dyer's shop associated with Salem, takes all the cloths, and
+    throws them into the furnace.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Salem returns, sees the cloths as spoiled, and complains that Jesus has injured
+    both him and his neighbours.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Jesus says he will change every cloth to the desired color, then takes the
+    cloths out of the furnace dyed in the colors the dyer desired.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Jews who see the surprising miracle praise God.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Lord Jesus
+  description: Seven-year-old child who plays with boys, commands clay figures and
+    birds, throws cloths into a furnace, and produces the desired dye colors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Other boys
+  description: Jesus's companions of about the same age; they make clay figures while
+    playing and later report events to their parents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Children's parents or fathers
+  description: Parents, specifically fathers in the direct warning, who hear the boys'
+    report and tell them to avoid Jesus as a sorcerer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Salem
+  description: Person associated with the dyer's shop who returns, sees the cloths
+    spoiled, and chides Jesus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: The Jews
+  description: Witnesses who see the surprising miracle and praise God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: People of the city / neighbours
+  description: People whose pieces of cloth are in Salem's shop to be dyed in several
+    colors; Salem says they are injured by the spoiling of the cloths.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: child miracle-worker
+  assigned_to:
+  - fig:1
+  basis: Jesus is seven years old and commands clay figures and birds to act; he also
+    changes cloths to desired colors after throwing them into a furnace.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: role:2
+  label: play companions and reporters
+  assigned_to:
+  - fig:2
+  basis: The boys play with Jesus, make clay figures, and later relate what happened
+    to their parents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: parental warners / accusers
+  assigned_to:
+  - fig:3
+  basis: The fathers warn their children to shun Jesus and call him a sorcerer.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: dyer and complainant
+  assigned_to:
+  - fig:4
+  basis: Salem is connected with the dyer's shop and complains when he sees the cloths
+    spoiled.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: praising witnesses
+  assigned_to:
+  - fig:5
+  basis: The Jews see the miracle and praise God.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: affected cloth owners
+  assigned_to:
+  - fig:6
+  basis: The cloths in the shop belong to people of the city, and Salem says Jesus
+    has injured his neighbours as well as himself.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: clay animal figures
+  literal_form: Clay shaped into asses, oxen, birds, and other figures
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: clay birds and sparrows
+  literal_form: Figures of birds and sparrows that fly, stand still, eat, and drink
+    when commanded
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: furnace
+  literal_form: Furnace in Salem's dyer's shop into which Jesus throws the cloths
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: dyed cloths and colors
+  literal_form: Pieces of cloth intended to be dyed in several colors, later removed
+    from the furnace in the desired colors
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Clay figures animated during play
+  summary: Jesus and boys play with clay figures. Jesus commands the figures he made
+    to walk and return, and commands bird figures to fly, stop, eat, and drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Parents warn against Jesus
+  summary: The boys report the events to their parents, and their fathers tell them
+    to avoid Jesus because they regard him as a sorcerer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Jesus throws the dyer's cloths into the furnace
+  summary: Jesus passes Salem's dyer's shop, where city cloths are to be dyed, enters,
+    takes the cloths, and throws them into the furnace. Salem later complains that
+    the cloths are spoiled.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Cloths emerge in desired colors and God is praised
+  summary: Jesus promises to change the cloths to the desired colors, removes them
+    from the furnace so dyed, and the Jews who witness the miracle praise God.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Miraculous child performs wonders
+  taxonomy_refs:
+  - miraculous_child
+  basis: The passage specifies Jesus is seven years old and presents him animating
+    clay figures and transforming cloths by miraculous action.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The taxonomy label is applied broadly from the child age and wonder-working;
+    the passage itself does not use the phrase 'miraculous child.'
+- id: motif:2
+  label: Animation of fashioned clay animals by command
+  taxonomy_refs: []
+  basis: Clay figures, including animal and bird forms, move, return, fly, stop, eat,
+    and drink when Jesus commands them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names this clay-animation pattern.
+- id: motif:3
+  label: Miraculous transformation of spoiled goods
+  taxonomy_refs: []
+  basis: Cloths thrown into a furnace and regarded as spoiled are brought out dyed
+    in the colors desired by the dyer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied taxonomy family.
+- id: motif:4
+  label: Wonder interpreted as sorcery and later as divine miracle
+  taxonomy_refs: []
+  basis: The fathers warn that Jesus is a sorcerer after the clay wonders, while later
+    witnesses praise God after the dyer's miracle.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The accusing fathers and the praising Jews are not explicitly identified
+    as the same witnesses, so the contrast is sequential rather than a direct reversal
+    by the same group.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XV.1
+  quote_or_summary: Jesus is seven years old and is with other boys of about the same
+    age.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter XV.2-3
+  quote_or_summary: While playing, the boys make clay into shapes such as asses, oxen,
+    birds, and other figures, each boasting of his work.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Chapter XV.4-6
+  quote_or_summary: Jesus says he will command the figures he made; they walk and
+    return, and bird and sparrow figures fly, stand still, eat, and drink at his command.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter XV.7
+  quote_or_summary: The boys tell their parents; their fathers warn the children to
+    avoid Jesus, calling him a sorcerer.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter XV.8-10
+  quote_or_summary: Jesus passes a dyer's shop associated with Salem, where many city-owned
+    cloths are to be dyed; Jesus takes all the cloths and throws them into the furnace.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Chapter XV.11-12
+  quote_or_summary: Salem returns, sees the cloths spoiled, and chides Jesus, saying
+    he has injured Salem and his neighbours by spoiling cloths meant for proper colors.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Chapter XV.13-14
+  quote_or_summary: Jesus says he will change every cloth to the desired color and
+    then takes them from the furnace dyed in the colors the dyer desired.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Chapter XV.15
+  quote_or_summary: The Jews see the surprising miracle and praise God.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction uses only the supplied Chapter XV passage. Candidate motifs are
+    limited to patterns directly present in the passage. No comparison claims were
+    generated because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy reference used only for the broad miraculous-child motif; no external parallels or historical-contact claims are asserted.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l4150-l4243
+  passage_sha256=d8db2403cf691b004f1af615bd8e85ac9ecef7238612dfd46e8f0a0178f843ea
+

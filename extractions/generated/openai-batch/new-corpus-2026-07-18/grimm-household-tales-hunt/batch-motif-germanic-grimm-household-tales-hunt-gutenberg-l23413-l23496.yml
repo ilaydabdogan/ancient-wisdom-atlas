@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l23413-l23496
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 23413-23496
+  start: '23413'
+  end: '23496'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The master-thief first disguises himself as an old peasant woman and uses
+    wine mixed with a sleeping-drink to put the count''s soldiers to sleep, then steals
+    a guarded horse. After returning with the horse, he undertakes a second theft:
+    he uses a hanged body as a decoy so that the count leaves the bedroom, then imitates
+    the count''s voice and obtains the countess''s sheet and wedding-ring.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The master-thief buys old peasant woman's clothes, wears them, darkens his
+    face, and paints wrinkles so that he is not recognized.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He fills a small cask with old Hungary wine mixed with a powerful sleeping-drink
+    and carries it in a basket on his back.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At night he reaches the count's castle, sits in the courtyard, and is invited
+    by soldiers near the stable fire to warm himself.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The disguised master-thief gives or sells the wine to soldiers outside the
+    stable and to soldiers inside the stable.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The soldiers who drink the wine fall asleep; some snore, and those outside
+    lie motionless on the ground.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Inside the stable, one soldier is on the saddled riding-horse, one holds the
+    bridle, and one holds the tail before they fall asleep.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: The master-thief replaces the bridle with a rope in one sleeping soldier's
+    hand and gives straw to the one who held the horse's tail.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: He raises the sleeping rider into the air while still on the saddle by fastening
+    ropes to the saddle and wall ring.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: He wraps the horse's hoofs in old rags to prevent noise on the stony pavement,
+    leads the horse out, mounts it, and gallops away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: At daybreak he returns to the castle on the stolen horse and announces the
+    theft to the count, who laughs and warns him about a second attempt.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: That night the countess tightly holds the wedding-ring, the doors are locked
+    and bolted, and the count waits awake with a pistol.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The master-thief cuts down a hanged man from the gallows, carries the body
+    to the castle, and raises it toward the bedroom window on a ladder.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The count shoots at the head shown at the window, after which the master-thief
+    drops the body and hides.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: The count leaves by the window, descends the ladder, carries the body into
+    the garden, and begins digging a hole for it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The master-thief climbs into the countess's bedroom and speaks in the count's
+    voice, asking for a sheet and then the ring.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:16
+  text: The countess gives him the sheet and, unwillingly, the wedding-ring; he escapes
+    home before the count finishes burying the body.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: master-thief
+  description: A thief who uses disguise, drugged wine, silent horse theft, a corpse
+    decoy, and voice impersonation to deceive the count, countess, and soldiers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: count
+  description: The castle owner who observes the returned horse, warns the thief,
+    waits with a pistol, shoots at the decoy body, and buries it in the garden.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: countess
+  description: The count's wife, who guards the wedding-ring in her hand and later
+    gives the sheet and ring to the thief when he imitates the count's voice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: soldiers and stable watchers
+  description: Soldiers posted around the stable and horse; they accept wine from
+    the disguised thief and fall asleep.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: hanged poor sinner
+  description: A dead man cut down from the gallows and used by the master-thief as
+    a body at the window.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: trickster-thief
+  assigned_to:
+  - fig:1
+  basis: He gains access through disguise, disables guards with sleeping wine, steals
+    the horse, and later obtains the ring through a decoy and impersonation.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:2
+  label: noble owner and challenger
+  assigned_to:
+  - fig:2
+  basis: The count owns or controls the castle and horse, responds to the first theft,
+    and warns the thief about a second attempt.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: deceived ring-holder
+  assigned_to:
+  - fig:3
+  basis: The countess guards the wedding-ring but gives it away after hearing the
+    thief speak in the count's voice.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: drugged guards
+  assigned_to:
+  - fig:4
+  basis: The soldiers drink the wine mixed with sleeping-drink and fall asleep while
+    guarding the stable and horse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: corpse decoy
+  assigned_to:
+  - fig:5
+  basis: The dead body is raised to the window so that the count shoots it and then
+    leaves the bedroom to bury it.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: deceived watcher
+  assigned_to:
+  - fig:2
+  basis: The count believes the visible body at the window is the thief and leaves
+    his post after shooting it.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: old-woman disguise
+  literal_form: Old peasant woman's clothes, darkened face, and painted wrinkles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sleeping wine
+  literal_form: Small cask of old Hungary wine mixed with a powerful sleeping-drink.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: stable fire
+  literal_form: Fire before the stable door where soldiers are lying and warming themselves.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: guarded riding-horse
+  literal_form: A saddled riding-horse in the stable, guarded by soldiers and then
+    stolen.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: muffled hoofs
+  literal_form: Old rags wrapped around the horse's hoofs to silence movement over
+    the stony pavement.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: wedding-ring
+  literal_form: The countess's wedding-ring, held tightly in her hand and later given
+    to the disguised speaker.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: gallows body
+  literal_form: A hanged poor sinner cut down from the halter and carried to the castle
+    as a dead body.
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: ladder to the bedroom window
+  literal_form: A ladder set up to the bedroom window, used first with the dead body
+    and then by the thief.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:9
+  label: sheet
+  literal_form: A sheet requested as a covering for the supposed thief's body and
+    taken by the master-thief.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Disguised arrival with drugged wine
+  summary: The master-thief arrives at the count's castle dressed as an old woman,
+    carrying a cask of wine mixed with sleeping-drink, and the soldiers invite him
+    to the fire.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Guards put to sleep in the stable
+  summary: The disguised thief pours wine for soldiers outside and inside the stable
+    until the guards fall asleep around the horse.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Silent theft of the horse
+  summary: The master-thief arranges the sleeping guards so they do not wake, hoists
+    the mounted rider, muffles the horse's hoofs with rags, and rides away.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Return with horse and warning
+  summary: At daybreak the thief returns on the stolen horse and announces his success;
+    the count laughs but warns him against appearing again as a thief, while the count
+    and countess prepare to guard the ring at night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Corpse decoy at the bedroom window
+  summary: The master-thief cuts down a hanged body, raises it toward the bedroom
+    window, and drops it when the count shoots, causing the count to leave the room
+    and bury the body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Impersonation and ring theft
+  summary: After the count leaves, the thief climbs into the countess's bedroom, speaks
+    in the count's voice, obtains the sheet and wedding-ring, and escapes home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Disguise grants access to guarded space
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The master-thief transforms his appearance into that of an old peasant woman
+    and is accepted by soldiers at the count's castle and stable.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes human disguise, not supernatural transformation.
+- id: motif:2
+  label: Drugged drink disables guards
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Wine mixed with a sleeping-drink is served to the soldiers, who fall asleep
+    and cease guarding the horse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific available taxonomy reference names drugged sleep; linked only
+    to the broader trickster-boundary pattern.
+- id: motif:3
+  label: Theft of a guarded horse by clever substitution and silence
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The thief manipulates sleeping guards, hoists the rider, muffles the horse's
+    hoofs, and escapes with the horse from the stable.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The horse is a practical target of theft in the passage; no sacred or
+    supernatural status is stated.
+- id: motif:4
+  label: Corpse decoy draws watcher away
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The thief uses a hanged body at the window so the count shoots it, believes
+    the thief dead, and leaves the guarded bedroom to bury the body.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The corpse functions as a decoy in the narrative; no afterlife or resurrection
+    element is stated.
+- id: motif:5
+  label: Impersonation of husband to obtain guarded ring
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The thief imitates the count's voice and persuades the countess to give him
+    the sheet and wedding-ring.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The ring is identified as a wedding-ring, but the passage does not frame
+    the theft as sacred.
+- id: motif:6
+  label: Escalating theft trials by a master thief
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After the horse theft succeeds, the count warns that a second attempt will
+    be treated as theft; the master-thief then performs a second, more intimate theft
+    involving the countess's ring.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The wider tale context may clarify the full sequence of trials; this extraction
+    uses only the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23413-23422
+  quote_or_summary: The master-thief buys old woman's clothing, alters his face, fills
+    a cask with Hungary wine mixed with sleeping-drink, and goes to the count's castle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 23423-23438
+  quote_or_summary: Soldiers near a stable fire invite the disguised old woman to
+    warm herself; she offers wine, and soldiers outside and inside the stable drink
+    it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 23439-23449
+  quote_or_summary: The stable watchers and the soldiers outside fall asleep after
+    drinking; the rider remains asleep on the saddled horse while others drop the
+    bridle or tail.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 23450-23462
+  quote_or_summary: The thief gives decoy objects to sleeping guards, hoists the mounted
+    sleeper, muffles the horse's hoofs with rags, leads the horse out, and rides away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 23463-23473
+  quote_or_summary: At daybreak the thief returns on the stolen horse; the count laughs
+    but warns him, and that night the count and countess lock doors and guard the
+    wedding-ring.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 23473-23485
+  quote_or_summary: The thief cuts down a hanged body, uses a ladder to show it at
+    the bedroom window, drops it when the count shoots, and watches the count take
+    it into the garden to bury it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 23485-23496
+  quote_or_summary: The thief climbs into the countess's bedroom, speaks in the count's
+    voice, asks for a sheet and the ring, receives both, and escapes home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level and limited to broad available taxonomy references. No comparison
+    claims were made because the passage itself provides no explicit comparative link
+    to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references are limited to supplied available refs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l23413-l23496
+  passage_sha256=56fad8db6383b66a1060840d41dc562ac264b938c0b444a86f1b9bf0b4ca393a
+

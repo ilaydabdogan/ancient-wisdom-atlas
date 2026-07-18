@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l32049-l32073
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, S.; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.
+    / CHAPTER XXXIX. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 32049-32073
+  start: '32049'
+  end: '32073'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sale's notes report commentarial views on eschatological trumpet blasts,
+    beings temporarily exempted from death, universal mortality including angels and
+    animals, the interval between trumpet blasts, the ruin of the damned, and the
+    security and abundance of the blessed in paradise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Al Beidwi is reported as supposing that only two trumpet blasts occur, while
+    other interpreters suppose three.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some identify the temporarily exempted beings as Gabriel, Michael, Israfil,
+    and the angel of death, who are nevertheless said to die afterward at God's command.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that every soul, including humans, animals on land and
+    sea, and angels, must taste death.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An alternative opinion identifies the exempted beings as angels who bear God's
+    throne, or black-eyed damsels and other inhabitants of paradise.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The interval between the two trumpet blasts is given as forty days by Yahya
+    and others, though some suppose forty years.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage comments that the damned seem to attribute their ruin to God's
+    decree of predestination.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A metaphorical expression is glossed as representing the perfect security
+    and abundance enjoyed by the blessed in paradise.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine figure whose command causes even exempted angels to die; also
+    associated in the note with predestination.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Al Beidwi
+  description: Commentator cited for the view that there are no more than two trumpet
+    blasts and also cited in notes on exempted beings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Yahya
+  description: Commentator cited for the view that the space between the trumpet blasts
+    is forty days.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Gabriel, Michael, Israfil, and the angel of death
+  description: Named angels proposed by some as beings initially exempted, though
+    later dying at God's command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Every soul
+  description: Collective category including humans, animals living on land or in
+    the sea, and angels, all said to necessarily taste death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Angels who bear the throne of God
+  description: Alternative group proposed as exempted beings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Black-eyed damsels and other inhabitants of paradise
+  description: Alternative paradise beings proposed as exempted from the trumpet-blast
+    death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: The damned
+  description: The condemned, described as attributing their ruin to God's decree
+    of predestination.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: The blessed
+  description: Those who enjoy perfect security and abundance in paradise.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Divine commander and decreeing figure
+  assigned_to:
+  - fig:1
+  basis: The note says the named angels will afterward die at God's command and comments
+    on God's decree of predestination.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: Commentarial authority
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Al Beidwi and Yahya are cited for specific interpretive claims about trumpet
+    blasts and timing.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: Temporarily exempted but later dying angels
+  assigned_to:
+  - fig:4
+  basis: Some interpreters identify these named angels as exempted, yet the passage
+    says they afterward die at God's command.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Beings subject to universal death
+  assigned_to:
+  - fig:5
+  basis: The note states that every soul, including humans, animals, and angels, must
+    taste death.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Alternative exempted beings
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Other interpreters identify throne-bearing angels or paradise inhabitants
+    as those exempted.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Condemned afterlife group
+  assigned_to:
+  - fig:8
+  basis: The damned are mentioned as attributing their ruin to predestination.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Rewarded afterlife group
+  assigned_to:
+  - fig:9
+  basis: The blessed are said to enjoy security and abundance in paradise.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Trumpet blasts
+  literal_form: Two blasts of the trumpet, with an alternate opinion of three blasts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Forty-day or forty-year interval
+  literal_form: The space between trumpet blasts is forty days in one view, forty
+    years in another.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Paradise
+  literal_form: Paradise as the dwelling or reward-place of certain inhabitants and
+    of the blessed.
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: Throne of God
+  literal_form: The throne of God borne by angels.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Tasting death
+  literal_form: The expression that every soul must taste death.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Number of trumpet blasts
+  summary: A note reports that Al Beidwi understands the Qur'anic trumpet sequence
+    as two blasts, while others suppose three.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exempted beings and universal death
+  summary: Commentarial opinions name certain angels, throne-bearing angels, or paradise
+    inhabitants as exempted, while another statement says all souls, including angels
+    and animals, must die.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Interval between trumpet blasts
+  summary: The time between the two trumpet blasts is described as forty days by Yahya
+    and others, with an alternative of forty years.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Damned and blessed after judgment
+  summary: The damned are glossed as attributing ruin to divine predestination, while
+    the blessed are described as enjoying security and abundance in paradise.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Eschatological trumpet blasts
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage centers on two, or according to some three, trumpet blasts and
+    an interval between them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The supplied passage is a translator's note and does not include the full
+    surrounding Qur'anic verse narrative.
+- id: motif:2
+  label: Universal death including angels
+  taxonomy_refs:
+  - divine_judgment
+  basis: The notes state that named angels eventually die at God's command and that
+    every soul, including humans, animals, and angels, must taste death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage emphasizes death; resurrection is not directly described in
+    the supplied lines.
+- id: motif:3
+  label: Paradise security and abundance for the blessed
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage glosses a metaphor as representing perfect security and abundance
+    enjoyed by the blessed in paradise.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is presented as an explanatory gloss rather than a full scene.
+- id: motif:4
+  label: Predestined ruin of the damned
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage comments that the damned appear to attribute their ruin to God's
+    decree of predestination.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The note itself is cautious, saying it 'seems as if' the damned attribute
+    their ruin to predestination.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 32049-32052
+  quote_or_summary: Al Beidwi is reported as supposing that only two trumpet blasts
+    occur; other interpreters suppose three.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:2
+  type: summary
+  locator: 32053-32056
+  quote_or_summary: Some identify the exempted beings as Gabriel, Michael, Israfil,
+    and the angel of death, who afterward all die at God's command.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:3
+  type: summary
+  locator: 32056-32059
+  quote_or_summary: The passage states that every soul, including humans, land and
+    sea animals, and angels, must necessarily taste death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:4
+  type: summary
+  locator: 32059-32061
+  quote_or_summary: Other opinions identify the exempted as angels bearing God's throne,
+    or black-eyed damsels and other inhabitants of paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:5
+  type: summary
+  locator: 32062-32064
+  quote_or_summary: The interval between the two trumpet blasts is forty days according
+    to Yahya and others; some suppose forty years.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:6
+  type: summary
+  locator: 32068-32070
+  quote_or_summary: A note says the damned seem to attribute their ruin to God's decree
+    of predestination.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:7
+  type: summary
+  locator: 32071-32073
+  quote_or_summary: A metaphorical expression is explained as representing the perfect
+    security and abundance enjoyed by the blessed in paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a set of translator/commentarial notes, not a continuous narrative
+    passage. Motif extraction is limited to the eschatological details explicitly
+    present in the supplied lines. No cross-tradition comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l32049-l32073
+  passage_sha256=6f6a9076bee256b649d7c14a9007f3de24fba3014ce68284507055b744564976
+

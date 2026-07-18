@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l173-l201
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: 'LONDON / NEW YORK AND TORONTO: THE MACMILLAN CO. / PREFACE / F. L.; lines
+    173-201'
+  start: '173'
+  end: '201'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A preface passage gives a footnote citation, explains principles used in
+    the literal translation from Coptic and Greek-related terms, and notes Mr. Legge's
+    annotated translation and the later publishing decision by the Committee of S.P.C.K.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The initials “F. L.” appear before the footnote and translation notes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote cites A. C. McGiffert’s Prolegomena to Church History of Eusebius
+    in the Schaff and Wace series.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the literal translation follows word order as far
+    as possible and generally avoids replacing the Coptic third-person plural construction
+    with an English passive.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage distinguishes two words rendered as “and” or “with” and says that
+    “with” is generally kept where possible.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says Greek ἀλλά and δέ are not distinguished and that Greek words
+    can be found bracketed in Dr. Schmidt’s German translation.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that an indefinitive or frequentative tense has been translated
+    by “wont to,” and that “in” is sometimes translated “from” when the sense requires
+    it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mr. Legge made another translation from the narrator’s literal translation
+    and carefully annotated it, explaining difficulties of terms and expression.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After Mr. Legge’s death, the Committee of S.P.C.K. decided not to publish
+    the larger addition and to print only as much of his Introduction as was needed
+    for explanations.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: F. L.
+  description: Initials printed at the start of the passage, followed by first-person
+    remarks about “my literal translation.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: A. C. McGiffert
+  description: Named in the footnote citation to Prolegomena to Church History of
+    Eusebius.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Dr. Schmidt
+  description: Named as the author of a German translation, Leipzig 1905, in which
+    Greek words are printed within brackets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Mr. Legge
+  description: Made another translation from the narrator’s literal translation, annotated
+    it, and is described as deceased before the publication decision.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Committee of S.P.C.K.
+  description: The committee that decided not to publish the larger addition and to
+    print only part of Mr. Legge’s Introduction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: preface signatory and first-person translation voice
+  assigned_to:
+  - fig:1
+  basis: The passage begins with the initials “F. L.” and later refers to “my literal
+    translation.”
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: cited scholarly source
+  assigned_to:
+  - fig:2
+  basis: A. C. McGiffert is named in the footnote citation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: translator or editor of referenced German translation
+  assigned_to:
+  - fig:3
+  basis: The passage refers to Dr. Schmidt’s German translation, Leipzig 1905.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: secondary translator and annotator
+  assigned_to:
+  - fig:4
+  basis: Mr. Legge made another translation from the literal translation and annotated
+    it.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: publication decision-making body
+  assigned_to:
+  - fig:5
+  basis: The Committee of S.P.C.K. decided what would and would not be published.
+  evidence_refs:
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Explanation of translation principles
+  summary: The preface voice describes literal translation practices for word order,
+    Coptic verbal constructions, terms rendered “and” or “with,” Greek terms, tense,
+    and prepositions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Legge translation and publication decision
+  summary: Mr. Legge prepared and annotated another translation from the literal translation;
+    after his death the Committee of S.P.C.K. chose not to publish the larger addition
+    and to print only needed portions of his Introduction.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 173
+  quote_or_summary: "“F. L.”"
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 175-179
+  quote_or_summary: Footnote 1 cites A. C. McGiffert, Prolegomena to Church History
+    of Eusebius in Schaff and Wace, Select Library of Nicene and post-Nicene Fathers,
+    I, p. 179 n. 17.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 181-184
+  quote_or_summary: The literal translation is said to follow word order as far as
+    possible and seldom use the passive form where the Coptic uses a third-person
+    plural construction.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 185-190
+  quote_or_summary: The passage explains two words for “and,” one additive and one
+    the common preposition “with,” and says the translation generally keeps the meaning
+    “with.”
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 190-193
+  quote_or_summary: Greek ἀλλά and δέ have not been distinguished, and Greek words
+    are said to be bracketed in Dr. Schmidt’s German translation, Leipzig 1905.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 194-197
+  quote_or_summary: The indefinitive or frequentative tense is translated by “wont
+    to,” and the preposition “in” is often translated “from” when the sense requires
+    it.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 198-200
+  quote_or_summary: Mr. Legge made another translation from the narrator’s literal
+    translation, annotated it carefully, and explained many difficulties of terms
+    and expression.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 200-201
+  quote_or_summary: After Mr. Legge’s death, the Committee of S.P.C.K. decided not
+    to publish the larger addition and to print only as much of his Introduction as
+    would supply required explanations.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is paratextual translation and publication commentary rather
+    than mythic narrative; no candidate mythology motifs, listed symbols, or comparison
+    claims are supported by the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological symbols or comparative motifs were extracted because the supplied lines concern translation method, citations, annotations, and publication decisions.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l173-l201
+  passage_sha256=52be1295288d16affbb1cef732334c597bb1a582f0861e5b0d11a6521cf5dca3
+

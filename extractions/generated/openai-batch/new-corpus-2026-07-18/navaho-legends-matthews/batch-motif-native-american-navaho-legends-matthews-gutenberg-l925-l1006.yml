@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l925-l1006
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: HOUSES. / ARTS. / INDUSTRY. / POETRY AND MUSIC.; lines 925-1006
+  start: '925'
+  end: '1006'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses Navaho poetic and musical techniques. It contrasts
+    thunder and grasshopper voices, gives a mountain chant in which Maid Who Becomes
+    a Bear and Holy Young Woman seek and find gods on mountain or cloud summits with
+    sacrifice, presents a Bluebird song about Sialia calling at daylight, and comments
+    on repetition, rhyme, instruments, sacred song sequences, and musical variation.
+  language: English with a Navajo song excerpt
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contrasts the great voice of thunder above with the feeble voice
+    of the grasshopper below and says both voices make the world beautiful.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the mountain chant, Maid Who Becomes a Bear is said to have sought the
+    gods and found them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In a parallel stanza, Holy Young Woman is said to have sought the gods and
+    found them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The first mountain-chant stanza locates the seeking and finding on summits
+    of mountains; the second locates it on summits of clouds.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Both mountain-chant stanzas connect the seeking and finding with the speaker's
+    sacrifice and end with a line about somebody doubting it; the prose note identifies
+    the last line as irony.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The prose note says Maid Who Becomes a Bear is an important character in Navaho
+    mythology.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Bluebird song says that Sialia calls at daylight and describes the bluebird
+    as having a melodious voice that flows in gladness.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentary says that refrain, repetition, rhyme, and musical variation
+    are used in Navaho songs, and that accompaniment may use an inverted basket as
+    a drum and a gourd rattle.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Maid Who Becomes a Bear / Tsiké Sas Nátlehi
+  description: Named figure in the mountain chant; the prose note calls her an important
+    character in Navaho mythology.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Holy Young Woman
+  description: Named figure in the second mountain-chant stanza.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: The gods
+  description: Collective divine figures who are sought and found in both mountain-chant
+    stanzas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Bluebird / Sialia
+  description: Bird in the Bluebird song; it calls at daylight and is described as
+    having a melodious voice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Thunder above
+  description: Natural phenomenon described as having a great voice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Grasshopper below
+  description: Animal described as having a feeble voice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: seeker who finds gods
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Each named female figure is said in a chant stanza to have sought the gods
+    and found them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine beings sought and found
+  assigned_to:
+  - fig:3
+  basis: The gods are the ones sought and found in both chant stanzas.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: daylight song-caller
+  assigned_to:
+  - fig:4
+  basis: The Bluebird song says Sialia calls at daylight and describes its voice as
+    melodious.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: contrasted world-beautifying voices
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Thunder above and grasshopper below are contrasted by voice, yet both are
+    said to make the world beautiful.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: important mythological character
+  assigned_to:
+  - fig:1
+  basis: The prose note explicitly calls Maid Who Becomes a Bear an important character
+    in Navaho mythology.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain summit
+  literal_form: summits of the mountains
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cloud summit
+  literal_form: summits of the clouds
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sacrifice
+  literal_form: my sacrifice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: bluebird voice
+  literal_form: Sialia's daylight call and melodious voice
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: contrasted high and low voices
+  literal_form: thunder above and grasshopper below as contrasting voices
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Thunder and grasshopper voices
+  summary: The passage contrasts thunder above and grasshopper below by the strength
+    of their voices and says both voices beautify the world.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mountain chant seeking the gods
+  summary: Two parallel stanzas name Maid Who Becomes a Bear and Holy Young Woman
+    as seekers who find the gods on mountain or cloud summits, with sacrifice and
+    an ironic final line about doubt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bluebird song
+  summary: The Bluebird song presents Sialia calling at daylight and emphasizes the
+    bird's melodious, glad voice through repetition.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Commentary on song form and music
+  summary: The prose commentary describes repetition, refrain, rhyme, instruments,
+    sacred song sequences, and changes in music when the poetic theme changes.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seeking and finding gods on elevated summits
+  taxonomy_refs:
+  - mystical_quest
+  - ascent
+  basis: The mountain chant repeats that named figures sought the gods and found them,
+    with the setting placed on mountain summits and cloud summits.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is a short poetic citation rather than a full journey narrative;
+    ascent is suggested by summit settings but not narrated as an action.
+- id: motif:2
+  label: sacrifice linked to divine encounter
+  taxonomy_refs:
+  - sacrifice
+  basis: Both mountain-chant stanzas include the speaker's sacrifice in the same repeated
+    sequence as seeking and finding the gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The nature of the sacrifice and its causal relationship to finding the
+    gods are not explained in this passage.
+- id: motif:3
+  label: refrain and parallel repetition as sacred song pattern
+  taxonomy_refs: []
+  basis: The passage explicitly discusses repetition and refrain, and the cited mountain
+    chant and Bluebird song both use repeated phrases and parallel lines.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a formal poetic and musical pattern rather than a narrative myth
+    motif.
+- id: motif:4
+  label: natural and animal voices beautifying the world
+  taxonomy_refs: []
+  basis: The passage says thunder and grasshopper voices both make the world beautiful,
+    and the Bluebird song emphasizes a melodious daylight call.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage gives an aesthetic statement and song image, not a developed
+    mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 925-1006; opening paragraph
+  quote_or_summary: Thunder above is contrasted with the grasshopper below by voice;
+    both voices are said to make the world beautiful.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 925-1006; section 52, first mountain-chant stanza
+  quote_or_summary: Maid Who Becomes a Bear seeks and finds the gods; the stanza places
+    this on mountain summits, mentions the speaker's sacrifice, and ends with a line
+    about somebody doubting it.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 925-1006; section 52, second mountain-chant stanza
+  quote_or_summary: Holy Young Woman seeks and finds the gods; the stanza places this
+    on cloud summits, mentions the speaker's sacrifice, and ends with the same line
+    about somebody doubting it.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 925-1006; section 52, prose note after chant
+  quote_or_summary: The prose note says Maid Who Becomes a Bear is an important character
+    in Navaho mythology and identifies the last line of each stanza as irony.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 925-1006; section 53, Bluebird song translation
+  quote_or_summary: The translated Bluebird song says Sialia calls at daylight, that
+    the bluebird has a voice, and that the voice is melodious and flows in gladness.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 925-1006; sections 53-54
+  quote_or_summary: The commentary says repetition and refrain are valued in poetry,
+    the Bluebird song shows verbal melody, and rhyme may be made by repeated syllables
+    or similar endings.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 925-1006; section 55
+  quote_or_summary: The music commentary describes variety in songs, accompaniment
+    by an inverted basket used as a drum and a gourd rattle, sacred songs of sequence,
+    and musical change when the poetic theme changes.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    cautious because much of the passage is commentary on poetic and musical form
+    rather than narrative myth. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs are limited to provided available refs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l925-l1006
+  passage_sha256=84d60d01f3baf60347d4d750abc2aa2ecf3c67ed23d81c6176915605a0e74817
+

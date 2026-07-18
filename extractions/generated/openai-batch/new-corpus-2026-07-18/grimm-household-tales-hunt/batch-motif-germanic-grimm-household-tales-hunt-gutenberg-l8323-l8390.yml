@@ -1,0 +1,614 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8323-l8390
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8323-8390
+  start: '8323'
+  end: '8390'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage concludes the Rumpelstiltskin episode: after the Queen bears
+    a child, the manikin demands the promised child, grants three days for her to
+    learn his name, is discovered through a messenger''s report, and destroys himself
+    when named. The passage then begins Sweetheart Roland: a witch plans to murder
+    her hated stepdaughter for an apron desired by her own daughter, but the stepdaughter
+    overhears, changes places in bed, and the witch kills her own child by mistake.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A year after the earlier promise, the Queen has a beautiful child, and the
+    manikin enters her room to demand what was promised.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Queen offers the manikin all the riches of the kingdom if he will leave
+    her the child.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The manikin refuses riches and says a living thing is dearer to him than all
+    worldly treasures.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The manikin gives the Queen three days to find out his name; success will
+    let her keep her child.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Queen tries many known, uncommon, and curious names, while the manikin
+    repeatedly denies that any is his name.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A messenger searches for names in the country and returns on the third day
+    with a report from a remote mountain and forest setting.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: The messenger sees a little house, a burning fire, and a little man jumping
+    around the fire on one leg while shouting a rhyme that reveals the name Rumpelstiltskin.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Queen first guesses false names and then asks whether the manikin's name
+    is Rumpelstiltskin.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After his name is spoken, the manikin cries that the devil has told it, stamps
+    one foot into the earth, pulls at the other leg, and tears himself in two.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: 'A new tale begins with a witch who has two daughters: her own daughter, described
+    as ugly and wicked, and a stepdaughter, described as beautiful and good.'
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The witch loves her own daughter and hates the stepdaughter.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The witch's daughter envies the stepdaughter's pretty apron and wants it.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The witch plans to cut off the stepdaughter's head at night while she is asleep
+    and tells her own daughter how to position herself in bed.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The stepdaughter overhears the murder plan and later switches positions in
+    bed after the witch's daughter falls asleep.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: The witch enters at night with an axe, feels for the person lying at the outside
+    of the bed, and cuts off her own child's head by mistake.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Queen
+  description: A queen who has a child, searches for the manikin's name, and asks
+    whether his name is Rumpelstiltskin.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Manikin / Rumpelstiltskin
+  description: A little man who demands the promised child, grants a three-day name
+    test, sings his own name near a fire, and destroys himself when named.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Queen's child
+  description: The beautiful child born to the Queen and demanded by the manikin as
+    the promised living thing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Messenger
+  description: A messenger sent by the Queen to search the country for names; he reports
+    seeing the little man at a remote place and hearing his name.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Witch
+  description: A woman described as a real witch who loves her own daughter, hates
+    her stepdaughter, plans a nighttime beheading, and kills her own child by mistake.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: Witch's own daughter
+  description: The witch's ugly and wicked daughter, loved by her mother, who envies
+    the stepdaughter's apron and is killed by mistake.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: Stepdaughter
+  description: The witch's beautiful and good stepdaughter, hated by the witch, owner
+    of the apron, overhearer of the plot, and survivor through a bed-position switch.
+  role_refs:
+  - role:11
+  - role:12
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: mother whose child is claimed
+  assigned_to:
+  - fig:1
+  basis: The Queen has a child and is asked to give what she promised.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: name seeker
+  assigned_to:
+  - fig:1
+  basis: She thinks of names, sends a messenger, and finally speaks the correct name.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: claimant of promised living child
+  assigned_to:
+  - fig:2
+  basis: The manikin demands the promised thing and rejects wealth in favor of a living
+    thing.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: secret-name figure
+  assigned_to:
+  - fig:2
+  basis: The manikin's name is unknown to the Queen until the messenger hears him
+    reveal it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: promised child
+  assigned_to:
+  - fig:3
+  basis: The child is what the manikin demands from the Queen under the earlier promise.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: discovering messenger
+  assigned_to:
+  - fig:4
+  basis: The messenger searches for names and reports the manikin's self-revealed
+    name.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: murderous witch-mother
+  assigned_to:
+  - fig:5
+  basis: The witch plans to behead the stepdaughter and enters at night with an axe.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:8
+  label: mistaken killer of own child
+  assigned_to:
+  - fig:5
+  basis: The witch cuts off her own child's head after the bed-position switch.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:9
+  label: favored envious daughter
+  assigned_to:
+  - fig:6
+  basis: The witch loves her own daughter, and that daughter envies the stepdaughter's
+    apron.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:10
+  label: mistaken victim
+  assigned_to:
+  - fig:6
+  basis: She is moved to the front of the bed and killed in place of the stepdaughter.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:11
+  label: persecuted stepdaughter
+  assigned_to:
+  - fig:7
+  basis: The witch hates the stepdaughter and plans to kill her.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:12
+  label: overhearer and survivor
+  assigned_to:
+  - fig:7
+  basis: She overhears the plot, changes places in bed, and is not killed.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: three-day limit
+  literal_form: three days' time to find the manikin's name
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: secret name
+  literal_form: the name Rumpelstiltskin
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: high mountain
+  literal_form: a high mountain at the end of the forest
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fire
+  literal_form: a fire burning before the little house
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: earth-entrapment gesture
+  literal_form: the manikin's right foot plunging deep into the earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: pretty apron
+  literal_form: the stepdaughter's pretty apron desired by the witch's daughter
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: axe
+  literal_form: an axe held by the witch during the nighttime killing
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: bed-position substitution
+  literal_form: front and back positions in the bed, with the outside sleeper taken
+    for the intended victim
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: The manikin claims the promised child
+  summary: After the Queen has a child, the manikin appears, demands what was promised,
+    refuses riches, and grants three days for the Queen to discover his name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed name guesses
+  summary: The Queen searches memory and sends inquiries for names, but the manikin
+    denies all names offered on the first two days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Messenger overhears the name
+  summary: On the third day, the messenger reports seeing the little man near a high
+    mountain, little house, and fire, singing a rhyme that reveals the name Rumpelstiltskin.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Naming and self-destruction
+  summary: The Queen asks whether the manikin is named Rumpelstiltskin; he reacts
+    in rage, stamps into the earth, and tears himself in two.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Witch's murder plan
+  summary: The witch's own daughter envies the stepdaughter's apron, and the witch
+    promises to behead the stepdaughter at night, instructing her daughter where to
+    lie in bed.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Bed switch and mistaken killing
+  summary: The stepdaughter overhears the plot, changes positions in bed after the
+    witch's daughter sleeps, and the witch kills her own child with an axe by mistake.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Promised living child claimed after a bargain
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The manikin demands what was promised, refuses all riches, and values the
+    living child above treasure.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a bargain over a child, but the available taxonomy
+    label is broad and the passage does not frame the exchange explicitly as sacred.
+- id: motif:2
+  label: Secret-name ordeal to save a child
+  taxonomy_refs:
+  - forbidden_knowledge
+  - wisdom
+  basis: The Queen may keep her child only if she learns the manikin's name within
+    three days, and she succeeds through inquiry and the messenger's report.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage clearly centers on concealed-name discovery; the taxonomy
+    references are approximate because the name is not explicitly called forbidden
+    knowledge.
+- id: motif:3
+  label: Remote self-revelation overheard by helper
+  taxonomy_refs: []
+  basis: The messenger encounters the manikin at a remote mountain-and-forest place
+    and hears him sing the name that defeats him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No external comparison is asserted; this is a passage-level motif candidate
+    only.
+- id: motif:4
+  label: Defeated hidden-name being destroys himself
+  taxonomy_refs: []
+  basis: After the Queen names him, the manikin reacts with rage and tears himself
+    in two.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives no further explanation of the being's nature or death
+    beyond the literal action.
+- id: motif:5
+  label: Persecuted stepdaughter overhears murder plot
+  taxonomy_refs: []
+  basis: The witch plots to behead the stepdaughter, but the stepdaughter hears the
+    plan before nightfall.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is limited to the opening of the tale in this passage.
+- id: motif:6
+  label: Bed-position substitution causes mistaken killing of the murderer's own child
+  taxonomy_refs: []
+  basis: The stepdaughter changes places in bed; the witch feels for the outside sleeper
+    and kills her own daughter instead of the intended victim.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage describes mistaken killing but does not state a moral or supernatural
+    judgment.
+- id: motif:7
+  label: Rival female siblings or stepsiblings over an object
+  taxonomy_refs:
+  - sibling_pair
+  basis: The witch's own daughter envies the stepdaughter's pretty apron, prompting
+    the murder plot.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The relationship is between stepsisters within a household, not twins
+    or a balanced sibling-pair motif; taxonomy mapping is broad.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8323-8331
+  quote_or_summary: A year later the Queen has a child; the manikin demands what she
+    promised, refuses riches, says a living thing is dearer than treasure, and gives
+    her three days to learn his name in order to keep the child.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8332-8342
+  quote_or_summary: The Queen thinks of known names, sends a messenger throughout
+    the country, and tries ordinary and curious names over two days, but the manikin
+    answers that none is his name.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8343-8352
+  quote_or_summary: The messenger reports that near a high mountain at the end of
+    the forest he saw a little house, a burning fire, and a little man hopping around
+    the fire while singing that he will have the Queen's child and that he is called
+    Rumpelstiltskin.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8353-8360
+  quote_or_summary: The Queen is glad to hear the name; when the manikin asks his
+    name, she first proposes Conrad and Harry, then asks whether it is Rumpelstiltskin.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8361-8364
+  quote_or_summary: The manikin cries that the devil has told her, plunges his right
+    foot deep into the earth, pulls at his left leg with both hands, and tears himself
+    in two.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8365-8370
+  quote_or_summary: 'The next tale introduces a real witch with two daughters: her
+    own ugly and wicked daughter, whom she loves, and a beautiful and good stepdaughter,
+    whom she hates.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8370-8376
+  quote_or_summary: The witch's daughter envies the stepdaughter's pretty apron; the
+    witch promises that she shall have it and plans to cut off the stepdaughter's
+    head at night, telling her daughter to lie at the far side of the bed and push
+    the stepdaughter to the front.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8376-8381
+  quote_or_summary: The stepdaughter overhears the plan; at bedtime the witch's daughter
+    lies at the far side, but after she sleeps the stepdaughter gently pushes her
+    to the front and takes the back place near the wall.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8382-8390
+  quote_or_summary: At night the old woman comes in with an axe, feels for someone
+    lying at the outside, and cuts off her own child's head.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is explicit. Motif taxonomy
+    mappings are partly broad, especially sacred_exchange, forbidden_knowledge, wisdom,
+    and sibling_pair. No comparison claims were made because the passage itself does
+    not provide cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied line range spans the end of one tale and the opening of another; scenes and motifs are separated accordingly.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8323-l8390
+  passage_sha256=e8138f8fad2f90315954b80544905a0d2f110146beacec6cb197bf3dbf81225f
+

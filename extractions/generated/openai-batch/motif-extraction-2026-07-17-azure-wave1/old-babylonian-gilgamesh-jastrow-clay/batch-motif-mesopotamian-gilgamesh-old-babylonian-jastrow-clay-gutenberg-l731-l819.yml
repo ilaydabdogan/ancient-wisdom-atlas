@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l731-l819
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: An Old Babylonian Version of the Gilgamesh Epic / Part III / PREFATORY NOTE
+    / INTRODUCTION.; lines 731-819
+  start: '731'
+  end: '819'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A philological discussion of the name Gilgamesh/Gish-g(n)-mash/dGish-bil-ga-mesh,
+    including variant spellings in Old Babylonian, Assyrian, Sumerian, dynastic, inscriptional,
+    temple, deity-list, and syllabary evidence. The passage also summarizes the Assyrian
+    epic depiction of Gilgamesh as conqueror and ruler of Erech, the people’s appeal
+    to Aruru, and Aruru’s formation of Enkidu from dust as a rival.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage rejects readings such as Iz-tu-bar or Gish-du-bar and argues for
+    Gish-g(n)-mash as a phonetic and approximate writing of the name.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the Assyrian version, dGish-g(n)-mash is described as a conqueror of Erech
+    who forces the people into subjection.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The autocratic rule of dGish-g(n)-mash leads the people of Erech to implore
+    the goddess Aruru to create a rival able to withstand him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Aruru forms dEnkidu out of dust, and dEnkidu is eventually brought to Erech.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Outside the Epic, the figure appears as dGish-bil-ga-mesh in dynastic, inscriptional,
+    and Sumerian epic evidence; one inscription names him as builder of the wall of
+    Erech.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A syllabary gives designations for the hero as dGish-gibil(or bl)-ga-mesh,
+    warrior, and leader, all equivalent to the Sumerian expression translated as the
+    seven-fold hero.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Another syllabary equation gives Esigga-tuk and Gish-tuk as meaning the one
+    who is a hero.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The signs Bil and Gibil are said to convey ideas of fire and renewal and to
+    derive from pictures of flames or a torch; the passage connects the name element
+    with the fire-god dBil-gi/Gibil.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Erech is the named city associated with conquest, subjection, Enkidu’s arrival,
+    and the wall attributed to Gilgamesh.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh / dGish-g(n)-mash / dGish-bil-ga-mesh
+  description: The hero discussed under variant names; portrayed as conqueror and
+    ruler of Erech, likely a foreigner in the passage’s argument, listed in dynastic
+    material, named as builder of the wall of Erech, and designated warrior, leader,
+    and hero.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: People of Erech
+  description: The people forced into subjection by dGish-g(n)-mash and described
+    as imploring Aruru to create a rival to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Aruru
+  description: A goddess whom the people of Erech implore to create a rival to dGish-g(n)-mash;
+    she forms dEnkidu out of dust.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Enkidu / dEnkidu
+  description: The being formed out of dust by Aruru in response to the people’s appeal,
+    and eventually brought to Erech as a rival who may withstand dGish-g(n)-mash.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: dBil-gi / Gibil
+  description: The fire-god connected with the middle element of the name dGish-gibil(or
+    bl)-ga-mesh in the passage’s philological explanation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Conqueror and autocratic ruler
+  assigned_to:
+  - fig:1
+  basis: The Assyrian version is summarized as depicting dGish-g(n)-mash as conquering
+    Erech, forcing subjection, and ruling autocratically.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Hero, warrior, and leader
+  assigned_to:
+  - fig:1
+  basis: Syllabary evidence equates the hero’s designations with warrior, leader,
+    seven-fold hero, and the one who is a hero.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Builder of the wall of Erech
+  assigned_to:
+  - fig:1
+  basis: An inscription of the days of Sin-gamil is summarized as mentioning dGish-bil-ga-mesh
+    as builder of the wall of Erech.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Supplicant community
+  assigned_to:
+  - fig:2
+  basis: The people of Erech are said to implore Aruru to create a rival to withstand
+    dGish-g(n)-mash.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: Creator goddess
+  assigned_to:
+  - fig:3
+  basis: Aruru is asked to create a rival and forms dEnkidu out of dust.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Created rival
+  assigned_to:
+  - fig:4
+  basis: dEnkidu is formed by Aruru as the rival intended to withstand dGish-g(n)-mash.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Fire-god and name-element referent
+  assigned_to:
+  - fig:5
+  basis: The passage identifies the middle element of a name form with the fire-god
+    written dBil-gi and pronounced in inverted form as Gibil.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Dust of formation
+  literal_form: Dust from which dEnkidu is formed by Aruru.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Fire and flames
+  literal_form: Bil/Gibil signs conveying fire and renewal, pictured as flames or
+    a torch, and connected with the fire-god dBil-gi/Gibil.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: Wall of Erech
+  literal_form: The wall of Erech attributed to dGish-bil-ga-mesh as builder.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Seven-fold hero epithet
+  literal_form: Sumerian Esigga imin, translated in the passage as the seven-fold
+    hero.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rule at Erech and appeal to Aruru
+  summary: The Assyrian version is summarized as portraying dGish-g(n)-mash as conquering
+    Erech and forcing its people into subjection; his autocratic rule leads the people
+    to appeal to Aruru for a rival.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Formation of Enkidu from dust
+  summary: In response to the appeal, Aruru forms dEnkidu out of dust, and he is eventually
+    brought to Erech as the rival who may withstand dGish-g(n)-mash.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Gilgamesh as dynastic figure and wall-builder
+  summary: The passage cites non-epic and Sumerian evidence in which dGish-bil-ga-mesh
+    appears as the fifth member of the first dynasty of Erech and as builder of the
+    wall of Erech.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine creation of a rival to restrain a ruler
+  taxonomy_refs: []
+  basis: The people of Erech appeal to Aruru because of Gilgamesh’s autocratic rule,
+    and Aruru creates Enkidu as a rival who may withstand him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a scholarly summary of the Assyrian version rather than
+    a direct continuous epic narrative.
+- id: motif:2
+  label: Creation from dust
+  taxonomy_refs: []
+  basis: dEnkidu is explicitly said to be formed out of dust by Aruru.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only the brief formation detail and does not elaborate
+    ritual, birth, or cosmological context.
+- id: motif:3
+  label: Hero as civic wall-builder
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage cites an inscription naming dGish-bil-ga-mesh as builder of the
+    wall of Erech and also describes him through heroic titles such as warrior and
+    leader.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The culture-hero taxonomy link is tentative because the passage gives
+    a civic building attribution but does not narrate a full civilizing episode.
+- id: motif:4
+  label: Heroic epithet and original hero
+  taxonomy_refs: []
+  basis: Syllabary equations and the passage’s name explanation identify the figure
+    with warrior, leader, seven-fold hero, the one who is a hero, and father-hero/original
+    hero language.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is primarily lexical and titular evidence, not an action motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Old Babylonian/Assyrian forms such as Gish and Gish-g(n)-mash
+    with Sumerian and non-epic forms such as dGish-bil-ga-mesh, treating the latter
+    as the genuine and presumably oldest Sumerian form.
+  claim_level: linguistic_similarity
+  target: Old Babylonian, Assyrian, Sumerian, dynastic, inscriptional, temple, deity-list,
+    and syllabary forms of the Gilgamesh name.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a philological comparison of name forms, not evidence by itself
+    for a shared narrative motif.
+- id: claim:2
+  claim: The passage presents lexical equations in which different designations of
+    the hero share the functions or meanings of warrior, leader, and hero.
+  claim_level: same_function
+  target: Syllabary designations dGish-gibil(or bl)-ga-mesh, muk-tab-lu, a-lik pa-na,
+    Esigga imin, Esigga-tuk, and Gish-tuk.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is based on lexical equivalence in syllabaries and does
+    not establish narrative equivalence across episodes.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 731-747
+  quote_or_summary: '"we must read the first sign as Gish and the third as Mash";
+    the writing is described as "phonetic" and approximate.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 747-752
+  quote_or_summary: '"depicts dGish-g(n)-mash as a conqueror of Erech, who forces
+    the people into subjection" and refers to his "autocratic rule."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 752-758
+  quote_or_summary: The people "implore the goddess Aruru to create a rival"; "dEnkidu
+    is formed out of dust by Aruru and eventually brought to Erech."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 759-775
+  quote_or_summary: The passage states that dGish-bil-ga-mesh appears in a dynastic
+    list as fifth member of the first dynasty of Erech, in an inscription as builder
+    of the wall of Erech, and in Sumerian epic fragments in the same form.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 776-787
+  quote_or_summary: The syllabary lists dGish-gibil(or bl)-ga-mesh, "warrior," and
+    "leader" as equivalents of Sumerian Esigga imin, "the seven-fold hero."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 788-799
+  quote_or_summary: '"Esigga-tuk and its equivalent Gish-tuk = ''the one who is a
+    hero.''" The same section notes further temple, deity-list, and syllabary name
+    variants.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 800-819
+  quote_or_summary: Bil and Gibil "convey the idea of 'fire,' 'renew'" and revert
+    to pictures of flames; the passage connects Gibil with the fire-god dBil-gi and
+    explains the name as "father-hero" and "hero."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is strong for named figures, roles, and philological comparisons.
+    Motif candidates require review because the passage is primarily a scholarly introduction
+    with embedded summaries rather than a direct mythic narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Literal observations are separated from motif interpretation; no historical-contact or inheritance claims are made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l731-l819
+  passage_sha256=948fc4ea5ea0f664b782b4dff535f579c1a6d544b0ba05cd88139dfe8385ce79
+

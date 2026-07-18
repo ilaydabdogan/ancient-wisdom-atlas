@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l7808-l7919
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: ALVISSMOL / THE BALLAD OF ALVIS / INTRODUCTORY NOTE / NOTES; lines 7808-7919
+  start: '7808'
+  end: '7919'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: The suns rays have power to turn the dwarfs into stone
+  summary: Bellows's notes identify Alvis as an otherwise unattested dwarf seeking
+    Thor's daughter, explain Thor's role and the apparent marriage promise made by
+    the gods, describe Alvis's lore answers about the nine worlds, and emphasize the
+    motif that dwarfs cannot endure sunlight and may be turned to stone by it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Alvis is glossed as “All-Knowing,” identified as a dwarf, and said not to
+    be mentioned elsewhere; the manuscript does not indicate speaker names.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bride in question is Thor's daughter; Thruth is named as the only recorded
+    daughter of Thor, and her mother is Sif.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dwarfs are described as living beyond the reach of the sun, which is fatal
+    to them, and as therefore pale.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thor is called Wagon-guider and is described as habitually traveling on a
+    goat-drawn wagon; Alvis initially does not recognize Thor.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bellows states that the gods apparently promised Thor's daughter in marriage
+    to Alvis during Thor's absence, perhaps as a reward for craftsmanship, while noting
+    textual uncertainty.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A stanza found in late paper manuscripts has Alvis say that he has fared in
+    all nine worlds and has wide wisdom of each.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Bellows summarizes Alvis's thirteen answers as naming men, gods, giants, elves,
+    Wanes, dwarfs, and dwellers in hell or the dead, while criticizing the mythological
+    consistency of the replies.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Thor's questions are said to be regularly abbreviated in the manuscript, and
+    one word in the manuscript is described as uncertain.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Dvalin is identified as a foremost dwarf; the sun deceives him because underground
+    dwarfs cannot live in its light and fear being caught by sunrise.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The sun's rays are said to have power to turn dwarfs into stone; Hrimgerth
+    meets a similar fate, and Alvis is said to suffer in the same way.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:11
+  text: The notes discuss uncertain elemental terms, including a doubtful word translated
+    as flame or mock sun and another word translated as Wildfire that may mean Wave.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Alvis
+  description: An otherwise unattested dwarf whose name is glossed as All-Knowing;
+    he seeks Thor's daughter, is associated with wide lore of the nine worlds, and
+    suffers the sunlight fate of dwarfs.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Thor / Vingthor / Wagon-guider
+  description: The father of the bride; described as traveling habitually on a goat-drawn
+    wagon and as the questioner in the dialogue with Alvis.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Thor's daughter / Thruth
+  description: The bride in question; Thruth is identified as the only recorded daughter
+    of Thor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Sif
+  description: Thor's wife and the mother of Thor's daughter named in the note.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: The gods
+  description: A collective group said to have apparently promised Thor's daughter
+    in marriage to Alvis during Thor's absence; also one of the groups appearing in
+    Alvis's answers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Dwarfs
+  description: Beings described as living beyond the sun, pale because sunlight is
+    fatal to them, and vulnerable to being turned into stone by the sun's rays.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Dvalin
+  description: A foremost dwarf used as an example of a dwarf deceived by the sun
+    and fearful of sunrise.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Hrimgerth
+  description: A giantess said to meet a fate similar to the dwarf petrification caused
+    by sunlight.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: dwarf suitor or claimant
+  assigned_to:
+  - fig:1
+  basis: Alvis is identified as a dwarf, and the notes say Thor's daughter was apparently
+    promised in marriage to him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: divine father of the bride
+  assigned_to:
+  - fig:2
+  basis: The bride is identified as Thor's daughter, and the marriage promise was
+    made during Thor's absence.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: wagon-traveling questioner
+  assigned_to:
+  - fig:2
+  basis: Thor is called Wagon-guider, travels by goat-drawn wagon, and is associated
+    with the questions to Alvis.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: lore holder and answerer
+  assigned_to:
+  - fig:1
+  basis: Alvis is glossed as All-Knowing, and the notes cite his claimed lore of the
+    nine worlds and summarize his thirteen answers.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:5
+  label: promised bride and divine daughter
+  assigned_to:
+  - fig:3
+  basis: The bride is Thor's daughter, and she was apparently promised in marriage
+    to Alvis.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:6
+  label: sunlight-vulnerable dwarf being
+  assigned_to:
+  - fig:1
+  - fig:6
+  - fig:7
+  basis: Dwarfs are said to live away from fatal sunlight; Dvalin fears sunrise; Alvis
+    suffers the same sunlight fate.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: role:7
+  label: mother of the bride
+  assigned_to:
+  - fig:4
+  basis: Sif is identified as Thor's wife and the mother of Thor's daughter.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: divine marriage arrangers
+  assigned_to:
+  - fig:5
+  basis: The gods apparently promised Thor's daughter in marriage to Alvis while Thor
+    was absent.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: parallel sunlight victim
+  assigned_to:
+  - fig:8
+  basis: Hrimgerth is said to meet a fate similar to beings turned to stone by sunlight.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sunlight and sunrise
+  literal_form: sun, sun's rays, sunrise
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: stone transformation
+  literal_form: dwarfs turned into stone by the sun's rays
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: goat-drawn wagon
+  literal_form: Thor's goat-drawn wagon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: nine worlds
+  literal_form: every world; nine worlds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: promised bride
+  literal_form: Thor's daughter promised in marriage to Alvis
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:6
+  label: fire and mock-sun terminology
+  literal_form: flame; mock sun; Wildfire, with Wave as a possible alternative meaning
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Marriage claim over Thor's daughter
+  summary: The notes identify the bride as Thor's daughter, name Sif as her mother,
+    and state that the gods apparently promised the daughter to Alvis during Thor's
+    absence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Question-answer lore of the worlds
+  summary: Thor's questions and Alvis's answers are discussed as a catalogue of names
+    and beings across the nine worlds, with Bellows noting manuscript abbreviation
+    and mythological inconsistency.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Sunlight danger for dwarfs
+  summary: Dwarfs are described as unable to endure the sun; Dvalin fears sunrise,
+    the sun's rays can turn dwarfs into stone, and Alvis suffers this fate, with Hrimgerth
+    cited as a similar case.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Wisdom dialogue over cosmological names
+  taxonomy_refs:
+  - wisdom
+  basis: Alvis is called All-Knowing; a cited late stanza attributes wide wisdom of
+    the nine worlds to him; Bellows describes Thor's questions and Alvis's thirteen
+    answers about beings and names.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is a set of editorial notes rather than the full stanza sequence;
+    Bellows also warns that the mythology of Alvis's replies is inconsistent.
+- id: motif:2
+  label: Sunlight petrifies underground beings
+  taxonomy_refs: []
+  basis: The notes state that dwarfs live beyond fatal sunlight, fear sunrise, and
+    may be turned into stone by the sun's rays; Alvis is said to suffer the same fate.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The extraction relies on Bellows's notes to stanzas 16 and 35, not on
+    the direct quoted stanzas in this passage.
+- id: motif:3
+  label: Divine daughter promised in marriage during father's absence
+  taxonomy_refs:
+  - divine_parent_child
+  - sacred_exchange
+  basis: Thor's daughter is the bride, and the gods apparently promised her in marriage
+    to Alvis during Thor's absence, possibly as a reward for craftsmanship.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: Bellows marks the text as uncertain and the craftsmanship-reward explanation
+    as only possible; the sacred-exchange taxonomy is approximate.
+comparison_claims:
+- id: claim:1
+  claim: Bellows explicitly compares the sunlight fate affecting Alvis and dwarfs
+    with the similar fate of the giantess Hrimgerth.
+  claim_level: same_function
+  target: Hrimgerth in Helgakvitha Hjorvarthssonar 30
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The target passage is only cited by Bellows and is not included in
+    the supplied passage text.
+- id: claim:2
+  claim: Bellows links the nine-world material in Alvissmol with Voluspo 2, supporting
+    a cautious nearby-corpus comparison of nine-world cosmological listing.
+  claim_level: same_motif
+  target: Voluspo 2 and its nine-world reference
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: This is based on an editorial cross-reference; Bellows also cautions
+    that Alvis's replies are mythologically confused.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7808-7919, note 1
+  quote_or_summary: Alvis is “All-Knowing,” a dwarf not elsewhere mentioned; the bride
+    is Thor's daughter, with Thruth named as the only recorded daughter and Sif as
+    her mother.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 7808-7919, note 2
+  quote_or_summary: Dwarfs live beyond the reach of the sun; the sun is fatal to them,
+    and they are necessarily pale.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 7808-7919, note 3
+  quote_or_summary: Wagon-guider is Thor, who travels on a goat-drawn wagon; Alvis
+    does not yet recognize Thor.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 7808-7919, note 4
+  quote_or_summary: The gods apparently promised Thor's daughter to Alvis during Thor's
+    absence, perhaps as a reward for craftsmanship; Bellows notes that the text is
+    uncertain.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 7808-7919, note 8
+  quote_or_summary: 'A late-paper-manuscript stanza says: “Oft have I fared | in the
+    nine worlds all, / And wide is my wisdom of each.”'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 7808-7919, note 10
+  quote_or_summary: Bellows says Alvis gives thirteen answers involving men, gods,
+    giants, elves, Wanes, dwarfs, and dwellers in hell or the dead, but judges the
+    mythology of the replies confused.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 7808-7919, note 11
+  quote_or_summary: Lines of Thor's questions are regularly abbreviated in the manuscript,
+    and a manuscript word is uncertain but seems to mean beheld or known to somebody.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:8
+  type: quote
+  locator: lines 7808-7919, note 16
+  quote_or_summary: The sun deceives Dvalin because underground dwarfs cannot live
+    in its light and fear sunrise; “The suns rays have power to turn the dwarfs into
+    stone,” and Hrimgerth meets a similar fate.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:9
+  type: summary
+  locator: lines 7808-7919, note 35
+  quote_or_summary: Bellows refers again to the inability of dwarfs to endure sunlight,
+    which turns them into stone, and states that Alvis suffers this same way.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:10
+  type: summary
+  locator: lines 7808-7919, notes 14 and 26
+  quote_or_summary: Bellows comments that a doubtful word translated Flame may mean
+    a mock sun, and that Wildfire may mean various things, including Wave.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based only on Bellows's notes in the supplied range. Motif
+    identifications are strongest for wisdom dialogue and sunlight petrification;
+    marriage-exchange classification is more tentative because Bellows marks key details
+    uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external texts or taxonomy identifiers beyond the supplied metadata were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l7808-l7919
+  passage_sha256=bff03025cf32765fe4fd4fda1b2efbae84b67f3d7740122a5d61319567029d1c
+

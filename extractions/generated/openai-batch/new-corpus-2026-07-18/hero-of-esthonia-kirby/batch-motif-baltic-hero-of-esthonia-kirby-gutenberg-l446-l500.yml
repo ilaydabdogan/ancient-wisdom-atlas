@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l446-l500
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: PREFACE / W.F. KIRBY. / INTRODUCTION / ESTHONIA; lines 446-500
+  start: '446'
+  end: '500'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Tähte peig ja Salme neidu, / Pidasivad pulma ilu!
+  summary: 'The passage discusses Estonian phonetics, alphabet order, and linguistic
+    comparison with Finnish, German, and Scandinavian languages. It then gives two
+    Estonian verse specimens: one naming Tähte peig and Salme neidu in a wedding line,
+    and another naming Kalevide poeg and describing his tirelessness, body parts with
+    wood or plant imagery, and iron strength throughout the body.'
+  language: English commentary with Estonian verse excerpts
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary describes modified Estonian vowels and gives their alphabetic
+    order as ü, ä, õ.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary compares Estonian with Finnish, German, and Scandinavian languages,
+    including the forms Vanemuine/Väinämöinen and kannel/kantele.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first Estonian verse excerpt names Tähte peig and Salme neidu in a line
+    about wedding celebration.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The second Estonian verse excerpt names Kalevide poeg and says that he does
+    not tire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The second verse excerpt describes several body parts of Kalevide poeg with
+    wood or plant imagery and ends with iron strength in the whole body.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage frames both verse excerpts as specimens of Estonian language rather
+    than as complete narrative episodes.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Tähte peig
+  description: Named in the Estonian verse excerpt and paired with Salme neidu in
+    a wedding line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Salme neidu
+  description: Named in the Estonian verse excerpt and paired with Tähte peig in a
+    wedding line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Kalevide poeg
+  description: Named in the second Estonian verse excerpt; described as tireless and
+    as having body parts associated with wood or plant imagery and iron strength.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: participant in wedding line
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The verse excerpt names both figures and then states a wedding celebration.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: tireless figure with extraordinary body attributes
+  assigned_to:
+  - fig:3
+  basis: The verse excerpt says Kalevide poeg does not tire and describes his body
+    and strength in extraordinary material terms.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wedding celebration
+  literal_form: pulma ilu / wedding celebration
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tree or wood body imagery
+  literal_form: body parts described through rowan, applewood, maple, elm, currant,
+    and honeysuckle-like terms
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: iron strength
+  literal_form: Raudarammu kõiges kehas / iron strength in the whole body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wedding verse specimen
+  summary: A short Estonian verse excerpt names Tähte peig and Salme neidu and states
+    that they held or participated in wedding celebration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Kalevide poeg body-strength verse specimen
+  summary: A second Estonian verse excerpt names Kalevide poeg, describes him as tireless,
+    associates several body parts with wood or plant imagery, and states that iron
+    strength is in his whole body.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wedding or union of named figures
+  taxonomy_refs: []
+  basis: The excerpt explicitly names two figures and places them in a wedding-celebration
+    line.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a short language specimen; it does not provide
+    broader narrative context or explicit sacred/divine status.
+- id: motif:2
+  label: tireless figure with body of hard natural materials
+  taxonomy_refs: []
+  basis: Kalevide poeg is described as not tiring, with body parts associated with
+    woods or plants and iron strength throughout the body.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is brief and presented as a language specimen, so the full
+    narrative function of these attributes is not established.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Estonian language forms with Finnish and
+    other northern European languages, including the paired forms Vanemuine/Väinämöinen
+    and kannel/kantele.
+  claim_level: linguistic_similarity
+  target: Finnish and other northern European language traditions
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic comparison only; the passage does not support
+    a narrative or motif-equivalence claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 446-460
+  quote_or_summary: The commentary discusses modified vowels, compares pronunciations
+    with German and Scandinavian languages, states Estonian is softer than Finnish,
+    and gives Vanemuine/Väinämöinen and kannel/kantele as examples.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 462-480
+  quote_or_summary: "“Tähte peig ja Salme neidu, / Pidasivad pulma ilu!”"
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: 484-500
+  quote_or_summary: The p.49 Estonian specimen names “Kalevide poeg,” says he does
+    not tire, lists body parts such as torso, shoulders, arms, elbows, finger joints,
+    and fingernails with wood or plant terms, and closes with iron strength in the
+    whole body.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The linguistic commentary is explicit. Motif extraction is limited because
+    the verse excerpts are brief, in Estonian, and presented primarily as language
+    specimens rather than full mythic episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or motif-equivalence claims are made. Taxonomy use is limited to the explicit tree/wood imagery symbol; no sacred-marriage or culture-hero taxonomy assignment is asserted from this excerpt alone.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l446-l500
+  passage_sha256=4bee2312a516285210c8feb6ebcf7b7ce4700ef095ec5083c086d04a7294d361
+

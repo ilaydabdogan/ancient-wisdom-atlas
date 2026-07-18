@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.biblical-deuteronomy-web-classic-l152-l162
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Deuteronomy / Chapter 1; lines 152-162
+  start: '152'
+  end: '162'
+  translation: Deuteronomy
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The addressed group confesses sin, arms for battle, and goes up into the
+    hill country despite Yahweh’s warning not to fight because he is not among them.
+    They are defeated and chased by the Amorites, return to weep before Yahweh, receive
+    no divine hearing, and remain in Kadesh many days.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressed group says they have sinned against Yahweh and intends to go
+    up and fight according to Yahweh’s command.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Every man in the addressed group puts on weapons of war and presumes to go
+    up into the hill country.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yahweh tells the speaker to command the group not to go up or fight because
+    Yahweh is not among them and they may be struck before their enemies.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The group does not listen, rebels against Yahweh’s commandment, and goes up
+    into the hill country.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Amorites who live in the hill country come out against the group, chase
+    them like bees, and beat them down in Seir as far as Hormah.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The group returns and weeps before Yahweh, but Yahweh does not listen or turn
+    his ear to them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The group stays in Kadesh many days.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: addressed group
+  description: The group addressed as “you,” including men who arm themselves and
+    go up into the hill country.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Yahweh
+  description: The deity against whom the group says it has sinned, who warns them
+    not to go up or fight, and who does not listen to their later weeping.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: speaker addressed by Yahweh
+  description: The figure referred to as “me,” who receives Yahweh’s message and speaks
+    it to the group.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Amorites
+  description: The inhabitants of the hill country who come out, chase the group,
+    and beat them down.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: enemies
+  description: The unnamed enemies before whom Yahweh warns the group they may be
+    struck.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: confessing but presumptuous fighters
+  assigned_to:
+  - fig:1
+  basis: They confess sin, arm themselves, and presume to go up into the hill country.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rebels against commandment
+  assigned_to:
+  - fig:1
+  basis: They do not listen and rebel against Yahweh’s commandment.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine war-presence withheld
+  assigned_to:
+  - fig:2
+  basis: Yahweh says he is not among the group and later does not listen to their
+    voice.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: divine message bearer
+  assigned_to:
+  - fig:3
+  basis: Yahweh tells this figure to deliver the warning, and the figure says he spoke
+    to the group.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: opposing force
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The enemies are named in the warning, and the Amorites attack and defeat
+    the group.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: hill country
+  literal_form: hill country
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: weapons of war
+  literal_form: weapons of war put on by every man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bee-like pursuit
+  literal_form: the Amorites chased the group “as bees do”
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: weeping before Yahweh
+  literal_form: returning and weeping before Yahweh
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Kadesh stay
+  literal_form: staying in Kadesh many days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: confession and arming
+  summary: The addressed group admits sin, declares intent to fight, and arms themselves
+    for war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: divine warning against ascent and battle
+  summary: Yahweh instructs the speaker to tell the group not to go up or fight because
+    Yahweh is not among them and they may be struck by enemies.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: rebel ascent into hill country
+  summary: The speaker says the group did not listen, rebelled against Yahweh’s commandment,
+    and went up into the hill country.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: defeat by Amorites
+  summary: The Amorites who live in the hill country attack, chase the group like
+    bees, and beat them down in Seir as far as Hormah.
+  figure_refs:
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: unheard weeping and delay at Kadesh
+  summary: The group returns and weeps before Yahweh, but Yahweh does not listen;
+    the group remains in Kadesh many days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: presumptuous ascent against divine warning
+  taxonomy_refs:
+  - ascent
+  basis: The group is told not to go up, yet presumes and goes up into the hill country.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses physical ascent into hill country; broader symbolic ascent
+    should not be assumed without wider context.
+- id: motif:2
+  label: defeat after rebellion against divine command
+  taxonomy_refs:
+  - divine_judgment
+  - covenant
+  basis: The group rebels against Yahweh’s commandment and is then defeated by the
+    Amorites after Yahweh has warned that he is not among them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents defeat following disobedience, but does not explicitly
+    use the term judgment in these lines.
+- id: motif:3
+  label: unheard lament after disobedience
+  taxonomy_refs:
+  - divine_judgment
+  basis: After returning and weeping before Yahweh, the group is not heard by Yahweh.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states Yahweh does not listen, but does not explain the theological
+    reason in detail within these lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Deuteronomy 1:41 / line 152
+  quote_or_summary: "“We have sinned against Yahweh. We will go up and fight...”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: summary
+  locator: Deuteronomy 1:41 / lines 152-153
+  quote_or_summary: Every man puts on weapons of war and presumes to go up into the
+    hill country.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: Deuteronomy 1:42 / lines 154-155
+  quote_or_summary: Yahweh says not to go up or fight, “for I am not among you,” lest
+    they be struck before enemies.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source; short quotation with summary.
+- id: ev:4
+  type: summary
+  locator: Deuteronomy 1:43 / lines 156-157
+  quote_or_summary: The speaker says the group did not listen, rebelled against Yahweh’s
+    commandment, and went up into the hill country.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: Deuteronomy 1:44 / lines 158-159
+  quote_or_summary: The Amorites came out, “chased you as bees do,” and beat the group
+    down in Seir to Hormah.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source; short quotation with summary.
+- id: ev:6
+  type: summary
+  locator: Deuteronomy 1:45 / lines 160-161
+  quote_or_summary: The group returns and weeps before Yahweh, but Yahweh does not
+    listen or turn his ear to them.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: Deuteronomy 1:46 / line 162
+  quote_or_summary: The group stays in Kadesh many days.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    cautious and limited to the provided taxonomy references. No cross-text comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external context added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-deuteronomy-web-classic__l152-l162
+  passage_sha256=e84ec696678e15c336cb9f927aa28dcc655bc447456fb99f19f5f270f8bc1857
+

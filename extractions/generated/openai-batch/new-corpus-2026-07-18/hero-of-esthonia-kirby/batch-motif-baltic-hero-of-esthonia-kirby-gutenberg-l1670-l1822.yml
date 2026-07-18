@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l1670-l1822
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: CANTO III / THE FATE OF LINDA / CANTO IV / THE ISLAND MAIDEN; lines 1670-1822
+  start: '1670'
+  end: '1822'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After failing to find further traces of his mother, Kalevide swims north
+    toward Finland, rests on a rocky island, and encounters a maiden by a fire under
+    an oak. After learning his lineage, the maiden is terrified and falls from a cliff
+    into the sea. Kalevide searches for her unsuccessfully and departs. Her parents
+    search the sea bottom with a rake and net, recovering unusual objects. A song
+    from the deep describes the maiden seeing shining weapons beneath the sea and
+    meeting an aged copper man who guards the weapons of the sons of Kalev, Alev,
+    and Sulev.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kalevide casts himself into the sea under the stars and swims northward toward
+    Finland after finding no further traces of his mother.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kalevide reaches a small rocky island and lies down on a mossy bank on a projecting
+    rock.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A maiden is seated near a fire at the foot of an oak-tree and sings a love-song.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The maiden cries out after becoming alarmed by Kalevide’s familiarities.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The maiden’s father comes armed with a club, but becomes terrified when he
+    sees Kalevide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The islander asks Kalevide his name and lineage, judging him to be of the
+    race of the gods.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the maiden hears that Kalevide is the son of Kalev and Linda, she is
+    terrified, slips, and falls from the cliff into the sea.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Kalevide plunges into the sea after the maiden and searches for her, but does
+    not find her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The maiden’s parents search the sea bottom for their daughter with a copper-handled
+    rake and a net.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Instead of their daughter, the parents bring up an oak-tree, a fir-tree, an
+    eagle’s egg, an iron helmet, a fish, and a silver dish.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A song from the deep says the maiden saw a golden sword, a silver spear, and
+    a copper crossbow shining beneath the sea.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The song describes an aged copper man with copper headgear, clothing, body,
+    face, and eyes meeting the maiden under the sea.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The copper man identifies himself as guardian of the golden sword, silver
+    spear, and copper crossbow on the ocean bed.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Kalevide
+  description: A giant hero, son of Kalev and Linda, who swims toward Finland, encounters
+    the island maiden, and searches for her after she falls into the sea.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Island maiden
+  description: A fair brown-eyed girl singing near a fire under an oak; she becomes
+    terrified on hearing Kalevide’s lineage and falls from a cliff into the sea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Maiden’s father / islander
+  description: The maiden’s father, who comes with a club, asks Kalevide’s lineage,
+    and later searches the sea for his daughter with a net.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Maiden’s mother
+  description: The maiden’s mother awakes after the father’s cry and searches for
+    her daughter with a long copper-handled rake.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Finnish sorcerer
+  description: A person whom Kalevide asks about, said to have possibly passed the
+    island in a boat on the previous evening; the islander says he has not seen him
+    for weeks.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Aged copper man
+  description: An aged man of copper encountered in the song from the deep; he is
+    described as copper in body, face, eyes, clothing, and gear.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Son of Alev
+  description: Named by the copper man as owner of the silver spear.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Son of Sulev
+  description: Named by the copper man as owner of the copper crossbow.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: heroic swimmer and traveler
+  assigned_to:
+  - fig:1
+  basis: Kalevide swims through the sea toward Finland after seeking traces of his
+    mother.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: failed rescuer
+  assigned_to:
+  - fig:1
+  basis: He plunges into the sea after the fallen maiden and searches for her in vain.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: lost daughter / drowned maiden
+  assigned_to:
+  - fig:2
+  basis: The maiden falls from the cliff into the sea and her parents seek her body.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: island host and lineage-questioner
+  assigned_to:
+  - fig:3
+  basis: The islander questions Kalevide’s name and lineage after seeing him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: parental searcher
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The father and mother search the sea bottom for their lost daughter using
+    a net and rake.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: absent sought sorcerer
+  assigned_to:
+  - fig:5
+  basis: Kalevide asks whether the Finnish sorcerer passed the island by boat, but
+    the islander has not seen him.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: undersea weapon guardian
+  assigned_to:
+  - fig:6
+  basis: The copper man says he keeps and guards the sword, spear, and crossbow on
+    the ocean bed.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: named weapon owner
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The copper man names the son of Alev as owner of the spear and the son of
+    Sulev as owner of the crossbow.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The sea or ocean through which Kalevide swims and into which the maiden
+    falls.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: rocky island
+  literal_form: A small rocky island with a mossy bank on a projecting rock.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire under oak
+  literal_form: A fire at the foot of an oak-tree where the maiden sits.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cliff
+  literal_form: The cliff from which the maiden slips and falls into the sea.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: copper-handled rake
+  literal_form: A rake with a long copper handle used by the mother to search the
+    sea bottom.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: net
+  literal_form: The father’s net used to search the sea bottom.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: recovered sea-bottom objects
+  literal_form: An oak-tree, a fir-tree, an eagle’s egg, an iron helmet, a fish, and
+    a silver dish raked up from the sea.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: undersea weapons
+  literal_form: A golden sword, a silver spear, and a copper crossbow shining beneath
+    the sea.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:9
+  label: copper body and gear
+  literal_form: The copper man’s copper helm, shirt, belt, gauntlets, boots, buckles,
+    body, face, and eyes.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Kalevide swims toward Finland
+  summary: Kalevide, unable to find further traces of his mother, enters the sea by
+    night and swims northward toward Finland.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter on the rocky island
+  summary: Kalevide reaches a rocky island, hears a maiden’s song, and finds her beside
+    a fire beneath an oak-tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Alarm and lineage revelation
+  summary: The maiden becomes alarmed, her father comes with a club, and after asking
+    Kalevide’s lineage learns he is the son of Kalev and Linda.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Maiden falls into the sea
+  summary: On hearing Kalevide’s lineage, the maiden is terrified, slips from the
+    cliff into the sea, and Kalevide searches for her in vain before swimming onward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Parents search the sea bottom
+  summary: The maiden’s parents search the sea bottom with a copper-handled rake and
+    a net, finding unusual objects rather than their daughter.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Song from the deep and copper guardian
+  summary: A song describes the maiden beneath the sea seeing shining weapons and
+    meeting an aged copper man who guards the weapons on the ocean bed.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: heroic departure across water
+  taxonomy_refs:
+  - departure
+  basis: Kalevide leaves the site of his mother-search and swims north through the
+    sea toward Finland.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy label captures the departure aspect; the passage does not
+    frame the swim as a completed quest stage.
+- id: motif:2
+  label: maiden lost beneath the sea
+  taxonomy_refs: []
+  basis: The maiden falls from a cliff into the sea, is not recovered, and is later
+    represented in a song from the deep.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage does not explicitly state whether she is dead, transformed,
+    or alive beneath the sea.
+- id: motif:3
+  label: search for drowned person yields marvelous objects
+  taxonomy_refs: []
+  basis: The parents search the seabed for their daughter but instead recover trees,
+    an eagle’s egg, a helmet, a fish, and a silver dish.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No explicit explanation of the recovered objects is given in this passage.
+- id: motif:4
+  label: undersea guardian of heroic weapons
+  taxonomy_refs: []
+  basis: The deep-sea song introduces an aged copper man guarding a golden sword,
+    silver spear, and copper crossbow on the ocean bed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage identifies owners for the weapons but does not explain how
+    they came to the ocean bed.
+- id: motif:5
+  label: sacred or ominous tree-side encounter
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The maiden’s encounter with Kalevide occurs beside a fire at the foot of
+    an oak-tree, and trees are later recovered from the sea bottom.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: low
+  cautions: The passage names the oak and recovered trees literally but does not explicitly
+    mark them as sacred or axial.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1670-1822; opening paragraph, Kalevide enters sea and swims toward
+    Finland
+  quote_or_summary: Kalevide finds no further trace of his mother, casts himself into
+    the sea beneath the stars, and swims northward toward Finland.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1670-1822; opening paragraph, arrival at island and sight of maiden
+  quote_or_summary: Kalevide reaches a small rocky island, lies on a mossy bank, hears
+    a maiden singing, and sees a fire at the foot of an oak-tree where a fair brown-eyed
+    girl sits.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1670-1822; prose paragraph after island arrival
+  quote_or_summary: The maiden becomes alarmed and cries out; her mother wakes, and
+    her father comes armed with a great club but drops it when he sees the giant.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1670-1822; prose paragraph with lineage question and fall
+  quote_or_summary: Kalevide asks about the Finnish sorcerer; the islander asks his
+    name and lineage, judging him of the race of the gods. When the maiden hears he
+    is son of Kalev and Linda, she is terrified, slips, and falls from the cliff into
+    the sea.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1670-1822; prose paragraph after the maiden’s fall
+  quote_or_summary: The father cries out; Kalevide plunges after the maiden and searches
+    for a long time in vain, then swims toward Finland. The mother comes to the shore
+    and learns her daughter is lost.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1670-1822; prose paragraph on parents’ search
+  quote_or_summary: The mother uses a rake with a long copper handle and the father
+    uses a net to search for their daughter’s body; instead they bring up an oak-tree,
+    a fir-tree, an eagle’s egg, an iron helmet, a fish, and a silver dish.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1670-1822; song from the deep, opening section
+  quote_or_summary: A song from the deep tells that the maiden went down to the sea
+    and saw a golden sword, a silver spear, and a copper crossbow shining beneath
+    the water.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1670-1822; song from the deep, copper man description
+  quote_or_summary: An aged man of copper meets the maiden; his helm, shirt, belt,
+    gauntlets, boots, buckles, neck, body, face, and eyes are described as copper.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1670-1822; song from the deep, guardian’s speech
+  quote_or_summary: The copper man says the sword is the son of Kalev’s, the spear
+    the son of Alev’s, and the crossbow the son of Sulev’s; he keeps and guards them
+    on the ocean bed.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are conservative; taxonomy mapping is limited where the passage gives no explicit
+    interpretive framing. No comparison claims were made because the passage itself
+    does not support an external comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Public-domain passage was summarized rather than extensively quoted.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l1670-l1822
+  passage_sha256=7f4a88c7ac8a7376a476456636de712a07ffe9bc5db232bc5e38b1fa557e0c3a
+

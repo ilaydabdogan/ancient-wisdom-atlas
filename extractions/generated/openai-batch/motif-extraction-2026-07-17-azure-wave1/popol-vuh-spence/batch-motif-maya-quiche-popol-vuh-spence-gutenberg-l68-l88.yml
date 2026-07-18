@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.maya-quiche-popol-vuh-spence-gutenberg-l68-l88
+source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+passage_locator:
+  label: The Popol Vuh / THE POPOL VUH / LEWIS SPENCE; lines 68-88
+  start: '68'
+  end: '88'
+  translation: The Popol Vuh
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter identifies the work as The Popol Vuh, describes it as mythic
+    and heroic sagas of the Kichs of Central America, names Lewis Spence, gives Project
+    Gutenberg production information, and lists David Nutt in London as publisher
+    in 1908.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents the title The Popol Vuh.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the work as mythic and heroic sagas of the Kichs of
+    Central America.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lewis Spence is named after the word “By.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: David Nutt is named in the publication line, with the Sign of the Phoenix,
+    Long Acre, London, and the year 1908.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Project Gutenberg proofreading team note says the book was produced from
+    scanned public-domain material from the Google Books project.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lewis Spence
+  description: Person named in the byline of the title page.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: David Nutt
+  description: Publisher named in the publication line.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Project Gutenberg Proofreading Team
+  description: Team credited in the production note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Kichs of Central America
+  description: People named in the subtitle as associated with the mythic and heroic
+    sagas.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named byline figure
+  assigned_to:
+  - fig:1
+  basis: The passage places Lewis Spence after the word “By.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: publisher
+  assigned_to:
+  - fig:2
+  basis: The passage says the book was published by David Nutt.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: production credit
+  assigned_to:
+  - fig:3
+  basis: The passage credits a Project Gutenberg proofreading team with producing
+    the book from scanned images.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: named subject people
+  assigned_to:
+  - fig:4
+  basis: The subtitle identifies the sagas as those of the Kichs of Central America.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page and publication notice
+  summary: 'The passage supplies bibliographic front matter rather than a mythic narrative
+    scene: title, subtitle, byline, publication details, and production note.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 68, 74
+  quote_or_summary: "“The Popol Vuh” / “THE POPOL VUH”"
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 76-77
+  quote_or_summary: "“The Mythic and Heroic Sagas of the Kichs of Central America”"
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: quote
+  locator: lines 79-81
+  quote_or_summary: "“By” / “LEWIS SPENCE”"
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:4
+  type: quote
+  locator: lines 83-85
+  quote_or_summary: "“Published by David Nutt, at the Sign of the Phoenix, Long Acre,
+    London 1908”"
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:5
+  type: summary
+  locator: lines 70-72
+  quote_or_summary: Production note credits the Project Gutenberg proofreading team
+    and says the book was produced from scanned images of public-domain material from
+    the Google Books project.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; summarized production note.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic front matter, not a mythic narrative passage.
+    No candidate mythological motifs or comparison claims are supported by the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage contains no narrative motif content.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:maya-quiche-popol-vuh-spence-gutenberg__l68-l88
+  passage_sha256=7955cd6286785be7273514e4ac6850653b7a7eb3954f3bf4fd66a02a3e232521
+

@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l3760-l3815
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER VIII. / CHAPTER IX. / CHAPTER X. / CHAPTER XI.; lines 3760-3815
+  start: '3760'
+  end: '3815'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A bereaved mother brings her remaining dying son to Lady St. Mary. Mary
+    instructs her to place the boy in Christ's bed and cover him with Christ's clothes.
+    When the garments of the Lord Jesus Christ reach the boy, his eyes open, he calls
+    to his mother, and asks for bread. The mother credits divine power in Mary and
+    Mary's son, and the narrator identifies the cured boy as Bartholomew.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The episode is set in the city and introduces a woman who has two sick sons.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One of the woman's sons has died and been buried; the other is near death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The woman takes the dying son in her arms to Lady St. Mary and speaks to her
+    while weeping.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman asks Mary for help and asks the Lord to spare her remaining son.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mary pities the woman and tells her to place the boy in Mary's son's bed and
+    cover him with his clothes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy is placed in the bed where Christ lay when his eyes are just closing
+    in death.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the garments of the Lord Jesus Christ reach the boy, his eyes open.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The restored boy calls loudly to his mother, asks for bread, receives it,
+    and sucks it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The mother says she is assured that the powers of God dwell in Mary and that
+    Mary's son can cure children when they touch his garments.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The narrator identifies the cured boy as the one called Bartholomew in the
+    Gospel.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed woman / mother
+  description: A woman in the city with two sons; she brings the surviving dying son
+    to Lady St. Mary and pleads for help.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Dead son
+  description: One of the woman's two sons, described as dead and recently buried.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Dying son / cured boy / Bartholomew
+  description: The woman's other son, near death, placed in Christ's bed, restored
+    when Jesus' garments reach him, and later identified as Bartholomew.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Lady St. Mary / Lady Mary
+  description: The woman addresses her for help; Mary pities the woman and instructs
+    her to use her son's bed and clothes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Christ / Lord Jesus Christ / Mary's son
+  description: Mary's son, whose bed and garments are used in the boy's restoration;
+    the mother says Mary's son can cure children who touch his garments.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: God / Lord addressed in prayer
+  description: The deity addressed by the mother as gracious and merciful, giver of
+    her two sons, and the one from whom she asks that the remaining son be spared.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: supplicant mother
+  assigned_to:
+  - fig:1
+  basis: She carries her dying son to Mary, weeps, and asks for help and relief.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deceased child
+  assigned_to:
+  - fig:2
+  basis: He is one of the two sons and is described as dead and buried.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: dying child restored by contact
+  assigned_to:
+  - fig:3
+  basis: He is near death, placed in Christ's bed, and opens his eyes when Jesus'
+    garments reach him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: compassionate helper and instructor
+  assigned_to:
+  - fig:4
+  basis: Mary pities the mother and gives instructions for placing the boy in her
+    son's bed and clothes.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: sacred child whose bed and garments cure
+  assigned_to:
+  - fig:5
+  basis: The passage says the boy is placed where Christ lay and is restored when
+    the garments of the Lord Jesus Christ reach him; the mother says Mary's son can
+    cure children through his garments.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: divine addressee of petition
+  assigned_to:
+  - fig:6
+  basis: The mother addresses the Lord as gracious and asks him to spare her remaining
+    son.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Gospel-identified cured boy
+  assigned_to:
+  - fig:3
+  basis: The narrator states that the cured boy is the same one called Bartholomew
+    in the Gospel.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Christ's bed
+  literal_form: the bed wherein Christ lay
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: garments of the Lord Jesus Christ
+  literal_form: Christ's clothes or garments reaching the boy
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: bread requested after restoration
+  literal_form: bread asked for and received by the boy
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: two sons
+  literal_form: two sons, one buried and one near death
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: flood of tears
+  literal_form: the mother's flood of tears while addressing Mary
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mother brings the dying child to Mary
+  summary: A woman whose one son is buried and whose other son is near death carries
+    the surviving child to Lady St. Mary and pleads for help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mary directs use of Christ's bed and clothes
+  summary: Mary pities the mother and tells her to place the child in her son's bed
+    and cover him with his clothes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Child restored at contact with Christ's garments
+  summary: The boy is laid in Christ's bed as his eyes are closing in death; when
+    Jesus' garments reach him, his eyes open and he asks his mother for bread.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mother interprets the cure and narrator names the boy
+  summary: The mother says God's powers dwell in Mary and that Mary's son cures children
+    who touch his garments; the narrator identifies the cured boy as Bartholomew.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: maternal lament and petition for a dying child
+  taxonomy_refs: []
+  basis: The mother, having buried one son, carries the other dying son to Mary and
+    asks for help and divine mercy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader comparative
+    link is supplied beyond the episode itself.
+- id: motif:2
+  label: healing through contact with sacred bed and garments
+  taxonomy_refs: []
+  basis: Mary instructs the mother to use Christ's bed and clothes, and the boy's
+    eyes open when the garments of the Lord Jesus Christ reach him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage attributes the cure to contact with Christ's garments and
+    bed but does not give a formal doctrinal explanation.
+- id: motif:3
+  label: miraculous child healer
+  taxonomy_refs:
+  - miraculous_child
+  basis: The mother states that Mary's son can cure children who touch his garments;
+    the episode centers on a child restored through Christ's bed and clothing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Christ is not directly present as an acting speaker in this passage; the
+    healing is mediated by his bed and garments.
+- id: motif:4
+  label: restoration at the threshold of death
+  taxonomy_refs:
+  - resurrection
+  basis: The boy is described as near death and as having his eyes just closed by
+    death, then opening them after contact with Jesus' garments.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage distinguishes the already buried son from the remaining son;
+    the latter's exact status is near-death or at the moment of death, so the resurrection
+    classification should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the cured boy with nearby Gospel tradition by
+    identifying him as the Bartholomew named in the Gospel.
+  claim_level: historical_contact
+  target: Gospel tradition figure Bartholomew
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only a naming identification; it does not quote
+    a Gospel passage or compare a shared healing episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER XI.1-2
+  quote_or_summary: A woman in the city has two sick sons; one is dead and the other
+    lies at the point of death.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: CHAPTER XI.2-4
+  quote_or_summary: The mother carries the dying son to Lady St. Mary in tears, asks
+    Mary for help, and prays that the Lord spare her remaining son after taking the
+    other.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: CHAPTER XI.5
+  quote_or_summary: Mary perceives the mother's sorrow, pities her, and tells her
+    to place the son in Mary's son's bed and cover him with his clothes.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: CHAPTER XI.6
+  quote_or_summary: The boy is placed in the bed where Christ lay; when Jesus' garments
+    reach him as his eyes close in death, his eyes open, he calls to his mother, asks
+    for bread, receives it, and sucks it.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: CHAPTER XI.7
+  quote_or_summary: The mother tells Lady Mary she is assured that God's powers dwell
+    in Mary and that Mary's son can cure children who touch his garments.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: CHAPTER XI.8
+  quote_or_summary: The narrator states that the boy who was cured is the same one
+    called Bartholomew in the Gospel.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal episode is clear. Motif classification is less certain where
+    the boy's condition lies between near-death and death. The comparison claim is
+    limited to the passage's explicit identification of the boy with Gospel Bartholomew.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the provided passage and metadata; no external Gospel details were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l3760-l3815
+  passage_sha256=241a25afe3bd84a8281552105bead77d968345d6508d9ba0c2977331b73df224
+

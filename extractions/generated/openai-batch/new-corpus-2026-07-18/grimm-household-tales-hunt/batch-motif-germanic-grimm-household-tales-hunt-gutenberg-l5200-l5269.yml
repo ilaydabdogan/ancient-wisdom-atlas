@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l5200-l5269
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 5200-5269
+  start: '5200'
+  end: '5269'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man and his wife discuss marrying their daughter Clever Elsie to Hans,
+    who requires that she be wise. Sent to the cellar to draw beer, Elsie sees a pick-axe
+    above the barrel and imagines a future child being killed by it. The servant,
+    boy, mother, and father successively join her lament. Hans descends, hears the
+    explanation, accepts her, and marries her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Clever Elsie is the daughter of a man who wants to get her married, and her
+    parents describe her as sharp or perceptive.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hans comes from a distance to woo Clever Elsie and says he will not have her
+    unless she is really wise.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At dinner, Elsie's mother sends her into the cellar to fetch beer, and Elsie
+    takes a pitcher with her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the cellar, Elsie sets a chair before the barrel, turns the tap, looks
+    at the wall, and sees a pick-axe above her that masons had left there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Elsie weeps because she imagines that, if she marries Hans and has a child,
+    the child may later draw beer in the cellar and be killed by the falling pick-axe.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The maid, the boy, the mother, and the father go down in succession, hear
+    Elsie's explanation, praise Clever Elsie, and join the weeping.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Hans waits upstairs alone, then descends and finds five people screaming and
+    lamenting in the cellar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After Elsie repeats the imagined danger to Hans, Hans says that no more understanding
+    is needed for his household, takes her upstairs, and marries her.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Clever Elsie
+  description: The daughter called Clever Elsie; she is courted by Hans, sent to fetch
+    beer, imagines the future accident, laments in the cellar, and is married by Hans.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Elsie's father / the man
+  description: Elsie's father; he wants her married, calls her sharp enough, later
+    goes into the cellar and joins the lament.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Elsie's mother / the woman
+  description: Elsie's mother; she says she would agree to the marriage if someone
+    would have Elsie, sends Elsie for beer, and later joins the lament.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Hans / the bridegroom
+  description: A man from a distance who woos Elsie, requires that she be really wise,
+    later descends to the cellar and marries her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: The maid / servant
+  description: A servant sent to find Elsie in the cellar; she hears Elsie's explanation,
+    praises her, and joins the weeping.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: The boy
+  description: A boy sent into the cellar to find Elsie and the maid; he hears the
+    explanation, praises Elsie, and joins the lament.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Hypothetical future child
+  description: The child Elsie imagines she and Hans might have; in the imagined scenario,
+    the child grows big, draws beer in the cellar, and is killed by the falling pick-axe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: daughter and bride candidate
+  assigned_to:
+  - fig:1
+  basis: Elsie is introduced as the man's daughter, and her father says they will
+    get her married.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: suitor and bridegroom
+  assigned_to:
+  - fig:4
+  basis: Hans comes to woo Elsie, stipulates that she must be wise, and later marries
+    her.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: parent
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage identifies Elsie's father and mother in the marriage discussion
+    and household scenes.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: messenger sent into the cellar
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The maid and the boy are each sent downstairs to see why others have not
+    returned.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: imagined endangered child
+  assigned_to:
+  - fig:7
+  basis: Elsie repeatedly describes a future child who might be killed by the pick-axe
+    while drawing beer.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: participant in cellar lament
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: Elsie begins the lament, and the maid, boy, mother, and father each sit down
+    and weep with her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: cellar
+  literal_form: cellar
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: pick-axe above the barrel
+  literal_form: pick-axe left above the cellar beer barrel
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: beer-drawing task
+  literal_form: pitcher, barrel, can, and tap used to draw beer
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Marriage negotiation and wisdom requirement
+  summary: Elsie's parents discuss marrying her, and Hans arrives to woo her while
+    requiring that she be really wise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beer errand and discovery in the cellar
+  summary: Elsie is sent to fetch beer, arranges herself before the barrel, turns
+    the tap, and notices the pick-axe left above her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Imagined future accident
+  summary: Elsie imagines that a future child of hers and Hans's could be sent to
+    draw beer and killed by the falling pick-axe, and she begins to weep and scream.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cumulative household lament
+  summary: The maid, boy, mother, and father descend in sequence to find out what
+    happened; each hears the explanation, praises Elsie, and joins the lament.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Hans hears the lament and marries Elsie
+  summary: Hans descends after waiting, finds five people lamenting, hears Elsie's
+    account of the possible future accident, and marries her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Wisdom or cleverness tested in marriage
+  taxonomy_refs:
+  - wisdom
+  basis: Hans makes Elsie's wisdom a condition of marriage, the household repeatedly
+    praises her as clever, and Hans accepts her after hearing the cellar explanation.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference is applied functionally and ironically; the passage
+    uses words such as wise, sharp, and clever, but the extracted motif label is interpretive.
+- id: motif:2
+  label: Imagined future misfortune treated as present grief
+  taxonomy_refs: []
+  basis: Elsie mourns a possible future death of a child not yet born, and the other
+    household members join the grief after hearing the same explanation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive motif candidate without an available taxonomy identifier.
+- id: motif:3
+  label: Successive messengers join instead of returning
+  taxonomy_refs: []
+  basis: The maid, boy, mother, and father are sent or go down one after another;
+    each remains in the cellar and joins the lament rather than returning with beer
+    or news.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This describes the passage's cumulative sequence; no claim is made about
+    a specific external tale type.
+- id: motif:4
+  label: Domestic object reimagined as lethal threat
+  taxonomy_refs: []
+  basis: The ordinary cellar task of drawing beer becomes the basis for an imagined
+    fatal accident involving a pick-axe left above the barrel.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The motif candidate depends on interpreting the pick-axe as narratively
+    central rather than merely incidental.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared functionally with the wisdom motif
+    family because the marriage depends on the bride's supposed wisdom and the narrative
+    repeatedly frames Elsie as clever or wise.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional motif classification only; the passage does not
+    itself assert historical contact, common inheritance, or a specific external analogue.
+- id: claim:2
+  claim: The sequence of household members descending one by one and joining the prior
+    group supports comparison with a cumulative repetition pattern.
+  claim_level: same_function
+  target: cumulative messenger-repetition pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to narrative structure visible in the passage
+    and does not identify a formal tale-type number or external corpus parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5200-5208
+  quote_or_summary: Elsie is introduced as a man's daughter; her father wants her
+    married; Hans arrives to woo her but stipulates that she must be really wise,
+    while the parents praise her sharpness.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 5208-5218
+  quote_or_summary: At dinner the mother sends Elsie to the cellar for beer; Elsie
+    takes a pitcher, places herself before the barrel, turns the tap, and sees a pick-axe
+    above her that masons had left there.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 5220-5232
+  quote_or_summary: Elsie weeps over the imagined scenario that if she marries Hans
+    and has a child, the child may later draw beer in the cellar and be killed by
+    the falling pick-axe; the maid finds her and hears the same explanation.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 5232-5241
+  quote_or_summary: The maid praises Clever Elsie and joins the weeping; when the
+    boy is sent down, he finds Elsie and the maid weeping, hears the explanation,
+    praises Elsie, and howls with them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 5242-5257
+  quote_or_summary: The mother and then the father go into the cellar, hear that Elsie's
+    possible future child might be killed by the pick-axe while drawing beer, praise
+    Clever Elsie, and weep with the others.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 5257-5266
+  quote_or_summary: Hans waits upstairs, then descends and finds five people screaming
+    and lamenting; Elsie tells him that a future child of theirs might be sent to
+    draw a drink and have his brains dashed out by the falling pick-axe.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: quote
+  locator: 5266-5269
+  quote_or_summary: Hans says that no more understanding is needed for his household,
+    calls her Clever Elsie, takes her upstairs, and marries her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; brief quotation context summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and require human review, especially the use of the available
+    wisdom taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or common-inheritance claims are made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l5200-l5269
+  passage_sha256=455b3e227517189842e187a5815be2f8ff843e8e5f1c7d125ac6ae2e1bb1271a
+

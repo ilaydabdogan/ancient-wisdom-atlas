@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l16391-l16423
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: THIRTY-THIRD ADVENTURE / THIRTY-FOURTH ADVENTURE / THIRTY-FIFTH ADVENTURE
+    / THIRTY-SIXTH ADVENTURE; lines 16391-16423
+  start: '16391'
+  end: '16423'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman distributes red gold as hire against the foe. Armed warriors advance;
+    Volker says the defenders remain where they are and notes the eagerness of those
+    who accepted the king's bounty. Many attackers call for immediate battle, saying
+    all must perish and only the foredoomed will fall. Twelve hundred men repeatedly
+    assault and are repulsed; the strangers remain unvanquished, blood flows from
+    many mortal wounds, the king's warriors are slain, and their kinsmen lament.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman orders ruddy gold to be carried out on shields and gives it to those
+    who want or will take it as hire against the foe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A large host of warriors goes out in battle-gear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Volker says that the defenders can still be found there and that he has never
+    seen warriors more eager to move to battle after taking the king's bounty.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many warriors call for the knights to come closer, saying that since all must
+    perish it is better to do so at once, and that only the foredoomed warrior falls
+    there.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Spears are thrown and shields quickly appear bristling with them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Twelve hundred stalwart men are repulsed in a bloody onset and then return
+    again.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The strangers deal wounds around them and remain unvanquished.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Blood flows from many deep and mortal wounds, and many warriors are slain.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The warriors who served the mighty king are all slain, and loving kinsmen
+    loudly lament the fallen.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: woman distributing gold
+  description: A female figure orders ruddy gold to be carried on shields and gives
+    it out as hire against the foe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Volker
+  description: A valiant named warrior who speaks from among the defenders, saying
+    they may still be found there.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: warriors who took the king's bounty
+  description: A large armed host eager for battle after accepting bounty; they include
+    many who call for immediate combat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the strangers
+  description: The defending group who wound the attackers and stand unvanquished.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: twelve hundred stalwart men
+  description: A body of twelve hundred men who are repulsed in a bloody onset and
+    return again.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: warriors serving the mighty king
+  description: Warriors in the king's service who are all slain in the battle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: loving kinsmen
+  description: Kinsmen who grieve loudly for friends and warriors fallen in battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: bounty-giver
+  assigned_to:
+  - fig:1
+  basis: She orders gold brought out and gives it to those willing to take it as hire
+    against the foe.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unvanquished defender
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Volker speaks as one of those who remain in place; the strangers are described
+    as standing unvanquished after dealing wounds.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: battle commentator
+  assigned_to:
+  - fig:2
+  basis: Volker comments on the attackers' eagerness and their acceptance of the king's
+    bounty.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: attacking host
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The warriors go forth in battle-gear, urge immediate fighting, throw spears,
+    and repeatedly return after repulse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: fallen royal retainers
+  assigned_to:
+  - fig:6
+  basis: The passage says all warriors who served the mighty king are slain.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: mourners
+  assigned_to:
+  - fig:7
+  basis: The passage describes loud complaint and sorrow from loving kinsmen for the
+    fallen.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ruddy gold as battle hire
+  literal_form: ruddy gold carried on shields and distributed as hire
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: shields used for treasure and war
+  literal_form: shields carrying gold; shields bristling with well-flung spears
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: well-flung spears
+  literal_form: spears thrown so that shields bristle with them
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: flowing blood from mortal wounds
+  literal_form: blood flowing from deep and mortal wounds
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: foredoom in battle speech
+  literal_form: statement that no warrior falls there except one who has been foredoomed
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Distribution of battle hire
+  summary: A woman has ruddy gold carried on shields and gives it out to those who
+    want it or will take it as hire against the foe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warriors advance and Volker comments
+  summary: A large armed host moves out; Volker says the defenders remain present
+    and remarks on the eagerness of warriors who accepted the king's bounty.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Foredoomed combat begins
+  summary: Many warriors urge immediate battle, frame death as inevitable and foredoomed,
+    and throw spears that bristle in shields.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Repeated assault and slaughter
+  summary: Twelve hundred men are repulsed in a bloody attack and return, while the
+    strangers wound them and remain unvanquished; blood flows from mortal wounds.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Royal retainers slain and lamented
+  summary: Many warriors, including all those who served the mighty king, are slain;
+    their friends and kinsmen lament them.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: treasure offered as incentive for lethal attack
+  taxonomy_refs: []
+  basis: The passage centers an offer of ruddy gold as hire against the foe, followed
+    by warriors advancing to battle after taking the king's bounty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the transaction as martial hire; it does not frame
+    the exchange as sacred or ritual.
+- id: motif:2
+  label: foredoomed warriors choose immediate battle
+  taxonomy_refs: []
+  basis: The attackers declare that all must perish and that only the foredoomed fall,
+    using this claim to urge immediate combat.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports the warriors' speech; it does not explain the source
+    or mechanism of doom.
+- id: motif:3
+  label: outnumbered defenders remain unvanquished against repeated assault
+  taxonomy_refs: []
+  basis: Twelve hundred men return after a bloody repulse, while the strangers wound
+    attackers and stand unvanquished.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The exact relative numbers of the defending group are not specified in
+    this excerpt.
+- id: motif:4
+  label: mass death followed by kin-lament
+  taxonomy_refs: []
+  basis: The passage says many are slain, all warriors serving the king are killed,
+    and friends and kinsmen loudly mourn them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The lament is brief and collective rather than an extended formal mourning
+    scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16391-16394; stanza 2130
+  quote_or_summary: A woman orders ruddy gold to be carried out on shields and gives
+    it to whoever wants or will take it; it is described as unprecedented hire against
+    the foe.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 16397-16400; stanza 2131
+  quote_or_summary: A large host goes forth in battle gear; Volker says the defenders
+    remain there and comments that he has not seen warriors more eager for battle
+    after taking the king's bounty.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 16402-16406; stanza 2132
+  quote_or_summary: Many call the knights closer, say all must perish and only the
+    foredoomed fall there, and shields are quickly seen bristling with thrown spears.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 16408-16413; stanza 2133
+  quote_or_summary: Twelve hundred stalwart men are repulsed in a bloody onset and
+    return again; the strangers wound them, remain unvanquished, and blood is visible
+    flowing.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 16415-16418; stanza 2134
+  quote_or_summary: Blood flows from deep mortal wounds; many are slain, all warriors
+    serving the mighty king are killed, and friends and kinsmen loudly mourn them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied public-domain passage.
+    Motif labels are descriptive and not mapped to supplied taxonomy families because
+    the excerpt does not clearly support those higher-level categories. No comparison
+    claims were added because the passage itself does not make or support a specific
+    comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only provided passage text and metadata were used; named identities outside the excerpt were not inferred.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l16391-l16423
+  passage_sha256=69c3c4f3f3d8c41ca569d0f5810ca54fcdd5f9cd97203ec738d8f98a5b4b6156
+

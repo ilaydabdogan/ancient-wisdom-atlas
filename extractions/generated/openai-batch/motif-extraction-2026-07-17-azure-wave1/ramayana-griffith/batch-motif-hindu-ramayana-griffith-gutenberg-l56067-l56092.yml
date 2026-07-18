@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l56067-l56092
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto CVIII. The Battle. / Canto CIX. The Battle. / Canto CXIV. Vibhishan
+    Consecrated. / Canto CXVI. The Meeting.; lines 56067-56092
+  start: '56067'
+  end: '56092'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama remains stern toward the weeping queen. A pyre is prepared. Sita,
+    called Janak's child, circles her lord, worships the gods, prays to Fire as universal
+    witness to protect her if she has remained faithful, and then enters the flames
+    while the onlookers cry out.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed hero raises mournful eyes and gazes wistfully at Rama.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama's look is described as stern, without pity or mercy for the weeping queen.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: No chieftain dares to meet Rama's eyes or to pray, question, or advise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The word is passed, wood is piled, and Janak's child stands ready to die.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Janak's child slowly paces around her lord and adores the gods with reverent
+    action.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The woman raises suppliant hands and prays humbly to the Lord of Flame.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: She declares that her heart has never strayed from Raghu's son and asks Fire,
+    called universal witness, to protect her body on the pyre and aid her against
+    the charge laid on her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After her prayer, she enters the flame fearlessly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Dames, children, and men who see her fall beneath the fire cry out.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rama / Raghu's son
+  description: The lord on whom the hero gazes; his look is stern and merciless toward
+    the weeping queen; Sita names him as Raghu's son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sita / Janak's child / the weeping queen
+  description: A woman accused by Rama, standing ready to die, circling her lord,
+    praying to Fire, and entering the flames.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Unnamed mournful hero
+  description: A hero who raises mournful eyes and gazes wistfully at Rama.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Chieftains
+  description: A group who do not dare to meet Rama's eyes or to speak to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: The Gods
+  description: Divine beings whom Sita adores with reverent act before praying to
+    Fire.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Fire / Lord of Flame
+  description: The deity or divine force addressed by Sita as universal witness and
+    asked to protect her body on the pyre.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Dames, children, and men
+  description: Onlookers who see Sita fall beneath the fire and raise a piercing cry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: stern lord and accuser
+  assigned_to:
+  - fig:1
+  basis: Rama is described with a stern, merciless look, and Sita says Raghu's son
+    has laid a charge on her.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: accused queen asserting fidelity
+  assigned_to:
+  - fig:2
+  basis: Sita is called the weeping queen and states that her heart has never strayed
+    from Raghu's son while answering a charge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: supplicant entering the pyre
+  assigned_to:
+  - fig:2
+  basis: She raises suppliant hands, prays to the Lord of Flame, asks protection on
+    the pyre, and enters the flame.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: witnesses to the ordeal
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:7
+  basis: The hero, chieftains, and public onlookers are present around the event and
+    react with silence or a cry.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: divine witness invoked for protection
+  assigned_to:
+  - fig:6
+  basis: Sita calls Fire the universal witness and asks Fire to protect her body on
+    the pyre.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fire as witness and ordeal medium
+  literal_form: Fire, Lord of Flame, flame, fury of the fire
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Pyre
+  literal_form: Piled wood and pyre
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Suppliant raised hands
+  literal_form: Raised suppliant hands before prayer
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Pacing around the lord
+  literal_form: Sita slowly paces around her lord before praying
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Stern silence before the pyre
+  summary: The hero mournfully looks at Rama, whose stern gaze prevents chieftains
+    from speaking for the weeping queen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparation and prayer to Fire
+  summary: Wood is piled; Sita stands ready to die, circles her lord, adores the gods,
+    raises her hands, and prays to the Lord of Flame as witness and protector.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Entry into the flames
+  summary: Sita enters the fire fearlessly, and the assembled women, children, and
+    men cry out when they see her fall beneath the flames.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ordeal by fire as divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Sita invokes Fire as universal witness to protect her if her fidelity is
+    true, then enters the flames before witnesses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the act as an appeal to Fire and a pyre ordeal, but
+    it does not include the outcome within this line range.
+- id: motif:2
+  label: public proof of fidelity under accusation
+  taxonomy_refs: []
+  basis: Sita responds to a charge laid by Rama by publicly asserting that her heart
+    has never strayed and submitting herself to the pyre before onlookers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exact nature of the charge and its resolution are outside the supplied
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 56067-56072
+  quote_or_summary: A mournful hero gazes at Rama; Rama's stern look shows no mercy
+    for the weeping queen, and no chieftain dares to address him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 56073-56080
+  quote_or_summary: The word is passed and wood is piled; Janak's child stands ready
+    to die, circles her lord, adores the gods, raises suppliant hands, and prays to
+    the Lord of Flame.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 56081-56086
+  quote_or_summary: Sita says her heart has never strayed from Raghu's son and asks
+    Fire, the universal witness, to protect her body on the pyre and aid her against
+    Rama's charge.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 56087-56092
+  quote_or_summary: Sita enters the flame fearlessly; women, children, and men cry
+    out when they see her fall, adorned with gems and bright attire, beneath the fire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif labeling is
+    limited because the passage gives the ordeal and prayer but not the outcome. No
+    comparison claims were made because the passage itself supplies no explicit comparative
+    frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy refs applied only where directly supported by the passage and provided taxonomy list.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l56067-l56092
+  passage_sha256=29ccaa501b10467686f1d1e9b4eaa7b2ab3b678dd0bdb7d8ad6a869bd34a186b
+

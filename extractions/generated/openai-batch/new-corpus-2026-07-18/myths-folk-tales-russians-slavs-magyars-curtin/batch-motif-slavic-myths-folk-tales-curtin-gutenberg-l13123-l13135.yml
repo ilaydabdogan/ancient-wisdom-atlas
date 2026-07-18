@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l13123-l13135
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: MAGYAR MYTHS AND FOLK-TALES. / THE POOR MAN, AND THE KING OF THE CROWS. /
+    THE USELESS WAGONER. / MIRKO, THE KING'S SON.; lines 13123-13135
+  start: '13123'
+  end: '13135'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A male figure leads others up a diamond staircase into a castle, where
+    a renowned beautiful princess welcomes them. She summons the old king's other
+    sons and chief courtiers, commands a horse-shoe table that opens by itself and
+    produces food and drink, and the guests feast. The old king becomes satisfied
+    with Mirko, gives him the kingdom and possessions, retires with the Hero of the
+    Plain, and remains joyful. The royal pair live happily and have beautiful children.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male figure leads others by the hands up a diamond staircase into castle
+    halls.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A world-renowned beautiful princess meets and receives the arriving group
+    kindly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The princess sends for the old king's other sons and the chief men of his
+    court.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A great horse-shoe table in the dining hall opens by itself when commanded
+    and displays many kinds of precious food and drink.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The assembled guests feast joyously.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The old king becomes satisfied with Mirko, gives him the kingdom and all his
+    possessions, and withdraws to private life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The old king spends private life with the Hero of the Plain, and the old comrades
+    have many pleasant days together.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The royal pair live happily and have beautiful children.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mirko
+  description: Named as the son with whom the old king is finally satisfied and to
+    whom the old king gives the kingdom and possessions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: world-renowned beautiful princess
+  description: A princess who receives the arrivals kindly, summons the king's other
+    sons and courtiers, and commands the self-opening table.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: old king
+  description: A ruler who becomes satisfied with his son, gives Mirko his kingdom
+    and possessions, and retires to private life with the Hero of the Plain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: old king's other sons
+  description: The old king's other sons are summoned by the princess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: chief men of the old king's court
+  description: The chief men of the old king's court are summoned by the princess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hero of the Plain
+  description: A figure with whom the old king withdraws into quiet private life;
+    the passage calls them old comrades.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: royal pair
+  description: The royal pair are said to live happily and have beautiful children.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recognized royal son and successor
+  assigned_to:
+  - fig:1
+  basis: The old king is satisfied with Mirko and gives him the kingdom and possessions.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: princess host and provider of feast
+  assigned_to:
+  - fig:2
+  basis: The princess receives the arrivals, summons court figures, and commands the
+    table that produces food and drink.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: retiring king and father
+  assigned_to:
+  - fig:3
+  basis: The old king gives his son Mirko the kingdom and then withdraws to private
+    life.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: summoned royal kin and court witnesses
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The princess sends for the old king's other sons and chief men of the court
+    before the feast and royal settlement.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: old comrade in retirement
+  assigned_to:
+  - fig:6
+  basis: The old king withdraws with the Hero of the Plain, and they are described
+    as old comrades.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: happy royal household
+  assigned_to:
+  - fig:7
+  basis: The royal pair live happily and have beautiful children.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: diamond staircase
+  literal_form: A diamond staircase leading up into the castle halls.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: self-opening horse-shoe table
+  literal_form: A great horse-shoe dining table that opens of itself and produces
+    precious food and drink at the princess's command.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: transferred kingdom and possessions
+  literal_form: The kingdom and all possessions given by the old king to Mirko.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arrival at the castle and reception by the princess
+  summary: A male figure leads others up a diamond staircase into the castle, where
+    the beautiful princess receives them kindly.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summoning of kin and court and magical feast
+  summary: The princess summons the old king's other sons and chief courtiers, commands
+    the self-opening horse-shoe table, and the assembled guests feast.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Recognition of Mirko and transfer of rule
+  summary: The old king becomes satisfied with Mirko and gives him the kingdom and
+    all his possessions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Retirement and happy ending
+  summary: The old king retires with the Hero of the Plain, the old comrades live
+    pleasantly, and the royal pair live happily with children.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal succession through paternal recognition
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The old king is finally satisfied with Mirko and transfers the kingdom and
+    all possessions to him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the succession outcome but not the earlier tests or
+    causes of recognition within this line range.
+- id: motif:2
+  label: miraculous feast-producing table
+  taxonomy_refs: []
+  basis: The dining-hall table opens by itself at the princess's command and produces
+    precious food and drink for the guests.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No matching supplied taxonomy reference is available for this object motif.
+- id: motif:3
+  label: happy royal pair with children
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The conclusion states that the royal pair live happily and have beautiful
+    children after the kingdom is given to Mirko.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The identity of the royal pair is implied by the narrative sequence but
+    not explicitly named in the closing sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13123-13125
+  quote_or_summary: A male figure leads others by the hands up a diamond staircase
+    into the castle halls, where a world-renowned beautiful princess receives them
+    kindly.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 13125-13129
+  quote_or_summary: The princess summons the old king's other sons and chief men of
+    court; in the dining hall, a great horse-shoe table opens of itself and produces
+    precious meat and drink at her command.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 13129-13130
+  quote_or_summary: '"Then the assembled guests feasted joyously."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 13130-13134
+  quote_or_summary: The old king becomes satisfied with his son, gives Mirko the kingdom
+    and all possessions, and withdraws to quiet private life with the Hero of the
+    Plain, with whom he spends pleasant days as an old comrade.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 13134-13135
+  quote_or_summary: The royal pair live happily and have beautiful children; the tale
+    closes with the formula that they are still alive if not dead.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a concluding segment with some pronoun references whose antecedents
+    are partly outside the selected line range. Motif candidates are limited to motifs
+    directly supported in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another text or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l13123-l13135
+  passage_sha256=a7ca3e9cbcc35b5672e42de84b0610e4a3ae11bc7099fbe805fceb89d86ef1d6
+

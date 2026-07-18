@@ -1,0 +1,458 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l16992-l17064
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 16992-17064
+  start: '16992'
+  end: '17064'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“it is a wishing-cloak”"
+  summary: A charitable young huntsman receives directions from an old woman to obtain
+    a magical cloak and a bird’s heart that brings daily gold. After he gains these
+    objects and leaves home, a witch and a maiden at a castle deceive him with a drink
+    so that the heart passes to the maiden and the gold passes to her pillow.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A young huntsman goes into the forest, meets an ugly old crone who asks for
+    food and drink, and gives her what he can afford.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old woman tells the huntsman that, in return for his kindness, he will
+    find birds on a tree holding a cloak; she says the cloak can transport its wearer
+    by wishing, and that swallowing the dead bird’s heart will make a gold piece appear
+    under his pillow each morning.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The huntsman finds birds fighting over a piece of cloth, shoots among them,
+    one bird dies, the cloak falls, and he cuts out and swallows the bird’s heart.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the huntsman has swallowed the bird’s heart, a gold piece appears under
+    his pillow each morning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The huntsman leaves his parents and travels through a dense forest to a plain
+    where a fine castle stands.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: At the castle window are an old woman, explicitly called a witch, and a beautiful
+    maiden; the witch says the huntsman has a treasure in his body and tells the maiden
+    how to steal it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The huntsman enters the castle, is courteously entertained, falls in love
+    with the young witch, and does what she desires.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The witch prepares a drink, the maiden gives it to the huntsman, he brings
+    up the bird’s heart after drinking, and the maiden secretly swallows it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the maiden swallows the heart, gold no longer appears under the huntsman’s
+    pillow but appears under the maiden’s pillow, and the old woman takes it away
+    each morning.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young huntsman
+  description: A fresh and joyous huntsman who gives alms, obtains a wishing-cloak
+    and a bird’s heart, receives daily gold, leaves home to see the world, and is
+    later deceived at a castle.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: ugly old crone / wise woman
+  description: An old woman who asks the huntsman for alms and then gives him instructions
+    for obtaining the cloak and bird’s heart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: nine birds / crowd of birds
+  description: Birds sitting in a tree and tearing or fighting over a cloak or piece
+    of cloth; one bird is killed and its heart is swallowed by the huntsman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: old woman witch at the castle
+  description: An old woman at the castle who is called a witch, wants the bird’s
+    heart taken from the huntsman, threatens the maiden, prepares the drink, and later
+    takes the gold from under the maiden’s pillow.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: wonderfully beautiful maiden / young witch
+  description: A beautiful maiden at the castle, addressed by the witch as daughter;
+    she is instructed and threatened, presents the drink to the huntsman, takes the
+    expelled heart, and swallows it.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: charitable giver
+  assigned_to:
+  - fig:1
+  basis: The huntsman has compassion on the hungry and thirsty old woman and gives
+    her what he can afford.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rewarding supernatural helper or instructor
+  assigned_to:
+  - fig:2
+  basis: After receiving alms, the old woman promises a present and gives accurate
+    instructions for obtaining magical benefits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: recipient and bearer of magical gifts
+  assigned_to:
+  - fig:1
+  basis: The huntsman takes the cloak and swallows the bird’s heart, after which he
+    receives daily gold.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: animal holders of magical object and source of magical heart
+  assigned_to:
+  - fig:3
+  basis: The birds hold or fight over the cloak, and one dead bird provides the heart
+    that the huntsman swallows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: instigator of theft by magic or deception
+  assigned_to:
+  - fig:4
+  basis: The witch plans to filch the heart from the huntsman, instructs and threatens
+    the maiden, prepares the drink, and takes the resulting gold.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: deceived or enchanted lover
+  assigned_to:
+  - fig:1
+  basis: The huntsman falls in love, thinks only of the maiden, follows her wishes,
+    and drinks from the cup she offers.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: coerced accomplice and beloved deceiver
+  assigned_to:
+  - fig:5
+  basis: The maiden is threatened and told what part to play, then gives the drink
+    to the huntsman and secretly swallows the heart.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree with nine birds
+  literal_form: a tree where nine birds sit with a cloak in their claws
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wishing-cloak
+  literal_form: cloak or piece of cloth that the old woman says can transport its
+    wearer by wishing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: bird’s heart
+  literal_form: heart cut from the dead bird and swallowed whole
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: gold piece under the pillow
+  literal_form: a gold piece appearing under the pillow each morning
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: prepared drink in a cup
+  literal_form: a drink prepared by the old woman and given in a cup by the maiden
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: castle at the edge of the forest
+  literal_form: a fine castle seen after the huntsman travels through a dense forest
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Alms and promised reward in the forest
+  summary: The huntsman gives alms to an old crone, who responds by instructing him
+    how to obtain a magical cloak and a bird’s heart connected with daily gold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shooting the birds and taking the gifts
+  summary: The huntsman finds birds fighting over the cloth, shoots among them, takes
+    the fallen cloak, and swallows the dead bird’s heart.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gold under the pillow and departure
+  summary: The promised gold appears under the huntsman’s pillow each morning; after
+    collecting gold, he leaves home to see the world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Witch’s plan at the castle
+  summary: At a castle, a witch sees the huntsman coming, identifies the bird’s heart
+    as a treasure in his body, and instructs the maiden to help take it from him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Drink, loss of heart, and transfer of gold
+  summary: The huntsman falls in love with the maiden, drinks the prepared draught,
+    brings up the heart, and loses the daily gold to the maiden and the old woman.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Reward for charity to a mysterious old woman
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The huntsman gives alms to the old crone, who rewards his kindness with instructions
+    leading to magical objects and wealth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the exchange as kindness rewarded, but the taxonomy
+    label is broader than the literal wording.
+- id: motif:2
+  label: Magic cloak grants instant travel by wishing
+  taxonomy_refs: []
+  basis: The old woman identifies the cloak as a wishing-cloak and says that wearing
+    it and wishing will take the bearer to a chosen place instantly.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Within this passage the cloak’s power is described but not yet shown in
+    use.
+- id: motif:3
+  label: Ingested animal heart produces daily gold
+  taxonomy_refs: []
+  basis: The old woman says swallowing the bird’s heart will produce a gold piece
+    under the pillow each morning, and the huntsman later finds the gold there repeatedly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No external motif taxonomy reference is assigned from the available list.
+- id: motif:4
+  label: Departure to see the world after obtaining wealth
+  taxonomy_refs:
+  - departure
+  basis: After gathering gold at home, the huntsman decides to leave and see the world.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative departure rather than a full heroic departure
+    cycle in the passage alone.
+- id: motif:5
+  label: Theft of an internal magical treasure through deception
+  taxonomy_refs:
+  - sacred_theft
+  basis: The witch says the huntsman has a treasure in his body, arranges a drink
+    so he brings up the bird’s heart, and transfers the benefit to the maiden while
+    the old woman takes the gold.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage explicitly describes theft or filching; the term sacred is
+    supplied only by the available taxonomy label.
+- id: motif:6
+  label: Love-induced vulnerability to magical deception
+  taxonomy_refs: []
+  basis: The huntsman becomes so in love with the young witch that he thinks only
+    of her and drinks the cup she offers, enabling loss of the heart.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not state whether the love itself is caused by magic,
+    only that it leaves him befooled and compliant.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16992-17009
+  quote_or_summary: The huntsman gives alms to an old crone; she promises a reward
+    and tells him about a tree with nine birds, a wishing-cloak, and a bird’s heart
+    that will bring daily gold.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 17010-17024
+  quote_or_summary: The huntsman finds birds tearing cloth, shoots among them, one
+    bird dies, the cloak falls, and he cuts out and swallows the bird’s heart.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 17025-17031
+  quote_or_summary: A gold piece appears under the huntsman’s pillow each morning;
+    after gathering gold, he decides to leave home and see the world.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 17032-17043
+  quote_or_summary: After traveling through a dense forest, the huntsman reaches a
+    castle; a witch at the window tells a beautiful maiden to filch the treasure in
+    his body, the bird’s heart, and threatens her if she disobeys.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 17044-17064
+  quote_or_summary: The huntsman enters the castle, falls in love with the young witch,
+    drinks a prepared draught from her, brings up the bird’s heart, and the maiden
+    swallows it; the gold then appears under her pillow and is taken by the old woman.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. Motif labels are cautious; comparison
+    claims are omitted because no explicit cross-text comparison is supported by the
+    passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external tale-type or motif-index identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l16992-l17064
+  passage_sha256=d2e0ccef723d0417f87e41bd57bf76bfd26bd3f9f311c01248b258f08324b443
+

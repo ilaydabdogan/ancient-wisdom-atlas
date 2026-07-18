@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l11136-l11308
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 11136-11308
+  start: '11136'
+  end: '11308'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage narrates a sequence in which Kalevatar finds small objects
+    in a caldron and brings them to Kapo/Osmotar, who magically produces animal helpers.
+    A squirrel is sent to obtain cones and pine shoots for brewing, but these do not
+    ferment the beer. A marten is then sent to gather foam from fighting bears, but
+    this also fails to make the beer effervesce. Finally, a bee is produced from a
+    pod and sent to gather honeyed juices from flowers near a sleeping maid on ocean
+    islands and water-cliffs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Kalevatar steps and turns in the center of a caldron and finds small objects
+    on its bottom: first a splinter, then a birch-chip, then a pod.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: obs:2
+  text: Kalevatar gives each found object to Kapo, who uses magical actions to produce
+    a creature from or after receiving the object.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: obs:3
+  text: Kapo produces a snow-white squirrel and directs it to go to Metsola and Tapio's
+    seat of wisdom to bring cones and pine seedlings while avoiding the eagle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The squirrel travels through trees, reaches Metsola and Tapio's seat of wisdom,
+    avoids the eagle, gathers cones and pine shoots, and brings them to Kapo.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kapo places the selected cones in the beer, but the beer remains without effervescence
+    and is described as cold and lifeless.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Osmotar/Kapo considers what will make the beer foam, sparkle, ferment, and
+    become refreshing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Kapo produces a golden-breasted marten and directs it to the mountain bear-dens
+    and grottoes to gather yeast or foam from the angry lips of fighting bears.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The marten travels over rivers and rocky fissures to the bear-dens, gathers
+    froth from the fighting bears, and brings it to Kapo.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Osmotar uses the bear-foam as a ferment, but it does not make the beer sparkle
+    or effervesce.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Kapo produces a honey-bee from a pod and directs it to ocean islands, water-cliffs,
+    and grottoes where a sleeping maid lies near honey-grasses and fragrant flowers.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The bee is instructed to gather sweet juices and honey from flowers, including
+    the tips of seven petals, and bring it to Kapo/Osmotar.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kalevatar
+  description: A magic or sparkling maiden who moves in the caldron, discovers small
+    objects on its bottom, and brings them to Kapo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Kapo / Osmotar / Osmo's daughter
+  description: A magic virgin or maiden, identified in the passage as beer-preparer
+    and brewer, who creates animal helpers and seeks a ferment for beer.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: snow-white squirrel
+  description: A creature produced by Kapo and sent to gather cones and pine seedlings
+    from the forest realm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: eagle / bird of heaven
+  description: A bird whose seizure or talons threaten the squirrel during its mission.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: golden-breasted marten
+  description: A creature produced by Kapo and sent to gather foam from fighting bears
+    in mountain dens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: wild bears
+  description: Bears in mountain dens whose lips and tongues drip foam or froth of
+    anger while they fight each other.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: honey-bee
+  description: A bee produced from a pod in Kapo's fingers and sent to gather honeyed
+    juices from flowers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: sleeping maid with copper belt
+  description: A maid asleep on ocean islands or near water-cliffs and grottoes, girdled
+    with a belt of copper and lying near honey-grasses and fragrant flowers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: finder and intermediary
+  assigned_to:
+  - fig:1
+  basis: Kalevatar repeatedly finds objects in the caldron and gives them to Kapo.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: magic maker of animal helpers
+  assigned_to:
+  - fig:2
+  basis: Kapo produces a squirrel, a marten, and a bee through magical actions involving
+    the objects brought by Kalevatar.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: beer-preparer seeking ferment
+  assigned_to:
+  - fig:2
+  basis: Osmotar/Kapo is called beer-preparer and brewer and repeatedly seeks a substance
+    that will make beer ferment and sparkle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: animal messenger and gatherer
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:7
+  basis: Each animal is sent by Kapo to a distant place to gather a brewing-related
+    substance and bring it back.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: predatory threat
+  assigned_to:
+  - fig:4
+  basis: The squirrel is warned to avoid the eagle and later is said not to be captured
+    or mangled by it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: source of foam for ferment attempt
+  assigned_to:
+  - fig:6
+  basis: The marten is sent to collect foam or froth from the lips and tongues of
+    fighting bears.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: sleeping figure near honey source
+  assigned_to:
+  - fig:8
+  basis: The bee is sent to a place where a maid sleeps beside honey-grasses and fragrant
+    flowers.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: caldron
+  literal_form: The center and bottom of the caldron where Kalevatar steps, turns,
+    and finds the splinter, chip, and pod.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: small generative objects
+  literal_form: A splinter, a birch-chip, and a pod found on the caldron bottom and
+    given to Kapo before animal helpers appear.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: forest trees, cones, and shoots
+  literal_form: Birch, aspen, pine, willow, sorb, alder, fir-trees, pine-trees, cones,
+    seedlings, and shoots connected with the squirrel's mission.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: bear-dens of the mountain
+  literal_form: Mountain bear-dens, grottoes, iron rocks, rocky fissures, and mountain
+    fastnesses reached by the marten.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  - cave
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: foam and froth of anger
+  literal_form: Foam or froth dripping from the lips and tongues of fighting bears,
+    gathered as a possible ferment.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: ocean islands and water-cliffs
+  literal_form: The islands in the ocean, water-cliffs, and grottoes to which the
+    bee is sent.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  - cave
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: honeyed flowers and seven petals
+  literal_form: Honey-grasses, fragrant flowers, honey-laden herbs, calyces of flowers,
+    and the tips of seven petals from which the bee is told to gather honey.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: copper belt
+  literal_form: The belt of copper girdling the sleeping maid near the honeyed flowers.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Squirrel sent for forest cones
+  summary: Kalevatar finds a splinter in the caldron and gives it to Kapo, who produces
+    a snow-white squirrel and sends it to Metsola and Tapio's seat of wisdom for fir
+    cones and pine seedlings. The squirrel avoids the eagle, brings the materials
+    back, and Kapo places them in the beer, but the beer does not ferment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Marten sent for bear-foam
+  summary: After the first failure, Osmotar/Kapo seeks another ferment. Kalevatar
+    finds a birch-chip and gives it to Kapo, who produces a golden-breasted marten
+    and sends it to mountain bear-dens to gather foam from fighting bears. The marten
+    returns with the foam, but it does not make the beer sparkle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Bee sent for honeyed juices
+  summary: After the second failure, Kalevatar finds a pod in the caldron and gives
+    it to Kapo. Kapo produces a honey-bee from the pod and instructs it to go to ocean
+    islands and water-cliffs where a copper-belted maid sleeps beside honeyed flowers,
+    and to bring honeyed juices back to Kapo/Osmotar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Magical creation of animal helpers from small objects
+  taxonomy_refs: []
+  basis: Kapo produces a squirrel after receiving a splinter, a marten after receiving
+    a birch-chip, and a bee from a pod.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage describes magical production of animals, not transformation
+    of a named figure into an animal.
+- id: motif:2
+  label: Animal helpers sent on ingredient-gathering quests
+  taxonomy_refs:
+  - mystical_quest
+  basis: The squirrel, marten, and bee are each directed to travel to a specified
+    place and gather a substance for Kapo's brewing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage frames the quests as
+    practical brewing missions rather than an explicit initiatory or salvific quest.
+- id: motif:3
+  label: Repeated failed attempts to find a ferment
+  taxonomy_refs: []
+  basis: Cones and bear-foam are both placed in or used for the beer, but neither
+    brings effervescence; a third candidate, honey, is then sought.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The supplied passage ends before showing whether the bee's honey succeeds.
+- id: motif:4
+  label: Brewing knowledge sought through nature substances
+  taxonomy_refs:
+  - wisdom
+  basis: Osmotar/Kapo seeks what will make beer foam, sparkle, and ferment, trying
+    substances from trees, fighting bears, and honeyed flowers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage names Tapio's seat of wisdom and depicts technical discovery,
+    but it does not explicitly call the brewing process wisdom lore.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11136-11178
+  quote_or_summary: Kalevatar finds a splinter in the caldron and gives it to Kapo,
+    who magically produces a snow-white squirrel and instructs it to go through the
+    forest realm to bring fir cones and pine seedlings for Osmo's daughter's beer
+    while avoiding the eagle.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 11179-11207
+  quote_or_summary: The squirrel travels through various trees into Metsola and Tapio's
+    seat of wisdom, finds three pine-trees and three fir-trees, avoids the eagle,
+    brings cones and pine shoots to Kapo, and Kapo places the cones in the beer, but
+    the beer remains without effervescence.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 11208-11216
+  quote_or_summary: Osmotar/Kapo, the beer-preparer and brewer, thinks about what
+    will bring effervescence and make the beer foam, sparkle, ferment, and refresh.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 11217-11257
+  quote_or_summary: Kalevatar finds a birch-chip in the caldron and gives it to Kapo;
+    Kapo magically produces a golden-breasted marten and sends it to mountain bear-dens
+    and grottoes to gather yeast or foam from the angry lips of fighting bears.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 11258-11282
+  quote_or_summary: The marten travels over rivers and rocky fissures to the bear-dens,
+    gathers foam and froth from fighting bears, brings it to Kapo, and Osmotar uses
+    it as ferment, but it does not make the beer sparkle or effervesce.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source text; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 11283-11308
+  quote_or_summary: After further deliberation, Kalevatar finds a pod in the caldron
+    and gives it to Kapo; Kapo magically produces a honey-bee and sends it to ocean
+    islands, water-cliffs, and grottoes where a copper-belted maid sleeps beside honeyed
+    flowers, instructing it to gather honeyed juices from the flowers and seven petals.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source text; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence and figures are explicit in the supplied passage. Motif
+    labels are cautious because the excerpt is a partial brewing episode and ends
+    before the bee's mission is resolved. No intertextual comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available refs and used only where directly or cautiously supported.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l11136-l11308
+  passage_sha256=d582559cd654dc83e79eacee2f1f37e1166c6cf2b3c7bf88b5db9daed0ece255
+

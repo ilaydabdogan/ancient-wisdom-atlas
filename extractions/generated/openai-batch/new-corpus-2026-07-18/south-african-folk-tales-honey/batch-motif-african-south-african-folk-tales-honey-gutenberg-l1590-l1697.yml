@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l1590-l1697
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE LIONESS AND THE OSTRICH / CROCODILE'S TREASON / THE STORY OF A DAM /
+    THE DANCE FOR WATER OR RABBIT'S TRIUMPH; lines 1590-1697
+  start: '1590'
+  end: '1697'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: There was a frightful drought.
+  summary: During a drought, the animals gather and dance in a dry river bed until
+    water rises. Rabbit refuses to dance but later drinks the water and boasts. Tortoise
+    traps Rabbit with a pitch-covered shell disguised as a stone. The animals condemn
+    Rabbit to death, but when Lion swings him by the tail, Rabbit slips free, leaving
+    only white skin and hair in Lion's paw.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A drought dries the rivers and springs, and the animals cannot find water.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The animals hold a gathering, and one suggests going to the dry river bed
+    to dance so they can tread out water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rabbit refuses to join the dance and says the others are mad to try to get
+    water from the ground by dancing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The other animals dance until water comes to the surface, drink, and decide
+    Rabbit should have no water because he did not dance.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Rabbit says he will drink the water anyway, drinks at the river bed in the
+    evening, and later boasts after his footprints are seen.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Old Tortoise proposes that his shell be rubbed with pitch so that he can lie
+    by the water like a stone and make Rabbit's feet stick fast.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Tortoise's pitch-covered shell is placed at the water's edge, and Rabbit mistakes
+    him for a stone.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: Rabbit steps on, strikes, kicks, stamps, hammers with his head, and whips
+    with his tail; each body part sticks to the pitch.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Tortoise carries Rabbit on his back to the other animals, who mock Rabbit.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The animals discuss how Rabbit should die and ask Rabbit how they should kill
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:11
+  text: Rabbit asks not to be killed by being held by the tail and dashed against
+    a stone, and the animals decide on that method.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Lion is selected to carry out the killing because he is described as the most
+    powerful one.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: When Lion swings Rabbit by the tail, the white skin slips off, Lion is left
+    holding skin and hair, and Rabbit is free.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: assembled animals
+  description: A collective of animals gathered during the drought; Lion, Tiger, Wolf,
+    Jackal, and Elephant are named among them.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Rabbit
+  description: Rabbit refuses to dance for water, drinks the water after being excluded,
+    becomes trapped on Tortoise's pitch-covered shell, is condemned, and escapes when
+    swung by the tail.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: old Tortoise
+  description: Old Tortoise proposes and enacts the pitch-shell trap, lies at the
+    water's edge like a stone, and carries the trapped Rabbit back to the animals.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Lion
+  description: Lion is named at the animal gathering and later chosen as the powerful
+    animal who will swing Rabbit by the tail.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: thirsty communal water-seekers
+  assigned_to:
+  - fig:1
+  basis: The animals wander seeking drink, gather to decide what to do, and dance
+    until water rises.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: nonparticipating dissenter
+  assigned_to:
+  - fig:2
+  basis: Rabbit refuses to dance and rejects the plan to get water by dancing.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: excluded drinker
+  assigned_to:
+  - fig:2
+  basis: After the animals decide Rabbit should have no water, he drinks from the
+    water anyway and boasts about it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: resource judges and punishers
+  assigned_to:
+  - fig:1
+  basis: The animals decide Rabbit should have no water, later seek to catch him,
+    and then decide he must die.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: role:5
+  label: condemned escapee
+  assigned_to:
+  - fig:2
+  basis: Rabbit is condemned to die but becomes free when the skin slips off as Lion
+    swings him.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:6
+  label: captor using an adhesive disguise
+  assigned_to:
+  - fig:3
+  basis: Tortoise asks to be rubbed with pitch, lies like a stone, catches Rabbit,
+    and carries him back.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:7
+  label: appointed executioner
+  assigned_to:
+  - fig:4
+  basis: Lion is chosen because he is the most powerful and is given Rabbit to swing
+    by the tail.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water absent in drought, brought to the surface by dancing, then guarded
+    by the animals
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: dry river bed
+  literal_form: the dry river bed where the animals dance and where Rabbit later drinks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: water dance
+  literal_form: collective dancing or treading in the dry river bed to bring water
+    to the surface
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: pitch-covered shell
+  literal_form: Tortoise's shell rubbed with pitch so Rabbit will stick to it
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: stone disguise
+  literal_form: Tortoise lying by the water resembling a stone; Rabbit also names
+    a stone in the proposed death
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: sym:6
+  label: Rabbit's tail and white skin
+  literal_form: Rabbit's tail used by Lion to swing him; the white skin and hair slip
+    off and remain in Lion's paw
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: Drought and animal council
+  summary: The rivers and springs dry up, the animals fail to find water, and a gathering
+    is held to decide what to do.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dance brings water and Rabbit is excluded
+  summary: The animals dance in the dry river bed until water rises. Rabbit refuses
+    to dance, so the others decide he should have no water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rabbit drinks despite the prohibition
+  summary: Rabbit announces he will drink the water, later drinks at the river bed,
+    and boasts after his footprints reveal him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Tortoise's adhesive trap
+  summary: Tortoise is coated with pitch, lies by the water like a stone, and Rabbit
+    becomes stuck when he steps on and strikes him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Captured Rabbit before the animals
+  summary: Tortoise carries the stuck Rabbit back to the animals, who mock him and
+    discuss killing him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Condemnation and escape
+  summary: Rabbit names a death he begs them not to choose, the animals choose it,
+    Lion swings him by the tail, and Rabbit escapes when the white skin slips off.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Drought relieved by collective dancing for water
+  taxonomy_refs: []
+  basis: The animals face drought, agree to dance in a dry river bed, and eventually
+    dance water to the surface.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents the dance as effective but does not explain a ritual
+    system beyond the animals' plan and action.
+- id: motif:2
+  label: Refusal of communal labor followed by forbidden use of the shared resource
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Rabbit refuses to help dance for water, is denied water, yet says he will
+    drink it and later does so.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The broad taxonomy mapping to trickster_boundary is based on Rabbit crossing
+    the group's resource boundary; the passage itself does not use the term trickster.
+- id: motif:3
+  label: Adhesive disguised object traps the transgressor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Tortoise's shell is covered with pitch and made to resemble a stone; Rabbit
+    steps on it and becomes stuck by feet, head, and tail.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage supports the adhesive trap motif directly; the taxonomy reference
+    is broad.
+- id: motif:4
+  label: Condemned captive manipulates the chosen death and escapes
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Rabbit begs not to be killed by being swung by the tail against a stone;
+    the animals choose that method, and Rabbit escapes when his skin slips off.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The mechanism of Rabbit's intention is implied by the outcome but not
+    explicitly explained by the narrator.
+- id: motif:5
+  label: Weak or slow animal captures the elusive offender
+  taxonomy_refs: []
+  basis: Old Tortoise, mocked by the other animals when he offers to catch Rabbit,
+    succeeds through the pitch-shell trap.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage emphasizes Tortoise's slow movement and the others' disbelief,
+    but does not state a moral beyond the animals' mockery of Rabbit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1592-1596
+  quote_or_summary: A frightful drought dries the rivers and springs, and the animals
+    wander without finding water.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1598-1604
+  quote_or_summary: A gathering of animals is held, naming Lion, Tiger, Wolf, Jackal,
+    and Elephant; one suggests going to the dry river bed to dance and tread out water.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:3
+  type: quote
+  locator: lines 1606-1608
+  quote_or_summary: Rabbit says, "I will not go and dance," and calls the plan mad.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1610-1613
+  quote_or_summary: The animals dance water to the surface, drink, and decide Rabbit
+    should have no water because he did not dance.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1615-1621
+  quote_or_summary: Rabbit says he will drink the water anyway, drinks at the river
+    bed in the evening, and boasts the next morning after his footprints are seen.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:6
+  type: summary
+  locator: lines 1627-1641
+  quote_or_summary: Old Tortoise offers to catch Rabbit by having his shell rubbed
+    with pitch and lying near the water so he resembles a stone and Rabbit's feet
+    stick fast.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:7
+  type: summary
+  locator: lines 1643-1661
+  quote_or_summary: Rabbit comes to drink, thinks Tortoise is a stone, and becomes
+    stuck by his feet, head, and tail as he steps on and strikes the pitch-covered
+    Tortoise.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:8
+  type: summary
+  locator: lines 1663-1667
+  quote_or_summary: Tortoise slowly turns and carries Rabbit on his back to the other
+    animals, who laugh at Rabbit and say insolence does not pay.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:9
+  type: summary
+  locator: lines 1669-1671
+  quote_or_summary: The animals seek advice about what to do with Rabbit, say he must
+    die, and propose methods or penalties.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:10
+  type: summary
+  locator: lines 1673-1692
+  quote_or_summary: Asked how he should be killed, Rabbit begs not to be held by the
+    tail and dashed against a stone; the animals choose that method and select Lion
+    because he is the most powerful.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:11
+  type: summary
+  locator: lines 1694-1697
+  quote_or_summary: Lion swings Rabbit by the tail; Rabbit's white skin slips off,
+    Lion holds the bit of skin and hair, and Rabbit is free.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence is clear in the supplied passage. Motif candidates
+    are evidence-based, but taxonomy mappings are broad and should be reviewed. No
+    external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. The pitch footnote marker is present in the passage, but no footnote text was supplied.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l1590-l1697
+  passage_sha256=c0354460703982f4ea0e5299fb0852ed53166b8032d26d9ce656af80433faef4
+

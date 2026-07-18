@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l15707-l15732
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 15707-15732
+  start: '15707'
+  end: '15732'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A good servant plays his fiddle at the gallows, causing officials, a crowd,
+    and dogs to dance uncontrollably. The judge offers him his life if he stops. The
+    servant then threatens the Jew with more fiddling unless he confesses where the
+    money came from; the Jew confesses theft, and the judge has him hanged.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Jew cries out to be tied fast while the good servant takes the fiddle
+    from his neck and prepares to play.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the first scrape of the fiddle, the judge, clerk, hangman, and hangman's
+    men begin to quiver and shake, and the cord falls from the hand of the person
+    about to tie the Jew.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the second scrape, all raise their legs, and the hangman releases the good
+    servant and prepares to dance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At the third scrape, all leap up and begin to dance, with the judge and the
+    Jew described as the best jumpers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: People gathered in the market-place out of curiosity, including old and young
+    and fat and lean, join the dancing.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Dogs that had run there stand on their hind legs and caper about.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: As the servant continues playing, the dancers spring higher, knock their heads
+    against each other, and shriek.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The judge, out of breath, offers the good servant his life if he stops fiddling.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The good servant stops playing, hangs the fiddle around his neck again, and
+    steps down the ladder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The good servant threatens to play again unless the Jew confesses where he
+    got the money.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The Jew confesses that he stole the money and says the servant honestly earned
+    it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The judge orders the Jew taken to the gallows and hanged as a thief.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the good servant
+  description: A servant with a fiddle who plays, stops at the judge's offer, descends
+    the ladder, and uses the threat of more fiddling to demand a confession.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the Jew
+  description: A figure who asks to be tied fast, dances under the fiddle's influence,
+    lies panting, confesses theft, and is hanged as a thief.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the judge
+  description: An official who is made to dance, offers the servant his life for stopping,
+    and later orders the Jew hanged.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the clerk
+  description: The judge's clerk, named among those made to quiver and shake by the
+    fiddle.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the hangman and his men
+  description: Execution officials who are affected by the fiddle; the hangman releases
+    the good servant and prepares to dance.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: market-place crowd
+  description: People gathered out of curiosity in the market-place, described as
+    old and young, fat and lean, who join the dancing.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: dogs
+  description: Dogs that run to the place, stand on their hind legs, and caper about
+    while the fiddle is played.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: fiddle-player causing involuntary dancing
+  assigned_to:
+  - fig:1
+  basis: The servant plays the fiddle, and successive scrapes make officials, the
+    crowd, and dogs move and dance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: person under threat of execution who gains reprieve
+  assigned_to:
+  - fig:1
+  basis: The hangman lets go of him, the judge offers him his life if he stops fiddling,
+    and he steps down the ladder.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: confessing thief
+  assigned_to:
+  - fig:2
+  basis: The Jew confesses that he stole the money and is hanged as a thief.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: legal or execution official
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage identifies the judge, clerk, hangman, and hangman's men in the
+    execution setting.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:5
+  label: compelled dancer
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These figures are described as quivering, jumping, dancing, or capering under
+    the fiddle's influence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: curious onlookers
+  assigned_to:
+  - fig:6
+  basis: The crowd is described as having gathered in the market-place out of curiosity.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fiddle
+  literal_form: Musical instrument worn around the servant's neck and played in three
+    scrapes that compel movement and dancing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: gallows and ladder
+  literal_form: Execution setting from which the servant steps down and to which the
+    Jew is later taken.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: cord
+  literal_form: Cord held by the person about to tie the Jew; it falls from the hand
+    when the fiddle begins.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: market-place
+  literal_form: Public place where curious people gather and join the dancing.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: money
+  literal_form: Money whose source the servant demands the Jew confess; the Jew says
+    he stole it and that the servant honestly earned it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fiddle begins and officials lose control
+  summary: The good servant starts playing the fiddle; at successive scrapes, officials
+    shake, raise their legs, release him, and begin to dance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Market-place and animals join the dance
+  summary: The public crowd in the market-place and the dogs also dance or caper while
+    the fiddle continues, and the dancers collide and shriek.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Judge bargains for the fiddling to stop
+  summary: The exhausted judge offers the servant his life if he stops, and the servant
+    stops playing and descends the ladder.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Confession under threat of renewed music
+  summary: The servant threatens to play again unless the Jew confesses where the
+    money came from, and the Jew says he stole it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Execution of the confessed thief
+  summary: After the confession, the judge has the Jew taken to the gallows and hanged
+    as a thief.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: enchanted music compels dancing
+  taxonomy_refs: []
+  basis: The servant's fiddle causes officials, onlookers, and dogs to quiver, jump,
+    dance, or caper against ordinary control.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly state the fiddle is magical, but the causal
+    sequence presents the music as compelling bodily movement.
+- id: motif:2
+  label: execution interrupted by uncanny performance
+  taxonomy_refs: []
+  basis: While the servant is in an execution setting, the hangman lets go of him
+    after the fiddle is played, and the judge offers him his life if he stops.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The wider reason for the execution threat lies outside the supplied passage.
+- id: motif:3
+  label: forced confession through threat of renewed enchantment
+  taxonomy_refs: []
+  basis: The servant threatens to resume fiddling unless the Jew confesses where the
+    money came from, and the Jew confesses theft.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the confession directly, but prior events concerning
+    the money are outside the supplied lines.
+- id: motif:4
+  label: judicial reversal after confession
+  taxonomy_refs: []
+  basis: After the confession, the figure who confessed theft is taken to the gallows
+    and hanged as a thief.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The full legal context is not present in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15707-15713
+  quote_or_summary: The Jew asks to be tied fast; the servant prepares his fiddle.
+    With the first, second, and third scrapes, the judge, clerk, hangman, and others
+    begin shaking, raising their legs, releasing the servant, and dancing.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 15713-15718
+  quote_or_summary: Curious people in the market-place, along with dogs, join the
+    dancing; continued playing makes the dancers spring higher, collide, and shriek.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15719-15723
+  quote_or_summary: The breathless judge offers the servant his life if he stops fiddling;
+    the servant has compassion, stops, hangs the fiddle around his neck, and steps
+    down the ladder.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 15723-15728
+  quote_or_summary: The servant approaches the panting Jew, threatens to play the
+    fiddle again unless he confesses the source of the money, and the Jew says he
+    stole it but that the servant honestly earned it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 15728-15729
+  quote_or_summary: The judge has the Jew taken to the gallows and hanged as a thief.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    descriptive and do not rely on external tale-type or motif-index identification.
+    No comparison claims are made because the passage itself does not present a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The figure label 'the Jew' follows the wording of the supplied public-domain passage and is recorded descriptively, not endorsed.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l15707-l15732
+  passage_sha256=3eb7f86e67b2280179ec5147551c19406f47d2397ecd4e657fdbc609c6d09c6f
+

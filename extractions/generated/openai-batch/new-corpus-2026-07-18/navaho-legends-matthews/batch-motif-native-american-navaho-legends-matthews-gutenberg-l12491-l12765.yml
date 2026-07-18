@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l12491-l12765
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: FEMALE. / NAVAHO MUSIC. / BY PROF. JOHN COMFORT FILLMORE. / TEXTS AND INTERLINEAR
+    TRANSLATIONS.; lines 12491-12765
+  start: '12491'
+  end: '12765'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Interlinear Navajo song and prayer texts include log/tree songs, words
+    and a song of eagles, a song titled “Song of the Ascension” about corn plants,
+    and a prayer of first dancers from the Night Chant invoking a male deity amid
+    dawn, twilight, clouds, rain, mist, pollen, grasshoppers, rainbow, lightning,
+    thunder, and wings.
+  language: Navajo with English interlinear translation and notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The log/tree songs describe a beautiful tree associated with the speaker or
+    participant; it is put in water, pushed, floats, and moves floating.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Eagle speaks a greeting and thanks to “my child,” names Donikí, and says
+    the child did not throw the younger brother down.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Song of the Eagles describes one who sits at Kinnakíye or Kinníki, rises,
+    will be seen, and will flap.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Song of the Ascension lists corn plants as white, blue, yellow, black,
+    all kinds or colors, and round; in each stanza the ear sticks up and the line
+    “Stay down” is repeated.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Night Chant prayer locates Tse`gíhi in houses made of dawn, evening twilight,
+    dark cloud, male rain, dark mist, female rain, pollen, and grasshoppers.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The prayer places dark mist at the door and identifies a rainbow trail or
+    road, with zigzag lightning and male rain standing high on it.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The prayer addresses a male deity and repeatedly asks cloud, thunder, rain,
+    mist, lightning, rainbow, and wing-related features to come to the speakers.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Eagle or eagles
+  description: An eagle is named as the speaker in “Words of the Eagle,” and the Song
+    of the Eagles describes a figure sitting, rising, and flapping.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Donikí
+  description: Named addressee in the Eagle’s words.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Younger brother
+  description: Mentioned by the Eagle as the addressee’s younger brother who was not
+    thrown down.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hastsébaka, male deity
+  description: A male deity addressed in the Night Chant prayer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: First dancers
+  description: The prayer is identified by its title as a prayer of first dancers
+    from the ceremony of the Night Chant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Speaking or active eagle figure
+  assigned_to:
+  - fig:1
+  basis: The Eagle speaks in section 285, and the eagle song describes sitting, rising,
+    and flapping.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Addressed child
+  assigned_to:
+  - fig:2
+  basis: The Eagle addresses Donikí with “my child” and thanks.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Younger sibling not thrown down
+  assigned_to:
+  - fig:3
+  basis: The Eagle says the addressee did not throw the younger brother down.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Invoked male deity
+  assigned_to:
+  - fig:4
+  basis: The prayer names “Deity male” and asks associated powers or garments to come
+    to the speakers.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: Ritual prayer speakers
+  assigned_to:
+  - fig:5
+  basis: The passage title identifies the text as a prayer of first dancers from the
+    Night Chant.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Beautiful tree or log
+  literal_form: Tree beautiful
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Water
+  literal_form: Water in which the tree is put and floats
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Eagle
+  literal_form: Eagle or eagles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Corn plant and ear
+  literal_form: Corn plants of several colors or kinds, with ears sticking up
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Atmospheric houses
+  literal_form: Houses made of dawn, evening twilight, dark cloud, rain, mist, pollen,
+    and grasshoppers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Rainbow road
+  literal_form: Rainbow trail or road
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Zigzag lightning
+  literal_form: Zigzag lightning standing high and later flung high over the head
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:8
+  label: Cloud, rain, mist, thunder, and wings
+  literal_form: Dark cloud garments, thunder flying high, cloud/rain/mist over the
+    head, and cloud/rain on the wing ends
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Tree or log in water
+  summary: Songs describe a beautiful tree with the speaker or participant being placed
+    in water, pushed, floating, and moving floating.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eagle addresses Donikí
+  summary: The Eagle greets and thanks a child named Donikí and refers to the younger
+    brother not being thrown down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Eagle sits, rises, and flaps
+  summary: The eagle song places a figure at Kinnakíye or Kinníki, where he sits,
+    rises, is seen, and flaps.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Corn in the Song of the Ascension
+  summary: Repeated stanzas list different colors or kinds of corn; the ear sticks
+    up, and the instruction to stay down is repeated.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Night Chant prayer to male deity
+  summary: The prayer of the first dancers describes houses and roads made of atmospheric
+    and ritual substances, then invokes the male deity with clouds, rain, mist, lightning,
+    rainbow, thunder, and wings to come to the speakers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Tree or log moved through water
+  taxonomy_refs: []
+  basis: The songs repeatedly describe a beautiful tree being put in water, pushed,
+    floating, and moving floating.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives song fragments without surrounding narrative, so the
+    function of the tree or log is not explicit.
+- id: motif:2
+  label: Ascension or upward growth checked by command to stay down
+  taxonomy_refs:
+  - ascent
+  basis: The section is titled “Song of the Ascension,” and each stanza describes
+    a corn ear sticking up while repeating “Stay down.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not narrate an ascent event; the motif candidate rests
+    on the title and repeated upward/downward language.
+- id: motif:3
+  label: Invocation of an atmospheric male deity
+  taxonomy_refs: []
+  basis: The prayer addresses a male deity and calls for cloud garments, dark thunder
+    flying high, rain, mist, lightning, rainbow, and wing-associated features to come
+    to the speakers.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No broader mythic episode is provided; the passage is a ritual prayer
+    text.
+- id: motif:4
+  label: Speaking eagle addressing a child
+  taxonomy_refs: []
+  basis: The Eagle greets and thanks a child and mentions the child’s younger brother;
+    the following eagle song describes sitting, rising, and flapping.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The relation between the Eagle, Donikí, and the younger brother is not
+    explained beyond the short utterance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12491-12505; Fifth Song and section 284
+  quote_or_summary: Log/tree songs say “Tree beautiful with me” and describe the tree
+    being put in water, pushed, floating, and moving floating.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: section 285, Words of the Eagle
+  quote_or_summary: "“Greeting, my child! Thanks, my child! ... Your younger brother
+    down you did not throw, Donikí.”"
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: section 286, Song of the Eagles
+  quote_or_summary: The song has meaningless vocables and repeats that at Kinnakíye
+    or Kinníki “there he sits”; when he rises, he still sits; he will be seen and
+    will flap.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: section 287, Song of the Ascension, stanzas I-VI
+  quote_or_summary: Stanzas list corn plants as white, blue, yellow, black, all kinds
+    or colors, and round; each says the ear sticks up greatly to eat and repeats “Stay
+    down.”
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized with brief phrase.
+- id: ev:5
+  type: summary
+  locator: section 288, Prayer of First Dancers, lines 1-9
+  quote_or_summary: The prayer begins at Tse`gíhi and names houses made of dawn, evening
+    twilight, dark cloud, male rain, dark mist, female rain, pollen, and grasshoppers.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: section 288, Prayer of First Dancers, lines 10-13
+  quote_or_summary: Dark mist is at the door; the rainbow is described as a trail
+    or road; zigzag lightning and male rain stand high on it.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: section 288, Prayer of First Dancers, lines 14-29
+  quote_or_summary: The prayer addresses Hastsébaka, “Deity male,” and asks dark-cloud
+    moccasins, leggings, shirt, headdress, enveloping mind, dark thunder, cloud forms,
+    rain, mist, lightning, rainbow, and wing-end cloud/rain forms to come to the speakers.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: citation
+  locator: section 288 title
+  quote_or_summary: The passage title identifies this text as “Prayer of First Dancers
+    from the Ceremony of the Night Chant.”
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source metadata; citation only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a set of song and prayer fragments with interlinear translations
+    and editorial notes. Literal elements are clear, but broader narrative functions
+    and comparative claims require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison beyond local song and ceremony headings.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l12491-l12765
+  passage_sha256=c7e13aa13f808c0733e82e202bec4178a000d6435cb814244799268ecdbff3ef
+

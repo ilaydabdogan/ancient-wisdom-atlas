@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l5552-l5611
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 5552-5611
+  start: '5552'
+  end: '5611'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The second son is rewarded by his miller-master with an ass that drops
+    gold when commanded. At a public-house, the host discovers the animal's power,
+    steals it at night, and substitutes another ass. The son returns to his father
+    expecting to enrich the family, but the substituted animal produces no gold and
+    the deception is discovered.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The second son had apprenticed himself to a miller.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the apprenticeship ended, the master rewarded the son for good conduct
+    with a peculiar ass.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ass neither drew a cart nor carried a sack, but was said to drop gold
+    from its mouth when placed over a cloth and addressed with the word “Bricklebrit.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The apprentice used the ass to obtain gold pieces during his travels.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The apprentice decided to seek his father, believing the gold-ass would make
+    his father forget his anger and receive him well.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At the public-house, the apprentice insisted on stabling the ass himself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The host secretly watched through a hole in the stable wall and saw the ass
+    produce gold after the command was spoken.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: At night the host led away the true ass and tied another ass in its place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The apprentice returned to his father with the substituted ass, believing
+    it to be the gold-ass.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: The father called the relations together after the son promised to make them
+    rich with the ass.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: When the command was spoken before the assembled relations, no gold fell,
+    and the son realized he had been betrayed.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The relations went home as poor as they had come; the father returned to his
+    needle, and the son hired himself to a miller.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: second son / young apprentice
+  description: A son apprenticed to a miller, rewarded with the gold-ass, traveling
+    with it, and later returning to his father.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: master miller
+  description: The master who gives the apprentice a peculiar ass because he conducted
+    himself well.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: gold-ass
+  description: A peculiar ass that drops gold pieces from its mouth when set on a
+    cloth and commanded with “Bricklebrit.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: host of the public-house
+  description: The public-house host who observes the gold-making ass, steals it at
+    night, and substitutes another ass.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: father / old tailor
+  description: The apprentice's father, who welcomes him, gathers the relations, and
+    later returns to work with the needle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: relations
+  description: Family relations called to witness the ass and expected to become rich,
+    but they leave poor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: substituted ass
+  description: Another ass tied up by the host in place of the gold-ass; it produces
+    no gold when commanded.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: apprenticed son and traveler
+  assigned_to:
+  - fig:1
+  basis: He apprentices to a miller, receives the ass, travels, and returns to his
+    father.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: reward-giving master
+  assigned_to:
+  - fig:2
+  basis: He gives the apprentice the peculiar ass because of good conduct.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wealth-producing magical animal
+  assigned_to:
+  - fig:3
+  basis: The ass drops gold pieces when the command is spoken over a cloth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: deceptive host and thief
+  assigned_to:
+  - fig:4
+  basis: The host secretly observes the ass's power and later steals it, replacing
+    it with another ass.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: father and household receiver
+  assigned_to:
+  - fig:5
+  basis: He receives the returning son, calls the relations, and returns to tailoring
+    after the failure.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: family witnesses
+  assigned_to:
+  - fig:6
+  basis: They are called to see the promised enrichment and leave poor after the failed
+    display.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: ordinary substitute animal
+  assigned_to:
+  - fig:7
+  basis: It is tied up in the gold-ass's place and cannot produce gold.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: gold-ass
+  literal_form: An ass that drops gold pieces from its mouth when properly commanded.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Bricklebrit command
+  literal_form: The spoken word “Bricklebrit” used to activate the ass's gold-producing
+    ability.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: cloth / table-cloth
+  literal_form: A cloth spread under the ass before the command is spoken.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: gold pieces / ducats
+  literal_form: Coins dropped by the gold-ass and used by the apprentice to pay for
+    goods.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: public-house stable
+  literal_form: The stable at the public-house where the host observes the ass and
+    later steals it.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reward at the end of apprenticeship
+  summary: The master miller gives the second son a peculiar ass that can produce
+    gold when a cloth is spread and the word “Bricklebrit” is spoken.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The host discovers the ass's power
+  summary: At the public-house, the apprentice pays with gold, then goes to the stable
+    for more money while the curious host secretly watches the ass drop coins.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Night theft and substitution
+  summary: During the night, the host steals the gold-ass from the stable and ties
+    another ass in its place.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Failed home demonstration
+  summary: The apprentice returns to his father, gathers the relations for a promised
+    display of wealth, speaks the command over the substituted ass, and no gold appears.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Rewarded apprentice receives a wealth-producing animal
+  taxonomy_refs: []
+  basis: The master rewards the apprentice's good conduct with an ass that can produce
+    gold.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives no wider ritual or sacred frame for the reward.
+- id: motif:2
+  label: Magic command activates a wondrous animal
+  taxonomy_refs: []
+  basis: The ass produces gold when placed over a cloth and addressed with the command
+    “Bricklebrit.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The command's origin or meaning is not explained in the passage.
+- id: motif:3
+  label: Deceptive host steals and substitutes a magical possession
+  taxonomy_refs: []
+  basis: After spying on the ass's power, the host steals it at night and leaves an
+    ordinary ass in its place.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The theft is of a magical animal, but the passage does not characterize
+    it as sacred.
+- id: motif:4
+  label: Return home with a magical acquisition
+  taxonomy_refs:
+  - return
+  basis: The son decides to seek his father and returns believing he brings the gold-ass
+    that will restore his welcome and enrich the household.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage's return is familial
+    rather than explicitly cosmic or mythic.
+- id: motif:5
+  label: Failed public proof after substitution
+  taxonomy_refs: []
+  basis: The son assembles the relations to witness the ass produce gold, but the
+    substituted animal fails and the deception becomes apparent.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The failure depends on a prior theft rather than on loss of magical power.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly places this episode at the same public-house where
+    the brother's table had been exchanged, supporting an intra-tale repeated pattern
+    of a magical possession being exchanged or substituted there.
+  claim_level: same_function
+  target: Earlier brother's table-exchange episode mentioned within the same tale
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The earlier table episode is only briefly referenced in this passage,
+    so its details cannot be fully compared from the supplied text alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5552-5559
+  quote_or_summary: The second son apprentices to a miller; when his years are over,
+    the master gives him a peculiar ass that drops gold when set over a cloth and
+    addressed with “Bricklebrit.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5560-5567
+  quote_or_summary: The apprentice uses the command to obtain falling gold pieces,
+    travels with a full purse, and decides to seek his father with the gold-ass.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5568-5587
+  quote_or_summary: At the same public-house where his brother's table had been exchanged,
+    the apprentice stables the ass himself; the host becomes curious, spies through
+    a hole, and sees money fall after “Bricklebrit.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5588-5591
+  quote_or_summary: After the guest goes to bed, the host goes to the stable, leads
+    away the gold-producing ass, ties up another ass, and the apprentice departs believing
+    he still has his gold-ass.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5592-5600
+  quote_or_summary: The apprentice reaches his father, says he has brought a gold-ass
+    that drops a sheetful of gold pieces when he says “Bricklebrit,” and asks that
+    all relations be summoned.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5601-5611
+  quote_or_summary: The father calls the relations; the son spreads the cloth and
+    commands the ass, but no gold falls. He sees he was betrayed; the relatives leave
+    poor, the father resumes needlework, and the youth hires himself to a miller.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. The intra-tale comparison
+    rests on the passage's brief reference to the brother's earlier table exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line-level evidence locators follow the supplied 5552-5611 passage range and its line breaks.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l5552-l5611
+  passage_sha256=3fd0707ee2f82ae6a5a8a6badb84fd6ae09541673a22838cf4253ddf752e6717
+

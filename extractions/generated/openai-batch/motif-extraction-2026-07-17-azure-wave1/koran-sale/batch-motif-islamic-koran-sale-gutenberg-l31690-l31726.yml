@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l31690-l31726
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXVIII. / ENTITLED, S.;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 31690-31726
+  start: '31690'
+  end: '31726'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes editorial notes, including a tradition that Dhu'lkefl
+    cared for a hundred Israelites fleeing slaughter and a conjectural link to Obadiah.
+    In the main text, God expels and curses Eblis until judgment. Eblis asks for respite
+    until resurrection, receives respite until a determined time, and vows to seduce
+    all except God's chosen servants. God declares that hell will be filled with Eblis
+    and his followers. The closing address tells the Meccans that no reward is asked
+    for the preaching, and describes the Koran as an admonition to all creatures whose
+    truth will be known after a season.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An editorial note reports a tradition that Dhu'lkefl entertained and cared
+    for a hundred Israelites who fled to him from slaughter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same note derives the name Dhu'lkefl from a verb meaning to maintain or
+    take care of another.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note conjectures that the person intended may have been Obadiah, governor
+    of Ahab's house, and cites I Kings xviii. 4.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: God orders Eblis to depart, says he will be driven away from mercy, and places
+    a curse on him until the day of judgment.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Eblis asks God to grant him respite until the day of resurrection.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God says Eblis will be among those respited until the determined time.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Eblis swears by God's might that he will seduce all of them except God's peculiarly
+    chosen servants.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: God declares the sentence just and says hell will be filled with Eblis and
+    those who follow him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The commanded speaker is told to say to the Meccans that he asks no reward
+    for his preaching and does not assume a part that is not his.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Koran is described as an admonition to all creatures, and the audience
+    is told they will know its truth after a season.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine speaker who expels and curses Eblis, grants respite, declares
+    judgment, and authorizes the preaching statement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Eblis
+  description: Cursed figure driven from mercy who asks for respite and vows to seduce
+    all except chosen servants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Peculiarly chosen servants
+  description: Servants excepted from Eblis's announced seduction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Followers of Eblis
+  description: Those who follow Eblis and are included with him in the announced filling
+    of hell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Commanded preacher or speaker
+  description: Unnamed speaker commanded to address the Meccans and to say that he
+    asks no reward for the preaching.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Meccans
+  description: Audience addressed by the commanded speaker.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: All creatures
+  description: Universal audience for the Koran as admonition.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Dhu'lkefl
+  description: Prophet in an editorially reported tradition who cared for a hundred
+    Israelites fleeing slaughter.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Hundred Israelites
+  description: Group said to have fled from slaughter to Dhu'lkefl and to have been
+    maintained by him.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:10
+  name_or_label: Obadiah, governor of Ahab's house
+  description: Figure whom the editor conjecturally identifies with the person intended
+    by Dhu'lkefl.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine judge and speaker
+  assigned_to:
+  - fig:1
+  basis: God curses Eblis, grants a timed respite, and declares that hell will be
+    filled with Eblis and his followers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: cursed adversary and seducer
+  assigned_to:
+  - fig:2
+  basis: Eblis is driven from mercy, asks for delay, and vows to seduce all except
+    the chosen servants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: protected elect exception
+  assigned_to:
+  - fig:3
+  basis: Eblis explicitly excludes God's peculiarly chosen servants from his vow to
+    seduce.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: condemned followers
+  assigned_to:
+  - fig:4
+  basis: God says hell will be filled with Eblis and those who follow him.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: preacher without reward
+  assigned_to:
+  - fig:5
+  basis: The speaker is instructed to say that no reward is requested for the preaching.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: addressed local audience
+  assigned_to:
+  - fig:6
+  basis: The Meccans are named as the recipients of the commanded address.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: universal recipients of admonition
+  assigned_to:
+  - fig:7
+  basis: The Koran is said to be an admonition to all creatures.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: caretaker of fugitives
+  assigned_to:
+  - fig:8
+  basis: The editorial tradition says Dhu'lkefl maintained a hundred Israelites fleeing
+    slaughter.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: fugitives from slaughter
+  assigned_to:
+  - fig:9
+  basis: The Israelites are described as fleeing to Dhu'lkefl from slaughter.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: conjectural identification target
+  assigned_to:
+  - fig:10
+  basis: The note conjectures that Dhu'lkefl may be Obadiah, governor of Ahab's house.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: final appointed time
+  literal_form: day of judgment, day of resurrection, and determined time
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hell
+  literal_form: hell as the place to be filled with Eblis and his followers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Koran as admonition
+  literal_form: the Koran described as an admonition unto all creatures
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: hundred fugitives
+  literal_form: a hundred Israelites fleeing slaughter
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Editorial tradition of Dhu'lkefl's care for fugitives
+  summary: A note reports that Dhu'lkefl cared for a hundred Israelites fleeing slaughter
+    and conjectures a possible identification with Obadiah.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Expulsion and curse of Eblis
+  summary: God tells Eblis to depart, says he is driven from mercy, and places a curse
+    on him until judgment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Respite and vow of seduction
+  summary: Eblis asks for respite until resurrection; God grants respite until a determined
+    time; Eblis vows to seduce all except chosen servants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sentence of hell for Eblis and followers
+  summary: God declares the sentence true and just and says hell will be filled with
+    Eblis and his followers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Preaching without reward and universal admonition
+  summary: The speaker is instructed to address the Meccans without asking reward;
+    the Koran is described as an admonition to all creatures whose truth will be recognized
+    later.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine curse and final judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: God expels Eblis from mercy, curses him until judgment, and announces hell
+    for him and his followers.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage gives the judgment scene directly; broader doctrinal context
+    is not inferred beyond the supplied text.
+- id: motif:2
+  label: respite until resurrection or appointed time
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: Eblis asks for respite until the day of resurrection, and God grants respite
+    until a determined time.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The exact identity of the determined time is not explained within the
+    passage.
+- id: motif:3
+  label: adversary's vow to seduce with chosen servants excepted
+  taxonomy_refs: []
+  basis: Eblis vows to seduce all except God's peculiarly chosen servants.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No taxonomy reference is assigned because the available list has no exact
+    adversarial-tempter category.
+- id: motif:4
+  label: sacred admonition without payment
+  taxonomy_refs:
+  - wisdom
+  basis: The commanded preacher asks no reward, and the Koran is presented as an admonition
+    to all creatures whose truth will later be known.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The mapping to wisdom is broad; the passage uses the term admonition rather
+    than a developed wisdom narrative.
+- id: motif:5
+  label: protector of fugitives from slaughter
+  taxonomy_refs: []
+  basis: An editorial tradition says Dhu'lkefl cared for a hundred Israelites fleeing
+    slaughter.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is in a translator's note rather than the main Qur'anic speech
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note cautiously conjectures that Dhu'lkefl may correspond to
+    Obadiah, linking the conjecture to care for threatened Israelites and citing I
+    Kings xviii. 4.
+  claim_level: same_function
+  target: Obadiah, governor of Ahab's house / I Kings xviii. 4
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note itself frames the identification as conjectural, and the cited
+    biblical passage is not included in the supplied text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 31690-31726, editorial note on Dhu'lkefl
+  quote_or_summary: The note reports a tradition that Dhu'lkefl cared for a hundred
+    Israelites fleeing slaughter, derives his name from a verb meaning to maintain
+    or care for another, and conjectures a possible identification with Obadiah.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; supplied Project Gutenberg/Sale text.
+- id: ev:2
+  type: summary
+  locator: 'lines 31690-31726, main text: expulsion and curse'
+  quote_or_summary: God orders the addressee to depart, says he is driven from mercy,
+    and places God's curse on him until the day of judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; supplied Project Gutenberg/Sale text.
+- id: ev:3
+  type: summary
+  locator: 'lines 31690-31726, main text: respite request'
+  quote_or_summary: Eblis asks for respite until the day of resurrection, and God
+    says he will be respited until the determined time.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; supplied Project Gutenberg/Sale text.
+- id: ev:4
+  type: summary
+  locator: 'lines 31690-31726, main text: vow of seduction'
+  quote_or_summary: Eblis swears by God's might that he will seduce them all except
+    God's peculiarly chosen servants.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; supplied Project Gutenberg/Sale text.
+- id: ev:5
+  type: summary
+  locator: 'lines 31690-31726, main text: hell sentence'
+  quote_or_summary: God calls the sentence just, says he speaks the truth, and says
+    hell will be filled with Eblis and those who follow him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; supplied Project Gutenberg/Sale text.
+- id: ev:6
+  type: summary
+  locator: 'lines 31690-31726, main text: address to Meccans'
+  quote_or_summary: The commanded address to the Meccans says that no reward is asked
+    for the preaching and that the speaker does not assume a part not belonging to
+    him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; supplied Project Gutenberg/Sale text.
+- id: ev:7
+  type: summary
+  locator: 'lines 31690-31726, main text: Koran as admonition'
+  quote_or_summary: The Koran is described as an admonition to all creatures, and
+    the audience is told that its truth will be known after a season.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; supplied Project Gutenberg/Sale text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Main-text extraction is direct. Motif labels are cautious where no exact
+    taxonomy reference exists. The comparison claim is based only on the translator's
+    conjectural note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Initial editorial notes with unclear referents are not treated as separate motif evidence except where the Dhu'lkefl note supplies a complete tradition within the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l31690-l31726
+  passage_sha256=454c9496647a976d443bcbdedd446ad76db241c0434ade5cea759fc1e65de5e6
+

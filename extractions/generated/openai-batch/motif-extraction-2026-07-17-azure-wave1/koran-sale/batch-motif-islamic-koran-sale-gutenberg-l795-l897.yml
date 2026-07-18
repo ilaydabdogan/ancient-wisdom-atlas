@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l795-l897
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF THE / SECTIONS OF THE PRELIMINARY DISCOURSE / A TABLE OF THE CHAPTERS
+    / THE KORAN.; lines 795-897
+  start: '795'
+  end: '897'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents for the Koran, listing chapters 1 through
+    88 with their English titles, verse counts, and page numbers where provided.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a table of the chapters of the Koran.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entries are ordered by chapter number and give chapter titles, verse counts,
+    and page references where present.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The listed portion begins with chapter 1, titled The Preface or Introduction,
+    and extends through chapter 88, titled The Overwhelming.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: obs:4
+  text: Several chapter titles are personal names or collective figure labels, including
+    Jonas, Hud, Joseph, Abraham, Mary, Lokmn, Mohammed, Noah, The Prophets, and The
+    Genii.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:5
+  text: Several chapter titles are animal or insect labels, including The Cow, Cattle,
+    The Bee, The Ant, and The Spider.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Several chapter titles name places, objects, materials, or natural and celestial
+    phenomena, including The Cave, The Mountain, Thunder, The Star, The Moon, Smoke,
+    Iron, and The Pen.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: Some chapter titles refer to journeys, ritual action, or eschatological-sounding
+    events, including The Night Journey, The Pilgrimage, The Steps, The Resurrection,
+    The Folding up, The Cleaving in Sunder, and The Rending in Sunder.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: The Family of Imrn
+  description: Collective chapter-title referent in chapter 3.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Jonas
+  description: Named chapter-title referent in chapter 10.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hud
+  description: Named chapter-title referent in chapter 11.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Joseph
+  description: Named chapter-title referent in chapter 12.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Abraham
+  description: Named chapter-title referent in chapter 14.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Mary
+  description: Named chapter-title referent in chapter 19.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: The Prophets
+  description: Collective chapter-title referent in chapter 21.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Lokmn
+  description: Named chapter-title referent in chapter 31.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Mohammed
+  description: Named chapter-title referent in chapter 47.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Noah
+  description: Named chapter-title referent in chapter 71.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: The Genii
+  description: Collective or class chapter-title referent in chapter 72.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named chapter-title referent
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: The passage presents these names as chapter titles, without giving narrative
+    actions in this excerpt.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: collective chapter-title referent
+  assigned_to:
+  - fig:1
+  - fig:7
+  - fig:11
+  basis: The passage presents these collective labels as chapter titles, without further
+    description in this excerpt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: The Cave
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: mountain
+  literal_form: The Mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: animal and insect title labels
+  literal_form: The Cow; Cattle; The Bee; The Ant; The Spider
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: celestial and atmospheric title labels
+  literal_form: Thunder; The Star; The Moon; Smoke; The Celestial Signs; The Star
+    which appeareth by Night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: object and material title labels
+  literal_form: The Table; The Ornaments of Gold; Iron; The Pen
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: journey and ritual movement labels
+  literal_form: The Night Journey; The Pilgrimage; The Steps
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:10
+- id: sym:7
+  label: cosmic separation or ending imagery in titles
+  literal_form: The Folding up; The Cleaving in Sunder; The Rending in Sunder
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Table of chapter titles
+  summary: The passage presents an ordered catalogue of Koran chapters 1 through 88,
+    giving title labels and formal chapter data rather than narrating events.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: resurrection named as chapter title
+  taxonomy_refs:
+  - resurrection
+  basis: Chapter 75 is explicitly titled The Resurrection.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The excerpt is only a table of contents; it does not describe the resurrection
+    event or its narrative function.
+- id: motif:2
+  label: journey and pilgrimage title cluster
+  taxonomy_refs: []
+  basis: The table includes chapter titles The Night Journey, The Pilgrimage, and
+    The Steps.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: The passage gives only titles, so no route, ascent, ritual sequence, or
+    narrative journey can be reconstructed from this excerpt alone.
+- id: motif:3
+  label: cave as titled place
+  taxonomy_refs: []
+  basis: Chapter 18 is titled The Cave.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt identifies a cave title but provides no cave scene or action.
+- id: motif:4
+  label: cosmic disruption in chapter titles
+  taxonomy_refs: []
+  basis: The table includes titles such as The Folding up, The Cleaving in Sunder,
+    and The Rending in Sunder.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: These are title labels only; the passage does not state what is folded,
+    cleft, or rent, nor does it give a destruction narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 795-897
+  quote_or_summary: The passage is headed as a table of the chapters of the Koran
+    and lists chapters 1 through 88 with titles, verse counts, and page numbers where
+    supplied.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: within lines 795-897; chapters 10-14
+  quote_or_summary: Chapters 10-14 include the title labels Jonas, Hud, Joseph, Thunder,
+    and Abraham.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: within lines 795-897; chapters 1-7
+  quote_or_summary: Chapters 1-7 include The Preface or Introduction, The Cow, The
+    Family of Imrn, Women, The Table, Cattle, and Al Araf.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: within lines 795-897; chapters 16-23
+  quote_or_summary: Chapters 16-23 include The Bee, The Night Journey, The Cave, Mary,
+    T. H., The Prophets, The Pilgrimage, and The True Believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: within lines 795-897; chapters 26-35
+  quote_or_summary: Chapters 26-35 include The Poets, The Ant, The Story, The Spider,
+    The Greeks, Lokmn, Adoration, The Confederates, Saba, and The Creator.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: within lines 795-897; chapters 43-57
+  quote_or_summary: Chapters 43-57 include The Ornaments of Gold, Smoke, The Kneeling,
+    Mohammed, The Mountain, The Star, The Moon, The Merciful, The Inevitable, and
+    Iron.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: within lines 795-897; chapters 68-76
+  quote_or_summary: Chapters 68-76 include The Pen, The Infallible, The Steps, Noah,
+    The Genii, The Wrapped up, The Covered, The Resurrection, and Man.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: within lines 795-897; chapters 81-88
+  quote_or_summary: Chapters 81-88 include The Folding up, The Cleaving in Sunder,
+    Those who give Short Measure or Weight, The Rending in Sunder, The Celestial Signs,
+    The Star which appeareth by Night, The Most High, and The Overwhelming.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:9
+  type: quote
+  locator: within lines 795-897; chapter 75
+  quote_or_summary: 75. Entitled, The Resurrection; containing 40 verses
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:10
+  type: summary
+  locator: within lines 795-897; chapters 17, 22, and 70
+  quote_or_summary: The chapter-title list includes The Night Journey, The Pilgrimage,
+    and The Steps.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is paratextual, not narrative. Extraction is limited to title
+    labels and catalogue structure; motif candidates should be reviewed against the
+    actual chapter texts before interpretive use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage itself does not support comparison to another text, tradition, or motif family beyond literal title labels.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l795-l897
+  passage_sha256=ddd00b15108a8633a85aee12d22a2747f564b1dd84ea1712027b83d951f83644
+

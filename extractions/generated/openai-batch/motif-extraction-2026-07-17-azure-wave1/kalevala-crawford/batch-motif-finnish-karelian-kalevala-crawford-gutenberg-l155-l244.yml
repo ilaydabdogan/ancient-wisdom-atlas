@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l155-l244
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: DR. J.D. BUCK, / AN ENCOURAGING AND UNSELFISH FRIEND, AND TO HIS AFFECTIONATE
+    FAMILY, / THESE PAGES ARE GRATEFULLY INSCRIBED. / PREFACE; lines 155-244
+  start: '155'
+  end: '244'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface explains the purpose of the English translation, presents ethnographic,
+    geographic, historical, material, and linguistic background for Finland and the
+    Finns, and notes that Kalevala runes often refer to cleansing and healing vapor-baths.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The translator states that the translation aims to present English-speaking
+    readers with the epic beauty, folklore, and mythology of The Kalevala, described
+    as the national epic of the Finns.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Finland is identified with Finnish names Suomi or Suomenmaa, glossed as a
+    swampy region, and is described as a north-western Grand-Duchy bordering Olenetz,
+    Archangel, Sweden, Norway, and the Baltic Sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Finlanders are described as living among marshes, mountains, lakes, rivers,
+    seas, gulfs, islands, and inlets, and as calling themselves Suomilainen or Fen-dwellers.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The climate is described as severe, with seven-month winters in the south
+    and the sun disappearing in northern provinces during December and January.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The inhabitants are described as strong, hardy, mild-tempered, slow to anger,
+    affectionate, honest with strangers, and given to the use of vapor-baths.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The preface states that the runes of The Kalevala often refer to cleansing
+    and healing virtues of vapors in a heated bathroom.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The preface includes historical physical and occupational descriptions of
+    Finns, including now-historical racial classification language, and describes
+    them as steady, laborious, useful in mines, fields, and shipboard, and brave as
+    soldiers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Finns are described as an ancient people who began early to collect and
+    preserve folklore, and ancient authors including Tacitus, Strabo, and Ptolemy
+    are said to mention them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Tacitus is reported as describing the Fenni as poor, without arms, horses,
+    or dwellings, living on herbs, clothing themselves in skins, sleeping on the ground,
+    and using bone-tipped arrows.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The preface says that copper often mentioned in The Kalevala, if taken literally,
+    was probably bronze or hardened copper.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Canon Isaac Taylor and Professor Sayce are reported as arguing for the Finnic
+    origin of the Aryans and for a separation of Aryan from Finnic stock more than
+    five thousand years earlier.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Finnish is described as sonorous and flexible; Magyar or Hungarian is said
+    to show deep-rooted similarity to Finnish; both are identified as Ugrian agglutinative
+    languages; Gothic and Icelandic are said to show traces of Finnish influence.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Finnish is described as having developed vowels, strict euphonic rules, reluctance
+    toward rhyme, preference for alliteration, and an alphabet of nineteen letters.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Finns / Finlanders / Suomilainen
+  description: The national people associated with The Kalevala; described as Fen-dwellers,
+    ancient folklore preservers, and speakers of Finnish.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Tacitus
+  description: Ancient author said to mention the Fenni in De Moribus Germanoram and
+    to describe their way of life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Strabo
+  description: Ancient author said to mention the Finns or related people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ptolemy
+  description: Ancient geographer said to mention the Finns or related people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Canon Isaac Taylor
+  description: Scholar reported as arguing for the Finnic origin of the Aryans.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Professor Sayce
+  description: Scholar reported as arguing for the Finnic origin of the Aryans.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ethnographic subject of the preface
+  assigned_to:
+  - fig:1
+  basis: The preface says a description of the Finns' ethical, linguistic, social,
+    and religious life is needed to understand the poem.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Fen-dwellers and folklore preservers
+  assigned_to:
+  - fig:1
+  basis: The people are described as Suomilainen or Fen-dwellers and as ancient collectors
+    and preservers of folklore.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: ancient external witnesses
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The preface cites these ancient authors as mentioning the Finns or Fenni.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: comparative-language theorists
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage reports that these scholars argued before the British Philological
+    Association for a Finnic origin of the Aryans.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fen or swamp homeland
+  literal_form: Suomi or Suomenmaa glossed as a swampy region; Finland or Fen-land;
+    Suomilainen as Fen-dwellers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water landscape
+  literal_form: Lakes, rivers, seas, gulfs, islands, and inlets in the described Finnish
+    landscape.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mountain landscape
+  literal_form: Mountains included among the landforms where the Finlanders live.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cleansing and healing vapor-bath
+  literal_form: Vapors of the heated bathroom described as having cleansing and healing
+    virtues in Kalevala runes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: copper or bronze material
+  literal_form: Copper often mentioned in The Kalevala is explained as probably bronze
+    or hardened copper.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Prefatory framing of the translation
+  summary: The preface frames the translation as an English presentation of The Kalevala's
+    epic, folklore, and mythology and calls for background on the Finns.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Geographic and social description of the Finns
+  summary: The preface describes Finland as a fen and water-rich northern landscape,
+    describes severe seasonal conditions, and characterizes the inhabitants' social
+    habits, including vapor-baths.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Antiquarian and material contextualization
+  summary: The preface presents ancient notices of the Finns and explains that Kalevala
+    references to copper may refer literally to bronze or hardened copper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Comparative linguistic framing
+  summary: The preface reports scholarly claims about Finnic, Aryan, Magyar, Gothic,
+    and Icelandic linguistic relationships and describes features of the Finnish language.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: cleansing and healing vapor-bath
+  taxonomy_refs: []
+  basis: The passage explicitly states that Kalevala runes often refer to the cleansing
+    and healing virtues of vapors in a heated bathroom.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is reported in the preface as a recurrent feature of the runes; the
+    passage does not provide a specific mythic episode or full narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Magyar or Hungarian bears deep-rooted similarity
+    to Finnish and that both belong to the Ugrian stock of agglutinative languages.
+  claim_level: linguistic_similarity
+  target: Magyar / Hungarian language
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic comparison reported by the preface, not a motif
+    comparison.
+- id: claim:2
+  claim: The passage reports Grimm as showing traces of Finnish influence in Gothic
+    and Icelandic.
+  claim_level: linguistic_similarity
+  target: Gothic and Icelandic languages
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no examples or argument; it only reports the claim.
+- id: claim:3
+  claim: The passage reports Taylor and Sayce as arguing for a Finnic origin of the
+    Aryans and a separation of Aryan from Finnic stock more than five thousand years
+    earlier.
+  claim_level: common_inheritance
+  target: Aryan and Finnic stocks
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an antiquarian theory reported in the preface and is not independently
+    substantiated in the passage; it is not a mythic motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 155-162
+  quote_or_summary: The preface says the translation presents The Kalevala's epic
+    beauty, folklore, and mythology to English-speaking readers and introduces background
+    on the Finns.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 164-177
+  quote_or_summary: Finland is described as Suomi or Suomenmaa, a swampy or Fen-land
+    region; the Finlanders are Fen-dwellers living among marshes, mountains, lakes,
+    rivers, seas, gulfs, islands, and inlets, with severe winters and northern winter
+    darkness.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 179-190
+  quote_or_summary: The inhabitants are characterized by strength, mild temper, honesty,
+    and use of vapor-baths; the runes of The Kalevala are said often to refer to cleansing
+    and healing vapors of the heated bathroom.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 192-198
+  quote_or_summary: The preface gives historical physical and racialized classifications
+    of the Finns and describes them as steady, careful, laborious, and brave soldiers.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 200-211
+  quote_or_summary: The Finns are called ancient folklore preservers; Tacitus, Strabo,
+    and Ptolemy are cited as ancient witnesses, and Tacitus's account of the Fenni's
+    poverty, skins, ground-sleeping, and bone-tipped arrows is summarized.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 213-216
+  quote_or_summary: Copper often mentioned in The Kalevala is explained as probably
+    bronze or hardened copper, with alloy details unknown.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 218-225
+  quote_or_summary: Canon Isaac Taylor and Professor Sayce are reported as arguing
+    for a Finnic origin of the Aryans and for a separation of Aryan from Finnic stock
+    more than five thousand years earlier.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 227-234
+  quote_or_summary: Finnish is described as sonorous and flexible; Magyar/Hungarian
+    is said to be deeply similar to Finnish, both are called Ugrian agglutinative
+    languages, and Gothic and Icelandic are said to show Finnish influence.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:9
+  type: summary
+  locator: lines 236-244
+  quote_or_summary: The preface describes Finnish vowel sequence and euphony, reluctance
+    toward rhyme, preference for alliteration, and a nineteen-letter alphabet with
+    certain letters occurring only in foreign words.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a preface and ethnographic-linguistic introduction rather
+    than a mythic episode. Literal extraction is clear, but motif extraction is limited
+    to the passage's explicit statement about recurring vapor-bath references in Kalevala
+    runes. Comparison claims are reported claims in the source, not independently
+    evaluated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative myth scene is present in this passage. Symbols are treated as literal landscape, material, or ritual objects named by the preface; taxonomy references are used only where supplied and directly supported.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l155-l244
+  passage_sha256=ff6f920b439a0fc4eb39cd1b57c22defeb0ef7bc7169d8042dbc803ca2742c8d
+

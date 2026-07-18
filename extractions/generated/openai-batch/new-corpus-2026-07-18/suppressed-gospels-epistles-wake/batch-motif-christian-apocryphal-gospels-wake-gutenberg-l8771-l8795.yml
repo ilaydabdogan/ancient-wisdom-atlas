@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8771-l8795
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER VI. / CHAPTER VII. / CHAPTER VIII. / CHAPTER IX.; lines 8771-8795
+  start: '8771'
+  end: '8795'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“I have sent you a book decopia verborum. Farewell, dearest Paul.”"
+  summary: A letter headed from Anneus Seneca to Paul says that Seneca had read Paul’s
+    epistles to the Emperor, praises the power of their contents to change men’s minds
+    and former practices, asks Paul to forgive anything imprudently done, and says
+    a book has been sent to Paul.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a letter from Anneus Seneca to Paul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seneca says an earlier letter told Paul that Seneca had read Paul’s epistles
+    to the Emperor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Seneca says the things contained in Paul’s epistles powerfully divert men’s
+    minds from former manners and practices.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Seneca proposes that they begin afresh and asks Paul to forgive anything that
+    had been imprudently acted.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Seneca says he has sent Paul a book called “decopia verborum” and closes with
+    a farewell.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Anneus Seneca
+  description: Named sender of the letter to Paul; reports reading Paul’s epistles
+    to the Emperor and sending a book.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Paul
+  description: Named recipient of the letter; addressed as “dearest Paul” and associated
+    with the epistles mentioned by Seneca.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the Emperor
+  description: Unnamed Emperor to whom Seneca says he read Paul’s epistles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: men
+  description: A general group whose minds Seneca says are diverted from former manners
+    and practices by the contents of the epistles.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: The heading names Anneus Seneca as writing to Paul, and the body uses first-person
+    statements by the sender.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: letter recipient
+  assigned_to:
+  - fig:2
+  basis: The heading addresses Paul, and the closing calls him “dearest Paul.”
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: associated epistle author or owner
+  assigned_to:
+  - fig:2
+  basis: Seneca refers to “your Epistles” when addressing Paul.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: imperial hearer
+  assigned_to:
+  - fig:3
+  basis: Seneca says he read Paul’s epistles to the Emperor.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: morally affected audience
+  assigned_to:
+  - fig:4
+  basis: Seneca states that the contents divert men’s minds from former manners and
+    practices.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: letter
+  literal_form: Seneca’s letter to Paul, including reference to a previous letter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Paul’s Epistles
+  literal_form: Epistles belonging to or associated with Paul, read to the Emperor
+    and described as changing men’s minds
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: book decopia verborum
+  literal_form: A book named “decopia verborum” sent by Seneca to Paul
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Report of epistles read to the Emperor
+  summary: Seneca reminds Paul that he had told him in a previous letter that he read
+    Paul’s epistles to the Emperor, and he comments on the strong effect of their
+    contents on men’s minds and practices.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Request for renewal and gift of a book
+  summary: Seneca asks Paul to forgive anything imprudently done, proposes beginning
+    afresh, and states that he has sent Paul a book.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: teaching that turns people from former conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes the contents of Paul’s epistles as powerfully diverting
+    men’s minds from former manners and practices.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the effect as moral or behavioral transformation but
+    does not explicitly label it as a wisdom motif.
+- id: motif:2
+  label: reconciliation through renewed beginning and forgiveness
+  taxonomy_refs: []
+  basis: Seneca asks that they begin afresh and that Paul forgive anything imprudently
+    acted.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a local epistolary pattern rather than a clearly established mythic
+    motif in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8771-8773
+  quote_or_summary: "“ANNEUS SENECA to PAUL Greeting.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 8775-8779
+  quote_or_summary: Seneca says his letter had acquainted Paul that he had read Paul’s
+    epistles to the Emperor.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8781-8786
+  quote_or_summary: The contents “powerfully divert men’s minds from their former
+    manners and practices.”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:4
+  type: summary
+  locator: lines 8788-8791
+  quote_or_summary: Seneca says to begin afresh and asks Paul to forgive anything
+    imprudently acted.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8793-8795
+  quote_or_summary: "“I have sent you a book decopia verborum. Farewell, dearest Paul.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif identification
+    is limited because the passage is epistolary and contains few mythic-symbolic
+    elements. No comparison claims were made because the passage itself does not support
+    a specific comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references limited to supplied options.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8771-l8795
+  passage_sha256=1dbab8edd3d642ab098c4dcadad63b163b7fec07bf823e5e3bf9be7a9560f8cf
+

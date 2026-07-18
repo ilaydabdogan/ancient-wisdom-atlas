@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.biblical-exodus-web-classic-l1898-l1910
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Footnotes / Chapter 28 / Footnotes / Chapter 29; lines 1898-1910
+  start: '1898'
+  end: '1910'
+  translation: Exodus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Instructions describe daily lamb, meal, oil, wine, and drink offerings
+    as a continual burnt offering at the Tent of Meeting. Yahweh says he will meet
+    and speak there, sanctify the place, Tent, altar, Aaron and his sons, dwell among
+    Israel, and be their God, identifying himself as the one who brought Israel out
+    of Egypt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One lamb is offered with fine flour mixed with beaten oil and wine as a drink
+    offering.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Another lamb is offered in the evening according to the morning meal and drink
+    offerings.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The evening offering is described as a pleasant aroma and an offering made
+    by fire to Yahweh.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The offering is to be a continual burnt offering throughout Israel’s generations
+    at the door of the Tent of Meeting before Yahweh.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Yahweh says he will meet with the people and speak to them at the Tent of
+    Meeting.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Yahweh says he will meet with the children of Israel and the place will be
+    sanctified by his glory.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Yahweh says he will sanctify the Tent of Meeting, the altar, Aaron, and Aaron’s
+    sons.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Aaron and his sons are designated to minister to Yahweh in the priest’s office.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Yahweh says he will dwell among the children of Israel and be their God.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The children of Israel are to know Yahweh as the God who brought them out
+    of Egypt so that he might dwell among them.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: The deity addressed by the offerings; he says he will meet, speak,
+    sanctify, dwell among Israel, and be their God.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: children of Israel
+  description: The collective people with whom Yahweh says he will meet and among
+    whom he will dwell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Aaron and his sons
+  description: Priestly figures whom Yahweh says he will sanctify to minister to him
+    in the priest’s office.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of offering
+  assigned_to:
+  - fig:1
+  basis: The evening offering is made by fire to Yahweh.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sanctifying divine presence
+  assigned_to:
+  - fig:1
+  basis: Yahweh says he will sanctify the place, Tent, altar, Aaron, and Aaron’s sons,
+    and dwell among Israel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: people among whom Yahweh dwells
+  assigned_to:
+  - fig:2
+  basis: Yahweh says he will dwell among the children of Israel and be their God.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: sanctified priests
+  assigned_to:
+  - fig:3
+  basis: Aaron and his sons are sanctified to minister to Yahweh in the priest’s office.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: continual burnt offering
+  literal_form: Daily lamb offerings with meal, oil, wine, and drink offering, maintained
+    throughout generations.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fire offering
+  literal_form: An offering made by fire to Yahweh.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Tent of Meeting
+  literal_form: The place at whose door the continual burnt offering is made and where
+    Yahweh says he will meet and speak.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: altar
+  literal_form: The altar that Yahweh says he will sanctify.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: divine glory
+  literal_form: Yahweh’s glory by which the place is sanctified.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Morning and evening offerings
+  summary: A lamb is offered with flour, oil, and wine; another lamb is offered in
+    the evening according to the morning offering, as a fire offering to Yahweh.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Continual offering at the Tent of Meeting
+  summary: The burnt offering is established throughout generations at the door of
+    the Tent of Meeting, where Yahweh says he will meet and speak with the people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sanctification and divine dwelling
+  summary: Yahweh says he will meet Israel, sanctify the place by his glory, sanctify
+    the Tent, altar, Aaron, and Aaron’s sons, and dwell among Israel as their God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: continual sacrificial offering to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage prescribes morning and evening lamb offerings, including meal
+    and drink offerings, as a continual burnt offering to Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is ritual instruction rather than a narrative episode.
+- id: motif:2
+  label: sanctuary as meeting place for deity and people
+  taxonomy_refs: []
+  basis: Yahweh states that the continual offering occurs at the Tent of Meeting,
+    where he will meet and speak with the people.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly names this sanctuary-meeting
+    pattern.
+- id: motif:3
+  label: divine dwelling among a chosen people
+  taxonomy_refs:
+  - covenant
+  basis: Yahweh says he will dwell among the children of Israel and be their God,
+    linking this to having brought them out of Egypt.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The word covenant does not occur in the passage; the taxonomy link is
+    based on the covenant-formula-like relationship expressed in the passage.
+- id: motif:4
+  label: sanctification of priests and cultic objects
+  taxonomy_refs:
+  - initiation
+  basis: Yahweh says he will sanctify the Tent of Meeting, the altar, Aaron, and Aaron’s
+    sons so that they may minister in the priest’s office.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states sanctification and priestly service but does not narrate
+    a full initiation sequence here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1898-1900; Exod. 29:40
+  quote_or_summary: One lamb is accompanied by fine flour mixed with beaten oil and
+    wine for a drink offering.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1901-1903; Exod. 29:41
+  quote_or_summary: The other lamb is offered at evening according to the morning
+    meal and drink offering, as a pleasant aroma and fire offering to Yahweh.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1904-1905; Exod. 29:42
+  quote_or_summary: The rite is a continual burnt offering through the generations
+    at the door of the Tent of Meeting before Yahweh, where he will meet and speak
+    with the people.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1906; Exod. 29:43
+  quote_or_summary: Yahweh says he will meet with the children of Israel and that
+    the place will be sanctified by his glory.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1907; Exod. 29:44
+  quote_or_summary: Yahweh says he will sanctify the Tent of Meeting, the altar, Aaron,
+    and Aaron’s sons for priestly ministry to him.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1908; Exod. 29:45
+  quote_or_summary: Yahweh says he will dwell among the children of Israel and be
+    their God.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1909-1910; Exod. 29:46
+  quote_or_summary: The people will know Yahweh as their God, the one who brought
+    them out of Egypt so that he might dwell among them.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source metadata; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual details are explicit. Motif taxonomy assignments are cautious,
+    especially covenant and initiation, because those exact labels are not stated
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative link to another corpus or tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-exodus-web-classic__l1898-l1910
+  passage_sha256=cac43c58b80e83a42af9102f410151a42265206d77dc549e09a270bcf2a9516d
+

@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.central-asian-gessar-khan-zeitlin-archive-l3023-l3038
+source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+passage_locator:
+  label: CAPTIVITY / HE RESTORED PEACE TO KEEME-KHAN AND / AO WM / IV. THE VALLEY
+    OF PLEASANT WINDS; lines 3023-3038
+  start: '3023'
+  end: '3038'
+  translation: Gessar Khan
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Thy road lies onward, not back.”"
+  summary: Gessar takes leave of Lady Rogmo and begins a journey. While riding, he
+    repeatedly looks back at her until his steed rebukes him and tells him to keep
+    his eyes on the road ahead. Gessar accepts the rebuke and continues toward the
+    realm of the twelve-headed giant.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gessar answers Lady Rogmo by saying her words uplift his spirit like eagles'
+    wings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gessar takes leave of Lady Rogmo and sets forth on a journey.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: As Gessar rides away, he repeatedly turns his head to look back at Lady Rogmo
+    standing in the shadow of her yurta.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gessar's steed rebukes him for looking back and tells him that his road lies
+    onward, not back.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The steed compares Gessar's backward-looking posture to a calf searching for
+    its mother.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Gessar accepts the steed's rebuke, fixes his eyes before him, and continues
+    onward.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Gessar journeys toward the realm of the twelve-headed giant.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gessar
+  description: The traveler who leaves Lady Rogmo, is rebuked by his steed, and continues
+    toward the realm of the twelve-headed giant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Lady Rogmo
+  description: The lady from whom Gessar takes leave; she stands in the shadow of
+    her yurta as he looks back at her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Gessar's steed
+  description: Gessar's brown steed, which speaks and rebukes him for looking backward
+    instead of following the road ahead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: twelve-headed giant
+  description: A giant with twelve heads whose realm is the destination of Gessar's
+    onward journey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: departing traveler
+  assigned_to:
+  - fig:1
+  basis: Gessar takes leave, sets forth, and journeys onward.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: woman left behind at departure
+  assigned_to:
+  - fig:2
+  basis: Gessar takes leave of Lady Rogmo and looks back at her as she stands by her
+    yurta.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: speaking corrective mount
+  assigned_to:
+  - fig:3
+  basis: The steed verbally rebukes Gessar and directs him to keep to the road ahead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: distant giant associated with destination
+  assigned_to:
+  - fig:4
+  basis: The passage names the twelve-headed giant only as the possessor of the realm
+    toward which Gessar travels.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: eagles' wings
+  literal_form: Words compared to eagles' wings that uplift Gessar's spirit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: road onward
+  literal_form: The road that lies onward rather than back, as named by the steed.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: calf seeking mother
+  literal_form: The steed's comparison of Gessar's twisted backward gaze to a calf
+    searching for its mother.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: twelve-headed giant
+  literal_form: A giant with twelve heads, identified by the realm toward which Gessar
+    travels.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: yurta shadow
+  literal_form: Lady Rogmo stands in the shadow of her yurta as Gessar looks back
+    at her.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Leave-taking from Lady Rogmo
+  summary: Gessar receives Lady Rogmo's words as uplifting, takes leave of her, and
+    sets out on his journey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Backward gaze and steed's rebuke
+  summary: While riding away, Gessar repeatedly looks back at Lady Rogmo; his steed
+    rebukes him and tells him to look forward if he is committed to the task.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Renewed onward journey
+  summary: Gessar accepts the steed's correction, fixes his eyes ahead, and continues
+    toward the realm of the twelve-headed giant.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Departure from a beloved or valued companion
+  taxonomy_refs:
+  - departure
+  basis: Gessar takes leave of Lady Rogmo and begins a journey, while his repeated
+    backward gaze shows reluctance or attachment at the moment of departure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the departure scene but not the full purpose or outcome
+    of the journey.
+- id: motif:2
+  label: Speaking mount as admonishing guide
+  taxonomy_refs: []
+  basis: Gessar's steed speaks, rebukes him for looking back, and instructs him to
+    focus on the road ahead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches a speaking or advising
+    animal mount.
+- id: motif:3
+  label: Forward road over backward longing
+  taxonomy_refs: []
+  basis: The steed contrasts the road onward with looking back and tells Gessar either
+    to commit his eyes and heart to the task or return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative pattern inferred from the steed's speech, not
+    a supplied taxonomy motif.
+- id: motif:4
+  label: Quest journey toward a giant's realm
+  taxonomy_refs:
+  - mystical_quest
+  basis: Gessar continues a task-oriented journey toward the realm of the twelve-headed
+    giant.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage names the destination and the giant but does not describe
+    an encounter, battle, or quest objective in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3023-3025
+  quote_or_summary: Gessar says Lady Rogmo's words are “eagles' wings” uplifting his
+    spirit, takes leave of her, and sets forth.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3027-3032
+  quote_or_summary: As he rides, Gessar repeatedly turns to look back at Lady Rogmo
+    standing in the shadow of her yurta; his steed rebukes him, compares him to a
+    calf seeking its mother, and says his road lies onward, not back.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3034-3036
+  quote_or_summary: Gessar tells his brown steed that it does well to upbraid him,
+    fixes his eyes before him, and journeys onward.
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 3037-3038
+  quote_or_summary: Gessar goes “toward the realm of the twelve-headed giant.”
+  source_text_path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited by the
+    short excerpt and should be reviewed against the surrounding episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond local motif identification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:central-asian-gessar-khan-zeitlin-archive__l3023-l3038
+  passage_sha256=22e06ba80ea80303fa4a07e7827db088efe74e1859930c1cb6ee7738a7e30f1e
+

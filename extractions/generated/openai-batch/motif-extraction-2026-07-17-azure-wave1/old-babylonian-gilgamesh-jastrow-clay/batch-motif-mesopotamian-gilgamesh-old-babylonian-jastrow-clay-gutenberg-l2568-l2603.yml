@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l2568-l2603
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET / PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION.;
+    lines 2568-2603
+  start: '2568'
+  end: '2603'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Enkidu approaches Gish, meets him in the district plaza, blocks the gate
+    with his foot, and prevents him from entering. Gish and Enkidu seize each other
+    and fight like oxen, damaging the threshold and wall. Gish’s wrath is then quieted.
+    Enkidu addresses Gish, saying that his mother Ninsun bore him as a unique one,
+    exalted him above men, and that Enlil decreed kingship over men for him. The excerpt
+    ends with a tablet colophon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Enkidu proceeds toward Gish, and they meet in the plaza of the district.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Enkidu blocks the gate with his foot and does not permit Gish to enter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gish and Enkidu seize each other and fight like oxen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fight demolishes the threshold and impairs the wall.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After Gish bends his foot to the ground, his wrath is appeased and his breast
+    is quieted.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Enkidu speaks to Gish and says that Gish’s mother bore him as a unique one.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ninsun is named as Gish’s mother and called the wild cow of the stall.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Enkidu says that Ninsun exalted Gish’s head above men and that Enlil decreed
+    kingship over men for him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage closes with a colophon referring to the second tablet and 240
+    lines.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gish
+  description: Named figure who is confronted by Enkidu, fights him, becomes quieted,
+    and is addressed as uniquely born, exalted above men, and granted kingship over
+    men.
+  role_refs:
+  - role:1
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Enkidu
+  description: Named figure who proceeds against Gish, blocks the gate with his foot,
+    fights Gish, and then speaks to him.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ninsun
+  description: Named as Gish’s mother, called the wild cow of the stall, and said
+    to have exalted Gish’s head above men.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Enlil
+  description: Named figure said to have decreed kingship over men for Gish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Gish and Enkidu seize each other and fight like oxen.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: gate-blocker
+  assigned_to:
+  - fig:2
+  basis: Enkidu blocks the gate with his foot and prevents Gish from entering.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: speaker and addressee in recognition speech
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Enkidu speaks to Gish after the combat has quieted.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: mother of Gish
+  assigned_to:
+  - fig:3
+  basis: The speech says that Gish’s mother bore him and then names Ninsun.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: exalter of Gish above men
+  assigned_to:
+  - fig:3
+  basis: Ninsun is said to have exalted Gish’s head above men.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: decreer of kingship
+  assigned_to:
+  - fig:4
+  basis: Enlil is said to have decreed kingship over men for Gish.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: recipient of kingship over men
+  assigned_to:
+  - fig:1
+  basis: The speech says kingship over men has been decreed for Gish.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: blocked gate
+  literal_form: Gate blocked by Enkidu’s foot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: damaged threshold
+  literal_form: Threshold demolished during the fight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: impaired wall
+  literal_form: Wall impaired during the fight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: oxen combat image
+  literal_form: Gish and Enkidu fight like oxen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: wild cow of the stall
+  literal_form: Epithet or image applied to Ninsun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Approach and gate blocking
+  summary: Enkidu proceeds toward Gish, meets him in the plaza, and blocks the gate
+    with his foot to prevent Gish from entering.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Combat at the threshold
+  summary: Gish and Enkidu seize each other and fight like oxen, demolishing the threshold
+    and impairing the wall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Quieting and speech of status
+  summary: Gish’s wrath is quieted, and Enkidu speaks to him about his unique birth,
+    Ninsun’s exaltation of him, and Enlil’s decree of kingship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Gate confrontation between two opponents
+  taxonomy_refs: []
+  basis: Enkidu blocks the gate against Gish, and the two figures immediately seize
+    each other and fight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names a gate-blocking or threshold-combat
+    motif.
+- id: motif:2
+  label: Combat followed by appeasement and recognition speech
+  taxonomy_refs: []
+  basis: After the fight, Gish’s wrath is appeased and Enkidu addresses him with a
+    speech acknowledging his birth, exaltation, and kingship.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not narrate later friendship, alliance, or reconciliation
+    beyond the quieting and speech.
+- id: motif:3
+  label: Decreed kingship over men
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Gish is said to have been exalted above men and to have kingship over men
+    decreed for him by Enlil.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives a declaration of status but does not include an enthronement
+    scene or political ritual.
+- id: motif:4
+  label: Unique birth and maternal exaltation
+  taxonomy_refs: []
+  basis: Enkidu’s speech says Gish was borne as a unique one by his mother Ninsun
+    and that Ninsun exalted his head above men.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage names the mother and birth status but does not explicitly
+    state a sacred-birth formula in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious identification with a royal-legitimacy pattern
+    because Gish’s superiority over men and kingship over men are explicitly grounded
+    in Ninsun’s exaltation and Enlil’s decree.
+  claim_level: same_motif
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage’s declaration of exalted status
+    and decreed kingship; it does not establish a full enthronement narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2568-2574
+  quote_or_summary: Enkidu proceeds against Gish, starts toward him, and they meet
+    in the plaza of the district.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 2575-2577
+  quote_or_summary: "“Enkidu blocked the gate / With his foot, / Not permitting Gish
+    to enter.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2578-2586
+  quote_or_summary: Gish and Enkidu seize each other and fight like oxen; the threshold
+    is demolished and the wall impaired.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2587-2591
+  quote_or_summary: Gish bends his foot to the ground; his wrath is appeased and his
+    breast is quieted.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 2592-2597
+  quote_or_summary: "“Enkidu to him / Spoke, to Gish: / ‘As a unique one, thy mother
+    / bore thee. / The wild cow of the stall, / Ninsun,’”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 2598-2600
+  quote_or_summary: "“Has exalted thy head above men. / Kingship over men / Enlil
+    has decreed for thee.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 2601-2603
+  quote_or_summary: The colophon identifies the second tablet, says it is enlarged
+    beyond the original, and gives 240 lines.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summary derived from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied English passage. Some readings are
+    damaged or bracketed, and motif labels beyond literal royal legitimation remain
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbol taxonomy refs were assigned because the supplied symbol list does not include gate, threshold, wall, oxen, or wild cow.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l2568-l2603
+  passage_sha256=6284c2f709755114a49644dab4285393f554fff1855dbe3aa0238003d3b36a68
+

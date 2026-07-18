@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l6791-l6886
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 6791-6886
+  start: '6791'
+  end: '6886'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A jealous second wife murders her stepson with a chest lid while tempting
+    him with an apple, hides the killing, causes her daughter Marlinchen to think
+    she knocked off his head, cooks the boy into black puddings, and serves them to
+    the father. Marlinchen gathers the bones in a silk handkerchief and takes them
+    to the juniper-tree, where mist and fire appear and a beautiful singing bird emerges,
+    recounting the killing, eating, and gathering of bones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The household contains a father, his second wife, the second wife's daughter,
+    and the first wife's little son, who is described as red as blood and white as
+    snow.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman loves her daughter, views the boy as an obstacle to her daughter's
+    fortune, and repeatedly abuses him after the Evil One fills her mind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman uses an apple and a chest with a heavy lid and sharp iron lock to
+    lure the boy into stooping inside, then shuts the lid so that his head comes off
+    among the apples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman sets the boy's head back on his neck, hides the injury with a white
+    handkerchief, seats him by the door, and puts an apple in his hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Marlinchen finds her brother pale and silent with an apple, strikes him as
+    instructed by her mother, and his head falls down, leading Marlinchen to believe
+    she knocked it off.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The mother tells Marlinchen to keep quiet, chops the boy in pieces, cooks
+    him into black puddings, and Marlinchen's tears fall into the pan.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The father asks where his son is; the mother says he has gone away to a relative,
+    while serving the father the black puddings made from the boy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The father eats all of the black puddings and throws the bones under the table.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Marlinchen gathers the bones from beneath the table, ties them in her best
+    silk handkerchief, carries them outside, and weeps tears of blood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The juniper-tree moves as if rejoicing, mist rises, fire appears in the mist,
+    and a beautiful bird flies out singing; afterward the bones and handkerchief are
+    gone.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The bird lights on a goldsmith's house and sings that its mother killed it,
+    its father ate it, and its sister Marlinchen gathered its bones and laid them
+    beneath the juniper-tree.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: little son of the first wife
+  description: A little boy, red as blood and white as snow, abused and killed by
+    the second wife, then cooked and eaten as black puddings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: second wife / mother
+  description: The father's second wife, mother of Marlinchen, who resents the boy,
+    kills him, conceals the death, cooks him, and deceives the father.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Marlinchen
+  description: The second wife's little daughter and the boy's sister, who is frightened
+    by the corpse, weeps, and gathers the bones in a silk handkerchief.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: father
+  description: The father asks after his son but is deceived by the mother and eats
+    the black puddings made from the boy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Evil One / Devil
+  description: A named evil influence that fills the woman's mind, enters into her,
+    and prompts her during the killing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: beautiful bird
+  description: A bird that flies out of the fire and mist at the juniper-tree and
+    sings a song recounting the boy's killing, eating, and bone-gathering.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: murdered child
+  assigned_to:
+  - fig:1
+  basis: The boy is decapitated by the woman, chopped up, cooked into black puddings,
+    and eaten by the father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: jealous killer and deceiver
+  assigned_to:
+  - fig:2
+  basis: The woman sees the boy as an obstacle, kills him, hides his death, blames
+    or silences Marlinchen, cooks him, and lies to the father.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mourning sister and bone gatherer
+  assigned_to:
+  - fig:3
+  basis: Marlinchen weeps, gathers the boy's bones from beneath the table, ties them
+    in a silk handkerchief, and the bird's song names her as the one who gathered
+    the bones.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: deceived father and unwitting eater
+  assigned_to:
+  - fig:4
+  basis: The father is told his son has gone away and eats the black puddings while
+    asking about him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: supernatural tempter or prompter
+  assigned_to:
+  - fig:5
+  basis: The Evil One fills the woman's mind, and the Devil is said to enter into
+    her and prompt her actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: singing witness from the juniper-tree
+  assigned_to:
+  - fig:6
+  basis: The bird emerges after the bones are brought outside to the juniper-tree
+    and sings a first-person account of the killing, eating, and gathering of bones.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: juniper-tree
+  literal_form: A juniper-tree whose branches move, from which mist and fire appear,
+    and beneath which the song says the bones were laid.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: fire in mist
+  literal_form: Fire burning in the center of mist rising from the juniper-tree before
+    the bird flies out.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: apple
+  literal_form: A fine apple used to lure the boy to the chest and later placed in
+    his hand while his body is posed by the door.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: chest with heavy lid and iron lock
+  literal_form: A chest with a great heavy lid and a great sharp iron lock, used as
+    the instrument of decapitation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: handkerchief wrappings
+  literal_form: A white handkerchief used by the mother to conceal the severed head
+    and a silk handkerchief used by Marlinchen to gather the bones.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:6
+  label: bones
+  literal_form: The bones left beneath the table after the father eats the black puddings,
+    gathered by Marlinchen and later gone after the bird emerges.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: black puddings
+  literal_form: Food made by chopping the boy in pieces and cooking him in a pan,
+    then served to the father.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:8
+  label: tears and tears of blood
+  literal_form: Marlinchen's tears falling into the cooking pan and her later tears
+    of blood while carrying the bones outside.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Stepmother's hostility toward the boy
+  summary: The second wife favors her daughter, fears the boy will obstruct her daughter's
+    inheritance, and mistreats him under the influence of the Evil One.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Apple-chest murder and concealment
+  summary: The woman offers the boy an apple from the chest, shuts the lid on him,
+    decapitates him, then hides the severed head with a handkerchief and poses him
+    with the apple.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Marlinchen's fright and the cooking of the body
+  summary: Marlinchen strikes the silent boy and his head falls; the mother tells
+    her to keep quiet, chops the boy, and makes him into black puddings while Marlinchen
+    weeps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Father's meal
+  summary: The father asks about his son, receives a false explanation from the mother,
+    eats all the black puddings, and leaves the bones beneath the table.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Bones at the juniper-tree and bird emergence
+  summary: Marlinchen gathers the bones in a silk handkerchief and takes them outside;
+    the juniper-tree moves, mist and fire appear, a beautiful bird flies out singing,
+    and the bones and handkerchief disappear.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Bird's song at the goldsmith's house
+  summary: The bird perches on a goldsmith's house and sings a verse naming the mother
+    as killer, the father as eater, and Marlinchen as gatherer of the bones beneath
+    the juniper-tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Murdered child transformed or returned as a bird
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: After the boy is killed, eaten, and reduced to bones, Marlinchen gathers
+    the bones near the juniper-tree; a bird then emerges from mist and fire and sings
+    in first person about the boy's death and remains.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage shows a bird emerging after the bones vanish and singing as
+    the murdered child, but it does not explicitly state in prose that the boy has
+    been resurrected as the bird.
+- id: motif:2
+  label: Jealous stepmother murders child for inheritance advantage
+  taxonomy_refs: []
+  basis: The second wife loves her daughter, sees the first wife's son as an obstacle
+    to securing the fortune for her daughter, and kills the boy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches the stepmother-inheritance
+    murder pattern.
+- id: motif:3
+  label: Unwitting cannibal meal within the family
+  taxonomy_refs: []
+  basis: The mother cooks the murdered boy into black puddings and serves them to
+    the father, who eats them while believing his son is away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The father is deceived rather than knowingly participating; the motif
+    label is descriptive and not tied to a supplied taxonomy ID.
+- id: motif:4
+  label: Sibling gathers remains for transformation at a tree
+  taxonomy_refs:
+  - sibling_pair
+  - death_rebirth
+  basis: Marlinchen, the boy's sister, gathers his bones in a silk handkerchief and
+    takes them outside to the juniper-tree, after which a bird emerges and the bones
+    are gone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The tree functions as the site of the transformation sequence, but the
+    text does not give an explicit ritual explanation.
+- id: motif:5
+  label: Tree as transformation site
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The juniper-tree moves, produces mist and fire, and is the location associated
+    with the disappearance of the bones and the emergence of the singing bird.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly call the tree sacred or an axis; the taxonomy
+    link is based only on the tree's central supernatural function in the scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6791-6801
+  quote_or_summary: The second wife has a daughter, the first wife's child is a little
+    son red as blood and white as snow; the woman loves her daughter, sees the boy
+    as an obstacle to inheritance, and the Evil One fills her mind so that she abuses
+    him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6802-6828
+  quote_or_summary: The woman gives her daughter an apple, then lures the boy to take
+    one from a chest with a heavy lid and sharp iron lock; prompted by the Devil,
+    she shuts the lid and decapitates him, then conceals the head with a white handkerchief
+    and seats him with an apple in his hand.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6829-6845
+  quote_or_summary: Marlinchen sees her brother pale and silent with an apple; after
+    her mother tells her to strike him if he will not answer, his head falls, and
+    the mother tells Marlinchen to keep quiet, chops the boy, and makes him into black
+    puddings while Marlinchen's tears fall into the pan.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6846-6864
+  quote_or_summary: The father asks where his son is; the mother falsely says he has
+    gone to his mother's great uncle. The father eats the black puddings, wants more,
+    claims they seem all his, and throws all the bones under the table.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6864-6869
+  quote_or_summary: Marlinchen takes her best silk handkerchief, gathers all the bones
+    from beneath the table, ties them up, carries them outside the door, and weeps
+    tears of blood.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6869-6878
+  quote_or_summary: The juniper-tree stirs and moves as if rejoicing; mist rises,
+    fire burns within it, and a beautiful bird flies out singing. Afterward the tree
+    is as before, and the handkerchief with the bones is no longer there.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 6880-6886
+  quote_or_summary: 'The bird sings: "My mother she killed me, / My father he ate
+    me, / My sister, little Marlinchen, / Gathered together all my bones... / Laid
+    them beneath the juniper-tree" and calls itself a beautiful bird.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal event extraction is strong from the supplied passage. Motif assignments
+    involving resurrection or sacred-tree function require review because the prose
+    implies but does not explicitly define the transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly support a comparison beyond taxonomy-level motif candidates.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l6791-l6886
+  passage_sha256=9321fe46933648655c7d940487313d8894d6c022848175386214c3a4de3eb233
+

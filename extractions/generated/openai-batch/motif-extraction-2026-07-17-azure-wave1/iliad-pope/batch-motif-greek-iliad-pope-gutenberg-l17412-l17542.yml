@@ -1,0 +1,508 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l17412-l17542
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE SEVENTH BATTLE, FOR THE BODY OF PATROCLUS.THE ACTS OF MENELAUS. / BOOK
+    XVIII. / ARGUMENT. / THE GRIEF OF ACHILLES, AND NEW ARMOUR MADE HIM BY VULCAN.;
+    lines 17412-17542
+  start: '17412'
+  end: '17542'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Book XVIII, then narrates Achilles sitting by the
+    Hellespont, fearing the fulfillment of Thetis' warning. Antilochus arrives and
+    tells him Patroclus is dead and that Hector has taken his arms. Achilles mourns
+    violently with ashes, torn hair, groveling, and cries; captives also lament, while
+    Antilochus restrains him. In the sea depths, Thetis and the Nereids hear him,
+    weep, gather in a grotto, and Thetis laments the doomed fate of her son. Thetis
+    then leaves the sea with her attendant train, the tides part, and she comes to
+    Achilles to ask the cause of his grief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Achilles sits near the Hellespont by his ships and thinks that Thetis' warning
+    about the loss of the bravest Myrmidon may have been fulfilled in Patroclus.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Antilochus, called Nestor's son and a messenger of woe, reports to Achilles
+    that Patroclus is dead, that Greeks are fighting over his body, and that Hector
+    has his arms.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Achilles reacts by casting himself to the ground, putting ashes and dust on
+    his head, tearing his hair, groaning, rolling, and grovelling.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Female captives come from their tents, cry, beat their breasts, and faint
+    on the ground around Achilles.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Antilochus stays near Achilles, holds his arms, mourns Patroclus, and prevents
+    Achilles from striking himself.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Thetis hears Achilles' loud cries from the sea depths, where she is with Nereus
+    and the watery train.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Nereids and sea sisters gather in the grotto and mourn with Thetis.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Thetis laments that her son is a godlike hero sent to Troy by her and fated
+    never to return.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Thetis leaves the sea caverns with her train; the tides open and the company
+    ascends the shore toward Achilles.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Thetis stands beside Achilles, addresses him as her son, and asks him to reveal
+    the cause of his anguish.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Achilles, son of Peleus
+  description: A grieving warrior seated by his ships near the Hellespont; he is Thetis'
+    son and Patroclus' companion.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Patroclus
+  description: The dead warrior whose body is being fought over and whose arms have
+    been taken by Hector.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Antilochus, Nestor's son
+  description: The messenger who brings Achilles the news of Patroclus' death and
+    restrains Achilles during his grief.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Thetis
+  description: Called a mother-goddess and silver-footed dame; she hears Achilles'
+    cries from the sea, laments his fate, and comes to him.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Nereids or sea-nymphs
+  description: The watery sisters and attendants of Thetis who gather in the sea grotto,
+    weep, and accompany her to the shore.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Hector
+  description: The Trojan associated with Patroclus' death context and named as the
+    possessor of Patroclus' arms.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Virgin captives
+  description: Captive women won by Achilles' or Patroclus' arms who come from the
+    tents and mourn around Achilles.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: grieving hero
+  assigned_to:
+  - fig:1
+  basis: Achilles reacts to the death report with ashes, torn hair, grovelling, cries,
+    and near self-harm.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: divine mother's son
+  assigned_to:
+  - fig:1
+  basis: Thetis calls Achilles her son and mourns him as her offspring.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: dead companion whose body is contested
+  assigned_to:
+  - fig:2
+  basis: Antilochus says Patroclus is dead and that combat continues over his corpse.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: messenger of woe
+  assigned_to:
+  - fig:3
+  basis: Antilochus is described as Nestor's son and brings the sad tidings to Achilles.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: restrainer of the mourner
+  assigned_to:
+  - fig:3
+  basis: He holds Achilles' arms and prevents a meditated blow.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: divine mother
+  assigned_to:
+  - fig:4
+  basis: The passage calls Thetis the mother-goddess and shows her responding to her
+    son's cries.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:7
+  label: mourning comforter
+  assigned_to:
+  - fig:4
+  basis: Thetis says she will go to share Achilles' grief and then stands beside him
+    to ask the cause.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: sea-nymph mourning retinue
+  assigned_to:
+  - fig:5
+  basis: The Nereids weep with Thetis and accompany her from the sea to the shore.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:9
+  label: possessor of the dead warrior's arms
+  assigned_to:
+  - fig:6
+  basis: Antilochus reports that Patroclus' arms are Hector's right.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: mourning captive women
+  assigned_to:
+  - fig:7
+  basis: The captives rush from the tents, cry, beat their breasts, and faint around
+    Achilles.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sea and waters
+  literal_form: Hellespont waters, the main, tides, silver wave, and watery train
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: sea cavern or grotto
+  literal_form: deep sea caverns and the glimmering grotto filled by Thetis and the
+    Nereids
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: combat as fire
+  literal_form: the opening image comparing battle to the rage of fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: ashes and dust of mourning
+  literal_form: scorching ashes on Achilles' head, dust on garments and hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: breast-beating as mourning gesture
+  literal_form: captives and Nereids beating their breasts in grief
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Achilles waits by the Hellespont
+  summary: Achilles sits by his ships near the Hellespont and reflects that Thetis'
+    warning may have been fulfilled through Patroclus' death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Antilochus announces Patroclus' death
+  summary: Antilochus arrives as messenger and tells Achilles that Patroclus is dead,
+    his body is contested, and Hector has taken his arms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Achilles' public mourning
+  summary: Achilles mourns on the ground with ashes, dust, torn hair, and groans;
+    captive women mourn around him, while Antilochus restrains him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Thetis and the Nereids hear the cries
+  summary: In the sea depths, Thetis hears Achilles' cries; the Nereids gather in
+    a grotto and mourn with her.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Thetis goes from sea to son
+  summary: Thetis laments Achilles' fate, leaves the sea with her attendants as the
+    tides part, ascends the shore, stands beside Achilles, and asks why he mourns.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine mother responding to mortal hero-son's grief
+  taxonomy_refs:
+  - divine_parent_child
+  - mother_goddess
+  basis: Thetis is explicitly called a mother-goddess, hears Achilles' cries, laments
+    his doomed life, and goes to stand beside him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The excerpt shows the mother-son grief and consolation scene, not the
+    whole later action involving new armor.
+- id: motif:2
+  label: death message triggering ritualized heroic mourning
+  taxonomy_refs: []
+  basis: Antilochus reports Patroclus' death; Achilles responds with ashes, torn hair,
+    ground-rolling, groans, and threatened self-harm, while others join the mourning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific external mourning taxonomy reference is supplied in the available
+    list.
+- id: motif:3
+  label: sea-divine retinue emerging from underwater dwelling
+  taxonomy_refs: []
+  basis: Thetis and many Nereids gather in the grotto, leave the sea caverns, pass
+    through parted tides, and ascend the strand.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a clear sea-emergence sequence, but no exact supplied
+    motif-family reference matches it.
+- id: motif:4
+  label: foreknown doomed warrior and non-return from war
+  taxonomy_refs: []
+  basis: Achilles recalls Thetis' warning, and Thetis states that her son was sent
+    to Troy and fated never to return.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The excerpt states fate and non-return but does not narrate Achilles'
+    death.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious identification with a divine parent-child
+    motif pattern: an immortal mother hears, laments, and approaches her suffering
+    hero-son.'
+  claim_level: same_motif
+  target: divine_parent_child and mother_goddess motif families
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family comparison only; the excerpt does not by itself
+    establish historical transmission or comparison with another named text.
+- id: claim:2
+  claim: The mourning sequence can be cautiously compared by function to a death-announcement-and-lament
+    pattern, in which news of a companion's death causes public grief gestures.
+  claim_level: same_function
+  target: death message followed by lamentation pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The available taxonomy list does not provide a specific mourning motif
+    family, so the claim remains functional rather than taxonomic.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17412-17542, Book XVIII argument
+  quote_or_summary: 'The argument summarizes Book XVIII: Antilochus brings news of
+    Patroclus'' death; Thetis and sea-nymphs comfort Achilles; later Thetis seeks
+    new arms from Vulcan.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; summary used.
+- id: ev:2
+  type: summary
+  locator: 17412-17542, opening narrative near Hellespont
+  quote_or_summary: Achilles sits by his sails near the Hellespont, broods over Thetis'
+    warning, and fears the bravest Myrmidon has fallen to a Trojan hand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; summary used.
+- id: ev:3
+  type: quote
+  locator: 17412-17542, Antilochus' report
+  quote_or_summary: "“Dead is Patroclus! For his corse they fight; / His naked corse:
+    his arms are Hectors right.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 17412-17542, Achilles' reaction to the news
+  quote_or_summary: Achilles covers his head with ashes, defaces his garments and
+    hair with dust, throws himself on the ground, rolls and grovels; captive women
+    cry, beat their breasts, and faint; Antilochus holds Achilles' arms and prevents
+    a blow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; summary used.
+- id: ev:5
+  type: summary
+  locator: 17412-17542, Thetis and Nereids in the sea depths
+  quote_or_summary: In the deep sea, Thetis hears Achilles' cries; Nereids and sea
+    sisters gather in the glimmering grotto and beat their breasts in mourning.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; summary used.
+- id: ev:6
+  type: summary
+  locator: 17412-17542, Thetis' lament
+  quote_or_summary: Thetis tells the sea sisters that her godlike son grew under her
+    care, was sent to Troy, is fated never to return, and that she will go to mourn
+    with him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; summary used.
+- id: ev:7
+  type: summary
+  locator: 17412-17542, Thetis' approach to Achilles
+  quote_or_summary: Thetis leaves the caverns of the sea with her melancholy train;
+    the tides open, they ascend the strand two by two, and Thetis stands beside Achilles
+    asking why he mourns.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; summary used.
+- id: ev:8
+  type: quote
+  locator: 17412-17542, opening battle simile
+  quote_or_summary: "“Thus like the rage of fire the combat burns”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source text; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions, figures, and symbols are explicit in the passage. Motif-family
+    tagging is limited to supplied taxonomy references and remains subject to human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Paratextual Book XVIII argument is summarized in evidence but most figure, scene, and motif extraction is based on the narrated excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l17412-l17542
+  passage_sha256=c7a709825f64a24927b13140d1c55bd6f7ae560d476e80e3868e417f391aeaf6
+

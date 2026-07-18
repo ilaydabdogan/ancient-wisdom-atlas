@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l14039-l14068
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: BAHMAN / HMAI AND THE BIRTH OF DRB / DRB AND DR / SIKANDER; lines 14039-14068
+  start: '14039'
+  end: '14068'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sikander ascends a mountain and reaches its summit, where he sees the dead
+    body of an old saint adorned with grave-clothes, gems, gold, and jewels. The mountain
+    is described as a place sought for knowledge. Sikander hopes to see visions of
+    the future from the departed holy man and hears a voice prophesy his conquests,
+    fame, and imminent death. He weeps and descends. Later, in Kashn, he falls sick
+    and dies according to the oracle and prophecy. Arist, Bilniys the physician, and
+    Sikander’s family arrive, find him dead, and mourn for forty days.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sikander ascends a mountain, rests along the way, and reaches the summit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the summit, Sikander sees the dead body of an old saint wrapped in grave-clothes
+    and surrounded by gems, gold, and precious jewels.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that people who go to the mountain top seek knowledge.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sikander hopes to see visions of the future from the departed holy man.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A voice tells Sikander that his time is near and foretells conquest, crowns,
+    friends, foes, glory, an immortal name, and imminent death.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sikander weeps after hearing the prophetic words and quickly descends the
+    mountain.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sikander later travels to Kashn, becomes sick, and dies in accordance with
+    the oracle and prophecy.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Arist, Bilniys the physician, and Sikander’s family arrive in Kashn, find
+    him dead, and mourn for forty days.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sikander
+  description: The person who ascends the mountain, seeks knowledge of futurity, hears
+    the prophecy, later falls sick in Kashn, and dies.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: old saint / departed holy man
+  description: A dead holy man whose corpse appears at the mountain summit, wrapped
+    in grave-clothes and embedded in gems.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Arist
+  description: A person who enters Kashn after Sikander’s death and mourns him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Bilniys the physician
+  description: A physician who enters Kashn after Sikander’s death and mourns him.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Sikander’s family
+  description: Sikander’s family enters Kashn after his death and mourns him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mountain ascender
+  assigned_to:
+  - fig:1
+  basis: Sikander ascends the mountain and reaches its summit.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seeker of futurity
+  assigned_to:
+  - fig:1
+  basis: Sikander hopes at the mountain summit to see visions of futurity.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of prophecy
+  assigned_to:
+  - fig:1
+  basis: A voice addresses Sikander and foretells his career and imminent death.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dead holy figure at summit
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the corpse at the summit as an old saint and departed
+    holy man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: mourner
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These figures find Sikander dead and mourn for him forty days.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: physician
+  assigned_to:
+  - fig:4
+  basis: Bilniys is explicitly called the physician.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain summit
+  literal_form: mountain top / cloudy eminence
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: jeweled corpse
+  literal_form: dead corpse of an old saint wrapped in grave-clothes and embedded
+    in gems, gold, and jewels
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: crowns
+  literal_form: many crowns foretold in the prophecy
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: forty days of mourning
+  literal_form: mourning for forty days
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ascent to the mountain summit
+  summary: Sikander climbs a mountain and reaches the summit, where he encounters
+    the corpse of an old saint surrounded by precious materials.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prophecy at the summit
+  summary: At a mountain top associated with the search for knowledge, Sikander seeks
+    visions of futurity and hears a voice foretell his conquests, renown, and imminent
+    death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Descent after prophecy
+  summary: Sikander weeps at the prophecy and leaves the mountain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Death and mourning in Kashn
+  summary: Sikander travels to Kashn, falls sick, and dies; Arist, Bilniys, and Sikander’s
+    family find him dead and mourn for forty days.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ascent to a mountain for revelation
+  taxonomy_refs:
+  - ascent
+  basis: Sikander climbs to a mountain summit where knowledge and visions of futurity
+    are sought.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents a mountain ascent and revelation, but does not describe
+    the mountain as a cosmic axis or world center.
+- id: motif:2
+  label: quest for knowledge of the future
+  taxonomy_refs:
+  - wisdom
+  basis: The mountain top is associated with seeking knowledge, and Sikander hopes
+    to see visions of futurity.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The knowledge sought is prophetic rather than general instruction or philosophical
+    wisdom.
+- id: motif:3
+  label: prophecy of fame and imminent death
+  taxonomy_refs: []
+  basis: A voice foretells Sikander’s conquests, crowns, glory, immortal name, and
+    approaching death.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly names death prophecy or oracle
+    fulfillment.
+- id: motif:4
+  label: fulfilled oracle of death
+  taxonomy_refs: []
+  basis: Sikander dies shortly after the prophecy, and the narration states that this
+    occurs according to the oracle and prophecy.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the oracle’s source beyond the preceding
+    prophecy.
+- id: motif:5
+  label: mortality contrasted with worldly wealth
+  taxonomy_refs: []
+  basis: The saint’s jeweled corpse is framed as showing mortal humanity and the abandonment
+    of wealth, pomp, and ambition.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a thematic pattern inferred from the narrator’s reflection, not
+    a named taxonomy motif in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14039-14046
+  quote_or_summary: "“Ascending then the mountain” Sikander reaches the summit, where
+    “the dead corse of an old saint” appears, wrapped in grave-clothes and surrounded
+    by gems, gold, and jewels."
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 14047-14052
+  quote_or_summary: "“None ever went upon that mountain top, / But sought for knowledge”;
+    Sikander hopes at its “cloudy eminence” to see “visions of futurity” from the
+    departed holy man."
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 14053-14060
+  quote_or_summary: A voice tells Sikander his time is near and foretells that he
+    will conquer many realms, win many crowns, have friends and foes, be renowned
+    and glorious, and have an immortal name, while again warning that his time is
+    near.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 14061-14062
+  quote_or_summary: "“At these prophetic words Sikander wept, / And from that ominous
+    mountain hastened down.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 14063-14065
+  quote_or_summary: Sikander journeys to Kashn, falls sick, and in a few days dies
+    according to the oracle and prophecy.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 14065-14068
+  quote_or_summary: Arist, Bilniys the physician, and Sikander’s family enter Kashn,
+    find Sikander dead, beat their faces, tear their hair, and mourn for him forty
+    days.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: 14044-14046
+  quote_or_summary: The jeweled corpse is said to show “what man is, mortal man,”
+    with wealth, pomp, and ambition “all left behind.”
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    are cautious and limited to patterns directly visible in the passage; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to supplied available refs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l14039-l14068
+  passage_sha256=0a441a0eeb4b9ea88de80eafe070fc713a44593c5e39e95959312aaad0acd590
+

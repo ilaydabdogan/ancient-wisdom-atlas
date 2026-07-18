@@ -1,0 +1,538 @@
+---
+record_id: batch.motif.daoist-tao-teh-king-legge-gutenberg-l1451-l1509
+source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+passage_locator:
+  label: THE TAO TEH KING, / THE TAO AND ITS CHARACTERISTICS / PART 1. / PART II.;
+    lines 1451-1509
+  start: '1451'
+  end: '1509'
+  translation: The Tao Teh King, or the Tao and its Characteristics
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents sayings on the sage and rulership, reconciliation
+    after animosity, the sage’s restrained handling of an agreement record, the impartial
+    Way of Heaven, an ideal small and simple state, and final maxims about sincere
+    speech, non-accumulation, giving, and non-striving action.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited saying states that one who accepts a state’s reproach is hailed as
+    lord of its altars, and one who bears men’s woes is called King.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that strictly true words seem paradoxical.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After reconciliation following great animosity, a grudge remains in the mind
+    of the one who was wrong.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sage keeps the left-hand portion of the record of an engagement and does
+    not insist on the other party’s speedy fulfillment.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A person with the attributes of the Tao regards the conditions of the engagement,
+    while one without those attributes regards only conditions favorable to himself.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Way of Heaven is described as having no partiality of love and as always
+    being on the side of the good man.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The envisioned little state has a small population and does not employ people
+    with the abilities of ten or a hundred men.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The people are made to regard death as grievous but not to move elsewhere
+    to avoid it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Boats and carriages exist, but the people have no occasion to ride in them.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Buff coats and sharp weapons exist, but the people have no occasion to don
+    or use them.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The people return to the use of knotted cords instead of written characters.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The people regard coarse food as sweet, plain clothes as beautiful, poor dwellings
+    as places of rest, and simple ways as sources of enjoyment.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: A neighboring state is within sight and within hearing of fowls and dogs,
+    but the people have no intercourse with it even to old age and death.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: Sincere words are contrasted with fine words; those skilled in the Tao are
+    contrasted with disputatious people; those who know the Tao are contrasted with
+    the extensively learned.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:15
+  text: The sage does not accumulate for himself; the more he expends or gives to
+    others, the more he has himself.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:16
+  text: The Way of Heaven is described as sharp yet not injuring, and the sage is
+    described as acting without striving.
+  category: attribute
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: the sage
+  description: A sage is cited as speaker of a saying; elsewhere the sage keeps the
+    left-hand record, does not insist on fulfillment, does not accumulate, gives to
+    others, and does not strive.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: one who accepts the state’s reproach and bears men’s woes
+  description: A figure in the cited saying who accepts the state’s reproach, bears
+    men’s woes, and is called lord of the altars and King.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: other party to the engagement
+  description: The counterpart whose speedy fulfillment is not insisted upon by the
+    sage after an engagement record is divided.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the good man
+  description: The person on whose side the Way of Heaven is said always to be.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: people of the little state
+  description: The residents of the little state who remain in place, do not use vehicles
+    or weapons, return to knotted cords, enjoy simple conditions, and have no intercourse
+    with the neighboring state.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: sage teacher
+  assigned_to:
+  - fig:1
+  basis: The passage introduces a saying with “a sage has said.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: non-coercive and non-accumulating sage
+  assigned_to:
+  - fig:1
+  basis: The sage keeps the record without insisting on fulfillment, does not accumulate,
+    gives to others, and does not strive.
+  evidence_refs:
+  - ev:3
+  - ev:11
+  - ev:12
+- id: role:3
+  label: burden-bearing ruler
+  assigned_to:
+  - fig:2
+  basis: The cited figure accepts reproach, bears woes, and is accorded royal or altar-lord
+    titles.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: engagement counterparty
+  assigned_to:
+  - fig:3
+  basis: The other party is connected with the engagement whose fulfillment the sage
+    does not press.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: favored good man
+  assigned_to:
+  - fig:4
+  basis: The Way of Heaven is said to be always on the side of the good man.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: simple self-contained populace
+  assigned_to:
+  - fig:5
+  basis: The people of the little state live simply, avoid travel and weapons, use
+    knotted cords, and avoid intercourse with a nearby state.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: state altars
+  literal_form: the state’s altars
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: left-hand engagement record
+  literal_form: left-hand portion of the record of the engagement
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: boats and carriages unused
+  literal_form: boats and carriages
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: armor and weapons unused
+  literal_form: buff coats and sharp weapons
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: knotted cords
+  literal_form: knotted cords used instead of written characters
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: simple provisions and dwellings
+  literal_form: coarse food, plain clothes, poor dwellings, and simple ways
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: neighboring state within hearing
+  literal_form: neighboring state within sight, with voices of fowls and dogs heard
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Way of Heaven
+  literal_form: the Way of Heaven
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:12
+scenes:
+- id: scene:1
+  label: Burden-bearing ruler and paradoxical truth
+  summary: A sage’s saying declares that accepting a state’s reproach and bearing
+    men’s woes lead to being hailed as altar-lord and King, followed by the statement
+    that true words seem paradoxical.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reconciliation and restrained engagement
+  summary: The passage describes lingering grudges after reconciliation, then presents
+    the sage as keeping the left-hand engagement record without pressing the other
+    party for fulfillment; the Way of Heaven is said to be impartial and on the side
+    of the good man.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The little state of simple life
+  summary: A small state is imagined in which abilities are not put to use, death
+    does not provoke migration, vehicles and weapons are unused, knotted cords replace
+    writing, simple conditions are enjoyed, and a nearby state remains without intercourse.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Final maxims on speech, giving, and non-striving
+  summary: The passage contrasts sincere and fine words, Tao skill and disputation,
+    knowing and extensive learning; it then describes the sage as non-accumulating
+    and enriched by giving, and the Way of Heaven and sage as non-injuring and non-striving.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Burden-bearing ruler gains legitimacy by accepting reproach and woes
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The cited figure who accepts the state’s reproach and bears men’s woes is
+    called lord of the altars and King.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is aphoristic rather than narrative; the royal title is part
+    of a maxim, not a narrated enthronement.
+- id: motif:2
+  label: Paradoxical wisdom privileges sincerity and non-disputation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that true words seem paradoxical and later contrasts sincere
+    words with fine words, Tao skill with disputation, and Tao knowledge with extensive
+    learning.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  confidence: high
+  cautions: This is an ethical-philosophical wisdom pattern, not a mythic episode.
+- id: motif:3
+  label: Non-coercive settlement through retained engagement record
+  taxonomy_refs:
+  - covenant
+  basis: After reconciliation leaves a grudge, the sage keeps the left-hand portion
+    of the engagement record and does not insist on speedy fulfillment by the other
+    party.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The taxonomy reference is tentative because the passage describes an agreement
+    record rather than an explicit sacred covenant.
+- id: motif:4
+  label: Impartial Heaven sides with the good
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Way of Heaven is described as having no partiality of love and as always
+    being on the side of the good man.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe a judgment scene or a personified deity;
+    it states an ethical principle.
+- id: motif:5
+  label: Small self-contained community of simplicity and non-use
+  taxonomy_refs:
+  - wisdom
+  basis: The little state has simple living, unused vehicles and weapons, return to
+    knotted cords, satisfaction with plain conditions, and no intercourse with a visible
+    neighboring state.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a social ideal within a wisdom text; no direct comparative tradition
+    is named in the passage.
+- id: motif:6
+  label: Giving increases possession for the sage
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The sage does not accumulate, and the more he expends or gives to others,
+    the more he possesses or has himself.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The passage frames the pattern as sage conduct, not as a ritualized exchange.
+- id: motif:7
+  label: Non-injuring Heaven and non-striving sage
+  taxonomy_refs:
+  - wisdom
+  basis: The Way of Heaven is described as sharp yet not injuring, and the sage as
+    doing without striving.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The motif is abstract and ethical rather than narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1451-1457
+  quote_or_summary: A sage’s saying says that accepting the state’s reproach and bearing
+    men’s woes bring the names altar-lord and King; true words seem paradoxical.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1458-1462
+  quote_or_summary: Reconciliation after great animosity leaves a remaining grudge
+    in the mind of the one who was wrong.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1463-1470
+  quote_or_summary: The sage keeps the left-hand portion of an engagement record,
+    does not press the other party, and contrasts Tao-like regard for the engagement
+    with self-favoring regard.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1471-1473
+  quote_or_summary: "“In the Way of Heaven, there is no partiality of love; it is
+    always on the side of the good man.”"
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1474-1480
+  quote_or_summary: A little state with small population is ordered so that highly
+    able people are not employed, and the people do not move elsewhere despite viewing
+    death as grievous.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1481-1484
+  quote_or_summary: Boats and carriages exist without occasion to ride them; buff
+    coats and sharp weapons exist without occasion to don or use them.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 1485-1487
+  quote_or_summary: The people return to knotted cords instead of written characters.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 1488-1491
+  quote_or_summary: The people find coarse food sweet, plain clothes beautiful, poor
+    dwellings restful, and simple ways enjoyable.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 1492-1496
+  quote_or_summary: A neighboring state is visible and audible through fowls and dogs,
+    but the people have no intercourse with it throughout life.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 1497-1502
+  quote_or_summary: Sincere words are not fine; fine words are not sincere; Tao skill
+    is non-disputatious; Tao knowledge is not extensive learning.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 1503-1506
+  quote_or_summary: The sage does not accumulate; spending and giving to others increases
+    what he possesses and has.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:12
+  type: summary
+  locator: lines 1507-1509
+  quote_or_summary: The Way of Heaven is sharp but does not injure, and the sage acts
+    without striving.
+  source_text_path: texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the passage. Motif taxonomy assignments
+    are cautious because the text is aphoristic and philosophical, and no external
+    comparative tradition is named.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were generated because the passage itself does not make an explicit comparison to another corpus or tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:daoist-tao-teh-king-legge-gutenberg__l1451-l1509
+  passage_sha256=312de9dcfb8070742ae02b580e0468ed33ebefbea2049a2148198647045f15ae
+

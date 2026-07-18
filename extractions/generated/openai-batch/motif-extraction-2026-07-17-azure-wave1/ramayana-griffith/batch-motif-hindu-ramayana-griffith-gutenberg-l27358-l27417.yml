@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l27358-l27417
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: BOOK III. / Canto I. The Hermitage. / Canto V. Sarabhanga. / Canto VIII.
+    The Hermitage.; lines 27358-27417
+  start: '27358'
+  end: '27417'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hermits appeal to Ráma for protection from shape-changing forest fiends
+    who attack during sacred rites. They say they have ascetic power to destroy the
+    attackers but restrain their curses to preserve the merit of penance. Ráma affirms
+    that he must keep his promise to protect the Bráhmans, speaks gently to his wife,
+    and leads the way toward the holy groves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A crowd of hermits or Bráhmans appeals to Ráma for help in distress.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The attackers are described as fiends of the wood who can wear varied shapes
+    at will.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fiends attack when sacred fire rites are due and at full or new moons.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The fiends are said to torment vow-observing hermits and devour bleeding flesh.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The hermits say they could destroy the night-rovers through powers of penance
+    but refrain from using a withering curse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The hermits identify Ráma, together with Lakshmaṇ, as their guardian.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Ráma says he promised aid and must adhere to his word because he holds truth
+    dear.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ráma says he must protect the suffering saints because he is bound by promise.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Ráma addresses his wife gently and says her words came from affection and
+    righteousness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The bow-armed chieftain leads the way toward holy groves.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: Prince addressed by the hermits for protection; he promises aid, upholds
+    his oath, and is later called the bow-armed chieftain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Lakshmaṇ
+  description: Named with Ráma by the hermits as a guardian; Ráma also names him among
+    those dear to him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hermits / Bráhmans / saints
+  description: Trembling ascetics who perform sacred rites and penance, seek help
+    from Ráma, and restrain destructive curses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Fiends of the wood / rovers of the night / giants
+  description: Shape-changing beings in the wood who attack and torment hermits during
+    ritual times.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Maithil monarch’s child / Ráma’s wife
+  description: Ráma’s wife, addressed gently by him; he says her words came from affection
+    and that her feet are set in righteous paths.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: supplicant ritual ascetics
+  assigned_to:
+  - fig:3
+  basis: They appeal to Ráma for help, describe their sacred rites and penance, and
+    ask for protection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: oath-bound protector
+  assigned_to:
+  - fig:1
+  basis: Ráma promises aid and says he must protect the saints because he is bound
+    by his oath to Bráhmans.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: co-guardian companion
+  assigned_to:
+  - fig:2
+  basis: The hermits say Ráma with Lakshmaṇ is now their guardian.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: shape-changing oppressors
+  assigned_to:
+  - fig:4
+  basis: The fiends are described as wearing varied shapes and afflicting the hermits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: affectionate wife and counselor
+  assigned_to:
+  - fig:5
+  basis: Ráma identifies her as his dear wife and says her words came from affection,
+    adding that loved ones teach those they love.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacred fire rites
+  literal_form: sacred rites of fire
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: full and new moons
+  literal_form: changing moons, full or new
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: withheld curse
+  literal_form: withering curse restrained by the hermits
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bow
+  literal_form: bow-armed chieftain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: holy groves
+  literal_form: holy groves beyond them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hermits seek protection from forest fiends
+  summary: The hermits describe shape-changing fiends who attack during ritual times
+    and ask Ráma to help them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ascetics restrain destructive power
+  summary: The hermits say they possess penance power sufficient to destroy the attackers
+    but refrain from using curses so as not to nullify their earned merit.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ráma affirms his protective oath
+  summary: Ráma states that he promised aid, must keep his oath to the Bráhmans, and
+    must protect all the suffering saints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ráma addresses his wife and proceeds
+  summary: Ráma responds mildly to his wife, praises the affectionate and righteous
+    basis of her speech, and then leads the way toward holy groves.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: shape-changing forest attackers
+  taxonomy_refs:
+  - shapeshifter
+  basis: The hostile beings are explicitly said to wear varied shapes at will while
+    afflicting the hermits.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage names the beings as fiends, rovers, or giants but does not
+    further classify their nature.
+- id: motif:2
+  label: hero bound by oath to protect holy ascetics
+  taxonomy_refs:
+  - covenant
+  basis: Ráma promises aid and says he must not break his oath to Bráhmans, making
+    protection of the saints obligatory.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a promise and oath rather than a formal covenant.
+- id: motif:3
+  label: ritual obstruction by hostile beings
+  taxonomy_refs:
+  - sacrifice
+  basis: The fiends attack when sacred rites of fire are due and at full or new moons,
+    disrupting the hermits’ ritual practice.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage says sacred fire rites, not sacrifice by name; the taxonomy
+    link is therefore cautious.
+- id: motif:4
+  label: ascetic power restrained to preserve merit
+  taxonomy_refs: []
+  basis: The hermits say they could destroy the attackers through penance power but
+    withhold their curse to avoid nullifying the merit gained through toil.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27366-27388
+  quote_or_summary: Hermits report that shape-changing fiends of the wood afflict
+    them, attack during sacred fire rites and full or new moons, torment vow-observing
+    hermits, and devour flesh; they ask Ráma for help.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 27389-27402
+  quote_or_summary: The hermits say their penance powers could destroy the night-rovers,
+    but they restrain the curse to preserve the merit of years of toil; they name
+    Ráma with Lakshmaṇ as their guardian.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 27403-27416
+  quote_or_summary: Ráma says he promised ready aid, holds truth dear, would endure
+    loss of Lakshmaṇ, life, and wife rather than deny his promise, and must protect
+    the suffering saints because he is promise-bound.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 27417-27426
+  quote_or_summary: Ráma tells his dear wife that her words came from affection, that
+    loved ones teach those they love, and that her conduct is worthy of her noble
+    race and righteous paths.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 27427-27432
+  quote_or_summary: Ráma speaks mildly to the Maithil monarch’s child, his wife, and
+    the bow-armed chieftain leads the way toward fair holy groves beyond them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Taxonomy mapping is
+    cautious for oath and fire-rite disruption because the passage does not explicitly
+    name formal covenant or sacrifice categories. No comparison claims were made because
+    the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Figure label for Ráma’s wife follows the passage wording rather than adding an unstated personal name.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l27358-l27417
+  passage_sha256=2523c8a4c422908ee12805986940c4a77668258fc72279ad8bd306e1e706cce3
+

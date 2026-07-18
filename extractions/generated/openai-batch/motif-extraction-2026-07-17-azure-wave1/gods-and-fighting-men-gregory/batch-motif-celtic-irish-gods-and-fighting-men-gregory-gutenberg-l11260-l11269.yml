@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l11260-l11269
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER I. BIRTH OF DIARMUID / CHAPTER II. HOW DIARMUID GOT HIS LOVE-SPOT
+    / CHAPTER III. THE DAUGHTER OF KING UNDER-WAVE / CHAPTER IV. THE HARD SERVANT;
+    lines 11260-11269
+  start: '11260'
+  end: '11269'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: he vanished from them, and all they could see was a mist
+  summary: Finn compels the Hard Servant to bring back fifteen men to Ireland. The
+    Fianna watch the Hard Servant and his long-legged horse depart, but he vanishes,
+    leaving only a mist stretching toward the sea. The narrator closes the story of
+    the Hard Servant and Diarmuid's adventures on the island Under-Wave.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Finn made the Hard Servant bring home the fifteen men he had taken away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fifteen men were brought back to Ireland.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fianna watched the Hard Servant and his long-legged horse ride away again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Hard Servant vanished while being watched.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the vanishing, only a mist stretching toward the sea was visible.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage identifies the preceding material as the story of the Hard Servant
+    and Diarmuid's adventures on the island Under-Wave.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: The figure who made the Hard Servant bring back the fifteen men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hard Servant
+  description: The figure compelled to bring back fifteen men to Ireland; later seen
+    riding away and vanishing.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: fifteen men
+  description: The men brought away by the Hard Servant and then brought back to Ireland.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the Fianna
+  description: The group watching the Hard Servant and his horse ride away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: long-legged horse
+  description: The horse ridden by the Hard Servant as the Fianna watched him depart.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Diarmuid
+  description: Named in the closing line as the figure whose adventures on the island
+    Under-Wave are part of the story being concluded.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: commander or compeller
+  assigned_to:
+  - fig:1
+  basis: Finn is said to have made the Hard Servant bring the men home.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: servant returning captives
+  assigned_to:
+  - fig:2
+  basis: The Hard Servant brings back the fifteen men he had brought away.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: vanishing rider
+  assigned_to:
+  - fig:2
+  basis: The Hard Servant rides away and vanishes from sight.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: returned men
+  assigned_to:
+  - fig:3
+  basis: The fifteen men are brought back to Ireland.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: watchers
+  assigned_to:
+  - fig:4
+  basis: The Fianna watch the Hard Servant ride away.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: mount or conveyance
+  assigned_to:
+  - fig:5
+  basis: The Hard Servant rides away with his long-legged horse.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: named adventurer
+  assigned_to:
+  - fig:6
+  basis: The closing sentence refers to Diarmuid's adventures on the island Under-Wave.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mist after vanishing
+  literal_form: mist
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seaward direction
+  literal_form: sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: island Under-Wave
+  literal_form: island Under-Wave
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: long-legged horse
+  literal_form: horse
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Return of the fifteen men to Ireland
+  summary: Finn makes the Hard Servant bring the fifteen men back to Ireland.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vanishing departure of the Hard Servant
+  summary: The Fianna watch the Hard Servant and his long-legged horse ride away;
+    he vanishes, leaving only mist stretching toward the sea.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Narrative closure of the island Under-Wave adventures
+  summary: The narrator identifies the passage as the close of the story of the Hard
+    Servant and Diarmuid's adventures on the island Under-Wave.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: vanishing departure into mist toward the sea
+  taxonomy_refs:
+  - departure
+  basis: The Hard Servant rides away, vanishes from view, and is replaced in sight
+    by a mist stretching toward the sea.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the disappearance literally but does not explain the
+    nature of the mist or the destination.
+- id: motif:2
+  label: return of abducted or removed companions
+  taxonomy_refs:
+  - return
+  basis: The Hard Servant is made to bring back the fifteen men he had brought away,
+    and they return to Ireland.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage summarizes the return only briefly and does not describe the
+    earlier taking of the men.
+- id: motif:3
+  label: adventures at an island under the waves
+  taxonomy_refs:
+  - mystical_quest
+  basis: The closing line names Diarmuid's adventures on the island Under-Wave.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This line is a narrative closure rather than a detailed description of
+    the adventures; the motif assignment relies only on the place-name and the word
+    'adventures'.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11260-11263
+  quote_or_summary: Finn made the Hard Servant bring home the fifteen men he had brought
+    away, and the men were brought back to Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 11263-11267
+  quote_or_summary: The Fianna watched him ride away with his long-legged horse; then
+    “he vanished from them, and all they could see was a mist” stretching toward the
+    sea.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 11268-11269
+  quote_or_summary: The narrator closes by naming the story of the Hard Servant and
+    Diarmuid's adventures on the island Under-Wave.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear. Motif labels are cautious because the passage
+    is a concluding summary and gives little explanation of the supernatural disappearance
+    or Under-Wave setting. No comparison claims were added because the passage itself
+    does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to provided motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l11260-l11269
+  passage_sha256=98ae531935d8975be8cac2ee9b0554eebd3f0730d5c28c5066ffd7b109bbb28c
+

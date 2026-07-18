@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38723-l38779
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCV. / ENTITLED, THE FIG;
+    WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines
+    38723-38779
+  start: '38723'
+  end: '38779'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents Chapter XCV, titled “The Fig,” opening with invocation
+    of the most merciful God. The chapter swears by the fig, the olive, Mount Sinai,
+    and a secure territory; states that man was created in excellent form and then
+    rendered vile, except for believers who act righteously and receive an endless
+    reward; and closes by invoking the day of judgment and God as the most wise judge.
+    Embedded notes explain interpretations of the fig and olive and include commentarial
+    material about Mohammed, revelation, and Gabriel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as Chapter XCV, entitled “The Fig,” and
+    says the place of revelation is disputed.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter opens with an invocation in the name of the most merciful God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The text swears by the fig, the olive, and Mount Sinai.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The text also swears by a territory described as secure.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary says the fig and olive are explained by commentators as useful
+    fruits, while alternative interpretations identify them with mountains in the
+    holy land or with temples at Damascus and Jerusalem.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The text states that man was created in a most excellent fabric and afterwards
+    rendered the vilest of the vile.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Those who believe and work righteousness are excepted from the negative condition
+    and are promised an endless reward.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The text asks what could cause denial of the day of judgment and asks whether
+    God is not the most wise judge.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A commentary note reports an interruption of revelation to Mohammed, hostile
+    claims that God had left him, and the sending down of a chapter for consolation.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A commentary note describes Gabriel opening, washing, and cleansing Mohammed’s
+    heart, removing a black drop or seed of original sin, and filling the heart with
+    wisdom and faith.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The same commentary note connects the heart-opening either with Mohammed’s
+    infancy or with his journey to heaven.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Invoked as the most merciful God; presented as creator of man and as
+    the most wise judge.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: man / humanity
+  description: Created in excellent form and afterwards rendered the vilest of the
+    vile.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: those who believe and work righteousness
+  description: Group excepted from the vilest condition and promised an endless reward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Mohammed
+  description: In the commentary, he is the recipient of revelation, the subject of
+    enemy claims of divine abandonment, and the one whose heart Gabriel opens and
+    cleanses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Gabriel
+  description: In the commentary, the angel who opens, washes, and cleanses Mohammed’s
+    heart and fills it with wisdom and faith.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Koreish and enemies of Mohammed
+  description: In the commentary, questioners and opponents who say that God had left
+    Mohammed after revelation ceased for several days.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine creator
+  assigned_to:
+  - fig:1
+  basis: The text says man was created in excellent form.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: wise judge
+  assigned_to:
+  - fig:1
+  basis: The text asks whether God is not the most wise judge in connection with the
+    day of judgment.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: created humanity subject to abasement
+  assigned_to:
+  - fig:2
+  basis: Man is described as created excellent and then rendered vilest of the vile.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: righteous rewarded group
+  assigned_to:
+  - fig:3
+  basis: Those who believe and work righteousness receive an endless reward.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: prophetic recipient of revelation and consolation
+  assigned_to:
+  - fig:4
+  basis: The commentary describes revelation withheld from Mohammed and a chapter
+    sent down for his consolation.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: angelic purifier and wisdom-giver
+  assigned_to:
+  - fig:5
+  basis: The commentary says Gabriel cleansed Mohammed’s heart and filled it with
+    wisdom and faith.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: opponents and questioners
+  assigned_to:
+  - fig:6
+  basis: The commentary describes questions by the Koreish and enemies saying God
+    had left Mohammed.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fig and olive
+  literal_form: The fig and the olive, explained in commentary as fruits or trees
+    with practical virtues and also interpreted by some as mountains or temples.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Mount Sinai
+  literal_form: Mount Sinai named in the oath formula.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: secure territory
+  literal_form: "“This territory of security” named in the oath sequence."
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: opened and cleansed heart
+  literal_form: Mohammed’s heart opened, washed, cleansed, and filled with wisdom
+    and faith in the commentary.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: black drop or seed of original sin
+  literal_form: A black drop or seed of original sin wrung out from Mohammed’s heart
+    in the commentary.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Oath by fig, olive, Sinai, and secure territory
+  summary: The chapter’s opening oath invokes the fig, the olive, Mount Sinai, and
+    a secure territory; commentary expands the possible meanings of the fig and olive.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Human creation, abasement, and judgment
+  summary: Man is said to be created in excellent form and then made vile, while believing
+    and righteous people receive endless reward; the day of judgment and God’s wise
+    judgment are invoked.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Commentarial interruption of revelation and consolation
+  summary: A note reports that revelation was withheld from Mohammed for several days,
+    his enemies claimed God had left him, and a chapter was sent down to console him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:4
+  label: Commentarial opening of Mohammed’s heart
+  summary: A note describes Gabriel opening and cleansing Mohammed’s heart, removing
+    a black drop or seed of original sin, and filling the heart with wisdom and faith,
+    possibly in infancy or during the heavenly journey.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment with righteous reward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage mentions the day of judgment, God as the most wise judge, and
+    endless reward for those who believe and work righteousness.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a direct thematic extraction from the chapter, not a claim of
+    historical comparison.
+- id: motif:2
+  label: Oath by sacred natural objects and places
+  taxonomy_refs: []
+  basis: The chapter swears by fig, olive, Mount Sinai, and a secure territory.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy does not include a precise oath-by-sacred-place
+    motif; tree and mountain are recorded as symbols instead.
+- id: motif:3
+  label: Human elevation and abasement
+  taxonomy_refs:
+  - duality
+  basis: The chapter contrasts man’s creation in excellent form with being rendered
+    the vilest of the vile, except for righteous believers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The duality label is based on explicit contrast in the passage, but the
+    text does not elaborate a full dualistic myth.
+- id: motif:4
+  label: Prophetic consolation after apparent divine abandonment
+  taxonomy_refs: []
+  basis: The commentary says revelation ceased for several days, enemies said God
+    had left Mohammed, and a chapter was sent down for his consolation.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This material appears in commentary within the provided line range and
+    may concern adjacent chapter material rather than the main Chapter XCV verses.
+- id: motif:5
+  label: Angelic purification of the prophetic heart
+  taxonomy_refs:
+  - wisdom
+  basis: The commentary describes Gabriel cleansing Mohammed’s heart, removing a black
+    drop, and filling it with wisdom and faith.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is drawn from commentary, not from the main Chapter XCV verses.
+- id: motif:6
+  label: Heavenly journey allusion
+  taxonomy_refs:
+  - ascent
+  basis: The commentary mentions Mohammed’s journey to heaven as one possible setting
+    for Gabriel’s opening of his heart.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The passage only alludes to the journey; it does not narrate the ascent
+    itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'lines 38723-38779: heading and invocation'
+  quote_or_summary: Chapter XCV is entitled “The Fig,” its place of revelation is
+    disputed, and it opens in the name of the most merciful God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 'lines 38723-38779: opening oath'
+  quote_or_summary: "“BY the fig, and the olive; and by mount Sinai”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 'lines 38723-38779: footnote g'
+  quote_or_summary: Commentators say God swears by the fig and olive because of their
+    uses and virtues; some interpret them as two holy-land mountains or as temples
+    at Damascus and Jerusalem.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 'lines 38723-38779: oath continuation'
+  quote_or_summary: "“and this territory of security”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 'lines 38723-38779: human creation statement'
+  quote_or_summary: "“verily we created man of a most excellent fabric; afterwards
+    we rendered him the vilest of the vile”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:6
+  type: summary
+  locator: 'lines 38723-38779: righteous exception'
+  quote_or_summary: Those who believe and work righteousness are excepted and shall
+    receive an endless reward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:7
+  type: quote
+  locator: 'lines 38723-38779: judgment closing'
+  quote_or_summary: "“What, therefore, shall cause thee to deny the day of judgment
+    after this? Is not GOD the most wise judge?”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:8
+  type: summary
+  locator: 'lines 38723-38779: footnote c'
+  quote_or_summary: A commentary note reports that revelation was withheld from Mohammed
+    for several days after questions by the Koreish; enemies said God had left him;
+    a chapter was sent down for consolation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:9
+  type: summary
+  locator: 'lines 38723-38779: footnote d'
+  quote_or_summary: A commentary note says Gabriel opened Mohammed’s heart, removed
+    a black drop or seed of original sin, cleansed it, and filled it with wisdom and
+    faith; this is connected with infancy or the journey to heaven.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main Chapter XCV motifs are straightforward. Confidence is reduced because
+    the provided line range includes embedded footnotes that may concern adjacent
+    material; those are marked as commentary-derived and need review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a cautious comparison to another named tradition or corpus beyond internal commentary and supplied taxonomy alignment.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38723-l38779
+  passage_sha256=215db245513f9683574095e9ea5ce241c1c495d4b2cf45398edba1c7771dce10
+

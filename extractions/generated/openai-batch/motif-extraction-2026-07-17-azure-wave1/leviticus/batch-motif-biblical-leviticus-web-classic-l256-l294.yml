@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l256-l294
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Footnotes / Chapter 3 / Chapter 4 / Chapter 5; lines 256-294
+  start: '256'
+  end: '294'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Leviticus 5 lists cases of guilt involving failure to testify, contact
+    with uncleanness, rash oaths, trespass against holy things, and unwitting violations.
+    It prescribes confession, graded sin or trespass offerings, priestly atonement,
+    restitution where holy things are wronged, and forgiveness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who hears a public adjuration to testify and does not report what
+    he has seen or known shall bear iniquity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Touching the carcass of an unclean animal, livestock, creeping thing, or human
+    uncleanness can make a person guilty when the hidden condition becomes known.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A rash oath to do evil or good, if hidden and later known, results in guilt.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When guilty in these cases, the person must confess the sin and bring a trespass
+    offering to Yahweh.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The prescribed offering can be a female lamb or goat, with the priest making
+    atonement for the sin.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the person cannot afford a lamb, he brings two turtledoves or two young
+    pigeons, one for a sin offering and one for a burnt offering.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: For the bird sin offering, the priest wrings the neck, sprinkles blood on
+    the side of the altar, and drains the remaining blood at the altar base.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: If the person cannot afford birds, he brings one tenth of an ephah of fine
+    flour for a sin offering, without oil or frankincense.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The priest burns a handful of the flour as a memorial portion on the altar,
+    and the rest belongs to the priest as with a meal offering.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A trespass regarding Yahweh’s holy things requires a ram without defect, valuation
+    in sanctuary shekels, restitution, and an added fifth part.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A person who unknowingly does what Yahweh commanded not to be done remains
+    guilty and must bring a ram for a trespass offering.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The repeated ritual result is that the priest makes atonement and the guilty
+    person is forgiven.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Named deity who speaks to Moses, receives offerings, owns the holy
+    things, and before whom guilt is stated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Moses
+  description: Recipient of Yahweh’s speech in this passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: guilty person or offerer
+  description: A generalized person who sins, becomes unclean, swears rashly, trespasses
+    regarding holy things, or sins unwittingly, and who must confess, bring offerings,
+    or make restitution.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: priest
+  description: Ritual official who receives offerings, handles blood or memorial portions,
+    receives assigned portions, and makes atonement.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: divine speaker and recipient of offering
+  assigned_to:
+  - fig:1
+  basis: Yahweh speaks to Moses, receives trespass and sin offerings, and is the one
+    before whom guilt is affirmed.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:2
+  label: recipient of divine instruction
+  assigned_to:
+  - fig:2
+  basis: Yahweh speaks to Moses to deliver the instructions on trespass offerings.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: transgressor and ritual offerer
+  assigned_to:
+  - fig:3
+  basis: The repeated subject is anyone who sins, becomes guilty, confesses, brings
+    prescribed offerings, and in some cases makes restitution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: priestly atonement mediator
+  assigned_to:
+  - fig:4
+  basis: The priest performs offering procedures and makes atonement so that forgiveness
+    follows.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: sin and trespass offerings
+  literal_form: Female lamb or goat, two turtledoves or young pigeons, fine flour,
+    and ram without defect offered for sin or trespass.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: blood at the altar
+  literal_form: Blood of the bird sin offering sprinkled on the side of the altar
+    and drained at the base.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: altar fire
+  literal_form: Altar on which burnt offerings and the memorial portion are burned
+    among Yahweh’s offerings made by fire.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  - sacrifice
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: flour without oil or frankincense
+  literal_form: One tenth of an ephah of fine flour for a sin offering, with no oil
+    and no frankincense.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: restitution plus fifth part
+  literal_form: Restitution for wrong regarding holy things, with an added fifth part
+    and valuation by sanctuary shekel.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - sacred_exchange
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: unclean contact objects
+  literal_form: Carcass of an unclean animal, unclean livestock, unclean creeping
+    thing, or human uncleanness.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: guilt from testimony omission, impurity, or rash oath
+  summary: 'Several conditions are named as producing guilt: failure to testify after
+    public adjuration, hidden contact with uncleanness, and rash swearing that later
+    becomes known.'
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: confession and graded sin offering
+  summary: The guilty person confesses and brings an offering; the required offering
+    is scaled from a lamb or goat to birds or flour according to ability, with priestly
+    atonement and forgiveness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: trespass regarding holy things
+  summary: Yahweh speaks to Moses about a person who sins unwittingly regarding holy
+    things; the person brings a ram, makes restitution, adds a fifth, and receives
+    priestly atonement and forgiveness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: unwitting violation of commandments
+  summary: A person who unknowingly does what Yahweh forbade remains guilty, brings
+    a ram as a trespass offering, and receives priestly atonement and forgiveness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacrificial atonement and forgiveness
+  taxonomy_refs:
+  - sacrifice
+  basis: Guilty persons bring prescribed offerings to Yahweh, and the priest makes
+    atonement so that forgiveness follows.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage is a legal-ritual prescription rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: confession followed by ritual reparation
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The guilty person confesses the sin, brings a trespass or sin offering, and
+    in the case of holy things makes restitution with an added fifth part.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: Confession is explicit in the first group of cases; restitution is explicit
+    for trespass regarding holy things.
+- id: motif:3
+  label: graded substitute offerings according to means
+  taxonomy_refs:
+  - sacrifice
+  basis: The offering requirement changes if the offender cannot afford a lamb or
+    birds, allowing birds or fine flour instead.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a ritual-economic pattern within priestly law, not a comparative
+    claim by itself.
+- id: motif:4
+  label: hidden or unwitting transgression still incurring guilt
+  taxonomy_refs:
+  - divine_judgment
+  basis: Several sins are described as hidden or unknown until later, and unwitting
+    violations are still said to create guilt before Yahweh.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The judgment is expressed as legal-ritual guilt, not as a narrated divine
+    punishment scene.
+- id: motif:5
+  label: restitution for violation of sacred property
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Trespass regarding Yahweh’s holy things requires an unblemished ram, sanctuary
+    valuation, restitution, and an added fifth part given to the priest.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not describe the specific holy thing violated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Leviticus 5:1
+  quote_or_summary: Failure to report testimony after hearing a public adjuration
+    causes the witness to bear iniquity.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+- id: ev:2
+  type: summary
+  locator: Leviticus 5:2-3
+  quote_or_summary: Touching unclean animal carcasses, unclean creeping things, or
+    human uncleanness, if hidden and later known, makes the person guilty.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+- id: ev:3
+  type: summary
+  locator: Leviticus 5:4
+  quote_or_summary: A person who swears rashly with his lips to do evil or good, if
+    it was hidden and later known, becomes guilty.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+- id: ev:4
+  type: summary
+  locator: Leviticus 5:5-6
+  quote_or_summary: The guilty person confesses the sin and brings to Yahweh a female
+    lamb or goat; the priest makes atonement for the sin.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+- id: ev:5
+  type: summary
+  locator: Leviticus 5:7-10
+  quote_or_summary: If unable to afford a lamb, the offender brings two turtledoves
+    or pigeons; one is a sin offering with blood handled at the altar, and the second
+    is a burnt offering, after which atonement and forgiveness follow.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+- id: ev:6
+  type: summary
+  locator: Leviticus 5:11-13
+  quote_or_summary: If unable to afford birds, the offender brings fine flour without
+    oil or frankincense; the priest burns a handful as a memorial portion, keeps the
+    rest, makes atonement, and forgiveness follows.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+- id: ev:7
+  type: summary
+  locator: Leviticus 5:14-16
+  quote_or_summary: 'Yahweh speaks to Moses: trespass regarding Yahweh’s holy things
+    requires a ram without defect, sanctuary-shekel valuation, restitution plus a
+    fifth, and priestly atonement leading to forgiveness.'
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+- id: ev:8
+  type: summary
+  locator: Leviticus 5:17-19
+  quote_or_summary: One who unknowingly violates Yahweh’s prohibitions is still guilty,
+    bears iniquity, brings a ram for a trespass offering, and receives priestly atonement
+    and forgiveness.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible classic text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are based on recurring
+    ritual patterns in the passage; no cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims are left empty because the passage does not itself make a comparison to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l256-l294
+  passage_sha256=0e07aa4005b91d164e1860da7b114b7379f4a3c2bd5a614ac7754a1af3ea07c9
+

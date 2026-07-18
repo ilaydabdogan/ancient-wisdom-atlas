@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l5484-l5580
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE BOAT (UMIAQ). / THE SLEDGE AND DOGS. / HABITATIONS AND DRESS. / THE HOUSE.;
+    lines 5484-5580
+  start: '5484'
+  end: '5580'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes seasonal Inuit/Eskimo snow houses, including snow
+    selection, block cutting, two-person spiral vault construction, sealing and dimensions,
+    and the Davis Strait arrangement of entrance and storage vaults.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that houses differ according to season and that snow houses
+    are built in winter across the described Arctic regions.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A suitable snowbank is described as formed by a single storm, fine grained,
+    and cuttable with a saw or snow knife into blocks of stated dimensions.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old snow knife, called sulung, is described as made of ivory and slightly
+    curved.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Two men work together in building a snow house, with one cutting blocks and
+    the other building.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The first row of blocks is arranged in a circle and slanted so that the top
+    forms one thread of a spiral line.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Blocks are inclined inward and held by neighboring blocks as the vault rises.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The described method permits building a vault without a scaffold; final key
+    blocks are fitted into the remaining opening, and joints are sealed with snow.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A journey snow house is described as about five feet high and seven feet in
+    diameter, taking about two hours for two skilled men to finish; winter-quarter
+    vaults are larger.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: For Davis Strait tribes, the entrance to the main building is described as
+    formed by two or sometimes three small vaults, including uadling and igdluling,
+    together called toqsung.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Small attached vaults are described as storage spaces for clothing, harness,
+    spare meat, blubber, or meat for future use.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Block cutter
+  description: One of the two men in the construction process; he cuts snow blocks
+    and later places blocks on the last row from outside.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Builder
+  description: One of the two men in the construction process; he places blocks, supports
+    upper blocks with his head, and pushes them into position.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Davis Strait tribes
+  description: The passage identifies these tribes as having a snow-house plan that
+    differs somewhat from Hudson Bay and Iglulik plans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: block cutter
+  assigned_to:
+  - fig:1
+  basis: The passage states that one of the two men cuts the blocks during house construction.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: vault builder
+  assigned_to:
+  - fig:2
+  basis: The passage states that the other man builds, places blocks, and supports
+    upper blocks while finishing the vault.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: regional house-plan group
+  assigned_to:
+  - fig:3
+  basis: The passage introduces a Davis Strait snow-house plan and then describes
+    its entrance and attached vaults.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: snow house vault
+  literal_form: Winter snow house built as a tight vault from cut snow blocks.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: snow blocks
+  literal_form: Blocks about three or four feet long, two feet high, and six to eight
+    inches thick, cut from suitable snowbank material.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: snow knife or saw
+  literal_form: Cutting tools used to make snow blocks; the old snow knife, sulung,
+    is ivory and slightly curved.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: spiral building line
+  literal_form: The slanted top of the first row forms one thread of a spiral line
+    for building the vault.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: key block
+  literal_form: Final block fitted into the remaining opening of the snow-house vault,
+    often irregular, with adjacent final blocks usually triangular.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: entrance vaults
+  literal_form: Small entrance vaults named uadling and igdluling, together called
+    toqsung.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: storage vaults
+  literal_form: Attached vaults named sirdloang, igdluarn, and audlitiving, used for
+    clothing, harness, meat, and blubber storage.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Selecting and cutting snow blocks
+  summary: A level place and suitable single-storm snowbank are selected, and blocks
+    are cut with a snow knife or saw.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Two-person spiral vault construction
+  summary: One man cuts blocks while the builder arranges a circular first row, creates
+    a spiral line, and inclines each block inward with support from neighboring blocks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Finishing the snow-house vault
+  summary: The upper blocks are placed without scaffold support, final key blocks
+    close the top opening, and joints are sealed to make a tight vault.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Davis Strait entrance and storage arrangement
+  summary: The Davis Strait snow-house plan includes entrance vaults leading to the
+    main room and small attached vaults used for storage.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal snow-house dwelling pattern
+  taxonomy_refs: []
+  basis: The passage presents snow houses as winter habitations and distinguishes
+    journey camps from larger winter quarters.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic habitation pattern, not a mythic narrative motif
+    in the provided passage.
+- id: motif:2
+  label: cooperative spiral vault construction
+  taxonomy_refs: []
+  basis: The passage describes a two-person method in which circular and spiral block
+    placement creates a vault without scaffold.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The pattern is technical and architectural; no symbolic or mythological
+    interpretation is stated.
+- id: motif:3
+  label: multi-vault domestic layout with storage appendices
+  taxonomy_refs: []
+  basis: The passage describes named entrance and storage vaults attached to the main
+    snow-house room.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports a spatial pattern only; it does not assign ritual
+    or mythological meaning to the layout.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5484-5580; opening of HOUSE section
+  quote_or_summary: Houses are said to differ according to season, and snow houses
+    are described as winter dwellings across the regions named in the passage.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5484-5580; snowbank and block-cutting description
+  quote_or_summary: The passage specifies suitable snow conditions, block dimensions,
+    cutting with snow knives or saws, and the old ivory snow knife called sulung.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5484-5580; two-man construction paragraph
+  quote_or_summary: Two men build together, one cutting and one building; the builder
+    sets a circular first row and slants it into a spiral line, adding inward-leaning
+    blocks.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5484-5580; vault completion paragraph
+  quote_or_summary: The method is described as allowing a vault without a scaffold;
+    upper blocks are supported and moved into place, key blocks close the remaining
+    hole, and joints are sealed.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5484-5580; dimensions and use paragraph
+  quote_or_summary: A small snow house is described as about five feet high and seven
+    feet in diameter for winter journeys; skilled builders take about two hours; winter
+    quarters are larger.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5484-5580; Davis Strait plan and entrance description
+  quote_or_summary: The Davis Strait plan is introduced as somewhat different; its
+    entrance consists of small vaults including uadling and igdluling, together called
+    toqsung.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 5484-5580; attached vaults description
+  quote_or_summary: 'Small vaults are attached to the main building and used for storage:
+    sirdloang for clothing and harness, igdluarn for spare meat and blubber, and audlitiving
+    for meat for future use.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of snow-house construction
+    and layout. Candidate motifs are treated as material-cultural patterns, with no
+    mythology taxonomy refs or comparison claims applied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol ref is directly supported by the passage. No comparison claims were made because the passage itself does not support comparative assertions.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l5484-l5580
+  passage_sha256=ed34cee3fa549361e39123a3cf122f51cb6533e984d332104cfe9b74fd81ea73
+

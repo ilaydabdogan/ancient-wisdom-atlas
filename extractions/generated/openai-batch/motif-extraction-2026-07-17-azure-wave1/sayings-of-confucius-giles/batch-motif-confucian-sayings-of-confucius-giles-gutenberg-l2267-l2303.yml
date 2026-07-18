@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l2267-l2303
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: GOVERNMENT AND PUBLIC AFFAIRS / INDIVIDUAL VIRTUE / CONFUCIUS' ESTIMATE OF
+    OTHERS / CONFUCIUS ON HIMSELF; lines 2267-2303
+  start: '2267'
+  end: '2303'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes describe Confucius as derided and misunderstood, explain
+    his wandering from state to state, identify the moral life as the connecting thread
+    of his philosophy, compare him with Socrates as a moral philosopher, and discuss
+    his willingness to visit Pi Hsi despite convention.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Confucius' actions were derided and his motives misunderstood.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a gibe against Confucius' wandering from state to state,
+    with an insinuation that he was making a living by his wits.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says that remaining in Lu or another state where Confucius was
+    plainly not wanted would have been stupid persistency.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says men took no notice of Confucius, while so-called sages start
+    with grandiose ideals and high-flown utterances to attract attention.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage identifies the connecting thread of Confucius' philosophy and
+    view of life as the moral life, described as being true to oneself and good to
+    one's neighbour.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Confucius was not merely an amasser of knowledge or a lover
+    of learning for learning's sake.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says learning in the Analects usually means or implies the study
+    of virtue and striving after self-improvement.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage compares Confucius with Socrates as a purely moral philosopher.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage identifies Pi Hsi as a rebellious official in the Chin State.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says Confucius declined to be bound by narrow convention or fear
+    of public opinion, and that he felt it his primary duty to go where he could do
+    good.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: Described as derided and misunderstood, as wandering from state to
+    state, and as a moral philosopher whose learning is directed toward virtue and
+    moral life.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: so-called sages
+  description: A class of sages said to begin with grandiose ideals and high-flown
+    utterances in order to attract attention.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pi Hsi
+  description: Identified as a rebellious official in the Chin State.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Socrates
+  description: Named in a comparison with Confucius as a purely moral philosopher.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: unnamed disciple
+  description: An unnamed disciple upon whom Confucius wished to impress the meaning
+    of the connecting thread.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: derided wandering teacher
+  assigned_to:
+  - fig:1
+  basis: The passage describes Confucius as derided and misunderstood and mentions
+    a gibe at his wandering from state to state.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: teacher of moral self-cultivation
+  assigned_to:
+  - fig:1
+  basis: The passage says the connecting thread of his philosophy is the moral life
+    and that learning means the study of virtue and self-improvement.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: attention-seeking sages
+  assigned_to:
+  - fig:2
+  basis: The passage says so-called sages use grandiose ideals and high-flown utterances
+    to attract attention.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rebellious official
+  assigned_to:
+  - fig:3
+  basis: Pi Hsi is explicitly identified as a rebellious official in the Chin State.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: moral philosopher
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage says Confucius, like Socrates, was purely a moral philosopher.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: recipient of teaching
+  assigned_to:
+  - fig:5
+  basis: The passage says Confucius wished to impress the meaning of the connecting
+    thread upon his disciple.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: connecting thread
+  literal_form: the "connecting thread"
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Gibe at the wandering of Confucius
+  summary: The passage describes Confucius as misunderstood and derided, especially
+    through a gibe about his wandering from state to state, and says that staying
+    where he was unwanted would have been stupid persistency.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of the connecting thread
+  summary: The passage explains that the connecting thread of Confucius' philosophy
+    is moral life, not knowledge for its own sake, and connects learning with virtue
+    and self-improvement.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Confucius and Pi Hsi
+  summary: The passage identifies Pi Hsi as a rebellious official and explains that
+    Confucius was willing to go where he could do good despite narrow convention and
+    fear of public opinion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Comparison with Socrates
+  summary: The passage explicitly compares Confucius with Socrates as a purely moral
+    philosopher.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wisdom as moral self-cultivation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes moral life as the connecting thread of Confucius' philosophy
+    and says learning means the study of virtue and striving after self-improvement.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethical-philosophical pattern in editorial commentary, not
+    a mythic narrative episode.
+- id: motif:2
+  label: Misunderstood wandering sage
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents Confucius as derided and misunderstood while wandering
+    from state to state, and contrasts him with attention-seeking so-called sages.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames this as biographical and editorial explanation; it
+    does not provide a full quest or exile narrative.
+- id: motif:3
+  label: Ethical duty over rigid convention
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says Confucius declined to be bound by narrow convention, treated
+    rules as allowing exceptions, and felt it his duty to go where he could do good.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage discusses moral judgment
+    rather than a conventional mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Confucius and Socrates as having the same
+    function as moral philosophers.
+  claim_level: same_function
+  target: Socrates as a moral philosopher
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an editorial comparison within the passage; it does not establish
+    historical contact, common inheritance, or a shared mythic narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2267-2273 ([14])
+  quote_or_summary: Confucius is described as derided and misunderstood; a gibe is
+    made at his wandering from state to state, with the answer that remaining where
+    unwanted would be stupid persistency.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 2275-2277 ([15])
+  quote_or_summary: The note says men took no notice of Confucius and contrasts so-called
+    sages who use grandiose ideals and high-flown utterances to attract attention.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: 2279-2291 ([16])
+  quote_or_summary: The "connecting thread" is described as "the moral life," and
+    learning is said to mean the study of virtue and striving after self-improvement.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 2291-2293 ([16])
+  quote_or_summary: '"Like Socrates, Confucius was purely a moral philosopher"'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 2295-2303 ([17])
+  quote_or_summary: Pi Hsi is identified as a rebellious official; the note says Confucius
+    refused narrow convention and fear of public opinion, treated rules as allowing
+    exceptions, and felt a duty to go where he could do good.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on explicit editorial statements in the supplied
+    passage. Motif candidates are abstract ethical patterns rather than mythic narrative
+    motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage is commentary on Confucius rather than a primary mythic episode; symbols and motifs are therefore limited to explicit metaphors and ethical patterns in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l2267-l2303
+  passage_sha256=fc2c4b3db5724da38886b820ed8603583a18f89b2af0af8537513dbf86fb2add
+

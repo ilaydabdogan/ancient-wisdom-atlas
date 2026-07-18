@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l1222-l1281
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: IX. WHY WE SEE ANTS CARRYING BUNDLES AS BIG AS THEMSELVES / X. WHY SPIDERS
+    ARE ALWAYS FOUND IN THE CORNERS OF CEILINGS / XI. ANANSI THE BLIND FISHERMAN /
+    XII. ADZANUMEE AND HER MOTHER; lines 1222-1281
+  start: '1222'
+  end: '1281'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A childless woman wishes for a daughter. A well-shaped yam answers her
+    wish on condition that she never reproach it for having been a yam, then becomes
+    a beautiful girl named Adzanumee. After the mother angrily calls her only a yam,
+    a bird reports the words to Adzanumee. Adzanumee returns weeping, goes to the
+    yam-field, and changes back into a yam despite her mother’s pleas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A childless woman longs to have a daughter and remains unhappy because of
+    the unfulfilled wish.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While gathering yams, the woman pulls out a straight, well-shaped yam and
+    wishes it were a daughter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The yam speaks and asks the woman to promise never to reproach it for having
+    been a yam if it becomes her daughter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the woman promises, the yam changes into a beautiful girl, and the woman
+    names her Adzanumee.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Adzanumee helps her mother by making bread, gathering yams, and selling them
+    at the market-place.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When Adzanumee is delayed, her mother angrily says that Adzanumee is only
+    a yam and does not deserve her beautiful name.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A bird hears the mother’s words, flies to the tree under which Adzanumee sits,
+    and sings the report to her.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Adzanumee returns home weeping and repeats that her mother has reproached
+    her with being a yam and said she did not deserve her name.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Adzanumee goes toward the yam-field while her mother follows and pleads for
+    her not to believe the accusation.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Adzanumee changes back into a yam, and the mother cannot restore her daughter.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Childless woman / mother
+  description: A woman who longs for a daughter, promises the yam not to reproach
+    it, names the transformed girl Adzanumee, later breaks the promise in anger, and
+    loses the daughter when she returns to yam form.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Adzanumee
+  description: A yam that becomes a beautiful, useful girl after receiving the woman’s
+    promise; she later returns to yam form after being reproached with her origin.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Bird
+  description: A bird that hears the mother’s words and sings them to Adzanumee under
+    a tree.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Longing parent
+  assigned_to:
+  - fig:1
+  basis: The woman is childless and desires a daughter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Promise-maker who breaks the condition
+  assigned_to:
+  - fig:1
+  basis: She promises never to reproach the yam for its origin, but later says Adzanumee
+    is only a yam.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: Miraculously transformed daughter
+  assigned_to:
+  - fig:2
+  basis: The yam changes into a beautiful girl after the woman promises not to reproach
+    it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Returned origin-form figure
+  assigned_to:
+  - fig:2
+  basis: After hearing the reproach, Adzanumee goes to the yam-field and changes back
+    into a yam.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:5
+  label: Messenger of overheard speech
+  assigned_to:
+  - fig:3
+  basis: The bird hears the mother’s words and sings them to Adzanumee.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Yam as origin-form
+  literal_form: Yam
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:10
+- id: sym:2
+  label: Conditional promise
+  literal_form: Promise never to reproach the transformed daughter for having been
+    a yam
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: Bird messenger
+  literal_form: Bird that sings the mother’s reproach to Adzanumee
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Tree as listening-place
+  literal_form: Tree under which Adzanumee sits when the bird arrives
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Yam-field as return-place
+  literal_form: Yam-field where Adzanumee changes back into a yam
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Wish for a daughter and encounter with the yam
+  summary: The childless woman wishes for a daughter while gathering yams and hears
+    a well-shaped yam answer her wish with a condition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Transformation and household life
+  summary: The woman promises not to reproach the yam; it becomes a beautiful girl
+    named Adzanumee, who helps her mother with household and market tasks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Broken promise reported by the bird
+  summary: When Adzanumee is delayed, the mother calls her only a yam; a bird hears
+    this and sings the report to Adzanumee under a tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Lament and return to yam form
+  summary: Adzanumee weeps, confronts her mother through song, goes toward the yam-field,
+    and changes back into a yam despite her mother’s pleas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Miraculous child from a plant or food object
+  taxonomy_refs:
+  - miraculous_child
+  basis: A childless woman’s wish for a daughter is fulfilled when a yam changes into
+    a girl after a conditional promise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the figure as a transformed yam rather than a birth
+    from a human mother.
+- id: motif:2
+  label: Broken condition causes loss of transformed beloved child
+  taxonomy_refs: []
+  basis: The woman promises not to reproach the yam-daughter for her origin but later
+    does so, after which Adzanumee returns to yam form and cannot be restored.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy reference directly names a taboo-breaking or broken-condition
+    motif.
+- id: motif:3
+  label: Transformation between human and nonhuman form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The yam changes into a girl, and later the girl changes back into a yam.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  confidence: medium
+  cautions: The passage describes transformation, but Adzanumee does not repeatedly
+    or voluntarily shift forms in a way that may be implied by some shapeshifter categories.
+- id: motif:4
+  label: Animal messenger reveals hidden speech
+  taxonomy_refs: []
+  basis: A bird overhears the mother’s reproach and sings it to Adzanumee.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The bird’s broader nature or motive is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1222-1228
+  quote_or_summary: A woman is childless, longs for a daughter, and is unhappy because
+    the wish is unfulfilled.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 1229-1233
+  quote_or_summary: While gathering yams, the woman pulls out a straight, well-shaped
+    yam and wishes it were a daughter.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 1233-1236
+  quote_or_summary: "“If I were to become your daughter, would you promise never to
+    reproach me with having been a yam?”"
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 1236-1239
+  quote_or_summary: After the woman gives the promise, the yam changes into a beautiful
+    girl, and the woman names her Adzanumee.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 1239-1241
+  quote_or_summary: Adzanumee is useful to her mother, making bread, gathering yams,
+    and selling them at the market-place.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 1242-1245
+  quote_or_summary: When Adzanumee is delayed, the mother angrily says she does not
+    deserve her name and is only a yam.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 1246-1253
+  quote_or_summary: A nearby bird hears the mother’s words, flies to the tree under
+    which Adzanumee sits, and sings that her mother says she is only a yam and does
+    not deserve her name.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 1254-1263
+  quote_or_summary: Adzanumee returns home weeping and says her mother reproached
+    her with being a yam and said she did not deserve her name.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: 1264-1273
+  quote_or_summary: Adzanumee heads toward the yam-field while her frightened mother
+    follows, pleading that Adzanumee is her dear daughter.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: 1274-1281
+  quote_or_summary: Adzanumee changes back into a yam; the mother finds the yam on
+    the ground and cannot recover the daughter she had desired.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is internally clear for figures, actions, and sequence. Motif
+    labels are candidate-level and limited to the provided taxonomy where directly
+    supportable. No comparison claims are made because the passage itself supplies
+    no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. The locator label mentions multiple tale sections, but the provided passage text contains only section XII, “Adzanumee and Her Mother.”
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l1222-l1281
+  passage_sha256=036847109003a4d44e6c5d16a133218f3cb7b178aa2b7047b7451434345ecbbe
+

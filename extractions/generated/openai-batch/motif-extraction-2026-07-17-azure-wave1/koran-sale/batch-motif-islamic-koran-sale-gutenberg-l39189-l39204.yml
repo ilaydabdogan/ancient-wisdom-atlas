@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39189-l39204
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CV. / ENTITLED, THE ELEPHANT;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39189-39204
+  start: '39189'
+  end: '39204'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt describes flocks of birds being sent against an unnamed group,
+    casting down stones of baked clay and leaving the group like corn leaves eaten
+    by cattle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied passage includes footnote and bibliographic references before
+    the verse excerpt.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Flocks of birds are sent against an unnamed group.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The birds cast down stones of baked clay on the unnamed group.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unnamed group is rendered like leaves of corn eaten by cattle.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed target group
+  description: The passage refers to them only as “them.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: flocks of birds
+  description: Birds sent against the unnamed group, casting down stones of baked
+    clay.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: sent attacking agents
+  assigned_to:
+  - fig:2
+  basis: The birds are sent against the unnamed group and cast down stones.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: targeted victims
+  assigned_to:
+  - fig:1
+  basis: The unnamed group is the object of the attack and is rendered like eaten
+    corn leaves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: flocks of birds
+  literal_form: flocks of birds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stones of baked clay
+  literal_form: stones of baked clay
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: eaten corn leaves simile
+  literal_form: leaves of corn eaten by cattle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Birds cast clay stones against an unnamed group
+  summary: Flocks of birds are sent against an unnamed group, cast down stones of
+    baked clay, and the group is left in a ruined state compared to eaten corn leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: destruction of a group by sent birds and clay stones
+  taxonomy_refs: []
+  basis: The passage describes birds sent against an unnamed group, casting stones
+    of baked clay, with destructive results.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The identities of the sender and target group are not present in the supplied
+    excerpt.
+- id: motif:2
+  label: destructive judgment against a group
+  taxonomy_refs:
+  - divine_judgment
+  basis: Within the Qur'anic framing of the supplied passage label, the excerpt depicts
+    a directed destruction of an unnamed group through sent agents and stones.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The divine actor is not named in the supplied excerpt itself; the taxonomy
+    link should be reviewed against the wider chapter context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 39189-39198
+  quote_or_summary: The line range begins with notes and bibliographic references,
+    including citations to Al Beidwi, Al Zamakhshari, Jallalo'ddin, Abulfeda, Prideaux,
+    and others.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 39200-39202
+  quote_or_summary: "“send against them flocks of birds, / which casts down upon them
+    stones of baked clay”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: line 39203
+  quote_or_summary: "“render them like the leaves of corn eaten by cattle”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to divine judgment
+    is cautious because the supplied excerpt omits the named sender and fuller narrative
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text and metadata were used; no external chapter context was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39189-l39204
+  passage_sha256=5e594384b187dd4d37b36074818b436bbe5da07b62104547c1c7456fe4b169c1
+

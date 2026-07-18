@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l197-l279
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WITH TWO PAGES IN FACSIMILE OF THE MANUSCRIPTS / MY MOTHER / CONTENTS / PREFACE;
+    lines 197-279
+  start: '197'
+  end: '279'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface situates the Tain Bo Cualnge within Gaelic literature and the
+    Ulster/Cuchulain cycle. It explains the term Tain as a cattle-driving or cattle-reaving
+    category, identifies the Brown Bull of Cualnge and his herd as the central object
+    of the tale, describes cattle as a major form of wealth in early Irish society,
+    and proposes that the tale preserves a historical kernel of conflict between Connacht
+    and Ulster over cattle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage names three major Irish saga-cycles: those of the gods, of the
+    demigod Cuchulain, and of Finn son of Cumhall.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Cuchulain cycle is also called the Ulster cycle, the cycle of Conchobar,
+    and the Red Branch Cycle.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes Remscela or Foretales as tales that lead up to and explain
+    the Tain Bo Cualnge.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The term Tain is explained as referring to a driving, reaving, drove, or herd
+    of cattle, especially with the genitive plural for cows.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the Tain Bo Cualnge deals specifically with the Brown Bull
+    of Cualnge rather than strictly with the driving of cattle.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Brown Bull is described as the head of a herd and as accompanied by fifty
+    heifers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that cattle were a chief article of wealth and measure
+    of value among the Irish, making cattle-raiding expeditions frequent.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage presents the Tain Bo Cualnge as one of many cattle-preys and says
+    it likely had a kernel of actual fact.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage summarizes that a Connacht chieftain and his lady went to war
+    with Ulster about a drove of cattle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage identifies Cruachan Ai in Connacht and Emain Macha in Ulster as
+    two political centres relevant to the Ultonian cycle.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage mentions Oghamic writings on pillar-stones inscribed by Cuchulain
+    and says they seem to require interpretation to the men of Connacht by Ulstermen.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Named as the demigod associated with one of the three major saga-cycles,
+    as the hero whose home gives the Ulster cycle its name, and as the inscriber of
+    Oghamic writings on pillar-stones.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Finn son of Cumhall
+  description: Named as the figure associated with one of the three major Irish saga-cycles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Conchobar
+  description: Named as the king around whom the Ulster warriors mustered and as King
+    Conchobar of Ulster.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: Brown Bull of Cualnge
+  description: The bull that the Tain Bo Cualnge is said to deal with; described as
+    the head of a herd and accompanied by fifty heifers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Connacht chieftain
+  description: A chieftain from Connacht who, with his lady, is said to have gone
+    to war with Ulster about a drove of cattle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Connacht chieftain's lady
+  description: The lady of the Connacht chieftain who is said to have gone to war
+    with Ulster about a drove of cattle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Connacht warrior queen
+  description: A warrior queen of Connacht whose gathered warriors are mentioned in
+    comparison with those around King Conchobar of Ulster.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Ulster warriors
+  description: The warriors mustered around Conchobar and later contrasted with the
+    warriors gathered by the Connacht warrior queen.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: cycle hero
+  assigned_to:
+  - fig:1
+  basis: The passage calls Cuchulain the demigod of one saga-cycle and the hero whose
+    home is in northern Ireland.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: saga-cycle figure
+  assigned_to:
+  - fig:2
+  basis: Finn son of Cumhall is named as the figure of one of the three saga-cycles.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Ulster king and warrior leader
+  assigned_to:
+  - fig:3
+  basis: The passage calls Conchobar the king around whom the Ulster warriors mustered.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: contested bull and head of herd
+  assigned_to:
+  - fig:4
+  basis: The passage says the Tain concerns the Brown Bull of Cualnge and that carrying
+    him off implies carrying off the herd of which he was head.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cattle-war initiators
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage summarizes the historical basis as a Connacht chieftain and his
+    lady going to war with Ulster about cattle.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: warrior-mustering queen
+  assigned_to:
+  - fig:7
+  basis: The passage mentions warriors mustered by the Connacht warrior queen.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: inscriber of Oghamic pillar-stones
+  assigned_to:
+  - fig:1
+  basis: The passage mentions Oghamic writings inscribed on pillar-stones by Cuchulain.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: mustered warrior group
+  assigned_to:
+  - fig:8
+  basis: The passage refers to Ulster warriors mustered around Conchobar.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: cattle as wealth and raid-object
+  literal_form: cattle, cows, drove, herd
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Brown Bull of Cualnge
+  literal_form: brown bull
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fifty heifers
+  literal_form: fifty heifers accompanying the Brown Bull
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Oghamic pillar-stones
+  literal_form: Oghamic writings inscribed on pillar-stones
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Red Branch banqueting hall
+  literal_form: banqueting hall at Emain Macha in Ulster
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Classification of the Cuchulain or Ulster cycle
+  summary: The passage places the Cuchulain cycle among three major Irish saga-cycles
+    and lists several names for it, including Ulster cycle, cycle of Conchobar, and
+    Red Branch Cycle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Foretales leading to the Tain
+  summary: The passage explains that Remscela or Foretales lead up to and explain
+    the Tain Bo Cualnge, which is singled out as a major Irish epic tale.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Brown Bull Quest within cattle-spoil classification
+  summary: The passage explains the term Tain as cattle-driving or cattle-reaving
+    and says the Tain Bo Cualnge centers on carrying off the Brown Bull of Cualnge,
+    the head of a herd accompanied by fifty heifers.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cattle-raiding as economic warfare
+  summary: The passage describes cattle as a chief form of wealth and measure of value
+    and connects this to cattle-raiding expeditions between districts.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Proposed historical basis of the Tain
+  summary: 'The passage states that the Tain likely had a factual kernel: a Connacht
+    chieftain and his lady went to war with Ulster over a drove of cattle, within
+    a setting of relations between Cruachan Ai and Emain Macha.'
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cattle raid or cow-spoil
+  taxonomy_refs: []
+  basis: The passage explicitly defines Tain as a cattle-driving or cattle-reaving
+    category and places the Tain Bo Cualnge in the class of Cow-spoils.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a literary-historical classification in the preface, not a narrated
+    episode in the extracted passage.
+- id: motif:2
+  label: contested exceptional bull as object of conflict
+  taxonomy_refs: []
+  basis: The passage says the Tain Bo Cualnge centers on the Brown Bull of Cualnge
+    and that carrying him off entails carrying off his herd.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage summarizes the tale's object rather than narrating the raid
+    itself.
+- id: motif:3
+  label: war for livestock wealth
+  taxonomy_refs: []
+  basis: The passage links cattle as chief wealth and measure of value with frequent
+    marauding expeditions, then summarizes the Tain's historical basis as war over
+    a drove of cattle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The statement is an explanatory claim by the preface writer, not a direct
+    mythic scene.
+- id: motif:4
+  label: regional opposition between Connacht and Ulster
+  taxonomy_refs: []
+  basis: The passage describes conflict or relations between Cruachan Ai in Connacht
+    and Emain Macha in Ulster and says a Connacht chieftain and his lady went to war
+    with Ulster over cattle.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage also cautions against reading the conflict as a racial clash
+    or war of tribes.
+- id: motif:5
+  label: inscribed stones requiring interpretation across opposing groups
+  taxonomy_refs: []
+  basis: The passage mentions Oghamic writings inscribed on pillar-stones by Cuchulain
+    that seem to require interpretation to Connacht men by Ulstermen.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is only briefly mentioned as an exception in an argument about language
+    or group distinction; no full narrative context is supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that the Tain Bo Cualnge has been called the Iliad of
+    Ireland, indicating a literary comparison to a major epic tradition.
+  claim_level: same_function
+  target: The Iliad as an epic point of comparison
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an epithet rather than a detailed motif-by-motif
+    comparison.
+- id: claim:2
+  claim: The passage compares Irish cattle-raiding for wealth to North American Indian
+    tribal wars for the acquisition of horses.
+  claim_level: same_function
+  target: Horse-acquisition warfare among North American Indians as described in the
+    preface
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and economic; the passage does not establish
+    historical contact or shared inheritance.
+- id: claim:3
+  claim: The passage links early Irish cattle-reaving to later Gaelic Highland plundering
+    incursions or creaghs as evidence for a long-lived custom.
+  claim_level: same_function
+  target: Highland creaghs in Gaelic tradition
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as survival of a custom, but does not provide
+    detailed examples within the extracted passage.
+- id: claim:4
+  claim: The passage says similar warfare for subsistence or warrior exercise was
+    reported by Caesar among Continental Germans, with possible reference to Celts.
+  claim_level: same_function
+  target: Continental German or Celtic warfare as reported by Caesar
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage itself marks the Celtic attribution with uncertainty and
+    does not demonstrate direct historical continuity.
+- id: claim:5
+  claim: The passage compares modern Irish cattle-drives to older cattle-reaving practices
+    while noting that the modern motive differed from plunder.
+  claim_level: same_function
+  target: Modern Irish cattle-drives
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The same evidence notes a difference in motive, so the comparison is
+    functional but not identical.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 197-208
+  quote_or_summary: The passage states that Gaelic literature includes major cycles
+    of the gods, Cuchulain, and Finn; it explains that the Cuchulain cycle is also
+    called the Ulster, Conchobar, and Red Branch Cycle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 209-218
+  quote_or_summary: The passage says surviving Foretales lead up to the Tain Bo Cualnge
+    and describes the Tain as a major Irish epic, including the reported epithet 'Iliad
+    of Ireland.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized with a short quoted epithet.
+- id: ev:3
+  type: summary
+  locator: lines 219-236
+  quote_or_summary: The passage explains Tain as cattle-driving or cattle-reaving,
+    says the Tain Bo Cualnge concerns the Brown Bull of Cualnge, and notes that the
+    bull is head of a herd and accompanied by fifty heifers.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 237-260
+  quote_or_summary: The passage connects the prominence of cattle-prey stories to
+    cattle as wealth, compares cattle-raiding to horse-acquisition warfare, Continental
+    warfare reported by Caesar, Highland creaghs, and modern cattle-drives, while
+    noting different motives in the modern case.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 261-279
+  quote_or_summary: 'The passage says the Tain likely preserves a factual kernel:
+    a Connacht chieftain and his lady went to war with Ulster about cattle; it names
+    Cruachan Ai and Emain Macha as centres and mentions Cuchulain''s Oghamic pillar-stone
+    writings.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a preface and mostly provides literary-historical framing
+    rather than direct mythic narration. Motifs are therefore extracted as candidate
+    patterns explicitly described by the preface.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif_family or symbol IDs were assigned because the available taxonomy list does not contain a direct cattle-raid, bull-prize, or cow-spoil category, and the passage does not support mapping these to sacred theft or quest categories.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l197-l279
+  passage_sha256=9f0a35870666c70687b5ea0085e863c6554d4b0f28caadff9798c1119a67f1e4
+

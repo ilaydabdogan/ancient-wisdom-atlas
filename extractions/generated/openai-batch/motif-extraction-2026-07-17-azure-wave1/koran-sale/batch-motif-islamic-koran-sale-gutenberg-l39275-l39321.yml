@@ -1,0 +1,550 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39275-l39321
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, NECESSARIES; WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF
+    THE MOST MERCIFUL GOD. / CHAPTER CVIII. / IN THE NAME OF THE MOST MERCIFUL GOD.;
+    lines 39275-39321
+  start: '39275'
+  end: '39321'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents the opening and short text of Chapter CVIII with notes.
+    It says that al Cawthar has been given to the addressed recipient, commands prayer
+    to the Lord and slaughter of victims, and states that the recipient's hater will
+    be childless. The notes explain al Cawthar as abundance or as a paradisal river
+    feeding Mohammed's pond, describe its water and vessels, and include a polemical
+    alternative reading by Euthymius Zigabenus. The passage also contains adjacent
+    notes on al Man as necessaries, alms, or essential items such as fire, water,
+    and salt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with the formula naming the most merciful God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A divine plural speaker states that al Cawthar has been given to the addressed
+    recipient.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note explains al Cawthar as abundance, especially good, and lists possible
+    meanings including wisdom, prophecy, the Koran, intercession, children, and followers.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says al Cawthar is generally expounded as a river in paradise whose
+    water is derived into Mohammed's pond, from which the blessed drink before admission
+    into paradise.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A tradition describes the river as sweeter than honey, whiter than milk, cooler
+    than snow, and smoother than cream; its banks are chrysolites, its drinking vessels
+    are silver, and drinkers never thirst.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The addressed recipient is commanded to pray to the Lord and slay the victims.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the person who hates the addressed recipient will
+    be childless.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The note on al Man defines it as utensils or necessaries, gives examples such
+    as a hatchet, pot, dish, needle, bucket, and hand-mill, and reports a tradition
+    listing fire, water, and salt.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The same note says al Man later came to denote legal or voluntary alms in
+    Mohammedan usage.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: An adjacent note reports variant identifications of a person who turned away
+    or beat away an orphan seeking relief or food.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Euthymius Zigabenus is reported as reading Cauthar as Canthar, linking it
+    to a Greek word translated as beetle, and rendering the sacrifice command as slaying
+    it.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / divine speaker
+  description: Named in the opening formula and represented by the speaker who gives
+    al Cawthar and is called the Lord to whom prayer is directed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Addressed recipient / Mohammed
+  description: The figure addressed as 'thee'; the note connects the paradisal river's
+    water to Mohammed's pond.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: The blessed
+  description: Those who drink from Mohammed's pond before admission into paradise
+    and, according to the tradition, never thirst.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Hater of the addressed recipient
+  description: The person described as hating the addressed recipient and as being
+    childless.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Orphan seeking relief
+  description: An orphan in the adjacent note who asks for relief or a piece of camel
+    flesh and is turned or beaten away in variant reports.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Possible rejecters of the orphan
+  description: Variant figures in the note include Abu Jahl, Abu Sofin, al Walid Ebn
+    al Mogheira, and others as possible persons who rejected or beat away the orphan.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Euthymius Zigabenus
+  description: A commentator reported as offering an alternative reading of Cauthar
+    as Canthar and translating the verse accordingly.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine giver
+  assigned_to:
+  - fig:1
+  basis: The speaker says al Cawthar has been given to the addressed recipient.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Lord receiving prayer
+  assigned_to:
+  - fig:1
+  basis: The verse commands the addressed recipient to pray unto the Lord.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recipient of al Cawthar
+  assigned_to:
+  - fig:2
+  basis: The passage says al Cawthar has been given to the one addressed as 'thee.'
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: commanded ritual performer
+  assigned_to:
+  - fig:2
+  basis: The addressed figure is commanded to pray and slay the victims.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: paradisal drinkers
+  assigned_to:
+  - fig:3
+  basis: The blessed drink from the pond before admission into paradise and shall
+    never thirst.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: hostile antagonist marked by childlessness
+  assigned_to:
+  - fig:4
+  basis: The verse says the hater of the addressed recipient shall be childless.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: vulnerable supplicant
+  assigned_to:
+  - fig:5
+  basis: The adjacent note describes an orphan asking for relief or food.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: rejecter of vulnerable supplicant
+  assigned_to:
+  - fig:6
+  basis: The adjacent note lists variant persons who allegedly turned away or beat
+    away the orphan.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: alternative interpreter
+  assigned_to:
+  - fig:7
+  basis: The note presents Euthymius Zigabenus as proposing a different reading and
+    translation.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: al Cawthar
+  literal_form: Named divine gift; explained as abundance or as a river in paradise.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: paradisal river and pond
+  literal_form: A river in paradise whose water is derived into Mohammed's pond for
+    the blessed to drink before admission into paradise.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: milk comparison
+  literal_form: The river is described as whiter than milk.
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: silver drinking vessels
+  literal_form: Vessels of silver used to drink from the paradisal river.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: victims for slaughter
+  literal_form: Victims commanded to be slain after prayer to the Lord.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: al Man / necessaries
+  literal_form: Utensils or necessary-use items such as pot, dish, needle, bucket,
+    hand-mill, and also fire, water, and salt; later alms.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: childlessness
+  literal_form: The stated condition of the addressed recipient's hater.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: beetle in alternative reading
+  literal_form: Euthymius Zigabenus's reported reading of Cauthar as Canthar, translated
+    as beetle.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Gift of al Cawthar
+  summary: The divine speaker says al Cawthar has been given to the addressed recipient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Paradisal river explanation
+  summary: The note explains al Cawthar as a paradisal river feeding Mohammed's pond,
+    where the blessed drink before entering paradise and never thirst.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Prayer and slaughter command
+  summary: The addressed recipient is instructed to pray to the Lord and slay victims.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hater's childlessness
+  summary: The passage declares that the one who hates the addressed recipient shall
+    be childless.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Necessaries and alms note
+  summary: An adjacent note defines al Man as practical necessities and later as legal
+    or voluntary alms.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Orphan rejected in adjacent note
+  summary: An adjacent note gives variant reports of an orphan who sought relief or
+    food and was turned away or beaten away.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Alternative reading by Euthymius
+  summary: Euthymius Zigabenus is reported as reading Cauthar as Canthar and translating
+    the gift as a beetle to be slain.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:8
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine gift of abundance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The divine speaker gives al Cawthar to the addressed recipient, and the following
+    verse commands prayer and slaughter in relation to the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly frame the prayer and slaughter as repayment
+    for the gift; the exchange pattern is inferred from sequence.
+- id: motif:2
+  label: Ritual prayer with slaughtered victims
+  taxonomy_refs:
+  - sacrifice
+  basis: The verse directly commands the addressed recipient to pray to the Lord and
+    slay the victims.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives no detailed ritual procedure beyond prayer and slaughter.
+- id: motif:3
+  label: Paradisal water before admission to paradise
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The note explains al Cawthar as a river in paradise whose water flows into
+    Mohammed's pond, where the blessed drink before admission into paradise and never
+    thirst.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an exegetical note rather than the short verse alone, and it describes
+    an afterlife threshold element rather than a full journey map.
+- id: motif:4
+  label: Hostile opponent marked by loss of lineage
+  taxonomy_refs:
+  - divine_judgment
+  basis: The verse states that the one who hates the addressed recipient shall be
+    childless.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The verse states the outcome but does not elaborate a judgment scene or
+    process.
+- id: motif:5
+  label: Wisdom and prophecy as abundance
+  taxonomy_refs:
+  - wisdom
+  basis: The note lists wisdom, prophecy, the Koran, and intercession among possible
+    meanings of al Cawthar as abundance of good.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: These are listed as possible interpretations, while the note says the
+    river interpretation is generally favored.
+- id: motif:6
+  label: Withholding aid from a vulnerable supplicant
+  taxonomy_refs:
+  - sacred_exchange
+  basis: An adjacent note describes an orphan asking for relief or food and being
+    turned or beaten away; another note defines al Man as necessities or alms.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: These notes appear to belong to adjacent commentary on al Man rather than
+    to Chapter CVIII itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a linguistic comparison in which Euthymius Zigabenus
+    reads Cauthar as Canthar and connects it with a Greek term translated as beetle.
+  claim_level: linguistic_similarity
+  target: Euthymius Zigabenus's Greek/Arabic comparison of Cauthar and Canthar
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:2
+  confidence: low
+  limitations: The note presents this as an alternative and polemical reading, while
+    the same passage gives mainstream explanations of al Cawthar as abundance or a
+    paradisal river.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 39275-39278
+  quote_or_summary: 'Opening formula naming the most merciful God, followed by: "VERILY
+    we have given thee al Cawthar."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 39295-39304
+  quote_or_summary: Footnote z explains al Cawthar as abundance of good, possibly
+    wisdom, prophecy, the Koran, intercession, children, or followers, and says it
+    is generally expounded as a river in paradise feeding Mohammed's pond for the
+    blessed before admission to paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: 39304-39308
+  quote_or_summary: A prophetic tradition describes the river as sweeter than honey,
+    whiter than milk, cooler than snow, smoother than cream, with chrysolite banks
+    and silver vessels; those who drink never thirst.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: 39319-39320
+  quote_or_summary: '"Wherefore pray unto thy LORD, and slay the victims. Verily he
+    who hateth thee shall be childless."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 39285-39294
+  quote_or_summary: Footnote x defines al Man as utensils or useful necessities such
+    as hatchet, pot, dish, needle, bucket, and hand-mill; it also cites fire, water,
+    and salt, and says the term later denotes legal or voluntary alms.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: 39281-39284
+  quote_or_summary: Footnote u gives variant identifications of a person who turned
+    away or beat away an orphan seeking relief or a piece of camel flesh.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:7
+  type: summary
+  locator: 39308-39313
+  quote_or_summary: Euthymius Zigabenus is reported as reading Cauthar as Canthar,
+    supposing an Arabic-Greek equivalence, translating the gift as a beetle, and rendering
+    the command as prayer to the Lord and slaying it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:8
+  type: summary
+  locator: 39279-39280
+  quote_or_summary: Adjacent notes refer to supplying food in time of famine, deliverance
+    from Abraha and his troops, and making Mecca secure.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:9
+  type: summary
+  locator: 39294-39295
+  quote_or_summary: A note says some think the chapter or passage was revealed at
+    Medina.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main Chapter CVIII material is clear, but the selected line range includes
+    adjacent notes that likely belong to surrounding commentary. Motif candidates
+    based on those adjacent notes are marked with caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only provided passage text and metadata were used. Taxonomy references were limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39275-l39321
+  passage_sha256=099f4084b4d645f5d3d51fc53a6d7fe409db0c376f4b70e5313efe4d2696240c
+

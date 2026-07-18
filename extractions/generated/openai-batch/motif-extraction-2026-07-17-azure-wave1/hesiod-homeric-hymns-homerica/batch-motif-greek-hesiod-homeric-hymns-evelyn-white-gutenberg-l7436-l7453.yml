@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7436-l7453
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXX. TO EARTH THE MOTHER OF ALL / XXXI. TO HELIOS / XXXII. TO SELENE / XXXIII.
+    TO THE DIOSCURI; lines 7436-7453
+  start: '7436'
+  end: '7453'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The hymn invokes the Muses to sing of the Tyndaridae, Castor and Polydeuces,
+    sons of Zeus and children of Leda. It recounts their birth beneath Taygetus and
+    describes them as deliverers of men and ships in storms: sailors vow white lambs
+    at the prow, the two appear through the air on tawny wings, calm winds and waves,
+    and bring relief. The hymn closes by hailing them as swift-horse riders.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker asks the bright-eyed Muses to tell of the Tyndaridae, the Sons
+    of Zeus.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Castor and Polydeuces are named as glorious children of Leda and Sons of Zeus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Leda is said to have lain with the dark-clouded Son of Cronos and to have
+    borne the two beneath the peak of Taygetus.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The children are described as deliverers of men on earth and of swift-going
+    ships when stormy gales rage over the sea.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Shipmen call upon the sons of great Zeus with vows of white lambs while going
+    to the forepart of the prow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Strong wind and sea waves lay the ship under water until the two are suddenly
+    seen darting through the air on tawny wings.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The two allay cruel winds and still the waves; their appearance is described
+    as fair signs and deliverance, after which the shipmen are glad and rest from
+    toil.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The closing salutation hails the Tyndaridae as riders upon swift horses.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bright-eyed Muses
+  description: Muses addressed by the speaker and asked to tell of the Tyndaridae.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tyndaridae / Dioscuri / Sons of Zeus
+  description: The paired figures Castor and Polydeuces, called Sons of Zeus and children
+    of Leda; described as deliverers in storms and hailed as riders on swift horses.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Castor
+  description: Named as Castor, the tamer of horses.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Polydeuces
+  description: Named as blameless Polydeuces.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Leda
+  description: Neat-ankled Leda, who bore Castor and Polydeuces beneath Taygetus after
+    lying with the Son of Cronos.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Dark-clouded Son of Cronos / Zeus
+  description: The divine figure with whom Leda lay; the Tyndaridae are called Sons
+    of Zeus and sons of great Zeus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:7
+  name_or_label: Shipmen
+  description: Sailors who call upon the sons of Zeus during a storm, make vows of
+    white lambs, and are glad after the rescue.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: invoked divine singers
+  assigned_to:
+  - fig:1
+  basis: The Muses are addressed and asked to tell of the Tyndaridae.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine paired sons / siblings
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Castor and Polydeuces are presented together as children of Leda and Sons
+    of Zeus.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: maritime deliverers and storm-stillers
+  assigned_to:
+  - fig:2
+  basis: They are described as deliverers of men and ships in storms and as calming
+    winds and waves.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: horse-associated figures
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Castor is called a tamer of horses, and the Tyndaridae are hailed as riders
+    upon swift horses.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: mother of the paired sons
+  assigned_to:
+  - fig:5
+  basis: Leda is identified as the one who bore Castor and Polydeuces.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: divine father or consort
+  assigned_to:
+  - fig:6
+  basis: Leda lay with the Son of Cronos, and Castor and Polydeuces are called Sons
+    of Zeus.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: mariners and supplicants
+  assigned_to:
+  - fig:7
+  basis: The shipmen call upon the sons of Zeus with vows during a storm and rejoice
+    after rescue.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: stormy sea and waves
+  literal_form: stormy gales, waves, ruthless sea, and white sea
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: ship and prow
+  literal_form: swift-going ships and the forepart of the prow
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: vows of white lambs
+  literal_form: white lambs promised in vows by shipmen
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: tawny wings
+  literal_form: the two seen darting through the air on tawny wings
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Taygetus peak
+  literal_form: the peak of the great hill Taygetus
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: swift horses
+  literal_form: horses tamed or ridden by Castor and the Tyndaridae
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invocation and divine birth
+  summary: The speaker invokes the Muses to tell of Castor and Polydeuces, identified
+    as Sons of Zeus and children of Leda; Leda bears them beneath Taygetus after lying
+    with the Son of Cronos.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sailors supplicate during a storm
+  summary: During stormy gales at sea, shipmen call upon the sons of Zeus with vows
+    of white lambs from the prow while wind and waves overwhelm the ship.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Aerial epiphany and rescue
+  summary: The two figures appear darting through the air on tawny wings, calm the
+    winds and waves, and become signs of deliverance; the shipmen rejoice and rest
+    from labor.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Closing hail
+  summary: The hymn closes by hailing the Tyndaridae as riders upon swift horses and
+    promising another song.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine paired brothers / sacred twins
+  taxonomy_refs:
+  - sacred_twins
+  - sibling_pair
+  basis: Castor and Polydeuces are presented together as children of Leda and Sons
+    of Zeus, act as a paired rescuing presence, and are hailed collectively as the
+    Tyndaridae.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames them as two paired divine sons but does not explicitly
+    use the word "twins" in the provided English text.
+- id: motif:2
+  label: divine parent-child identification
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The figures are repeatedly identified through divine parentage as Sons of
+    Zeus, while Leda is named as their mother.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No extended genealogy beyond Leda and Zeus is given in this passage.
+- id: motif:3
+  label: sacred birth at a named peak
+  taxonomy_refs:
+  - sacred_birth
+  basis: Leda bears the two children beneath the peak of Taygetus after lying with
+    the Son of Cronos.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The birth is tied to divine parentage and a named elevated place, but
+    no additional miraculous birth details are supplied.
+- id: motif:4
+  label: votive supplication and divine rescue
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Shipmen call on the sons of Zeus with vows of white lambs during a storm,
+    after which the two appear and calm the sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states vows and subsequent deliverance, but does not explicitly
+    describe a completed offering or formal bargain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXXIII. To the Dioscuri, ll. 1-5
+  quote_or_summary: 'The Muses are asked to tell of the Tyndaridae, Sons of Zeus:
+    Castor and Polydeuces, children of Leda; Leda lay with the Son of Cronos and bore
+    them beneath Taygetus.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain translation; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: XXXIII. To the Dioscuri, ll. 5-8
+  quote_or_summary: The children are described as deliverers of men on earth and of
+    swift-going ships when stormy gales rage over the sea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain translation; source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: XXXIII. To the Dioscuri, ll. 8-12
+  quote_or_summary: Shipmen call upon the sons of great Zeus with vows of white lambs
+    at the prow; wind and waves lay the ship under water until the two are suddenly
+    seen darting through the air on tawny wings.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain translation; source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: XXXIII. To the Dioscuri, ll. 12-17
+  quote_or_summary: The two allay cruel winds and still the waves; they are fair signs
+    and deliverance from toil, and the shipmen are glad and rest from pain and labor.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain translation; source metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: XXXIII. To the Dioscuri, ll. 18-19
+  quote_or_summary: The hymn hails the Tyndaridae as riders upon swift horses and
+    says the singer will remember them and another song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public-domain translation; source metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif mappings are limited
+    to the provided taxonomy and remain draft pending human review. No separate comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage_text contains only Hymn XXXIII to the Dioscuri, although the locator label mentions XXX through XXXIII; extraction is limited to the provided passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7436-l7453
+  passage_sha256=75cab5a87fdcbc269c178741fb5fe73a79d6a207f98664bfb6678049c2f36906
+

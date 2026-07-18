@@ -1,0 +1,577 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l20403-l20499
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XII. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 20403-20499
+  start: '20403'
+  end: '20499'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes commentary on Joseph, Zoleikha, and Egyptian women;
+    Joseph’s imprisonment; his interpretation of fellow prisoners’ dreams; the king
+    of Egypt’s dream of seven cattle and seven ears of corn; and Joseph’s interpretation
+    predicting seven years of sowing, seven years of famine, and a later year of rain
+    and plenty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says forty women were invited, including five ladies mentioned earlier
+    in the surrounding text.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note explains that the Egyptian women cut themselves because of surprise
+    at Joseph’s beauty, and says Zoleikha had put knives in their hands foreseeing
+    this accident.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'A note gives possible explanations for Joseph’s imprisonment: suspicion despite
+    proofs of innocence, or Zoleikha’s wish to remove him while intending to force
+    his compliance.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note identifies Joseph’s two fellow prisoners as the chief butler and baker,
+    accused of a design to poison their lord.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Joseph tells the two fellow prisoners that one will again serve wine to his
+    lord, while the other will be crucified and birds will eat from his head.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Joseph asks the prisoner expected to escape to remember him before his lord,
+    but the devil causes the man to forget, and Joseph remains in prison for years.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The king of Egypt reports a dream in which seven fat cattle are devoured by
+    seven lean cattle, along with seven green ears of corn and seven withered ears.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The nobles say the king’s dream is confused and that they are not skilled
+    in interpreting such dreams.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The delivered fellow prisoner remembers Joseph after some time and goes to
+    the prison to ask him for the interpretation of the king’s dream.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Joseph interprets the dream by saying that people should sow for seven years
+    as usual and leave the harvested corn in its ear, except for a little to eat.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Joseph says seven grievous years of famine will follow and consume what has
+    been stored, except a little kept back.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Joseph says that after the famine there will come a year with abundant rain,
+    during which people will press wine and oil.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Joseph
+  description: A prisoner described as truthful and able to interpret dreams; he interprets
+    the prisoners’ fates and the king’s dream.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Zoleikha
+  description: In commentary, she foresees the women’s surprise at Joseph’s beauty,
+    gives them knives, and is mentioned as a possible cause of Joseph’s imprisonment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Egyptian women
+  description: A group of invited women who cut themselves in surprise at Joseph’s
+    beauty according to the note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Delivered fellow prisoner / chief butler
+  description: One of Joseph’s fellow prisoners; foretold to serve wine again, later
+    released, forgets Joseph, and eventually seeks Joseph’s interpretation of the
+    king’s dream.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: Other fellow prisoner / chief baker
+  description: One of Joseph’s fellow prisoners; the passage foretells that the other
+    prisoner will be crucified and birds will eat from his head.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: King of Egypt
+  description: A ruler who reports a dream of seven cattle and seven ears of corn
+    and asks his nobles to interpret it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Nobles
+  description: The king’s nobles are asked to expound the dream but say they cannot
+    interpret such dreams.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Devil
+  description: The passage says the devil caused the delivered prisoner to forget
+    to mention Joseph to his lord.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: imprisoned dream interpreter
+  assigned_to:
+  - fig:1
+  basis: Joseph is in prison, is called truthful, and interprets the fates of prisoners
+    and the king’s agricultural dream.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: role:2
+  label: desiring instigator in commentary
+  assigned_to:
+  - fig:2
+  basis: The notes say Zoleikha arranged knives for the women and may have sought
+    Joseph’s imprisonment to force compliance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: awestruck witnesses
+  assigned_to:
+  - fig:3
+  basis: The women are said to have cut themselves because of surprise at Joseph’s
+    beauty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: released intermediary
+  assigned_to:
+  - fig:4
+  basis: The delivered prisoner is foretold to serve wine, forgets Joseph, later remembers
+    him, and goes to ask him for the dream interpretation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:5
+  label: condemned fellow prisoner
+  assigned_to:
+  - fig:5
+  basis: Joseph foretells that the other prisoner will be crucified and that birds
+    will eat from his head.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: royal dreamer
+  assigned_to:
+  - fig:6
+  basis: The king reports the dream of cattle and corn and seeks an interpretation.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: unable court interpreters
+  assigned_to:
+  - fig:7
+  basis: The nobles are asked to interpret the dream but deny skill in this kind of
+    interpretation.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: agent of forgetting
+  assigned_to:
+  - fig:8
+  basis: The passage states that the devil caused the delivered prisoner to forget
+    to mention Joseph.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: seven fat and seven lean cattle
+  literal_form: Seven fat kine devoured by seven lean kine in the king’s dream.
+  associated_figures:
+  - fig:6
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:2
+  label: green and withered ears of corn
+  literal_form: Seven green ears of corn and seven withered ears in the king’s dream.
+  associated_figures:
+  - fig:6
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:3
+  label: stored corn in the ear
+  literal_form: Corn left in its ear after harvest, except a little for eating.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:4
+  label: seven-year sequence
+  literal_form: Seven years of sowing followed by seven grievous years of famine.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:5
+  label: rain after famine
+  literal_form: A later year with plenty of rain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+- id: sym:6
+  label: wine and oil pressing
+  literal_form: People press wine and oil in the year of renewed plenty.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:7
+  label: knives and cutting
+  literal_form: Knives placed in the women’s hands, leading them to cut themselves
+    in surprise at Joseph’s beauty.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: prison
+  literal_form: The prison where Joseph remains and where the delivered prisoner comes
+    to ask for the interpretation.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:9
+  label: birds eating from the head
+  literal_form: Birds eating from the head of the prisoner who is to be crucified.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Women startled by Joseph’s beauty
+  summary: Commentary says a group of women were invited, were given knives by Zoleikha,
+    and cut themselves in surprise at Joseph’s beauty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Joseph interprets the prisoners’ fates
+  summary: In prison, Joseph tells two fellow prisoners that one will return to serving
+    wine and the other will be crucified with birds eating from his head.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Joseph forgotten in prison
+  summary: Joseph asks the prisoner expected to escape to remember him, but the devil
+    causes the man to forget, so Joseph remains imprisoned for years.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: The king’s dream and failed court interpretation
+  summary: The king dreams of seven fat cattle devoured by seven lean cattle and of
+    green and withered ears of corn; his nobles say they cannot interpret the vision.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Joseph interprets the dream as agricultural crisis and recovery
+  summary: The delivered prisoner asks Joseph for the interpretation, and Joseph predicts
+    seven years of sowing and storage, seven years of famine, and then a year of rain
+    and abundance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Dream interpretation as saving wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Joseph interprets the fates of the prisoners and later gives the interpretation
+    of the king’s dream when the nobles cannot.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The passage presents interpretation and counsel, but does not in this
+    excerpt narrate the later implementation of the plan.
+- id: motif:2
+  label: Abundance, famine, and restored plenty
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Joseph interprets the dream as seven years of sowing and storage, seven years
+    of famine, and a later year of rain and pressing wine and oil.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The sequence is seven-year agricultural time rather than a literal seasonal
+    cycle; the taxonomy mapping is approximate.
+- id: motif:3
+  label: Forgotten prisoner recalled for hidden knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Joseph remains in prison after being forgotten, but is later remembered and
+    consulted for the king’s dream interpretation.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage shows recall and consultation, but does not narrate release
+    within the supplied excerpt.
+- id: motif:4
+  label: Contrasting fates of paired prisoners
+  taxonomy_refs:
+  - duality
+  basis: 'Joseph tells two fellow prisoners opposite outcomes: one will resume service,
+    while the other will be crucified and eaten by birds.'
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The duality is a local narrative contrast, not necessarily a broad cosmological
+    dualism.
+- id: motif:5
+  label: Overwhelming beauty causing bodily wounding
+  taxonomy_refs: []
+  basis: The commentary says the invited women cut themselves because of extreme surprise
+    at Joseph’s beauty, with knives placed in their hands by Zoleikha.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This detail appears in explanatory commentary rather than in the main
+    quoted passage segment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20403-20404
+  quote_or_summary: The note states that forty women were invited and that five named
+    ladies from the surrounding discussion were among them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20414-20423
+  quote_or_summary: The note says the women cut themselves from surprise at Joseph’s
+    beauty, and that Zoleikha put knives in their hands anticipating the accident.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20424-20431
+  quote_or_summary: The note gives possible reasons for Joseph’s imprisonment, including
+    suspicion despite proofs of innocence or Zoleikha’s wish to remove him while intending
+    to force his compliance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20432-20433
+  quote_or_summary: A note identifies Joseph’s fellow prisoners as the chief butler
+    and baker, accused of a design to poison their lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 20445-20448
+  quote_or_summary: Joseph tells the two fellow prisoners that one will serve wine
+    again and the other will be crucified, with birds eating from his head.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 20449-20452
+  quote_or_summary: Joseph asks the one expected to escape to remember him before
+    his lord; the devil causes forgetting, and Joseph remains in prison for years.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 20453-20456
+  quote_or_summary: The king of Egypt dreams of seven fat cattle devoured by seven
+    lean cattle, and of seven green ears of corn and seven withered ears.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 20457-20459
+  quote_or_summary: The nobles call the dream confused and say they lack skill in
+    interpreting such dreams.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 20460-20466
+  quote_or_summary: The delivered fellow prisoner remembers Joseph after a time, goes
+    to the prison, and asks Joseph to interpret the king’s vision.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 20467-20469
+  quote_or_summary: Joseph says the people shall sow seven years as usual and leave
+    the harvested corn in its ear except a little for eating.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 20470-20472
+  quote_or_summary: Joseph says seven grievous years of famine will consume the stored
+    provisions, except a little that has been kept.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 20473-20475
+  quote_or_summary: Joseph says a later year will bring plenty of rain and people
+    will press wine and oil.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied public-domain passage and notes.
+    Motif taxonomy mappings are cautious, especially for agricultural cyclicity and
+    local narrative duality. No comparison claims beyond candidate motif classification
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage combines main translated Qur'anic narrative with Sale’s explanatory notes; records distinguish commentary-based observations where relevant.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l20403-l20499
+  passage_sha256=df4380f8cdb12b598af870e341ab2a358b73e36ea9945bc8a8532a6f6ff7bbf2
+

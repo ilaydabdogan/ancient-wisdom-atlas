@@ -1,0 +1,573 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38132-l38188
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THOSE WHO GIVE SHORT MEASURE OR WEIGHT; REVEALED AT MECCA. / IN
+    THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXXIV. / IN THE NAME OF THE MOST
+    MERCIFUL GOD.; lines 38132-38188
+  start: '38132'
+  end: '38188'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents an eschatological scene: heaven is rent and earth
+    is stretched and emptied while obeying the Lord; human beings labor toward meeting
+    the Lord; records are given either in the right hand, leading to easy account
+    and joy, or behind the back, leading to destruction and burning in hell. The speaker
+    invokes cosmic signs and says people will be transferred from state to state,
+    questions disbelief in resurrection and refusal to humble themselves at the Koran,
+    and contrasts grievous punishment for unbelievers with an unfailing reward for
+    believers who do good works.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heaven is said to be rent in sunder and to obey its Lord.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The earth is said to be stretched out, to cast forth what is in it, to remain
+    empty, and to obey its Lord.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: Man is addressed as laboring toward meeting the Lord and is told that he will
+    meet him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A person whose book is given into his right hand is called to an easy account
+    and turns to his family with joy.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:5
+  text: A person whose book is given behind his back invokes destruction and is sent
+    into hell to be burned.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:6
+  text: The punished person is said to have rejoiced insolently among his family on
+    earth and to have thought he would never return unto God.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Lord is said to have beheld the person who thought he would not return.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker swears by the redness of the sky after sunset, by the night and
+    the animals it gathers, and by the full moon.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The addressed people are told that they will be transferred successively from
+    state to state.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: obs:10
+  text: The passage asks why people do not believe the resurrection and do not humble
+    themselves when the Koran is read to them.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Unbelievers accuse the Koran of imposture, while God is said to know the malice
+    hidden in their breasts.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A grievous punishment is denounced, except for those who believe and do good
+    works, for whom a never-failing reward is prepared.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The explanatory note says the earth being stretched out is like a skin, with
+    every mountain and hill leveled, and that the earth casts forth treasures and
+    dead bodies.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The Lord whom heaven and earth obey, whom man will meet, who beholds
+    the person denying return, and who knows hidden malice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Man / humankind
+  description: The addressed human being who labors toward meeting the Lord and is
+    told of successive transfer from state to state.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: Recipient of the book in the right hand
+  description: A person whose book is given into his right hand, who receives an easy
+    account and turns joyfully to his family.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Recipient of the book behind the back
+  description: A person whose book is given behind his back, who invokes destruction
+    and is sent into hell to be burned.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:5
+  name_or_label: Unbelievers
+  description: Those who accuse the Koran of imposture and whose hidden malice God
+    knows.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Those who believe and do good works
+  description: Those excepted from the announced grievous punishment and for whom
+    a never-failing reward is prepared.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Divine judge and knower
+  assigned_to:
+  - fig:1
+  basis: The Lord is obeyed by heaven and earth, met by humans, observes the one who
+    denies return, knows what unbelievers hide, and is associated with punishment
+    and reward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: Accountable human
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Humans are addressed as laboring toward meeting the Lord; individuals receive
+    their books and are accounted or punished.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Rewarded recipient
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The right-hand recipient receives an easy account and joy; believers who
+    do good works receive an unfailing reward.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: Punished recipient
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The behind-the-back recipient is sent to hell, and unbelievers are threatened
+    with grievous punishment.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: Denier of the recited Koran
+  assigned_to:
+  - fig:5
+  basis: Unbelievers accuse the Koran of imposture when the passage discusses refusal
+    to believe and humble themselves.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Believer and doer of good works
+  assigned_to:
+  - fig:6
+  basis: The passage names those who believe and do good works as receiving a never-failing
+    reward.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Rending of heaven
+  literal_form: heaven rent in sunder
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Stretched and emptied earth
+  literal_form: earth stretched out, casting forth what is within it and remaining
+    empty
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: Book in the right hand
+  literal_form: book given into the right hand
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Book behind the back
+  literal_form: book given behind the back; note explains this as the left hand bound
+    behind the back
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:5
+  label: Hell-burning
+  literal_form: sent into hell to be burned
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Redness of the sky after sunset
+  literal_form: redness of the sky after sunset
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Night gathering animals
+  literal_form: night and the animals which it drives together
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Full moon
+  literal_form: the moon when she is in the full
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: Recited Koran
+  literal_form: the Koran read unto them
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: Leveled mountains and hills
+  literal_form: every mountain and hill being levelled in the note explaining the
+    stretched earth
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cosmic rending and emptying
+  summary: Heaven is rent and earth is stretched, emptied, and made obedient to the
+    Lord.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:10
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: scene:2
+  label: Human movement toward meeting the Lord
+  summary: Man is addressed as laboring toward a meeting with the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Right-hand book and joyful account
+  summary: The person receiving his book in his right hand is called to an easy account
+    and returns joyfully to his family.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: scene:4
+  label: Behind-the-back book and hell
+  summary: The person receiving his book behind his back calls for destruction and
+    is sent to hell to be burned, because he lived insolently and thought he would
+    not return to God.
+  figure_refs:
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: scene:5
+  label: Cosmic oath and state-to-state transfer
+  summary: The speaker invokes sunset redness, night with gathered animals, and the
+    full moon, then states that the addressed people will be transferred successively
+    from state to state.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: scene:6
+  label: Disbelief, recitation, punishment, and reward
+  summary: The passage questions disbelief in resurrection and failure to humble themselves
+    when the Koran is read; unbelievers accuse it of imposture, God knows what they
+    hide, and punishment is contrasted with reward for believers who do good works.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Cosmic disruption before divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage begins with heaven being rent and earth being stretched and emptied,
+    followed by the meeting with the Lord and subsequent accounting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy lacks a more specific eschatological cosmic-dissolution
+    category, so the motif is placed under divine judgment.
+- id: motif:2
+  label: Book-of-records judgment and sorting of fates
+  taxonomy_refs:
+  - divine_judgment
+  - afterlife_journey_map
+  basis: 'Different placements of the book correspond to different outcomes: easy
+    account and joy for the right-hand recipient, destruction and hell-burning for
+    the recipient behind the back.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The afterlife-journey aspect is limited to destinations and outcomes;
+    no detailed itinerary is given.
+- id: motif:3
+  label: Resurrection and successive transformation of states
+  taxonomy_refs:
+  - resurrection
+  basis: The passage directly asks why people do not believe the resurrection and
+    says they will be transferred from state to state; the note glosses this as living,
+    dead, and new life in another world.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The main passage states successive transfer and resurrection; the living-dead-new-life
+    sequence is from the translator's explanatory note.
+- id: motif:4
+  label: Hidden unbelief known by God
+  taxonomy_refs:
+  - divine_judgment
+  basis: Unbelievers accuse the Koran of imposture, and God is said to know the malice
+    hidden in their breasts before punishment is announced.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a judgment-related motif of divine knowledge rather than a separately
+    named taxonomy family in the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the divine_judgment motif family through cosmic signs, personal
+    accounting, and separation into punishment and reward.
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy classification, not a claim about historical contact
+    with another text or tradition.
+- id: claim:2
+  claim: The passage fits the resurrection motif family because it explicitly questions
+    disbelief in resurrection and describes transfer from one state to another.
+  claim_level: same_motif
+  target: resurrection motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The sequence of living, dead, and new life is supplied in the explanatory
+    note rather than only in the main verse translation.
+- id: claim:3
+  claim: The right-hand and behind-the-back books function as an afterlife sorting
+    pattern, assigning opposed outcomes of joy or hell-burning.
+  claim_level: same_function
+  target: afterlife_journey_map motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives judgment outcomes but not a developed journey route
+    or map.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38134-38142
+  quote_or_summary: The chapter is headed as the rending in sunder; heaven is rent
+    and obeys the Lord, and earth is stretched, empties what is within it, and obeys
+    the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 38143-38144
+  quote_or_summary: Man is addressed as laboring to meet the Lord and is told that
+    he shall meet him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 38145-38150
+  quote_or_summary: The book given in the right hand leads to easy account and joy
+    with family; the book given behind the back leads to invoking destruction and
+    being burned in hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 38151-38153
+  quote_or_summary: The punished person rejoiced insolently among his family, thought
+    he would never return to God, and the Lord beheld him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 38154-38157
+  quote_or_summary: The speaker swears by the redness of the sky after sunset, night
+    and its gathered animals, and the full moon, then says people will be transferred
+    from state to state.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 38158-38164
+  quote_or_summary: The passage questions disbelief in resurrection and failure to
+    humble themselves when the Koran is read; unbelievers call it imposture, God knows
+    hidden malice, and punishment is contrasted with unfailing reward for believers
+    who do good works.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: notes o-p, lines 38175-38177
+  quote_or_summary: The notes explain the stretched earth as like a skin with mountains
+    and hills leveled, and say the earth casts forth treasures and dead bodies from
+    graves.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:8
+  type: summary
+  locator: notes r-s, lines 38181-38184
+  quote_or_summary: The notes explain the joyful family as believing relations or
+    paradise attendants, and the book behind the back as the left hand bound behind
+    the back with the right hand to the neck.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:9
+  type: summary
+  locator: note u, lines 38186-38187
+  quote_or_summary: The note glosses transfer from state to state as from living,
+    to dead, to new life in another world.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The main eschatological judgment and resurrection patterns are explicit.
+    Afterlife-journey classification is more cautious because the passage emphasizes
+    judgment outcomes rather than a detailed journey structure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage text, notes, metadata, and available taxonomy references were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38132-l38188
+  passage_sha256=2b55d0cbae7a86154ac0c57900ddaea34d7f375268477578e40bf6d11dbd91dc
+

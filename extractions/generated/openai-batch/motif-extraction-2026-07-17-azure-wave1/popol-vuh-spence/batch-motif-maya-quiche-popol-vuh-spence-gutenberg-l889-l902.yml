@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.maya-quiche-popol-vuh-spence-gutenberg-l889-l902
+source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+passage_locator:
+  label: THE THIRD BOOK / THE FOURTH BOOK / KICH AND MEXICAN MYTHOLOGY / THE VUKUB-CAKIX
+    MYTH; lines 889-902
+  start: '889'
+  end: '902'
+  translation: The Popol Vuh
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents an interpretive discussion of the Vukub-Cakix myth,
+    emphasizing its terrestrial significance. It says Vukub-Cakix and his sons are
+    earth-made beings comparable to Jotuns or Titans; Xpiyacoc and Xmucane remove
+    Vukub-Cakix's emerald teeth and replace them with maize grains; the author reads
+    this as an allegory of removing green turf and replacing it with maize seed. The
+    passage also states that divine beings place maize in Vukub-Cakix's mouth and
+    links this to the Popol Vuh statement that gods gave maize to humanity and sacred
+    animals brought it from heaven to earth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Vukub-Cakix and his two sons have terrestrial significance
+    and are of the earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Vukub-Cakix and his progeny are made from the earth, and
+    that Vukub-Cakix represents the earth's surface.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Xpiyacoc and Xmucane remove Vukub-Cakix's emerald teeth and replace them with
+    maize grains.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author interprets the removed emerald teeth and replacement maize grains
+    as an allegory for removing green virgin turf and replacing it with maize seed.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that maize is placed in Vukub-Cakix's mouth by divine beings.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that in the third book of the Popol Vuh, the gods gave
+    maize to humanity.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that sacred animals brought maize from heaven to earth.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vukub-Cakix
+  description: A parent giant described as made from the earth and as a living representation
+    of its surface; his emerald teeth are removed and replaced with maize grains.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: two sons of Vukub-Cakix
+  description: The passage groups them with Vukub-Cakix as earth-related beings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Xpiyacoc
+  description: One of the beings who removes Vukub-Cakix's emerald teeth and replaces
+    them with maize grains.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Xmucane
+  description: One of the beings who removes Vukub-Cakix's emerald teeth and replaces
+    them with maize grains.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: divine beings
+  description: Beings who place maize in Vukub-Cakix's mouth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: gods
+  description: The passage says the gods gave maize to humanity in the third book
+    of the Popol Vuh.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: sacred animals
+  description: Animals described as bringing maize from heaven to earth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: man
+  description: Humanity receives maize from the gods according to the passage's reference
+    to the third book of the Popol Vuh.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: earth-made being
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that Vukub-Cakix, his sons, and his progeny are of the
+    earth or made from the earth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: earth-surface representative
+  assigned_to:
+  - fig:1
+  basis: The passage calls the parent giant a living representation of the earth's
+    surface.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: teeth-remover and maize-replacer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Xpiyacoc and Xmucane remove Vukub-Cakix's emerald teeth and replace them
+    with maize grains.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine maize-placer
+  assigned_to:
+  - fig:5
+  basis: The passage states that divine beings place maize in Vukub-Cakix's mouth.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: maize-giver
+  assigned_to:
+  - fig:6
+  basis: The passage says the gods gave maize to man.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: heaven-to-earth maize-bringer
+  assigned_to:
+  - fig:7
+  basis: The passage says sacred animals brought maize from heaven to earth.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: recipient of maize
+  assigned_to:
+  - fig:8
+  basis: The passage states that maize was given to man.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: emerald teeth
+  literal_form: Vukub-Cakix's emerald teeth
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: maize grains
+  literal_form: maize grains placed in Vukub-Cakix's mouth
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: earth surface
+  literal_form: the earth's surface represented by the parent giant
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: green virgin turf
+  literal_form: green virgin turf of the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: maize seed
+  literal_form: maize seed replacing removed turf in the author's allegorical reading
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: heaven
+  literal_form: heaven as the origin from which sacred animals bring maize
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vukub-Cakix as an earth-made giant
+  summary: The passage characterizes Vukub-Cakix, his sons, and his progeny as terrestrial
+    or made from the earth, with Vukub-Cakix representing the earth's surface.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Replacement of emerald teeth with maize
+  summary: Xpiyacoc and Xmucane remove Vukub-Cakix's emerald teeth and replace them
+    with maize grains; the author interprets this as a turf-to-maize-seed allegory.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Divine and animal mediation of maize
+  summary: The passage says divine beings place maize in Vukub-Cakix's mouth, and
+    connects this with a statement that gods gave maize to humanity and sacred animals
+    brought maize from heaven to earth.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: earth-made giant as representation of the earth
+  taxonomy_refs: []
+  basis: Vukub-Cakix is described as a parent giant made from the earth and as a living
+    representation of the earth's surface.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This motif is presented through the translator/commentator's interpretation
+    rather than a full narrative episode in the excerpt.
+- id: motif:2
+  label: replacement of green/precious mouth elements with maize
+  taxonomy_refs: []
+  basis: The passage describes emerald teeth being removed from Vukub-Cakix's mouth
+    and replaced with maize grains, then reads the action as an allegory of replacing
+    green turf with maize seed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The allegorical agricultural meaning is explicitly attributed to the passage's
+    authorial interpretation.
+- id: motif:3
+  label: divine gift or heavenly transfer of maize
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states that gods gave maize to man and that sacred animals brought
+    maize from heaven to earth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage describes a divine gift and transfer, but it does not describe
+    a reciprocal exchange.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Vukub-Cakix and his progeny with Jotuns of Scandinavian
+    mythology and Titans as earth-made beings.
+  claim_level: same_motif
+  target: Jotuns of Scandinavian mythology and Titans
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the passage's commentator and is limited
+    to terrestrial or earth-made character; no broader narrative parallel is provided
+    in the excerpt.
+- id: claim:2
+  claim: The passage connects the maize placed in Vukub-Cakix's mouth with a broader
+    Popol Vuh pattern in which gods give maize to humanity and sacred animals bring
+    it from heaven to earth.
+  claim_level: same_function
+  target: Popol Vuh third-book maize-gift tradition
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited third-book material is summarized within the passage rather
+    than quoted in full, and the exact narrative relationship is not elaborated here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 889-892
+  quote_or_summary: The passage says the main point of the Vukub-Cakix myth and his
+    two sons is its terrestrial significance and that they were of the earth, like
+    the Jotuns of Scandinavian mythology.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 892-895
+  quote_or_summary: '"Like the Jotuns or the Titans, Vukub-Cakix and his progeny are
+    made from the earth, and the parent giant is a living representation of its surface."'
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 895-896
+  quote_or_summary: '"Xpiyacoc and Xmucane remove his emerald teeth, and replace them
+    with maize grains"'
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 896-899
+  quote_or_summary: The passage interprets the tooth removal and maize replacement
+    as an allegory for removing the green virgin turf of the earth and replacing it
+    with maize seed.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 899-900
+  quote_or_summary: '"the maize is placed in Vukub-Cakix''s mouth by divine beings."'
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 900-902
+  quote_or_summary: The passage states that the gods gave maize to man in the third
+    book of the Popol Vuh and that sacred animals brought maize to earth from heaven.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but several motif candidates and comparisons
+    are based on the passage's interpretive commentary rather than on a full primary
+    narrative scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include maize, emerald, earth, turf, mouth, or heaven.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:maya-quiche-popol-vuh-spence-gutenberg__l889-l902
+  passage_sha256=44590c70dbe754edfe933c9231c4a22ed0e9e2aa6d76c3d709884d4b2fc3f1d2
+

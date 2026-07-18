@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l5484-l5534
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE DUEL OF MENELAUS AND PARIS. / BOOK IV. / ARGUMENT. / THE BREACH OF THE
+    TRUCE, AND THE FIRST BATTLE.; lines 5484-5534
+  start: '5484'
+  end: '5534'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes divine incitement of Trojan and Greek forces, the
+    death of Diores at Pyrus's hands, the retaliatory killing of Pyrus by Thoas, a
+    failed attempt to strip the dead man's arms, general battlefield slaughter, and
+    a hypothetical chief protected by Pallas while observing the combat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Apollo rouses the Trojan powers from Ilion's towers, while a war goddess fires
+    the Greek foe and sounds through the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Diores falls by divine doom despite his valor and lineage.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pyrus throws a broken rock that crushes Diores's ankle, nerves, and bone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Diores falls on the sands, reaches out for help, and is then pierced through
+    the navel by his foe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Thoas strikes Pyrus with a lance in the breast, then retrieves the spear and
+    wounds him with a falchion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Thoas tries to strip the corpse's arms, but Thracian bands press against him
+    with lances and he withdraws.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'The passage states that two heroes have fallen: one associated with Thrace
+    and one with the Epeian race.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The battlefield is described as red with slaughter and heaped with growing
+    piles of dead.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A hypothetical brave chief, guarded by Pallas, could pass through the field
+    with darts and swords unable to harm him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Both hosts continue fighting with a thirst for glory, and crowds die.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage ends with an illustration caption identifying a map of the Plain
+    of Troy.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Apollo
+  description: A god who rouses the Trojan powers from Ilion's lofty towers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: war's fierce goddess
+  description: A goddess of war who fires the Grecian foe and shouts and thunders
+    in the field below.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pallas
+  description: A divine figure named as guardian of a hypothetical brave chief passing
+    through the field.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Diores
+  description: A great warrior of valor and illustrious line, associated with the
+    Epeian race, killed after Pyrus crushes his ankle and pierces him.
+  role_refs:
+  - role:3
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Pyrus
+  description: Leader of the Thracian crew from the printed place-name 'cold nus';
+    he kills Diores and is then killed by Thoas.
+  role_refs:
+  - role:3
+  - role:4
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Thoas
+  description: A bold warrior who kills Pyrus, attempts to spoil his arms, and withdraws
+    when Thracian bands press him.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Trojan powers
+  description: The Trojan forces roused by Apollo.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Grecian foe
+  description: The Greek forces fired by the war goddess.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Thracian bands
+  description: Warriors who press Thoas with lances and prevent him from stripping
+    Pyrus's arms.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: hypothetical brave chief
+  description: An imagined chief who, if guarded by Pallas, could observe the battle
+    unharmed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine martial inciter
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Apollo rouses the Trojans, and the war goddess fires the Greeks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine guardian
+  assigned_to:
+  - fig:3
+  basis: Pallas is described as guarding a hypothetical chief through the dreadful
+    field.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: fallen warrior
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Diores and Pyrus are both described as fallen heroes lying in dust.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: battlefield killer
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Pyrus kills Diores, and Thoas kills Pyrus.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: would-be spoiler of arms
+  assigned_to:
+  - fig:6
+  basis: Thoas tries in vain to strip the corpse's arms before withdrawing.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: defending war-band
+  assigned_to:
+  - fig:9
+  basis: The Thracian bands press against Thoas with lances and stop his attempt to
+    take the arms.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: opposing host
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage names Trojan and Grecian forces as the two armies being stirred
+    to combat.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:8
+  label: hypothetical protected observer
+  assigned_to:
+  - fig:10
+  basis: The imagined chief would be guarded by Pallas and able to observe the war
+    unharmed.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Epeian leader
+  assigned_to:
+  - fig:4
+  basis: The passage calls one of the fallen heroes the leader of the Epeian race;
+    context identifies this with Diores.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:10
+  label: Thracian leader
+  assigned_to:
+  - fig:5
+  basis: Pyrus is described as leading the Thracian crew and as the pride of Thrace.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Ilion's lofty towers
+  literal_form: city towers
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: broken rock
+  literal_form: stone projectile that crushes Diores's ankle
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lance and spear weapons
+  literal_form: lance, spear, winged wood, and grove of lances
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: flaming falchion
+  literal_form: falchion described as flaming
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Death's sable shade
+  literal_form: dark shade over the eyes of the dead heroes
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: bloody plain and heaps of dead
+  literal_form: red fields and growing piles of corpses
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:7
+  label: harmless darts and swords
+  literal_form: darts and swords rendered unable to harm the guarded chief
+  associated_figures:
+  - fig:3
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Plain of Troy map
+  literal_form: illustration caption naming the Plain of Troy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Divine stirring of the two armies
+  summary: Apollo rouses the Trojan powers from Ilion, while the war goddess fires
+    the Greek foe in the field.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death of Diores
+  summary: Pyrus throws a broken rock that cripples Diores, who falls and reaches
+    for help before being pierced through the navel.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Thoas kills Pyrus and fails to take the arms
+  summary: Thoas wounds Pyrus with a lance and falchion, then attempts to strip his
+    arms but withdraws under pressure from Thracian lances.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Slaughtered field
+  summary: The passage summarizes the deaths of the two heroes and the wider battlefield
+    filled with blood and heaps of dead.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:5
+  label: Hypothetical Pallas-guarded observer
+  summary: The narrator imagines that a brave chief guarded by Pallas could cross
+    the field unharmed and observe the whole art of war.
+  figure_refs:
+  - fig:3
+  - fig:10
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Map caption
+  summary: An illustration caption identifies a map of the Plain of Troy.
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine incitement of opposing armies
+  taxonomy_refs: []
+  basis: The passage opens with Apollo rousing the Trojan powers and a war goddess
+    firing the Grecian foe.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not develop a broader theology of the gods' actions beyond
+    martial incitement.
+- id: motif:2
+  label: Killer immediately becomes the killed
+  taxonomy_refs: []
+  basis: Pyrus kills Diores, and Thoas soon kills Pyrus; the summary states that both
+    the vanquished and the victor lie in dust.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local battlefield sequence, not necessarily a formal duel.
+- id: motif:3
+  label: Failed stripping of a fallen warrior's arms
+  taxonomy_refs: []
+  basis: Thoas attempts to spoil the corpse's arms but is forced back by Thracian
+    bands pressing him with lances.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the arms themselves in detail.
+- id: motif:4
+  label: Divine protection amid weapons
+  taxonomy_refs: []
+  basis: A hypothetical chief guarded by Pallas would have darts turn away and swords
+    play harmlessly around him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The scene is hypothetical rather than an enacted event in the passage.
+- id: motif:5
+  label: Battlefield glory and mass death
+  taxonomy_refs: []
+  basis: The armies fight with thirst for glory while the fields run red and crowds
+    expire.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The motif label abstracts from descriptive battle narration; no taxonomy
+    reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5484-5487
+  quote_or_summary: Apollo rouses the Trojans from Ilion's towers; the war goddess
+    fires the Grecian foe in the field.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 5488-5500
+  quote_or_summary: Diores falls by divine doom after Pyrus throws a broken rock that
+    crushes his ankle; Pyrus then pierces him through the navel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 5502-5515
+  quote_or_summary: Thoas strikes Pyrus with a lance, wounds him with a falchion,
+    tries to take his arms, and withdraws when Thracian lances press him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 5517-5522
+  quote_or_summary: The passage says two heroes have fallen, death's dark shade covers
+    their eyes, and the fields are red and heaped with dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 5524-5529
+  quote_or_summary: A hypothetical chief guarded by Pallas could pass through the
+    dreadful field unharmed and observe the whole art of war.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 5531-5532
+  quote_or_summary: Both hosts fight with thirst for glory, and crowds die.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: citation
+  locator: '5534'
+  quote_or_summary: 'Illustration caption: Map of the Plain of Troy.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; brief citation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. No taxonomy motif refs
+    were assigned because the available families do not directly match the battle-scene
+    motifs. No comparison claims were made because the passage itself does not support
+    a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Literal observations distinguish actions and battlefield objects from candidate motif labels. Available symbol refs such as fire, mountain, water, tree, serpent, cave, and milk were not assigned; terms like 'fires,' 'flaming,' and 'mountains of the dead' appear here as martial or poetic phrasing rather than clear taxonomy-symbol instances.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l5484-l5534
+  passage_sha256=51d30ca12a634d134ebf04d5e2efb5cb5309e28f9f539b329fa67ec75b001f1f
+

@@ -1,0 +1,606 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l32076-l32134
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXIX. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XL. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 32076-32134
+  start: '32076'
+  end: '32134'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Chapter XL by describing God as revealer, forgiver, accepter
+    of repentance, severe punisher, and final gathering point. It recalls earlier
+    peoples who rejected prophets and were punished, states that unbelievers will
+    inhabit hell fire, describes angels around God's throne praying for repentant
+    believers and their righteous families to enter eternal gardens, and depicts unbelievers
+    at judgment confessing after two deaths and two lives while seeking release from
+    fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The book's revelation is attributed to God, who is described as mighty, wise,
+    forgiving, accepting repentance, severe in punishment, and long-suffering.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says there is no God but God and that before him will be a general
+    assembly at the last day.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Unbelievers are described as disputing against God's signs and being temporarily
+    prosperous in the land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people of Noah and later confederated infidels are said to have accused
+    their prophets of imposture, plotted against their apostles, and argued vainly
+    against the truth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God says he chastised the earlier rejecting nations and that his punishment
+    was severe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A sentence is said to have passed on unbelievers, who will be inhabitants
+    of hell fire.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Angels who bear God's throne and those around it praise their Lord, believe
+    in him, and ask pardon for true believers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The angels pray that repentant followers of God's path be forgiven and delivered
+    from the pains of hell.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The angels pray for true believers and righteous members of their families
+    to be led into gardens of eternal abode.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: At the day of judgment, unbelievers hear a voice declaring God's hatred toward
+    them greater than their hatred toward themselves because they were called to faith
+    and did not believe.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The unbelievers say that God has given them death twice and life twice, confess
+    their sins, and ask whether there is a way out of the fire.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The answer given to the unbelievers says their condition results from rejecting
+    one God while being willing to believe if a plurality of gods were associated
+    with him; judgment belongs to God.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The revealer of the book; described as mighty, wise, forgiving, accepting
+    repentance, severe in punishing, long-suffering, high, and great.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:2
+  name_or_label: unbelievers / infidels
+  description: Those who dispute against God's signs, reject faith, are sentenced
+    to hell fire, and speak at judgment asking release from fire.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: people of Noah and later confederated infidels
+  description: Earlier rejecting groups who accused prophets, plotted against apostles,
+    disputed against truth, and were chastised.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: prophets / apostles
+  description: Messengers accused of imposture and targeted by earlier nations.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: angels who bear the throne of God
+  description: Angels bearing God's throne, praising their Lord, believing in him,
+    and praying for true believers.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: angels standing about the throne
+  description: Angels around the throne who join in praise and intercession for true
+    believers.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: true believers
+  description: Those for whom the angels ask pardon, forgiveness, deliverance from
+    hell, and entrance into eternal gardens.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: righteous fathers, wives, and children
+  description: Family members of believers who do right and are included in the prayer
+    for entrance into gardens of eternal abode.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: voice at the day of judgment
+  description: An unspecified voice heard by the infidels at the day of judgment.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine revealer
+  assigned_to:
+  - fig:1
+  basis: The revelation of the book is said to be from God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: forgiver and accepter of repentance
+  assigned_to:
+  - fig:1
+  basis: God is described as forgiving sin and accepting repentance.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: final judge and punisher
+  assigned_to:
+  - fig:1
+  basis: The passage links God with the last-day assembly, severe punishment, chastisement
+    of earlier rejecters, and judgment belonging to him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:10
+- id: role:4
+  label: rejecters of faith
+  assigned_to:
+  - fig:2
+  basis: They dispute against God's signs and refuse belief when called to faith.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:5
+  label: condemned speakers in fire
+  assigned_to:
+  - fig:2
+  basis: They are said to inhabit hell fire and ask whether there is a way to get
+    out of the fire.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:6
+  label: precedent rejecters punished by God
+  assigned_to:
+  - fig:3
+  basis: Earlier groups rejected prophets, plotted, disputed, and were chastised.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: rejected messengers
+  assigned_to:
+  - fig:4
+  basis: The prophets or apostles are accused of imposture and targeted by hostile
+    nations.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: throne attendants
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The angels bear the throne of God or stand about it.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: intercessors for believers
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The angels ask pardon and pray for forgiveness, deliverance, and admission
+    to eternal gardens for believers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:10
+  label: recipients of mercy and promised gardens
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The angels pray that true believers and righteous family members be forgiven,
+    delivered, and led into gardens of eternal abode.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:11
+  label: judgment announcer
+  assigned_to:
+  - fig:9
+  basis: The voice cries out to infidels at the day of judgment.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: hell fire
+  literal_form: fire / hell fire
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: throne of God
+  literal_form: throne
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: gardens of eternal abode
+  literal_form: gardens
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: general assembly at the last day
+  literal_form: last-day assembly
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: path of God
+  literal_form: path
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: two deaths and two lives
+  literal_form: twice death and twice life
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: revealed book
+  literal_form: book / revelation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: 'Chapter opening: revelation and last-day assembly'
+  summary: The passage presents the book as a revelation from God and describes God
+    with attributes of mercy, punishment, and final gathering.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Earlier rejecting peoples punished
+  summary: Earlier peoples, including Noah's people and later confederated infidels,
+    reject and plot against prophets; God chastises them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sentence of hell fire for unbelievers
+  summary: The passage states that the sentence against unbelievers is just and that
+    they will be inhabitants of hell fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Angels around the throne intercede
+  summary: Angels bearing and surrounding God's throne praise God and ask forgiveness,
+    deliverance from hell, and eternal gardens for true believers and righteous family
+    members.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Unbelievers addressed at judgment
+  summary: At the day of judgment, unbelievers hear a voice declaring God's hatred
+    toward them because they refused faith.
+  figure_refs:
+  - fig:2
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Confession and answer in the fire
+  summary: The unbelievers confess sin after two deaths and two lives and ask for
+    escape from fire; they are answered that judgment belongs to God and that they
+    rejected monotheism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: final divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes a last-day assembly, sentence against unbelievers,
+    hell fire, divine judgment, and contrasting mercy for those delivered from evil.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The extraction is limited to this passage and does not infer wider doctrinal
+    context beyond the supplied lines.
+- id: motif:2
+  label: resurrection or revived life after death
+  taxonomy_refs:
+  - resurrection
+  basis: The condemned speakers say they were given death twice and life twice; the
+    surrounding judgment scene frames this as post-mortem accountability.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The main translated verse states the pattern of two deaths and two lives;
+    details of sequence are not fully specified in the main passage.
+- id: motif:3
+  label: deliverance from hell through divine mercy
+  taxonomy_refs:
+  - divine_judgment
+  basis: Angels ask God to forgive repentant followers, deliver them from hell's pains
+    and evil, and show mercy on the day of judgment.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a motif candidate based on the passage's prayer language, not
+    a claim about guaranteed universal deliverance.
+- id: motif:4
+  label: heavenly intercession by throne-attending angels
+  taxonomy_refs: []
+  basis: Angels who bear or surround God's throne praise God and ask pardon and salvation
+    for true believers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No taxonomy reference from the supplied list directly matches angelic
+    intercession.
+- id: motif:5
+  label: earlier rejecters as warning precedent
+  taxonomy_refs:
+  - divine_judgment
+  basis: The people of Noah and later confederated infidels reject messengers and
+    are punished, serving as a precedent for later unbelievers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage itself gives the historical-retributive sequence but does
+    not elaborate the earlier stories.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a divine-judgment motif pattern through its last-day assembly,
+    divine sentencing, hell fire for unbelievers, and mercy for those delivered from
+    evil.
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level comparison only; it does not claim historical
+    contact or dependence beyond the supplied passage.
+- id: claim:2
+  claim: The statement that the condemned have experienced two deaths and two lives
+    supports a cautious link to a resurrection motif pattern within a judgment setting.
+  claim_level: same_motif
+  target: resurrection motif family
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The main passage does not spell out the full sequence of the two deaths
+    and two lives.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32076-32134; chapter opening beginning "H. M."
+  quote_or_summary: The revelation of the book is from God, who is forgiving, accepts
+    repentance, punishes severely, and before whom there will be a general assembly
+    at the last day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 32076-32134; paragraph beginning "None disputeth"
+  quote_or_summary: Only unbelievers dispute against God's signs; their prosperous
+    dealings in the land should not deceive the hearer.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 32076-32134; paragraph beginning "The people of Noah"
+  quote_or_summary: Noah's people and later confederated infidels accused prophets,
+    plotted against apostles, disputed with vain reasoning, and were chastised by
+    God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 32076-32134; sentence beginning "Thus hath the sentence"
+  quote_or_summary: '"they shall be the inhabitants of hell fire"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote used.
+- id: ev:5
+  type: summary
+  locator: lines 32076-32134; paragraph beginning "The angels who bear"
+  quote_or_summary: The angels who bear God's throne and those around it praise God,
+    believe in him, and ask pardon for true believers, praying for repentant followers
+    to be forgiven and delivered from hell's pains.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 32076-32134; prayer beginning "O LORD, lead them"
+  quote_or_summary: The angels pray that believers and righteous fathers, wives, and
+    children be led into gardens of eternal abode promised by God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 32076-32134; prayer beginning "And deliver them from evil"
+  quote_or_summary: The angels pray for deliverance from evil on that day and say
+    such mercy will be great salvation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 32076-32134; verse marked 10
+  quote_or_summary: At the day of judgment, infidels hear a voice saying God's hatred
+    toward them is greater than their hatred toward themselves because they were called
+    to faith and did not believe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: quote
+  locator: lines 32076-32134; paragraph beginning "They shall say"
+  quote_or_summary: '"thou hast given us death twice, and thou hast twice given us
+    life"; they confess sins and ask if there is a way out of the fire.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quote plus summary used.
+- id: ev:10
+  type: summary
+  locator: lines 32076-32134; paragraph beginning "And it shall be answered"
+  quote_or_summary: The answer says this befell them because they rejected one God
+    but would have believed if a plurality of gods had been associated with him; judgment
+    belongs to the high, great God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is coherent and public-domain. Motif identifications are limited
+    to the supplied taxonomy and passage; comparison claims are taxonomy-level, not
+    historical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Translator footnotes in the supplied passage were not used as independent doctrinal evidence for motif assignment.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l32076-l32134
+  passage_sha256=d3e23520444e3b55391cc59cb94c60423819995266dd41b6b26835ababe8ae38
+

@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2699-l2728
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: LION WHO TOOK A WOMAN'S SHAPE / WHY HAS JACKAL A LONG BLACK STRIPE ON HIS
+    BACK? / HORSE CURSED BY SUN / LION'S DEFEAT; lines 2699-2728
+  start: '2699'
+  end: '2728'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Wild animals assemble at Lion's place. While Lion sleeps, Jackal persuades
+    Little Fox to make a rope from ostrich sinews and use it to tie Lion's tail to
+    a shrub. Lion wakes, calls the animals, and asks through a repeated conjuring
+    formula who tied him. The animals deny it, but Little Fox admits it. Lion breaks
+    the rope and chases Little Fox, but Little Fox outruns him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wild animals were assembled at Lion's place.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While Lion was asleep, Jackal persuaded Little Fox to twist ostrich sinews
+    into a rope in order to play Lion a trick.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The rope was fastened to Lion's tail and tied at its other end to a shrub.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Lion awoke, saw that he was tied, became angry, and called the animals together.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lion asked, in a form called conjuration, who had tied him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The first questioned animal and then the other animals denied tying Lion.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Little Fox answered that he had tied Lion.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Lion tore the sinew rope and ran after Little Fox.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Jackal told Little Fox that he would not be caught.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage states that Lion was beaten in running by Little Fox.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: Lion is asleep when tied, wakes angry, questions the animals, tears
+    the rope, pursues Little Fox, and is beaten in running.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Jackal
+  description: Jackal persuades Little Fox to prepare the rope trick and later says
+    Little Fox will not be caught.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Little Fox
+  description: Little Fox makes or participates in the rope trick, admits tying Lion,
+    is chased by Lion, and beats Lion in running.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: wild animals / assembled animals
+  description: The animals assemble at Lion's place, are called together after Lion
+    wakes, and are questioned about who tied him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: bound victim and interrogator
+  assigned_to:
+  - fig:1
+  basis: Lion is tied while asleep, then calls the animals and asks who tied him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: trick instigator
+  assigned_to:
+  - fig:2
+  basis: Jackal persuades Little Fox to twist the rope in order to play Lion a trick.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: binder and confessing trick participant
+  assigned_to:
+  - fig:3
+  basis: Little Fox is involved in the rope trick and later says he has tied Lion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: interrogated assembly
+  assigned_to:
+  - fig:4
+  basis: The animals are assembled and questioned by Lion; their denials are reported
+    collectively.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: failed pursuer
+  assigned_to:
+  - fig:1
+  basis: Lion runs after Little Fox but is beaten in running.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: successful evader
+  assigned_to:
+  - fig:3
+  basis: Little Fox is pursued by Lion and beats him in running.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ostrich-sinew rope
+  literal_form: A rope made from twisted ostrich sinews, fastened to Lion's tail and
+    tied to a shrub.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: shrub tether point
+  literal_form: A shrub to which the other end of the rope is tied.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Preparation of the rope trick
+  summary: While Lion sleeps, Jackal persuades Little Fox to twist ostrich sinews
+    into a rope, and the rope is used to tie Lion's tail to a shrub.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lion's conjuring interrogation
+  summary: Lion wakes tied, becomes angry, calls the animals together, and asks who
+    tied him; the animals deny it, but Little Fox admits it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Pursuit and defeat in running
+  summary: Lion tears the rope and runs after Little Fox; Jackal says Little Fox will
+    not be caught, and the passage concludes that Little Fox beats Lion in running.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Trickster animals bind a stronger animal
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal initiates a trick in which Little Fox helps make a rope and tie sleeping
+    Lion to a shrub.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage explicitly calls the act a trick, but it does not itself use
+    the term "trickster."
+- id: motif:2
+  label: Pursued animal defeats pursuer by outrunning him
+  taxonomy_refs: []
+  basis: After Lion tears the rope and chases Little Fox, the passage states that
+    Lion is beaten in running by Little Fox.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports the race outcome but gives no further explanation
+    of how Little Fox wins.
+- id: motif:3
+  label: Formulaic interrogation produces a confession
+  taxonomy_refs: []
+  basis: Lion uses a repeated conjuring question to ask who tied him; the animals
+    deny it until Little Fox states that he did it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage names the question as a form of conjuration but does not explain
+    its ritual force or broader function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2699-2705
+  quote_or_summary: The animals assemble at Lion's; while Lion sleeps, Jackal persuades
+    Little Fox to make a rope of ostrich sinews, and Lion's tail is tied to a shrub.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 2705-2710
+  quote_or_summary: Lion wakes tied, becomes angry, calls the animals together, and
+    asks through a conjuring formula who tied him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 2712-2720
+  quote_or_summary: The questioned animals deny tying Lion, but Little Fox answers
+    that he has tied him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: quote
+  locator: 2722-2727
+  quote_or_summary: Lion runs after Little Fox; Jackal says he will not be caught;
+    "Truly Lion was thus beaten in running by Little Fox."
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is based on the passage's
+    explicit trick, pursuit, and formulaic questioning; broader comparative claims
+    are not made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction is limited to the supplied passage text for "LION'S DEFEAT" and does not use adjacent tales named in the locator label.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2699-l2728
+  passage_sha256=cb51d9858df3e5d1fa80e8c53779f492050428b2e54fd63787c8a9d27de93d73
+

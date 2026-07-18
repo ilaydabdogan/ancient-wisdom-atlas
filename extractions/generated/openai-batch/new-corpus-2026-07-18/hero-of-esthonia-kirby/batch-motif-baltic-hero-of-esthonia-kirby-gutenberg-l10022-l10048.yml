@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l10022-l10048
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: RED RIDING-HOOD. / SNOWWHITE, THE GLASS MOUNTAIN, AND THE DESPISED YOUNGEST
+    SON. / THE THREE WISHES. / THE WITCH-BRIDE.; lines 10022-10048
+  start: '10022'
+  end: '10048'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes an Estonian version of the Three Wishes story in
+    which a quarrelsome couple wastes fairy-granted wishes, then summarizes a witch-bride
+    story in which Rõugutaja’s bark-skinned daughter is married through a love-philtre,
+    later substituted for a young mother transformed into a wolf, and finally burned
+    with her witch-mother in a bathhouse.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tale of “Loppi and Lappi” is described as a common form of the well-known
+    Three Wishes story.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quarrelsome couple are granted three wishes by a fairy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At supper-time the wife wishes for a sausage, and the sausage is wished on
+    and off her nose.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After the wishes, the couple remain as poor as before.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Versions of the witch-bride story are said to be common in Finland as well
+    as in Esthonia.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Old Rõugutaja lives with his wife and daughter in a wood.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Rõugutaja’s daughter has a beautiful face, is reported to have bark skin,
+    and has no suitors.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The mother uses a love-philtre to inveigle a youth into marrying her daughter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: The youth runs away on the first night and later marries another bride.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:10
+  text: After a child is born, the witch-mother transforms the young mother into a
+    wolf and substitutes her own daughter.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: A nurse ordered to walk the crying child meets the wolf, and the deceit is
+    discovered.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:12
+  text: The husband inveigles the witch-mother and her daughter into the bathhouse
+    and burns it down.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:13
+  text: The passage identifies the bark-skin of the witch-bride as the main feature
+    distinguishing this story from many variants among other peoples.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: quarrelsome couple in “Loppi and Lappi”
+  description: A couple granted three wishes by a fairy who remain poor after the
+    wishes are spent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: fairy
+  description: The being who grants three wishes to the quarrelsome couple.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: wife in “Loppi and Lappi”
+  description: The wife who wishes for a sausage at supper-time; the sausage is then
+    wished on and off her nose.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Old Rõugutaja
+  description: A man living with his wife and daughter in a wood.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Rõugutaja’s wife / witch-mother
+  description: The mother who uses a love-philtre to arrange her daughter’s marriage,
+    later transforms the young mother into a wolf and substitutes her own daughter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Rõugutaja’s daughter / witch-bride
+  description: A beautiful-faced daughter reportedly having bark skin; she is married
+    through her mother’s stratagem and later substituted for the young mother.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: youth / husband
+  description: The youth inveigled into marrying Rõugutaja’s daughter, who runs away,
+    later marries another bride, and finally burns the witch-mother and daughter in
+    the bathhouse.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: young mother / later wolf
+  description: The youth’s later bride, transformed into a wolf by the witch-mother
+    after giving birth to a child.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:9
+  name_or_label: crying child
+  description: The child born to the young mother and taken for a walk by the nurse.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: nurse
+  description: The nurse ordered to take the crying child for a walk; she meets the
+    wolf.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wish recipients
+  assigned_to:
+  - fig:1
+  basis: The couple are granted three wishes by a fairy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wish-granter
+  assigned_to:
+  - fig:2
+  basis: The fairy grants the three wishes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wish-maker
+  assigned_to:
+  - fig:3
+  basis: The wife wishes for a sausage at supper-time.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: woodland household figure
+  assigned_to:
+  - fig:4
+  basis: Old Rõugutaja is introduced as living with his wife and daughter in a wood.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: witch-mother and deceiver
+  assigned_to:
+  - fig:5
+  basis: The mother uses a love-philtre, transforms the young mother into a wolf,
+    and substitutes her daughter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: witch-bride / substituted daughter
+  assigned_to:
+  - fig:6
+  basis: The daughter is identified within the witch-bride story, has bark skin, and
+    is substituted for the young mother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:7
+  label: deceived husband and avenger
+  assigned_to:
+  - fig:7
+  basis: He is induced into a first marriage, later discovers the deceit, and burns
+    the witch-mother and daughter in the bathhouse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:8
+  label: transformed young mother
+  assigned_to:
+  - fig:8
+  basis: After giving birth, the young mother is transformed into a wolf.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: infant child
+  assigned_to:
+  - fig:9
+  basis: The passage mentions the birth of a child and the crying child taken for
+    a walk.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: nurse who meets the wolf
+  assigned_to:
+  - fig:10
+  basis: The nurse takes the child for a walk and meets the wolf.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: three wishes
+  literal_form: Three wishes granted by a fairy to the quarrelsome couple.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sausage wish
+  literal_form: A sausage wished for at supper-time, then wished on and off the wife’s
+    nose.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: love-philtre
+  literal_form: A love-philtre used by the mother to induce a youth to marry her daughter.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bark skin
+  literal_form: The witch-bride’s skin is reported to be of bark.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: wolf transformation
+  literal_form: The young mother is transformed into a wolf.
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: bathhouse fire
+  literal_form: The bathhouse is burned down with the witch-mother and her daughter
+    inside.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: wood dwelling
+  literal_form: The wood where Old Rõugutaja lives with his wife and daughter.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Three wishes wasted
+  summary: A quarrelsome couple receive three wishes from a fairy; a sausage wish
+    involving the wife’s nose exhausts the opportunity and leaves them poor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bark-skinned daughter and forced marriage
+  summary: In a wood, Rõugutaja’s daughter lacks suitors because of her reported bark
+    skin; her mother uses a love-philtre to induce a youth to marry her, but he flees
+    and later marries another bride.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wolf transformation and bride substitution
+  summary: After the young mother gives birth, the witch-mother transforms her into
+    a wolf and substitutes her own daughter; the nurse meets the wolf while walking
+    the crying child, leading to discovery of the deceit.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bathhouse burning
+  summary: The husband brings the witch-mother and her daughter into the bathhouse
+    and burns it down.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: three wishes wasted through foolish wishing
+  taxonomy_refs: []
+  basis: The couple receive three wishes but use them in a sausage episode and remain
+    poor.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly names the Three Wishes tale pattern.
+- id: motif:2
+  label: magical inducement of marriage by love-philtre
+  taxonomy_refs: []
+  basis: The mother contrives to get a youth to marry her daughter by means of a love-philtre.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage summarizes the action briefly and does not describe the philtre’s
+    preparation or use in detail.
+- id: motif:3
+  label: witch-bride substituted for rightful wife
+  taxonomy_refs: []
+  basis: The witch-mother transforms the young mother and substitutes her own daughter
+    in the household.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a compressed prose summary of the tale.
+- id: motif:4
+  label: human transformed into wolf
+  taxonomy_refs:
+  - shapeshifter
+  basis: The witch-mother transforms the young mother into a wolf.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The transformed figure is acted upon by the witch-mother; the passage
+    does not portray voluntary shapeshifting.
+- id: motif:5
+  label: deceit uncovered through encounter with transformed victim
+  taxonomy_refs: []
+  basis: The nurse meets the wolf after the substitution, and the deceit is discovered.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not specify exactly how the meeting reveals the deceit.
+- id: motif:6
+  label: witch and false bride destroyed by burning
+  taxonomy_refs: []
+  basis: The husband lures the witch-mother and daughter into the bathhouse and burns
+    it down.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the supplied motif families
+    do not directly name this pattern.
+- id: motif:7
+  label: bark-skinned bride as distinguishing variant feature
+  taxonomy_refs:
+  - tree
+  basis: The passage states that the bark-skin of the witch-bride is the chief feature
+    distinguishing this story from numerous variants.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The bark skin is reported within the story summary; its significance beyond
+    variant distinction is not explained.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents “Loppi and Lappi” as one common form of the well-known
+    Three Wishes story.
+  claim_level: same_motif
+  target: well-known Three Wishes tale pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name or summarize external Three Wishes variants
+    beyond stating that the story is well known.
+- id: claim:2
+  claim: The witch-bride story is explicitly said to have versions common in both
+    Finland and Esthonia.
+  claim_level: same_motif
+  target: Finnish and Estonian witch-bride versions
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage names no specific Finnish version and gives only one Estonian
+    example.
+- id: claim:3
+  claim: The passage states that this witch-bride story belongs among numerous variants
+    found among other peoples, with bark skin as its main distinguishing feature.
+  claim_level: same_motif
+  target: witch-bride variants among other peoples
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad; no other peoples, texts, or variant details
+    are identified in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10022-10028
+  quote_or_summary: 'Under “THE THREE WISHES,” the passage describes “Loppi and Lappi”
+    as a common form of a well-known story: a quarrelsome couple receive three fairy-granted
+    wishes, waste them in a sausage episode involving the wife’s nose, and remain
+    poor.'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 10030-10041
+  quote_or_summary: 'Under “THE WITCH-BRIDE,” the passage says versions are common
+    in Finland and Esthonia, then summarizes “Rõugutaja’s Daughter”: Rõugutaja lives
+    in a wood with wife and daughter; the daughter has a beautiful face but reportedly
+    bark skin; her mother uses a love-philtre to bring about marriage to a youth,
+    who flees and later marries another bride.'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 10041-10046
+  quote_or_summary: After a child is born, the witch-mother transforms the young mother
+    into a wolf and substitutes her own daughter; the nurse meets the wolf while walking
+    the crying child, the deceit is discovered, and the husband burns the witch-mother
+    and daughter in the bathhouse.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 10047-10048
+  quote_or_summary: The passage states that little except the bark-skin of the witch-bride
+    distinguishes this story from numerous variants among other peoples.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a concise secondary prose summary within the source.
+    Main narrative actions are explicit, but broader motif classification and comparison
+    are limited by the passage’s brevity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were assigned only where the literal wording directly supported them.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l10022-l10048
+  passage_sha256=6122464f9d806c8d05bb1a74359c6977a02e8a6838888bb3ed3c3b83625496ca
+

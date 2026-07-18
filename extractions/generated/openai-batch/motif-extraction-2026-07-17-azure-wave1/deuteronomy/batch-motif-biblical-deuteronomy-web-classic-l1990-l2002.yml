@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.biblical-deuteronomy-web-classic-l1990-l2002
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Chapter 29 / Chapter 30 / Chapter 31 / Chapter 32; lines 1990-2002
+  start: '1990'
+  end: '2002'
+  translation: Deuteronomy
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“Die on the mountain where you go up, and be gathered to your people...”"
+  summary: Moses exhorts the hearers to keep the words of the law and teach them to
+    their children, since the law is described as their life and as connected with
+    prolonged days in the land. Yahweh then commands Moses to ascend Mount Nebo, view
+    Canaan, die there, and be gathered to his people like Aaron, because of Moses'
+    trespass at the waters of Meribah of Kadesh; Moses may see the land from a distance
+    but may not enter it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Moses tells the hearers to set their hearts on the words he testifies to them
+    and to command their children to observe the words of the law.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The law is described as not vain, as the hearers' life, and as connected with
+    prolonging their days in the land they will possess across the Jordan.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yahweh speaks to Moses on the same day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yahweh commands Moses to go up into the mountain of Abarim, to Mount Nebo
+    in Moab, and to see the land of Canaan given to the children of Israel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Yahweh commands Moses to die on the mountain and be gathered to his people,
+    comparing this to Aaron's death on Mount Hor.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Yahweh states that Moses trespassed at the waters of Meribah of Kadesh in
+    the wilderness of Zin and did not uphold Yahweh's holiness among the children
+    of Israel.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Moses is told he will see the land from a distance but will not enter the
+    land given to the children of Israel.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: He speaks the law exhortation to the hearers and is later addressed
+    by Yahweh, commanded to ascend Mount Nebo, die there, and see but not enter the
+    land.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Yahweh
+  description: The divine speaker who commands Moses' ascent and death, gives Canaan
+    to the children of Israel, and explains Moses' exclusion from the land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: addressed hearers
+  description: Those told to set their hearts on the law, teach it to their children,
+    and possess land across the Jordan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: children of Israel
+  description: The group to whom Yahweh gives Canaan for a possession and among whom
+    Moses' trespass and failure to uphold holiness occurred.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Aaron
+  description: Moses' brother, cited as having died on Mount Hor and been gathered
+    to his people.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: law witness and teacher
+  assigned_to:
+  - fig:1
+  basis: Moses says he testifies the words to the hearers and commands them to observe
+    the law.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine commander and judge
+  assigned_to:
+  - fig:2
+  basis: Yahweh commands Moses to ascend, die, and not enter the land, and gives the
+    reason for this exclusion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: instructed law observers and transmitters
+  assigned_to:
+  - fig:3
+  basis: The hearers are told to set their hearts on the law, observe it, and command
+    their children to do it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: land recipients
+  assigned_to:
+  - fig:4
+  basis: Canaan is described as the land Yahweh gives the children of Israel for a
+    possession.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: precedent deceased brother
+  assigned_to:
+  - fig:5
+  basis: Aaron is cited as Moses' brother who died on Mount Hor and was gathered to
+    his people.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: excluded mountain seer after trespass
+  assigned_to:
+  - fig:1
+  basis: Moses is permitted to see the land from a distance but not enter it because
+    of the trespass at Meribah.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: words of the law
+  literal_form: all the words of this law
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mountain
+  literal_form: mountain of Abarim / Mount Nebo; Mount Hor
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: land of Canaan
+  literal_form: the land of Canaan given to the children of Israel for a possession
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Jordan
+  literal_form: the Jordan crossed to possess the land
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: waters of Meribah of Kadesh
+  literal_form: the waters of Meribah of Kadesh in the wilderness of Zin
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: exhortation to keep the law
+  summary: Moses tells the hearers to hold to the law, teach it to their children,
+    and treat it as their life in connection with long days in the land across the
+    Jordan.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: command to ascend Mount Nebo and view Canaan
+  summary: Yahweh tells Moses to go up Mount Nebo in Moab and view Canaan, which is
+    given to the children of Israel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: announced death, gathering, and exclusion
+  summary: Yahweh commands Moses to die on the mountain and be gathered to his people
+    like Aaron, explaining that Moses' trespass at Meribah prevents him from entering
+    the land he will see from afar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: law observance as life and land tenure
+  taxonomy_refs:
+  - covenant
+  basis: The hearers are instructed to observe and transmit the law, which is described
+    as their life and as connected with prolonged days in the land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage uses the language of law and land, but the word covenant is
+    not present in the excerpt.
+- id: motif:2
+  label: ascent to a mountain for final vision and death
+  taxonomy_refs:
+  - ascent
+  basis: Yahweh commands Moses to go up Mount Nebo, see Canaan, and die on the mountain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage supports a literal ascent; it does not itself describe a heavenly
+    ascent or cosmological mountain.
+- id: motif:3
+  label: divine judgment excluding a leader from the promised land
+  taxonomy_refs:
+  - divine_judgment
+  basis: Moses is barred from entering the land because of a named trespass at the
+    waters of Meribah and failure to uphold Yahweh's holiness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Details of the Meribah event are only summarized in this passage.
+- id: motif:4
+  label: death as being gathered to one's people
+  taxonomy_refs: []
+  basis: Moses is told he will die and be gathered to his people, as Aaron previously
+    was.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The phrase is present, but the passage does not explain its afterlife
+    implications.
+comparison_claims:
+- id: claim:1
+  claim: 'Moses'' announced death is explicitly paralleled with Aaron''s death: both
+    are described as dying on a mountain and being gathered to their people.'
+  claim_level: same_motif
+  target: Aaron's death on Mount Hor as referenced in the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by the passage itself; no broader
+    historical-contact claim is implied.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1990-1991; Deuteronomy 32:46
+  quote_or_summary: Moses tells the hearers to set their hearts on the words he testifies
+    and to command their children to observe all the words of the law.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain World English Bible classic text; summary generated from
+    supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1992-1993; Deuteronomy 32:47
+  quote_or_summary: The law is described as no vain thing, as the hearers' life, and
+    as a means through which they will prolong days in the land across the Jordan.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain World English Bible classic text; summary generated from
+    supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1994-1996; Deuteronomy 32:48-49
+  quote_or_summary: Yahweh speaks to Moses and commands him to go up to the mountain
+    of Abarim, Mount Nebo in Moab, and see Canaan, given to the children of Israel
+    for possession.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain World English Bible classic text; summary generated from
+    supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 1997-1998; Deuteronomy 32:50
+  quote_or_summary: "“Die on the mountain where you go up, and be gathered to your
+    people, as Aaron your brother died on Mount Hor, and was gathered to his people.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain World English Bible classic text; short quotation from
+    supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1999-2000; Deuteronomy 32:51
+  quote_or_summary: Yahweh says Moses trespassed at the waters of Meribah of Kadesh
+    in the wilderness of Zin and did not uphold Yahweh's holiness among the children
+    of Israel.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain World English Bible classic text; summary generated from
+    supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2001-2002; Deuteronomy 32:52
+  quote_or_summary: Moses is told he will see the land from a distance but will not
+    go into the land given to the children of Israel.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain World English Bible classic text; summary generated from
+    supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels involving covenantal
+    law and land are interpretive and should be checked by a human reviewer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-deuteronomy-web-classic__l1990-l2002
+  passage_sha256=e8f2142a0f5dfa833f2688fe67a7abb9a7c4b2585ffb71ebe3015d8d2d59afd8
+

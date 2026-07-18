@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l2541-l2561
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: THE INSECTS THAT WOOED A WIFELESS MAN / THE VERY OBSTINATE MAN / THE DWARFS
+    / THE RAVEN AND THE GOOSE; lines 2541-2561
+  start: '2541'
+  end: '2561'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: And now you know why the raven is black.
+  summary: The passage explains the raven's black color through a tale in which the
+    raven and the goose agree to paint each other while birds are receiving their
+    colors. The raven paints the goose black with a white pattern; the goose starts
+    to paint the raven the same way, but the raven objects angrily, and the offended
+    goose splashes the raven all black.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens by asking why the raven is dull black and attributes this
+    to the raven's own obstinacy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The story is set in a time when birds were receiving their colors and coat
+    patterns.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The raven and the goose meet and agree to paint each other.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The raven paints the goose black with a white pattern showing between.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The goose admires the painted result and begins to paint the raven in the
+    same pattern as its own.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The raven becomes angry and says the pattern is ugly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The offended goose splashes the raven entirely black.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage closes by stating that this explains why the raven is black.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: A bird whose present black color is explained by the story; it paints
+    the goose, objects to being painted in the same pattern, and is splashed black
+    all over.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Goose
+  description: A bird that agrees to be painted by the raven, admires the result,
+    begins to paint the raven similarly, and then splashes the raven black after being
+    offended.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: bird receiving colors and pattern
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both birds are placed in the time when birds were getting their colors and
+    agree to paint each other.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: painter of the goose
+  assigned_to:
+  - fig:1
+  basis: The raven begins the exchange and paints the goose black with a white pattern.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: obstinate dissatisfied bird
+  assigned_to:
+  - fig:1
+  basis: The framing statement attributes the raven's blackness to its obstinacy,
+    and the raven rages against the pattern being painted on it.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: painter of the raven
+  assigned_to:
+  - fig:2
+  basis: The goose begins painting the raven in the same pattern as its own.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: offended blackener of the raven
+  assigned_to:
+  - fig:2
+  basis: After the raven's complaint, the offended goose splashes the raven black
+    all over.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: black raven color
+  literal_form: the raven's dull black color and final all-black coating
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: black-and-white goose pattern
+  literal_form: black paint with a white pattern showing between
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: mutual painting
+  literal_form: the raven and goose painting each other while birds receive their
+    colors
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Question about the raven's color
+  summary: The narrator asks why the raven is black and states that the cause is the
+    raven's own obstinacy.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Birds agree to exchange painting
+  summary: During the time when birds are receiving their colors and patterns, the
+    raven and goose meet and agree to paint each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Raven paints the goose
+  summary: The raven paints the goose black with a white pattern, and the goose admires
+    the result.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Goose blackens the raven
+  summary: The goose starts to paint the raven in the same pattern, but the raven
+    objects angrily; the offended goose splashes the raven black all over.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: origin of the raven's black color
+  taxonomy_refs: []
+  basis: The passage explicitly frames and concludes the story as an explanation for
+    why the raven is black.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This motif label is descriptive and is not matched to a supplied taxonomy
+    reference.
+- id: motif:2
+  label: animal markings produced through mutual painting
+  taxonomy_refs: []
+  basis: The birds are receiving colors and patterns, and the raven and goose agree
+    to paint each other, producing the goose's patterned appearance and the raven's
+    final black coating.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only raven and goose examples; it does not describe
+    the markings of other birds.
+- id: motif:3
+  label: bad temper causes permanent animal trait
+  taxonomy_refs: []
+  basis: The raven's obstinacy and angry rejection of the pattern lead to the goose
+    splashing it black all over.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The permanence of the trait is implied by the etiological frame rather
+    than narrated as a separate transformation event.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as an animal-coloration origin tale, explaining a present
+    feature of a species through a brief narrative event.
+  claim_level: same_function
+  target: animal-coloration etiology tale pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific parallel text or historical relationship is supplied in
+    the passage metadata; the claim is limited to functional pattern similarity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2541-2546
+  quote_or_summary: The narrator asks why the raven is dull black and says it is because
+    of the raven's own obstinacy.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2548-2550
+  quote_or_summary: In the days when birds were receiving colors and coat patterns,
+    the raven and goose meet and agree to paint each other.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 2552-2553
+  quote_or_summary: The raven paints the goose black, with a white pattern showing
+    between.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 2555-2557
+  quote_or_summary: The goose likes the result and begins painting the raven a coat
+    like its own.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 2559-2560
+  quote_or_summary: The raven angrily declares the pattern ugly, and the offended
+    goose splashes it black all over.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: '2561'
+  quote_or_summary: And now you know why the raven is black.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif labels are descriptive because
+    the supplied taxonomy does not include an explicit animal-color etiology category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol reference applies directly to this passage; available motif taxonomy references were not assigned.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l2541-l2561
+  passage_sha256=5fde11c452a58520cf8621ace8ba655cb7006c9c7033561a2fa8dd4503f602d2
+

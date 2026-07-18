@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.norse-volsunga-saga-morris-gutenberg-l882-l908
+source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+passage_locator:
+  label: RECOMMENDED READING-- / INTRODUCTION / H. HALLIDAY SPARLING. / TRANSLATORS'
+    PREFACE.; lines 882-908
+  start: '882'
+  end: '908'
+  translation: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: the Great Story of the North
+  summary: The translators explain that, in addition to Eddic songs used by the saga-writer,
+    they have translated the “Lament of Oddrun” for its merit. They praise the literary
+    quality of the work, describe the Volsung Tale as an unversified poem not previously
+    translated into English, and compare its cultural importance to the Tale of Troy
+    for the Greeks.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the saga-writer has dealt with all the Eddic songs
+    in question, while the translators have added a translation of the “Lament of
+    Oddrun” because of its intrinsic merit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translators address a reader of poetic insight and say such a reader may
+    overcome unfamiliar manners and perceive the work’s nature, beauty, realism, subtlety,
+    and sympathy with human passions.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translators describe the Volsung Tale as, in fact, an unversified poem
+    and state that it had not previously been translated into English.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The translators call the Volsung Tale the “Great Story of the North” and state
+    that it should serve their named audience in a way analogous to the Tale of Troy
+    for the Greeks and later readers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage is signed by William Morris and Eirikr Magnusson.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: William Morris and Eirikr Magnusson
+  description: Named signatories of the preface who speak as translators and evaluators
+    of the work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the Sagaman
+  description: The saga-writer or saga-teller said to have dealt with all the relevant
+    songs of the Edda.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: reader of poetic insight
+  description: An imagined reader whom the translators trust to appreciate the literary
+    qualities of the work despite unfamiliar elements.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Greeks
+  description: The collective audience for whom the Tale of Troy is presented as a
+    cultural comparison.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: "“our race”"
+  description: The translators’ collective term for the audience to whom they say
+    the Volsung Tale should be what the Tale of Troy was to the Greeks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: translator-preface authors
+  assigned_to:
+  - fig:1
+  basis: The passage uses first-person plural statements about translation and interpretation
+    and is signed by William Morris and Eirikr Magnusson.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: saga-writer associated with Eddic songs
+  assigned_to:
+  - fig:2
+  basis: The passage says the Sagaman has dealt with all the songs of the Edda under
+    discussion.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: intended appreciative reader
+  assigned_to:
+  - fig:3
+  basis: The translators explicitly address a reader of poetic insight who can break
+    through unfamiliarity and respond to the work.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: comparative epic audience
+  assigned_to:
+  - fig:4
+  basis: The passage presents the Greeks as the people for whom the Tale of Troy had
+    a culturally exemplary status.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: intended cultural audience for the Volsung Tale
+  assigned_to:
+  - fig:5
+  basis: The passage says the Volsung Tale should be to “our race” what the Tale of
+    Troy was to the Greeks.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Lament of Oddrun
+  literal_form: A named Eddic song translated for its intrinsic merit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Volsung Tale
+  literal_form: A tale described as an unversified poem and as the Great Story of
+    the North.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Tale of Troy
+  literal_form: A tale used as the explicit comparative model for cultural importance
+    among the Greeks and later readers.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: songs of the Edda
+  literal_form: A body of songs said to have been dealt with by the Sagaman.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Prefatory note on Eddic songs and Oddrun
+  summary: The translators state that the Sagaman has dealt with all the Eddic songs
+    in question, but that they have also translated the “Lament of Oddrun” for its
+    merit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Literary appraisal of the work
+  summary: The translators describe the work as initially unfamiliar but ultimately
+    filled with beauty, realism, subtlety, and sympathy with human passions for the
+    right reader.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Concluding cultural comparison
+  summary: The translators describe the Volsung Tale as an unversified poem, call
+    it the Great Story of the North, and compare its intended cultural function to
+    the Tale of Troy for the Greeks.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: foundational cultural epic analogue
+  taxonomy_refs: []
+  basis: The passage frames the Volsung Tale as the Great Story of the North and says
+    it should hold for the translators’ audience the kind of role that the Tale of
+    Troy held for the Greeks.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a translator’s metatextual and evaluative claim, not a narrative
+    motif within the saga episode itself. The passage does not establish shared plot
+    elements or historical relationship.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the desired cultural function of the Volsung
+    Tale to the function of the Tale of Troy for the Greeks.
+  claim_level: same_function
+  target: Tale of Troy as cultural epic for the Greeks
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is aspirational and evaluative within the translators’
+    preface. It does not claim shared narrative motifs, linguistic similarity, historical
+    contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 882-884
+  quote_or_summary: The translators say the Sagaman has dealt with all the songs of
+    the Edda under discussion, and that they translated the “Lament of Oddrun” for
+    its intrinsic merit.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 886-894
+  quote_or_summary: The translators address literary quality, trusting a reader of
+    poetic insight to pass through unfamiliar manners and recognize the work’s beauty,
+    realism, subtlety, and sympathy with human passions.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 896-898
+  quote_or_summary: The translators state that the Volsung Tale is in fact an unversified
+    poem and express surprise that it had not previously been translated into English.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 898-904
+  quote_or_summary: The translators call the Volsung Tale the Great Story of the North
+    and say it should be to their audience what the Tale of Troy was to the Greeks
+    and later readers.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 906-906
+  quote_or_summary: "“WILLIAM MORRIS and EIRIKR MAGNUSSON.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source metadata; short quote from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translators’ preface rather than a mythic narrative episode.
+    Literal extraction is straightforward, while motif and comparison data are limited
+    to metatextual claims made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference from the supplied lists is directly supported by this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-volsunga-saga-morris-gutenberg__l882-l908
+  passage_sha256=429adfc6d62c59d171905e0ff53434b23d67d8875d71250560e614f96dde0869
+

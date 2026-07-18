@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.mesopotamian-enuma-elish-babylonian-legends-creation-gutenberg-l71-l123
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+passage_locator:
+  label: AND THE / FIGHT BETWEEN BEL AND THE DRAGON / TOLD BY ASSYRIAN TABLETS FROM
+    NINEVEH / DISCOVERY OF THE TABLETS.; lines 71-123
+  start: '71'
+  end: '123'
+  translation: The Babylonian Legends of the Creation
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a historical introduction describing the discovery, identification,
+    study, and publication of Assyrian tablet fragments from Nineveh concerning Babylonian
+    and Assyrian creation traditions, deluge traditions, and related legendary materials.
+    It also names the work as concerning the fight between Bel and the Dragon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Baked clay tablets and tablet portions are said to describe Babylonian and
+    Assyrian views and beliefs about Creation.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The tablets were found among the ruins of the Palace and Library of Ashur-bani-pal
+    at Kuyunjik, Nineveh.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Layard, Rassam, and George Smith are named as discoverers of the tablets or
+    tablet portions.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rassam's 1852 find is described as about 20,000 tablets and fragments.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: George Smith worked through the find and identified historical inscriptions,
+    legendary literary compositions, fables, and related materials.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Smith discovered fragments of various versions of the Babylonian Legend of
+    the Deluge and texts treating the beginning of things and Creation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rawlinson and Smith noted allusions to Creation in tablet K.63, but the fragmentary
+    condition made sequence determination impossible at that time.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Smith later discovered several fragments referred to as Genesis Legends and
+    published a summary of fragments describing the creation of the heavens and the
+    earth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Smith communicated copies of fragments from the First and Fifth Tablets of
+    Creation, a text describing a fight between the Gods and Chaos, and a fragment
+    he believed described the Fall of Man.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Smith published translations of known fragments of the Babylonian Creation
+    Legends in a volume titled Chaldean Account of Genesis, which also included the
+    Exploits of Gizdubar or Gilgamish and other early Babylonian fables and legends
+    of the gods.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Bel
+  description: Named in the work title as involved in a fight with the Dragon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Dragon
+  description: Named in the work title as involved in a fight with Bel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Gods
+  description: Named collectively in a text described as treating a fight between
+    the Gods and Chaos.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Chaos
+  description: Named as the opposing entity or concept in a text described as a fight
+    between the Gods and Chaos.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: A.H. Layard
+  description: Named as one of the discoverers of the baked clay tablets and tablet
+    portions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Mormuzd Rassam
+  description: Named as one of the discoverers and as maker of a large 1852 find of
+    tablets and fragments.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: George Smith
+  description: Named as an assistant in the British Museum who discovered, studied,
+    identified, summarized, communicated, and published tablet fragments concerning
+    creation traditions and related legends.
+  role_refs:
+  - role:4
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Rawlinson
+  description: Named with Smith as noting allusions to Creation in tablet K.63.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Ashur-bani-pal
+  description: Named as the king associated with the Palace and Library where the
+    tablets were found.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Gizdubar (Gilgamish)
+  description: Named in the title of exploits included in Smith's published volume.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named mythic combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The title names a fight between Bel and the Dragon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collective divine combatant
+  assigned_to:
+  - fig:3
+  basis: A copied text is described as concerning a fight between the Gods and Chaos.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: opponent named as Chaos
+  assigned_to:
+  - fig:4
+  basis: Chaos is named as the opposed party in the described fight with the Gods.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: tablet discoverer or field investigator
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage names Layard, Rassam, and Smith in connection with the discovery
+    of tablets and fragments.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: maker of large tablet find
+  assigned_to:
+  - fig:6
+  basis: Rassam is credited with a find of about 20,000 tablets and fragments made
+    in 1852.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: scholar, identifier, translator, and publisher
+  assigned_to:
+  - fig:7
+  basis: George Smith worked through tablets, identified texts, published summaries,
+    communicated copies, and later published translations.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:7
+  label: scholar noting creation allusions
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Rawlinson and Smith are said to have noted allusions to Creation in tablet
+    K.63.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: royal name associated with findspot
+  assigned_to:
+  - fig:9
+  basis: The tablets were found in the ruins of the Palace and Library of Ashur-bani-pal.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: named legendary figure in publication contents
+  assigned_to:
+  - fig:10
+  basis: Smith's volume is said to include translations of the Exploits of Gizdubar,
+    identified parenthetically as Gilgamish.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: baked clay tablets
+  literal_form: baked clay tablets and portions of tablets
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Palace and Library at Kuyunjik/Nineveh
+  literal_form: ruins of the Palace and Library of Ashur-bani-pal at Kuyunjik (Nineveh)
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Dragon
+  literal_form: the Dragon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Chaos
+  literal_form: Chaos
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - chaos
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Deluge
+  literal_form: Babylonian Legend of the Deluge
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: heavens and earth
+  literal_form: creation of the heavens and the earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Discovery of tablets at Nineveh
+  summary: The passage describes baked clay tablets and tablet portions concerning
+    Creation beliefs as discovered among the ruins of Ashur-bani-pal's Palace and
+    Library at Kuyunjik, Nineveh.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Identification of creation and deluge materials
+  summary: Smith works through Rassam's large find, identifies legendary compositions,
+    and discovers fragments connected with the Deluge, the beginning of things, and
+    Creation; Rawlinson and Smith also note Creation allusions in K.63.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fragments called Genesis Legends and creation of heavens and earth
+  summary: Smith discovers fragments called Genesis Legends and publishes a summary
+    of about twenty fragments describing the creation of the heavens and the earth.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Named combat traditions
+  summary: The source framing names a fight between Bel and the Dragon, and the passage
+    later mentions a text describing a fight between the Gods and Chaos.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:5
+  label: Publication of translations
+  summary: Smith publishes translations of known fragments of the Babylonian Creation
+    Legends in Chaldean Account of Genesis, along with the Exploits of Gizdubar or
+    Gilgamish and other early Babylonian fables and legends.
+  figure_refs:
+  - fig:7
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Creation of heavens and earth / beginning of things
+  taxonomy_refs: []
+  basis: The passage repeatedly states that the tablet fragments concern Creation,
+    the beginning of things, and the creation of the heavens and the earth.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a discovery and publication history; it does not give the
+    actual cosmogonic sequence.
+- id: motif:2
+  label: Conflict with chaos or dragon
+  taxonomy_refs:
+  - chaos
+  basis: The title names the fight between Bel and the Dragon, and the passage mentions
+    a text describing a fight between the Gods and Chaos.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage does not describe the combat episode or explicitly equate
+    the Dragon with Chaos.
+- id: motif:3
+  label: Deluge tradition
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: Smith is said to have discovered fragments of various versions of the Babylonian
+    Legend of the Deluge.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage names the Deluge but gives no flood narrative details and
+    no renewal sequence.
+- id: motif:4
+  label: Fall of Man tradition
+  taxonomy_refs: []
+  basis: The passage reports that Smith believed one fragmentary text described the
+    Fall of Man.
+  evidence_refs:
+  - ev:6
+  confidence: uncertain
+  cautions: The text is described as fragmentary and the identification is attributed
+    to Smith's belief; no narrative details are supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage's scholarly framing links Babylonian creation materials with
+    Genesis traditions by calling some fragments Genesis Legends and by citing Smith's
+    publication title Chaldean Account of Genesis.
+  claim_level: same_function
+  target: Biblical Genesis or Genesis-style traditions about beginnings and creation
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only a cautious comparison based on naming and
+    publication framing; it does not provide detailed narrative parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 71-81
+  quote_or_summary: The title identifies the work as The Babylonian Legends of the
+    Creation and the Fight Between Bel and the Dragon, told by Assyrian tablets from
+    Nineveh.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 83-89
+  quote_or_summary: Baked clay tablets and tablet portions about Babylonian and Assyrian
+    beliefs concerning Creation were discovered by Layard, Rassam, and George Smith
+    among the ruins of Ashur-bani-pal's Palace and Library at Kuyunjik, Nineveh.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 90-96
+  quote_or_summary: Rassam's 1852 find of about 20,000 tablets and fragments was worked
+    through by George Smith, who identified historical inscriptions and several literary
+    compositions of legendary character, including fables.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 96-103
+  quote_or_summary: Smith discovered fragments of versions of the Babylonian Legend
+    of the Deluge and texts on the beginning of things and Creation; Rawlinson and
+    Smith noted Creation allusions in K.63, though the fragments were too fragmentary
+    to sequence.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 103-110
+  quote_or_summary: During excavations in 1873 and 1874 Smith found several fragments
+    of the Genesis Legends, and in 1875 he published a summary of about twenty fragments
+    describing the creation of the heavens and the earth.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 111-116
+  quote_or_summary: Smith communicated copies of fragments from the First and Fifth
+    Tablets of Creation, a text describing the fight between the Gods and Chaos, and
+    a fragmentary text he believed described the Fall of Man.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 117-121
+  quote_or_summary: Smith published translations of known fragments of the Babylonian
+    Creation Legends in Chaldean Account of Genesis; the volume also included the
+    Exploits of Gizdubar or Gilgamish and early Babylonian fables and legends of the
+    gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif candidates
+    are limited because the passage is an introductory discovery history rather than
+    a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative details beyond titles, summaries, and scholarly descriptions were inferred.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesopotamian-enuma-elish-babylonian-legends-creation-gutenberg__l71-l123
+  passage_sha256=9e5886db0dfb5e07979d83d49d6db7a540a0a9760f5e392ecb36ee80335e72c9
+

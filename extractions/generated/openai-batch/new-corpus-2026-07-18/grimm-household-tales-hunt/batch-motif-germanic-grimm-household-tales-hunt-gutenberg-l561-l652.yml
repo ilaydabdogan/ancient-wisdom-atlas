@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l561-l652
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 561-652
+  start: '561'
+  end: '652'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl awakens mute on earth in a wilderness, lives in a hollow tree, is
+    found by a hunting king, taken to his castle, and married. As queen, she repeatedly
+    denies opening a forbidden door when the Virgin Mary asks her to confess; Mary
+    takes each of her three children. Accused as a man-eater and condemned to burning,
+    the queen repents and confesses; rain extinguishes the fire, Mary returns the
+    children, restores her speech, and grants happiness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The girl awakens on the earth in a wilderness, cannot cry out, and is held
+    back by thick hedges of thorns.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old hollow tree becomes her dwelling and shelter from night, storm, and
+    rain.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: She survives on roots, wild berries, fallen nuts, and leaves, and creeps among
+    leaves during snow and ice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Her clothes fall apart, and her long hair covers her like a mantle while she
+    sits before the tree year after year.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king hunts in the forest, follows a roe into a thicket, cuts a path with
+    his sword, and finds the maiden under the tree.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The maiden cannot answer the king's questions but nods when he asks whether
+    she will go with him to his castle.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The king takes her to the royal castle, gives her beautiful garments and abundance,
+    loves her, and marries her.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After the first son is born, the Virgin Mary offers to restore the queen's
+    speech if she confesses opening the forbidden door; the queen denies it, and Mary
+    takes the child.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the second son is born, the Virgin Mary repeats the condition; the queen
+    again denies opening the forbidden door, and Mary takes the second child to heaven.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After the daughter is born, Mary leads the queen to heaven, shows her the
+    two sons playing with the ball of the world, asks again for confession, and after
+    a third denial takes the daughter too.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: People and councillors accuse the queen of being a man-eater; after the third
+    child's disappearance she is tried, cannot defend herself, and is condemned to
+    be burnt alive.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: obs:12
+  text: At the stake, as the fire burns around her, the queen repents, regains her
+    voice, and confesses to Mary that she opened the door.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Rain falls from the sky and extinguishes the fire; light appears above the
+    queen, and Mary descends with the children, forgives her, returns the children,
+    unties her tongue, and grants happiness.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The girl, maiden, and queen
+  description: Female figure who awakens mute in the wilderness, lives in a hollow
+    tree, is found by the king, becomes queen, denies opening the forbidden door,
+    and finally confesses at the stake.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: The King of the country
+  description: A king who hunts in the forest, finds the silent maiden, takes her
+    to his castle, marries her, and initially refuses to believe accusations against
+    her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The Virgin Mary
+  description: A divine female figure who appears at night, asks the queen to confess
+    opening the forbidden door, takes the children after denials, and later descends
+    with them to forgive and restore the queen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: The queen's three children
+  description: Two sons and a daughter born to the queen; each is taken by Mary after
+    the queen's denial, and all are returned after the queen's confession.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: The people and the king's councillors
+  description: Collective accusers who say the queen is a man-eater and press for
+    judgment after the children's disappearances.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: Exiled silent sufferer
+  assigned_to:
+  - fig:1
+  basis: She awakens on earth in a wilderness, cannot speak, is confined by thorns,
+    and lives miserably in a hollow tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Royal finder, spouse, and initial protector
+  assigned_to:
+  - fig:2
+  basis: He finds the maiden while hunting, brings her to the castle, marries her,
+    and at first rejects accusations against her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Divine tester, remover, and restorer
+  assigned_to:
+  - fig:3
+  basis: Mary repeatedly conditions restored speech and children on confession, removes
+    the children after denial, and later returns them with forgiveness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: Withheld and returned children
+  assigned_to:
+  - fig:4
+  basis: The three children are taken after the queen's denials and returned after
+    her confession.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:5
+  label: Public accusers and judicial pressure
+  assigned_to:
+  - fig:5
+  basis: The people accuse the queen of devouring her children, and the councillors
+    demand that she be judged.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:6
+  label: Repentant confessor
+  assigned_to:
+  - fig:1
+  basis: At the stake, the queen repents, regains her voice, and confesses that she
+    opened the door.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Old hollow tree
+  literal_form: An old hollow tree used as the girl's dwelling-place and shelter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Thorn enclosure
+  literal_form: Thick hedges of thorns through which the girl cannot break.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Hair as mantle
+  literal_form: Long golden hair covering the maiden down to her feet like a mantle.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Forbidden door
+  literal_form: The door Mary says the queen unlocked and repeatedly asks her to confess
+    opening.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: Ball of the world
+  literal_form: A ball of the world with which the two eldest children play in heaven.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Stake fire
+  literal_form: Fire burning around the queen after she is bound to the stake.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: Rain from the sky
+  literal_form: Rain that falls from the sky and extinguishes the flames.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: Light above the queen
+  literal_form: A light that breaks forth above the queen before Mary descends with
+    the children.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Mute wilderness confinement
+  summary: The girl awakens on earth in a wilderness, cannot speak, is enclosed by
+    thorns, and lives in a hollow tree on wild food and stored leaves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Discovery by the hunting king
+  summary: The king follows a roe into a thicket, cuts a path with his sword, finds
+    the silent maiden under the tree, takes her to the castle, and marries her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: First and second nocturnal tests
+  summary: After the births of two sons, Mary appears at night and asks the queen
+    to confess opening the forbidden door; after each denial Mary takes the child,
+    and accusations arise among the people and councillors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Third test in heaven
+  summary: After the daughter is born, Mary leads the queen to heaven, shows her two
+    sons playing with the ball of the world, asks again for confession, and after
+    the queen's third denial lets her sink to earth and takes the daughter.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Trial, stake, confession, and restoration
+  summary: The queen is tried and condemned to burning; at the stake she repents and
+    confesses, rain extinguishes the fire, and Mary descends with the children, forgives
+    her, restores them, and grants happiness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Forbidden door and denied transgression
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The queen is repeatedly asked to confess that she opened the forbidden door,
+    repeatedly denies it, and finally confesses at the stake.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The actual opening of the forbidden door occurs before this supplied passage;
+    this passage contains the repeated references, denials, and confession.
+- id: motif:2
+  label: Divine judgment followed by forgiveness after repentance
+  taxonomy_refs:
+  - divine_judgment
+  basis: Mary removes the queen's children after denials, but after repentance and
+    confession extinguishes the execution scene, returns the children, and declares
+    forgiveness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The judgment is mediated through Mary within the Christianized tale-world
+    of this passage.
+- id: motif:3
+  label: Confession exchanged for restored speech and children
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Mary states that confession will restore the queen's speech and children;
+    the final confession is followed by the return of speech, children, and happiness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage presents a conditional divine promise rather than a negotiated
+    ritual exchange.
+- id: motif:4
+  label: Wilderness isolation and tree shelter
+  taxonomy_refs: []
+  basis: The girl is unable to leave the thorn-enclosed wilderness and lives for years
+    in an old hollow tree, surviving on wild food and leaves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The tree functions literally as shelter; the passage does not explicitly
+    mark it as cosmic or sacred.
+- id: motif:5
+  label: Heaven-to-earth exile or descent
+  taxonomy_refs:
+  - departure
+  basis: The girl awakens on earth below, remembers happiness in heaven and angels,
+    and later is let sink down to earth again after the third denial.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The cause and earlier heavenly episode are only partially present in this
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 561-565
+  quote_or_summary: The girl awakens on earth in a wilderness, cannot make a sound,
+    and cannot break through thick thorn hedges.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 566-580
+  quote_or_summary: An old hollow tree becomes her dwelling and shelter; she survives
+    on wild foods and leaves, loses her clothes, and is covered by her long hair.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 581-596
+  quote_or_summary: The king hunts, follows a roe into the thicket, finds the silent
+    maiden under the tree, takes her to his castle, clothes and provides for her,
+    and marries her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 598-610
+  quote_or_summary: After the first son's birth, Mary asks for confession about the
+    forbidden door, promises restored speech, and takes the child after denial; people
+    whisper that the queen killed him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 612-623
+  quote_or_summary: After the second son's birth, Mary repeats the condition; the
+    queen denies again, Mary takes the child to heaven, and councillors demand justice.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 625-635
+  quote_or_summary: After the daughter is born, Mary leads the queen to heaven, shows
+    the two eldest children playing with the ball of the world, asks for confession,
+    and takes the third child after denial.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 637-642
+  quote_or_summary: The people cry that the queen is a man-eater; a trial is held,
+    and because she cannot defend herself she is condemned and bound to the stake
+    as the fire begins.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 643-652
+  quote_or_summary: At the stake the queen repents, regains her voice, confesses to
+    Mary, and rain extinguishes the fire; Mary descends with the three children, forgives
+    her, returns them, unties her tongue, and grants happiness.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates use
+    only broad available taxonomy refs where explicitly supported. No cross-text comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line locators are derived from the supplied 561-652 passage range and its visible line breaks.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l561-l652
+  passage_sha256=ef9549e5b9993c3a55aed3cb96b8e8774ca956e7b1631447dee701e12357bd0c
+

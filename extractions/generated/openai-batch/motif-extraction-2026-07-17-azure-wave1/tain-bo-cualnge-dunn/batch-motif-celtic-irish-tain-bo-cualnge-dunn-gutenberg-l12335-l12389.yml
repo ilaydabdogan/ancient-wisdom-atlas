@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l12335-l12389
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: XVIII / HERE NOW IS TOLD THE MISTHROW AT BELACH EOIN. / HERE NOW FOLLOWETH
+    THE DISGUISING OF TAMON / HERE NOW COMETH THE HEAD-PLACE OF FERCHU; lines 12335-12389
+  start: '12335'
+  end: '12389'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A poetic lament names Cethern, son of Fintan, as slain after great battle
+    slaughter. The speaker, identified as Finna daughter of Eocho, bewails him, vows
+    never to take another man, recalls dear places, and links her grief to the Cualnge
+    Cow-raid.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cethern, son of Fintan, is associated with a double-headed pike and with bringing
+    seven times fifty of the hosts to their graves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage includes wailing language and an image of a woman wandering through
+    mist.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the dead man is worse off, while the living woman may find
+    a man.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker vows that she will never take or sleep with a man, and that her
+    man will never be with a wife.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker calls Horse-head's Dun, soft sweet water, and Isle of the Red
+    dear.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker says the Cualnge Cow-raid brought care upon her and names Cethern,
+    son of Fintan, as the one she must keen.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker identifies herself as Finna, daughter of Eocho.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Finna says she found a fight of circling spears and refers to her champion
+    and a slaughtered heap that would be by his side if he had had his arms.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cethern, Fintan's son
+  description: A slain champion or warrior named as the one Finna keens; his hand
+    is linked to a double-headed pike and great slaughter among the hosts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Finna, Eocho's daughter
+  description: The speaking woman who laments Cethern, vows not to take another man,
+    and identifies herself by name and parentage.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the hosts
+  description: A collective group said to have been brought to their graves by Cethern,
+    son of Fintan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: fallen champion
+  assigned_to:
+  - fig:1
+  basis: Cethern is named as smitten down, keened, and associated with battle slaughter.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: lamenting speaker
+  assigned_to:
+  - fig:2
+  basis: Finna speaks in first person, bewails Cethern, and vows not to take another
+    man.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: daughter of Eocho
+  assigned_to:
+  - fig:2
+  basis: The speaker states, “Finna, Eocho's daughter, I.”
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: slain host collective
+  assigned_to:
+  - fig:3
+  basis: Seven times fifty of the hosts are said to have been brought to their graves.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: double-headed pike
+  literal_form: battle weapon
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mist
+  literal_form: mist through which a woman wanders
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: soft, sweet water remembered as dear
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Horse-head's Dun
+  literal_form: homestead or fort named as dear
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Isle of the Red
+  literal_form: isle named as dear
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: circling spears
+  literal_form: spears in a battle scene
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cethern and the slain hosts
+  summary: Cethern, son of Fintan, is connected with a double-headed pike and with
+    the deaths of seven times fifty of the hosts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Finna's lament and vow
+  summary: A woman, later identified as Finna, laments through wailing language, speaks
+    of the dead man, and vows never to take or sleep with another man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Dear remembered places
+  summary: The speaker recalls Horse-head's Dun, soft sweet water, and Isle of the
+    Red as dear places connected with the hosts' movements.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Battle of circling spears
+  summary: Finna identifies herself and describes finding a fight of circling spears,
+    referring to her champion and the slaughter that would have lain by his side had
+    he been armed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: lament for a fallen warrior
+  taxonomy_refs: []
+  basis: Finna bewails and keens Cethern after he is described as smitten down in
+    the context of battle.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is lyric and fragmentary; wider narrative context is not included
+    in the provided lines.
+- id: motif:2
+  label: renunciation of future partners after a man's death
+  taxonomy_refs: []
+  basis: The speaker vows never to take or sleep with another man after lamenting
+    the dead Cethern.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The exact social relationship between Finna and Cethern is implied by
+    terms such as “my man” and “my champion” but not formally defined in the excerpt.
+- id: motif:3
+  label: heroic battle slaughter by a named champion
+  taxonomy_refs: []
+  basis: Cethern is credited with bringing seven times fifty of the hosts to their
+    graves and is called the speaker's champion.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The lines are poetic and may summarize rather than narrate the combat
+    directly.
+- id: motif:4
+  label: topographic grief in a battle lament
+  taxonomy_refs: []
+  basis: The lament names dear places—Horse-head's Dun, water, and Isle of the Red—while
+    connecting grief to the Cualnge Cow-raid.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The emotional and place-name pattern is present, but no broader comparative
+    claim is made from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12335-12338
+  quote_or_summary: "“Felled by double-headed pike, / Cethern's hand held ... / Seven
+    times fifty of the hosts, / Fintan's son brought to their graves!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:2
+  type: quote
+  locator: 12340-12343
+  quote_or_summary: "“Willa-loo, oh, willa-loo! / Woman's wandering through the mist.
+    / Worse it is for him that's dead. / She that lives may find a man!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:3
+  type: quote
+  locator: 12345-12348
+  quote_or_summary: "“Never I shall take a man ... / Never shall I sleep with man;
+    / Never shall my man with wife!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:4
+  type: quote
+  locator: 12350-12353
+  quote_or_summary: "“Dear the homestead, 'Horse-head's Dun,' ... / Dear the water,
+    soft and sweet; / Dear the isle, 'Isle of the Red!'”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:5
+  type: quote
+  locator: 12355-12358
+  quote_or_summary: "“Cualnge's Cow-raid brought on me: / Cethern, Fintan's son, to
+    keen. / Oh that he had shunned his woe!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:6
+  type: quote
+  locator: 12365-12368
+  quote_or_summary: "“Finna, Eocho's daughter, I, / Found a fight of circling spears.
+    / Had my champion had his arms: / By his side a slaughtered heap!”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Named figures, places, and lament actions are explicit, but the passage is
+    a poetic excerpt with textual notes and some ambiguous wording. No comparison
+    claims are made because the passage itself does not establish a comparative relation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Footnote meanings were not treated as separate narrative events.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l12335-l12389
+  passage_sha256=1399c54300ac7deecee4c4156287eabcdf4e52bafc4cae5d4928442bc5e22904
+

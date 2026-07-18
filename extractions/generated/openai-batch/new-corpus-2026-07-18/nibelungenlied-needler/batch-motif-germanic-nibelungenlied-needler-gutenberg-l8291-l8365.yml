@@ -1,0 +1,462 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l8291-l8365
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: THIRTEENTH ADVENTURE / FOURTEENTH ADVENTURE / FIFTEENTH ADVENTURE / SIXTEENTH
+    ADVENTURE; lines 8291-8365
+  start: '8291'
+  end: '8365'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Mortally wounded Siegfried is surrounded by hunters and mourners. He rebukes
+    the wrongdoers, hears Hagen rejoice at his release from Siegfried's power, laments
+    the harm to Kriemhild and their son, and asks the Burgundian king to protect Kriemhild.
+    Siegfried dies with his blood wetting the flowers. The lords place him on a red-gold
+    shield and plan to conceal Hagen's deed by saying robbers killed him while he
+    hunted alone; Hagen says he will bring the body home and is not troubled by Kriemhild's
+    grief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hunters hasten to the place where the wounded man lies, and honorable
+    men mourn him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king of Burgundy mourns as Siegfried lies wounded.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Siegfried says the one who wrought the evil has little need to weep and deserves
+    reviling.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hagen says he does not understand the mourning and that the day has ended
+    their anxiety because they are freed from Siegfried's mastery.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Siegfried tells Hagen that if he had foreseen Hagen's infamy, he would have
+    protected his life against Hagen's hate.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Siegfried says his deepest sorrow is for Lady Kriemhild, his wife, and for
+    his son, who will be spurned because kin have done a murderer's deed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Siegfried asks the king to commend Kriemhild to his mercy and invokes her
+    status as the king's sister.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Flowers around Siegfried are wetted with blood as he struggles with death.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Siegfried dies because the deadly weapon has cut him too severely.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After his death, the lords lay Siegfried on a red-gold shield.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The lords counsel together to keep secret that Hagen wrought the deed.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Some propose that everyone should say Siegfried was slain by robbers while
+    riding alone through the dark forest to hunt.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Hagen says he himself will bring Siegfried home and cares little whether Kriemhild
+    hears what happened or weeps forever.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: Hagen says Kriemhild has grieved his Lady Brunhild.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: A high-spirited, keen, noble knight who lies mortally wounded, speaks
+    before dying, is Kriemhild's husband, and has a son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Hagen of Tronje
+  description: Described as grim; he speaks over the wounded Siegfried, says the group
+    is freed from Siegfried's mastery, is identified by the lords as the one whose
+    deed should be concealed, and offers to bring Siegfried home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: King of Burgundy
+  description: The king mourns Siegfried and is addressed by Siegfried as the one
+    to whom Kriemhild should be commended.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Lady Kriemhild
+  description: Siegfried's wife and spouse; Siegfried asks the king to protect her,
+    and Hagen says she grieved Brunhild.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:5
+  name_or_label: Lady Brunhild
+  description: Hagen calls her his lady and says Kriemhild has grieved her.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Hunters and lords
+  description: The hunters gather where Siegfried lies; the lords later lay him on
+    a shield and plan concealment of Hagen's deed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Siegfried's son
+  description: Siegfried says a son was born to him and fears the people will later
+    spurn the child because the child's named kinsmen have done a murderer's deed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mortally wounded hero
+  assigned_to:
+  - fig:1
+  basis: Siegfried is wounded, speaks in anguish, struggles with death, and is called
+    a keen and noble knight.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: killer whose deed is concealed
+  assigned_to:
+  - fig:2
+  basis: The lords decide the fact that Hagen wrought the deed should be kept secret,
+    while Hagen boasts that they are freed from Siegfried's mastery.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: mourning and entrusted king
+  assigned_to:
+  - fig:3
+  basis: The king of Burgundy mourns and is asked by Siegfried to show mercy to Kriemhild.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: bereaved spouse under protection request
+  assigned_to:
+  - fig:4
+  basis: Siegfried names Kriemhild as his wife and asks that she be commended to the
+    king's mercy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: aggrieved lady invoked by Hagen
+  assigned_to:
+  - fig:5
+  basis: Hagen says Kriemhild has grieved his Lady Brunhild.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: witnesses and concealers
+  assigned_to:
+  - fig:6
+  basis: The hunters gather at the death scene, and the lords plan to conceal the
+    deed and give a false account.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: role:7
+  label: offspring marked by kin-murder
+  assigned_to:
+  - fig:7
+  basis: Siegfried fears his son will be spurned because those he names as kinsmen
+    have done the murderer's deed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: blood-wet flowers
+  literal_form: Flowers wetted with Siegfried's blood as he struggles with death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: red-gold shield bier
+  literal_form: A shield of red gold on which the dead Siegfried is laid.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: dark forest in the cover story
+  literal_form: The dark forest through which the conspirators say Kriemhild's husband
+    rode alone hunting when robbers slew him.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: deadly weapon
+  literal_form: The weapon whose cut is said to be too severe for Siegfried to survive.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wounded Siegfried among hunters and mourners
+  summary: Hunters gather at the place where Siegfried lies wounded. The king mourns,
+    and Siegfried says the doer of the evil deserves reviling rather than weeping.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hagen's boast and Siegfried's final lament
+  summary: Hagen says the group is freed from Siegfried's mastery. Siegfried rebukes
+    Hagen, laments Kriemhild and their son, and asks the king to protect Kriemhild.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Death amid bloodied flowers
+  summary: Siegfried struggles with death as blood wets the surrounding flowers, and
+    the wound from the deadly weapon causes him to die.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Body on shield and concealment plan
+  summary: The lords lay Siegfried's body on a red-gold shield, decide to hide Hagen's
+    responsibility, and propose a false story that robbers killed Siegfried while
+    he hunted alone in the dark forest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Hagen offers to bring the body home
+  summary: Hagen says he will bring Siegfried home and is unconcerned whether Kriemhild
+    hears the news or grieves, because she has grieved Brunhild.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: betrayed hero's deathbed speech
+  taxonomy_refs: []
+  basis: The mortally wounded Siegfried rebukes the wrongdoing, laments the consequences
+    for his wife and son, and makes a final request before dying.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the deathbed speeches and death, but broader betrayal
+    context outside the passage is not used here.
+- id: motif:2
+  label: kin-murder bringing shame on descendants
+  taxonomy_refs: []
+  basis: Siegfried says his son will be spurned because those named as kinsmen have
+    done the murderer's deed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The future social consequence is expressed as Siegfried's fear within
+    the speech; the passage does not show the later outcome.
+- id: motif:3
+  label: concealed murder with false robber story
+  taxonomy_refs: []
+  basis: The lords agree to hide that Hagen committed the deed and to say instead
+    that robbers killed Siegfried while he hunted alone.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage records the planned concealment, not whether the false account
+    succeeds.
+- id: motif:4
+  label: hero's body borne on shield
+  taxonomy_refs: []
+  basis: After Siegfried dies, the lords place him on a red-gold shield.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states the action but does not provide a formal funeral or
+    ritual explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8291-8294; supplied passage opening stanza
+  quote_or_summary: Hunters hasten to the place where the stricken man lies; honorable
+    men mourn the high-spirited knight.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: stanza 992
+  quote_or_summary: The Burgundian king mourns Siegfried's impending death, and the
+    wounded Siegfried says the wrongdoer deserves reviling rather than tears.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: stanza 993
+  quote_or_summary: Hagen says the day's deed has ended their anxiety and freed them
+    from Siegfried's mastery.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: stanzas 994-995
+  quote_or_summary: Siegfried answers Hagen, says he would have guarded his life if
+    he had known Hagen's infamy, and laments chiefly for Kriemhild and for the son
+    who will be stigmatized by kin-murder.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: stanzas 996-997
+  quote_or_summary: Siegfried asks the king to pledge mercy and care for Kriemhild,
+    invoking her status as the king's sister and calling the wrong done to her unprecedented.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: stanza 998
+  quote_or_summary: Flowers around Siegfried are wet with blood as he struggles with
+    death; the deadly weapon has cut him too severely, and he soon can speak no more.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: stanza 999
+  quote_or_summary: When the lords see Siegfried is dead, they lay him on a red-gold
+    shield and take counsel to conceal that Hagen wrought the deed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: stanza 1000
+  quote_or_summary: Some say all should conceal the matter and tell Kriemhild that
+    robbers killed Siegfried while he rode alone hunting through the dark forest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: stanza 1001
+  quote_or_summary: Hagen says he will bring Siegfried home and is little concerned
+    whether Kriemhild hears or weeps, because she has grieved Brunhild.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and do not assert external taxonomy matches. No comparison claims are made because
+    the passage itself does not support an explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy reference was assigned because the supplied taxonomy families and symbols do not directly match the literal passage without over-interpretation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l8291-l8365
+  passage_sha256=dd3659fb9a7ce27e462ba36a893a449cd5305b8be507d21fcdb3ec59af1be0c4
+

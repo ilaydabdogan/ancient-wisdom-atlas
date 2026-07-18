@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l7115-l7134
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: GO TO THE VERGE OF DESTRUCTION AND BRING BACK SHMAT-RAZUM. / MARYA MOREVNA.
+    / VARIANT OF THE RESCUE OF IVAN TSAREVICH AND THE WINNING OF THE COLT. / YELENA
+    THE WISE.; lines 7115-7134
+  start: '7115'
+  end: '7134'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Ivan returns to Yelena the Wise's court in fear because he must hide successfully
+    a third time or die. Yelena's maid promises to help and hides him behind a mirror.
+    Yelena searches in the mirror, fails to see him before the appointed time passes,
+    angrily breaks the glass, and Ivan appears. Yelena yields, and the passage ends
+    with a feast, wedding, crowning, and prosperous life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ivan returns to the broad court of Yelena the Wise, sits on the porch, and
+    is thoughtful and sad.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yelena the Wise's maid asks Ivan why he is sad.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ivan says that if he does not hide the third time, he must leave the white
+    world, and he is waiting for death.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The maid tells Ivan not to grieve, recalls that she promised to serve him,
+    and says she will hide him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The maid takes Ivan by the hand, leads him inside, and places him behind the
+    mirror.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Yelena the Wise enters the chamber, looks in the mirror, and cannot see her
+    bridegroom before the appointed time passes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Yelena the Wise angrily strikes the glass, which falls into fragments, and
+    Ivan stands before her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Yelena the Wise yields; a feast and wedding occur that day, the couple are
+    crowned, and they begin to live prosperously.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ivan
+  description: A brave youth and bridegroom who returns to Yelena the Wise's court,
+    fears death if he fails to hide a third time, is hidden behind the mirror, is
+    revealed when the glass breaks, and is married and crowned.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Maid of Yelena the Wise
+  description: Yelena the Wise's maid, who asks Ivan why he is sad, says she once
+    promised to serve him, and hides him behind the mirror.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Yelena the Wise
+  description: The woman at whose court and house the action occurs; she searches
+    for her bridegroom in the mirror, breaks the glass in anger, yields, and participates
+    in the feast, wedding, and crowning.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Endangered hider
+  assigned_to:
+  - fig:1
+  basis: Ivan states that failure to hide the third time will mean leaving the white
+    world and waiting for death.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Bridegroom
+  assigned_to:
+  - fig:1
+  basis: Yelena cannot see her bridegroom in the mirror, and the passage ends with
+    a wedding and crowning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Helper and concealer
+  assigned_to:
+  - fig:2
+  basis: The maid promises to serve Ivan, says she will hide him, and places him behind
+    the mirror.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Searcher
+  assigned_to:
+  - fig:3
+  basis: Yelena the Wise runs to the chamber and looks in the mirror for her bridegroom.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Bride who yields after the trial
+  assigned_to:
+  - fig:3
+  basis: After Ivan is revealed, Yelena has to yield, and a wedding follows.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Mirror or glass
+  literal_form: mirror / glass
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Third time
+  literal_form: the third time
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: White world
+  literal_form: white world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Wedding and crowning
+  literal_form: feast, wedding, and crowning
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ivan's despair and the maid's promise
+  summary: Ivan sits sadly at Yelena's court because he expects death if he fails
+    to hide a third time; Yelena's maid asks why he grieves and promises to hide him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Concealment behind the mirror
+  summary: The maid leads Ivan inside and hides him behind the mirror. Yelena searches
+    in the mirror but cannot see her bridegroom before the appointed time passes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Broken glass and marriage
+  summary: Yelena breaks the glass in anger, Ivan appears, Yelena yields, and the
+    day ends with a feast, wedding, crowning, and prosperous life.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Life-threatening hiding trial
+  taxonomy_refs: []
+  basis: Ivan says that if he fails to hide the third time he must part with the white
+    world and waits for death; the rest of the passage resolves this hiding attempt.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The wider rules of the trial are not given in this passage excerpt.
+- id: motif:2
+  label: Helper hides hero from searching bride
+  taxonomy_refs: []
+  basis: The maid promises to serve Ivan and hides him behind the mirror while Yelena
+    searches for her bridegroom and fails to see him in time.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state whether the concealment is magical or merely
+    hidden from Yelena's sight.
+- id: motif:3
+  label: Revelation by broken mirror
+  taxonomy_refs: []
+  basis: Yelena strikes the glass after failing to see Ivan; it breaks into fragments
+    and Ivan stands before her.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the mirror's properties beyond this event.
+- id: motif:4
+  label: Marriage after successful trial
+  taxonomy_refs: []
+  basis: After Yelena fails to find Ivan in time and must yield, the passage immediately
+    reports a feast, wedding, crowning, and prosperous married life.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly describe the trial's original terms except
+    Ivan's statement about hiding a third time.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7115-7118
+  quote_or_summary: Ivan returned to Yelena the Wise's broad court, sat sadly on the
+    porch, and Yelena's maid asked why he was sad.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 7119-7121
+  quote_or_summary: '"If I hide not the third time, I must part with the white world;
+    so here I am sitting and waiting for death."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; short quote from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7123-7125
+  quote_or_summary: The maid tells Ivan not to grieve, says she once promised to serve
+    him, and says she will hide him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 7126-7127
+  quote_or_summary: '"She took Ivan by the hand, led him in, and put him behind the
+    mirror."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; short quote from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7128-7131
+  quote_or_summary: Yelena looked in the mirror, could not see her bridegroom before
+    the appointed time passed, angrily struck the glass, and Ivan appeared when it
+    broke.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 7132-7134
+  quote_or_summary: Yelena had to yield; that day there was a feast and wedding, the
+    couple were crowned, and they began to live and gain wealth.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are descriptive and passage-level; broader folktale classification would require
+    surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support historical or cross-tradition comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l7115-l7134
+  passage_sha256=c54b0856f5889b3f8b81c73098e5c50a3160ba2ba829b477d965994d2b919a0a
+

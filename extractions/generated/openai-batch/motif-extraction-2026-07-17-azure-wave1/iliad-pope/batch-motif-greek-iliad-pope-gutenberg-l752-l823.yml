@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l752-l823
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 752-823
+  start: '752'
+  end: '823'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly introductory note discusses the absence of Athenian national
+    prominence in the Iliad, the superiority attributed to ballads about Achilles'
+    wrath, and debates over whether the Iliad was a unified poem or a compilation
+    of earlier songs associated with Wolf, Lachmann, Peisistratus, and Grote.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that traces of Athenian compilation are not discoverable
+    in the poems' language and that Athenian national feeling is absent.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Athenians occupy a subordinate and insignificant place
+    in the Iliad's traditions, and that some passages concerning their ancestors have
+    been suspected as interpolations.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage presents a possible historical outline in which western Greece
+    launched a maritime expedition against a rival half-kindred Laomedontiad empire,
+    with a Thessalian chieftain as an important ally of a Peloponnesian sovereign.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage contrasts a hypothetical Athenian Theseid with an Achilleid or
+    Olysseid and says the Homeric ballads concerned the wrath of Achilles and its
+    dire consequences.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says Wolf's objections to the primitive integrity of the Iliad
+    and Odyssey have not been wholly overcome, but that his hypothesis increases rather
+    than resolves difficulties.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says Lachmann divided the first twenty-two books of the Iliad
+    into sixteen songs and placed their amalgamation no earlier than the age of Peisistratus.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says six named leaders disappear after the first battle following
+    Achilles' secession and do not reappear.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage identifies a discrepancy in which Pylmenes is represented as dead
+    in the fifth book but weeps at his son's funeral in the thirteenth.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage says Grote distinguishes the question of the poems' primitive
+    unity from the question of Peisistratean compilation, and argues that Peisistratus'
+    circle must have found an already ancient Iliad.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Athenians
+  description: A collective group described as jealous of ancestral fame in later
+    and perhaps earlier times, yet nearly absent from prominent roles in the Iliad.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Achilles
+  description: The named hero whose wrath, dire consequences, and secession from battle
+    are mentioned in the passage.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Athenian ancestral hero associated with a Theseid
+  description: An unnamed ancestral subject implied by the passage's reference to
+    songs of the Athenians' own great ancestor and to a hypothetical Theseid.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Wolf
+  description: A scholar whose objections to the primitive integrity of the Iliad
+    and Odyssey are discussed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Lachmann
+  description: A scholar said to divide the first twenty-two books of the Iliad into
+    sixteen different songs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Peisistratus
+  description: A ruler whose age or circle is discussed in relation to a proposed
+    amalgamation or recension of the Iliad.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:7
+  name_or_label: Grote
+  description: A scholar said to show the incongruity of the Wolfian and Lachmannian
+    theories with the character of Peisistratus and to distinguish separate questions
+    about unity and compilation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Six leaders absent after the first battle
+  description: Elphenor, Tlepolemus, Pandarus, Odius, Pirous, and Acamas are listed
+    as leading men who do not reappear after the first battle following Achilles'
+    secession.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Pylmenes
+  description: A figure described as dead in the fifth book but later as weeping at
+    his son's funeral in the thirteenth.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: subordinate epic participants
+  assigned_to:
+  - fig:1
+  basis: The passage says the Athenians play a subordinate and insignificant part
+    in the Iliad.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: national group expected to prefer its own ancestor
+  assigned_to:
+  - fig:1
+  basis: The passage says an Athenian synod of compilers would more likely have produced
+    a Theseid than an Achilleid or Olysseid.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wrathful central hero
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Homeric ballads relating the wrath of Achilles and
+    its dire consequences.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: seceded warrior
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the first battle after the secession of Achilles.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: alternative ancestral epic subject
+  assigned_to:
+  - fig:3
+  basis: The passage refers to songs about the Athenians' own great ancestor and to
+    a hypothetical Theseid.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: textual critic or literary historian
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: Wolf, Lachmann, and Grote are discussed as sources of theories or critiques
+    concerning the Iliad's composition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:7
+  label: proposed recension-era authority
+  assigned_to:
+  - fig:6
+  basis: The passage discusses whether amalgamation or unison of the Iliad occurred
+    in the age or circle of Peisistratus.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:8
+  label: leaders removed from the sequel
+  assigned_to:
+  - fig:8
+  basis: The passage says the six named leaders do not make their appearance again
+    after the battle following Achilles' secession.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: figure in narrative discrepancy
+  assigned_to:
+  - fig:9
+  basis: The passage describes Pylmenes as dead in one book and present at a funeral
+    in a later book.
+  evidence_refs:
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Athenian absence from Iliadic prominence
+  summary: The passage argues that Athenian compilation is not evident in the poems'
+    language and that Athenians are minimally represented in the Iliad despite their
+    later ancestral pride.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hypothetical epic preference and Achilles' wrath
+  summary: The passage says Athenian compilers might have favored a Theseid, but that
+    ballads concerning Achilles' wrath were treated as superior and became central
+    to the poetic cycle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Possible historical outline of the Trojan expedition
+  summary: The passage suggests the Iliad may preserve a leading outline of a western
+    Greek maritime expedition against the Laomedontiad power, involving a Thessalian
+    chieftain and a Peloponnesian sovereign.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Textual theories of Wolf and Lachmann
+  summary: The passage reviews Wolf's challenge to primitive unity and Lachmann's
+    division of the Iliad into sixteen songs, while objecting that these theories
+    do not sufficiently explain the poem.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Narrative consistency examples after Achilles' secession
+  summary: The passage notes that six named leaders disappear after the first battle
+    following Achilles' secession, and it treats the Pylmenes death-and-funeral inconsistency
+    as an interpolation.
+  figure_refs:
+  - fig:2
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Grote on Peisistratus and an already ancient Iliad
+  summary: The passage says Grote separates primitive unity from Peisistratean compilation
+    and argues that Peisistratus' associates must have encountered an already ancient
+    Iliad.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Wrath of a central warrior brings dire consequences
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the Homeric ballads as relating the wrath
+    of Achilles and its direful consequences.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is mentioned in a scholarly discussion rather than narrated as an
+    episode in the passage.
+- id: motif:2
+  label: Hero's withdrawal or secession from battle
+  taxonomy_refs:
+  - departure
+  basis: The passage refers to the first battle after the secession of Achilles.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term 'departure' is broader than the passage's
+    specific military secession.
+- id: motif:3
+  label: War expedition against a rival half-kindred power
+  taxonomy_refs: []
+  basis: The passage suggests a possible historical outline involving a maritime expedition
+    of western Greece against the rival and half-kindred Laomedontiad empire.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage frames this as possible historical fact and does not narrate
+    a mythic episode directly.
+- id: motif:4
+  label: Named warriors disappear from the sequel after battle
+  taxonomy_refs: []
+  basis: The passage emphasizes that six leading men are eliminated or absent after
+    the first battle following Achilles' secession and never reappear.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is presented as an argument about literary unity, not as an explicit
+    traditional mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage presents a literary-function analogy: an Athenian compilation
+    would be expected to center an ancestral Theseid, just as a hypothetical French
+    Tasso is said to have made Tancred the hero of the Jerusalem.'
+  claim_level: same_function
+  target: 'nationally preferred hero-centered epic pattern: Theseid compared with
+    a Tancred-centered Jerusalem'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a rhetorical literary analogy in the note, not evidence of
+    historical contact, common inheritance, or a shared mythological motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 752-756
+  quote_or_summary: The note says no faint traces of Athenian compilation are found
+    in the poems' language and observes the absence of Athenian national feeling.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:2
+  type: summary
+  locator: 756-762
+  quote_or_summary: The note says Athenians were jealous of ancestral fame, but in
+    the Iliad they play a subordinate and insignificant part; passages concerning
+    their ancestors are suspected as interpolations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:3
+  type: summary
+  locator: 762-769
+  quote_or_summary: The note suggests the Iliad may reflect a maritime expedition
+    of western Greece against a rival half-kindred Laomedontiad empire, with a Thessalian
+    chieftain as an important ally of a Peloponnesian sovereign.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:4
+  type: summary
+  locator: 769-783
+  quote_or_summary: The note contrasts a possible Athenian Theseid with an Achilleid
+    or Olysseid, invokes Tasso and Tancred as an analogy, and says Homeric ballads
+    related the wrath of Achilles and its dire consequences.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: summary
+  locator: 785-793
+  quote_or_summary: The note returns to the Wolfian theory, saying Wolf's objections
+    to primitive integrity have not been wholly overcome, but that his hypothesis
+    does not resolve the main difficulties.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:6
+  type: summary
+  locator: 793-798
+  quote_or_summary: The note says Lachmann divided the first twenty-two books of the
+    Iliad into sixteen songs and placed their amalgamation no earlier than Peisistratus;
+    Grote is cited on this explanation of gaps and contradictions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:7
+  type: summary
+  locator: 798-807
+  quote_or_summary: The note lists Elphenor, Tlepolemus, Pandarus, Odius, Pirous,
+    and Acamas as leading men removed in the first battle after Achilles' secession
+    and says they do not appear again.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:8
+  type: summary
+  locator: 807-810
+  quote_or_summary: The note says Pylmenes is represented as dead in the fifth book
+    but weeps at his son's funeral in the thirteenth, treating this discrepancy as
+    an interpolation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:9
+  type: summary
+  locator: 812-823
+  quote_or_summary: The note says Grote shows the incongruity of Wolfian and Lachmannian
+    theories with Peisistratus and distinguishes primitive unity from Peisistratean
+    unison; it adds that Peisistratus' circle must have found an already ancient Iliad,
+    and that Alexandrian silence about the recension is significant.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is clear scholarly prose, but it is not itself a mythic narrative.
+    Motif candidates are based on narrative elements mentioned secondarily in the
+    commentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol from the supplied symbol list appears in this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l752-l823
+  passage_sha256=addbd7881d2bb9ca1e26329f38f80fad411eae6f542e8088481d8caa8c115db8
+

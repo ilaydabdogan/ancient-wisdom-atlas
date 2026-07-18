@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7052-l7068
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: V. TO APHRODITE / VI. TO APHRODITE / VII. TO DIONYSUS / VIII. TO ARES; lines
+    7052-7068
+  start: '7052'
+  end: '7068'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn addresses Ares with martial, civic, ethical, and astral epithets,
+    then asks him to grant strength and boldness while removing cowardice, deceitful
+    impulses, fury, strife, hatred, and violent death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses Ares as strong, chariot-riding, golden-helmed, shield-bearing,
+    bronze-harnessed, armed with a spear, and a defender or savior of cities and Olympus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ares is called father of warlike Victory, ally of Themis, governor of the
+    rebellious, leader of righteous men, and sceptred king of manliness.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ares is described as whirling a fiery sphere among planets in sevenfold courses
+    through the aether, while blazing steeds bear him above the third firmament of
+    heaven.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker asks Ares to hear him and to shed a kindly ray from above upon
+    his life.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker asks for strength of war to drive away cowardice, crush deceitful
+    impulses, and restrain heart-fury that provokes strife.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker asks for boldness to remain within the harmless laws of peace
+    and to avoid strife, hatred, and violent fiends of death.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ares
+  description: The deity addressed in the hymn, described with martial, civic, ethical,
+    and celestial attributes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Hymnic speaker
+  description: The first-person speaker who asks Ares for aid, courage, restraint,
+    and peace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Victory
+  description: Warlike Victory is named as fathered by Ares.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Themis
+  description: Themis is named as an ally of Ares.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: violent fiends of death
+  description: Deathly beings or forces that the speaker asks to avoid.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: invoked deity
+  assigned_to:
+  - fig:1
+  basis: The hymn directly addresses Ares and asks him to hear the speaker.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: martial defender
+  assigned_to:
+  - fig:1
+  basis: Ares is described with weapons, armor, strength, city-saving power, and defense
+    of Olympus.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: astral chariot-rider
+  assigned_to:
+  - fig:1
+  basis: Ares is described as chariot-rider and as moving a fiery sphere among the
+    planets while borne by blazing steeds.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: father of warlike Victory
+  assigned_to:
+  - fig:1
+  basis: The passage calls Ares father of warlike Victory.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ally of Themis and righteous governor
+  assigned_to:
+  - fig:1
+  basis: Ares is called ally of Themis, governor of the rebellious, and leader of
+    righteous men.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: supplicant for courage and peace
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker asks Ares for strength, restraint, and boldness
+    within peace.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: warlike Victory fathered by Ares
+  assigned_to:
+  - fig:3
+  basis: Victory is named in the phrase calling Ares father of warlike Victory.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: ally of Ares
+  assigned_to:
+  - fig:4
+  basis: Themis is named as Ares' ally.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: deathly forces to be avoided
+  assigned_to:
+  - fig:5
+  basis: The speaker asks to avoid the violent fiends of death.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: martial equipment
+  literal_form: golden helmet, shield, bronze harness, spear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: chariot and blazing steeds
+  literal_form: chariot-rider; blazing steeds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: fiery sphere
+  literal_form: fiery sphere among the planets
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sevenfold planetary courses
+  literal_form: planets in their sevenfold courses through the aether
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: third firmament of heaven
+  literal_form: above the third firmament of heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: kindly ray from above
+  literal_form: a kindly ray from above upon my life
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: harmless laws of peace
+  literal_form: harmless laws of peace
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Invocation and praise of Ares
+  summary: The hymn invokes Ares through martial titles, relationships to Victory
+    and Themis, civic and ethical roles, and a celestial image of movement among planets
+    and heaven.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Petition for courage, restraint, and peace
+  summary: The speaker asks Ares to hear him, send a kindly ray, grant war-strength,
+    remove cowardice and deceitful impulses, restrain fury, and provide boldness within
+    peace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: martial deity invoked for courage and restraint
+  taxonomy_refs: []
+  basis: The speaker petitions Ares for strength of war, removal of cowardice, restraint
+    of fury, and boldness within peace.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a hymnic petition rather than a narrative episode.
+- id: motif:2
+  label: astral chariot-rider above the heavens
+  taxonomy_refs:
+  - ascent
+  basis: Ares is described as chariot-rider, borne by blazing steeds, whirling a fiery
+    sphere among planets, and located above the third firmament.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to ascent is approximate; the passage describes celestial
+    motion and elevation, not a full journey narrative.
+- id: motif:3
+  label: war power redirected toward peace
+  taxonomy_refs:
+  - duality
+  basis: The hymn praises Ares' martial strength while asking him to restrain violent
+    fury and grant boldness within the laws of peace.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The duality is thematic within the prayer, not an explicit mythic conflict
+    between paired opposites.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7052-7055
+  quote_or_summary: Ares is invoked with martial epithets including strength, chariot-riding,
+    golden helmet, shield, bronze harness, spear, city-saving power, and defense of
+    Olympus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain text; source metadata states full text and training use
+    allowed.
+- id: ev:2
+  type: summary
+  locator: 7055-7057
+  quote_or_summary: Ares is called father of warlike Victory, ally of Themis, governor
+    of the rebellious, leader of righteous men, and sceptred king of manliness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain text; source metadata states full text and training use
+    allowed.
+- id: ev:3
+  type: summary
+  locator: 7057-7061
+  quote_or_summary: Ares whirls a fiery sphere among planets in sevenfold courses
+    through the aether, while blazing steeds bear him above the third firmament of
+    heaven.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain text; source metadata states full text and training use
+    allowed.
+- id: ev:4
+  type: quote
+  locator: 7061-7063
+  quote_or_summary: '"hear me" and "Shed down a kindly ray from above upon my life"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain text; source metadata states full text and training use
+    allowed.
+- id: ev:5
+  type: summary
+  locator: 7063-7066
+  quote_or_summary: The speaker asks for strength of war to drive away cowardice,
+    crush deceitful impulses, and restrain heart-fury that provokes strife.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain text; source metadata states full text and training use
+    allowed.
+- id: ev:6
+  type: summary
+  locator: 7066-7068
+  quote_or_summary: The speaker asks for boldness to abide within the harmless laws
+    of peace while avoiding strife, hatred, and violent fiends of death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain text; source metadata states full text and training use
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied Ares hymn text. Motif taxonomy links
+    for ascent and duality are cautious because the passage is hymnic and descriptive
+    rather than a full mythic narrative. No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label mentions adjacent hymn headings, but the supplied passage text for this extraction contains only VIII. TO ARES, ll. 1-17.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7052-l7068
+  passage_sha256=8087fca218e77f8625aa2e9b93964b89e6a90b5eab312f282467a2abbf17ab7c
+

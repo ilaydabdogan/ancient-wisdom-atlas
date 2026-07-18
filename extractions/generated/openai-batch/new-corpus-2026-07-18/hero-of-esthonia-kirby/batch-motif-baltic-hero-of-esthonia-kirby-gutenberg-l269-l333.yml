@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l269-l333
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: WITH A MAP OF ESTHONIA / CONTENTS OF VOL. I / CONTENTS OF VOL. II / PREFACE;
+    lines 269-333
+  start: '269'
+  end: '333'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the preface, the writer explains that study of the Kalevala led him
+    to examine Esthonian literature. He expected the Kalevipoeg to be an Esthonian
+    variant of the Kalevala but found it dissimilar and interesting enough to present
+    in prose. He describes the selected folk-tales, ballads, notes, map, bibliography,
+    and index, and frames Finnish and Esthonian oral literature as late-surviving
+    primitive literature comparable, as a literary-historical process, to the growth
+    of the Greek epics before editing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The preface writer says his study of the Kalevala and Finnish literature led
+    him to examine the literature of neighboring countries.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The writer initially expected the Kalevipoeg to be an Esthonian variant of
+    the Kalevala, but reports finding it dissimilar and interesting.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The writer decided to publish a full prose account of the Kalevipoeg because
+    he says no such English account had yet been attempted beyond casual magazine
+    articles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The writer characterizes Esthonian folk-tales as interesting and in many cases
+    extremely original, and says they had not appeared in English dress.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The writer states that he selected a representative series of folk-tales and
+    added a few ballads and short poems.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The writer states that Esthonian ballad literature is extensive and only partially
+    investigated and published in the original.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The writer says the volume includes an Introduction, Notes, and a sketch-map
+    to aid comprehension and identify referred places.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that primitive literature survived especially in Finland
+    and Esthonia because these outlying parts of Europe were Christianised later than
+    southern and western countries.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage compares the nineteenth-century publication of the Kalevala and
+    Kalevipoeg to the way the Iliad and Odyssey grew before being edited under Pisistratus.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage states that principal books are listed in a Bibliography and that
+    the Index is also arranged as a general glossary.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: preface writer
+  description: First-person writer who studies Finnish and Esthonian literature and
+    explains the scope and purpose of the work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Latham
+  description: Person named as having already given English versions of many poems
+    in Nationalities of Europe.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: Pisistratus
+  description: Person named in the passage as the authority by whose order the Iliad
+    and Odyssey were edited into their received form.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: first-person editor and presenter
+  assigned_to:
+  - fig:1
+  basis: The writer describes his study, selection, prose presentation, notes, map,
+    and source apparatus for the work.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:2
+  label: previous English translator or presenter cited
+  assigned_to:
+  - fig:2
+  basis: The passage says Latham already gave English versions of many poems from
+    Neus' Ehstnische Volkslieder.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: editing authority in literary-historical analogy
+  assigned_to:
+  - fig:3
+  basis: The passage says the Greek epics were edited in their received form by order
+    of Pisistratus.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: late-surviving oral or primitive literature as source for edited national
+    epic
+  taxonomy_refs: []
+  basis: The preface frames Finnish and Esthonian literature as especially preserved
+    because of late Christianisation, and treats the publication of the Kalevala and
+    Kalevipoeg as evidence for how large epics can grow before editorial arrangement.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a paratextual literary-historical pattern, not a narrative myth
+    motif within an epic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage places the Kalevipoeg in direct comparison with the Kalevala,
+    while saying the writer found the Kalevipoeg too dissimilar to treat simply as
+    an Esthonian variant of the Finnish work.
+  claim_level: same_function
+  target: Kalevala and Finnish literature
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The comparison is stated in a preface and supplies no detailed episode-level
+    or motif-level evidence for similarity or difference.
+- id: claim:2
+  claim: The passage presents the nineteenth-century publication of the Kalevala and
+    Kalevipoeg as a literary-historical analogy for the growth and later editing of
+    the Iliad and Odyssey.
+  claim_level: same_function
+  target: Iliad and Odyssey; Greek epic formation before Pisistratean editing
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The analogy concerns epic formation and editing, not a shared narrative
+    motif, historical contact, or proven common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 269-276
+  quote_or_summary: The writer says that taking up the study of the Kalevala and Finnish
+    literature, while preparing a critical English edition, led him to examine neighboring
+    countries' literature.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 276-285
+  quote_or_summary: '"I had expected to find the Kalevipoeg an Esthonian variant of
+    the Kalevala; but I found it so dissimilar, and at the same time so interesting"
+    that he decided to publish a full prose account.'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 286-296
+  quote_or_summary: The writer says Esthonian folk-tales are interesting, often original,
+    not previously in English dress, and that he selected a representative series
+    with a few ballads and short poems.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 296-307
+  quote_or_summary: The writer says Esthonian ballad literature is very extensive,
+    only partly investigated and published, and not treated in detail here; he notes
+    that poems from Neus' Ehstnische Volkslieder were not needed because Latham had
+    already translated many.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 308-320
+  quote_or_summary: The writer says the Introduction, Notes, and a sketch-map of the
+    little-known country are included to support comprehension and show places referred
+    to.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 321-326
+  quote_or_summary: The passage says primitive literature survived more fully in outlying
+    parts of Europe such as Finland and Esthonia because they were Christianised later
+    than southern and western countries.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 326-333
+  quote_or_summary: The passage says the nineteenth-century publication of the Kalevala
+    and Kalevipoeg gives an example of how the Iliad and Odyssey grew among Greeks
+    before being edited in their received form by order of Pisistratus.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 333-336
+  quote_or_summary: The writer says the principal books used are in the Bibliography,
+    and that the Index also functions as a general glossary.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 302-307
+  quote_or_summary: The writer says Latham already gave English versions of many of
+    the best poems from Neus' Ehstnische Volkslieder in Nationalities of Europe.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a preface rather than a mythic narrative. Extraction is strongest
+    for literal literary-historical observations; motif and comparison fields are
+    limited to the explicit paratextual pattern and analogies stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative symbols from the supplied symbol list and no episode-level mythic scenes are present in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l269-l333
+  passage_sha256=e49d4b0708db1808355dcdcd1d3224a303c888468e5a50159a9e8b1c9a56c2c1
+

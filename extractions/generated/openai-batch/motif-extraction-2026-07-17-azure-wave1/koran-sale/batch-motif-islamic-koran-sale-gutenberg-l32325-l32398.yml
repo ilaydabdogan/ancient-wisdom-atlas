@@ -1,0 +1,646 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l32325-l32398
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXIX. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XL. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 32325-32398
+  start: '32325'
+  end: '32398'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage praises God as creator, provider, living deity, giver of life
+    and death, and judge. It describes human formation and life stages, commands exclusive
+    devotion to God, warns rejecters of revelation of hell punishment, counsels Mohammed
+    to persevere, recalls prior apostles and former peoples who perished after rejecting
+    proofs, and states that belated belief after seeing divine vengeance does not
+    avail.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God is said to give the earth as a stable floor and the heaven as a ceiling,
+    to form humans beautifully, and to feed them with good things.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is called the living God, the only God, and the Lord of all creatures.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he is forbidden to worship deities invoked besides God and
+    is commanded to resign himself to the Lord of all creatures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Human creation is described in stages: dust, seed, coagulated blood, infants
+    from mothers'' wombs, full strength, old age or earlier death, and a determined
+    life period.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God is said to give life and cause death, and when he decrees a thing he says
+    'Be' and it is.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Those who charge the Koran, earlier scriptures, and revealed doctrines with
+    falsehood are threatened with collars, chains, dragging into hell, and burning
+    in fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The punished are asked where the gods associated besides God are, and they
+    answer that those gods have withdrawn or that they had called on nothing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The haughty are told to enter the gates of hell and remain there forever.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Mohammed is told to persevere with patience, and the threatened people are
+    said to be assembled before God at the last day.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Many apostles were sent before Mohammed; some histories were related and others
+    not, and no apostle could produce a sign except by God's permission.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: God is said to give cattle for riding, eating, other advantages, and land
+    carriage, while ships carry people by sea.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Former peoples were more numerous and stronger and left greater monuments,
+    but their acquisitions did not profit them.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Former peoples received apostles with proofs, mocked, then professed belief
+    after seeing vengeance, but that faith did not avail them and the unbelievers
+    perished.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The passage names God as Lord of all creatures, creator and former
+    of humans, provider, living deity, giver of life and death, decreer, sender of
+    apostles, and judge.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: Mohammed
+  description: Mohammed is directly addressed and told to persevere with patience
+    because God's promise is true.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Human addressees
+  description: The addressees are described as created, formed, fed, passing through
+    life stages, and benefiting from cattle and ships.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Rejecters and unbelievers
+  description: Those who dispute God's signs or charge revelation with falsehood are
+    described as turned aside, punished, dragged into hell, and made to perish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:5
+  name_or_label: Apostles
+  description: Apostles before Mohammed are described as sent with proofs, scriptures,
+    revealed doctrines, and signs only by God's permission.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: fig:6
+  name_or_label: Deities or idols besides God
+  description: Other invoked deities are rejected as objects of worship; in the punishment
+    scene they are said to have withdrawn or to be nothing.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:10
+- id: fig:7
+  name_or_label: Former peoples
+  description: Earlier peoples are described as more numerous, stronger, and monument-building,
+    yet ultimately unprofited by their acquisitions and destroyed after rejecting
+    apostles.
+  role_refs:
+  - role:9
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: Creator and provider
+  assigned_to:
+  - fig:1
+  basis: God gives the earth and heaven, forms humans, feeds them, and provides cattle
+    and ships.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: Life-giver, death-causer, and decreer
+  assigned_to:
+  - fig:1
+  basis: God gives life, causes death, and decrees by the command 'Be.'
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Judge and punisher
+  assigned_to:
+  - fig:1
+  basis: God's command brings judgment with truth, hell punishment is announced, and
+    divine vengeance causes unbelievers to perish.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+- id: role:4
+  label: Prophet addressed to persevere
+  assigned_to:
+  - fig:2
+  basis: Mohammed is named and instructed to be patient while awaiting God's promise.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Recipients of divine creation and provision
+  assigned_to:
+  - fig:3
+  basis: The human addressees receive the earth, heaven, formation, food, life stages,
+    cattle, and ships.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: role:6
+  label: Rejecters subject to punishment
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: Rejecters dispute signs, mock proofs, are threatened with hell, and perish
+    after seeing vengeance.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: role:7
+  label: Messengers bearing permitted signs
+  assigned_to:
+  - fig:5
+  basis: Apostles are sent before Mohammed and can produce signs only by God's permission.
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: role:8
+  label: False associated objects of worship
+  assigned_to:
+  - fig:6
+  basis: Deities or idols besides God are invoked by unbelievers, then said to withdraw
+    or be nothing.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:10
+- id: role:9
+  label: Warning example from earlier history
+  assigned_to:
+  - fig:7
+  basis: Former peoples' power, numbers, monuments, and final ruin are presented as
+    something later people should observe.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: Earth floor and heaven ceiling
+  literal_form: The earth as a stable floor and the heaven as a ceiling.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Human formation sequence
+  literal_form: Dust, seed, coagulated blood, mothers' wombs, infancy, strength, old
+    age, and determined period of life.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Creative command
+  literal_form: The decree expressed as 'Be, and it is.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Collars and chains
+  literal_form: Collars on necks and chains by which the condemned are dragged into
+    hell.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Hell gates and fire
+  literal_form: Gates of hell and the fire in which the condemned are burned.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: Cattle and ships
+  literal_form: Cattle used for riding, eating, and land carriage; ships used for
+    carriage by sea.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Monuments of former power
+  literal_form: Considerable monuments left in the earth by earlier, mightier peoples.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Signs and proofs
+  literal_form: Signs of God, evident proofs, scriptures, revealed doctrines, and
+    signs produced by apostles only by God's permission.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:10
+- id: sym:9
+  label: Associated deities and idols
+  literal_form: Deities or idols invoked besides God and later renounced or found
+    absent.
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:10
+scenes:
+- id: scene:1
+  label: Praise of God as creator and provider
+  summary: God is described as giving earth and heaven, forming and feeding humans,
+    being the living and only God, and commanding pure devotion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human life stages and divine decree
+  summary: The passage describes human formation from dust through birth and aging,
+    then states that God gives life and death and decrees by saying 'Be.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Punishment of rejecters
+  summary: Those who reject revelation are described as bound with collars and chains,
+    dragged into hell, burned in fire, questioned about false gods, and told to enter
+    hell forever.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Mohammed and prior apostles
+  summary: Mohammed is told to persevere, and the passage recalls that many apostles
+    came before him and produced signs only by God's permission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Provision through animals and ships
+  summary: God gives cattle for riding, eating, and other uses, and people are carried
+    by land on animals and by sea on ships.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Former peoples as examples of failed power
+  summary: Earlier peoples were stronger and left monuments, but their achievements
+    did not profit them when they mocked apostles' proofs and later saw vengeance.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Creator-provider ordering the human world
+  taxonomy_refs: []
+  basis: The passage attributes the earth, heaven, human formation, food, cattle,
+    and ships to God as provisions for human life.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: No specific available taxonomy family exactly matches this creator-provider
+    motif.
+- id: motif:2
+  label: Human life course under divine determination
+  taxonomy_refs: []
+  basis: Human existence is narrated as a sequence from dust and seed through birth,
+    maturity, old age or early death, and a determined life period.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage emphasizes creation, aging, and death rather than a rebirth
+    cycle.
+- id: motif:3
+  label: Creative decree by divine speech
+  taxonomy_refs: []
+  basis: God's decree is described as a command in which he says 'Be' and the thing
+    exists.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No cross-text comparison is inferred from the excerpt.
+- id: motif:4
+  label: Afterlife divine judgment and hell punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Rejecters of revelation are bound, dragged into hell, burned in fire, and
+    told to remain in hell forever.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The extraction identifies the stated judgment imagery without asserting
+    historical or comparative dependence.
+- id: motif:5
+  label: Last-day assembly before God
+  taxonomy_refs:
+  - resurrection
+  basis: The passage says the threatened people will be assembled before God at the
+    last day.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The excerpt states assembly at the last day, but does not describe the
+    mechanics of resurrection.
+- id: motif:6
+  label: Rejected messengers and ruin of former peoples
+  taxonomy_refs:
+  - divine_judgment
+  basis: Former peoples receive apostles with proofs, mock the message, see divine
+    vengeance, and perish despite their earlier strength and monuments.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The excerpt does not name the former peoples.
+- id: motif:7
+  label: Belated belief after seeing vengeance fails
+  taxonomy_refs:
+  - divine_judgment
+  basis: Former unbelievers profess belief in God alone and renounce idols only after
+    seeing vengeance, but their faith is said not to avail them.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The motif is extracted at the passage level and not tied here to a named
+    narrative cycle.
+- id: motif:8
+  label: False gods fail or withdraw from worshippers
+  taxonomy_refs: []
+  basis: The condemned are asked about gods associated besides God and answer that
+    those gods have withdrawn or that they had called on nothing.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: No available taxonomy reference directly matches this motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the divine judgment motif family because it depicts truthful
+    judgment, hell punishment, divine vengeance, and the perishing of unbelievers
+    after rejection of signs.
+  claim_level: same_motif
+  target: 'available motif family: divine_judgment'
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family classification only, not a claim of historical
+    contact, borrowing, or comparison with a specific external text.
+- id: claim:2
+  claim: The passage has a functional connection to the resurrection motif family
+    through its statement that people will be assembled before God at the last day.
+  claim_level: same_function
+  target: 'available motif family: resurrection'
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt mentions last-day assembly but does not provide a detailed
+    resurrection scene.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32325-32329
+  quote_or_summary: God gives the earth as a stable floor and heaven as a ceiling,
+    forms humans beautifully, feeds them, and is praised as Lord of all creatures.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 32330-32339
+  quote_or_summary: God is the living God and only God; pure religion is to be exhibited
+    to him, and the speaker is forbidden to worship deities besides God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 32340-32349
+  quote_or_summary: Human creation proceeds from dust to seed to coagulated blood,
+    then birth from mothers' wombs, full strength, old age or earlier death, and a
+    determined life period.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 32350-32352
+  quote_or_summary: '"It is he who giveth life, and causeth to die... Be, and it is."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 32353-32365
+  quote_or_summary: Those who dispute God's signs and charge the Koran and earlier
+    scriptures with falsehood are threatened with collars, chains, dragging into hell,
+    burning in fire, and failed associated gods.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 32366-32373
+  quote_or_summary: The haughty are told to enter hell forever; Mohammed is told to
+    persevere, and the threatened are said to be assembled before God at the last
+    day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 32374-32382
+  quote_or_summary: Many apostles were sent before Mohammed; only some histories are
+    related, and no apostle can produce a sign except by God's permission; God's command
+    brings true judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 32383-32389
+  quote_or_summary: God gives cattle for riding, eating, and other advantages; people
+    are carried by land on them and by sea on ships; God shows signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 32390-32394
+  quote_or_summary: Former peoples were more numerous and stronger and left more considerable
+    monuments, yet what they acquired did not profit them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 32395-32398
+  quote_or_summary: Apostles came to former peoples with proofs; the people mocked,
+    later declared belief after seeing vengeance and renounced idols, but that faith
+    did not avail them and the unbelievers perished.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif and taxonomy
+    assignments are conservative and limited to available references; all records
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Footnote content was not used for independent motif expansion.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l32325-l32398
+  passage_sha256=79d6eb30f969bbff3a203ed915a6b6dde5df43c473e30e9b91de3e3fc470da89
+

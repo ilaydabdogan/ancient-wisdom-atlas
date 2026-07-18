@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.australian-euahlayi-tribe-parker-gutenberg-l5716-l5905
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+passage_locator:
+  label: THE AMUSEMENTS OF BLACKS / CHAPTER XVI / BUSH BOGIES AND FINIS / GLOSSARY;
+    lines 5716-5905
+  start: '5716'
+  end: '5905'
+  translation: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A glossary of Euahlayi terms defines names for deities, spirits, ritual
+    terms, kinship categories, totems, plants, animals, tools, weapons, death-related
+    objects, and cosmological places such as sky-camp, lower world, sacred mountain,
+    sacred tree, and spirit tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a glossary rather than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Byamee is defined as the people’s god and as a culture hero called the “Great
+    One.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several entries name initiation-related terms, including an initiation ceremony,
+    a boorah ring, a boorah song, a boorah message-stick, a boy undergoing initiation,
+    and an uninitiated boy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The glossary includes terms for a sacred tree and a spirit tree.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The glossary includes cosmological or spirit-world terms for sky-camp or heaven,
+    spirits of the lower world, spirits on the sacred mountain, and a childhood friend
+    in the afterlife.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The glossary includes several spirit or dangerous-being terms, including dream-spirit,
+    wizard’s dream spirit, shadow spirit, long-nailed devils, and devils with poison-sticks.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The glossary includes serpent or snake terms, including a large brown and
+    yellow snake and a small carpet snake.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The glossary includes death-associated items such as things belonging to a
+    dead person and death-dealing stones.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The glossary includes totem terms, including hereditary totem, hand or totem,
+    and a same-totem elder relation.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Byamee
+  description: Defined as their god and culture hero, the “Great One.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Spirits of the lower world
+  description: A class of spirits identified with the lower world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Spirits on the sacred mountain
+  description: A class of spirits located on the sacred mountain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Devils with poison-sticks and long-nailed devils
+  description: Dangerous beings named as devils, including devils with poison-sticks
+    and long-nailed devils.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Dream and shadow spirits
+  description: Spirit types named as any person’s dream-spirit, a wizard’s dream spirit,
+    and shadow spirit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: god and culture hero
+  assigned_to:
+  - fig:1
+  basis: The glossary explicitly defines Byamee as god and culture hero.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: spirit-world inhabitants
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The entries locate spirits in the lower world and on the sacred mountain.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: dangerous otherworld beings
+  assigned_to:
+  - fig:4
+  basis: The entries describe devils with poison-sticks and long-nailed devils.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: dream or shadow spirit
+  assigned_to:
+  - fig:5
+  basis: The entries define dream-spirit, a wizard’s dream spirit, and shadow spirit.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacred or spirit tree
+  literal_form: tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: serpent or snake
+  literal_form: large brown and yellow snake; small carpet snake
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: sacred mountain
+  literal_form: mountain
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: sky-camp or heaven
+  literal_form: sky-camp; heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: lower world
+  literal_form: lower world
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: boorah initiation objects
+  literal_form: little boorah ring; boorah message-stick; boorah song
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: poison-sticks
+  literal_form: poison-sticks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: death-dealing stone
+  literal_form: stone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: culture hero
+  taxonomy_refs:
+  - culture_hero
+  basis: Byamee is explicitly glossed as a god and culture hero.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a glossary definition and no narrative actions
+    of the culture hero.
+- id: motif:2
+  label: initiation complex
+  taxonomy_refs:
+  - initiation
+  basis: 'The glossary includes multiple initiation-associated terms: initiation ceremony,
+    boorah ring, boorah song, boorah message-stick, initiated boy, and uninitiated
+    boy.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage names ritual terms but does not describe the rite or its sequence.
+- id: motif:3
+  label: sacred or spirit tree
+  taxonomy_refs: []
+  basis: The glossary defines terms for a sacred tree and a spirit tree.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe an axis, world-tree function, or narrative
+    event involving the tree.
+- id: motif:4
+  label: afterlife and spirit-world geography
+  taxonomy_refs: []
+  basis: The glossary names sky-camp or heaven, lower-world spirits, sacred-mountain
+    spirits, and a friend of childhood in the afterlife.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies places and beings but does not describe an afterlife
+    journey.
+- id: motif:5
+  label: dangerous spirit beings with harmful objects
+  taxonomy_refs: []
+  basis: The glossary names long-nailed devils, devils with poison-sticks, and a tree
+    where poison-sticks are kept.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage contains terms only and no narrative confrontation or action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 5716-5905, Glossary
+  quote_or_summary: Glossary section listing Euahlayi terms and English definitions.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5716-5905, Glossary, entry 'Byamee'
+  quote_or_summary: "“Byamee, their god; culture hero 'Great One.'”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 5716-5905, Glossary, entries 'Boorak', 'Bunbul', 'Brumboorah', 'Boorahbayyi',
+    'Doolooboorah', 'Eeramooun'
+  quote_or_summary: Glossary entries define Boorak as initiation ceremony; Bunbul
+    as little boorah ring; Brumboorah as boorah song; Boorahbayyi as boy undergoing
+    initiation; Doolooboorah as boorah message-stick; Eeramooun as uninitiated boy.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 5716-5905, Glossary, entries 'Dheal' and 'Minggah'
+  quote_or_summary: Dheal is glossed as sacred tree; Minggah is glossed as spirit
+    tree.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 5716-5905, Glossary, entries 'Bullimah', 'Eleanbah wundah', 'Moothie',
+    'Mooroobeaigunnil'
+  quote_or_summary: Bullimah is sky-camp or heaven; Eleanbah wundah are spirits of
+    the lower world; Moothie is a friend of childhood in afterlife; Mooroobeaigunnil
+    are spirits on the sacred mountain.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 5716-5905, Glossary, entries 'Birrahmulgerhyerh', 'Euloowayi', 'Doowee',
+    'Mullee Mullee', 'Mullowil', 'Boogahroo'
+  quote_or_summary: Birrahmulgerhyerh are devils with poison-sticks; Euloowayi are
+    long-nailed devils; Doowee is any one's dream-spirit; Mullee Mullee is a wizard's
+    dream spirit; Mullowil is shadow spirit; Boogahroo is a tree where poison-sticks
+    are kept.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 5716-5905, Glossary, entries 'Bubburr' and 'Dayahminyah'
+  quote_or_summary: Bubburr is a large brown and yellow snake; Dayahminyah is a small
+    carpet snake.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 5716-5905, Glossary, entries 'Boogurr', 'Dinahgurrerhlowah', 'Moolee'
+  quote_or_summary: Boogurr means things belonging to a dead person; Dinahgurrerhlowah
+    and Moolee are death-dealing stones.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: lines 5716-5905, Glossary, entries 'Dhe', 'Mah', 'Dillahga'
+  quote_or_summary: Dhe is hereditary totem; Mah is hand or totem; Dillahga is an
+    elderly man of the same totem as the person speaking of or to him.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a glossary, so extraction is limited to named terms and definitions
+    rather than narrative motifs or scenes. Comparison claims are omitted because
+    the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No scenes or comparison claims were extracted because the source passage contains lexical definitions rather than a narrative episode.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-euahlayi-tribe-parker-gutenberg__l5716-l5905
+  passage_sha256=c7382f167c99311579e0884338f2584e72d45001d8638e0e648e378024f5f531
+

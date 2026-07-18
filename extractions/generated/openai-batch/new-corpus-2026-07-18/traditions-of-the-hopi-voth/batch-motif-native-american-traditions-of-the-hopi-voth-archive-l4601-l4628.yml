@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.native-american-traditions-of-the-hopi-voth-archive-l4601-l4628
+source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+passage_locator:
+  label: NOTE. / CONTENTS. / THE TRADITIONS OF THE HOP1. / STARS.'; lines 4601-4628
+  start: '4601'
+  end: '4628'
+  translation: The Traditions of the Hopi
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Two brothers return toward Shongopavi, pass Toriva spring without stealing,
+    and use a lightning frame and bullroarer or thunder board. Storm clouds, thunder,
+    lightning, and rain appear; a Hopi house is struck and shattered. At home, their
+    grandmother scolds them, and the brothers secretly place the lightning frame,
+    thunder board, snake, artificial melons, bahos, and paint into two covered pots.
+    The narrator states that because the Pookonghoyas later had these things, rain
+    continued and the Hopi had good crops.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The two brothers started homeward, passed Toriva spring, drank there, and
+    did not steal anything this time.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After traveling toward Shongopavi, they shot a lightning frame and twirled
+    a bullroarer several times.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: As they reached the canyon or gulch east of Shongopavi and began ascending
+    to the village, clouds gathered, thunder began, lightning appeared, and rain started.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At their house they again shot the lightning frame and twirled the thunder
+    board.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thunder and lightning became strong, and one Hopi house in the village was
+    struck and shattered.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Their grandmother called them little mischief makers and said they were bad.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The two brothers secretly placed the lightning frame, thunder board, snake,
+    artificial melons, bahos, and paint into two pots and covered them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that because the Pookonghoyas afterwards had these things,
+    it always rained and the Hopi had good crops.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: two brothers / Pookonghoyas
+  description: Two brothers who return home, use the lightning frame and bullroarer
+    or thunder board, conceal objects in pots, and are later identified as Pookonghoyas
+    possessing these things.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: grandmother
+  description: The grandmother at the house who scolds the arriving brothers as mischief
+    makers and bad.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hopi
+  description: The Hopi community whose village includes the struck house and who
+    are said to have good crops because the Pookonghoyas had the objects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: joint brother pair
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes two brothers acting together on the return
+    home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: possessors of rain-causing objects
+  assigned_to:
+  - fig:1
+  basis: The passage states that because the Pookonghoyas afterwards had the stored
+    things, it always rained and the Hopi had good crops.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: scolding elder
+  assigned_to:
+  - fig:2
+  basis: The grandmother calls the arriving brothers mischief makers and says they
+    are bad.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: crop beneficiaries
+  assigned_to:
+  - fig:3
+  basis: The Hopi are said to have good crops because the Pookonghoyas had the objects.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Toriva spring
+  literal_form: spring where the brothers drink
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lightning frame
+  literal_form: object that the brothers shoot before and during the storm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: bullroarer / thunder board
+  literal_form: object twirled by the brothers, called bullroarer and later thunder
+    board in the passage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: storm and rain
+  literal_form: clouds, thunder, lightning, and rain appearing as the brothers approach
+    the village
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: snake
+  literal_form: snake placed with other objects into the covered pots
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: two covered pots
+  literal_form: two pots used to conceal and cover the brought objects
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: artificial melons, bahos, and paint
+  literal_form: items placed with the lightning frame, thunder board, and snake into
+    the pots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: good crops
+  literal_form: Hopi crops said to be good because the Pookonghoyas possessed the
+    objects
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Return past Toriva spring
+  summary: The brothers go homeward, drink at Toriva spring, refrain from stealing,
+    and continue toward Shongopavi.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Storm begins near Shongopavi
+  summary: After the brothers use the lightning frame and bullroarer, storm clouds
+    gather, thunder and lightning appear, and rain begins as they ascend toward the
+    village.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Thunder and lightning at the house
+  summary: The brothers reach their house, repeat the use of the lightning frame and
+    thunder board, and a Hopi house is struck and shattered while their grandmother
+    scolds them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Objects hidden in pots and later rain benefit
+  summary: The brothers secretly put the lightning frame, thunder board, snake, artificial
+    melons, bahos, and paint into two covered pots; the passage explains that the
+    Pookonghoyas' possession of these objects caused continuing rain and good Hopi
+    crops.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: brother pair acting together
+  taxonomy_refs:
+  - sibling_pair
+  basis: The two brothers travel, use the storm-related objects, and hide the objects
+    together.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage supports a brother pair but does not state that they are twins.
+- id: motif:2
+  label: weather-making through ritual objects
+  taxonomy_refs: []
+  basis: The brothers shoot the lightning frame and twirl the bullroarer or thunder
+    board; storm clouds, thunder, lightning, and rain follow, and the passage links
+    the objects to continuing rain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The exact mechanism or ritual status of the objects is not explained in
+    this passage.
+- id: motif:3
+  label: culture-benefit through possession of powerful objects
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage states that the Pookonghoyas' later possession of the objects
+    caused rain and good crops for the Hopi.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives an agricultural benefit but does not explicitly call
+    the Pookonghoyas culture heroes.
+- id: motif:4
+  label: secret concealment of potent objects
+  taxonomy_refs: []
+  basis: The two brothers quickly and secretly put the lightning frame, thunder board,
+    snake, artificial melons, bahos, and paint into two covered pots.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain why secrecy or the pots are necessary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4601-4604
+  quote_or_summary: The brothers start homeward, pass Toriva spring, drink there,
+    do not steal anything this time, and take the trail toward Shongopavi.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 4604-4610
+  quote_or_summary: They shoot the lightning frame and twirl the bullroarer; as they
+    reach the canyon east of Shongopavi and ascend, clouds gather and thunder, lightning,
+    and rain begin.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 4611-4618
+  quote_or_summary: At their house they again shoot the lightning frame and twirl
+    the thunder board; thunder and lightning intensify, a Hopi house is struck and
+    shattered, and their grandmother scolds them as mischief makers.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 4618-4623
+  quote_or_summary: The two brothers rush inside and secretly place the lightning
+    frame, thunder board, snake, artificial melons, bahos, and paint into two covered
+    pots.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 4623-4626
+  quote_or_summary: The passage states that because the Pookonghoyas afterwards had
+    these things, it always rained and the Hopi had good crops.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the passage. Motif labels involving
+    weather-making and culture benefit are candidate interpretations and should be
+    reviewed by a Hopi traditions specialist or project editor. No comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line 4628 begins the next section heading and was not used for motif extraction because no narrative content from that section is included in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-traditions-of-the-hopi-voth-archive__l4601-l4628
+  passage_sha256=a27505c493b0e57da01cbbb87ac83ee330c3096369e9e16799e1bb4bf0f58ad5
+

@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16608-l16643
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: CXXXIV / CXXXV / CXLVI / CXLIX; lines 16608-16643
+  start: '16608'
+  end: '16643'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Both worlds, the Transient and Eterne, for Sk and the Loved I'd yield
+  summary: The speaker declares willingness to yield both transient and eternal worlds
+    for Sk and the Loved, values the friend above life, then describes a night of
+    tears, sleepless contemplation, images of the beloved's brow and face, wine, music,
+    song, and favorable omens brought to friends by Hafiz.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he would yield both the transient and eternal worlds for
+    Sk and the Loved.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says his ruler would remain supreme even if a new favorite took
+    his place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says it would be sinful to value his own life more than his friend.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker's tears are described as a torrent stream that stopped Sleep by
+    force.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker paints or imagines the beloved's down upon a water-course while
+    musing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The beloved one's brow is viewed; the speaker's cowl is said to burn up, and
+    the speaker drains a cup in honor of the sacred Arch.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pure light is said to be shed from the dear friend's resplendent brow.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Kisses sent by the speaker fall from afar on a moon associated with the beloved's
+    brow or face.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The face of Sk charms the speaker's eye, while the harp charms his ear.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The speaker paints the beloved's ideal face in the studio of his eye until
+    morning while deprived of sleep.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Sk takes up a wine-bowl at a sweet strain; the speaker sings verses to him
+    and then drinks a sparkling cup.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The speaker describes his thoughts as bird-like, flying from joy's branch
+    and being drawn back from the springes of the beloved's lock.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Hafiz says his time passed in joy and that he brought omens for fortune and
+    the days of life to friends.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person voice who yields both worlds, weeps, paints the beloved's
+    image, sings verses, drinks, and brings omens.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Sk
+  description: Named addressee or figure for whom the speaker would yield both worlds;
+    his face charms the speaker, and he takes up a wine-bowl.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: the Loved / Beloved one / dear friend
+  description: Beloved figure associated with a brow, face, light, a moon image, and
+    locks; the speaker values this friend above life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Sleep
+  description: Personified Sleep is stopped by the speaker's torrent-like tears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hafiz
+  description: Named figure who says his time passed in joy and that he brought omens
+    to friends.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: friends
+  description: Recipients to whom Hafiz brings omens for fortune and the days of life.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: first-person lover-poet
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The voice speaks in first person, sings verses, contemplates the beloved,
+    and is named as Hafiz near the end.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: beloved or object of devotion
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Sk and the Loved are named as figures for whom the speaker would yield both
+    worlds; the beloved/friend is valued above life and contemplated through face,
+    brow, and locks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:3
+  label: wine-bowl holder
+  assigned_to:
+  - fig:2
+  basis: Sk takes up the wine-bowl at the sweet strain.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: personified obstruction to wakeful longing
+  assigned_to:
+  - fig:4
+  basis: Sleep is personified as being stopped by the force of the speaker's tears.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: bringer of omens
+  assigned_to:
+  - fig:5
+  basis: Hafiz states that he brought omens to friends for fortune and the days of
+    life.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: recipients of omens
+  assigned_to:
+  - fig:6
+  basis: The friends receive omens from Hafiz.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: two worlds
+  literal_form: the Transient and Eterne
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tears as torrent
+  literal_form: tears described as a torrent stream
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water-course
+  literal_form: water-course on which the speaker paints or imagines the beloved's
+    down
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: burnt cowl
+  literal_form: the speaker's cowl burnt up when viewing the beloved's brow
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sacred Arch
+  literal_form: sacred Arch honored by draining a cup
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: cup and wine-bowl
+  literal_form: flowing cup, wine-bowl, sparkling cup
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:7
+  label: radiant brow
+  literal_form: resplendent brow shedding pure light
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: moon image
+  literal_form: moon receiving the speaker's kisses from afar
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: harp
+  literal_form: harp charming the speaker's ear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: eye as studio
+  literal_form: studio of the speaker's eye where the ideal face is painted
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: bird-like thoughts and joy's branch
+  literal_form: bird-like thoughts flying from joy's branch
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:12
+  label: beloved's lock as springes
+  literal_form: springes of the beloved's lock drawing back the speaker's thoughts
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:13
+  label: omens
+  literal_form: omens sought for fortune and the days of life
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Declaration of devotion beyond worlds and life
+  summary: The speaker declares that both transient and eternal worlds would be yielded
+    for Sk and the Loved, and that the friend is more precious than the speaker's
+    life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sleepless night of tears and image-making
+  summary: During the night, the speaker's torrent-like tears stop Sleep, and the
+    speaker paints the beloved's features upon water and within the eye until morning.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:10
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:3
+  label: Radiant beloved, cup, music, and wine-bowl
+  summary: The beloved's brow sheds light and is associated with moon imagery; the
+    speaker drains a cup, Sk's face and the harp charm the senses, and Sk raises a
+    wine-bowl before the speaker sings and drinks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: Thoughts caught by locks and omens brought to friends
+  summary: The speaker imagines his thoughts as birds drawn back by the beloved's
+    locks; Hafiz reports joy and the bringing of omens to friends.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:11
+  - sym:12
+  - sym:13
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Beloved valued above worlds and life
+  taxonomy_refs:
+  - divine_beloved
+  - annihilation_union
+  basis: The speaker says he would yield both transient and eternal worlds for Sk
+    and the Loved and would not esteem his own life above his friend.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is lyric and does not explicitly state that the beloved is
+    divine; the taxonomy references are tentative because the devotion is expressed
+    through poetic hyperbole.
+- id: motif:2
+  label: Sleepless tears in longing for the beloved
+  taxonomy_refs: []
+  basis: The speaker's tears are described as a torrent stopping Sleep, while he contemplates
+    and paints the beloved's image through the night.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level lyric pattern rather than a formal named taxonomy
+    motif in the supplied list.
+- id: motif:3
+  label: Radiant beloved as moonlike source of light
+  taxonomy_refs:
+  - divine_beloved
+  basis: The beloved or dear friend's brow sheds pure light and is associated with
+    a moon receiving kisses from afar.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The light and moon imagery may be conventional praise rather than an explicit
+    divine-beloved motif.
+- id: motif:4
+  label: Wine, song, and omens in the beloved's presence
+  taxonomy_refs: []
+  basis: Sk takes up a wine-bowl; the speaker sings verses, drinks, and describes
+    glad omens and omens brought to friends.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage links wine, music, verse, and omens, but does not provide
+    a broader narrative explanation for the omen practice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16608-16611 / CXLIX
+  quote_or_summary: '"Both worlds, the Transient and Eterne, for Sk and the Loved
+    I''d yield"; the universe appears as Love''s field.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 16612-16613 / CXLIX
+  quote_or_summary: The speaker says that if a new favorite wins his place, his ruler
+    remains supreme, and that valuing his life above his friend would be sinful.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied.
+- id: ev:3
+  type: summary
+  locator: lines 16616-16618 / CLV
+  quote_or_summary: The speaker's tears, likened to a torrent stream, stop Sleep;
+    while musing, the speaker paints the beloved's down upon the water-course.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied.
+- id: ev:4
+  type: summary
+  locator: lines 16619-16624 / CLV
+  quote_or_summary: The speaker views the beloved's brow, says his cowl burnt up,
+    drains a cup in honor of the sacred Arch, describes pure light from the friend's
+    brow, and sends kisses to a moon image.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied.
+- id: ev:5
+  type: summary
+  locator: lines 16625-16627 / CLV
+  quote_or_summary: The face of Sk charms the speaker's eye, the harp charms his ear,
+    and both are described as glad omens.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied.
+- id: ev:6
+  type: summary
+  locator: lines 16628-16630 / CLV
+  quote_or_summary: The speaker paints the beloved's ideal face in the studio of his
+    eye until morning, deprived of sleep at night.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied.
+- id: ev:7
+  type: summary
+  locator: lines 16631-16633 / CLV
+  quote_or_summary: Sk takes up the wine-bowl at the sweet strain; the speaker first
+    sings verses to him and then drinks a sparkling cup.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied.
+- id: ev:8
+  type: summary
+  locator: lines 16634-16643 / CLV
+  quote_or_summary: The speaker describes bird-like thoughts drawn back from the springes
+    of the beloved's lock; Hafiz says his time passed in joy and that he brought omens
+    for fortune and life to friends.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Some figures may
+    overlap in the lyric voice, especially Sk, the Loved, the Beloved one, and the
+    dear friend; they are separated only where the passage's wording separates them.
+    No comparison claims are made because the passage does not itself establish comparison
+    to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used supplied source metadata and passage text only; all motifs are candidate readings and should be reviewed.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16608-l16643
+  passage_sha256=18d8791892b8d0fe001bbe8021f9a5d1694ef90498e746e2c5932a5b4441a561
+

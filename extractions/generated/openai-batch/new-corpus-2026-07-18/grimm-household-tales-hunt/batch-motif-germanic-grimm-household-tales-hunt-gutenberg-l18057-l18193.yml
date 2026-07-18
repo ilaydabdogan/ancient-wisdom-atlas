@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l18057-l18193
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 18057-18193
+  start: '18057'
+  end: '18193'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Bleat, my little goat, bleat, / Cover the table with something to eat,”"
+  summary: Two-eyes uses a charm taught by a wise woman to make her goat produce and
+    remove a table set with food. Her sisters notice she no longer eats their food.
+    One-eye is sent to spy but is put to sleep by Two-eyes’s song. Three-eyes is then
+    sent; because one eye is not named in the sleep song, it stays awake and sees
+    the charm. Three-eyes reports the secret, and the mother kills the goat with a
+    butcher’s knife.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A little table covered with a white cloth appears with eating utensils and
+    warm food after Two-eyes speaks words to the goat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two-eyes says a short prayer before eating from the table.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Two-eyes uses a second spoken formula to make the table and its contents disappear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Two-eyes repeatedly leaves the food provided at home untouched, causing her
+    sisters to suspect she has another source of food.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One-eye accompanies Two-eyes to the pasture to observe her but falls asleep
+    after Two-eyes sings to her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: While One-eye sleeps, Two-eyes summons the table, eats and drinks, then dismisses
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Three-eyes accompanies Two-eyes on the next day to observe whether she eats
+    in secret.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Two-eyes’s song names only two of Three-eyes’s eyes as sleeping; two eyes
+    sleep, but the third remains able to see.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Three-eyes sees Two-eyes use the goat charm and eat from the appearing table.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Three-eyes reports to the mother the words of the charm and the appearance
+    and disappearance of the table.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The mother kills the goat by thrusting a butcher’s knife into its heart.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Two-eyes
+  description: A girl who drives the goat to pasture, uses the goat charm to obtain
+    food, and attempts to conceal it from her sisters.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Little goat
+  description: The goat associated with the spoken formula that makes the food table
+    appear and disappear; it is later killed by the mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: fig:3
+  name_or_label: One-eye
+  description: A sister sent to observe Two-eyes who falls asleep and does not discover
+    the source of food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Three-eyes
+  description: A sister sent to observe Two-eyes; two of her eyes fall asleep, but
+    the third eye remains awake and sees the secret.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Mother
+  description: The mother who sends Three-eyes to observe Two-eyes and later kills
+    the goat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: fig:6
+  name_or_label: Wise woman
+  description: A wise woman is mentioned as the one who taught Two-eyes the formula
+    for removing the table.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of magical food
+  assigned_to:
+  - fig:1
+  basis: Two-eyes summons the table, eats, and drinks until satisfied.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: role:2
+  label: keeper of a secret charm
+  assigned_to:
+  - fig:1
+  basis: Two-eyes knows and uses the spoken words that make the table appear and disappear,
+    while trying to prevent her sisters from observing it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:3
+  label: magical helper animal
+  assigned_to:
+  - fig:2
+  basis: The goat is addressed in the charm that produces and removes the table of
+    food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:4
+  label: sibling spy
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: One-eye and Three-eyes are sent or go with Two-eyes to observe what she does
+    in the pasture.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: successful witness
+  assigned_to:
+  - fig:4
+  basis: Three-eyes’s unenchanted third eye sees the table appear and later reports
+    the secret to the mother.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:6
+  label: envious destroyer of helper
+  assigned_to:
+  - fig:5
+  basis: The mother reacts to Three-eyes’s report by asking whether Two-eyes wants
+    to fare better than they do, then kills the goat.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: teacher of formula
+  assigned_to:
+  - fig:6
+  basis: The passage states that Two-eyes says the formula as the wise woman had taught
+    her.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: goat as food-producing helper
+  literal_form: little goat addressed by charm
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: appearing table of food
+  literal_form: little table covered with a white cloth, with plate, knife, fork,
+    silver spoon, and warm food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: spoken charm
+  literal_form: rhymed commands addressed to the goat to cover or remove the table
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: sym:4
+  label: sleep song
+  literal_form: song asking whether an eye is waking or sleeping
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: third eye that remains awake
+  literal_form: the eye in Three-eyes’s forehead that is not put to sleep by the wording
+    of the song
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:6
+  label: butcher’s knife
+  literal_form: butcher’s knife used to kill the goat
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: untouched home food
+  literal_form: earthenware dish of food and bits of broken bread left untouched by
+    Two-eyes
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+scenes:
+- id: scene:1
+  label: The goat produces a table of food
+  summary: Two-eyes speaks a charm to the goat, a table with food appears, she prays
+    and eats, and then she uses another formula to make the table vanish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Suspicion after Two-eyes leaves food untouched
+  summary: Two-eyes repeatedly does not eat the food provided at home, leading her
+    sisters to suspect that she has discovered another way to obtain food.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: One-eye fails to spy
+  summary: One-eye goes with Two-eyes to the pasture, but Two-eyes sings her to sleep
+    before summoning and dismissing the table of food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Three-eyes sees the secret
+  summary: Three-eyes goes with Two-eyes; Two-eyes’s song puts only two of her eyes
+    to sleep, leaving the third eye awake to witness the goat charm and the appearing
+    table.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Report and killing of the goat
+  summary: Three-eyes tells the mother how Two-eyes obtains food from the goat, and
+    the mother kills the goat with a butcher’s knife.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: magical animal helper provides food on command
+  taxonomy_refs: []
+  basis: The goat is addressed with a formula, after which a table with food appears
+    for Two-eyes.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage does not explain the goat’s origin or the full nature of its
+    power.
+- id: motif:2
+  label: magical object appears and disappears by formula
+  taxonomy_refs: []
+  basis: The food table appears after one spoken charm and disappears after another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The table is linked to the goat rather than acting independently.
+- id: motif:3
+  label: sleep-inducing song used to conceal a secret
+  taxonomy_refs: []
+  basis: Two-eyes sings to One-eye and later to Three-eyes so that the watchers fall
+    asleep before she uses the goat charm.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage presents the song’s effect directly but does not classify
+    it as magic apart from the outcome.
+- id: motif:4
+  label: unaccounted-for eye defeats sleep formula
+  taxonomy_refs: []
+  basis: Two-eyes’s wording fails to name Three-eyes’s third eye, so that eye stays
+    awake and sees the secret.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a passage-level pattern based on the exact wording of the song.
+- id: motif:5
+  label: envy leads to destruction of magical helper
+  taxonomy_refs: []
+  basis: After Three-eyes reveals the secret source of better food, the mother angrily
+    kills the goat.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage attributes the mother’s reaction to envy but does not describe
+    any broader consequence after the killing within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18057-18066
+  quote_or_summary: After Two-eyes speaks, a little table covered with a white cloth
+    appears with a plate, knife and fork, silver spoon, and warm food; she prays and
+    eats.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; excerpt summarized with brief quoted formula
+    in canonical text.
+- id: ev:2
+  type: summary
+  locator: 18066-18072
+  quote_or_summary: When satisfied, Two-eyes says the removal formula taught by the
+    wise woman, and the table and everything on it vanish.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 18074-18088
+  quote_or_summary: At home Two-eyes leaves an earthenware dish of food and later
+    broken bread untouched; her sisters notice and infer she has another way of getting
+    food.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18088-18104
+  quote_or_summary: One-eye goes with Two-eyes to observe her, but Two-eyes leads
+    her into high grass and sings until One-eye shuts her one eye and falls asleep.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 18105-18122
+  quote_or_summary: While One-eye sleeps, Two-eyes summons the table with the goat
+    charm, eats and drinks until satisfied, dismisses the table, and then wakes One-eye.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 18123-18134
+  quote_or_summary: The mother sends Three-eyes to observe whether Two-eyes eats in
+    secret; Three-eyes accompanies Two-eyes and the goat to pasture.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 18135-18155
+  quote_or_summary: Two-eyes sings incorrectly to Three-eyes, naming two eyes as sleeping;
+    two eyes sleep, while the third eye in Three-eyes’s forehead remains able to see.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 18156-18166
+  quote_or_summary: Thinking Three-eyes is asleep, Two-eyes uses the goat charm, eats
+    and drinks, and makes the table go away; Three-eyes sees everything.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 18167-18189
+  quote_or_summary: At home Three-eyes tells the mother that Two-eyes says the goat
+    charm, that a table with better food appears, and that it vanishes after a second
+    formula; she explains that her forehead eye stayed awake.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: 18190-18193
+  quote_or_summary: The mother says, “Dost thou want to fare better than we do?” and
+    then fetches a butcher’s knife and thrusts it into the goat’s heart, killing it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; brief quote from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear actions, figures, and repeated formulas. Motif labels
+    are descriptive passage-level candidates without external comparison claims or
+    taxonomy IDs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond its internal repeated patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l18057-l18193
+  passage_sha256=ad92502ae7b6ebd23eec2d693fdcdc2740099484fac0901f4cd8808974b4b173
+

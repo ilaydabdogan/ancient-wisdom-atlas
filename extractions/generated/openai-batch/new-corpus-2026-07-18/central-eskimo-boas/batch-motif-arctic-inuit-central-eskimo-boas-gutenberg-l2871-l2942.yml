@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l2871-l2942
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: GENERAL OBSERVATIONS. / BAFFIN LAND. / WESTERN SHORE OF HUDSON BAY. / BOOTHIA
+    FELIX AND BACK RIVER.; lines 2871-2942
+  start: '2871'
+  end: '2942'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ethnographic and geographic notes on the Ugjulirmiut
+    and Ukusiksalirmiut, including territorial locations, reported movements and disagreements
+    among sources, subsistence around Back River, and roads or routes connecting communities
+    across rivers, lakes, bays, isthmuses, and inlets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Ugjulirmiut are described in relation to Adelaide Peninsula, King William
+    Land, and an old country now inhabited by both Ugjulirmiut and Netchillirmiut.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ugjulirmiut rarely hunted beyond Cape Herschel and looked for driftwood
+    on the northern shore of King William Land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ukusiksalirmiut are described as inhabiting the estuary of Back River
+    and as having been encountered by several explorers or parties.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage reports conflicting statements about whether the Ukusiksalirmiut
+    formerly lived on Adelaide Peninsula and whether they were displaced by the Netchillirmiut
+    and Ugjulirmiut; the author says he does not agree with Klutschak on this point.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Schwatka is reported to have counted seven families near the great bend of
+    Hayes River and nine at the Dangerous Rapids of Back River.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Fish from Back River, together with musk ox, are described as the Ukusiksalirmiut’s
+    main food; the author doubts claims that they have no winter fuel or do not hunt
+    seals at all.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage lists roads or travel routes connecting Akugdlit, Pelly Bay, Netchillik,
+    Back River, Boothia, Ugjulik, King William Land, and other places by lakes, rivers,
+    shores, inlets, and isthmuses.
+  category: setting
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: The passage states that communication between Back River and Chesterfield
+    Inlet is evidenced by reports, and says limited intercourse probably occurs between
+    the Kinipetu and the Ukusiksalirmiut.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ugjulirmiut
+  description: A Central Eskimo group described by territory around Adelaide Peninsula
+    and King William Land, with hunting limits near Cape Herschel and driftwood gathering
+    on the northern shore of King William Land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Netchillirmiut
+  description: A neighboring group described as sharing the old Ugjulirmiut country
+    and as part of reports about movement or displacement near King William Land and
+    Adelaide Peninsula.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Ukusiksalirmiut
+  description: A Central Eskimo group inhabiting the estuary of Back River, reported
+    in several explorers’ accounts, with fish and musk ox described as main food sources.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Kinipetu
+  description: A group mentioned in connection with probable limited intercourse with
+    the Ukusiksalirmiut.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: tribal community described by territory and movement
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both groups are described through named territories, settlements, or movements
+    within the regional geography.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: neighboring group in shared territory and reported pressure
+  assigned_to:
+  - fig:2
+  basis: The Netchillirmiut are said to share the old Ugjulirmiut country and are
+    named in reports of westward movement or pressure on Adelaide Peninsula and King
+    William Land.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: group in probable limited contact
+  assigned_to:
+  - fig:4
+  basis: The passage says limited intercourse is probably kept up between the Kinipetu
+    and the Ukusiksalirmiut.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: Back River subsistence group
+  assigned_to:
+  - fig:3
+  basis: The Ukusiksalirmiut are described as living near Back River and relying chiefly
+    on fish and musk ox.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: waterways
+  literal_form: Back River, Hayes River, Wager River, lakes, bays, inlets, straits,
+    and related water passages used as food sources or travel corridors
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: fish
+  literal_form: fish caught in abundance in Back River and described as a principal
+    food
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: musk ox
+  literal_form: musk ox described together with fish as a main food
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ugjulirmiut territory and resource movement
+  summary: The passage places the Ugjulirmiut around Adelaide Peninsula and King William
+    Land, notes shared habitation with the Netchillirmiut, and mentions hunting limits
+    and driftwood gathering.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ukusiksalirmiut Back River residence and subsistence
+  summary: The passage identifies the Ukusiksalirmiut with the Back River estuary,
+    recounts conflicting source reports about their earlier location, and describes
+    family counts and food sources.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Regional roads and intertribal communication
+  summary: The passage lists overland and water-linked routes between named places
+    and concludes that communication between Back River and Chesterfield Inlet supports
+    probable limited contact between the Kinipetu and the Ukusiksalirmiut.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: waterway-and-isthmus travel network
+  taxonomy_refs: []
+  basis: The passage repeatedly describes roads and routes that follow rivers, lakes,
+    shores, inlets, straits, and isthmuses between communities and regions.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an ethnographic route pattern, not a mythological narrative motif;
+    no listed motif-family taxonomy is directly supported.
+- id: motif:2
+  label: fish-and-musk-ox subsistence pattern
+  taxonomy_refs: []
+  basis: The passage states that Back River fish are abundant, that fish and musk
+    ox are main foods for the Ukusiksalirmiut, and that peoples west of Boothia depend
+    more on fish than other Central Eskimo tribes.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a literal subsistence pattern rather than a symbolic or mythic
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares peoples west of Boothia with other Central Eskimo tribes
+    by stating that the western groups depend much more on fish.
+  claim_level: same_function
+  target: regional Central Eskimo subsistence patterns
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns ethnographic subsistence, not a mythological
+    motif; the passage does not explain the cause of the difference.
+- id: claim:2
+  claim: The passage supports probable limited historical contact between the Kinipetu
+    and the Ukusiksalirmiut through Back River and Chesterfield Inlet communication.
+  claim_level: historical_contact
+  target: Kinipetu and Ukusiksalirmiut contact via Back River–Chesterfield Inlet routes
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage describes the contact as probable and limited; it gives
+    no detailed account of exchanges or narratives transmitted through the route.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2871-2879
+  quote_or_summary: The Ugjulirmiut are connected with Adelaide Peninsula and King
+    William Land; their old country is said to be inhabited by both Ugjulirmiut and
+    Netchillirmiut, and their mode of life is described as identical.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 2880-2887
+  quote_or_summary: The passage notes rare visits to northern King William Land, the
+    discovery of Franklin’s ships, rare hunting beyond Cape Herschel, and driftwood
+    searching on the island’s northern shore.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 2888-2899
+  quote_or_summary: The Ukusiksalirmiut are described as inhabiting the estuary of
+    Back River; several explorers met them, and sources differ on whether they were
+    remnants of a former Adelaide Peninsula group or families who retired toward Hayes
+    River.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 2900-2914
+  quote_or_summary: The author argues that the Ukusiksalirmiut had long lived near
+    Back River, notes Back’s report that a party did not know land beyond the estuary,
+    rejects Klutschak’s Adelaide Peninsula claim, and cites Parry on another Ukusiksalik
+    known to Winter Island natives.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 2915-2925
+  quote_or_summary: Reports on Ukusiksalirmiut life are called deficient; Schwatka
+    counted seven and nine families in two places, fish are said to be abundant in
+    Back River, fish and musk ox are main foods, and western Boothia natives are said
+    to depend more on fish than other Central Eskimo tribes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 2926-2935
+  quote_or_summary: The passage lists roads from Akugdlit to Pelly Bay, from Pelly
+    Bay to Netchillik and Back River, across Boothia by lake chains, and toward the
+    northeastern peninsula by Stanley River and northern lakes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 2935-2942
+  quote_or_summary: The passage describes routes between Netchillik, Ugjulik, King
+    William Land, and Back River, then states that communication between Back River
+    and Chesterfield Inlet is supported by reports and that limited intercourse probably
+    exists between the Kinipetu and Ukusiksalirmiut.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily ethnographic and geographic rather than mythological.
+    Motif candidates are therefore limited to literal patterns of route use and subsistence,
+    with no direct assignment to available myth motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Symbols are recorded as literal geographic features or food items; no symbolic meaning beyond the passage wording is asserted.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l2871-l2942
+  passage_sha256=be313df9a7cda713c72b09f18394b6d7a40c876a3627aacc6c273ed1921452da
+

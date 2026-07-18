@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3717-l3792
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 3717-3792
+  start: '3717'
+  end: '3792'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Islam as grounded in acknowledgment of one God, obedience
+    to God-sent messengers, variable divine precepts across dispensations, Mohammed's
+    reported reforming prophethood, and a doctrinal division into faith and practice,
+    including confession, belief branches, and practical duties.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that from the beginning to the end of the world there has
+    been and will be one true orthodox belief.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: This belief is described as acknowledging the only true God and believing
+    in and obeying messengers or prophets sent to reveal God's will to mankind.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Religious practice is described as including immutable laws of right and wrong
+    as well as temporary precepts and ceremonies ordered by God for different dispensations
+    and ages.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The name Islm is glossed as resignation or submission to the service and commands
+    of God.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage reports that Muslims hold Islam to be at bottom the same religion
+    as that of all prophets from Adam.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Mohammed is presented as claiming to be a prophet sent by God to reform a
+    corrupted eternal religion and reduce it to primitive simplicity, while adding
+    particular laws and ceremonies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'The whole substance of Mohammed''s doctrine is summarized in two articles:
+    that there is one God and that Mohammed is the apostle of God.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Mohammedans are said to divide their religion into Imn, faith or theory,
+    and Dn, religion or practice, and to teach that it rests on five fundamental points.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: 'The confession of faith is said to include six branches: belief in God, angels,
+    scriptures, prophets, resurrection and the day of judgment, and God''s absolute
+    decree and predetermination of good and evil.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The four practical points are prayer, alms, fasting, and pilgrimage to Mecca;
+    prayer includes necessary washings or purifications before prayer.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage states that Mohammed and orthodox followers have just and true
+    notions of God and divine attributes, while the author excepts their rejection
+    of the Trinity.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: The only true God; sender of messengers, source of commands and precepts,
+    and subject of belief, decree, and predetermination.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Mohammed
+  description: Presented as the apostle of God and as a claimant to prophethood sent
+    to reform corrupted religion and establish ordinances.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Messengers or prophets
+  description: Figures sent from time to time with credentials to reveal God's will;
+    the passage also refers to all prophets from Adam.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Mankind
+  description: The recipients to whom God's will is revealed through messengers or
+    prophets.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Mohammedans / orthodox followers
+  description: Adherents who divide religion into faith and practice, teach the five
+    points, and are described as orthodox followers in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Angels
+  description: Beings listed as one branch of belief in the confession of faith.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Only true God and divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: God is described as the only true God whose service and commands define Islam
+    and whose precepts are obligatory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Apostle and reforming prophet
+  assigned_to:
+  - fig:2
+  basis: Mohammed is called the apostle of God and is presented as claiming to reform
+    corrupted religion.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: God-sent revealers
+  assigned_to:
+  - fig:3
+  basis: Messengers or prophets are sent with credentials to reveal God's will to
+    mankind.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Recipients of revelation
+  assigned_to:
+  - fig:4
+  basis: Mankind is named as the audience to whom God's will is revealed.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Adherents and teachers of doctrinal structure
+  assigned_to:
+  - fig:5
+  basis: The Mohammedans are said to divide religion into faith and practice and teach
+    five fundamental points.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Object of belief
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: Belief in God and belief in angels are listed among the six branches of faith.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Confession of faith
+  literal_form: Speech formula affirming that there is no god but the true God and
+    that Mohammed is God's apostle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Five fundamental points
+  literal_form: Five-part doctrinal structure, with one point belonging to faith and
+    four to practice.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Six branches of faith
+  literal_form: 'Six-item belief list: God, angels, scriptures, prophets, resurrection
+    and judgment, and divine decree.'
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Four practical duties
+  literal_form: Prayer, alms, fasting, and pilgrimage to Mecca.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Washings or purifications
+  literal_form: Ritual preparations required before prayer.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Mecca
+  literal_form: Named destination of the pilgrimage duty.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Eternal belief and recurring revelation
+  summary: The passage presents one true orthodox belief extending through world history,
+    centered on one God and on obedience to God-sent messengers who reveal the divine
+    will to mankind.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mohammed as reformer and apostle
+  summary: Mohammed is described as claiming to restore corrupted eternal religion
+    to primitive simplicity and as establishing doctrine under the two articles of
+    one God and Mohammed as apostle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Faith and practice organized into numbered duties
+  summary: The passage describes Islam as divided into faith and practice, structured
+    by five fundamental points, six belief branches, and four practical duties including
+    prayer, alms, fasting, and pilgrimage to Mecca.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: One continuous true religion across world history
+  taxonomy_refs: []
+  basis: The passage states that one true orthodox belief extends from the beginning
+    to the end of the world and is held to be the same at bottom with that of all
+    prophets from Adam.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a doctrinal exposition rather than a narrative myth episode.
+- id: motif:2
+  label: Successive prophetic revelation across dispensations
+  taxonomy_refs: []
+  basis: God is described as sending messengers or prophets from time to time, while
+    precepts and ceremonies vary according to different dispensations and ages.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The motif is abstract and theological in this passage.
+- id: motif:3
+  label: Restoration of primordial religious simplicity
+  taxonomy_refs: []
+  basis: Mohammed is presented as claiming to reform corruptions in eternal religion
+    and reduce it to primitive simplicity.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wording reflects the translator/commentator's report and judgment,
+    not a narrative scene.
+- id: motif:4
+  label: Resurrection and final judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: Belief in resurrection and the day of judgment is explicitly listed as one
+    of the six branches of faith.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage lists the doctrine without narrating an afterlife scene.
+- id: motif:5
+  label: Ritual submission through recurring duties
+  taxonomy_refs: []
+  basis: Islam is glossed as submission to God's commands, and practice is organized
+    around prayer, alms, fasting, and pilgrimage.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is a ritual-doctrinal pattern, not a mythic plot motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage reports a continuity or common-inheritance claim: Islam is held
+    to be at bottom the same religion as that of all prophets from Adam.'
+  claim_level: common_inheritance
+  target: Religion of all prophets from Adam
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the passage's report of a Muslim doctrinal claim, not an independent
+    historical demonstration.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3717-3792; paragraph beginning 'IT has been already observed'
+  quote_or_summary: The fundamental position is described as one true orthodox belief
+    throughout world history, consisting in acknowledging the only true God and believing
+    in and obeying God-sent messengers or prophets.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: lines 3717-3792; continuation of paragraph on practice and the name Islm
+  quote_or_summary: Practice includes immutable right and wrong plus temporary precepts
+    and ceremonies ordered by God for different dispensations; Islm is glossed as
+    resignation or submission to God's service and commands and as the same at bottom
+    with the religion of all prophets from Adam.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3717-3792; paragraph beginning 'Under pretext that this eternal religion'
+  quote_or_summary: Mohammed is presented as claiming to be sent by God to reform
+    corrupted eternal religion, restore primitive simplicity, add laws and ceremonies,
+    and summarize doctrine as one God and Mohammed as God's apostle.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: quote
+  locator: lines 3717-3792; paragraph beginning 'The Mohammedans divide their religion'
+  quote_or_summary: '"they call Islm, into two distinct parts: Imn, i.e., faith, or
+    theory, and Dn, i.e., religion, or practice"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: summary
+  locator: lines 3717-3792; paragraph beginning 'The first is that confession of faith'
+  quote_or_summary: The confession that there is no god but the true God and Mohammed
+    is his apostle is said to include belief in God, angels, scriptures, prophets,
+    resurrection and the day of judgment, and God's decree and predetermination.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:6
+  type: summary
+  locator: lines 3717-3792; paragraph beginning 'The four points relating to practice'
+  quote_or_summary: The four practice points are prayer, including washings or purifications
+    before prayer, alms, fasting, and pilgrimage to Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:7
+  type: summary
+  locator: lines 3717-3792; final paragraph beginning 'That both Mohammed'
+  quote_or_summary: The passage says Mohammed and orthodox followers have just and
+    true notions of God and divine attributes, while the author excepts their rejection
+    of the Trinity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository and doctrinal rather than narrative; motif extraction
+    is therefore limited to explicit doctrinal patterns and reported continuity claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source language is English. The passage uses historical terms and authorial judgments; extraction preserves literal claims while avoiding endorsement of those judgments.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3717-l3792
+  passage_sha256=7d190d9730e5357ca164d7f8a925c21d8e87e05fac56df54067cf4028707818e
+

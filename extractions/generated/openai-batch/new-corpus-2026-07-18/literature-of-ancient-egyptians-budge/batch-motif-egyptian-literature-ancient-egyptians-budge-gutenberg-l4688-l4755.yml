@@ -1,0 +1,575 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l4688-l4755
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: AUTOBIOGRAPHICAL LITERATURE / THE AUTOBIOGRAPHY OF UNA / THE AUTOBIOGRAPHY
+    OF HERKHUF / THE AUTOBIOGRAPHY OF AMENI AMENEMHAT; lines 4688-4755
+  start: '4688'
+  end: '4755'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: When years of hunger came, I rose up and had ploughed all the fields of the
+    Nome of Mehetch... and there was no hungry man therein.
+  summary: An inscription from Ameni's tomb recounts his royal service in southern
+    campaigns and gold expeditions, his safe return with troops, his administration
+    of the Mehetch Nome, his avoidance of oppression, his famine relief, and his claims
+    to generosity, truthfulness, and righteous judgment.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is introduced as a hieroglyphic inscription cut on the doorposts
+    of Ameni's tomb at Beni-hasan and dated to the forty-third year of Usertsen I.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ameni says he followed his lord southward to overthrow enemies in Nubia/Kash
+    and served as a titled official and troop captain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ameni says he set Egypt's frontier farther south, brought back offerings,
+    and returned without loss among his soldiers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ameni reports multiple southern voyages to fetch gold ore for the king, including
+    expeditions with four hundred and six hundred men who returned safely.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Ameni states that he governed the Mehetch Nome, directed palace labor obligations,
+    received cattle, and transferred products to the king's house without liabilities
+    against him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Ameni denies harming a peasant's daughter, wronging a widow, oppressing a
+    field laborer, repulsing a herdsman, or improperly seizing laborers for corvée.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: During years of hunger, Ameni says he had all the fields of the Mehetch Nome
+    ploughed, kept the people alive, provided food, and left no hungry man there.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Ameni says he gave to the widow as to the woman with a husband and made no
+    distinction between elder and younger in what he gave.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: During years of high Nile floods, Ameni says he did not deduct what was due
+    on the land from years of low Nile floods.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: Ameni is described with titles and qualities including vassal of Horus, vassal
+    of Khnemu, generous of hand, stable of feet, truthful speaker, righteous judge
+    between litigants, and solver of difficult questions.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Ameni Amenemhat
+  description: Tomb owner and speaking autobiographical figure who recounts military
+    service, gold expeditions, provincial governance, famine relief, and righteous
+    judgment.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:11
+- id: fig:2
+  name_or_label: Usertsen I / Kheperkara
+  description: King of the South and North, called Ameni's lord and the royal recipient
+    of gold ore and service.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Royal prince Ameni
+  description: Eldest son of the king who accompanies one southern gold expedition
+    and praises God for Ameni according to the passage and footnote.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ameni's soldiers / troops of the Nome of Mehetch
+  description: Chosen men and mighty men of war who accompany Ameni south and return
+    in safety without loss.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: People of the Mehetch Nome
+  description: Provincial population under Ameni's rule, including peasants, widows,
+    field laborers, herdsmen, elders, younger people, and litigants.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:6
+  name_or_label: Horus
+  description: Deity named in Ameni's repeated title, 'vassal of Horus, the Smiter
+    of the Rekhti.'
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:11
+- id: fig:7
+  name_or_label: Khnemu
+  description: Deity named in Ameni's title as 'the vassal of Khnemu.'
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: autobiographical speaker
+  assigned_to:
+  - fig:1
+  basis: Ameni speaks in the first person throughout the inscription.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:11
+- id: role:2
+  label: loyal royal expeditionary official
+  assigned_to:
+  - fig:1
+  basis: He follows his lord southward, sails on royal missions, and brings back gold
+    and offerings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: military commander
+  assigned_to:
+  - fig:1
+  basis: He identifies himself as a captain of troops and reports command of armed
+    companies.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: provincial governor and administrator
+  assigned_to:
+  - fig:1
+  basis: He says he governed the Mehetch Nome, directed labor obligations, and managed
+    products for the king's house.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: provider and righteous judge
+  assigned_to:
+  - fig:1
+  basis: He claims to prevent hunger, give impartially, speak truth, and judge righteously
+    between litigants.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: role:6
+  label: king and royal patron
+  assigned_to:
+  - fig:2
+  basis: Usertsen I is the reigning king; Ameni serves him and receives praise in
+    the king's house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:7
+  label: royal companion on expedition
+  assigned_to:
+  - fig:3
+  basis: The prince accompanies a southern voyage to fetch gold ore and praises God
+    for Ameni.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: expeditionary soldiers
+  assigned_to:
+  - fig:4
+  basis: The troops accompany Ameni south and return safely.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:9
+  label: subjects protected from oppression
+  assigned_to:
+  - fig:5
+  basis: Ameni says he did not wrong widows, oppress laborers, repel herdsmen, or
+    seize workers improperly.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: recipients of famine relief and impartial giving
+  assigned_to:
+  - fig:5
+  basis: Ameni says he kept the people alive during hunger and gave without distinction
+    to widows, married women, elders, and younger people.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:11
+  label: deity named in official titulary
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Horus and Khnemu appear in Ameni's concluding titles.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: southern voyage
+  literal_form: repeated sailing to the South
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: gold ore
+  literal_form: gold ore brought back for the king
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: frontier of Egypt
+  literal_form: the frontier of Egypt set farther southwards
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Nile flood years
+  literal_form: years of high Nile floods and years of low Nile floods
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: famine fields
+  literal_form: all the fields of the Nome of Mehetch ploughed during years of hunger
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: widow and married woman treated alike
+  literal_form: the widow and the woman who possessed a husband
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: truthful judgment
+  literal_form: speaker of the truth who judges righteously between two litigants
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Tomb inscription setting
+  summary: The text is presented as an autobiographical inscription on Ameni's tomb
+    doorposts at Beni-hasan, dated to Usertsen I's reign.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Southern military campaign
+  summary: Ameni follows the king south against enemies in Nubia/Kash, sets the frontier
+    farther south, brings back offerings, and returns with no soldiers lost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gold expeditions
+  summary: Ameni sails south on royal missions to fetch gold ore, once with four hundred
+    chosen men and again with six hundred mighty men, and reports safe return and
+    royal praise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Provincial administration
+  summary: As governor, Ameni directs palace labor obligations, receives cattle, conveys
+    products to the king's house, and claims no liabilities against him.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Protection from oppression
+  summary: Ameni states that he did not harm vulnerable people, wrong widows, oppress
+    laborers, repel herdsmen, or seize workers improperly for corvée.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Famine relief and flood-year remission
+  summary: During hunger, Ameni has the fields ploughed and feeds the people; during
+    high Nile flood years, he says he does not deduct arrears due from low flood years.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: scene:7
+  label: Righteous self-characterization
+  summary: Ameni closes by presenting himself as generous, truthful, free from deceit,
+    skilled in council, and righteous in judging litigants, with titles linked to
+    Horus and Khnemu.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: loyal expedition and safe return
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Ameni repeatedly sails south on royal missions and returns safely with his
+    troops and cargo.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is autobiographical and administrative rather than a mythic
+    journey narrative; departure/return is a structural pattern only.
+- id: motif:2
+  label: righteous governor protects the vulnerable
+  taxonomy_refs:
+  - wisdom
+  basis: Ameni claims not to wrong widows or oppress laborers, to give impartially,
+    to speak truth, and to judge righteously.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:11
+  confidence: medium
+  cautions: The available taxonomy has no exact social-justice or ideal-official motif;
+    wisdom is a broad fit based on judgment and truth claims.
+- id: motif:3
+  label: famine relief through just administration
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links years of hunger, field ploughing, food provision, and high
+    or low Nile flood years to Ameni's governance.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: This is a historical self-presentation of provisioning during environmental
+    hardship, not a full seasonal myth.
+- id: motif:4
+  label: royal service legitimates official status
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Ameni's status is grounded in titles, royal favor, following the king, bringing
+    gold to the king, and praise in the king's house.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The motif concerns an official's legitimacy through royal service rather
+    than direct kingship legitimacy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4688-4695
+  quote_or_summary: The inscription is on Ameni's tomb doorposts at Beni-hasan in
+    Upper Egypt and is dated to the forty-third year of Usertsen I.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: quote
+  locator: 4696-4705
+  quote_or_summary: '"I followed my Lord when he sailed to the South to overthrow
+    his enemies in the four countries of Nubia." Ameni also identifies himself as
+    a duke''s son, seal-bearer, and troop captain.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 4705-4711
+  quote_or_summary: Ameni passes through Kash, sets Egypt's frontier farther south,
+    brings back offerings, receives praise, follows the king after the king overthrows
+    enemies in Kash, and reports no soldier loss.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptegyptegyp/the-source-placeholder.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 4711-4720
+  quote_or_summary: Ameni sails south to fetch gold ore for Kheperkara/Usertsen I
+    with the king's eldest son Ameni and four hundred chosen men; all return safely,
+    and Ameni is praised in the king's house.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: 4720-4728
+  quote_or_summary: Ameni again sails south to bring gold ore to Qebti with Usertsen
+    and six hundred mighty men of the Mehetch Nome; he returns in peace with all soldiers
+    safe after completing his orders.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: 4728-4738
+  quote_or_summary: Ameni says he is conciliatory, loving toward his town, governor
+    for many years, director of palace labor obligations, receiver of three thousand
+    bulls, and conveyor of products to the king's house without liabilities.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: quote
+  locator: 4738-4745
+  quote_or_summary: '"No peasant''s daughter did I harm, no widow did I wrong, no
+    field labourer did I oppress, no herdsman did I repulse."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: 4745-4751
+  quote_or_summary: '"When years of hunger came, I rose up and had ploughed all the
+    fields of the Nome of Mehetch... and there was no hungry man therein."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: summary
+  locator: 4751-4754
+  quote_or_summary: Ameni says he gave to the widow as to the woman with a husband
+    and made no distinction between elder and younger in what he gave.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:10
+  type: summary
+  locator: 4754-4755
+  quote_or_summary: Ameni says that in years of high Nile floods he did not deduct
+    what was due on the land from years of low Nile floods.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:11
+  type: summary
+  locator: '4755'
+  quote_or_summary: Ameni's final self-description includes titles as vassal of Horus
+    and Khnemu and traits such as generosity, truth-speaking, righteous judgment between
+    litigants, freedom from deceit, and skill in solving difficult questions.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but motif assignments are broad
+    because the passage is an elite autobiographical inscription rather than a myth
+    narrative. No explicit comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Potential issue for review: the supplied passage label includes other autobiographies, but the provided passage text is the Autobiography of Ameni Amenemhat.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l4688-l4755
+  passage_sha256=1449b8bab3a231199dfdb60decd76c672ec35c5635dfab55c181b9bddcd9b26c
+

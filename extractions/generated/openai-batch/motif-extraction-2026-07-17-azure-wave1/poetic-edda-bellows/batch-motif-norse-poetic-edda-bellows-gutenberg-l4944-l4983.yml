@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l4944-l4983
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: SKIRNISMOL / THE BALLAD OF SKIRNIR / INTRODUCTORY NOTE / NOTES; lines 4944-4983
+  start: '4944'
+  end: '4983'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Text-critical notes on stanzas 32-43 of Skirnismol discuss disputed manuscript
+    gaps, interpolations, spurious lines, stanza divisions, glosses of named beings
+    and places, a runic charm, manuscript abbreviation, and a parallel quotation in
+    Snorri's Gylfaginning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note on stanza 32 says no manuscript gap is indicated; Niedner rearranges
+    and completes the stanza with a line about taming a maid to the speaker's will.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note on stanza 32 says the whole stanza seems interpolated or out of place
+    and would fit better after stanza 25.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note on stanza 33 says Jonsson marks the stanza as interpolated and that
+    the word translated 'most evil' is guesswork.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note on stanza 34 says many editors reject line 3 as spurious, some also
+    reject line 6, and lines 2-3 may have expanded from a line mentioning gods and
+    Suttung's sons.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note on stanza 34 identifies Suttung as a giant and points to Hovamol
+    104 and its note.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note on stanza 35 identifies Hrimgrimnir, glossed as 'The Frost-Shrouded,'
+    as a giant not elsewhere mentioned.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The notes on stanzas 35-37 report uncertainty about stanza divisions, including
+    manuscript placement, capitalization, punctuation, and possible later or spurious
+    lines.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The note on stanza 37 says that 'a charm' is literally the rune Thurs and
+    that runic letters had magic attributes.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The note on stanza 40 glosses Barri as 'The Leafy.'
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The note on stanza 42 says something in the manuscript is abbreviated to initial
+    letters.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The note on stanza 43 says the superscription is lacking in Regius and that
+    Snorri quotes the stanza in his prose paraphrase, Gylfaginning chapter 37.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The note on stanza 43 says Snorri's version and the cited version are substantially
+    the same except for the first line.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Maid
+  description: Female addressee named only as 'Maid' in a supplied line about being
+    tamed to the speaker's will.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Suttung
+  description: A giant mentioned in the note on stanza 34.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Suttung's sons
+  description: A group named in a possible reconstructed line, 'Ye gods and Suttungs
+    sons.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: gods
+  description: A divine group named in the same possible reconstructed line as Suttung's
+    sons.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hrimgrimnir
+  description: Glossed as 'The Frost-Shrouded' and identified as a giant not elsewhere
+    mentioned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Snorri
+  description: Named as quoting the stanza in his prose paraphrase, Gylfaginning chapter
+    37.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: female addressee in supplied coercive line
+  assigned_to:
+  - fig:1
+  basis: The supplied line addresses a 'Maid' and says she will be tamed to the speaker's
+    will.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: giant
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The notes identify Suttung as a giant and Hrimgrimnir as a giant.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: kin group of Suttung
+  assigned_to:
+  - fig:3
+  basis: The possible reconstructed line names 'Suttungs sons.'
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine group
+  assigned_to:
+  - fig:4
+  basis: The possible reconstructed line names 'gods.'
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: quoting prose paraphraser
+  assigned_to:
+  - fig:6
+  basis: The note says Snorri quotes the stanza in Gylfaginning chapter 37.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: rune Thurs as charm
+  literal_form: The rune Thurs, glossed in the note as the literal form behind 'a
+    charm.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Barri
+  literal_form: Barri, glossed as 'The Leafy.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: disputed supplied coercive-speech fragment
+  summary: In a line supplied within a disputed stanza, a speaker says a maid will
+    be tamed to work the speaker's will; the note says the stanza may be interpolated
+    or misplaced.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: runic charm gloss
+  summary: A note glosses 'a charm' as the rune Thurs and states that runic letters
+    had magic attributes.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: magical rune or charm
+  taxonomy_refs: []
+  basis: The passage explicitly says that 'a charm' is literally the rune Thurs and
+    that runic letters had magic attributes.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The note identifies a magical rune but does not provide a full narrative
+    episode in this passage.
+- id: motif:2
+  label: coercive taming of a female addressee
+  taxonomy_refs: []
+  basis: A supplied line in note 32 says a maid will be tamed to work the speaker's
+    will.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The stanza is described as interpolated or out of place, and the line
+    is part of an editorial reconstruction rather than an undisputed manuscript reading.
+comparison_claims:
+- id: claim:1
+  claim: The note cross-references Suttung with Hovamol 104, supporting only a cautious
+    corpus-level linkage for the named giant.
+  claim_level: linguistic_similarity
+  target: Hovamol 104 and note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives only a brief 'cf.' reference and does not describe
+    the Hovamol passage or establish a motif equivalence.
+- id: claim:2
+  claim: The note connects the rune Thurs and the magical attributes of runic letters
+    with Sigrdrifumol 67 and notes, supporting a cautious same-function comparison
+    for magical runes.
+  claim_level: same_function
+  target: Sigrdrifumol 67 and notes
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the cross-reference but does not quote or summarize
+    the Sigrdrifumol material.
+- id: claim:3
+  claim: The note says Snorri quotes the stanza in Gylfaginning chapter 37 and that
+    the two versions are substantially the same except for the first line.
+  claim_level: linguistic_similarity
+  target: Snorri, Gylfaginning chapter 37
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual-version comparison rather than a demonstrated mythic
+    motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4944-4948; note 32
+  quote_or_summary: No manuscript gap is indicated; Niedner rearranges and fills the
+    stanza with a line about taming a maid to the speaker's will; the stanza seems
+    interpolated or misplaced.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4950-4952; note 33
+  quote_or_summary: Jonsson marks stanza 33 as interpolated; the translation 'most
+    evil' is described as guesswork.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4954-4958; note 34
+  quote_or_summary: Editors reject or question lines in stanza 34; lines 2-3 may derive
+    from a line like 'Ye gods and Suttungs sons'; Suttung is identified as a giant
+    with a cross-reference to Hovamol 104.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short embedded phrase from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 4960-4965; note 35
+  quote_or_summary: Editors combine lines with stanza 36; the manuscript placement
+    is noted; Hrimgrimnir, 'The Frost-Shrouded,' is identified as a giant not elsewhere
+    mentioned; line 5 is probably later.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4967-4972; note 36
+  quote_or_summary: The scribe apparently did not treat line 1 as the start of the
+    stanza; capitalization and punctuation are discussed; line 5 may be spurious.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4974-4978; note 37
+  quote_or_summary: The scribe seems uncertain about stanza divisions; editors divide
+    a line differently; 'a charm' is literally the rune Thurs, and runic letters had
+    magic attributes, with a cross-reference to Sigrdrifumol 67.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 4980; note 40
+  quote_or_summary: 'Barri: The Leafy.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; brief quote.
+- id: ev:8
+  type: summary
+  locator: line 4982; note 42
+  quote_or_summary: The manuscript abbreviates the item to initial letters.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4984-4987; note 43
+  quote_or_summary: The superscription is lacking in Regius; Snorri quotes the stanza
+    in Gylfaginning chapter 37; the versions are substantially the same except that
+    Snorri's first line reads 'Long is one night, long is the second.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized with a short quoted variant.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily text-critical notes rather than a continuous mythic
+    narrative. Motif candidates are therefore limited and marked with cautions where
+    based on disputed or reconstructed lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy motif family was assigned because the available taxonomy did not directly match the explicit rune/charm material or the disputed coercive line.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l4944-l4983
+  passage_sha256=d8063b70d374fe7584097a653d73f2d9e0bde8ed90b0f4409c40863bc00ee81d
+

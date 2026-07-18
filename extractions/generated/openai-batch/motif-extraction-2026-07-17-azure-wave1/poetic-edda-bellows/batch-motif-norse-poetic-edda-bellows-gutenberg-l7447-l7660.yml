@@ -1,0 +1,559 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l7447-l7660
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / ALVISSMOL / THE BALLAD OF ALVIS / INTRODUCTORY NOTE; lines 7447-7660
+  start: '7447'
+  end: '7660'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Introductory note and opening stanzas of Alvissmol. The note describes
+    the poem as a learned skaldic synonym catalogue framed by Alvis's attempt to marry
+    Thor's daughter. In the opening dialogue, Alvis claims the bride, Thor challenges
+    and refuses him, and Thor begins a test asking what earth, heaven, moon, sun,
+    clouds, and wind are called in each world.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The introductory note summarizes the narrative frame: Alvis wants to marry
+    Thor''s daughter, Thor tests his knowledge with questions, and Alvis''s satisfactory
+    answers do not alter the outcome.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note characterizes the poem's questions and answers as concerning synonyms,
+    poetic circumlocutions, or kennings rather than essentially mythological answers.
+  category: other
+  evidence_refs:
+  - ev:14
+- id: obs:3
+  text: Alvis announces that the bride shall adorn his benches and that he will hasten
+    home, eager for wedlock.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thor questions Alvis's identity and appearance, associates his pallor with
+    the dead, and says he was not born for the bride.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Alvis names himself and says his home is under the earth beneath rocks; he
+    also invokes a bond of the gods.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Thor says he will break the bond, asserting that the bride's father has foremost
+    right and that he alone among the gods gives her.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Alvis asks who claims such right over the bright bride; Thor identifies himself
+    as Vingthor, the wide-wandering one, and Sithgrani's son.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Thor says Alvis may win the maid's love if he can tell everything from every
+    world that Thor wishes to know.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Thor asks what earth is called in every world, and Alvis gives different names
+    used by men, gods, Wanes, giants, elves, and holy ones.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Thor asks what heaven is called in every world, and Alvis gives different
+    names used by men, gods, Wanes, giants, elves, and dwarfs.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Thor asks what moon is called in every world, and Alvis gives different names
+    used among men, gods, hell, giants, dwarfs, and elves.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Thor asks what sun is called in every world, and Alvis gives different names
+    used by men, gods, dwarfs, giants, elves, and sons of the gods.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: Thor asks what clouds are called in every world, and Alvis gives different
+    names used by men, gods, Wanes, giants, elves, and hell.
+  category: speech
+  evidence_refs:
+  - ev:12
+- id: obs:14
+  text: Thor begins asking what wind, described as far-traveling, is called in every
+    world; the answer is not included in this passage range.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Alvis
+  description: A dwarf and suitor who seeks the bride, says his home is under the
+    earth beneath rocks, and is addressed by Thor as one who knows all.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Thor / Vingthor
+  description: The god and father of the bride; he challenges Alvis, asserts authority
+    over the bride, identifies himself as Vingthor, and sets the knowledge condition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Thor's daughter / the bride / the maid
+  description: The desired bride, described in the note as Thor's daughter and in
+    the dialogue as a bride or maid whom Alvis seeks to marry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Cosmological naming communities
+  description: Men, gods, Wanes, giants, elves, dwarfs, holy ones, sons of gods, and
+    hell are named as groups or realms associated with different terms for cosmic
+    things.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: Dwarf suitor
+  assigned_to:
+  - fig:1
+  basis: Alvis is described as a dwarf who desires to marry Thor's daughter and speaks
+    of taking the bride home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Knowledge-answerer
+  assigned_to:
+  - fig:1
+  basis: Thor offers Alvis the bride only if he can answer questions about every world,
+    and then addresses him as knowing all.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: Divine father and questioner
+  assigned_to:
+  - fig:2
+  basis: Thor claims foremost paternal right over the bride and begins the sequence
+    of questions.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:4
+  label: Promised or desired bride
+  assigned_to:
+  - fig:3
+  basis: The bride is the object of Alvis's marriage claim and Thor's paternal control.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:5
+  label: Naming communities across worlds
+  assigned_to:
+  - fig:4
+  basis: Alvis's answers list distinct names used by different peoples or realms for
+    earth, heaven, moon, sun, and clouds.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+symbols:
+- id: sym:1
+  label: Bride or maid
+  literal_form: Thor's daughter; the bride; the snow-white maid sought for marriage
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: Subterranean rocky dwelling
+  literal_form: Home under the earth beneath the rocks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Earth named in every world
+  literal_form: 'Earth and its alternate names: Field, Ways, Ever Green, Grower, Moist'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Heaven named in every world
+  literal_form: 'Heaven and its alternate names: Height, Weaver of Winds, Up-World,
+    Fair-Roof, Dripping Hall'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: Moon named in every world
+  literal_form: 'Moon and its alternate names: Flame, Wheel, Goer, Gleamer, Teller
+    of Time'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: Sun named in every world
+  literal_form: 'Sun and its alternate names: Orb of the Sun, Deceiver of Dvalin,
+    Ever-Bright, Fair Wheel, All-Glowing'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: Clouds and rains
+  literal_form: Clouds that keep the rains; alternate names include Rain-Hope and
+    Water-Hope
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+- id: sym:8
+  label: Wind
+  literal_form: The wind that widest fares, asked about in every world
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Alvis claims the bride and Thor refuses
+  summary: Alvis speaks as if he will take the bride home. Thor challenges him, Alvis
+    identifies himself and his subterranean home, and Thor asserts paternal authority
+    over the bride.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Thor sets a knowledge condition
+  summary: Alvis challenges the authority of the speaker, Thor identifies himself,
+    Alvis asks for Thor's goodwill, and Thor says Alvis may win the maid if he can
+    answer about every world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Cosmic naming catechism begins
+  summary: Thor asks Alvis what earth, heaven, moon, sun, clouds, and wind are called
+    in each world. Alvis answers for the first five items in the passage, listing
+    names used by different communities or realms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+candidate_motifs:
+- id: motif:1
+  label: Knowledge test for a marriage claim
+  taxonomy_refs:
+  - wisdom
+  basis: Thor makes Alvis's chance to win the maid depend on answering questions about
+    every world; the note also states that Thor compels Alvis to answer questions
+    to test his knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The passage range includes only the beginning of the test; the later outcome
+    is known here only through the introductory summary.
+- id: motif:2
+  label: Catalogue of names across worlds
+  taxonomy_refs:
+  - wisdom
+  basis: Thor repeatedly asks what cosmic things are called in each world, and Alvis
+    answers with lists of names used by different beings or realms; the note identifies
+    these as synonyms or kennings.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+  confidence: high
+  cautions: The wisdom taxonomy is used broadly for specialized lexical and cosmological
+    knowledge, not for a fully mythological wisdom contest in this excerpt.
+- id: motif:3
+  label: Dwarf suitor seeks a god's daughter
+  taxonomy_refs: []
+  basis: The note identifies Alvis as a dwarf desiring to marry Thor's daughter, and
+    the dialogue presents Alvis pressing his claim to the bride while Thor resists
+    it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: No completed marriage is shown in the passage, and no available taxonomy
+    reference is applied.
+- id: motif:4
+  label: Paternal control of bride-giving
+  taxonomy_refs: []
+  basis: Thor asserts that the bride's father has foremost right and that he alone
+    among the gods gives her.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a social or legal claim within dialogue; broader mythic significance
+    requires comparison beyond the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The introductory note explicitly contrasts Alvissmol with Vafthruthnismol:
+    both are framed by questions and answers, but Alvissmol''s questions concern synonyms
+    or kennings rather than essentially mythological knowledge.'
+  claim_level: same_function
+  target: Vafthruthnismol as a Poetic Edda question-and-answer poem
+  evidence_refs:
+  - ev:14
+  - ev:15
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an editorial literary comparison; it does not establish shared
+    plot details beyond the question-and-answer form.
+- id: claim:2
+  claim: The note reports a scholarly opinion that the poem shows marked traces of
+    Celtic influence, supporting only a cautious text-level historical-contact flag.
+  claim_level: historical_contact
+  target: Celtic influence or Celtic tradition
+  evidence_refs:
+  - ev:16
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives no specific Celtic parallels, motifs, or linguistic
+    evidence; the claim is only reported as an editorial note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Introductory note, narrative summary
+  quote_or_summary: 'The note summarizes the narrative skeleton: dwarf Alvis wants
+    to marry Thor''s daughter; Thor compels him to answer knowledge questions; satisfactory
+    answers do not change the outcome.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: Stanza 1
+  quote_or_summary: Alvis says the bride shall adorn his benches, that he will hasten
+    home, and that he seems eager for wedlock.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:3
+  type: quote
+  locator: Stanza 2
+  quote_or_summary: 'Thor asks who Alvis is, remarks on his pallor and likeness to
+    a giant, and says: "Thou wast not born for the bride."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:4
+  type: quote
+  locator: Stanza 3
+  quote_or_summary: 'Alvis says: "Alvis am I, and under the earth / My home neath
+    the rocks I have," and asks that the gods not break their bond.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: Stanza 4
+  quote_or_summary: Thor says he will break the bond because the bride's father has
+    foremost right; he was not home when the promise was made and says he alone among
+    the gods gives her.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: Stanzas 5-6
+  quote_or_summary: Alvis asks what hero claims such right over the bright bride;
+    Thor replies that he is Vingthor, the wide wanderer, and Sithgrani's son.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: Stanzas 7-8
+  quote_or_summary: Alvis asks for Thor's goodwill and says he longs for the snow-white
+    maid; Thor says Alvis may win her love if he can tell all from every world that
+    Thor wants to know.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:8
+  type: summary
+  locator: Stanzas 9-10
+  quote_or_summary: Thor asks what earth is called in each world; Alvis answers with
+    names including Earth, Field, Ways, Ever Green, Grower, and Moist, assigned to
+    different communities.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:9
+  type: summary
+  locator: Stanzas 11-12
+  quote_or_summary: Thor asks what heaven is called in each world; Alvis gives names
+    including Heaven, Height, Weaver of Winds, Up-World, Fair-Roof, and Dripping Hall.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:10
+  type: summary
+  locator: Stanzas 13-14
+  quote_or_summary: Thor asks what moon is called in each world; Alvis gives names
+    including Moon, Flame, Wheel, Goer, Gleamer, and Teller of Time.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:11
+  type: summary
+  locator: Stanzas 15-16
+  quote_or_summary: Thor asks what sun is called in each world; Alvis gives names
+    including Sun, Orb of the Sun, Deceiver of Dvalin, Ever-Bright, Fair Wheel, and
+    All-Glowing.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:12
+  type: summary
+  locator: Stanzas 17-18
+  quote_or_summary: Thor asks what clouds that keep the rains are called in each world;
+    Alvis gives names including Clouds, Rain-Hope, Kites of the Wind, Water-Hope,
+    Weather-Might, and Helmet of Secrets.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:13
+  type: summary
+  locator: Stanza 19
+  quote_or_summary: Thor begins the next question, asking what the far-traveling wind
+    is called in each world.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:14
+  type: summary
+  locator: Introductory note, genre and kennings
+  quote_or_summary: The note states that the poem's questions concern synonyms and
+    that the answers are strings of poetic circumlocutions or kennings.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:15
+  type: summary
+  locator: Introductory note, comparison to Vafthruthnismol
+  quote_or_summary: The note says the questions and answers differ radically from
+    those of Vafthruthnismol because they concern synonyms rather than essentially
+    mythological material.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+- id: ev:16
+  type: summary
+  locator: Introductory note, Celtic influence comment
+  quote_or_summary: The note reports Vigfusson's view that the poem shows marked traces
+    of Celtic influence, while saying this is compatible with Mogk's dating theory.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; full text use allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Dialogue roles and lexical catalogues are explicit. Motif labels require
+    review because this excerpt contains a learned poetic frame and only the beginning
+    of the question sequence; one comparison claim is an editorial report without
+    detailed parallel evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied line range and metadata were used. No unstated later outcome of Alvissmol was added beyond the introductory note's brief summary.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l7447-l7660
+  passage_sha256=b677dcc4e68415375b12255d2279aafbed1f24bb5494ebdce168f81bf6d6414f
+

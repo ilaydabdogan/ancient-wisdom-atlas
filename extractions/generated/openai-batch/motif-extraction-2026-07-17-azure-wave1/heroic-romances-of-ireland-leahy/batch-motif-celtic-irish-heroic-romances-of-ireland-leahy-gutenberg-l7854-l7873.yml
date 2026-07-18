@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7854-l7873
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 81 / PAGE 82 / PAGE 83 / PAGE 85; lines 7854-7873
+  start: '7854'
+  end: '7873'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A textual note discusses the translation of a phrase as a drink causing
+    forgetfulness of jealousy. The passage then introduces a conclusion said to have
+    been added by a compiler. In that conclusion, a token is given to Cuchulain that
+    he will be destroyed by the People of the Mound; these beings are described as
+    demons whose power was great before the Faith, who warred bodily against men,
+    showed delights and secret things, were believed co-eternal, and were called the
+    Ignorant Folk of the Mounds or the People of the Sid.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note glosses the phrase translated as “That she might forget her jealousy”
+    as literally a drink of forgetfulness of jealousy.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the accepted translation gives sense but questions the grammatical
+    form underlying the word translated as jealousy.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the conclusion to the romance is plainly added by
+    the compiler and is reproduced to show stylistic difference from the original
+    author.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The added conclusion says a token was given to Cuchulain that he should be
+    destroyed by the People of the Mound.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The added conclusion states that the power of the demons was great before
+    the advent of the Faith.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The added conclusion says demons warred against men in bodily form.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The added conclusion says demons showed delights and secret things to men.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The added conclusion says those demons were believed to be co-eternal.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The added conclusion says men called the beings the Ignorant Folk of the Mounds
+    and the People of the Sid because of the signs they showed.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Named figure who receives a token indicating that he should be destroyed
+    by the People of the Mound.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: People of the Mound / People of the Sid / Ignorant Folk of the Mounds
+    / demons
+  description: Collective supernatural beings described in the added conclusion as
+    demons with great power before the Faith, able to war bodily against men, show
+    delights and secret things, and display signs.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: men
+  description: Humans against whom the demons warred, to whom delights and secret
+    things were shown, and who named the beings from the signs shown.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: unnamed woman referenced in translation note
+  description: A female figure referenced only in the phrase about forgetting jealousy
+    through a drink.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: recipient of destruction-token
+  assigned_to:
+  - fig:1
+  basis: The conclusion says a token was given to Cuchulain that he should be destroyed
+    by the People of the Mound.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: supernatural destroyers and opponents of humans
+  assigned_to:
+  - fig:2
+  basis: They are linked to Cuchulain’s destruction and to bodily warfare against
+    men.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: revealers of delights and secret things
+  assigned_to:
+  - fig:2
+  basis: The conclusion says demons showed delights and secret things to men.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: named mound or Sid people
+  assigned_to:
+  - fig:2
+  basis: The beings are called the Ignorant Folk of the Mounds and the People of the
+    Sid.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: human adversaries and namers
+  assigned_to:
+  - fig:3
+  basis: Men are opposed by the demons, receive displays from them, and name them
+    from signs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: subject of jealousy-forgetting phrase
+  assigned_to:
+  - fig:4
+  basis: The note refers to a woman who might forget her jealousy through a drink.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: drink of forgetfulness
+  literal_form: drink
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: token of destruction
+  literal_form: token
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mounds / Sid designation
+  literal_form: Mound, Mounds, Sid
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: signs shown by supernatural beings
+  literal_form: signs
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: delights and secret things
+  literal_form: delights and secret things
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Translation note on forgetfulness drink
+  summary: A philological note explains a phrase as referring literally to a drink
+    of forgetfulness of jealousy and comments on the uncertainty of the word for jealousy.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial framing of added conclusion
+  summary: The passage identifies the following conclusion as a compiler’s addition
+    and contrasts it with the style of the original author.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Token of Cuchulain’s destruction
+  summary: A token is described as given to Cuchulain, signifying that he should be
+    destroyed by the People of the Mound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Demons and men before the Faith
+  summary: The added conclusion describes powerful demons before the Faith who warred
+    bodily against men, showed them delights and secret things, were believed co-eternal,
+    and were named the Ignorant Folk of the Mounds or People of the Sid because of
+    signs shown.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: drink causing forgetfulness of jealousy
+  taxonomy_refs: []
+  basis: The textual note gives the literal sense as a drink of forgetfulness of jealousy.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage preserves this as a translation note, not as a full narrative
+    episode.
+- id: motif:2
+  label: token foretelling hero’s destruction by supernatural mound beings
+  taxonomy_refs: []
+  basis: The added conclusion states that a token was given to Cuchulain that he should
+    be destroyed by the People of the Mound.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage itself says this conclusion was added by a compiler.
+- id: motif:3
+  label: supernatural beings wage bodily war against humans
+  taxonomy_refs: []
+  basis: The added conclusion says demons warred against men in bodily form before
+    the Faith.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The description is embedded in a Christianized compiler’s conclusion.
+- id: motif:4
+  label: supernatural disclosure of hidden or secret things to humans
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The added conclusion says demons showed delights and secret things to men.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage says “secret things,” but does not explicitly say the knowledge
+    was forbidden.
+- id: motif:5
+  label: mound or Sid beings reclassified as demons
+  taxonomy_refs: []
+  basis: The added conclusion calls the People of the Mound or People of the Sid demons
+    and places their power before the advent of the Faith.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a compiler-added interpretive conclusion rather than a neutral
+    mythic narration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7854-7873; note beginning “Line 24”
+  quote_or_summary: The note glosses the line as literally “a drink of forgetfulness
+    of her jealousy” and comments on uncertainty in the word for jealousy.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7854-7873; paragraph introducing conclusion
+  quote_or_summary: The passage says the conclusion to the romance is plainly added
+    by the compiler and is reproduced to show a difference in style from the original
+    author.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7854-7873; compiler-added conclusion
+  quote_or_summary: A token is said to be given to Cuchulain that he should be destroyed
+    by the People of the Mound.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7854-7873; compiler-added conclusion
+  quote_or_summary: The conclusion says the power of demons was great before the advent
+    of the Faith and that they warred against men in bodily form.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7854-7873; compiler-added conclusion
+  quote_or_summary: The conclusion says demons showed delights and secret things to
+    men and were believed to be co-eternal.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 7854-7873; compiler-added conclusion
+  quote_or_summary: From the signs shown, men called the beings the Ignorant Folk
+    of the Mounds and the People of the Sid.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong, but several motifs come from a passage explicitly
+    identified as a compiler-added conclusion. No external comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage is primarily editorial and philological, with a short compiler-attributed mythic conclusion. Interpretive claims have been kept limited to what the passage states.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7854-l7873
+  passage_sha256=780adf0bd23d9a21439d70db2f70d67aa5d1ffe979ea569337b60568c6fd4f40
+

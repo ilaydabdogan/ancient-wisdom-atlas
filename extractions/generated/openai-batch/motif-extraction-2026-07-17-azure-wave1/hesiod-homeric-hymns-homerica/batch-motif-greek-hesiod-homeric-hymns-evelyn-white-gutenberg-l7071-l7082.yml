@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7071-l7082
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: VI. TO APHRODITE / VII. TO DIONYSUS / VIII. TO ARES / IX. TO ARTEMIS; lines
+    7071-7082
+  start: '7071'
+  end: '7082'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn invokes the Muse to sing of Artemis, identifying her as Apollo's
+    sister, a virgin who delights in arrows, and one fostered with Apollo. Artemis
+    waters her horses at Meles and drives a golden chariot through Smyrna to vine-clad
+    Claros, where Apollo waits. The speaker hails Artemis and all goddesses, then
+    turns to another song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker asks the Muse to sing of Artemis.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Artemis is described as the sister of the Far-shooter, a virgin who delights
+    in arrows, and one fostered with Apollo.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Artemis waters her horses from Meles, described as deep in reeds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Artemis swiftly drives an all-golden chariot through Smyrna to vine-clad Claros.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Apollo, called god of the silver bow, sits waiting at Claros for the far-shooting
+    goddess who delights in arrows.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker hails Artemis and all goddesses, says Artemis is sung first, and
+    then turns to another song.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Artemis
+  description: Goddess addressed in the hymn; sister of the Far-shooter, virgin, arrow-delighting,
+    fostered with Apollo, driver of the golden chariot.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Muse
+  description: Invoked by the speaker to sing of Artemis.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Apollo
+  description: The Far-shooter with whom Artemis was fostered; god of the silver bow
+    who waits at Claros.
+  role_refs:
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: All goddesses
+  description: Collective divine group hailed along with Artemis at the close of the
+    hymn.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hymned goddess
+  assigned_to:
+  - fig:1
+  basis: The speaker begins by asking the Muse to sing of Artemis and later hails
+    her.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine sibling or fostered pair member
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Artemis is named as sister of the Far-shooter and as fostered with Apollo.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: archery-associated deity
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Artemis delights in arrows and is called far-shooting; Apollo is associated
+    with the silver bow and called the Far-shooter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: chariot-driving goddess
+  assigned_to:
+  - fig:1
+  basis: Artemis waters her horses and drives an all-golden chariot.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: invoked singer
+  assigned_to:
+  - fig:2
+  basis: The Muse is asked to sing of Artemis.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: waiting deity at Claros
+  assigned_to:
+  - fig:3
+  basis: Apollo sits waiting at vine-clad Claros for Artemis.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: addressed divine collective
+  assigned_to:
+  - fig:4
+  basis: The speaker hails all goddesses along with Artemis.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: arrows
+  literal_form: Arrows associated with Artemis, who delights in them.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: silver bow
+  literal_form: Apollo's silver bow.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: all-golden chariot
+  literal_form: The chariot Artemis drives swiftly.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: horses watered at Meles
+  literal_form: Artemis' horses watered from Meles, deep in reeds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: vine-clad Claros
+  literal_form: Claros, the place where Apollo waits for Artemis.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Invocation of Artemis
+  summary: The speaker invokes the Muse to sing of Artemis and identifies her through
+    relation to Apollo and archery imagery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Artemis' chariot journey to Claros
+  summary: Artemis waters her horses at Meles and drives her golden chariot through
+    Smyrna to Claros, where Apollo waits for her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Closing hail and transition
+  summary: The speaker hails Artemis and all goddesses, says Artemis is sung first,
+    and turns to another song.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: Artemis is explicitly called sister of the Far-shooter and is said to have
+    been fostered with Apollo.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a compact hymnic identification rather than an extended
+    sibling narrative.
+- id: motif:2
+  label: Divine chariot journey to a named sacred place
+  taxonomy_refs: []
+  basis: Artemis waters her horses and drives an all-golden chariot through Smyrna
+    to Claros, where Apollo waits.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides itinerary-like imagery but no fuller journey plot.
+- id: motif:3
+  label: Paired archer deities
+  taxonomy_refs: []
+  basis: Artemis is repeatedly associated with arrows and far-shooting, while Apollo
+    is the Far-shooter and god of the silver bow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The pairing is based on shared archery epithets within a short hymn.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison with a divine sibling-pair motif because
+    Artemis is named as Apollo's sister and as one fostered with him.
+  claim_level: same_motif
+  target: sibling_pair motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the relationship stated in this hymn; no broader
+    narrative of sibling cooperation or conflict appears in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: IX. TO ARTEMIS, ll. 1-3; source lines 7071-7074
+  quote_or_summary: "“Muse, sing of Artemis, sister of the Far-shooter, the virgin
+    who delights in arrows, who was fostered with Apollo.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: IX. TO ARTEMIS, ll. 3-6; source lines 7074-7078
+  quote_or_summary: Artemis waters her horses from reed-deep Meles and drives her
+    all-golden chariot through Smyrna to vine-clad Claros, where Apollo of the silver
+    bow waits for her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: IX. TO ARTEMIS, ll. 7-9; source lines 7079-7082
+  quote_or_summary: The speaker hails Artemis and all goddesses, states that Artemis
+    is sung first, and turns to another song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from a short public-domain translated
+    hymn. Motif identifications are limited by the brevity and hymnic rather than
+    narrative form of the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external traditions or sources were used beyond the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7071-l7082
+  passage_sha256=83cc9a9ff349773fac86a1d27a7b3288d8d10516c199884f6a142468c7149904
+

@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l1132-l1148
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: EDITORIAL NOTE / INTRODUCTION / LIST OF THE PRINCIPAL DISCIPLES / GOVERNMENT
+    AND PUBLIC AFFAIRS; lines 1132-1148
+  start: '1132'
+  end: '1148'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes explain WuChng as a fortified 'Martial city,' describe
+    Tz Yu's successful turn of its people from warlike habits to arts of peace, note
+    the Master's pleased and amused reaction, compare the importance of ancient Chinese
+    music under the Chou to Plato's ideal State, state that a ruler should seek the
+    people's welfare without indiscriminate largess, contrast this with Roman imperial
+    doles, and reduce the 'four evil things' to cruelty and meanness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: WuChng is glossed as meaning 'Martial city' and is said to be named from its
+    impregnable position.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tz Yu, after being appointed governor, is said to have weaned the people from
+    warlike propensities and introduced milder arts of peace.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Master is described as glad, while also amused that lofty principles were
+    applied to a tiny community.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note says little is known about ancient Chinese music, but that it seems
+    to have been important under the Chou dynasty, comparable to its role in Plato's
+    ideal State.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The ruler is described as keeping the people's welfare in view without indulging
+    indiscriminate largess.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Roman Emperors are described as giving increasing doles of money and corn
+    to buy popular favor, a practice said to fall under Confucius' condemnation.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'The ''four evil things'' are said to be reducible to two: cruelty and meanness.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Tz Yu
+  description: A disciple or official described here as appointed governor and as
+    reforming WuChng's people away from warlike propensities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: The Master / Confucius
+  description: The Master is said to be glad and amused by Tz Yu's application of
+    lofty principles; Confucius is named as condemning indiscriminate largess by implication.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: People of WuChng
+  description: The local people are described as having warlike propensities before
+    Tz Yu introduced arts of peace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The ruler
+  description: A generalized ruler who should keep the welfare of the people in view
+    without indiscriminate largess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Roman Emperors
+  description: Comparative rulers described as using doles of money and corn to buy
+    the favor of the populace.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: reforming governor
+  assigned_to:
+  - fig:1
+  basis: Tz Yu is said to have become governor and to have shifted the people from
+    warlike habits toward arts of peace.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: approving moral teacher
+  assigned_to:
+  - fig:2
+  basis: The Master reacts with gladness to the reform, and Confucius is named as
+    the moral standard by which Roman largess would be condemned.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: formerly warlike governed community
+  assigned_to:
+  - fig:3
+  basis: The people are described as being weaned from warlike propensities.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: responsible ruler
+  assigned_to:
+  - fig:4
+  basis: The ruler's proper conduct is defined as concern for popular welfare without
+    indiscriminate largess.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: negative comparative example of largess
+  assigned_to:
+  - fig:5
+  basis: The Roman Emperors are presented as buying favor through doles, a practice
+    placed under Confucian condemnation.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Martial city
+  literal_form: WuChng, a place-name glossed as 'Martial city' and linked with an
+    impregnable position.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Arts of peace and music
+  literal_form: The milder arts of peace introduced by Tz Yu, with ancient Chinese
+    music noted as important under the Chou dynasty.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Money and corn doles
+  literal_form: Doles of money and corn used by Roman Emperors to buy popular favor.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Four evil things
+  literal_form: A numbered moral list reduced to cruelty and meanness.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Reform of WuChng
+  summary: The note explains WuChng's martial name and says Tz Yu, as governor, turned
+    its people from warlike propensities toward arts of peace, prompting the Master's
+    pleased and amused response.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Music as civic ideal
+  summary: The note cautiously states that ancient Chinese music seems to have had
+    an important role under the Chou dynasty, comparing this to Plato's ideal State.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Rulership without indiscriminate largess
+  summary: A ruler is said to keep the people's welfare in view without indiscriminate
+    giving; Roman imperial doles are presented as a negative comparative example that
+    Confucius would condemn.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Reduction of the four evils
+  summary: 'The note reduces the ''four evil things'' to two moral categories: cruelty
+    and meanness.'
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Transformation from warlike habits to arts of peace
+  taxonomy_refs:
+  - wisdom
+  basis: Tz Yu's governorship is described as successfully replacing warlike propensities
+    with arts of peace, a result approved by the Master.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an editorial note on Confucian governance, not a mythic narrative;
+    the taxonomy link to wisdom is broad.
+- id: motif:2
+  label: Ethical rulership concerned with welfare but rejecting largess
+  taxonomy_refs:
+  - wisdom
+  basis: The note states that the ruler should keep popular welfare in view while
+    avoiding indiscriminate largess, and contrasts this with Roman imperial doles.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The Roman comparison is an editorial application rather than a direct
+    narrative episode.
+- id: motif:3
+  label: Civic music as moral-political ordering
+  taxonomy_refs:
+  - wisdom
+  basis: The note says ancient Chinese music seems to have played an important role
+    under the Chou dynasty and compares that role to Plato's ideal State.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The note itself says little is known about ancient Chinese music, and
+    the claim is tentative.
+- id: motif:4
+  label: Reduction of public evils to core vices
+  taxonomy_refs:
+  - wisdom
+  basis: The 'four evil things' are classified as reducible to cruelty and meanness.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a moral classification rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the apparent civic importance of ancient Chinese music
+    under the Chou dynasty with the role of music in Plato's ideal State.
+  claim_level: same_function
+  target: Plato's ideal State
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames the Chinese evidence cautiously, saying that little
+    is known and that music 'seems' to have played this role.
+- id: claim:2
+  claim: The note presents Roman imperial doles of money and corn as a negative comparative
+    example of indiscriminate largess, opposed to the Confucian ideal of welfare-minded
+    rulership.
+  claim_level: same_function
+  target: Roman imperial doles of money and corn
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The comparison is editorial and hypothetical: the note says the Roman
+    practice would have fallen under Confucius'' condemnation.'
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1132-1133
+  quote_or_summary: WuChng means "Martial city," so called from its impregnable position.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 1133-1135
+  quote_or_summary: Tz Yu, appointed governor, is said to have weaned the people from
+    warlike propensities and introduced milder arts of peace.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 1135-1137
+  quote_or_summary: The Master's gladness is attributed to this reform, though he
+    is also amused by applying lofty principles to a tiny community.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 1137-1139
+  quote_or_summary: The note says little is known about ancient Chinese music but
+    that it seems to have been important under the Chou dynasty, as in Plato's ideal
+    State.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: quote
+  locator: 1141-1142
+  quote_or_summary: the ruler will always keep the welfare of his people in view,
+    but without indulging in indiscriminate largess.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: summary
+  locator: 1143-1145
+  quote_or_summary: Roman Emperors' increasing doles of money and corn to buy popular
+    favor are said to fall under Confucius' condemnation.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: quote
+  locator: 1147-1148
+  quote_or_summary: 'The "four evil things" are reduced to two: "Cruelty" and "Meanness."'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is straightforward editorial prose. Motif extraction is less
+    certain because the material is ethical and political commentary rather than mythological
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs apply directly; the only used motif-family taxonomy ref is the broad 'wisdom' category.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l1132-l1148
+  passage_sha256=d1efa56868c73261dccfc04c4c2447ca6299656f5825a7bc3196311d9d1601df
+

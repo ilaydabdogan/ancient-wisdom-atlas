@@ -1,0 +1,581 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l17624-l17713
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 17624-17713
+  start: '17624'
+  end: '17713'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A king's daughter promises to return to an iron stove in the forest, scrape
+    it open with a knife, release the being inside, and marry him. Two substitute
+    women fail the task and are rejected. The king's daughter releases a jeweled youth,
+    a king's son, but then breaks a three-word speech restriction, causing the stove
+    to disappear far away. She searches for him, reaches a house inhabited by toads,
+    and tells them her story; a fat toad orders a great box to be brought.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king's daughter promises the speaker associated with the iron stove that
+    she will return with a knife, scrape a hole in the iron, set it free, and marry
+    it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A silent companion walks near the king's daughter and brings her home in two
+    hours; she tells her father what happened in the forest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old king sends the miller's daughter in his daughter's place; she scrapes
+    the stove for twenty-four hours but removes no iron and is rejected after she
+    refers to her father's mill.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old king then sends the swine-herd's daughter; she also scrapes for twenty-four
+    hours without success and is rejected after she refers to her father's horn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The voice in the stove tells the swine-herd's daughter that the king's daughter
+    must come and that the kingdom will be ruined if she does not.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The king's daughter returns, scrapes the iron, makes a hole, sees a handsome
+    youth adorned with gold and precious jewels, enlarges the hole, and releases him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The released youth declares the king's daughter to be his bride and permits
+    her to visit her father on the condition that she speak no more than three words
+    to him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The king's daughter speaks more than three words; the iron stove disappears
+    and is taken far away over glass mountains and piercing swords, while the king's
+    son is no longer shut inside it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: She searches for the iron stove for nine days, becomes very hungry, climbs
+    a small tree at night, sees a distant light, prays, and walks toward it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: At a little old house surrounded by grass, she sees toads of different sizes
+    and a table with wine, roast meat, and silver plates and glasses.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A fat toad calls for an attendant; a small toad opens the door, and the toads
+    welcome the king's daughter.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The king's daughter tells the toads about breaking the three-word order and
+    says she will seek the king's son over hill and dale until she finds him; the
+    fat toad orders a great box to be brought.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King's daughter
+  description: The old king's only daughter; she promises to return to the iron stove,
+    releases the king's son, breaks the speech restriction, and searches for him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Old king / father
+  description: The king's daughter's father; he rejoices at her return, is frightened
+    by her promise, and sends substitutes in her place.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: King's son in the iron stove
+  description: A speaking presence in the iron stove who is later seen as a handsome
+    youth adorned with gold and precious jewels and released from the stove.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Miller's daughter
+  description: A beautiful substitute sent to scrape the iron stove in place of the
+    king's daughter; she fails and is dismissed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Swine-herd's daughter
+  description: A prettier substitute sent with gold to scrape the iron stove in place
+    of the king's daughter; she fails and is dismissed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Silent companion
+  description: A companion given by the stove-associated speaker; he walks near the
+    king's daughter without speaking and brings her home.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Fat toad
+  description: A large toad in the old house who speaks, calls for an attendant, questions
+    the king's daughter, and orders the great box to be brought.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Small toad
+  description: A small toad who comes and opens the door to the king's daughter.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Promise-bound seeker and bride
+  assigned_to:
+  - fig:1
+  basis: She gives her word to return, release and marry the being in the stove, later
+    searches for the vanished stove and king's son.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: Anxious royal father
+  assigned_to:
+  - fig:2
+  basis: He fears the loss of his only daughter and arranges substitute attempts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Enclosed enchanted bridegroom
+  assigned_to:
+  - fig:3
+  basis: He speaks from the stove, requires release by scraping the iron, emerges
+    as a jeweled youth, and calls the king's daughter his bride.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: Failed substitute
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Each substitute is sent in place of the king's daughter, scrapes unsuccessfully
+    for twenty-four hours, and is rejected.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: Silent escort
+  assigned_to:
+  - fig:6
+  basis: He walks near the king's daughter without speaking and takes her home.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Speaking toad host
+  assigned_to:
+  - fig:7
+  basis: The fat toad speaks within the old house, welcomes or directs the encounter,
+    and orders a box to be brought.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: Door-opening attendant
+  assigned_to:
+  - fig:8
+  basis: The small toad comes and opens the door after the fat toad's call.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Iron stove
+  literal_form: Iron stove in the forest; an iron enclosure containing the king's
+    son and later disappearing far away.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Knife for scraping iron
+  literal_form: Knife carried by the women to scrape a hole in the iron stove.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Three-word speech limit
+  literal_form: Instruction that the king's daughter must not speak more than three
+    words to her father.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: Glass mountains and piercing swords
+  literal_form: Distant barrier-landscape over which the iron stove is taken.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Small tree refuge
+  literal_form: Small tree where the king's daughter sits at night to avoid wild beasts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Distant light
+  literal_form: Small light seen at midnight, toward which the king's daughter walks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Old house of toads
+  literal_form: Little old house surrounded by grass, inhabited by big and little
+    toads.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Set table with rich food and silverware
+  literal_form: Table covered with wine and roast meat, with silver plates and glasses.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: Nine-day search
+  literal_form: Nine days of searching for the lost iron stove before hunger becomes
+    severe.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: Great box
+  literal_form: A great box requested by the fat toad after hearing the king's daughter's
+    account.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Promise to the iron stove and return to the castle
+  summary: The king's daughter agrees to return to the iron stove with a knife and
+    release it; a silent companion brings her home, where she tells her father of
+    the promise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Substitutes fail at the stove
+  summary: The old king sends the miller's daughter and then the swine-herd's daughter
+    to scrape the stove in place of his daughter; both fail and are rejected by the
+    voice from the stove.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Release of the king's son and loss after broken condition
+  summary: The king's daughter scrapes open the stove and releases a jeweled youth,
+    who names her his bride and gives a three-word condition for visiting her father;
+    after she breaks it, the stove disappears far away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Wilderness search and toad house
+  summary: The king's daughter searches for nine days, shelters in a tree, follows
+    a distant light, and reaches a house of toads where she recounts her loss and
+    search.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Enchanted bridegroom released from an iron enclosure
+  taxonomy_refs: []
+  basis: A speaking being in an iron stove is released when the king's daughter scrapes
+    a hole in the iron; he appears as a handsome king's son and declares her his bride.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not state the origin of the enchantment.
+- id: motif:2
+  label: False substitutes fail the appointed task
+  taxonomy_refs: []
+  basis: Two women are sent in place of the king's daughter, but each fails to scrape
+    the stove and is rejected when her true identity is revealed by speech.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents substitution attempts but does not call them imposture
+    or deception beyond the replacement arrangement.
+- id: motif:3
+  label: Broken verbal condition causes separation from beloved
+  taxonomy_refs: []
+  basis: The king's son allows the king's daughter to visit her father only if she
+    speaks no more than three words; when she exceeds the limit, the stove disappears
+    far away.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The condition concerns speech quantity, not forbidden knowledge.
+- id: motif:4
+  label: Quest for a lost bridegroom
+  taxonomy_refs:
+  - mystical_quest
+  basis: After the stove and king's son disappear, the king's daughter leaves home,
+    searches for nine days, and says she will seek him over hill and dale until she
+    finds him.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The excerpt shows the quest beginning but does not include its resolution.
+- id: motif:5
+  label: Dangerous distant barrier landscape
+  taxonomy_refs: []
+  basis: The vanished stove is taken far away over glass mountains and piercing swords.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage mentions the barrier landscape briefly and does not show the
+    heroine crossing it in this excerpt.
+- id: motif:6
+  label: Speaking animal household encountered during quest
+  taxonomy_refs: []
+  basis: During the search, the king's daughter reaches a house inhabited by speaking
+    toads who welcome her, question her, and request a great box.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The helper or adversary function of the toads is not completed within
+    the provided passage.
+comparison_claims:
+- id: claim:1
+  claim: The heroine's departure into the forest to recover the vanished king's son
+    functions as a quest for a lost beloved within the broad mystical quest motif
+    family.
+  claim_level: same_function
+  target: motif_family:mystical_quest
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to an available motif family only;
+    it does not establish historical contact or a specific tale-type identification.
+- id: claim:2
+  claim: The failed replacement of the king's daughter by two socially identified
+    substitutes matches the general pattern of substitute figures failing a task reserved
+    for the true promised person.
+  claim_level: same_function
+  target: pattern:false substitute fails recognition or release task
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the functional pattern but does not name a broader
+    tradition or provide external parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17624-17639
+  quote_or_summary: The king's daughter agrees to return to the iron stove with a
+    knife, scrape a hole in it, set it free, and marry it; a silent companion brings
+    her home, and she reports the promise to her father.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 17640-17653
+  quote_or_summary: The old king sends the miller's daughter as a substitute; she
+    scrapes for twenty-four hours without removing iron, mentions her father's mill,
+    and is rejected by the voice in the stove.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 17654-17668
+  quote_or_summary: The swine-herd's daughter is sent as another substitute; she also
+    fails, mentions her father's horn, and is told to send the king's daughter or
+    the kingdom will be destroyed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 17669-17679
+  quote_or_summary: The king's daughter scrapes the stove open, sees a handsome youth
+    shining with gold and jewels, releases him, and is told she is his bride; he allows
+    a visit to her father with a limit of three words.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 17680-17694
+  quote_or_summary: After the king's daughter speaks more than three words, the iron
+    stove disappears over glass mountains and piercing swords; she searches for nine
+    days, climbs a tree at night, sees a light, prays, and goes toward it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 17695-17707
+  quote_or_summary: The king's daughter reaches a little old house surrounded by grass,
+    sees many toads and a table with wine, roast meat, and silverware; a fat toad
+    calls an attendant and a small toad opens the door.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 17708-17713
+  quote_or_summary: The toads ask where the king's daughter comes from and where she
+    is going; she recounts the broken three-word command and her search for the king's
+    son, and the fat toad orders the great box to be brought.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about actions, figures, and objects. Motif labels
+    are candidate abstractions and should be reviewed against the surrounding tale
+    and any formal tale-type index.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and applied only where directly supportable.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l17624-l17713
+  passage_sha256=7a9a455e34afdc7622b0fb6558dfed8b0cf0e14c2dadd9934c7953661e356149
+

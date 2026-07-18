@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l5025-l5041
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: XXXI. / GIFT-GIVING IS MUTUAL. / XXXII. / THE HOARD AND THE DRAGON.; lines
+    5025-5041
+  start: '5025'
+  end: '5041'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss variant readings and translations concerning a
+    male figure said in one older reading to inhabit an underground mound, the repeated
+    word 'hord,' an emended line about no man in a desert rejoicing in conflict, a
+    hoard-ward unable to find who disturbed his sleep, and the rendering of 'sinc-fæt'
+    as 'treasure.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An earlier reading is reported as giving the meaning that a male figure inhabits
+    a mound under the earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the translation in the text is more authentic than the earlier
+    reading.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The repetition of the word 'hord' is said to have led some scholars to suggest
+    new readings that avoid a second occurrence of the word.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An emended rendering says that no man in a desert rejoiced in conflict or
+    battle-work.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The explanatory note says the hoard-ward could not find anyone who had disturbed
+    his slumbers because no warrior was there.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The word 'sinc-fæt' is reported as being rendered 'treasure' by t.B.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: male figure in earlier reading
+  description: A male figure described in an earlier reading as inhabiting a mound
+    under the earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: hoard-ward
+  description: A guardian associated with a hoard who, according to the note, could
+    not find anyone who had disturbed his slumbers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: warrior or man in the desert
+  description: A man or warrior whose absence is described in the emended interpretation
+    of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: underground mound inhabitant
+  assigned_to:
+  - fig:1
+  basis: The earlier reading says he inhabits a mound under the earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hoard guardian
+  assigned_to:
+  - fig:2
+  basis: The passage calls the figure a hoard-ward and connects him with disturbed
+    slumbers.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: absent combatant
+  assigned_to:
+  - fig:3
+  basis: The emended rendering states that no man in the desert rejoiced in conflict
+    and that no warrior was there.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: underground mound
+  literal_form: mound under the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hoard
+  literal_form: "'hord' / hoard"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: treasure
+  literal_form: "'sinc-fæt' rendered as 'treasure'"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: desert
+  literal_form: desert
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial discussion of underground mound reading
+  summary: A note reports an earlier interpretation in which a male figure inhabits
+    a mound under the earth, while stating that the translation in the text is more
+    authentic.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial discussion of the hoard-ward and absent warrior
+  summary: A note explains an emended rendering in which no man is present in a desert
+    for conflict, and the hoard-ward cannot find anyone who disturbed his sleep.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: underground hoard guardian
+  taxonomy_refs: []
+  basis: The notes combine an underground mound reading, repeated references to a
+    hoard, and a hoard-ward who searches for whoever disturbed his slumbers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The supplied passage is editorial commentary rather than the main narrative
+    text; it does not explicitly identify the hoard-ward as a dragon or serpent.
+- id: motif:2
+  label: disturbed guardian's sleep
+  taxonomy_refs: []
+  basis: The note states that the hoard-ward could not find anyone who had disturbed
+    his slumbers.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage provides only a note explaining a translation; it gives limited
+    narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5025-5027, note [4]
+  quote_or_summary: An earlier reading is said to mean that a male figure inhabits
+    a mound under the earth; the note says the text's translation is more authentic.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5029-5032, note [5]
+  quote_or_summary: The repeated word 'hord' has led some scholars to suggest new
+    readings, though the note accepts the repetition as possible.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5034-5039, note [6]
+  quote_or_summary: A defended reading and B.'s emendation are discussed; the emended
+    translation says no man in the desert rejoiced in conflict, and the note explains
+    that the hoard-ward found no warrior who had disturbed his slumbers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: line 5041, note [7]
+  quote_or_summary: "'Sinc-fæt' is rendered 'treasure.'"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is composed of translator/editorial notes rather than a continuous
+    narrative passage, so motif extraction is limited and should be reviewed against
+    the surrounding poem text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned because the supplied passage does not explicitly support available motif or symbol taxonomy IDs such as serpent, cave, or fire.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l5025-l5041
+  passage_sha256=5cb48b75553faca376405767563bc959b3599de6dba60ea8e5afa4bd66eb7b53
+

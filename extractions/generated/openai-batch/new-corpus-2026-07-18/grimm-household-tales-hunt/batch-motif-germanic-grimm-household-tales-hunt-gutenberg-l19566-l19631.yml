@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l19566-l19631
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 19566-19631
+  start: '19566'
+  end: '19631'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“here I sit aloft in the Sack of Wisdom”"
+  summary: A king rewards a poor brother lavishly for a turnip. The rich brother tries
+    to gain a greater reward, receives the turnip instead, and plots to kill his brother.
+    The hired murderers abandon the intended victim in a sack hanging from a tree
+    when a singing rider approaches. The trapped man convinces a travelling student
+    that the sack grants wisdom, has the student lower and untie it, then puts the
+    student into the sack, rides away on the student’s horse, and later sends someone
+    to release him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The King feels compassion for the poor brother and gives him gold, lands,
+    meadows, and herds, making him immensely rich.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rich brother hears of the poor brother’s gain from a turnip, envies him,
+    and brings gold and horses to the King expecting a larger return gift.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The King accepts the rich brother’s present and gives him the great turnip
+    as the rarest and most excellent return gift.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The rich brother becomes angry, resolves to kill his brother, hires murderers,
+    and lures his brother by claiming to know of a hidden treasure to dig up and divide.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The murderers attack, bind the brother, and are about to hang him to a tree,
+    but flee after hearing loud singing and a horse’s feet.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Before fleeing, the murderers push the prisoner head first into a sack and
+    hang it on a branch.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The prisoner makes a hole in the sack for his head and calls down to a young
+    travelling student riding through the wood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: From the tree, the prisoner claims he is sitting in the Sack of Wisdom and
+    says it teaches stars, zodiac signs, winds, healing, and the virtues of herbs,
+    birds, and stones.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The student is astonished, asks to enter the sack, waits impatiently, and
+    is described as having a very great thirst for knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The student lowers and unties the sack, freeing the prisoner; the freed man
+    then puts the student upside down into the sack and draws him up the tree.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The freed man rides away on the student’s horse and later sends someone to
+    let the student out.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: poor brother / trapped brother
+  description: The poor brother is rewarded by the King, later targeted by his rich
+    brother, trapped in a sack, freed by the student, and then places the student
+    in the sack before riding away.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the King
+  description: The ruler who rewards the poor brother and later gives the great turnip
+    to the rich brother in return for gold and horses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: rich brother
+  description: The envious brother who brings gifts to the King, receives the turnip,
+    becomes angry, and hires murderers to kill his brother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: hired murderers
+  description: Men hired by the rich brother who ambush and bind the poor brother,
+    attempt to hang him, and flee when they hear an approaching rider.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: travelling student
+  description: A young travelling student riding through the wood, singing; he hears
+    the prisoner’s claims about the sack, asks to enter, frees the prisoner, and is
+    put into the sack himself.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: unnamed person sent later
+  description: An unnamed person sent after an hour to let the student out of the
+    sack.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: royal giver of return gifts
+  assigned_to:
+  - fig:2
+  basis: The King gives wealth to the poor brother and the turnip to the rich brother
+    in response to offerings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rewarded poor brother and intended victim
+  assigned_to:
+  - fig:1
+  basis: He receives the King’s gifts and later is the brother whom the rich brother
+    plans to kill.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: envious brother and murder-plotter
+  assigned_to:
+  - fig:3
+  basis: He envies the poor brother’s reward, becomes angry after receiving the turnip,
+    resolves to kill his brother, and hires murderers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: ambushers
+  assigned_to:
+  - fig:4
+  basis: They lie in ambush, attack, bind, and nearly hang the poor brother before
+    fleeing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: travelling student and knowledge-seeker
+  assigned_to:
+  - fig:5
+  basis: He rides through the wood singing and asks to enter the sack because of his
+    thirst for knowledge.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: later releaser
+  assigned_to:
+  - fig:6
+  basis: The freed man sends someone after an hour to let the student out.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: sack-exchange deceiver
+  assigned_to:
+  - fig:1
+  basis: He represents the sack as a source of wisdom, has it lowered, is freed, and
+    puts the student into it instead.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: substitute prisoner in the sack
+  assigned_to:
+  - fig:5
+  basis: After freeing the trapped man, the student is put upside down into the sack
+    and drawn up the tree.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: great turnip
+  literal_form: A large turnip first presented by the poor brother and later given
+    by the King to the rich brother as a return gift.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tree
+  literal_form: The tree to which the intended victim would have been hanged and from
+    which the sack is hung.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: Sack of Wisdom / Sack of Knowledge
+  literal_form: A sack hanging from a branch, described in speech as a place or object
+    that grants great knowledge.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: hidden treasure claim
+  literal_form: A hidden treasure named by the rich brother as something the brothers
+    should dig up and divide.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: student’s horse
+  literal_form: The horse heard in the distance, ridden by the travelling student,
+    and later mounted by the freed man.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: King rewards the poor brother
+  summary: The King feels compassion and raises the poor brother from poverty with
+    wealth in gold, land, meadows, and herds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rich brother’s attempted exchange
+  summary: The rich brother envies the reward, brings gold and horses to the King,
+    and receives the great turnip as the return gift.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Plot and failed hanging
+  summary: The rich brother hires murderers and lures his brother with talk of treasure;
+    the murderers bind the brother and prepare to hang him, but flee when they hear
+    an approaching singer and horse.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Speech from the sack
+  summary: The trapped man opens a hole in the sack, calls to the travelling student,
+    and claims that the sack teaches all kinds of knowledge.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Exchange of places in the sack
+  summary: The student lowers and unties the sack; the freed man places the student
+    inside, hoists him into the tree, rides away on the student’s horse, and sends
+    someone later to release him.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Unequal reward and exchange reversal
+  taxonomy_refs: []
+  basis: The poor brother receives immense wealth for a turnip, while the rich brother
+    gives gold and horses but receives the turnip in return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No specific supplied taxonomy reference closely matches this exchange
+    pattern.
+- id: motif:2
+  label: Sibling rivalry escalating to attempted fratricide
+  taxonomy_refs:
+  - sibling_pair
+  basis: The rich brother envies the poor brother’s reward and arranges for him to
+    be killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage shows rivalry between brothers but does not include the full
+    tale context.
+- id: motif:3
+  label: Escape by persuading another to take the trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The trapped man reframes the sack as a wisdom-giving place, has the student
+    release him, and puts the student into the sack instead.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports a deception-and-substitution
+    episode, not a named trickster figure.
+- id: motif:4
+  label: False promise of wisdom as lure
+  taxonomy_refs:
+  - wisdom
+  basis: The prisoner claims the sack teaches cosmic, medical, and natural knowledge,
+    and the student’s desire for knowledge leads him to enter it.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The sack’s wisdom is a claim made by the trapped man; the passage indicates
+    the claim is deceptive through his later actions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19566-19570
+  quote_or_summary: The King feels compassion for the poor brother and gives him gold,
+    lands, meadows, and herds, making him richer than the other brother.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 19570-19581
+  quote_or_summary: The rich brother envies the gain from one turnip, brings gold
+    and horses to the King expecting a larger return, and receives the great turnip
+    as the rarest gift.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 19581-19586
+  quote_or_summary: The rich brother becomes angry, resolves to kill his brother,
+    hires murderers, and invites his brother to dig up and divide a hidden treasure.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 19586-19592
+  quote_or_summary: The murderers attack and bind the brother, are about to hang him
+    to a tree, hear singing and a horse, then put him head first into a sack, hang
+    it on a branch, and flee.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 19592-19599
+  quote_or_summary: The prisoner makes a hole in the sack for his head and calls to
+    a young travelling student riding through the wood singing.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 19599-19607
+  quote_or_summary: The voice from the tree says, “here I sit aloft in the Sack of
+    Wisdom,” and claims to learn stars, zodiac signs, winds, healing, and the virtues
+    of herbs, birds, and stones.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 19608-19625
+  quote_or_summary: The student asks to enter the sack; the man above delays, then
+    has the sack lowered and untied, is freed, puts the student upside down into the
+    sack, and draws him up the tree.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 19625-19627
+  quote_or_summary: The freed man mounts the student’s horse, rides away, and after
+    an hour sends someone to let the student out.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary derived from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are cautious
+    because available taxonomy references are broad. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line in the supplied range is the heading “147 The Old Man Made Young Again”; no motif data were extracted from that heading alone.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l19566-l19631
+  passage_sha256=9748c10fc2d5b0c68fe45373db9f86028d7ed09ff08b91261c8fbdf427a51612
+

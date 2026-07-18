@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2316-l2382
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: 'ANOTHER VERSION OF THE SAME FABLE / FOOTNOTES: / TORTOISES HUNTING OSTRICHES
+    / THE JUDGMENT OF BABOON; lines 2316-2382'
+  start: '2316'
+  end: '2382'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A tailor named Itkler brings a complaint to Baboon after Mouse tears his
+    clothes and the blame is passed through Cat, Dog, Wood, Fire, Water, Elephant,
+    and Ant. Baboon holds a trial and orders the parties to punish one another in
+    a chain. The judgment explains their continuing hostility, Itkler's satisfaction,
+    Baboon's change of name, and Baboon's later walking on all fours.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Itkler's clothes are torn, and Itkler identifies Mouse as responsible while
+    reporting that Mouse refuses responsibility.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Blame is passed in sequence from Mouse to Cat, Cat to Dog, Dog to Wood, Wood
+    to Fire, Fire to Water, Water to Elephant, and Elephant to Ant.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Itkler asks Baboon to assemble the people and try them so that he may get
+    satisfaction.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Baboon assembles the accused parties for trial, and they repeat the same blame-shifting
+    excuses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'Baboon orders a chain of punishments: Cat bites Mouse, Dog bites Cat, Wood
+    beats Dog, Fire burns Wood, Water quenches Fire, Elephant drinks Water, and Ant
+    bites Elephant.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the punishments are carried out, the parties are said no longer to agree
+    with one another.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Itkler declares himself content and thanks Baboon for giving redress.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Baboon says he will no longer be called Jan but Baboon, and the narrator adds
+    that since that time Baboon walks on all fours, probably through this foolish
+    judgment.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Itkler, the tailor
+  description: The owner of the torn clothes who brings the complaint to Baboon and
+    later thanks him for redress.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Mouse
+  description: Accused by Itkler of tearing the clothes; passes blame to Cat and is
+    bitten by Cat under Baboon's judgment.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Baboon / Jan
+  description: The judge who assembles the parties, orders mutual punishments, receives
+    Itkler's thanks, renames himself Baboon, and is afterward said to walk on all
+    fours.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Cat
+  description: Blamed by Mouse, denies responsibility, is ordered to bite Mouse, and
+    is bitten by Dog.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Dog
+  description: Blamed by Cat, denies responsibility, is ordered to bite Cat, and is
+    beaten by Wood.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Wood
+  description: Blamed by Dog, shifts blame to Fire, is ordered to beat Dog, and is
+    burned or consumed by Fire.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Fire
+  description: Blamed by Wood, shifts blame to Water, is ordered to burn Wood, and
+    is quenched by Water.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: Water
+  description: Blamed by Fire, shifts blame to Elephant, is ordered to quench Fire,
+    and is swallowed or drunk by Elephant.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: Elephant
+  description: Blamed by Water, says Ant tore the clothes, is ordered to drink Water,
+    and is bitten by Ant in his most tender parts.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:10
+  name_or_label: Ant
+  description: Named by Elephant as the final blamed party and ordered to bite Elephant
+    in his most tender parts.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: complainant seeking satisfaction
+  assigned_to:
+  - fig:1
+  basis: Itkler brings the complaint to Baboon and asks for satisfaction; after the
+    judgment he says he is content.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: adjudicator of the trial
+  assigned_to:
+  - fig:3
+  basis: Baboon assembles the parties for trial and issues the punitive orders.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: blamed or accused party
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: The complaint describes a chain in which each of these parties is accused
+    or blamed for the torn clothes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: ordered punisher in chain
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: Baboon orders these figures to bite, beat, burn, quench, drink, or bite another
+    party.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: punished party in chain
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These figures are the recipients of the ordered punishments in the chain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: figure whose name and gait are explained
+  assigned_to:
+  - fig:3
+  basis: Baboon declares a change of name from Jan to Baboon, and the narrator states
+    that since then Baboon walks on all fours.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: torn clothes
+  literal_form: Itkler's torn clothes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Wood
+  literal_form: Wood as a speaking and acting party in the chain
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Fire
+  literal_form: Fire as a speaking and acting party that burns Wood and is quenched
+    by Water
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Water
+  literal_form: Water as a speaking and acting party that quenches Fire and is drunk
+    or swallowed by Elephant
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Baboon walking on all fours
+  literal_form: Baboon's four-footed gait after the judgment
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Complaint and blame chain
+  summary: Itkler reports that Mouse tore his clothes and that responsibility has
+    been passed from one party to the next until Ant is blamed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Trial before Baboon
+  summary: Baboon assembles the parties for trial, and they repeat their denials and
+    accusations.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ordered punishment chain
+  summary: Baboon resolves the dispute by ordering each party to punish another in
+    a sequence of biting, beating, burning, quenching, drinking, and biting.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Aftermath of judgment
+  summary: The parties remain in conflict, Itkler thanks Baboon for justice, and Baboon's
+    name and four-footed walking are linked to the judgment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cascading blame transfer over a damaged object
+  taxonomy_refs: []
+  basis: The dispute begins with torn clothes and proceeds through a sequential transfer
+    of blame from Mouse through several animal and elemental parties to Ant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family precisely matches this cumulative blame-chain
+    pattern.
+- id: motif:2
+  label: judgment by reciprocal punishment chain
+  taxonomy_refs: []
+  basis: Baboon adjudicates by ordering the parties to punish one another in a fixed
+    sequence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The judgment is not described as divine, so the available divine_judgment
+    taxonomy ref is not applied.
+- id: motif:3
+  label: etiology of continuing antagonism among animals and elements
+  taxonomy_refs: []
+  basis: After the ordered punishments are performed, the passage states that since
+    that day the parties can no longer agree and repeats the hostile relations.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a functional motif label drawn from the passage; no matching supplied
+    taxonomy ref is available.
+- id: motif:4
+  label: etiology of Baboon's name and four-footed gait
+  taxonomy_refs: []
+  basis: Baboon declares that he will be called Baboon rather than Jan, and the narrator
+    connects Baboon's walking on all fours to the foolish judgment.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage marks the cause of the loss of walking erect as probable rather
+    than certain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2316-2333
+  quote_or_summary: 'Itkler says Mouse tore his clothes and reports the blame chain:
+    Mouse blames Cat, Cat blames Dog, Dog blames Wood, Wood blames Fire, Fire blames
+    Water, Water blames Elephant, and Elephant blames Ant; Itkler asks Baboon to assemble
+    and try them so he can get satisfaction.'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 2334-2338
+  quote_or_summary: Baboon assembles the parties for trial, and they repeat the excuses
+    reported by Itkler, each putting blame on another.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 2339-2360
+  quote_or_summary: 'Baboon decides to punish them by making them punish each other:
+    Cat bites Mouse, Dog bites Cat, Wood beats Dog, Fire burns Wood, Water quenches
+    Fire, Elephant drinks Water, and Ant bites Elephant.'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 2361-2371
+  quote_or_summary: The punishments are carried out; since that day they cannot agree,
+    and the passage repeats the chain from Ant biting Elephant through Cat biting
+    Mouse.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: lines 2372-2377
+  quote_or_summary: Itkler says he is content, thanks Baboon, and says Baboon has
+    exercised justice and given him redress.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 2378-2382
+  quote_or_summary: Baboon says that from that day he will no longer be called Jan
+    but Baboon; the narrator adds that since then Baboon walks on all fours, probably
+    having lost the privilege of walking erect through this foolish judgment.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied passage only. Candidate motifs are functional
+    labels because the available taxonomy does not include a precise etiological animal-fable
+    category. No external comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied motif-family taxonomy ref was applied; fire and water symbol refs were applied only to the literal Fire and Water figures in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2316-l2382
+  passage_sha256=a4313532c288a865cacf5b0461ae82abf71630bc9e11849d8b45ef45623f198f
+

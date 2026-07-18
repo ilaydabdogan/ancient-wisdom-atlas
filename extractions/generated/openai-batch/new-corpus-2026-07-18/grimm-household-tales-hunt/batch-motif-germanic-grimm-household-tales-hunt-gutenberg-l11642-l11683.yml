@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l11642-l11683
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 11642-11683
+  start: '11642'
+  end: '11683'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Brother Lustig spends his remaining money at an inn, uses a wish-working
+    knapsack to take two roasted geese from the host's oven, eats one, and gives the
+    other to two hungry journeymen. The journeymen are accused of stealing the goose
+    and beaten by the landlord. Brother Lustig later comes to a magnificent castle
+    near a wretched inn, is refused lodging at the inn, hears that no one survives
+    a night in the castle, and says he will try it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Brother Lustig has squandered his money until only four kreuzers remain, then
+    orders wine and bread at an inn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Brother Lustig smells roast goose, sees that the host has two geese in the
+    oven, and remembers that his comrade said whatever he wished to have in his knapsack
+    should be there.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Outside the door, Brother Lustig wishes the two roasted geese out of the oven
+    and into his knapsack; when he looks, they are inside.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Brother Lustig goes to a meadow, begins eating the roast meat, and gives the
+    untouched second goose to two hungry journeymen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The journeymen take the goose to the inn, order wine and bread, and begin
+    eating; the hostess notices and asks her husband to check whether it is one of
+    their geese.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The landlord finds the oven empty, accuses the two journeymen of theft, rejects
+    their explanation, and cudgels them out of the house when they cannot pay.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Brother Lustig reaches a place with a magnificent castle and a nearby wretched
+    inn, but the innkeeper says the inn is full of noble guests and refuses lodging.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The innkeeper says that sleeping in the castle is dangerous because no one
+    who has tried it has come out alive.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Brother Lustig replies that if others have tried sleeping there, he will try
+    it too.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Brother Lustig
+  description: A traveler described by others as a discharged soldier; he uses the
+    knapsack, gives away one goose, and later volunteers to try sleeping in the castle.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Brother Lustig's comrade
+  description: A remembered comrade who had said that whatever Brother Lustig wished
+    to have in his knapsack should be there.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: First inn host or landlord
+  description: The host whose two geese are in the oven; he later finds the oven empty,
+    accuses the journeymen, and cudgels them out.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Hostess at the first inn
+  description: The landlord's wife, who sees the journeymen eating goose and tells
+    her husband to check whether it is one of theirs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Two journeymen
+  description: Two hungry men who receive the second goose from Brother Lustig, eat
+    it at the inn, are accused of theft, and are beaten out of the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Second inn landlord or host
+  description: The host of the wretched inn near the castle; he refuses Brother Lustig
+    lodging and warns that no one survives a night in the castle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Noble guests
+  description: Guests filling the wretched inn near the castle.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: traveler with dwindling money
+  assigned_to:
+  - fig:1
+  basis: Brother Lustig travels about, wastes his money, and passes by an inn with
+    only four kreuzers left.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: user of wish-working knapsack
+  assigned_to:
+  - fig:1
+  basis: He wishes the two roasted geese into his knapsack and finds them there.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hungry recipients accused of theft
+  assigned_to:
+  - fig:5
+  basis: The two journeymen receive the second goose, eat it, and are accused and
+    beaten by the landlord.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: owner, accuser, and punisher
+  assigned_to:
+  - fig:3
+  basis: The landlord's oven is empty; he accuses the journeymen of theft and cudgels
+    them out.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: witness who alerts the landlord
+  assigned_to:
+  - fig:4
+  basis: The hostess sees the journeymen eating goose and asks her husband to check
+    the oven.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: prior adviser about the knapsack
+  assigned_to:
+  - fig:2
+  basis: Brother Lustig remembers that his comrade had told him whatever he wished
+    to have in his knapsack should be there.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: warning innkeeper
+  assigned_to:
+  - fig:6
+  basis: The second innkeeper refuses lodging and explains the danger of sleeping
+    in the castle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: volunteer for deadly lodging trial
+  assigned_to:
+  - fig:1
+  basis: After hearing that no one survives the castle, Brother Lustig says he will
+    try it too.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wish-working knapsack
+  literal_form: A knapsack into which Brother Lustig can wish objects to appear.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two roasted geese
+  literal_form: Two geese standing in the host's oven, then found inside Brother Lustig's
+    knapsack.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: oven
+  literal_form: The host's oven that contains two geese and is later found empty.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: meadow
+  literal_form: The place where Brother Lustig eats and gives the second goose to
+    the journeymen.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: stick and green hazel-sap threat
+  literal_form: The landlord threatens to wash the journeymen with green hazel-sap
+    and then takes a stick to cudgel them out.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: magnificent castle
+  literal_form: A splendid castle where, according to the host, no one who has slept
+    there has come out alive.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: wretched inn
+  literal_form: An inn near the magnificent castle, full of noble guests and unable
+    or unwilling to lodge Brother Lustig.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Geese wished into the knapsack
+  summary: At an inn, Brother Lustig sees two geese in the oven, recalls the power
+    of his knapsack, and wishes the geese from the oven into the knapsack.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gift of the second goose and punishment of the journeymen
+  summary: Brother Lustig eats in a meadow and gives the second goose to two hungry
+    journeymen; at the inn they are accused of stealing it and beaten out when they
+    cannot pay.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Warning about the deadly castle
+  summary: Brother Lustig arrives near a magnificent castle and a wretched inn; after
+    being refused lodging, he learns that no one survives a night in the castle and
+    declares that he will try it.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wish-granting container supplies desired food
+  taxonomy_refs: []
+  basis: Brother Lustig remembers the comrade's statement about the knapsack, wishes
+    the two roasted geese into it, and finds them there.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage shows the knapsack's function but does not explain its origin
+    or limits.
+- id: motif:2
+  label: magical theft with displaced blame
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Brother Lustig takes the host's geese by means of the knapsack and leaves;
+    the journeymen who receive one goose are blamed and punished for the missing food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not call Brother Lustig a trickster; the taxonomy link
+    is based on boundary-crossing deception and misdirected consequences.
+- id: motif:3
+  label: gift of food leading to false accusation
+  taxonomy_refs: []
+  basis: Brother Lustig gives the second goose to hungry journeymen, who are then
+    accused of stealing it when they eat it at the inn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is local to this passage; broader tale outcome is not included.
+- id: motif:4
+  label: deadly lodging challenge accepted by traveler
+  taxonomy_refs:
+  - initiation
+  - mystical_quest
+  basis: The host warns that no one who has slept in the castle has come out alive,
+    and Brother Lustig says he will try it too.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage ends at the acceptance of the challenge; the nature and result
+    of the castle trial are outside the provided lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11642-11655
+  quote_or_summary: Brother Lustig spends his last four kreuzers on wine and bread,
+    smells and sees two geese in the host's oven, remembers the comrade's statement
+    about the knapsack, wishes the geese into it, and finds them there.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 11655-11662
+  quote_or_summary: Brother Lustig eats in a meadow, gives the untouched second goose
+    to two hungry journeymen, and the journeymen take it to the inn with wine and
+    bread.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 11662-11672
+  quote_or_summary: The hostess recognizes the goose as possibly theirs; the landlord
+    finds the oven empty, accuses the journeymen, rejects their explanation, and beats
+    them out with a stick when they cannot pay.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 11674-11680
+  quote_or_summary: Brother Lustig comes to a place with a magnificent castle and
+    nearby wretched inn; the innkeeper refuses him lodging because the house is full
+    of noble guests.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 11680-11683
+  quote_or_summary: The host says no one who has slept in the castle has come out
+    alive; Brother Lustig responds that if others have tried it, he will try it too.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidates and need human review, especially the broad taxonomy links for
+    trickster-boundary and initiation or quest patterns. No comparison claims were
+    made because the passage itself gives no explicit cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; uncertain comparative links were avoided or marked cautiously.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l11642-l11683
+  passage_sha256=b4001c8950fc406c61fa4eaf8a665f40ab3dc8606458b434540c5c8a0803e2e9
+

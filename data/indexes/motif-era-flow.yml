@@ -1,6 +1,6 @@
 ---
 motif_era_flow_version: '1'
-generated_at: '2026-07-18T05:53:16Z'
+generated_at: '2026-07-18T07:45:25Z'
 eras:
 - id: deep_bronze
   label: before 1500 BCE
@@ -31,31 +31,33 @@ eras:
   start: 1500
   end: 2100
 summary:
-  records_seen: 5763
+  records_seen: 12559
   dated_texts: 95
-  undated_texts: 14
-  undated_record_count: 463
+  undated_texts: 18
+  undated_record_count: 926
   families: 32
 families:
 - family: sacred_knowledge
   label: Sacred Knowledge and Wisdom
-  total: 2477
+  total: 4653
   first_attestation:
     year: -1700
     text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
     tradition: mesopotamian
   eras:
   - era: deep_bronze
-    count: 2
+    count: 20
     tradition_count: 1
     traditions:
     - mesopotamian
   - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
+    count: 14
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
   - era: axial
-    count: 439
+    count: 715
     tradition_count: 5
     traditions:
     - biblical
@@ -64,49 +66,594 @@ families:
     - greek
     - hindu
   - era: classical
-    count: 301
-    tradition_count: 5
+    count: 661
+    tradition_count: 8
     traditions:
+    - biblical
     - buddhist
     - confucian
     - daoist
+    - greek
     - hindu
+    - jewish-pseudepigrapha
     - roman
   - era: late_antique
-    count: 548
-    tradition_count: 2
+    count: 1053
+    tradition_count: 3
     traditions:
     - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 379
-    tradition_count: 5
+    count: 618
+    tradition_count: 6
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
     - norse
     - persian
     - sufi
   - era: early_modern_recorded
-    count: 808
-    tradition_count: 13
+    count: 1572
+    tradition_count: 30
     traditions:
+    - afro-caribbean
     - ainu
+    - akan
+    - australian-aboriginal
     - buddhist
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: hero_journey
+  label: The Hero's Journey
+  total: 3039
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 11
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 1
+    tradition_count: 1
+    traditions:
+    - egyptian
+  - era: axial
+    count: 418
+    tradition_count: 5
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+    - hindu
+  - era: classical
+    count: 591
+    tradition_count: 8
+    traditions:
+    - biblical
+    - buddhist
+    - confucian
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 316
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 475
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
     - norse
     - persian
     - sufi
+  - era: early_modern_recorded
+    count: 1227
+    tradition_count: 29
+    traditions:
+    - afro-caribbean
+    - ainu
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
 - family: divine_judgment
   label: Divine Judgment and Moral Reckoning
-  total: 1383
+  total: 2918
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 3
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 14
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 576
+    tradition_count: 5
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+    - hindu
+  - era: classical
+    count: 393
+    tradition_count: 7
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 1291
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 176
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 465
+    tradition_count: 29
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: sacred_exchange
+  label: Sacred Exchange and Reciprocity
+  total: 2220
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 4
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 6
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 377
+    tradition_count: 5
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+    - hindu
+  - era: classical
+    count: 393
+    tradition_count: 5
+    traditions:
+    - biblical
+    - confucian
+    - greek
+    - hindu
+    - roman
+  - era: late_antique
+    count: 343
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 303
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 794
+    tradition_count: 30
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: mystical_quest
+  label: Mystical Quest and Interior Journey
+  total: 1849
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 12
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 1
+    tradition_count: 1
+    traditions:
+    - egyptian
+  - era: axial
+    count: 155
+    tradition_count: 3
+    traditions:
+    - biblical
+    - greek
+    - hindu
+  - era: classical
+    count: 373
+    tradition_count: 7
+    traditions:
+    - biblical
+    - buddhist
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 97
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 401
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 810
+    tradition_count: 26
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: royal_legitimacy
+  label: Royal Legitimacy and Sacred Kingship
+  total: 1694
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 5
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 14
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 193
+    tradition_count: 4
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+  - era: classical
+    count: 568
+    tradition_count: 8
+    traditions:
+    - biblical
+    - buddhist
+    - confucian
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 109
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 238
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 567
+    tradition_count: 27
+    traditions:
+    - afro-caribbean
+    - akan
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+- family: death_and_transformation
+  label: Death, Rebirth, and Transformation
+  total: 1630
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 1
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 11
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 82
+    tradition_count: 3
+    traditions:
+    - biblical
+    - greek
+    - hindu
+  - era: classical
+    count: 143
+    tradition_count: 7
+    traditions:
+    - biblical
+    - buddhist
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 702
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 147
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 544
+    tradition_count: 29
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: sacrifice
+  label: Sacrifice and Offering
+  total: 1311
   first_attestation:
     year: -1310
     text: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
@@ -117,83 +664,31 @@ families:
     tradition_count: 0
     traditions: []
   - era: late_bronze_iron
-    count: 1
-    tradition_count: 1
+    count: 4
+    tradition_count: 2
     traditions:
     - egyptian
+    - mesopotamian
   - era: axial
-    count: 214
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
-    count: 202
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 626
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 115
+    count: 310
     tradition_count: 5
     traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 225
-    tradition_count: 13
-    traditions:
-    - ainu
-    - buddhist
-    - celtic-irish
-    - comparative
-    - finnish-karelian
+    - biblical
+    - confucian
+    - daoist
     - greek
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - mesoamerican
-    - norse
-    - sufi
-- family: hero_journey
-  label: The Hero's Journey
-  total: 1255
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 224
-    tradition_count: 2
+    - hindu
+  - era: classical
+    count: 407
+    tradition_count: 8
     traditions:
     - biblical
-    - greek
-  - era: classical
-    count: 307
-    tradition_count: 3
-    traditions:
+    - buddhist
+    - confucian
     - daoist
+    - greek
     - hindu
+    - jewish-pseudepigrapha
     - roman
   - era: late_antique
     count: 153
@@ -202,158 +697,139 @@ families:
     - buddhist
     - islamic
   - era: medieval
-    count: 204
-    tradition_count: 5
+    count: 69
+    tradition_count: 6
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
     - norse
     - persian
     - sufi
   - era: early_modern_recorded
-    count: 367
-    tradition_count: 13
+    count: 368
+    tradition_count: 27
     traditions:
-    - ainu
+    - afro-caribbean
+    - australian-aboriginal
     - buddhist
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
     - norse
     - persian
+    - slavic
     - sufi
-- family: mystical_quest
-  label: Mystical Quest and Interior Journey
-  total: 1039
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 88
-    tradition_count: 1
-    traditions:
-    - greek
-  - era: classical
-    count: 189
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 34
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 273
-    tradition_count: 4
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 455
-    tradition_count: 10
-    traditions:
-    - ainu
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - islamicate-folklore
-    - japanese
-    - norse
-    - sufi
-- family: sacred_exchange
-  label: Sacred Exchange and Reciprocity
-  total: 1023
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 196
-    tradition_count: 3
-    traditions:
-    - biblical
-    - greek
-    - hindu
-  - era: classical
-    count: 194
-    tradition_count: 3
-    traditions:
-    - confucian
-    - hindu
-    - roman
-  - era: late_antique
-    count: 183
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 160
-    tradition_count: 4
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 290
-    tradition_count: 13
-    traditions:
-    - ainu
-    - buddhist
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - norse
-    - persian
-    - sufi
-- family: death_and_transformation
-  label: Death, Rebirth, and Transformation
-  total: 829
+    - zuni
+- family: miraculous_child
+  label: Miraculous Child and Sacred Birth
+  total: 1308
   first_attestation:
     year: -1700
     text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
     tradition: mesopotamian
   eras:
   - era: deep_bronze
-    count: 1
+    count: 4
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 10
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 290
+    tradition_count: 2
+    traditions:
+    - biblical
+    - greek
+  - era: classical
+    count: 295
+    tradition_count: 7
+    traditions:
+    - biblical
+    - buddhist
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 138
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 137
+    tradition_count: 5
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - sufi
+  - era: early_modern_recorded
+    count: 434
+    tradition_count: 27
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: initiation
+  label: Initiation and Transformative Ordeal
+  total: 1224
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 15
     tradition_count: 1
     traditions:
     - mesopotamian
@@ -363,149 +839,272 @@ families:
     traditions:
     - egyptian
   - era: axial
-    count: 46
-    tradition_count: 3
-    traditions:
-    - biblical
-    - greek
-    - hindu
-  - era: classical
-    count: 76
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 355
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 92
-    tradition_count: 5
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 257
-    tradition_count: 13
-    traditions:
-    - ainu
-    - buddhist
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - mesoamerican
-    - norse
-    - persian
-    - sufi
-- family: royal_legitimacy
-  label: Royal Legitimacy and Sacred Kingship
-  total: 715
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 101
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
-    count: 296
+    count: 137
     tradition_count: 4
     traditions:
+    - biblical
+    - confucian
+    - greek
+    - hindu
+  - era: classical
+    count: 172
+    tradition_count: 7
+    traditions:
+    - biblical
+    - buddhist
     - confucian
     - daoist
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 66
-    tradition_count: 2
+    count: 165
+    tradition_count: 3
     traditions:
     - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 98
-    tradition_count: 5
+    count: 225
+    tradition_count: 6
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
     - norse
     - persian
     - sufi
   - era: early_modern_recorded
-    count: 154
-    tradition_count: 12
+    count: 508
+    tradition_count: 25
     traditions:
-    - buddhist
+    - afro-caribbean
+    - australian-aboriginal
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
-    - greek
+    - germanic
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
     - norse
     - persian
+    - slavic
     - sufi
-- family: sacrifice
-  label: Sacrifice and Offering
-  total: 634
+    - zuni
+- family: shapeshifter
+  label: Shapeshifter and Transformation
+  total: 1199
   first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
+    year: -1310
+    text: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    tradition: egyptian
   eras:
   - era: deep_bronze
     count: 0
     tradition_count: 0
     traditions: []
   - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
+    count: 3
+    tradition_count: 1
+    traditions:
+    - egyptian
   - era: axial
-    count: 121
+    count: 111
     tradition_count: 2
     traditions:
     - biblical
     - greek
   - era: classical
-    count: 200
+    count: 265
+    tradition_count: 6
+    traditions:
+    - biblical
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 42
     tradition_count: 3
     traditions:
-    - daoist
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 192
+    tradition_count: 5
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - sufi
+  - era: early_modern_recorded
+    count: 586
+    tradition_count: 28
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: sacred_love
+  label: Sacred Love and Longing
+  total: 1133
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 2
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: axial
+    count: 122
+    tradition_count: 2
+    traditions:
+    - biblical
+    - greek
+  - era: classical
+    count: 402
+    tradition_count: 4
+    traditions:
+    - biblical
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 86
+    count: 7
     tradition_count: 2
     traditions:
-    - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 33
+    count: 139
+    tradition_count: 5
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - sufi
+  - era: early_modern_recorded
+    count: 461
+    tradition_count: 25
+    traditions:
+    - afro-caribbean
+    - ainu
+    - australian-aboriginal
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: ascent
+  label: Ascent and Heavenly Journey
+  total: 1036
+  first_attestation:
+    year: -1310
+    text: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    tradition: egyptian
+  eras:
+  - era: deep_bronze
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: late_bronze_iron
+    count: 4
+    tradition_count: 1
+    traditions:
+    - egyptian
+  - era: axial
+    count: 159
+    tradition_count: 4
+    traditions:
+    - biblical
+    - confucian
+    - greek
+    - hindu
+  - era: classical
+    count: 203
+    tradition_count: 8
+    traditions:
+    - biblical
+    - buddhist
+    - confucian
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 223
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 58
     tradition_count: 5
     traditions:
     - celtic-irish
@@ -514,23 +1113,41 @@ families:
     - persian
     - sufi
   - era: early_modern_recorded
-    count: 194
-    tradition_count: 11
+    count: 389
+    tradition_count: 29
     traditions:
-    - buddhist
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
     - norse
+    - persian
+    - slavic
     - sufi
-- family: miraculous_child
-  label: Miraculous Child and Sacred Birth
-  total: 613
+    - zuni
+- family: trickster
+  label: Trickster and Boundary Crosser
+  total: 949
   first_attestation:
     year: -700
     text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
@@ -545,49 +1162,71 @@ families:
     tradition_count: 0
     traditions: []
   - era: axial
-    count: 149
-    tradition_count: 1
+    count: 90
+    tradition_count: 2
     traditions:
+    - biblical
     - greek
   - era: classical
-    count: 176
+    count: 69
     tradition_count: 3
     traditions:
-    - daoist
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 68
+    count: 53
     tradition_count: 2
     traditions:
     - buddhist
     - islamic
   - era: medieval
-    count: 51
-    tradition_count: 4
+    count: 130
+    tradition_count: 6
     traditions:
     - celtic-irish
     - celtic-welsh
-    - norse
-    - sufi
-  - era: early_modern_recorded
-    count: 169
-    tradition_count: 11
-    traditions:
-    - ainu
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
+    - germanic
     - norse
     - persian
     - sufi
-- family: initiation
-  label: Initiation and Transformative Ordeal
-  total: 557
+  - era: early_modern_recorded
+    count: 607
+    tradition_count: 30
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: afterlife_passage
+  label: Afterlife Navigation and Passage
+  total: 875
   first_attestation:
     year: -1700
     text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
@@ -599,113 +1238,243 @@ families:
     traditions:
     - mesopotamian
   - era: late_bronze_iron
-    count: 1
+    count: 11
     tradition_count: 1
     traditions:
     - egyptian
   - era: axial
-    count: 97
-    tradition_count: 4
+    count: 104
+    tradition_count: 3
     traditions:
     - biblical
-    - confucian
     - greek
     - hindu
   - era: classical
-    count: 94
-    tradition_count: 4
+    count: 138
+    tradition_count: 6
     traditions:
+    - biblical
     - buddhist
-    - daoist
+    - greek
     - hindu
+    - jewish-pseudepigrapha
     - roman
   - era: late_antique
-    count: 64
-    tradition_count: 2
+    count: 259
+    tradition_count: 3
     traditions:
     - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 133
+    count: 96
     tradition_count: 5
     traditions:
     - celtic-irish
-    - celtic-welsh
+    - germanic
     - norse
     - persian
     - sufi
   - era: early_modern_recorded
-    count: 167
-    tradition_count: 11
+    count: 266
+    tradition_count: 22
     traditions:
+    - ainu
+    - australian-aboriginal
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
+    - greek
     - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
+    - hawaiian
+    - hopi
+    - inuit
     - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: duality
+  label: Duality and Cosmic Opposition
+  total: 795
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 15
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 4
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 177
+    tradition_count: 5
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+    - hindu
+  - era: classical
+    count: 106
+    tradition_count: 7
+    traditions:
+    - biblical
+    - buddhist
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 208
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 71
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
     - norse
     - persian
     - sufi
-- family: sacred_love
-  label: Sacred Love and Longing
-  total: 545
+  - era: early_modern_recorded
+    count: 214
+    tradition_count: 27
+    traditions:
+    - afro-caribbean
+    - ainu
+    - australian-aboriginal
+    - buddhist
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - inuit
+    - islamicate-folklore
+    - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: serpent_guardian
+  label: Serpent and Serpent Guardian
+  total: 761
   first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
   eras:
   - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 71
+    count: 1
     tradition_count: 1
     traditions:
-    - greek
-  - era: classical
-    count: 226
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 10
     tradition_count: 2
     traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 60
+    tradition_count: 2
+    traditions:
+    - biblical
+    - greek
+  - era: classical
+    count: 157
+    tradition_count: 5
+    traditions:
+    - biblical
+    - daoist
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 5
-    tradition_count: 1
+    count: 58
+    tradition_count: 3
     traditions:
+    - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 55
-    tradition_count: 3
+    count: 121
+    tradition_count: 6
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
+    - norse
+    - persian
     - sufi
   - era: early_modern_recorded
-    count: 188
-    tradition_count: 11
+    count: 354
+    tradition_count: 29
     traditions:
+    - afro-caribbean
     - ainu
+    - akan
+    - australian-aboriginal
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
     - norse
+    - persian
+    - slavic
     - sufi
-- family: shapeshifter
-  label: Shapeshifter and Transformation
-  total: 525
+    - zuni
+- family: covenant
+  label: Covenant and Sacred Bond
+  total: 749
   first_attestation:
     year: -1310
     text: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
@@ -715,6 +1484,164 @@ families:
     count: 0
     tradition_count: 0
     traditions: []
+  - era: late_bronze_iron
+    count: 1
+    tradition_count: 1
+    traditions:
+    - egyptian
+  - era: axial
+    count: 196
+    tradition_count: 3
+    traditions:
+    - biblical
+    - daoist
+    - greek
+  - era: classical
+    count: 99
+    tradition_count: 6
+    traditions:
+    - biblical
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 311
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 86
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 56
+    tradition_count: 18
+    traditions:
+    - akan
+    - australian-aboriginal
+    - celtic-irish
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek
+    - greek-roman
+    - hawaiian
+    - hopi
+    - khoisan-south-african
+    - maya
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+- family: axis_mundi
+  label: World Axis and Sacred Center
+  total: 678
+  first_attestation:
+    year: -1310
+    text: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+    tradition: egyptian
+  eras:
+  - era: deep_bronze
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: late_bronze_iron
+    count: 6
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 117
+    tradition_count: 4
+    traditions:
+    - biblical
+    - confucian
+    - greek
+    - hindu
+  - era: classical
+    count: 137
+    tradition_count: 7
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 127
+    tradition_count: 3
+    traditions:
+    - buddhist
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 64
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 227
+    tradition_count: 26
+    traditions:
+    - afro-caribbean
+    - ainu
+    - akan
+    - australian-aboriginal
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - islamicate-folklore
+    - japanese
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: sacred_time
+  label: Sacred Time and Ritual Cycle
+  total: 596
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 5
+    tradition_count: 1
+    traditions:
+    - mesopotamian
   - era: late_bronze_iron
     count: 1
     tradition_count: 1
@@ -722,633 +1649,403 @@ families:
     - egyptian
   - era: axial
     count: 73
-    tradition_count: 1
-    traditions:
-    - greek
-  - era: classical
-    count: 193
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 23
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 74
     tradition_count: 4
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-    - sufi
-  - era: early_modern_recorded
-    count: 161
-    tradition_count: 12
-    traditions:
-    - ainu
-    - buddhist
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - norse
-    - sufi
-- family: ascent
-  label: Ascent and Heavenly Journey
-  total: 419
-  first_attestation:
-    year: -1310
-    text: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
-    tradition: egyptian
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 1
-    tradition_count: 1
-    traditions:
-    - egyptian
-  - era: axial
-    count: 92
-    tradition_count: 2
     traditions:
     - biblical
+    - confucian
     - greek
-  - era: classical
-    count: 89
-    tradition_count: 3
-    traditions:
-    - daoist
     - hindu
+  - era: classical
+    count: 59
+    tradition_count: 7
+    traditions:
+    - biblical
+    - confucian
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
     - roman
   - era: late_antique
-    count: 80
-    tradition_count: 2
+    count: 54
+    tradition_count: 3
     traditions:
     - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 42
-    tradition_count: 4
+    count: 44
+    tradition_count: 6
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
+    - norse
     - persian
     - sufi
   - era: early_modern_recorded
-    count: 115
-    tradition_count: 11
+    count: 360
+    tradition_count: 24
     traditions:
-    - ainu
+    - australian-aboriginal
+    - buddhist
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
-    - islamicate-folklore
+    - inuit
     - japanese
+    - khoisan-south-african
+    - maya
+    - nahua-maya-inca
+    - navajo
     - norse
+    - persian
+    - slavic
     - sufi
-- family: duality
-  label: Duality and Cosmic Opposition
-  total: 398
+    - zuni
+- family: culture_hero
+  label: Culture Hero and Founder
+  total: 562
   first_attestation:
     year: -1700
     text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
     tradition: mesopotamian
   eras:
   - era: deep_bronze
-    count: 1
+    count: 7
     tradition_count: 1
     traditions:
     - mesopotamian
   - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
+    count: 1
+    tradition_count: 1
+    traditions:
+    - mesopotamian
   - era: axial
-    count: 137
+    count: 49
     tradition_count: 2
     traditions:
-    - daoist
+    - biblical
     - greek
   - era: classical
-    count: 49
-    tradition_count: 3
+    count: 72
+    tradition_count: 6
     traditions:
+    - biblical
+    - confucian
     - daoist
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 64
-    tradition_count: 1
+    count: 24
+    tradition_count: 2
     traditions:
+    - buddhist
     - islamic
   - era: medieval
-    count: 44
-    tradition_count: 4
+    count: 66
+    tradition_count: 5
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
+    - norse
     - persian
-    - sufi
   - era: early_modern_recorded
-    count: 103
-    tradition_count: 11
+    count: 343
+    tradition_count: 26
     traditions:
+    - afro-caribbean
     - ainu
-    - buddhist
+    - akan
+    - australian-aboriginal
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - islamicate-folklore
     - japanese
+    - khoisan-south-african
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
     - norse
     - persian
-    - sufi
-- family: afterlife_passage
-  label: Afterlife Navigation and Passage
-  total: 367
+    - slavic
+    - zuni
+- family: sacred_twins
+  label: Sacred Twins and Sibling Pairs
+  total: 547
   first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
   eras:
   - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
+    count: 6
+    tradition_count: 1
+    traditions:
+    - mesopotamian
   - era: late_bronze_iron
     count: 0
     tradition_count: 0
     traditions: []
   - era: axial
     count: 63
-    tradition_count: 1
+    tradition_count: 2
     traditions:
+    - biblical
     - greek
   - era: classical
-    count: 65
-    tradition_count: 2
-    traditions:
-    - hindu
-    - roman
-  - era: late_antique
-    count: 101
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 41
-    tradition_count: 3
-    traditions:
-    - celtic-irish
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 97
-    tradition_count: 8
-    traditions:
-    - ainu
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - norse
-    - sufi
-- family: trickster
-  label: Trickster and Boundary Crosser
-  total: 365
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 58
-    tradition_count: 1
-    traditions:
-    - greek
-  - era: classical
-    count: 45
-    tradition_count: 2
-    traditions:
-    - hindu
-    - roman
-  - era: late_antique
-    count: 36
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 56
+    count: 152
     tradition_count: 5
     traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 170
-    tradition_count: 13
-    traditions:
-    - ainu
-    - buddhist
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - mesoamerican
-    - norse
-    - sufi
-- family: axis_mundi
-  label: World Axis and Sacred Center
-  total: 340
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 45
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
-    count: 76
-    tradition_count: 3
-    traditions:
     - daoist
+    - greek
     - hindu
+    - jewish-pseudepigrapha
     - roman
   - era: late_antique
-    count: 83
+    count: 27
     tradition_count: 2
     traditions:
-    - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 25
-    tradition_count: 5
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 111
-    tradition_count: 11
-    traditions:
-    - ainu
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - norse
-    - persian
-    - sufi
-- family: sacred_time
-  label: Sacred Time and Ritual Cycle
-  total: 327
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 30
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
-    count: 32
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 26
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 26
-    tradition_count: 4
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 213
-    tradition_count: 11
-    traditions:
-    - buddhist
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - indigenous-australian
-    - japanese
-    - norse
-    - persian
-    - sufi
-- family: covenant
-  label: Covenant and Sacred Bond
-  total: 303
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 31
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
     count: 44
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 176
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 28
     tradition_count: 4
     traditions:
     - celtic-irish
     - celtic-welsh
-    - persian
-    - sufi
-  - era: early_modern_recorded
-    count: 24
-    tradition_count: 6
-    traditions:
-    - celtic-irish
-    - finnish-karelian
-    - greek
-    - greek-roman
+    - germanic
     - norse
-    - sufi
-- family: serpent_guardian
-  label: Serpent and Serpent Guardian
-  total: 273
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 26
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
-    count: 95
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 29
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 21
-    tradition_count: 5
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-    - persian
-    - sufi
   - era: early_modern_recorded
-    count: 102
-    tradition_count: 11
+    count: 255
+    tradition_count: 27
     traditions:
+    - afro-caribbean
     - ainu
+    - akan
+    - australian-aboriginal
+    - buddhist
     - celtic-irish
-    - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
     - norse
-    - sufi
-- family: culture_hero
-  label: Culture Hero and Founder
-  total: 233
+    - persian
+    - slavic
+    - zuni
+- family: flood_and_renewal
+  label: Flood, Fire, and Cosmic Renewal
+  total: 528
   first_attestation:
     year: -1700
     text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
     tradition: mesopotamian
   eras:
   - era: deep_bronze
-    count: 1
+    count: 7
     tradition_count: 1
     traditions:
     - mesopotamian
   - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
+    count: 5
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
   - era: axial
-    count: 29
-    tradition_count: 1
-    traditions:
-    - greek
-  - era: classical
-    count: 47
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 11
-    tradition_count: 1
-    traditions:
-    - islamic
-  - era: medieval
-    count: 37
-    tradition_count: 3
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - persian
-  - era: early_modern_recorded
-    count: 108
-    tradition_count: 10
-    traditions:
-    - ainu
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - norse
-- family: flood_and_renewal
-  label: Flood, Fire, and Cosmic Renewal
-  total: 205
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 19
+    count: 55
     tradition_count: 2
     traditions:
     - biblical
     - greek
   - era: classical
-    count: 61
-    tradition_count: 3
+    count: 116
+    tradition_count: 7
     traditions:
+    - biblical
+    - confucian
     - daoist
+    - greek
     - hindu
+    - jewish-pseudepigrapha
     - roman
   - era: late_antique
-    count: 64
-    tradition_count: 2
+    count: 129
+    tradition_count: 3
     traditions:
     - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 17
-    tradition_count: 3
+    count: 52
+    tradition_count: 5
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
+    - norse
     - sufi
   - era: early_modern_recorded
-    count: 44
-    tradition_count: 13
+    count: 164
+    tradition_count: 26
     traditions:
     - ainu
+    - akan
+    - australian-aboriginal
     - buddhist
     - celtic-irish
     - comparative
+    - egyptian
+    - estonian
     - finnish-karelian
+    - germanic
     - greek
     - greek-roman
+    - hawaiian
+    - hopi
     - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
     - mesoamerican
+    - nahua-maya-inca
+    - navajo
     - norse
+    - persian
+    - slavic
     - sufi
+    - zuni
 - family: cosmic_origin
   label: Cosmic Origin and Creation
-  total: 175
+  total: 506
   first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
   eras:
   - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
+    count: 3
+    tradition_count: 1
+    traditions:
+    - mesopotamian
   - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
+    count: 16
+    tradition_count: 2
+    traditions:
+    - egyptian
+    - mesopotamian
+  - era: axial
+    count: 76
+    tradition_count: 3
+    traditions:
+    - biblical
+    - daoist
+    - greek
+  - era: classical
+    count: 107
+    tradition_count: 6
+    traditions:
+    - biblical
+    - daoist
+    - greek
+    - hindu
+    - jewish-pseudepigrapha
+    - roman
+  - era: late_antique
+    count: 113
+    tradition_count: 2
+    traditions:
+    - gnostic
+    - islamic
+  - era: medieval
+    count: 67
+    tradition_count: 6
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - germanic
+    - norse
+    - persian
+    - sufi
+  - era: early_modern_recorded
+    count: 124
+    tradition_count: 23
+    traditions:
+    - afro-caribbean
+    - ainu
+    - australian-aboriginal
+    - celtic-irish
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek-roman
+    - hawaiian
+    - hopi
+    - islamicate-folklore
+    - japanese
+    - maya
+    - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
+    - norse
+    - persian
+    - slavic
+    - sufi
+    - zuni
+- family: descent
+  label: Descent and Underworld Journey
+  total: 348
+  first_attestation:
+    year: -1700
+    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 2
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: late_bronze_iron
+    count: 1
+    tradition_count: 1
+    traditions:
+    - egyptian
   - era: axial
     count: 29
     tradition_count: 2
@@ -1357,300 +2054,227 @@ families:
     - greek
   - era: classical
     count: 50
-    tradition_count: 3
+    tradition_count: 4
     traditions:
     - daoist
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 33
-    tradition_count: 1
+    count: 22
+    tradition_count: 3
     traditions:
+    - buddhist
+    - gnostic
     - islamic
   - era: medieval
-    count: 18
-    tradition_count: 5
+    count: 33
+    tradition_count: 4
     traditions:
     - celtic-irish
     - celtic-welsh
+    - germanic
     - norse
-    - persian
-    - sufi
   - era: early_modern_recorded
-    count: 45
-    tradition_count: 9
+    count: 211
+    tradition_count: 22
     traditions:
     - ainu
+    - akan
+    - celtic-irish
+    - comparative
+    - estonian
     - finnish-karelian
+    - germanic
     - greek-roman
+    - hawaiian
+    - hopi
+    - indigenous-australian
+    - inuit
     - islamicate-folklore
     - japanese
     - mesoamerican
+    - mongol
+    - nahua-maya-inca
+    - navajo
     - norse
     - persian
-    - sufi
-- family: sacred_twins
-  label: Sacred Twins and Sibling Pairs
-  total: 163
+    - slavic
+    - zuni
+- family: mother_goddess
+  label: Sacred Feminine and Mother Goddess
+  total: 140
   first_attestation:
-    year: -1700
-    text: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+    year: -1150
+    text: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
     tradition: mesopotamian
   eras:
   - era: deep_bronze
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: late_bronze_iron
+    count: 4
+    tradition_count: 1
+    traditions:
+    - mesopotamian
+  - era: axial
+    count: 35
+    tradition_count: 2
+    traditions:
+    - daoist
+    - greek
+  - era: classical
+    count: 13
+    tradition_count: 3
+    traditions:
+    - greek
+    - hindu
+    - roman
+  - era: late_antique
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: medieval
+    count: 2
+    tradition_count: 1
+    traditions:
+    - celtic-irish
+  - era: early_modern_recorded
+    count: 86
+    tradition_count: 13
+    traditions:
+    - australian-aboriginal
+    - celtic-irish
+    - comparative
+    - egyptian
+    - estonian
+    - finnish-karelian
+    - greek-roman
+    - hopi
+    - inuit
+    - japanese
+    - nahua-maya-inca
+    - navajo
+    - norse
+- family: sacred_waters
+  label: Sacred Waters and Passage Through Water
+  total: 118
+  first_attestation:
+    year: -1150
+    text: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+    tradition: mesopotamian
+  eras:
+  - era: deep_bronze
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: late_bronze_iron
     count: 1
     tradition_count: 1
     traditions:
     - mesopotamian
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
   - era: axial
-    count: 27
-    tradition_count: 1
-    traditions:
-    - greek
-  - era: classical
-    count: 84
-    tradition_count: 3
-    traditions:
-    - daoist
-    - hindu
-    - roman
-  - era: late_antique
-    count: 10
-    tradition_count: 1
-    traditions:
-    - islamic
-  - era: medieval
-    count: 6
-    tradition_count: 3
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-  - era: early_modern_recorded
-    count: 35
-    tradition_count: 11
-    traditions:
-    - ainu
-    - buddhist
-    - celtic-irish
-    - finnish-karelian
-    - greek
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - mesoamerican
-    - norse
-- family: descent
-  label: Descent and Underworld Journey
-  total: 141
-  first_attestation:
-    year: -1310
-    text: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
-    tradition: egyptian
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 1
-    tradition_count: 1
-    traditions:
-    - egyptian
-  - era: axial
-    count: 24
+    count: 22
     tradition_count: 2
     traditions:
     - biblical
     - greek
   - era: classical
-    count: 34
+    count: 30
     tradition_count: 3
     traditions:
-    - daoist
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 11
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 12
-    tradition_count: 3
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - norse
-  - era: early_modern_recorded
-    count: 59
-    tradition_count: 10
-    traditions:
-    - ainu
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek-roman
-    - indigenous-australian
-    - islamicate-folklore
-    - japanese
-    - mesoamerican
-    - norse
-- family: sacred_waters
-  label: Sacred Waters and Passage Through Water
-  total: 86
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 13
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
-    count: 24
-    tradition_count: 2
-    traditions:
-    - hindu
-    - roman
-  - era: late_antique
-    count: 10
-    tradition_count: 2
-    traditions:
-    - buddhist
-    - islamic
-  - era: medieval
-    count: 11
-    tradition_count: 3
-    traditions:
-    - celtic-irish
-    - celtic-welsh
-    - sufi
-  - era: early_modern_recorded
-    count: 28
-    tradition_count: 9
-    traditions:
-    - buddhist
-    - celtic-irish
-    - comparative
-    - finnish-karelian
-    - greek-roman
-    - islamicate-folklore
-    - japanese
-    - norse
-    - sufi
-- family: mother_goddess
-  label: Sacred Feminine and Mother Goddess
-  total: 72
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 20
-    tradition_count: 2
-    traditions:
-    - daoist
-    - greek
-  - era: classical
-    count: 10
-    tradition_count: 2
-    traditions:
-    - hindu
-    - roman
-  - era: late_antique
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: medieval
-    count: 1
-    tradition_count: 1
-    traditions:
-    - celtic-irish
-  - era: early_modern_recorded
-    count: 41
-    tradition_count: 5
-    traditions:
-    - comparative
-    - finnish-karelian
-    - greek-roman
-    - japanese
-    - norse
-- family: sacred_fire
-  label: Sacred Fire and Divine Light
-  total: 61
-  first_attestation:
-    year: -700
-    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
-    tradition: greek
-  eras:
-  - era: deep_bronze
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: late_bronze_iron
-    count: 0
-    tradition_count: 0
-    traditions: []
-  - era: axial
-    count: 9
-    tradition_count: 2
-    traditions:
-    - biblical
-    - greek
-  - era: classical
     count: 15
     tradition_count: 2
     traditions:
+    - buddhist
+    - islamic
+  - era: medieval
+    count: 13
+    tradition_count: 4
+    traditions:
+    - celtic-irish
+    - celtic-welsh
+    - norse
+    - sufi
+  - era: early_modern_recorded
+    count: 37
+    tradition_count: 14
+    traditions:
+    - buddhist
+    - celtic-irish
+    - comparative
+    - estonian
+    - finnish-karelian
+    - germanic
+    - greek-roman
+    - hawaiian
+    - hopi
+    - islamicate-folklore
+    - japanese
+    - nahua-maya-inca
+    - norse
+    - sufi
+- family: sacred_fire
+  label: Sacred Fire and Divine Light
+  total: 84
+  first_attestation:
+    year: -700
+    text: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+    tradition: greek
+  eras:
+  - era: deep_bronze
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: late_bronze_iron
+    count: 0
+    tradition_count: 0
+    traditions: []
+  - era: axial
+    count: 13
+    tradition_count: 2
+    traditions:
+    - biblical
+    - greek
+  - era: classical
+    count: 20
+    tradition_count: 4
+    traditions:
+    - biblical
+    - greek
     - hindu
     - roman
   - era: late_antique
-    count: 13
+    count: 16
     tradition_count: 2
     traditions:
     - buddhist
     - islamic
   - era: medieval
-    count: 8
-    tradition_count: 2
+    count: 13
+    tradition_count: 3
     traditions:
     - celtic-irish
+    - norse
     - sufi
   - era: early_modern_recorded
-    count: 16
-    tradition_count: 6
+    count: 22
+    tradition_count: 10
     traditions:
+    - akan
     - comparative
     - finnish-karelian
     - greek-roman
     - islamicate-folklore
+    - nahua-maya-inca
     - norse
+    - persian
+    - slavic
     - sufi
 - family: sacred_law
   label: Sacred Law and Social Order

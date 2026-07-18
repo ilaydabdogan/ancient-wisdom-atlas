@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l21167-l21181
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XIII. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 21167-21181
+  start: '21167'
+  end: '21181'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“the mother of the book; by which is meant the preserved table”"
+  summary: The notes explain that a passage was revealed in response to reproaches
+    against Mohammed about his wives; report a Jewish criticism and maxim about carnality
+    and prophecy; define “the mother of the book” as the preserved table from which
+    written revelations are transcripts; and identify the intended persons as Jewish
+    doctors.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note says the passage was revealed in answer to reproaches cast on Mohammed
+    because of the great number of his wives.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Jews are reported as saying that, if Mohammed were a true prophet, his
+    attention would be directed to something other than women and having children.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note reports a Jewish maxim that carnality is repugnant to prophecy.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The phrase “mother of the book” is explained as meaning the preserved table.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Written revelations published to mankind across several dispensations are
+    described as transcripts from the preserved table.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The persons intended in the noted passage are said to have been Jewish doctors.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The numbered notes cite Jallalo'ddin, Yahya, Maimonides, and Al Beidwi as
+    authorities.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: The person against whom reproaches were cast because of the great number
+    of his wives.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jews
+  description: A collective group reported as reproaching Mohammed and stating a standard
+    for a true prophet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Jewish doctors
+  description: The persons said to be intended in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: mankind
+  description: The collective recipients to whom written revelations are said to have
+    been published over time.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: object of reproaches
+  assigned_to:
+  - fig:1
+  basis: The note states that reproaches were cast on Mohammed because of the number
+    of his wives.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reported critics of prophetic conduct
+  assigned_to:
+  - fig:2
+  basis: The Jews are described as saying that a true prophet would attend to matters
+    other than women and children, and as having a maxim against carnality in prophecy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: identified intended persons
+  assigned_to:
+  - fig:3
+  basis: The note says the persons intended in the passage were Jewish doctors.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipients of written revelations
+  assigned_to:
+  - fig:4
+  basis: Written revelations are described as having been published to mankind according
+    to several dispensations.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mother of the book
+  literal_form: A phrase glossed as “the mother of the book.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: preserved table
+  literal_form: A preserved table from which written revelations are transcripts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: written revelations
+  literal_form: Written revelations published over time to mankind according to several
+    dispensations.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Reproach concerning wives and children
+  summary: A note explains that a passage responded to reproaches against Mohammed,
+    with Jews reported as saying that a true prophet would not be occupied with women
+    and children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Explanation of the mother of the book
+  summary: The phrase “mother of the book” is glossed as the preserved table, from
+    which written revelations to mankind are described as transcripts.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Identification of intended persons
+  summary: The note states that the persons intended in the passage were Jewish doctors.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Preserved archetype of revelation
+  taxonomy_refs: []
+  basis: The preserved table is presented as the source or archetype from which written
+    revelations to mankind are transcripts.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a translator's or commentator's note rather than a narrative
+    episode; no available symbol taxonomy entry directly matches book or table imagery.
+- id: motif:2
+  label: Carnality opposed to prophetic vocation
+  taxonomy_refs: []
+  basis: The Jews are reported as criticizing Mohammed's attention to wives and children,
+    and a Jewish maxim is cited that carnality is repugnant to prophecy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The claim is presented as reported polemic and commentary, not as a developed
+    mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly links the reproach against Mohammed to a Jewish maxim
+    that carnality is incompatible with prophecy.
+  claim_level: same_function
+  target: Jewish maxim concerning prophecy and carnality
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to the note and relies on cited authorities;
+    the passage does not quote a primary Jewish text at length.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21167-21171
+  quote_or_summary: The passage was revealed in answer to reproaches against Mohammed
+    over the number of his wives; the Jews reportedly said a true prophet would attend
+    to something other than women and children.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 21171-21172
+  quote_or_summary: "“it is a maxim of the Jews that nothing is more repugnant to
+    prophecy than carnality.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 21174-21177
+  quote_or_summary: "“the mother of the book; by which is meant the preserved table,”
+    from which written revelations published to mankind are “transcripts.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 21179-21180
+  quote_or_summary: "“The persons intended in this passage, it is said, were the Jewish
+    doctors.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:5
+  type: citation
+  locator: line 21181
+  quote_or_summary: The numbered notes cite Jallalo'ddin and Yahya for note 7, Maimonides'
+    More Nev. for note 8, and Al Beidwi for note 9.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; citation summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly explanatory footnotes and commentary, so literal extraction
+    is straightforward but motif assignment is interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol exactly matches the book/table imagery in this passage; taxonomy_refs were left empty where unsupported.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l21167-l21181
+  passage_sha256=cde730e05e30df0ad73076862e366d702fdbc3e0bbea70de71c7cd16e28ed41a
+

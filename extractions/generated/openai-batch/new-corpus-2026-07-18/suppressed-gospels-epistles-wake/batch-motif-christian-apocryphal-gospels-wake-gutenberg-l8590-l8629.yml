@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8590-l8629
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER II. / CHAPTER I. / CHAPTER II. / CHAPTER III.; lines 8590-8629
+  start: '8590'
+  end: '8629'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Seneca tells Paul that he has completed and arranged volumes, plans to
+    read them to Caesar, hopes Paul may be present, and wants Paul's opinion before
+    publication. Paul replies that reading Seneca's letters makes him imagine Seneca
+    present with him and wishes him prosperity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Annaeus Seneca reports that he has completed volumes and divided them into
+    proper parts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seneca intends to read the completed work to Caesar if a favorable opportunity
+    occurs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Seneca says Paul may be present when the volumes are read if circumstances
+    permit.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: If Paul cannot be present for the reading to Caesar, Seneca will appoint a
+    day for the two of them to read the work together.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Seneca wanted Paul's opinion before publishing the work to Caesar, if this
+    could be done safely.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Seneca describes his request as showing his affection for Paul.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Paul replies that when he reads Seneca's letters he imagines Seneca present
+    with him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Paul says that when Seneca begins to come, they will see each other, and he
+    wishes Seneca prosperity.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Annaeus Seneca
+  description: Sender of the first letter; says he has completed volumes, plans a
+    reading to Caesar, and seeks Paul's opinion.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Paul
+  description: Addressee of Seneca's letter and sender of the reply; imagined as present
+    through letters and asked for an opinion on Seneca's work.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Caesar
+  description: Named as the intended recipient or audience before whom Seneca plans
+    to read or publish the work.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: author/compiler
+  assigned_to:
+  - fig:1
+  basis: Seneca says he has completed volumes and divided them into parts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: correspondent seeking counsel
+  assigned_to:
+  - fig:1
+  basis: Seneca writes to Paul and seeks Paul's opinion before presenting the work
+    to Caesar.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: trusted reader or adviser
+  assigned_to:
+  - fig:2
+  basis: Seneca wants Paul's opinion before publication, and Paul replies to Seneca's
+    letters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: correspondent expressing imagined presence
+  assigned_to:
+  - fig:2
+  basis: Paul says reading Seneca's letters makes him imagine Seneca present with
+    him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ruler or imperial audience
+  assigned_to:
+  - fig:3
+  basis: Seneca plans to read or publish the work to Caesar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: letters as mediated presence
+  literal_form: letters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: completed volumes
+  literal_form: volumes divided into proper parts
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Seneca prepares a public or imperial reading
+  summary: Seneca tells Paul that he has completed arranged volumes and hopes to read
+    them to Caesar, with Paul present if possible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seneca seeks Paul's private opinion
+  summary: Seneca says that if joint attendance is not possible, he will arrange another
+    day for the two of them to read the work, and that he had wanted Paul's opinion
+    before publication to Caesar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Paul answers through epistolary presence
+  summary: Paul replies that reading Seneca's letters makes him imagine Seneca present
+    and expresses hope that they will soon see each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: seeking trusted counsel before public presentation
+  taxonomy_refs:
+  - wisdom
+  basis: Seneca seeks Paul's opinion on completed writings before presenting or publishing
+    them to Caesar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents counsel in an epistolary and literary setting; it
+    does not frame the request as a mythic test or revelation.
+- id: motif:2
+  label: presence mediated by letters
+  taxonomy_refs: []
+  basis: Paul says that when he reads Seneca's letters he imagines Seneca present
+    with him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a literary-religious correspondence motif rather than a clearly
+    mythological motif.
+- id: motif:3
+  label: presentation of writings to a ruler
+  taxonomy_refs: []
+  basis: Seneca intends to read or publish his completed work to Caesar and considers
+    safety and timing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no further narrative consequences or symbolic framing
+    for the presentation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8590-8599
+  quote_or_summary: Seneca greets Paul, states that he has completed volumes and divided
+    them into proper parts, and says he intends to read them to Caesar with Paul present
+    if opportunity allows.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8600-8610
+  quote_or_summary: Seneca says that if Paul cannot attend the reading, he will set
+    a day for them to read the work together; he had wanted Paul's opinion before
+    publishing it to Caesar, as evidence of affection.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8611-8629
+  quote_or_summary: Paul replies that reading Seneca's letters makes him imagine Seneca
+    present; he expects they will see each other when Seneca begins to come and wishes
+    him prosperity.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a brief epistolary exchange with clear figures and actions
+    but limited mythological symbolism. Motif candidates are literary and relational
+    rather than strongly mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another tradition or motif family beyond the candidate motif classification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8590-l8629
+  passage_sha256=8c228af5998b015cd8a256b701445209e4ee9285c6c696b7304fcea47cd9ea73
+

@@ -1,0 +1,178 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l13942-l13950
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'FOOTNOTES: / CHAPTER V. / GHOST STORIES. / FOOTNOTES:; lines 13942-13950'
+  start: '13942'
+  end: '13950'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"the longing of Rakshasas and Vetalas for human flesh"'
+  summary: A footnote cites sources on vampires, turnskins, wizards, and witches,
+    and notes that some stories about Rakshasas and Vetalas longing for human flesh
+    strongly resemble Slavonic vampire tales.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The footnote names vampires, turnskins, wizards, and witches as subjects treated
+    in Afanasief's work.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The footnote names Tylor's Primitive Culture as another treatment of the subject.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The footnote refers to stories about Rakshasas and Vetalas longing for human
+    flesh.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The footnote states that some of those Rakshasa and Vetala stories strongly
+    resemble Slavonic vampire tales.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: vampires
+  description: A folkloric category named among beings discussed in the cited sources
+    and in Slavonic vampire tales.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: turnskins
+  description: A folkloric category named with vampires, wizards, and witches in the
+    cited source note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: wizards and witches
+  description: Folkloric categories named with vampires and turnskins in the cited
+    source note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Rakshasas and Vetalas
+  description: Beings in cited stories described as longing for human flesh.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: subjects of cited folklore information
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The footnote says information about these beings will be found in Afanasief.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: human-flesh-longing beings
+  assigned_to:
+  - fig:4
+  basis: The cited stories are described as being about Rakshasas and Vetalas longing
+    for human flesh.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: figures in a stated cross-tradition resemblance
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The footnote says some Rakshasa and Vetala stories bear a strong resemblance
+    to Slavonic vampire tales.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: human flesh
+  literal_form: human flesh
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: vampire-like longing for human flesh
+  taxonomy_refs: []
+  basis: The passage identifies stories about Rakshasas and Vetalas longing for human
+    flesh and says some resemble Slavonic vampire tales.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The footnote gives only a bibliographic comparison and does not narrate
+    the stories or specify exact shared plot details.
+comparison_claims:
+- id: claim:1
+  claim: Some cited stories about Rakshasas and Vetalas are presented as strongly
+    resembling Slavonic vampire tales, with the longing for human flesh named as the
+    relevant feature in the note.
+  claim_level: same_motif
+  target: Slavonic vampire tales compared with Rakshasa and Vetala stories in the
+    cited Kathasaritsagara translation
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide the full stories, a historical explanation,
+    or enough detail to distinguish contact, inheritance, or independent recurrence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13942-13945
+  quote_or_summary: '"A great deal of information about vampires, and also about turnskins,
+    wizards and witches, will be found in Afanasief"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 13945-13947
+  quote_or_summary: '"The subject has been treated with his usual judgment and learning
+    by Mr. Tylor"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13947-13950
+  quote_or_summary: '"stories about the longing of Rakshasas and Vetalas for human
+    flesh, some of which bear a strong resemblance to Slavonic vampire tales"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal bibliographic content is clear, but motif extraction is limited
+    because the passage is a footnote and does not include the underlying narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the available taxonomy does not include a specific vampire or flesh-eating undead category, and the passage does not define turnskins or narrate transformation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l13942-l13950
+  passage_sha256=f3418395654cad5d507ff950c6b44a653d1dbeb8230c6833e09312ead2163f26
+

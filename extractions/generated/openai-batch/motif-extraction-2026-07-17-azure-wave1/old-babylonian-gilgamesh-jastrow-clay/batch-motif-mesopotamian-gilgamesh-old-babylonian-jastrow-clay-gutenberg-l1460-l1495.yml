@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l1460-l1495
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: An Old Babylonian Version of the Gilgamesh Epic / Part III / PREFATORY NOTE
+    / INTRODUCTION.; lines 1460-1495
+  start: '1460'
+  end: '1495'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a scholarly account of Enkidu as a figure taught civilized
+    duties and later joined to the Gilgamesh narrative at Erech. It describes the
+    combining of Enkidu and Gilgamesh traditions, the woman accompanying Enkidu as
+    the means of bringing the heroes together, and the major role of the Huwawa struggle
+    in Old Babylonian and Assyrian versions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Enkidu is described as being taught duties as a husband, the work of building,
+    and the laying aside of supplies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After this instruction, Enkidu is described as a fully developed hero who
+    engages in various exploits, some of which are embodied in the Gilgamesh Epic.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the identity of Enkidu cannot be determined with certainty,
+    but suggests he is foreign to Babylonia, connected with the Amurru district, and
+    conquers that district.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage proposes that the original tale of Enkidu may have been carried
+    to the Euphrates Valley by a western migratory wave entering Babylonia.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the Enkidu tale was combined with stories about Gilgamesh,
+    whose conquest of Erech is also presented as representing an invasion of Babylonia.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Erech is described as the center of the Gilgamesh tale, and Enkidu is brought
+    there so that Enkidu and Gilgamesh perform exploits together.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The woman accompanying Enkidu is described as the medium by which the two
+    heroes are brought together.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that a story of primitive man evolving to civilized life
+    is transformed into the tale of Enkidu's removal to Erech and the encounter of
+    the two heroes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The struggle against Huwawa is said to take a very large part in both the
+    Old Babylonian and Assyrian versions.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Yale tablet is described as devoted to preparation for the Huwawa struggle
+    and repeated warnings to Gilgamesh against the dangerous undertaking.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage says the fourth tablet must have recounted the Huwawa struggle
+    itself, and that the episode may have extended into the fifth tablet as in the
+    Assyrian version.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: 'The passage argues that the elaboration of the Huwawa story may point to
+    a historical background: a recollection of the conquest of Amurru by a powerful
+    warrior, ascribed to Enkidu rather than Gilgamesh.'
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: A hero described as instructed in civilized duties, possibly foreign
+    to Babylonia and connected with Amurru, brought to Erech, and associated with
+    exploits alongside Gilgamesh.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Gilgamesh
+  description: A hero associated with Erech, whose stories are combined with Enkidu
+    traditions; he performs exploits with Enkidu and receives repeated warnings before
+    the Huwawa undertaking.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: woman accompanying Enkidu
+  description: The woman accompanying Enkidu, described as the medium that brings
+    Enkidu and Gilgamesh together.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Huwawa
+  description: A figure against whom a major struggle is directed in the Old Babylonian
+    and Assyrian versions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: civilized or initiated hero
+  assigned_to:
+  - fig:1
+  basis: Enkidu is taught husbandly duties, building, and storing supplies before
+    becoming a fully developed hero.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Amurru-associated conquering hero
+  assigned_to:
+  - fig:1
+  basis: The passage suggests Enkidu is connected with Amurru and conquers that district;
+    it later ascribes the conquest of Amurru to Enkidu.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: paired heroic actor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Enkidu is brought to Erech and Enkidu and Gilgamesh perform exploits in common.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: warned participant in dangerous undertaking
+  assigned_to:
+  - fig:2
+  basis: Repeated warnings are given to Gilgamesh against the dangerous undertaking
+    involving Huwawa.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: mediator between heroes
+  assigned_to:
+  - fig:3
+  basis: The woman accompanying Enkidu is described as the medium for bringing Enkidu
+    and Gilgamesh together.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: opponent in major struggle
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the struggle against Huwawa as a major episode.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Enkidu instructed in civilized life
+  summary: Enkidu is taught husbandly duties, building, and laying aside supplies,
+    after which he is described as a developed hero engaging in exploits.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Enkidu brought to Erech and joined with Gilgamesh
+  summary: 'The passage describes the combining of Enkidu and Gilgamesh tales: Enkidu
+    is brought to Erech, the woman accompanying him serves to connect the heroes,
+    and the two perform exploits together.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Preparation for and struggle against Huwawa
+  summary: The Huwawa episode is described as a major part of both Old Babylonian
+    and Assyrian versions, including preparation, warnings to Gilgamesh, and the struggle
+    itself.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Conquest of Amurru as possible historical background
+  summary: The passage interprets the elaborated Huwawa story as possibly preserving
+    a recollection of the conquest of Amurru by a powerful warrior, a conquest ascribed
+    here to Enkidu.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: primitive-to-civilized transformation
+  taxonomy_refs:
+  - initiation
+  - culture_hero
+  basis: The passage describes Enkidu being taught social and practical duties and
+    states that the story concerns the evolution of primitive man to civilized life.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is scholarly commentary rather than the primary narrative
+    episode; the taxonomy mapping is broad.
+- id: motif:2
+  label: heroic pair brought together for shared exploits
+  taxonomy_refs:
+  - duality
+  basis: Enkidu is brought to Erech, the accompanying woman brings him together with
+    Gilgamesh, and the two heroes perform exploits in common.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a two-hero pattern, but it does not frame the pair
+    as twins or as a formal duality.
+- id: motif:3
+  label: dangerous heroic undertaking with warnings
+  taxonomy_refs:
+  - departure
+  basis: The Yale tablet is described as preparation for the Huwawa struggle, with
+    repeated warnings to Gilgamesh against the dangerous undertaking.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not provide details of the journey or combat; the 'departure'
+    mapping is tentative.
+- id: motif:4
+  label: heroic conquest remembered in epic form
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage treats the Huwawa episode as possibly preserving a recollection
+    of the conquest of Amurru by a powerful warrior and ascribes that conquest to
+    Enkidu.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is presented as an argument about historical background, not as a
+    clearly stated mythic motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: Both the Old Babylonian and Assyrian versions are said to give a large role
+    to the struggle against Huwawa.
+  claim_level: same_motif
+  target: Huwawa struggle episode in Old Babylonian and Assyrian Gilgamesh versions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is a secondary introduction and does not quote both versions
+    directly.
+- id: claim:2
+  claim: The passage describes the Enkidu tale and Gilgamesh stories as combined into
+    a shared heroic narrative centered on Erech.
+  claim_level: same_function
+  target: Combination of Enkidu tradition with Gilgamesh heroic stories
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies on the commentator's reconstruction, which is explicitly
+    qualified in the passage.
+- id: claim:3
+  claim: The passage says the primitive-to-civilized Enkidu story is transformed into
+    a tale of Enkidu's removal to Erech and his encounter with Gilgamesh.
+  claim_level: same_function
+  target: Civilization-of-Enkidu episode and Enkidu's incorporation into the Erech/Gilgamesh
+    narrative
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal narrative-development comparison stated by the
+    commentator, not an independent cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1460-1463
+  quote_or_summary: Enkidu is taught duties as a husband, introduced to building and
+    storing supplies, and then becomes a fully developed hero engaging in exploits.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1463-1467
+  quote_or_summary: The passage says Enkidu's identity is uncertain, but suggests
+    he is foreign to Babylonia, from the Amurru district, and conquers that district.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1467-1473
+  quote_or_summary: The passage proposes that the Enkidu tale was carried to the Euphrates
+    Valley with western invaders and combined with stories of Gilgamesh, whose conquest
+    of Erech is also interpreted as an invasion of Babylonia.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1473-1478
+  quote_or_summary: Erech is the center of the Gilgamesh tale; Enkidu is brought there,
+    the two heroes perform exploits in common, and the woman accompanying Enkidu brings
+    them together.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1478-1482
+  quote_or_summary: The story of the evolution of primitive man to civilized life
+    is transformed into Enkidu's removal to Erech and the encounter of the two heroes.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt lightly condensed from public domain
+    text.
+- id: ev:6
+  type: summary
+  locator: lines 1484-1492
+  quote_or_summary: The struggle against Huwawa takes a large part in both Old Babylonian
+    and Assyrian versions; the Yale tablet covers preparation and repeated warnings
+    to Gilgamesh, and later tablets recount the struggle.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1492-1495
+  quote_or_summary: The passage argues that the elaborated Huwawa story may preserve
+    a historical recollection of the conquest of Amurru by a powerful warrior, and
+    that this conquest should be ascribed to Enkidu rather than Gilgamesh.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as a scholarly summary, but it is not itself a primary
+    mythic scene; motif assignments are therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy item is directly supported by the passage; symbol extraction is therefore left empty.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l1460-l1495
+  passage_sha256=5eb3b65a8a03edf89bdf8bb935a217f3dc0cea4816e8ee4c1952501e8871aba9
+

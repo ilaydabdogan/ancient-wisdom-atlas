@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l20835-l20860
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: VISION II. / VISION III. / VISION IV. / COMMAND I.; lines 20835-20860
+  start: '20835'
+  end: '20860'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"there is one God who created and brought all things out of nothing into
+    existence."'
+  summary: The passage commands belief in one God, describes God as creator of all
+    things from nothing and as infinite and incomprehensible, and instructs the addressee
+    to fear God, avoid evil, reject lust and iniquity, put on righteousness, and keep
+    the commandment in order to live to God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a command concerning belief in one God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One God is said to have created and brought all things out of nothing into
+    existence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God is described as comprehending all things and as infinite, not comprehended
+    by any.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God is described as unable to be defined by words or conceived by the mind.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The addressee is told to believe in God, fear God, and abstain from all evil.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The addressee is told to cast away lust and iniquity, put on righteousness,
+    and will live to God if the commandment is kept.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: One God
+  description: The one God who created all things, comprehends all things, and is
+    infinite and incomprehensible.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Commanded addressee
+  description: The second-person recipient addressed as the one who must believe,
+    fear God, abstain from evil, reject lust and iniquity, put on righteousness, and
+    keep the commandment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Creator
+  assigned_to:
+  - fig:1
+  basis: God is said to have created and brought all things out of nothing into existence.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Infinite and incomprehensible deity
+  assigned_to:
+  - fig:1
+  basis: God is described as infinite, not comprehended by any, and not definable
+    or conceivable by mind.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Recipient of ethical command
+  assigned_to:
+  - fig:2
+  basis: The addressee is commanded to believe, fear, abstain from evil, reject lust
+    and iniquity, put on righteousness, and keep the commandment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: One God
+  literal_form: one God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Righteousness as something put on
+  literal_form: put on righteousness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Nothing as pre-creation source condition
+  literal_form: out of nothing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Command on belief in God and righteous conduct
+  summary: The passage gives an instruction to believe in the one creator God, fear
+    him, avoid evil, cast away lust and iniquity, put on righteousness, and keep the
+    commandment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Description of divine incomprehensibility
+  summary: The passage describes God as comprehending all things, infinite, not comprehended
+    by any, and beyond definition by words or conception by the mind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Creation of all things from nothing by one God
+  taxonomy_refs: []
+  basis: The passage states that one God created and brought all things out of nothing
+    into existence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy motif directly names creation from nothing.
+- id: motif:2
+  label: Infinite incomprehensible deity
+  taxonomy_refs: []
+  basis: God is described as infinite, not comprehended by any, and beyond definition
+    or mental conception.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a theological attribute pattern rather than a narrative episode.
+- id: motif:3
+  label: Fear of God joined to abstention from evil and righteous living
+  taxonomy_refs:
+  - wisdom
+  basis: The passage commands belief and fear of God, abstention from evil, rejection
+    of lust and iniquity, and putting on righteousness so as to live to God.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The wisdom taxonomy match is broad; the passage is framed as a command
+    rather than as a proverb or wisdom dialogue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 20835-20837
+  quote_or_summary: '"COMMAND I. Of believing in one God."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 20839-20843
+  quote_or_summary: '"there is one God who created and brought all things out of nothing
+    into existence."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: quote
+  locator: 20845-20847
+  quote_or_summary: '"He comprehends all things, and is only INFINITE, not to be comprehended
+    by any."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: quote
+  locator: 20849-20851
+  quote_or_summary: '"can neither be defined by any words, nor conceived by the mind."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:5
+  type: quote
+  locator: 20853-20855
+  quote_or_summary: '"believe in him, and fear him; and fearing him abstain from all
+    evil."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:6
+  type: quote
+  locator: 20857-20860
+  quote_or_summary: '"cast all lust and iniquity far from thee, and put on righteousness,
+    and thou shalt live to God"'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied COMMAND I passage. Motif candidates
+    are clear at the level of command and theological pattern, but available taxonomy
+    support is limited. No comparison claims were made because the passage itself
+    does not explicitly compare traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The locator label mentions VISION II/III/IV as well as COMMAND I, but the supplied passage_text contains only COMMAND I; no extraction was made for absent vision material.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l20835-l20860
+  passage_sha256=4b1fd703c81b96995cd257f0b829bd78da88970b6667bb44c942691ffd707ec0
+

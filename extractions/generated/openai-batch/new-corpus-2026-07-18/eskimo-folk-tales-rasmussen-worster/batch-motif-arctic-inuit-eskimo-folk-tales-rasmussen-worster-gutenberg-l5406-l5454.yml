@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l5406-l5454
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: ATDLARNEQ, THE GREAT GLUTTON / ANGANGUJUK / ATARSSUAQ / PUAGSSUAQ; lines
+    5406-5454
+  start: '5406'
+  end: '5454'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"You, Puagssuaq, you can talk with the spirits. Take counsel with them now."'
+  summary: A wifeless ptarmigan hunter enters a stone-like place in a rocky valley,
+    finds an old couple inside, whistles, and hears the old man urge Puagssuaq to
+    consult spirits. Puagssuaq lets down her hair for the consultation, the passage
+    way begins to close and then opens by itself, and the hunter escapes and returns
+    home to tell what happened.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A wifeless man habitually goes out every day to hunt ptarmigan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While hunting, the man comes to a rocky valley and approaches something that
+    first appears to be a stone but is not a stone.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man looks inside the place and sees an old couple sitting alone.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man crawls silently through a passage way into the place and whistles
+    more than once.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The old man tells his wife Puagssuaq that she can talk with the spirits and
+    should take counsel with them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old man interprets the whistle as possibly the voice of a shore-dweller
+    who catches poor fish.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Puagssuaq lets down her hair because she is about to ask counsel of the spirits.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage way around the man begins to close, nearly closes, and then opens
+    again by itself.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The man slips out, runs away expecting pursuit, is not pursued, returns home,
+    and tells what happened.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: wifeless ptarmigan hunter
+  description: A wifeless man who regularly hunts ptarmigan and enters the stone-like
+    place.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: old man
+  description: One of the old couple sitting inside the place; he addresses Puagssuaq
+    and comments on the whistle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Puagssuaq
+  description: The old man's wife; she is said to be able to talk with spirits and
+    lets down her hair before asking counsel.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: spirits
+  description: Beings with whom Puagssuaq is said to be able to communicate and from
+    whom she is about to seek counsel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: daily hunter
+  assigned_to:
+  - fig:1
+  basis: The man is described as regularly going out to hunt ptarmigan every day.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: secret intruder
+  assigned_to:
+  - fig:1
+  basis: He crawls very silently in through the passage way after seeing the old couple
+    inside.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: old couple inside the place
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that the hunter saw an old couple sitting alone inside.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: spirit-consultant
+  assigned_to:
+  - fig:3
+  basis: The old man says Puagssuaq can talk with the spirits, and the narration says
+    she is about to ask counsel of them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: escapee and reporter
+  assigned_to:
+  - fig:1
+  basis: The man escapes through the passage way, runs away, and later tells what
+    happened at home.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: sources of counsel
+  assigned_to:
+  - fig:4
+  basis: The spirits are named as those from whom Puagssuaq is to take or ask counsel.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: stone-like hidden place
+  literal_form: Something in a rocky valley that looks like a stone but is not a stone,
+    with an inside and a passage way.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: closing and opening passage way
+  literal_form: A passage way that begins closing around the hunter, nearly closes,
+    and then opens by itself.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: loosened hair before spirit counsel
+  literal_form: Puagssuaq letting down her hair before asking counsel of the spirits.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: whistle heard as voice
+  literal_form: The hunter's whistle, heard by the old man and interpreted as possibly
+    a shore-dweller's voice.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hunter approaches the stone-like place
+  summary: The wifeless hunter goes out for ptarmigan, sees a rocky valley, and approaches
+    a thing that looks like a stone but proves not to be one.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Silent entry and whistles
+  summary: The hunter looks inside, sees an old couple, crawls silently in through
+    the passage way, and whistles until the old couple notice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Puagssuaq prepares spirit counsel
+  summary: The old man asks Puagssuaq to consult spirits, identifies the whistle as
+    possibly a shore-dweller's voice, and Puagssuaq lets down her hair to ask counsel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Passage closes and hunter escapes
+  summary: The passage way begins to close around the hunter, opens again by itself,
+    and he slips out, runs away, and returns home to tell the event.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Hidden stone-like dwelling encountered by hunter
+  taxonomy_refs: []
+  basis: A hunter in a rocky valley discovers that a thing resembling a stone contains
+    an inhabited interior and a passage way.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly name the place as a cave, house, or supernatural
+    dwelling.
+- id: motif:2
+  label: Spirit consultation signaled by loosened hair
+  taxonomy_refs: []
+  basis: Puagssuaq is said to talk with spirits, and she lets down her hair because
+    she is about to ask counsel of them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage gives the action and explanation but does not describe the
+    content or outcome of the counsel.
+- id: motif:3
+  label: Dangerous threshold closes around intruder
+  taxonomy_refs: []
+  basis: After the hunter secretly enters, the passage way around him begins to close,
+    nearly closes, then opens by itself, allowing escape.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No pursuing figure or explicit cause of the passage's movement is stated.
+- id: motif:4
+  label: Intruder detected through disguised or ambiguous voice-sound
+  taxonomy_refs: []
+  basis: The hunter's whistle is heard by the old man, who interprets it as possibly
+    the voice of a shore-dweller.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not state whether the whistle is intentionally deceptive
+    or simply misrecognized.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5406-5410
+  quote_or_summary: A wifeless man has the custom of going out every day to hunt ptarmigan.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5411-5420
+  quote_or_summary: While hunting, the man sees a rocky valley, goes toward it, and
+    approaches something that looked like a stone but was not a stone.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5421-5427
+  quote_or_summary: He looks in, sees an old couple sitting alone, crawls silently
+    through the passage way, watches them, and whistles.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 5427-5434
+  quote_or_summary: '"You, Puagssuaq, you can talk with the spirits. Take counsel
+    with them now."'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: 5435-5439
+  quote_or_summary: '"It sounds as if that might be the voice of a shore-dweller;
+    one who catches miserable fish."'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 5440-5443
+  quote_or_summary: Puagssuaq lets down her hair because she is about to ask counsel
+    of the spirits.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5444-5450
+  quote_or_summary: As the man is about to look again, the passage way begins to close,
+    nearly closes, and then opens again by itself.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5450-5454
+  quote_or_summary: The man slips out, runs away expecting pursuit, reaches the hillside
+    without being pursued, returns home, and tells what happened.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the passage. Motif labels are
+    descriptive and not tied to external taxonomy. No comparison claims are made because
+    the passage itself does not provide a comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references left empty where the supplied taxonomy did not directly match the passage wording.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l5406-l5454
+  passage_sha256=f89c1f3590f974bd3af6d683ba87c5e4ebdfd15eaf7a1bcd3eb2c90fec9a5d01
+

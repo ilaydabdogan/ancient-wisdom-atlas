@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l12980-l13011
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: FEMALE. / NAVAHO MUSIC. / BY PROF. JOHN COMFORT FILLMORE. / TEXTS AND INTERLINEAR
+    TRANSLATIONS.; lines 12980-13011
+  start: '12980'
+  end: '13011'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A song passage states that all may return happily, then repeats first-person
+    lines of walking happily or in beauty in front, behind, below, above, and all
+    around, followed by repeated statements that it is finished in happiness or beauty.
+  language: Navajo with English interlinear translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group referred to as “they all” is wished or stated to get back happily.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker says that they walk happily or in beauty.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first-person walking is located before, behind, below, above, and around
+    the speaker.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage repeatedly states that it is finished again in happiness or beauty.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person walker
+  description: The speaker identified by repeated first-person phrases translated
+    as “I walk.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: they all
+  description: An unspecified plural group who may all get back happily.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: walker in beauty
+  assigned_to:
+  - fig:1
+  basis: The figure repeatedly says “I walk” happily or in beauty in multiple surrounding
+    directions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: returning group
+  assigned_to:
+  - fig:2
+  basis: The passage says that they all may get back happily.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: beauty or happiness
+  literal_form: Repeated word/condition translated as happiness, beauty, or happily
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: surrounding directions
+  literal_form: Before, behind, below, above, and all around the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Return and walking in beauty
+  summary: The song wishes or declares a happy return for all, then presents the speaker
+    walking happily or in beauty through surrounding spatial directions, ending with
+    repeated completion in beauty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: happy return
+  taxonomy_refs:
+  - return
+  basis: The passage explicitly says that all may get back happily.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a short song text and does not narrate a full departure-and-return
+    episode.
+- id: motif:2
+  label: walking in beauty through surrounding directions
+  taxonomy_refs: []
+  basis: The first-person speaker repeatedly walks happily or in beauty before, behind,
+    below, above, and around themselves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches this phrasing; interpretation
+    should remain close to the song text.
+- id: motif:3
+  label: completion in beauty
+  taxonomy_refs: []
+  basis: The closing lines repeat that it is finished again in happiness or beauty.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a formulaic closure but does not explain its ritual
+    or narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12980-12981 / stanza 90
+  quote_or_summary: "“Happily may they all get back.”"
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12982-12983 / stanza 91
+  quote_or_summary: "“Happily (or in beauty) I walk.”"
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12984-12993 / stanzas 92-96
+  quote_or_summary: The speaker says they walk happily before/toward, behind/from,
+    below/in, above/toward, and all around themselves.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 12994-13011 / stanzas 97-100
+  quote_or_summary: 'Repeated closing statement: “In beauty again it is finished.”'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif identification is limited
+    by the brevity and formulaic song context. No comparison claims are made because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were assigned only where directly supported by wording in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l12980-l13011
+  passage_sha256=7c79e7ab54f53b65a4862b6d2707fbec6a1444acad88bb2de7b4aa252a5f0717
+

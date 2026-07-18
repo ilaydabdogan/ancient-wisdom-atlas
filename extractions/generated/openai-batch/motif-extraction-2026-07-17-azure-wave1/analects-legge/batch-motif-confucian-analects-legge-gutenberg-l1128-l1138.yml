@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.confucian-analects-legge-gutenberg-l1128-l1138
+source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+passage_locator:
+  label: BOOK V. KUNG-YE CH'ANG. / BOOK VI. YUNG YEY. / BOOK VII. SHU R. / BOOK VIII.
+    T'AI-PO.; lines 1128-1138
+  start: '1128'
+  end: '1138'
+  translation: The Analects of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage praises King Wan for serving the Yin dynasty despite possessing
+    two thirds of the empire, presenting this as the height of the virtue of the house
+    of Chau. It then reports the Master praising Yu as without flaw: Yu lived austerely
+    in food, clothing, and housing, showed utmost filial piety toward the spirits,
+    wore elegant sacrificial attire, and devoted his strength to ditches and water-channels.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: King Wan is said to have possessed two of the three parts of the empire while
+    serving the dynasty of Yin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The virtue of the house of Chau is said to have reached the highest point.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Master states that he can find no flaw in the character of Yu.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yu is described as using coarse food and drink while displaying utmost filial
+    piety toward the spirits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Yu is described as wearing poor ordinary garments but showing utmost elegance
+    in his sacrificial cap and apron.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Yu is described as living in a low, mean house and expending all his strength
+    on ditches and water-channels.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: King Wan
+  description: A ruler who possessed two of the three parts of the empire and served
+    the dynasty of Yin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: dynasty of Yin
+  description: The dynasty served by King Wan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: house of Chau
+  description: A dynastic house whose virtue is said to have reached the highest point.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The Master
+  description: The speaker who praises Yu and says he can find no flaw in Yu's character.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Yu
+  description: A praised figure described as austere in personal living, ritually
+    elegant, filial toward the spirits, and devoted to ditches and water-channels.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: spirits
+  description: Beings toward whom Yu displayed utmost filial piety.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: powerful loyal servant
+  assigned_to:
+  - fig:1
+  basis: King Wan possessed two of three parts of the empire yet served the Yin dynasty.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: served dynasty
+  assigned_to:
+  - fig:2
+  basis: The Yin dynasty is named as the dynasty served by King Wan.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: virtuous dynastic house
+  assigned_to:
+  - fig:3
+  basis: The house of Chau is said to have reached the highest point of virtue.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: moral evaluator
+  assigned_to:
+  - fig:4
+  basis: The Master gives an explicit evaluation of Yu's character.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: exemplary austere and ritual figure
+  assigned_to:
+  - fig:5
+  basis: Yu is praised as without flaw and described through austerity, ritual elegance,
+    filial piety to spirits, and public works.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: recipients of filial piety
+  assigned_to:
+  - fig:6
+  basis: Yu is said to display utmost filial piety toward the spirits.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: two of the three parts of the empire
+  literal_form: 'A proportion of imperial possession: two of three parts.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coarse food and drink
+  literal_form: Coarse food and drink used by Yu.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacrificial cap and apron
+  literal_form: A cap and apron described as sacrificial and elegant.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: low mean house
+  literal_form: A low, mean house where Yu lived.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ditches and water-channels
+  literal_form: Ditches and water-channels on which Yu expended his strength.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: King Wan's loyal service and Chau virtue
+  summary: King Wan possesses two of the three parts of the empire, serves the Yin
+    dynasty, and the virtue of the house of Chau is praised as reaching the highest
+    point.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The Master's praise of Yu
+  summary: The Master says he finds no flaw in Yu and lists Yu's coarse food and drink,
+    filial piety toward spirits, poor ordinary garments, elegant sacrificial attire,
+    humble dwelling, and labor on ditches and water-channels.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Loyal restraint despite overwhelming power
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: King Wan is praised for serving the Yin dynasty while possessing two of the
+    three parts of the empire, and this is linked to the highest virtue of the house
+    of Chau.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents ethical praise rather than a full legitimating myth
+    or dynastic origin narrative.
+- id: motif:2
+  label: Exemplary virtue through personal austerity and ritual propriety
+  taxonomy_refs: []
+  basis: Yu is described as austere in food, ordinary clothing, and housing while
+    showing filial piety toward spirits and elegance in sacrificial attire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is ethical and exemplary; no explicit supernatural event is
+    narrated.
+- id: motif:3
+  label: Rulerly devotion to water-management works
+  taxonomy_refs: []
+  basis: Yu is praised for expending all his strength on ditches and water-channels.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions hydraulic labor but does not describe a flood-control
+    myth or larger culture-hero narrative.
+- id: motif:4
+  label: Ritual piety toward spirits
+  taxonomy_refs:
+  - sacrifice
+  basis: Yu is said to show utmost filial piety toward the spirits and to display
+    elegance in sacrificial cap and apron.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions sacrificial attire and piety toward spirits but does
+    not describe an actual sacrificial offering.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1128-1131
+  quote_or_summary: King Wan possessed two of three parts of the empire, served the
+    Yin dynasty, and the virtue of the house of Chau is praised as having reached
+    the highest point.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1132-1135
+  quote_or_summary: The Master says he can find no flaw in Yu; Yu used coarse food
+    and drink while displaying utmost filial piety toward the spirits.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1135-1138
+  quote_or_summary: Yu's ordinary garments were poor, his sacrificial cap and apron
+    elegant, his house low and mean, and his strength devoted to ditches and water-channels.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is primarily ethical praise and contains limited narrative action.
+    No comparison claims were made because the passage itself does not support an
+    external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All figures, symbols, and motifs are derived only from the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-analects-legge-gutenberg__l1128-l1138
+  passage_sha256=b55df81a2358b36fe2cc600ea1012a883d1437abf200fe8c7aff04e06bc78c3f
+

@@ -1,0 +1,509 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l3856-l3945
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SMITH SOUND. / TRADE AND INTERCOURSE BETWEEN THE TRIBES. / LIST OF THE CENTRAL
+    ESKIMO TRIBES. / SEAL, WALRUS, AND WHALE HUNTING.; lines 3856-3945
+  start: '3856'
+  end: '3945'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes several Central Eskimo seal-hunting methods, including
+    winter hunting near holes and floe edges, a reported Netchillirmiut group hunt
+    using shouting and a spear strike, a settlement-wide hunt at seal holes after
+    the snow is gone, and the beginning of summer kayak hunting. It then describes
+    the regional use, dimensions, frame, skin covering, and attachments of the kayak.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hunters searching for another seal may stop the dogs; when they plan to remain
+    out only a few hours, they leave dead animals at their holes and load them on
+    the sledge on the return journey.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A single hunter is limited to sealing near the village and to killing no more
+    animals than he can drag back himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When seals are asleep, a hunter can approach without precaution and kill them
+    immediately; even a fast-running dog team can surprise them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In winter, when the floe edge is close to land, seals lying on the ice are
+    pursued by the same described method.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A reported Netchillirmiut method has eight men approach a basking seal; the
+    front men stop and shout when it raises its head, three others run up, and the
+    leader spears it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the snow is gone, men, women, and children from the settlements occupy
+    seal holes over a large area.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the settlement-wide hunt, men wait with harpoons while women and children
+    use sticks to frighten seals away from holes where they rise.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the ice breaks up, the summer hunt begins with people taking to kayaks.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The kayak is described as a hunting boat used by Eskimo tribes from Greenland
+    to Alaska, with noted regional exceptions or uncertainties.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Nugumiut, Oqomiut, and Akudnirmiut kayak is described as bulkier than
+    Greenland and Hudson Bay kayaks, twenty-five to twenty-seven feet long, and eighty
+    to one hundred pounds in weight.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The kayak frame includes gunwales, beams, fore and aft pieces, ribs, keel,
+    side strips, stem and stern projections, and a rimmed cockpit hole.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The kayak frame is covered with tightly sewn wetted skins, and thongs and
+    ivory pieces are used to fasten implements.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Eskimo seal hunters
+  description: Hunters who search for seals, use dogs and sledges in winter contexts,
+    and later take to kayaks for summer hunting.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Single hunter
+  description: An individual hunter who cannot leave the settlement for a long distance
+    and is limited by what he can drag back himself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Netchillirmiut hunting party
+  description: Eight men reported as slowly approaching a basking seal, with some
+    stopping and shouting while others run forward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Netchillirmiut leader
+  description: The leader among the runners who strikes the seal with a spear.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Settlement inhabitants
+  description: Men, women, and children who set out together and occupy seal holes
+    over a large area after the snow is gone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Men at seal holes
+  description: Men stationed at seal holes with harpoons ready to strike seals when
+    they come up to breathe.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Women and children at seal holes
+  description: Women and children provided with sticks to frighten seals away whenever
+    they rise where they are standing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Seals
+  description: Hunted animals described as sleeping, basking, lying on ice, rising
+    at holes to breathe, and being struck with harpoons or spears.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: seal hunter
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures pursue, approach, station themselves for, or strike seals in
+    the described hunting methods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: hunted prey
+  assigned_to:
+  - fig:8
+  basis: Seals are the animals pursued, surprised, driven from holes, or struck with
+    spear or harpoon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: spear or harpoon striker
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The Netchillirmiut leader strikes the seal with a spear, and men at seal
+    holes keep harpoons ready to strike.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: drivers or frighteners
+  assigned_to:
+  - fig:7
+  basis: Women and children use sticks to frighten seals away from the holes where
+    they rise.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: kayak hunting boat user
+  assigned_to:
+  - fig:1
+  basis: After the ice breaks up, the natives take to kayaks for the summer hunt;
+    the kayak is described as used for hunting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: seal hole
+  literal_form: holes in the ice where seals are found or rise to breathe
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: floe edge and ice
+  literal_form: edge of the floe close to land and ice where seals lie
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: spear or harpoon
+  literal_form: spear used by the Netchillirmiut leader and harpoons held by men at
+    seal holes
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: sticks
+  literal_form: sticks carried by women and children to frighten seals
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: kayak or qajaq
+  literal_form: skin-covered hunting boat used after the breaking up of the ice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: skin cover and frame of kayak
+  literal_form: wooden frame with ribs, keel, gunwales, rim, sewn skins, thongs, and
+    ivory fastening pieces
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Winter seal search and ice hunting
+  summary: Hunters pursue seals near holes and floe edges, leave carcasses at holes
+    for later collection, and sometimes surprise sleeping seals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Reported Netchillirmiut shout-and-spear hunt
+  summary: Eight men approach a basking seal; when it reacts, the front men shout,
+    three others run forward, and the leader spears the animal.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Settlement-wide occupation of seal holes
+  summary: After the snow is gone, the settlement spreads across many seal holes;
+    men wait with harpoons while women and children use sticks to turn seals away
+    until they surface where they can be struck.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Summer kayak hunting and kayak construction
+  summary: After ice breakup, hunters begin summer hunting by kayak; the passage then
+    describes the kayak’s regional distribution, size, frame, skin cover, and implement
+    fastenings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: seal hunting at breathing holes
+  taxonomy_refs: []
+  basis: The passage repeatedly describes seals being hunted at or near holes, including
+    leaving kills at holes and stationing people around holes where seals must rise
+    to breathe.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern in the passage, not a mythological
+    motif.
+- id: motif:2
+  label: coordinated group drive-and-strike hunt
+  taxonomy_refs: []
+  basis: The reported Netchillirmiut hunt uses coordinated approach, shouting, running,
+    and spearing; the later settlement-wide hunt uses stationed roles to drive seals
+    toward hunters with harpoons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The two procedures are similar in coordination but are distinct hunting
+    descriptions; no symbolic interpretation is stated.
+- id: motif:3
+  label: kayak-centered sea-mammal hunting
+  taxonomy_refs: []
+  basis: After ice breakup the summer hunt begins in kayaks, and the passage identifies
+    the kayak as a principal hunting implement used across many Eskimo groups.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage treats the kayak as practical hunting gear and material culture
+    rather than a mythic vessel.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents kayak hunting as a shared functional pattern among Eskimo
+    tribes from Greenland to Alaska, while noting uncertainty or local absence in
+    some groups or periods.
+  claim_level: same_function
+  target: Greenland-to-Alaska Eskimo kayak hunting pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: This is an ethnographic comparison of technology and hunting practice,
+    not evidence of a mythological motif or historical diffusion beyond what the passage
+    states.
+- id: claim:2
+  claim: The passage compares Central Eskimo kayaks with Greenland, Hudson Bay, Iglulik,
+    and Repulse Bay boats by size, bulk, and weight.
+  claim_level: visual_similarity
+  target: regional kayak forms of Greenland, Hudson Bay, Iglulik, and Repulse Bay
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to measurements and general form in the supplied
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3856-3863
+  quote_or_summary: Hunters continue in search of seals, stop dogs at the sight of
+    one, may leave dead animals at holes for later sledge collection, and a single
+    hunter must stay near the village and kill only what he can drag back.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3864-3875
+  quote_or_summary: Sleeping seals can be approached and killed without precaution;
+    a dog team can surprise them, and in winter seals lying on ice near a floe edge
+    close to land are pursued similarly.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3876-3882
+  quote_or_summary: Ross reports a Netchillirmiut method in which eight men approach
+    a basking seal; front men stop and shout when it raises its head, three others
+    run up, and the leader strikes it with a spear.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3883-3893
+  quote_or_summary: After the snow is gone, all settlement inhabitants occupy seal
+    holes over a large area; men hold harpoons, while women and children use sticks
+    to frighten seals away when they rise, forcing the animals to surface elsewhere.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3894-3900
+  quote_or_summary: After the ice breaks up, people take to kayaks and the summer
+    hunt begins; the passage introduces the kayak and its belongings as important
+    hunting gear for seal and walrus.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3901-3912
+  quote_or_summary: The kayak is described as used almost exclusively for hunting
+    by Eskimo tribes from Greenland to Alaska, with qualifications concerning Ita
+    natives, Baffin Land connections, and temporary absence of kayaks in part of Davis
+    Strait before two were built in 1884.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 3913-3921
+  quote_or_summary: The Nugumiut, Oqomiut, and Akudnirmiut kayak is bulkier than Greenland
+    and Hudson Bay kayaks, about twenty-five to twenty-seven feet long and eighty
+    to one hundred pounds; lighter weights are reported for Iglulik and Repulse Bay
+    boats.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 3922-3938
+  quote_or_summary: The kayak frame is described with gunwales, beams, fore and aft
+    structural pieces, proportions of bow and stern, ribs, keel, side strips, stem
+    and stern projections, bottom structure, and a rimmed cockpit hole.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 3939-3945
+  quote_or_summary: The kayak frame is covered with tightly sewn skins, wetted and
+    stretched to fit, tied to the rim of the hole, with ivory pieces and thongs for
+    fastening kayak implements.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is ethnographic and material-cultural rather than mythological.
+    Literal extraction is strong; motif labels are practical hunting-pattern labels
+    and should be reviewed before use in mythological comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not state symbolic or mythological meanings for the objects and practices described.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l3856-l3945
+  passage_sha256=53fcc21eff001baeb69f6ba68b908fded634fe13c44f77a9eaafe201a7238354
+

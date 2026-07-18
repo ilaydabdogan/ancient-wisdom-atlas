@@ -1,0 +1,591 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8392-l8474
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8392-8474
+  start: '8392'
+  end: '8474'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl flees with Roland after her stepmother kills her own child by mistake.
+    With a stolen magic wand and speaking blood drops she delays discovery, then uses
+    transformations to evade and finally kill the pursuing witch. Roland later leaves
+    to arrange a wedding but forgets her after falling into another's snares. The
+    girl remains disguised as a landmark and then a flower, is taken by a shepherd,
+    secretly keeps his house, is restored by a white cloth, and refuses marriage because
+    she remains faithful to Roland.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The girl tells Roland they must flee because her stepmother intended to kill
+    her but killed her own child instead.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Roland advises taking the stepmother's magic wand; the maiden fetches it and
+    places three drops of blood in separate locations before fleeing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The three drops of blood answer the witch from the stairs, kitchen, and bed
+    until the witch discovers her own dead child.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The witch sees the fugitives, puts on many league boots, and overtakes them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The girl uses the wand to change Roland into a lake and herself into a duck;
+    the witch tries and fails to lure the duck with bread-crumbs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After resuming human form, the girl changes herself into a flower in a briar
+    hedge and Roland into a fiddler; Roland's magical playing forces the witch to
+    dance until the thorns wound her and she dies.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Roland goes to his father to arrange the wedding, while the girl changes herself
+    into a red stone landmark and waits in the field.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: At home Roland falls into the snares of another and forgets the maiden; after
+    waiting a long time she changes herself into a flower.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A shepherd sees the flower, plucks it, takes it with him, and lays it in his
+    chest.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: 'In the shepherd''s house, work is completed unseen: the room is swept, furniture
+    cleaned, the hearth fire lit, water fetched, the table laid, and dinner served.'
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A wise woman tells the shepherd that an enchantment is involved and instructs
+    him to throw a white cloth over whatever he sees moving.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The shepherd throws a white cloth over the flower as it comes out of the chest;
+    the transformation ends, and the girl appears, explains she had been the flower
+    and housekeeper, refuses marriage, and promises to keep house for him.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the girl / maiden / step-daughter
+  description: The fleeing step-daughter who takes the magic wand, changes forms,
+    waits for Roland, becomes a flower, and later keeps house for the shepherd.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Roland
+  description: The girl's sweetheart who advises taking the magic wand, flees with
+    her, is transformed into a lake and a fiddler, later goes home to arrange a wedding,
+    and forgets her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: old witch / stepmother
+  description: The girl's stepmother, described as a witch, who mistakenly kills her
+    own child, pursues the fugitives with many league boots, and dies during the magical
+    dance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the witch's daughter / dead girl
+  description: The witch's own child, whose head the witch has cut off by mistake.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: the shepherd
+  description: A shepherd who plucks the flower, receives unseen household service,
+    seeks advice, ends the transformation with a white cloth, and asks the girl to
+    marry him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: wise woman
+  description: A woman consulted by the shepherd who identifies enchantment and gives
+    the white-cloth instruction.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: another who ensnares Roland
+  description: An unnamed person whose snares cause Roland to forget the maiden.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: fleeing magical heroine
+  assigned_to:
+  - fig:1
+  basis: She escapes danger, carries the magic wand, and repeatedly changes forms
+    to evade the witch.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: sweetheart and helper who later forgets
+  assigned_to:
+  - fig:2
+  basis: Roland advises taking the wand, flees with the girl, helps defeat the witch
+    as a fiddler, and later forgets the maiden.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:3
+  label: pursuing witch antagonist
+  assigned_to:
+  - fig:3
+  basis: The witch pursues the fugitives after discovering the death and tries to
+    seize the transformed girl.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: mistakenly killed child
+  assigned_to:
+  - fig:4
+  basis: The witch discovers that the child she killed is her own daughter.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: shepherd host and disenchanter
+  assigned_to:
+  - fig:5
+  basis: The shepherd takes the flower home, consults the wise woman, and stops the
+    transformation with a white cloth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:6
+  label: adviser on enchantment
+  assigned_to:
+  - fig:6
+  basis: The wise woman tells the shepherd how to stop the magic.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: intervening rival or tempter
+  assigned_to:
+  - fig:7
+  basis: The unnamed other person prevails on Roland so that he forgets the maiden.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: enchanted housekeeper
+  assigned_to:
+  - fig:1
+  basis: The girl admits that, while in flower form, she attended to the shepherd's
+    housekeeping.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: magic wand
+  literal_form: A magic wand taken from the witch before the flight.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: three speaking drops of blood
+  literal_form: Three drops of blood placed before the bed, in the kitchen, and on
+    the stairs, each answering the witch.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: many league boots
+  literal_form: Boots in which the witch goes an hour's walk at every step.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lake transformation
+  literal_form: Roland changed into a lake.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: duck transformation
+  literal_form: The girl changed into a duck swimming in the middle of the lake.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: flower in briar hedge
+  literal_form: The girl changed into a beautiful flower standing in the middle of
+    a briar hedge.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: fiddler and magical dance
+  literal_form: Roland changed into a fiddler whose playing forces the witch to dance.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: red stone landmark
+  literal_form: The girl changed into a red stone landmark in the field.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: shepherd's chest
+  literal_form: The chest where the shepherd lays the plucked flower.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:10
+  label: white cloth
+  literal_form: A white cloth thrown over the moving flower to stop the magic.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:11
+  label: hearth fire
+  literal_form: The fire on the shepherd's hearth, lit as part of the unseen household
+    work.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: Escape prepared with wand and blood decoys
+  summary: The girl warns Roland, takes the magic wand, places three drops of blood,
+    and flees; the blood answers the witch until she discovers her dead child.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: First pursuit and lake-duck concealment
+  summary: The witch overtakes the fugitives with many league boots; the girl changes
+    Roland into a lake and herself into a duck, and the witch fails to lure her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Second pursuit and fatal magical dance
+  summary: The girl becomes a flower in a briar hedge and Roland becomes a fiddler;
+    the witch tries to pluck the flower but is forced to dance until she dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Waiting landmark and Roland's forgetting
+  summary: Roland leaves to arrange the wedding while the girl waits disguised as
+    a red stone landmark; Roland forgets her after falling into another's snares,
+    and she becomes a flower.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:8
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Flower in the shepherd's house
+  summary: The shepherd plucks the flower, places it in his chest, and finds that
+    unseen work is done in his house.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:9
+  - sym:11
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: White cloth disenchantment
+  summary: Following the wise woman's advice, the shepherd throws a white cloth over
+    the flower; the girl is restored and explains that she had been keeping house.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Shapeshifting escape from a pursuer
+  taxonomy_refs:
+  - shapeshifter
+  basis: The girl changes Roland and herself into lake and duck, then into flower
+    and fiddler, to evade the pursuing witch.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports shapeshifting directly; no broader historical claim
+    is made.
+- id: motif:2
+  label: Theft of magic implement before flight
+  taxonomy_refs: []
+  basis: Roland says they cannot escape pursuit unless the girl first takes the witch's
+    magic wand, and she fetches it before fleeing.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The wand is magical, but the passage does not call it sacred.
+- id: motif:3
+  label: Speaking blood decoys delay discovery
+  taxonomy_refs: []
+  basis: Three drops of blood answer the witch from different places, postponing discovery
+    of the death and flight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The record treats this as a passage-level motif without assigning a supplied
+    taxonomy family.
+- id: motif:4
+  label: Pursuer destroyed by forced magical dance
+  taxonomy_refs: []
+  basis: Roland's playing compels the witch to dance in the thorn hedge until she
+    bleeds and dies.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No comparison beyond this passage is asserted.
+- id: motif:5
+  label: Forgotten beloved and faithful abandoned maiden
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Roland forgets the maiden after falling into another's snares; she continues
+    to remain faithful to him after he deserts her.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage states that another ensnares Roland, but it does not describe
+    an abduction or fully explain the means of forgetting.
+- id: motif:6
+  label: Enchanted flower housekeeper restored by cloth
+  taxonomy_refs:
+  - shapeshifter
+  basis: The maiden becomes a flower, secretly performs household tasks, and is restored
+    when a white cloth is thrown over the flower.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The restoration procedure is described literally; no external variant
+    comparison is included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8392-8401
+  quote_or_summary: The girl warns Roland that her stepmother meant to kill her, Roland
+    advises taking the magic wand, and the girl places three drops of blood before
+    fleeing with him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 8402-8411
+  quote_or_summary: The witch calls for her daughter; the three blood drops answer
+    from the stairs, kitchen, and bed before the witch finds her own beheaded child.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 8412-8417
+  quote_or_summary: The witch sees the step-daughter and Roland fleeing, threatens
+    that they will not escape, puts on many league boots, and overtakes them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 8417-8424
+  quote_or_summary: The girl changes Roland into a lake and herself into a duck; the
+    witch tries to entice the duck with bread-crumbs but fails, and the pair regain
+    human form.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 8424-8436
+  quote_or_summary: The girl changes herself into a flower in a briar hedge and Roland
+    into a fiddler; the witch tries to pluck the flower, but the fiddler's magical
+    playing forces her to dance until she dies.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: 8438-8447
+  quote_or_summary: Roland goes to arrange the wedding; the girl waits as a red stone
+    landmark, but Roland falls into another's snares and forgets her, so she becomes
+    a flower.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: 8449-8459
+  quote_or_summary: A shepherd plucks the flower and puts it in his chest; thereafter
+    household tasks are done unseen, including sweeping, lighting the hearth fire,
+    fetching water, laying the table, and serving dinner.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:8
+  type: summary
+  locator: 8459-8463
+  quote_or_summary: The shepherd consults a wise woman, who says there is enchantment
+    and tells him to throw a white cloth over whatever he sees moving.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:9
+  type: summary
+  locator: 8465-8474
+  quote_or_summary: At dawn the shepherd sees the chest open and the flower come out;
+    he throws a white cloth over it, the transformation ends, and the girl says she
+    had been the flower and housekeeper, refuses marriage, and remains faithful to
+    Roland.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions and figures are explicit in the passage. Motif labels are
+    passage-level candidates and require human review, especially the mapping to supplied
+    taxonomy refs such as stolen_beloved.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No cross-text comparison claims were added because the supplied passage does not itself identify an external analogue or nearby corpus tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8392-l8474
+  passage_sha256=6cab7884fdba03c4eb9fd41081f7a2181a30d415953f9408bd8e4d7df610f03d
+

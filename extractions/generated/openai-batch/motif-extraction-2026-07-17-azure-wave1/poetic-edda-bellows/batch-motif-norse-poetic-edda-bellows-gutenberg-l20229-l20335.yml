@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l20229-l20335
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: ATLAMOL EN GRNLENZKU / THE GREENLAND BALLAD OF ATLI / INTRODUCTORY NOTE /
+    NOTES; lines 20229-20335
+  start: '20229'
+  end: '20335'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on stanzas 69-89 of Atlamol discuss Guthrun’s feigned submissiveness
+    toward Atli, shield color symbolism, the taking and loss of Atli’s sons, a skulls
+    incident, possible Christian influence in a phrase about another light, and later-version
+    material involving Hniflung or Aldrian, son of Hogni, imprisoning Attila in a
+    cave.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Guthrun changes her tone so that Atli will believe she is submissive, allowing
+    her time for vengeance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note explains two shields as Guthrun concealing hostility, represented
+    by a red shield, under a show of friendliness, represented by a white shield.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Volsungasaga paraphrase says Guthrun took King Atli’s sons, Erp and Eitil,
+    while they were playing with a block of wood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Atli is identified in the note as “the angry one.”
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note on stanza 77 refers to Atli losing his sons and to a skulls incident
+    that adds horror.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The phrase “Another light” is described as a fairly clear indication of Christian
+    influence.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Volsungasaga is said to make Hniflung a son of Hogni, though the note
+    also says the name may be a general Niflung designation.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In the Thithrekssaga version, the son is called Aldrian, is begotten by Hogni
+    the night before Hogni’s death, grows up, and shuts Attila in a cave where Attila
+    starves.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A note explains that silver given by Atli to Guthrun was worth more than the
+    honor of receiving royal gifts.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Guthrun
+  description: Figure who feigns submissiveness toward Atli, conceals hostility under
+    friendliness, and in a Volsungasaga paraphrase takes Atli’s sons from play.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: Atli
+  description: Figure whom Guthrun wants to deceive; he is identified as “the angry
+    one,” loses his sons, and gives silver to Guthrun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: Erp and Eitil
+  description: Named as King Atli’s sons in the Volsungasaga paraphrase; they are
+    described as playing with a block of wood and are connected with Atli’s loss of
+    sons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Hogni
+  description: Named as father of Hniflung in the Volsungasaga note and of Aldrian
+    in the Thithrekssaga note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Hniflung
+  description: A son of Hogni according to the Volsungasaga note; the commentary says
+    the name may be the familiar Niflung designation applied generally.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Aldrian
+  description: The Thithrekssaga name for the son of Hogni; he grows up and shuts
+    Attila in a cave.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Attila
+  description: In the Thithrekssaga note, Attila is shut in a cave by Aldrian and
+    starves to death there.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: feigned submitter and vengeance-seeker
+  assigned_to:
+  - fig:1
+  basis: Guthrun is said to alter her tone to seem submissive to Atli in order to
+    gain time for vengeance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: target of deception and vengeance
+  assigned_to:
+  - fig:2
+  basis: Atli is the one Guthrun seeks to convince of her submission; the notes also
+    identify him as angry and as losing his sons.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: sons of King Atli
+  assigned_to:
+  - fig:3
+  basis: Erp and Eitil are explicitly named as Atli’s sons in the Volsungasaga paraphrase.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: father in later-version genealogy
+  assigned_to:
+  - fig:4
+  basis: Hogni is described as father of Hniflung or Aldrian in later-version notes.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: son of Hogni in variant tradition
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The note connects Hniflung and, in another version, Aldrian with the role
+    of Hogni’s son.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: cave-imprisoner
+  assigned_to:
+  - fig:6
+  basis: Aldrian is said to shut Attila in a cave.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: cave-imprisoned victim
+  assigned_to:
+  - fig:7
+  basis: Attila is said to be shut in a cave and to starve there.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: red and white shields
+  literal_form: red shield and white shield
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: block of wood
+  literal_form: block of wood used in children’s play
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: skulls
+  literal_form: skulls
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: cave
+  literal_form: cave where Attila is shut in and starves
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: another light
+  literal_form: phrase “Another light”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: silver royal gifts
+  literal_form: silver given by Atli to Guthrun
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Guthrun feigns submission
+  summary: Guthrun adopts a submissive tone toward Atli in order to gain time for
+    vengeance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shield-colored concealment
+  summary: The note interprets a red shield as Guthrun’s hidden hostility and a white
+    shield as outward friendliness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Atli’s sons taken from play and lost
+  summary: The Volsungasaga paraphrase has Guthrun take Erp and Eitil from play; a
+    later note refers to Atli losing his sons and to skulls as a horror element.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Later-version cave imprisonment of Attila
+  summary: In a later version summarized in the note, Aldrian, son of Hogni, grows
+    up and shuts Attila in a cave where Attila starves.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Christian light indication
+  summary: A phrase glossed as “Another light” is identified by the note as evidence
+    of Christian influence.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: feigned submission before vengeance
+  taxonomy_refs: []
+  basis: Guthrun’s change of tone is explicitly described as making Atli believe she
+    is submissive so she can gain time for vengeance.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is commentary rather than the stanza text itself.
+- id: motif:2
+  label: concealed hostility under friendly sign
+  taxonomy_refs: []
+  basis: The red shield is glossed as hostility and the white shield as outward friendliness,
+    describing concealment through opposed signs.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The interpretation is supplied by the editor’s note.
+- id: motif:3
+  label: vengeance through the enemy’s children
+  taxonomy_refs: []
+  basis: The notes connect Guthrun’s vengeance with her taking Atli’s sons and Atli’s
+    later loss of those sons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The exact stanza text is not included here, and the notes mention textual
+    defects around the relevant stanzas.
+- id: motif:4
+  label: skulls as horror intensifier
+  taxonomy_refs: []
+  basis: The commentary singles out the skulls incident as an added touch of horror
+    and links it to Atli’s loss of his sons.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The note describes possible borrowing and does not provide the full narrative
+    details of the skulls incident.
+- id: motif:5
+  label: later son avenges or destroys enemy through cave confinement
+  taxonomy_refs: []
+  basis: The note summarizes a later version in which Aldrian, son of Hogni, grows
+    up and shuts Attila in a cave where Attila starves.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is explicitly later-version material and the note says it has no
+    parallel in the Atlakvitha.
+- id: motif:6
+  label: Christian light influence
+  taxonomy_refs: []
+  basis: The phrase “Another light” is directly glossed as a fairly clear sign of
+    Christian influence.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only the gloss, not the full line or its narrative setting.
+comparison_claims:
+- id: claim:1
+  claim: The editor compares the red-shield hostility symbolism with Helgakvitha Hundingsbana
+    I, 34, supporting a cautious same-function comparison for colored shield imagery.
+  claim_level: same_function
+  target: Helgakvitha Hundingsbana I, 34
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The target passage is not quoted here, and the comparison relies on
+    the editor’s note.
+- id: claim:2
+  claim: The skulls incident is cautiously linked by the editor to the Vlund tradition
+    and Vlundarkvitha 25 and 37 as a possible source or parallel horror motif.
+  claim_level: same_motif
+  target: Vlund tradition / Vlundarkvitha 25 and 37
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note uses cautious language, saying the line is possibly borrowed
+    and the idea probably came from such a source.
+- id: claim:3
+  claim: The Volsungasaga is presented as a nearby prose tradition that paraphrases
+    the Atlamol material about Guthrun taking Atli’s sons and also includes the skulls
+    incident.
+  claim_level: same_motif
+  target: Volsungasaga
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage summarizes the Volsungasaga rather than quoting it.
+- id: claim:4
+  claim: The Hniflung or Aldrian son-of-Hogni episode is compared across later versions,
+    especially the Thithrekssaga, while the note states that it has no parallel in
+    the Atlakvitha.
+  claim_level: same_motif
+  target: Thithrekssaga and later versions of the Atli/Attila story; contrast with
+    Atlakvitha
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The comparison concerns later-version material and includes an explicit
+    absence of parallel in Atlakvitha.
+- id: claim:5
+  claim: The phrase “Another light” is interpreted by the editor as indicating Christian
+    influence in the poem or its transmission.
+  claim_level: historical_contact
+  target: Christianity
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the gloss is provided, and the full contextual line is not included
+    in this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20229-20235; note 69
+  quote_or_summary: "“Guthrun suddenly changes her tone” to make Atli believe she
+    is submissive and “to gain time for her vengeance.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 20237-20240; note 70
+  quote_or_summary: Guthrun concealed hostility, “symbolized by a red shield,” by
+    friendliness, “a white shield”; the note cites Helgakvitha Hundingsbana I, 34.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 20248-20255; note 72
+  quote_or_summary: The Volsungasaga paraphrase says Guthrun took the sons of King
+    Atli, Erp and Eitil, where they were playing with a block of wood; the note flags
+    uncertainty in the original line.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 20257-20262; note 73
+  quote_or_summary: 'The note identifies “The angry one” as Atli and reports a Volsungasaga
+    paraphrase: “it is shameful for thee to do this.”'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 20269-20277; note 77
+  quote_or_summary: The note says Atli’s sons are lost and discusses “Skulls” as an
+    incident that likely came from a Vlund-tradition source and adds horror; it also
+    says the Volsungasaga includes the incident.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 20301-20304; note 82
+  quote_or_summary: "“Another light” is described as “a fairly clear indication of
+    the influence of Christianity.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:7
+  type: summary
+  locator: lines 20305-20309; note 83
+  quote_or_summary: The Volsungasaga says Hogni had a son called Hniflung; the note
+    says the name may be a general Niflung designation for the sons of Gjuki and their
+    people.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 20309-20314; note 83
+  quote_or_summary: In the Thithrekssaga the son is called Aldrian, begotten by Hogni
+    the night before his death; Aldrian grows up and shuts Attila in a cave where
+    he starves. The note says this idea has no parallel in the Atlakvitha.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 20331-20335; note 89
+  quote_or_summary: The note explains “the silver which Atli gave Guthrun” as being
+    of greater value than the honor of receiving royal gifts.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of editorial notes rather than continuous narrative
+    text. Several notes explicitly mention textual defects, unnamed speakers, possible
+    spurious lines, and variant traditions; motifs based on Volsungasaga or Thithrekssaga
+    material should be reviewed as comparative or later-version material rather than
+    direct Atlamol narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unprovided taxonomy motif-family IDs were assigned. The only available symbol taxonomy reference used is “cave,” supported by the Thithrekssaga note.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l20229-l20335
+  passage_sha256=54016cfa51730e6ce238586bad67f3feaa173f59559cd478ddbca78215bfa574
+

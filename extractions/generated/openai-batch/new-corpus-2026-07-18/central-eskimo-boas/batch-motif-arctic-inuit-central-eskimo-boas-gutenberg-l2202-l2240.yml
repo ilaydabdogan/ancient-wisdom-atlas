@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l2202-l2240
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: ORTHOGRAPHY. / DISTRIBUTION OF THE TRIBES. / GENERAL OBSERVATIONS. / BAFFIN
+    LAND.; lines 2202-2240
+  start: '2202'
+  end: '2240'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Iglulirmiut, Pilingmiut, and Sagdlirmiut in relation
+    to Baffin Land, Iglulik, Fox Basin, and nearby hunting routes. It outlines seasonal
+    movements for walrus, seal, bear, and deer hunting, and notes limited contact
+    among neighboring groups.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Iglulirmiut are identified as a Baffin Land group associated with Iglulik,
+    with information about them attributed to Parry and Hall.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the sea begins to freeze, the Iglulirmiut gather on Iglulik and hunt
+    walrus through the winter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Iglulik, Pingitkalik, or Uglit Islands are favored settlements depending on
+    the position of the floe edge.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Later in winter, some families move to ice northeast of Igluling to catch
+    seals with harpoons.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In April, young seals are hunted in bays and fjords, especially Hooper Inlet.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The western coast of Melville Peninsula is sometimes visited in winter for
+    walrus and bear hunting, and an overland route to this district crosses Grinnell
+    Lake and Brevoort River.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: As the warm season approaches, the Iglulirmiut go deer hunting on Melville
+    Peninsula or Baffin Land, and they visit the eastern shore of Fox Basin.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Pilingmiut and Sagdlirmiut are described as two tribes settled on the
+    eastern coast of Fox Basin with slight intercourse with the Iglulirmiut.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Intercourse between the Pilingmiut and Iglulik is described as not very active.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Talirpingmiut of Cumberland Sound sometimes meet the Pilingmiut while
+    both groups go deer hunting northwest of Nettilling.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Information about the Sagdlirmiut is described as scanty; Sagdlirn is located
+    east-northeast of Iglulik and described as a long, narrow island.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Iglulirmiut
+  description: A group of natives belonging to Baffin Land and associated with Iglulik.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Pilingmiut
+  description: A tribe settled on the eastern coast of Fox Basin, with limited intercourse
+    with the Iglulirmiut and occasional meetings with the Talirpingmiut.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Sagdlirmiut
+  description: A tribe associated with Sagdlirn, described as east-northeast of Iglulik
+    and as a long, narrow island.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Talirpingmiut of Cumberland Sound
+  description: A group said to sometimes meet the Pilingmiut during deer hunting northwest
+    of Nettilling.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Winter walrus hunters at Iglulik
+  assigned_to:
+  - fig:1
+  basis: The group gathers on Iglulik when the sea freezes and hunts walrus through
+    winter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Seasonal seal and deer hunters
+  assigned_to:
+  - fig:1
+  basis: The passage describes later-winter seal hunting, April young-seal hunting,
+    and warm-season deer hunting.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: Eastern Fox Basin tribes
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both groups are described as settled on the eastern coast of Fox Basin.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Limited-intercourse neighbors of the Iglulirmiut
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the Pilingmiut and Sagdlirmiut had only slight intercourse
+    with the Iglulirmiut, and that Pilingmiut-Iglulik intercourse was not active.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Deer-hunting meeting groups
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Pilingmiut and Talirpingmiut sometimes meet while deer hunting northwest
+    of Nettilling.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Freezing sea and floe edge
+  literal_form: Sea ice, floe edge, and attached new ice used to determine winter
+    settlement and hunting movement.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Island winter settlements
+  literal_form: Iglulik, Pingitkalik, and Uglit Islands as favored winter settlements.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Overland route with lake and river crossing
+  literal_form: A route to Melville Peninsula crossing Grinnell Lake and Brevoort
+    River.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Long narrow island of Sagdlirn
+  literal_form: Sagdlirn described as a long and narrow island east-northeast of Iglulik.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Winter concentration and hunting at Iglulik
+  summary: As the sea freezes, the Iglulirmiut gather at Iglulik or nearby island
+    settlements and hunt walrus; later some families move onto ice to harpoon seals.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Spring and warm-season hunting movements
+  summary: Young seals are hunted in April in bays and fjords, and as the warm season
+    approaches the Iglulirmiut go deer hunting on Melville Peninsula or Baffin Land
+    and visit the eastern shore of Fox Basin.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Limited contact among Fox Basin and neighboring groups
+  summary: The Pilingmiut and Sagdlirmiut are placed on the eastern coast of Fox Basin
+    with slight intercourse with the Iglulirmiut; the Pilingmiut also sometimes meet
+    the Talirpingmiut during deer hunting northwest of Nettilling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Localization of Sagdlirn
+  summary: Sagdlirn is reported as east-northeast of Iglulik and described as a long,
+    narrow island.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Seasonally structured hunting movement
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes Iglulirmiut activity around freezing sea, winter walrus
+    hunting, later-winter seal hunting, April young-seal hunting, and warm-season
+    deer hunting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic subsistence and settlement pattern, not a mythic
+    narrative motif in the passage.
+- id: motif:2
+  label: Neighboring groups linked by intermittent hunting-route contact
+  taxonomy_refs: []
+  basis: The passage describes slight intercourse between Fox Basin groups and the
+    Iglulirmiut, and occasional meetings between Pilingmiut and Talirpingmiut during
+    deer hunting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a social-geographic pattern rather than an explicitly symbolic
+    or mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2202-2208
+  quote_or_summary: The Iglulirmiut are associated with Iglulik; when the sea begins
+    freezing they gather there for winter walrus hunting, with settlement choices
+    influenced by the floe edge.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:2
+  type: summary
+  locator: lines 2208-2213
+  quote_or_summary: Later in winter, some families move onto ice northeast of Igluling
+    for harpoon seal hunting; in April, young seals are hunted in bays and fjords,
+    especially Hooper Inlet.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:3
+  type: summary
+  locator: lines 2213-2217
+  quote_or_summary: The western coast of Melville Peninsula is sometimes visited in
+    winter for walrus and bear hunting, reached by an overland route crossing Grinnell
+    Lake and Brevoort River.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:4
+  type: summary
+  locator: lines 2217-2221
+  quote_or_summary: In the warm season the natives go deer hunting on Melville Peninsula
+    or Baffin Land, and reports and inquiries indicate visits to the eastern shore
+    of Fox Basin.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:5
+  type: summary
+  locator: lines 2222-2226
+  quote_or_summary: The Pilingmiut and Sagdlirmiut are described as two tribes on
+    the eastern coast of Fox Basin with slight intercourse with the Iglulirmiut.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:6
+  type: summary
+  locator: lines 2226-2232
+  quote_or_summary: The Pilingmiut are placed at approximately 74° west and 69° north,
+    and Parry's reports suggest intercourse between them and Iglulik was not very
+    active.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:7
+  type: summary
+  locator: lines 2232-2236
+  quote_or_summary: The Talirpingmiut of Cumberland Sound sometimes meet the Pilingmiut
+    because both go deer hunting northwest of Nettilling; one such meeting was reported.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:8
+  type: summary
+  locator: lines 2237-2240
+  quote_or_summary: Information on the Sagdlirmiut is scanty; Sagdlirn is said to
+    be east-northeast of Iglulik and described as a long, narrow island.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized by extractor.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography rather than mythic narrative. Extraction
+    of geographic, social, and seasonal patterns is well supported, but motif interpretation
+    should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were made because the passage does not itself support a comparative mythology claim beyond local social and seasonal patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l2202-l2240
+  passage_sha256=931680636bd05e1499d70056b085d2ea40173ab956313c424005a7bec75da7f8
+

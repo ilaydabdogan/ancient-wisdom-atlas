@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l233-l318
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: NAVAHO LEGENDS. / INTRODUCTION. / PREFATORY REMARKS. / HOME OF THE NAVAHOES.;
+    lines 233-318
+  start: '233'
+  end: '318'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the arid Navajo homeland, limited moisture and agriculture,
+    examples of farming in sandy subsoil, mentions that myths often allude to such
+    farms or gardens, notes crop practices, recounts unprofitable mining rumors and
+    investigations, and describes altitude zones, boundary mountains, forests, and
+    the ritual importance of spruce.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The land occupied by the Navahoes is arid but not an absolute desert, with
+    low annual precipitation and long periods of drought.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Small irrigable spots and apparently desert places allow Indians to raise
+    limited crops including corn, squashes, and melons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At Walpi, corn is grown on a sandy plain without irrigation because water
+    settles below the surface and keeps the subsoil moist; farmers plant deeply to
+    reach this moisture.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Similar localities occur in Navajo land and are used for farms and peach orchards;
+    the passage states that myths frequently allude to such farms or gardens.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Some crops raised by white men in high meadows were not cultivated by the
+    Navahoes; Navahoes had long raised a little wheat, and potatoes grow wild in Navajo
+    country.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: No precious-metal mines had been discovered on the Navajo reservation, though
+    rumors drew prospectors into the territory.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A commission investigated mineral claims in the Carrizo Mountains in 1892;
+    collected ores proved worthless, and San Juan River gold was not profitable to
+    work.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Navajo country ranges from low valleys to high peaks, and several named
+    high peaks are described as traditionally bordering the land.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The region includes plains, plateaux, mesas, and forests at higher altitudes;
+    spruce is described as an essential element in certain rites.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Navahoes
+  description: The people occupying the described arid land, using certain localities
+    for farms and peach orchards, and associated with the traditions and rites mentioned
+    in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Indian farmers at Walpi example
+  description: Farmers who grow corn on a sandy plain by planting deeply into moist
+    subsoil.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: White men and prospectors
+  description: Non-Navajo cultivators in high meadows and prospectors who entered
+    Navajo territory because of mining rumors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: McCook commission
+  description: A commission appointed to investigate the existence of valuable mines
+    in the Carrizo Mountains.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: inhabitants of arid homeland
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Navahoes occupy the described arid land.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: farmers using limited or hidden moisture
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes Indian deep-planting agriculture and says similar localities
+    in Navajo land are used by the Navajo for farms and peach orchards.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: outside entrants into Navajo territory
+  assigned_to:
+  - fig:3
+  basis: The passage notes white men cultivating high meadows and prospectors invading
+    Navajo territory after mining rumors.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: investigators of mining claims
+  assigned_to:
+  - fig:4
+  basis: The commission entered the Carrizo Mountains, invited prospectors to show
+    mineral locations, collected ores, and found them worthless.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hidden water or moisture
+  literal_form: Water held beneath sandy ground, keeping subsoil moist through drought.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: farms or gardens alluded to in myths
+  literal_form: Farms, gardens, and peach orchards in localities with hidden or limited
+    moisture.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: traditional boundary mountains
+  literal_form: High peaks of Tsisnadzi'ni, San Mateo, San Francisco, and the San
+    Juan range that traditionally border the land.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: ritual spruce
+  literal_form: Spruce found in shaded valleys and northern hill-slopes, described
+    as essential in certain rites.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arid homeland and limited cultivation
+  summary: The Navajo homeland is described as dry, but with scattered places where
+    irrigation or other moisture conditions permit crops such as corn, squashes, and
+    melons.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Deep planting and myth-alluded farms
+  summary: The Walpi example explains how corn can grow in sandy land through hidden
+    subsoil moisture, and the passage connects similar Navajo farms and gardens with
+    frequent mythic allusions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mining rumors and failed mineral investigation
+  summary: Rumors of mines drew prospectors into Navajo territory; an official commission
+    inspected claims in the Carrizo Mountains and found the ore worthless.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Altitude zones, boundary peaks, and ritual vegetation
+  summary: The passage describes the Navajo country as extending from low valleys
+    to high traditionally bounding peaks, with forests at higher elevations and spruce
+    named as ritually important.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: mythic allusion to farms or gardens in arid land
+  taxonomy_refs: []
+  basis: The passage explicitly states that Navajo myths frequently allude to farms
+    or gardens like those supported by hidden or limited moisture in the described
+    landscape.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not quote or summarize any specific mythic episode; it
+    only reports that such allusions are frequent.
+- id: motif:2
+  label: traditional homeland bounded by mountains
+  taxonomy_refs: []
+  basis: Several high peaks are described as traditionally bordering Navajo land.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage gives no narrative myth or ritual action involving the mountains;
+    a broader motif assignment would require additional passages.
+- id: motif:3
+  label: ritually essential tree species
+  taxonomy_refs: []
+  basis: Spruce is specifically described as an essential element in certain rites.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage does not identify the rites or describe symbolic meanings
+    attached to spruce.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 235-248
+  quote_or_summary: The Navajo homeland is arid, with limited rainfall and long droughts;
+    some places allow irrigation or limited crops of corn, squashes, and melons.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 250-272
+  quote_or_summary: A Walpi farming example explains hidden subsoil moisture and deep
+    planting; similar Navajo localities are used for farms and peach orchards, and
+    myths frequently allude to such farms or gardens.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 274-282
+  quote_or_summary: White men recently farmed high meadows with crops not cultivated
+    by the Navahoes; Navahoes had long raised some wheat, and potatoes grow wild in
+    Navajo country.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 284-305
+  quote_or_summary: Mining rumors, especially around the Carrizo Mountains, brought
+    prospectors; an 1892 commission inspected claims, found the ores worthless, and
+    noted unprofitable gold in the San Juan sands.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 307-313
+  quote_or_summary: The country ranges from low valleys to high peaks, including named
+    mountains and ranges that traditionally border Navajo land.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 313-318
+  quote_or_summary: The land consists mostly of plains, plateaux, and mesas; forests
+    vary by altitude, and spruce is found in shaded valleys and northern slopes and
+    is essential in certain rites.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal geographic, agricultural, and ritual references are clear. Motif
+    candidates are limited because this introductory passage does not narrate a myth,
+    though it explicitly mentions mythic allusions to farms or gardens and ritual
+    use of spruce.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l233-l318
+  passage_sha256=d38fb1b638db6c93fd35cb5160ecca0e1cbd32d35db8794b1b7224bb813801b3
+

@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l21527-l21572
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: COMMAND IV. / COMMAND V. / COMMAND VI. / COMMAND VII.; lines 21527-21572
+  start: '21527'
+  end: '21572'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage instructs the addressee to fear God, keep God’s commandments,
+    avoid fearing the Devil, avoid the Devil’s evil works, and associate obedience
+    with life in the Lord.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage commands the addressee to fear God and keep his commandments.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Keeping God’s commandments is said to make the addressee powerful in every
+    work and to make the works excellent.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says not to fear the Devil because fearing the Lord gives dominion
+    over him and because no power is in him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The works of the Devil are described as evil, and the addressee is told to
+    keep away from them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The passage describes a twofold fear: fear of the Lord prevents evil and
+    supports doing good.'
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Those who fear God and keep his commandments are said to live and to have
+    life with the Lord, while those who do not keep them are said to have no life
+    in them.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The one whom the addressee is instructed to fear and whose commandments
+    are to be kept.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the Devil
+  description: A figure whom the addressee is told not to fear; he is described as
+    having no power, while his works are called evil.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the addressee / commandment-keeper
+  description: The addressed person or persons instructed to fear God, keep commandments,
+    avoid the Devil’s works, and receive life with the Lord.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: rightful object of fear and obedience
+  assigned_to:
+  - fig:1
+  basis: The passage commands fear of God and obedience to his commandments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: powerless adversary with evil works
+  assigned_to:
+  - fig:2
+  basis: The Devil is said to have no power and his works are called evil.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: instructed moral agent
+  assigned_to:
+  - fig:3
+  basis: The addressed person is instructed to fear God, keep commandments, avoid
+    evil works, and live.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Command to fear God and not the Devil
+  summary: The speaker instructs the addressee to fear God, keep commandments, and
+    not fear the Devil because the Devil lacks power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Twofold fear and consequences for life
+  summary: The passage explains that fear of the Lord prevents evil and supports good,
+    ending with a contrast between life with the Lord for commandment-keepers and
+    lack of life for non-keepers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Fear of God as saving wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents fear of God and commandment-keeping as the path to doing
+    well, being saved, and having life with the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy link is broad; the passage is didactic instruction rather
+    than a narrative wisdom tale.
+- id: motif:2
+  label: Contrast between divine obedience and evil works
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts fearing God with not fearing the Devil, good action
+    with the Devil’s evil works, and life with absence of life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not present a balanced cosmic dualism; it explicitly
+    says the Devil has no power.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21527-21531
+  quote_or_summary: Command VII is introduced as teaching that one must fear God but
+    not the Devil.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 21532-21540
+  quote_or_summary: The addressee is told to fear God and keep his commandments; obedience
+    is associated with power in every work and excellent works.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 21541-21551
+  quote_or_summary: The passage says not to fear the Devil; fear of the Lord gives
+    dominion over him because there is no power in him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 21552-21558
+  quote_or_summary: The addressee is told to fear the works of the Devil because they
+    are evil and to keep away from them.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 21559-21565
+  quote_or_summary: 'A twofold fear is described: fear the Lord in order not to do
+    evil, and the fear of the Lord is strong, great, and glorious for doing good.'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 21566-21572
+  quote_or_summary: Those who fear God and keep his commandments are said to live
+    and have life with the Lord; those who do not keep them are said to have no life
+    in them.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignments are broad and require
+    human review. No passage-supported comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol is explicitly present in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l21527-l21572
+  passage_sha256=ea4f395d94a33f9f584c4f4690f5c729039305581e4e9ba2efbb928617fb37db
+

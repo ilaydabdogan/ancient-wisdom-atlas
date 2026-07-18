@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l1808-l1913
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER VIII. / CHAPTER IX. / CHAPTER X. / CHAPTER XI.; lines 1808-1913
+  start: '1808'
+  end: '1913'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: I will cause you both to drink the water of the Lord, which is for trial
+  summary: Annas sees Mary pregnant and reports Joseph to the priest. Mary and Joseph
+    are tried; both deny sexual wrongdoing. The priest invokes Mary's sacred upbringing
+    and orders a water ordeal. Joseph drinks the water, is sent to a mountainous place,
+    returns unharmed, and the priest releases them. Joseph takes Mary home rejoicing
+    and praising God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Annas the scribe visits Joseph and asks why he has not been seen since his
+    return; Joseph says he was weary from his journey and rested.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Annas perceives the Virgin as pregnant and reports to the priest that Joseph
+    has defiled her and privately married her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Servants are sent and find Mary to be with child as Annas reported.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mary and Joseph are brought to trial before the priest.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The priest states that Mary had been brought up in the Holy of Holies, fed
+    by angels, and had heard their songs.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:6
+  text: Mary weeps and declares before God that she is innocent and knows no man.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Joseph declares before God that he has not been concerned with Mary.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The priest says Joseph must restore the Virgin to the temple and announces
+    that the water of the Lord will be used as a trial to disclose iniquity.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The priest makes Joseph drink the water and sends him to a mountainous place.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Joseph returns perfectly well, and the people wonder that his guilt was not
+    discovered.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The priest says the Lord has not made their sins evident, does not condemn
+    them, and sends them away.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Joseph takes Mary to his house, rejoicing and praising the God of Israel.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Annas the scribe
+  description: A scribe who visits Joseph, notices Mary is pregnant, and reports the
+    matter to the priest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Joseph
+  description: The man accused in connection with Mary; he denies wrongdoing, drinks
+    the ordeal water, returns well, and takes Mary home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Mary / the Virgin
+  description: The Virgin who is found to be with child, is brought to trial, and
+    declares that she is innocent and knows no man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: The priest / high priest
+  description: The priest receives Annas's report, questions Mary and Joseph, administers
+    the water ordeal, and releases them when guilt is not shown.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Servants
+  description: Servants are sent to verify Annas's report and find Mary to be with
+    child.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: The people
+  description: The people wonder when Joseph returns well and his guilt is not discovered.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Angels
+  description: Angels are mentioned as having fed Mary and sung songs during her upbringing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: accuser and informant
+  assigned_to:
+  - fig:1
+  basis: Annas reports the pregnancy and accuses Joseph before the priest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accused custodian subjected to ordeal
+  assigned_to:
+  - fig:2
+  basis: Joseph is accused, denies involvement, is made to drink the water, and returns
+    unharmed.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: accused pregnant virgin
+  assigned_to:
+  - fig:3
+  basis: Mary is pregnant, brought to trial, and declares that she knows no man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: priestly judge and ordeal administrator
+  assigned_to:
+  - fig:4
+  basis: The priest questions the accused, orders the ordeal, interprets the result,
+    and releases them.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: verifying messengers
+  assigned_to:
+  - fig:5
+  basis: Servants are sent to check Annas's claim and confirm Mary is with child.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: public witnesses
+  assigned_to:
+  - fig:6
+  basis: The people react with wonder to Joseph's unharmed return.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: angelic nurturers in recalled past
+  assigned_to:
+  - fig:7
+  basis: The priest says Mary received food from angels and heard their songs.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Water of the Lord / bitter water
+  literal_form: Water used for trial; the passage glosses it as bitter water that
+    causes the curse.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Mountainous place
+  literal_form: A mountainous place to which Joseph is sent after drinking the water.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Holy of Holies
+  literal_form: The sacred place where Mary is said to have been brought up.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Angelic food and songs
+  literal_form: Food from the hands of angels and the hearing of angels' songs.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Annas reports Mary’s pregnancy
+  summary: Annas visits Joseph, sees that the Virgin is pregnant, reports an accusation
+    to the priest, and servants confirm the pregnancy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Trial of Mary and Joseph
+  summary: Mary and Joseph are brought before the priest. The priest questions them,
+    recalls Mary’s sacred upbringing, and both deny wrongdoing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: scene:3
+  label: Water ordeal and mountain sending
+  summary: The priest announces the water trial, makes Joseph drink, sends him to
+    a mountainous place, and Joseph returns perfectly well while the people wonder.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Release and return home
+  summary: The priest says the Lord has not made their sins evident, releases them,
+    and Joseph takes Mary home with praise.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ordeal by sacred water as divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The priest says the water of the Lord is for trial and will reveal iniquity;
+    after Joseph drinks and returns well, the priest treats the lack of disclosed
+    sin as grounds not to condemn.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The narrative only explicitly describes Joseph drinking the water, although
+    the priest initially says both Mary and Joseph will drink.
+- id: motif:2
+  label: Unharmed return as vindication
+  taxonomy_refs:
+  - return
+  - divine_judgment
+  basis: Joseph is sent to a mountainous place after drinking the water and returns
+    perfectly well; the people wonder that his guilt was not discovered.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The return is brief and functions within the legal ordeal scene rather
+    than as an extended journey narrative.
+- id: motif:3
+  label: Virgin pregnancy under accusation
+  taxonomy_refs:
+  - sacred_birth
+  basis: Mary is perceived to be with child, is accused, and declares before God that
+    she knows no man.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate conception, birth, or the child's identity
+    within this excerpt.
+- id: motif:4
+  label: Angelic nurture in sacred space
+  taxonomy_refs:
+  - miraculous_child
+  basis: The priest states that Mary was brought up in the Holy of Holies, received
+    food from angels, and heard their songs.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is reported in the priest’s speech rather than narrated as a present
+    action in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The water ordeal is explicitly framed as a trial that can disclose hidden
+    iniquity and is glossed as bitter water causing a curse; within the supplied passage,
+    it can be cautiously compared at the functional level to a bitter-water ordeal
+    pattern.
+  claim_level: same_function
+  target: bitter-water ordeal pattern named by the passage's bracketed gloss
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external comparative source is supplied here, and the narrative
+    explicitly describes only Joseph undergoing the drinking and return.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XI.1-7 within lines 1808-1913
+  quote_or_summary: Annas visits Joseph, notices the Virgin is pregnant, reports to
+    the priest that Joseph defiled and privately married her, and servants confirm
+    she is with child.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: Chapter XI.8-10 within lines 1808-1913
+  quote_or_summary: Mary and Joseph are brought to trial, and the priest asks Mary
+    what she has done and why she has debased her soul and forgotten God.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: Chapter XI.11 within lines 1808-1913
+  quote_or_summary: 'Mary answers with tears: "As the Lord my God liveth, I am innocent
+    in his sight, seeing I know no man."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: Chapter XI.12-16 within lines 1808-1913
+  quote_or_summary: Joseph denies being concerned with Mary; the priest accuses him
+    of private marriage and says he must restore the Virgin to the temple of the Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: Chapter XI.17 within lines 1808-1913
+  quote_or_summary: 'The priest says: "I will cause you both to drink the water of
+    the Lord, which is for trial," and the passage adds the gloss "bitter water that
+    causeth the curse."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: Chapter XI.18-19 within lines 1808-1913
+  quote_or_summary: The priest takes the water, makes Joseph drink, sends him to a
+    mountainous place, and Joseph returns perfectly well; the people wonder that his
+    guilt was not discovered.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: Chapter XI.20-22 within lines 1808-1913
+  quote_or_summary: The priest says the Lord has not made their sins evident and does
+    not condemn them; Joseph takes Mary to his house, rejoicing and praising the God
+    of Israel.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: Chapter XI.9 within lines 1808-1913
+  quote_or_summary: The priest says Mary was brought up in the Holy of Holies, received
+    food from the hands of angels, and heard their songs.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for the trial, water ordeal, and release sequence. Motif
+    identifications for virgin pregnancy and angelic nurture are cautious because
+    the excerpt does not narrate conception, birth, or the earlier upbringing directly.
+    Verse-level locators are used within the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage text and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l1808-l1913
+  passage_sha256=1881295222e8fe5d5b5a2c81d042260947f89eef5bf8fe7de797ea7e81283d99
+

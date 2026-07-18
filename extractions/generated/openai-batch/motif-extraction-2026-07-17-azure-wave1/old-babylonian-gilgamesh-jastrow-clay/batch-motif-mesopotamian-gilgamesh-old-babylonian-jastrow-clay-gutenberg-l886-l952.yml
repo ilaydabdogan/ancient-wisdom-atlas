@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l886-l952
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: An Old Babylonian Version of the Gilgamesh Epic / Part III / PREFATORY NOTE
+    / INTRODUCTION.; lines 886-952
+  start: '886'
+  end: '952'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses conjectures about the foreign or West-Semitic origin
+    and Sumerianized forms of the name Gilgamesh, then summarizes evidence from the
+    Pennsylvania fragment, Assyrian version, and Sumerian texts for Gilgamesh/Gish
+    and Enkidu as resembling counterparts, mountain- or field-associated figures,
+    and brothers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Galumum, Arpi, and Etana appear Amoritic, and raises but
+    does not substantiate conjectures about Gilgamesh belonging to the Amurru region
+    or being a foreigner from the East in contrast to Enkidu.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage concludes that Gilgamesh as the real or closest-to-real name points
+    to foreign origin, while forms such as dGish-bil-ga-mesh and dGish-bl-gi-mesh
+    are described as Sumerianized forms with artificial etymology.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the Pennsylvania fragment, Ninsun interprets Gish's dream as announcing
+    the coming of someone like Gish, described as born in the field and reared in
+    the mountain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that this field-and-mountain description shows the two
+    heroes as having come to Babylonia from a mountainous region and therefore as
+    foreigners.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When Enkidu appears on the streets of Erech, the people notice his resemblance
+    to Gish and say he is like Gish but shorter in stature.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Enkidu is described in the passage as a rival or counterpart of Gish.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the Assyrian version, the people urge Aruru to create a counterpart of
+    Gilgamesh, someone like him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Assyrian version is summarized as saying Enkidu comes from the mountain,
+    that the mountain is his birthplace, and that another passage calls him born in
+    the field.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage cites several textual witnesses in which Gilgamesh is called the
+    younger brother or brother of Enkidu, including Gilgamesh's lament over Enkidu
+    and Sumerian fragments.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh / Gish
+  description: One of the two main figures of the Epic; discussed as a hero whose
+    name may point to foreign origin, who resembles Enkidu, and who is called brother
+    or younger brother of Enkidu in cited witnesses.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Enkidu
+  description: One of the two main figures of the Epic; described as like Gish, shorter
+    in stature, a rival or counterpart, associated with field and mountain origins,
+    and paired with Gilgamesh as brother.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ninsun
+  description: Gish's mother, who interprets his dream and explains the coming of
+    someone like him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Aruru
+  description: A goddess in the Assyrian version whom the people urge to create a
+    counterpart of Gilgamesh.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: People of Erech / the people
+  description: A collective group who notice Enkidu's resemblance to Gish in Erech
+    and, in the Assyrian version, urge Aruru to create a counterpart of Gilgamesh.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: central hero
+  assigned_to:
+  - fig:1
+  basis: The passage calls Gilgamesh the hero and one of the two main figures of the
+    Epic.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: field-and-mountain-associated counterpart
+  assigned_to:
+  - fig:2
+  basis: Enkidu is described as like Gish, as a rival or counterpart, and as associated
+    with birth or origin in field and mountain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: brother or paired counterpart
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage cites language identifying Gilgamesh as the younger brother or
+    brother of Enkidu, alongside descriptions of likeness and counterpart status.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: mother and dream interpreter
+  assigned_to:
+  - fig:3
+  basis: Ninsun is identified as Gish's mother and is said to interpret his dream.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: creator goddess
+  assigned_to:
+  - fig:4
+  basis: In the Assyrian version, Aruru is urged to create Enkidu as Gilgamesh's counterpart.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: collective witnesses and petitioners
+  assigned_to:
+  - fig:5
+  basis: The people notice Enkidu's resemblance to Gish and also urge Aruru to create
+    a counterpart in the Assyrian version.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Mountain or mountainous region
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: field
+  literal_form: Field as place of birth in the cited descriptions
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Sumerianized name
+  literal_form: Forms such as dGish-bil-ga-mesh, dGish-bl-gi-mesh, and dGish-gi-mash
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ninsun interprets Gish's dream
+  summary: Ninsun explains that Gish's dream announces the coming of someone like
+    him, born in the field and reared in the mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Enkidu appears in Erech
+  summary: Enkidu appears on the streets of Erech, and the people observe that he
+    resembles Gish but is shorter in stature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Aruru is urged to create a counterpart
+  summary: In the Assyrian version, the people ask Aruru to create Enkidu as a counterpart
+    of Gilgamesh, someone like him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Brother designation across witnesses
+  summary: The passage cites Assyrian and Sumerian textual witnesses in which Gilgamesh
+    is called the younger brother or brother of Enkidu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: counterpart or double-hero pair
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly describes Gish/Gilgamesh and Enkidu as alike, with
+    Enkidu called a rival, counterpart, or someone like Gilgamesh.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a scholarly introduction summarizing textual witnesses
+    rather than a continuous narrative episode.
+- id: motif:2
+  label: brother-pair designation
+  taxonomy_refs:
+  - sibling_pair
+  basis: Gilgamesh is identified as the younger brother or brother of Enkidu in several
+    cited witnesses, including Sumerian fragments.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not establish whether the brother terminology is biological,
+    social, literary, or metaphorical.
+- id: motif:3
+  label: field-and-mountain origin of a hero or counterpart
+  taxonomy_refs: []
+  basis: The coming figure like Gish is described as born in the field and reared
+    in the mountain, and Enkidu is also associated with mountain origin and field
+    birth in the Assyrian version.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy includes mountain as a symbol, but the passage
+    does not support assigning a cosmic-mountain motif.
+- id: motif:4
+  label: dream-foretold arrival of a counterpart
+  taxonomy_refs: []
+  basis: Ninsun interprets Gish's dream as portending the arrival of someone like
+    Gish.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a brief summarized interpretation of the dream is provided in this
+    passage.
+- id: motif:5
+  label: divine creation of a matching counterpart
+  taxonomy_refs:
+  - duality
+  basis: In the Assyrian version, the people ask the goddess Aruru to create the counterpart
+    of Gilgamesh, someone like him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The creation scene is cited in summary form and not quoted at length.
+comparison_claims:
+- id: claim:1
+  claim: The Pennsylvania fragment and the Assyrian version share a pattern in which
+    Enkidu is presented as someone like Gilgamesh, a counterpart or matching figure.
+  claim_level: same_motif
+  target: Pennsylvania fragment and Assyrian version of the Gilgamesh Epic
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim follows the passage's own comparison, but details are mediated
+    through the scholarly summary.
+- id: claim:2
+  claim: The brother relationship between Gilgamesh and Enkidu is presented as recurring
+    in Assyrian and Sumerian textual witnesses.
+  claim_level: same_motif
+  target: Assyrian version, last tablet of the Epic, Constantinople fragment, and
+    Zimmern's Sumerian text
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage cites these witnesses but does not reproduce their full
+    contexts.
+- id: claim:3
+  claim: The passage states that the close relationship of Gilgamesh and Enkidu reverts
+    to the Sumerian version, suggesting continuity of the paired-brother pattern across
+    versions.
+  claim_level: common_inheritance
+  target: Sumerian and later Akkadian/Assyrian Gilgamesh traditions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is based on the author's textual-historical assertion in the passage
+    and should be checked against the cited fragments.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 886-914
+  quote_or_summary: The passage discusses Amoritic-looking names, conjectures about
+    Gilgamesh's possible Amurru or foreign origin, and says Sumerianized name forms
+    created an artificial etymology for the hero.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 918-928
+  quote_or_summary: Ninsun interprets Gish's dream as portending someone like Gish,
+    "born in the field and reared in the mountain"; the passage says both heroes are
+    thereby shown as foreigners from a mountainous region.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 929-933
+  quote_or_summary: When Enkidu appears in Erech, the people say he is "like Gish,"
+    though "shorter in stature"; the passage calls Enkidu a rival or counterpart.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 935-942
+  quote_or_summary: In the Assyrian version, the people urge Aruru to create the "counterpart"
+    of Gilgamesh, someone like him; Enkidu is said to come from the mountain and to
+    be "born in the field."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpts quoted.
+- id: ev:5
+  type: quote
+  locator: lines 942-952
+  quote_or_summary: Gilgamesh is called the "younger brother" or "brother" of Enkidu
+    in cited Assyrian and Sumerian witnesses, including Gilgamesh's lament and Sumerian
+    fragments.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpts quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a scholarly prefatory discussion that summarizes
+    several textual witnesses. Literal extraction is strong, while motif and comparison
+    labels require review against the cited primary passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, motifs, taxonomy IDs, or comparisons beyond those supported by the supplied passage and available taxonomy were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l886-l952
+  passage_sha256=578d4a9b4b75fde5be3d61e82d8e51ca3f435634c4cac3a3b79945765a15415c
+

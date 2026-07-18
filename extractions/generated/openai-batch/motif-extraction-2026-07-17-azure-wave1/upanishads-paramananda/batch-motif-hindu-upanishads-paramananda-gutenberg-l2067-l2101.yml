@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l2067-l2101
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: Part Sixth / XVIII / PEACE CHANT / OM! PEACE! PEACE! PEACE!; lines 2067-2101
+  start: '2067'
+  end: '2101'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage concludes the Nachiketas teaching by stating that he gained
+    wisdom from the Ruler of Death, learned the rules of Yoga, became free from impurity
+    and death, and attained Brahman. It adds a peace chant invoking the Supreme Being
+    for protection, strength, illumination, and absence of enmity, then introduces
+    the Kena-Upanishad and describes its analytical purpose of leading thought from
+    gross to subtle and toward identity with God-Consciousness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nachiketas is said to have acquired wisdom taught by the Ruler of Death, together
+    with rules of Yoga.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nachiketas is said to have become free from impurity and death and to have
+    attained Brahman, described parenthetically as the Supreme.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the same result will come to another who likewise
+    knows the nature of the Self.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The peace chant asks the Supreme Being to protect both participants, be pleased
+    with them, grant strength, make study illuminating, and remove enmity between
+    them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The chant closes with the utterance of Om and three repetitions of peace.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage marks the end of one Upanishad and then introduces the Kena-Upanishad.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Kena-Upanishad is described as named from its opening word and also known
+    as the Talavakara-Upanishad because of its place in the Talavakara-Brahmana of
+    the Sama-Veda.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Kena-Upanishad is described as analytical and metaphysical, aiming to
+    lead the mind from gross to subtle and from effect to cause.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Kena-Upanishad is said to use questions and answers to locate the source
+    of human being and expand self-consciousness until identical with God-Consciousness.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nachiketas
+  description: A recipient of wisdom from the Ruler of Death who becomes free from
+    impurity and death and attains Brahman.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ruler of Death
+  description: The one who taught wisdom to Nachiketas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Brahman / the Supreme
+  description: The Supreme attained by Nachiketas; also the Supreme Being invoked
+    in the peace chant.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Another who knows the nature of the Self
+  description: A generic knower for whom the passage says the same result will occur.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Both participants in the peace chant
+  description: The pair referred to by the chant’s request that the Supreme Being
+    protect and be pleased with “us both” and that there be no enmity among “us.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of death-taught wisdom
+  assigned_to:
+  - fig:1
+  basis: Nachiketas is described as having acquired wisdom taught by the Ruler of
+    Death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: knower of the Self leading to liberation
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage links knowing the nature of the Self with freedom from impurity
+    and death and attainment of Brahman.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: teacher of wisdom
+  assigned_to:
+  - fig:2
+  basis: The Ruler of Death is named as the teacher of the wisdom acquired by Nachiketas.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: supreme attainment
+  assigned_to:
+  - fig:3
+  basis: Nachiketas is said to have attained Brahman, glossed as the Supreme.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: protector invoked in chant
+  assigned_to:
+  - fig:3
+  basis: The peace chant asks the Supreme Being to protect both participants and be
+    pleased with them.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: participants in shared sacred study
+  assigned_to:
+  - fig:5
+  basis: The chant speaks in the plural of protection, strength, study, and absence
+    of enmity among the participants.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Om
+  literal_form: The syllable “OM” at the close of the peace chant.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Threefold peace
+  literal_form: The word “PEACE” repeated three times after Om.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Brahman as Supreme attainment
+  literal_form: Brahman, parenthetically glossed as “the Supreme,” attained by Nachiketas.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Self-knowledge
+  literal_form: Knowledge of “the nature of the Self” named as a condition for the
+    same outcome as Nachiketas.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Nachiketas attains Brahman after instruction
+  summary: Nachiketas acquires wisdom from the Ruler of Death, receives the rules
+    of Yoga, becomes free from impurity and death, and attains Brahman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Peace chant for shared study
+  summary: A chant invokes the Supreme Being for mutual protection, favor, strength,
+    illumination in study, and freedom from enmity, closing with Om and three repetitions
+    of peace.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Introduction of the Kena-Upanishad
+  summary: The passage introduces the Kena-Upanishad by its name, alternate title,
+    textual placement, analytical character, and aim of guiding the mind from gross
+    to subtle and toward God-Consciousness.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom taught by the lord of death
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: Nachiketas receives wisdom from the Ruler of Death and rules of Yoga, after
+    which he is described as liberated from impurity and death and attaining Brahman.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a conclusion to a larger narrative; details of the teaching
+    and the encounter with Death are not present in this excerpt.
+- id: motif:2
+  label: Self-knowledge leading to liberation from death
+  taxonomy_refs:
+  - wisdom
+  - annihilation_union
+  basis: 'The passage says that knowing the nature of the Self leads to the same result
+    as Nachiketas: freedom from impurity and death and attainment of Brahman.'
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The term “annihilation_union” is used cautiously because the excerpt states
+    attainment of Brahman and knowledge of Self, but does not describe annihilation
+    in narrative terms.
+- id: motif:3
+  label: Sacred study protected by a peace invocation
+  taxonomy_refs: []
+  basis: The peace chant asks the Supreme Being to protect both participants, grant
+    strength, illuminate study, prevent enmity, and closes with Om and threefold peace.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a liturgical formula rather than a narrative mythic episode.
+- id: motif:4
+  label: Metaphysical quest from effect to cause
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The Kena-Upanishad is described as using questions and answers to lead the
+    mind from gross to subtle, from effect to cause, and toward the source of human
+    being and God-Consciousness.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This comes from introductory description of the Upanishad’s purpose, not
+    from a discrete mythic scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2069-2073
+  quote_or_summary: Nachiketas acquires wisdom taught by the Ruler of Death, along
+    with rules of Yoga; he becomes free from impurity and death, attains Brahman,
+    and the same is promised to another who knows the nature of the Self.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2075-2081
+  quote_or_summary: The peace chant invokes the Supreme Being for mutual protection,
+    favor, strength, illumination in study, absence of enmity, and ends with Om and
+    three repetitions of peace.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2083-2085
+  quote_or_summary: The passage states that the Upanishad ends and then gives the
+    heading “Kena-Upanishad.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2087-2090
+  quote_or_summary: The Kena-Upanishad is named from its opening word and is also
+    known as the Talavakara-Upanishad due to its place in the Talavakara-Brahmana
+    of the Sama-Veda.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2091-2101
+  quote_or_summary: The Kena-Upanishad is described as analytical and metaphysical,
+    leading the mind from gross to subtle and effect to cause, and using questions
+    and answers to locate the source of human being and expand self-consciousness
+    into identity with God-Consciousness.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignments are cautious because
+    part of the passage is an editorial transition and introduction rather than a
+    narrative episode. No comparison claims were made beyond the passage-level motif
+    candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l2067-l2101
+  passage_sha256=50de9dfa4b4c6b5cfd2d2ec59e5bfbe76ac0ff9b0a7e7ceab6a9f24df1805373
+

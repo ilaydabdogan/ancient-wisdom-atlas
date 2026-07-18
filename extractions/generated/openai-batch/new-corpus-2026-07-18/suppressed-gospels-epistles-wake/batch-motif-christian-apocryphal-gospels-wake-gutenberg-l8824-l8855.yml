@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8824-l8855
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER VIII. / CHAPTER IX. / CHAPTER X. / CHAPTER XI.; lines 8824-8855
+  start: '8824'
+  end: '8855'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Annæus Seneca sends greetings and wishes happiness to Paul, praises Paul
+    as great and eminent, discusses the order of names in an epistle, notes Paul’s
+    Roman citizenship, wishes their stations could be exchanged, and closes with a
+    dated farewell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a letter from Annæus Seneca to Paul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seneca greets Paul and wishes him happiness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Seneca describes Paul as great, agreeable, eminent, and exalted above others.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Seneca says that being an intimate friend of Paul would make him happy.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Seneca says Paul should not think himself unfit to be named first in the inscription
+    of an epistle.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Seneca refers to Paul as a Roman citizen.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Seneca wishes that he were in Paul’s circumstance or station and that Paul
+    were in his.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The letter ends with a farewell and a date in the consulship of Aprianus and
+    Capito.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Annæus Seneca
+  description: Named as the sender of the letter to Paul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Paul
+  description: Named as the addressee; described by Seneca as great, eminent, exalted,
+    and a Roman citizen.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the letter as from Annæus Seneca to Paul.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: letter addressee
+  assigned_to:
+  - fig:2
+  basis: The heading and greeting address Paul.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: honored intimate friend
+  assigned_to:
+  - fig:2
+  basis: Seneca describes Paul as great and says that intimate friendship with him
+    would make Seneca happy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Roman citizen
+  assigned_to:
+  - fig:2
+  basis: Seneca says Paul knows himself to be a Roman citizen.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Seneca’s epistolary greeting to Paul
+  summary: Seneca opens the letter by greeting Paul and wishing him happiness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Praise and wished exchange of stations
+  summary: Seneca praises Paul’s eminence, comments on the ordering of names in an
+    epistle, notes Paul’s Roman citizenship, and wishes that he and Paul could exchange
+    social circumstances or stations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: epistolary friendship between eminent figures
+  taxonomy_refs: []
+  basis: The passage frames Seneca and Paul in a direct letter relationship and emphasizes
+    intimate friendship and honor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a social and literary pattern rather than a mythic motif from
+    the supplied taxonomy.
+- id: motif:2
+  label: honor through name order in a letter
+  taxonomy_refs: []
+  basis: Seneca discusses whether Paul should be named first in the inscription of
+    an epistle because of his eminence.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is limited to epistolary convention in this passage.
+- id: motif:3
+  label: wished exchange of stations
+  taxonomy_refs: []
+  basis: Seneca explicitly wishes he were in Paul’s circumstance or station and Paul
+    in his.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a wish, not an enacted transformation or role reversal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8824-8830
+  quote_or_summary: "“ANNAEUS SENECA to PAUL Greeting. ALL happiness to you, my dearest
+    Paul.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8831-8838
+  quote_or_summary: Seneca says Paul is great and agreeable, and says Seneca would
+    be happy if Paul became an intimate friend to him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8839-8848
+  quote_or_summary: Seneca describes Paul as eminent and exalted, discusses Paul being
+    named first in an epistle’s inscription, and refers to Paul as a Roman citizen.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8849-8855
+  quote_or_summary: Seneca wishes he were in Paul’s circumstance or station and Paul
+    in his, then closes with farewell and a consular date.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is epistolary and contains no explicit mythic symbols or comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the available taxonomy are present in the supplied passage. No comparison claims are made because the passage itself does not support a comparative linkage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8824-l8855
+  passage_sha256=7532c9eb002c8455bb15b7b507dc9475c19ce0c85bef8a1312ded80f4a0631eb
+

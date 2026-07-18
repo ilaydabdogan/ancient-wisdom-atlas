@@ -1,0 +1,635 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l21023-l21096
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 21023-21096
+  start: '21023'
+  end: '21096'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Hans gives meat to a begging dwarf, refuses a third request, defeats him,
+    and follows him to a rock-hole. Lowered by his companions into the depths, Hans
+    finds a chained king’s daughter guarded by the dwarf, kills the dwarf, and sends
+    the maiden upward in a basket. His companions betray him by dropping the basket,
+    but Hans discovers the dwarf’s shining ring, summons spirits of the air, and is
+    carried upward. He pursues his companions to the sea, is saved from drowning by
+    the spirits, punishes the companions, brings the maiden home, and marries her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hans gives the dwarf meat twice but refuses a third request.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dwarf tries to attack Hans, and Hans strikes him and drives him down the
+    castle steps.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hans follows the dwarf to the forest and sees him slip into a hole in the
+    rock.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hans, his two companions, a basket, a rope, and his club are taken to the
+    rock-hole, and Hans is lowered into it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At the bottom Hans finds a door, a chained maiden, and the dwarf beside her.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Hans kills the dwarf with his club, and the maiden’s chains immediately fall
+    from her.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The maiden says she is a king’s daughter stolen from home by a savage count,
+    imprisoned among the rocks, and guarded by the dwarf.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Hans sends the maiden up in the basket, but distrusts his companions and puts
+    his club in the basket instead of himself.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The companions let the basket fall when it is halfway up; the text says Hans
+    would have been killed if he had been in it.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Hans takes a shining ring from the dead dwarf and turns it on his finger.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Spirits of the air appear, call Hans their master, and obey his request to
+    carry him above.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: After reaching the surface, Hans learns through the ring and spirits that
+    his companions and the maiden are on the sea.
+  category: sequence
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: Hans leaps into the water with his heavy club and nearly drowns before turning
+    the ring again.
+  category: action
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: The spirits carry Hans into the boat, where he strikes his companions and
+    throws them into the water.
+  category: action
+  evidence_refs:
+  - ev:14
+- id: obs:15
+  text: Hans brings the maiden home to her parents and marries her.
+  category: sequence
+  evidence_refs:
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: Hans
+  description: The protagonist who stays at home, gives meat to the dwarf, descends
+    into the rock-hole, rescues the maiden, uses the ring, and punishes his companions.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:10
+  - ev:14
+  - ev:15
+- id: fig:2
+  name_or_label: Dwarf
+  description: A malicious dwarf who demands meat, attacks Hans, slips into a rock-hole,
+    guards the chained maiden, and wears a shining ring.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: King’s daughter / maiden
+  description: A beautiful maiden bound with chains in the underground chamber; she
+    says she was stolen from home by a savage count and imprisoned among the rocks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:15
+- id: fig:4
+  name_or_label: Fir-twister
+  description: One of Hans’s companions; he helps lower Hans into the hole but later
+    leaves with the maiden and lets the basket fall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:12
+  - ev:14
+- id: fig:5
+  name_or_label: Rock-splitter
+  description: One of Hans’s companions; he helps lower Hans into the hole but later
+    leaves with the maiden and lets the basket fall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:12
+  - ev:14
+- id: fig:6
+  name_or_label: Savage count
+  description: The maiden says this count stole her from home, imprisoned her among
+    the rocks, and set the dwarf as watchman.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Spirits of the air
+  description: Beings that appear when Hans turns the dwarf’s ring; they call Hans
+    their master and carry him above and later into the boat.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+  - ev:14
+- id: fig:8
+  name_or_label: Father and mother of the maiden
+  description: The maiden is brought home to her father and mother.
+  role_refs: []
+  evidence_refs:
+  - ev:15
+roles:
+- id: role:1
+  label: rescuer
+  assigned_to:
+  - fig:1
+  basis: Hans kills the dwarf, frees the maiden from chains, later rescues her again
+    from his companions, and brings her home.
+  evidence_refs:
+  - ev:6
+  - ev:14
+  - ev:15
+- id: role:2
+  label: descender into the depths
+  assigned_to:
+  - fig:1
+  basis: Hans is lowered into the rock-hole in a basket and remains trapped below
+    after betrayal.
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: role:3
+  label: hostile guard
+  assigned_to:
+  - fig:2
+  basis: The dwarf attacks Hans and is described as the watchman set over the imprisoned
+    maiden.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: captive royal maiden
+  assigned_to:
+  - fig:3
+  basis: The maiden is chained in the underground chamber and identifies herself as
+    a king’s daughter stolen from home.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: faithless companion
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Hans distrusts his companions; they let the basket fall and later depart
+    with the maiden.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:12
+- id: role:6
+  label: abductor or imprisoner
+  assigned_to:
+  - fig:6
+  basis: The maiden says the count stole her from home and imprisoned her among the
+    rocks.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: supernatural helper
+  assigned_to:
+  - fig:7
+  basis: The spirits obey Hans after he turns the ring and carry him upward and into
+    the boat.
+  evidence_refs:
+  - ev:11
+  - ev:14
+symbols:
+- id: sym:1
+  label: rock-hole and underground chamber
+  literal_form: A hole in the rock leading downward to a door and a chamber where
+    the maiden is held.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: basket and rope
+  literal_form: A basket and rope used to lower Hans into the rock-hole and to raise
+    the maiden.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: club
+  literal_form: Hans’s club, lowered with him, used to kill the dwarf, placed in the
+    basket as a substitute for Hans, and later carried into the water and boat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:13
+  - ev:14
+- id: sym:4
+  label: chains
+  literal_form: Chains binding the maiden, which fall from her after the dwarf is
+    killed.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: shining ring
+  literal_form: A ring on the dead dwarf’s finger that shines and sparkles; when Hans
+    turns it, spirits of the air appear and obey him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:6
+  label: sea water
+  literal_form: The sea and water into which Hans leaps and into which he throws his
+    companions.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+  - ev:13
+  - ev:14
+scenes:
+- id: scene:1
+  label: Hans confronts the dwarf at the hearth
+  summary: While working in the kitchen, Hans gives the dwarf meat twice, refuses
+    a third request, and then strikes the attacking dwarf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pursuit to the rock-hole
+  summary: Hans pursues the dwarf into the forest, marks the rock-hole where the dwarf
+    disappears, and later returns there with his companions, a basket, a rope, and
+    his club.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Underground rescue of the maiden
+  summary: At the bottom of the rock-hole, Hans finds a chained king’s daughter guarded
+    by the dwarf, kills the dwarf, and frees her from the chains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Betrayal at the shaft
+  summary: Hans sends the maiden up in the basket, then sends his club as a test;
+    his companions let the basket fall, confirming the danger to him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Ring and aerial ascent
+  summary: Trapped below, Hans finds the dwarf’s ring, turns it, summons spirits of
+    the air, and is carried back above.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:6
+  label: Pursuit over the sea and return
+  summary: Hans uses the spirits to locate his companions at sea, nearly drowns after
+    leaping into the water, is carried into the boat, punishes the companions, and
+    brings the maiden home to marry her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:12
+  - ev:13
+  - ev:14
+  - ev:15
+candidate_motifs:
+- id: motif:1
+  label: descent into an underground place to rescue a captive
+  taxonomy_refs:
+  - hero_descent
+  basis: Hans is lowered into the rock-hole, reaches a chamber below, finds a chained
+    maiden, and frees her by killing the dwarf.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the descent as a rescue episode, not as an explicit
+    underworld journey.
+- id: motif:2
+  label: stolen and imprisoned royal maiden
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The maiden says she is a king’s daughter stolen from home by a count and
+    imprisoned among the rocks under guard.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The text describes abduction and imprisonment; the beloved relationship
+    develops after rescue rather than before abduction.
+- id: motif:3
+  label: betrayal by companions after a successful rescue
+  taxonomy_refs: []
+  basis: Hans sends the maiden upward, but his companions let the basket fall when
+    they believe he may be in it and later depart with the maiden.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:12
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this episode.
+- id: motif:4
+  label: magic ring commands supernatural helpers
+  taxonomy_refs: []
+  basis: After Hans takes and turns the shining ring, spirits of the air appear, call
+    him master, and carry him where he asks.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:14
+  confidence: high
+  cautions: No supplied symbol or motif taxonomy item directly names a magic ring
+    or spirit-command motif.
+- id: motif:5
+  label: ascent from depths by supernatural aid
+  taxonomy_refs:
+  - ascent
+  - return
+  basis: Hans is trapped below after the basket falls, but the spirits of the air
+    carry him back above after he turns the ring.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The ascent is literal and magical; broader return symbolism is not stated
+    by the passage.
+- id: motif:6
+  label: water peril overcome by supernatural aid
+  taxonomy_refs: []
+  basis: Hans leaps into the sea with a heavy club, nearly drowns, turns the ring,
+    and is borne by spirits into the boat.
+  evidence_refs:
+  - ev:13
+  - ev:14
+  confidence: medium
+  cautions: The available taxonomy includes the water symbol but no directly corresponding
+    water-peril motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21023-21033
+  quote_or_summary: Hans gives the begging dwarf meat twice but calls him shameless
+    and refuses the third request.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:2
+  type: summary
+  locator: 21033-21039
+  quote_or_summary: The dwarf attempts to attack Hans, but Hans strikes him and makes
+    him jump down the castle steps.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:3
+  type: summary
+  locator: 21039-21043
+  quote_or_summary: Hans follows the dwarf to the forest and sees him disappear into
+    a hole in the rock, marking the spot before returning home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:4
+  type: summary
+  locator: 21049-21053
+  quote_or_summary: The three men take a basket and rope to the rock-hole and let
+    Hans and his club down in the basket.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:5
+  type: summary
+  locator: 21053-21059
+  quote_or_summary: At the bottom Hans opens a door and finds a beautiful maiden sitting
+    bound in chains, with the dwarf beside her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:6
+  type: summary
+  locator: 21059-21063
+  quote_or_summary: Hans pities the maiden, strikes the dwarf dead with his club,
+    and the maiden’s chains fall from her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:7
+  type: summary
+  locator: 21063-21069
+  quote_or_summary: The maiden says she is a king’s daughter whom a savage count stole
+    from home and imprisoned among the rocks, setting the dwarf as watchman.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:8
+  type: summary
+  locator: 21069-21075
+  quote_or_summary: Hans has the maiden drawn up in the basket, then distrusts his
+    companions and sends his club in the basket instead of himself.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:9
+  type: summary
+  locator: 21075-21078
+  quote_or_summary: When the basket is halfway up, the companions let it fall; the
+    narration says Hans would have been killed if he had been inside.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:10
+  type: summary
+  locator: 21078-21084
+  quote_or_summary: Unable to find a way out, Hans returns to the chamber, sees the
+    dwarf’s shining ring, takes it, puts it on, and turns it on his finger.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:11
+  type: summary
+  locator: 21084-21090
+  quote_or_summary: After Hans turns the ring, spirits of the air appear above, call
+    him their master, ask his desire, and carry him above when asked.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:12
+  type: summary
+  locator: 21090-21096
+  quote_or_summary: Above ground Hans finds his companions gone with the maiden; after
+    he turns the ring, the spirits tell him they are on the sea, and he reaches the
+    shore.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:13
+  type: summary
+  locator: '21096'
+  quote_or_summary: Hans sees the companions in a boat, leaps into the water with
+    his heavy club, begins swimming, and is dragged deep until nearly drowned.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:14
+  type: summary
+  locator: '21096'
+  quote_or_summary: Hans turns the ring; the spirits carry him into the boat, where
+    he strikes his companions and throws them into the water.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+- id: ev:15
+  type: summary
+  locator: '21096'
+  quote_or_summary: Hans sails with the maiden, delivers her home to her father and
+    mother, marries her, and all rejoice.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; quotation avoided in favor of summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate
+    classifications from the supplied taxonomy where directly supported; no comparison
+    claims were added because the passage itself does not make external comparative
+    links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line naming the next tale, “167 The Peasant in Heaven,” was treated as outside the narrative episode for motif extraction.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l21023-l21096
+  passage_sha256=37eca46c43ca6863d29bfae74c6c71dbe0efb7d82e9688450169d55a45f9dc7b
+

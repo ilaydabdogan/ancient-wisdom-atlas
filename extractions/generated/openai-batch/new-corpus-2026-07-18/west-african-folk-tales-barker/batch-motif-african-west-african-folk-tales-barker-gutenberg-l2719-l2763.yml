@@ -1,0 +1,482 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l2719-l2763
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XXIX. QUARCOO BAH-BONI / XXX. KING CHAMELEON AND THE ANIMALS / XXXII. THE
+    UNGRATEFUL MAN / XXXIII. WHY TIGERS NEVER ATTACK MEN UNLESS THEY ARE PROVOKED;
+    lines 2719-2763
+  start: '2719'
+  end: '2763'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A hunter meets a tiger in the forest, and the two become friends and exchange
+    visits. The tiger later comes with his cub to comfort the man after the man's
+    father dies, bringing money. Two of the man's friends ambush and shoot the tiger,
+    who survives and tests whether the man was involved by pretending to be dead.
+    The man mourns and guards the tiger's body all night. Satisfied of the man's innocence,
+    the tiger rises and promises that, for the man's sake, he will not attack a man
+    unless first provoked.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man hunting in the forest meets a tiger; each is afraid at first, but after
+    talking they become friendly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man and the tiger agree that the man will live for two weeks in the tiger's
+    forest home, and then the tiger will live in the man's home.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The tiger treats the man well during the man's visit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Before visiting the man's home, the tiger fears that the man's friends may
+    kill him because they dislike his face; the man assures him that no one will touch
+    him while the man is present.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tiger stays at the man's house for three weeks and brings his male cub;
+    the young tiger becomes friendly with the man's son.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the man's father dies, Tiger and his cub visit to condole with the man
+    and bring a large sum of money to help him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: As Tiger is going home, two of the man's friends hide for him and shoot him;
+    he is wounded but not killed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Tiger is grieved and wants to discover whether the man had known anything
+    about the shooting.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Tiger goes to the forest place where he first met the man, lies down as if
+    dead, and tells his cub to watch what happens.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The man finds Tiger lying as if dead, cries and mourns for him, and sits all
+    night with Tiger's cub to keep harm from the body.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: In the morning Tiger concludes that the man had no part in the shooting, rises,
+    and explains why he pretended to be dead.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Tiger tells the man to remember him and says he will never touch a man unless
+    that man first meddles with him.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A hunter who meets Tiger in the forest, becomes his friend, hosts him,
+    receives his condolence visit, and mourns him when he thinks Tiger is dead.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Tiger
+  description: A tiger who befriends the man, hosts him, visits the man's home with
+    his cub, brings money after the man's father dies, is shot by the man's friends,
+    pretends to be dead to test the man, and vows not to attack men unless provoked.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Tiger's male cub
+  description: Tiger's male cub, who accompanies Tiger to the man's home, becomes
+    friendly with the man's son, goes with Tiger to console the man, and watches while
+    Tiger feigns death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the man's son
+  description: The son of the man, who becomes friendly with Tiger's young cub.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the man's father
+  description: The man's father, whose death prompts Tiger and his cub to visit and
+    condole with the man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: two of the man's friends
+  description: Two friends of the man who lie in hiding for Tiger and shoot him as
+    he is going home.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: human hunter, host, and friend
+  assigned_to:
+  - fig:1
+  basis: The man is hunting when he meets Tiger, later hosts Tiger in his home, and
+    mourns Tiger as a friend.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: animal friend, host, guest, and benefactor
+  assigned_to:
+  - fig:2
+  basis: Tiger befriends the man, hosts him in the forest, visits the man's house,
+    and brings money after the man's father dies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: cub companion and witness
+  assigned_to:
+  - fig:3
+  basis: The cub accompanies Tiger and is instructed to watch what happens when Tiger
+    feigns death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: child friend of the cub
+  assigned_to:
+  - fig:4
+  basis: The man's son becomes friendly with Tiger's male cub.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: deceased relative whose death prompts condolence
+  assigned_to:
+  - fig:5
+  basis: The father's death causes Tiger and his cub to visit the man and condole
+    with him.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: tester of loyalty through feigned death
+  assigned_to:
+  - fig:2
+  basis: Tiger lies down as if dead to discover whether the man knew about the shooting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:7
+  label: ambushers and shooters
+  assigned_to:
+  - fig:6
+  basis: Two of the man's friends hide for Tiger and shoot him.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: forest meeting place
+  literal_form: The forest location where the man first meets Tiger and where Tiger
+    later lies down as if dead.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: reciprocal homes
+  literal_form: Tiger's forest home and the man's home, each used as a place of visiting
+    and hospitality.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: condolence money
+  literal_form: A large sum of money brought by Tiger and his cub to help the man
+    after his father's death.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: feigned dead body
+  literal_form: Tiger lying down as if dead while his cub watches what the man will
+    do.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: First meeting and agreement to exchange visits
+  summary: The man meets Tiger while hunting in the forest; after initial fear and
+    conversation, they become friendly and agree to live in each other's homes for
+    set periods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tiger's visit to the man's home
+  summary: Tiger fears human hostility, but the man promises safety. Tiger stays at
+    the man's house with his male cub, and the cub befriends the man's son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Condolence visit after the father's death
+  summary: When the man's father dies, Tiger and his cub go to see and comfort the
+    man, bringing a large sum of money to help him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ambush and suspicion
+  summary: Two of the man's friends hide for Tiger and shoot him as he is returning
+    home. Tiger survives and wants to learn whether the man had anything to do with
+    the attack.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Feigned death and mourning vigil
+  summary: Tiger lies down as if dead at the place where he first met the man and
+    has his cub watch. The man finds him, mourns him, and keeps vigil through the
+    night with the cub to protect the body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Revelation and conditional non-attack promise
+  summary: In the morning Tiger is satisfied that the man was not involved in the
+    shooting, rises, explains the test, and promises not to touch a man unless the
+    man first meddles with him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Reciprocal hospitality between human and animal
+  taxonomy_refs: []
+  basis: The man and Tiger agree to live in each other's homes, and Tiger treats the
+    man well during the first visit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the relationship as friendship and hosting; it does
+    not explicitly state a ritual or sacred exchange.
+- id: motif:2
+  label: Animal friend tests human loyalty by feigning death
+  taxonomy_refs: []
+  basis: Tiger suspects possible betrayal after being shot, lies down as if dead,
+    has his cub watch, and judges the man by his mourning vigil.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The death is pretended, not an actual death-and-return episode.
+- id: motif:3
+  label: Etiological explanation for predator restraint toward humans
+  taxonomy_refs: []
+  basis: The title asks why tigers do not attack men unless provoked, and the tale
+    ends with Tiger's promise not to touch a man unless first meddled with.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is based on the passage title and closing statement within the provided
+    text.
+- id: motif:4
+  label: Conditional non-aggression vow
+  taxonomy_refs:
+  - covenant
+  basis: After confirming the man's innocence, Tiger makes a lasting promise that,
+    for the man's sake, he will not touch a man unless first provoked.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: 'The available taxonomy ref ''covenant'' is only approximate here: the
+    passage presents a unilateral vow by Tiger rather than a formal mutual covenant.'
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2719-2725
+  quote_or_summary: The tale title introduces an explanation of tiger behavior; a
+    hunter meets a tiger in the forest, both are initially afraid, they become friendly,
+    and they agree to exchange stays in each other's homes.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2727-2735
+  quote_or_summary: Tiger treats the man very well. When it is Tiger's turn to visit,
+    he fears the man's friends may kill him, but the man promises safety. Tiger stays
+    three weeks with his male cub, who becomes friendly with the man's son.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2737-2739
+  quote_or_summary: After the man's father dies, Tiger and his cub go to condole with
+    the man and bring a large sum of money to help him.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2741-2745
+  quote_or_summary: As Tiger goes home, two of the man's friends hide for him and
+    shoot him. He survives but is grieved and wants to know whether the man knew about
+    the shot.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2747-2749
+  quote_or_summary: Tiger returns to the forest place where he first met the man,
+    lies down as if dead, and tells his cub to watch what happens.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2751-2754
+  quote_or_summary: The man sees Tiger lying as if dead, is terribly troubled, cries
+    and mourns, and sits all night with Tiger's cub so that no harm will come to the
+    body.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2756-2759
+  quote_or_summary: In the morning Tiger is assured that the man had nothing to do
+    with the shooting; he rises to the man's astonishment and explains why he pretended
+    to be dead.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 2761-2763
+  quote_or_summary: "“In future for your sake I will never touch a man unless he first
+    meddles with me.”"
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are close
+    to the plot but taxonomy alignment is limited; the 'covenant' taxonomy ref is
+    approximate because the passage gives a unilateral promise rather than a mutual
+    formal covenant. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; line locators are approximate subranges within the provided stable range.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l2719-l2763
+  passage_sha256=6e7874746f427d050b903b83ba5aedae26f46306875835304e3fb9aff90a536d
+

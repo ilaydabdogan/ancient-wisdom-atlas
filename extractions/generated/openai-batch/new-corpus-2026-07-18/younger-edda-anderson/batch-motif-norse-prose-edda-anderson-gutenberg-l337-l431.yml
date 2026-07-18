@@ -1,0 +1,204 @@
+---
+record_id: batch.motif.norse-prose-edda-anderson-gutenberg-l337-l431
+source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+passage_locator:
+  label: VOCABULARY                                     275 / INDEX                                          291
+    / THE YOUNGER EDDA. / INTRODUCTION.; lines 337-431
+  start: '337'
+  end: '431'
+  translation: The Younger Edda; Also called Snorre's Edda, or The Prose Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: English-speaking branch of the great world-ash Ygdrasil
+  summary: The passage is an introduction to the English translation of the Younger
+    Edda. It argues for attention to the Teutonic past, invokes Ygdrasil in a metaphor
+    about the English-speaking branch, praises ancestral Teutonic virtues, and surveys
+    the work's divisions, manuscripts, and printed editions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says records of the Teutonic past have received slight attention
+    from the English-speaking branch, described metaphorically as part of the great
+    world-ash Ygdrasil.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that knowledge of heroic forefathers would help preserve
+    courage, enterprise, and independence associated with the old Teutons.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage presents the ancestors' religion as an important chapter in the
+    childhood history of the race and gives this as a reason for offering an English
+    translation of the Eddas.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists the usual divisions of the Younger Edda, including the Foreword,
+    Gylfaginning, Brage's Speech, Skaldskaparmal, and Hattatal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage identifies three important parchment manuscripts of the Younger
+    Edda and gives their repositories or transmission histories.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage summarizes a sequence of printed editions of the Younger Edda
+    from 1665 through nineteenth-century editions.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: English-speaking branch
+  description: A collective audience or cultural branch described as part of the great
+    world-ash Ygdrasil.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: heroic forefathers / old Teutons
+  description: Ancestral group described as distinguished by courage, enterprise,
+    and independence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: neglectful descendant branch
+  assigned_to:
+  - fig:1
+  basis: The passage says this branch has given slight attention to records of the
+    Teutonic past.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ancestral exemplar
+  assigned_to:
+  - fig:2
+  basis: The passage treats the old Teutons as forefathers whose qualities should
+    be kept alive.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: world-ash Ygdrasil
+  literal_form: The great world-ash Ygdrasil, with an English-speaking branch used
+    as a metaphor.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Prefatory appeal to ancestral memory
+  summary: The introduction laments neglect of the Teutonic past, uses the image of
+    the English-speaking branch of Ygdrasil, and frames knowledge of heroic forefathers
+    as preserving ancestral virtues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Survey of the Younger Edda's textual transmission
+  summary: The introduction lists the work's divisions, identifies major manuscripts,
+    and summarizes printed editions.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: world tree allusion
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage explicitly names Ygdrasil as a great world-ash and uses a branch
+    image in relation to a cultural group.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is only a prefatory metaphorical allusion; the passage does not narrate
+    Ygdrasil's mythic structure, cosmological function, or events involving it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 343-345
+  quote_or_summary: '"English-speaking branch of the great world-ash Ygdrasil"'
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 345-349
+  quote_or_summary: The introduction says knowledge of heroic forefathers would preserve
+    courage, enterprise, and independence, qualities attributed to the old Teutons.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 351-363
+  quote_or_summary: The ancestors' religion is described as part of the childhood
+    history of the race, motivating an English translation of the Eddas and a review
+    of earlier translations.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 365-386
+  quote_or_summary: The introduction lists the usual divisions of the Younger Edda,
+    including the Foreword, Gylfaginning, the Afterword to Gylfaginning, Brage's Speech,
+    the Afterword, Skaldskaparmal, and Hattatal.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 388-407
+  quote_or_summary: The passage names Codex Regius, Codex Wormianus, and Codex Upsaliensis
+    as three important parchment manuscripts and describes their repositories or ownership
+    histories.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 409-431
+  quote_or_summary: The passage recounts printed editions of the Younger Edda, beginning
+    with Resen's 1665 Edda Islandorum and continuing through later editions in 1746,
+    1818, 1849, 1852, 1875, and 1877.
+  source_text_path: texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily introductory and bibliographic. The only clear myth-symbol
+    material is the brief Ygdrasil/world-ash allusion, so motif extraction is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond the brief Ygdrasil allusion.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-prose-edda-anderson-gutenberg__l337-l431
+  passage_sha256=f80db094603741d9dc569608725ff1f23ff2a252271fd61f2a314a9d55bf03aa
+

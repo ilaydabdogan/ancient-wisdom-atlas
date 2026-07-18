@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l68-l98
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'GODS AND FIGHTING MEN: / ARRANGED AND PUT INTO ENGLISH BY LADY GREGORY.
+    / WITH A PREFACE BY W.B. YEATS / DEDICATION TO THE MEMBERS OF THE IRISH LITERARY
+    SOCIETY OF NEW YORK; lines 68-98'
+  start: '68'
+  end: '98'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The opening dedication offers the book to members of the Irish Literary
+    Society of New York, praises their friendly thoughts toward workers in Ireland,
+    imagines Atlantic steamers returning full, and invokes Finn’s words to a woman
+    of enchantments, preferring Ireland over the whole world and the Country of the
+    Young.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as Gods and Fighting Men, arranged and put
+    into English by Lady Gregory, with a preface by W. B. Yeats.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dedication addresses members of the Irish Literary Society of New York
+    as friends, including both those known and unknown to the speaker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the Society’s friendly thoughts have encouraged workers in
+    Ireland who are described as working to build up broken walls.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says some members have already come to see them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker imagines a future in which steamers across the Atlantic come back
+    full instead of going out full.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker imagines some of the addressees finding their real home in Ireland.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker cites Finn speaking to a woman of enchantments.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The cited saying values Ireland above the whole world as an estate and above
+    the Country of the Young along with it.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lady Gregory
+  description: Named as the arranger and English-language presenter of the work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: W. B. Yeats
+  description: Named as the writer of the preface.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Members of the Irish Literary Society of New York
+  description: The dedication’s addressed friends, some known and some unknown to
+    the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: workers here
+  description: Workers in Ireland described as working to build up broken walls.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Finn
+  description: A figure whose words to a woman of enchantments are cited in the dedication.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: woman of enchantments
+  description: The addressee of Finn’s cited saying.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: arranger and translator into English
+  assigned_to:
+  - fig:1
+  basis: The title page states that the work was arranged and put into English by
+    Lady Gregory.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: preface writer
+  assigned_to:
+  - fig:2
+  basis: The title page states that the work has a preface by W. B. Yeats.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dedicatees
+  assigned_to:
+  - fig:3
+  basis: The dedication is addressed to the members of the Irish Literary Society
+    of New York as friends.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: encouraged cultural workers
+  assigned_to:
+  - fig:4
+  basis: The workers are said to gain courage from the Society’s friendly thoughts
+    while building up broken walls.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: exemplary speaker of homeland preference
+  assigned_to:
+  - fig:5
+  basis: Finn is invoked as the speaker whose words express refusal to give up Ireland.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: enchanted addressee
+  assigned_to:
+  - fig:6
+  basis: The passage calls her the woman of enchantments to whom Finn speaks.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ireland as real home
+  literal_form: Ireland
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Atlantic crossing
+  literal_form: steamers across the Atlantic
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: broken walls
+  literal_form: broken walls
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Country of the Young
+  literal_form: the Country of the Young
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: the whole world as an estate
+  literal_form: the whole world as an estate
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dedication to the Irish Literary Society of New York
+  summary: The speaker offers the book to the Society’s members and describes them
+    as friends.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Encouragement from across the Atlantic
+  summary: Friendly thoughts from the Society are said to encourage workers in Ireland
+    who are rebuilding broken walls, and the speaker hopes Atlantic steamers will
+    return full.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Finn’s declaration preferring Ireland
+  summary: Finn’s cited words to a woman of enchantments state that Ireland would
+    not be given up even for the whole world and the Country of the Young.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: return to homeland
+  taxonomy_refs:
+  - return
+  basis: The dedication imagines emigrant travel reversing direction, with steamers
+    coming back full and some addressees finding their real home in Ireland.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a dedication and hope for return, not a developed narrative
+    episode.
+- id: motif:2
+  label: homeland preferred over worldly and enchanted reward
+  taxonomy_refs: []
+  basis: The cited words attributed to Finn refuse to give up Ireland even for the
+    whole world as an estate and the Country of the Young.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the quoted sentiment, not the surrounding mythic
+    episode.
+- id: motif:3
+  label: enchanted other-country as offered alternative
+  taxonomy_refs: []
+  basis: Finn’s saying is addressed to a woman of enchantments and names the Country
+    of the Young as something that could be received along with the whole world.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names the Country of the Young but does not describe its nature
+    or the offer’s narrative circumstances.
+comparison_claims:
+- id: claim:1
+  claim: The dedication explicitly likens the desired attachment to Ireland among
+    the addressees to Finn’s cited declaration to a woman of enchantments.
+  claim_level: same_function
+  target: Finn’s declaration preferring Ireland over the world and the Country of
+    the Young
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is rhetorical within the dedication; the surrounding
+    Finn narrative is not included in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 68-77
+  quote_or_summary: The title material names Gods and Fighting Men, says it is arranged
+    and put into English by Lady Gregory, and notes a preface by W. B. Yeats.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 82-85
+  quote_or_summary: The dedication addresses the members of the Irish Literary Society
+    of New York as friends and offers them the book in the year of the Society’s birth.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 87-90
+  quote_or_summary: The speaker says the Society’s friendly thoughts have given courage
+    to workers in Ireland who are working to build up broken walls.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 90-94
+  quote_or_summary: Some addressees have already visited; the speaker hopes steamers
+    across the Atlantic will return full until some visitors find their real home
+    in Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 94-98
+  quote_or_summary: '"We would not give up our own country--Ireland--if we were to
+    get the whole world as an estate, and the Country of the Young along with it."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; brief quotation from public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is prefatory and dedicatory rather than a full mythic narrative.
+    Extraction is strongest for literal figures, places, and the cited Finn saying;
+    motif labels require caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l68-l98
+  passage_sha256=703ec51e4fe3894c6033b242798766b9df5dbdeeb9eb23ea8ccbfcf14dd18d0e
+

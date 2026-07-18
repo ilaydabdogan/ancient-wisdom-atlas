@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l4091-l4147
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XI. / CHAPTER XII. / CHAPTER XIII. / CHAPTER XIV.; lines 4091-4147
+  start: '4091'
+  end: '4147'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Satan went out of the boy, and ran away like a mad dog.
+  summary: A woman brings her Satan-possessed son Judas to Lady Mary. While the infant
+    Lord Jesus is sitting with other children, Judas sits at Jesus's right hand, tries
+    to bite him, then strikes his right side. Satan leaves the boy and flees like
+    a dog. The narrator identifies the boy as Judas Iscariot and links the struck
+    side to a later spear-piercing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed woman has a son who is possessed by Satan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy is named Judas and, when seized by Satan, tries to bite people nearby
+    or bites himself if no one else is near.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boy's mother hears of St. Mary and Jesus, takes her son in her arms, and
+    brings him to Lady Mary.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: James and Joses take the infant Lord Jesus to play with other children, and
+    they sit down together.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Judas comes and sits at the right hand of Jesus.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When Satan acts upon Judas, Judas tries to bite the Lord Jesus.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Because Judas cannot bite Jesus, he strikes Jesus on the right side, causing
+    Jesus to cry out.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: At the same moment, Satan leaves the boy and runs away like a mad dog.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The narrator identifies the boy as Judas Iscariot, who later betrayed Jesus
+    to the Jews.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The narrator states that the same side struck by Judas was later pierced with
+    a spear by the Jews.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Unnamed woman, mother of Judas
+  description: A woman whose son is possessed by Satan; she carries him to Lady Mary
+    after hearing of Mary and Jesus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Judas / Judas Iscariot
+  description: A boy named Judas who is possessed by Satan, tries to bite Jesus, strikes
+    Jesus on the right side, and is later identified as Judas Iscariot.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Satan
+  description: The possessing being who seizes Judas, acts upon him, leaves the boy,
+    and flees like a mad dog.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: St. Mary / Lady Mary
+  description: Mary, associated with her son Jesus, to whom the mother brings the
+    possessed boy.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Infant Lord Jesus
+  description: The infant Lord Jesus sits with James, Joses, and other children; Judas
+    tries to bite him, strikes his right side, and makes him cry out.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: James
+  description: James helps take the infant Lord Jesus to play with other children.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Joses
+  description: Joses helps take the infant Lord Jesus to play with other children.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: The Jews, as named in the passage
+  description: The group to whom Judas is said to betray Jesus and who are said to
+    pierce Jesus's side with a spear.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: possessed afflicted child
+  assigned_to:
+  - fig:2
+  basis: Judas is described as a boy possessed by Satan and driven to biting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: petitioning mother
+  assigned_to:
+  - fig:1
+  basis: The mother carries her afflicted son to Lady Mary after hearing of Mary and
+    Jesus.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: holy child attacked by the possessed boy
+  assigned_to:
+  - fig:5
+  basis: The infant Lord Jesus is the target of Judas's attempted bite and is struck
+    on the right side.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: possessing spirit
+  assigned_to:
+  - fig:3
+  basis: Satan possesses and seizes Judas, acts upon him, and then leaves him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:5
+  label: child companions or attendants
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: James and Joses take the infant Lord Jesus to play with other children.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: recipient of the mother's appeal
+  assigned_to:
+  - fig:4
+  basis: The mother brings the possessed boy to Lady Mary.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: future betrayer
+  assigned_to:
+  - fig:2
+  basis: The narrator identifies the boy as Judas Iscariot, who betrayed Jesus to
+    the Jews.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: later piercers of Jesus's side, as narrated
+  assigned_to:
+  - fig:8
+  basis: The narrator says the Jews pierced the same side with a spear.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: dog-form departure of Satan
+  literal_form: Satan running away like a mad dog or in the form of a dog
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: right side of Jesus
+  literal_form: the right side or same side of Jesus struck by Judas and later pierced
+    with a spear
+  associated_figures:
+  - fig:5
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+scenes:
+- id: scene:1
+  label: Mother brings the possessed boy
+  summary: An unnamed woman, whose son Judas is possessed by Satan, hears of Mary
+    and Jesus and brings the boy to Lady Mary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Children sit with the infant Jesus
+  summary: James and Joses take the infant Lord Jesus to play with other children;
+    Judas comes and sits at Jesus's right hand.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Attempted bite, strike, and demonic departure
+  summary: Under Satan's action, Judas tries to bite Jesus, fails, strikes Jesus on
+    the right side, and Satan immediately leaves the boy and flees like a mad dog.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Narrated future identification
+  summary: The narrator identifies the boy as Judas Iscariot and connects the side
+    struck by Judas with the later spear-piercing of Jesus's side.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: possessed child with biting compulsion
+  taxonomy_refs: []
+  basis: Judas is described as a boy possessed by Satan whose possession manifests
+    as biting others or himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the behavior plainly, but no broader taxonomy reference
+    is supplied for this specific possession pattern.
+- id: motif:2
+  label: demonic expulsion through encounter with a holy child
+  taxonomy_refs:
+  - miraculous_child
+  basis: Judas attacks the infant Lord Jesus, and Satan immediately leaves the boy
+    after the failed bite and strike.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text does not explicitly say Jesus performs a spoken cure; the expulsion
+    is narrated as occurring in the same moment as the strike.
+- id: motif:3
+  label: demon departing in animal form
+  taxonomy_refs: []
+  basis: Satan leaves the boy and runs away like a mad dog; the narrator also says
+    Satan went out in the form of a dog.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The available symbol taxonomy does not include dog, so no taxonomy symbol
+    reference is assigned.
+- id: motif:4
+  label: childhood event foreshadows later betrayal and wound
+  taxonomy_refs: []
+  basis: The narrator identifies the boy as Judas Iscariot and says the same side
+    struck by Judas was later pierced with a spear.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The foreshadowing is internal to the passage; no external text is cited
+    in the supplied material.
+comparison_claims:
+- id: claim:1
+  claim: The passage links the childhood strike by Judas to later events involving
+    Judas's betrayal and the spear-piercing of Jesus's side, functioning as an internal
+    prefiguration pattern.
+  claim_level: same_function
+  target: childhood prefiguration of later betrayal and spear-piercing events named
+    in the passage
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This claim rests only on the narrator's internal linkage; no external
+    Passion narrative or parallel text is provided in the passage metadata.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER XIV.1
+  quote_or_summary: An unnamed woman lived there whose son was possessed by Satan.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: CHAPTER XIV.2
+  quote_or_summary: The boy is named Judas; when Satan seizes him, he tries to bite
+    others or himself.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: CHAPTER XIV.3
+  quote_or_summary: The mother hears of St. Mary and Jesus, takes her son in her arms,
+    and brings him to Lady Mary.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: CHAPTER XIV.4
+  quote_or_summary: James and Joses take the infant Lord Jesus to play with other
+    children and sit down with him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: CHAPTER XIV.5
+  quote_or_summary: The possessed Judas comes and sits at the right hand of Jesus.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: CHAPTER XIV.6-7
+  quote_or_summary: Satan acts upon Judas; Judas tries to bite Jesus, fails, and strikes
+    Jesus on the right side.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:7
+  type: quote
+  locator: CHAPTER XIV.8
+  quote_or_summary: '"Satan went out of the boy, and ran away like a mad dog."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:8
+  type: summary
+  locator: CHAPTER XIV.9
+  quote_or_summary: The narrator identifies this boy as Judas Iscariot, who betrayed
+    Jesus to the Jews, and says Satan went out in dog form.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:9
+  type: summary
+  locator: CHAPTER XIV.10
+  quote_or_summary: The narrator says the same side Judas struck was later pierced
+    with a spear by the Jews.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the supplied taxonomy contains only a partial match, chiefly miraculous_child;
+    dog-form possession and foreshadowing motifs have no provided taxonomy IDs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison beyond the passage's own internal linkage has been asserted. Available symbol taxonomy did not include dog or side/wound imagery, so symbol taxonomy_refs are empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l4091-l4147
+  passage_sha256=be1dab84c47a4aad704bd926c8e2b13df798706c826ca867d7ec18d977132b2a
+

@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8559-l8587
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER I. / CHAPTER II. / CHAPTER I. / CHAPTER II.; lines 8559-8587
+  start: '8559'
+  end: '8587'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Paul greets Seneca, says he received Seneca's letter with pleasure, explains
+    that he delayed answering because the intended messenger was absent, asks not
+    to be charged with negligence, praises Seneca's judgment and sincerity, and wishes
+    him lasting prosperity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Paul addresses Seneca in greeting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Paul says he received Seneca's letter the previous day with pleasure.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Paul says he would have answered immediately if the young man intended as
+    messenger had been at home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Paul says there are appropriate times, persons, and recipients for delivering
+    what he sends.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Paul asks Seneca not to charge him with negligence while he waits for a proper
+    person.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Paul says he is happy that Seneca, whom he calls valuable, is delighted with
+    his Epistles.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Paul describes Seneca as a censor, philosopher, tutor of a great prince, and
+    master of everything, and connects these honors with sincerity.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Paul wishes Seneca lasting prosperity.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Paul
+  description: Sender of the greeting to Seneca; he reports receiving a letter and
+    explains his delayed answer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Seneca
+  description: Recipient of Paul's greeting; praised for judgment, sincerity, and
+    status as censor, philosopher, tutor of a great prince, and master of everything.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: young man
+  description: The person Paul intended to send to Seneca; he was not at home when
+    Paul might have answered immediately.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: great prince
+  description: A prince whom Seneca is said to tutor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: Paul speaks in the first person and addresses Seneca with a greeting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: delayed respondent
+  assigned_to:
+  - fig:1
+  basis: Paul explains he waited because the intended messenger was absent and asks
+    not to be charged with negligence.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: letter recipient
+  assigned_to:
+  - fig:2
+  basis: Paul addresses Seneca and refers to receiving Seneca's letter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: valued philosopher and tutor
+  assigned_to:
+  - fig:2
+  basis: Paul calls Seneca valuable and describes him as a censor, philosopher, tutor
+    of a great prince, and master of everything.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: intended messenger
+  assigned_to:
+  - fig:3
+  basis: Paul says he intended to send the young man to Seneca.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: pupil of Seneca
+  assigned_to:
+  - fig:4
+  basis: Seneca is described as tutor of a great prince.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Paul explains delayed correspondence
+  summary: Paul greets Seneca, says he received Seneca's letter with pleasure, and
+    explains that he did not answer immediately because the young man intended as
+    messenger was absent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Paul praises Seneca and wishes prosperity
+  summary: Paul says he is happy that Seneca approves his Epistles, praises Seneca's
+    judgment and sincerity, lists Seneca's honored roles, and wishes him lasting prosperity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wise philosopher and tutor praised for judgment
+  taxonomy_refs:
+  - wisdom
+  basis: Seneca is praised as a valuable person with judgment, a philosopher, tutor
+    of a great prince, and sincere holder of honored offices.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage is an epistolary exchange rather than a mythic narrative;
+    the wisdom motif is inferred only from explicit praise of philosophical judgment
+    and tutorship.
+- id: motif:2
+  label: proper messenger for entrusted communication
+  taxonomy_refs: []
+  basis: Paul delays his answer until a proper person can deliver what he sends, and
+    mentions an intended young messenger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This is a practical epistolary detail and may not constitute a reusable
+    mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8559-8561
+  quote_or_summary: 'Heading and greeting: Paul to Seneca.'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise citation/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8563-8566
+  quote_or_summary: Paul says he received Seneca's letter yesterday with pleasure.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8566-8569
+  quote_or_summary: Paul says he could have answered immediately if the young man
+    he intended to send had been at home.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8571-8573
+  quote_or_summary: Paul says there are particular times, persons, seasons, and recipients
+    for delivering what he sends.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 8575-8577
+  quote_or_summary: Paul asks Seneca not to charge him with negligence if he waits
+    for a proper person.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 8579-8582
+  quote_or_summary: Paul says he is happy that Seneca, a valuable person, is delighted
+    with Paul's Epistles.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 8584-8587
+  quote_or_summary: Paul says Seneca would not be esteemed a censor, philosopher,
+    tutor of a great prince, and master of everything if he were not sincere.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: quote
+  locator: line 8587
+  quote_or_summary: '"I wish you a lasting prosperity."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The epistolary content and named roles are explicit. Motif identification
+    is limited because the passage contains little mythic narrative or symbolic imagery.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. No symbol taxonomy items from the supplied list are directly present in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8559-l8587
+  passage_sha256=77818d87ea6a7880485ca8f68e68680db7475996a6a1226e5993cf79b75a6f0a
+

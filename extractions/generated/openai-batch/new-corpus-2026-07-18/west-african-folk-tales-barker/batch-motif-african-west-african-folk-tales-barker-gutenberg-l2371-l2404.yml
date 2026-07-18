@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l2371-l2404
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XXV. MAKU MAWU AND MAKU FIA / XXVI. THE ROBBER AND THE OLD MAN / XXVII. THE
+    LEOPARD AND THE RAM / XXVIII. WHY THE LEOPARD CAN ONLY CATCH PREY ON ITS LEFT
+    SIDE; lines 2371-2404
+  start: '2371'
+  end: '2404'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Leopard asks Cat to teach him how to catch animals. Cat teaches Leopard
+    to hide by the roadside, move noiselessly, and spring with his left paws and side,
+    then tells him to practice and return for more instruction. After initial success,
+    Leopard becomes hungry, goes to Cat's home while she is absent, and eats all her
+    kittens. Cat refuses further association with Leopard, and the tale explains that
+    leopard therefore never learned to catch animals passing on his right side.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At one time leopards did not know how to catch animals for food.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Leopard asks Cat to teach him the art of catching animals, and Cat agrees.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Cat teaches Leopard three hunting practices: hiding among roadside bushes,
+    moving noiselessly through woods, and using his left paws and side when springing
+    on prey.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cat tells Leopard to practice the lessons and return later for more instruction.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Leopard first obtains the food he wants, but one day catches nothing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When hungry, Leopard remembers Cat's large family, goes to her home, and finds
+    Cat absent.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Leopard eats all of Cat's kittens.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Cat discovers that her kittens have been eaten, becomes angry, and refuses
+    further dealings with Leopard.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The leopard is consequently unable to catch animals that pass on his right
+    side.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Leopard
+  description: An animal who seeks instruction in hunting from Cat, practices the
+    lessons, eats Cat's kittens when hungry, and remains unable to catch prey passing
+    on his right side.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Cat / Puss
+  description: A skilful hunter who teaches Leopard initial hunting techniques, has
+    a large family of kittens, and refuses further association after Leopard eats
+    them.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Cat's kittens
+  description: Cat's offspring, described as all being eaten by Leopard.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Learner of hunting skills
+  assigned_to:
+  - fig:1
+  basis: Leopard asks Cat to teach him and is instructed in hunting practices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Teacher of hunting skills
+  assigned_to:
+  - fig:2
+  basis: Cat agrees to teach Leopard and gives him specific lessons in hunting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Betrayer of benefactor
+  assigned_to:
+  - fig:1
+  basis: After receiving Cat's kindness and instruction, Leopard eats Cat's kittens
+    when hungry.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Wronged parent
+  assigned_to:
+  - fig:2
+  basis: Cat's kittens are eaten, and Cat reacts with anger and refusal of further
+    contact.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Victims eaten by Leopard
+  assigned_to:
+  - fig:3
+  basis: The passage states that Leopard ate all Cat's kittens.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Subject of etiological explanation
+  assigned_to:
+  - fig:1
+  basis: The final consequence explains a continuing limitation of leopard hunting
+    behavior.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Roadside bushes
+  literal_form: Bushes by the roadside used for hiding from passing animals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Left paws and side
+  literal_form: Leopard's left paws and side used in springing upon prey.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: Right side of passing prey
+  literal_form: Animals passing Leopard on his right side, which he cannot catch.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Leopard seeks Cat's instruction
+  summary: Leopard, lacking hunting knowledge, asks the skilful Cat to teach him,
+    and Cat consents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cat's first hunting lessons
+  summary: Cat teaches Leopard to conceal himself, move silently, and spring using
+    his left paws and side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Practice and hunger
+  summary: Leopard practices successfully at first, then fails to catch food and becomes
+    hungry.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Leopard eats Cat's kittens
+  summary: Leopard goes to Cat's home while she is absent and eats all her kittens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Instruction ends and limitation remains
+  summary: Cat refuses further association with Leopard, so Leopard never learns to
+    catch animals passing on his right side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Etiological explanation of an animal's hunting limitation
+  taxonomy_refs: []
+  basis: The title and conclusion frame the episode as explaining why the leopard
+    can only catch prey on one side and cannot catch animals passing on his right
+    side.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: No exact supplied taxonomy reference covers etiological animal-trait explanations.
+- id: motif:2
+  label: Animal learns predatory skill from another animal
+  taxonomy_refs: []
+  basis: Leopard seeks instruction from Cat, who teaches concrete hunting techniques.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage treats practical hunting instruction rather than a named sacred
+    or formal initiation.
+- id: motif:3
+  label: Betrayal of teacher prevents completion of instruction
+  taxonomy_refs: []
+  basis: Cat gives initial lessons and promises more, but Leopard eats Cat's kittens;
+    Cat then refuses further association, leaving Leopard's training incomplete.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not state an explicit moral; the motif label summarizes
+    the observable narrative sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions like an etiological animal-trait tale because it narrates
+    an origin for a present limitation in leopard hunting behavior.
+  claim_level: same_function
+  target: etiological animal-trait explanation pattern
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a general narrative pattern, not
+    evidence of historical contact or a supplied taxonomy match.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2371-2376
+  quote_or_summary: The tale is titled as an explanation of why leopard catches prey
+    only on the left side; it begins by saying leopards once did not know how to catch
+    animals, and Leopard asks the skilful Cat for instruction.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2378-2383
+  quote_or_summary: Cat teaches Leopard to hide among roadside bushes, move noiselessly
+    through the woods, and use his left paws and side when springing upon prey.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2385-2387
+  quote_or_summary: After the first lessons, Cat tells Leopard to practice and return
+    later for additional hunting instruction.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2389-2395
+  quote_or_summary: Leopard obeys and at first hunts successfully, but after failing
+    to catch anything one day, he becomes hungry, remembers Cat's large family, and
+    goes to Cat's home while she is absent.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2397-2400
+  quote_or_summary: Leopard, forgetting Cat's kindness and remembering only his hunger,
+    eats all her kittens; Cat discovers this, becomes angry, and refuses further dealings
+    with him.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2402-2403
+  quote_or_summary: The passage concludes that, as a consequence, leopard never learned
+    to catch animals passing on his right side.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage and metadata. Motif labels
+    are descriptive because no exact supplied taxonomy reference matches the etiological
+    animal-trait pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied symbol taxonomy references were directly applicable to the literal symbols identified in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l2371-l2404
+  passage_sha256=eb6fc235d96428df4a708eb37bdea21d38707e6b65d1ca69b9f5a70ed9da9960
+

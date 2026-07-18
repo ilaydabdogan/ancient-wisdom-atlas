@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l2825-l2920
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION. / COMMENTARY ON THE
+    PENNSYLVANIA TABLET.; lines 2825-2920
+  start: '2825'
+  end: '2920'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Philological commentary on the Pennsylvania Tablet, discussing lines in
+    which a woman keeps a garment and speaks about food, Enkidu is described as god-like
+    yet still animal-accustomed, Enkidu is led toward sheepfolds, wine is treated
+    as a land custom, and later notes restore or explain terms for goblet, barber,
+    shaving/cutting, hair, and beard.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary interprets line 70 as meaning that the woman kept one garment
+    for herself and notes that female dress appears to have had upper and lower garments.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says the restoration “like a god” is supported elsewhere and
+    that Enkidu is likened to a god.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary says Enkidu, still accustomed to living like an animal, is
+    first led to the sheepfolds, recalling his former life.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The woman is reported as saying that food is the staff of life.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary identifies sikaru as wine and interprets the phrase as the
+    fixed custom of the land rather than the fate of the land.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentary identifies asammu as a large goblet and cites a lexical example
+    involving goblets of water.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The commentary explains liver and heart terminology as referring to cheerful
+    disposition and mind.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The commentary restores a word as gallabu, “barber,” and connects an ideographic
+    “raising the hand” expression with shaving or cutting.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The commentary explains suhuru as hair, including hair of the head and face,
+    and also discusses terms for beard and barbershop.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The commentary states that line 64 corresponds to the Assyrian version, while
+    later material is not represented in the extant Assyrian version but was likely
+    once included there.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the woman
+  description: A woman who keeps one garment for herself and is reported as saying
+    that food is the staff of life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Enkidu
+  description: A figure likened to a god, yet described as still accustomed to living
+    like an animal and being led to the sheepfolds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: barber
+  description: A restored occupational figure, gallabu, associated in the commentary
+    with the gesture of shaving or cutting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: woman speaker and garment-holder
+  assigned_to:
+  - fig:1
+  basis: The woman keeps a garment and speaks about food as the staff of life.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: god-like and animal-accustomed figure
+  assigned_to:
+  - fig:2
+  basis: Enkidu is likened to a god but is also said to be still accustomed to living
+    like an animal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: grooming agent
+  assigned_to:
+  - fig:3
+  basis: The restored barber term is connected with the gesture of shaving or cutting.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: garment and dress
+  literal_form: one garment; upper and lower female garments
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sheepfolds and pasturage
+  literal_form: sheepfolds; pasturage or fodder
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: food as staff of life
+  literal_form: food
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wine as land custom
+  literal_form: wine, sikaru
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hair and shaving gesture
+  literal_form: hair of head and face, beard, and raised-hand shaving or cutting gesture
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Enkidu near human customs
+  summary: The commentary brings together the woman’s clothing, Enkidu’s god-like
+    and animal-like characterization, his movement toward sheepfolds, and statements
+    about food and wine as human customs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Grooming terminology
+  summary: The commentary restores a barber term and discusses shaving or cutting,
+    hair, beard, and barbershop terminology.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Initiation into settled human customs
+  taxonomy_refs:
+  - initiation
+  basis: The passage links Enkidu’s animal-accustomed state with movement toward sheepfolds
+    and commentary on clothing, food, wine, and grooming terminology.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage is a philological commentary rather than a continuous narrative;
+    some elements are restorations or lexical explanations.
+- id: motif:2
+  label: Divine-animal dual characterization
+  taxonomy_refs:
+  - duality
+  basis: Enkidu is described as being likened to a god while also being still accustomed
+    to animal-like life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage provides attributes but does not explicitly interpret them
+    as a symbolic duality.
+comparison_claims:
+- id: claim:1
+  claim: The commentary treats this Old Babylonian passage as textually related to
+    the Assyrian version, noting a direct correspondence for line 64 and using Assyrian
+    material as a basis for restoring nearby missing lines.
+  claim_level: linguistic_similarity
+  target: Assyrian version of the Gilgamesh Epic, especially Tablet I and the inferred
+    second tablet material
+  evidence_refs:
+  - ev:3
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is textual and editorial, not a demonstrated motif parallel;
+    the passage itself notes that some following material is not represented in extant
+    Assyrian fragments.
+evidence:
+- id: ev:1
+  type: summary
+  locator: line 70
+  quote_or_summary: The woman kept one garment for herself; female dress had upper
+    and lower garments.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: line 72
+  quote_or_summary: The restoration “like a god” is supported; Enkidu is likened to
+    a god.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt and summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: line 75
+  quote_or_summary: Enkidu, still accustomed to living like an animal, is first led
+    to the sheepfolds; Assyrian material is used for conjectural restoration.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: line 93
+  quote_or_summary: The woman says, “Food” is “the staff of life.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: line 94
+  quote_or_summary: sikaru is wine; simti mati is interpreted as the fixed custom
+    of the land.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: line 98
+  quote_or_summary: asammu is identified as a large goblet; a cited incantation text
+    mentions pouring out goblets of water.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 99-100
+  quote_or_summary: The commentary explains liver and heart terms as connected with
+    cheerfulness, disposition, and mind.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: line 102
+  quote_or_summary: The restored term is gallabu, “barber”; “raising the hand” recalls
+    shaving or cutting.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: line 103
+  quote_or_summary: suhuru is explained as hair; related signs refer to hanging hair,
+    beard, and barbershop.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: line 64
+  quote_or_summary: Line 64 corresponds to the Assyrian version; later material is
+    absent from extant Assyrian fragments but likely belonged to its second tablet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the commentary’s stated details. Motif assignment
+    is more tentative because the passage is primarily philological commentary and
+    includes restorations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were limited to supplied motif families and applied only where directly supported by the passage context.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l2825-l2920
+  passage_sha256=802363cc3082fc5fdea26375077a67e1aed1811e07297be6853d5c46d435422e
+

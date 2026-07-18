@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l320-l340
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: NAVAHO LEGENDS. / INTRODUCTION. / PREFATORY REMARKS. / HOME OF THE NAVAHOES.;
+    lines 320-340
+  start: '320'
+  end: '340'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Navaho subsistence and economy: limited agriculture,
+    reliance on sheep and goats, wool trade with white traders, use of ponies, and
+    a few cattle. It notes that sheep and goats were introduced after European contact
+    and infers that Navahoes have not been shepherds for many centuries. It adds that
+    legends portray them as recently prosperous, formerly poor hunters and foragers
+    using wild seeds, small animals, and fall-traps.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Navaho cultivate the soil, but crops provide only a small part of their
+    subsistence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The country is described as fairly well adapted to raising sheep and goats.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sheep and goats are described as the chief food supply, and sheep as the principal
+    source of wealth.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Money from wool is used to purchase flour, provisions, and other articles
+    from white traders.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Navaho possess many ponies, ride frequently, and raise a few neat cattle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: Domesticated sheep and goats are said to have been unknown in America before
+    Columbus and unknown in New Mexico before Coronado's expedition in A.D. 1540.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage infers that the Navahoes have not been shepherds for many centuries.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The passage says that legends portray the Navahoes as only recently prosperous
+    and formerly as poor hunters who lived on wild seeds and small animals caught
+    in fall-traps.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage says the legends also tell how meagrely the Navahoes were formerly
+    dressed and equipped.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Navaho Indians / Navahoes
+  description: The people described as limited cultivators, raisers of sheep and goats,
+    owners of ponies and some cattle, wool traders, and formerly poor hunters or foragers
+    in their legends.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: white traders
+  description: Traders from whom the Navahoes purchase flour, provisions, and other
+    articles with money received for wool.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Columbus
+  description: Named as the chronological marker for the statement that domesticated
+    sheep and goats were unknown in America before European discovery.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Coronado
+  description: Named as the leader of the A.D. 1540 expedition before which sheep
+    and goats were unknown in New Mexico.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: limited cultivators
+  assigned_to:
+  - fig:1
+  basis: The passage says the Navaho cultivate soil but not extensively, with crops
+    furnishing only a small part of subsistence.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shepherds and livestock raisers
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Navaho as raising sheep and goats, possessing ponies,
+    and keeping a few cattle.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wool sellers and purchasers of provisions
+  assigned_to:
+  - fig:1
+  basis: The passage says they use money received for wool to buy flour, provisions,
+    and other goods.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: formerly poor hunters and foragers in legend
+  assigned_to:
+  - fig:1
+  basis: The passage says their legends describe them in old days as poor hunters
+    living largely on wild seeds and small animals caught in fall-traps.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: trade suppliers
+  assigned_to:
+  - fig:2
+  basis: The passage identifies white traders as the people from whom the Navahoes
+    buy provisions and other articles.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: historical chronology markers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage uses Columbus and Coronado's expedition as reference points for
+    when sheep and goats were unknown in America and New Mexico.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: domesticated flocks
+  literal_form: sheep and goats
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wool wealth
+  literal_form: wool and money received for wool
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: riding animals
+  literal_form: ponies
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: minor cattle holding
+  literal_form: a few neat cattle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: former wild subsistence
+  literal_form: seeds of wild plants, small animals, and fall-traps
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Present pastoral and trade economy
+  summary: The passage describes the Navaho as relying chiefly on sheep and goats,
+    using wool income to buy goods from white traders, riding ponies, and keeping
+    some cattle while doing limited farming.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Legendary memory of former poverty
+  summary: The passage reports that legends portray the Navaho as only recently wealthy,
+    and formerly as poor hunters or foragers living on wild seeds and small animals
+    caught in fall-traps, with meagre dress and equipment.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Historical limit on shepherding antiquity
+  summary: The passage notes that sheep and goats were unknown in America and New
+    Mexico before European-contact events, and therefore infers that Navaho shepherding
+    is not many centuries old.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Transition from poor hunting and foraging to pastoral wealth
+  taxonomy_refs: []
+  basis: The passage says legends describe the Navaho as formerly poor hunters and
+    foragers and as having become prosperous and wealthy only recently, while the
+    surrounding paragraphs describe current wealth based on sheep, goats, and wool.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic summary of what legends reportedly say, not a
+    full mythic episode in the supplied passage.
+- id: motif:2
+  label: Recently acquired shepherd identity
+  taxonomy_refs: []
+  basis: The passage states that domesticated sheep and goats were absent before European-contact
+    chronology and concludes that Navahoes have not been shepherds for many centuries.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides historical inference rather than a narrative myth
+    motif; no named mythic agent or sacred origin of sheep is given here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 320-329
+  quote_or_summary: Navaho farming is limited; crops provide a small part of subsistence.
+    Sheep and goats are chief food, sheep are a principal source of wealth, wool money
+    buys goods from white traders, and the people own ponies and a few cattle.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 331-335
+  quote_or_summary: Domesticated sheep and goats are said to have been unknown in
+    America before Columbus and in New Mexico before Coronado's 1540 expedition; the
+    passage infers Navahoes have not been shepherds for many centuries.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 336-340
+  quote_or_summary: The passage says legends indicate recent prosperity, earlier poverty
+    as hunters, reliance on wild seeds and small animals caught in fall-traps, and
+    meagre former dress and equipment.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal ethnographic content is explicit. Motif candidates are cautious
+    because the passage reports legendary themes indirectly and gives no full narrative
+    episode. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied, because the supplied passage does not directly support one.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l320-l340
+  passage_sha256=4e436f718e6b29d9d1139685c09b448f5c8d089aa988840a60eb20a4c40f3782
+

@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l463-l497
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF THE / LIFE OF GEORGE SALE. / R. A. DAVENPORT. / INTRODUCTION; lines 463-497
+  start: '463'
+  end: '497'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"through the labyrinth of oriental dialects."'
+  summary: The passage describes George Sale’s Arabic studies with guidance from Dadichi,
+    his work for the Society as a corrector and chief worker on an Arabic New Testament,
+    the later English translation of the Koran, and editorial remarks on inconsistent
+    historical transliteration of Arabic names into Roman letters. It ends with an
+    attribution to E. Denison Ross and a dating note.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dadichi, described as the King's Interpreter and a learned Greek of Aleppo,
+    guided Sale in oriental dialects.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On August 30, 1726, Sale offered his services as one of the correctors of
+    the Arabic New Testament.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sale soon became the chief worker on the Arabic New Testament and also served
+    as the Society's solicitor while holding other honorary offices.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Arabic translation of the New Testament was followed by Sale’s English
+    translation of the Koran.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The edition keeps proper names mostly as in the original while warning readers
+    that Sale’s period allowed many variations in oriental orthography.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage lists variant spellings of Arabic or Islamic names, including
+    forms for Al-Qorán, Muhammad, Al-Baidháwi, Muttalib, Jall ud-Dín, Anas, and Khalífa.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says recent scholars tried to render each Arabic letter by an
+    equivalent distinct Roman letter, though no single system was universally adopted.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that such systems help readers with Arabic turn names back
+    into the original script and distinguish certain Arabic sounds and the letter
+    ‘ayn.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage is signed by E. Denison Ross and followed by a note identifying
+    Sir Edward Denison Ross and suggesting the writing occurred sometime after 1877.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: George Sale
+  description: A linguistically gifted translator and worker on an Arabic New Testament
+    who later translated the Koran into English.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dadichi
+  description: The King's Interpreter, described as a learned Greek of Aleppo who
+    guided Sale through oriental dialects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Society
+  description: The organization whose records note Sale’s service as corrector of
+    the Arabic New Testament and for which he acted as solicitor and honorary officer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: contemporary Anglo-Indian scholars
+  description: Scholars criticized in the passage for distorting Muhammadan and Indian
+    place names through transcription practices.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: European orientalists
+  description: Writers mentioned as not having universally adopted one system for
+    Romanizing Arabic, though each has some system.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: E. Denison Ross / Sir Edward Denison Ross
+  description: The signed author or annotator of this introductory passage, identified
+    with titles including C.I.E. and Ph.D.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: language learner
+  assigned_to:
+  - fig:1
+  basis: Sale is said to have had the gift of languages and to have been guided in
+    oriental dialects.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: corrector and chief worker
+  assigned_to:
+  - fig:1
+  basis: Society records say Sale offered himself as a corrector of the Arabic New
+    Testament and soon became its chief worker.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: The passage links his work on the Arabic New Testament to the later English
+    translation of the Koran.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: linguistic guide
+  assigned_to:
+  - fig:2
+  basis: Dadichi guided Sale through oriental dialects.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: institutional sponsor or record keeper
+  assigned_to:
+  - fig:3
+  basis: The Society’s records document Sale’s offered services, and the passage names
+    Society offices he held.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: criticized transcribers
+  assigned_to:
+  - fig:4
+  basis: The passage criticizes contemporary Anglo-Indian scholars for distorting
+    Muhammadan names and place names.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: transliteration system users
+  assigned_to:
+  - fig:5
+  basis: European orientalists are described as using systems to render Arabic names
+    into Roman letters, without universal agreement.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: signed commentator
+  assigned_to:
+  - fig:6
+  basis: The passage closes with the signature E. Denison Ross and an identifying
+    note.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Sale’s Arabic instruction
+  summary: Sale’s aptitude for languages is described, and Dadichi is named as a guide
+    through oriental dialects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Work on the Arabic New Testament
+  summary: Sale offers service as a corrector, becomes chief worker, and holds Society
+    offices.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: From New Testament translation to Koran translation
+  summary: The passage says the Arabic New Testament translation was followed by the
+    English translation of the Koran.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Editorial discussion of transliteration
+  summary: The passage explains variability in earlier oriental orthography, gives
+    examples of variant spellings, and contrasts this with later efforts at systematic
+    Romanization of Arabic letters.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Authorship note
+  summary: The section is signed by E. Denison Ross and followed by an identifying
+    note and approximate date.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 463-466
+  quote_or_summary: Sale is said to have had the gift of languages, while Dadichi,
+    the King's Interpreter and a learned Greek of Aleppo, guided him “through the
+    labyrinth of oriental dialects.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 467-472
+  quote_or_summary: The Society’s records state that on August 30, 1726, Sale offered
+    to serve as a corrector of the Arabic New Testament, soon became chief worker
+    on it, and also served as solicitor and in other honorary offices.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 471-473
+  quote_or_summary: The Arabic New Testament translation was followed by the translation
+    of the Koran into English.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 474-482
+  quote_or_summary: The edition leaves proper names mostly as in the original and
+    explains that Sale’s age allowed many variations in oriental orthography; his
+    transcription is judged clearer than some contemporary Anglo-Indian renderings
+    of Muhammadan and Indian place names.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 482-487
+  quote_or_summary: Examples of spelling variation are given for Al-Qorán, Muhammad,
+    Al-Baidháwi, Muttalib, Jall ud-Dín, Anas, and Khalífa.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 488-494
+  quote_or_summary: Recent scholars are said to render each Arabic letter by a distinct
+    Roman equivalent; no universal European orientalist system exists, but such systems
+    allow readers with Arabic to reconstruct the original script and distinguish certain
+    Arabic letters and ‘ayn.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 495-497
+  quote_or_summary: The passage is signed E. Denison Ross, identified as Sir Edward
+    Denison Ross, C.I.E., Ph.D., etc., with a note saying it was apparently written
+    sometime after 1877.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is biographical and editorial rather than mythological; no passage-supported
+    mythic motifs or comparative claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The phrase “labyrinth of oriental dialects” is treated as a quoted metaphor in the prose, not as evidence for a mythic labyrinth motif.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l463-l497
+  passage_sha256=ff79a1f734fad33e87f79b7a4b832b42d7776f7fabd653ab4927471fab09a5a4
+

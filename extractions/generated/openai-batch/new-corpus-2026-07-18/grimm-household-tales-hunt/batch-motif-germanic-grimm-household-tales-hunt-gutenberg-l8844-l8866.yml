@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8844-l8866
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8844-8866
+  start: '8844'
+  end: '8866'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Waggoner, it shall cost thee thy life.”"
+  summary: After losing his property, the waggoner angrily tries to kill a sparrow
+    that repeatedly threatens his life. His attacks destroy his window, stove, household
+    furniture, and walls but do not hit the bird. He catches and swallows the sparrow;
+    it flutters back into his mouth. When his wife tries to strike the bird with an
+    axe, she misses and kills the waggoner, while the sparrow escapes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The waggoner has lost all his property and sits behind the stove in a furious
+    and bitter state.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sparrow sits outside in front of the window and says that the waggoner’s
+    life will be the cost.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The waggoner throws an axe at the sparrow, breaks the window, and does not
+    hit the bird.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The sparrow enters the room, places itself on the stove, and repeats the threat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: While trying to strike the sparrow, the waggoner breaks the stove, household
+    furniture, looking-glass, benches, table, and walls of the house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The waggoner eventually catches the sparrow with his hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The wife asks whether she should kill the sparrow, but the waggoner refuses,
+    says that would be too merciful, and swallows the bird whole.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The swallowed sparrow flutters inside the waggoner’s body, comes back up into
+    his mouth, stretches out its head, and repeats the threat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The waggoner gives the axe to his wife and asks her to kill the bird in his
+    mouth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The wife strikes, misses the bird, hits the waggoner on the head, and the
+    waggoner falls dead; the sparrow flies away.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: waggoner / driver
+  description: A man who has lost all his property, tries repeatedly to kill the sparrow,
+    swallows it, and dies when struck by his wife’s axe blow.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: sparrow
+  description: A bird that threatens the waggoner’s life, avoids his attacks, is swallowed,
+    emerges into his mouth, and escapes after the waggoner dies.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: wife
+  description: The waggoner’s wife, who is asked to kill the bird in his mouth and
+    accidentally strikes the waggoner’s head instead.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: threatened human target
+  assigned_to:
+  - fig:1
+  basis: The sparrow repeatedly says that the waggoner’s life will be the cost, and
+    the waggoner dies at the end of the passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: enraged pursuer
+  assigned_to:
+  - fig:1
+  basis: The waggoner is described as furious and breaks many objects while attempting
+    to hit the sparrow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: threatening animal adversary
+  assigned_to:
+  - fig:2
+  basis: The sparrow repeatedly threatens the waggoner and evades his attacks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: surviving captive
+  assigned_to:
+  - fig:2
+  basis: The sparrow is caught and swallowed but remains active, emerges into the
+    waggoner’s mouth, and flies away after his death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: unwitting agent of death
+  assigned_to:
+  - fig:3
+  basis: The wife attempts to strike the bird but misses and kills the waggoner.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: axe
+  literal_form: axe used as a thrown and swung weapon
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: window
+  literal_form: window broken by the waggoner’s missed axe throw
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stove
+  literal_form: stove behind or on which the action occurs, later split by the waggoner
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: destroyed household goods and house walls
+  literal_form: looking-glass, benches, table, furniture, and walls broken during
+    the chase
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: mouth as place of danger
+  literal_form: the waggoner’s mouth, from which the swallowed sparrow stretches out
+    its head and where the wife is told to strike
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Threat at the window
+  summary: The waggoner sits in anger after losing his property. The sparrow threatens
+    that the waggoner will lose his life, and the waggoner’s axe throw breaks the
+    window without hitting the bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Destructive pursuit through the house
+  summary: The sparrow enters and moves about while the waggoner, unable to hit it,
+    breaks the stove, household objects, and walls before catching the bird by hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Swallowing and fatal missed blow
+  summary: The waggoner swallows the sparrow, but it flutters back into his mouth
+    and repeats its threat. The wife tries to kill the bird with the axe, misses,
+    kills the waggoner, and the bird escapes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal adversary’s death-threat fulfilled
+  taxonomy_refs: []
+  basis: The sparrow repeatedly declares that the waggoner’s life will be the cost,
+    and the waggoner dies while the sparrow survives.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state a broader mythic or religious frame for the
+    threat.
+- id: motif:2
+  label: failed attempts to kill a small creature destroy the attacker’s household
+  taxonomy_refs: []
+  basis: The waggoner’s attacks miss the sparrow and instead break the window, stove,
+    furniture, mirror, benches, table, and walls.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is extracted as a passage-level narrative pattern, not as an externally
+    indexed motif.
+- id: motif:3
+  label: swallowed living creature remains active inside the body
+  taxonomy_refs: []
+  basis: The waggoner swallows the sparrow whole, but it flutters inside his body
+    and comes back into his mouth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No transformation or resurrection is described; the creature remains alive.
+- id: motif:4
+  label: attempt to strike a creature in a person’s mouth kills the person instead
+  taxonomy_refs: []
+  basis: The waggoner asks his wife to kill the bird in his mouth; her blow misses
+    the bird and kills the waggoner.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage attributes the death to the missed blow, without giving the
+    wife an intentional murderous role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8844-8849
+  quote_or_summary: The waggoner, having lost all his property, sits behind the stove
+    in anger. The sparrow sits outside the window and says, “Waggoner, it shall cost
+    thee thy life.” The waggoner throws an axe and breaks the window but misses the
+    bird.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt and summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 8849-8854
+  quote_or_summary: The sparrow comes in and places itself on the stove, repeating
+    the threat. The waggoner, mad with rage, breaks the stove, household furniture,
+    looking-glass, benches, table, and walls while failing to hit the bird, then catches
+    it by hand.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 8854-8860
+  quote_or_summary: The wife asks whether she should kill the bird. The waggoner refuses
+    a merciful death, swallows the sparrow whole, and the bird flutters in his body,
+    rises into his mouth, stretches out its head, and repeats the threat.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 8860-8865
+  quote_or_summary: The waggoner gives the axe to his wife and asks her to kill the
+    bird in his mouth. She strikes, misses the bird, hits the waggoner on the head,
+    and he falls dead; the sparrow flies away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No external comparative
+    or historical claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not clearly support one of the supplied taxonomy IDs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8844-l8866
+  passage_sha256=a85fc71bc6c2a2a630e73bc24f02f151b80b47def7af42370b7ecc120203fdb9
+

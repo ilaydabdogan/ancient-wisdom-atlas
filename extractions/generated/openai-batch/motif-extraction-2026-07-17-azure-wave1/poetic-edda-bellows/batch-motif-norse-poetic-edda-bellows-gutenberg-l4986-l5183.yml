@@ -1,0 +1,531 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l4986-l5183
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / HARBARTHSLJOTH / THE POEM OF HARBARTH / INTRODUCTORY NOTE; lines
+    4986-5183
+  start: '4986'
+  end: '5183'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: The poem is simply a contest of abuse...
+  summary: The introductory note describes the manuscript setting, metrical irregularity,
+    textual disorder, and broad farcical character of Harbarthsljoth. It identifies
+    the opposing figures as Thor and Othin, with Othin appearing in the disguise of
+    the ferryman Harbarth. The poem opens with Thor returning from the East to a sound,
+    asking the ferryman across the water for passage, and entering an exchange of
+    insults, name declarations, threats, and boasts about past exploits.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The introductory note characterizes the poem as a contest of abuse between
+    Thor and Othin, with Othin appearing in the disguise of the ferryman Harbarth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thor is returning from a journey in the East when he reaches a sound; a ferryman
+    with a boat is on the other side.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Thor asks to be ferried over the sound and offers food in return; he carries
+    a basket and mentions herrings and porridge.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ferryman says Thor does not know the future fully and says Thor's homecoming
+    is doleful because his mother is dead; Thor calls this the mightiest grief.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The ferryman mocks Thor as lacking good dwellings, standing barefoot, wearing
+    beggar's dress, and having no hose.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The ferryman says Hildolf told him to keep the craft and to ferry worthy and
+    known men, not robbers or horse-thieves.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Thor identifies himself by name and kinship as Othin's son, Meili's brother,
+    Magni's father, and the strong one of the gods; the ferryman names himself Harbarth.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Harbarth says he would guard his life from someone like Thor unless doomed
+    to die; Thor threatens repayment for mocking words if he crosses the sound; Harbarth
+    says he will stand and wait.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Thor recounts that he fought and felled Hrungnir, a haughty giant whose head
+    was made of stone.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Harbarth says he spent five winters with Fjolvar on the island called Algrn,
+    where they fought, felled the slain, sought much, and mastered maids.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The introductory note warns that the text is chaotic and says some editors
+    have read complex symbolism into it, while the translator cautions against taking
+    the farce too seriously.
+  category: other
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Thor
+  description: A god returning from the East who seeks passage over the sound, identifies
+    himself by divine kinship, threatens Harbarth, and boasts of felling Hrungnir.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Othin / Harbarth / the ferryman
+  description: Othin appears in the disguise of the ferryman Harbarth, stands across
+    the sound with a boat, insults Thor, states conditions for ferrying, and recounts
+    past exploits with Fjolvar.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Hildolf
+  description: A wise hero whose home is at Rathseys sound and who instructed the
+    ferryman about keeping and using the craft.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Thor's mother
+  description: A figure whom Harbarth says is dead; Thor calls that news the mightiest
+    grief.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hrungnir
+  description: A haughty giant with a head made of stone, whom Thor says he fought,
+    felled, and stretched before him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Fjolvar
+  description: A figure with whom Harbarth says he spent five full winters on the
+    island Algrn.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: opponent in verbal abuse contest
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The introductory note states that the poem is a contest of abuse and names
+    Thor and Othin as the opposing figures.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: returning traveler seeking passage
+  assigned_to:
+  - fig:1
+  basis: Thor returns from the East, reaches a sound, and asks the ferryman to ferry
+    him across.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: disguised ferryman and crossing-controller
+  assigned_to:
+  - fig:2
+  basis: Othin appears as Harbarth the ferryman, stands with the boat across the sound,
+    and says he ferries only certain travelers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: boat-authorizing owner or patron
+  assigned_to:
+  - fig:3
+  basis: Hildolf is named as the one who bade Harbarth have the craft and gave instructions
+    about whom to ferry.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: reported deceased mother
+  assigned_to:
+  - fig:4
+  basis: Harbarth says Thor's mother is dead, and Thor responds that this would be
+    the mightiest grief.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: giant-slaying adversarial pair
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Thor describes fighting and felling Hrungnir, the haughty stone-headed giant.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: former companion in exploits
+  assigned_to:
+  - fig:6
+  basis: Harbarth says he spent five winters with Fjolvar on Algrn.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: sound or bay as water boundary
+  literal_form: The sound, bay, and waters separating Thor from the ferryman and the
+    boat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: ferry boat or craft
+  literal_form: The boat or craft kept on the farther shore by the ferryman.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: basket of food
+  literal_form: Thor's basket containing food, with herrings and porridge mentioned.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stone-headed giant
+  literal_form: Hrungnir's head made of stone.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: island Algrn
+  literal_form: The island called Algrn, where Harbarth says he dwelt with Fjolvar
+    for five winters.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Introductory framing of the poem
+  summary: The note frames Harbarthsljoth as a chaotic, farcical contest of abuse
+    between Thor and Othin, with Othin appearing as the ferryman Harbarth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: scene:2
+  label: Thor arrives at the sound and requests passage
+  summary: Thor, returning from the East, reaches a sound where a ferryman has a boat
+    on the opposite shore; Thor asks to be ferried and offers food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Insults, bad news, and ferrying restrictions
+  summary: The ferryman taunts Thor with ignorance of the future, news of his mother's
+    death, and poverty of dress, then says Hildolf instructed him to ferry only worthy
+    and known men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Name exchange and threats across the water
+  summary: Thor declares his identity and kinship; the ferryman names himself Harbarth.
+    Harbarth says he will guard his life, and Thor threatens him if he can cross the
+    sound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Boasts of earlier violent exploits
+  summary: Thor boasts of fighting and felling Hrungnir, while Harbarth recounts five
+    winters with Fjolvar on Algrn involving fighting, killing, seeking, and mastering
+    maids.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: disguised ferryman at a water crossing
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage identifies Othin as appearing in the disguise of the ferryman
+    Harbarth, who stands across the sound with a boat and controls who may cross.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The introductory note cautions that complex symbolism should not be over-read;
+    the scene is also presented as broad farce.
+- id: motif:2
+  label: verbal abuse contest between divine opponents
+  taxonomy_refs: []
+  basis: The introductory note directly calls the poem a contest of abuse between
+    Thor and Othin, and the excerpt contains taunts, insults, threats, and boasts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a genre or interaction pattern rather than a named taxonomy motif
+    in the supplied list.
+- id: motif:3
+  label: return journey obstructed by a crossing
+  taxonomy_refs:
+  - return
+  basis: Thor is on his way back from the East, comes to a sound, and must negotiate
+    with a ferryman for passage; Harbarth predicts a doleful homecoming.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Only the opening of the return and obstruction appears in the supplied
+    passage; no completed return is shown.
+- id: motif:4
+  label: boast of giant-slaying
+  taxonomy_refs: []
+  basis: Thor boasts that he fought and felled Hrungnir, a haughty giant with a head
+    of stone.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage gives the boast as part of an insult contest and does not
+    narrate the combat itself.
+- id: motif:5
+  label: selective ferrying of worthy travelers
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Harbarth says Hildolf instructed him not to ferry robbers or horse-thieves,
+    but worthy men and those he knows.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states the rule but does not yet show an actual ferry crossing
+    or final judgment.
+comparison_claims:
+- id: claim:1
+  claim: The introductory note compares the poem's central exchange to a broader early
+    Norwegian and Icelandic practice of contests of abuse.
+  claim_level: same_function
+  target: early Norwegian and Icelandic contest-of-abuse practice
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:11
+  confidence: medium
+  limitations: The claim comes from the translator's introductory note, not from an
+    internal statement by the poem's speakers; it supports functional comparison,
+    not historical derivation.
+- id: claim:2
+  claim: The introductory note reports that some editors have interpreted the opposition
+    of Othin and Thor as a class-pattern contest between a noble or warrior class
+    and a peasant figure, but the same note cautions against taking this symbolism
+    too seriously.
+  claim_level: archetypal_reading
+  target: noble or warrior class versus peasant class pattern
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs:
+  - ev:11
+  confidence: low
+  limitations: This is presented as an editorial interpretation that the translator
+    explicitly qualifies; it should not be treated as an established motif extraction
+    without review.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4986-5183, Introductory Note
+  quote_or_summary: '"The poem is simply a contest of abuse... the opposing figures
+    being Thor and Othin, the latter appearing in the disguise of the ferryman Harbarth."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4986-5183, prose before stanza 1
+  quote_or_summary: Thor is returning from a journey in the East, comes to a sound,
+    and sees a ferryman with a boat on the other side.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4986-5183, stanzas 1-3
+  quote_or_summary: Thor calls across the sound, asks to be ferried over, offers morning
+    food, and says he has a basket with food after eating herrings and porridge.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4986-5183, stanzas 4-5
+  quote_or_summary: The ferryman says Thor does not know the future and that his mother
+    is dead; Thor replies that this is the mightiest grief.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4986-5183, stanza 6
+  quote_or_summary: The ferryman says Thor lacks three good dwellings, stands barefoot,
+    wears beggar's dress, and has no hose.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4986-5183, stanzas 7-8
+  quote_or_summary: Thor asks whose craft the ferryman keeps; the ferryman says Hildolf
+    bade him keep it and told him to ferry worthy and known men, not robbers or horse-thieves.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 4986-5183, stanzas 9-10
+  quote_or_summary: Thor names himself, his race, and kinship as Othin's son, Meili's
+    brother, Magni's father, and the strong one of the gods; the ferryman says he
+    is Harbarth.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4986-5183, stanzas 12-14
+  quote_or_summary: Harbarth says he would guard his life from such a person unless
+    doomed; Thor threatens to repay the ferryman's mockery if he crosses; Harbarth
+    says he will wait.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 4986-5183, stanza 15
+  quote_or_summary: Thor says he fought Hrungnir, a haughty giant with a head made
+    of stone, and felled him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 4986-5183, stanza 16
+  quote_or_summary: Harbarth says he spent five winters with Fjolvar on Algrn and
+    that there they fought, felled the slain, sought much, and mastered maids.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 4986-5183, Introductory Note
+  quote_or_summary: The note describes the poem as chaotic and broad farce, says some
+    editors have read complex symbolism into it as a class contest between Othin and
+    Thor, and cautions against taking it too seriously.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The figures, actions, and scenes are explicitly supported by the supplied
+    passage. Motif labels involving boundary or return are plausible but require review
+    because the introductory note itself warns against over-reading symbolism and
+    the passage contains only the opening exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied line range and metadata were used. Taxonomy references were limited to the provided motif-family and symbol lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l4986-l5183
+  passage_sha256=a92bc411c2d1c84f008c2e8594c5fe58b088a21998f2bb71f1574a233baa1fff
+

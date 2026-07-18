@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l29199-l29249
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXX. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXI. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 29199-29249
+  start: '29199'
+  end: '29249'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Annotative material discusses a Qur'anic term interpreted as stable mountains
+    or earth-foundations; reports traditions about Lokman as a wise, non-prophetic
+    slave granted wisdom and eloquence by God; recounts the bitter-melon episode that
+    led to his liberty; compares Lokman traditions with Aesop traditions; and notes
+    parenthetical anti-idolatry verses in the setting of Lokman's advice to his son.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A learned writer is reported to interpret the original word rawsiya not as
+    stable mountains, as commentators generally do, but as bases or foundations, and
+    to compare it with a Psalm about the earth's foundations.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arab writers are said to make Lokman the son of Bara and to connect him genealogically
+    with Job's family, while also saying he lived for centuries and was conversant
+    with David in Palestine.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports physical descriptions of Lokman, including black complexion,
+    thick lips, and splay feet.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lokman is said to have received wisdom and eloquence from God; some accounts
+    say this occurred in a vision where he chose wisdom rather than prophecy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The generality of Mohammedans are said to hold Lokman to have been a wise
+    man rather than a prophet.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Lokman is said to have been a slave and to have obtained liberty on the occasion
+    of the bitter-melon episode.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Lokman's master gave him a bitter melon; Lokman ate it all and replied that
+    he could accept one bitter fruit from the same hand that had given him many favors.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Commentators are said to preserve quick repartees of Lokman, and the passage
+    compares his circumstances with Maximus Planudes' account of Aesop.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says two verses are not part of Lokman's advice to his son but
+    are inserted parenthetically to show the heinousness of idolatry and were originally
+    revealed on account of Saad Ebn Abi Wakkas.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lokman / Lokmn
+  description: A wise figure described by Arab writers as long-lived, connected with
+    Job's family and David's time, physically distinctive, granted wisdom and eloquence
+    by God, generally not regarded as a prophet, formerly a slave, and associated
+    with fables and repartees.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: God
+  description: The divine source from whom Lokman is said to have received wisdom
+    and eloquence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Lokman's master
+  description: The master who gave Lokman a bitter melon and asked how he could eat
+    such a nauseous fruit; the episode is linked with Lokman's obtaining liberty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Lokman's son
+  description: The addressee of Lokman's advice, though the passage says two verses
+    in the surrounding text are not part of that advice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Aesop / Esop
+  description: The Greek fable figure whose Planudean life is compared with Lokman
+    traditions; the passage notes both as slaves and supposed fable writers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Maximus Planudes
+  description: The writer whose account of Aesop is discussed and whose material is
+    suggested to have borrowed from eastern Lokman traditions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Saad Ebn Abi Wakkas
+  description: Named as the occasion for the original revelation of the parenthetical
+    verses discussed in the note.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wise man and recipient of wisdom
+  assigned_to:
+  - fig:1
+  basis: The passage says Lokman received wisdom and eloquence from God and was generally
+    held to be a wise man, not a prophet.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine giver of wisdom
+  assigned_to:
+  - fig:2
+  basis: God is named as the source of Lokman's wisdom and eloquence.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: slave who obtained liberty
+  assigned_to:
+  - fig:1
+  basis: The passage says Lokman was a slave and obtained his liberty after the bitter-melon
+    episode.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: master in obedience episode
+  assigned_to:
+  - fig:3
+  basis: The master gives Lokman the bitter melon and questions his ability to eat
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: son and addressee of advice
+  assigned_to:
+  - fig:4
+  basis: The passage refers to Lokman's advice to his son.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: slave/fable-writer comparandum
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage compares Lokman and Aesop because both were said to be slaves
+    and writers of similar fables.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: writer of Aesop tradition
+  assigned_to:
+  - fig:6
+  basis: Maximus Planudes is named as the writer of material about Aesop that is compared
+    with Lokman traditions.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: occasion figure for revelation
+  assigned_to:
+  - fig:7
+  basis: The passage says the parenthetical verses were originally revealed on account
+    of Saad Ebn Abi Wakkas.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: father or adviser in wisdom instruction
+  assigned_to:
+  - fig:1
+  basis: The note frames part of the surrounding text as Lokman's advice to his son.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: stable mountains or earth foundations
+  literal_form: rawsiya interpreted as stable mountains, or alternatively as bases/foundations
+    of the earth
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bitter melon
+  literal_form: a bitter melon or nauseous fruit given by the master and eaten by
+    Lokman
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cosmic foundations note
+  summary: A note discusses whether rawsiya means stable mountains or foundations
+    of the earth and links the wording to a Psalm about the earth being founded so
+    it will not move.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wisdom granted and chosen
+  summary: Lokman is described as receiving wisdom and eloquence from God; in some
+    accounts, a vision offers him either wisdom or prophecy and he chooses wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bitter melon and liberty
+  summary: Lokman's master gives him a bitter melon; Lokman eats it all and explains
+    his gratitude for many prior favors from the same hand, an occasion connected
+    with his gaining liberty.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lokman compared with Aesop
+  summary: The passage compares Lokman's repartees, slave status, and fable associations
+    with the Aesop tradition reported by Maximus Planudes, while noting dispute over
+    the identification.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Parenthetical anti-idolatry verses
+  summary: Two verses are described as parenthetical rather than part of Lokman's
+    advice to his son, and as inserted to condemn idolatry; they are linked to Saad
+    Ebn Abi Wakkas.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Earth stabilized by mountains or foundations
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The passage discusses stable mountains and earth foundations as the meaning
+    or parallel of rawsiya.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a linguistic and exegetical note rather than a full narrative
+    episode; the cosmic-mountain taxonomy is approximate.
+- id: motif:2
+  label: Divinely bestowed wisdom preferred over prophecy
+  taxonomy_refs:
+  - wisdom
+  basis: Lokman receives wisdom and eloquence from God, and some accounts say he chooses
+    wisdom when offered wisdom or prophecy in a vision.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The vision and choice are reported with the qualifying phrase that only
+    some accounts claim it.
+- id: motif:3
+  label: Wise slave's grateful obedience leads to freedom
+  taxonomy_refs:
+  - wisdom
+  basis: Lokman, described as a slave, obeys by eating the bitter melon and gives
+    a wise reply about accepting bitterness from a beneficent hand; this is linked
+    to his liberty.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents the episode through later commentators, not as direct
+    Qur'anic narration.
+- id: motif:4
+  label: Slave fable-sage parallel
+  taxonomy_refs:
+  - wisdom
+  basis: Lokman is compared with Aesop because both are portrayed as slaves and as
+    supposed authors of similar fables, with quick repartees attached to Lokman.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage itself says the matter can be disputed and distinguishes similarity
+    from secure identity.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a learned writer's view that the Qur'anic wording about
+    rawsiya corresponds to the Psalmic phrase about the foundations of the earth.
+  claim_level: linguistic_similarity
+  target: Psalm civ. 5, as cited in the note
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a reported scholarly comparison in the note; the passage provides
+    no independent philological demonstration beyond the cited wording.
+- id: claim:2
+  claim: The passage compares Lokman and Aesop as analogous slave sages and fable-associated
+    figures with similar narrative traits.
+  claim_level: same_function
+  target: Greek Aesop tradition as presented by Maximus Planudes
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage notes that some identified them, but the narrator says
+    the matter is disputable; this supports functional comparison more than historical
+    identity.
+- id: claim:3
+  claim: The passage suggests that Planudes may have borrowed part of his Aesop biography
+    from eastern traditions about Lokman.
+  claim_level: historical_contact
+  target: Planudes' Life of Aesop and eastern Lokman traditions
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The borrowing proposal is explicitly presented as the note-writer's
+    opinion and is not independently evidenced within the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29199-29206, note p
+  quote_or_summary: A learned writer is said to read rawsiya as bases or foundations
+    rather than stable mountains and to connect it with Psalm civ. 5 about the earth's
+    foundations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 29207-29218, note q
+  quote_or_summary: Arab writers describe Lokman's genealogy, long life, physical
+    appearance, receipt of wisdom and eloquence from God, possible vision choosing
+    wisdom over prophecy, and status as wise man rather than prophet.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 29218-29228, note q
+  quote_or_summary: Lokman is said to have been a slave who obtained liberty after
+    eating a bitter melon from his master and explaining that one bitter fruit should
+    be accepted from a hand that had given many favors.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 29228-29239, note q
+  quote_or_summary: The passage says Lokman's repartees and circumstances resemble
+    Planudes' Aesop; it reports that some thought Lokman and Aesop the same, while
+    the note-writer instead suggests Planudes borrowed from eastern Lokman traditions
+    because both were slaves and supposed fable writers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 29244-29249, note s
+  quote_or_summary: Two verses are described as not part of Lokman's advice to his
+    son but as a parenthetical insertion against idolatry, originally revealed on
+    account of Saad Ebn Abi Wakkas.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary rather than primary narrative, so literal extraction
+    is straightforward but motif classification and comparison claims require caution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used. No external source claims were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l29199-l29249
+  passage_sha256=a8676293e6151c0523a8efcff0d37b96925e3f36248fc2cfbfe719cbe5b86eed
+

@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l17735-l17807
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 17735-17807
+  start: '17735'
+  end: '17807'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Chapter IX, titled the Declaration of Immunity, with
+    a declaration from God and his apostle to idolaters with whom a league had been
+    made. It grants four months of secure movement, warns that God cannot be weakened,
+    announces divine and apostolic separation from idolaters on the day of the greater
+    pilgrimage, urges repentance, and threatens painful punishment for unbelief. The
+    notes explain the missing opening formula, interpretations of the declaration,
+    the pilgrimage date, and Ali’s public promulgation of the chapter and four related
+    commands.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chapter IX is titled "The Declaration of Immunity" and is described as revealed
+    at Medina.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A declaration of immunity is said to come from God and his apostle to idolaters
+    with whom a league had been made.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The idolaters are told to go securely through the earth for four months, and
+    are warned that they cannot weaken God and that God will disgrace unbelievers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A declaration is made to the people on the day of the greater pilgrimage that
+    God and his apostle are clear of the idolaters.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says repentance would be better for the addressees, while turning
+    back is linked to a painful punishment for those who do not believe.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note says this chapter alone lacks the prefixed formula "In the name of
+    the most merciful God," and reports explanations connecting the omission with
+    security being taken away after a fixed time or with disagreement over the chapter’s
+    placement.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The note reports differing interpretations of the declaration: either a four-month
+    security for infidels or Mohammed’s discharge from truce or league with them after
+    that period.'
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The note names the four months as Shawl, Dhu'lkaada, Dhu'lhajja, and Moharram,
+    while also reporting an alternative calculation beginning from the tenth of Dhu'lhajja.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The note identifies the day of the greater pilgrimage as the tenth of Dhu'lhajja,
+    when victims are slain at Mina and the pilgrimage ceremonies are completed.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The promulgation of the chapter is described as committed by Mohammed to Ali,
+    who rode the prophet’s slit-eared camel from Medina to Mecca and addressed the
+    assembly at al Akaba.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: 'Ali is said to have read twenty or thirty verses and then announced four
+    commands: no idolater should approach the temple of Mecca after that year; no
+    man should compass the Caaba naked; only true believers should enter paradise;
+    and public faith should be kept.'
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The source of the declaration of immunity; described as unable to be
+    weakened, as one who will disgrace unbelievers, and as clear of the idolaters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: God's apostle / Mohammed
+  description: The apostle joined with God in the declaration; the notes identify
+    Mohammed in connection with renouncing league and committing promulgation to Ali.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: Idolaters / unbelievers / infidels
+  description: The group with whom a league had been made; they receive four months
+    of security, are addressed by warnings, and are barred from approaching the temple
+    of Mecca after the specified year in Ali’s proclamation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:4
+  name_or_label: Ali
+  description: The person entrusted by Mohammed with the chapter’s promulgation; he
+    travels from Medina to Mecca, stands before the assembly at al Akaba, reads verses,
+    and announces four commands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: True believers
+  description: The group identified in Ali’s proclamation as the only ones who shall
+    enter paradise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: People at the greater pilgrimage / assembly at al Akaba
+  description: The audience to whom the declaration is made on the day of the greater
+    pilgrimage and before whom Ali speaks at al Akaba.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: divine declarant and judge
+  assigned_to:
+  - fig:1
+  basis: God is named as the source of the declaration and as the one who will disgrace
+    unbelievers and punish those who do not believe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: apostolic declarant and renouncer of league
+  assigned_to:
+  - fig:2
+  basis: The apostle is joined to God in the declaration; the note interprets the
+    declaration as Mohammed being discharged from truce or league after the specified
+    period.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: league partners placed under time-limited warning
+  assigned_to:
+  - fig:3
+  basis: The idolaters are the group with whom a league had been made and who receive
+    four months of security followed by warnings and restrictions.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+- id: role:4
+  label: human promulgator of the declaration
+  assigned_to:
+  - fig:4
+  basis: Ali is described as sent by Mohammed to promulgate the chapter and to read
+    verses and commands before the assembly.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: paradise-eligible faithful
+  assigned_to:
+  - fig:5
+  basis: Ali’s proclamation says that none but true believers shall enter paradise.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: ritual audience
+  assigned_to:
+  - fig:6
+  basis: The people at the greater pilgrimage and the assembly at al Akaba are the
+    audience for the declaration and Ali’s message.
+  evidence_refs:
+  - ev:3
+  - ev:8
+symbols:
+- id: sym:1
+  label: four-month interval
+  literal_form: four months of secure movement before the league is ended or reinterpreted
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: day of the greater pilgrimage
+  literal_form: the tenth of Dhu'lhajja, associated in the note with pilgrimage completion
+    and sacrifice at Mina
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: temple of Mecca and Caaba
+  literal_form: the temple of Mecca and the Caaba named in Ali’s announced restrictions
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: victims at Mina
+  literal_form: victims slain at Mina on the tenth of Dhu'lhajja
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: prophet’s slit-eared camel
+  literal_form: the camel on which Ali rode from Medina to Mecca
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Opening declaration of immunity
+  summary: God and his apostle issue a declaration to idolaters with whom a league
+    had been made, granting four months of secure movement and warning that unbelievers
+    cannot weaken God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Greater pilgrimage declaration
+  summary: On the day of the greater pilgrimage, the people are told that God and
+    his apostle are clear of the idolaters; repentance is recommended and painful
+    punishment is warned for unbelief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Commentarial explanation of chapter form and time limit
+  summary: The notes explain the missing opening formula, connect the chapter with
+    punishment or repentance, and discuss interpretations of the four-month security
+    or release from league.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Pilgrimage setting and sacrifice at Mina
+  summary: The notes identify the greater pilgrimage day as the tenth of Dhu'lhajja,
+    when victims are slain at Mina and the pilgrimage rites are completed.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Ali’s public promulgation at al Akaba
+  summary: Ali travels from Medina to Mecca on the prophet’s camel, stands before
+    the assembly at al Akaba, reads verses, and announces four commands concerning
+    the temple, the Caaba, paradise, and public faith.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: time-limited dissolution of covenant or league
+  taxonomy_refs:
+  - covenant
+  basis: The passage centers on a declaration concerning idolaters with whom a league
+    had been made, including a four-month interval and an interpretation that Mohammed
+    is discharged from truce or league after that period.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage uses terms such as league and truce rather than a formal covenant
+    terminology in the supplied English translation.
+- id: motif:2
+  label: divine warning and punishment for unbelief
+  taxonomy_refs:
+  - divine_judgment
+  basis: The declaration warns that unbelievers cannot weaken God, that God will disgrace
+    them, and that those who do not believe are to be denounced with painful punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives warning and punishment language but does not narrate
+    the punishment being carried out.
+- id: motif:3
+  label: repentance as alternative to punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The greater pilgrimage declaration says repentance would be better, while
+    turning back is followed by warning of painful punishment for unbelief.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a brief exhortative statement rather than an extended repentance
+    narrative.
+- id: motif:4
+  label: sacred boundary and restricted access to sanctuary
+  taxonomy_refs: []
+  basis: Ali’s proclamation bars idolaters from approaching the temple of Mecca after
+    the year and bars naked circumambulation of the Caaba.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: No matching supplied taxonomy family directly names sanctuary-boundary
+    restriction.
+- id: motif:5
+  label: ritual sacrifice at pilgrimage completion
+  taxonomy_refs:
+  - sacrifice
+  basis: The note identifies the day of the greater pilgrimage as the day when victims
+    are slain at Mina and the pilgrimage ceremonies are completed.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The sacrifice is mentioned in a calendrical explanatory note and is not
+    the main action of the chapter opening.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17735-17737
+  quote_or_summary: Chapter IX is headed as entitled "The Declaration of Immunity"
+    and revealed at Medina.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:2
+  type: summary
+  locator: 17739-17742
+  quote_or_summary: God and his apostle declare immunity to idolaters with whom a
+    league had been made; the idolaters are allowed secure movement for four months
+    and warned that they cannot weaken God and that God will disgrace unbelievers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:3
+  type: summary
+  locator: 17743-17747
+  quote_or_summary: A declaration to the people on the day of the greater pilgrimage
+    says God and his apostle are clear of the idolaters; repentance is presented as
+    better, while turning back leads to a warning of painful punishment for unbelief.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:4
+  type: summary
+  locator: 17749-17764
+  quote_or_summary: The note explains the chapter title, calls attention to the absence
+    of the prefixed formula, and reports explanations involving security being taken
+    away after a fixed time or uncertainty over placement and chapter division.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:5
+  type: summary
+  locator: 17769-17780
+  quote_or_summary: The note reports interpretations of the declaration as either
+    security for infidels for four months or Mohammed’s release from truce or league
+    after the time expires; it also links the renunciation to his increased power
+    and to alleged treachery among Jewish and idolatrous Arabs, with some exceptions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:6
+  type: summary
+  locator: 17781-17784
+  quote_or_summary: The note names the four months as Shawl, Dhu'lkaada, Dhu'lhajja,
+    and Moharram, with an alternative calculation from the tenth of Dhu'lhajja.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:7
+  type: summary
+  locator: 17786-17792
+  quote_or_summary: The note identifies the greater pilgrimage day as the tenth of
+    Dhu'lhajja, when victims are slain at Mina, the feast occurs, and pilgrimage ceremonies
+    are completed; it also explains possible meanings of "greater" pilgrimage.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:8
+  type: summary
+  locator: 17793-17797
+  quote_or_summary: Mohammed commits the promulgation of the chapter to Ali, who rides
+    the prophet’s slit-eared camel from Medina to Mecca and stands before the assembly
+    at al Akaba as messenger of the apostle of God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:9
+  type: summary
+  locator: 17797-17802
+  quote_or_summary: 'Ali reads twenty or thirty verses and announces four commands:
+    no idolater is to come near the temple of Mecca after the year, no man is to compass
+    the Caaba naked, none but true believers shall enter paradise, and public faith
+    is to be kept.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on the supplied passage and notes. Motif candidates
+    are conservative and limited to available taxonomy references when directly supported;
+    comparison claims are left empty because the passage does not itself support a
+    clear comparative mythology claim beyond internal textual notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations, figures, roles, symbols, scenes, and motif candidates cite supplied passage evidence only.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l17735-l17807
+  passage_sha256=abae52fb64533b88cc49aa93ceb06317d73ec9916caf1095caadc2b61011ece8
+

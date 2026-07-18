@@ -1,0 +1,531 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l6249-l6341
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: II. TO DEMETER / III. TO DELIAN APOLLO / TO PYTHIAN APOLLO / IV. TO HERMES;
+    lines 6249-6341
+  start: '6249'
+  end: '6341'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hermes invents fire-sticks and fire, slaughters and prepares stolen cattle,
+    divides the meat into twelve portions, hides or destroys evidence, returns secretly
+    to his cradle, is confronted by his mother Maia, and declares his ambition for
+    divine honor and wealth. Apollo then searches for his missing cattle and questions
+    an old man, who uncertainly reports seeing a child with a staff driving long-horned
+    cattle backwards.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hermes is described as the first inventor of fire-sticks and fire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hermes piles dried sticks in a sunken trench, and flame begins to glow and
+    spread.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hermes drags two horned cows to the fire, throws them down, kills them, cuts
+    up the meat, pierces it with wooden spits, and roasts flesh and organs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hermes divides the prepared meat into twelve honourable portions distributed
+    by lot, desires the savour, but does not eat the flesh.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hermes stores the fat and flesh high in the byre as a token of his youthful
+    theft, then burns the hoofs and heads.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hermes throws his sandals into the Alpheus, quenches the embers, and covers
+    the black ashes with sand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Hermes returns at dawn to Cyllene, passes edgeways through the hall key-hole
+    like an autumn breeze or mist, and goes through the cave to an inner chamber without
+    noise.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Hermes lies in his cradle wrapped in swaddling clothes as if he were a feeble
+    babe, while keeping his lyre at his left hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Maia sees Hermes and addresses him as a rogue, asking where he has returned
+    from at night and warning that Apollo may bind him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Hermes answers Maia with crafty words, saying he will seek the best plan to
+    feed himself and her continually.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Hermes says he does not want himself and Maia to remain in a gloomy cave without
+    offerings and prayers, and says he will seek fellowship and honor among the deathless
+    gods.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Hermes says that if his father does not grant him honor, he is able to be
+    a prince of robbers and will plunder Apollo's house at Pytho.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Apollo comes to Onchestus while seeking missing horned cows from his herd;
+    he says the dogs and bull were left behind while the cows strayed away around
+    sunset.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The old man says he is not certain, but thinks he saw a child with a staff
+    following long-horned cattle and driving them backwards with their heads toward
+    him.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Hermes
+  description: Son of Zeus and Maia; a god who invents fire-sticks and fire, prepares
+    cattle, conceals evidence, returns to his cradle as a babe, speaks craftily, and
+    claims ambition for divine honor and robbery.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Maia
+  description: Hermes' mother, called a goddess or lady, who sees Hermes after his
+    return and rebukes him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Apollo / Son of Leto
+  description: The son of Leto who seeks his missing cattle and questions an old man
+    at Onchestus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Old man of Onchestus
+  description: An old man grazing his beast and working near a vineyard plot, questioned
+    by Apollo about the missing cattle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: divine inventor of fire
+  assigned_to:
+  - fig:1
+  basis: The passage states that Hermes first invented fire-sticks and fire.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cattle-thief and concealer of evidence
+  assigned_to:
+  - fig:1
+  basis: Hermes' stored meat is called a token of youthful theft; he destroys or hides
+    traces including hoofs, heads, sandals, embers, and ashes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: divine infant in disguise
+  assigned_to:
+  - fig:1
+  basis: Hermes returns to his cradle, wraps himself as though a feeble babe, and
+    keeps his lyre nearby.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: aspirant to divine honor and robbery
+  assigned_to:
+  - fig:1
+  basis: Hermes says he will seek offerings, prayers, fellowship with gods, and, if
+    denied honor, will become a prince of robbers and plunder Apollo's house.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: rebuking mother
+  assigned_to:
+  - fig:2
+  basis: Maia sees Hermes and rebukes him for returning at night, warning of Apollo's
+    reaction.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: owner and seeker of missing cattle
+  assigned_to:
+  - fig:3
+  basis: Apollo says he has come seeking cows from his herd and asks whether anyone
+    saw someone behind them.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: uncertain human witness
+  assigned_to:
+  - fig:4
+  basis: The old man says it is difficult to tell all he saw, but thinks he saw a
+    child driving cattle backwards.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire-sticks, flame, fierce-burning fire, embers, and ashes used in
+    cooking and concealment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cave
+  literal_form: The cave and inner chamber at Cyllene; Hermes also describes remaining
+    in a gloomy cave.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Alpheus river
+  literal_form: Deep-eddying Alpheus, into which Hermes throws his sandals and where
+    he quenches embers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: horned cattle
+  literal_form: Two horned cows slaughtered by Hermes and the missing long-horned
+    cows sought by Apollo.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: twelve portions
+  literal_form: Twelve honourable meat portions distributed by lot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: cradle and swaddling clothes
+  literal_form: Hermes' cradle and swaddling clothes, used when he lies as though
+    a feeble babe.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: lyre
+  literal_form: Hermes' sweet lyre kept close at his left hand while he lies in the
+    cradle.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: key-hole passage
+  literal_form: Hermes passes edgeways through the hall key-hole like autumn breeze
+    or mist.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Invention of fire and preparation of cattle
+  summary: Hermes invents fire-sticks and fire, kindles flame in a trench, kills two
+    cows, butchers and roasts the meat, divides it into twelve portions, and refrains
+    from eating it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Concealment and secret return
+  summary: Hermes hides the meat, burns remaining animal parts, casts away his sandals,
+    quenches embers, covers ashes, returns to Cyllene, passes through a key-hole and
+    cave, and lies in his cradle with his lyre.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Maia rebukes Hermes
+  summary: Maia sees Hermes after his return, calls him a rogue, and warns that Apollo
+    may bind him or that he may live as a robber in the glens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hermes declares his ambition
+  summary: Hermes tells Maia that he will seek food, offerings, prayers, divine fellowship,
+    and honor; he threatens to become a prince of robbers and to plunder Apollo's
+    house at Pytho if honor is not granted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Apollo questions the old man
+  summary: Apollo reaches Onchestus seeking his missing horned cows and asks an old
+    man whether he saw anyone following the cattle; the old man uncertainly reports
+    seeing a child with a staff driving long-horned cattle backwards.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacred theft of divine cattle
+  taxonomy_refs:
+  - sacred_theft
+  basis: The passage calls Hermes' stored meat a token of youthful theft; Maia warns
+    of Apollo's reaction; Apollo searches for missing cattle; and a witness reports
+    seeing a child driving cattle backwards.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The excerpt begins after the initial taking of the cattle, so the theft
+    itself is partly reconstructed from later statements within the supplied passage.
+- id: motif:2
+  label: trickster boundary-crossing and concealment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hermes conceals traces of the cattle episode, returns through the key-hole
+    like breeze or mist, resumes the appearance of a feeble babe, and speaks craftily
+    to Maia.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not use the word trickster; the label groups several
+    literal acts of stealth, disguise, and boundary-crossing.
+- id: motif:3
+  label: divine inventor of fire
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage explicitly says Hermes first invented fire-sticks and fire and
+    then uses fire in preparing the cattle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The invention is explicit, but the broader culture-hero function is not
+    elaborated beyond this episode.
+- id: motif:4
+  label: sacrificial division and withheld consumption
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Hermes prepares the cattle, divides the meat into twelve honourable portions
+    by lot, desires the sacrificial meat, but does not eat it; he later speaks of
+    offerings and prayers as divine honor.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage uses sacrificial language, but the exact ritual recipients
+    and full ritual context are not specified in this excerpt.
+- id: motif:5
+  label: extraordinary divine child
+  taxonomy_refs:
+  - miraculous_child
+  basis: Hermes is treated as an infant or feeble babe yet invents fire, slaughters
+    cattle, conceals evidence, returns to his cradle, and is reported as a child driving
+    cattle backwards.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage does not narrate Hermes' birth; the motif label rests on the
+    contrast between infant presentation and extraordinary actions.
+- id: motif:6
+  label: divine parent-child negotiation over status
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Maia rebukes her son Hermes; Hermes names his father as the one who may grant
+    honor and says he will seek status among the gods if it is not given.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Zeus is mentioned as father but does not appear or speak in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: supplied passage, opening before ll. 115-137; source lines approximately
+    6249-6256
+  quote_or_summary: Hermes chooses and trims a laurel branch; he is said to have first
+    invented fire-sticks and fire, piles dried sticks in a trench, and kindles a spreading
+    flame.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: Hymn IV to Hermes ll. 115-137; source lines approximately 6257-6278
+  quote_or_summary: Hermes brings two horned cows to the fire, kills and butchers
+    them, roasts the meat, sets out hides, divides the meat into twelve honourable
+    portions, longs for but does not eat it, stores the fat and flesh as a token of
+    youthful theft, and burns the hoofs and heads.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: Hymn IV to Hermes ll. 138-154; source lines approximately 6279-6295
+  quote_or_summary: Hermes throws his sandals into the Alpheus, quenches embers, covers
+    ashes, returns at dawn to Cyllene, passes through the key-hole and cave like breeze
+    or mist, and lies in his cradle with swaddling clothes and lyre.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: Hymn IV to Hermes ll. 155-161; source lines approximately 6296-6303
+  quote_or_summary: Maia sees Hermes, calls him a rogue, asks where he has returned
+    from at night, and warns that Apollo may bind him or that he may live as a robber.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: Hymn IV to Hermes ll. 162-181; source lines approximately 6304-6323
+  quote_or_summary: Hermes replies craftily that he will seek a plan to feed himself
+    and Maia, pursue divine fellowship with offerings and prayers, enter Apollo's
+    rite, and, if denied by his father, become a prince of robbers and plunder Apollo's
+    house at Pytho.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: Hymn IV to Hermes ll. 182-189; source lines approximately 6324-6331
+  quote_or_summary: After Hermes and Maia speak, a dawn/light-bringing figure rises
+    from Ocean; Apollo comes to Onchestus, a grove and sacred place of the Holder
+    of the Earth, and finds an old man grazing his beast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: Hymn IV to Hermes ll. 190-200; within supplied passage
+  quote_or_summary: Apollo tells the old man he has come from Pieria seeking horned
+    cows from his herd; he says the black bull and four hounds were left behind and
+    asks whether the old man saw anyone passing behind the cows.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: Hymn IV to Hermes ll. 201-211; within supplied passage
+  quote_or_summary: The old man replies that many travelers pass by and it is difficult
+    to know each one; he thinks, though not certainly, that he saw a child with a
+    staff driving long-horned cattle backwards.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    require review because several taxonomy assignments generalize from the episode
+    rather than being explicitly named in the passage. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. The supplied locator ends at source line 6341, while the included passage text continues through embedded hymn ll. 201-211; evidence locators therefore prioritize embedded hymn line references where available.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l6249-l6341
+  passage_sha256=81ba0a3ad5e534e2a37a40b0cd6266532314242c96c7e5809ef0a7cdf2a8f33d
+

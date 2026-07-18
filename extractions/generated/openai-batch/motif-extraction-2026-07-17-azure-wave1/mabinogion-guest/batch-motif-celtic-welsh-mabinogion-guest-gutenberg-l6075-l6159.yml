@@ -1,0 +1,589 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l6075-l6159
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF ERBIN / THE DREAM OF RHONABWY
+    / PWYLL PRINCE OF DYVED; lines 6075-6159
+  start: '6075'
+  end: '6159'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Pwyll and his company repeatedly see a mounted lady crossing the same road
+    at the same pace. Two riders cannot overtake her, and Pwyll suspects illusion.
+    On the third day Pwyll himself follows, cannot gain on her, and asks her to stop;
+    she stops immediately. She reveals herself as Rhiannon, daughter of Heveydd Hn,
+    says her chief quest was to seek Pwyll, and explains that others have tried to
+    give her to a husband against her will. Pwyll chooses her, and she asks him to
+    pledge to meet her in one year at Heveydd's palace, where she will prepare a feast.
+    After the year passes, Pwyll goes there with a hundred knights and is joyfully
+    received.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mounted lady appears on consecutive days on the same road, on the same horse,
+    in the same apparel or manner, and at the same pace.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The first rider and a young man each fail to overtake the lady, although her
+    apparent pace does not increase.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Pwyll states that there must be some illusion after the first failed pursuit.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Pwyll prepares his own horse and spurs, pursues the lady, and also cannot
+    come nearer to her by speed.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: When Pwyll asks the maiden to stay for him, she stops and says she would have
+    stopped gladly had he asked sooner.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After stopping, the maiden throws back the part of her headdress that covers
+    her face, looks at Pwyll, and speaks with him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Rhiannon says her chief quest was to seek Pwyll and identifies herself as
+    the daughter of Heveydd Hn.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Rhiannon says others sought to give her to a husband against her will, but
+    she would have no husband because of her love for Pwyll unless he rejected her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Pwyll says that if he could choose among all ladies and damsels, he would
+    choose Rhiannon.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Rhiannon asks Pwyll to pledge to meet her in one year at Heveydd's palace,
+    where she will have a feast prepared, and Pwyll agrees.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After one year, Pwyll equips a hundred knights and goes to Heveydd Hn's palace,
+    where he is received with rejoicing and preparations.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Pwyll
+  description: A lord addressed by his companions; he leads the party to the mound,
+    pursues the lady himself, speaks with Rhiannon, chooses her, promises to meet
+    her, and later travels to Heveydd Hn's palace with a hundred knights.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Rhiannon
+  description: The mounted lady who cannot be overtaken by speed, stops when Pwyll
+    asks, reveals her face, identifies herself as Rhiannon daughter of Heveydd Hn,
+    and says she came seeking Pwyll because of her love for him.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Unnamed first rider
+  description: A rider who takes a swift horse, tries to follow the lady, fails to
+    overtake her, and reports this to Pwyll.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Young man
+  description: A young man ordered by Pwyll to take the swiftest horse he knows and
+    learn who the lady is; he pursues her but cannot come nearer.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Pwyll's page
+  description: The page who tends Pwyll's horse and is ordered to saddle it and bring
+    spurs to the road.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Heveydd Hn
+  description: Named by Rhiannon as her father; his palace is the place appointed
+    for the meeting and feast.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: Pwyll's hosts and household
+  description: The company who go with Pwyll to the mound, witness the appearances
+    of the lady, later ask about the damsel, and include the hundred knights who accompany
+    Pwyll to Heveydd Hn's palace.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: leader of the watching party
+  assigned_to:
+  - fig:1
+  basis: Pwyll directs the party to return to the mound and gives orders to his young
+    men and page.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: pursuer who succeeds by speech rather than speed
+  assigned_to:
+  - fig:1
+  basis: Pwyll cannot overtake the lady by riding faster, but she stops when he asks
+    her to stay.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: chosen beloved and pledged suitor
+  assigned_to:
+  - fig:1
+  basis: Rhiannon says she came seeking him, and Pwyll says he would choose her and
+    agrees to the appointed tryst.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: unreachable mounted lady
+  assigned_to:
+  - fig:2
+  basis: Riders repeatedly fail to overtake her although she appears to keep the same
+    pace.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:5
+  label: questing beloved
+  assigned_to:
+  - fig:2
+  basis: Rhiannon says her chief quest was to seek Pwyll and that she came because
+    of her love for him.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: arranged-marriage refuser
+  assigned_to:
+  - fig:2
+  basis: Rhiannon says others sought to give her to a husband against her will and
+    that she would have no husband unless Pwyll rejected her.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: failed mounted pursuer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both the first rider and the young man pursue the lady and fail to overtake
+    her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:8
+  label: horse attendant
+  assigned_to:
+  - fig:5
+  basis: The page is described as tending Pwyll's horse and is commanded to saddle
+    it and bring spurs.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: father and palace holder
+  assigned_to:
+  - fig:6
+  basis: Rhiannon names Heveydd Hn as her father, and the appointed meeting is at
+    his palace.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:10
+  label: witnessing company and escort
+  assigned_to:
+  - fig:7
+  basis: The hosts accompany Pwyll to the mound and, after a year, a hundred knights
+    go with him to the palace.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+symbols:
+- id: sym:1
+  label: horse and spurs
+  literal_form: Horses and spurs used in repeated attempts to overtake the mounted
+    lady.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: mound
+  literal_form: The mound where Pwyll and his company sit and watch for the lady on
+    successive days.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: same road across the plain
+  literal_form: The road on the open plain along which the lady repeatedly comes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: covered headdress and unveiled face
+  literal_form: The part of Rhiannon's headdress that covers her face, which she throws
+    back before speaking with Pwyll.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: one-year tryst and prepared feast
+  literal_form: The appointed meeting this day twelvemonth at Heveydd's palace, with
+    a feast prepared for Pwyll's coming.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: First failed pursuit and suspicion of illusion
+  summary: A rider follows the mounted lady across the plain but cannot overtake her;
+    Pwyll concludes that some illusion must be involved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second appearance from the mound
+  summary: Pwyll's party returns to the mound, sees the lady again in the same way,
+    and sends a young man on a swift horse; he also cannot come nearer to her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pwyll's pursuit and verbal request
+  summary: On the third day Pwyll has his horse and spurs prepared, follows the lady,
+    fails to gain on her by riding, and asks her to stay; she stops immediately.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Rhiannon's revelation and proposal of pledge
+  summary: The maiden reveals her face, identifies herself as Rhiannon, says she came
+    seeking Pwyll and rejects another marriage, and asks Pwyll to pledge to meet her
+    in one year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Arrival at Heveydd Hn's palace
+  summary: After the appointed year, Pwyll travels with a hundred knights to Heveydd
+    Hn's palace and is received with joy, public concourse, and preparations.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Unreachable mounted maiden stopped by spoken request
+  taxonomy_refs: []
+  basis: Several riders fail to overtake the lady despite swift horses and her unchanged
+    pace, but she stops when Pwyll asks her to stay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage calls the event an illusion only through Pwyll's speech; it
+    does not explicitly explain the mechanism.
+- id: motif:2
+  label: Beloved woman seeks the chosen man
+  taxonomy_refs:
+  - divine_beloved
+  basis: Rhiannon says her chief quest was to seek Pwyll, says she loves him, and
+    refuses another husband unless Pwyll rejects her.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term 'divine_beloved' is only partly supported
+    here; this excerpt does not explicitly call Rhiannon divine.
+- id: motif:3
+  label: Pledge to delayed marriage meeting with feast
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Rhiannon asks Pwyll to pledge to meet her in one year at Heveydd's palace
+    and says she will have a feast prepared; he promises and later arrives with knights.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage supports a marriage-oriented pledge and feast, but it does
+    not explicitly describe a sacred rite.
+- id: motif:4
+  label: Quest initiated by the sought woman
+  taxonomy_refs:
+  - mystical_quest
+  basis: Rhiannon explicitly describes her chief quest as seeking Pwyll, reversing
+    the expected direction of pursuit after Pwyll and his men try to reach her.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The term 'mystical_quest' is approximate; the passage uses the word 'quest'
+    but does not define it as mystical.
+- id: motif:5
+  label: Refusal of unwanted marriage for chosen love
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Rhiannon says others sought to give her to a husband against her will, but
+    she would have no husband because of her love for Pwyll unless he rejected her.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The taxonomy reference is tentative because the passage does not say Rhiannon
+    has been stolen; it only states attempted compulsion toward another husband.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison to the 'divine_beloved'
+    motif family in the limited sense of an extraordinary beloved woman who seeks
+    the hero and initiates a marriage bond.
+  claim_level: same_function
+  target: divine_beloved
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Rhiannon's divinity or otherworldly status is not stated in this excerpt;
+    the comparison rests on function and narrative presentation, not explicit theological
+    identity.
+- id: claim:2
+  claim: The repeated inability to overtake the lady until Pwyll speaks supports comparison
+    to a broader unreachable-beloved or magically distanced encounter pattern.
+  claim_level: same_motif
+  target: unreachable mounted maiden / magically distanced pursuit pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external text is provided for direct comparison, and the passage
+    itself does not name the mechanism behind the failed pursuits.
+- id: claim:3
+  claim: The pledged one-year meeting and prepared feast have the same narrative function
+    as a formal marriage-arrangement pattern associated with the 'sacred_marriage'
+    motif family.
+  claim_level: same_function
+  target: sacred_marriage
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives a pledge, tryst, palace, and feast, but does not
+    explicitly describe a sacred marriage ceremony.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6075-6086
+  quote_or_summary: A first rider follows the lady across an open plain; the more
+    he urges his horse, the farther she is from him, though she keeps the same pace.
+    He reports failure, and Pwyll says there must be some illusion.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6087-6110
+  quote_or_summary: On the next day Pwyll's party sits on the mound and sees the lady
+    on the same horse, in the same apparel, coming along the same road. A young man
+    pursues her but cannot come nearer, although her speed is no greater.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6111-6120
+  quote_or_summary: On the third day Pwyll orders his page to saddle his horse and
+    bring spurs. From the mound they see the lady coming by the same road, in the
+    same manner, and at the same pace.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 6121-6128
+  quote_or_summary: Pwyll follows but cannot gain on her; he says, "O maiden, for
+    the sake of him whom thou best lovest, stay for me." She replies that she will
+    stay gladly and that it would have been better for his horse had he asked sooner.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 6129-6136
+  quote_or_summary: The maiden stops, throws back the part of her headdress covering
+    her face, looks at Pwyll, speaks with him, and he judges her beauty beyond that
+    of all maidens and ladies he has seen.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6137-6146
+  quote_or_summary: Rhiannon says her chief quest was to seek Pwyll, identifies herself
+    as the daughter of Heveydd Hn, and says others sought to give her to a husband
+    against her will, but she loves Pwyll.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6147-6154
+  quote_or_summary: Pwyll says he would choose Rhiannon above all ladies and damsels.
+    She asks him to pledge to meet her this day twelvemonth at Heveydd's palace, where
+    she will prepare a feast, and he agrees.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 6155-6159
+  quote_or_summary: They part; Pwyll deflects questions about the damsel. After a
+    year, he equips a hundred knights and goes to Heveydd Hn's palace, where there
+    is joy, public concourse, rejoicing, and preparations for his coming.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is well supported by the supplied passage. Motif and comparison
+    labels are cautious because the excerpt does not explicitly explain the illusion
+    or state Rhiannon's divine or otherworldly status.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available motif families; no available symbol taxonomy item clearly matched the horse, mound, road, headdress, or feast.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l6075-l6159
+  passage_sha256=a521d17680179dc529faa09fe3fa80a622f77f6e2cd453edbe545fe19b43a589
+

@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4740-l4834
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: HUNTING OF SMALL GAME. / FISHING. / MANUFACTURES. / MAKING LEATHER AND PREPARING
+    SKINS.; lines 4740-4834
+  start: '4740'
+  end: '4834'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Central Eskimo manufacture and skin preparation:
+    animal parts supply materials for implements, clothing, building, boats, and other
+    uses; seal skins are removed, cleaned with specific knives, stretched, dried,
+    and prepared differently depending on whether they will be used for clothing,
+    tents, bags, or other purposes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Many implements are made from animal parts, including skins, bone, walrus
+    tusk, and narwhal horn, because wood is scarce.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seal skins are dressed in different ways depending on intended use.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The seal is skinned with a longitudinal cut across the belly, and skin with
+    blubber is cut away from the flesh.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several knives or cutting tools are named or described, including the saving,
+    pilaut, pana, and ulo.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Women use the ulo to clean and prepare skins.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Women spread a skin over whalebone, a board, or a flat stone, then push the
+    ulo forward to remove blubber and collect it in a tub.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: For hair-on use, the inner membrane is removed, patched, perforated around
+    the edge, and stretched above gravel or snow with long pegs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The skin is washed, rubbed with gravel, snow, or ice, and sewn where holes
+    have been made.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sealskins may be dried on south-facing snow walls in spring or, when needed
+    in winter, over lamps on a pole frame.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Skins dried indoors are described as inferior and suitable for tents, bags,
+    and similar uses, but too hard for clothing.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:11
+  text: Yearling seal skins are said to be used almost exclusively for clothing, especially
+    from mid-May until late summer.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Killed seal carcasses must be protected from strong sun to prevent the skin
+    from spoiling.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Eskimo
+  description: The people whose implements and skin-preparation methods are described.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: women
+  description: Women who clean and prepare skins with the ulo, remove blubber, and
+    handle drying preparation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: seal
+  description: The animal whose skin, blubber, flippers, flesh, and carcass parts
+    are described in the preparation process.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: dogs
+  description: Dogs receive the generally uneaten head, spinal column, and rump bone
+    as food.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: makers and users of animal-derived implements
+  assigned_to:
+  - fig:1
+  basis: The passage states that most implements are made from parts of hunted animals
+    and describes their uses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: skin users and dryers
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Eskimo drying skins outdoors or over lamps and
+    using prepared sealskins for tents, bags, and clothing.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: skin preparers
+  assigned_to:
+  - fig:2
+  basis: Women are specifically described as using the ulo to clean skins, remove
+    blubber, and avoid damaging the skin and membrane.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: source animal for material preparation
+  assigned_to:
+  - fig:3
+  basis: The seal supplies skin and other body parts involved in the described dressing
+    and preparation process.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:5
+  label: recipients of unused carcass parts
+  assigned_to:
+  - fig:4
+  basis: The head, spinal column, and rump bone are generally not eaten by people
+    but are used for dogs' food.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: seal skin
+  literal_form: skin of the seal
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: ulo
+  literal_form: crescent-shaped women's knife used to clean and prepare skins
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: pana
+  literal_form: long knife used to cut skin and blubber from flesh
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: drying pegs
+  literal_form: long pegs holding the skin a few inches above gravel or snow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: lamp drying frame
+  literal_form: four-pole frame with thong-stretched skin placed over lamps or near
+    the hut roof
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: yearling sealskin
+  literal_form: skin of young seals after first shedding, used for summer clothing
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Animal materials used for manufacture
+  summary: The passage introduces the use of animal skins, bone, tusk, and horn for
+    implements, clothing, building, and boat covering because wood is scarce.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seal skinning and carcass division
+  summary: A seal is opened at the belly, the skin and blubber are cut from the flesh,
+    flippers and internal parts are removed, and some remaining parts are set aside
+    for dogs' food.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Women remove blubber from skins
+  summary: Women place a skin on a support, sit before it, push the ulo forward to
+    remove blubber, collect the blubber in a tub, and roll the finished portion of
+    the skin.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Stretching, washing, and drying skins
+  summary: The inner membrane is removed when needed; the skin is patched, stretched
+    with pegs, washed, rubbed with gravel, snow, or ice, sewn, and dried.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Seasonal and indoor drying
+  summary: Selected skins may be dried on south-facing snow walls in spring; when
+    skins are urgently needed in winter, they are stretched on a frame and dried over
+    lamps, though indoor drying is avoided when possible.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Selection of skins for tents, bags, and clothing
+  summary: Prepared sealskins may be used for tents and bags, while yearling seal
+    skins are preferred for clothing during the warmer season and must be protected
+    from sun damage after the animal is killed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Hunted animal transformed into tools, shelter materials, and clothing
+  taxonomy_refs: []
+  basis: The passage repeatedly describes animal bodies, especially seals, as sources
+    of skins, bone, tusk, horn, blubber, and other materials used for implements,
+    clothing, tents, bags, and boat covering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic subsistence and manufacture pattern in the passage,
+    not an explicitly mythic narrative motif.
+- id: motif:2
+  label: Skillful preparation of skin through specialized tools and seasonal drying
+  taxonomy_refs: []
+  basis: The passage details specialized knives, the women's use of the ulo, stretching
+    with pegs or frames, and seasonal drying choices for different end uses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives practical technique rather than symbolic or ritual explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4744-4752
+  quote_or_summary: Most implements are made from parts of hunted animals; skins are
+    used for clothing, building, and boat covering; bone, walrus tusk, and narwhal
+    horn supplement scarce wood.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4754-4771
+  quote_or_summary: Seal skin is dressed according to purpose; the animal is opened
+    at the belly, skin and blubber are cut away with knives such as the saving or
+    pana, flippers and entrails are removed, and remaining head, spine, and rump bone
+    are generally used for dogs' food.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4773-4785
+  quote_or_summary: The women's knife, the ulo, is used to clean and prepare skins;
+    it is crescent-shaped with a central handle, and old examples show bone handles
+    and inserted blades.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4787-4792
+  quote_or_summary: Women place the skin on whalebone, a board, or a flat stone, sit
+    before it, push the ulo forward to remove blubber, put the blubber in a tub, and
+    roll the finished part in the left hand.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4794-4805
+  quote_or_summary: For hair-on skins, the inner membrane is removed, patched, perforated
+    around the edge, stretched with pegs above gravel or snow, washed and rubbed with
+    gravel, snow, or ice, sewn where needed, and dried.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4805-4816
+  quote_or_summary: Choice young sealskins may be dried on south-facing snow walls
+    in spring; if skins are needed in winter, they are stretched on a four-pole frame
+    and dried over lamps or near the roof, though this indoor method is considered
+    inferior and avoided when possible.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4818-4834
+  quote_or_summary: Prepared sealskins are suitable for tents, bags, and similar uses
+    but too hard for clothing; yearling seal skins are preferred for clothing from
+    mid-May into late summer, and carcasses must be protected from strong sun to prevent
+    skin spoilage.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is descriptive and procedural.
+    Motif candidates are treated as practical cultural patterns, not mythic motifs.
+    No comparison claims were made because the passage itself does not support comparative
+    links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family was assigned because the passage contains ethnographic manufacture and skin-preparation practices rather than explicit mythological narrative or ritual symbolism.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4740-l4834
+  passage_sha256=8a01c65b8a9e450556ddbae310a2f811ea8a6ecec07db36dc9e1317ac16b810b
+

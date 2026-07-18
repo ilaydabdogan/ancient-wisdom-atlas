@@ -1,0 +1,539 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l15613-l15705
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 15613-15705
+  start: '15613'
+  end: '15705'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A servant receives from a dwarf a never-missing gun, a fiddle that compels
+    dancing, and a power by which no one can refuse his requests. He uses the gun
+    to shoot a bird desired by a Jewish man, forces the man to dance in thorn-bushes
+    with the fiddle until he offers a purse of gold, is later accused before a judge
+    and sentenced to hang, and secures permission to play the fiddle once more as
+    a last request.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The servant asks for three powers or objects: a gun that hits anything aimed
+    at, a fiddle that compels all hearers to dance, and a favor-request that no one
+    can refuse.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dwarf produces a fiddle and gun from a bush and tells the servant that
+    no one in the world will be able to deny whatever he asks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The servant meets a Jewish man with a long goat’s-beard who is listening to
+    a loud-voiced bird sitting at the top of a tree and wishing to possess it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The servant shoots the bird, which falls into thorn-bushes, and tells the
+    Jewish man to fetch it out himself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the Jewish man is among the thorns, the servant plays the fiddle, causing
+    the man’s legs to move and dance while the thorns tear his coat, pull at his beard,
+    and prick his body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The servant resumes playing after thinking that the man has fleeced people
+    before; the man offers a purse full of gold if the music stops, and the servant
+    takes the purse and leaves.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the servant departs, the Jewish man insults him, goes to the town justice,
+    and complains that he was robbed and ill-treated on the public highway.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The judge’s people find the servant and the purse; the servant says the money
+    was freely given so he would stop playing, but the judge disbelieves him and sentences
+    him to be hanged.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: 'On the execution ladder, the servant asks the judge for one last favor: permission
+    to play the fiddle once more; the judge grants it and is said to be unable to
+    refuse because of the servant’s gift.'
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: servant
+  description: A servant who receives magical gifts, shoots the bird, plays the fiddle,
+    takes the purse, is sentenced to hang, and asks to play the fiddle as a last favor.
+  role_refs:
+  - role:2
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: dwarf
+  description: A wonder-working dwarf who grants the servant’s requested gun, fiddle,
+    and power of irresistible request.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Jewish man
+  description: A man identified in the passage as Jewish, with a long goat’s-beard,
+    who desires the bird, crawls into the thorns, is forced to dance, gives a purse
+    of gold, and later complains to the judge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: bird
+  description: A small bird with a loud song, sitting at the top of a tree, then shot
+    down into the thorn-bushes.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: judge
+  description: The town justice who hears the complaint, orders the servant pursued,
+    sentences him to hang, and grants the last request to play the fiddle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: judge’s people
+  description: People sent out by the judge who find the servant and the purse with
+    money upon him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: hangman
+  description: The execution functionary with whom the servant walks up the ladder.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: magical donor
+  assigned_to:
+  - fig:2
+  basis: The dwarf grants the requested objects and declares the servant’s future
+    requests irresistible.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient and user of magical gifts
+  assigned_to:
+  - fig:1
+  basis: The servant asks for and receives the gun, fiddle, and request-power, then
+    uses the gun and fiddle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: coercive musician
+  assigned_to:
+  - fig:1
+  basis: The servant plays the fiddle while the Jewish man is in the thorns, forcing
+    him to dance and leading to the offer of gold.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: injured complainant
+  assigned_to:
+  - fig:3
+  basis: The Jewish man is pricked and scratched in the thorns, gives the purse, and
+    complains to the judge of robbery and ill-treatment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: legal authority
+  assigned_to:
+  - fig:5
+  basis: The judge hears the complaint, sends people after the servant, sentences
+    him, and grants his final request.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: arresting agents
+  assigned_to:
+  - fig:6
+  basis: The judge sends his people out after the servant, and they find him with
+    the purse.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: condemned person at scaffold
+  assigned_to:
+  - fig:1
+  basis: The servant is sentenced to be hanged and walks up the ladder with the hangman
+    before making a last request.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: execution functionary
+  assigned_to:
+  - fig:7
+  basis: The hangman accompanies the servant up the ladder.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: desired quarry
+  assigned_to:
+  - fig:4
+  basis: The bird is desired by the Jewish man and shot down by the servant.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: never-missing gun
+  literal_form: A gun that hits everything at which the servant aims.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: dance-compelling fiddle
+  literal_form: A fiddle that compels all who hear it to dance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: irresistible request
+  literal_form: A granted power that makes any requested favor impossible to refuse.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:4
+  label: tree with singing bird
+  literal_form: A tree with a bird sitting at its top and singing loudly.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: thorn-bushes
+  literal_form: Thorn-bushes or thicket into which the bird falls and in which the
+    Jewish man is caught, scratched, and torn.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: purse of gold
+  literal_form: A purse full of gold or ducats offered so the servant will stop fiddling.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: execution ladder
+  literal_form: The ladder climbed by the servant with the hangman before the planned
+    hanging.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Granting of three wonders
+  summary: The servant asks the dwarf for an unerring gun, a dance-compelling fiddle,
+    and an irresistible request-power; the dwarf grants them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird in tree and shot into thorns
+  summary: The servant encounters the Jewish man listening to a bird in a tree, shoots
+    the bird, and directs the man to retrieve it from the thorn-bushes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Forced dance in the thorn-bushes
+  summary: While the Jewish man is in the thicket, the servant plays the fiddle, compelling
+    him to dance while the thorns tear and prick him; the man offers gold to stop
+    the music.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Complaint, arrest, and sentence
+  summary: The Jewish man complains to the judge that he has been robbed and injured;
+    the judge’s people find the servant with the purse, and the judge sentences him
+    to hang.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Last request on the execution ladder
+  summary: At the ladder, the servant asks to play his fiddle once more before dying;
+    the judge grants the request and is said to be unable to refuse because of the
+    earlier gift.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: supernatural donor grants three magical advantages
+  taxonomy_refs: []
+  basis: A dwarf grants the servant a perfect gun, a compelling fiddle, and an irresistible
+    request-power.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not include the prior circumstances that led the dwarf
+    to grant the gifts.
+- id: motif:2
+  label: never-missing weapon obtains desired bird
+  taxonomy_refs: []
+  basis: The servant receives a gun that hits whatever he aims at and immediately
+    uses it to shoot the desired bird into the thorn-bushes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: Only one use of the gun is shown in this passage.
+- id: motif:3
+  label: enchanted music compels involuntary dancing
+  taxonomy_refs: []
+  basis: The fiddle is defined as an instrument that compels hearers to dance, and
+    the Jewish man’s legs begin moving when the servant plays.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage later sets up another performance at the scaffold, but the
+    result of that performance lies outside the supplied excerpt.
+- id: motif:4
+  label: forced dance in thorns used to obtain treasure
+  taxonomy_refs: []
+  basis: The servant keeps playing while the Jewish man is caught in the thorns until
+    the man offers a purse full of gold for the music to stop.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The episode is embedded in an antisemitic tale framework; the extraction
+    records plot structure without endorsing the characterization.
+- id: motif:5
+  label: irrefusable last request before execution
+  taxonomy_refs: []
+  basis: Before hanging, the servant asks to play the fiddle once more, and the judge
+    cannot refuse because of the magical gift.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: The passage ends at the granting of the request and does not show the
+    subsequent outcome.
+- id: motif:6
+  label: legal punishment after disputed magical coercion
+  taxonomy_refs: []
+  basis: The Jewish man reports robbery and injury; the servant claims the purse was
+    voluntarily given to stop the fiddling; the judge disbelieves him and orders hanging.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The legal conflict is explicit, but its identification as a broader motif
+    is generic and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15613-15624
+  quote_or_summary: The servant asks the dwarf for a gun that hits anything aimed
+    at, a fiddle that compels dancing, and a favor no one can refuse; the dwarf grants
+    the objects and the request-power.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 15625-15634
+  quote_or_summary: The servant meets a Jewish man with a long goat’s-beard who is
+    listening to a loud bird at the top of a tree and wishing it were his.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 15635-15643
+  quote_or_summary: The servant shoots the bird so that it falls into the thorn-bushes
+    and tells the Jewish man to fetch it himself; the man begins crawling into the
+    thicket.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 15644-15654
+  quote_or_summary: While the Jewish man is caught among the thorns, the servant plays
+    the fiddle; the man is forced to dance while the thorns tear his coat, pull at
+    his beard, and prick him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 15655-15666
+  quote_or_summary: The servant continues playing, thinking the man has fleeced others;
+    the man offers a purse full of gold if the fiddling stops, and the servant takes
+    the purse and goes on.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 15667-15686
+  quote_or_summary: After the servant is out of sight, the Jewish man insults him,
+    goes to the town justice, complains of robbery and injury on the highway, and
+    identifies the offender by a gun and fiddle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 15687-15698
+  quote_or_summary: The judge’s people find the servant with the purse; the servant
+    says the money was given freely to stop the music, but the judge rejects the defense
+    and sentences him to be hanged.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 15699-15705
+  quote_or_summary: As the servant is led up the ladder, he asks the judge to grant
+    one final favor, permission to play the fiddle; despite protests, the judge grants
+    it and cannot refuse because of the servant’s gift.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal plot extraction is straightforward from the supplied passage. Motif
+    labels are candidates and should be reviewed, especially where the passage’s antisemitic
+    tale framework affects characterization. No comparison claims were extracted because
+    the passage does not itself make an explicit comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The source passage contains antisemitic characterization and stereotyping. This record summarizes narrative functions and objects without endorsing those depictions.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l15613-l15705
+  passage_sha256=3b0d70bb54ea18ce5a59cc173cc035ea518cf1f15c66c2ea17e642e5a5ee28d1
+

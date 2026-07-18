@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l15939-l15961
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XIII. / CHAPTER XIV. / CHAPTER XV. / REFERENCES TO THE GENERAL EPISTLE
+    OF BARNABAS.; lines 15939-15961
+  start: '15939'
+  end: '15961'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: This Epistle lays a greater claim to canonical authority than most others.
+  summary: An editorial reference note introduces the General Epistle of Barnabas,
+    describes Barnabas as associated with Paul, summarizes ancient and later views
+    on the epistle's canonical, genuine, or apocryphal status, and then transitions
+    to the Epistle of Ignatius to the Ephesians.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage begins with a heading for references to the General Epistle of
+    Barnabas.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Barnabas is described as a companion and fellow-preacher with Paul.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The epistle is described as having a stronger claim to canonical authority
+    than most other texts in the surrounding collection and as having been cited by
+    several ancient Christian authors and Fathers.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note records differing judgments about whether the epistle was genuine,
+    canonical, or apocryphal.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Dr. Bernard is reported as believing that the epistle was read in the churches
+    of Alexandria as canonical Scriptures were read.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: After the Barnabas reference note, the passage gives the title of the Epistle
+    of Ignatius to the Ephesians.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Barnabas
+  description: Named in the heading for the General Epistle of Barnabas and described
+    as a companion and fellow-preacher with Paul.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Paul
+  description: Named as the person with whom Barnabas was a companion and fellow-preacher.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ignatius
+  description: Named in the following title, 'The Epistle of Ignatius to the Ephesians.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Ephesians
+  description: Named as the addressees or destination in the following epistle title.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: companion and fellow-preacher
+  assigned_to:
+  - fig:1
+  basis: The passage states that Barnabas was a companion and fellow-preacher with
+    Paul.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: eponymous figure of referenced epistle
+  assigned_to:
+  - fig:1
+  basis: The heading identifies the section as references to the General Epistle of
+    Barnabas.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named associate of Barnabas
+  assigned_to:
+  - fig:2
+  basis: Paul is named in the statement describing Barnabas's companionship and preaching
+    association.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named figure in epistle title
+  assigned_to:
+  - fig:3
+  basis: Ignatius is named in the title of the next epistle.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: named recipients or destination
+  assigned_to:
+  - fig:4
+  basis: The title says the epistle is to the Ephesians.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial reference note on the Barnabas epistle
+  summary: The note introduces the General Epistle of Barnabas, states Barnabas's
+    relationship with Paul, and summarizes citations and authenticity judgments concerning
+    the epistle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:2
+  label: Transition to the Ignatius epistle title
+  summary: The passage concludes this excerpt by presenting the title of the Epistle
+    of Ignatius to the Ephesians.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '15939'
+  quote_or_summary: REFERENCES TO THE GENERAL EPISTLE OF BARNABAS.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: 15941-15942
+  quote_or_summary: Barnabas was a companion and fellow-preacher with Paul.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:3
+  type: summary
+  locator: 15942-15945
+  quote_or_summary: The note says the epistle has a greater claim to canonical authority
+    than most others and was cited by Clemens Alexandrinus, Origen, Eusebius, Jerome,
+    and many ancient Fathers.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:4
+  type: summary
+  locator: 15945-15957
+  quote_or_summary: The note records favorable judgments or reports of favorable judgments
+    concerning the epistle from Origen, Jerome, Bishop Fell, Dr. Bernard, Dodwell,
+    Vossius, Dupuis, Dr. Cane, Dr. Mill, Dr. S. Clark, Whitson, and Archbishop Wake.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:5
+  type: summary
+  locator: 15945-15958
+  quote_or_summary: The note also says Cotelerius did not himself believe the epistle
+    genuine or canonical and that Menardus, Archbishop Land, Spanheim, and others
+    deemed it apocryphal.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:6
+  type: quote
+  locator: 15960-15961
+  quote_or_summary: THE EPISTLE OF IGNATIUS TO THE EPHESIANS.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:7
+  type: quote
+  locator: 15951-15954
+  quote_or_summary: it was read throughout in the churches of Alexandria, as the canonical
+    Scriptures were.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an editorial bibliographic note rather than a mythic or narrative
+    episode. No available taxonomy symbols, mythic scenes, candidate motifs, or comparison
+    claims are directly supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No motif or symbol taxonomy refs were assigned because the excerpt only discusses textual authority and reception history.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l15939-l15961
+  passage_sha256=51d1bcf92fd240ccb200604bcbc82b6f3a8af8bdf6e794342a3d34d0b5adabed
+

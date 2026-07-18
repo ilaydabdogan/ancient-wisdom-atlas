@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l1489-l1578
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: POETRY AND MUSIC. / TRIBAL ORGANIZATION. / RELIGION. / CEREMONIES.; lines
+    1489-1578
+  start: '1489'
+  end: '1578'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Navaho ceremonies, especially great healing rites,
+    minor rites for occasions such as planting, travel, war, marriage, and rain, discussion
+    of possible ritual resemblances with Moki traditions, and six major ceremonial
+    elements. It gives a detailed account of bloodless sacrifices in the form of painted
+    reed cigarettes prepared with feathers, tobacco, pollen, and symbolic lighting,
+    then offered to a god in exchange for requested favors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Many Navaho ceremonies are performed by priests; some great rites last nine
+    days, while others last one day or only a few hours.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Learning a great rite well enough to become its hatáli, or chanter-priest,
+    takes many years, and no one is said to know more than one great rite perfectly.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Great ceremonies witnessed by the writer are primarily for healing the sick,
+    but also include prayers to the gods for temporal blessings for the sick person,
+    the shaman, relatives, and the people generally.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sick person for whom a rite is performed pays the expenses, and the ceremony
+    may also become a gathering for witnesses and social enjoyment.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Minor ceremonies are listed for planting, harvesting, building, war, nubility,
+    marriage, travel, rain-bringing, and other occasions.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author reports observed or proposed resemblances between Navaho and Moki
+    cults, while also noting differences in sacred colors and ceremonial circuit.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'Six major elements of the great rites are named: sacrifice, painting, masquerade,
+    dance, prayer, and song.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Navaho sacrifices are described as innocent and bloodless, using items such
+    as tobacco, feathers, beads, and painted cigarettes rather than blood offerings.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A sacrificial cigarette is made from a reed joint, painted with a symbolic
+    device, fitted with feathers, filled with native tobacco, sealed with moistened
+    pollen, symbolically lighted with a rock crystal, prayed over, and left for the
+    intended god.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The god is said to identify the cigarette by its symbolic painting and its
+    place of sacrifice, examine it, and grant the requested favors if it is properly
+    made and intended for him.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Navaho priests / hatáli
+  description: Ritual specialists who learn and conduct great rites; hatáli is glossed
+    as chanter or singer and priest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sick person / invalid
+  description: The person for whose benefit a healing rite is performed and who pays
+    the expenses of the ceremony.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Shaman
+  description: Named among those for whom blessings may be requested during a healing
+    ceremony.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Relations of the sick
+  description: Relatives of the sick person who become hosts during healing ceremonies
+    and are included among recipients of requested blessings.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Navaho gods
+  description: Divine recipients of prayers and sacrifices; described as kindly and
+    easily propitiated.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Chief war god
+  description: A war deity said to ask only for a little painted cigarette in return
+    for favors.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Mokis
+  description: A neighboring group whose cults are said by A. M. Stephen to resemble
+    Navaho cults in many ways, though the author argues for limited direct borrowing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: A. M. Stephen
+  description: An investigator of Moki and Navaho rites and myths who suggested that
+    Navahoes may have borrowed from Mokis.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual specialist
+  assigned_to:
+  - fig:1
+  basis: The passage says a person who learns a great rite may become its hatáli,
+    or chanter-priest, and conduct it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: healing beneficiary
+  assigned_to:
+  - fig:2
+  basis: The rite is performed for the benefit of the invalid.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ceremonial host
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage says the sick man and his relations become hosts during healing
+    ceremonies.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of requested blessings
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Blessings are requested for the sick person, shaman, relatives, and people
+    generally.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: recipient of prayer and sacrifice
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The gods are asked for blessings and receive sacrificial cigarettes.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:6
+  label: bestower of requested favors
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage says the god takes a properly made offering and grants the favors
+    asked.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: comparative neighboring tradition
+  assigned_to:
+  - fig:7
+  basis: The passage compares Navaho and Moki cults and discusses possible borrowing
+    or common sources.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: comparative observer
+  assigned_to:
+  - fig:8
+  basis: Stephen is cited as having studied both Moki and Navaho rites and myths and
+    pointed out resemblances.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacrificial cigarette
+  literal_form: A painted reed cigarette, called ketán, filled with native tobacco
+    and offered to a god.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: tobacco
+  literal_form: Native tobacco placed inside the reed cigarette; gods are described
+    as fond of tobacco.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: feathers
+  literal_form: A wad of feathers inserted in the cigarette to keep tobacco from falling
+    out; feathers are also said to be prized by the gods.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: beads
+  literal_form: Beads are named as prized by the gods in the discussion of bloodless
+    sacrifice.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: pollen seal
+  literal_form: Moistened pollen used to seal the filled cigarette.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: rock crystal
+  literal_form: A rock crystal held up to the sky and touched to the cigarette tip
+    to symbolically light it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: symbolic painting
+  literal_form: A painted symbolic device on the cigarette by which the god recognizes
+    the offering.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Training and conduct of great rites
+  summary: Navaho priests learn great rites over many years; a hatáli may conduct
+    one great rite perfectly, while older priests may assist in other rites without
+    being competent to lead them.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Healing ceremony as communal prayer and gathering
+  summary: A great ceremony is performed for a sick person, paid for by the invalid,
+    and used to request blessings for multiple persons and the community while also
+    creating a large social gathering.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Minor and occasional ceremonies
+  summary: Minor rites are performed for life events and needs including planting,
+    harvesting, building, war, nubility, marriage, travel, and bringing rain during
+    drought.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Comparison of Navaho and Moki ritual origins
+  summary: The passage discusses resemblances between Navaho and Moki cults, possible
+    borrowing, historical intercourse, possible common sources, and differences in
+    sacred colors and ceremonial circuit.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Preparation and offering of sacrificial cigarette
+  summary: A reed is cut, smoothed, painted, fitted with feathers, filled with tobacco,
+    sealed with pollen, symbolically lighted with rock crystal, prayed over, and left
+    for the god, who may accept it and grant favors.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Bloodless offering to deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly identifies Navaho sacrifices as innocent and bloodless
+    and describes tobacco, feathers, beads, and painted cigarettes as offerings to
+    gods.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is ethnographic description rather than a narrative episode.
+- id: motif:2
+  label: Offering exchanged for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The chief war god is said to request a painted cigarette in return for favors,
+    and a god who accepts the properly made cigarette bestows the favors asked.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The exchange is described as ritual practice and belief, not as a mythic
+    plot.
+- id: motif:3
+  label: Healing rite with communal blessing
+  taxonomy_refs: []
+  basis: Great ceremonies are primarily for healing the sick, but the occasion is
+    also used to ask the gods for blessings for the shaman, relatives, and the people
+    in general.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No matching supplied taxonomy family directly names healing ritual; taxonomy_refs
+    left empty.
+- id: motif:4
+  label: Rain-bringing ritual during drought
+  taxonomy_refs: []
+  basis: During an unusually dry season, Navahoes may hire a priest to sing, pray,
+    sacrifice, and conduct a ceremony to bring rain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a general description and no mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports many resemblances between Navaho and Moki cults while
+    also noting important differences in symbolism.
+  claim_level: same_function
+  target: Moki rites and myths / cults
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage does not specify which rite elements resemble each other,
+    and it emphasizes differences in sacred colors and ceremonial circuit.
+- id: claim:2
+  claim: The passage supports historical contact between Navahoes and Mokis as a possible
+    context for ritual influence, including people of Moki descent among Navahoes
+    and long peaceful and warlike intercourse.
+  claim_level: historical_contact
+  target: Navaho-Moki ritual contact
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The author states that direct borrowing from the Mokis may be limited
+    and suggests common sources rather than extensive direct borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1489-1498
+  quote_or_summary: Many ceremonies are practiced by Navaho priests; great rites may
+    last nine days, take many years to learn, and a hatáli is a chanter-priest competent
+    to conduct a rite.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1500-1521
+  quote_or_summary: Great ceremonies witnessed by the writer are primarily healing
+    rites, but prayers for blessings are also made for the sick person, shaman, relatives,
+    and people generally; the sick person pays costs, and the rite becomes a communal
+    gathering.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1523-1532
+  quote_or_summary: Minor ceremonies include rites for planting, harvesting, building,
+    war, nubility, marriage, travel, rain-bringing, and other life occasions; in drought
+    people may pay a priest to sing, pray, sacrifice, and conduct a rain ceremony.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1534-1551
+  quote_or_summary: A. M. Stephen noted resemblances between Moki and Navaho cults
+    and suggested possible borrowing; the author mentions Moki descent and intercourse
+    but argues many rite-myth sources are cliff-dwellers, deserted pueblos, and wild
+    tribes, with major differences in sacred colors and ceremonial circuit.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1553-1562
+  quote_or_summary: The six important elements of worship are named as “Sacrifice,
+    painting, masquerade, dance, prayer, and song.”
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 1564-1573
+  quote_or_summary: Navaho sacrifices are described as innocent and bloodless; gods
+    are propitiated with tobacco, feathers, beads, and painted cigarettes rather than
+    blood, even for the chief war god.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1575-1578 and continuation in supplied passage
+  quote_or_summary: Sacrificial cigarettes are made from reed, smoothed, painted with
+    a symbolic device, fitted with feathers, filled with native tobacco, sealed with
+    moistened pollen, and symbolically lighted with rock crystal held to the sky.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:8
+  type: summary
+  locator: continuation of lines 1575-1578 in supplied passage
+  quote_or_summary: After prayer, the cigarette is left for the intended god, who
+    recognizes it by painting and placement, examines it, accepts it if properly made,
+    and bestows the requested favors.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Ritual actions and objects are explicit. Motif classification is limited
+    because the passage is descriptive ethnography rather than a mythic narrative,
+    and supplied taxonomy has only partial matches.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references assigned only where directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l1489-l1578
+  passage_sha256=0a889857ffdf5d8dd40feda44f94646953ee21c982e2aeb3203dda932dcb8e4f
+

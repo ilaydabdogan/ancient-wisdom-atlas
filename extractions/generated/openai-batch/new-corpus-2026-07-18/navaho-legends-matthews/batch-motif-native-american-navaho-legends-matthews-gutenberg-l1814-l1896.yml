@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l1814-l1896
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: TRIBAL ORGANIZATION. / RELIGION. / CEREMONIES. / THE LEGENDS.; lines 1814-1896
+  start: '1814'
+  end: '1896'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the legends selected for publication, explains the
+    variability of Navajo oral versions, outlines the four-part structure of the Origin
+    Legend, defines rite-myths and their relation to ceremonies, distinguishes priestly
+    from non-priestly tellings, and notes that myths do not explain all ritual symbolism.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'From many myths and legends obtained from Navajos, three are selected for
+    publication: one Origin Legend and two incomplete rite-myths told by men who were
+    not priests of the associated rites.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Navajo legends have many variants and that no two
+    tellers are expected to tell the same tale exactly alike.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Origin Legend is described as belonging to the tribe at large rather than
+    to a special order or priesthood.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hatáli Nez is described as a learned old shaman who omitted an episode about
+    the making of the stars, while Jake the silversmith related a version of that
+    episode.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The Origin Legend is divided into four parts: The Story of the Emergence,
+    Early Events in the Fifth World, The War Gods, and The Growth of the Navaho Nation.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The first part, The Story of the Emergence, ends when the people come out
+    from the fourth world to the surface of the fifth world.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A rite-myth is defined as a myth explaining a ceremony’s work, origin, introduction
+    among the Navajos, or some combination of these.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Navajo ceremonies are described as long and costly, many lasting nine days,
+    and each ceremony has one or more associated myths or legends.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When a rite-myth is told by a priest of the rite, detailed information about
+    the rite, its work, symbolism, and sacrifices is included; when told by a non-priest,
+    esoteric parts are omitted or only briefly mentioned.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: In Version A, a portion of the Origin Legend is used as a rite-myth for the
+    hozóni hatál ceremony and is embellished with prayers, songs, and ceremonial allusions.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage states that associated myths do not explain all the symbolism
+    of rites, leaving a primitive underlying symbolism unexplained.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Navajo tale-tellers
+  description: Oral narrators of Navajo legends whose versions vary while agreeing
+    substantially on important matters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Hatáli Nez
+  description: A learned old shaman associated with a version of the Origin Legend;
+    he is said to have forgotten the episode of how the stars were made.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Jake the silversmith
+  description: A younger and less erudite person who related a version of the star-making
+    episode; his version is designated Version B in the notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Torlino
+  description: An old priest of the hozóni hatál whose version is designated Version
+    A.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Priests of rites
+  description: Ritual specialists who, when telling rite-myths of their own rites,
+    introduce detailed ceremonial material.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Non-priest tellers of rite-myths
+  description: Men who are not priests of the associated rites and whose tellings
+    omit or briefly allude to esoteric ceremonial parts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:7
+  name_or_label: The people in the Origin Legend
+  description: The people who come out from the fourth world to the surface of the
+    fifth world at the close of The Story of the Emergence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: oral narrator
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: The passage discusses tale-tellers and named individuals as sources of versions
+    of the legends or rite-myths.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: shaman
+  assigned_to:
+  - fig:2
+  basis: Hatáli Nez is explicitly called a learned old shaman.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: priest of hozóni hatál
+  assigned_to:
+  - fig:4
+  basis: Torlino is described as a priest of the hozóni hatál.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual specialist narrator
+  assigned_to:
+  - fig:5
+  basis: Priests of rites are said to include rite work, symbolism, and sacrifices
+    when narrating their associated rite-myths.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: emergent people
+  assigned_to:
+  - fig:7
+  basis: The Origin Legend episode describes the people coming out from the fourth
+    world to the fifth world.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fourth and fifth worlds
+  literal_form: the fourth world and the surface of this, the fifth world
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: stars
+  literal_form: an episode explaining how the stars were made
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: prayers and songs
+  literal_form: prayers and songs added to Version A of the Origin Legend when used
+    as a rite-myth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: nine-day ceremonies
+  literal_form: ceremonies of nine days' duration
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Selection and versioning of legends
+  summary: The author selects three Navajo legends for publication and explains that
+    the Origin Legend and rite-myths exist in multiple or partial versions told by
+    different narrators.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Outline of the Origin Legend
+  summary: The Origin Legend is presented as a four-part narrative whose first part
+    ends with the people emerging from the fourth world into the fifth world.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Rite-myth and ceremony
+  summary: The passage defines rite-myths as explanations of ceremonies, notes that
+    Navajo ceremonies have associated myths, and distinguishes detailed priestly tellings
+    from abbreviated non-priestly tellings.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Origin Legend as rite-myth in Version A
+  summary: Version A uses part of the Origin Legend as a rite-myth for hozóni hatál,
+    adding prayers, songs, and ceremonial references, while the passage notes that
+    ritual symbolism is only partly explained by myths.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: emergence from an earlier world into the present world
+  taxonomy_refs:
+  - ascent
+  basis: The Story of the Emergence ends when the people come out from the fourth
+    world to the surface of the fifth world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the outline of the episode is given here; details of the emergence
+    narrative are not included in this passage.
+- id: motif:2
+  label: myth as explanation or charter for ceremony
+  taxonomy_refs: []
+  basis: A rite-myth is defined as accounting for the work, origin, or introduction
+    of a ceremony among the Navajos.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a general definition rather than a full narrative example.
+- id: motif:3
+  label: restricted or esoteric ritual knowledge in narration
+  taxonomy_refs: []
+  basis: Priestly narrations include detailed rite work, symbolism, and sacrifices,
+    while non-priestly narrations omit or briefly mention esoteric parts.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage describes narrative practice and transmission; it does not
+    provide the omitted esoteric content.
+- id: motif:4
+  label: ritual songs and prayers embedded in mythic narrative
+  taxonomy_refs: []
+  basis: Version A of the Origin Legend is embellished with prayers and songs when
+    used as a rite-myth for hozóni hatál.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The actual prayers and songs are not quoted or described in detail in
+    this passage.
+- id: motif:5
+  label: creation of the stars
+  taxonomy_refs: []
+  basis: The passage mentions an episode explaining how the stars were made, omitted
+    by Hatáli Nez but told by Jake and others.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The episode is only referenced as a remembered or omitted component; no
+    narrative content is provided here.
+- id: motif:6
+  label: unexplained underlying ritual symbolism
+  taxonomy_refs: []
+  basis: The passage states that associated myths never explain all ritual symbolism
+    and that a primitive underlying symbolism remains unexplained.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is an ethnographic claim about ritual-symbolic structure rather than
+    a discrete myth episode.
+comparison_claims:
+- id: claim:1
+  claim: The Origin Legend appears in multiple Navajo versions that differ in episodes
+    and detail but agree substantially in important matters.
+  claim_level: same_motif
+  target: Other Navajo versions of the Origin Legend, including Version A and Version
+    B
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide the full variant texts or detailed episode-by-episode
+    comparison.
+- id: claim:2
+  claim: A portion of the Origin Legend can function as a rite-myth in Version A for
+    the hozóni hatál ceremony.
+  claim_level: same_function
+  target: hozóni hatál rite-myth tradition
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not identify the exact portion used or provide its
+    full ceremonial form.
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§112"
+  quote_or_summary: 'Three texts are selected from many Navajo myths and legends:
+    the Origin Legend and two incomplete rite-myths told by non-priests of the associated
+    rites.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: "§113"
+  quote_or_summary: Navajo legends are said to have many variants; the Origin Legend
+    belongs to the tribe at large; named narrators and versions include Hatáli Nez,
+    Jake the silversmith as Version B, and Torlino as Version A.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: "§114"
+  quote_or_summary: The Origin Legend has four parts, beginning with The Story of
+    the Emergence, which ends when the people come out from the fourth world to the
+    surface of the fifth world.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: "§115"
+  quote_or_summary: A rite-myth explains a ceremony’s work, origin, or introduction
+    among the Navajos; many ceremonies last nine days and have associated myths or
+    legends.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: "§116"
+  quote_or_summary: Priests of a rite include detailed rite work, symbolism, and sacrifices
+    in its myth, while non-priests omit or briefly mention esoteric parts.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: "§117"
+  quote_or_summary: In Version A, a portion of the Origin Legend is used as a rite-myth
+    for hozóni hatál and is embellished with prayers, songs, and ceremonial allusions.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: "§118"
+  quote_or_summary: Associated myths are said not to explain all ritual symbolism;
+    an underlying symbolism remains partly unexplained even by early legends.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly ethnographic and editorial rather than narrative. Structural
+    and ritual-transmission patterns are clear, but several motif candidates are necessarily
+    broad because detailed myth episodes are not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only where the text explicitly supports an emergence/ascent pattern.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l1814-l1896
+  passage_sha256=bc502f9b99e2cb092e949d56b6e643d932cff90230bf059631e107b45c17bdc2
+

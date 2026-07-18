@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l417-l501
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: A. H. LEAHY / IN TWO VOLUMES / VOL. I / PREFACE; lines 417-501
+  start: '417'
+  end: '501'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The preface explains the editorial arrangement of the two-volume collection,
+    especially the treatment of several Irish Táin or cattle-foray texts, their relation
+    as fore-tales to the Cualnge war cycle, the use of verse renderings with literal
+    prose translations, the manuscript authorities for the romances, the printed and
+    manuscript sources used, and scholarly assistance received for difficult translations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first volume is described as preserving the Irish form and matter as closely
+    as possible, while the second volume, called "Versified Romances," diverges from
+    Irish form but not from its sense.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The second volume includes five Táin or cattle-foray texts: Fraech, Dartaid,
+    Regamon, Flidais, and Regamna.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Táin texts of Dartaid, Regamon, Flidais, and Regamna are described as
+    short prose pieces, rapid in action and crowded with incident.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The last four Táin texts are expressly named as fore-tales, remscela, or preludes
+    to the story of the great war of Cualnge, which is described as the central event
+    in the Ulster heroic cycle.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says such rapid prose pieces are represented in English by the
+    narrative ballad and are rendered in that way, with literal prose translations
+    on the opposite page.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Táin bó Fraích is also described, with qualification, as a fore-tale to
+    the Great Raid; it has two parts, with the second resembling the other fore-tales
+    and the first described as more elaborate and poetic.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The second volume includes a transcript of an unpublished part of the Irish
+    text of the tale of Etain, with an interlinear literal translation.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The manuscript authorities named include the Leabhar na h-Uidhri, the Book
+    of Leinster, the Yellow Book of Lecan, and Egerton 1782, dated in the passage
+    from the eleventh to fifteenth centuries.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage summarizes printed and manuscript sources used for the translations,
+    including Windisch's Irische Texte, work by O'Beirne Crowe and O'Curry, Whitley
+    Stokes's literal translation, and a Royal Irish Academy facsimile.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The author acknowledges corrections and translation help from Professor Kuno
+    Meyer, Mr. E. J. Quiggin, and Professor Strachan.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Fore-tale or prelude to a central heroic war
+  taxonomy_refs: []
+  basis: The passage explicitly identifies four Táin texts as fore-tales, remscela,
+    or preludes to the great war of Cualnge, and also describes Táin bó Fraích as
+    in a qualified sense a fore-tale to the Great Raid.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is an editorial and genre-function statement in a preface rather
+    than a narrated mythic episode. No specific narrative action from the fore-tales
+    is summarized here.
+- id: motif:2
+  label: Cattle-foray tale grouping
+  taxonomy_refs: []
+  basis: The passage identifies five texts as Táin or cattle-forays and lists their
+    names.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Only the title category is given; the passage does not describe cattle,
+    raiding action, or mythic symbolism within the tales.
+comparison_claims:
+- id: claim:1
+  claim: The passage groups the Táin texts of Dartaid, Regamon, Flidais, and Regamna,
+    and more cautiously Táin bó Fraích, by a shared function as fore-tales or preludes
+    to the Cualnge war/Raid within the Ulster heroic cycle.
+  claim_level: same_function
+  target: Ulster heroic cycle fore-tales or preludes to the great war of Cualnge /
+    Great Raid
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The comparison is based on Leahy's prefatory classification. The passage
+    also notes that Táin bó Fraích differs in character from the other fore-tales.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 417-421
+  quote_or_summary: The first volume is said to be close to Irish form and matter;
+    the second, "Versified Romances," diverges from Irish form but not sense.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 421-426
+  quote_or_summary: The second volume includes the five Táin or cattle-forays of Fraech,
+    Dartaid, Regamon, Flidais, and Regamna; the last four are short, rapid prose pieces
+    crowded with incident.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 426-429
+  quote_or_summary: '"They are all expressly named as ''fore-tales,'' remscela, or
+    preludes to the story of the great war of Cualnge"; that war is called the central
+    event in the Ulster heroic cycle.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 429-436
+  quote_or_summary: The rapid prose pieces are said to be difficult to reproduce in
+    English prose, so they are represented as narrative ballads with literal prose
+    translations printed opposite.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 436-444
+  quote_or_summary: Táin bó Fraích is described as in a sense a fore-tale to the Great
+    Raid, but different from the others; it has two parts, the second like the other
+    fore-tales and the first more descriptive and poetic.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 444-450
+  quote_or_summary: The passage describes note placement and says the second volume
+    includes a transcript of an unpublished part of the Irish Etain text with interlinear
+    literal translation.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 451-461
+  quote_or_summary: The manuscript authorities are described as old and include Leabhar
+    na h-Uidhri, Book of Leinster, Yellow Book of Lecan, and Egerton 1782.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 461-479
+  quote_or_summary: 'The passage lists translation sources: Windisch''s Irische Texte,
+    O''Beirne Crowe, O''Curry, Whitley Stokes, and a Royal Irish Academy manuscript
+    facsimile.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 480-501
+  quote_or_summary: The author acknowledges corrections and help from Professor Kuno
+    Meyer, Mr. E. J. Quiggin, and Professor Strachan, especially for Táin bó Fraích,
+    Combat at the Ford, and the two Etain versions.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a preface about edition, translation, and manuscript sources.
+    It supports genre-pattern extraction around fore-tales/preludes, but it contains
+    little direct mythic narrative or symbolic material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family or symbol references were assigned, because the passage does not provide enough narrative or symbolic detail to support them.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l417-l501
+  passage_sha256=7de172eba9564937619f60cc3e5b9ff8d4cc7adcdd868fdcf27177583b91d6b0
+

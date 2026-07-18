@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l7677-l7749
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: MYTH OF THE HILU / THE HOU, OR SNORING FISH / THE END / GLOSSARY OF HAWAIIAN
+    WORDS; lines 7677-7749
+  start: '7677'
+  end: '7749'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A glossary segment defines Hawaiian words for plants, animals, house posts,
+    cooking, kapu signs, burial structures, named waters and places, canoe terms,
+    fish, birds, trees, rain, and a proverb-like line about Menehune voices startling
+    birds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage defines multiple plant terms, including popolo as a scarcity food
+    and medicine, puhala as the hala tree, uki as a thatching plant or grass, waoke
+    as banana, and wiliwili as a tree.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The passage defines several animal terms, including puaa as hog, puhi as eel
+    or sea snake, uhu and uku as fish, and uwau as a bird or waterfowl.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: The passage defines house-post terms, including pouhana as an end post and
+    poumanu or pou o manu as a corner post.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:4
+  text: The passage defines puloulou as a sign of kapu.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:5
+  text: The passage defines puoa as a burial tower.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:6
+  text: The passage defines Reinga as the leaping place.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:7
+  text: The passage defines Ua as rain and Wai a Hiku as water of Hiku.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:8
+  text: The passage defines Ulu kapu a Kane as the breadfruit tabooed for Kane.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:9
+  text: The passage defines Wai nao as the spittle of the gods.
+  category: relationship
+  evidence_refs:
+  - ev:12
+- id: obs:10
+  text: The passage translates a line in which the hum of Menehune voices at Puukapele,
+    Kauai, startled birds at the pond of Kawainui, Koolaupoko, Oahu.
+  category: speech
+  evidence_refs:
+  - ev:13
+- id: obs:11
+  text: The passage defines waa as canoe.
+  category: object
+  evidence_refs:
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Kane
+  description: Named in the glossary phrase translated as the breadfruit tabooed for
+    Kane.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:11
+- id: fig:2
+  name_or_label: gods
+  description: A divine group named in the glossary phrase translated as the spittle
+    of the gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:12
+- id: fig:3
+  name_or_label: Menehunes
+  description: A group whose voices are said to hum at Puukapele, Kauai, in the translated
+    line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:13
+- id: fig:4
+  name_or_label: Hiku
+  description: Named in the glossary phrase translated as water of Hiku.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: recipient or owner associated with tabooed breadfruit
+  assigned_to:
+  - fig:1
+  basis: The phrase Ulu kapu a Kane is glossed as breadfruit tabooed for Kane.
+  evidence_refs:
+  - ev:11
+- id: role:2
+  label: divine group associated with Wai nao
+  assigned_to:
+  - fig:2
+  basis: Wai nao is glossed as the spittle of the gods.
+  evidence_refs:
+  - ev:12
+- id: role:3
+  label: voices causing birds to be startled
+  assigned_to:
+  - fig:3
+  basis: The translated line states that the hum of Menehune voices startled birds.
+  evidence_refs:
+  - ev:13
+- id: role:4
+  label: named figure associated with water
+  assigned_to:
+  - fig:4
+  basis: Wai a Hiku is glossed as water of Hiku.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: tree terms
+  literal_form: hala tree; wiliwili tree; breadfruit tabooed for Kane
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+- id: sym:2
+  label: water terms
+  literal_form: Wai a Hiku; Wai nao; rain
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+  - ev:12
+- id: sym:3
+  label: sea snake or eel
+  literal_form: puhi, eel, sea snake
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: kapu sign
+  literal_form: puloulou, sign of kapu
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: burial tower
+  literal_form: puoa, a burial tower
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: canoe
+  literal_form: waa, canoe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+- id: sym:7
+  label: leaping place
+  literal_form: Reinga, the leaping place
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Glossary definitions
+  summary: The passage lists Hawaiian terms and English glosses for plants, animals,
+    structures, ritual signs, named waters and places, a canoe, and a translated line
+    involving Menehune voices and startled birds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7677-7678
+  quote_or_summary: '"popolo, a plant sometimes eaten in times of scarcity, also used
+    as a medicine."'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 7689, 7726
+  quote_or_summary: '"puhala, the hala tree"; "waoke, banana"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 7748-7749
+  quote_or_summary: '"wiliwili tree, Erythrina monosperma"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 7687, 7712, 7716, 7724
+  quote_or_summary: The glossary defines puaa as hog, uhu and uku as species of fish,
+    and uwau as a species of bird or waterfowl.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 7691
+  quote_or_summary: '"puhi, eel, sea snake."'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 7681-7685
+  quote_or_summary: The glossary defines pouhana as an end post and poumanu / pou
+    o manu as corner posts of a house.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 7696
+  quote_or_summary: '"puloulou, sign of kapu"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:8
+  type: quote
+  locator: line 7700
+  quote_or_summary: '"puoa, a burial tower"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: quote
+  locator: line 7702
+  quote_or_summary: '"Reinga, the leaping place"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:10
+  type: summary
+  locator: lines 7706, 7722
+  quote_or_summary: The glossary defines Ua as rain and Wai a Hiku as water of Hiku.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: line 7718
+  quote_or_summary: '"Ulu kapu a Kane, the breadfruit tabooed for Kane"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:12
+  type: quote
+  locator: line 7728
+  quote_or_summary: '"Wai nao, the spittle of the gods"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:13
+  type: summary
+  locator: lines 7730-7736
+  quote_or_summary: A translated line says the hum of Menehune voices at Puukapele,
+    Kauai, startled birds at the pond of Kawainui, Koolaupoko, Oahu.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:14
+  type: quote
+  locator: line 7720
+  quote_or_summary: '"waa, canoe"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a glossary rather than a narrative episode, so extraction
+    is limited to literal terms, named figures, and symbols. No motif candidates or
+    comparison claims were extracted because the provided text does not itself develop
+    a mythic plot pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available symbol refs directly supported by literal glossary entries.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l7677-l7749
+  passage_sha256=42403208a325ac7c3912c76cda0a72bdbaaaf40b9221e92871599e87f1fce135
+

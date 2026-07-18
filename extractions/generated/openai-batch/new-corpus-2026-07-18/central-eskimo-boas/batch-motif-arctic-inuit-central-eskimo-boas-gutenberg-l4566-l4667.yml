@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4566-l4667
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: LIST OF THE CENTRAL ESKIMO TRIBES. / SEAL, WALRUS, AND WHALE HUNTING. / DEER,
+    MUSK OX, AND BEAR HUNTING. / HUNTING OF SMALL GAME.; lines 4566-4667
+  start: '4566'
+  end: '4667'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Central Eskimo methods for hunting or trapping wolves,
+    foxes, hares, ermines, lemmings, waterfowl, gulls, partridges, ducks, swans, geese,
+    and one goose species called kango. The techniques include snow and ice pit traps,
+    baited knives, whalebone devices, snares, nooses, snow houses, kayaks, and stone
+    enclosures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wolves are pursued when they become troublesome around winter villages, where
+    they attack store rooms or dogs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wolf pit trap is dug in snow, covered with a snow slab bearing bait, and
+    surrounded by a wall that forces the wolf to leap and break through the roof into
+    the narrow pit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One wolf-killing method uses a blood-smeared knife edge protruding from snow;
+    another uses a coiled whalebone strip wrapped in blubber or meat that opens inside
+    the wolf after the sinews dissolve.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A described ice-house trap has a sliding ice door held by a line attached
+    to bait; when the animal pulls the bait, the door falls and closes the trap.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Foxes are caught in an ice house with a roof hole, blood sprinkled near the
+    hole, and bait on the floor, so that the fox jumps in and cannot escape.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Other fox traps include a falling ice slab and a lime-kiln-shaped trap in
+    which a bending whalebone lets foxes drop into confinement.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Hares are killed with small shot or arrows, and hares, ermines, and lemmings
+    are caught with whalebone snares.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Waterfowl are caught with whalebone nooses set along lake edges, across shallow
+    water, or on nests; ducks, swans, and geese are included among the birds taken
+    this way.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Gulls are caught from a flat snow house by placing bait on a thin translucent
+    roof block and pulling the bird through the roof when it lands.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: During molting season, partridges can be caught by hand, while waterfowl are
+    pursued by kayak, repeatedly frightened into diving, and eventually drowned.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Kango geese are driven toward a circular stone wall with one entrance, follow
+    one leading man inside, and are then shut in and slaughtered; on water they may
+    be encircled by kayaks and driven shoreward first.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Eskimo hunters
+  description: People described as building traps, lying in ambush, driving birds,
+    pursuing waterfowl with kayaks, and killing or catching small game.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Wolves
+  description: Animals that linger near winter villages, prey upon stores or dogs,
+    and are trapped or killed by several methods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Foxes
+  description: Animals usually caught in traps, including ice-house traps, falling-slab
+    traps, and whalebone prison traps.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Hares, ermines, and lemmings
+  description: Small land animals killed or caught with shot, arrows, or whalebone
+    snares.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Waterfowl, ducks, swans, and geese
+  description: Birds caught in whalebone nooses near lakes, shallow water, nests,
+    or egg islands.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Gulls
+  description: Birds caught by a hunter hidden inside a flat snow house with bait
+    on a thin roof block.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Partridges and other migrating birds
+  description: Birds killed with arrows, small shot, sticks, or caught by hand during
+    molting season.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:8
+  name_or_label: Kango geese
+  description: A goose species frequenting lakes, driven into a circular stone wall
+    or toward shore by kayaks.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: hunters and trap-builders
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes Eskimo people constructing traps, setting
+    snares, using kayaks, driving flocks, and killing captured animals.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:10
+  - ev:11
+- id: role:2
+  label: predatory village raiders and hunted targets
+  assigned_to:
+  - fig:2
+  basis: Wolves are described as attacking stores and dogs near villages and then
+    being trapped or killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: trap-caught animals
+  assigned_to:
+  - fig:3
+  basis: Foxes are said to be usually caught in traps of several described designs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: small land-game targets
+  assigned_to:
+  - fig:4
+  basis: Hares, ermines, and lemmings are presented as animals killed or snared by
+    hunters.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: bird and waterfowl targets
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage lists several bird types captured or killed by nooses, snow-house
+    baiting, sticks, hand capture, arrows, shot, kayaks, or stone enclosures.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:6
+  label: flock driven into enclosure
+  assigned_to:
+  - fig:8
+  basis: Kango geese are described as following a leading man into a circular stone
+    wall, after which the entrance is shut.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: bait
+  literal_form: Blood, blubber, meat, or other bait placed on or inside traps to attract
+    animals.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: snow or ice trap structure
+  literal_form: Snow pit, ice house, falling ice slab, or flat snow house used to
+    confine or capture animals and birds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: sym:3
+  label: whalebone implement
+  literal_form: Coiled whalebone strip, bending whalebone piece, whalebone snare,
+    whalebone noose, or whalebone line used in traps and snares.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: stone enclosure
+  literal_form: Circular wall of stones with a single entrance used to confine kango
+    geese.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:5
+  label: water and lakes
+  literal_form: Lake edges, shallow lakes, and open water where waterfowl are snared,
+    pursued, or driven toward shore.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: Wolf threats and wolf traps
+  summary: Wolves troubling a winter village are trapped or killed with snow pits,
+    blood-smeared knives, coiled whalebone devices, ambushes, and an ice-house trap
+    with a falling door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fox trapping
+  summary: Foxes are caught in ice-house traps with roof holes, falling ice slabs,
+    and a whalebone mechanism that drops them into confinement.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Hares, ermines, and lemmings
+  summary: Small land animals are killed with shot or arrows or captured in whalebone
+    snares.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Waterfowl noosing and bird hunting
+  summary: Waterfowl are caught with whalebone nooses along lake edges, across shallow
+    water, and on nests; migrating birds are also killed with sticks in valleys.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Gull capture from a snow house
+  summary: A hunter hides inside a flat snow house, places bait on a thin translucent
+    roof block, and pulls down a gull that lands to feed.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Molting-season and kango goose hunts
+  summary: Molting birds are caught by hand or pursued from kayaks, and kango geese
+    are driven by people or kayaks into a stone enclosure or toward shore.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: baited concealed trap
+  taxonomy_refs: []
+  basis: Multiple hunting techniques use bait to draw an animal onto or into a hidden
+    trap mechanism, including snow pits, ice houses, sliding doors, fox traps, and
+    the gull snow-house method.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: This is an ethnographic hunting pattern rather than a mythological motif;
+    no supplied motif-family taxonomy reference clearly applies.
+- id: motif:2
+  label: hidden weapon or spring inside food
+  taxonomy_refs: []
+  basis: A wolf is killed by licking a blood-smeared knife hidden in snow or by swallowing
+    blubber or meat wrapped around a coiled whalebone device that later opens internally.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a practical trapping pattern in the passage, not a narrative or
+    cosmological motif.
+- id: motif:3
+  label: animals driven into enclosure
+  taxonomy_refs: []
+  basis: Kango geese are driven toward a one-entrance stone wall, led inside, shut
+    in, and slaughtered; birds encountered on water are encircled by kayaks and driven
+    shoreward first.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The passage presents this as a hunting method; no available mythic motif-family
+    taxonomy reference is supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4566-4583
+  quote_or_summary: Wolves troubling winter villages may be trapped by a snow pit
+    covered with a baited slab; a wall makes the wolf leap, break through the roof,
+    and become trapped and killed.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4585-4596
+  quote_or_summary: A blood-smeared knife edge protruding from snow cuts wolves' tongues;
+    another method has a wolf swallow blubber or meat wrapped around a coiled whalebone
+    strip that opens after sinews dissolve.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4597-4610
+  quote_or_summary: Parry describes a small ice house trap with an ice door held up
+    by a line; pulling the bait releases the line and closes the door.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4612-4621
+  quote_or_summary: Foxes are caught in a six-foot ice house with a roof hole, blood
+    near the hole, and bait on the floor; another trap uses a slab of ice that falls
+    when the fox touches the bait.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4623-4634
+  quote_or_summary: Lyon describes a fox trap shaped like a small lime kiln; foxes
+    reach bait by crossing whalebone, which bends under their weight and lets them
+    fall into prison.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4636-4637
+  quote_or_summary: Hares are killed with small shot or arrows or caught in whalebone
+    snares, as are ermines and lemmings.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 4639-4647
+  quote_or_summary: Waterfowl are caught in whalebone nooses on lines along lake edges,
+    across shallow lakes, or on nests; ducks, swans, and geese are taken in this way.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4649-4651
+  quote_or_summary: Large migrating flocks of ducks and other birds pass through valleys
+    in fall and spring and can be killed with sticks.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 4653-4658
+  quote_or_summary: A gull-catching method uses a flat snow house with a thin translucent
+    roof block; a hidden hunter places bait on the block and pulls down the bird when
+    it lands.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 4660-4664
+  quote_or_summary: During molting season, partridges can be caught by hand, while
+    waterfowl are chased with kayaks until repeated diving eventually drowns them.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 4664-4667
+  quote_or_summary: Kango geese are driven into a circular stone wall with one entrance,
+    following one man inside; on water they may first be encircled by kayaks and driven
+    toward shore.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Candidate motifs are treated as practical
+    hunting patterns only, since the passage is ethnographic rather than mythological
+    and none of the supplied motif-family references clearly apply. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological narrative figures or comparative claims were inferred beyond the hunting methods explicitly described in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4566-l4667
+  passage_sha256=6d77c42a69233cb6e8a668b04c61f81a72feaa4d8d7a18057ecc8fe6541ddd85
+

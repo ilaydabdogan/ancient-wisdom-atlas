@@ -1,0 +1,463 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l709-l731
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Footnotes / Chapter 11 / Footnotes / Chapter 12; lines 709-731
+  start: '709'
+  end: '731'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes a rule about distinguishing clean from unclean living
+    things, then gives Yahweh’s instructions through Moses for childbirth-related
+    impurity, eighth-day circumcision of a male child, periods of purification, restrictions
+    from holy things and sanctuary access, and offerings brought to the priest for
+    atonement and cleansing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A distinction is made between unclean and clean, and between living things
+    that may or may not be eaten.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yahweh speaks to Moses and instructs him to address the children of Israel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A woman who conceives and bears a male child is unclean for seven days, like
+    the days of her monthly period.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On the eighth day, the flesh of the male child’s foreskin is to be circumcised.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After bearing a male child, the woman continues in the blood of purification
+    for thirty-three days and must not touch holy things or enter the sanctuary until
+    purification is completed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If the woman bears a female child, she is unclean for two weeks and continues
+    in the blood of purification for sixty-six days.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When purification days are completed for a son or daughter, the woman brings
+    offerings to the priest at the door of the Tent of Meeting.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The prescribed offerings are a year-old lamb for a burnt offering and a young
+    pigeon or turtledove for a sin offering.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The priest offers the items before Yahweh, makes atonement for the woman,
+    and she is cleansed from the fountain of her blood.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: If the woman cannot afford a lamb, she may bring two turtledoves or two young
+    pigeons, one for a burnt offering and one for a sin offering.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Speaker who gives instructions to Moses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Moses
+  description: Recipient of Yahweh’s speech and intermediary instructed to speak to
+    the children of Israel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: children of Israel
+  description: Community addressed by the instructions through Moses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: woman who conceives and bears
+  description: Woman subject to childbirth impurity, purification periods, and offering
+    requirements after bearing a male or female child.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: male child
+  description: Child whose birth brings seven days of maternal impurity and whose
+    foreskin is to be circumcised on the eighth day.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: female child
+  description: Child whose birth brings two weeks of maternal impurity and sixty-six
+    days in the blood of purification.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: priest
+  description: Ritual officiant at the door of the Tent of Meeting who offers the
+    sacrifices, makes atonement, and declares or effects cleansing.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: divine lawgiver
+  assigned_to:
+  - fig:1
+  basis: Yahweh speaks the instructions to Moses.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mediator of instruction
+  assigned_to:
+  - fig:2
+  basis: Moses receives Yahweh’s words and is told to speak them to the children of
+    Israel.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: addressed community
+  assigned_to:
+  - fig:3
+  basis: The children of Israel are the addressees of the childbirth purification
+    law.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: postpartum purification subject
+  assigned_to:
+  - fig:4
+  basis: The woman bears a child, undergoes specified impurity and purification periods,
+    and brings offerings when purification is complete.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: newborn child
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage distinguishes procedures according to whether the woman bears
+    a male or female child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:6
+  label: ritual officiant
+  assigned_to:
+  - fig:7
+  basis: The priest receives the offerings, offers them before Yahweh, and makes atonement
+    for the woman.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: clean and unclean distinction
+  literal_form: distinction between unclean and clean living things and edible or
+    non-edible living things
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood of purification
+  literal_form: blood of purification; fountain of her blood
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: eighth-day circumcision
+  literal_form: circumcision of the flesh of the male child’s foreskin on the eighth
+    day
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: holy boundary
+  literal_form: holy thing and sanctuary from which the woman is restricted until
+    purification is complete
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: animal offerings
+  literal_form: year-old lamb, young pigeon, turtledove, or two birds used for burnt
+    and sin offerings
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:6
+  label: Tent of Meeting threshold
+  literal_form: door of the Tent of Meeting
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Classification boundary for clean and unclean living things
+  summary: The passage states a rule of distinction between clean and unclean, and
+    between living things permitted or not permitted as food.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Yahweh instructs Moses
+  summary: Yahweh speaks to Moses and tells him to give instructions to the children
+    of Israel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Birth of a male child and purification sequence
+  summary: A woman who bears a male child is unclean for seven days; the male child
+    is circumcised on the eighth day; the woman then continues in purification for
+    thirty-three days and avoids holy things and the sanctuary until purification
+    is complete.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Birth of a female child and purification sequence
+  summary: A woman who bears a female child is unclean for two weeks and continues
+    in the blood of purification for sixty-six days.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Completion of purification through offerings
+  summary: After the days of purification, the woman brings prescribed offerings to
+    the priest at the door of the Tent of Meeting; the priest offers them before Yahweh,
+    makes atonement for her, and she is clean. A lower-cost bird offering is allowed
+    if she cannot afford a lamb.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: purity boundary between clean and unclean
+  taxonomy_refs: []
+  basis: The passage explicitly frames distinctions between clean and unclean and
+    between permitted and prohibited living things.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal-purity pattern in the passage; broader symbolic interpretation
+    is not supplied by the text.
+- id: motif:2
+  label: postpartum impurity and purification period
+  taxonomy_refs: []
+  basis: The passage gives timed impurity and purification periods after childbirth,
+    differing for male and female children.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives ritual durations and restrictions but does not narrate
+    a mythic birth episode.
+- id: motif:3
+  label: circumcision on the eighth day
+  taxonomy_refs: []
+  basis: The passage commands circumcision of the male child’s foreskin on the eighth
+    day.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No covenant explanation is included in this passage segment, so a covenant
+    taxonomy link is not assigned.
+- id: motif:4
+  label: atonement and cleansing through animal offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The woman brings animal offerings; the priest offers them before Yahweh,
+    makes atonement, and she is clean.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage is ritual instruction, not a narrative sacrifice scene.
+- id: motif:5
+  label: substitution of affordable offering
+  taxonomy_refs: []
+  basis: If the woman cannot afford a lamb, the instruction permits two turtledoves
+    or two young pigeons instead.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage frames this as a practical allowance within the offering law.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 709-710; Leviticus 11:47
+  quote_or_summary: A rule is stated for distinguishing unclean from clean and edible
+    from non-edible living things.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 716-718; Leviticus 12:1-2a
+  quote_or_summary: Yahweh speaks to Moses and instructs him to speak to the children
+    of Israel.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: line 718; Leviticus 12:2
+  quote_or_summary: If a woman conceives and bears a male child, she is unclean seven
+    days, as in the days of her monthly period.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: line 720; Leviticus 12:3
+  quote_or_summary: On the eighth day the male child’s foreskin is to be circumcised.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 722; Leviticus 12:4
+  quote_or_summary: The woman continues in the blood of purification for thirty-three
+    days and does not touch holy things or enter the sanctuary until purification
+    is complete.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 724; Leviticus 12:5
+  quote_or_summary: If she bears a female child, the woman is unclean two weeks and
+    continues in the blood of purification for sixty-six days.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: line 726; Leviticus 12:6
+  quote_or_summary: At completion of purification for a son or daughter, she brings
+    a year-old lamb for a burnt offering and a young pigeon or turtledove for a sin
+    offering to the priest at the door of the Tent of Meeting.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: line 728; Leviticus 12:7
+  quote_or_summary: The priest offers it before Yahweh, makes atonement for her, and
+    she is cleansed from the fountain of her blood; this is the law for one who bears
+    a male or female.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: line 730; Leviticus 12:8
+  quote_or_summary: If she cannot afford a lamb, she brings two turtledoves or two
+    young pigeons, one for a burnt offering and one for a sin offering; the priest
+    makes atonement and she is clean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the provided public-domain passage. Motif
+    labels are conservative and mostly descriptive; no comparison claims were added
+    because the passage itself does not make cross-textual comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were applied because the supplied symbol list does not include the principal ritual elements in this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l709-l731
+  passage_sha256=92ec4feeaaca9ac86e7cc6a9986dc96caee1513a44e8a51d99d04b8ec163b6fe
+

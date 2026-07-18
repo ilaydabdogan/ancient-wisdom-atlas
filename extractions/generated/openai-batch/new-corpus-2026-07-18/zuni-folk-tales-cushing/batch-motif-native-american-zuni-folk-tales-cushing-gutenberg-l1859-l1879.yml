@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l1859-l1879
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: 'THE PINNACLES OF THUNDER MOUNTAIN                      344 / INTRODUCTION
+    / THE TRIAL OF LOVERS: / THE YOUTH AND HIS EAGLE; lines 1859-1879'
+  start: '1859'
+  end: '1879'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The youth and his Eagle wife fly to a blue mountain summit and descend
+    through the sky. When the youth falters, the wife first supports him, then remembers
+    his faithlessness, removes the Eagle dress that sustains him, bids him farewell,
+    and leaves. The youth falls into the center of his former town and dies. The narrator
+    states that no mortal alliance can avoid Death and warns against becoming enamored
+    of Death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The pair fly to the summit of a blue mountain, rest, and begin descending
+    through the visible sky in narrow circles.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youth has worn-out wings and falters during the descent.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wife bears the youth up whenever he falters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After remembering the youth's faithlessness, the wife catches and removes
+    the Eagle dress that sustains him, bids farewell forever, and disappears into
+    the sky.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The youth gasps, shrieks, tumbles downward, falls into the center of his former
+    town, and dies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator concludes that no mortal man can avoid Death by alliances and
+    warns against becoming enamored of Death.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the youth
+  description: A mortal youth with worn-out wings who is sustained by an Eagle dress,
+    falters, falls into his former town, and perishes.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the wife / Eagle
+  description: The youth's wife, associated with Eagle, who supports him in flight,
+    then removes the Eagle dress after remembering his faithlessness and sails away
+    into the sky.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: faithless mortal lover
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly refers to the youth's faithlessness and later frames
+    him as a mortal example concerning Death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: winged wife who withdraws sustaining aid
+  assigned_to:
+  - fig:2
+  basis: The wife first bears the youth up, then removes the Eagle dress that sustains
+    him and departs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: falling victim
+  assigned_to:
+  - fig:1
+  basis: After the Eagle dress is removed, the youth falls into the center of town
+    and perishes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: blue mountain summit
+  literal_form: the summit of that blue mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sky descent in narrow circles
+  literal_form: the sky; downward in very narrow circles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Eagle dress
+  literal_form: the Eagle dress which sustained him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Death
+  literal_form: Death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Flight to the blue mountain and descent
+  summary: The youth and his Eagle wife fly to a blue mountain summit, rest there,
+    and begin descending through the sky in narrow circles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Support withdrawn in the sky
+  summary: As the youth falters, the wife supports him, then remembers his faithlessness,
+    removes the sustaining Eagle dress, says farewell, and leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fatal fall to the former town
+  summary: The youth tumbles through the air, falls into the center of the town where
+    he once lived, and dies.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Narrator's moral about Death
+  summary: The narrator explains the episode as a warning that mortal men cannot avoid
+    Death through alliances and should not become enamored of Death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: aerial ascent to mountain and descent from the sky
+  taxonomy_refs:
+  - ascent
+  basis: The figures fly to a blue mountain summit and then descend through the sky
+    in narrowing circles.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage emphasizes both ascent and descent; only the ascent element
+    maps directly to the available taxonomy.
+- id: motif:2
+  label: withdrawal of magical or sustaining aid after faithlessness
+  taxonomy_refs: []
+  basis: The youth's wife remembers his faithlessness and removes the Eagle dress
+    that sustains him, leading to his fall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly names this pattern.
+- id: motif:3
+  label: inescapability of Death despite alliances
+  taxonomy_refs: []
+  basis: The narrator explicitly states that no mortal man may avoid Death by any
+    alliances and warns against becoming enamored of Death.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an explicit moral interpretation within the passage rather than
+    an external comparative classification.
+- id: motif:4
+  label: fatal beloved associated with Death
+  taxonomy_refs: []
+  basis: The story concerns the youth and his Eagle wife, and the closing moral warns
+    against becoming enamored of Death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage's moral links enamorment with Death, but it does not explicitly
+    state that the Eagle wife is Death.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1859-1861
+  quote_or_summary: They "flew away to the summit of that blue mountain" and began
+    to descend through the sky "in very narrow circles."
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 1863-1864
+  quote_or_summary: '"Whenever the youth, with his worn-out wings, faltered, the wife
+    bore him up."'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 1864-1867
+  quote_or_summary: Remembering his "faithlessness," she caught and drew off "the
+    Eagle dress which sustained him," bade farewell, and sailed away.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 1867-1869
+  quote_or_summary: The youth "tumbled over and over," fell into the center of his
+    former town, and "utterly perished."
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 1873-1877
+  quote_or_summary: The narrator says no mortal man, "by any alliances under the sun,"
+    may "avoid Death" and warns not to become "enamored of Death."
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal events and figures are explicit. Motif labels are cautious; no external
+    comparison claims are made because the passage itself does not supply a comparative
+    link beyond its own moral explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references were limited to directly supported available refs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l1859-l1879
+  passage_sha256=380267491aafcb6f39fd5d0f689d1b09790bc25a167563e9d77f765643a2f02a
+

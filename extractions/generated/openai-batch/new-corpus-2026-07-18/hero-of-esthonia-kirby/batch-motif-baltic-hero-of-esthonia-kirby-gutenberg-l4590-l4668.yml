@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l4590-l4668
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: PART II / SECTION I / THE MILKY WAY. / THE GRATEFUL PRINCE.; lines 4590-4668
+  start: '4590'
+  end: '4668'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A prince serving a master receives dangerous labor assignments involving
+    a white mare and a black cow. A maiden secretly warns him that the tasks are impossible
+    without special tactics, advises him how to control the mare with a threatened
+    willow rope, and later tells him to use hot coals and smith's tongs for the cow-milking
+    task.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prince initially thinks mowing grass for the white mare and cleaning the
+    stable will be easy, despite lacking experience with farm tools.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden comes quietly to the prince at night and asks what work has been
+    assigned to him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The maiden says the white mare is the master's grandmother and describes her
+    as so insatiable that many workers would be needed to feed her and clear the stable.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The maiden instructs the prince to plait a strong rope of willow twigs in
+    the mare's sight and to say that he will bind the mare so she will not overeat
+    or litter the stable.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the prince brings grass to the mare, the manger is soon empty and the
+    stable floor is filled with litter.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the prince begins plaiting the rope and explains its purpose, the mare
+    sighs, and later the manger still contains fodder and the floor remains clean.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The master inspects the completed work, is surprised, and asks whether the
+    prince had advice; the prince answers that he had only his own head and God in
+    heaven.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The master assigns the prince to milk the black cow and warns that leaving
+    a drop of milk may cost him his life.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The prince thinks the black-cow task will not be hard unless there is some
+    trick in it.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The maiden says the black cow's milk would flow all day in an unbroken stream
+    and advises the prince to bring hot coals and smith's tongs to the milking.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the prince
+  description: A young prince who is assigned tasks of mowing, cleaning a stable,
+    and milking a black cow; he follows the maiden's advice for the mare task.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the maiden
+  description: A maiden who secretly visits the prince at night, explains the danger
+    of the tasks, and gives him precise instructions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: the master / old man
+  description: The master who assigns the prince labor tasks, inspects the work, and
+    threatens the prince's life over the black-cow task.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the white mare
+  description: A white mare described by the maiden as the master's grandmother and
+    an insatiable creature; she speaks to the prince and is controlled by the threatened
+    rope.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: the black cow
+  description: A black cow that the prince is ordered to milk completely; the maiden
+    says its milk would continue in one unbroken stream from morning to evening.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: tasked youth / laborer under threat
+  assigned_to:
+  - fig:1
+  basis: The prince must perform the master's assignments and faces a life-threatening
+    condition in the cow-milking task.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: secret adviser and protector
+  assigned_to:
+  - fig:2
+  basis: The maiden privately warns the prince about hidden dangers and says no harm
+    shall happen to him if he follows her advice.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: dangerous task-giver and inspector
+  assigned_to:
+  - fig:3
+  basis: The master assigns tasks, inspects the stable work, and sets a lethal penalty
+    for failing to milk the cow completely.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: speaking insatiable animal obstacle
+  assigned_to:
+  - fig:4
+  basis: The white mare rapidly consumes fodder and litters the stable, speaks to
+    the prince, and changes behavior after the threatened binding.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: inexhaustible milk animal in next task
+  assigned_to:
+  - fig:5
+  basis: The maiden says the black cow's milk will flow from morning to evening in
+    an unbroken stream.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: willow-twig rope
+  literal_form: a strong rope plaited from willow twigs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: white mare
+  literal_form: white mare
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: black cow's milk
+  literal_form: milk flowing from the black cow in an unbroken stream
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: hot coals and flame
+  literal_form: a pan full of hot coals blown to a bright flame
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: smith's tongs
+  literal_form: smith's tongs heated in the fire
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Night advice for the white mare task
+  summary: The maiden visits the prince at night, explains that the mare and stable
+    task is impossible by ordinary labor, and gives him the willow-rope tactic.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The mare is checked by the threatened rope
+  summary: The prince mows grass, sees the mare consume and litter excessively, then
+    plaits the rope and tells the mare he will bind her; afterward the fodder and
+    stable remain in order.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The master inspects the stable
+  summary: The master finds the stable work in good order, asks whether the prince
+    received advice, and leaves grumbling after the prince denies human help.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The black cow assignment and second night advice
+  summary: The master assigns the prince to milk the black cow without leaving any
+    milk, under threat of death; the maiden warns that the milk is inexhaustible and
+    advises him to bring hot coals and smith's tongs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: perilous impossible labor task
+  taxonomy_refs:
+  - initiation
+  basis: 'The prince is given tasks that the maiden says cannot be completed by normal
+    labor: feeding and cleaning after the insatiable mare, and later milking a cow
+    whose milk flows continuously, with death threatened for failure.'
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents assigned labor trials, but it does not explicitly
+    call them an initiation.
+- id: motif:2
+  label: secret helper's saving advice
+  taxonomy_refs:
+  - wisdom
+  basis: The maiden twice comes at night to disclose the hidden nature of the tasks
+    and gives exact instructions that allow or are meant to allow the prince to survive
+    them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The motif label is descriptive; no formal tale-type identification is
+    made from this passage alone.
+- id: motif:3
+  label: speaking animal controlled by threatened restraint
+  taxonomy_refs: []
+  basis: The white mare speaks to the prince when he plaits the rope, and after he
+    says he will bind her so she cannot overeat or litter, her behavior changes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage supports the local pattern but does not identify a wider taxonomy
+    category.
+- id: motif:4
+  label: inexhaustible milk task
+  taxonomy_refs: []
+  basis: The black cow must be milked without leaving a drop, yet the maiden says
+    its milk would continue to flow all day in an unbroken stream.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The task is assigned and advice is given, but the passage ends before
+    the cow task is performed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4590-4599
+  quote_or_summary: The prince thinks mowing grass for the white mare and cleaning
+    the stable will be easy, though he has not handled farm tools before.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4600-4618
+  quote_or_summary: The maiden visits at night, says the white mare is the master's
+    grandmother and insatiable, and instructs the prince to plait a willow rope and
+    threaten to bind the mare.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 4619-4637
+  quote_or_summary: The mare rapidly empties the manger and litters the floor; the
+    prince plaits the rope, answers the mare's question, and afterward the fodder
+    and floor remain in order.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 4638-4646
+  quote_or_summary: The master inspects, is surprised by the good order, asks whether
+    anyone advised the prince, and leaves grumbling after the prince denies human
+    help.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 4647-4658
+  quote_or_summary: The master orders the prince to milk the black cow without leaving
+    a drop and warns that failure might cost him his life.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 4659-4668
+  quote_or_summary: The maiden warns that the black cow's milk would flow all day
+    in an unbroken stream and advises taking hot coals and smith's tongs to the milking.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are descriptive and limited to the supplied taxonomy refs where cautiously supported.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy refs are limited to the provided lists. The black-cow task is not completed within this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l4590-l4668
+  passage_sha256=c5cee99088e035c22494ba76e8b14bd20979b4e9ae179b5d88df85bedfa74c4a
+

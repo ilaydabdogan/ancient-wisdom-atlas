@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l2084-l2118
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: MIRTS-TZ, AND HIS SON ZOHK / KAVAH, THE BLACKSMITH / FERIDN / FERIDN AND
+    HIS THREE SONS; lines 2084-2118
+  start: '2084'
+  end: '2118'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Feridn prepares to receive his returning son Irij but learns that Irij
+    has been killed by his brothers. Feridn and the soldiers mourn intensely. Feridn
+    orders black apparel and the destruction of drums and banners, buries Irij's severed
+    head in a garden, and prays to Heaven that Irij's descendants will avenge him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Feridn had prepared a magnificent reception for his son and was anxiously
+    expecting his return.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Feridn received news that Irij had been put to death by his brothers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dead son's remains reached Feridn's house as a mournful spectacle.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Feridn clasped the face of his slaughtered son and sank senseless on the earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The soldiers mourned, tore their garments, and wept.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Feridn ordered his people to wear black apparel in honor of the murdered youth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Feridn ordered all his drums and banners to be torn to pieces.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The head of Irij was buried in a favorite garden where he had held weekly
+    rural entertainments.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Feridn pressed Irij's severed head to his bosom during the last ceremony.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Feridn prayed to Heaven to see Irij's descendants avenge his murder before
+    Feridn died.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage says Feridn's sorrow for his favorite son made his existence appear
+    death-like.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Feridn
+  description: Father of Irij; he prepares a reception, mourns Irij's murder, orders
+    public signs of grief, buries Irij's head, and prays for vengeance.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Irij
+  description: Feridn's son, described as murdered, slaughtered, and severed; his
+    head is buried in a garden.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Irij's brothers
+  description: The brothers are reported to have put Irij to death and are called
+    his assassins in Feridn's prayer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: soldiers
+  description: People around Feridn who mourn, tear their garments, and weep after
+    seeing the dead son.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: seed of Irij
+  description: Future descendants of Irij whom Feridn hopes will avenge Irij's death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Heaven
+  description: Addressed by Feridn in prayer as the power asked to grant vengeance
+    through Irij's descendants.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mourning father
+  assigned_to:
+  - fig:1
+  basis: Feridn embraces his son's slaughtered face, collapses, orders mourning apparel,
+    and prays in tears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: murdered son
+  assigned_to:
+  - fig:2
+  basis: Irij is identified as Feridn's son and as having been put to death by his
+    brothers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: ritual mourner and petitioner for vengeance
+  assigned_to:
+  - fig:1
+  basis: Feridn directs mourning customs, performs the last ceremony, and asks Heaven
+    for vengeance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: fratricidal assassins
+  assigned_to:
+  - fig:3
+  basis: The brothers are said to have killed Irij and are called assassins in the
+    prayer.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: mourning retainers or soldiers
+  assigned_to:
+  - fig:4
+  basis: The soldiers around Feridn lament, tear garments, and weep.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: future avengers
+  assigned_to:
+  - fig:5
+  basis: Feridn prays that the seed of Irij will bring vengeance on Irij's assassins.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: addressed heavenly power
+  assigned_to:
+  - fig:6
+  basis: Feridn directly appeals to Heaven to grant his prayer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: black apparel
+  literal_form: black clothes worn in mourning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: torn drums and banners
+  literal_form: drums and banners torn to pieces
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: severed head
+  literal_form: the head of Irij, pressed to Feridn's bosom and buried in a garden
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: garden burial place
+  literal_form: favorite garden where Irij had held weekly rural entertainment
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hungry wolves
+  literal_form: metaphoric description of those who tore Irij's body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Expected return becomes death announcement
+  summary: Feridn prepares to receive Irij but receives news that Irij has been killed
+    by his brothers, and the dead son is brought to his father's house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Public lamentation at the father's house
+  summary: Feridn embraces the face of his slaughtered son and collapses; soldiers
+    mourn, tear garments, and weep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mourning signs and burial of the head
+  summary: Feridn orders black apparel, tears drums and banners, and buries Irij's
+    head in a favorite garden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Prayer for dynastic vengeance
+  summary: During the final ceremony, Feridn holds Irij's severed head and asks Heaven
+    to let him see Irij's descendants avenge the murder.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Continuing grief
+  summary: The passage closes by describing Feridn's grief as darkening his life and
+    making his existence appear like death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: murdered son mourned by father
+  taxonomy_refs: []
+  basis: Feridn receives his murdered son, embraces him, collapses, and institutes
+    mourning practices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive passage-level motif without a supplied taxonomy
+    family match.
+- id: motif:2
+  label: fratricide and vengeance through descendants
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Irij is killed by his brothers, and Feridn prays that Irij's seed will avenge
+    him, implying a continuing dynastic line tied to justice.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage supports vengeance through descendants; the broader royal-legitimacy
+    context is only partly visible in this excerpt.
+- id: motif:3
+  label: ritualized mourning after royal calamity
+  taxonomy_refs: []
+  basis: Feridn commands black apparel and the tearing of drums and banners, and the
+    passage states that he afterward always wore black clothes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No direct taxonomy reference is supplied for mourning rites.
+- id: motif:4
+  label: appeal to Heaven for vengeance
+  taxonomy_refs:
+  - divine_judgment
+  basis: Feridn addresses Heaven and asks that Irij's assassins be punished through
+    Irij's descendants.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage records a prayer for vengeance but does not narrate Heaven's
+    response or judgment in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2084-2088
+  quote_or_summary: Feridn prepares a reception and awaits Irij's return, then learns
+    that Irij has been put to death by his brothers and that the mournful spectacle
+    has reached his house.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2090-2099
+  quote_or_summary: Feridn cries out, clasps the face of his slaughtered son, collapses
+    senseless, while the soldiers mourn, tear their garments, and weep over the catastrophe.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2100-2104
+  quote_or_summary: Afterward Feridn orders black apparel for his people, orders drums
+    and banners torn apart, always wears black thereafter, and buries Irij's head
+    in a favorite garden.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2104-2115
+  quote_or_summary: At the last ceremony Feridn presses Irij's severed head to his
+    bosom and prays to Heaven that before he dies he may see Irij's seed bring vengeance
+    on the assassins.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2116-2118
+  quote_or_summary: The closing lines state that sorrow for his favorite son darkened
+    Feridn's life so that his pale existence looked like death.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and figures are explicit. Motif labels are passage-level
+    and conservative; broader taxonomy mapping is limited by the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the excerpt itself does not make a comparison to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l2084-l2118
+  passage_sha256=08ae9abb02274f59d4593975df2635009e420b8246f28634b9a400df4cb71d8b
+

@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l3966-l4005
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: II. THE SERIES OF THE KATUNS. / TEXT. / TRANSLATION. / NOTES.; lines 3966-4005
+  start: '3966'
+  end: '4005'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes explain omitted references to the Quetzalcoatl myth, discuss
+    chronological counting of Katuns from a later fixed era, interpret terms related
+    to learning and calendar counting, explain a figurative phrase about losing the
+    road, and derive a place-name from carrion birds entering houses because of many
+    dead bodies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that the introductory paragraph of the Mani chronicle, including
+    references to the Quetzalcoatl myth, is entirely omitted.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes infer that an era was later fixed for counting Katuns backward to
+    the dawn of tradition and forward in time.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note on Pop identifies Pop as the first month of the Maya year and interprets
+    a phrase as possibly meaning that Pop was counted in regular succession.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The notes suggest that the calendar may have been adopted at the beginning
+    of an Ahau Katun, thirty Katuns or 600 years since the beginning of traditions.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The phrase translated as “they lost the road” is interpreted figuratively
+    as interruption of intercourse with the western coast by intervening unfriendly
+    tribes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The derivation of Ocnakuchil is explained from words meaning to enter, houses,
+    and crow or buzzard, because carrion birds entered dwellings to prey on bodies
+    when the dead were very numerous.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A final note proposes a correction to the wording in the account of Ahpula’s
+    death.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Quetzalcoatl
+  description: Mentioned only as part of omitted references to a Quetzalcoatl myth
+    in the Mani chronicle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: intervening unfriendly tribes
+  description: Groups said to have prevented continued intercourse with the western
+    coast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: carrion birds
+  description: Crows or buzzards described as entering dwellings to prey upon bodies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ahpula
+  description: Named only in reference to an account of his death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mythic figure referenced in omitted material
+  assigned_to:
+  - fig:1
+  basis: The passage says the omitted introductory paragraph had references to the
+    Quetzalcoatl myth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: obstructors of travel or intercourse
+  assigned_to:
+  - fig:2
+  basis: The tribes are described as preventing continued intercourse with the western
+    coast.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: scavengers of the dead
+  assigned_to:
+  - fig:3
+  basis: The birds are said to enter dwellings to prey upon bodies.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: person whose death is discussed textually
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the account of Ahpula’s death while proposing a textual
+    correction.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Katun count
+  literal_form: Katuns counted backward and forward from a later fixed era
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Pop month
+  literal_form: Pop, the first month in the Maya year
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: lost road
+  literal_form: road in the expression “they lost the road”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: carrion bird
+  literal_form: crow or buzzard entering dwellings
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: dwellings of the dead
+  literal_form: houses or dwellings entered by carrion birds because bodies were present
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fixed era for Katun reckoning
+  summary: The notes describe a later chronological starting point used to count Katuns
+    backward to the dawn of tradition and forward.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Calendar ordering at Pop
+  summary: The notes interpret a phrase about Pop as regular succession and suggest
+    the calendar was adopted at the beginning of an Ahau Katun.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Loss of the road
+  summary: A phrase about losing the road is explained as a figurative interruption
+    of contact with the western coast caused by unfriendly tribes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Carrion birds enter dwellings
+  summary: A word derivation is linked to a situation in which so many people had
+    died that crows or buzzards entered houses to feed on bodies.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reckoning time from a fixed era to the dawn of tradition
+  taxonomy_refs: []
+  basis: The passage explicitly describes fixing an era from which Katuns were counted
+    backward to the dawn of tradition and forward.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an editorial reconstruction of chronology, not a narrated mythic
+    episode.
+- id: motif:2
+  label: calendar adoption at a calendrical turning point
+  taxonomy_refs: []
+  basis: The note suggests that regular counting of Pop and adoption of the calendar
+    occurred at the beginning of an Ahau Katun.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The author presents the interpretation tentatively as a possible rendering
+    of a difficult expression.
+- id: motif:3
+  label: loss of the road as interrupted contact
+  taxonomy_refs: []
+  basis: The passage explains “they lost the road” as a figurative expression for
+    being prevented from continuing contact with the western coast.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The motif is based on the editor’s figurative interpretation rather than
+    a full narrative scene.
+- id: motif:4
+  label: mass death marked by carrion birds entering houses
+  taxonomy_refs: []
+  basis: The derivation of Ocnakuchil is tied to many dead bodies and carrion birds
+    entering dwellings to prey on them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives this as a derivation note rather than as a developed
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3966-3970
+  quote_or_summary: The notes say the Mani chronicle omits an introductory paragraph
+    with references to the Quetzalcoatl myth.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3972-3975
+  quote_or_summary: Because neither chronicle begins with the start of an Ahau Katun,
+    the note infers a later fixed era for counting Katuns backward to the dawn of
+    tradition and forward.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3982-3992
+  quote_or_summary: The note identifies Pop as the first Maya month and suggests the
+    phrase may mean Pop was counted in regular succession, implying calendar adoption
+    at the beginning of an Ahau Katun, thirty Katuns or 600 years after traditions
+    began.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3996-4000
+  quote_or_summary: The note interprets “they lost the road” figuratively as being
+    prevented by unfriendly tribes from continuing intercourse with the western coast.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4002-4005
+  quote_or_summary: Ocnakuchil is derived from terms for entering, houses, and crow
+    or buzzard, because the dead were so numerous that carrion birds entered dwellings
+    to feed on bodies.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4006-4007
+  quote_or_summary: 'The note proposes a correction in the account of Ahpula’s death:
+    “when not yet was ended.”'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage consists of editorial notes rather than a continuous myth narrative;
+    several motifs are therefore textual or interpretive patterns rather than fully
+    narrated episodes. No comparison claims were made because the passage itself does
+    not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were left empty because the available motif families and symbols were not directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l3966-l4005
+  passage_sha256=af81cf75a9c6a233583ffc8827a694d642ea8152d6811b3188aa272ee6903b29
+

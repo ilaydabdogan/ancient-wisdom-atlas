@@ -1,0 +1,547 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l16143-l16329
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM / BOOK II; lines 16143-16329
+  start: '16143'
+  end: '16329'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Lemminkainen tells his mother that Northland warriors seek revenge after
+    his violence at Pohyola. His mother reviews unsafe hiding possibilities, then
+    directs him to swear off combat and flee by his father's vessel to a distant ocean
+    island used earlier by his father as a refuge. Lemminkainen prepares provisions,
+    says farewell, launches a copper boat with magic linen sails, and calls on the
+    winds to carry him safely to the refuge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lemminkainen says that in Pohyola a battle arose against him, and that he
+    slew the Northland hero and the host of Sariola.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Louhi's people and the armed forces of Northland are described as turning
+    against Lemminkainen as a single enemy.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lemminkainen's mother says she had warned him and forbidden the journey to
+    Northland, and that staying with her and his kindred would have avoided conflict.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lemminkainen says he does not know a safe hiding place and asks his mother
+    where he should flee.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mother considers possible concealment as trees, berries, fish, wolf, or
+    bear, and rejects each because it could still be cut, plucked, caught, or hunted.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lemminkainen says death and misfortune are near and that Pohya spearmen will
+    come seeking Ahti's head.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The mother names a distant ocean island as a refuge where archers do not wander
+    and where her son's head cannot be severed.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The mother requires an oath before her that Lemminkainen will not join war
+    or deadly combat for sixty summers; he agrees and mentions battle wounds and scars.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The mother tells Lemminkainen to take his father's vessel, travel across nine
+    oceans, sail into the center of the tenth, and go to the forested island and cliffs
+    where his father once hid from pursuers.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Lemminkainen takes abundant provisions, sails toward the Isle of Refuge, bids
+    farewell to his home island and mother, and tells his mother what to say if Northland
+    warriors seek his head.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Lemminkainen launches a copper boat, hoists magic linen sails, settles at
+    the rudder, and calls on the winds of heaven to drive him safely toward the island.
+  category: action
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Lemminkainen / Kaukomieli / Ahti
+  description: The reckless, handsome hero who reports killing Northland opponents,
+    seeks refuge from pursuers, swears an oath, and sails away.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Lemminkainen's mother
+  description: The mother who had warned Lemminkainen, evaluates hiding places, imposes
+    the oath, and gives the route to the refuge island.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Louhi's people / Northland warriors
+  description: The armed people of Northland, Pohya, Pohyola, or Sariola who pursue
+    Lemminkainen and seek his head in vengeance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Northland hero and host of Sariola
+  description: The adversaries whom Lemminkainen says he slew in the court-yard of
+    Pohyola.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Lemminkainen's father
+  description: The father whose vessel Lemminkainen is told to take and who previously
+    hid on the same distant island from pursuers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:6
+  name_or_label: Hypothetical catchers, gatherers, and hunters
+  description: Berry-maids, a fisherman, and Northland hunters named in the mother's
+    rejected hiding scenarios as threats to berry, fish, wolf, and bear forms.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: pursued hero seeking refuge
+  assigned_to:
+  - fig:1
+  basis: He is targeted by Northland weapons, asks where to flee, receives refuge
+    instructions, and departs by boat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: protective maternal adviser
+  assigned_to:
+  - fig:2
+  basis: She warns, advises, requires an oath, and directs him to the safe island.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: avenging pursuers
+  assigned_to:
+  - fig:3
+  basis: They arm themselves against Lemminkainen and later are expected to come seeking
+    his head in vengeance.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:4
+  label: slain adversaries
+  assigned_to:
+  - fig:4
+  basis: Lemminkainen says he killed the Northland hero and host of Sariola.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: precedent-setting father
+  assigned_to:
+  - fig:5
+  basis: The father previously used the distant island as a hiding place and left
+    a vessel for the son to use.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: hypothetical threats to concealment
+  assigned_to:
+  - fig:6
+  basis: They are named as persons who would pluck, catch, or destroy the proposed
+    hiding forms.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Isle of Refuge
+  literal_form: A distant ocean-island, forest-covered, with cliffs above the waters,
+    described as a safe place where archers do not wander.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: sym:2
+  label: many-ocean route
+  literal_form: Travel across nine oceans and into the center of the tenth ocean.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: father's vessel and copper boat
+  literal_form: The father's vessel, later launched as a copper boat or bark with
+    magic linen sails.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: tree hiding forms
+  literal_form: Pine-tree, juniper, birch-tree, and elm-tree proposed as possible
+    forms of concealment but rejected as vulnerable to cutting or clearing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: animal, fish, and berry hiding forms
+  literal_form: Cranberry, strawberry, blackberry, pike, troutlet, wolf, and black-bear
+    proposed as possible forms of concealment but rejected as vulnerable to plucking,
+    catching, or hunting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: wild keepers of the home island
+  literal_form: Serpents, lynxes, blue-moose, and wild-geese invoked to occupy or
+    keep the island Lemminkainen leaves behind.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: oath of sixty summers
+  literal_form: An oath before the mother not to join war or deadly combat for sixty
+    summers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: winds of heaven
+  literal_form: Winds called upon to blow steadily and drive the bark safely toward
+    the ocean island.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Aftermath of the Pohyola battle
+  summary: Lemminkainen explains that after he killed Northland opponents in Pohyola,
+    Louhi's people and Northland weapons turned against him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mother and son discuss hiding
+  summary: The mother reminds Lemminkainen of her warning, he asks where to flee,
+    and she considers but rejects concealment as trees, berries, fish, wolf, or bear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Refuge island and oath
+  summary: The mother identifies a distant ocean island as a safe refuge, requires
+    a sixty-summer oath against combat, and tells him to take his father's vessel
+    along the many-ocean route used by his father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Departure from the home island
+  summary: Lemminkainen gathers provisions, sails for the Isle of Refuge, bids farewell,
+    leaves wild creatures to keep the island, and tells his mother how to answer future
+    pursuers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Launching the magic-sailed boat
+  summary: Lemminkainen launches the copper boat, raises magic linen sails, takes
+    the rudder, and calls on the winds to carry him safely to the distant refuge.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: pursued hero's departure into exile
+  taxonomy_refs:
+  - departure
+  basis: After violence at Pohyola, Lemminkainen is pursued by Northland forces and
+    leaves his home for a safer island.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage emphasizes flight and concealment rather than a voluntary
+    quest.
+- id: motif:2
+  label: island refuge beyond many waters
+  taxonomy_refs: []
+  basis: The mother describes a remote ocean island across nine oceans and in the
+    tenth as a safe place where his head cannot be severed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family exactly names this refuge-island pattern.
+- id: motif:3
+  label: conditional oath of nonviolence for protection
+  taxonomy_refs:
+  - covenant
+  basis: Access to refuge is conditioned on an oath, described as strong as heaven,
+    that he will not join war or deadly combat for sixty summers.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The oath is made before his mother; the passage does not describe a formal
+    divine covenant.
+- id: motif:4
+  label: natural-form concealment considered but rejected
+  taxonomy_refs:
+  - shapeshifter
+  basis: The mother proposes that Lemminkainen be a tree, berry, fish, wolf, or bear
+    as possible concealment, but each form is said to remain vulnerable.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage presents possible forms in speech only; no actual transformation
+    occurs in this excerpt.
+- id: motif:5
+  label: return after prescribed concealment
+  taxonomy_refs:
+  - return
+  basis: The mother instructs him to hide one year and a second, and in the third
+    to return safely to the family dwelling.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The excerpt gives the instruction to return, not the later fulfillment.
+- id: motif:6
+  label: son follows father's refuge path
+  taxonomy_refs: []
+  basis: Lemminkainen is told to use his father's vessel and travel to the same island
+    where his father hid from pursuers during earlier battles.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an internal parallel within the passage, not evidence by itself
+    for a wider external tradition.
+comparison_claims:
+- id: claim:1
+  claim: The son's planned refuge is explicitly aligned with the father's earlier
+    hiding place; both function as concealment from pursuers in times of battle.
+  claim_level: same_function
+  target: the father's previous use of the distant ocean island as a refuge
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by the passage; it does not
+    establish historical contact or a wider typological relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16143-16158
+  quote_or_summary: Lemminkainen says battle arose against him in Pohyola; he slew
+    the Northland hero and host of Sariola, and Louhi's people and Northland weapons
+    turned against him.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 16159-16187
+  quote_or_summary: The mother says she warned and forbade the Northland journey,
+    says he could have remained protected at home, and Lemminkainen asks her where
+    he should flee for safety.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 16188-16226
+  quote_or_summary: The mother proposes possible concealment as pine, juniper, birch,
+    elm, berries, fish, wolf, or bear, but says each would face cutting, plucking,
+    fishing, or hunting.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 16227-16239
+  quote_or_summary: Lemminkainen says he knows places where death and misfortune would
+    find him and expects countless Pohya spearmen to come seeking Ahti's head.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 16240-16263
+  quote_or_summary: The mother names a distant ocean island where he may live safely,
+    requires him to swear not to fight for sixty summers, and Lemminkainen swears
+    while recalling his battle scars.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 16264-16281
+  quote_or_summary: The mother tells him to take his father's vessel, travel across
+    nine oceans into the tenth, reach a forested island with cliffs, hide where his
+    father hid from pursuers, and return in the third year.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 16283-16308
+  quote_or_summary: In the section titled 'The Isle of Refuge,' Lemminkainen gathers
+    fish, butter, bread, and bacon, departs, bids farewell to his home and mother,
+    invokes wild creatures to keep the island, and instructs his mother about Northland
+    pursuers.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 16310-16318
+  quote_or_summary: He launches a copper boat from iron-banded rollers and oak cylinders,
+    hoists magic linen sails, sits in the stern, and rests one hand on the rudder.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 16320-16329
+  quote_or_summary: Lemminkainen calls on the winds of heaven to blow steadily and
+    drive his bark safely toward his father's refuge, the far nameless island.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain translation; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main action, figures, and internal comparison to the father's earlier
+    refuge are explicit. Motif taxonomy assignments for covenant and shapeshifter
+    are cautious because the passage gives an oath and proposed forms, but not a formal
+    divine covenant or enacted transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Evidence locators follow the provided line range.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l16143-l16329
+  passage_sha256=e022491486b26b0e521f1d6f16e71234c420b35048963e668a79b3db8a2b806c
+

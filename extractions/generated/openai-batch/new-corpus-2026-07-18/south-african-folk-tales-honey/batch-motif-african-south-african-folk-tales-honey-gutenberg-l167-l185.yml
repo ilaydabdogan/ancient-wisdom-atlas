@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l167-l185
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE ZEBRA STALLION                         122 / WHEN LION COULD FLY                        124
+    / LION WHO TOOK A WOMAN'S SHAPE              129 / HORSE CURSED BY SUN                        138;
+    lines 167-185
+  start: '167'
+  end: '185'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents excerpt lists tale titles and page numbers, including
+    titles about Tortoise hunting Ostriches, Baboon’s judgment, Lion and Baboon, a
+    Zebra Stallion, a flying Lion, Lion thinking himself wiser than his mother, Lion
+    taking a woman’s shape, Jackal’s long black back stripe, and Horse cursed by Sun.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists a tale titled "Tortoise Hunting Ostriches" with page number
+    117.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists a tale titled "The Judgment of Baboon" with page number
+    118.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists a tale titled "Lion and Baboon" with page number 121.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists a tale titled "The Zebra Stallion" with page number 122.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists a tale titled "When Lion Could Fly" with page number 124.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage lists a tale titled "Lion Who Thought Himself Wiser Than His Mother"
+    with page number 126.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage lists a tale titled "Lion Who Took a Woman's Shape" with page
+    number 129.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage lists a tale title asking why Jackal has a long black stripe on
+    his back, with page number 137.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage lists a tale titled "Horse Cursed by Sun" with page number 138.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Tortoise
+  description: Animal named in the title "Tortoise Hunting Ostriches."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ostriches
+  description: Animals named as being hunted in the title "Tortoise Hunting Ostriches."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Baboon
+  description: Animal named in the titles "The Judgment of Baboon" and "Lion and Baboon."
+  role_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Lion
+  description: Animal named in several titles, including titles where Lion could fly,
+    thought himself wiser than his mother, and took a woman's shape.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Zebra Stallion
+  description: Animal named in the title "The Zebra Stallion."
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Lion's mother
+  description: The mother referenced in the title "Lion Who Thought Himself Wiser
+    Than His Mother."
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Jackal
+  description: Animal referenced in the title asking why Jackal has a long black stripe
+    on his back.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Horse
+  description: Animal named in the title "Horse Cursed by Sun."
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Sun
+  description: Entity named as the source of Horse's curse in the title "Horse Cursed
+    by Sun."
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The title says Tortoise is hunting Ostriches.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hunted animals
+  assigned_to:
+  - fig:2
+  basis: The title names Ostriches as the animals hunted by Tortoise.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: flying animal
+  assigned_to:
+  - fig:4
+  basis: The title says Lion could fly.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: wisdom claimant
+  assigned_to:
+  - fig:4
+  basis: The title says Lion thought himself wiser than his mother.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: shapeshifting actor
+  assigned_to:
+  - fig:4
+  basis: The title says Lion took a woman's shape.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: mother of Lion
+  assigned_to:
+  - fig:6
+  basis: The title identifies the figure as Lion's mother.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: marked animal
+  assigned_to:
+  - fig:7
+  basis: The title refers to Jackal having a long black stripe on his back.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: cursed animal
+  assigned_to:
+  - fig:8
+  basis: The title says Horse was cursed by Sun.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: curser
+  assigned_to:
+  - fig:9
+  basis: The title names Sun as the agent by whom Horse was cursed.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: woman's shape
+  literal_form: A woman's shape taken by Lion.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: long black stripe
+  literal_form: A long black stripe on Jackal's back.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: Sun
+  literal_form: Sun named as the source of Horse's curse.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: animal hunting other animals
+  taxonomy_refs: []
+  basis: The title "Tortoise Hunting Ostriches" states an animal hunting other animals.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only a title is provided; no narrative action is described in the passage.
+- id: motif:2
+  label: animal judgment
+  taxonomy_refs: []
+  basis: The title "The Judgment of Baboon" names a judgment involving Baboon.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The title does not clarify whether Baboon gives, receives, or is otherwise
+    connected to the judgment.
+- id: motif:3
+  label: flying lion
+  taxonomy_refs: []
+  basis: The title "When Lion Could Fly" attributes flight to Lion.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the title is available; the function of flight in the tale is not
+    given.
+- id: motif:4
+  label: animal claims superior wisdom over mother
+  taxonomy_refs:
+  - wisdom
+  basis: The title says Lion thought himself wiser than his mother.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The title indicates a wisdom comparison but gives no plot details.
+- id: motif:5
+  label: animal takes human female form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The title says Lion took a woman's shape.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage is a contents listing; the title alone supports the motif
+    candidate, but not its narrative context.
+- id: motif:6
+  label: etiological animal marking
+  taxonomy_refs: []
+  basis: The title asks why Jackal has a long black stripe on his back.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The title suggests an explanatory animal-marking tale, but the explanation
+    itself is not present.
+- id: motif:7
+  label: animal cursed by Sun
+  taxonomy_refs: []
+  basis: The title says Horse was cursed by Sun.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The title gives no cause, outcome, or characterization of Sun beyond the
+    curse.
+comparison_claims:
+- id: claim:1
+  claim: The title "Lion Who Took a Woman's Shape" aligns with the broad shapeshifter
+    motif family because it names Lion as taking another form.
+  claim_level: same_motif
+  target: shapeshifter
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is based only on a table-of-contents title; the passage does not
+    provide the full transformation episode or its function.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 167
+  quote_or_summary: '"TORTOISE HUNTING OSTRICHES                 117"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 169
+  quote_or_summary: '"THE JUDGMENT OF BABOON                     118"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 171
+  quote_or_summary: '"LION AND BABOON                            121"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 173
+  quote_or_summary: '"THE ZEBRA STALLION                         122"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 175
+  quote_or_summary: '"WHEN LION COULD FLY                        124"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 177-178
+  quote_or_summary: '"LION WHO THOUGHT HIMSELF WISER THAN / HIS MOTHER                               126"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 180
+  quote_or_summary: '"LION WHO TOOK A WOMAN''S SHAPE              129"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 182-183
+  quote_or_summary: '"WHY HAS JACKAL A LONG BLACK STRIPE / ON HIS BACK?                             137"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+- id: ev:9
+  type: quote
+  locator: lines 185
+  quote_or_summary: '"HORSE CURSED BY SUN                        138"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title quoted for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward because the passage is a table-of-contents
+    list. Motif candidates are limited because only titles and page numbers are provided,
+    not full tale narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No full tale content appears in the supplied passage. Figures, roles, symbols, and motifs are inferred only from wording in the listed titles.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l167-l185
+  passage_sha256=3c5807657ccfa1ddba215655dcca7465566db013eebf64f89ceedcc1f32d41d0
+

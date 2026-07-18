@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.jewish-1-enoch-charles-gutenberg-l787-l962
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+passage_locator:
+  label: WITH AN INTRODUCTION BY THE / REV. W. O. E. OESTERLEY, D.D. / INTRODUCTION
+    / CHAPTERS; lines 787-962
+  start: '787'
+  end: '962'
+  translation: The Book of Enoch
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An introductory passage summarizes scholarly claims about the importance
+    of 1 Enoch for Christian origins, especially its relation to New Testament doctrine,
+    the Gospels, evil, demonology, future judgment, the Messiah, the Son of Man, and
+    resurrection. The passage also explains abbreviations for textual witnesses and
+    editorial symbols used in the translation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that detailed study of 1 Enoch's doctrinal standpoint and
+    Jewish popular conceptions is important for studying Christian origins.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Charles is quoted as claiming that 1 Enoch influenced the New Testament more
+    than all other apocryphal and pseudepigraphical books together.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Charles is described as listing New Testament passages that depend on, or
+    illustrate, passages in 1 Enoch, and doctrines in 1 Enoch that helped mold New
+    Testament doctrines.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Burkitt is quoted as saying that 1 Enoch attempts to account for the presence
+    of Evil in human history and that this view is presupposed in the Synoptic Gospels.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Burkitt says some Sayings of Jesus are best understood as Midrash upon familiar
+    words and concepts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Burkitt relates 1 Enoch lxii to Matthew xxv. 31-46 and believes the Similitudes
+    of Enoch are presupposed in the Matthew scene.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage identifies evil, demonology, future judgment, the Messiah, the
+    Messianic Kingdom, the title Son of Man, and Resurrection as special subjects
+    for study.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage defines abbreviations for the Ethiopic Version and Greek fragments
+    or versions used in the translation.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage explains editorial brackets and typographical signs marking variant
+    wording, restoration, interpolation, supplied words, emendation, textual corruption,
+    and lost words.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A footnote states that Greek fragments of several chapters were discovered
+    or preserved in several sources and that 1 Enoch i. 9, v. 4, and xxvii. 2 are
+    quoted in Jude 14-15.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: R. H. Charles
+  description: A scholar quoted for claims about 1 Enoch's influence on the New Testament
+    and its doctrines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: F. C. Burkitt
+  description: A scholar quoted on the relation of 1 Enoch to the Gospels, the problem
+    of Evil, Sayings of Jesus, and Matthew xxv. 31-46.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jesus / Prophet of Galilee
+  description: The passage refers to the Sayings of Jesus and calls him the Prophet
+    of Galilee in the context of Burkitt's interpretation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Messiah / Son of Man
+  description: The passage names the Messiah, the Messianic Kingdom, and the title
+    Son of Man as subjects of special importance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cited scholarly interpreter
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures are cited or quoted as authorities on the relation of 1 Enoch
+    to Christian origins and the New Testament.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: source of sayings under interpretation
+  assigned_to:
+  - fig:3
+  basis: The passage discusses Sayings of Jesus as interpreted against familiar apocalyptic
+    words and concepts.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: messianic figure or title under study
+  assigned_to:
+  - fig:4
+  basis: The Messiah, Messianic Kingdom, and title Son of Man are listed as special
+    topics for studying 1 Enoch and Christian origins.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: translation bracket markers
+  literal_form: "⌜ ⌝, 〚 〛, ‹ ›, [ ], ( )"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: editorial text-critical markers
+  literal_form: thick type, † †, ...
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: account of Evil in human history
+  taxonomy_refs: []
+  basis: The passage quotes Burkitt describing 1 Enoch as a serious attempt to account
+    for the presence of Evil in human history and lists evil as a special topic for
+    study.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is an introduction summarizing doctrine, not a primary mythic
+    episode explaining evil.
+- id: motif:2
+  label: demonology
+  taxonomy_refs: []
+  basis: The passage explicitly includes dæmonology among subjects connected with
+    the problem of evil.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No demons or demon narratives are described in this line range.
+- id: motif:3
+  label: future judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage lists future judgment as a special point of interest in studying
+    the books of Enoch for Christian origins.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage names the topic but does not narrate a judgment scene.
+- id: motif:4
+  label: Messiah, Messianic Kingdom, and Son of Man
+  taxonomy_refs: []
+  basis: The passage identifies the Messiah, the Messianic Kingdom, and especially
+    the title Son of Man as important subjects for study.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide narrative details about the Messiah or Son
+    of Man.
+- id: motif:5
+  label: resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly lists Resurrection as one of the special points of
+    interest.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage names the doctrine but does not describe a resurrection event.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports Charles's claim that 1 Enoch has unusually strong influence
+    on the New Testament, including phraseology, ideas, and doctrines.
+  claim_level: historical_contact
+  target: New Testament
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a secondary scholarly claim summarized in the introduction;
+    the specific parallels are not reproduced in the passage.
+- id: claim:2
+  claim: The passage reports Burkitt's claim that 1 Enoch's explanation of Evil is
+    essentially the view presupposed in the Synoptic Gospels.
+  claim_level: same_function
+  target: Synoptic Gospels
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives the assertion but not the detailed textual evidence
+    for the comparison.
+- id: claim:3
+  claim: The passage reports Burkitt's view that some Sayings of Jesus can be read
+    as Midrash upon words and concepts familiar to Jesus' hearers in an Enochic-apocalyptic
+    background.
+  claim_level: historical_contact
+  target: Sayings of Jesus in the Gospels
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives one cited illustration by reference only and does
+    not quote the compared Gospel text.
+- id: claim:4
+  claim: The passage reports Burkitt's belief that the Similitudes of Enoch, especially
+    1 Enoch lxii, are presupposed in the Matthew xxv. 31-46 scene.
+  claim_level: historical_contact
+  target: Matthew xxv. 31-46
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is presented as Burkitt's belief and the passage directs
+    readers elsewhere for the full discussion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 787-808
+  quote_or_summary: Charles says that “the influence of 1 Enoch on the New Testament
+    has been greater than that of all the other apocryphal and pseudepigraphical books
+    put together”; the passage also summarizes his lists of dependent or illustrative
+    New Testament passages and molded doctrines.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 809-829
+  quote_or_summary: Burkitt says 1 Enoch “contains a serious attempt to account for
+    the presence of Evil in human history” and that this view is presupposed in the
+    Synoptic Gospels; he also says some Sayings of Jesus appear in their true light
+    as Midrash upon familiar words and concepts.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 830-836
+  quote_or_summary: The passage says Burkitt discusses the relation between 1 Enoch
+    lxii and Matthew xxv. 31-46 and believes that “the Similitudes of Enoch are presupposed
+    in the scene from Matthew.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 837-843
+  quote_or_summary: The special points named for study are the problems of evil, dæmonology,
+    future judgment, the Messiah and Messianic Kingdom, the title Son of Man, and
+    the Resurrection.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 847-875
+  quote_or_summary: The translation abbreviations identify E as the Ethiopic Version,
+    G^s as Greek fragments preserved in Syncellus, and G^g as the Greek fragment discovered
+    at Akhmîm and deposited in the Gizeh Museum, Cairo.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 877-896
+  quote_or_summary: The passage explains bracket marks for words found in one textual
+    witness but not another, restored words, interpolations, and editor-supplied words;
+    it also explains thick type for emendation, daggers for corruption, and points
+    for lost words.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 932-948
+  quote_or_summary: Footnote 15 reports Greek discoveries or preservations of several
+    Enoch passages and states that i. 9, v. 4, and xxvii. 2 are quoted in Jude 14-15.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a modern introduction and textual apparatus rather than a
+    primary narrative passage. Extracted motifs are doctrinal topics explicitly named
+    in the passage; comparison claims are reported scholarly claims and require human
+    review against the underlying texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Editorial typographical symbols are included because the passage explicitly explains them; they are not mythic symbols and have no taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:jewish-1-enoch-charles-gutenberg__l787-l962
+  passage_sha256=abd55243004fdb931b0023fddd32755549dfdeaef403b1b0c874100820d62984
+

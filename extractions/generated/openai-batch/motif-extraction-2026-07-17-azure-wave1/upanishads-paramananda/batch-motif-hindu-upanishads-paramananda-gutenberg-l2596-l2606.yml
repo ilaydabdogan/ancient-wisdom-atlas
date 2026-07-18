@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l2596-l2606
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: Part First / Part Second / Part Third / Part fourth; lines 2596-2606
+  start: '2596'
+  end: '2606'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that the Upanishad teaches knowledge of the Real so
+    that people do not identify themselves with body, mind, and senses under the ego.
+    It interprets the parable of the Devas and Brahman as teaching that God alone
+    is the true power and doer, and that realizing Him as the underlying Reality enables
+    one to transcend death and become immortal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Upanishad’s special purpose is to give knowledge
+    of the Real.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says this knowledge prevents coming under the dominion of the
+    ego through identifying with body, mind, and senses.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mortals are described as becoming mortals because they fall under the sway
+    of ego and depend on limited physical and mental strength.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The parable of the Devas and Brahman is said to teach that there is no real
+    power and no real doer except God.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: God is described as the eye of the eye and the ear of the ear, while the faculties
+    have no power independent of Him.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that realizing God as the underlying Reality of one’s being
+    leads to transcending death and becoming immortal.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mortals
+  description: Mortals are described as falling under ego and depending on limited
+    physical and mental strength.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Devas
+  description: The Devas are named as figures in the referenced parable of the Devas
+    and Brahman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Brahman / God
+  description: Brahman is named in the parable, and God is described as the only real
+    power and doer, the ground of the faculties, and the underlying Reality of being.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Ego-bound mortal
+  assigned_to:
+  - fig:1
+  basis: The passage says mortals become mortals by falling under ego and relying
+    on limited physical and mental strength.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Parable figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage refers to the parable of the Devas and Brahman.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Sole real doer and underlying Reality
+  assigned_to:
+  - fig:3
+  basis: The passage says there is no real doer except God and that realizing Him
+    as underlying Reality brings transcendence of death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: Eye of the eye and ear of the ear
+  literal_form: eye of the eye; ear of the ear
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Body, mind, and senses
+  literal_form: body, mind and senses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Purpose of the Upanishad
+  summary: The passage presents the Upanishad as giving knowledge of the Real to prevent
+    ego-dominated identification with body, mind, and senses.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lesson of the Devas and Brahman
+  summary: The passage states that the parable of the Devas and Brahman teaches that
+    God alone is the true power and doer.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Realization and immortality
+  summary: The passage says that realizing God as the underlying Reality of being
+    leads to transcending death and becoming immortal.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Liberating knowledge of the Real
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that knowledge of the Real protects against ego-identification
+    and culminates in realization of the underlying Reality.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage is doctrinal exposition rather than a narrated mythic episode.
+- id: motif:2
+  label: Divine source of all faculties and agency
+  taxonomy_refs: []
+  basis: The passage says there is no real power or doer except God and that eyes,
+    ears, and faculties have no independent power apart from Him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific taxonomy reference is supplied for this pattern.
+- id: motif:3
+  label: Transcending death through realization
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links realizing God as the underlying Reality with transcending
+    death and becoming immortal.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage mentions transcendence of death but does not narrate a death-rebirth
+    or resurrection event.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports classification within a wisdom motif family because
+    salvific knowledge of the Real is presented as overcoming egoic limitation and
+    death.
+  claim_level: same_motif
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a taxonomy-level comparison only; the passage does not compare
+    itself with another text or tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2596-2598
+  quote_or_summary: "“The special purpose of this Upanishad is to give us the knowledge
+    of the Real” so that one does not identify with “body, mind and senses.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 2598-2601
+  quote_or_summary: Mortals are said to become mortals by falling under ego and relying
+    on limited physical and mental strength.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: 2601-2603
+  quote_or_summary: The parable of the Devas and Brahman teaches that “there is no
+    real power, no real doer except God.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 2603-2605
+  quote_or_summary: God is “the eye of the eye, the ear of the ear,” and the faculties
+    have no independent power apart from Him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 2605-2606
+  quote_or_summary: When one realizes Him as “the underlying Reality of our being,”
+    one transcends death and becomes immortal.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear, but it is expository and references a parable rather
+    than narrating the parable itself; motif classification should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided available taxonomy.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l2596-l2606
+  passage_sha256=63a0ed65ea69e6f155cbcc71323cd3a5fb35b47f4eb5fca4ce134db6b4986239
+

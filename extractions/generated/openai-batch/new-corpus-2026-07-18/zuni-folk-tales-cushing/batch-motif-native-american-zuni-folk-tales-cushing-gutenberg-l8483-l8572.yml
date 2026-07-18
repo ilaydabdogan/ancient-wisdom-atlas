@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l8483-l8572
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE COYOTE AND THE RAVENS WHO RACED THEIR EYES / THE PRAIRIE-DOGS AND THEIR
+    PRIEST, THE BURROWING-OWL / HOW THE RATTLESNAKES CAME TO BE WHAT THEY ARE / HOW
+    THE CORN-PESTS WERE ENSNARED; lines 8483-8572
+  start: '8483'
+  end: '8572'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A trapped Coyote deceives Bear into joining him in a pit, then the two
+    lure many corn-pests into the same hole. Coyote climbs over the others and escapes.
+    A young man later finds the pests in the pit and burns them with dry wood, but
+    Coyote is absent. The young man reports this to the girl whose corn had been harmed,
+    and she accepts him for his ingenuity. The ending explains that Coyote's escape
+    is why coyotes remain abundant corn-pests in the land of Zuñi.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Coyote, already in a hole, tells Bear that he is happy because he has found
+    green-corn, meat, sweet-stuff, and other food there, and invites Bear to jump
+    in.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bear hesitates and then jumps into the pit; Coyote laughs and tells Bear that
+    they are both unable to get out.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After Bear nearly eats Coyote, Coyote whispers an idea to him, and Bear agrees
+    that they should sing together and let others come.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coyote and Bear laugh, sing, and feast until they attract corn-pests from
+    the fields.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Many corn-pests rush into the pit, making it almost full, and they begin snarling,
+    biting, and trying to get ahead of one another.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Coyote climbs over Bear, whom the passage calls his grandfather, scrambles
+    through the others, skips over their backs, escapes from the hole, and runs away
+    laughing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The next morning, the young man comes to the corn-field and sees that the
+    pit is half filled with creatures that had been destroying the maiden's corn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The trapped pests are described as tired, jumping, crawling, falling, and
+    trying to get out of the deep pit.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The young man throws dry wood into the pit, lights it, and burns the trapped
+    pests; he notices that Coyote is not there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The young man returns to the girl's house and reports what he has done; the
+    girl asks whether all the pests were there.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The young man says all were there except Coyote, and the girl says she would
+    rather marry a man with ingenuity than have all the Coyotes in the world killed.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:12
+  text: The girl accepts the ugly but ingenious young man.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The narrator says Coyote escaped the trap set by the ugly young man, and explains
+    this as the reason coyotes are more abundant than other corn-pests in the land
+    of Zuñi and still get away with corn.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: An animal figure trapped in a pit who deceives Bear and the corn-pests,
+    escapes by climbing over the others, and is later named as the surviving corn-pest
+    whose escape explains the abundance of coyotes.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Bear / Broadfoot / old Bear
+  description: A bear addressed as Broadfoot who is lured into the pit by Coyote,
+    nearly eats him, then accepts Coyote's whispered plan and helps attract others
+    by singing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Corn-pests
+  description: A collective group of field creatures that had been destroying the
+    maiden's corn; they are attracted to the pit, rush in, become trapped, and are
+    burned by the young man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Ugly but ingenious young man
+  description: A young man associated with the trap, who finds the pests in the pit,
+    burns them with dry wood, reports to the girl, and is accepted by her for his
+    ingenuity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Girl / maiden
+  description: The maiden whose corn had been destroyed by pests; she receives the
+    young man's report, values ingenuity, and accepts him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: deceptive escapee
+  assigned_to:
+  - fig:1
+  basis: Coyote uses false claims about food and later escapes from the pit by climbing
+    over the trapped animals.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: lured victim and accomplice
+  assigned_to:
+  - fig:2
+  basis: Bear is deceived into jumping into the pit, then agrees to sing with Coyote
+    to attract others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: trapped crop-destroyers
+  assigned_to:
+  - fig:3
+  basis: The corn-pests had been destroying the maiden's corn, rush into the pit,
+    and are trapped there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: ingenious trap-setter and pest-killer
+  assigned_to:
+  - fig:4
+  basis: The young man is associated with the trap, burns the captured pests, reports
+    his deed, and is accepted for ingenuity.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: corn-owner and rewarding bride
+  assigned_to:
+  - fig:5
+  basis: The maiden's corn had been damaged, and she accepts the young man because
+    she values his ingenuity.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:6
+  label: surviving corn-pest
+  assigned_to:
+  - fig:1
+  basis: The young man notices Coyote is absent from the burned pit, and the narrator
+    explains that coyotes remain abundant corn-pests because Coyote escaped.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: pit-hole trap
+  literal_form: a hole or deep pit in the corn-field
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: food and spoils in the pit
+  literal_form: green-corn, meat, sweet-stuff, and claimed spoils
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: corn-field and corn
+  literal_form: the maiden's corn, corn-fields, and corn taken by pests
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: fire in the pit
+  literal_form: dry wood thrown into the pit and lighted
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Coyote lures Bear into the pit
+  summary: Coyote pretends that the pit contains abundant food and happiness, persuading
+    Bear to jump in; once Bear is inside, Coyote reveals that they are trapped.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coyote and Bear lure the corn-pests
+  summary: After Coyote whispers a plan, Bear agrees, and the two laugh, sing, feast,
+    and call attention to their spoils until the corn-pests crowd into the pit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Coyote escapes over the trapped creatures
+  summary: As the pit fills with fighting and scrambling pests, Coyote climbs over
+    Bear and the others, skips out of the hole, and runs away laughing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The young man burns the trapped pests
+  summary: The next morning the young man finds the pit full of corn-destroying creatures,
+    throws in dry wood, lights it, burns the pests, and notes that Coyote is absent.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: The girl accepts the ingenious young man
+  summary: The young man reports his deed to the girl; after learning that Coyote
+    escaped, she says ingenuity matters more to her and accepts him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Etiological conclusion about coyotes
+  summary: The narrator explains that Coyote's escape from the young man's trap accounts
+    for coyotes being more abundant than other corn-pests in Zuñi and continuing to
+    take corn.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: trickster escapes a trap by deceiving others into it
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote is trapped, deceives Bear and the corn-pests into entering the pit,
+    then escapes by climbing over them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage does not use the word trickster; the taxonomy assignment is
+    based on Coyote's deceptive escape behavior.
+- id: motif:2
+  label: harmful crop-pests collectively ensnared in a pit
+  taxonomy_refs: []
+  basis: The creatures that had destroyed the maiden's corn are lured into a deep
+    pit where they cannot get out.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage names them collectively rather than listing individual species.
+- id: motif:3
+  label: destruction of trapped harmful beings by fire
+  taxonomy_refs: []
+  basis: The young man throws dry wood into the pit, lights it, and burns the trapped
+    pests.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a local exterminating fire, not a cosmic or world-destroying fire
+    motif.
+- id: motif:4
+  label: ingenuity wins the bride
+  taxonomy_refs:
+  - wisdom
+  basis: The girl says she would rather marry a man with ingenuity than kill all Coyotes,
+    and she accepts the ugly but ingenious young man.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term 'wisdom' is broader than the passage's specific
+    emphasis on practical ingenuity.
+- id: motif:5
+  label: etiology of coyote abundance and crop theft
+  taxonomy_refs: []
+  basis: The narrator explicitly explains that Coyote's escape from the trap is why
+    coyotes are more abundant than other corn-pests in Zuñi and still get away with
+    corn.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is an internal etiological explanation; no external parallels are
+    supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The Coyote episode can cautiously be compared to the trickster_boundary motif
+    family because Coyote uses deception to move from a trapped position to escape
+    while leaving other figures trapped in his place.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself provides no external parallels or historical-contact
+    evidence; the comparison is functional and taxonomic only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8483-8507
+  quote_or_summary: Coyote tells Bear that he happily found green-corn, meat, sweet-stuff,
+    and other food in the hole and invites him in; Bear jumps down, and Coyote laughs
+    and says they cannot get out.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 8509-8516
+  quote_or_summary: After Bear nearly eats Coyote, Coyote whispers an idea; Bear agrees
+    to sing, and they laugh, sing, and feast to attract corn-pests from the fields.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 8518-8528
+  quote_or_summary: Many corn-pests rush into the pit until it is almost full; Coyote
+    climbs over Bear and the other struggling creatures, escapes from the hole, and
+    runs away laughing.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 8530-8537
+  quote_or_summary: The young man comes to the corn-field, hears noise, and sees the
+    pit half filled with creatures that had destroyed the maiden's corn and are trying
+    to get out.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 8539-8545
+  quote_or_summary: The young man throws dry wood into the pit, lights it, burns the
+    trapped pests, and notices that Coyote is not there.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 8547-8553
+  quote_or_summary: The young man reports to the girl; she asks whether all were there,
+    and he answers that all were there except Coyote, who somehow got out or did not
+    get in.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 8555-8564
+  quote_or_summary: The girl says she would rather marry a man with ingenuity than
+    kill all the Coyotes in the world, accepts the ugly but ingenious young man, and
+    the narration generalizes about preferences in marriage.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 8566-8570
+  quote_or_summary: The narrator says that Coyote escaped the trap set by the ugly
+    young man, explaining why coyotes are more abundant than other corn-pests in Zuñi
+    and continue to get away with corn.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif and taxonomy
+    assignments, especially 'trickster_boundary' and 'wisdom', require human review
+    because they map passage details to broader motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or parallels were used; all observations and candidate motifs are derived from the supplied passage and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l8483-l8572
+  passage_sha256=0e034c4f39f52b29c9ada22089f8542b07f9b239e805527133955f1e58461a5b
+

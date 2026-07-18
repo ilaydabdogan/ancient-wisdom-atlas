@@ -1,0 +1,513 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l3819-l4019
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: SONG AND DANCE. / PREFACE. / ANIMAL STORIES. / OLD STORIES, CHIEFLY OF SORCERY.;
+    lines 3819-4019
+  start: '3819'
+  end: '4019'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains a Simon Tootoos narrative in which a dead mother is
+    connected with a singing snake that directs her son to cook and eat it, followed
+    by the mother's emergence from his belly and Simon's end. It also contains the
+    tale 'The Tree-Wife,' in which a hunter's wish turns a Jessamy tree into a wife,
+    another man takes her away, and the husband follows a singing, answering spit-trail
+    to reclaim her.
+  language: English, with Jamaican Creole narration and song
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman has a child named Simon Tootoos; she is described as a church woman
+    who sends the boy to church and later dies.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After his mother's death, Simon Tootoos sets a colbon on Sunday and goes to
+    the woods to search it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Simon finds a snake in the colbon, leaves it, and the snake answers him in
+    song, asking to be taken up.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The narrator states that Simon's dead mother caused the snake to sing.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The singing voice commands Simon to bring the colbon back, carry the snake
+    home, stretch it out, cut its neck, wash a pot, cut it up, boil it, and season
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Simon follows further sung commands to prepare a plate, knife, table, and
+    chair, and then eats what the narration identifies as his dead mother.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After Simon goes to bed, his mother comes out of his belly, and the narration
+    says that this was the last of Simon Tootoos.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: In 'The Tree-Wife,' an unmarried hunter sees a pretty Jessamy tree and says
+    he would like it to turn into a wife for him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The tree becomes a woman; the hunter gets clothing for her, dresses her, and
+    takes her home.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: While the hunter is away in the bush overnight, another man inveigles the
+    wife and takes her to his house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The wife, afraid about how her husband will find her, spits along the way
+    to the other man's house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The husband sings; the spit answers his song, and he follows each spit-marked
+    stopping place until he reaches the wife.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The wife hears the husband's voice and sees him coming; the husband takes
+    her back to his home yard.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Simon Tootoos
+  description: A boy whose mother dies; he catches a snake in a colbon, obeys its
+    sung commands, cooks and eats what is identified as his dead mother, and is last
+    mentioned after his mother comes out of his belly.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Simon's mother
+  description: A church woman and Simon's mother who dies; the narration says she
+    caused the snake to sing, is eaten as Simon's dead mother, and comes out of his
+    belly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Singing snake
+  description: A snake found in Simon's colbon that sings commands to Simon; the narration
+    links its singing to Simon's dead mother.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Unnamed hunter-husband
+  description: An unmarried hunter who wishes a Jessamy tree would become his wife,
+    takes the transformed woman home, later searches for her by song, and brings her
+    back.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Jessamy tree-wife
+  description: A pretty Jessamy tree that becomes a woman and wife; she is taken by
+    another man, leaves a spit trail, hears her husband's voice, and is taken back
+    home.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Other man
+  description: A man who comes to the hunter's house while he is absent, inveigles
+    the wife, and takes her to his own house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: son
+  assigned_to:
+  - fig:1
+  basis: Simon is named as the woman's child.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: command-follower and eater
+  assigned_to:
+  - fig:1
+  basis: Simon repeatedly obeys the sung commands to prepare, cook, and eat the snake/dead
+    mother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceased mother linked to the snake's song
+  assigned_to:
+  - fig:2
+  basis: The mother dies; the narration says she caused the snake to sing and later
+    identifies the eaten figure as Simon's dead mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: singing and commanding animal
+  assigned_to:
+  - fig:3
+  basis: The snake answers Simon in song and directs a sequence of actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: hunter-husband
+  assigned_to:
+  - fig:4
+  basis: The man is described as a hunter who gains the transformed tree as wife.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: transformed tree-wife
+  assigned_to:
+  - fig:5
+  basis: The Jessamy tree turns into a woman and becomes the hunter's wife.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: man who takes another man's wife
+  assigned_to:
+  - fig:6
+  basis: The other man inveigles the wife and takes her away from the husband's house.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: searcher guided by song and answering trail
+  assigned_to:
+  - fig:4
+  basis: The husband sings, hears the spit answer, follows the stops, and reaches
+    the wife.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:9
+  label: maker of the spit trail
+  assigned_to:
+  - fig:5
+  basis: The wife spits all along the way to the other man's house.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: snake
+  literal_form: A snake caught in Simon's colbon that sings commands.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cooking fire and pot
+  literal_form: A pot and fire used to boil the cut-up snake/dead mother.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Jessamy tree
+  literal_form: A pretty tree named Jessamy that turns into a wife.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: spit trail
+  literal_form: Spit placed along the route to the other man's house; it answers the
+    husband's song and marks stopping places.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: colbon trap
+  literal_form: A colbon set by Simon on Sunday; it catches the snake instead of a
+    bird.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Simon finds the singing snake
+  summary: After his mother dies, Simon sets a colbon on Sunday, finds a snake in
+    it, and hears the snake sing to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The snake directs its own preparation as food
+  summary: The singing snake, linked by the narrator to Simon's dead mother, directs
+    Simon through bringing it home, killing it, washing the pot, cutting it up, boiling
+    it, and preparing tableware.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Simon eats his dead mother and ends
+  summary: Simon eats what the narration identifies as his dead mother; after further
+    commands to call ritual workers, pray, and go to bed, his mother comes out of
+    his belly and the story says this was the last of Simon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The Jessamy tree becomes a wife
+  summary: An unmarried hunter wishes a pretty Jessamy tree could become his wife,
+    and the tree becomes a woman whom he clothes and takes home.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: The tree-wife is taken and leaves a trail
+  summary: While the hunter is away overnight, another man takes the wife; she spits
+    along the way to his house because she is afraid about how her husband will find
+    her.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Song and spit lead the husband to the wife
+  summary: The husband sings, the spit answers at successive stopping places, and
+    he follows the trail until he reaches the wife and brings her back home.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Singing serpent linked to the dead mother
+  taxonomy_refs:
+  - serpent
+  basis: A snake caught by Simon sings commands; the narration states that his dead
+    mother caused the snake to sing and later identifies the eaten being as his dead
+    mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage links the mother and snake, but it does not explicitly state
+    a simple metamorphosis of mother into snake.
+- id: motif:2
+  label: Dead kin consumed as a compelled meal
+  taxonomy_refs: []
+  basis: The singing figure directs Simon to kill, cook, serve, and eat it; the narration
+    says he eats his dead mother and that she later comes out of his belly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The outcome is described as 'the last of Simon Tootoos,' but the exact
+    nature of his end is not elaborated.
+- id: motif:3
+  label: Tree transformed into human spouse
+  taxonomy_refs:
+  - shapeshifter
+  basis: The hunter wishes the Jessamy tree would turn into a wife, and the narration
+    says the tree becomes a woman for him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only the transformation from tree to woman is narrated; no return to tree-form
+    is described.
+- id: motif:4
+  label: Stolen or taken spouse reclaimed
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Another man inveigles and takes the hunter's wife; the husband searches by
+    song and brings her back home.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The wording indicates inveigling and removal, but the wife's degree of
+    agency is not fully explained.
+- id: motif:5
+  label: Answering trail guides the searcher
+  taxonomy_refs: []
+  basis: The wife leaves spit along the route; when the husband sings, the spit answers
+    him at stopping places and enables him to follow the path to her.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this trail-and-response
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3819-3830
+  quote_or_summary: 'Opening of the Simon Tootoos narrative: Simon''s mother is a
+    church woman who dies; Simon sets a colbon on Sunday, finds a snake in it, and
+    the snake sings for him to take it up.'
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3831-3857
+  quote_or_summary: The narration says Simon's dead mother caused the snake to sing;
+    the singing voice directs Simon to bring it home, stretch it out, cut its neck,
+    wash a pot, cut it up, boil it, and season it.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3858-3931
+  quote_or_summary: Further commands direct Simon to prepare the meal and eat; the
+    narration states he eats his dead mother, then after he goes to bed his mother
+    comes out of his belly and this is the last of Simon Tootoos.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3933-3945
+  quote_or_summary: In 'The Tree-Wife,' an unmarried hunter sees a pretty Jessamy
+    tree, wishes it could become his wife, and the tree turns into a woman whom he
+    clothes and takes home.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3947-3956
+  quote_or_summary: The hunter stays away overnight; another man inveigles and takes
+    the wife, and the wife spits all along the route to the other man's house.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 3958-3976
+  quote_or_summary: The husband sings after failing to find his wife; the spit left
+    by the woman answers him, and he follows each stopping place at intervals until
+    the two-mile route is passed.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 3977-3981
+  quote_or_summary: The wife hears the husband's voice and sees him coming; the husband
+    takes her back to his home yard.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based entirely on the supplied passage. Motif labels
+    use only available taxonomy references where clearly supported; comparison claims
+    are left empty because the passage does not itself compare these tales to other
+    traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage includes the end of an unnamed Simon Tootoos story, the full tale 'The Tree-Wife,' and the heading for 'Sammy the Comferee.' The final heading contains no narrative material and was not extracted as a scene or motif.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l3819-l4019
+  passage_sha256=6af0f1d04303e740a3481fcaba08ee3389d61ca874683a0f5b097b3b557a27e5
+

@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l118-l130
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE WARRIOR SUITOR OF MOKI                                       185 / HOW
+    THE COYOTE JOINED THE DANCE OF THE BURROWING-OWLS            203 / THE COYOTE
+    AND THE BEETLE                                        235 / HOW THE COYOTE DANCED
+    WITH THE BLACKBIRDS                        237; lines 118-130
+  start: '118'
+  end: '130'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents excerpt lists six tale titles with page numbers: one
+    about a warrior suitor of Moki and five involving Coyote or Coyotes with Burrowing-Owls,
+    a demon named Síuiuki, children of a sacred dance, a Beetle, and Blackbirds.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents segment listing tale titles with page numbers.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:2
+  text: One title names the Warrior Suitor of Moki and gives page number 185.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One title says Coyote joined the dance of the Burrowing-Owls and gives page
+    number 203.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One title says Coyote killed the demon Síuiuki and includes an explanatory
+    subtitle about coyotes running their noses into deadfalls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One title says the Coyotes tried to steal the children of the sacred dance
+    and gives page number 229.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One title pairs Coyote with the Beetle and gives page number 235.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One title says Coyote danced with the Blackbirds and gives page number 237.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Warrior suitor of Moki
+  description: Title figure named only as the Warrior Suitor of Moki.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Coyote
+  description: Singular Coyote appears in titles about joining a dance, killing a
+    demon, being paired with the Beetle, and dancing with Blackbirds.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Burrowing-Owls
+  description: Named as the group whose dance Coyote joined.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Demon Síuiuki
+  description: Named as the demon killed by Coyote in a title.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Coyotes
+  description: Plural Coyotes appear in a title as trying to steal the children of
+    the sacred dance.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Children of the sacred dance
+  description: Named as the children whom the Coyotes tried to steal.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Beetle
+  description: Named in a title paired with Coyote; no action is stated in the title.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Blackbirds
+  description: Named as the group with whom Coyote danced.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: warrior suitor title figure
+  assigned_to:
+  - fig:1
+  basis: The title identifies a Warrior Suitor of Moki.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Coyote or Coyotes as title actors
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Multiple titles place Coyote or Coyotes in the main grammatical position
+    of the action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: demon-killer in title
+  assigned_to:
+  - fig:2
+  basis: A title says Coyote killed the demon Síuiuki.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dance participant in title
+  assigned_to:
+  - fig:2
+  basis: Titles say Coyote joined a dance and danced with Blackbirds.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: dance group or dance partners
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: Burrowing-Owls are named in a dance Coyote joined, and Blackbirds are named
+    as those with whom Coyote danced.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: demon killed in title
+  assigned_to:
+  - fig:4
+  basis: The title names Síuiuki as the demon killed by Coyote.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: attempted stealers
+  assigned_to:
+  - fig:5
+  basis: The title says the Coyotes tried to steal the children of the sacred dance.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: children targeted for theft
+  assigned_to:
+  - fig:6
+  basis: The title identifies the children of the sacred dance as the object of the
+    Coyotes' attempted theft.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: paired title figure
+  assigned_to:
+  - fig:7
+  basis: The title places the Beetle alongside Coyote without stating an action.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dance
+  literal_form: dance / danced / sacred dance
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: deadfalls
+  literal_form: deadfalls
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Warrior suitor title entry
+  summary: A title names the Warrior Suitor of Moki; no further action is given in
+    this passage.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coyote joins Burrowing-Owls' dance
+  summary: A title frames Coyote as joining the dance of the Burrowing-Owls.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Coyote kills Demon Síuiuki
+  summary: A title frames Coyote as killing the demon Síuiuki and connects this with
+    coyotes running their noses into deadfalls.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Coyotes try to steal sacred-dance children
+  summary: A title frames the Coyotes as trying to steal the children of the sacred
+    dance.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Coyote and Beetle title entry
+  summary: A title pairs Coyote with the Beetle; no specific action is stated in the
+    title.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Coyote dances with Blackbirds
+  summary: A title frames Coyote as dancing with the Blackbirds.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: warrior suitor title pattern
+  taxonomy_refs: []
+  basis: One listed title centers on a Warrior Suitor of Moki.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage provides only a title and page number; no narrative details
+    of courtship or conflict are supplied.
+- id: motif:2
+  label: Coyote participates in dances with named bird groups
+  taxonomy_refs: []
+  basis: Two listed titles place Coyote in dance contexts, one with Burrowing-Owls
+    and one with Blackbirds.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage is a contents list, so the title-level pattern is clear but
+    narrative function is not described.
+- id: motif:3
+  label: Coyote demon-killing with etiological subtitle
+  taxonomy_refs: []
+  basis: A title says Coyote killed the demon Síuiuki and gives an explanatory subtitle
+    about why coyotes run their noses into deadfalls.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The title indicates an explanatory tale, but the passage does not provide
+    the story sequence.
+- id: motif:4
+  label: attempted theft of children connected to a sacred dance
+  taxonomy_refs:
+  - sacred_theft
+  basis: A title says the Coyotes tried to steal the children of the sacred dance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference is applied cautiously because the title
+    contains both theft and sacred-dance language, but the passage does not show whether
+    the stolen target is itself sacred or how the theft functions narratively.
+- id: motif:5
+  label: Coyote paired with Beetle
+  taxonomy_refs: []
+  basis: One listed title pairs Coyote with the Beetle.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: No action or plot relationship is stated beyond the pairing in the title.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 118
+  quote_or_summary: '"THE WARRIOR SUITOR OF MOKI                                       185"'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:2
+  type: quote
+  locator: line 120
+  quote_or_summary: '"HOW THE COYOTE JOINED THE DANCE OF THE BURROWING-OWLS            203"'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 122-123
+  quote_or_summary: '"THE COYOTE WHO KILLED THE DEMON SÍUIUKI: OR WHY COYOTES / RUN
+    THEIR NOSES INTO DEADFALLS                                 215"'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 125-126
+  quote_or_summary: '"HOW THE COYOTES TRIED TO STEAL THE CHILDREN OF THE / SACRED
+    DANCE                                                   229"'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: line 128
+  quote_or_summary: '"THE COYOTE AND THE BEETLE                                        235"'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:6
+  type: quote
+  locator: line 130
+  quote_or_summary: '"HOW THE COYOTE DANCED WITH THE BLACKBIRDS                        237"'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction of titles, named figures, and title-level actions is straightforward.
+    Motif candidates are limited because the passage is only a table-of-contents excerpt
+    and contains no narrative episodes. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata identifies the text as English, public domain, and from Zuni oral traditions in an ethnographic collection. All findings are limited to the supplied table-of-contents lines.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l118-l130
+  passage_sha256=54a0412859937d616f40b61f7b9bd0f8bf6d2eb662d2d4e6c01628d22aaa3b54
+

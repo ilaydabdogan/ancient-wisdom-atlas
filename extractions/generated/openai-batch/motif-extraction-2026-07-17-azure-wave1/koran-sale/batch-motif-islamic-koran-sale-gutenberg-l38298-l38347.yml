@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38298-l38347
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE STAR WHICH APPEARED BY NIGHT; REVEALED AT MECCA. / IN THE NAME
+    OF THE MOST MERCIFUL GOD. / CHAPTER LXXXVII. / IN THE NAME OF THE MOST MERCIFUL
+    GOD.; lines 38298-38347
+  start: '38298'
+  end: '38347'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A Meccan chapter entitled "The Most High" praises the Lord as creator and
+    director of creatures, describes pasture made and then rendered dry stubble, promises
+    enabled recitation of revelation, instructs admonition, contrasts the God-fearing
+    hearer with the unbeliever destined for hellfire, commends purification, remembrance,
+    and prayer, says the life to come is better than present life, and states that
+    this is written in the ancient books of Abraham and Moses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage labels the chapter as Chapter LXXXVII, entitled "The Most High,"
+    and revealed at Mecca.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is told to praise the name of the Lord, the most high.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Lord is said to have created and completely formed his creatures.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lord is said to determine creatures to various ends and direct them to
+    attain those ends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Lord is said to produce pasture for cattle and afterward render it dry,
+    dusky stubble.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: God promises to enable the addressee to rehearse revelations and not forget
+    any part except what God pleases; God knows what is manifest and hidden.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The addressee is instructed to admonish his people if the admonition will
+    be profitable to them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The one who fears God will be admonished, while the most wretched unbeliever
+    will turn away from the admonition.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The unbeliever is said to be cast into the greater fire of hell, where he
+    neither dies nor lives.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The person purified by faith, remembering the Lord's name and praying, is
+    said to attain felicity.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage says that people prefer present life, while the life to come is
+    better and more durable.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The passage states that this teaching is written in ancient books, specifically
+    the books of Abraham and Moses.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: LORD / GOD
+  description: Called the Lord most high; creates and forms creatures, directs them,
+    produces and dries pasture, enables recitation, and knows what is manifest and
+    hidden.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: addressed reciter and admonisher
+  description: The second-person addressee is promised enabled rehearsal of revelations
+    and is told to admonish his people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: thy people
+  description: The people whom the addressee is told to admonish if admonition will
+    profit them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: one who fears God
+  description: A person who will be admonished.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: most wretched unbeliever
+  description: A figure who turns away from admonition and is destined for the greater
+    fire of hell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: person purified by faith
+  description: A person who remembers the Lord's name, prays, and attains felicity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Abraham
+  description: Named in the phrase "the books of Abraham."
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Moses
+  description: Named in the phrase "the books of ... Moses."
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: creator and director
+  assigned_to:
+  - fig:1
+  basis: The Lord creates, completely forms creatures, and directs them to their various
+    ends.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: revealer and knower
+  assigned_to:
+  - fig:1
+  basis: God enables rehearsal of revelations and knows what is manifest and hidden.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recipient of revelation and admonisher
+  assigned_to:
+  - fig:2
+  basis: The addressee is enabled to rehearse revelations and instructed to admonish
+    his people.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: admonished audience or hearer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The addressee's people are to be admonished, and whoever fears God will be
+    admonished.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: rejecter and hellfire recipient
+  assigned_to:
+  - fig:5
+  basis: The unbeliever turns away and is cast into the greater fire of hell.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: purified worshipper attaining felicity
+  assigned_to:
+  - fig:6
+  basis: The purified person remembers the Lord's name, prays, and attains felicity.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: named figures associated with ancient books
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage names the books of Abraham and Moses as ancient books containing
+    this teaching.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: greater fire of hell
+  literal_form: the greater fire of hell
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: pasture and dry stubble
+  literal_form: pasture for cattle rendered dry stubble of a dusky hue
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: divine name
+  literal_form: the name of thy LORD / his LORD
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:4
+  label: ancient books
+  literal_form: the ancient books, the books of Abraham and Moses
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Praise and ordering of creation
+  summary: The passage opens with praise of the Lord, who creates and forms creatures,
+    directs them to their ends, and transforms pasture into dry stubble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Revelation and admonition
+  summary: God promises the addressee enabled recitation and non-forgetting of revelation,
+    then instructs him to admonish his people if useful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Contrasting responses and outcomes
+  summary: The God-fearing person receives admonition, the unbeliever turns away and
+    is assigned hellfire, while the purified worshipper who remembers and prays attains
+    felicity.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Present life, life to come, and ancient books
+  summary: The passage contrasts present life with the better and more durable life
+    to come, then states that this is written in the ancient books of Abraham and
+    Moses.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: divine creation and ordering of creatures
+  taxonomy_refs: []
+  basis: The Lord creates and forms creatures, determines their ends, and directs
+    them to attain them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a compact theological statement, not an extended creation
+    narrative.
+- id: motif:2
+  label: vegetal flourishing followed by desiccation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Pasture for cattle is produced and then rendered dry stubble of a dusky hue.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states a transformation from pasture to stubble but does not
+    explicitly describe a repeating seasonal cycle.
+- id: motif:3
+  label: revelation preserved for recitation and admonition
+  taxonomy_refs: []
+  basis: God promises enabled rehearsal of revelations and directs the addressee to
+    admonish the people.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No external account of the revelation process is supplied in this passage.
+- id: motif:4
+  label: divine judgment with punishment and felicity
+  taxonomy_refs:
+  - divine_judgment
+  basis: The unbeliever who turns away is cast into the greater fire of hell, while
+    the purified worshipper attains felicity.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The agent of casting is grammatically passive in the supplied translation.
+- id: motif:5
+  label: superiority of the life to come over present life
+  taxonomy_refs: []
+  basis: The passage states that present life is preferred by the audience, yet the
+    life to come is better and more durable.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage states the contrast directly but does not narrate an afterlife
+    journey.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself asserts continuity with earlier sacred books by saying
+    that this is written in the ancient books of Abraham and Moses.
+  claim_level: same_function
+  target: ancient books / books of Abraham and Moses
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not quote those books or specify exactly how much
+    of the preceding teaching is included in the word "this."
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 38298-38302
+  quote_or_summary: 'Chapter heading: Chapter LXXXVII, entitled "The Most High," revealed
+    at Mecca, with invocation in the name of the most merciful God.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 38304-38305
+  quote_or_summary: '"PRAISE the name of thy LORD, the most high; who hath created,
+    and completely formed his creatures"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 38324-38327
+  quote_or_summary: The Lord determines creatures to various ends, directs them, produces
+    pasture for cattle, and afterward renders it dry dusky stubble.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 38328-38330
+  quote_or_summary: God will enable the addressee to rehearse revelations without
+    forgetting except as God pleases; God knows what is manifest and hidden.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 38331-38333
+  quote_or_summary: God will facilitate the easiest way, and the addressee is to admonish
+    his people if the admonition is profitable.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 38334-38335
+  quote_or_summary: Whoever fears God will be admonished, but the most wretched unbeliever
+    will turn away.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:7
+  type: quote
+  locator: lines 38336-38337
+  quote_or_summary: '"who shall be cast to be broiled in the greater fire of hell,
+    wherein he shall not die, neither shall he live."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:8
+  type: summary
+  locator: lines 38338-38339
+  quote_or_summary: The person purified by faith, who remembers the Lord's name and
+    prays, has attained felicity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:9
+  type: quote
+  locator: lines 38340-38341
+  quote_or_summary: '"But ye prefer this present life: yet the life to come is better,
+    and more durable."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:10
+  type: quote
+  locator: lines 38342-38343
+  quote_or_summary: '"Verily this is written in the ancient books, the books of Abraham
+    and Moses."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious;
+    the seasonal-cycle link is weaker because the passage describes a one-way transformation
+    rather than an explicit cycle.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage includes intervening footnote material; extraction focuses on the chapter text within the provided line range and does not use external commentary.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38298-l38347
+  passage_sha256=655bda6cb0f363d8f3048eb76a4b8e0a1949178013d4a2f830b21dfddf1f4710
+

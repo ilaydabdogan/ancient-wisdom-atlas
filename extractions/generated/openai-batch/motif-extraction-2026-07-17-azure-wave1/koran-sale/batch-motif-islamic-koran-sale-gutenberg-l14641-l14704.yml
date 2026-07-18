@@ -1,0 +1,600 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l14641-l14704
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER V. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 14641-14704
+  start: '14641'
+  end: '14704'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Chapter VI by praising God as creator of heaven, earth,
+    darkness, light, and humans from clay. It says unbelievers reject signs, mock
+    truth, demand an angel, and would still reject a tangible written book. It recalls
+    earlier prosperous generations destroyed for sins, says mocked apostles were vindicated
+    by judgment, commands observation of the fate of deniers, and affirms God's mercy
+    and gathering of all on the day of resurrection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God is said to have created the heavens and the earth and ordained darkness
+    and light.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God is said to have created humans from clay and decreed the terms of their
+    lives.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God is said to know what people keep secret, what they publish, and what they
+    deserve.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that people turn away from divine signs, gainsay truth after
+    it comes to them, and mock it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Earlier generations are described as having been established in the earth,
+    given abundant rain and rivers, destroyed in their sins, and followed by other
+    generations.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A hypothetical written book descending on paper and handled by unbelievers
+    is said still to be dismissed by them as manifest sorcery.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage reports a demand for an angel and answers that an angelic messenger
+    would be sent in the form of a man and clothed like humans.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: obs:8
+  text: Other apostles before the addressed messenger are said to have been laughed
+    to scorn, after which judgment encompassed those who laughed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The speaker commands travel through the earth to see the end of those who
+    accused prophets of imposture.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: God is said to own whatever is in heaven and earth, to have prescribed mercy
+    to himself, and to gather people on the day of resurrection.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The creator of heaven, earth, darkness, light, and humans; the knower
+    of secrets; the destroyer of sinful generations; the owner of heaven and earth;
+    the merciful gatherer on the day of resurrection.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Unbelievers / those who will not believe
+  description: People who equalize other gods with God, turn away from signs, reject
+    truth, mock, demand an angel, call a tangible book sorcery, and are described
+    as destroying their own souls.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Addressed messenger or prophet
+  description: The one addressed as recipient of a hypothetical descended book and
+    as a messenger before whom other apostles were mocked; the translator's note identifies
+    him with Mahommed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:12
+- id: fig:4
+  name_or_label: Earlier destroyed generations
+  description: Prior generations established in the earth with prosperity, rain, and
+    rivers, then destroyed in their sins and replaced by later generations; the translator's
+    note suggests Ad and Thamud among them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: fig:5
+  name_or_label: Angel or angelic messenger
+  description: A requested angel, and hypothetically an angel appointed as messenger
+    in the form of a man and clothed like humans; the translator's note compares this
+    to Gabriel appearing to Mahommed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: fig:6
+  name_or_label: Other apostles / prophets
+  description: Earlier apostles or prophets who were laughed to scorn before the addressed
+    messenger.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Human addressees
+  description: Humans addressed as created from clay, with decreed life terms and
+    a later term associated in the note with resurrection.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:10
+roles:
+- id: role:1
+  label: Creator and cosmic orderer
+  assigned_to:
+  - fig:1
+  basis: God creates heaven, earth, humans from clay, and ordains darkness and light.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Knower of secrets and deeds
+  assigned_to:
+  - fig:1
+  basis: God knows what is kept secret, what is published, and what people deserve.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Merciful judge and resurrection gatherer
+  assigned_to:
+  - fig:1
+  basis: God destroys sinful generations, judgment overtakes mockers, and God gathers
+    people on the day of resurrection while prescribing mercy to himself.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:4
+  label: Rejecters and mockers of signs
+  assigned_to:
+  - fig:2
+  basis: They turn away from signs, gainsay truth, mock it, demand an angel, and call
+    a tangible book sorcery.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Addressed warned messenger
+  assigned_to:
+  - fig:3
+  basis: The passage addresses a recipient of revelation and compares his situation
+    to earlier apostles who were mocked.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: Destroyed prosperous predecessors
+  assigned_to:
+  - fig:4
+  basis: Earlier generations are said to have prospered with rain and rivers but were
+    destroyed in their sins.
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: role:7
+  label: Hypothetical angelic messenger in human form
+  assigned_to:
+  - fig:5
+  basis: If an angel were appointed messenger, the passage says he would be sent in
+    the form of a man and clothed like humans.
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: role:8
+  label: Previously mocked apostles
+  assigned_to:
+  - fig:6
+  basis: Other apostles before the addressed messenger are explicitly said to have
+    been laughed to scorn.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: Created mortals with decreed terms
+  assigned_to:
+  - fig:7
+  basis: Humans are described as created from clay, with decreed life terms and a
+    further term discussed in the note.
+  evidence_refs:
+  - ev:2
+  - ev:10
+symbols:
+- id: sym:1
+  label: Darkness and light
+  literal_form: The ordained pair of darkness and light
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Clay
+  literal_form: Clay as the material from which humans are created
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Rain and rivers
+  literal_form: Heaven sent abundant rain and rivers flowing under the feet of earlier
+    generations
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Written book on paper
+  literal_form: A book caused to descend, written on paper, and handled by hands
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Human-clothed angel
+  literal_form: An angelic messenger in the form of a man and clothed like humans
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: sym:6
+  label: Day of resurrection
+  literal_form: The day on which God will gather people together
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - resurrection
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Creation, cosmic order, and mortal terms
+  summary: God is praised as creator of heaven and earth, ordainer of darkness and
+    light, creator of humans from clay, and knower of hidden and public deeds.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rejection of signs and tangible revelation
+  summary: People reject signs and truth; even a written book descending on paper
+    and handled by them would be called sorcery by unbelievers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Destroyed prosperous generations
+  summary: Earlier generations, more established and prosperous with rain and rivers,
+    are destroyed in their sins and replaced by later generations.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: scene:4
+  label: Demand for an angelic sign
+  summary: Unbelievers demand that an angel be sent down; the passage says such a
+    sending would bring decreed judgment, and an angelic messenger would be made to
+    appear as a clothed man.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: scene:5
+  label: Mocked apostles and warning through the earth
+  summary: Earlier apostles were mocked, but judgment overtook the mockers; the addressed
+    audience is told to travel through the earth and behold the end of those who accused
+    prophets.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Divine ownership, mercy, and resurrection gathering
+  summary: God is declared owner of heaven and earth, self-prescribed as merciful,
+    and certain to gather people on the day of resurrection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Cosmic duality of darkness and light under divine ordination
+  taxonomy_refs:
+  - duality
+  basis: The passage pairs darkness and light and says God ordained both.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not present darkness and light as rival powers; the duality
+    is subordinate to one creator.
+- id: motif:2
+  label: Human creation from clay
+  taxonomy_refs: []
+  basis: Humans are explicitly described as created from clay, with life terms decreed
+    afterward.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names clay creation.
+- id: motif:3
+  label: Divine judgment on unbelieving or mocking peoples
+  taxonomy_refs:
+  - divine_judgment
+  basis: Earlier prosperous generations are destroyed in their sins; judgment overtakes
+    mockers; unbelievers are warned of consequences.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage gives a general warning and does not narrate a full destruction
+    episode in detail.
+- id: motif:4
+  label: Resurrection gathering
+  taxonomy_refs:
+  - resurrection
+  basis: God will surely gather people together on the day of resurrection; the note
+    also discusses a term between death and resurrection.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage states the gathering but does not describe the afterlife journey
+    or judgment scene in detail.
+- id: motif:5
+  label: Tangible revelation rejected as sorcery
+  taxonomy_refs: []
+  basis: Even if a book descended on paper and was handled by unbelievers, they would
+    call it manifest sorcery.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is framed as a hypothetical example rather than an enacted scene.
+- id: motif:6
+  label: Angelic messenger in human form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage says that, if an angel were appointed as messenger, he would
+    be sent in the form of a man and clothed like humans; the note mentions Gabriel
+    appearing to Mahommed in human form.
+  evidence_refs:
+  - ev:6
+  - ev:12
+  confidence: medium
+  cautions: The core verse is hypothetical, and the taxonomy label is approximate
+    because the passage emphasizes divine appointment and perceptible form rather
+    than an autonomous shapeshifting act.
+- id: motif:7
+  label: Travel through the earth to learn the fate of deniers
+  taxonomy_refs:
+  - wisdom
+  basis: The passage commands the audience to go through the earth and behold the
+    end of those who accused prophets of imposture.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives an imperative for observation and moral instruction,
+    not a developed quest narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself places the addressed messenger in the same recurring pattern
+    as earlier apostles who were mocked and whose mockers were overtaken by judgment.
+  claim_level: same_motif
+  target: Earlier apostles mocked by their communities and vindicated by judgment
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The earlier apostles are not named in this passage.
+- id: claim:2
+  claim: The translator's note links the destroyed earlier generations with ancient
+    potent tribes such as Ad and Thamud, supporting a cautious comparison to the Islamic
+    motif of former peoples destroyed after rejecting prophets.
+  claim_level: same_motif
+  target: Ad and Thamud / ancient destroyed tribes in Islamic tradition
+  evidence_refs:
+  - ev:4
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The verse itself does not name the tribes; the identification comes
+    from the note.
+- id: claim:3
+  claim: The translator's note compares the human-form angelic messenger idea with
+    Gabriel generally appearing to Mahommed in human form.
+  claim_level: same_function
+  target: Gabriel appearing to Mahommed in human form
+  evidence_refs:
+  - ev:6
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage's angel is hypothetical; the Gabriel comparison is supplied
+    by the translator's note rather than by the main verse text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14647-14649
+  quote_or_summary: God creates the heavens and the earth, ordains darkness and light,
+    while unbelievers equalize other gods with him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 14650-14653
+  quote_or_summary: God creates humans of clay, decrees the terms of their lives,
+    and knows what is secret, public, and deserved.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 14654-14657
+  quote_or_summary: Signs come from the Lord, but people turn away; they gainsay truth
+    and mock it, and a message will come concerning what they mocked.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 14658-14662
+  quote_or_summary: Many earlier generations were established in the earth, given
+    abundant rain and rivers, then destroyed in their sins and replaced by other generations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 14663-14665
+  quote_or_summary: If a book written on paper descended and unbelievers handled it,
+    they would still call it manifest sorcery.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 14666-14671
+  quote_or_summary: Unbelievers ask for an angel; the passage says an angelic sending
+    would decide the matter, and an angelic messenger would be sent in the form of
+    a clothed man.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 14672-14675
+  quote_or_summary: Other apostles before the addressed messenger were laughed to
+    scorn; judgment encompassed the mockers; the audience is told to travel through
+    the earth and see the end of those who accused prophets.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 14676-14679
+  quote_or_summary: Whatever is in heaven and earth belongs to God; God has prescribed
+    mercy to himself and will gather people on the day of resurrection; unbelievers
+    destroy their own souls.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 14690-14693
+  quote_or_summary: The translator's note explains the mocked truth as becoming evident
+    through punishment in this world and the next, or through the success of Mohammedism.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage note.
+- id: ev:10
+  type: summary
+  locator: lines 14687-14689
+  quote_or_summary: The translator's note says some interpret the terms as the span
+    between creation and death and the span between death and resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage note.
+- id: ev:11
+  type: summary
+  locator: lines 14694-14696
+  quote_or_summary: The translator's note says Mohammed seems to mean ancient and
+    potent tribes such as Ad and Thamud among the destroyed generations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage note.
+- id: ev:12
+  type: summary
+  locator: lines 14697-14703
+  quote_or_summary: The translator's notes explain that sending an angel would have
+    brought immediate condemnation, and that Gabriel generally appeared to Mahommed
+    in human form because his proper form was unbearable.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized from supplied passage note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main passage elements are explicit. Motif taxonomy mappings for resurrection
+    and divine judgment are strong; mappings for shapeshifter and wisdom are approximate
+    and need human review. Some comparison claims rely on translator's notes rather
+    than the main verse text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All claims are based only on the supplied passage and notes. No external taxonomy IDs beyond the supplied refs were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l14641-l14704
+  passage_sha256=cdd1cb4da7b151ed88a7e6539c2d334e7a14d53ce16da6fa65f698d5f6996e6b
+

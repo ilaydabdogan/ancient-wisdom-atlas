@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l25408-l25434
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XX. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 25408-25434
+  start: '25408'
+  end: '25434'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Translator/editor notes explain eschatological references: the resurrection,
+    the eruption of Gog and Magog as a sign, variant readings involving an elevated
+    place or a grave, hell punishment and exceptions for those favored by God, a recorder
+    or scroll of human deeds rolled up at death, a reported borrowing from Psalm 37:29,
+    and possible references to future Muslim success or the day of judgment.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note glosses a time reference as lasting until the resurrection and says
+    one sign of its approach will be the eruption of Gog and Magog, described as barbarians.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The note reports a variant reading: one word may mean an elevated part of
+    the earth, while another reading means a grave; under the grave reading, the pronoun
+    refers to mankind in general rather than to Gog and Magog.'
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note explains lack of hearing either by astonishment and unbearable torments
+    or by the absence of anything comforting.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note discusses a statement that worshippers and what they worship besides
+    God will be cast into hell, and says the revealed passage excepts those predestined
+    to salvation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note names Jesus, Ezra, and the angels as objects of idolatrous worship
+    who are described as being in the highest favor with God and not in danger of
+    damnation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note describes an office of writing down every person's actions and rolling
+    the record up as completed at that person's death.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'The note reports alternate interpretations of Sijil or Sijjill: as one of
+    Mohammed''s scribes or as an appellative meaning a book or written scroll.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The note says certain words are taken from Psalm 37:29.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'The note gives alternate explanations of a threat: future losses and disgraces
+    through Muslim success, or the day of judgment.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gog and Magog
+  description: A group whose eruption is described in the note as a sign of the approaching
+    resurrection; also a possible referent of a pronoun under one reading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: mankind in general
+  description: The possible referent of a pronoun if the variant reading meaning grave
+    is followed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: worshippers besides God
+  description: Those addressed in the cited statement as worshipping besides God and
+    being cast into hell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: objects of worship besides God
+  description: Things or beings worshipped besides God; the note discusses whether
+    the general statement about their being cast into hell applies to all such objects.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Jesus
+  description: Named as an object of idolatrous worship who is in the highest favor
+    with God and not in danger of damnation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ezra
+  description: Named as an object of idolatrous worship who is in the highest favor
+    with God and not in danger of damnation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: the angels
+  description: Named as objects of idolatrous worship who are in the highest favor
+    with God and not in danger of damnation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: those predestined to salvation
+  description: The group excepted from the statement about being cast into hell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Sijil or Sijjill / recorder of actions
+  description: A named term interpreted either as a figure whose office is to write
+    down every person's actions or as a book or written scroll.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Moslems
+  description: A group whose future successes are offered as one explanation of the
+    threatened losses and disgraces.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: apocalyptic sign group
+  assigned_to:
+  - fig:1
+  basis: Their eruption is described as one sign of the approach of the resurrection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: possible general human referent
+  assigned_to:
+  - fig:2
+  basis: Under the reading that signifies a grave, the pronoun is said to refer to
+    mankind in general.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hell-condemned worshipper or worshipped object
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The cited statement says worshippers and what they worship besides God shall
+    be cast into hell, though the note discusses exceptions.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: salvation-exempt or divinely favored figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Jesus, Ezra, and the angels are described as in God's highest favor, and
+    the revealed passage is said to except those predestined to salvation.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recorder of deeds
+  assigned_to:
+  - fig:9
+  basis: The note describes an office of writing down every person's actions and rolling
+    the record up at death.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: future victorious community
+  assigned_to:
+  - fig:10
+  basis: Future successes of the Moslems are offered as one explanation of losses
+    and disgraces suffered by others.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hell
+  literal_form: hell
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: grave
+  literal_form: jadathin, a word glossed as signifying a grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: written scroll or book
+  literal_form: Sijil/Sijjill interpreted as a book or written scroll rolled up
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: record of life actions
+  literal_form: actions of every man's life written down and rolled up at death
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Signs before resurrection
+  summary: The note identifies the resurrection as the endpoint of a period and says
+    the eruption of Gog and Magog will be a sign of its approach.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Variant reading of elevated place or grave
+  summary: A textual variant changes the image from an elevated part of the earth
+    to a grave and changes the possible referent from Gog and Magog to mankind in
+    general.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hell punishment and exception
+  summary: The note discusses a statement that worshippers and their objects of worship
+    besides God are cast into hell, while favored figures and those predestined to
+    salvation are excepted.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Life record closed at death
+  summary: A recorder writes down each person's actions and rolls the completed record
+    up at death; alternatively, the relevant term may itself mean a written scroll.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Threat explained as defeat or judgment
+  summary: A note explains a threatened event either as losses and disgraces caused
+    by future Muslim successes or as the day of judgment.
+  figure_refs:
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: resurrection approached by apocalyptic signs
+  taxonomy_refs:
+  - resurrection
+  basis: The note explicitly refers to the resurrection and identifies the eruption
+    of Gog and Magog as a sign of its approach.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a translator's note rather than the main translated verse
+    text.
+- id: motif:2
+  label: Gog and Magog eruption as eschatological sign
+  taxonomy_refs: []
+  basis: Gog and Magog are described as barbarians whose eruption signals the approach
+    of the resurrection.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader Gog and Magog narrative is included in this line range.
+- id: motif:3
+  label: divine judgment through hell punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note discusses beings cast into hell, unbearable torments, absence of
+    comfort, and an alternate reference to the day of judgment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The note also records exegetical disagreement and exceptions to the general
+    statement.
+- id: motif:4
+  label: predestined salvation from general condemnation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note says the passage excepts those predestined to salvation, naming
+    figures who are in God's highest favor and not in danger of damnation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The mechanism and scope of predestination are not explained in the passage.
+- id: motif:5
+  label: book or scroll of deeds closed at death
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note describes an office of recording every person's actions and rolling
+    up the completed record at death; it also interprets Sijil/Sijjill as a book or
+    written scroll.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives alternate interpretations of Sijil/Sijjill, so the personal
+    recorder and the scroll reading should not be collapsed without review.
+comparison_claims:
+- id: claim:1
+  claim: The note reports that certain words in the passage are taken from Psalm 37:29,
+    indicating a claimed textual parallel with the Psalms.
+  claim_level: linguistic_similarity
+  target: Psalm xxxvii. v. 29
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The line range includes only the note's assertion and does not provide
+    the compared wording itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25408-25409
+  quote_or_summary: A note glosses the time as until the resurrection and states that
+    one sign of its approach will be the eruption of Gog and Magog, described as barbarians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 25410-25414
+  quote_or_summary: 'A note reports variant readings: hadabin as an elevated part
+    of the earth, or jadathin as a grave; with the latter, the pronoun refers to mankind
+    in general rather than Gog and Magog.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 25415-25417
+  quote_or_summary: A note explains that some will not hear because of astonishment
+    and insupportable torments, or because they hear nothing that gives comfort.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 25418-25424
+  quote_or_summary: A note discusses an objection to the statement that worshippers
+    and what they worship besides God shall be cast into hell; Jesus, Ezra, and angels
+    are given as exceptions favored by God, and those predestined to salvation are
+    excepted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 25425-25430
+  quote_or_summary: A note describes an office of writing down every person's life
+    actions and rolling the completed record up at death; it also says some interpret
+    Sijil/Sijjill as a scribe, while others read it as a book or written scroll.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: citation
+  locator: line 25431
+  quote_or_summary: The note states that the words are taken from Psalm 37:29.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; citation/summary used.
+- id: ev:7
+  type: summary
+  locator: lines 25432-25434
+  quote_or_summary: A note glosses one phrase as public declaration of a command and
+    another as either future losses through Muslim successes or the day of judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of translator/editor notes and variant exegetical explanations,
+    not a continuous narrative. Motif extraction is strongest for explicitly named
+    eschatological themes and weaker where the note preserves alternative interpretations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include hell, grave, scroll, or deed-record imagery.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l25408-l25434
+  passage_sha256=8e832a9be381d4b194f799b329d81e0d6b4ee6686146d52f8299dd56cbc695e1
+

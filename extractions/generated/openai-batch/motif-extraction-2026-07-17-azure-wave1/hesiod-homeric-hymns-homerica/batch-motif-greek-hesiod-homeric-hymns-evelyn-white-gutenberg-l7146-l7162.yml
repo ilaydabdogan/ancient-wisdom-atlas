@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7146-l7162
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XIV. TO THE MOTHER OF THE GODS / XV. TO HERACLES THE LION-HEARTED / XVI.
+    TO ASCLEPIUS / XVII. TO THE DIOSCURI; lines 7146-7162
+  start: '7146'
+  end: '7162'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains two short hymns. The first invokes Asclepius as Apollo’s
+    son, healer of sicknesses, born to Coronis in the Dotian plain, and ends with
+    a prayer. The second asks the Muse to sing of Castor and Polydeuces, the Tyndaridae,
+    born by Leda beneath Taygetus after Zeus came to her, and hails them as children
+    of Tyndareus and swift horsemen.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker begins to sing of Asclepius.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Asclepius is identified as the son of Apollo and as a healer of sicknesses.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Coronis, daughter of King Phlegyas, bore Asclepius in the Dotian plain.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Asclepius is described as a great joy to men and a soother of cruel pangs.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The speaker hails Asclepius as lord and makes a prayer to him in song.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A clear-voiced Muse is asked to sing of Castor and Polydeuces.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Castor and Polydeuces are called the Tyndaridae and are said to have sprung
+    from Olympian Zeus.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Leda bore Castor and Polydeuces beneath the heights of Taygetus after Zeus
+    had privately bent her to his will.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Castor and Polydeuces are hailed as children of Tyndareus and riders upon
+    swift horses.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Asclepius
+  description: Son of Apollo, healer of sicknesses, born to Coronis in the Dotian
+    plain, and described as a joy to men and soother of cruel pangs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Apollo
+  description: Named as the father of Asclepius.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Coronis
+  description: Fair Coronis, daughter of King Phlegyas, bore Asclepius in the Dotian
+    plain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: King Phlegyas
+  description: King Phlegyas is named as the father of Coronis.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Castor and Polydeuces
+  description: The paired Tyndaridae, said to have sprung from Olympian Zeus, born
+    by Leda beneath Taygetus, hailed as children of Tyndareus and riders upon swift
+    horses.
+  role_refs:
+  - role:3
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Muse
+  description: A clear-voiced Muse is invoked to sing of Castor and Polydeuces.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Olympian Zeus / dark-clouded Son of Cronos
+  description: Zeus is said to be the source from whom Castor and Polydeuces sprang
+    and to have privately bent Leda to his will.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Leda
+  description: Stately Leda bore Castor and Polydeuces beneath the heights of Taygetus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Tyndareus
+  description: Castor and Polydeuces are called Tyndaridae and children of Tyndareus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hymn addressee
+  assigned_to:
+  - fig:1
+  basis: The hymn begins by singing of Asclepius and ends by hailing him and praying
+    to him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: healer and soother
+  assigned_to:
+  - fig:1
+  basis: Asclepius is called a healer of sicknesses and a soother of cruel pangs.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine offspring
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Asclepius is called son of Apollo, and Castor and Polydeuces are said to
+    have sprung from Olympian Zeus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: divine male parent
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Apollo is named as Asclepius’s father; Zeus is named in relation to the origin
+    of Castor and Polydeuces.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: mother who bears the child or pair
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: Coronis bears Asclepius, and Leda bears Castor and Polydeuces.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: named mortal lineage figure
+  assigned_to:
+  - fig:4
+  - fig:9
+  basis: Phlegyas is named as Coronis’s royal father; Tyndareus is linked by the names
+    Tyndaridae and children of Tyndareus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:7
+  label: paired divine heroes
+  assigned_to:
+  - fig:5
+  basis: Castor and Polydeuces are presented together as the Dioscuri/Tyndaridae and
+    as offspring of Zeus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: horse riders
+  assigned_to:
+  - fig:5
+  basis: They are hailed as riders upon swift horses.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: invoked Muse
+  assigned_to:
+  - fig:6
+  basis: The hymn addresses a clear-voiced Muse to sing of Castor and Polydeuces.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Dotian plain
+  literal_form: plain / birthplace setting
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sicknesses and cruel pangs
+  literal_form: afflictions soothed by the healer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: heights of Taygetus
+  literal_form: mountain heights beneath which Leda bore the pair
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: swift horses
+  literal_form: horses ridden by Castor and Polydeuces
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hymnic song and prayer
+  literal_form: song, hail, and prayer addressed to a deity
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Invocation and birth of Asclepius
+  summary: The hymn invokes Asclepius, identifies him as Apollo’s son and healer of
+    sicknesses, recalls his birth from Coronis in the Dotian plain, and ends with
+    a hail and prayer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invocation and birth of the Dioscuri
+  summary: The hymn calls on the Muse to sing of Castor and Polydeuces, presents them
+    as a pair sprung from Zeus and born by Leda beneath Taygetus, and hails them as
+    children of Tyndareus and swift horsemen.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine healer born from named parents
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Asclepius is identified as Apollo’s son, born to Coronis, and described as
+    healer and soother of human pain.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states parentage and healing attributes but gives no extended
+    healing episode.
+- id: motif:2
+  label: hymnic prayer to a healing lord
+  taxonomy_refs: []
+  basis: The speaker hails Asclepius as lord and makes a prayer to him in song after
+    naming his healing powers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a brief hymnic formula rather than a narrative motif.
+- id: motif:3
+  label: paired divine offspring born from Zeus and Leda
+  taxonomy_refs:
+  - sacred_twins
+  - sibling_pair
+  - divine_parent_child
+  basis: Castor and Polydeuces are presented together, said to have sprung from Olympian
+    Zeus, and born by Leda beneath Taygetus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a paired birth but does not explicitly use the English
+    word 'twins'; it also calls them Tyndaridae and children of Tyndareus.
+- id: motif:4
+  label: horse-riding heroic pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: Castor and Polydeuces are hailed together as children of Tyndareus and riders
+    upon swift horses.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the riding attribute but no horse-related action beyond
+    the epithet.
+- id: motif:5
+  label: divine encounter leading to sacred birth
+  taxonomy_refs:
+  - sacred_birth
+  - divine_parent_child
+  basis: The hymn says Leda bore Castor and Polydeuces after Zeus had privately bent
+    her to his will.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The brief wording supports divine parentage and birth but does not elaborate
+    the circumstances.
+comparison_claims:
+- id: claim:1
+  claim: The Asclepius hymn fits a divine-parent-child pattern because Asclepius is
+    named as Apollo’s son and is given a specialized beneficent role as healer.
+  claim_level: same_motif
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage is very short and contains no extended mythic narrative
+    beyond parentage, birth, and attributes.
+- id: claim:2
+  claim: The Dioscuri hymn can be cautiously aligned with sacred-twin or sibling-pair
+    patterns because Castor and Polydeuces are presented together with shared divine
+    origin and shared birth by Leda.
+  claim_level: same_motif
+  target: sacred_twins / sibling_pair motif families
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage does not explicitly say 'twins' in English and also preserves
+    the title 'children of Tyndareus,' which complicates a simple Zeus-only parentage
+    reading.
+evidence:
+- id: ev:1
+  type: summary
+  locator: XVI. TO ASCLEPIUS, ll. 1-4 / supplied lines 7146-7150
+  quote_or_summary: Asclepius is introduced as Apollo’s son and healer of sicknesses;
+    Coronis, daughter of King Phlegyas, bore him in the Dotian plain; he is a joy
+    to men and soother of cruel pangs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: XVI. TO ASCLEPIUS, l. 5 / supplied lines 7152-7153
+  quote_or_summary: '"hail to you, lord: in my song I make my prayer to thee"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: XVII. TO THE DIOSCURI, ll. 1-4 / supplied lines 7155-7160
+  quote_or_summary: The Muse is asked to sing of Castor and Polydeuces, the Tyndaridae,
+    who sprang from Olympian Zeus; Leda bore them beneath Taygetus after Zeus privately
+    bent her to his will.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: XVII. TO THE DIOSCURI, l. 5 / supplied line 7162
+  quote_or_summary: '"Hail, children of Tyndareus, riders upon swift horses!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif confidence is lower where standard
+    Dioscuri/twin interpretation exceeds the short passage or where dual parentage
+    language appears.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The broader locator label mentions Hymns XIV-XVII, but the supplied passage text contains Hymns XVI-XVII only.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7146-l7162
+  passage_sha256=e7b7003b7e3cac0a298901d2ff3c352cf1680c638d0ebd6108c5c5b300add213
+

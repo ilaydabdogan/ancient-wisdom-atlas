@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l23498-l23564
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 23498-23564
+  start: '23498'
+  end: '23564'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Whosoever wishes to go to heaven with me must creep into the sack.”"
+  summary: After the count learns how the master thief escaped the previous trap,
+    he requires a third task. At night the thief stages a false Last Day in the churchyard
+    with candle-bearing crabs, disguises himself as a monk-like heavenly gatekeeper,
+    tricks the parson and clerk into a sack, drags them while narrating a journey
+    to heaven, locks them in a pigeon-house, and thereby wins his wager before being
+    banished from the count’s land.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The count receives the sheet and ring, asks whether the master is a wizard,
+    and asks who brought him out of the grave and to life again.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The thief says the count did not bury him but instead buried the poor sinner
+    from the gallows, and he recounts how the exchange happened.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The count admits the thief is clever and crafty, but says he must still perform
+    a third task or all previous success is useless.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At night the master goes to the village church with a long sack, a bundle,
+    and a lantern; the sack contains crabs and the bundle contains short wax-candles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the churchyard he fixes lit wax-candles onto crabs and lets the crabs creep
+    about until the sack is empty.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: He puts on a long black garment like a monk’s cowl, attaches a gray beard
+    to his chin, becomes unrecognizable, enters the church, and ascends the pulpit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: At midnight he cries from the pulpit that the end of all things has come,
+    claims to be Peter who opens and shuts heaven’s gate, says the dead in the churchyard
+    are gathering their bones, and calls hearers to creep into the sack because the
+    world is about to be destroyed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The parson and clerk hear the cry, see moving lights in the churchyard, listen
+    in the church, and agree to use the opportunity to find an easy way to heaven
+    before the Last Day dawns.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The parson enters the sack first, the clerk follows, and the master immediately
+    ties the sack tightly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: While dragging the sack down steps, through the village, through puddles,
+    and up castle steps, the master says they are going over mountains, through wet
+    clouds, and onto the steps of heaven.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: At the top of the castle, he pushes the sack into the pigeon-house, says the
+    fluttering pigeons are glad angels flapping their wings, bolts the door, and leaves.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The next morning the master tells the count he has carried the parson and
+    clerk out of the church; the count finds them in the pigeon-house believing they
+    are in heaven, frees them, names the thief an arch-thief, declares the wager won,
+    and banishes him from the land.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the master thief / arch-thief
+  description: The thief who explains the earlier burial substitution, prepares the
+    crab-and-candle display, disguises himself, speaks from the pulpit, traps the
+    parson and clerk, and wins the wager.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the count / lord
+  description: The nobleman who questions the thief, sets the third task, verifies
+    the result, frees the trapped clerics, declares the wager won, and orders the
+    thief to leave his land.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: the parson / pastor
+  description: A church official who hears the false sermon, enters the sack first,
+    is carried away, and is later found in the pigeon-house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: the clerk
+  description: A church clerk who hears the false sermon, follows the parson into
+    the sack, is carried away, and is later found in the pigeon-house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: pigeons
+  description: Birds in the pigeon-house whose fluttering is described by the thief
+    as the flapping wings of glad angels.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: clever crafty thief and wager-winner
+  assigned_to:
+  - fig:1
+  basis: The count calls him clever and crafty after the previous trick, and later
+    calls him an arch-thief who has won the wager.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: impersonator of Peter and heavenly gatekeeper
+  assigned_to:
+  - fig:1
+  basis: After disguising himself, he announces from the pulpit that he is Peter who
+    opens and shuts the gate of heaven.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: task setter and judge
+  assigned_to:
+  - fig:2
+  basis: The count imposes the third task and later verifies the result before declaring
+    the wager won.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: deceived entrants into the sack
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The parson and clerk agree to seek an easy way to heaven, enter the sack,
+    and are later found imagining they are in heaven.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: ordinary birds presented as angels
+  assigned_to:
+  - fig:5
+  basis: The pigeons flutter in the pigeon-house, and the thief tells the captives
+    that the sound is angels flapping their wings.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sack as conveyance and prison
+  literal_form: Long sack carried by the master, opened for the parson and clerk,
+    tied tightly around them, dragged to the castle, and left in the pigeon-house.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: candle-bearing crabs
+  literal_form: Crabs with short wax-candles fixed to their backs and lit in the churchyard.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: monk-like disguise and gray beard
+  literal_form: A long black garment like a monk’s cowl and a gray beard attached
+    to the thief’s chin.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: churchyard and church at midnight
+  literal_form: Village churchyard and church where the candle-lit crabs move and
+    the disguised thief speaks from the pulpit at twelve.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: pulpit
+  literal_form: Church pulpit used by the disguised thief for the false sermon and
+    for receiving the parson and clerk into the sack.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: mountains as spoken stage of the journey
+  literal_form: The thief calls the bumps down the pulpit-steps a passage over mountains.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: wet clouds as spoken stage of the journey
+  literal_form: Puddles through which the sack is dragged are described by the thief
+    as wet clouds.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: pigeon-house as supposed heaven
+  literal_form: The castle pigeon-house where the sack is placed; the captives later
+    imagine they are in heaven.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:9
+  label: gate of heaven
+  literal_form: The gate of heaven named in the thief’s proclamation when he claims
+    to be Peter who opens and shuts it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Count questions the apparent escape from the grave
+  summary: The count reacts to the returned sheet and ring, asks whether the master
+    is a wizard, hears that he buried the wrong man, acknowledges the thief’s craftiness,
+    and imposes a third task.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night preparation in the churchyard
+  summary: The master brings a sack of crabs, wax-candles, and a lantern to the churchyard,
+    creates moving candle-lights on the crabs, and puts on a monk-like disguise with
+    a gray beard.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: False midnight sermon of the Last Day
+  summary: At midnight the disguised thief speaks from the pulpit, claims to be Peter,
+    invokes the gate of heaven, the wandering dead, and the destruction of the world,
+    and calls people into the sack.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Parson and clerk enter the sack
+  summary: The parson and clerk hear the cry, see the moving lights, decide to seek
+    an easy route to heaven, climb into the sack, and are tied inside.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Dragged journey to the pigeon-house
+  summary: The thief drags the sack through a route he verbally recasts as mountains,
+    wet clouds, and the steps of heaven, then locks the sack in the pigeon-house and
+    calls the fluttering pigeons angels.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Verification, release, and banishment
+  summary: The master reports success; the count verifies that the parson and clerk
+    are in the pigeon-house imagining heaven, frees them, declares the thief an arch-thief
+    who has won the wager, and banishes him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: trickster exploits sacred and social thresholds
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The thief uses churchyard, pulpit, clerical trust, the language of heaven,
+    and the castle pigeon-house to move victims across boundaries while completing
+    the count’s task.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents a comic deception by a thief, not a divine or genuinely
+    supernatural crossing.
+- id: motif:2
+  label: staged afterlife ascent in a sack
+  taxonomy_refs:
+  - afterlife_journey_map
+  - ascent
+  basis: The parson and clerk are carried in a sack while the thief narrates a route
+    through mountains, clouds, heaven’s steps, and angelic wings, ending in a place
+    they think is heaven.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The journey is only a verbal and physical trick; the actual route is through
+    the village and into a pigeon-house.
+- id: motif:3
+  label: false Last Day proclamation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The disguised thief announces the end of all things, the Last Day, wandering
+    dead, the gate of heaven, and the destruction of the world to induce the parson
+    and clerk to enter the sack.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The divine judgment language occurs inside a fraudulent sermon, not as
+    an actual eschatological event in the narrative.
+- id: motif:4
+  label: clever thief completes imposed task and wins wager
+  taxonomy_refs: []
+  basis: The count sets a third task; the thief carries the parson and clerk out of
+    the church, the count verifies it, and the thief is declared an arch-thief who
+    has won the wager.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family precisely names the clever-thief wager pattern.
+comparison_claims:
+- id: claim:1
+  claim: 'The sack episode has the same narrative function as a deceptive afterlife-journey
+    map: victims are moved through named stages toward an imagined heaven.'
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The passage explicitly reveals that the destination is a pigeon-house
+    and that the heavenly journey is fabricated by the thief.
+- id: claim:2
+  claim: The episode fits a trickster-boundary pattern in which a deceiver manipulates
+    liminal settings and roles, including churchyard, pulpit, dead, heaven’s gate,
+    clerics, and castle space.
+  claim_level: same_function
+  target: trickster_boundary
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to motif-function comparison; the passage itself
+    does not establish historical contact with other traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23498-23506
+  quote_or_summary: The count receives the sheet and ring, asks how the master came
+    out of the grave and back to life, hears that the wrong person was buried, admits
+    the thief is clever and crafty, and imposes a third task.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 23506-23519
+  quote_or_summary: At night the master goes to the village church with a sack of
+    crabs, wax-candles, and a lantern; he fastens lit candles to crabs in the churchyard
+    and disguises himself in a black monk-like garment and gray beard before entering
+    the pulpit.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 23519-23532
+  quote_or_summary: At midnight the disguised thief proclaims the end of all things
+    and the Last Day, claims to be Peter who opens and shuts heaven’s gate, refers
+    to the dead outside collecting bones, and calls people into the sack before the
+    world is destroyed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23532-23542
+  quote_or_summary: The parson and clerk hear the cry, see the moving lights, decide
+    to take an easy way to heaven, and enter the sack, which the master ties shut.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 23542-23553
+  quote_or_summary: The master drags the tied sack down the pulpit steps, through
+    the village and puddles, and up the castle steps, calling these stages mountains,
+    wet clouds, and heaven’s steps; he pushes the sack into the pigeon-house, calls
+    the fluttering pigeons angels, bolts the door, and leaves.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 23554-23564
+  quote_or_summary: The next morning the master reports the completed third task;
+    the count finds the parson and clerk in a sack in the pigeon-house imagining they
+    are in heaven, frees them, declares the thief an arch-thief who has won the wager,
+    and banishes him from the land.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions and figures are explicit. Motif mapping is strongest for
+    trickster deception and weaker where sacred or afterlife language is only part
+    of the thief’s fraud.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to the provided motif and symbol lists.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l23498-l23564
+  passage_sha256=4885ccd82b52ab6d4c17c7c4f467ffb0084e20f8fcb4eecc7fa52d6564283a25
+

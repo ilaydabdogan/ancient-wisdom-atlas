@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.greek-argonautica-seaton-gutenberg-l1756-l1841
+source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+passage_locator:
+  label: INTRODUCTION / THE ARGONAUTICA / BOOK I / BOOK II; lines 1756-1841
+  start: '1756'
+  end: '1841'
+  translation: The Argonautica
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Not everything is it lawful for you to know clearly...”"
+  summary: The Argonauts aid Phineus against the Harpies. Zetes and Calais pursue
+    the Harpies until Iris stops them and swears by Styx that the Harpies will not
+    return to Phineus. The Argonauts cleanse Phineus, sacrifice sheep, feast, and
+    hear his guarded prophecy about the clashing Cyanean rocks, a dove-omen test,
+    and the route toward Pontus, Acherusia, Acheron, and the abode of Hades.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The younger heroes prepare food for Phineus as bait, while two heroes stand
+    ready with swords against the Harpies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Harpies descend suddenly from the clouds, devour all the food, depart
+    over the sea, and leave an intolerable stench.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Zetes and Calais, the sons of Boreas, pursue the Harpies with swords and nearly
+    overtake them at the Floating Islands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Iris descends from heaven and forbids the sons of Boreas to strike the Harpies,
+    calling them the hounds of Zeus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Iris swears by the waters of Styx that the Harpies will not again approach
+    Phineus' home, and the pursuing heroes return to the ship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the Harpies are driven away, the chiefs cleanse Phineus, sacrifice sheep,
+    prepare a supper, and feast with him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Phineus says that not everything is lawful for the heroes to know clearly,
+    and explains that Zeus wants prophetic utterances delivered incompletely to humans.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Phineus describes the twin Cyanean rocks as clashing together where two seas
+    meet, with boiling salt water rising and striking the beach.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Phineus instructs the heroes to send a dove ahead between the rocks; if it
+    escapes, they should row through, but if it dies, they should turn back.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Phineus maps the later route by Bithynia, Rhebas, Thynias, Mariandyni, Acherusia,
+    Acheron, and a downward path to the abode of Hades.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Phineus, son of Agenor
+  description: An aged man who has been tormented by the Harpies and later gives prophetic
+    route instructions to the heroes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Younger heroes / chiefs / Argonauts
+  description: The heroes who prepare the bait-feast, cleanse Phineus, sacrifice sheep,
+    feast with him, and receive his sailing instructions.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Zetes and Calais, sons of Boreas
+  description: Two winged or swift pursuing heroes who chase the Harpies with swords
+    and are stopped by Iris.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Harpies
+  description: Flying beings who descend from the clouds, consume Phineus' food, leave
+    a stench, flee over the sea, and are called the hounds of Zeus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Iris
+  description: A swift divine figure who descends from heaven, forbids the sons of
+    Boreas to strike the Harpies, and swears an oath by Styx.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Zeus
+  description: The divine authority whose will governs the pursuit and whose prophetic
+    utterances to humans are incomplete.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: rescued sufferer
+  assigned_to:
+  - fig:1
+  basis: Phineus' food is repeatedly taken by the Harpies, and the heroes act to stop
+    their return.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: prophetic guide
+  assigned_to:
+  - fig:1
+  basis: Phineus tells the heroes about the end of their voyage, the Cyanean rocks,
+    the dove test, and the route onward.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: rescuing hosts and sacrificers
+  assigned_to:
+  - fig:2
+  basis: The chiefs cleanse Phineus, sacrifice sheep, prepare supper, and feast with
+    him after the Harpies are driven away.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: questing sailors
+  assigned_to:
+  - fig:2
+  basis: Phineus gives them instructions for navigating the clashing rocks and the
+    route into Pontus.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: pursuers of the Harpies
+  assigned_to:
+  - fig:3
+  basis: Zetes and Calais chase the Harpies with swords and nearly overtake them before
+    Iris intervenes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: tormenting food-snatchers and divine hounds
+  assigned_to:
+  - fig:4
+  basis: The Harpies devour Phineus' food and are named by Iris as the hounds of mighty
+    Zeus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:7
+  label: divine oath-giver and restrainer
+  assigned_to:
+  - fig:5
+  basis: Iris stops the sons of Boreas from striking the Harpies and swears by Styx
+    that they will not return to Phineus.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: divine authority over fate and prophecy
+  assigned_to:
+  - fig:6
+  basis: Zeus grants tireless strength for the pursuit, owns the Harpies as his hounds,
+    and wills that prophetic art remain incomplete for humans.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: sword
+  literal_form: Swords raised by the heroes against the Harpies.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: waters of Styx
+  literal_form: The waters of Styx invoked by Iris as the most dread oath for the
+    gods.
+  associated_figures:
+  - fig:5
+  - fig:4
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dove test
+  literal_form: A dove sent ahead from the ship to test passage between the clashing
+    rocks.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: twin Cyanean rocks
+  literal_form: Two moving rocks that clash together where two seas meet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: boiling salt water
+  literal_form: A crest of salt water rising and boiling above the clashing rocks.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Acheron and the path to Hades
+  literal_form: A downward path to the abode of Hades near Acherusia, with Acheron
+    cutting through a ravine.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: sacrificed sheep
+  literal_form: Sheep sacrificed by the chiefs after Phineus is cleansed.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bait-feast and Harpy attack
+  summary: The heroes set food before Phineus and prepare to strike the Harpies; the
+    Harpies descend from the clouds, consume the food, flee over the sea, and leave
+    a stench.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pursuit and Iris' oath
+  summary: Zetes and Calais pursue the Harpies to the Floating Islands, but Iris descends,
+    forbids violence against Zeus' hounds, and swears by Styx that the Harpies will
+    not return to Phineus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cleansing, sacrifice, and feast
+  summary: The chiefs cleanse Phineus, sacrifice sheep, prepare a large supper, and
+    feast with him while waiting through the night for the sons of Boreas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Guarded prophecy about the clashing rocks
+  summary: Phineus explains that divine knowledge is not fully lawful to disclose,
+    then describes the Cyanean rocks and instructs the heroes to use a dove as an
+    omen before attempting the passage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Route toward Pontus and underworld geography
+  summary: Phineus tells the heroes how to proceed after the rocks, naming Bithynia,
+    Rhebas, Thynias, the Mariandyni, Acherusia, Acheron, and the downward path to
+    Hades.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Oath-secured release from tormenting beings
+  taxonomy_refs: []
+  basis: The heroes help Phineus because of an oath, and Iris' oath by Styx prevents
+    the Harpies from returning to him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage supplies the oath and rescue pattern, but no broader taxonomy
+    reference is assigned.
+- id: motif:2
+  label: Restricted prophecy and incomplete divine knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  - wisdom
+  basis: Phineus says not everything is lawful to know clearly and that Zeus wants
+    prophetic utterances delivered incompletely to humans.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage concerns partial disclosure of divine prophecy rather than
+    a theft or transgression of knowledge in this scene.
+- id: motif:3
+  label: Animal omen before a perilous threshold
+  taxonomy_refs: []
+  basis: Phineus instructs the heroes to send a dove between the clashing rocks; the
+    dove's survival or death determines whether they proceed or turn back.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The omen is explicitly practical navigation advice; broader ritual or
+    initiatory meaning is not stated.
+- id: motif:4
+  label: Clashing rocks as a lethal sea passage
+  taxonomy_refs: []
+  basis: The twin Cyanean rocks continually clash where two seas meet, with boiling
+    salt water, and threaten the ship unless the omen is favorable and the heroes
+    row strongly.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No taxonomy family is assigned because the passage presents the rocks
+    as a geographical peril and threshold without further symbolic explanation.
+- id: motif:5
+  label: Underworld route marker within a voyage map
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Phineus' route includes a downward path to the abode of Hades, the headland
+    of Acherusia, and the river Acheron flowing through a ravine.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The heroes are told to sail past this geography; the passage does not
+    narrate an actual descent into Hades.
+- id: motif:6
+  label: Sacrifice and feast after deliverance
+  taxonomy_refs:
+  - sacrifice
+  basis: After Phineus is freed from the Harpies' return, the chiefs cleanse him,
+    sacrifice sheep, and share a feast.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the sacrifice plainly but does not elaborate its ritual
+    theology.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1756-1768
+  quote_or_summary: The heroes prepare a feast for the aged man as the Harpies' last
+    prey; the Harpies descend from the clouds, devour everything, flee over the sea,
+    and leave a stench.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1769-1782
+  quote_or_summary: The sons of Boreas pursue the Harpies with Zeus-given strength
+    and nearly reach them at the Floating Islands.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1782-1800
+  quote_or_summary: Iris descends from heaven, says it is not lawful to strike the
+    Harpies, calls them the hounds of Zeus, and swears by Styx that they will not
+    again approach Phineus' home.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1801-1811
+  quote_or_summary: The chiefs cleanse Phineus, sacrifice sheep from Amycus' spoil,
+    prepare a supper, feast with Phineus, and keep watch for the sons of Boreas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1812-1820
+  quote_or_summary: "“Not everything is it lawful for you to know clearly”; Zeus wishes
+    to deliver prophetic utterances to humans incomplete."
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 1821-1828
+  quote_or_summary: Phineus says the heroes will see the twin Cyanean rocks where
+    two seas meet; the rocks are not fixed, clash together, and throw up boiling salt
+    water.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1829-1838
+  quote_or_summary: Phineus tells the heroes to send a dove from the ship; if it passes
+    safely, they should row through the narrow strait, but if it dies midway, they
+    should turn back.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1839-1841 and continuation in supplied passage
+  quote_or_summary: Phineus directs the route by Bithynia, Rhebas, Thynias, and Mariandyni,
+    and identifies a downward path to Hades near Acherusia and the river Acheron flowing
+    through a ravine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level and require human review, especially taxonomy assignments
+    for restricted prophecy and underworld-route geography. No explicit cross-text
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Comparison claims left empty because the passage does not itself make a comparative claim to another text or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:greek-argonautica-seaton-gutenberg__l1756-l1841
+  passage_sha256=5c1218e2b13bade4cec0677c97c52aee4c41c94aa6d1b757ac2883bfca21c65f
+

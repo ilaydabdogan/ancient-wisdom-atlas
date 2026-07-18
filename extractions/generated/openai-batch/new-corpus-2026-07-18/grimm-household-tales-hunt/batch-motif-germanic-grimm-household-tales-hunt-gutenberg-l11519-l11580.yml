@@ -1,0 +1,497 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l11519-l11580
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 11519-11580
+  start: '11519'
+  end: '11580'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: St. Peter and Brother Lustig cross a stream that St. Peter causes to flow
+    across their path; as Brother Lustig is endangered by the rising water, St. Peter
+    asks him to confess that he ate the lamb's heart and then helps him through. They
+    come to a kingdom where the princess has died. St. Peter privately restores her
+    to life by boiling her limbs, arranging her bones, and invoking the holy Trinity
+    three times. The King offers a reward, which St. Peter refuses, but Brother Lustig
+    receives a knapsack of gold. In a forest, St. Peter divides the gold into three
+    shares, naming the third for the one who ate the lamb's heart; Brother Lustig
+    confesses and takes the gold, after which St. Peter leaves him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: St. Peter causes a great stream of water to flow across the path, requiring
+    the travelers to pass through it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: St. Peter crosses the stream with the water reaching only to his knee, while
+    Brother Lustig's crossing becomes progressively deeper, reaching his throat and
+    mouth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: While Brother Lustig is endangered in the water, St. Peter repeatedly asks
+    whether he will confess to eating the lamb's heart, and afterward makes the water
+    sink and helps him through.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The travelers hear in a kingdom that the King's daughter is first sick unto
+    death and then dead.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: St. Peter states that he can bring dead people to life again.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At the royal palace, St. Peter asks for a kettle and water and sends everyone
+    out except Brother Lustig.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: St. Peter cuts off the dead girl's limbs, boils them, removes the bones after
+    the flesh falls away, and arranges the bones in natural order.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: St. Peter says an invocation in the name of the holy Trinity three times,
+    and at the third time the princess rises living, healthy, and beautiful.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The King offers St. Peter a reward, even half the kingdom; St. Peter refuses,
+    while Brother Lustig wants something, and the King's treasurer fills Brother Lustig's
+    knapsack with gold.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: 'In a forest, St. Peter divides the gold into three heaps: one for himself,
+    one for Brother Lustig, and one for the person who ate the lamb''s heart.'
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Brother Lustig says that he ate the lamb's heart and takes up the gold.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: St. Peter questions Brother Lustig's statement by saying a lamb has no heart,
+    then lets him keep the gold but says he will no longer stay with him.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: St. Peter
+  description: Named traveling companion of Brother Lustig who controls the stream,
+    questions Brother Lustig, restores the princess to life, refuses the King's reward,
+    divides the gold, and departs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Brother Lustig / the soldier
+  description: Traveling companion of St. Peter who denies eating the lamb's heart
+    in the water, urges reward-taking, receives gold, and later says he ate the lamb's
+    heart.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: King's daughter / princess / dead girl
+  description: Royal daughter reported sick unto death and then dead, whose body is
+    boiled and whose bones are arranged before she rises living, healthy, and beautiful.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: King
+  description: Father of the princess who grieves and offers St. Peter a reward after
+    the princess is restored.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: King's treasurer
+  description: Royal official ordered to fill Brother Lustig's knapsack with gold.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Traveling companions
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: St. Peter and Brother Lustig journey together and address one another as
+    brother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Restorer of the dead
+  assigned_to:
+  - fig:1
+  basis: St. Peter says he can bring dead people to life and then causes the dead
+    princess to arise living.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Water-controller and confession-questioner
+  assigned_to:
+  - fig:1
+  basis: St. Peter causes the stream, asks for a confession while Brother Lustig is
+    endangered, and makes the water sink.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Denier, confessor, and recipient of gold
+  assigned_to:
+  - fig:2
+  basis: Brother Lustig denies eating the lamb's heart during the water crossing,
+    desires reward, receives gold, and later says he ate the lamb's heart.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Dead-and-revived royal daughter
+  assigned_to:
+  - fig:3
+  basis: The King's daughter is reported dead and then rises living, healthy, and
+    beautiful.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: Royal reward-offerer
+  assigned_to:
+  - fig:4
+  basis: The King offers St. Peter a reward, even half the kingdom, after the princess
+    is restored.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Reward-refuser
+  assigned_to:
+  - fig:1
+  basis: St. Peter says he wants nothing for restoring the princess.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: Royal gold-dispenser
+  assigned_to:
+  - fig:5
+  basis: The treasurer fills Brother Lustig's knapsack with gold by the King's order.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Great stream of water
+  literal_form: A great stream of water flowing across the path and rising around
+    Brother Lustig.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Kettle and water
+  literal_form: A kettle and water requested by St. Peter and used for boiling the
+    dead girl's limbs.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Fire beneath the kettle
+  literal_form: A fire lit beneath the kettle during the boiling of the dead girl's
+    limbs.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: White bones arranged in order
+  literal_form: The dead girl's beautiful white bones laid on a table and arranged
+    in their natural order.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Threefold invocation of the holy Trinity
+  literal_form: St. Peter says an invocation in the name of the holy Trinity three
+    times.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Gold in three heaps
+  literal_form: The reward gold divided into three heaps, including a share for the
+    one who ate the lamb's heart.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Lamb's heart
+  literal_form: The lamb's heart repeatedly named in St. Peter's questions and in
+    Brother Lustig's confession.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Crossing of the stream
+  summary: St. Peter makes a stream cross the path; Brother Lustig is nearly overwhelmed
+    by the rising water while St. Peter asks whether he will confess to eating the
+    lamb's heart, then St. Peter lowers the water and helps him through.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: News of the princess's death
+  summary: The travelers arrive in a kingdom where they hear the King's daughter is
+    sick unto death and then dead; St. Peter says he can bring dead people to life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Private restoration of the princess
+  summary: In the palace, St. Peter requests a kettle and water, sends everyone out
+    except Brother Lustig, boils the dead girl's limbs, arranges her bones, invokes
+    the holy Trinity three times, and the princess rises alive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Royal reward after resurrection
+  summary: The King offers St. Peter a large reward; St. Peter refuses, but Brother
+    Lustig wants a reward, so the treasurer fills his knapsack with gold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Threefold division and separation
+  summary: In the forest, St. Peter divides the gold into three shares, including
+    one for the eater of the lamb's heart; Brother Lustig claims that share, and St.
+    Peter decides to leave him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Water ordeal used to elicit confession
+  taxonomy_refs:
+  - divine_judgment
+  basis: St. Peter creates a stream, Brother Lustig is endangered by the rising water,
+    and St. Peter repeatedly asks him to confess to eating the lamb's heart before
+    saving him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly call the episode a judgment; the taxonomy
+    link rests on St. Peter's control of the water and his questioning about a concealed
+    act.
+- id: motif:2
+  label: Restoration of a dead royal daughter
+  taxonomy_refs:
+  - resurrection
+  basis: St. Peter says he can bring the dead to life and the dead princess rises
+    living, healthy, and beautiful after his actions and invocation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage explicitly presents the princess as dead and restored to life.
+- id: motif:3
+  label: Dismemberment and boiling before revival
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The dead girl's limbs are cut off and boiled, her bones are arranged, and
+    she is then restored to life.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage supports bodily restoration and revival, but does not state
+    a broader initiation or seasonal meaning.
+- id: motif:4
+  label: Threefold share reveals hidden eater
+  taxonomy_refs: []
+  basis: St. Peter divides the gold into three heaps and names one share for the one
+    who ate the lamb's heart; Brother Lustig then says he ate it and takes the gold.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this confession-by-division
+    pattern.
+- id: motif:5
+  label: Miracle-worker refuses reward while companion seeks wealth
+  taxonomy_refs: []
+  basis: After the princess is restored, St. Peter refuses the King's reward, while
+    Brother Lustig wants something and receives gold.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader taxonomy
+    reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11519-11537
+  quote_or_summary: St. Peter causes a great stream to cross the path; Brother Lustig
+    is endangered as the water rises to his throat and mouth, while St. Peter repeatedly
+    asks whether he will confess to eating the lamb's heart, then lowers the water
+    and helps him through.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11538-11551
+  quote_or_summary: The travelers come to a kingdom where the King's daughter is sick
+    and then dead; St. Peter says he can bring dead people to life, is taken to her,
+    requests a kettle and water, and allows only Brother Lustig to remain.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11552-11562
+  quote_or_summary: St. Peter cuts off the dead girl's limbs, boils them, removes
+    and arranges the white bones, invokes the holy Trinity three times, and at the
+    third time the princess rises living, healthy, and beautiful.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11562-11569
+  quote_or_summary: The King joyfully offers St. Peter a reward up to half the kingdom;
+    St. Peter refuses, Brother Lustig wants something, and the treasurer fills Brother
+    Lustig's knapsack with gold.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11569-11577
+  quote_or_summary: 'In a forest, St. Peter divides the gold into three heaps: one
+    for himself, one for Brother Lustig, and one for the person who ate the lamb''s
+    heart; Brother Lustig says he ate it and sweeps up the gold.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11577-11580
+  quote_or_summary: St. Peter questions Brother Lustig by saying a lamb has no heart;
+    Brother Lustig insists lambs have hearts, and St. Peter lets him keep the gold
+    but says he will go his own way alone.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif assignments
+    are cautious where taxonomy labels extend beyond the wording of the passage. No
+    explicit cross-text comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not name or compare external traditions or texts.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l11519-l11580
+  passage_sha256=2ca09dd5f84f33302f825c6691121cae4feecdb79dc14632026f72cb79c6a900
+

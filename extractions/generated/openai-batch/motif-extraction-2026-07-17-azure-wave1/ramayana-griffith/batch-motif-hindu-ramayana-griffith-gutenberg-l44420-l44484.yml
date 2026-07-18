@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l44420-l44484
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLVII. The Return. / Canto L. The Enchanted Cave. / Canto LII. The
+    Exit. / Canto LXIV. The Sea.; lines 44420-44484
+  start: '44420'
+  end: '44484'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“What chief of all our host will leap / A hundred leagues across the deep?”"
+  summary: The Vánars reach the sea and are dismayed by its vast waves. Angad exhorts
+    them not to despair, gathers the chiefs for debate, asks who can leap a hundred
+    leagues across the sea to fulfill Sugríva’s promise, and receives silence before
+    demanding that they declare their powers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Vánars spring to their feet and move swiftly toward the sea, intent on
+    a mighty task.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Vánars stand on the strand and look at the deep ocean with roaring billows,
+    mountain-high waters, and wild forms seen between wave ridges.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Vánars’ spirits sink as the ocean appears boundless to them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Angad speaks to cheer the Vánars, telling them not to faint and describing
+    despair as a serpent’s mortal bite that benumbs heroic power.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After night passes, the chiefs assemble around Angad on the ocean strand for
+    debate.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The gathered chieftains around Angad are compared to Storm-Gods gathered around
+    Indra on his golden seat.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Angad asks which chief will leap a hundred leagues across the sea and make
+    Sugríva’s promise true.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Angad says success would release the band from fear and let them see Ráma,
+    Lakshmaṇ, the king, their homes, children, and wives again.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: No one replies, and Angad sternly asks the chiefs to declare their powers
+    and say who will dare the desperate leap.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Vánars
+  description: The host of Vánars and their chiefs who go to the sea, fear its vastness,
+    assemble for debate, and are asked who can make the leap.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Angad
+  description: A noble and princely leader who cheers the Vánars, calls the assembly,
+    asks for a volunteer to cross the sea, and challenges the silent chiefs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Sugríva
+  description: A named figure whose promise Angad says must be made true by the sea-crossing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ráma
+  description: A named figure whose face the Vánars hope to see again after success.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Lakshmaṇ
+  description: A named figure whom the Vánars hope to see again after success.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Unnamed lord/king
+  description: The king, called their lord, whom the Vánars hope to see again after
+    success.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Storm-Gods
+  description: Mighty Storm-Gods mentioned in the simile for the chieftains gathered
+    around Angad.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Indra
+  description: A deity in the simile, seated on a golden seat with the Storm-Gods
+    gathered around him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mission group at the sea
+  assigned_to:
+  - fig:1
+  basis: The Vánars move toward the sea intent on a mighty task and confront the ocean
+    barrier.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: prince, exhorter, and challenger
+  assigned_to:
+  - fig:2
+  basis: Angad cheers the Vánars, leads the debate, and demands that someone declare
+    the power to leap the sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: named promise-holder
+  assigned_to:
+  - fig:3
+  basis: Angad asks who will make Sugríva’s promise true.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: figures hoped to be seen after success
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Angad says success would permit the Vánars to look with joy on Ráma, Lakshmaṇ,
+    and their lord the king.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: challenged potential leapers
+  assigned_to:
+  - fig:1
+  basis: Angad asks the Vánar chiefs to declare their powers and identify who will
+    dare the desperate leap.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: divine simile comparands
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The assembled chieftains around Angad are likened to Storm-Gods around Indra.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sea or deep ocean
+  literal_form: The ocean with billows, strand, and a hundred-league crossing to be
+    leapt.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Mountain-high waves
+  literal_form: Boisterous waters described as high as mountains and menacing the
+    sky.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Serpent bite of despair
+  literal_form: Despair described as a serpent’s mortal bite that benumbs heroic power.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Hundred leagues
+  literal_form: The distance Angad says must be leapt across the deep.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Arrival at the sea and fear before the ocean
+  summary: The Vánars reach the sea, observe its vast and violent waters, and become
+    disheartened until Angad exhorts them against despair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Assembly on the ocean strand
+  summary: After night passes, the chiefs gather around Angad for debate; their assembly
+    is likened to Storm-Gods around Indra, and Angad asks who will leap a hundred
+    leagues to fulfill Sugríva’s promise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Silence and renewed challenge
+  summary: No chief answers Angad, so he sternly praises their powers and asks them
+    to declare who will dare the desperate leap.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Perilous water crossing before a mission
+  taxonomy_refs:
+  - mystical_quest
+  - departure
+  basis: The Vánars arrive at the ocean while intent on a mighty task, and Angad asks
+    who can cross the hundred-league sea to fulfill the mission obligation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the obstacle and proposed crossing, but not the crossing
+    itself or the full mission outcome.
+- id: motif:2
+  label: Heroic challenge to declare power and attempt an ordeal
+  taxonomy_refs:
+  - initiation
+  basis: Angad convenes the chiefs, asks who can leap across the sea, and after silence
+    demands that they declare their powers and dare the leap.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The initiation classification is broad; the passage gives a public test
+    or challenge but not a completed initiation sequence.
+- id: motif:3
+  label: Counsel against despair before ordeal
+  taxonomy_refs:
+  - wisdom
+  - serpent
+  basis: Angad instructs the Vánars not to admit despair into a noble mind and compares
+    despair to a serpent’s mortal bite that disables heroic power.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a brief moral exhortation rather than an extended wisdom episode.
+- id: motif:4
+  label: Anticipated return after successful task
+  taxonomy_refs:
+  - return
+  basis: Angad frames success as release from fear and restoration to Ráma, Lakshmaṇ,
+    the king, family, and homes.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage expresses hoped-for return, not an accomplished return.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens the chieftains gathered around Angad to Storm-Gods
+    gathered around Indra, supporting a visual and structural parallel of a leader
+    surrounded by a powerful retinue.
+  claim_level: visual_similarity
+  target: Storm-Gods gathered around Indra on his golden seat
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit poetic simile within the passage; it does not by
+    itself establish historical contact, common inheritance, or a broader motif-family
+    equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 44422-44429
+  quote_or_summary: The Vánars spring up in triumph and go swiftly toward the sea,
+    intent on the mighty task.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: summary
+  locator: 44430-44441
+  quote_or_summary: On the strand, the Vánars view the ocean’s billows, waters high
+    as mountains, and wild forms among the waves; their spirits sink as the ocean
+    seems boundless.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: quote
+  locator: 44442-44447
+  quote_or_summary: "“Despair, a serpent’s mortal bite, / Benumbs the hero’s power
+    and might.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:4
+  type: quote
+  locator: 44449-44456
+  quote_or_summary: "“Bright was the chieftains’ glorious band / Round Angad on the
+    ocean strand, / As when the mighty Storm-Gods meet / Round Indra on his golden
+    seat.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:5
+  type: summary
+  locator: 44459-44472
+  quote_or_summary: Angad asks which chief will leap a hundred leagues across the
+    deep, make Sugríva’s promise true, free the band from fear, and allow them to
+    see Ráma, Lakshmaṇ, the king, and their homes again.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:6
+  type: summary
+  locator: 44474-44483
+  quote_or_summary: No one replies; Angad sternly addresses the chiefs, praises their
+    valor and power, and asks them to declare who will dare the desperate leap.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal passage elements are clear. Motif classification is more tentative
+    because the available taxonomy is broad and the passage presents only the sea-crossing
+    challenge, not its resolution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction is based only on the supplied passage text, which is headed “Canto LXIV. The Sea.”
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l44420-l44484
+  passage_sha256=c9977f6aef3939bd94804012b568c7d5066882dfdc67e8c0ff5cce19db7fbc30
+

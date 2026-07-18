@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l1630-l1641
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: THE COMING OF MEN, A LONG, LONG WHILE AGO / QUJAVARSSUK / KUNIGSEQ / THE
+    WOMAN WHO HAD A BEAR AS A FOSTER-SON; lines 1630-1641
+  start: '1630'
+  end: '1641'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: there will sometimes come a bear as big as an iceberg, with a black spot
+    on its side.
+  summary: As the bear leaves, its old foster-mother weeps, secretly marks its side
+    with oil and soot while stroking it, and the people mourn the bear’s departure.
+    The story says that far north, among many bears, a huge bear with a black spot
+    on its side may sometimes appear.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The bear is ready to set out and takes leave of the old foster-mother.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old foster-mother weeps, dips her hands in oil, smears them with soot,
+    and strokes the bear’s side without letting the bear see what she is doing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bear sniffs at the old foster-mother and goes away.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old foster-mother and others in the place mourn the loss of their bear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Men say that far to the north, when many bears are abroad, a very large bear
+    with a black spot on its side sometimes appears.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: old foster-mother
+  description: An old foster-mother who weeps and secretly marks the bear’s side as
+    it leaves.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: bear
+  description: The foster-mother’s bear, which leaves after being stroked and later
+    is associated with reports of a huge northern bear with a black spot on its side.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: fellows in the place
+  description: People in the place who mourn the loss of the bear.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: men who speak of the northern bear
+  description: Unspecified people who say that a huge bear with a black spot sometimes
+    appears far to the north.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: foster-mother
+  assigned_to:
+  - fig:1
+  basis: The passage calls her the bear’s old foster-mother.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: secret marker and mourner
+  assigned_to:
+  - fig:1
+  basis: She weeps, applies oil and soot to her hands, and strokes the bear’s side
+    so that it cannot see what she is doing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: departing foster-bear
+  assigned_to:
+  - fig:2
+  basis: The bear is ready to set out, takes leave, sniffs at the foster-mother, and
+    goes away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: marked northern bear
+  assigned_to:
+  - fig:2
+  basis: The later saying links the bear with a huge bear far to the north that has
+    a black spot on its side.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: communal mourners
+  assigned_to:
+  - fig:3
+  basis: The people in the place mourn for the loss of their bear.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: reporters of the tradition
+  assigned_to:
+  - fig:4
+  basis: The passage introduces the northern bear report with “men say.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: oil and soot
+  literal_form: Oil and soot placed on the foster-mother’s hands before she strokes
+    the bear’s side.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: black spot on bear’s side
+  literal_form: A black spot on the side of a huge bear seen far to the north.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: huge northern bear
+  literal_form: A bear described as as big as an iceberg, appearing far to the north
+    when many bears are abroad.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Secret marking at departure
+  summary: As the bear prepares to leave, the foster-mother weeps, covers her hands
+    with oil and soot, and secretly strokes the bear’s side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mourning after the bear leaves
+  summary: The bear sniffs at the foster-mother and departs, while she and the people
+    of the place mourn its loss.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reported appearance of the marked bear
+  summary: The passage reports a saying that far to the north, among many bears, a
+    huge bear with a black spot on its side sometimes appears.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: departing foster-animal marked by caregiver
+  taxonomy_refs:
+  - departure
+  basis: The bear leaves its foster-mother, who secretly marks it with oil and soot
+    at the moment of departure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy only broadly supports “departure”; the more specific
+    foster-animal marking pattern is passage-derived rather than a supplied taxonomy
+    category.
+- id: motif:2
+  label: origin or recognition of distinctive animal mark
+  taxonomy_refs: []
+  basis: The secret soot mark on the bear’s side is followed by the report of a huge
+    northern bear with a black spot on its side.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage implies a connection through sequence and repeated placement
+    on the bear’s side, but it does not explicitly state that the soot caused the
+    later black spot.
+- id: motif:3
+  label: mourning the loss of a fostered animal
+  taxonomy_refs: []
+  basis: The foster-mother and the people of the place mourn the bear after it goes
+    away.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local passage-level motif candidate, not tied to a supplied
+    motif-family taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1630-1634
+  quote_or_summary: "“the old foster-mother, weeping very much, dipped her hands in
+    oil and smeared them with soot, and stroked the bear's side” as the bear was ready
+    to set out."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1634-1637
+  quote_or_summary: The bear sniffs at the foster-mother and goes away; she weeps
+    all day, and the people mourn the loss of their bear.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 1638-1640
+  quote_or_summary: "“far to the north” there sometimes comes “a bear as big as an
+    iceberg, with a black spot on its side.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal passage details are clear. Motif labels are cautious because the
+    passage only implies the connection between the secret soot mark and the later
+    black spot, and no close supplied taxonomy category exists beyond general departure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a comparison to another corpus, tradition, or explicit motif family beyond passage-internal patterning.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l1630-l1641
+  passage_sha256=fb6d5fa18b689560988e3e1ba81aa6a6e33a920fda6a52b0e4cb8ca1c0e45a57
+

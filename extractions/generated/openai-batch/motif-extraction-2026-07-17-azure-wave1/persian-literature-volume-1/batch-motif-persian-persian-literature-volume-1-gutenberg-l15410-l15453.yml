@@ -1,0 +1,538 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l15410-l15453
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE RUBIYT / THE DIVAN / BY HFIZ / INTRODUCTION; lines 15410-15453
+  start: '15410'
+  end: '15453'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: He passes through life like a happy pilgrim
+  summary: The passage presents Hfiz as a joyous Persian lyric poet, describes his
+    religious learning and public reputation, recounts conflict with religious authorities,
+    a failed voyage toward India, and a posthumous burial dispute resolved by a passage
+    from his own writings promising Paradise.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes Hfiz as a poet of unusual gladness, using images of
+    an unshadowed sky, harmonious music, and an unbitter cup.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares Hfiz moving through life to a happy pilgrim who mounts
+    from strength to strength and expects a welcome at the goal.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says every manifestation of life within Hfiz is understood as
+    the stirring of a divinity of which he is a portion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Hfiz's tomb is said to be visited as the Mecca of literary pilgrims, and his
+    verses are remembered and recited by educated Persians.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that Hfiz was born at Shiraz in the early fourteenth century
+    and died in 1388.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The name Hfiz is explained as meaning the man who remembers; he is said to
+    have memorized the Koran and taught Mohammedan scriptures.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Dervishes of the monastic college where Hfiz taught disapproved of his manner
+    of life, and he satirized them in response.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says the Mohammedan world welcomed Hfiz's lyrics and that kings
+    and rulers offered him honors and hospitality.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Hfiz began a journey toward India at the invitation of a Southern Prince,
+    but sea hardships caused him to return to Shiraz before completing the journey.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: After Hfiz's death, his pantheism and manner of life caused him to be denied
+    burial in consecrated ground, but ecclesiastical authorities relented after a
+    passage from his writings was found by opening the book at random.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: The cited passage from Hfiz's writings tells the listener not to turn away
+    from his bier and says that although immersed in sin, he will be admitted into
+    Paradise.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Hfiz is said to rest in a cemetery at Shiraz among nightingales, roses, doves,
+    white stones, and a sacred enclosure.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Hfiz
+  description: Persian lyric poet described as joyful, pantheistic, a memorizer and
+    teacher of the Koran, a traveler who returned to Shiraz, and a figure buried in
+    the Shiraz cemetery.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Dervishes of the monastic college
+  description: Colleagues who disapproved of Hfiz's manner of life and were satirized
+    by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Kings and rulers
+  description: Rulers who are said to have competed in offering Hfiz honors and hospitality.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Great Southern Prince
+  description: A prince who invited Hfiz to India and sent a vessel to meet him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ecclesiastical authorities
+  description: Authorities who initially denied Hfiz burial in consecrated ground
+    and later relented after a passage from his writings was consulted.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Literary pilgrims and educated Persians
+  description: Readers and visitors who cherish Hfiz's verses and visit his tomb.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: joyful lyric poet
+  assigned_to:
+  - fig:1
+  basis: The passage emphasizes Hfiz's gladness, lyric charm, persistent gayety, and
+    unique literary place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:10
+- id: role:2
+  label: pilgrim or journeyer
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly compares his life to that of a happy pilgrim and also
+    recounts his unfinished journey toward India and return to Shiraz.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:3
+  label: scripture memorizer and teacher
+  assigned_to:
+  - fig:1
+  basis: The passage says his name means the man who remembers and links this to his
+    memorization and teaching of the Koran.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: monastic critics
+  assigned_to:
+  - fig:2
+  basis: The dervishes disapproved of Hfiz's life and became targets of his satire.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: royal patrons or inviters
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Kings and rulers offered honors and hospitality, and the Southern Prince
+    invited Hfiz to India.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: burial arbiters
+  assigned_to:
+  - fig:5
+  basis: The authorities controlled the decision about consecrated burial and changed
+    their decision after consulting the poet's writings.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: literary pilgrims and transmitters
+  assigned_to:
+  - fig:6
+  basis: The passage says visitors come to the tomb and educated Persians preserve
+    and recite his verses.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: unbitter cup
+  literal_form: cup without bitterness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: happy pilgrim and goal
+  literal_form: pilgrim moving through life toward a goal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tomb as literary Mecca
+  literal_form: Hfiz's tomb visited as the Mecca of literary pilgrims
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: remembered Koran and randomly opened book
+  literal_form: Koran committed to memory; poet's book opened at random
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: sea and vessel
+  literal_form: vessel sent to meet Hfiz and hardships of the sea
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: bier and Paradise
+  literal_form: bier of Hfiz and admission into Paradise
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Shiraz cemetery nature imagery
+  literal_form: nightingales, roses, doves, white stones, and sacred enclosure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Joyous life-pilgrimage
+  summary: Hfiz is described as passing through life like a happy pilgrim, increasing
+    in strength, expecting welcome at his goal, and understanding life within him
+    as divine stirring.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Literary veneration at the tomb
+  summary: Hfiz's tomb is visited as a literary pilgrimage site, and his verses are
+    preserved in the memory and speech of educated Persians.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Name, memory, and scripture
+  summary: The passage explains Hfiz's name through his memorization of the Koran
+    and his work teaching Mohammedan scriptures.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Monastic disapproval and satire
+  summary: Dervishes in the college disapprove of Hfiz's manner of life, and he satirizes
+    them in return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Royal invitation, sea hardship, and return
+  summary: After receiving offers from rulers and an invitation from a Southern Prince,
+    Hfiz sets out toward India, but hardship at sea causes him to return to Shiraz
+    without finishing the journey.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Posthumous burial dispute and textual vindication
+  summary: Hfiz is initially denied burial in consecrated ground, but authorities
+    change course after a randomly opened passage from his writings says he will enter
+    Paradise.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Rest in Shiraz cemetery
+  summary: The passage places Hfiz at rest in the Shiraz cemetery amid birds, flowers,
+    stones, and a sacred enclosure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: joyful life as pilgrimage toward a welcomed goal
+  taxonomy_refs:
+  - mystical_quest
+  - ascent
+  basis: The passage compares Hfiz's life to a happy pilgrimage, says he mounts from
+    strength to strength, and expects welcome at the goal.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a critical metaphor in an introduction rather than a narrative
+    mythic journey.
+- id: motif:2
+  label: indwelling divinity in life
+  taxonomy_refs: []
+  basis: The passage says manifestations of life within Hfiz are stirrings of a divinity
+    of which he is a portion and later calls him a mystical pantheist.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  confidence: medium
+  cautions: The passage describes pantheistic belief but does not narrate a formal
+    union episode.
+- id: motif:3
+  label: sacred memory as identity and authority
+  taxonomy_refs:
+  - wisdom
+  basis: The name Hfiz is explained through remembering, memorizing the Koran, and
+    teaching scripture.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The evidence is biographical and etymological, not a mythic contest or
+    revelation scene.
+- id: motif:4
+  label: departure, failed sea journey, and return home
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Hfiz sets out toward India by invitation and vessel, but sea hardship causes
+    him to return to Shiraz before completing the journey.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as a biographical travel episode.
+- id: motif:5
+  label: posthumous exclusion followed by Paradise-vindication
+  taxonomy_refs:
+  - divine_judgment
+  basis: After denial of consecrated burial, a randomly discovered passage from Hfiz's
+    own writings asserts that he will be admitted into Paradise, and authorities relent.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The deciding agents are ecclesiastical authorities and a textual passage;
+    no direct divine judge appears in the passage.
+- id: motif:6
+  label: poet's tomb as pilgrimage center
+  taxonomy_refs: []
+  basis: The tomb is described as the Mecca of literary pilgrims and as part of a
+    sacred enclosure in Shiraz.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: high
+  cautions: The pilgrimage is explicitly literary in the passage, not necessarily
+    a formal religious cult.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens Hfiz's tomb to Mecca by saying it is visited
+    as the Mecca of literary pilgrims, making the tomb function analogically as a
+    pilgrimage destination for literary devotion.
+  claim_level: same_function
+  target: Mecca as pilgrimage destination
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is an analogy made by the passage; it does not claim
+    religious equivalence between Hfiz's tomb and Mecca.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15410-15418
+  quote_or_summary: Hfiz is described as glad, without shadow, discord, or bitterness;
+    he passes through life like a happy pilgrim, mounts from strength to strength,
+    expects welcome at the goal, and feels divine stirrings within.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized with short quoted phrase in record.
+- id: ev:2
+  type: quote
+  locator: 15422-15424
+  quote_or_summary: His tomb is described as visited as the "Mecca of literary pilgrims,"
+    and his numbers are cherished and uttered by educated Persians.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 15425-15430
+  quote_or_summary: Hfiz is said to have been born at Shiraz in the early fourteenth
+    century, died in 1388, and earned a name meaning the man who remembers because
+    he memorized the Koran and taught Mohammedan scriptures.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15431-15433
+  quote_or_summary: The dervishes of the monastic college disapproved of his manner
+    of life, and he satirized them in response.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15434-15438
+  quote_or_summary: The Mohammedan world welcomed his lyrics; kings and rulers offered
+    honors and hospitality; he started for India at the invitation of a great Southern
+    Prince who sent a vessel to meet him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 15438-15439
+  quote_or_summary: The hardships of the sea were too severe for Hfiz, so he returned
+    to Shiraz without completing the journey.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 15441-15446
+  quote_or_summary: Because of his pantheism and manner of life, Hfiz was denied burial
+    in consecrated ground, but ecclesiastical authorities relented after a passage
+    from his writings was found by opening the book at random.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 15446-15447
+  quote_or_summary: '"Turn not thy feet from the bier of Hfiz, for though immersed
+    in sin, he will be admitted into Paradise."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: summary
+  locator: 15448-15450
+  quote_or_summary: Hfiz rests in the cemetery at Shiraz, where nightingales sing,
+    roses bloom, doves gather, and white stones stand in a sacred enclosure.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 15451-15453
+  quote_or_summary: The passage characterizes Hfiz as a poet of nature, a mystical
+    pantheist, and a joyous troubadour of life with a unique literary place.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear but mostly biographical and critical rather than mythic;
+    several motifs are therefore metaphorical or literary-pattern candidates requiring
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used; names and spellings follow the supplied passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l15410-l15453
+  passage_sha256=ad934bd2a14233c4f52133b03d542c5f6473fe4321df394040f4435cd063a50b
+

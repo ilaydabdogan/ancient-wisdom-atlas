@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l11030-l11054
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE RAID FOR DARTAID'S CATTLE / LITERAL TRANSLATION / THE RAID FOR THE CATTLE
+    OF REGAMON / INTRODUCTION; lines 11030-11054
+  start: '11030'
+  end: '11054'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'An editorial introduction to “The Raid for the Cattle of Regamon” describes
+    its manuscript witnesses and textual basis, then characterizes the tale as unlike
+    tragic old Irish romances: it has no supernatural element, no slaughter, youthful
+    raiders treated as irresponsible persons, and a good ending.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a tale titled “The Raid for the Cattle of Regamon.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two versions of the tale are said to come from the Yellow Book of Lecan and
+    Egerton MS. 1782, the same manuscripts as two versions of the Raid of the Cattle
+    of Dartaid.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Yellow Book version is described as older, more legible, and somewhat
+    fuller than the other version.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prose version used here follows the Yellow Book text nearly as translated
+    by Windisch, with one addition from Egerton MS. 1782.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The introduction states that the tale’s tone is very unlike romances characterized
+    as tragic.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The introduction states that the story contains no hint of the supernatural.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The introduction states that the story contains no slaughter.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The youthful raiders are described as being regarded as quite irresponsible
+    persons.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The introduction describes the tale as an old Celtic romance with a good ending.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: youthful raiders
+  description: A group in the story described by the introduction as youthful raiders
+    who seem to be regarded as quite irresponsible persons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: youthful raider group
+  assigned_to:
+  - fig:1
+  basis: The introduction explicitly refers to “the youthful raiders” and comments
+    on how they are regarded.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raided cattle
+  literal_form: cattle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: cattle raid
+  taxonomy_refs: []
+  basis: The tale title names a raid for cattle, and the introduction refers to youthful
+    raiders.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage is an editorial introduction, not the narrative episode itself;
+    details of the raid are not given here.
+- id: motif:2
+  label: non-tragic youthful raid with good ending
+  taxonomy_refs: []
+  basis: The introduction explicitly says the tale lacks supernatural elements and
+    slaughter, treats the youthful raiders as irresponsible, and has a good ending.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an editorial characterization of the whole tale rather than a
+    scene-level narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously links this tale with another nearby cattle-raid text,
+    the Raid of the Cattle of Dartaid, by noting shared manuscript witnesses and parallel
+    cattle-raid titling.
+  claim_level: same_motif
+  target: Raid of the Cattle of Dartaid / cattle-raid tale pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage directly states shared manuscripts but does not analyze
+    the two tales’ narrative motifs; the motif comparison relies mainly on the titles
+    and editorial context.
+- id: claim:2
+  claim: The passage classifies the tale as an example of old Celtic romance with
+    a good ending, contrasting it with tragic old Irish romances.
+  claim_level: same_motif
+  target: old Celtic romance good-ending pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The classification is editorial and broad; no specific comparative
+    tale is named for the good-ending pattern.
+evidence:
+- id: ev:1
+  type: citation
+  locator: 11030-11032
+  quote_or_summary: Title and heading identify the section as “The Raid for the Cattle
+    of Regamon” and as an introduction.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 11034-11039
+  quote_or_summary: The introduction says two versions of this tale are in Windisch’s
+    Irische Texte and come from the Yellow Book of Lecan and Egerton MS. 1782, the
+    same manuscripts as versions of the Raid of the Cattle of Dartaid; the Yellow
+    Book version is older, more legible, and fuller.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 11039-11049
+  quote_or_summary: The introduction states that Windisch translated the Yellow Book
+    text alone, and that the prose rendering follows it nearly as given by Windisch,
+    with one addition and a few word changes from Egerton MS. 1782.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 11051-11054
+  quote_or_summary: The introduction says the tale is unlike tragic romances, has
+    no hint of the supernatural and no slaughter, treats the youthful raiders as irresponsible,
+    and is an old Celtic romance with a good ending.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is editorial and descriptive rather than narrative. Literal extraction
+    is straightforward, but motif and comparison claims are limited by the absence
+    of scene details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy reference was assigned because the passage supports a cattle-raid and good-ending pattern but does not establish sacred theft, supernatural travel, or another listed motif family.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l11030-l11054
+  passage_sha256=afac6d5283e56a50ec0c0dbfa8c2ba8ea84b474c9e1e5ac42b6af6fa232c9f2c
+

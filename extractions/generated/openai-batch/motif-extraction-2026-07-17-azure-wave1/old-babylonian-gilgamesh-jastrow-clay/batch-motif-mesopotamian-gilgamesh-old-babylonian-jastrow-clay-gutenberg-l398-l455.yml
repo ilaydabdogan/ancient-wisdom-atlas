@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l398-l455
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: An Old Babylonian Version of the Gilgamesh Epic / Part III / PREFATORY NOTE
+    / INTRODUCTION.; lines 398-455
+  start: '398'
+  end: '455'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes physical features, editions, and likely provenance
+    of two Old Babylonian tablets, then summarizes their contents: the Pennsylvania
+    tablet concerns Gilgamesh and Enkidu meeting, conflicting, and reconciling, while
+    the Yale tablet concerns preparations for an encounter with Huwawa, guardian of
+    the cedar forest. It also summarizes Gilgamesh''s two dreams and Ninsun''s interpretations,
+    which identify the dream figures and objects as foreshadowing Enkidu''s arrival.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The two tablets have knobs at the sides, interpreted in the passage as protection
+    for placement on a shelf rather than aids for holding the tablets.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two tablets are distinguished from the Meissner tablet by column arrangement,
+    and the passage infers that several editions of the Epic existed as early as about
+    2000 B.C.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the tablets likely came from mounds at Warka and suggests
+    other portions of the same series may have been found or may later appear in collections.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Pennsylvania tablet is said to deal with the meeting of Gilgamesh and
+    Enkidu, their conflict, and their reconciliation.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Yale tablet is said to continue with preparations for an encounter between
+    the two heroes and Huwawa, the guardian of the cedar forest.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The two Old Babylonian tablets are said to correspond to portions of Tablets
+    I to V of the Assyrian version, though completely parallel passages are described
+    as not numerous.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Gilgamesh recounts two dreams to his mother, who interprets them as foretelling
+    Enkidu's coming to Erech.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: In the first dream, something like a heavy meteor falls from heaven onto Gilgamesh
+    and almost crushes him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Gilgamesh, aided by the heroes of Erech, carries the heavy burden to his mother
+    Ninsun.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Ninsun explains that the burden symbolizes someone born in the mountains,
+    honored by all, and loved by Gilgamesh with a love as strong as that for a woman.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: In the second dream, Gilgamesh sees someone like himself brandishing an axe
+    and falls in love with him; Ninsun again identifies the figure as Enkidu.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: One of the two heroes; he meets, conflicts with, and reconciles with
+    Enkidu, recounts two dreams to his mother, and is nearly crushed by a meteor-like
+    burden in one dream.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Enkidu
+  description: One of the two heroes; his coming to Erech is foretold in Gilgamesh's
+    dreams, and Ninsun identifies the dream burden and the axe-bearing figure as Enkidu.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Ninsun
+  description: Gilgamesh's mother, who interprets his two dreams as referring to Enkidu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Huwawa / Humbaba / Hubaba
+  description: The guardian of the cedar forest, named in variant forms in the passage;
+    the two heroes prepare for an encounter with him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Heroes of Erech
+  description: A collective group who help Gilgamesh carry the heavy burden to his
+    mother in the first dream.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hero
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly calls Gilgamesh and Enkidu the two heroes.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: dreamer
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh recounts two dreams to his mother.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: mother and dream interpreter
+  assigned_to:
+  - fig:3
+  basis: Gilgamesh's mother interprets the dreams as foretelling Enkidu.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: foretold counterpart and beloved companion
+  assigned_to:
+  - fig:2
+  basis: The dreams are interpreted as presaging Enkidu; he is described as like Gilgamesh
+    and as someone Gilgamesh will love.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: guardian of the cedar forest
+  assigned_to:
+  - fig:4
+  basis: The passage identifies Huwawa as the guardian of the cedar forest.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: helpers
+  assigned_to:
+  - fig:5
+  basis: The heroes of Erech help Gilgamesh carry the heavy burden in the dream.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: heavy meteor or burden
+  literal_form: A heavy meteor-like object falling from heaven, then carried as a
+    heavy burden
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: axe
+  literal_form: An axe brandished by the figure seen in Gilgamesh's second dream
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: cedar forest
+  literal_form: The cedar forest guarded by Huwawa
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountains
+  literal_form: The mountains from which the person symbolized by the burden is said
+    to be born
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Meeting, conflict, and reconciliation of the two heroes
+  summary: The Pennsylvania tablet is summarized as treating Gilgamesh and Enkidu's
+    meeting, conflict, and reconciliation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Preparations for the cedar forest encounter
+  summary: The Yale tablet is summarized as continuing with preparations for Gilgamesh
+    and Enkidu's encounter with Huwawa, guardian of the cedar forest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: First dream of the meteor-like burden
+  summary: Gilgamesh dreams that a heavy meteor-like object falls from heaven and
+    almost crushes him; with help from the heroes of Erech he carries it to Ninsun,
+    who interprets it as symbolizing Enkidu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Second dream of the axe-bearing counterpart
+  summary: Gilgamesh dreams of someone like himself who brandishes an axe and whom
+    he loves; Ninsun identifies this figure as Enkidu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Heroic counterparts meet, fight, and reconcile
+  taxonomy_refs:
+  - duality
+  basis: The passage summarizes the Pennsylvania tablet as treating the meeting of
+    Gilgamesh and Enkidu, their conflict, and their reconciliation, and later describes
+    Enkidu as like Gilgamesh in the dream material.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The passage is a scholarly summary rather than a direct narrative excerpt;
+    the taxonomy reference is limited to the stated pairing and likeness, not to a
+    twin or sibling claim.
+- id: motif:2
+  label: Prophetic dreams announce an arriving companion
+  taxonomy_refs: []
+  basis: Gilgamesh recounts two dreams to his mother, and she interprets them as presaging
+    Enkidu's arrival in Erech.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage reports the interpretation in summary form and does not provide
+    the full dream text.
+- id: motif:3
+  label: Celestial weight as dream-symbol of a person
+  taxonomy_refs: []
+  basis: A heavy meteor-like object falls from heaven and becomes a burden carried
+    to Ninsun, who explains that it symbolizes a person connected with Gilgamesh.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The symbol is explicitly interpreted within the summarized passage, but
+    only in brief form.
+- id: motif:4
+  label: Encounter with a forest guardian
+  taxonomy_refs: []
+  basis: The Yale tablet is described as taking up preparations for an encounter of
+    Gilgamesh and Enkidu with Huwawa, guardian of the cedar forest.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage mentions preparations for the encounter but does not narrate
+    the encounter itself.
+- id: motif:5
+  label: Beloved counterpart from the mountains
+  taxonomy_refs:
+  - duality
+  basis: Ninsun explains that the dream burden symbolizes someone born in the mountains,
+    honored by all, and loved by Gilgamesh; the second dream describes a figure like
+    Gilgamesh whom he loves, again identified as Enkidu.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not characterize the relationship as divine, marital,
+    or kinship-based; the motif label is limited to the stated likeness and love.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious comparison between the Old Babylonian tablets
+    and the Assyrian version: the tablets correspond to portions of Assyrian Tablets
+    I to V and cover the same broad episodes of Gilgamesh and Enkidu''s meeting/reconciliation
+    and the Huwawa encounter, while also differing in extent and elaboration.'
+  claim_level: same_motif
+  target: Assyrian Gilgamesh version, Tablets I to V
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage states that completely parallel passages are not numerous
+    and that the Assyrian version is more elaborate and relatively independent of
+    the Old Babylonian version.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 398-405
+  quote_or_summary: The tablets have side knobs, interpreted as protecting them when
+    set on a shelf rather than helping a reader hold them.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 405-412
+  quote_or_summary: The two tablets differ in format from the Meissner tablet, and
+    the passage infers that several editions of the Epic already existed around 2000
+    B.C.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 412-422
+  quote_or_summary: The tablets likely came from Warka-area mounds through dealers,
+    and the passage expects that additional portions of the Old Babylonian version
+    may appear.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 426-434
+  quote_or_summary: The Pennsylvania tablet concerns Gilgamesh and Enkidu's meeting,
+    conflict, and reconciliation; the Yale tablet concerns preparations for their
+    encounter with Huwawa, guardian of the cedar forest.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 434-445
+  quote_or_summary: The two tablets correspond to portions of Assyrian Tablets I to
+    V, but fully parallel passages are few; the Assyrian version is described as more
+    elaborate and more independent than expected.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 446-450
+  quote_or_summary: The Pennsylvania tablet begins with two dreams Gilgamesh tells
+    his mother; she interprets them as foretelling Enkidu's coming to Erech. In the
+    first dream, a heavy meteor-like object falls from heaven and almost crushes Gilgamesh.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 450-453
+  quote_or_summary: With help from the heroes of Erech, Gilgamesh carries the heavy
+    burden to Ninsun, who says it symbolizes someone born in the mountains, honored
+    by all, and loved by Gilgamesh.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 453-455
+  quote_or_summary: In the second dream, Gilgamesh sees someone like himself brandishing
+    an axe and loves him; Ninsun identifies this person as Enkidu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly introduction summarizing narrative episodes rather
+    than a continuous narrative passage. Literal figures and dream symbols are clear,
+    while motif taxonomy assignments are necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Extracted scenes and motifs are based only on the provided line range and are marked as reported summaries where appropriate.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l398-l455
+  passage_sha256=ba700d7d6e8c4b701d2f04c3a25ea00f9e78f22ac53e547239cda2a112a2d93b
+

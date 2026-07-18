@@ -1,0 +1,627 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39526-l39627
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / FINIS / AN INDEX / OF THE; lines
+    39526-39627
+  start: '39526'
+  end: '39627'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Index entries list figures, peoples, objects, and events associated with
+    the Koran and Sale's notes, including Abraham, Adam, angels, the tribe of Ad,
+    Sabbath-breakers at Aila, animals, ants, and several companions or opponents of
+    Mohammed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Abraham entry says he demolished idols, disputed with Nimrod, escaped
+    a fire ordered by Nimrod, desired conviction of the resurrection, sacrificed birds,
+    entertained angels, received the promise of Isaac, sacrificed his son, and was
+    commanded with Ismael to build and cleanse the Caaba.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Adam entry says traditions concern his creation; angels worshipped him;
+    he fell, repented, and prayed; he met Eve at Mount Arafat; and his posterity was
+    extracted from his loins to acknowledge God.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The angels entry describes angels as having different forms and orders, not
+    being objects of worship, taking account of human actions, taking souls, presiding
+    over hell, guarding against devils, assisting Moslems at Bedr, and appearing to
+    Abraham and Lot.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Ad entry says a potent Arab tribe was destroyed for infidelity.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Aila entry says Sabbath-breakers there were changed into apes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The animals entry says irrational animals will be raised at the resurrection
+    and judged, and that animals were created of water.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The ants entry mentions a valley of ants and the queen's speech to the ants
+    on the approach of Solomon's army.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Abel entry refers to Cain and says Abel's ram was sacrificed by Abraham.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Amer and Arbad entry says they attempted to kill Mohammed and received
+    punishment.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Ahmed entry says Mohammed was foretold by Christ under the name Ahmed.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Abraham
+  description: Patriarch associated in the index with idol-breaking, dispute with
+    Nimrod, escape from fire, resurrection proof, sacrifice, angelic hospitality,
+    promise of Isaac, and building and cleansing the Caaba with Ismael.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Adam
+  description: Figure whose creation, angelic worship, fall, repentance, prayer, meeting
+    with Eve, and posterity are listed in the index.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Angels
+  description: Beings described as having forms and orders, serving in accounting,
+    soul-taking, hell-guarding, military assistance, and appearing to Abraham and
+    Lot.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ad
+  description: A potent Arab tribe said to have been destroyed for infidelity.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sabbath-breakers at Aila
+  description: People at Aila or Elath said to have been changed into apes.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Irrational animals
+  description: Animals said to be raised at the resurrection and judged; animals are
+    also said to be created of water.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Ants and their queen
+  description: Ants in a valley, with the queen making a speech on the approach of
+    Solomon's army.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Mohammed
+  description: Prophet referenced throughout the index entries, including an entry
+    stating he was foretold by Christ under the name Ahmed and an entry describing
+    an attempted killing by Amer and Arbad.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:9
+  name_or_label: Christ
+  description: Figure said in the Ahmed entry to have foretold Mohammed under the
+    name Ahmed.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:10
+- id: fig:10
+  name_or_label: Amer and Arbad
+  description: Two persons said to have attempted to kill Mohammed and to have been
+    punished.
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: idol-breaker
+  assigned_to:
+  - fig:1
+  basis: The index states that Abraham demolished the idols of the Chaldeans.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fire survivor
+  assigned_to:
+  - fig:1
+  basis: The index states that Abraham escaped the fire into which he was thrown by
+    Nimrod's order.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacrificer
+  assigned_to:
+  - fig:1
+  basis: The index links Abraham with sacrifice of birds, sacrifice of his son, and
+    Abel's ram.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: sanctuary builder and purifier
+  assigned_to:
+  - fig:1
+  basis: The index states that Abraham, together with Ismael, was commanded to build
+    and cleanse the Caaba.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: primordial human figure
+  assigned_to:
+  - fig:2
+  basis: The Adam entry concerns his creation and posterity.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: fallen and repentant figure
+  assigned_to:
+  - fig:2
+  basis: The Adam entry says he fell, repented, and prayed.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divine servants and messengers
+  assigned_to:
+  - fig:3
+  basis: The angels entry lists their forms and orders and states that they appeared
+    to Abraham and Lot.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: judgment and afterlife functionaries
+  assigned_to:
+  - fig:3
+  basis: The angels entry says some take account of actions, take souls, preside over
+    hell, and guard against devils.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: destroyed people
+  assigned_to:
+  - fig:4
+  basis: The Ad entry says the tribe was destroyed for infidelity.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: transformed transgressors
+  assigned_to:
+  - fig:5
+  basis: The Aila entry says Sabbath-breakers were changed into apes.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: resurrected and judged creatures
+  assigned_to:
+  - fig:6
+  basis: The animals entry says irrational animals will be raised at the resurrection
+    and judged.
+  evidence_refs:
+  - ev:6
+- id: role:12
+  label: speaking animal community
+  assigned_to:
+  - fig:7
+  basis: The ants entry mentions the queen's speech to the ants.
+  evidence_refs:
+  - ev:7
+- id: role:13
+  label: foretold prophet and target of attack
+  assigned_to:
+  - fig:8
+  basis: The Ahmed entry says Mohammed was foretold by Christ, and the Amer and Arbad
+    entry says they attempted to kill Mohammed.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:14
+  label: foretelling figure
+  assigned_to:
+  - fig:9
+  basis: The Ahmed entry attributes a foretelling of Mohammed to Christ.
+  evidence_refs:
+  - ev:10
+- id: role:15
+  label: failed attackers
+  assigned_to:
+  - fig:10
+  basis: The Amer and Arbad entry says they attempted to kill Mohammed and were punished.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire into which Abraham was thrown by Nimrod's order and from which
+    he escaped.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: birds used for resurrection proof
+  literal_form: Birds sacrificed by Abraham in connection with his desire to be convinced
+    of the resurrection.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Caaba
+  literal_form: Sanctuary Abraham and Ismael were commanded to build and cleanse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Mount Arafat
+  literal_form: Mountain where Adam is said to have met Eve.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: water
+  literal_form: Element from which animals are said to have been created.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: apes
+  literal_form: Animal form into which Sabbath-breakers at Aila were changed.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: valley of ants
+  literal_form: Valley associated with ants and their queen's speech before Solomon's
+    army.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: God's throne
+  literal_form: Throne supported by a stated number of angels according to the angels
+    entry.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Abrahamic trial, sacrifice, and sanctuary cluster
+  summary: 'The index compresses several Abraham-related events: idol destruction,
+    dispute with Nimrod, escape from fire, desire for proof of resurrection, bird
+    sacrifice, angelic hospitality, promise of Isaac, sacrifice of a son, and building
+    and cleansing the Caaba with Ismael.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adam's creation, fall, and repentance
+  summary: The index lists Adam's creation traditions, angels worshipping him, his
+    fall, repentance and prayer, his meeting with Eve at Mount Arafat, and the acknowledgment
+    of God by his posterity.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Angelic administration
+  summary: Angels are described as beings with forms and orders who are not to be
+    worshipped, who record actions, take souls, preside over hell, guard against devils,
+    assist believers at Bedr, and appear to Abraham and Lot.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Punishment of transgressing groups
+  summary: The index records the destruction of the tribe of Ad for infidelity and
+    the transformation of Sabbath-breakers at Aila into apes.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Animal resurrection and speech
+  summary: Animals are said to be created of water and to be raised and judged at
+    the resurrection, while ants are given a speaking queen in the valley of ants
+    as Solomon's army approaches.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Foretelling and attempted killing of Mohammed
+  summary: The index says Mohammed was foretold by Christ under the name Ahmed and
+    that Amer and Arbad attempted to kill Mohammed and were punished.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: divine judgment against transgression
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage lists destruction of Ad for infidelity, transformation of Sabbath-breakers
+    into apes, punishment of Amer and Arbad after an attempted killing of Mohammed,
+    and judgment of animals at resurrection.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage is an index, so it does not narrate the events or explain
+    causal details beyond brief labels.
+- id: motif:2
+  label: resurrection and proof through sacrificed birds
+  taxonomy_refs:
+  - resurrection
+  basis: The Abraham entry connects his desire to be convinced of resurrection with
+    sacrifice of birds, and the animals entry says animals will be raised at the resurrection
+    and judged.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The mechanics of the resurrection proof are not described in this index
+    excerpt.
+- id: motif:3
+  label: sacrifice associated with Abraham
+  taxonomy_refs:
+  - sacrifice
+  basis: The index mentions Abraham's sacrifice of birds, his sacrifice of his son,
+    and Abel's ram sacrificed by Abraham.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: The index does not provide the full narrative context or identify the
+    son in the quoted entry beyond the wording supplied.
+- id: motif:4
+  label: miraculous escape from fire
+  taxonomy_refs: []
+  basis: The Abraham entry states that he escaped the fire into which he was thrown
+    by Nimrod's order.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No detailed description of the fire miracle appears in the index entry.
+- id: motif:5
+  label: primordial fall and repentance
+  taxonomy_refs: []
+  basis: The Adam entry states that Adam fell, repented, and prayed after his creation
+    and angelic worship.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The index gives only a brief sequence and no extended mythic narration.
+- id: motif:6
+  label: angelic mediation and afterlife administration
+  taxonomy_refs: []
+  basis: The angels entry assigns angels roles in recording actions, taking souls,
+    presiding over hell, guarding against devils, assisting believers, and appearing
+    to Abraham and Lot.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a functional cluster rather than one continuous scene.
+- id: motif:7
+  label: punitive animal transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Aila entry says Sabbath-breakers were changed into apes.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage describes imposed
+    transformation rather than voluntary shapeshifting.
+- id: motif:8
+  label: speaking animal warning before an army
+  taxonomy_refs: []
+  basis: The ants entry mentions the queen's speech to the ants on the approach of
+    Solomon's army.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The actual speech is not included in this index excerpt.
+- id: motif:9
+  label: sacred construction and cleansing of sanctuary
+  taxonomy_refs: []
+  basis: The Abraham entry states that Abraham and Ismael were commanded to build
+    and cleanse the Caaba and that Abraham prayed for Mecca's plenty and security.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The index does not state a broader cosmological interpretation of the
+    Caaba.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 39526-39627, Abraham entry
+  quote_or_summary: Abraham is associated with idol demolition, dispute with Nimrod,
+    escape from Nimrod's fire, desire for proof of resurrection, sacrifice of birds,
+    angelic hospitality, promise of Isaac, sacrifice of his son, and building and
+    cleansing the Caaba with Ismael.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 39526-39627, Adam entry
+  quote_or_summary: Adam is associated with creation traditions, worship by angels,
+    fall, repentance, prayer, meeting Eve at Mount Arafat, and posterity acknowledging
+    God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 39526-39627, Angels entry
+  quote_or_summary: Angels are described as having origins, forms, and orders; not
+    being objects of worship; supporting God's throne; recording actions; taking souls;
+    presiding over hell; guarding against devils; assisting Moslems at Bedr; and appearing
+    to Abraham and Lot.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 39526-39627, Ad entry
+  quote_or_summary: Ad is described as a potent Arab tribe destroyed for infidelity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 39526-39627, Aila entry
+  quote_or_summary: At Aila or Elath, Sabbath-breakers are said to have been changed
+    into apes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 39526-39627, Animals entry
+  quote_or_summary: Irrational animals are said to be raised at the resurrection and
+    judged; animals are also said to be created of water.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 39526-39627, Ants entry
+  quote_or_summary: The index mentions the valley of ants and their queen's speech
+    to them as Solomon's army approaches.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 39526-39627, Abel entry
+  quote_or_summary: The Abel entry refers readers to Cain and says Abel's ram was
+    sacrificed by Abraham.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 39526-39627, Amer and Arbad entry
+  quote_or_summary: Amer and Arbad are said to have attempted to kill Mohammed and
+    to have been punished.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 39526-39627, Ahmed entry
+  quote_or_summary: Ahmed is given as the name under which Mohammed was foretold by
+    Christ.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an index and compresses many events into cross-references
+    and page citations. Motif candidates are based on explicit index wording only;
+    no full narrative contexts were supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not develop a direct comparison beyond index cross-references and shared figure names.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39526-l39627
+  passage_sha256=856b6b377304252305dc98508545acf29fd5f2d86e76fc437b904d0af873ee38
+

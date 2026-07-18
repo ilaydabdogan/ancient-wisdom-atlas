@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l106-l142
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Leviticus / Chapter 1 / Footnotes / Chapter 2; lines 106-142
+  start: '106'
+  end: '142'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A footnote identifies “Yahweh” as God’s proper name. Chapter 2 gives regulations
+    for meal offerings to Yahweh: flour, oil, frankincense, altar burning of a memorial
+    portion, priestly portions for Aaron and his sons, preparation variants, exclusions
+    of yeast and honey from fire offerings, required salt described as covenant salt,
+    and a first-fruits grain offering.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote states that “Yahweh” is God’s proper name and is sometimes rendered
+    “LORD” in other translations.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A meal offering to Yahweh is to include fine flour, oil, and frankincense.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The offerer brings the meal offering to Aaron’s sons, the priests, and a priest
+    burns a memorial portion on the altar as an offering made by fire.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The remainder of the meal offering belongs to Aaron and his sons and is called
+    a most holy part of Yahweh’s offerings made by fire.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Meal offerings may be prepared in an oven, on a griddle, or in a pan, using
+    unleavened fine flour with oil.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: For some prepared meal offerings, the offering is cut in pieces and oil is
+    poured on it before presentation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A prepared meal offering is brought to Yahweh, presented to the priest, and
+    taken to the altar, where the priest burns its memorial portion.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Yeast and honey are not to be burned as an offering made by fire to Yahweh.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Every meal offering is to be seasoned with salt, which the passage calls the
+    salt of the covenant of God.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A first-fruits meal offering consists of fresh heads of grain parched with
+    fire and crushed, with oil and frankincense added; the priest burns a memorial
+    portion.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: God’s proper name in the footnote; the recipient of the meal offerings
+    and offerings made by fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Offerer
+  description: The person described as offering or bringing a meal offering to Yahweh.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Aaron, Aaron’s sons, and the priest
+  description: Aaron’s sons are identified as priests; the priest handles the offering
+    at the altar, and the remainder belongs to Aaron and his sons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Named divine recipient
+  assigned_to:
+  - fig:1
+  basis: The footnote identifies Yahweh as God’s proper name, and the offerings are
+    repeatedly directed to Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Human offerer
+  assigned_to:
+  - fig:2
+  basis: The passage addresses anyone who offers or brings a meal offering.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Priestly mediator and recipient of holy remainder
+  assigned_to:
+  - fig:3
+  basis: The offering is brought to Aaron’s sons, the priest burns the memorial portion
+    on the altar, and the remaining portion belongs to Aaron and his sons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: Meal-offering materials
+  literal_form: Fine flour, oil, frankincense, and grain used in the meal offering.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Altar fire
+  literal_form: The memorial portion is burned on the altar as an offering made by
+    fire.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  - sacrifice
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Salt of covenant
+  literal_form: Salt required with every meal offering and described as the salt of
+    the covenant of God.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Excluded yeast and honey
+  literal_form: Yeast and honey are prohibited from being burned as offerings made
+    by fire to Yahweh.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: First-fruits grain
+  literal_form: Fresh heads of grain, parched with fire and crushed, offered as a
+    meal offering of first fruits.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Basic meal offering procedure
+  summary: An offerer presents fine flour with oil and frankincense to Aaron’s sons;
+    the priest burns a memorial portion on the altar, and the remainder belongs to
+    Aaron and his sons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Prepared meal offering variants
+  summary: Meal offerings may be baked, griddled, or pan-prepared with unleavened
+    fine flour and oil, then brought to Yahweh through the priest and altar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Rules for additives
+  summary: The passage prohibits burning yeast or honey in a fire offering to Yahweh
+    and requires salt with every meal offering, naming it covenant salt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: First-fruits meal offering
+  summary: Fresh heads of grain are parched, crushed, combined with oil and frankincense,
+    and a memorial portion is burned by the priest as an offering to Yahweh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Food offering burned by fire to a deity
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage repeatedly describes food materials offered to Yahweh, with a
+    memorial portion burned on the altar as an offering made by fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a ritual instruction passage, not a narrative myth episode.
+- id: motif:2
+  label: Priestly mediation of offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The offerer brings the meal offering to Aaron’s sons or the priest, and the
+    priest performs the altar burning of the memorial portion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage specifies ritual roles but does not narrate an individual
+    priestly encounter.
+- id: motif:3
+  label: Covenant salt in offering
+  taxonomy_refs:
+  - covenant
+  - sacred_exchange
+  basis: The passage requires salt with every meal offering and explicitly calls it
+    the salt of the covenant of God.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage names covenant salt but does not explain the broader covenant
+    theology.
+- id: motif:4
+  label: First-fruits offering
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage permits and regulates first-fruits offerings, including fresh
+    heads of grain prepared with fire, oil, and frankincense.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: Seasonal or agricultural-cycle implications are not developed in this
+    passage.
+- id: motif:5
+  label: Permitted and prohibited substances in sacred fire offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage distinguishes approved meal-offering materials from yeast and
+    honey, which are not to be burned as fire offerings to Yahweh.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a regulatory pattern; its symbolic rationale is not provided in
+    the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: Within the supplied taxonomy, the passage fits the sacrifice motif family
+    because food materials are offered to Yahweh through priestly altar burning.
+  claim_level: same_motif
+  target: sacrifice motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family classification only; it is not a claim about
+    historical contact, common inheritance, or cross-cultural derivation.
+- id: claim:2
+  claim: The required “salt of the covenant” supports a same-function comparison with
+    covenantal sacred-exchange patterns in the supplied taxonomy.
+  claim_level: same_function
+  target: covenant and sacred_exchange motif families
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses covenant language but does not explain the covenant’s
+    origin, parties, or larger narrative context.
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 108; footnote 1:1
+  quote_or_summary: "“Yahweh” is God’s proper Name, sometimes rendered “LORD” in other
+    translations."
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; supplied full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 112-116; Leviticus 2:1-3
+  quote_or_summary: A meal offering uses fine flour, oil, and frankincense; it is
+    brought to Aaron’s sons, the priests; the priest burns a memorial portion on the
+    altar as a fire offering, and the remainder belongs to Aaron and his sons as most
+    holy.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; supplied full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 118-130; Leviticus 2:4-10
+  quote_or_summary: Meal offerings may be baked, griddled, or pan-prepared with unleavened
+    fine flour and oil; they are brought to Yahweh, presented to the priest, brought
+    to the altar, and a memorial portion is burned; the remainder belongs to Aaron
+    and his sons.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; supplied full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 132-136; Leviticus 2:11-13
+  quote_or_summary: No meal offering to Yahweh is to be made with yeast, and no yeast
+    or honey is to be burned as a fire offering; first-fruits offerings are treated
+    differently; every meal offering must include salt, called the salt of the covenant
+    of God.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; supplied full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 138-142; Leviticus 2:14-16
+  quote_or_summary: A first-fruits meal offering uses fresh heads of grain parched
+    with fire and crushed, with oil and frankincense; the priest burns a memorial
+    portion of grain, oil, and frankincense as a fire offering to Yahweh.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain source; supplied full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited to the supplied lines. Literal ritual details are clear;
+    motif labels are candidate classifications and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupplied context were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l106-l142
+  passage_sha256=d3ecce6366873359f055d70ee18dee9d95d4a659eae669829fd5da1dd99b801a
+

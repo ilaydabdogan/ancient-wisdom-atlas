@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l30824-l30891
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXVI. / ENTITLED, Y. S.;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 30824-30891
+  start: '30824'
+  end: '30891'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents signs of resurrection and divine power: dead earth
+    revived by rain, crops and gardens, paired creation, night and day, sun and moon
+    in appointed courses, ships and other conveyances, possible drowning and mercy,
+    rejection of warnings and almsgiving, and the trumpet blasts that bring the dead
+    from graves to their Lord. Translator notes explain lunar mansions, the old palm-branch
+    image, a possible Noah''s ark reading, land-ships such as camels, and eschatological
+    punishment and trumpet references.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dead earth is described as a sign of resurrection; God quickens it by
+    rain and brings forth grain for people to eat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gardens of palm-trees and vines and springs are made so that people may eat
+    their fruits and the labor of their hands.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: God is praised as creating different kinds, including vegetables from the
+    earth, human sexes, and unknown things.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Night is described as a sign; day is withdrawn and people are covered with
+    darkness.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sun hastens to its place of rest, and the moon has appointed mansions
+    until it becomes like an old palm-tree branch.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:6
+  text: The sun does not overtake the moon, and night does not outstrip day; each
+    luminary moves in its own orbit.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: People carry their offspring in a ship filled with merchandise, and other
+    riding conveniences have been made for them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If God pleases, people may be drowned and have no helper; they are delivered
+    only through mercy and for a temporary enjoyment of life.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When warned to fear what is before and behind them, the addressed people withdraw
+    and turn aside from signs of their Lord.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: obs:10
+  text: When told to give alms from what God has bestowed, unbelievers mock the believers
+    by asking whether they should feed someone whom God could feed if he pleased.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: obs:11
+  text: The unbelievers ask when the promise of resurrection will be fulfilled.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A first sounding of the trumpet overtakes people while they are disputing,
+    leaving no time to arrange their effects or return to family.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: A second sounding of the trumpet is followed by people coming forth from their
+    graves and hastening to their Lord.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The divine actor who quickens earth, produces food, creates kinds,
+    orders luminaries, makes conveyances, may drown or deliver, bestows goods, and
+    summons the dead.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Addressed people
+  description: The people to whom signs are shown; they eat from the earth, ride in
+    conveyances, receive warnings, and are included among those overtaken by the trumpet
+    and raised from graves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Unbelievers
+  description: Those who mock the command to feed others and ask when the promise
+    of resurrection will be fulfilled.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Believers
+  description: Those to whom the unbelievers speak mockingly about feeding someone
+    whom God could feed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Creator, provider, and cosmic orderer
+  assigned_to:
+  - fig:1
+  basis: The passage attributes reviving earth, producing food, creating kinds, and
+    appointing sun and moon courses to God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Disposer of life, mercy, and resurrection
+  assigned_to:
+  - fig:1
+  basis: The passage says God may drown or deliver by mercy and that the dead hasten
+    to their Lord after the trumpet.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: Recipients of signs and warnings
+  assigned_to:
+  - fig:2
+  basis: The signs are repeatedly described as being shown to them, and they are warned
+    to fear what is before and behind them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Mocking deniers of almsgiving and resurrection
+  assigned_to:
+  - fig:3
+  basis: The unbelievers mock feeding the needy and question the promised resurrection.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Believers addressed by mockery
+  assigned_to:
+  - fig:4
+  basis: The unbelievers speak to those who believe when mocking the command to give
+    alms.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Reviving water
+  literal_form: Rain and springs that quicken dead earth and support gardens and grain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Dead earth revived
+  literal_form: Dead earth quickened by rain as a stated sign of resurrection.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Palm-tree and old palm branch
+  literal_form: Gardens of palm-trees and the moon likened to an old palm-tree branch.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: Paired creation
+  literal_form: Different kinds and the two sexes among created beings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Night and day
+  literal_form: Day withdrawn from night, leaving darkness; night does not outstrip
+    day.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Sun and moon in appointed courses
+  literal_form: The sun hastening to its rest and the moon passing through appointed
+    mansions, with each luminary in its orbit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:7
+  label: Ship or ark-like vessel
+  literal_form: A ship filled with merchandise carrying offspring; translator note
+    says some understand Noah's ark here.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:8
+  label: Drowning and deliverance
+  literal_form: The possibility of drowning without help, with deliverance only through
+    mercy.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: Trumpet
+  literal_form: Two soundings of the trumpet, the first overtaking disputants and
+    the second preceding emergence from graves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:10
+  label: Graves
+  literal_form: Graves from which people come forth after the second trumpet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - resurrection
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dead earth revived into food-bearing land
+  summary: The passage presents dead earth quickened by rain, yielding grain, gardens,
+    palm-trees, vines, springs, and fruits for human eating.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Created kinds and ordered luminaries
+  summary: God creates differentiated kinds and the two sexes; night and day, sun
+    and moon are described as signs moving in appointed relations and orbits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: scene:3
+  label: Vessel, riding conveniences, drowning, and mercy
+  summary: People are carried in a ship and other conveyances; the passage states
+    that God could drown them, with deliverance coming only through mercy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: scene:4
+  label: Rejected warnings and mocked almsgiving
+  summary: Warnings to fear punishment are rejected, signs are turned aside from,
+    and unbelievers mock the believers regarding feeding those in need.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: scene:5
+  label: Trumpet blasts and emergence from graves
+  summary: Those questioning resurrection await a trumpet blast that overtakes them
+    while disputing; a second trumpet is followed by emergence from graves and hastening
+    to the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Resurrection signaled by revived earth and trumpet
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage explicitly calls dead earth revived by rain a sign of resurrection
+    and later describes the trumpet and emergence from graves.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The death-rebirth taxonomy is broader than the passage's explicit resurrection
+    framing.
+- id: motif:2
+  label: Divine judgment and eschatological warning
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage warns of what is before and behind, describes rejection of signs,
+    and presents trumpet events leading to hastening toward the Lord.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The excerpt stops at emergence from graves and does not narrate the full
+    judgment outcome.
+- id: motif:3
+  label: Ark or vessel deliverance under divine mercy
+  taxonomy_refs:
+  - ark_vessel
+  basis: The passage describes people and offspring carried in a ship, possible drowning,
+    and deliverance only through mercy; a translator note says some take the ship
+    as Noah's ark.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The main text can also be read as ordinary ships and conveyances; the
+    Noah ark identification is presented only as one interpretation in the note.
+- id: motif:4
+  label: Ordered cosmic duality of night-day and sun-moon
+  taxonomy_refs:
+  - duality
+  basis: Night and day, sun and moon are paired and constrained so that neither oversteps
+    the other, each moving in an orbit.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage emphasizes divine ordering rather
+    than a conflict between dual forces.
+comparison_claims:
+- id: claim:1
+  claim: The ship scene may share the ark-vessel deliverance motif with the Noah's
+    ark tradition, because the translator note states that some suppose Noah and his
+    companions in the ark are intended.
+  claim_level: same_motif
+  target: Noah's ark / ark_vessel motif
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  limitations: The passage's main wording also permits an ordinary maritime or transport
+    reading, including ships, boats, or camel 'land-ships'; the Noah connection is
+    not explicit in the main text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30824-30831
+  quote_or_summary: Dead earth is quickened by rain, grain is produced, and gardens
+    of palm-trees and vines with springs provide fruits for people to eat.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30832-30835
+  quote_or_summary: God is praised as creating different kinds, including vegetables
+    from earth, human sexes, and things unknown.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30836-30843
+  quote_or_summary: Night, day, the sun, and the moon are signs; the sun hastens to
+    rest, the moon has mansions, and each luminary moves in its own orbit without
+    overtaking the other.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 30844-30849
+  quote_or_summary: People carry offspring in a ship filled with merchandise and ride
+    on other conveniences; God may drown them, and they are delivered only through
+    mercy for a season.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 30850-30858
+  quote_or_summary: When warned to fear what is before and behind them, people withdraw;
+    they turn aside from signs, and unbelievers mock believers over giving alms from
+    what God bestowed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 30859-30865
+  quote_or_summary: Unbelievers ask when the promise of resurrection will be fulfilled;
+    a trumpet blast overtakes them while disputing, and another trumpet is followed
+    by people coming from graves to their Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 30866-30876
+  quote_or_summary: Translator notes explain the sun's place of rest or possible unceasing
+    course, the moon's twenty-eight mansions, and the old palm-branch image for the
+    new moon.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 30877-30882
+  quote_or_summary: Translator note says some suppose Noah and his companions in the
+    ark are intended; another note identifies comparable conveniences as camels, lesser
+    vessels, or boats.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 30883-30888
+  quote_or_summary: Translator notes gloss 'before and behind' as punishment in this
+    world and the next and explain the alms passage as involving poor Moslems and
+    richer Koreish.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:10
+  type: citation
+  locator: lines 30889-30891
+  quote_or_summary: Translator notes refer the trumpet passages to prior discussion
+    and notes in chapter 39.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main passage clearly supports resurrection, divine ordering, warning,
+    and trumpet scenes. The ark comparison depends on the translator note's 'some
+    suppose' statement and therefore remains cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motifs are based only on the supplied passage text and source metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l30824-l30891
+  passage_sha256=43920b4959dc3f3f20c1527b0476f1097b82efc44bc85ea7f488ef4c1e7cbd4d
+

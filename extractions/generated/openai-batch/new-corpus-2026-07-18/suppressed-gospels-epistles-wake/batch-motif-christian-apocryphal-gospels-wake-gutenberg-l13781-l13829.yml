@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l13781-l13829
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER III. / CHAPTER IV. / CHAPTER V. / A FRAGMENT.; lines 13781-13829
+  start: '13781'
+  end: '13829'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"When two shall be one, and that which is without as that which is within;
+    and the male with the female, neither male nor female."'
+  summary: 'A fragment explains the Lord''s saying about when his kingdom will come:
+    the kingdom is associated with two becoming one, inner and outer correspondence,
+    and the male with the female becoming neither male nor female. The passage interprets
+    these pairings as truthful unity, soul-body correspondence through good works,
+    and the overcoming of anger and concupiscence through repentance and obedience
+    to reason.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Lord is asked by an unnamed person when his kingdom should come.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lord answers that the kingdom should come when two shall be one, the outside
+    as the inside, and the male with the female neither male nor female.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says two are one when people speak truth to each other and there
+    is one seal in two bodies without hypocrisy.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies the soul as what is within and the body as what is
+    without.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the soul should be seen by good works as the body appears.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage identifies anger as the male and concupiscence as the female.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says anger and concupiscence cloud and darken reason through custom
+    and evil education.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes a person dispelling the mist arising from anger and
+    concupiscence, being full of shame, repenting, and uniting soul and spirit in
+    obedience to reason.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage cites Paul in saying that there is in us neither male nor female.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the Lord
+  description: Speaker who answers the question about when his kingdom should come.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: a certain person
+  description: Unnamed person who asks the Lord when his kingdom should come.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: a man
+  description: Generic person described as becoming subject neither to anger nor to
+    concupiscence and repenting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Paul
+  description: Named authority cited for the saying that there is in us neither male
+    nor female.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine respondent and teacher
+  assigned_to:
+  - fig:1
+  basis: The Lord answers the question about the coming of his kingdom with a teaching
+    about unity and transformed distinctions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: The unnamed person asks when the Lord's kingdom should come.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: repentant human subject
+  assigned_to:
+  - fig:3
+  basis: The generic man is described as overcoming anger and concupiscence, repenting,
+    and uniting soul and spirit under reason.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: cited apostolic authority
+  assigned_to:
+  - fig:4
+  basis: Paul is cited in support of the statement that there is neither male nor
+    female in us.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: two becoming one
+  literal_form: '"two shall be one" / "two are one"'
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: inner and outer correspondence
+  literal_form: '"that which is without as that which is within"; interpreted as body
+    and soul'
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: male and female made neither
+  literal_form: '"the male with the female, neither male nor female"; interpreted
+    as anger and concupiscence'
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: one seal in two bodies
+  literal_form: '"one seal in two bodies"'
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: mist clouding reason
+  literal_form: '"the mist arising from them" after anger and concupiscence have clouded
+    and darkened reason'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Question about the coming kingdom
+  summary: 'An unnamed person asks the Lord when his kingdom should come, and the
+    Lord answers with conditions of unity: two becoming one, outside becoming as inside,
+    and male with female becoming neither male nor female.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of two becoming one
+  summary: The fragment explains two becoming one as truthful speech between persons
+    and one seal in two bodies without hypocrisy.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Explanation of inner and outer
+  summary: The fragment explains the inner as the soul and the outer as the body,
+    requiring the soul to be visible through good works as the body is visible outwardly.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Explanation of male and female
+  summary: The fragment explains male as anger and female as concupiscence; a person
+    who is subject to neither, dispels their mist, repents, and unites soul and spirit
+    in obedience to reason is described as having neither male nor female in him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: union of dualities as sign of the kingdom
+  taxonomy_refs:
+  - duality
+  basis: 'The Lord''s answer links the coming of the kingdom to paired distinctions
+    becoming unified or transcended: two/one, without/within, and male/female/neither.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents these pairings in a theological and ethical exposition;
+    broader mythic classification should be reviewed.
+- id: motif:2
+  label: inner-outer moral correspondence
+  taxonomy_refs:
+  - wisdom
+  basis: The passage interprets outside and inside as body and soul and says the soul
+    should be visible through good works, aligning outward appearance and inward nature.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is general; the passage is more specifically
+    moral-exegetical than narrative.
+- id: motif:3
+  label: overcoming passions through repentance and reason
+  taxonomy_refs:
+  - wisdom
+  basis: The passage identifies anger and concupiscence as forces that darken reason
+    and describes repentance and obedience to reason as uniting soul and spirit.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an ethical pattern rather than a developed mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13781-13829, Chapter V.1
+  quote_or_summary: 'The Lord, asked when his kingdom should come, answers: "When
+    two shall be one ... and the male with the female, neither male nor female."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 13781-13829, Chapter V.2
+  quote_or_summary: Two are one when people speak truth to each other and there is,
+    without hypocrisy, one seal in two bodies.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13781-13829, Chapter V.3
+  quote_or_summary: The passage interprets the inner as the soul and the outer as
+    the body, and says the soul should be seen by its good works as the body appears.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13781-13829, Chapter V.4
+  quote_or_summary: The passage interprets the male as anger and the female as concupiscence.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13781-13829, Chapter V.5
+  quote_or_summary: A man becomes subject neither to anger nor concupiscence; these
+    are said to cloud and darken reason through custom and evil education.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13781-13829, Chapter V.6
+  quote_or_summary: The passage describes dispelling the mist from anger and concupiscence,
+    being full of shame, repenting, and uniting soul and spirit in obedience to reason.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 13781-13829, Chapter V.6
+  quote_or_summary: 'The passage cites Paul: "there is in us neither male nor female."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal structure is explicit in the passage. Motif classification is
+    more tentative because the passage is a theological fragment and ethical exegesis
+    rather than a mythic narrative. No comparison claims were made because the passage
+    itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No external comparisons added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l13781-l13829
+  passage_sha256=d2702f33742f872769b476a202ed18f769e8d5fa1ace6546cbb24410a1113aea
+

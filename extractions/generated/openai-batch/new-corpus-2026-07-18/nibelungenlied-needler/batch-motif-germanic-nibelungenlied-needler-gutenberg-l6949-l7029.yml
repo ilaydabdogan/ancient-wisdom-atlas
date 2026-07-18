@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l6949-l7029
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: TENTH ADVENTURE / ELEVENTH ADVENTURE / TWELFTH ADVENTURE / THIRTEENTH ADVENTURE;
+    lines 6949-7029
+  start: '6949'
+  end: '7029'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes royal hospitality, feasting, lodging, adornment,
+    jousting, music, churchgoing, and continued merrymaking at court. Siegfried is
+    honored among many warriors, Brunhild observes his might, and the narrative foreshadows
+    that friendship will later be broken by jealousy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The host shows friendship and attention to the guests and sits with them at
+    table; Siegfried is seated where he had sat before, accompanied by many warriors.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Twelve hundred gallant knights sit with Siegfried in a circle at table.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Brunhild thinks that no vassal could be more mighty than Siegfried and remains
+    well-minded toward him at this point.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: During an evening meal, butlers move among the tables with wine and make efforts
+    to honor the guests.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Guests, maidens, and high ladies receive appropriate lodging and honors according
+    to festive custom.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At dawn, precious stones, costly raiment, and stately robes are brought from
+    chests for adornment.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Before the hall, knights and squires gather before matins; the king is pleased
+    to see young warriors jousting.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Horns, flutes, and trumpets sound loudly, and warriors mount their horses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Many warriors take part in a keen jousting or tourney while ladies and maidens
+    watch from casements.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: The host rides with his kinsmen, and valiant knights accompany the lofty queens
+    when bells sound from the minster.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The queens and their company alight before the minster, enter it wearing crowns,
+    and attend mass.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After mass, the company returns in stately manner to the board, and the merrymaking
+    lasts eleven days.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The narrator states that friendship will soon be broken by dire jealousy.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the host / king / monarch
+  description: A royal host who honors guests, presides at table, watches jousting,
+    rides with kinsmen, and is pleased by the warriors.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Siegfried
+  description: Named guest seated in his former place at table with many warriors;
+    Brunhild views him as exceedingly mighty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Brunhild the lofty queen
+  description: Queen who observes Siegfried's might, remains well-minded toward the
+    guests, and is present in the courtly and churchgoing sequence.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: gallant knights, warriors, and squires
+  description: A large group of martial attendants and guests who sit at table, gather
+    before the hall, mount horses, joust, and escort queens.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: maidens, high ladies, and lofty queens
+  description: Female courtly participants who receive lodging and honors, wear adornments,
+    watch the tourney, ride to the minster, and attend the church sequence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: butlers
+  description: Servers who pass among the tables with wine during the feast and show
+    honor to the guests.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: the host's kinsmen
+  description: Kinsmen who ride with the host during the courtly pastime.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hospitable royal host
+  assigned_to:
+  - fig:1
+  basis: The passage says the host shows kind attention, friendship, lodging, and
+    honor to guests.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: royal spectator-participant in courtly riding
+  assigned_to:
+  - fig:1
+  basis: The monarch is pleased by jousting and later rides with his kinsmen.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: honored guest perceived as exceptionally mighty
+  assigned_to:
+  - fig:2
+  basis: Siegfried is seated at table with many warriors, and Brunhild judges that
+    no vassal could be more mighty.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: queen and observer of Siegfried's status
+  assigned_to:
+  - fig:3
+  basis: Brunhild is named as the lofty queen and evaluates Siegfried's might.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: courtly queen in festive and church procession
+  assigned_to:
+  - fig:3
+  basis: Brunhild remains well-minded toward the guests before the minster sequence
+    in which crowned participants enter the minster.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: martial companions and table company
+  assigned_to:
+  - fig:4
+  basis: Many warriors and twelve hundred knights sit at table with Siegfried.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: tourney participants and escorts
+  assigned_to:
+  - fig:4
+  basis: Knights and squires gather, mount horses, joust, and accompany the queens.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: courtly female spectators and procession participants
+  assigned_to:
+  - fig:5
+  basis: Ladies and maidens receive honors, dress richly, watch from casements, ride,
+    and enter the minster.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:9
+  label: feast servers
+  assigned_to:
+  - fig:6
+  basis: Butlers pass among the tables with wine and show honor to guests.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: royal kin-companions
+  assigned_to:
+  - fig:7
+  basis: The host rides with his good kinsmen during the pastime.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: feast table and circle
+  literal_form: tables and the circle of twelve hundred knights seated with Siegfried
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ruddy wine
+  literal_form: wine carried among the tables and wetting rich attire
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: precious stones and costly robes
+  literal_form: precious stones, costly raiment, and stately robes taken from chests
+    at dawn
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: festival instruments and bells
+  literal_form: horns, flutes, trumpets, and bells from the minster
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: horses and saddles
+  literal_form: warriors springing to saddle and ladies riding forth upon horses
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: minster and mass
+  literal_form: the spacious minster, matins, bells, and mass
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: crowns
+  literal_form: crowns worn by the participants entering the minster
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: eleven days of merrymaking
+  literal_form: pleasure lasting until eleven days had passed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Royal table hospitality
+  summary: The host honors the guests at table; Siegfried sits with a large company
+    of knights while Brunhild observes his exceptional might.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dawn adornment and tournament
+  summary: At dawn, costly garments and stones are brought out, musicians sound, warriors
+    mount horses, and a joust takes place before watching ladies.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Procession to the minster and return to feasting
+  summary: Bells call the company toward the minster; queens and ladies ride with
+    knightly escorts, enter crowned, attend mass, and return to the board as festivities
+    continue.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Foreshadowed rupture of friendship
+  summary: Within the churchgoing sequence, the narration states that friendship will
+    soon be broken by jealousy.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal hospitality and feast of honor
+  taxonomy_refs: []
+  basis: The passage emphasizes kind attention, table seating, wine service, lodging,
+    and honors for guests at a high festivity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No specific mythological taxonomy reference for feasting is supplied in
+    the available list.
+- id: motif:2
+  label: Courtly tournament as public display
+  taxonomy_refs: []
+  basis: Knights and squires gather before the hall, instruments sound, warriors mount
+    horses, and a jousting or tourney is watched by ladies and the king.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents a courtly martial pastime rather than a supernatural
+    combat.
+- id: motif:3
+  label: Royal adornment and status display
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Precious stones, costly robes, crowns, royal participants, and public ceremonial
+    movement display rank in a court setting.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage shows royal and courtly status but does not explicitly argue
+    dynastic legitimacy.
+- id: motif:4
+  label: Religious procession within courtly celebration
+  taxonomy_refs: []
+  basis: The company moves from tournament and courtly pastime to the minster, enters
+    wearing crowns, attends mass, and returns to feasting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a social-religious court scene; no sacred transformation or miracle
+    is described.
+- id: motif:5
+  label: Foreshadowed jealousy breaking alliance
+  taxonomy_refs: []
+  basis: The narrator directly states that the friendship will soon be broken by dire
+    jealousy after describing Brunhild's present good will.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage foreshadows conflict but does not yet narrate the jealous
+    action itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6949-6962; stanzas 802-803
+  quote_or_summary: The host shows friendship at table; Siegfried is seated as before
+    with many warriors, including twelve hundred knights, and Brunhild judges him
+    exceedingly mighty.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6963-6976; stanzas 804-805
+  quote_or_summary: At an evening meal, wine is carried by butlers among the tables;
+    lodging and honors are given to guests, maidens, and high ladies according to
+    festive custom.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 6977-6982; stanza 806
+  quote_or_summary: At dawn, precious stones, costly raiment, and stately robes are
+    brought from chests for adornment.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 6983-7002; stanzas 807-809
+  quote_or_summary: Knights and squires assemble before the hall before matins; horns,
+    flutes, and trumpets sound; warriors mount horses and engage in a keen joust.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 7003-7016; stanzas 810-811
+  quote_or_summary: Ladies and maidens watch the tourney from casements; the host
+    rides with kinsmen; minster bells sound, and valiant knights accompany the lofty
+    queens.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 7017-7029; stanzas 812-813
+  quote_or_summary: Before the minster the company alights, enters crowned, and attends
+    mass; the narration foreshadows friendship broken by jealousy, then describes
+    a stately return to the board and eleven days of merrymaking.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal courtly actions are explicit in the passage. Motif labels are descriptive;
+    only the royal_legitimacy taxonomy reference is used cautiously because the passage
+    displays royal status without an explicit legitimacy argument. No comparison claims
+    were made because the passage itself does not support a specific cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy did not include any direct matches for the passage's objects, so symbol taxonomy references are empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l6949-l7029
+  passage_sha256=fdbbd7869a5466a113c83e68f91b55715256665fab040bf4b72b753d8422c303
+

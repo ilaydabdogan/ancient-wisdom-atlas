@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.hindu-bhagavad-gita-song-celestial-gutenberg-l63-l87
+source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+passage_locator:
+  label: The Song Celestial; Or, Bhagavad-Gita; lines 63-87
+  start: '63'
+  end: '87'
+  translation: The Song Celestial; Or, Bhagavad-Gita
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“Being a Discourse Between Arjuna, Prince of India, and the Supreme Being
+    Under the Form of Krishna”"
+  summary: The passage is front matter identifying the work as The Song Celestial,
+    or Bhagavad-Gita, from the Mahabharata. It describes the work as a discourse between
+    Arjuna, Prince of India, and the Supreme Being under the form of Krishna, and
+    gives translator and publication details followed by a dedication heading.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The work is titled The Song Celestial, or Bhagavad-Gita.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the work as from the Mahabharata.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The work is described as a discourse between Arjuna and the Supreme Being
+    under the form of Krishna.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Arjuna is described as Prince of India.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the text was translated from Sanskrit by Sir Edwin
+    Arnold.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage gives New York publication details and the year 1900.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A dedication heading follows the title-page information.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Arjuna
+  description: Named as Arjuna, Prince of India, and as one participant in the discourse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Supreme Being under the form of Krishna
+  description: Named as the Supreme Being under the form of Krishna and as one participant
+    in the discourse.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: discourse participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes the work as a discourse between Arjuna and the Supreme
+    Being under the form of Krishna.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: prince
+  assigned_to:
+  - fig:1
+  basis: Arjuna is explicitly called Prince of India.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: supreme being in Krishna's form
+  assigned_to:
+  - fig:2
+  basis: The passage names the second discourse participant as the Supreme Being under
+    the form of Krishna.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page discourse frame
+  summary: The front matter presents the work as a discourse between Arjuna and the
+    Supreme Being under the form of Krishna, within a text identified as from the
+    Mahabharata.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: divine-human discourse
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames the work as a discourse between a human prince, Arjuna,
+    and the Supreme Being under the form of Krishna.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is front matter rather than a narrative episode; it identifies
+    a discourse frame but does not include the discourse content.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 63-69
+  quote_or_summary: "“The Song Celestial. or Bhagavad-Gita (From the Mahabharata)”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 71-73
+  quote_or_summary: "“Being a Discourse Between Arjuna, Prince of India, and the Supreme
+    Being Under the Form of Krishna”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 75-78
+  quote_or_summary: "“Translated from the Sanskrit Text by Sir Edwin Arnold, M.A.,
+    K.C.I.E., C.S.I.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 80-83
+  quote_or_summary: Publication information names New York, Truslove, Hanson & Comba,
+    Ltd., 67 Fifth Avenue, and the year 1900.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: line 85
+  quote_or_summary: "“Dedication”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied front matter. Motif
+    identification is limited because the passage gives only a title-page discourse
+    frame and no narrative episode or doctrinal content. No comparison claims were
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the available symbol list are explicitly present in the passage. The taxonomy reference to wisdom is cautious and based only on the stated divine-human discourse frame.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-bhagavad-gita-song-celestial-gutenberg__l63-l87
+  passage_sha256=e9fb970ea307645190c220fe362bb6a7e0c038fd3746735baf5148f861b7db26
+

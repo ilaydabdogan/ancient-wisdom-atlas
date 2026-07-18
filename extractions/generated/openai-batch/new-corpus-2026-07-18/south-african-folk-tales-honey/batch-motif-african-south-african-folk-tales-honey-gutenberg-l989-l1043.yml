@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l989-l1043
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE LION AND JACKAL / JACKAL. / TINK-TINKJE / THE LION AND JACKAL; lines
+    989-1043
+  start: '989'
+  end: '1043'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Lion leaves a dead eland on a high bank in Jackal's care while going to
+    drink. Jackal removes a stepping stone, eats the eland with his wife, and repeatedly
+    offers Lion rotten ropes while pretending aloud that they are strong. Each time
+    Lion nears the top, Jackal breaks or cuts the rope so Lion falls. Jackal beats
+    a dry hide to feign blaming his wife, then leaves with his wife after Lion is
+    fatally hurt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lion has caught a large dead eland on top of a high bank and tells Jackal
+    to guard it and not eat any while Lion goes to drink water.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jackal removes a stone that Lion needs in order to reach the bank on his return.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jackal and his wife eat from the eland after Lion leaves.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: Lion returns from the river, cannot scale the bank, and asks Jackal for help.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jackal privately asks his wife for old or bad ropes while publicly asking
+    her for strong ropes for Lion.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: obs:6
+  text: When Lion climbs near the top, Jackal breaks, cuts, or tugs the rope so Lion
+    rolls down again.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: obs:7
+  text: Jackal beats a dry hide and loudly blames his wife for supplying bad rope.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: Lion orders Jackal to stop beating his wife and demands help, threatening
+    Jackal if he does not help.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: After the final fall, Lion lies roaring in pain and is described as fatally
+    hurt; Jackal says he is coming to help but walks away with his wife.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: Animal figure who caught the eland, leaves to drink, returns unable
+    to scale the bank, tries to climb by rope, falls repeatedly, and is fatally hurt.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Jackal
+  description: Animal figure entrusted with the eland who removes the stepping stone,
+    eats with his wife, supplies bad ropes while pretending they are strong, causes
+    Lion to fall, beats a dry hide, and walks away.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Jackal's wife
+  description: Jackal's wife, who eats the eland with Jackal and gives him the bad
+    ropes he requests privately.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: Owner or captor of the eland
+  assigned_to:
+  - fig:1
+  basis: Lion has caught the eland and calls it his when instructing Jackal not to
+    eat it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Deceiver and false helper
+  assigned_to:
+  - fig:2
+  basis: Jackal promises to help Lion with a rope while secretly arranging rotten
+    or bad ropes and then breaking them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: Accomplice
+  assigned_to:
+  - fig:3
+  basis: Jackal's wife eats the eland with him and supplies the bad ropes requested
+    in asides.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:4
+  label: Deceived and injured victim
+  assigned_to:
+  - fig:1
+  basis: Lion relies on the ropes supplied by Jackal, falls repeatedly, and is fatally
+    hurt.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:5
+  label: Meat-taker
+  assigned_to:
+  - fig:2
+  basis: Jackal eats from the eland despite being told not to eat any.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Eland carcass or meat
+  literal_form: large dead eland on the high bank
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: River water
+  literal_form: river and water Lion goes to drink
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: High bank or hillside
+  literal_form: top of a high bank; side of the hill down which Lion rolls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: Removed stepping stone
+  literal_form: stone on which Lion had to step to reach the bank
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Rotten rope
+  literal_form: old, thin, rotten, or worst rope publicly described as strong buffalo
+    rope
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: Dry hide
+  literal_form: dry hide beaten by Jackal while he shouts at his wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lion entrusts the eland to Jackal
+  summary: Lion has a dead eland on a high bank, wants water, and orders Jackal to
+    look after it without eating any.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jackal removes the return path and eats
+  summary: After Lion goes to the river, Jackal removes a needed stepping stone and
+    eats the eland with his wife; Lion cannot climb back up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First rope deception
+  summary: Jackal promises a rope, privately asks for a bad one while publicly asking
+    for a strong one, then jerks the rope so Lion falls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Feigned blame of wife
+  summary: Jackal beats a dry hide and loudly blames his wife for the bad rope; Lion
+    responds by telling Jackal to stop beating his wife and to help him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Repeated rope sabotage
+  summary: Jackal repeats the private and public rope instructions, cuts the rope
+    when Lion nears the top, and again performs the dry-hide accusation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Final fall and departure
+  summary: Jackal asks aloud for the strongest rope but privately asks for the worst,
+    breaks it by tugging as Lion reaches the top, and leaves with his wife after Lion
+    is fatally hurt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Trickster deceives a stronger animal at a boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal controls Lion's access up the bank after removing the stepping stone
+    and repeatedly uses deceptive rope offers to make Lion fall.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The taxonomy label is broad; the passage itself does not provide an explicit
+    comparative framing.
+- id: motif:2
+  label: Entrusted food consumed by the guardian
+  taxonomy_refs: []
+  basis: Lion tells Jackal not to eat any of the eland, but Jackal and his wife eat
+    from it while Lion is away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this food-guardian pattern.
+- id: motif:3
+  label: False rescue by sabotaged rope
+  taxonomy_refs: []
+  basis: Jackal offers ropes as help but arranges weak ropes or cuts and breaks them
+    when Lion nears safety.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied taxonomy family.
+- id: motif:4
+  label: Public speech contradicted by private aside
+  taxonomy_refs: []
+  basis: Jackal repeatedly says aloud that his wife should give a strong rope while
+    privately asking her for a weak or bad rope.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The extraction identifies a rhetorical pattern in the passage, not a named
+    comparative motif from the supplied taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage functions as an example of a broad trickster-boundary pattern:
+    Jackal, a weaker deceiver figure, manipulates access across the bank and river
+    setting to defeat Lion, the stronger animal.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports functional similarity only; it gives no evidence
+    for historical contact, common inheritance, or a specific external analogue.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 991-995
+  quote_or_summary: Lion has caught a large eland on a high bank, goes to drink water,
+    and tells Jackal to look after the eland and not eat any; Jackal agrees.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 997-1000
+  quote_or_summary: Jackal removes a stone needed for Lion to reach the bank, eats
+    the eland with his wife, and Lion returns unable to scale the bank.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1002-1006
+  quote_or_summary: Jackal offers to let down a rope, privately asks his wife for
+    an old thin hide rope, and aloud asks for a strong buffalo rope.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1008-1012
+  quote_or_summary: The wife gives an old rotten rope; after more eating, Jackal lets
+    it down, jerks it when Lion nears the brink, and Lion rolls down near the river.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1014-1019
+  quote_or_summary: Jackal beats a dry hide and shouts blame at his wife; Lion tells
+    Jackal to stop beating his wife and to help him climb up.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1021-1031
+  quote_or_summary: Jackal repeats the private request for an old rope and public
+    request for a strong rope, cuts the rope when Lion is near the top, then again
+    beats the hide and blames his wife.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1033-1034
+  quote_or_summary: Jackal says aloud to give the strongest rope, and aside asks for
+    the worst rope of the lot.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; brief paraphrased excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 1036-1042
+  quote_or_summary: Jackal lets down another rope, tugs it so it breaks as Lion reaches
+    the top, Lion rolls down the hill fatally hurt, and Jackal says he is coming to
+    help but walks away with his wife.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    beyond the supplied taxonomy are descriptive and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and source metadata. No historical-contact or common-inheritance claim is made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l989-l1043
+  passage_sha256=f1bc6dd6459f0232d82d749db4806cd2aad223a668c3ccc5bba2e1edbd8942a1
+

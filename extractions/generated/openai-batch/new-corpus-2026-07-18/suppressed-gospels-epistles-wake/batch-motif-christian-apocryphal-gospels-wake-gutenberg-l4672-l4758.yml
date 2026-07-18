@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l4672-l4758
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAP. XVII. / CHAPTER XVIII. / CHAPTER XIX. / CHAPTER XX.; lines 4672-4758
+  start: '4672'
+  end: '4758'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Jesus is sent to school in Jerusalem, where Zaccheus and then another schoolmaster
+    attempt to teach him the alphabet. Jesus asks for the meaning of Aleph before
+    pronouncing Beth, explains matters of letters unknown to the master, and is judged
+    to need no learning. A second master who lifts his hand to whip him has his hand
+    withered and dies, after which Joseph says Jesus should not be allowed out of
+    the house because those who displease him are killed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Zaccheus, a schoolmaster at Jerusalem, asks Joseph why he has not sent Jesus
+    to learn his letters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joseph agrees, tells St. Mary, and they bring Jesus to Zaccheus.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Zaccheus writes out an alphabet for Jesus and asks him to say Aleph and then
+    Beth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jesus says the master should first tell him the meaning of Aleph, and then
+    he will pronounce Beth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the master threatens to whip him, Jesus explains meanings, forms, points,
+    and ordering of letters, including things the master had not heard or read.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jesus then clearly recites the alphabet from Aleph through the end.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Zaccheus says he believes the boy was born before Noah, tells Joseph the boy
+    is more learned than any master, and tells Mary her son has no need of learning.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Jesus is brought to a more learned master, and the same Aleph/Beth exchange
+    is repeated.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When the second master lifts his hand to whip Jesus, the master's hand withers
+    and he dies.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Joseph tells St. Mary that they will no longer allow Jesus to go out of the
+    house, saying that everyone who displeases him is killed.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lord Jesus
+  description: A boy sent to school to learn letters; he questions the masters, explains
+    the alphabet, and is described as needing no learning.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Joseph
+  description: Jesus is addressed through him; he agrees to send Jesus to school and
+    later tells Mary they should not allow Jesus out of the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: St. Mary
+  description: Joseph tells her of the schooling, Zaccheus speaks to her about her
+    son, and Joseph later addresses her about keeping Jesus in the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Zaccheus
+  description: A schoolmaster at Jerusalem who asks to teach Jesus, writes out the
+    alphabet, threatens to whip him, and then declares him more learned than any master.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: More learned master
+  description: A second schoolmaster to whom Jesus is brought; he asks Jesus to pronounce
+    Beth after Aleph, lifts his hand to whip him, then his hand withers and he dies.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sent pupil
+  assigned_to:
+  - fig:1
+  basis: Jesus is brought to school so that he may learn his letters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: schoolmaster
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Zaccheus is named as a schoolmaster, and Jesus is later taken to another,
+    more learned master.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: parental or household guardian
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Joseph and St. Mary are involved in sending Jesus to school and deciding
+    whether he may go out of the house.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: learned child who instructs teachers
+  assigned_to:
+  - fig:1
+  basis: Jesus explains the letters in ways unknown to the master and is said to be
+    more learned than any master.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: would-be disciplinarian
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The first master threatens to whip Jesus, and the second lifts his hand to
+    whip him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: Alphabet sequence
+  literal_form: Written and spoken alphabet beginning with Aleph, Beth, Gimel, and
+    Daleth
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Aleph and Beth
+  literal_form: The first letters used as the teaching prompt and as objects of explanation
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Whip threat or raised hand
+  literal_form: Threat to whip Jesus and a lifted hand to whip him
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Withered hand
+  literal_form: The second master's hand withers when he lifts it to whip Jesus
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Zaccheus proposes schooling
+  summary: At Jerusalem, Zaccheus asks Joseph to send Jesus to him to learn letters;
+    Joseph agrees and tells Mary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First alphabet lesson reversed
+  summary: Zaccheus writes the alphabet and prompts Jesus, but Jesus asks for the
+    meaning of Aleph and then explains the letters beyond the master's knowledge.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Zaccheus recognizes Jesus' learning
+  summary: Zaccheus expresses surprise, says the boy was born before Noah, and tells
+    Joseph and Mary that Jesus is more learned than any master and needs no learning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Second schoolmaster's failed discipline
+  summary: A more learned master repeats the alphabet prompt; when he lifts his hand
+    to whip Jesus, his hand withers and he dies.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Joseph resolves to keep Jesus indoors
+  summary: Joseph tells St. Mary that Jesus should not be allowed out because those
+    who displease him are killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Miraculous learned child
+  taxonomy_refs:
+  - miraculous_child
+  - wisdom
+  basis: Jesus is presented as a child sent to school, yet he explains the alphabet
+    beyond the master's learning and is declared to have no need of instruction.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the source or mechanism of Jesus' knowledge.
+- id: motif:2
+  label: Teacher taught by the pupil
+  taxonomy_refs:
+  - wisdom
+  basis: The schoolmaster attempts to teach letters, but Jesus asks him for meaning
+    first and then supplies explanations unknown to the master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is expressed as a scene pattern rather than a named motif in the
+    passage.
+- id: motif:3
+  label: Punishment of the would-be disciplinarian
+  taxonomy_refs:
+  - divine_judgment
+  basis: The second master lifts his hand to whip Jesus; his hand withers and he dies.
+    Joseph then states that everyone who displeases Jesus is killed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly identify the death as divine judgment
+    or state a causal mechanism.
+- id: motif:4
+  label: Household restriction after dangerous power
+  taxonomy_refs: []
+  basis: After the second master's death, Joseph says Jesus will no longer be allowed
+    out of the house because those who displease him are killed.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a local narrative response within the passage, not tied to an
+    available taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER XX, vv. 1-3; lines 4672-4758
+  quote_or_summary: Zaccheus, a schoolmaster at Jerusalem, asks Joseph to send Jesus
+    to learn letters; Joseph agrees and tells St. Mary.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:2
+  type: summary
+  locator: CHAPTER XX, vv. 4-6; lines 4672-4758
+  quote_or_summary: The master writes an alphabet, asks Jesus to say Aleph and Beth,
+    and Jesus asks first for the meaning of Aleph.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:3
+  type: summary
+  locator: CHAPTER XX, vv. 7-9; lines 4672-4758
+  quote_or_summary: When threatened with whipping, Jesus explains letter meanings,
+    forms, points, and order, and then recites the alphabet clearly.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:4
+  type: quote
+  locator: CHAPTER XX, vv. 10-12; lines 4672-4758
+  quote_or_summary: Zaccheus says, "I believe this boy was born before Noah," calls
+    him "more learned than any master," and tells Mary, "This your son has no need
+    of any learning."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; brief excerpt.
+- id: ev:5
+  type: summary
+  locator: CHAPTER XX, vv. 13-15; lines 4672-4758
+  quote_or_summary: Jesus is brought to a more learned master; after the Aleph/Beth
+    exchange, the master lifts his hand to whip him, his hand withers, and he dies.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:6
+  type: quote
+  locator: CHAPTER XX, v. 16; lines 4672-4758
+  quote_or_summary: Joseph says to St. Mary, "Henceforth we will not allow him to
+    go out of the house; for every one who displeases him is killed."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; brief excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied CHAPTER XX passage. Motif candidates
+    are evidence-based but should be reviewed, especially the divine_judgment classification
+    because the passage does not explicitly name a judging agent. No comparison claims
+    were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The provided locator label mentions multiple chapters, but the supplied passage_text contains only CHAPTER XX; extraction is limited to that supplied text.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l4672-l4758
+  passage_sha256=202759528bcc3de883cee744e219354c3d4978cbad31fabfc2d4a986b78bee14
+

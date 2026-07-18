@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l1916-l1990
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER IX. / CHAPTER X. / CHAPTER XI. / CHAP. XII.; lines 1916-1990
+  start: '1916'
+  end: '1990'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A decree from Emperor Augustus requires taxation of Jews connected with
+    Bethlehem. Joseph worries how to register Mary, then takes her on an ass toward
+    Bethlehem with Simon following. On the way Mary alternates between sorrow and
+    laughter, explaining that she sees two people, one mourning and one rejoicing.
+    As birth approaches she asks to be taken down, and Joseph finds a cave and brings
+    her into it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A decree from Emperor Augustus orders taxation of Jews who were of Bethlehem
+    in Judaea.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joseph says he will ensure his children are taxed but is uncertain how to
+    register Mary.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Joseph saddles an ass, places Mary on it, and travels toward Bethlehem with
+    Simon following.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Joseph observes Mary first sorrowful and later laughing.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'Mary explains that she sees two people: one weeping and mourning, the other
+    laughing and rejoicing.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mary asks Joseph to take her down from the ass because what is within her
+    presses to come forth.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Joseph says the place is a desert.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Joseph finds a cave and brings Mary into it.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Emperor Augustus
+  description: The emperor whose decree initiates the taxation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Joseph
+  description: He plans taxation for his household, escorts Mary, questions her expressions,
+    and finds a cave for her.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Mary
+  description: A young woman traveling on an ass; she is sorrowful and joyful by turns,
+    reports seeing two people, and asks to be taken down because birth is near.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Simon
+  description: He follows after Mary and Joseph on the journey toward Bethlehem.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: two people seen by Mary
+  description: One is weeping and mourning; the other is laughing and rejoicing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: imperial decree-giver
+  assigned_to:
+  - fig:1
+  basis: The passage states that a decree went forth from Emperor Augustus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: household registrar
+  assigned_to:
+  - fig:2
+  basis: Joseph discusses how to have his children and Mary taxed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: escort and shelter-finder
+  assigned_to:
+  - fig:2
+  basis: Joseph saddles the ass, travels with Mary, takes her down, finds a cave,
+    and brings her into it.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: pregnant traveler
+  assigned_to:
+  - fig:3
+  basis: Mary is placed on the ass and later says what is within her presses to come
+    forth.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: vision reporter
+  assigned_to:
+  - fig:3
+  basis: Mary reports seeing two people with opposite emotional states.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: journey companion
+  assigned_to:
+  - fig:4
+  basis: Simon follows after Mary and Joseph on the journey.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: contrasting visionary pair
+  assigned_to:
+  - fig:5
+  basis: Mary describes two people, one mourning and one rejoicing.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ass
+  literal_form: saddled ass carrying Mary
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: desert place
+  literal_form: desert setting where Joseph says there is no clear place to take Mary
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: cave
+  literal_form: cave found by Joseph and used as shelter for Mary
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: contrasting mournful and joyful figures
+  literal_form: two people, one weeping and mourning, the other laughing and rejoicing
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Taxation decree and Joseph's concern
+  summary: A decree orders taxation at Bethlehem; Joseph considers how to register
+    his children and Mary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Journey toward Bethlehem
+  summary: Joseph saddles an ass, places Mary on it, and travels toward Bethlehem
+    with Simon following.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mary's alternating sorrow and joy
+  summary: Joseph notices Mary's changing expressions, and Mary says she sees two
+    people, one mourning and one rejoicing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Approach of birth and entrance into the cave
+  summary: Mary asks to be taken down because birth is pressing; Joseph identifies
+    the place as desert, finds a cave, and brings her into it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: journey under decree toward a birth setting
+  taxonomy_refs: []
+  basis: The taxation decree causes travel toward Bethlehem while Mary is pregnant
+    and close to delivery.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage does not yet narrate the actual birth.
+- id: motif:2
+  label: contrasting signs of mourning and rejoicing before birth
+  taxonomy_refs:
+  - duality
+  basis: Mary sees two people with opposite emotional states while nearing delivery.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explain who the two people are or what they signify.
+- id: motif:3
+  label: cave shelter for imminent birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: Mary's delivery is imminent, and Joseph finds a cave and brings her into
+    it.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The sacred quality of the birth is suggested by Joseph's reference to
+    the Lord's appointment, but the birth itself is not narrated in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAP. XII.1
+  quote_or_summary: A decree from Emperor Augustus orders taxation of Jews associated
+    with Bethlehem in Judaea.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: CHAP. XII.2-4
+  quote_or_summary: Joseph says he will have his children taxed, is unsure how to
+    classify Mary, and leaves the matter to the Lord's appointment.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: CHAP. XII.5
+  quote_or_summary: Joseph saddles the ass, places Mary on it, and Joseph and Simon
+    follow her toward Bethlehem.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: CHAP. XII.6-8
+  quote_or_summary: Joseph sees Mary sorrowful, then later laughing, and asks why
+    her countenance shows sorrow and joy by turns.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: CHAP. XII.9
+  quote_or_summary: "“I see two people with mine eyes, the one weeping and mourning,
+    the other laughing and rejoicing.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: CHAP. XII.10, 12-13
+  quote_or_summary: Mary asks Joseph to take her down from the ass because what is
+    within her presses to come forth; Joseph takes her down.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: CHAP. XII.11
+  quote_or_summary: "“Whither shall I take thee? for the place is a desert.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:8
+  type: summary
+  locator: CHAP. XII.14
+  quote_or_summary: Joseph finds a cave and brings Mary into it.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are conservative; the
+    passage implies imminent birth but does not narrate the birth within this excerpt.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l1916-l1990
+  passage_sha256=dc07bdc36e44e2f9d9499269150982fc1199fe657c51425568b49a5694d367f1
+

@@ -1,0 +1,507 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8070-l8157
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8070-8157
+  start: '8070'
+  end: '8157'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three impoverished brothers set out to seek fortune. The eldest takes silver
+    from a silver hill and returns home; the second takes gold from a gold hill and
+    returns. The third continues through a larger forest, receives and tests a wishing-cloth
+    that produces food, then trades it to a charcoal-burner for a soldier's knapsack
+    that summons armed men when tapped.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three brothers are in extreme poverty and hunger and decide to go into the
+    world to seek their fortune.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In a great forest, the brothers find a hill that is all silver; the eldest
+    takes as much silver as he can carry and goes home.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The two remaining brothers find a hill that is all gold; the second brother
+    fills his pockets with gold, says farewell, and goes home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The third brother says silver and gold do not move him and continues in hope
+    of something better.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After entering a still larger forest and becoming exhausted from lack of food
+    and drink, the third brother climbs a high tree and sees only treetops.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the third brother descends hungry from the tree, he finds a table beneath
+    it richly spread with food and eats until satisfied.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The third brother folds up the table-cloth, carries it with him, and later
+    discovers that it produces dishes of food when he wishes it to be covered.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: In a lonely wood at night, the youth meets a dusty black charcoal-burner who
+    is burning charcoal and preparing potatoes by the fire.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The youth uses the cloth to provide boiled and baked meat for himself and
+    the charcoal-burner.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The charcoal-burner proposes trading an old soldier's knapsack with concealed
+    wonderful powers for the table-cloth.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The charcoal-burner says tapping the knapsack summons a corporal with six
+    armed men who do whatever the owner commands.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: After the exchange, the youth taps the knapsack; seven warriors appear, and
+    the corporal asks what his lord and ruler wishes.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: three brothers
+  description: Three brothers who have fallen into poverty and hunger and set out
+    to seek fortune.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: eldest brother
+  description: The eldest brother finds his desired good luck in the silver hill,
+    takes silver, and returns home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: second brother
+  description: The second brother chooses gold from the gold hill, says farewell to
+    his brother, and returns home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: third brother / youth / traveler
+  description: The remaining brother continues beyond silver and gold, obtains and
+    uses a wishing-cloth, meets the charcoal-burner, and trades for the soldier's
+    knapsack.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:5
+  name_or_label: charcoal-burner
+  description: A dusty black charcoal-burner in a lonely wood, burning charcoal and
+    preparing potatoes by the fire, who trades a soldier's knapsack for the table-cloth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: corporal with six armed men / seven warriors
+  description: Armed men summoned from the knapsack when it is tapped; the corporal
+    speaks for them and asks the youth's wish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: impoverished fortune-seekers
+  assigned_to:
+  - fig:1
+  basis: The brothers lack food and drink and decide to go into the world to seek
+    fortune.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: brother who accepts material treasure and returns home
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The eldest takes silver and returns home; the second takes gold and returns
+    home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: persistent seeker of fortune
+  assigned_to:
+  - fig:4
+  basis: The third brother refuses silver and gold and continues in hope of something
+    better.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: holder and user of magical objects
+  assigned_to:
+  - fig:4
+  basis: He keeps and commands the wishing-cloth and later receives and tests the
+    magical knapsack.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:5
+  label: exchanger and previous holder of the knapsack
+  assigned_to:
+  - fig:5
+  basis: The charcoal-burner owns the soldier's knapsack, explains its powers, and
+    trades it for the table-cloth.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: summoned armed helpers
+  assigned_to:
+  - fig:6
+  basis: A corporal and six armed men appear when the knapsack is tapped and are said
+    to obey commands.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: silver hill
+  literal_form: a hill in the forest that is all silver
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gold hill
+  literal_form: a hill that is all gold
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: high tree in endless forest
+  literal_form: a high tree climbed to see the end of the forest
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wishing-cloth
+  literal_form: a table-cloth that produces dishes of food when wished or commanded
+    to cover itself
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: charcoal-burner's fire
+  literal_form: a fire by which the charcoal-burner prepares potatoes
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: soldier's knapsack
+  literal_form: an old and shabby soldier's knapsack with concealed powers
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:7
+  label: tapping gesture
+  literal_form: tapping the knapsack with the hand to summon armed men
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: poverty and departure
+  summary: Three hungry brothers leave home to seek their fortune in the world.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: silver and gold hills
+  summary: The brothers encounter silver and gold hills; the eldest and second brothers
+    each accept treasure and return home, while the third continues.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: tree, hunger, and wishing-cloth
+  summary: The third brother becomes exhausted in a large forest, climbs a tree, finds
+    food beneath it, keeps the table-cloth, and learns it can produce food by wish.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: meal with the charcoal-burner
+  summary: In a lonely wood, the youth meets a charcoal-burner and uses the wishing-cloth
+    to provide a better meal than the potatoes by the fire.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: exchange for the knapsack
+  summary: The charcoal-burner trades the old soldier's knapsack for the table-cloth;
+    the youth taps the knapsack and armed men appear.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: poverty-driven departure to seek fortune
+  taxonomy_refs:
+  - departure
+  basis: The brothers' hunger and poverty prompt them to go into the world seeking
+    fortune.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage frames the departure as economic need rather than explicitly
+    sacred or initiatory travel.
+- id: motif:2
+  label: successive choice between lesser treasure and further quest
+  taxonomy_refs: []
+  basis: The eldest stops at silver, the second stops at gold, and the third refuses
+    both in hope of something better.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is identified as a passage-level narrative pattern without assigning
+    a broader taxonomy ref.
+- id: motif:3
+  label: magic food-providing cloth
+  taxonomy_refs: []
+  basis: The table-cloth produces abundant prepared food when the youth wishes or
+    commands it to cover itself.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: No available supplied motif-family taxonomy directly names this object
+    type.
+- id: motif:4
+  label: hospitality display of a magical food object
+  taxonomy_refs: []
+  basis: The youth offers the charcoal-burner a meal and demonstrates the cloth's
+    power by producing meat for both of them.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents shared eating and invitation, but does not explicitly
+    state a ritual hospitality theme.
+- id: motif:5
+  label: exchange of magical objects
+  taxonomy_refs: []
+  basis: 'The charcoal-burner proposes and completes an exchange: the table-cloth
+    for the soldier''s knapsack with hidden powers.'
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: Although an exchange occurs, the passage does not describe it as sacred;
+    no sacred-exchange taxonomy ref is applied.
+- id: motif:6
+  label: summoned armed servants from a container
+  taxonomy_refs: []
+  basis: Tapping the knapsack summons a corporal and six armed men who are said to
+    obey commands.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage ends before showing what commands, if any, the youth gives
+    them.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8070-8075
+  quote_or_summary: Three impoverished brothers endure hunger and decide to go into
+    the world to seek their fortune.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8076-8082
+  quote_or_summary: In a great forest, the brothers find an all-silver hill; the eldest
+    takes as much silver as he can carry and returns home, while the others continue.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8082-8089
+  quote_or_summary: After two more days, the remaining brothers find an all-gold hill;
+    the second brother fills his pockets with gold, says farewell, and returns home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8089-8096
+  quote_or_summary: The third brother says silver and gold do not move him, continues
+    into a larger forest, becomes exhausted without food or drink, and climbs a high
+    tree but sees only treetops.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8097-8106
+  quote_or_summary: Hungry while descending, the third brother wishes to eat; beneath
+    the tree he finds a table richly spread with food, eats, then folds up the table-cloth
+    and takes it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8107-8116
+  quote_or_summary: He spreads the cloth, wishes it covered with good cheer, and dishes
+    appear; he recognizes it as a wishing-cloth, values it above silver and gold,
+    and continues wandering.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8117-8125
+  quote_or_summary: At night in a lonely wood, the youth meets a dusty black charcoal-burner
+    who is burning charcoal and preparing potatoes by the fire; they discuss sharing
+    food.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8126-8135
+  quote_or_summary: The youth brings out the cloth, commands it to cover itself, and
+    boiled and baked meat instantly appear; the charcoal-burner eats with him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8135-8141
+  quote_or_summary: After the meal, the charcoal-burner praises the table-cloth and
+    proposes exchanging an old shabby soldier's knapsack with concealed wonderful
+    powers for it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:10
+  type: summary
+  locator: lines 8142-8157
+  quote_or_summary: The charcoal-burner explains that tapping the knapsack summons
+    a corporal with six fully armed men who obey commands; the youth trades, taps
+    the knapsack, and seven warriors appear with the corporal asking his wish.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are descriptive and passage-level; only the directly supported broad taxonomy
+    ref 'departure' and literal symbol refs 'tree' and 'fire' are used. No comparison
+    claims are made because the passage itself does not compare this episode to another
+    text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Candidate motifs avoid unsupported taxonomy assignments.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8070-l8157
+  passage_sha256=4a89741812a091f2a87927cf25e0291a547211d65909deb4a79c6553041ee35f
+

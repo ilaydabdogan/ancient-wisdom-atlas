@@ -1,0 +1,537 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l2515-l2569
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: INTRODUCTION / C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC;
+    lines 2515-2569
+  start: '2515'
+  end: '2569'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Peredur enters an open castle hall, sees chessmen playing by themselves,
+    and throws the chessboard into a lake. A black maiden says he has caused the Empress
+    the loss of her chessboard and sends him to slay a black man at the Castle of
+    Ysbidinongyl. After first granting mercy, Peredur returns and kills the black
+    man. The maiden then says he may not see the Empress unless he kills a destructive
+    one-horned stag in the forest. A small dog belonging to the Empress guides him
+    and rouses the stag, and Peredur beheads it. A lady on horseback arrives, takes
+    the dog, calls the stag the fairest jewel in her dominions, and offers friendship
+    if Peredur challenges a man three times at a cromlech in a grove on a mountain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Peredur proceeds toward a castle whose gate is open, enters an open hall door,
+    and goes inside.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A chessboard is in the hall, and the chessmen play against each other by themselves;
+    one side shouts as though they were living men.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Peredur becomes angry, gathers the chessmen, and casts the chessboard into
+    a lake.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The black maiden says Peredur has caused the Empress to lose her chessboard
+    and tells him that recovery requires going to the Castle of Ysbidinongyl and slaying
+    a black man who lays waste the Empress's dominions.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Peredur fights the black man, grants him mercy on condition that he restore
+    the chessboard, is told the board has not been restored, returns, and slays him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When Peredur asks where the Empress is, the black maiden says he will not
+    see her unless he slays the monster in the forest.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The forest monster is described as a stag, swift as a bird, with one long
+    sharp horn; it destroys tree branches, kills animals, causes others to starve,
+    and drinks up the fish-pond each night.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A little dog belonging to the Empress guides Peredur, rouses the stag, and
+    brings it toward him; the stag attacks Peredur.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Peredur lets the attacking stag pass and cuts off its head with his sword;
+    the stag has a golden collar around its neck.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: A lady on horseback takes the little dog, reproaches Peredur for slaying the
+    fairest jewel in her dominions, and says he may gain her friendship by challenging
+    a man three times at a cromlech in a grove on a mountain.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Peredur
+  description: The main acting figure in the passage; he enters the castle, throws
+    the chessboard into the lake, fights and slays the black man, slays the stag,
+    and asks how to obtain the lady's friendship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: black maiden
+  description: A maiden who condemns Peredur's actions, explains the loss of the Empress's
+    chessboard, directs him to the black man, later directs him to the forest stag,
+    and provides the little dog as guide.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Empress
+  description: An absent sovereign figure whose chessboard is lost, whose dominions
+    and possessions are said to be wasted, and whose little dog is used to rouse the
+    stag.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: black man at the Castle of Ysbidinongyl
+  description: A man said to lay waste the dominions and possessions of the Empress;
+    he fights Peredur, begs mercy, and is later slain by Peredur.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: one-horned stag
+  description: A forest monster described as very swift, with one long sharp horn;
+    it destroys branches, kills animals, drains the fish-pond, attacks Peredur, and
+    is beheaded.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: little dog belonging to the Empress
+  description: A small dog owned by the Empress; it guides Peredur, rouses and chases
+    the stag toward him, and is later taken by the lady on horseback.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: lady on horseback
+  description: A lady who arrives after the stag is slain, takes the little dog, reproaches
+    Peredur, identifies the stag as the fairest jewel in her dominions, and sets a
+    condition for friendship.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: questing combatant
+  assigned_to:
+  - fig:1
+  basis: Peredur seeks directions, responds to conditions set by others, and fights
+    or slays the black man and the stag.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: admonisher and task-director
+  assigned_to:
+  - fig:2
+  basis: The black maiden curses or rebukes Peredur and gives instructions for recovering
+    the chessboard and seeing the Empress.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: absent sovereign and owner
+  assigned_to:
+  - fig:3
+  basis: The Empress owns the chessboard and the dog; her dominions and possessions
+    are described as being laid waste.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: ravaging adversary
+  assigned_to:
+  - fig:4
+  basis: The black man is said to lay waste the Empress's dominions or possessions
+    and becomes Peredur's opponent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: forest monster and quarry
+  assigned_to:
+  - fig:5
+  basis: The stag is called the forest monster, described as destructive, chased toward
+    Peredur, and slain by him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: animal guide and driver of quarry
+  assigned_to:
+  - fig:6
+  basis: The little dog guides Peredur, rouses the stag, and brings it toward him.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: complainant and conditional task-giver
+  assigned_to:
+  - fig:7
+  basis: The lady reproaches Peredur for killing the stag and gives him a condition
+    for obtaining her friendship.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: self-playing chessboard
+  literal_form: A chessboard in the hall with chessmen playing by themselves and shouting
+    as though living men; the board is the Empress's valued possession.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: lake receiving the chessboard
+  literal_form: The lake into which Peredur casts the chessboard.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Castle of Ysbidinongyl
+  literal_form: The castle where the black man is found and fought.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: forest and damaged trees
+  literal_form: The forest where the stag destroys branches of the best trees and
+    prevents mortals from entering.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: single horn of the stag
+  literal_form: One horn in the stag's forehead, as long as a spear shaft and extremely
+    sharp.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: fish-pond drained by the stag
+  literal_form: A fish-pond that the stag drinks up every night, leaving the fishes
+    exposed until the water returns.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: little dog guide
+  literal_form: The Empress's little dog used to guide Peredur and rouse the stag.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: golden collar on the stag
+  literal_form: A golden collar around the stag's neck after it is slain.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: mountain grove and cromlech
+  literal_form: A mountain with a grove, and in the grove a cromlech where Peredur
+    is told to challenge a man three times.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  - tree
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Open castle and self-playing chessboard
+  summary: Peredur enters an open castle hall, observes chessmen playing by themselves,
+    becomes angry, and casts the chessboard into a lake; the black maiden then appears
+    and rebukes him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recovery quest against the black man
+  summary: The black maiden sends Peredur to the Castle of Ysbidinongyl to recover
+    the chessboard by slaying a black man. Peredur first grants mercy, then, after
+    being told the chessboard is not restored, returns and kills him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hunt and slaying of the one-horned stag
+  summary: The black maiden says Peredur cannot see the Empress unless he slays the
+    destructive forest stag. The Empress's little dog guides him and drives the stag
+    toward him, and Peredur beheads it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Lady's complaint and next challenge
+  summary: A lady on horseback arrives, takes the dog, calls the slain stag the fairest
+    jewel in her dominions, and tells Peredur that he may obtain her friendship by
+    challenging a man three times at a cromlech in a mountain grove.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Self-acting game pieces in an enchanted hall
+  taxonomy_refs: []
+  basis: The hall contains a chessboard whose chessmen play by themselves and shout
+    as though living men.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the agency behind the chessmen.
+- id: motif:2
+  label: Impulsive damage creates a recovery quest
+  taxonomy_refs:
+  - mystical_quest
+  basis: Peredur throws the chessboard into the lake, after which the black maiden
+    says it must be recovered by going to Ysbidinongyl and slaying the black man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The supplied taxonomy reference is broad; the passage frames the action
+    as recovery of a lost chessboard rather than explicitly as a mystical quest.
+- id: motif:3
+  label: Slaying a ravager to restore a ruler's domain or possession
+  taxonomy_refs: []
+  basis: The black man is said to lay waste the Empress's dominions or possessions,
+    and Peredur is directed to slay him as part of recovering the chessboard.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state that the dominions are restored after the black
+    man's death.
+- id: motif:4
+  label: Sequential tasks imposed by female intermediaries
+  taxonomy_refs:
+  - initiation
+  - mystical_quest
+  basis: The black maiden directs Peredur first against the black man and then against
+    the forest stag, while the later lady sets another combat challenge at the cromlech.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The sequence is explicit, but the passage does not call it an initiation
+    or explain its larger ritual meaning.
+- id: motif:5
+  label: Animal guide drives a monster or quarry toward the hero
+  taxonomy_refs: []
+  basis: The Empress's little dog guides Peredur, rouses the stag, and brings it toward
+    him so that it attacks.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The dog is described functionally; no supernatural quality is directly
+    stated for the dog.
+- id: motif:6
+  label: One-horned destructive stag draining water and wasting the forest
+  taxonomy_refs: []
+  basis: The stag has one long sharp horn, destroys tree branches, kills animals,
+    and drinks up the fish-pond each night before Peredur kills it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage calls the stag a monster but does not identify its origin
+    or species beyond 'stag.'
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2515-2521
+  quote_or_summary: Peredur enters the open castle hall, sees chessmen playing by
+    themselves and shouting, becomes angry, and casts the chessboard into the lake.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2522-2531
+  quote_or_summary: The black maiden rebukes Peredur, says he has caused the Empress
+    the loss of her chessboard, and directs him to the Castle of Ysbidinongyl, where
+    a black man lays waste the Empress's dominions; slaying him is said to recover
+    the board.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2532-2541
+  quote_or_summary: Peredur fights the black man, grants him mercy on condition that
+    the chessboard be restored, is told by the maiden that the board is not restored
+    and the monster remains alive, then returns and slays him.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2542-2552
+  quote_or_summary: Peredur asks to see the Empress; the maiden says he must slay
+    the forest monster, a swift one-horned stag that destroys trees, kills animals,
+    causes starvation, and drinks up the fish-pond at night.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2553-2559
+  quote_or_summary: The maiden says no mortal has entered the forest for over a year
+    and provides the Empress's little dog; the dog guides Peredur, rouses the stag,
+    and brings it toward him; the stag attacks and Peredur beheads it with his sword.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2560-2563
+  quote_or_summary: As Peredur looks at the stag's head, a lady on horseback approaches,
+    takes the little dog, and the slain stag's head and body lie before her; the stag
+    has a golden collar around its neck.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2564-2569
+  quote_or_summary: The lady reproaches Peredur for slaying the fairest jewel in her
+    dominions and says he may obtain her friendship by going to a mountain grove with
+    a cromlech and challenging a man three times to fight.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction uses only the supplied passage. Motif labels are candidate
+    descriptions from repeated actions and objects in the passage; broader taxonomy
+    references are limited to the supplied list. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external parallels or unsupported taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l2515-l2569
+  passage_sha256=0137f69ab6150d6410ec36c571ef212eedd7d6f7561444926d8cf8037757dd5a
+

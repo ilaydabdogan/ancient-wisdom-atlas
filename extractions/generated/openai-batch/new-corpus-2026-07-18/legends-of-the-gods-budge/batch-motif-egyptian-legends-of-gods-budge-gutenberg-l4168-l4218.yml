@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.egyptian-legends-of-gods-budge-gutenberg-l4168-l4218
+source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+passage_locator:
+  label: A HYMN TO OSIRIS AND A LEGEND OF THE ORIGIN OF HORUS. / A LEGEND OF PTAH
+    NEFER-HETEP AND THE PRINCESS OF BEKHTEN. / A LEGEND OF THE GOD KHNEMU AND OF A
+    SEVEN YEARS' FAMINE. / I.--INCANTATIONS AGAINST REPTILES AND NOXIOUS CREATURES
+    IN GENERAL.; lines 4168-4218
+  start: '4168'
+  end: '4218'
+  translation: 'Legends of the Gods: The Egyptian Texts, edited with Translations'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives incantations against reptiles, noxious creatures, and
+    poison. Apep, enemy of Ra, is addressed as a winding serpent and ordered to retreat;
+    his destruction is threatened and the spell of Serq is said to drive back his
+    power. A separate anti-poison formula commands poison to come forth and describes
+    Horus using words of power against it and against biting fiends. A final formula,
+    titled as a spell on the cat, summons Ra to his daughter after a scorpion sting
+    on a lonely road, with poison circulating through her body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An incantation addresses Apep as the enemy of Ra and as a winding serpent
+    without arms or legs, and orders him to retreat before Ra.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text says Apep's head shall be cut off, that slaughter will be carried
+    out, and that a great god's knife will overthrow his form.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The spell of the Scorpion-goddess Serq is said to drive back Apep's might.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Poison is directly addressed and commanded to be vomited forth, come out on
+    the earth, retreat, and not rise up toward heaven.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Horus is described as uttering a spell over the poison, hacking it in pieces,
+    spitting upon it, and smiting it with magical spells.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Horus is described as appearing to overthrow the Sebiu fiends that bite.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The text says all men who see Ra praise the son of Osiris.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: A formula summons Ra to his daughter, who has been stung by a scorpion on
+    a lonely road.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The daughter's cry is said to reach the heights of heaven, and the poison
+    is said to have entered and circulated through her body.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The section heading identifies a chapter for casting a spell on the cat.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Apep
+  description: Enemy of Ra addressed as a winding serpent in the form of an intestine,
+    without arms or legs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ra
+  description: Deity before whom Apep is ordered to retreat; later hailed and summoned
+    to his daughter.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Scorpion-goddess Serq
+  description: Goddess whose spell drives back Apep's might.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Horus
+  description: Divine spell-worker who utters spells over poison, hacks it, spits
+    upon it, smites it with magical spells, and is called the son of Osiris.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Osiris
+  description: Named in the phrase identifying Horus as the son of Osiris.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Sebiu fiends
+  description: Biting fiends whom Horus appears to overthrow.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Worm
+  description: A worm addressed in the incantation and commanded to get back and draw
+    out its poison.
+  role_refs:
+  - role:1
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Ra's daughter
+  description: An unnamed daughter of Ra who has been stung by a scorpion on a lonely
+    road and has poison in her body.
+  role_refs:
+  - role:7
+  - role:10
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Scorpion
+  description: Creature that has stung Ra's daughter on a lonely road.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Cat
+  description: Named in the heading as the subject of a chapter for casting a spell
+    on the cat.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: serpentine enemy addressed by incantation
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: Apep is called Ra's enemy and a winding serpent; the Worm is commanded to
+    retreat and draw out poison.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: solar deity opposed to Apep
+  assigned_to:
+  - fig:2
+  basis: Apep is called the enemy of Ra and is ordered to retreat before Ra.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: protective spell-working goddess
+  assigned_to:
+  - fig:3
+  basis: The spell of Serq drives back Apep's might.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine healer and spell-caster against poison
+  assigned_to:
+  - fig:4
+  basis: Horus speaks spells over poison, hacks it, spits on it, and smites it with
+    magical spells.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named divine father in kinship epithet
+  assigned_to:
+  - fig:5
+  basis: Horus is described as the son of Osiris.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: divine son in kinship epithet
+  assigned_to:
+  - fig:4
+  basis: The passage calls Horus the son of Osiris.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: divine parent-child relation
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: The formula says, 'Ra, come to thy daughter.'
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: biting or stinging harmful creature
+  assigned_to:
+  - fig:6
+  - fig:9
+  basis: The Sebiu fiends are said to bite, and the scorpion is said to have stung
+    Ra's daughter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:9
+  label: bearer of poison
+  assigned_to:
+  - fig:7
+  basis: The Worm is told to draw out its poison.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: poisoned victim
+  assigned_to:
+  - fig:8
+  basis: Ra's daughter has been stung by a scorpion, and poison has entered her body.
+  evidence_refs:
+  - ev:3
+- id: role:11
+  label: spell subject named in heading
+  assigned_to:
+  - fig:10
+  basis: The chapter heading names casting a spell on the cat.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: serpent enemy
+  literal_form: Apep as a winding serpent without arms or legs; the Worm as a poison-associated
+    creature addressed in the incantation.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: poison
+  literal_form: Poison that is commanded to be vomited forth, drawn out, and prevented
+    from rising; poison also enters and circulates through Ra's daughter's body.
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: divine words of power
+  literal_form: Spells and speech uttered by Horus and Serq against Apep and poison.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Ra's flame
+  literal_form: The flame of Ra described as being in Apep's accursed soul.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: slaughtering knife
+  literal_form: The slaughtering knife of the great god by which Apep's form is overthrown.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: scorpion sting
+  literal_form: A scorpion sting on a lonely road that brings poison into Ra's daughter's
+    body.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: lonely road
+  literal_form: The lonely road where Ra's daughter is stung by a scorpion.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Apep repelled by incantation
+  summary: Apep is named as Ra's serpent enemy, ordered to retreat, threatened with
+    cutting and slaughter, and opposed by Ra's flame, a divine knife, and the spell
+    of Serq.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Horus expels poison
+  summary: Poison is commanded to leave and retreat; Horus acts against it with spells,
+    hacking, spitting, and magical smiting, while the Worm is ordered to draw out
+    poison and the biting Sebiu fiends are overthrown.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ra summoned to his stung daughter
+  summary: In a formula associated with a spell on the cat, Ra is summoned to his
+    daughter after a scorpion stings her on a lonely road; her cry reaches heaven
+    and poison circulates through her body.
+  figure_refs:
+  - fig:2
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: serpent adversary repelled by divine power
+  taxonomy_refs:
+  - serpent
+  basis: Apep is described as Ra's serpent enemy and is ordered to retreat before
+    Ra; divine flame, knife, and Serq's spell oppose him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an incantation rather than a narrative episode, so the
+    motif is expressed ritually.
+- id: motif:2
+  label: poison expelled by incantation
+  taxonomy_refs: []
+  basis: Poison is directly addressed and ordered to come forth, retreat, and be drawn
+    out; Horus' words of power and magical acts are effective against it.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No exact taxonomy reference for anti-venom incantation is supplied.
+- id: motif:3
+  label: divine healer defeats biting fiends
+  taxonomy_refs: []
+  basis: Horus is described as endowed with life and as overthrowing the Sebiu fiends
+    which bite while acting against poison.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wording is formulaic and brief; the Sebiu fiends are not further described
+    in this passage.
+- id: motif:4
+  label: divine parent summoned for poisoned daughter
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The formula summons Ra to his daughter, who has been stung by a scorpion
+    and poisoned.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The daughter's identity and the resolution of her condition are not included
+    in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4168-4184
+  quote_or_summary: Apep is addressed as Ra's enemy and a winding limbless serpent;
+    he is ordered to retreat, threatened with beheading and slaughter, opposed by
+    Ra's flame and a divine knife, and driven back by the spell of Serq.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4188-4210
+  quote_or_summary: Poison is commanded to come forth and retreat; Horus spells over
+    it, hacks it, spits on it, smites it magically, and appears to overthrow biting
+    Sebiu fiends; the Worm is told to draw out its poison, and Horus is called son
+    of Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4212-4218
+  quote_or_summary: A chapter heading names casting a spell on the cat. The formula
+    hails Ra and summons him to his daughter, who has been stung by a scorpion on
+    a lonely road; her cry reaches heaven and poison circulates through her body.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied lines. Motif candidates are strongest
+    for serpent opposition and poison-expulsion incantation; no separate comparison
+    claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs beyond the supplied available references were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-legends-of-gods-budge-gutenberg__l4168-l4218
+  passage_sha256=073f16c33938a585190abf361afc894e6637270d5765506cee27f7d22c1d336f
+

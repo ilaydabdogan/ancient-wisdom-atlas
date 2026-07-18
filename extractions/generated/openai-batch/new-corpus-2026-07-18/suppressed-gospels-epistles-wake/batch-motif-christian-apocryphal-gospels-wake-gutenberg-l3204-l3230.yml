@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l3204-l3230
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER III. / CHAPTER IV. / CHAPTER V. / CHAPTER VI.; lines 3204-3230
+  start: '3204'
+  end: '3230'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: her son was instantly cleansed from his leprosy
+  summary: A prince's wife hosts Joseph with a feast, washes the Lord Jesus with perfumed
+    water, pours the same water on her leprous son, sees him cleansed, thanks God,
+    blesses Jesus' mother, and gives Lady Mary large gifts before sending her away
+    respectfully.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The prince's wife arises, entertains the visitors, and provides a great feast
+    for Joseph among a large company of men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The next day the prince's wife takes perfumed water to wash the Lord Jesus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prince's wife pours the same water used to wash Jesus upon her son.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The son is instantly cleansed from his leprosy after the water is poured on
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The prince's wife sings thanks to God.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The prince's wife blesses the mother who bore Jesus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The prince's wife asks whether Jesus cures humans of his own nature with the
+    water used to wash his body.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The prince's wife offers very large gifts to Lady Mary and sends her away
+    with great respect.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the prince's wife
+  description: A woman who hosts Joseph, washes Jesus, pours the water on her son,
+    gives thanks, and offers gifts to Lady Mary.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Joseph
+  description: The named recipient of the great feast provided by the prince's wife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the Lord Jesus
+  description: Washed with perfumed water; the water from washing his body is then
+    poured on the prince's wife's son, who is cleansed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the prince's wife's son
+  description: The son brought by the prince's wife; he is cleansed from leprosy after
+    the water is poured on him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Lady Mary / mother that bore Jesus
+  description: Identified as Lady Mary and as the mother who bore Jesus; she receives
+    very large gifts and is sent away respectfully.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: God
+  description: The addressee of the prince's wife's thanks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: large company of men
+  description: A large company of men present at the feast.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: host and giver
+  assigned_to:
+  - fig:1
+  basis: She entertains the visitors, provides a feast, and later offers large gifts
+    to Lady Mary.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: mother and caregiver of afflicted son
+  assigned_to:
+  - fig:1
+  basis: She brings her son and pours the water on him before his cleansing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: honored guest
+  assigned_to:
+  - fig:2
+  basis: The feast is provided for Joseph.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: source of healing water
+  assigned_to:
+  - fig:3
+  basis: The same water used to wash Jesus' body is poured on the son, who is then
+    cleansed; the woman speaks of Jesus curing by such water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: healed sufferer
+  assigned_to:
+  - fig:4
+  basis: He is described as having leprosy and being instantly cleansed.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: mother of Jesus and gift recipient
+  assigned_to:
+  - fig:5
+  basis: The prince's wife blesses the mother who bore Jesus and offers large gifts
+    to Lady Mary.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: deity thanked
+  assigned_to:
+  - fig:6
+  basis: The prince's wife sings thanks to God.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: feast company
+  assigned_to:
+  - fig:7
+  basis: A large company of men is present at the feast.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: perfumed bathwater
+  literal_form: Perfumed water used to wash the Lord Jesus and then poured on the
+    leprous son.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: large gifts
+  literal_form: Very large gifts offered to Lady Mary.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: hospitality feast
+  summary: The prince's wife entertains the visitors and provides a great feast for
+    Joseph in the presence of many men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: washing and healing
+  summary: The prince's wife washes the Lord Jesus with perfumed water, pours the
+    same water on her son, and the son is immediately cleansed from leprosy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: thanksgiving and departure gifts
+  summary: The prince's wife thanks God, blesses Jesus' mother, speaks about Jesus
+    curing through bathwater, gives Lady Mary large gifts, and sends her away respectfully.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: water-mediated miraculous cleansing of leprosy
+  taxonomy_refs: []
+  basis: The son is cleansed immediately after the same perfumed water used to wash
+    Jesus is poured upon him, and the woman's speech explicitly connects the cure
+    with water used to wash Jesus' body.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states the sequence and the woman's interpretation but does
+    not explain the mechanism beyond the water's contact with Jesus' body.
+- id: motif:2
+  label: sacred exchange around holy visitors
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage frames hospitality, healing, thanksgiving, and large gifts to
+    Mary in a connected sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state an explicit bargain or transactional cause;
+    the exchange pattern is inferred from the sequence of feast, healing, thanksgiving,
+    and gifts.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3204-3230; v.33
+  quote_or_summary: The prince's wife entertains the visitors and provides a great
+    feast for Joseph among many men.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3204-3230; v.34
+  quote_or_summary: The next day the prince's wife washes the Lord Jesus with perfumed
+    water, pours the same water on her son, and the son is instantly cleansed from
+    leprosy.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3204-3230; vv.35-36
+  quote_or_summary: The prince's wife thanks God, blesses Jesus' mother, and asks
+    whether Jesus cures humans with the water used to wash his body.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3204-3230; v.37
+  quote_or_summary: The prince's wife offers very large gifts to Lady Mary and sends
+    her away with great respect.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage gives a miracle sequence but does not provide broader comparative
+    framing. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only where supported by the available list and passage evidence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l3204-l3230
+  passage_sha256=a56613be82f6097305b76b1c2ca7676d4339ff193d1adea1a07e3acb3d9ab5ac
+

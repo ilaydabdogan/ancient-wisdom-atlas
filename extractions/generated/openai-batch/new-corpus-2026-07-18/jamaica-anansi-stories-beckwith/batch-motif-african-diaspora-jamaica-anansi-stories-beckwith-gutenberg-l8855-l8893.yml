@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l8855-l8893
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: MODERN EUROPEAN STORIES. / DANCE AND SONG. / WITTICISMS. / OLD-TIME FOOLS.;
+    lines 8855-8893
+  start: '8855'
+  end: '8893'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Three short comic anecdotes under the heading “Witticisms / Old-Time Fools”:
+    a person carrying a clock breaks it after treating its striking as speech; two
+    people sent for rum pour both jugs into a river while trying to taste it in the
+    water; a Congo man tries to catch a falling cotton-tree on his head and is killed.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as witticisms about old-time fools.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the first anecdote, a master sends someone out for a clock.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The clock strikes while being carried on the person’s head.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The carrier threatens the clock, saying that if it talks on his head again
+    he will mash its mouth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The carrier sets the clock down and says that if it can talk, it must walk.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The carrier breaks the clock with a stick when it does not walk.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The master asks how the clock was broken, hears the carrier’s explanation,
+    calls the driver, and the carrier receives a flogging.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: In the second anecdote, a master sends people out for two jugs of rum.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: At a river, the people say they want a drink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: One person stands on the bridge and sends the other down into the river to
+    report when the water tastes of rum.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The person on the bridge pours out the whole first jug and then the whole
+    second jug, but the person in the river cannot taste the rum in the water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:12
+  text: The people take the two empty jugs home to the master and receive a flogging.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:13
+  text: In the third anecdote, people are going to cut a big cotton-tree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:14
+  text: A Congo man says he does not want the cotton-tree to fall in his ground.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:15
+  text: The Congo man puts a large cotta on his head so he can catch the cotton-tree
+    when it falls.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:16
+  text: The cotton-tree falls and kills the Congo man.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: master in the clock anecdote
+  description: The person who sends someone out for a clock and later asks how it
+    was broken.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: clock carrier
+  description: The person sent for the clock who carries it on his head, speaks to
+    it, breaks it, and is flogged.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: driver
+  description: The person called by the master when the broken clock is explained.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: master in the rum anecdote
+  description: The person who sends people out for two jugs of rum and later has them
+    flogged.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: rum-fetchers
+  description: The people sent for two jugs of rum who bring back two empty jugs and
+    are flogged.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: bridge pourer
+  description: One of the rum-fetchers who stands on the bridge and pours both jugs
+    into the river.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: river taster
+  description: One of the rum-fetchers sent down into the river to report when the
+    water tastes of rum.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Congo man
+  description: The man who does not want the cotton-tree to fall in his ground and
+    tries to catch it on his head.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: master sender and punisher
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: A master sends others on errands and the errand failures lead to flogging.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: errand performer
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The figures are sent by a master to fetch a clock or rum.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: driver called by master
+  assigned_to:
+  - fig:3
+  basis: The master calls the driver after hearing how the clock was broken.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: participant in river test
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: One person pours rum from the bridge while the other is placed in the river
+    to taste the water.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: foolish actor in comic anecdote
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:8
+  basis: The passage heading identifies the anecdotes as about old-time fools, and
+    these figures perform the central failed actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: clock
+  literal_form: A clock carried on the head that strikes and is broken with a stick.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stick
+  literal_form: A piece of stick used to smash the clock.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: two jugs of rum
+  literal_form: Two jugs of rum poured into the river and carried home empty.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: river water
+  literal_form: The river into which the rum is poured for tasting.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bridge
+  literal_form: The bridge where one rum-fetcher stands while pouring out the rum.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: cotton-tree
+  literal_form: A big cotton-tree being cut down; it falls and kills the Congo man.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: cotta
+  literal_form: A large cotta placed on the Congo man’s head before he attempts to
+    catch the falling cotton-tree.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Broken clock after being treated as a speaker
+  summary: A person sent for a clock hears it strike, speaks threats to it, sets it
+    down and demands that it walk, then breaks it with a stick and is flogged after
+    reporting this to the master.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Rum poured into river for tasting
+  summary: People sent for two jugs of rum try to taste the rum through river water;
+    one pours out both jugs from a bridge while the other waits in the river, and
+    they return with empty jugs and are flogged.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Attempt to catch a falling cotton-tree
+  summary: A Congo man who does not want a cotton-tree to fall in his ground puts
+    a cotta on his head to catch it, and the falling tree kills him.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: foolish literal response to an inanimate object
+  taxonomy_refs: []
+  basis: The clock carrier treats the clock’s striking as talk, demands that it walk
+    if it can talk, and breaks it when it does not walk.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as a comic fool anecdote; no broader taxonomy
+    ID is supplied for fool tales.
+- id: motif:2
+  label: failed test by pouring valued liquid into water
+  taxonomy_refs: []
+  basis: The rum-fetchers pour two jugs of rum into a river to learn when the water
+    tastes of rum, then return with empty jugs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The action is extracted literally; no claim is made about a named international
+    tale type.
+- id: motif:3
+  label: fatal attempt to catch a falling tree
+  taxonomy_refs: []
+  basis: The Congo man places a cotta on his head to catch a falling cotton-tree,
+    and the tree kills him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy includes the symbol tree, but no suitable motif-family
+    taxonomy ref is directly supported.
+- id: motif:4
+  label: comic punishment after foolish errand failure
+  taxonomy_refs: []
+  basis: In the clock and rum anecdotes, errand performers fail through absurd actions
+    and receive flogging when they return or explain the result.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a cross-episode pattern within the passage, not a claimed external
+    comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8855-8859
+  quote_or_summary: 'Section heading: “Witticisms. Old-Time Fools.”'
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 8861-8872
+  quote_or_summary: A master sends someone for a clock; the clock strikes while on
+    the carrier’s head; the carrier threatens it, demands that it walk if it can talk,
+    breaks it with a stick, explains this to the master, and is flogged.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8874-8885
+  quote_or_summary: People sent for two jugs of rum reach a river; one pours both
+    jugs into the river from a bridge while the other waits to taste it; they return
+    with empty jugs and are flogged.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8887-8893
+  quote_or_summary: People are going to cut a big cotton-tree; a Congo man tries to
+    catch the falling tree on his head with a cotta, and the tree falls and kills
+    him.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and passage-internal.
+    No external comparison claims are made because the passage excerpt does not itself
+    establish a specific comparative tradition or named tale type.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Dialect spellings and the bracketed note marker “[73]” are preserved only where necessary in literal-form descriptions; no unsupported explanation of “cotta” is added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l8855-l8893
+  passage_sha256=0698e2d7d6eefd7a8ed4bf87276fb079d5d5c007d6fd87680a705aef05f814d9
+

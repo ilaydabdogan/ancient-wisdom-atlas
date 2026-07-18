@@ -1,0 +1,517 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8943-l9017
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8943-9017
+  start: '8943'
+  end: '9017'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Catherine and Frederick set out to recover stolen gold. Catherine wastes
+    their provisions by smearing butter on cart-ruts and rolling cheeses downhill,
+    then misunderstands Frederick's instruction to secure the house by carrying away
+    the lower door. At night they hide in a tree above thieves, while falling stones
+    and pears are misinterpreted by the thieves as natural objects falling from the
+    tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Catherine proposes that she and Frederick run after the thieves to recover
+    the gold.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Frederick tells Catherine to bring butter and cheese as food for the way.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On a hill with deep cart-ruts, Catherine smears butter on the ruts because
+    she imagines the earth has been hurt.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One cheese rolls downhill, and Catherine rolls the remaining cheeses after
+    it, expecting them to fetch or call one another back.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When Catherine rejoins Frederick, she has only dry bread left and explains
+    that the butter is on the road and the cheeses have gone downhill.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Frederick tells Catherine to go home, make the house safe, and bring more
+    food.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Catherine bolts the upper half of the door, unhinges the lower door, and carries
+    it on her back, believing this secures the house.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Catherine brings dried pears and a vinegar-jug and hangs them on the carried
+    door because they are too heavy for her.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Frederick and Catherine enter the forest seeking the rogues but do not find
+    them before dark.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Frederick and Catherine climb into a tree to spend the night there.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Rogues arrive under the same tree, light a fire, and prepare to divide their
+    booty.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Frederick throws stones at the thieves from the tree, but the thieves interpret
+    the falling stones as fir-apples shaken down by the wind.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Catherine drops dried pears from the tree, and the rogues below interpret
+    them as falling leaves.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Catherine
+  description: A woman traveling with Frederick, repeatedly acting on literal or mistaken
+    interpretations of instructions and events.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:11
+- id: fig:2
+  name_or_label: Frederick
+  description: Catherine's male companion who gives instructions, waits for her, and
+    later tries to attack the thieves from a tree.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: the thieves / rogues / rascals
+  description: A group sought by Catherine and Frederick; at night they sit beneath
+    the tree, light a fire, and prepare to divide booty.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: wife
+  assigned_to:
+  - fig:1
+  basis: Frederick calls Catherine his wife while reacting to her having brought the
+    door.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: mistaken helper
+  assigned_to:
+  - fig:1
+  basis: Catherine attempts to help by treating cart-ruts, sending cheeses after one
+    another, and carrying the door as security, but these actions frustrate the journey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: husband or male companion
+  assigned_to:
+  - fig:2
+  basis: He travels with Catherine, gives her instructions, and refers to her as his
+    wife.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:4
+  label: would-be attacker from hiding
+  assigned_to:
+  - fig:2
+  basis: Frederick gathers stones, climbs back into the tree, and tries to throw them
+    at the thieves.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: thieves with booty
+  assigned_to:
+  - fig:3
+  basis: They are pursued as thieves or rogues and are later shown preparing to share
+    booty under the tree.
+  evidence_refs:
+  - ev:1
+  - ev:9
+symbols:
+- id: sym:1
+  label: butter
+  literal_form: butter carried as travel food and smeared onto cart-ruts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: cheeses
+  literal_form: cheeses carried as travel food, then rolled down a hill one after
+    another
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cart-ruts
+  literal_form: deep ruts on both sides of the road on a hill
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: house-door
+  literal_form: the lower door unhinged and carried on Catherine's back
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: dried pears
+  literal_form: dried pears brought as food, hung on the door, and later dropped from
+    the tree
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:11
+- id: sym:6
+  label: vinegar-jug
+  literal_form: a pitcher or jug of vinegar brought for Frederick to drink and hung
+    on the door
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: forest tree
+  literal_form: a tree in the forest where Frederick and Catherine hide for the night
+    above the rogues
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:8
+  label: fire
+  literal_form: a fire lit by the rogues beneath the tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: stones
+  literal_form: stones collected by Frederick and thrown from the tree toward the
+    thieves
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Setting out after the thieves
+  summary: Catherine urges Frederick to pursue the thieves and recover the gold; Frederick
+    agrees and tells her to bring food for the journey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Butter on ruts and cheeses sent downhill
+  summary: On a hill, Catherine smears butter onto cart-ruts out of compassion for
+    the earth and rolls all the cheeses downhill after the first cheese falls.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Return for household security
+  summary: Catherine rejoins Frederick with only dry bread. After she explains the
+    lost provisions, Frederick sends her back to secure the house and bring more food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Carrying the house-door
+  summary: Catherine bolts the upper half of the door, removes the lower door, carries
+    it to Frederick, and hangs the dried pears and vinegar-jug on it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Night hiding above the rogues
+  summary: Frederick and Catherine enter the forest, climb a tree for the night, and
+    the rogues come beneath it, light a fire, and prepare to divide their booty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Falling objects mistaken for natural fall
+  summary: Frederick throws stones down from the tree and Catherine drops dried pears;
+    the rogues interpret the stones as fir-apples shaken by the wind and the pears
+    as falling leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: journey to recover stolen property
+  taxonomy_refs:
+  - departure
+  basis: The passage begins with Catherine and Frederick setting out to pursue thieves
+    and regain the gold.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is broad; the scene is a comic pursuit rather than
+    a clearly ritual or heroic departure.
+- id: motif:2
+  label: provisions wasted through comic misunderstanding
+  taxonomy_refs: []
+  basis: Catherine smears butter on the road and sends all the cheeses downhill after
+    one another, leaving only dry bread.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a folktale-comic action motif; no supplied taxonomy family directly
+    matches it.
+- id: motif:3
+  label: house secured by carrying away the door
+  taxonomy_refs: []
+  basis: Catherine interprets making the house safe as removing and carrying the lower
+    door after bolting the upper half.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this comic literalism.
+- id: motif:4
+  label: hiding in a tree above thieves
+  taxonomy_refs: []
+  basis: The couple climbs into a tree at night, and the rogues unknowingly sit beneath
+    that same tree to divide booty.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The tree is a literal hiding place here; the passage does not present
+    it as a sacred tree or world-axis.
+- id: motif:5
+  label: falling objects misrecognized as natural signs
+  taxonomy_refs: []
+  basis: The rogues explain falling stones as fir-apples shaken down by wind and falling
+    pears as leaves.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The recognition error is comic and local to this episode; no broader comparison
+    is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8943-8951
+  quote_or_summary: Catherine proposes running after the thieves to get the gold back;
+    Frederick agrees and tells her to take butter and cheese for food on the way.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:2
+  type: summary
+  locator: 8951-8958
+  quote_or_summary: Catherine reaches a hill with deep ruts, says the poor earth has
+    been torn and hurt, and smears butter on the ruts in compassion.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:3
+  type: summary
+  locator: 8958-8975
+  quote_or_summary: After one cheese rolls downhill, Catherine rolls the others after
+    it, reasoning that they may need company or someone to call them back; none returns.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:4
+  type: summary
+  locator: 8975-8985
+  quote_or_summary: Catherine reaches Frederick, gives him dry bread, and explains
+    that she smeared the butter on the cart-ruts and sent the cheeses after the one
+    that ran away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:5
+  type: summary
+  locator: 8985-8990
+  quote_or_summary: Frederick asks whether Catherine made the house safe, then tells
+    her to go home, secure it, and bring something else to eat.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:6
+  type: summary
+  locator: 8990-9002
+  quote_or_summary: Catherine bolts the upper half of the door, removes the lower
+    door and carries it, believing that securing the door secures the house; Frederick
+    calls her his wife and comments on the mistake.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:7
+  type: summary
+  locator: 9002-9007
+  quote_or_summary: Catherine says she will carry the door but hang the dried pears
+    and vinegar-jug on it because they are too heavy for her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:8
+  type: summary
+  locator: 9008-9011
+  quote_or_summary: Frederick and Catherine go into the forest seeking the rogues,
+    fail to find them, and at dark climb into a tree to spend the night.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:9
+  type: summary
+  locator: 9011-9015
+  quote_or_summary: The rascals come beneath the same tree, light a fire, and prepare
+    to share their booty.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:10
+  type: summary
+  locator: 9015-9017
+  quote_or_summary: Frederick gathers stones, climbs back into the tree, throws them
+    at the thieves, and misses; the thieves say the wind is shaking down fir-apples.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+- id: ev:11
+  type: summary
+  locator: '9017'
+  quote_or_summary: Catherine drops dried pears because they weigh her down; the rascals
+    below say the leaves are falling.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Candidate motifs are high-confidence
+    as passage-level comic folktale patterns, but supplied taxonomy families only
+    loosely cover the pursuit/departure element. No comparison claims are made because
+    the passage itself does not support historical, cross-textual, or archetypal comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references are limited to explicitly supported available refs; tree and fire are literal objects/settings in the passage, not interpreted as sacred symbols.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8943-l9017
+  passage_sha256=524ba6f9bc1028f94d4b4987cbcb8b282aa2223cb4341412ddc70e32f504c347
+

@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l132-l144
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE COYOTE AND THE RAVENS WHO RACED THEIR EYES                   262 / THE
+    PRAIRIE-DOGS AND THEIR PRIEST, THE BURROWING-OWL             269 / HOW THE RATTLESNAKES
+    CAME TO BE WHAT THEY ARE                    285 / HOW THE CORN-PESTS WERE ENSNARED                                 288;
+    lines 132-144
+  start: '132'
+  end: '144'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents segment listing seven Zuni folk-tale
+    titles and their page numbers, including animal-centered tales about Turtle, Coyote,
+    Locust, Ravens, Prairie-dogs, Burrowing-owl, Gopher, runners of K’iákime, Rattlesnakes,
+    and Corn-pests.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists seven tale titles with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:2
+  text: One title says Turtle is out hunting and dupes Coyote.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Coyote appears in three listed titles.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: One title pairs Coyote with Locust without stating an action.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One title refers to Ravens who raced their eyes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One title identifies Burrowing-owl as the priest of the Prairie-dogs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: One title says Gopher raced with the runners of K’iákime.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: One title concerns how Rattlesnakes came to be what they are.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: One title concerns how Corn-pests were ensnared.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Turtle
+  description: Animal figure named in a title as being out hunting and duping Coyote.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Coyote
+  description: Animal figure appearing in titles with Turtle, Locust, and Ravens.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Locust
+  description: Animal figure paired with Coyote in a title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ravens
+  description: Bird figures described in a title as racing their eyes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Prairie-dogs
+  description: Animal group named in a title as having a priest.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Burrowing-owl
+  description: Bird figure identified in a title as the priest of the Prairie-dogs.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Gopher
+  description: Animal figure named in a title as racing with runners of K’iákime.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Runners of K’iákime
+  description: Human or group figure named in a title as racing with Gopher.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Rattlesnakes
+  description: Serpent figures named in an explanatory title about how they came to
+    be what they are.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Corn-pests
+  description: Pest figures named in a title as being ensnared.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The title describes Turtle as out hunting.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: duping agent
+  assigned_to:
+  - fig:1
+  basis: The title states that Turtle duped Coyote.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: duped figure
+  assigned_to:
+  - fig:2
+  basis: The title states that Coyote was duped by Turtle.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: paired title participant
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The title pairs Coyote and Locust without further action.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: racing figures
+  assigned_to:
+  - fig:4
+  basis: The title describes Ravens who raced their eyes.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: group with priest
+  assigned_to:
+  - fig:5
+  basis: The title names the Prairie-dogs and their priest.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: priest
+  assigned_to:
+  - fig:6
+  basis: The title identifies the Burrowing-owl as priest.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: race participants
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The title says Gopher raced with the runners of K’iákime.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: origin-explanation subject
+  assigned_to:
+  - fig:9
+  basis: The title concerns how Rattlesnakes came to be what they are.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: ensnared figures
+  assigned_to:
+  - fig:10
+  basis: The title says Corn-pests were ensnared.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: rattlesnakes as serpent figures
+  literal_form: Rattlesnakes
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: eyes in racing title
+  literal_form: eyes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Turtle hunting and duping Coyote
+  summary: A listed title presents Turtle as out hunting and duping Coyote.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coyote and Locust title pairing
+  summary: A listed title pairs Coyote with Locust, with no action stated in the title.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Coyote and Ravens who raced their eyes
+  summary: A listed title presents Coyote with Ravens described as racing their eyes.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Prairie-dogs and their priest
+  summary: A listed title identifies the Burrowing-owl as priest of the Prairie-dogs.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Gopher racing with runners of K’iákime
+  summary: A listed title says Gopher raced with the runners of K’iákime.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Rattlesnake origin explanation
+  summary: A listed title concerns how Rattlesnakes came to be what they are.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Corn-pests ensnared
+  summary: A listed title concerns how Corn-pests were ensnared.
+  figure_refs:
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal deception or duping
+  taxonomy_refs: []
+  basis: The title states that Turtle duped Coyote while out hunting.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only the table-of-contents title is provided; the means and narrative
+    function of the deception are not available.
+- id: motif:2
+  label: animal race or contest
+  taxonomy_refs: []
+  basis: 'Two titles refer to racing: Ravens who raced their eyes and Gopher racing
+    with runners of K’iákime.'
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives only titles, so the stakes, outcome, and ritual or social
+    context of the races are unknown.
+- id: motif:3
+  label: animal social office or priesthood
+  taxonomy_refs: []
+  basis: The title identifies the Burrowing-owl as priest of the Prairie-dogs.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The title supports the priestly role but provides no details about duties,
+    ritual action, or social structure.
+- id: motif:4
+  label: serpent or rattlesnake origin explanation
+  taxonomy_refs:
+  - serpent
+  basis: The title concerns how Rattlesnakes came to be what they are.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The title indicates an explanatory or origin tale involving rattlesnakes,
+    but the actual transformation or cause is not included in the passage.
+- id: motif:5
+  label: ensnaring harmful crop pests
+  taxonomy_refs: []
+  basis: The title concerns how Corn-pests were ensnared.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not identify who ensnares the pests or why the ensnarement
+    occurs beyond the title wording.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 132
+  quote_or_summary: "“HOW THE TURTLE OUT HUNTING DUPED THE COYOTE                      243”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: line 134
+  quote_or_summary: "“THE COYOTE AND THE LOCUST                                        255”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: line 136
+  quote_or_summary: "“THE COYOTE AND THE RAVENS WHO RACED THEIR EYES                   262”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: line 138
+  quote_or_summary: "“THE PRAIRIE-DOGS AND THEIR PRIEST, THE BURROWING-OWL             269”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: line 140
+  quote_or_summary: "“HOW THE GOPHER RACED WITH THE RUNNERS OF K’IÁKIME                277”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: line 142
+  quote_or_summary: "“HOW THE RATTLESNAKES CAME TO BE WHAT THEY ARE                    285”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: line 144
+  quote_or_summary: "“HOW THE CORN-PESTS WERE ENSNARED                                 288”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is high confidence because the passage is a table-of-contents
+    list. Motif candidates are limited because only titles are available, not full
+    tales. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage is not narrative prose but a list of tale titles and page numbers; extraction is therefore restricted to figures, actions, and possible motifs named directly in the titles.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l132-l144
+  passage_sha256=097c941d9e12ad6572738ef496f665ac8934341957c1ab6ca366cdb68c7cc575
+

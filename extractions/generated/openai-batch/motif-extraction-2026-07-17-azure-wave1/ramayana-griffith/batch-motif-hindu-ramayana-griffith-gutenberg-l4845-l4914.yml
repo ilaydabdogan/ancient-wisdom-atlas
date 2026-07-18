@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l4845-l4914
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXIV. The Spells. / Canto XXV. The Hermitage Of Love. / Canto XXIX.
+    The Celestial Arms. / Canto XXXI. The Perfect Hermitage.; lines 4845-4914
+  start: '4845'
+  end: '4914'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: During a sacred rite, fiends led by Márícha and Suváhu arrive in dark magical
+    gloom and shower blood to disrupt the ceremony. Ráma tells Lakshmaṇ that his weapon
+    will drive them off, strikes Márícha senseless and hurls him into the ocean, kills
+    Suváhu with a flaming shaft, and overthrows the remaining demons with a dart of
+    the Wind-God. The saints honor Ráma, the rite succeeds, and Viśvámitra declares
+    the retreat perfected.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A flame bursts from the altar, shines over the priest, deacon, grass, ladles,
+    and flowers, and the rite resumes with sacred texts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A loud roar echoes through the sky, and two named fiends, Márícha and Suváhu,
+    come with their train in magical gloom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The advancing fiends shed thick blood like rain from overhead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ráma addresses Lakshmaṇ and says the man-eating fiends will flee before his
+    mortal weapon.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ráma places an arrow on his bow and strikes Márícha on the breast; the weapon
+    is empowered by a mystic spell and hurls Márícha a hundred leagues into the ocean.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Ráma says the dart has left Márícha alive but senseless, then says he will
+    kill the other blood-drinking disturbers of holy rites.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ráma kills Suváhu with a shaft aglow with living flame and overthrows the
+    remaining demons with a dart called the Wind-God’s own.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the fiends are slain, the saints honor Ráma for his aid, and the passage
+    compares this honor to Indra being adored after victory.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The rite is successful, the surroundings are at rest, and Viśvámitra tells
+    Ráma that his joy is complete and the retreat is now more perfect.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: Prince, son of Raghu, lotus-eyed; he speaks to Lakshmaṇ, uses arrows
+    and darts, defeats the fiends, and receives honor from the saints.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Lakshmaṇ
+  description: Ráma’s brave and true brother, addressed by Ráma during the attack.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Márícha
+  description: A fiend, called Rover of the Night, who advances with Suváhu and is
+    struck by Ráma’s mystic weapon, hurled into the ocean, and left alive but senseless.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Suváhu
+  description: A fiend who advances with Márícha and is killed when Ráma’s flaming
+    shaft strikes his chest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: Fiends and demons
+  description: The train accompanying Márícha and Suváhu; described as man-eaters,
+    blood-drinkers, and disturbers of holy rites, then overthrown by Ráma.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Priest and deacon
+  description: Ritual officiants near the altar when the flame shines over the rite.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Saints
+  description: Holy figures who are no longer afraid after the demons are overthrown
+    and who honor Ráma for his aid.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Viśvámitra
+  description: The sage who looks around after the rite succeeds and tells Ráma that
+    his joy is complete.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Indra
+  description: 'A god invoked in a comparison: the saints honor Ráma as Indra is adored
+    after a glorious victory.'
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Defender of the sacred rite
+  assigned_to:
+  - fig:1
+  basis: Ráma uses weapons to defeat the fiends who disturb the holy rite, after which
+    the saints honor him and the rite succeeds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Brother and addressed witness
+  assigned_to:
+  - fig:2
+  basis: Lakshmaṇ is named as Ráma’s brave brother and is addressed by Ráma while
+    the fiends attack.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Demonic attackers and ritual disturbers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Márícha, Suváhu, and their train arrive in gloom, shed blood, and are described
+    as man-eaters and disturbers of holy rites.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Ritual officiants
+  assigned_to:
+  - fig:6
+  basis: The priest and deacon are present at the altar when the rite resumes.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Sacred witnesses and beneficiaries
+  assigned_to:
+  - fig:7
+  basis: The saints are no longer afraid after the demons are overthrown and pay honor
+    to Ráma.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: Honored victor
+  assigned_to:
+  - fig:1
+  basis: Ráma receives due honor from the saints for his wondrous aid after slaying
+    the fiends.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Sage who approves the completed task
+  assigned_to:
+  - fig:8
+  basis: Viśvámitra addresses Ráma after the rite succeeds, saying that his joy is
+    complete and Ráma has obeyed his will.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: Divine model of honored victory
+  assigned_to:
+  - fig:9
+  basis: Indra is mentioned as an analogy for a victorious figure who is adored after
+    a glorious victory.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Altar flame
+  literal_form: Flame bursting from the altar and shining over the ritual space and
+    implements.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ritual implements
+  literal_form: Grass, ladles, and flowers illuminated during the rite.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Blood rain
+  literal_form: Thick blood shed in rain by the approaching fiends.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Mystic mortal weapon
+  literal_form: An arrow or dart placed on Ráma’s bow, winged by a mystic spell, striking
+    Márícha and hurling him into the ocean.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Ocean flood
+  literal_form: The ocean’s flood into which Márícha falls after being hurled a hundred
+    leagues.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Flaming shaft
+  literal_form: A shaft aglow with living flame that strikes Suváhu on the chest.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Wind-God’s dart
+  literal_form: A dart called the Wind-God’s own, laid upon Ráma’s string and used
+    to overthrow the demons.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The rite resumes at the altar
+  summary: The altar flame appears, illuminates the officiants and ritual implements,
+    and the rite begins again with sacred texts.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The fiends descend with blood-rain
+  summary: A fearful roar sounds in the sky, and Márícha, Suváhu, and their train
+    rush in under magical gloom, shedding thick blood from above.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ráma announces the demons’ flight
+  summary: Ráma tells Lakshmaṇ that the man-eating fiends will flee before his mortal
+    weapon like clouds before the wind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Márícha is struck and cast into the ocean
+  summary: Ráma shoots Márícha with a mystic weapon, leaving him senseless but alive
+    and throwing him a hundred leagues into the ocean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:5
+  label: Suváhu and the demons are defeated
+  summary: Ráma declares that the remaining blood-drinking disturbers of holy rites
+    will die, kills Suváhu with a flaming shaft, and overthrows the demons with the
+    Wind-God’s dart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:6
+  label: Ráma is honored and the hermitage is perfected
+  summary: The saints honor Ráma as a victorious helper; the rite is crowned with
+    success, and Viśvámitra says the retreat is more perfect because Ráma obeyed his
+    will.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Protection and completion of a threatened sacred rite
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on a rite at an altar that is attacked by blood-shedding
+    fiends; Ráma defeats the attackers and the rite succeeds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage calls the event a rite and holy rite, but does not detail
+    the sacrificial offering itself in this excerpt.
+- id: motif:2
+  label: Heroic use of empowered weapons against demonic attackers
+  taxonomy_refs: []
+  basis: Ráma uses a mystic spell-weapon, a flaming shaft, and the Wind-God’s dart
+    to defeat Márícha, Suváhu, and the remaining demons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the excerpt emphasizes
+    combat and named weapons rather than a specified listed motif family.
+- id: motif:3
+  label: Demonic pollution and disruption of sacred order
+  taxonomy_refs:
+  - chaos
+  basis: The fiends arrive with a fearful roar and magical gloom, rain blood, and
+    are described as rejoicing in stopping holy rites.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The linkage to the broad motif family of chaos is interpretive; the literal
+    passage specifies ritual disruption and bloodshed.
+- id: motif:4
+  label: Honored victory modeled on a god’s triumph
+  taxonomy_refs: []
+  basis: After Ráma’s victory, the saints honor him, and the passage explicitly compares
+    this to Indra being adored after a glorious victory.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The comparison is a simile within the passage and should not be read as
+    identifying Ráma with Indra.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the saints’ honor of Ráma after defeating
+    the fiends to Indra being adored after a glorious victory.
+  claim_level: same_function
+  target: Indra as adored victorious god
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a local poetic comparison of post-victory honor, not a claim
+    of identity, historical contact, or full motif equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4845-4852
+  quote_or_summary: Flame bursts from the altar, shines over priest, deacon, grass,
+    ladles, and flowers, and the rite resumes with sacred texts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4853-4864
+  quote_or_summary: A fearful roar echoes in the sky; Márícha, Suváhu, and their train
+    rush on in magical gloom and shed thick blood like rain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4865-4876
+  quote_or_summary: Ráma addresses Lakshmaṇ, says the man-eating fiends will flee
+    before his mortal weapon, sets an arrow to his bow, and strikes Márícha on the
+    breast.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4877-4888
+  quote_or_summary: The mystic-spell weapon hurls Márícha a hundred leagues into the
+    ocean; Ráma says it left him senseless but alive and declares he will kill the
+    blood-drinking disturbers of holy rites.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4889-4896
+  quote_or_summary: Ráma kills Suváhu with a shaft aglow with living flame and overthrows
+    the demons with the Wind-God’s dart, leaving the saints unafraid.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4897-4902
+  quote_or_summary: After the fiends are slain, the saints honor Ráma for his aid;
+    the passage compares this to Indra being adored after a glorious victory.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4903-4914
+  quote_or_summary: The rite succeeds; Viśvámitra sees all at rest and tells Ráma
+    that his joy is complete, Ráma has obeyed his will, and the retreat is now more
+    perfect.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions, figures, and ritual setting are explicit. Motif-family
+    assignment is cautious because the excerpt gives a ritual-combat scene but limited
+    broader context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; taxonomy references limited to provided motif and symbol lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l4845-l4914
+  passage_sha256=4ee146e2057143eb1a3930bf7e6f2894f3d484bac4f1fd5bcb2a055b5f32e14f
+

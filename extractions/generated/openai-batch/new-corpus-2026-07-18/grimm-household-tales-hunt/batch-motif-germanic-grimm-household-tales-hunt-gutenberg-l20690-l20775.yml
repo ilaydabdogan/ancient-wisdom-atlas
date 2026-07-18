@@ -1,0 +1,619 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l20690-l20775
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 20690-20775
+  start: '20690'
+  end: '20775'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Two older sons fail to bring healing apples to the King''s daughter after
+    their answers to a little iron man are followed by baskets containing frogs''
+    legs and hogs'' bristles. The youngest son Hans, mocked as stupid, answers that
+    he carries apples; golden-yellow apples appear and cure the King''s daughter.
+    The King withholds the promised marriage and imposes further tasks: first a boat
+    faster on dry land than on water, then pasturing a hundred hares. The older sons''
+    boat attempt produces wooden bowls, while Hans answers truthfully and completes
+    the swift boat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uele meets a little iron man, says his basket contains frogs' legs, and later
+    opens it before the King to find frogs' legs instead of apples.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seame meets the little iron man, says his basket contains hogs' bristles,
+    and later opens it before the King to find hogs' bristles instead of apples.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hans is the youngest boy and is called Stupid Hans; he asks his father to
+    go with apples and is mocked before being allowed to go.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Before leaving, Hans lies awake and dreams of beautiful maidens, palaces,
+    gold, silver, and similar things.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hans tells the iron-clothed little man that he carries apples for the King's
+    daughter, and at court golden-yellow apples come out of his basket.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The door-keeper lets Hans enter because Hans speaks pleasantly and the door-keeper
+    thinks he cannot be lying.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After eating the apples, the King's daughter is cured and rises from bed;
+    the King then requires Hans to make a boat that goes faster on dry land than on
+    water before receiving her in marriage.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Uele works in the forest on the boat task, tells the iron man he is making
+    wooden bowls, and by evening has wooden bowls instead of a boat.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Seame goes into the forest the next day for the boat task, and the passage
+    says everything goes with him as it did with Uele.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Hans works industriously in the forest, tells the little man he is making
+    the required land-and-water boat to win the King's daughter, and finishes a boat
+    that goes swiftly to the palace.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: After seeing the boat, the King still withholds his daughter and sets Hans
+    the task of pasturing one hundred hares from morning to evening without losing
+    any.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Uele
+  description: A son sent with apples and later sent into the forest for the boat
+    task; his answers are followed by frogs' legs and wooden bowls.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Seame
+  description: The next son after Uele; he is sent with apples and later goes into
+    the forest for the boat task, with results like Uele's.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: Hans / Stupid Hans
+  description: The youngest boy, called Stupid Hans, who insists on going with apples,
+    obtains golden-yellow apples, completes the swift boat, and accepts the hare task.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Father / old man
+  description: The father of Uele, Seame, and Hans; he sends sons on tasks and mocks
+    Hans before permitting him to go.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: Little iron man / shabby-looking man in iron clothes
+  description: A little man associated with iron clothing who questions the sons about
+    what they carry or make and says that the stated thing shall be and remain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: King
+  description: The father of the ill daughter; he receives the sons at court, rejoices
+    at the cure, but imposes further conditions before giving his daughter to Hans.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:10
+- id: fig:7
+  name_or_label: King's daughter
+  description: The King's daughter, ill until she eats the golden-yellow apples; she
+    is the promised bride subject to the King's conditions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Door-keeper
+  description: The palace door-keeper who admits Hans after judging that he cannot
+    be lying.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: unsuccessful elder son
+  assigned_to:
+  - fig:1
+  basis: Uele's apple errand produces frogs' legs, and his boat attempt produces wooden
+    bowls.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: unsuccessful second son
+  assigned_to:
+  - fig:2
+  basis: Seame's apple errand produces hogs' bristles, and his boat attempt is said
+    to go like Uele's.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:3
+  label: despised youngest successful son
+  assigned_to:
+  - fig:3
+  basis: Hans is the youngest and called stupid, yet obtains the healing apples and
+    completes the swift boat.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: role:4
+  label: father and sender
+  assigned_to:
+  - fig:4
+  basis: The father sends sons on the tasks and reluctantly lets Hans go while insulting
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:5
+  label: supernatural questioner-helper
+  assigned_to:
+  - fig:5
+  basis: The little iron man questions the sons and pronounces that their stated object
+    or task shall be and remain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:6
+  label: royal authority and task-imposer
+  assigned_to:
+  - fig:6
+  basis: The King controls access to his daughter and sets the boat and hare tasks
+    before granting marriage.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:7
+  label: ill royal daughter and promised bride
+  assigned_to:
+  - fig:7
+  basis: The daughter is healed by the apples and is the bride the King withholds
+    pending tasks.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: gatekeeper
+  assigned_to:
+  - fig:8
+  basis: The door-keeper decides to admit Hans to the King's presence.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: basket with changed contents
+  literal_form: A basket said to contain apples, frogs' legs, or hogs' bristles; its
+    contents appear accordingly when opened at court.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: healing golden-yellow apples
+  literal_form: Golden-yellow apples that tumble from Hans's basket and cure the King's
+    daughter when she eats them.
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: iron clothing
+  literal_form: Iron clothes worn by the little shabby-looking man.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: impossible land-and-water boat
+  literal_form: A boat required to go quicker on dry land than on water and later
+    said to move as swiftly as the wind.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: wooden bowls
+  literal_form: Wooden bowls that result from Uele's answer during the boat-making
+    task; Seame's attempt is said to go the same way.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: water in boat condition
+  literal_form: Water named in the condition that the boat must go quicker on dry
+    land than on water.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:7
+  label: hundred hares
+  literal_form: One hundred hares that Hans must pasture from early morning until
+    late evening without losing any.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Uele's failed apple errand
+  summary: Uele meets the little iron man, says the basket contains frogs' legs, and
+    is expelled when frogs' legs appear instead of healing apples before the King.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seame's failed apple errand
+  summary: Seame repeats the errand, says the basket contains hogs' bristles, and
+    is whipped out after hogs' bristles appear at court.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hans brings the healing apples
+  summary: Hans is mocked but allowed to go, dreams overnight, tells the iron-clothed
+    man he carries apples, is admitted by the door-keeper, and reveals golden-yellow
+    apples at court.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Cure and first impossible marriage condition
+  summary: The King's daughter eats the apples, is cured, and rises from bed; the
+    King then demands a boat faster on dry land than on water before giving her to
+    Hans.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Older sons fail at boat making
+  summary: Uele and then Seame go into the forest for the boat task; Uele calls the
+    work wooden bowls and ends with wooden bowls, and Seame's attempt is said to be
+    the same.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Hans completes the swift boat and receives the hare task
+  summary: Hans works in the forest, tells the little man he is making the required
+    boat to win the King's daughter, completes a boat that swiftly reaches the palace,
+    and is then assigned the hundred-hare task.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Despised youngest son succeeds after older sons fail
+  taxonomy_refs: []
+  basis: Uele and Seame fail both the apple errand and the boat task, while the youngest,
+    mocked as Stupid Hans, obtains the apples and completes the boat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: The passage has three brothers; the available sibling-pair taxonomy ref
+    is not used because the configuration is not a pair.
+- id: motif:2
+  label: Magical pronouncement fixes the stated object
+  taxonomy_refs: []
+  basis: 'After each answer to the little iron man, the formula that it shall be and
+    remain is followed by the basket or task matching the answer: frogs'' legs, hogs''
+    bristles, apples, wooden bowls, or the swift boat.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage does not explicitly explain the mechanism; the extraction
+    records the repeated sequence.
+- id: motif:3
+  label: Supernatural test through truthful naming
+  taxonomy_refs:
+  - initiation
+  basis: The little iron man repeatedly questions what is being carried or made; Hans's
+    direct answers correspond to successful outcomes, while the older sons' answers
+    correspond to failed outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The moral value of truthfulness is inferred from the repeated pattern
+    and is not stated outright; the initiation taxonomy ref is broad.
+- id: motif:4
+  label: Healing fruit cures royal daughter
+  taxonomy_refs: []
+  basis: Golden-yellow apples from Hans's basket are taken to the King's daughter;
+    after she eats them she is cured and rises from bed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Reluctant king imposes escalating bride tasks
+  taxonomy_refs: []
+  basis: After the cure, the King does not give his daughter to Hans but demands a
+    land-fast boat; after seeing the boat he still withholds her and imposes the hare-pasturing
+    task.
+  evidence_refs:
+  - ev:6
+  - ev:10
+  confidence: high
+  cautions: The passage segment ends before the hare task's outcome.
+- id: motif:6
+  label: Impossible vehicle travels faster on land than on water
+  taxonomy_refs: []
+  basis: The King demands a boat faster on dry land than on water, and Hans completes
+    a boat that goes swiftly as the wind to the palace.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: ''
+- id: motif:7
+  label: Herding a hundred hares as a bride test
+  taxonomy_refs: []
+  basis: The King requires Hans to pasture one hundred hares from early morning until
+    late evening and says that losing one means he will not have the daughter.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: Only the assignment of the task is present in the supplied passage; its
+    resolution is outside the line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20690-20700
+  quote_or_summary: Uele meets a little iron man, says the basket contains frogs'
+    legs, hears that it shall be and remain so, and later finds frogs' legs instead
+    of apples before the angry King.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 20700-20712
+  quote_or_summary: The father sends Seame; he tells the iron man the basket contains
+    hogs' bristles, and at the palace the basket contains hogs' bristles, after which
+    the King has him whipped out.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 20712-20727
+  quote_or_summary: The youngest boy, Hans, always called Stupid Hans, asks to go
+    with apples; his father mocks him and reluctantly permits him to go, and Hans
+    is delighted.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 20727-20730
+  quote_or_summary: Hans waits until morning and dreams of beautiful maidens, palaces,
+    gold, silver, and similar things.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 20730-20744
+  quote_or_summary: Hans meets the shabby-looking man in iron clothes, says he carries
+    apples for the King's daughter, is admitted by the door-keeper, and reveals golden-yellow
+    apples in the King's presence.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 20744-20753
+  quote_or_summary: The apples are taken to the King's daughter; after eating them
+    she is cured and rises from bed. The King then requires Hans to make a boat quicker
+    on dry land than on water before marriage.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 20753-20760
+  quote_or_summary: The father sends Uele into the forest for the boat task; Uele
+    tells the little iron man he is making wooden bowls, and by evening he has wooden
+    bowls instead of a boat.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:8
+  type: summary
+  locator: lines 20760-20761
+  quote_or_summary: Seame goes into the forest the next day, and everything happens
+    to him as it did to Uele.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:9
+  type: summary
+  locator: lines 20761-20771
+  quote_or_summary: Hans works in the forest, tells the little man he is making a
+    boat quicker on dry land than on water to win the King's daughter, and finishes
+    a boat that goes swiftly as the wind to the palace.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+- id: ev:10
+  type: summary
+  locator: lines 20771-20775
+  quote_or_summary: The King sees the boat but still withholds his daughter, requiring
+    Hans to pasture a hundred hares from early morning until late evening without
+    losing one; Hans accepts and begins the next day, where the passage cuts off.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; supplied passage permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence. Motif labels are candidate-level and
+    some functional readings, especially truthfulness as a test, require review. No
+    explicit cross-text comparison is made. The supplied passage ends mid-action during
+    the hare task.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage segment ends at line 20775 during the beginning of the hundred-hare task; later outcome is not included.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l20690-l20775
+  passage_sha256=91ff246ae1c8f368213dc9e8318e06e07a85daf101f61aa0fdbce21e5a84631d
+

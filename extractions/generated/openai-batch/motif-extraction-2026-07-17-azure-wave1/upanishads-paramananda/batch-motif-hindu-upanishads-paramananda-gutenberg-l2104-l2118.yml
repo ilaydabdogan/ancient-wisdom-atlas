@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l2104-l2118
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: PEACE CHANT / OM! PEACE! PEACE! PEACE! / KENA-UPANISHAD / OM! PEACE! PEACE!
+    PEACE!; lines 2104-2118
+  start: '2104'
+  end: '2118'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: May there be no separation from the Brahman.
+  summary: A peace chant opening the Kena-Upanishad asks that the speaker’s limbs,
+    life-force, senses, and strength increase in vigor; affirms that all is Brahman;
+    prays that neither the speaker nor Brahman deny the other; asks for no separation
+    from Brahman; and asks that Upanishadic virtues be manifest in the speaker devoted
+    to the Atman. The chant closes with repeated peace.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as the Kena-Upanishad and as a Peace Chant.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks that limbs, speech, Prana, sight, hearing, strength, and
+    all senses gain vigor.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The chant states that all is the Brahman of the Upanishads.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker prays never to deny Brahman and that Brahman never deny the speaker.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker asks that there be no separation from Brahman.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker asks that virtues declared in the sacred Upanishads be manifest
+    in the speaker, who is devoted to the Atman.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The chant ends with OM and a threefold repetition of peace.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: chanting speaker
+  description: The first-person speaker of the peace chant, described as devoted to
+    the Atman.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Brahman
+  description: Named as the Supreme Lord of the Upanishads; the passage says all is
+    Brahman and asks for no denial or separation from Brahman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Atman
+  description: Named as the Higher Self to whom the speaker is devoted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: petitioner
+  assigned_to:
+  - fig:1
+  basis: The speaker asks for vigor, non-denial, non-separation, and manifestation
+    of virtues.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: devotee of Atman
+  assigned_to:
+  - fig:1
+  basis: The speaker describes themself as devoted to the Atman.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: supreme divine reality
+  assigned_to:
+  - fig:2
+  basis: Brahman is glossed as Supreme Lord, and the chant affirms that all is Brahman.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: higher self
+  assigned_to:
+  - fig:3
+  basis: Atman is glossed in the passage as Higher Self.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: OM
+  literal_form: Sacred utterance at the close of the chant.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: threefold peace
+  literal_form: The word peace is repeated three times after OM.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: embodied faculties
+  literal_form: Limbs, speech, Prana, sight, hearing, strength, and senses named as
+    recipients of vigor.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Peace chant invocation
+  summary: The speaker invokes increased vigor for embodied faculties, affirms Brahman,
+    asks for mutual non-denial and no separation from Brahman, requests the manifestation
+    of Upanishadic virtues, and closes with OM and repeated peace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: invocation for strengthened faculties
+  taxonomy_refs: []
+  basis: The speaker asks that bodily and sensory faculties, including Prana, speech,
+    sight, hearing, strength, and all senses, gain vigor.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level prayer pattern rather than one of the supplied
+    motif-family taxonomy labels.
+- id: motif:2
+  label: non-separation from Brahman
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker asks that there be no denial of Brahman and no separation from
+    Brahman.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports non-separation or union language, but it does not
+    explicitly describe annihilation.
+- id: motif:3
+  label: sacred knowledge and virtues made manifest
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker asks that virtues declared in the sacred Upanishads be manifest
+    in the speaker devoted to the Atman.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage refers to virtues in sacred Upanishads rather than narrating
+    a wisdom quest or instruction scene.
+- id: motif:4
+  label: ritualized peace closure
+  taxonomy_refs: []
+  basis: The chant ends with OM followed by peace repeated three times.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to this chant closure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2104-2107
+  quote_or_summary: The passage is introduced as Kena-Upanishad and Peace Chant.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2108-2110
+  quote_or_summary: The speaker asks that limbs, speech, Prana, sight, hearing, strength,
+    and all senses gain vigor.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 2110-2114
+  quote_or_summary: All is the Brahman; the speaker asks never to deny Brahman, that
+    Brahman never deny the speaker, and that there be no separation from Brahman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt or close summary from public domain
+    text.
+- id: ev:4
+  type: summary
+  locator: lines 2114-2116
+  quote_or_summary: The speaker asks that virtues declared in the sacred Upanishads
+    be manifest in the speaker devoted to the Atman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 2118
+  quote_or_summary: OM! PEACE! PEACE! PEACE!
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short quoted chant closure.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif classification is cautious because
+    the passage is a short peace chant rather than a narrative episode; supplied taxonomy
+    refs only partially fit the content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a comparison to another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l2104-l2118
+  passage_sha256=115c97ef086b198bb6d6ca463f52477976d26a7d749163c8c3c2b4038a32e0df
+

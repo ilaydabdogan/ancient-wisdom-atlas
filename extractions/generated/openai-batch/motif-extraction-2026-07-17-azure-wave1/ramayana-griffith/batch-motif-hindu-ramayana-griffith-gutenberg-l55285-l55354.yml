@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l55285-l55354
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXXIV. The Medicinal Herbs. / Canto LXXV. The Night Attack. / Canto
+    CII. Lakshman Healed. / Canto CVI. Glory To The Sun.; lines 55285-55354
+  start: '55285'
+  end: '55354'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“The rising sun with golden rays, / Light of the worlds, adore and praise”"
+  summary: On the battlefield, Agastya comes to Rama and teaches him a hymn of praise
+    to the Sun. The Sun is described as universal king, source, divine soul, and as
+    identified with many gods and cosmic powers. Agastya says proper worship of the
+    Lord of Light will protect Rama and grant victory over his giant foe. The editor
+    notes that the canto is absent from the Bengal recension and may be an interpolation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ravana stands apart, faint, bleeding, and inwardly raging.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agastya comes to Rama and speaks gently, moved by compassion for Rama.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agastya asks Rama to hear an “everlasting truth” that will bless his hopes
+    and crown his arms with success.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Agastya tells Rama to adore and praise the rising sun with golden rays, called
+    the light of the worlds, universal king, and lord.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Sun is described as the diviner soul of the gods, and gods, fiends, and
+    humans are said to owe their safety to him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Sun is identified with Brahma, Vishnu, Shiva, Indra, the Lord of Hell,
+    the Lord of War, the King of Gold, Time, Death, the Moon, and the ruler of the
+    sea.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Sun is described as air, life, fire, universal source and sire, bringer
+    of seasons, creator, light, and nurse of all.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Sun runs a heavenly course as maker of day, and seven flaming steeds whirl
+    his car through heaven.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Sun is said to part the clouds of night, command the clouds’ collected
+    store, befriend rivers, and cause rains to descend.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Stars, planets, and constellations are said to recognize the Sun as monarch
+    of the golden throne, and he is addressed as lord of twelve forms.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Agastya says one who rightly worships the Lord of Light will not fall oppressed
+    by ill, and tells Rama to adore him in order to know saving power and victory
+    over the giant foe.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:12
+  text: The editorial note says this canto does not appear in the Bengal recension,
+    may be an interpolation, and is paraphrased rather than fully rendered; it also
+    says a following canto of ordinary fighting and evil omens is omitted.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Rama is addressed by Agastya and instructed to worship the Sun for
+    saving power and victory.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Ravana
+  description: Ravana stands apart faint and bleeding, and is later referred to as
+    Rama’s giant foe.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Agastya
+  description: Agastya comes out of compassion for Rama and delivers instruction praising
+    the Sun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: The Sun / Lord of Light
+  description: The rising Sun is praised as light of the worlds, universal king, divine
+    soul, source, creator, ruler of celestial bodies, controller of rains, and granter
+    of saving power.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: recipient of counsel and warrior seeking victory
+  assigned_to:
+  - fig:1
+  basis: Agastya addresses Rama with saving instruction and promises success and victory
+    over the giant foe.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: opposing giant foe
+  assigned_to:
+  - fig:2
+  basis: Ravana is shown wounded and raging, and the foe to be overcome is called
+    a giant.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: compassionate sage-instructor
+  assigned_to:
+  - fig:3
+  basis: Agastya comes moved by compassion and speaks the teaching to Rama.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: solar universal lord and cosmic source
+  assigned_to:
+  - fig:4
+  basis: The Sun is called universal king, divine soul, universal source and sire,
+    creator, and monarch of stars and planets.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: giver of protection and victory through worship
+  assigned_to:
+  - fig:4
+  basis: Agastya says proper worship of the Lord of Light prevents falling into ill
+    and grants saving power and victory.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Rising golden Sun
+  literal_form: The rising sun with golden rays, called the light of the worlds.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Fire as solar identity
+  literal_form: 'Fire is included among the Sun’s identities: “air, and life and fire.”'
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Seven flaming steeds and solar car
+  literal_form: Seven flaming steeds whirl the Sun’s car through heaven.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Clouds, rivers, and rain
+  literal_form: The Sun commands clouds, is friend of rivers, and causes rains to
+    descend.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Clouds of night pierced by shining darts
+  literal_form: The Sun parts the clouds of night with glistering darts.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Twelve forms
+  literal_form: The Sun is addressed as lord of twelve forms.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Battlefield pause and sage counsel
+  summary: Ravana stands apart wounded and angry; Agastya comes compassionately to
+    Rama and begins speaking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hymn to the universal Sun
+  summary: Agastya instructs Rama to adore the rising Sun, describing him as universal
+    king, divine soul, source, and embodiment of many gods and powers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Solar chariot and cosmic governance
+  summary: The Sun is described running his heavenly course in a car drawn by seven
+    flaming steeds, dispersing night, governing clouds and rains, and ruling stars
+    and planets.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Worship prescribed for victory
+  summary: Agastya tells Rama that correct worship of the Lord of Light prevents misfortune
+    and will give him saving power and victory over the giant foe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Saving wisdom given before battle
+  taxonomy_refs:
+  - wisdom
+  basis: Agastya reveals an everlasting truth to Rama that is said to bless his hopes,
+    crown his arms with success, and lead to victory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage presents counsel and hymn instruction, not a full initiation
+    sequence.
+- id: motif:2
+  label: Worship of solar deity for protection and victory
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Agastya says proper worship of the Lord of Light prevents ill and grants
+    Rama saving power and victory over Ravana.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The exchange is devotional worship for protection and victory; no material
+    offering or formal sacrifice is described in the supplied passage.
+- id: motif:3
+  label: Solar deity as universal source and composite divinity
+  taxonomy_refs: []
+  basis: The Sun is praised as universal king, divine soul, universal source and sire,
+    and as identical with numerous gods and cosmic powers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The translator notes that the canto may be an interpolation and that this
+    is a paraphrase rather than a full literal rendering.
+- id: motif:4
+  label: Solar chariot drawn by seven steeds
+  taxonomy_refs: []
+  basis: The passage states that seven flaming steeds whirl the Sun’s car through
+    heaven.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the image briefly and does not narrate a separate journey
+    episode beyond the Sun’s heavenly course.
+- id: motif:5
+  label: Solar regulation of seasons and waters
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Sun brings seasons at his call and commands clouds, rivers, and rains.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The seasonal and rain functions occur within a praise hymn rather than
+    a developed seasonal myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 55287-55290
+  quote_or_summary: "“There faint and bleeding fast, apart / Stood Rávaṇ raging in
+    his heart. / Then, moved with ruth for Ráma’s sake, / Agastya came and gently
+    spake”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: lines 55291-55302
+  quote_or_summary: Agastya tells Rama to hear an everlasting truth, promises success,
+    and instructs him to adore the rising Sun as light of the worlds, universal king,
+    lord, and source of safety for gods, fiends, and men.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; source metadata allows full text use.
+- id: ev:3
+  type: summary
+  locator: lines 55303-55318
+  quote_or_summary: The hymn identifies the Sun with Brahma, Vishnu, Shiva, Indra,
+    Time, Death, the Moon, sea-ruler, and other powers, and calls him air, life, fire,
+    universal source and sire, bringer of seasons, creator, light, and nurse of all.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: lines 55319-55328
+  quote_or_summary: The Sun runs his heavenly course as maker of day; seven flaming
+    steeds whirl his car; he parts night-clouds with shining darts and commands clouds,
+    rivers, and rains.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; source metadata allows full text use.
+- id: ev:5
+  type: summary
+  locator: lines 55329-55336
+  quote_or_summary: Stars, planets, and constellations acknowledge the Sun as monarch;
+    he is addressed as lord of twelve forms, and due worship of the Lord of Light
+    is said to keep a worshiper from falling under ill.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; source metadata allows full text use.
+- id: ev:6
+  type: quote
+  locator: lines 55337-55340
+  quote_or_summary: "“Adore with all thy heart and mind / This God of Gods ... / And
+    thou his saving power shalt know / Victorious o’er thy giant foe.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; source metadata allows full text use.
+- id: ev:7
+  type: note
+  locator: lines 55342-55354
+  quote_or_summary: The editor says the canto is absent from the Bengal recension,
+    may be an interpolation, is paraphrased as a glimpse of monotheistic ideas, and
+    that a subsequent canto of ordinary fighting and evil omens is omitted.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation and editorial note; source metadata allows
+    full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on the supplied English passage. Motif candidates
+    are conservative and taxonomy-linked only where directly supported. No cross-text
+    comparison claims are asserted; the supplied editorial note raises textual-status
+    uncertainty because it says the canto may be an interpolation and is paraphrased.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the provided passage and source metadata. Editorial statements are treated as paratextual evidence, not as narrative events.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l55285-l55354
+  passage_sha256=df8ba70bb2a2fdd6935a2cffa45c461ddef849fa709d681e5c2a52043ac5b964
+

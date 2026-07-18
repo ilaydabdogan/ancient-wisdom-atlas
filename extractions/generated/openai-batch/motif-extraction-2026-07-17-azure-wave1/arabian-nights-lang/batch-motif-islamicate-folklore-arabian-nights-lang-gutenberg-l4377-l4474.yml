@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l4377-l4474
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 4377-4474
+  start: '4377'
+  end: '4474'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sindbad and his companions are trapped on a desolate island shore beneath
+    an unscalable mountain, surrounded by wreckage, bones, treasure, and a fresh-water
+    river that disappears into a jewel-lined cave. After his companions die, Sindbad
+    builds a raft, loads it with precious goods, and entrusts himself to the underground
+    river. He travels in darkness, narrowly avoids being crushed, nearly exhausts
+    his food, falls asleep, and wakes in daylight in a beautiful country where local
+    men rescue him. They bring him to Serendib and present him to the king, who hears
+    his story, orders it recorded in gold letters, and examines the treasures from
+    the raft.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is a rocky seaward shore of a large island, bounded by a mountain
+    and covered with wreckage, bones, costly merchandise, and treasures.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A clear fresh-water river gushes from the mountain, turns away from the sea,
+    and flows under a natural archway into a cave whose walls and floor contain precious
+    substances.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The castaways cannot scale the mountain, and the captain divides the remaining
+    food equally among them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sindbad buries the last of his companions and expects that his remaining provisions
+    may not last long enough for him to dig his own grave.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sindbad reasons that the underground river may emerge elsewhere and decides
+    to risk escape by raft.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sindbad builds a raft from driftwood and cords, loads it with packages of
+    precious goods, and enters the current beneath the archway.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The raft carries Sindbad through total darkness for what seems like many nights
+    and days, and at one point the channel becomes low enough that he risks being
+    crushed against the roof.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After eating his last morsel of food, Sindbad falls asleep from anxiety and
+    fatigue, then wakes in daylight beside a beautiful country with his raft tied
+    to the bank.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Local men have noticed the raft, brought Sindbad to shore, waited for him
+    to wake, fed him, and asked where he came from and where he was going.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: The local men take Sindbad and his raft to Serendib and present him to their
+    king.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The king hears Sindbad's story, orders it written in letters of gold and stored
+    in the kingdom's archives, and examines the precious stones and goods from the
+    raft.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sindbad the Sailor
+  description: The first-person narrator, a voyager who survives shipwreck, underground
+    travel by raft, and arrival in Serendib.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Captain
+  description: The captain of the stranded group who divides the remaining food equally
+    among the castaways.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sindbad's companions
+  description: The other castaways, all of whom die before Sindbad leaves the island
+    by raft.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Local men by the river
+  description: Friendly-looking men of the land where the underground river emerges;
+    they rescue Sindbad from the riverbank area, feed him, and bring him onward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Arabic-speaking native
+  description: One of the local men who understands Sindbad's Arabic words and explains
+    how the group found and rescued him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: King of Serendib
+  description: The ruler to whom Sindbad is presented; he hears Sindbad's story, has
+    it recorded, and examines the treasures from the raft.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: stranded voyager and survivor
+  assigned_to:
+  - fig:1
+  basis: Sindbad survives the shore where his companions die, builds a raft, travels
+    through the underground river, and reaches another land.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: ration distributor
+  assigned_to:
+  - fig:2
+  basis: The captain divides the remaining food equally among the stranded men.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dead fellow castaways
+  assigned_to:
+  - fig:3
+  basis: Sindbad buries the last of his companions before attempting escape.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rescuers and escorts
+  assigned_to:
+  - fig:4
+  basis: The local men bring Sindbad to shore, wait for him to wake, provide food,
+    and convey him to the city.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: language mediator
+  assigned_to:
+  - fig:5
+  basis: One of the local men understands Sindbad's Arabic and speaks with him.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: royal recipient of tale and treasure
+  assigned_to:
+  - fig:6
+  basis: The king receives Sindbad, hears his account, orders it archived, and views
+    the precious goods.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: unscalable mountain boundary
+  literal_form: mountain forming the seaward boundary of the island and preventing
+    escape overland
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hidden jewel-lined cave
+  literal_form: natural archway and cave into which the river flows, with diamonds,
+    rubies, crystal, and ambergris
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: underground river
+  literal_form: clear fresh-water river flowing from the mountain under rock and later
+    emerging in another land
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: survival raft
+  literal_form: stout raft of driftwood and cords carrying Sindbad and his bales through
+    the underground current
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: treasure cargo
+  literal_form: packages and bales of rubies, emeralds, rock crystal, ambergris, precious
+    stuffs, and other goods
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:6
+  label: darkness and daylight transition
+  literal_form: total darkness in the underground passage followed by waking again
+    in the light of day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Desolate shore and hidden river
+  summary: The castaways stand on a rocky shore beneath an unscalable mountain amid
+    wreckage, bones, and treasure, while a fresh-water river flows into a jewel-lined
+    cave instead of the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Starvation of the stranded group
+  summary: The captain divides the food; the men can survive only as long as their
+    portions last, and Sindbad eventually buries the last of his companions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Raft escape through the underground channel
+  summary: Sindbad builds and loads a raft, lets it enter the hidden current, travels
+    in darkness, nearly strikes the low roof, and conserves food until it is gone.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Return to daylight and rescue
+  summary: Sindbad falls asleep and wakes in daylight beside a beautiful country,
+    where local men have tied his raft to the bank and explain that they brought him
+    ashore.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Presentation at Serendib
+  summary: The local men feed Sindbad, take him with his raft to Serendib, and present
+    him to the king, who hears and records his story and examines the treasures.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: escape through a hidden underground waterway
+  taxonomy_refs:
+  - hero_descent
+  - return
+  basis: Sindbad enters a cave-like underground river in darkness, endures danger
+    there, and emerges alive in another land.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes subterranean travel and return to daylight, but
+    it does not explicitly name an underworld or ritual descent.
+- id: motif:2
+  label: death-near ordeal followed by return to life and light
+  taxonomy_refs:
+  - death_rebirth
+  - return
+  basis: Sindbad faces starvation after his companions die, falls asleep after exhausting
+    his food, and wakes in daylight, describing himself as returned to life and light.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The reversal is narrative and metaphorical rather than an explicit physical
+    death and resurrection.
+- id: motif:3
+  label: survival vessel bearing a castaway to a new land
+  taxonomy_refs:
+  - ark_vessel
+  basis: Sindbad builds a raft, entrusts himself to the current, and is carried from
+    a deathly shore to a populated land where he is rescued.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The vessel is a personal escape raft, not a large communal ark.
+- id: motif:4
+  label: treasure carried out of a perilous place
+  taxonomy_refs: []
+  basis: Sindbad loads jewels, ambergris, and precious goods onto the raft and later
+    displays them before the king of Serendib.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the provided list.
+- id: motif:5
+  label: wonder tale recorded by a king
+  taxonomy_refs:
+  - wisdom
+  basis: After hearing Sindbad's surprising adventures, the king orders them written
+    in letters of gold and stored in the royal archives.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The connection to wisdom is limited to royal preservation of an extraordinary
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4377-4395
+  quote_or_summary: The island shore is bounded by a mountain and strewn with wreckage,
+    bones, merchandise, and treasure; a fresh-water river flows from the mountain
+    into a natural rock arch and jewel-lined cave with ambergris on the floor.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 4396-4408
+  quote_or_summary: The castaways cannot scale the mountain; the captain divides food
+    equally; Sindbad later buries the last of his companions and expects that he may
+    soon die.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 4409-4421
+  quote_or_summary: Sindbad concludes that the underground river may emerge elsewhere,
+    builds a stout raft from driftwood and cords, loads it with precious goods, seats
+    himself on it with oars, and releases it into the current under the archway.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 4422-4436
+  quote_or_summary: The raft travels through total darkness for many nights and days;
+    Sindbad narrowly avoids being crushed by a low rocky roof, exhausts his food,
+    sleeps, and wakes in daylight in a beautiful country with friendly-looking men
+    nearby.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 4437-4446
+  quote_or_summary: Sindbad speaks in Arabic about fortune changing from evil to good;
+    a local man who understands Arabic says they found his raft floating down the
+    river and brought him to shore.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 4447-4459
+  quote_or_summary: Sindbad asks first for food, is supplied, tells his story, and
+    is taken by horse to Serendib while strong men carry his raft; the natives present
+    him to their king.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 4460-4474
+  quote_or_summary: Sindbad identifies himself as the Sailor, tells the king his story,
+    and the king orders it written in letters of gold and archived; the raft's bales
+    are opened, and the king admires the rubies and emeralds.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level and should be reviewed, especially where broad taxonomy terms
+    such as hero_descent, ark_vessel, and wisdom are applied metaphorically or functionally.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were asserted; comparison_claims is empty because the supplied passage alone does not establish a specific cross-text or historical comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l4377-l4474
+  passage_sha256=457a7785e50d7c57a9b46c7e14da5faf539b736e04a5cb99bdef087a4a85752c
+

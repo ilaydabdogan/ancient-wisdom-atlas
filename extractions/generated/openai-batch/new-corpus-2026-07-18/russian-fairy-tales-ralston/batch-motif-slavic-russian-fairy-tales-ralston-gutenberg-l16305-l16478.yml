@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l16305-l16478
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'CHAPTER VI. / LEGENDS. / FOOTNOTES: / INDEX.; lines 16305-16478'
+  start: '16305'
+  end: '16478'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index section listing Russian fairy-tale and legend topics,
+    including peasants, saints, snakes, vampires, witches, waters of life and death,
+    the Sun's Sister, the Whirlwind, and other tale titles or motifs with page references.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as index entries with topic names and page references,
+    not as a narrative scene.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists multiple entries concerning snakes, including a mythical snake,
+    Ivan Popyalof, the Water Snake, Snake Husbands, a common snake legend, and a noted
+    likeness between snakes and demons.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists vampire-related entries, including vampire stories, a belief
+    account, stakes driven through vampires, suicides and vampires, and named vampire
+    stories.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index lists saint-related legends, including Elijah or Ilya, Andrew, George,
+    Nicholas, and Kasian.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index lists witchcraft-related entries, including a witch, a dead witch,
+    the Witch and Sun's Sister, Witch Girl, and a broader witchcraft page range.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists entries for Waters of Life and Death and Waters of Strength
+    and Weakness.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists the Sun's Sister and a story involving a Witch and the Sun's
+    Sister.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index lists story or motif titles involving wife-gaining leaps, Swan Maidens,
+    the Water King and Vasilissa the Wise, and the Zhar-Ptitsa or Glow Bird.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Snake
+  description: An indexed mythical figure or being appearing in several snake-related
+    entries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Vampires
+  description: Indexed beings associated with stories, beliefs, stakes, and suicides.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Saints
+  description: Indexed holy figures in legends, including Elijah/Ilya, Andrew, George,
+    Nicholas, and Kasian.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Witch
+  description: Indexed figure appearing in several witch-related story entries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Sun's Sister
+  description: Indexed figure named in an entry and in a story title involving a witch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Water King
+  description: Indexed figure in the story title 'Water King and Vasilissa the Wise.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Vasilissa the Wise
+  description: Indexed figure in the story title 'Water King and Vasilissa the Wise.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Zhar-Ptitsa or Glow Bird
+  description: Indexed bird figure or tale title listed as 'Zhar-Ptitsa or Glow Bird.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: indexed tale or legend subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage names these figures or figure-types as index entries, story titles,
+    or legend topics with page references.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: snake
+  literal_form: Snake / Water Snake / Common Snake / Snake Husbands
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water
+  literal_form: Water Snake; Water King; Waters of Life and Death; Waters of Strength
+    and Weakness
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: life and death waters
+  literal_form: Waters of Life and Death
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: strength and weakness waters
+  literal_form: Waters of Strength and Weakness
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: serpent-related tale complex
+  taxonomy_refs:
+  - serpent
+  basis: The index groups several snake-related entries, including a mythical snake,
+    Water Snake, Snake Husbands, a common snake legend, and a likeness between snakes
+    and demons.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only an index; it does not provide story actions or narrative
+    context.
+- id: motif:2
+  label: vampire and restless dead traditions
+  taxonomy_refs: []
+  basis: The index lists vampire stories, vampire belief, stakes driven through vampires,
+    suicides and vampires, and stories involving corpses or vampires.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No narrative details are present in the excerpt; taxonomy mapping is left
+    empty because no exact vampire motif family is supplied.
+- id: motif:3
+  label: witchcraft and witch figures
+  taxonomy_refs: []
+  basis: The index lists witch stories and a broader witchcraft range, including a
+    dead witch and a Witch and Sun's Sister story.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt supplies only index labels and page references.
+- id: motif:4
+  label: life-restoring or death-associated waters
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The index explicitly lists 'Waters of Life and Death.'
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The title supports the presence of life/death waters, but the excerpt
+    does not describe their function; taxonomy mapping is therefore tentative.
+- id: motif:5
+  label: strength-altering waters
+  taxonomy_refs: []
+  basis: The index explicitly lists 'Waters of Strength and Weakness.'
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives no narrative context beyond the indexed title.
+- id: motif:6
+  label: wife-gaining leap
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The index lists 'Wife-Gaining Leap, stories of a.'
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The title suggests a marriage or bride-winning pattern, but the excerpt
+    gives no plot detail; taxonomy mapping is tentative.
+- id: motif:7
+  label: swan maidens
+  taxonomy_refs:
+  - shapeshifter
+  basis: The index includes an entry for 'Swan Maidens.'
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage does not describe transformation or actions; taxonomy mapping
+    to shapeshifter is based only on the named motif label.
+comparison_claims:
+- id: claim:1
+  claim: The index explicitly notes a likeness between snakes and demons.
+  claim_level: same_motif
+  target: Demons
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The nature of the likeness is not described in this index excerpt.
+- id: claim:2
+  claim: The index identifies the Vieszcy as a Kashoube vampire, linking the vampire
+    topic to a named neighboring Slavic tradition.
+  claim_level: same_motif
+  target: Kashoube vampire tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only the index label and no comparative analysis.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16305-16478
+  quote_or_summary: Index entries list subjects and page references, including Russian
+    Peasants, Skazkas, Saints, Snake, Vampires, Witchcraft, and many tale titles.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 16337-16342
+  quote_or_summary: '"Snake, the mythical... Water Snake... Snake Husbands... Common
+    Snake... likeness between Snakes and Demons"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 16343-16412
+  quote_or_summary: The index lists 'Soldier and the Vampire,' 'Stakes driven through
+    Vampires,' 'Suicides and Vampires,' 'Two Corpses,' 'Vampires, stories about,'
+    and 'Vieszcy, the Kashoube Vampire.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 16312-16318
+  quote_or_summary: The Saints entry lists legends about Ilya or Elijah, Elijah and
+    Nicholas, St. Andrew, St. George, St. Nicholas, and St. Kasian.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 16425-16460
+  quote_or_summary: The index includes 'Witch,' 'Witch, story of the Dead,' 'Witch
+    and Sun's Sister,' 'Witch Girl,' and 'Witchcraft.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 16417-16423
+  quote_or_summary: '"Waters of Life and Death" and "Waters of Strength and Weakness"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 16362-16458
+  quote_or_summary: The index lists 'Sun's Sister' and later 'Witch and Sun's Sister,
+    story of the.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 16365-16468
+  quote_or_summary: The index lists 'Swan Maidens,' 'Water King and Vasilissa the
+    Wise,' 'Wife-Gaining Leap,' and 'Zhar-Ptitsa or Glow Bird.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The excerpt is an index, so it supports identification of indexed topics
+    and titles but not detailed scene structure, actions, or firm motif-function assignments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No scenes were extracted because the passage is not a narrative episode.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l16305-l16478
+  passage_sha256=63d5ea98cf145856c5cfc985967759ee97cab16c1c90067ce4e66b3620f9ab5d
+

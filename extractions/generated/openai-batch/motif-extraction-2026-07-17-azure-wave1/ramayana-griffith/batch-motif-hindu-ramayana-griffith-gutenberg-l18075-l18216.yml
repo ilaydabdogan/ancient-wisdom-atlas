@@ -1,0 +1,517 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l18075-l18216
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXXII. The Gift Of The Treasures. / Canto XXXVII. The Coats Of Bark.
+    / Canto XLVI. The Halt. / Canto XLIX. The Crossing Of The Rivers.; lines 18075-18216
+  start: '18075'
+  end: '18216'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Bharadvája blesses Ráma, Lakshmaṇ, and Sítá and gives directions toward
+    the meeting of the Yamuná and Gangá, across the Kálindí, to the Fig-tree Śyáma,
+    and onward through forest toward Chitrakúṭa. The travelers build a raft, cross
+    the river, and Sítá prays to Kálindí and later to the sacred tree. Ráma arranges
+    their order of travel through the forest; they gather plants, hunt, eat, rest
+    by the river, and at dawn Ráma wakes Lakshmaṇ to continue.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bharadvája blesses the travelers and gives a route involving the meeting of
+    Yamuná and Gangá, the swift Kálindí, a raft crossing, the Fig-tree Śyáma, and
+    a wooded path toward Chitrakúṭa.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ráma, Lakshmaṇ, and Sítá thank the hermit, go to Kálindí’s wooded shore, and
+    consider how to cross the river.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The brothers construct a raft with logs, dry bamboos, and grass; Lakshmaṇ
+    also prepares a seat for Sítá from cane and Rose-Apple boughs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ráma places Sítá on the raft, stores skins, bows, coats, ornaments, and a
+    spade, and the brothers push the raft from the shore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the raft is halfway across, Sítá prays to Kálindí as a goddess and vows
+    gifts of cattle and jars of wine if Ráma returns to the city of Ikshváku’s line.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After crossing, Sítá approaches the Fig-tree Śyáma, greets it, asks that Ráma
+    complete his vow and that they return to meet Kauśalyá and Sumitrá, and walks
+    around the tree with joined hands.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ráma tells Lakshmaṇ to lead the way, Sítá to walk behind Lakshmaṇ, and himself
+    to go last holding his bow; he asks Lakshmaṇ to gather fruits and flowers for
+    Sítá.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: As they walk, Sítá asks the names of flowering shrubs, creepers, and trees,
+    and Lakshmaṇ fetches flowering boughs at her request.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The travelers pass along the river, hear birds, travel through forest, kill
+    game, prepare a meal, rest, and choose a level riverside place for the night.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: In the morning, Ráma wakes Lakshmaṇ, points to the voices of forest birds,
+    and says it is time to depart.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Bharadvája
+  description: A hermit or saint who blesses the travelers and gives detailed directions
+    for their journey.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ráma
+  description: A prince and husband of Sítá who receives the route, travels with Lakshmaṇ
+    and Sítá, helps build and launch the raft, arranges the travel order, and wakes
+    Lakshmaṇ to continue onward.
+  role_refs:
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Lakshmaṇ
+  description: Ráma’s brother, who travels with him and Sítá, helps make the raft,
+    prepares Sítá’s seat, is directed to lead the way, and gathers boughs for Sítá.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Sítá
+  description: Ráma’s wife, also called Janak’s daughter and the Videhan, who travels
+    with the brothers, is seated on the raft, prays to Kálindí, reveres the Fig-tree
+    Śyáma, and asks about forest plants.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Kálindí / Yamuná
+  description: A swift river flowing toward Gangá; Sítá addresses it as a goddess
+    while crossing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: hermit guide and blesser
+  assigned_to:
+  - fig:1
+  basis: Bharadvája blesses the travelers and gives the route, including river crossing
+    and forest directions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: forest travelers
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Ráma, Lakshmaṇ, and Sítá proceed from the hermitage to the river, cross,
+    and continue through forest.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:3
+  label: raft builders and river crossers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The brothers make the raft, store the gear, and push off from land.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: supplicant at river and tree
+  assigned_to:
+  - fig:4
+  basis: Sítá prays to Kálindí and later petitions the Fig-tree Śyáma with joined
+    hands and circumambulation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: path leader and attendant gatherer
+  assigned_to:
+  - fig:3
+  basis: Ráma instructs Lakshmaṇ to lead the way and to gather fruits and flowers
+    for Sítá; Lakshmaṇ fetches flowering boughs.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: rear guard with bow
+  assigned_to:
+  - fig:2
+  basis: Ráma says he will go hindmost of the three while grasping his bow.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: river goddess addressed in prayer
+  assigned_to:
+  - fig:5
+  basis: Sítá addresses Kálindí as a goddess whose flood she is crossing and prays
+    to her.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: river waters
+  literal_form: Yamuná, Gangá, and Kálindí river waters, including the crossing of
+    Kálindí
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: constructed raft
+  literal_form: Raft made of logs, dry bamboos, grass, cane, and Rose-Apple boughs
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Fig-tree Śyáma
+  literal_form: Holy fig-tree with green boughs, many birds, verdant shade, and a
+    place for Sítá’s prayer
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: vowed offerings
+  literal_form: A thousand cattle and a hundred jars of wine promised to Kálindí
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: bow carried in rear
+  literal_form: Ráma’s bow, carried while he walks last behind Lakshmaṇ and Sítá
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: forest flowers and fruits
+  literal_form: Fruits, flowers, flowering shrubs, creepers, trees, and boughs gathered
+    for Sítá
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Bharadvája’s blessing and route instruction
+  summary: The hermit blesses the travelers and directs them to the river confluence,
+    the Kálindí crossing, the Fig-tree Śyáma, and the wooded route toward Chitrakúṭa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at Kálindí and raft construction
+  summary: Ráma, Lakshmaṇ, and Sítá reach the river, deliberate about crossing, build
+    a raft, make a seat for Sítá, load their gear, and push off.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Prayer during the river crossing
+  summary: Midway across Kálindí, Sítá addresses the river as a goddess, asks that
+    Ráma keep his vow, and promises offerings if he returns to his ancestral city.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Reverence at the Fig-tree Śyáma
+  summary: After landing, the party goes to the Fig-tree Śyáma, where Sítá petitions
+    the tree and walks around it with joined hands.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Ordered movement through the forest
+  summary: Ráma sets the order of travel with Lakshmaṇ in front, Sítá behind him,
+    and himself last with a bow; he also tells Lakshmaṇ to gather fruits and flowers
+    for Sítá.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Forest meal, night halt, and morning departure
+  summary: The travelers proceed through forest, hunt game, prepare food, rest at
+    a pleasant riverside place, and at dawn Ráma wakes Lakshmaṇ to continue.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: guided departure into forest
+  taxonomy_refs:
+  - departure
+  basis: The travelers receive a blessing and detailed directions from Bharadvája,
+    leave the hermitage, cross a river, halt for the night, and are urged onward at
+    dawn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage is a segment of an ongoing exile journey; it does not by itself
+    give the original departure from the city.
+- id: motif:2
+  label: river crossing by constructed raft
+  taxonomy_refs: []
+  basis: Ráma and Lakshmaṇ build a raft from natural materials, seat Sítá on it, load
+    their belongings, and cross Kálindí.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No flood, rescue vessel, or ark-like preservation theme is stated in this
+    passage.
+- id: motif:3
+  label: votive prayer to a river goddess
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Sítá asks Kálindí to grant that Ráma keep his vow and promises cattle and
+    jars of wine if he returns to the city.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage records the vow and promised offerings, but not their later
+    fulfillment.
+- id: motif:4
+  label: petition at a sacred tree
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Bharadvája identifies the Fig-tree Śyáma as blessed and instructs Sítá to
+    pray there; Sítá greets it, petitions it, and circles it with joined hands.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a sacred-tree motif, but does not explicitly describe
+    the tree as a cosmic axis or world center.
+- id: motif:5
+  label: protective travel order in wilderness
+  taxonomy_refs: []
+  basis: Ráma places Lakshmaṇ in front, Sítá behind him, and himself last carrying
+    a bow, while also ensuring fruits and flowers are gathered for Sítá.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The protective purpose is implied by the ordered travel and bow, but no
+    immediate threat appears in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18075-18109
+  quote_or_summary: Bharadvája blesses the travelers and instructs them to go where
+    Yamuná and Gangá meet, cross Kálindí by raft, revere the Fig-tree Śyáma, and continue
+    through forest toward Chitrakúṭa.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:2
+  type: summary
+  locator: lines 18111-18126
+  quote_or_summary: After thanking the hermit, Ráma, Lakshmaṇ, and Sítá walk to Kálindí’s
+    wooded shore and deliberate about crossing the river.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:3
+  type: summary
+  locator: lines 18127-18146
+  quote_or_summary: The brothers build a raft of logs, bamboos, and grass; Lakshmaṇ
+    makes Sítá a seat, Ráma places her on board, stores their gear, and the brothers
+    push off.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:4
+  type: quote
+  locator: lines 18147-18155
+  quote_or_summary: "“Goddess, whose flood I traverse now, / Grant that my lord may
+    keep his vow.” Sítá promises cattle and jars of wine when Ráma sees the city again."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:5
+  type: summary
+  locator: lines 18157-18172
+  quote_or_summary: After landing, the party goes to the Fig-tree Śyáma; Sítá greets
+    the tree, asks that Ráma complete his vow and that they return to Kauśalyá and
+    Sumitrá, then walks around it with joined hands.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:6
+  type: summary
+  locator: lines 18173-18184
+  quote_or_summary: Ráma tells Lakshmaṇ to lead, Sítá to follow him, and himself to
+    walk last with his bow; he asks Lakshmaṇ to gather any fruits or flowers Sítá
+    desires.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:7
+  type: summary
+  locator: lines 18186-18195
+  quote_or_summary: Sítá asks the names of unfamiliar shrubs, creepers, and trees;
+    Lakshmaṇ fetches flowering boughs, and Sítá enjoys the river with cries of birds
+    including sáras and swan.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:8
+  type: summary
+  locator: lines 18196-18208
+  quote_or_summary: The brothers travel a league through forest, kill game, cook and
+    eat under trees, rest among animals, and find a level riverside place for the
+    night.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+- id: ev:9
+  type: quote
+  locator: lines 18211-18216
+  quote_or_summary: 'At morning, Ráma wakes Lakshmaṇ: “Awake, the pleasant voices
+    hear / Of forest birds,” and says the hour has come to go.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; Project Gutenberg / Griffith translation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    are limited to passage-level patterns and available taxonomy; no separate comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Comparison claims were left empty because the passage does not itself make an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l18075-l18216
+  passage_sha256=d4e9f026db4d1220463a0d08a0ba0e09f78edb78d85c23004f22f22b6c66c1b5
+

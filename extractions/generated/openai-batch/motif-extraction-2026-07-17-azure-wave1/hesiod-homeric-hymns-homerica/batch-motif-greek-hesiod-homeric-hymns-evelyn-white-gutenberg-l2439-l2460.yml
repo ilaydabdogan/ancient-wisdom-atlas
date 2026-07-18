@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l2439-l2460
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE ASTRONOMY / THE PRECEPTS OF CHIRON / THE GREAT WORKS / THE IDAEAN DACTYLS;
+    lines 2439-2460
+  start: '2439'
+  end: '2460'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage preserves fragments attributed to Hesiod’s Great Works and
+    Idaean Dactyls. One Great Works fragment states a maxim of reciprocal justice;
+    another links the Silver Race or silver to Earth. The Idaean Dactyls fragments
+    credit Idaean figures with teaching or discovering iron-working and bronze smelting
+    in Crete and Cyprus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fragment of the Great Works is identified with a verse concerning the slaying
+    of Rhadamanthys.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fragment states that a man who sows evil will reap evil increase, and
+    that receiving what he has done to others is true justice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some interpreters attribute the Silver Race to earth and report that Hesiod
+    makes silver part of the family of Earth in the Great Works.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Idaean Dactyls are said to have taught the smelting and tempering of iron
+    in Crete.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Celmis and Damnameneus are named as the first Idaean Dactyls and are credited
+    with discovering iron in Cyprus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Delas, another Idaean whom Hesiod calls Scythes, is credited with discovering
+    bronze smelting.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rhadamanthys
+  description: Named in a parenthetical reference to the slaying of Rhadamanthys.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Silver Race
+  description: A race that some attribute to earth in connection with the Great Works.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Earth
+  description: Named as the family source or kin-group of silver in a report about
+    Hesiod’s Great Works.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Idaean Dactyls
+  description: A group credited with teaching the smelting and tempering of iron in
+    Crete.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Celmis
+  description: Named as one of the first Idaean Dactyls and as a discoverer of iron
+    in Cyprus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Damnameneus
+  description: Named as one of the first Idaean Dactyls and as a discoverer of iron
+    in Cyprus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Delas / Scythes
+  description: Named as another Idaean; Clement calls him Delas, while reporting that
+    Hesiod calls him Scythes, and credits him with discovering bronze smelting.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: slain figure in verse reference
+  assigned_to:
+  - fig:1
+  basis: The passage refers parenthetically to the slaying of Rhadamanthys.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: race attributed to earth
+  assigned_to:
+  - fig:2
+  basis: The Silver Race is reported by some to be attributed to earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source or family of silver
+  assigned_to:
+  - fig:3
+  basis: The fragment report says Hesiod makes silver to be of the family of Earth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: teachers of iron-working
+  assigned_to:
+  - fig:4
+  basis: The Idaean Dactyls are said to have taught smelting and tempering of iron
+    in Crete.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: first Idaean Dactyls and discoverers of iron
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Celmis and Damnameneus are named as the first Idaean Dactyls and credited
+    with discovering iron in Cyprus.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: discoverer of bronze smelting
+  assigned_to:
+  - fig:7
+  basis: Delas, also called Scythes by Hesiod according to the passage, is credited
+    with discovering bronze smelting.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: evil sowing and evil harvest
+  literal_form: sowing evil and reaping evil increase
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: silver
+  literal_form: silver
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Earth
+  literal_form: Earth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: iron
+  literal_form: iron
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: bronze smelting
+  literal_form: bronze smelting
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Crete
+  literal_form: Crete
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Cyprus
+  literal_form: Cyprus
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Reciprocal justice maxim
+  summary: A Great Works fragment states that evil action produces evil return and
+    that like-for-like requital is true justice.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silver linked to Earth
+  summary: A report on the Great Works says some connect the Silver Race with earth
+    and that Hesiod makes silver belong to the family of Earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Idaean Dactyls teach iron-working in Crete
+  summary: The Idaean Dactyls are credited with teaching the smelting and tempering
+    of iron in Crete.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Idaean discoveries of iron and bronze
+  summary: Celmis and Damnameneus discover iron in Cyprus, while Delas, also called
+    Scythes, discovers bronze smelting.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: reciprocal justice through evil harvest
+  taxonomy_refs: []
+  basis: The Great Works fragment frames wrongdoing as seed that yields evil increase
+    and describes equivalent requital as true justice.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The fragment states a justice maxim but does not specify a divine judge
+    or narrative punishment mechanism.
+- id: motif:2
+  label: earth as kin or source of a metal race
+  taxonomy_refs: []
+  basis: The passage reports that the Silver Race is attributed to earth and that
+    silver is of the family of Earth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The fragment is indirect and brief; it does not narrate a birth or creation
+    episode.
+- id: motif:3
+  label: culture-bearing metalworkers teach iron technology
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: The Idaean Dactyls are credited with teaching the smelting and tempering
+    of iron in Crete.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents a technological teaching attribution, but gives no
+    fuller mythic narrative.
+- id: motif:4
+  label: first discoverers of metals and smelting
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: Celmis and Damnameneus are credited with discovering iron, and Delas or Scythes
+    with discovering bronze smelting.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The account is fragmentary and transmitted through later citation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 'THE GREAT WORKS, Fragment #1; lines 2439-2445'
+  quote_or_summary: "“If a man sow evil, he shall reap evil increase; if men do to
+    him as he has done, it will be true justice.” The fragment is introduced as connected
+    with “the slaying of Rhadamanthys.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: 'THE GREAT WORKS, Fragment #2; lines 2446-2449'
+  quote_or_summary: Proclus reports that some attribute the Silver Race to earth,
+    saying Hesiod in the Great Works makes silver of the family of Earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: 'THE IDAEAN DACTYLS, Fragment #1; lines 2450-2455'
+  quote_or_summary: Pliny reports that Hesiod says the Idaean Dactyls taught the smelting
+    and tempering of iron in Crete.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: 'THE IDAEAN DACTYLS, Fragment #2; lines 2456-2460'
+  quote_or_summary: Clement reports that Celmis and Damnameneus, the first Idaean
+    Dactyls, discovered iron in Cyprus, and that Delas, called Scythes by Hesiod,
+    discovered bronze smelting.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage consists of brief
+    fragments preserved through later authors. Motif labels are therefore cautious
+    and fragment-limited; no comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs such as fire, water, tree, serpent, cave, milk, or mountain were applied because they are not directly named in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l2439-l2460
+  passage_sha256=7fc8ee9f04d57fe9f7d49e7ea7313f935d414150faa49d5cbfd6035f719f7579
+

@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l1967-l2088
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: 'FOOTNOTES: / DICCIONARIO DE MOTUL, MS., 1590. / THE CHRONICLES. / THE CHRONICLES.;
+    lines 1967-2088'
+  start: '1967'
+  end: '2088'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces five Maya chronicle texts drawn from Books of Chilan
+    Balam, explains the editor’s policy of preserving manuscript readings and noting
+    corrections, discusses repetitions and differences among the versions, and outlines
+    a katun-based chronological reckoning involving 71 katuns, larger cycles, and
+    uncertain Codice Perez passages.
+  language: English with Yucatec Maya excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage lists five chronicle sections: two series of katuns, a record
+    of the count of the katuns, the Maya katuns, and the chief katuns, drawn from
+    Books of Chilan Balam of Mani, Tizimin, and Chumayel.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The collected chronicles are said to come from various Books of Chilan Balam
+    and to preserve consecutive accounts of ancient history of the peninsula before
+    the Conquest.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor states that, except for the first chronicle, the texts had not
+    been printed or translated into a European language before this publication.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The editor says his purpose is to furnish historical materials rather than
+    reconcile discrepancies or write a critical history.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The editor reports following manuscript facsimiles closely and separating
+    suggested corrections from the main text.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The versions are described as containing considerable repetition while also
+    preserving details omitted by other versions.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'The editor offers two possible explanations for similarities among the versions:
+    copying from a common original, or use of fixed narrative formulas adopted by
+    priests for memorizing ancient history.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The editor states that all five chronicles generally agree in the period of
+    time they cover, with Nos. III and IV beginning later than the others.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The total time from the earliest given date to Spanish settlement is reckoned
+    as 71 katuns, interpreted as either 1420 years or 1704 years depending on the
+    assumed length of the katun.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Native writers are said to agree that the last day of the 11th katun was July
+    15, 1541, leading to backward calculations to A.D. 121 or B.C. 173.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A possible chronological error is identified as confusion between great cycles
+    of 260 or 312 years, which could assign events to different cycles when they belonged
+    to the same one.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The editor says six complete great cycles and parts of two others are counted,
+    so that a native person at the time of the Conquest would have had eight great
+    cycles to distinguish.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The editor introduces two Codice Perez passages as possibly relevant to the
+    cycle-counting problem, while noting textual corruption and archaic expressions.
+  category: speech
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Editor or compiler
+  description: The first-person compiler who collects, preserves, translates, annotates,
+    and evaluates the chronicle manuscripts.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:2
+  name_or_label: Native writers
+  description: Unnamed native writers who are said to agree on the date of the last
+    day of the 11th katun.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Priests
+  description: Unnamed priests who may have adopted fixed formulas for committing
+    ancient history to memory.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Bishop Landa
+  description: Named authority whose contrary statement is mentioned in relation to
+    the date of the 11th katun.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Spaniards
+  description: The settlers whose settlement of the country marks the endpoint of
+    the chronological reckoning in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: collector and preserver of manuscripts
+  assigned_to:
+  - fig:1
+  basis: The passage states that the compiler collected chronicles from Books of Chilan
+    Balam and aims to preserve them in original form.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: textual critic and chronological commentator
+  assigned_to:
+  - fig:1
+  basis: The editor discusses manuscript readings, corrections, discrepancies, chronological
+    calculations, and uncertainties.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:3
+  label: native chronological witnesses
+  assigned_to:
+  - fig:2
+  basis: The native writers are cited as agreeing on the last day of the 11th katun.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: formulaic transmitters of ancient history
+  assigned_to:
+  - fig:3
+  basis: The priests are proposed as adopters of fixed forms for committing ancient
+    history to memory.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: contrary chronological authority
+  assigned_to:
+  - fig:4
+  basis: Bishop Landa is mentioned as giving a contrary statement to the native writers’
+    agreement.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: historical endpoint of reckoning
+  assigned_to:
+  - fig:5
+  basis: The settlement by the Spaniards is used as the end point for the 71-katun
+    chronological span.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Katun
+  literal_form: A Maya chronological unit used to organize the chronicles and calculate
+    historical spans; the editor estimates it at either twenty or twenty-four years.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Great cycle
+  literal_form: A larger chronological cycle described as 260 or 312 years, whose
+    confusion could distort historical reckoning.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: Seventy-one katuns
+  literal_form: The total number of katuns from the earliest date given to the settlement
+    by the Spaniards.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Eleventh katun
+  literal_form: A named katun whose last day is dated by the editor to July 15, 1541.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Listing of chronicle sources
+  summary: Five chronicle sections are named and assigned to Books of Chilan Balam
+    from Mani, Tizimin, and Chumayel.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial preservation of manuscript history
+  summary: The editor explains that the chronicles are collected from Books of Chilan
+    Balam, should be preserved in original form, and are offered as materials for
+    history rather than reconciled historical synthesis.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Explanation of repeated chronicle forms
+  summary: The editor notes repetition and omissions across versions, then proposes
+    either a common source or priestly fixed narrative formulas as explanations, favoring
+    formulaic narration for most versions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Katun chronology and backward calculation
+  summary: The editor compares the chronicles’ time span, calculates 71 katuns to
+    the Spanish settlement, dates the last day of the 11th katun, and derives possible
+    earliest dates.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Problem of great-cycle confusion
+  summary: The editor identifies possible confusion among great cycles as a source
+    of chronological error and notes that eight cycles would have needed distinction
+    at the time of the Conquest.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Codice Perez passages introduced
+  summary: Two Maya-language passages from the Codice Perez are introduced as possibly
+    bearing on the great-cycle question, though the editor states that their meaning
+    is uncertain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Calendar-cycle chronology
+  taxonomy_refs: []
+  basis: The passage organizes historical memory through katuns, 71-katun spans, and
+    larger great cycles whose distinction affects dating.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a calendrical-historical pattern in editorial discussion, not
+    a mythic narrative motif in the supplied passage.
+- id: motif:2
+  label: Formulaic transmission of ancient history
+  taxonomy_refs: []
+  basis: The editor suggests that similarities among chronicle versions may come from
+    fixed forms of narration adopted by priests for memorizing ancient history.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents this as an explanatory supposition, not as a demonstrated
+    fact.
+- id: motif:3
+  label: Preservation of ancestral records
+  taxonomy_refs: []
+  basis: The editor emphasizes that the Books of Chilan Balam preserve nearly all
+    remaining consecutive ancient history of the peninsula and should be presented
+    accurately in original form.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a documentary and historiographic pattern rather than a narrated
+    mythic event.
+comparison_claims:
+- id: claim:1
+  claim: The five chronicle versions are comparable as parallel records because they
+    cover broadly similar time spans while also containing repetitions, discrepancies,
+    and version-specific details.
+  claim_level: same_function
+  target: Five Books of Chilan Balam chronicle versions in this passage
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The editor explicitly avoids reconciling the discrepancies, and the
+    passage does not establish a single harmonized chronology.
+- id: claim:2
+  claim: The similarities among most versions are cautiously attributed by the editor
+    to shared fixed narrative formulas rather than direct copying from a common original,
+    except possibly for the first two versions.
+  claim_level: linguistic_similarity
+  target: Formulaic narration across the Books of Chilan Balam chronicle versions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: low
+  limitations: The passage frames both explanations as suppositions and does not provide
+    the full textual comparison within this excerpt.
+- id: claim:3
+  claim: The chronicles share a katun-counting framework that allows their time spans
+    to be compared against one another.
+  claim_level: same_function
+  target: Katun-count chronological framework across the five chronicles
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The editor notes possible errors from confusing great cycles, so the
+    chronological comparison remains uncertain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1967-1983
+  quote_or_summary: 'The passage lists five chronicle sections: Series of the Katuns
+    from Mani; Series of the Katuns from Tizimin; Record of the Count of the Katuns,
+    Maya Katuns, and Chief Katuns from Chumayel.'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 1984-1990
+  quote_or_summary: The chronicles are said to be collected from various Books of
+    Chilan Balam and to constitute nearly all that remains of ancient history of the
+    peninsula known to the editor.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: 1991-2000
+  quote_or_summary: Except for the first, the editor says the chronicles had not been
+    printed or translated, and that preservation in original form is important whether
+    they corroborate or contradict one another.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: 2001-2014
+  quote_or_summary: 'The editor states: “I am furnishing materials for history, not
+    writing it,” and says he follows manuscript facsimiles while noting suspected
+    corruptions separately.'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:5
+  type: summary
+  locator: 2015-2032
+  quote_or_summary: The editor notes repetition and unique details across versions,
+    then proposes either a common original or widely adopted priestly formulas for
+    memorizing ancient history; he favors the formula explanation except possibly
+    for the first two.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 2033-2043
+  quote_or_summary: The editor says all five versions agree tolerably in length of
+    time; the total from the earliest date to Spanish settlement is 71 katuns, equaling
+    either 1420 or 1704 years depending on the katun length.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 2044-2052
+  quote_or_summary: Native writers agree, according to the editor, that the last day
+    of the 11th katun was July 15, 1541; despite Bishop Landa’s contrary statement,
+    this yields possible starting dates of A.D. 121 or B.C. 173.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 2053-2066
+  quote_or_summary: The editor identifies possible confusion among great cycles of
+    260 or 312 years as the chief source of chronological error; six complete cycles
+    and parts of two others are counted, meaning eight cycles would need distinction
+    at the Conquest.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: 2067-2074
+  quote_or_summary: The editor says he has not found a clear explanation of how the
+    cycles were distinguished and cites two Codice Perez passages that may bear on
+    the issue, though their text is corrupt and archaic.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: citation
+  locator: 2075-2088
+  quote_or_summary: Two transcribed Maya-language Codice Perez passages are given,
+    one labeled page 90 and one page 168, before a translation heading.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source metadata; citation/summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily editorial and historiographic, with calendrical
+    and textual-transmission patterns rather than mythic narrative symbols. Motif
+    candidates are therefore treated cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol references were assigned because the passage does not directly support the listed mythic motif families or symbol set.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l1967-l2088
+  passage_sha256=4f54930c02e6acc5590c402c5a92a19d9e3225d461afcc91b4a677837bed22fd
+

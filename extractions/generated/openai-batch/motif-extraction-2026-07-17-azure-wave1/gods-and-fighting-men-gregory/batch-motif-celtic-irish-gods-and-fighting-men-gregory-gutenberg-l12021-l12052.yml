@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.celtic-irish-gods-and-fighting-men-gregory-gutenberg-l12021-l12052
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'BOOK SEVEN: DIARMUID AND GRANIA. / CHAPTER I. THE FLIGHT FROM TEAMHAIR /
+    CHAPTER II. THE PURSUIT / CHAPTER III. THE GREEN CHAMPIONS; lines 12021-12052'
+  start: '12021'
+  end: '12052'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Diarmuid routs and destroys opposing strangers, leaving only the Woman-messenger
+    of the Black Mountain to report to Finn. She tells Finn of the destruction and
+    the deaths of three hounds. Finn goes to the bound Kings of the Green Champions
+    and asks several companions to loosen them, but they refuse; the kings die in
+    their bonds. Finn buries them under marked stones with names written in Ogham
+    and returns to Almhuin of Leinster.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Diarmuid follows the strangers, killing and scattering them; the passage says
+    no man or messenger is left to tell the news except the Woman-messenger of the
+    Black Mountain, unless some escaped by forest, earth, or water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Woman-messenger comes to Finn in a failing and distressed state, says
+    she has bad news, and reports Diarmuid's destruction and the fall of the three
+    deadly hounds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When Finn asks where Diarmuid went, the Woman-messenger says she does not
+    know.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Finn hears that the Kings of the Green Champions were bound by Diarmuid, gathers
+    his men, reaches the hill, and is distressed by their condition.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Finn asks Oisin to loosen the three kings; Oisin refuses because Diarmuid
+    had put bonds on him not to loosen anyone Diarmuid would bind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Finn asks Osgar to loosen the kings; Osgar refuses and says he would rather
+    add more bonds than loosen them. Conan and Lugaidh's Son also do not help.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The three kings die under the hardness of the bonds on them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Finn makes three wide-sodded graves for the dead kings, places a flag-stone
+    and another raised stone over them, and has their names written in branching Ogham.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the burial, Finn is tired and heavy-hearted, and he and his people go
+    back to Almhuin of Leinster.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Diarmuid
+  description: Warrior who follows, kills, and scatters the strangers; he has bound
+    the Kings of the Green Champions and is said to have killed the three deadly hounds.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Woman-messenger of the Black Mountain
+  description: The only messenger explicitly said to remain to tell the news; she
+    reports Diarmuid's destruction to Finn and does not know where Diarmuid went.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Finn
+  description: Leader who receives the Woman-messenger's report, goes to the bound
+    kings, asks others to loosen them, buries the kings, and returns to Almhuin of
+    Leinster.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Kings of the Green Champions
+  description: Three kings bound by Diarmuid; they are not loosened and die under
+    the hardness of their bonds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Three deadly hounds
+  description: Hounds reported by the Woman-messenger to have fallen by Diarmuid.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Oisin
+  description: Companion addressed by Finn and asked to loosen the three kings; he
+    refuses because of bonds laid on him by Diarmuid.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Osgar
+  description: Companion addressed by Finn and asked to loosen the three kings; he
+    refuses and says he would rather add bonds.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Conan
+  description: Named among those who would not help the bound kings.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Lugaidh's Son
+  description: Named among those who would not help the bound kings.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Finn's people
+  description: Group accompanying Finn back to Almhuin of Leinster after the burial.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: destroying pursuer
+  assigned_to:
+  - fig:1
+  basis: Diarmuid follows the strangers, killing and scattering them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: binder of captives
+  assigned_to:
+  - fig:1
+  basis: The Kings of the Green Champions are said to have been bound by Diarmuid.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: surviving messenger
+  assigned_to:
+  - fig:2
+  basis: She is the only messenger explicitly left to tell the news and reports the
+    destruction to Finn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recipient of bad news
+  assigned_to:
+  - fig:3
+  basis: Finn sees the messenger coming and asks her for news, then hears her report.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: burier of dead kings
+  assigned_to:
+  - fig:3
+  basis: Finn makes three graves and has stones and Ogham names placed for the dead
+    kings.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: bound doomed kings
+  assigned_to:
+  - fig:4
+  basis: The three kings are bound, not released, and die under the hardness of the
+    bonds.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: slain hounds
+  assigned_to:
+  - fig:5
+  basis: The Woman-messenger reports that the three deadly hounds had fallen by Diarmuid.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: refusers of release
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Oisin, Osgar, Conan, and Lugaidh's Son are each described as refusing or
+    not helping to loosen the bound kings.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: returning company
+  assigned_to:
+  - fig:10
+  basis: Finn and his people go back to Almhuin of Leinster.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Black Mountain
+  literal_form: A mountain named as the origin or affiliation of the Woman-messenger.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Waters as possible escape-place
+  literal_form: The waters are named among places into which some of the defeated
+    men might have escaped.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Bonds
+  literal_form: Bonds placed by Diarmuid and remaining on the three kings until their
+    death.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Three graves and memorial stones
+  literal_form: Three wide-sodded graves with a flag-stone and another raised stone
+    over them.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Branching Ogham names
+  literal_form: The names of the three kings written in branching Ogham on the burial
+    marker.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Diarmuid routs the strangers
+  summary: Diarmuid follows the strangers, killing and scattering them, leaving only
+    the Woman-messenger of the Black Mountain explicitly to carry news.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Messenger reports to Finn
+  summary: The Woman-messenger arrives in distress before Finn and reports Diarmuid's
+    destruction, including the deaths of the three deadly hounds; she cannot tell
+    Finn where Diarmuid went.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bound kings not released
+  summary: Finn reaches the hill where the three Kings of the Green Champions are
+    bound. Oisin, Osgar, Conan, and Lugaidh's Son refuse or fail to help loosen them,
+    and the kings die in their bonds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Burial and return to Almhuin
+  summary: Finn makes three graves for the kings, marks them with stones and branching
+    Ogham names, and returns with his people to Almhuin of Leinster.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sole surviving messenger reports a devastating defeat
+  taxonomy_refs: []
+  basis: After Diarmuid's rout, the Woman-messenger is the only named messenger left
+    to tell the news and reports the destruction to Finn.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as an episode of reporting bad news; no external
+    motif index identification is supplied.
+- id: motif:2
+  label: Heroic rout of an opposing force
+  taxonomy_refs: []
+  basis: Diarmuid follows the strangers, killing and scattering them, and the messenger
+    recounts the destruction he caused.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy family directly matches this combat episode.
+- id: motif:3
+  label: Fatal binding of defeated kings
+  taxonomy_refs: []
+  basis: The Kings of the Green Champions are bound by Diarmuid, are not loosened,
+    and die under the hardness of the bonds.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The exact nature of the bonds is not explained in this passage.
+- id: motif:4
+  label: Refusal to release captives because of prior obligation or hostility
+  taxonomy_refs: []
+  basis: Oisin refuses because Diarmuid laid bonds on him not to free those Diarmuid
+    bound; Osgar says he would rather add bonds, and Conan and Lugaidh's Son also
+    do not help.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only Oisin's refusal is explicitly grounded in an obligation; the others'
+    motives are not fully elaborated.
+- id: motif:5
+  label: Burial with named stone memorial
+  taxonomy_refs: []
+  basis: Finn makes three graves, places stones over them, and has the kings' names
+    written in branching Ogham.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a burial and memorial action but does not state a ritual
+    or supernatural function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12021-12025
+  quote_or_summary: Diarmuid pursues the strangers, killing and scattering them; only
+    the Woman-messenger of the Black Mountain is explicitly left to tell the news,
+    while possible escape routes include forests, green earth, and waters.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 12027-12035
+  quote_or_summary: The Woman-messenger comes to Finn in distress, says she brings
+    bad news, reports Diarmuid's destruction and the fall of the three deadly hounds,
+    and says she does not know where Diarmuid went.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 12037-12047
+  quote_or_summary: Finn goes to the hill where the Kings of the Green Champions are
+    bound by Diarmuid. Oisin, Osgar, Conan, and Lugaidh's Son do not loosen them,
+    and the three kings die under the hardness of the bonds.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 12049-12052
+  quote_or_summary: Finn makes three wide-sodded graves, sets stones over them, has
+    the kings' names written in branching Ogham, and returns heavy-hearted with his
+    people to Almhuin of Leinster.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal episode structure is clear. Motif labels are descriptive and not
+    tied to external taxonomy IDs because the provided taxonomy does not directly
+    match the passage-level combat, binding, and burial patterns. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage does not itself support a specific comparative claim.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-gods-and-fighting-men-gregory-gutenberg__l12021-l12052
+  passage_sha256=080597dff568a00ca799d16f1a1a2212909b742f3f7adea8b61486e2ed2f5883
+

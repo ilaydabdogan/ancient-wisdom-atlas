@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l61567-l61972
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: ADDITIONAL NOTES. / H. H. WILSON. / THE SUPPLIANT DOVE. / INDEX OF PRINCIPAL
+    NAMES; lines 61567-61972
+  start: '61567'
+  end: '61972'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index segment listing names, epithets, objects, groups,
+    and places with page references, from Sugríva to Yuvanáśva. It includes descriptive
+    entries such as Ten-necked, Thirty-three Gods, Thousand-eyed, Three-eyed God,
+    Trident and Trident-wielding, War-god, Wind and Wind-god, and Vulture-king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment rather than a narrative episode; it presents
+    alphabetized entries with page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The segment includes descriptive labels and epithets as index entries, including
+    Ten-necked, Thirty-three Gods, Thousand-eyed, and Three-eyed God.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:3
+  text: The segment includes object or natural-force entries such as Sun, Trident,
+    and Wind.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Some entries use divine role labels, including Three-eyed God, War-god, and
+    Wind-god.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:4
+- id: obs:5
+  text: Some entries include “passim” rather than only numeric page references, indicating
+    repeated references elsewhere in the source index.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ten-necked
+  description: Index entry with the label “Ten-necked” and a page reference.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Thirty-three Gods
+  description: Index entry for “Thirty-three Gods” with a page reference.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Thousand-eyed
+  description: Index entry with the label “Thousand-eyed” and multiple page references.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Three-eyed God
+  description: Index entry with the label “Three-eyed God” and a page reference.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Trident-wielding
+  description: Index entry with the label “Trident-wielding” and page references.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Vulture-king
+  description: Index entry with the label “Vulture-king” and a page reference.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: War-god
+  description: Index entry with the label “War-god” and page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Wind-god
+  description: Index entry with the label “Wind-god” and multiple page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deity or divine collective label
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:7
+  - fig:8
+  basis: The index labels these entries with “Gods,” “God,” or “god.”
+  evidence_refs:
+  - ev:7
+  - ev:4
+- id: role:2
+  label: kingly animal-associated label
+  assigned_to:
+  - fig:6
+  basis: The index entry is labeled “Vulture-king.”
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: numbered divine or bodily epithet
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: 'The entries use numerical or multiplied descriptors: Ten-necked, Thirty-three
+    Gods, Thousand-eyed, and Three-eyed God.'
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: weapon-bearing epithet
+  assigned_to:
+  - fig:5
+  basis: The index entry is labeled “Trident-wielding.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: Sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Trident
+  literal_form: Trident; Trident-wielding
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Wind
+  literal_form: Wind; Wind-god
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: numbered divine or bodily forms
+  literal_form: Ten-necked; Thirty-three Gods; Thousand-eyed; Three-eyed God
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: numeric divine or bodily epithet pattern
+  taxonomy_refs: []
+  basis: The index segment contains entries for Ten-necked, Thirty-three Gods, Thousand-eyed,
+    and Three-eyed God.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage is an index and does not narrate actions or identify all referents;
+    this is a lexical pattern rather than a full narrative motif.
+- id: motif:2
+  label: weapon-associated epithet pattern
+  taxonomy_refs: []
+  basis: The index includes separate entries for Trident and Trident-wielding.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only index labels and page references are present; no narrative use of
+    the weapon is described.
+- id: motif:3
+  label: natural force and deity pairing
+  taxonomy_refs: []
+  basis: The index includes entries for Wind and Wind-god.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage does not provide a story context or explain the relationship
+    between the natural force and the deity label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 61567-61972
+  quote_or_summary: Index segment listing entries from Sugríva to Yuvanáśva with page
+    references; no narrative actions are presented.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 61567-61972, entry “Sun”
+  quote_or_summary: "“Sun, 93, 109, 110, 124, 243.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 61567-61972, entries “Trident” and “Trident-wielding”
+  quote_or_summary: "“Trident, 68. / Trident-wielding, 54, 57.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 61567-61972, entries “War-god,” “Wind,” and “Wind-god”
+  quote_or_summary: "“War-god, 124, 476. / Wind, 30, 218. / Wind-god, 10, 36, 42,
+    68, 325, 326, 379, 392 ff., 417 ff., 449, 470, 478, 481, 488, 502, 503.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 61567-61972, selected index entries with “passim”
+  quote_or_summary: Entries for Sumantra, Sumitrá, Vaśishṭha, Vishṇu, and Viśvámitra
+    include “passim” after page references.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 61567-61972, entry “Vulture-king”
+  quote_or_summary: "“Vulture-king, 9.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used for extraction.
+- id: ev:7
+  type: quote
+  locator: lines 61567-61972, selected numbered or bodily epithet entries
+  quote_or_summary: "“Ten-necked, 250. / Thirty-three Gods, 51. / Thousand-eyed, 41,
+    59, 60, 74, 75, 76, 86, 90, 112, 252, 297, 504. / Three-eyed God, 86.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is limited because the passage is an index list, not a narrative
+    passage. Motif candidates are lexical or epithet patterns only. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage provides only index labels and page references, without narrative context.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l61567-l61972
+  passage_sha256=c17ad80200b91e92cd1ebc8fe983102e31eb22ec5a7ac63594b0fe314aa234e7
+

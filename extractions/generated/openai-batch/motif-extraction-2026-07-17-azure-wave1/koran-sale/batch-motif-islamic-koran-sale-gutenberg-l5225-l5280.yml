@@ -1,0 +1,611 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l5225-l5280
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 5225-5280
+  start: '5225'
+  end: '5280'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"There could be no good in that religion wherein was no prayer."'
+  summary: The passage discusses bodily cleanliness practices, circumcision as a rite
+    held by Muslims to be ancient and divinely instituted despite not being mentioned
+    in the Koran, traditions linking circumcision to Ismael, Abraham, Adam, and Gabriel,
+    claims that holy figures were born circumcised, and Muhammad's insistence on prayer
+    as indispensable.
+  language: English with a Spanish source quotation in a footnote
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists combing hair, cutting the beard, paring nails, removing
+    armpit hair, shaving private parts, and circumcision as practices treated as parts
+    of cleanliness duty.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that circumcision is not mentioned in the Koran but is
+    held by Mohammedans to be an ancient divine institution confirmed by Islam, proper
+    and expedient, though dispensable in some cases.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Arabs practiced circumcision for many ages before Mohammed,
+    probably learned it from Ismael, and that Hamyarites and other tribes also practiced
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage contrasts Ismaelite circumcision at about twelve or thirteen years
+    old with the Jewish custom of circumcising on the eighth day.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Mohammedans do not circumcise children before they can at
+    least distinctly pronounce the profession of faith, and that they choose an age
+    roughly between six and sixteen.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Moslem doctors generally hold that the circumcision precept
+    was originally given to Abraham.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage reports another explanation in which Adam was taught circumcision
+    by the angel Gabriel after swearing to cut off flesh that rebelled against his
+    spirit after the fall.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: obs:8
+  text: The passage reports that Jews claimed several patriarchs, prophets, and holy
+    men, including Adam, were born already circumcised or without a foreskin, and
+    that Mohammedans affirmed the same of their prophet.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says Mohammed called prayer the pillar of religion and the key
+    of paradise.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Thakifites of Tyef, after being denied the keeping of their favorite idol,
+    asked to be excused from the appointed prayers; Mohammed rejected this request.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: The prophet who is said to have emphasized prayer as necessary and
+    to have answered the Thakifites' request for exemption from prayer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Mohammedans / Muslims / Moslem doctors
+  description: The religious community and scholars described as holding circumcision
+    to be an ancient divine institution, practicing it at chosen childhood ages, attributing
+    its precept to Abraham, and affirming their prophet was born circumcised.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Arabs
+  description: A people said to have practiced circumcision for many ages before Mohammed,
+    probably learning it from Ismael.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ismael
+  description: An ancestral figure from whom Arabs are said probably to have learned
+    circumcision; he is also identified as having undergone the operation at about
+    twelve or thirteen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ismaelites
+  description: A group said to circumcise their children at about twelve or thirteen
+    rather than on the eighth day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Jews
+  description: A neighboring religious community whose eighth-day circumcision custom
+    is contrasted with Ismaelite practice and who are said to claim that several holy
+    figures were born circumcised.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: Abraham
+  description: A patriarch to whom Moslem doctors generally say the circumcision precept
+    was originally given.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Adam
+  description: The first human figure in the reported explanation that Gabriel taught
+    circumcision after Adam's fall and oath; the passage also says some claimed Adam
+    was created circumcised.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:9
+  name_or_label: Angel Gabriel
+  description: The angel said in one reported explanation to have taught Adam what
+    flesh to cut.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:10
+  name_or_label: Thakifites of Tyef
+  description: A group that submitted to Mohammed in the ninth year of the Hejra and
+    asked to be excused from appointed prayers after being denied their idol.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Hamyarites and other tribes
+  description: Groups said to have practiced circumcision.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:12
+  name_or_label: Jesus in the Gospel of Barnabas citation
+  description: The cited speaker in the footnote passage summarizing Adam's forbidden
+    food, oath, and Gabriel's instruction.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: prophet and religious authority
+  assigned_to:
+  - fig:1
+  basis: Mohammed is presented as calling prayer central to religion and rejecting
+    an exemption from appointed prayers.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: circumcision-practicing community
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:11
+  basis: The passage describes these communities or peoples as practicing or holding
+    customs about circumcision.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: ancestral or patriarchal source figure for circumcision
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  basis: Circumcision is linked to Arab antiquity, Ismael, Abraham, and Adam in the
+    passage's transmitted explanations.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:4
+  label: angelic instructor
+  assigned_to:
+  - fig:9
+  basis: Gabriel is said to have taught Adam what flesh to cut.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:5
+  label: primordial oath-maker
+  assigned_to:
+  - fig:8
+  basis: Adam is described as swearing to cut off flesh after his fall in the reported
+    explanation.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: comparative religious tradition-bearer
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The passage compares Jewish claims and customs with Mohammedan claims and
+    customs.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: petitioning tribe
+  assigned_to:
+  - fig:10
+  basis: The Thakifites ask Mohammed for dispensation from appointed prayers.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: cited speaker in footnote tradition
+  assigned_to:
+  - fig:12
+  basis: The footnote's cited Gospel of Barnabas passage introduces Jesus as the speaker
+    of the Adam explanation.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: circumcision
+  literal_form: Removal or absence of the foreskin as a religiously significant bodily
+    rite or condition.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: profession of faith
+  literal_form: The formula, "There is no GOD but GOD, Mohammed is the apostle of
+    GOD."
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: pillar of religion
+  literal_form: Pillar image used for prayer.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: key of paradise
+  literal_form: Key image used for prayer as connected with paradise.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: stone cutting implement
+  literal_form: A stone taken by Adam to cut flesh in the footnote's origin explanation.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: favorite idol
+  literal_form: The Thakifites' favorite idol, whose keeping was denied.
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cleanliness duties and circumcision introduced
+  summary: The passage lists grooming and bodily practices treated as parts of cleanliness,
+    ending with circumcision as a topic for further comment.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Circumcision framed as ancient institution
+  summary: Circumcision is described as absent from the Koran but regarded by Muslims
+    as an ancient divine institution confirmed by Islam.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Transmission and timing of circumcision
+  summary: The passage links pre-Islamic Arab circumcision to Ismael, compares Ismaelite
+    and Jewish timing, and says Muslims wait until children can pronounce the profession
+    of faith.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Abrahamic and Adamic origin explanations
+  summary: Moslem doctors generally identify Abraham as the recipient of the precept,
+    while another reported explanation says Gabriel taught Adam circumcision after
+    Adam's fall and oath.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:12
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: scene:5
+  label: Holy figures born circumcised
+  summary: The passage reports Jewish claims that Adam and other holy figures were
+    born circumcised and says Muslims made the same claim for their prophet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Prayer refused dispensation
+  summary: Mohammed calls prayer the pillar of religion and key of paradise, and refuses
+    the Thakifites' request to be excused from appointed prayers.
+  figure_refs:
+  - fig:1
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: circumcision as inherited divine rite
+  taxonomy_refs:
+  - covenant
+  basis: The passage presents circumcision as an ancient divine institution and links
+    its precept to Abraham, Ismael, Adam, and Gabriel.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage does not use the word covenant; the taxonomy reference is
+    inferred from the Abrahamic circumcision precept and should be reviewed.
+- id: motif:2
+  label: rite timed to declaration of faith
+  taxonomy_refs:
+  - initiation
+  basis: The passage says Muslims do not circumcise children before they can distinctly
+    pronounce the profession of faith and choose a childhood age for the operation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as a circumcision custom, not explicitly as an
+    initiation ceremony.
+- id: motif:3
+  label: primordial transgression followed by bodily correction
+  taxonomy_refs: []
+  basis: A reported explanation says Adam's flesh rebelled after the fall, Adam swore
+    to cut it, and Gabriel taught him the proper cutting.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage attributes this explanation only to 'some' and calls the derived
+    argument odd.
+- id: motif:4
+  label: holy figure born already circumcised
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage reports claims that Adam, several patriarchs, prophets, holy
+    men, and the Muslim prophet were born circumcised or without a foreskin.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage summarizes reported Jewish and Muslim claims and does not
+    give a full birth narrative.
+- id: motif:5
+  label: prayer as indispensable access and support of religion
+  taxonomy_refs: []
+  basis: Prayer is called the pillar of religion and the key of paradise, and Mohammed
+    rejects a tribe's request to omit appointed prayers.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a doctrinal-rhetorical pattern rather than a narrative myth episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Ismaelite circumcision at about twelve or
+    thirteen years old with the Jewish custom of circumcision on the eighth day.
+  claim_level: same_function
+  target: Ismaelite and Jewish circumcision timing customs
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns timing of the same bodily rite; it does not
+    by itself establish historical dependence.
+- id: claim:2
+  claim: The passage claims that Arabs practiced circumcision before Mohammed and
+    probably learned it from Ismael.
+  claim_level: historical_contact
+  target: Arab circumcision practice linked to Ismael
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The source itself uses 'probably' and provides no detailed historical
+    demonstration in the passage.
+- id: claim:3
+  claim: The passage connects Muslim scholarly teaching about circumcision with an
+    Abrahamic precept said to conform to scripture.
+  claim_level: common_inheritance
+  target: Abrahamic origin of circumcision precept in Muslim and scriptural tradition
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The passage also says circumcision is not mentioned in the Koran, so
+    the inheritance claim rests on broader scripture and later Muslim doctors as represented
+    here.
+- id: claim:4
+  claim: The passage presents a shared motif in Jewish and Muslim claims that holy
+    figures were born circumcised.
+  claim_level: same_motif
+  target: Jewish and Muslim traditions of holy figures born circumcised
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage summarizes the claims through the translator's account
+    and citations rather than quoting the underlying Jewish or Muslim sources.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5225-5230
+  quote_or_summary: Cleanliness duties include combing hair, cutting the beard, paring
+    nails, removing armpit hair, shaving private parts, and circumcision.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5230-5235
+  quote_or_summary: Circumcision is said not to be mentioned in the Koran, but Mohammedans
+    hold it to be an ancient divine institution confirmed by Islam, proper and expedient
+    though dispensable in some cases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5235-5241
+  quote_or_summary: Arabs practiced circumcision before Mohammed, probably from Ismael;
+    Hamyarites and other tribes practiced it; Ismaelites circumcised at about twelve
+    or thirteen, unlike Jews on the eighth day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 5241-5247
+  quote_or_summary: 'Mohammedans wait until children can pronounce: "There is no GOD
+    but GOD, Mohammed is the apostle of GOD," and choose an age roughly between six
+    and sixteen.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 5247-5253
+  quote_or_summary: Moslem doctors generally say the precept was originally given
+    to Abraham; some imagine Adam was taught it by Gabriel after an oath to cut flesh
+    that rebelled after his fall.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5253-5260
+  quote_or_summary: The passage reports Jewish claims that several patriarchs, prophets,
+    holy men, and Adam were born circumcised or without a foreskin, and says Mohammedans
+    affirm the same of their prophet.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 5260-5267
+  quote_or_summary: Prayer is called "the pillar of religion and the key of paradise";
+    when the Thakifites sought exemption from appointed prayers, Mohammed answered,
+    "There could be no good in that religion wherein was no prayer."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short quotations used.
+- id: ev:8
+  type: summary
+  locator: lines 5270-5277
+  quote_or_summary: A Gospel of Barnabas note has Jesus say that after Adam ate forbidden
+    food, his flesh rebelled; Adam swore to cut it, took a stone, and Gabriel showed
+    him the superfluous flesh to cut, creating an obligation for Adam's descendants.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized from footnote.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the passage's stated practices and claims.
+    Motif taxonomy assignments involving covenant, initiation, and sacred birth are
+    interpretive and should be checked by a human reviewer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No available symbol taxonomy refs matched the passage's literal symbols such as circumcision, pillar, key, stone, or idol.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l5225-l5280
+  passage_sha256=c06407590b3d9f07edbec71d1c1f79780a7eb0dafe95a8ebd809168fff0c6817
+

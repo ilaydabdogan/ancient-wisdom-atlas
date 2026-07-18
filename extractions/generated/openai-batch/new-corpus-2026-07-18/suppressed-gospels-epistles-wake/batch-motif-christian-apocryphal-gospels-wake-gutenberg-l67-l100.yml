@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l67-l100
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: The suppressed Gospels and Epistles of the original New Testament of Jesus
+    the Christ, Complete; lines 67-100
+  start: '67'
+  end: '100'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: THE SUPPRESSED GOSPELS AND EPISTLES
+  summary: The passage is a title-page section identifying a collection of suppressed
+    or forbidden New Testament-related writings, attributed to apostles and disciples,
+    venerated by early Christian churches, later forbidden and omitted from Catholic
+    and Protestant New Testament editions, and translated by Archbishop Wake and other
+    learned divines.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents a title page for a collection called the suppressed gospels
+    and epistles of the original New Testament of Jesus the Christ.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title page describes the collection as ancient holy scriptures attributed
+    to apostles and their disciples.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The title page says these writings were venerated by primitive Christian churches
+    during the first four centuries.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The title page says the writings were later forbidden by bishops of the Nicene
+    Council in the reign of Emperor Constantine.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The title page says the writings were omitted from Catholic and Protestant
+    editions of the New Testament by their compilers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The edition is described as translated from original tongues with historical
+    references to authenticity by Archbishop Wake and other learned divines.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage announces an order of forbidden New Testament books with their
+    proper names and chapter counts.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Jesus the Christ
+  description: Named in the title as the figure associated with the original New Testament.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Apostles and their disciples
+  description: Collective group to whom the ancient holy scriptures are attributed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Primitive Christian churches
+  description: Communities described as venerating the writings during the first four
+    centuries.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Bishops of the Nicene Council
+  description: Group described as forbidding the writings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Emperor Constantine
+  description: Ruler whose reign is named as the time context for the prohibition.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Archbishop Wake and other learned divines
+  description: Named editorial or translation authorities for the edition.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named Christ figure
+  assigned_to:
+  - fig:1
+  basis: The title names Jesus the Christ in connection with the original New Testament.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attributed apostolic source group
+  assigned_to:
+  - fig:2
+  basis: The title page says the writings are attributed to apostles and their disciples.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: early venerating community
+  assigned_to:
+  - fig:3
+  basis: The title page says primitive Christian churches venerated the writings during
+    the first four centuries.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: prohibiting ecclesiastical authorities
+  assigned_to:
+  - fig:4
+  basis: The title page says bishops of the Nicene Council forbade the writings.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: imperial reign context
+  assigned_to:
+  - fig:5
+  basis: The prohibition is located in the reign of Emperor Constantine.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: translator or editorial authority
+  assigned_to:
+  - fig:6
+  basis: The title page credits Archbishop Wake and other learned divines with the
+    translation or edition.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: forbidden books
+  literal_form: Books of the New Testament described as forbidden, suppressed, and
+    omitted.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ancient holy scriptures
+  literal_form: Extant writings attributed to apostles and disciples and described
+    as ancient holy scriptures.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Title-page transmission and exclusion summary
+  summary: The passage frames the writings as ancient holy scriptures attributed to
+    apostolic figures, venerated by early churches, later forbidden by Nicene bishops,
+    omitted from later New Testament editions, and now presented in a translated ordered
+    collection.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: suppressed or forbidden sacred writings
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage repeatedly frames the books as suppressed, forbidden by church
+    authorities, and omitted from later editions while also presenting them as ancient
+    holy scriptures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is paratextual and bibliographic framing, not a narrative episode
+    of forbidden knowledge being acquired, guarded, or punished.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared by function to a forbidden-knowledge
+    motif family because it frames sacred writings as forbidden by authorities and
+    excluded from accepted editions.
+  claim_level: same_function
+  target: forbidden_knowledge motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a title page rather than a mythic narrative, and it
+    does not describe a seeker, transgressive act of learning, or explicit punishment
+    for knowledge.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 67-78
+  quote_or_summary: '"THE SUPPRESSED GOSPELS AND EPISTLES" and "NEW TESTAMENT OF JESUS
+    THE CHRIST"'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 79-90
+  quote_or_summary: The title page describes other ancient holy scriptures as extant,
+    attributed to apostles and disciples, venerated by primitive Christian churches
+    during the first four centuries, then forbidden by bishops of the Nicene Council
+    in Constantine's reign and omitted from Catholic and Protestant New Testament
+    editions.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 92-100
+  quote_or_summary: The edition is described as translated from original tongues with
+    historical references to authenticity, credited to Archbishop Wake and other learned
+    divines, and presenting the order of forbidden New Testament books with names
+    and chapter counts.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a title-page/parataxtual description rather than a narrative
+    mythic episode. Literal extraction is straightforward; motif classification is
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes, mythic actions, or taxonomy-listed concrete symbols such as cave, fire, milk, mountain, serpent, tree, or water appear in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l67-l100
+  passage_sha256=882088b155f50debe5d27a3783c58474b4e828330f7da5eacb7d6fb8aef7e381
+

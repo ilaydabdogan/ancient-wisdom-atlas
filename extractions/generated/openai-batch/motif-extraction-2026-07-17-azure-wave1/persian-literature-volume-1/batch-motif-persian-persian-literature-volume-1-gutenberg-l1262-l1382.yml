@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l1262-l1382
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: HSHENG / TAHMERS / JEMSHD / MIRTS-TZ, AND HIS SON ZOHK; lines 1262-1382
+  start: '1262'
+  end: '1382'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A princess and her nurse recognize the fugitive Jemshd despite his denial.
+    The princess recalls a prophecy that she would be united with him and bear him
+    a son. After emotional entreaty, Jemshd reveals his identity and marries her privately.
+    King Greng discovers the marriage, hears the nurse and daughter defend it as destined,
+    and secretly resolves to betray Jemshd by sending him bound to Zohk for reward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The princess asks why Jemshd is weeping, and he answers by speaking of the
+    misfortunes of Jemshd as if describing another person driven from a throne into
+    ruin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The nurse and princess infer from his voice and discourse that he is Jemshd,
+    but he denies the identification.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A picture is used to challenge his denial, and he answers that two men in
+    the world might resemble each other.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The princess says the nurse had foretold that she would be united to Jemshd
+    and bear him a son.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Jemshd says two things prevent him from telling the truth: fear that a powerful
+    enemy may learn his refuge, and his reluctance to entrust secrets to a woman.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the princess weeps and entreats him, Jemshd tells her his name and the
+    history of his misfortunes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The princess takes Jemshd privately to her chamber, and they are married according
+    to the customs of her country.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: King Greng notices that his daughter visits him less often, sets spies to
+    work, and discovers that she has married without his permission.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The daughter tells King Greng that Jemshd is her wedded lord, and the Kabul
+    nurse defends her by referring to the earlier prophecy and impending motherhood.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: King Greng expresses satisfaction outwardly but intends to betray Jemshd and
+    send him bound to Zohk in hope of reward.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Jemshd
+  description: A fugitive royal figure who has been driven from the splendor of a
+    throne, hides his identity, fears a powerful enemy, reveals himself after persuasion,
+    and marries the princess.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The princess / damsel
+  description: King Greng's daughter, who recognizes and loves Jemshd, recalls a prophecy
+    of union with him, marries him privately, and later defends the marriage before
+    her father.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: The Kabul nurse
+  description: The princess's nurse, described as having many spells, who recognizes
+    Jemshd, had foretold the princess's union with him, and defends the princess before
+    King Greng.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: King Greng
+  description: The princess's father, who uses spies to discover the secret marriage
+    and plans to betray Jemshd to Zohk for reward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Zohk
+  description: The monarch to whom King Greng plans to send Jemshd as a bound captive
+    in order to obtain reward.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Foretold son / expected child
+  description: A son whom the nurse had foretold the princess would bear to Jemshd;
+    the passage later says the princess would shortly become a mother.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: concealed exiled king
+  assigned_to:
+  - fig:1
+  basis: Jemshd is described as driven from a throne and reduced to ruin, and he repeatedly
+    denies his identity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: secret husband
+  assigned_to:
+  - fig:1
+  basis: After revealing his identity, he marries the princess privately according
+    to local custom.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: destined bride and wife
+  assigned_to:
+  - fig:2
+  basis: She says she is destined to be Jemshd's and later becomes his wife.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: daughter defending her choice
+  assigned_to:
+  - fig:2
+  basis: She answers King Greng that Jemshd is her wedded lord and cites freedom in
+    choosing her husband.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: prophetic nurse and defender
+  assigned_to:
+  - fig:3
+  basis: The nurse had foretold the union and child, is described as having many spells,
+    and defends the princess before the king.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:6
+  label: father-king and prospective betrayer
+  assigned_to:
+  - fig:4
+  basis: King Greng discovers the marriage through spies and plans to send Jemshd
+    bound to Zohk for reward.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: intended recipient of the captive
+  assigned_to:
+  - fig:5
+  basis: Greng says he will send the captive Jemshd to Zohk as a long-sought prize.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: foretold child
+  assigned_to:
+  - fig:6
+  basis: The nurse's prophecy concerns a son, and the passage states that the princess
+    would shortly become a mother.
+  evidence_refs:
+  - ev:3
+  - ev:7
+symbols:
+- id: sym:1
+  label: picture as recognition object
+  literal_form: picture
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tears of grief and entreaty
+  literal_form: weeping / flood of tears
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: secret chamber of marriage
+  literal_form: secret bower / private chamber
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: bound captive
+  literal_form: captive bound
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: planetary influence
+  literal_form: planetary influence
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Recognition and denial
+  summary: The princess questions Jemshd's tears. She and the nurse suspect he is
+    Jemshd from his voice, discourse, and resemblance to a picture, but he continues
+    to deny his identity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prophecy and entreaty
+  summary: The princess invokes the nurse's prophecy that she would be united with
+    Jemshd and bear him a son, then weeps and entreats him while he explains his fear
+    of exposure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Disclosure and private marriage
+  summary: Moved by the princess's affection, Jemshd reveals his name and misfortunes.
+    The princess leads him privately to her chamber, and they marry according to her
+    country's customs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Discovery by King Greng
+  summary: King Greng notices his daughter's absence, uses spies, discovers the unauthorized
+    marriage, and reproaches her while she and the nurse defend the union as legitimate
+    and foretold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Planned betrayal to Zohk
+  summary: King Greng outwardly welcomes the news but secretly intends to bind Jemshd
+    and send him to Zohk for a promised reward.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: concealed royal identity recognized despite denial
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A deposed royal figure hides his identity, while the princess and nurse identify
+    him through voice, speech, and resemblance to a picture.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage emphasizes concealment and recognition more than restoration
+    of kingship; the royal_legitimacy reference is broad.
+- id: motif:2
+  label: foretold royal union and expected child
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacred_marriage
+  - miraculous_child
+  basis: The nurse had foretold that the princess would unite with Jemshd and bear
+    him a son; later she explains the marriage and impending motherhood through destiny
+    and planetary influence.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The marriage is royal and destined, but the passage does not present a
+    divine spouse or a miraculous birth; the child is predicted rather than born in
+    this passage.
+- id: motif:3
+  label: prophetic wise attendant mediates destiny
+  taxonomy_refs:
+  - wisdom
+  basis: The Kabul nurse recognizes Jemshd, had previously foretold the union and
+    son, and defends the princess by interpreting events as the fulfilment of prophecy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The nurse is described as having spells, but the passage does not narrate
+    a magical act in the scene.
+- id: motif:4
+  label: betrayal of a fugitive ruler for reward
+  taxonomy_refs: []
+  basis: King Greng discovers Jemshd's concealed presence through the marriage and
+    plans to send him bound to Zohk in exchange for a wealthy kingdom.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: No specific available taxonomy reference directly matches this betrayal
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1262-1271
+  quote_or_summary: The princess asks why the man weeps; he replies by pitying Jemshd,
+    who has been driven from the splendor of a throne into destitution and ruin.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1272-1284
+  quote_or_summary: The nurse and princess conclude from his voice and discourse that
+    he is Jemshd; they ask if he is Jemshd and refer to a picture, but he insists
+    that another man could simply resemble Jemshd.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1285-1298
+  quote_or_summary: The princess says her nurse often foretold that she would be united
+    to Jemshd and bear him a son, and she says she has rejected other kings because
+    she is destined for Jemshd.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1299-1323
+  quote_or_summary: The princess weeps and pleads with him; Jemshd says he withholds
+    the truth because he fears a powerful enemy learning his refuge and because he
+    does not entrust secrets to women.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1324-1338
+  quote_or_summary: Jemshd is moved by the princess's tenderness, reveals his name
+    and misfortunes, and is taken privately to her chamber, where they are married
+    according to the customs of her country.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 1339-1355
+  quote_or_summary: King Greng notices his daughter's visits decreasing, sets spies
+    to work, learns she has married without permission, and rebukes her while she
+    is pale and in delicate health.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 1356-1371
+  quote_or_summary: The daughter declares Jemshd her wedded lord. The Kabul nurse
+    of many spells defends her, saying the earlier prophecy is being fulfilled by
+    destiny and planetary influence and that the princess will shortly become a mother.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 1372-1382
+  quote_or_summary: King Greng is pleased because the marriage gives him an opportunity
+    to betray Jemshd and send him bound to Zohk for reward; he speaks of Jemshd as
+    a long-sought noble prize.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif assignments
+    are cautious because the available taxonomy is broad and the passage segment does
+    not include the birth or the later outcome of the betrayal.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added because the supplied passage does not itself make a comparative claim.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l1262-l1382
+  passage_sha256=c4328526d05b84513254e671ce5210ba05e547dee10fab306ee5d0e18647bed0
+

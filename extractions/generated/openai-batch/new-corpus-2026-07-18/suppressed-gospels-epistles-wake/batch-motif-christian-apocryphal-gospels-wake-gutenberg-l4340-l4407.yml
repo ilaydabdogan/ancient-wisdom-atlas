@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l4340-l4407
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XIV. / CHAPTER XV. / CHAP. XVI. / CHAP. XVII.; lines 4340-4407
+  start: '4340'
+  end: '4407'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Jesus joins boys at play in the street. The boys hide, and women deny that
+    anyone is present, but Jesus identifies beings in a furnace whom the women call
+    three-year-old kids. Jesus calls the kids to their shepherd; boys come out like
+    kids, and the women tremble, worship Jesus, call him the good shepherd of Israel,
+    and ask him to restore the boys. Jesus calls the boys to play, and the kids return
+    to the shape of boys.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jesus goes into the street, sees boys gathered to play, and joins their company.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boys hide themselves and leave Jesus to seek them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jesus asks women at a house gate where the boys have gone; the women answer
+    that no one is there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jesus asks who the women see in the furnace, and the women answer that they
+    are three-year-old kids.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Jesus calls the kids to come out to their shepherd.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boys come forth like kids and leap about Jesus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The women are amazed, tremble, worship Jesus, call him the good shepherd of
+    Israel, and ask for mercy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Jesus says that the children of Israel are like Ethiopians among the people.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The women say that Jesus knows all things and that nothing is concealed from
+    him, and they ask him to restore the boys to their former state.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Jesus calls the boys to come so they may go and play, and the kids are immediately
+    changed back into the shape of boys before the women.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lord Jesus
+  description: The figure who joins boys at play, questions the women, calls the kids
+    to their shepherd, and restores the kids to the shape of boys.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: boys / playfellows
+  description: Boys gathered to play who hide from Jesus, appear as kids, and are
+    restored to the shape of boys.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: women / handmaids
+  description: Women standing at the gate of a house who answer Jesus, witness the
+    boys as kids, tremble, worship, and ask for mercy and restoration.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: play companion and seeker
+  assigned_to:
+  - fig:1
+  basis: Jesus joins the boys’ company and is left to seek them when they hide.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: transformative and restorative agent
+  assigned_to:
+  - fig:1
+  basis: Jesus calls the kids out and later calls the boys, after which the kids are
+    changed back into boys.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: hidden playfellows transformed into kids
+  assigned_to:
+  - fig:2
+  basis: The boys hide; they later come forth like kids and are restored to the shape
+    of boys.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:4
+  label: witnesses and petitioners
+  assigned_to:
+  - fig:3
+  basis: The women witness the event, worship Jesus, and ask him to restore the boys.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: called good shepherd of Israel
+  assigned_to:
+  - fig:1
+  basis: Jesus calls the kids to their shepherd, and the women call him the good shepherd
+    of Israel.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: furnace
+  literal_form: A furnace in which Jesus identifies those whom the women describe
+    as three-year-old kids.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: kids
+  literal_form: Three-year-old kids; the boys come forth like kids and are later changed
+    back into the shape of boys.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: shepherd
+  literal_form: Jesus calls the kids to their shepherd, and the women call Jesus the
+    good shepherd of Israel.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jesus joins boys at play
+  summary: Jesus goes into the street, finds boys gathered for play, joins them, and
+    the boys hide from him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question at the house gate and furnace
+  summary: Jesus questions women at a house gate about the missing boys; they deny
+    anyone is there, and he asks about those in the furnace whom they identify as
+    kids.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kids called to the shepherd
+  summary: Jesus calls the kids to come to their shepherd; the boys come forth like
+    kids and leap around him while the women are amazed and tremble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Women petition and boys restored
+  summary: The women worship Jesus, call him the good shepherd of Israel, ask for
+    mercy and restoration, and Jesus calls the boys to play; the kids are changed
+    back into boys before the women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: children transformed into animals and restored
+  taxonomy_refs:
+  - shapeshifter
+  basis: The hidden boys appear as kids and are later changed back into the shape
+    of boys.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The transformation is performed upon the boys rather than a voluntary
+    self-transformation by a shapeshifter.
+- id: motif:2
+  label: miraculous child in play setting
+  taxonomy_refs:
+  - miraculous_child
+  basis: Jesus participates in children’s play and performs a miraculous transformation
+    and restoration in that context.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage calls Jesus 'Lord Jesus' and depicts him among boys at play;
+    it does not explicitly state his age within the excerpt.
+- id: motif:3
+  label: hidden knowledge of concealed beings
+  taxonomy_refs:
+  - wisdom
+  basis: Jesus detects those in the furnace after the women deny anyone is present,
+    and the women say that he knows all things and nothing is concealed from him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The motif is based on the passage’s claim of knowledge rather than on
+    an extended wisdom teaching.
+- id: motif:4
+  label: restoration by authoritative call
+  taxonomy_refs:
+  - return
+  basis: Jesus calls the boys to come and play, and the kids immediately return to
+    the shape of boys.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy term 'return' is only a broad fit for physical
+    restoration to former shape.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAP. XVII. 1-2
+  quote_or_summary: Jesus goes into the street, sees boys gathered to play, joins
+    them, and the boys hide, leaving him to seek them.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: CHAP. XVII. 3-5
+  quote_or_summary: At a house gate Jesus asks women where the boys have gone; they
+    deny anyone is there, and he asks who is in the furnace. They answer that they
+    are three-year-old kids.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: quote
+  locator: CHAP. XVII. 6-7
+  quote_or_summary: Jesus says, 'Come out hither, O ye kids, to your shepherd'; the
+    boys come forth like kids and leap about him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: CHAP. XVII. 7-8
+  quote_or_summary: The women are amazed, tremble, worship Jesus, call him 'that good
+    shepherd of Israel,' and ask him to have mercy on his handmaids.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: CHAP. XVII. 9
+  quote_or_summary: Jesus says the children of Israel are like Ethiopians among the
+    people; the women say he knows all things and ask him to restore the boys to their
+    former state.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: CHAP. XVII. 10
+  quote_or_summary: Jesus calls, 'Come hither, O boys, that we may go and play,' and
+    the kids are immediately changed back into the shape of boys in the women’s presence.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    mapping is provisional, especially for 'return' and 'miraculous_child.' No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided CHAP. XVII passage was used; no external context was added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l4340-l4407
+  passage_sha256=d22acb4a555718e93a965d879a18fb2f99b71ab63ccd0927d7df1646718ca530
+

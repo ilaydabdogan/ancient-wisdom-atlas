@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l29037-l29175
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XVI. Winter. / Canto XVIII. The Mutilation. / Canto XIX. The Rousing
+    Of Khara. / Canto XXI. The Rousing Of Khara.; lines 29037-29175
+  start: '29037'
+  end: '29175'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Khara finds his mutilated sister lying in distress. She reports that Rāma
+    killed the giants Khara had sent to avenge her, pleads for help, and taunts Khara
+    as unable to withstand Rāma and Lakshmaṇ. She collapses at Khara's feet. Khara,
+    angered, vows to kill Rāma and his brother and orders Dúshaṇ to assemble fourteen
+    thousand giants and prepare his war equipment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Khara sees his sister lying low in the dust, weeping and writhing like a snake,
+    and tells her to rise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Khara says he had sent brave giants with her at her request and refers to
+    them as slaughtered in battle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sister says she came in shame and fear with severed nose, mangled ear,
+    and bleeding gashes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sister says Khara sent twice seven giants to avenge her and attack Rāma
+    and Lakshmaṇ, and that Rāma's shafts killed them despite their spears.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sister asks Khara to subdue the foe dwelling in Daṇḍak's thickets and
+    says she will die before him if he cannot.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sister taunts Khara as weak and a hero only in name, saying Rāma and his
+    brother are too strong for him to slay.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The sister weeps, lies before her brother's feet, and swoons away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Khara, roused by the taunts, vows that Rāma and his brother will go to Yáma's
+    realm below and that Rāma will be slain by his axe before sunset.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After hearing Khara's vow, the sister is joyful and praises him as the boast
+    and glory of the giant host.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Khara orders Dúshaṇ to call fourteen thousand giants and prepare his chariot,
+    bows, swords, shafts, and lances for battle against Rāma.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Khara
+  description: A mighty giant or demon chief, brother of the mutilated sister; he
+    becomes wrathful, vows vengeance, and orders an army mustered.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Khara's sister / grim misshapen giantess
+  description: A giantess with severed nose and mangled ear who seeks Khara's aid,
+    reports the deaths of his giants, taunts him, collapses, and later praises him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Rāma
+  description: Daśaratha's son, described by the sister as a strong hero; he is said
+    to have killed Khara's champions with arrows and is Khara's intended target.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Lakshmaṇ
+  description: Rāma's brother, accused by the sister of misusing or mangling her,
+    and named as a target in Khara's vow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Twice seven giants / champions
+  description: Fourteen brave and strong giants sent by Khara to avenge the wrong;
+    the sister says they were killed by Rāma's shafts.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Dúshaṇ
+  description: Khara's friend and army leader, ordered to summon troops and prepare
+    the chariot and weapons.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Fourteen thousand giants
+  description: A host of fearful giants, described as the best of the host and fighters
+    who do not turn their backs in battle, to be summoned at Khara's command.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Giant chief and brother
+  assigned_to:
+  - fig:1
+  basis: Khara addresses the distressed giantess as his sister and is called a giant
+    chief.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Avenger and war leader
+  assigned_to:
+  - fig:1
+  basis: Khara vows to kill Rāma and orders Dúshaṇ to summon troops and ready weapons.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Mutilated supplicant sister
+  assigned_to:
+  - fig:2
+  basis: She reports her severed nose, mangled ear, and bleeding wounds, and asks
+    Khara for aid.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Provoker through taunt and praise
+  assigned_to:
+  - fig:2
+  basis: Her taunting words rouse Khara's wrath, and afterward she praises him.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: Heroic adversary and slayer of champions
+  assigned_to:
+  - fig:3
+  basis: The sister says Rāma's arrows killed the champions and calls him a strong
+    hero; Khara names him as his foe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:6
+  label: Brother and accused mutilator
+  assigned_to:
+  - fig:4
+  basis: The sister links Lakshmaṇ with Rāma and says he misused or mangled her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: Fallen avenging champions
+  assigned_to:
+  - fig:5
+  basis: They were sent to avenge the wrong and are reported dead beneath Rāma's might.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: Army leader and recipient of command
+  assigned_to:
+  - fig:6
+  basis: Dúshaṇ is described as leading Khara's armies and is ordered to summon warriors
+    and prepare equipment.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: Mustered war host
+  assigned_to:
+  - fig:7
+  basis: Khara orders fourteen thousand giants called from the host for battle.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Writhing serpent image
+  literal_form: A snake, used in the description of the sister writhing in distress.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sea of distress image
+  literal_form: A wide troublous sea with sharks of doubt and terror and waves of
+    dark despair.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Blood of wound and vengeance
+  literal_form: The sister's bleeding gashes and Khara's promised image of Rāma's
+    warm blood.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: Yáma's realm below
+  literal_form: Yáma's realm below, named as the destination to which Khara says Rāma
+    and his brother will go.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: War chariot and weapons
+  literal_form: Khara's chariot, bows, swords, shafts, and long keen lances.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Fourteen and fourteen thousand
+  literal_form: Twice seven giants previously sent and fourteen thousand giants later
+    summoned.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+scenes:
+- id: scene:1
+  label: Khara finds his sister in the dust
+  summary: Khara sees his sister lying low in the dust, asks why she is weeping and
+    writhing, and urges her to rise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Report of mutilation and slain champions
+  summary: The sister recounts her mutilation and tells Khara that the twice seven
+    giants sent to avenge her were killed by Rāma's arrows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Appeal, taunt, and collapse
+  summary: The sister asks Khara to save her, threatens to die if he cannot defeat
+    Rāma, taunts Khara as weak, then falls at his feet and swoons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Khara's vow of vengeance
+  summary: Roused by the taunts, Khara vows that Rāma and Lakshmaṇ will go to Yáma's
+    realm and that Rāma's blood will satisfy his sister; she rejoices and praises
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Mustering the army
+  summary: Khara orders Dúshaṇ to call fourteen thousand giants and prepare the chariot
+    and weapons so that Khara can lead them against Rāma.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Mutilated sister incites vengeance
+  taxonomy_refs: []
+  basis: The sister displays mutilation, reports the failure of previous avengers,
+    pleads for aid, taunts Khara, and Khara responds by vowing vengeance and mustering
+    troops.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: Plain passage-level motif; no provided taxonomy family exactly covers
+    mutilation and vengeance.
+- id: motif:2
+  label: Sibling pair in a vengeance crisis
+  taxonomy_refs:
+  - sibling_pair
+  basis: The action turns on the sister seeking aid from her brother Khara, and Khara's
+    wrath and military response are framed as answers to her shame, grief, and taunts.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage supports a functional brother-sister pair, not a sacred twin
+    or divine sibling pattern.
+- id: motif:3
+  label: Boast to send enemies to the realm of death
+  taxonomy_refs: []
+  basis: Khara threatens that Rāma and his brother will go to Yáma's realm below and
+    that Rāma will be slain before sunset.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a threat and boast, not an enacted afterlife journey.
+- id: motif:4
+  label: Provocation followed by war-band mustering
+  taxonomy_refs: []
+  basis: The sister's taunts rouse Khara's wrath; after her praise, he orders Dúshaṇ
+    to summon fourteen thousand giants and ready the weapons.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a narrative action pattern in the passage rather than a named
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Canto XXI, Khara's opening address within lines 29037-29175
+  quote_or_summary: Khara sees his sister lying in dust; his anger rises, he asks
+    why she is weeping and writhing like a snake, and tells her to cast off weakness
+    and arise. He also refers to the brave giants he had sent with her and their slaughter.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: Canto XXI, sister's report of mutilation and slain champions within lines
+    29037-29175
+  quote_or_summary: The sister says she came with severed nose, mangled ear, and bleeding
+    gashes; she says twice seven giants sent to avenge her and attack Rāma and Lakshmaṇ
+    were killed by Rāma's shafts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: Canto XXI, sister's appeal and taunts within lines 29037-29175
+  quote_or_summary: The sister asks Khara to free her from a sea of distress, says
+    the demons who followed her are dead, asks him to subdue the foe in Daṇḍak's thickets,
+    threatens to die if he cannot, and taunts him as unable to withstand Rāma and
+    Lakshmaṇ.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: Canto XXI, sister's collapse within lines 29037-29175
+  quote_or_summary: The giantess weeps in deep distress, lies before her brother's
+    feet, and swoons away.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: Canto XXII, Khara's angry vow within lines 29037-29175
+  quote_or_summary: Roused by the sister's taunts, Khara says he cannot contain his
+    anger, dismisses Rāma as weak, vows that Rāma and his brother will go to Yáma's
+    realm below that day, and promises Rāma's warm blood for his sister.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: Canto XXII, sister's reaction within lines 29037-29175
+  quote_or_summary: After hearing Khara, the demon sister becomes joyful and praises
+    him as the boast and glory of the giant host; the narration notes that Khara was
+    first moved by taunts and then soothed by flattery.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: Canto XXII, Khara's order to Dúshaṇ within lines 29037-29175
+  quote_or_summary: Khara tells Dúshaṇ, who leads his armies, to call fourteen thousand
+    of the best giants and to prepare the chariot, bows, swords, shafts, and lances;
+    Khara says he will lead them to kill Rāma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage and metadata. No
+    external identification of the unnamed sister is used. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Available taxonomy references were used only where directly supported by the passage: serpent and water as images, and sibling_pair as a passage-level motif family.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l29037-l29175
+  passage_sha256=25730dafdf4ff8b2c5d51c5393fadfd242c71941e1453235cbe60c318ca4a1cf
+

@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l514-l552
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: INTRODUCTION / W. H. B. / I. ANANSI, OR SPIDER, TALES / II. HOW WISDOM BECAME
+    THE PROPERTY OF THE HUMAN RACE; lines 514-552
+  start: '514'
+  end: '552'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“The wisdom contained in it escaped and spread throughout the world.”"
+  summary: Father Anansi possesses all the world's wisdom and hides it in a sealed
+    pot after being offended. His son Kweku Tsin observes him trying to place the
+    pot in an inaccessible tree and suggests carrying it on his back. Anansi recognizes
+    that his son has shown greater practical wisdom, throws the pot down in anger,
+    and the broken pot releases wisdom throughout the world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Father Anansi is described as living in Fanti-land and possessing all the
+    wisdom in the world.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People came to Father Anansi daily for advice and help.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the men of the country offended him, Father Anansi decided to punish
+    them by hiding all his wisdom from them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Father Anansi gathered the wisdom he had given, placed it in one great pot,
+    sealed it, and sought a place no human being could reach.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kweku Tsin, Father Anansi’s son, suspected a secret design, watched him, and
+    followed him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Father Anansi carried the pot around his neck through the forest to the highest
+    and most inaccessible-looking tree.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The pot hanging in front of Father Anansi made his attempts to climb the tree
+    almost impossible.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Kweku Tsin told Father Anansi to hang the pot on his back so he could climb
+    the tree more easily.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Father Anansi said that Kweku Tsin possessed more wisdom than he did, then
+    threw the pot down in anger.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The pot struck a great rock, broke, and the wisdom inside escaped and spread
+    throughout the world.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Father Anansi
+  description: A man in Fanti-land who possesses all the world’s wisdom, gives advice,
+    hides wisdom in a pot, and attempts to place it in an inaccessible tree.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Kweku Tsin
+  description: Father Anansi’s son, who suspects his father’s secret design, follows
+    him, and gives advice about carrying the pot.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: People / men of the country / human race
+  description: People seek advice from Father Anansi; the men of the country offend
+    him; the released wisdom spreads throughout the world.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: wisdom possessor and adviser
+  assigned_to:
+  - fig:1
+  basis: Father Anansi possesses all the wisdom in the world, and people come to him
+    for advice and help.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: withholder of wisdom
+  assigned_to:
+  - fig:1
+  basis: Father Anansi resolves to punish people by hiding all his wisdom and sealing
+    it in a pot.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: watcher and practical adviser
+  assigned_to:
+  - fig:2
+  basis: Kweku Tsin watches and follows Father Anansi, then suggests hanging the pot
+    on his back.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: advice seekers and eventual recipients of dispersed wisdom
+  assigned_to:
+  - fig:3
+  basis: People seek advice from Father Anansi, and after the pot breaks the wisdom
+    spreads throughout the world.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: wisdom
+  literal_form: All the world’s wisdom, gathered into a sealed pot and later released
+    throughout the world.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: sealed pot
+  literal_form: One great pot in which Father Anansi places and seals the gathered
+    wisdom.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: inaccessible tree
+  literal_form: The highest and most inaccessible-looking tree selected as the hiding
+    place for the pot.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: great rock
+  literal_form: A great rock on which the thrown pot strikes and breaks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Father Anansi possesses wisdom
+  summary: Father Anansi lives in Fanti-land, possesses all the world’s wisdom, and
+    is approached by people for advice and help.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wisdom is gathered and sealed away
+  summary: After being offended, Father Anansi decides to punish people by gathering
+    his wisdom, placing it in a sealed pot, and seeking an unreachable hiding place.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failed ascent with the pot
+  summary: Kweku Tsin follows Father Anansi through the forest and watches him try
+    unsuccessfully to climb an inaccessible tree while the pot hangs in front of him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Advice, anger, and release of wisdom
+  summary: Kweku Tsin advises Father Anansi to carry the pot on his back; Father Anansi
+    recognizes the son’s superior practical wisdom, throws the pot down, and the broken
+    pot releases wisdom throughout the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom becomes available to humanity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explains how wisdom, once possessed by Father Anansi, escapes
+    from the broken pot and spreads throughout the world.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage gives a local narrative explanation rather than a general
+    doctrinal account.
+- id: motif:2
+  label: hoarded wisdom in a sealed container
+  taxonomy_refs:
+  - wisdom
+  basis: Father Anansi gathers the wisdom he had given, places it in one great sealed
+    pot, and tries to hide it where no human being can reach it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The wisdom is withheld as punishment; the passage does not describe theft
+    of the container.
+- id: motif:3
+  label: failed ascent to hide a precious object
+  taxonomy_refs:
+  - ascent
+  basis: Father Anansi attempts to climb the highest inaccessible-looking tree to
+    hang the pot of wisdom at the top but cannot ascend because of how he carries
+    it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The ascent is practical and local; the passage does not present it as
+    a heavenly or initiatory ascent.
+- id: motif:4
+  label: child’s practical wisdom surpasses the possessor of all wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Kweku Tsin’s simple advice reveals knowledge that Father Anansi, despite
+    claiming all wisdom, lacked.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames the contrast through one practical situation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 514-519
+  quote_or_summary: The tale is titled as an explanation of how wisdom became the
+    property of the human race; Father Anansi lives in Fanti-land, possesses all the
+    world’s wisdom, and people come to him for advice and help.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 520-530
+  quote_or_summary: After being offended by the men of the country, Father Anansi
+    resolves to punish them by hiding all his wisdom; he gathers what he had given,
+    places it in one great pot, seals it, and seeks an unreachable hiding place.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 531-541
+  quote_or_summary: Kweku Tsin suspects his father’s secret design, follows him, and
+    sees him carry the pot around his neck through the forest to a high, inaccessible-looking
+    tree; the pot hanging in front prevents successful climbing.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 542-545
+  quote_or_summary: 'Kweku Tsin says: “Father, why do you not hang the pot on your
+    back? Then you could easily climb the tree.”'
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 546-552
+  quote_or_summary: Father Anansi says that Kweku Tsin possesses more wisdom than
+    he does; in anger he throws the pot down, it breaks on a great rock, and the wisdom
+    escapes and spreads throughout the world.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif labels use
+    only available broad taxonomy where clearly applicable; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs beyond supplied motif-family and symbol labels were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l514-l552
+  passage_sha256=ffd3b4a2f14f93eba7eaab13d3f071c36eb552c5eb0d8ce739b12f48dd67ecff
+

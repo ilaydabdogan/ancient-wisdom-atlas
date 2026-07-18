@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.native-american-traditions-of-the-hopi-voth-archive-l12279-l12298
+source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+passage_locator:
+  label: HEAD. 2 / DOWNWARD. / UPWARD. / Q4. THE RED EAGLE SONG. 1; lines 12279-12298
+  start: '12279'
+  end: '12298'
+  translation: The Traditions of the Hopi
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"Come this way quickly and bring us water."'
+  summary: A chief prays to clouds in the San Francisco Mountains for water. The group
+    forms in a line, a cloud forms in the mountains, and they sing a rain song. As
+    they sing, clouds approach, rain and thunder begin, water falls, and the thirsty
+    people drink and rejoice.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chief prays to clouds in the San Francisco Mountains and asks them to
+    come quickly and bring water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group forms in a line, and one of them acts as leader.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cloud is forming in the mountains before the song is sung.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The group sings a song glossed as "Rain, rain."
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: While the group sings, clouds come nearer, it begins to rain and thunder,
+    and water falls.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After drinking and no longer being thirsty, the group is happy and runs about.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: chief
+  description: The chief prays to the clouds and asks them to bring water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed group
+  description: The group forms in a line, sings the rain song, drinks after the rain,
+    and rejoices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: clouds
+  description: Clouds in or from the San Francisco Mountains are addressed in prayer,
+    form in the mountains, come nearer, and bring rain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ritual petitioner
+  assigned_to:
+  - fig:1
+  basis: The chief prays directly to the clouds for water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rain-song singers
+  assigned_to:
+  - fig:2
+  basis: The group sings a song glossed as a call for rain.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: rain-bringing clouds
+  assigned_to:
+  - fig:3
+  basis: The clouds come nearer as the group sings, and rain follows.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: San Francisco Mountains
+  literal_form: mountains
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: water and rain
+  literal_form: water falling as rain
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: rain song
+  literal_form: song glossed as "Rain, rain"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: thunder
+  literal_form: thunder accompanying the rain
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Prayer to mountain clouds
+  summary: The chief addresses the clouds in the San Francisco Mountains and asks
+    them to come quickly with water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Formation and rain song
+  summary: The group forms in a line with a leader, a cloud forms in the mountains,
+    and the group sings a rain song.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Rainfall and relief from thirst
+  summary: As the singing continues, clouds draw near, rain and thunder begin, water
+    falls, and the people drink, become happy, and run about.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: rain invocation by prayer and song
+  taxonomy_refs: []
+  basis: The chief prays to clouds for water, and the group sings a rain song before
+    the clouds approach and rain falls.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a rain-invocation sequence but does not explicitly name
+    a broader motif family.
+- id: motif:2
+  label: mountain clouds as source of rain
+  taxonomy_refs: []
+  basis: The clouds are addressed in the San Francisco Mountains, a cloud forms in
+    the mountains, and rain later falls.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the mountains as the place where clouds form or are
+    addressed, but does not elaborate a cosmological mountain motif.
+- id: motif:3
+  label: thirst relieved by summoned rain
+  taxonomy_refs: []
+  basis: The people are thirsty, water falls after the prayer and song, and they drink
+    and become happy.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern in the passage rather than a mapped
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12279-12281
+  quote_or_summary: 'The chief prayed to clouds in the San Francisco Mountains: "Come
+    this way quickly and bring us water."'
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain.
+- id: ev:2
+  type: summary
+  locator: 12281-12282
+  quote_or_summary: The group formed in a line, and one of them acted as leader.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain.
+- id: ev:3
+  type: quote
+  locator: 12286-12294
+  quote_or_summary: A cloud was forming in the mountains; they sang a song glossed
+    as "Rain, rain."
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain.
+- id: ev:4
+  type: summary
+  locator: 12296-12297
+  quote_or_summary: As they sang, clouds came nearer, and rain and thunder began;
+    water fell.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain.
+- id: ev:5
+  type: summary
+  locator: 12297-12298
+  quote_or_summary: After quenching their thirst, the people were happy and ran about
+    because they were no longer thirsty.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the provided passage. Motif candidates are
+    descriptive and not linked to a supplied motif-family taxonomy because no exact
+    rainmaking taxonomy reference was available. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage includes an editorial/page note in the provided text; extraction uses only the narrative content around the prayer, song, rain, and relief from thirst.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-traditions-of-the-hopi-voth-archive__l12279-l12298
+  passage_sha256=358032ed726da137aa18bc413db9bf79168b3a0b75025d7c0095d4fb2f85f7d6
+

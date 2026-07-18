@@ -1,0 +1,558 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l2542-l2688
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: LI. THE HASTY WORD                                            370 / RUSSIAN
+    FOLK-TALES. / CHAPTER I. / INTRODUCTORY.; lines 2542-2688
+  start: '2542'
+  end: '2688'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: we turn old folks into young ones.
+  summary: A smith copies a Last Judgment demon image onto his smithy door. After
+    his son inherits the smithy and repeatedly insults the demon image, the Demon
+    takes the form of a youth, becomes the son's apprentice, and performs a rejuvenation
+    on an old lady by burning her to bones and placing the bones in milk. The transformed
+    woman sends her husband to the smithy, but the Demon has vanished and the Smith
+    denies knowing how to make him young.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage introduces the tale under the title “The Smith and the Demon”
+    and notes that its motive is “not altogether new.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old Smith sees a picture of the Last Judgment in church, including a Demon
+    described as black, horned, and tailed.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old Smith hires an artist to paint a similar Demon on the smithy door
+    and greets it when entering the smithy.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: After the old Smith dies, his son inherits the smithy and instead of greeting
+    the Demon image, hammers it on the forehead and spits in its face.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After three years of these insults, the Demon decides to use diplomacy and
+    play the Smith some kind of trick.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Demon takes the form of a youth and asks the Smith to take him as an apprentice.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The disguised Demon quickly becomes highly skilled at smith work and is trusted
+    by the Smith as a journeyman.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: While alone in the smithy, the disguised Demon advertises that the shop can
+    turn old people into young ones.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: An old lady arrives, pays five hundred roubles, and the Demon sends her coachman
+    to bring two buckets of milk.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: The Demon grasps the old lady with tongs, throws her into the furnace, and
+    burns her until only bones remain.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Demon places the lady’s bones into milk in a tub, and after about three
+    minutes she emerges alive, young, and beautiful.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The rejuvenated lady’s husband does not recognize her, and she tells him to
+    go to the smithy to become young.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: When the husband arrives, the Demon-jouneyman is gone, and the Smith says
+    he knows nothing about making a young man of him.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Old Smith
+  description: A smith with one son; he sees a Demon image in church, has it copied
+    onto the smithy door, greets it, later falls ill and dies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Smith’s son / young Smith
+  description: The old Smith’s sharp six-year-old son who later inherits the smithy,
+    insults the Demon image, accepts the disguised Demon as apprentice, and denies
+    knowing how to make the seigneur young.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: Demon
+  description: A Demon first described in an image as black, horned, and tailed; later
+    he takes the form of a youth, becomes an apprentice, and rejuvenates an old lady.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Artist
+  description: An artist hired by the old Smith to paint on the smithy door a Demon
+    like the one in the church picture.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Old lady
+  description: An old lady riding in a carriage who pays for rejuvenation, is burned
+    to bones, and emerges from milk alive, young, and beautiful.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Lady’s coachman
+  description: The coachman whom the Demon sends to bring two buckets of milk.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Lady’s husband / seigneur / Barin
+  description: The lady’s husband, who does not recognize her after her transformation
+    and goes to the smithy to ask to be made young.
+  role_refs:
+  - role:8
+  - role:11
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: smith and household head
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The father is a Smith; after his death, the son succeeds as head of household
+    and takes the smithy into his hands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: respectful addresser of the Demon image
+  assigned_to:
+  - fig:1
+  basis: The old Smith greets the Demon image as “fellow-countryman” when entering
+    the smithy.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: insulter of the Demon image
+  assigned_to:
+  - fig:2
+  basis: The son hammers the Demon image and spits in its face over a period of three
+    years.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Demon figure
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly names the being as a Demon and describes its image
+    with black color, horns, and tail.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: apprentice or journeyman in disguise
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Demon takes the form of a youth and is accepted by the Smith as an apprentice,
+    later functioning as journeyman.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: performer of rejuvenation
+  assigned_to:
+  - fig:3
+  basis: The Demon burns the lady to bones, places the bones in milk, and she emerges
+    alive and young.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: painter of the Demon image
+  assigned_to:
+  - fig:4
+  basis: The artist is hired to paint the Demon on the smithy door.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: client seeking rejuvenation
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The old lady pays to be made young; her husband later asks the Smith to make
+    him young.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:9
+  label: rejuvenated woman
+  assigned_to:
+  - fig:5
+  basis: After being burned and placed in milk, the lady emerges alive, young, and
+    beautiful.
+  evidence_refs:
+  - ev:8
+- id: role:10
+  label: milk messenger
+  assigned_to:
+  - fig:6
+  basis: The Demon sends the coachman to bring two buckets of milk.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: unrecognizing husband
+  assigned_to:
+  - fig:7
+  basis: The husband stares at the transformed lady and does not know that she is
+    his wife.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Last Judgment Demon image
+  literal_form: A painted Demon, black with horns and a tail, first seen in a church
+    Last Judgment picture and then copied onto the smithy door.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hammering and spitting at the Demon image
+  literal_form: The son strikes the Demon image three times on the forehead with a
+    hammer and spits in its face on holy days.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: furnace fire
+  literal_form: The smithy furnace in which the Smith works and in which the Demon
+    burns the old lady.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: milk bath
+  literal_form: Two buckets of milk emptied into a large tub, into which the lady’s
+    bones are placed before she emerges young and alive.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: bare bones
+  literal_form: The old lady’s remaining bones after she is burned, collected and
+    placed in milk.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: tongs
+  literal_form: A pair of tongs used by the Demon to seize the old lady by the feet
+    and throw her into the furnace.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: The Demon image is copied to the smithy
+  summary: The old Smith sees a Last Judgment Demon in church, hires an artist to
+    paint a similar image on the smithy door, and greets it when entering the workshop.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The son insults the Demon image
+  summary: After inheriting the smithy, the son does not greet the Demon image but
+    strikes it with a hammer and spits in its face until the Demon decides on a trick.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: The Demon becomes an apprentice
+  summary: The Demon assumes the form of a youth, asks to be taken on as apprentice,
+    and becomes a highly skilled and trusted journeyman.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: The old lady is made young
+  summary: The disguised Demon advertises rejuvenation, accepts the old lady’s payment,
+    sends for milk, burns her to bones in the furnace, and restores her as a young
+    beautiful woman from the milk-filled tub.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: The husband seeks the same transformation
+  summary: The rejuvenated lady’s husband fails to recognize her, is sent by her to
+    the smithy, and asks for rejuvenation after the Demon has disappeared; the Smith
+    says he knows nothing of it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Demon assumes human youth form as apprentice
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Demon explicitly takes the form of a youth and enters the smithy as an
+    apprentice.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the transformation into youth directly, but broader
+    classification as a shapeshifter motif is interpretive.
+- id: motif:2
+  label: Rejuvenation through burning, bones, and milk
+  taxonomy_refs:
+  - death_rebirth
+  basis: The lady is burned until only bones remain, the bones are placed in milk,
+    and she emerges alive, young, and beautiful.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The episode is more specifically rejuvenation than a full life-cycle resurrection
+    motif, though death and renewed life are central to the sequence.
+- id: motif:3
+  label: Trick in response to insulted demon image
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After repeated hammering and spitting, the Demon decides to use diplomacy
+    and play the Smith a trick, then enters the household economy under disguise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage ends before the full consequences of the Demon’s trick are
+    resolved.
+- id: motif:4
+  label: Supernatural feat mistaken for ordinary craft skill
+  taxonomy_refs: []
+  basis: The Demon performs the rejuvenation while the Smith is absent; after the
+    Demon disappears, the seigneur asks the ordinary Smith to repeat it, and the Smith
+    denies knowing how.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No external taxonomy reference is assigned because the supplied taxonomy
+    list has no exact match.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2542-2688, introductory note and tale title
+  quote_or_summary: The narrator says the following legend is “not altogether new
+    in ‘motive’” and titles it “THE SMITH AND THE DEMON.”
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: 2542-2688, tale opening
+  quote_or_summary: A Smith with one son sees in church a Last Judgment picture containing
+    a black Demon with horns and tail, and hires an artist to paint a similar Demon
+    on the smithy door.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:3
+  type: summary
+  locator: 2542-2688, old Smith’s practice
+  quote_or_summary: The old Smith greets the Demon as “fellow-countryman” whenever
+    he enters the smithy, lays the fire, works, lives in accord with the Demon for
+    about ten years, then dies.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary with short quoted phrase from
+    provided passage.
+- id: ev:4
+  type: summary
+  locator: 2542-2688, son’s conduct toward the Demon
+  quote_or_summary: The son inherits the smithy, hammers the Demon on the forehead,
+    spits in its face on holy days, continues for three years, and the Demon decides
+    to play him a trick.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:5
+  type: summary
+  locator: 2542-2688, Demon as apprentice
+  quote_or_summary: The Demon takes the form of a youth, asks to become an apprentice,
+    is accepted, quickly becomes more skilled than the master, and is trusted as journeyman.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:6
+  type: quote
+  locator: 2542-2688, advertisement to old lady
+  quote_or_summary: 'While alone, the journeyman shouts that they have opened a new
+    business: “we turn old folks into young ones”; the old lady asks about it and
+    is told the cost is five hundred roubles.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt and summary from provided passage.
+- id: ev:7
+  type: summary
+  locator: 2542-2688, preparation and burning
+  quote_or_summary: The Demon takes the money, sends the lady’s coachman for two buckets
+    of milk, seizes the lady by the feet with tongs, throws her into the furnace,
+    and burns her until only bare bones remain.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:8
+  type: summary
+  locator: 2542-2688, restoration from milk
+  quote_or_summary: The Demon empties the milk into a tub, throws the bones into it,
+    and after about three minutes the lady emerges alive, young, and beautiful.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:9
+  type: summary
+  locator: 2542-2688, return to husband
+  quote_or_summary: The lady returns home; her husband does not recognize her, and
+    she tells him to go to the smithy to be made young or she will not acknowledge
+    him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:10
+  type: summary
+  locator: 2542-2688, seigneur at the smithy
+  quote_or_summary: The Smith returns, cannot find the journeyman, and is asked by
+    the seigneur to make him young; the Smith says he knows nothing of the kind.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; neutral summary from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence is clear in the supplied passage. Motif labels are candidates
+    and need review, especially because the excerpt ends before the tale’s conclusion.
+    No comparison claims are made beyond taxonomy-style motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The prior fragment before the tale was not analyzed as a separate narrative because it belongs to the preceding context.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l2542-l2688
+  passage_sha256=e90054fc8578c76326a949e570388a0f571090f68ebd2a14208ef5dbd3318f61
+

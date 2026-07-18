@@ -1,0 +1,458 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l2828-l2926
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: GRENDEL IS VANQUISHED. / REJOICING OF THE DANES. / HROTHGAR'S GRATITUDE.
+    / HROTHGAR LAVISHES GIFTS UPON HIS DELIVERER.; lines 2828-2926
+  start: '2828'
+  end: '2926'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Then the offspring of Healfdene offered to Beowulf / A golden standard, as
+    reward for the victory
+  summary: After the fight, Heorot is re-adorned though still damaged. Hrothgar, Hrothulf,
+    and the Danes feast in the hall, and Hrothgar rewards Beowulf with rich gifts,
+    armor, weapons, horses, and a jeweled saddle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Heorot is ordered to be adorned within; men and women gather to prepare the
+    guest-hall, and gold-flashing wall hangings are visible to the heroes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hall is described as broken, with iron fastenings damaged and hinges torn
+    off, while the roof remains whole after the hostile creature departs hopeless
+    of living.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that an appointed place comes for soul-bearers and earth-dwellers,
+    where the body will slumber; an editorial note marks these verses as difficult.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:4
+  text: Hrothgar, son of Healfdene, goes to the building for the banquet with a large
+    hero-band, whose behavior toward their bracelet-bestower is praised.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Companions drink cups joyfully in the high palace; Hrothgar and Hrothulf are
+    present, and the Folk-Scyldings are said not to practice falsehood or treachery
+    at this point.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hrothgar gives Beowulf a golden standard, embossed banner, mail-coat, helmet,
+    and weapon as reward for victory; Beowulf drinks from a cup in the hall.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The gifts include four gold-worked jewels, and the helmet is described as
+    having an outer head-guard braided with wire and furnished with bosses to resist
+    swords.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Hrothgar commands eight gold-bridled steeds to be brought into the hall; one
+    has a jeweled saddle formerly used as the sovereign's seat in battle-play.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Hrothgar grants Beowulf power over the war-steeds and weapons and is described
+    as requiting war-storms with horses and jewels.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hrothgar, son of Healfdene
+  description: Royal figure called the son or offspring of Healfdene, bracelet-bestower,
+    defender of earls, prince of the Ingwins, and hoard-ward of heroes; he presides
+    at the banquet and gives gifts to Beowulf.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Beowulf
+  description: The hero and deliverer who receives Hrothgar's gifts as reward for
+    victory and drinks from the cup in the building.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Hrothulf
+  description: Hrothgar's nephew, present in Heorot during the friendly gathering.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: men and women preparing Heorot
+  description: A gathered host of men and women who prepare or adorn the guest-hall
+    after the fight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the horrible creature outlawed for evil
+  description: Hostile being associated with the hall's destruction, who has departed
+    hopeless of living.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Folk-Scyldings and hero-band
+  description: The Danish fellowship in Heorot, described as friendly, joyful, drinking
+    cups, and not practicing treachery at this moment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal gift-giver and host
+  assigned_to:
+  - fig:1
+  basis: Hrothgar goes to the banquet, is called bracelet-bestower, and grants Beowulf
+    treasures, horses, and weapons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: victorious deliverer and reward-recipient
+  assigned_to:
+  - fig:2
+  basis: Beowulf receives gifts explicitly described as reward for victory.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: royal kinsman present at feast
+  assigned_to:
+  - fig:3
+  basis: The passage names Hrothulf with Hrothgar inside Heorot during the gathering.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: hall-preparers
+  assigned_to:
+  - fig:4
+  basis: Men and women gather to prepare or adorn Heorot within.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: defeated hostile creature
+  assigned_to:
+  - fig:5
+  basis: The creature is linked to the damaged hall and has departed hopeless of living.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: feasting fellowship
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: The passage places Hrothgar, Hrothulf, Beowulf, and the Danish company within
+    the banquet and cup-drinking scene.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Heorot guest-hall
+  literal_form: Heorot, the wassailing-building and guest-hall
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: gold-flashing wall hangings
+  literal_form: webs on the walls, gold-flashing
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: banquet cup
+  literal_form: cup in the building; cupfuls quaffed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: victory gifts
+  literal_form: golden standard, embossed banner, burnie, helmet, song-famous weapon,
+    and gold-worked jewels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: protective helmet
+  literal_form: helmet with outer head-guard braided with wires and furnished with
+    bosses
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: eight steeds and jeweled saddle
+  literal_form: eight gold-bridled steeds and one art-broidered saddle embellished
+    with jewels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Wyrd-appointed place
+  literal_form: the place awaiting, appointed by Wyrd, where the body shall slumber
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+scenes:
+- id: scene:1
+  label: Heorot re-adorned after damage
+  summary: Men and women prepare Heorot with shining wall hangings, while the poem
+    also describes the hall as broken from the creature's attack or struggle.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Banquet and peaceful fellowship in Heorot
+  summary: Hrothgar goes to the banquet with a large hero-band; companions drink joyfully,
+    Hrothulf is present, and the Folk-Scyldings are described as friendly and free
+    of treachery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Hrothgar rewards Beowulf with treasure and war-gear
+  summary: Hrothgar gives Beowulf a golden standard, banner, mail-coat, helmet, weapon,
+    and gold-worked jewels as reward for victory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Grant of horses, saddle, and weapons
+  summary: Hrothgar has eight gold-bridled horses brought in, including one with a
+    jeweled sovereign saddle, and grants Beowulf power over the war-steeds and weapons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Reflection on appointed death
+  summary: A difficult passage reflects on an unavoidable appointed place where the
+    body will slumber, attributed to Wyrd's appointment.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: royal reward after heroic victory
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Hrothgar rewards Beowulf for victory with treasure, war-gear, horses, and
+    weapons in a public hall setting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The exchange is explicit, but the passage frames it as heroic and royal
+    generosity rather than as a sacred rite; the taxonomy reference is therefore broad.
+- id: motif:2
+  label: generous kingship displayed through gift-giving
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Hrothgar is called bracelet-bestower and hoard-ward of heroes, and the narrator
+    praises the manner in which he repays Beowulf's martial service with horses and
+    jewels.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage supports royal generosity and public status display, but it
+    does not explicitly discuss succession, legal legitimacy, or enthronement.
+- id: motif:3
+  label: communal feast after deliverance
+  taxonomy_refs: []
+  basis: After the hostile creature departs, Heorot is prepared and a friendly banquet
+    with cup-drinking and public reward takes place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no specific supplied
+    taxonomy family directly matches it.
+- id: motif:4
+  label: fate-appointed death-place
+  taxonomy_refs: []
+  basis: The poem states that a place appointed by Wyrd awaits earth-dwellers, where
+    the body will slumber.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: low
+  cautions: The passage is explicitly marked by the edition as vague and textually
+    difficult, and the subject of the statement is disputed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: source lines 2832-2837; poem lines 1-6
+  quote_or_summary: Heorot is ordered to be adorned within; men and women gather to
+    prepare the guest-hall, with gold-flashing wall hangings visible.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: source lines 2841-2846; poem lines 7-12
+  quote_or_summary: The building is broken, hinges torn off, roof intact; the horrible
+    creature outlawed for evil has departed hopeless of living.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: source lines 2850-2853; poem lines 13-16
+  quote_or_summary: A difficult reflection says one must come to the place appointed
+    by Wyrd, where the body shall slumber.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: source lines 2857-2871; poem lines 17-28
+  quote_or_summary: Hrothgar goes to the banquet; the hero-band is praised; companions
+    drink joyfully; Hrothgar and Hrothulf are present, and the Folk-Scyldings practice
+    no treachery.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: source lines 2875-2881; poem lines 29-35
+  quote_or_summary: Hrothgar offered Beowulf “A golden standard, as reward for the
+    victory,” along with banner, burnie, helmet, and weapon; Beowulf drank from the
+    cup.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: source lines 2885-2891; poem lines 36-42
+  quote_or_summary: Four gold-worked jewels are praised; the helmet has a wired and
+    bossed head-guard to protect against battle-swords.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: source lines 2896-2910; poem lines 43-57
+  quote_or_summary: Eight gold-bridled steeds are brought in; one bears a jeweled
+    sovereign saddle; Hrothgar grants Beowulf power over steeds and weapons and repays
+    war-storms with horses and jewels.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: source lines 2919-2925; editorial note [2]
+  quote_or_summary: The edition notes that the passage corresponding to verses 1005-1009
+    is difficult, including uncertainty over the subject and possible reference to
+    Grendel.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal scene and gift-giving extraction is well supported. Motif taxonomy
+    links are cautious because the passage presents heroic-royal exchange rather than
+    explicit sacred ritual, and the Wyrd passage is textually uncertain. No comparison
+    claims were added because the passage itself does not compare traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy symbol refs were assigned because the available symbol list does not include hall, cup, gold, armor, horses, saddle, or Wyrd.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l2828-l2926
+  passage_sha256=b8e7d9c6ec42cc64a6ffe367adc44e05ef70ec1fc232ad59f8cc2462c30b58d5
+

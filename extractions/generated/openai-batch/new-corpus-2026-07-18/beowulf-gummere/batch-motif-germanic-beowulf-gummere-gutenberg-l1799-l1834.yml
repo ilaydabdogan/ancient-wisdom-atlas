@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l1799-l1834
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: BEOWULF GOES TO HROTHGAR'S ASSISTANCE. / THE GEATS REACH HEOROT. / BEOWULF
+    INTRODUCES HIMSELF AT THE PALACE. / HROTHGAR AND BEOWULF.; lines 1799-1834
+  start: '1799'
+  end: '1834'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss proposed readings of Beowulf lines around 420-451,
+    including first-person action against an eoten race or monster band in the ocean,
+    a disputed grammatical reading involving the Geats being eaten or described, and
+    interpretations of a passage in which Grendel would devour the speaker's body
+    so thoroughly that burial or care of the remains would be unnecessary.
+  language: English with Old English cited terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note records proposed readings in which a first-person speaker destroys,
+    desolates, or conquers an eoten race or monster band associated with the ocean.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group opposed by the first-person speaker is described in the note as
+    an eoten race and, in one suggested reading, as a monster band.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A grammatical note disputes whether 'unforhte' functions as an adverb modifying
+    eating or as an adjective connected with the Geats.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentary says that calling the Geats brave could imply a contrast with
+    the Danes, who are described as long helpless, while calling the speaker's own
+    men timid would be disparaging.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One interpretation of 'head-watch' says that no hiding or burial of the head
+    would be needed because Grendel would devour the speaker whole.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Another interpretation says the addressee would not have to bury even the
+    speaker's head, with Grendel humorously described as a thorough undertaker.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A cited translation of the vague term 'feorme' concerns no longer taking care
+    over consumption of the speaker's dead body, and the note adds that 'líc' may
+    mean either living body or dead body.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker in proposed readings
+  description: The 'I' in proposed renderings who destroys, desolates, or conquers
+    the eoten race or monster band; also the speaker whose head or body may be devoured
+    in the interpretive notes.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: eoten race / monster band
+  description: A group called the eoten race and, in one suggested emendation, a monster
+    band; associated with the ocean in the proposed readings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Geats
+  description: A people mentioned in the dispute over whether 'unforhte' modifies
+    eating or describes them; one reading involves the Geats being eaten fearlessly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Danes
+  description: A people mentioned in the commentary as 'so long helpless' in a possible
+    contrast with the Geats.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Grendel
+  description: The named being who, in interpretations of 'head-watch,' would devour
+    the speaker whole and thereby make burial unnecessary.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: monster-conquering first-person combatant
+  assigned_to:
+  - fig:1
+  basis: The proposed readings have the first-person speaker destroying, desolating,
+    or conquering the eoten race or monster band.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: monstrous adversary group
+  assigned_to:
+  - fig:2
+  basis: The group is called an eoten race or monster band and is the object of the
+    speaker's destructive or conquering action.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: people possibly eaten or described
+  assigned_to:
+  - fig:3
+  basis: The note discusses a reading translated as eating the Geats fearlessly and
+    alternative understandings in which the Geats may be characterized as brave or
+    timid.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: contrasted helpless people
+  assigned_to:
+  - fig:4
+  basis: The commentary mentions the Danes as 'so long helpless' when considering
+    whether calling the Geats brave would imply a contrast.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: devourer
+  assigned_to:
+  - fig:5
+  basis: The interpretations state that Grendel would devour the speaker whole, removing
+    the need for burial of the head or body.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: body at risk of devouring or consumption
+  assigned_to:
+  - fig:1
+  basis: The notes interpret the speaker's head or body as something that Grendel
+    would devour or whose consumption would not require further care.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: ocean water
+  literal_form: ocean; in one proposed reading, the home of the eotens
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: head
+  literal_form: the speaker's head in the disputed phrase 'head-watch' and burial
+    interpretations
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: body or corpse
+  literal_form: living body or dead body; the speaker's dead body in a cited translation
+    about consumption
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Proposed ocean conquest of eotens
+  summary: The editorial note presents alternative readings in which a first-person
+    speaker acts in or upon the ocean and destroys, desolates, or conquers an eoten
+    race or monster band.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Disputed eating of the Geats
+  summary: A grammatical interpretation would make the phrase mean that the Geats
+    are eaten fearlessly, while other analyses treat the debated word as describing
+    the Geats.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Grendel's devouring and unnecessary burial
+  summary: Interpretations of 'head-watch' and related wording explain that Grendel's
+    devouring of the speaker would make burial or care of the head or body unnecessary.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Conquest of ocean monsters
+  taxonomy_refs: []
+  basis: The passage's proposed readings describe a first-person speaker destroying,
+    desolating, or conquering an eoten race or monster band in association with the
+    ocean.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The evidence occurs in an editorial note offering alternative emendations
+    and translations, not in a continuous narrative excerpt supplied here.
+- id: motif:2
+  label: Monster devours the hero's body
+  taxonomy_refs: []
+  basis: Interpretations state that Grendel would devour the speaker whole or leave
+    no need to bury even the head; a related note discusses consumption of the speaker's
+    dead body.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is commentary on ambiguous wording; the identity of the speaker
+    as a hero is suggested by the surrounding source label but not directly stated
+    in this excerpt.
+- id: motif:3
+  label: Threatened devouring of a people
+  taxonomy_refs: []
+  basis: One disputed grammatical reading is summarized as 'Will eat the Geats fearlessly.'
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This depends on one disputed grammatical analysis, and the eater is not
+    named in the quoted note.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1799-1807
+  quote_or_summary: The note gives proposed translations/readings such as destroying
+    the eoten-race in the ocean, desolating the ocean as the home of eotens, or conquering
+    'the monster band, the race of the eotens.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1809-1818
+  quote_or_summary: The note on 'unforhte' debates whether the word modifies eating,
+    with a reading summarized as eating the Geats fearlessly, or describes the Geats;
+    it also mentions the Danes as long helpless.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1820-1825
+  quote_or_summary: The note on 'head-watch' cites interpretations that the addressee
+    need not bury or hide the speaker's head because Grendel will devour the speaker
+    whole, or need not bury even the head.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1827-1834
+  quote_or_summary: The notes say a colon after 'nimeð' makes no essential change,
+    then discuss the vague 'feorme' and cite a translation about no longer caring
+    for consumption of the speaker's dead body; 'líc' may mean living or dead body.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The supplied passage is primarily editorial commentary and textual notes
+    rather than a direct narrative passage. Motif candidates are therefore based on
+    quoted or summarized interpretive renderings within the notes and require human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious mythological comparison beyond the local textual interpretations. Taxonomy references were limited to the supplied symbol ref 'water' for the ocean.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l1799-l1834
+  passage_sha256=afb490f5e64a04acd57485d097afcffcedef914f3014b257adf59a734a28b670
+

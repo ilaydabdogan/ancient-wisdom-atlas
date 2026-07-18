@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l340-l350
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: THE MABINOGION / TRANSLATED BY LADY CHARLOTTE GUEST / CONTENTS / INTRODUCTION;
+    lines 340-350
+  start: '340'
+  end: '350'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"strong claims to be considered the cradle of European Romance"'
+  summary: The first-person commentator states that their work has confirmed their
+    conclusions and suggests that further inquiry could show the Cymric nation as
+    an early Indo-European offshoot whose heroes, bards, and traditions influenced
+    later invaders and European Romance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The first-person commentator says they began their labours with a general
+    belief in certain conclusions and ended with their impressions strongly confirmed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentator says the subject is worthy of the talents of Llwyd or Prichard.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Dr. Prichard has proved the Cymric nation to be an
+    early offshoot of the Indo-European family and a people of unmixed descent.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage proposes that later nations drove the Cymric nation out of their
+    conquests.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the names and exploits of Cymric heroes and the compositions
+    of their bards spread among the invaders and affected their tastes and literature.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the Cymric tradition has strong claims to be considered the
+    cradle of European Romance.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person commentator
+  description: The speaker who says their labours confirmed their impressions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Llwyd
+  description: A named figure whose talents are said to be worthy of the subject.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Prichard / Dr. Prichard
+  description: A named figure credited with proving claims about the Cymric nation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Cymric nation
+  description: The nation described as an early offshoot of the Indo-European family
+    and as later driven out of its conquests.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: later nations / invaders
+  description: The peoples said to have driven out the Cymric nation and later received
+    the spread of Cymric heroic and bardic material.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Cymric heroes
+  description: Heroes whose names and exploits are said to have spread among the invaders.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Cymric bards
+  description: Bards whose compositions are said to have spread among the invaders.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reflective commentator
+  assigned_to:
+  - fig:1
+  basis: The speaker reflects on the beginning and end of their labours and the confirmation
+    of their impressions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named scholarly authority or model
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Llwyd and Prichard are invoked as figures whose talents suit the inquiry;
+    Dr. Prichard is specifically credited with proving a claim about Cymric origins.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: nation under historical inquiry
+  assigned_to:
+  - fig:4
+  basis: The Cymric nation is the subject of claims about Indo-European descent, displacement,
+    and cultural influence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: later displacing peoples
+  assigned_to:
+  - fig:5
+  basis: The later nations are said to have driven the Cymric nation out of their
+    conquests and to have received their cultural material.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: bearers of remembered names and exploits
+  assigned_to:
+  - fig:6
+  basis: The heroes' names and exploits are said to spread far and wide among the
+    invaders.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: bardic composers
+  assigned_to:
+  - fig:7
+  basis: The bards' compositions are said to spread among the invaders.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Introductory historical-literary claim
+  summary: The commentator presents a historical-literary argument that the Cymric
+    nation belongs to the Indo-European family, was displaced by later nations, and
+    nevertheless spread heroic and bardic material that influenced later literature
+    and European Romance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Displaced people's heroic lore spreads among invaders
+  taxonomy_refs: []
+  basis: The passage states that after the Cymric nation was driven out, the names
+    and exploits of its heroes spread among the invaders.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an introductory historical-literary claim, not a narrative episode
+    with specific named heroes.
+- id: motif:2
+  label: Bardic compositions shaping later literature
+  taxonomy_refs: []
+  basis: The passage states that the compositions of Cymric bards spread among invaders
+    and affected their tastes and literature for many centuries.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no specific composition, story, or transmission route.
+- id: motif:3
+  label: Ancestral cradle of a literary tradition
+  taxonomy_refs: []
+  basis: The passage claims that Cymric tradition has strong claims to be considered
+    the cradle of European Romance.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The word 'cradle' is a historiographic metaphor; the passage does not
+    provide a narrative myth or detailed comparative evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Cymric nation as an early offshoot of the Indo-European
+    family, implying a common-inheritance relationship.
+  claim_level: common_inheritance
+  target: Indo-European family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an authorial historical claim in the introduction and is not
+    substantiated within the passage beyond the reference to Dr. Prichard.
+- id: claim:2
+  claim: The passage claims that Cymric heroic and bardic material spread among later
+    invaders and influenced their tastes and literature.
+  claim_level: historical_contact
+  target: literature of later invading nations
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify the invaders, texts, mechanisms of contact,
+    or specific shared motifs.
+- id: claim:3
+  claim: The passage claims that Cymric tradition can be regarded as a source or cradle
+    of European Romance.
+  claim_level: historical_contact
+  target: European Romance
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim is broad and metaphorical, and the passage provides no specific
+    comparative examples.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 340-342
+  quote_or_summary: '"I commenced my labours, and I end them with my impressions strongly
+    confirmed."'
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 342-343
+  quote_or_summary: '"The subject is one not unworthy of the talents of a Llwyd or
+    a Prichard."'
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 343-346
+  quote_or_summary: The passage says inquiry might show the Cymric nation to be an
+    early offshoot of the Indo-European family and a people of unmixed descent, as
+    Dr. Prichard had proved.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 346-349
+  quote_or_summary: The passage says that when later nations drove the Cymric people
+    out, the names and exploits of their heroes and the compositions of their bards
+    spread among the invaders and affected their literature.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 349-350
+  quote_or_summary: '"strong claims to be considered the cradle of European Romance"'
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif and comparison data are
+    limited because the passage is introductory historical commentary rather than
+    a mythic narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not provide a specific mythic motif or listed symbol.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l340-l350
+  passage_sha256=d4c511059eb05c18f2c9c895415060de5f5c1ef46d9d23cfad3f408f3cf31eca
+

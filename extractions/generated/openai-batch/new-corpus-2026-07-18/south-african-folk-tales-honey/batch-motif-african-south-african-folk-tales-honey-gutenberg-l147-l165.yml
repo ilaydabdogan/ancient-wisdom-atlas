@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l147-l165
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: JACKAL, DOVE, AND HERON                    109 / COCK AND JACKAL                            111
+    / ELEPHANT AND TORTOISE                      112 / ANOTHER VERSION OF THE SAME
+    FABLE          115; lines 147-165
+  start: '147'
+  end: '165'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents segment listing ten tale titles with
+    page numbers, including several animal-centered titles and two entries called
+    another version of the same fable.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists tale titles paired with page numbers rather than narrating
+    a tale episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: obs:2
+  text: One title names Jackal and a bride in a possessive relationship.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One title names Hare.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One title pairs a White Man with a Snake.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The title phrase "Another Version of the Same Fable" appears twice in the
+    contents segment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: obs:6
+  text: One title is the phrase "Cloud Eating."
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One title links Lion with illness.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: One title lists Jackal, Dove, and Heron together.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: One title pairs Cock with Jackal.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: One title pairs Elephant with Tortoise.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: Animal figure named in the titles "Jackal's Bride," "Jackal, Dove,
+    and Heron," and "Cock and Jackal."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Jackal's bride
+  description: Relational figure named in the title "Jackal's Bride."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hare
+  description: Figure named in the title "The Story of Hare."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: White Man
+  description: Figure named in the title "The White Man and Snake."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Snake
+  description: Animal figure named in the title "The White Man and Snake."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Lion
+  description: Animal figure named in the title "Lion's Illness."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Dove
+  description: Animal figure named in the title "Jackal, Dove, and Heron."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Heron
+  description: Animal figure named in the title "Jackal, Dove, and Heron."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Cock
+  description: Animal figure named in the title "Cock and Jackal."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Elephant
+  description: Animal figure named in the title "Elephant and Tortoise."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:11
+  name_or_label: Tortoise
+  description: Animal figure named in the title "Elephant and Tortoise."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: title-named figure or entity
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  basis: Each assigned figure is named in one of the table-of-contents tale titles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: Snake/serpent
+  literal_form: Snake named in a tale title.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Cloud
+  literal_form: Cloud named in the title phrase "Cloud Eating."
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Serpent or snake tale-title element
+  taxonomy_refs:
+  - serpent
+  basis: The contents segment includes the title "The White Man and Snake."
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only the title is present; no serpent action, function, or symbolic role
+    is described in the supplied passage.
+- id: motif:2
+  label: Animal co-title fable pattern
+  taxonomy_refs: []
+  basis: Several titles pair or group named animals, including Jackal with Dove and
+    Heron, Cock with Jackal, and Elephant with Tortoise.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: low
+  cautions: The passage is a contents list; it supports title-level animal pairings
+    but not narrative motif structure.
+- id: motif:3
+  label: Same-fable variant marker
+  taxonomy_refs: []
+  basis: Two entries are titled "Another Version of the Same Fable," indicating title-level
+    variant marking within the contents list.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  confidence: medium
+  cautions: The excerpt does not provide the narratives or fully specify the corresponding
+    fable contents.
+comparison_claims:
+- id: claim:1
+  claim: The two entries titled "Another Version of the Same Fable" support a cautious
+    intra-collection comparison in which nearby entries are presented as variants
+    of a same fable.
+  claim_level: same_motif
+  target: Nearby fable entries in the same table-of-contents segment, especially the
+    entries preceding the variant markers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is only a table of contents; it does not provide plot details
+    or prove specific motif correspondences beyond the title-level phrase "same fable."
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 147
+  quote_or_summary: JACKAL'S BRIDE                              92
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: line 149
+  quote_or_summary: THE STORY OF HARE                           94
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: line 151
+  quote_or_summary: THE WHITE MAN AND SNAKE                    101
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: line 153
+  quote_or_summary: ANOTHER VERSION OF THE SAME FABLE          103
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: line 155
+  quote_or_summary: CLOUD EATING                               105
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: line 157
+  quote_or_summary: LION'S ILLNESS                             107
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: line 159
+  quote_or_summary: JACKAL, DOVE, AND HERON                    109
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: line 161
+  quote_or_summary: COCK AND JACKAL                            111
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: line 163
+  quote_or_summary: ELEPHANT AND TORTOISE                      112
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: line 165
+  quote_or_summary: ANOTHER VERSION OF THE SAME FABLE          115
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Extraction of titles and named figures is straightforward. Motif confidence
+    is low because the supplied passage is a table of contents rather than narrative
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied excerpt contains contents entries only; no narrative scenes are present.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l147-l165
+  passage_sha256=3b90d83d0a0cae6290f889074063dbcd18f78fe823646ded473e4c2526538a03
+

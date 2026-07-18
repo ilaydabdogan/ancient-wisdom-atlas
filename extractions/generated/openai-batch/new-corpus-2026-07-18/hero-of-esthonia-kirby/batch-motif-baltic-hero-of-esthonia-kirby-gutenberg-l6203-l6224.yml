@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l6203-l6224
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE GRATEFUL PRINCE. / SLYBOOTS. / THE GOLD-SPINNERS. / SECTION II; lines
+    6203-6224
+  start: '6203'
+  end: '6224'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The section introduces Estonian orphan and foundling stories, noting tales
+    of neglected or ill-used orphan children whose welfare is eventually secured by
+    wonderful events. It also notes wicked stepmothers and farmers' wives as common
+    figures, compares "The Wood of Tontla" with Tieck's German story "The Elves,"
+    and includes stories of stolen or friendless children in the grouping.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as concerned with orphan and foundling
+    stories.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says many Estonian tales concern neglected or ill-used orphan
+    children and wonderful events by which their welfare is finally secured.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says wicked stepmothers and farmers' wives are common in these
+    folk-tales.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that "The Wood of Tontla" is especially interesting because
+    of its resemblance to Tieck's German story "The Elves."
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that stories relating to stolen or friendless children
+    are included with the orphan stories.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: orphan children
+  description: Neglected or ill-used orphan children whose adventures are the subject
+    of many tales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: wicked stepmothers
+  description: Common hostile figures in the folk-tales mentioned by the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: farmers' wives
+  description: Common figures grouped with wicked stepmothers in the folk-tales mentioned
+    by the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: stolen or friendless children
+  description: Children whose stories are placed with the orphan stories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: vulnerable child protagonist
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes neglected, ill-used, stolen, or friendless children
+    as central to this class of stories.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: hostile domestic figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says wicked stepmothers and farmers' wives are common in the
+    folk-tales.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Overview of orphan and foundling tale group
+  summary: The passage frames a group of Estonian tales in which vulnerable children
+    experience adventures and have their welfare secured through wonderful events,
+    while hostile domestic women are common figures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: neglected or ill-used orphan child whose welfare is restored
+  taxonomy_refs: []
+  basis: The passage describes tales about neglected or ill-used orphan children and
+    the wonderful events by which their welfare is finally secured.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a general editorial description rather than a specific
+    narrative episode.
+- id: motif:2
+  label: wicked stepmother or hostile farmer's wife
+  taxonomy_refs: []
+  basis: The passage says wicked stepmothers and farmers' wives are common in these
+    folk-tales.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe individual actions by these figures.
+- id: motif:3
+  label: stolen or friendless child grouped with orphan tales
+  taxonomy_refs: []
+  basis: The passage states that stories relating to stolen or friendless children
+    are included with orphan stories.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No specific stolen-child episode is narrated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Estonian story "The Wood of Tontla" resembles
+    Tieck's German story "The Elves" and says both were originally derived from the
+    same source.
+  claim_level: common_inheritance
+  target: Tieck's German story "The Elves"
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports the comparison but does not provide narrative details
+    supporting the resemblance or shared source.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6203-6205
+  quote_or_summary: '"ORPHAN AND FOUNDLING STORIES"'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 6207-6210
+  quote_or_summary: Many Estonian tales are said to relate the adventures of neglected
+    or ill-used orphan children and the wonderful events that finally secure their
+    welfare.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6210-6212
+  quote_or_summary: Wicked stepmothers and farmers' wives are described as common
+    in these folk-tales.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6214-6220
+  quote_or_summary: '"The Wood of Tontla" is described as resembling Tieck''s German
+    story "The Elves" and as originally derived from the same source as the present
+    narrative.'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6222-6223
+  quote_or_summary: The editor says that stories about stolen or friendless children
+    are placed with the orphan stories proper.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial introduction rather than a complete tale; motif
+    candidates are therefore general and should be reviewed against the full stories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol is directly supported by the passage; comparison claim is limited to the passage's own statement about Tieck's "The Elves."
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l6203-l6224
+  passage_sha256=0ed792b767a6fbb422b1c4ed8b41095fe9ccb3dfcaed4ebc0babc9c318ece89a
+

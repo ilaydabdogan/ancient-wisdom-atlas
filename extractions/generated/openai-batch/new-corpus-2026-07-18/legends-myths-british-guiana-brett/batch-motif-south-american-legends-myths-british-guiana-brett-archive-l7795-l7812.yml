@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l7795-l7812
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: LEGEND OF THE HAIARRI ROOT. / ABORIGINAL TRIBES OF GUIANA. 173 / THE GREAT
+    SERPENT'S SKIN. / ABORIGINAL TRIBES OF GUIANA. 175; lines 7795-7812
+  start: '7795'
+  end: '7812'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“The snake's head, with its sombre tints, happened to fall.”"
+  summary: The passage describes macaws with scarlet, purple, and gold plumage. It
+    then states that, as brave warriors may receive little spoil, the champion who
+    had adorned all received the sombre snake's head and accepted it as suitable for
+    an old diver.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Macaws are described as having plumage of scarlet, purple, and gold and as
+    flying past in beauty each day.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator states a general comparison in which brave warriors who toil
+    and face danger may receive the least spoil.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A champion is described as having “adorned all.”
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The snake's head, described as having sombre tints, fell to the champion.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The champion seemed contented and said that it did very well for an old diver.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: macaws
+  description: Birds described with scarlet, purple, and gold plumage and seen flying
+    past in beauty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the champion / old diver
+  description: A champion who had adorned all, received the snake's head, and called
+    himself an old diver in his speech.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: brightly plumaged birds
+  assigned_to:
+  - fig:1
+  basis: The passage describes the macaws' scarlet, purple, and gold plumage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: adorner
+  assigned_to:
+  - fig:2
+  basis: The passage calls him the champion “who thus adorned all.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: content recipient of the snake's head
+  assigned_to:
+  - fig:2
+  basis: The snake's head falls to him, and he expresses contentment with it.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bright plumage
+  literal_form: scarlet, purple, and gold macaw plumage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: snake's head
+  literal_form: the snake's head with sombre tints
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Macaws in bright plumage
+  summary: Macaws are described as having scarlet, purple, and gold plumage and as
+    flying past beautifully each day.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Champion receives the snake's head
+  summary: After the narrator compares the situation to warriors receiving little
+    spoil, the champion who adorned all receives the sombre snake's head and accepts
+    it contentedly.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: serpent body part allotted to a figure
+  taxonomy_refs:
+  - serpent
+  basis: The passage explicitly states that the snake's head with sombre tints fell
+    to the champion.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is fragmentary and does not provide the full narrative context
+    of the snake or the distribution.
+- id: motif:2
+  label: helper or champion receives least-valued share
+  taxonomy_refs: []
+  basis: The narrator compares brave warriors receiving little spoil to the champion
+    receiving the sombre snake's head after adorning all.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The value of the snake's head is implied through the comparison and its
+    sombre tints, but the broader episode is not included.
+- id: motif:3
+  label: origin or explanation of animal adornment
+  taxonomy_refs: []
+  basis: The passage links macaws' vivid plumage with a champion who had “adorned
+    all.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The fragment does not explicitly state that the macaws' plumage originated
+    from the champion's action; this is only a cautious candidate pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7799-7804
+  quote_or_summary: "“And macaws in such plumage as never had b[een] / Scarlet, purple,
+    and gold ... / When we see them fly past us in beauty each day?”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7805-7806
+  quote_or_summary: "“As it happens with men — when brave warriors who toil, / And
+    go through all the danger, get least of the spoil—”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7807-7812
+  quote_or_summary: "“Even so — to the champion, who thus adorned all, / The snake's
+    head, with its sombre tints, happened to fall. / But he seemed quite contented
+    ... / Saying, ‘For an old diver it does very well!’”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the fragmentary passage and apparent line-break/OCR
+    damage near “been.” Motif candidates are cautious because the full surrounding
+    legend is not present in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No comparison claims were added because the passage itself does not support a specific external comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l7795-l7812
+  passage_sha256=8acf50ad4edc226ad4dbbfc83bdc3f4c069c2508bcfe8e1b031d055e86e5661b
+

@@ -1,0 +1,562 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l722-l809
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: II. HOW WISDOM BECAME THE PROPERTY OF THE HUMAN RACE / III. ANANSI AND NOTHING
+    / IV. THUNDER AND ANANSI / V. WHY THE LIZARD CONTINUALLY MOVES HIS HEAD UP AND
+    DOWN; lines 722-809
+  start: '722'
+  end: '809'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Anansi learns the secret names of a king’s three daughters by tricking
+    them with honeyed fruit. He tells the names to Lizard so Lizard can announce them
+    at court, but the king awards the daughters to Lizard. Anansi retaliates by killing
+    the king’s cock, planting evidence at Lizard’s house, and making Lizard unable
+    to speak. Lizard is judged guilty, loses the wives to Anansi, and the tale explains
+    why lizards move their heads backward and forward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king has three daughters whose names are kept secret from everyone except
+    their family.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king proclaims that his three daughters will be given as wives to any
+    man who can find out their names.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Anansi climbs a fruit tree near the daughters’ bathing-place, coats fruit
+    with honey, drops it, and hears the princesses call one another by name.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anansi tells Lizard the three names and instructs him to sound them through
+    a trumpet at court.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At court Lizard sounds the names, and the king gives the three daughters to
+    Lizard; Anansi demands a share and is refused.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Anansi asks the king to command his cock to crow at daybreak so Anansi can
+    begin a journey early.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At night Anansi kills the cock, cooks it at Lizard’s house, places feathers
+    under Lizard’s bed, leaves flesh near Lizard’s hand, and pours boiling water into
+    Lizard’s mouth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: When questioned, Lizard is unable to speak and can only move his head up and
+    down helplessly.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Lizard is judged guilty of theft, his wives are taken from him and given to
+    Anansi, and the tale states that lizards have moved their heads backward and forward
+    since then.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Anansi
+  description: A figure living near the king’s town who seeks the daughters, learns
+    their names by a trick, uses Lizard as herald, and later frames Lizard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: The king
+  description: A great king with three daughters; he makes the naming proclamation,
+    awards the daughters, owns the daybreak cock, and judges Lizard guilty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: The three daughters / princesses
+  description: The king’s three daughters, whose names are secret and who are promised
+    as wives to the man who can name them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Lizard / Mr Lizard
+  description: Anansi’s friend, asked to act as herald; he sounds the daughters’ names,
+    receives them as wives, is framed for stealing the cock, is made unable to speak,
+    and is punished.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: The king’s cock
+  description: A cock belonging to the king that normally crows at daybreak; Anansi
+    kills and cooks it, and its remains become evidence against Lizard.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Courtiers, great men, servants, and searchers
+  description: Court and town figures assembled by Anansi and the king; some search
+    for the cock and bring Lizard before the king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: Deceiver and revenge-seeker
+  assigned_to:
+  - fig:1
+  basis: Anansi obtains the names through a staged fruit trick and later plants evidence
+    against Lizard after being denied the daughters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Promise-making ruler and judge
+  assigned_to:
+  - fig:2
+  basis: The king proclaims the reward, awards the daughters according to the public
+    naming, and later judges Lizard guilty.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:3
+  label: Secret-named brides offered as reward
+  assigned_to:
+  - fig:3
+  basis: Their names are secret, and their father promises them as wives to whoever
+    can find out the names.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Herald and accused thief
+  assigned_to:
+  - fig:4
+  basis: Lizard is asked to trumpet the names at court and is later accused and judged
+    guilty of stealing the cock.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:5
+  label: Daybreak signal and object of alleged theft
+  assigned_to:
+  - fig:5
+  basis: The cock is said to crow at daybreak; after Anansi kills it, its remains
+    are used to implicate Lizard.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:6
+  label: Public witnesses and searchers
+  assigned_to:
+  - fig:6
+  basis: Great men and courtiers are assembled for the naming scene, and the king’s
+    men search Lizard’s house and bring him before the king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Secret names
+  literal_form: The hidden names of the king’s three daughters.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Fruit tree
+  literal_form: The tree at the bathing-place that Anansi climbs to drop fruit to
+    the princesses.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Honeyed fruit
+  literal_form: Fruit coated with honey and dropped so the princesses will taste it
+    and call to one another.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Trumpet
+  literal_form: Lizard’s trumpet, used to sound the three names at court.
+  associated_figures:
+  - fig:4
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Royal cock
+  literal_form: The king’s cock that crows at daybreak and is killed by Anansi.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:6
+  label: Feathers and cooked flesh
+  literal_form: Cock feathers placed under Lizard’s bed and cooked flesh set near
+    Lizard’s hand.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:7
+  label: Boiling water
+  literal_form: Boiling water poured into Lizard’s mouth, making him dumb.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Lizard head movement
+  literal_form: The helpless backward-and-forward or up-and-down movement of Lizard’s
+    head when he cannot speak, later attributed to lizards generally.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Name challenge and hidden-name trick
+  summary: The king offers his daughters to the man who can learn their secret names;
+    Anansi uses honeyed fruit from a tree near their bathing-place to make them speak
+    the names aloud.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Court naming by Lizard
+  summary: Anansi gives Lizard the names and has him sound them by trumpet at court;
+    the king awards the daughters to Lizard because he publicly names them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Anansi prepares the frame-up
+  summary: Anansi arranges a need for the king’s cock to crow, then kills the cock
+    at night, plants the cooked remains at Lizard’s house, and makes Lizard unable
+    to speak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Accusation and mute defense
+  summary: Anansi suggests Lizard may have stolen the cock; searchers find the planted
+    remains, and Lizard can only move his head when questioned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Punishment and etiological close
+  summary: Lizard is punished by losing the wives to Anansi, and the tale closes by
+    explaining the repeated head movement of lizards.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Hidden names obtained by trickery
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The daughters’ names are kept secret, and Anansi obtains them indirectly
+    by tricking the princesses into speaking them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the names as secret, not explicitly sacred or forbidden;
+    the king’s challenge authorizes finding them.
+- id: motif:2
+  label: Trickster frames a rival through planted evidence
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After losing the daughters to Lizard, Anansi kills the king’s cock, plants
+    feathers and flesh at Lizard’s house, makes Lizard unable to speak, and then suggests
+    Lizard as the thief.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif label is based on actions within the tale; no external analogue
+    is asserted.
+- id: motif:3
+  label: Etiological explanation of animal behavior
+  taxonomy_refs: []
+  basis: The final lines explain that lizards move their heads backward and forward
+    because Lizard could only move his head after Anansi made him dumb.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy reference directly names etiological animal-behavior
+    tales.
+- id: motif:4
+  label: Bride reward decided by public proof of knowledge
+  taxonomy_refs: []
+  basis: The king promises his daughters to the man who can name them, and the court
+    scene turns on the public sounding of those names.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage’s award goes to the herald who announces the names, not to
+    the person who originally discovered them.
+comparison_claims:
+- id: claim:1
+  claim: The passage has the same function as an etiological animal-behavior tale
+    because it closes by explaining why lizards move their heads backward and forward.
+  claim_level: same_function
+  target: etiological animal-behavior explanation pattern
+  evidence_refs:
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison only; no historical relationship or
+    external analogue is claimed.
+- id: claim:2
+  claim: Anansi’s deception, accusation, and reversal of Lizard’s status fit the supplied
+    trickster-boundary motif family at a broad motif level.
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the broad taxonomy label; the passage does
+    not itself provide comparative evidence beyond Anansi’s actions.
+- id: claim:3
+  claim: The secret-name challenge can be compared cautiously to secret or forbidden
+    knowledge tests because restricted knowledge determines access to the daughters
+    as wives.
+  claim_level: same_function
+  target: forbidden_knowledge / secret-name challenge pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The names are secret but not explicitly forbidden, sacred, or dangerous
+    to know; the king publicly offers a reward for discovering them.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 722-731
+  quote_or_summary: A king has three daughters whose names are secret, and he proclaims
+    that they will become wives of any man who finds out the names.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 732-746
+  quote_or_summary: Anansi buys honey, climbs a fruit tree near the daughters’ bathing-place,
+    drops honeyed fruit, and hears the princesses call one another by name.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 747-754
+  quote_or_summary: Anansi summons important men and asks Lizard to act as herald,
+    telling him the three names to sound through a trumpet at court.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 755-770
+  quote_or_summary: At court Lizard sounds the names; the king awards the daughters
+    to Lizard. Anansi angrily asks for two, then one, and vows revenge when refused.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 771-779
+  quote_or_summary: Anansi tells the king he is leaving early on a journey and asks
+    that the king command his daybreak-crowing cock to wake him.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 780-789
+  quote_or_summary: Anansi kills the cock at night, cooks it at Lizard’s house, plants
+    feathers and flesh there, and pours boiling water into Lizard’s mouth so he becomes
+    dumb.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 790-799
+  quote_or_summary: In the morning Anansi reproaches the king about the missing crow,
+    and after no thief is found he suggests that Lizard may have stolen the cock.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 800-806
+  quote_or_summary: Searchers find the cock remnants and feathers in Lizard’s house.
+    Lizard cannot reply and only moves his head, so he is brought before the king
+    and judged guilty.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 807-809
+  quote_or_summary: Lizard’s wives are taken and given to Anansi; the tale says lizards
+    have since moved their heads backward and forward as if warning against trusting
+    Anansi.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative sequence and etiological close are explicit. Some taxonomy mappings,
+    especially forbidden_knowledge, are approximate because the passage speaks of
+    secrecy rather than a formal prohibition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No historical-contact or inheritance claims are made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l722-l809
+  passage_sha256=28047a79849cfaf6ef051967ac60d30a9d2bda230fbc11e3bfaa316b6f79c59a
+

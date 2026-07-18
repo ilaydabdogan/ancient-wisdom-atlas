@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l1009-l1112
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: ARTS. / INDUSTRY. / POETRY AND MUSIC. / TRIBAL ORGANIZATION.; lines 1009-1112
+  start: '1009'
+  end: '1112'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ethnographic prose section on Navaho tribal organization: it discusses
+    the number and variation of Navaho gentes, reports that Tall Chanter named forty-three
+    gentes with two extinct, lists those names with translations, adds eight names
+    from other sources, and notes translation variability and people-signifying suffixes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tall Chanter's version of the Origin Legend is said to account for thirty-eight
+    gentes, while Tall Chanter was able to name forty-three gentes in all, including
+    two extinct gentes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lists of Navaho gentes from various sources are said to differ, especially
+    regarding small or extinct gentes and omitted names.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that if every obtained name represented a different organization,
+    at least fifty-one extant and extinct gentes would be counted, but it also notes
+    that one gens may have two names.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage raises the possibility that gentes derived from women of alien
+    races may exist in one part of Navaho country and be unknown elsewhere.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Tall Chanter's list includes many gentile names translated with landscape,
+    water, mountain, vegetation, rock, animal, or settlement terms.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:6
+  text: Some gentile names or translations identify neighboring or alien groups, including
+    Ute, Mexican, Zuñi, and Jemez references.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:7
+  text: 'Two Tall Chanter entries are explicitly marked extinct: ''Horizontal Water
+    under Cliffs'' and ''Water under the Sitting Frog.'''
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: obs:8
+  text: Eight additional names from other sources are presented as names not mentioned
+    by Tall Chanter.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage notes that multiple translations and different origin explanations
+    for gentile names are often found; it also states that suffixes meaning 'people'
+    are omitted from the translations in the list.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tall Chanter
+  description: Informant whose version of the Origin Legend is discussed and who named
+    forty-three Navaho gentes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Navahoes / Navaho tribe
+  description: The tribal collective whose gentes and gentile names are discussed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Navaho gentes
+  description: Named social organizations within the Navaho tribe; the passage discusses
+    their number, variant names, extinction status, and translations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: women of alien races
+  description: Women described hypothetically as possible sources from which some
+    gentes may have been derived and added to the tribe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: informant and list source
+  assigned_to:
+  - fig:1
+  basis: Tall Chanter's Origin Legend version and his list of forty-three gentes are
+    cited as source material.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: tribal collective organized by gentes
+  assigned_to:
+  - fig:2
+  basis: The passage treats the Navahoes as the tribe containing the named gentes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: named social divisions
+  assigned_to:
+  - fig:3
+  basis: The gentes are counted, compared across lists, translated, and described
+    as organizations, with some extant and some extinct.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: possible external maternal source of gentes
+  assigned_to:
+  - fig:4
+  basis: The passage suggests gentes derived from women of alien races may have been
+    added to the tribe.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water as gentile-name element
+  literal_form: Names translated with water terms, including Among the Waters, Beside
+    the Water, Junction of the Rivers, Bitter Water, Saline Water, Great Water, and
+    Water under the Sitting Frog.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: sym:2
+  label: mountain as gentile-name element
+  literal_form: Names translated as Encircled Mountain, Base of the Mountain, and
+    Brow of Mountain.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: tree and vegetation as gentile-name elements
+  literal_form: Names translated with vegetation terms, including Black Horizontal
+    Forest, Willows, Lone Tree, Reeds, Much Yucca, and Sage-brush Hill.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: rock, cliff, canyon, and gorge as gentile-name elements
+  literal_form: Names translated with rock or landform terms, including House of the
+    Black Cliffs, Bend in a Cañon, Trap Dyke, Overhanging Rocks, Narrow Gorge, Among
+    the Rocks, Rocky Pass, and Rocks Standing near One Another.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: animal and coyote as gentile-name elements
+  literal_form: Names translated with animal or coyote terms, including Coyote Spring,
+    Coyote Pass, Deer Spring, Many Goats, and Water under the Sitting Frog.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Discussion of list variation and possible incompleteness
+  summary: The passage discusses Tall Chanter's count of gentes, the disagreement
+    among lists, possible double names for a gens, and the possibility that some gentes
+    are unknown or forgotten in different regions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tall Chanter's list of forty-three gentes
+  summary: The passage presents Tall Chanter's forty-three gentile names with translations,
+    including many names based on water, mountains, vegetation, rocks, animals, places,
+    colors, and some neighboring-group labels; two entries are marked extinct.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:3
+  label: Additional names and translation notes
+  summary: The passage gives eight further names from other sources, then explains
+    that translations and origin accounts can differ and that suffixes meaning 'people'
+    are omitted in the English translations.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: tribal organization through named gentes
+  taxonomy_refs: []
+  basis: The section defines Navaho tribal organization by enumerating gentes, comparing
+    counts, and listing gentile names from Tall Chanter and other sources.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic classification passage rather than a narrative
+    myth episode.
+- id: motif:2
+  label: landscape-based gentile naming
+  taxonomy_refs: []
+  basis: Many gentile names are translated through place and natural-feature terms
+    such as cliffs, canyons, mountains, waters, springs, forests, rocks, gorges, and
+    reeds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage notes that translations may vary and can be liberal or brief.
+- id: motif:3
+  label: variant and double names for a social group
+  taxonomy_refs: []
+  basis: The passage says no two lists are quite alike, that one gens can have two
+    names, and that gentile names may have more than one translation or origin explanation.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage refers to examples elsewhere for double names; it does not
+    resolve all variants in this line range.
+- id: motif:4
+  label: incorporation of alien-derived gentes through women
+  taxonomy_refs: []
+  basis: The passage proposes that gentes derived from women of alien races may have
+    been added to the tribe and may be known in one region but not another.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is explicitly framed as a possibility, not as a demonstrated origin
+    for a specific named gens in the passage.
+- id: motif:5
+  label: extinct or remembered gentes in collective memory
+  taxonomy_refs: []
+  basis: Two gentes are said to be extinct; the passage also says extinct gentes may
+    be forgotten by one informant and remembered by another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a pattern of ethnographic memory and list preservation, not a
+    narrative of extinction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1009-1019; paragraph 57
+  quote_or_summary: Tall Chanter's version accounts for thirty-eight gentes; he named
+    forty-three in all, two extinct. Lists from various sources differ, and the passage
+    notes that one gens may have two names.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1020-1026; paragraph 58
+  quote_or_summary: The passage says no list may be complete; gentes derived from
+    women of alien races may exist in one region and be unknown elsewhere, and extinct
+    gentes may be forgotten by one informant and remembered by another.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 1028-1096; paragraph 59
+  quote_or_summary: Tall Chanter's list gives forty-three gentile names and translations,
+    including place and natural-feature names; entries 38 and 43 are marked extinct.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1098-1108; paragraph 60
+  quote_or_summary: 'Eight names from other sources, not mentioned by Tall Chanter,
+    are listed: Narrow Gorge, Monocline, Beads, Living Arrows, Among the Rocks, Reeds,
+    Rocky Pass, and Many Huts.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1110-1112; paragraph 61
+  quote_or_summary: The passage notes that gentile names often have more than one
+    translation and differing origin explanations; suffixes diné`, ni, or i may mean
+    'people,' but 'people' is omitted from the English translations.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: quote
+  locator: lines 1044-1096; paragraph 59
+  quote_or_summary: Water-name examples include 'Among the Waters,' 'Beside the Water,'
+    'Junction of the Rivers,' 'Bitter Water,' 'Saline Water,' and 'Great Water.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:7
+  type: quote
+  locator: lines 1035-1095; paragraph 59
+  quote_or_summary: Mountain-name examples include 'Encircled Mountain,' 'Base of
+    the Mountain,' and 'Brow of Mountain.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:8
+  type: quote
+  locator: lines 1038-1105; paragraphs 59-60
+  quote_or_summary: Vegetation-name examples include 'Black Horizontal Forest,' 'Willows,'
+    'Lone Tree,' and 'Reeds.'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:9
+  type: quote
+  locator: lines 1070-1096; paragraph 59
+  quote_or_summary: Animal-name examples include 'Coyote Spring,' 'Deer Spring,' 'Many
+    Goats,' and 'Water under the Sitting Frog'; another listed name is 'Coyote Pass
+    (Jemez).'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:10
+  type: quote
+  locator: lines 1057-1089; paragraph 59
+  quote_or_summary: Neighboring or alien labels include 'Ute,' 'White Stranger (Mexican),'
+    'Black Horizontal Stripe Aliens (Zuñi),' and 'Coyote Pass (Jemez).'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is non-narrative ethnographic prose. Extracted symbols are literal
+    gentile-name elements, not inferred sacred symbols. No cross-tradition comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available motif-family taxonomy reference was assigned because the passage does not present a narrative myth motif from the supplied taxonomy.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l1009-l1112
+  passage_sha256=240dbc2fc3d33c47bf39991ced5fb5ce5b3c0fecb509d068d9a8d7b0b2c3d9c0
+

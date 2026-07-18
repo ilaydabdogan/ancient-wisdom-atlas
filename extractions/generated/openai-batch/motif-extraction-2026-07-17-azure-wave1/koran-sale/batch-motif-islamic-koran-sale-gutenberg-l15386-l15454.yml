@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l15386-l15454
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER V. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VI. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 15386-15454
+  start: '15386'
+  end: '15454'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage commands avoidance of outward and inward iniquity and of food
+    over which God's name has not been commemorated; contrasts one restored to life
+    and given light with one in darkness; describes wicked leaders, demands for revelation,
+    divine selection of messengers, and divine opening or constriction of the breast;
+    promises a dwelling of peace to the obedient; and depicts a day when God gathers
+    genii and mankind, hears their acknowledgment of mutual dealings, and assigns
+    Hell fire as habitation except as God pleases to mitigate.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage instructs hearers to leave both the outside and the inside of
+    iniquity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage forbids eating that over which the name of God has not been commemorated
+    and calls such conduct wickedness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Devils are said to suggest to their friends that they dispute concerning the
+    food precept.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: obs:4
+  text: A rhetorical contrast is made between one who was dead, restored to life,
+    and given a light for walking among men, and one whose likeness is in darkness
+    from which he will not come forth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Chief leaders of wicked men are described as being placed in every city to
+    act deceitfully, though their deceit is said to turn against their own souls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When a sign comes, some say they will not believe unless they receive a revelation
+    like that delivered to God's messengers.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:7
+  text: God is said to know best whom he will appoint as messenger.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:8
+  text: For whomever God pleases to direct, he opens the breast to receive Islam;
+    for whomever he pleases to lead into error, he makes the breast straight and narrow
+    as though climbing up to heaven.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:9
+  text: Those who follow the right way are promised a dwelling of peace with their
+    Lord, who is their patron because of what they have done.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: On a day of gathering, God addresses the company of genii, and human friends
+    of the genii speak of mutual advantage and their arrival at an appointed term.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: obs:11
+  text: God declares Hell fire to be the habitation of the addressed parties, where
+    they remain forever unless God pleases to mitigate their pains.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: GOD / LORD
+  description: The divine speaker and actor who commands, directs or leads into error,
+    appoints messengers, gathers all together, judges, and may mitigate pains.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Those who commit iniquity / infidels / wicked men
+  description: People described as committing iniquity, doing unbelieving or wicked
+    acts, dealing deceitfully, and facing punishment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Devils / company of genii
+  description: Beings described as suggesting disputes to their friends and later
+    addressed by God as a company of genii; a note identifies them as devils.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Friends from among mankind
+  description: Human associates of the genii who say that one side received advantage
+    from the other and that they have reached the appointed term.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: Messengers of GOD
+  description: Recipients of divine revelation mentioned in the demand that a revelation
+    be brought like that delivered to God's messengers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:6
+  name_or_label: One restored to life and given light
+  description: 'A figure in a rhetorical comparison: formerly dead, restored to life,
+    and given a light by which to walk among men.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: One in darkness
+  description: A figure in the same rhetorical comparison, described as in darkness
+    from which he shall not come forth.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Chief leaders of the wicked in every city
+  description: Leaders placed in every city among wicked men, described as acting
+    deceitfully.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: God gathers genii and mankind, hears their speech, and declares Hell fire
+    to be their habitation while retaining power to mitigate.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: divine guide and appointer
+  assigned_to:
+  - fig:1
+  basis: God opens the breast of whomever he directs and knows whom he will appoint
+    as messenger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:3
+  label: wicked or unbelieving recipients of warning
+  assigned_to:
+  - fig:2
+  basis: Those who commit iniquity and those who deal wickedly are warned of reward
+    or grievous punishment.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: tempters or disputing influences
+  assigned_to:
+  - fig:3
+  basis: Devils are said to suggest arguments to their friends; the note glosses the
+    genii as devils involved in tempting and seducing mankind.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:5
+  label: human associates of genii
+  assigned_to:
+  - fig:4
+  basis: The passage calls them friends from among mankind and gives them speech acknowledging
+    mutual advantage with the genii.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:6
+  label: recipients of revelation
+  assigned_to:
+  - fig:5
+  basis: The passage refers to revelation delivered to the messengers of God.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: illumined restored figure
+  assigned_to:
+  - fig:6
+  basis: The figure is described as dead, restored to life, and given light for walking
+    among men.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: darkened contrasting figure
+  assigned_to:
+  - fig:7
+  basis: The figure is described as being in darkness and not coming forth from it.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: deceitful civic leaders
+  assigned_to:
+  - fig:8
+  basis: The passage says chief leaders of wicked men in every city act deceitfully.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: commemorated divine name over food
+  literal_form: Food or slaughtered matter over which the name of God has or has not
+    been commemorated.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: light for walking among men
+  literal_form: A light ordained for one restored to life, by which he may walk among
+    men.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: darkness without emergence
+  literal_form: Darkness from which the compared figure shall not come forth.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: opened breast
+  literal_form: The breast opened to receive the faith of Islam.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: straight and narrow breast while climbing heavenward
+  literal_form: A breast rendered straight and narrow, compared to someone climbing
+    up to heaven.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:6
+  label: dwelling of peace
+  literal_form: A dwelling of peace with the Lord.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Hell fire
+  literal_form: Hell fire declared as a habitation, with possible mitigation at God's
+    pleasure.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: Commands about iniquity, food, and disputation
+  summary: The passage orders avoidance of outward and inward iniquity, forbids eating
+    that over which God's name has not been commemorated, and warns that devils prompt
+    their friends to dispute the precept.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contrast of life-light and darkness
+  summary: A rhetorical comparison contrasts a figure restored from death and given
+    light for walking among men with a figure in darkness who does not come forth.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wicked leaders and demanded revelation
+  summary: Wicked leaders in cities act deceitfully, and when a sign arrives, some
+    demand revelation like that given to God's messengers; God is said to know whom
+    to appoint.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: scene:4
+  label: Guidance, constriction, and the right way
+  summary: God opens the breast of whomever he directs to receive Islam and narrows
+    the breast of whomever he leads into error, with an image of climbing toward heaven;
+    the passage then declares the right way and promises a dwelling of peace.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Gathering and judgment of genii and mankind
+  summary: On the day of gathering, God addresses the company of genii; human associates
+    acknowledge mutual advantage and an appointed term; God declares Hell fire as
+    habitation unless he pleases to mitigate.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine judgment at an eschatological gathering
+  taxonomy_refs:
+  - divine_judgment
+  basis: God gathers genii and mankind, receives their acknowledgment of mutual dealings
+    and appointed term, and assigns Hell fire as habitation while retaining discretion
+    to mitigate.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage is doctrinal and admonitory rather than a narrative episode
+    with a developed journey through the afterlife.
+- id: motif:2
+  label: resurrection or restoration from death image
+  taxonomy_refs:
+  - resurrection
+  basis: The passage speaks of one who had been dead and whom God restored to life,
+    and a note identifies the appointed term in the judgment scene as the day of resurrection.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The first instance appears within a rhetorical contrast and may function
+    as a moral or spiritual image rather than a literal narrative resurrection.
+- id: motif:3
+  label: light and darkness moral contrast
+  taxonomy_refs:
+  - duality
+  basis: The restored figure receives light for walking among men, while the contrasted
+    figure remains in darkness and does not come forth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage gives a concise rhetorical
+    contrast rather than an extended dualistic cosmology.
+- id: motif:4
+  label: difficult or impossible heavenward ascent image
+  taxonomy_refs:
+  - ascent
+  basis: The constricted breast of one led into error is compared to a person climbing
+    up to heaven; the note glosses this as undertaking an impossible thing.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: low
+  cautions: This is a simile of constriction and impossibility, not an ascent narrative
+    or successful heavenly journey.
+- id: motif:5
+  label: divine guidance and the right way
+  taxonomy_refs:
+  - wisdom
+  basis: The passage declares God's right way, says signs have been plainly declared
+    to people who consider, and describes divine opening of the breast to receive
+    faith.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy label 'wisdom' is approximate; the passage emphasizes
+    guidance, signs, and faith rather than wisdom as a personified or narrative figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15386-15390
+  quote_or_summary: "“Leave both the outside of iniquity and inside thereof”; do not
+    eat what lacks commemoration of God's name; devils suggest disputation to their
+    friends."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:2
+  type: quote
+  locator: 15391-15394
+  quote_or_summary: "“Shall he who hath been dead, and whom we have restored unto
+    life ... ordained a light ... be as he whose similitude is in darkness?”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:3
+  type: summary
+  locator: 15395-15402
+  quote_or_summary: God places chief leaders of wicked men in every city; they act
+    deceitfully against their own souls; when a sign comes, some demand revelation
+    like that given to God's messengers; punishment is threatened.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:4
+  type: quote
+  locator: 15403-15408
+  quote_or_summary: God opens the breast of one he directs and makes another's breast
+    “straight and narrow, as though he were climbing up to heaven”; the passage declares
+    the right way and signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:5
+  type: summary
+  locator: 15409-15410
+  quote_or_summary: The obedient are promised a dwelling of peace with their Lord,
+    who is their patron because of what they have wrought.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:6
+  type: summary
+  locator: 15411-15417
+  quote_or_summary: On the day God gathers all together, he addresses the company
+    of genii; human friends from mankind say that each side received advantage from
+    the other and that they have reached the appointed term.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:7
+  type: quote
+  locator: 15417-15420
+  quote_or_summary: "“Hell fire shall be your habitation, therein shall ye remain
+    forever; unless as GOD shall please to mitigate your pains.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:8
+  type: summary
+  locator: 15421-15439
+  quote_or_summary: Translator notes explain outside and inside iniquity as open and
+    secret sins; identify the sign as a Qur'an passage; report the Quraysh demand
+    for revelation; and gloss the narrow-breast/heaven image as undertaking an impossible
+    thing.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:9
+  type: summary
+  locator: 15440-15454
+  quote_or_summary: Translator notes gloss the genii as devils, describe their tempting
+    and mutual advantage with mankind, identify the appointed term as the day of resurrection,
+    and report interpretations of mitigation of punishment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage and notes. Motif assignments
+    are cautious where the passage uses simile or doctrinal language rather than extended
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added because the passage itself does not explicitly compare this material to another tradition or corpus.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l15386-l15454
+  passage_sha256=4c79c8c9c0cd2e08524160bb7b54f8a40654a512502d92d1d1feacfb92c3c7d9
+

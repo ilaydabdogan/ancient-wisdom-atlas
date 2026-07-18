@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l4681-l4710
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XIX. The Birth Of The Princes. / Canto XXIV. The Spells. / Canto XXV.
+    The Hermitage Of Love. / Canto XXIX. The Celestial Arms.; lines 4681-4710
+  start: '4681'
+  end: '4710'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After personified arms pay reverence to Ráma and fly away, Ráma asks a
+    holy sage about a pleasant wood and hermitage near a mountain. He notes deer,
+    birds, and altars, says giants impede the sage's sacrifice and holy rites, and
+    declares that he will guard them and slay the giants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group described as the arms bends low to Ráma, circles him in reverence,
+    answers yes to his command, and departs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the arms fly homeward, the prince begins to question a holy man while
+    walking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ráma sees a cloudlike wood near a mountain side, with deer in its glades and
+    birds singing on its sprays.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ráma contrasts the pleasant land with a hideous wild that is now past.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ráma asks the sage whose pleasant hermitage and land these are.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Ráma says wicked ones or giants mar holy rites, impede the sage's sacrifice,
+    and would stay the rites.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Ráma says it is his role to guard the altars or rites and to slay the giants.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ráma asks to learn the matter from the sage's own lips.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: The prince who receives reverence from the arms, questions the holy
+    man, and declares that he will guard the rites and slay the giants.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the arms
+  description: Personified arms that bow to Ráma, circle him reverently, answer his
+    command, depart, and fly homeward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: holy man / Sage / great Saint
+  description: The holy man addressed by Ráma; his sacrifice and altars are mentioned,
+    and Ráma asks him for knowledge about the place.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: wicked ones / giants
+  description: Hostile beings said to mar and kill holy rites, impede the sage's sacrifice,
+    and attempt to stop the rites.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: prince and questioner
+  assigned_to:
+  - fig:1
+  basis: The passage calls Ráma the prince and says he began to question the holy
+    man.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: commander receiving reverence
+  assigned_to:
+  - fig:1
+  basis: The arms bow to Ráma, circle him in reverence, and answer yes to his command.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: protector of rites
+  assigned_to:
+  - fig:1
+  basis: Ráma says it is his task to guard the altars or rites and slay the giants
+    who would stop them.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: obedient personified arms
+  assigned_to:
+  - fig:2
+  basis: The arms act as animate beings by bowing, circling, answering a command,
+    departing, and flying homeward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: holy sage and sacrificer
+  assigned_to:
+  - fig:3
+  basis: Ráma addresses him as holy Sage and great Saint, and refers to his sacrifice
+    and ready altars.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: rite-obstructing giants
+  assigned_to:
+  - fig:4
+  basis: The wicked ones or giants are said to mar holy rites, impede the sacrifice,
+    and stay the rites.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: personified arms
+  literal_form: Arms that bow, circle Ráma, answer his command, and fly homeward.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mountain side
+  literal_form: The mountain's side near which the cloudlike wood appears.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: pleasant wood and hermitage
+  literal_form: A cloudlike wood with glades, deer, birds, and a pleasant hermitage.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: altars, sacrifice, and holy rites
+  literal_form: Ready altars, a sacrifice, and holy rites that are threatened by giants.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: The arms salute Ráma and depart
+  summary: The arms bow to Ráma, circle him in reverence, answer his command, go away,
+    and are then described as flying homeward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ráma asks about the pleasant hermitage landscape
+  summary: While walking with the holy man, Ráma asks about a cloudlike wood near
+    a mountain, a pleasant land, and a hermitage filled with natural beauty.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Threatened rites and vowed protection
+  summary: Ráma identifies the sacrifice, altars, and holy rites as threatened by
+    wicked giants and declares that he will guard them and slay the obstructors.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Personified weapons acknowledge the hero's command
+  taxonomy_refs: []
+  basis: The arms behave as animate attendants by bowing to Ráma, circling him reverently,
+    answering his command, and flying homeward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the origin or acquisition of the arms; it
+    only shows their obedience and departure.
+- id: motif:2
+  label: Heroic protection of sacrifice from hostile giants
+  taxonomy_refs:
+  - sacrifice
+  basis: Ráma says the giants impede the sage's sacrifice and holy rites, and he declares
+    that he will guard the altars or rites and slay the giants.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The actual battle or protection has not yet occurred within this line
+    range.
+- id: motif:3
+  label: Passage from dangerous wild to pleasant sacred hermitage
+  taxonomy_refs: []
+  basis: Ráma notes that the hideous wild is past and that he now sees a fair land,
+    a cloudlike wood, and a pleasant hermitage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The sacred character of the place is inferred from the hermitage, altars,
+    and sacrifice; the landscape transition is described, but not explicitly named
+    as a ritual threshold.
+- id: motif:4
+  label: Seeking knowledge from a holy sage
+  taxonomy_refs:
+  - wisdom
+  basis: Ráma repeatedly asks the holy sage to tell him about the land, hermitage,
+    and rites, and says he longs to learn from the sage's own lips.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage contains the request for instruction but not the sage's answer.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4681-4684
+  quote_or_summary: The arms bow low to Ráma, go around him reverently, answer yes
+    to his command, and depart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4685-4688
+  quote_or_summary: After the arms fly homeward, the prince begins to question the
+    holy man as they walk.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4689-4698
+  quote_or_summary: Ráma asks about a cloudlike wood near a mountain side, says it
+    charms him, notes deer and birds, and says the hideous wild is past and the land
+    is fair.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4699-4704
+  quote_or_summary: Ráma asks whose pleasant hermitage it is and says wicked ones
+    mar and kill holy rites and impede the sage's sacrifice.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4705-4708
+  quote_or_summary: Ráma asks to whom the land and ready altars belong, and says he
+    will guard them and slay the giants who would stop the rites.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4709-4710
+  quote_or_summary: Ráma says he burns to learn all this from the sage's own lips.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif candidates
+    are conservative and passage-level; no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to provided available taxonomy items when directly supported.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l4681-l4710
+  passage_sha256=d024bae842a9efbe072f29d7da50a26f071447061ee70de375b1e85302221167
+

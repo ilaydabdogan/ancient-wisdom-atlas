@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9932-l10012
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE OWL AND THE RAVEN. / COMPARISON BETWEEN BAFFIN LAND TRADITIONS AND THOSE
+    OF OTHER TRIBES. / SCIENCE AND THE ARTS. / GEOGRAPHY AND NAVIGATION.; lines 9932-10012
+  start: '9932'
+  end: '10012'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Eskimo geographical knowledge, directional terminology,
+    navigation by celestial and environmental signs, named constellations, snow-map
+    and chart making, lunar calendar reckoning, and drawing, carving, and implement
+    engraving practices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Eskimo are described as having detailed geographical knowledge, including
+    distances reckoned by day journeys or sleeps and directions by cardinal points.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Directional names are associated with weather or winds, and the passage lists
+    regional directional terms for Cumberland Sound, Nettilling, Akudnirn, and Iglulik.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: In clear weather, steering uses the sun, dawn, moon, and stars; in thick weather
+    it uses wind; in calm weather travel stops; after gales, snowdrift direction is
+    observed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: 'The passage names several constellations distinguished by the Eskimo: Tuktuqdjung
+    as the deer or Ursa Major, Sakietaun as the Pleiades, and Udleqdjun as Orion''s
+    belt.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: For travel to a less familiar country, a knowledgeable person may draw a map
+    in the snow for the traveler.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The map-drawing method begins with well-known relative points, may use a hilltop
+    view, and then adds details.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Eskimo charts are described as accurate enough to compare with maps; one chart
+    represents a distance of about five hundred miles.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The calendar divides the year into thirteen months and occasionally omits
+    the month called siringilang, associated with the period without sunrise.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Days of the month are designated by the moon's age, while years are not reckoned
+    for more than two years backward or forward.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage describes drawings, carvings, animal representations, tale illustrations,
+    artistic implements, and implement engravings showing European pattern influence.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Eskimo groups described in the passage
+  description: The people described as possessing geographical knowledge, navigating,
+    drawing charts, reckoning a calendar, and making drawings, carvings, and implements.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Traveler to a little-known country
+  description: An unnamed man who intends to visit a country little known to him and
+    receives a map drawn in snow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Well-acquainted map drawer
+  description: A person familiar with a place who draws a snow map for another traveler
+    and marks known points before adding details.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: geographical knowledge holder
+  assigned_to:
+  - fig:1
+  basis: The passage says the Eskimo know their country, distances, directions, and
+    countries seen or heard of.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: navigator or traveler
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes steering by celestial signs, wind, and snowdrifts,
+    and describes a traveler preparing to visit an unfamiliar country.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: map maker or draftsman
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes Eskimo as skillful draftsmen who draw charts and snow
+    maps by placing known points and details.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: calendar reckoner
+  assigned_to:
+  - fig:1
+  basis: The passage describes a thirteen-month calendar, lunar day reckoning, and
+    omission of a month in some years.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: artist or carver
+  assigned_to:
+  - fig:1
+  basis: The passage describes Eskimo as excellent draftsmen and carvers, with animal
+    drawings, carvings, and artistic implements.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: directional wind names
+  literal_form: Cardinal and wind-associated direction terms, including piningnang,
+    uangnang, qaningnang, qanara, nigirn, aqsardnirn, ikirtsuq, oqurtsuq, and avangnanirn.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: celestial steering markers
+  literal_form: Sun, dawn, moon, and stars used for steering in clear weather.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: wind and snowdrift guides
+  literal_form: Wind used for steering in thick weather and snowdrifts observed after
+    a gale.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: named constellations
+  literal_form: Tuktuqdjung, the deer or Ursa Major; Sakietaun, the Pleiades; Udleqdjun,
+    Orion's belt.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: snow map and chart
+  literal_form: Map drawn in snow for travel; charts of Cumberland Sound and Davis
+    Strait.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: hilltop vantage and fixed points
+  literal_form: Standing on a hill to look around and placing well-known points before
+    filling in map details.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: thirteen-month lunar calendar
+  literal_form: A year divided into thirteen months, with days designated by the age
+    of the moon.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: month without sun
+  literal_form: Siringilang, the indefinite period when the sun does not rise; qaumartenga
+    and siriniktenga as named portions of the same moon.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: animal and implement images
+  literal_form: Drawings of bear and deer, Qaudjaqdjuq tale illustrations, carvings
+    of narwhal and whale, and artistic implements.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: European patterns
+  literal_form: European patterns influencing implement engravings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Regional naming of directions
+  summary: The passage describes geographical knowledge and directional names tied
+    to winds and weather, with regional variants and reported Iglulik similarity to
+    Cumberland Sound.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Steering by sky and weather
+  summary: The passage describes navigation by celestial positions in clear weather,
+    wind in thick weather, suspension of travel in calm weather, and snowdrift observation
+    after gales.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Snow-map preparation for travel
+  summary: A traveler to a little-known country receives a snow map from someone familiar
+    with the place; the map maker marks known points, may use a hilltop view, and
+    adds details.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Calendar reckoning
+  summary: The passage describes a thirteen-month calendar, omission of the sunless
+    month in some years, naming of dark-season periods, lunar age day reckoning, and
+    short-range year reckoning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Drawing, carving, and patterned implements
+  summary: The passage describes drawings, carvings, animal images, tale illustrations,
+    artistic implements, and implement engravings influenced by European patterns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: geographical and navigational wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes detailed knowledge of geography, distances, directions,
+    environmental steering signs, and chart making.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage is ethnographic description rather than a myth narrative;
+    the taxonomy reference is applied only as a broad knowledge pattern.
+- id: motif:2
+  label: celestial and environmental wayfinding
+  taxonomy_refs: []
+  basis: Navigation uses the sun, dawn, moon, stars, wind, and snowdrift direction
+    under different weather conditions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is described as practical navigation, not as a symbolic or mythic
+    journey episode.
+- id: motif:3
+  label: ephemeral map drawn in snow before travel
+  taxonomy_refs: []
+  basis: A knowledgeable person draws a snow map for someone intending to visit a
+    less familiar country, using known points and added details.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No mythic departure or quest is narrated; this is a travel-preparation
+    practice.
+- id: motif:4
+  label: lunar seasonal cycle and sunless month
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The year is divided into thirteen months, days are counted by the moon's
+    age, and the sunless month may be omitted when the new moon and winter solstice
+    coincide.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage presents calendrical reckoning, not a seasonal myth.
+- id: motif:5
+  label: animal representation and implement art
+  taxonomy_refs: []
+  basis: The passage describes drawings of bear and deer, tale illustrations, carvings
+    of narwhal and whale, artistic implements, and engraved patterns.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is an art-practice pattern; no narrative interpretation is supplied
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports linguistic similarity in directional names between Cumberland
+    Sound and Iglulik, while also giving regional variants for Nettilling and Akudnirn.
+  claim_level: linguistic_similarity
+  target: Directional and wind-name terminology in Cumberland Sound, Iglulik, Nettilling,
+    and Akudnirn
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Iglulik comparison is attributed to Parry, and the passage does
+    not explain historical causes for the similarities or differences.
+- id: claim:2
+  claim: Eskimo-drawn charts are presented as having the same mapping function as
+    maps and as accurate enough for comparison with them.
+  claim_level: same_function
+  target: Eskimo snow maps and charts compared with maps
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim reflects the passage's evaluation; it gives limited quantitative
+    detail beyond the stated span of one chart.
+- id: claim:3
+  claim: The passage states that some implement engravings show influence from European
+    patterns.
+  claim_level: historical_contact
+  target: European patterns in implement engravings
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not identify specific European sources, dates, or
+    transmission mechanisms.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9932-10012; opening geography paragraph
+  quote_or_summary: The Eskimo are described as knowing their country, countries seen
+    or heard of, distances by day's journeys or sleeps, and directions by cardinal
+    points.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:2
+  type: summary
+  locator: lines 9932-10012; directional terminology paragraph
+  quote_or_summary: True south is called piningnang; other directions are named according
+    to prevailing weather or winds, with terms listed for Cumberland Sound, Nettilling,
+    and Akudnirn.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:3
+  type: summary
+  locator: lines 9932-10012; end of directional terminology paragraph
+  quote_or_summary: The passage reports that, according to Parry, the same directional
+    names as in Cumberland Sound are used in Iglulik.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:4
+  type: summary
+  locator: lines 9932-10012; navigation paragraph
+  quote_or_summary: In clear weather the Eskimo steer by the sun, dawn, moon, and
+    stars; in thick weather by wind; in calm weather they do not travel; after gales
+    they use snowdrift direction.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:5
+  type: summary
+  locator: lines 9932-10012; constellations paragraph
+  quote_or_summary: 'The passage lists important constellations: Tuktuqdjung, the
+    deer or Ursa Major; Sakietaun, the Pleiades; and Udleqdjun, Orion''s belt.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:6
+  type: summary
+  locator: lines 9932-10012; chart and snow-map paragraph
+  quote_or_summary: A traveler may have a map drawn in the snow by someone who knows
+    the country; the method begins with known points, often checked from a hill, and
+    then adds details.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:7
+  type: summary
+  locator: lines 9932-10012; chart accuracy paragraph
+  quote_or_summary: The passage says Eskimo charts can be compared with maps to prove
+    correctness, notes possible enlargement of the draftsman's own country, and states
+    one chart covers about five hundred miles.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:8
+  type: summary
+  locator: lines 9932-10012; calendar paragraph
+  quote_or_summary: The calendar has thirteen months; siringilang, the sunless month,
+    can be omitted when the new moon and winter solstice coincide; days are counted
+    by moon age and years only within a two-year range.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+- id: ev:9
+  type: summary
+  locator: lines 9932-10012; arts paragraph
+  quote_or_summary: The passage describes Eskimo as excellent draftsmen and carvers,
+    mentions bear and deer drawings, Qaudjaqdjuq tale illustrations, narwhal and whale
+    carvings, artistic implements, and engravings influenced by European patterns.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; supplied passage text permitted for use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography about navigation, calendrics, and
+    arts rather than a narrative myth episode; motif labels should be reviewed as
+    cultural-practice patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative figures, deities, or mythic episodes are present in the supplied passage; extraction emphasizes literal knowledge systems, symbols, and practice patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9932-l10012
+  passage_sha256=ce591b13b54655ff87076b8f005f5d62b79209865647902fd728d0ba8c44ca0c
+

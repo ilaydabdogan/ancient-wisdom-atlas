@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l643-l728
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: An Old Babylonian Version of the Gilgamesh Epic / Part III / PREFATORY NOTE
+    / INTRODUCTION.; lines 643-728
+  start: '643'
+  end: '728'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a philological and interpretive discussion of Enkidu's
+    name, possible Sumerian and Semitic etymologies, Enkidu's association with cattle,
+    gazelles, the cedar forest of Huwawa, and Amurru/the West. It then discusses the
+    old Babylonian form dGish in relation to later Gilgamesh forms, describing the
+    chief figure as a deified or partly divine hero and identifying him with the later-attested
+    Gilgamesh/Gilgamos.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Old Babylonian writing of Enkidu's name with the
+    sign du/dg is considered original and is etymologized as "Enki is good."
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says En-ki-dg may be a Sumerianized form of a Semitic phrase glossed
+    as "Baal is good."
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Enkidu is described as formerly living with cattle, eating herbs with gazelles,
+    and drinking from a trough with cattle.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Enkidu is associated with the cedar forest of Huwawa and with knowledge of
+    the way to the forest entrance.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage mentions a fight between Gilgamesh and Enkidu followed by reconciliation.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage describes dGish/Gish as the chief personage of the epic and says
+    the divine determinative marks him as deified or partly divine.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage cites the Assyrian version's description of the hero as two-thirds
+    god and one-third human.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that later evidence establishes an old Babylonian hero
+    named Gilgamesh who was also a king.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: A named figure whose name is discussed philologically; he is recalled
+    as living with cattle, eating with gazelles, drinking with cattle, knowing or
+    entering the cedar forest of Huwawa, and later fighting and reconciling with Gilgamesh.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Gilgamesh / dGish / Gish / Gilgamos
+  description: The chief personage of the epic, described through the form dGish/Gish
+    as a deified or partly divine hero; later evidence identifies the figure with
+    Gilgamesh/Gilgamos and as an old Babylonian hero and king.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Huwawa
+  description: A named figure associated with the cedar forest and with Gilgamesh's
+    expedition against Huwawa in the Lebanon district.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Enki
+  description: A deity name element explained in the passage as a designation meaning
+    "lord of the land" and used in the proposed etymology of Enkidu's name.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: Animal-associated earlier-life figure
+  assigned_to:
+  - fig:1
+  basis: Enkidu is described as formerly living with cattle, eating herbs with gazelles,
+    and drinking with cattle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Forest-knower
+  assigned_to:
+  - fig:1
+  basis: The passage says Enkidu wandered into the cedar forest of Huwawa and was
+    acquainted with the way to the forest entrance.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Part-divine hero-god
+  assigned_to:
+  - fig:2
+  basis: The passage explains Gish as a hero designation marked with a divine determinative
+    and cites the description of the hero as two-thirds god and one-third human.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Hero-king
+  assigned_to:
+  - fig:2
+  basis: The passage states that an old Babylonian hero Gilgamesh who was likewise
+    a king is established.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Opponents who later reconcile
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage mentions a fight between Gilgamesh and Enkidu followed by subsequent
+    reconciliation.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Cedar-forest figure opposed by expedition
+  assigned_to:
+  - fig:3
+  basis: Huwawa is linked to the cedar forest, and the passage mentions Gilgamesh's
+    expedition against Huwawa of the Lebanon district.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: Name-element deity
+  assigned_to:
+  - fig:4
+  basis: Enki is treated as the deity element in the proposed name etymology "Enki
+    is good" and as a designation of a deity as "lord of the land."
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Cedar forest of Huwawa
+  literal_form: Cedar forest / entrance of the forest
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Gazelles and cattle
+  literal_form: Gazelles, cattle, and cattle trough
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Amurru / the West
+  literal_form: Amurru as a general designation of the West; Lebanon district
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Divine determinative
+  literal_form: Determinative for deity attached to dGish/Gish
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Enkidu's animal-associated earlier life and forest knowledge
+  summary: The passage recalls Enkidu's earlier period as living with cattle, eating
+    herbs with gazelles, drinking with cattle, and knowing or entering the cedar forest
+    of Huwawa.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Expedition against Huwawa in the Lebanon district
+  summary: The passage refers to Gilgamesh's expedition against Huwawa of the Lebanon
+    district and relates this to Amurru/the West.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Fight and reconciliation of Gilgamesh and Enkidu
+  summary: The passage mentions the fight between Gilgamesh and Enkidu and a subsequent
+    reconciliation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Identification of the partly divine hero
+  summary: The passage explains dGish/Gish as a descriptive hero designation marked
+    as divine and relates it to later forms of the name Gilgamesh.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal-associated wild companion
+  taxonomy_refs: []
+  basis: Enkidu is described in his earlier period as living with cattle, eating herbs
+    with gazelles, and drinking from a trough with cattle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is scholarly commentary and gives only brief quoted or summarized
+    references to the narrative episode.
+- id: motif:2
+  label: Knowledge of the remote cedar forest
+  taxonomy_refs: []
+  basis: Enkidu is said to have wandered into the cedar forest of Huwawa and to be
+    acquainted with the way to the forest entrance.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage uses the detail to discuss Enkidu's possible western origin
+    rather than to present a full narrative scene.
+- id: motif:3
+  label: Conflict followed by reconciliation
+  taxonomy_refs: []
+  basis: The passage explicitly mentions the fight between Gilgamesh and Enkidu and
+    their subsequent reconciliation.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage interprets the sequence historically; the extraction records
+    only the fight-reconciliation pattern stated in the passage.
+- id: motif:4
+  label: Part-divine hero
+  taxonomy_refs: []
+  basis: The passage describes the chief hero as deified or partly divine and quotes
+    the Assyrian version's formula that he is two-thirds god and one-third human.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference exactly matches the stated part-divine
+    hero pattern without adding unsupported assumptions.
+- id: motif:5
+  label: Hero-king identification
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage says later evidence establishes an old Babylonian hero Gilgamesh
+    who was likewise a king.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage establishes heroic kingship by philological and textual identification,
+    not by a mythic enthronement or legitimacy scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares the Sumerian-looking En-ki-dg form of Enkidu's
+    name with a possible Semitic phrase meaning "Baal is good."
+  claim_level: linguistic_similarity
+  target: Possible Semitic BA`L TZOB / "Baal is good" name formula
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: low
+  limitations: The author explicitly frames this as possible rather than proven and
+    says the writing does not by itself prove Sumerian origin.
+- id: claim:2
+  claim: The passage suggests that Gilgamesh's expedition against Huwawa in the Lebanon
+    district may recall a Babylonian campaign against Amurru.
+  claim_level: historical_contact
+  target: Babylonian campaign tradition involving Amurru/the West
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is speculative and phrased as a possible historical
+    memory rather than a demonstrated source relationship.
+- id: claim:3
+  claim: The passage suggests Enkidu's coming from an animal-associated western home
+    may rest on a tradition of an Amorite invasion of Babylonia.
+  claim_level: historical_contact
+  target: Amorite invasion tradition
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage presents this as an interpretive possibility; it is not
+    direct narrative evidence for historical migration.
+- id: claim:4
+  claim: The passage relates the Old Babylonian dGish/Gish form to the later Assyrian
+    and neo-Babylonian Gilgamesh name forms through philological evidence.
+  claim_level: linguistic_similarity
+  target: Assyrian dGish-gi(n)-mash and neo-Babylonian Gi-il-ga-mesh attestations
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a philological identification claim, not a direct motif parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 643-658
+  quote_or_summary: The passage treats the Old Babylonian spelling of Enkidu with
+    du/dg as original, gives the etymology "Enki is good," and warns against reading
+    the signs by Akkadian transliteration.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 659-668
+  quote_or_summary: The passage says the name could have been given a Sumerian aspect
+    and that En-ki-dg may be a Sumerianized form of a Semitic expression glossed as
+    "Baal is good."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized with short quoted phrase.
+- id: ev:3
+  type: summary
+  locator: lines 669-678
+  quote_or_summary: The passage recalls Enkidu in an earlier period living with cattle,
+    wandering into the cedar forest of Huwawa, and being acquainted with the way to
+    the forest entrance; this is said to point to the West.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 679-690
+  quote_or_summary: The passage links Gilgamesh's expedition against Huwawa of the
+    Lebanon district with Amurru, quotes Enkidu as eating herbs with gazelles and
+    drinking with cattle, and says the fight with Gilgamesh followed by reconciliation
+    may represent union between invaders and older settlers.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 691-708
+  quote_or_summary: The passage explains Gish as meaning man/great/hero, says the
+    deity determinative marks the person as deified or partly divine, and cites the
+    Assyrian description "Two-thirds god and one-third human."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized with short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 712-728
+  quote_or_summary: The passage discusses the later reading Gi-il-ga-mesh/Gilgamesh,
+    mentions Gilgamos and Syriac king-list forms, and states that an old Babylonian
+    hero Gilgamesh who was likewise a king is established.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily philological and interpretive commentary, not a
+    continuous mythic narrative. Motif extraction is therefore limited to narrative
+    details and comparative claims explicitly mentioned in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy IDs were added except the tentative royal_legitimacy reference where the passage explicitly identifies Gilgamesh as both hero and king.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l643-l728
+  passage_sha256=e97b040ff987156c57b1e1fe0f29cc9edece57231866fc6254f0ef617fe5e9d2
+

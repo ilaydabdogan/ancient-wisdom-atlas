@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l8850-l8922
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / HYNDLULJOTH / THE POEM OF HYNDLA / INTRODUCTORY NOTE; lines 8850-8922
+  start: '8850'
+  end: '8922'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: And all are thy kinsmen, Ottar, thou fool!
+  summary: A speaker recites a long genealogy to Ottar, naming royal and heroic families,
+    spouses, parents, children, siblings, warriors, destructive sons of Arngrim, sons
+    of Jormunrek given to the gods in death, and Sigurth as Fafnir's slayer and a
+    Volsung descendant.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage repeatedly states that named royal, noble, and heroic lines are
+    Ottar's kinsmen.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: obs:2
+  text: The speaker presents genealogical information through parents, spouses, children,
+    siblings, and descent lines.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: obs:3
+  text: The speaker twice frames the recitation as knowledge and asks whether Ottar
+    wishes to hear more.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Several named figures are described as heroes, fighters, or mighty men.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sons of Arngrim and Eyfura are said to have been born eastward in Bolm
+    and to have traveled with berserk-tumult and harmful deeds, like fire over land
+    and sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sons of Jormunrek are said to have been given to the gods in death as
+    offerings.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sigurth is called Jormunrek's kinsman, the foe of hosts, Fafnir's slayer,
+    and a hero sprung from Volsung's seed.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: Gunnar, Hogni, Guthrun, and Gotthorm are distinguished by sibling and lineage
+    relationships to Gjuki's race.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ottar
+  description: The addressed person whose kinship to the named lineages is repeatedly
+    asserted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Unnamed genealogical speaker
+  description: The speaking voice that addresses Ottar and recites the genealogy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Skjoldungs, Skilfings, Othlings, Ynglings, free-born, and high-born
+  description: Named groups and social ranks described as the noblest of men in Mithgarth
+    and as Ottar's kinsmen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Thora, Dag, and their heroic offspring
+  description: Thora is named as Dag's mate and mother of brave fighters, including
+    Frathmar, Gyrth, the two Frekis, Am, Jofurmar, and Alf the Old.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Heroes in the household of Hrolf the Old
+  description: Gunnar the Bulwark, Grim the Hardy, Thorir the Iron-shield, Ulf the
+    Gaper, Brodd, and Horvir are said to have been in Hrolf the Old's household.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Sons of Arngrim and Eyfura
+  description: A warrior group born eastward in Bolm, described as moving with berserk-tumult
+    and baleful deed like fire over land and sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sons of Jormunrek
+  description: A group said to have been given to the gods in death as offerings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Sigurth
+  description: Named as Jormunrek's kinsman, the foe of hosts, Fafnir's slayer, and
+    a hero from Volsung's seed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: Fafnir
+  description: Named as the being slain by Sigurth.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Gunnar, Hogni, Guthrun, and Gotthorm
+  description: Figures whose relationship to Gjuki's race and to one another is specified.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Harald Battle-tooth, Auth, Hrerek, Ivar, Rathbarth, and Randver
+  description: Figures in a later genealogical segment connecting birth, marriage,
+    and father-daughter relations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: addressee and kinship beneficiary
+  assigned_to:
+  - fig:1
+  basis: The repeated refrain states that the named persons and groups are Ottar's
+    kinsmen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: genealogical reciter
+  assigned_to:
+  - fig:2
+  basis: The speaking voice gives genealogical statements and asks whether more should
+    be heard.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: ancestral or kinship line
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:10
+  - fig:11
+  basis: These persons and groups are named within chains of descent, household, sibling,
+    spouse, or kinship relations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: destructive warrior group
+  assigned_to:
+  - fig:6
+  basis: The group is described as faring with berserk-tumult and baleful deed like
+    fire over land and sea.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: death offerings to gods
+  assigned_to:
+  - fig:7
+  basis: The group is explicitly said to have been given to the gods in death as offerings.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: heroic slayer and lineage figure
+  assigned_to:
+  - fig:8
+  basis: Sigurth is called a hero from Volsung's seed and Fafnir's slayer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: slain opponent
+  assigned_to:
+  - fig:9
+  basis: Fafnir appears only in the phrase naming Sigurth as Fafnir's slayer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire-like devastation
+  literal_form: "“Like fire oer land and sea” as an image for the movement of Arngrim's
+    sons"
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: genealogical line and seed
+  literal_form: "“Old is the line” and “Volsungs seed” as lineage images"
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: death offering to gods
+  literal_form: The sons of Jormunrek “to the gods in death were as offerings given”
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Genealogical recitation to Ottar
+  summary: The speaker lists royal, noble, and heroic families and repeatedly identifies
+    them as Ottar's kinsmen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Fire-like faring of Arngrim's sons
+  summary: The sons of Arngrim and Eyfura are described as born in Bolm and traveling
+    over land and sea with berserk-tumult and harmful deeds, compared to fire.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Jormunrek's sons as death offerings and Sigurth's lineage
+  summary: The sons of Jormunrek are described as offerings to the gods in death,
+    and Jormunrek is linked by kinship to Sigurth, Fafnir's slayer and Volsung descendant.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal and heroic legitimacy through genealogy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage repeatedly connects Ottar to royal, noble, and heroic descent
+    lines and closes many stanzas with the assertion that all are his kinsmen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives genealogy and kinship rather than an explicit political
+    claim of rule.
+- id: motif:2
+  label: genealogical wisdom recitation
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker presents extensive ancestral knowledge and explicitly frames
+    it as much to know, asking whether Ottar wants to hear more.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The wisdom is specifically genealogical in this excerpt.
+- id: motif:3
+  label: death sacrifice or offering to gods
+  taxonomy_refs:
+  - sacrifice
+  basis: The sons of Jormunrek are said to have been given to the gods in death as
+    offerings.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The excerpt gives no ritual sequence or reason for the offering.
+- id: motif:4
+  label: destructive warrior band likened to fire
+  taxonomy_refs: []
+  basis: The sons of Arngrim and Eyfura travel with berserk-tumult and baleful deed
+    and are compared to fire over land and sea.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The fire is a simile for warrior devastation, not an actual cosmic or
+    world-destroying fire in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8850-8864, stanzas 16-17
+  quote_or_summary: 'The speaker names Skjoldungs, Skilfings, Othlings, Ynglings,
+    free-born, high-born, and other kin, repeating: “And all are thy kinsmen, Ottar,
+    thou fool!”'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8865-8896, stanzas 18-23
+  quote_or_summary: The passage names Thora as Dag's mate and mother of fighters,
+    gives further kinship relations through Ketil, Klypp, Nanna, Isolf, Osolf, Hrolf's
+    household, and other heroes, and repeats that they are Ottar's kinsmen.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 8897-8902, stanza 24
+  quote_or_summary: The sons of Arngrim and Eyfura are born eastward in Bolm and fare
+    “With berserk-tumult and baleful deed / Like fire oer land and sea.”
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8903-8907, stanza 25
+  quote_or_summary: The sons of Jormunrek are said to have been given to the gods
+    in death as offerings; Jormunrek is called kinsman of Sigurth, who is named Fafnir's
+    slayer.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8908-8918, stanzas 26-27
+  quote_or_summary: Sigurth is said to spring from Volsung's seed; Hjordis, Eylimi,
+    Gunnar, Hogni, Guthrun, and Gotthorm are placed in named descent and sibling relations,
+    with the refrain that all are Ottar's kinsmen.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8919-8922, stanza 29
+  quote_or_summary: Harald Battle-tooth is born of Auth; Hrerek is her husband; Auth
+    is Ivar's daughter; Rathbarth is Randver's father; the stanza again identifies
+    these figures as Ottar's kinsmen.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is largely a direct genealogical catalogue. Motif assignments
+    for genealogy, wisdom, and sacrifice are well supported; broader interpretation
+    of the fire-like warrior band is more limited. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Names are retained as they appear in the supplied Bellows text, except no unsupported identification of Fafnir as a serpent or dragon is made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l8850-l8922
+  passage_sha256=ef88db28ea7eceb9193ce677c17de54052efb69b3a0dabc5eab20a41740de8aa
+

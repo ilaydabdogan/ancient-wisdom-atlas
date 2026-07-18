@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l5426-l5514
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS
+    / STORY OF SOHRB; lines 5426-5514
+  start: '5426'
+  end: '5514'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An insidious ruler sends forces and royal gifts to Sohrb while ordering
+    his chiefs to conceal Sohrb's relationship to Rustem, hoping father and son will
+    fight as enemies. Sohrb accepts the embassy, marches toward Persia, and at a barrier-fort
+    defeats Hujr in single combat, sparing his life but sending him bound to Hmn.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The insidious King sees an opportune moment against Persian power, selects
+    twelve thousand veterans, and assigns command to Hmn and Brmn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King orders his chiefs to keep secret that the youth should know his father,
+    intending father and son to confront each other as foes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The King's stated plan includes removing Rustem, gaining the Persian throne,
+    then ensnaring Sohrb, or else causing Rustem grief if Sohrb is slain by Rustem.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The tutored chiefs bring Sohrb imperial presents: ten loaded camels, ten
+    steeds, a golden crown, a jeweled throne, and a letter promising military aid
+    and a kingly crown.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sohrb surveys the royal gifts, salutes the chiefs, observes the armed ranks,
+    and begins a march toward Persia with drums sounding.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A barrier-fort with trained Persian defenders stands in the path of the invasion.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hujr leaves the fort armed in mail with shield and spear and challenges the
+    invading force; Sohrb replies by questioning his courage for coming alone.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hujr declares enmity toward a Turk and threatens to behead his opponent and
+    expose his limbs to vultures or the weather.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: In the duel, both combatants cast spears; Hujr's lance fails to wound Sohrb,
+    while Sohrb's spear strikes Hujr and makes him stagger.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Sohrb throws Hujr to the plain, stands on his chest with a Khunjer ready to
+    strike, stays the blow when Hujr begs for life, and sends him bound to Hmn.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: insidious King / crafty tyrant
+  description: A ruler who selects troops, commands secrecy, sends gifts and a letter,
+    and schemes to use Sohrb against Rustem and Persia.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hmn
+  description: One of the chiefs given charge by the King; participates in the embassy
+    and later receives the bound Hujr.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Brmn
+  description: One of the chiefs given charge by the King and associated with the
+    embassy to Sohrb.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Sohrb
+  description: The bold youth, called a future king, who receives royal gifts, leads
+    the invasion toward Persia, fights Hujr, and spares him after victory.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Rustem
+  description: The father whom the King wants Sohrb not to recognize; described in
+    the King's plan as the bulwark of the land and possible slayer or victim in father-son
+    combat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hujr
+  description: A defender of the barrier-fort who challenges the invader, boasts against
+    him, is defeated by Sohrb, begs for life, and is bound captive.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Ks
+  description: A ruler mentioned in the King's imagined outcome as unable to obtain
+    relief amid Rustem's grief.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: scheming ruler
+  assigned_to:
+  - fig:1
+  basis: He orders secrecy, intends father and son to fight unknowingly, and sends
+    gifts and a letter as part of the plan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: commissioned chiefs and envoys
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: They receive the charge from the King and bring presents and the message
+    to Sohrb.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: deceived conquering youth and future king
+  assigned_to:
+  - fig:4
+  basis: The King plans that he not know his father, and the embassy addresses him
+    with promises of conquest and a crown.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: absent father and strategic target
+  assigned_to:
+  - fig:5
+  basis: The King plans that Rustem and his son will fight in ignorance and that Rustem's
+    removal will open the Persian throne.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: frontier defender and challenger
+  assigned_to:
+  - fig:6
+  basis: Hujr sees the approaching force, leaves the barrier-fort armed, and challenges
+    the invader.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: victorious but merciful combatant
+  assigned_to:
+  - fig:4
+  basis: Sohrb overcomes Hujr, prepares to kill him, then grants mercy and takes him
+    captive.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: defeated captive opponent
+  assigned_to:
+  - fig:6
+  basis: Hujr is thrown down, begs for life, is spared, and is confined in captive
+    bonds.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: imagined supplicant ruler
+  assigned_to:
+  - fig:7
+  basis: The King's speech imagines Ks vainly supplicating relief after Rustem's grief.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: royal gifts of conquest
+  literal_form: ten loaded camels, ten steeds, a golden crown, a jeweled throne, and
+    regal vestments
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - royal_legitimacy
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: letter promising kingship
+  literal_form: a letter offering Persian spoils, aid from conquering legions, and
+    a kingly crown
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - royal_legitimacy
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: brazen drums of march
+  literal_form: brazen drums sounding as the march begins
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: barrier-fort
+  literal_form: a fort whose walls contain trained Persian defenders
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: fire-flood battle image
+  literal_form: the duel is described with the image of a flood of fire
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: mountain-like horse image
+  literal_form: a horse whose pace is compared to a mountain moving from its base
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Khunjer over the defeated body
+  literal_form: Sohrb standing on Hujr's chest with a Khunjer pressed and ready to
+    strike
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Secret plan against Rustem and Sohrb
+  summary: The insidious King mobilizes troops, assigns Hmn and Brmn, and orders secrecy
+    so that Sohrb will not know Rustem as his father and the two will meet as foes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Embassy of royal inducements
+  summary: The chiefs bring Sohrb imperial gifts, including animals, a crown, a throne,
+    and a letter promising spoils and a kingly crown.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sohrb's armed march toward Persia
+  summary: Sohrb accepts the display of royal promise, inspects the armed ranks, and
+    begins a drum-accompanied march that brings blood and havoc into Persian land.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Challenge at the barrier-fort
+  summary: At the defensive fort, Hujr leaves the walls with mail, shield, and spear
+    and exchanges hostile words with Sohrb.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Duel, mercy, and captivity
+  summary: Sohrb and Hujr duel with spears; Sohrb defeats Hujr, prepares to kill him,
+    grants mercy after a plea for life, and sends him bound to Hmn.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: concealed kinship intended to produce father-son combat
+  taxonomy_refs: []
+  basis: The King explicitly orders that the youth must not know his father and says
+    father and son shall wage battle as foes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This excerpt states the plot and intention; it does not yet narrate the
+    actual father-son combat.
+- id: motif:2
+  label: treacherous double outcome against both hero and son
+  taxonomy_refs: []
+  basis: The King's plan imagines benefit whether Rustem is removed, Sohrb is later
+    ensnared, or Sohrb is slain and Rustem is broken by grief.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is inferred from the stated strategy within this passage, not
+    from an external taxonomy label.
+- id: motif:3
+  label: royal investiture offered as inducement to war
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The embassy gives Sohrb a crown, throne, rich gifts, and a letter promising
+    to place a kingly crown upon his head if he invades Persia.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The investiture is presented as political and strategic rather than sacred
+    in this passage.
+- id: motif:4
+  label: armed departure of a young conqueror
+  taxonomy_refs:
+  - departure
+  basis: After receiving the gifts and viewing the troops, Sohrb begins the march
+    toward Persia with drums sounding and an army behind him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The departure is a military invasion rather than a clearly marked quest
+    departure.
+- id: motif:5
+  label: single combat at a fortified boundary
+  taxonomy_refs: []
+  basis: Hujr leaves the barrier-fort alone, challenges the invader, and fights Sohrb
+    in a duel before being captured.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents this as a martial episode; broader ritual or initiatory
+    meaning is not explicit.
+- id: motif:6
+  label: mercy after defeated enemy's plea
+  taxonomy_refs: []
+  basis: Sohrb is ready to behead Hujr but stops when Hujr trembles and begs for life,
+    then grants mercy while keeping him captive.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The mercy results in captivity, not release.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5426-5433
+  quote_or_summary: The King recognizes a favorable moment against Persia, selects
+    twelve thousand veterans, assigns Hmn and Brmn, combines forces with Samengn,
+    and urges his chiefs to keep the matter secret.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: 5434-5447
+  quote_or_summary: The King's speech says the youth must not know his father, that
+    father and son shall battle as foes, and that Rustem's removal, Sohrb's ensnarement,
+    or Rustem's grief will serve the King's aims.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: 5449-5460
+  quote_or_summary: 'The chiefs bring imperial gifts to Sohrb: ten loaded camels,
+    ten steeds, a golden crown, a jeweled throne, and a letter offering aid, Persian
+    spoils, and a kingly crown.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: 5462-5471
+  quote_or_summary: Sohrb surveys the royal gifts and armed ranks, salutes the chiefs,
+    then begins the march; drums resound, the army advances, and blood and havoc mark
+    the movement into Persia.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: 5473-5486
+  quote_or_summary: A barrier-fort with trained defenders stands against the invader.
+    Hujr sees the approaching force, leaves the fort armed, challenges the invader,
+    and receives Sohrb's challenge in return.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: 5488-5494
+  quote_or_summary: Hujr declares that he has never been in friendly tie with a Turk
+    and threatens to sever his opponent's head and expose his torn limbs.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+- id: ev:7
+  type: summary
+  locator: 5496-5514
+  quote_or_summary: The duel is described with fire and mountain imagery. Hujr's lance
+    fails; Sohrb strikes him with a spear, throws him down, stands over him with a
+    Khunjer, spares him after a plea for life, binds him captive, and sends him to
+    Hmn.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to patterns explicitly present in the excerpt; no external cross-tradition comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names are retained in the passage's provided spelling where possible. The passage heading identifies the broader section, but figure descriptions rely on the supplied excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l5426-l5514
+  passage_sha256=5a4c8e82c9861f940e0f851e0d7bcdb644a7a63741f7d89bfdff98d57243f46b
+

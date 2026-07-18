@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l1392-l1416
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XI. ANANSI THE BLIND FISHERMAN / XII. ADZANUMEE AND HER MOTHER / XIII. THE
+    GRINDING-STONE THAT GROUND FLOUR BY ITSELF / XV. WHY THE SEA-TURTLE WHEN CAUGHT
+    BEATS ITS BREAST WITH ITS FORE-LEGS; lines 1392-1416
+  start: '1392'
+  end: '1416'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An etiological tale explains that repeated sea floods once killed many
+    people. A wise turtle advised humans to plant rows of palms along the coast so
+    their roots would bind the sand and stop the sea from advancing. The plan saved
+    lives, but humans nevertheless catch and kill turtles when they come ashore to
+    lay eggs. The turtle beats its breast when caught because of this ingratitude.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people of the earth are described as repeatedly troubled by floods when
+    the sea overflows its boundaries and crosses low sandy land, causing loss of life.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mankind cannot think of a way to avoid the repeated flood disaster.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A wise turtle advises mankind to plant rows of palms along the sea-coast so
+    the sand will be held together and not washed away easily.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mankind follows the turtle's advice, and palm roots keep the sand in place
+    so the sea reaches only the line of trees and comes no farther.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Many lives are said to be saved each year because of the turtle's forethought.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When turtles come to the seashore to lay eggs in the sand, humans catch and
+    kill them for their flesh.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The turtle beats its breast with its fore-legs when caught, and the narrator
+    states that this is due to the thought of mankind's ingratitude.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mankind / people of the earth
+  description: Humans suffer from repeated sea floods, receive the turtle's advice,
+    plant palms, and later catch and kill turtles for food.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Wise turtle / sea-turtle
+  description: A female-described turtle gives advice that saves human lives; turtles
+    are later caught and killed when they come ashore to lay eggs, and the captured
+    turtle beats her breast.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: flood-threatened community
+  assigned_to:
+  - fig:1
+  basis: Humans are troubled by repeated sea floods and loss of life.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wise animal adviser
+  assigned_to:
+  - fig:2
+  basis: The turtle is called wise and gives practical advice about planting palms
+    along the coast.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ungrateful beneficiaries
+  assigned_to:
+  - fig:1
+  basis: After being saved by the turtle's advice, humans still catch and kill turtles
+    for their flesh.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: animal benefactor
+  assigned_to:
+  - fig:2
+  basis: The turtle's forethought leads to palm planting that saves many lives.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: wronged animal victim
+  assigned_to:
+  - fig:2
+  basis: Turtles are caught and killed when they come ashore, and the turtle's breast-beating
+    is explained as a response to ingratitude.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: flooding sea
+  literal_form: The sea overflows its boundaries and sweeps across low sandy coastal
+    land.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coastal palms
+  literal_form: Rows of palms planted along the sea-coast; their roots bind the sand
+    and stop the sea at the line of trees.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: turtle eggs in sand
+  literal_form: Turtles come to the seashore to lay eggs among the sand.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: breast-beating gesture
+  literal_form: The caught turtle beats her breast with her fore-legs.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Repeated coastal floods
+  summary: The sea repeatedly overflows and causes deaths among people living near
+    low sandy coastal land.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Turtle's coastal planting advice
+  summary: The wise turtle tells humans to plant rows of palms along the coast; humans
+    do so, and the palms hold the sand and stop the sea from advancing beyond the
+    trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ingratitude toward the sea-turtle
+  summary: Despite the turtle's help, humans catch and kill turtles when they come
+    ashore to lay eggs, and the captured turtle beats her breast over this ingratitude.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Flood danger mitigated by coastal trees
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The tale centers on repeated sea floods that kill people and a successful
+    protective measure involving rows of palms that stop the sea and save lives.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes localized recurrent coastal flooding and prevention,
+    not a world flood or explicit renewal after destruction.
+- id: motif:2
+  label: Wise animal benefactor teaches humans a life-saving practice
+  taxonomy_refs:
+  - wisdom
+  basis: The wise turtle advises humans how to protect the coast, and her forethought
+    saves many lives.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not present the turtle as a creator or deity; the role
+    is limited to wise counsel.
+- id: motif:3
+  label: Ingratitude to an animal helper
+  taxonomy_refs: []
+  basis: Humans benefit from the turtle's advice but later catch and kill turtles
+    when they come ashore to lay eggs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No external comparative classification is supplied for this motif in the
+    available taxonomy.
+- id: motif:4
+  label: Etiological explanation of an animal gesture
+  taxonomy_refs: []
+  basis: The final lines explain why a caught sea-turtle beats its breast with its
+    fore-legs.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy does not include a specific etiology or animal-behavior
+    motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1392-1399
+  quote_or_summary: Many centuries ago the people of the earth are troubled by repeated
+    sea floods that overflow low sandy land, kill many people, and leave mankind unable
+    to find an escape.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1401-1404
+  quote_or_summary: "“Take my advice,” said she, “and plant rows of palms along the
+    sea-coast. They will bind the sand together and keep it from being washed so easily
+    away.”"
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1404-1408
+  quote_or_summary: Humans plant the palms successfully; the roots hold the sand,
+    the sea stops at the line of trees, and many lives are saved each year by the
+    turtle's forethought.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1409-1413
+  quote_or_summary: Instead of protecting the turtle, humans catch and kill turtles
+    for their flesh when they come to the shore to lay eggs in the sand.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1414-1416
+  quote_or_summary: "“It is the thought of the ingratitude of mankind to her, which
+    makes her beat her breast with her fore-legs when she is caught.”"
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage-level literal extraction is straightforward. Motif labels are candidate
+    classifications from the supplied passage and available taxonomy only; no external
+    comparisons were asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added beyond candidate motif taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l1392-l1416
+  passage_sha256=5615542f5f754ac9cb907f17718907f242bc739d51e863ad856a76618d50c0e4
+

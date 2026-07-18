@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l8773-l9062
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: EGYPTIAN POETICAL COMPOSITIONS / CHAPTER XV / MISCELLANEOUS LITERATURE /
+    INDEX; lines 8773-9062
+  start: '8773'
+  end: '9062'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: INDEX
+  summary: An alphabetical index section listing names, places, deities, ritual objects,
+    books, animals, mythic beings, themes, and page references from Aa through Cyprus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index rather than a narrative passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists multiple funerary or afterlife-related books and terms, including
+    the Book of the Dead, Coming forth by day, Book Am Tuat, Book of Gates, Book of
+    the Two Ways, Book of Traversing Eternity, Amentet, and Amenti.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The index lists a Balance, including heaven weighed in it, a keeper of it,
+    and the Balance of Truth.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The index lists divine or magical boats, including a magical boat, the Boat
+    of Millions of Years, boats of Ra, the Boat of the Sun, and boats of Amen or Amen-Ra.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The index lists acacia entries, including Acacia and river, Acacia cut down,
+    and the two Acacias.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The index lists crocodile-related entries, including a crocodile-god, a waxen
+    crocodile, a crocodile seizing a servant, transformation into a crocodile, and
+    spells against crocodiles.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The index lists books connected with knowledge, wisdom, proverbs, and Thoth.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The index lists a creation story, the Benben Stone, and the Benu bird.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The index lists beer, beer of Hathor, drinking of beer, and blood in beer.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The index lists crowns, including the Atef Crown, the Double Crown, the Red
+    Crown, and the White Crown.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: The index lists Aapep, Aapepi, and a book of overthrowing Aapepi.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Aapep / Aapepi
+  description: A named indexed being, with a related entry for a book of overthrowing
+    Aapepi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:12
+- id: fig:2
+  name_or_label: Ra
+  description: A named figure associated in the index with boats, the Sun, Ra-Harmakhis,
+    and knowledge of Ra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:12
+- id: fig:3
+  name_or_label: Amen / Amen-Ra
+  description: A named indexed divine figure associated with hymns and boats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:13
+- id: fig:4
+  name_or_label: Hathor
+  description: A named figure associated in the index with beer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:10
+- id: fig:5
+  name_or_label: Thoth
+  description: A named figure associated in the index with books and study.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Crocodile-god
+  description: A crocodile-god listed in the index.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Servant seized by crocodile
+  description: A servant mentioned in the index entry about a crocodile seizing a
+    servant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Benu bird
+  description: A sacred bird listed near creation-related entries.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Cow-goddess / celestial cow
+  description: The index lists a cow-goddess and the celestial cow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:14
+- id: fig:10
+  name_or_label: Bata
+  description: A named indexed figure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:15
+roles:
+- id: role:1
+  label: named antagonist or target of overthrow
+  assigned_to:
+  - fig:1
+  basis: The index names Aapep/Aapepi and a book of overthrowing Aapepi.
+  evidence_refs:
+  - ev:12
+- id: role:2
+  label: indexed divine figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:9
+  basis: The index explicitly uses divine labels for some figures or associates named
+    figures with ritual, hymn, solar, or sacred entries.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+  - ev:13
+  - ev:14
+- id: role:3
+  label: figure associated with sacred or learned books
+  assigned_to:
+  - fig:5
+  basis: The index lists Books of Thoth and study of those books.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: seized victim
+  assigned_to:
+  - fig:7
+  basis: The index entry states that a crocodile seizes a servant.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: sacred bird
+  assigned_to:
+  - fig:8
+  basis: The index explicitly lists the Benu bird and also lists sacred birds.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: indexed named figure
+  assigned_to:
+  - fig:10
+  basis: The index names Bata with page references but provides no further description
+    in this passage.
+  evidence_refs:
+  - ev:15
+symbols:
+- id: sym:1
+  label: Balance of Truth
+  literal_form: balance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Divine or magical boat
+  literal_form: boat
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Acacia
+  literal_form: acacia tree entries, including two Acacias and Acacia cut down
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Crocodile
+  literal_form: crocodile, waxen crocodile, crocodile-god, transformation into crocodile
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Sacred or wisdom book
+  literal_form: books, including Books of Thoth, Book of Wisdom, Book of Proverbs,
+    and Book of the Dead
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:6
+  label: Benben Stone
+  literal_form: stone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Benu bird
+  literal_form: bird
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Beer mixed with blood
+  literal_form: beer and blood in beer
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: Royal crowns
+  literal_form: Atef Crown, Double Crown, Red Crown, White Crown
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:10
+  label: River and cataract water setting
+  literal_form: river and first cataract entries
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:16
+scenes:
+- id: scene:1
+  label: Indexed afterlife-book cluster
+  summary: The index clusters titles and terms associated with death, eternity, gates,
+    ways, and coming forth by day; no narrative action is given in this passage.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Indexed weighing or judgment object
+  summary: The index records a Balance, heaven weighed in it, a keeper of the balance,
+    and the Balance of Truth.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Indexed divine boat cluster
+  summary: The index records several magical, solar, and divine boats, including boats
+    of Ra and Amen-Ra.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Indexed crocodile episode
+  summary: The index records crocodile-related topics, including a waxen crocodile,
+    a crocodile seizing a servant, transformation into a crocodile, and spells against
+    crocodiles.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Indexed acacia episode
+  summary: The index records acacia-related topics, including acacia by a river, an
+    acacia cut down, and two acacias.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:10
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Indexed creation references
+  summary: The index records a creation story, the Benben Stone, and the Benu bird.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Afterlife journey and textual route-books
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The index lists multiple death, eternity, gate, and way books, including
+    Book of the Dead, Book Am Tuat, Book of Gates, Book of the Two Ways, and Book
+    of Traversing Eternity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is only an index and does not describe the content of these
+    books.
+- id: motif:2
+  label: Judgment by balance
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index records a Balance, heaven weighed in it, a keeper of the balance,
+    and the Balance of Truth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The index gives terms but no full judgment scene.
+- id: motif:3
+  label: Solar or divine boat journey
+  taxonomy_refs: []
+  basis: The index lists a magical boat, the Boat of Millions of Years, boats of Ra,
+    the Boat of the Sun, and boats of Amen or Amen-Ra.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not narrate a voyage or identify a full vessel motif
+    beyond index headings.
+- id: motif:4
+  label: Transformation into crocodile
+  taxonomy_refs:
+  - shapeshifter
+  basis: The index explicitly includes transformation into a crocodile and related
+    crocodile entries.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only an index entry is available; the agent and circumstances of transformation
+    are not supplied.
+- id: motif:5
+  label: Sacred wisdom books and instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The index lists Book of Wisdom, Book of Proverbs, Maxims of Ani, Books of
+    Thoth, and study of the Books of Thoth.
+  evidence_refs:
+  - ev:8
+  - ev:17
+  confidence: medium
+  cautions: The passage provides headings only and no teaching content.
+- id: motif:6
+  label: Creation story with primordial emblems
+  taxonomy_refs: []
+  basis: The index lists Creation, story of, Benben Stone, and Benu bird.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The index does not explain how the Benben Stone or Benu bird function
+    in the creation story.
+- id: motif:7
+  label: Overthrow of named hostile being
+  taxonomy_refs: []
+  basis: The index lists Aapep, Aapepi, and a Book of overthrowing Aapepi.
+  evidence_refs:
+  - ev:12
+  confidence: medium
+  cautions: The passage does not characterize Aapepi or describe the overthrow.
+- id: motif:8
+  label: Cut or doubled sacred tree episode
+  taxonomy_refs: []
+  basis: The index lists Acacia, Acacia and river, Acacia cut down, and the two Acacias.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage does not explain whether the acacia entries are symbolic,
+    ritual, or narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8773-9062
+  quote_or_summary: The passage is headed INDEX and consists of alphabetical index
+    entries from Aa to Cyprus.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index heading quoted.
+- id: ev:2
+  type: quote
+  locator: lines 8773-9062, index entries under Book
+  quote_or_summary: Book, Am Tuat; Book of Gates; Book of the Dead; Book of the Two
+    Ways; Book of Traversing Eternity.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:3
+  type: quote
+  locator: lines 8773-9062, index entries under Amentet/Amenti and Coming forth by
+    day
+  quote_or_summary: Amentet; Amenti; Coming forth by day.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:4
+  type: quote
+  locator: lines 8773-9062, index entry under Balance
+  quote_or_summary: Balance; heaven weighed in; keeper of; --of Truth.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrase quoted.
+- id: ev:5
+  type: quote
+  locator: lines 8773-9062, index entries under Boat
+  quote_or_summary: Boat, magical; Boat of Millions of Years; Boat of Ra; two Boats
+    of Ra; Boat of the Sun; Boat of Amen; Boat of Amen-Ra.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:6
+  type: quote
+  locator: lines 8773-9062, index entries under Acacia
+  quote_or_summary: Acacia; and river; cut down; Acacias, the two.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:7
+  type: quote
+  locator: lines 8773-9062, index entries under Crocodile
+  quote_or_summary: Crocodile-god; waxen; seizes a servant; transformation into; spells
+    against.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:8
+  type: quote
+  locator: lines 8773-9062, index entries under Book/Books
+  quote_or_summary: Book of Proverbs; Book of Wisdom; Books of Thoth; study of.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:9
+  type: quote
+  locator: lines 8773-9062, index entries under Benben/Benu/Creation
+  quote_or_summary: Benben Stone; Benu bird; Creation, story of.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:10
+  type: quote
+  locator: lines 8773-9062, index entries under Beer/Blood
+  quote_or_summary: Beer; drinking of; --of Hathor; Blood in beer.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:11
+  type: quote
+  locator: lines 8773-9062, index entries under Atef Crown/Crown
+  quote_or_summary: Atef Crown; Crown, the Double; the Red; the White.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:12
+  type: quote
+  locator: lines 8773-9062, index entries under Aapep/Aapepi/Book
+  quote_or_summary: Aapep; Aapepi; Book of overthrowing Aapepi; Book of knowing how
+    Ra.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:13
+  type: quote
+  locator: lines 8773-9062, index entries under Amen/Amen-Ra
+  quote_or_summary: Amen; Amen-Ra; Hymn to; Boat of Amen; Boat of Amen-Ra.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:14
+  type: quote
+  locator: lines 8773-9062, index entries under Cow
+  quote_or_summary: Cow-goddess; Cow, the celestial.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:15
+  type: quote
+  locator: lines 8773-9062, index entry under Bata
+  quote_or_summary: Bata, 196, 197, 204, 205.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrase quoted.
+- id: ev:16
+  type: quote
+  locator: lines 8773-9062, index entry under Cataract
+  quote_or_summary: Cataract, first.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrase quoted.
+- id: ev:17
+  type: quote
+  locator: lines 8773-9062, index entries under Ani
+  quote_or_summary: Ani; Maxims of Ani.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short index phrases quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited because the passage is an index, not a mythic narrative.
+    Motif candidates are based on explicit index headings only and need confirmation
+    against the referenced passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or motif family beyond the supplied taxonomy labels.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l8773-l9062
+  passage_sha256=cefe6d06bba59853aaa002becc62be382315042f617bca276e2aff8bf20439cb
+

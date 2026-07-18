@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l35049-l35102
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE MOON; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL
+    GOD. / CHAPTER LV. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 35049-35102
+  start: '35049'
+  end: '35102'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Which, therefore, of your LORD'S benefits will ye ungratefully deny?
+  summary: 'The passage combines explanatory notes on divine decree, resurrection,
+    tribunal judgment, hellish punishment, and paradise gardens with verses describing
+    repeated divine benefits: good rewarded with good, paired green gardens with fountains,
+    fruits, palms, pomegranates, secluded beauteous damsels, couches, carpets, and
+    praise of the Lord.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: God is described as executing decrees by giving life and death, raising one
+    and abasing another, hearing prayers, and granting petitions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note glosses flight as attempting to avoid the power and decree of God.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note explains that molten brass may be poured on the heads of the damned.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note says crimes will be known by marks when people are raised to life and
+    led toward the tribunal before examination.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note states that the only respite from hell flames is going to drink a scalding
+    liquor.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note interprets the gardens as either distinct paradises for men and genii
+    or two gardens for each person, one due to works and one as an additional gift.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage repeatedly asks which of the Lord's benefits will be ungratefully
+    denied.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The text asks whether the reward of good works can be anything other than
+    good.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The text describes two other dark green gardens, each containing two fountains
+    pouring forth water.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The gardens contain fruits, palm-trees, and pomegranates.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The text describes agreeable and beauteous damsels with fine black eyes, kept
+    in pavilions from public view.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The damsels have not been deflowered before their destined spouses by any
+    man or genius.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The inhabitants delight themselves lying on green cushions and beautiful carpets.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: The passage ends by blessing the Lord's name and attributing glory and honour
+    to the Lord.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: GOD / LORD
+  description: The divine figure who decrees, gives life and death, hears prayers,
+    grants petitions, provides benefits, and is praised as possessed of glory and
+    honour.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: the damned
+  description: Those whose heads receive molten brass and whose respite from hell
+    flames is to drink scalding liquor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: marked criminals raised to life
+  description: Persons whose crimes are known by marks and who are raised to life
+    and led toward the tribunal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: men
+  description: One category for whom a distinct paradise may be understood, and one
+    group mentioned in relation to the untouched damsels.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: genii / genius
+  description: One category for whom a distinct paradise may be understood, and beings
+    mentioned in relation to the untouched damsels.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:6
+  name_or_label: beauteous damsels
+  description: Agreeable, beauteous, fine black-eyed figures kept in pavilions from
+    public view and not deflowered before their destined spouses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: destined spouses
+  description: The spouses for whom the damsels are reserved and who are associated
+    with delight in the garden setting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: decreeing divine benefactor
+  assigned_to:
+  - fig:1
+  basis: God executes decrees, gives life and death, hears and grants petitions, provides
+    benefits, and is praised with glory and honour.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: punished damned
+  assigned_to:
+  - fig:2
+  basis: The damned are associated with molten brass on their heads, hell flames,
+    and scalding drink.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: afterlife defendants
+  assigned_to:
+  - fig:3
+  basis: Their crimes are marked; they are raised to life, led toward a tribunal,
+    and examined.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: paradise recipients or spouses
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: The notes and verses connect men, genii, and destined spouses with paradise
+    gardens, reserved companions, and delight on cushions and carpets.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:5
+  label: secluded virginal companions
+  assigned_to:
+  - fig:6
+  basis: The damsels are described as beautiful, black-eyed, kept in pavilions, and
+    untouched before their destined spouses.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: paradise gardens
+  literal_form: Two other dark green gardens; notes also discuss distinct paradises
+    or two gardens for each person.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: water fountains
+  literal_form: Two fountains in each garden pouring forth plenty of water.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: fruit-bearing trees
+  literal_form: Fruits, palm-trees, and pomegranates in the gardens.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: pavilions
+  literal_form: Pavilions where the damsels are kept from public view.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: green cushions and beautiful carpets
+  literal_form: Furnishings on which the inhabitants delight themselves lying down.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: hell flames and scalding liquid
+  literal_form: Flames of hell, scalding liquor, and molten brass poured on the heads
+    of the damned.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: rubies and pearls
+  literal_form: Complexions compared to rubies and pearls.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Divine decree and benefaction
+  summary: God executes eternal decrees, gives life and death, raises and abases,
+    hears prayers, grants petitions, and is repeatedly named as the source of benefits.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Resurrection, tribunal, and punishment
+  summary: Marked criminals are raised to life and led toward a tribunal, while the
+    damned are associated with molten brass, hell flames, and scalding drink.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Paired green gardens with water and fruit
+  summary: The afterlife reward setting is described as two other dark green gardens,
+    each with two fountains and containing fruits, palm-trees, and pomegranates.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Reserved companions and garden delight
+  summary: Beautiful black-eyed damsels are kept in pavilions and reserved for destined
+    spouses; the inhabitants delight themselves on green cushions and beautiful carpets.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Resurrection followed by tribunal judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The notes state that criminals are raised to life, marked by crimes, led
+    toward the tribunal, and later examined.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is drawn from explanatory notes within the passage rather than from
+    the visible main verse lines alone.
+- id: motif:2
+  label: Infernal punishment with fire and scalding liquid
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage notes molten brass poured on the damned and a respite from hell
+    flames only to drink scalding liquor.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The immediate passage gives punishment imagery but not a full narrative
+    of sentencing.
+- id: motif:3
+  label: Paradise gardens as reward for good works
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The verses and notes describe reward for good works, gardens interpreted
+    as paradises, flowing fountains, fruits, companions, and furnishings of delight.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference is used for afterlife topography and reward setting;
+    the passage does not narrate a full journey through the afterlife.
+- id: motif:4
+  label: Paired paradise structures
+  taxonomy_refs:
+  - duality
+  basis: The passage emphasizes two other gardens and two fountains in each, while
+    the note gives interpretations involving two gardens or separate paradises for
+    men and genii.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The motif is based on repeated numerical pairing within this excerpt.
+- id: motif:5
+  label: Refrain of denied divine benefits
+  taxonomy_refs: []
+  basis: A repeated rhetorical question asks which of the Lord's benefits will be
+    ungratefully denied.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a formal rhetorical pattern rather than a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35049-35102, notes f-g
+  quote_or_summary: Notes describe God executing eternal decrees by giving life and
+    death, raising and abasing, hearing prayers, granting petitions, and gloss flight
+    as avoiding God's decree.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 35049-35102, notes h-m
+  quote_or_summary: Notes mention molten brass poured on the damned, crimes known
+    by marks, resurrection and leading toward a tribunal, and hell flames with scalding
+    liquor as respite.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 35049-35102, notes n-p
+  quote_or_summary: Notes interpret the gardens as paradises for men and genii or
+    two gardens for each person, explain fruits as known and unknown kinds, and say
+    the fruit may be reached easily.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 35049-35102, verse marker 60 and repeated refrain
+  quote_or_summary: '"Which, therefore, of your LORD''S benefits will ye ungratefully
+    deny?"; "Shall the reward of good works be any other good?"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 35049-35102, after verse marker 60
+  quote_or_summary: The text describes two other dark green gardens; in each are two
+    fountains pouring water, with fruits, palm-trees, and pomegranates.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 35049-35102, verse marker 70 and following lines
+  quote_or_summary: The text describes agreeable and beauteous damsels with fine black
+    eyes, kept in pavilions, untouched before their destined spouses by man or genius.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 35049-35102, closing lines
+  quote_or_summary: The text says the inhabitants delight themselves on green cushions
+    and beautiful carpets and closes by blessing the Lord's name as possessed of glory
+    and honour.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. Motif candidates based on explicit
+    afterlife, judgment, garden, and pairing elements; no cross-text comparison claims
+    were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage includes both Sale's explanatory notes and translated verse material; observations distinguish literal verse content from note-based explanations where possible.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l35049-l35102
+  passage_sha256=db499138007beeb89709d8a18cb7948b25ee73c59811666c91cf30850cc5700e
+

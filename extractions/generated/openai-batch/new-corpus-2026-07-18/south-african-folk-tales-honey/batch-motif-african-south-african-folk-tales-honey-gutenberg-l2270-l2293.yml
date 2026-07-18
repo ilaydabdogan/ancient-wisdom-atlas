@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2270-l2293
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: JACKAL, DOVE, AND HERON / COCK AND JACKAL / ELEPHANT AND TORTOISE / ANOTHER
+    VERSION OF THE SAME FABLE; lines 2270-2293
+  start: '2270'
+  end: '2293'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A fable-version in which Giraffe threatens Tortoise, swallows him, and
+    dies when Tortoise lodges in his throat. Tortoise crawls out, reports the event
+    to Crab, who is described as his mother, exchanges words with her about sprinkling
+    Boochoo, and then they feed for a year on Giraffe's remains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage heading identifies the story as another version of the same fable.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Giraffe and Tortoise meet one day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Giraffe says he could trample Tortoise to death.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tortoise is afraid and remains silent after the first threat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Giraffe says he could swallow Tortoise.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Tortoise answers that he belongs to the family of those customarily swallowed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Giraffe swallows Tortoise.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: While being gulped down, Tortoise sticks in Giraffe's throat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Giraffe cannot get Tortoise down and is choked to death.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: After Giraffe dies, Tortoise crawls out.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Tortoise goes to Crab, who is considered the mother of Tortoise, and tells
+    her what happened.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: Crab speaks of sprinkling the little one under its arm with Boochoo.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Tortoise replies by asking whether Crab has not always sprinkled him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: They feed for a whole year on Giraffe's remains.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Giraffe
+  description: Animal figure who threatens to trample and swallow Tortoise, swallows
+    him, and dies by choking when Tortoise lodges in his throat.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Tortoise
+  description: Animal figure who is threatened, swallowed, sticks in Giraffe's throat,
+    survives by crawling out after Giraffe dies, reports to Crab, and later feeds
+    on Giraffe's remains.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Crab
+  description: Animal figure described as considered the mother of Tortoise; she hears
+    Tortoise's report and speaks about sprinkling with Boochoo.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: threatening aggressor
+  assigned_to:
+  - fig:1
+  basis: Giraffe threatens to trample and swallow Tortoise, and then swallows him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: swallowed survivor
+  assigned_to:
+  - fig:2
+  basis: Tortoise is swallowed, lodges in Giraffe's throat, and crawls out after Giraffe
+    dies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mother-child pair
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Crab is described as considered the mother of Tortoise, and Tortoise answers
+    her as his mother.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: dead provider of remains
+  assigned_to:
+  - fig:1
+  basis: After Giraffe dies, Tortoise and Crab feed on Giraffe's remains for a year.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:5
+  label: feeders on remains
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The final sentence says they went and fed for a whole year on the remains
+    of Giraffe.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Boochoo sprinkling
+  literal_form: Boochoo named as a substance used in a proposed sprinkling under the
+    arm
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Giraffe's throat obstruction
+  literal_form: Tortoise stuck in Giraffe's throat while being gulped down
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Giraffe's remains
+  literal_form: The remains of Giraffe used as food for a whole year
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Threats and swallowing
+  summary: Giraffe meets Tortoise, threatens to trample and then swallow him, and
+    swallows him after Tortoise answers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Death of Giraffe and escape of Tortoise
+  summary: Tortoise lodges in Giraffe's throat; Giraffe chokes to death, and Tortoise
+    crawls out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Report to Crab and Boochoo exchange
+  summary: Tortoise goes to Crab, who is considered his mother, reports what happened,
+    and the two exchange words about sprinkling with Boochoo.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Feeding on the remains
+  summary: Tortoise and Crab feed for a whole year on the remains of Giraffe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Swallowed animal kills the swallower from inside
+  taxonomy_refs: []
+  basis: Giraffe swallows Tortoise, but Tortoise sticks in Giraffe's throat and Giraffe
+    chokes to death.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states the swallowing, obstruction, and death directly; it
+    does not state whether Tortoise intended the result before being swallowed.
+- id: motif:2
+  label: Small vulnerable animal defeats a larger threatening animal
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Giraffe threatens Tortoise with trampling and swallowing, but after swallowing
+    Tortoise, Giraffe dies while Tortoise survives.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The broader trickster-family reference is tentative because the passage
+    does not explicitly name Tortoise as a trickster or describe his strategy as deliberate
+    trickery.
+- id: motif:3
+  label: Survivor reports to maternal figure
+  taxonomy_refs: []
+  basis: After crawling out, Tortoise goes to Crab, described as considered his mother,
+    and tells her what happened.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a local passage pattern rather than a mapped taxonomy motif.
+- id: motif:4
+  label: Defeated aggressor's body becomes food
+  taxonomy_refs: []
+  basis: After Giraffe dies, Tortoise and Crab feed for a whole year on Giraffe's
+    remains.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives the outcome but does not elaborate any ritual, moral,
+    or cosmological meaning.
+- id: motif:5
+  label: Maternal sprinkling with named substance
+  taxonomy_refs: []
+  basis: Crab speaks of sprinkling the little one with Boochoo, and Tortoise replies
+    that she has always sprinkled him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explain Boochoo or the purpose of sprinkling, so
+    the function of the act remains uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The heading identifies this passage as another version of the same fable
+    in its source context.
+  claim_level: same_motif
+  target: the unspecified 'same fable' referenced by the heading in the surrounding
+    source
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage does not include the other version's text, so
+    the comparison rests only on the heading rather than on direct content-to-content
+    analysis.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '2270'
+  quote_or_summary: '"ANOTHER VERSION OF THE SAME FABLE"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 2272-2276
+  quote_or_summary: Giraffe and Tortoise meet; Giraffe says he could trample Tortoise
+    to death, Tortoise remains silent in fear, then Giraffe says he could swallow
+    him; Tortoise answers that he belongs to a family customarily swallowed.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2277-2280
+  quote_or_summary: Giraffe swallows Tortoise; while being gulped down, Tortoise sticks
+    in Giraffe's throat, and Giraffe cannot get him down and is choked to death.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2281-2283
+  quote_or_summary: After Giraffe dies, Tortoise crawls out, goes to Crab, who is
+    considered Tortoise's mother, and tells her what happened.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 2284-2286
+  quote_or_summary: Crab says she could sprinkle the little one under its arm with
+    Boochoo.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation/summarized quote used for extraction
+    evidence.
+- id: ev:6
+  type: quote
+  locator: 2288-2291
+  quote_or_summary: 'Tortoise answers: "Have you not always sprinkled me, / That you
+    want to sprinkle me now?"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:7
+  type: quote
+  locator: '2293'
+  quote_or_summary: '"Then they went and fed for a whole year on the remains of Giraffe."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events are clear in the supplied passage. Motif labels involving
+    trickster classification are tentative because intent and genre-level function
+    are not explicitly explained in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external explanation of Boochoo or surrounding fables was added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2270-l2293
+  passage_sha256=6290d98e242ed0a59f1062e487e01199b27d0551f495dd3042cbe32bbc6fb299
+

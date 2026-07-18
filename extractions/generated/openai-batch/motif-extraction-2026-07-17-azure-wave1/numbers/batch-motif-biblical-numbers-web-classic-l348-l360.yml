@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l348-l360
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Chapter 1 / Footnotes / Chapter 2 / Chapter 3; lines 348-360
+  start: '348'
+  end: '360'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Yahweh commands that the Levites and their livestock be taken in place
+    of Israel’s firstborn and their livestock. For the 273 firstborn exceeding the
+    number of Levites, Moses is to collect five sanctuary shekels each and give the
+    redemption money to Aaron and his sons. Moses collects 1,365 sanctuary shekels
+    and gives it as commanded.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Levites are to be taken instead of all the firstborn among the children
+    of Israel.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The livestock of the Levites is to be taken instead of the Israelites’ livestock.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yahweh states that the Levites shall be his.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: There are 273 firstborn Israelites exceeding the number of Levites.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Five shekels per person, according to the sanctuary shekel, are to be taken
+    for the excess firstborn.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The redemption money is to be given to Aaron and his sons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Moses takes 1,365 sanctuary shekels as redemption money from the firstborn
+    who exceeded the number redeemed by the Levites.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Moses gives the redemption money to Aaron and his sons according to Yahweh’s
+    command.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: The divine speaker who commands the substitution and redemption procedure
+    and claims the Levites.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Moses
+  description: The human agent who takes the redemption money and gives it to Aaron
+    and his sons as commanded.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Levites
+  description: The group taken instead of all the firstborn among the children of
+    Israel and identified as belonging to Yahweh.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Firstborn among the children of Israel
+  description: The firstborn Israelites for whom the Levites serve as substitutes;
+    the excess 273 are redeemed by payment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Aaron and his sons
+  description: The recipients of the redemption money.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: divine commander
+  assigned_to:
+  - fig:1
+  basis: Yahweh gives the command and the procedure is carried out according to his
+    word.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ritual executor
+  assigned_to:
+  - fig:2
+  basis: Moses collects and transfers the redemption money as commanded.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: substitute group claimed by deity
+  assigned_to:
+  - fig:3
+  basis: The Levites are taken instead of the Israelite firstborn and Yahweh says
+    they shall be his.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: redeemed group
+  assigned_to:
+  - fig:4
+  basis: The firstborn exceeding the number of Levites are redeemed through a monetary
+    payment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: priestly recipients
+  assigned_to:
+  - fig:5
+  basis: Aaron and his sons receive the money by Yahweh’s command.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: redemption money
+  literal_form: Five sanctuary shekels per excess firstborn; total 1,365 shekels
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Levites as substitute for firstborn
+  literal_form: Levites taken instead of all Israelite firstborn
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: livestock substitution
+  literal_form: Livestock of the Levites taken instead of the Israelites’ livestock
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sanctuary shekel
+  literal_form: The stated standard for the five-shekel payment, defined as twenty
+    gerahs
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Command of substitution and redemption
+  summary: Yahweh commands that Levites and their livestock replace Israel’s firstborn
+    and livestock, and that the excess firstborn be redeemed by a five-shekel payment
+    given to Aaron and his sons.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moses collects and transfers redemption money
+  summary: Moses collects 1,365 sanctuary shekels from the excess firstborn and gives
+    the redemption money to Aaron and his sons according to Yahweh’s command.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Sacred substitution and redemption payment
+  taxonomy_refs:
+  - sacred_exchange
+  basis: 'The passage centers on a divinely commanded exchange: Levites substitute
+    for Israel’s firstborn, and excess firstborn are redeemed through sanctuary-standard
+    money given to priestly recipients.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a legal-ritual instruction and execution report; broader
+    theological interpretation should not be inferred beyond the stated substitution,
+    redemption, and transfer.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 3:45
+  quote_or_summary: "“Take the Levites instead of all the firstborn among the children
+    of Israel... and the Levites shall be mine. I am Yahweh.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: Numbers 3:46-48
+  quote_or_summary: For the 273 firstborn exceeding the number of Levites, five sanctuary
+    shekels each are to be collected and the redemption money given to Aaron and his
+    sons.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Numbers 3:49-51
+  quote_or_summary: Moses collects 1,365 sanctuary shekels from the excess firstborn
+    and gives the redemption money to Aaron and his sons according to Yahweh’s command.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage gives explicit ritual actions, figures, numbers, and transfer
+    of money. No comparison claims are made because the passage itself does not compare
+    this procedure to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only to the explicit sacred exchange/redemption pattern.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l348-l360
+  passage_sha256=66dbba55d9cbb77f42f69e0b63b7f977155537d882635d7a87b366682c7345b1
+

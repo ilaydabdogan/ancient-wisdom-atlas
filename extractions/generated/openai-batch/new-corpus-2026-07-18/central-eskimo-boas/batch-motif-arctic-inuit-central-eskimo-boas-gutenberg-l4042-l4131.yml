@@ -1,0 +1,535 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4042-l4131
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SMITH SOUND. / TRADE AND INTERCOURSE BETWEEN THE TRIBES. / LIST OF THE CENTRAL
+    ESKIMO TRIBES. / SEAL, WALRUS, AND WHALE HUNTING.; lines 4042-4131
+  start: '4042'
+  end: '4131'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Central Eskimo harpoon, float, drag, and lance equipment
+    for hunting seals, walrus, whales, and deer, including release mechanisms, kayak
+    placement, regional variants, and prey-specific adaptations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A harpoon line is attached so that the teliqbing holds shaft and head together
+    until lateral strain on the tusk causes the teliqbing to slip off and disengage
+    the line with the harpoon head from the shaft.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some teliqbing have two holes, one for a wet and longer line and one for a
+    dry and shorter line.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In Iglulik the spear called qatilik is described as the same pattern as those
+    of Akudnirn and Oqo, with differences in the straight toung, a notch near its
+    socket, and a harpoon head with a single point at its lower end.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The harpoon is placed on the right side of the kayak prow, the line and tokang
+    lie before the hunter in the asedlun receptacle, and the line end is fastened
+    to a seal float behind the hunter.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The avautang float is made from a whole sealskin, inflated through an inserted
+    pipe and closed with a stopper; holes can be closed by a button.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For large animals such as walrus or whales, a niutang hoop with skin stretched
+    over it can be inserted between the line and float; when dragged, it resists motion,
+    slows the animal, and helps exhaust it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The float prevents a struck animal from escaping by being too buoyant to be
+    drawn under water, so the animal cannot dive and the hunter keeps sight of the
+    prey.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: For small seals a smaller weapon, the agdliaq, is used with a seal bladder
+    float attached to the shaft; its head is tied to the shaft, which acts as a drag.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A walrus lance called anguvigang is used to dispatch an animal after it has
+    been harpooned with the igimang.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The lance joint prevents the shaft from being broken by the animal’s struggles;
+    the lance is carried behind the hunter on the right side of the kayak, often with
+    a second lance on the left.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: A slender shaft with a long inserted point, called kapun or ipun, is especially
+    used for hunting deer in lakes and ponds.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: kayak hunter
+  description: The hunter carries and arranges harpoon, line, float, and lances on
+    the kayak and keeps sight of prey after it is struck.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: walrus
+  description: A large animal hunted with the harpoon, drag hoop, float, and later
+    dispatched with a lance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: whales
+  description: Large animals named as targets for the harpoon arrangement with the
+    inserted drag contrivance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: small seals
+  description: Small marine animals hunted with the smaller agdliaq weapon and seal
+    bladder float.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: deer
+  description: Animals hunted in lakes and ponds with the kapun or ipun weapon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: hunter and equipment operator
+  assigned_to:
+  - fig:1
+  basis: The passage locates the equipment around the hunter and describes the hunter
+    retaining sight of the prey.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: role:2
+  label: large marine prey
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Walrus and whales are named as large animals for which the harpoon, drag
+    hoop, and float arrangement may be used.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: small marine prey
+  assigned_to:
+  - fig:4
+  basis: Small seals are named as the prey for the smaller agdliaq weapon.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: deer-hunting prey
+  assigned_to:
+  - fig:5
+  basis: Deer are named as animals hunted in lakes and ponds with a slender pointed
+    weapon.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: teliqbing release fitting
+  literal_form: A fitting with one or two holes that fits over a knob and releases
+    the harpoon line and head when lateral strain changes the distance between the
+    head and knob.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: detachable harpoon assembly
+  literal_form: Harpoon line, tokang, igimang, tusk, shaft, and harpoon head arranged
+    so the head can disengage from the shaft.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: asedlun line receptacle
+  literal_form: A flat wooden-ring receptacle with a handle, held by thongs before
+    the kayak opening and used to hold the coiled harpoon line.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: avautang seal-skin float
+  literal_form: An inflated whole sealskin float attached to the harpoon line behind
+    the hunter.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: niutang drag hoop
+  literal_form: A wooden hoop with seal or deer skin stretched over it, attached by
+    thongs between the line and float to resist a fleeing animal’s movement.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: agdliaq small-seal weapon
+  literal_form: A smaller weapon with a seal bladder float attached to the shaft,
+    used for small seals.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: anguvigang walrus lance
+  literal_form: A lance similar to the igimang, with a bone or walrus-tusk head and
+    an iron blade, used after harpooning.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:8
+  label: kayak hunting platform
+  literal_form: A kayak on which the harpoon, line, float, and lances are arranged
+    around the hunter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: sym:9
+  label: water as hunting medium
+  literal_form: Under water, lakes, and ponds are mentioned as settings relevant to
+    prey diving and deer hunting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:9
+scenes:
+- id: scene:1
+  label: detachable harpoon release mechanism
+  summary: The teliqbing holds the harpoon line, shaft, and head together until lateral
+    strain on the tusk causes the line with the head to disengage from the shaft.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: kayak arrangement of harpoon, line, and float
+  summary: The harpoon lies on the right side of the kayak prow, the coiled line rests
+    before the hunter in the asedlun, and the seal-skin float lies behind the hunter
+    attached to the line.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: large-animal harpoon drag and float sequence
+  summary: For walrus or whales, a skin-covered hoop can be inserted between line
+    and float; after a walrus is struck, the hoop resists movement while the float
+    prevents diving and escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: small-seal weapon adaptation
+  summary: Small seals are hunted with a smaller weapon, the agdliaq, with a seal
+    bladder float and a shaft that acts as a drag.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: walrus dispatch and lance placement
+  summary: After a walrus is harpooned, an anguvigang lance is used to dispatch it;
+    the lance joint protects the shaft, and lances are carried behind the hunter on
+    the kayak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: deer hunting in lakes and ponds
+  summary: A slender shaft with a long point, called kapun or ipun, is described as
+    especially used for hunting deer in lakes and ponds.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: detachable hunting head released by strain
+  taxonomy_refs: []
+  basis: The passage describes a mechanism by which the teliqbing holds the harpoon
+    head and shaft together until lateral strain causes release.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a technical hunting pattern in an ethnographic passage, not an
+    explicitly mythological motif.
+- id: motif:2
+  label: buoyant float prevents prey descent
+  taxonomy_refs: []
+  basis: The float is said to be too buoyant to be drawn under water, preventing the
+    animal from diving and keeping it visible to the hunter.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No symbolic interpretation is stated in the passage.
+- id: motif:3
+  label: drag device exhausts fleeing prey
+  taxonomy_refs: []
+  basis: The niutang hoop is thrown at right angles to the stretched line and creates
+    resistance that diminishes the animal’s speed and exhausts it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage supports this as a practical hunting pattern only.
+- id: motif:4
+  label: ordered placement of hunting gear on kayak
+  taxonomy_refs: []
+  basis: The passage specifies the positions of harpoon, line, float, and lances around
+    the hunter on the kayak.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: This is a spatial equipment arrangement, not a narrative motif.
+- id: motif:5
+  label: prey-specific weapon adaptation
+  taxonomy_refs: []
+  basis: Different weapons or modifications are described for large animals, small
+    seals, walrus dispatch, and deer in lakes or ponds.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage presents technological specialization rather than mythic classification.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Iglulik qatilik spear follows the same pattern
+    as those of Akudnirn and Oqo, while listing differences in the straight toung,
+    socket notch, and harpoon-head point.
+  claim_level: visual_similarity
+  target: Akudnirn and Oqo spear pattern
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns tool form and is based only on the brief description
+    in this passage.
+- id: claim:2
+  claim: 'The passage compares the line receptacle with Greenland and Hudson Strait
+    examples by function and mounting: the described receptacle rests on the skin
+    cover without feet, while the Hudson Strait form is secured on holders.'
+  claim_level: same_function
+  target: Greenland and Hudson Strait harpoon-line receptacle variants
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a short regional comparison and does not provide
+    full descriptions of the Greenland or Hudson Strait forms.
+- id: claim:3
+  claim: The agdliaq for small seals is described as similar to the larger igimang
+    in point form, differing only in size.
+  claim_level: visual_similarity
+  target: large igimang harpoon point
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The author states he did not personally see the complete weapon and
+    relied on parts brought away by Kumlien.
+- id: claim:4
+  claim: The anguvigang lance is described as similar to the igimang in shaft and
+    joint, but with different details and a dispatching function after harpooning.
+  claim_level: visual_similarity
+  target: igimang harpoon form
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to material construction and use, not to
+    narrative or symbolic meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4042-4056
+  quote_or_summary: The harpoon line attaches to the tokang/igimang assembly; the
+    teliqbing fits over a knob to hold shaft and head together, then slips off under
+    lateral strain, with two-hole variants for wet or dry line length.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4058-4063
+  quote_or_summary: The Iglulik spear qatilik is said to be the same pattern as that
+    of Akudnirn and Oqo, except for a straight toung with a notch and a harpoon head
+    with a single lower point.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4065-4075
+  quote_or_summary: The harpoon is placed on the right side of the kayak prow; the
+    line and tokang lie in the asedlun receptacle before the hunter; the line is coiled
+    and attached to a seal float behind the hunter.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4075-4086
+  quote_or_summary: The avautang float is made from a whole sealskin, with flipper
+    openings sewn, rear parts tied into a neck for line attachment, and an inserted
+    pipe with stopper for inflation.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4088-4100
+  quote_or_summary: For walrus or whales, a skin-covered hoop called niutang may be
+    inserted between line and float; after a walrus is struck it resists movement,
+    slows and exhausts the animal, while the float prevents diving and loss of sight.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4102-4108
+  quote_or_summary: For small seals, a smaller agdliaq weapon with a seal bladder
+    float is used; its point differs from the large igimang only in size, and its
+    shaft acts as a drag.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4110-4116
+  quote_or_summary: Several spear heads are described as straight and fastened similarly
+    to earlier examples, but the author notes they cannot act as harpoons and that
+    he did not see the weapons himself.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4118-4123
+  quote_or_summary: A walrus lance called anguvigang resembles the igimang in shaft
+    and joint but has no teliqbing knob; its head is bone or walrus tusk with an iron
+    blade and is used to dispatch a harpooned animal.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4125-4131
+  quote_or_summary: The joint protects the lance shaft from breaking; the lance is
+    carried behind the hunter on the right of the kayak, often with a second lance
+    on the left, and a kapun/ipun pointed shaft is used especially for deer in lakes
+    and ponds.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a technical ethnographic description of hunting implements.
+    Literal extraction is high confidence, while motif and comparison claims are limited
+    to practical material patterns and regional tool comparisons stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological narrative motifs are explicitly present. Available taxonomy motif families were not applied; only the literal water symbol reference was used where directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4042-l4131
+  passage_sha256=0fb1fb7b7c5598e610258dbbdc3991dfb8b723381b07e9a642f2d86b4d13a2fc
+

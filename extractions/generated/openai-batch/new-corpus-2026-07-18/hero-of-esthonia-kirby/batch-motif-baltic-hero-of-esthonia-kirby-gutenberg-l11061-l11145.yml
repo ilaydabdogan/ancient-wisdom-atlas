@@ -1,0 +1,545 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l11061-l11145
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE TWO BROTHERS AND THE FROST. / THE SONG-GOD'S DEPARTURE. / JUTTA. / THE
+    TWELVE DAUGHTERS.; lines 11061-11145
+  start: '11061'
+  end: '11145'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: For whoever comes to our kingdom must stay with us.
+  summary: An old man enters a hidden water-world through a door at a lake's river
+    mouth, is guided by a dwarf through a brilliant palace, learns that sunken mortals
+    normally remain there and that his father must perform a recurring duty under
+    the young ice until replaced. The dwarf gives him copper rods and lets him leave;
+    later he disappears. A separate note reports a little grey man from Ülemiste järv
+    whose displeasure would cause inundation and destruction of Tallinn.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The old man sits sorrowfully by the lake at the river mouth and sees a silver
+    door with golden lattice-work, which opens when touched.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Beyond the outer door is a gloomy bronze gallery leading to a second, higher
+    door.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The second door is guarded by a dwarf wearing a stone hat, bronze armour,
+    and copper girdle, and holding a copper halbert.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dwarf says the visitor's father is driving a golden sledge with a grey
+    horse to warn mortals not to tread incautiously on the delicate silver roof.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The guide and old man enter a vast crystal palace described as part of the
+    house and grounds of the water-world.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: Crowds of men, women, and children are in the hall, but they do not notice
+    or address the newcomers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The palace fittings are bright gold and silver, the floor is copper, and the
+    brightness increases inward; the innermost gold is said to be unbearable to mortal
+    eyes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: The dwarf says people from the human world who sank into the kingdom live
+    there pleasantly and normally must stay.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The dwarf says the old man may leave that day and is the first mortal man
+    permitted to leave the abode.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The father performs a yearly month-long office after the young ice forms and
+    is released only when another mortal damages the roof and sinks down.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The dwarf gives the old man two copper rods to strike together if he needs
+    the dwarf's help at the gate.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: After being led out, the old man finds the lake door gone, returns to the
+    river mouth daily for three weeks, and then disappears.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: A separate report says a little grey man from Ülemiste järv rises every autumn
+    to inspect decorated new buildings; if dissatisfied enough to turn away, Tallinn
+    would be inundated and destroyed.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: old son / old man
+  description: The son grown old and grey; he goes to the lake, seeks his father,
+    follows the dwarf guide, receives copper rods, returns, and later disappears.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: dwarf guard-guide
+  description: A dwarf at the second door, wearing a stone hat, bronze armour, and
+    copper girdle, holding a copper halbert; he guides the old man and gives him rods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: father of the old man
+  description: The old man's father, said to drive a golden sledge with a grey horse
+    and to perform an annual office connected with the silver roof and young ice until
+    replaced.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: water-world king
+  description: The good and mighty king said to dwell in the inner part of the realm
+    where the gold is too bright for mortal eyes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: king's noble consort
+  description: The noble consort of the water-world king in the inner palace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: sunken people from the human world
+  description: Men, women, and children from the human world who sank into the kingdom,
+    live pleasantly there, and normally stay there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: little grey man of Ülemiste järv
+  description: A little grey man living in Ülemiste järv who rises each autumn to
+    inspect new buildings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: mortal visitor seeking his father
+  assigned_to:
+  - fig:1
+  basis: He enters the water-world, asks about seeing his father, is allowed to leave,
+    and later returns repeatedly to the lake.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: role:2
+  label: threshold guard and guide
+  assigned_to:
+  - fig:2
+  basis: He stands before the second door, admits and guides the visitor through the
+    water-world, and later leads him out and gives aid-token rods.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: cyclic under-ice officeholder
+  assigned_to:
+  - fig:3
+  basis: He must drive out yearly to warn mortals about the silver roof and continues
+    until another mortal sinks and replaces him.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: rulers of the water-world
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The king and consort dwell in the bright inner realm, surrounded by the realm's
+    heroes and dames.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: retained inhabitants of the water-world
+  assigned_to:
+  - fig:6
+  basis: They are identified as people from the human world who sank into the kingdom
+    and normally do not return.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: lake-dwelling omen figure
+  assigned_to:
+  - fig:7
+  basis: He rises from Ülemiste järv to inspect buildings, and his dissatisfaction
+    would precede inundation and destruction.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: watery threshold
+  literal_form: the lake at the river mouth, where entry to and return from the water-world
+    occur
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:2
+  label: silver-and-gold gate
+  literal_form: a great door of silver with golden lattice-work, followed by a second
+    higher door
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: metallic crystal palace
+  literal_form: a crystal palace with gold and silver fittings, a copper floor, and
+    increasing inner brightness
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: silver roof / young ice
+  literal_form: the delicate silver roof that mortals must not tread incautiously
+    on, later described in relation to strong young ice
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: golden sledge and grey horse
+  literal_form: a golden sledge drawn by a grey horse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: copper summoning rods
+  literal_form: two rods of copper to be struck together at the gate
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: Ülemiste flood-water
+  literal_form: Ülemiste järv, whose little grey inhabitant's displeasure would lead
+    to inundation of the low-lying country and destruction of Tallinn
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Entrance at the lake door
+  summary: The old man sits by the lake, sees the silver-and-gold door at the river
+    mouth, touches it, and enters a bronze gallery.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Meeting the dwarf at the second door
+  summary: The dwarf guard asks whether the old man has come to see his father and
+    explains that the father is away in a golden sledge warning mortals about the
+    silver roof.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tour of the water-world palace
+  summary: The dwarf leads the old man through the crystal palace where sunken people
+    are present, metal fittings shine, and the inner realm of the king and consort
+    is too bright for mortal eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Rules of residence and father's office
+  summary: The dwarf explains that human-world people who sank into the kingdom normally
+    remain there, that the old man may exceptionally leave, and that the father serves
+    annually until another mortal replaces him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Gift of rods and return to the lake
+  summary: At the gate, the dwarf gives the old man two copper rods for summoning
+    help, leads him out, and the old man returns to the lakeside; later he disappears
+    after three weeks of visits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Ülemiste järv omen
+  summary: A little grey man rises from Ülemiste järv each autumn to inspect new buildings;
+    if he turns away in dissatisfaction, flood and destruction would come upon Tallinn.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Mortal visitor enters a hidden water-world
+  taxonomy_refs:
+  - mystical_quest
+  basis: The old man enters a concealed door at the lake, is guided through the water-world
+    palace, and asks about seeing his father.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The visitor is not named as a hero in the passage, and the realm is called
+    a water-world rather than an explicit afterlife.
+- id: motif:2
+  label: Threshold guardian who becomes otherworld guide
+  taxonomy_refs: []
+  basis: The dwarf stands before the second door, permits entry, explains the realm,
+    guides the old man through it, and leads him out.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the passage gives a
+    specific guard-guide role without naming a formal initiation.
+- id: motif:3
+  label: Realm where sunken mortals normally remain, with exceptional return
+  taxonomy_refs:
+  - return
+  basis: The dwarf says people who come to the kingdom must stay, but the old man
+    may go or stay and is the first mortal permitted to leave.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is limited to the old man's actual return; most
+    inhabitants are described as unable or unwilling to return.
+- id: motif:4
+  label: Seasonal duty under young ice transferred by replacement
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The father performs a recurring yearly office for a month after the ice becomes
+    firm, and he is released only when another mortal damages the roof and sinks down
+    to take the work.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage does not specify the full cosmological reason for the office
+    beyond warning mortals about the silver roof.
+- id: motif:5
+  label: Otherworld helper gives summoning object
+  taxonomy_refs: []
+  basis: The dwarf gives the old man two copper rods and instructs him to strike them
+    together at the gate to obtain help if possible.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The rods are retained as proof of the visit, but the passage does not
+    show them being used.
+- id: motif:6
+  label: Lake-dwelling figure whose displeasure threatens flood destruction
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The little grey man from Ülemiste järv inspects buildings; if dissatisfied
+    and turning away, inundation and destruction of Tallinn would follow.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage supports flood and destruction, but it does not describe renewal
+    after the flood.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11061-11068
+  quote_or_summary: At the lake where the river falls into it, the old man sees a
+    silver door with golden lattice-work, touches it, and enters a bronze gallery.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11069-11080
+  quote_or_summary: A dwarf in stone hat, bronze armour, copper girdle, and copper
+    halbert guards the second door; he says the father is away in a golden sledge
+    with a grey horse warning mortals about the silver roof, and offers to show the
+    water-world.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11081-11088
+  quote_or_summary: The guide and old man enter a vast crystal palace; human-looking
+    crowds are present but do not notice them; fittings are gold and silver and the
+    floor is copper.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11089-11095
+  quote_or_summary: The dwarf says the inner gold is too bright for mortal eyes and
+    that the king and consort dwell there with heroes and dames.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11096-11106
+  quote_or_summary: The dwarf identifies the crowds as people from the human world
+    who sank into the kingdom, live pleasantly, and normally cannot return; he tells
+    the old man he may leave.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11107-11116
+  quote_or_summary: The father works for a month each year under the young ice until
+    another mortal damages the roof and sinks, replacing him.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11117-11125
+  quote_or_summary: At the gate the dwarf gives two copper rods; if the old man strikes
+    them together, the dwarf will help as far as he can.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11126-11133
+  quote_or_summary: The old man is led out to the lake; the door vanishes but the
+    rods remain; after three weeks of daily visits he disappears.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 11134-11143
+  quote_or_summary: Kreutzwald reports that each autumn a little grey man rises from
+    Ülemiste järv to inspect buildings; if dissatisfied and turning his head away,
+    inundation and destruction of Tallinn would follow.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Narrative actions and objects are explicit in the supplied passage. Motif-family
+    assignments are cautious, especially where available taxonomy labels only partly
+    match the passage. No cross-text comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction is confined to the supplied line range. Page markers in the passage were ignored. The final editorial transition to later sea-being tales was not treated as a motif because it does not describe a narrative event in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l11061-l11145
+  passage_sha256=9cfb2f1e7dfb977ef0c6bc8b3c1cec13050988bf7f636d28744711f0e12d9c93
+

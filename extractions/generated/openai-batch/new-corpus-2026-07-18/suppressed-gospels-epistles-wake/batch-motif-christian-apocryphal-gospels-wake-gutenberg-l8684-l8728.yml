@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8684-l8728
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER III. / CHAPTER V. / CHAPTER VI. / CHAPTER VII.; lines 8684-8728
+  start: '8684'
+  end: '8728'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“the Holy Ghost has in them by you delivered those sentiments”"
+  summary: Annaeus Seneca writes to Paul praising Paul's letters, attributing their
+    lofty sentiments to the Holy Ghost, wishing for more elegance of speech, reporting
+    the emperor's pleased and surprised reaction, and citing Vatienus' revelation
+    from the gods after the appearance of Castor and Pollux as an example of divine
+    speech through humble persons.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Annaeus Seneca addresses Paul in a greeting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seneca says he is extremely pleased after reading Paul's letters to the Galatians,
+    Corinthians, and people of Achaia.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Holy Ghost is said to have delivered lofty and sublime sentiments through
+    Paul, beyond Paul's own invention.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Seneca wishes that Paul's extraordinary writing had an elegance of speech
+    matching its majesty.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Seneca reports that the emperor is extremely pleased with the sentiments of
+    Paul's Epistles.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The emperor is said to be surprised that such notions came from a person without
+    regular education.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Seneca replies that the gods sometimes use mean or innocent persons to speak
+    by.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Seneca gives the example of Vatienus, a mean countryman in the country of
+    Reate, to whom two men called Castor and Pollux appeared and who received a revelation
+    from the gods.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Annaeus Seneca
+  description: The sender of the greeting to Paul and the speaker who praises the
+    letters, reports the emperor's reaction, and offers the Vatienus example.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Paul
+  description: The recipient of Seneca's letter and the person through whom the Holy
+    Ghost is said to have delivered sentiments in the Epistles.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Holy Ghost
+  description: The divine agent said to have delivered lofty sentiments through Paul.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the emperor
+  description: The imperial listener who hears the beginning of Paul's Epistles, is
+    pleased, and expresses surprise at Paul's lack of regular education.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the gods
+  description: Plural divine figures whom Seneca says sometimes use mean or innocent
+    persons to speak by and from whom Vatienus receives a revelation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Vatienus
+  description: A mean countryman in the country of Reate who is cited as receiving
+    an apparition and revelation from the gods.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Castor and Pollux
+  description: Two men named in Seneca's example who appeared to Vatienus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Galatians, Corinthians, and people of Achaia
+  description: Groups named as recipients or audiences of Paul's letters.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: The heading names Annaeus Seneca as greeting Paul.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: letter recipient and epistle writer
+  assigned_to:
+  - fig:2
+  basis: Paul is addressed by Seneca and is associated with letters and Epistles read
+    by Seneca and the emperor.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: human medium of inspired sentiments
+  assigned_to:
+  - fig:2
+  basis: The Holy Ghost is said to deliver sentiments through Paul beyond Paul's own
+    invention.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine source of speech or revelation
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The Holy Ghost delivers sentiments through Paul, and the gods are said to
+    speak by mean persons and give revelation.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: imperial auditor and approver
+  assigned_to:
+  - fig:4
+  basis: The emperor hears the beginning of the Epistles, is pleased, and is surprised
+    by their notions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: interpreter of divine speech through humble persons
+  assigned_to:
+  - fig:1
+  basis: Seneca answers the emperor by saying gods sometimes make use of mean persons
+    to speak by and offers Vatienus as an instance.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: humble recipient of revelation
+  assigned_to:
+  - fig:6
+  basis: Vatienus is described as a mean countryman who receives an apparition and
+    revelation from the gods.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: appearing pair
+  assigned_to:
+  - fig:7
+  basis: Castor and Pollux are named as two men who appeared to Vatienus.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: epistle addressees
+  assigned_to:
+  - fig:8
+  basis: The groups are named as those to whom Paul's letters were addressed.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: letters or Epistles
+  literal_form: Paul's letters to the Galatians, Corinthians, and people of Achaia;
+    also called Epistles in the passage.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: appearing pair
+  literal_form: Two men appeared to Vatienus, called Castor and Pollux.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: country of Reate
+  literal_form: The country of Reate, where Vatienus is located in Seneca's example.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Seneca praises Paul's letters
+  summary: Seneca greets Paul and says he is extremely pleased by reading Paul's letters
+    to named communities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Inspired sentiments attributed to the Holy Ghost
+  summary: The passage attributes the lofty and sublime sentiments in Paul's letters
+    to the Holy Ghost working through Paul.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Imperial approval and surprise
+  summary: Seneca wishes for more elegance in Paul's extraordinary writing and reports
+    that the emperor is pleased with the Epistles but surprised that their notions
+    come from someone without regular education.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Vatienus example of revelation through humble persons
+  summary: Seneca explains that gods sometimes speak through mean or innocent persons
+    and cites Vatienus, to whom Castor and Pollux appeared and who received a revelation
+    from the gods.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine wisdom delivered through a human medium
+  taxonomy_refs:
+  - wisdom
+  basis: The Holy Ghost is said to deliver lofty sentiments through Paul beyond Paul's
+    own invention, and Seneca generalizes that gods may speak through human persons.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames the material as inspired
+    sentiments rather than a developed wisdom myth.
+- id: motif:2
+  label: humble or uneducated person as vessel of revelation
+  taxonomy_refs:
+  - wisdom
+  basis: The emperor is surprised that a person without regular education produced
+    such notions, and Seneca answers that gods may use mean or innocent persons to
+    speak by, citing Vatienus.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not narrate Paul's own biography beyond the emperor's
+    comment about lack of regular education.
+- id: motif:3
+  label: revelation following an apparition
+  taxonomy_refs: []
+  basis: Vatienus is said to have had two men, Castor and Pollux, appear to him and
+    to have received a revelation from the gods.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives the example briefly and does not describe the contents
+    of the revelation.
+- id: motif:4
+  label: named paired apparition of Castor and Pollux
+  taxonomy_refs:
+  - sacred_twins
+  basis: The example names two appearing men as Castor and Pollux.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage calls them two men but does not explicitly state that they
+    are twins; the taxonomy mapping requires human review.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, Seneca uses the Vatienus episode as a functional comparison
+    for Paul''s inspired writings: both explain divine communication through a socially
+    humble or educationally unexpected human recipient or medium.'
+  claim_level: same_function
+  target: Vatienus revelation example compared with Paul's inspired Epistles
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is functional, not an identification of the Holy Ghost
+    with the plural gods, and it does not claim historical causation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8684-8691
+  quote_or_summary: "“ANNAEUS SENECA to PAUL Greeting”; Seneca says he is pleased
+    with reading Paul's letters to the Galatians, Corinthians, and people of Achaia."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt and summary used.
+- id: ev:2
+  type: quote
+  locator: 8693-8697
+  quote_or_summary: "“the Holy Ghost has in them by you delivered those sentiments”
+    which are lofty, sublime, and beyond Paul's own invention."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt and summary used.
+- id: ev:3
+  type: summary
+  locator: 8699-8703
+  quote_or_summary: Seneca wishes Paul's extraordinary writing had an elegance of
+    speech agreeable to its majesty.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8705-8711
+  quote_or_summary: Seneca tells Paul that the emperor is extremely pleased with the
+    sentiments of Paul's Epistles.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8713-8717
+  quote_or_summary: After hearing the beginning read, the emperor says he is surprised
+    to find such notions in a person without regular education.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 8719-8728
+  quote_or_summary: Seneca replies that gods sometimes use “mean (innocent) persons
+    to speak by,” citing Vatienus in Reate, to whom Castor and Pollux appeared and
+    who received a revelation from the gods.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt and summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main literal relations are explicit. Motif mapping to broad wisdom/inspiration
+    patterns is strong, while the sacred_twins taxonomy mapping for Castor and Pollux
+    is low-confidence because the passage itself does not state twinship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs such as cave, fire, milk, mountain, serpent, tree, or water are directly present in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8684-l8728
+  passage_sha256=cd9906d79495378f7b523f4b6380d0ab8c0b5125634793ee4cb915249fbb9896
+

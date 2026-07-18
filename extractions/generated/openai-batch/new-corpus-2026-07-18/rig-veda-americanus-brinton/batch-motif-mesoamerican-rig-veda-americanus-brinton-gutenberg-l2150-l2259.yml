@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.mesoamerican-rig-veda-americanus-brinton-gutenberg-l2150-l2259
+source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+passage_locator:
+  label: LIST OF ILLUSTRATIONS. / INTRODUCTION. / RIG VEDA AMERICANA / GLOSSARY.;
+    lines 2150-2259
+  start: '2150'
+  end: '2259'
+  translation: 'Rig Veda Americanus: Sacred Songs of the Ancient Mexicans'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A glossary section defining Nahuatl terms beginning with Ma-, M-, N-, and
+    O. Several entries give mythologically relevant identifications or images, including
+    a serpent twining around a tree, the xiuhcoatl or fire-serpent of Huitzilopochtli,
+    Mixcoatl and Mixcoatepetl, terms for bearing a child, ceasing to die, resuscitation
+    or animation, and Naualpilli as a master magician associated with Tlaloc and with
+    goldsmith gods in Sahagun.
+  language: English with Nahuatl terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The entry for Milacatzoa glosses the term as twining oneself like a serpent
+    around a tree and says it refers to the xiuhcoatl, the fire-serpent of Huitzilopochtli.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry for Miquiyecauiz derives the term from words meaning to die and
+    to cease, glossed as “to cease dying.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mixcoatepetl is glossed as the mountain or town of Mixcoatl, and Mixcoatl
+    is listed as a proper name.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mixiui is glossed as to accouch or bear a child, and Mixiuiloc is derived
+    from that term.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mozcaltizqui is derived from a verb glossed as to resuscitate or animate.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Naualpilli is glossed as “Master magician,” is said by the Gloss to be a name
+    of Tlaloc, and is noted as one of the gods of the goldsmiths in Sahagun.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ne-qui-macui is glossed as “I take them by the hand” and explained as an archaic
+    Chichimeca expression used in leading or guiding in dance or song.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Several entries preserve possessive or reverential kinship and divinity phrases,
+    including “my revered lord,” “our fathers,” and “my god.”
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Huitzilopochtli
+  description: Named in the glossary as the deity to whom the xiuhcoatl, or fire-serpent,
+    belongs or refers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tlaloc
+  description: Named in the glossary in the explanation that Naualpilli is a name
+    of Tlaloc.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Naualpilli
+  description: Glossed as “Master magician”; identified by the Gloss as a name of
+    Tlaloc and by Sahagun as one of the gods of the goldsmiths.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Mixcoatl
+  description: Listed as a proper name; Mixcoatepetl is glossed as the mountain or
+    town of Mixcoatl.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Deity associated with fire-serpent
+  assigned_to:
+  - fig:1
+  basis: The entry states that the xiuhcoatl is the fire-serpent of Huitzilopochtli.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Deity named in glossarial identification
+  assigned_to:
+  - fig:2
+  basis: The entry says Naualpilli is a name of Tlaloc.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: Master magician and goldsmith-god name
+  assigned_to:
+  - fig:3
+  basis: The glossary gives “Master magician” for Naualpilli and adds Sahagun’s identification
+    with gods of the goldsmiths.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: Proper name linked to place-name
+  assigned_to:
+  - fig:4
+  basis: Mixcoatl is listed as a proper name, and Mixcoatepetl is defined as the mountain
+    or town of Mixcoatl.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Serpent twining around tree
+  literal_form: A serpent around a tree, used to explain Milacatzoa.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Xiuhcoatl fire-serpent
+  literal_form: The xiuhcoatl, glossed as the fire-serpent of Huitzilopochtli.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Mixcoatepetl mountain or town
+  literal_form: The mountain or town of Mixcoatl.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Hand-taking as guidance
+  literal_form: Taking by the hand in leading or guiding dance or song.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Fire-serpent of a deity
+  taxonomy_refs:
+  - serpent
+  basis: The glossary explicitly identifies the xiuhcoatl as the fire-serpent of Huitzilopochtli.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a glossary note, not a narrative episode; no action by Huitzilopochtli
+    is described in this passage.
+- id: motif:2
+  label: Serpent encircling a tree
+  taxonomy_refs:
+  - serpent
+  basis: Milacatzoa is explained as twining oneself like a serpent around a tree.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The image is given as a lexical explanation and simile; the passage does
+    not state a ritual or mythic scene involving an actual tree.
+- id: motif:3
+  label: Resuscitation or animation vocabulary
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: Mozcaltizqui is derived from a term glossed as to resuscitate or animate;
+    Miquiyecauiz is glossed as to cease dying.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: low
+  cautions: These are isolated glossary entries and do not provide a story of death
+    and return.
+- id: motif:4
+  label: Craft-associated divine name
+  taxonomy_refs: []
+  basis: Naualpilli is glossed as “Master magician,” connected with Tlaloc, and noted
+    from Sahagun as one of the gods of the goldsmiths.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage gives a cross-reference, not a full mythic role or episode.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself compares identifications of Naualpilli: the Gloss treats
+    it as a name of Tlaloc, while Sahagun is cited for giving it as one of the gods
+    of the goldsmiths.'
+  claim_level: same_function
+  target: Sahagun, Lib. IX, cap. 18, on gods of the goldsmiths
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a source cross-reference within a glossary entry; it does not
+    establish a full motif equivalence or historical relationship beyond the cited
+    identification.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2150-2259, entry “Milacatzoa”
+  quote_or_summary: "“to twine oneself, as a serpent around a tree; refers to the
+    xiuhcoatl, fire-serpent, of Huitzilopochtli.”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2150-2259, entry “Miquiyecauiz”
+  quote_or_summary: "“Compound of miqui, to die, and yecaui, to cease; ‘to cease dying.’”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2150-2259, entries “Mixcoatepetl” and “Mixcoatl”
+  quote_or_summary: "“Mixcoatepetl ... The mountain or town of Mixcoatl”; “Mixcoatl
+    ... A proper name.”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 2150-2259, entries “Mixiui” and “Mixiuiloc”
+  quote_or_summary: "“Mixiui ... To accouch, to bear a child”; “Mixiuiloc ... From
+    mixiui, to accouch, to bear a child.”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2150-2259, entry “Mozcaltizqui”
+  quote_or_summary: "“From mo-izcali, to resuscitate, to animate.”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 2150-2259, entry “Naualpilli”
+  quote_or_summary: "“‘Master magician;’ said by the Gloss to be a name of Tlaloc.
+    Sahagun gives this as one of the gods of the goldsmiths.”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 2150-2259, entry “Ne-qui-macui”
+  quote_or_summary: "“‘I take them by the hand.’ Explained by the Gloss to be an archaic
+    (chicimeca) expression used in leading or guiding (in dance or song).”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 2150-2259, entries “Nopeltzin,” “No-tauane,” and “No-teuh”
+  quote_or_summary: "“Nopeltzin ... ‘my revered lord’”; “No-tauane ... Our fathers”;
+    “No-teuh ... ‘My god.’”"
+  source_text_path: texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a glossary rather than a mythic narrative. Literal identifications
+    of figures and symbols are fairly clear, but motif extraction is limited and mostly
+    lexical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only motifs and symbols directly supported by the glossary entries were extracted; no narrative scenes were created because the passage does not describe a continuous episode.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-rig-veda-americanus-brinton-gutenberg__l2150-l2259
+  passage_sha256=91b72617b11924c3311be61b04c2d6fc20c69fd0703ded4b76b9753ba1eba5bc
+

@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l10067-l10104
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE STORY OF SAIWUSH / KAI-KHOSRU / AKWN DW / BARZ, AND HIS CONFLICT WITH
+    RUSTEM; lines 10067-10104
+  start: '10067'
+  end: '10104'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"Forbear, Rustem! this youth is the son of Sohrb, and thy own grandchild!"'
+  summary: Barz rebukes Rustem for dishonorable conduct and challenges him to fight.
+    They duel and wrestle while their horses also fight. As Rustem is about to kill
+    Barz, the mother intervenes, identifies Barz as Sohrb's son and Rustem's grandchild,
+    and shows Sohrb's finger-ring as proof. Rustem accepts the kinship, embraces Barz,
+    takes him to Sstn, honors him, and introduces him to Zl.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Barz addresses Rustem as an old man and accuses him of disgraceful, dishonorable,
+    false, and unfair conduct in trying to take his life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Barz challenges Rustem to rise and fight if he is a man.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rustem feels ashamed at being detected, rises angrily, and the two meet with
+    battle-axes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The combatants dismount to wrestle and fasten their horses' bridles to their
+    own girdles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The horses also attack each other; Rakush bites and kicks Barz's steed until
+    it tries to gallop away, dragging Barz.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Barz asks Rustem to release him briefly so he can disentangle himself from
+    his horse.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Rustem ignores Barz's request, presses him down, and prepares to cut off his
+    head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The mother cries out for Rustem to stop and identifies the youth as the son
+    of Sohrb and Rustem's grandchild.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The mother warns Rustem not to repeat the anguish associated with Sohrb's
+    death and not to shed a kinsman's blood.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: Shh-r shows Rustem Sohrb's brilliant finger-ring, and Rustem is satisfied
+    that the kinship claim is true.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Rustem embraces Barz, kisses his head and eyes, takes him to Sstn, gives him
+    honor, and introduces him to Zl, who receives and caresses him tenderly.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rustem
+  description: Warrior addressed by Barz; fights Barz, nearly kills him, then recognizes
+    him as his grandchild and honors him.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Barz
+  description: Youth who rebukes and fights Rustem; identified as the son of Sohrb
+    and Rustem's grandchild.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: the mother / Shh-r
+  description: Female figure who intervenes at the fatal moment and shows Sohrb's
+    finger-ring to Rustem.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Sohrb
+  description: Named as Barz's father; his death and brilliant finger-ring are invoked
+    in the recognition scene.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Zl
+  description: Great-grandfather figure in Sstn who receives and caresses Barz with
+    tenderness and regard.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Rakush
+  description: Rustem's horse, which bites and kicks Barz's steed during the combat.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Barz's steed
+  description: Horse ridden by Barz; attacked by Rakush and attempts to gallop away
+    while dragging Barz.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: near-killer and later recognizer
+  assigned_to:
+  - fig:1
+  basis: Rustem is about to behead Barz, then accepts the proof of kinship and embraces
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: challenger and endangered opponent
+  assigned_to:
+  - fig:2
+  basis: Barz rebukes Rustem, challenges him to fight, wrestles with him, and is nearly
+    killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: intercessor and kinship revealer
+  assigned_to:
+  - fig:3
+  basis: The mother stops Rustem and identifies Barz as Sohrb's son and Rustem's grandchild;
+    Shh-r shows the ring.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: grandfather
+  assigned_to:
+  - fig:1
+  basis: The mother identifies Barz as Rustem's own grandchild.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: grandchild
+  assigned_to:
+  - fig:2
+  basis: The mother identifies Barz as Rustem's own grandchild.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: deceased father and lineage link
+  assigned_to:
+  - fig:4
+  basis: Sohrb is named as Barz's father, his death is recalled, and his ring proves
+    the claim.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: receiving elder ancestor
+  assigned_to:
+  - fig:5
+  basis: Zl receives Barz with tenderness and regard after Rustem introduces him.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: combat mount
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Both horses attack each other during the human wrestling match.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: recognition ring
+  literal_form: Sohrb's brilliant finger-ring
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: battle-axes
+  literal_form: battle-axes brandished by Rustem and Barz
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tethered bridles
+  literal_form: bridles fastened to each warrior's own girdle during wrestling
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: kinsman's blood
+  literal_form: poetic warning against shedding a kinsman's blood
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rebuke and challenge
+  summary: Barz denounces Rustem's conduct as disgraceful and challenges him to stand
+    and fight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Duel, wrestling, and horse combat
+  summary: Rustem and Barz fight with battle-axes, dismount to wrestle with bridles
+    tied to their girdles, and their horses fight at the same time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fatal moment interrupted
+  summary: As Rustem presses Barz down and prepares to behead him, the mother cries
+    out, reveals Barz's kinship, and warns against kinslaying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Proof, embrace, and honorable reception
+  summary: Shh-r shows Sohrb's ring, Rustem accepts Barz as kin, embraces him, takes
+    him to Sstn, honors him, and introduces him to Zl.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dishonorable stratagem exposed before formal combat
+  taxonomy_refs: []
+  basis: Barz accuses Rustem of disgraceful and unfair behavior, then challenges him
+    to rise and fight openly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The exact prior stratagem is not included in this passage range.
+- id: motif:2
+  label: single combat escalating from weapons to wrestling
+  taxonomy_refs: []
+  basis: The opponents first meet with battle-axes, then dismount and wrestle for
+    mastery.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: mirrored combat of heroes and horses
+  taxonomy_refs: []
+  basis: While the warriors wrestle, their horses also attack each other violently.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents parallel action, but does not explicitly interpret
+    the horses symbolically.
+- id: motif:4
+  label: near-kinslaying stopped by revelation of kinship
+  taxonomy_refs: []
+  basis: Rustem is about to behead Barz when the mother identifies the youth as Sohrb's
+    son and Rustem's grandchild.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: recognition token proves hidden lineage
+  taxonomy_refs: []
+  basis: Sohrb's brilliant finger-ring is shown to Rustem, who accepts the truth of
+    Barz's identity.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: ''
+- id: motif:6
+  label: reconciliation and honorable incorporation of discovered kin
+  taxonomy_refs: []
+  basis: After recognizing Barz, Rustem embraces him, brings him to Sstn, places him
+    in honor, and introduces him to Zl.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: ''
+comparison_claims:
+- id: claim:1
+  claim: The passage itself draws a cautious intratextual parallel between the threatened
+    killing of Barz and the earlier death of Sohrb, using the prior anguish as a warning
+    against another kinslaying.
+  claim_level: same_motif
+  target: prior Sohrb death alluded to in the passage
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only alludes to Sohrb's death and does not narrate the
+    full earlier episode within this line range.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10067-10074
+  quote_or_summary: 'Barz rebukes Rustem: "Old man!" and accuses him of disgrace,
+    dishonor, falseness, unfairness, and seeking his life by pretext.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 10076-10082
+  quote_or_summary: Barz challenges Rustem to rise and fight; Rustem rises, the two
+    brandish battle-axes, dismount to wrestle, and fasten their horses' bridles to
+    their girdles.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 10082-10088
+  quote_or_summary: The horses attack each other; Rakush bites and kicks Barz's steed
+    so severely that it tries to gallop away, dragging Barz, who asks Rustem to release
+    him briefly.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 10088-10093
+  quote_or_summary: 'As Rustem prepares to cut off Barz''s head, the mother cries:
+    "Forbear, Rustem! this youth is the son of Sohrb, and thy own grandchild!"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 10095-10099
+  quote_or_summary: The mother urges Rustem to think of Sohrb, not take the precious
+    life of sire and son, and pause before shedding a kinsman's blood.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: 10100-10104
+  quote_or_summary: Rustem asks if the kinship claim is true; Shh-r shows Sohrb's
+    brilliant finger-ring; Rustem accepts it, embraces and kisses Barz, brings him
+    to Sstn, honors him, and introduces him to Zl.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main events and figures are explicit in the passage. Motif labels are
+    descriptive and not mapped to supplied taxonomy families because none clearly
+    match without broader context. The comparison claim is limited to the passage's
+    own allusion to Sohrb.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source spelling and encoding are preserved for names such as Sohrb, Shh-r, Sstn, Zl, and Rakush.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l10067-l10104
+  passage_sha256=0fd924b360daf4e9fbe500b66753aeae2d6649f868b50c9cc545e91318ffafa7
+

@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.confucian-analects-legge-gutenberg-l288-l308
+source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+passage_locator:
+  label: The Analects of Confucius / THE CHINESE CLASSICS / IN FIVE VOLUMES / BOOK
+    II. WEI CHANG.; lines 288-308
+  start: '288'
+  end: '308'
+  translation: The Analects of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Master cites the Shu-ching to connect filial and brotherly duties with
+    government, compares lack of truthfulness to carriages lacking yoking parts, answers
+    Tsze-chang about knowing affairs of later ages through dynastic continuity, and
+    condemns sacrifice to an unrelated spirit and failure to do what is right.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Master quotes the Shu-ching on filial piety and brotherly duties and says
+    these qualities are displayed in government.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master says that filial and brotherly conduct can constitute the exercise
+    of government without holding a formal government position.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Master says he does not know how a man without truthfulness can get on,
+    and compares this to large and small carriages lacking yoking arrangements.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tsze-chang asks whether affairs ten ages later could be known.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Confucius says the Yin followed the regulations of Hsia, Chau followed the
+    regulations of Yin, and a later successor to Chau could be understood even after
+    a hundred ages.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Master says sacrificing to a spirit that does not belong to a man is flattery.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Master says seeing what is right and not doing it is want of courage.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Master / Confucius
+  description: Speaker of the teachings in the passage; named as Confucius in the
+    response to Tsze-chang.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Tsze-chang
+  description: Asks whether the affairs of ten ages after could be known.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Man without truthfulness
+  description: Hypothetical man described by the Master as lacking truthfulness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Unrelated spirit
+  description: A spirit described as not belonging to the man who sacrifices to it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Generic sacrificer
+  description: A man who sacrifices to a spirit that does not belong to him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: authoritative teacher
+  assigned_to:
+  - fig:1
+  basis: The figure delivers teachings, answers Tsze-chang, and states moral judgments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: Tsze-chang asks whether affairs ten ages later could be known.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: negative ethical example
+  assigned_to:
+  - fig:3
+  basis: The man lacking truthfulness is presented as unable to get on, by analogy
+    with a carriage lacking yoking parts.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual recipient not belonging to the sacrificer
+  assigned_to:
+  - fig:4
+  basis: The spirit is identified as the object of a sacrifice that is judged flattery
+    because it does not belong to the sacrificer.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: improper sacrificer
+  assigned_to:
+  - fig:5
+  basis: The man performs sacrifice to a spirit that does not belong to him, which
+    the Master calls flattery.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: carriage yoking apparatus
+  literal_form: A large carriage without the cross-bar for yoking oxen, and a small
+    carriage without the arrangement for yoking horses.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: distant ages
+  literal_form: Ten ages after; a hundred ages.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: unrelated spirit in sacrifice
+  literal_form: A spirit which does not belong to the man sacrificing to it.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Filial and brotherly duties as government
+  summary: The Master cites the Shu-ching and says filial piety and brotherly duties
+    are displayed in government and can constitute the exercise of government.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Truthfulness and the disabled carriage image
+  summary: The Master says a man without truthfulness cannot get on, comparing him
+    to carriages lacking the parts needed to yoke draft animals.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Knowing affairs across dynastic ages
+  summary: Tsze-chang asks about knowing affairs ten ages later, and Confucius replies
+    that dynastic regulations are followed with knowable additions or subtractions
+    across Hsia, Yin, Chau, and later ages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Improper sacrifice and moral courage
+  summary: The Master calls sacrifice to an unrelated spirit flattery and says that
+    failing to do what is right is want of courage.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: authoritative ethical wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of concise moral and political teachings attributed
+    to the Master, including teachings on filial duty, truthfulness, sacrifice, and
+    courage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a broad wisdom classification; the passage is didactic rather
+    than narrative myth.
+- id: motif:2
+  label: household virtue as governance
+  taxonomy_refs:
+  - wisdom
+  basis: The Master cites filial and brotherly duties as qualities displayed in government
+    and says this can itself be an exercise of government.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states a moral-political principle, not a mythic episode.
+- id: motif:3
+  label: truthfulness as necessary linkage
+  taxonomy_refs:
+  - wisdom
+  basis: The Master compares a man without truthfulness to carriages that cannot go
+    because they lack yoking components.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is an ethical analogy; no available symbol taxonomy directly
+    covers the carriage image.
+- id: motif:4
+  label: transmission of order across dynastic ages
+  taxonomy_refs: []
+  basis: Confucius describes Yin following Hsia regulations, Chau following Yin regulations,
+    and future dynastic affairs as knowable through such continuity and modification.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an institutional continuity pattern; the passage does not frame
+    it as royal legitimacy or as a mythic genealogy.
+- id: motif:5
+  label: improper sacrifice to an unaffiliated spirit
+  taxonomy_refs:
+  - sacrifice
+  basis: The Master explicitly says that sacrificing to a spirit which does not belong
+    to a man is flattery.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage condemns one kind of sacrifice but gives no ritual narrative
+    or details.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares its teaching on filial and brotherly conduct
+    to a statement from the Shu-ching, treating those household virtues as having
+    governmental function.
+  claim_level: same_function
+  target: Shu-ching statement on filial piety, brotherly duties, and government quoted
+    in the passage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the citation within this passage is used; no broader textual transmission
+    claim is inferred.
+- id: claim:2
+  claim: The passage presents Hsia, Yin, and Chau regulations as successively followed
+    and modified, supporting a cautious common-inheritance pattern within the named
+    dynastic sequence.
+  claim_level: common_inheritance
+  target: regulatory sequence Hsia -> Yin -> Chau, with a possible later successor
+    to Chau
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns regulations as stated in the passage; it does not
+    infer mythological descent or broader cultural transmission.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 288-292
+  quote_or_summary: 'The Master cites the Shu-ching: “You are filial, you discharge
+    your brotherly duties. These qualities are displayed in government,” and says
+    this constitutes the exercise of government.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: lines 293-296
+  quote_or_summary: The Master says he does not know how a man without truthfulness
+    can get on, comparing him to a large carriage without the ox-yoking cross-bar
+    or a small carriage without the horse-yoking arrangement.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 297-304
+  quote_or_summary: Tsze-chang asks whether affairs ten ages after could be known;
+    Confucius answers by describing Yin following Hsia regulations, Chau following
+    Yin regulations, and later affairs being knowable even after a hundred ages.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain; supplied metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: lines 306-308
+  quote_or_summary: The Master says that sacrificing to a spirit which does not belong
+    to a man is flattery, and that seeing what is right but not doing it is want of
+    courage.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/analects-legge.md
+  rights_note: Public domain; supplied metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is ethical and political instruction rather than narrative mythology;
+    the comparison claims are limited to relationships explicitly stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy entries such as water, tree, serpent, fire, cave, milk, or mountain occur in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-analects-legge-gutenberg__l288-l308
+  passage_sha256=f04fe14b8dbc67acdf7ef9dbf74e428f0c9ea417655046ac3d2a3aeb602a5660
+

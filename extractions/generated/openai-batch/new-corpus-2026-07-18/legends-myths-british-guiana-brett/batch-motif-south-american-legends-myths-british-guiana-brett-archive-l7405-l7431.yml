@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l7405-l7431
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 161 / PART V. / CONTENTS OF PART V. / INTRODUCTION.;
+    lines 7405-7431
+  start: '7405'
+  end: '7431'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“With his comrades (as animals) joins in the dance.”"
+  summary: A poetic introduction frames a renewed river voyage, a cayman by the shore,
+    an evening encampment with prayer, camp-fires, hammocks, and tale-telling, and
+    legends of moonlit sprites who dance with animal-form comrades and sometimes frighten
+    humans.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker calls for hoisting the red cross and voyaging again through roaring
+    torrents while hauling a boat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Indigenous paddlers point toward a cayman lurking for prey among sandbanks
+    and rocks near the shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group encamps before night; the Indians join evening prayer, make camp-fires,
+    eat, go to hammocks, and tell tales until the moon rises high.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The legends described include sprites who, in moonlight, dance with comrades
+    described as animals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sprites are described as not malignant, though they sometimes greatly
+    frighten human beings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: voyaging speaker and party
+  description: The collective “us” and “we” who voyage, haul the boat, and encamp.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Indigenous paddlers / Indians
+  description: The “red men” who paddle and point, later joining evening prayer, making
+    camp-fires, eating, going to hammocks, and telling tales.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: grim cayman
+  description: A cayman lurking for prey among sandbanks and rocks by the shore.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: sprites
+  description: Sprites in the legends who join in a moonlit dance and are not malignant,
+    though they may frighten humans.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: animal comrades
+  description: Comrades of the sprites, described parenthetically as animals, who
+    join in the dance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: human beings
+  description: Humans who may be sorely frightened by the sprites.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: river voyagers and campers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes a group voyaging, hauling a boat, paddling, and encamping.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Indigenous companions and tale-tellers
+  assigned_to:
+  - fig:2
+  basis: The Indians join prayer, make camp-fires, go to hammocks, and tell tales.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: lurking predator
+  assigned_to:
+  - fig:3
+  basis: The cayman is said to be lurking for prey by the shore.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: moonlight dancers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Sprites and their animal comrades join in a dance in moonlight.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: frightened humans
+  assigned_to:
+  - fig:6
+  basis: Human beings are described as sometimes sorely affrighted by the sprites.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: red cross
+  literal_form: red cross hoisted at the start of the voyage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: river waters
+  literal_form: wild torrents, boat travel, paddling, sandbanks, rocks, and shore
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: camp-fires
+  literal_form: fires made at the evening encampment
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hammocks
+  literal_form: hammocks to which the Indians repair after supper
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: moonlight
+  literal_form: the moon rising high and the “merrie moonlight” in which sprites dance
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: animal-form companions
+  literal_form: comrades described as animals joining the sprites’ dance
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: river voyage and cayman sighting
+  summary: The speakers set out again by boat through torrents, while Indigenous paddlers
+    point to a cayman lurking near the shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: evening encampment and tale-telling
+  summary: Before nightfall the group camps; the Indians pray, make camp-fires, eat,
+    go to hammocks, and tell tales until moonrise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: moonlit sprite dance in the legends
+  summary: The tales include sprites dancing in moonlight with animal comrades; these
+    sprites are not malignant but may frighten people.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: river voyage as introductory passage into legend-telling
+  taxonomy_refs:
+  - departure
+  basis: The passage begins by calling the group to hoist the red cross and voyage
+    again through river torrents before the tale-telling scene.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: This is a poetic framing introduction rather than a complete mythic journey
+    episode.
+- id: motif:2
+  label: campfire oral tale-telling at night
+  taxonomy_refs: []
+  basis: After evening prayer, camp-fires, supper, and hammocks, the Indians tell
+    tales until the moon rises high.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches oral tale-telling.
+- id: motif:3
+  label: moonlit spirits dancing with animal-form companions
+  taxonomy_refs:
+  - shapeshifter
+  basis: The legends are said to tell of sprites who, in moonlight, dance with comrades
+    described as animals.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wording indicates animal-associated or animal-form companions, but
+    does not explicitly describe transformation.
+- id: motif:4
+  label: non-malignant supernatural beings who frighten humans
+  taxonomy_refs: []
+  basis: The sprites are described as not malignant, though they sometimes sorely
+    affright human beings.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a general characterization, not a full narrative
+    instance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7407-7414
+  quote_or_summary: "“Hoist again the red cross ! Let us voyage once more”; the boat
+    is hauled through roaring torrents, and paddlers point to a cayman lurking for
+    prey by sandbanks and rocks near shore."
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7416-7422
+  quote_or_summary: The party encamps before night; the Indians join evening prayer,
+    make camp-fires, eat, go to hammocks, and tell tales until the moon rises high.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7424-7431
+  quote_or_summary: The passage says some legends tell how each sprite, in moonlight,
+    “With his comrades (as animals) joins in the dance”; they are not malignant but
+    sometimes sorely frighten human beings.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal elements are clear, but motif identification is limited because this
+    is an introductory poetic frame and not a full myth narrative. No comparison claims
+    were made beyond taxonomy-style candidate motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs applied only where directly supported or cautiously relevant.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l7405-l7431
+  passage_sha256=632700ce7b252c63f67e0f793af7a57de99183ad55530c4af865b9e00d298e18
+

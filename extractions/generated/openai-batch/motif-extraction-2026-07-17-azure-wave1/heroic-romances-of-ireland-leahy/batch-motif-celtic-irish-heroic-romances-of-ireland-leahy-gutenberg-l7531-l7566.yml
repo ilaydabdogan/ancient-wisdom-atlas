@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7531-l7566
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 65 / PAGE 66 / PAGE 67 / PAGES 68, 69; lines 7531-7566
+  start: '7531'
+  end: '7566'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A translator''s note discusses disputed renderings in Emer''s “Awakening
+    of Cuchulain”: an address meant to release someone from deep sleep, horns interpreted
+    as contest signals rather than beer vessels, heavy sleep described as decay and
+    near to death, and Emer pointing Cuchulain toward icicles as a warning image.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the material as a translation note on Emer's “Awakening
+    of Cuchulain” and notes differences from Thurneysen's rendering.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A proposed rendering has an addressee asked whether looking on the king of
+    Macha and on the speaker's beauty releases him from deep sleep.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says one Irish line may mean “see their horns for the contest,” while
+    another reading is translated as horns full of beer; it also says horns may mean
+    trumpets or drinking-horns.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note says Emer would hardly call on Cuchulain to throw off a drunken sleep
+    and then take to beer.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A proposed translation characterizes heavy sleep as decay, fatigue against
+    a heavy war, “milk for the satiated,” and death-weakness related to death.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The note explains a tanist as the prince who stood next to the king and applies
+    that image to death-weakness and death.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The note says line 14 may mean “see each wonder wrought by the cold.”
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The note says Emer calls Cuchulain's attention to icicles, which she thinks
+    he is in danger of resembling.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Emer
+  description: Named in relation to “Awakening of Cuchulain”; the note says Emer calls
+    Cuchulain's attention to icicles and interprets her as calling on him to throw
+    off sleep.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Cuchulain
+  description: Named as the person whose sleep and awakening are discussed; Emer calls
+    his attention to icicles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: king of Macha
+  description: Mentioned in the proposed rendering as a figure to be looked on; the
+    passage does not specify the figure's identity beyond the title.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: awakening speaker or admonisher
+  assigned_to:
+  - fig:1
+  basis: The passage frames the material as Emer's awakening of Cuchulain and says
+    Emer calls his attention to icicles and to throwing off sleep.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: sleeping addressee
+  assigned_to:
+  - fig:2
+  basis: Cuchulain is the figure whose sleep is discussed and whose attention Emer
+    tries to direct.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: figure seen or invoked
+  assigned_to:
+  - fig:3
+  basis: The proposed line says, “Look on the king of Macha.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: deep or heavy sleep
+  literal_form: deep sleep; heavy sleep; the sleep that is on thee
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: horns for contest
+  literal_form: horns for the contest; possible trumpets or drinking-horns
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: milk for the satiated
+  literal_form: "“milk for the satiated”"
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: death-weakness as tanist of death
+  literal_form: "“death-weakness is the tanist of death”"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: cold and icicles
+  literal_form: wonders wrought by cold; icicles
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Awakening address
+  summary: The note presents a proposed rendering in which an addressee is asked whether
+    looking on the king of Macha and the speaker's beauty releases him from deep sleep.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Contest horns and rejected beer reading
+  summary: The note interprets horns as connected with contest or trumpets rather
+    than beer, because Emer is understood to be urging Cuchulain away from drunken
+    sleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Deathlike sleep and cold warning
+  summary: The note gives a translation in which heavy sleep is decay, fatigue before
+    war, “milk for the satiated,” and near to death; it also says Emer points Cuchulain
+    to icicles as something he risks resembling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: awakening from dangerous deathlike sleep
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage connects deep or heavy sleep with decay, weakness near death,
+    and a release or throwing off of sleep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a translation note and uses metaphor; it does not itself
+    narrate an actual death and rebirth.
+- id: motif:2
+  label: rousing a hero for contest or war
+  taxonomy_refs: []
+  basis: The note links horns with contest, mentions heavy war, and interprets Emer
+    as urging Cuchulain to throw off sleep.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wider narrative situation is not supplied in this passage; the motif
+    is inferred from translation comments within the note.
+- id: motif:3
+  label: cold immobilization or icicle resemblance
+  taxonomy_refs: []
+  basis: The note says Emer points out wonders wrought by cold and icicles, which
+    she thinks Cuchulain is in danger of resembling.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is a brief explanatory note on a line rather than a full narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7531-7535
+  quote_or_summary: The passage introduces a translation of Emer's “Awakening of Cuchulain”
+    and notes differences from Thurneysen's rendering.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 7537-7540
+  quote_or_summary: "“Look on the king of Macha, on my beauty / does not that release
+    thee from deep sleep?”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 7542-7547
+  quote_or_summary: The note reads a line as “see their horns for the contest,” discusses
+    an alternate “horns full of beer” reading, says horns may mean trumpets or drinking-horns,
+    and argues that Emer would hardly call on Cuchulain to throw off drunken sleep
+    and then take beer.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; concise summary with short embedded phrases.
+- id: ev:4
+  type: quote
+  locator: lines 7549-7556
+  quote_or_summary: "“Heavy sleep is decay ... it is ‘milk for the satiated,’ ...
+    death-weakness is the tanist of death.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; abbreviated short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 7558-7560
+  quote_or_summary: The note explains that a tanist was the prince next to the king
+    and contrasts this image with Thurneysen's translation “weakness is sister to
+    death.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 7562-7566
+  quote_or_summary: The note says line 14 seems to mean “see each wonder wrought by
+    the cold” and explains that Emer calls Cuchulain's attention to icicles which
+    she thinks he is in danger of resembling.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source text; concise summary with short embedded quote.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a translator's commentary rather than a continuous narrative
+    episode; figure identities and motif candidates should be reviewed against the
+    surrounding primary text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself mainly compares translation choices rather than mythological traditions or motif families.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7531-l7566
+  passage_sha256=ba2387343bd35b5effb23b68c68948c3690c5477d023cdbba99603783ae851ab
+

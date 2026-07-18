@@ -1,0 +1,591 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l12309-l12375
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: LOHURSP / GUSHTSP, AND THE FAITH OF ZERDUSHT / THE HEFT-KHAN OF ISFENDIYR
+    / CAPTURE OF THE BRAZEN FORTRESS; lines 12309-12375
+  start: '12309'
+  end: '12375'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Isfendiyr's conquest, Gushtsp permits him to return by the road of
+    the Heft-khan with booty. Isfendiyr recovers property lost in snow, is welcomed,
+    and later recounts his adventures to his father. Gushtsp delays fulfilling a promise
+    to give him the crown. Isfendiyr asks his mother Kitabn for help, but she counsels
+    patience and silence. Isfendiyr confronts Gushtsp, who consults Jamsp about the
+    stars. Jamsp foretells Isfendiyr's future sovereignty over the seven climes and
+    his eventual death from Rustem's bow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gushtsp orders Isfendiyr to continue governing the conquered empire, but Isfendiyr
+    asks to return to see his father.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Isfendiyr returns by the road of the Heft-khan with booty and finds property
+    previously lost beneath snowdrifts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: A royal feast is held, and both Gushtsp and Isfendiyr become intoxicated after
+    repeated drinking of wine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When asked to recount the Heft-khan expedition, Isfendiyr refuses to narrate
+    while drunk and says he will speak the next day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The next day Gushtsp sits on his throne, Isfendiyr sits before him on a golden
+    chair, and Isfendiyr recounts the expedition.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Gushtsp is pleased by the account but harbors envy and suspicion and delays
+    investing Isfendiyr with sovereignty.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Isfendiyr tells his mother that Gushtsp had promised him the crown after Arjsp
+    was defeated and his sisters were freed.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Kitabn counsels Isfendiyr to keep silent, warns against renewed imprisonment
+    and chains, and advises patience because the succession is his.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Isfendiyr confronts Gushtsp and asks why the king has not fulfilled his promise
+    after Isfendiyr's services and victories.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Gushtsp replies that the throne belongs to Isfendiyr but is inwardly irritated
+    by his son's reproach.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Gushtsp consults Jamsp about what the stars foretell concerning Isfendiyr.
+  category: action
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:12
+  text: Jamsp foretells Isfendiyr's exalted fortune, future sovereignty over the seven
+    climes, and death by a dart from Rustem's bow.
+  category: speech
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Gushtsp
+  description: King and father of Isfendiyr; he welcomes Isfendiyr, asks for the Heft-khan
+    account, delays the promised sovereignty, and consults Jamsp.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Isfendiyr
+  description: Prince and son of Gushtsp; returning conqueror of the Heft-khan road
+    who claims the promised crown.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Kitabn
+  description: Mother of Isfendiyr; she receives his complaint and counsels silence
+    and patience.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Jamsp
+  description: Counselor consulted by Gushtsp to know what the stars foretell.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Arjsp
+  description: Enemy whom Isfendiyr is said to have conquered and slain.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: Isfendiyr's sisters
+  description: Sisters whose restoration to liberty is named as part of Isfendiyr's
+    accomplishment.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Rustem
+  description: Figure whose bow is named in the prophecy of Isfendiyr's death.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: reigning king and father
+  assigned_to:
+  - fig:1
+  basis: Gushtsp is described as king and as Isfendiyr's father.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: promised heir and claimant
+  assigned_to:
+  - fig:2
+  basis: Isfendiyr says Gushtsp promised to place the crown of Irn on his head after
+    his victories.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: suspicious delaying ruler
+  assigned_to:
+  - fig:1
+  basis: Gushtsp delays investing Isfendiyr with sovereignty and is irritated when
+    reproached.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:4
+  label: prudential mother-counselor
+  assigned_to:
+  - fig:3
+  basis: Kitabn advises silence and patience and warns against imprisonment.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: returning victorious warrior
+  assigned_to:
+  - fig:2
+  basis: Isfendiyr returns after conquest, recovers lost property, and recounts his
+    Heft-khan expedition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: role:6
+  label: interpreter of the stars
+  assigned_to:
+  - fig:4
+  basis: Gushtsp consults Jamsp to learn what the stars foretell, and Jamsp gives
+    the answer.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:7
+  label: conquered enemy
+  assigned_to:
+  - fig:5
+  basis: Arjsp is named as the enemy whom Isfendiyr conquered and slew.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:8
+  label: liberated captives
+  assigned_to:
+  - fig:6
+  basis: Isfendiyr's sisters are described as restored to liberty.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: prophesied source of fatal bowshot
+  assigned_to:
+  - fig:7
+  basis: The prophecy states that a deadly dart from Rustem's bow will kill Isfendiyr.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: road of the Heft-khan
+  literal_form: Named route by which Isfendiyr returns and about which he recounts
+    his expedition.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: winter storm and snowdrifts
+  literal_form: The place of the earlier winter-storm where lost property is found
+    beneath snowdrifts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wine and goblet
+  literal_form: Gushtsp repeatedly fills Isfendiyr's goblet with wine during the royal
+    feast.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: royal regalia and seating
+  literal_form: Throne, golden chair, crown, and royal power named in the succession
+    dispute.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: serpent image
+  literal_form: Gushtsp's inward envy and suspicion are compared to writhing like
+    a serpent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: stars
+  literal_form: Celestial signs consulted to learn Isfendiyr's destiny.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:7
+  label: seven climes
+  literal_form: The heft-aklm, or seven climes, over which Isfendiyr is foretold to
+    gain sovereignty.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: Rustem's bow and deadly dart
+  literal_form: A deadly dart from Rustem's bow foretold as the cause of Isfendiyr's
+    death.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:9
+  label: prison and chains
+  literal_form: Kitabn warns that Isfendiyr might again be thrown into prison and
+    confined in chains.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Return from conquest by the Heft-khan road
+  summary: Isfendiyr is permitted to leave the newly conquered empire, returns by
+    the road of the Heft-khan, and recovers property lost under snow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Royal feast and deferred narration
+  summary: Gushtsp and Isfendiyr drink heavily at a royal feast; when Gushtsp asks
+    for the expedition account, Isfendiyr postpones it until he is sober.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Throneroom account and delayed investiture
+  summary: The next day Isfendiyr recounts the Heft-khan expedition while Gushtsp
+    sits on the throne, but Gushtsp secretly delays giving him sovereignty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mother-son counsel over the promised crown
+  summary: Isfendiyr tells Kitabn about Gushtsp's promise of the crown after Arjsp's
+    defeat and the freeing of his sisters; Kitabn counsels silence and patience.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Isfendiyr confronts Gushtsp
+  summary: Isfendiyr asks Gushtsp why the promise has not been fulfilled after his
+    victories; Gushtsp says the throne is his but becomes irritated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Star consultation and prophecy of death
+  summary: Gushtsp consults Jamsp about Isfendiyr's destiny; Jamsp foretells exalted
+    fortune, rule over the seven climes, and death from Rustem's bow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: contested royal succession after a promised crown
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage repeatedly centers on Gushtsp's promise to crown Isfendiyr, Gushtsp's
+    delay, and Isfendiyr's claim to the throne after fulfilling the required deeds.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage establishes the succession conflict but does not resolve it
+    within the excerpt.
+- id: motif:2
+  label: return from heroic conquest and ordeal-road
+  taxonomy_refs:
+  - return
+  basis: Isfendiyr returns from conquest by the road of the Heft-khan, recovers lost
+    property, is welcomed, and later recounts the expedition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The detailed trials of the Heft-khan are only referred to here, not narrated
+    in this excerpt.
+- id: motif:3
+  label: prudential counsel to a threatened heir
+  taxonomy_refs:
+  - wisdom
+  basis: Kitabn advises Isfendiyr not to speak openly, warns of prison and chains,
+    and tells him to wait because succession and power will come to him.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The counsel is political and familial; the broader wisdom-motif classification
+    should be reviewed.
+- id: motif:4
+  label: foretold destiny and fatal weapon
+  taxonomy_refs: []
+  basis: Jamsp's star-based answer foretells both Isfendiyr's future sovereignty and
+    the particular means of his death by a dart from Rustem's bow.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: No exact available taxonomy reference for astrology, fate, or death-prophecy
+    is supplied.
+- id: motif:5
+  label: jealous father delaying the son's rule
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Gushtsp, Isfendiyr's father, delays the promised sovereignty, is described
+    as envious and suspicious, and becomes irritated by his son's reproach.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: The passage supports the father-son political tension, but the full narrative
+    consequences lie outside this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12309-12316
+  quote_or_summary: Gushtsp orders Isfendiyr to continue governing the new empire;
+    Isfendiyr asks to see his father and is told to bring the booty back by the road
+    of the Heft-khan.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 12316-12320
+  quote_or_summary: At the place of the earlier winter-storm, Isfendiyr finds the
+    property he had lost beneath snowdrifts and then completes his journey to a warm
+    welcome.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 12320-12329
+  quote_or_summary: At a royal feast, Gushtsp repeatedly fills Isfendiyr's goblet
+    with wine; both become intoxicated, and Isfendiyr refuses to recount the expedition
+    until sober.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 12330-12336
+  quote_or_summary: The next day Gushtsp sits on his throne, Isfendiyr sits before
+    him on a golden chair, and Isfendiyr faithfully details the notable incidents
+    of the Heft-khan.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: 12336-12340
+  quote_or_summary: Gushtsp feels pleasure at the account, but envy and suspicion
+    remain, 'writhing internally like a serpent,' and he delays investing Isfendiyr
+    with sovereignty.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 12341-12350
+  quote_or_summary: Isfendiyr privately tells Kitabn that Gushtsp promised him the
+    crown of Irn after he conquered and slew Arjsp and restored his sisters to liberty.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 12350-12362
+  quote_or_summary: Kitabn counsels Isfendiyr to say nothing, warns that he might
+    again be imprisoned and chained, and urges patience because succession, army,
+    crown, throne, and wealth will become his.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: 12363-12370
+  quote_or_summary: Isfendiyr addresses Gushtsp and asks how he has failed, saying
+    he has done unmatched deeds, overthrown Gushtsp's greatest enemy, supported his
+    honor, and deserves fulfillment of the promise.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: 12370-12373
+  quote_or_summary: Gushtsp tells Isfendiyr not to be impatient and says the throne
+    is his, but is deeply irritated and later consults Jamsp about what the stars
+    foretell.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: 12373-12375
+  quote_or_summary: Jamsp answers that Isfendiyr has exalted fortune and high destiny,
+    will overcome all enemies, and will gain sovereignty over the heft-aklm, or seven
+    climes; Gushtsp then asks what his death will be.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary used.
+- id: ev:11
+  type: quote
+  locator: '12375'
+  quote_or_summary: "'A deadly dart from Rustem's bow, / Will lay the glorious warrior
+    low.'"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious;
+    several themes are clear in the excerpt, but the detailed Heft-khan trials and
+    later narrative outcome are outside the supplied lines. No comparison claims were
+    added because the passage itself does not provide an explicit external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Names and spellings follow the provided text where possible.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l12309-l12375
+  passage_sha256=1b1fdd745e518ecc4c968b1dbc23d2b2550df0eaf76983620a76af6b97aada35
+

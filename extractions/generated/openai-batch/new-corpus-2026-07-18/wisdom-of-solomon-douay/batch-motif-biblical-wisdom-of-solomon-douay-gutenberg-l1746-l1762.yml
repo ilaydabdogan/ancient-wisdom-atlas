@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.biblical-wisdom-of-solomon-douay-gutenberg-l1746-l1762
+source_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+passage_locator:
+  label: 'The Bible, Douay-Rheims, Book 25: Wisdom / THE HOLY BIBLE / THE BOOK OF
+    WISDOM; lines 1746-1762'
+  start: '1746'
+  end: '1762'
+  translation: 'The Bible, Douay-Rheims, Book 25: Wisdom'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: The fire had power in water above its own virtue, and the water forgot its
+    quenching nature.
+  summary: The passage explains that God changed the elements by miracles for his
+    people while the elements continued to obey his will. Land and water exchange
+    properties; fire acts in water, and water does not quench it. Flames do not consume
+    animals walking in them or melt the good food identified as manna. The Lord magnifies,
+    honors, and assists his people everywhere and always.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The introductory note states that God wrought changes in the elements by miracles
+    in favor of his people, while the elements kept harmony by obeying his will.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Things of the land are said to be turned into things of the water, and things
+    that had swum in water are said to pass upon land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fire is described as having power in water beyond its own virtue, while water
+    is described as forgetting its quenching nature.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Flames are said not to waste the flesh of corruptible animals walking in them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Flames are said not to melt a good food that was apt to melt like ice.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Lord is addressed as magnifying, honoring, and assisting his people at
+    all times and in every place.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note identifies the good food as manna.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: The divine figure who works miracles in the elements, whose will the
+    elements obey, and who magnifies, honors, and assists his people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: His people / thy people
+  description: The people favored by the miracles and described as magnified, honored,
+    and assisted by the Lord.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Corruptible animals
+  description: Animals walking in the flames whose flesh is not wasted by them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Divine miracle-worker and protector
+  assigned_to:
+  - fig:1
+  basis: God is said to have changed elements by miracles, the elements obey his will,
+    and the Lord assists his people.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: Favored and assisted people
+  assigned_to:
+  - fig:2
+  basis: The miracles are described as being in favor of God's people, and the Lord
+    is said to magnify, honor, and assist them.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: Unharmed living creatures in flame
+  assigned_to:
+  - fig:3
+  basis: The flames do not waste the flesh of animals walking in them.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fire / flames
+  literal_form: Fire and flames that act in water and do not consume flesh or melt
+    the good food.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Water
+  literal_form: Water that receives fire and is described as forgetting its quenching
+    nature.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Land
+  literal_form: Land whose things are turned into things of the water, while water-creatures
+    pass upon land.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Good food / manna
+  literal_form: A good food, apt to melt like ice, identified in the note as manna.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: Elements
+  literal_form: The elements changed by miracles while retaining harmony by obeying
+    God's will.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Elements changed while obeying divine will
+  summary: The passage's note explains the elemental changes as miracles wrought by
+    God in favor of his people, with the elements remaining harmonious through obedience
+    to his will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Land and water exchange domains
+  summary: Things belonging to land become things of water, and things that formerly
+    swam in water move upon land.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fire and water suspend ordinary properties
+  summary: Fire has power in water beyond its usual virtue, while water does not exercise
+    its quenching nature.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Flames do not consume animals or manna
+  summary: Flames do not waste animals walking in them and do not melt the food identified
+    as manna; the Lord is praised for magnifying, honoring, and assisting his people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Miraculous alteration of natural elements
+  taxonomy_refs: []
+  basis: The passage states that God changed the elements by miracles, with land and
+    water exchanging domains and fire acting within water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy motif precisely names elemental alteration; taxonomy
+    references are therefore left empty.
+- id: motif:2
+  label: Divine protection through suspended destructive properties
+  taxonomy_refs: []
+  basis: Fire does not consume animals or melt the good food, and the Lord is said
+    to assist his people at all times and places.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the protective result but does not elaborate a full
+    narrative episode within these lines.
+- id: motif:3
+  label: Divine favor toward a people
+  taxonomy_refs: []
+  basis: The miracles are described as wrought in favor of God's people, whom the
+    Lord magnifies, honors, and assists.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly mention covenant, election, or a named
+    people in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1746-1748; introductory note
+  quote_or_summary: The note explains that God changed the elements by miracles in
+    favor of his people, while they kept harmony by obeying his will.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: Wisdom 19:18; within lines 1746-1762
+  quote_or_summary: '"the things of the land were turned into things of the water"
+    and things that swam in water "passed upon the land."'
+  source_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: Wisdom 19:19; within lines 1746-1762
+  quote_or_summary: '"The fire had power in water above its own virtue, and the water
+    forgot its quenching nature."'
+  source_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: Wisdom 19:20; within lines 1746-1762
+  quote_or_summary: Flames do not waste the flesh of corruptible animals walking in
+    them and do not melt the good food apt to melt like ice.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: Wisdom 19:20; within lines 1746-1762
+  quote_or_summary: '"thou didst magnify thy people, O Lord, and didst honour them"
+    and assist them "at all times, and in every place."'
+  source_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: line 1762; explanatory note
+  quote_or_summary: '"That good food... The manna."'
+  source_text_path: texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied passage and notes. No external Exodus
+    context or cross-tradition comparison has been added. Comparison confidence is
+    marked high only for the absence of passage-supported comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were extracted because the passage itself does not explicitly support a comparison to another named text, tradition, or motif family beyond the local pattern of divine elemental miracle.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-wisdom-of-solomon-douay-gutenberg__l1746-l1762
+  passage_sha256=9989a29b149010220f6782f8bdf97f78036efef34747e845d7e91b38d819d98e
+

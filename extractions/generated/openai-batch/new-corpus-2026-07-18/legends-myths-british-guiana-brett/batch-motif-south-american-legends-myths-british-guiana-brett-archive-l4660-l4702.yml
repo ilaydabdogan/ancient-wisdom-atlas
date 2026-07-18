@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l4660-l4702
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 99 / THE WAR ON THE ORINOCO. / LEGENDS AND MYTHS
+    OF THE / ABORIGINAL TRIBES OF GUIANA. 101; lines 4660-4702
+  start: '4660'
+  end: '4702'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: No living foe was found !
+  summary: The passage describes a battle in which an unnamed foe is defeated and
+    extermination follows. The victorious Caribs move through the Orinoco cataract
+    landscape and return past bloody graves, finding no surviving enemy. Authorial
+    notes identify the cataracts and discuss accusations of cannibalism against Caribs,
+    with denials from Guiana Carib survivors and a citation of Humboldt distinguishing
+    continental Caribs from other groups.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The enemy's numbers appear to increase, and the combatants exchange blows
+    until the defeated side perishes.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The warriors of the defeated group fall in battle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the battle, extermination begins against all who bore the defeated group's
+    name.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The conquering Caribs are described as moving through the Orinoco cataract
+    region, including the falls of Atures and Maypures.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Returning Carib warriors pass many bloody graves, and no living enemy is found
+    from the falls to the ocean.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The authorial note says Caribs have been accused of cannibalism, while Guiana
+    Carib survivors deny that their ancestors practiced it except as mimic action
+    used as vaunt or threat.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The note says Humboldt acquits continental Caribs of cannibalism while acknowledging
+    cannibalism among Cabres, other inland tribes, and formerly island Caribs.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Conquering Caribs
+  description: The victorious Carib warriors who move through the Orinoco region and
+    return home past graves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed foe or defeated people
+  description: The enemy group whose warriors fall, whose name is targeted for extermination,
+    and of whom no living foe remains in the described region.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Guiana Carib survivors
+  description: Survivors of the Carib race in Guiana whom the author says deny ancestral
+    cannibalism except in mimic action.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Humboldt
+  description: A cited writer whose Narrative is said to acquit continental Caribs
+    while acknowledging cannibalism among other named groups.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Cabres, other inland tribes, and island Caribs
+  description: Groups named in the authorial note as associated with cannibalism,
+    unlike the continental Caribs as presented there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Victorious warriors
+  assigned_to:
+  - fig:1
+  basis: The passage calls them conquering Caribs and describes each Carib brave returning
+    home.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Defeated and exterminated enemy
+  assigned_to:
+  - fig:2
+  basis: The foe's warriors perish, extermination is begun against all who bore their
+    name, and no living foe is found.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Denying descendants or informants
+  assigned_to:
+  - fig:3
+  basis: The author says Carib survivors in Guiana deny that their fathers practiced
+    cannibalism except in mimic action.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Cited authority
+  assigned_to:
+  - fig:4
+  basis: The note cites Humboldt's Narrative on the question of cannibalism among
+    continental Caribs and other groups.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Groups associated with cannibalism in the note
+  assigned_to:
+  - fig:5
+  basis: The note names Cabres, other inland tribes, and island Caribs as groups for
+    whom cannibalism is admitted or stated.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Orinoco waters and cataracts
+  literal_form: Orinoco torrents, vast foam, falls, ocean wave, and the great cataracts
+    or Raudales of Atures and Maypures.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Bloody graves
+  literal_form: Many a bloody grave passed by returning Carib warriors.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Battle and extermination
+  summary: An unnamed foe fights the Caribs, its warriors fall, and extermination
+    is begun against all who bore the defeated group's name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Return through the Orinoco aftermath
+  summary: The conquering Caribs pass through the Orinoco cataract landscape and return
+    past bloody graves, with no living foe found between the falls and the ocean.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Authorial note on cannibalism accusations
+  summary: The note discusses accusations of cannibalism against Caribs, reports denials
+    from Guiana Carib survivors, and cites Humboldt as distinguishing continental
+    Caribs from other groups.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Battle followed by extermination of the defeated group
+  taxonomy_refs: []
+  basis: The foe's warriors fall, extermination begins against all who bore their
+    name, and no living foe remains in the described region.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The defeated group is unnamed in this excerpt, and no supernatural causation
+    is stated.
+- id: motif:2
+  label: Victorious return through a landscape of graves
+  taxonomy_refs: []
+  basis: Returning Carib braves pass many bloody graves after the battle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a compact aftermath image rather than a developed episode.
+- id: motif:3
+  label: Cannibalism accusation denied or displaced to neighboring groups
+  taxonomy_refs: []
+  basis: The authorial note reports accusations against Caribs, denials by Guiana
+    Carib survivors, and Humboldt's distinction between continental Caribs and other
+    groups associated with cannibalism.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This material is an authorial ethnographic note, not part of the verse
+    battle narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage's note contrasts cannibalism accusations against Guiana or continental
+    Caribs with cannibalism attributed to Cabres, other inland tribes, and former
+    island Caribs.
+  claim_level: same_motif
+  target: Cannibalism attribution among neighboring or related groups named in the
+    source note
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  limitations: The comparison is made by the authorial note and cited Humboldt material;
+    it does not provide a detailed narrative episode for each group.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4660-4664
+  quote_or_summary: The foe's numbers seem to grow; the fighters return blow for blow,
+    fight, and perish.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4665-4672
+  quote_or_summary: The defeated warriors fall in battle, and extermination is begun
+    against all who bore their name.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4673-4687
+  quote_or_summary: The conquering Caribs pass through the Orinoco region of torrents,
+    rocks, foam, palms, and mists; on returning home they pass bloody graves, and
+    no living foe is found from the falls to the ocean.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: citation
+  locator: line 4689
+  quote_or_summary: Footnote identifies the great cataracts as the Raudales of Atures
+    and Maypures.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; citation/summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4691-4696
+  quote_or_summary: The author notes that Caribs have been accused of cannibalism,
+    but says Guiana Carib survivors deny ancestral guilt except in mimic action used
+    as vaunt or threat to terrify a foe.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4698-4702
+  quote_or_summary: The author says Humboldt's Narrative acquits continental Caribs
+    of cannibalism while admitting it for Cabres, various other inland tribes, and
+    formerly island Caribs.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The battle and aftermath details are explicit. Motif labels are descriptive
+    because the excerpt contains warfare and authorial ethnographic commentary rather
+    than a clearly named mythic motif family from the supplied taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. No unsupported taxonomy motif family was assigned.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l4660-l4702
+  passage_sha256=1367aaef0c807fff583d3eeb954e2d9e2437f786f6fdcda2613fc8610240d971
+

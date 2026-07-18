@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l3160-l3221
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: THE GREAT BEAR / THE MAN WHO BECAME A STAR / THE WOMAN WITH THE IRON TAIL
+    / HOW THE FOG CAME; lines 3160-3221
+  start: '3160'
+  end: '3221'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Mountain Spirit steals and eats corpses. A man lets himself be buried
+    alive to discover the thief, is carried to the Spirit’s house, kills the Spirit
+    and its children, and flees. The Spirit’s wife pursues him. He raises hills and
+    makes a stream overflow to slow her, then tricks her; when she bends to look at
+    her tunic, her belly bursts and steam from her becomes the fog that remains among
+    the hills.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Mountain Spirit steals corpses from graves and eats them when it comes home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: A man lets himself be buried alive in order to see who is stealing corpses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man places a flat stone under his coat in case the Spirit tries to stab
+    him.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: While being carried away, the man catches hold of willow twigs and makes himself
+    heavy, forcing the Spirit to exert itself.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At the Spirit’s house, the Spirit throws the body on the floor and sleeps
+    while its wife goes out to gather wood for cooking.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The children say that the dead man is opening his eyes, and the father dismisses
+    this by saying it is a dead body dropped many times among twigs.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The man rises, kills the Mountain Spirit and its children, and flees.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Mountain Spirit’s wife sees the fleeing man, mistakes him for her husband
+    at first, and runs after him when he does not answer.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The man commands hills to rise, and many hills rise up, slowing the pursuing
+    wife.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The man crosses a little stream and commands it to flow over its banks, making
+    it impossible for the wife to cross.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: When the wife asks how he crossed, the man says he drank up the water and
+    tells her to do likewise; she begins gulping it down.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The man tells the wife to look at the tail of her tunic; when she bends down,
+    her belly bursts.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Steam rises from the wife when she bursts, turns to fog, and is said to still
+    float among the hills.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man who lets himself be buried alive, is carried away as a corpse,
+    kills the Mountain Spirit and its children, flees, and uses commands and deception
+    against the pursuing wife.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Mountain Spirit
+  description: A supernatural being that steals corpses from graves, eats them at
+    home, carries off the buried man, and is later killed by him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Mountain Spirit’s wife
+  description: The Spirit’s wife gathers wood for cooking, sees the fleeing man, pursues
+    him, is deceived at the stream, and bursts, producing steam that becomes fog.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: children of the Mountain Spirit
+  description: Children who notice the supposed dead man opening his eyes and are
+    later killed by the man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: corpse-stealing eater of the dead
+  assigned_to:
+  - fig:2
+  basis: The Spirit steals corpses from graves, eats them at home, and carries off
+    the man who has been buried alive.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: buried-alive investigator and escapee
+  assigned_to:
+  - fig:1
+  basis: The man chooses burial alive to identify the corpse thief, then escapes after
+    being taken to the Spirit’s house.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: speaker of landscape commands and deceptive instructions
+  assigned_to:
+  - fig:1
+  basis: The man commands hills and water to obstruct the pursuer and gives deceptive
+    explanations that lead the wife to drink water and bend down.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: pursuing wife of the Mountain Spirit
+  assigned_to:
+  - fig:3
+  basis: The wife gathers cooking wood, then pursues the fleeing man and is the source
+    of the fog after bursting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:5
+  label: children who detect the living corpse
+  assigned_to:
+  - fig:4
+  basis: The children call out that the dead man is opening his eyes before they are
+    killed by him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: grave and corpse
+  literal_form: graves, corpse, buried-alive body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: protective flat stone
+  literal_form: flat stone under the man’s coat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: willow twigs
+  literal_form: willow twigs grasped by the carried man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: raised hills
+  literal_form: many hills rising at the man’s command
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: overflowing stream
+  literal_form: little stream that flows over its banks
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: fog from steam
+  literal_form: steam rising from the burst wife and turning to fog
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: tail of the tunic
+  literal_form: tail of the wife’s tunic hanging between her legs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Buried-alive bait in the grave
+  summary: A man has himself buried alive to discover the corpse thief; the Mountain
+    Spirit digs up and carries off the supposed body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Transport to the Spirit’s house
+  summary: The man makes himself heavy by grasping willow twigs while being carried.
+    At the house, the weary Spirit drops the body and sleeps while the wife gathers
+    cooking wood; the children observe the body opening its eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Killing and flight
+  summary: The man rises, kills the Mountain Spirit and its children, and flees. The
+    Spirit’s wife first mistakes him for her husband and then pursues him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Landscape barriers against the pursuer
+  summary: The man commands hills to rise and commands a stream to overflow, delaying
+    and blocking the pursuing wife.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Trick and origin of fog
+  summary: The man deceives the wife into trying to drink the stream and then into
+    bending to inspect her tunic. Her belly bursts, and steam from her becomes fog
+    among the hills.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Origin of fog from a bursting supernatural pursuer
+  taxonomy_refs: []
+  basis: The passage ends by explaining that steam from the burst wife turned into
+    the fog that still floats among the hills.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The supplied taxonomy does not include a specific etiological-natural-phenomenon
+    motif family.
+- id: motif:2
+  label: Living person feigns corpse to expose a corpse-stealing being
+  taxonomy_refs: []
+  basis: The man lets himself be buried alive so the Mountain Spirit will take him
+    as a corpse, allowing him to identify and reach the thief.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage frames the man as alive throughout, so this is not a literal
+    resurrection motif.
+- id: motif:3
+  label: Escape from supernatural pursuer through terrain and water barriers
+  taxonomy_refs:
+  - trickster_boundary
+  basis: During flight, the man raises hills, makes a stream overflow, and gives deceptive
+    instructions that contribute to the pursuer’s destruction.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The available taxonomy label is broader than the exact passage; the text
+    itself does not call the man a trickster.
+- id: motif:4
+  label: Supernatural corpse-eater defeated by apparent victim
+  taxonomy_refs: []
+  basis: The Mountain Spirit habitually steals and eats corpses, but the supposed
+    corpse rises and kills the Spirit.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No external motif index number is supplied in the provided metadata.
+- id: motif:5
+  label: Spoken command alters the landscape
+  taxonomy_refs: []
+  basis: The man’s spoken commands cause hills to rise and a stream to overflow its
+    banks.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not explain the source of the man’s power.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions like an etiological origin narrative by explaining
+    the continuing presence of fog among the hills through a mythic event.
+  claim_level: same_function
+  target: etiological natural-phenomenon origin pattern
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison to a narrative pattern only; the passage
+    provides no evidence for historical contact, common inheritance, or comparison
+    to a specific external text.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 3160-3221
+  quote_or_summary: Full supplied passage titled “HOW THE FOG CAME.”
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:2
+  type: summary
+  locator: lines 3162-3166
+  quote_or_summary: A Mountain Spirit steals corpses from graves and eats them; a
+    man lets himself be buried alive to see who does this, and the Spirit digs him
+    up and carries him off.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:3
+  type: summary
+  locator: lines 3167-3169
+  quote_or_summary: The man has placed a flat stone under his coat as protection in
+    case the Spirit stabs him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:4
+  type: summary
+  locator: lines 3170-3173
+  quote_or_summary: On the way, the man catches willow twigs and makes himself heavy,
+    forcing the Spirit to use all its strength.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:5
+  type: summary
+  locator: lines 3174-3184
+  quote_or_summary: At home, the Spirit throws down the body and sleeps while its
+    wife gathers wood for cooking; the children say the body opens its eyes, but the
+    father says it is only a dead body dropped among twigs.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:6
+  type: summary
+  locator: lines 3185-3195
+  quote_or_summary: The man rises, kills the Mountain Spirit and its children, and
+    flees; the wife sees him, mistakes him for her husband, and then pursues him when
+    he does not answer.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:7
+  type: summary
+  locator: lines 3196-3203
+  quote_or_summary: As the man runs over level ground, he commands hills to rise;
+    many hills rise, causing the pursuing wife to lag behind.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:8
+  type: summary
+  locator: lines 3204-3213
+  quote_or_summary: The man crosses a little stream, commands it to overflow, and
+    tells the wife he crossed by drinking the water; she begins gulping it down.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:9
+  type: summary
+  locator: lines 3214-3221
+  quote_or_summary: The man tells the wife to look at her tunic tail; when she bends
+    down her belly bursts, and steam rising from her becomes fog that still floats
+    among the hills.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized evidence used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is clear in the supplied passage. Motif labels are descriptive
+    and should be reviewed, especially the optional mapping to trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. The broader locator label names several tales, but the provided passage text is only “HOW THE FOG CAME.”
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l3160-l3221
+  passage_sha256=5dbcaeb46f606fb2bc55b51cd9b954aaad0535bf7df5f6f2bbe3f1e122574e7b
+

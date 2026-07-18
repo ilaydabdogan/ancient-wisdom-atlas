@@ -1,0 +1,480 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l2611-l2704
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: MAC DATHO'S BOAR / FROM THE BOOK OF LEINSTER (TWELFTH-CENTURY MS.) / THE
+    SICK-BED OF CUCHULAIN / INTRODUCTION; lines 2611-2704
+  start: '2611'
+  end: '2704'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction describes the manuscript transmission and composite structure
+    of the romance called the “Sick-bed of Cuchulain,” also partly known as the “Jealousy
+    of Emer.” It distinguishes an “Antiquarian” form, which includes the cause of
+    Cuchulain’s illness and Laeg’s journey to Fairyland to test a message about fairy
+    healing, from a “Literary” form, which begins with Cuchulain being roused from
+    his sick-bed, retells Laeg’s Fairyland journey, and supplies the conclusion involving
+    a fairy lady who gives up her lover to a rival. The introduction also notes an
+    inserted account of Lugaid Red-Stripes’ election and a Bull Feast prophecy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The romance is identified as the “Sick-bed of Cuchulain,” with its latter
+    part also known as the “Jealousy of Emer.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The introduction says the romance is preserved in an eleventh-century manuscript
+    and in a fifteenth-century Trinity College Library manuscript, which give substantially
+    the same account and derive from the same source.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The eleventh-century manuscript names the lost Yellow Book of Slane as its
+    authority.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The introduction states that an earlier compiler combined two different forms
+    of the story in the surviving version.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The “Antiquarian” form relates the cause of Cuchulain’s illness and Laeg’s
+    journey to Fairyland to test whether Cuchulain can be healed by fairy help.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the “Antiquarian” opening, both manuscripts contain an inserted account
+    of Lugaid Red-Stripes’ election as king and a Bull Feast at which his coming is
+    prophesied.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The “Literary” form does not give the cause of Cuchulain’s sickness and begins
+    with his rousing from the sick-bed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: 'The introduction contrasts two rousing agencies for Cuchulain: a son of the
+    fairy king in one form and Emer in the other.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The “Literary” form retells Laeg’s journey to Fairyland with different details
+    and alone supplies the full conclusion.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The introduction describes a final action in which a fairy lady voluntarily
+    gives up her lover to her rival, with her motives related.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The introduction notes a scholarly disagreement about where Laeg’s second
+    description of Fairyland belongs, citing Ethne, rough humour, poetry, and vividness
+    as criteria.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: The central figure whose sick-bed, illness, rousing, possible fairy
+    healing, message to his wife, deeds, and counsel to Lugaid are mentioned.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Laeg
+  description: Cuchulain’s servant who journeys to Fairyland and gives descriptions
+    of it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Emer
+  description: Cuchulain’s wife; the latter part of the romance is also known as the
+    “Jealousy of Emer,” and Emer is named as one rousing agency in a version of the
+    story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: son of the fairy king
+  description: A supernatural figure named as a rousing agent for Cuchulain in one
+    form of the story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: fairy lady
+  description: A fairy woman who voluntarily gives up her lover to her rival in the
+    final relation of the Literary form.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Lugaid Red-Stripes
+  description: A figure whose election as king over Ireland and prophesied coming
+    at a Bull Feast are described in an inserted passage; he receives counsel from
+    Cuchulain after election.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Ethne
+  description: A figure alluded to in Laeg’s second description of Fairyland and noted
+    as not appearing elsewhere in the Literary form.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: sick-bed hero or patient
+  assigned_to:
+  - fig:1
+  basis: Cuchulain’s illness and rousing from his sick-bed are central to the forms
+    summarized.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: servant-messenger and Fairyland traveler
+  assigned_to:
+  - fig:2
+  basis: Laeg is described as Cuchulain’s servant who journeys to Fairyland to test
+    a healing message and later describes Fairyland.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:3
+  label: wife and rousing agent in one version
+  assigned_to:
+  - fig:3
+  basis: Emer is identified as Cuchulain’s wife and named as a rousing agency in one
+    form of the story.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: supernatural rousing agent
+  assigned_to:
+  - fig:4
+  basis: A son of the fairy king is named as a rousing agent for Cuchulain in one
+    form.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: supernatural beloved who relinquishes a lover
+  assigned_to:
+  - fig:5
+  basis: The fairy lady voluntarily gives up her lover to her rival, and her motives
+    are related.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: counselor to king-elect
+  assigned_to:
+  - fig:1
+  basis: Both manuscripts include counsel given by Cuchulain to Lugaid on Lugaid’s
+    election.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: elected and prophesied king
+  assigned_to:
+  - fig:6
+  basis: Lugaid Red-Stripes is elected king over Ireland, and his coming is prophesied
+    at the Bull Feast.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: alluded Fairyland-associated figure
+  assigned_to:
+  - fig:7
+  basis: Ethne is mentioned as an allusion in the second description of Fairyland
+    and is noted as absent elsewhere in the Literary form.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sick-bed
+  literal_form: Cuchulain’s sick-bed and illness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Fairyland
+  literal_form: The supernatural place to which Laeg journeys and which he describes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: fairy help
+  literal_form: Healing aid said to be available from fairies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Bull Feast
+  literal_form: A feast at which Lugaid’s coming is prophesied
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cuchulain’s illness and fairy-healing message
+  summary: In the Antiquarian form, Cuchulain’s illness is explained, and a message
+    claims that he can be healed by fairy help.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Laeg’s journey to Fairyland
+  summary: Laeg, Cuchulain’s servant, journeys to Fairyland to test the truth of the
+    healing message; the Literary form later retells the journey with different details.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Variant rousing from the sick-bed
+  summary: The Literary form begins with Cuchulain being roused from his sick-bed,
+    while the introduction contrasts the rousing agencies as a son of the fairy king
+    in one form and Emer in the other.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lugaid’s election and Bull Feast prophecy
+  summary: An inserted passage tells how Lugaid Red-Stripes is elected king over Ireland,
+    how his coming is prophesied at the Bull Feast, and how Cuchulain gives him counsel
+    after the election.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Fairy lady relinquishes her lover
+  summary: The Literary form’s conclusion includes a fairy lady who voluntarily gives
+    up her lover to her rival, with her motives explained.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supernatural sickness and fairy healing
+  taxonomy_refs: []
+  basis: The Antiquarian form connects Cuchulain’s illness with a message that he
+    can be healed by fairy help.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial introduction and does not narrate the full
+    cause or healing sequence in detail.
+- id: motif:2
+  label: messenger’s journey to Fairyland to verify supernatural aid
+  taxonomy_refs:
+  - mystical_quest
+  - departure
+  basis: Laeg is sent to Fairyland to test the truth of a message about fairy healing,
+    and the journey is retold in both forms with differing detail.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage summarizes the journey rather than giving its events.
+- id: motif:3
+  label: variant rousing of the sick hero by supernatural or domestic agent
+  taxonomy_refs: []
+  basis: Cuchulain is roused from his sick-bed, with the introduction contrasting
+    a son of the fairy king and Emer as variant agencies.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The introduction’s wording is compressed and compares variant forms rather
+    than presenting a continuous scene.
+- id: motif:4
+  label: supernatural beloved relinquishes lover to rival
+  taxonomy_refs:
+  - divine_beloved
+  basis: The Literary form’s conclusion is described as the voluntary action of a
+    fairy lady who gives up her lover to her rival, together with her motives.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is approximate because the passage says “fairy
+    lady,” not explicitly divine figure; the lover and rival are not fully identified
+    in this excerpt.
+- id: motif:5
+  label: royal election confirmed by prophetic feast
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: An inserted account describes Lugaid Red-Stripes being elected king over
+    Ireland and his coming being prophesied at the Bull Feast.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage explicitly calls this material irrelevant to the Sick-bed
+    story, so it may belong to a separate narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The introduction presents the Antiquarian and Literary forms as two distinct
+    forms of the same original legend or theme, sharing elements such as Cuchulain’s
+    sick-bed and Laeg’s Fairyland journey while differing in cause, agency, details,
+    and style.
+  claim_level: same_motif
+  target: Antiquarian and Literary forms of the “Sick-bed of Cuchulain” tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  limitations: This is a textual-comparative claim made by the editor’s introduction;
+    the passage does not provide the full narrative of either form.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2611-2634
+  quote_or_summary: The introduction identifies the romance, its alternate title “Jealousy
+    of Emer,” its two manuscript witnesses, their shared source, the lost Yellow Book
+    of Slane, and the claim that two forms of the story were combined.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:2
+  type: summary
+  locator: 2634-2641
+  quote_or_summary: The “Antiquarian” form relates the cause of Cuchulain’s illness
+    and Laeg’s journey to Fairyland to test a message that Cuchulain can be healed
+    by fairy help, then breaks off.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:3
+  type: summary
+  locator: 2648-2655
+  quote_or_summary: The “Literary” form does not give the cause of the sickness; it
+    begins with Cuchulain being roused from his sick-bed and contrasts the rousing
+    agency with the Antiquarian form, naming a son of the fairy king and Emer as variant
+    agents.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:4
+  type: summary
+  locator: 2655-2662
+  quote_or_summary: The “Literary” form tells Laeg’s journey to Fairyland with different
+    detail and alone supplies the full conclusion, so the manuscript preserves two
+    distinct forms of the original legend.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:5
+  type: summary
+  locator: 2675-2685
+  quote_or_summary: The introduction praises the Literary form, including Cuchulain’s
+    message to his wife, messenger narration, Cuchulain’s modest account of his deeds,
+    and the final relation of a fairy lady who voluntarily gives up her lover to her
+    rival with her motives.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:6
+  type: summary
+  locator: 2641-2648
+  quote_or_summary: Both manuscripts insert an account of how Lugaid Red-Stripes was
+    elected king over Ireland, the Bull Feast at which his coming was prophesied,
+    and Cuchulain’s counsel to Lugaid on his election.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:7
+  type: summary
+  locator: 2696-2704
+  quote_or_summary: The introduction notes Thurneysen’s placement of Laeg’s second
+    description of Fairyland with the Antiquarian form, citing Ethne and rough humour,
+    while also noting that its poetry and vividness are closer to the Literary form
+    and that the manuscript placement is retained.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an editorial introduction that summarizes narrative elements
+    and textual variants rather than narrating the mythic episode directly; motif
+    candidates based on summarized plot elements need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs matched the explicit symbols in this passage; symbol taxonomy arrays are therefore empty.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l2611-l2704
+  passage_sha256=a44bf231b3b781548d6252a40f6abba4c43cda5e4a551452c30c25352994fb1e
+

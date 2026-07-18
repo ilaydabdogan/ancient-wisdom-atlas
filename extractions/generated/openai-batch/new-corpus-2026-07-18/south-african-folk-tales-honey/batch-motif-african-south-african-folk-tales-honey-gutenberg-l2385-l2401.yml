@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2385-l2401
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: 'FOOTNOTES: / TORTOISES HUNTING OSTRICHES / THE JUDGMENT OF BABOON / LION
+    AND BABOON; lines 2385-2401'
+  start: '2385'
+  end: '2401'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Baboon works bamboos at the edge of a precipice while Lion stalks him.
+    Baboon has placed eye-like plates on the back of his head, confusing Lion about
+    when he is being watched. When Lion finally springs, Baboon drops flat, causing
+    Lion to leap over him, fall down the precipice, and be dashed to pieces.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Baboon is sitting on the edge of a precipice and working bamboos.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lion creeps up on Baboon from behind.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Baboon has fixed round, glistening, eye-like plates on the back of his head.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lion alternates between creeping forward and hiding because he misreads Baboon's
+    gaze and the eye-like plates.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Baboon notices that Lion advances while Baboon is actually looking at him
+    and that Lion treats the false eyes as watching eyes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When Lion springs, Baboon lies down on his face, and Lion jumps over him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Lion falls down the precipice and is dashed to pieces.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Baboon
+  description: An animal figure working bamboos at a precipice and using eye-like
+    plates on the back of his head to mislead Lion.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lion
+  description: An animal figure who stalks Baboon, springs at him, overshoots, and
+    dies after falling down the precipice.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: target of stalking
+  assigned_to:
+  - fig:1
+  basis: Lion steals upon Baboon while Baboon sits working at the precipice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceptive survivor
+  assigned_to:
+  - fig:1
+  basis: Baboon's eye-like plates and quick movement cause Lion to misjudge and leap
+    over him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: stalking attacker
+  assigned_to:
+  - fig:2
+  basis: Lion creeps upon Baboon and finally springs at him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: victim of failed attack
+  assigned_to:
+  - fig:2
+  basis: Lion jumps over Baboon, falls down the precipice, and is dashed to pieces.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: eye-like plates
+  literal_form: round, glistening, eye-like plates fixed on the back of Baboon's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: precipice edge
+  literal_form: edge of a precipice where Baboon sits and down which Lion falls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: bamboos
+  literal_form: bamboos that Baboon is working while sitting on the precipice edge
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Baboon works at the precipice while Lion stalks
+  summary: Baboon sits on the edge of a precipice working bamboos, and Lion steals
+    upon him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: False eyes confuse the stalker
+  summary: The eye-like plates on the back of Baboon's head make Lion mistake when
+    Baboon is looking at him; Lion creeps forward or hides according to this mistaken
+    reading.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lion leaps over Baboon and falls
+  summary: Lion springs at Baboon; Baboon drops flat, Lion jumps over him, falls down
+    the precipice, and is destroyed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: escape from predator by deceptive appearance
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Baboon survives Lion's attack by using eye-like plates and a sudden change
+    of posture, causing the attacker to misjudge and fall.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call Baboon a trickster; the taxonomy
+    link is based on deception and boundary danger at the precipice.
+- id: motif:2
+  label: predator destroyed by overleaping prey
+  taxonomy_refs: []
+  basis: Lion springs at Baboon, but Baboon lies flat so that Lion jumps over him
+    and falls down the precipice.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this specific action pattern.
+- id: motif:3
+  label: false eyes as protective deception
+  taxonomy_refs: []
+  basis: Eye-like plates placed on the back of Baboon's head alter Lion's behavior
+    during the stalking sequence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the plates as literal objects; broader symbolic interpretation
+    requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2385-2388
+  quote_or_summary: 'The tale begins: Baboon works bamboos while sitting on the edge
+    of a precipice, and Lion steals upon him.'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 2388-2390
+  quote_or_summary: '"round, glistening, eye-like plates on the back of his head"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 2390-2395
+  quote_or_summary: Lion mistakes Baboon's real gaze and the eye-like plates, creeping
+    forward when Baboon looks at him and hiding when Baboon's back is turned.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 2396-2398
+  quote_or_summary: '"Whilst I am looking at him he steals upon me, whilst my hollow
+    eyes are on him."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 2400-2401
+  quote_or_summary: When Lion springs, Baboon lies face down; Lion jumps over him,
+    falls down the precipice, and is dashed to pieces.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and figures are explicit. Motif-family assignment to trickster_boundary
+    is interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the episode to another text, tradition, or named motif family.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2385-l2401
+  passage_sha256=7dca67d78e88a9456ad200e6d3ba86d5ebc5dc7da70ddce583f448e62c75eb76
+

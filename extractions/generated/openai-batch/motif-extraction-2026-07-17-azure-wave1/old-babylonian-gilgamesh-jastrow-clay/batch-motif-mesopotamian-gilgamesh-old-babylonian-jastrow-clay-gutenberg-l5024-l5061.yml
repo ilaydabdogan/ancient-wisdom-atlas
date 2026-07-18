@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l5024-l5061
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: YALE TABLET. / TRANSLITERATION. / TRANSLATION. / NOTES; lines 5024-5061
+  start: '5024'
+  end: '5061'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"The eyes of Enkidu were filled with tears"'
+  summary: This passage is a sequence of editorial notes glossing lines of the Old
+    Babylonian Gilgamesh material. The notes mention Enkidu’s tears, homage to a meteor,
+    heroes of Erech raising or supporting a speaker, Enkidu becoming like Gish and
+    godlike, a figure being thrown and vanquished, an epithet of Ninsun, and an invocation
+    involving Lugal-banda. Several notes concern scribal errors, omissions, and editorial
+    enumeration.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Enkidu is described as having eyes filled with tears.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A gloss interprets an action as paying homage to a meteor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The heroes of Erech are said to have raised the speaker to his feet, or perhaps
+    supported him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One note identifies a referenced person as Enkidu.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One note glosses a phrase as meaning “thy way of life.”
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One note glosses an idiom as meaning “for all times.”
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Enkidu is described as becoming like Gish and godlike.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A male figure is described as thrown and therefore vanquished.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: An epithet is said to be given to Ninsun.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A note refers to an invocation involving Lugal-banda at night.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Several notes identify possible scribal errors, omissions, or editorial enumeration.
+  category: other
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: Named figure whose eyes are filled with tears and who is said to become
+    like Gish, godlike.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Gish
+  description: Named figure to whom Enkidu is compared; the note describes the comparison
+    as godlike.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: heroes of Erech
+  description: Group said to have raised or supported the speaker.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ninsun
+  description: Named figure to whom an epithet is given.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Lugal-banda
+  description: Named figure mentioned in an invocation at night.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: unnamed vanquished male figure
+  description: A figure described only as having been thrown and therefore vanquished.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: weeping figure
+  assigned_to:
+  - fig:1
+  basis: Enkidu’s eyes are described as filled with tears.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: godlike transformed or assimilated figure
+  assigned_to:
+  - fig:1
+  basis: The note says Enkidu became like Gish, godlike.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: godlike comparator
+  assigned_to:
+  - fig:2
+  basis: Gish is the figure to whom Enkidu is compared in a godlike state.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: raisers or supporters
+  assigned_to:
+  - fig:3
+  basis: The heroes of Erech are glossed as raising or supporting the speaker.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: epithet bearer
+  assigned_to:
+  - fig:4
+  basis: The note states that an epithet is given to Ninsun.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: invoked figure
+  assigned_to:
+  - fig:5
+  basis: Lugal-banda is mentioned in a note about an invocation at night.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: vanquished figure
+  assigned_to:
+  - fig:6
+  basis: The note says he was thrown and therefore vanquished.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: tears
+  literal_form: eyes filled with tears
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: meteor
+  literal_form: meteor receiving homage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: night
+  literal_form: at night
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:4
+  label: number seven
+  literal_form: the number “seven”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Enkidu’s tears
+  summary: Enkidu is described as having eyes filled with tears.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Homage to a meteor
+  summary: A note glosses an action as paying homage to a meteor.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Raised or supported by heroes of Erech
+  summary: The heroes of Erech are said to raise or support the speaker.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Enkidu becomes like Gish
+  summary: Enkidu is described as becoming like Gish and godlike.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Thrown and vanquished
+  summary: An unnamed male figure is described as thrown and therefore vanquished.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Night invocation of Lugal-banda
+  summary: A note refers to Lugal-banda in an invocation at night.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: godlike assimilation to another hero
+  taxonomy_refs: []
+  basis: The note explicitly states that Enkidu became like Gish and godlike.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage is an editorial note rather than a full narrative scene, and
+    the supplied taxonomy has no direct apotheosis or assimilation category.
+- id: motif:2
+  label: homage to a celestial object
+  taxonomy_refs: []
+  basis: A gloss interprets an action as paying homage to the meteor.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The note does not provide the full surrounding narrative or identify who
+    performs the homage.
+- id: motif:3
+  label: defeat through being thrown down
+  taxonomy_refs: []
+  basis: A note explains that a male figure was thrown and therefore vanquished.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The figure’s identity and the full combat context are not included in
+    this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5024-5025; note [140]
+  quote_or_summary: "“The eyes of Enkidu were filled with tears”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: line 5030; note [142]
+  quote_or_summary: "“paid homage to the meteor”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 5032-5033; note [143]
+  quote_or_summary: The note glosses the line as the heroes of Erech raising the speaker
+    to his feet, or perhaps supporting the speaker.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 5035; note [144]
+  quote_or_summary: "“I.e., Enkidu.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: line 5037; note [145]
+  quote_or_summary: "“thy way of life”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: line 5041; note [147]
+  quote_or_summary: "“for all times”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: line 5043; note [148]
+  quote_or_summary: "“Enkidu became like Gish, godlike.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: line 5045; note [149]
+  quote_or_summary: "“He was thrown and therefore vanquished.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: quote
+  locator: line 5047; note [150]
+  quote_or_summary: "“Epithet given to Ninsun.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: quote
+  locator: line 5059; note [156]
+  quote_or_summary: "“at night to thee, may Lugal-banda”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:11
+  type: summary
+  locator: lines 5027-5061; notes [141], [151]-[157]
+  quote_or_summary: Several notes discuss a possible slip involving the number seven,
+    scribal errors, omissions, and Langdon’s enumeration.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: quote
+  locator: lines 5027-5028; note [141]
+  quote_or_summary: "“the number ‘seven’”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage consists of editorial notes rather than a continuous mythic narrative,
+    so literal extraction is possible but motif identification is limited and should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious cross-text or cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l5024-l5061
+  passage_sha256=0404e2c82edbf1b334961371bb8512490e6cb8ce732961dd158ce9c67ffeba95
+

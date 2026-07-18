@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l370-l420
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: E. P. DUTTON AND COMPANY / CONTENTS / EDITORIAL NOTE / INTRODUCTION; lines
+    370-420
+  start: '370'
+  end: '420'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"duty to oneself and charity to one''s neighbour"'
+  summary: The passage describes Confucius's later withdrawal from administration,
+    his literary labours, the collecting and editing of old ballads, the writing of
+    the Spring and Autumn Annals, the nature and transmission of the sayings in the
+    volume, their polished concise style, their inscription on scrolls and tablets
+    across the empire, their unsorted arrangement, and Tseng Tzu's summary of the
+    Master's Way as duty to oneself and charity to one's neighbour.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: After returning to his native state, Confucius took no further active part
+    in its administration and devoted the rest of his life to literary labour.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage attributes to Confucius the collecting and editing of old national
+    ballads called the Odes and the writing of the Spring and Autumn Annals of Lu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sayings in the volume are presented as largely belonging to Confucius's
+    closing period and as a reliable source for information about Confucius and his
+    doctrines, together with Ssu-ma Ch'ien's biography.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The work is described as consisting mostly of detached sayings or replies
+    to questions from disciples on moral or personal topics.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Legge is said to have argued that the sayings were first transmitted orally
+    and written down at least two generations after the Master's death.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The sayings are described as concise and polished rather than as literal impromptu
+    words of Confucius.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The sayings are said to be inscribed on many scrolls and tablets across the
+    Empire.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The sayings are described metaphorically as unsorted gems or jewels jumbled
+    in a heap, lacking orderly arrangement.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: 'Tseng Tzu is said to have summed up the Master''s Way in two words: duty
+    to oneself and charity to one''s neighbour.'
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: The Master whose later life, sayings, doctrines, and Way are discussed.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: Various disciples
+  description: Disciples who put questions to Confucius and were once supposed to
+    have collected and written down his sayings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ssu-ma Ch'ien
+  description: Author of an invaluable biography that is said to be largely built
+    upon the sayings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Legge
+  description: Scholar cited as arguing that the sayings were orally transmitted before
+    taking written form.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Tseng Tzu
+  description: Disciple credited with recognizing the simplicity within the Master's
+    diverse teachings.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: retired public servant
+  assigned_to:
+  - fig:1
+  basis: The passage says he took no further active part in administration after returning
+    to his native state.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: literary compiler and annalist
+  assigned_to:
+  - fig:1
+  basis: He is credited with collecting and editing the Odes and penning the Spring
+    and Autumn Annals of Lu.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: master and source of doctrine
+  assigned_to:
+  - fig:1
+  basis: The sayings are treated as expressing the essence of what the Master thought
+    and the substance of what he said.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: questioning disciples and possible transmitters
+  assigned_to:
+  - fig:2
+  basis: The sayings include replies to disciples' questions, and the disciples were
+    once thought to have collected them in writing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: biographer
+  assigned_to:
+  - fig:3
+  basis: Ssu-ma Ch'ien is associated with an invaluable biography built largely upon
+    the sayings.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: textual transmission scholar
+  assigned_to:
+  - fig:4
+  basis: Legge is cited for arguing that the sayings were transmitted orally before
+    being written down later.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: interpreter of the Master's Way
+  assigned_to:
+  - fig:5
+  basis: Tseng Tzu is credited with summarizing the Master's Way as simple in its
+    diversity.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Odes
+  literal_form: old national ballads collected and edited by Confucius
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Spring and Autumn Annals of Lu
+  literal_form: record of authentic facts attributed to Confucius's penning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sayings as polished gems
+  literal_form: the sayings are compared to diamonds, gems, and jewels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: scrolls and tablets
+  literal_form: objects on which the sayings are said to be inscribed throughout the
+    Empire
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: two words of the Master's Way
+  literal_form: duty to oneself and charity to one's neighbour
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Confucius's closing literary period
+  summary: Confucius withdraws from active administration and devotes his remaining
+    life to literary tasks, including editing the Odes and writing the Spring and
+    Autumn Annals of Lu.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Formation and transmission of the sayings
+  summary: The sayings are described as detached moral and personal replies to disciples,
+    orally transmitted at first, and written down at least two generations after Confucius's
+    death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Polished sayings preserved across the Empire
+  summary: The sayings are described as polished concise expressions of Confucius's
+    thought and as inscribed on scrolls and tablets throughout the Empire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Tseng Tzu's summary of the Way
+  summary: Tseng Tzu identifies a simple unity within the diverse Confucian teachings
+    and sums it as duty to oneself and charity to one's neighbour.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: preserved wisdom sayings of a master
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on sayings that preserve the essence of what Confucius
+    thought and said, transmitted after his death and inscribed widely.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a philosophical and textual motif rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: oral transmission becoming written canon
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the sayings were first transmitted orally and only
+    later took the written form now known.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage frames this as textual history; the canonizing process is
+    inferred only from the described transmission and preservation.
+- id: motif:3
+  label: simple ethical principle underlying diverse teachings
+  taxonomy_refs:
+  - wisdom
+  basis: Tseng Tzu is said to have perceived that the Master's Way was simple in its
+    diversity and reducible to duty to oneself and charity to one's neighbour.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The label abstracts an ethical pattern from the passage but stays close
+    to its wording.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the Sayings' lack of orderly arrangement with the arrangement
+    of most Chinese philosophical works.
+  claim_level: same_function
+  target: most Chinese philosophical works
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns literary arrangement, not a mythic narrative
+    pattern or historical contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 370-373
+  quote_or_summary: After returning to his native state, Confucius took no further
+    active administrative role and spent the rest of his life on literary labours.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 373-379
+  quote_or_summary: His literary labours included collecting and editing the Odes
+    and writing the Spring and Autumn Annals of Lu, described as a record of authentic
+    facts.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 381-385
+  quote_or_summary: Most sayings in the volume are assigned to Confucius's closing
+    period and, with Ssu-ma Ch'ien's biography, are described as reliable sources
+    for Confucius and his doctrines.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 386-392
+  quote_or_summary: The Lun Yu is described as consisting mostly of detached sayings
+    or answers to disciples' questions on chiefly moral or personal subjects.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 392-397
+  quote_or_summary: The sayings were once attributed to immediate disciples' written
+    collection, but Legge is cited for the view that they were first orally transmitted
+    and written in their present form at least two generations after the Master's
+    death.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 397-407
+  quote_or_summary: The passage says the sayings should not be taken as the exact
+    words of Confucius; they appear repeatedly polished into a concise form while
+    expressing the essence of the Master's thought and speech.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 407-410
+  quote_or_summary: The sayings are said to be inscribed on hundreds of thousands
+    of scrolls and tablets throughout the Empire.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 410-417
+  quote_or_summary: The sayings are described as unsorted gems, with little orderly
+    arrangement, like jewels jumbled in a heap rather than strung into a necklace.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 417-420
+  quote_or_summary: Tseng Tzu says the Master's Way is simple in its diversity and
+    may be summed up as "duty to oneself and charity to one's neighbour."
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository rather than mythic; motif candidates are textual
+    and ethical patterns grounded in the passage. No taxonomy symbol refs from the
+    supplied list are directly applicable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l370-l420
+  passage_sha256=2032258ae288f8fc4c683af5725697068f3c3fcc3569017b28d4f986e6330899
+

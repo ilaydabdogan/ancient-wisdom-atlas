@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l22940-l23011
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 22940-23011
+  start: '22940'
+  end: '23011'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“I am here already!”"
+  summary: A framed tale presents itself as true. On a bright Sunday morning near
+    harvest time, a hedgehog leaves home to inspect his turnips and meets a haughty
+    hare visiting cabbages. The hare mocks the hedgehog’s legs. Angered, the hedgehog
+    wagers that he can beat the hare in a race, with a gold louis-d’or and a bottle
+    of brandy as stakes. After returning home, the hedgehog recruits his wife and
+    instructs her to stand at the lower end of a furrow and call out that he has already
+    arrived when the hare reaches her.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The story is introduced as one that seems false but is asserted to be true
+    through the narrator’s grandfather’s saying.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The setting is a sunny Sunday morning around harvest time, with buckwheat
+    blooming, warm east wind, larks, bees, churchgoers, and happy creatures.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hedgehog stands by his door, sings, and decides to go to the field to
+    see his turnips while his wife washes and dries the children.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The hare is also out to visit crops, namely his cabbages, and meets the hedgehog
+    near the field.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The hare does not return the hedgehog’s friendly greeting and mocks the hedgehog’s
+    legs.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The hedgehog becomes angry at the attack on his legs and proposes a race to
+    prove he can outstrip the hare.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The wager for the race is a golden louis-d’or and a bottle of brandy.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hedgehog delays the race for half an hour, saying that he is fasting and
+    will go home for breakfast.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: On the way home, the hedgehog thinks that the hare relies on his long legs
+    and that he will contrive to get the better of him.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The hedgehog tells his wife to dress and accompany him to the field; she protests,
+    but he commands her to obey.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The hedgehog tells his wife that the race will use the long field, with the
+    hare and hedgehog running in separate furrows.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The hedgehog instructs his wife to stand below in the furrow and cry out,
+    “I am here already!” when the hare arrives at her end.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the hedgehog
+  description: An anthropomorphic hedgehog with a home, wife, children, and turnips;
+    he is mocked for his legs, wagers a race with the hare, and plans how to get the
+    better of him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: the hare
+  description: An anthropomorphic hare described as distinguished, haughty, and long-legged;
+    he visits cabbages, mocks the hedgehog, and accepts the race wager.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: the hedgehog’s wife
+  description: The hedgehog’s wife washes and dries the children, is ordered to accompany
+    the hedgehog, protests against the race, and is instructed to stand at the end
+    of a furrow and call out to the hare.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: the narrator’s grandfather
+  description: The reported source of the tale, who is said to have asserted that
+    the story must be true.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: reported tale-source
+  assigned_to:
+  - fig:4
+  basis: The narrator says the story comes from his grandfather, who used a formula
+    asserting its truth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: insulted challenger and planner
+  assigned_to:
+  - fig:1
+  basis: The hedgehog is angered by the hare’s mockery, challenges him to a race,
+    and devises a plan involving his wife and the furrows.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:3
+  label: mocking race opponent
+  assigned_to:
+  - fig:2
+  basis: The hare refuses the greeting, mocks the hedgehog’s legs, relies on his own
+    long legs, and agrees to the wagered race.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: reluctant accomplice at endpoint
+  assigned_to:
+  - fig:3
+  basis: The wife protests but obeys, and the hedgehog assigns her to stand at the
+    lower end of the furrow and call out to the hare.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: wager stakes
+  literal_form: a golden louis-d’or and a bottle of brandy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: contrasted legs
+  literal_form: the hedgehog’s crooked or short legs contrasted with the hare’s long
+    legs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: furrowed race-course
+  literal_form: a long field with separate furrows and a lower endpoint
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: field crops
+  literal_form: turnips beside the hedgehog’s house and cabbages visited by the hare
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: truth-framed harvest morning
+  summary: The tale is introduced with a truth-claim from the narrator’s grandfather
+    and placed on a bright Sunday morning around harvest time.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: field encounter and insult
+  summary: The hedgehog leaves home to see his turnips, meets the hare visiting cabbages,
+    greets him, and is mocked for his legs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: race wager
+  summary: The hedgehog challenges the hare to a race, and they agree to wager a gold
+    louis-d’or and a bottle of brandy, with the hedgehog briefly postponing the contest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: preparation of the furrow plan
+  summary: The hedgehog decides to overcome the hare by contrivance, brings his wife
+    to the field, and tells her to wait at the end of the furrow and call out as if
+    he has already arrived.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: animal race wager after insult
+  taxonomy_refs: []
+  basis: The hare mocks the hedgehog’s legs, and the hedgehog responds by wagering
+    that he can outstrip the hare in a race.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage ends before the race itself is run or resolved.
+- id: motif:2
+  label: cunning over physical advantage
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hedgehog recognizes that the hare relies on his long legs and plans to
+    get the better of him through a contrivance involving the race-course and his
+    wife.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy reference is broad; the excerpt states the plan but not its
+    successful execution.
+- id: motif:3
+  label: endpoint substitution in a contest
+  taxonomy_refs: []
+  basis: The hedgehog instructs his wife to stand at the far end of the furrow and
+    declare, “I am here already!” when the hare arrives.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage presents the instruction only; the hare’s reaction and the
+    outcome are outside the excerpt.
+- id: motif:4
+  label: truth-claim frame for an improbable tale
+  taxonomy_refs: []
+  basis: The opening says the tale seems false but is true, citing the narrator’s
+    grandfather’s formula that it must be true or it could not be told.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a framing pattern rather than the central contest action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22940-22947
+  quote_or_summary: 'The narrator says the story seems false but is true, and cites
+    the grandfather’s saying: “It must be true, my son, or else no one could tell
+    it to you.”'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 22947-22953
+  quote_or_summary: A Sunday morning near harvest time is described with blooming
+    buckwheat, bright sun, warm east wind, birds, bees, churchgoers, and happy creatures.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 22954-22966
+  quote_or_summary: The hedgehog stands by his door singing and decides to inspect
+    his turnips while his wife washes and dries the children.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 22966-22978
+  quote_or_summary: 'The hare visits his cabbages, refuses the hedgehog’s greeting,
+    and mocks him: “It seems to me that you might use your legs for a better purpose.”'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 22978-22991
+  quote_or_summary: The hedgehog says the matter can be tested, wagers that he will
+    outstrip the hare, and proposes a golden louis-d’or and a bottle of brandy as
+    stakes.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 22991-22995
+  quote_or_summary: The hedgehog says there is no hurry, claims he is still fasting,
+    and says he will return in half an hour after breakfast.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: 22996-23000
+  quote_or_summary: On his way home, the hedgehog thinks that the hare relies on his
+    long legs but that he will “contrive to get the better of him.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: 23000-23007
+  quote_or_summary: At home the hedgehog tells his wife to dress and come to the field;
+    she questions his sanity, he tells her not to discuss men’s matters, and she is
+    forced to obey.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: quote
+  locator: 23007-23011
+  quote_or_summary: The hedgehog describes the long field and separate furrows, telling
+    his wife to stand below and cry to the hare, “I am here already!”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    are clear at the pattern level, but the race outcome lies outside the excerpt.
+    No comparison claims were added because the passage itself does not make or support
+    a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied public-domain passage and metadata. Taxonomy assignment is limited to the broad available motif family that is directly supported by the hedgehog’s contrivance.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l22940-l23011
+  passage_sha256=19a50d12723e3cf8fbd0dd570d833b19e0459372b5f7811ff0d65c2ec333e500
+

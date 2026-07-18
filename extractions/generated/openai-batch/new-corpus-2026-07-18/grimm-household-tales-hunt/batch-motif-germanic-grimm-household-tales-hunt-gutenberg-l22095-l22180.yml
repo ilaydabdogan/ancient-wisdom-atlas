@@ -1,0 +1,590 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l22095-l22180
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 22095-22180
+  start: '22095'
+  end: '22180'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: At the end of a three-year term, the old woman prepares the house, instructs
+    the maiden to remove the skin from her face and put on her silken gown, and later
+    receives the King, Queen, and count. The count observes the goose-girl at a well
+    removing her skin and revealing golden hair. The old woman reveals that the King
+    and Queen unjustly drove away their daughter, calls the princess forth, reunites
+    her with her parents, gives her tears as pearls and the little house, then disappears
+    as the house becomes a palace.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old woman says she already knows what happened to the maiden and begins
+    cleaning the house late at night.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old woman says it has been three years since the maiden came to her and
+    that their time together is over.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old woman instructs the maiden to take the skin off her face and put on
+    the silken gown she wore when she arrived.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The count, separated from the King and Queen, climbs a tree at night and sees
+    the goose-girl coming down the mountain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the well, the goose-girl removes the skin, washes herself, and her golden
+    hair falls down around her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When a bough cracks and the moon is covered, the maiden slips back into the
+    skin, springs away, and disappears from the count's sight.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The count tells the King and Queen what he saw by the well, and they believe
+    the maiden is their lost daughter.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Geese sit sleeping around the old woman's house when the King, Queen, and
+    count arrive.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The old woman says the King and Queen unjustly drove away their child three
+    years earlier and that the child has tended geese while preserving purity of heart.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The princess comes out of the chamber in silken garments with golden hair
+    and shining eyes.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The princess embraces and kisses her father and mother, and they weep for
+    joy.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The old woman gives the princess her tears as precious pearls and gives her
+    the little house as payment for service.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: After the old woman disappears, the little house changes into a splendid palace
+    with a royal table and servants.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: maiden / goose-girl / princess / lost daughter
+  description: A young woman who has lived with the old woman for three years, tended
+    geese, worn a removable skin on her face, and is revealed as the King and Queen's
+    daughter and a princess.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: old woman
+  description: A woman living in the wilderness who knows what has happened without
+    being told, directs the maiden, receives the King and Queen, explains the past
+    injustice, gives rewards, disappears, and is associated with the house becoming
+    a palace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: young count
+  description: A count traveling with the King and Queen who becomes separated, witnesses
+    the maiden at the well, and reports what he has seen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: King
+  description: The maiden's father, traveling to find the old woman and later reunited
+    with his daughter; he says he has given away his kingdom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Queen
+  description: The maiden's mother, traveling with the King and count to find the
+    old woman and later reunited with her daughter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: geese
+  description: The geese tended by the maiden for three years and found sleeping around
+    the little house.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: goose-tender and servant completing a three-year term
+  assigned_to:
+  - fig:1
+  basis: The old woman says the maiden came three years earlier, and later says she
+    has had to tend the geese for three years; the house is given as payment for her
+    services.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:9
+- id: role:2
+  label: hidden lost daughter and princess
+  assigned_to:
+  - fig:1
+  basis: The King and Queen believe the goose-girl is their lost daughter, and the
+    old woman calls her out before she appears as the princess.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: magical guardian, revealer, and reward-giver
+  assigned_to:
+  - fig:2
+  basis: The old woman knows events already, directs the maiden's preparation, reveals
+    the parents' prior injustice, gives pearls and a house, then disappears as the
+    house becomes a palace.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:9
+- id: role:4
+  label: night witness and informer
+  assigned_to:
+  - fig:3
+  basis: The count observes the maiden removing her skin at the well and tells the
+    King and Queen what he saw.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: searching parents reproved for earlier exile
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The King and Queen seek the old woman, are told they unjustly drove away
+    their child, and reunite with the princess.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:6
+  label: animals tended during the maiden's service
+  assigned_to:
+  - fig:6
+  basis: The old woman says the maiden had to tend the geese for three years, and
+    the geese are sleeping around the house.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: removable face-skin
+  literal_form: The skin worn on the maiden's face, removed before putting on the
+    silken gown and also removed at the well before washing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: silken gown
+  literal_form: The silken gown the maiden wore when she came to the old woman and
+    wears again when she appears as princess.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: well and washing water
+  literal_form: The well where the goose-girl removes the skin and washes herself.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: tree vantage
+  literal_form: The tree climbed by the count at night, from which he watches the
+    maiden.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: mountain descent
+  literal_form: The mountain from which the count sees the figure of the goose-girl
+    coming down by moonlight.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: golden hair and shining eyes
+  literal_form: The maiden's golden hair revealed at the well and her golden hair
+    and shining eyes when she appears as princess.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:7
+  label: tears as pearls
+  literal_form: The tears the princess has wept on her parents' account, given to
+    her as precious pearls.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: little house becoming palace
+  literal_form: The old woman's little house, given to the princess, changes into
+    a splendid palace after the old woman disappears.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: new log / fire
+  literal_form: The new log lighted by the old woman when the maiden returns.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:10
+  label: geese around the house
+  literal_form: The geese tended by the maiden and sleeping around the house with
+    their heads under their wings.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: End of the three-year stay
+  summary: The maiden returns trembling; the old woman says she already knows what
+    happened, cleans the house, tells the maiden the three-year term is complete,
+    and orders her to remove the skin from her face and dress in silk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Nocturnal sighting at the well
+  summary: The count, alone at night in a tree, sees the goose-girl come down the
+    mountain, remove her skin at the well, wash, reveal golden hair, then flee and
+    disappear when the bough cracks and the moon is covered.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Arrival at the old woman's house
+  summary: The count meets the King and Queen and tells them what he saw; they go
+    joyfully to the little house, where the geese sleep outside and the old woman
+    waits inside a clean room.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:8
+  - sym:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Recognition of the lost princess
+  summary: The old woman tells the King and Queen they unjustly drove away their child,
+    says the child tended geese for three years and remained pure, then calls the
+    princess from the chamber in silk with golden hair and shining eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:10
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Reunion, reward, and palace transformation
+  summary: The princess embraces her parents and all weep for joy; the old woman gives
+    her the tears as pearls and the little house, disappears, and the house changes
+    into a splendid palace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: lost royal daughter restored after humble service
+  taxonomy_refs:
+  - return
+  - royal_legitimacy
+  basis: The parents identify the goose-girl as their lost daughter; the old woman
+    says she was unjustly driven away and tended geese for three years; she then appears
+    as a princess and reunites with her parents.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives the restoration episode but not the full earlier circumstances
+    of exile.
+- id: motif:2
+  label: concealed beauty revealed by removing a skin at water
+  taxonomy_refs:
+  - shapeshifter
+  basis: The maiden is instructed to remove a skin from her face; at the well she
+    removes the skin, washes, and reveals golden hair before slipping back into the
+    skin and disappearing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The text describes a removable skin or disguise; it does not explicitly
+    state a full transformation into another species.
+- id: motif:3
+  label: fixed term of service ending in reward
+  taxonomy_refs:
+  - initiation
+  - sacred_exchange
+  basis: The old woman says the three-year term is complete and later gives the princess
+    pearls and the little house as payment for her services.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The passage frames the reward as wages or payment; a sacred or initiatory
+    reading is a taxonomy-level analogy and should be reviewed.
+- id: motif:4
+  label: tears recompensed as precious pearls
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The old woman gives the princess the tears she has wept on her parents' account,
+    saying they are precious pearls worth more than the kingdom.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage does not describe the moment of the tears becoming pearls,
+    only the old woman's gift and valuation of them.
+- id: motif:5
+  label: humble dwelling transformed into royal palace
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the old woman gives the little house to the princess and disappears,
+    the house changes into a splendid palace with a royal table and servants.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The transformation is clear, but its larger narrative function should
+    be checked against the surrounding tale.
+- id: motif:6
+  label: wrongful parental rejection followed by punishment and reconciliation
+  taxonomy_refs: []
+  basis: The old woman tells the King and Queen they unjustly drove away their child
+    and have been punished by misery; the family then reunites and weeps for joy.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No explicit divine judge is named in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22095-22101
+  quote_or_summary: The old woman says, “I already know all,” leads the girl in, lights
+    a new log, and begins to sweep and scour.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 22104-22118
+  quote_or_summary: The old woman says three years have passed and the maiden's time
+    is up, then tells her to take the skin off her face and put on the silken gown
+    she wore when she came.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 22121-22131
+  quote_or_summary: The King, Queen, and count are seeking the old woman; the count
+    is separated, climbs a tree at night, and sees the goose-girl coming down the
+    mountain by moonlight.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 22132-22140
+  quote_or_summary: At the well the maiden takes off the skin, washes, reveals golden
+    hair, then slips into the skin and disappears when a bough cracks and the moon
+    is covered.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 22142-22149
+  quote_or_summary: The count meets the King and Queen, reports the wonders he saw
+    by the well, and they believe the maiden is their lost daughter; geese sleep around
+    the house.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 22150-22157
+  quote_or_summary: The King and Queen look into the clean room and see the old woman
+    spinning; she appears to expect them and invites them in, saying she already knows
+    them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 22158-22166
+  quote_or_summary: The old woman says the parents unjustly drove away their child,
+    who tended geese for three years and preserved purity of heart; the princess then
+    appears in silk with golden hair and shining eyes.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 22168-22172
+  quote_or_summary: The princess embraces and kisses her father and mother, all weep
+    for joy, and she blushes when she sees the young count.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 22173-22180
+  quote_or_summary: The old woman gives the princess her tears as precious pearls
+    and the little house as payment; then the old woman disappears and the house becomes
+    a splendid palace with a royal table and servants.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. Motif labels are candidate descriptions
+    and taxonomy mappings require human review, especially where the passage implies
+    but does not explicitly name a magical or sacred category. No external comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All evidence is drawn from the supplied public-domain passage; comparison_claims left empty because the passage does not itself make an explicit comparative claim.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l22095-l22180
+  passage_sha256=c89cde2108122e16f9c05daadc453c2a5dbad308dc1e9488452c73312576d793
+

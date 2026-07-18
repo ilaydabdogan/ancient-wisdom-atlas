@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l2794-l2829
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: STORIES OF THE MENEHUNES / HAWAII THE ORIGINAL HOME OF THE BROWNIES / MOKE
+    MANU'S ACCOUNT / PI'S WATERCOURSE; lines 2794-2829
+  start: '2794'
+  end: '2829'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Pi, an ordinary man of Waimea, Kauai, commissions the Menehunes near Puukapele
+    to prepare stones and build a dam and watercourse. The Menehunes work at night,
+    complete the Waimea River dam and stone watercourse before dawn, and receive shrimps
+    as food from Pi. Their return to Puukapele is linked to a saying about the hum
+    of their voices. The watercourse is said to remain visible. A second project,
+    a fish-pond wall at Huleia River, remains incomplete because dawn came before
+    the walls met.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pi is described as an ordinary man living in Waimea, Kauai, who wanted to
+    construct a dam across the Waimea River and a watercourse toward Kikiaola.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After choosing locations, Pi went to the mountains and ordered the Menehunes
+    near Puukapele to prepare stones for the dam and watercourse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Menehunes were divided into groups for gathering and cutting stones, and
+    the materials were ready very quickly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the dead of night Pi heard the voices of the Menehunes on their way to
+    Kikiaola, each carrying a stone.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dam was constructed with every stone fitting properly, the stone watercourse
+    was laid around Kikiaola, and before daybreak the river water was turned into
+    the watercourse on the Waimea flat lands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the work was finished, Pi served shrimps as food to the Menehunes so
+    that each had a fish; they were satisfied.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At dawn the Menehunes returned rejoicing to the mountains of Puukapele, and
+    the hum of their voices is linked to a saying about birds at Kawainui pond being
+    startled.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that Pi's watercourse can still be seen at Kikiaola.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In another episode, Pi told the Menehunes to wall in a fish-pond at the bend
+    of the Huleia River; they began around midnight, but at dawn the walls had not
+    met, so the work remained incomplete.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pi
+  description: An ordinary man living in Waimea, Kauai, who planned and commissioned
+    the dam, watercourse, and later fish-pond walling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Menehunes near Puukapele
+  description: A group living near Puukapele who prepare stones, carry them at night,
+    build the dam and watercourse, receive food, and later attempt a fish-pond wall.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: birds of the pond of Kawainui
+  description: Birds mentioned in the saying as being startled by the hum of the Menehunes'
+    voices.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: project initiator and commissioner
+  assigned_to:
+  - fig:1
+  basis: Pi selects the work locations, orders the Menehunes to prepare stones, waits
+    at the dam site, and later gives another fish-pond task.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: nocturnal communal builders
+  assigned_to:
+  - fig:2
+  basis: The Menehunes gather and cut stones, carry them at night, and build the dam
+    and watercourse before dawn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: food recipients after labor
+  assigned_to:
+  - fig:2
+  basis: After the completed work, Pi serves the Menehunes shrimps, and they are described
+    as satisfied.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: figures in explanatory saying
+  assigned_to:
+  - fig:3
+  basis: The saying states that the hum of the Menehunes at Puukapele startled the
+    birds of Kawainui pond.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: watercourse and river water
+  literal_form: Waimea River water diverted by a dam into a stone auwai or watercourse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: stones for construction
+  literal_form: stones gathered, cut, carried, fitted into a dam, and laid as a stone
+    watercourse
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: mountains of Puukapele
+  literal_form: mountain dwelling or return-place of the Menehunes near Puukapele
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: night and dawn boundary
+  literal_form: work begun or performed at night and judged complete or incomplete
+    by daybreak
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: shrimp food distribution
+  literal_form: shrimps served by Pi to supply each Menehune with a fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: unfinished fish-pond walls
+  literal_form: fish-pond walls at the bend of the Huleia River left incomplete when
+    dawn came before they met
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pi commissions the waterworks
+  summary: Pi plans a dam and watercourse, chooses locations, goes to the mountains,
+    and orders the Menehunes near Puukapele to prepare stones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nocturnal construction at Kikiaola
+  summary: The Menehunes gather and cut stones, travel at night carrying them, complete
+    the dam and stone watercourse before dawn, and divert Waimea River water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Food payment and return to Puukapele
+  summary: Pi feeds the Menehunes with shrimps after the work; they return satisfied
+    and rejoicing at dawn, and their hum is linked to a remembered saying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Visible watercourse
+  summary: The narration states that Pi's watercourse remains visible at Kikiaola.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Unfinished Huleia fish-pond wall
+  summary: Pi also commands the Menehunes to wall a fish-pond at Huleia River; because
+    the walls do not meet before dawn, the pond is left incomplete.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: nocturnal supernatural communal construction
+  taxonomy_refs: []
+  basis: The Menehunes rapidly prepare stones, travel at night with stones, and complete
+    a dam and watercourse before dawn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly call the Menehunes supernatural in this
+    excerpt; the motif label is based on their named group role and extraordinary
+    rapid nocturnal work as narrated.
+- id: motif:2
+  label: work completed or left incomplete by dawn
+  taxonomy_refs: []
+  basis: One construction project is completed before daybreak, while the fish-pond
+    wall is left unfinished because dawn arrives before the walls meet.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage states the timing and outcomes but does not give an explicit
+    rule that dawn stops all such work.
+- id: motif:3
+  label: food distribution after collective labor
+  taxonomy_refs: []
+  basis: After the dam and watercourse are finished, Pi serves shrimps to the Menehunes,
+    who are satisfied before returning to Puukapele.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents food after labor, but does not explicitly frame it
+    as ritual or sacred exchange.
+- id: motif:4
+  label: place-legend explaining visible landscape works
+  taxonomy_refs: []
+  basis: The narration connects Pi and the Menehunes to a watercourse said still to
+    be visible and to an incomplete fish-pond said to remain incomplete to the present.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level candidate based on the text's explicit link between
+    narrative events and surviving local features.
+- id: motif:5
+  label: ordinary commissioner of culture-making waterworks
+  taxonomy_refs:
+  - culture_hero
+  basis: Pi, though described as an ordinary man, organizes the construction of a
+    dam and watercourse that diverts river water onto Waimea flat lands.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The text calls Pi an ordinary man and does not call him a hero; the taxonomy
+    link is only a tentative fit to public-benefit waterworks.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2794-2801
+  quote_or_summary: Pi, an ordinary man of Waimea, Kauai, wants a dam across the Waimea
+    River and a watercourse toward Kikiaola; after choosing locations, he orders Menehunes
+    near Puukapele to prepare stones.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 2801-2805
+  quote_or_summary: The Menehunes are assigned to gather and cut stones, and all material
+    is ready very quickly; Pi sets the night for the work.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 2805-2813
+  quote_or_summary: At midnight Pi hears the voices of the Menehunes traveling to
+    Kikiaola, each with a stone; they build the dam and stone watercourse, and before
+    daybreak the Waimea River water is turned into the watercourse.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 2814-2822
+  quote_or_summary: Pi serves shrimps to feed the Menehunes after the work; satisfied,
+    they return rejoicing to Puukapele at dawn, and their humming voices are linked
+    to a saying about startling birds at Kawainui pond.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: line 2824
+  quote_or_summary: The text states that Pi's auwai, or watercourse, is still visible
+    at Kikiaola.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 2826-2829
+  quote_or_summary: Pi also tells the Menehunes to wall a fish-pond at Huleia River;
+    they begin near midnight, but because the walls are not finished enough to meet
+    by dawn, the pond is left incomplete and remains so.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct from the supplied passage. Motif labels
+    are candidates based on narrated actions and outcomes. No comparison claims are
+    made because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; no external comparison or taxonomy ID beyond supplied refs was added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l2794-l2829
+  passage_sha256=24be4b9f54e9272a3c8f56edc63930fcfd80fd1a5bc91b1db85da0a8fa026ba4
+

@@ -1,0 +1,602 @@
+---
+record_id: batch.motif.finnish-karelian-kalevala-crawford-gutenberg-l4268-l4457
+source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+passage_locator:
+  label: PREFACE / JOHN MARTIN CRAWFORD. / THE KALEVALA. / PROEM; lines 4268-4457
+  start: '4268'
+  end: '4457'
+  translation: 'Kalevala: The Epic Poem of Finland'
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Wainamoinen travels homeward from Northland/Sariola and encounters Pohyola's
+    daughter, the Maiden of the Rainbow, weaving on the bow of heaven. He invites
+    her into his sledge and offers to make her wife and queen in Kalevala. She recounts
+    a bird's warning about marriage, then sets a series of difficult tasks. Wainamoinen
+    completes several tasks and attempts to build a vessel from spindle and distaff
+    fragments at an iron mountain, but Hisi and Lempo turn the hatchet and wound him,
+    causing a stream of blood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wainamoinen drives homeward from the ever-darksome Northland and dismal Sariola.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pohyola's daughter sits on the bow of heaven, dressed in gold and silver,
+    weaving golden and silver fabric.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Wainamoinen hears the sky-loom and looks upward to see the maiden on the heavenly
+    bow.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Wainamoinen stops his racer and asks the maiden to sit beside him in his snow-sledge.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Wainamoinen says the maiden would bake, prepare drink, fill beer-cups, sing
+    at his table, and walk as queen in his dwelling and in Kalevala.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The maiden says she heard a thrush or song-bird and asked whether life is
+    happiest as a maiden with her father or as a wife with her husband.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The song-bird answers that maiden-freedom is warmer than summer and that many
+    married women are like dogs chained in kennels.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Wainamoinen rejects the song-bird's statement and says wives are queens and
+    highly honored.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The maiden says she would call Wainamoinen a hero if he split a golden hair
+    with edgeless knives and snared a bird's egg with an unseen snare.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Wainamoinen completes the golden-hair and bird's-egg tasks.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The maiden next requires Wainamoinen to peel sandstone and cut a whip-stick
+    from ice without losing fragments, and he completes the task.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The maiden says she will go only with one who makes a ship or shallop from
+    spindle and distaff fragments and launches it without using the body to propel
+    it.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Wainamoinen claims no one under heaven can build such a vessel like him, takes
+    the fragments, and works at an iron mountain with hammer and hatchet for three
+    days.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:14
+  text: Hisi and Lempo interfere with the hatchet; fragments rebound and wound Wainamoinen's
+    knee and veins, producing a crimson blood-stream.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Wainamoinen
+  description: Ancient minstrel, hero, and magician who drives homeward, courts the
+    maiden, performs tasks, attempts to build the vessel, and is wounded.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Pohyola's daughter / Maiden of the Rainbow / Maid of Beauty
+  description: Fair daughter of Pohyola, called glory of land and water, seated on
+    the bow of heaven and weaving golden and silver webs; she answers Wainamoinen
+    and sets conditions for going with him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: song-bird / thrush
+  description: Bird whose song the maiden hears and questions about the happiness
+    of maidenhood and wifehood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Hisi
+  description: Named as evil Hisi and fell Hisi; grasps the hatchet and severs Wainamoinen's
+    veins in the accident sequence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:12
+- id: fig:5
+  name_or_label: Lempo
+  description: Takes the crooked handle and guides or turns the sharpened hatchet
+    during the injury sequence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: homeward traveler
+  assigned_to:
+  - fig:1
+  basis: Wainamoinen is described as driving and hastening homeward from Northland/Sariola.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wooer or prospective husband
+  assigned_to:
+  - fig:1
+  basis: He invites the maiden into his snow-sledge and says he will make her wife
+    and queen in Kalevala.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: task-performing magician-craftsman
+  assigned_to:
+  - fig:1
+  basis: He completes the maiden's difficult tasks and attempts to build a vessel
+    from spindle and distaff fragments.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: role:4
+  label: sky-weaving maiden and task setter
+  assigned_to:
+  - fig:2
+  basis: She sits and weaves on the bow of heaven, answers Wainamoinen, and sets successive
+    conditions for joining him.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:5
+  label: marriage adviser in bird form
+  assigned_to:
+  - fig:3
+  basis: The maiden asks the song-bird how to live happiest, and the bird replies
+    about maiden-freedom and married women.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: harm-causing supernatural agents
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Hisi and Lempo act upon the hatchet in the sequence that wounds Wainamoinen.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: bow of heaven / rainbow
+  literal_form: Heavenly bow or highest arch on which the maiden sits.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: gold and silver weaving
+  literal_form: Golden shuttle, silver comb, golden fabric, and silver threads used
+    by the maiden.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: snow-sledge
+  literal_form: Vehicle into which Wainamoinen invites the maiden to sit beside him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: song-bird or thrush
+  literal_form: Bird that sings and answers the maiden's question about maidenhood
+    and marriage.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: golden hair and edgeless knives
+  literal_form: A golden hair to be split using knives that have no edges.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: bird's egg and unseen snare
+  literal_form: A bird's egg to be snared with a snare the maiden cannot see.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: sandstone and ice whip-stick
+  literal_form: Sandstone to be peeled and a whip-stick to be cut from ice without
+    losing splinters or fragments.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: ship or shallop from spindle and distaff fragments
+  literal_form: A vessel to be made from splinters of the maiden's spindle and fragments
+    of her distaff.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:9
+  label: waters for launching the vessel
+  literal_form: Waters into which the little ship is to be launched and set floating.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+- id: sym:10
+  label: iron mountain
+  literal_form: Mountain to which Wainamoinen hastens to join the vessel fragments.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:11
+- id: sym:11
+  label: hatchet or axe
+  literal_form: Tool with a crooked handle that Hisi and Lempo turn aside, causing
+    injury.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: sym:12
+  label: crimson blood-stream
+  literal_form: Blood-stream that gushes forth after Wainamoinen's veins are severed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Homeward journey from Northland
+  summary: Wainamoinen drives away from Northland/Sariola and hastens homeward.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maiden weaving on the heavenly bow
+  summary: Pohyola's daughter weaves golden and silver fabric on the bow of heaven,
+    and Wainamoinen hears the sky-loom and sees her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sledge invitation and marriage offer
+  summary: Wainamoinen invites the maiden to sit beside him in his snow-sledge and
+    describes her place in his dwelling and in Kalevala.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Bird's advice about maidenhood and marriage
+  summary: The maiden recounts asking a thrush how to live happily; the bird praises
+    maiden-freedom and disparages the state of many married women.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: First courtship tests
+  summary: Wainamoinen rejects the bird's advice, renews the proposal, and completes
+    the tests of splitting a golden hair and snaring a bird's egg with unseen means.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Sandstone and ice task
+  summary: The maiden requires sandstone peeling and cutting a whip-stick from ice
+    without loss of fragments; Wainamoinen completes the task.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Vessel task and wounding
+  summary: The maiden requires a vessel made from spindle and distaff fragments and
+    launched without bodily propulsion. Wainamoinen works at an iron mountain, but
+    Hisi and Lempo turn the hatchet and he is wounded, causing a crimson blood-stream.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Return journey from Northland
+  taxonomy_refs:
+  - return
+  basis: The passage opens with Wainamoinen hastening homeward from the ever-darksome
+    Northland/Sariola.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only the immediate homeward travel is shown; no full return arc is given
+    in this passage.
+- id: motif:2
+  label: Courtship of a sky-associated maiden
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The maiden is seated on the bow of heaven, and Wainamoinen seeks to make
+    her wife and queen in Kalevala.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage contains a proposal and conditions, not a completed marriage;
+    the taxonomy reference is therefore provisional.
+- id: motif:3
+  label: Impossible or magical tasks as condition for union
+  taxonomy_refs: []
+  basis: The maiden repeatedly withholds entry into the sledge until Wainamoinen completes
+    difficult tasks involving a golden hair, unseen snare, sandstone, ice, and a vessel
+    made from spindle and distaff fragments.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No specific supplied taxonomy entry exactly names the courtship-task pattern.
+- id: motif:4
+  label: Bird gives wisdom about marriage and freedom
+  taxonomy_refs:
+  - wisdom
+  basis: The maiden consults a song-bird or thrush, which answers with counsel contrasting
+    maiden-freedom and married life.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The advice is disputed by Wainamoinen within the same passage.
+- id: motif:5
+  label: Magical vessel made from small feminine implements
+  taxonomy_refs: []
+  basis: The final task requires a ship or shallop made from spindle and distaff fragments
+    and launched without bodily propulsion.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: Although a vessel is central, the passage does not present an ark, flood,
+    or renewal context.
+- id: motif:6
+  label: Supernatural interference wounds the magician-craftsman
+  taxonomy_refs: []
+  basis: While Wainamoinen works on the vessel, Hisi and Lempo turn the hatchet so
+    that fragments wound him and a blood-stream gushes forth.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The passage names the agents and injury but does not elaborate their broader
+    mythic role here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4268-4457; opening homeward stanza
+  quote_or_summary: Wainamoinen drives and hastens homeward from the ever-darksome
+    Northland and dismal Sariola.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4268-4457; Maiden of the Rainbow introduction
+  quote_or_summary: Pohyola's daughter sits on the bow of heaven, wears gold and silver,
+    and weaves golden and silver webs with shuttle and comb.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 4268-4457; Wainamoinen sees the sky-loom
+  quote_or_summary: Wainamoinen hears the sky-loom buzzing, looks upward, and sees
+    the maiden sitting on the bow and weaving.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 4268-4457; first dialogue between Wainamoinen and the maiden
+  quote_or_summary: Wainamoinen asks the maiden to enter his snow-sledge and says
+    she will bake, prepare drink, fill beer-cups, sing at his table, and walk as queen
+    in Kalevala.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 4268-4457; maiden recounts questioning the song-bird
+  quote_or_summary: The maiden says she heard a song-bird or thrush and asked it whether
+    life is happiest as a maiden with her father or as wife beside her husband.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 4268-4457; song-bird's answer
+  quote_or_summary: '"Warmer still is maiden-freedom"; married women are described
+    as "like dogs enchained in kennel."'
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:7
+  type: summary
+  locator: lines 4268-4457; Wainamoinen's rebuttal and renewed proposal
+  quote_or_summary: Wainamoinen calls the bird's song foolish, says wives are queens
+    and honored, and again asks the maiden to come with him as wife and queen in Kalevala.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 4268-4457; first task sequence
+  quote_or_summary: The maiden says she would call Wainamoinen a hero if he split
+    a golden hair with edgeless knives and snared a bird's egg with an unseen snare;
+    Wainamoinen completes both.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 4268-4457; sandstone and ice task sequence
+  quote_or_summary: The maiden refuses the sledge until Wainamoinen peels sandstone
+    and cuts a whip-stick from ice without losing fragments; he completes the task.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 4268-4457; vessel condition
+  quote_or_summary: The maiden says she will go only with one who makes a ship or
+    shallop from spindle splinters and distaff fragments, launches it in the water,
+    and moves it without hand, foot, arm, knee, or other propulsion.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:11
+  type: summary
+  locator: lines 4268-4457; construction at the iron mountain
+  quote_or_summary: Wainamoinen claims unrivaled ability to build the vessel, takes
+    the fragments, goes to an iron mountain, and works three days with hammer and
+    hatchet.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:12
+  type: summary
+  locator: lines 4268-4457; hatchet injury
+  quote_or_summary: Hisi grasps the hatchet and Lempo takes the crooked handle; the
+    axe turns aside, fragments pierce Wainamoinen's flesh, his veins are severed,
+    and a crimson blood-stream gushes forth.
+  source_text_path: texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal passage features are clear. Motif labels are conservative and based
+    only on the supplied passage. No separate comparison claims were made because
+    the passage does not explicitly compare itself with another tradition or named
+    motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references were used only where directly supported by the supplied passage and available reference list; several motif candidates are left without taxonomy refs because no exact supplied category matched them.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:finnish-karelian-kalevala-crawford-gutenberg__l4268-l4457
+  passage_sha256=9d541f33d06e00e61da31e1cdcdc6cf906f8f81162048752d8e4d0e5b0824bd7
+

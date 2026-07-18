@@ -1,0 +1,493 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l7173-l7312
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: HOW THE COYOTES TRIED TO STEAL THE CHILDREN OF THE SACRED DANCE / THE COYOTE
+    AND THE BEETLE / HOW THE COYOTE DANCED WITH THE BLACKBIRDS / HOW THE TURTLE OUT
+    HUNTING DUPED THE COYOTE; lines 7173-7312
+  start: '7173'
+  end: '7312'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An old Turtle kills a deer near the Highflowing River but needs a flint-knife
+    to skin it. While he sings a magic song to find flint, Coyote overhears, deduces
+    that Turtle has killed a deer, and insists on helping. After the deer is skinned,
+    Coyote demands half the meat, threatens Turtle, and fails to bite through Turtle's
+    shell. Coyote stuffs sand into the opening of Turtle's shell and leaves him for
+    dead, then prepares the deer meat and a blood-pudding while Turtle silently listens.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is in ancient times near the Highflowing River on the Zuñi Mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old Turtle kills a large deer through ingenuity but lacks a tool to skin
+    it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Turtle searches for flint near old building remains while singing a magic
+    song used for finding knife-making flint.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Coyote overhears Turtle's song and infers that Turtle is looking for a flint-knife
+    because he has killed a deer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Coyote questions Turtle repeatedly until Turtle admits where the deer lies.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Coyote helps hold the deer open while Turtle and Coyote skin it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Turtle offers Coyote stomach, liver, some fat, and some intestines as the
+    usual share for someone who arrives while a hunter is skinning a deer.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Coyote demands half of the deer and threatens to murder Turtle when refused.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Turtle withdraws his feet, head, and tail into his shell when threatened.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Coyote bites and gnaws at Turtle, but his teeth slip off Turtle's hard shell.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Coyote stuffs sand into the opening where Turtle's head had disappeared and
+    believes he has killed or disabled Turtle.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Turtle remains still as if dead while listening to Coyote's actions.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Coyote cuts up the deer, packages it in its skin, washes the stomach in a
+    brook, fills it with blood, organ meat, fat, and herbs, and buries it in a ground
+    oven to bake.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Old Turtle
+  description: An old Turtle living near the Highflowing River on the Zuñi Mountains;
+    he kills a deer, searches for flint, resists Coyote's demand, and withdraws into
+    his shell.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: Coyote
+  description: A Coyote running through the woods who overhears Turtle, questions
+    him, helps skin the deer, demands more meat, attacks Turtle, and prepares the
+    deer meat.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:3
+  name_or_label: Deer
+  description: A large deer killed by Turtle and later skinned, divided, packaged,
+    and cooked by Coyote.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:11
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: Turtle kills the deer and is treated as the hunter who controls its distribution.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: magic-song singer
+  assigned_to:
+  - fig:1
+  basis: Turtle sings an old magic song while searching for flint.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: defensive survivor
+  assigned_to:
+  - fig:1
+  basis: Turtle withdraws into his shell, resists Coyote's biting, and remains listening
+    after being packed with sand.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:4
+  label: eavesdropper
+  assigned_to:
+  - fig:2
+  basis: Coyote overhears Turtle's song and uses it to infer that Turtle has killed
+    a deer.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: greedy claimant
+  assigned_to:
+  - fig:2
+  basis: Coyote rejects the offered hunter's share and demands half the deer.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: attacker and meat-taker
+  assigned_to:
+  - fig:2
+  basis: Coyote threatens Turtle, attacks him, plugs his shell opening with sand,
+    and then turns to the deer meat.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: role:7
+  label: hunted animal and meat source
+  assigned_to:
+  - fig:3
+  basis: The deer is killed, skinned, divided, packed, and cooked.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:11
+symbols:
+- id: sym:1
+  label: flint-knife
+  literal_form: A knife sought from fire-striking flint for skinning the deer.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: magic song for flint
+  literal_form: An old magic song asking fire-striking flint-stone to make itself
+    known.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Turtle shell
+  literal_form: Turtle's hard shell that Coyote's teeth cannot penetrate.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: sand-filled shell opening
+  literal_form: Sand stuffed and tamped into the opening where Turtle's head had withdrawn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: deer meat package
+  literal_form: The cut-up deer packaged in its own skin.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: blood-pudding in ground oven
+  literal_form: The deer's stomach filled with organ meat, fat, blood, and herbs,
+    then buried in a ground oven to bake.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: brook
+  literal_form: A neighboring brook where Coyote washes the deer's stomach.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Turtle kills a deer and seeks flint
+  summary: Turtle kills a large deer but cannot skin it, so he goes to old building
+    remains and sings a magic song to find flint for a knife.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Coyote discovers the deer
+  summary: Coyote overhears Turtle's song, guesses its purpose, questions Turtle,
+    and gets him to reveal the deer's location.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Skinning and disputed share
+  summary: Coyote helps skin the deer but rejects Turtle's offered share of stomach,
+    liver, fat, and intestines, demanding half the deer instead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Coyote attacks Turtle
+  summary: Coyote threatens to kill Turtle; Turtle withdraws into his shell, and Coyote
+    fails to bite through it before plugging the shell opening with sand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Coyote prepares the meat while Turtle listens
+  summary: Turtle remains still and listens while Coyote cuts up and packages the
+    deer, washes the stomach in a brook, fills it, and buries it in a ground oven
+    to bake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: small or vulnerable animal survives by bodily protection and stillness
+  taxonomy_refs: []
+  basis: Turtle survives Coyote's violent attack by withdrawing into his shell; after
+    Coyote plugs the opening with sand, Turtle remains still as if dead and listens.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The later outcome of the tale is outside this excerpt, so the full consequences
+    of Turtle's stillness are not shown here.
+- id: motif:2
+  label: greedy helper demands more than the customary share
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote helps with skinning but rejects the customary share and demands half
+    the deer, then threatens and attacks Turtle.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: 'The taxonomy reference is cautious: the passage presents Coyote crossing
+    social and distributive boundaries, but it does not explicitly label the episode
+    as a general trickster pattern.'
+- id: motif:3
+  label: magic song locates a needed tool or material
+  taxonomy_refs:
+  - wisdom
+  basis: Turtle sings an old magic song associated with finding flint for knives after
+    needing a tool to skin the deer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage reports the song and its purpose, but the finding of the knife
+    is summarized briefly and not elaborated as a separate ritual sequence.
+- id: motif:4
+  label: eavesdropping reveals hidden game or food
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote overhears Turtle's song and uses it to infer that Turtle has killed
+    a deer, leading him to locate the meat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Coyote's eavesdropping is explicit, but any broader motif-family classification
+    remains provisional.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7173-7182
+  quote_or_summary: In ancient times near the Highflowing River on the Zuñi Mountains,
+    an old Turtle kills a large deer through ingenuity but lacks a way to skin it.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7183-7197
+  quote_or_summary: Turtle goes to old building remains and sings an old magic song
+    asking fire-striking flint-stone to make itself known for knife-making.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7198-7205
+  quote_or_summary: Coyote hears the song, wonders who is singing, and concludes the
+    singer is looking for a flint-knife because someone has killed a deer.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7206-7244
+  quote_or_summary: Coyote questions Turtle about the song and the flint-knife until
+    Turtle admits the deer lies nearby.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7245-7252
+  quote_or_summary: After Turtle reluctantly allows Coyote to come along, they find
+    a knife, go to the deer, and Coyote holds the deer open while it is skinned.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7253-7264
+  quote_or_summary: 'Turtle says Coyote will receive the usual parts given to someone
+    who arrives while a hunter is skinning a deer: stomach, liver, some fat, and some
+    intestines.'
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 7265-7279
+  quote_or_summary: Coyote refuses the offered share, demands half the deer, threatens
+    to murder Turtle, and Turtle withdraws his feet, head, and tail while repeating
+    his limited offer.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 7280-7288
+  quote_or_summary: Coyote grabs, bites, rolls, and gnaws Turtle, but his teeth strike
+    and slip off Turtle's hard shell.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 7289-7298
+  quote_or_summary: Coyote sets Turtle upright, stuffs sand into the opening where
+    Turtle's head disappeared, tamps it down with a stick, mocks Turtle, and returns
+    to the meat.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 7299-7301
+  quote_or_summary: Turtle decides it is best to die, as it were, and listens intently
+    to what Coyote is doing.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 7302-7312
+  quote_or_summary: Coyote cuts up the deer, packages it in its own skin, washes the
+    stomach in a brook, fills it with chopped organs, fat, blood, and herbs, and buries
+    it in a ground oven to bake as blood-pudding before summoning family and friends.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is based directly on the provided passage. Motif labels
+    are provisional and limited to events visible in this excerpt; no external comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The excerpt appears to end before the full resolution implied by the tale title.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l7173-l7312
+  passage_sha256=88d3fbd57b3fdb02067403c962816663d2e46dd8924aacbf57ae2f3d28ca65f9
+

@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l4758-l4849
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: THE AUTOBIOGRAPHY OF UNA / THE AUTOBIOGRAPHY OF HERKHUF / THE AUTOBIOGRAPHY
+    OF AMENI AMENEMHAT / THE AUTOBIOGRAPHY OF THETHA; lines 4758-4849
+  start: '4758'
+  end: '4849'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: I was as cool water and fire in the house of my Lord.
+  summary: An Eleventh-Dynasty autobiographical inscription presents Thetha as a trusted
+    servant, seal-bearer, administrator, and body-companion of King Uahankh/Antef.
+    Thetha stresses royal favor, correct management of offerings, tribute, and accounts,
+    moral conduct, travel in the royal retinue, and continued service under the king's
+    son and successor. The passage then introduces the next text, the autobiography
+    of Aahmes/Amasis the naval officer.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Thetha inscription is described as a hieroglyphic text cut on a large
+    rectangular limestone slab in the British Museum and dated to the Eleventh Dynasty,
+    in the reign of Uahankh/Antef.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thetha is presented with titles including servant of Uahankh/Antef, chief
+    figure in the king's house, bearer or mouth of the royal seal, and official connected
+    with confidential affairs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Thetha says he served for many years under Uahankh/Antef, whose rule extended
+    south to Thes and north to Abydos of This.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Thetha says the king promoted him, appointed him because of his singleness
+    of heart, and entrusted him with offerings, tax assessments, tribute matters,
+    and information about revenue.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Thetha describes himself as living in the heart of his lord, as cool water
+    and fire in the lord's house, and as one who loved good and hated evil.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Thetha says he carried out royal orders, made computations without error,
+    did not substitute one thing for another, did not increase the king's wrath, did
+    not take inheritance property, and kept accounts for the royal household.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Thetha says he made a mekha boat and a sehi boat for his town so that he could
+    attend in his lord's train during travel or journeying.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After Uahankh/Antef departed in peace to his horizon, identified in the passage
+    as the tomb, Thetha followed the king's son, Nekhtneb-Tepnefer/Antef, and retained
+    the duties he had held under the father.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: The passage concludes by introducing the autobiography of Aahmes/Amasis, a
+    naval officer whose inscription is on the walls of his tomb at Al-Kab in Upper
+    Egypt.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Thetha
+  description: Autobiographical speaker; servant, seal-bearer, confidential official,
+    administrator, and body-companion of the king.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Uahankh / Antef
+  description: King of South and North, son of Ra, called Thetha's lord and patron;
+    he promotes and entrusts Thetha and later departs to his horizon.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Nekhtneb-Tepnefer / Antef
+  description: Son and successor of Uahankh/Antef; Thetha follows him as body-companion
+    and continues earlier duties under him.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Aahmes / Amasis
+  description: Naval officer or distinguished marine introduced as the subject of
+    the following autobiography.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Ra
+  description: 'Solar deity named in royal formulas: the kings are called sons of
+    Ra and compared with Ra in living forever.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:8
+roles:
+- id: role:1
+  label: autobiographical speaker
+  assigned_to:
+  - fig:1
+  basis: The inscription is framed as Thetha's own declaration.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: trusted confidential royal official
+  assigned_to:
+  - fig:1
+  basis: Thetha is described as bearer or mouth of the royal seal and official of
+    confidential affairs who keeps the king's counsel.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: administrator of offerings, tribute, and accounts
+  assigned_to:
+  - fig:1
+  basis: Thetha manages offerings, tax assessment, tribute information, computations,
+    and royal household accounts.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: royal body-companion and travel retainer
+  assigned_to:
+  - fig:1
+  basis: Thetha calls himself a body servant or body-companion and says he attended
+    the king's train in travel.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:5
+  label: royal lord and patron
+  assigned_to:
+  - fig:2
+  basis: Uahankh/Antef magnifies Thetha, grants possessions, entrusts duties, and
+    is repeatedly called Thetha's lord.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:6
+  label: divinely titled king
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The kings are styled with Horus and Ra formulas, including 'son of Ra' and
+    living like Ra.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:7
+  label: successor king continuing prior service relationship
+  assigned_to:
+  - fig:3
+  basis: Nekhtneb-Tepnefer/Antef receives Thetha as body-companion and gives him the
+    duties held under his father.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: naval officer introduced for following text
+  assigned_to:
+  - fig:4
+  basis: Aahmes/Amasis is introduced as the naval officer and distinguished marine
+    of the next autobiography.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: solar divine referent in royal titulary
+  assigned_to:
+  - fig:5
+  basis: Ra appears in formulas identifying the king as son of Ra and living like
+    Ra.
+  evidence_refs:
+  - ev:2
+  - ev:8
+symbols:
+- id: sym:1
+  label: royal seal
+  literal_form: bearer of the royal seal; mouth of the seal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cool water
+  literal_form: cool water in the house of my Lord
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: fire and flame of wrath
+  literal_form: fire in the house of my Lord; flame of his wrath
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: mekha and sehi boats
+  literal_form: a mekha boat and a sehi boat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: horizon as tomb
+  literal_form: departed in peace to his horizon, explained as the tomb
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: South and North kingship
+  literal_form: King of the South, King of the North; subject in the south and in
+    the north
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+scenes:
+- id: scene:1
+  label: Inscription and titulary
+  summary: The passage identifies the monument and introduces Thetha through royal
+    and administrative titles connected with Uahankh/Antef.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Promotion and entrusted administration
+  summary: Thetha recounts royal favor, his appointment to trusted office, and his
+    handling of offerings, tax assessments, tribute concerns, and information for
+    the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Moral and administrative self-presentation
+  summary: Thetha describes his closeness to the king, uses images of water and fire,
+    and lists conduct such as obedience, accurate accounting, and avoidance of theft.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Boats, travel, death of one king, and service under another
+  summary: Thetha makes boats to attend his lord's travel, receives equipment from
+    Uahankh/Antef, and after that king's death continues service under his son and
+    successor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Transition to Aahmes autobiography
+  summary: A new section introduces Aahmes/Amasis the naval officer and locates his
+    tomb inscription at Al-Kab.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: solar and dual royal titulary
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_parent_child
+  - duality
+  basis: The kings are styled as Horus, King of South and North, son of Ra, and living
+    like Ra, while Uahankh/Antef's territorial reach is described from south to north.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage gives formulaic royal titles within an autobiography, not
+    a mythic narrative of divine birth or cosmic duality.
+- id: motif:2
+  label: beloved confidential servant of the king
+  taxonomy_refs: []
+  basis: Thetha repeatedly presents himself as loved by his lord, one in heart with
+    the king, keeper of confidential counsel, and trusted seal official.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an elite autobiographical self-presentation; no broader mythic
+    comparison is asserted by the passage.
+- id: motif:3
+  label: righteous and knowledgeable administrator
+  taxonomy_refs:
+  - wisdom
+  basis: Thetha emphasizes knowledge of affairs, correct information, accurate computation,
+    love of good, hatred of evil, obedience to orders, and refusal to take property.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The connection to the taxonomy family 'wisdom' is broad; the passage is
+    administrative and moral rather than a wisdom dialogue or teaching.
+- id: motif:4
+  label: reciprocal service and royal favor
+  taxonomy_refs: []
+  basis: Thetha says he fulfilled royal duties and received prominence, esteem, possessions,
+    and continued responsibilities from the king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The exchange is political and administrative; the passage does not present
+    it as a sacred exchange.
+- id: motif:5
+  label: loyal service through dynastic succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After Uahankh/Antef's death, Thetha follows the son and successor and continues
+    the duties held under the father.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The succession is narrated from the official's perspective; the passage
+    does not explicitly argue a mythic legitimation of the successor.
+- id: motif:6
+  label: journeying in the royal retinue by boat
+  taxonomy_refs: []
+  basis: Thetha makes two boats so he can attend in his lord's train whenever travel
+    or journeying is performed.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The boats are practical travel equipment in the passage, not explicitly
+    sacred vessels.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4758-4765
+  quote_or_summary: The Thetha inscription is said to be cut in hieroglyphs on a large
+    rectangular limestone slab in the British Museum, belonging to the Eleventh Dynasty
+    and the reign of Uahankh/Antef.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4766-4782
+  quote_or_summary: Thetha is introduced as servant of Horus Uahankh, King of South
+    and North, son of Ra, Antef; he is beloved by the king, chief in the king's house,
+    keeper of counsel, bearer or mouth of the royal seal, and official of confidential
+    affairs.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4783-4794
+  quote_or_summary: Thetha says he was beloved and pleasing to his lord, served many
+    years under Uahankh/Antef, notes the king's territory from Thes to Abydos of This,
+    and says the king magnified him and placed him in a trusted palace role.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4794-4808
+  quote_or_summary: Thetha says he selected offerings, handled taxation and tribute
+    concerns, supplied information, and that nothing escaped his administration because
+    of his knowledge of affairs.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 4808-4817
+  quote_or_summary: Thetha says, "I was as cool water and fire in the house of my
+    Lord," and also describes himself as one who loved good and hated evil.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4817-4830
+  quote_or_summary: Thetha says he obeyed every royal order, overthrew obstruction,
+    made computations without mistake, did not substitute items, did not increase
+    the king's wrath, did not take inheritance property, and kept accounts for the
+    royal household.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 4831-4840
+  quote_or_summary: Thetha says he made a mekha boat and a sehi boat to attend the
+    lord's train during travel, was esteemed among great ones, received equipment
+    from Uahankh/Antef because of royal love, and served until the king departed in
+    peace to his horizon, glossed as the tomb.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 4840-4846
+  quote_or_summary: When the son, Horus Nekhtneb-Tepnefer, King of South and North,
+    son of Ra, Antef, entered his house, Thetha followed him as body-companion, received
+    the same duties as in the father's time, and remained near the king.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 4847-4849
+  quote_or_summary: A new section introduces the autobiography of Aahmes/Amasis the
+    naval officer, whose hieroglyphic inscription is on the walls of his tomb at Al-Kab
+    in Upper Egypt and who flourished under the first kings of the Eighteenth Dynasty.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is strongly supported by the supplied passage. Motif
+    candidates are cautious because the passage is an elite autobiographical inscription
+    with formulaic royal language rather than a myth narrative. No comparison claims
+    were made because the passage itself does not provide an explicit comparative
+    frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Symbols such as water, fire, seal, boats, and horizon are recorded from literal wording; interpretive meanings remain limited and flagged where uncertain.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l4758-l4849
+  passage_sha256=28275c88e133cccc4d900f030b013472edf9e3321f003e0ee0dd5b8898dc2077
+

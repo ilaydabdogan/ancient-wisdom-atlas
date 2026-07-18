@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l57167-l57180
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto CXXV. The Return. / Canto CXXVI. Bharat Consoled. / Canto CXXIX. The
+    Meeting With Bharat. / Canto CXXX. The Consecration.; lines 57167-57180
+  start: '57167'
+  end: '57180'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: 'Unknown were want, disease, and crime: / So calm, so happy was the time.'
+  summary: Rama gives rich treasures to every Vanar, and the honored chieftains depart
+    homeward. Ayodhya is described as enjoying ten thousand years of peace, prosperity,
+    fertility, health, and freedom from crime under Rama's rule.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Rama gives rich treasures to every Vanar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Vanar chieftains are honored and then turn their steps homeward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ayodhya is said to be blessed with Rama's rule for ten thousand years of peace
+    and rest.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that no widow mourned a murdered mate and no house was
+    desolate.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The land is described as free from murrain, with increasing flocks and herds.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The earth supplies fruits, harvests do not fail, and children do not die.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Want, disease, and crime are described as unknown in this time.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: Ruler of Ayodhya who gives treasures to the Vanars and whose rule is
+    associated with peace, prosperity, and freedom from social and natural affliction.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Vanars
+  description: Recipients of rich treasures from Rama.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vanar chieftains
+  description: Honored chieftains who depart homeward content.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: gift-giving ruler
+  assigned_to:
+  - fig:1
+  basis: Rama gives rich treasures to every Vanar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: peace-bringing king
+  assigned_to:
+  - fig:1
+  basis: Ayodhya is blessed with peace, fertility, health, and social order under
+    Rama's rule.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: honored recipients
+  assigned_to:
+  - fig:2
+  basis: The Vanars receive rich treasures from Rama.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: returning chieftains
+  assigned_to:
+  - fig:3
+  basis: The honored chieftains turn homeward content.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: treasures from mine and wave
+  literal_form: rich treasures from the mine and wave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ten-thousand-year reign of peace
+  literal_form: ten thousand years of Ayodhya blessed with Rama's rule
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fertile earth
+  literal_form: the earth supplying kindly fruits and unfailing harvests
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: flocks and herds increasing
+  literal_form: flocks and herds increased and grew
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rama rewards the Vanars
+  summary: Rama gives rich treasures to every Vanar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Honored chieftains depart homeward
+  summary: The chieftains, satisfied with their honors, turn their steps homeward.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ayodhya under Rama's rule
+  summary: Ayodhya enjoys a long era of peace, household security, animal health,
+    fertility, unfailing harvests, child survival, and absence of want, disease, and
+    crime.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ideal righteous kingship bringing peace and prosperity
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Rama's rule is directly linked with Ayodhya's long peace, social security,
+    fertility, health, and absence of want, disease, and crime.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage describes the effects of Rama's rule but does not explicitly
+    discuss coronation theory or legal legitimacy in this excerpt.
+- id: motif:2
+  label: return home after honors and reward
+  taxonomy_refs:
+  - return
+  - sacred_exchange
+  basis: After Rama gives treasures and honors, the chieftains depart homeward content.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The return is literal and brief; the passage does not elaborate a full
+    quest-return structure.
+- id: motif:3
+  label: golden-age abundance under a blessed reign
+  taxonomy_refs: []
+  basis: The passage depicts a calm and happy time without premature death, failed
+    harvest, disease, crime, want, or social desolation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No explicit taxonomy reference for a golden-age motif is provided in the
+    available list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 57167-57168
+  quote_or_summary: '"To every Vánar Ráma gave / Rich treasures from the mine and
+    wave."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: 57169-57170
+  quote_or_summary: '"And with their honours well content / Homeward their steps the
+    chieftains bent."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: 57171-57172
+  quote_or_summary: '"Ten thousand years Ayodhyá, blest / With Ráma’s rule, had peace
+    and rest,"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: 57173-57174
+  quote_or_summary: '"No widow mourned her murdered mate, / No house was ever desolate."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: 57175-57176
+  quote_or_summary: '"The happy land no murrain knew, / The flocks and herds increased
+    and grew."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: 57177-57178
+  quote_or_summary: '"The earth her kindly fruits supplied, / No harvest failed, no
+    children died."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: quote
+  locator: 57179-57180
+  quote_or_summary: '"Unknown were want, disease, and crime: / So calm, so happy was
+    the time.(1029)"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    are candidate interpretive groupings and require human review, especially taxonomy
+    mappings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific comparison to another text, tradition, or motif family beyond candidate taxonomy mapping.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l57167-l57180
+  passage_sha256=6c349e3a2f9fa90a132bb05fd9aecd825817938c17cd999df2579b863ee5bab8
+

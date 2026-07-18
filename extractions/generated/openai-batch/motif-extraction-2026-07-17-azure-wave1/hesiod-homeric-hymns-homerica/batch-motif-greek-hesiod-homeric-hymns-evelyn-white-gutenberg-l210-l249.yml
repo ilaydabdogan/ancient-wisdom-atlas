@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l210-l249
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE CONTEST OF HOMER AND HESIOD / ENDNOTES / PREPARERS NOTE / PREFACE; lines
+    210-249
+  start: '210'
+  end: '249'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is Hugh G. Evelyn-White's preface explaining the scope, textual
+    basis, editorial arrangement, sources, permissions, and limitations of revision
+    for the volume.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The preface states that the volume contains practically all surviving post-Homeric
+    and pre-academic epic poetry.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor says he mostly formed his own text and, for Hesiod, used independent
+    manuscript collations by Dr. W.H.D. Rouse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor says that otherwise he depended on apparatus critici of several
+    editions, especially Rzach's 1902 edition.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor describes the arrangement as restoring complete and fragmentary
+    poems to the probable order they would have had if the Hesiodic corpus had survived
+    intact.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The preface states that the editor's chief debt for preparing the Homeric
+    Hymns text is to Allen and Sikes's 1904 edition and articles by T.W. Allen.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editor thanks T.W. Allen and the Delegates of the Clarendon Press for
+    permission to use restorations of specified lines in the Hymn to Demeter.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The editor says he included only fragments of the Epic Cycle that seemed to
+    have distinct importance or interest, relying mostly on Kinkel's collection and
+    the fifth volume of the Oxford Homer.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The editor identifies the texts used for the Batrachomyomachia and the Contest
+    of Homer and Hesiod as those of Baumeister and Flach respectively, noting divergences
+    where they occur.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The editor says circumstances of the present time prevented the fuller revision
+    of the Introduction that he desired.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The preface is signed Hugh G. Evelyn-White, Rampton near Cambridge, September
+    9, 1914.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hugh G. Evelyn-White
+  description: Signer of the preface and editor speaking in the first person about
+    preparing the text.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: Dr. W.H.D. Rouse
+  description: Scholar whose independent collations of several Hesiod manuscripts
+    were used by the editor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Rzach
+  description: Editor of a 1902 edition whose apparatus criticus is singled out as
+    especially used.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Allen and Sikes
+  description: Editors of a 1904 edition to which the preface says the editor owes
+    a chief debt for the Homeric Hymns text.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: T.W. Allen
+  description: Scholar whose Journal of Hellenic Studies articles were used and who
+    gave permission concerning restorations of the Hymn to Demeter.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Delegates of the Clarendon Press
+  description: Institutional body thanked for permission to use restorations of specified
+    Hymn to Demeter lines.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Kinkel
+  description: Compiler or editor of a collection relied upon for fragments of the
+    Epic Cycle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Baumeister
+  description: Source of the text used for the Batrachomyomachia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Flach
+  description: Source of the text used for the Contest of Homer and Hesiod.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: preface author and editor
+  assigned_to:
+  - fig:1
+  basis: The passage is written in the first person about editorial preparation and
+    signed by Hugh G. Evelyn-White.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: manuscript collator
+  assigned_to:
+  - fig:2
+  basis: The preface says independent collations of several Hesiod manuscripts by
+    Dr. W.H.D. Rouse were used.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: textual source or scholarly authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These named scholars or editions are cited as sources for textual preparation
+    or fragment selection.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: permission grantor
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The editor thanks T.W. Allen and the Delegates of the Clarendon Press for
+    permission to use restorations of specified Hymn to Demeter lines.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: editorial preface on textual preparation
+  summary: The preface describes the volume's scope, explains editorial formation
+    of the texts, names scholarly sources and permissions, and closes with a note
+    on limited revision and the editor's signature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 210-213
+  quote_or_summary: The preface opens by stating that the volume contains practically
+    all that remains of post-Homeric and pre-academic epic poetry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 214-222
+  quote_or_summary: The editor says he mostly formed his own text, used Dr. W.H.D.
+    Rouse's Hesiod manuscript collations, relied on edition apparatus critici especially
+    Rzach 1902, and arranged the corpus in a probable surviving order.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 223-230
+  quote_or_summary: For the Homeric Hymns, the editor names debts to Allen and Sikes's
+    1904 edition and T.W. Allen's articles, and thanks T.W. Allen and the Delegates
+    of the Clarendon Press for permission to use restorations of Hymn to Demeter lines.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 231-235
+  quote_or_summary: The editor says he included selected fragments of the Epic Cycle
+    and relied mostly on Kinkel's collection and the fifth volume of the Oxford Homer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 236-239
+  quote_or_summary: The preface identifies Baumeister's text for the Batrachomyomachia
+    and Flach's text for the Contest of Homer and Hesiod, with divergences noted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 240-243
+  quote_or_summary: The editor states that circumstances of the present time prevented
+    the fuller revision of the Introduction that he wanted.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 244-249
+  quote_or_summary: The preface is signed Hugh G. Evelyn-White, Rampton near Cambridge,
+    September 9, 1914.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This passage is editorial prose rather than mythic narrative; no symbols,
+    motifs, or comparison claims are supported by the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol refs are applicable to this editorial passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l210-l249
+  passage_sha256=2da35a93ceb11bb9925008814f33f22658e021af7c84e46c0a3f099fbec547a6
+

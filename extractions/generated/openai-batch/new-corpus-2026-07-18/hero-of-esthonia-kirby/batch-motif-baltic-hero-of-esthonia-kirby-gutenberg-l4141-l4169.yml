@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l4141-l4169
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: CANTO XX / ARMAGEDDON / END OF THE KALEVIPOEG. / PART II; lines 4141-4169
+  start: '4141'
+  end: '4169'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes the Kalevipoeg section and introduces Part II on Esthonian
+    folk-tales. It states that Esthonian tales are numerous, that some resemble widely
+    distributed tales while others are distinctive, that visible foreign elements
+    appear Scandinavian or German, and that Esthonian tales show little Russian influence.
+    It also notes Christian-origin names in many heathenish tales and suggests that
+    the Gospel of Nicodemus may have influenced the name Nicodemus for Slyboots because
+    it describes a descent into hell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage marks the end of the Kalevipoeg section and the beginning of Part
+    II, titled Esthonian Folk-Tales.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Esthonian folk-tales are described as numerous; some are said to be identical
+    with well-known stories of world-wide distribution, while others have an original
+    character.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the section division is not strict because many tales could
+    fit under more than one heading.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Visible foreign elements in Esthonian tales are described as apparently Scandinavian
+    or German.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage contrasts Finnish tales, which are said to show more Russian influence,
+    with Esthonian tales, where Russian influence is said to be seldom visible; it
+    also says the Kalevipoeg has no resemblance to Russian hero-legends.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Even in very heathenish tales, heroes are said usually to have names of Christian
+    origin, though not in the Kalevipoeg.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Gospel of Nicodemus is said to describe the descent into hell and may
+    have suggested the name Nicodemus for Slyboots.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Slyboots
+  description: A named figure for whom the name Nicodemus may have been suggested
+    by the Gospel of Nicodemus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: heroes in Esthonian folk-tales
+  description: Heroes in the tales are described as usually having names of Christian
+    origin, even in heathenish tales.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: bearer of a possibly borrowed Christian-associated name
+  assigned_to:
+  - fig:1
+  basis: The passage says the Gospel of Nicodemus may have suggested the name Nicodemus
+    for Slyboots.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: tale heroes with Christian-origin names
+  assigned_to:
+  - fig:2
+  basis: The passage states that heroes in even the most heathenish tales usually
+    have names of Christian origin.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: descent into hell
+  taxonomy_refs:
+  - hero_descent
+  basis: The passage explicitly says the Gospel of Nicodemus describes a descent into
+    hell and connects this with the possible naming of Slyboots as Nicodemus.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The descent is mentioned in editorial comparison to the Gospel of Nicodemus,
+    not narrated as an episode in this passage.
+- id: motif:2
+  label: Christian-origin names in heathenish tales
+  taxonomy_refs: []
+  basis: The passage identifies a recurring naming pattern in which heroes in very
+    heathenish tales usually have Christian-origin names.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an editorial pattern statement about a corpus, not a specific
+    narrated mythic event.
+comparison_claims:
+- id: claim:1
+  claim: Some Esthonian folk-tales are said to be identical with well-known stories
+    of world-wide distribution.
+  claim_level: same_motif
+  target: well-known stories of world-wide distribution
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no specific tale titles, motifs, or examples, so
+    the comparison remains broad.
+- id: claim:2
+  claim: Visible foreign elements in Esthonian tales are said to appear Scandinavian
+    or German.
+  claim_level: historical_contact
+  target: Scandinavian or German tale elements
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage states an apparent influence but provides no specific textual
+    examples in this excerpt.
+- id: claim:3
+  claim: The passage contrasts Esthonian tales with Finnish tales by saying Finnish
+    tales show more Russian influence, while Russian influence is seldom visible in
+    Esthonian tales and the Kalevipoeg has no resemblance to Russian hero-legends.
+  claim_level: historical_contact
+  target: Russian influence and Russian hero-legends
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial generalization; no individual Russian or Finnish
+    parallels are supplied.
+- id: claim:4
+  claim: The Gospel of Nicodemus may have suggested the name Nicodemus for Slyboots
+    because that gospel describes the descent into hell.
+  claim_level: historical_contact
+  target: Gospel of Nicodemus
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage uses tentative wording and provides only a possible naming
+    influence, not a demonstrated source relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4141-4145
+  quote_or_summary: The text marks the end of the Kalevipoeg section and begins Part
+    II, Esthonian Folk-Tales.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4146-4154
+  quote_or_summary: Esthonian folk-tales are described as numerous; some are identical
+    with widely distributed stories, others are original, and the editorial classifications
+    are not strict.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4155-4162
+  quote_or_summary: The passage says visible foreign elements are apparently Scandinavian
+    or German; Finnish tales show more Russian influence, while Esthonian tales seldom
+    do, and the Kalevipoeg is said not to resemble Russian hero-legends.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4162-4165
+  quote_or_summary: The passage says heroes in even the most heathenish tales usually
+    have names of Christian origin, though not in the Kalevipoeg.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4166-4169
+  quote_or_summary: The Gospel of Nicodemus is said to describe the descent into hell
+    and may have suggested the name Nicodemus for Slyboots.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily editorial and comparative rather than narrative,
+    so motif extraction is limited to explicit corpus-pattern statements and the explicit
+    descent-into-hell reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols or narrative scenes were extracted because the passage does not narrate a mythic scene or present a concrete symbolic object beyond editorial references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l4141-l4169
+  passage_sha256=c6557f2031b0ae3d2a2a025909712ccbae4c2016872715950e3a7417a4c71253
+

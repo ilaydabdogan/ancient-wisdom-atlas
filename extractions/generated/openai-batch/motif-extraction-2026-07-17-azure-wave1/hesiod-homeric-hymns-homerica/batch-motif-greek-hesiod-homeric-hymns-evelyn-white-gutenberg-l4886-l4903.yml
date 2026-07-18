@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l4886-l4903
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: II. 1745 / THE SHIELD OF HERACLES / THE MARRIAGE OF CEYX / THE GREAT EOIAE;
+    lines 4886-4903
+  start: '4886'
+  end: '4903'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Hermes driving stolen cattle through several regions,
+    Battus noticing them and swearing secrecy for a reward, Hermes hiding the cattle
+    and returning in changed form to test Battus, and Hermes punishing Battus by turning
+    him into a rock after Battus reveals the cattle for a robe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hermes drove the cattle through a sequence of named regions and landmarks,
+    including the country of the Pelasgi, Achaea in Phthia, Locris, Boeotia, Megaris,
+    Corinth, Larissa, Tegea, the Lycaean mountains, Maenalus, and the watch-posts
+    of Battus.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Battus lived on the top of a rock near the watch-posts of Battus.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Battus heard the voice of the heifers as they were driven past, came out,
+    and knew the cattle were stolen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Battus asked for a reward in exchange for telling no one about the cattle;
+    Hermes promised a reward, and Battus swore to say nothing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hermes hid the cattle in the cliff by Coryphasium and drove them into a cave
+    facing toward Italy and Sicily.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hermes changed himself and returned to Battus to test whether Battus would
+    keep his vow.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hermes offered Battus a robe as a reward and asked whether he had noticed
+    stolen cattle being driven past; Battus took the robe and told him about the cattle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hermes became angry because Battus was double-tongued, struck him with his
+    staff, and changed him into a rock.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After Battus is changed into a rock, frost or heat never leaves him.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hermes
+  description: Named actor who drives and hides the stolen cattle, promises Battus
+    a reward, changes himself to test Battus, and punishes Battus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Battus
+  description: A figure living on top of a rock who recognizes the stolen cattle,
+    swears secrecy for a reward, later accepts a robe and reveals the cattle, and
+    is changed into a rock.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: cattle / heifers
+  description: A herd described as cattle or heifers, explicitly called stolen, driven
+    through regions, heard by Battus, and hidden by Hermes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: driver and concealer of the stolen herd
+  assigned_to:
+  - fig:1
+  basis: Hermes drives the cattle through named regions and then hides them in a cliff
+    and cave.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: shape-changing tester
+  assigned_to:
+  - fig:1
+  basis: Hermes changes himself and returns to test whether Battus will remain true
+    to his vow.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: punisher by petrification
+  assigned_to:
+  - fig:1
+  basis: Hermes becomes angry, strikes Battus with his staff, and changes him into
+    a rock.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: rock-top watcher and oath-taker
+  assigned_to:
+  - fig:2
+  basis: Battus lives on a rock, notices the stolen cattle, asks for a reward, and
+    swears secrecy.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: informer who breaks sworn secrecy
+  assigned_to:
+  - fig:2
+  basis: Battus takes the robe offered in the test and tells about the cattle after
+    having sworn silence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: stolen herd
+  assigned_to:
+  - fig:3
+  basis: The animals are called stolen cattle and are driven and hidden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: cave of concealment
+  literal_form: a cave facing towards Italy and Sicily
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: mountain route
+  literal_form: the Lycaean mountains and Maenalus
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: robe reward
+  literal_form: a robe offered as a reward and accepted by Battus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: staff of punishment
+  literal_form: the staff with which Hermes strikes Battus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: rock of Battus
+  literal_form: the rock where Battus lives and the rock into which he is changed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:6
+  label: stolen cattle
+  literal_form: cattle or heifers described as stolen, driven past, and hidden
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Driving the stolen cattle across regions
+  summary: Hermes drives the cattle through multiple Greek regions and landmarks toward
+    Tegea and the mountain area near the watch-posts of Battus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Battus notices the cattle and swears secrecy
+  summary: Battus hears the heifers, recognizes that the cattle are stolen, asks for
+    a reward to keep silent, and swears not to tell anyone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Concealment and disguised test
+  summary: Hermes hides the cattle in a cliff and cave, changes himself, returns to
+    Battus, offers a robe, and asks whether Battus has seen stolen cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Betrayal and petrifying punishment
+  summary: Battus accepts the robe and reveals the cattle; Hermes becomes angry, strikes
+    him with a staff, and changes him into a rock that remains exposed to frost or
+    heat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: stolen cattle driven and hidden
+  taxonomy_refs:
+  - sacred_theft
+  basis: The cattle are explicitly described as stolen, driven through many places
+    by Hermes, and hidden in a cliff and cave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not narrate the initial act of theft or identify the
+    cattle's owner; alignment to sacred_theft is based only on the stolen herd and
+    Hermes' actions in this passage.
+- id: motif:2
+  label: shape-changing test of truthfulness
+  taxonomy_refs:
+  - shapeshifter
+  basis: Hermes changes himself and returns to test whether Battus will remain true
+    to his vow of silence.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe the form Hermes assumes.
+- id: motif:3
+  label: bribe for silence followed by betrayal
+  taxonomy_refs: []
+  basis: Battus first seeks a reward for silence and swears secrecy, then accepts
+    a robe and reveals the cattle.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the supplied list.
+- id: motif:4
+  label: punitive transformation into stone
+  taxonomy_refs: []
+  basis: After Battus proves double-tongued, Hermes strikes him with a staff and changes
+    him into a rock.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the punishment but does not explicitly frame it as a
+    formal judgment category.
+comparison_claims:
+- id: claim:1
+  claim: The passage aligns with a shapeshifter motif because Hermes changes himself
+    in order to test Battus' oath-keeping.
+  claim_level: same_motif
+  target: 'available motif family: shapeshifter'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The altered form is not specified, so only the act of changing form
+    is supported.
+- id: claim:2
+  claim: The passage partially aligns with a sacred-theft motif family because stolen
+    cattle are driven and concealed by Hermes.
+  claim_level: same_motif
+  target: 'available motif family: sacred_theft'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The actual theft, the ownership of the cattle, and the sacred status
+    of the stolen property are not narrated in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4886-4891
+  quote_or_summary: Hermes drives the cattle through named regions and landmarks,
+    including Pelasgi, Phthia, Locris, Boeotia, Megaris, Peloponnesus, Tegea, the
+    Lycaean mountains, Maenalus, and the watch-posts of Battus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4891-4895
+  quote_or_summary: Battus lives on top of a rock, hears the heifers, recognizes the
+    cattle as stolen, asks for a reward to tell no one, and swears silence after Hermes
+    promises the reward.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4895-4898
+  quote_or_summary: Hermes hides the cattle in the cliff by Coryphasium and drives
+    them into a cave facing toward Italy and Sicily.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4898-4901
+  quote_or_summary: Hermes changes himself, returns to test Battus, offers a robe
+    as reward, asks about stolen cattle, and Battus takes the robe and tells him about
+    the cattle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4901-4903
+  quote_or_summary: Hermes is angry because Battus is double-tongued, strikes him
+    with his staff, changes him into a rock, and frost or heat never leaves him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage gives clear actions and objects. Motif alignment is strongest
+    for shape-changing and punitive petrification; sacred-theft alignment is cautious
+    because the initial theft and ownership are not included in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote marker '2004' appears in the supplied passage and is treated as a source marker, not interpreted as narrative content.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l4886-l4903
+  passage_sha256=61c4992b54a582f985d6b0deef273c85c74c7230c8c6c6a59dcffdb9783ef2fa
+

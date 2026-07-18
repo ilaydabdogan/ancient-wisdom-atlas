@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.buddhist-dhammapada-max-muller-gutenberg-l706-l741
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Chapter IX. Evil / Chapter X. Punishment / Chapter XI. Old Age / Chapter
+    XII. Self; lines 706-741
+  start: '706'
+  end: '741'
+  translation: Dhammapada, a Collection of Verses
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Verses on self-watchfulness, self-discipline, teaching only after directing
+    oneself, the self as its own lord, self-generated evil and purification, and attention
+    to one's own duty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man who holds himself dear is instructed to watch himself carefully during
+    at least one of the three watches.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man is instructed to direct himself first to what is proper before teaching
+    others.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A person who makes himself as he teaches others to be may subdue others after
+    being well subdued himself.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that self is the lord of self and that a well-subdued self
+    provides a rare lord.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Evil done by oneself is described as self-begotten and self-bred, crushing
+    the foolish like a diamond breaking a precious stone.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Great wickedness is said to bring a person down to the state desired by his
+    enemy, compared to a creeper surrounding a tree.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Bad and self-hurtful deeds are described as easy, while beneficial and good
+    deeds are described as difficult.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A foolish man who scorns the rule of venerable, elect, and virtuous figures
+    and follows false doctrine is said to bear fruit to his own destruction, like
+    the fruits of the Katthaka reed.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage states that evil is done and suffered by oneself, that evil is
+    left undone and purification achieved by oneself, and that no one can purify another.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A person is instructed not to forget his own duty for another's and to remain
+    attentive to his own duty after discerning it.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: wise man
+  description: A person who should be watchful, direct himself properly, and avoid
+    suffering through self-discipline.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: foolish man
+  description: A person crushed by self-begotten evil and described as scorning the
+    rule of virtuous figures while following false doctrine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: venerable, elect, and virtuous figures
+  description: Figures whose rule is scorned by the foolish man in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: enemy
+  description: A figure whose wished-for state is where the wicked person brings himself
+    down.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: self-watchful practitioner
+  assigned_to:
+  - fig:1
+  basis: The wise man is instructed to be watchful and to direct himself before teaching
+    others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: self-harmed wrongdoer
+  assigned_to:
+  - fig:2
+  basis: The foolish man is crushed by self-begotten evil and bears fruit to his own
+    destruction after following false doctrine.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: authoritative virtuous exemplars
+  assigned_to:
+  - fig:3
+  basis: The passage identifies venerable, elect, and virtuous figures whose rule
+    is rejected by the foolish man.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: hostile wisher
+  assigned_to:
+  - fig:4
+  basis: The enemy is mentioned as wishing a degraded state for the wicked person.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: three watches
+  literal_form: three watches
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: self as lord
+  literal_form: self as lord of self
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: diamond breaking precious stone
+  literal_form: diamond and precious stone
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: creeper around tree
+  literal_form: creeper surrounding a tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: destructive fruit of the Katthaka reed
+  literal_form: fruits of the Katthaka reed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Instruction in self-watchfulness and self-direction
+  summary: The passage instructs a person to watch himself, direct himself first,
+    and become subdued before teaching or subduing others.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Self as lord and source of discipline
+  summary: The passage states that self is the lord of self and that a well-subdued
+    self is a rare lord.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Self-generated evil harms the doer
+  summary: The passage describes evil and wickedness as bringing harm upon the person
+    who produces it, using images of a diamond breaking a stone and a creeper enclosing
+    a tree.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: False doctrine and destructive fruit
+  summary: The foolish man rejects the rule of virtuous figures, follows false doctrine,
+    and bears fruit to his own destruction like the Katthaka reed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Self-purification and personal duty
+  summary: The passage states that evil, suffering, and purification belong to oneself,
+    and instructs a person to remain attentive to his own duty.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: self-mastery before instruction of others
+  taxonomy_refs:
+  - wisdom
+  basis: The passage instructs a person to direct himself first, become well subdued,
+    and only then teach or subdue others.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy has only the broad motif family 'wisdom'; the specific
+    ethical motif is not separately listed.
+- id: motif:2
+  label: self as one's own lord
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says self is the lord of self and links a subdued
+    self with finding a rare lord.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an ethical-philosophical formulation rather than a narrative episode.
+- id: motif:3
+  label: evil returns harm upon its doer
+  taxonomy_refs:
+  - wisdom
+  basis: Self-begotten evil crushes the foolish, wickedness brings a person down,
+    and evil done by oneself is suffered by oneself.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage frames this as moral instruction, not as divine punishment
+    or an afterlife judgment scene.
+- id: motif:4
+  label: destructive fruit of false doctrine
+  taxonomy_refs:
+  - wisdom
+  basis: The foolish man who rejects virtuous rule and follows false doctrine bears
+    fruit to his own destruction, compared to the Katthaka reed.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The plant image is a simile within a didactic verse; no broader botanical
+    myth is established in the passage.
+- id: motif:5
+  label: self-purification cannot be transferred
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says purity and impurity belong to oneself and that no one can
+    purify another.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage does not introduce ritual agents or external savior figures.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XII, verse 157; lines 706-741
+  quote_or_summary: If a man holds himself dear, he should watch himself carefully
+    during at least one of the three watches; a wise man should be watchful.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: Chapter XII, verse 158; lines 706-741
+  quote_or_summary: Each man should first direct himself to what is proper and then
+    teach others, so that a wise man will not suffer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: Chapter XII, verse 159; lines 706-741
+  quote_or_summary: A man who makes himself as he teaches others to be, and is himself
+    well subdued, may subdue others; one's own self is difficult to subdue.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: Chapter XII, verse 160; lines 706-741
+  quote_or_summary: '"Self is the lord of self, who else could be the lord?"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:5
+  type: summary
+  locator: Chapter XII, verse 161; lines 706-741
+  quote_or_summary: Evil done by oneself is self-begotten and self-bred, and crushes
+    the foolish as a diamond breaks a precious stone.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: Chapter XII, verse 162; lines 706-741
+  quote_or_summary: A person of great wickedness brings himself down to the state
+    his enemy wishes for him, like a creeper surrounding a tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: Chapter XII, verse 163; lines 706-741
+  quote_or_summary: Bad and self-hurtful deeds are easy to do, while beneficial and
+    good deeds are very difficult.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: Chapter XII, verse 164; lines 706-741
+  quote_or_summary: The foolish man scorns the rule of venerable, elect, and virtuous
+    figures, follows false doctrine, and bears fruit to his own destruction like the
+    fruits of the Katthaka reed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: Chapter XII, verse 165; lines 706-741
+  quote_or_summary: By oneself evil is done and suffered; by oneself evil is left
+    undone and one is purified; purity and impurity belong to oneself, and no one
+    can purify another.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:10
+  type: summary
+  locator: Chapter XII, verse 166; lines 706-741
+  quote_or_summary: One should not forget one's own duty for another's, however great,
+    and after discerning one's own duty should remain attentive to it.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided Chapter XII passage. Motif labels
+    are broad because the available taxonomy contains only a general 'wisdom' family
+    relevant to these didactic verses; no comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label mentions Chapters IX-XII, but the provided passage text contains only Chapter XII, Self, verses 157-166; extraction is limited to the supplied passage text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:buddhist-dhammapada-max-muller-gutenberg__l706-l741
+  passage_sha256=910bcb27e87aef0ed57f2ef3a9d0ffdb39a92ec66079d24dabbb3dac7358cb72
+

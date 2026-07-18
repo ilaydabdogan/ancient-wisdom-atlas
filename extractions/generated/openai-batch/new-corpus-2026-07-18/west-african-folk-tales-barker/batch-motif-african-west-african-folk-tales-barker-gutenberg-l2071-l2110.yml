@@ -1,0 +1,472 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l2071-l2110
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XX. HOW THE TORTOISE GOT ITS SHELL / XXI. THE HUNTER AND THE TORTOISE / XXII.
+    THE TAIL OF THE PRINCESS ELEPHANT / XXIII. KWOFI AND THE GODS; lines 2071-2110
+  start: '2071'
+  end: '2110'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An etiological coda says hawks fly in the smoke of fires because they are
+    looking for their lost juju. The following tale introduces Kwofi, an orphaned
+    eldest son whose stepmother denies him the meat he hunts; a god arrives with a
+    bag of death, distributes death to the villagers but not to Kwofi, and Kwofi survives
+    to reign peacefully.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hawks are described as often flying in the smoke of fires while looking for
+    their lost juju.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kwofi is the eldest son of a farmer with two wives, and Kwofi’s mother has
+    no other children.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kwofi’s mother dies when he is three years old, after which he is given to
+    his stepmother to mind; the stepmother later has many children.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kwofi’s father dies when Kwofi is about ten, leaving him with no relative
+    but his stepmother, for whom he has to work.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The stepmother becomes jealous when she sees that Kwofi is cleverer and handsomer
+    than her own children.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kwofi is a good hunter and repeatedly comes home with meat or fish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stepmother cooks and portions the meat, gives others large helpings, tells
+    Kwofi there is none left for him, and sends him to fetch ripe paw-paw instead.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Kwofi never complains and never tastes any of the meat he has hunted.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: One evening, after the usual denial of food, one of the gods appears in the
+    village carrying a great bag over his shoulder.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The god summons all the villagers and announces that he comes with a bag of
+    death for them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The god distributes the contents of his bag among the villagers, but tells
+    Kwofi that, as there was never sufficient meat for him, there is no death for
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Everyone in the village dies except Kwofi.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Kwofi is left to reign in peace and does so happily.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: hawks
+  description: Birds said to fly in the smoke of fires while looking for their lost
+    juju.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kwofi
+  description: The eldest son of a farmer; orphaned, made to work for his stepmother,
+    a successful hunter, denied meat, spared from death, and left to reign peacefully.
+  role_refs:
+  - role:2
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Kwofi’s mother
+  description: Kwofi’s mother, who has no other children and dies when Kwofi is three
+    years old.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kwofi’s father
+  description: A farmer with two wives who dies when Kwofi is about ten years old.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Kwofi’s stepmother
+  description: The woman to whom Kwofi is given after his mother’s death; she later
+    has many children, becomes jealous of Kwofi, and withholds meat from him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: stepmother’s children and the others at meals
+  description: The stepmother’s children and others who receive large helpings while
+    Kwofi receives none.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: one of the gods
+  description: A divine figure who appears in the village with a great bag, announces
+    a bag of death, distributes its contents, and exempts Kwofi.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: villagers
+  description: The village community summoned by the god; everyone in the village
+    dies except Kwofi.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: etiological animal subject
+  assigned_to:
+  - fig:1
+  basis: The passage explains a habitual behavior of hawks by saying they seek a lost
+    juju in fire-smoke.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: orphaned eldest child
+  assigned_to:
+  - fig:2
+  basis: Kwofi is described as the eldest son, and both parents die while he is a
+    child.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hunter and household provider
+  assigned_to:
+  - fig:2
+  basis: Kwofi repeatedly returns home with meat or fish from hunting.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: jealous caretaker and food-denier
+  assigned_to:
+  - fig:5
+  basis: The stepmother is jealous of Kwofi and repeatedly gives him none of the meat
+    he has hunted.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: favored meal recipients
+  assigned_to:
+  - fig:6
+  basis: Others receive large helpings while Kwofi receives none.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine death-bearer
+  assigned_to:
+  - fig:7
+  basis: The god arrives with a bag of death and distributes its contents.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: summoned death recipients
+  assigned_to:
+  - fig:8
+  basis: The god summons the villagers and, after distributing from the bag, everyone
+    in the village except Kwofi dies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: spared survivor and ruler
+  assigned_to:
+  - fig:2
+  basis: Kwofi alone is exempted from death and is left to reign peacefully.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire-smoke
+  literal_form: smoke of fires
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lost juju
+  literal_form: lost juju
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hunted food
+  literal_form: meat or fish brought home by Kwofi
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: paw-paw substitute
+  literal_form: ripe paw-paw fetched from the field for Kwofi’s supper
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: bag of death
+  literal_form: great bag carried by the god and called a bag of death
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hawks seeking lost juju in smoke
+  summary: 'The passage gives a reason for hawks being seen in fire-smoke: they are
+    looking for their lost juju.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kwofi becomes dependent on his stepmother
+  summary: Kwofi is introduced as the eldest son; his mother and father die while
+    he is young, leaving him to work for his stepmother.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kwofi denied the meat he hunts
+  summary: The stepmother, jealous of Kwofi, serves meat to others but tells Kwofi
+    none is left and sends him for paw-paw; he does not complain.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: God arrives with a bag of death
+  summary: After the usual denial of food, a god appears in the village carrying a
+    great bag and announces a bag of death for the villagers.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Death distributed and Kwofi spared
+  summary: The god distributes from the bag, states that no death is allotted to Kwofi
+    because there was never enough meat for him, and everyone else dies; Kwofi reigns
+    peacefully.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal behavior explained by search for lost sacred object
+  taxonomy_refs: []
+  basis: The passage explains hawks flying in fire-smoke as a search for their lost
+    juju.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a short coda from the preceding tale within the supplied passage;
+    no further context for the juju is included here.
+- id: motif:2
+  label: oppressed orphaned stepchild denied food despite labor
+  taxonomy_refs: []
+  basis: Kwofi is orphaned, works for his stepmother, brings home meat or fish, and
+    is repeatedly denied any share of it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list does not include a specific stepchild or persecuted
+    orphan motif family.
+- id: motif:3
+  label: divine judgment through selective death
+  taxonomy_refs:
+  - divine_judgment
+  basis: A god arrives with a bag of death, gives death to the villagers, but explicitly
+    withholds death from Kwofi because he had been denied sufficient meat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage implies moral compensation but does not separately list the
+    guilt of every villager.
+- id: motif:4
+  label: spared victim becomes peaceful ruler
+  taxonomy_refs: []
+  basis: After everyone in the village dies except Kwofi, he is left to reign there
+    in peace and happiness.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage says Kwofi reigns but does not describe a formal enthronement,
+    lineage claim, or coronation.
+comparison_claims:
+- id: claim:1
+  claim: The god’s selective distribution of death can be cautiously compared to the
+    divine_judgment motif family, because the wronged Kwofi is exempted while the
+    village receives death.
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a judgment-like pattern, but it does not provide
+    an explicit legal or moral pronouncement against each villager.
+- id: claim:2
+  claim: Kwofi’s movement from mistreated orphaned worker to sole survivor and ruler
+    has the same narrative function as an elevation-after-persecution pattern.
+  claim_level: same_function
+  target: oppressed orphan or stepchild elevated after mistreatment pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific external tale, historical contact, or common inheritance
+    is asserted from this passage alone.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2071-2072
+  quote_or_summary: Hawks are said to be seen in the smoke of fires because they are
+    looking for their lost juju.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2075-2084
+  quote_or_summary: Kwofi is the eldest son of a farmer with two wives; his mother
+    dies when he is three, he is given to his stepmother, and his father dies when
+    Kwofi is about ten.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2086-2097
+  quote_or_summary: The stepmother grows jealous of Kwofi, who is clever, handsome,
+    and a good hunter; she serves meat to others but tells Kwofi none is left and
+    sends him for ripe paw-paw.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2099-2104
+  quote_or_summary: One evening, after Kwofi is denied food again, a god appears in
+    the village carrying a great bag and tells the villagers he has come with a bag
+    of death for them.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2105-2110
+  quote_or_summary: The god distributes the bag’s contents, tells Kwofi that as there
+    was never enough meat for him there is no death for him, and everyone in the village
+    dies except Kwofi, who reigns peacefully.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions and figures are explicit. Motif labels are cautious
+    and limited to the supplied passage and available taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Taxonomy references are limited to supplied available refs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l2071-l2110
+  passage_sha256=05bc7b331b56ba5d200e40503abd324fc4de1f02baca0dd3d26f700585085160
+

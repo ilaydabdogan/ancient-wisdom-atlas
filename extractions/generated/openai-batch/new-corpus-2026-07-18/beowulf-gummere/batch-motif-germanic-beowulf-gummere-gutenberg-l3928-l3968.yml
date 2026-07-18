@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l3928-l3968
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: XXIII. / BEOWULF'S FIGHT WITH GRENDEL'S MOTHER. / XXIV. / BEOWULF IS DOUBLE-CONQUEROR.;
+    lines 3928-3968
+  start: '3928'
+  end: '3968'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial note section discussing disputed Beowulf readings
+    and translations. It cites fragmentary translated clauses about many people agreeing
+    that a sea-wolf had killed someone, the South-Danes deciding about a struggle
+    with Grendel, a promised woman and the friend of the Scyldings agreeing, a damaskeened
+    sword burning up, and men favorable to a king carrying a head.
+  language: English, with Old English terms quoted
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note gives a literal translation in which many agree that a sea-wolf had
+    killed an unnamed male.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note gives a translated question about letting the South-Danes decide
+    concerning their struggle with Grendel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note gives a translated clause in which a woman is promised and the friend
+    of the Scyldings has agreed to this.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:4
+  text: The note says that 'Bróden-mæl' is generally regarded as a damaskeened sword
+    and translates the phrase as the sword burning up.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note reports a proposed rendering in which men well-disposed toward the
+    king carried a head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note states that the idiom under discussion occurs in Anglo-Saxon, Old
+    Saxon, and other Teutonic languages.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: sea-wolf
+  description: A being named in the translated clause as having killed an unnamed
+    male.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed male
+  description: The person referred to only as 'him' in the clause saying the sea-wolf
+    had killed him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: South-Danes
+  description: A group mentioned as potentially deciding about their struggle with
+    Grendel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Grendel
+  description: A named figure involved in a struggle with the South-Danes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: friend of the Scyldings
+  description: A figure said to have agreed to the promise mentioned in the cited
+    translation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: unnamed promised woman
+  description: A woman referred to only as 'She' in the translated clause 'She is
+    promised.'
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: men well-disposed towards the king
+  description: A group proposed in one rendering as carrying the head.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: king
+  description: The ruler toward whom the men carrying the head are described as well-disposed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reported killer
+  assigned_to:
+  - fig:1
+  basis: The translated clause says that the sea-wolf had killed him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reported victim
+  assigned_to:
+  - fig:2
+  basis: The unnamed male is the object of the reported killing by the sea-wolf.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deciding group
+  assigned_to:
+  - fig:3
+  basis: The South-Danes are asked to decide about their struggle with Grendel.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: opponent in struggle
+  assigned_to:
+  - fig:4
+  basis: Grendel is named as the figure with whom the South-Danes have a struggle.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: agreeing party
+  assigned_to:
+  - fig:5
+  basis: The translated clause says the friend of the Scyldings has agreed to the
+    promise.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: promised woman
+  assigned_to:
+  - fig:6
+  basis: The translated clause says 'She is promised.'
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: carriers of the head
+  assigned_to:
+  - fig:7
+  basis: The proposed rendering says these men carried the head.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: king favored by men
+  assigned_to:
+  - fig:8
+  basis: The men carrying the head are described as well-disposed toward the king.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sea-wolf
+  literal_form: sea-wolf
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: damaskeened sword
+  literal_form: damaskeened sword
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: head
+  literal_form: head
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agreement about a sea-wolf killing
+  summary: A cited translation says many agreed that a sea-wolf had killed an unnamed
+    male.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Decision about the struggle with Grendel
+  summary: A cited translation asks whether the South-Danes themselves would be allowed
+    to decide about their struggle with Grendel.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Damaskeened sword burns up
+  summary: A note translates a disputed term as a damaskeened sword and gives the
+    action that the sword burned up.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Head carried by king-favorable men
+  summary: A proposed rendering says that men well-disposed toward the king carried
+    the head.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Promise and agreement
+  summary: A cited translation says a woman is promised and the friend of the Scyldings
+    has agreed to it.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sea-being reported as killer
+  taxonomy_refs: []
+  basis: The cited translation says that many agreed the sea-wolf had killed an unnamed
+    male.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is an editorial note quoting a disputed translation, not a
+    continuous mythic episode; the identity and context of the victim are not supplied
+    here.
+- id: motif:2
+  label: community decision over a struggle with Grendel
+  taxonomy_refs: []
+  basis: The cited translation asks whether the South-Danes should decide about their
+    struggle with Grendel.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The clause is cited for grammar and does not narrate the struggle itself
+    in this passage.
+- id: motif:3
+  label: sword consumed by burning
+  taxonomy_refs: []
+  basis: The note translates the phrase as 'The damaskeened sword burned up.'
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The note gives only the translated phrase and not the surrounding narrative
+    circumstances.
+- id: motif:4
+  label: head carried by loyal men
+  taxonomy_refs: []
+  basis: The proposed rendering says that men well-disposed toward the king carried
+    the head.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage does not identify whose head is carried or explain whether
+    it functions as a trophy, proof, or burden.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Old English idiom under discussion with
+    usage in Old Saxon and other Teutonic languages.
+  claim_level: linguistic_similarity
+  target: Anglo-Saxon, Old Saxon, and other Teutonic languages
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic comparison about an idiom, not a demonstrated
+    mythological motif parallel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3928-3968, note [1]
+  quote_or_summary: '"Then many agreed upon this (namely), that the sea-wolf had killed
+    him"'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3928-3968, note [1]
+  quote_or_summary: '"Wouldst let the South-Danes themselves decide about their struggle
+    with Grendel"'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3928-3968, note [2]
+  quote_or_summary: '"The damaskeened sword burned up"'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3928-3968, note [3]
+  quote_or_summary: '"Men well-disposed towards the king carried the head, etc."'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 3928-3968, note [1]
+  quote_or_summary: '"The idiom above treated runs through A.-S., Old Saxon, and other
+    Teutonic languages"'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 3928-3968, note [1]
+  quote_or_summary: '"She is promised ...; to this the friend of the Scyldings has
+    agreed"'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The supplied passage is mostly editorial and philological commentary rather
+    than continuous epic narration. Literal fragments are extractable, but motif candidates
+    are necessarily tentative and context-limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage fragments do not directly support the provided taxonomy categories without additional context.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l3928-l3968
+  passage_sha256=1fd9d9c05656bcfd5fd59d47bb029a81beeeed43ed928eb087c7214b3b3d1a33
+

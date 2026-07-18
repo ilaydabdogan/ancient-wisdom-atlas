@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2669-l2678
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: WHEN LION COULD FLY / LION WHO THOUGHT HIMSELF WISER THAN HIS MOTHER / LION
+    WHO TOOK A WOMAN'S SHAPE / WHY HAS JACKAL A LONG BLACK STRIPE ON HIS BACK?; lines
+    2669-2678
+  start: '2669'
+  end: '2678'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Sun stuck fast to his back, and burnt Jackal's back black from that day.
+  summary: The Sun is said to have been on earth by a wayside. Travelling men pass
+    without noticing him. Jackal sees him, calls him a fine little child left behind,
+    and carries him in an awa-skin on his back. When the Sun burns him, Jackal tries
+    to shake him off, but the Sun sticks fast and burns Jackal's back black from that
+    day.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is framed as an explanation for why Jackal has a long black stripe
+    on his back.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sun is described as being on earth and sitting by the wayside.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Travelling men see the Sun sitting by the wayside and pass him without notice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jackal comes after the men, sees the Sun, and speaks of him as a fine little
+    child left behind by the men.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jackal takes the Sun up and puts it into his awa-skin on his back.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the Sun burns Jackal, Jackal tells it to get down and shakes himself.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Sun sticks fast to Jackal's back and burns Jackal's back black from that
+    day.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: The Sun is described as being on earth, sitting by the wayside, then
+    being carried on Jackal's back and burning him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Jackal
+  description: Jackal sees the Sun, calls him a left-behind child, carries him in
+    an awa-skin on his back, and is burned black on the back.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: travelling men
+  description: Men travelling by the wayside see the Sun sitting there and pass him
+    without notice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: burning figure encountered on earth
+  assigned_to:
+  - fig:1
+  basis: The Sun is on earth by the wayside and later burns Jackal's back.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: carrier who receives a lasting mark
+  assigned_to:
+  - fig:2
+  basis: Jackal carries the Sun on his back and is burned black from that day.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: passersby who ignore the Sun
+  assigned_to:
+  - fig:3
+  basis: The travelling men see the Sun but pass without notice.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sun on earth
+  literal_form: The Sun sitting by the wayside on earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: awa-skin carrier
+  literal_form: Jackal's awa-skin on his back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: black stripe on Jackal's back
+  literal_form: Jackal's back burnt black from that day
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sun by the wayside
+  summary: The Sun is on earth, sitting by the wayside, and travelling men pass without
+    noticing him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Jackal carries the Sun
+  summary: Jackal sees the Sun, speaks of him as a left-behind child, and places him
+    in an awa-skin on his back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Burning mark on Jackal
+  summary: The Sun burns Jackal, sticks fast to his back, and leaves his back black
+    from that day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: etiological origin of an animal's marking
+  taxonomy_refs: []
+  basis: The title asks why Jackal has a long black stripe, and the ending explains
+    that the Sun burned Jackal's back black from that day.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy motif exactly names etiological animal markings.
+- id: motif:2
+  label: dangerous celestial being carried by animal
+  taxonomy_refs: []
+  basis: Jackal carries the Sun in his awa-skin on his back, and the Sun burns him
+    and sticks fast.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a passage-level pattern; no broader comparative claim is made
+    by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 2669-2670
+  quote_or_summary: 'Title: "WHY HAS JACKAL A LONG BLACK STRIPE ON HIS BACK?"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 2671-2674
+  quote_or_summary: The Sun is said to be on earth, sitting by the wayside; travelling
+    men see him but pass without notice.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2674-2676
+  quote_or_summary: Jackal says, "Such a fine little child is left behind by the men."
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 2676-2677
+  quote_or_summary: Jackal takes the Sun up and puts it into his awa-skin on his back.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2677-2678
+  quote_or_summary: When the Sun burns him, Jackal says to get down and shakes himself.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2678
+  quote_or_summary: '"Sun stuck fast to his back, and burnt Jackal''s back black from
+    that day."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive rather
+    than tied to a supplied taxonomy family because the available list lacks a precise
+    etiological-animal-marking category. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external comparative material added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2669-l2678
+  passage_sha256=dde77b1a0c1eabc2ad7534d3d41ae2691836aa000a113c8adac87f7c8d5c9f92
+

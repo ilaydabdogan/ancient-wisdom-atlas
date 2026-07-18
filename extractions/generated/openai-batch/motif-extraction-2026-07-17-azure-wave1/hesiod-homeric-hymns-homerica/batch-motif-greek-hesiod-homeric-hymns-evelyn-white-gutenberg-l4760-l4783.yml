@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l4760-l4783
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE CATALOGUES OF WOMEN AND EOIAE1701 / II. 1745 / THE SHIELD OF HERACLES
+    / THE MARRIAGE OF CEYX; lines 4760-4783
+  start: '4760'
+  end: '4783'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A set of fragments and testimonia about the Marriage of Ceyx reports Heracles
+    landing from the Argo to seek water and being left behind near Aphetae; Heracles
+    repeatedly visiting Ceyx's house and uttering a proverb about good people attending
+    good feasts; Ceyx described as horse-driving; tables being called tripods; and
+    wood from the forest being brought after an equal-shared feast to be burned in
+    flames.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Heracles is said to have landed from the Argo to look for water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heracles is said to have been left behind in Magnesia near Aphetae because
+    of his desertion there.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Heracles is represented as repeatedly visiting the house of Ceyx of Trachis.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Heracles speaks the saying, “Of their own selves the good make for the feasts
+    of good.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ceyx is described as horse-driving.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the poem calls tables tripods.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After an equal-shared feast, dry and parched wood is brought from the forest
+    to be burned in flames.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Heracles
+  description: Heracles lands from the Argo, seeks water, is left behind near Aphetae,
+    and repeatedly visits Ceyx's house where he utters a proverb.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ceyx of Trachis
+  description: Ceyx is associated with a house visited by Heracles and is described
+    as horse-driving.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Argonaut-associated traveler
+  assigned_to:
+  - fig:1
+  basis: The passage states that Heracles landed from the Argo.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Water-seeker left behind
+  assigned_to:
+  - fig:1
+  basis: The passage says Heracles landed to look for water and was left behind near
+    Aphetae.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Feast visitor and proverb speaker
+  assigned_to:
+  - fig:1
+  basis: The passage represents Heracles as constantly visiting Ceyx's house and speaking
+    a proverb about good people and feasts.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Host or householder associated with feasts
+  assigned_to:
+  - fig:2
+  basis: Heracles is represented as visiting the house of Ceyx of Trachis in the context
+    of a saying about feasts.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Horse-driving figure
+  assigned_to:
+  - fig:2
+  basis: The fragment calls Ceyx horse-driving.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Water sought by Heracles
+  literal_form: water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Argo as departure vessel
+  literal_form: Argo
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Good feast
+  literal_form: feast
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Tripod tables
+  literal_form: tables called tripods
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Forest wood burned in flames
+  literal_form: dry and parched wood from the forest burned in flames
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Heracles left behind after seeking water
+  summary: Heracles lands from the Argo to search for water and is left behind in
+    Magnesia near Aphetae.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Heracles visits Ceyx's house
+  summary: Heracles repeatedly visits Ceyx's house and utters a proverb about the
+    good going to the feasts of the good.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Equal-shared feast followed by burning wood
+  summary: After the participants have finished desiring the equal-shared feast, dry
+    forest wood is brought to be burned in flames.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hero left behind during a voyage while seeking water
+  taxonomy_refs:
+  - departure
+  basis: Heracles lands from the Argo to seek water and is left behind near Aphetae.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The fragment is brief and does not narrate the full voyage context; the
+    taxonomy link to departure is general.
+- id: motif:2
+  label: Worthy guest comes unbidden to a worthy feast
+  taxonomy_refs: []
+  basis: Heracles' proverb says that the good make their own way to the feasts of
+    the good while he is represented as repeatedly visiting Ceyx's house.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage identifies the utterance as proverbial, but its broader narrative
+    function is not given.
+- id: motif:3
+  label: Wood personified as slain by its own children in fire
+  taxonomy_refs: []
+  basis: The passage describes wood from the forest as a 'mother of a mother' that
+    is slain by its own children, glossed as burned in flames.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents this as figurative language in a fragmentary context;
+    no broader mythic episode is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'lines 4761-4765, Fragment #1'
+  quote_or_summary: Hesiod's Marriage of Ceyx says Heracles landed from the Argo to
+    look for water and was left behind in Magnesia near Aphetae because of his desertion
+    there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: 'lines 4766-4770, Fragment #2'
+  quote_or_summary: Heracles is represented as constantly visiting Ceyx's house and
+    saying, “Of their own selves the good make for the feasts of good.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: 'lines 4771-4772, Fragment #3'
+  quote_or_summary: "“And horse-driving Ceyx beholding...”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 'lines 4773-4776, Fragment #4'
+  quote_or_summary: Athenaeus reports that Hesiod in the Marriage of Ceyx calls the
+    tables tripods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 'lines 4777-4783, Fragment #5'
+  quote_or_summary: After an equal-shared feast, dry and parched wood is brought from
+    the forest and described as slain by its own children, glossed as burned in flames.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of short fragments and testimonia; literal extraction
+    is relatively secure, while motif identification is limited by the fragmentary
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a comparative relationship beyond identifying one utterance as a proverb.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l4760-l4783
+  passage_sha256=8ab145bead26d2ddf45554be032f21394b5e487999552c6fc437716ff31f6ff1
+

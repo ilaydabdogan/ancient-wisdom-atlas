@@ -1,0 +1,144 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l362-l368
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Footnotes / Chapter 2 / Chapter 3 / Footnotes; lines 362-368
+  start: '362'
+  end: '368'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A cluster of footnotes explains the Hebrew interjection translated “Behold,”
+    clarifies a rounded numerical total for three named groups, and gives weight conversions
+    for shekel and gerah units.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote explains that the Hebrew term behind “Behold” means to look, take
+    notice, observe, see, or gaze, and is often used as an interjection.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote states that 22,000 is a total rounded to two significant digits,
+    while the sum of the listed groups is 22,300.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Gershonites, Kohathites, and Merarites are named as the groups whose numbers
+    are summed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A shekel is explained as about 10 grams or about 0.35 ounces.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A gerah is explained as about 0.5 grams or about 7.7 grains.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A later footnote applies the shekel conversion to state that 1365 shekels
+    is about 13.65 kilograms or about 30 pounds.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gershonites
+  description: One of the named groups included in the summed total.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Kohathites
+  description: One of the named groups included in the summed total.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Merarites
+  description: One of the named groups included in the summed total.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named counted groups
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The footnote identifies these three groups as the components of a numerical
+    sum.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: line 363; footnote 3:12
+  quote_or_summary: The note defines the Hebrew source of “Behold” as a term of looking
+    or noticing, often used as an interjection.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: line 364; footnote 3:34
+  quote_or_summary: The note explains that 22,000 is rounded to two significant digits;
+    the Gershonites, Kohathites, and Merarites sum to 22,300, while the traditional
+    Hebrew text rounds the number.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: line 365; footnote 3:47
+  quote_or_summary: The note gives the shekel as about 10 grams or 0.35 ounces.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: line 366; footnote 3:47
+  quote_or_summary: The note gives the gerah as about 0.5 grams or 7.7 grains.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: line 367; footnote 3:50
+  quote_or_summary: The note converts 1365 shekels to about 13.65 kilograms or about
+    30 pounds.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage consists of explanatory footnotes about language, arithmetic,
+    and units of weight. No passage-supported mythic motif, symbol pattern, or comparison
+    claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy refs assigned because the passage does not support any of the available motif or symbol categories.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l362-l368
+  passage_sha256=a73bb6d5a89f5b6e6d7432b988a5881380f379710a39bdaf7c160041fec4e182
+

@@ -1,0 +1,550 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l1966-l2082
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: MIRTS-TZ, AND HIS SON ZOHK / KAVAH, THE BLACKSMITH / FERIDN / FERIDN AND
+    HIS THREE SONS; lines 1966-2082
+  start: '1966'
+  end: '2082'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Feridn urges reconciliation among his sons. Irij travels to his elder brothers,
+    is admired by their troops as kingly, and becomes the object of renewed fear and
+    hostility. Slim urges Tr to kill him. Irij renounces royal power and begs for
+    peace and life, but Tr strikes him, beheads him, and sends the embalmed head to
+    their father with cruel words about crown and throne.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Feridn approves Irij's desire for reconciliation and writes to his sons urging
+    them to cast away hostility toward their younger brother.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Irij mounts his horse and travels with friends in a manner that does not reveal
+    his rank or character.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When Irij arrives in Turkistn, the armies of Slim and Tr are ready to march
+    against him, but the brothers meet the deputation carrying their father's letter
+    and receive Irij in the royal residence.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Troops and people admire Irij's appearance and say he is fit to be a king.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The courtiers of Slim and Tr warn them that the army is disaffected toward
+    them and regards Irij as deserving supreme authority.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Slim tells Tr that Tr must put Irij to death so that Irij's kingdom will belong
+    to Tr.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Tr accuses Irij of accepting rule over Persia while his elder brothers hold
+    barren kingdoms and remain subordinate.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Irij replies that he seeks peace, does not seek sovereignty, and renounces
+    the throne and diadem for a private life.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Tr strikes Irij on the head with a golden chair and orders that he be bound;
+    Irij begs Tr to remember their father and spare his life.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Irij uses the image of an ant carrying grain to argue that life is precious
+    and warns Tr against shedding a brother's blood.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Tr draws a dagger and severs Irij's head from his body.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The head of Irij is embalmed with musk and ambergris and sent to his father
+    with a taunting message about crowning and enthroning it.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Feridn
+  description: Father of Irij, Slim, and Tr; he writes a letter urging reconciliation
+    and is later addressed as the recipient of Irij's head.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:2
+  name_or_label: Irij
+  description: Younger brother, associated with the crown and throne of Persia; admired
+    by troops, renounces sovereignty, pleads for life, and is killed.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Slim
+  description: One of Irij's elder brothers; fears the army's attachment to Irij and
+    urges Tr to kill him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Tr
+  description: One of Irij's elder brothers; agrees to kill Irij, confronts him, strikes
+    him with a golden chair, and beheads him with a dagger.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: Troops, army, and crowds
+  description: Collective observers who admire Irij, follow him, and are reported
+    to favor him over Slim and Tr.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Courtiers of the two brothers
+  description: Advisers who report to Slim and Tr that the army is disaffected and
+    considers Irij worthy of supreme authority.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: father and sender of reconciliation letter
+  assigned_to:
+  - fig:1
+  basis: Feridn writes to his sons asking them to be kind to Irij and cast away hostility.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: younger brother and peace-seeking ruler
+  assigned_to:
+  - fig:2
+  basis: Irij is described as the younger brother associated with crown and throne,
+    yet he says he seeks peace and renounces sovereignty.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: elder brothers opposed to Irij
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Slim and Tr are Irij's brothers whose armies are ready to march against him
+    and who resent his rule over Persia.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: instigator of murder
+  assigned_to:
+  - fig:3
+  basis: Slim tells Tr that Tr must put Irij to death and that Irij's kingdom will
+    then be Tr's.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: killer of brother
+  assigned_to:
+  - fig:4
+  basis: Tr undertakes the killing, attacks Irij, and severs his head with a dagger.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+- id: role:6
+  label: admiring witnesses and potential supporters
+  assigned_to:
+  - fig:5
+  basis: The troops and people admire Irij, call him fit to be king, and are reported
+    to favor him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: supplicant victim
+  assigned_to:
+  - fig:2
+  basis: Irij begs for life and pity before being beheaded.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:8
+  label: warning courtiers
+  assigned_to:
+  - fig:6
+  basis: The courtiers warn Slim and Tr that the army regards Irij as deserving supreme
+    authority.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: reconciliation letter
+  literal_form: letter from Feridn to his sons
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: royal regalia and seat
+  literal_form: crown, throne, and diadem
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:10
+- id: sym:3
+  label: flourishing tree image
+  literal_form: a flourishing tree to be rooted up
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: golden chair used as weapon
+  literal_form: golden chair
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: dagger
+  literal_form: dagger used to behead Irij
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: blood calling for vengeance
+  literal_form: Irij's blood calling out for vengeance to the Almighty
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: ant carrying grain
+  literal_form: poor ant dragging grain along the dust
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: embalmed severed head
+  literal_form: head of Irij embalmed with musk and ambergris and sent to Feridn
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Letter and journey toward reconciliation
+  summary: Feridn writes to his elder sons urging reconciliation; Irij departs with
+    friends, without openly displaying his rank, and is received by Slim and Tr after
+    arriving in Turkistn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Public admiration and renewed fear
+  summary: The troops and crowds admire Irij and call him fit to be king; courtiers
+    warn Slim and Tr that their army favors Irij, and Slim frames him as a flourishing
+    tree that must be uprooted.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Accusation and renunciation
+  summary: Tr accuses Irij of enjoying Persia's wealth and authority at the expense
+    of his elder brothers; Irij replies that he seeks peace and renounces throne and
+    diadem.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Plea and killing
+  summary: Tr strikes Irij with a golden chair and orders him bound. Irij pleads for
+    life, invokes their father, the value of life, and heavenly vengeance, but Tr
+    beheads him with a dagger.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Head sent to father
+  summary: Irij's head is embalmed and sent to Feridn with cruel words telling him
+    to crown and enthrone it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Fraternal rivalry and fratricide over kingship
+  taxonomy_refs:
+  - sibling_pair
+  - royal_legitimacy
+  basis: The elder brothers resent Irij's possession of Persia, fear his popularity
+    with the army, and arrange and carry out his killing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage involves three brothers, so the supplied taxonomy reference
+    'sibling_pair' is approximate for sibling conflict rather than a literal pair.
+- id: motif:2
+  label: Peaceful renunciation does not avert murder
+  taxonomy_refs: []
+  basis: Irij says he seeks tranquillity and renounces throne and diadem, but Tr rejects
+    his assurances and kills him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family exactly matches this pattern.
+- id: motif:3
+  label: Innocent blood appeals to heavenly vengeance
+  taxonomy_refs:
+  - divine_judgment
+  basis: Irij warns that if Tr takes his life, his blood will call for vengeance to
+    the Almighty and that Tr should avoid the wrath of Heaven.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: Within this excerpt the appeal to divine vengeance is spoken as a warning;
+    no divine judgment is narrated here.
+- id: motif:4
+  label: Severed head sent as cruel message
+  taxonomy_refs: []
+  basis: After Irij is killed, his embalmed head is dispatched to his father with
+    taunting royal language about a crown and throne.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to the severed-head message
+    pattern.
+- id: motif:5
+  label: Public recognition of royal worth endangers claimant
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Troops and crowds acclaim Irij as fit for kingship; courtiers report that
+    he alone is considered deserving of supreme authority, intensifying the brothers'
+    decision to remove him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an internal political-legitimacy pattern; the passage itself does
+    not compare it to another tradition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1966-1977
+  quote_or_summary: Feridn approves reconciliation and writes that Irij values his
+    brothers' friendship above crown and throne; Irij then sets out with friends without
+    rank-revealing equipment.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1977-1984
+  quote_or_summary: In Turkistn, Irij finds his brothers' armies ready to march against
+    him; Slim and Tr meet the deputation carrying Feridn's letter and receive Irij
+    in the royal residence.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1985-1995
+  quote_or_summary: The troops say of Irij, "He is indeed fit to be a king," and soldiers
+    bless his name as worthy of the diadem and throne.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1996-2011
+  quote_or_summary: Courtiers warn Slim and Tr that the army is disaffected and regards
+    Irij as deserving supreme authority; Slim fears the kingdom may fall to Irij and
+    says they must root up the flourishing tree.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized with brief phrase.
+- id: ev:5
+  type: quote
+  locator: lines 2012-2026
+  quote_or_summary: Slim says, "Thou must put Irij to death, and then his kingdom
+    will be thine"; Tr then accuses Irij of taking Persia's wealth and authority while
+    his elder brothers have barren lands.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; short quotation and summary.
+- id: ev:6
+  type: quote
+  locator: lines 2027-2039
+  quote_or_summary: Irij replies, "I only seek tranquillity and peace" and says of
+    the throne and diadem, "I here renounce them, satisfied to lead / A private life."
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 2040-2046
+  quote_or_summary: Tr seizes the golden chair and strikes Irij on the head, calling
+    "Bind him"; Irij pleads for pity, invokes their father, and says his blood will
+    call to the Almighty for vengeance.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized with brief quotation.
+- id: ev:8
+  type: quote
+  locator: lines 2047-2058
+  quote_or_summary: Irij says, "Torture not the poor ant" and asks whether Tr will
+    shed his brother's blood and agonize their father, warning him to avoid the wrath
+    of Heaven.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; short quotation and summary.
+- id: ev:9
+  type: summary
+  locator: lines 2059-2061
+  quote_or_summary: Tr gives no reply, draws his dagger, and instantly severs Irij's
+    head from his body.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 2062-2070
+  quote_or_summary: Irij's head is embalmed with musk and ambergris and sent to his
+    old father with cruel words telling him to dress the head with a crown and place
+    it before his throne.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal events and named figures are explicit in the passage. Motif labels
+    are candidate classifications and should be reviewed, especially where supplied
+    taxonomy categories are approximate.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names and place forms are retained as they appear in the supplied passage text, including stripped or absent diacritics.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l1966-l2082
+  passage_sha256=be8f67d347374bc5dca7e03e90382bb0a0cb6483f284a059661d0569591606c0
+

@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l12940-l13005
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE TREASURE-BRINGER. / THE WOODEN MAN AND THE BIRCH-BARK MAID. / MARTIN
+    AND HIS DEAD MASTER. / THE COURAGEOUS BARN-KEEPER.; lines 12940-13005
+  start: '12940'
+  end: '13005'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A courageous barn-keeper knowingly receives visits from Old Boy, advises
+    him through failed marriages, and is then told of an ancient treasure in ruined
+    mountain castle walls that can be dug up only by someone wholly without fear on
+    a full-moon Thursday night.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The barn-keeper is introduced as a man with few equals in courage, and Old
+    Boy admits that no bolder man has appeared on earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Old Boy visits the barn-keeper in the evening after the threshers have stopped
+    work and talks with him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Old Boy believes the barn-keeper does not recognize him and supposes him to
+    be an ordinary peasant; the barn-keeper recognizes him, pretends not to, and thinks
+    of boxing Old Hornie's ears.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Old Boy complains about bachelor life, and the barn-keeper advises him to
+    go wooing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: After being advised to court old maids or widows, Old Boy marries an old maid,
+    returns to complain that she torments him, and says he cannot manage her.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the following year, Old Boy reports that he married a young widow who seemed
+    gentle but became a scold, and he escaped from her.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Old Boy tells the barn-keeper of a great ancient treasure in the ruins of
+    an old castle on a mountain, which no one has been able to dig up for lack of
+    courage.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Old Boy instructs the barn-keeper to dig for the treasure on the next Thursday
+    night at the full moon, warning that fear or bodily trembling will lose the treasure
+    and may cost his life.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Old Boy says many others have tried their luck before, and says farmhouse
+    people can report what they have heard or seen about the old castle walls.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: barn-keeper
+  description: A barn-keeper described as exceptionally courageous; he hosts Old Boy,
+    advises him, recognizes him despite pretending not to, and is invited to seek
+    the treasure.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Old Boy / Old Hornie
+  description: A recurring visitor to the barn-keeper who supposes himself taken for
+    an ordinary peasant, reports failed marriages, and reveals the hidden treasure
+    and its conditions.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: old maid wife
+  description: The first wife Old Boy marries after the barn-keeper's advice; she
+    is described as full of tricks and as tormenting him continually.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: young widow wife
+  description: The second wife Old Boy marries; she first seems dove-like but is later
+    described as a scold from whom he escapes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: exceptionally courageous human
+  assigned_to:
+  - fig:1
+  basis: The passage states that the barn-keeper had few equals in courage and that
+    Old Boy admitted no bolder man had appeared.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: knowing host who conceals recognition
+  assigned_to:
+  - fig:1
+  basis: The barn-keeper recognizes Old Boy while pretending not to recognize him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recurring visitor in ordinary-peasant guise
+  assigned_to:
+  - fig:2
+  basis: Old Boy repeatedly visits and believes the barn-keeper supposes him to be
+    an ordinary peasant.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: failed suitor and husband
+  assigned_to:
+  - fig:2
+  basis: Old Boy complains that girls reject him and later reports two unhappy marriages.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: prospective treasure-digger
+  assigned_to:
+  - fig:1
+  basis: The barn-keeper says that if only courage is needed, the treasure is as good
+    as in his pocket, and Old Boy gives him instructions for digging it up.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: treasure informant and warner
+  assigned_to:
+  - fig:2
+  basis: Old Boy tells where the treasure lies, when to dig, and what danger fear
+    brings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: troublesome spouse
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The old maid is said to torment Old Boy, and the young widow is said to become
+    a scold.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: barn after threshing
+  literal_form: barn in the evening after the threshers stop work
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: old castle ruins
+  literal_form: ruins of the old castle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: mountain
+  literal_form: the mountain on which the old castle ruins stand
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: ancient treasure
+  literal_form: great treasure lying since ancient times
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: full-moon Thursday night
+  literal_form: next Thursday night, when the moon would be full
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: fear or trembling
+  literal_form: heart failing or a muscle trembling
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Evening barn visits and concealed recognition
+  summary: Old Boy visits the barn-keeper after threshing hours; the barn-keeper is
+    very courageous and recognizes his visitor while pretending not to.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First marriage advice and failure
+  summary: The barn-keeper advises Old Boy to court old maids or widows; Old Boy marries
+    an old maid and later complains that she torments him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Second marriage failure
+  summary: Old Boy returns the following autumn and reports that his young widow wife
+    became a scold, prompting the barn-keeper to call him chicken-hearted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Treasure challenge at the mountain castle
+  summary: Old Boy tells the barn-keeper of ancient treasure in ruined castle walls
+    on a mountain and sets a full-moon Thursday-night digging condition with a warning
+    against fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Courageous human knowingly receives an uncanny visitor
+  taxonomy_refs: []
+  basis: The barn-keeper is said to be exceptionally courageous, recognizes Old Boy,
+    and continues to host him while pretending not to know him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage names Old Boy and Old Hornie but does not explicitly explain
+    his nature beyond these names and his self-presentation as an ordinary peasant.
+- id: motif:2
+  label: Repeated failed marriages of Old Boy after human advice
+  taxonomy_refs: []
+  basis: Old Boy follows the barn-keeper's advice, marries an old maid and later a
+    young widow, and reports both marriages as miserable.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local episode pattern in the passage; no broader taxonomy reference
+    is assigned.
+- id: motif:3
+  label: Hidden ancient treasure requiring a fearless night quest
+  taxonomy_refs:
+  - mystical_quest
+  basis: Old Boy reveals a great ancient treasure in old castle ruins on a mountain
+    and instructs the barn-keeper to dig for it at the full moon, warning that fear
+    will cause loss or death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; this passage gives the challenge and
+    conditions but not the outcome of the quest.
+- id: motif:4
+  label: Fear taboo in a treasure attempt
+  taxonomy_refs: []
+  basis: Old Boy warns that if the barn-keeper's heart fails or any muscle trembles,
+    he will lose the treasure and may lose his life, as others have before him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the taboo and danger, but the actual test is not yet
+    narrated in this excerpt.
+- id: motif:5
+  label: Failed predecessors at a dangerous treasure site
+  taxonomy_refs: []
+  basis: Old Boy says many others have already tried their luck and implies they failed
+    or died because fear overcame them.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The predecessors are mentioned only generally; no individual failed attempt
+    is described.
+comparison_claims:
+- id: claim:1
+  claim: 'The treasure episode has the same broad function as a mystical quest pattern:
+    a seeker is directed toward a hidden ancient prize under special temporal and
+    behavioral conditions.'
+  claim_level: same_function
+  target: mystical_quest motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate the actual journey, test, or acquisition;
+    the comparison is functional and broad, not a claim of historical contact or full
+    motif identity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12944-12957
+  quote_or_summary: The barn-keeper is exceptionally courageous; Old Boy visits him
+    in the barn, believes himself unrecognized as other than an ordinary peasant,
+    but the barn-keeper recognizes him and hears his bachelor complaint.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 12959-12972
+  quote_or_summary: The barn-keeper advises Old Boy to court old maids or widows;
+    Old Boy marries an old maid but returns saying she is full of tricks, gives him
+    no rest, and torments him.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 12974-12987
+  quote_or_summary: The next autumn, Old Boy reports marrying a young widow who first
+    seemed gentle but became a scold; the barn-keeper says he is chicken-hearted and
+    cannot manage a wife.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 12988-12994
+  quote_or_summary: Old Boy says that if the barn-keeper is truly bold, he can seek
+    a great ancient treasure lying in the ruins of the old castle on the mountain,
+    unattained because no one has had enough courage to dig it up.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 12995-13005
+  quote_or_summary: The barn-keeper accepts the challenge; Old Boy says to dig next
+    Thursday night at the full moon and warns that fear or trembling will lose the
+    treasure and may cost life, as with many earlier attempts; local people have reports
+    about the castle walls.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction uses only the supplied passage. Motif labels are conservative;
+    the mystical_quest comparison is broad because the excerpt stops before the treasure
+    attempt occurs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, common-inheritance, or external comparative claims are made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l12940-l13005
+  passage_sha256=e6cca6de6be5b84eeba81ec33bc7b63ac78983dea4886e6e0385903e1ca48d0a
+

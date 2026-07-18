@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7330-l7346
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XXV. TO THE MUSES AND APOLLO / XXVI. TO DIONYSUS / XXVII. TO ARTEMIS / XXVIII.
+    TO ATHENA; lines 7330-7346
+  start: '7330'
+  end: '7346'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: From his awful head wise Zeus himself bare her arrayed in warlike arms of
+    flashing gold
+  summary: The hymn praises Pallas Athene, describes Zeus bearing her from his head
+    in shining war-gear, narrates her armed emergence before him and the cosmic disturbance
+    that follows, then closes by hailing her as daughter of Zeus.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker begins a hymn to Pallas Athene and names her as a glorious goddess.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Athene is described as bright-eyed, inventive, unbending of heart, a pure
+    virgin, a saviour of cities, courageous, and Tritogeneia.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Zeus bears Athene from his head while she is arrayed in warlike arms of flashing
+    gold.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: All the gods are seized by awe while gazing at Athene's emergence.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Athena springs quickly from the immortal head, stands before Zeus who holds
+    the aegis, and shakes a sharp spear.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Olympus reels, the earth cries out, and the sea is moved with dark waves and
+    sudden foam.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The bright Son of Hyperion stops his swift-footed horses for a long while
+    until Athene removes the heavenly armour from her shoulders.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Wise Zeus is glad, and the speaker hails Athene as daughter of Zeus who holds
+    the aegis.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pallas Athene / Athena
+  description: A glorious, bright-eyed, inventive goddess and pure virgin who is born
+    from Zeus's head in warlike golden arms, shakes a spear, and is hailed as daughter
+    of Zeus.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Zeus
+  description: Wise Zeus, holder of the aegis, bears Athene from his head and is glad
+    after her appearance.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: All the gods
+  description: The gods gaze at Athene and are seized by awe.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Bright Son of Hyperion
+  description: A bright figure who stops his swift-footed horses for a long while
+    during Athene's emergence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Glorious goddess
+  assigned_to:
+  - fig:1
+  basis: The hymn explicitly begins by singing of Pallas Athene as a glorious goddess.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Armed divine maiden
+  assigned_to:
+  - fig:1
+  basis: Athene is described as a pure virgin who appears arrayed in warlike arms
+    and shakes a spear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Saviour of cities
+  assigned_to:
+  - fig:1
+  basis: The hymn lists 'saviour of cities' among Athene's attributes.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Daughter of Zeus
+  assigned_to:
+  - fig:1
+  basis: The closing hail addresses Athene as daughter of Zeus, and the birth scene
+    has Zeus bearing her from his head.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: Divine bearer or parent
+  assigned_to:
+  - fig:2
+  basis: Zeus bears Athene from his head and is identified as her father in the closing
+    address.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: Holder of the aegis
+  assigned_to:
+  - fig:2
+  basis: Zeus is described as holding the aegis.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: Awed divine witnesses
+  assigned_to:
+  - fig:3
+  basis: Awe seizes all the gods as they gaze at Athene.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Cosmic observer who halts horses
+  assigned_to:
+  - fig:4
+  basis: The Son of Hyperion stops his swift-footed horses during the event.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Zeus's head as birth place
+  literal_form: The awful or immortal head of Zeus from which Athene is born.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Warlike golden arms and heavenly armour
+  literal_form: Warlike arms of flashing gold and heavenly armour on Athene's immortal
+    shoulders.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Sharp spear
+  literal_form: A sharp spear shaken by Athene after she springs from the head.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Aegis
+  literal_form: The aegis held by Zeus.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: Sea, dark waves, and foam
+  literal_form: The sea is moved and tossed with dark waves, and foam bursts forth
+    suddenly.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Olympus and earth responding
+  literal_form: Great Olympus reels and the earth cries fearfully during Athene's
+    emergence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Swift-footed horses of the Son of Hyperion
+  literal_form: The bright Son of Hyperion's swift-footed horses are stopped for a
+    long while.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invocation and attributes of Athene
+  summary: The speaker opens the hymn to Pallas Athene and lists her divine attributes.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Athene born armed from Zeus's head
+  summary: Zeus bears Athene from his head in flashing warlike arms; the gods gaze
+    in awe as she springs forth, stands before Zeus, and shakes a spear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cosmic disturbance and solar pause
+  summary: Athene's might is accompanied by Olympus reeling, earth crying, the sea
+    tossing with dark waves and foam, and the Son of Hyperion halting his horses until
+    she removes the armour.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Closing hail to Zeus's daughter
+  summary: Zeus is glad, and the speaker hails Athene as daughter of Zeus who holds
+    the aegis.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Head-born sacred birth
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Athene is born from Zeus's head and appears already arrayed in warlike golden
+    arms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents Athene as a maiden goddess rather than an infant;
+    'miraculous_child' is used only for the extraordinary divine birth pattern.
+- id: motif:2
+  label: Divine parent and daughter
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Zeus bears Athene from his head, and the hymn hails her as daughter of Zeus.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage names the relationship to Zeus but does not mention a mother
+    or wider genealogy.
+- id: motif:3
+  label: Armed divine epiphany with cosmic reaction
+  taxonomy_refs: []
+  basis: Athene emerges armed, shakes a spear, and the surrounding cosmos reacts through
+    Olympus, earth, sea, and the halted horses of the Son of Hyperion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names this pattern; it is recorded
+    as a plain passage-level motif candidate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: ll. 1-4
+  quote_or_summary: '"I begin to sing of Pallas Athene, the glorious goddess, bright-eyed,
+    inventive"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: ll. 4-6
+  quote_or_summary: '"From his awful head wise Zeus himself bare her arrayed in warlike
+    arms of flashing gold"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: ll. 6-9
+  quote_or_summary: Awe seizes all the gods; Athena springs from the immortal head,
+    stands before aegis-bearing Zeus, and shakes a sharp spear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary only.
+- id: ev:4
+  type: summary
+  locator: ll. 9-13
+  quote_or_summary: Olympus reels, earth cries fearfully, and the sea is moved and
+    tossed with dark waves while foam bursts forth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary only.
+- id: ev:5
+  type: summary
+  locator: ll. 13-16
+  quote_or_summary: The bright Son of Hyperion stops his swift-footed horses until
+    Pallas Athene strips the heavenly armour from her shoulders; Zeus is glad.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary only.
+- id: ev:6
+  type: quote
+  locator: ll. 17-18
+  quote_or_summary: '"hail to you, daughter of Zeus who holds the aegis!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied Athena hymn passage. No explicit cross-text
+    comparison is made in the passage, so comparison claims are left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied locator label mentions multiple hymns, but the provided passage text contains only XXVIII. TO ATHENA; extraction follows the provided passage text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7330-l7346
+  passage_sha256=ecb3c2332517de981b5864eddcbd8199842ba79d2c253f37de870476e5a9f702
+

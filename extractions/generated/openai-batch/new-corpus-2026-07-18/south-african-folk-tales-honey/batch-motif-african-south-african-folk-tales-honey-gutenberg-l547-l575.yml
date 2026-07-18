@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l547-l575
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE LOST MESSAGE / THE MONKEY'S FIDDLE / THE TIGER, THE RAM, AND THE JACKAL
+    / THE JACKAL AND THE WOLF; lines 547-575
+  start: '547'
+  end: '575'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Jackal sees a fish-laden wagon, pretends to be dead in the road, is thrown
+    into the wagon as a supposed useful hide, throws fish out, and escapes with them.
+    Wolf later eats more than Jackal wants him to, so Jackal tells Wolf to imitate
+    the method. Wolf lies in the road before another wagon but is kicked and beaten,
+    then returns injured while Jackal only pretends to comfort him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jackal lives on the borders of the colony and sees a wagon returning from
+    the seaside loaded with fish.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jackal tries to get into the wagon from behind but cannot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jackal runs ahead and lies in the road as if dead; the wagon party treats
+    him as a possible kaross and throws him into the wagon.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: While the wagon travels at night, Jackal throws fish out onto the road, then
+    jumps out and secures the fish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Wolf eats more than Jackal thinks he should, and Jackal holds a grudge against
+    him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jackal tells Wolf that he can get plenty of fish by lying in the way of a
+    wagon and remaining still whatever happens.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Wolf follows the instruction and stretches himself out in the road before
+    the next wagon from the sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wagon leader calls Wolf an ugly thing, kicks him, and beats him with a
+    stick.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Wolf stays quiet as long as he can, then gets up, hobbles away, and reports
+    his misfortune to Jackal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Jackal pretends to comfort Wolf.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Wolf says he lacks Jackal's handsome skin.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: An animal figure living on the borders of the colony who feigns death,
+    gains entry to a fish wagon, throws fish out, and later advises Wolf to imitate
+    the act.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Wolf (hyena)
+  description: Called stupid old Wolf, identified parenthetically as hyena; he eats
+    more than Jackal wants him to, imitates Jackal's road trick, is beaten, and returns
+    injured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: wagon leader
+  description: The person associated with the wagon who first sees the animal in the
+    road, calls Jackal a fine kaross, later calls Wolf ugly, and beats Wolf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: wagon driver
+  description: The person who orders that the apparently dead Jackal be thrown into
+    the wagon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: deceptive food-taker and instigator
+  assigned_to:
+  - fig:1
+  basis: Jackal feigns death to be placed in the wagon, removes fish from it, then
+    gives Wolf instructions that lead to Wolf's beating.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: injured imitator
+  assigned_to:
+  - fig:2
+  basis: Wolf follows Jackal's method by lying in the road but is kicked and beaten.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: wagon leader who judges and punishes roadside animals
+  assigned_to:
+  - fig:3
+  basis: The leader identifies Jackal as a useful kaross, but treats Wolf as ugly
+    and beats him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: driver who accepts the apparent carcass
+  assigned_to:
+  - fig:4
+  basis: The driver orders that Jackal be thrown into the wagon after Jackal lies
+    as if dead.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fish
+  literal_form: fish loaded on the wagon and thrown into the road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: roadside feigned corpse
+  literal_form: Jackal and later Wolf lying still in the road as if dead or inert
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: wagon from the sea
+  literal_form: wagon returning from the seaside laden with fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: skin or kaross
+  literal_form: Jackal is called a fine kaross, and Wolf later comments on Jackal's
+    handsome skin
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:5
+  label: stick
+  literal_form: stick used to thrash Wolf
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jackal enters the fish wagon by feigning death
+  summary: Jackal cannot climb into the wagon, so he lies in the road as if dead and
+    is thrown into the wagon as a supposed kaross.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jackal removes the fish from the wagon
+  summary: During night travel, Jackal throws fish from the wagon into the road and
+    then jumps out to secure them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jackal instructs Wolf to imitate the trick
+  summary: After Wolf eats more than Jackal wants him to, Jackal tells Wolf to lie
+    in the road before a wagon and remain still.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wolf's failed imitation
+  summary: Wolf lies in the road before the next fish wagon, but the wagon leader
+    kicks and beats him; Wolf eventually hobbles away and reports to Jackal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: feigned death to obtain food from travelers
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal lies in the road as if dead so that the wagon party throws him into
+    the fish wagon, allowing him to throw fish out and escape with them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy has only a broad trickster-boundary family; the
+    passage does not name a formal motif type.
+- id: motif:2
+  label: deceptive instruction leading to a dupe's punishment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal tells Wolf to repeat the same road-lying tactic and to stay still
+    whatever happens; Wolf does so and is beaten.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the action sequence clearly, but any broader cross-cultural
+    classification needs review.
+- id: motif:3
+  label: failed imitation of a trickster's successful act
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal succeeds by lying as if dead, while Wolf imitates the act before another
+    wagon and suffers harm instead of gaining fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a pattern inferred from the sequence within the passage, not an
+    externally identified motif number.
+- id: motif:4
+  label: valued hide versus rejected body
+  taxonomy_refs: []
+  basis: The wagon party treats Jackal as a fine kaross, while Wolf is called ugly
+    and beaten; Wolf later attributes the different outcome to Jackal's handsome skin.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This may be more a narrative contrast than a stable motif; human review
+    is needed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 547-556
+  quote_or_summary: Jackal sees a seaside fish wagon, fails to enter from behind,
+    lies in the road as if dead, is called a fine kaross, and is thrown into the wagon
+    by order of the driver.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 557-560
+  quote_or_summary: During moonlit travel, Jackal throws fish out of the wagon into
+    the road, then jumps out and secures the prize.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 560-565
+  quote_or_summary: Wolf eats more than his share; Jackal holds a grudge and tells
+    Wolf he can get fish by lying in the way of a wagon and keeping still whatever
+    happens.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 566-573
+  quote_or_summary: Wolf lies in the road before the next seaside wagon; the leader
+    calls him ugly, kicks him, and beats him with a stick; Wolf remains quiet for
+    a while, then hobbles off to Jackal, who pretends to comfort him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 574-575
+  quote_or_summary: '"What a pity," said Wolf, "I have not got such a handsome skin
+    as you have!"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; brief quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The basic narrative actions and figures are explicit. Motif labels are candidate
+    descriptions using the available broad taxonomy only; no external motif index
+    or cross-text comparison was applied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this tale to another text or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l547-l575
+  passage_sha256=ced30feff6dd3f2a71d483b10fc8768e085d36797e79f21ad7af6e46a0f7db79
+

@@ -1,0 +1,458 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l2690-l2758
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: LI. THE HASTY WORD                                            370 / RUSSIAN
+    FOLK-TALES. / CHAPTER I. / INTRODUCTORY.; lines 2690-2758
+  start: '2690'
+  end: '2758'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A seigneur forces the Smith to make him young after hearing that the Smith's
+    journeyman made the lady young. The Smith imitates the reported method by putting
+    the seigneur in a furnace and then into milk, but only charred bones remain. The
+    lady orders the Smith taken to the gallows. The journeyman, identified as the
+    Demon, offers to restore the seigneur alive and young if the Smith swears never
+    again to strike him and to treat him respectfully. The Smith swears, the seigneur
+    is brought back alive and young, the Smith is released, and the journeyman disappears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The seigneur accuses the Smith and demands to be made young because the Smith's
+    journeyman had made the lady young.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Smith privately asks the coachman how the journeyman had worked on the
+    lady and decides to imitate that procedure.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Smith strips the seigneur, grips him with tongs, puts him into the furnace,
+    blows the bellows, and burns him to a cinder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Smith collects the seigneur's remains, throws them into milk, and waits
+    for a youthful seigneur to emerge.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the Smith searches the tub, he finds only charred bones.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After learning that her husband is no more, the lady orders servants to take
+    the Smith to the gallows.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The journeyman, identified as the Demon, tells the Smith to swear never to
+    strike him with a hammer and to respect him, promising that the seigneur will
+    then be alive and young.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Smith swears that he will not lift his hammer against the Demon and will
+    pay him attention.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The journeyman goes to the smithy and returns with the seigneur, after which
+    the servants release the Smith.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Afterward, the Smith stops spitting at and striking the Demon; the journeyman
+    disappears and is not seen again; the seigneur and lady prosper.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Smith
+  description: A smith who is forced to attempt rejuvenating the seigneur, fails,
+    is taken to be hanged, and is released after swearing to respect the Demon.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: The seigneur
+  description: A nobleman who demands to be made young, is burned to a cinder in the
+    Smith's failed attempt, and is later brought back alive and young.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: The lady
+  description: The seigneur's wife, previously said to have been made young; she sends
+    to ask after the seigneur and orders the Smith to the gallows after hearing of
+    the failure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: The journeyman / youngster / Demon
+  description: A youngster formerly living with the Smith as his journeyman, identified
+    as the Demon; he makes an oath-condition and returns with the seigneur alive and
+    young before disappearing.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: The coachman
+  description: A person consulted by the Smith about how the journeyman had dealt
+    with the lady.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: The lady's servants and messengers
+  description: Servants and messengers who report between the lady and the smithy,
+    seize the Smith, take him toward the gallows, and release him when the seigneur
+    is restored.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: compelled craftsman
+  assigned_to:
+  - fig:1
+  basis: The seigneur threatens the Smith and forces him to attempt the transformation
+    using smithy equipment.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: rejuvenation-seeker and victim
+  assigned_to:
+  - fig:2
+  basis: The seigneur demands youth, is subjected to the furnace-and-milk procedure,
+    and later reappears alive and young.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: punitive authority
+  assigned_to:
+  - fig:3
+  basis: The lady orders servants to drag the Smith to the gallows after the failed
+    transformation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: supernatural restorer
+  assigned_to:
+  - fig:4
+  basis: The journeyman is called the Demon and promises that the seigneur will be
+    alive and young, then returns with him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: informant
+  assigned_to:
+  - fig:5
+  basis: The Smith asks the coachman how the journeyman had worked on the lady.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: execution agents
+  assigned_to:
+  - fig:6
+  basis: The lady's servants seize the Smith, tie him, and take him toward the gallows
+    before releasing him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: oath-giver spared from execution
+  assigned_to:
+  - fig:1
+  basis: The Smith swears to stop striking the Demon and is freed after the seigneur
+    is restored.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: bargain-maker
+  assigned_to:
+  - fig:4
+  basis: The Demon makes the seigneur's restoration conditional on the Smith's oath
+    of nonviolence and respect.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: furnace and fire
+  literal_form: The furnace, bellows, and burning that reduce the seigneur to a cinder.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: milk in the tub
+  literal_form: Milk into which the Smith throws the seigneur's remains while waiting
+    for a youthful seigneur to emerge.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hammer
+  literal_form: The Smith's hammer, named in the oath as an object he must never again
+    lift against the Demon.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: gallows and cords
+  literal_form: The gallows to which the Smith is dragged and the cords with which
+    his hands are tied before release.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Demand for youth and plan of imitation
+  summary: The seigneur demands that the Smith make him young, and the Smith consults
+    the coachman about the journeyman's earlier method before deciding to copy it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Failed furnace-and-milk transformation
+  summary: The Smith burns the seigneur in the furnace, throws the remains into milk,
+    and finds only charred bones instead of a youthful seigneur.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Condemnation of the Smith
+  summary: The lady hears that the seigneur is dead and orders her servants to take
+    the Smith to the gallows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Demonic bargain and rescue
+  summary: The Demon, in the form of the journeyman, requires the Smith's oath of
+    nonviolence and respect, then returns with the seigneur alive and young, causing
+    the servants to free the Smith.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Aftermath and disappearance
+  summary: The Smith stops insulting and striking the Demon, the journeyman disappears,
+    and the seigneur and lady enter a prosperous life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: failed imitation of supernatural rejuvenation
+  taxonomy_refs: []
+  basis: The Smith attempts to copy the journeyman's reported method of making the
+    lady young, but his furnace-and-milk procedure leaves only charred bones.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage only references the earlier successful rejuvenation of the
+    lady; it does not narrate that earlier event within this extract.
+- id: motif:2
+  label: death and restoration to youthful life
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The seigneur is reduced to cinders and charred bones, is described as no
+    more, and is later brought back alive and young by the Demon/journeyman.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The actual restorative act occurs offstage; the passage states the result
+    rather than describing the process.
+- id: motif:3
+  label: supernatural bargain for restoration
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Demon offers the seigneur's restoration in exchange for the Smith's oath
+    never to strike him and to treat him respectfully.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy mapping is tentative because the passage presents a demonic
+    bargain and oath, not an explicitly ritual or sacred exchange.
+- id: motif:4
+  label: execution averted by return of the presumed dead
+  taxonomy_refs: []
+  basis: The Smith is being taken to the gallows for the seigneur's death, but the
+    restored seigneur's return causes the servants to stop and release him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader comparative
+    claim is made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2690-2701
+  quote_or_summary: The seigneur demands that the Smith make him young because the
+    journeyman made the lady young, and threatens punishment if he refuses.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2703-2711
+  quote_or_summary: The Smith privately asks the coachman how the journeyman worked
+    on the lady and decides to do the same despite the risk.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2713-2721
+  quote_or_summary: The Smith strips the seigneur, puts him into the furnace with
+    tongs, burns him to a cinder, throws the remains into milk, and later finds only
+    charred bones in the tub.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2723-2732
+  quote_or_summary: The lady sends messengers, learns that the seigneur is no more,
+    becomes angry, and orders servants to drag the Smith to the gallows.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2733-2742
+  quote_or_summary: The former journeyman appears, is identified as the Demon, and
+    tells the Smith to swear never to strike him with a hammer and to respect him;
+    in return, the seigneur will be alive and young.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2744-2752
+  quote_or_summary: The Smith swears; the journeyman goes to the smithy and returns
+    with the seigneur, telling the servants not to hang the Smith; they untie and
+    free him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2754-2758
+  quote_or_summary: Afterward the Smith stops spitting at and striking the Demon;
+    the journeyman disappears, and the seigneur and lady prosper.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif candidates
+    are strong at the local narrative level, but broader taxonomy mapping, especially
+    sacred_exchange, requires human review. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage begins after an earlier episode; the lady's rejuvenation is referenced but not narrated in this line range.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l2690-l2758
+  passage_sha256=b0a176dcf0f621633fefefa507bfdf1933ce6d7e25dc5b09485daa7da182dadc
+

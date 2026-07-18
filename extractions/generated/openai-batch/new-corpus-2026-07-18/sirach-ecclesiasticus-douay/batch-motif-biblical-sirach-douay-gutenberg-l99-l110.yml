@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.biblical-sirach-douay-gutenberg-l99-l110
+source_text_path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+passage_locator:
+  label: 'The Bible, Douay-Rheims, Book 26: Ecclesiasticus / THE HOLY BIBLE / ECCLESIASTICUS;
+    lines 99-110'
+  start: '99'
+  end: '110'
+  translation: 'The Bible, Douay-Rheims, Book 26: Ecclesiasticus'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Ecclesiasticus by explaining its name, moral purpose,
+    attributed author, canonical status, original language, and later Greek translation
+    by the author's grandson.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The book is said to be named from a Greek word meaning a preacher.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The book is described as giving admirable lessons of all virtues, like an
+    excellent preacher.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author is identified as Jesus the son of Sirach of Jerusalem, said to
+    have flourished about two hundred years before Christ.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the book was written after the time of Esdras and
+    is not in the Jewish canon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the book is received as canonical and divine by the
+    Catholic Church.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that the book was first written in Hebrew and later translated
+    into Greek by another Jesus, the grandson of the author.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jesus the son of Sirach of Jerusalem
+  description: Identified as the author of Ecclesiasticus, flourishing about two hundred
+    years before Christ.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: another Jesus, grandson of the author
+  description: Identified as the later Greek translator and as the author of the following
+    prologue.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Esdras
+  description: Mentioned as a chronological reference point after whose time the book
+    was written.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Catholic Church
+  description: Described as receiving the book as canonical and divine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: spirit of God
+  description: Described as directing the Catholic Church in receiving the book.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: attributed author
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Jesus the son of Sirach of Jerusalem as the author.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: translator and prologue writer
+  assigned_to:
+  - fig:2
+  basis: The passage says another Jesus, the author's grandson, translated the work
+    into Greek and that his prologue follows.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: chronological reference figure
+  assigned_to:
+  - fig:3
+  basis: The passage dates the writing of the book after the time of Esdras.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: receiving canonical institution
+  assigned_to:
+  - fig:4
+  basis: The passage says the Catholic Church receives the book as canonical and divine.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine directing agency
+  assigned_to:
+  - fig:5
+  basis: The passage says the Catholic Church is directed by the spirit of God.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Explanation of the book's name and purpose
+  summary: The passage explains that Ecclesiasticus is named from a Greek word meaning
+    preacher and characterizes the book as giving lessons in virtues.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Authorship and transmission notice
+  summary: The passage attributes the book to Jesus son of Sirach, situates it after
+    Esdras, describes its canonical reception, and reports its Hebrew origin and Greek
+    translation by the author's grandson.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom instruction through virtuous teaching
+  taxonomy_refs:
+  - wisdom
+  basis: The passage characterizes the book as functioning like a preacher and giving
+    lessons of all virtues.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a paratextual description of the book's instructional purpose,
+    not a narrative mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 99-103
+  quote_or_summary: '"like an excellent preacher, it gives admirable lessons of all
+    virtues"'
+  source_text_path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 103-105
+  quote_or_summary: The author is named as Jesus the son of Sirach of Jerusalem, who
+    flourished about two hundred years before Christ.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 105-108
+  quote_or_summary: The passage states that the book was written after Esdras, is
+    not in the Jewish canon, but is received as canonical and divine by the Catholic
+    Church through apostolical tradition and the spirit of God.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 108-110
+  quote_or_summary: The passage states that the book was first written in Hebrew and
+    later translated into Greek by another Jesus, the grandson of the author, whose
+    prologue follows.
+  source_text_path: texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is introductory and paratextual, so figure and transmission data
+    are clear, while motif extraction is limited to the explicit wisdom-instruction
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols or comparison claims were extracted because the passage does not provide supported symbolic imagery or comparative motif claims.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:biblical-sirach-douay-gutenberg__l99-l110
+  passage_sha256=03981792a7e6cc259ea6c1491497b19e8852cd820ec4d07d321c6278b407f7cb
+

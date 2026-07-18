@@ -1,0 +1,557 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2037-l2091
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 2037-2091
+  start: '2037'
+  end: '2091'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Arab poetic assemblies at Ocadh, the preservation
+    and honor of celebrated poems, the interruption and revival of poetry and learning,
+    martial customs among independent tribes, ideals of hospitality, and a footnoted
+    anecdote in which prosodic analysis at the Nile is mistaken for a charm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At Ocadh, the tribes held an annual month-long assembly at a fair or mart
+    where they traded and recited poems in competition for a prize.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Poems judged excellent were stored in kings' treasuries, and the seven al
+    Moallakat are described as honored at the Caaba and written on Egyptian silk in
+    gold letters.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mohammed suppressed the fair and assembly; poetry was then neglected during
+    conquests and later revived with other learning in peacetime.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Many ancient poems were lost because they were chiefly preserved in memory
+    while writing was rare in the stated time of ignorance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rules of prosody were said to have been formed after Mohammed by al Khall
+    Ahmed al Farhdi.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Arab tribes practiced arms and horsemanship because tribal independence and
+    frequent disputes made wars almost continual.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'A common saying states that God bestowed four peculiar things on Arabs: turbans
+    for diadems, tents for walls and houses, swords for entrenchments, and poems for
+    written laws.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hospitality was habitual and esteemed; Hatem and Hasn are named as especially
+    famous for it.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A poet reproaches the inhabitants of Waset by saying that none of their men
+    had the heart to give nor their women to deny.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: In a note, passersby at the Nilometer mistook Abu Jaafar's metrical analysis
+    for a charm to stop the Nile rising and pushed him into the water, where he died.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Arab tribes
+  description: Independent tribes associated with the Ocadh assembly, poetic memory,
+    warfare, and the proverb about four peculiar Arab possessions.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Poets
+  description: Participants who recited compositions, competed for a prize, and are
+    represented by a poet who reproaches Waset.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Kings
+  description: Their treasuries are said to have stored poems judged excellent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mohammed
+  description: Named as the person who suppressed the fair and assembly at Ocadh.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: al Khall Ahmed al Farhdi
+  description: Said to have digested Arab prosody into rules after Mohammed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: GOD
+  description: Named in a common saying as bestowing four peculiar things on the Arabs.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Hatem
+  description: A man of the tribe of Tay named as particularly famous for hospitality.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Hasn
+  description: A man of the tribe of Fezrah named as particularly famous for hospitality.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Inhabitants of Waset
+  description: People reproached by a poet for lack of generosity or refusal.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Abu Jaafar
+  description: A grammarian in the note who analyzed poetic feet by the Nilometer
+    and was mistaken for someone uttering a charm.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Passersby at the Mikyas or Nilometer
+  description: People who misunderstood Abu Jaafar and pushed him into the water.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Poetic competitors
+  assigned_to:
+  - fig:2
+  basis: Poets repeated compositions at Ocadh and vied with each other for a prize.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Custodians of prized poems
+  assigned_to:
+  - fig:3
+  basis: Poems judged to excel were laid up in kings' treasuries.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Suppressor of assembly
+  assigned_to:
+  - fig:4
+  basis: The fair and assembly at Ocadh are said to have been suppressed by Mohammed.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Oral preservers and revivers of learning
+  assigned_to:
+  - fig:1
+  basis: Ancient poetry was chiefly preserved in memory; later, after conquests and
+    peace, learning was revived among the Arabs.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Prosody codifier
+  assigned_to:
+  - fig:5
+  basis: The passage says Arab prosody was digested into rules by al Khall Ahmed al
+    Farhdi.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Warriors and horsemen
+  assigned_to:
+  - fig:1
+  basis: The tribes practiced arms and horsemanship because disputes and independence
+    made wars frequent.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Divine bestower in proverb
+  assigned_to:
+  - fig:6
+  basis: A usual saying states that God bestowed four peculiar things on the Arabs.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: Hospitality exemplars
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Hatem and Hasn are named as particularly famous for hospitality.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Reproached ungenerous community
+  assigned_to:
+  - fig:9
+  basis: A poet uses the inhabitants of Waset as an example of the reproached contrary
+    vice to hospitality.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: Misread scholar and victim
+  assigned_to:
+  - fig:10
+  basis: Abu Jaafar's metrical analysis was mistaken for a charm, and he died after
+    being pushed into the water.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: Suspicious misinterpreters
+  assigned_to:
+  - fig:11
+  basis: The passersby misunderstood Abu Jaafar and pushed him into the water.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Ocadh assembly and fair
+  literal_form: Annual month-long fair or mart at Ocadh where trading and poetry competition
+    occurred.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Golden verses
+  literal_form: The celebrated al Moallakat, described as written on Egyptian silk
+    in letters of gold.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Caaba as place of public honor
+  literal_form: The Caaba, where the celebrated poems are said to have been hung by
+    public order.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Turbans instead of diadems
+  literal_form: Turbans named in the proverb as the Arab equivalent of diadems.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Tents instead of walls and houses
+  literal_form: Tents named in the proverb as the Arab equivalent of walls and houses.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Swords instead of entrenchments
+  literal_form: Swords named in the proverb as the Arab equivalent of entrenchments.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Poems instead of written laws
+  literal_form: Poems named in the proverb as the Arab equivalent of written laws.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Giving as hospitality marker
+  literal_form: The act of giving, invoked both in praise of hospitality and in reproach
+    of Waset.
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: Nile water at the Nilometer
+  literal_form: The Nile water near the Mikyas or Nilometer, connected with low rise,
+    feared famine, and Abu Jaafar's death.
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: Mistaken charm
+  literal_form: Abu Jaafar's metrical analysis, misheard as a charm to hinder the
+    rise of the river.
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ocadh poetic fair
+  summary: Tribes gather for a month at Ocadh, trade, recite poems, and compete for
+    a prize.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preservation and public honor of excellent poems
+  summary: Excellent poems are placed in kings' treasuries, and the seven al Moallakat
+    receive public honor as golden verses.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Suppression, loss, and revival of poetry
+  summary: Mohammed suppresses the Ocadh fair and assembly; poetry is neglected during
+    conquests, later revived, while many older poems are lost because they depended
+    on memory.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Martial tribal life and four Arab substitutes
+  summary: Because tribal conflicts are frequent, Arabs practice arms and horsemanship;
+    a saying attributes four distinctive substitutes to God's gift.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Hospitality praised and stinginess reproached
+  summary: Hospitality is presented as a highly esteemed habit, with Hatem and Hasn
+    as famous examples and Waset as a target of poetic reproach.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Prosody mistaken for a charm at the Nile
+  summary: At the Nilometer, Abu Jaafar analyzes poetic meter during a low Nile year;
+    passersby interpret his speech as a charm against the river's rise and push him
+    into the water.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Poetic contest at communal fair
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes a recurring communal assembly where poems are publicly
+    recited and judged in competition.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is presented as historical-cultural custom rather than a mythic episode.
+- id: motif:2
+  label: Golden preservation of revered compositions
+  taxonomy_refs:
+  - wisdom
+  basis: Excellent poems are preserved in treasuries and the al Moallakat are associated
+    with gold letters, silk, and public honor at the Caaba.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage itself notes alternate explanations for the name al Moallakat;
+    the symbolic reading should remain cautious.
+- id: motif:3
+  label: Oral memory vulnerable to cultural interruption
+  taxonomy_refs:
+  - wisdom
+  basis: The loss of ancient poetry is explained by reliance on memory and rarity
+    of writing, followed by later revival of learning.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an explanatory historical pattern, not a narrative motif with
+    named actors.
+- id: motif:4
+  label: Divinely bestowed tribal emblems as substitutes for institutions
+  taxonomy_refs: []
+  basis: A proverb says God gave Arabs turbans for diadems, tents for houses, swords
+    for defenses, and poems for written laws.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports this as a usual saying; it does not develop a full
+    myth of origin.
+- id: motif:5
+  label: Hospitality as honor and lack of giving as reproach
+  taxonomy_refs: []
+  basis: Hospitality is described as habitual and esteemed, while failure to give
+    is treated as a severe poetic reproach.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No explicit ritual or supernatural exchange is stated in this passage.
+- id: motif:6
+  label: Learned speech mistaken for water-controlling charm
+  taxonomy_refs: []
+  basis: The note tells of a grammarian's prosodic analysis being mistaken for a charm
+    preventing the Nile from rising, leading to his death in the water.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a footnote anecdote rather than part of the main descriptive paragraph.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2037-2044
+  quote_or_summary: The tribes held an annual assembly at Ocadh, a fair or mart, lasting
+    a month, where they traded and repeated poetical compositions while vying for
+    a prize.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:2
+  type: summary
+  locator: 2044-2052
+  quote_or_summary: Poems judged excellent were put in kings' treasuries; the seven
+    al Moallakat are described as honored at the Caaba and written on Egyptian silk
+    in gold letters.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:3
+  type: summary
+  locator: 2053-2064
+  quote_or_summary: Mohammed suppressed the Ocadh fair and assembly; poetry was neglected
+    during conquests, later revived with learning, and many older poems were lost
+    because they were preserved mainly in memory while writing was rare.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:4
+  type: summary
+  locator: 2065-2074
+  quote_or_summary: Frequent tribal wars encouraged arms and horsemanship; a saying
+    states that God gave Arabs turbans, tents, swords, and poems in place of diadems,
+    houses, entrenchments, and written laws.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:5
+  type: summary
+  locator: 2075-2082
+  quote_or_summary: Hospitality is described as highly esteemed; Hatem and Hasn are
+    named as famous examples, and Waset is reproached in verse for lack of giving
+    or refusal.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text.
+- id: ev:6
+  type: summary
+  locator: 2083-2091
+  quote_or_summary: A note reports that Abu Jaafar analyzed poetic meter by the Nilometer
+    during a low Nile year; passersby thought he was uttering a charm to stop the
+    river's rise and pushed him into the water, where he died.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied English passage. Candidate motifs are
+    mostly cultural-historical patterns rather than full mythic narratives. No external
+    comparison claims were extracted because the passage does not support them directly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used; source footnote anecdotes within the line range were treated as part of the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2037-l2091
+  passage_sha256=ca674ee8a54ba9301ad6fed0cf7591cd36b7f15245ecf8c5f2928dcdf4edeee4
+

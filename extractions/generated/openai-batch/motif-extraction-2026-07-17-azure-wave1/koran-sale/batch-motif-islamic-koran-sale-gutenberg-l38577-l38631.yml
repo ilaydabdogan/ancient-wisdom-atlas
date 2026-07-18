@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38577-l38631
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCI. / ENTITLED, THE SUN;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38577-38631
+  start: '38577'
+  end: '38631'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter XCI, “The Sun,” opens with oaths by cosmic phenomena and by the
+    formed soul endowed with moral distinction and choice. It contrasts purification
+    and corruption of the soul, then recalls Thamud rejecting the prophet Saleh, slaying
+    the camel of God despite warning, and being destroyed by their Lord for their
+    crime.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage swears by the sun and its brightness, the moon following it, the
+    day showing splendor, and the night covering it with darkness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The passage swears by heaven and the one who built it, by earth and the one
+    who spread it forth, and by the soul and the one who formed it.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The soul is described as inspired with a faculty of distinguishing and a power
+    of choosing wickedness and piety.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The one who purifies the soul is called happy, while the one who corrupts
+    it is called miserable.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thamud accused their prophet Saleh of imposture through excess wickedness.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A wretch among Thamud was sent to slay the camel, and the apostle of God told
+    them to leave the camel of God alone and not hinder her drinking.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: They charged the apostle with imposture and slew the camel.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Their Lord destroyed them for their crime, made their punishment equal to
+    them all, and is said not to fear the issue thereof.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: GOD / LORD
+  description: The deity named in the invocation, in the phrase “apostle of GOD,”
+    and as the Lord who destroys Thamud; the oath clauses also refer to one who built
+    heaven, spread earth, and formed the soul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Thamud
+  description: A people who accuse their prophet Saleh of imposture, are associated
+    with the camel’s slaying, and are destroyed for their crime.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Saleh / apostle of GOD
+  description: The prophet of Thamud, accused of imposture, who tells them to leave
+    the camel of God alone and not hinder her drinking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the wretch among Thamud
+  description: A figure among Thamud who is sent to slay the camel.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: camel of GOD
+  description: A female camel called the camel of God; her drinking is not to be hindered,
+    and she is slain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine maker and judge
+  assigned_to:
+  - fig:1
+  basis: The passage names God/Lord, associates the deity with an apostle, cosmic
+    forming language, and the destruction of Thamud for their crime.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: accusing and punished community
+  assigned_to:
+  - fig:2
+  basis: Thamud accuse Saleh, are linked to the slaying of the camel, and are destroyed
+    for their crime.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: prophet and warning messenger
+  assigned_to:
+  - fig:3
+  basis: Saleh is called their prophet and the apostle of God; he warns them not to
+    interfere with the camel.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: camel-slayer agent
+  assigned_to:
+  - fig:4
+  basis: The passage says the wretch among them was sent to slay the camel.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: divinely marked victim animal
+  assigned_to:
+  - fig:5
+  basis: The camel is called the camel of God, is protected by the apostle’s warning,
+    and is slain.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: sun and brightness
+  literal_form: the Sun and its rising brightness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: moon following the sun
+  literal_form: the moon when she followeth him
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: day and night contrast
+  literal_form: day showing splendor; night covering with darkness
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: heaven and earth
+  literal_form: heaven built; earth spread forth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: soul with moral distinction
+  literal_form: the soul, formed and inspired to distinguish and choose wickedness
+    and piety
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: camel of God
+  literal_form: female camel called the camel of GOD
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cosmic oath and moral soul
+  summary: The passage invokes sun, moon, day, night, heaven, earth, and the formed
+    soul, then states that the soul has moral distinction and that purification and
+    corruption lead to opposite outcomes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Thamud reject Saleh and the camel is slain
+  summary: Thamud accuse Saleh of imposture; a wretch among them is sent to kill the
+    camel; Saleh warns them to leave the camel of God alone and not hinder her drinking;
+    they nevertheless slay her.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Destruction of Thamud
+  summary: After the camel is slain, their Lord destroys Thamud for their crime and
+    makes the punishment equal to all of them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Cosmic oath framing moral order
+  taxonomy_refs: []
+  basis: The opening sequence invokes repeated cosmic witnesses before turning to
+    the formed soul and its moral capacities.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific listed taxonomy family directly covers the oath form; the
+    label is descriptive.
+- id: motif:2
+  label: Moral duality of the soul
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly contrasts wickedness with piety and purification with
+    corruption, with opposite outcomes of happiness and misery.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level moral contrast, not a claim about a broader dualist
+    cosmology.
+- id: motif:3
+  label: Rejected prophet and divinely marked animal
+  taxonomy_refs: []
+  basis: Thamud reject Saleh and slay the camel called the camel of God despite his
+    instruction to leave her alone and allow her drinking.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not narrate the camel’s earlier origin or test function;
+    only the warning, killing, and aftermath are present.
+- id: motif:4
+  label: Divine judgment for collective crime
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Lord destroys Thamud for their crime and makes their punishment equal
+    to them all.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives a concise punishment notice rather than an extended
+    judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 38577-38631; chapter heading and invocation
+  quote_or_summary: The passage is headed Chapter XCI, “The Sun,” revealed at Mecca,
+    and opens in the name of the most merciful God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 38577-38631; opening oath sequence
+  quote_or_summary: The passage swears by the sun and its brightness, the moon following
+    it, the day showing splendor, the night covering with darkness, heaven and its
+    builder, earth and its spreader, and the soul and its former.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 38577-38631; soul and moral outcome statements
+  quote_or_summary: The soul is described as inspired with a faculty of distinguishing
+    and a power of choosing wickedness and piety; the purified soul is happy and the
+    corrupted soul miserable.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 38577-38631; Thamud, Saleh, and camel warning
+  quote_or_summary: Thamud accuse their prophet Saleh of imposture; a wretch among
+    them is sent to slay the camel; the apostle of God commands them to leave the
+    camel of God alone and not hinder her drinking.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 38577-38631; camel slain and punishment
+  quote_or_summary: They charge the apostle with imposture and slay the camel; their
+    Lord destroys them for their crime, makes their punishment equal to all, and does
+    not fear the issue.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are descriptive and use available taxonomy only where directly supported. No comparison_claims
+    were generated because the passage itself does not support a specific cross-text
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage includes translator notes interleaved with the chapter text; extraction focuses on the chapter oath, moral statements, and Thamud-Saleh camel episode present in the supplied range.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38577-l38631
+  passage_sha256=36c679f9a56e194f05556cf6a523bc502bad155a10c86734bde43063ed31c916
+

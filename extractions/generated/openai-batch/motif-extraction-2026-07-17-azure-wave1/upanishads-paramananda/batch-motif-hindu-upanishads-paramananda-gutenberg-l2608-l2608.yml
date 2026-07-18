@@ -1,0 +1,93 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l2608-l2608
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: Part Second / Part Third / Part fourth / OM! PEACE! PEACE! PEACE!; lines
+    2608-2608
+  start: '2608'
+  end: '2608'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: OM! PEACE! PEACE! PEACE!
+  summary: A closing or invocatory formula consists of OM followed by PEACE repeated
+    three times.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contains the utterance OM followed by three utterances of PEACE.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The word PEACE is repeated three times.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: OM utterance
+  literal_form: OM
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: threefold peace utterance
+  literal_form: PEACE! PEACE! PEACE!
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: OM and threefold peace formula
+  summary: 'The passage presents a brief formula: OM followed by PEACE repeated three
+    times.'
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: threefold peace invocation
+  taxonomy_refs: []
+  basis: The passage consists of OM and a threefold repetition of PEACE.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The line is very brief; any ritual or theological function beyond the
+    words themselves is not specified in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '2608'
+  quote_or_summary: OM! PEACE! PEACE! PEACE!
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    by the single-line passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or taxonomy-supported symbols are explicitly present in this short passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l2608-l2608
+  passage_sha256=568a377a328bba8a4268b597a667cefe74c8ce73868c0ec6269836af3a4dcf15
+

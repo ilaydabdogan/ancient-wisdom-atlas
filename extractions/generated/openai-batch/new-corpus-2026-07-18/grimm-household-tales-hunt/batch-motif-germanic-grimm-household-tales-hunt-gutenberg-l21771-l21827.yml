@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l21771-l21827
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 21771-21827
+  start: '21771'
+  end: '21827'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: He saw everything, criticised everything, knew everything best, and was always
+    in the right.
+  summary: The passage characterizes Master Pfriem as a restless, fault-finding shoemaker
+    who criticizes people in the street, his household, other workers, and his apprentice.
+    The passage ends when the apprentice points out that a badly cut shoe Pfriem condemns
+    is actually Pfriem's own work.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Master Pfriem is described as short, thin, lively, restless, pale-faced, gray-haired,
+    watchful, and constantly critical.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While moving his arms in the street, Pfriem knocks a girl's water pail into
+    the air, gets wet, and blames the girl for not seeing him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pfriem works as a shoemaker, criticizes apprentices' work, strikes an apprentice
+    with a strap, calls apprentices sluggards, and produces little work because he
+    does not sit still.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When his wife lights the morning fire, Pfriem runs into the kitchen and accuses
+    her of making an excessive fire and wasting wood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pfriem scolds servants at the wash-tubs for talking, using fresh soap, and
+    working idly, then knocks over a pail of soap and water so the kitchen is flooded.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Pfriem watches a new house being built and criticizes the sandstone, stone-laying,
+    and mortar, predicting the house will tumble down.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Pfriem criticizes carpenters for not working by the line, takes an axe to
+    demonstrate cutting, then leaves to criticize a peasant for yoking young horses
+    to a heavily laden cart.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: When Pfriem condemns a broad shoe handed to him by the apprentice, the apprentice
+    says it is the shoe Pfriem himself cut out and had knocked from the table.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The apprentice adds that even an angel from heaven would not make Pfriem believe
+    the correction.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Master Pfriem
+  description: A restless, fault-finding shoemaker who criticizes others in many settings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: girl carrying water
+  description: A girl whose pail is struck by Pfriem in the street and who is blamed
+    by him afterward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pfriem's wife
+  description: She gets up early and lights the kitchen fire, after which Pfriem accuses
+    her of making too large a fire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: servants at the wash-tubs
+  description: Servants who stand by wash-tubs laughing and talking before Pfriem
+    scolds them and overturns soap water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: builders and carpenters
+  description: Workers building a new house whom Pfriem criticizes for materials,
+    mortar, stone-laying, and work by the line.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: peasant with clay cart
+  description: A peasant walking beside a heavily laden cart drawn by young horses,
+    whom Pfriem criticizes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Pfriem's apprentice
+  description: An apprentice who receives Pfriem's criticism and later identifies
+    the condemned shoe as Pfriem's own work.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: fault-finding central figure
+  assigned_to:
+  - fig:1
+  basis: Pfriem is repeatedly described as criticizing others, claiming to know best,
+    and blaming others for errors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: outside target of criticism
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: These figures are encountered outside Pfriem's household or workshop and
+    are criticized or blamed by him.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:3
+  label: household or workshop subordinate target
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:7
+  basis: These figures are in Pfriem's household or workshop sphere and receive his
+    accusations, scolding, or correction.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:4
+  label: revealer of Pfriem's own error
+  assigned_to:
+  - fig:7
+  basis: The apprentice states that the badly cut shoe Pfriem condemns is the one
+    Pfriem himself cut out.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: The kitchen fire lit by Pfriem's wife in the morning.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: A girl's pail of water and a pail of soap and water overturned in
+    the kitchen.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: badly cut shoe
+  literal_form: A broad shoe that Pfriem condemns and the apprentice identifies as
+    Pfriem's own work.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: axe
+  literal_form: An axe Pfriem snatches from a carpenter's hand in order to demonstrate
+    how cutting should be done.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Restless critic introduced and street accident
+  summary: Pfriem is introduced as constantly critical, then knocks a water pail into
+    the air and blames the girl carrying it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Workshop criticism of apprentices
+  summary: As a shoemaker, Pfriem finds fault with apprentices' work, strikes an apprentice
+    with a strap, and calls apprentices sluggards.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Household scolding over fire and washing
+  summary: Pfriem scolds his wife for lighting a large fire and scolds servants at
+    the wash-tubs before overturning soap water in the kitchen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Criticism of builders and peasant
+  summary: Pfriem criticizes house-building materials and methods, seizes an axe to
+    demonstrate work to carpenters, then criticizes a peasant's use of young horses
+    with a heavy cart.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Condemned shoe revealed as Pfriem's own work
+  summary: Pfriem condemns a shoe for being too broad, and the apprentice explains
+    that Pfriem himself cut it out before knocking it from the table.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: habitual fault-finder corrects everyone
+  taxonomy_refs: []
+  basis: Pfriem repeatedly criticizes a girl, apprentices, his wife, servants, builders,
+    carpenters, and a peasant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a narrative pattern in the passage; no supplied taxonomy family
+    is a precise match.
+- id: motif:2
+  label: critic exposed by his own defective work
+  taxonomy_refs: []
+  basis: Pfriem condemns a shoe as badly cut, but the apprentice identifies it as
+    Pfriem's own work.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage provides the reversal but does not state a broader comparative
+    motif name.
+- id: motif:3
+  label: obstinacy resistant to correction
+  taxonomy_refs: []
+  basis: The apprentice says that even an angel from heaven would not make Pfriem
+    believe that the defective shoe was his own work.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This rests on one concluding speech and should be reviewed before broader
+    classification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 21771-21777
+  quote_or_summary: Master Pfriem is described as short, thin, lively, restless, marked
+    by small-pox, gray-haired, watchful, and as one who 'saw everything, criticised
+    everything, knew everything best.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; short quotation from provided passage.
+- id: ev:2
+  type: summary
+  locator: 21777-21782
+  quote_or_summary: In the street, Pfriem rows his arms about, knocks a water-carrying
+    girl's pail into the air, gets wet, and calls her stupid for not seeing him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 21782-21791
+  quote_or_summary: Pfriem is a shoemaker who criticizes apprentices' work, gives
+    an apprentice strokes with a strap, calls apprentices sluggards, and produces
+    little because he cannot sit still.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 21791-21796
+  quote_or_summary: When his wife rises early and lights the fire, Pfriem runs barefoot
+    to the kitchen and accuses her of risking the house and wasting wood.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 21796-21802
+  quote_or_summary: Pfriem scolds servants at the wash-tubs for gossip, fresh soap,
+    extravagance, and idleness, then knocks over soap water so the kitchen is flooded.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 21802-21811
+  quote_or_summary: Watching a new house being built, Pfriem condemns the red sandstone,
+    stone-laying, and mortar, saying the house will fall on its inhabitants.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 21811-21817
+  quote_or_summary: Pfriem criticizes carpenters for not working by the line, snatches
+    an axe to demonstrate, then abandons it to rebuke a peasant for using young horses
+    on a heavily laden clay cart.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: 21817-21827
+  quote_or_summary: Back in the workshop, Pfriem condemns a broad shoe; the apprentice
+    replies that Pfriem himself cut it out and knocked it from the table, and says
+    even an angel from heaven would not convince him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the provided passage. Motif labels
+    are generic because the available taxonomy contains no precise match for this
+    comic moral pattern. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact, inheritance, or cross-tradition comparison is asserted from this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l21771-l21827
+  passage_sha256=9829cde03424109ebedb6e3c828f0cde1e7f97ebcdd2da13bec9fe5efcd42eb7
+

@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l3121-l3214
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION. / COMMENTARY ON THE
+    PENNSYLVANIA TABLET.; lines 3121-3214
+  start: '3121'
+  end: '3214'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentary on Old Babylonian Gilgamesh lines explains a difficult phrase
+    as referring to the marriage act, identifies a legitimate wife and monogamy as
+    the social norm, interprets an umbilical-cord phrase as meaning destiny from birth,
+    and describes Enkidu accepting the woman’s advice and proceeding with her toward
+    the center of Erech from the city’s outskirts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary interprets the phrase rendered literally as opening the net
+    and performing the act for marriage as designating fulfillment of the marriage
+    act.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says the line presents marriage with sexual intercourse as
+    one of the duties of man and connects the speech with an advance to civilized
+    life.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The commentary identifies assat simtim as the legitimate wife and states that
+    the line inculcates monogamy against promiscuous sexual intercourse.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentary interprets the cutting of the umbilical cord as meaning from
+    birth and as marking the beginning of separate life.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary says the concluding address to Enkidu emphasizes man’s fate
+    as destined from birth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentary reconstructs a broken section as describing the effect of the
+    address on Enkidu and his readiness to accept the advice.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Enkidu and the woman proceed to the heart of the city, with Enkidu in front
+    and the woman behind him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The earlier scene is placed outside Erech, in the suburbs or approaches to
+    the city, where meadows and sheepfolds were situated.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The commentary identifies ummanum as the people of Erech rather than artisans.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The commentary explains pukku as a construct form meaning net and as capable
+    of designating the female organ in this context.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: The addressee who is said to accept advice and proceed toward the heart
+    of the city with the woman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the woman
+  description: The woman whose advice Enkidu is said to accept and who goes behind
+    him as they proceed to the city.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Gish
+  description: The hero whose introduction in the lines is described by the commentary
+    as puzzling and possibly due to later additions connecting the speech with him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: legitimate wife
+  description: The assat simtim, described as the legalized spouse in the commentary’s
+    explanation of monogamy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: people of Erech
+  description: The collective group identified by the commentary as the people of
+    Erech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of civilizing address
+  assigned_to:
+  - fig:1
+  basis: The address to Enkidu is said to conclude with destiny from birth, and the
+    broken passage is reconstructed as showing his readiness to accept the advice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: adviser and companion on approach to city
+  assigned_to:
+  - fig:2
+  basis: The passage says Enkidu accepts the advice and that the woman accompanies
+    him behind as they proceed to the city.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: hero connected to the speech
+  assigned_to:
+  - fig:3
+  basis: The commentary says lines mentioning Gish may be later additions connecting
+    the speech about civilized life with the hero.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: legal spouse
+  assigned_to:
+  - fig:4
+  basis: The commentary identifies the assat simtim as the legitimate wife and as
+    the one recognized as legalized spouse.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: urban collective
+  assigned_to:
+  - fig:5
+  basis: The commentary identifies the term as the people of Erech.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: net or enclosure
+  literal_form: pukku, explained as net or enclosure and applied to the female organ
+    in the marriage-act line
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:1
+- id: sym:2
+  label: umbilical cord
+  literal_form: cutting of the umbilical cord, interpreted as from birth and as the
+    beginning of separate life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heart of the city
+  literal_form: the heart of the city of Erech, reached after movement from the suburbs
+    or approaches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: meadows and sheepfolds outside Erech
+  literal_form: suburbs or approaches to the city where meadows and sheepfolds were
+    situated
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction on marriage and legitimate wife
+  summary: The commentary explains difficult lines as teaching marriage with sexual
+    intercourse and the social norm of a legitimate wife, presenting these as part
+    of civilized life.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Birth and destiny statement
+  summary: The address to Enkidu is interpreted as concluding that man’s fate is destined
+    from birth, expressed through the cutting of the umbilical cord.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Approach to Erech
+  summary: After the broken passage, Enkidu is said to accept the advice and proceed
+    with the woman from the outskirts toward the heart of Erech.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: initiation into civilized life through social and sexual norms
+  taxonomy_refs:
+  - initiation
+  basis: The commentary explicitly connects the speech with an advance to civilized
+    life and identifies marriage, sexual intercourse, and legitimate wifehood as duties
+    or norms set before Enkidu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is commentary rather than direct narrative text, and the commentary
+    notes uncertainty about the insertion of Gish.
+- id: motif:2
+  label: movement from outskirts to city center
+  taxonomy_refs:
+  - departure
+  basis: The passage places the preceding scene outside Erech among meadows and sheepfolds,
+    then states that Enkidu and the woman proceed to the heart of the city.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The movement is brief and reconstructed around a textual break; the departure
+    taxonomy fit is functional rather than exact.
+- id: motif:3
+  label: fate assigned from birth
+  taxonomy_refs: []
+  basis: The commentary interprets the cutting of the umbilical cord as from birth
+    and says the address emphasizes man’s fate as destined from birth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this motif without adding
+    unsupported sacred-birth interpretation.
+- id: motif:4
+  label: monogamous marriage as social order
+  taxonomy_refs: []
+  basis: The commentary says assat simtim means legitimate wife and that the line
+    inculcates monogamy against promiscuous sexual intercourse.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames this as a social/legal norm; it does not present the
+    marriage as sacred or divine.
+comparison_claims:
+- id: claim:1
+  claim: The commentary makes a linguistic comparison between Old Babylonian pukku
+    and uses of pukku in the Assyrian Gilgamesh tradition, where it is said to mean
+    net.
+  claim_level: linguistic_similarity
+  target: Assyrian version of Gilgamesh passages using pukku
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a philological comparison supplied by the commentator, not
+    a claim of shared motif or historical contact.
+- id: claim:2
+  claim: The commentary compares wording connected with epsu and the sexual act to
+    Assyrian Gilgamesh phrasing and to a lexical explanation cited from the Assyrian
+    Creation Myth.
+  claim_level: linguistic_similarity
+  target: Assyrian Gilgamesh sexual-act phrasing and Assyrian Creation Myth lexical
+    usage
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns word usage and interpretation of a phrase;
+    it does not establish a shared narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3121-3148
+  quote_or_summary: The commentary rejects an alternate rendering, explains the phrase
+    as literally opening the net and performing the act for marriage, and says it
+    designates the fulfillment of the marriage act as a duty of man within a speech
+    about advance to civilized life.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3150-3164
+  quote_or_summary: The commentary identifies assat simtim as the legitimate wife,
+    says the line inculcates monogamy against promiscuous sexual intercourse, and
+    discusses the legalized spouse in Babylonian practice.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3166-3203
+  quote_or_summary: The commentary discusses abunnatu, argues for umbilical cord or
+    navel, and interprets the cutting of the umbilical cord as from birth, marking
+    separate life and emphasizing man’s destined fate in the address to Enkidu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3205-3212
+  quote_or_summary: The commentary reconstructs the broken lines as showing the effect
+    of the address on Enkidu and his readiness to accept advice; Enkidu and the woman
+    then proceed to the heart of the city, from a scene outside Erech among meadows
+    and sheepfolds.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3214-3214
+  quote_or_summary: The commentary says ummanum are the people of Erech, not artisans.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3121-3134
+  quote_or_summary: The commentary says pukku occurs in the Assyrian version in the
+    sense of net and can also be related to enclosure terms used euphemistically for
+    the female organ.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3135-3142
+  quote_or_summary: The commentary cites Assyrian Gilgamesh expressions and a Creation
+    Myth lexical explanation to support epsu as usage connected with the sexual act.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily scholarly commentary with some reconstructed narrative
+    content. Literal extraction is strongest for the commentator’s explicit interpretations;
+    motif labels require review because several depend on reconstruction and commentary
+    rather than direct preserved narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy references were assigned; the passage mentions no water, fire, tree, serpent, mountain, cave, or milk symbol in a motif-relevant way.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l3121-l3214
+  passage_sha256=a0da16a8b01b3bc9cd348b4cb5866a73012998fe9b7e27483588d28303c08d51
+

@@ -1,0 +1,460 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l247-l338
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: 'CONTENTS: / PREFACE. / THE GOSPEL OF THE BIRTH OF MARY. / CHAPTER I.; lines
+    247-338'
+  start: '247'
+  end: '338'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Mary’s Davidic parentage and temple upbringing,
+    names Joachim and Anna as her parents, describes their pious household practices
+    and childlessness, recounts their vow to devote any child to the Lord, and narrates
+    Joachim’s reproach by the high priest Isachar at Jerusalem because he has no children,
+    after which Joachim withdraws in shame to the shepherds and pastures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mary is described as a blessed and ever glorious Virgin from the royal race
+    and family of David, born in Nazareth and educated in the temple at Jerusalem.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joachim is named as Mary’s father and Anna as her mother; Joachim’s family
+    is associated with Galilee and Nazareth, and Anna’s family with Bethlehem.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Joachim and Anna are described as plain, righteous, pious, and faultless,
+    and as dividing their substance into three portions for the temple, the poor and
+    strangers, and their own household.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: They lived about twenty years without children, vowed to devote any issue
+    granted by God to the Lord’s service, and attended every yearly feast at the temple.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When the feast of the dedication approached, Joachim went up to Jerusalem
+    with others of his tribe while Isachar was high priest.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Isachar saw Joachim bringing offerings, despised Joachim and the offerings,
+    and questioned why a childless man appeared among those who had children.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Isachar said Joachim’s offerings could not be acceptable to God and cited
+    a scriptural curse on one who does not beget a male in Israel.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Isachar further said Joachim should first be free from the curse by begetting
+    issue before coming into God’s presence with offerings.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Joachim, ashamed by the reproach, retired to the shepherds with the cattle
+    in the pastures and avoided returning home because his neighbours had heard the
+    high priest’s words.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mary
+  description: The blessed and ever glorious Virgin Mary, of the royal race and family
+    of David, born at Nazareth and educated in the temple at Jerusalem.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Joachim
+  description: Mary’s father, from Galilee and Nazareth; pious, childless for about
+    twenty years, maker of offerings, reproached by the high priest, and later withdrawn
+    to the shepherds.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Anna
+  description: Mary’s mother, whose family is from Bethlehem; with Joachim she is
+    described as pious, faultless, childless for about twenty years, and party to
+    the vow concerning any issue.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Isachar
+  description: The high priest at the time Joachim went to Jerusalem for the feast
+    of dedication; he reproaches Joachim for childlessness and rejects his offerings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Joachim’s neighbours and tribal companions
+  description: Others of Joachim’s tribe or neighbours are present when he brings
+    offerings and hear the high priest’s reproach.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Shepherds
+  description: Shepherds who are with the cattle in the pastures, to whom Joachim
+    retires after being reproached.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Davidic virgin and temple-educated child
+  assigned_to:
+  - fig:1
+  basis: Mary is described as a Virgin from David’s royal family, born in Nazareth
+    and educated in the Jerusalem temple.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Parents of Mary
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage names Joachim as Mary’s father and Anna as her mother.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Pious childless vow-makers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: They live piously without children for about twenty years and vow to devote
+    any issue to the Lord’s service.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: High priest and reprover
+  assigned_to:
+  - fig:4
+  basis: Isachar is identified as high priest and reproaches Joachim for appearing
+    with offerings while childless.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: Witnessing neighbours and companions
+  assigned_to:
+  - fig:5
+  basis: Joachim comes with others of his tribe, and his neighbours are present and
+    hear the high priest’s reproach.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: Shepherds in the pastures
+  assigned_to:
+  - fig:6
+  basis: Joachim retires to the shepherds who are with the cattle in their pastures.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Temple of the Lord
+  literal_form: The temple at Jerusalem / temple of the Lord
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Threefold division of substance
+  literal_form: Three portions of household substance devoted to temple, poor and
+    strangers, and family use
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Vow to devote a child
+  literal_form: A vow that any issue granted by God would be devoted to the service
+    of the Lord
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Offerings questioned because of childlessness
+  literal_form: Joachim’s offerings brought at the feast and despised by the high
+    priest
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: Childlessness framed as curse
+  literal_form: The cited saying that one who does not beget a male in Israel is cursed
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Mary’s lineage and upbringing
+  summary: The narrative introduces Mary as Davidic, born in Nazareth, educated at
+    the Jerusalem temple, and the daughter of Joachim and Anna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pious household, charity, childlessness, and vow
+  summary: Joachim and Anna are described as righteous householders who distribute
+    their substance in three parts, live childless for about twenty years, and vow
+    to dedicate any child to the Lord.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Feast pilgrimage and high-priestly reproach
+  summary: Joachim goes up to Jerusalem for the feast of dedication, brings offerings,
+    and is reproached by Isachar because he has no children.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Joachim’s shame and withdrawal
+  summary: After the reproach, Joachim withdraws to the shepherds in the pastures
+    rather than return home to neighbours who heard the public accusation.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Royal lineage legitimization
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Mary’s origin is explicitly tied to the royal race and family of David.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states lineage but does not elaborate a political claim beyond
+    Davidic descent.
+- id: motif:2
+  label: Sacred birth framing
+  taxonomy_refs:
+  - sacred_birth
+  basis: The chapter concerns Mary’s birth and parentage, presents her as blessed
+    and Davidic, and places her life in relation to the Jerusalem temple and her parents’
+    vow.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This excerpt does not yet narrate conception, annunciation, or the actual
+    birth event; the sacred-birth motif is inferred from the introductory framing
+    and vow.
+- id: motif:3
+  label: Votive child dedication
+  taxonomy_refs:
+  - sacred_exchange
+  - covenant
+  basis: Joachim and Anna vow that if God grants them issue, they will devote the
+    child to the service of the Lord.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage records the vow but does not yet narrate its fulfillment.
+- id: motif:4
+  label: Childlessness as public religious reproach
+  taxonomy_refs: []
+  basis: The high priest rejects Joachim’s offerings and frames his childlessness
+    as a curse that must be removed before he approaches with offerings.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this motif; it is retained
+    as a passage-level candidate pattern.
+- id: motif:5
+  label: Pilgrimage to temple festival
+  taxonomy_refs: []
+  basis: Joachim and others go up to Jerusalem for the feast of dedication and bring
+    offerings at the temple.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents a ritual journey but does not develop it into a larger
+    quest or ascent pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links Joachim’s reproach to an unnamed scriptural saying
+    in which failure to beget a male in Israel is treated as a curse.
+  claim_level: same_function
+  target: scriptural fertility-curse formula cited within the passage
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The source text does not identify the scriptural book or exact citation,
+    so the comparison is limited to the internal appeal to Scripture.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter I.1; lines 247-338
+  quote_or_summary: Mary is introduced as the blessed Virgin, from the royal race
+    and family of David, born in Nazareth and educated in the temple at Jerusalem.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter I.2; lines 247-338
+  quote_or_summary: The passage names Joachim as Mary’s father and Anna as her mother,
+    and gives their family locations as Galilee/Nazareth and Bethlehem.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: Chapter I.3-4; lines 247-338
+  quote_or_summary: Joachim and Anna live plainly and righteously, dividing all their
+    substance among the temple and its officers, strangers and poor persons, and their
+    own family use.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter I.5-6; lines 247-338
+  quote_or_summary: For about twenty years they live chastely, favored by God and
+    esteemed by people, without children; they vow to devote any issue to the Lord
+    and therefore attend every yearly feast at the temple.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter I.7; lines 247-338
+  quote_or_summary: As the feast of dedication draws near, Joachim goes up to Jerusalem
+    with others of his tribe; Isachar is high priest at that time.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: Chapter I.8-9; lines 247-338
+  quote_or_summary: Isachar sees Joachim bringing offerings, despises him and the
+    offerings, asks why a childless man appears among those with children, and says
+    such offerings cannot be acceptable to God, citing a curse on one who does not
+    beget a male in Israel.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: Chapter I.10; lines 247-338
+  quote_or_summary: Isachar says Joachim should first be freed from the curse by begetting
+    issue, and only then come with offerings into God’s presence.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: Chapter I.11-12; lines 247-338
+  quote_or_summary: Joachim, confused and ashamed by the reproach, retires to the
+    shepherds with cattle in their pastures and does not wish to return home because
+    neighbours who heard the high priest might publicly reproach him likewise.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    involving sacred birth are moderate because the passage frames Mary’s birth and
+    parentage but does not yet narrate conception or birth. The comparison claim is
+    limited to the passage’s own unnamed scriptural citation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used; taxonomy references are limited to the supplied available taxonomy list.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l247-l338
+  passage_sha256=51f2c379ba4d4f4c56e4f917c1c16ed79b950ff2aa3b779db013eaf228e2fae1
+

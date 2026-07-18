@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2864-l2911
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2864-2911
+  start: '2864'
+  end: '2911'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes, in Sale's commentary, Mohammed first presenting
+    his role as preaching and admonishing without compulsion, enduring persecution,
+    and withdrawing to Medina. It then describes a shift, after gaining support in
+    Medina, to claimed divine permission for armed defense and later attack, followed
+    by reflections on armed prophets, conversion by the sword, and a contrast with
+    Christianity's early spread under persecution.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Mohammed declared that his business was to preach and admonish,
+    that he had no authority to compel religious adherence, and that belief or unbelief
+    belonged to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Mohammed exhorted his followers to bear injuries patiently
+    and, when persecuted, chose to leave his birthplace and retire to Medina rather
+    than resist.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The commentary attributes Mohammed's early passiveness and moderation to lack
+    of power and the superiority of his opponents during the first twelve years of
+    his mission.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says that, after receiving assistance from those of Medina, Mohammed
+    declared that God allowed him and his followers to defend themselves by arms.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that, as Mohammed's forces increased, he claimed divine permission
+    to attack opponents, destroy idolatry, and set up the true faith by the sword.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage cites a political maxim that armed prophets succeed and unarmed
+    ones fail, naming Moses, Cyrus, Theseus, and Romulus as examples who would not
+    have established their institutions without arms.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The author says Mohammed's taking up arms in self-defense might perhaps be
+    allowed, but questions the later use of arms to establish religion.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes conversion by the sword as generally disapproved when
+    practiced by other religions, yet often accepted by people for advancing their
+    own religion.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage contrasts the alleged progress of Mohammedism by the sword with
+    Christianity's early prevalence through its own truth after long persecution,
+    ending with Roman emperors submitting to it.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Described as first preaching and admonishing without compulsion, leaving
+    his birthplace for Medina under persecution, and later claiming divine permission
+    for armed defense and attack.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: God
+  description: Presented as the one to whom belief or unbelief belongs, and as the
+    source of the claimed permission for Mohammed and his followers to use arms.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mohammed's followers
+  description: Described as exhorted to bear injuries patiently and later included
+    in the claimed permission to defend themselves by arms.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: opposers, enemies, and infidels
+  description: Described as initially superior to Mohammed, persecuting or opposing
+    him, and later becoming the targets of defense and attack.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: those of Medina
+  description: Described as providing assistance that enabled Mohammed to make head
+    against his enemies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Moses, Cyrus, Theseus, and Romulus
+  description: Named as examples in the maxim that armed founders or prophets could
+    establish lasting observance of institutions because they were armed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: unarmed prophets
+  description: Mentioned generically as the group said, in the cited maxim, to have
+    failed.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Roman emperors
+  description: Described as powers who at length submitted to Christianity after its
+    early period of persecution and opposition.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: preacher and admonisher without compulsion
+  assigned_to:
+  - fig:1
+  basis: Mohammed is said to have declared that his business was only to preach and
+    admonish and that he had no authority to compel belief.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: persecuted emigrant and non-resistant sufferer
+  assigned_to:
+  - fig:1
+  basis: He is described as choosing to quit his birthplace and retire to Medina rather
+    than resist when persecuted.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: claimant of divine military permission
+  assigned_to:
+  - fig:1
+  basis: He is said to have declared divine permission first for defense by arms and
+    later for attack and establishment of faith by the sword.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine authority over belief and permission
+  assigned_to:
+  - fig:2
+  basis: The passage says belief belonged solely to God and that Mohammed later claimed
+    God allowed armed defense.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: adherents under injury and later armed defenders
+  assigned_to:
+  - fig:3
+  basis: Followers are described as exhorted to bear injuries and later included in
+    the claimed permission to defend by arms.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: opponents and targets of armed action
+  assigned_to:
+  - fig:4
+  basis: Opposers are described as superior during the early mission, and enemies
+    or infidels as those against whom defense or attack was allowed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: Medinan allies
+  assigned_to:
+  - fig:5
+  basis: Those of Medina are described as assisting Mohammed so that he could confront
+    his enemies.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: armed institution-establishing exemplars
+  assigned_to:
+  - fig:6
+  basis: Moses, Cyrus, Theseus, and Romulus are named as figures who would not have
+    established their institutions for long had they not been armed.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: failed unarmed prophets
+  assigned_to:
+  - fig:7
+  basis: The passage states the maxim that unarmed prophets have failed.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: submitting imperial authorities
+  assigned_to:
+  - fig:8
+  basis: Roman emperors are described as eventually submitting to Christianity.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sword
+  literal_form: the sword as the means by which the passage says the true faith was
+    set up and Mohammedism advanced
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: arms
+  literal_form: weapons or armed force, including defense by arms and armed prophets
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Medina
+  literal_form: place to which Mohammed retired after persecution and from which assistance
+    came
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: non-compulsory preaching and patient endurance
+  summary: Mohammed is described as preaching and admonishing without authority to
+    compel belief, while exhorting followers to bear injuries patiently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: withdrawal from birthplace to Medina
+  summary: When persecuted, Mohammed is described as leaving the place of his birth
+    and retiring to Medina rather than making resistance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: claimed transition to armed defense and attack
+  summary: After gaining Medinan assistance and increased forces, Mohammed is said
+    to have claimed divine permission for armed defense and then for attack, destruction
+    of idolatry, and establishment of faith by the sword.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: armed and unarmed prophets maxim
+  summary: The passage invokes the maxim that armed prophets have succeeded and unarmed
+    ones failed, naming Moses, Cyrus, Theseus, and Romulus as armed exemplars.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: conversion by sword contrasted with Christianity's early spread
+  summary: The author criticizes conversion by the sword, says force is often used
+    by those with power, and contrasts Mohammedism's alleged progress by the sword
+    with Christianity's early endurance of persecution and eventual imperial submission.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: preaching without compulsion under persecution
+  taxonomy_refs: []
+  basis: The passage presents Mohammed's initial role as preaching and admonishing,
+    with no authority to compel belief, alongside exhortations to endure injuries
+    patiently.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is extracted from polemical commentary, not from a narrative episode
+    in the Qur'an itself.
+- id: motif:2
+  label: departure into refuge after persecution
+  taxonomy_refs:
+  - departure
+  basis: Mohammed is said to leave his birthplace and retire to Medina rather than
+    resist persecution.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames the move historically and polemically rather than as
+    a mythic journey.
+- id: motif:3
+  label: divine authorization for armed defense and attack
+  taxonomy_refs: []
+  basis: The passage says Mohammed declared God allowed defense by arms and later
+    claimed divine leave to attack and establish the faith by the sword.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports the author's characterization of Mohammed's claim;
+    it does not provide the Qur'anic passages themselves.
+- id: motif:4
+  label: armed founder establishes institutions
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage cites the maxim that armed prophets succeed and says Moses, Cyrus,
+    Theseus, and Romulus would not have established lasting observance of their institutions
+    without arms.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: 'The taxonomy link is approximate: the passage speaks of armed founders
+    and institutions, not explicitly of culture heroes.'
+- id: motif:5
+  label: religion propagated by sword contrasted with faith surviving persecution
+  taxonomy_refs: []
+  basis: The passage contrasts Mohammedism's alleged progress by the sword with Christianity's
+    early spread through its own truth despite persecutions and worldly powers.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an explicit theological-polemical contrast by the author and should
+    not be treated as a neutral historical conclusion.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly places Mohammed's later armed religious program in
+    comparison with a broader pattern of armed prophets or founders who establish
+    institutions.
+  claim_level: same_function
+  target: Moses, Cyrus, Theseus, and Romulus as armed institution-establishing exemplars
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is mediated through a political maxim attributed in
+    the note to Machiavelli; the passage gives no narrative details about the named
+    figures.
+- id: claim:2
+  claim: 'The passage contrasts two modes of religious spread: Mohammedism allegedly
+    advancing by the sword and Christianity allegedly prevailing through truth after
+    enduring persecution.'
+  claim_level: same_function
+  target: Christianity's early spread under persecution and eventual Roman imperial
+    submission
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is explicitly polemical and theological; it should be
+    recorded as the passage's claim, not as verified historical analysis.
+- id: claim:3
+  claim: The passage states a generalized contrast between armed prophets who succeed
+    and unarmed prophets who fail.
+  claim_level: same_function
+  target: armed prophets versus unarmed prophets as a comparative political-religious
+    pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage presents the claim as a maxim and does not identify specific
+    unarmed prophets or provide supporting cases beyond the listed armed figures.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2864-2868
+  quote_or_summary: Mohammed is said to declare that his role is only to preach and
+    admonish, with no authority to compel belief, and to exhort followers to bear
+    injuries patiently.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 2868-2870
+  quote_or_summary: When persecuted, Mohammed is described as choosing to leave his
+    birthplace and retire to Medina rather than resist.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 2870-2878
+  quote_or_summary: The commentary says early passiveness arose from lack of power;
+    after assistance from Medina, Mohammed claimed divine permission for armed defense
+    and later for attack, destruction of idolatry, and establishment of faith by the
+    sword.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 2878-2884
+  quote_or_summary: The passage gives the maxim that armed prophets succeed and unarmed
+    ones fail, names Moses, Cyrus, Theseus, and Romulus, and says Qur'an chapter 22
+    was the first permission for Mohammed's armed defense.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 2885-2894
+  quote_or_summary: The author allows that armed self-defense might be arguable, questions
+    using arms to establish religion, and criticizes conversion by the sword while
+    noting people's inconsistent judgments about their own and others' religions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 2894-2904
+  quote_or_summary: The passage says force is commonly used by those with power and
+    contrasts Mohammedism's alleged progress by the sword with Christianity's early
+    spread through truth under persecution until Roman emperors submitted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:7
+  type: citation
+  locator: lines 2908-2911
+  quote_or_summary: Footnotes cite Machiavelli, Prince chapter 6, for the armed-prophets
+    maxim and Prideaux's Letter to the Deists for the Christianity comparison.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized citation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an eighteenth-century polemical preliminary discourse rather
+    than a mythic narrative. Literal extraction is straightforward, but motif labels
+    and taxonomy mapping require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Comparisons are limited to those explicitly made in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2864-l2911
+  passage_sha256=3dc0a4bd485c9f4ef3642ddfb95f26c95120498e9d5d3035941318f22bcc5d8d
+

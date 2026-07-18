@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l66-l95
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: The Nibelungenlied / THE NIBELUNGENLIED / PREFACE; lines 66-95
+  start: '66'
+  end: '95'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt is title-page and preface material for George Henry Needler's
+    English verse translation of The Nibelungenlied. It states the translation's purpose,
+    comments on translation and prior versions, explains the translator's metrical
+    aim and introductory historical background, and notes that the translation began
+    during study under Zarncke in Leipzig.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The work is identified as The Nibelungenlied, translated into rhymed English
+    verse in the metre of the original by George Henry Needler.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: George Henry Needler is described as an associate professor of German in University
+    College, Toronto.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The preface states that the translation is published to place a great epic
+    poem within reach of English readers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The preface states that translations are poor substitutes for originals and
+    that a new translation implies criticism of earlier translations.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Needler gives as his reason for a new English version that earlier versions
+    had not reproduced the original metrical form.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Needler says he supplied an Introduction with historical background on the
+    poem's origin and growth to clarify the poem's outlines for the modern reader.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Needler says the translation began many years earlier when he studied the
+    original under Zarncke in Leipzig.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: George Henry Needler
+  description: Named translator of the English verse version and associate professor
+    of German in University College, Toronto.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: English readers
+  description: The audience said to be given access to the epic through the translation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: modern reader
+  description: The audience for whom Needler says he attempted to make the outlines
+    of the poem clearer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Zarncke
+  description: Person under whom Needler says he studied the original in Leipzig.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: The title material names Needler as the translator into rhymed English verse.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: academic affiliation
+  assigned_to:
+  - fig:1
+  basis: Needler is described as associate professor of German in University College,
+    Toronto.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: preface speaker and justifier of translation
+  assigned_to:
+  - fig:1
+  basis: The preface is phrased in the first person as Needler's apology and explanation
+    for the new English version.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: intended reader audience
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage names English readers as the audience reached by the translation
+    and the modern reader as the audience aided by the Introduction.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: teacher or scholarly supervisor
+  assigned_to:
+  - fig:4
+  basis: Needler says he studied the original under Zarncke in Leipzig.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Title and translator identification
+  summary: The excerpt identifies the work, the English verse translation, and George
+    Henry Needler as translator with an academic affiliation.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Purpose and justification of translation
+  summary: The preface frames the translation as a means of access for English readers
+    and justifies it by reference to the limitations of earlier translations, especially
+    their failure to reproduce the original metre.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Historical background and scholarly origin
+  summary: Needler states that he supplied historical background in the Introduction
+    and that the translation began when he studied the original under Zarncke in Leipzig.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 66-77
+  quote_or_summary: '"Translated into Rhymed English Verse in the Metre of the Original";
+    "By George Henry Needler"; "Associate Professor of German in University College,
+    Toronto".'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 80-84
+  quote_or_summary: The translation is published for the purpose of "placing one of
+    the world's great epic poems within the reach of English readers."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 84-86
+  quote_or_summary: '"Translations are at best but poor substitutes for originals"
+    and a new translation "implies also a criticism" of preceding translations.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 86-89
+  quote_or_summary: Needler says his apology for the new English version is that earlier
+    translations had not reproduced the original's metrical form.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 89-92
+  quote_or_summary: Needler says he supplied an Introduction with historical background
+    on the poem's origin and growth to make the poem's outlines clearer for the modern
+    reader.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 92-95
+  quote_or_summary: The translation "was begun many years ago" when Needler "studied
+    the original under Zarncke in Leipzig."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is editorial title-page and preface material rather than narrative
+    mythic content. No supported symbolic objects, taxonomy motifs, or comparative
+    claims were identified from the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or symbols were recorded because the excerpt contains translation preface material only.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l66-l95
+  passage_sha256=a524c68ac434fa7141b6e4e81342caf100973321ffc4967323a666f20cae2de9
+

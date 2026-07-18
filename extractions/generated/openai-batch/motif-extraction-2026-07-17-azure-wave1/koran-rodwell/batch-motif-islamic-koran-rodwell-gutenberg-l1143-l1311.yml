@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l1143-l1311
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 1143-1311
+  start: '1143'
+  end: '1311'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt includes translator notes on early opposition to Muhammad,
+    early converts, and the Fatrah or intermission of revelation, followed by Sura
+    LXXIV, which addresses an enwrapped figure commanded to warn, magnify the Lord,
+    purify raiment, flee abomination, and wait patiently. The sura describes a trumpet,
+    a distressful day for infidels, a wealthy rejecter of signs condemned to Hell-fire,
+    nineteen angelic guardians over the fire, cosmic oaths by Moon, Night, and Morn,
+    moral accountability by works, garden-dwellers questioning the wicked in Hell-fire,
+    the failure of intercession, and the sufficiency of the Koran as warning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressed enwrapped figure is commanded to arise and warn, magnify the
+    Lord, purify raiment, flee abomination, avoid bestowing favors for increase, and
+    wait patiently for the Lord.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A trumpet is associated with a distressful day that is devoid of ease for
+    the infidels.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A created figure with riches and sons rejects signs, plots and plans, and
+    says the message is magic and the word of a mortal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The condemned rejecter is to be cast into Hell-fire.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Hell-fire is described as leaving and sparing nothing, blackening the skin,
+    and having nineteen angels over it.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The guardians of the fire are angels, and their number is said to perplex
+    unbelievers, confirm those possessing Scriptures, and increase believers' faith.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage invokes the Moon, the retreating Night, and the brightening Morn
+    before describing Hell as a grievous warning.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Every soul is said to lie in pledge for its own works, while those of God's
+    right hand are in gardens.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Those in gardens ask the wicked what cast them into Hell-fire.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The wicked answer that they did not pray, did not feed the poor, joined vain
+    disputes, and rejected the day of reckoning until certainty came upon them.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Intercession by interceders is said not to avail the wicked.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Those who turn aside from the Warning are compared to frightened asses fleeing
+    from a lion.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Some desire open pages given to them from Heaven, but the passage says the
+    Koran is warning enough.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The divine speaker who commands the enwrapped figure, creates and judges
+    the rejecter, guides and misleads, and knows the armies of the Lord.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: The enwrapped addressee
+  description: A figure addressed as enwrapped in a mantle and commanded to warn,
+    magnify the Lord, purify raiment, flee abomination, and wait patiently.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Created wealthy rejecter
+  description: A created figure given riches and sons, who opposes the signs, plots,
+    calls the message magic and the word of a mortal, and is condemned to Hell-fire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Nineteen angels
+  description: Angels placed over Hell-fire and identified as guardians of the fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Infidels / unbelievers
+  description: Those for whom the trumpet-day is distressful, who are perplexed by
+    the number of angels, and who turn aside from the Warning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: Those possessing the Scriptures and believers
+  description: Groups for whom the number of angelic guardians serves to confirm certainty,
+    remove doubt, and increase faith.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Those of God's right hand
+  description: A group located in gardens who ask the wicked what cast them into Hell-fire.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: The wicked
+  description: Those in Hell-fire who explain that they did not pray, did not feed
+    the poor, joined vain disputes, and rejected the day of reckoning.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Interceders
+  description: Figures whose intercession is said not to avail the wicked.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine commander and judge
+  assigned_to:
+  - fig:1
+  basis: The Lord commands the enwrapped addressee, speaks of creating and judging
+    the rejecter, and controls guidance and misguidance.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: commissioned warner
+  assigned_to:
+  - fig:2
+  basis: The figure is directly instructed to arise and warn.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: condemned rejecter of signs
+  assigned_to:
+  - fig:3
+  basis: The figure rejects signs, calls the message magic and mortal speech, and
+    is destined for Hell-fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: guardians of Hell-fire
+  assigned_to:
+  - fig:4
+  basis: The angels are described as being over Hell-fire and as guardians of the
+    fire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: resisters of warning
+  assigned_to:
+  - fig:5
+  basis: The unbelievers are distressed, perplexed, and depicted as turning aside
+    from the Warning.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:6
+  label: confirmed hearers
+  assigned_to:
+  - fig:6
+  basis: Those possessing Scriptures and believers are said to become certain, not
+    doubt, and increase in faith.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: righteous questioners in gardens
+  assigned_to:
+  - fig:7
+  basis: Those of God's right hand are in gardens and question the wicked.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: confessing condemned
+  assigned_to:
+  - fig:8
+  basis: The wicked answer why they were cast into Hell-fire.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: ineffective intercessors
+  assigned_to:
+  - fig:9
+  basis: The passage states that intercession of interceders shall not avail the wicked.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mantle and raiment
+  literal_form: The mantle in which the addressee is enwrapped, and the raiment the
+    addressee is commanded to purify.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: trumpet
+  literal_form: A trumpet sounded before a distressful day.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Hell-fire
+  literal_form: Hell-fire that leaves nothing, spares nothing, blackens skin, and
+    contains the wicked.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: nineteen angelic guardians
+  literal_form: Nineteen angels over the fire.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Moon, Night, and Morn
+  literal_form: The Moon, the retreating Night, and the brightening Morn invoked in
+    oaths.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: God's right hand and gardens
+  literal_form: Those of God's right hand dwelling in gardens.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: open pages from Heaven
+  literal_form: Open pages requested from Heaven.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: asses fleeing from a lion
+  literal_form: Affrighted asses fleeing from a lion as an image for turning aside
+    from the Warning.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Commissioning of the enwrapped warner
+  summary: The enwrapped addressee is commanded to arise, warn, magnify the Lord,
+    purify raiment, flee abomination, refuse self-increasing favors, and wait patiently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Trumpet and distressful day
+  summary: A trumpet is sounded, bringing a distressful day without ease for infidels.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Condemnation of the wealthy rejecter
+  summary: A richly endowed created figure rejects signs, plots, calls the message
+    magic and mortal speech, and is assigned to Hell-fire.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Hell-fire and its guardians
+  summary: Hell-fire is described as destructive and skin-blackening, with nineteen
+    angels over it as guardians.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Cosmic oath and warning
+  summary: The passage swears by the Moon, the retreating Night, and the brightening
+    Morn, then identifies Hell as a grievous warning to humanity.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Garden question and confession from Hell
+  summary: Those of God's right hand in gardens ask the wicked why they entered Hell-fire,
+    and the wicked cite failure to pray or feed the poor, vain disputation, and denial
+    of reckoning.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Turning aside from the Warning
+  summary: Rejecters are compared to frightened asses fleeing from a lion, ask for
+    open heavenly pages, and are told that the Koran is sufficient warning.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine commissioning to warn
+  taxonomy_refs: []
+  basis: The enwrapped figure receives direct commands to arise and warn, magnify
+    the Lord, purify raiment, flee abomination, and wait patiently.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not name the addressee within the quoted sura text supplied
+    here.
+- id: motif:2
+  label: Eschatological trumpet and distressful day
+  taxonomy_refs:
+  - divine_judgment
+  basis: The sounding of a trumpet is followed by a distressful day for infidels.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage mentions judgment imagery but does not explicitly narrate
+    resurrection.
+- id: motif:3
+  label: Condemnation of the rejecter of revelation
+  taxonomy_refs:
+  - divine_judgment
+  basis: A created and wealthy figure rejects divine signs, calls the message magic
+    and mortal speech, and is condemned to Hell-fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The figure is not named in the supplied sura passage.
+- id: motif:4
+  label: Hell-fire guarded by numbered angels
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hell-fire is described as destructive and skin-blackening, and nineteen angels
+    are placed over it as guardians.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The specific number is literal in the passage; no broader numerological
+    interpretation is inferred.
+- id: motif:5
+  label: Moral accountability by works
+  taxonomy_refs:
+  - divine_judgment
+  basis: Every soul is said to be pledged for its own works, and the wicked explain
+    their punishment by failures of prayer, charity, truthful conduct, and acceptance
+    of reckoning.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The extraction stays at the level of the passage's stated causes and does
+    not infer a full legal or theological system.
+- id: motif:6
+  label: Separation of garden-dwellers and the wicked in Hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those of God's right hand are in gardens and question the wicked who have
+    been cast into Hell-fire.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives a brief exchange rather than a detailed afterlife geography.
+- id: motif:7
+  label: Warning rejected despite demand for heavenly proof
+  taxonomy_refs: []
+  basis: The passage depicts people turning aside from the Warning, desiring open
+    pages from Heaven, and being told that the Koran is warning enough.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No comparison to other revelation-demand patterns is asserted here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1203-1214
+  quote_or_summary: The enwrapped addressee is commanded to arise and warn, magnify
+    the Lord, purify raiment, flee abomination, avoid bestowing favors for increase,
+    and wait patiently for the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary by extractor.
+- id: ev:2
+  type: summary
+  locator: lines 1215-1220
+  quote_or_summary: A trumpet is sounded, and the resulting day is distressful and
+    without ease for infidels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary by extractor.
+- id: ev:3
+  type: summary
+  locator: lines 1221-1239
+  quote_or_summary: God speaks of a created figure endowed with riches and sons who
+    desires more, opposes the signs, plots and plans, frowns, turns away, and calls
+    the message magic and the word of a mortal.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary by extractor.
+- id: ev:4
+  type: quote
+  locator: lines 1240-1249
+  quote_or_summary: The passage says the rejecter will be cast into Hell-fire, which
+    “leaveth nought” and “spareth nought,” blackens the skin, and has “nineteen angels”
+    over it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1250-1258
+  quote_or_summary: The angels are guardians of the fire; their number perplexes unbelievers,
+    confirms those possessing Scriptures, increases believers' faith, and is tied
+    to divine guidance and misguidance.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary by extractor.
+- id: ev:6
+  type: summary
+  locator: lines 1259-1266
+  quote_or_summary: The passage swears by the Moon, retreating Night, and brightening
+    Morn, then calls Hell one of the most grievous woes and a warning to humankind.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary by extractor.
+- id: ev:7
+  type: summary
+  locator: lines 1267-1285
+  quote_or_summary: Every soul lies pledged for its works; those of God's right hand
+    are in gardens and ask the wicked why they entered Hell-fire; the wicked cite
+    not praying, not feeding the poor, vain disputes, and rejecting the day of reckoning,
+    and intercession does not avail them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary by extractor.
+- id: ev:8
+  type: summary
+  locator: lines 1286-1311
+  quote_or_summary: Those who turn aside from the Warning are likened to frightened
+    asses fleeing a lion, desire open pages from Heaven, are said not to fear the
+    life to come, and are told that the Koran is warning enough.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source text; summary by extractor.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The sura passage provides clear judgment, warning, Hell-fire, and accountability
+    motifs. No explicit cross-tradition comparison is asserted beyond internal references
+    to those possessing Scriptures, so comparison claims are left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction emphasizes the Sura LXXIV material in the supplied line range. Translator-note material in the same excerpt is reflected only in the canonical summary, not used for motif claims.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l1143-l1311
+  passage_sha256=b45c128ffb3d26ffc197995e67e02a5edd0dd15dfdfb7c1c3316f7b0a4108250
+

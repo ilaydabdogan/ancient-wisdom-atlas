@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l4023-l4038
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE GREAT WORKS / THE IDAEAN DACTYLS / THE THEOGONY / THE CATALOGUES OF WOMEN
+    AND EOIAE1701; lines 4023-4038
+  start: '4023'
+  end: '4038'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Tyndareus refuses to dismiss any suitor or accept gifts from them, but
+    requires all suitors for Helen to swear oaths with unmixed libations. They must
+    not act apart from him concerning her marriage, and if anyone takes her by force,
+    the rest must pursue and punish him. The suitors comply, hoping to win the marriage.
+    Menelaus prevails because he gives the greatest gifts. Chiron is tending the young
+    Achilles on woody Pelion; the passage says Achilles would have prevailed as a
+    suitor if Helen had still been unmarried, but Menelaus had already won her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tyndareus sends none of the suitors away and does not receive any suitor's
+    gift at first.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tyndareus requires all the suitors to swear and vow with unmixed libations
+    concerning the marriage of the maid.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The oath includes that no one should act apart from Tyndareus regarding the
+    maid's marriage.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The oath also requires the suitors collectively to pursue and punish any man
+    who takes the maid by force.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The suitors obey Tyndareus, each hoping to accomplish the marriage.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Menelaus prevails over the others because he gives the greatest gifts.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Chiron tends the young Achilles on woody Pelion.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that Achilles would have prevailed in the suit for Helen
+    if she had been unwed, but Menelaus won her first.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tyndareus
+  description: Called lord Tyndareus; he manages the suitors by requiring oaths and
+    conditions concerning the maid's marriage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Helen / the maid with shapely arms
+  description: The maid whose marriage is sought by the suitors; later named Helen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: the suitors
+  description: The men who come for the maid's sake, swear the required oaths, and
+    hope to accomplish the marriage.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Menelaus
+  description: Called warlike Menelaus, son of Atreus; he prevails over the other
+    suitors because he gives the greatest gifts.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Chiron
+  description: He is tending Achilles on woody Pelion.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Achilles
+  description: Called the son of Peleus, swift-footed, pre-eminent among men, and
+    still a boy while tended by Chiron.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Peleus
+  description: Mentioned as the father of Achilles.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Atreus
+  description: Mentioned as the father of Menelaus.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: marriage oath imposer
+  assigned_to:
+  - fig:1
+  basis: Tyndareus asks all suitors for sure oaths and sets conditions regarding the
+    maid's marriage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: marriage sought by suitors
+  assigned_to:
+  - fig:2
+  basis: The men come for the maid's sake, and the passage refers to the suit for
+    Helen.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: suitor
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage refers to all who came for the maid's sake and later identifies
+    Menelaus as prevailing in the competition.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: oath-bound collective enforcer
+  assigned_to:
+  - fig:3
+  basis: The suitors are made to swear that they will collectively follow and punish
+    anyone who takes the maid by force.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: successful suitor
+  assigned_to:
+  - fig:4
+  basis: Menelaus prevails against the others because he gives the greatest gifts
+    and wins Helen before Achilles could compete.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: caretaker of Achilles
+  assigned_to:
+  - fig:5
+  basis: Chiron is described as tending Achilles on woody Pelion.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: boy under Chiron's care
+  assigned_to:
+  - fig:6
+  basis: Achilles is still a boy while Chiron tends him.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: hypothetical superior suitor
+  assigned_to:
+  - fig:6
+  basis: The passage says no man would have prevailed in suit for Helen if Achilles
+    had found her unwed.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: named father in patronymic
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Peleus is named as Achilles' father, and Atreus is named as Menelaus' father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: unmixed libations
+  literal_form: unmixed libations used during oath-taking
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: marriage gifts
+  literal_form: gifts given in connection with the suit for Helen
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: woody Pelion
+  literal_form: woody Pelion as the place where Chiron tends Achilles
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: force-taking condition
+  literal_form: taking the maid by force as the prohibited act named in the oath
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tyndareus binds the suitors by oath
+  summary: Tyndareus refuses to reject suitors or accept their gifts, and instead
+    requires all of them to swear with unmixed libations that they will not act independently
+    concerning the maid's marriage and will punish anyone who takes her by force.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Menelaus wins Helen through gifts
+  summary: The suitors obey the oath because each hopes to win the marriage, but Menelaus
+    prevails over them because he gives the greatest gifts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Chiron tends the young Achilles
+  summary: Chiron is tending Achilles on woody Pelion while Achilles is still a boy;
+    the passage says Achilles would have prevailed as Helen's suitor if she had been
+    unwed, but Menelaus won her first.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: collective oath securing a marriage settlement
+  taxonomy_refs:
+  - covenant
+  basis: Tyndareus requires all suitors to swear and vow with libations, including
+    a collective enforcement obligation if anyone takes the maid by force.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy ref is functional; the passage does not use the term covenant.
+- id: motif:2
+  label: marriage competition resolved by gifts
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Multiple suitors seek the same marriage, and Menelaus prevails because he
+    gives the greatest gifts.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes gifts in a marriage suit, but it does not explicitly
+    frame the exchange as sacred.
+- id: motif:3
+  label: anticipated abduction of the bride and collective penalty
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The oath names the possibility that someone might take the maid by force
+    and requires all other suitors to pursue and punish him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The force-taking is a conditional threat in the oath, not an event that
+    occurs within this passage.
+- id: motif:4
+  label: hero raised or tended away from the marriage contest
+  taxonomy_refs: []
+  basis: Achilles is still a boy under Chiron's care on Pelion while Menelaus wins
+    Helen; the passage adds that Achilles would have prevailed if Helen had been unwed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a supplied taxonomy family;
+    no broader developmental or initiation details are given here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: ll. 89-91 / source lines 4023-4025
+  quote_or_summary: "“the lord Tyndareus sent none away, nor yet received the gift
+    of any”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: ll. 91-94 / source lines 4025-4028
+  quote_or_summary: "“asked of all the suitors sure oaths, and bade them swear and
+    vow with unmixed libations” concerning the maid's marriage."
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: ll. 94-97 / source lines 4028-4031
+  quote_or_summary: Tyndareus requires that if anyone takes the maid by force, all
+    the others must follow after and make him pay the penalty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: ll. 97-100 / source lines 4031-4034
+  quote_or_summary: The suitors obey while hoping to win the marriage; Menelaus, son
+    of Atreus, prevails because he gives the greatest gifts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: ll. 100-103 / source lines 4035-4037
+  quote_or_summary: Chiron tends swift-footed Achilles, son of Peleus, on woody Pelion
+    while Achilles is still a boy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: ll. 103-106 / source lines 4037-4038
+  quote_or_summary: The passage says no man, including Menelaus, would have prevailed
+    in the suit for Helen if Achilles had found her unwed; Menelaus won her before
+    this.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the oath, marriage competition, Menelaus'
+    gifts, and Chiron tending Achilles. Motif labels are cautious because taxonomy
+    matches are functional and the passage is fragmentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly compare traditions or motif families.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l4023-l4038
+  passage_sha256=7f0d1f3b91c208394f8cde766c85f70a04795e3ab3e687c5772c65dad8bfd740
+

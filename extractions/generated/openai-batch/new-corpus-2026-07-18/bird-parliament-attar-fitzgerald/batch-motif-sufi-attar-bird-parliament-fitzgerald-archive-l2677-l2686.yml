@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.sufi-attar-bird-parliament-fitzgerald-archive-l2677-l2686
+source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+passage_locator:
+  label: Bird Parliament; lines 2677-2686
+  start: '2677'
+  end: '2686'
+  translation: Bird Parliament
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Their Road is thine — Follow — and Fare thee well.
+  summary: The passage closes a recounting of a few who found a better outcome. The
+    speaker says speech fails and tells the addressee that the road of those few is
+    also theirs, urging the addressee to follow and giving a farewell.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A group called “the Few” is said to have found a better outcome, and this
+    has now been recounted.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that the ground of speech fails underfoot.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says that “Their Road” is the addressee’s and commands the addressee
+    to follow.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage ends with a farewell to the addressee.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Few
+  description: Those said to have found a better “Upshot.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the addressee
+  description: The one addressed as “thine” and “thee,” told that the road is theirs
+    and instructed to follow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: speaker or narrating voice
+  description: The voice that says speech fails, declares the road to be the addressee’s,
+    commands “Follow,” and gives farewell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: successful few
+  assigned_to:
+  - fig:1
+  basis: The passage says the Few found a better “Upshot.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exhorted follower
+  assigned_to:
+  - fig:2
+  basis: The addressee is told that the road is theirs and is commanded to follow.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: farewell speaker
+  assigned_to:
+  - fig:3
+  basis: The speaker marks the failure of speech, gives the exhortation, and says
+    farewell.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: road
+  literal_form: "“Their Road”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: ground of speech failing
+  literal_form: "“the Ground / Of Speech fails underfoot”"
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: closing exhortation after recounting the Few
+  summary: After recounting the Few who found a better outcome, the speaker says speech
+    fails and tells the addressee to take their road, follow it, and receive farewell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: exhortation to follow the path
+  taxonomy_refs:
+  - mystical_quest
+  - departure
+  basis: The passage presents a road associated with the Few and tells the addressee,
+    “Follow,” ending with farewell.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives only a closing exhortation and does not describe the
+    destination or stages of the road.
+- id: motif:2
+  label: speech fails at the limit of telling
+  taxonomy_refs: []
+  basis: The speaker states that the “Ground / Of Speech fails underfoot” after the
+    recounting.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No supplied taxonomy reference directly corresponds to this motif label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2677-2679
+  quote_or_summary: "“And of the Few that better Upshot found; / Which being now recounted”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: 2679-2681
+  quote_or_summary: "“Lo, the Ground / Of Speech fails underfoot”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: '2683'
+  quote_or_summary: "“Their Road is thine — Follow — and Fare thee well. 1435”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for this short passage. Motif assignment
+    is cautious because the excerpt is a brief closing exhortation with limited narrative
+    detail. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; available taxonomy references applied only where directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:sufi-attar-bird-parliament-fitzgerald-archive__l2677-l2686
+  passage_sha256=193b4ae37f4121178d71457097d56dc9fa8cfbb0320da1637ba076c1787d732e
+

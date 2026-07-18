@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.maya-quiche-popol-vuh-spence-gutenberg-l91-l107
+source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+passage_locator:
+  label: The Popol Vuh / THE POPOL VUH / LEWIS SPENCE / PREFACE; lines 91-107
+  start: '91'
+  end: '107'
+  translation: The Popol Vuh
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“for what is myth to-day is often history to-morrow.”"
+  summary: In the preface, the writer presents the Popol Vuh as a major mythological
+    source, notes the lack of adequate European translations, defends the likelihood
+    of other Guatemalan manuscripts, and urges their recovery as records of the faith
+    of Central American city builders.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Popol Vuh is described as the New World’s richest mythological source,
+    with no English translation and no adequate European-language translation yet
+    available.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text has been neglected partly because of criticisms or doubts about its
+    authenticity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that other manuscripts probably exist in Guatemala besides
+    the one discovered by Ximenes and transcribed by Scherzer and Brasseur de Bourbourg.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Brinton is said to have believed in the existence of other manuscripts, and
+    the present writer shares that belief.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The writer urges that these manuscripts should be recovered before it is too
+    late.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The manuscripts are described as the only records of the faith of the builders
+    of ruined and deserted Central American cities.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The writer says recovery should not be left to individuals alone, but should
+    engage interested governments.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage closes with the statement that what is myth today is often history
+    tomorrow.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ximenes
+  description: Named as the discoverer of one manuscript.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Scherzer
+  description: Named as one of the transcribers of the manuscript discovered by Ximenes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Brasseur de Bourbourg
+  description: Named as one of the transcribers of the manuscript discovered by Ximenes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Brinton
+  description: Said to have believed that other manuscripts exist in Guatemala.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: present writer
+  description: The writer shares Brinton’s belief and urges recovery of the manuscripts.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: builders of the ruined and deserted cities of Central America
+  description: A collective group whose faith is said to be recorded in the manuscripts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: interested governments
+  description: Governments that the writer says should consider the recovery of the
+    manuscripts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: discoverer of manuscript
+  assigned_to:
+  - fig:1
+  basis: The passage says the manuscript was discovered by Ximenes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: transcriber of manuscript
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the manuscript was transcribed by Scherzer and Brasseur
+    de Bourbourg.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: believer in the existence of other manuscripts
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says Brinton thought other manuscripts existed and that the present
+    writer shares his belief.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: advocate for manuscript recovery
+  assigned_to:
+  - fig:5
+  basis: The writer urges that the manuscripts should be recovered before it is too
+    late.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: builders whose faith is recorded
+  assigned_to:
+  - fig:6
+  basis: The manuscripts are called records of the faith of the builders of ruined
+    and deserted Central American cities.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: public authorities urged to act
+  assigned_to:
+  - fig:7
+  basis: The passage says the matter should engage interested governments rather than
+    only individuals.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Prefatory appeal for recovery of manuscripts
+  summary: The writer frames the Popol Vuh as an important mythological source, argues
+    that additional Guatemalan manuscripts likely exist, identifies prior manuscript
+    handlers and supporters of this belief, and urges governmental attention to manuscript
+    recovery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 93-97
+  quote_or_summary: The Popol Vuh is called “the New World’s richest mythological
+    mine”; the passage notes no English translation, no adequate European translation,
+    and neglect due to strictures on authenticity.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain; full-text use allowed by request metadata.
+- id: ev:2
+  type: summary
+  locator: lines 97-99
+  quote_or_summary: Other manuscripts in Guatemala are said to be probable besides
+    the one discovered by Ximenes and transcribed by Scherzer and Brasseur de Bourbourg.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain; full-text use allowed by request metadata.
+- id: ev:3
+  type: summary
+  locator: lines 99-100
+  quote_or_summary: Brinton is said to have held this belief, and the present writer
+    says he shares it.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain; full-text use allowed by request metadata.
+- id: ev:4
+  type: summary
+  locator: lines 100-103
+  quote_or_summary: The writer says the manuscripts should be recovered before it
+    is too late and describes them as the only records of the faith of the builders
+    of ruined and deserted Central American cities.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain; full-text use allowed by request metadata.
+- id: ev:5
+  type: quote
+  locator: lines 103-106
+  quote_or_summary: The matter should not be left to individuals but should engage
+    interested governments, “for what is myth to-day is often history to-morrow.”
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain; full-text use allowed by request metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is prefatory and contains no narrative myth episode, mythic symbol,
+    or explicit comparative claim. Motif and comparison arrays are therefore empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage discusses manuscript history and recovery rather than a mythic episode.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:maya-quiche-popol-vuh-spence-gutenberg__l91-l107
+  passage_sha256=a08bec872dcf171c21432b2bfb2dd38a229f4d84ca48fa3194a05b6701a7d5f0
+

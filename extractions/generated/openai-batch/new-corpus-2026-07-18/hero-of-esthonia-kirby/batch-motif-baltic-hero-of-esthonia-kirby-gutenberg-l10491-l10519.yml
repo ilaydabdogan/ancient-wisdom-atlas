@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l10491-l10519
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE WITCH-BRIDE. / THE STEPMOTHER. / THE FISHERMAN AND HIS WIFE. / HOW THE
+    SEA BECAME SALT.; lines 10491-10519
+  start: '10491'
+  end: '10519'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: it now lies at the bottom of the sea, grinding salt for ever.
+  summary: The passage summarizes the tale of two brothers and a wishing-mill acquired
+    through a bargain connected with Põrgu. The mill produces excessive food, is later
+    sold to a sea-captain, and sinks while grinding salt, explaining why the sea is
+    salty. The passage also includes a brief comparative note about the following
+    story and its relation to other tale classes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies “How the Sea Became Salt” as a Jannsen tale and as
+    a variant of a story known from Iceland to Finland.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The tale begins with two brothers, one rich and one poor.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: At Christmas, the rich brother gives the poor brother a ham on the condition
+    that he go to Põrgu.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On the way, an old man tells the poor brother that ham is rare there and advises
+    him not to sell it for money, but only for what is behind the door.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The object behind the door proves to be a wishing-mill.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The rich brother buys the wishing-mill for a high price.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The rich brother sets the wishing-mill to grind herrings and milk-soup.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The mill produces torrents of herrings and soup that threaten the rich brother,
+    his wife, and the whole village, leading the rich brother to pay the poor brother
+    to take it back.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The wishing-mill is later sold to a sea-captain, who sets it to grind salt
+    until the ship sinks.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The mill is said to lie at the bottom of the sea, grinding salt forever.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The final paragraph states that the next story belongs to the same class as
+    Grimm’s “Devil with the Three Golden Hairs,” includes a personified Frost, and
+    combines two familiar tale classes.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rich brother
+  description: One of two brothers; gives a ham to the poor brother on condition that
+    he go to Põrgu, later buys the wishing-mill, uses it to grind food, and pays to
+    have it taken back.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Poor brother
+  description: One of two brothers; receives the ham, is sent toward Põrgu, receives
+    advice from an old man, and later takes back the wishing-mill after the rich brother
+    is overwhelmed by its products.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Old man
+  description: An old man met on the way who gives bargaining instructions concerning
+    the ham and the object behind the door.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Rich brother’s wife
+  description: The wife of the rich brother, named among those endangered by the torrents
+    of herrings and soup.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Sea-captain
+  description: A sea-captain who buys the wishing-mill, sets it to grind salt, and
+    is associated with the ship that sinks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Contrasted siblings
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage presents the two central brothers in contrast as rich and poor.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Conditional giver
+  assigned_to:
+  - fig:1
+  basis: The rich brother gives the ham only on the condition that the poor brother
+    go to Põrgu.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Recipient and advised barterer
+  assigned_to:
+  - fig:2
+  basis: The poor brother receives the ham, travels as required, and is advised how
+    to exchange it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Advising elder
+  assigned_to:
+  - fig:3
+  basis: The old man instructs the poor brother not to sell the ham for money but
+    to ask for what is behind the door.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Buyer or operator of the wishing-mill
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The rich brother buys and operates the mill to produce food; the sea-captain
+    later buys and operates it to grind salt.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: Endangered household member
+  assigned_to:
+  - fig:4
+  basis: The wife is included among those threatened by the torrents produced by the
+    mill.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ham
+  literal_form: Christmas ham
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Põrgu
+  literal_form: Named destination, Põrgu
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Wishing-mill
+  literal_form: A mill that can be set to grind desired things
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Herrings and milk-soup
+  literal_form: Food produced in torrents by the mill
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Sea
+  literal_form: The sea and its bottom, where the mill comes to rest
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Salt
+  literal_form: Salt ground by the mill after the sea-captain sets it going
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Framing of the tale
+  summary: The passage titles the tale “How the Sea Became Salt,” attributes it to
+    Jannsen, and describes it as a variant known from Iceland to Finland.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Conditional Christmas gift
+  summary: The rich brother gives the poor brother a ham at Christmas, requiring him
+    to go to Põrgu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Advice about the hidden exchange object
+  summary: An old man tells the poor brother that ham is valuable there and instructs
+    him to exchange it only for what is behind the door, which is a wishing-mill.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Runaway production of food
+  summary: The rich brother buys the wishing-mill and sets it to grind herrings and
+    milk-soup, but its torrents threaten him, his wife, and the village until he pays
+    the poor brother to take it back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Salt mill sinks at sea
+  summary: The mill is sold to a sea-captain, set to grind salt, and continues until
+    the ship sinks; it remains at the bottom of the sea grinding salt forever.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Advised exchange for a hidden magical object
+  taxonomy_refs: []
+  basis: The poor brother is told not to sell the ham for money, but to exchange it
+    for what is behind the door, which turns out to be the wishing-mill.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage summarizes the transaction briefly and does not describe the
+    full bargaining scene.
+- id: motif:2
+  label: Wishing object with uncontrollable production
+  taxonomy_refs: []
+  basis: The wishing-mill is commanded to grind food and produces torrents that threaten
+    people and the village.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not give the command formula or stopping mechanism.
+- id: motif:3
+  label: Etiological explanation for the salt sea
+  taxonomy_refs: []
+  basis: The mill is set to grind salt, sinks with the ship, and is said to remain
+    on the seabed grinding salt forever.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives the explanation in summarized form only.
+- id: motif:4
+  label: Stolen gifts recovered by another magical object
+  taxonomy_refs: []
+  basis: The final paragraph describes a familiar tale class in which a man receives
+    gifts that are stolen and then recovered by another object, often a magic cudgel.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif is mentioned as part of the next story’s classification, not
+    narrated in the sea-salt tale itself.
+- id: motif:5
+  label: Hidden listener in the house of a giant or devil learns secrets
+  taxonomy_refs: []
+  basis: The final paragraph describes a familiar tale class in which a visitor to
+    a giant’s or devil’s house is hidden by the old mother to hear secrets revealed
+    by her son.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif is mentioned only in the comparative introduction to the next
+    story.
+comparison_claims:
+- id: claim:1
+  claim: The source describes “How the Sea Became Salt” as a variant of a story known
+    across a range from Iceland to Finland.
+  claim_level: same_motif
+  target: Sea-salt origin tale variants known from Iceland to Finland
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names the geographic range but does not identify specific
+    parallel texts or detailed correspondences.
+- id: claim:2
+  claim: The source states that the next story belongs to the same class as Grimm’s
+    “Devil with the Three Golden Hairs.”
+  claim_level: same_motif
+  target: Grimm’s “Devil with the Three Golden Hairs”
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This applies to the next story mentioned in the passage, not to “How
+    the Sea Became Salt,” and the passage gives only a classificatory statement.
+- id: claim:3
+  claim: The source compares the next story’s personified Frost with Frost in the
+    Kalevala, saying the Estonian figure is less malevolent.
+  claim_level: same_function
+  target: Personified Frost in the Kalevala, Runo xxx
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief evaluative comparison and no episode-level
+    details.
+- id: claim:4
+  claim: The source says the next story combines a familiar tale pattern in which
+    received gifts are stolen and later recovered by means of another object, often
+    a magic cudgel.
+  claim_level: same_motif
+  target: Tale pattern of stolen magical gifts recovered by a magic cudgel
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage identifies the pattern but does not narrate the specific
+    incidents.
+- id: claim:5
+  claim: The source says the next story also combines a tale pattern in which a man
+    hidden in a giant’s or devil’s house hears secrets disclosed by the absent owner’s
+    son.
+  claim_level: same_motif
+  target: Hidden visitor in giant or devil household learns secrets
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents this only as a comparative tale-class description
+    of the next story.
+evidence:
+- id: ev:1
+  type: citation
+  locator: 10491-10494
+  quote_or_summary: The passage heading gives the title “HOW THE SEA BECAME SALT”
+    and attributes it to Jannsen.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; citation summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 10495-10496
+  quote_or_summary: "“an interesting variant of a story known from Iceland to Finland”"
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 10498-10500
+  quote_or_summary: Two brothers, one rich and one poor, are introduced; at Christmas
+    the rich brother gives the poor brother a ham on condition that he go to Põrgu.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 10500-10503
+  quote_or_summary: An old man met on the way says ham is rare there and tells the
+    poor brother to trade it not for money but for what is behind the door, which
+    proves to be a wishing-mill.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 10504-10509
+  quote_or_summary: The rich brother buys the mill, uses it to grind herrings and
+    milk-soup, and then pays the poor brother to take it back when torrents of food
+    threaten his household and the village.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 10509-10512
+  quote_or_summary: The mill is later sold to a sea-captain, who sets it to grind
+    salt; it grinds until the ship sinks and remains at the bottom of the sea grinding
+    salt forever.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 10514-10519
+  quote_or_summary: The final paragraph introduces the next story, comparing it with
+    Grimm’s “Devil with the Three Golden Hairs,” with the Kalevala’s personified Frost,
+    and with tale classes involving stolen gifts, a magic cudgel, and hidden listening
+    in a giant’s or devil’s house.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction of the sea-salt narrative is high-confidence because the passage
+    gives a compact plot summary. Motifs and comparisons concerning the next story
+    are marked with caution because they are mentioned only in a transitional comparative
+    paragraph, not narrated in full.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif-family refs were assigned because the available motif-family list did not contain a clearly specific match for the sea-salt etiological mill tale. Available symbol refs were used only where directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l10491-l10519
+  passage_sha256=ba8a667f15a5a15c9fd379e6b75b843b5ad245022b42cf9df962bb0542f8707f
+

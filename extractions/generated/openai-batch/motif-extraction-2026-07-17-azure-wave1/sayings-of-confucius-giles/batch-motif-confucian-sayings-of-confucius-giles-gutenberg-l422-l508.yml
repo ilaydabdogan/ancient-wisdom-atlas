@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l422-l508
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: E. P. DUTTON AND COMPANY / CONTENTS / EDITORIAL NOTE / INTRODUCTION; lines
+    422-508
+  start: '422'
+  end: '508'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues against Western portrayals of Confucius as rigid, cold,
+    and merely formal. It presents his teaching as grounded in inner feeling, conscience,
+    self-control, and affection for disciples, and criticizes English interpreters
+    for relying on unfair or outdated judgments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a prevailing Western conception depicts Confucius as dry,
+    formal, pedantic, rigid in ceremonial matters, and more a man of words than deeds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Legge is quoted as saying that propriety was a stumbling-block for Confucius
+    and that his morality was intellectual rather than the outpouring of a loving
+    heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator rejects this portrayal as a misrepresentation and says the rendering
+    of the Chinese word li as propriety has misled interpreters.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Confucius attached supreme importance to jn, described as
+    feeling in the heart, as the source of right conduct.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Confucius stressed the internal over the external and motives
+    over outward acts, except where acts revealed character.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says Confucius ignored narrow conventional morality and etiquette
+    when they conflicted with good feeling and common sense.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says Confucius set up a rule of conscience and individual judgment,
+    while also warning against liberty becoming license.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage describes Confucius as replacing old constraints with self-discipline
+    and self-control, not bodily mortification.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage says the Analects describe the Master as uniformly cheerful and
+    unusually relaxed with his disciples.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage says Confucius had hundreds of disciples and lived, ate, drank,
+    slept, and conversed with them in close contact.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage says a faithful band of disciples followed Confucius into exile
+    and that none is known to have deserted or turned against him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The passage says Confucius wept passionately in old age for the death of his
+    dearly loved disciple Yen Hui and would not be comforted.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The passage says Jennings quoted an early negative judgment by Legge, while
+    a later Legge edition called Confucius a very great man whose influence benefited
+    the Chinese.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Confucius / the Master
+  description: Central subject of the passage; presented as a moral teacher, sage,
+    and affectionate master of disciples, while also being the target of Western criticism.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Legge / Dr. Legge
+  description: English interpreter whose criticism of Confucius is quoted and disputed;
+    later cited as having revised his judgment more favorably.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Rev. Mr. Jennings
+  description: Latest English translator of the Analects mentioned in the passage;
+    criticized for quoting Legge's earlier negative view.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Disciples of Confucius
+  description: A large group of followers described as living closely with Confucius
+    and remaining faithful to him in exile.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Yen Hui
+  description: A dearly loved disciple of Confucius whose death caused Confucius to
+    weep passionately.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Sage or Master
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the Master and quotes a later judgment describing him
+    as a sage and very great man.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: Teacher of inner moral feeling and conscience
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to him teachings centered on jn, internal motive,
+    conscience, and self-discipline.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Affectionate teacher among disciples
+  assigned_to:
+  - fig:1
+  basis: The passage describes him as cheerful with disciples, living closely with
+    them, followed into exile, and grieving for Yen Hui.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: English critic or interpreter of Confucius
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Legge and Jennings are discussed as translators or interpreters whose judgments
+    about Confucius are quoted and evaluated.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:5
+  label: Disciple or follower
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage describes Confucius's disciples as close followers, and names
+    Yen Hui as a disciple.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: Beloved deceased disciple
+  assigned_to:
+  - fig:5
+  basis: Yen Hui is described as dearly loved and as the disciple whose death Confucius
+    mourned.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Heart as source of conduct
+  literal_form: Feeling in the heart, named jn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Fetters of constraint and discipline
+  literal_form: Fetters of bigotry and prejudice; new fetters of iron self-discipline
+    and self-control
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Stumbling-block of propriety
+  literal_form: Propriety or li described as a stumbling-block
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Western caricature and rebuttal
+  summary: The passage outlines a Western image of Confucius as formal and rigid,
+    cites Legge's criticism of propriety, and begins a rebuttal that calls this a
+    distortion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Inner feeling, conscience, and self-discipline
+  summary: The passage presents Confucius as grounding right conduct in jn, inward
+    motive, conscience, liberty of judgment, and disciplined self-control.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cheerful master and faithful disciples
+  summary: The passage rejects the charge of coldness by describing Confucius as cheerful
+    with disciples, closely accompanied by them, followed into exile, and deeply grieving
+    Yen Hui.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Jennings, Legge, and revised judgment
+  summary: The passage criticizes Jennings for quoting Legge's early negative view
+    rather than Legge's later more favorable judgment of Confucius.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Sage-teacher of inward moral wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Confucius is presented as the Master or sage whose teaching centers on inward
+    feeling, conscience, motives, and self-discipline rather than mere external form.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: This is an editorial characterization, not a mythic narrative episode;
+    the wisdom motif is therefore thematic rather than narrative.
+- id: motif:2
+  label: Teacher followed faithfully into exile
+  taxonomy_refs: []
+  basis: The passage says a faithful band of disciples followed Confucius into exile
+    and that none is known to have deserted him.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The exile is mentioned briefly as rhetorical evidence of affection and
+    loyalty; the passage does not narrate the exile itself.
+- id: motif:3
+  label: Misrepresented sage rehabilitated by later judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts hostile or caricatured judgments of Confucius with
+    a later favorable assessment that calls him a very great man and emphasizes the
+    value of his teachings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: This is mainly a history-of-reception pattern within the introduction,
+    not a traditional mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 422-433
+  quote_or_summary: The passage describes a Western conception of Confucius as dry,
+    formal, pedantic, rigid in ceremonial matters, and accused by Legge of overvaluing
+    propriety.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 434-445
+  quote_or_summary: The narrator protests against the misrepresentation, criticizes
+    the rendering of li as propriety, and says Confucius emphasized jn, feeling in
+    the heart, as the source of right conduct.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 446-456
+  quote_or_summary: The passage says Confucius showed moral courage by setting conscience
+    over narrow convention, striking fetters of prejudice, and imposing self-discipline
+    rather than bodily mortification.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 458-468
+  quote_or_summary: The passage rejects the charge of coldness by saying the Analects
+    describe the Master as cheerful and close to his disciples in daily life.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 468-475
+  quote_or_summary: The passage says disciples followed Confucius into exile without
+    known desertion and that he wept passionately for Yen Hui.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 477-488
+  quote_or_summary: The passage says Jennings quoted Legge's early negative judgment,
+    while a later 1893 edition called Confucius a very great man and beneficial influence.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 489-508
+  quote_or_summary: The narrator emphasizes the unfairness of preferring an early
+    crude opinion to the latest mature judgment of an authority not especially partial
+    to Confucius.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is editorial and argumentative rather than mythic narrative.
+    Literal extraction is strong, but motif identification is limited to broad wisdom
+    and teacher-disciple patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No cross-tradition comparison claims were extracted because the passage itself does not support a specific comparative mythology claim beyond broad wisdom-teacher themes.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l422-l508
+  passage_sha256=537b17240058ae3fe37765f588f032fb34091ee363220360a3aa13e96d2919b1
+

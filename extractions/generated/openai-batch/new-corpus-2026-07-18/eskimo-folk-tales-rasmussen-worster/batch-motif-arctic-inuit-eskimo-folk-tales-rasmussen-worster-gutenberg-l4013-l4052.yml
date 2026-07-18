@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l4013-l4052
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: PAPIK, WHO KILLED HIS WIFE'S BROTHER / PATUSSORSSUAQ, WHO KILLED HIS UNCLE
+    / THE MEN WHO CHANGED WIVES / ARTUK, WHO DID ALL FORBIDDEN THINGS; lines 4013-4052
+  start: '4013'
+  end: '4052'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Artuk rejects prohibitions observed after handling the dead, performs several
+    forbidden acts, forces his son onto a sledge, and dies far out on the ice. His
+    daughter hears mocking spirits, and searchers later find Artuk torn apart while
+    his bound son has died of fright.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Artuk had buried his wife and refused to avoid activities forbidden to those
+    who had been occupied with the dead.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Artuk stated that he did not follow the old customs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Artuk used a stone axe to hack frozen meat while others were cutting meat
+    with knives, and the passage says this was forbidden.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the same day Artuk went onto the ice, removed his inner coat, and shook
+    it, although this was forbidden.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Artuk went onto an iceberg and drank sun-melted water there, knowing this
+    too was forbidden.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Artuk did these acts in scorn of what his fellows believed and said it was
+    all lies.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When starting out with his sledge, Artuk became afraid to go alone and bound
+    his unwilling son to the uprights of the sledge.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Artuk did not return alive.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Late in the evening, Artuk's daughter heard mocking laughter of two spirits
+    in the air and understood it as showing that her father had been punished.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Searchers found Artuk far out on the ice, torn to pieces.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The passage states that being torn to pieces is the way spirits punish those
+    who refuse to observe ancestral customs.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Artuk's son, still bound to the sledge, had not been touched but had died
+    of fright.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Artuk
+  description: A man who had buried his wife, rejected the old customs, performed
+    forbidden acts, and was later found torn to pieces on the ice.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Artuk's wife
+  description: Artuk's buried wife; her death places Artuk among those busied with
+    the dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Fellow-villagers
+  description: People cutting frozen meat for food and holding beliefs Artuk scorned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Artuk's son
+  description: Artuk's unwilling son, bound to the uprights of the sledge; later found
+    untouched but dead of fright.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: fig:5
+  name_or_label: Artuk's daughter
+  description: Daughter who heard the mocking laughter of two spirits and understood
+    it as a sign of her father's punishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Two spirits
+  description: Two spirits whose mocking laughter was heard in the air after Artuk
+    failed to return.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Searchers
+  description: People who went out on many sledges the next day to search for Artuk
+    and found him on the ice.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: violator of forbidden customs
+  assigned_to:
+  - fig:1
+  basis: Artuk knowingly performs several acts stated to be forbidden after his wife's
+    burial.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: punished man
+  assigned_to:
+  - fig:1
+  basis: Artuk is found torn to pieces, and the passage describes this as the way
+    spirits punish refusals to observe ancestral customs.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:3
+  label: dead wife
+  assigned_to:
+  - fig:2
+  basis: The passage says Artuk had buried his wife.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: community observers and believers in custom
+  assigned_to:
+  - fig:3
+  basis: The villagers cut meat in the ordinary way and are associated with the beliefs
+    Artuk scorns.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: bound son and secondary victim
+  assigned_to:
+  - fig:4
+  basis: Artuk binds his unwilling son to the sledge; the son is later found untouched
+    but dead of fright.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:6
+  label: witness to spirit laughter
+  assigned_to:
+  - fig:5
+  basis: The daughter hears the spirits' laughter and understands its meaning.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: punishing spirits
+  assigned_to:
+  - fig:6
+  basis: The daughter's interpretation and the narrative statement connect the spirits
+    with Artuk's punishment.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: search party
+  assigned_to:
+  - fig:7
+  basis: Many sledges go out to search for Artuk and find him.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: forbidden acts after contact with the dead
+  literal_form: Cutting meat with a stone axe, shaking an inner coat on the ice, and
+    drinking sun-melted water on an iceberg while under restrictions connected with
+    the dead.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: ice
+  literal_form: Ice and an iceberg where Artuk performs forbidden actions and where
+    he is later found dead.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: sun-melted water
+  literal_form: Water melted by the sun on an iceberg and drunk by Artuk despite the
+    prohibition.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sledge binding
+  literal_form: Artuk binds his son to the uprights of the sledge before going out.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:5
+  label: mocking spirit laughter
+  literal_form: The laughter of two spirits heard in the air by Artuk's daughter.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: dismembered body
+  literal_form: Artuk is found torn to pieces on the ice.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Artuk rejects death-related prohibitions
+  summary: After burying his wife, Artuk refuses to observe restrictions for those
+    occupied with the dead and says he does not follow old customs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Forbidden acts performed in public and on the ice
+  summary: Artuk hacks frozen meat with a stone axe, shakes his inner coat on the
+    ice, drinks sun-melted water on an iceberg, and scorns the beliefs of his fellows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Departure with bound son
+  summary: Fear comes upon Artuk as he starts out with his sledge, and he binds his
+    unwilling son to the sledge uprights because the son will not accompany him willingly.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Spirit laughter and discovery on the ice
+  summary: Artuk does not return alive; his daughter hears the mocking laughter of
+    two spirits, and searchers later find Artuk torn to pieces while his son is untouched
+    but dead of fright.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: taboo violation followed by spirit punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Artuk knowingly performs forbidden acts, rejects the customs, and is later
+    described as punished by spirits in the manner used for those who refuse ancestral
+    customs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The punishing beings are called spirits, not a deity; the taxonomy reference
+    is functional rather than a precise theological label.
+- id: motif:2
+  label: rejection of ancestral custom
+  taxonomy_refs: []
+  basis: Artuk explicitly rejects old customs and scorns what his fellows believe,
+    calling it lies.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference precisely names this social-custom motif.
+- id: motif:3
+  label: dangerous departure after taboo breach
+  taxonomy_refs:
+  - departure
+  basis: After the forbidden acts, Artuk sets out by sledge, becomes afraid, takes
+    his son by force, and never returns alive.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage emphasizes punishment for taboo violation more than a formal
+    departure motif.
+- id: motif:4
+  label: innocent companion harmed by fear
+  taxonomy_refs: []
+  basis: Artuk's son is bound to the sledge, is not physically touched, but dies of
+    fright after Artuk's punishment.
+  evidence_refs:
+  - ev:6
+  - ev:10
+  confidence: medium
+  cautions: The son's death is secondary to Artuk's punishment and is not explicitly
+    framed as a separate motif by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4013-4018
+  quote_or_summary: Artuk had buried his wife but refused restrictions placed on those
+    busied with the dead, saying he did not hold by old customs.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 4019-4026
+  quote_or_summary: Artuk watched villagers cutting frozen meat with knives, then
+    hacked the meat with a stone axe and said this was the way to cut meat; the act
+    is stated to be forbidden.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 4027-4029
+  quote_or_summary: On the same day Artuk went onto the ice, removed his inner coat,
+    and shook it, although this too was forbidden.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 4030-4032
+  quote_or_summary: Artuk went onto an iceberg and drank water melted by the sun there,
+    knowing it was also forbidden.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: 4033-4035
+  quote_or_summary: Artuk did these things in scorn of what his fellows believed and
+    said it was all lies.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: 4036-4041
+  quote_or_summary: When starting out with his sledge, Artuk became afraid to go alone
+    and bound his unwilling son to the sledge uprights.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: quote
+  locator: '4042'
+  quote_or_summary: He never returned alive.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: 4043-4047
+  quote_or_summary: Late in the evening, Artuk's daughter heard the mocking laughter
+    of two spirits in the air and knew they were indicating her father's punishment.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:9
+  type: summary
+  locator: 4048-4051
+  quote_or_summary: Searchers found Artuk far out on the ice, torn to pieces; the
+    passage says this is how spirits punish those who refuse ancestral customs.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+- id: ev:10
+  type: summary
+  locator: 4051-4052
+  quote_or_summary: Artuk's son was still bound to the sledge, had not been touched,
+    and had died of fright.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the passage. Motif mapping is
+    limited because the available taxonomy has no exact category for death-related
+    taboo violation or ancestral custom enforcement.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-text or cross-tradition comparison beyond candidate motif classification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l4013-l4052
+  passage_sha256=c771d36dd36ece02865dfef013be0a16ee35a5cd6e9f08ac5cd373f158015f6c
+

@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37597-l37624
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE RESURRECTION; REVEALED AT MECCA. / IN THE NAME OF THE MOST
+    MERCIFUL GOD. / CHAPTER LXXVI. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines
+    37597-37624
+  start: '37597'
+  end: '37624'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Sale''s notes relate a story in which Hasan and Hosein fall sick; Ali,
+    Ftema, and Fidda vow a three-day fast to God if the children recover, then give
+    each day''s bread to a poor man, an orphan, and a captive, drinking only water.
+    Gabriel descends with the chapter and announces God''s praise of Mohammed''s family.
+    Additional notes gloss paradise imagery: no need of light or absence of heat and
+    cold, ginger-flavored fountain water, and gently flowing water.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hasan and Hosein, described as Mohammed's grandchildren, are sick, and the
+    prophet visits them among others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ali, Ftema, and Fidda vow a three-day fast to God in case Hasan and Hosein
+    recover, and the children do recover.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ali borrows three measures of barley from Simeon of Khaibar; Ftema grinds
+    one measure and bakes five cakes to break the fast after sunset.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the first day, a poor man comes to them; they give him all their bread
+    and spend the night tasting nothing except water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the next day, an orphan begs food; they give him the bread and pass the
+    night as before.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the third day, they give their whole provision to a famished captive.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Gabriel descends with the chapter and tells Mohammed that God congratulates
+    him on the virtues of his family.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note says that in paradise they shall not need the light of either; it also
+    reports an interpretation that paradise has no excess of heat or cold.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note says the fountain water is supposed to taste of ginger, and another
+    note glosses water that flows gently and pleasantly down the throat.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hasan and Hosein
+  description: Mohammed's grandchildren; they are sick and later recover, occasioning
+    the vow.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mohammed
+  description: The prophet who visits the sick grandchildren and later receives Gabriel's
+    announcement of God's congratulations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Ali
+  description: A vow-maker who borrows barley and participates in the fast and giving
+    of provisions.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Ftema
+  description: A vow-maker who grinds barley, bakes bread or cakes, and participates
+    in the fast and giving of provisions.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Fidda
+  description: The maid-servant who joins Ali and Ftema in the vow and fast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Simeon, a Jew, of Khaibar
+  description: The person from whom Ali borrows three measures of barley.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: poor man
+  description: A poor man who comes on the first day and receives all their bread.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: orphan
+  description: An orphan who begs food on the next day and receives the bread.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: famished captive
+  description: A captive to whom the household gives its whole provision on the third
+    day.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Gabriel
+  description: A heavenly messenger who descends with the chapter.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: GOD
+  description: The recipient of the vow and the one said to congratulate Mohammed
+    on his family's virtues.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: sick grandchildren whose recovery occasions a vow
+  assigned_to:
+  - fig:1
+  basis: Hasan and Hosein are described as Mohammed's grandchildren who are sick and
+    recover after a vow is made for them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prophet visitor and recipient of divine announcement
+  assigned_to:
+  - fig:2
+  basis: Mohammed visits the sick children and is later told by Gabriel of God's congratulations.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: vow-maker and strict faster
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Ali, Ftema, and Fidda vow a three-day fast and perform it strictly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: household food provider or preparer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ali borrows barley, and Ftema grinds it and bakes cakes or bread.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: barley lender
+  assigned_to:
+  - fig:6
+  basis: Simeon of Khaibar is named as the person from whom Ali borrows barley.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: needy recipient of food
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The poor man, orphan, and famished captive each receive the household's bread
+    or provision on successive days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: descending divine messenger
+  assigned_to:
+  - fig:10
+  basis: Gabriel is said to descend with the chapter and speak to Mohammed.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: deity, vow recipient, and divine approver
+  assigned_to:
+  - fig:11
+  basis: The vow is made to God, and God is said to congratulate Mohammed on his family's
+    virtues.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: three-day vowed fast
+  literal_form: a fast of three days vowed to God for the recovery of the sick children
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:11
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: barley bread or cakes
+  literal_form: three measures of barley, one measure ground into meal, and five cakes
+    or bread set out to break the fast
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: water as only sustenance
+  literal_form: water consumed when the household passes the night without tasting
+    anything else
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: paradisal fountain water
+  literal_form: water of a fountain supposed to taste of ginger and to flow gently
+    and pleasantly down the throat
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: unneeded light and tempered paradise
+  literal_form: paradise where light is not needed and where some understand there
+    is no excess of heat or cold
+  associated_figures: []
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Illness and vow for recovery
+  summary: Hasan and Hosein are sick; Mohammed visits them; Ali, Ftema, and Fidda
+    vow a three-day fast to God if the children recover, and they do recover.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:11
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First fast-day gift to the poor man
+  summary: Ali borrows barley, Ftema prepares cakes, and the household gives all the
+    bread to a poor man, passing the night with only water.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Second and third fast-day gifts
+  summary: On the second day the household gives its bread to an orphan, and on the
+    third day gives its whole provision to a famished captive.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Gabriel's descent with the chapter
+  summary: Gabriel descends with the chapter and tells Mohammed that God congratulates
+    him on the virtues of his family.
+  figure_refs:
+  - fig:2
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Glosses on paradise imagery
+  summary: The notes explain that paradise needs no light or has no excessive heat
+    or cold, and that its fountain water is ginger-tasting and gently flowing.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: vowed fast for healing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A three-day fast is vowed to God in case the sick children recover, and the
+    vow is performed after their recovery.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents this as an explanatory report attached to the chapter,
+    not as the direct translated verse text.
+- id: motif:2
+  label: self-denying charity through relinquished food
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The household repeatedly gives away all prepared food to needy recipients
+    and goes without food, tasting only water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif label describes the literal pattern of the report and does not
+    infer ritual doctrine beyond the passage.
+- id: motif:3
+  label: threefold giving to needy outsiders
+  taxonomy_refs:
+  - sacrifice
+  basis: The giving happens over three successive days to a poor man, an orphan, and
+    a famished captive.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly call this a formal threefold motif; the
+    triadic pattern is derived from the stated sequence.
+- id: motif:4
+  label: divine approval delivered by descending messenger
+  taxonomy_refs: []
+  basis: Gabriel descends with the chapter and tells Mohammed that God congratulates
+    him on his family's virtues.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a revelation-and-approval pattern, but no supplied
+    taxonomy family directly names this motif.
+- id: motif:5
+  label: paradise of tempered light and pleasant water
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The notes describe paradise as not needing light, possibly free from excess
+    heat or cold, and containing ginger-tasting, gently flowing water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: These are brief lexical and exegetical notes, not a continuous narrative
+    description of the afterlife.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly cross-references Revelation xxi. 23 in connection with
+    the image of paradise not needing light.
+  claim_level: visual_similarity
+  target: Revel. xxi. 23
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the citation to Revelation is provided in the passage; the compared
+    text itself is not quoted here, and the comparison may be editorial rather than
+    part of the source passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37597-37602
+  quote_or_summary: Hasan and Hosein are sick; Mohammed visits them; Ali, Ftema, and
+    Fidda vow a three-day fast to God if the children recover, and they do recover.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37602-37608
+  quote_or_summary: Ali borrows three measures of barley from Simeon of Khaibar; Ftema
+    grinds one measure and bakes five cakes; when a poor man comes, they give him
+    all their bread and spend the night on water only.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 37608-37612
+  quote_or_summary: On the next day, an orphan begs food and receives the bread; on
+    the third day, the whole provision is given to a famished captive.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 37612-37614
+  quote_or_summary: Gabriel descends with the chapter and tells Mohammed that God
+    congratulates him on the virtues of his family.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 37615-37620
+  quote_or_summary: A note says they shall not need the light of either in paradise;
+    it adds that Zamharr may mean extreme cold, so some understand paradise as having
+    no excess heat or cold, and cites Revel. xxi. 23.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37621-37623
+  quote_or_summary: A note says the word signifies ginger, which Arabs mix with drinking
+    water, so the fountain water is supposed to have that spice's taste.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: line 37624
+  quote_or_summary: A note says the word signifies water that flows gently and pleasantly
+    down the throat.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction uses only the provided passage. The line range appears to
+    contain Sale's explanatory notes and lexical glosses rather than only direct Qur'anic
+    verse translation, so motif candidates based on the reported anecdote and paradise
+    glosses should be reviewed in that context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy IDs beyond the supplied motif families and symbols were introduced.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37597-l37624
+  passage_sha256=d0560f08b326f02ea0f67273266b65db2233c6270534c9cb671787a6c3b22a27
+

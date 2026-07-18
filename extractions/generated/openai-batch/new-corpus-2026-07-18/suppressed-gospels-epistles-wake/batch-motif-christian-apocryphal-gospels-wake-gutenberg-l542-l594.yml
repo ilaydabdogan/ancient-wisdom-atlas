@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l542-l594
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER I. / CHAPTER II. / CHAPTER III. / CHAPTER IV.; lines 542-594
+  start: '542'
+  end: '594'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"went up all the stairs one after another, without the help of any to lead
+    her or lift her"'
+  summary: At age three, after her weaning, Mary is brought by her parents to the
+    temple with offerings. The temple is described as built in a mountain and reached
+    by fifteen stairs. After her parents place her on a stair, Mary ascends all the
+    stairs unaided; the narrator attributes this miracle to the Lord as evidence of
+    her future greatness. Her parents then offer sacrifice, fulfill their vow, leave
+    her with other virgins in the temple apartments, and return home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: After three years and the completion of weaning, Mary is brought to the temple
+    of the Lord with offerings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The temple is described as built in a mountain, with fifteen stairs to ascend
+    and an altar of burnt-offering that cannot be approached except by stairs.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mary's parents put her on one of the stairs while they change from travel
+    clothing into neater clean clothing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mary ascends all the stairs one after another without anyone leading or lifting
+    her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator says the Lord performed this extraordinary work in Mary's infancy
+    and that the miracle showed how great she would be later.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mary's parents offer sacrifice according to the law, fulfill their vow, leave
+    Mary with other virgins in the temple apartments, and return home.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mary / the Virgin / infant Mary
+  description: A three-year-old child, called the Virgin of the Lord, brought to the
+    temple and later left there with other virgins; she ascends the temple stairs
+    unaided.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Mary's parents
+  description: They bring Mary to the temple with offerings, place her on a stair,
+    change clothing, offer sacrifice, fulfill their vow, leave Mary in the temple
+    apartments, and return home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: the Lord
+  description: Named by the narrator as the one who works the extraordinary miracle
+    in Mary's infancy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: other virgins in the temple apartments
+  description: A group of virgins in the temple apartments who are to be brought up
+    there, with whom Mary is left.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: infant virgin and miraculous ascender
+  assigned_to:
+  - fig:1
+  basis: Mary is brought to the temple at age three and ascends all the temple stairs
+    without help.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: parents fulfilling vow and sacrifice
+  assigned_to:
+  - fig:2
+  basis: The parents bring offerings, offer sacrifice according to the law, fulfill
+    their vow, and return home after leaving Mary in the temple.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: divine source of the miracle
+  assigned_to:
+  - fig:3
+  basis: The narrator attributes the extraordinary work in Mary's infancy to the Lord.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: temple-reared virgins
+  assigned_to:
+  - fig:4
+  basis: The passage describes virgins in the temple apartments who are to be brought
+    up there.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: temple of the Lord
+  literal_form: The temple of the Lord, including apartments where virgins are brought
+    up.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: mountain
+  literal_form: The temple is built in a mountain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fifteen stairs
+  literal_form: Fifteen stairs for ascending at the temple, associated in the passage
+    with the fifteen Psalms of degrees.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: offerings, sacrifice, and vow
+  literal_form: Offerings brought to the temple; a sacrifice offered according to
+    the law; a vow completed by the parents.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:5
+  label: clean clothing
+  literal_form: Neater and clean clothes put on after travel clothes are removed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mary is brought to the temple
+  summary: At age three, after weaning, Mary is brought by her parents to the temple
+    with offerings. The setting includes a mountain-built temple and fifteen stairs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mary ascends the stairs unaided
+  summary: After being placed on one stair, Mary ascends all the stairs without being
+    led or lifted; the narrator presents this as an extraordinary work of the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Sacrifice, vow, and temple residence
+  summary: Mary's parents offer sacrifice, complete their vow, leave Mary with other
+    virgins in the temple apartments, and return home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: miraculous ascent by a child
+  taxonomy_refs:
+  - miraculous_child
+  - ascent
+  basis: Mary, still in infancy, ascends all fifteen temple stairs without help, and
+    the narrator identifies this as a miracle showing her future greatness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage explicitly states a miracle and an ascent; broader theological
+    interpretation is not inferred here.
+- id: motif:2
+  label: temple dedication after vow
+  taxonomy_refs:
+  - initiation
+  - sacred_exchange
+  basis: Mary is brought with offerings, her parents fulfill a vow and sacrifice,
+    and she is left in the temple to be brought up with other virgins.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage states dedication-like actions and temple residence, but does
+    not use the term initiation.
+- id: motif:3
+  label: ritual sacrifice accompanying dedication
+  taxonomy_refs:
+  - sacrifice
+  basis: The parents offer sacrifice according to the custom of the law before leaving
+    Mary in the temple.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives the sacrifice only briefly and does not describe its
+    ritual details.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter IV, v. 1
+  quote_or_summary: After three years and completion of weaning, the Virgin is brought
+    to the temple of the Lord with offerings.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: Chapter IV, vv. 2-3
+  quote_or_summary: The temple is described as built in a mountain; fifteen stairs,
+    associated with the fifteen Psalms of degrees, are used to ascend, and the altar
+    of burnt-offering cannot be approached except by stairs.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Chapter IV, vv. 4-5
+  quote_or_summary: Mary's parents put her on one of the stairs while removing travel
+    clothing and putting on neater, clean clothing.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: Chapter IV, v. 6
+  quote_or_summary: '"went up all the stairs one after another, without the help of
+    any to lead her or lift her"'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Chapter IV, v. 7
+  quote_or_summary: The narrator says the Lord worked this extraordinary work in Mary's
+    infancy and that the miracle evidenced how great she would be afterward.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: Chapter IV, v. 8
+  quote_or_summary: The parents offer sacrifice according to the law, complete their
+    vow, leave Mary with other virgins in the temple apartments to be brought up there,
+    and return home.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high confidence because the supplied passage is short
+    and explicit. Motif assignments are partly interpretive, especially initiation
+    and sacred_exchange. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external comparisons or unsupported taxonomy identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l542-l594
+  passage_sha256=3ed1572b26ab2d238511d4fa4d05f96047e51e6ce292b6786fa5d0c55b05b6aa
+

@@ -1,0 +1,609 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l37716-l37782
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LXXVIII. / ENTITLED, THE
+    NEWS; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 37716-37782
+  start: '37716'
+  end: '37782'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Chapter LXXVIII presents the disputed news of resurrection, recalls divine
+    creation and providence, describes the fixed day of separation and judgment, contrasts
+    hell for transgressors with bliss for the pious, and ends with the heavenly assembly,
+    warning, and the unbeliever's wish to be dust.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Unbelievers question one another about the great news of the resurrection,
+    disagree about it, and are told they will know its truth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the earth was made as a bed and the mountains as stakes to
+    fix it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says humans were created of two sexes, sleep was appointed for
+    rest, night was made a covering garment, and day was destined for livelihood.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Seven solid heavens are described as built over humanity, with a burning lamp
+    placed in them.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rain water is sent down from clouds in abundance to produce corn, herbs, and
+    gardens thickly planted with trees.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The day of separation is described as fixed; a trumpet sounds and people come
+    in troops to judgment.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On that day heaven is opened and full of gates for angels, and the mountains
+    pass away and become like vapor.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hell is described as an ambush and receptacle for transgressors, who remain
+    there for ages and receive no drink except boiling water and filthy corruption.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The punishment of transgressors is called a fit recompense; they did not expect
+    account and accused the signs of falsehood.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Everything is said to have been computed and written down, followed by a command
+    to taste increasing torment.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: For the pious, the passage describes a place of bliss with gardens, vineyards,
+    companions, a full cup, and no vain or false speech.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The bliss of the pious is called a sufficient gift and recompense from the
+    Lord of heaven and earth.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Gabriel and the other angels stand in order; they do not speak except by divine
+    permission and only rightly.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The day is called infallible, and the listener is invited to return to the
+    Lord while being warned of near punishment.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:15
+  text: On that day a person beholds the good or evil deeds sent before him, and the
+    unbeliever says he wishes he were dust.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God / the LORD / the Merciful
+  description: The divine speaker and Lord, described as creator, provider, judge,
+    giver of recompense, and the one who grants permission to speak.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: unbelievers
+  description: Those who question and disagree about resurrection, disbelieve the
+    signs, and at the end wish to be dust.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: transgressors
+  description: Those for whom hell is a receptacle and who receive torment as recompense.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the pious
+  description: Those for whom a place of bliss is prepared.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Gabriel, the spirit
+  description: Named as standing in order on the day when speech is restricted by
+    divine permission.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: other angels
+  description: Angels pass through heaven's gates and stand in order, speaking only
+    by permission.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:7
+  name_or_label: damsels of equal age
+  description: Female companions described among the bliss prepared for the pious.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: a man
+  description: A generic human figure who beholds the deeds his hands have sent before
+    him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: divine creator and provider
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the making of earth, mountains, night, day, heavens,
+    rain, and vegetation to divine action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine judge and recompense-giver
+  assigned_to:
+  - fig:1
+  basis: The passage describes a fixed day of judgment, computed records, punishment,
+    gifts of bliss, and permission to speak granted by the Merciful.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: resurrection disputants and deniers
+  assigned_to:
+  - fig:2
+  basis: Unbelievers question and disagree about resurrection and are later described
+    as disbelieving the signs.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: punished transgressors
+  assigned_to:
+  - fig:3
+  basis: Hell is called a receptacle for transgressors who remain there and receive
+    torment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: rewarded pious
+  assigned_to:
+  - fig:4
+  basis: A place of bliss is prepared for the pious as recompense and gift.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: ordered angels under divine permission
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Gabriel and the angels stand in order and do not speak except by divine permission.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: judged human confronted by deeds
+  assigned_to:
+  - fig:2
+  - fig:8
+  basis: A person sees the deeds sent before him, and the unbeliever responds by wishing
+    to be dust.
+  evidence_refs:
+  - ev:10
+- id: role:8
+  label: companions in bliss
+  assigned_to:
+  - fig:7
+  basis: The damsels are listed among the elements of the pious person's bliss.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: earth as bed
+  literal_form: the earth made for a bed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountains as stakes and vapor
+  literal_form: mountains made as stakes, later passing away as vapor
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: night as garment
+  literal_form: night made a garment to cover humanity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: seven solid heavens
+  literal_form: seven solid heavens built over humanity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: burning lamp
+  literal_form: a burning lamp placed in the heavens
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: rain water
+  literal_form: water poured down from clouds in abundance
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: gardens and trees
+  literal_form: gardens thickly planted with trees; gardens and vineyards in bliss
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:8
+  label: trumpet
+  literal_form: the trumpet sounding on the day of separation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: opened heaven with gates
+  literal_form: heaven opened and full of gates for angels
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:10
+  label: hell as ambush and receptacle
+  literal_form: hell described as a place of ambush and receptacle for transgressors
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:11
+  label: boiling water and corruption
+  literal_form: boiling water and filthy corruption as the only drink in hell
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:12
+  label: computed written record
+  literal_form: everything computed and written down
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:13
+  label: full cup
+  literal_form: a full cup among the bliss of the pious
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:14
+  label: dust
+  literal_form: the unbeliever's wish to be dust
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Question about the news of resurrection
+  summary: Unbelievers ask one another about the resurrection, disagree concerning
+    it, and are told they will know its truth.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cosmic ordering and earthly provision
+  summary: The passage lists divine acts of making earth, mountains, human sexes,
+    rest, night, day, heavens, the burning lamp, rain, crops, herbs, and gardens.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Opening of the day of separation
+  summary: The fixed day arrives with the trumpet, people come in troops to judgment,
+    heaven opens with gates for angels, and mountains become vapor.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hell and recompense for transgressors
+  summary: Hell is described as the long-lasting place for transgressors, with boiling
+    water and corruption, and the punishment is linked to denial of account and signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:10
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Bliss prepared for the pious
+  summary: The pious receive gardens, vineyards, companions, a cup, and freedom from
+    vain or false speech as a sufficient gift from the Lord.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:13
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Heavenly assembly and final warning
+  summary: Gabriel and the angels stand in order and speak only by permission; the
+    day is affirmed, return to the Lord is invited, punishment is warned, and a person
+    sees his deeds while the unbeliever wishes to be dust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:14
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Resurrection announced and disputed
+  taxonomy_refs:
+  - resurrection
+  basis: The passage names the great news of resurrection as the subject disputed
+    by unbelievers and presents the fixed eschatological day that follows.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+  confidence: high
+  cautions: The passage affirms resurrection and judgment but does not narrate individual
+    bodily rising in detail.
+- id: motif:2
+  label: Divine judgment and recompense
+  taxonomy_refs:
+  - divine_judgment
+  basis: The day of separation, trumpet, judgment, written computation, hell for transgressors,
+    bliss for the pious, and confrontation with deeds form a judgment pattern.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: Extraction is limited to this passage's presentation and does not infer
+    a wider theological system beyond the supplied text.
+- id: motif:3
+  label: Contrasted afterlife destinations
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage contrasts hell for transgressors with a place of bliss for the
+    pious after the day of judgment.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage describes destinations and conditions, but it does not narrate
+    a journey through the afterlife.
+- id: motif:4
+  label: Cosmic signs preceding eschatological warning
+  taxonomy_refs: []
+  basis: A list of created cosmic and earthly provisions precedes the declaration
+    of the fixed day of separation and supports the warning context within the passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No supplied taxonomy family directly names this creation-signs pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37722-37726
+  quote_or_summary: Unbelievers ask about and disagree over the great news of the
+    resurrection, and are told they will later know its truth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 37727-37734
+  quote_or_summary: The passage describes earth as a bed, mountains as stakes, humans
+    created in two sexes, sleep as rest, night as covering, day for livelihood, seven
+    heavens, and a burning lamp.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 37735-37739
+  quote_or_summary: Rain water descends from clouds in abundance to produce corn,
+    herbs, and gardens thickly planted with trees.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 37739-37745
+  quote_or_summary: The day of separation is fixed; the trumpet sounds; people come
+    in troops to judgment; heaven opens with gates for angels; mountains become vapor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 37745-37753
+  quote_or_summary: Hell is an ambush and receptacle for transgressors, who remain
+    for ages and receive only boiling water and corruption; their punishment is linked
+    to denial of account and signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 37753-37755
+  quote_or_summary: Everything has been computed and written down; the condemned are
+    told to taste increasing torment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 37755-37766
+  quote_or_summary: The pious receive a place of bliss with gardens, vineyards, damsels
+    of equal age, a full cup, and no vain or false speech; this is a sufficient gift
+    from the Lord.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 37766-37774
+  quote_or_summary: The Lord of heaven and earth is described; inhabitants do not
+    demand audience; Gabriel and the other angels stand in order and speak only by
+    permission and rightly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 37774-37777
+  quote_or_summary: The day is called infallible; whoever wills may return to the
+    Lord; a near punishment is threatened.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 37777-37779
+  quote_or_summary: On the day of punishment a person beholds the deeds sent before
+    him, and the unbeliever says he wishes he were dust.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are strongest for resurrection and divine judgment; afterlife-destination mapping
+    is less certain because no journey is narrated. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references. Footnote cross-references and commentary were not used to generate independent comparison claims.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l37716-l37782
+  passage_sha256=c0194bb13952f2126d8586e28ede46188ca0e08ef7390c3ab4e6dfc7bb5e0702
+

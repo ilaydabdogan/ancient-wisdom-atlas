@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l1280-l1311
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: LION AND JACKAL / THE HUNT OF LION AND JACKAL / STORY OF LION AND LITTLE
+    JACKAL / THE LIONESS AND THE OSTRICH; lines 1280-1311
+  start: '1280'
+  end: '1311'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: The voices were equal. The lioness said to the ostrich, "You are my match."
+  summary: A lioness and an ostrich compare their roars and are declared matched.
+    They hunt together, but the ostrich kills more game with his leg claw. After eating
+    and resting, the lioness's cubs discover that the sleeping ostrich has no teeth
+    and report this to their mother as an insult. The lioness challenges the ostrich
+    to fight; the ostrich uses an ant-hill in the fight and kills the lioness by striking
+    a vulnerable spot near her liver.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A lioness roars, an ostrich also roars, and the lioness goes to meet the ostrich.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After both roar, their voices are described as equal, and the lioness tells
+    the ostrich that he is her match.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lioness asks the ostrich to hunt game together, and they go toward eland.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lioness catches only one animal, while the ostrich kills many by striking
+    them with the claw on his leg.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The lioness has young cubs who eat with her after she rips open the game.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ostrich says the lioness should rip open the game and that he will eat
+    the blood; after the lioness and cubs eat, the ostrich eats the blood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: While the ostrich sleeps with his mouth open, the young lions see that he
+    has no teeth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The young lions tell their mother that the toothless ostrich, who says he
+    is her equal, is insulting her.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The lioness wakes the ostrich and tells him to get up so they can fight.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The ostrich directs the lioness to one side of an ant-hill, strikes the ant-hill
+    toward her, and then strikes her near the liver and kills her.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lioness
+  description: A lioness who roars, declares the ostrich her match, hunts with him,
+    has young cubs, challenges the ostrich to fight, and is killed.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ostrich
+  description: An ostrich who roars with a voice equal to the lioness's, kills many
+    animals with a claw on his leg, eats blood, has no teeth, and kills the lioness
+    in a fight.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Young lions or cubs
+  description: The lioness's young cubs; they eat with her, play near the sleeping
+    ostrich, observe that he has no teeth, and report this to their mother.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Eland or game
+  description: Game animals pursued by the lioness and ostrich; the lioness catches
+    one and the ostrich kills many.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: matched rivals
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Their roars are described as equal, and the lioness calls the ostrich her
+    match.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: joint hunters
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The lioness proposes that they hunt game together, and both pursue eland.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mother and offspring
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage states that the lioness has young cubs, and the cubs refer to
+    her as their mother.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: more successful hunter
+  assigned_to:
+  - fig:2
+  basis: The ostrich kills many animals while the lioness kills only one.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: witnesses and reporters
+  assigned_to:
+  - fig:3
+  basis: The young lions observe that the ostrich has no teeth and report this to
+    their mother.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: combat challenger and victim
+  assigned_to:
+  - fig:1
+  basis: The lioness wakes the ostrich to fight and is killed in the fight.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: victorious combatant
+  assigned_to:
+  - fig:2
+  basis: The ostrich uses the ant-hill maneuver and kills the lioness with a strike
+    near the liver.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: prey
+  assigned_to:
+  - fig:4
+  basis: The eland or game are pursued and killed during the hunt.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: equal roars
+  literal_form: Roaring voices described as equal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: leg claw
+  literal_form: The claw on the ostrich's leg used to kill game
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blood meal
+  literal_form: Blood from the opened game eaten by the ostrich
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: toothless open mouth
+  literal_form: The sleeping ostrich's open mouth showing no teeth
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ant-hill
+  literal_form: An ant-hill used as a fighting position and struck toward the lioness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: vulnerable place near the liver
+  literal_form: The lioness's vulnerable spot near the liver where the ostrich strikes
+    her
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Roaring encounter
+  summary: The lioness and ostrich meet, exchange roars, and the lioness recognizes
+    the ostrich as her match because their voices are equal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Joint hunt of eland
+  summary: The lioness and ostrich hunt together; the lioness kills one animal, while
+    the ostrich kills many with his leg claw.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Resting and eating after the hunt
+  summary: The lioness, her cubs, and the ostrich rest in the shade. The lioness opens
+    the game and eats with the cubs, while the ostrich eats blood afterward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Discovery of the ostrich's lack of teeth
+  summary: The cubs play near the sleeping ostrich, see his open toothless mouth,
+    and tell their mother that his claim to equality insults her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Fight at the ant-hill
+  summary: The lioness challenges the ostrich to fight. The ostrich arranges their
+    positions around an ant-hill, strikes it toward her, and then kills her with a
+    blow near the liver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Animal rivals recognized as equals by sound
+  taxonomy_refs: []
+  basis: The lioness and ostrich compare roars, their voices are equal, and the lioness
+    calls the ostrich her match.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states equality of voice, not equality in all abilities.
+- id: motif:2
+  label: Unexpectedly superior hunting partner
+  taxonomy_refs: []
+  basis: In the joint hunt, the ostrich kills many animals with his leg claw while
+    the lioness kills only one.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain why the ostrich is more successful beyond
+    the stated use of his claw.
+- id: motif:3
+  label: Hidden bodily lack revealed during sleep
+  taxonomy_refs: []
+  basis: The sleeping ostrich opens his mouth, allowing the cubs to see that he has
+    no teeth.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the lack of teeth as a discovered fact but does not
+    state that the ostrich intentionally hid it.
+- id: motif:4
+  label: Insult report provokes combat
+  taxonomy_refs: []
+  basis: The cubs tell their mother that the ostrich's toothlessness makes his equality
+    claim insulting, after which the lioness wakes him to fight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The provocation is mediated through the cubs' speech; the ostrich does
+    not directly insult the lioness in quoted speech.
+- id: motif:5
+  label: Combat won by use of terrain and vulnerable strike
+  taxonomy_refs: []
+  basis: The ostrich positions the fight around an ant-hill, strikes it toward the
+    lioness, and then kills her by striking a vulnerable spot near the liver.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage describes the maneuver but does not provide an explicit explanation
+    of its strategy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1280-1286
+  quote_or_summary: The lioness and ostrich roar, meet, repeat their roars, and their
+    voices are equal; the lioness says the ostrich is her match.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 1288-1293
+  quote_or_summary: The lioness proposes a joint hunt; they pursue eland. The lioness
+    catches one, while the ostrich kills many by striking with the claw on his leg.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 1295-1299
+  quote_or_summary: The lioness has young cubs; they rest in the shade. The lioness
+    opens the game and eats with the cubs, and the ostrich later eats the blood.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 1301-1305
+  quote_or_summary: The cubs play near the sleeping ostrich, see his open mouth and
+    lack of teeth, and tell their mother that his claim to equality insults her.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 1305-1311
+  quote_or_summary: The lioness wakes the ostrich to fight. The ostrich has them stand
+    on opposite sides of an ant-hill, strikes the ant-hill toward her, then strikes
+    her near the liver and kills her.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    descriptive and not linked to taxonomy families because the available taxonomy
+    does not include a clearly supported specific family for this passage. No comparison
+    claims were added because the passage itself does not support comparison beyond
+    its own narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unprovided taxonomy identifiers were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l1280-l1311
+  passage_sha256=23ca9a037705c83c0b1500bc7c06c2f91d1ee6b814e48efdb2acd92e5fe19b06
+

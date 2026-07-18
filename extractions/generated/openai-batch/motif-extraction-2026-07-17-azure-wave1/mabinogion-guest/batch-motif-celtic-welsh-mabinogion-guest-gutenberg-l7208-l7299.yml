@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l7208-l7299
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: PEREDUR THE SON OF EVRAWC / GERAINT THE SON OF ERBIN / THE DREAM OF RHONABWY
+    / PWYLL PRINCE OF DYVED; lines 7208-7299
+  start: '7208'
+  end: '7299'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A richly wrought golden bowl traps Pryderi, and then Rhiannon, fixing their
+    hands to the bowl and feet to the slab and rendering them speechless. At night
+    thunder and mist come, and the castle vanishes with them. Manawyddan consoles
+    Kicva and vows faithful friendship; they leave for Lloegyr, where he prospers
+    as a shoemaker until rival cordwainers plot to kill him. Returning to Dyved, he
+    sows three crofts of wheat; the first two are mysteriously stripped of their ears
+    overnight, and he resolves to keep armed watch over the third.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person identified later as Pryderi is drawn to the beauty and workmanship
+    of a golden bowl and takes hold of it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the bowl is grasped, the holder's hands stick to the bowl, his feet
+    stick to the slab beneath it, his joy leaves him, and he cannot speak.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Manawyddan waits until late evening without receiving tidings of Pryderi or
+    the dogs, then returns to the palace and tells Rhiannon what happened.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rhiannon calls Manawyddan an evil companion, goes to the castle according
+    to his directions, and finds its gate open.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Rhiannon sees Pryderi holding the bowl, questions him, takes hold of the bowl
+    with him, and becomes fixed to the bowl and slab and unable to speak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At night thunder and a fall of mist come, after which the castle vanishes
+    together with Pryderi and Rhiannon.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Kicva grieves when she is left in the palace with only Manawyddan, and Manawyddan
+    reassures her with a heaven-witnessed promise of pure friendship and faithfulness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Manawyddan and Kicva leave for Lloegyr to find support, and Manawyddan chooses
+    shoemaking as his craft despite Kicva's objection that it is not suitable to his
+    rank.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Manawyddan makes fine leather shoes with gilded clasps, draws away the town's
+    shoe trade, and the other cordwainers become envious and agree to kill him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After warning of the plot, Manawyddan and Kicva return toward Dyved; Manawyddan
+    brings wheat to Narberth, hunts, fishes, prepares ground, and sows three crofts
+    that grow very well.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: On successive mornings Manawyddan finds the first and second ripe crofts stripped
+    of all ears of wheat, with only bare straw remaining.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:12
+  text: Seeing the third croft ripe, Manawyddan decides to watch it at night with
+    his arms so he may learn who is taking the corn.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Pryderi
+  description: He is seen holding the bowl; he is fixed to the bowl and slab, speechless,
+    and later vanishes with the castle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Manawyddan
+  description: He waits for Pryderi and the dogs, reports the adventure to Rhiannon,
+    reassures Kicva, travels with her, works as a shoemaker, returns to Dyved, sows
+    wheat, and prepares to watch the third croft.
+  role_refs:
+  - role:2
+  - role:5
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Rhiannon
+  description: She asks about Pryderi and the dogs, enters the castle, takes hold
+    of the bowl with Pryderi, becomes fixed and speechless, and vanishes with him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kicva daughter of Gwynn Gloyw
+  description: She grieves after Pryderi and Rhiannon disappear, is reassured by Manawyddan,
+    travels with him to Lloegyr and back, and is told of the croft thefts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:5
+  name_or_label: the dogs
+  description: Manawyddan has no tidings of them and later says they have been lost.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: cordwainers in the town
+  description: They become idle because Manawyddan's shoes dominate the trade, grow
+    envious, and agree to slay him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: trapped bowl-holder
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Pryderi and Rhiannon each take hold of the bowl and become fixed to it and
+    to the slab, unable to speak.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: surviving companion and reporter
+  assigned_to:
+  - fig:2
+  basis: Manawyddan waits for missing companions, returns to the palace, and tells
+    Rhiannon the adventure.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seeker entering the castle
+  assigned_to:
+  - fig:3
+  basis: Rhiannon proceeds to the castle by Manawyddan's directions, enters the open
+    gate, and goes toward Pryderi.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: grieving companion
+  assigned_to:
+  - fig:4
+  basis: Kicva sorrows when only she and Manawyddan remain in the palace, then takes
+    courage after his reassurance.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: faithful protector
+  assigned_to:
+  - fig:2
+  basis: Manawyddan calls Heaven to witness his pure friendship, faithfulness to Pryderi,
+    and protection of Kicva.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: shoemaker craftsman
+  assigned_to:
+  - fig:2
+  basis: Manawyddan chooses the craft of making shoes and produces fine leather shoes
+    with gilded clasps.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: envious craft rivals
+  assigned_to:
+  - fig:6
+  basis: The town cordwainers become idle and envious because of Manawyddan's success
+    and agree together to slay him.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: farmer and armed watcher
+  assigned_to:
+  - fig:2
+  basis: Manawyddan sows three crofts of wheat and, after two are stripped, takes
+    arms to watch the third by night.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:9
+  label: lost animals
+  assigned_to:
+  - fig:5
+  basis: Manawyddan receives no tidings of the dogs and later says they have been
+    lost.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: golden bowl
+  literal_form: A beautiful, richly worked bowl of gold that fixes the hands of those
+    who take hold of it.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: slab beneath the bowl
+  literal_form: The slab on which the bowl is placed, to which the feet of the bowl-holders
+    become stuck.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: vanishing castle
+  literal_form: A castle with an open gate that disappears at night with Pryderi and
+    Rhiannon inside.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: thunder and mist
+  literal_form: Thunder and a fall of mist that precede the disappearance of the castle
+    and captives.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: fine shoes with gilded clasps
+  literal_form: Shoes made of fine leather with gilded clasps, whose desirability
+    disrupts the local cordwainers' trade.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: three wheat crofts
+  literal_form: Three crofts of exceptionally fine wheat; the first two are stripped
+    of ears overnight, leaving bare straw.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: arms for night watch
+  literal_form: Manawyddan's arms, taken when he resolves to watch the third ripe
+    croft at night.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Bowl trap and disappearance
+  summary: Pryderi is immobilized by the golden bowl; Rhiannon enters the castle,
+    takes hold of the bowl with him, is likewise immobilized, and both vanish with
+    the castle amid thunder and mist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Kicva's grief and Manawyddan's pledge
+  summary: Kicva grieves when only she and Manawyddan remain; he reassures her by
+    invoking Heaven as witness to his pure friendship and continued faith toward Pryderi
+    and Kicva.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Lloegyr shoemaking and hostile rivals
+  summary: Manawyddan and Kicva go to Lloegyr for support; he practices shoemaking,
+    becomes so successful that the local cordwainers lose trade, and leaves after
+    learning they plan to kill him.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Return to Dyved and wheat cultivation
+  summary: Manawyddan returns toward Dyved with wheat, settles near Narberth, hunts
+    and fishes, prepares ground, and sows three crofts that grow exceptionally well.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Mysterious stripping of the harvest
+  summary: The first two ripe crofts are found with the ears cut and carried away,
+    leaving bare straw; Manawyddan resolves to watch the third ripe croft at night
+    with his arms.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: enchanted object that immobilizes the toucher
+  taxonomy_refs: []
+  basis: The golden bowl and its slab fix the hands and feet of both Pryderi and Rhiannon
+    and render them unable to speak.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not identify who made or placed the bowl or explain its
+    power.
+- id: motif:2
+  label: vanishing castle with captives
+  taxonomy_refs: []
+  basis: After Rhiannon is trapped with Pryderi, thunder and mist come at night and
+    the castle vanishes with both figures.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The destination or condition of the vanished figures is not described
+    in this passage.
+- id: motif:3
+  label: heaven-witnessed pledge of faithful guardianship
+  taxonomy_refs:
+  - covenant
+  basis: Manawyddan invokes Heaven as witness while promising pure friendship, faith
+    toward Pryderi, and protection for Kicva.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a personal oath rather than a formal treaty or divine
+    covenant.
+- id: motif:4
+  label: noble exile surviving by humble craft
+  taxonomy_refs: []
+  basis: Manawyddan, described by Kicva as nobly born, insists on shoemaking as his
+    craft while seeking support in Lloegyr.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The broader social or initiatory significance of the craft is not stated
+    in the passage.
+- id: motif:5
+  label: craft success provoking murderous envy
+  taxonomy_refs: []
+  basis: Manawyddan's fine shoes make the other cordwainers idle; they become envious
+    and agree to kill him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The rivals are ordinary townsmen in the passage; no supernatural cause
+    is given for their plot.
+- id: motif:6
+  label: mysterious harvest theft followed by night watch
+  taxonomy_refs: []
+  basis: The first two ripe wheat crofts are stripped overnight by an unseen taker,
+    prompting Manawyddan to arm himself and watch the third.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The thief or mechanism is not revealed within this line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7208-7212
+  quote_or_summary: A beautiful, richly worked golden bowl is grasped; the holder's
+    hands stick to the bowl, his feet to the slab beneath it, and he cannot speak.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7214-7232
+  quote_or_summary: Manawyddan waits without tidings of Pryderi or the dogs; Rhiannon
+    goes to the open castle, sees Pryderi holding the bowl, touches it too, becomes
+    fixed and speechless, and the castle vanishes with them after thunder and mist.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7234-7250
+  quote_or_summary: Kicva grieves when alone with Manawyddan; he calls Heaven to witness
+    his pure friendship and vows faith toward Pryderi and Kicva, after which she takes
+    courage.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7252-7258
+  quote_or_summary: Manawyddan and Kicva decide to go to Lloegyr for support; he says
+    he will practice the craft of shoemaking, though Kicva says it does not befit
+    his noble birth.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7260-7271
+  quote_or_summary: Manawyddan makes fine leather shoes with gilded clasps; the other
+    cordwainers lose business, grow envious, and agree to slay him, so he and Kicva
+    set out back toward Dyved.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7273-7281
+  quote_or_summary: Manawyddan returns to Narberth with wheat, hunts and fishes, prepares
+    land, and sows three crofts; the wheat grows exceptionally well.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 7283-7289
+  quote_or_summary: When Manawyddan returns at dawn to reap the first ripe croft,
+    he finds only bare straw; all ears of wheat have been cut off and carried away.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 7290-7294
+  quote_or_summary: The second ripe croft is likewise found stripped to bare straw,
+    and Manawyddan exclaims that whoever began his ruin is completing it and has destroyed
+    the country with him.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 7296-7299
+  quote_or_summary: The third croft is also ripe and exceptionally fine; Manawyddan
+    vows to watch it that night, takes his arms, and tells Kicva what has happened.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and named figures are clear in the provided passage. Motif
+    labels are cautious because the passage does not explain the agency behind the
+    bowl, vanishing castle, or wheat theft. No comparison claims are made because
+    the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; available taxonomy refs were applied only where directly supportable.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l7208-l7299
+  passage_sha256=acdd2a6993dc95efa29806219e9febb200e5d3cdc409f9a764c5a62ad8441345
+

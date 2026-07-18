@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l8420-l8454
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 183, / ABORIGINAL TRIBES OF GUIANA. 185 / ABORIGINAL
+    TRIBES OF GUIANA. 187 / LEGENDS AND MYTHS OF THE; lines 8420-8454
+  start: '8420'
+  end: '8454'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young man hunting alone wounds a monster called Kaniima with an arrow,
+    and later finds the splintered arrow-head. The next day his father returns in
+    pain, and the son removes a bone from his father's mouth that fits the broken
+    arrow-head. The son accuses his father of trying to kill him with the dread Kandima
+    charm in order to gain the son's wife, and says they will leave him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A son goes hunting alone with old-time arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A monster springs without success, and an arrow pierces its jaw.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wounded being breaks the hanging weapon with its paw and flees; the young
+    man picks up the splintered arrow-head.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The next day the father comes home groaning and says that his mouth seems
+    all on fire.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The son draws a bone from his father's mouth, and the legend says it fitted
+    into the splintered arrow-head.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The son says they will leave the father there and states that the father would
+    have slain his son to gain the son's wife.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The son's speech names the intended means as the dread Kandima charm.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: young man / son
+  description: A son who hunts alone, wounds the monster, recovers the arrow-head,
+    removes a bone from his father's mouth, and speaks against his father.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: guilty sire / father
+  description: The father returns home groaning with pain in his mouth; a bone is
+    removed from his mouth, and the son accuses him of seeking to kill him to gain
+    his wife.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: monster / Kaniima
+  description: A monster called Kaniima springs at the hunter, is pierced in the jaw
+    by an arrow, breaks the weapon with its paw, and flees.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: wife of the son
+  description: The son's wife is mentioned as the woman whom the father wished to
+    gain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The son comes hunting alone with arrows.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intended victim and revealer
+  assigned_to:
+  - fig:1
+  basis: The son says his father would slay him, and he links the bone from the father's
+    mouth with the broken arrow-head.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: father accused of attempted kin-slaying
+  assigned_to:
+  - fig:2
+  basis: The son states that the father would slay his son by means of the Kandima
+    charm.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: rival for son's wife
+  assigned_to:
+  - fig:2
+  basis: The son says the father wished to gain the son's wife because the father
+    had none.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: attacking monster
+  assigned_to:
+  - fig:3
+  basis: The monster springs at the hunter and is struck in the jaw.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: desired wife
+  assigned_to:
+  - fig:4
+  basis: The wife is identified as the person the father wished to gain.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: old-time arrows and splintered arrow-head
+  literal_form: arrows, broken weapon, and splintered arrow-head
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: bone drawn from mouth
+  literal_form: bone removed from the father's mouth and fitted into the splintered
+    arrow-head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: burning mouth
+  literal_form: the father's statement that his mouth seems all on fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Kandima charm
+  literal_form: dread Kandima charm named as the means by which the father would slay
+    the son
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hunting encounter with Kaniima
+  summary: The son hunts alone, a monster called Kaniima springs, and the son wounds
+    it in the jaw with an arrow; the being breaks the weapon and flees, leaving the
+    son to pick up the splintered arrow-head.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Recognition through wound and arrow fragment
+  summary: The father returns the next day in mouth pain; the son removes a bone from
+    the father's mouth, and it fits the earlier splintered arrow-head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Accusation and abandonment
+  summary: The son says they will leave the father and accuses him of intending to
+    kill him with the Kandima charm in order to gain the son's wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wounded monster identified with a kinsperson
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage places the wounding of Kaniima's jaw before the father's return
+    with mouth pain and a matching object in his mouth, supporting a cautious shapeshifter
+    or disguised-attacker motif.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state that the father transformed into
+    Kaniima; the identification is implied by sequence and the fitting arrow fragment.
+- id: motif:2
+  label: father's attempted murder of son over the son's wife
+  taxonomy_refs: []
+  basis: The son explicitly states that the father wished to slay him in order to
+    gain his wife.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available motif
+    families do not precisely name this kin-rivalry pattern.
+- id: motif:3
+  label: recognition by matching wound-token
+  taxonomy_refs: []
+  basis: The bone from the father's mouth fits the splintered arrow-head recovered
+    after the monster encounter, functioning as recognition evidence within the narrative.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern rather than a supplied taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8420-8424
+  quote_or_summary: The son comes hunting alone with old-time arrows.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8425-8429
+  quote_or_summary: A monster springs unsuccessfully; an arrow pierces its jaw and
+    hangs from its mouth.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8430-8433
+  quote_or_summary: The being breaks the weapon with its paw, Kaniima flees, and the
+    young man picks up the splintered arrow-head.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 8436-8439
+  quote_or_summary: '"O son, my mouth seems all on fire!"'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quote used.
+- id: ev:5
+  type: summary
+  locator: lines 8439-8443
+  quote_or_summary: The son draws a bone from the father's mouth, and the legend says
+    it fitted into the splintered arrow-head.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 8444-8451
+  quote_or_summary: The son says they will leave the father; he has a wife while the
+    father has none, and the father would slay him to gain her.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 8452-8454
+  quote_or_summary: '"with the dread Kandima charm, / A son — who never did thee harm."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quote used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and roles are clear. The shapeshifter motif is inferred
+    from narrative juxtaposition rather than explicitly stated transformation. No
+    comparison claims are made because the passage itself does not supply a comparative
+    frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif and symbol lists.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l8420-l8454
+  passage_sha256=0ad1577ce551a739158a5b54ddfd56bb80b2d8dcede4ddca450788d0951cef30
+

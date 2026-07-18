@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6619-l6691
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 12 / PAGE 13 / PAGE 14 / PAGE 15; lines 6619-6691
+  start: '6619'
+  end: '6691'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes are followed by a literal rendering of a dialogue in
+    which a sick young man is questioned, describes his inability to enjoy harp music
+    or milk, resists speaking of his trouble, and is offered healing and possible
+    help in courtship by a wise maiden addressed as the wife of King Eochaid Fedlech.
+    The passage also notes a textual confusion between Eochaid Airemm and Eochaid
+    Fedlech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes notes on translation and vocabulary, including a term
+    glossed as the cough of consumption and a phrase glossed as “his burial mound.”
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: An unidentified speaker asks a young man what has happened to him and describes
+    him as lying long in sickness with his movement prostrate.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The young man says there is cause for his sighs, that harp music does not
+    content him, and that no milk pleases him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: A speaker identifying herself as a wise maiden asks what ails the man and
+    offers to do anything beneficial so that his healing may be wrought by her.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The young man says he cannot speak of the matter, praises the maiden’s form,
+    mentions an uncertain image of fire behind her eyes, and says the secrets of women
+    are not good.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Another speaker says that although women’s secrets are bad, if the matter
+    is love, remembrance remains for a long time.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The young man addresses a white maiden and then a wife of King Eochaid Fedlech,
+    saying that his body opposes him and that his body and head are sick.
+  category: speech
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:8
+  text: The wise maiden says that if someone among the troops of white women is vexing
+    him, that woman shall come, and courtship shall be made with the maiden’s help.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: A note states that there is an obvious confusion between Eochaid Airemm, described
+    as the king in the story, and his brother Eochaid Fedlech.
+  category: relationship
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Unidentified sick young man / speaker A
+  description: A young man addressed by others; he is sick, sighing, displeased by
+    harp music and milk, reluctant to speak, and says his body and head are sick.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Unidentified questioner / speaker B
+  description: A speaker who asks the young man what has happened and comments that
+    if the matter is love, remembrance remains long.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Wise maiden / white maiden / wife of the King
+  description: A maiden who calls herself wise, offers healing, is addressed as a
+    white maiden, and is also addressed as wife of King Eochaid Fedlech.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Eochaid Fedlech
+  description: Named in the dialogue as King in the phrase addressing the wife of
+    the King; a note later says Eochaid Fedlech is the brother of Eochaid Airemm.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: fig:5
+  name_or_label: Troops of white women
+  description: A group among whom the wise maiden suggests there may be someone vexing
+    the sick man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: Eochaid Airemm
+  description: Named only in a note as the king in the story and as the brother of
+    Eochaid Fedlech.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: sick sufferer
+  assigned_to:
+  - fig:1
+  basis: The young man is described as lying in sickness and says his body and head
+    are sick.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:2
+  label: questioner and possible love-interpreter
+  assigned_to:
+  - fig:2
+  basis: This speaker asks what has happened to the young man and later frames the
+    problem as possibly love.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: wise healer and courtship mediator
+  assigned_to:
+  - fig:3
+  basis: The maiden identifies herself as wise, offers healing, and offers to help
+    bring about courtship if a woman is vexing the man.
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: role:4
+  label: named king in address
+  assigned_to:
+  - fig:4
+  basis: Eochaid Fedlech is named as King in the young man’s address and later discussed
+    in a note.
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: role:5
+  label: possible source of vexation or courtship target group
+  assigned_to:
+  - fig:5
+  basis: The wise maiden hypothesizes that someone among the troops of white women
+    may be vexing the man and may be brought to him.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: king in story according to note
+  assigned_to:
+  - fig:6
+  basis: A note identifies Eochaid Airemm as the king in the story and distinguishes
+    him from his brother Eochaid Fedlech.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: milk that does not please the sick young man
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: harp music
+  literal_form: music of the harp that does not content the sick young man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: uncertain fire image behind eyes
+  literal_form: "“fire of some one behind her eyes (?)”"
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: bed of sickness
+  literal_form: long bed of sickness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: burial mound
+  literal_form: "“his burial mound,” glossing “a fert fodbuigh”"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Questioning of the sick young man
+  summary: A speaker asks the young man what has happened and describes his prolonged
+    sickbed and prostrate condition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Young man’s lament and reluctance
+  summary: The sick young man says harp music and milk do not please him, resists
+    speaking of his trouble, refers to women’s secrets, and later says his body and
+    head are sick.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: scene:3
+  label: Offer of healing and courtship assistance
+  summary: The wise maiden asks what ails the man, offers to help heal him, and says
+    she can bring a woman from among the white women and assist in courtship if one
+    is vexing him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: hidden illness resembling love-sickness
+  taxonomy_refs: []
+  basis: The man is sick and unable to enjoy harp music or milk; another speaker says
+    that if it is love, remembrance remains long; the wise maiden asks whether a woman
+    is vexing him.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The passage suggests love as an interpretation but does not explicitly
+    state that love is the cause of the illness.
+- id: motif:2
+  label: wise maiden as healer
+  taxonomy_refs:
+  - wisdom
+  basis: A maiden identifies herself as wise and offers to do what may benefit the
+    man so that his healing may be wrought by her.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The excerpt gives the offer of healing but not the outcome.
+- id: motif:3
+  label: female-mediated courtship
+  taxonomy_refs: []
+  basis: The wise maiden says that if a woman among the troops of white women is vexing
+    the man, that woman shall come and courtship shall be made with her help.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The courtship is proposed conditionally; the excerpt does not show it
+    being completed.
+- id: motif:4
+  label: secrecy around women and love
+  taxonomy_refs: []
+  basis: The young man says the secrets of women are not good, and another speaker
+    replies that if the matter is love, remembrance remains long.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage frames secrecy and love in dialogue but leaves the exact secret
+    unstated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6621-6623
+  quote_or_summary: A translation note glosses “the choking misery” as a phrase involving
+    the cough of consumption.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 6627-6628
+  quote_or_summary: "“His burial mound,” a fert fodbuigh."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Literal rendering of the dialogue, B opening stanza
+  quote_or_summary: Speaker B asks what has happened to the young man and describes
+    his long bed of sickness and prostrate pace.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: Literal rendering of the dialogue, A first reply
+  quote_or_summary: Speaker A says there is cause for his sighs; harp music does not
+    content him, no milk pleases him, and this brings him into a pitiful state.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Literal rendering of the dialogue, E first speech
+  quote_or_summary: Speaker E asks what ails the man, identifies herself as a wise
+    maiden, and asks what may benefit him so that his healing may be wrought by her.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: Literal rendering of the dialogue, A second reply
+  quote_or_summary: Speaker A says speaking of the matter is not possible; he addresses
+    the maiden, notes her lovely form, mentions an uncertain image of fire behind
+    her eyes, and says women’s secrets are not good.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: Literal rendering of the dialogue, B second speech
+  quote_or_summary: Speaker B says that though women’s secrets are bad, if it is love,
+    remembrance remains for long.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: Literal rendering of the dialogue, A blessing speech
+  quote_or_summary: Speaker A blesses the white maiden, says he is not worthy of her
+    speech, is not grateful to his own mind, and says his body is in opposition to
+    him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: Literal rendering of the dialogue, A sickness report speech
+  quote_or_summary: Speaker A addresses the wife of King Eochaid Fedlech and says
+    that his body and head are sick and that it is reported in Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: Literal rendering of the dialogue, E final speech
+  quote_or_summary: Speaker E says that if anyone among the troops of white women
+    is vexing the man, she shall come, and courtship shall be made by E’s help.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: note on Verse 7, line 2
+  quote_or_summary: A note states that confusion between Eochaid Airemm, the king
+    in the story, and his brother Eochaid Fedlech is obvious, with possible implications
+    for the poem’s relation to the romance.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is relatively secure from the supplied dialogue. Motif
+    candidates involving love-sickness are marked medium because the passage presents
+    love and a vexing woman as possibilities rather than explicit causes. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Speaker labels A, B, and E are treated as literal labels without expanding them to names outside the excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6619-l6691
+  passage_sha256=22632464f90092b1b0ff3c3be7f2e2e07ccd3494ccf2fe4d579d94922b7c3638
+

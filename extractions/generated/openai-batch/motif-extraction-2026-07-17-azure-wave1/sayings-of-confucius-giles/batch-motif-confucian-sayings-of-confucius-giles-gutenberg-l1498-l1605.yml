@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l1498-l1605
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: INTRODUCTION / LIST OF THE PRINCIPAL DISCIPLES / GOVERNMENT AND PUBLIC AFFAIRS
+    / INDIVIDUAL VIRTUE; lines 1498-1605
+  start: '1498'
+  end: '1605'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens with Tzu Kung asking whether the nobler sort of man has
+    hatreds. The Master answers that he does, naming several morally disordered types,
+    and Tzu Kung adds his own dislikes of false understandings of wisdom, courage,
+    and honesty. The remainder consists of translator's notes on key Confucian terms
+    such as chün tzu, jen, learning, filial piety, and chung, with some comparisons
+    to Greek, Aristotelian, and biblical terminology.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tzu Kung asks whether the nobler sort of man has any hatreds.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master replies that the nobler sort of man hates those who publish others'
+    faults, lower-status men who vilify superiors, courage without self-restraint,
+    and audacity joined to narrow-mindedness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tzu Kung says he hates those who identify wisdom with prying and meddling,
+    courage with noncompliance, and honesty with denouncing others.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A note explains chün tzu as an expression often translated as “the superior
+    man,” but the translator prefers renderings such as “the higher type of man,”
+    “the nobler sort of man,” or “the good man.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note defines jen as humanity, natural goodness of heart in human relations,
+    loving-kindness, charity, or virtue, and calls it the corner-stone of Confucian
+    ethics.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note explains that learning in Confucius is generally the study of right
+    conduct for practical application and the development of natural goodness.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note states that outward acts do not constitute filial piety unless they
+    arise from genuine duteous feeling in the heart.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note explains chung as loyalty to oneself, devotion to principle, or conscientiousness,
+    with loyalty to the sovereign as an extended sense.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note says that Chên Wên Tz could not reconcile it with his conscience to
+    settle in the states he visited, suggesting disorder, murder, and usurpation in
+    the Empire at that period.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A note describes the virtuous act as something performed for its own sake
+    regardless of consequences.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Tzu Kung
+  description: A disciple who asks the Master about the hatreds of the nobler sort
+    of man and then states his own hatreds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Master
+  description: The teacher who answers Tzu Kung's question about whether the nobler
+    sort of man has hatreds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The nobler sort of man / chün tzu
+  description: An ethical human type discussed in the dialogue and explained in a
+    translator's note as the higher type, nobler sort, or good man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Chên Wên Tz
+  description: A figure mentioned in a note as unable to reconcile settlement in various
+    states with his conscience.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Disciple-questioner
+  assigned_to:
+  - fig:1
+  basis: Tzu Kung asks the Master a question and gives his own answer about false
+    wisdom, courage, and honesty.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Teacher-respondent
+  assigned_to:
+  - fig:2
+  basis: The Master replies to Tzu Kung by listing morally objectionable kinds of
+    conduct.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Moral exemplar type
+  assigned_to:
+  - fig:3
+  basis: The passage discusses what the nobler sort of man hates, and the note explains
+    chün tzu as a higher or good type of man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Conscientious official or traveler
+  assigned_to:
+  - fig:4
+  basis: The note says Chên Wên Tz could not reconcile settling in the visited states
+    with his conscience.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Corner-stone of ethics
+  literal_form: corner-stone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dialogue on the hatreds of the nobler man
+  summary: Tzu Kung asks whether the nobler sort of man has hatreds. The Master says
+    he does and lists forms of socially harmful or uncontrolled conduct. Tzu Kung
+    then names false forms of wisdom, courage, and honesty that he hates.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Translator's ethical and lexical commentary
+  summary: The notes explain several key terms and ideals, including chün tzu, jen,
+    learning, filial piety, chung, and virtue performed for its own sake.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Moral wisdom as discernment of false virtue
+  taxonomy_refs:
+  - wisdom
+  basis: The dialogue distinguishes genuine noble conduct from fault-publishing, unrestrained
+    courage, meddling called wisdom, noncompliance called courage, and denunciation
+    called honesty.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethical saying rather than a mythic narrative; the motif is
+    a moral-intellectual pattern, not a story episode.
+- id: motif:2
+  label: Learning as ethical cultivation of inner goodness
+  taxonomy_refs:
+  - wisdom
+  basis: The note says learning is study of right conduct for practical application
+    and is aimed at developing natural goodness within a person.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The basis is translator commentary, not direct dialogue in the excerpt.
+- id: motif:3
+  label: Inner virtue over outward performance
+  taxonomy_refs: []
+  basis: The notes define jen as inward human goodness and state that outward filial
+    acts do not constitute filial piety unless prompted by genuine feeling in the
+    heart.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a doctrinal ethical pattern; no listed taxonomy family
+    directly names this motif.
+- id: motif:4
+  label: Conscience above political settlement
+  taxonomy_refs: []
+  basis: The note about Chên Wên Tz says he could not settle in visited states because
+    of conscience amid disorder, murder, and usurpation.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This motif is inferred from a brief explanatory note and is peripheral
+    to the main dialogue.
+comparison_claims:
+- id: claim:1
+  claim: The translator treats chün tzu as functionally comparable to a Greek ethical
+    ideal combining high mental and moral qualities with gentlemanly bearing, while
+    noting that Aristotle's comparable figure is more abstract and ideal.
+  claim_level: same_function
+  target: Greek and Aristotelian ethical ideals of the cultivated morally excellent
+    person
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Greek terms are not legible in the provided passage text, and the
+    comparison is explicitly approximate rather than a claim of historical contact.
+- id: claim:2
+  claim: The translator compares jen with loving-kindness or charity in the biblical
+    sense as possible renderings of its ethical meaning.
+  claim_level: same_function
+  target: Biblical charity or loving-kindness as an ethical category
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a translation-level semantic comparison, not evidence of shared
+    narrative motif or historical dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1498-1506
+  quote_or_summary: Tzu Kung asks whether the nobler sort of man has hatreds; the
+    Master lists several hated forms of conduct, and Tzu Kung adds false wisdom, courage,
+    and honesty as objects of hatred.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1508-1525
+  quote_or_summary: The note discusses chün tzu, rejects “superior man” as misleading,
+    prefers renderings such as higher type, nobler sort, or good man, and compares
+    the term with Greek and Aristotelian ethical terminology.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1527-1536
+  quote_or_summary: The note identifies jen as a central term of the Analects, meaning
+    humanity, natural goodness of heart, loving-kindness, charity, or virtue, and
+    calls it the corner-stone of Confucian ethics.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1538-1546
+  quote_or_summary: The note explains learning in Confucius as study of rules of right
+    conduct for practical application, aimed at developing natural goodness and virtuous
+    culture.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1580-1582
+  quote_or_summary: The note states that outward acts alone do not constitute filial
+    piety unless prompted by genuine duteous feeling in the heart.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1588-1593
+  quote_or_summary: The note explains chung as loyalty to oneself, devotion to principle,
+    or conscientiousness, with loyalty to the sovereign as an extended sense.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 1597-1601
+  quote_or_summary: The note says Chên Wên Tz could not reconcile settlement in visited
+    states with his conscience, and that murder and usurpation were common in the
+    period's disorder.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: '1603'
+  quote_or_summary: A note explains that the virtuous act is performed for its own
+    sake, regardless of consequences.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif assignment is limited because
+    the passage is ethical commentary and dialogue, not a mythic narrative. Comparison
+    claims are based only on explicit translator comparisons in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbols were directly present. The only symbol recorded is the translator's metaphor of jen as a corner-stone.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l1498-l1605
+  passage_sha256=040efd498487993f937efba03c1c909cb8521bf18225cc30f71d5d937a34f9de
+

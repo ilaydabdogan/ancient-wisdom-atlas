@@ -1,0 +1,124 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l372-l387
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: III. THE DEAD WITCH                                             34 / IV.
+    THE TREASURE                                               36 / V. THE CROSS-SURETY                                           40
+    / VI. THE AWFUL DRUNKARD                                         46; lines 372-387
+  start: '372'
+  end: '387'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A story-list table gives six tale titles with page numbers: The Fiend,
+    The Dead Mother, The Dead Witch, The Treasure, The Cross-Surety, and The Awful
+    Drunkard.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a story-list table with a page-number column.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes the titles The Fiend, The Dead Mother, and The Dead Witch,
+    with page numbers 24, 32, and 34.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The list includes the titles The Treasure, The Cross-Surety, and The Awful
+    Drunkard, with page numbers 36, 40, and 46.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: The Fiend
+  description: A figure named only as a story title in the list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: The Dead Mother
+  description: A figure named only as a story title in the list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Dead Witch
+  description: A figure named only as a story title in the list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The Awful Drunkard
+  description: A figure named only as a story title in the list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: story-title subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each figure label appears as the title or main noun phrase of a listed story
+    entry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 372-375
+  quote_or_summary: The passage begins with the heading “STORY-LIST.” followed by
+    a “PAGE.” column heading.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 377-383
+  quote_or_summary: "“I. THE FIEND 24”; “II. THE DEAD MOTHER 32”; “III. THE DEAD WITCH
+    34”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 385-387
+  quote_or_summary: "“IV. THE TREASURE 36”; “V. THE CROSS-SURETY 40”; “VI. THE AWFUL
+    DRUNKARD 46”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is an index-style story list rather than a narrative passage.
+    Figure labels can be extracted from titles, but no supported motif or comparison
+    claims are available from the provided text alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol references assigned because the passage supplies only tale titles and page numbers, without narrative content.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l372-l387
+  passage_sha256=dbf23a586e074e00cd594d80dbce40d0ae342fdaf5cfaefae4aee78b2cc3ae9f
+

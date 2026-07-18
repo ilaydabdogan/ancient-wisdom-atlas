@@ -1,0 +1,573 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l29438-l29487
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXI. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXII. /
+    IN THE NAME OF THE MOST MERCIFUL GOD.; lines 29438-29487
+  start: '29438'
+  end: '29487'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts believers with impious transgressors, describes gardens
+    for the righteous and hell fire for transgressors, warns of punishment in this
+    world and the next, recalls the law given to Moses and guidance for the children
+    of Israel, announces judgment on the day of resurrection, points to destroyed
+    former generations and rain reviving parched land as signs, and reports disbelievers
+    asking when the decision will occur. A translator note gives alternate interpretations
+    of a line, including a meeting of Moses and Mohammed in the sixth heaven during
+    Mohammed's night journey.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A true believer and an impious transgressor are said not to be held equal.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those who believe and do right are promised gardens of perpetual abode as
+    recompense.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Impious transgressors have hell fire as their abode; when they try to leave
+    it, they are dragged back and told to taste its torment.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The wicked are to taste a nearer punishment in this world as well as a more
+    grievous punishment in the next, with repentance stated as a possible result.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage describes a person warned by the signs of the Lord who turns aside,
+    and states that vengeance will be taken on the wicked.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The book of the law is said to have been delivered to Moses and ordained as
+    direction for the children of Israel.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Teachers are appointed from among the children of Israel to direct the people
+    at divine command after patience and belief in signs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Lord is said to judge between them on the day of resurrection concerning
+    matters of disagreement.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Many generations before the present audience are said to have been destroyed,
+    and their dwellings are walked through as signs.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Rain is driven to bare, parched land, producing corn eaten by cattle and people.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Infidels ask true believers when the decision will be made, and the answer
+    says that on that day the faith of disbelievers will not avail them and no further
+    respite will be given.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: A translator note reports an interpretation in which Moses and Mohammed meet
+    in the sixth heaven during Mohammed's night journey.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The LORD
+  description: The divine figure who gives signs and law, appoints teachers, judges
+    on the day of resurrection, takes vengeance, and drives rain to parched land.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: True believers / those who believe and do right
+  description: People contrasted with impious transgressors and promised gardens of
+    perpetual abode.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Impious transgressors / wicked
+  description: People contrasted with true believers, assigned hell fire, warned by
+    signs, and subject to punishment and vengeance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Moses
+  description: Recipient of the book of the law; also mentioned in a translator note
+    as meeting Mohammed in the sixth heaven under one interpretation.
+  role_refs:
+  - role:5
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Children of Israel
+  description: The community for whom the law delivered to Moses is ordained as direction.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Teachers from among them
+  description: Teachers appointed to direct the people at divine command.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Destroyed former generations
+  description: Earlier generations whose destruction and dwellings are presented as
+    signs.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Infidels / disbelievers
+  description: Those who ask believers when the decision will be made and whose faith
+    on that day will not avail them.
+  role_refs:
+  - role:4
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Mohammed
+  description: Mentioned in a translator note as the prophet who, in one interpretation,
+    met Moses in the sixth heaven during a night journey.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Divine judge and avenger
+  assigned_to:
+  - fig:1
+  basis: The Lord judges on the day of resurrection and takes vengeance on the wicked.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Giver of guidance and signs
+  assigned_to:
+  - fig:1
+  basis: The Lord's signs warn people; the law is delivered and teachers are appointed
+    at divine command.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Rewarded righteous
+  assigned_to:
+  - fig:2
+  basis: Believers who do right receive gardens of perpetual abode as recompense.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Punished disobedient
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: Transgressors are assigned hell fire, and disbelievers receive no benefit
+    from faith on the day of decision.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:5
+  label: Recipient of earlier law
+  assigned_to:
+  - fig:4
+  basis: The book of the law is said to have been delivered to Moses.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Guided Israelite community
+  assigned_to:
+  - fig:5
+  basis: The law delivered to Moses is ordained as direction for the children of Israel.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: Appointed guides or teachers
+  assigned_to:
+  - fig:6
+  basis: Teachers from among them are appointed to direct the people at divine command.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Destroyed predecessors
+  assigned_to:
+  - fig:7
+  basis: Earlier generations are described as destroyed, with their dwellings remaining
+    as signs.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Questioners of the decision
+  assigned_to:
+  - fig:8
+  basis: Infidels ask believers when the decision will be made.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: Figures in night-journey interpretation
+  assigned_to:
+  - fig:4
+  - fig:9
+  basis: A translator note reports an interpretation involving an interview between
+    Moses and Mohammed in the sixth heaven during Mohammed's night journey.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Gardens of perpetual abode
+  literal_form: gardens of perpetual abode
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hell fire
+  literal_form: hell fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Signs of the Lord
+  literal_form: signs of his LORD
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Book of the law
+  literal_form: book of the law
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Day of resurrection / day of decision
+  literal_form: day of resurrection; day of that decision
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:6
+  label: Destroyed dwellings
+  literal_form: dwellings of destroyed former generations
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Rain
+  literal_form: rain driven to bare and parched land
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Parched land producing corn
+  literal_form: land bare of grass and parched up; corn produced for cattle and people
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: Sixth heaven
+  literal_form: sixth heaven
+  associated_figures:
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Unequal destinies of believers and transgressors
+  summary: Believers who do right are promised gardens, while impious transgressors
+    are assigned hell fire and dragged back when trying to leave.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning, punishment, and vengeance
+  summary: The passage describes worldly and otherworldly punishment, rejection of
+    divine signs, and vengeance against the wicked.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mosaic law and appointed teachers
+  summary: The law is delivered to Moses as guidance for the children of Israel, and
+    teachers are appointed to direct the people.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Resurrection judgment and final decision
+  summary: The Lord judges disputes on the day of resurrection; disbelievers asking
+    about the decision are told that faith on that day will not avail them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: scene:5
+  label: Destroyed generations as signs
+  summary: Former generations have been destroyed, and their dwellings remain as places
+    through which the audience walks and from which signs may be perceived.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Rain and provision from parched land
+  summary: Rain is driven to a bare and parched land, where it produces corn for cattle
+    and people.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Translator note on sixth-heaven meeting
+  summary: A translator note reports an interpretation in which Moses and Mohammed
+    meet in the sixth heaven during Mohammed's night journey.
+  figure_refs:
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Resurrection judgment and unequal destinies
+  taxonomy_refs:
+  - divine_judgment
+  - resurrection
+  basis: The passage contrasts believers and transgressors, describes judgment on
+    the day of resurrection, and says disbelievers receive no respite on the day of
+    decision.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The extraction identifies an internal eschatological pattern only; no
+    external comparison is asserted.
+- id: motif:2
+  label: Afterlife reward garden and punishment fire
+  taxonomy_refs:
+  - divine_judgment
+  basis: Believers receive gardens of perpetual abode, while transgressors are confined
+    in hell fire.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy has no separate garden-paradise symbol; fire is
+    recorded separately as a symbol.
+- id: motif:3
+  label: Revealed guidance through law and teachers
+  taxonomy_refs:
+  - wisdom
+  basis: The book of the law is delivered to Moses as direction for the children of
+    Israel, and teachers are appointed to guide the people.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference 'wisdom' is broad; the passage speaks specifically
+    of law, direction, signs, and teachers.
+- id: motif:4
+  label: Destroyed predecessors as warning signs
+  taxonomy_refs:
+  - divine_judgment
+  basis: Earlier generations are said to have been destroyed, and their dwellings
+    are presented as signs for the audience.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not narrate the destructions in detail in this excerpt.
+- id: motif:5
+  label: Rain restoring barren land to provision
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Rain is driven to parched land, producing corn for animals and people.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage presents the rain and crop growth as a sign and provision;
+    a full seasonal-cycle myth is not narrated.
+- id: motif:6
+  label: Heavenly ascent or night-journey meeting
+  taxonomy_refs:
+  - ascent
+  basis: A translator note reports an interpretation involving Mohammed's night journey
+    to the sixth heaven and a meeting with Moses.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: This motif is supported only by a translator note reporting an interpretation,
+    not by the main passage wording itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29438-29443
+  quote_or_summary: The passage says a true believer is not equal to an impious transgressor;
+    believers receive gardens of perpetual abode, while transgressors are confined
+    in hell fire and dragged back when trying to escape.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29444-29450
+  quote_or_summary: The wicked taste a nearer punishment in this world and a more
+    grievous punishment in the next; one who turns aside from the Lord's signs is
+    called unjust, and vengeance on the wicked is announced.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29451-29456
+  quote_or_summary: The book of the law is delivered to Moses as direction for the
+    children of Israel, and teachers from among them are appointed to direct the people
+    at divine command.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29457-29458
+  quote_or_summary: The Lord will judge between them on the day of resurrection concerning
+    matters of disagreement.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29459-29461
+  quote_or_summary: Many prior generations have been destroyed, and their dwellings
+    are walked through as signs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 29462-29465
+  quote_or_summary: Rain is driven to bare, parched land, producing corn eaten by
+    cattle and people.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 29466-29470
+  quote_or_summary: Infidels ask believers when the decision will be made; the answer
+    says that on that day the faith of disbelievers will not avail them, and they
+    will receive no further respite.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: footnote n, lines 29472-29478
+  quote_or_summary: A translator note says some interpret the line about revelation
+    as referring to the Quran, while others understand it as referring to a meeting
+    between Moses and Mohammed in the sixth heaven during Mohammed's night journey.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain translator note; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main-passage observations are direct. Motif candidates are mostly clear for
+    judgment, resurrection, guidance, and signs; the ascent motif is low-confidence
+    because it appears only in a translator note. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. Footnote material is separated and cautioned where used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l29438-l29487
+  passage_sha256=91ad2d7aba1b70fc4b5778f5905004c2b54bbdc70e0c95de0a28f0d0c68f8373
+

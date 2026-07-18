@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l337-l414
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: A. H. LEAHY / IN TWO VOLUMES / VOL. I / PREFACE; lines 337-414
+  start: '337'
+  end: '414'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: |-
+    All the elves of Troom seem dead,
+    All their mighty deeds are fled;
+    For their Hound, who hounds surpassed,
+    Elves have bound in slumber fast.
+  summary: The preface describes the contents of the collection, its use of mixed
+    prose-and-verse forms, translation principles, treatment of variant versions and
+    metres, and gives a short metrical example in which elves of Troom bind their
+    Hound in sleep.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The collection is described as an attempt to provide English readers with
+    old romances in English literary forms corresponding to Irish literary forms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first part contains five named stories, all described as being told in
+    the characteristic form of prose and verse.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that two versions of the "Courtship of Etain" are given,
+    that the "Sick-bed of Cuchulain" consists of two independent versions, and that
+    an extract from the Glenn Masain version of the "Death of the Sons of Usnach"
+    is added for comparison with the Book of Leinster version.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prose translation is described as nearly literal, with Irish idiom adjusted
+    for English; the passage says nothing has been added except for filling a lacuna
+    in the Leabhar na h-Uidhri version of "Etain," and that there are no omissions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The verse and rhetoric translations are described as following similar principles,
+    with literal renderings supplied in notes or through references where practicable.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Four-line stanza form is generally used to render Irish four-line verse, while
+    the ending verses of the "Boar of Mac Datho" are treated as a ballad version and
+    rendered in ballad metre.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Irish four-line verses in the volume are described as mostly seven-syllabled
+    lines with rhyming pairs, with noted exceptions and other metres in particular
+    passages.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The footnote example says the elves of Troom seem dead, their mighty deeds
+    are gone, and elves have bound their surpassing Hound in slumber.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: elves of Troom
+  description: A collective group in the metrical example; they are said to seem dead,
+    their deeds are said to have fled, and elves are said to have bound the Hound
+    in slumber.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: their Hound
+  description: A capitalized Hound in the metrical example, described as surpassing
+    other hounds and as bound in slumber by elves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: collective binders of the Hound
+  assigned_to:
+  - fig:1
+  basis: The verse says that elves have bound their Hound in slumber.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: exceptional being bound in slumber
+  assigned_to:
+  - fig:2
+  basis: The Hound is described as surpassing hounds and being bound in slumber fast.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Hound
+  literal_form: The capitalized Hound, described as surpassing hounds and bound in
+    slumber.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: binding in slumber
+  literal_form: The image of being bound fast in sleep or slumber.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preface on contents, variants, translation method, and metre
+  summary: The passage outlines the collection’s stories, variant textual materials,
+    translation choices, and metrical rendering practices.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Metrical example of elves and Hound
+  summary: A four-line example presents the elves of Troom as seemingly dead with
+    deeds departed, and depicts elves binding their Hound in slumber.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supernatural beings bind an exceptional Hound in sleep
+  taxonomy_refs: []
+  basis: The metrical example states that elves have bound their Hound, who surpassed
+    other hounds, in slumber.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This appears only as a short illustrative verse excerpt in a preface,
+    not as a full narrative episode in the supplied passage.
+- id: motif:2
+  label: fading or absent supernatural community
+  taxonomy_refs: []
+  basis: The same example says that all the elves of Troom seem dead and that their
+    mighty deeds have fled.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage gives only a compact poetic image; it does not supply narrative
+    context or explanation.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the English literary forms are chosen to correspond
+    to Irish literary forms in order to produce the same effect.
+  claim_level: same_function
+  target: English renderings and Irish literary forms of the originals
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an editorial claim about literary form and translation effect,
+    not a demonstrated mythic motif comparison.
+- id: claim:2
+  claim: The passage treats the Glenn Masain and Book of Leinster materials for the
+    "Death of the Sons of Usnach" as comparable textual versions by adding an extract
+    for comparison.
+  claim_level: same_function
+  target: Glenn Masain and Book of Leinster versions of the "Death of the Sons of
+    Usnach"
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No specific shared motif or narrative difference is identified in this
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 337-345
+  quote_or_summary: The collection is presented as old romances for English readers
+    in English forms corresponding to Irish forms; the first part contains five named
+    prose-and-verse stories.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 346-354
+  quote_or_summary: The passage discusses multiple versions of "Courtship of Etain"
+    and "Sick-bed of Cuchulain," and says an extract from the Glenn Masain "Death
+    of the Sons of Usnach" is added to the Book of Leinster version for comparison.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 355-381
+  quote_or_summary: The translator describes nearly literal prose renderings, adjustments
+    from Irish idiom into English, no additions except an "Etain" lacuna, no omissions,
+    and the handling of verse and rhetoric with notes and literal renderings where
+    needed.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 382-406
+  quote_or_summary: The passage describes rendering Irish four-line verse into stanza
+    form, an exception for the "Boar of Mac Datho" ballad ending, seven-syllabled
+    lines, rhyme systems, and other metrical handling.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 408-414
+  quote_or_summary: '"All the elves of Troom seem dead, / All their mighty deeds are
+    fled; / For their Hound, who hounds surpassed, / Elves have bound in slumber fast."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The editorial and formal observations are explicit. Mythic motif candidates
+    are limited because the only narrative image in the supplied passage is a brief
+    metrical example.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or motif-family reference was applied because the passage does not clearly contain any of the supplied taxonomy items.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l337-l414
+  passage_sha256=aaf9e822b306fecb5a9d9bc0117938b486107b21fee9dcb54e1ea44e9d842032
+

@@ -1,0 +1,582 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l34760-l34864
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER LIV. / ENTITLED, THE MOON;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 34760-34864
+  start: '34760'
+  end: '34864'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: THE hour of judgment approacheth; and the moon hath been split in sunder
+  summary: The passage announces the approaching hour of judgment and a split moon,
+    describes unbelievers rejecting signs and Mohammed, depicts a summons from the
+    graves, and recounts examples of Noah, Ad, and Thamud rejecting prophetic admonitions,
+    with flood and wind punishments presented as warnings.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the hour of judgment approaches and that the moon
+    has been split in sunder.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Unbelievers who see a sign turn aside and call it a powerful charm; they accuse
+    Mohammed of imposture and follow their own lusts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A summoner summons mankind; people come forth from graves with downcast looks
+    and are compared to scattered locusts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unbelievers say that the summoned day is a day of distress.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The people of Noah accused their prophet of imposture, called him a madman,
+    and rejected him with reproach.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Noah called upon his LORD, said he was overpowered, and asked to be avenged.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The gates of heaven opened with pouring water, the earth broke forth into
+    springs, and the waters of heaven and earth met according to an established decree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Noah was borne on a vessel composed of planks and nails, which moved under
+    divine regard and was left as a sign.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Ad charged their prophet with imposture; a roaring wind was sent against them
+    and carried men away like uprooted palm-tree roots.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Thamud charged their prophet's admonitions with falsehood and questioned why
+    a single man among them should be followed.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage repeats that divine vengeance and threatening are severe and that
+    the Koran has been made easy for admonition.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: The divine speaker who announces judgment, receives Noah's appeal,
+    opens heaven and earth with water, preserves Noah on the vessel, and sends the
+    wind against Ad.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Mohammed
+  description: Addressed as accused of imposture by unbelievers and told to withdraw
+    from them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Unbelievers
+  description: They see a sign, call it a powerful charm, accuse Mohammed of imposture,
+    follow their lusts, and call the summoned day a day of distress.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: The summoner
+  description: A figure who summons mankind on the day when people come forth from
+    their graves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Noah
+  description: A rejected prophet and servant who calls upon his LORD when overpowered
+    and is borne on a vessel of planks and nails.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: People of Noah
+  description: They accuse Noah of imposture, call him mad, and reject him with reproach
+    before the flood-water episode.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Ad
+  description: A people who charge their prophet with imposture and are struck by
+    a roaring wind that carries men away.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Prophet of Ad
+  description: An unnamed prophet charged with imposture by Ad.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Thamud
+  description: A people who charge their prophet's admonitions with falsehood and
+    object to following one man among them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Prophet/admonisher of Thamud
+  description: An unnamed single man whose admonition is rejected by Thamud and who
+    is called a liar and insolent fellow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:11
+  name_or_label: Mankind
+  description: The collective summoned by the summoner and described as coming forth
+    from graves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine judge and sender of signs or punishments
+  assigned_to:
+  - fig:1
+  basis: The divine voice announces the approaching judgment, speaks of vengeance,
+    opens heaven and earth with water, preserves Noah's vessel, and sends wind against
+    Ad.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: rejected prophet or admonisher
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:8
+  - fig:10
+  basis: Mohammed, Noah, the prophet of Ad, and the prophet/admonisher of Thamud are
+    each associated with accusations of imposture or rejected admonition.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:3
+  label: rejecting community
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:9
+  basis: The unbelievers, Noah's people, Ad, and Thamud reject signs, prophets, or
+    admonitions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:4
+  label: summoned or judged collective
+  assigned_to:
+  - fig:3
+  - fig:11
+  basis: The passage describes mankind coming from graves at the summoner's call,
+    and the unbelievers naming the day distressful.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: eschatological summoner
+  assigned_to:
+  - fig:4
+  basis: The summoner calls mankind on the day when they come from graves.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: preserved servant on a vessel
+  assigned_to:
+  - fig:5
+  basis: Noah is borne on a vessel composed of planks and nails under divine regard.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: people struck by punitive wind
+  assigned_to:
+  - fig:7
+  basis: Ad are struck by a roaring wind that carries men away like uprooted palm-tree
+    roots.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: split moon
+  literal_form: the moon split in sunder
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: graves
+  literal_form: graves from which people come forth
+  associated_figures:
+  - fig:3
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: scattered locusts
+  literal_form: numerous as locusts scattered far abroad
+  associated_figures:
+  - fig:3
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: waters of heaven and earth
+  literal_form: water pouring down from heaven and springs breaking from the earth
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: vessel of planks and nails
+  literal_form: a vessel composed of planks and nails
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: roaring wind
+  literal_form: a roaring wind sent against Ad
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: uprooted palm-tree roots
+  literal_form: men carried away as though they had been roots of palm-trees forcibly
+    torn up
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Approaching judgment and rejected sign
+  summary: The hour of judgment approaches, the moon is split, and unbelievers reject
+    the sign as a charm while accusing Mohammed of imposture.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summons from the graves
+  summary: A summoner calls mankind; people emerge from graves with downcast looks
+    like scattered locusts, and unbelievers call the day distressful.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Noah rejected, avenged, and carried on the vessel
+  summary: Noah's people reject him; he appeals to his LORD; water pours from heaven
+    and springs from earth; Noah is borne on a vessel left as a sign.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Ad and the destructive wind
+  summary: Ad reject their prophet and are struck by a roaring wind that carries men
+    away like uprooted palm-tree roots.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Thamud rejects a single admonisher
+  summary: Thamud reject their prophet's admonitions, saying that following a single
+    man among them would be error and madness.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Eschatological cosmic sign rejected as magic
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links the approaching hour of judgment with the split moon and
+    the unbelievers' dismissal of a sign as a powerful charm.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy has no moon-specific symbol or cosmic-sign family.
+- id: motif:2
+  label: Summoning of the dead from graves
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: Mankind is summoned, people come forth from graves, and the unbelievers experience
+    the day as distressful.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Rejected warner followed by divine warning or punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage repeats accusations of imposture or falsehood against Mohammed,
+    Noah, the prophet of Ad, and the prophet/admonisher of Thamud, with divine vengeance
+    emphasized in the surrounding sequence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The provided excerpt gives explicit punishment for Noah's and Ad's sequences;
+    Thamud's punishment is not included in this line range.
+- id: motif:4
+  label: Flood judgment with preserving vessel
+  taxonomy_refs:
+  - flood_and_renewal
+  - ark_vessel
+  basis: Noah appeals for aid, waters descend from heaven and burst from earth, and
+    he is carried on a vessel of planks and nails left as a sign.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage emphasizes vengeance, preservation, and warning; renewal after
+    the flood is not described in this excerpt.
+- id: motif:5
+  label: Punitive wind uprooting a people
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ad rejects their prophet, after which a roaring wind is sent against them
+    and carries men away like uprooted palm-tree roots.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: ''
+- id: motif:6
+  label: Admonitory scripture as wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The message is called consummate wisdom, and the passage repeats that the
+    Koran has been made easy for admonition.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is a textual-revelation pattern rather than a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns Mohammed's rejection by unbelievers with Noah's
+    earlier rejection by his people, presenting both as rejected prophetic figures.
+  claim_level: same_function
+  target: Mohammed's rejecters and the people of Noah within the passage
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal rhetorical parallel in the provided passage, not
+    evidence for historical contact or external tradition comparison.
+- id: claim:2
+  claim: Noah, Ad, and Thamud function as warning exempla in a repeated pattern of
+    community rejection of a prophet or admonition, with explicit punitive consequences
+    shown for Noah's and Ad's communities in this excerpt.
+  claim_level: same_function
+  target: Noah, Ad, and Thamud exempla within Chapter LIV
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Thamud sequence in the provided line range includes rejection speech
+    but not the subsequent punishment, so the pattern is only partly visible here.
+- id: claim:3
+  claim: The opening sign rejected by unbelievers and Noah's vessel left as a sign
+    share an admonitory function in the passage.
+  claim_level: same_function
+  target: Opening sign and Noah's vessel-sign
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses sign and warning language for both, but does not explicitly
+    equate the moon sign with the vessel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 34760-34864; Chapter LIV opening
+  quote_or_summary: '"THE hour of judgment approacheth; and the moon hath been split
+    in sunder"; unbelievers who see a sign call it "a powerful charm" and accuse Mohammed
+    of imposture.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 34760-34864; summoner and graves segment
+  quote_or_summary: The summoner summons mankind; they come forth from graves "numerous
+    as locusts scattered far abroad," and unbelievers say, "This is a day of distress."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 34760-34864; Noah rejection and prayer segment near verse 10
+  quote_or_summary: The people of Noah accuse their prophet/servant of imposture,
+    call him a madman, reject him with reproach, and Noah asks his LORD to avenge
+    him because he is overpowered.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: quote
+  locator: 34760-34864; flood-water segment
+  quote_or_summary: The gates of heaven open "with water pouring down," the earth
+    breaks into springs, and the waters of heaven and earth meet according to decree.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 34760-34864; Noah vessel segment
+  quote_or_summary: Noah is borne on "a vessel composed of planks and nails" moving
+    under divine eyes; the vessel is left as a sign.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 34760-34864; repeated admonition refrain
+  quote_or_summary: The passage repeats that divine vengeance and threatening were
+    severe and that the Koran has been made easy for admonition.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:7
+  type: quote
+  locator: 34760-34864; Ad wind segment near verse 20
+  quote_or_summary: Ad charge their prophet with imposture; a roaring wind is sent
+    against them and carries men away "as though they had been roots of palm-trees
+    forcibly torn up."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: 34760-34864; Thamud rejection segment
+  quote_or_summary: Thamud charge their prophet's admonitions with falsehood, ask
+    why they should follow a single man among them, and call him a liar and insolent
+    fellow.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction uses only the supplied English passage and metadata. Line-specific
+    evidence is located by the supplied line range plus passage segment labels. Human
+    review is recommended for taxonomy fit, especially broad families such as flood_and_renewal
+    and wisdom.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Translator notes are present in the supplied passage, but this extraction focuses on the translated passage narrative and refrain. No external historical-contact claims are made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l34760-l34864
+  passage_sha256=991da5871b1eccb25e009876b1af225c333dac71e58b9133c0852b80dc890d1d
+

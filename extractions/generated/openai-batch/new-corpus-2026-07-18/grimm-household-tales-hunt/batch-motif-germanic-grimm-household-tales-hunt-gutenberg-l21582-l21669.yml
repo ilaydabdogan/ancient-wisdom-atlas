@@ -1,0 +1,556 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l21582-l21669
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 21582-21669
+  start: '21582'
+  end: '21669'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first concludes a preceding tale episode in which a town burns
+    a barn to destroy a feared owl or monster. It then gives the tale of the Moon:
+    a dark land without moon or stars is visited by travellers who find another kingdom
+    using a moon-like lamp fastened to an oak. They steal it, install it on a high
+    oak at home, and maintain it for wages. As the four caretakers die, each has a
+    quarter of the moon buried with him, causing darkness to return. In the world
+    below the moon pieces reunite and awaken the dead, whose disorder reaches heaven.
+    Saint Peter descends, subdues the dead, returns them to their graves, takes the
+    moon, and hangs it in heaven.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The townspeople fear the monster and decide to compensate the barn owner before
+    burning the barn and the owl inside it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tale of the Moon begins in a land where nights are dark because no moon
+    rises and no stars shine.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Travellers find another kingdom where a shining globe called the moon is fastened
+    to an oak-tree and maintained with oil and cleaning by a mayor for payment.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The travellers decide to take the moon for their own country, lower it from
+    the tree with a rope, cover it with a cloth so the theft is not observed, transport
+    it by cart, and place it on a high oak.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: When the moon lights the travellers' country, old and young rejoice, dwarfs
+    come from caves in the rocks, and elves in red coats dance in rings on the meadows.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The four caretakers maintain the moon for wages; as each dies, a quarter of
+    the moon is cut off and buried with him, until the old darkness returns.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In the world below the moon pieces reunite, the dead awaken, resume former
+    activities, drink, quarrel, fight with cudgels, and make noise that reaches heaven.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Saint Peter, guarding heaven's gate, rides down to the world below, subdues
+    the dead, orders them back into their graves, takes the moon, and hangs it in
+    heaven.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: townspeople
+  description: A civic group afraid to risk their lives against the monster and seeking
+    to prevent the town's destruction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: burgomaster
+  description: The civic official who proposes compensating the barn owner and burning
+    the building with the beast inside.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: owl / monster / terrible beast
+  description: The creature in the barn described as a monster and terrible beast,
+    finally burned with the barn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: travellers / young fellows / the four
+  description: Travellers from the dark country who remove the moon, transport it
+    home, maintain it, and later each claim a quarter for burial. The passage first
+    says three young fellows but later refers to a fourth and to the four.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: countryman with cart
+  description: A passing countryman who tells the travellers that the shining object
+    is the moon and explains its purchase and maintenance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: mayor
+  description: A mayor is said to have bought and maintained the moon in the other
+    kingdom; later, a mayor climbs the tree and cuts off moon-quarters for burial.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:7
+  name_or_label: dwarfs
+  description: Dwarfs who come forth from caves in the rocks after the moon lights
+    the land.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: elves
+  description: Tiny elves in little red coats who dance in rings on the meadows after
+    the moon lights the land.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: the dead
+  description: Dead inhabitants of the world below who awaken when the moon pieces
+    reunite and then resume former ways of living.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:10
+  name_or_label: Saint Peter
+  description: Guardian of the gate of heaven who rides down into the world below,
+    subdues the dead, and hangs the moon in heaven.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: heavenly troops
+  description: Troops gathered by Saint Peter when he thinks the lower world has broken
+    out in revolt.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: endangered civic community
+  assigned_to:
+  - fig:1
+  basis: They fear risking their lives and deliberate about preventing the whole town
+    from being destroyed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: civic planner of the burning
+  assigned_to:
+  - fig:2
+  basis: He proposes paying for the barn and its contents and burning the building
+    with the beast inside.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dangerous enclosed beast
+  assigned_to:
+  - fig:3
+  basis: The creature is called a monster or terrible beast and is burned inside the
+    barn.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: moon thieves, transporters, and caretakers
+  assigned_to:
+  - fig:4
+  basis: They plan to carry away the moon, lower it from the oak, hide the theft,
+    install it at home, and later maintain it for wages.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: local informant
+  assigned_to:
+  - fig:5
+  basis: He answers the travellers' question about the light and explains that it
+    is the moon maintained by the mayor.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: mayoral moon administrator
+  assigned_to:
+  - fig:6
+  basis: The passage attributes the moon's purchase and maintenance to a mayor and
+    later has a mayor cut off quarters for coffins.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: beings appearing in moonlit land
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Dwarfs come from caves and elves dance after the moon lights the whole land.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: awakened and disorderly dead
+  assigned_to:
+  - fig:9
+  basis: The dead awaken in the world below, become merry, drink, quarrel, and fight.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: heavenly gatekeeper and restorer of order
+  assigned_to:
+  - fig:10
+  basis: Saint Peter guards heaven's gate, descends, subdues the dead, returns them
+    to graves, and hangs the moon in heaven.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: heavenly defenders
+  assigned_to:
+  - fig:11
+  basis: Saint Peter gathers heavenly troops to drive back a feared assault before
+    discovering the actual disturbance.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: barn fire
+  literal_form: fire set to the barn at all four corners
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon-lamp
+  literal_form: a shining globe or lamp called the moon, maintained with oil and a
+    wick, later divided into quarters and finally hung in heaven
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: oak-tree
+  literal_form: an oak-tree or high oak on which the moon is fastened or placed
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: caves in the rocks
+  literal_form: rock caves from which dwarfs come forth
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: quarters of the moon in graves
+  literal_form: one quarter of the moon placed with each caretaker in his coffin or
+    grave
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: world below
+  literal_form: the lower world where darkness had always prevailed and where the
+    moon pieces reunite
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: gate of heaven
+  literal_form: the gate of heaven guarded by Saint Peter
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Barn burned with the owl inside
+  summary: After deliberation, the townspeople accept the burgomaster's proposal to
+    compensate the owner and burn the barn with the dangerous owl or monster inside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Travellers discover the maintained moon
+  summary: Travellers from a dark land reach another kingdom and learn from a countryman
+    that a shining globe on an oak is the moon, bought and tended by the mayor.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The moon is stolen and installed at home
+  summary: The travellers lower the moon from the oak, conceal it in a cart, carry
+    it home, and set it on a high oak, causing the land to rejoice and supernatural
+    beings to appear or dance.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: The moon is divided at the caretakers' deaths
+  summary: Each dying caretaker claims a quarter of the moon for his grave, so the
+    mayor cuts off portions and the land gradually returns to darkness.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Moonlight awakens the dead below
+  summary: The moon pieces reunite in the world below, the dead awaken, resume former
+    habits, drink and fight, and their noise reaches heaven.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Saint Peter restores the moon to heaven
+  summary: Saint Peter gathers heavenly troops, rides from heaven to the lower world,
+    subdues the dead, orders them back to their graves, takes the moon, and hangs
+    it in heaven.
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: community burns an enclosed dangerous creature
+  taxonomy_refs: []
+  basis: A civic group burns a barn at all four corners in order to destroy the monster
+    or owl inside without risking individual combat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is the ending of a preceding tale segment within the supplied passage;
+    no broader cross-text identification is asserted.
+- id: motif:2
+  label: theft of the moon as portable light
+  taxonomy_refs:
+  - sacred_theft
+  basis: The travellers treat the moon as a lamp, lower it from the oak, hide it under
+    a cloth so the theft is not observed, and carry it to their own dark country.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the moon as a lamp or shining globe maintained with
+    oil; the taxonomy link is based on the explicit theft of a light-bearing moon
+    object.
+- id: motif:3
+  label: celestial light claimed as burial property
+  taxonomy_refs: []
+  basis: Each caretaker claims a quarter of the moon to be placed in his grave, and
+    the land loses light as the quarters are buried.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this ownership-and-burial
+    pattern.
+- id: motif:4
+  label: dead awakened by moonlight in the lower world
+  taxonomy_refs:
+  - resurrection
+  basis: When the moon pieces reunite in the world below, the dead become restless,
+    awaken from sleep, see again, and resume activities.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The awakening is temporary and disorderly; Saint Peter later orders the
+    dead back into their graves, so this is not a permanent salvific resurrection.
+- id: motif:5
+  label: heavenly authority relocates the moon from the lower world to heaven
+  taxonomy_refs:
+  - ascent
+  basis: Saint Peter descends to the lower world, takes the moon away, and hangs it
+    in heaven.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The ascent concerns the moon's relocation by Saint Peter rather than a
+    hero's personal ascent.
+- id: motif:6
+  label: lower-world disorder mistaken for revolt against heaven
+  taxonomy_refs: []
+  basis: The noise of the awakened dead reaches heaven, and Saint Peter thinks the
+    lower world has broken out in revolt before descending to investigate.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a passage-internal narrative pattern without an asserted external
+    motif-family match.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21582-21596
+  quote_or_summary: The townspeople fear the monster, accept the burgomaster's plan
+    to compensate the barn owner, and set the barn on fire at all four corners so
+    the owl is burned.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; Project Gutenberg text supplied as full-text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 21600-21614
+  quote_or_summary: A dark land lacks moon and stars; travellers reach another kingdom
+    where a shining globe on an oak is identified by a countryman as the moon, bought
+    and maintained by the mayor.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; Project Gutenberg text supplied as full-text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 21616-21626
+  quote_or_summary: The travellers discuss hanging the lamp at home, decide to fetch
+    a cart and horses, and lower the moon from the tree with a rope.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; Project Gutenberg text supplied as full-text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 21626-21631
+  quote_or_summary: They cover the moon in the cart so the theft is not seen, carry
+    it home, place it on a high oak, and its light brings rejoicing, dwarfs from caves,
+    and dancing elves.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; Project Gutenberg text supplied as full-text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 21633-21645
+  quote_or_summary: The four maintain the moon for wages; as they die, quarters are
+    cut off and buried with them, until darkness returns.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; Project Gutenberg text supplied as full-text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 21647-21657
+  quote_or_summary: The moon pieces reunite in the world below; the dead awaken, see
+    again, become merry, drink, quarrel, fight, and make noise that reaches heaven.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; Project Gutenberg text supplied as full-text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 21659-21665
+  quote_or_summary: Saint Peter guards heaven's gate, gathers heavenly troops, rides
+    down into the world below, subdues the dead, sends them back to graves, takes
+    the moon, and hangs it in heaven.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; Project Gutenberg text supplied as full-text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif-family assignments
+    are cautious and limited to available taxonomy refs supported by explicit passage
+    details. No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All data are drawn only from the supplied passage and metadata. Taxonomy refs are limited to the provided available lists.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l21582-l21669
+  passage_sha256=4a11fe3b1b7820c2a4bd4f2a120763b159506c879b63d47d15445c806d136e29
+

@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7808-l7851
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 79 / PAGE 81 / PAGE 82 / PAGE 83; lines 7808-7851
+  start: '7808'
+  end: '7851'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator's notes on difficult Irish lines, including an unnamed lady's
+    bitterness, the final poem in which Fand returns to Manannan, Manannan as fitting
+    spouse, a difficult chess-stake allusion, and lines addressed to Laeg son of Riangabra.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed lady is said to have been seized by great bitterness of mind, though
+    the translator notes that the Irish word is doubtful.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The final poem is described as the poem in which Fand returns to Manannan.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A proposed rendering identifies a figure as the son of the hero people of
+    the Sea.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One difficult line is proposed to mean a turning back of the road of love.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lines 13 to 16 are said to describe comely Manannan taking the speaker and
+    being a fitting spouse to her.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The same lines include a difficult reference to an additional stake at a game
+    of chess.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The commentator suggests that the chess reference may allude to the capture
+    of Etain by Mider as a chess prize from her husband.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Lines 46 and 47 are interpreted as saying that the offence was great and addressing
+    Laeg, son of Riangabra.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The commentator suggests that the words to Laeg may answer an attempt to stop
+    Fand's flight.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the lady
+  description: Unnamed lady in the line rendered as being seized by great bitterness
+    of mind, with the Irish term noted as doubtful.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fand
+  description: Named as the figure who returns to Manannan in the final poem; possibly
+    the speaker of lines where Manannan took her and was a fitting spouse.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Manannan
+  description: Figure to whom Fand returns; described in proposed translation as comely,
+    a fitting spouse, and associated with the hero people of the Sea.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Laeg, son of Riangabra
+  description: Addressed in lines 46 and 47; the commentator suggests he may be trying
+    to stop Fand's flight.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Mider
+  description: Mentioned as the figure who may be alluded to as capturing Etain as
+    a prize at chess.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Etain
+  description: Mentioned as possibly captured by Mider as a chess prize from her husband
+    and as a possible rival fairy beauty.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: emotionally afflicted woman
+  assigned_to:
+  - fig:1
+  basis: The line is translated as the lady being seized by great bitterness of mind.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: returning woman
+  assigned_to:
+  - fig:2
+  basis: The final poem is described as the poem in which Fand returns to Manannan.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: spouse or beloved partner
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The proposed translation says Manannan took the speaker and was to her a
+    fitting spouse.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: sea-associated hero figure
+  assigned_to:
+  - fig:3
+  basis: A proposed line refers to the son of the hero people of the Sea in the context
+    of Fand returning to Manannan.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: addressee of complaint
+  assigned_to:
+  - fig:4
+  basis: Lines 46 and 47 address Laeg and say that the offence was great.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: possible stopper of flight
+  assigned_to:
+  - fig:4
+  basis: The commentator says the words may answer Laeg, who may be supposed to try
+    to stop Fand's flight.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: possible chess-prize captor
+  assigned_to:
+  - fig:5
+  basis: The passage suggests a possible allusion to Mider capturing Etain as a prize
+    at chess.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: possible captured chess prize
+  assigned_to:
+  - fig:6
+  basis: The passage suggests a possible allusion to Etain being captured by Mider
+    as a prize at chess from her husband.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sea
+  literal_form: the Sea in the phrase about the hero people of the Sea
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: turning road of love
+  literal_form: a difficult line proposed as the turning back of the road of love
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: chess stake
+  literal_form: an additional stake at a game at chess
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lady's bitterness
+  summary: An unnamed lady is described as seized by great bitterness of mind, with
+    uncertainty about the underlying Irish term.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fand's return to Manannan
+  summary: The final poem is identified as one in which Fand returns to Manannan;
+    proposed translations include a sea-associated designation and a difficult line
+    about love turning back.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Spouse and chess-stake passage
+  summary: Omitted lines are interpreted as saying that comely Manannan took the speaker
+    as a fitting spouse, with a difficult reference to an additional chess stake and
+    a possible Etain-Mider allusion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Address to Laeg
+  summary: Lines addressed to Laeg son of Riangabra are interpreted as a complaint
+    that the offence was great, possibly in response to Laeg trying to stop Fand's
+    flight.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Return to spouse or beloved
+  taxonomy_refs:
+  - return
+  basis: The passage explicitly describes the final poem as one in which Fand returns
+    to Manannan, and the omitted lines describe Manannan as a fitting spouse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a translator's note rather than a full narrative scene,
+    and several lines are marked difficult.
+- id: motif:2
+  label: Love as a path that turns back
+  taxonomy_refs:
+  - return
+  basis: The translator proposes that a difficult line may read as a turning back
+    of the road of love.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The line is explicitly called difficult, and the proposed reading is tentative.
+- id: motif:3
+  label: Beloved or woman as chess prize
+  taxonomy_refs:
+  - stolen_beloved
+  - sacred_exchange
+  basis: The passage explains a difficult chess-stake line by suggesting a possible
+    allusion to Etain's capture by Mider as a prize at chess from her husband.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The commentator uses tentative language and calls the allusion difficult.
+- id: motif:4
+  label: Attempt to stop a flight or departure
+  taxonomy_refs:
+  - departure
+  basis: The passage says Laeg may be supposed to try to stop Fand's flight, and that
+    the lines to him may answer this attempt.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The attempted stopping of the flight is presented as a supposition, not
+    a direct quoted event.
+comparison_claims:
+- id: claim:1
+  claim: The difficult chess-stake reference in Fand's poem may point to the same
+    broad motif pattern as the capture of Etain by Mider as a chess prize from her
+    husband.
+  claim_level: same_motif
+  target: Etain captured by Mider as a prize at chess
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: The passage itself says the line is difficult and introduces the Etain-Mider
+    link only as a possible allusion.
+evidence:
+- id: ev:1
+  type: summary
+  locator: PAGE 82, line 26
+  quote_or_summary: The note renders a line as the lady being seized by great bitterness
+    of mind and says the Irish term is doubtful.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: PAGE 83, lines 1, 5, 7 and introductory note
+  quote_or_summary: The note says the final poem is one in which Fand returns to Manannan;
+    proposed readings include the son of the hero people of the Sea and a difficult
+    line about the road of love turning back.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: PAGE 83, lines 13-16
+  quote_or_summary: The omitted lines are interpreted as saying that comely Manannan
+    took the speaker, was a fitting spouse, had not gained her before that time, and
+    that there was an additional stake at chess.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: PAGE 83, note after lines 13-16
+  quote_or_summary: The note calls the chess phrase a difficult allusion and suggests
+    it may refer to Mider's capture of Etain as a chess prize from her husband; Fand
+    may be claiming superiority over a rival fairy beauty.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: PAGE 83, lines 17-18
+  quote_or_summary: Lines 17 and 18 are said to repeat lines 13 and 14.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: PAGE 83, lines 46-47
+  quote_or_summary: The translator rejects a farewell reading and interprets the lines
+    as saying that the offence was great, addressing Laeg son of Riangabra; the words
+    may answer Laeg trying to stop Fand's flight.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is primarily translation commentary and repeatedly flags difficult
+    or tentative readings, so motif identifications are cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage and metadata were used; uncertain readings are preserved as tentative.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7808-l7851
+  passage_sha256=05da8ef7db519133b00adb3be725e79e1b0347816f31872aea29fbb7725c97a7
+

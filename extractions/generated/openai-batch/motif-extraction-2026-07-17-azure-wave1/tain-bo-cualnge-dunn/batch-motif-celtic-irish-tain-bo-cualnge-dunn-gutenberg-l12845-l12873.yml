@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l12845-l12873
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE RED-SHAME OF MENN FOLLOWETH HERE / HERE FOLLOWETH THE ACCOUTREMENT OF
+    THE CHARIOTEERS / HERE FOLLOWETH ILIACH'S CLUMP-FIGHT / HERE NOW THE DEER-STALKING
+    OF AMARGIN IN TALTIU; lines 12845-12873
+  start: '12845'
+  end: '12873'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies Amargin by genealogy, describes him encountering
+    warriors crossing Taltiu, forcing them to turn, adopting a hostile challenge posture,
+    receiving rocks, boulders, and earth-clumps from his people, and pelting the men
+    of Erin for three days and nights with great slaughter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage heading names the episode as the deer-stalking of Amargin in Taltiu.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Amargin is identified through a genealogy: son of Cass, grandson of Bacc,
+    descendant of Ross Ruad and Rudraige, with Rudraige identified as father of Conall
+    Cernach in the supplied note text.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Amargin encounters warriors moving westward over Taltiu and makes them turn
+    northward over Taltiu.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Amargin puts his left elbow under him in Taltiu; the passage note explains
+    this as a challenge or sign of hostility.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Amargin's people furnish him with rocks, boulders, and great clumps of earth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Amargin pelts the men of Erin until the end of three days and three nights.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that Amargin does great slaughter among the men of Erin
+    and that no man could show his face to him in Taltiu.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Amargin
+  description: A named warrior in Taltiu, genealogically identified as son of Cass
+    and descendant of Rudraige; he confronts and attacks the men of Erin.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Warriors / men of Erin
+  description: A collective group of warriors crossing Taltiu who are turned back,
+    pelted, and slaughtered by Amargin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Amargin's people
+  description: A collective group who furnish Amargin with rocks, boulders, and clumps
+    of earth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: genealogically identified warrior
+  assigned_to:
+  - fig:1
+  basis: The passage gives Amargin's descent before narrating his battle actions.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: challenger and attacker
+  assigned_to:
+  - fig:1
+  basis: Amargin adopts a challenge posture, turns the warriors from their path, and
+    pelts the men of Erin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: opposing force and targets
+  assigned_to:
+  - fig:2
+  basis: The warriors or men of Erin are forced to turn, pelted for three days and
+    nights, and suffer slaughter.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: suppliers of projectiles
+  assigned_to:
+  - fig:3
+  basis: Amargin's people provide him with rocks, boulders, and clumps of earth.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rocks and boulders
+  literal_form: rocks and boulders used as projectiles
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: clumps of earth
+  literal_form: great clumps of earth supplied for pelting
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: left elbow challenge posture
+  literal_form: Amargin puts his left elbow under him; note glosses it as challenge
+    or hostility
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: three days and three nights
+  literal_form: duration of the pelting attack
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Taltiu
+  literal_form: place where Amargin confronts the warriors and carries out the attack
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Amargin's attack at Taltiu
+  summary: At Taltiu, Amargin forces a body of warriors to turn from westward movement
+    to northward movement, adopts a hostile challenge posture, receives stone and
+    earth projectiles from his people, and pelts the men of Erin for three days and
+    nights with great slaughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: single warrior routs or withstands many opponents
+  taxonomy_refs: []
+  basis: Amargin alone is foregrounded as forcing the warriors to turn, attacking
+    the men of Erin for three days and nights, and becoming impossible for any man
+    to face in Taltiu.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents a battlefield feat but does not explicitly frame
+    it as supernatural or as a named cross-cultural motif.
+- id: motif:2
+  label: hostile challenge gesture before combat
+  taxonomy_refs: []
+  basis: The passage states that Amargin places his left elbow under him, with the
+    supplied note identifying this act as a challenge or sign of hostility.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The meaning relies on the passage note; the narrative itself does not
+    elaborate the gesture.
+- id: motif:3
+  label: stone and earth projectile assault
+  taxonomy_refs: []
+  basis: Amargin's people supply rocks, boulders, and earth-clumps, and he uses them
+    to pelt the men of Erin.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is descriptive at passage level; no broader taxonomy reference
+    is supplied by the available list.
+- id: motif:4
+  label: three-day-and-night battle duration
+  taxonomy_refs: []
+  basis: The pelting continues until the end of three days and three nights.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the duration but does not attach an explicit symbolic
+    meaning to the number.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: '12845'
+  quote_or_summary: The heading names the episode as the deer-stalking of Amargin
+    in Taltiu.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 12847-12850
+  quote_or_summary: Amargin is identified as son of Cass, son of Bacc, descendant
+    of Ross Ruad and Rudraige; the note text connects Rudraige with Conall Cernach.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 12850-12852
+  quote_or_summary: Amargin comes upon warriors going westward over Taltiu and makes
+    them turn northward over Taltiu.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: note
+  locator: 12852 and note [a]
+  quote_or_summary: Amargin puts his left elbow under him in Taltiu; the note glosses
+    the act as a challenge or sign of hostility.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain; summarized from supplied passage and note.
+- id: ev:5
+  type: summary
+  locator: 12852-12855
+  quote_or_summary: Amargin's people furnish him with rocks, boulders, and great clumps
+    of earth, and he pelts the men of Erin until the end of three days and three nights.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 12855-12857
+  quote_or_summary: The passage states that Amargin does great slaughter among the
+    men of Erin and that no man can show his face to him in Taltiu.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The action sequence and objects are explicit. Motif labels are descriptive
+    and passage-level; no external comparison claims were made because the passage
+    itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the supplied taxonomy list does not contain a clearly supported match for this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l12845-l12873
+  passage_sha256=104068221be4d582086b0332ef97561c2d6237f96aa5cddccca61cdcad109ab9
+

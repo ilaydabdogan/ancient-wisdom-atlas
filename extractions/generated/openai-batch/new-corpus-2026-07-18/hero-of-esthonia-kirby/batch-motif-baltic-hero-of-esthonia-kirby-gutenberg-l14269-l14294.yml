@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l14269-l14294
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE GOLDEN SNAKES. / THE NOCTURNAL CHURCH-GOERS. / THE CHURCH AT REVEL. /
+    THE CHURCH AT FELLIN.; lines 14269-14294
+  start: '14269'
+  end: '14294'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage recounts that the former church at Fellin stood by a lake
+    and sank after a prophecy was fulfilled by seven brothers being present together.
+    The site became a marshy meadow where, near midnight on New Year''s Eve, voices
+    and an underground clock may be heard. A following Estonian story pattern concerns
+    a wicked rich brother and poor brother: after the poor brother dies, the rich
+    brother attempts to reclaim grave-clothing from the corpse, which then clings
+    to his neck for life.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The church of Fellin formerly stood close to the lake rather than at its present
+    site.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A prophecy stated that the church would stand until seven brothers were present
+    in it together.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When seven brothers were present by chance, the church began to sink.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The congregation escaped, while the seven brothers remained, and the church
+    sank until the summit of its spire had disappeared.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The former site of the church is now a marshy meadow.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Near midnight on New Year's Eve, a person at the site hears entrancing voices
+    and cannot move until the underground church clock has finished striking twelve.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage states that stories of a wicked rich brother oppressing a poor
+    brother are known in Esthonia.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After the poor brother died, his widow begged grave-clothing from the wife
+    of the rich brother.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The rich brother scolded his wife and went to strip the body of his dead brother
+    in its coffin.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The rich brother cried, "That's mine! that's mine!" while stripping the dead
+    brother's body.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: When the rich brother tried to lay the naked corpse back in the coffin, it
+    clung around his neck, and he was compelled to carry it for the rest of his life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Seven brothers in the Fellin church
+  description: Seven brothers who happened to be present together in the church and
+    remained in it when it sank.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Congregation
+  description: The congregation escaped from the sinking church.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Person at the marshy meadow near midnight
+  description: Anyone present near midnight on New Year's Eve hears entrancing voices
+    and cannot move until the underground clock finishes striking twelve.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Poor brother
+  description: The poor brother is described as oppressed by the wicked rich brother;
+    after death, his corpse clings around the rich brother's neck.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Widow of the poor brother
+  description: After the poor brother died, his widow begged grave-clothing from the
+    rich brother's wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Wife of the rich brother
+  description: The widow begged grave-clothing from her, and the rich brother later
+    scolded her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Rich brother
+  description: A wicked rich brother who oppresses the poor brother, scolds his wife,
+    strips the dead brother's body, and is forced to carry the corpse for life.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: prophecy-triggering brother group
+  assigned_to:
+  - fig:1
+  basis: The prophecy was fulfilled when seven brothers were present together in the
+    church.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: escaping congregation
+  assigned_to:
+  - fig:2
+  basis: The congregation escaped when the church sank.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: enchanted listener at the former church site
+  assigned_to:
+  - fig:3
+  basis: A person present near midnight hears entrancing voices and is unable to move
+    until the underground clock completes twelve strokes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: oppressed poor brother and deceased victim
+  assigned_to:
+  - fig:4
+  basis: The passage describes the rich brother as oppressing the poor one and then
+    attempting to strip the poor brother's corpse.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: bereaved petitioner for grave-clothing
+  assigned_to:
+  - fig:5
+  basis: The widow begged grave-clothing from the rich brother's wife after the poor
+    brother died.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of grave-clothing request and scolded wife
+  assigned_to:
+  - fig:6
+  basis: She is the wife from whom the widow begged grave-clothing, and the rich brother
+    scolded her afterward.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: wealthy oppressor and corpse-stripper
+  assigned_to:
+  - fig:7
+  basis: The rich brother oppresses the poor brother and tries to strip the dead brother's
+    body in the coffin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: clinging corpse and lifelong burden
+  assigned_to:
+  - fig:4
+  basis: The corpse clung around the rich brother's neck, forcing him to carry it
+    for life.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fellin church
+  literal_form: Church that formerly stood near the lake and sank beneath the ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Lake and marshy meadow
+  literal_form: Former lakeside church site, now a marshy meadow
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Seven brothers
+  literal_form: The number and group of seven brothers whose joint presence fulfills
+    the prophecy
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: New Year's Eve near midnight
+  literal_form: Liminal time when the voices and underground clock are heard
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Underground church clock and entrancing voices
+  literal_form: Voices and the church clock heard beneath the ground
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Coffin and corpse
+  literal_form: The dead brother's body in a coffin, later naked and clinging around
+    the rich brother's neck
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The Fellin church sinks after the prophecy is fulfilled
+  summary: The former Fellin church stood near a lake. After seven brothers happened
+    to be present in it together, as foretold, the church sank; the congregation escaped
+    but the brothers remained, and the spire disappeared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Midnight sounds at the sunken church site
+  summary: At the marshy former site, near midnight on New Year's Eve, a visitor hears
+    entrancing voices and remains unable to move until the church clock beneath the
+    ground finishes striking twelve.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The rich brother strips the corpse and is burdened by it
+  summary: After the poor brother dies and his widow seeks grave-clothing, the rich
+    brother angrily goes to strip the corpse in the coffin. The corpse then clings
+    to his neck and must be carried for the rest of his life.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Prophecy-triggered sinking church
+  taxonomy_refs: []
+  basis: A prophecy says the church will stand only until seven brothers are present
+    together; when this occurs, the church sinks beneath the ground.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No agent causing the sinking is named in the passage.
+- id: motif:2
+  label: Subterranean church heard at New Year's midnight
+  taxonomy_refs: []
+  basis: At the former site of the sunken church, voices and an underground clock
+    are heard near midnight on New Year's Eve, and the listener is immobilized until
+    twelve strokes are complete.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports auditory signs and immobilization but does not describe
+    a visible reappearance of the church.
+- id: motif:3
+  label: Opposed rich and poor brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage explicitly identifies a story of a wicked rich brother who oppresses
+    a poor brother.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy term is 'sibling_pair'; the passage concerns a
+    pair of brothers, but it emphasizes moral and economic opposition rather than
+    twinship.
+- id: motif:4
+  label: Corpse clings to wrongdoer as lifelong burden
+  taxonomy_refs: []
+  basis: After the rich brother attempts to strip the dead brother's body, the corpse
+    clings around his neck and he must carry it for life.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the force or agency that compels the punishment.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the rich-brother and poor-brother story as part
+    of a broader Estonian pattern in which a wicked rich brother oppresses a poor
+    one.
+  claim_level: same_motif
+  target: Estonian story pattern of the wicked rich brother oppressing the poor brother
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison based only on the passage's statement
+    that the pattern is known in Esthonia; no separate parallel tale is provided in
+    the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14269-14294; THE CHURCH AT FELLIN, opening account
+  quote_or_summary: The Fellin church formerly stood near the lake; a prophecy said
+    it would stand until seven brothers were present together, and when this happened
+    the church sank while the congregation escaped and the brothers remained.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 14269-14294; THE CHURCH AT FELLIN, closing account
+  quote_or_summary: The former site is now a marshy meadow; near midnight on New Year's
+    Eve, a person there hears entrancing voices and cannot move until the underground
+    church clock finishes striking twelve.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 14269-14294; SECTION XII, UNNATURAL BROTHERS, opening account
+  quote_or_summary: The passage says that the story of a wicked rich brother oppressing
+    a poor brother is known in Esthonia; after the poor brother died, his widow begged
+    grave-clothing from the rich brother's wife.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 14269-14294; SECTION XII, UNNATURAL BROTHERS, corpse episode
+  quote_or_summary: The rich brother scolded his wife, went to strip the dead brother's
+    body in its coffin, and when he tried to replace the naked corpse, it clung around
+    his neck so that he had to carry it for life.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 14269-14294; SECTION XII, UNNATURAL BROTHERS, rich brother's speech
+  quote_or_summary: '"That''s mine! that''s mine!"'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; brief quote from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events are clear in the supplied passage. Motif labels are cautious
+    because most available taxonomy categories do not directly cover sinking churches,
+    underground church sounds, or clinging corpses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported parallels were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l14269-l14294
+  passage_sha256=f94cdf4a8b0ee77004c470bc26510fc01b56b702b32af56a6c8f49e4ac10459e
+

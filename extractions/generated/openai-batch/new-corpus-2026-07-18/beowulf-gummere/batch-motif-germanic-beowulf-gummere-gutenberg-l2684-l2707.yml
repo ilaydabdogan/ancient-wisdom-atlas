@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l2684-l2707
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: GRENDEL AND BEOWULF. / XIII. / GRENDEL IS VANQUISHED. / REJOICING OF THE
+    DANES.; lines 2684-2707
+  start: '2684'
+  end: '2707'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“The bloody deep welled with sword-gore”; “began afterward to tell of Beowulf's
+    adventure”"
+  summary: 'The supplied passage gives editorial notes and alternate translations:
+    one rendering describes a bloody deep or boiling water filled with sword-gore;
+    another describes a king’s liegeman, mindful of songs and ancient traditions,
+    narrating Beowulf’s adventure. Other notes discuss a possible phrase about a man
+    laden with boasts and a reading involving Heremod’s diminished strength.'
+  language: English, with cited Old English forms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An editorial note reports proposed readings in which the deep wells or boils
+    with sword-gore connected to a death-doomed figure.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An alternate rendering describes a king’s liegeman as fame-covered, mindful
+    of songs, remembering many ancient traditions, and beginning afterward to narrate
+    Beowulf’s adventure skilfully.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note asks whether the phrase “guma gilp-hladen” might mean a man laden with
+    boasts of the deeds of others.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note gives a rendering in which someone throve in honor after or since Heremod’s
+    strength had decreased.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: death-doomed one
+  description: An unnamed figure whose sword-gore is associated with the deep boiling
+    or welling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: liegeman of the king
+  description: A fame-covered man mindful of songs, remembering ancient traditions,
+    who narrates Beowulf’s adventure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: king
+  description: The royal figure to whom the liegeman belongs; not otherwise described
+    in the supplied passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Beowulf
+  description: The figure whose adventure is narrated in the alternate rendering.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Heremod
+  description: A named figure whose strength is described as having decreased in an
+    editorial rendering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: death-doomed wounded figure
+  assigned_to:
+  - fig:1
+  basis: The rendering calls the figure “death-doomed” and associates him with sword-gore
+    in the deep.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tradition-bearing narrator
+  assigned_to:
+  - fig:2
+  basis: The liegeman is mindful of songs, remembers ancient traditions, and narrates
+    Beowulf’s adventure.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal lord
+  assigned_to:
+  - fig:3
+  basis: The narrator is identified as a liegeman of the king.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: subject of heroic adventure
+  assigned_to:
+  - fig:4
+  basis: The alternate rendering states that Beowulf’s adventure is told.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: figure of diminished strength
+  assigned_to:
+  - fig:5
+  basis: The note states that Heremod’s strength had decreased.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bloody deep
+  literal_form: Deep water welling or boiling with sword-gore.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sword-gore
+  literal_form: Blood or gore produced by a sword and filling the deep.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: songs and ancient traditions
+  literal_form: Remembered songs, ancient traditions, and accurately bound word-groups
+    used in narration.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bloody deep after violent encounter
+  summary: A proposed rendering depicts the deep as bloody or boiling with sword-gore
+    from a death-doomed figure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Retainer narrates Beowulf’s adventure
+  summary: A king’s liegeman, described as mindful of songs and ancient traditions,
+    begins skilfully to tell Beowulf’s adventure.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Honor after Heremod’s decline
+  summary: An editorial rendering states that someone throve in honor after Heremod’s
+    strength had decreased.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Bloodied water as sign of violent defeat
+  taxonomy_refs: []
+  basis: The note’s alternate renderings describe the deep welling or boiling with
+    sword-gore from a death-doomed figure.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The supplied text is an editorial note, not the full narrative passage;
+    the defeated figure is not named in the excerpt.
+- id: motif:2
+  label: Heroic deed preserved through skilled oral narration
+  taxonomy_refs: []
+  basis: The alternate rendering describes a song-minded liegeman remembering ancient
+    traditions and narrating Beowulf’s adventure.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is inferred from the alternate rendering’s description of narration;
+    no wider comparative claim is made.
+- id: motif:3
+  label: Honor rising after another hero’s decline
+  taxonomy_refs: []
+  basis: A note gives a reading in which someone thrives in honor since Heremod’s
+    strength had decreased.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The subject who thrives in honor is not identified in the supplied excerpt,
+    and the line is presented as an editorial parsing note.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2684-2707, note [1]
+  quote_or_summary: "“The bloody deep welled with sword-gore”; alternate rendering:
+    “The deep boiled with the sword-gore of the death-doomed one.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:2
+  type: quote
+  locator: lines 2684-2707, note [2]
+  quote_or_summary: "“Oft a liegeman of the king, a fame-covered man mindful of songs,
+    who very many ancient traditions remembered ... began afterward to tell of Beowulf's
+    adventure, skilfully to narrate it.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 2684-2707, note [3]
+  quote_or_summary: "“Might ‘guma gilp-hladen’ mean ‘a man laden with boasts of the
+    deeds of others’?”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 2684-2707, note [4]
+  quote_or_summary: "“He throve in honor since Heremod's strength ... had decreased.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited because the supplied passage text is mainly editorial
+    apparatus and alternate renderings, not a continuous narrative excerpt. Motif
+    candidates are therefore tentative and require review against the surrounding
+    poem lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were generated because the supplied passage does not itself provide a specific comparative target or tradition beyond general reference to ancient traditions.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l2684-l2707
+  passage_sha256=5fed5d4bc30f965570298d075dcb11858a77ba762694b339a722fe9e42e4e8f3
+

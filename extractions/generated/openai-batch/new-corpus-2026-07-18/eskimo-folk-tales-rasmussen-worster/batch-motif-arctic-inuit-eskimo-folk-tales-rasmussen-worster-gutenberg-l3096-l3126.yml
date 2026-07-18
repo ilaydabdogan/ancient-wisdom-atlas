@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l3096-l3126
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: THE RAVEN WHO WANTED A WIFE / THE MAN WHO TOOK A VIXEN TO WIFE / THE GREAT
+    BEAR / THE MAN WHO BECAME A STAR; lines 3096-3126
+  start: '3096'
+  end: '3126'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“all at once he became bright, and rose up to heaven as a great star.”"
+  summary: An old man hunting seal on the ice is angered when children playing in
+    a ravine repeatedly frighten away the seal. He commands the ravine to close over
+    them; the hillside shuts them in, and they eventually die of hunger. Neighbours
+    pursue the old man, but he becomes bright, rises to heaven as a great star, and
+    is identified as Nalaussartoq, visible low in the west when light returns after
+    the great darkness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old man stands on the ice waiting for seal to come to breathing holes,
+    while children play in a ravine opposite the shore.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The children repeatedly frighten away a seal just as the old man is about
+    to harpoon it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old man grows angry and calls for the ravine to close over the children
+    who are spoiling his hunting.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hillside closes over the children at play.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One child carrying a little brother has her fur coat torn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The trapped children scream inside the hill; food cannot be brought to them,
+    though water is poured down a crack for them to lick from the sides.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The children die of hunger.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Neighbours fall upon the old man who shut up the children by magic, and he
+    flees while they pursue him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The old man becomes bright, rises to heaven as a great star, and is said to
+    be visible low in the west when the lights return after the great darkness.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The star is called Nalaussartoq, glossed as “he who stands and listens.”
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: An old man hunting seal on the ice who uses magic to shut children
+    in a hill, flees from neighbours, and becomes a star.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: children playing in the ravine
+  description: A crowd of children whose play frightens away the seal; they are enclosed
+    by the hillside and die of hunger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: child carrying a little brother
+  description: One of the trapped children, carrying a little brother, whose fur coat
+    is torn when the hillside closes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: little brother
+  description: A little brother carried by one of the children when the hillside closes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: neighbours
+  description: The neighbours who pursue the old man after he shuts the children in
+    the hill by magic.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seal hunter
+  assigned_to:
+  - fig:1
+  basis: The old man waits on the ice for seal to come to breathing holes and is about
+    to harpoon one.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: magical punisher
+  assigned_to:
+  - fig:1
+  basis: He commands the ravine to close over the children, and the passage says he
+    shut them up by magic.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: transformed celestial figure
+  assigned_to:
+  - fig:1
+  basis: He becomes bright and rises to heaven as a great star named Nalaussartoq.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: trapped victims
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The hillside closes over the children; they cannot come out and later die
+    of hunger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: pursuers
+  assigned_to:
+  - fig:5
+  basis: The neighbours fall upon the old man and run after him when he flees.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: closing ravine or hillside
+  literal_form: The ravine or hillside closes over the children and imprisons them
+    inside the hill.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water through the crack
+  literal_form: Water is poured down a crack in the hill and licked from the sides
+    by the trapped children.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: great star Nalaussartoq
+  literal_form: A great star, low in the west, visible when the lights return after
+    the great darkness, called Nalaussartoq.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hunt interrupted by children
+  summary: An old man waits on the ice to harpoon seal at breathing holes, but children
+    playing in a ravine repeatedly frighten the seal away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ravine closes over the children
+  summary: The angry old man commands the ravine to close over the children; the hillside
+    shuts them inside, where only water can be passed to them through a crack and
+    they die of hunger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pursuit and transformation into a star
+  summary: Neighbours pursue the old man because he shut the children in the hill
+    by magic, but he becomes bright and rises to heaven as the star Nalaussartoq.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Human transformed into a named star
+  taxonomy_refs:
+  - ascent
+  basis: The old man becomes bright, rises to heaven as a great star, and is identified
+    as the star Nalaussartoq.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy includes ascent, which fits the rising to heaven,
+    but it does not specifically name catasterism or star-origin motifs.
+- id: motif:2
+  label: Landscape closes by spoken magic
+  taxonomy_refs: []
+  basis: The old man verbally commands the ravine to close over the children, and
+    the hillside immediately closes over them.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches magical landscape enclosure.
+- id: motif:3
+  label: Fatal magical punishment for disrupting a hunt
+  taxonomy_refs: []
+  basis: The children repeatedly spoil the old man’s seal hunting; in anger he uses
+    magic to enclose them in the hill, where they die of hunger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the sequence literally; the broader social or moral
+    interpretation requires review.
+- id: motif:4
+  label: Etiology of a visible celestial body
+  taxonomy_refs: []
+  basis: The passage explains a currently visible low western star by narrating how
+    the old man became that star and giving its name and gloss.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No external star identification is supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a star-origin or catasterism pattern in which a human figure
+    becomes a visible named star.
+  claim_level: same_motif
+  target: human-to-star star-origin pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a pattern-level comparison only; the passage and metadata do
+    not provide external variants, historical contact evidence, or a specific astronomical
+    identification beyond the name Nalaussartoq.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3096-3103
+  quote_or_summary: An old man waits on the ice for seal at breathing holes; children
+    playing in a ravine opposite the shore repeatedly frighten away a seal just as
+    he is about to harpoon it.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 3104-3111
+  quote_or_summary: "“Close up, Ravine, over those who are spoiling my hunting.” The
+    passage then says the hillside closed over the children at play."
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3111-3118
+  quote_or_summary: One child carrying a little brother has her fur coat torn; the
+    children scream inside the hill, cannot come out, and receive only water poured
+    down a crack, which they lick from the sides.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: line 3120
+  quote_or_summary: "“At last they all died of hunger.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3121-3124
+  quote_or_summary: Neighbours fall upon the old man who had shut the children in
+    the hill by magic; he flees and they run after him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 3125-3126
+  quote_or_summary: "“he became bright, and rose up to heaven as a great star”; the
+    star is visible low in the west when lights return after the great darkness and
+    is called Nalaussartoq, “he who stands and listens.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short quotation and summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labeling
+    is provisional, especially where the supplied taxonomy lacks a specific catasterism/star-origin
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external identification of Nalaussartoq or the star has been added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l3096-l3126
+  passage_sha256=973b3c0bbcbe37099854778cd264755655133d9a241a2ca336c9084289781648
+

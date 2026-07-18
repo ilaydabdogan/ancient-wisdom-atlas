@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l45583-l45620
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto IV. Within The City. / Canto VI. The Court. / Canto VIII. The Enchanted
+    Car. / Canto XI. The Banquet Hall.; lines 45583-45620
+  start: '45583'
+  end: '45620'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Vánar rejects the idea that Sítá could be among the carefree women,
+    reasoning that Ráma's wife would not enjoy luxury or lie near another lover. He
+    enters a banquet hall, sees women asleep after amusement and wine, observes abundant
+    meats and jeweled golden wine cups, and searches court, bower, and hall for Sítá
+    without finding her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker or seeker rejects the thought that Ráma's wife could be among
+    the carefree women living at ease.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ráma's wife is described as ceasing to care for dress, sleep, and dainty fare
+    because of her separated or bereaved heart.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ráma's wife is said not to lie near a lover, even if Indra wooed her from
+    the sky.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Vánar enters the banquet hall to continue a strict search.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fair women are sleeping on the ground, wearied by song, games, dance, wine,
+    and sleep.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The banquet hall is filled with food, including boar, buffalo, deer, peacock,
+    hen, kid, porcupine, hare, and other meats and dainties.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Golden cups of wine, shining with precious stones, are present in the banquet
+    hall.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Vánar passes through court, bower, and banquet hall, searching every place
+    for Sítá, but does not find her.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Vánar
+  description: A Vánar who searches through the court, bower, and banquet hall for
+    Sítá.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Sítá / Ráma's wife
+  description: Ráma's wife, expected not to enjoy luxury or lie near another lover;
+    the person being searched for and not found.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Ráma / Raghu's son
+  description: Named as Sítá's own and only lord, unmatched in heaven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Indra
+  description: A divine figure mentioned hypothetically as one who might woo Ráma's
+    wife from the sky.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Sleeping women in the banquet hall
+  description: Fair women sleeping on the ground after song, games, dance, wine, and
+    sleep.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Searcher
+  assigned_to:
+  - fig:1
+  basis: The Vánar enters the banquet hall and searches court, bower, and banquet
+    hall for Sítá.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: Sought woman
+  assigned_to:
+  - fig:2
+  basis: Sítá is the person for whom the Vánar searches and whom he does not find.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: Faithful wife
+  assigned_to:
+  - fig:2
+  basis: The passage says Ráma's wife would not lie near another lover and cares no
+    longer for luxuries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Absent husband or only lord
+  assigned_to:
+  - fig:3
+  basis: Raghu's son is described as Ráma's wife’s own and only lord.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Hypothetical divine suitor
+  assigned_to:
+  - fig:4
+  basis: Indra is mentioned in a hypothetical statement about wooing Ráma's wife from
+    the sky.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Luxury-associated sleeping women
+  assigned_to:
+  - fig:5
+  basis: The women are found sleeping in the banquet hall after entertainment and
+    wine.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Banquet hall
+  literal_form: A spacious hall filled with sleeping women, food, wine, gold, and
+    precious stones.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Wine cups
+  literal_form: Cups of wine made of gold and shining with precious stones.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Untouched and prepared meats
+  literal_form: Animal and bird meats, some untouched on gold plates and others mixed
+    with salt and curd.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rejection of mistaken identification
+  summary: The seeker dismisses the possibility that Ráma's wife is among carefree
+    women, reasoning from her fidelity and grief.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Search of the banquet hall
+  summary: The Vánar enters the banquet hall, sees sleeping women and abundant food
+    and wine, then searches through court, bower, and hall without finding Sítá.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Search for the absent wife
+  taxonomy_refs: []
+  basis: The Vánar conducts a strict search for Sítá, identified as Ráma's wife, through
+    several palace spaces and fails to find her.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage does not itself state the cause of Sítá's absence.
+- id: motif:2
+  label: Faithful wife contrasted with luxury and temptation
+  taxonomy_refs: []
+  basis: Ráma's wife is distinguished from women at ease; she is described as indifferent
+    to dress, sleep, and dainty fare, and unwilling to lie near another lover even
+    if wooed by Indra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern; no broader taxonomy reference is asserted.
+- id: motif:3
+  label: Palace luxury as search setting
+  taxonomy_refs: []
+  basis: The search passes through a banquet hall marked by sleeping women, wine,
+    golden jeweled cups, and abundant meats.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents these details literally as setting; symbolic interpretation
+    requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 45583-45592
+  quote_or_summary: The seeker rejects the idea that Ráma's wife is among carefree
+    women and says her heart no longer cares for dress, sleep, or dainty fare.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 45593-45598
+  quote_or_summary: Ráma's wife is said never to lie near another lover, even if Indra
+    wooed her, and Raghu's son is named as her own and only lord.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 45599-45608
+  quote_or_summary: The Vánar enters the banquet hall for a strict search and finds
+    fair women sleeping on the ground after song, games, dance, wine, and sleep.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 45609-45616
+  quote_or_summary: 'The spacious hall contains plentiful food: boar, buffalo, deer,
+    peacock, hen, and meats of various beasts and birds including kid, porcupine,
+    and hare.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 45617-45618
+  quote_or_summary: The hall contains golden cups of wine shining with precious stones.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: 45619-45620
+  quote_or_summary: "“For Sítá searched, but found her not.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are passage-level candidates only; no historical or cross-tradition comparison
+    is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were not applied because the passage does not explicitly support a listed motif family or symbol with sufficient specificity.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l45583-l45620
+  passage_sha256=736cd804f0ba9a462e59a9c257751583e299cdac8ee3c558c40be8d1d91d8c18
+

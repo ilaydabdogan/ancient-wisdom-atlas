@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l8640-l8689
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VIII. / AL KORAN. / CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL
+    GOD; lines 8640-8689
+  start: '8640'
+  end: '8689'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: PRAISE be to GOD, the LORD of all creatures;
+  summary: The passage presents Chapter I as a Meccan prayer beginning in God’s name.
+    The prayer praises God as merciful lord and king of the day of judgment, declares
+    worship and dependence on God, and asks to be directed in the right way rather
+    than the way of those under anger or astray. Sale’s notes explain the chapter’s
+    devotional use, the phrase translated as lord of all creatures/worlds, and common
+    and alternate interpretations of the final petition.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the chapter as the Preface or Introduction and says
+    it was revealed at Mecca.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prayer opens in the name of the most merciful God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: God is praised as lord of all creatures, most merciful, and king of the day
+    of judgment.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The plural speakers say they worship God and beg assistance from God.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The plural speakers ask to be directed in the right way.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The requested way is contrasted with those to whom God has been gracious,
+    those against whom God is incensed, and those who go astray.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note says the chapter is a prayer held in great veneration and often repeated
+    in public and private devotions.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: 'A note says the original phrase translated as lord of creatures/worlds refers
+    in this context to rational creatures: men, genii, and angels.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note reports a common exposition in which those to whom God has been gracious
+    are prophets and faithful who preceded Mohammed, including Jews and Christians
+    in their primitive purity.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The same note reports that the negative examples are commonly applied to modern
+    Jews and Christians of the commentator’s age.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The note also reports an alternate interpretation in which all the descriptors
+    apply to true believers.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The addressed deity, invoked as most merciful, praised as lord of all
+    creatures and king of the day of judgment, and petitioned for assistance and direction.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Plural supplicants
+  description: The speakers who say they worship God, ask assistance, and request
+    direction in the right way.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: All creatures / worlds
+  description: The group under God’s lordship; Sale’s note explains the phrase as
+    referring to rational creatures, namely men, genii, and angels.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Those to whom God has been gracious
+  description: A group named in the prayer as the model way; the note’s common exposition
+    identifies them with prophets and faithful before Mohammed, including Jews and
+    Christians in primitive purity.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Those against whom God is incensed
+  description: A group whose way the speakers ask not to follow; the note’s common
+    exposition applies this to modern Jews.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Those who go astray
+  description: A group whose way the speakers ask not to follow; the note’s common
+    exposition applies this to Christians of the commentator’s age and describes them
+    as in a labyrinth of error.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: Muslim devotees described in Sale’s note
+  description: The note says the chapter is held in veneration by Mohammedans and
+    often repeated in public and private devotions.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Christians in the devotional comparison
+  description: The note compares Muslim repetition of this chapter to Christians’
+    use of the Lord’s Prayer.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine addressee
+  assigned_to:
+  - fig:1
+  basis: The prayer is directed to God and begins in God’s name.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: sovereign judge
+  assigned_to:
+  - fig:1
+  basis: God is called king of the day of judgment and is described as incensed against
+    some.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: supplicants seeking guidance
+  assigned_to:
+  - fig:2
+  basis: The speakers beg assistance and ask to be directed in the right way.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: creatures under divine lordship
+  assigned_to:
+  - fig:3
+  basis: God is called lord of all creatures, and the note explains the underlying
+    phrase by reference to rational creatures.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: favored exemplars
+  assigned_to:
+  - fig:4
+  basis: The prayer asks for the way of those to whom God has been gracious.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:6
+  label: negative example under divine anger
+  assigned_to:
+  - fig:5
+  basis: The prayer rejects the way of those against whom God is incensed.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: negative example of error
+  assigned_to:
+  - fig:6
+  basis: The prayer rejects the way of those who go astray.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:8
+  label: reciters of a venerated prayer
+  assigned_to:
+  - fig:7
+  basis: The note says the chapter is venerated and often repeated in devotions.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: comparative devotional analogue
+  assigned_to:
+  - fig:8
+  basis: The note compares repetition of the chapter to Christian use of the Lord’s
+    Prayer.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Right way
+  literal_form: way/path
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: Day of judgment
+  literal_form: day
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Labyrinth of error
+  literal_form: labyrinth
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Invocation and praise
+  summary: The chapter opens in God’s name and praises God as merciful lord of creatures
+    and king of the day of judgment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Petition for assistance and right way
+  summary: The plural speakers declare worship, ask God for assistance, and request
+    direction into the right way rather than the ways associated with anger or error.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Sale’s explanatory notes
+  summary: The notes describe the chapter’s devotional status, define the lord of
+    worlds phrase, compare its devotional use to the Lord’s Prayer, and report common
+    and alternate readings of the final petition.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment and divine sovereignty
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is named king of the day of judgment, and the prayer contrasts divine
+    grace with divine anger.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is a short liturgical prayer, not an extended judgment narrative.
+- id: motif:2
+  label: Supplication for guidance on the right way
+  taxonomy_refs:
+  - wisdom
+  basis: The speakers ask God to direct them in the right way and away from error.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wisdom taxonomy mapping is thematic; the passage frames guidance as
+    prayer rather than as a wisdom tale.
+- id: motif:3
+  label: Contrasted paths of favor and error
+  taxonomy_refs:
+  - duality
+  basis: The prayer distinguishes the way of those graced by God from the ways of
+    those under anger or astray.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a moral and devotional contrast, not an explicit cosmological
+    dualism.
+- id: motif:4
+  label: Repeated devotional prayer
+  taxonomy_refs: []
+  basis: Sale’s note says the chapter is highly venerated and often repeated in public
+    and private devotions.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a ritual pattern from the translator’s note rather than a mythic
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: Sale’s note compares Muslim devotional repetition of this chapter with Christians’
+    use of the Lord’s Prayer.
+  claim_level: same_function
+  target: Christian devotional use of the Lord’s Prayer
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns devotional repetition and functional status
+    only; it does not establish shared wording, historical contact, or common origin.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8644-8648
+  quote_or_summary: The chapter is titled the Preface or Introduction, said to be
+    revealed at Mecca, and begins in the name of the most merciful God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+- id: ev:2
+  type: quote
+  locator: lines 8650-8652
+  quote_or_summary: God is praised as “the LORD of all creatures,” “the most merciful,”
+    and “the king of the day of judgment.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+- id: ev:3
+  type: quote
+  locator: lines 8653-8654
+  quote_or_summary: 'The speakers say they worship God, beg assistance, and ask: “Direct
+    us in the right way,”'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 8655-8656
+  quote_or_summary: The requested way is described as the way of those to whom God
+    has been gracious, not of those against whom God is incensed or of those who go
+    astray.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+- id: ev:5
+  type: quote
+  locator: lines 8659-8664
+  quote_or_summary: Sale’s note says the chapter is a prayer, held in great veneration,
+    repeated in public and private devotions “as the Christians do the Lord’s Prayer.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 8665-8672
+  quote_or_summary: 'Sale’s note says the original phrase literally means lord of
+    the worlds and in this context refers to rational creatures: men, genii, and angels;
+    it also rejects an accusation about plurality of worlds.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 8673-8683
+  quote_or_summary: 'Sale’s note reports a common exposition: the petition asks God
+    to lead supplicants into the true religion; those graced are prophets and faithful
+    before Mohammed, including Jews and Christians in primitive purity; the negative
+    examples are applied to modern Jews and Christians of the commentator’s age, the
+    latter described as in a labyrinth of error.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 8684-8688
+  quote_or_summary: Sale’s note reports an alternate reading by al Zamakhshari and
+    others in which the negatives are applied differently so that the whole describes
+    true believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; quotation and summary allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main prayer and translator’s notes are explicit. Motif mapping is limited
+    by the passage’s brevity and liturgical/commentarial form. Polemical identifications
+    in the notes are recorded only as claims made in the supplied passage, not endorsed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied public-domain passage and metadata. Sale’s explanatory notes are treated as part of the supplied passage and distinguished from the prayer text where relevant.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l8640-l8689
+  passage_sha256=0df8c09686b28576c117faa4641c42cd30fde0d75daa4cd36f73f8e730f72c4b
+

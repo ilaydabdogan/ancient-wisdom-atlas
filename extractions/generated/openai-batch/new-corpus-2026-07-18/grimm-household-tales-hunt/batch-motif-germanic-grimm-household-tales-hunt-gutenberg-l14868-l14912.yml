@@ -1,0 +1,601 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l14868-l14912
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 14868-14912
+  start: '14868'
+  end: '14912'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents three brief snake stories: a child shares food with
+    a snake that gives treasures and later dies when the mother kills it, after which
+    the child wastes away; an orphan girl receives a golden crown from a snake by
+    using a blue silk handkerchief, takes it, and the grieving snake dies; a child
+    and a snake briefly speak about the child’s missing little sister.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A snake comes to the child’s food, drinks the milk, leaves the bread-crumbs,
+    and brings pretty things from hidden treasures.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The snake’s gifts are described as bright stones, pearls, and golden playthings.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The child gently strikes the snake on the head with a little spoon and tells
+    it to eat the bread-crumbs too.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mother hears the child speaking, sees her striking a snake with a spoon,
+    runs out with a log of wood, and kills the snake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the snake is killed, the child loses her rosy cheeks, wastes away, and
+    soon lies on her bier.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before the child’s death, the funeral bird cries at night and the redbreast
+    gathers branches and leaves for a funeral garland.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: An orphan child sits spinning on the town walls and sees a snake come out
+    of a low hole in the wall.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The orphan spreads out a blue silk handkerchief, which the passage says snakes
+    strongly like and are the only things they will creep on.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The snake returns with a small golden crown, lays it on the handkerchief,
+    and goes away; the girl takes the crown.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: When the snake comes back and no longer sees the crown, it strikes its head
+    against the wall until it dies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: In the third story, a snake cries out, a child tells it to come out, and the
+    child asks whether it has seen her little sister, little Red-stockings.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The snake and the child both say they have not seen little Red-stockings.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-story snake
+  description: A snake that eats with a child, drinks milk, brings hidden treasures,
+    and is killed by the mother.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: first-story child
+  description: A child who shares food with the snake, speaks to it, strikes it gently
+    with a spoon, and later wastes away and dies.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: mother
+  description: The mother hears the child speaking, sees the snake, and kills it with
+    a log of wood.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: funeral bird
+  description: A bird that begins to cry in the night before the child’s death.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: redbreast
+  description: A bird that gathers branches and leaves for a funeral garland.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: orphan girl
+  description: An orphan child sitting on the town walls spinning; she spreads a blue
+    silk handkerchief and takes the golden crown brought by the snake.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: second-story snake
+  description: A snake that comes from a wall hole, brings a small golden crown, and
+    later strikes its head against the wall until dead when the crown is gone.
+  role_refs:
+  - role:2
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: third-story snake
+  description: A snake that cries out, comes when called, and answers the child’s
+    question about little Red-stockings.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: third-story child
+  description: A child who calls the snake out and asks about her little sister, little
+    Red-stockings.
+  role_refs:
+  - role:10
+  - role:11
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: little Red-stockings
+  description: The child’s little sister, mentioned as someone neither the child nor
+    the snake has seen.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: food-sharing companions
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The snake eats with the child and drinks the milk while the child addresses
+    it about the bread-crumbs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: serpent treasure-bringer
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: One snake brings stones, pearls, and golden playthings; another brings a
+    golden crown.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: human recipient of serpent-associated treasure
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The first child receives treasures from the snake, and the orphan girl takes
+    the crown brought by the snake.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: killer of the snake
+  assigned_to:
+  - fig:3
+  basis: The mother kills the snake with a log of wood.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: killed beneficent snake
+  assigned_to:
+  - fig:1
+  basis: The snake has brought treasures and is later killed by the mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: child who declines after the snake’s death
+  assigned_to:
+  - fig:2
+  basis: After the snake is killed, the child loses health and dies.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: funeral-associated birds
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The funeral bird cries and the redbreast gathers materials for a funeral
+    garland before the child lies on her bier.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: orphan spinner and crown-taker
+  assigned_to:
+  - fig:6
+  basis: The orphan sits spinning, spreads the handkerchief, and takes the crown.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: grieving self-destructive snake
+  assigned_to:
+  - fig:7
+  basis: When the crown is gone, the snake strikes its head against the wall until
+    dead.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: dialogue partners
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The child calls the snake out and they exchange speech about little Red-stockings.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: sibling seeker
+  assigned_to:
+  - fig:9
+  basis: The child asks whether the snake has seen her little sister.
+  evidence_refs:
+  - ev:6
+- id: role:12
+  label: absent little sister
+  assigned_to:
+  - fig:10
+  basis: Little Red-stockings is named as the child’s little sister whom neither speaker
+    has seen.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: snake
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: milk
+  literal_form: milk drunk by the snake
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hidden treasures
+  literal_form: bright stones, pearls, and golden playthings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: spoon
+  literal_form: child’s little spoon used to strike the snake gently
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: log of wood
+  literal_form: log of wood used to kill the snake
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: funeral garland materials
+  literal_form: little branches and leaves collected by the redbreast
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: blue silk handkerchief
+  literal_form: blue silk handkerchief spread beside the snake’s hole
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: golden crown
+  literal_form: small golden crown of delicate golden filagree work
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:9
+  label: wall hole
+  literal_form: low hole in the town wall from which the snake comes
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: child feeds with treasure-giving snake
+  summary: A snake shares the child’s food, drinks the milk, refuses bread-crumbs,
+    and brings the child bright stones, pearls, and golden playthings from hidden
+    treasures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: mother kills the snake
+  summary: The child taps the snake with a spoon and tells it to eat the bread-crumbs;
+    the mother sees this and kills the snake with a log of wood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: child wastes away with funeral signs
+  summary: After the snake is gone, the child declines, funeral-associated birds act,
+    and the child soon lies on her bier.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: orphan spreads handkerchief for snake
+  summary: An orphan girl spinning on the town walls sees a snake come from a wall
+    hole and spreads a blue silk handkerchief beside it.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: snake gives crown and dies when it is gone
+  summary: The snake places a golden crown on the handkerchief, the girl takes it,
+    and the returning snake strikes its head against the wall until dead after finding
+    the crown gone.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:6
+  label: snake and child discuss little Red-stockings
+  summary: A snake cries out, comes when called, and answers a child’s question about
+    her little sister; neither has seen little Red-stockings.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: treasure-giving serpent fed by a child
+  taxonomy_refs:
+  - serpent
+  - sacred_exchange
+  basis: The first snake eats with the child, drinks milk, and in gratitude brings
+    bright stones, pearls, and golden playthings.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states gratitude but does not classify the snake as divine
+    or supernatural beyond its treasures.
+- id: motif:2
+  label: killing of helpful serpent followed by child’s decline
+  taxonomy_refs:
+  - serpent
+  basis: The mother kills the treasure-giving snake; afterward the child loses health
+    and dies, with funeral-associated bird signs preceding the death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The sequence strongly links the events, but the passage gives no explicit
+    external explanation of causality.
+- id: motif:3
+  label: serpent gives golden crown through preferred cloth
+  taxonomy_refs:
+  - serpent
+  - sacred_exchange
+  basis: The orphan spreads a blue silk handkerchief said to attract snakes; the snake
+    brings a golden crown to it, and the girl takes the crown.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: 'The exchange is asymmetrical: the girl keeps the crown, and the snake
+    later dies when it is gone.'
+- id: motif:4
+  label: grieving serpent dies after loss of treasure
+  taxonomy_refs:
+  - serpent
+  basis: When the second snake returns and does not see the crown, it strikes its
+    head against the wall until dead.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names the snake’s grief, but the exact meaning of the crown
+    for the snake is not explained.
+- id: motif:5
+  label: child questions speaking serpent about absent sister
+  taxonomy_refs:
+  - serpent
+  - sibling_pair
+  basis: A child calls a snake out and asks whether it has seen her little sister,
+    little Red-stockings; the snake answers.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The third story is very brief; the sister is only mentioned and does not
+    appear in the scene.
+comparison_claims:
+- id: claim:1
+  claim: Within this passage, the first and second stories share a pattern in which
+    a snake has access to treasure and transfers a precious object or objects to a
+    young human in connection with a small exchange or interaction.
+  claim_level: same_function
+  target: Internal comparison between the first-story snake-child feeding episode
+    and the second-story handkerchief-crown episode.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  limitations: 'The actions differ: one snake gives repeated treasures in gratitude
+    for food, while the other deposits a crown on a handkerchief that the girl takes.
+    Their endings also differ, and the third story is only a short dialogue.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14868-14874
+  quote_or_summary: The snake comes, enjoys the food, brings the child bright stones,
+    pearls, and golden playthings from hidden treasures, drinks milk, and leaves bread-crumbs.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14875-14882
+  quote_or_summary: The child taps the snake gently with a spoon and tells it to eat
+    the bread-crumbs; the mother sees this and kills the snake with a log of wood.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14883-14890
+  quote_or_summary: After the snake no longer eats with the child, the child loses
+    her rosy cheeks, wastes away, funeral birds act, and the child soon lies on her
+    bier.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14894-14902
+  quote_or_summary: An orphan child spinning on the town walls sees a snake come from
+    a wall hole, spreads a blue silk handkerchief, and the snake returns with a small
+    golden crown on the handkerchief.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14902-14908
+  quote_or_summary: The girl takes the crown; when the snake returns and finds it
+    gone, it strikes its head against the wall until dead; the narrator says it would
+    have brought more treasures if the crown had remained.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14910-14912
+  quote_or_summary: A snake cries out; a child calls it out and asks whether it has
+    seen her little sister, little Red-stockings; the snake says no, and the child
+    says she has not either.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    and use only available taxonomy references where directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external folktale type index or source outside the provided passage was used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l14868-l14912
+  passage_sha256=7ff1126068a8b1fc7bf35548d053d206575f86b3a76a76e10e575da565cf01a9
+

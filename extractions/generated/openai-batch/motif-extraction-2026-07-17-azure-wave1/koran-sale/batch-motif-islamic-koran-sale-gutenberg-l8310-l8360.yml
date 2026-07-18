@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l8310-l8360
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 8310-8360
+  start: '8310'
+  end: '8360'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Now let the earth be half mine, and half thine.
+  summary: The passage recounts two rival claimants to prophecy, Moseilama and al
+    Aswad, describing Moseilama's imitation of revelation, his proposal to divide
+    the earth with Mohammed, Mohammed's rejection of that proposal, Moseilama's later
+    military defeat and death, and al Aswad's claims to angelic revelation and wonder-working
+    persuasion.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mohammed's rise in power and reputation is said to have induced imitators,
+    especially Moseilama and al Aswad, who are called competitors in the prophetic
+    office.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moseilama is described as a principal man of the Honeifa tribe who led an
+    embassy to Mohammed, professed himself a Moslem, and later set himself up as a
+    prophet.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Moseilama claimed to share with Mohammed a commission to recall mankind from
+    idolatry to worship of the true God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Moseilama published written revelations that the passage explicitly describes
+    as being in imitation of the Koran.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Moseilama sent Mohammed a letter proposing that the earth be divided equally
+    between them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mohammed answered that the earth belongs to God, who gives it as inheritance
+    to such servants as He pleases.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After Mohammed's death, Abu Becr sent an army under Khaled Ebn al Wald against
+    Moseilama; Moseilama was slain in battle by Wahsha with the same lance previously
+    used to kill Hamza at Ohod.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Moslems won the battle; the passage says ten thousand apostates were left
+    dead and the rest returned to Mohammedism.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Al Aswad, also named Aihala, is described as a tribal governor and apostate
+    who set up for himself in the year Mohammed died.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Al Aswad was surnamed Dhu'lhemr, interpreted in the passage as master of the
+    ass, and was said to repeat that the master of the ass was coming to him.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Al Aswad claimed to receive revelations from two angels named Sohaik and Shoraik.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Al Aswad is described as skilled in legerdemain and smooth speech, gaining
+    influence over the multitude by strange feats.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Established prophetic and political figure in the passage; receives
+    Moseilama's proposal and replies that the earth belongs to God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Moseilama
+  description: Honeifa leader and rival claimant to prophecy; publishes imitated revelations,
+    proposes dividing the earth with Mohammed, gains followers, and is slain in battle.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Al Aswad / Aihala
+  description: Tribal ruler and apostate rival claimant; surnamed master of the ass;
+    claims revelations from named angels and gains people through feats and speech.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Abu Becr
+  description: Mohammed's successor who sends an army against Moseilama.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Khaled Ebn al Wald
+  description: General placed in command of the army sent against Moseilama.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Wahsha
+  description: A negro slave identified as the killer of Hamza at Ohod and as one
+    of those who slew Moseilama with the same lance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Sohaik and Shoraik
+  description: Two angels named by al Aswad as the source of his claimed revelations.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Established prophetic authority
+  assigned_to:
+  - fig:1
+  basis: The passage presents Mohammed's power and reputation as the model that drew
+    imitators, and has him reject Moseilama's proposal by invoking God's ownership
+    of the earth.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Rival claimant to prophetic office
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Moseilama and al Aswad are named as the most considerable competitors in
+    the prophetic office.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Liar or false-prophet figure in the account
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says Mohammedans call the two competitors the two liars; it later
+    calls Moseilama the false prophet.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: Military suppressor of Moseilama's revolt
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Abu Becr sends a great army, and Khaled Ebn al Wald commands it against Moseilama.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Slayer of Moseilama
+  assigned_to:
+  - fig:6
+  basis: Wahsha is named as one of those by whom Moseilama was slain, using the same
+    lance mentioned in the passage.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Claimed angelic source of revelation
+  assigned_to:
+  - fig:7
+  basis: Al Aswad is said to have pretended to receive revelations from the two angels
+    Sohaik and Shoraik.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Divided earth
+  literal_form: Moseilama's phrase that the earth should be half his and half Mohammed's,
+    answered by Mohammed's statement that the earth is God's.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Imitated written revelation
+  literal_form: Written revelations published by Moseilama in imitation of the Koran.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Claimed angelic messengers
+  literal_form: Two angels named Sohaik and Shoraik as alleged sources of al Aswad's
+    revelations.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Master of the ass title
+  literal_form: The surname Dhu'lhemr, glossed as master of the ass, and the saying
+    that the master of the ass is coming to al Aswad.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Repeated lance
+  literal_form: The lance used by Wahsha to kill Hamza at Ohod and later associated
+    with Moseilama's death.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rise of prophetic imitators
+  summary: Mohammed's success is described as drawing imitators, and Moseilama and
+    al Aswad are introduced as the chief rival claimants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moseilama imitates revelation and proposes shared rule
+  summary: Moseilama claims prophetic commission, publishes imitated revelations,
+    gathers supporters, and writes to Mohammed proposing that the earth be divided
+    between them; Mohammed rejects the proposal by asserting God's ownership of the
+    earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Defeat and death of Moseilama
+  summary: Abu Becr sends an army commanded by Khaled Ebn al Wald; Moseilama is slain
+    by Wahsha with the same lance earlier linked to Hamza's death, and the Moslems
+    win the battle.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Al Aswad's claimed revelation and wonder-working
+  summary: Al Aswad, called master of the ass, claims revelations from two angels
+    and gains followers through legerdemain, smooth speech, and strange feats.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Rival false prophet or prophetic imitator
+  taxonomy_refs: []
+  basis: The passage explicitly frames Moseilama and al Aswad as imitators and competitors
+    in the prophetic office, called the two liars.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The label follows the polemical wording of the passage and should not
+    be generalized without external review.
+- id: motif:2
+  label: Imitation of sacred revelation
+  taxonomy_refs: []
+  basis: Moseilama publishes written revelations described as being in imitation of
+    the Koran.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the supplied passage's characterization is used; the content or independent
+    transmission of those writings is not assessed.
+- id: motif:3
+  label: Sacral legitimacy over territory or earth
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Moseilama proposes dividing the earth; Mohammed replies that the earth belongs
+    to God and is granted as inheritance to whom God pleases.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The royal_legitimacy taxonomy fit is broad; the passage concerns prophetic-political
+    authority rather than a formal kingship ritual.
+- id: motif:4
+  label: Claimed angelic revelation with wonder-working persuasion
+  taxonomy_refs: []
+  basis: Al Aswad claims revelations from two named angels and is described as gaining
+    the multitude through legerdemain, smooth speech, and strange feats.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage attributes the feats to legerdemain, not to confirmed supernatural
+    power.
+- id: motif:5
+  label: Death of apostate claimant and communal return
+  taxonomy_refs: []
+  basis: Moseilama is slain in battle, the Moslems gain victory, many apostates die,
+    and the rest return to Mohammedism.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage narrates military defeat and return; it does not explicitly
+    describe divine intervention in the battle.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Moseilama's prophetic claim to Mohammed's
+    role by describing his commission as shared with Mohammed, his writings as imitations
+    of the Koran, and his letter as addressed apostle-to-apostle.
+  claim_level: same_function
+  target: Mohammed's prophetic office and Koranic revelation as represented in the
+    passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the supplied passage and reflects
+    the source's polemical terminology.
+- id: claim:2
+  claim: Moseilama and al Aswad are presented as a paired pattern of rival prophetic
+    claimants, since both are named as the principal competitors and as the two liars.
+  claim_level: same_motif
+  target: paired false-prophet competitor pattern within the passage
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The pairing is supplied by the narrator; the passage gives more detail
+    for Moseilama than for al Aswad.
+- id: claim:3
+  claim: The passage supplies an internal historical-contact basis for Moseilama's
+    imitation of Mohammed, stating that he led an embassy to Mohammed, professed himself
+    a Moslem, returned home, and then set up as a prophet.
+  claim_level: historical_contact
+  target: Moseilama's prophetic claim in relation to Mohammed's movement
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to what this passage reports and is not independently
+    verified here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8310-8315
+  quote_or_summary: Mohammed's success is said to have drawn imitators; Moseilama
+    and al Aswad are named as chief competitors in the prophetic office and as the
+    two liars.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+- id: ev:2
+  type: summary
+  locator: lines 8316-8322
+  quote_or_summary: Moseilama, a principal man of Honeifa, led an embassy to Mohammed,
+    professed himself a Moslem, returned home, and set up as a prophet claiming shared
+    commission to recall mankind from idolatry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+- id: ev:3
+  type: quote
+  locator: lines 8322-8326
+  quote_or_summary: Moseilama is said to have published written revelations, explicitly
+    described as being in imitation of the Koran.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+- id: ev:4
+  type: quote
+  locator: lines 8327-8332
+  quote_or_summary: Moseilama writes, 'Now let the earth be half mine, and half thine';
+    Mohammed answers, 'The earth is GOD'S' and says God gives it as inheritance to
+    whom He pleases.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+- id: ev:5
+  type: summary
+  locator: lines 8333-8340
+  quote_or_summary: Abu Becr sends an army under Khaled Ebn al Wald; Moseilama is
+    slain by Wahsha with the same lance previously used against Hamza; the Moslems
+    gain victory and the apostates are killed or return.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+- id: ev:6
+  type: summary
+  locator: lines 8341-8345
+  quote_or_summary: Al Aswad, also called Aihala, is described as a member of the
+    tribe of Ans, a governor of Arab tribes descended from Madhhaj, an apostate, and
+    a claimant who set up for himself in the year Mohammed died.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+- id: ev:7
+  type: quote
+  locator: lines 8345-8349
+  quote_or_summary: Al Aswad is surnamed master of the ass, says the master of the
+    ass is coming to him, and pretends to receive revelations from angels named Sohaik
+    and Shoraik.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+- id: ev:8
+  type: summary
+  locator: lines 8349-8360
+  quote_or_summary: Al Aswad is described as having legerdemain and a smooth tongue,
+    and as gaining the multitude by strange feats; the remaining supplied lines include
+    citation notes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; concise quotation/summary permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The named figures and actions are explicit in the passage. Motif assignments
+    are cautious because the passage is explanatory and polemical prose, not a standalone
+    mythic narrative, and some taxonomy fits are broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The passage appears to be historical/commentarial material within the source rather than a Qur'anic verse excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l8310-l8360
+  passage_sha256=3d8b2d884d4299be520da2aadda7de690deadf5632db3b23a84488d9375b431c
+

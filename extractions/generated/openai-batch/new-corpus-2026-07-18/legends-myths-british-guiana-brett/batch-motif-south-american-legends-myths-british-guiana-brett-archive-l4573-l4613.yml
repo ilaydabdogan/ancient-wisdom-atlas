@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l4573-l4613
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: WARLIKE LEGENDS. / THE CARIB WAR PATH. / ABORIGINAL TRIBES OF GUIANA. 99
+    / THE WAR ON THE ORINOCO.; lines 4573-4613
+  start: '4573'
+  end: '4613'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage recounts a war on the Orinoco: Carib forces reach the Caroni
+    and are joined by men from several named places. They intend to fight the Cabré
+    people and avenge their dead. After scattered fighting, the Cabré clans unite
+    under one leader and defeat the Caribs. Most Caribs are slain, many drown, and
+    only one survivor, or in a note two according to some Caribs, remains to tell
+    what happened afterward.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Carib force reaches the banks of the Caroni and receives additions to
+    its ranks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men from Barahma, Waiini, Amacuru, and Bowruma are named as joining the force.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The force comes to fight the Cabré people and to avenge its dead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After desultory fighting, both sides engage in earnest.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Cabré clans unite under one leader for the fight.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Cabrés inflict a total defeat on the Caribs, who had believed themselves
+    invincible.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Most Caribs are slain in battle, many drown, and few remain to tell the outcome.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage singles out one spared survivor; a note reports that some Caribs
+    say two men were spared.
+  category: other
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Caribs
+  description: A fighting group that reaches the Caroni, is joined by men from other
+    places, seeks to fight the Cabrés, and is defeated.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Men from Barahma, Waiini, Amacuru, and Bowruma
+  description: Additional men who join the ranks on the Caroni.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Cabré race or Cabré clans
+  description: The opposing people who unite their clans under one leader and defeat
+    the Caribs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: One leader
+  description: An unnamed leader under whom the Cabré clans unite for the fight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Spared survivor or survivors
+  description: One survivor is described as spared to tell of the succeeding night;
+    a note says some Caribs report two men were spared.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: avenging attackers
+  assigned_to:
+  - fig:1
+  basis: The Caribs and their additions come to fight the Cabrés and avenge their
+    dead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: allied reinforcements
+  assigned_to:
+  - fig:2
+  basis: The named groups are described as additions to the ranks.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: victorious opposing clans
+  assigned_to:
+  - fig:3
+  basis: The Cabré clans unite and deal a deadly blow leading to the Caribs' overthrow.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: defeated force
+  assigned_to:
+  - fig:1
+  basis: The Caribs receive a total overthrow, with most slain and many drowned.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: war leader
+  assigned_to:
+  - fig:4
+  basis: The Cabrés unite under one leader for the fight.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: surviving witness
+  assigned_to:
+  - fig:5
+  basis: The survivor is spared to tell of the succeeding night; a note gives an alternate
+    version with two spared men.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: river bank assembly point
+  literal_form: Caroni's banks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drowning after battle
+  literal_form: many were drowned
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Gathering at the Caroni
+  summary: The Carib force reaches the Caroni and is joined by men from several named
+    places.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Avenging campaign against the Cabrés
+  summary: The assembled force comes to fight the Cabré people and to avenge its dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cabré unification and Carib defeat
+  summary: After scattered fighting escalates, the Cabré clans unite under a single
+    leader and inflict a total defeat on the Caribs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Slain, drowned, and spared survivors
+  summary: Most Caribs are slain, many drown, and one survivor, or in a variant note
+    two men, remains to tell what followed.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: war of vengeance for the dead
+  taxonomy_refs: []
+  basis: The fighting force comes to fight the Cabrés and avenge its dead.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names vengeance warfare.
+- id: motif:2
+  label: enemy clans unify under one leader and reverse the expected outcome
+  taxonomy_refs: []
+  basis: The Cabré clans unite under one leader and defeat Caribs who had thought
+    themselves invincible.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a narrative pattern rather than a named taxonomy motif in the
+    supplied list.
+- id: motif:3
+  label: survivor witness after catastrophic defeat
+  taxonomy_refs: []
+  basis: The passage emphasizes that very few remain and that one, or according to
+    a note two, are spared to tell what occurred afterward.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage gives a variant count of survivors; the available 'survivor_pair'
+    taxonomy is not assigned because the main text names one survivor and the context
+    is a battle defeat rather than a general world-renewal survival pair.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4577-4584
+  quote_or_summary: At Caroni's banks the force gains additions from Barahma, Waiini,
+    Amacuru, and Bowruma.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4585-4589
+  quote_or_summary: The assembled men come to fight the Cabré race, wash out disgrace
+    in Cabré blood, and avenge their dead.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4590-4591
+  quote_or_summary: Desultory fighting enrages both sides, and both engage in earnest.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4592-4595
+  quote_or_summary: The Cabrés unite their clans under one leader for the fight and
+    deal a deadly blow.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4596-4599
+  quote_or_summary: The Caribs, who had believed themselves invincible, suffer a total
+    overthrow.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4600-4604
+  quote_or_summary: Most Caribs are slain in battle, many are drowned, and few remain
+    to tell how the fight went.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4605-4609
+  quote_or_summary: One remembered figure is spared so that he may tell of the succeeding
+    night.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: lines 4611-4613
+  quote_or_summary: A note attributes the account to Humboldt and reports that some
+    Caribs say two men were spared.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The event sequence and participants are explicit in the passage. Motif labels
+    are descriptive because the supplied taxonomy does not directly cover warfare,
+    vengeance, or battle-survivor witness patterns. No comparison claims are made
+    because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical or comparative claims beyond the provided passage and note have been added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l4573-l4613
+  passage_sha256=c7f03105b164df0ac531025fc70d5105a46f08e130e61c24888785ba40367a8b
+

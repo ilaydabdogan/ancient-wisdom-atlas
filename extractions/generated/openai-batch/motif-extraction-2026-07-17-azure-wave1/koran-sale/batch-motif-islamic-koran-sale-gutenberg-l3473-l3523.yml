@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3473-l3523
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3473-3523
+  start: '3473'
+  end: '3523'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents Sale''s polemical explanation of piecemeal revelations
+    and then reports Muslim orthodox belief that the Koran is divine, eternal, and
+    uncreated: its first transcript is on a preserved tablet by God''s throne; a copy
+    was sent by Gabriel to the lowest heaven on the Night of Power; Gabriel then revealed
+    it to Mohammed in parcels over twenty-three years, with scribes writing portions
+    into chapters under angelic direction. A footnote notes a Jewish parallel that
+    the Law was given to Moses by parcels.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Mohammed had recourse to new revelation in difficult cases
+    and that parcelled publication allowed answers to emergencies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the whole Koran was brought to the lowest heaven rather than
+    directly to earth, and then received in parcels for instruction and conversion.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage reports that objections about the eternity of the Koran are answered
+    through absolute predestination, with the occasions for revealed passages predetermined
+    by God from eternity.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage reports that Mohammedans deny that the Koran was composed by Mohammed
+    or by another person for him, and hold it to be divine, eternal, and uncreated.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The first transcript is described as everlasting by God's throne, written
+    on a vast preserved table that also records divine decrees past and future.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A copy from the preserved table, in one volume on paper, is said to have been
+    sent by the angel Gabriel to the lowest heaven in Ramadan on the Night of Power.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: From the lowest heaven, Gabriel is said to have revealed the Koran to Mohammed
+    in parcels at Mecca and Medina over twenty-three years as circumstances required.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says Mohammed was shown the whole Koran once a year, and twice
+    in the last year of his life.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The whole Koran shown to Mohammed is described as bound in silk and adorned
+    with gold and precious stones of paradise.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says few chapters were delivered entire; most were revealed piecemeal
+    and written by amanuenses into directed chapter positions according to the angel.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A footnote states that Jews also say the Law was given to Moses by parcels.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: The prophet to whom Gabriel is said to reveal the Koran by parcels;
+    the narrator also asserts that he was the human author and contriver.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: GOD
+  description: The divine source associated with predestination, publication of revelation
+    as proper, and the preserved tablet by the throne.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Angel Gabriel
+  description: The angel who sends the copy to the lowest heaven, reveals it to Mohammed
+    in parcels, shows the whole book, and directs placement of written portions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Mohammedans
+  description: The believing community described as denying human composition of the
+    Koran and holding the doctrine of its divine, eternal, uncreated origin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Prophet's amanuenses
+  description: Scribes who write down piecemeal revelations into chapter locations
+    under angelic direction.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Moses
+  description: The recipient named in the footnote's Jewish parallel, where the Law
+    is said to have been given by parcels.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine source and predeterminer
+  assigned_to:
+  - fig:2
+  basis: The passage links God with the timing of publication, predestination of occasions,
+    and the tablet near the divine throne.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipient of parcelled revelation
+  assigned_to:
+  - fig:1
+  basis: Gabriel is said to reveal the Koran to Mohammed by parcels at different times
+    and places.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: angelic transmitter and arranger
+  assigned_to:
+  - fig:3
+  basis: Gabriel sends the copy to the lowest heaven, reveals it in parcels, shows
+    the whole book, and gives directions for written placement.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: scriptural scribes
+  assigned_to:
+  - fig:5
+  basis: The amanuenses write down revelations into parts of chapters according to
+    the angel's directions.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: believing interpreters of orthodox doctrine
+  assigned_to:
+  - fig:4
+  basis: The passage attributes the denial of human composition and the belief in
+    divine, eternal, uncreated origin to Mohammedans.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient in noted Jewish parallel
+  assigned_to:
+  - fig:6
+  basis: The footnote states that the Law was given to Moses by parcels.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: asserted human contriver in narrator's polemic
+  assigned_to:
+  - fig:1
+  basis: The narrator states that Mohammed was the author and chief contriver of the
+    Koran, while also reporting Muslim denial of this claim.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Koran as eternal divine scripture
+  literal_form: The Koran described as divine, eternal, uncreated, copied from a heavenly
+    tablet, and revealed in parcels.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: preserved table
+  literal_form: A vast tablet by God's throne holding the first transcript and divine
+    decrees past and future.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: God's throne
+  literal_form: The heavenly location beside which the first transcript is said to
+    have existed from everlasting.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lowest heaven
+  literal_form: The heaven to which the copy of the Koran was sent before its revelation
+    to Mohammed.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:5
+  label: Ramadan and Night of Power
+  literal_form: The time when the copy is said to have been sent down to the lowest
+    heaven.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: adorned heavenly volume
+  literal_form: The whole Koran shown to Mohammed, described as bound in silk and
+    adorned with gold and precious stones of paradise.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: divine decrees past and future
+  literal_form: The decrees recorded in the preserved table along with the first transcript.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Polemical account of occasional revelation
+  summary: The narrator says new revelations served to answer objections and emergencies,
+    and that predestination was used to explain the occasions of revelation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Heavenly preservation of the first transcript
+  summary: The reported orthodox doctrine places the first transcript of the Koran
+    from everlasting by God's throne on the preserved table, which also contains divine
+    decrees.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Descent to the lowest heaven and parcelled revelation
+  summary: Gabriel sends a copy from the preserved table to the lowest heaven on the
+    Night of Power, then reveals it to Mohammed in parcels at Mecca and Medina over
+    twenty-three years.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Showing of the whole adorned book
+  summary: Gabriel is said to show Mohammed the whole Koran periodically; the book
+    is described as silk-bound and ornamented with gold and stones of paradise.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Writing and arrangement of revealed portions
+  summary: Most chapters are said to be revealed piecemeal and written by the prophet's
+    amanuenses into specified chapter positions according to Gabriel's directions.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: heavenly archetype of divine scripture
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is reported as divine, eternal, and uncreated, with its first transcript
+    on a preserved heavenly table by God's throne.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no specific heavenly-book or preserved-table
+    category; the wisdom mapping is broad and should be reviewed.
+- id: motif:2
+  label: angelic mediation of revelation
+  taxonomy_refs: []
+  basis: Gabriel sends the copy to the lowest heaven, reveals it to Mohammed by parcels,
+    shows the whole book, and directs written placement.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports this as Muslim doctrine within Sale's discourse.
+- id: motif:3
+  label: piecemeal or occasional revelation
+  taxonomy_refs: []
+  basis: The Koran is described as revealed in parcels over twenty-three years, with
+    most chapters delivered piecemeal as affairs required.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage combines doctrinal report with the narrator's polemical explanation.
+- id: motif:4
+  label: predestined occasions for revealed passages
+  taxonomy_refs: []
+  basis: The passage states that the occasions for occasional passages were predetermined
+    by God from eternity under absolute predestination.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is reported as an answer to objections about the Koran's eternity
+    rather than as an independent narrative episode.
+- id: motif:5
+  label: adorned heavenly book displayed to prophet
+  taxonomy_refs: []
+  basis: The whole Koran is said to have been shown to Mohammed annually, and twice
+    in his final year, as a silk-bound volume adorned with gold and precious stones
+    of paradise.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is limited to the reported display of the whole volume.
+- id: motif:6
+  label: scriptural arrangement by angelic instruction
+  taxonomy_refs: []
+  basis: Piecemeal revelations are written by amanuenses into particular chapter positions
+    according to Gabriel's directions.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This concerns textual arrangement rather than a broader narrative scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly notes a parallel between the Koran's parcelled revelation
+    and a Jewish claim that the Law was given to Moses by parcels.
+  claim_level: same_motif
+  target: 'Jewish tradition: the Law given to Moses by parcels'
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides only a brief footnote assertion and does not quote
+    or analyze the Jewish source; it does not establish historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3473-3486
+  quote_or_summary: Narrator says new revelation answered difficult cases; the Koran
+    was brought to the lowest heaven rather than earth and revealed in parcels as
+    God saw fit; predestination explains the occasions for such passages.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 3487-3498
+  quote_or_summary: Narrator asserts Mohammed was author and chief contriver of the
+    Koran, possibly with assistance, while noting objections and disputes over alleged
+    helpers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 3499-3507
+  quote_or_summary: Mohammedans are said to deny human composition and to believe
+    the Koran divine, eternal, and uncreated; its first transcript is everlasting
+    by God's throne on a preserved table also recording divine decrees.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 3507-3514
+  quote_or_summary: A copy from the preserved table, in one paper volume, is said
+    to have been sent by Gabriel to the lowest heaven in Ramadan on the Night of Power,
+    then revealed to Mohammed in parcels at Mecca and Medina over twenty-three years.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 3514-3519
+  quote_or_summary: Gabriel is said to have shown Mohammed the whole Koran once a
+    year and twice in his last year; the whole is described as bound in silk and adorned
+    with gold and precious stones of paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: 3519-3523
+  quote_or_summary: Few chapters were delivered entire; most were revealed piecemeal
+    and written down by the prophet's amanuenses in directed chapter positions according
+    to the angel. A note adds that Jews also say the Law was given to Moses by parcels.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the reported doctrinal sequence. Motif labeling
+    is more tentative because the passage is a polemical preliminary discourse rather
+    than a mythic narrative, and the available taxonomy lacks exact categories for
+    heavenly book/tablet motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Polemical narrator claims are kept distinct from the reported orthodox Muslim doctrine where possible.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3473-l3523
+  passage_sha256=45661af72fa312ef84d786d6cb7a9f40a1abbe689ef51b578de4156a7cc10ee3
+

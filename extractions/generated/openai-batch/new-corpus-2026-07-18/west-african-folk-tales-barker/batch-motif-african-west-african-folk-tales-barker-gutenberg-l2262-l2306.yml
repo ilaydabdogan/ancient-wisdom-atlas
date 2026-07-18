@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l2262-l2306
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XXIII. KWOFI AND THE GODS / XXIV. THE LION AND THE WOLF / XXV. MAKU MAWU
+    AND MAKU FIA / XXVI. THE ROBBER AND THE OLD MAN; lines 2262-2306
+  start: '2262'
+  end: '2306'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first concludes an episode in which Maku Mawu finds a ring,
+    the people rejoice that the death appointed for him is the only death he will
+    die, and the king lets him go. It then tells of a rich gentleman robbed of two
+    bags of money by a thief. The owner suspects the thief but cannot prove the theft.
+    The thief seeks help from a wise old man, who advises him to feign madness by
+    dressing in rags and answering every question with “Moo” in return for half the
+    stolen money. The thief follows the advice, the court is dismissed, and he later
+    uses the same answer to avoid paying the old man, who regrets saving him from
+    punishment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man identified by the people as Maku Mawu runs to the palace announcing
+    that he has found the ring.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people shout with joy and say that the death God has chosen the death
+    by which Maku Mawu will die.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king has no excuse to harm Maku Mawu, and Maku Mawu goes free.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A clever thief hides in a dark corner of a rich gentleman’s room while the
+    gentleman counts bags of money.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the rich gentleman leaves the room, the thief takes two bags of money
+    and escapes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The rich gentleman later meets the robber outside the house, suspects him
+    because he looks confused, but cannot prove the theft and brings the case before
+    a judge.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The thief asks a wise man for advice, and the wise man agrees to help if he
+    is promised half the money when the thief gets off.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wise man tells the thief to dress in rags, ruffle his hair and beard,
+    behave as if mad, and answer every question with “Moo.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In court, the thief answers the judge’s questions only with “Moo,” and the
+    judge becomes angry and dismisses the court.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When the wise man asks for his promised half of the stolen money, the thief
+    again answers only “Moo,” keeps everything, and the wise man goes home without
+    payment.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The wise man regrets having saved the thief from punishment.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maku Mawu
+  description: The person who announces finding the ring and is released because the
+    king has no excuse to harm him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King
+  description: The ruler who cannot harm Maku Mawu after the ring is found.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: People at the palace
+  description: The people who hear the announcement, rejoice, and interpret Maku Mawu’s
+    name and death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: death God
+  description: A deity referred to in the people’s speech as having chosen the death
+    appointed for Maku Mawu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: rich gentleman
+  description: A wealthy man whose fame attracts a thief and from whose room two bags
+    of money are stolen.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: clever thief / robber
+  description: A dishonest man who steals two bags of money, feigns madness in court,
+    and later refuses to pay the wise man who advised him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: judge
+  description: The legal authority before whom the case is brought and who dismisses
+    the court after the thief’s repeated “Moo” answers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:8
+  name_or_label: wise man / old man
+  description: The adviser who tells the thief how to avoid conviction, expects half
+    the stolen money, and is later cheated.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: ring-finder released from harm
+  assigned_to:
+  - fig:1
+  basis: Maku Mawu announces that he has found the ring and then goes free because
+    the king cannot harm him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal authority unable to punish
+  assigned_to:
+  - fig:2
+  basis: The king has no excuse to harm Maku Mawu after the ring is found.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: public witnesses and interpreters
+  assigned_to:
+  - fig:3
+  basis: The people rejoice and state the meaning of Maku Mawu’s name and appointed
+    death.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deity associated with appointed death
+  assigned_to:
+  - fig:4
+  basis: The people say that the death God has chosen the death by which Maku Mawu
+    will die.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: wealthy victim of theft
+  assigned_to:
+  - fig:5
+  basis: The rich gentleman’s money is stolen, and he brings the suspected thief before
+    the judge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: thief and deceiver
+  assigned_to:
+  - fig:6
+  basis: The robber steals the money, feigns madness to avoid judgment, and uses the
+    same deception to keep the wise man’s promised share.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:7
+  label: court judge
+  assigned_to:
+  - fig:7
+  basis: The judge questions the thief and dismisses the court after receiving only
+    “Moo” answers.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: adviser cheated by his own plan
+  assigned_to:
+  - fig:8
+  basis: The wise old man advises the thief in return for half the money, but the
+    thief later refuses to answer him except with “Moo.”
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: ring
+  literal_form: the found ring
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bags of money
+  literal_form: two stolen bags of money
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rags and disheveled hair
+  literal_form: rags, ruffled hair, and ruffled beard used to imitate madness
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Maku Mawu finds the ring and goes free
+  summary: Maku Mawu runs to the palace announcing that he has found the ring; the
+    people rejoice and say the death God has chosen his death; the king cannot harm
+    him and lets him go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Theft from the rich gentleman
+  summary: A clever thief hides in the rich gentleman’s room while money is being
+    counted and steals two bags when the owner leaves.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Suspicion and legal accusation
+  summary: The owner finds two bags missing, later meets the robber, suspects him
+    without proof, and takes the case before the judge.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Advice to feign madness
+  summary: The thief seeks help; the wise man agrees in exchange for half the money
+    and instructs him to dress in rags, dishevel himself, behave madly, and answer
+    “Moo.”
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Court dismissed after repeated “Moo” answers
+  summary: The thief answers every question from the judge with “Moo,” causing the
+    judge to dismiss the court.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: The adviser is cheated
+  summary: The wise man comes for his promised half, but the robber answers only “Moo,”
+    keeps all the money, and the wise man regrets saving him from punishment.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: appointed death named by a death deity
+  taxonomy_refs: []
+  basis: The people say that the death God has chosen the death by which Maku Mawu
+    will die, and the king cannot harm him after the ring is found.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is represented only in the concluding lines of a preceding
+    tale; the larger setup is outside the supplied passage.
+- id: motif:2
+  label: false madness used to evade judgment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The thief disguises himself as mad, answers the judge only with “Moo,” and
+    the court is dismissed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents an ordinary thief rather than an explicitly named
+    mythic trickster.
+- id: motif:3
+  label: counsel turned against the counselor
+  taxonomy_refs:
+  - wisdom
+  basis: The wise man’s advice saves the thief, but the thief repeats the same “Moo”
+    tactic to avoid paying him, leaving the adviser unpaid and regretful.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: 'The wisdom motif is ironic: the adviser is called wise, but his counsel
+    aids wrongdoing and rebounds against him.'
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2262-2266
+  quote_or_summary: Maku Mawu announces finding the ring; the people rejoice that
+    the death God has chosen his death; the king has no excuse to harm him and he
+    goes free.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 2269-2278
+  quote_or_summary: A rich gentleman’s wealth becomes known; a clever thief hides
+    in his room while he counts money, then steals two bags when the owner leaves.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 2280-2287
+  quote_or_summary: The owner discovers two bags missing, later meets the confused-looking
+    robber, suspects him without proof, and takes the case before the judge.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 2289-2295
+  quote_or_summary: The thief asks a wise man for advice; the man agrees for half
+    the money and tells him to dress in rags, ruffle his hair and beard, act mad,
+    and answer questions with “Moo.”
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: lines 2297-2300
+  quote_or_summary: "“To every question asked by the judge he said, ‘Moo, moo.’ The
+    judge at last grew angry and dismissed the court.”"
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 2302-2306
+  quote_or_summary: The wise man asks for half the stolen money, but the thief answers
+    only “Moo,” keeps everything, and the wise man regrets saving him from punishment.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level only, especially for the brief Maku Mawu conclusion and the
+    taxonomy mapping of trickery to trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative link to another text or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l2262-l2306
+  passage_sha256=2c0ffd7d4aee73e5f91cf75312a156dfede15540bce002aadbe659c67735fa9a
+

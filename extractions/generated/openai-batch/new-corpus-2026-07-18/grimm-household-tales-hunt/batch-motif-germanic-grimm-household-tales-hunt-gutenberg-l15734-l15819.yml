@@ -1,0 +1,609 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l15734-l15819
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 15734-15819
+  start: '15734'
+  end: '15819'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A locksmith’s apprentice leaves home, learns hunting from a green-clad
+    huntsman, receives an unfailing air-gun, encounters giants in a forest, agrees
+    to help them reach an imprisoned princess, kills an alarm dog, enters the sleeping
+    castle, takes a magical sword and identifying tokens, and then addresses the waiting
+    giants at the gate.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young fellow trained as a locksmith tells his father he will go into the
+    world to seek his fortune.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The father consents to the journey and gives the young fellow money.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The young fellow ceases to like locksmith work, meets a huntsman dressed in
+    green, binds himself to him for some years, and learns hunting.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The huntsman gives him an air-gun as payment, and the gun is described as
+    hitting its mark without fail.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In a large forest at evening, the young huntsman climbs a high tree, sees
+    a distant little light, marks the direction with his hat, and follows it after
+    descending.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The light proves to be an enormous fire where three giants sit roasting an
+    ox on a spit.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The huntsman repeatedly shoots pieces of meat from a giant’s hand or mouth;
+    the giants infer that a sharpshooter is nearby and call him to the fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The giants say that beyond the forest there is a great lake, behind it a tower,
+    and in the tower an imprisoned lovely princess whom they want to carry off.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The giants say a tiny dog begins barking when anyone approaches and thereby
+    wakes everyone in the royal palace.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The huntsman crosses the lake by boat, shoots the little dog dead before it
+    can bark, and tells the giants to wait outside while he sees how matters stand.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Inside the quiet sleeping castle, the huntsman finds a pure silver sword with
+    a golden star and the King’s name, reads a sealed letter saying the sword can
+    kill everything opposing its holder, and takes the sword.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The huntsman sees the sleeping King’s daughter and thinks he cannot give an
+    innocent maiden into the power of the wild giants.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: He finds slippers and a silk neck-kerchief marked with the names of the princess’s
+    father and the princess, with stars or golden letters.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: He cuts and takes the right corner of the kerchief, the right slipper bearing
+    the King’s name, and a morsel of the princess’s night-dress, doing so without
+    touching her and leaving her asleep.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: At the gate he tells the waiting giants to come in through a hole, saying
+    the maiden is already in their power.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: young fellow / locksmith’s apprentice / huntsman
+  description: A young man who leaves his father, learns hunting, receives an unfailing
+    air-gun, encounters giants, crosses to the castle, and enters the princess’s room.
+  role_refs:
+  - role:1
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: father of the young fellow
+  description: The father who approves the journey and gives money for it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: huntsman dressed in green
+  description: A green-clad huntsman who teaches the young fellow the art of hunting
+    and gives him the air-gun.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: three giants
+  description: Three giants seated by an enormous fire roasting an ox; they seek to
+    carry off the imprisoned princess.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:5
+  name_or_label: lovely princess / King’s daughter
+  description: A lovely princess said to be imprisoned in a tower and later found
+    sleeping in the castle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: tiny little dog
+  description: A small dog that barks when anyone approaches and wakes the royal palace;
+    the huntsman shoots it dead.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: the King / princess’s father
+  description: The King is not physically present but is named on the sword and on
+    objects associated with the princess.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: fortune-seeking apprentice
+  assigned_to:
+  - fig:1
+  basis: He leaves home to seek his fortune and later binds himself for years to learn
+    hunting.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supportive father
+  assigned_to:
+  - fig:2
+  basis: He consents to the journey and gives money.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: skilled marksman
+  assigned_to:
+  - fig:1
+  basis: He possesses a gun that never misses and demonstrates his skill by shooting
+    meat from the giant’s hand or mouth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: hunting teacher
+  assigned_to:
+  - fig:3
+  basis: He accepts the youth as a companion, teaches him hunting, and pays him with
+    the air-gun.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: would-be abductors
+  assigned_to:
+  - fig:4
+  basis: They state that they want to carry off the imprisoned princess.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: imprisoned sleeping princess
+  assigned_to:
+  - fig:5
+  basis: She is described as imprisoned in a tower and is later found asleep in the
+    castle room.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:7
+  label: alarm animal
+  assigned_to:
+  - fig:6
+  basis: Its barking wakes the royal palace when anyone approaches.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: protective infiltrator of the castle
+  assigned_to:
+  - fig:1
+  basis: He enters before the giants, decides not to give the innocent maiden to them,
+    leaves her undisturbed, and then addresses the giants at the gate.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:9
+  label: royal father named on objects
+  assigned_to:
+  - fig:7
+  basis: The King’s name appears on the sword, the right slipper, and the right side
+    of the kerchief.
+  evidence_refs:
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: unfailing air-gun
+  literal_form: An air-gun that hits its mark without fail whenever fired.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: tree refuge and lookout
+  literal_form: A high tree in the large forest, climbed for safety from wild beasts
+    and used to view the distant light.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: enormous fire
+  literal_form: A distant light that becomes an enormous fire beside which the giants
+    roast an ox.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: great lake crossing
+  literal_form: A great lake outside the forest, crossed by boat to reach the place
+    of the tower and royal palace.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: tower and sleeping castle
+  literal_form: A tower behind the lake where the princess is imprisoned, with a castle
+    interior where everyone is asleep.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:6
+  label: alarm dog
+  literal_form: A tiny dog whose barking wakes the palace when anyone approaches.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: inscribed silver sword
+  literal_form: A pure silver sword bearing a golden star and the King’s name, accompanied
+    by a letter saying its holder can kill all opposition.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: recognition tokens with names and stars
+  literal_form: A right slipper with the King’s name, a cut corner of the silk kerchief,
+    and a morsel of night-dress taken from the sleeping princess; the slippers and
+    kerchief bear royal names and stars or golden letters.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Departure and hunting apprenticeship
+  summary: The youth leaves his father to seek fortune, abandons locksmithing, and
+    learns hunting from the green-clad huntsman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Forest fire and the giants
+  summary: In the forest the huntsman follows a light to a giant fire, where he uses
+    the air-gun to shoot meat from a giant and is summoned to join the giants.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The giants describe the princess and the alarm dog
+  summary: The giants tell the huntsman about the lake, tower, imprisoned princess,
+    and dog that prevents their approach by waking the palace.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Lake crossing and silencing the dog
+  summary: The huntsman crosses the lake by boat, shoots the alarm dog, and tells
+    the giants to wait outside while he enters.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Sleeping castle, sword, and princess
+  summary: Inside the sleeping castle, the huntsman finds and takes the inscribed
+    silver sword, then sees the sleeping King’s daughter and thinks against handing
+    her to the giants.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Taking tokens and addressing the giants
+  summary: The huntsman takes named tokens from near or on the sleeping princess without
+    touching her, leaves her undisturbed, and tells the giants at the gate to enter
+    through a hole.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Youth leaves home to seek fortune
+  taxonomy_refs:
+  - departure
+  basis: The passage begins with the young fellow leaving his father to go into the
+    world and seek his fortune.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The departure is practical and occupational rather than explicitly sacred.
+- id: motif:2
+  label: Apprenticeship confers an extraordinary weapon
+  taxonomy_refs:
+  - initiation
+  basis: After years learning hunting, the youth receives an air-gun that never misses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes professional training, not an explicit ritual initiation.
+- id: motif:3
+  label: Uncanny marksmanship revealed by impossible shots
+  taxonomy_refs: []
+  basis: The huntsman repeatedly shoots pieces of meat from a giant’s hand or mouth,
+    causing the giants to identify him as a useful sharpshooter.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No external motif index is supplied for this specific pattern.
+- id: motif:4
+  label: Threatened abduction of an imprisoned princess
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The giants wish to carry off a lovely princess imprisoned in a tower.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The princess is not presented as the huntsman’s beloved in this passage,
+    so the taxonomy reference is only approximate.
+- id: motif:5
+  label: Crossing water to a guarded tower prison
+  taxonomy_refs: []
+  basis: The princess is beyond a great lake in a tower, and access is protected by
+    an alarm dog that wakes the palace.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader journey motif is explicitly stated in the passage.
+- id: motif:6
+  label: Inscribed weapon grants victory over opponents
+  taxonomy_refs: []
+  basis: A sealed letter states that whoever has the silver sword can kill everything
+    that opposes him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not yet show the sword being used.
+- id: motif:7
+  label: Recognition tokens taken from a sleeping royal woman
+  taxonomy_refs: []
+  basis: The huntsman takes the named slipper, a kerchief corner, and a night-dress
+    fragment while leaving the princess asleep and untouched.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The later use of these tokens is outside the provided passage.
+- id: motif:8
+  label: Deception of giant adversaries at a boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: At the gate, the huntsman tells the waiting giants the maiden is already
+    in their power and directs them to enter through a hole.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The line range ends mid-sequence, so the result of the deception is not
+    provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15734-15746
+  quote_or_summary: The young locksmith’s apprentice leaves home with his father’s
+    consent, abandons locksmithing, meets a huntsman dressed in green, and learns
+    hunting from him for years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 15747-15759
+  quote_or_summary: The teacher gives the youth an air-gun that never misses; the
+    youth enters a large forest, climbs a high tree, sees a distant light, marks the
+    direction with his hat, and approaches it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 15759-15777
+  quote_or_summary: The light becomes an enormous fire where three giants roast an
+    ox; the huntsman shoots meat from a giant’s hand or mouth until the giants call
+    the sharpshooter to join them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 15778-15787
+  quote_or_summary: The giants tell the huntsman of a great lake, a tower behind it,
+    an imprisoned lovely princess they want to carry off, and a tiny dog whose barking
+    wakes the royal palace.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 15787-15794
+  quote_or_summary: The huntsman rows over the lake, shoots the little dog dead, and
+    tells the rejoicing giants to remain outside until he calls; inside the castle
+    all is quiet and asleep.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 15795-15799
+  quote_or_summary: In the first room he finds a pure silver sword with a golden star
+    and the King’s name; a sealed letter says the sword’s holder can kill whatever
+    opposes him, and he takes it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 15800-15804
+  quote_or_summary: He enters the room where the King’s daughter lies sleeping, admires
+    her beauty, and thinks he cannot give an innocent maiden to wild giants with evil
+    minds.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 15805-15814
+  quote_or_summary: He finds named slippers and a gold-embroidered silk neck-kerchief,
+    then takes the right kerchief corner, the right slipper with the King’s name,
+    and a night-dress morsel without touching the sleeping maiden.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: lines 15815-15819
+  quote_or_summary: Returning to the gate, he finds the giants waiting and tells them
+    to come in because the maiden is already in their power, directing them to creep
+    through a hole.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied line range. Motif labels
+    are candidate-level and require human review, especially where taxonomy references
+    are approximate or the passage ends mid-action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another corpus or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l15734-l15819
+  passage_sha256=4bfb71b8d5c52dad7ae27cbd38dede3cf914cbfecc6bf0e3be7687f460aca0ea
+

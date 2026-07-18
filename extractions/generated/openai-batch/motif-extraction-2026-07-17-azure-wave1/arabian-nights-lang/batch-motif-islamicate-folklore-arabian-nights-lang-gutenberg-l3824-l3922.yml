@@ -1,0 +1,565 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l3824-l3922
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 3824-3922
+  start: '3824'
+  end: '3922'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sindbad and companions flee giants by raft, lose other raft crews to rock-throwing
+    giants, land on another island, and encounter an immense snake that devours both
+    companions. Sindbad survives by building a thorny shelter under a tree, is rescued
+    by a passing ship, receives food and clothing, and later discovers that the ship's
+    captain has merchandise registered in the name of Sindbad, whom the captain believes
+    dead from an earlier voyage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the hostile giant leaves the castle howling, the narrator and companions
+    leave the castle and station themselves beside their rafts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At morning, the enemy approaches supported by two nearly equally large giants,
+    with more giants following.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The travelers row out to sea on rafts while the giants wade into the water
+    and hurl rocks, swamping every raft except the narrator's and drowning their crews.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The narrator and two companions are driven by winds and waves until they reach
+    another island the next morning.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the island, an immense snake seizes one comrade, crushes him in its coils,
+    and swallows him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator and remaining companion climb a tall tree; at night the snake
+    rises against the tree and swallows the sleeping companion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator gathers dry brushwood, reeds, and thorns, binds them with faggots,
+    and makes a circular shelter under the tree.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The snake returns at night, circles the shelter seeking an entrance, fails
+    to get in, and withdraws at daylight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator goes to the sea, sees a passing ship, and attracts attention
+    by shouting and waving his turban.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A boat rescues the narrator; aboard ship, sailors and merchants ask about
+    him, feed him, and the captain gives him a coat.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: At the island of Salahat, where sandal wood is abundant, the captain asks
+    the narrator to trade merchandise belonging to a passenger believed dead so the
+    proceeds can go to the passenger's heirs.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The merchandise is to be registered in the name of Sindbad the Sailor, and
+    the narrator recognizes the captain as the captain from his second voyage.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The captain explains that Sindbad had been left behind on a desert island
+    during a stop to fill water-casks and that the ship could not return after the
+    wind freshened.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Sindbad the Sailor / narrator
+  description: First-person narrator who survives the giants, the serpent island,
+    and rescue by ship; his name is later attached to merchandise aboard the ship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: pursuing giants
+  description: The hostile giant returns with two large supporters and a crowd of
+    other giants; they pursue the raft escape and throw rocks into the water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sindbad's two companions
+  description: Two companions survive on the narrator's raft to the next island but
+    are each swallowed by the immense snake.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: immense snake
+  description: A large snake on the island crushes and swallows Sindbad's companions
+    and later tries to reach Sindbad in his shelter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: ship's captain
+  description: Captain of the rescuing ship; gives Sindbad a coat, asks him to trade
+    goods of a passenger believed dead, and is later recognized as the captain from
+    Sindbad's second voyage.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: sailors and merchants
+  description: People aboard the ship who rescue Sindbad, gather around him, question
+    him, and give him food.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: ship's list keeper
+  description: The person responsible for keeping the list of goods on the ship and
+    asking in what name the merchandise should be registered.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: castaway survivor
+  assigned_to:
+  - fig:1
+  basis: The narrator survives the loss of the rafts, the serpent's attacks, and signals
+    a ship for rescue.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: monstrous pursuers
+  assigned_to:
+  - fig:2
+  basis: The giants pursue the escaping travelers and hurl rocks that destroy the
+    other rafts.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: companions and victims
+  assigned_to:
+  - fig:3
+  basis: The two companions accompany Sindbad to the island and are swallowed by the
+    snake.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: devouring serpent monster
+  assigned_to:
+  - fig:4
+  basis: The snake crushes and swallows two men and tries to reach the narrator at
+    night.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: rescuers and hosts
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The ship sends a boat to rescue Sindbad, and those aboard feed him; the captain
+    clothes him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: steward of presumed-dead passenger's goods
+  assigned_to:
+  - fig:5
+  basis: The captain keeps merchandise for a passenger believed dead and intends proceeds
+    for that passenger's heirs.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: registrar of goods
+  assigned_to:
+  - fig:7
+  basis: The list keeper records the name under which the merchandise is registered.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: sea and waves
+  literal_form: sea, winds, and waves
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: frail rafts
+  literal_form: rafts used to flee from the giants
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hurled rocks
+  literal_form: huge pieces of rock thrown by giants
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: island refuge and danger
+  literal_form: island where Sindbad and companions land after drifting
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: fruit provisions
+  literal_form: delicious fruits and fruit from surrounding bushes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: serpent
+  literal_form: immense snake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: tree refuge
+  literal_form: tall tree climbed for safety
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:8
+  label: thorn and brushwood shelter
+  literal_form: circle of dry brushwood, reeds, thorns, and faggots under the tree
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: turban signal
+  literal_form: turban waved to attract the ship's crew
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: preserved merchandise
+  literal_form: bales of merchandise registered in the name of Sindbad the Sailor
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Escape from the pursuing giants
+  summary: Sindbad and companions flee the fatal castle on rafts; giants pursue and
+    throw rocks, destroying all rafts except Sindbad's.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Snake attacks on the island
+  summary: After landing on another island and eating fruit, the survivors encounter
+    an immense snake that devours one companion, then later reaches the tree and devours
+    the other.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Night inside the thorn shelter
+  summary: Sindbad builds a faggot shelter beneath the tree, remains inside while
+    the snake searches for an entrance, and survives until daylight.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rescue by passing ship
+  summary: Sindbad reaches the sea, signals a passing ship with cries and his turban,
+    is taken aboard by boat, fed, questioned, and clothed.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Merchandise registered under Sindbad's name
+  summary: At Salahat, the captain asks Sindbad to trade goods belonging to a passenger
+    believed dead; the goods are registered under Sindbad's name, and Sindbad recognizes
+    the captain from an earlier voyage.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: escape by raft from rock-throwing giants
+  taxonomy_refs: []
+  basis: The travelers flee by raft while giants wade into the sea and hurl rocks
+    that destroy the other rafts.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage describes the pursuit but does not provide broader comparative
+    framing.
+- id: motif:2
+  label: devouring serpent on a remote island
+  taxonomy_refs:
+  - serpent
+  basis: An immense snake crushes, coils around, and swallows two companions on the
+    island.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the literal serpent encounter is supported; no further symbolic meaning
+    is stated.
+- id: motif:3
+  label: tree refuge from a monster
+  taxonomy_refs: []
+  basis: Sindbad and a companion climb a tall tree to escape the snake, though the
+    snake later reaches the lower companion.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The tree functions as a practical refuge in the passage; no sacred-tree
+    function is indicated.
+- id: motif:4
+  label: improvised protective enclosure against a nocturnal monster
+  taxonomy_refs: []
+  basis: Sindbad constructs a circular shelter of brushwood, reeds, thorns, and faggots
+    that keeps the snake from reaching him through the night.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The shelter is described as practical and fragile, not ritual or magical.
+- id: motif:5
+  label: castaway rescued by passing ship after signaling
+  taxonomy_refs: []
+  basis: Sindbad sees a ship, shouts, waves his turban, and is rescued by a boat from
+    the ship.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not complete a return home in this line range.
+- id: motif:6
+  label: preserved goods reveal the identity of a presumed-dead traveler
+  taxonomy_refs: []
+  basis: The captain's merchandise is registered in the name of Sindbad, whom the
+    captain believes to have perished, leading to recognition between Sindbad and
+    the captain.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The full resolution of the recognition scene lies beyond the passage end.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3824-3835
+  quote_or_summary: After the giant flees howling, the travelers leave the castle
+    and wait by rafts; at dawn the enemy returns with other giants, who throw rocks
+    at the escaping rafts and swamp all except the narrator's.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 3835-3838
+  quote_or_summary: The narrator and two companions drift at the mercy of winds and
+    waves and land the next morning on an island.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 3839-3849
+  quote_or_summary: On the island the men find fruit; an immense snake seizes, crushes,
+    and swallows one companion, and later rises against the tree and swallows the
+    sleeping companion below the narrator.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 3851-3863
+  quote_or_summary: Sindbad gathers brushwood, reeds, and thorns, builds a circular
+    faggot shelter under the tree, and survives while the snake circles it seeking
+    an entrance before retreating at daylight.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 3863-3867
+  quote_or_summary: Sindbad goes to the sea, sees a ship, shouts, waves his turban,
+    and a boat is sent to rescue him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 3868-3873
+  quote_or_summary: Aboard ship, sailors and merchants question Sindbad, provide him
+    with food, and the captain gives him one of his coats.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 3873-3880
+  quote_or_summary: At Salahat, where sandal wood grows, the captain asks Sindbad
+    to trade merchandise belonging to a dead passenger so the proceeds may later go
+    to the passenger's heirs.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: 3881-3895
+  quote_or_summary: The captain has the merchandise registered in the name of Sindbad
+    the Sailor; the narrator is surprised and recognizes the captain from his second
+    voyage, while the captain had believed him dead.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: 3896-3922
+  quote_or_summary: The captain recounts that Sindbad, from Bagdad and embarked at
+    Balsora, was left on a desert island after a water-cask stop; the wind prevented
+    return, and the captain supposes him to have perished.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal event extraction is straightforward. Motif labels are candidate descriptions
+    based only on this passage; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these events to another text, tradition, or motif family beyond directly containing serpent, tree, and water imagery.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l3824-l3922
+  passage_sha256=7a22aa821f4a1e07e9519be1d6d0c1e808076fa93fd8179aac08ba350bb81810
+

@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l832-l861
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: OM!  PEACE!  PEACE!  PEACE! / XVIII / OM! PEACE! PEACE! PEACE! / Part First;
+    lines 832-861
+  start: '832'
+  end: '861'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Yama teaches Nachiketas a fire-sacrifice associated with reaching heaven
+    and endless worlds. Nachiketas repeats the teaching correctly, and Yama grants
+    that the fire-sacrifice will be named after him and gives him a many-coloured
+    garland. The passage then states that one who performs the Nachiketa fire-sacrifice
+    three times, joined with mother, father, and teacher, and fulfilling three duties,
+    crosses birth and death and attains eternal peace.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yama says he knows a fire that leads to the realm of heaven and tells Nachiketas
+    to listen while he explains it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fire is described as a means of attaining endless worlds and as hidden
+    in the heart of all beings.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yama teaches Nachiketas the fire-sacrifice, including the bricks, their number,
+    and their arrangement for the altar.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nachiketas repeats the teaching as it was told to him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Death is pleased with Nachiketas after the repetition of the teaching.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: 'Yama grants an additional boon: the fire-sacrifice will be named after Nachiketas.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yama gives Nachiketas a garland of many colours.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A person who performs the Nachiketa fire-sacrifice three times, is united
+    with mother, father, and teacher, and fulfills study of the Vedas, sacrifice,
+    and alms-giving is said to cross over birth and death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fire is described as worshipful, shining, and born of Brahman; one who
+    knows it and realizes Him attains eternal peace.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yama / Death
+  description: Yama replies to Nachiketas, teaches the fire-sacrifice, is pleased,
+    grants a boon, and gives a garland.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Nachiketas
+  description: Nachiketas is addressed by Yama, receives the fire-sacrifice teaching,
+    repeats it correctly, and has the fire-sacrifice named after him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Performer of the Nachiketa fire-sacrifice
+  description: A generalized person who performs the Nachiketa fire-sacrifice three
+    times and fulfills specified duties.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Mother, father, and teacher
+  description: The three with whom the performer is said to be united.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Brahman
+  description: Named as the source from which the worshipful shining fire is born.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: teacher of fire-sacrifice
+  assigned_to:
+  - fig:1
+  basis: Yama says he will tell Nachiketas the fire and then explains the ritual details
+    of the fire-sacrifice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: boon-giver
+  assigned_to:
+  - fig:1
+  basis: Yama grants an additional boon and gives a garland of many colours.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient and repeater of instruction
+  assigned_to:
+  - fig:2
+  basis: Nachiketas listens to the teaching and repeats it as told.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: ritual performer seeking crossing over birth and death
+  assigned_to:
+  - fig:3
+  basis: The passage describes the one who performs the Nachiketa fire-sacrifice three
+    times and crosses over birth and death.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: three relational supports
+  assigned_to:
+  - fig:4
+  basis: The passage identifies mother, father, and teacher as the three with whom
+    the performer is united.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: source of the shining fire
+  assigned_to:
+  - fig:5
+  basis: The fire is described as born of Brahman.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: heaven-leading fire / Nachiketa fire-sacrifice
+  literal_form: Fire and fire-sacrifice
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: altar bricks
+  literal_form: Bricks, their number, and their arrangement for the altar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: garland of many colours
+  literal_form: Garland of many colours
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: realm of heaven and endless worlds
+  literal_form: Realm of heaven; endless worlds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: heart of all beings
+  literal_form: The heart of all beings as the place where the fire is hidden
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: threefold ritual pattern
+  literal_form: Three performances, union with three, and three-fold duty
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Yama identifies the heavenly fire
+  summary: Yama tells Nachiketas that he knows the fire leading to heaven, describes
+    it as a means to endless worlds, and says it is hidden in the heart of all beings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruction in the fire-sacrifice
+  summary: Yama teaches the fire-sacrifice and altar arrangement, and Nachiketas repeats
+    the teaching correctly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Boon of naming and garland
+  summary: Yama, pleased with Nachiketas, grants that the fire-sacrifice will be named
+    after him and gives him a many-coloured garland.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ritual performance and crossing birth and death
+  summary: The passage states that one who performs the Nachiketa fire-sacrifice three
+    times, is united with mother, father, and teacher, and fulfills the three-fold
+    duty crosses birth and death and attains eternal peace.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Death figure as teacher of saving ritual knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Yama, also called Death, teaches Nachiketas the fire-sacrifice that leads
+    to heaven and eternal peace.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents instruction from Death, but does not narrate a complete
+    underworld journey in this excerpt.
+- id: motif:2
+  label: Fire-sacrifice as means to heaven and peace
+  taxonomy_refs:
+  - sacrifice
+  - afterlife_journey_map
+  basis: The fire is said to lead to the realm of heaven, to attain endless worlds,
+    and, when performed and known, to cross birth and death and attain eternal peace.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage names a destination and ritual means but does not provide
+    a detailed journey map.
+- id: motif:3
+  label: Ritual knowledge rewarded by boon and naming
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After Nachiketas repeats the fire-sacrifice teaching correctly, Yama is pleased
+    and grants the boon that the sacrifice will be named after him, along with a garland.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The exchange is internal to the teacher-student episode; broader contractual
+    or covenantal implications are not stated here.
+- id: motif:4
+  label: Threefold ritual discipline crossing birth and death
+  taxonomy_refs: []
+  basis: The passage emphasizes three performances, union with the three of mother,
+    father, and teacher, and fulfillment of the three-fold duty, resulting in crossing
+    over birth and death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names triplicity, so no taxonomy
+    reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 832-836
+  quote_or_summary: Yama says he knows the fire that leads to heaven, will tell it
+    to Nachiketas, and describes it as the means of attaining endless worlds and as
+    hidden in the heart of all beings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 840-844
+  quote_or_summary: Yama tells Nachiketas the fire-sacrifice, including altar bricks,
+    their number, and their arrangement; Nachiketas repeats the teaching, and Death
+    is pleased.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 848-852
+  quote_or_summary: "“This fire (sacrifice) shall be named after thee. Take also this
+    garland of many colours.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 856-861
+  quote_or_summary: The performer of the Nachiketa fire-sacrifice three times, united
+    with mother, father, and teacher and fulfilling study of the Vedas, sacrifice,
+    and alms-giving, crosses birth and death; knowing the shining fire born of Brahman
+    and realizing Him, he attains eternal peace.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is high-confidence for the supplied passage. Motif assignments
+    are cautious, especially where the taxonomy terms are broader than the passage.
+    No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Uses only the supplied passage and metadata. Taxonomy references are limited to the provided available lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l832-l861
+  passage_sha256=a83954b719110ee99ab0aedb17a8b16c7b37e1f15fa4f83f15c54fb6a794cd36
+

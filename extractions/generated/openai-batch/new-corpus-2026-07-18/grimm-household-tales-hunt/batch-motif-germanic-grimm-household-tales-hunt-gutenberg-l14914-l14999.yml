@@ -1,0 +1,562 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l14914-l14999
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 14914-14999
+  start: '14914'
+  end: '14999'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“this princess was the little tabby-cat whom poor Hans had served for seven
+    years.”"
+  summary: An old miller sends three apprentices to obtain the best horse. The two
+    other apprentices abandon Hans in a cave. Hans meets a speaking tabby-cat, serves
+    her for seven years in an enchanted castle, returns home ragged and humiliated,
+    and after three days the cat arrives as a princess with shining horses and asks
+    for him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old miller without wife or child promises the mill to whichever apprentice
+    brings him the best horse and then cares for him until death.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The third apprentice, Hans, is the drudge and is regarded as foolish by the
+    other apprentices.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two other apprentices leave Hans asleep in a cave; when he wakes, he is
+    in a deep cavern.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hans climbs out of the cave, enters the forest, and thinks he is alone and
+    deserted.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A small tabby-cat speaks kindly to Hans, says it knows he wants a beautiful
+    horse, and offers one after seven years of faithful service.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The tabby-cat takes Hans to an enchanted castle inhabited by cats who serve
+    her, make music, and attend to Hans at night and in the morning.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Hans serves the cat by chopping wood with an axe, wedge, and saw of silver
+    and a mallet of copper.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The cat commands Hans to mow her meadow with a silver scythe and gold whetstone,
+    then to build a small house with silver timber and silver tools.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The seven years pass for Hans as if they were six months.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The cat opens the small house and shows Hans twelve bright, shining horses,
+    then tells him to go home and says she will follow in three days with his horse.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Hans returns in his ragged old smock; the two other apprentices have brought
+    one blind horse and one lame horse, mock him, and the miller excludes him from
+    the table.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Hans is made to sleep in the goose-house on hard straw.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: After three days a coach with six shining horses arrives, a servant brings
+    a seventh horse for Hans, and a princess who is identified as the tabby-cat asks
+    for him.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: old miller
+  description: An old miller with neither wife nor child; master of three apprentices
+    and owner of the mill he offers as reward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hans / third apprentice / miller’s boy
+  description: The third apprentice, called stupid Hans and the drudge; abandoned
+    in a cave, he serves the tabby-cat for seven years and later returns ragged to
+    the mill.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: two other apprentices
+  description: The two apprentices considered sharp; they abandon Hans, later return
+    with defective horses, mock Hans, and deny him a bed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: small tabby-cat / princess / King’s daughter
+  description: A speaking tabby-cat who offers Hans a horse for seven years of service,
+    rules an enchanted cat household, and later arrives as a magnificent princess
+    identified as the same tabby-cat.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: cat servants
+  description: Cats in the enchanted castle who serve the tabby-cat, make music, and
+    assist Hans with bedtime and morning tasks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: coach servant
+  description: A servant who arrives with the coach and brings a seventh horse for
+    the poor miller’s boy.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: task-giver and holder of reward
+  assigned_to:
+  - fig:1
+  basis: The miller sets the horse-seeking task and promises the mill to the successful
+    apprentice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: underestimated drudge
+  assigned_to:
+  - fig:2
+  basis: Hans is called the drudge and is looked on as foolish by the other apprentices.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: faithful servant seeking a horse
+  assigned_to:
+  - fig:2
+  basis: Hans seeks a horse and agrees to serve the tabby-cat for seven years in exchange
+    for one.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: rival apprentices and abandoners
+  assigned_to:
+  - fig:3
+  basis: The two apprentices leave Hans asleep in the cave, later mock him, and have
+    only a blind and a lame horse.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:5
+  label: speaking animal patron and employer
+  assigned_to:
+  - fig:4
+  basis: The tabby-cat knows Hans’s desire, offers a beautiful horse, and gives him
+    tasks during seven years of service.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:6
+  label: royal figure revealed
+  assigned_to:
+  - fig:4
+  basis: The arriving princess is explicitly identified as the tabby-cat whom Hans
+    served, and she is called the King’s daughter.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: enchanted household attendants
+  assigned_to:
+  - fig:5
+  basis: The cats serve in the castle, make music, and attend to Hans’s needs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: horse-bearing attendant
+  assigned_to:
+  - fig:6
+  basis: The servant brings the seventh horse intended for the poor miller’s boy.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: cave and deep cavern
+  literal_form: cave; deep cavern
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: forest solitude
+  literal_form: forest entered by Hans after climbing out of the cave
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tabby-cat revealed as princess
+  literal_form: small tabby-cat; magnificent princess; King’s daughter
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: enchanted castle of cats
+  literal_form: enchanted castle inhabited by cat servants
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: precious work implements and materials
+  literal_form: silver axe, wedge, saw, scythe, tools, timber; gold whetstone; copper
+    mallet
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: shining horses
+  literal_form: twelve bright shining horses; six shining coach horses; seventh horse
+    for Hans
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:7
+  label: marked time periods and numbers
+  literal_form: seven years of service; three-day delay; twelve horses; six horses
+    and a seventh
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:8
+  label: goose-house lodging
+  literal_form: goose-house; hard straw
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Miller sets the horse task
+  summary: The old miller announces that whichever apprentice brings home the best
+    horse will receive the mill and care for him in old age.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hans abandoned in the cave
+  summary: The two other apprentices leave Hans while he sleeps in a cave; he wakes
+    in a deep cavern, climbs out, and enters the forest alone.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Meeting the speaking tabby-cat
+  summary: Hans meets a kind-speaking tabby-cat who knows his wish for a horse and
+    offers him one after seven years of faithful service.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Service in the enchanted castle
+  summary: Hans lives in the cat’s enchanted castle, sees cat servants, and performs
+    work with silver, gold, and copper implements.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: The twelve horses and delayed reward
+  summary: After Hans builds the small house, the cat shows him twelve shining horses
+    and tells him to return home while she follows in three days with his horse.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Humiliated return to the mill
+  summary: Hans returns ragged, is mocked because he has no horse yet, is excluded
+    from the table, and must sleep in the goose-house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Princess arrives with horses
+  summary: After three days, a coach with shining horses arrives; a servant brings
+    Hans a seventh horse, and the princess who was the tabby-cat asks for him.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: quest for the best horse
+  taxonomy_refs:
+  - departure
+  basis: The miller’s promise of the mill sends the three apprentices out to obtain
+    the best horse.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy link is limited to the departure structure prompted by the
+    task.
+- id: motif:2
+  label: abandonment of the underestimated companion in a cave
+  taxonomy_refs: []
+  basis: The two other apprentices leave Hans asleep in the cave, and he wakes alone
+    in a deep cavern.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not identify the cave as an underworld or ritual descent.
+- id: motif:3
+  label: long service in an enchanted household
+  taxonomy_refs:
+  - initiation
+  basis: Hans serves the speaking cat for seven years, performing repeated tasks with
+    unusual implements in an enchanted castle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents service and testing, but does not explicitly call
+    it initiation.
+- id: motif:4
+  label: animal helper revealed as a royal woman
+  taxonomy_refs:
+  - shapeshifter
+  basis: The small tabby-cat who employs Hans later arrives as a magnificent princess
+    and King’s daughter, and the text identifies her as the same cat.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The excerpt shows the reveal but does not explain the cause or mechanism
+    of the cat form.
+- id: motif:5
+  label: service-for-reward bargain
+  taxonomy_refs: []
+  basis: The tabby-cat promises Hans a beautiful horse in return for seven years of
+    faithful service, and after the service period she prepares the reward.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: No explicitly sacred or contractual ritual frame is stated.
+- id: motif:6
+  label: return with delayed proof and reversal of humiliation
+  taxonomy_refs:
+  - return
+  basis: Hans returns home without visible reward, is mocked and placed in the goose-house,
+    and after three days the princess arrives with shining horses and asks for him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The full outcome after the princess commands Hans to be brought is outside
+    the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14914-14923
+  quote_or_summary: The miller, old and childless, promises the mill to the apprentice
+    who brings the best horse; Hans is the drudge and is considered foolish.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 14923-14936
+  quote_or_summary: The two other apprentices abandon Hans while he sleeps in a cave;
+    he wakes in a deep cavern, climbs out, and enters the forest alone.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 14936-14947
+  quote_or_summary: A small tabby-cat speaks to Hans, knows he wants a horse, offers
+    a beautiful horse after seven years of faithful service, and takes him to her
+    enchanted castle of cats.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 14947-14964
+  quote_or_summary: Cat servants make music and attend Hans; Hans serves the cat and
+    chops wood with silver tools and a copper mallet.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 14964-14977
+  quote_or_summary: The cat directs Hans to mow a meadow with a silver scythe and
+    gold whetstone and then build a small house with silver timber and tools; seven
+    years pass as if six months.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 14977-14983
+  quote_or_summary: The cat opens the small house to show twelve bright shining horses
+    and tells Hans to go home; she will follow in three days with the horse.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 14983-14993
+  quote_or_summary: Hans returns in a ragged old smock; the other apprentices have
+    a blind and a lame horse, mock him, and he is excluded from table and bed, sleeping
+    instead in the goose-house.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 14993-14999
+  quote_or_summary: After three days, a coach with six shining horses arrives, a servant
+    brings a seventh for Hans, and a princess, identified as the tabby-cat and King’s
+    daughter, asks for him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage. Motif labels are cautious; several
+    taxonomy links describe structural similarities rather than explicit terminology
+    in the text. No comparison claims were added because the passage itself does not
+    make comparative statements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All figures, symbols, scenes, roles, observations, and motifs are grounded in the supplied line range.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l14914-l14999
+  passage_sha256=0a8bb38765903a0057569de1c7ae58210ab8e3db4f9caea729351023370c9f74
+

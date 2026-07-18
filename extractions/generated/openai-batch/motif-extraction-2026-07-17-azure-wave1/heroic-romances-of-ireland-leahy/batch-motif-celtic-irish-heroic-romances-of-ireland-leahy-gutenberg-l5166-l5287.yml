@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l5166-l5287
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: ALSO THE CONCLUSION OF THE TALE FROM THE SAME VERSION / THE COMBAT AT THE
+    FORD / INTRODUCTION / THE COMBAT AT THE FORD; lines 5166-5287
+  start: '5166'
+  end: '5287'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ferdia arrives at the ford before full daylight, has his servant arrange
+    cushions and skins from the chariot, and sleeps. Cuchulain waits until daylight
+    so that his early rising cannot be interpreted as fear, then has his chariot yoked
+    and advances. Supernatural beings cry around him as part of their battle custom,
+    increasing dread of him. Ferdia's servant hears and describes Cuchulain's noisy
+    approach, wakes Ferdia, praises the approaching champion, and is rebuked by Ferdia,
+    who cites Ailill and Maev's prophecy and the promised fee for killing Cuchulain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ferdia's horses are harnessed, his chariot is yoked, and he comes to the ford
+    of battle before full daylight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ferdia orders his servant to spread cushions and skins from the chariot so
+    that he can rest, and then he sleeps.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Cuchulain remains on his couch until full daylight so that the men of Ireland
+    cannot say he rose early from fear or dread.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cuchulain commands his charioteer to harness the horses and yoke the chariot
+    for the meeting with Ferdia.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cuchulain leaps into his chariot and is described with heroic epithets including
+    fighter of battles, skilful in feats, winner of victory, and son of Sualtam.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Bocanachs, Bananachs, wild people of the glens, and demons of the air scream
+    around Cuchulain; the passage says this is a custom in his battles and duels to
+    increase fear of him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ferdia's charioteer hears the loud approach of Cuchulain, including the noises
+    of shields, spears, swords, helmet, armor, javelins, chariot wheels, and horse-hoofs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ferdia's servant wakes him and says that the approaching party is coming toward
+    the Ford.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The servant's poem describes a silver-yoked chariot, a hero called a Hound,
+    and the war-car's rapid approach.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Ferdia accuses his servant of continually praising Cuchulain and says Ailill
+    and Maev have foretold that Cuchulain will fall by him.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The servant says that if the approaching man is the champion of Cualgne, he
+    is not retreating but coming swiftly to meet them.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Ferdia again accuses the servant of praising the foe and says such men will
+    be called cowards when battle approaches.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ferdia, son of Daman, son of Dare
+  description: A combatant who comes to the ford, rests before the encounter, is awakened
+    by his servant, and expects to fight Cuchulain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Cuchulain, son of Sualtam
+  description: The approaching champion, also called the champion of Cualgne and Emain
+    Macha's Hound, who comes to the ford in his chariot.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Ferdia's servant or charioteer
+  description: The servant who prepares Ferdia's resting place, hears Cuchulain's
+    approach, wakes Ferdia, and speaks poems praising the approaching hero.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Cuchulain's charioteer
+  description: The charioteer who harnesses Cuchulain's horses and yokes the chariot.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Bocanachs, Bananachs, wild people of the glens, and demons of the
+    air
+  description: Supernatural beings associated in the passage with the wizard race
+    of Danu who scream around Cuchulain in battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ailill and Maev
+  description: Named figures whom Ferdia says have foretold that Cuchulain will fall
+    by him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: duel combatant at the ford
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Ferdia arrives at the ford of battle, and Cuchulain comes to meet him there
+    for the combat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: approaching champion
+  assigned_to:
+  - fig:2
+  basis: Cuchulain is described with heroic epithets and is recognized by Ferdia's
+    servant as the champion of Cualgne approaching in his war-car.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:9
+- id: role:3
+  label: servant-charioteer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The servants manage horses, chariots, and immediate preparations for their
+    lords.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: supernatural battle attendants
+  assigned_to:
+  - fig:5
+  basis: The beings cry around Cuchulain in battles and duels to heighten fear of
+    him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: foretellers of combat outcome
+  assigned_to:
+  - fig:6
+  basis: Ferdia states that Ailill and Maev have foretold that Cuchulain will fall
+    by him.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: ford of battle
+  literal_form: ford
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: battle chariot and yoked horses
+  literal_form: harnessed horses, yoked chariot, war-car, chariot wheels
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: supernatural battle cry
+  literal_form: screams and cries of Bocanachs, Bananachs, wild people of the glens,
+    and demons of the air
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Hound epithet
+  literal_form: hero-Hound, Emain Macha's Hound, battle-Hound
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: cushions and skins for rest
+  literal_form: cushions and skins from Ferdia's chariot
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ferdia waits and sleeps at the ford
+  summary: Before full daylight, Ferdia reaches the ford of battle, has his servant
+    arrange the chariot's cushions and skins, and sleeps before the combat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cuchulain's deliberate departure and noisy approach
+  summary: Cuchulain waits until daylight, has his chariot prepared, enters it, and
+    advances with supernatural cries and the noise of weapons, armor, wheels, and
+    horses.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: The servant wakes Ferdia and praises the approaching hero
+  summary: Ferdia's servant wakes him, announces Cuchulain's approach to the Ford,
+    and describes the approaching hero and chariot in praise-poetry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: scene:4
+  label: Ferdia rebukes his servant's praise
+  summary: Ferdia accuses his servant of praising Cuchulain too much, invokes Ailill
+    and Maev's prophecy that Cuchulain will fall by him, mentions the fee he expects,
+    and calls praise of the foe cowardly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: champions meet for combat at a ford
+  taxonomy_refs: []
+  basis: The passage centers on Ferdia waiting at the ford of battle and Cuchulain
+    advancing to meet him there for the fight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage gives only the prelude to the combat within this line range.
+- id: motif:2
+  label: hero delays departure to avoid the appearance of fear
+  taxonomy_refs: []
+  basis: Cuchulain intentionally remains on his couch until full daylight so that
+    observers cannot say he rose early from fear or dread.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a motive explicitly stated for this episode; broader recurrence
+    is not established in the excerpt.
+- id: motif:3
+  label: supernatural beings heighten dread around a warrior
+  taxonomy_refs: []
+  basis: The Bocanachs, Bananachs, wild people of the glens, and demons of the air
+    cry around Cuchulain in battle to increase hatred, fear, avoidance, and terror
+    of him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the custom but does not separately narrate other episodes
+    in this excerpt.
+- id: motif:4
+  label: recognition of the approaching warrior by sound
+  taxonomy_refs: []
+  basis: Ferdia's charioteer hears the roar, weapon-noise, chariot-noise, and hoofbeats
+    of Cuchulain's approach, then wakes Ferdia and identifies the danger.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Recognition is tied to Cuchulain's chariot and battle-noise in this passage.
+- id: motif:5
+  label: prophecy and reward frame a duel
+  taxonomy_refs: []
+  basis: Ferdia says Ailill and Maev foretold that Cuchulain would fall by him and
+    links the killing to a fee he expects to gain.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The excerpt reports Ferdia's statement but does not show the original
+    prophecy or payment agreement.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly treats the supernatural cries around Cuchulain as
+    a recurrent battle pattern with the same stated function: increasing fear and
+    terror of him.'
+  claim_level: same_function
+  target: recurring Cuchulain battle-terror accompaniment pattern as described within
+    the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt asserts recurrence in Cuchulain's battles and duels but
+    does not provide another narrated instance within the selected lines.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5166-5176
+  quote_or_summary: Ferdia's horses are harnessed and his chariot yoked; he reaches
+    the ford before full daylight, orders cushions and skins spread from the chariot,
+    and sleeps.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5178-5190
+  quote_or_summary: Cuchulain waits until full daylight to avoid any claim that he
+    rose early from fear, then orders his charioteer to harness the horses and yoke
+    the chariot for Ferdia's arrival.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5190-5194
+  quote_or_summary: Cuchulain enters his chariot and is described by heroic epithets
+    including fighter of battles, skilful in feats, winner of victory, red-sworded
+    hero, and son of Sualtam.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5194-5202
+  quote_or_summary: Bocanachs, Bananachs, wild people of the glens, and demons of
+    the air scream around Cuchulain; the passage says this custom of the wizard race
+    of Danu occurs in his battles and duels to increase fear and terror of him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5202-5215
+  quote_or_summary: 'Ferdia''s charioteer hears Cuchulain''s noisy approach: clanking
+    shields, hissing spears, clashing swords, ringing armor, swinging javelins, straining
+    ropes, creaking chariot, clattering wheels, and trampling hoofs.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5217-5220
+  quote_or_summary: Ferdia's servant places his hand on his lord, wakes him, and says
+    that they are coming toward him, even to the Ford.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5222-5249
+  quote_or_summary: The servant's poem describes a loud creaking silver-yoked chariot,
+    the hero-Hound, a true charioteer, rushing steeds, Emain Macha's Hound, and a
+    previously recognized chariot sound.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5251-5258
+  quote_or_summary: Ferdia asks why the servant has praised Cuchulain since leaving
+    the tent, suggests he seeks reward from Cuchulain, says Ailill and Maev foretold
+    Cuchulain would fall by him, and mentions the fee he expects.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 5269-5278
+  quote_or_summary: The servant says that if the approaching man is Cualgne's champion,
+    he is not retreating; he comes swiftly like wind, a stream thundering from a cliff,
+    or a bolt from a storm-cloud.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 5279-5287
+  quote_or_summary: Ferdia again says the servant must have taken pay from Cuchulain
+    because of the loud praise, and says men who begin praising foes when battle nears
+    will be called cowards.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because figures and actions are explicit. Motif
+    labels are passage-level candidates and need human review for alignment with a
+    wider taxonomy. The single comparison claim is limited to recurrence explicitly
+    stated within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated comparisons were used. Taxonomy symbol reference to water is based on the ford setting.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l5166-l5287
+  passage_sha256=f59df52aefb2e493beca26d3f9318007354b448629a0560d4660ac808629c52f
+

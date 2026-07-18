@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l1158-l1203
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: REFERENCES TO MARY'S GOSPEL / CHAPTER I. / CHAPTER. II. / CHAPTER III.; lines
+    1158-1203
+  start: '1158'
+  end: '1203'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Anna perceiving a sparrow's nest in the laurels bemoans her barrenness.
+  summary: Anna looks toward heaven, sees a sparrow's nest in a laurel, and laments
+    her barrenness. She says she is accursed and reproached in the temple, then contrasts
+    herself with animals, waters, sea waves with fish, and the earth, all of which
+    are fruitful or praise the Lord.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Anna looks toward heaven and perceives a sparrow's nest in the laurel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anna mourns within herself and speaks a repeated lament beginning with “Wo
+    is me.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Anna asks who begat her and what womb bore her, and says she is accursed before
+    the children of Israel, who reproach and deride her in the temple of her God.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anna says she cannot be compared with beasts or brute animals because they
+    are fruitful before the Lord.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Anna says she cannot be compared with the waters because the waters are fruitful
+    before the Lord.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Anna says the waves of the sea, whether calm or moving, together with the
+    fishes in them, praise the Lord.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Anna says the earth produces its fruits and praises the Lord.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Anna
+  description: A woman who laments her barrenness after seeing a sparrow's nest in
+    a laurel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Lord
+  description: The deity whom Anna addresses and before whom animals, waters, waves,
+    fish, and earth are described as fruitful or praising.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: children of Israel
+  description: The community before whom Anna says she is accursed and who reproach
+    and deride her in the temple.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: beasts and brute animals
+  description: Nonhuman creatures described by Anna as fruitful before the Lord.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: fishes
+  description: Creatures in the sea waves described as praising the Lord with the
+    waves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: barren lamenter
+  assigned_to:
+  - fig:1
+  basis: Anna mourns her barrenness and repeatedly asks what she can be compared to.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressed deity
+  assigned_to:
+  - fig:2
+  basis: Anna addresses the Lord while describing creation as fruitful or praising
+    before him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: reproaching community
+  assigned_to:
+  - fig:3
+  basis: Anna says the children of Israel reproach and deride her in the temple.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fruitful nonhuman exemplars
+  assigned_to:
+  - fig:4
+  basis: Anna says beasts and brute animals are fruitful before the Lord, unlike herself.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: creatures joining cosmic praise
+  assigned_to:
+  - fig:5
+  basis: Anna says the fishes in the sea waves praise the Lord.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sparrow's nest in laurel
+  literal_form: sparrow's nest in the laurel
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavenward gaze
+  literal_form: looking towards heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: waters
+  literal_form: these waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sea waves with fishes
+  literal_form: waves of the sea... with the fishes which are in them
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: fruit-bearing earth
+  literal_form: the earth produces its fruits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: temple of my God
+  literal_form: the temple of my God
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Anna sees the nest and begins her lament
+  summary: Anna looks toward heaven, sees a sparrow's nest in a laurel, mourns within
+    herself, and laments her condition.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Anna contrasts herself with fruitful and praising creation
+  summary: Anna compares her barrenness with animals, waters, sea waves with fish,
+    and earth, which she says are fruitful or praise the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Anna names social reproach in the temple
+  summary: Within her lament, Anna says she is accursed before the children of Israel
+    and reproached and derided in the temple of her God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: barren woman's lament
+  taxonomy_refs: []
+  basis: Anna explicitly mourns her barrenness and describes herself as accursed and
+    reproached.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage contains lament but does not include conception, birth, or
+    divine response within this excerpt.
+- id: motif:2
+  label: human barrenness contrasted with fruitful creation
+  taxonomy_refs: []
+  basis: Anna contrasts herself with beasts, brute animals, waters, sea waves with
+    fish, and earth, which are described as fruitful or praising.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy supplied has no exact fertility/barrenness motif label; no
+    broader motif family is assigned.
+- id: motif:3
+  label: creation praising the Lord
+  taxonomy_refs: []
+  basis: Sea waves with fish and the earth are said to praise the Lord; other natural
+    beings are described as fruitful before him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a recurring religious image, but the passage itself gives only
+    a short lament formula.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1158-1166; Chapter III.1
+  quote_or_summary: Anna looks toward heaven and perceives “a sparrow's nest in the
+    laurel.”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1167-1178; Chapter III.2
+  quote_or_summary: Anna mourns within herself, asks who begat and bore her, says
+    she is accursed before the children of Israel, and says they reproach and deride
+    her in the temple of her God.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1179-1189; Chapter III.3-4
+  quote_or_summary: Anna says she is not comparable to beasts or brute animals because
+    they are fruitful before the Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1190-1194; Chapter III.5
+  quote_or_summary: Anna says she cannot be compared with the waters because the waters
+    are fruitful before the Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1195-1200; Chapter III.6
+  quote_or_summary: Anna says the waves of the sea, whether calm or moving, with the
+    fishes in them, praise the Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 1201-1203; Chapter III.7
+  quote_or_summary: "“the earth produces its fruits, and praises thee, O Lord!”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are local descriptive
+    candidates because the supplied taxonomy does not include an exact barrenness/fertility-lament
+    category. No comparison claims were made because the excerpt itself does not establish
+    links to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to supplied symbol refs where directly supported by the text.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l1158-l1203
+  passage_sha256=8760db49d3a367a58cbe0c04783b21a6a737188af63b215a6fda4a57f375be82
+

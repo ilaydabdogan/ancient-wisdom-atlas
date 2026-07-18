@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l2124-l2140
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: IMARASUGSSUAQ, WHO ATE HIS WIVES / QALAGANGUASE, WHO PASSED TO THE LAND OF
+    GHOSTS / ISIGALIGARSSIK / THE INSECTS THAT WOOED A WIFELESS MAN; lines 2124-2140
+  start: '2124'
+  end: '2140'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Do not wake until the fulmar begins to cry.”"
+  summary: A wifeless man asks his wife to comb his hair. She speaks words over him
+    telling him to sleep until the fulmar cries and young birds are heard. He falls
+    asleep and later wakes alone in summer, though it had been winter when he entered
+    through a crack. His kayak skin has rotted with age, and the narrator supposes
+    he returns home and sits at ease.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wifeless man asks his wife to comb his hair and is described as happy
+    again.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife begins combing and speaks words over him instructing him not to wake
+    until the fulmar cries and young birds are heard.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man falls asleep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the man wakes, he is alone.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At his waking, the earth is blue with summer and the fulmar cries noisily
+    on the bird cliff.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that it had been winter when he crawled in through the
+    crack.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: When he comes down to his kayak, its skin is rotted through with age.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The narrator supposes that the man reached home as usual and now sits scratching
+    himself at ease.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: wifeless man
+  description: A man described as wifeless and happy again; he asks for his hair to
+    be combed, sleeps, wakes alone after a seasonal change, finds his kayak aged,
+    and is supposed to have returned home.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: wife
+  description: The man’s wife begins to comb his hair and speaks sleep-directing words
+    over him; she is absent when he wakes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: fulmar
+  description: A bird whose cry is named as the time when the man should wake; it
+    cries noisily on the bird cliff when he wakes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: sleeper
+  assigned_to:
+  - fig:1
+  basis: The man falls asleep after the wife’s words.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: returning man
+  assigned_to:
+  - fig:1
+  basis: After waking and finding his kayak aged, the narrator supposes that he reaches
+    home.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sleep-enjoining wife
+  assigned_to:
+  - fig:2
+  basis: She speaks words over the man telling him not to wake until specific bird
+    sounds occur.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: waking signal bird
+  assigned_to:
+  - fig:3
+  basis: The fulmar’s cry is named as the condition for waking and is heard when the
+    man wakes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: hair-combing
+  literal_form: The wife combing the man’s hair while speaking over him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fulmar cry
+  literal_form: The cry of the fulmar and the sound of young birds as the appointed
+    waking signal.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: winter-to-summer interval
+  literal_form: The passage contrasts winter at entry through the crack with summer
+    at waking.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: rotted kayak skin
+  literal_form: The kayak skin is rotted through with age when the man returns to
+    it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: crack entry
+  literal_form: A crack through which the man had crawled in during winter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Wife’s sleep words during hair-combing
+  summary: The man asks his wife to comb his hair; she begins and speaks over him,
+    telling him to sleep until bird sounds are heard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Waking after seasonal change
+  summary: The man sleeps and wakes alone in summer while the fulmar cries on the
+    bird cliff; the passage notes that it had been winter when he entered through
+    the crack.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Aged kayak and supposed homecoming
+  summary: The man comes to his kayak and finds its skin rotted with age; the narrator
+    supposes he reached home and sits at ease.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: prolonged sleep marked by seasonal change
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The man is put to sleep until bird sounds occur and wakes in summer, though
+    it was winter when he entered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the sleep and seasonal change directly, but does
+    not explicitly explain the sleep as magical or ritual.
+- id: motif:2
+  label: return after uncanny time lapse
+  taxonomy_refs:
+  - return
+  basis: After waking alone and finding his kayak rotted with age, the narrator supposes
+    the man reaches home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The homecoming is phrased as the narrator’s supposition, and the broader
+    story context is not included in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2124-2130
+  quote_or_summary: The man says, “Comb my hair”; the wife begins and says, “Do not
+    wake until the fulmar begins to cry” and until young birds are heard.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 2132-2136
+  quote_or_summary: He falls asleep, wakes alone, finds the earth blue with summer
+    and the fulmar crying on the bird cliff; the passage notes it had been winter
+    when he crawled in through the crack.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2138-2140
+  quote_or_summary: When he comes down to his kayak, its skin is rotted through with
+    age; the narrator supposes he reached home and now sits scratching himself at
+    ease.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    cautious because the excerpt gives limited surrounding story context. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy IDs or comparative claims were added beyond the available motif-family references supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l2124-l2140
+  passage_sha256=32083e8d7007e9984a9049f7b6ac8f6204c7a05b540482bfa5b1c24eb87b6b84
+

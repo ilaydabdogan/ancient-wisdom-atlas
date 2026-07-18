@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l2023-l2064
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: Part Third / Part Fourth / Part Fifth / Part Sixth; lines 2023-2064
+  start: '2023'
+  end: '2064'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage teaches that when desires and heart-ties cease, the mortal
+    becomes immortal and attains Brahman. It describes a hundred and one heart-nerves,
+    one leading upward through the head to immortality and others leading to different
+    worlds. Commentary explains that the desireless mind departs upward through the
+    crown, while desireful tendencies lead downward. The inner Self or Purusha is
+    described as thumb-sized and seated in the heart; one should draw Him out from
+    the body and know Him as pure and deathless.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When desires dwelling in the heart cease, the mortal becomes immortal and
+    attains Brahman here.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the ties of the heart are cut asunder, the mortal becomes immortal.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The heart is said to have a hundred and one nerves.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One nerve penetrates the centre of the head; going upward through it leads
+    to immortality.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The other hundred nerve-courses lead, in departing, to different worlds.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentary states that the nervous system provides channels through which
+    the mind travels, with its direction determined by desires and tendencies.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary states that a pure, desireless mind takes the upward course
+    and departs through an imperceptible opening at the crown of the head.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The commentary states that a mind full of desires takes a downward course
+    toward realms where those desires can be satisfied.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Purusha, the inner Self, is described as the size of a thumb and seated
+    in the heart of all living beings.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A person is instructed to draw the inner Self out from the body as one draws
+    the inner stalk from a blade of grass.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The inner Self should be known as pure and deathless.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The commentary explains the thumb-size description by the inner Self's abiding-place
+    in the heart, which is likened to a lotus-bud.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The commentary compares differentiating Soul from body to separating pith
+    from a reed.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the mortal / man
+  description: The human being who may become immortal, depart through bodily channels,
+    and is instructed to draw out the inner Self.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Purusha, the inner Self
+  description: The inner Self, described as thumb-sized, seated in the heart of all
+    living beings, pure, and deathless.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the mind
+  description: In the commentary, the mind travels through bodily channels, moving
+    upward when pure and desireless or downward when full of desires.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mortal aspirant
+  assigned_to:
+  - fig:1
+  basis: The passage speaks of the mortal becoming immortal and instructs man to draw
+    out and know the inner Self.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: indwelling deathless Self
+  assigned_to:
+  - fig:2
+  basis: The Purusha is explicitly called the inner Self, seated in the heart and
+    to be known as pure and deathless.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: departing traveler through bodily channels
+  assigned_to:
+  - fig:3
+  basis: The commentary describes the mind traveling through nervous channels and
+    taking upward or downward courses according to desires.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: heart
+  literal_form: heart as dwelling-place of desires, ties, nerves, and the inner Self
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: ties of the heart
+  literal_form: ties of the heart cut asunder
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hundred and one nerves
+  literal_form: a hundred and one nerves of the heart
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: upward head-channel
+  literal_form: one nerve penetrating the centre of the head and the imperceptible
+    crown opening
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: different worlds
+  literal_form: different worlds reached by other nerve-courses in departing
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: thumb-sized inner Self
+  literal_form: Purusha, the inner Self, described as the size of a thumb
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: blade of grass and inner stalk
+  literal_form: drawing the inner stalk from a blade of grass
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: lotus-bud heart image
+  literal_form: heart likened to a lotus-bud similar to a thumb in size and shape
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: reed and pith
+  literal_form: separating pith from a reed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cessation of desires and heart-ties
+  summary: The passage states that when desires in the heart cease and heart-ties
+    are cut, the mortal becomes immortal and attains Brahman.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Departure through heart-nerves
+  summary: 'The passage describes a network of heart-nerves: one route goes upward
+    through the head to immortality, while other routes lead to different worlds.
+    The commentary links these routes to the mind''s desires and purity.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Drawing out the inner Self
+  summary: The Purusha, or inner Self, is seated in the heart and should be drawn
+    out from the body like an inner stalk from grass; the commentary explains this
+    as discriminating the Soul from the body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Cessation of heart-desires leading to immortality
+  taxonomy_refs: []
+  basis: The passage repeatedly links the cessation of desires or cutting of heart-ties
+    with the mortal becoming immortal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames this as doctrine rather than narrative action; no broader
+    comparative taxonomy ref is assigned.
+- id: motif:2
+  label: Upward departure through a bodily channel to immortality
+  taxonomy_refs:
+  - ascent
+  basis: One heart-nerve leads upward through the head to immortality, and the commentary
+    describes the pure, desireless mind taking the upward course through the crown.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is doctrinal and physiological-symbolic; the ascent occurs
+    as a departure route, not as an external mountain or sky journey.
+- id: motif:3
+  label: Knowledge and discrimination of the indwelling Self
+  taxonomy_refs:
+  - wisdom
+  basis: The passage instructs one to know the inner Self as pure and deathless and
+    the commentary describes differentiating Soul from body through steadfast discrimination.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy term 'wisdom' is broad; the passage specifically
+    concerns Self-knowledge and discrimination.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2023-2025
+  quote_or_summary: '"When all desires dwelling in the heart cease, then the mortal
+    becomes immortal and attains Brahman here."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 2027-2031
+  quote_or_summary: '"When all the ties of the heart are cut asunder here, then the
+    mortal becomes immortal."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 2033-2038
+  quote_or_summary: The heart has a hundred and one nerves; one passes through the
+    centre of the head and leads upward to immortality, while the others lead to different
+    worlds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2040-2049
+  quote_or_summary: The commentary says the nervous system channels the mind; a pure
+    desireless mind departs upward through the crown opening, while a desireful mind
+    moves downward toward realms satisfying desire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2051-2058
+  quote_or_summary: The Purusha, or inner Self, is thumb-sized, seated in the heart
+    of all beings, to be drawn out like the inner stalk from grass, and known as pure
+    and deathless.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2060-2064
+  quote_or_summary: The commentary explains the thumb-size as related to the heart,
+    likened to a lotus-bud, and compares differentiating Soul from body to separating
+    pith from a reed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction relies only on the supplied passage and commentary. Motif labels
+    are cautious because the passage is doctrinal rather than narrative. No comparison
+    claims are made because the passage itself does not compare this material to other
+    texts or traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy IDs beyond the supplied motif-family refs were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l2023-l2064
+  passage_sha256=e1a41a997d427e4aaa33e94a244c1387ac13db874097059cdfbc32de3f90f9c8
+

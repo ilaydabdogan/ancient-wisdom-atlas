@@ -1,0 +1,581 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l1726-l1817
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: KUNIGSEQ / THE WOMAN WHO HAD A BEAR AS A FOSTER-SON / IMARASUGSSUAQ, WHO
+    ATE HIS WIVES / QALAGANGUASE, WHO PASSED TO THE LAND OF GHOSTS; lines 1726-1817
+  start: '1726'
+  end: '1817'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: And so they led him out, and bore him away to the land of ghosts, and so
+    Qalaganguase became a ghost.
+  summary: A lame orphaned boy named Qalaganguase encounters ghosts while alone, is
+    warned not to tell of them, loses returning strength after speaking, is later
+    abandoned during a singing contest, and is taken by his dead parents to the land
+    of ghosts, where he becomes a ghost and is said to become a woman.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Qalaganguase's parents die after eating seaweed, and his sister later dies,
+    leaving strangers to look after him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Qalaganguase is described as without strength, with the lower part of his
+    body dead.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: While alone, Qalaganguase hides behind skin hangings after hearing a sound,
+    and a ghost enters the house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ghost drinks twice from the water tub and thanks the drink it received.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Villagers inspect the water tub and see evidence that something had been drinking
+    from it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: On another occasion, the house shakes and a crowd of ghosts enters; among
+    them is Qalaganguase's recently dead sister.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The ghosts sit on the floor, play, wrestle, tell stories, and laugh.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The ghosts tell Qalaganguase not to tell tales and say that, if he obeys,
+    he will regain strength.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Qalaganguase tells the returning villagers about the ghost-filled house and
+    says he is to grow strong again.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: After Qalaganguase speaks, the strength slowly leaves him.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The villagers tie Qalaganguase to a frame post to swing while trying to beat
+    a drum, then leave for a singing contest without him.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Qalaganguase's dead mother and father come to him while he is alone and ask
+    why he is there.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: His dead parents invite him to come away, lead him out, and bear him away
+    to the land of ghosts.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:14
+  text: Qalaganguase becomes a ghost and is said to have become a woman when changed
+    to a ghost.
+  category: sequence
+  evidence_refs:
+  - ev:12
+  - ev:13
+- id: obs:15
+  text: The fellow-villagers never see Qalaganguase again.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Qalaganguase
+  description: A boy whose parents and sister die; he is weak and lame, encounters
+    ghosts, and is later taken to the land of ghosts where he becomes a ghost.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:12
+  - ev:13
+- id: fig:2
+  name_or_label: Qalaganguase's parents
+  description: His father and mother die earlier in the story; later, as dead parents,
+    they come to him and take him to the land of ghosts.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:11
+  - ev:12
+- id: fig:3
+  name_or_label: Qalaganguase's sister
+  description: His sister cares for him after his parents die, then dies; her ghost
+    appears among the crowd of ghosts and has difficulty leaving because Qalaganguase
+    had minded her child.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: First ghost
+  description: A ghost enters the house, drinks from the water tub twice, thanks the
+    drink, and leaves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Crowd of ghosts
+  description: Ghosts tumble into the house, play, wrestle, tell stories, laugh, warn
+    Qalaganguase not to tell tales, and promise his strength will return if he obeys.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Fellow-villagers and hunters
+  description: People of the settlement who go hunting, return to the house, hear
+    Qalaganguase's report, challenge him to a singing contest, and leave him behind.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:10
+  - ev:13
+roles:
+- id: role:1
+  label: orphaned lame boy
+  assigned_to:
+  - fig:1
+  basis: Qalaganguase loses his parents and sister and is described as without strength,
+    with the lower part of his body dead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ghost visitor
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Ghosts enter the house while Qalaganguase is alone.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: dead kin
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: His sister, mother, and father are all identified as having died before appearing
+    in ghostly or post-death contexts.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:11
+- id: role:4
+  label: guides to the land of ghosts
+  assigned_to:
+  - fig:2
+  basis: Qalaganguase's father and mother tell him to come away, lead him out, and
+    bear him to the land of ghosts.
+  evidence_refs:
+  - ev:12
+- id: role:5
+  label: new ghost
+  assigned_to:
+  - fig:1
+  basis: The passage states that Qalaganguase became a ghost after being taken to
+    the land of ghosts.
+  evidence_refs:
+  - ev:12
+- id: role:6
+  label: condition-setting supernatural visitors
+  assigned_to:
+  - fig:5
+  basis: The ghosts tell Qalaganguase not to tell tales and promise renewed strength
+    if he follows their instruction.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: settlement community
+  assigned_to:
+  - fig:6
+  basis: The villagers hunt, return to the house, inspect the water tub, and later
+    leave Qalaganguase behind during the singing contest.
+  evidence_refs:
+  - ev:4
+  - ev:10
+symbols:
+- id: sym:1
+  label: water tub and drink
+  literal_form: Water in a house tub, drunk by a ghost with a dipper
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: house as ghost-visited place
+  literal_form: House where Qalaganguase is alone and where ghosts enter
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: passage way
+  literal_form: House passage way through which villagers and ghosts crawl or tumble
+    in and out
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: shadow of feet
+  literal_form: A visible shadow of a pair of feet as Qalaganguase's sister leaves
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: frame post and drum
+  literal_form: Frame post to which Qalaganguase is tied while trying to beat the
+    drum
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: land of ghosts
+  literal_form: Place to which Qalaganguase is borne by his dead parents
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Qalaganguase is left without close family
+  summary: Qalaganguase's parents die after eating seaweed, his sister later dies,
+    and strangers are left to look after him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First ghost drinks in the house
+  summary: While alone, Qalaganguase hides and sees a ghost enter, drink twice from
+    the water tub, give thanks, and leave; villagers later see that the tub has been
+    used.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ghost gathering and warning
+  summary: A crowd of ghosts, including Qalaganguase's dead sister, enters the shaking
+    house, plays and tells stories, then warns him not to tell tales and promises
+    renewed strength.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Disclosure and loss of strength
+  summary: Qalaganguase tells the returning villagers that ghosts filled the house
+    and that he is to grow strong again; immediately afterward, his strength begins
+    to leave him.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Singing contest departure
+  summary: The villagers prepare for a singing contest, tie Qalaganguase to a frame
+    post while he tries to beat the drum, and leave him behind alone.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: Parents take Qalaganguase to the land of ghosts
+  summary: Qalaganguase's dead mother and father come to him, invite him to go with
+    them, carry him to the land of ghosts, and he becomes a ghost; he is also said
+    to become a woman when changed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: journey to the land of ghosts
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Dead parents lead and bear Qalaganguase away to the land of ghosts, after
+    which he becomes a ghost.
+  evidence_refs:
+  - ev:12
+  confidence: high
+  cautions: The passage names the destination but gives little description of the
+    geography or route.
+- id: motif:2
+  label: ghost visitors in the dwelling
+  taxonomy_refs: []
+  basis: A single ghost and later a crowd of ghosts enter the house while Qalaganguase
+    is alone.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No broader taxonomy reference is assigned beyond the literal recurring
+    visitation pattern.
+- id: motif:3
+  label: disclosure taboo and lost healing
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Ghosts tell Qalaganguase not to tell tales and promise restored strength
+    if he obeys; after he tells the villagers, his strength leaves him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage concerns forbidden
+    disclosure of a ghost encounter rather than an explicit quest for knowledge.'
+- id: motif:4
+  label: dead kin as escorts
+  taxonomy_refs: []
+  basis: Qalaganguase's dead mother and father come to him when he is left alone and
+    take him away to the land of ghosts.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The passage does not describe the parents' status beyond their earlier
+    deaths and their later arrival.
+- id: motif:5
+  label: transformation into ghost with gender change
+  taxonomy_refs: []
+  basis: The passage states that Qalaganguase became a ghost and that he became a
+    woman when changed to a ghost.
+  evidence_refs:
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The mechanism and significance of the gender change are not explained
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The episode can be cautiously grouped with afterlife-journey motifs because
+    Qalaganguase is physically taken by dead kin to a named land of ghosts and becomes
+    a ghost there.
+  claim_level: same_motif
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief destination and transformation, not
+    a detailed mapped itinerary of the afterlife.
+- id: claim:2
+  claim: The episode can be cautiously compared to a forbidden-disclosure pattern
+    because supernatural visitors impose silence and the promised restoration is lost
+    after Qalaganguase speaks.
+  claim_level: same_function
+  target: forbidden_knowledge / disclosure taboo pattern
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The available taxonomy label is not exact; the passage emphasizes not
+    telling tales rather than pursuit of forbidden knowledge.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1726-1734
+  quote_or_summary: Qalaganguase is introduced; his parents die after eating seaweed,
+    his sister later dies, and strangers are left to care for him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1735-1743
+  quote_or_summary: Qalaganguase is described as without strength and with the lower
+    body dead; while alone, he hides behind skin hangings after hearing a sound and
+    a ghost enters.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1744-1751
+  quote_or_summary: The ghost went to the water tub, drank twice from the dipper,
+    thanked the drink, and said this was how it had drunk when living on earth.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise paraphrase/short evidence from supplied
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 1752-1761
+  quote_or_summary: The villagers return through the passage way; Qalaganguase says
+    he hid because a ghost drank from the water tub, and they see that something had
+    been drinking from it.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1762-1771
+  quote_or_summary: Later, while Qalaganguase is again alone, the house shakes and
+    a crowd of ghosts enters; the last is his recently dead sister.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1772-1778
+  quote_or_summary: The ghosts sit on the floor, play, wrestle, tell stories, laugh,
+    and make the night pleasant until the villagers can be heard returning.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1779-1788
+  quote_or_summary: The ghosts tell Qalaganguase not to tell tales and promise he
+    will gain strength if he obeys; his sister has difficulty leaving because he had
+    minded her child, and a shadow of feet is seen as she slips out.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1789-1796
+  quote_or_summary: Qalaganguase tells the villagers that the house had been full
+    of people who made the night pass pleasantly and said he was to grow strong again.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 1797-1799
+  quote_or_summary: After Qalaganguase speaks, his strength slowly begins to leave
+    him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 1800-1808
+  quote_or_summary: Qalaganguase hears that he will be challenged to a singing contest;
+    he is tied to a frame post to swing while trying to beat the drum, and the others
+    leave him alone when they go to the contest.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 1809-1813
+  quote_or_summary: While he is alone, his mother and father, both dead, come in and
+    ask why he is there.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:12
+  type: quote
+  locator: lines 1814-1816
+  quote_or_summary: His parents invite him to come away; they lead him out and bear
+    him to the land of ghosts, where Qalaganguase becomes a ghost.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise paraphrase/short evidence from supplied
+    passage.
+- id: ev:13
+  type: summary
+  locator: line 1817
+  quote_or_summary: The passage says Qalaganguase became a woman when changed to a
+    ghost, and his fellow-villagers never saw him again.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif and comparison
+    labels are cautious where taxonomy terms only approximately match the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unprovided traditions were used. All comparisons are limited to supplied taxonomy labels and passage-supported patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l1726-l1817
+  passage_sha256=39f20614b13aa362983970d718af9d6c1686cb9fffe340096b724b4fda3dae17
+

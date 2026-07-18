@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l6769-l6889
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 6769-6889
+  start: '6769'
+  end: '6889'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"This was the cause of my separation from my dear husband, and now, I am
+    convinced, it will be the means of our reunion."'
+  summary: Camaralzaman misses a ship after the old gardener dies and must remain
+    behind. The ship carries jars of olives that conceal gold dust and Princess Badoura's
+    talisman. Badoura buys the jars, discovers the talisman, recognizes its connection
+    to her separation from Camaralzaman, and orders the captain to return and bring
+    the merchant to her.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The gardener becomes dangerously ill, murmurs his confession of faith, dies,
+    and is buried by Camaralzaman in the garden.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Because he stays to perform the burial and final duties, Camaralzaman reaches
+    the quay after the ship has already sailed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Camaralzaman remains in the foreign country for another year and prepares
+    fifty more jars by placing gold dust inside and covering it with olives.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ship arrives safely at the Ebony Island, where Princess Badoura, ruling
+    as the new king, sees it enter the harbor.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Badoura questions the captain about the ship, passengers, voyage, and cargo,
+    and decides to buy all the olives on board.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The captain says the fifty large pots of olives belong to a merchant who was
+    left behind when the ship sailed.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Badoura orders a thousand pieces of gold to be paid for the olives, more than
+    the captain's suggested price of a thousand pieces of silver.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In the palace apartments of Princess Haiatelnefous, Badoura opens the jars
+    and finds the olives mixed with gold dust.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Badoura discovers her talisman in one of the jars, faints, recovers, and kisses
+    the talisman.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Badoura tells Haiatelnefous that the talisman caused her separation from her
+    husband and that she believes it will now bring about their reunion.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Badoura orders the captain to return for the merchant, placing the cargo warehouses
+    under royal seal until he brings the man back.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Camaralzaman
+  description: A prince who has been living with the gardener, misses the ship, and
+    is the owner of the jars containing gold dust and the talisman.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: the old gardener
+  description: An old man who had taken passage, becomes ill, dies, and is buried
+    by Camaralzaman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the ship's captain
+  description: Captain of the vessel carrying merchandise and the fifty pots of olives;
+    he leaves Camaralzaman behind and is later ordered by Badoura to fetch him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:11
+- id: fig:4
+  name_or_label: Princess Badoura
+  description: Princess ruling as the new king of the Ebony Island; she buys the olive
+    jars, discovers the talisman, and commands the captain to return for its owner.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:5
+  name_or_label: Princess Haiatelnefous
+  description: Badoura's friend in whose apartments the jars are opened; she and her
+    women help restore Badoura after she faints.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: sailors
+  description: They come with the captain, take the jars of olives and Camaralzaman's
+    bag, and bring the jars ashore at the Ebony Island.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: delayed separated husband
+  assigned_to:
+  - fig:1
+  basis: Camaralzaman misses the ship after burying the gardener and remains separated
+    from Princess Badoura.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+- id: role:2
+  label: owner of concealed treasure and talisman
+  assigned_to:
+  - fig:1
+  basis: The jars identified as belonging to the left-behind merchant contain gold
+    dust and Badoura's talisman.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:3
+  label: dying helper-host
+  assigned_to:
+  - fig:2
+  basis: The gardener had helped Camaralzaman, becomes fatally ill, and his death
+    delays the prince.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: carrier and compelled messenger
+  assigned_to:
+  - fig:3
+  basis: The captain transports the jars and is later ordered to return and bring
+    the merchant to Badoura.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:11
+- id: role:5
+  label: recognizing beloved
+  assigned_to:
+  - fig:4
+  basis: Badoura recognizes the talisman as connected to her separation from her husband
+    and expects it to enable reunion.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:6
+  label: royal commander
+  assigned_to:
+  - fig:4
+  basis: She uses royal authority to buy the jars and compel the captain to return
+    for the merchant.
+  evidence_refs:
+  - ev:7
+  - ev:11
+- id: role:7
+  label: confidante and attendant friend
+  assigned_to:
+  - fig:5
+  basis: Haiatelnefous is present when the jars are opened and hears Badoura's explanation
+    about the talisman.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:8
+  label: transporting assistants
+  assigned_to:
+  - fig:6
+  basis: The sailors carry the jars and baggage and later bring the pots of olives
+    from the ship.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: talisman as recognition token
+  literal_form: Princess Badoura's talisman found inside one of the olive jars
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: olive jars concealing valuables
+  literal_form: fifty large jars or pots of olives containing gold dust and the talisman
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: gold dust hidden among olives
+  literal_form: gold dust mixed with olives in the jars
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: ship as vehicle of separation and return
+  literal_form: merchant ship sailing from the Island of the Idolaters to the Ebony
+    Island and ordered to return
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:11
+- id: sym:5
+  label: garden grave
+  literal_form: grave dug in the garden for the old gardener
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Death of the gardener and missed departure
+  summary: The gardener dies before Camaralzaman can leave. Camaralzaman buries him,
+    then discovers the ship has sailed without him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Camaralzaman prepares hidden wealth for future transport
+  summary: Forced to remain behind, Camaralzaman hires the garden, engages a helper,
+    and stores more gold dust in fifty jars covered with olives.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Badoura buys the cargo of olives
+  summary: At the Ebony Island, Badoura questions the captain and buys all the olives,
+    including the jars belonging to the left-behind merchant.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Discovery of gold dust and talisman
+  summary: Badoura opens the jars with Haiatelnefous, discovers gold dust in them,
+    then finds her talisman and faints from emotion.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Command to recover the left-behind merchant
+  summary: Badoura questions the captain again and orders him to sail back for the
+    merchant, threatening confiscation and sealing the cargo warehouses until he obeys.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: lost token recovered as means of reunion
+  taxonomy_refs: []
+  basis: Badoura identifies the recovered talisman as the former cause of separation
+    and the expected means of reunion with her husband.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage states the talisman's role directly, but it does not complete
+    the reunion within this line range.
+- id: motif:2
+  label: concealed treasure discovered in humble cargo
+  taxonomy_refs: []
+  basis: Jars presented as olives are opened and found to contain gold dust and a
+    significant talisman.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage supports concealment and discovery, but not a broader taxonomy
+    assignment from the supplied motif families.
+- id: motif:3
+  label: death of helper delays hero's journey
+  taxonomy_refs:
+  - departure
+  basis: Camaralzaman is delayed from departure because he performs the gardener's
+    burial rites and consequently misses the ship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The departure motif is local and obstructed rather than a full quest departure
+    pattern.
+- id: motif:4
+  label: royal authority compels messenger to recover absent beloved
+  taxonomy_refs:
+  - return
+  basis: Badoura uses royal power to force the captain to return for the merchant
+    associated with the recovered talisman.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The return is ordered but not yet accomplished within the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6769-6794
+  quote_or_summary: The gardener worsens, is near death, murmurs his confession of
+    faith, dies, and Camaralzaman digs a grave in the garden, wraps him, and buries
+    him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 6776-6799
+  quote_or_summary: The captain and sailors come for the passenger and take the jars
+    and bag; after the burial Camaralzaman hurries to the quay and learns that the
+    ship sailed after waiting three hours.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6801-6812
+  quote_or_summary: Camaralzaman despairs at another year in a strange country, fears
+    the talisman is lost again, hires the garden, engages a lad, and puts remaining
+    gold dust into fifty jars filled up with olives.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6813-6820
+  quote_or_summary: The ship arrives at the Ebony Island; Princess Badoura, ruling
+    as the new king, sees it from the palace overlooking the harbor.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6821-6832
+  quote_or_summary: Badoura goes to the harbor, questions the captain about country,
+    voyage, passengers, and cargo, and reacts to the mention of olives by saying she
+    will take all on board.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 6833-6841
+  quote_or_summary: The captain reports that fifty very large pots of olives belong
+    to a merchant left behind because he delayed too long; Badoura says to unload
+    them anyway.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 6842-6851
+  quote_or_summary: The captain estimates the poor merchant would not be overpaid
+    by a thousand pieces of silver; Badoura orders a thousand pieces of gold to be
+    given and remitted to him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 6852-6860
+  quote_or_summary: In Haiatelnefous's apartments, Badoura has the fifty jars brought
+    in, opens one, pours olives into a dish, and finds them powdered with gold dust;
+    other jars show the same mixture.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 6861-6867
+  quote_or_summary: When Badoura's talisman is discovered in one jar, she faints;
+    after she is revived, she kisses the talisman.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: 6868-6874
+  quote_or_summary: Badoura says the talisman moved her deeply and says, "This was
+    the cause of my separation from my dear husband, and now, I am convinced, it will
+    be the means of our reunion."
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:11
+  type: summary
+  locator: 6875-6889
+  quote_or_summary: Badoura questions the captain about the merchant, orders him to
+    sail back for the man at once, threatens confiscation, and seals the warehouses
+    until the man is brought.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and mostly not mapped to taxonomy refs because the supplied motif families do
+    not closely name the passage's main recognition-token pattern. No comparison claims
+    were made because the passage itself does not support cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, taxonomy IDs, or comparative claims were added beyond what the supplied passage and available taxonomy list support.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l6769-l6889
+  passage_sha256=7f462d16a3ccd18c87de9023d41d0a779d87d7089018bdd5d1671c8af51d3e21
+

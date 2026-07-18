@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l16757-l16895
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE ADVENTURES OF CUROI SON OF DARE FOLLOW NOW / THE REPEATED WARNING OF
+    SUALTAIM / XXVII / XXVIII; lines 16757-16895
+  start: '16757'
+  end: '16895'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of glossary entries defining Irish place names, rivers,
+    mountains, divine or heroic figures, and related terms. It includes entries for
+    Scathach, Sid, Sualtaim, Tir na Sorcha, Tir Tairngire, Tuatha De Danann, and several
+    rivers and mountains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several entries identify named rivers, including Rinn, Rogne, Sas, Sinann,
+    Siuir, Tadg, Telamet, Tromma, and Umansruth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries identify named mountains or mountain ranges, including Sliab
+    Betha, Sliab Culinn, Sliab Fuait, Sliab Mis, Sliab Moduirn, Suide Lagen, and Tor
+    Breogain.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Scathach is described as an Amazon dwelling in Alba who taught Cuchulain and
+    Ferdiad warlike feats.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sencha macAilella is described as the wise counsellor and judge of the Ulstermen.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Setanta is identified as the real name of Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Sid is glossed as the terrene gods.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Sualtaim, also called Sualtach Sidech, is identified as the human father of
+    Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Tuatha De Danann are glossed as the divine tribes of Danu and the gods of
+    the Irish Olympus.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Tir na Sorcha is described as a fabled land ruled over by Manannan.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Tir Tairngire is translated as the Land of Promise.
+  category: setting
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Taltiu is described as one of the chief places of assembly and burial of the
+    Ulstermen.
+  category: setting
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Temair is identified as Tara, the seat of the High King of Ireland.
+  category: setting
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Scathach
+  description: An Amazon dwelling in Alba who taught Cuchulain and Ferdiad warlike
+    feats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Cuchulain
+  description: A heroic figure whose real name is given as Setanta and whose human
+    father is identified as Sualtaim; he is also named as a pupil of Scathach.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Ferdiad
+  description: Named as one of those taught warlike feats by Scathach.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sencha macAilella
+  description: The wise counsellor and judge of the Ulstermen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sualtaim / Sualtach Sidech
+  description: The human father of Cuchulain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Tuatha De Danann
+  description: The divine tribes of Danu, glossed as the gods of the Irish Olympus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Manannan
+  description: Named as ruler of Tir na Sorcha, a fabled land.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Uathach
+  description: One of the three women-teachers of Cuchulain and Ferdiad.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: woman teacher of martial feats
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: Scathach is said to have taught Cuchulain and Ferdiad their warlike feats;
+    Uathach is identified as one of their three women-teachers.
+  evidence_refs:
+  - ev:3
+  - ev:13
+- id: role:2
+  label: pupil in warlike feats
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Cuchulain and Ferdiad are named as those taught by Scathach.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: wise counsellor and judge
+  assigned_to:
+  - fig:4
+  basis: Sencha macAilella is directly glossed as the wise counsellor and judge of
+    the Ulstermen.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: human father
+  assigned_to:
+  - fig:5
+  basis: Sualtaim is identified as the human father of Cuchulain.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: divine collective
+  assigned_to:
+  - fig:6
+  basis: Tuatha De Danann are described as divine tribes and gods.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: ruler of fabled land
+  assigned_to:
+  - fig:7
+  basis: Manannan is named as ruling Tir na Sorcha.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Rivers and flowing waters
+  literal_form: Named rivers and streams, including Rinn, Sas, Sinann, Siuir, Tadg,
+    Telamet, Tromma, and Umansruth.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mountains and heights
+  literal_form: Named mountains, mountain ranges, or towers, including Sliab Betha,
+    Sliab Culinn, Sliab Fuait, Sliab Mis, Sliab Moduirn, Suide Lagen, and Tor Breogain.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Fabled land
+  literal_form: Tir na Sorcha, described as a fabled land ruled over by Manannan.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: Land of Promise
+  literal_form: Tir Tairngire, translated as the Land of Promise.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: Assembly and burial place
+  literal_form: Taltiu, described as one of the chief places of assembly and burial
+    of the Ulstermen.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: Royal seat
+  literal_form: Temair / Tara, described as the seat of the High King of Ireland.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes: []
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The glossary explicitly compares the Tuatha De Danann to an Olympian divine
+    collective by calling them the gods of the Irish Olympus.
+  claim_level: same_function
+  target: Olympian-style divine pantheon
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a translator's glossary comparison, not a narrative parallel
+    within the epic episode itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16757-16895; glossary entries for rivers and streams
+  quote_or_summary: Entries identify multiple named rivers or streams, such as Rinn,
+    Sas, Sinann, Siuir, Tadg, Telamet, Tromma, and Umansruth.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16757-16895; glossary entries for mountains and heights
+  quote_or_summary: Entries identify several mountains, mountain ranges, or heights,
+    including Sliab Betha, Sliab Culinn, Sliab Fuait, Sliab Mis, Sliab Moduirn, Suide
+    Lagen, and Tor Breogain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 16757-16895; entry 'Scathach'
+  quote_or_summary: Scathach is described as the Amazon dwelling in Alba who taught
+    Cuchulain and Ferdiad their warlike feats.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:4
+  type: quote
+  locator: lines 16757-16895; entry 'Sencha macAilella'
+  quote_or_summary: Sencha macAilella is described as the wise counsellor and judge
+    of the Ulstermen.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:5
+  type: quote
+  locator: lines 16757-16895; entry 'Setanta'
+  quote_or_summary: Setanta is identified as the real name of Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:6
+  type: quote
+  locator: lines 16757-16895; entry 'Sid'
+  quote_or_summary: Sid is glossed as the terrene gods.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:7
+  type: quote
+  locator: lines 16757-16895; entry 'Sualtaim / Sualtach Sidech'
+  quote_or_summary: Sualtaim or Sualtach Sidech is identified as the human father
+    of Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:8
+  type: quote
+  locator: lines 16757-16895; entry 'Tuatha De Danann'
+  quote_or_summary: Tuatha De Danann are glossed as the divine tribes of Danu and
+    the gods of the Irish Olympus.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:9
+  type: quote
+  locator: lines 16757-16895; entry 'Tir na Sorcha'
+  quote_or_summary: Tir na Sorcha is described as a fabled land ruled over by Manannan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:10
+  type: quote
+  locator: lines 16757-16895; entry 'Tir Tairngire'
+  quote_or_summary: Tir Tairngire is translated as the Land of Promise.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:11
+  type: quote
+  locator: lines 16757-16895; entry 'Taltiu'
+  quote_or_summary: Taltiu is described as one of the chief places of assembly and
+    burial of the Ulstermen.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:12
+  type: quote
+  locator: lines 16757-16895; entry 'Temair'
+  quote_or_summary: Temair is identified as Tara, the seat of the High King of Ireland.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:13
+  type: quote
+  locator: lines 16757-16895; entry 'Uathach'
+  quote_or_summary: Uathach is identified as one of the three women-teachers of Cuchulain
+    and Ferdiad.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The supplied text is a glossary passage with clear definitions but no narrative
+    sequence. Motif extraction is therefore minimal; the single comparison claim is
+    based only on the glossary's own wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate narrative motifs were extracted because the passage contains glossary definitions rather than an episode or mythic action sequence.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l16757-l16895
+  passage_sha256=f3003f528cc368e8ddfa20acc732c81cd794fd989620cd7bd6a8bcf7b2ca509c
+

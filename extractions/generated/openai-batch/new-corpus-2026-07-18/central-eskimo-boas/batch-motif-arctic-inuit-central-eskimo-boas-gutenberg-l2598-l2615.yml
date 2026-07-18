@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l2598-l2615
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: DISTRIBUTION OF THE TRIBES. / GENERAL OBSERVATIONS. / BAFFIN LAND. / WESTERN
+    SHORE OF HUDSON BAY.; lines 2598-2615
+  start: '2598'
+  end: '2615'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: In March they leave for the sea in order to hunt seals and to secure a fresh
+    supply of blubber for their lamps.
+  summary: The passage discusses a discrepancy in naming Pelly Bay people and Sinimiut,
+    explains it through Aivillirmiut settlement and kin relations, locates Sini near
+    Cape Behrens, and describes Sinimiut wintering, hunting, fishing, stored provisions,
+    and a March movement to the sea for seal hunting and lamp blubber.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Nourse’s extract from Hall’s journal is said to contain inconsistent references
+    to whether Pelly Bay natives are distinct from the Sinimiut or included under
+    that name.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author explains the naming discrepancy by saying that some Aivillirmiut
+    had settled in Pelly Bay and others were related to local natives; Nourse calls
+    the latter Pelly Bay men and the rest Sinimiut.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sini is located, according to Hall’s statement, near Cape Behrens on the northwestern
+    shore of the bay.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Winter huts of the Sinimiut had been found four times on the lakes of the
+    isthmus of Simpson Peninsula.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author supposes that the Sinimiut generally spend winter on the lakes
+    of the isthmus, using stores deposited in the preceding season and occasionally
+    angling for trout and salmon or killing a musk ox.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In March the Sinimiut leave for the sea to hunt seals and obtain fresh blubber
+    for their lamps.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that musk ox is their chief subsistence, while salmon are
+    caught in large numbers and dried fish is eaten until spring.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nourse
+  description: Person associated with an extract from Hall’s journal and with terminology
+    distinguishing Pelly Bay men from Sinimiut.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hall
+  description: Journal source cited for information about Pelly Bay terminology and
+    the location of Sini.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Pelly Bay natives / Pelly Bay men
+  description: People referred to in the naming discrepancy concerning whether they
+    are distinct from or included among the Sinimiut.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sinimiut
+  description: Group described as wintering on the lakes of the isthmus of Simpson
+    Peninsula and moving to the sea in March for seal hunting and blubber.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Aivillirmiut
+  description: Group said to have partly settled in Pelly Bay, with some others related
+    to natives of that locality.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: cited textual source or commentator
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Nourse’s extract from Hall’s journal and Hall’s statement are cited in the
+    passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: named population group
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage discusses Pelly Bay natives, Sinimiut, and Aivillirmiut as named
+    groups in relation to Pelly Bay and Sini.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: seasonal hunters and fishers
+  assigned_to:
+  - fig:4
+  basis: The Sinimiut are described as wintering inland, fishing, hunting musk ox
+    and seals, and relying on musk ox and salmon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: winter huts
+  literal_form: Winter huts of the Sinimiut on lakes of the isthmus of Simpson Peninsula.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lakes of the isthmus
+  literal_form: Lakes on the isthmus of Simpson Peninsula used as the inferred wintering
+    area.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sea
+  literal_form: The sea as the March destination for seal hunting.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: blubber and lamps
+  literal_form: Fresh blubber secured for lamps.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: musk ox
+  literal_form: Musk ox hunted occasionally and described as chief subsistence.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: salmon, trout, and dried fish
+  literal_form: Trout and salmon angled or caught; dried fish eaten until spring.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Explanation of Pelly Bay and Sinimiut naming
+  summary: The passage reports an inconsistency in Nourse’s use of Pelly Bay natives
+    and Sinimiut, then explains it through Aivillirmiut settlement and kin relations
+    in Pelly Bay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Location of Sini
+  summary: Hall’s statement places Sini near Cape Behrens on the northwestern shore
+    of the bay.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wintering on the lakes of Simpson Peninsula
+  summary: The Sinimiut are inferred to winter on lakes of the isthmus, using stored
+    provisions and occasionally fishing or hunting musk ox.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: March movement to the sea
+  summary: In March the Sinimiut leave for the sea to hunt seals and obtain blubber
+    for lamps.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Subsistence until spring
+  summary: The passage identifies musk ox as chief subsistence and says salmon are
+    caught in large numbers, with dried fish eaten until spring.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal subsistence movement between inland wintering and sea hunting
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes wintering on inland lakes, stored provisions from a
+    preceding season, a March departure to the sea for seal hunting and lamp blubber,
+    and dried fish eaten until spring.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic subsistence pattern rather than a mythic narrative
+    episode; the taxonomy link is limited to the literal seasonal-cycle pattern.
+comparison_claims:
+- id: claim:1
+  claim: The described annual movement and subsistence sequence can be compared functionally
+    to a seasonal-cycle pattern.
+  claim_level: same_function
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not present a mythic story, ritual symbolism, or a
+    cross-traditional comparison; the claim is only about a literal seasonal pattern.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2598-2605
+  quote_or_summary: The passage notes a discrepancy in Nourse’s extract from Hall’s
+    journal about whether Pelly Bay natives are distinct from or included among Sinimiut,
+    and explains it through Aivillirmiut settlement and kin relations.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 2605-2607
+  quote_or_summary: Hall’s statement locates Sini near Cape Behrens on the northwestern
+    shore of the bay.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 2608-2612
+  quote_or_summary: Sinimiut winter huts have been found on the lakes of the isthmus
+    of Simpson Peninsula; the author infers winter residence there with stored provisions,
+    angling for trout and salmon, and occasional musk ox hunting.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: lines 2612-2614
+  quote_or_summary: In March they leave for the sea to hunt seals and obtain fresh
+    blubber for their lamps.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short quote/excerpt from public domain text.
+- id: ev:5
+  type: summary
+  locator: lines 2614-2615
+  quote_or_summary: Their chief subsistence is musk ox; salmon are caught in great
+    numbers, and dried fish is eaten until spring.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ethnographic details are clear. Motif classification is limited because
+    the passage is not a mythic narrative and contains no explicit symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic figures, divine actors, ritual episode, or explicit cross-cultural comparison appears in the supplied passage. Extracted pattern is primarily ethnographic and seasonal.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l2598-l2615
+  passage_sha256=aa97fe871471edc2cb518304a5bedce791c145496e716ab9094c1df351f0bf9d
+

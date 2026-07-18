@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l8688-l8711
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: FEASTS, RELIGIOUS AND SECULAR. / CUSTOMS AND REGULATIONS CONCERNING BIRTH,
+    SICKNESS, AND DEATH. / TALES AND TRADITIONS. / ITITAUJANG.; lines 8688-8711
+  start: '8688'
+  end: '8711'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: the backbone became a kayak, and away he went over the lake
+  summary: Ititaujang crosses a lake by means of a backbone that becomes a kayak while
+    his eyes are shut. After reaching an island, he finds a hut where his son, wife,
+    and her new husband are present. A box is opened, feathers attach to the woman,
+    the new husband, and the child, and they become geese. The hut disappears; Ititaujang
+    cuts open his wife’s belly, and many eggs fall down.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ititaujang shuts his eyes, and a backbone becomes a kayak that carries him
+    over the lake.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When Ititaujang briefly opens his eyes, the kayak swings violently and becomes
+    a backbone again; after he shuts his eyes, the boat goes steadily on.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ititaujang lands on an island where he sees a hut and his son playing near
+    it on the beach.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boy repeatedly tells his mother that his father is coming, while the mother
+    says the father is far away and cannot find them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After Ititaujang opens the door, the new husband tells the wife to open a
+    box in the corner of the hut.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Many feathers fly out of the box and stick to the woman, the new husband,
+    and the child, who are transformed again into geese.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The hut disappears, and Ititaujang cuts open his wife’s belly before she can
+    fly away; many eggs fall down.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ititaujang
+  description: Named man who travels over the lake, reaches the island hut, and cuts
+    open his wife’s belly before she escapes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the boy / son / child
+  description: Ititaujang’s son, seen playing near the hut, who reports his father’s
+    approach to his mother and is later transformed into a goose.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the woman / mother / wife
+  description: The boy’s mother and Ititaujang’s wife; she opens the box, is transformed
+    into a goose, and is cut open by Ititaujang.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the new husband
+  description: The woman’s new husband, who tells her to open the box and is transformed
+    into a goose.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: magically transported traveler
+  assigned_to:
+  - fig:1
+  basis: Ititaujang crosses the lake in a backbone that becomes a kayak when his eyes
+    are shut.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father and husband
+  assigned_to:
+  - fig:1
+  basis: The child calls him father, and the woman is later called his wife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: child messenger
+  assigned_to:
+  - fig:2
+  basis: The boy repeatedly tells his mother that his father is approaching the hut.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mother and wife
+  assigned_to:
+  - fig:3
+  basis: She is addressed as mother by the boy and identified as Ititaujang’s wife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: goose-transformed figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The woman, her new husband, and the child are transformed again into geese
+    after feathers from the box stick to them.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: director of box-opening
+  assigned_to:
+  - fig:4
+  basis: The new husband tells his wife to open the box in the corner of the hut.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: backbone-kayak
+  literal_form: A backbone that becomes a kayak and reverts to a backbone when Ititaujang
+    opens his eyes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lake water
+  literal_form: The lake crossed by Ititaujang in the transformed kayak.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: island hut
+  literal_form: A hut on the island near the beach, later disappearing after the goose
+    transformation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: box with feathers
+  literal_form: A box in the corner of the hut from which many feathers fly out and
+    stick to the occupants.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: geese
+  literal_form: The animal form taken again by the woman, her new husband, and the
+    child.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: eggs
+  literal_form: Many eggs that fall down after Ititaujang cuts open his wife’s belly.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Closed-eye crossing over the lake
+  summary: Ititaujang travels over the lake in a backbone that becomes a kayak while
+    his eyes are shut; opening his eyes disrupts the transformation, and shutting
+    them restores the crossing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at the island hut
+  summary: Ititaujang reaches the island and approaches the hut. His son repeatedly
+    tells his mother that his father is coming, but she initially denies that he can
+    find them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Feather box and goose transformation
+  summary: The new husband has the wife open a box; feathers fly out and transform
+    the woman, new husband, and child into geese. The hut disappears, and Ititaujang
+    cuts open his wife’s belly, causing many eggs to fall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Closed-eye magical transit over water
+  taxonomy_refs: []
+  basis: The passage links Ititaujang’s successful water crossing to keeping his eyes
+    shut; a brief look causes the kayak to revert toward a backbone, while shutting
+    his eyes restores the journey.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The prior command is only indirectly present in this excerpt through the
+    statement that Ititaujang promised to obey.
+- id: motif:2
+  label: Object transformation into conveyance
+  taxonomy_refs: []
+  basis: A backbone becomes a kayak and carries Ititaujang across the lake, then becomes
+    a backbone again when the condition is broken.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the origin of the backbone or the agent causing
+    the transformation.
+- id: motif:3
+  label: Human-to-bird transformation through feathers
+  taxonomy_refs:
+  - shapeshifter
+  basis: Feathers fly from a box, stick to the woman, new husband, and child, and
+    they are transformed again into geese.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The word “again” indicates prior transformation outside this excerpt,
+    but only the present transformation is extracted here.
+- id: motif:4
+  label: Eggs revealed from avian-transformed wife
+  taxonomy_refs: []
+  basis: After the wife has been transformed into a goose and is cut open before escaping,
+    many eggs fall down.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt reports the event but does not state the eggs’ meaning or
+    consequence.
+comparison_claims:
+- id: claim:1
+  claim: The explicit transformation of people into geese supports a cautious comparison
+    with the shapeshifter motif family at the level of recurring transformation imagery.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level motif comparison only; the passage gives no
+    evidence for historical contact, diffusion, or broader distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8688-8696
+  quote_or_summary: Ititaujang shuts his eyes; a backbone becomes a kayak and carries
+    him over the lake. When he briefly opens his eyes, the kayak swings and becomes
+    a backbone again; shutting his eyes allows him to land on the island.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8697-8705
+  quote_or_summary: On the island, Ititaujang sees a hut and his son playing nearby.
+    The son repeatedly tells his mother that his father is coming, while she answers
+    that the father is far away and cannot find them.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8706-8711
+  quote_or_summary: Ititaujang opens the door. The new husband tells the wife to open
+    a box; feathers fly out and stick to the woman, new husband, and child, transforming
+    them into geese. The hut disappears; Ititaujang cuts open his wife’s belly, and
+    many eggs fall down.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events are explicit in the passage. Motif labels are cautious, especially
+    where the larger narrative context is outside the line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No historical-contact or diffusion claim is made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l8688-l8711
+  passage_sha256=d3185a9324a8cff4aac511058aedcaf3e02ed54c35a3e15043d2d91d4c0b3fdf
+

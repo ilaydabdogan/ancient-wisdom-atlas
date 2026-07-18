@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l17803-l17886
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 17803-17886
+  start: '17803'
+  end: '17886'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“He who cuts wood for reels shall die, / And he who winds, shall perish.”"
+  summary: 'An idle wife avoids spinning-related work by deceiving her husband: first
+    she hides in the forest and repeats a fatal warning about cutting wood for reels,
+    and later she substitutes tow for yarn in a kettle and makes him believe he has
+    neglected it. A new tale begins with a poor father sending his four grown sons
+    into the world to learn trades; the brothers depart together, reach a four-way
+    cross-road, separate, and agree to reunite there after four years.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wife is described as idle and unwilling to complete spinning or winding;
+    spun yarn lies entangled in a heap.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The husband agrees to go into the forest to get wood for making reels after
+    the wife says she has no reel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wife secretly follows her husband into the forest, hides below while he
+    is in a tree, and cries a warning that anyone cutting wood for reels or winding
+    will die or perish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The husband hears the warning three times, becomes afraid, descends the tree,
+    and returns home without the wood.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The wife returns home first, appears innocent, asks about the reel wood, and
+    the husband thereafter leaves her in peace about winding.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the husband later complains about the tangled yarn, the wife proposes
+    making a skein by throwing yarn between the loft and the space below.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the yarn is made into skeins, the husband says it must be boiled, and
+    the wife secretly plans another trick.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wife lights a fire, sets a kettle on it, puts a lump of tow in place of
+    yarn, and tells the husband to watch the yarn lest it become tow if the cock crows
+    while unattended.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The husband sees tow in the kettle, believes he has neglected the yarn and
+    is to blame, and stops speaking about yarn and spinning.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A poor man with four grown sons sends them out into the world because he has
+    nothing to give them and tells them to learn a trade.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The four brothers take sticks, say farewell to their father, leave through
+    the town-gate, reach a cross-way with four directions, separate, and agree to
+    meet there again after four years.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: idle wife
+  description: A wife described as idle, evasive about spinning and winding, and later
+    called odious by the narrator.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: husband
+  description: The man who wants his wife to wind, skein, and boil the yarn, and who
+    is deceived by her forest warning and kettle trick.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: poor father
+  description: A poor man who has four sons and sends them into the world to learn
+    trades.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: four brothers
+  description: Four grown sons who depart together from their father and later separate
+    at a cross-way.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: eldest brother
+  description: The eldest of the four brothers, who says they must separate and meet
+    again at the same place after four years.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: deceptive avoider of work
+  assigned_to:
+  - fig:1
+  basis: The wife hides in the forest to create a false fatal warning, later substitutes
+    tow for yarn, and uses both acts to avoid winding or further spinning work.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: deceived domestic enforcer
+  assigned_to:
+  - fig:2
+  basis: The husband presses for winding and boiling the yarn but is frightened by
+    the hidden warning and later blames himself for the tow in the kettle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: sending father
+  assigned_to:
+  - fig:3
+  basis: The poor father instructs his grown sons to leave home, learn trades, and
+    make their way.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: departing sons
+  assigned_to:
+  - fig:4
+  basis: The brothers leave through the town-gate together, then separate at the cross-way
+    to seek their fortunes.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: reunion proposer
+  assigned_to:
+  - fig:5
+  basis: The eldest brother proposes separation and a fixed reunion at the same place
+    after four years.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: yarn and reel
+  literal_form: Spun yarn, entangled yarn, winding, skeins, and a reel or wood for
+    reels.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: forest tree
+  literal_form: A tree in the forest that the husband climbs to choose and cut wood
+    for reels.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: repeated death warning
+  literal_form: The spoken refrain warning that the one who cuts wood for reels shall
+    die and the one who winds shall perish.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire and kettle
+  literal_form: A fire is lit and a kettle is placed on it for the supposed boiling
+    of yarn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: tow substituted for yarn
+  literal_form: A lump of tow placed in the kettle instead of yarn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: town-gate and cross-way
+  literal_form: The brothers leave through the town-gate and come to a cross-way branching
+    in four directions.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: number four
+  literal_form: Four sons, four brothers, four directions at the cross-way, and a
+    reunion after four years.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: forest warning trick
+  summary: The wife follows her husband into the forest, hides while he climbs a tree
+    to cut wood for reels, and repeats a fatal warning until he abandons the task
+    and returns home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: innocent appearance at home
+  summary: The wife reaches home first, pretends innocence, asks whether the husband
+    has brought reel wood, and he reports the forest event and stops pressing the
+    matter for a time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: skein made without a reel
+  summary: After renewed complaint about tangled yarn, the wife has the husband stand
+    in the loft while she stands below; they throw yarn back and forth to make a skein.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: tow in the kettle
+  summary: The wife stages the boiling of yarn by putting tow in a kettle over the
+    fire and telling her husband that unattended yarn may become tow; he sees the
+    tow and blames himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: father sends sons out
+  summary: At the beginning of the next tale, a poor father tells his four grown sons
+    to go into the world, learn trades, and make their way.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: cross-way separation pact
+  summary: The four brothers depart together, reach a cross-way with four directions,
+    and the eldest proposes that they separate and meet there again after four years.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: deceptive avoidance of domestic textile labor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: 'The wife repeatedly uses deceptive acts to avoid winding, spinning-related
+    work, and boiling yarn: a hidden forest warning and a tow substitution in the
+    kettle.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage presents a human domestic
+    deception rather than an explicitly mythic trickster figure.
+- id: motif:2
+  label: fabricated ominous taboo against a task
+  taxonomy_refs: []
+  basis: A hidden speaker repeats a death warning about cutting wood for reels and
+    winding, causing the husband to abandon the task.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The warning is fabricated within the plot; no actual supernatural source
+    is stated.
+- id: motif:3
+  label: substitution trick blamed on the victim
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wife substitutes tow for yarn, gives a condition about the cock crowing
+    and attendance, and the husband interprets the tow as proof of his own neglect.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The trickster-boundary taxonomy is approximate; the passage does not name
+    the wife as a trickster.
+- id: motif:4
+  label: sons depart to seek trades and fortune
+  taxonomy_refs:
+  - departure
+  basis: The poor father sends his four grown sons away to learn trades and make their
+    way in the world.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: Only the departure is included in this passage; later achievements are
+    outside the provided text.
+- id: motif:5
+  label: crossroads separation with fixed reunion
+  taxonomy_refs:
+  - departure
+  basis: The brothers arrive at a cross-way branching four ways, separate, and agree
+    to meet at the same spot after four years.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The reunion is only planned in the supplied passage, not narrated here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17803-17810
+  quote_or_summary: The wife is described as idle; she does not finish spinning or
+    winding, leaves yarn entangled, says she has no reel, and the husband agrees to
+    get wood for reels in the forest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 17811-17836
+  quote_or_summary: 'The wife secretly follows him, hides below the tree, and three
+    times cries: “He who cuts wood for reels shall die, / And he who winds, shall
+    perish.”'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: 17838-17845
+  quote_or_summary: After the third warning, the husband descends the tree and goes
+    home; the wife returns first, feigns innocence, asks about the wood for reels,
+    and he says winding will not do.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17846-17855
+  quote_or_summary: When the husband later complains about the tangled yarn, the wife
+    suggests throwing yarn up and down between the loft and below to make a skein;
+    after this, he says the yarn must be boiled, and she plans another trick.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 17857-17864
+  quote_or_summary: The wife lights a fire, puts a kettle on it, places tow inside
+    instead of yarn, and tells the husband to watch the yarn in the kettle because
+    it will become tow if the cock crows while he is not attending it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 17865-17869
+  quote_or_summary: The husband looks into the kettle, sees only tow, thinks he has
+    neglected the yarn and is to blame, and afterward says no more about yarn and
+    spinning; the narrator calls the wife odious.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 17871-17877
+  quote_or_summary: 'The next tale begins: a poor man with four grown sons tells them
+    to go into the world, learn a trade, and make their way because he has nothing
+    to give them.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 17877-17886
+  quote_or_summary: The four brothers take sticks, bid farewell to their father, leave
+    through the town-gate, reach a cross-way branching in four directions, and the
+    eldest proposes separation and reunion there after four years.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is direct narrative. Motif
+    labels involving deception and departure are supported, but taxonomy alignment
+    is limited by the available motif list. No comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage spans the end of one tale about an idle wife and the beginning of tale 129, “The Four Skilful Brothers.”
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l17803-l17886
+  passage_sha256=535acdbd4c98f3d3cef700618efdfeb810fce98cfd3e7c9a41fb6334d31b1ac0
+

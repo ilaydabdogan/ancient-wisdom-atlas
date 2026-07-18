@@ -1,0 +1,91 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l287-l292
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF THE / LIFE OF GEORGE SALE. / R. A. DAVENPORT. / INTRODUCTION; lines 287-292
+  start: '287'
+  end: '292'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains an attribution/name, a note identifying the 1891 version,
+    and an introductory heading.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The name R. A. Davenport appears as a standalone line.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bracketed note states that the text is from the 1891 version.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The word INTRODUCTION appears as a heading.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: R. A. Davenport
+  description: A named person appearing as a standalone line in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named person in heading or attribution
+  assigned_to:
+  - fig:1
+  basis: The name appears alone before the introductory heading.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 287
+  quote_or_summary: R. A. DAVENPORT.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: line 289
+  quote_or_summary: "[from 1891 version]"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: line 291
+  quote_or_summary: INTRODUCTION
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an editorial heading with no mythological narrative, symbols,
+    motifs, or comparison claims present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or symbols were extracted because the passage contains only heading and version information.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l287-l292
+  passage_sha256=13736b3b60ed160f87e12a553aeea7f192eb4c774ca06bf735de955ac9e0bd59
+

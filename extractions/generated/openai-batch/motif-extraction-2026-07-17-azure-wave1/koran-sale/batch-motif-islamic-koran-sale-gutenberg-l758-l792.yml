@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l758-l792
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CONTENTS. / A TABLE / OF THE / SECTIONS OF THE PRELIMINARY DISCOURSE; lines
+    758-792
+  start: '758'
+  end: '792'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table of contents lists eight sections of the Preliminary Discourse,
+    including topics on Arabs before Mohammed, Christianity, Judaism, the Korn as
+    a book, doctrines and precepts, civil institutions, sacred months, Friday service
+    of God, Mohammedan sects, and prophecy claimants among Arabs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies itself as a table of the sections of the Preliminary
+    Discourse.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Section I concerns the Arabs before Mohammed, described as being in the Time
+    of Ignorance, and their history, religion, learning, and customs.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Section II concerns Christianity, especially the Eastern Churches, Judaism
+    at Mohammed's appearance, and methods taken by Mohammed for establishing his religion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sections III through VI concern the Korn as a book, its writing and publication,
+    its design, doctrines, positive and negative precepts, and civil institutions.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Section VII concerns months commanded by the Korn to be kept sacred and Friday
+    set apart for the especial service of God.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Section VIII concerns principal sects among the Mohammedans and persons said
+    to have pretended to prophecy among the Arabs in or since Mohammed's time.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Arabs
+  description: A people discussed before Mohammed and also named in relation to prophecy
+    claimants in or since Mohammed's time.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Mohammed
+  description: Named as a temporal marker and as the person whose methods for establishing
+    his religion are a topic of the discourse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Christianity and the Eastern Churches
+  description: Religious tradition and churches whose state at Mohammed's appearance
+    is listed as a topic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Judaism
+  description: Religious tradition whose state at Mohammed's appearance is listed
+    as a topic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mohammedans
+  description: Religious group whose principal sects are listed as a topic.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Those who have pretended to Prophecy among the Arabs
+  description: A group described in the table heading as prophecy claimants among
+    the Arabs in or since Mohammed's time.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: God
+  description: Named as the recipient of especial service on Friday.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: people under historical and religious discussion
+  assigned_to:
+  - fig:1
+  basis: Section I names the Arabs before Mohammed as a subject of history, religion,
+    learning, and customs; Section VIII again places prophecy claimants among the
+    Arabs.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: religion-establishing figure
+  assigned_to:
+  - fig:2
+  basis: Section II refers to methods taken by Mohammed for establishing his religion.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: religious traditions under contextual discussion
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Section II lists the state of Christianity, the Eastern Churches, and Judaism
+    at Mohammed's appearance.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: sectarian group under discussion
+  assigned_to:
+  - fig:5
+  basis: Section VIII lists the principal sects among the Mohammedans as a topic.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: prophecy claimants
+  assigned_to:
+  - fig:6
+  basis: Section VIII names those who have pretended to prophecy among the Arabs.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: recipient of Friday service
+  assigned_to:
+  - fig:7
+  basis: Section VII says Friday is set apart for the especial service of God.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Korn as religious book
+  literal_form: The Korn, described as a book with peculiarities, writing, publication,
+    general design, doctrines, precepts, and institutions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sacred months
+  literal_form: Months commanded by the Korn to be kept sacred.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Friday service
+  literal_form: Friday set apart for the especial service of God.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sacred calendar observance
+  taxonomy_refs: []
+  basis: The table lists sacred months and Friday as set apart for service of God.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is only a table-of-contents heading; it gives no ritual episode or
+    mythic narrative details.
+- id: motif:2
+  label: sacred book as source of doctrine and law
+  taxonomy_refs: []
+  basis: The table lists the Korn as a book with doctrines, positive and negative
+    precepts, religious duties, and civil institutions.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage summarizes section topics and does not provide the contents
+    of the doctrines or laws.
+- id: motif:3
+  label: prophecy claimants within a religious-historical setting
+  taxonomy_refs: []
+  basis: The table lists those who have pretended to prophecy among the Arabs in or
+    since the time of Mohammed.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The heading gives no narrative, named claimant, event, or doctrinal content.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 758-770
+  quote_or_summary: '"A TABLE ... OF THE ... SECTIONS OF THE PRELIMINARY DISCOURSE"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 771-772
+  quote_or_summary: '"Of the Arabs before Mohammed ... in the Time of Ignorance; their
+    History, Religion, Learning, and Customs"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 773-776
+  quote_or_summary: Section II treats Christianity, especially the Eastern Churches,
+    Judaism at Mohammed's appearance, and methods taken by Mohammed to establish his
+    religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 777-784
+  quote_or_summary: Sections III through VI concern the Korn as a book, its writing
+    and publication, general design, doctrines, positive and negative precepts, religious
+    duties, and civil institutions.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 785-787
+  quote_or_summary: '"Months commanded by the Korn to be kept Sacred" and "Friday
+    for the especial service of God"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 788-792
+  quote_or_summary: '"principal Sects among the Mohammedans" and those who "pretended
+    to Prophecy among the Arabs, in or since the time of Mohammed"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but the passage is a contents table
+    rather than a narrative passage. Candidate motifs are topic-level patterns only.
+    No comparison claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage spells the scripture title in the table entries as "Korn". No available taxonomy motif family or symbol reference is directly supported by this table-of-contents excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l758-l792
+  passage_sha256=393639414e6a8119c605d2cc9c04c51dde1f211c38d6f21fe2212c5c1340f160
+

@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1079-l1154
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 1079-1154
+  start: '1079'
+  end: '1154'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: It was Homer who formed the character of the Greek nation.
+  summary: The passage praises Homer as the formative poet of Greece, imagines his
+    immortal spirit viewing later nations drawn to his poetic source, refers to the
+    Apotheosis of Homer, and summarizes Coleridge's account of the Battle of the Frogs
+    and Mice as a mock-heroic parody of the Iliad with uncertain authorship and date.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Homer formed the character of the Greek nation and
+    contrasts this with prophets, lawgivers, and sages forming other nations.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Homer is said to have held up a mirror before his nation, showing gods, heroes,
+    and mortals reflected with purity and truth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Homer's poems are founded on love of children, wife, country,
+    and glory.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage imagines Homer's immortal spirit in another heaven looking down
+    on humanity and seeing nations perform pilgrimages to a fountain caused to flow
+    by his magic wand.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage refers to an ancient monument depicting the Apotheosis of Homer
+    and calls Homer the Father of Poetry.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Battle of the Frogs and Mice is introduced as a poem not included in Pope's
+    translation and then described by Coleridge as a short ancient mock-heroic work.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The text of the Battle of the Frogs and Mice is described as varying between
+    editions and as disturbed and corrupt; its authorship is reported as uncertain,
+    with attributions to Homer or Pigrees.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Coleridge describes the Battle of the Frogs and Mice as a plain parody of
+    the general spirit and numerous passages of the Iliad, containing ridicule of
+    war and the gods.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage reports arguments against an ancient Homeric date for the Battle
+    of the Frogs and Mice, including its burlesque character, other similar poems
+    attributed to Homer, the word for writing tablet, and mention of the cock.
+  category: other
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: The poet described as forming the character of the Greek nation, as
+    Father of Poetry, and as an imagined immortal spirit.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Greek nation
+  description: The nation whose character the passage says was formed by Homer and
+    before whom he held up a poetic mirror.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: gods, heroes, and mortals
+  description: The classes of beings reflected in the poetic mirror held before the
+    nation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: nations from Asia to Hercynia
+  description: Later peoples imagined as making pilgrimages to the fountain produced
+    by Homer's magic wand.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Coleridge
+  description: The cited writer who provides the account of the Battle of the Frogs
+    and Mice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: frogs and mice
+  description: The titular animal groups of the Battle of the Frogs and Mice.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Pigrees
+  description: A figure mentioned as an alternative person to whom the Battle of the
+    Frogs and Mice has been attributed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: national culture-forming poet
+  assigned_to:
+  - fig:1
+  basis: The passage says Homer formed the character of the Greek nation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: apotheosized or immortal poetic figure
+  assigned_to:
+  - fig:1
+  basis: The passage imagines Homer's immortal spirit in another heaven and refers
+    to the Apotheosis of Homer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: formed national audience
+  assigned_to:
+  - fig:2
+  basis: The Greek nation is described as formed by Homer and as viewing his mirror
+    of gods, heroes, and mortals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: reflected poetic subjects
+  assigned_to:
+  - fig:3
+  basis: Gods, heroes, and mortals are named as what the nation beholds in Homer's
+    mirror.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: pilgrims to poetic source
+  assigned_to:
+  - fig:4
+  basis: The nations are imagined as performing pilgrimages to the fountain caused
+    by Homer's wand.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: cited commentator
+  assigned_to:
+  - fig:5
+  basis: Coleridge is named as the writer whose account of the Battle of the Frogs
+    and Mice is summarized.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: attributed author candidate
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The passage reports attributions of the Battle of the Frogs and Mice to Homer
+    and to Pigrees.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: titular mock-heroic combatant groups
+  assigned_to:
+  - fig:6
+  basis: The poem's title names frogs and mice, and the poem is described as mock-heroic.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: poetic mirror
+  literal_form: mirror
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: miraculous poetic fountain
+  literal_form: fountain caused to flow
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: magic wand
+  literal_form: magic wand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Apotheosis monument
+  literal_form: ancient monument depicting the Apotheosis of Homer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: treasury of taste and eloquence
+  literal_form: treasury
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Homer forms and reflects Greece
+  summary: Homer is described as forming the Greek nation and presenting it with a
+    mirror of gods, heroes, and mortals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Immortal Homer and the fountain of later pilgrimage
+  summary: The prose imagines Homer's immortal spirit in another heaven seeing later
+    nations make pilgrimages to a fountain produced by his magic wand and seeing later
+    works called into being through his songs.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Apotheosis and poetic inheritance
+  summary: The passage asks readers to contemplate the ancient monument of the Apotheosis
+    of Homer and urges gratitude for the inherited treasury of taste and eloquence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Coleridge on the Battle of the Frogs and Mice
+  summary: Coleridge's account presents the Battle of the Frogs and Mice as a short
+    mock-heroic poem, textually corrupt, uncertain in authorship, and parodic of the
+    Iliad.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: poet as culture-forming figure
+  taxonomy_refs:
+  - culture_hero
+  basis: Homer is explicitly described as forming the character of the Greek nation,
+    a function compared to national formation by prophets, lawgivers, and sages elsewhere.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is literary criticism and encomium, not a mythic narrative
+    episode.
+- id: motif:2
+  label: apotheosized poet in heaven
+  taxonomy_refs:
+  - ascent
+  basis: The passage imagines Homer's immortal spirit in another heaven and refers
+    to the Apotheosis of Homer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No actual ascent narrative is given; apotheosis is referenced as a monument
+    and as a rhetorical image.
+- id: motif:3
+  label: pilgrimage to a miraculous poetic fountain
+  taxonomy_refs: []
+  basis: Nations are imagined as performing pilgrimages to a fountain caused to flow
+    by Homer's magic wand.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The fountain and wand are metaphorical images in a critical preface rather
+    than elements of a mythic plot.
+- id: motif:4
+  label: mock-heroic animal battle parodying epic war
+  taxonomy_refs: []
+  basis: The Battle of the Frogs and Mice is described as a mock-heroic poem and as
+    a parody of the Iliad that ridicules war and the gods.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage summarizes the poem rather than presenting its narrative details.
+comparison_claims:
+- id: claim:1
+  claim: Homer is assigned the same broad culture-forming function that the passage
+    says prophets, lawgivers, and sages performed for other nations.
+  claim_level: same_function
+  target: prophets, lawgivers, and sages as national formers
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The other nations and figures are not named, and the comparison is
+    rhetorical.
+- id: claim:2
+  claim: The Battle of the Frogs and Mice is said to rework the Iliad in a parodic
+    mode, not only in general epic spirit but also through numerous Iliadic passages.
+  claim_level: same_motif
+  target: the Iliad's heroic war and divine-action patterns
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports Coleridge's judgment and does not quote the parodied
+    passages.
+- id: claim:3
+  claim: The Battle of the Frogs and Mice is grouped with three other poems of the
+    same kind that were also attributed to Homer.
+  claim_level: same_function
+  target: three other unnamed mock-heroic or burlesque poems attributed to Homer
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name the three poems or describe their contents.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1079-1086
+  quote_or_summary: '"It was Homer who formed the character of the Greek nation";
+    prophets, lawgivers, and sages are said to have formed other nations.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1087-1089
+  quote_or_summary: Homer "held up before his nation the mirror" in which they beheld
+    "the world of gods and heroes" and mortals.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 1089-1094
+  quote_or_summary: The passage says Homer's poems rest on love of children, wife,
+    country, and glory, and that his songs sympathize with human feeling.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1095-1102
+  quote_or_summary: The passage imagines Homer's immortal spirit in another heaven
+    looking down on peoples from Asia to Hercynia who make pilgrimages to a fountain
+    caused to flow by his magic wand, and viewing later works produced through his
+    songs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1104-1115
+  quote_or_summary: The passage refers to an ancient monument depicting the Apotheosis
+    of Homer, calls Homer the Father of Poetry, and describes his works as a treasury
+    of taste and eloquence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1117-1131
+  quote_or_summary: The passage turns to the Battle of the Frogs and Mice; Coleridge
+    calls it a short ancient mock-heroic poem, textually varied and corrupt, with
+    uncertain authorship attributed either to Homer's youth or to Pigrees.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1132-1144
+  quote_or_summary: Coleridge says the Battle of the Frogs and Mice is a plain parody
+    of the Iliad's spirit and passages, and argues that such ridicule of war and the
+    gods belongs to a more refined society than the Iliadic one; he also notes three
+    other poems of the same kind attributed to Homer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1145-1151
+  quote_or_summary: 'Knight''s dating argument is reported: the use of the word for
+    writing tablet and the familiar mention of the cock are taken as evidence against
+    an ancient date.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly literary-critical prose rather than a mythic narrative.
+    Motifs are therefore extracted as rhetorical images, authorship traditions, and
+    explicit comparative claims within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1079-l1154
+  passage_sha256=ab10390e1c0d25a6d80066b1a42da12b4809b1ffa5f04cc5f3d6630ccf8eaf10
+

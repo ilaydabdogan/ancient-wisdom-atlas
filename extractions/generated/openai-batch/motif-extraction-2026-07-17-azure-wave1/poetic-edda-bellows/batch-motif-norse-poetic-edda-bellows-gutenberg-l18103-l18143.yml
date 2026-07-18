@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l18103-l18143
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: GUTHRUNARKVITHA III / THE THIRD LAY OF GUTHRUN / INTRODUCTORY NOTE / NOTES;
+    lines 18103-18143
+  start: '18103'
+  end: '18143'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes discuss Herkja's identification with Kreka/Helche, omitted
+    speaker names in the manuscript, uncertainty over a holy stone, textual variants
+    and stanza order, an ordeal by boiling water involving a consecrated kettle and
+    a southern Christian king, and bog-drowning punishment especially associated with
+    women.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the annotator drew the prose note from the poem itself except
+    for the reference to Herkja as Atli's former concubine.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Herkja is identified with historical Kreka and with Helche of the Nibelungenlied,
+    where Helche appears as Etzel's first wife.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The manuscript omits the names of speakers throughout.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The meaning of the holy stone is described as uncertain and possibly identical
+    with the ice-cold stone of Uth mentioned in an oath in Helgakvitha Hundingsbana
+    II.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note refers to the death of Thjothrek's men in connection with Guthrunarkvitha
+    II.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The manuscript places one stanza after another differently from many editions,
+    which transpose them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A stanza is said to point to a time when the ordeal by boiling water was regarded
+    as foreign and a southern Christian king was needed to consecrate the kettle.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The boiling-water ordeal is said to have followed closely after the introduction
+    of Christianity around the year 1000.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Casting a culprit into a bog to drown is described as a punishment particularly
+    reserved for women and often mentioned in the sagas.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Herkja
+  description: Named as Atli's former concubine and identified with historical Kreka
+    and Helche of the Nibelungenlied.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Atli / Etzel / Attila
+  description: Associated with Herkja as Atli's former concubine; Etzel is named as
+    the figure whose first wife is Helche in the Nibelungenlied.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Thjothrek
+  description: Named figure whose men are referred to as having died in a cross-reference
+    to Guthrunarkvitha II.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Saxi
+  description: Named figure whose identity the note says is unclear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Southern king
+  description: A king from an earlier-converted Christian region, said to be necessary
+    for consecrating the kettle used in the boiling-water test.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Culprit, especially women
+  description: A culprit, with the punishment described as particularly reserved for
+    women, could be cast into a bog to drown.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Former concubine and cross-tradition counterpart
+  assigned_to:
+  - fig:1
+  basis: The note calls Herkja Atli's former concubine and identifies her with Kreka/Helche.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Ruler associated with Herkja or Helche
+  assigned_to:
+  - fig:2
+  basis: Atli is linked to Herkja; Etzel/Attila is linked to Helche as first wife.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Leader whose men died
+  assigned_to:
+  - fig:3
+  basis: The note refers to the death of Thjothrek's men.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Unclear named figure
+  assigned_to:
+  - fig:4
+  basis: The note explicitly says who Saxi may be is not clear.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Consecrator of ordeal kettle
+  assigned_to:
+  - fig:5
+  basis: The note says a southern Christian king was necessary to consecrate the kettle
+    used in the test.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Punished culprit
+  assigned_to:
+  - fig:6
+  basis: The note describes a culprit being cast into a bog to drown, especially in
+    punishments reserved for women.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Holy stone
+  literal_form: A holy stone whose referent is uncertain.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Ice-cold stone of Uth
+  literal_form: An ice-cold stone of Uth mentioned in an oath in Helgakvitha Hundingsbana
+    II.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Consecrated kettle
+  literal_form: A kettle used in the boiling-water test and consecrated by a southern
+    king.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Boiling water
+  literal_form: Water used in the ordeal by boiling water.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Bog drowning water
+  literal_form: A bog into which a culprit is cast to be drowned.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Herkja identification note
+  summary: The note identifies Herkja as Atli's former concubine and compares her
+    with Kreka and Helche of the Nibelungenlied.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Holy-stone uncertainty
+  summary: The note treats the holy stone as uncertain and suggests it may correspond
+    to the ice-cold stone of Uth in another Eddic oath passage.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Boiling-water ordeal note
+  summary: The note interprets a stanza as pointing to a foreign boiling-water ordeal
+    in which a southern Christian king consecrates the kettle used for the test.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Bog-drowning punishment note
+  summary: The note describes casting a culprit into a bog to drown as a punishment
+    especially associated with women and found in saga references.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ordeal by boiling water as judgment test
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly describes an ordeal by boiling water, a test involving
+    a consecrated kettle and a Christian king.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage is an editorial note and does not narrate the ordeal's performance
+    or outcome.
+- id: motif:2
+  label: Sacred or oath stone of uncertain identity
+  taxonomy_refs:
+  - covenant
+  basis: The holy stone is tentatively compared with an ice-cold stone of Uth mentioned
+    in an oath passage.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The note says the reference is uncertain; the oath context belongs to
+    a cited external Eddic passage, not fully included here.
+- id: motif:3
+  label: Bog drowning as gendered punishment
+  taxonomy_refs: []
+  basis: The note describes casting a culprit into a bog to drown as a punishment
+    particularly reserved for women.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is presented as a legal or saga-associated punishment rather than
+    a complete mythic episode in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: Herkja is treated as a counterpart to historical Kreka and Helche of the
+    Nibelungenlied in traditions associated with Atli/Attila/Etzel.
+  claim_level: same_function
+  target: Kreka and Helche of the Nibelungenlied / Attila-Etzel tradition
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives an editorial identification; the relationship role differs
+    between Atli's former concubine and Etzel's first wife.
+- id: claim:2
+  claim: The holy stone may correspond to the ice-cold stone of Uth mentioned in an
+    oath in Helgakvitha Hundingsbana II, 29.
+  claim_level: same_motif
+  target: Ice-cold stone of Uth oath passage in Helgakvitha Hundingsbana II, 29
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note itself marks the identification as uncertain and tentative.
+- id: claim:3
+  claim: The boiling-water ordeal is interpreted as connected with Christian practice
+    from earlier-converted southern regions.
+  claim_level: historical_contact
+  target: Christian boiling-water ordeal practice involving consecrated ritual equipment
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial historical interpretation; the passage does not
+    provide a full parallel text or detailed ritual description.
+- id: claim:4
+  claim: The bog-drowning punishment is linked to saga tradition by the note's statement
+    that it is often mentioned in sagas.
+  claim_level: same_function
+  target: Saga references to casting culprits, especially women, into bogs to drown
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides no specific saga titles or episodes for direct
+    comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18103-18109
+  quote_or_summary: The note says the annotator used the poem as source except for
+    Herkja as Atli's former concubine, and identifies Herkja with historical Kreka
+    and Helche of the Nibelungenlied, where Helche is Etzel/Attila's first wife.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 18111-18112
+  quote_or_summary: The manuscript is said to omit speaker names throughout.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 18114-18120
+  quote_or_summary: The holy stone is described as uncertain and possibly identical
+    with the ice-cold stone of Uth in an oath in Helgakvitha Hundingsbana II; the
+    note also discusses Thjothmar/Thjothrek variants.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 18122-18126
+  quote_or_summary: The note cross-references Guthrunarkvitha II regarding the death
+    of Thjothrek's men and mentions manuscript repetition of a word for thirty.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 18128-18129
+  quote_or_summary: The manuscript places stanza 6 after stanza 7, while many editions
+    transpose them.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 18131-18138
+  quote_or_summary: The note says Saxi is unclear; the stanza points to a time when
+    boiling-water ordeal was considered foreign and a southern Christian king was
+    needed to consecrate the kettle; this ordeal followed closely after Christianity's
+    introduction around 1000.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 18139-18143
+  quote_or_summary: The note discusses stanza division and a missing word, then states
+    that casting a culprit into a bog to drown was especially reserved for women and
+    often mentioned in sagas.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is commentary rather than the poem itself. Extraction
+    is strongest for literal editorial statements; motif candidates are more cautious
+    because the relevant ordeal and punishment are referenced rather than narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied public-domain passage and metadata; no external text was used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l18103-l18143
+  passage_sha256=9c0d6220735a69d627db41b4eddb57c84a0668b4e7bbbb86df147e1e629aa0a5
+

@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.mesoamerican-myths-of-mexico-peru-spence-gutenberg-l6236-l6314
+source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+passage_locator:
+  label: 'CHAPTER I: THE CIVILISATION OF MEXICO / CHAPTER II: MEXICAN MYTHOLOGY /
+    CHAPTER III: MYTHS AND LEGENDS OF THE ANCIENT MEXICANS / CHAPTER IV: THE MAYA
+    RACE AND MYTHOLOGY; lines 6236-6314'
+  start: '6236'
+  end: '6314'
+  translation: The Myths of Mexico & Peru
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Mitla as a ruined monumental complex with palaces,
+    pyramids, stone columns, mosaic panels, lintels, burial rooms, idols, and an underground
+    chamber. It identifies Mitla with Mictlan, described as the Mexican Hades and
+    a place of the dead, and cites a suggestion that ancestors were imagined to have
+    emerged from the underworld through caverns into daylight. It then quotes Father
+    Torquemada’s description of Mictlan as an underworld village with impressive buildings,
+    a temple of an evil spirit, ornamented halls, monumental doorways, and stone pillars.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mitla is described as a remnant of a vanished civilization with six palaces
+    and three ruined pyramids still standing at the time described.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The great palace is described as T-shaped, measuring 130 feet in its greater
+    dimension, with six monolithic columns still standing after the roof had fallen.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A dark passage leads to an inner court whose walls are covered with mosaic
+    panels resembling the pattern called the Greek fret.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fourth palace is said to have oblong panels and caryatides or pillars
+    shaped like human figures.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The lower story of the palaces was occupied by the high-priest, and the king
+    came there to mourn when a relative died.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Priests were entombed at Mitla, idols were kept in an adjoining room, and
+    bodies of eminent warriors and sacrificial victims were cast into a huge underground
+    chamber.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that attempts had been made to identify Mitla with Mictlan,
+    described as the Mexican Hades, and says this identification is probably correct.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Mictlan is described as both a place of the dead and a place of punishment,
+    comparable in that respect to Greek Hades.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Seler’s suggestion is reported that the American race imagined their ancestors
+    originally issued from the underworld through caverns into daylight.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Torquemada describes Mictlan as an underworld village with buildings more
+    magnificent than any the monks had previously seen in New Spain.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Torquemada reports a temple of the evil spirit, living rooms for his servants,
+    an ornamented stone-panel hall, large three-stone doorways, and a hall built on
+    round stone pillars.
+  category: object
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: High-priest
+  description: Occupant of the lower story of the palaces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: King
+  description: Person who came to the lower story to mourn when a relative died.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Priests
+  description: Persons entombed at Mitla.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Eminent warriors
+  description: Dead warriors whose bodies were cast into a huge underground chamber.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Sacrificial victims
+  description: Victims whose bodies were cast into a huge underground chamber.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Ancestors
+  description: Ancestors said in Seler’s reported suggestion to have issued from the
+    underworld through caverns into daylight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Evil spirit
+  description: Being named in Torquemada’s account as having a temple at Mictlan.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:11
+- id: fig:8
+  name_or_label: Servants of the evil spirit
+  description: Servants said in Torquemada’s account to have living rooms at the temple
+    complex.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+- id: fig:9
+  name_or_label: Franciscan monks
+  description: Monks whose report is quoted by Torquemada after passing through Zapoteca
+    province.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: ritual occupant
+  assigned_to:
+  - fig:1
+  basis: The lower story is said to have been occupied by the high-priest.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: mourner
+  assigned_to:
+  - fig:2
+  basis: The king came to the lower story to mourn after the death of a relative.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: entombed dead
+  assigned_to:
+  - fig:3
+  basis: The passage states that priests were entombed at Mitla.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: dead placed in underground chamber
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The bodies of eminent warriors and sacrificial victims were cast into a huge
+    underground chamber.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: underworld-emergent ancestors
+  assigned_to:
+  - fig:6
+  basis: Seler’s suggestion reports ancestors issuing from the underworld through
+    caverns into daylight.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: temple-associated spirit
+  assigned_to:
+  - fig:7
+  basis: Torquemada’s account mentions a temple of the evil spirit.
+  evidence_refs:
+  - ev:11
+- id: role:7
+  label: spirit’s servants
+  assigned_to:
+  - fig:8
+  basis: Torquemada’s account mentions living rooms for the evil spirit’s servants.
+  evidence_refs:
+  - ev:11
+- id: role:8
+  label: reported witnesses
+  assigned_to:
+  - fig:9
+  basis: Torquemada recounts what Franciscan monks told after passing through the
+    province.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Mitla / Mictlan as underworld place of the dead
+  literal_form: city, village, burial-place, or underworld place
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: sym:2
+  label: huge underground chamber
+  literal_form: underground chamber receiving bodies
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: caverns of emergence
+  literal_form: caverns through which ancestors issue from the underworld
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: dark passage
+  literal_form: dark passage leading to an inner court
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: human-shaped pillars
+  literal_form: caryatides or pillars in the shape of human figures
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: idols kept near burial rooms
+  literal_form: idols in an adjoining room
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of Mitla’s surviving monuments
+  summary: The passage describes surviving palaces, pyramids, columns, a dark passage,
+    mosaic panels, large lintels, and architectural features of Mitla.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Burial and mourning functions of Mitla
+  summary: The lower rooms are described as occupied by the high-priest, visited by
+    the king for mourning, used for priestly entombment and storage of idols, and
+    associated with an underground chamber for bodies of warriors and sacrificial
+    victims.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Identification of Mitla with Mictlan
+  summary: The passage states that Mitla has been identified with Mictlan, described
+    as the Mexican Hades, and explains Mictlan as a place of the dead as well as a
+    place of punishment.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Ancestor emergence through caverns
+  summary: The passage reports Seler’s suggestion that ancestors were imagined to
+    have come from the underworld through caverns into daylight, making Mitla both
+    a burial-place and a sanctuary.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Torquemada’s old description of Mictlan
+  summary: Torquemada’s quoted account describes monks reaching a village called Mictlan
+    or Underworld, with magnificent buildings, a temple of the evil spirit, living
+    quarters for his servants, ornamented stone halls, great doorways, and round stone
+    pillars.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: underworld identified with a real burial sanctuary
+  taxonomy_refs: []
+  basis: The passage presents Mitla as a burial-place with entombments and an underground
+    chamber, then identifies it with Mictlan, the Mexican Hades and a place of the
+    dead.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage is a later descriptive synthesis and reports an identification
+    rather than narrating a mythic episode directly.
+- id: motif:2
+  label: ancestor emergence from the underworld through caverns
+  taxonomy_refs:
+  - ascent
+  basis: Seler’s reported suggestion says the ancestors were imagined to have issued
+    from the underworld through caverns into the light of day.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: This is explicitly presented as Seler’s suggestion, not as a quoted indigenous
+    narrative within the passage.
+- id: motif:3
+  label: burial place as sanctuary
+  taxonomy_refs: []
+  basis: The passage states that Mitla may have been both a burial-place and a sanctuary,
+    linked to ideas about underworld origin through caverns.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The explanation is interpretive and depends on the reported scholarly
+    suggestion.
+- id: motif:4
+  label: temple of an underworld-associated evil spirit
+  taxonomy_refs: []
+  basis: Torquemada’s quoted description of Mictlan mentions a temple of the evil
+    spirit and living rooms for his servants within the underworld-named village.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: low
+  cautions: The terminology reflects a colonial Christian source; the passage does
+    not provide an indigenous name or mythic episode for the being.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Mictlan’s function as a place of the dead
+    and punishment with Greek Hades.
+  claim_level: same_function
+  target: Greek Hades
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and comes from the author’s explanatory
+    framing; it does not establish historical contact or shared origin.
+- id: claim:2
+  claim: The passage notes a visual resemblance between Mitla’s mosaic panels and
+    the pattern known as the Greek fret.
+  claim_level: visual_similarity
+  target: Greek fret pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states resemblance only; it gives no evidence for influence
+    or historical connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6236-6241
+  quote_or_summary: Mitla is described as a remnant of a vanished civilization; only
+    six palaces and three ruined pyramids are said to remain standing.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:2
+  type: summary
+  locator: 6241-6246
+  quote_or_summary: The great palace is T-shaped, 130 feet in its greater dimension,
+    with six monolithic columns still standing after the roof had fallen.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:3
+  type: quote
+  locator: 6246-6250
+  quote_or_summary: "“A dark passage leads to the inner court” and the walls have
+    mosaic panels recalling the “Greek fret.”"
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:4
+  type: summary
+  locator: 6263-6266
+  quote_or_summary: The fourth palace has oblong panels and caryatides or pillars
+    shaped like human figures.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:5
+  type: summary
+  locator: 6266-6270
+  quote_or_summary: The palaces had upper apartments and lower rooms; the lower story
+    was occupied by the high-priest, and the king came there to mourn a dead relative.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:6
+  type: summary
+  locator: 6270-6274
+  quote_or_summary: Priests were entombed, idols were kept in an adjoining room, and
+    the bodies of eminent warriors and sacrificial victims were cast into a huge underground
+    chamber.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:7
+  type: quote
+  locator: 6274-6277
+  quote_or_summary: "“Attempts have been made to identify Mitla with Mictlan, the
+    Mexican Hades,” and the passage says there is reason to suppose the identification
+    correct."
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:8
+  type: summary
+  locator: 6277-6281
+  quote_or_summary: Mictlan is explained as both a place of the dead and a place of
+    punishment, like Greek Hades, and therefore a possible term for a place of sepulture.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:9
+  type: summary
+  locator: 6286-6291
+  quote_or_summary: 'Seler’s suggestion is reported: the American race imagined their
+    ancestors issued from the underworld through caverns into daylight, explaining
+    Mitla as both burial-place and sanctuary.'
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:10
+  type: summary
+  locator: 6295-6303
+  quote_or_summary: Torquemada writes that Franciscan monks passed through Zapoteca
+    province and came to a village called Mictlan, glossed as Underworld or Hell,
+    with many people and unusually magnificent buildings.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+- id: ev:11
+  type: summary
+  locator: 6303-6314
+  quote_or_summary: Torquemada reports a temple of the evil spirit, rooms for his
+    servants, an ornamented stone-panel hall, three-stone doorways, and another hall
+    erected on large round stone pillars.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source text; concise summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The architectural and burial details are explicit in the passage. Motif candidates
+    are more tentative because the passage is largely antiquarian description and
+    includes scholarly and colonial-source interpretation rather than direct myth
+    narration.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were limited to supplied available refs and only applied where directly supportable.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-myths-of-mexico-peru-spence-gutenberg__l6236-l6314
+  passage_sha256=db5daa0747151594ad3a9f1a2a440d6e0d352f39208f01e46e7db816ad309af4
+

@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l6428-l6544
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 6428-6544
+  start: '6428'
+  end: '6544'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Prince Camaralzaman dreams that his father is dying, and Princess Badoura
+    obtains permission for them to visit King Schahzaman. During the journey, the
+    prince finds a talismanic cornelian in the princess's girdle, but a bird steals
+    and swallows it. He follows the bird for days until it disappears near a seaside
+    town, where a gardener shelters him and warns him about hostile inhabitants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prince Camaralzaman dreams that his father is at the point of death and says
+    that his son's desertion is causing his death.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prince wakes in distress and tells the princess that he fears his father
+    may already be dead.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The princess asks the king to allow her and her husband to visit King Schahzaman.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king allows the visit on the condition that the princess spend only one
+    year at King Schahzaman's court.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The travelers encamp in a shaded meadow with large trees; the princess removes
+    her girdle, places it beside her, and sleeps.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The prince inspects the girdle, finds a pouch sewn to it, and discovers an
+    engraved cornelian with figures and strange characters.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The cornelian is identified as a talisman given by the Queen of China to her
+    daughter, with the stated effect of ensuring happiness while carried.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A bird swoops down, takes the stone from the prince's hand, later swallows
+    it, and continues flying away as he pursues it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The prince follows the bird through hill and dale, spends nights at the foot
+    of trees while the bird roosts above, and continues this for ten days.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: On the eleventh day the bird disappears near a large town by the sea, and
+    the prince enters the town and then an open garden.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: The gardener identifies the prince as a stranger and Mussulman, says the town
+    is largely inhabited by idolaters who persecute people of that faith, and offers
+    him safety, food, and rest.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Prince Camaralzaman
+  description: The prince who dreams of his father's death, journeys with the princess,
+    discovers and loses the talisman, pursues the bird, and reaches the seaside town.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Princess Badoura
+  description: The prince's wife, who requests permission for the journey and carries
+    the girdle containing the talisman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: King Schahzaman
+  description: The prince's father and the princess's father-in-law, seen in the dream
+    at the point of death and named as the intended person to visit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: The king, Princess Badoura's father
+  description: The king who receives the princess's request, permits the visit, sets
+    a one-year condition, and parts from the travelers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Queen of China
+  description: The queen who gave her daughter the cornelian talisman and said it
+    would ensure her happiness while carried.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: The bird
+  description: The bird that swoops down, takes the cornelian, swallows it, leads
+    the prince onward, roosts in trees, and finally disappears near a town.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: The gardener
+  description: A good old man in the seaside town who brings the prince into his garden,
+    warns him of danger, and offers shelter, food, and rest.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: distressed son and dreamer
+  assigned_to:
+  - fig:1
+  basis: He dreams of his father dying and wakes fearing his father may be dead.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wife and intercessor for the journey
+  assigned_to:
+  - fig:2
+  basis: She asks the king to let her and her husband visit King Schahzaman.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: imperiled father and journey destination
+  assigned_to:
+  - fig:3
+  basis: He appears in the prince's dream at the point of death and is named as the
+    father-in-law to be visited.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: parental ruler granting conditional leave
+  assigned_to:
+  - fig:4
+  basis: He allows the visit but limits it to one year, then escorts and parts from
+    the travelers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: giver of protective talisman
+  assigned_to:
+  - fig:5
+  basis: She gave the talisman to her daughter and described its protective effect
+    on happiness.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: animal thief and pursued guide
+  assigned_to:
+  - fig:6
+  basis: The bird takes and swallows the talisman, then repeatedly flies ahead while
+    the prince follows.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:7
+  label: sheltering helper
+  assigned_to:
+  - fig:7
+  basis: He brings the prince into the garden, explains the danger, and offers safety,
+    food, and rest.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: pursuer of lost talisman
+  assigned_to:
+  - fig:1
+  basis: He pursues the bird in hopes of recovering the talisman and continues for
+    ten days.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: cornelian talisman
+  literal_form: An engraved cornelian with figures and strange characters, kept in
+    a pouch sewn to the princess's girdle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: girdle with hidden pouch
+  literal_form: The princess's girdle, placed beside her while she sleeps, containing
+    a sewn pouch for the cornelian.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: bird carrying and swallowing the stone
+  literal_form: A bird that takes the talisman in its beak, swallows it, and flies
+    away.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: high tree and topmost bough
+  literal_form: A very high tree, and later trees whose topmost boughs hold the roosting
+    bird while the prince sleeps below.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: sea and harbour town
+  literal_form: A large town built near the sea with a fine harbour.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: garden as place of shelter
+  literal_form: An open garden and cottage where the gardener receives the prince.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Dream of the dying father and request to travel
+  summary: The prince dreams that his father is dying because of his absence; the
+    princess then asks the king to let the couple visit King Schahzaman, and the king
+    agrees with a time limit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Departure and encampment in the meadow
+  summary: The travelers prepare for the journey, are escorted for part of the way,
+    and eventually encamp in a shaded meadow where the princess sleeps after removing
+    her girdle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Discovery and theft of the talisman
+  summary: The prince examines the princess's girdle and finds the engraved cornelian
+    talisman; while he holds it at the tent doorway, a bird seizes it and flies away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Pursuit of the bird
+  summary: The prince follows the bird over hills and valleys, sleeps beneath trees
+    while it roosts above, and continues the pursuit for ten days until the bird disappears
+    near a large town.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Arrival at the seaside town and garden refuge
+  summary: After losing sight of the bird, the prince enters a town near the sea,
+    walks into an open garden, and is sheltered by a gardener who warns him of local
+    persecution.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Dream of an imperiled parent prompts departure
+  taxonomy_refs:
+  - departure
+  basis: The prince's dream of his father dying leads to the princess's request that
+    the couple travel to King Schahzaman.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The dream motivates a familial journey, but the passage does not present
+    it as an oracle or formal divine message.
+- id: motif:2
+  label: Protective talisman carried on the body
+  taxonomy_refs: []
+  basis: The cornelian is kept in a pouch sewn to the princess's girdle and is said
+    to ensure her happiness as long as she carries it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches this talismanic-object
+    motif.
+- id: motif:3
+  label: Animal theft of a talisman initiates pursuit and displacement
+  taxonomy_refs:
+  - sacred_theft
+  - mystical_quest
+  basis: A bird steals and swallows the talisman, and the prince pursues it for ten
+    days until he reaches an unfamiliar seaside town.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The stolen object is magical or talismanic, but the passage does not explicitly
+    call it sacred; the quest is an attempted recovery rather than a completed ritual
+    quest.
+- id: motif:4
+  label: Stranger sheltered in a hostile town
+  taxonomy_refs: []
+  basis: The gardener recognizes the prince as a stranger and Mussulman in a town
+    said to persecute people of that faith, then offers him a place of safety, food,
+    and rest.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a local hospitality-and-danger episode without a direct match
+    in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6428-6436
+  quote_or_summary: Prince Camaralzaman dreams that his father lies at the point of
+    death and says his son's desertion is causing his death; the prince wakes and
+    tells the princess.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6438-6450
+  quote_or_summary: The princess asks the king to allow her and her husband to visit
+    King Schahzaman; the king agrees on the condition that the visit last only one
+    year.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6451-6466
+  quote_or_summary: Preparations are made; the king accompanies the travelers for
+    some days; the couple later encamps in a shaded meadow, and the princess removes
+    her girdle and sleeps.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6467-6480
+  quote_or_summary: The prince examines the princess's girdle, opens a sewn pouch,
+    finds an engraved cornelian, and the narration identifies it as a talisman given
+    by the Queen of China to ensure her daughter's happiness.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6482-6497
+  quote_or_summary: As the prince holds the stone in his palm, a bird swoops down,
+    takes it, later swallows it, and continues flying farther away as he pursues it.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 6498-6507
+  quote_or_summary: The prince is led through hill and dale for a whole day; at night
+    the bird roosts in a very high tree and the exhausted prince sleeps at the foot
+    of the tree.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 6509-6519
+  quote_or_summary: For ten days the prince follows the bird by day and sleeps under
+    trees by night; on the eleventh day they reach a large town, where the bird disappears
+    and the prince despairs of recovering Princess Badoura's talisman.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 6521-6524
+  quote_or_summary: The prince enters a town near the sea with a fine harbour, wanders
+    near the seashore, finds an open garden door, and walks in.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 6526-6544
+  quote_or_summary: The gardener sees the prince, recognizes him as a stranger and
+    Mussulman, brings him inside, says the town's idolater inhabitants persecute people
+    of his faith, and offers him safety, food, and rest.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif taxonomy mapping
+    is cautious because the available taxonomy has broad categories and does not include
+    exact labels for dreams, talismans, or hospitality-refuge episodes. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage itself does not establish a specific external comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l6428-l6544
+  passage_sha256=87ae65d4ec1a69ac392fa5bcca0d622f90d772b76f153a67cd689d839adcc55c
+

@@ -1,0 +1,490 @@
+---
+record_id: batch.motif.biblical-leviticus-web-classic-l611-l707
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+passage_locator:
+  label: Chapter 9 / Chapter 10 / Footnotes / Chapter 11; lines 611-707
+  start: '611'
+  end: '707'
+  translation: Leviticus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Sanctify yourselves therefore, and be holy; for I am holy.
+  summary: An opening footnote explains the Hebrew term translated “Behold.” Chapter
+    11 presents Yahweh speaking through Moses and Aaron to Israel, defining which
+    land animals, water creatures, birds, winged insects, and creeping things may
+    or may not be eaten. The passage also gives rules for uncleanness from touching,
+    carrying, or being affected by carcasses, including treatment of vessels, food,
+    drink, seed, springs, and cisterns. It grounds the commands in Yahweh’s holiness
+    and in his bringing Israel up from Egypt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The footnote explains that “Behold,” from Hebrew “הִנֵּה,” means to look,
+    take notice, observe, see, or gaze at, and is often used as an interjection.
+  category: other
+  evidence_refs:
+  - ev:11
+- id: obs:2
+  text: Yahweh speaks to Moses and Aaron and tells them to speak to the children of
+    Israel about which living things among the animals may be eaten.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Land animals that both part the hoof, are cloven-footed, and chew the cud
+    may be eaten.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The camel, hyrax, hare, and pig are called unclean because each lacks one
+    of the required traits; Israel is told not to eat their meat or touch their carcasses.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Water creatures with fins and scales may be eaten, while those without fins
+    and scales in seas and rivers are called an abomination and their carcasses are
+    to be detested.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A list of birds and the bat are named as creatures that must not be eaten
+    because they are an abomination.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Flying insects that walk on all fours are called an abomination, except certain
+    winged creeping things with long jointed hopping legs, including locusts, katydids,
+    crickets, and grasshoppers.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Touching or carrying carcasses causes uncleanness until evening; carrying
+    or eating carcass material also requires washing clothes.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: obs:9
+  text: Dead creeping things can make vessels, clothing, skin, sack, food, drink,
+    ovens, and ranges unclean; some objects must be put into water or broken, while
+    a spring or cistern in which water is gathered remains clean.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: If part of a carcass falls on dry sowing seed, the seed is clean; if water
+    has been put on the seed, the seed becomes unclean.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Creeping things that go on the belly, on all fours, or on many feet are not
+    to be eaten; Israel is told not to defile itself, to sanctify itself, and to be
+    holy because Yahweh is holy and brought Israel up from Egypt.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The passage concludes by identifying these instructions as law about animals,
+    birds, water creatures, and creatures that creep on the earth.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: The divine speaker who addresses Moses and Aaron, identifies himself
+    as Israel’s God, and states that he brought Israel up from Egypt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:2
+  name_or_label: Moses
+  description: One of the named recipients of Yahweh’s speech, instructed along with
+    Aaron to speak to the children of Israel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aaron
+  description: One of the named recipients of Yahweh’s speech, instructed along with
+    Moses to speak to the children of Israel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: children of Israel
+  description: The addressed community told which living things may be eaten, what
+    contact causes uncleanness, and to be holy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:5
+  name_or_label: living creatures under classification
+  description: Collective category of animals, birds, water creatures, winged creeping
+    things, and earth-creeping things classified as edible, unclean, or abomination.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: divine speaker and lawgiver
+  assigned_to:
+  - fig:1
+  basis: Yahweh speaks the instructions and grounds holiness in his own holiness and
+    deliverance of Israel from Egypt.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:2
+  label: human recipients of divine instruction
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Moses and Aaron are addressed by Yahweh and are told to speak to the children
+    of Israel.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: instructed holy community
+  assigned_to:
+  - fig:4
+  basis: The children of Israel are told what may be eaten, what is unclean, and to
+    sanctify themselves and be holy.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:4
+  label: classified creatures
+  assigned_to:
+  - fig:5
+  basis: The passage classifies multiple living creatures by traits, permitted eating,
+    forbidden eating, uncleanness, or abomination.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Waters, seas, rivers, water used for soaking or immersion, and a spring
+    or cistern in which water is gathered.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: parted hoof and chewing cud
+  literal_form: The paired land-animal traits of parting the hoof, being cloven-footed,
+    and chewing the cud.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fins and scales
+  literal_form: The aquatic creature traits of having fins and scales in waters, seas,
+    and rivers.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: carcass
+  literal_form: Dead animal or creeping-thing bodies that cause uncleanness through
+    touch, carrying, falling on objects, or being eaten.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: evening boundary
+  literal_form: The repeated time limit stating that a person remains unclean until
+    the evening.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Divine address about edible living things
+  summary: Yahweh addresses Moses and Aaron and instructs them to tell Israel which
+    living things among animals may be eaten.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Classification of animals, water creatures, birds, and winged insects
+  summary: The passage distinguishes permitted and forbidden creatures by bodily traits
+    and lists named creatures that are unclean or an abomination.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Carcass contact and material impurity
+  summary: Touching, carrying, eating, or being affected by carcasses makes persons
+    or objects unclean, with rules for washing, immersion, breaking vessels, and waiting
+    until evening.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Holiness rationale and concluding law
+  summary: Israel is told not to defile itself with creeping things, to be holy because
+    Yahweh is holy, and the instructions are summarized as law for animals, birds,
+    water creatures, and creeping things.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: clean and unclean animal classification
+  taxonomy_refs: []
+  basis: The passage classifies living creatures by bodily traits and by whether they
+    may be eaten, are unclean, or are an abomination.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: This is a legal-purity pattern rather than a narrative myth episode.
+- id: motif:2
+  label: impurity transmitted by carcass contact
+  taxonomy_refs: []
+  basis: Touching, carrying, eating, or having objects contacted by carcasses produces
+    uncleanness, requiring washing, immersion, breaking vessels, or waiting until
+    evening.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage describes ritual status and procedures; it does not narrate
+    punishment or transformation.
+- id: motif:3
+  label: holiness through separation from defiling creatures
+  taxonomy_refs:
+  - covenant
+  basis: Israel is commanded not to defile itself with creeping things and to be holy
+    because Yahweh is holy and brought Israel up from Egypt to be its God.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage does not use the word “covenant”; the taxonomy reference is
+    based on the stated divine-Israel relationship and exodus grounding.
+- id: motif:4
+  label: water at purity boundaries
+  taxonomy_refs: []
+  basis: 'Water marks several purity boundaries: water creatures are classified by
+    fins and scales, vessels may be put into water, a spring or cistern remains clean,
+    and wetted seed can become unclean if touched by carcass material.'
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: Water appears in multiple literal procedural roles; the passage does not
+    provide an explicit symbolic interpretation of water.
+comparison_claims:
+- id: claim:1
+  claim: Within this passage, the repeated clean/unclean classifications and prescribed
+    responses function as a purity-boundary pattern governing eating, touch, and household
+    objects.
+  claim_level: same_function
+  target: purity-boundary pattern in ritual or legal traditions
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports a functional pattern but does not itself compare
+    this law to any external text or tradition.
+- id: claim:2
+  claim: The command to be holy because Yahweh is holy, joined to the statement that
+    Yahweh brought Israel up from Egypt to be its God, supports a cautious comparison
+    to a covenantal-holiness pattern.
+  claim_level: same_function
+  target: covenant holiness motif family
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The term “covenant” is absent from this line range, so the comparison
+    is thematic and requires human review.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Leviticus 11:1-3
+  quote_or_summary: Yahweh speaks to Moses and Aaron, telling them to speak to Israel;
+    animals that part the hoof, are cloven-footed, and chew the cud may be eaten.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:2
+  type: summary
+  locator: Leviticus 11:4-8
+  quote_or_summary: Camel, hyrax, hare, and pig are each called unclean due to lacking
+    one qualifying trait; their meat is not to be eaten and their carcasses not touched.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:3
+  type: summary
+  locator: Leviticus 11:9-12
+  quote_or_summary: Water creatures with fins and scales may be eaten; those without
+    fins and scales in seas or rivers are an abomination, and their meat and carcasses
+    are to be detested.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:4
+  type: summary
+  locator: Leviticus 11:13-19
+  quote_or_summary: A list of forbidden birds is given, including eagle, vultures,
+    kites, ravens, owls, gull, hawk, cormorant, osprey, stork, heron, hoopoe, and
+    bat.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:5
+  type: summary
+  locator: Leviticus 11:20-23
+  quote_or_summary: Flying insects walking on all fours are an abomination, except
+    certain hopping winged creeping things such as locust, katydid, cricket, and grasshopper.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:6
+  type: summary
+  locator: Leviticus 11:24-28
+  quote_or_summary: Touching or carrying specified carcasses makes a person unclean
+    until evening; the one who carries a carcass must wash his clothes.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:7
+  type: summary
+  locator: Leviticus 11:29-38
+  quote_or_summary: Dead creeping things make touched objects, food, drink, vessels,
+    ovens, and wetted seed unclean; some items are put in water or broken, while spring
+    or cistern water remains clean.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:8
+  type: summary
+  locator: Leviticus 11:39-40
+  quote_or_summary: If an edible animal dies, touching, eating, or carrying its carcass
+    makes a person unclean until evening, and eating or carrying requires washing
+    clothes.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:9
+  type: quote
+  locator: Leviticus 11:41-45
+  quote_or_summary: Creeping things are not to be eaten; Israel must not defile itself
+    with them. “Sanctify yourselves therefore, and be holy; for I am holy.” Yahweh
+    says he brought Israel up from Egypt to be its God.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; short quotation used.
+- id: ev:10
+  type: summary
+  locator: Leviticus 11:46
+  quote_or_summary: The instructions are summarized as the law of the animal, bird,
+    water creature, and creature that creeps on the earth.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:11
+  type: note
+  locator: Footnote to Leviticus 10:16
+  quote_or_summary: The footnote explains the Hebrew term “הִנֵּה” behind “Behold”
+    as meaning to look, take notice, observe, see, or gaze at, often as an interjection.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/leviticus.md
+  rights_note: Public domain World English Bible Classic; summarized with brief terms.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Creature classifications, impurity procedures, and holiness rationale are
+    explicit. Motif and comparison labels are cautious because the passage is primarily
+    legal instruction, and broader taxonomy alignment requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external parallels or unsupported taxonomy IDs were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-leviticus-web-classic__l611-l707
+  passage_sha256=94b4bafe3953997142c333fe3832dafbd83fe4cda45242ad810e8580e9f3191a
+

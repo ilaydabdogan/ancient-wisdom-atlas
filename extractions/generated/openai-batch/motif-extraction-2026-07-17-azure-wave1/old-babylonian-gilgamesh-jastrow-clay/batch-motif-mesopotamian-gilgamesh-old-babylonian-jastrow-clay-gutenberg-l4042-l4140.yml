@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l4042-l4140
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: COMMENTARY ON THE PENNSYLVANIA TABLET. / YALE TABLET. / TRANSLITERATION.
+    / TRANSLATION.; lines 4042-4140
+  start: '4042'
+  end: '4140'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentary discusses uncertain readings such as a possible corpse or divine
+    weapon and a possible lion; phrases of determination and fame; artisans, master
+    mechanics, and the forging of weapons for Gilgamesh and Enkidu; Huwawa's speech
+    reported by elders who warn Gish; the heart of the forest; and kneeling prayer
+    as submission, with parallels to Gilgamesh's defeat by Enkidu and a later kneeling
+    vision scene.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator considers reading mi-it-tu as “corpse” versus a possible identification
+    with a named divine weapon, but says to retain the meaning “corpse” until the
+    lines are better explained.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A puzzling term, la-bu, is contextually suggested to mean “lion.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The phrase literally glossed as “I will place my hand” is explained as expressing
+    purpose or determination.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The phrase “writing a name” is explained as meaning acquiring fame.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Artisans, master mechanics, and common workmen are discussed in relation to
+    fabrication and inspection; the artisans are also said to appear in the Assyrian
+    version looking at the horns of the slain divine bull.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage identifies a parallel in a Sumerian Gilgamesh fragment for the
+    forging of weapons for the two heroes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The commentary says lines 168-170 describe forging parts of lances, including
+    spear point, hilt, and blade, and discusses weapon weights including axes and
+    lances.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Seal cylinders are said to depict Gilgamesh and Enkidu with lances, while
+    other cited images show a club, mace, or scimitar-like weapon.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Huwawa’s speech is said to extend to line 187 and to be reported to Gish by
+    the elders, who add a warning to the youthful and impetuous hero.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A verb in Huwawa’s speech context is glossed as “drive on,” “lure on,” or
+    “entrap.”
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The phrase “change of countenance” is explained as meaning enraged.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: A term for the forest is interpreted as the interior or heart of the forest.
+  category: setting
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The kneeling attitude of prayer is described as symbolizing submission, with
+    comparisons to Gilgamesh being forced to kneel after defeat by Enkidu and to a
+    later scene in which Gilgamesh kneels and has a vision.
+  category: action
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh / Gish
+  description: Hero named as Gish or Gilgamesh; associated with the two heroes, weapon
+    depictions, elders’ warning, kneeling in defeat, kneeling prayer, and a vision.
+  role_refs:
+  - role:1
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:13
+- id: fig:2
+  name_or_label: Enkidu
+  description: The other figure in the pair depicted with Gilgamesh; also named in
+    the note comparing Gilgamesh’s defeat in an encounter with Enkidu.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:13
+- id: fig:3
+  name_or_label: Huwawa
+  description: Speaker whose speech is said to extend to line 187 and to be reported
+    to Gish; associated in the commentary with wording glossed as luring or entrapping.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Elders
+  description: Group said to report Huwawa’s speech to Gish and add a warning to the
+    youthful, impetuous hero.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Artisans, master mechanics, and common workmen
+  description: Craft specialists discussed in relation to fabrication of weapons and,
+    in the Assyrian version, inspection of the slain divine bull’s horns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Slain divine bull
+  description: Divine bull mentioned as slain, with enormous horns whose size and
+    weight are inspected in the Assyrian version.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: two heroes
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The commentary refers to weapons forged for the two heroes and identifies
+    seal-cylinder figures as Gilgamesh and Enkidu.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:2
+  label: speaker associated with luring or entrapping wording
+  assigned_to:
+  - fig:3
+  basis: Huwawa’s speech is identified, and a word in this context is glossed as drive
+    on, lure on, or entrap.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:3
+  label: warned youthful and impetuous hero
+  assigned_to:
+  - fig:1
+  basis: The elders are said to add a warning to Gish, described as youthful and impetuous.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: elder warners and reporters
+  assigned_to:
+  - fig:4
+  basis: The elders report Huwawa’s speech to Gish and add a warning.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: craft specialists and weapon makers
+  assigned_to:
+  - fig:5
+  basis: The passage discusses artisans, master mechanics, common workmen, and the
+    fabrication or forging of weapons.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: slain divine animal
+  assigned_to:
+  - fig:6
+  basis: The Assyrian-version comparison refers to horns of the slain divine bull.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: kneeling figure in defeat, prayer, or vision
+  assigned_to:
+  - fig:1
+  basis: The commentary says Gilgamesh is forced to kneel in defeat and elsewhere
+    kneels and has a vision.
+  evidence_refs:
+  - ev:13
+- id: role:8
+  label: opponent in encounter
+  assigned_to:
+  - fig:2
+  basis: The kneeling note describes Gilgamesh’s defeat in the encounter with Enkidu.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: uncertain corpse or divine weapon reading
+  literal_form: mi-it-tu as “corpse,” with possible but rejected comparison to a divine
+    weapon name
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lion reading
+  literal_form: la-bu contextually suggested as “lion”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: written name as fame
+  literal_form: "“writing a name” meaning acquiring fame"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: forged heroic weapons
+  literal_form: axes and lances with spear point, hilt, blade, and calculated weights
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: forest heart
+  literal_form: interior or heart of the forest
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+- id: sym:6
+  label: kneeling prayer and submission
+  literal_form: kneeling attitude of prayer; forced kneeling to the ground
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:7
+  label: divine bull horns
+  literal_form: enormous horns of the slain divine bull
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Forging and depiction of weapons for the two heroes
+  summary: Craft specialists and weapon fabrication are discussed; a Sumerian fragment
+    is cited as parallel to forging weapons for the two heroes, and lance parts, weights,
+    and visual depictions of Gilgamesh and Enkidu with weapons are described.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:2
+  label: Huwawa’s speech and elders’ warning
+  summary: Huwawa’s speech is reported to Gish by the elders, who add a warning to
+    the youthful and impetuous hero; related wording is glossed as luring or entrapping,
+    and the forest interior is noted nearby.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:12
+- id: scene:3
+  label: Kneeling as prayer and submission
+  summary: The commentary interprets kneeling prayer as a sign of submission and compares
+    it with Gilgamesh being forced to kneel in defeat by Enkidu and with a later scene
+    in which Gilgamesh kneels and has a vision.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: heroic weapon-forging and arming of companions
+  taxonomy_refs: []
+  basis: The passage explicitly describes or discusses fabrication and forging of
+    weapons for the two heroes, including lances, axes, and their parts and weights.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is commentary and does not narrate the combat or journey itself.
+- id: motif:2
+  label: elders warn an impetuous hero
+  taxonomy_refs:
+  - wisdom
+  basis: The elders are said to report Huwawa’s speech to Gish and add a warning to
+    the youthful and impetuous hero.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives the warning context
+    but not the full narrative response.
+- id: motif:3
+  label: luring or entrapping speech
+  taxonomy_refs: []
+  basis: A word in the Huwawa speech context is glossed as drive on, lure on, or entrap.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The commentary is primarily lexical and does not provide the full speech
+    in this passage.
+- id: motif:4
+  label: kneeling as prayer, submission, and visionary posture
+  taxonomy_refs: []
+  basis: The kneeling attitude of prayer is said to symbolize submission, and Gilgamesh’s
+    kneeling is linked to defeat and to a vision scene.
+  evidence_refs:
+  - ev:13
+  confidence: medium
+  cautions: The Assyrian-version kneeling reading is noted as uncertain in the passage.
+- id: motif:5
+  label: fame through name-writing
+  taxonomy_refs: []
+  basis: The phrase “writing a name” is explicitly glossed as acquiring fame.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage preserves the phrase as commentary; it does not provide a
+    complete narrative scene for the fame acquisition.
+comparison_claims:
+- id: claim:1
+  claim: The commentary identifies a Sumerian Gilgamesh fragment as a parallel to
+    the forging of weapons for the two heroes.
+  claim_level: same_motif
+  target: Sumerian fragment of the Gilgamesh Epic cited as Langdon, Historical and
+    Religious Texts from the Temple Library of Nippur, No. 55, 1-15
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the parallel but does not quote or summarize the
+    Sumerian fragment in detail.
+- id: claim:2
+  claim: The commentary compares the artisan term with an Assyrian-version scene where
+    artisans look at the horns of the slain divine bull.
+  claim_level: same_function
+  target: Assyrian version, Tablet VI, 187
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns a craft or inspection role and lexical usage
+    rather than a fully developed narrative motif.
+- id: claim:3
+  claim: The commentary relates the lance-forging description to visual depictions
+    of Gilgamesh and Enkidu with lances on seal cylinders.
+  claim_level: visual_similarity
+  target: Seal-cylinder depictions cited from Ward, Seal Cylinders, including Nos.
+    199, 184, 191, and 648
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage cites the images but does not reproduce them, and it notes
+    that exact determination of depicted weapons requires special study.
+- id: claim:4
+  claim: The commentary considers a possible lexical link between mi-it-tu and a divine
+    weapon known from the Assyrian creation myth, while ultimately retaining the meaning
+    “corpse.”
+  claim_level: linguistic_similarity
+  target: Assyrian creation myth divine weapon mittu, cited as Tablet IV, 130
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: uncertain
+  limitations: 'The same discussion gives the counterargument: the writing points
+    to a derivative of the death stem, so the commentator does not adopt the divine-weapon
+    reading.'
+- id: claim:5
+  claim: 'The commentary compares kneeling as submission across Gilgamesh passages:
+    forced kneeling in defeat by Enkidu and a later kneeling vision scene.'
+  claim_level: same_function
+  target: Pennsylvania tablet line 227 and Assyrian version Tablet V, 4, 6
+  evidence_refs:
+  - ev:13
+  counter_evidence_refs:
+  - ev:13
+  confidence: medium
+  limitations: The Assyrian-version reading for kneeling is explicitly noted as uncertain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4042-4057; commentary on lines 149-150
+  quote_or_summary: The commentary discusses mi-it-tu as “corpse,” considers a possible
+    identity with a divine weapon name known from the Assyrian creation myth, but
+    says the writing points to a death-stem derivative and that “corpse” should be
+    retained until a better explanation is available.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4058-4059; commentary on line 152
+  quote_or_summary: The context is said to suggest “lion” for the puzzling la-bu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4064-4065; commentary on line 158
+  quote_or_summary: The phrase is glossed literally as “I will place my hand,” meaning
+    “I purpose” or “I am determined.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized with a short phrase.
+- id: ev:4
+  type: summary
+  locator: 4067-4068; commentary on line 160
+  quote_or_summary: The commentary notes the phrase “writing a name” in the sense
+    of acquiring fame.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized with a short phrase.
+- id: ev:5
+  type: summary
+  locator: 4070-4081; commentary on lines 161-165
+  quote_or_summary: Artisans are said to appear in the Assyrian version to look at
+    the horns of the slain divine bull; a word for fabrication of weapons is discussed,
+    and master mechanics are contrasted with common workmen.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4082-4085; commentary on line 165
+  quote_or_summary: The commentary states that a parallel to the forging of weapons
+    for the two heroes appears in a Sumerian Gilgamesh fragment published by Langdon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4086-4095; commentary on lines 168-170
+  quote_or_summary: 'Lines 168-170 are said to describe forging lance parts: spear
+    point, hilt, and blade; the note also calculates weights of axes, lances, and
+    weapons.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 4095-4111; commentary on lines 168-170
+  quote_or_summary: The lance is said to be depicted on seal cylinders representing
+    Gilgamesh and Enkidu; other cited depictions show a club or mace and a scimitar-like
+    weapon, and the commentator says the exact determination of seal-cylinder weapons
+    merits special study.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4113-4116; commentary on line 181
+  quote_or_summary: A speech of Huwawa is said to extend to line 187 and to be reported
+    to Gish by the elders, who add a further warning to the youthful and impetuous
+    hero.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 4118-4122; commentary on line 183
+  quote_or_summary: The verb lu-uk-s-su is derived from a word glossed as “drive on”
+    or “lure on,” with a related Pennsylvania tablet form glossed as “lure on” or
+    “entrap.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized with short glosses.
+- id: ev:11
+  type: summary
+  locator: 4124-4125; commentary on line 192
+  quote_or_summary: The phrase san bunu, “change of countenance,” is explained in
+    the sense of being enraged.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized with a short gloss.
+- id: ev:12
+  type: summary
+  locator: 4127-4134; commentary on line 194
+  quote_or_summary: The term nu-ma-at is interpreted as the total confine or, in this
+    context, the interior or heart of the forest.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: 4136-4140; commentary on line 215
+  quote_or_summary: The kneeling attitude of prayer is said to symbolize submission;
+    this is compared with Gilgamesh forced to kneel to the ground after defeat by
+    Enkidu and with an Assyrian-version passage where Gilgamesh kneels and has a vision,
+    though the reading is uncertain.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily scholarly commentary with several uncertain readings.
+    Literal observations and explicit parallels are fairly secure, while motif candidates
+    remain provisional because the narrative itself is not fully quoted in this line
+    range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were kept sparse where the passage did not directly support a listed family.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l4042-l4140
+  passage_sha256=8a7a1bf602f376de269f9802392d759ebf9cac7d7373cf6eb7918a5d39bf5252
+

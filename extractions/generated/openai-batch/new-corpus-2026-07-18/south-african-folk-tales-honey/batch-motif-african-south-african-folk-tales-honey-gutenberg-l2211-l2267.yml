@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2211-l2267
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: LION'S ILLNESS / JACKAL, DOVE, AND HERON / COCK AND JACKAL / ELEPHANT AND
+    TORTOISE; lines 2211-2267
+  start: '2211'
+  end: '2267'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the tale of Elephant and Tortoise, Elephant disputes with Rain, seeks
+    rain through lot-casting, claims the last remaining lagoon, and leaves Tortoise
+    to guard it. Many animals ask for water and are refused until Lion beats Tortoise
+    and drinks. Elephant later swallows Tortoise, who kills Elephant from inside his
+    body and escapes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Elephant and Rain are described as two powers who dispute whether Rain nourishes
+    Elephant; Rain then departs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Elephant asks Vulture to cast lots to make rain, but Vulture refuses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Elephant asks Crow to cast lots; Crow receives the needed things, casts lots,
+    and rain falls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The rain reaches the lagoons, which dry up until only one lagoon remains.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Elephant goes hunting and leaves Tortoise at the water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Several animals come to Tortoise asking for water, and Tortoise repeatedly
+    answers that the water belongs to Elephant.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Lion asks Tortoise for water, seizes and beats him, drinks the water, and
+    the passage says that since then animals drink water.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: When Elephant returns, Tortoise says the animals have drunk the water.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Elephant asks whether he should chew Tortoise or swallow him; Tortoise asks
+    to be swallowed, and Elephant swallows him whole.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Inside Elephant's body, Tortoise tears off Elephant's liver, heart, and kidneys.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Elephant dies, and Tortoise comes out of Elephant's dead body and goes away.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Elephant
+  description: A power who disputes with Rain, seeks rain, claims the water, leaves
+    Tortoise to guard it, swallows Tortoise, and dies.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Rain
+  description: A power who says Elephant would die if Rain went away, and then departs.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vulture
+  description: Asked by Elephant to cast lots to make rain, but refuses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Crow
+  description: Asked by Elephant to cast lots; after receiving the needed things,
+    Crow casts lots and rain falls.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Tortoise / Little Tortoise
+  description: Left at the water by Elephant, refuses water requests by saying it
+    belongs to Elephant, is beaten by Lion, is swallowed by Elephant, kills Elephant
+    from inside, and escapes.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Giraffe
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Zebra
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Gemsbok
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Wildebeest
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Roodebok
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Springbok
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:12
+  name_or_label: Jackal
+  description: Comes to Tortoise and asks for water.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:13
+  name_or_label: Lion
+  description: Asks Tortoise for water, beats him, drinks the water, and thereby precedes
+    the animals' drinking.
+  role_refs:
+  - role:7
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: disputing powers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Elephant and Rain are explicitly introduced as two powers having a dispute.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rain-seeker and water-claimant
+  assigned_to:
+  - fig:1
+  basis: Elephant asks for rain-making and later treats the remaining water as his
+    possession.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: departing nourisher
+  assigned_to:
+  - fig:2
+  basis: Rain claims Elephant would die if Rain went away, then departs.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: refuser of lot-casting
+  assigned_to:
+  - fig:3
+  basis: Vulture refuses Elephant's request to cast lots.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: lot-caster who brings rain
+  assigned_to:
+  - fig:4
+  basis: Crow casts lots after receiving the required things, and rain falls.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: guardian of Elephant's water
+  assigned_to:
+  - fig:5
+  basis: Elephant leaves Tortoise at the water, and Tortoise tells requesters the
+    water belongs to Elephant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: water-requesting animals
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  basis: Each listed animal comes to Tortoise and asks for water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: swallower killed from within
+  assigned_to:
+  - fig:1
+  basis: Elephant swallows Tortoise whole and is killed when Tortoise tears off his
+    organs from inside.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:9
+  label: swallowed internal killer and survivor
+  assigned_to:
+  - fig:5
+  basis: Tortoise chooses to be swallowed, tears out Elephant's organs, exits the
+    dead body, and leaves.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:10
+  label: coercive water-taker
+  assigned_to:
+  - fig:13
+  basis: Lion gets hold of Tortoise, beats him, and drinks the water.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Rain as nourishment
+  literal_form: Rain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: remaining lagoon water
+  literal_form: one remaining lagoon and its water
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: lot-casting for rain
+  literal_form: things used to cast lots
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Elephant's internal organs
+  literal_form: liver, heart, and kidneys inside Elephant's body
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Elephant and Rain dispute nourishment
+  summary: Elephant questions Rain's claim to nourish him; Rain answers that Elephant
+    would die if Rain left, and Rain departs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lot-casting brings rain and leaves one lagoon
+  summary: Elephant asks Vulture and then Crow to cast lots for rain. Vulture refuses;
+    Crow casts lots and rain falls, but the lagoons dry until one remains.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Tortoise guards the water
+  summary: Elephant leaves Tortoise at the water while hunting. Several animals ask
+    for water, and Tortoise refuses by saying it belongs to Elephant.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Lion forces access to water
+  summary: Lion asks for water, beats Tortoise, drinks, and the passage states that
+    since then the animals drink water.
+  figure_refs:
+  - fig:5
+  - fig:13
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Tortoise kills Elephant from within
+  summary: Elephant returns, hears the water has been drunk, swallows Tortoise whole,
+    and dies after Tortoise tears out his organs from inside. Tortoise exits the body
+    and leaves.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Dispute with Rain over nourishment
+  taxonomy_refs: []
+  basis: The passage begins with Elephant and Rain disputing whether Rain nourishes
+    Elephant, and Rain warns that Elephant would die if Rain departed.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the dispute but does not expand its cosmological meaning
+    beyond the dialogue.
+- id: motif:2
+  label: Rain obtained through lot-casting
+  taxonomy_refs: []
+  basis: Elephant requests lot-casting to make rain; Vulture refuses, but Crow casts
+    lots and rain falls.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the mechanics or ritual status of the lot-casting.
+- id: motif:3
+  label: Guarded scarce water source
+  taxonomy_refs: []
+  basis: After the lagoons dry until only one remains, Elephant leaves Tortoise at
+    the water, and Tortoise refuses multiple animals by saying the water belongs to
+    Elephant.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The water is treated as Elephant's property in Tortoise's repeated speech;
+    no broader social rule is stated.
+- id: motif:4
+  label: Strong animal forces access to withheld water
+  taxonomy_refs: []
+  basis: Lion asks for water, beats Tortoise, drinks, and the passage links this event
+    with animals drinking water thereafter.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The etiological statement is brief and does not specify all animals individually.
+- id: motif:5
+  label: Swallowed small animal kills large swallower from within
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Tortoise asks to be swallowed rather than chewed, is swallowed whole by Elephant,
+    tears out Elephant's organs from inside, survives, and exits after Elephant dies.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy mapping to trickster_boundary is functional and tentative;
+    the passage does not explicitly call Tortoise a trickster.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2211-2217
+  quote_or_summary: Elephant and Rain are introduced as two powers in dispute over
+    whether Rain nourishes Elephant; Rain says Elephant would die if Rain went away,
+    then departs.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 2218-2222
+  quote_or_summary: Elephant asks Vulture to cast lots to make rain; Vulture says
+    he will not cast lots.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 2223-2227
+  quote_or_summary: Elephant asks Crow to cast lots; Crow asks for the things needed,
+    casts lots, rain falls, lagoons receive rain, then dry up until one lagoon remains.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 2228-2232
+  quote_or_summary: Elephant goes hunting and tells Tortoise to remain at the water,
+    leaving Tortoise behind.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 2233-2255
+  quote_or_summary: Giraffe, Zebra, Gemsbok, Wildebeest, Roodebok, Springbok, and
+    Jackal each ask Tortoise for water; Tortoise answers that the water belongs to
+    Elephant.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: 2256-2259
+  quote_or_summary: Lion asks Little Tortoise for water, grabs and beats him, drinks
+    the water, and the passage says that since then the animals drink water.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: 2260-2264
+  quote_or_summary: Elephant returns, asks whether there is water, hears from Tortoise
+    that the animals drank it, asks whether to chew or swallow Tortoise, and swallows
+    him whole when Tortoise requests it.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: 2265-2266
+  quote_or_summary: After being swallowed, Tortoise enters Elephant's body and tears
+    off his liver, heart, and kidneys; Elephant says Tortoise is killing him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:9
+  type: summary
+  locator: '2267'
+  quote_or_summary: Elephant dies; Tortoise comes out of Elephant's dead body and
+    goes wherever he likes.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    descriptive; only the swallowed-small-animal motif receives a tentative taxonomy
+    mapping. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. No external traditions or unsupported comparisons were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2211-l2267
+  passage_sha256=9f3654d99aa28a9f954e15678c4bf37f225196212c54357cfa0a68d7f259d3aa
+

@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16089-l16107
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: INTRODUCTION / FRAGMENT BY HFIZ / THE DIVAN / XXIII; lines 16089-16107
+  start: '16089'
+  end: '16107'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Turbid or clear, though not thy choice, drink thankfully
+  summary: The passage gives aphoristic counsel to accept what comes from “Sk” with
+    gratitude, contrasts genuine wit with rivals and false coinage, and states that
+    love is awakened by a deep charm rather than by outward features of beauty.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says to drink thankfully whether the drink is turbid or clear
+    and whether it was chosen or not.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that all which flows from “our Sk” is owed to his free grace.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dullards and rival self-deceivers who would share the speaker’s fame are compared
+    with a weaver for whom a mat seems golden.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hfiz is addressed and told to store the wit in the ditty as ruddy gold.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that stampers of false coin are bankers for the city.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A deep charm is said to awaken the lover’s flame, rather than ruby lip or
+    verdant down.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Beauty is denied as merely eye, lock, cheek, and mole; a thousand subtle points
+    are said to control the heart.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hfiz
+  description: A named poetic figure directly addressed in the passage and associated
+    with the wit in the ditty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Sk
+  description: A male-identified source from whom all that is received is said to
+    flow by free grace.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dullard or rival self-deceiver
+  description: A generic rival who would share the speaker’s fame and is associated
+    with self-deception.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: stampers of false coin
+  description: A plural group described as makers of false coin and as bankers for
+    the city.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the lover
+  description: A generic lover whose flame is awakened by a deep charm.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: poet-speaker addressed by name
+  assigned_to:
+  - fig:1
+  basis: The imperative “Cease, Hfiz!” addresses the named figure and links him with
+    the wit in the ditty.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: gracious source of what is received
+  assigned_to:
+  - fig:2
+  basis: The passage says all that flows from “our Sk” is owed to his free grace.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rival self-deceiver
+  assigned_to:
+  - fig:3
+  basis: The passage names dullards and rivals who would share the speaker’s fame
+    and calls them self-deceivers.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: counterfeiter treated as civic banker
+  assigned_to:
+  - fig:4
+  basis: The stampers of false coin are described as bankers for the city.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: lover affected by hidden charm
+  assigned_to:
+  - fig:5
+  basis: The lover’s flame is said to be awakened by a deep charm rather than by named
+    outward features.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: turbid or clear drink
+  literal_form: a drink described as turbid or clear
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flowing free grace
+  literal_form: all which from “our Sk” flows to his free grace
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: golden mat
+  literal_form: a mat that seems golden to its weaver
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ruddy gold
+  literal_form: ruddy gold used as an image for the wit in the ditty
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: false coin
+  literal_form: false coin stamped by counterfeiters
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: lover’s flame
+  literal_form: flame
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: outward beauty features
+  literal_form: ruby lip, verdant down, eye, lock, cheek, and mole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: thankful reception from a gracious source
+  summary: The speaker counsels thankful drinking, regardless of whether the drink
+    is turbid or clear, because what is received flows from Sk’s free grace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: rivalry and false value
+  summary: The passage contrasts the speaker’s wit as ruddy gold with self-deceiving
+    rivals and an image of counterfeit coiners acting as bankers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: inner charm and the lover’s flame
+  summary: The passage states that love is awakened by a deep charm and that beauty
+    consists in subtle heart-controlling points rather than outward features alone.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: grateful acceptance of an allotted drink
+  taxonomy_refs:
+  - wisdom
+  basis: The passage instructs the hearer to drink thankfully whether the drink is
+    turbid or clear and grounds this in the free grace of Sk.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt is lyric and aphoristic rather than a narrative myth; the
+    identity of “Sk” is not explained within the passage.
+- id: motif:2
+  label: true poetic value versus counterfeit status
+  taxonomy_refs:
+  - wisdom
+  basis: The passage opposes the wit of Hfiz’s ditty, stored as ruddy gold, to rivals,
+    a self-deceiving golden mat image, and stampers of false coin treated as bankers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a moral and poetic image cluster; no broader mythic episode is
+    present in the excerpt.
+- id: motif:3
+  label: hidden charm kindling love beyond outward beauty
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says a deep charm wakes the lover’s flame and that beauty is
+    not reducible to eye, lock, cheek, mole, lip, or down, but to subtle points that
+    control the heart.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly identify a divine beloved; the flame is
+    presented as an image of love.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16089-16090
+  quote_or_summary: The speaker advises thankful drinking whether the drink is turbid
+    or clear, and says all from “our Sk” is owed to his free grace.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 16092-16093
+  quote_or_summary: Dullards and rival self-deceivers seeking the speaker’s fame are
+    linked to the image of a mat seeming golden to its weaver.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 16095-16098
+  quote_or_summary: Hfiz is told to store the wit in his ditty as ruddy gold; stampers
+    of false coin are described as bankers for the city.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 16103-16104
+  quote_or_summary: A deep charm is said to wake the lover’s flame, not ruby lip or
+    verdant down.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 16106-16107
+  quote_or_summary: Beauty is described as more than eye, lock, cheek, and mole; subtle
+    points are said to control the heart.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source text; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a short lyric excerpt with aphoristic images rather than a complete
+    mythic narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All content is derived from the supplied passage and metadata only; no external identifications or corrections have been applied.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16089-l16107
+  passage_sha256=fa5eebeaf01dff4502fa1973a9c7a2b9eff0179121cdfbb7f3ff365745902e74
+

@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7351-l7362
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 58 / PAGE 59 / PAGE 60 / PAGE 61; lines 7351-7362
+  start: '7351'
+  end: '7362'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"Hath released her," Irish ros leci.'
+  summary: 'The note discusses the phrase translated “Hath released her,” explaining
+    that it is usually read as Manannan deserting Fand, after which she turned to
+    Cuchulain. It offers an alternative reading: Manannan may have left Fand at liberty
+    to choose her own course. The note also identifies Manannan as the Sea God, “the
+    Celtic Poseidon.”'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The phrase “Hath released her” is linked to the Irish words “ros leci.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says these words are usually taken to mean that Manannan deserted
+    Fand and that Fand then turned to Cuchulain.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that “desert” is not the only possible meaning of “lecim.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In a second form of the story, Fand seems to have left Manannan.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note proposes that the expression may mean Manannan left Fand at liberty
+    to pursue her own course.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Manannan is identified as the Sea God and as “the Celtic Poseidon.”
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Manannan
+  description: A figure said to have deserted, released, or left Fand at liberty;
+    identified as the Sea God and “the Celtic Poseidon.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Fand
+  description: A figure whom Manannan is said to have released or deserted in one
+    interpretation; in another form of the story, she seems to have left Manannan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Cuchulain
+  description: A figure to whom Fand is said to have turned in the usual interpretation
+    of the phrase.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Sea God
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Manannan as the Sea God.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: divine husband who releases or leaves at liberty
+  assigned_to:
+  - fig:1
+  basis: The note proposes that Manannan may have left Fand at liberty, comparing
+    this to what divine husbands often did in other mythologies.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: released or departing woman
+  assigned_to:
+  - fig:2
+  basis: Fand is the one said to be released or deserted; a second form says she seems
+    to have left Manannan.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: figure to whom Fand turns
+  assigned_to:
+  - fig:3
+  basis: The usual interpretation says Fand turned to Cuchulain after Manannan deserted
+    her.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea divinity
+  literal_form: Sea God / Celtic Poseidon
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Interpretive alternatives for Fand’s release
+  summary: 'The note presents competing readings of the phrase: Manannan may have
+    deserted Fand, after which she turned to Cuchulain; alternatively, Manannan may
+    have released her or left her at liberty to pursue her own course. A second form
+    of the story says Fand seems to have left Manannan.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine husband releases spouse or beloved to choose her course
+  taxonomy_refs:
+  - sacred_marriage
+  - departure
+  basis: The passage proposes that Manannan left Fand at liberty to pursue her own
+    course and frames this as behavior associated with divine husbands in other mythologies.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: This is an editorial interpretation of an ambiguous phrase, not an unambiguous
+    narrative event in the quoted line.
+- id: motif:2
+  label: ambiguous separation from a divine partner
+  taxonomy_refs:
+  - departure
+  basis: The note contrasts readings in which Manannan deserts or releases Fand with
+    another form where Fand seems to have left Manannan.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is commentary on variant meanings and forms, so the direction
+    and agency of the separation remain uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Manannan functionally to Poseidon by calling him “the
+    Celtic Poseidon.”
+  claim_level: same_function
+  target: Poseidon / Greek sea-god type
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a brief identification in the note; no Greek narrative
+    parallel is supplied in the passage.
+- id: claim:2
+  claim: The passage compares Manannan’s possible release of Fand to a broader pattern
+    in which divine husbands in other mythologies leave partners at liberty to pursue
+    their own course.
+  claim_level: same_function
+  target: divine husbands in other mythologies who permit a partner’s autonomy
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The passage names no specific external mythology, text, or example,
+    and also notes a variant where Fand herself seems to leave Manannan.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7351-7352
+  quote_or_summary: "“Hath released her,” Irish ros leci."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 7352-7354
+  quote_or_summary: The note says the words are usually taken to mean that Manannan
+    deserted Fand and that she then turned to Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 7354-7355
+  quote_or_summary: The note states that “desert” is not the only possible meaning
+    of the verb “lecim.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 7355-7356
+  quote_or_summary: In the second form of the story, Fand seems to have left Manannan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 7358-7361
+  quote_or_summary: The note says the expression may mean that Manannan left Fand
+    at liberty to pursue her own course.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:6
+  type: quote
+  locator: lines 7361-7362
+  quote_or_summary: "“Manannan is, of course, the Sea God, the Celtic Poseidon.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:7
+  type: summary
+  locator: lines 7360-7361
+  quote_or_summary: The note says that divine husbands often left partners at liberty
+    in other mythologies.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial note rather than a direct narrative episode.
+    Figure identifications are explicit, but motif extraction depends on the note’s
+    interpretive alternatives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the available lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7351-l7362
+  passage_sha256=651933c26550e9f8a80f6eacf8175ebd6cc30761d9946d1b83b3979b5a89e3c0
+

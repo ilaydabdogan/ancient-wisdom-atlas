@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l3465-l3507
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XI. The Sacrifice Decreed. / Canto XII. The Sacrifice Begun. / Canto
+    XIII. The Sacrifice Finished. / Canto XV. The Nectar.; lines 3465-3507
+  start: '3465'
+  end: '3507'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A saintly hermit blesses the king, ministers, and town. Servants tell the
+    king, who comes with a guest-gift, bows, and asks forgiveness for having taken
+    away the hermit's son. The Brahman reassures the king that his virtues have won
+    favour. The saint is led before the king into the abode amid public reverence.
+    Palace women present Śántá as the saint's son's bride; the saint embraces her,
+    and she bows with joined palms. The saint performs a rite for his son that frees
+    from stain and departs with him to the wood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The saintly hermit hears pleasant words with joy and pours a benediction on
+    the king, ministers, and town.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Servants hasten to tell the king the joyful news.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king comes to meet the saint, brings a guest-gift, bows, and asks the
+    saint not to be angry because the king had wiled away the saint's son.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Brahman tells the king not to be afraid and says the king's virtues have
+    won his favour.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The saint is placed in front, the king follows, and they enter the abode amid
+    glad acclaim.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A reverent crowd greets the sage by raising suppliant hands and bowing humbly.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Palace women follow the well-dressed Śántá and identify her to the saint as
+    his son's dear bride.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The saint embraces Śántá; she then bows before him and stands by his side
+    with palm to palm applied.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The saint performs for his son a rite described as freeing from stain, and
+    then departs with him to the wood.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: saintly hermit / high saint / Brahman
+  description: A revered hermit and Brahman who blesses the king and town, receives
+    the king's apology, grants favour, embraces Śántá, performs a rite for his son,
+    and departs to the wood.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: king / monarch / great lord of kings
+  description: The ruler who receives the news, comes to meet the saint with a guest-gift,
+    bows, apologizes for taking away the saint's son, and follows the saint into the
+    abode.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: servants
+  description: Servants who hasten to inform the king of the joyful tidings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: ministers and town
+  description: Collective recipients of the hermit's benediction along with the king.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: reverent crowd
+  description: A crowd that greets the sage with raised suppliant hands and humble
+    bows.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: palace dames
+  description: Women from the palace who follow the well-dressed Śántá and present
+    her to the saint.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Śántá
+  description: A well-dressed woman presented as the saint's son's dear bride; the
+    saint embraces her, and she bows and stands by his side with joined palms.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: the saint's son
+  description: The saint's son, whom the king says he had wiled away; the saint performs
+    a stain-freeing rite for him and departs with him to the wood.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: revered Brahman hermit
+  assigned_to:
+  - fig:1
+  basis: The passage calls him a saintly hermit, high saint, best of Bráhmans, and
+    mighty saint.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: blessing and favour-giving religious authority
+  assigned_to:
+  - fig:1
+  basis: He gives a benediction and tells the king his virtues have won favour.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: father and ritual performer
+  assigned_to:
+  - fig:1
+  basis: The passage connects him to a son and has him perform a rite for that son.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: ruler
+  assigned_to:
+  - fig:2
+  basis: He is called king, monarch, and great lord of kings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: supplicant host or recipient of favour
+  assigned_to:
+  - fig:2
+  basis: He brings a guest-gift, bows, asks forgiveness, and is reassured by the Brahman.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: messengers
+  assigned_to:
+  - fig:3
+  basis: They hasten to acquaint the king with the tidings.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: community blessed by the hermit
+  assigned_to:
+  - fig:4
+  basis: The benediction is poured on king, ministers, and town.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: reverent assembly
+  assigned_to:
+  - fig:5
+  basis: They raise suppliant hands and bow to greet the sage.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: palace attendants presenting Śántá
+  assigned_to:
+  - fig:6
+  basis: The palace dames follow Śántá and call attention to her as the son's bride.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: son's bride and reverent daughter figure
+  assigned_to:
+  - fig:7
+  basis: Śántá is presented as the son's dear bride; the saint embraces her, and she
+    bows beside the hermit father.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:11
+  label: son receiving a rite
+  assigned_to:
+  - fig:8
+  basis: The king refers to the saint's son, and the saint performs for his son a
+    rite that frees from stain.
+  evidence_refs:
+  - ev:3
+  - ev:8
+symbols:
+- id: sym:1
+  label: guest-gift
+  literal_form: A guest-gift in the king's hand when he meets the saint.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: benediction
+  literal_form: A blessing poured on the king, ministers, and town.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: reverential hand gestures
+  literal_form: Bowing, raised suppliant hands, and palm-to-palm gesture.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: rite freeing from stain
+  literal_form: A rite performed by the saint for his son, described as freeing from
+    stain.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: wood as place of departure
+  literal_form: The wood to which the saint departs with his son.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Hermit's blessing and news carried to the king
+  summary: The hermit rejoices at pleasant words and blesses the king, ministers,
+    and town; servants then carry the joyful news to the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: King's supplication and saint's favour
+  summary: The king meets the saint with a guest-gift, bows, asks forgiveness concerning
+    the saint's son, and receives reassurance that his virtues have won favour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Procession into the abode and public reverence
+  summary: The saint is placed before the king as they enter the abode amid acclaim,
+    and a reverent crowd greets the sage with raised hands and bows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Śántá presented and accepted
+  summary: Palace women present Śántá as the son's bride; the saint embraces her,
+    and she bows and stands beside him with joined palms.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Rite for the son and departure to the wood
+  summary: The saint performs a rite for his son that frees from stain and then departs
+    with him to the wood.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Ritualized exchange of gift, blessing, and favour between king and Brahman
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The king brings a guest-gift and bows; the hermit gives benediction and grants
+    favour on the basis of the king's virtues.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows reciprocal ritual courtesy and favour, but any larger
+    sacrificial or theological framework would require surrounding lines.
+- id: motif:2
+  label: Ruler affirmed by ascetic or Brahmanical approval
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king seeks the saint's goodwill, and the Brahman explicitly says the
+    king's virtues have won his favour while the public reveres the sage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports moral and religious approval of the ruler, but does
+    not itself state succession, coronation, or political enthronement.
+- id: motif:3
+  label: Purifying rite performed for a son
+  taxonomy_refs: []
+  basis: The saint performs a rite for his son that is described as freeing from stain.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The exact type of rite is not identified in the provided passage.
+- id: motif:4
+  label: Bride presented to and accepted by a father-hermit figure
+  taxonomy_refs: []
+  basis: Palace women present Śántá as the son's bride; the saint embraces her, and
+    she responds with formal reverence.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents recognition and acceptance, not the full marriage
+    rite itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3465-3468
+  quote_or_summary: The saintly hermit rejoices and “poured a benediction down / On
+    king and ministers and town.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata; excerpt quoted minimally.
+- id: ev:2
+  type: summary
+  locator: 3469-3472
+  quote_or_summary: Servants hasten to acquaint the king with joyful tidings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata.
+- id: ev:3
+  type: summary
+  locator: 3473-3481
+  quote_or_summary: The king comes to meet the saint with a guest-gift, bows, says
+    seeing him makes life worthwhile, and asks him not to be angry because the king
+    had wiled away the saint's son.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata.
+- id: ev:4
+  type: quote
+  locator: 3482-3486
+  quote_or_summary: The Brahman answers that the king should not fear and says, “Thy
+    virtues have not failed to win / My favour.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata; excerpt quoted minimally.
+- id: ev:5
+  type: summary
+  locator: 3487-3492
+  quote_or_summary: The saint is placed in front and the king follows into the abode
+    amid acclaim; the crowd raises suppliant hands and bows to the sage.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata.
+- id: ev:6
+  type: summary
+  locator: 3493-3496
+  quote_or_summary: Palace women follow the well-dressed Śántá and identify her to
+    the saint as his son's dear bride.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata.
+- id: ev:7
+  type: summary
+  locator: 3497-3503
+  quote_or_summary: The saint embraces Śántá; she bows low before him and stands by
+    his side with palm to palm applied.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata.
+- id: ev:8
+  type: quote
+  locator: 3504-3507
+  quote_or_summary: The saint performs “the rite that frees from stain” for his son
+    and departs with him to the wood.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public-domain source metadata; excerpt quoted minimally.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based only on the supplied passage. Motif candidates
+    are limited to patterns directly visible in the excerpt. No comparison claims
+    are made because the passage does not itself support a cautious comparison to
+    another text, tradition, or motif family beyond taxonomy tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or names beyond those present in the supplied passage were added. Available taxonomy references were used only where directly supported by passage evidence.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l3465-l3507
+  passage_sha256=71a6272808afb7d56ceacad6fa2d55867421006453ce6df9e5c691b332dc1136
+

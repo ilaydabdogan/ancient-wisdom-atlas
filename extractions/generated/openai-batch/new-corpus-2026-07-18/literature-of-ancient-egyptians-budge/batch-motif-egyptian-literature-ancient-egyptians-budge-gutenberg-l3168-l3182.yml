@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l3168-l3182
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: THE DESTRUCTION OF MANKIND / THE LEGEND OF RA AND ISIS / THE LEGEND OF HORUS
+    OF BEHUTET AND THE WINGED DISK / THE LEGEND OF KHNEMU AND A SEVEN YEARS' FAMINE;
+    lines 3168-3182
+  start: '3168'
+  end: '3182'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After leaving the god's chamber, the king issues a decree endowing Khnemu's
+    temple with lands and gifts, imposing dues and tithes on farmers, fishermen, hunters,
+    goods, and artisans, with exemptions for temple image-makers. He orders the decree
+    to be copied onto a sanctuary stele bearing figures of Khnemu and companion gods,
+    and prescribes punishment for anyone who spits on it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king leaves the chamber of the god and makes a decree endowing the temple
+    of Khnemu with lands and gifts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The decree establishes laws requiring farmers to pay dues to Khnemu's temple.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fishermen and hunters are required to pay a tithe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One tenth of calves cast are to be sent to the temple for the daily offering.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Gold, ivory, ebony, spices, precious stones, and woods are subject to tithe
+    regardless of whether their owners are Egyptian or not.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Local tribes are forbidden to levy duty on these tithed goods while they travel
+    to Abu.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Artisans are required to pay tithe, except those attached to the temple foundry
+    who make images of the gods.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The king orders a copy of the decree to be engraved on a stele set up in the
+    sanctuary.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Figures of Khnemu and his companion gods are to be cut above the engraved
+    decree.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A person who spits upon the stele, if discovered, is to be punished by being
+    admonished with a rope.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: The ruler who leaves the god's chamber, issues the decree, endows Khnemu's
+    temple, imposes tithes and dues, and orders the stele inscription.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Khnemu
+  description: The god whose temple is endowed and whose figure is to be cut above
+    the stele inscription with companion gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: companion gods of Khnemu
+  description: Divine figures whose images are to be cut above the engraved decree
+    together with Khnemu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: farmers, fishermen, hunters, traders, and artisans
+  description: Groups made subject to dues or tithes under the decree, with a stated
+    exemption for temple image-makers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: temple image-makers
+  description: Artisans employed in the foundry attached to the temple making images
+    of the gods; they are exempt from the artisan tithe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: person who spits upon the stele
+  description: A violator described as subject to punishment if discovered.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal decreer
+  assigned_to:
+  - fig:1
+  basis: The king makes the decree, draws up laws, and orders the stele inscription.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: temple endower
+  assigned_to:
+  - fig:1
+  basis: The king endows the temple of Khnemu with lands and gifts.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: represented temple deities
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Figures of Khnemu and his companion gods are to be cut above the stele inscription
+    in the sanctuary.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: tithe-paying groups
+  assigned_to:
+  - fig:4
+  basis: The decree requires dues or tithes from farmers, fishermen, hunters, owners
+    of goods, and artisans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: exempt sacred artisans
+  assigned_to:
+  - fig:5
+  basis: Artisans making images of the gods in the temple foundry are exempted from
+    the artisan tithe.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: stele desecrator
+  assigned_to:
+  - fig:6
+  basis: The passage names the person who spits upon the stele as subject to punishment
+    if discovered.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: temple of Khnemu
+  literal_form: temple endowed with lands, gifts, dues, tithes, and offerings
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: daily offering
+  literal_form: one tenth of calves sent to the temple to be offered daily
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stele with decree and divine figures
+  literal_form: engraved sanctuary stele bearing the decree with figures of Khnemu
+    and companion gods above it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: images of the gods
+  literal_form: divine images made by artisans in the temple foundry
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Royal endowment and tithe decree
+  summary: The king leaves the god's chamber and issues a decree granting lands and
+    gifts to Khnemu's temple and establishing dues and tithes for several groups and
+    goods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Temple artisans and divine images
+  summary: Artisans are generally included among tithe-payers, but temple foundry
+    workers who make images of the gods are exempted.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Sanctuary stele and penalty
+  summary: The king orders the decree copied onto a sanctuary stele with figures of
+    Khnemu and companion gods above it, and the passage states a penalty for spitting
+    upon the stele.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal temple endowment through decree
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king acts as decreer and benefactor of a god's temple, establishing a
+    permanent legal and economic arrangement and ordering its inscription in the sanctuary.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state a theory of kingship or divine legitimation;
+    the motif label is inferred from the royal action in a sacred setting.
+- id: motif:2
+  label: Sacred exchange through tithes and offerings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The decree channels produce, animals, goods, and labor obligations toward
+    Khnemu's temple, including calves for daily offering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes obligations to the temple but does not narrate a
+    reciprocal divine reward within this excerpt.
+- id: motif:3
+  label: Protected sacred inscription
+  taxonomy_refs: []
+  basis: The decree is monumentalized on a sanctuary stele with divine figures, and
+    a punitive clause is attached to desecrating it by spitting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No matching taxonomy reference is available in the supplied list; the
+    motif is a passage-level descriptive candidate only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3168-3171
+  quote_or_summary: After leaving the god's chamber, the king makes a decree endowing
+    Khnemu's temple with lands and gifts and requiring farmers to pay dues to it.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptegutians-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3172-3174
+  quote_or_summary: Fishermen and hunters must pay a tithe, and one tenth of calves
+    are to be sent to the temple for the daily offering.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3174-3177
+  quote_or_summary: Gold, ivory, ebony, spices, precious stones, and woods are tithed
+    regardless of ownership, and local tribes may not levy duty on them en route to
+    Abu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3177-3179
+  quote_or_summary: Artisans must pay tithe except those in the temple foundry whose
+    work is making images of the gods.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3179-3181
+  quote_or_summary: The king orders a copy of the decree, originally cut in wood,
+    to be engraved on a stele in the sanctuary with figures of Khnemu and companion
+    gods above it.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 3181-3182
+  quote_or_summary: A person who spat upon the stele, if discovered, was to be "admonished
+    with a rope."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation used for ambiguous legal phrase.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily administrative and cultic rather than narrative
+    mythic; literal extraction is strong, while motif identification is cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-textual comparison. Available symbol taxonomy terms did not match the passage literally.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l3168-l3182
+  passage_sha256=8980224d671bbfa0f1c325c1af14d7e8ddfcc1ae19a4895f6675b6d85d41422a
+

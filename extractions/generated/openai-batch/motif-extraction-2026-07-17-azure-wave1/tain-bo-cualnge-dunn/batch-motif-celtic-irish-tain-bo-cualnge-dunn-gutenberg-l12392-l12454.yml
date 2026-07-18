@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l12392-l12454
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: HERE NOW FOLLOWETH THE DISGUISING OF TAMON / HERE NOW COMETH THE HEAD-PLACE
+    OF FERCHU / XXIII / HERE FOLLOWETH THE TOOTH-FIGHT OF FINTAN; lines 12392-12454
+  start: '12392'
+  end: '12454'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Fintan son of Niall Niamglonnach comes from Dun da Benn with a force to
+    defend Ulster’s honor and avenge his son. His men carry spear-shafts with points
+    at both ends and fight multiple battles against the hosts, killing thrice their
+    own number before all but Fintan and his son Crimthann are slain. Crimthann is
+    protected by Ailill and Medb and later returned to Fintan in exchange for his
+    withdrawal until the foretold great battle. The dead are found with facial parts
+    caught in one another’s teeth and tusks after their weapons were spent, giving
+    the episode its name, the Tooth-fight of Fintan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fintan is identified as the son of Niall Niamglonnach from Dun da Benn and
+    as father of Cethern son of Fintan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fintan comes to save Ulster’s honor and to avenge his son upon the hosts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fintan’s force numbers thrice fifty and carries spear-shafts with a spear-head
+    at both the top and the butt.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Fintan’s people offer battles to the hosts and kill thrice their own number.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: All of Fintan’s people fall except Fintan and his son Crimthann.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Crimthann is protected under a canopy of shields by Ailill and Medb and separated
+    from Fintan.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The men of Erin propose returning Crimthann, withdrawing a day’s march, and
+    having Fintan cease attacking until the later great battle.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The later great battle is said to have been foretold by the druids of the
+    men of Erin.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Fintan accepts the arrangement, receives his son, makes friendship with the
+    hosts, withdraws, and later goes to his own land.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: After weapons are used up, the dead are found with lips, noses, and ears in
+    one another’s teeth and tusks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The men of Erin name the event the Tooth-fight of Fintan’s people and of Fintan
+    himself.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fintan son of Niall Niamglonnach
+  description: A warrior from Dun da Benn in the north, father of Cethern and father
+    of Crimthann, who comes to defend Ulster’s honor and avenge his son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Cethern son of Fintan
+  description: Named as a son of Fintan in the genealogical introduction.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Crimthann son of Fintan
+  description: Fintan’s son, the only survivor of Fintan’s people besides Fintan;
+    he is protected, separated from his father, and later returned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Fintan’s people
+  description: A force of thrice fifty warriors with double-ended spears who fight
+    the hosts and are slain except for Fintan and Crimthann.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: Men of Erin / the hosts
+  description: The opposing army that fights Fintan’s people and negotiates the return
+    of Crimthann and a temporary cessation of attacks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Ailill
+  description: One of the rulers who protects Crimthann under a canopy of shields;
+    a note says Ailill saves him out of fear of Fintan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Medb
+  description: One of the rulers who protects Crimthann under a canopy of shields.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Druids of the men of Erin
+  description: Religious specialists credited with foretelling the great battle where
+    the provinces of Erin would clash.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: avenging father and war-leader
+  assigned_to:
+  - fig:1
+  basis: Fintan comes to save Ulster’s honor and avenge his son, and leads the force
+    in battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: protected and restored son
+  assigned_to:
+  - fig:3
+  basis: Crimthann survives, is protected by Ailill and Medb, separated from Fintan,
+    and later returned to him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: doomed war-band
+  assigned_to:
+  - fig:4
+  basis: Fintan’s people fight the hosts and are slain except for Fintan and Crimthann.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: opposing hosts and negotiators
+  assigned_to:
+  - fig:5
+  basis: The men of Erin are the hosts fought by Fintan’s people and propose the terms
+    of Crimthann’s return and Fintan’s withdrawal.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: shield-protectors of Crimthann
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Ailill and Medb save Crimthann under a canopy of shields.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: foretellers of battle
+  assigned_to:
+  - fig:8
+  basis: The druids are said to have foretold the great battle at Garech and Ilgarech.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: double-ended spear-shafts
+  literal_form: Spear-shafts with a spear-head on the top and another at the butt.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: canopy of shields
+  literal_form: A protective covering of shields under which Crimthann is saved.
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: teeth and tusks in combat
+  literal_form: Lips, noses, and ears found in the teeth and tusks of the dead after
+    weapons were exhausted.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: thrice fifty warriors
+  literal_form: The stated number of Fintan’s force.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Garech and Ilgarech
+  literal_form: The named place of the later great battle in which the four grand
+    provinces of Erin would clash.
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fintan arrives with double-ended spears
+  summary: Fintan comes from the north with a force of thrice fifty to defend Ulster’s
+    honor and avenge his son; his warriors carry spear-shafts armed at both ends.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Battles against the hosts
+  summary: Fintan’s people fight the hosts, kill thrice their own number, and are
+    themselves slain except for Fintan and Crimthann.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Crimthann protected and returned
+  summary: Ailill and Medb protect Crimthann under shields. The men of Erin negotiate
+    his return and a retreat in exchange for Fintan ceasing attacks until the later
+    foretold battle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Naming of the Tooth-fight
+  summary: The dead are found with facial parts caught in one another’s teeth and
+    tusks after their weapons were spent, and the men of Erin call the event the Tooth-fight
+    of Fintan.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: avenging father leads a doomed war-band
+  taxonomy_refs: []
+  basis: Fintan comes to avenge his son and defend Ulster’s honor; his force kills
+    many enemies but is destroyed except for Fintan and Crimthann.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level action pattern, not a linked taxonomy motif in
+    the supplied list.
+- id: motif:2
+  label: small force inflicts disproportionate losses before annihilation
+  taxonomy_refs: []
+  basis: Fintan’s force is thrice fifty, offers battles, kills thrice its own number,
+    and then all are slain except Fintan and his son.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the casualty pattern but does not frame it as sacrificial
+    or supernatural.
+- id: motif:3
+  label: protected son returned to secure a truce
+  taxonomy_refs: []
+  basis: Crimthann is saved under shields by Ailill and Medb, then returned to Fintan
+    after the men of Erin propose that Fintan withdraw and stop attacking until a
+    later battle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents negotiation and restoration; it does not call Crimthann
+    a formal hostage.
+- id: motif:4
+  label: battle continues with teeth after weapons are exhausted
+  taxonomy_refs: []
+  basis: The passage explains the name Tooth-fight by describing the dead with lips,
+    noses, and ears in one another’s teeth and tusks after their arms were used up.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The description is violent battle imagery; no additional symbolic interpretation
+    is supplied in the passage.
+- id: motif:5
+  label: foretold future battle at a named clash-place
+  taxonomy_refs: []
+  basis: The men of Erin refer to a future great battle at Garech and Ilgarech, where
+    the four grand provinces would clash, as foretold by their druids.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The prophecy is briefly reported and not narrated as a full prophetic
+    scene in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12396-12405
+  quote_or_summary: Fintan son of Niall Niamglonnach from Dun da Benn is introduced;
+    he comes to save Ulster’s honor and avenge his son with a force of thrice fifty
+    carrying spears with heads at both ends.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12405-12412
+  quote_or_summary: Fintan’s force offers battles to the hosts, kills thrice its own
+    number, and is destroyed except for Fintan and his son Crimthann.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12412-12416
+  quote_or_summary: Crimthann is saved under a canopy of shields by Ailill and Medb,
+    separated from Fintan, and preserved so Fintan will not unleash his fury before
+    the later battle.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12416-12431
+  quote_or_summary: The men of Erin propose returning Crimthann, retreating a day’s
+    march, and having Fintan stop fighting until the great battle at Garech and Ilgarech,
+    foretold by the druids; Fintan accepts, receives his son, makes friendship, withdraws,
+    and later goes home.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 12431-12438
+  quote_or_summary: The dead of both sides are found with lips, noses, and ears in
+    one another’s teeth and tusks after their weapons were used up; the men of Erin
+    call it the Tooth-fight of Fintan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage gives clear named figures, actions, objects, and episode naming.
+    Motif labels are descriptive and not mapped to supplied taxonomy families because
+    no listed family is directly supported. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata; comparison_claims intentionally left empty.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l12392-l12454
+  passage_sha256=f7386d7a4225c0ba67b558d7ed97505dc14447cbc7af0ba8711754c5b9f6b0f8
+

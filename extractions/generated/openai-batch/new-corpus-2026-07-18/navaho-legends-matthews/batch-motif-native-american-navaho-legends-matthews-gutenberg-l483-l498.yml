@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l483-l498
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: POPULATION. / RACIAL AFFINITY--APPEARANCE. / PORTRAITS. / CRANIA.; lines
+    483-498
+  start: '483'
+  end: '498'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes cranial form among the Navahoes and presents the
+    author's explanation that occipital flattening may result from infant use of a
+    hard-backed baby-case or cradle with relatively rigid padding.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Navaho crania are generally brachycephalic and that
+    very few are dolichocephalic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage attributes cranial shortening to flattening in the occipital region.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author gives the opinion that the occipital flattening is caused by the
+    baby-case with a hard, unyielding wooden back used to carry infants.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says the cradle is slightly padded with bark of the cliff rose,
+    called by the Navaho awétsal or baby-bed, and that this padding forms a rather
+    rigid pillow.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When a baby is carried on the mother's back, its head often hangs forward
+    and does not contact the back of the cradle or pillow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that most of the time the child lies on its back and its
+    tender occiput is subjected to deforming pressure.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Navahoes
+  description: The population whose cranial form is described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Author
+  description: The writer who gives an opinion about the cause of occipital flattening.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Navaho women / mothers
+  description: Women described as carrying infants in a baby-case or on the mother's
+    back.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Infants / child / baby
+  description: Infants carried in the baby-case and described as lying on the back
+    with the occiput exposed to pressure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: described population
+  assigned_to:
+  - fig:1
+  basis: The passage describes cranial characteristics of the Navahoes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: explanatory observer
+  assigned_to:
+  - fig:2
+  basis: The author presents an opinion about the cause of occipital flattening.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: infant carriers
+  assigned_to:
+  - fig:3
+  basis: Navaho women or mothers are described as carrying infants in the baby-case
+    or on the back.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: affected infants
+  assigned_to:
+  - fig:4
+  basis: The infants' occiputs are described as being subject to pressure while lying
+    in the cradle.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Cranial description and cradle explanation
+  summary: The passage describes Navaho cranial shape and presents a proposed physical
+    explanation involving infant position in a hard-backed cradle or baby-case with
+    rigid padding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 483-487
+  quote_or_summary: The passage states that Navaho crania are generally brachycephalic,
+    rarely dolichocephalic, and that the author thinks occipital flattening is caused
+    by the hard wooden back of the baby-case used by Navaho women to carry infants.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 488-493
+  quote_or_summary: The passage notes controversy over occipital flattening and describes
+    the cradle's slight padding as cliff rose bark, called awétsal or baby-bed, forming
+    a rather rigid pillow.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 493-498
+  quote_or_summary: The passage says that a baby carried on the mother's back may
+    have the head hanging forward away from the cradle back, but that most of the
+    time the child lies on its back and the occiput is subjected to deforming pressure.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This is an ethnographic anatomical passage rather than a mythic or symbolic
+    narrative. No candidate motifs or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol references are supported by this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l483-l498
+  passage_sha256=57d8c7dfca08fabb5947fe11a2e27aadb145936ea37ce691c713512a47e6e518
+

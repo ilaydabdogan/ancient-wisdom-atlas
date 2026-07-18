@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.greek-argonautica-seaton-gutenberg-l109-l153
+source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+passage_locator:
+  label: The Argonautica / INTRODUCTION; lines 109-153
+  start: '109'
+  end: '153'
+  translation: The Argonautica
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reviews uncertain evidence about Apollonius Rhodius’ life:
+    his birth and death dates are debated; two scholia lives report his Alexandrian
+    origin, connection with Callimachus, youthful public recitation of the Argonautica,
+    condemnation of the poem, withdrawal to Rhodes, revision and successful recitation
+    there, and possible later return to Alexandria with honors connected to the Museum
+    libraries. The passage then discusses Suidas’ notice that he headed the Alexandrian
+    Library and modern chronological doubts about that claim.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Apollonius Rhodius’ birth and death dates are uncertain
+    and that little information about him is available.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two lives of Apollonius in the Scholia are described as deriving from an earlier
+    lost life.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The scholia lives report that Apollonius was born in Alexandria, lived in
+    the time of the Ptolemies, and was a pupil of Callimachus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lives report that, while young, Apollonius composed and publicly recited
+    the Argonautica; the poem was condemned, and he retired to Rhodes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At Rhodes, Apollonius is said to have revised the poem, recited it with great
+    applause, and called himself a Rhodian.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A second life says that some reported Apollonius returned to Alexandria, recited
+    his poem again with great success, was honored with the libraries of the Museum,
+    and was buried with Callimachus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Suidas is cited as saying that Apollonius was contemporary with Eratosthenes,
+    Euphorion, and Timarchus, and that he succeeded Eratosthenes as head of the Alexandrian
+    Library.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage notes that many modern scholars deny Apollonius’ librarianship
+    for chronological reasons, while the author argues that the chronological calculations
+    are themselves uncertain.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Apollonius Rhodius
+  description: Poet associated with the Argonautica; described as Alexandrian by birth,
+    a pupil of Callimachus, later connected with Rhodes, and possibly with the Alexandrian
+    Library.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Callimachus
+  description: Named as Apollonius’ teacher and as the person with whom Apollonius
+    was reportedly buried.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Eratosthenes
+  description: Named by Suidas as a contemporary of Apollonius and as the predecessor
+    whom Apollonius allegedly succeeded in the headship of the Alexandrian Library.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Suidas
+  description: Cited as an authority for Apollonius’ contemporaries and alleged succession
+    to the headship of the Alexandrian Library.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ptolemy Soter
+  description: Named as founder of the famous Library.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: poet and public reciter
+  assigned_to:
+  - fig:1
+  basis: Apollonius is said to have composed and publicly recited the Argonautica,
+    revised it, and recited it again with success.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: possible Alexandrian Library head
+  assigned_to:
+  - fig:1
+  basis: Suidas is cited as saying that Apollonius succeeded Eratosthenes in the headship
+    of the Alexandrian Library, though the passage notes scholarly dispute.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: teacher and burial associate
+  assigned_to:
+  - fig:2
+  basis: Callimachus is named as Apollonius’ teacher and as the person with whom Apollonius
+    was reportedly buried.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: library predecessor
+  assigned_to:
+  - fig:3
+  basis: Eratosthenes is identified as the person whom Apollonius allegedly succeeded
+    in the Library headship.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: cited source authority
+  assigned_to:
+  - fig:4
+  basis: Suidas is cited for claims about Apollonius’ contemporaries and library office.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: library founder
+  assigned_to:
+  - fig:5
+  basis: The Library is described as founded by Ptolemy Soter.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Alexandrian Library / libraries of the Museum
+  literal_form: Library; libraries of the Museum
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Rhodes
+  literal_form: Rhodes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Alexandria
+  literal_form: Alexandria
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Uncertain biographical record
+  summary: The passage introduces uncertainty over Apollonius’ chronology and notes
+    that the available scholia lives derive from a lost earlier life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Condemned poem and retirement to Rhodes
+  summary: The scholia lives report that Apollonius composed and recited the Argonautica
+    as a youth, that the poem was condemned, and that he withdrew to Rhodes, where
+    he revised and recited it successfully.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reported return and Alexandrian honors
+  summary: A second life reports that Apollonius returned to Alexandria, recited the
+    poem successfully, received honors connected to the Museum libraries, and was
+    buried with Callimachus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Library succession and chronological dispute
+  summary: Suidas’ report that Apollonius succeeded Eratosthenes as head of the Alexandrian
+    Library is presented alongside modern chronological objections and a proposed
+    resolution.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: departure after rejection
+  taxonomy_refs:
+  - departure
+  basis: The lives report a sequence in which Apollonius’ youthful public recitation
+    is condemned and he retires to Rhodes.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a biographical-literary pattern in the introduction, not a mythic
+    episode from the Argonautica narrative.
+- id: motif:2
+  label: return with recognition
+  taxonomy_refs:
+  - return
+  basis: A second life reports that Apollonius returned to Alexandria, recited with
+    great success, received library-related honors, and was buried with Callimachus.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage frames the report with 'Some say,' and the surrounding discussion
+    emphasizes uncertainty.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 109-117
+  quote_or_summary: The passage discusses uncertain chronology for Alexandrian literature
+    and Apollonius’ life, notes the Library founded by Ptolemy Soter, and says two
+    scholia lives derive from a lost earlier life.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 117-124
+  quote_or_summary: The scholia lives say Apollonius was Alexandrian by birth, lived
+    under the Ptolemies, was a pupil of Callimachus, composed and publicly recited
+    the Argonautica as a youth, saw it condemned, retired to Rhodes, revised it, recited
+    it successfully, and called himself Rhodian.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 124-130
+  quote_or_summary: The second life says some reported that Apollonius returned to
+    Alexandria, recited the poem with utmost success, was honored with the libraries
+    of the Museum, and was buried with Callimachus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 130-136
+  quote_or_summary: Suidas is cited as saying Apollonius was contemporary with Eratosthenes,
+    Euphorion, and Timarchus, succeeded Eratosthenes as head of the Alexandrian Library,
+    and was later succeeded by Aristophanes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 136-153
+  quote_or_summary: The passage reviews modern chronological objections to Apollonius’
+    librarianship, a proposed solution involving Eratosthenes’ resignation, and the
+    author’s caution that removing the bibliothecariate claim is arbitrary given uncertain
+    calculations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/argonautica-seaton.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The biographical and institutional content is explicit, but motif identification
+    is limited because the passage is introductory scholarship rather than mythic
+    narrative. No comparison claims were made because the passage itself does not
+    support a specific comparative tradition claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references are limited to available motif family IDs directly supported by the reported departure and return sequence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:greek-argonautica-seaton-gutenberg__l109-l153
+  passage_sha256=a91e61488e1a7a58290f6e010da7b08428c1d28e67b53ec36434cd48a019265f
+

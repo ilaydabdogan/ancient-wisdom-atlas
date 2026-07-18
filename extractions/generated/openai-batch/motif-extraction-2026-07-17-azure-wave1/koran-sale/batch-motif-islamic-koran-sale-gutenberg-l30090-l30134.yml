@@ -1,0 +1,497 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l30090-l30134
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXXII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXXIII.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 30090-30134
+  start: '30090'
+  end: '30134'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt includes commentarial notes on accusations against Moses and
+    a comparison to Mohammed's patience under criticism, followed by verses exhorting
+    believers to fear God, speak rightly, obey God and his apostle, describing faith
+    as offered to the heavens, earth, and mountains but undertaken by man, and concluding
+    with divine punishment for hypocrites and idolaters and mercy toward true believers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One commentarial account says Moses was accused by malicious people, and God
+    cleared him by causing the stone holding his clothes to run into the camp, where
+    the Israelites perceived the report to be false.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Another commentarial account says Moses was suspected in Aaron's death on
+    Mount Hor and was justified either by angels exposing Aaron's body or by Aaron
+    being raised to testify.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says reflections were cast on Mohammed over his division of spoils,
+    and he invoked Moses as a brother who had been wronged more and endured patiently.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: True believers are told to fear God and speak well-directed words, so that
+    God may correct their works and forgive their sins; obedience to God and his apostle
+    is linked with great felicity.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Faith is described as proposed to the heavens, the earth, and the mountains;
+    they refused and were afraid, while man undertook it and is described as unjust
+    to himself and foolish.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God is said to punish hypocritical men and women and idolaters and idolatresses,
+    and to turn toward true believing men and women; God is described as gracious
+    and merciful.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Divine agent who clears Moses in one account, corrects works, forgives
+    sins, punishes hypocrites and idolaters, and turns mercifully toward believers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: true believers
+  description: Those addressed to fear God, speak well-directed words, obey God and
+    his apostle, and receive divine forgiveness and mercy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: God's apostle / Mohammed
+  description: The main verse mentions God's apostle; the note identifies Mohammed
+    as criticized over spoils and as comparing his experience to Moses' greater wrong.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Moses
+  description: A prophet described in the notes as falsely accused, divinely or miraculously
+    vindicated, and remembered by Mohammed as having patiently borne wrong.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: malicious accusers of Moses
+  description: People said to have spread a false report about Moses in one commentarial
+    explanation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Israelites
+  description: The community in the camp who perceived the falsehood of the accusation
+    against Moses in one account.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Karn
+  description: Named in a note as a possible source of an accusation against Moses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Aaron
+  description: Named in connection with suspicion cast on Moses at Aaron's death on
+    Mount Hor; one variant says Aaron was raised to life to testify.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: angels
+  description: In one variant, angels bring Aaron's body and expose it to public view
+    to justify Moses.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: man
+  description: Collective human figure who undertakes the faith after the heavens,
+    earth, and mountains refuse it.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: heavens, earth, and mountains
+  description: Cosmic entities to whom the faith is proposed; they refuse to undertake
+    it and are afraid.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:12
+  name_or_label: hypocritical men and women; idolaters and idolatresses
+  description: Groups named as recipients of divine punishment.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine vindicator and judge
+  assigned_to:
+  - fig:1
+  basis: God clears Moses in one note and is described as correcting, forgiving, punishing,
+    and showing mercy in the verses.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: addressed obedient believers
+  assigned_to:
+  - fig:2
+  basis: The verses directly address true believers and connect obedience and right
+    speech with forgiveness and felicity.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: prophetic figures linked by comparison
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The note reports Mohammed calling Moses his brother and treating Moses' greater
+    wrong as an example of patient endurance.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: accused and vindicated prophet
+  assigned_to:
+  - fig:4
+  basis: The notes describe multiple accusations against Moses and accounts of his
+    vindication.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: accuser or slanderer
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The note mentions malicious people spreading a false report and separately
+    names Karn's accusation as another possible referent.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: witness community
+  assigned_to:
+  - fig:6
+  basis: The Israelites are said to perceive the falsehood of the report after Moses
+    follows the stone into camp.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: deceased or revived witness
+  assigned_to:
+  - fig:8
+  basis: Aaron's body is exposed in one variant, or Aaron himself is raised to life
+    to testify in another.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: angelic exposers
+  assigned_to:
+  - fig:9
+  basis: Angels are said to bring Aaron's body and expose it to public view.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: human bearer of faith
+  assigned_to:
+  - fig:10
+  basis: Man undertakes the faith after it is refused by cosmic entities.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: cosmic refusers of faith
+  assigned_to:
+  - fig:11
+  basis: The heavens, earth, and mountains refuse to undertake the faith and are afraid.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: recipients of punishment
+  assigned_to:
+  - fig:12
+  basis: Hypocrites and idolaters of both sexes are named as those God may punish.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: faith as entrusted undertaking
+  literal_form: the faith proposed for undertaking
+  associated_figures:
+  - fig:10
+  - fig:11
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: cosmic recipients
+  literal_form: heavens, earth, and mountains
+  associated_figures:
+  - fig:11
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: runaway stone
+  literal_form: the stone on which Moses laid his clothes, caused to run into the
+    camp
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Mount Hor
+  literal_form: mountain place associated with Aaron's death and the suspicion cast
+    on Moses
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: public proof of Aaron
+  literal_form: Aaron's body exposed to public view, or Aaron raised to life to testify
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:4
+  taxonomy_refs:
+  - resurrection
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Moses accused and vindicated
+  summary: 'Commentarial variants explain an injury to Moses through false accusation:
+    in one, God uses a stone carrying Moses'' clothes to reveal the falsehood; in
+    another, suspicion about Aaron''s death is answered through Aaron''s body or testimony.'
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mohammed compares criticism to Moses' patience
+  summary: A note says Mohammed, criticized over dividing spoils, responded by invoking
+    Moses as a brother who had been wronged more and bore it patiently.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Exhortation to right speech and obedience
+  summary: True believers are commanded to fear God, speak well-directed words, and
+    obey God and his apostle, with divine correction, forgiveness, and felicity promised.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Faith offered to cosmos and undertaken by man
+  summary: Faith is proposed to the heavens, earth, and mountains; they refuse and
+    fear it, while man undertakes it and is described as unjust and foolish.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Punishment and mercy by human groups
+  summary: God may punish hypocritical and idolatrous men and women and turn mercifully
+    toward true believing men and women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cosmic entrustment accepted by humanity
+  taxonomy_refs:
+  - covenant
+  basis: Faith is offered to major cosmic entities, who refuse it, and is then undertaken
+    by man.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied translation says 'faith' rather than explicitly 'covenant';
+    the motif-family mapping is therefore cautious.
+- id: motif:2
+  label: divine judgment with mercy for believers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage distinguishes groups subject to divine punishment from true believers
+    toward whom God turns graciously and mercifully.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a direct thematic match to judgment language in the verse.
+- id: motif:3
+  label: miraculous vindication of a slandered prophet
+  taxonomy_refs: []
+  basis: The notes give variants in which accusations against Moses are publicly disproved
+    through a divinely moved stone, angelic exposure of Aaron's body, or Aaron's testimony.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents these as differing commentarial explanations, not
+    as a single settled narrative.
+- id: motif:4
+  label: resurrected witness gives testimony
+  taxonomy_refs:
+  - resurrection
+  basis: One variant says Aaron was raised to life to testify and thereby justify
+    Moses.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is introduced as one alternative among commentarial views and is
+    not the main verse's focus.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly aligns Mohammed's experience of criticism over spoils
+    with Moses as a wronged prophetic predecessor who endured patiently.
+  claim_level: same_function
+  target: wronged prophetic exemplar within the passage's own prophetic tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is reported in a note attributed to a tradition source
+    and does not establish broader historical or motif diffusion claims.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 30100-30107
+  quote_or_summary: '"GOD cleared him from this aspersion by causing the stone on
+    which he had laid his clothes...to run away with them into the camp"; the Israelites
+    then perceived the falsehood of the report.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 30108-30112
+  quote_or_summary: 'The note gives alternative explanations: Karn''s accusation of
+    Moses, or suspicion that Moses killed Aaron on Mount Hor; Moses is justified by
+    angels exposing Aaron''s body or by Aaron being raised to life to testify.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 30113-30117
+  quote_or_summary: 'Mohammed, criticized over spoils, is reported to have said: "GOD
+    be merciful unto my brother Moses: he was wronged more than this, and bore it
+    with patience."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 30123-30125
+  quote_or_summary: '"O true believers, fear GOD, and speak words well directed";
+    God may correct works, forgive sins, and grant felicity to whoever obeys God and
+    his apostle.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt and summary used.
+- id: ev:5
+  type: quote
+  locator: lines 30126-30128
+  quote_or_summary: '"We proposed the faith unto the heavens, and the earth, and the
+    mountains: and they refused...but man undertook it."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 30129-30131
+  quote_or_summary: God may punish "the hypocritical men" and women and "the idolaters"
+    and idolatresses, and may be turned unto true believers; God is gracious and merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt and summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main-verse observations are direct; commentarial narratives are variant explanations
+    embedded in notes and should be reviewed. Sub-line evidence locators are approximate
+    within the supplied stable range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Initial contextual and lexical notes in the passage were not exhaustively modeled as motifs unless they contributed to the extracted narrative or symbolic patterns.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l30090-l30134
+  passage_sha256=0425ab78e7e6a758316e9ba1e5fa918192593d66d1e68f38f8737c1a8af61b53
+

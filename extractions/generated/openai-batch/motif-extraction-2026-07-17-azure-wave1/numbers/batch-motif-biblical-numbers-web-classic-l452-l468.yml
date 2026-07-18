@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l452-l468
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Chapter 2 / Chapter 3 / Footnotes / Chapter 4; lines 452-468
+  start: '452'
+  end: '468'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists groups of Levites counted for service in the Tent of
+    Meeting: Gershonite families, Merarite families, and the total Levite count. It
+    specifies eligible ages, counts, enumerators, duties of service and burden-bearing,
+    and states that the counting followed Yahweh’s commandment to Moses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The families of the sons of Gershon are described as counted, serving in the
+    Tent of Meeting, and counted by Moses and Aaron according to Yahweh’s commandment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The families of the sons of Merari were counted by their families and fathers’
+    houses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The service age range is stated as from thirty years old upward to fifty years
+    old.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The counted Merarites numbered three thousand two hundred.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Moses, Aaron, and the princes of Israel counted the Levites by their families
+    and fathers’ houses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Those counted entered into work of service and bearing burdens in the Tent
+    of Meeting.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The total number counted among the Levites was eight thousand five hundred
+    eighty.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The counting was performed according to Yahweh’s commandment, with each person
+    counted according to his service and burden.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Families of the sons of Gershon
+  description: A Levite family group counted among those serving in the Tent of Meeting.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Families of the sons of Merari
+  description: A Levite family group counted by families and fathers’ houses for work
+    in the Tent of Meeting.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Levites
+  description: The larger group counted by Moses, Aaron, and the princes of Israel
+    for service and burden-bearing in the Tent of Meeting.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Moses
+  description: One of the enumerators of the Levites; the passage also says the counting
+    was commanded through or to Moses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Aaron
+  description: One of the enumerators of the Levites and their families.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:6
+  name_or_label: Princes of Israel
+  description: Leaders who joined Moses and Aaron in counting the Levites.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Yahweh
+  description: The divine figure whose commandment governs the counting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: counted service group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: These groups are explicitly counted for service connected with the Tent of
+    Meeting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Tent of Meeting workers and burden-bearers
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes service in the Tent of Meeting and the work of bearing
+    burdens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: enumerator
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Moses, Aaron, and the princes of Israel are named as those who counted the
+    Levites or their families.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine commander
+  assigned_to:
+  - fig:7
+  basis: The counting is repeatedly said to occur according to Yahweh’s commandment.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Tent of Meeting
+  literal_form: sacred tent/place of service
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Service age range
+  literal_form: thirty to fifty years old
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Levite total count
+  literal_form: eight thousand five hundred eighty
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Service and burden
+  literal_form: work of service and work of bearing burdens
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Gershonite service group counted
+  summary: The families of the sons of Gershon are identified as counted servants
+    in the Tent of Meeting, counted by Moses and Aaron according to Yahweh’s commandment.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Merarite service group counted
+  summary: The Merarite families are counted by family and fathers’ house, with an
+    eligible age range of thirty to fifty years, and their number is given as three
+    thousand two hundred.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Total Levite census and duty assignment
+  summary: Moses, Aaron, and the princes of Israel count all Levites eligible for
+    service and burden-bearing in the Tent of Meeting, producing a total of eight
+    thousand five hundred eighty, according to Yahweh’s commandment.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divinely commanded census of sacred workers
+  taxonomy_refs: []
+  basis: The passage repeatedly frames the counting of Levite service groups as performed
+    according to Yahweh’s commandment and connected with work in the Tent of Meeting.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is primarily a ritual-administrative passage rather than a developed
+    mythic narrative.
+- id: motif:2
+  label: Assigned sacred burden-bearing service
+  taxonomy_refs: []
+  basis: Eligible Levites are counted according to service and burden, specifically
+    for work and burden-bearing in the Tent of Meeting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives duty categories but does not narrate a burden-bearing
+    episode.
+- id: motif:3
+  label: Age-bounded ritual service
+  taxonomy_refs: []
+  basis: The service groups are restricted to those from thirty years old upward to
+    fifty years old.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states an age requirement but does not explain its symbolic
+    or ritual rationale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Numbers 4:41
+  quote_or_summary: Families of the sons of Gershon are counted among those serving
+    in the Tent of Meeting by Moses and Aaron according to Yahweh’s commandment.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Numbers 4:42-45
+  quote_or_summary: Families of the sons of Merari are counted by family and fathers’
+    house; eligible workers are thirty to fifty years old; the counted number is three
+    thousand two hundred; the counting is according to Yahweh’s commandment by Moses.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Numbers 4:46-48
+  quote_or_summary: Moses, Aaron, and the princes of Israel count all Levites by families
+    and fathers’ houses; those aged thirty to fifty enter work of service and burden-bearing
+    in the Tent of Meeting; the total is eight thousand five hundred eighty.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Numbers 4:49
+  quote_or_summary: According to Yahweh’s commandment, Moses counted everyone according
+    to his service and burden, as Yahweh commanded Moses.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a census and duty assignment, not a narrative myth episode. No
+    comparison claims are made because the passage itself does not support a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was applied; the passage supports ritual-service patterns but not a listed comparative motif family directly.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l452-l468
+  passage_sha256=17efc5e88d4f1f886f2ad7a9ac173f00435a504adae7c28050d0e13d504ad18e
+

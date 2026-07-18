@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16715-l16740
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: CXLVI / CXLIX / CLVII / CLXVI; lines 16715-16740
+  start: '16715'
+  end: '16740'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lyric defines fortune as seeing Beauty, asking alms in her lane, and
+    disdaining royal pomp. It reflects on loosening attachment to life, the pain of
+    losing friends, wandering to an orchard, casting off reputation, hearing secrets
+    of Love from wind, flower, and bulbuls, seizing the occasion to kiss the Beloved,
+    valuing companionship before an irreversible departure from a two-doored house,
+    and asking the Lord to remind Hafiz of Shah Mansur and the poor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fortune is described as obtaining the sight of Beauty, asking for alms in
+    her lane, and disdaining royal pomp.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Severance from the wish for life is called easy, while losing friends who
+    sweeten life is called hard.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he will go to the orchard bud-like with a serried heart and
+    tear the garment of his good repute to pieces there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The West-wind is invoked as one that tells deep secrets to the Flower.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The listener is told to hear of Love's mysterious sport from bulbuls of the
+    bower.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The listener is urged to kiss the Beloved one's lips while the occasion remains.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage urges profit from companionship because, once the two-doored house
+    is forsaken, no pathway later leads back to it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Hafiz is said to have fleeted from the thought of Shah Mansur, and the Lord
+    is asked to remind him that the poor should be treated with favor.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice who says he will wander to the orchard and tear
+    the garment of good repute.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Beauty
+  description: The figure or quality whose sight is identified with fortune.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Beloved one
+  description: The one whose lips the addressee is urged to kiss while the occasion
+    remains.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: friends
+  description: Friends are described as those who sweeten life and are hard to lose.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: West-wind
+  description: The West-wind is described as telling deep secrets to the Flower.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Flower
+  description: The recipient of deep secrets told by the West-wind.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: bulbuls of the bower
+  description: Birds from whom the listener is told to hear of Love's mysterious sport.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Hafiz
+  description: Named figure said to have fleeted from the thought of Shah Mansur.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Shah Mansur
+  description: Named figure whose thought Hafiz appears to have left.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Lord
+  description: The one addressed in a request to remind Hafiz.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: the poor
+  description: People whom the prayer says should be treated with favor.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: first-person wanderer
+  assigned_to:
+  - fig:1
+  basis: The speaker says, "I'll to the orchard wander."
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: beloved object of desire
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Beauty's sight defines fortune, and the Beloved one's lips are to be kissed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: life-sweetening companions
+  assigned_to:
+  - fig:4
+  basis: Friends are explicitly described as sweetening life.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bearer of love-secrets
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The West-wind tells deep secrets, and the bulbuls convey Love's mysterious
+    sport.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of secrets
+  assigned_to:
+  - fig:6
+  basis: The Flower receives deep secrets from the West-wind.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: forgetful named poet
+  assigned_to:
+  - fig:8
+  basis: Hafiz is said to have fleeted from the thought of Shah Mansur.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: remembered ruler or patron
+  assigned_to:
+  - fig:9
+  basis: Shah Mansur is the named figure whose thought Hafiz has left.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: addressee of prayer
+  assigned_to:
+  - fig:10
+  basis: The line directly addresses the Lord with a request to remind Hafiz.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: recipients of favor
+  assigned_to:
+  - fig:11
+  basis: The poor are those whom the passage says should be treated with favor.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Beauty's sight
+  literal_form: obtaining the sight of Beauty
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: alms in Beauty's lane
+  literal_form: asking in her lane for alms
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: royal pomp disdained
+  literal_form: royal pomp disdaining
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: garment of good repute
+  literal_form: the garment of my good repute
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: orchard and bower
+  literal_form: orchard; bower
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: West-wind, Flower, and bulbuls
+  literal_form: West-wind, Flower, bulbuls of the bower
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Beloved's lips
+  literal_form: Beloved one's lips
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: two-doored house
+  literal_form: this two-doored house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fortune as nearness to Beauty
+  summary: The passage defines fortune as seeing Beauty, seeking alms in her lane,
+    and rejecting royal pomp.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attachment to friends
+  summary: The passage contrasts the ease of severing the wish for life with the difficulty
+    of losing friends who sweeten life.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Orchard wandering and torn reputation
+  summary: The first-person speaker plans to wander to the orchard and tear apart
+    the garment of good repute.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Secrets of Love in the bower
+  summary: The West-wind, Flower, and bulbuls form a scene in which deep secrets and
+    Love's mysterious sport are communicated.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Seizing the occasion with the Beloved
+  summary: The addressee is urged to kiss the Beloved's lips at first while the occasion
+    remains.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Irreversible departure from the two-doored house
+  summary: The passage urges profit from companionship before the two-doored house
+    is abandoned, because no future path returns there.
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Prayer concerning Hafiz, Shah Mansur, and the poor
+  summary: The passage asks the Lord to remind Hafiz, who has turned from the thought
+    of Shah Mansur, that the poor should be treated with favor.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Beloved's presence valued above royal status
+  taxonomy_refs:
+  - divine_beloved
+  basis: Fortune is defined as seeing Beauty, begging in her lane, and disdaining
+    royal pomp.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage names Beauty and a Beloved but does not explicitly say the
+    beloved is divine; taxonomy mapping is therefore tentative.
+- id: motif:2
+  label: Renunciation of reputation in the orchard of love
+  taxonomy_refs: []
+  basis: The speaker says he will wander to the orchard and tear the garment of good
+    repute to pieces.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The symbolic force of the torn garment is not explained within the passage.
+- id: motif:3
+  label: Nature as conveyor of love's secrets
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The West-wind tells deep secrets to the Flower, and bulbuls are sources for
+    hearing Love's mysterious sport.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports secret knowledge of Love through natural figures,
+    but does not present a full quest narrative.
+- id: motif:4
+  label: Urgency before irreversible departure
+  taxonomy_refs:
+  - departure
+  basis: The passage urges companionship because, once the two-doored house is forsaken,
+    no pathway later leads back.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The identity of the two-doored house is not explicitly defined in the
+    supplied lines.
+- id: motif:5
+  label: Favor owed to the poor
+  taxonomy_refs: []
+  basis: The prayer asks the Lord to remind Hafiz that the poor should be treated
+    with favor.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a local ethical pattern rather than a clearly mapped mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16715-16720
+  quote_or_summary: '"Knowest thou what fortune is? / ''Tis Beauty''s sight obtaining;
+    / ''Tis asking in her lane for alms, / And royal pomp disdaining."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 16721-16722
+  quote_or_summary: '"Sev''erance from the wish for life an easy task is ever; / But
+    lose we friends who sweeten life, the tie is hard to sever."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 16723-16724
+  quote_or_summary: '"Bud-like with a serried heart I''ll to the orchard wander; /
+    The garment of my good repute I''ll tear to pieces yonder;"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 16725-16726
+  quote_or_summary: '"Now, as doth the West-wind, tell deep secrets to the Flower,
+    / Hear now of Love''s mysterious sport from bulbuls of the bower."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 16727-16728
+  quote_or_summary: '"Kiss thy Beloved one''s lips at first while the occasion lingers:
+    / Await thou else disgust at last from biting lip and fingers."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 16729-16730
+  quote_or_summary: '"Profit by companionship: this two-doored house forsaken, / No
+    pathway that can thither lead in future time is taken."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 16731-16736
+  quote_or_summary: '"Hafiz from the thought, it seems, / Of Shah Mansur has fleeted;
+    / O Lord! remind him that the poor / With favor should be treated."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied English passage. Motif taxonomy
+    assignments are cautious because the lyric is symbolic and does not explicitly
+    define several images, especially Beauty/Beloved and the two-doored house. No
+    comparison claims were made because the passage itself does not supply an explicit
+    comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. The passage heading in the supplied text is CLXVI, while the locator label also lists other poem numbers.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16715-l16740
+  passage_sha256=dadd3da74e38dff107bfc1bb34a79d940e949e1cb8874a917cca2fdfabb9f00d
+

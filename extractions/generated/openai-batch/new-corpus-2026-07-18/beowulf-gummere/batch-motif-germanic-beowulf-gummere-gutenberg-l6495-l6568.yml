@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l6495-l6568
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: WIGLAF'S SAD STORY.--THE HOARD CARRIED OFF. / XLIII. / THE BURNING OF BEOWULF.
+    / ADDENDA.; lines 6495-6568
+  start: '6495'
+  end: '6568'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an addenda listing discrepancies and oversights in the H.-So.
+    glossary to Beowulf. It notes that Harrison and Sharp avoided many of these in
+    their 1888 American edition and then enumerates specific conflicting glossary
+    entries, grammatical classifications, translations, punctuation issues, omissions,
+    and emendation-related inconsistencies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies itself as an addenda and says that several discrepancies
+    and oversights have been noticed in the H.-So. glossary.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Harrison and Sharp, described as American editors of Beowulf,
+    avoided many of the discrepancies in their 1888 edition.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists individual Old English words or phrases with notes about
+    conflicting glossary explanations, translations, or grammatical classifications.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:4
+  text: 'One listed discrepancy concerns ''Heatho-ræmas'': one glossary entry translates
+    a form as referring to the Heathoremes, while another says Heathoræmas reaches
+    Breca in the swimming-match with Beowulf.'
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'One listed discrepancy concerns ''Fáh féond-scaða'': one glossary entry calls
+    the phrase a gleaming sea-monster, while another glosses ''fáh'' as hostile.'
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Later entries include corrections or proposed corrections involving case,
+    punctuation, lexical omission, translation, and an emendation not reflected in
+    the glossary.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: H.-So. glossary / H.
+  description: The glossary and editorial authority whose discrepancies and oversights
+    are being noted; several entries are introduced with 'Under ... H. says'.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Harrison and Sharp
+  description: American editors of Beowulf who are said to have avoided many discrepancies
+    in their 1888 edition and to correct or suggest corrections in some entries.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Beowulf
+  description: Referenced in a glossary discrepancy as a participant in a swimming-match
+    with Breca.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Breca
+  description: Referenced in a glossary discrepancy involving a swimming-match with
+    Beowulf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Heathoremes / Heathoræmas
+  description: Referenced in a glossary discrepancy as an ethnonym or name connected
+    with the entry 'Heatho-ræmas'.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: criticized glossary source
+  assigned_to:
+  - fig:1
+  basis: The addenda presents discrepancies and oversights in the H.-So. glossary
+    and repeatedly contrasts entries attributed to H.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: correcting or avoiding editors
+  assigned_to:
+  - fig:2
+  basis: The passage says Harrison and Sharp avoided many discrepancies in their 1888
+    edition and notes particular corrections or suggestions by them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: referenced epic participant in glossary example
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Beowulf and Breca appear only within a cited glossary explanation concerning
+    a swimming-match.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: referenced name or group in glossary example
+  assigned_to:
+  - fig:5
+  basis: The passage discusses conflicting treatment of 'Heatho-ræmas' / 'Heathoremes'
+    in glossary entries.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial addenda listing glossary discrepancies
+  summary: The addenda introduces a set of discrepancies and oversights in the H.-So.
+    glossary and states that many were avoided by Harrison and Sharp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Specific glossary discrepancy examples
+  summary: The passage proceeds through a sequence of Old English words and phrases,
+    recording conflicting glosses, grammatical analyses, corrections, and omissions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6495-6504; ADDENDA introductory paragraph
+  quote_or_summary: The addenda states that discrepancies and oversights have been
+    noticed in the H.-So. glossary; it says many were avoided by Harrison and Sharp,
+    American editors of Beowulf, in their 1888 edition, and that the remaining principal
+    oversights of the German editors are being noted.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 6505-6518; entries from '~From hám~ (194)' through '~Eal bencþelu~
+    (486)'
+  quote_or_summary: Early entries note conflicts between notes and glossary, between
+    separate glossary entries, and between grammatical classifications such as nominative
+    plural versus nominative singular.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: entry '~Heatho-ræmas~ (519)' within lines 6495-6568
+  quote_or_summary: The entry says one glossary location translates a form as 'to
+    the Heathoremes', while another says Heathoræmas reaches Breca in the swimming-match
+    with Beowulf; it adds that Harrison and Sharp avoided the discrepancy.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summary supplied with brief public-domain terms.
+- id: ev:4
+  type: summary
+  locator: entry '~Fáh féond-scaða~ (554)' within lines 6495-6568
+  quote_or_summary: The entry says one glossary treatment calls 'féond-scaða' a gleaming
+    sea-monster, while the treatment of 'fáh' glosses it as hostile.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summary supplied with brief public-domain terms.
+- id: ev:5
+  type: summary
+  locator: remaining entries from '~Onfeng hraðe inwit-þancum~ (749)' through '~Bronda
+    be láfe~ (3162)' within lines 6495-6568
+  quote_or_summary: Later entries record discrepancies involving translation, grammatical
+    case, punctuation, an omitted glossary item, suggested corrections by Harrison
+    and Sharp, and a recent emendation for which the glossary was not updated.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The supplied passage is editorial apparatus rather than mythic narrative.
+    Extraction therefore records editorial figures and literal textual observations,
+    with no candidate motifs, symbols, or comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol references were applied because the passage itself does not present a mythic scene or symbolic pattern; terms such as 'sea-monster' appear only as glossary-discrepancy examples.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l6495-l6568
+  passage_sha256=2940351daa5afde6cfbde494eb45ef5219ac185d478202572a5cf2cc7a3ebc9f
+

@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.australian-euahlayi-tribe-parker-gutenberg-l5422-l5450
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+passage_locator:
+  label: CHAPTER XIV / COSTUMES AND WEAPONS / CHAPTER XV / THE AMUSEMENTS OF BLACKS;
+    lines 5422-5450
+  start: '5422'
+  end: '5450'
+  translation: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a riddle whose answer is a man’s neglected feet, then
+    shifts to the narrator’s account of riddles, fights or quarrels, verbal insults
+    involving totems, a quick return from anger to joking amity, long memory of promises,
+    grudges, and kindnesses, and the usual softness and musical quality of voices
+    and language.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A riddle asks who says that one cannot walk without them, yet greases the
+    body and forgets them; the answer is a man’s feet, neglected when the rest of
+    the body is greased.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the list of amusements ends with riddles, unless fights
+    are counted, and characterizes some people as eager for quarrels.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator states that in most everyday rows, feelings are more damaged
+    than bodies.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An angry old woman is described as speaking rapidly and loudly while scoffing
+    at an opponent’s totem and multiple totems.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The insulted opponent returns insult for insult, producing a lively verbal
+    exchange.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the insults are exhausted, quiet returns; someone makes a joke and the
+    people laugh together in amity.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator says a man never forgives a broken promise and can remember a
+    grudge from generation to generation, as well as remember a kindness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says quarrelling voices lose their natural tones, but ordinarily
+    the voices are sweet, soft, musical, and the language lacks harsh sounds.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaking feet in the riddle
+  description: The answer to the riddle is a man’s feet, which are neglected and allowed
+    to crack when the rest of the body is greased.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man in the riddle
+  description: A man who greases his body but forgets his feet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: people described by the narrator
+  description: The passage describes their amusements, quarrels, responses to insults,
+    memory of promises and grudges, and vocal qualities.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: old woman in a rage
+  description: An old woman is described as angrily delivering many insults, including
+    insults to an opponent’s totem identities.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: insulted opponent
+  description: The opponent whose totem identities are mocked and who returns insult
+    for insult.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: joke-maker
+  description: An unnamed person who makes a joke after the quarrel subsides.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: personified body-part speaker
+  assigned_to:
+  - fig:1
+  basis: The riddle presents the feet as the voice asking why they are forgotten despite
+    being necessary for walking and running.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: neglectful body-greaser
+  assigned_to:
+  - fig:2
+  basis: The man greases the rest of his body but neglects his feet.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: participants in amusements and everyday rows
+  assigned_to:
+  - fig:3
+  basis: The narrator discusses riddles as amusements and possible fights or everyday
+    rows among the people described.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: verbal aggressor
+  assigned_to:
+  - fig:4
+  basis: The old woman in a rage initiates a rapid sequence of insults against her
+    opponent’s totem identities.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: insulted respondent
+  assigned_to:
+  - fig:5
+  basis: The opponent is insulted and returns insult for insult.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: restorer of laughter through joking
+  assigned_to:
+  - fig:6
+  basis: After quiet returns, someone makes a joke and all laugh together in amity.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: rememberer of broken promises, grudges, and kindnesses
+  assigned_to:
+  - fig:3
+  basis: The narrator generalizes that a man remembers broken promises, grudges across
+    generations, and kindnesses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: feet
+  literal_form: A man’s feet in the riddle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: body grease
+  literal_form: Grease applied to the body but not to the feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: totem identities as targets of insult
+  literal_form: The opponent’s totem and multiple totems named in verbal insults
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Riddle of the neglected feet
+  summary: A riddle voices a complaint from the feet, which are necessary for walking
+    and running but are forgotten when the body is greased; the answer identifies
+    them as a man’s feet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Amusements and everyday rows
+  summary: The narrator closes the list of amusements with riddles and remarks that
+    fights might also be counted, while saying everyday rows usually injure feelings
+    more than bodies.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Totem-insult quarrel
+  summary: An angry old woman verbally attacks an opponent by scoffing at totem identities;
+    the opponent answers insult with insult.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Quarrel subsides into joking amity
+  summary: The verbal exchange quiets after insults are exhausted, a joke is made,
+    and the group laughs together; the narrator then comments on long memory of promises,
+    grudges, and kindnesses.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Voice and language description
+  summary: The narrator contrasts altered voices during quarrels with ordinarily sweet,
+    soft, musical voices and a language described as free from harsh sounds.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: personified body part complains of neglect
+  taxonomy_refs: []
+  basis: The riddle makes the feet the implied speaker, complaining that they are
+    forgotten despite enabling walking and running.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a riddle motif from an ethnographic collection, not a mythic narrative
+    episode.
+- id: motif:2
+  label: verbal quarrel through reciprocal insults
+  taxonomy_refs: []
+  basis: The passage describes insults to totem identities followed by insult returned
+    for insult.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The account is a social observation by the narrator, not a formal mythic
+    plot.
+- id: motif:3
+  label: anger transformed quickly into laughter
+  taxonomy_refs: []
+  basis: After a heated quarrel, insults cease, a joke is made, and the group laughs
+    together in amity within minutes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is framed as everyday behavior rather than a sacred or mythological
+    transformation.
+- id: motif:4
+  label: enduring memory of broken promise, grudge, and kindness
+  taxonomy_refs: []
+  basis: The narrator states that broken promises are not forgiven, grudges can be
+    cherished across generations, and kindness is also remembered.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a generalized ethnographic statement, so motif status requires
+    human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5422-5425
+  quote_or_summary: 'Riddle: a voice says the body is greased while it is forgotten
+    and left to crack, though walking and running depend on it; the answer is a man’s
+    feet.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 5427-5430
+  quote_or_summary: The narrator says riddles end the list of amusements unless fights
+    are counted, describes some people as eager for quarrels, and says everyday rows
+    mostly damage feelings rather than bodies.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 5432-5438
+  quote_or_summary: An old woman in anger rapidly insults an opponent’s totem and
+    multiple totems; the opponent returns insult for insult in a lively exchange.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 5440-5445
+  quote_or_summary: The insults subside, quiet returns, someone makes a joke, and
+    all laugh together; the narrator adds that broken promises, grudges across generations,
+    and kindnesses are remembered.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 5447-5450
+  quote_or_summary: The narrator says voices become unnatural in high-pitched quarrels,
+    but are usually sweet, soft, and musical, and the language is free from harsh
+    sounds.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal content is clear, but most candidate motifs are drawn from riddles
+    and ethnographic social description rather than from a mythic narrative. No taxonomy
+    IDs were applied because the supplied motif and symbol lists do not directly match
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Summaries use neutral wording where possible. The source passage contains dated ethnographic and racial terminology; exact reproduction is minimized except where necessary for identification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-euahlayi-tribe-parker-gutenberg__l5422-l5450
+  passage_sha256=9fb78b533d814d71f95788206da10ea06c39ad8906661a6c3cb94569e7192d80
+

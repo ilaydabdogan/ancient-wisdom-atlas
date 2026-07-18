@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l8713-l8823
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 8713-8823
+  start: '8713'
+  end: '8823'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: The blindness of your heart has wrought the blindness of your body.
+  summary: Baba-Abdalla recounts how a dervish gave him an ointment that revealed
+    hidden treasures when applied to the left eye but caused blindness when applied
+    to the right. Driven by avarice, he insisted on the forbidden application, became
+    blind, lost his wealth, and became a penitent beggar. The Caliph then declares
+    that he has suffered enough and provides for his needs before turning to Sidi-Nouman.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The dervish gives the narrator the box containing the ointment, and the narrator
+    opens it and asks about the ointment's virtues.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dervish says that a little ointment on the left eye reveals treasures
+    hidden in the earth, while contact with the right eye destroys sight forever.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the narrator's request, the dervish applies the ointment to the narrator's
+    left eye, and the narrator sees countless treasures.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator asks for the ointment to be applied to his right eye also, despite
+    warnings that this will make him blind.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The narrator distrusts the dervish's warning and believes the second eye may
+    reveal how to obtain the riches.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After repeated insistence, the dervish applies the ointment to the narrator's
+    right eye, and the narrator becomes blind.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator says his lust for gold caused his suffering and asks whether
+    the dervish can restore his sight.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The dervish says the blindness is a just chastisement and that the narrator's
+    heart-blindness has caused bodily blindness.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The dervish leaves with the eighty camels toward Balsora, while merchants
+    later find the narrator and bring him back to Bagdad.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The narrator says he became a beggar, lives on alms, and requires each passer-by
+    to give him a blow to expiate avarice.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The Caliph addresses the blind man as Baba-Abdalla, says he has suffered enough,
+    and promises daily provision for his needs.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: After this tale, the Caliph turns to the young man who had ill-treated his
+    horse, and the young man gives his name as Sidi-Nouman.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Baba-Abdalla / blind man narrator
+  description: The first-person narrator who receives the ointment, insists on its
+    use on both eyes, becomes blind, and later lives as a beggar.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: dervish
+  description: The man who possesses and applies the ointment, warns the narrator,
+    declares the blindness a chastisement, and leaves with the camels.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: merchants
+  description: Merchants who come along the track the following day and bring the
+    blinded narrator back to Bagdad.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Caliph / Haroun-al-Raschid / Commander of the Faithful
+  description: The ruler who hears the blind man's story, addresses him as Baba-Abdalla,
+    and promises daily support; he then questions the next young man.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Sidi-Nouman / young man who had ill-treated his horse
+  description: The young man whom the Caliph questions after the blind man's tale;
+    he gives his name as Sidi-Nouman.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: requester and tester of the ointment
+  assigned_to:
+  - fig:1
+  basis: He asks about the ointment, asks the dervish to try it on him, and later
+    insists on its use on the right eye.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: possessor and operator of the supernatural ointment
+  assigned_to:
+  - fig:2
+  basis: He explains the ointment's effects and applies it to the narrator's eyes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: warner and moral admonisher
+  assigned_to:
+  - fig:2
+  basis: He repeatedly warns against the right-eye application and later explains
+    the blindness as chastisement.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: blinded penitent beggar
+  assigned_to:
+  - fig:1
+  basis: After the right-eye application he becomes blind, later saying he lives on
+    alms and seeks blows to expiate avarice.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:5
+  label: rescuers
+  assigned_to:
+  - fig:3
+  basis: They find the blinded narrator on the track and bring him back to Bagdad.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: ruler-judge and provider
+  assigned_to:
+  - fig:4
+  basis: The Caliph evaluates Baba-Abdalla's suffering and promises enough daily money
+    for his wants.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: next named respondent
+  assigned_to:
+  - fig:5
+  basis: After the tale, the Caliph asks the young man's name, and he replies that
+    he is Sidi-Nouman.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: magical ointment
+  literal_form: ointment in a box
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: left eye as treasure-seeing eye
+  literal_form: left eye touched with ointment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: right eye as forbidden/blinding eye
+  literal_form: right eye touched with ointment despite warning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: hidden treasures and gold
+  literal_form: treasures hidden in the bowels of the earth; gold and riches
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: blindness and darkness
+  literal_form: heavy clouds of darkness and bodily blindness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: expiatory blow
+  literal_form: a blow required from each passer-by
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: The box and the warning
+  summary: The dervish gives the narrator the box, and explains that the ointment
+    has opposite effects on the left and right eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Left-eye revelation of treasure
+  summary: The dervish applies the ointment to the narrator's left eye, and the narrator
+    sees countless treasures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Right-eye insistence and blindness
+  summary: The narrator rejects the warning, presses for the right-eye application,
+    and becomes blind when the dervish finally complies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Chastisement, abandonment, and rescue
+  summary: The narrator admits his lust for gold, the dervish declares the blindness
+    a just chastisement, then leaves with the camels; merchants later bring the narrator
+    back to Bagdad.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Penance and Caliphal response
+  summary: Baba-Abdalla describes his beggary and self-imposed blows for expiation;
+    the Caliph says he has suffered enough and promises to provide for him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Transition to Sidi-Nouman
+  summary: After the blind man's tale, the Caliph turns to the young man who had ill-treated
+    his horse, and the young man gives his name as Sidi-Nouman.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Warning against a forbidden use of supernatural knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The ointment reveals hidden treasures through the left eye but carries a
+    specific prohibition for the right eye; the narrator ignores the warning and loses
+    sight.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the event primarily as avarice and disobedience; the
+    taxonomy link to forbidden knowledge is functional rather than explicitly named.
+- id: motif:2
+  label: Greed punished by loss of sight and status
+  taxonomy_refs: []
+  basis: The narrator's avarice leads him to demand the right-eye application; he
+    becomes blind and later says he changed in one moment from rich man to beggar.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: No external taxonomy reference is supplied for avarice-punishment as a
+    named motif.
+- id: motif:3
+  label: Bodily blindness as moral insight
+  taxonomy_refs:
+  - wisdom
+  basis: After becoming blind, the narrator says his eyes are truly opened, and the
+    dervish says the blindness of the heart has caused blindness of the body.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The wisdom element is moral realization after punishment, not a formal
+    wisdom quest.
+- id: motif:4
+  label: Penitential self-abasement after transgression
+  taxonomy_refs: []
+  basis: The narrator lives on alms and requires passers-by to strike him in order
+    to expiate the sin of avarice; the Caliph redirects him toward private repentance.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage presents the practice as the narrator's expiation, but does
+    not connect it to a wider named ritual pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8713-8721
+  quote_or_summary: The narrator says the dervish gives him the box; he opens it and
+    asks about the ointment's virtues.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 8723-8726
+  quote_or_summary: The dervish explains that ointment on the left eye reveals treasures
+    hidden in the earth, while touching the right eye destroys sight forever.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 8728-8738
+  quote_or_summary: The narrator asks the dervish to test the ointment; the dervish
+    applies it to the left eye, and the narrator sees treasures of every kind and
+    without number, then asks for the right eye also.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 8740-8769
+  quote_or_summary: The dervish repeats the warning and refuses; the narrator distrusts
+    him, is driven by avarice, and continues pressing for the right-eye application
+    despite further warning.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 8771-8781
+  quote_or_summary: After the narrator insists, the dervish applies the ointment to
+    the right eye; heavy clouds of darkness appear, the narrator becomes blind, admits
+    that lust for gold caused his suffering, and asks for restored sight.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: quote
+  locator: lines 8783-8790
+  quote_or_summary: The dervish calls the event a just chastisement and says, "The
+    blindness of your heart has wrought the blindness of your body." He says he has
+    no secret to restore sight.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 8792-8799
+  quote_or_summary: The dervish leaves the narrator, collects the eighty camels, and
+    goes toward Balsora; merchants find the narrator the next day and bring him back
+    to Bagdad.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 8801-8804
+  quote_or_summary: The narrator says he became a beggar, lives on alms, and requires
+    each passer-by to give him a blow to expiate the sin of avarice.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: lines 8806-8814
+  quote_or_summary: The story is addressed to the Commander of the Faithful; the Caliph
+    calls the blind man Baba-Abdalla, says he has suffered enough, promises daily
+    money, and Baba-Abdalla falls at his feet.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+- id: ev:10
+  type: summary
+  locator: lines 8816-8823
+  quote_or_summary: The heading introduces the Story of Sidi-Nouman; Haroun-al-Raschid
+    turns to the young man who had ill-treated his horse, asks his name, and he replies
+    that he is Sidi-Nouman.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious
+    and limited to patterns directly evidenced in this passage; no cross-tradition
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims included because the passage itself does not make or strongly imply a comparison to another named text or tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l8713-l8823
+  passage_sha256=fd15c2ab8ffd4c9d5ace437059f80613bdb4425a7e26780665499130ed9fc076
+

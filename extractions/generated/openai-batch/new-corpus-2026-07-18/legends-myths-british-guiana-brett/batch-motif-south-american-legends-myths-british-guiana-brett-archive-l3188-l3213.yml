@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l3188-l3213
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 61 / LEGEND OF THE GREAT WATERS. / ABORIGINAL
+    TRIBES OF GUIANA. 63 / LEGEND OF KOROBONA.; lines 3188-3213
+  start: '3188'
+  end: '3213'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: In the opening of the Legend of Korobona, two Warau maidens praise a calm
+    woodland lake, observe it from the hills, and approach it despite their brothers'
+    warning that it is fatal to bathe there. Korobona, identified as the elder sister,
+    dismisses the warning as idle and invites her sister to bathe with her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two Warau maidens sing affectionately to calm, clear waters beside a woodland
+    lake where they enjoy walking.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maidens first spy the guarded spot from the hills.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The maidens' brothers warn them that the lake is fatal and tell them not to
+    bathe there.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The maidens nevertheless venture near the lake.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Korobona is identified as the elder sister and invites her sister to bathe
+    with her, saying they have been restrained by an idle threat.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Korobona
+  description: A Warau maiden, identified as the elder sister, who invites her sister
+    to bathe in the lake.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Korobona's sister
+  description: The unnamed younger sister of Korobona, one of the two Warau maidens.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: The maidens' brothers
+  description: Brothers who warn the maidens that the lake is fatal and not to bathe
+    there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Warau maiden
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the pair as two Warau maidens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: elder sister
+  assigned_to:
+  - fig:1
+  basis: Korobona is called the elder sister.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: younger sister
+  assigned_to:
+  - fig:2
+  basis: Korobona addresses the unnamed maiden as sister after being identified as
+    the elder sister.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: warned visitors to the lake
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The sisters approach the lake despite their brothers' warning not to bathe
+    there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: warning-givers
+  assigned_to:
+  - fig:3
+  basis: The brothers tell the maidens to beware and not to bathe in the fatal lake.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fatal lake waters
+  literal_form: calm, clear woodland lake waters described by the brothers as fatal
+    for bathing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: hills overlooking the guarded spot
+  literal_form: hills from which the maidens first spy the guarded lake area
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Maidens praise the lake
+  summary: Two Warau maidens sing to the calm, clear waters and describe their pleasure
+    walking by the lake margin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning against bathing
+  summary: The maidens observe the guarded spot from the hills, and their brothers
+    warn them that the lake is fatal and should not be used for bathing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Korobona proposes bathing
+  summary: After venturing near the lake, Korobona dismisses the warning as idle and
+    asks her sister to bathe with her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sibling pair approaches a dangerous forbidden place
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage centers on two sisters who approach a lake after being warned
+    by their brothers that it is fatal to bathe there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage excerpt stops before any consequence, so the full function
+    of the sibling-pair episode is not yet visible.
+- id: motif:2
+  label: dangerous water with bathing prohibition
+  taxonomy_refs: []
+  basis: The lake is described as calm and attractive, but the brothers warn that
+    it is fatal and forbid bathing there; Korobona then proposes bathing anyway.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference exactly matches a bathing prohibition
+    or dangerous water taboo; the water symbol is supported, but broader motif classification
+    remains provisional.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3188-3197
+  quote_or_summary: 'Opening of the Legend of Korobona: two Warau maidens sing to
+    calm, clear waters and describe happy walks by the margin of a woodland lake.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 3198-3202
+  quote_or_summary: The maidens first spy the guarded spot from the hills.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: 3203-3206
+  quote_or_summary: '"Beware, / The lake is fatal, bathe not there!"'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: '3207'
+  quote_or_summary: Despite the warning, the maidens venture near the lake.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 3208-3213
+  quote_or_summary: Korobona, the elder sister, says they have been restrained by
+    an idle threat and invites her sister to bathe with her.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif classification is limited
+    because the supplied excerpt ends at Korobona's invitation to bathe and does not
+    include the outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or tradition-level comparison beyond local motif candidates.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l3188-l3213
+  passage_sha256=47adc9bab7437af6589de552285ad645e25468cf4c26c6088d5693ed67f84ac6
+

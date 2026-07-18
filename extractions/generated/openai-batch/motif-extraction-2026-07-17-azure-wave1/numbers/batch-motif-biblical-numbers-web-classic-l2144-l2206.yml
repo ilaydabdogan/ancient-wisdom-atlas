@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l2144-l2206
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Chapter 25 / Chapter 26 / Chapter 27 / Chapter 28; lines 2144-2206
+  start: '2144'
+  end: '2206'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Yahweh instructs Moses to command Israel concerning recurring offerings:
+    daily burnt offerings, additional Sabbath and monthly offerings, Passover and
+    Unleavened Bread offerings, and First Fruits/Feast of Weeks offerings. The prescriptions
+    specify animals, meal and drink offerings, holy convocations, cessation from regular
+    work, and sin offerings for atonement.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yahweh speaks to Moses and tells him to command the children of Israel to
+    present offerings in their due season.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The daily continual burnt offering consists of two defect-free year-old male
+    lambs, one offered in the morning and one at evening, with meal and drink offerings.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The continual burnt offering is described as ordained at Mount Sinai and as
+    an offering made by fire for a pleasant aroma to Yahweh.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the Sabbath, two additional defect-free year-old male lambs with meal and
+    drink offerings are prescribed in addition to the continual burnt offering.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the beginnings of months, the passage prescribes burnt offerings of bulls,
+    a ram, and seven lambs, with measured meal and drink offerings, plus one male
+    goat for a sin offering.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Passover is placed in the first month on the fourteenth day, followed by a
+    feast beginning on the fifteenth day during which unleavened bread is eaten for
+    seven days.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The first and seventh days of the Unleavened Bread feast are holy convocations,
+    and regular work is forbidden on those days.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: During the Unleavened Bread feast, daily offerings include bulls, a ram, seven
+    lambs, and a male goat for a sin offering to make atonement.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: On the day of first fruits in the Feast of Weeks, Israel is to have a holy
+    convocation, avoid regular work, and offer burnt, meal, drink, and goat offerings.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Several offerings are specified with exact quantities of flour, oil, wine,
+    strong drink, ephah portions, and hin portions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: obs:11
+  text: Repeated offerings are described as being made by fire and as a pleasant aroma
+    to Yahweh.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: obs:12
+  text: Festival and additional offerings are repeatedly stated to be offered besides
+    or in addition to the continual burnt offering.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Yahweh speaks to Moses and is the recipient of the prescribed offerings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Moses
+  description: Moses receives Yahweh's speech and is told to command the children
+    of Israel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Children of Israel
+  description: The children of Israel are commanded to present the offerings in their
+    due season.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine speaker and offering recipient
+  assigned_to:
+  - fig:1
+  basis: Yahweh speaks the command and the offerings are directed to Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient and transmitter of command
+  assigned_to:
+  - fig:2
+  basis: Moses receives Yahweh's speech and is instructed to command Israel.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: commanded offering community
+  assigned_to:
+  - fig:3
+  basis: The children of Israel are commanded to present offerings in due season.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fire offering
+  literal_form: offerings made by fire
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Mount Sinai
+  literal_form: Mount Sinai as the place where the continual burnt offering was ordained
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: defect-free male lambs
+  literal_form: male lambs a year old without defect
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: bulls and ram
+  literal_form: two young bulls and one ram used in monthly and festival burnt offerings
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: male goat sin offering
+  literal_form: one male goat for a sin offering
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: meal offering ingredients
+  literal_form: fine flour mixed with oil in specified portions
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: drink offering
+  literal_form: strong drink or wine poured or measured in hin portions
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:8
+  label: unleavened bread
+  literal_form: unleavened bread eaten for seven days
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: sevenfold feast measure
+  literal_form: seven days of unleavened bread and seven male lambs in festival offerings
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Command to present offerings in due season
+  summary: Yahweh tells Moses to command Israel to present offerings, described as
+    Yahweh's food and offerings made by fire, at appointed times.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Daily continual burnt offering
+  summary: The daily rite is prescribed as two lambs, one in the morning and one in
+    the evening, with fine flour, oil, and drink offerings; it is linked to Mount
+    Sinai.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sabbath and monthly additions
+  summary: Additional offerings are prescribed for every Sabbath and for the beginnings
+    of months, including animals, meal offerings, drink offerings, and a goat sin
+    offering.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Passover and Unleavened Bread offerings
+  summary: Passover is dated to the fourteenth day of the first month, followed by
+    a seven-day feast of unleavened bread with holy convocations and daily offerings.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: First Fruits and Feast of Weeks offerings
+  summary: On the day of first fruits in the Feast of Weeks, a holy convocation and
+    cessation from regular work are prescribed, along with burnt, meal, drink, and
+    goat offerings.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: recurring sacrificial offering to deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly prescribes burnt offerings, meal offerings, drink
+    offerings, and sin offerings directed to Yahweh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a ritual prescription rather than a narrative episode; extraction
+    is limited to the stated offerings.
+- id: motif:2
+  label: seasonal and calendrical ritual cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Offerings are arranged by daily morning/evening sequence, Sabbath, beginnings
+    of months, Passover/Unleavened Bread, and First Fruits/Feast of Weeks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage gives a cultic calendar; no broader cosmological seasonal
+    myth is stated in the supplied text.
+- id: motif:3
+  label: offering as sacred exchange and atonement
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Offerings are called Yahweh's food and a pleasant aroma, and goat sin offerings
+    are said to make atonement for the people.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage explicitly mentions offering, divine reception, and atonement,
+    but does not elaborate a reciprocal exchange beyond these ritual effects.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Numbers 28:1-2
+  quote_or_summary: Yahweh speaks to Moses and tells him to command Israel to present
+    Yahweh's offering and food offerings made by fire in due season, as a pleasant
+    aroma.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: Numbers 28:3-8
+  quote_or_summary: The daily continual burnt offering is two defect-free year-old
+    male lambs, one morning and one evening, with flour, oil, and drink offerings;
+    it is said to have been ordained at Mount Sinai.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: Numbers 28:9-10
+  quote_or_summary: On each Sabbath two defect-free year-old male lambs, meal offering,
+    and drink offering are added to the continual burnt offering.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: Numbers 28:11-15
+  quote_or_summary: At the beginnings of months the offerings include two young bulls,
+    one ram, seven lambs, measured meal and wine offerings, and one male goat for
+    a sin offering, in addition to the continual offering.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: Numbers 28:16-18
+  quote_or_summary: Passover is in the first month on the fourteenth day; on the fifteenth
+    begins a feast during which unleavened bread is eaten for seven days; the first
+    day is a holy convocation with no regular work.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: Numbers 28:19-25
+  quote_or_summary: For the Unleavened Bread feast, burnt offerings of two bulls,
+    one ram, and seven lambs are prescribed with meal offerings; one male goat is
+    offered for atonement; offerings continue daily for seven days and the seventh
+    day is a holy convocation.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:7
+  type: summary
+  locator: Numbers 28:26-31
+  quote_or_summary: On the day of first fruits in the Feast of Weeks, a holy convocation
+    and no regular work are prescribed, along with burnt offerings, meal offerings,
+    a male goat for atonement, and drink offerings, besides the continual offering.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The ritual details are explicit in the supplied passage. No external comparative
+    claims were added. The supplied locator label includes Chapters 25-28, but the
+    passage text provided only contains Numbers 28:1-31.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the provided passage and metadata. Candidate motifs are limited to available taxonomy references supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l2144-l2206
+  passage_sha256=3694a5c755e970a04193e93eb7b9bde8f95465eb9c6064f3ea0fd576dcc10cac
+

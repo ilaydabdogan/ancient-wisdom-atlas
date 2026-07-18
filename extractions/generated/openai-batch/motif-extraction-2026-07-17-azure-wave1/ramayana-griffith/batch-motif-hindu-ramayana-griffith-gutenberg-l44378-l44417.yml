@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l44378-l44417
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLV. The Departure. / Canto XLVII. The Return. / Canto L. The Enchanted
+    Cave. / Canto LII. The Exit.; lines 44378-44417
+  start: '44378'
+  end: '44417'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“Forth from his side young pinions grew”"
+  summary: An unnamed winged speaker recounts how a sage’s counsel kept him alive
+    through a long mountain vigil. In front of the Vánars, his wings are restored,
+    he attributes the restoration to the anchorite’s grace, urges the searchers to
+    continue because the dame is alive, and then leaps from the crag to test his renewed
+    flight.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says earlier speeches fortified his failing heart, gave him hope,
+    and were followed by the counselor’s retirement to a holy home.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker climbed a mountain height to survey the region and look for the
+    addressed group, keeping watch day and night for a hundred seasons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says that after Niśakar sought the skies and cast away earthly
+    ties, cares and doubts weighed on him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says a saint or hermit turned him away from dying and told him
+    to live for Ráma’s sake.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the Vánars’ view, young pinions grew from the speaker’s side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says the pinions once consumed by the Lord of Day are restored
+    through the anchorite’s grace and might, and that youth and strength return to
+    him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker urges the Vánars to strive onward and says they will find the
+    dame alive.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker springs from the crag to try his pinions in the sky, and the chieftains’
+    doubts are stilled and replaced by courage.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Unnamed winged speaker
+  description: A speaker who was counseled to live, kept a long mountain watch, regained
+    pinions, addressed the Vánar chieftains, and leapt from the crag to fly.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Niśakar / sage / saint / hermit / anchorite
+  description: A holy counselor associated with words of hope, turning the speaker
+    away from death, and the restoration of the speaker’s pinions; the passage also
+    says Niśakar sought the skies and cast away earthly ties.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ráma
+  description: Named as the one for whose sake the speaker was told to live.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Vánars / chieftains
+  description: The addressed group who witnesses the wing restoration, is urged onward,
+    and gains courage after the speaker’s words and flight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: The dame
+  description: A woman whom the Vánars are told they will find alive.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Lord of Day
+  description: The figure or force said to have consumed the speaker’s former pinions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: long-waiting lookout
+  assigned_to:
+  - fig:1
+  basis: The speaker climbed the mountain, watched day and night, and waited for the
+    foretold hour and chance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of restored wings and renewed strength
+  assigned_to:
+  - fig:1
+  basis: Young pinions grow from his side, and he declares that youth and strength
+    return.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: holy counselor and source of restoration
+  assigned_to:
+  - fig:2
+  basis: The sage’s words console the speaker and the anchorite’s grace and might
+    are credited with restoring the pinions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: purpose named in life-preserving counsel
+  assigned_to:
+  - fig:3
+  basis: The hermit’s words bid the speaker to live for Ráma’s sake.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: searching audience encouraged by the speaker
+  assigned_to:
+  - fig:4
+  basis: The Vánars witness the new wings, are told to strive onward, and have their
+    doubts stilled.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: sought living woman
+  assigned_to:
+  - fig:5
+  basis: The speaker says the Vánars shall find the dame alive.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: consumer of former pinions
+  assigned_to:
+  - fig:6
+  basis: The speaker says the Lord of Day consumed the pinions that are now restored.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain height and crag
+  literal_form: mountain height; crag
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: restored pinions
+  literal_form: young pinions; new-found wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: fire and light imagery
+  literal_form: lamp and torch dispersing night; Lord of Day consuming pinions; fire
+    of youth
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: sky
+  literal_form: the skies; native sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Counsel and long mountain vigil
+  summary: The speaker recounts being strengthened by a holy counselor’s words, climbing
+    a mountain to look for the addressed group, and waiting through many seasons while
+    living for Ráma’s sake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Restoration of wings before the Vánars
+  summary: In the Vánars’ view, the speaker’s pinions grow again; he joyfully attributes
+    this restoration to the anchorite and says his youth and strength return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Renewed search and trial flight
+  summary: The speaker tells the Vánars to continue and that the dame is alive, then
+    leaps from the crag to try his restored wings, giving the chieftains courage.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: life preserved by ascetic counsel during a long vigil
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker survives because the hermit’s words turn him from death, console
+    him, and direct him to live for Ráma’s sake while waiting for a foretold moment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only the speaker’s retrospective summary of the counsel,
+    not the full prophecy or wider narrative setting.
+- id: motif:2
+  label: miraculous restoration of lost wings and strength
+  taxonomy_refs:
+  - return
+  basis: Young pinions grow from the speaker’s side, and he declares that the wings
+    consumed by the Lord of Day are restored and that his former strength returns.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The restoration is not a literal resurrection in the passage; the taxonomy
+    reference is limited to the return of lost capacity.
+- id: motif:3
+  label: ascent or renewed flight after restoration
+  taxonomy_refs:
+  - ascent
+  basis: After receiving new wings, the speaker springs from the crag to test his
+    pinions in his native sky.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a flight event; broader ascent symbolism is not explained
+    in the excerpt.
+- id: motif:4
+  label: quest renewed by a wondrous sign and confident speech
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Vánars are urged to continue, are told that the dame is alive, and gain
+    courage after witnessing the restored wings and hearing the speaker’s words.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wider quest is only partially visible here; the passage does not explain
+    who the dame is or the full purpose of the search.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 44378-44387
+  quote_or_summary: The speaker says prior words fortified him, gave hope, and that
+    he climbed a mountain to look for the addressed group, watching day and night
+    for a hundred seasons while awaiting the foretold time.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata supplied; passage summarized.
+- id: ev:2
+  type: summary
+  locator: lines 44388-44399
+  quote_or_summary: The speaker says Niśakar sought the skies and cast away earthly
+    ties; he says the saint turned him from death and that the hermit’s words to live
+    for Ráma’s sake dispelled anguish like light dispersing night.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata supplied; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 44400-44410
+  quote_or_summary: Before the Vánars, young pinions grow from the speaker’s side;
+    he rejoices that wings consumed by the Lord of Day have been restored through
+    the anchorite, and that youth and strength return.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata supplied; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 44411-44417
+  quote_or_summary: The speaker urges the Vánars onward, says they will find the dame
+    alive, points to his new wings as grounds for confidence, and springs from the
+    crag to try them; the chieftains gain courage.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata supplied; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied excerpt. Motif labels are cautious
+    and limited to passage-level evidence. No comparison claims are made because the
+    passage itself does not present an explicit intertextual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external identification of unnamed figures was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l44378-l44417
+  passage_sha256=911fff580ff327cd39f421b00d048510d965a5742c7de192c853b54d54396771
+

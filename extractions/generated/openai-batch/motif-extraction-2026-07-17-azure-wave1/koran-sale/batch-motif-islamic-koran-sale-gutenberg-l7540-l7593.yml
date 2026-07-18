@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l7540-l7593
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 7540-7593
+  start: '7540'
+  end: '7593'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes several sectarian theological doctrines: debates
+    over whether God can be author of evil, a Hyetian doctrine of Christ as incarnate
+    Word and judge, two creators, transmigration of souls and final recompense, vision
+    of God at resurrection, a Jhedhian doctrine about the damned becoming fire, and
+    a Mozdrian claim that God could be unjust or a liar.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Hshemians are described as refusing to say that God creates an infidel,
+    because they reason that God is not the creator of infidelity.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Nodhmians are described as teaching that no power concerning evil and
+    rebellious actions should be ascribed to God, while some disciples allowed that
+    God could do evil but did not because of its turpitude.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Hyetians are described as asserting that Christ was the eternal Word incarnate,
+    took a true and real body, and will judge all creatures in the life to come.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The Hyetians are described as asserting two Gods or Creators: the eternal
+    most high God and the non-eternal Christ.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Hyetians are described as asserting successive transmigration of the soul
+    from one body into another, with the last body receiving the soul's reward or
+    punishment.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Hyetians are described as asserting that God will be seen at the resurrection
+    by the eyes of understanding rather than bodily eyes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Jhedhians are described as imagining that the damned would not be eternally
+    tormented in hell, but would be changed into the nature of fire, and that fire
+    would attract them.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Al Jhedh is described as teaching that belief in God as Lord and Mohammed
+    as the apostle of God makes a man faithful without further obligation.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Mozdrians are described as affirming that it is possible for God to be
+    a liar and unjust.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God / the most high God
+  description: Named as creator and Lord, the subject of arguments about evil, and
+    the one said in one doctrine to be seen at the resurrection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Christ
+  description: In the Hyetian doctrine, described as the eternal Word incarnate, as
+    taking a true body, as judge of all creatures in the life to come, and as a non-eternal
+    creator.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the soul
+  description: In the Hyetian doctrine, the soul transmigrates from body to body and
+    receives reward or punishment in the last body.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the damned
+  description: In the Jhedhian doctrine, the damned are not eternally tormented in
+    hell but are changed into the nature of fire and attracted by fire.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Mohammed
+  description: Named in al Jhedh's belief formula as the apostle of God.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: supreme deity and Lord
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly names God as creator or Lord and discusses doctrines
+    about divine power, evil, and resurrection vision.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:2
+  label: incarnate Word
+  assigned_to:
+  - fig:2
+  basis: The Hyetian doctrine says Christ was the eternal Word incarnate and took
+    a true and real body.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: judge of creatures in the life to come
+  assigned_to:
+  - fig:2
+  basis: The passage says Christ will judge all creatures in the life to come.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: non-eternal creator
+  assigned_to:
+  - fig:2
+  basis: The Hyetian doctrine lists Christ as the non-eternal one among two Gods or
+    Creators.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: transmigrating recipient of recompense
+  assigned_to:
+  - fig:3
+  basis: The soul is said to transmigrate from body to body, and the last body receives
+    reward or punishment due to each soul.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: condemned beings transformed toward fire
+  assigned_to:
+  - fig:4
+  basis: The damned are said to be changed into the nature of fire and attracted by
+    fire.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: apostle of God
+  assigned_to:
+  - fig:5
+  basis: Al Jhedh's formula names Mohammed as the apostle of God.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire or hellfire into whose nature the damned are changed and by which
+    they are attracted
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: eyes of understanding
+  literal_form: non-bodily eyes by which God is said to be seen at resurrection
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: last body
+  literal_form: the last body that enjoys reward or suffers punishment due to the
+    soul
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Doctrinal dispute over God and evil
+  summary: Several sectarian positions are summarized concerning whether God creates
+    infidelity, has power over evil actions, or could be unjust or a liar.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: scene:2
+  label: Hyetian Christology and afterlife doctrines
+  summary: The Hyetian doctrines present Christ as incarnate Word and future judge,
+    name two creators, describe transmigration with final recompense, and state that
+    God will be seen at resurrection by understanding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Jhedhian hellfire and minimal belief formula
+  summary: The Jhedhian account says the damned become the nature of fire and are
+    attracted by fire, and also gives a minimal formula of belief in God and Mohammed.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine judgment after death
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that Christ will judge all creatures in the life to come,
+    that the last body receives reward or punishment, and that the damned have a hellfire
+    fate.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: These are presented as attributed sectarian doctrines in Sale's account,
+    not as a narrative episode.
+- id: motif:2
+  label: resurrection vision of God
+  taxonomy_refs:
+  - resurrection
+  basis: The passage says God will be seen at the resurrection, not by bodily eyes
+    but by the eyes of understanding.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a brief doctrinal claim and does not narrate a resurrection
+    scene.
+- id: motif:3
+  label: transmigration of the soul through bodies
+  taxonomy_refs: []
+  basis: The passage describes successive transmigration of the soul from one body
+    to another and final reward or punishment in the last body.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No exact available taxonomy family for transmigration is supplied.
+- id: motif:4
+  label: transformative hellfire
+  taxonomy_refs: []
+  basis: The damned are said to be changed into the nature of fire, and fire is said
+    to attract them.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage concerns hellfire transformation, not the supplied motif family
+    of world-destroying fire.
+- id: motif:5
+  label: dual creators or divine duality
+  taxonomy_refs:
+  - duality
+  basis: The Hyetian doctrine asserts two Gods or Creators, one eternal and one not
+    eternal.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a doctrinal assertion rather than a developed mythic
+    narrative of paired deities.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Hyetian doctrine of two creators, with Christ
+    as non-eternal creator, to the Arians and Socinians by saying it is not much different
+    from their opinion.
+  claim_level: same_function
+  target: Arians and Socinians, as named in the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only the narrator's brief comparison and does
+    not describe Arian or Socinian doctrines in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7540-7545
+  quote_or_summary: The Hshemian position is summarized as avoiding making God the
+    author of evil and denying that God creates an infidel because God is not creator
+    of infidelity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7546-7553
+  quote_or_summary: The Nodhmians are said to deny that power over evil and rebellious
+    actions should be ascribed to God; their disciples are said to allow God could
+    do evil but does not because of its turpitude.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7554-7558
+  quote_or_summary: The Hyetians are said to hold that Christ was the eternal Word
+    incarnate, took a true and real body, and will judge all creatures in the life
+    to come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7558-7562
+  quote_or_summary: The passage says the Hyetians asserted "two GODS or Creators"
+    and adds that this opinion is "not much different from that of the Arians and
+    Socinians."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 7562-7564
+  quote_or_summary: The Hyetians are said to hold successive transmigration of the
+    soul from one body to another, with the last body receiving reward or punishment
+    due to each soul.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 7564-7565
+  quote_or_summary: The Hyetians are said to hold that God will be seen at the resurrection
+    by the eyes of understanding, not bodily eyes.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 7566-7571
+  quote_or_summary: The Jhedhians are said to imagine that the damned are not eternally
+    tormented in hell but are changed into the nature of fire, and that fire attracts
+    them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 7571-7573
+  quote_or_summary: Al Jhedh is said to teach that belief in God as Lord and Mohammed
+    as apostle of God makes a man faithful and obliges him to nothing further.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 7575-7579
+  quote_or_summary: The Mozdrians are said to affirm that it is possible for God to
+    be a liar and unjust.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository and heresiographical rather than a mythic narrative.
+    Motif candidates are therefore doctrinal patterns extracted only from the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupplied taxonomy identifiers were used. Footnote citations in the passage were not independently interpreted.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l7540-l7593
+  passage_sha256=0cc149ddacc66bda06ead9ac951e263fa914a8c220fa4934ae2d5b0f4928b37c
+

@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.australian-euahlayi-tribe-parker-gutenberg-l5667-l5713
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+passage_locator:
+  label: CHAPTER XV / THE AMUSEMENTS OF BLACKS / CHAPTER XVI / BUSH BOGIES AND FINIS;
+    lines 5667-5713
+  start: '5667'
+  end: '5713'
+  translation: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports a Euahlayi-associated account in which a grey-speckled
+    bird rules mosquitoes and sends them from swamp homes to attack people. In mythological
+    days the bird was a woman whose sons were translated to the sky by a man who had
+    treated her badly. After taking revenge on him, she vowed vengeance on all men
+    and carries it out in the form of the mosquito bird, with mosquito servants bearing
+    wing-spots like hers. The rest of the passage reflects on caution in interpreting
+    Aboriginal beliefs and criticizes missionaries who ignore existing Indigenous
+    religion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A little grey-speckled bird is said to rule the mosquitoes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bird calls mosquitoes from their swamp homes to attack people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In mythological days, the bird was a woman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man badly treated the woman and translated her sons to the sky.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The woman revenged herself on the man and vowed vengeance on all men.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman takes the form of the mosquito bird to carry out vengeance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mosquitoes are described as her slaves and have spots on their wings like
+    the bird's spots.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator comments that Aboriginal beliefs should not be treated with excessive
+    finality or forced into outside classifications.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator argues that missionaries often fail by ignoring the religion
+    into which Aboriginal people are born.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: grey-speckled mosquito bird
+  description: A little grey-speckled bird said to rule mosquitoes and call them to
+    attack people; identified with a woman from mythological days.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: woman in mythological days
+  description: A woman who was badly treated by a man, whose sons were translated
+    to the sky, and who later takes the form of the mosquito bird.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: man who translated the sons
+  description: A man who badly treated the woman and translated her sons to the sky.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the woman's sons
+  description: The sons of the woman, translated to the sky by a man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: mosquitoes
+  description: Mosquitoes called from swamp homes to attack people; described as the
+    bird-woman's slaves and as bearing similar wing-spots.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: ruler of mosquitoes
+  assigned_to:
+  - fig:1
+  basis: The bird is said to rule the mosquitoes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wronged woman
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The bird is identified as a woman who was badly treated by a man.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: avenger
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The woman revenges herself on the man and vows vengeance on all men in bird
+    form.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: wrongdoer and sky-translator
+  assigned_to:
+  - fig:3
+  basis: The man badly treats the woman and translates her sons to the sky.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: translated sons
+  assigned_to:
+  - fig:4
+  basis: The woman's sons are translated to the sky.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: servants or agents of vengeance
+  assigned_to:
+  - fig:5
+  basis: The mosquitoes are described as the bird-woman's slaves and are called to
+    attack people.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: mosquito bird
+  literal_form: little grey-speckled bird
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mosquitoes from swamp homes
+  literal_form: mosquitoes called from swamp homes to attack people
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: spots on wings
+  literal_form: spots on the mosquitoes' wings matching the bird's spots
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sky translation of sons
+  literal_form: sons translated to the sky
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mosquito bird calls attackers
+  summary: A grey-speckled bird rules mosquitoes and calls them from swamp homes to
+    attack people.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wronged woman and sky-translated sons
+  summary: In mythological days, the bird was a woman who was badly treated by a man
+    who translated her sons to the sky.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vengeance in mosquito-bird form
+  summary: After revenging herself on the man, the woman vows vengeance on all men
+    and carries it out in the form of the mosquito bird; the mosquitoes serve her
+    and share her spotted marking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Narrator's reflection on belief and mission work
+  summary: The narrator urges caution in making final claims about Aboriginal people,
+    objects to over-classification of their beliefs, and argues that missionaries
+    should understand existing Indigenous religion before attempting to teach.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Woman transformed or manifested as bird
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage identifies the bird as a woman from mythological days and states
+    that she takes the form of the mosquito bird to enact vengeance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage says she acts 'in the form of' the bird; it does not provide
+    a detailed transformation episode.
+- id: motif:2
+  label: Revenge through animal or insect agents
+  taxonomy_refs: []
+  basis: The woman vows vengeance on all men and uses mosquitoes, described as her
+    slaves, to attack people.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches this revenge-through-insects
+    pattern.
+- id: motif:3
+  label: Children translated to the sky
+  taxonomy_refs:
+  - ascent
+  basis: The woman's sons are said to have been translated to the sky by a man.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no further details about whether the sons become stars,
+    celestial beings, or another sky phenomenon; 'ascent' is an approximate motif-family
+    fit.
+- id: motif:4
+  label: Shared markings between ruler and animal servants
+  taxonomy_refs: []
+  basis: The mosquitoes have the same wing-spots as the grey-speckled bird who rules
+    them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is a visual correspondence in the passage, but its explicit meaning
+    is not explained.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5667-5671
+  quote_or_summary: '"a little grey-speckled bird rules the mosquitoes, and calls
+    them from their swamp-homes to attack us"'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 5671-5674
+  quote_or_summary: In mythological days the bird was a woman who was badly treated
+    by a man, and the man translated her sons to the sky.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 5674-5676
+  quote_or_summary: The woman revenged herself on the man, vowed vengeance on all
+    men, and carries out that vengeance in the form of the mosquito bird.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 5676-5677
+  quote_or_summary: '"Her mosquito slaves have just the same spots on their wings
+    as she has."'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: 5679-5692
+  quote_or_summary: The narrator says she avoids speaking with finality about Aboriginal
+    people and criticizes attempts to classify, docket, and pigeon-hole their beliefs
+    before they have had their own say.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 5699-5713
+  quote_or_summary: The narrator argues that missionaries often fail by ignoring Indigenous
+    religion and should learn the existing religion before attempting to supplant
+    it.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The central mosquito-bird myth is explicit. Motif-family assignment is cautious
+    because the passage gives limited detail and available taxonomy does not include
+    several specific patterns present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-euahlayi-tribe-parker-gutenberg__l5667-l5713
+  passage_sha256=11efe6f5d9e70d4e3f0f7daf116da27ba1c02a7565b1e99536f8059f47d280c6
+

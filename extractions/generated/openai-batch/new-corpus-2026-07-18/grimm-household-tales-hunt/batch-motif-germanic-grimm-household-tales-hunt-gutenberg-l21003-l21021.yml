@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l21003-l21021
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 21003-21021
+  start: '21003'
+  end: '21021'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Fir-twister stays at home cooking while Hans and Rock-splitter hunt. A
+    small old mannikin or dwarf asks him for meat; when refused, the dwarf beats him.
+    Fir-twister conceals the incident. The next day Rock-splitter stays home, likewise
+    refuses meat, and is beaten by the dwarf; he and Fir-twister keep silent and expect
+    Hans to undergo the same experience.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fir-twister stays at home first, while Hans and Rock-splitter go out hunting.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fir-twister is busy cooking in a castle when a little shrivelled-up old mannikin
+    asks him for meat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fir-twister refuses the request for meat and calls the visitor a sly hypocrite.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The small visitor, later called a dwarf, springs at Fir-twister and beats
+    him with his fists until he falls and gasps for breath.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dwarf does not leave until he has fully vented his anger on Fir-twister.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the other two return from hunting, Fir-twister says nothing about the
+    old mannikin or the blows he received.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Fir-twister privately hopes the others will have their own encounter with
+    the dwarf.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The next day Rock-splitter stays at home, refuses meat to the dwarf, and is
+    badly treated by him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the others return in the evening, Fir-twister sees that Rock-splitter
+    has suffered, but both remain silent and think Hans must also undergo it.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Fir-twister
+  description: Companion who first stays home, cooks, refuses meat to the old mannikin,
+    is beaten by the dwarf, and conceals the event.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Hans
+  description: Companion who goes hunting with Rock-splitter on the first day and
+    is later expected by the others to experience the same trouble.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Rock-splitter
+  description: Companion who hunts on the first day, stays home on the next day, refuses
+    meat, is ill-treated by the dwarf, and keeps silent afterward.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: little shrivelled-up old mannikin / dwarf
+  description: Small visitor in the castle who asks for meat and beats those who refuse
+    him.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: one who stays at home
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Fir-twister stays home first and cooks; the next day Rock-splitter stays
+    home and undergoes the same encounter.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: hunter away from the castle
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Hans and Rock-splitter go out hunting while Fir-twister remains at home.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: petitioner for food
+  assigned_to:
+  - fig:4
+  basis: The old mannikin comes to Fir-twister in the castle and asks for some meat.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: refuser of requested meat
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Fir-twister refuses the old mannikin; Rock-splitter is later ill-treated
+    because he is unwilling to give meat.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: violent punisher
+  assigned_to:
+  - fig:4
+  basis: The dwarf beats Fir-twister and later ill-treats Rock-splitter after the
+    refusals.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: beaten victim
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Fir-twister is beaten until he falls and gasps; Rock-splitter later suffers
+    the same treatment.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:7
+  label: concealer of defeat
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Fir-twister says nothing after his beating; after Rock-splitter's beating,
+    both keep silence.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: anticipated next sufferer
+  assigned_to:
+  - fig:2
+  basis: After Rock-splitter's beating, the silent companions think that Hans must
+    also taste some of that soup.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: requested meat
+  literal_form: meat
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: castle encounter-place
+  literal_form: castle
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: small powerful visitor
+  literal_form: little shrivelled-up old mannikin / insignificant dwarf
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fir-twister refuses the old mannikin
+  summary: While the other two companions hunt, Fir-twister cooks at the castle. A
+    small old mannikin asks for meat; Fir-twister refuses and insults him. The dwarf
+    then beats him and leaves only after venting his anger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fir-twister hides his beating
+  summary: After Hans and Rock-splitter return from hunting, Fir-twister does not
+    tell them about the visitor or the blows, and he privately enjoys the thought
+    that they may face the same visitor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Rock-splitter undergoes the same treatment
+  summary: Rock-splitter stays home the next day and is badly treated by the dwarf
+    because he refuses to give meat. When the others return, Fir-twister recognizes
+    his suffering; both keep silent and think Hans must experience it too.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: refusal of food to a humble stranger followed by punishment
+  taxonomy_refs: []
+  basis: The small old mannikin asks for meat; Fir-twister and later Rock-splitter
+    refuse, and the dwarf beats or ill-treats each of them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not state that the visitor is divine or that the incident
+    is a formal hospitality test.
+- id: motif:2
+  label: sequential companions tested in the same at-home role
+  taxonomy_refs: []
+  basis: Fir-twister stays home first and suffers the encounter; Rock-splitter stays
+    home next and suffers the same; Hans is expected to be next.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the first two completed repetitions and an expectation
+    about Hans.
+- id: motif:3
+  label: concealed humiliation after defeat
+  taxonomy_refs: []
+  basis: Fir-twister conceals the beating from his companions, and after Rock-splitter
+    is beaten both keep silent.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly name shame as the motive; it only reports
+    silence and private thoughts.
+- id: motif:4
+  label: small weak-appearing figure overpowers stronger companions
+  taxonomy_refs: []
+  basis: The visitor is described as a little shrivelled-up old mannikin and insignificant
+    dwarf, yet he beats Fir-twister and later ill-treats Rock-splitter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide the dwarf's origin or supernatural status.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21003-21006
+  quote_or_summary: Fir-twister stays at home while Hans and Rock-splitter hunt; while
+    cooking in the castle, he is approached by a little shrivelled-up old mannikin
+    asking for meat.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 21006-21010
+  quote_or_summary: Fir-twister refuses the request, calling the visitor a sly hypocrite;
+    the dwarf springs at him and beats him with his fists until he falls and gasps,
+    leaving only after venting his anger.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 21010-21015
+  quote_or_summary: When the two others return from hunting, Fir-twister says nothing
+    about the old mannikin or the blows, and privately thinks they should try their
+    chance with the dwarf.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 21016-21019
+  quote_or_summary: The next day Rock-splitter stays at home and is ill-treated by
+    the dwarf because he is unwilling to give him meat.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 21019-21021
+  quote_or_summary: When the others return in the evening, Fir-twister sees what Rock-splitter
+    suffered; both keep silent and think Hans must also experience it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear in the supplied passage. Motif labels
+    are descriptive and not tied to external taxonomy IDs. No external comparison
+    claims were recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata; taxonomy references left empty where no listed taxonomy item was directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l21003-l21021
+  passage_sha256=a31e54f0ca3b9fe35ea6facd84f3ce0563acbaee64b8c91e65075011882323b9
+

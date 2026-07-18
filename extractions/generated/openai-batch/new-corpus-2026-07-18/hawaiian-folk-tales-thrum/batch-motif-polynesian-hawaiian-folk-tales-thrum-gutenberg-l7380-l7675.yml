@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l7380-l7675
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: MYTH OF THE HILU / THE HOU, OR SNORING FISH / THE END / GLOSSARY OF HAWAIIAN
+    WORDS; lines 7380-7675
+  start: '7380'
+  end: '7675'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Glossary entries define Hawaiian terms, including trees, fishing stations,
+    chiefs, demigods, infernal or netherworld terms, chaos/night terms, serpent/lizard
+    terminology, water and sea-place terms, and materials connected with the first
+    man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage defines several fishing-related terms, including fishing stations,
+    a fish stone, a fish-hook, fish pearl, shellfish, and named fish species.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The passage defines multiple terms for inferno or netherworld locations, including
+    Lua o Milu, Milu, and several Po-prefixed inferno terms.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:3
+  text: The passage defines po as night or chaos and also gives a phrase meaning from
+    the time of night, darkness, or chaos.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:4
+  text: The passage states that lepo ula is red earth of which the body of the first
+    man was made.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:5
+  text: The passage states that palolo is whitish clay of which the head of the first
+    man was made.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:6
+  text: The passage defines Pali-uli, the blue mountain, as the primeval home of mankind.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:7
+  text: The passage defines moo as a general name for lizards and as a serpent.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:8
+  text: The passage includes many tree terms and sacred or named tree-related entries,
+    including koa, kukui, lehua, ohia hemolele, Kulu-ipo, and Kumu-uli.
+  category: object
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+- id: obs:9
+  text: The passage defines water- and sea-related places or actions, including a
+    reef, a still sea place, floodgates, and jumping from rocks into deep water.
+  category: setting
+  evidence_refs:
+  - ev:14
+  - ev:15
+  - ev:16
+- id: obs:10
+  text: The passage defines kupua as a demigod and mana kupua as miraculous power.
+  category: attribute
+  evidence_refs:
+  - ev:17
+- id: obs:11
+  text: The passage defines Lo Aikanaka as the last of the man-eating chiefs.
+  category: attribute
+  evidence_refs:
+  - ev:18
+figures:
+- id: fig:1
+  name_or_label: Lo Aikanaka
+  description: Glossary entry identifies Lo Aikanaka as the last of the man-eating
+    chiefs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:18
+roles:
+- id: role:1
+  label: man-eating chief
+  assigned_to:
+  - fig:1
+  basis: The glossary calls Lo Aikanaka the last of the man-eating chiefs.
+  evidence_refs:
+  - ev:18
+symbols:
+- id: sym:1
+  label: netherworld or inferno
+  literal_form: Lua o Milu, Milu, Po-ia-milu, Po-kini-kini, Po-kua-kini, Po-papa-ia-owa,
+    Po-pau-ole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: night or chaos
+  literal_form: po; mai ka po mia
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: red earth body material
+  literal_form: lepo ula, red earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: whitish clay head material
+  literal_form: palolo, whitish clay
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: primeval blue mountain
+  literal_form: Pali-uli, the blue mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: serpent or lizard
+  literal_form: moo
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: trees
+  literal_form: koa tree, kukui tree, lehua tree, ohia hemolele, Kulu-ipo, Kumu-uli
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+- id: sym:8
+  label: water and sea places
+  literal_form: reef, still sea place, floodgates, deep water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:14
+  - ev:15
+  - ev:16
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: night or darkness as chaos
+  taxonomy_refs:
+  - chaos
+  basis: The glossary explicitly defines po as night or chaos and gives a phrase translated
+    as from the time of night, darkness, chaos.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a glossary definition, not a narrative scene.
+- id: motif:2
+  label: netherworld or inferno place-name cluster
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Several glossary entries identify Lua o Milu as the nether world and Milu
+    or Po-prefixed names as inferno terms.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage names infernal or netherworld places but does not describe
+    a journey through them.
+- id: motif:3
+  label: first human formed from earth and clay
+  taxonomy_refs: []
+  basis: Two glossary entries state that the body of the first man was made of red
+    earth and the head of the first man was made of whitish clay.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to human formation
+    from earth or clay.
+- id: motif:4
+  label: primeval home of mankind on a blue mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The glossary defines Pali-uli, the blue mountain, as the primeval home of
+    mankind.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives a place definition only and does not narrate ascent,
+    creation, or world-center functions.
+- id: motif:5
+  label: demigod and miraculous power vocabulary
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage defines kupua as a demigod and mana kupua as miraculous power,
+    terms commonly relevant to supernatural-agent narratives within the source.
+  evidence_refs:
+  - ev:17
+  confidence: low
+  cautions: The glossary provides terminology only; it does not identify a specific
+    culture-hero action in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7380-7675, glossary entries ko'a aina aumakua; ko'a ia; ko'a lawaia;
+    ku-ula
+  quote_or_summary: "“ko'a aina aumakua, fishing-station”; “ko'a ia, fishing-station”;
+    “ko'a lawaia, fishing-station”; “ku-ula, fishing-station.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 7380-7675, glossary entries pa; pa hi aku; pohaku-ia
+  quote_or_summary: "“pa, fish-hook”; “pa hi aku, fish-pearl”; “pohaku-ia, fish stone.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 7380-7675, glossary fish and shellfish entries
+  quote_or_summary: The glossary lists fish and shellfish terms such as manini, moi,
+    oio, oopu, opae, opihi-koele, opihis, and ohua.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 7380-7675, glossary entries Lua o Milu; Milu
+  quote_or_summary: "“Lua o Milu, the nether world”; “Milu, inferno.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 7380-7675, glossary entries Po-ia-milu through Po-pau-ole
+  quote_or_summary: "“Po-ia-milu, inferno”; “Po-kini-kini, inferno”; “Po-kua-kini,
+    inferno”; “Po-papa-ia-owa, inferno”; “Po-pau-ole, inferno.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 7380-7675, glossary entries mai ka po mia; po
+  quote_or_summary: "“mai ka po mia, from the time of night, darkness, chaos”; “po,
+    night, chaos.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 7380-7675, glossary entry lepo ula
+  quote_or_summary: "“lepo ula, red earth, of which the body of the first man was
+    made.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: lines 7380-7675, glossary entry palolo
+  quote_or_summary: "“palolo, whitish clay, of which the head of the first man was
+    made.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: quote
+  locator: lines 7380-7675, glossary entry Pali-uli
+  quote_or_summary: "“Pali-uli (the blue mountain), the primeval home of mankind.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: quote
+  locator: lines 7380-7675, glossary entry moo
+  quote_or_summary: "“moo, a general name for all lizards, a serpent.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:11
+  type: quote
+  locator: lines 7380-7675, glossary entries koa tree; kukui tree; lehua tree
+  quote_or_summary: "“koa tree, Acacia koa”; “kukui tree, Aleurites molluccana”; “lehua
+    tree, Metrosideros polymorpha.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:12
+  type: quote
+  locator: lines 7380-7675, glossary entries Kulu-ipo; Kumu-uli
+  quote_or_summary: "“Kulu-ipo, the fallen chief, he who fell on account of the tree”;
+    “Kumu-uli, the fallen tree, he who fell on account of the tree.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:13
+  type: quote
+  locator: lines 7380-7675, glossary entry ohia hemolele
+  quote_or_summary: "“ohia hemolele, the sacred apple-tree.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:14
+  type: quote
+  locator: lines 7380-7675, glossary entries kohola; malau
+  quote_or_summary: "“kohola, a reef”; “malau, a place in the sea where the water
+    is still and quiet.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:15
+  type: quote
+  locator: lines 7380-7675, glossary entries makaha; lelekawa
+  quote_or_summary: "“makaha, floodgates”; “lelekawa, to jump from the rocks into
+    deep water.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:16
+  type: summary
+  locator: lines 7380-7675, glossary entries makai; limu; opae; opihis
+  quote_or_summary: The glossary includes seaward, sea-moss, shrimp/crab, and shell-fish
+    terms.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized.
+- id: ev:17
+  type: quote
+  locator: lines 7380-7675, glossary entries kupua; mana kupua
+  quote_or_summary: "“kupua, demigod”; “mana kupua, miraculous power.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:18
+  type: quote
+  locator: lines 7380-7675, glossary entry Lo Aikanaka
+  quote_or_summary: "“Lo Aikanaka, the last of the man-eating chiefs.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The source passage is a glossary segment with definitions rather than a continuous
+    mythic episode. Literal extraction is relatively secure, but motif candidates
+    are limited to terms explicitly defined in the glossary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make comparisons. Scenes are empty because no narrative scene occurs in the provided passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l7380-l7675
+  passage_sha256=6d3e2a09ffe3ae53a833747f83cef7caf45c2b494095ae2a688a1bd7323feade
+

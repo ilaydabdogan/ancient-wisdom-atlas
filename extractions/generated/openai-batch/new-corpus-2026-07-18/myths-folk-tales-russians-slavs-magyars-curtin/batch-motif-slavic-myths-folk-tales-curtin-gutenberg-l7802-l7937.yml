@@ -1,0 +1,583 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l7802-l7937
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: YELENA THE WISE. / THE SEVEN SIMEONS, FULL BROTHERS. / THE ENCHANTED PRINCESS.
+    / VASSILISSA THE CUNNING AND THE TSAR OF THE SEA.; lines 7802-7937
+  start: '7802'
+  end: '7937'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After three years, three months, and three days, an eagle regains his strength
+    at the lofty oaks and carries a merchant over the sea. The eagle drops and catches
+    the merchant three times to make him feel the terror the eagle had felt when the
+    merchant aimed a gun at him. The eagle then takes the merchant beyond the sea
+    to the copper, silver, and golden kingdoms of his three sisters. At each kingdom
+    he becomes a human hero, asks that the merchant be honored, and instructs the
+    merchant to request a casket rather than treasure. The first two sisters refuse
+    and their kingdoms are seen burning after the eagle departs. The youngest sister
+    gives the golden casket, and the eagle warns the merchant not to open it until
+    he is home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After three years, three months, and three days, the eagle asks the merchant
+    to take him to the same lofty oaks.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the oaks, the eagle breaks the largest oak into small pieces and declares
+    that his former strength has returned.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The eagle carries the merchant on his wings over the blue sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eagle drops the merchant three times and catches him before he reaches
+    the water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The eagle says the merchant has now felt the same mortal terror that the eagle
+    felt when the merchant pointed a gun at him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The eagle takes the merchant beyond the sea to the copper kingdom of his eldest
+    sister.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The eagle strikes the damp earth and turns into a gallant or good hero before
+    entering each sister's kingdom.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: obs:8
+  text: The eagle instructs the merchant to refuse gold, silver, and precious stones
+    and to ask for the specified casket in each kingdom.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: obs:9
+  text: The eldest and second sisters welcome their brother and are told to entertain
+    the merchant because he sustained the eagle for three years.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:10
+  text: The merchant asks for the copper casket in the copper kingdom and the silver
+    casket in the silver kingdom, but the first two sisters refuse.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:11
+  text: After each of the first two refusals, the eagle carries the merchant away
+    and the refused kingdom is seen in flames behind them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:12
+  text: The youngest sister gives the merchant the golden casket because he saved
+    her brother from hunger.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Before parting, the eagle tells the merchant not to open the casket until
+    he is home.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: merchant, good hero
+  description: A merchant who carried and fed the eagle for three years and is later
+    carried by the eagle to three kingdoms to request caskets.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: eagle / eagle brother / gallant hero
+  description: A supernatural eagle who regains strength, carries the merchant over
+    the sea, drops and catches him, transforms into a human hero, and guides him through
+    the copper, silver, and golden kingdoms.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: eldest sister of the eagle
+  description: The eagle's eldest sister, who lives in the copper kingdom, welcomes
+    her brother, offers treasures, and refuses the copper casket at first.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: second sister of the eagle
+  description: The eagle's second sister, who lives in the silver kingdom, welcomes
+    her brother, offers treasures, and refuses the silver casket at first.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: youngest sister of the eagle
+  description: The eagle's youngest sister, who lives in the golden kingdom and gives
+    the merchant the golden casket.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: benefactor of the eagle
+  assigned_to:
+  - fig:1
+  basis: The sisters are told that the merchant gave the eagle meat and drink for
+    three years and saved him from hunger.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:2
+  label: supernatural animal helper
+  assigned_to:
+  - fig:2
+  basis: The eagle carries the merchant beyond the sea, instructs him what to ask
+    for, and ultimately rewards him for sustaining the eagle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  - ev:9
+- id: role:3
+  label: terror tester
+  assigned_to:
+  - fig:2
+  basis: The eagle drops and catches the merchant three times so that he feels mortal
+    terror.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: kin within otherworldly kingdoms
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The eagle identifies the women in the copper, silver, and golden kingdoms
+    as his sisters.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: role:5
+  label: recipient of instructed requests
+  assigned_to:
+  - fig:1
+  basis: The merchant follows the eagle's instruction to ask for caskets rather than
+    ordinary treasures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:6
+  label: refusing treasure-holder
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The eldest and second sisters hold caskets but initially refuse the merchant's
+    request for them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: casket grantor
+  assigned_to:
+  - fig:5
+  basis: The youngest sister gives the golden casket to the merchant because he saved
+    her brother.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: lofty oaks
+  literal_form: lofty oaks, especially the largest oak broken from top to root
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blue sea
+  literal_form: the blue sea beneath the eagle and merchant during their flight and
+    terror test
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: threefold falling and catching
+  literal_form: three drops of the merchant from the eagle's wings before he reaches
+    the water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: copper casket
+  literal_form: copper casket requested in the copper kingdom
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: silver casket
+  literal_form: silver casket requested in the silver kingdom
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: golden casket
+  literal_form: golden casket requested and received in the golden kingdom
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: kingdoms in flames
+  literal_form: the copper and silver kingdoms seen blazing or in flames after the
+    eagle departs
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:8
+  label: blooming flowers before the next kingdom
+  literal_form: flowers blooming ahead before the silver and golden kingdoms
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:9
+  label: damp earth struck before transformation
+  literal_form: the eagle strikes the damp earth before becoming a human hero
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+scenes:
+- id: scene:1
+  label: Eagle regains strength at the oaks
+  summary: After the appointed period, the merchant brings the eagle to the lofty
+    oaks. The eagle breaks the largest oak and says that all his former strength has
+    returned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aerial terror test over the sea
+  summary: The eagle carries the merchant high over the blue sea, drops him three
+    times, catches him before the water, and explains the action as returning the
+    terror he once felt when the merchant aimed at him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Copper kingdom and refused copper casket
+  summary: The eagle takes the merchant to the copper kingdom, transforms into a hero,
+    and has his eldest sister honor the merchant. The merchant asks for the copper
+    casket instead of treasure. The sister refuses, the eagle departs with the merchant,
+    and the kingdom is later seen burning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Silver kingdom and refused silver casket
+  summary: The eagle repeats the visit at the silver kingdom of his second sister.
+    The merchant asks for the silver casket; the sister refuses, the eagle leaves
+    with the merchant, and the silver kingdom is then seen blazing behind them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Golden kingdom and granted golden casket
+  summary: The eagle brings the merchant to the golden kingdom of his youngest sister.
+    She accepts the merchant's request and gives him the golden casket because he
+    saved her brother from hunger. At parting, the eagle warns the merchant not to
+    open the casket until he is home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Grateful supernatural animal rewards human benefactor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The merchant sustained the eagle for three years; the eagle then carries
+    him to his own land and arranges a reward through the casket quest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage shows reciprocal reward clearly, though the full content of
+    the casket is outside this excerpt.
+- id: motif:2
+  label: Shapeshifting eagle-helper
+  taxonomy_refs:
+  - shapeshifter
+  basis: The eagle turns into a gallant or good hero before entering the sisters'
+    kingdoms and turns back into an eagle when departing from the copper kingdom.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: Only eagle-to-human and human-to-eagle transformations are described in
+    this passage.
+- id: motif:3
+  label: Threefold aerial ordeal over water
+  taxonomy_refs:
+  - initiation
+  basis: The eagle drops and catches the merchant three times over the sea and asks
+    whether he has felt mortal terror.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The ordeal is explicit, but classifying it as initiation is interpretive
+    because the passage frames it mainly as reciprocal terror.
+- id: motif:4
+  label: Quest through three escalating kingdoms for hidden caskets
+  taxonomy_refs:
+  - mystical_quest
+  basis: The eagle guides the merchant through copper, silver, and golden kingdoms
+    and tells him to ask for the corresponding casket rather than visible treasures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The excerpt gives the sequence of requests but not the caskets' contents
+    or final outcome.
+- id: motif:5
+  label: Forbidden opening of a magical container before return home
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: At parting, the eagle tells the merchant not to open the casket until he
+    is home.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage contains the prohibition but does not yet show a transgression
+    or consequence.
+- id: motif:6
+  label: Refusal of requested gift followed by kingdom in flames
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the eldest and second sisters refuse the requested caskets, the eagle
+    departs and each refused kingdom is seen burning behind him.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: low
+  cautions: The passage shows refusal followed by fire, but does not explicitly state
+    who causes the fire or that it is judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7802-7811
+  quote_or_summary: After three years, three months, and three days, the eagle asks
+    to be taken to the lofty oaks, breaks the largest oak into pieces, and says his
+    former strength has returned.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7812-7826
+  quote_or_summary: The eagle carries the merchant over the blue sea, drops and catches
+    him three times, asks whether he has felt mortal terror, and says he felt the
+    same when the merchant pointed a gun at him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7827-7833
+  quote_or_summary: The eagle flies beyond the sea to the copper kingdom, identifies
+    it as his eldest sister's home, instructs the merchant to ask for the copper casket,
+    strikes the damp earth, and becomes a gallant hero.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 7834-7846
+  quote_or_summary: The eldest sister welcomes the eagle brother, is told to honor
+    the merchant who fed him for three years, offers treasure, and refuses when the
+    merchant asks for the copper casket.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7847-7855
+  quote_or_summary: The eagle turns back into an eagle, carries the merchant away,
+    rejects the eldest sister's late offer, and identifies the fire behind them as
+    the copper kingdom in flames and the flowers ahead as the silver kingdom.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 7856-7868
+  quote_or_summary: At the silver kingdom, the eagle's second sister welcomes him,
+    is told to honor the merchant, offers treasures, and refuses when the merchant
+    asks for the silver casket.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 7869-7877
+  quote_or_summary: The eagle leaves with the merchant after the second sister's refusal;
+    she calls him back too late, and he says the silver kingdom is blazing behind
+    them while flowers bloom ahead in the golden kingdom.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 7878-7892
+  quote_or_summary: In the golden kingdom, the youngest sister welcomes her brother,
+    honors the merchant, offers treasure, and gives the golden casket because the
+    merchant saved her brother from hunger.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 7893-7937
+  quote_or_summary: The merchant stays and feasts in the golden kingdom; at parting,
+    the eagle tells him not to open the casket until he is home.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The episode is explicit about figures, sequence, caskets, transformations,
+    and the warning. Some motif-family assignments, especially initiation, forbidden
+    knowledge, and divine judgment, are interpretive and should be reviewed against
+    the full tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make an external comparison to another text or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l7802-l7937
+  passage_sha256=e619a8f120cdc400c4617d47fe42325690e9509674e3003c35a855921a2e440e
+

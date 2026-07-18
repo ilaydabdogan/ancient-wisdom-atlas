@@ -1,0 +1,575 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l931-l1023
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A TABLE OF THE CHAPTERS / THE KORAN. / PRELIMINARY DISCOURSE / SECTION I.;
+    lines 931-1023
+  start: '931'
+  end: '1023'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Arabia and the Arabs before Mohammed through etymology,
+    genealogy, geography, provincial divisions, the fertility of Yaman, concealed
+    Red Sea trade, barren desert regions, and the significance of Hejz, Mecca, and
+    Medina.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Arabs and their country are said to take their name from Araba, and the
+    passage connects Araba with Yarab son of Kahtan and later with Ismael, son of
+    Abraham by Hagar.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Christian writers are said to have called the Arabs Saracens, with the passage
+    deriving the word from an eastern location relative to the Jews.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In an extensive sense, Arabia is described as bounded by major rivers and
+    seas, and the Arabs are said to have possessed proper Arabia almost from the Flood
+    and expanded into other parts by settlement or incursions.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Proper Arabia is described as narrower than the extensive definition and is
+    divided by oriental writers into provinces including Yaman, Hejz, Tehama, Najd,
+    and Yamama, with variant schemes mentioned.
+  category: setting
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Yaman is described as named either from its position south or right of the
+    temple of Mecca or from its fertile and verdant soil.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Yaman is described as extending along the Indian Ocean, bounded partly by
+    the Red Sea and Hejz, subdivided into lesser provinces, producing frankincense
+    in Shihr, and having Sanaa as an ancient metropolis.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Alexander the Great is said to have planned to conquer Yaman and establish
+    his royal seat there, but his death prevented the plan.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Egyptians are said to have concealed the true sources of trade goods and kept
+    their ports shut, while deserts also impeded strangers, leaving Arabia little
+    known to Greeks and Romans.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Yaman's abundance is attributed to watered mountains, while the Red Sea coast
+    is described as dry desert, and seasonal streams are said to descend from the
+    mountains but usually vanish in burning sands before reaching the sea.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Other provinces are described as more barren, with dry sands and rocks interrupted
+    by fruitful spots that benefit from water and palm trees.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Hejz is described as dividing Najd from Tehama, bounded by Yaman, Tehama,
+    the Red Sea, Syrian deserts, and Najd, and famous for Mecca and Medina; Mecca
+    is noted for its temple and as the birthplace of Mohammed.
+  category: setting
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: The Arabs
+  description: The people inhabiting Arabia, said to be named from Araba and to have
+    possessed Arabia proper almost from the Flood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Yarab
+  description: Son of Kahtan; the passage says he gave his name to Araba.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kahtan / Joctan
+  description: Kahtan is identified with Joctan in the passage and linked to ancient
+    Arab ancestry and eastern placement by Moses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ismael
+  description: Son of Abraham by Hagar, said to have dwelt in Araba some ages after
+    Yarab.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Abraham
+  description: Named as the father of Ismael.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Hagar
+  description: Named as the mother of Ismael.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Alexander the Great
+  description: Said to have intended to conquer Yaman and set his royal seat there
+    before his death prevented it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Egyptians
+  description: Said to have controlled the Red Sea trade, concealed its true sources,
+    and shut their ports to foreigners.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Greeks and Romans
+  description: Groups for whom Arabia is said to have remained little known because
+    of Egyptian secrecy and impassable deserts.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Mohammed
+  description: Named as having been born in Mecca.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: territorial inhabitants and possessors
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the Arabs as inhabitants of Arabia and says they possessed
+    Arabia proper almost from the Flood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: name-giver associated with Araba
+  assigned_to:
+  - fig:2
+  basis: Yarab is said to have given his name to Araba.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ancestral genealogy figure
+  assigned_to:
+  - fig:3
+  basis: Kahtan is tied to ancient Arab ancestry and identified with Joctan in the
+    passage.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: kinship-linked resident of Araba
+  assigned_to:
+  - fig:4
+  basis: Ismael is identified as Abraham's son by Hagar and as dwelling in Araba.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: parents of Ismael
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage identifies Abraham and Hagar as Ismael's parents.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: would-be conqueror and royal-seat planner
+  assigned_to:
+  - fig:7
+  basis: Alexander is said to have formed a design to conquer Yaman and establish
+    his royal seat there.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: trade concealers and port controllers
+  assigned_to:
+  - fig:8
+  basis: The Egyptians are said to have concealed trade information and shut their
+    ports.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: external observers with limited knowledge
+  assigned_to:
+  - fig:9
+  basis: The passage says Arabia was little known to Greeks and Romans because of
+    Egyptian precautions and deserts.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: person associated with Mecca by birth
+  assigned_to:
+  - fig:10
+  basis: Mecca is said to have given birth to Mohammed.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Arabia / Jezrat al Arab
+  literal_form: The Arabian peninsula and wider Arabia as a named land
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Araba
+  literal_form: Small territory in the province of Tehama
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Temple of Mecca
+  literal_form: Temple of Mecca used as a point of orientation and a feature for which
+    Mecca is celebrated
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:4
+  label: Yaman
+  literal_form: Province described as fertile, verdant, and rich
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: Watered mountains of Yaman
+  literal_form: Mountains whose water is said to produce Yaman's plenty
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: Water and seasonal streams
+  literal_form: Water, fruitful spots, and streams descending from mountains but lost
+    in sands
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: Palm trees
+  literal_form: Palm trees associated with fruitful spots in otherwise barren provinces
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Desert and dry sands
+  literal_form: Dry barren desert, impassable deserts, rocks, and burning sands
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:9
+  label: Mecca
+  literal_form: Chief city of Hejz, celebrated for its temple and as Mohammed's birthplace
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:10
+  label: Medina
+  literal_form: Chief city of Hejz named alongside Mecca
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:11
+  label: Hejz
+  literal_form: Province said to divide Najd from Tehama and to contain Mecca and
+    Medina
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Arab names and ancestry
+  summary: The passage links the Arabs and Arabia to Araba, Yarab, Kahtan or Joctan,
+    and Ismael son of Abraham by Hagar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Geographical scope and divisions of Arabia
+  summary: The passage defines Arabia in broader and narrower senses and lists provincial
+    divisions used by oriental writers and other geographers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Yaman as fertile and coveted province
+  summary: Yaman is described as fertile, verdant, rich, mountainous, well watered,
+    and attractive enough for Alexander to plan conquest and residence there.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: scene:4
+  label: Concealed Red Sea trade and limited foreign knowledge
+  summary: Egyptians are described as concealing the sources of trade goods and closing
+    ports, while deserts prevented strangers from learning much about Arabia.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Barren provinces and oasis resources
+  summary: The other provinces are described as sandy or rocky, with fruitful spots
+    that depend on water and palm trees.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Hejz, Mecca, and Medina
+  summary: Hejz is located by its boundaries and said to be famous for Mecca and Medina;
+    Mecca is associated with a temple and with Mohammed's birth.
+  figure_refs:
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Ancestral naming and descent of a people
+  taxonomy_refs: []
+  basis: The passage explains Arab identity through a place-name, a name-giving ancestor,
+    Kahtan or Joctan, and Ismael's connection to Abraham and Hagar.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is presented as antiquarian genealogy and etymology, not as a developed
+    myth narrative in this excerpt.
+- id: motif:2
+  label: Fertile highland amid barren desert
+  taxonomy_refs: []
+  basis: Yaman's plenty is attributed to watered mountains and contrasted with dry
+    coastal desert and other provinces of sand, rock, scarce water, and palm-tree
+    oases.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage describes geography literally; symbolic or ritual meaning
+    is not made explicit.
+- id: motif:3
+  label: Celebrated city marked by temple and notable birth
+  taxonomy_refs: []
+  basis: Mecca is described as celebrated for its temple and for having given birth
+    to Mohammed.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: The passage gives only a brief geographical notice and does not narrate
+    the birth or explain the temple's ritual significance.
+comparison_claims:
+- id: claim:1
+  claim: The discourse aligns Arab genealogical tradition with biblical or Mosaic
+    genealogy by identifying Kahtan with Joctan and naming Ismael as son of Abraham
+    by Hagar.
+  claim_level: same_function
+  target: Genesis/Mosaic ancestral genealogy involving Joctan and Abraham's family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies a genealogical alignment, but no extended shared
+    narrative sequence is included here.
+- id: claim:2
+  claim: The discourse reports an etymological comparison between the Christian writers'
+    term 'Saracens' and Arabic 'shark' meaning east.
+  claim_level: linguistic_similarity
+  target: Christian appellation 'Saracens' and Arabic 'shark'
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The etymology is asserted within the source passage and is not independently
+    tested by evidence in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 931-943
+  quote_or_summary: The passage derives Arabs and Arabia from Araba; says Yarab son
+    of Kahtan gave his name there; mentions Ismael son of Abraham by Hagar; and discusses
+    Saracens, shark, Joctan/Kahtan, Moses, and the Jews.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 944-951
+  quote_or_summary: Arabia in a broad sense is bounded by the Euphrates, Persian Gulf,
+    Indian and Red Seas, and part of the Mediterranean; Arabs are said to have possessed
+    proper Arabia almost from the Flood and expanded into other areas.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 952-958
+  quote_or_summary: Proper Arabia is defined more narrowly; Greek and eastern geographical
+    designations such as Arabia the Happy, Arabia Petra, and deserts of Syria are
+    noted.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 959-965
+  quote_or_summary: 'Oriental writers generally divide proper Arabia into five provinces:
+    Yaman, Hejz, Tehama, Najd, and Yamama, with other variant divisions mentioned.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 966-975
+  quote_or_summary: Yaman is explained by position south/right of the temple of Mecca
+    or by fertile soil; its extent, boundaries, subprovinces, frankincense in Shihr,
+    Sanaa, and the Castle of delights are described.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 976-986
+  quote_or_summary: Yaman's climate, fertility, and riches are praised; Alexander
+    the Great is said to have planned to conquer it and establish his royal seat there
+    before his death prevented it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 986-994
+  quote_or_summary: The passage says some riches attributed to Arabia came from India
+    and Africa; Egyptians concealed the trade, shut ports to foreigners, and deserts
+    made Arabia little known to Greeks and Romans.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 994-1005
+  quote_or_summary: Yaman's delight and plenty are attributed to mountains; the Red
+    Sea coastal strip is dry desert, while watered mountains produce continual spring,
+    fruits, corn, grapes, spices, coffee, and seasonal streams that are lost in sands.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 1006-1009
+  quote_or_summary: Other provinces are described as more barren, covered in dry sands
+    and rocks, with fruitful spots aided by water and palm trees.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 1010-1023
+  quote_or_summary: Hejz is described by its boundaries and as famous for Mecca and
+    Medina; Mecca is celebrated for its temple and for having given birth to Mohammed,
+    while the sentence about Medina continues beyond the excerpt.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily geographical, antiquarian, and historical rather
+    than narrative mythology. Literal extraction is strong; motif candidates are broad
+    patterns requiring human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No full mythic episode is present in this line range; symbols and motifs are limited to explicit place, ancestry, landscape, and etymological patterns in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l931-l1023
+  passage_sha256=06ecbcc224ce219f1b24a46c83c3172cece019a8150a12061f210f78cf64c752
+

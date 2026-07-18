@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l3045-l3062
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: BAFFIN LAND. / WESTERN SHORE OF HUDSON BAY. / BOOTHIA FELIX AND BACK RIVER.
+    / SMITH SOUND.; lines 3045-3062
+  start: '3045'
+  end: '3062'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes how access routes, fjords, valleys, plains, and animal
+    abundance shape summer settlements and seasonal travel by several Inuit groups
+    in Baffin Land and the Hudson Bay region.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Summer settlements are established where deep valleys and practicable roads
+    give access to extensive areas and plateaus.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heads of fjords are described as favored locations because they have abundant
+    salmon.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Adjoining valleys and peninsulas are described as favorable for deer hunting.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The steep highland of Nugumiut is described as an area over which numerous
+    herds of deer roam.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Extensive plains in western Baffin Land are described as abundant in deer
+    and influential in attracting visits from multiple tribes.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Akuliarmiut of Hudson Strait and the Nugumiut travel to Lake Amaqdjuaq.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Oqomiut stay on Lake Nettilling, and the Akudnirmiut visit Majoraridjen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Tribes of Hudson Bay visit land farther west frequented by musk ox herds and
+    travel as far as Back River.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage states that a rich country attracts tribes from neighboring districts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: natives
+  description: People who establish summer settlements where roads and valleys permit
+    access to plateaus and extensive areas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Akuliarmiut of Hudson Strait
+  description: A group whose winter stations are distant and who travel to Lake Amaqdjuaq.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Nugumiut
+  description: A group associated with the steep highland of Nugumiut and said to
+    travel to Lake Amaqdjuaq.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Oqomiut
+  description: A group said to stay on Lake Nettilling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Akudnirmiut
+  description: A group said to visit Majoraridjen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: tribes of Hudson Bay
+  description: Groups said to visit western land frequented by musk ox and to go as
+    far as Back River.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: summer settlement makers
+  assigned_to:
+  - fig:1
+  basis: The passage says summer settlements are established where access to plateaus
+    and extensive areas is practicable.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seasonal travelers to resource-rich districts
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The named groups are described as traveling to or staying in districts associated
+    with deer or musk ox abundance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: deep valleys and access roads
+  literal_form: deep valleys and practicable roads enabling ascent to plateaus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fjord heads with salmon
+  literal_form: heads of fjords abounding with salmon
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: deer hunting grounds
+  literal_form: adjoining valleys, peninsulas, highlands, and western Baffin Land
+    plains with deer
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: musk ox western land
+  literal_form: land farther west frequented by herds of musk ox
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: lakes and named travel destinations
+  literal_form: Lake Amaqdjuaq, Lake Nettilling, Majoraridjen, and Back River
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Establishment of summer settlements near access routes and resources
+  summary: Summer settlements are associated with deep valleys, roads to plateaus,
+    fjord heads rich in salmon, and nearby deer hunting areas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Intergroup travel toward deer-rich western Baffin Land
+  summary: Several named groups travel to or stay at inland districts and lakes associated
+    with deer abundance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hudson Bay travel toward musk ox country
+  summary: Hudson Bay groups travel westward into musk ox country and as far as Back
+    River, illustrating the attraction of rich land on neighboring tribes.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: seasonal movement toward resource-rich land
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes summer settlements and repeated travel by named groups
+    from distant winter stations to areas rich in salmon, deer, or musk ox.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic settlement and subsistence pattern rather than
+    a mythic narrative motif; the taxonomy reference is therefore provisional.
+- id: motif:2
+  label: ascent to inland plateaus for seasonal settlement
+  taxonomy_refs:
+  - ascent
+  basis: The passage states that practicable roads enable ascent to plateaus where
+    summer settlements are established.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The ascent is literal geographic movement, not a symbolic or mythic ascent
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3045-3050
+  quote_or_summary: Where deep valleys and practicable roads allow access to plateaus
+    and extensive areas, summer settlements are established; fjord heads are favored
+    for salmon, and adjoining valleys and peninsulas support deer hunting.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 3050-3052
+  quote_or_summary: The coast of the steep highland of Nugumiut is described as an
+    area over which numerous deer herds roam.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 3053-3058
+  quote_or_summary: 'The plains of western Baffin Land abound in deer and are visited
+    by several groups: Akuliarmiut and Nugumiut travel to Lake Amaqdjuaq, Oqomiut
+    stay on Lake Nettilling, and Akudnirmiut visit Majoraridjen.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 3058-3062
+  quote_or_summary: Hudson Bay tribes visit western land frequented by musk ox, travel
+    as far as Back River, and the passage concludes that rich country attracts neighboring
+    tribes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal ethnographic observations are clear. Motif assignment is tentative
+    because the passage does not present a mythic narrative or explicit symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text, tradition, or motif family beyond tentative taxonomy mapping.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l3045-l3062
+  passage_sha256=9e6c339c2f81c65457cc086aa4d0bf346b05e05222d3e405c9130751a728690a
+

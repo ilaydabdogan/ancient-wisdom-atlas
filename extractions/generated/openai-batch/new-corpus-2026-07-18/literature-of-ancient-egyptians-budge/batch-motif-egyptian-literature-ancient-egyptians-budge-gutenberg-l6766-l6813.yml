@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l6766-l6813
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: THE STORY OF SANEHAT / THE STORY OF THE EDUCATED PEASANT KHUENANPU / CHAPTER
+    XI / FAIRY TALES; lines 6766-6813
+  start: '6766'
+  end: '6813'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Anpu's wife, fearing exposure after speaking to Bata, fabricates evidence
+    that she has been assaulted and accuses Bata to her husband. Anpu prepares to
+    kill Bata, but two cows warn Bata of the ambush. Bata flees and appeals to Ra-Harmakhis
+    to judge between right and wrong. Ra creates a crocodile-filled stream separating
+    the brothers. Bata declares he will seek judgment before the Sun-god, will no
+    longer live with Anpu, and will go to the Valley of the Acacia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Anpu's wife uses grease and linen to make herself appear as if she had been
+    assaulted and beaten.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anpu's wife tells Anpu that Bata spoke words of love to her, asked her to
+    tie up her hair, and beat her to prevent her from reporting him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Anpu becomes wrathful, takes and sharpens a dagger, and waits behind the stable
+    door to kill Bata when he returns.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The leading cow warns Bata that Anpu is waiting with a dagger to kill him
+    and tells him to flee.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A second cow gives Bata the same warning as the leading cow.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Bata looks under the byre door and sees Anpu's feet and the dagger in his
+    hand.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Bata runs away, and Anpu follows him while grasping his dagger.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Bata cries out to Ra-Harmakhis, calling him the one who judges between wrong
+    and right.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Ra causes a great stream to appear between the two brothers, and the water
+    is filled with crocodiles.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Bata says he will enter into judgment with Anpu in the presence of the rising
+    Disk and will go to the Valley of the Acacia.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Anpu's wife
+  description: The wife of Anpu who fears the consequences of her words to Bata and
+    fabricates an appearance of assault.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Anpu
+  description: The elder brother and husband who believes the accusation, becomes
+    wrathful, and attempts to kill Bata with a dagger.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Bata
+  description: The young brother accused by Anpu's wife, warned by the cows, pursued
+    by Anpu, and protected after appealing to Ra-Harmakhis.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Leading cow
+  description: The cow leading the herd that speaks to Bata and warns him that Anpu
+    is waiting to kill him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Second cow
+  description: The second cow that gives Bata the same warning as the leading cow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Ra-Harmakhis / the Sun-god / the Disk
+  description: The deity to whom Bata appeals as judge between wrong and right, and
+    who creates the separating stream.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: Crocodiles
+  description: Crocodiles filling the stream created between Anpu and Bata.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: false accuser
+  assigned_to:
+  - fig:1
+  basis: She deliberately makes herself appear assaulted and tells Anpu that Bata
+    attacked her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: elder brother
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Anpu as Bata's elder brother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: armed pursuer
+  assigned_to:
+  - fig:2
+  basis: He waits with a dagger to slay Bata and then follows him while holding the
+    dagger.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: accused younger brother
+  assigned_to:
+  - fig:3
+  basis: Anpu's wife identifies Bata as the young brother whom she accuses.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: fugitive appealing for judgment
+  assigned_to:
+  - fig:3
+  basis: Bata flees from Anpu and appeals to Ra-Harmakhis to judge between wrong and
+    right.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: animal warners
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both cows speak to Bata and warn him of Anpu's ambush.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: divine judge and protector
+  assigned_to:
+  - fig:6
+  basis: Bata calls Ra-Harmakhis the judge between wrong and right, and Ra creates
+    the separating stream.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: dangerous boundary creatures
+  assigned_to:
+  - fig:7
+  basis: The crocodiles fill the stream that separates the brothers.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: grease and linen
+  literal_form: Grease and a piece of linen used by Anpu's wife to create the appearance
+    of assault.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dark house and unlit light
+  literal_form: Anpu's house is in darkness, and his wife has not lit a light before
+    him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dagger
+  literal_form: The dagger Anpu seizes, sharpens, holds behind the stable door, and
+    carries while pursuing Bata.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: speaking cows
+  literal_form: The leading cow and the second cow speak warnings to Bata.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: great stream
+  literal_form: A great stream brought into being by Ra to separate the brothers.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: crocodile-filled water
+  literal_form: The water of the stream filled with crocodiles.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: rising Disk
+  literal_form: The Disk, identified in the passage as the Sun-god, before whom Bata
+    says he will enter into judgment.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Valley of the Acacia
+  literal_form: The place to which Bata says he is going after leaving Anpu.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Fabricated assault and accusation
+  summary: Anpu's wife creates the appearance of having been assaulted and tells Anpu
+    that Bata spoke to her in love, beat her, and must be killed or she will kill
+    herself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ambush prepared at the byre
+  summary: Anpu becomes enraged, sharpens a dagger, and hides behind the stable door
+    to kill Bata when he returns with the cattle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Animal warning and flight
+  summary: The leading cow and a second cow warn Bata of Anpu's ambush; Bata verifies
+    the danger, sets down his load, and flees while Anpu pursues him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Appeal to Ra and miraculous separation
+  summary: Bata appeals to Ra-Harmakhis as judge; Ra creates a crocodile-filled stream
+    that separates the two brothers and prevents Anpu from killing Bata.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Judgment before the Sun and departure
+  summary: Bata tells Anpu to remain until the Disk rises, says he will enter judgment
+    in the Sun-god's presence, refuses to live with Anpu again, and announces his
+    departure to the Valley of the Acacia.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: false accusation provoking violence against an innocent relative
+  taxonomy_refs: []
+  basis: Anpu's wife fabricates injuries and accuses Bata, after which Anpu prepares
+    to kill Bata.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the accusation and ambush but does not yet include Anpu's
+    later recognition or resolution.
+- id: motif:2
+  label: sibling conflict between elder and younger brother
+  taxonomy_refs:
+  - sibling_pair
+  basis: The central conflict is between Anpu, the elder brother, and Bata, the young
+    brother, after the wife's accusation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage shows hostile separation
+    rather than a cooperative sibling pair.
+- id: motif:3
+  label: animal warning saves threatened hero
+  taxonomy_refs: []
+  basis: Two cows speak to Bata and warn him that Anpu is waiting with a dagger to
+    kill him, prompting his flight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No provided taxonomy family directly names speaking animals or animal
+    helpers.
+- id: motif:4
+  label: appeal to divine judgment between wrong and right
+  taxonomy_refs:
+  - divine_judgment
+  basis: Bata appeals to Ra-Harmakhis as the one who judges between wrong and right
+    and later says he will enter judgment in the Sun-god's presence.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage states the appeal and proposed judgment, but the actual adjudication
+    is not completed in this excerpt.
+- id: motif:5
+  label: miraculous water barrier separating pursuer and fugitive
+  taxonomy_refs: []
+  basis: Ra creates a great crocodile-filled stream between Anpu and Bata, preventing
+    Anpu from killing Bata.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The available taxonomy includes the symbol water but no specific motif
+    family for a miraculous dividing stream.
+- id: motif:6
+  label: departure into separation or exile
+  taxonomy_refs:
+  - departure
+  basis: Bata says he will never again live where Anpu is and announces that he is
+    going to the Valley of the Acacia.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The excerpt ends at the announcement of departure and does not narrate
+    the arrival in the Valley of the Acacia.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6766-6772
+  quote_or_summary: Anpu's wife, afraid because of her words to Bata, takes grease
+    and linen to make herself appear like a woman assaulted and beaten so she can
+    accuse Bata.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 6772-6785
+  quote_or_summary: Anpu returns, finds his wife prostrate in a dark house, and hears
+    her claim that Bata spoke words of love to her, told her to tie up her hair, and
+    beat her; she says Anpu must kill him or she will kill herself.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 6786-6790
+  quote_or_summary: Anpu becomes like a panther with wrath, seizes and sharpens his
+    dagger, and stands behind the stable door to slay Bata when he returns.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: quote
+  locator: 6790-6794
+  quote_or_summary: 'The leading cow says to Bata: "Verily thy elder brother is waiting
+    with his dagger to slay thee; flee thou from before him."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 6794-6798
+  quote_or_summary: A second cow speaks the same warning; Bata looks under the byre
+    door and sees Anpu's feet and the dagger in his hand.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: 6798-6800
+  quote_or_summary: Bata sets down his load and runs away as fast as he can, while
+    Anpu follows him grasping his dagger.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: quote
+  locator: 6800-6802
+  quote_or_summary: 'Bata cries to Ra-Harmakhis: "O my fair Lord, thou art he who
+    judgeth between the wrong and the right."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: 6802-6807
+  quote_or_summary: Ra hears Bata and causes a great stream to come into being, separating
+    the brothers; the water is filled with crocodiles, leaving Anpu unable to kill
+    Bata.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+- id: ev:9
+  type: summary
+  locator: 6807-6813
+  quote_or_summary: Bata tells Anpu to wait until the Disk rises, says he will enter
+    judgment with him in the Sun-god's presence, refuses to live with him again, and
+    says he is going to the Valley of the Acacia.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level and should be reviewed, especially broad taxonomy assignments
+    such as sibling_pair and tree. No cross-text comparison claims were generated
+    because the excerpt itself provides no explicit external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l6766-l6813
+  passage_sha256=45946191fb16aa09ebd9a3dbe2770317b0f21ddadae3b8b8dd29da9da80e1c65
+

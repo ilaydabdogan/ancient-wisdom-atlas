@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.mesoamerican-myths-of-mexico-peru-spence-gutenberg-l68-l93
+source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+passage_locator:
+  label: The Myths of Mexico & Peru; lines 68-93
+  start: '68'
+  end: '93'
+  translation: The Myths of Mexico & Peru
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Title-page material for Lewis Spence's The Myths of Mexico & Peru, naming
+    the author, selected prior works, illustrators, publisher, and printer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents the title of the work as The Myths of Mexico & Peru.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lewis Spence is named as the author.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The title page lists several other works by the author, including The Mythologies
+    of Ancient Mexico and Peru, The Popol Vuh, The Civilization of Ancient Mexico,
+    and A Dictionary of Mythology.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The work is described as having sixty full-page illustrations, mainly by Gilbert
+    James and William Sewell, with other drawings and maps.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Thomas Y. Crowell Company is named as the New York publisher.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ballantyne and Company Ltd is named as the printer, with a London address
+    at Tavistock Street, Covent Garden.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lewis Spence
+  description: Named as the author of The Myths of Mexico & Peru.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gilbert James
+  description: Named as one of the principal illustrators.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: William Sewell
+  description: Named as one of the principal illustrators.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Thomas Y. Crowell Company
+  description: Named as the publisher in New York.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ballantyne and Company Ltd
+  description: Named as the printer in London.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  basis: The title page states the work is by Lewis Spence.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: principal named illustrator
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The title page says the sixty full-page illustrations are mainly by Gilbert
+    James and William Sewell.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: publisher
+  assigned_to:
+  - fig:4
+  basis: The title page names Thomas Y. Crowell Company as publisher.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: printer
+  assigned_to:
+  - fig:5
+  basis: The title page states the book was printed by Ballantyne and Company Ltd.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 68-71
+  quote_or_summary: '"THE MYTHS OF / MEXICO & PERU"'
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 73-74
+  quote_or_summary: '"BY / LEWIS SPENCE"'
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:3
+  type: summary
+  locator: lines 76-78
+  quote_or_summary: 'The title page lists other works by Lewis Spence: The Mythologies
+    of Ancient Mexico and Peru, The Popol Vuh, The Civilization of Ancient Mexico,
+    and A Dictionary of Mythology.'
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 80-82
+  quote_or_summary: The title page states that the book contains sixty full-page illustrations,
+    mainly by Gilbert James and William Sewell, plus other drawings and maps.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 84-86
+  quote_or_summary: '"NEW YORK / THOMAS Y. CROWELL COMPANY / PUBLISHERS"'
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:6
+  type: summary
+  locator: lines 88-92
+  quote_or_summary: The title page says the book was printed by Ballantyne and Company
+    Ltd at Tavistock Street, Covent Garden, London, England.
+  source_text_path: texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic title-page matter rather than a mythic narrative;
+    no motif, symbol, scene, or comparison claims are supported by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological motifs were extracted because the supplied line range contains title-page and publication information only.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-myths-of-mexico-peru-spence-gutenberg__l68-l93
+  passage_sha256=3cd93838b77a2deb67703cbe491acf6e32d8954cf0cd0a0a8027d4a9d48143c0
+

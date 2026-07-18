@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l3091-l3129
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: FIRST ADVENTURE / SECOND ADVENTURE / THIRD ADVENTURE. / FOURTH ADVENTURE;
+    lines 3091-3129
+  start: '3091'
+  end: '3129'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A noble prince is honored for his deeds in battle and is not treated as
+    a common paid warrior. He remains briefly in order to see a maiden, then joyfully
+    rides home to his father’s country. The king orders tournaments and prepares seating
+    near Worms for arriving guests. Kriemhild learns of the coming feast, maidens
+    prepare dresses and wimples, and Queen Ute orders rich garments prepared for her
+    children, courtly women, riders, and strangers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prince is described as too noble to take common pay and as honored by
+    the king and warriors because of what he accomplished in battle.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prince stays a little longer for the sake of seeing a maiden, then rides
+    joyfully home to his father’s country.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king orders tournaments to continue, and youthful riders go to the lists.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Seats are prepared by Worms upon the strand for those coming to the Burgundian
+    land.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kriemhild learns that the king will hold a high feast with his men, and fair
+    maidens become busy with dresses and wimples.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Queen Ute hears that worthy proud knights are coming and has rich dresses
+    brought from storage.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Out of love for her children, Ute orders rich dress prepared for ladies, maidens,
+    young riders, and many strangers.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed noble prince
+  description: A prince described as noble, honored for battle accomplishments, briefly
+    remaining for a maiden’s sake before returning home.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed king
+  description: The king honors the prince and commands the holding of tournaments
+    and high feasting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: warriors
+  description: Warriors who hold the prince in honor after seeing his battle deeds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: unnamed maiden
+  description: A maiden whom the prince wishes to see before he rides home.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: youthful riders
+  description: Young riders who go to the lists and are among those for whom rich
+    dress is prepared.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:6
+  name_or_label: Kriemhild
+  description: A noble lady who learns of the king’s coming high feast.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: fair maidens
+  description: Maidens busy preparing dresses and wimples for the feast.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: Ute
+  description: A stately queen who hears of the coming knights and orders rich dress
+    prepared out of love for her children.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: coming knights and strangers
+  description: Proud knights of high worth and many strangers expected to come to
+    the Burgundian land, with garments prepared for them.
+  role_refs:
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: battle-proven honored prince
+  assigned_to:
+  - fig:1
+  basis: The passage says the prince is honored by the king and warriors for what
+    his arm accomplished in battle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal host and tournament sponsor
+  assigned_to:
+  - fig:2
+  basis: The king commands tournaments and high feasting for his men and guests.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: homeward-returning prince
+  assigned_to:
+  - fig:1
+  basis: The prince rides home joyfully to his father’s country after staying briefly.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: witnesses to martial achievement
+  assigned_to:
+  - fig:3
+  basis: The warriors had seen the prince’s battle deeds and therefore honored him.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: maiden sought by the prince
+  assigned_to:
+  - fig:4
+  basis: The prince remains for the maiden’s sake because he wishes to see her.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: tournament or feast participants
+  assigned_to:
+  - fig:5
+  - fig:9
+  basis: Youthful riders go to the lists, and guests are expected to come to Burgundy
+    for the king’s event.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:7
+  label: noble lady receiving court news
+  assigned_to:
+  - fig:6
+  basis: Kriemhild learns that the king will hold a high feast with his men.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: attire preparers
+  assigned_to:
+  - fig:7
+  basis: Fair maidens are busy with the dresses and wimples to be worn.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: queenly provider of garments
+  assigned_to:
+  - fig:8
+  basis: Ute orders rich dress prepared and garments brought from storage.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:10
+  label: incoming honored guests
+  assigned_to:
+  - fig:9
+  basis: Proud knights and many strangers are expected, and rich garments are prepared
+    or measured for them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: common pay refused
+  literal_form: common pay
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tournament lists
+  literal_form: tournament and lists
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prepared seats at Worms
+  literal_form: seats by Worms upon the strand
+  associated_figures:
+  - fig:2
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: courtly garments
+  literal_form: dresses, wimples, and rich garments
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Prince honored and returning home
+  summary: A noble prince is honored for his battle deeds, stays briefly to see a
+    maiden, and then rides home joyfully.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tournament preparations at Worms
+  summary: The king orders tournaments, youthful riders go to the lists, and seating
+    is prepared near Worms for people coming to Burgundy.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Kriemhild and maidens prepare for feasting
+  summary: Kriemhild learns of the king’s feast, and fair maidens become busy preparing
+    dresses and wimples.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ute orders rich garments
+  summary: Queen Ute hears that worthy knights are coming and orders rich garments
+    prepared for her children, courtly women, riders, and strangers.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: honored warrior above ordinary pay
+  taxonomy_refs: []
+  basis: The prince is too noble for common pay and is honored for deeds accomplished
+    in battle.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives courtly honor language but does not expand into a wider
+    mythic pattern.
+- id: motif:2
+  label: brief delay for the maiden before homeward return
+  taxonomy_refs:
+  - return
+  basis: The prince remains only for the maiden’s sake, then joyfully rides home to
+    his father’s country.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The return is literal and courtly; the passage alone does not establish
+    a full journey-cycle return motif.
+- id: motif:3
+  label: royal tournament and feast for incoming guests
+  taxonomy_refs: []
+  basis: The king orders tournament activity, seating is prepared at Worms, and news
+    spreads of a high feast.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supernatural or sacred dimension is stated in this passage.
+- id: motif:4
+  label: rich garment preparation as courtly hospitality
+  taxonomy_refs: []
+  basis: Dresses, wimples, and rich garments are prepared or measured for ladies,
+    maidens, riders, and strangers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports hospitality and status display, but not a sacred
+    exchange classification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3091-3094
+  quote_or_summary: The prince is called too noble for common pay and is honored by
+    the king and warriors for his battle deeds.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3098-3101
+  quote_or_summary: The prince stays a little longer for the maiden’s sake, then joyfully
+    rides home to his father’s country.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3105-3108
+  quote_or_summary: The king orders tournaments; youthful riders go to the lists;
+    seats are made ready by Worms upon the strand for those coming to Burgundy.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3112-3115
+  quote_or_summary: Kriemhild learns that the king will hold high feasting with his
+    men, and fair maidens are busy with dresses and wimples.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3119-3122
+  quote_or_summary: Queen Ute hears that proud knights of high worth are coming and
+    has rich dresses brought from storage.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3126-3129
+  quote_or_summary: Because of love for her children, Ute orders rich dress prepared
+    for ladies, maidens, young riders, and many strangers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are limited to courtly patterns directly evidenced here. No comparison claims
+    are made because the passage itself does not support cross-text or historical
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy was applied only to the literal homeward return, with caution.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l3091-l3129
+  passage_sha256=2ccaaac02017525def8b4457c54f73363e5bd3f834fcfcaefafb0ccc643414cc
+

@@ -1,0 +1,506 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l14755-l14952
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: WITTICISMS. / SUPPLEMENTARY NOTES. / INDEX TO INFORMANTS. / NOTES; lines
+    14755-14952
+  start: '14755'
+  end: '14952'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes gloss Jamaican words, objects, story variants, supernatural
+    beings, sorcery beliefs, songs, and informant comments associated with the collected
+    Anansi stories.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A duppy is defined as a ghost, spirit, or supernatural apparition, and in
+    one context is said probably to refer to the Devil.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anansi is noted as claiming the power of a sorcerer in one story context.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dry-head is described as hiding in the bush to eat up what Anansi or Tacoomah
+    have, and as functioning as a kind of old-man-of-the-sea figure in Anansi stories.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The word “tack” is glossed as meaning “trick.”
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:5
+  text: A soiled garment should not be left about because a sorcerer may use it to
+    bewitch the owner; burning such a garment is believed to produce a burn-like skin
+    disease.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Koromanti Death Song is said to be always used by the Maroons at a burial.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Jamaican children compose secret songs for play or for singing when walking
+    alone.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: An obi-man is said to use a person’s born-day name rather than the common
+    name when seeking to bewitch that person.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Go-long-go is said to correspond with Dry-head in other versions.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A Brownstown version of the same story is cited as preserving a variant form
+    of a song.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Anansi
+  description: A figure in the stories who is noted here as claiming sorcerer power
+    and as one whose possessions Dry-head may eat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dry-head
+  description: A figure described as hiding in the bush to eat what Anansi or Tacoomah
+    have and as a kind of old-man-of-the-sea figure in Anansi stories.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tacoomah
+  description: A figure mentioned as one whose possessions Dry-head may eat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Duppy
+  description: A ghost, spirit, or supernatural apparition; in the noted context probably
+    the Devil.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Sorcerer / obi-man
+  description: A bewitching specialist who may use a soiled garment or a born-day
+    name against a person.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Maroons
+  description: The group said to use the Koromanti Death Song at burial.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Jamaican children
+  description: Children who compose secret songs for play or solitary walking.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Devil
+  description: Named as the probable referent of a duppy in one note and as a figure
+    associated with a tune in the Cock and Corn story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:11
+roles:
+- id: role:1
+  label: claimant of sorcerer power
+  assigned_to:
+  - fig:1
+  basis: The note says Anansi claims the power of a sorcerer.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: bush-hiding eater / old-man-of-the-sea type
+  assigned_to:
+  - fig:2
+  basis: The note describes Dry-head as hiding in the bush to eat what others have
+    and as a kind of old man of the sea in Anansi stories.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: possession-holder targeted by Dry-head
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Dry-head is said to eat up what Anansi or Tacoomah have.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: supernatural apparition or devil-associated being
+  assigned_to:
+  - fig:4
+  - fig:8
+  basis: The duppy is defined as a ghost, spirit, or supernatural apparition and probably
+    as the Devil in context; the Devil is also mentioned in a tune reference.
+  evidence_refs:
+  - ev:1
+  - ev:11
+- id: role:5
+  label: bewitching specialist
+  assigned_to:
+  - fig:5
+  basis: The sorcerer or obi-man is associated with bewitching through garments and
+    born-day names.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:6
+  label: burial-song users
+  assigned_to:
+  - fig:6
+  basis: The Maroons are said always to use the Koromanti Death Song at burial.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: secret-song composers
+  assigned_to:
+  - fig:7
+  basis: Jamaican children are said to compose secret songs for play or walking alone.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: soiled garment
+  literal_form: A soiled garment left about and vulnerable to use by a sorcerer.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: fire or burning garment
+  literal_form: Burning a garment, believed to produce a skin disease like a burn
+    on the owner.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: born-day name
+  literal_form: A name belonging to a child according to the day of the week of birth,
+    used by an obi-man in bewitching.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Koromanti Death Song
+  literal_form: A death song always used by the Maroons at burial.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: secret song
+  literal_form: A song composed by Jamaican children for play or for singing while
+    walking alone.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: duppy
+  literal_form: A ghost, spirit, or supernatural apparition, probably the Devil in
+    the noted context.
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: bush hiding place
+  literal_form: The bush where Dry-head is said to hide himself.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: trick / tack
+  literal_form: The term “tack,” glossed as “trick.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Garment-based bewitching belief
+  summary: The note reports a belief that a soiled garment can be used by a sorcerer
+    to bewitch its owner, and that burning it causes burn-like disease.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Born-day-name bewitching belief
+  summary: The note reports that an obi-man uses a person’s born-day name rather than
+    the common name for bewitching.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Ritual and secret songs
+  summary: The notes identify the Koromanti Death Song as a Maroon burial song and
+    describe children’s secret songs used in play or solitary walking.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Dry-head character gloss
+  summary: Dry-head is glossed as a bush-hiding figure who eats what Anansi or Tacoomah
+    have and is compared to an old-man-of-the-sea type within Anansi stories.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Object-mediated bewitching through clothing
+  taxonomy_refs: []
+  basis: The passage states that a soiled garment may be used by a sorcerer to bewitch
+    its owner.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an editorial belief note rather than a narrated episode.
+- id: motif:2
+  label: Sympathetic injury through burning a linked object
+  taxonomy_refs: []
+  basis: Burning the garment is said to produce a skin disease exactly like a burn
+    on the owner.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports the belief but does not narrate a specific case.
+- id: motif:3
+  label: Name-mediated bewitching
+  taxonomy_refs: []
+  basis: The obi-man is said to use a born-day name, not the common name, when bewitching
+    a person.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The note does not state whether the name is secret, only that it differs
+    from the common name.
+- id: motif:4
+  label: Supernatural apparition identified with Devil
+  taxonomy_refs: []
+  basis: A duppy is defined as a ghost, spirit, or supernatural apparition and is
+    probably the Devil in the noted context.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The identification with the Devil is marked as probable by the editor.
+- id: motif:5
+  label: Burial death song
+  taxonomy_refs: []
+  basis: The Koromanti Death Song is said to be always used by the Maroons at burial.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The note names ritual use but gives no full burial scene.
+- id: motif:6
+  label: Bush-hiding devourer of others’ goods
+  taxonomy_refs: []
+  basis: Dry-head hides in the bush and eats up what Anansi or Tacoomah have.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a character gloss, not the full tale.
+- id: motif:7
+  label: Trick as named story action
+  taxonomy_refs: []
+  basis: The note glosses “tack” as “trick” in the Anansi-story notes.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The note is lexical and does not describe the trick itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Go-long-go corresponds with Dry-head in other versions.
+  claim_level: same_motif
+  target: Go-long-go / Dry-head variants in other versions
+  evidence_refs:
+  - ev:9
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The other versions are not included in this passage, so the basis of
+    correspondence cannot be checked here.
+- id: claim:2
+  claim: Dry-head is compared within the note to a kind of old-man-of-the-sea figure
+    in Anansi stories.
+  claim_level: same_function
+  target: Old-man-of-the-sea type in Anansi stories
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The phrase is an editorial comparison and is not expanded with narrative
+    detail in this passage.
+- id: claim:3
+  claim: The Brownstown version is identified as a version of the same story with
+    a variant song.
+  claim_level: linguistic_similarity
+  target: Brownstown song variant of the same story
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the song variant is cited; the passage does not compare full narrative
+    structure.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14755-14952, note [12]
+  quote_or_summary: "“A duppy is a ghost, spirit, or any supernatural apparition,
+    but here probably refers to the Devil.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 14755-14952, note [4]
+  quote_or_summary: "“Anansi here claims the power of a sorcerer.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 14755-14952, note [19]
+  quote_or_summary: Dry-head is described as hiding in the bush to eat what Anansi
+    or Tacoomah have and as figuring as a kind of old man of the sea in Anansi stories.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 14755-14952, note [36]
+  quote_or_summary: A soiled garment should not be left about lest a sorcerer use
+    it to bewitch the owner; burning it is believed to produce a burn-like skin disease.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 14755-14952, note [48]
+  quote_or_summary: "“The song sung is the Koromanti Death Song, always used by the
+    Maroons at a burial.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: lines 14755-14952, note [57]
+  quote_or_summary: Jamaican children compose a “secret song” for play or for singing
+    when walking alone.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:7
+  type: summary
+  locator: lines 14755-14952, note [71]
+  quote_or_summary: An informant said the obi-man did not use a person’s common name
+    when bewitching him, but used the person’s born-day name.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:8
+  type: quote
+  locator: lines 14755-14952, note [20]
+  quote_or_summary: "“Tack means a ‘trick’.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:9
+  type: quote
+  locator: lines 14755-14952, note [28]
+  quote_or_summary: "“‘Go-long-go’ corresponds with ‘Dry-head’ in other versions.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:10
+  type: summary
+  locator: lines 14755-14952, note [58]
+  quote_or_summary: A Brownstown version of the same story is cited with a variant
+    song.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:11
+  type: quote
+  locator: lines 14755-14952, note [64]
+  quote_or_summary: "“The tune is that of the Devil in the Cock and Corn story, number
+    85.”"
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Most extraction items are direct glosses from editorial notes. Motif confidence
+    is lower where a note supplies only a belief, lexical gloss, or cross-reference
+    rather than a complete narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external traditions or taxonomy identifiers were added beyond the supplied passage and available symbol taxonomy; motif taxonomy refs were left empty where not directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l14755-l14952
+  passage_sha256=35885d71c0409d93a00ff4e4658018ba72c10f8e5ce8cbe886412582cfcc7846
+

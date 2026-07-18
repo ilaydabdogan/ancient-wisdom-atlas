@@ -1,0 +1,502 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l3728-l3822
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 3728-3822
+  start: '3728'
+  end: '3822'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A ship reaches an island feared by mariners. Hairy dwarf-like islanders
+    seize the ship and leave the crew on another shore. The stranded mariners find
+    a castle containing human bones and roasting spits. A one-eyed giant enters, selects
+    the fattest captive, roasts and eats him, then repeats the killing on following
+    nights. The narrator proposes building rafts and, with nine companions, blinds
+    the sleeping giant by heating spits and driving them into his single eye.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The captain warns that the island and its neighboring islands are inhabited
+    by hairy savages who attack in great numbers and cannot safely be resisted.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A multitude of reddish-furred, two-foot-tall figures enter the waves, surround
+    the vessel, chatter in an unknown language, and climb aboard with great speed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boarders hoist the sails, cut the anchor cable, sail the vessel to another
+    island, drive the ship's company ashore, and take the vessel away.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The stranded mariners go inland, eat herbs and fruits, and approach a distant
+    structure first perceived as a splendid palace and then identified as a strongly
+    built castle.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Inside the castle area they find a pile of human bones and many roasting spits.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At sunset a giant enters the hall; he is described as very tall, black, one-eyed,
+    with a flaming eye, long sharp teeth, large ears, and claw-like nails.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The giant handles and inspects the captives, selects the captain as the fattest,
+    places him on a spit, roasts him over a large fire, eats, and sleeps.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: On a later night the giant returns, eats another companion, and leaves again
+    at daybreak.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The narrator proposes making several rafts from driftwood as a possible means
+    of escape or rescue.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The mariners build rafts, each able to carry three persons.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: After the giant eats again and falls asleep, the narrator and nine companions
+    heat spits red-hot and thrust them into the giant's single eye, blinding him.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: After blinding the giant, the participants flee in different directions and
+    lie flat where he is unlikely to touch them.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: first-person narrator
+  description: A member of the stranded ship's company who proposes the raft plan
+    and joins nine companions in blinding the giant.
+  role_refs:
+  - role:3
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: captain
+  description: The ship's captain who warns of the hairy islanders and is later chosen
+    by the giant as the fattest captive and roasted.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: hairy savages or dwarfs
+  description: A vast multitude of small reddish-furred island inhabitants who board
+    the ship, seize it, and abandon the crew on another island.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: ship's company or stranded mariners
+  description: The crew and companions who are driven ashore, wander inland, find
+    the castle, despair, build rafts, and suffer repeated attacks by the giant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:5
+  name_or_label: one-eyed giant
+  description: A black, one-eyed giant inhabiting the castle; he examines captives,
+    roasts and eats selected victims, sleeps in the hall, and is blinded by heated
+    spits.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:6
+  name_or_label: nine boldest comrades
+  description: A subset of the narrator's companions who join him in heating spits
+    and blinding the sleeping giant.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: warning captain
+  assigned_to:
+  - fig:2
+  basis: He explains the danger of the island and the attacking hairy inhabitants
+    before they appear.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ship-seizing attackers
+  assigned_to:
+  - fig:3
+  basis: They board the vessel, cut the anchor cable, sail it away, and drive the
+    mariners ashore.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: stranded captives
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The ship's company is left helpless on the shore and later confined in the
+    giant's castle setting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:4
+  label: cannibal antagonist
+  assigned_to:
+  - fig:5
+  basis: The giant roasts and eats members of the stranded company.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: escape planner
+  assigned_to:
+  - fig:1
+  basis: The narrator presents the plan to make rafts from driftwood for possible
+    escape.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: blinders of the giant
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The narrator and nine companions heat spits and thrust them into the giant's
+    eye.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: sea and waves
+  literal_form: waves, sea, shore, and island waters around the ship and cliffs
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: fire
+  literal_form: large fire used for roasting and for heating the spits red-hot
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:3
+  label: roasting spits
+  literal_form: numberless spits in the hall; spits used for roasting captives and
+    later as heated weapons
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+- id: sym:4
+  label: single flaming eye
+  literal_form: one eye in the middle of the giant's forehead, described as flaming
+    like a burning coal
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:5
+  label: rafts
+  literal_form: rafts made from driftwood, each capable of carrying three persons
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: human bones
+  literal_form: a huge pile of human bones in the castle hall area
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hairy islanders seize the ship
+  summary: After the captain warns of dangerous hairy inhabitants, a multitude of
+    small reddish-furred figures boards the ship, takes control, and transports the
+    crew to another island.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Stranded mariners discover the castle
+  summary: The crew wanders inland, eats available plants, reaches a strong castle,
+    and sees human bones and roasting spits inside.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: The giant eats the captain
+  summary: A one-eyed giant enters at sunset, inspects the captives, selects the captain
+    as fattest, roasts him over a fire, eats, and sleeps.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Despair and raft plan
+  summary: After repeated killings, the survivors despair; the narrator proposes building
+    driftwood rafts for escape or for a chance of rescue.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Blinding the sleeping giant
+  summary: When the giant sleeps after another meal, the narrator and nine companions
+    heat spits in the fire and thrust them into his eye, blinding him, then hide.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Hostile island people seize a ship and abandon its crew
+  taxonomy_refs: []
+  basis: Small hairy islanders swarm onto the vessel, operate it, drive the mariners
+    ashore, and take the ship away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no wider explanation of the islanders' origin or motives.
+- id: motif:2
+  label: Stranded travelers enter a cannibal giant's dwelling
+  taxonomy_refs: []
+  basis: The mariners discover a castle containing human bones and roasting spits,
+    followed by the entrance of a one-eyed giant who eats captives.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage describes a castle rather than a cave or other dwelling type.
+- id: motif:3
+  label: One-eyed giant blinded with heated spits
+  taxonomy_refs: []
+  basis: The narrator and nine companions heat spits red-hot and thrust them into
+    the giant's single eye while he sleeps.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No external comparison is asserted here; the label is based only on the
+    passage's action sequence.
+- id: motif:4
+  label: Improvised raft escape plan from a fatal island
+  taxonomy_refs: []
+  basis: The narrator proposes building several rafts from driftwood as the only better
+    chance of survival if their plot fails or a ship appears.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage ends before any actual departure by raft is narrated.
+- id: motif:5
+  label: Survival through counsel and coordinated stratagem
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator devises the raft plan and participates in a coordinated attack
+    on the giant's vulnerable eye.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage presents practical survival
+    strategy rather than formal instruction or sacred wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3728-3733
+  quote_or_summary: The captain says he would rather have anchored elsewhere and warns
+    that nearby islands are inhabited by hairy savages who swarm in overwhelming numbers.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3735-3742
+  quote_or_summary: A vast multitude of hideous reddish-furred figures, not more than
+    two feet high, enters the waves, surrounds the ship, chatters in an unknown language,
+    and climbs aboard quickly.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3744-3752
+  quote_or_summary: The boarders hoist the sails, cut the anchor cable, take the vessel
+    to another island, drive the crew ashore, and depart with the ship.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3754-3767
+  quote_or_summary: The stranded crew wanders inland eating herbs and fruits, reaches
+    a strong castle, enters through ebony doors, and sees human bones on one side
+    and many roasting spits on the other.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3767-3777
+  quote_or_summary: At sunset a horrible giant enters, described as tall as a palm
+    tree, black, with one flaming eye in his forehead, sharp teeth, hanging lip, elephant-like
+    ears, and claw-like nails.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3779-3790
+  quote_or_summary: The giant examines the captives, rejects the thin narrator, selects
+    the captain as fattest, places him on a spit, roasts him over a large fire, eats,
+    sleeps, and leaves at daybreak.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3792-3802
+  quote_or_summary: The survivors lament, cannot devise escape, return to the castle
+    at night, and the giant eats another companion; some consider leaping from cliffs,
+    while the narrator announces an escape plan.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3804-3812
+  quote_or_summary: The narrator proposes using driftwood to make several rafts, so
+    they may await rescue if the plot succeeds or flee by raft if it fails.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3814-3816
+  quote_or_summary: All agree and spend the day building rafts, each able to carry
+    three persons.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 3816-3822
+  quote_or_summary: After the giant returns, eats again, and sleeps, the narrator
+    and nine comrades heat spits red-hot and drive them into the giant's eye, blinding
+    him, then scatter and hide.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif labels are
+    passage-based and mostly lack taxonomy links. No comparison claims are made because
+    the passage supplies no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to symbols and one broad motif-family link directly supportable from the supplied passage; no external Cyclops or Sindbad comparison has been asserted.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l3728-l3822
+  passage_sha256=22db3461c13a9af62aa482cc9c797283fc5560ee6595b3d76d3a45279bf86e2d
+

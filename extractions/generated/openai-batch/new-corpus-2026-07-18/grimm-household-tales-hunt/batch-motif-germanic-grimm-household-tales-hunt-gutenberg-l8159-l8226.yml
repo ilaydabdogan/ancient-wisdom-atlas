@@ -1,0 +1,575 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8159-l8226
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8159-8226
+  start: '8159'
+  end: '8226'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young man uses summoned soldiers to recover a wishing-cloth after exchanges
+    with charcoal-burners, obtains a cannon-firing hat and a horn that can destroy
+    fortifications, returns home, is rejected by his wealthy brothers because of his
+    ragged appearance, summons armed men to punish them, defeats royal troops with
+    the hat, and demands the king's daughter and governing power as terms of peace.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At the young man's command, soldiers go to a charcoal-burner and bring back
+    the wishing-cloth without extended questioning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A second charcoal-burner is preparing supper by a fire and invites the young
+    man to eat potatoes with salt but without dripping.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The young man spreads out the cloth, which is immediately covered with fine
+    dishes, and he and the charcoal-burner eat and drink together.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The second charcoal-burner offers an old worn-out hat whose turning makes
+    cannons fire and shoot down opposition; the young man trades the cloth for it
+    and then has soldiers fetch the cloth back.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A third charcoal-burner offers a horn whose blowing makes walls and fortifications
+    fall and towns and villages become ruins; after the trade the young man again
+    has soldiers retrieve the cloth, leaving him with the knapsack, hat, and horn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the young man returns home, his brothers have a handsome house from silver
+    and gold, but they refuse to acknowledge him because he appears in ragged clothing
+    with a shabby hat and old knapsack.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In anger, the young man taps his knapsack until one hundred and fifty armed
+    men appear, orders them to surround his brothers' house, and has two men beat
+    his brothers with hazel-sticks.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The king sends troops against the man with the knapsack; the man summons more
+    men and turns the hat so that heavy guns fire, causing the king's men to flee.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The young man states that he will not make peace unless the king gives him
+    his daughter as wife and lets him govern the kingdom in the king's name; the king
+    agrees out of necessity.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: young man with the knapsack
+  description: The young man trades and retrieves the wishing-cloth, obtains the hat
+    and horn, returns home, summons armed men, defeats royal troops, and demands the
+    king's daughter and governing authority.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: first charcoal-burner in this passage
+  description: A charcoal-burner from whom the young man's soldiers take back the
+    wishing-cloth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: second charcoal-burner
+  description: A sooty charcoal-burner preparing supper by the fire who eats from
+    the wishing-cloth and offers an old worn-out hat in exchange for it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: third charcoal-burner
+  description: A charcoal-burner who eats from the wishing-cloth and offers a horn
+    in exchange for it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: summoned soldiers
+  description: Armed men who appear when the young man taps his knapsack; they retrieve
+    the cloth, surround the brothers' house, beat the brothers, and fight royal troops.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: the young man's brothers
+  description: Two brothers who have become wealthy, reject the ragged young man,
+    mock him, drive him out, and are beaten by his summoned men.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: townspeople
+  description: People who gather and want to help the brothers but can do nothing
+    against the soldiers.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: king
+  description: The ruler who sends troops against the young man and later agrees to
+    give his daughter away to preserve peace and his crown.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: king's daughter
+  description: The daughter whom the king agrees to give to the young man as wife
+    after the young man's demand.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: captain and royal troops
+  description: Forces sent by the king to drive the disturber of the peace out of
+    the town; they are repulsed and later defeated.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: magic-object acquirer and user
+  assigned_to:
+  - fig:1
+  basis: The young man uses the wishing-cloth, knapsack, hat, and horn or their powers
+    in the passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:2
+  label: holder from whom the cloth is reclaimed
+  assigned_to:
+  - fig:2
+  basis: Soldiers are commanded to demand the wishing-cloth back from this charcoal-burner
+    and bring it to the young man.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: magic-object trader
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: One charcoal-burner offers the hat for the cloth, and another offers the
+    horn for it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: summoned armed force
+  assigned_to:
+  - fig:5
+  basis: Armed men appear from the knapsack and carry out the young man's commands.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:5
+  label: rejecting brothers
+  assigned_to:
+  - fig:6
+  basis: The brothers refuse to acknowledge the young man, mock him, and drive him
+    out.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: coercive suitor and claimant to rule
+  assigned_to:
+  - fig:1
+  basis: After defeating royal forces, the young man demands the king's daughter as
+    wife and rule of the kingdom in the king's name.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: royal opposition
+  assigned_to:
+  - fig:8
+  - fig:10
+  basis: The king orders troops against the young man; the captain and troops attempt
+    to expel him and are defeated.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: requested royal bride
+  assigned_to:
+  - fig:9
+  basis: The king's daughter is the person demanded by the young man and given by
+    the king under necessity.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: wishing-cloth
+  literal_form: A cloth or table-cloth that, when spread out, is instantly covered
+    with beautiful dishes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: old knapsack
+  literal_form: A knapsack tapped by the young man, after which armed soldiers appear
+    and obey him.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: old worn-out hat
+  literal_form: A shabby hat that makes cannons fire when it is put on and turned
+    round on the head.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: horn
+  literal_form: A horn that causes walls and fortifications to fall and towns and
+    villages to become ruins when blown.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fire
+  literal_form: The fire by which the second charcoal-burner is preparing supper.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: hazel-sticks
+  literal_form: Sticks carried by two summoned men to beat the young man's brothers.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Recovery of the wishing-cloth from a charcoal-burner
+  summary: The young man orders soldiers to go to a charcoal-burner and demand his
+    wishing-cloth back, and they return with it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Meal and hat exchange with the second charcoal-burner
+  summary: The young man meets a charcoal-burner cooking by the fire, feeds him from
+    the wishing-cloth, accepts an old hat with cannon-firing power in exchange, and
+    then has the cloth retrieved.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Horn exchange with the third charcoal-burner
+  summary: A third charcoal-burner eats from the cloth and trades a destructive horn
+    for it; the young man then retrieves the cloth and possesses the knapsack, hat,
+    and horn.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Homecoming and rejection by brothers
+  summary: The young man returns home in poor-looking clothing and is mocked, disowned,
+    and driven away by his prosperous brothers.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Punishment of the brothers
+  summary: The young man summons armed men from the knapsack, surrounds the brothers'
+    house, and has the brothers beaten while townspeople cannot intervene.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Defeat of royal forces and coerced settlement
+  summary: The king sends troops against the young man, who summons more men and uses
+    the hat's artillery power; after the royal forces are defeated, he demands the
+    king's daughter and authority to govern the kingdom.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Magical provisioning cloth used in exchange
+  taxonomy_refs: []
+  basis: The cloth instantly produces fine dishes and is used to feed charcoal-burners
+    before being exchanged for other magical objects.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the cloth's origin, only its use and repeated
+    recovery.
+- id: motif:2
+  label: Magic objects acquired by trade and then reclaimed
+  taxonomy_refs: []
+  basis: The young man trades the wishing-cloth for the hat and horn but then sends
+    soldiers to recover the cloth after each exchange.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The behavior is trick-like or coercive, but the passage does not explicitly
+    frame it as a named trickster episode.
+- id: motif:3
+  label: Object that summons an armed host
+  taxonomy_refs: []
+  basis: When the young man taps the knapsack, armed men appear and obey his commands
+    in domestic and military conflict.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage references the knapsack's power through use rather than a
+    full origin account.
+- id: motif:4
+  label: Wearable object as supernatural artillery
+  taxonomy_refs: []
+  basis: The hat's stated property is that turning it makes cannons fire, and the
+    young man later uses it so heavy guns defeat the king's men.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The hat is described as old and worn-out, but the passage gives no further
+    symbolic explanation.
+- id: motif:5
+  label: Destructive horn against fortifications
+  taxonomy_refs: []
+  basis: The horn is described as able to make walls and fortifications fall and to
+    turn towns and villages into ruins.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: In this passage the horn's power is described but not used in the action.
+- id: motif:6
+  label: Rejected poor-looking kinsman reveals power
+  taxonomy_refs: []
+  basis: The brothers reject the ragged young man as an impostor or beggar, after
+    which he summons armed men and punishes them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents three brothers rather than a simple sibling pair,
+    so no sibling-pair taxonomy is assigned.
+- id: motif:7
+  label: Return home after acquisition of extraordinary objects
+  taxonomy_refs:
+  - return
+  basis: After gaining the knapsack, hat, and horn, the young man says it is time
+    to go home and see how his brothers are doing, and he returns.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The return is a plot movement in this passage and may not constitute a
+    full return-cycle pattern by itself.
+- id: motif:8
+  label: Military coercion of royal marriage and rule
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After defeating the king's forces, the young man makes peace conditional
+    on receiving the king's daughter as wife and governing the kingdom in the king's
+    name; the king agrees to preserve peace and his crown.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage shows coercive acquisition of royal marriage and authority,
+    not an uncontested or sacral legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8159-8164
+  quote_or_summary: The young man commands soldiers to march to a charcoal-burner
+    and demand the wishing-cloth back; they bring it to him and he goes onward.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8164-8174
+  quote_or_summary: At sunset he meets another charcoal-burner preparing supper by
+    the fire; the charcoal-burner offers potatoes, but the young man spreads the cloth
+    and it is covered with beautiful dishes for them to eat and drink.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8174-8182
+  quote_or_summary: The charcoal-burner offers an old worn-out hat that makes cannons
+    fire when turned on the head; the young man trades the table-cloth for it and
+    then sends his soldiers to fetch the cloth back.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8183-8194
+  quote_or_summary: A third charcoal-burner offers a horn whose blowing makes walls
+    and fortifications fall; the young man trades the cloth for it, retrieves the
+    cloth by soldiers, and has the knapsack, hat, and horn before deciding to go home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8195-8203
+  quote_or_summary: At home the brothers have built a handsome house with silver and
+    gold; seeing him in a ragged coat with shabby hat and old knapsack, they mock
+    him, refuse to acknowledge him as their brother, and drive him out.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8203-8211
+  quote_or_summary: The young man taps his knapsack until one hundred and fifty armed
+    men appear; he orders them to surround the brothers' house and has two men beat
+    the brothers with hazel-sticks while gathered people cannot help them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 8211-8221
+  quote_or_summary: The king sends a captain and then a larger troop against the man
+    with the knapsack; he summons more men and turns the hat so that heavy guns fire,
+    and the king's men are defeated and flee.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 8221-8226
+  quote_or_summary: The young man announces he will not make peace unless the king
+    gives him his daughter as wife and lets him govern the kingdom in the king's name;
+    the king tells his daughter he must agree to keep peace and his crown.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and passage-level; no external tale-type or comparative claims are added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison_claims were generated because the supplied passage itself does not explicitly support a comparison beyond descriptive motif candidates.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8159-l8226
+  passage_sha256=fcc2294ab13c503159a9de6eb039f0789e8a594905ac0c224882de31fa36e53d
+

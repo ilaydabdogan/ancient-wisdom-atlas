@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.egyptian-legends-of-gods-budge-gutenberg-l1478-l1559
+source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+passage_locator:
+  label: PLATE IX. / LEGEND OF THE BIRTH OF HORUS, SON OF ISIS AND OSIRIS. / PLATE
+    XV. / A LEGEND OF KHNEMU AND OF A SEVEN YEARS' FAMINE.; lines 1478-1559
+  start: '1478'
+  end: '1559'
+  translation: 'Legends of the Gods: The Egyptian Texts, edited with Translations'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial introduction to the Sahal inscription containing a legend of
+    Khnemu and a seven-year famine. The passage summarizes a famine in the reign of
+    Tcheser, attributed physically to low Nile floods and mythically to neglect of
+    Khnemu's worship. When Tcheser restores Khnemu's offerings, sanctuary, and priesthood,
+    Khnemu allows Hapi to pour waters from cataract caverns, restoring flood, crops,
+    and abundance. The passage also discusses the inscription's likely late date and
+    compares the seven-year famine duration with Genesis and later Arab historical
+    famine accounts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage locates the hieroglyphic text on a large rounded granite block
+    on Sahal island in the First Cataract region.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The legend summarized in the passage describes a famine in the reign of Tcheser
+    that lasted seven years.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies insufficient Nile floods as the physical cause of the
+    famine.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The legend explains the low Nile floods as resulting from neglect of the worship
+    of Khnemu, god of the First Cataract.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After Tcheser acts to remove Khnemu's complaint, the Nile rises, crops become
+    abundant, and scarcity ends.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Tcheser restores Khnemu's offerings and re-endows Khnemu's sanctuary and priesthood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Khnemu allows Hapi to pour streams from caverns in the Cataract and flood
+    the land with abundance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage argues that the inscription likely belongs to a late, probably
+    Ptolemaic, period and may reflect priestly interest in restoring Khnemu's cult
+    and revenues.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage compares the plausibility of a seven-year Egyptian famine with
+    the seven-year famine in Genesis and with later Arab historical reports of seven-year
+    famines.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Khnemu
+  description: The great god of the First Cataract whose neglected worship is said
+    to cause the low Niles, and who later allows Hapi to release floodwaters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Tcheser
+  description: A king of the IIIrd Dynasty in whose reign the seven-year famine is
+    said to occur; he restores Khnemu's offerings and cult endowment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Hapi
+  description: A named figure whose streams are poured from the Cataract caverns when
+    Khnemu allows it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Egyptians or men
+  description: The human community described as having ceased to worship Khnemu appropriately.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Priests of Khnemu
+  description: The priesthood re-endowed by Tcheser in the legend summary and described
+    in the editorial discussion as likely beneficiaries of the inscription's claims.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Royal restorer of cult
+  assigned_to:
+  - fig:2
+  basis: Tcheser restores Khnemu's offerings and re-endows the sanctuary and priesthood,
+    after which abundance returns.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: First Cataract deity controlling Nile abundance
+  assigned_to:
+  - fig:1
+  basis: Khnemu is called the god of the First Cataract; neglect of his worship is
+    linked to low Niles, and his permission enables Hapi's streams to flood the land.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Flood-stream agent
+  assigned_to:
+  - fig:3
+  basis: Hapi is the figure whose streams are poured from the Cataract caverns to
+    flood the land.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Neglectful worshipping community
+  assigned_to:
+  - fig:4
+  basis: The passage says men had ceased to worship Khnemu in a manner appropriate
+    to his greatness.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Cultic beneficiaries
+  assigned_to:
+  - fig:5
+  basis: The priesthood is re-endowed in the legend summary, and the editorial discussion
+    says priests of Khnemu likely benefited from restored worship and listed tolls
+    and taxes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Nile floodwaters
+  literal_form: Insufficient Nile floods, the Nile rising again, and Hapi's streams
+    flooding the land.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Cataract caverns
+  literal_form: Caverns in the Cataract from which Hapi's streams pour forth.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Seven-year duration
+  literal_form: The famine lasts for seven years.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: Restored offerings and endowment
+  literal_form: Offerings of Khnemu and the re-endowed sanctuary and priesthood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Inscribed setting of the famine legend
+  summary: The passage describes the hieroglyphic inscription on a granite block at
+    Sahal in the First Cataract region and notes its discovery and publication history.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seven-year famine under Tcheser
+  summary: A terrible seven-year famine occurs during Tcheser's reign; insufficient
+    Nile floods are named as the physical cause, while the legend links the low Niles
+    to neglect of Khnemu's worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cult restoration and return of abundance
+  summary: Tcheser restores Khnemu's offerings and re-endows the sanctuary and priesthood;
+    Khnemu permits Hapi to pour streams from Cataract caverns, and the flood and crops
+    return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Late-period priestly framing
+  summary: The passage interprets the inscription as likely late and connected with
+    efforts to restore Khnemu's worship and priestly fiscal privileges.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Seven-year famine from failed river floods
+  taxonomy_refs:
+  - seasonal_cycle
+  - chaos
+  basis: The legend describes a seven-year famine physically caused by insufficient
+    Nile floods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an editorial summary rather than the full translated inscription;
+    'chaos' is a broad taxonomy match for scarcity and disorder.
+- id: motif:2
+  label: Neglected divine cult causes ecological scarcity
+  taxonomy_refs:
+  - divine_judgment
+  - sacred_exchange
+  basis: The low Niles are said to result from neglect of Khnemu's worship, and restored
+    cult obligations precede renewed abundance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not use explicit punishment terminology; the divine-causation
+    reading is based on the stated link between neglect, complaint, and low Nile floods.
+- id: motif:3
+  label: Royal restoration of cult renews the land
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacred_exchange
+  basis: Tcheser restores Khnemu's offerings, sanctuary, and priesthood, after which
+    the Nile and crops return.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Royal legitimacy is implied by the king's cult-restoring role but is not
+    directly stated as a coronation or kingship doctrine in this passage.
+- id: motif:4
+  label: Beneficial floodwaters released from hidden cataract caverns
+  taxonomy_refs:
+  - flood_and_renewal
+  - seasonal_cycle
+  basis: Khnemu allows Hapi to pour streams from Cataract caverns, flooding the land
+    with abundance and ending scarcity.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The flood is beneficial and agricultural, not a destructive deluge; classification
+    under flood-and-renewal is functional rather than exact.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the legend's seven-year famine with the seven
+    years' famine mentioned in Genesis as a parallel showing that such a duration
+    is plausible in Egypt.
+  claim_level: same_motif
+  target: Book of Genesis seven years' famine
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not assert historical contact, borrowing, or detailed
+    narrative equivalence; it uses Genesis mainly as a plausibility comparison.
+- id: claim:2
+  claim: The passage also places the seven-year famine duration beside later Arab
+    historical reports of famines lasting seven years.
+  claim_level: same_motif
+  target: Seven-year famine accounts in Arab historians
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: These are presented as historical famine examples, not necessarily
+    mythological narratives; the passage does not claim shared origin or transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1478-1559; opening source-location discussion
+  quote_or_summary: The text is described as a hieroglyphic inscription on a large
+    rounded granite block on Sahal island in the First Cataract region, discovered
+    by C. E. Wilbour in 1889.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1478-1559; paragraph beginning 'The legend contained'
+  quote_or_summary: The legend describes a terrible famine in the reign of Tcheser,
+    a IIIrd Dynasty king, lasting seven years.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 1478-1559; famine-cause discussion
+  quote_or_summary: The passage says insufficient Nile floods physically caused the
+    famine, while the legend says the low Niles came from neglecting the worship of
+    Khnemu, god of the First Cataract.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1478-1559; cult-restoration discussion
+  quote_or_summary: When Tcheser restores Khnemu's offerings and re-endows his sanctuary
+    and priesthood, Khnemu allows Hapi to pour streams from Cataract caverns, the
+    Nile rises, crops return, and scarcity ceases.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1478-1559; late-date and priestly-interest discussion
+  quote_or_summary: The passage argues that the inscription's forms suggest a late,
+    probably Ptolemaic, date and that priests of Khnemu likely had an interest in
+    restoring the god's worship and fiscal privileges.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 1478-1559; comparative famine paragraph
+  quote_or_summary: The passage states that Genesis mentions a seven-year famine and
+    that Arab historians mention several famines lasting seven years, using these
+    as comparisons for plausibility.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md
+  rights_note: Public domain source; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative elements are clearly summarized in the passage. Motif
+    classification is cautious because the excerpt is Budge's editorial introduction
+    and summary, not the complete translated Egyptian inscription.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The extraction distinguishes the summarized Egyptian legend from Budge's source-critical and comparative commentary.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-legends-of-gods-budge-gutenberg__l1478-l1559
+  passage_sha256=96ae2e488164b2bfcbf2b1f88db34fbf82847f3ad46ad90c813b0285744f8282
+

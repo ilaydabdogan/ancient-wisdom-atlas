@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l163-l181
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Numbers / Chapter 1; lines 163-181
+  start: '163'
+  end: '181'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“The Levites shall be responsible for the Tabernacle of the Testimony.”"
+  summary: After the census total for war-qualified Israelites is given, the Levites
+    are excluded from that census. Yahweh commands Moses to appoint the Levites over
+    the Tabernacle of the Testimony, its furnishings, transport, setup, and surrounding
+    encampment, with death prescribed for a stranger who comes near. Israel is to
+    camp by divisions and standards, while the Levites guard the tabernacle to prevent
+    wrath on the congregation. The Israelites do as commanded.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The counted children of Israel are identified by fathers’ houses, from twenty
+    years old upward, and as those able to go out to war.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The total number counted is six hundred three thousand five hundred fifty.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Levites are not counted among the other children of Israel, and Yahweh
+    commands Moses not to take a census of the tribe of Levi among them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yahweh commands that the Levites be appointed over the Tabernacle of the Testimony,
+    its furnishings, and all that belongs to it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Levites are to carry, care for, and encamp around the tabernacle and its
+    furnishings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the tabernacle moves, the Levites are to take it down; when it is set
+    up, the Levites are to set it up.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A stranger who comes near is to be put to death.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The children of Israel are to pitch their tents by camp, standard, and divisions.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Levites are to encamp around the Tabernacle of the Testimony so that there
+    will be no wrath on the congregation of the children of Israel.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The children of Israel do according to all that Yahweh commanded Moses.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: children of Israel
+  description: The counted Israelite congregation by fathers’ houses, including those
+    from twenty years old upward able to go out to war, and later those instructed
+    to pitch tents by camp, standard, and divisions.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Levites / tribe of Levi
+  description: The tribe not counted in the general census and appointed over the
+    Tabernacle of the Testimony, its furnishings, transport, care, setup, and surrounding
+    encampment.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Yahweh
+  description: The divine speaker who commands Moses concerning the Levites and the
+    tabernacle arrangements.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Moses
+  description: The recipient of Yahweh’s speech and command.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:5
+  name_or_label: the stranger who comes near
+  description: A stranger described as coming near the tabernacle, for whom death
+    is prescribed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: counted war-qualified Israelites
+  assigned_to:
+  - fig:1
+  basis: They are counted by fathers’ houses from twenty years old upward, all able
+    to go out to war.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: excluded tribe from the general census
+  assigned_to:
+  - fig:2
+  basis: The Levites are specifically not counted among the children of Israel.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sanctuary custodians and perimeter attendants
+  assigned_to:
+  - fig:2
+  basis: They are appointed over the tabernacle and furnishings, to carry, care for,
+    set up, take down, and encamp around it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:4
+  label: divine command giver
+  assigned_to:
+  - fig:3
+  basis: Yahweh speaks to Moses and commands the arrangements.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:5
+  label: command recipient
+  assigned_to:
+  - fig:4
+  basis: Moses receives Yahweh’s speech and commands.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:6
+  label: ordered camp participants
+  assigned_to:
+  - fig:1
+  basis: The children of Israel are instructed to pitch tents by camp, standard, and
+    divisions.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: unauthorized near-approacher
+  assigned_to:
+  - fig:5
+  basis: The passage states that the stranger who comes near shall be put to death.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: census total
+  literal_form: six hundred three thousand five hundred fifty
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tabernacle of the Testimony
+  literal_form: the Tabernacle of the Testimony with its furnishings and all that
+    belongs to it
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: camp standards and divisions
+  literal_form: tents pitched by camp, by standard, and according to divisions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Levite encampment around the tabernacle
+  literal_form: the Levites encamping around the Tabernacle of the Testimony
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Census total and Levite exclusion
+  summary: The census total for war-qualified Israelites is stated, and the Levites
+    are excluded from being counted among the other children of Israel by Yahweh’s
+    command to Moses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Levites appointed to tabernacle service
+  summary: Yahweh commands that the Levites be responsible for the tabernacle, its
+    furnishings, transport, care, taking down, and setting up; a stranger who comes
+    near is to be put to death.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ordered encampment and prevention of wrath
+  summary: The Israelites are to camp by divisions and standards, while the Levites
+    encamp around the Tabernacle of the Testimony so that wrath does not come on the
+    congregation; the Israelites do as Yahweh commanded Moses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: census and martial muster
+  taxonomy_refs: []
+  basis: The passage counts Israelites by fathers’ houses from age twenty upward,
+    specifically those able to go out to war, and gives the total counted.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an administrative census passage rather than a narrative battle
+    scene.
+- id: motif:2
+  label: special sacred service group set apart from the general count
+  taxonomy_refs: []
+  basis: The Levites are excluded from the general census and assigned distinct duties
+    over the tabernacle and its furnishings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states the separation and duties but does not narrate an origin
+    story for the Levites.
+- id: motif:3
+  label: guarded sacred boundary with death or wrath for unauthorized approach
+  taxonomy_refs:
+  - divine_judgment
+  basis: The stranger who comes near is to be put to death, and the Levites encamp
+    around the tabernacle so that there will be no wrath on the congregation.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage gives a command and preventive arrangement; it does not describe
+    an actual transgression or judgment event.
+- id: motif:4
+  label: portable sanctuary maintained by dedicated custodians
+  taxonomy_refs: []
+  basis: The Levites are to carry the tabernacle and furnishings and take the tabernacle
+    down or set it up when it moves or is established.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage concerns tabernacle logistics and does not identify a broader
+    travel narrative in this excerpt alone.
+- id: motif:5
+  label: ordered camp arranged by divisions around a protected sanctuary
+  taxonomy_refs: []
+  basis: The Israelites are to camp by their own camps, standards, and divisions,
+    while the Levites camp around the Tabernacle of the Testimony.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt implies a spatial arrangement but does not explicitly describe
+    the full camp map or central placement.
+- id: motif:6
+  label: divine command followed by collective obedience
+  taxonomy_refs: []
+  basis: Yahweh commands Moses, and the children of Israel do according to all that
+    Yahweh commanded Moses.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is a broad command-obedience pattern and not unique to this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 1:45-46; lines 163-166
+  quote_or_summary: Those counted from the children of Israel are from twenty years
+    old and upward, able to go out to war; the total is “six hundred three thousand
+    five hundred fifty.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: Numbers 1:47-49; lines 167-172
+  quote_or_summary: The Levites are not counted among them; Yahweh tells Moses, “Only
+    the tribe of Levi you shall not count.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: Numbers 1:50; lines 173-174
+  quote_or_summary: The Levites are appointed over the Tabernacle of the Testimony
+    and its furnishings; they shall carry it, care for it, and encamp around it.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: Numbers 1:51; lines 176-177
+  quote_or_summary: When the tabernacle moves the Levites take it down; when it is
+    set up they set it up; “The stranger who comes near shall be put to death.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: Numbers 1:52; lines 178-179
+  quote_or_summary: The children of Israel pitch tents, every man by his own camp
+    and standard, according to divisions.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: Numbers 1:53; lines 180
+  quote_or_summary: The Levites encamp around the Tabernacle of the Testimony so that
+    there may be no wrath on the congregation; they are responsible for it.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: Numbers 1:54; lines 181
+  quote_or_summary: The children of Israel do according to all that Yahweh commanded
+    Moses.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt. No comparison claims were
+    generated because the passage does not itself make an explicit cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy reference used only where the passage explicitly mentions wrath/death associated with sacred-boundary violation; other candidate motifs are left without taxonomy refs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l163-l181
+  passage_sha256=2904214bfef7c203515d023d34057e8e3202448e69800b63db4a932f5d2d6767
+

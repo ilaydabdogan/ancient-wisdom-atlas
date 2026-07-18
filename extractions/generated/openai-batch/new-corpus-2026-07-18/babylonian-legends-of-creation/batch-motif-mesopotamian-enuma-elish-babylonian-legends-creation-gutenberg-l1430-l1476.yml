@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.mesopotamian-enuma-elish-babylonian-legends-creation-gutenberg-l1430-l1476
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+passage_locator:
+  label: THE LEGEND OF THE CREATION ACCORDING TO BEROSUS AND DAMASCIUS. / THE SEVEN
+    TABLETS OF CREATION. DESCRIPTION OF THEIR CONTENTS. / THE SEVEN TABLETS OF CREATION.--TRANSLATION.
+    / SECOND TABLET.; lines 1430-1476
+  start: '1430'
+  end: '1476'
+  translation: The Babylonian Legends of the Creation
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker promises Anshar to carry out what is in Anshar's heart. Anshar
+    addresses Marduk about Tiamat, an armed female adversary, and urges him to bring
+    joy to the gods by trampling Tiamat, casting deep sleep on her with a holy spell,
+    and marching quickly. Marduk rejoices at his father's words and says that, if
+    he avenges the gods by slaying Tiamat and giving them life, they should assemble,
+    magnify his position, and grant him decree-making authority whose utterances will
+    not fail.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker addresses Anshar and says he will go and make happen what is in
+    Anshar's heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anshar speaks to Marduk and says Tiamat, described as a woman, pursues him
+    with weapons.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Anshar says Marduk will soon trample upon the neck of Tiamat and thereby gladden
+    hearts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anshar calls Marduk his son and says Marduk comprehends everything.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Anshar instructs Marduk to cast deep sleep upon Tiamat with a holy spell and
+    to march quickly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Marduk rejoices at the word of his father and speaks to him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Marduk says that if he acts as the gods' avenger, slays Tiamat, and bestows
+    life on the gods, they should summon a meeting and magnify his position.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Marduk tells the gods to sit together in friendly fashion in Upshukkinaku.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Marduk asks to issue decrees by the opening of his mouth, and says his utterances
+    should remain unaltered and never fail.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Marduk
+  description: Called the Lord; addressed by Anshar as son; expected to overcome Tiamat;
+    rejoices at his father's words and requests elevated authority if he slays Tiamat
+    and gives life to the gods.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Anshar
+  description: Named as the one addressed in an initial pledge and marked as the speaker
+    to Marduk; called Marduk's father in the narrative.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Tiamat
+  description: Described as a woman pursuing Marduk with weapons; target of trampling,
+    deep sleep by holy spell, and slaying.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the gods / Great Gods
+  description: Collective beneficiaries addressed by Marduk; asked to assemble, magnify
+    his position, sit in Upshukkinaku, and allow his decrees to stand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: divine son and combatant
+  assigned_to:
+  - fig:1
+  basis: Anshar calls Marduk his son and speaks of Marduk trampling, enchanting, and
+    slaying Tiamat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: father and commissioner
+  assigned_to:
+  - fig:2
+  basis: Anshar is marked as speaking to Marduk, gives instructions, and is called
+    Marduk's father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: armed adversary to be subdued
+  assigned_to:
+  - fig:3
+  basis: Tiamat pursues with weapons and is the object of predicted trampling, deep
+    sleep, and slaying.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: divine assembly conferring status
+  assigned_to:
+  - fig:4
+  basis: Marduk asks the gods to summon a meeting, magnify his position, sit together,
+    and accept his decree-making authority.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: avenger
+  assigned_to:
+  - fig:1
+  basis: Marduk frames his proposed action as serving as the gods' avenger against
+    Tiamat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: weapons of Tiamat
+  literal_form: weapons carried or used by Tiamat in pursuit
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: trampling the neck
+  literal_form: trampling upon the neck of Tiamat
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: holy spell and deep sleep
+  literal_form: deep sleep cast upon Tiamat with a holy spell
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Upshukkinaku assembly place
+  literal_form: Upshukkinaku, where the gods are told to sit together
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: mouth-issued decree
+  literal_form: decrees issued by the opening of Marduk's mouth
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pledge to Anshar
+  summary: A speaker promises Anshar that he will go and fulfill what is in Anshar's
+    heart.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Anshar exhorts Marduk against Tiamat
+  summary: Anshar identifies Tiamat as an armed female pursuer, foretells that Marduk
+    will trample her neck, calls Marduk his comprehending son, and instructs him to
+    cast deep sleep on her with a holy spell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Marduk requests authority before battle
+  summary: Marduk rejoices at his father's words and says that, if he avenges the
+    gods by slaying Tiamat and giving them life, they should assemble in Upshukkinaku,
+    magnify his position, and allow his spoken decrees to remain unaltered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: commissioned divine combat against Tiamat
+  taxonomy_refs: []
+  basis: Anshar directs Marduk toward conflict with Tiamat, describes Tiamat's armed
+    pursuit, and speaks of Marduk trampling her; Marduk later frames his task as slaying
+    Tiamat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not narrate the battle itself or its outcome.
+- id: motif:2
+  label: victory as condition for elevated divine authority
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacred_exchange
+  basis: Marduk says that if he acts as avenger, slays Tiamat, and gives life to the
+    gods, they should summon a meeting, magnify his position, and let his decrees
+    stand.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The excerpt presents Marduk's request, not the later fulfillment or ratification.
+- id: motif:3
+  label: divine father-son commissioning
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Anshar calls Marduk his son, instructs him against Tiamat, and the narrator
+    identifies Anshar as Marduk's father.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supplies only the immediate father-son relation and speech
+    context.
+- id: motif:4
+  label: magical sleep used to subdue an adversary
+  taxonomy_refs: []
+  basis: Anshar instructs Marduk to cast deep sleep upon Tiamat with a holy spell.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names magical sleep or spell-subdual.
+- id: motif:5
+  label: performative divine speech
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Marduk asks to issue decrees by the opening of his mouth and declares that
+    what his mouth utters should not fail or be brought to nothing.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage frames this as a requested authority; it does not yet show
+    the authority being exercised.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a same-function comparison to royal-legitimacy patterns
+    because Marduk's proposed victory is tied to formal assembly recognition, magnified
+    position, and enduring decree authority.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison to an available motif family only;
+    the excerpt does not narrate the assembly's actual grant or the battle's outcome.
+- id: claim:2
+  claim: 'The passage supports a cautious comparison to divine parent-child commissioning
+    patterns: a father figure addresses a son and directs him in a dangerous divine
+    conflict.'
+  claim_level: same_function
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides the father-son address and commissioning, but
+    not a fuller genealogy or broader parent-child narrative.
+- id: claim:3
+  claim: The conditional sequence in which Marduk offers victory and life in return
+    for magnified status and decree authority supports comparison to sacred-exchange
+    patterns.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states Marduk's proposed terms; it does not include the
+    gods' acceptance in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: tablet lines 118-120; source lines 1430-1476
+  quote_or_summary: A speaker addresses Anshar and says he will go and make happen
+    all that is in Anshar's heart.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:2
+  type: summary
+  locator: tablet lines 121-126; source lines 1430-1476
+  quote_or_summary: Anshar says Tiamat, described as a woman, pursues Marduk with
+    weapons, and says Marduk will soon trample Tiamat's neck and gladden hearts.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; neutral summary with short exact wording used.
+- id: ev:3
+  type: summary
+  locator: tablet lines 127-130; source lines 1430-1476
+  quote_or_summary: Anshar calls Marduk his son who comprehends everything, tells
+    him to cast deep sleep upon Tiamat with a holy spell, and tells him to march quickly.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:4
+  type: summary
+  locator: tablet lines 131-132; source lines 1430-1476
+  quote_or_summary: The Lord Marduk rejoices at the word of his father and speaks
+    to him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:5
+  type: summary
+  locator: tablet lines 133-137; source lines 1430-1476
+  quote_or_summary: Marduk says that if he is the gods' avenger, slays Tiamat, and
+    bestows life on them, they should summon a meeting, magnify his position, and
+    sit together in Upshukkinaku.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; neutral summary used.
+- id: ev:6
+  type: summary
+  locator: tablet lines 138-140; source lines 1430-1476
+  quote_or_summary: Marduk asks to issue decrees by the opening of his mouth, and
+    says what he brings to pass and what his mouth utters should remain unaltered
+    and not fail.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md
+  rights_note: Public domain source; neutral summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied excerpt. Marduk, Anshar, Tiamat,
+    the gods, the conditional authority request, and the spell instruction are explicit.
+    Broader identifications of Tiamat or later battle outcomes are not used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No serpent or water symbol taxonomy was assigned because the excerpt describes Tiamat only as a woman with weapons and does not identify her with those forms in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesopotamian-enuma-elish-babylonian-legends-creation-gutenberg__l1430-l1476
+  passage_sha256=4e79d8b44577f334e4685c020e8e9851c7223263dd964fdb040e336accdbd12a
+

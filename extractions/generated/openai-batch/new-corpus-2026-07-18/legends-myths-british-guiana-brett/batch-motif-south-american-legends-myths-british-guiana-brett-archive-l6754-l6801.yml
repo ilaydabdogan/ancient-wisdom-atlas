@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l6754-l6801
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 143 / ABORIGINAL TRIBES OF GUIANA, 145 / ABORIGINAL
+    TRIBES OF GUIANA. 147, / ABORIGINAL TRIBES OF GUIANA. 149; lines 6754-6801
+  start: '6754'
+  end: '6801'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Ekahruwa advances against an old man but hesitates when he sees a sting-ray
+    spine fixed on the opposing reed and the old man's steady gaze. Ekahruwa shifts
+    ground, feints, circles, retreats, and then charges again after declaring that
+    death will come to one or both. An arrow is released, a shriek is heard, and the
+    strong man falls dead. A note says arrows pointed with sting-ray spines are believed
+    by the natives to cause exceptional agony and fear, increased by superstition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ekahruwa advances with hostile intent but stops midway after seeing the sting-ray
+    spine on the opposing reed and the old man's steady gaze.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man remains firm while the foe changes position, makes feints, and
+    circles around him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ekahruwa retreats again, pauses, regains breath, and cries that death will
+    come to one or both.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ekahruwa charges with a bound; an arrow leaves the string; a shriek follows;
+    the strong man lies on the ground.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note states that arrows pointed with sting-ray spines are believed by
+    the natives to inflict greater agony than any other weapon and to inspire terror
+    heightened by superstition.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ekahruwa
+  description: Named combatant who advances, retreats, circles, cries out, and makes
+    a final charge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: old man
+  description: Opponent who remains firm and watches the foe with a steady eye.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: strong man
+  description: The figure who lies on the ground after the arrow is released; the
+    passage context implies this is the charging combatant, but the line itself uses
+    the label 'strong man.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: natives
+  description: People described in the note as believing that sting-ray-spined arrows
+    cause exceptional agony and fear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: attacking combatant
+  assigned_to:
+  - fig:1
+  basis: Ekahruwa advances with hostile intent, feints, circles, and charges again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: defending combatant
+  assigned_to:
+  - fig:2
+  basis: The old man remains in place and keeps a steady eye on the foe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: fallen combatant
+  assigned_to:
+  - fig:3
+  basis: After the arrow is released and a shriek is heard, the strong man lies on
+    the ground.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: belief holders named in explanatory note
+  assigned_to:
+  - fig:4
+  basis: The note attributes beliefs about sting-ray-spined arrows to the natives.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sting-ray spine
+  literal_form: sting-ray's deadly spine on an opposing reed; sting-ray-spined arrow
+    point in the note
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: opposing reed
+  literal_form: reed bearing or associated with the sting-ray spine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: arrow
+  literal_form: arrow released from a string; arrows pointed with sting-ray spines
+    in the note
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: steady eye
+  literal_form: firm or steady gaze that tracks the foe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hesitation before the defensive weapon
+  summary: Ekahruwa charges but halts when he sees the sting-ray spine on the opposing
+    reed and the old man's firm eye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Feints around an unmoving defender
+  summary: Ekahruwa shifts ground, feints, and circles, while the old man keeps his
+    place and watches him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Final charge and fall
+  summary: Ekahruwa declares that death will come to one or both, charges, an arrow
+    is loosed, a shriek is heard, and the strong man falls.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Explanatory note on sting-ray-spined arrows
+  summary: The note explains a native belief that arrows tipped with sting-ray spines
+    inflict extreme agony and inspire terror intensified by superstition.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: duel decided by a feared weapon
+  taxonomy_refs: []
+  basis: The passage presents a face-to-face combat in which one combatant hesitates
+    at the sight of a sting-ray spine weapon and later falls after an arrow is released.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a fragment of a longer episode; it does not fully specify
+    who releases the arrow in the quoted lines.
+- id: motif:2
+  label: weapon feared for supernatural or superstitious terror
+  taxonomy_refs: []
+  basis: The explanatory note states that sting-ray-spined arrows are believed to
+    inflict greater agony than any other weapon and that the terror they inspire is
+    heightened by superstition.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The note is an editorial explanation of native belief rather than a narrative
+    action within the combat scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6754-6765
+  quote_or_summary: Ekahruwa comes on with hostile intent, stops midway, and sees
+    a sting-ray's deadly spine on an opposing reed and the old man's firm eye.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 6766-6777
+  quote_or_summary: Ekahruwa retires, shifts ground, feints, and circles; the old
+    man remains firm and keeps his place, covering him with a steady eye.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: 6778-6785
+  quote_or_summary: Ekahruwa retires, pauses, regains breath, and cries, "To one,
+    or both, come death!"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 6786-6793
+  quote_or_summary: Ekahruwa makes a flying bound; the arrow leaves the string; a
+    shriek is heard; the strong man lies on the ground, reached with his last death
+    spring.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source text; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 6794-6801
+  quote_or_summary: The note says arrows pointed with sting-ray spines are believed
+    by the natives to inflict more agony than any other weapon, and their terror is
+    often heightened by superstition.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source text; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The combat actions and objects are clear, but the supplied passage is fragmentary
+    and does not explicitly identify who releases the final arrow or whether the fallen
+    'strong man' is Ekahruwa.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another tradition or motif family. Available taxonomy symbol refs did not include sting-ray spine, reed, arrow, or eye.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l6754-l6801
+  passage_sha256=08b4f27cbdd05fdd55aec48ab16d3067990d2c3a2235e7f19bc642f1ded83ce8
+

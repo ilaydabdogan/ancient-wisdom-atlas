@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l3205-l3277
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE YOUTH AND HIS EAGLE / THE POOR TURKEY GIRL / HOW THE SUMMER BIRDS CAME
+    / THE SERPENT OF THE SEA; lines 3205-3277
+  start: '3205'
+  end: '3277'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A maiden who had feared a serpent companion sees him appear as a handsome
+    young man. He identifies himself as the serpent, shows shriveled serpent scales
+    as proof, says he loves her and dwells in all waters, and the maiden follows him
+    into the Doorway of the Serpent of the Sea. The closing note says springs are
+    therefore treated as precious and not used for profane purposes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker asks the maiden if she is weary, falls behind her, wraps his scales
+    in his blanket, and is described as a splendid, brave, handsomely dressed young
+    man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden still feels as if the dreaded serpent's head rests on her shoulder
+    and says she is filled with fear, sadness, and shame because she left home with
+    a fearful creature.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The youth tells the maiden that he came all the way with her, says the feared
+    being is in his own heart, and states, “I am he.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The youth draws shriveled serpent scales from under his mantle and shows them
+    as proof of his statement.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The youth says he loves the maiden, asks or urges her to dwell with him, and
+    says he dwells in all the Waters of the World and in each particular water.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The maiden forgets her sadness and old home, follows the youth, descends with
+    him into the Doorway of the Serpent of the Sea, and dwells with him ever after.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The closing note says the ancients and the present community avoided using
+    springs except for drinking their water, treating flowing springs as precious
+    and not for profane purposes.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the maiden
+  description: A maiden who has left home with a feared serpent, feels fear, sadness,
+    and shame, then follows the serpent-youth into the Doorway of the Serpent of the
+    Sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: the youth / Serpent of the Sea
+  description: A being who appears as a handsome young man, identifies himself as
+    the feared serpent, shows serpent scales, declares love for the maiden, and says
+    he dwells in all waters.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the ancients and present community
+  description: The groups named in the closing explanation as avoiding profane use
+    of springs and using them only for drinking water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: maiden who follows the serpent-youth
+  assigned_to:
+  - fig:1
+  basis: The passage says the maiden leaves her old home, follows the youth, descends
+    with him, and dwells with him ever after.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: serpent being in human youth form
+  assigned_to:
+  - fig:2
+  basis: The youth says “I am he” when asked where the fearful being has gone, and
+    he shows serpent scales as proof.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: water-dwelling beloved or suitor
+  assigned_to:
+  - fig:2
+  basis: The youth says he loves the maiden and dwells in all the Waters of the World
+    and in each particular water.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: observers of spring-use restriction
+  assigned_to:
+  - fig:3
+  basis: The closing note says the ancients, like the present community, avoided using
+    springs except for drinking and did not use them for profane purposes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: The dreaded Serpent, the Serpent of the Sea, and the serpent identity
+    revealed by the youth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: serpent scales
+  literal_form: Shriveled serpent scales drawn from beneath the youth's mantle as
+    proof of identity.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: waters of the world
+  literal_form: "“All the Waters of the World” and “each particular water,” where
+    the youth says he dwells."
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Doorway of the Serpent of the Sea
+  literal_form: The doorway into which the maiden descends with the serpent-youth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: flowing springs
+  literal_form: Springs used only for drinking water and described as precious things
+    not to be used for profane purposes.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: The serpent companion appears as a young man
+  summary: The being behind the maiden wraps his scales in a blanket and appears as
+    a splendid, brave young man while the maiden still feels the remembered burden
+    of the serpent's head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Disclosure of serpent identity
+  summary: The maiden asks where the fearful being has gone; the youth says the being
+    is himself and shows shriveled serpent scales as proof.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Invitation to dwell in the waters
+  summary: The youth declares love for the maiden, says he dwells in all waters, and
+    the maiden follows him into the Doorway of the Serpent of the Sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Explanation of spring restrictions
+  summary: The story closes by connecting the events to the practice of avoiding profane
+    use of springs and reserving them for drinking water.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: serpent being revealed as human youth
+  taxonomy_refs:
+  - shapeshifter
+  - serpent
+  basis: The passage presents a feared serpent companion as a handsome youth who says
+    he is the serpent and proves it with serpent scales.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage frames the identity through speech and proof rather than describing
+    the full mechanics of transformation.
+- id: motif:2
+  label: union with a supernatural water-serpent beloved
+  taxonomy_refs:
+  - sacred_marriage
+  - serpent
+  basis: The serpent-youth declares love, says the maiden will dwell with him in all
+    waters, and she descends with him to dwell ever after.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes enduring love and co-dwelling but does not explicitly
+    name a marriage rite.
+- id: motif:3
+  label: descent into the serpent's watery doorway
+  taxonomy_refs:
+  - hero_descent
+  basis: The maiden follows the serpent-youth and descends into the Doorway of the
+    Serpent of the Sea.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The available taxonomy label is only approximate because the descending
+    figure is the maiden, not explicitly a hero, and the passage does not describe
+    a return.
+- id: motif:4
+  label: etiology of reverent spring-use restriction
+  taxonomy_refs: []
+  basis: The closing note explains that springs are precious and are avoided for profane
+    uses, with use restricted to drinking water.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No matching supplied motif-family taxonomy reference directly names spring-taboo
+    etiology.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns ancient and present practice by saying both
+    avoid profane use of springs and use them only for drinking water.
+  claim_level: same_function
+  target: ancient and present spring-use practice within the passage
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison stated by the passage, not evidence
+    for comparison with another corpus or tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3205-3220
+  quote_or_summary: The speaker asks whether the maiden is weary, falls behind, wraps
+    his scales in his blanket, and is seen as a brave, handsome young man while she
+    still feels the remembered weight of the serpent's head.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 3225-3233
+  quote_or_summary: The maiden says she is filled with fear, sadness, and shame because
+    she came from home with a fearful creature whose head rested on her shoulder.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 3235-3256
+  quote_or_summary: "“He is here,” said the youth, smiling, and laying his hand on
+    his own heart. “I am he.” He then draws out shriveled serpent scales as proof."
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation with summary.
+- id: ev:4
+  type: quote
+  locator: lines 3259-3264
+  quote_or_summary: "“I love you, my maiden!” The youth says he dwells “in all the
+    Waters of the World, and in each particular water.”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 3266-3268
+  quote_or_summary: The maiden “followed and descended with him into the Doorway of
+    the Serpent of the Sea and dwelt with him ever after.”
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 3272-3276
+  quote_or_summary: The closing note says the ancients, like the present community,
+    avoided using springs except for drinking; flowing springs are precious and not
+    for profane use.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments for serpent and shapeshifter are strong; sacred-marriage and descent
+    labels are approximate and marked with cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, locator metadata, and available taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l3205-l3277
+  passage_sha256=ef4d616dc06fab9dbf38afd8077d401a8800dbfa512e7f372cb8fbff748176c7
+

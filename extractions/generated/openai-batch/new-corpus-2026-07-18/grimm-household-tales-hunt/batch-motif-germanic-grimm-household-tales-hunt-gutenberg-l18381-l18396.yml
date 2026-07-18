@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l18381-l18396
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 18381-18396
+  start: '18381'
+  end: '18396'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: their shoes were worn out with dancing
+  summary: A king with twelve daughters locks their shared sleeping chamber each night,
+    yet each morning their shoes are worn out from dancing. He announces that anyone
+    who discovers where they dance within three days and nights may marry one daughter
+    and later become king; failure costs the seeker his life. A king’s son accepts
+    the challenge and is placed in an adjoining room to watch them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A king has twelve daughters, each described as more beautiful than the other.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The twelve daughters sleep together in one chamber with their beds side by
+    side.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each night, after the daughters are in bed, the king locks and bolts the door
+    of their chamber.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Each morning, when the king unlocks the door, he sees that the daughters’
+    shoes are worn out with dancing, and no one can explain how it happened.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king proclaims that whoever discovers where the daughters dance at night
+    may choose one of them as wife and become king after his death.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The same proclamation states that anyone who fails to discover the secret
+    within three days and nights forfeits his life.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A king’s son presents himself and offers to undertake the enterprise.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The king’s son is led into a room adjoining the princesses’ sleeping chamber,
+    with his bed placed there so he can observe where they go and dance.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The door of the princesses’ room is left open so they cannot act secretly
+    or go elsewhere without being seen.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: King
+  description: A ruler and father of twelve daughters who locks their chamber nightly
+    and issues the discovery challenge.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Twelve daughters / princesses
+  description: Twelve royal daughters who sleep in a locked chamber and whose shoes
+    are found worn out with dancing each morning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: King’s son
+  description: A royal suitor who accepts the challenge to discover where the princesses
+    dance at night.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Ruler and father
+  assigned_to:
+  - fig:1
+  basis: The passage identifies him as a king with twelve daughters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Proclaimer of the test
+  assigned_to:
+  - fig:1
+  basis: He announces the reward and death penalty for discovering or failing to discover
+    the daughters’ nightly dancing place.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Subjects of the nocturnal mystery
+  assigned_to:
+  - fig:2
+  basis: Their shoes are worn out from dancing despite their chamber being locked
+    at night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Royal contestant and watcher
+  assigned_to:
+  - fig:3
+  basis: He undertakes the enterprise and is placed in an adjoining room to observe
+    the princesses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Worn-out dancing shoes
+  literal_form: Shoes worn out with dancing by morning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Locked sleeping chamber
+  literal_form: Shared chamber with beds side by side, locked and bolted at night
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: Night dancing
+  literal_form: Unseen dancing at night inferred from the worn shoes and named in
+    the king’s challenge
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Three days and nights
+  literal_form: A deadline of three days and nights for discovering the secret
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Locked chamber and unexplained shoes
+  summary: The king locks his twelve daughters in their shared chamber at night, but
+    in the morning their shoes are found worn out from dancing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Royal proclamation of the challenge
+  summary: The king offers marriage to one daughter and later kingship to whoever
+    discovers where the daughters dance at night, while setting death as the penalty
+    for failure within three days and nights.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The king’s son placed as watcher
+  summary: A king’s son accepts the challenge and is placed in an adjoining room so
+    he can watch the princesses and prevent secret departure.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Nocturnal secret revealed by worn shoes
+  taxonomy_refs: []
+  basis: The princesses are locked in at night, yet their shoes show signs of dancing
+    each morning, creating a hidden nocturnal activity to be explained.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage establishes the mystery but does not yet reveal where the
+    dancing occurs.
+- id: motif:2
+  label: Royal challenge with marriage reward and death penalty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king promises a daughter as wife and eventual kingship to the successful
+    discoverer, while unsuccessful contestants lose their lives.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents succession through
+    marriage as a reward, not an explicit doctrine of royal legitimacy.
+- id: motif:3
+  label: Three-night trial of discovery
+  taxonomy_refs: []
+  basis: The challenger must discover the secret within three days and nights or forfeit
+    his life.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states the time limit but does not describe the full outcome
+    of the trial.
+- id: motif:4
+  label: Watcher set at a threshold to uncover hidden movement
+  taxonomy_refs: []
+  basis: The king’s son is stationed in an adjoining room, with the princesses’ door
+    left open, to observe where they go and dance.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage has not yet shown whether the watcher succeeds or whether
+    supernatural means are involved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18381-18384
+  quote_or_summary: A king has twelve beautiful daughters who sleep together in one
+    chamber; every night he locks and bolts the door after they are in bed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 18384-18386
+  quote_or_summary: "“their shoes were worn out with dancing” and no one could find
+    out how it had happened."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 18386-18390
+  quote_or_summary: The king proclaims that anyone who discovers where the daughters
+    dance at night may choose one as wife and later become king; failure within three
+    days and nights costs the seeker his life.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 18391-18396
+  quote_or_summary: A king’s son accepts the enterprise and is placed in a room adjoining
+    the princesses’ chamber, with the door left open so he can observe where they
+    go and dance.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are passage-level and provisional because the excerpt introduces the mystery and
+    challenge but not the resolution. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external tale title or later plot details added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l18381-l18396
+  passage_sha256=20a837283d3e0a5b89c1ada616bde5b7e577cc33d65fb6da275d36d6151cb679
+

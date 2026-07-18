@@ -1,0 +1,604 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l26071-l26174
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXIII. / ENTITLED, THE TRUE
+    BELIEVERS; REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 26071-26174
+  start: '26071'
+  end: '26174'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage addresses unbelievers who reject divine signs, truth, and resurrection.
+    It affirms God's creative sovereignty, denial of other gods or divine offspring,
+    refuge from devils, death followed by a barrier until resurrection, the trumpet,
+    balances of deeds, and punishment in hell-fire for those whose balances are light.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Those addressed cry for help but are told they will not be assisted; signs
+    had been read to them and they turned back.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says some reject the apostle, call him a madman, and detest the
+    truth he brings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that if truth followed the desires of the rejecters, the
+    heavens, earth, and their inhabitants would be corrupted.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says God created hearing, sight, and hearts; produced people in
+    the earth; gives life and death; and controls night and day.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Unbelievers ask whether they will be raised to life after becoming dust and
+    bones, and they call earlier warnings fables of the ancients.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The interrogations in the passage identify the earth, the seven heavens, the
+    magnificent throne, and the kingdom of all things as belonging to God.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage denies that God has begotten issue or has any other god with him,
+    and says multiple gods would divide what each created and exalt themselves over
+    one another.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker is instructed to seek refuge in the Lord from the suggestions
+    and presence of devils.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: When death overtakes one of the unbelievers, he asks to return to life to
+    do right; the request is denied, and a bar remains behind them until resurrection.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: When the trumpet is sounded, kin relations and mutual requests for assistance
+    are said not to matter.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Those whose balances are heavy with good works are happy, while those whose
+    balances are light lose their souls and remain in hell.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The fire scorches the faces of the condemned; they acknowledge having gone
+    astray and ask to be taken out of the fire.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God / LORD
+  description: Creator of human faculties, giver of life and death, owner of earth
+    and heavens, sovereign protector, and the one without issue or divine sharers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: the apostle / preacher addressed
+  description: The apostle is rejected by some and is described as bringing truth
+    and inviting them to the right way without asking maintenance from them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unbelieving Meccans / unbelievers
+  description: Those who turn back from signs, reject truth and resurrection, answer
+    that sovereignty belongs to God, and face death, resurrection, judgment, and fire.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: devils
+  description: Beings whose suggestions and presence the speaker is instructed to
+    seek refuge from.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: those whose balances are heavy
+  description: People whose balances are heavy with good works and who are described
+    as happy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: those whose balances are light
+  description: People whose balances are light, who lose their souls, remain in hell,
+    and suffer the scorching fire.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: creator-sovereign
+  assigned_to:
+  - fig:1
+  basis: God is described as creating human faculties, producing people on earth,
+    giving life and death, ruling night and day, and possessing earth, heavens, throne,
+    and kingdom.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: judge and punisher
+  assigned_to:
+  - fig:1
+  basis: The passage associates God with punishment, resurrection, balances, hell,
+    and the rehearsal of rejected signs to the condemned.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:3
+  label: apostle and inviter to the right way
+  assigned_to:
+  - fig:2
+  basis: The apostle is said to bring truth and invite people to the right way while
+    asking no maintenance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: rejecters of signs, truth, and resurrection
+  assigned_to:
+  - fig:3
+  basis: They turn back from signs, reject the apostle's truth, question resurrection,
+    and call warnings fables.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:5
+  label: post-mortem supplicants
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: At death an unbeliever asks to return to life, and in the fire the condemned
+    ask to be taken out.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:6
+  label: demonic suggesters
+  assigned_to:
+  - fig:4
+  basis: The devils are named as sources of suggestions and as presences to be driven
+    away by refuge in the Lord.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: saved by heavy balances
+  assigned_to:
+  - fig:5
+  basis: Those whose balances are heavy with good works are described as happy.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: condemned by light balances
+  assigned_to:
+  - fig:6
+  basis: Those whose balances are light are said to lose their souls, remain in hell,
+    and suffer fire.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: holy temple
+  literal_form: The holy temple possessed by those who proudly elate themselves.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: corrupted heavens and earth
+  literal_form: The heavens, earth, and their inhabitants would be corrupted if truth
+    followed the rejecters' desires.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seven heavens and magnificent throne
+  literal_form: The seven heavens and the magnificent throne named as belonging to
+    God.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: door of severe punishment
+  literal_form: A door opened from which severe punishment issues, driving the punished
+    to despair.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bar until resurrection
+  literal_form: A bar behind the dead until the day of resurrection.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - resurrection
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: trumpet
+  literal_form: The trumpet sounded before the day when kinship and mutual assistance
+    do not avail.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: balances
+  literal_form: Balances that are heavy or light with good works and determine happiness
+    or loss.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: fire
+  literal_form: The fire of hell that scorches faces and from which the condemned
+    ask to be taken out.
+  associated_figures:
+  - fig:6
+  - fig:3
+  taxonomy_refs:
+  - fire
+  - divine_judgment
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: dust and bones
+  literal_form: The dead body described by unbelievers as becoming dust and bones
+    before the questioned raising to life.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - resurrection
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rejection of signs and truth
+  summary: The addressed group is denied help after signs were read to them; they
+    turned back, acted proudly regarding the holy temple, and rejected the apostle's
+    truth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Calamity and severe punishment
+  summary: The passage says earlier chastisement did not humble them, and a severe
+    punishment opened upon them like a door drove them to despair.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Divine sovereignty questioned and affirmed
+  summary: The passage attributes creation, life, death, night and day, earth, heavens,
+    throne, and kingdom to God, while denying other gods or divine issue.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Prayer for refuge from devils
+  summary: The speaker is instructed to ask the Lord not to be placed among the ungodly,
+    to turn aside evil with better, and to seek refuge from devils' suggestions and
+    presence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Death, denied return, and barrier
+  summary: At death an unbeliever asks to return to life to do right, but the request
+    is rejected and a bar remains until resurrection.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Trumpet, balances, and fire
+  summary: After the trumpet, social relations do not avail; heavy balances bring
+    happiness, light balances bring loss and hell, and the fire scorches the condemned.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Rejected revelation followed by divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage describes rejected signs and truth, prior punishment, severe
+    punishment, final weighing, and hell-fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The extraction identifies a motif family only; it does not infer historical
+    dependence beyond the supplied passage.
+- id: motif:2
+  label: Resurrection after death
+  taxonomy_refs:
+  - resurrection
+  basis: The passage reports unbelievers questioning resurrection after dust and bones,
+    says people will be assembled before God, names a bar until resurrection, and
+    describes the trumpet.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The motif is present as doctrinal eschatology in the passage; no separate
+    narrative journey is described.
+- id: motif:3
+  label: Weighing of deeds by balances
+  taxonomy_refs:
+  - divine_judgment
+  basis: Heavy balances with good works correspond to happiness, while light balances
+    correspond to loss of soul and hell.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage states the balance image directly, but gives no procedural
+    details beyond heavy and light outcomes.
+- id: motif:4
+  label: Post-mortem request for return denied
+  taxonomy_refs:
+  - resurrection
+  basis: A dying unbeliever asks to return to life to do right, but the request is
+    denied and a barrier remains until resurrection.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is a denied return-to-life episode, not an actual completed return.
+- id: motif:5
+  label: Single divine sovereignty preserving cosmic order
+  taxonomy_refs: []
+  basis: The passage says the heavens and earth would be corrupted if truth followed
+    the rejecters' desires, and argues that multiple gods would divide creation and
+    exalt themselves over each other.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No supplied taxonomy ref exactly captures this anti-polytheistic cosmic-order
+    argument; it is left without a taxonomy assignment.
+- id: motif:6
+  label: Demonic suggestions resisted by refuge in God
+  taxonomy_refs: []
+  basis: The speaker is instructed to seek refuge in the Lord from devils' suggestions
+    and presence.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage names devils and refuge but does not narrate a developed temptation
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: At the motif-family level, the trumpet, balances, and hell-fire punishment
+    fit the supplied divine_judgment category.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level identification only; it does not claim historical
+    contact, borrowing, or dependence.
+- id: claim:2
+  claim: At the motif-family level, the questioned raising after dust and bones, the
+    bar until resurrection, and the trumpet fit the supplied resurrection category.
+  claim_level: same_motif
+  target: resurrection
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage presents resurrection in doctrinal terms; it does not describe
+    an extended afterlife journey.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26071-26075
+  quote_or_summary: Those crying for help are told they will not be assisted; signs
+    were read to them, but they turned back, behaved proudly over the holy temple,
+    and spoke foolishly by night.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:2
+  type: summary
+  locator: 26076-26084
+  quote_or_summary: The passage asks whether the audience rejects the apostle or calls
+    him madman; it says he brought truth, most detest truth, and heavens and earth
+    would be corrupted if truth followed their desires.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:3
+  type: summary
+  locator: 26085-26096
+  quote_or_summary: The apostle asks no maintenance and invites to the right way;
+    those not believing in the life to come deviate. Punishment and calamity do not
+    humble them, and a severe punishment opens like a door to despair.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:4
+  type: summary
+  locator: 26097-26108
+  quote_or_summary: God created hearing, sight, and hearts; produced people in the
+    earth; will assemble them; gives life and death; controls night and day. Unbelievers
+    question being raised after becoming dust and bones and call warnings ancient
+    fables.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:5
+  type: summary
+  locator: 26109-26116
+  quote_or_summary: The passage asks whose are the earth, the seven heavens, the magnificent
+    throne, and the kingdom of all things; the answer given is God's.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:6
+  type: summary
+  locator: 26136-26144
+  quote_or_summary: God is said not to have begotten issue and to have no other god
+    with him; otherwise each god would take away what he created and some would exalt
+    themselves over others. God knows what is concealed and public and has no sharers
+    in honour.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:7
+  type: summary
+  locator: 26145-26155
+  quote_or_summary: The speaker is told to ask the Lord not to be set among the ungodly,
+    to turn aside evil with what is better, and to seek refuge from the suggestions
+    and presence of devils.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:8
+  type: summary
+  locator: 26156-26161
+  quote_or_summary: When death overtakes an unbeliever, he asks the Lord to let him
+    return to life to do right; the response denies this and says a bar remains behind
+    them until the day of resurrection.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:9
+  type: summary
+  locator: 26162-26167
+  quote_or_summary: When the trumpet is sounded, relations and mutual help do not
+    avail. Those whose balances are heavy with good works are happy, while those whose
+    balances are light lose their souls and remain in hell forever.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:10
+  type: summary
+  locator: 26168-26174
+  quote_or_summary: The fire scorches the faces of the condemned; they are asked about
+    rejected signs, admit their unhappiness and error, and ask the Lord to take them
+    out of the fire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction uses only the supplied passage and metadata. Line-specific evidence
+    locators are approximate within the supplied stable range. Motif comparisons are
+    limited to supplied taxonomy families and do not assert historical contact.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Translator footnotes present in the supplied passage were not independently used for motif extraction except where the main passage wording supports the extracted item.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l26071-l26174
+  passage_sha256=fc8377af5eb43cd6d95a759a39c8619c7098069a5708e488df81ee70f50c68f5
+

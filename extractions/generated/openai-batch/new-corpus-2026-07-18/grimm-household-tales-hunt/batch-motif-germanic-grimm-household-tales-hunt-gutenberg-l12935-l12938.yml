@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l12935-l12938
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 12935-12938
+  start: '12935'
+  end: '12938'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“I will only give you quite a small blow, that’s all.”"
+  summary: An unnamed male speaker promises only a small blow, then kicks another
+    male so hard that he flies over four loads of hay. The speaker then takes the
+    thickest iron bar from the smithy to use as a stick and continues onward.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed male speaker says he will give only a small blow.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker raises his foot and kicks another male figure.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The kicked figure flies away over four loads of hay.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The acting figure seeks out the thickest iron bar in the smithy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The acting figure takes the iron bar as a stick in his hand and goes onwards.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed acting male figure
+  description: The male figure who speaks, kicks the other figure, takes an iron bar
+    as a stick, and goes onwards.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed kicked male figure
+  description: The male figure who is kicked and flies away over four loads of hay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker and kicker
+  assigned_to:
+  - fig:1
+  basis: He announces a small blow, raises his foot, and kicks the other figure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of kick
+  assigned_to:
+  - fig:2
+  basis: He is struck by the kick and flies away over four loads of hay.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: traveler carrying iron bar as stick
+  assigned_to:
+  - fig:1
+  basis: He takes the thickest iron bar from the smithy as a stick and goes onwards.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: iron bar used as stick
+  literal_form: the thickest iron bar in the smithy, taken as a stick in the acting
+    figure's hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: four loads of hay
+  literal_form: four loads of hay used as the measure over which the kicked figure
+    flies
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: understated blow becomes powerful kick
+  summary: The acting figure says he will give only a small blow, then kicks the other
+    figure so forcefully that he flies over four loads of hay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: taking iron bar and going onwards
+  summary: After the kick, the acting figure finds the thickest iron bar in the smithy,
+    takes it as a stick, and continues onward.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: understated blow with exaggerated force
+  taxonomy_refs: []
+  basis: The speaker calls the blow small, but the resulting kick sends the other
+    figure over four loads of hay.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The wider tale context is absent, so the narrative function of the exaggerated
+    kick is uncertain.
+- id: motif:2
+  label: extraordinary strength shown through ordinary gesture
+  taxonomy_refs: []
+  basis: A kick, delivered after a promise of only a small blow, produces an extreme
+    physical result.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly describe the acting figure as superhuman;
+    strength is inferred only from the narrated effect.
+- id: motif:3
+  label: departure with improvised iron staff
+  taxonomy_refs:
+  - departure
+  basis: The acting figure takes the thickest iron bar as a stick and goes onwards.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage shows continuation of movement, but not a full departure episode
+    with origin, destination, or quest context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '12935'
+  quote_or_summary: The acting figure says, “I will only give you quite a small blow,
+    that’s all.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 12936-12937
+  quote_or_summary: He raises his foot and kicks the other figure, who flies away
+    over four loads of hay.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 12937-12938
+  quote_or_summary: He seeks out the thickest iron bar in the smithy, takes it in
+    his hand as a stick, and goes onwards.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    only a short passage is supplied and broader tale context is not included. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; no external tale context added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l12935-l12938
+  passage_sha256=e28c0086a2eaa9e5cb58adaf486eeff009058337501a2a2122552fa079b57ea5
+

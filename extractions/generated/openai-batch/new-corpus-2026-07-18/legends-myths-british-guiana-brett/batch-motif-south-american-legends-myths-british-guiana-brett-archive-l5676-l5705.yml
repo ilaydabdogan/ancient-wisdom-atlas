@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l5676-l5705
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: CONCLUSION. / ABORIGINAL TRIBES OF GUIANA. 12 1 / CONTENTS OF PART IV. /
+    INTRODUCTION.; lines 5676-5705
+  start: '5676'
+  end: '5705'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An introductory verse imagines a mortal standing on Rordima's brow and
+    viewing the homes of scattered free clans. It states that the races called Kapohn-yamu
+    sprang from one old parent stock, and that a person descended from former chiefs
+    told their ancient legends at the author's request, including mythology, old wars,
+    and descendants coming to a peaceful Christian mission home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage imagines a mortal man treading Rordima's brow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: From the mighty wall, the imagined viewer would see the homes of scattered
+    clans described as wild and free.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The races called Kapohn-yamu are said to have sprung from one old parent stock.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A person whose forefathers were chiefs of old told ancient legends at the
+    author's request.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The reported materials include mythology, old-time wars, and descendants coming
+    to mission land as a peaceful Christian home.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mortal man
+  description: An imagined human who would tread Rordima's brow and look from the
+    height.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: scattered clans / Kapohn-yamu
+  description: Collective races or clans described as scattered, wild, free, and sprung
+    from one old parent stock.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: descendant of old chiefs
+  description: An unnamed person whose forefathers were chiefs and who told ancient
+    legends at the author's request.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: forefathers, chiefs of old
+  description: Ancestral chiefs named as the forefathers of the informant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: imagined mountain viewer
+  assigned_to:
+  - fig:1
+  basis: The passage imagines a mortal man treading Rordima's brow and seeing from
+    a mighty wall.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: collective tribal people
+  assigned_to:
+  - fig:2
+  basis: The passage describes scattered clans and races called Kapohn-yamu.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: oral-tradition informant
+  assigned_to:
+  - fig:3
+  basis: The person told ancient legends at the author's request.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ancestral chiefs
+  assigned_to:
+  - fig:4
+  basis: The informant's forefathers are described as chiefs of old.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Rordima's brow / mighty wall
+  literal_form: Mountain height or wall-like elevation from which the clans' homes
+    can be viewed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: one old parent stock
+  literal_form: A common ancestral stock from which the Kapohn-yamu races are said
+    to have sprung.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mission land as peaceful Christian home
+  literal_form: Mission land described as the place where descendants come to find
+    a peaceful Christian home.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Imagined view from Rordima
+  summary: A mortal is imagined standing on Rordima's brow and seeing the homes of
+    scattered clans from a mighty wall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Common origin and oral transmission
+  summary: The Kapohn-yamu are described as races from one old parent stock, and an
+    unnamed descendant of old chiefs tells their legends at the author's request.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Contents of the legends
+  summary: The legends are framed as including quaint mythology, old-time wars, and
+    descendants finding a peaceful Christian mission home.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: common ancestral origin of clans
+  taxonomy_refs: []
+  basis: The passage states that the races called Kapohn-yamu have sprung from one
+    old parent stock.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is presented in an introductory frame rather than in a full mythic
+    narrative.
+- id: motif:2
+  label: golden-age framing of early mythology
+  taxonomy_refs: []
+  basis: The passage says the opening page of the mythology is like a sweet idyll
+    of the golden age.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The comparison is the author's literary framing, not necessarily a motif
+    from the narrated Indigenous tradition.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens the opening of the mythology to a 'golden age'
+    idyll.
+  claim_level: archetypal_reading
+  target: golden age pattern or idyll
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the narrator's simile; the passage does not provide
+    a full golden-age myth episode or evidence of historical relationship to another
+    tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5678-5680
+  quote_or_summary: '"And mortal man to tread Rordima''s brow"'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: quote
+  locator: lines 5682-5684
+  quote_or_summary: '"He, from that mighty wall, the homes would see / Of scattered
+    clans — a people wild and free."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 5686-5688
+  quote_or_summary: '"From one old parent stock those races all / Have sprung, which
+    we the \" Kapohn-yamu \" call."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 5690-5691
+  quote_or_summary: '"One, whose forefathers were their chiefs of old, / At my request,
+    their ancient legends told"'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 5695-5701
+  quote_or_summary: The ancient legends are described as quaint mythology, with an
+    opening page compared to a sweet idyll of the "golden age," followed by old-time
+    wars and descendants coming to mission land for a peaceful Christian home.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized with brief quoted phrase.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory poetic frame rather than a discrete myth episode,
+    so motif identifications are limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned because the available motif list does not directly include common ancestry or golden-age framing, and the mountain reference is literal rather than clearly cosmic.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l5676-l5705
+  passage_sha256=1becc7a00e7f064ac0ea38893765fa5c0d013597e3d95a8bb2477b1f79ff4f60
+

@@ -1,0 +1,560 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l12847-l12933
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 12847-12933
+  start: '12847'
+  end: '12933'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A giant raises Thumbling by suckling him and repeatedly tests his strength
+    by having him uproot increasingly large trees. Returned to his parents, the transformed
+    youth is rejected, performs extreme farm labor, eats more than the household can
+    supply, breaks several iron staffs, leaves home, and enters a smithy, where his
+    first blow shatters the iron and sinks the anvil.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The giant carries Thumbling home, suckles him, and Thumbling grows tall and
+    strong after the manner of giants.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After repeated two-year intervals, the giant tests the boy in the forest by
+    asking him to pull up a young tree, then an old tree, then the strongest oak-tree.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the final tree test, the giant says the youth is perfect and takes him
+    back to the field from which he had brought him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The farmer, identified by the youth as his father, is alarmed and refuses
+    to accept him as his son.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The youth takes over the plough, draws it himself, ploughs two acres, and
+    harrows the land using two harrows at once.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The youth pulls up two oak-trees and carries them with harrows and horses
+    to his parents' house as if they were light.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The mother does not recognize the youth and tells him to go away; he remains
+    silent, stables the horses, and asks for food.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The youth eats two immense dishes and then a huge caldron of food, but says
+    this is still insufficient.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The youth asks for an iron staff that he cannot break, but breaks several
+    staffs or bars fetched with increasing numbers of horses.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: After concluding that his father cannot procure a suitable staff, the youth
+    leaves and presents himself elsewhere as a smith's apprentice.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: The smith is described as greedy and agrees to hire the youth for no money,
+    only on the condition that the youth will give him two blows every fortnight.
+  category: relationship
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:12
+  text: At the smithy, the youth's first blow makes the iron fly apart and sinks the
+    anvil deep into the earth.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Thumbling / the youth / young giant
+  description: A boy taken by the giant, suckled until he becomes tall and strong,
+    returned to his parents, and later working as a smith's apprentice.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: the old giant
+  description: The giant who carries Thumbling home, suckles him, tests his strength
+    in the forest, and returns him to the field.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the farmer / father
+  description: The farmer whom the youth calls father; he rejects the youth, later
+    fetches iron staffs and bars for him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: the mother / farmer's wife
+  description: The mother does not recognize the youth, tells him to go away, and
+    later brings him large quantities of food.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: the smith / miser
+  description: A greedy smith who hires the youth under a wage bargain involving blows
+    instead of money.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: horses
+  description: Draft animals used for ploughing, carried by the youth, and harnessed
+    in increasing numbers to fetch iron staffs or bars.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: giant fosterer and tester
+  assigned_to:
+  - fig:2
+  basis: The old giant suckles Thumbling over repeated periods and tests his strength
+    by tree-uprooting tasks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prodigiously strong foster-child and son
+  assigned_to:
+  - fig:1
+  basis: Thumbling grows tall and strong, uproots trees, performs extreme farm labor,
+    eats extraordinary amounts, and breaks heavy iron bars.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: unrecognizing parent
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both father and mother deny or fail to recognize the transformed youth as
+    their son.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: provider of attempted iron staffs
+  assigned_to:
+  - fig:3
+  basis: The father fetches increasingly large iron staffs or bars with teams of horses.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: household feeder
+  assigned_to:
+  - fig:4
+  basis: The mother provides two immense dishes and then a huge caldron of food for
+    the youth.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: draft animals and measures of weight
+  assigned_to:
+  - fig:6
+  basis: Horses draw ploughing equipment, are carried by the youth, and are used in
+    teams of two, four, and eight to fetch heavy iron bars.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:7
+  label: greedy smith employer
+  assigned_to:
+  - fig:5
+  basis: The smith is described as greedy and agrees to hire the youth under a bargain
+    meant to save money.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: smith's apprentice or journeyman
+  assigned_to:
+  - fig:1
+  basis: The youth gives out that he is a smith's apprentice, asks for journeyman
+    work, and begins work at the smithy.
+  evidence_refs:
+  - ev:8
+  - ev:10
+symbols:
+- id: sym:1
+  label: suckling milk
+  literal_form: The giant suckles Thumbling during repeated two-year periods.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: uprooted trees and oaks
+  literal_form: A young tree, an old tree, the strongest oak-tree, and two oak-trees
+    pulled up by the youth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: plough and harrows
+  literal_form: The plough, two harrows, and the act of ploughing and harrowing the
+    field.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: immense food and caldron
+  literal_form: Two immense dishes of food and a huge caldron full of food.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: iron staff or bar
+  literal_form: Iron staffs or bars so large that teams of two, four, and eight horses
+    are needed to bring them.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: teams of horses
+  literal_form: Two, four, and eight horses harnessed to bring increasingly large
+    staffs or bars.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: smithy iron and anvil
+  literal_form: A glowing bar of iron and an anvil struck by the youth in the smithy.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Giant fostering and forest strength tests
+  summary: The giant raises Thumbling through repeated suckling and tests his increasing
+    strength by having him uproot progressively larger trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return to the field and superhuman farm labor
+  summary: The youth returns to his father's field, is rejected, takes the plough,
+    works the land alone, and carries trees, harrows, and horses home.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rejection and feeding at the parents' house
+  summary: The mother fails to recognize the youth and tells him to leave; he tends
+    the horses, asks for food, and consumes more than the household can supply.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Iron staff testing and departure from home
+  summary: The youth requests a staff he cannot break, breaks increasingly heavy iron
+    staffs or bars, and decides not to remain with his parents.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Smithy bargain and destructive first blow
+  summary: The youth seeks work as a smith's apprentice, the greedy smith accepts
+    a bargain involving blows instead of wages, and the youth's first strike damages
+    the iron and anvil.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: giant fostering and prodigious growth
+  taxonomy_refs:
+  - miraculous_child
+  basis: The passage presents Thumbling as a small child who is taken and suckled
+    by a giant until he becomes tall and extraordinarily strong.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage shows extraordinary growth through fostering, not a miraculous
+    birth within this excerpt.
+- id: motif:2
+  label: repeated strength trials ending in approval
+  taxonomy_refs:
+  - initiation
+  basis: The giant repeatedly tests the youth by tree-uprooting tasks and finally
+    declares him perfected after he uproots the strongest oak-tree.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy label is broad; the passage gives a practical strength test
+    rather than an explicitly ritual initiation.
+- id: motif:3
+  label: unrecognized transformed son returns home
+  taxonomy_refs:
+  - return
+  basis: The youth returns to his parents after transformation, but both father and
+    mother deny or fail to recognize him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage supports a return-and-nonrecognition pattern; no wider return
+    cycle is established in the excerpt.
+- id: motif:4
+  label: superhuman agricultural labor
+  taxonomy_refs: []
+  basis: The youth draws the plough himself, ploughs and harrows two acres alone,
+    and carries heavy farm equipment and horses home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this labor-strength pattern.
+- id: motif:5
+  label: departure after the household cannot sustain the hero
+  taxonomy_refs:
+  - departure
+  basis: After eating all the food and breaking the staffs his father can provide,
+    the youth says he will remain no longer and goes away.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The reason for departure is practical insufficiency of food and equipment
+    rather than an explicitly sacred mission.
+- id: motif:6
+  label: unbreakable weapon sought but not found
+  taxonomy_refs: []
+  basis: The youth asks for an iron staff strong enough that he cannot break it, but
+    breaks each staff or bar provided.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not show him obtaining a successful staff within this
+    excerpt.
+- id: motif:7
+  label: hazardous wage bargain with a greedy employer
+  taxonomy_refs: []
+  basis: The smith accepts the youth for no monetary wages, only two blows every fortnight,
+    because he expects to save money; the first blow already shows dangerous force.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage ends before the fortnightly blows are actually paid to the
+    smith.
+- id: motif:8
+  label: excessive smithy blow reveals superhuman strength
+  taxonomy_refs: []
+  basis: At the smithy, the youth's first blow splits the iron and drives the anvil
+    deep into the ground.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this smithy-strength episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12847-12860
+  quote_or_summary: The giant carries Thumbling home, suckles him through repeated
+    two-year periods, tests him in the forest by tree-uprooting tasks, and finally
+    declares him perfected after he uproots the strongest oak.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12860-12868
+  quote_or_summary: Returned to the field, the youth addresses the farmer as father;
+    the farmer rejects him and the youth presses the plough so strongly that it goes
+    deep into the earth.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12868-12875
+  quote_or_summary: The youth unharnesses the horses, draws the plough himself, ploughs
+    the two-acre field alone, and harrows it with two harrows at once.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12875-12882
+  quote_or_summary: The youth pulls up two oak-trees and carries the trees, harrows,
+    and horses to his parents' house as if they were a bundle of straw.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 12882-12890
+  quote_or_summary: At the house, the mother does not recognize the tall youth, tells
+    him to go away, and he silently tends the horses before asking for food.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 12890-12901
+  quote_or_summary: The youth eats two immense dishes and a huge caldron of food,
+    remains unsatisfied, and asks his father for an iron staff that he cannot break
+    against his knees.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 12901-12914
+  quote_or_summary: The father brings increasingly large staffs or bars with two,
+    four, and eight horses; the youth breaks them and says he will remain no longer.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 12914-12922
+  quote_or_summary: The youth goes away, presents himself as a smith's apprentice,
+    and enters a village smithy owned by a greedy smith.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 12922-12928
+  quote_or_summary: The youth asks for no wages except that every fortnight he will
+    give the smith two blows, and the miser agrees because he expects to save money.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 12928-12933
+  quote_or_summary: When the youth begins work, his first blow makes the iron fly
+    apart and sinks the anvil so deep into the earth that it cannot be brought out.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. Motif labels are cautious and
+    mainly descriptive; taxonomy matches are broad where used. No comparison claims
+    were generated because the passage itself does not explicitly compare this episode
+    with another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All evidence is drawn from the supplied public-domain passage range.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l12847-l12933
+  passage_sha256=62159ae75e6a5cd9e1329561376e797d8565c6d2f9f5a0017ef464cb803fe58b
+

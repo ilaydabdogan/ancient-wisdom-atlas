@@ -1,0 +1,159 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39099-l39107
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER CV. / ENTITLED, THE ELEPHANT;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 39099-39107
+  start: '39099'
+  end: '39107'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: HAST thou not seen how thy LORD dealt with the masters of the elephant?
+  summary: The passage opens Chapter CV, titled “The Elephant,” identified as revealed
+    at Mecca. It asks how the Lord dealt with the masters of the elephant and states
+    that their treacherous design was made an occasion for drawing them into error.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the chapter as Chapter CV, titled “The Elephant,” and
+    as revealed at Mecca.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks whether the addressee has seen how the Lord dealt with the
+    masters of the elephant.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the Lord made the masters’ treacherous design an occasion
+    for drawing them into error.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The masters of the elephant are associated with a treacherous design.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Lord
+  description: The divine figure who deals with the masters of the elephant and makes
+    their design lead into error.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: masters of the elephant
+  description: A group described as possessing or commanding the elephant and as having
+    a treacherous design.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: divine actor
+  assigned_to:
+  - fig:1
+  basis: The Lord is described as dealing with the masters and making their design
+    lead into error.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: treacherous group opposed by divine action
+  assigned_to:
+  - fig:2
+  basis: The masters of the elephant are associated with a treacherous design and
+    are the objects of the Lord’s action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: elephant
+  literal_form: elephant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Divine dealing with the masters of the elephant
+  summary: The passage poses a rhetorical question about how the Lord dealt with the
+    masters of the elephant and says their treacherous design was turned into a cause
+    of error for them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine judgment against treacherous plotters
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Lord acts against the masters of the elephant by making their treacherous
+    design lead into error.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is brief and does not include the rest of the chapter’s account;
+    the motif label is based only on the stated divine action against a treacherous
+    design.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 39099-39103
+  quote_or_summary: "“CHAPTER CV. ENTITLED, THE ELEPHANT; REVEALED AT MECCA.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: line 39105
+  quote_or_summary: "“HAST thou not seen how thy LORD dealt with the masters of the
+    elephant?”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 39106-39107
+  quote_or_summary: "“Did he not make their treacherous design an occasion of drawing
+    them into error;”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on a short supplied passage. Motif identification
+    is limited because the excerpt ends before the chapter’s full narrative develops.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a comparison to another text, tradition, or motif family beyond the candidate taxonomy classification.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39099-l39107
+  passage_sha256=cd8c913a616e779f2eb42d472c33c8e7db8ce8ed0e27117f47ca43a9efe6b10e
+

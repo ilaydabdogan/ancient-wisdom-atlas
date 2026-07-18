@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l5972-l6092
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS
+    / STORY OF SOHRB; lines 5972-6092
+  start: '5972'
+  end: '6092'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Gdarz persuades the offended Rustem to return to the king's service for
+    Persia's defense. The king apologizes and is reconciled with Rustem, then holds
+    a banquet and musters a large army at dawn. The Persian host reaches the Barrier-fort,
+    where Sohrb observes it without fear while Hmn is terrified, declaring that he
+    fights for Afrsiyb and raising a wine cup.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gdarz rises, takes his horse's rein, is followed by heroes, and conveys the
+    repentant king's request for Rustem's aid.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rustem answers that he has been repaid with scorn and insult and says no human
+    cares will disturb him further.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gdarz argues that if Rustem fears Sohrb, lesser men may flee, and urges him
+    not to abandon friends, Persia, or his fame.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rustem is angered by the censure but says his threatened country claims a
+    warrior's care and rejoins the assembled group.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king apologizes to Rustem, describes his anger as temporary, and calls
+    Rustem the source of his regal power and the glory of his throne.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rustem acknowledges the king as the source of command and pledges obedience
+    and fealty.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king commands a joyful feast in a bower beside a crystal spring, gives
+    golden presents, and the heroes drink wine until midnight.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At dawn the king orders clarions sounded, opens his treasure gates, gives
+    largess, and gathers armed subjects, legions, and horse troops.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The army's movement shakes the earth, raises dust that obscures heaven, and
+    fills the fields with glittering armor and shields.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Persian host reaches the Barrier-fort in battle order.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The legions of Trn see the approaching forces with dread surprise and show
+    them to Sohrb.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Sohrb mounts the fort and surveys the approaching army fearlessly, while Hmn
+    is pale with terror.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Sohrb says he wages war for Afrsiyb, claims he will make the desert like a
+    rolling sea, and raises a wine cup without sorrowful thoughts.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gdarz
+  description: A hero or envoy who rides to Rustem, conveys the king's plea, and persuades
+    Rustem through censure and appeal to country and fame.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Rustem
+  description: The offended champion who initially refuses the king's plea, then returns
+    to defend the threatened country and pledges fealty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: The King / Ks
+  description: The repentant monarch who seeks Rustem's aid, apologizes, hosts a feast,
+    gives gifts and largess, and musters the army.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Sohrb
+  description: A fearless opposing warrior who surveys the Persian army from the fort
+    and declares that he wages war for Afrsiyb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:5
+  name_or_label: Afrsiyb
+  description: Named by Sohrb as the one for whom he wages the war.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Hmn
+  description: A companion or observer near Sohrb who is described as pale with terror
+    while watching the Persian advance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Persian heroes, subjects, and army
+  description: The heroes and armed subjects who gather around the king and Rustem,
+    feast, receive largess, and march to the Barrier-fort.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Legions of Trn
+  description: The opposing legions who see the approaching Persian forces with dread
+    surprise.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: envoy and persuader
+  assigned_to:
+  - fig:1
+  basis: Gdarz conveys the king's plea to Rustem and uses accusation of fear and appeal
+    to patriotism to move him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: offended champion returning to duty
+  assigned_to:
+  - fig:2
+  basis: Rustem complains of insult, but after Gdarz's appeal says the threatened
+    country claims his care and pledges obedience to the king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: repentant king and commander
+  assigned_to:
+  - fig:3
+  basis: The king seeks Rustem's aid, apologizes, calls Rustem vital to his throne,
+    commands the feast, gives largess, and musters the army.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: fearless opposing warrior
+  assigned_to:
+  - fig:4
+  basis: Sohrb is the named threat in Gdarz's speech and later surveys the host from
+    the fort without fear.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:5
+  label: named beneficiary of war
+  assigned_to:
+  - fig:5
+  basis: Sohrb states that he wages the war for Afrsiyb.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: fearful observer
+  assigned_to:
+  - fig:6
+  basis: Hmn is described as pale with withering terror while watching the Persian
+    advance.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: royal war host
+  assigned_to:
+  - fig:7
+  basis: The king's heroes, subjects, legions, and horse troops assemble and march
+    in battle array.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: opposing war host
+  assigned_to:
+  - fig:8
+  basis: The legions of Trn observe the Persian myriads with dread surprise.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: courser's rein
+  literal_form: horse rein
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: crystal spring
+  literal_form: spring beside the feast bower
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: wine cup
+  literal_form: cups of wine at reconciliation feast and Sohrb's raised cup
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: golden presents and largess
+  literal_form: royal gifts and treasure distributed by the king
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: clarions
+  literal_form: clarions sounded at dawn to summon the host
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: mountain's brow
+  literal_form: mountain height where subjects gather
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Barrier-fort
+  literal_form: fort reached by the Persian army and mounted by Sohrb
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:8
+  label: armor and shields
+  literal_form: steely armor and gold-emblazoned shields glittering over the fields
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Gdarz's embassy to Rustem
+  summary: Gdarz rides to Rustem with followers, delivers the king's repentant request,
+    and persuades Rustem by appealing to patriotism and fear of shame.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Reconciliation of king and champion
+  summary: The king apologizes to Rustem and praises his importance; Rustem answers
+    by pledging obedience and fealty.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Royal feast before battle
+  summary: The king orders a joyful banquet by a bower and spring, distributes golden
+    gifts, and the heroes drink wine until midnight.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Dawn mustering and march
+  summary: At sunrise the king sounds clarions, gives largess, gathers a vast armed
+    host, and marches to the Barrier-fort amid dust, shaking earth, and glittering
+    arms.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Sohrb at the Barrier-fort
+  summary: The legions of Trn and Hmn react fearfully to the Persian advance, but
+    Sohrb mounts the fort, surveys the army, declares war for Afrsiyb, and raises
+    his wine cup.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Estranged champion returns for threatened country
+  taxonomy_refs:
+  - return
+  basis: Rustem initially rejects the king's request because of insult, but after
+    Gdarz's appeal he rejoins the assembly and says his threatened country claims
+    a warrior's care.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy link is to a broad return pattern; the passage concerns return
+    to political and military duty rather than a completed journey home.
+- id: motif:2
+  label: Royal reconciliation and reaffirmed fealty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king apologizes, names Rustem as source of regal power and glory of the
+    throne, and Rustem pledges obedience to the king's command.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage emphasizes political loyalty and kingship; it does not present
+    an explicit coronation or divine sanction scene.
+- id: motif:3
+  label: Banquet and gift-giving before battle
+  taxonomy_refs: []
+  basis: Before the army marches, the king holds a feast, gives golden presents, opens
+    treasure gates, and distributes largess.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this feast-and-largess
+    pattern.
+- id: motif:4
+  label: Overwhelming army rendered as natural upheaval
+  taxonomy_refs:
+  - chaos
+  basis: The army's advance shakes the earth, raises dust that obscures heaven, and
+    makes earth and sky seem lost under the host.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The chaos reference is interpretive and based on imagery of obscuration
+    and upheaval, not on a named cosmic chaos episode.
+- id: motif:5
+  label: Fearless warrior watches a vast enemy host
+  taxonomy_refs: []
+  basis: Hmn and the legions of Trn fear the approaching Persians, while Sohrb surveys
+    them unmoved, speaks boldly, and raises a wine cup.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this battlefield contrast
+    between fear and fearlessness.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5972-5988
+  quote_or_summary: Gdarz rides to Rustem with heroes, conveys the repentant king's
+    request for aid, and Rustem replies that scorn and insult have been his recompense.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5989-6007
+  quote_or_summary: Gdarz says that if Rustem fears Sohrb others may flee, urges him
+    to preserve Persia's fame, and Rustem answers that his threatened country claims
+    a warrior's care.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 6008-6028
+  quote_or_summary: The king apologizes to Rustem, says anger overtook him, calls
+    Rustem his army's boast and source of regal power, and asks again for fellowship
+    and love.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 6030-6036
+  quote_or_summary: Rustem calls the king the source of command and says he stands
+    ready to follow the king's will in continuing fealty.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 6038-6052
+  quote_or_summary: The king commands a feast in a bower beside a crystal spring,
+    gives golden presents, and the heroes drink wine until midnight.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 6054-6074
+  quote_or_summary: At dawn the clarions sound, treasure and largess are distributed,
+    subjects and troops gather, the earth shakes under the host, dust obscures heaven,
+    armor and shields glitter, and the army reaches the Barrier-fort.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 6076-6092
+  quote_or_summary: The legions of Trn see the Persian myriads; Sohrb mounts the fort
+    and surveys them fearlessly while Hmn is terrified, declares he wages war for
+    Afrsiyb, and raises a wine cup.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction uses only the supplied public-domain passage. Motif taxonomy links
+    are conservative; broad references such as return, royal_legitimacy, and chaos
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names preserve the spellings visible in the supplied passage where possible, including Gdarz, Ks, Sohrb, Afrsiyb, Hmn, and Trn.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l5972-l6092
+  passage_sha256=34d497d54e91aaf0eda4be4085ebdfef7e06bf94646253934cbc413c2135650b
+

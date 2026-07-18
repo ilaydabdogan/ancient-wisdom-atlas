@@ -1,0 +1,601 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l11170-l11282
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 11170-11282
+  start: '11170'
+  end: '11282'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The Sultan favors the two princes, whose appearance and learning prompt
+    remarks that they resemble the sons he might have had. The brothers invite him
+    to their house. Their sister consults the Talking Bird about entertaining him,
+    receives the strange instruction to serve cucumbers stuffed with pearls, and is
+    directed to dig under a tree for the needed pearls. She finds a golden box of
+    pearls, orders the head cook to prepare the dish, and later greets the Sultan
+    when he arrives after the hunt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prince Bahman tells the Sultan that he and his brother are ready to accept
+    the Sultan's wishes after their sister's advice; the Sultan receives them kindly
+    and keeps them beside him for the day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People in the capital stare at the two unknown young men and say they look
+    distinguished and about the age the Sultan's sons would have been.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sultan gives the two brothers splendid apartments, has them dine with
+    him, discusses scientific subjects and history with them, and compliments their
+    learning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The princes prostrate themselves before the throne and invite the Sultan to
+    visit their house; the Sultan accepts and says he wishes to see their sister.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The princess, inexperienced in court customs, asks the Talking Bird what dishes
+    should be served to the Sultan.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Talking Bird tells the princess to serve cucumbers stuffed with pearl
+    sauce and later tells her to dig at dawn at the foot of the first tree in the
+    park on the right hand to find enough pearls.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The princess and gardener dig where the bird directed and find a golden box
+    with clasps, full of well-shaped pearls.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The princess shows the pearls to her brothers, explains the bird's advice,
+    and all three admit they do not understand the counsel but will obey it.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The princess orders the head cook to prepare a stuffed cucumber with the pearls
+    as stuffing; the cook is amazed, but she insists.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The princes hunt with the Sultan until midday, then turn toward the palace;
+    Prince Bahman remains beside the Sultan while Prince Perviz rides ahead to warn
+    their sister.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: When the Sultan enters the courtyard, the princess flings herself at his feet;
+    he raises her and notices her grace, beauty, and courtly air.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: the Sultan
+  description: The ruler who favors the two brothers, hosts them at court, accepts
+    their invitation, joins the hunt, and visits their palace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Prince Bahman
+  description: One of the two brothers; he answers the Sultan, invites him to visit,
+    and stays beside him during the approach to the palace.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:10
+- id: fig:3
+  name_or_label: Prince Perviz
+  description: One of the two brothers; he is honored with his brother and rides ahead
+    to warn their sister of the Sultan's approach.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:10
+- id: fig:4
+  name_or_label: the princess / sister of the two princes
+  description: The brothers' sister; she seeks advice from the Talking Bird, finds
+    the pearls, orders the special dish, and greets the Sultan.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:5
+  name_or_label: the Talking Bird
+  description: A speaking bird consulted by the princess; it gives instructions for
+    the Sultan's meal and the location of pearls.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: the gardener
+  description: The gardener accompanies the princess to dig at the tree and later
+    fills the hole.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: the head cook
+  description: The cook ordered by the princess to prepare the pearl-stuffed cucumber
+    for the Sultan.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: people of the capital
+  description: The crowd in the streets who notice the two young men and comment on
+    their likeness to the Sultan's possible sons.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: the grand-vizir and the rest of the court
+  description: Court figures described as vexed when the Sultan keeps the brothers
+    by his side.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ruler and royal host
+  assigned_to:
+  - fig:1
+  basis: The Sultan commands apartments for the brothers, seats them at table, accepts
+    an invitation, and arrives after the hunt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:10
+- id: role:2
+  label: favored young royal guests
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Sultan keeps the brothers beside him, gives them splendid apartments,
+    and seats them at table with him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: learned young men
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Sultan finds their views worth listening to and compliments their learning
+    and taste for knowledge.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: household inviters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The brothers ask the Sultan to rest at their house when the hunt passes that
+    way.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: hostess preparing royal reception
+  assigned_to:
+  - fig:4
+  basis: The princess seeks advice on the meal, obtains pearls, orders the cook, and
+    welcomes the Sultan.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:9
+  - ev:11
+- id: role:6
+  label: speaking counselor
+  assigned_to:
+  - fig:5
+  basis: The Talking Bird tells the princess what dish to serve and where to find
+    the pearls.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: digging helper
+  assigned_to:
+  - fig:6
+  basis: The gardener accompanies the princess when she follows the bird's directions
+    and fills the hole afterward.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: cook assigned unusual dish
+  assigned_to:
+  - fig:7
+  basis: The head cook is ordered to prepare a stuffed cucumber with pearl stuffing
+    and reacts with amazement.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: public observers
+  assigned_to:
+  - fig:8
+  basis: The people crowd the streets, fix their eyes on the young men, and comment
+    on them.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: vexed courtiers
+  assigned_to:
+  - fig:9
+  basis: The grand-vizir and court are described as vexed when the Sultan keeps the
+    brothers beside him.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Talking Bird
+  literal_form: A bird that speaks and gives practical instructions to the princess.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: pearl-stuffed cucumber dish
+  literal_form: A dish of cucumbers or a stuffed cucumber with pearl sauce or pearl
+    stuffing, to be served to the Sultan.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: sym:3
+  label: pearls
+  literal_form: Well-shaped pearls found in a golden box and given to the cook as
+    stuffing for the dish.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: golden box
+  literal_form: A golden box fastened with little clasps and filled with pearls.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: first tree in the park
+  literal_form: The first tree on the right hand in the park; the pearls are found
+    by digging at its foot.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: prostration before ruler
+  literal_form: The princes prostrate themselves before the throne; later the princess
+    flings herself at the Sultan's feet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:11
+scenes:
+- id: scene:1
+  label: Sultan favors the brothers and the city notices them
+  summary: The Sultan receives the brothers kindly and keeps them near him; the people
+    of the capital stare at them and say they resemble the sons the Sultan might have
+    had.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Royal dinner and invitation
+  summary: The Sultan hosts the brothers, tests or observes their learning through
+    conversation, and accepts their invitation to visit their house and meet their
+    sister.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Consultation with the Talking Bird
+  summary: The princess asks the Talking Bird how to entertain the Sultan, and the
+    bird prescribes a pearl-stuffed cucumber dish and directs her to pearls buried
+    under a tree.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Discovery of the pearls
+  summary: Following the bird's directions, the princess and gardener dig at the tree
+    and find a golden box full of pearls; the princess later shows the treasure to
+    her brothers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Command to prepare the impossible dish
+  summary: The princess orders the head cook to prepare a stuffed cucumber with the
+    pearls, despite his amazement at the unheard-of dish.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Hunt and first meeting with the princess
+  summary: After hunting with the princes, the Sultan comes to the palace; the princess
+    prostrates herself, and he raises her while noting her grace, beauty, and courtly
+    air.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Royal resemblance and noble bearing as recognition signs
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The crowd says the two strangers look like the sons the Sultan might have
+    had; the Sultan thinks the brothers could not be better educated if they were
+    his own sons and later notices the princess's courtly air.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+  confidence: medium
+  cautions: The excerpt strongly signals possible royal identity or kinship but does
+    not explicitly reveal or confirm it within this passage.
+- id: motif:2
+  label: Speaking bird gives effective counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The princess consults the Talking Bird, which gives precise instructions
+    for the meal and the source of the pearls; the princess trusts that the bird generally
+    proves right.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the bird's origin or the source of its knowledge.
+- id: motif:3
+  label: Hidden treasure revealed for a task
+  taxonomy_refs: []
+  basis: The bird directs the princess to dig at the foot of a specific tree, where
+    she and the gardener find a golden box full of pearls needed for the ordered dish.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explain who placed the treasure there or whether
+    the discovery is magical beyond the bird's foreknowledge.
+- id: motif:4
+  label: Enigmatic precious-food instruction obeyed without understanding
+  taxonomy_refs: []
+  basis: The bird instructs the princess to serve cucumbers stuffed with pearls; the
+    siblings cannot interpret the counsel but decide to obey, and the princess orders
+    the cook to prepare it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The outcome or purpose of the strange dish is not shown in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11170-11177
+  quote_or_summary: Prince Bahman says the brothers will agree to the Sultan's wishes;
+    the Sultan receives them kindly and keeps them beside him, vexing the grand-vizir
+    and court.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 11179-11185
+  quote_or_summary: The people stare at the two unknown young men and say, "Oh, if
+    only the Sultan had had sons like that!" and note their distinguished appearance
+    and age.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 11187-11194
+  quote_or_summary: The Sultan gives the brothers splendid apartments, seats them
+    at table, discusses scientific subjects and history, thinks they could not be
+    better educated if they were his sons, and praises their learning.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 11196-11205
+  quote_or_summary: The princes prostrate before the throne, ask leave to return home,
+    invite the Sultan to rest at their house during the hunt, and the Sultan accepts
+    because he wishes to see their sister.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 11207-11215
+  quote_or_summary: The princess asks the Talking Bird for advice on dishes; the bird
+    says to serve "a dish of cucumbers, stuffed with pearl sauce" with the first course.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 11217-11225
+  quote_or_summary: After the princess questions the pearl dish, the bird tells her
+    to obey and says that at dawn she should dig "at the foot of the first tree in
+    the park" to find as many pearls as needed.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 11227-11235
+  quote_or_summary: The princess, trusting the bird, takes the gardener, digs as directed,
+    and finds a clasped golden box full of well-shaped pearls under the tree.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 11237-11250
+  quote_or_summary: The brothers meet their sister carrying the box; she shows them
+    the pearls, explains the bird's counsel, and the three decide to obey despite
+    not understanding its meaning.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: lines 11252-11264
+  quote_or_summary: The princess orders the head cook to prepare the Sultan's meal
+    and adds a special stuffed cucumber whose stuffing is to be made of pearls; the
+    cook is amazed, but she insists.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:10
+  type: summary
+  locator: lines 11266-11271
+  quote_or_summary: The princes and Sultan hunt until midday, then ride toward the
+    palace; Bahman remains with the Sultan while Perviz rides ahead to warn the princess.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:11
+  type: summary
+  locator: lines 11273-11282
+  quote_or_summary: The princess flings herself at the Sultan's feet; he raises her,
+    observes her grace, beauty, and courtly air, and thinks the siblings are worthy
+    of one another.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is well supported by the passage. Motif labels are
+    cautious because this excerpt appears to precede a later recognition or explanation
+    scene not included here. No comparison claims are made because the passage itself
+    does not supply a cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l11170-l11282
+  passage_sha256=44f540dddc2997dab887f7e4ddf99c599594d8b8e770edff0f72267dd1e0e452
+

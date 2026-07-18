@@ -1,0 +1,515 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l2430-l2466
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XIII. / CHAPTER XIV. / CHAPTER XV. / CHAPTER XVI.; lines 2430-2466
+  start: '2430'
+  end: '2466'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage cites a story said to appear in both the Jerusalem and Babylonish
+    Talmud. Zacharias is killed in the court of the priests; his blood is left uncovered
+    on a rock and later bubbles. Nebuzaradan tests whether the bubbling blood is animal
+    blood, receives a confession that Zacharias was a priest, prophet, and judge who
+    had been slain, and kills successive groups upon the blood in an attempt to appease
+    him. The blood stops bubbling only after Nebuzaradan addresses Zacharias and asks
+    whether all the people should be killed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a similar story is found in both the Jerusalem and
+    Babylonish Talmud and cites Lightfoot for the references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rabbi Jochanan is reported as saying that eighty thousand priests were slain
+    for the blood of Zacharias.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the rabbinic dialogue, Zacharias is said to have been killed in the court
+    of the priests, not in the court of Israel or the women's court.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Zacharias's blood is described as placed on the top of a rock and not covered,
+    unlike the blood of a ram or young goat.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage explains the uncovered blood as causing fury to arise for vengeance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The list of seven evils includes murder of a priest, a prophet, and a king,
+    shedding innocent blood, polluting the court, and doing so on the Sabbath and
+    the day of expiation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Nebuzaradan sees the blood bubbling in Jerusalem and asks what it means.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The respondents claim the blood is from calves, lambs, and rams offered on
+    the altar, but Nebuzaradan's test with slain animals does not produce bubbling
+    blood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After Nebuzaradan threatens the respondents with iron combs, they say Zacharias
+    was a priest, prophet, and judge who prophesied calamities and was slain by them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Nebuzaradan kills rabbis, schoolboys, young priests, and eventually ninety-four
+    thousand persons upon Zacharias's blood, but the blood continues bubbling until
+    he addresses Zacharias and asks whether he should kill them all.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rabbi Jochanan
+  description: Rabbinic speaker who says that eighty thousand priests were slain for
+    the blood of Zacharias.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Rabbi Judas
+  description: Rabbinic questioner who asks Rabbi Achan where Zacharias was killed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Rabbi Achan
+  description: Rabbinic respondent who answers that Zacharias was killed in the court
+    of the priests.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Zacharias
+  description: Slain figure whose blood remains uncovered, bubbles, and is later addressed
+    by Nebuzaradan; the confession identifies him as priest, prophet, and judge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Nebuzaradan
+  description: Figure who comes to Jerusalem, investigates the bubbling blood, threatens
+    the respondents, and kills multiple groups upon the blood to appease Zacharias.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Unidentified respondents and killers
+  description: People questioned by Nebuzaradan who first identify the blood as animal
+    blood and then confess that they slew Zacharias.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Rabbis slain upon the blood
+  description: Rabbis whom Nebuzaradan kills upon Zacharias's blood during the attempted
+    appeasement.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Young boys from the schools
+  description: Schoolboys whom Nebuzaradan kills upon Zacharias's blood after the
+    rabbis.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Young priests
+  description: Young priests whom Nebuzaradan kills in the same place after the schoolboys.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: rabbinic reporter
+  assigned_to:
+  - fig:1
+  basis: Rabbi Jochanan is introduced as the speaker who reports the number of priests
+    slain for Zacharias's blood.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: questioner about the death-place
+  assigned_to:
+  - fig:2
+  basis: Rabbi Judas asks whether Zacharias was killed in the women's court or the
+    court of Israel.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: answerer about the death-place
+  assigned_to:
+  - fig:3
+  basis: Rabbi Achan answers that Zacharias was killed in the court of the priests.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: slain priest-prophet figure
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the slain Zacharias through priestly and prophetic
+    language and later calls him a priest, prophet, and judge; his blood remains central
+    to the narrative.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: investigator and avenging executor
+  assigned_to:
+  - fig:5
+  basis: Nebuzaradan investigates the bubbling blood, demands the truth, and kills
+    successive groups upon the blood to appease Zacharias.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: confessing killers or witnesses
+  assigned_to:
+  - fig:6
+  basis: The respondents first give an animal-blood explanation and then state that
+    they arose against Zacharias and slew him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: victims slain upon Zacharias's blood
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Rabbis, schoolboys, and young priests are each killed upon Zacharias's blood
+    during Nebuzaradan's attempt to appease him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: bubbling blood
+  literal_form: Zacharias's blood bubbling and not ceasing until the end of the episode
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: uncovered blood on rock
+  literal_form: blood set on the top of a rock and not covered with dust
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: court of the priests
+  literal_form: the sacred court where Zacharias is said to have been killed and which
+    is later described as polluted
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: animal sacrificial blood
+  literal_form: blood of calves, lambs, and rams offered on the altar and used by
+    Nebuzaradan as a comparison test
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Sabbath and day of expiation
+  literal_form: sacred times listed among the evils of the day of Zacharias's killing
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: iron combs
+  literal_form: iron combs threatened by Nebuzaradan as a means of torture
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: numbers of mass slaughter
+  literal_form: eighty thousand priests and ninety-four thousand persons reported
+    slain in connection with Zacharias's blood
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Talmudic citation and rabbinic question
+  summary: The passage introduces the story as found in the Jerusalem and Babylonish
+    Talmud and presents a rabbinic exchange about where Zacharias was killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Uncovered blood and enumerated evils
+  summary: Zacharias's blood is described as uncovered on a rock for vengeance, and
+    the narrative lists seven evils committed on the day of the killing.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Nebuzaradan investigates the blood
+  summary: Nebuzaradan sees bubbling blood, hears an animal-sacrifice explanation,
+    tests it by slaughtering animals, and then threatens the respondents until they
+    confess the killing of Zacharias.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Attempted appeasement by slaughter
+  summary: Nebuzaradan kills rabbis, schoolboys, young priests, and many others upon
+    Zacharias's blood, but the blood continues to bubble.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Blood ceases after address to Zacharias
+  summary: Nebuzaradan addresses Zacharias directly, asks whether all the people should
+    be killed, and the blood ceases bubbling.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: uncovered blood demanding vengeance
+  taxonomy_refs:
+  - divine_judgment
+  basis: The blood is placed on a rock and not covered so that fury may arise to take
+    vengeance, and it continues bubbling until the concluding address to Zacharias.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The vengeance language is explicit, but the passage does not fully specify
+    the agency behind the vengeance beyond the cited scriptural framing.
+- id: motif:2
+  label: murder of a holy or prophetic figure in a sacred precinct
+  taxonomy_refs: []
+  basis: Zacharias is connected with priestly and prophetic status, is killed in the
+    court of the priests, and the court is described as polluted by the act.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage varies its role labels, listing priest, prophet, and king
+    in one place and priest, prophet, and judge in another.
+- id: motif:3
+  label: appeasement of slain blood through retaliatory killing
+  taxonomy_refs:
+  - sacrifice
+  basis: Nebuzaradan says he will appease Zacharias and repeatedly slays groups upon
+    Zacharias's blood.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text uses appeasement and slaughter language but does not explicitly
+    name the killings as formal sacrifice.
+- id: motif:4
+  label: failed substitution by animal blood
+  taxonomy_refs: []
+  basis: The respondents identify the bubbling blood as animal sacrificial blood,
+    but Nebuzaradan's slaughter of calves, lambs, and rams fails to reproduce the
+    bubbling.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a localized narrative pattern in the passage; no broader taxonomy
+    reference is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the Talmudic story as very similar to another
+    story in the surrounding source context.
+  claim_level: same_motif
+  target: the unspecified story referred to as "this" in the surrounding source context
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The compared story is not included in the provided passage, so only
+    the source's own comparison can be recorded.
+- id: claim:2
+  claim: The passage treats the Jerusalem Talmud and Babylonish Talmud as containing
+    a similar or shared version of the Zacharias blood story.
+  claim_level: same_motif
+  target: Jerusalem Talmud and Babylonish Talmud accounts cited by Lightfoot
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a secondary citation and summarized/quoted story are provided;
+    separate variant texts from the two Talmuds are not given in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2430-2433
+  quote_or_summary: The passage says there is a story in both the Jerusalem and Babylonish
+    Talmud "very similar to this" and cites Lightfoot's Talmudic references.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 2433-2442
+  quote_or_summary: Rabbi Jochanan reports eighty thousand priests slain for Zacharias's
+    blood; a dialogue says Zacharias was killed in the court of the priests and that
+    his blood was placed on the top of a rock and not covered, unlike animal blood.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2442-2448
+  quote_or_summary: The passage lists seven evils of the day, including murder of
+    a priest, prophet, and king, shedding innocent blood, polluting the court, and
+    doing so on the Sabbath and day of expiation.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2448-2455
+  quote_or_summary: Nebuzaradan sees the blood bubbling in Jerusalem; the respondents
+    call it animal blood from altar offerings, but his test with slain animals shows
+    that Zacharias's blood still bubbles while the animal blood does not.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2455-2459
+  quote_or_summary: Nebuzaradan threatens the respondents with iron combs, and they
+    confess that Zacharias was a priest, prophet, and judge who prophesied calamities
+    and was slain by them.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2459-2465
+  quote_or_summary: Nebuzaradan tries to appease Zacharias by killing rabbis, young
+    boys from the schools, young priests, and eventually ninety-four thousand persons
+    upon the blood, but it continues bubbling.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2465-2466
+  quote_or_summary: Nebuzaradan addresses Zacharias, asks whether he should slay all
+    the countrymen, and the blood ceases bubbling.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The narrative details are explicit, but motif-family assignments and comparisons
+    require review because the provided passage includes only a secondary Talmudic
+    citation and an unspecified comparison target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. No symbol taxonomy refs were assigned because the available symbol list does not include blood, rock, court, altar, iron implements, or sacred times.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l2430-l2466
+  passage_sha256=bcd9d640d94ccaa883a3eea819a76d1ca91dd7b4feae39a186dff7c89f180855
+

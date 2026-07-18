@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2558-l2605
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2558-2605
+  start: '2558'
+  end: '2605'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage evaluates Mohammed's personal qualifications, reporting claims
+    about his virtues, charity, refusal of earthly treasures, sagacity, persuasive
+    manners, lack of formal learning, and use of that lack of literacy as an argument
+    that writings presented as revelations from God could not be his own forgery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mohammedan authors are reported to commend Mohammed for religious and moral
+    virtues, including piety, veracity, justice, liberality, clemency, humility, and
+    abstinence.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same authors say Mohammed kept little money for himself, maintained his
+    family with only what was necessary, and shared provisions with the poor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Al Bokhri is cited as saying that God offered Mohammed the keys of the treasures
+    of the earth and that Mohammed did not accept them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage narrator says the eulogies are suspect because of partiality but
+    infers that Mohammed had at least tolerable morals, while declining to judge his
+    sincerity.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mohammed is described as having piercing and sagacious wit and as being versed
+    in arts of insinuation.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Eastern historians are said to describe Mohammed as having excellent judgment,
+    happy memory, few words, cheerful temper, pleasant conversation, inoffensive behavior,
+    condescension toward inferiors, agreeable appearance, and polite address.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says Mohammed had no acquired learning and no education beyond
+    what was customary in his tribe.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says Mohammed used his lack of reading and writing to argue that
+    the writings he produced as revelations from God could not be his own forgery.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Central person evaluated in the passage; described through reports
+    of virtues, charity, refusal of earthly treasures, sagacity, social persuasiveness,
+    lack of acquired learning, and production of writings presented as revelations
+    from God.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: GOD
+  description: Divine figure named as offering Mohammed the keys of the treasures
+    of the earth and as the source from whom Mohammed's writings are presented as
+    revelations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Mohammedan authors and eastern historians
+  description: Collective reporting authorities cited for commendations and descriptions
+    of Mohammed's virtues and personal qualities.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: the poor
+  description: People whose necessities Mohammed is said to have supplied from his
+    own provisions.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: evaluated central figure
+  assigned_to:
+  - fig:1
+  basis: The passage centers on Mohammed's qualifications and moral character.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: divine offerer and revelation source
+  assigned_to:
+  - fig:2
+  basis: God is named as offering keys of earthly treasures and as the source of the
+    claimed revelations.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: renouncer of earthly treasure
+  assigned_to:
+  - fig:1
+  basis: Mohammed is said to refuse the keys of the treasures of the earth when offered
+    by God.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: charitable provider
+  assigned_to:
+  - fig:1
+  basis: Mohammed is said to keep little for himself and to supply the necessities
+    of the poor.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: unlettered producer of writings presented as revelation
+  assigned_to:
+  - fig:1
+  basis: The passage says he could neither write nor read and used this in arguing
+    that his revealed writings could not be his own forgery.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: reporting authorities
+  assigned_to:
+  - fig:3
+  basis: These authors and historians are cited as sources for commendations and descriptions
+    of Mohammed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:7
+  label: recipients of charity
+  assigned_to:
+  - fig:4
+  basis: The poor are named as those whose necessities Mohammed supplied.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: keys of earthly treasure
+  literal_form: keys of the treasures of the earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: revealed writings or book
+  literal_form: writings produced as revelations from GOD; a book of excellent doctrine
+    and elegant style
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Moral appraisal and charity report
+  summary: The passage reports commendations of Mohammed's virtues and charity, while
+    the narrator cautions that the eulogies may be partial.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Divine offer of treasures refused
+  summary: Al Bokhri is cited as saying that God offered Mohammed the keys of the
+    treasures of the earth and that Mohammed refused them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Qualities useful for persuasion
+  summary: The passage describes Mohammed's wit, memory, judgment, conversational
+    manner, outward demeanor, and address as qualities useful in persuasion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Unlettered revelation argument
+  summary: The passage says Mohammed lacked acquired learning and used inability to
+    read or write as an argument that the writings presented as revelations from God
+    could not have been forged by him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Refusal of offered earthly treasure
+  taxonomy_refs: []
+  basis: The cited anecdote states that God offered Mohammed the keys of the treasures
+    of the earth and that he did not accept them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives this as a brief cited report within a discursive biography,
+    not as an extended narrative episode.
+- id: motif:2
+  label: Unlettered revealer and miraculous book-authentication claim
+  taxonomy_refs: []
+  basis: The passage says Mohammed could neither read nor write and used that lack
+    of learning to argue that his writings, presented as revelations from God, could
+    not be a forgery of his own.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents this as an argumentative claim about authorship and
+    revelation; no independent miracle scene is narrated here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2558-2565
+  quote_or_summary: Mohammed is said to have necessary personal qualifications; Mohammedan
+    authors commend virtues such as piety, veracity, justice, liberality, clemency,
+    humility, and abstinence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 2565-2571
+  quote_or_summary: His charity is described as keeping little money, reserving only
+    what was needed for his family, and sharing provisions with the poor until little
+    or nothing remained by year's end.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: 2571-2573
+  quote_or_summary: "“GOD ... offered him the keys of the treasures of the earth,
+    but he would not accept them.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 2573-2583
+  quote_or_summary: The narrator treats the eulogies as partly suspect but infers
+    at least tolerable morals and says he does not inquire into Mohammed's sincerity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 2584-2596
+  quote_or_summary: Mohammed is described as sagacious, skilled in insinuation, of
+    excellent judgment and memory, pleasant in conversation, inoffensive toward friends,
+    condescending toward inferiors, comely, and polite in address.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 2597-2602
+  quote_or_summary: The passage says Mohammed had no acquired learning and only the
+    education customary in his tribe, which valued oral language skill and memorized
+    poetry rather than books.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 2602-2605
+  quote_or_summary: The passage says he argued that writings produced as revelations
+    from God could not be his own forgery because one who could neither write nor
+    read could not compose such doctrine and style.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    descriptive because the passage is discursive commentary rather than a full mythic
+    narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were directly supported by this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2558-l2605
+  passage_sha256=e39f9dea36c1fe455d24b68ff1e79d7da66145819b2d9a35c3f3d896349eed44
+

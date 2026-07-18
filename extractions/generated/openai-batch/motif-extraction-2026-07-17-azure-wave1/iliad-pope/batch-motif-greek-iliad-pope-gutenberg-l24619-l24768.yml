@@ -1,0 +1,588 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l24619-l24768
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE REDEMPTION OF THE BODY OF HECTOR. / CONCLUDING NOTE. / A. POPE / END
+    OF THE ILIAD; lines 24619-24768
+  start: '24619'
+  end: '24768'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of editorial notes and comparative quotations on
+    Iliadic narrative structure and imagery: the Greek rampart after Achilles'' secession,
+    Jupiter''s decree limiting divine intervention, cosmological descriptions of heaven,
+    Tartarus, Atlas, and Olympus, Jove''s golden scales, rejected sacrifice, Greek
+    flight, and the consultative Homeric council.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the Greek rampart is constructed in the seventh book, is absent
+    before the eighth book, and becomes prominent afterward.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says Achilles' name kept enemies distant while he fought, and that
+    disasters after his secession made other protection necessary.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says lines on exchange were cited by Theophilus as an ancient mention
+    of barter.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says Jupiter issued a decree at the start of the eighth book against
+    further divine interference in battles, and that this interdict is withdrawn at
+    the opening of the twentieth book.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says divine interventions in the intervening books occur only through
+    Jove's authorized agents or through disobedient deities who are checked and reprimanded.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note reports Homer's description of Atlas as holding pillars that keep
+    earth and heaven apart.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note discusses the height of heaven, the depth of Tartarus, and Olympus
+    as both the highest earthly point and a seat of the gods.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The note presents Jove holding golden scales or a fatal balance to weigh hosts,
+    outcomes, battles, and realms.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The note quotes sacrificial victims falling, prayers being made, vapours rising,
+    and the heavenly powers rejecting the sacrifice.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The note says the Greeks' flight was caused by Hector and the Trojans with
+    Jove's approval.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The note says the Homeric council is consultative and meant for the king's
+    information and guidance rather than to overrule him.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The passage quotes a moonlit scene with clear stars, hills, pinnacles, valleys,
+    and the signs of heaven visible.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Achilles
+  description: A warrior whose fighting and reputation are said to keep foes away,
+    and whose secession leads to disasters requiring fortification.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Greeks / Greek host
+  description: The host whose camp and fleet are discussed as unfortified until the
+    construction of the rampart; later said to flee.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: Trojans / foes
+  description: The opposing force kept at distance by Achilles' name and later associated
+    with causing the Greek flight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:4
+  name_or_label: Hector
+  description: Named as causing the Greeks' flight together with the Trojans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Jupiter / Jove
+  description: The supreme deity who issues a decree limiting divine interference,
+    approves the Greek flight, and weighs hosts or events in golden scales.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Gods / divine warriors
+  description: Divine participants in battle who are restricted by Jupiter's decree,
+    with some authorized and some disobedient.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Atlas
+  description: A figure described as holding lofty pillars that keep earth and heaven
+    apart.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Nestor
+  description: A figure noted in relation to respectful counsel addressed to Agamemnon.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Agamemnon
+  description: The king addressed by Nestor and advised by the consultative council.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: protective champion whose absence creates vulnerability
+  assigned_to:
+  - fig:1
+  basis: Achilles' fighting and reputation are said to keep enemies away; his secession
+    brings disasters that require fortification.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fortifying and fleeing host
+  assigned_to:
+  - fig:2
+  basis: The Greeks are linked to the camp, fleet, rampart, and later flight.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: opposing martial force
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Foes are kept away by Achilles, and Hector with the Trojans causes the Greeks'
+    flight.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: supreme divine arbiter
+  assigned_to:
+  - fig:5
+  basis: Jupiter/Jove issues binding decrees, approves events, and weighs hosts or
+    events in scales.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:5
+  label: restricted divine combatants
+  assigned_to:
+  - fig:6
+  basis: The gods' battlefield activity is limited by Jupiter's interdict, authorization,
+    and reprimands.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: cosmic supporter
+  assigned_to:
+  - fig:7
+  basis: Atlas is described as holding pillars that separate earth and heaven.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: respectful counselor
+  assigned_to:
+  - fig:8
+  basis: Nestor is mentioned as addressing Agamemnon with modest calmness and respect.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: king receiving counsel
+  assigned_to:
+  - fig:9
+  basis: The council is described as advising the king for information and guidance.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: rampart / embattled walls
+  literal_form: fortified wall protecting the Greek camp and fleet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: golden scales / fatal balance
+  literal_form: golden scales or balance held by Jove to weigh hosts and events
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Atlas' pillars
+  literal_form: lofty pillars keeping earth and heaven apart
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Olympus as mountain and divine seat
+  literal_form: the summit of Thessalian Olympus, described as the highest point on
+    earth and blended with the gods' seat
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: heaven-earth-Tartarus vertical structure
+  literal_form: bounded heaven above, earth, and Tartarus below, described through
+    height and depth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sacrificial victims and vapours
+  literal_form: victims, uplifted priestly hands, prayers, and curling vapours rising
+    to heaven
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: moonlit celestial landscape
+  literal_form: silver moon, clear stars, hills, pinnacles, valleys, and visible signs
+    in heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Rampart after Achilles' secession
+  summary: The Greek camp and fleet become fortified by a rampart after Achilles'
+    withdrawal makes his former protective presence unavailable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jupiter restricts divine intervention
+  summary: Jupiter's decree forbids further interference by the gods in battle until
+    it is withdrawn later, and disobedient divine action is checked.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cosmic arrangement of heaven, earth, Tartarus, Atlas, and Olympus
+  summary: The note presents a vertical cosmos in which Atlas holds pillars between
+    earth and heaven, heaven has bounds, Tartarus lies below, and Olympus is associated
+    with the gods' seat.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Jove weighs war in golden scales
+  summary: Jove is shown as arbiter of peace and war, holding golden scales or a fatal
+    balance to weigh hosts, outcomes, battles, and realms.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Rejected sacrifice
+  summary: Sacrificial victims fall and prayers and vapours rise to heaven, but the
+    powers of the skies reject the sacrifice.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Greek flight under Hector and Trojan pressure
+  summary: The Greeks flee as a result of Hector and the Trojans, with Jove's approval
+    noted by the commentator.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Consultative council before the king
+  summary: Nestor addresses Agamemnon, and the Homeric council is described as advising
+    rather than compelling the king.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:8
+  label: Moonlit heaven and landscape
+  summary: A quoted simile describes the moon, stars, hills, valleys, and visible
+    signs in heaven under clear air.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: fortification after withdrawal of a protective champion
+  taxonomy_refs: []
+  basis: The rampart becomes necessary only after Achilles' secession removes the
+    deterrent effect of his name.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is editorial commentary on narrative structure rather than
+    a direct episode of ritual or mythic action.
+- id: motif:2
+  label: supreme deity restricts other gods' intervention
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jupiter issues an interdict against divine interference, authorizes exceptions,
+    and checks disobedient deities.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage emphasizes decree and
+    control more than a formal judgment scene.
+- id: motif:3
+  label: cosmic mountain as seat of the gods
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Olympus is described as the highest point on earth and as indistinctly blended
+    with the seat of the gods.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The note explicitly says the poet's idea blends a real mountain with an
+    older divine seat, so the category should be reviewed.
+- id: motif:4
+  label: cosmic supports separating earth and heaven
+  taxonomy_refs: []
+  basis: Atlas is described as holding lofty pillars that keep earth and heaven apart.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No exact supplied taxonomy reference for world pillars or sky support
+    is available.
+- id: motif:5
+  label: divine weighing of war and fate
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jove holds golden scales or a fatal balance to weigh hosts, outcomes, battles,
+    and realms.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The evidence includes commentary and comparative quotation, not only the
+    Iliadic line itself.
+- id: motif:6
+  label: rejected sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Victims are offered and prayers rise, but the powers of the skies are averse
+    to the sacrifice because the cause is described as unjust.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The quoted comparative example is from Tryphiodorus as rendered by Merrick;
+    the note's Iliadic context is summarized only by the word 'Ungrateful'.
+- id: motif:7
+  label: barter or exchange as archaic transaction
+  taxonomy_refs: []
+  basis: The note says lines on exchange are cited as the most ancient mention of
+    barter.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives a legal-historical note rather than a developed mythic
+    motif, and the supplied 'sacred_exchange' taxonomy is not directly supported.
+comparison_claims:
+- id: claim:1
+  claim: The passage places Jove's golden scales beside scale imagery in Tryphiodorus
+    and Paradise Lost, supporting a cautious same-motif comparison of divine weighing
+    of war or outcomes.
+  claim_level: same_motif
+  target: Merrick's Tryphiodorus v. 687 sqq. and Milton's Paradise Lost iv. 496 as
+    quoted in note [192]
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports literary juxtaposition and motif similarity, but
+    it does not establish historical contact, direct borrowing, or common inheritance.
+- id: claim:2
+  claim: The note compares Homeric vertical cosmology with quoted lines from Paradise
+    Lost and Tasso's Gerusalemme Liberata, supporting cautious visual similarity in
+    imagining heaven above and infernal depth below.
+  claim_level: visual_similarity
+  target: Milton's Paradise Lost and Tasso's Gerusalemme Liberata as quoted in note
+    [190]
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is mediated by commentary and quotation; it does not
+    prove a shared inherited cosmological system.
+- id: claim:3
+  claim: The passage's note on 'ungrateful' sacrifice quotes Tryphiodorus to illustrate
+    sacrifice rejected by heavenly powers, supporting a cautious same-motif comparison
+    for rejected or ineffective sacrifice.
+  claim_level: same_motif
+  target: Merrick's Tryphiodorus vi. 527 sqq. as quoted in note [197]
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Iliadic context is represented by an editorial gloss, while the
+    detailed sacrificial scene is supplied through a comparative quotation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24619-24635, note [186]
+  quote_or_summary: The note says the rampart is constructed in Book 7; Achilles'
+    name formerly keeps enemies distant, but after his secession the Greeks need other
+    protection, and the rampart becomes prominent after Book 8.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 24645-24648, note [188]
+  quote_or_summary: The note says lines on exchange are cited by Theophilus as exhibiting
+    an ancient mention of barter.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 24649-24666, note [189]
+  quote_or_summary: The note describes Jupiter's decree against further interference
+    by the gods in battles, its withdrawal in Book 20, and the restriction or reprimand
+    of divine actors in the intervening books.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 24667-24692, note [190]
+  quote_or_summary: The note quotes Milton and Tasso on cosmic distance, then discusses
+    Homeric heaven, Atlas' pillars separating earth and heaven, the depth of Tartarus,
+    and Olympus as both real mountain and seat of the gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 24699-24717, note [192]
+  quote_or_summary: The note under 'His golden scales' describes Jove as arbiter of
+    peace and war holding a fatal balance to weigh hosts, and quotes related scale
+    imagery from Tryphiodorus and Paradise Lost.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 24731-24740, note [197]
+  quote_or_summary: The note glosses 'Ungrateful' as an unjust cause and quotes victims
+    falling, prayers and vapours rising, and heavenly powers rejecting the sacrifice.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 24757-24760, note [199]
+  quote_or_summary: The note says the Greeks' flight was caused by Hector and the
+    Trojans, with Jove's approval, rather than by a supernatural flight caused by
+    gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 24761-24768, note [200]
+  quote_or_summary: The note says Nestor addresses Agamemnon respectfully and that
+    the Homeric council is consultative, advising the king without power to arrest
+    his resolves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 24742-24756, note [198]
+  quote_or_summary: The note quotes a scene of silver moon, clear stars, steep hills,
+    pinnacles, valleys, and visible signs in heaven gladdening the shepherd.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain Project Gutenberg text; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly commentary and comparative annotation rather than a
+    continuous narrative episode; extracted motifs should be reviewed against the
+    underlying Iliadic passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references were limited to supplied motif and symbol lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l24619-l24768
+  passage_sha256=c922e001a150ce88701c3669207bfe0f3570535b42f2842aa79d3537d60d7cae
+

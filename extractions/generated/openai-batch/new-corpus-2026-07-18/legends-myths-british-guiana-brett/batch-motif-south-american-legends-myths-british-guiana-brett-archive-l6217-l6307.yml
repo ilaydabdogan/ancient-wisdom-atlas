@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l6217-l6307
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES 'OF GUIANA. 133 / HISTORICAL AND WARLIKE LEGENDS. / THEIR
+    WAR WITH THE CARIBS. / ABORIGINAL TRIBES OF GUIANA. 137; lines 6217-6307
+  start: '6217'
+  end: '6307'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A scout warns an assembled group that the Caribs are approaching to kill
+    them. The chief orders his warriors to meet the enemy at the Cuyuni. The warriors
+    hide among trees near the riverbank while the Carib flotilla lands; the Caribs
+    eat and rest without keeping watch. The hidden warriors attack with darts, killing
+    many and driving survivors back to their boats. The victors go upriver to bathe
+    in clear water because the lower water is fouled by bodies and blood. In the following
+    section, the Caribs return in greater force, and the chief says the place is lost
+    but the enemy will pay dearly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A breathless scout tells the assembled people to prepare because the Caribs
+    are on their way to kill them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chief treats the warning as good news and orders his warriors to meet
+    the Caribs midway rather than continue talking.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The warriors go to the Cuyuni and see the foe approaching in numerous frail
+    barques.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The warriors hide among trees near the riverbank while the Caribs land, recline
+    on the strand, eat, and rest.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The Caribs have no scout or watch and do not expect a deadly ambush nearby.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A fierce cry begins the attack, and fatal darts strike the Caribs as they
+    start up.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Some Caribs flee to their flotilla, where their weapons are located.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The fight is described as merciless, with death in every blow and two hundred
+    corpses lining the strand half in water and half on land.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the fight, the warriors go upriver to bathe in clear water because bodies
+    and blood have defiled the water below.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The Caribs return again, strong and bold, as the old chief had foretold.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The old chief tells his men that for each warrior slain, the Caribs will bring
+    ten when they return.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: When the foe draws near, few helpers appear, and the chieftain says the place
+    is lost but the Caribs will pay dearly for what they gain that day.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: breathless scout
+  description: A scout who warns the assembled group that the Caribs are approaching.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: chief / old chief / chieftain
+  description: Leader of the warriors who orders an interception at the Cuyuni and
+    later predicts the Caribs' return in greater numbers.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: our warriors / our men
+  description: The group led by the chief; they go to the Cuyuni, hide among trees,
+    ambush the Caribs, and later bathe upriver.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Caribs / foe
+  description: Enemy group approaching by barque; they land, rest without a watch,
+    are ambushed, suffer many deaths, and later return in greater force.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: warning scout
+  assigned_to:
+  - fig:1
+  basis: The scout brings urgent news of the Caribs' approach.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: war leader
+  assigned_to:
+  - fig:2
+  basis: The chief directs the warriors to intercept the Caribs and later speaks to
+    his men before the renewed attack.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  - ev:11
+- id: role:3
+  label: ambushing warriors
+  assigned_to:
+  - fig:3
+  basis: The warriors hide near the river landing and attack the Caribs with darts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: enemy landing party
+  assigned_to:
+  - fig:4
+  basis: The Caribs approach by barque, land on the strand, eat, rest, and are attacked.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: foretelling chief
+  assigned_to:
+  - fig:2
+  basis: The Caribs' return is said to occur as the old chief foretold.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: returning avengers
+  assigned_to:
+  - fig:4
+  basis: The chief says the Caribs will return bringing ten warriors for each one
+    slain.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Cuyuni river
+  literal_form: Cuyuni river and its banks
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: trees used as concealment
+  literal_form: trees near the landing place
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: barques and flotilla
+  literal_form: frail, numerous barques; flotilla
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: defiled water after battle
+  literal_form: clear water upriver contrasted with water below defiled by dead bodies
+    and blood
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Scout warning and chief's decision
+  summary: A scout warns that the Caribs are approaching to kill the assembled group,
+    and the chief orders his warriors to meet them midway.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hidden ambush at the Cuyuni landing
+  summary: The warriors go to the Cuyuni, hide among trees, watch the Caribs land
+    and rest without a watch, then attack with a fierce cry and darts.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Aftermath on the strand
+  summary: The battle leaves many dead on the strand, partly in water and partly on
+    land, and the victors go upriver to bathe in clear water away from the blood and
+    bodies below.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Renewed Carib return and threatened fortified house
+  summary: The Caribs return in greater force. The old chief says each slain warrior
+    will bring ten more, finds few helpers, and declares that the place is lost but
+    the Caribs will pay dearly.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: scout warning before enemy attack
+  taxonomy_refs: []
+  basis: A breathless scout arrives with news that the Caribs are approaching to kill
+    the assembled people.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a narrative action pattern, not matched to an available taxonomy
+    motif family.
+- id: motif:2
+  label: ambush of an unwary enemy at a river landing
+  taxonomy_refs: []
+  basis: The warriors hide among trees at the Cuyuni while the Caribs land, eat, and
+    rest without scouts or watch, then attack suddenly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader comparative claim is made from this passage alone.
+- id: motif:3
+  label: weapons left away from surprised warriors
+  taxonomy_refs: []
+  basis: The surviving Caribs flee back to their flotilla, and the passage states
+    that their weapons are there.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives this detail briefly; its narrative function should be
+    reviewed.
+- id: motif:4
+  label: blood-defiled water after slaughter
+  taxonomy_refs: []
+  basis: After the battle, the warriors go upriver to bathe in clear water because
+    the water below is defiled with dead bodies and blood.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a literal image in the passage; symbolic interpretation beyond
+    pollution/aftermath is not asserted.
+- id: motif:5
+  label: enemy returns in multiplied revenge
+  taxonomy_refs: []
+  basis: The chief says that for each warrior slain, the Caribs will bring ten when
+    they come again.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This pattern is not linked to a supplied taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6219-6223
+  quote_or_summary: A breathless scout bade them prepare because the Caribs were on
+    their way and came "the whole of us to slay."
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6224-6231
+  quote_or_summary: The chief calls the news good and says they will save the Caribs
+    half their walk by meeting them midway.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6232-6238
+  quote_or_summary: The warriors go to the Cuyuni, see the foe approaching before
+    the breeze, and observe frail but numerous barques drawing near.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6239-6248
+  quote_or_summary: The warriors hide among the trees and watch the Caribs land, recline
+    on the strand, eat, rest, and keep no scout or watch.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6249-6253
+  quote_or_summary: A fierce cry sounds; the Caribs start up, and fatal darts fly
+    at each man, with one half bearing death-wounds.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 6254-6258
+  quote_or_summary: The others cry out and flee to their flotilla, where their weapons
+    are located.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 6261-6268
+  quote_or_summary: The passage says no mercy is shown and that "Two hundred corpses
+    line the strand."
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 6269-6277
+  quote_or_summary: The warriors go upriver to bathe in clear water, while the lower
+    water is defiled by dead bodies and blood.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 6278-6282
+  quote_or_summary: A new section titled "Siege of the Fortified House" begins; the
+    Caribs return strong and bold, as the old chief had foretold.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: quote
+  locator: lines 6283-6289
+  quote_or_summary: The chief says that for each warrior slain, when the Caribs come
+    again, they "will bring ten."
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:11
+  type: summary
+  locator: lines 6290-6307
+  quote_or_summary: The chief says he can rely only on nearby men; when the foe draws
+    near, few helpers appear, and he declares the place lost but says the Caribs will
+    pay dearly with dead warriors for what they gain.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are descriptive narrative
+    patterns without external comparative claims or supplied motif-family matches.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The passage is a missionary-era English verse retelling, so culture/tradition labels should be reviewed against the source context.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l6217-l6307
+  passage_sha256=7d58681d515f7bd0f2f0f07aa24f3507a3bad4589e733ec951631c075ea294ee
+

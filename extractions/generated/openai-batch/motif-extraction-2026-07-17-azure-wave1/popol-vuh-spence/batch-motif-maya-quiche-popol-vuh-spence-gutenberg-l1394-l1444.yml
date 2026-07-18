@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.maya-quiche-popol-vuh-spence-gutenberg-l1394-l1444
+source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+passage_locator:
+  label: NOTE 3. (PAGE 9) / NOTE 4. (PAGE 13) / NOTE 5. (PAGE 53) / FOOTNOTES; lines
+    1394-1444
+  start: '1394'
+  end: '1444'
+  translation: The Popol Vuh
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'This passage consists of footnotes: definitions and linguistic notes,
+    an etymology for Zipac, place and name notes, bibliographic references, a note
+    on interpolation of the Spanish word “diablo” in a Mexican text, and a note identifying
+    a passage as a descriptive dance emblematic of sunrise.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Large hollowed stones are defined as implements used by women for bruising
+    maize.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Kich words “holi, holi, huqi, huqi” are described as onomatopoetic.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Zipac is said to signify “Cockspur,” and the note also takes the name to signify
+    “Thrower-up of earth.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One referenced location is identified as near Vera Paz.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hurakan is given as a footnote entry without further explanation in this passage.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Several footnotes list bibliographic or comparative references, including
+    Mackenzie, Schoolcraft, Cushing, Oviedo, Sahagun, Brinton, Loskiel, and others.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Spanish word “diablo” is said to have been interpolated into a Mexican
+    text by Mexican scribes, and the note states that no Mexican word for “devil”
+    exists.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The same note says the scribe was under priestly influence.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A referenced passage is identified as applying to a descriptive dance emblematic
+    of sunrise.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women are mentioned as users of large hollowed stones for bruising
+    maize.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Zipac
+  description: A name glossed as “Cockspur” and also interpreted in the note as “Thrower-up
+    of earth.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mexican scribes
+  description: Scribes said to have interpolated the Spanish word “diablo” into a
+    Mexican text.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: the scribe
+  description: A scribe described as being under priestly influence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: maize-bruising implement users
+  assigned_to:
+  - fig:1
+  basis: The footnote defines the stones as used by women for bruising maize.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named subject of etymology
+  assigned_to:
+  - fig:2
+  basis: The note explains the meaning or interpretation of the name Zipac.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: interpolating scribes
+  assigned_to:
+  - fig:3
+  basis: The note attributes interpolation of “diablo” to Mexican scribes.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: scribe under priestly influence
+  assigned_to:
+  - fig:4
+  basis: The note states that the scribe was under priestly influence.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sunrise emblem
+  literal_form: a descriptive dance emblematic of sunrise
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sunrise dance reference
+  summary: A referenced passage is characterized in the footnote as a descriptive
+    dance representing sunrise.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: descriptive dance emblematic of sunrise
+  taxonomy_refs: []
+  basis: The footnote explicitly interprets a passage as applying to a descriptive
+    dance emblematic of sunrise.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The underlying passage being interpreted is not included in this line
+    range; no broader ritual or narrative function is stated here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: footnote [2]
+  quote_or_summary: Large hollowed stones are used by women for bruising maize.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:2
+  type: quote
+  locator: footnote [3]
+  quote_or_summary: The Kich words are onomatopoetic—“holi, holi, huqi, huqi.”
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:3
+  type: summary
+  locator: footnote [4]
+  quote_or_summary: Zipac signifies “Cockspur,” and the note also takes the name to
+    signify “Thrower-up of earth.”
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:4
+  type: quote
+  locator: footnote [5]
+  quote_or_summary: Near Vera Paz.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:5
+  type: quote
+  locator: footnote [6]
+  quote_or_summary: Hurakan.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:6
+  type: summary
+  locator: footnotes [7]-[19]
+  quote_or_summary: The notes cite external works and authors, including Mackenzie,
+    Schoolcraft, Cushing, Oviedo, Sahagun, Brinton, Loskiel, Relations de la Nouvelle
+    France, Fewkes, and others.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:7
+  type: summary
+  locator: footnote [20]
+  quote_or_summary: The Spanish word “diablo” is said to have been interpolated by
+    Mexican scribes; the note states that no Mexican word for “devil” exists and that
+    the scribe was under priestly influence.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:8
+  type: quote
+  locator: footnote [21]
+  quote_or_summary: This passage obviously applies to a descriptive dance emblematic
+    of sunrise.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; excerpt supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on explicit footnote content. Motif extraction is
+    limited because the passage is mainly notes and citations rather than the underlying
+    narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the footnotes list sources but do not state a specific comparative motif relationship within the supplied passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:maya-quiche-popol-vuh-spence-gutenberg__l1394-l1444
+  passage_sha256=19de713d4dc5164efc137f49d707df7a0d61dbf2893db08d14dc944d81136e3b
+

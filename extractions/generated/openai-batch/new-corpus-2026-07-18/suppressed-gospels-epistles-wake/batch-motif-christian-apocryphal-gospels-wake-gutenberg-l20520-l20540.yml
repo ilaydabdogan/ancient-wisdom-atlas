@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l20520-l20540
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER IV. / VISION I. / VISION II. / VISION III.; lines 20520-20540
+  start: '20520'
+  end: '20540'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“a bench has four feet, and stands strongly”"
+  summary: The passage interprets a female figure seated on a bench as signifying
+    a strong position, links the bench’s four feet with the world upheld by four elements,
+    states that perfect repentance brings youth and establishment, and closes by saying
+    the revelation is complete unless more is later made manifest.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female figure had been seen sitting upon a bench.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bench is described as having four feet and standing strongly.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The world is said to be upheld by four elements.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Those who repent perfectly are said to become young.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Those who turn from their sins with their whole heart are said to be established.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The addressee is told that the revelation is fully given and to ask for no
+    further revelation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage allows that any further revelation, if it is to occur, will be
+    made manifest to the addressee.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: female figure seated on a bench
+  description: A female figure referred to as “her” is described as having been seen
+    sitting upon a bench.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: addressee
+  description: A second-person addressee is told what the seated figure denotes and
+    is instructed not to ask for more revelation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: repentant people
+  description: People who repent perfectly or turn from sins with their whole heart
+    are described as becoming young and established.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: seated visionary figure
+  assigned_to:
+  - fig:1
+  basis: The passage refers to a female figure who was seen sitting upon a bench.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of revelation and instruction
+  assigned_to:
+  - fig:2
+  basis: The addressee is told the interpretation of the vision and told not to seek
+    further revelation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: repentant recipients of renewal and establishment
+  assigned_to:
+  - fig:3
+  basis: Those who repent perfectly or turn from sins wholeheartedly are promised
+    youth and establishment.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bench as strong position
+  literal_form: bench with four feet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: four elements supporting the world
+  literal_form: the world upheld by four elements
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: youth after repentance
+  literal_form: the repentant shall be young
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: completed revelation
+  literal_form: the Revelation fully given, with further manifestation only if it
+    is to be revealed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: interpretation of the seated figure and bench
+  summary: The seated female figure is interpreted as denoting a strong position because
+    the bench has four feet and stands strongly, in analogy with the world upheld
+    by four elements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: promise attached to perfect repentance
+  summary: People who repent perfectly or turn from sins with their whole heart are
+    said to become young and established.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: closure of the revelation
+  summary: The addressee is told that the revelation is complete, not to ask for more,
+    and that any further revelation will be made manifest if it is to occur.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: fourfold stability as support of the world
+  taxonomy_refs: []
+  basis: The bench’s four feet are explained as the reason it stands strongly, and
+    this is compared within the passage to the world upheld by four elements.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a local interpretation of fourfold stability but does
+    not explicitly identify a broader named mythic motif.
+- id: motif:2
+  label: repentance producing renewal and establishment
+  taxonomy_refs:
+  - death_rebirth
+  basis: Perfect repentance is said to make people young, and wholehearted turning
+    from sin is said to establish them.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The association with death_rebirth is interpretive; the passage states
+    youth and establishment, not an explicit death-and-return narrative.
+- id: motif:3
+  label: controlled or completed revelation
+  taxonomy_refs:
+  - wisdom
+  basis: The addressee is told the revelation is fully given, to ask for nothing further,
+    and that additional revelation will appear only if it is to be revealed.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns revelation and instruction, but it does not elaborate
+    a full wisdom quest or esoteric teaching cycle within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20520-20527; section 130
+  quote_or_summary: "“you saw her sitting upon a bench, it denotes a strong position;
+    because a bench has four feet, and stands strongly. And even the world itself
+    is upheld by the four elements.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 20528-20532; section 131
+  quote_or_summary: "“They therefore that repent perfectly, shall be young; and they
+    that turn from their sins with their whole heart, shall be established.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 20533-20540; sections 132-133
+  quote_or_summary: The addressee is told that the revelation is complete, not to
+    ask for anything further, and that any future revelation will be made manifest
+    if it is to occur.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the excerpt provides symbolic interpretation but does not name broader motif families.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where cautiously supported by the excerpt.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l20520-l20540
+  passage_sha256=4f51e0d5ae9424936fe62a9b6dc3ad59fd7de92f8b0c1cce99adf4246a4520a8
+

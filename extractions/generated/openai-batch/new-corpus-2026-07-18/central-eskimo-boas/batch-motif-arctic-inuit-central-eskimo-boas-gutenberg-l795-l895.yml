@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l795-l895
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE CENTRAL ESKIMO. / INTRODUCTION. / AUTHORITIES QUOTED. / ORTHOGRAPHY.;
+    lines 795-895
+  start: '795'
+  end: '895'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys the orography, geology, mountains, plateaus, fjords,
+    lakes, shallow seas, ice caps, and glaciers of western Hudson Bay, Melville Peninsula,
+    Baffin Land, Cumberland Peninsula, and nearby regions. It concludes that winter
+    land ice is vital for Arctic inhabitants because it enables communication between
+    tribes, affects seal distribution, and thereby regulates much of the seasonal
+    distribution of the Eskimo.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Much of the western coast of Hudson Bay is described as hilly granite land,
+    with granite hills serving as a favored haunt for musk ox and reindeer.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Melville Peninsula and northeastern Baffin Land are described as chains or
+    groups of granite hills and mountains divided by fjords and deep valleys.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Penny Highland is described as a vast highland covered by an ice cap that
+    sends glaciers in every direction, with some glaciers reaching sea level.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several named highlands and peninsulas are described in terms of ice cover,
+    peaks, slopes, geology, and relation to the sea.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:5
+  text: The peninsula between Cumberland Sound and Frobisher Bay is described as a
+    plateau drained by a great river, with Lake Nettilling lying low above sea level
+    and a narrow watershed neck near Nettilling Fjord.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The land includes large lakes, a long river, shallow sea areas, low islands,
+    plains, and a broad basin of Silurian strata bordered by granitic elevations.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Winter land ice is said to be vital to Arctic inhabitants because it provides
+    a means of communication between tribes during much of the year.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The seal is described as the principal food of the Eskimo and as moving in
+    winter to coastal areas where extensive floes form.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The state of the ice is said to regulate the distribution of the natives during
+    much of the year.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The extent of land ice is said to depend chiefly on the configuration of the
+    land and the strength of currents; on shores with strong currents, extensive floes
+    form where projecting land creates deep bays.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Eskimo inhabitants / natives
+  description: The passage refers to the Eskimo as inhabitants of the Arctic region
+    whose movement, food supply, and distribution are affected by winter land ice;
+    it also cites Eskimo reports as geographic information.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Seal
+  description: The seal is described as the principal food of the Eskimo and as taking
+    to coastal areas with extensive floes in winter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: Musk ox and reindeer
+  description: The granite hills are described as a favorite haunt for musk ox and
+    reindeer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Captain Spicer of Groton, Connecticut
+  description: The passage mentions observations by Captain Spicer as one source for
+    information about the shallow eastern part of Fox Basin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Arctic inhabitants
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the inhabitants of the Arctic region in relation to
+    the vital importance of land ice.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: Seasonal travelers between tribes
+  assigned_to:
+  - fig:1
+  basis: Winter land ice is described as the only means of communication between tribes
+    during much of the year.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: Geographic informants
+  assigned_to:
+  - fig:1
+  basis: The author cites Eskimo reports and information obtained from the Eskimo
+    for geographic conclusions.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: Principal food animal
+  assigned_to:
+  - fig:2
+  basis: The passage states that the seal constitutes the principal food of the Eskimo.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: Animals associated with granite hills
+  assigned_to:
+  - fig:3
+  basis: The granite hills are described as a favorite haunt for musk ox and reindeer.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Observer cited as source
+  assigned_to:
+  - fig:4
+  basis: The passage cites observations made by Captain Spicer concerning Fox Basin.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Mountains and highlands
+  literal_form: Chains of granite hills, mountains, highlands, plateaus, and peaks
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Ice cap, glaciers, and winter land ice
+  literal_form: Ice cap, glaciers reaching the sea, winter land ice, floes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: Fjords, bays, lakes, rivers, and sea
+  literal_form: Fjords, Cumberland Sound, Frobisher Bay, Lake Nettilling, Amaqdjuaq,
+    Koukdjuaq, Fox Basin, sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: Narrow isthmus and watershed neck
+  literal_form: Narrow neck of land and isthmus used in relation to watersheds or
+    kayak carrying routes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Granite and Silurian strata
+  literal_form: Granite hills, gneiss and granite, Silurian limestone, Silurian strata
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Survey of western Hudson Bay and northern Baffin-region landforms
+  summary: The passage describes hilly granite coasts, mountain chains, fjords, valleys,
+    islands, and animal haunts across western Hudson Bay, Melville Peninsula, and
+    northeastern Baffin Land.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ice-covered Cumberland Peninsula highlands
+  summary: The passage describes Penny Highland and neighboring highlands as ice-covered
+    uplands with glaciers, peaks, slopes, and uncertain or varied geology.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Plateaus, lakes, rivers, and low basins of southern Baffin Land
+  summary: The passage describes plateaus, low lake country, a watershed neck, a kayak-carrying
+    isthmus, large lakes, rivers, shallow seas, low islands, and a Silurian basin
+    bordered by granitic elevations.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Winter land ice governing communication, seal habitat, and native distribution
+  summary: The passage explains that winter land ice enables communication between
+    tribes, attracts seals to floe-forming coasts, and regulates the distribution
+    of the Eskimo according to land configuration and currents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Seasonal ice cycle shaping movement and subsistence
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that land ice forms during winter, enables communication
+    between tribes for much of the year, affects where seals go, and regulates the
+    distribution of the natives.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is an ethnographic and environmental pattern, not a mythic narrative;
+    no sacred or cosmological meaning is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 795-802
+  quote_or_summary: Western Hudson Bay is described as mostly hilly granite land;
+    chains of hills are noted, and granite hills are called a favorite haunt for musk
+    ox and reindeer.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 804-816
+  quote_or_summary: Melville Peninsula and northeastern Baffin Land are described
+    as granite hills and mountain chains divided by long fjords, deep valleys, islands,
+    and smaller mountain groups.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 818-829
+  quote_or_summary: Penny Highland is described as an enormous highland extending
+    toward Cumberland Sound, covered by an ice cap that sends many glaciers outward,
+    some reaching sea level.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 831-846
+  quote_or_summary: The passage describes named mountain groups and highlands of Cumberland
+    Peninsula, including ice-covered plateaus, sharp peaks, slopes toward the sea,
+    and geological composition of gneiss, granite, and possible Silurian strata.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 848-857
+  quote_or_summary: The peninsula between Cumberland Sound and Frobisher Bay is described
+    as a northwest-sloping plateau drained by a great river; Lake Nettilling is low,
+    and a narrow neck of land forms a watershed near Nettilling Fjord.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 859-871
+  quote_or_summary: Using Eskimo reports, the author describes Nugumiut as comparatively
+    level, Meta Incognita as an ice-covered granite highland with glaciers, and a
+    low isthmus where Eskimo carry kayaks to a lake.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 873-883
+  quote_or_summary: The passage describes King Cape highlands, plains with large lakes,
+    the rivers from Amaqdjuaq and Nettilling to the sea, shallow eastern Fox Basin
+    with low islands, and a broad Silurian basin bordered by granitic elevations;
+    it cites Captain Spicer and Eskimo information.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 885-895
+  quote_or_summary: Winter land ice is described as vital because it enables communication
+    between tribes, affects winter seal habitat, and regulates the distribution of
+    natives; ice extent depends on land configuration and currents, with floes forming
+    in deep bays behind projecting land.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive geography and ethnography rather than mythic narrative.
+    Literal geographic and seasonal-subsistence patterns are clear; motif classification
+    is limited to a cautious seasonal-cycle pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the described pattern to other traditions or motif families beyond its own environmental description.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l795-l895
+  passage_sha256=a583441d0f576706b065adeaf5a4b10ead0f6c4b5394cc15b73206a2fb74b098
+

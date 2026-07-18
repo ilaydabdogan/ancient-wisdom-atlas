@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l50823-l50850
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXI. Ocean Threatened. / Canto XXII. Ocean Threatened. / Canto XXIII.
+    The Omens. / Canto XXVIII. The Chieftains.; lines 50823-50850
+  start: '50823'
+  end: '50850'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“With rocks and shattered mountains he / Has bridged his way athwart the
+    sea”"
+  summary: Śárdúla reports to the Giant King that spying on Ráma’s forces has failed
+    because the army is strongly guarded. He says he was captured, wounded, brought
+    before Ráma, and released by Ráma’s mercy. He reports that Ráma has bridged the
+    sea with rocks and shattered mountains and now waits with his army near Lanká’s
+    gate. Śárdúla advises the king either to yield Ráma’s consort, the Maithil queen,
+    or prepare for battle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Śárdúla speaks in trembling, weak tones to the Giant King.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Śárdúla says attempts to spy on the foe’s purpose, strength, and number are
+    unsuccessful.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ráma guards his legions, denies parley with the chiefs, and has roads and
+    paths barred by mountain-sized Vánar guards.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Śárdúla says he was seized, bound, wounded, and led trembling and bleeding
+    to Ráma.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ráma saves Śárdúla and gives freedom to the captive.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ráma has made a bridge across the sea using rocks and shattered mountains.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Ráma and his legions wait armed near Lanká’s gate and are expected to attack
+    the wall and scale the rampart.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Śárdúla advises the king to yield Ráma’s consort or arm himself for battle,
+    framing the choice as safety versus the Maithil queen.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Śárdúla
+  description: Speaker who reports failed espionage, capture, injury, release, and
+    the enemy army’s position.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Giant King
+  description: The king addressed by Śárdúla and advised to yield the Maithil queen
+    or prepare for battle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:3
+  name_or_label: Ráma
+  description: Leader who guards his legions, refuses access to spies, releases Śárdúla,
+    bridges the sea, and waits near Lanká’s gate with his army.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Vánar guards
+  description: Mountain-sized guards who close and bar each road and path.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ráma’s legions or host
+  description: Army guarded by Ráma and waiting near Lanká’s gate for assault.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: Maithil queen
+  description: Ráma’s consort whom the Giant King is told to yield.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: reporting scout
+  assigned_to:
+  - fig:1
+  basis: Śárdúla reports the failure of spying on the foe and describes what happened
+    after capture.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: released captive
+  assigned_to:
+  - fig:1
+  basis: He is described as seized, bound, wounded, brought to Ráma, and then freed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: besieged ruler addressed with ultimatum
+  assigned_to:
+  - fig:2
+  basis: The speaker addresses him as king and presents a choice between yielding
+    the Maithil queen or preparing for combat.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: enemy commander
+  assigned_to:
+  - fig:3
+  basis: Ráma guards the legions, controls access to the chiefs, and waits with the
+    host near Lanká’s gate.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:5
+  label: merciful releaser of captive
+  assigned_to:
+  - fig:3
+  basis: Ráma saves the captive and grants freedom.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: builder of sea crossing
+  assigned_to:
+  - fig:3
+  basis: He has bridged his way across the sea with rocks and shattered mountains.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: guards of the approaches
+  assigned_to:
+  - fig:4
+  basis: Vánar guards of mountain size close and bar each road and path.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: besieging army
+  assigned_to:
+  - fig:5
+  basis: The host waits near Lanká’s gate and is expected to assault the wall and
+    scale the rampart.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: contested consort
+  assigned_to:
+  - fig:6
+  basis: The king is told to yield Ráma’s consort, identified as the Maithil queen.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The sea crossed by Ráma’s bridge.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: rocks and shattered mountains
+  literal_form: Rocks and shattered mountains used to bridge the sea.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Lanká’s gate, wall, and rampart
+  literal_form: The defended gate, wall, and rampart where the army waits to attack.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: sword and shield
+  literal_form: Weapons named as the alternative to yielding the Maithil queen.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Śárdúla reports failed espionage
+  summary: Śárdúla tells the Giant King that the foe’s strength and number cannot
+    be discovered because Ráma’s forces are guarded and the roads are blocked.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Captured spy released by Ráma
+  summary: Śárdúla recounts being seized, bound, wounded, brought before Ráma, and
+    then freed by Ráma’s mercy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Sea bridged and army at Lanká
+  summary: Ráma has bridged the sea with rocks and shattered mountains, and he and
+    his legions wait near Lanká’s gate to assault the defenses.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Ultimatum over the Maithil queen
+  summary: Śárdúla advises the Giant King to yield Ráma’s consort or arm for combat,
+    presenting a choice between safety and the Maithil queen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: recovery campaign for a stolen or withheld beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The military threat is explicitly tied to the king’s refusal to yield Ráma’s
+    consort, the Maithil queen.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage names the consort and ultimatum but does not narrate the original
+    taking of the queen within this excerpt.
+- id: motif:2
+  label: heroic army crosses water by constructed bridge
+  taxonomy_refs: []
+  basis: Ráma has bridged his way across the sea with rocks and shattered mountains
+    and has brought his legions to Lanká’s gate.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly corresponds to sea-bridge construction;
+    symbol references to water and mountain are literal.
+- id: motif:3
+  label: merciful release of captured spy or enemy agent
+  taxonomy_refs: []
+  basis: Śárdúla describes being captured and wounded, then saved and freed by Ráma.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents release of a captive, but does not elaborate a broader
+    ritual or legal pattern.
+- id: motif:4
+  label: siege ultimatum before assault
+  taxonomy_refs: []
+  basis: The army waits near Lanká’s gate, the host is expected to attack the wall,
+    and the king is urged to choose between surrendering the queen and armed battle.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a narrative military pattern rather than one of the supplied named
+    motif families.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the supplied stolen_beloved motif family at the level of
+    narrative function: the looming assault is framed around the demand that the king
+    return Ráma’s consort, the Maithil queen.'
+  claim_level: same_motif
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt itself does not narrate the abduction or prior loss of
+    the queen; it only states the demand that she be yielded.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 50823-50825
+  quote_or_summary: "“Śárdúla heard, but scarce might speak; / His trembling tones
+    were faint and weak: / ‘O Giant King’”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 50825-50828
+  quote_or_summary: "“in vain we try / The purpose of the foe to spy. / Their strength
+    and number none may tell”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 50828-50832
+  quote_or_summary: Ráma guards his legions, denies parley with chiefs, and has every
+    road and path closed by mountain-sized Vánar guards.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 50833-50838
+  quote_or_summary: Śárdúla says he entered, was seized and bound, wounded by blows
+    and teeth, and led trembling and bleeding to Ráma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 50839-50840
+  quote_or_summary: "“He in his mercy stooped to save, / And freedom to the captive
+    gave.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 50841-50842
+  quote_or_summary: "“With rocks and shattered mountains he / Has bridged his way
+    athwart the sea”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 50843-50846
+  quote_or_summary: Ráma and his legions wait embattled near Lanká’s gate; the host
+    will soon attack the wall and scale the rampart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summarized for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 50847-50850
+  quote_or_summary: "“his consort yield, / Or arm thee with the sword and shield.
+    / This choice is left thee: choose between / Thy safety and the Maithil queen.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the reported actions, figures, and sea-bridge/siege
+    imagery. Motif assignment is strongest for the withheld consort and water-crossing
+    bridge, but broader comparative claims are limited because the excerpt does not
+    include the earlier abduction narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; names and roles not explicit in the excerpt were left generalized.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l50823-l50850
+  passage_sha256=72de56eb704ff6bcba83590aad69808ef8e0c8a83cee89c9b5ecf2e7065e9177
+

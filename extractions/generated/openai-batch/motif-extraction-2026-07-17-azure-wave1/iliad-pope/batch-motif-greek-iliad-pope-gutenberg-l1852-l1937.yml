@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1852-l1937
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1852-1937
+  start: '1852'
+  end: '1937'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a prefatory discussion of translating Homer. It treats Homeric
+    epithets, including a mountain epithet and Apollo's epithet, discusses repetition
+    in speeches and religious forms, comments on sound matching sense in Homer and
+    Virgil, and evaluates earlier verse translations by Chapman, Hobbes, and Ogilby.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some Homeric epithets are said to require circumlocution; the mountain epithet
+    translated literally as leaf-shaking is rendered by a phrase about a lofty mountain
+    shaking its waving woods.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apollo's epithet far-shooting is described as having a literal explanation
+    connected with darts and bow and an allegorical explanation connected with rays
+    of the sun.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker recommends avoiding perpetual repetition of the same epithets
+    while placing them where they gain beauty from context.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Homer's repetitions are divided into whole narrations and speeches, single
+    sentences, and one verse or hemistitch.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Repetition is described as appropriate in speeches involving messages from
+    gods to men, hierarchical state concerns, and solemn religious forms such as prayers
+    and oaths.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Homer is described as applying sound to sense and varying verse with each
+    new subject; Virgil is named as similarly eminent in Latin.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The first-person speaker says he cannot do full justice to Homer but hopes
+    to produce a more tolerable complete verse translation than existing ones by Chapman,
+    Hobbes, and Ogilby.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Chapman's translation is described as loose, rambling, interpolated, sometimes
+    mistaken, interested in hidden meanings, and animated by a daring fiery spirit.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Hobbes is described as generally correct in sense but as cutting particulars,
+    omitting beautiful material, and sometimes making careless mistakes; Ogilby's
+    poetry is also called too mean for criticism.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Named poet and author whose epithets, repetitions, and versification
+    are discussed.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Apollo
+  description: Named god whose epithet far-shooting is explained through darts and
+    bow and through rays of the sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: gods
+  description: Collective divine figures mentioned as senders in messages from gods
+    to men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: men
+  description: Collective human figures mentioned as recipients of messages from gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: first-person translator or critic
+  description: The speaker who states translation choices, comments on Homer, and
+    evaluates previous translators.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Virgil
+  description: Named Latin poet compared with Homer for applying sound to sense.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Chapman
+  description: Named previous translator of Homer whose version is criticized and
+    partly praised for fiery spirit.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Hobbes
+  description: Named previous translator whose version is described as generally correct
+    in sense but contracted and omissive.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:9
+  name_or_label: Ogilby
+  description: Named previous translator whose poetry is grouped with Hobbes's as
+    too mean for criticism.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: source poet under translation
+  assigned_to:
+  - fig:1
+  basis: The passage treats Homer as the author whose epithets, repetitions, and verse
+    are to be translated.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: far-shooting deity and epithet subject
+  assigned_to:
+  - fig:2
+  basis: Apollo's epithet is explicitly discussed as far-shooting, with bow, darts,
+    and solar rays as explanations.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine message sender
+  assigned_to:
+  - fig:3
+  basis: The passage mentions messages from gods to men as a context where exact repetition
+    may be dignified.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: human message recipient
+  assigned_to:
+  - fig:4
+  basis: Men are named as recipients in messages from gods to men.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: poet eminent in sound-sense versification
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The passage names Homer in Greek and Virgil in Latin as eminent for applying
+    sound to sense.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: translator and evaluator
+  assigned_to:
+  - fig:5
+  basis: The first-person speaker states preferred translation choices, claims an
+    attempt at sound-sense beauty, and evaluates earlier versions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:7
+  label: previous verse translator under evaluation
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Chapman, Hobbes, and Ogilby are named as existing complete verse translators
+    and are evaluated.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: mountain with waving woods
+  literal_form: A mountain epithet rendered by the periphrasis "the lofty mountain
+    shakes his waving woods."
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Apollo's darts and bow
+  literal_form: Darts and bow, called the ensigns of Apollo in the literal explanation
+    of far-shooting.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rays of the sun
+  literal_form: Rays of the sun used in the allegorical explanation of Apollo's far-shooting
+    epithet.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: solemn prayers and oaths
+  literal_form: Solemn forms of prayers, oaths, or the like, mentioned as religious
+    ceremonial requiring repetition.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discussion of epithet translation
+  summary: The speaker explains that some epithets need periphrasis and that others,
+    such as Apollo's far-shooting epithet, may be varied according to whether a divine
+    or solar context is intended.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Discussion of formulaic repetition
+  summary: The speaker classifies Homeric repetitions and says exact repetition can
+    be fitting in divine messages, hierarchical speech, and solemn religious forms.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Discussion of sound and sense
+  summary: The speaker describes Homer as adapting sound to sense and identifies Homer
+    and Virgil as rare poets eminent in this technique.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Evaluation of earlier translators
+  summary: The speaker states his own limited hopes for translating Homer and evaluates
+    Chapman, Hobbes, and Ogilby as prior complete verse translators.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: context-dependent divine epithet
+  taxonomy_refs: []
+  basis: Apollo's far-shooting epithet is interpreted differently depending on whether
+    Apollo appears as a god in person or whether solar effects are described.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is an exegetical translation pattern, not a narrated mythic episode.
+- id: motif:2
+  label: formulaic sacred or hierarchical speech
+  taxonomy_refs: []
+  basis: The passage says repetition is suitable in messages from gods to men and
+    in solemn religious forms such as prayers and oaths.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a stylistic and ritual speech pattern rather than
+    recounting a specific divine message or ritual.
+- id: motif:3
+  label: sound mirroring sense in heroic poetry
+  taxonomy_refs: []
+  basis: Homer is described as perpetually applying sound to sense, with Virgil named
+    as an analogous Latin example.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a formal poetic pattern, not a mythological motif family from
+    the supplied taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Homer in Greek and Virgil in Latin as poets
+    eminent for the same sound-to-sense poetic function.
+  claim_level: same_function
+  target: Virgil's Latin poetry as an analogue for sound-to-sense versification
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns poetic technique rather than mythic narrative
+    content.
+- id: claim:2
+  claim: The passage likens Chapman's fiery translation style to what the speaker
+    imagines Homer might have written before reaching mature discretion.
+  claim_level: same_function
+  target: imagined youthful Homeric style
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is a rhetorical evaluation by the speaker and is not an independent
+    historical or motif-comparison claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1852-1858
+  quote_or_summary: The mountain epithet is literally "leaf-shaking" and is rendered
+    as "the lofty mountain shakes his waving woods."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1859-1865
+  quote_or_summary: Apollo's epithet "far-shooting" is explained by "the darts and
+    bow" and by "the rays of the sun."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1866-1872
+  quote_or_summary: The speaker recommends avoiding constant repetition of the same
+    Homeric epithets while placing them where context adds beauty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1874-1888
+  quote_or_summary: Homeric repetitions are classified; repetition is defended in
+    divine messages, hierarchical state speech, and solemn prayers or oaths.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1890-1899
+  quote_or_summary: Homer is said to apply "the sound to the sense"; Homer is eminent
+    for it in Greek and Virgil in Latin.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1901-1905
+  quote_or_summary: The speaker confesses inability to do justice to Homer and names
+    Chapman, Hobbes, and Ogilby as earlier complete verse translators.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1905-1926
+  quote_or_summary: Chapman's version is criticized for looseness, interpolations,
+    errors, strained meanings, and fustian, but credited with a daring fiery spirit.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1928-1937
+  quote_or_summary: Hobbes is described as generally correct in sense but omissive
+    and careless in particulars; Ogilby's poetry is also judged too mean for criticism.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is literary-critical prefatory prose rather than a mythic narrative.
+    Extracted motif candidates are therefore mostly formal or exegetical patterns
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Taxonomy references are limited to the literal mountain symbol supported by the supplied taxonomy.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1852-l1937
+  passage_sha256=f0024400663ec11240d6240945875c3510184e30299a98e7222342adb19590ff
+

@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.biblical-genesis-web-classic-l1764-l1770
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Footnotes / Chapter 26 / Footnotes / Chapter 27; lines 1764-1770
+  start: '1764'
+  end: '1770'
+  translation: Genesis
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“Arise, flee to Laban, my brother, in Haran.”"
+  summary: Rebekah tells her son to flee to her brother Laban in Haran until his brother’s
+    anger passes. She says she will send for him later and fears losing both sons
+    in one day. Rebekah then tells Isaac she is weary because of the daughters of
+    Heth and objects to Jacob taking a wife from the daughters of the land.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A mother addresses her son and commands him to obey her voice, arise, and
+    flee to Laban in Haran.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Laban is identified as the speaker’s brother and is located in Haran.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The son is told to stay with Laban for a few days until his brother’s fury
+    and anger turn away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker expects the angry brother to forget what the son has done to him,
+    after which she will send and retrieve the son.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker asks why she should be bereaved of both sons in one day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Rebekah tells Isaac that she is weary of her life because of the daughters
+    of Heth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Rebekah says that if Jacob takes a wife from the daughters of Heth, or daughters
+    of the land, her life will have no good to her.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Rebekah
+  description: Speaker who addresses her son, refers to Laban as her brother, fears
+    being bereaved of both sons, and later speaks to Isaac about Jacob’s possible
+    marriage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Jacob
+  description: Named as the person whose possible marriage to the daughters of Heth
+    is opposed; he is also the son addressed in the instruction to flee.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Laban
+  description: Rebekah’s brother in Haran, to whom the son is told to flee and with
+    whom he is to stay.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Jacob’s brother
+  description: The brother whose fury and anger are expected to turn away and who
+    is expected to forget what Jacob has done to him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Isaac
+  description: Person to whom Rebekah speaks about the daughters of Heth and Jacob’s
+    possible wife.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Daughters of Heth / daughters of the land
+  description: Collective group named by Rebekah as unsuitable possible wives for
+    Jacob.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mother advising flight
+  assigned_to:
+  - fig:1
+  basis: Rebekah addresses the hearer as “my son” and commands him to flee to Laban.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: marriage objector
+  assigned_to:
+  - fig:1
+  basis: Rebekah objects to Jacob taking a wife from the daughters of Heth or daughters
+    of the land.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: son instructed to flee
+  assigned_to:
+  - fig:2
+  basis: The addressed son is told to arise and flee; Jacob is named in the same passage
+    as the son whose marriage is under discussion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: maternal brother and refuge host
+  assigned_to:
+  - fig:3
+  basis: Laban is called Rebekah’s brother in Haran, and Jacob is told to stay with
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: angry brother
+  assigned_to:
+  - fig:4
+  basis: The brother’s fury and anger are described as needing to turn away.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: recipient of Rebekah’s complaint
+  assigned_to:
+  - fig:5
+  basis: Rebekah speaks to Isaac about her weariness and Jacob’s possible marriage.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: undesired marriage group
+  assigned_to:
+  - fig:6
+  basis: Rebekah says Jacob taking a wife from this group would make her life no good
+    to her.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Instruction to flee to Haran
+  summary: Rebekah instructs her son to flee to her brother Laban in Haran and stay
+    there until his brother’s anger passes; she says she will later send for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Complaint about possible marriage to local daughters
+  summary: Rebekah tells Isaac that she is weary because of the daughters of Heth
+    and objects to Jacob marrying from the daughters of the land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Flight to a relative as temporary refuge
+  taxonomy_refs:
+  - departure
+  basis: The son is commanded to flee to Laban in Haran and stay there until his brother’s
+    anger subsides.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the instruction to depart but does not narrate the actual
+    departure within this excerpt.
+- id: motif:2
+  label: Sibling anger requiring separation
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage centers on a brother’s fury and anger toward the son and the
+    mother’s fear of being bereaved of both in one day.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The angry brother is not named in the excerpt, and the exact prior act
+    is only referred to as what the son has done to him.
+- id: motif:3
+  label: Avoidance of marriage with local daughters
+  taxonomy_refs: []
+  basis: Rebekah objects to Jacob taking a wife from the daughters of Heth or daughters
+    of the land.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage records Rebekah’s objection but does not provide a broader
+    explanation beyond her weariness of life.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1764-1765 / verse 43
+  quote_or_summary: Rebekah tells her son to obey her voice, arise, and flee to Laban,
+    her brother, in Haran.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1766-1768 / verses 44-45
+  quote_or_summary: The son is told to stay with Laban until his brother’s fury and
+    anger turn away and the brother forgets what was done to him; Rebekah says she
+    will send for him and asks why she should be bereaved of both sons in one day.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1769-1770 / verse 46
+  quote_or_summary: Rebekah tells Isaac she is weary of life because of the daughters
+    of Heth and says that if Jacob takes a wife from the daughters of Heth or daughters
+    of the land, her life will have no good to her.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Figure and scene extraction is direct from the passage. Motif candidates
+    are limited to patterns evident in the excerpt; no cross-text comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No symbols were extracted because the passage does not foreground a symbolic object from the available taxonomy.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-genesis-web-classic__l1764-l1770
+  passage_sha256=8836b5c13196deb8913036d05ea7c38de1983469195f26a0522a8eb2fa94d9c3
+

@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l68-l146
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: A PRELIMINARY DISCOURSE, / BY GEORGE SALE. / ONE OF THE LORDS OF HIS MAJESTY'S
+    MOST HONOURABLE PRIVY COUNCIL. / MY LORD,; lines 68-146
+  start: '68'
+  end: '146'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: George Sale dedicates his English translation of the Koran to Lord Carteret.
+    He argues that Mohammed, though rejected by Christians as claiming a divine mission
+    and using imposture to establish a new religion, should be considered alongside
+    other ancient lawgivers because he gave the Arabs laws and a religion centered
+    on one God and opposition to idolatry. Sale contrasts Mohammed with Moses and
+    Jesus, whose laws he says came from Heaven, and compares him more closely with
+    Minos and Numa. He frames knowledge of laws and constitutions as useful learning
+    and asks Carteret to receive the work favorably.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a dedication from George Sale to John Lord Carteret introducing
+    a translation of the Koran.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:2
+  text: The author says founders of states and institutors of laws are generally honored
+    for making peoples prosperous and considerable.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author says Mohammed has been treated differently by those who do not
+    acknowledge his claim to a divine mission, especially Christians.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author says the Arab conquests brought calamities on many nations and
+    may raise indignation against the person who formed the Arabs to empire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author states that Mohammed gave a new system of religion and used an
+    imposture to establish it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author says Mohammed gave the Arabs religion and laws, and that these
+    were preferable at least to those of ancient pagan lawgivers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage distinguishes Mohammed from Moses and Jesus Christ by stating
+    that the laws of Moses and Jesus came from Heaven.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage compares Mohammed with Minos and Numa as lawgiver figures.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The author describes Mohammed's religion as acknowledging one true God and
+    destroying idolatry.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The author presents knowledge of the laws and constitutions of civilized nations
+    as a useful part of knowledge.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: George Sale
+  description: Translator and author of the dedication and preliminary discourse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: John Lord Carteret
+  description: The dedicatee, addressed as a lord and privy councillor, praised for
+    discernment, learning, virtues, and merit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Mohammed
+  description: Described as the legislator of the Arabs, founder of a new religious
+    system, giver of laws, and claimant to a divine mission.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Arabs / Arabians
+  description: A people associated with Mohammed's legislation, conquests, empire,
+    religion, and laws.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Christians
+  description: Named among those who do not acknowledge Mohammed's claim to a divine
+    mission and who especially treat him negatively.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Moses
+  description: Named as a lawgiver whose laws are said by the author to have come
+    really from Heaven.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Jesus Christ
+  description: Named as a lawgiver whose laws are said by the author to have come
+    really from Heaven.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Minos
+  description: Named as an ancient lawgiver with whom the author says Mohammed may
+    be compared in respect.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Numa
+  description: Named as an ancient lawgiver with whom the author says Mohammed may
+    be compared in respect.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dedicator and translator
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Sale as the translator and ends with his signature
+    as the sender of the dedication.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: honored patron and dedicatee
+  assigned_to:
+  - fig:2
+  basis: The dedication is addressed to Lord Carteret and praises his discernment,
+    learning, virtues, and merit.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:3
+  label: legislator of the Arabs
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly calls Mohammed the legislator of the Arabs and says
+    he gave them laws.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: religious founder claiming divine mission
+  assigned_to:
+  - fig:3
+  basis: The passage says Mohammed claimed a divine mission and gave a new system
+    of religion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: people formed to empire
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the Arab conquests and to Mohammed as forming the Arabians
+    to empire.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: critics of Mohammed's divine mission claim
+  assigned_to:
+  - fig:5
+  basis: The passage says Christians especially do not acknowledge Mohammed's claim
+    to a divine mission and treat him negatively.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: heavenly lawgiver
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage says the laws of Moses and Jesus Christ came really from Heaven.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: ancient pagan lawgiver
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The passage names Minos and Numa in contrast to Moses and Jesus, in a discussion
+    of ancient pagan lawgivers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Heaven as source of law
+  literal_form: Heaven
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: one true God
+  literal_form: one true God
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: idolatry opposed or destroyed
+  literal_form: idolatry
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dedication of the translation to Lord Carteret
+  summary: Sale addresses Lord Carteret, explains why a translation of the Koran may
+    need defense, and presents the work to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Assessment of Mohammed as lawgiver and religious founder
+  summary: Sale discusses Mohammed's treatment by critics, the effects of Arab conquests,
+    Mohammed's founding of a new religion, and his giving of laws to the Arabs.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Comparative ranking of lawgivers
+  summary: Sale contrasts Mohammed with Moses and Jesus, whose laws he says came from
+    Heaven, while comparing him with Minos and Numa among ancient lawgivers.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Founding lawgiver who gives a people religion and laws
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage identifies Mohammed as the legislator of the Arabs and says he
+    gave them religion and laws, while also discussing founders of states and institutors
+    of laws.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an eighteenth-century editorial assessment rather than a mythic
+    narrative; the taxonomy link to culture_hero is functional and should be reviewed.
+- id: motif:2
+  label: Claimed divine mission and heavenly law
+  taxonomy_refs: []
+  basis: The passage says Mohammed was treated negatively by those rejecting his claim
+    to a divine mission and contrasts him with Moses and Jesus, whose laws are said
+    to have come from Heaven.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage reports and evaluates claims about authority; it does not
+    narrate a revelation scene.
+- id: motif:3
+  label: Monotheistic reform against idolatry
+  taxonomy_refs: []
+  basis: The passage describes Mohammed's new religion as founded on acknowledgment
+    of one true God and destruction of idolatry.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is Sale's characterization within a preface, not a quoted scriptural
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats Mohammed, Moses, Jesus, Minos, and Numa as comparable
+    in the broad function of lawgiving, while distinguishing the claimed source and
+    legitimacy of their laws.
+  claim_level: same_function
+  target: 'lawgiver figures: Moses, Jesus Christ, Minos, and Numa'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is Sale's evaluative framing and does not establish
+    historical contact, common inheritance, or identical narrative motifs.
+- id: claim:2
+  claim: The passage compares Mohammed more closely with Minos and Numa than with
+    Moses or Jesus because it denies Mohammed the same heavenly status assigned to
+    Moses and Jesus while granting him respect as a lawgiver.
+  claim_level: same_function
+  target: ancient pagan lawgivers Minos and Numa
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to legislative and religious-founding function
+    within the author's argument.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 68-96
+  quote_or_summary: Title and dedication material identify the work as Sale's English
+    translation of the Koran, with a preliminary discourse addressed to the Right
+    Hon. John Lord Carteret.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 98-107
+  quote_or_summary: Sale says founders of states and institutors of laws are generally
+    honored, but Mohammed, called the legislator of the Arabs, is treated differently
+    by those who reject his claim to a divine mission, especially Christians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 109-118
+  quote_or_summary: Sale connects indignation against Mohammed to Arab conquests,
+    describes him as forming the Arabians to empire, and says he established a new
+    religion through imposture.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 119-131
+  quote_or_summary: Sale says Mohammed gave Arabs religion and laws, contrasts him
+    with Moses and Jesus whose laws came from Heaven, compares him with Minos and
+    Numa, and describes his religion as acknowledging one true God and destroying
+    idolatry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 133-142
+  quote_or_summary: Sale describes knowledge of laws and constitutions as useful,
+    praises Carteret's learning, and says the law of Mohammed has been neglected due
+    to odium and language.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 144-146
+  quote_or_summary: Sale closes by wishing Carteret honor and happiness and signs
+    as his humble and obedient servant.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is not a mythic narrative but a translator's dedication and evaluative
+    preface. Literal extraction is strong; motif assignments are functional and require
+    human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were used because the passage does not contain the listed symbols cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l68-l146
+  passage_sha256=22b719d3a21094e4e6ca3c57dde82d957cba2b1b16c76811c52a846f6297c656
+

@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l713-l797
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: CONTENTS / INTRODUCTION / C. E. G. / THE LADY OF THE FOUNTAIN; lines 713-797
+  start: '713'
+  end: '797'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Owain views a grand funeral procession for the man he killed and sees the
+    grieving Countess of the Fountain, with whom he immediately falls in love. Luned
+    identifies the Countess, washes and serves Owain, then goes to the Countess to
+    argue that she needs a new defender for her fountain and dominions, preferably
+    a knight from Arthur's household.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Owain opens a chamber window and sees the streets filled with armed hosts,
+    women, ecclesiastics singing, trumpets, and loud cries.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bier in the procession is covered with a white linen veil, surrounded by
+    burning wax tapers, and supported by powerful barons.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A lady follows the bier with yellow hair stained with blood, a torn yellow
+    satin dress, and loud cries while striking her hands together.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Owain becomes filled with love for the grieving lady as soon as he sees her.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The maiden identifies the grieving lady as her mistress, the Countess of the
+    Fountain, and the wife of the man Owain slew the previous day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The maiden says the Countess is fair, chaste, liberal, wise, and noble, and
+    tells Owain that the Countess will also love him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The maiden kindles a fire, warms water, washes Owain's head, shaves his beard,
+    dries him, and brings him food.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After serving Owain, the maiden tells him to sleep while she goes to woo for
+    him, then leaves for the Castle.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At the Castle, the Countess is in her chamber in such grief that she cannot
+    bear the sight of anyone and at first does not answer Luned.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Luned challenges the Countess's mourning by saying she cannot regain the dead
+    man and that another man could be as good as or better than he was.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:11
+  text: The Countess threatens Luned with execution or banishment for the comparison,
+    but then beckons her back and asks what is to her advantage.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Luned says the Countess cannot preserve her possessions without warfare and
+    arms, cannot maintain her dominions unless the fountain is defended, and needs
+    a knight of Arthur's household to defend it.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Owain
+  description: A man in a chamber who sees the funeral procession, is identified as
+    having slain the Countess's husband, falls in love with the Countess, and receives
+    washing, shaving, and food from the maiden.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Luned / the maiden
+  description: The Countess's maid or attendant; she identifies the Countess, tends
+    to Owain, says she will woo for him, and advises the Countess to seek a defender.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: The Countess of the Fountain
+  description: The grieving lady following the bier; she is named as the Countess
+    of the Fountain, Luned's mistress, and the wife of the man Owain slew.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Slain husband / former defender
+  description: The dead man on the bier is identified as the Countess's husband, slain
+    by Owain the previous day; Luned refers to the former defender of the fountain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: Funeral assemblage
+  description: Armed hosts, women on horseback and on foot, ecclesiastics singing,
+    trumpeters, and barons supporting the bier.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Unnamed knight or warrior of Arthur's household
+  description: The type of warrior Luned says is required to defend the fountain,
+    and whom she promises to seek from Arthur's Court.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: observer of funeral procession
+  assigned_to:
+  - fig:1
+  basis: Owain opens the chamber window and observes the hosts, bier, and grieving
+    lady.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: slayer of the Countess's husband
+  assigned_to:
+  - fig:1
+  basis: The maiden says the Countess is wife of the man Owain slew the previous day.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lover and intended suitor
+  assigned_to:
+  - fig:1
+  basis: Owain declares love for the Countess, and Luned says she will woo for him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: serving mediator and adviser
+  assigned_to:
+  - fig:2
+  basis: Luned serves Owain physically, undertakes to woo for him, challenges the
+    Countess, and advises her to seek a defender.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: grieving widow and lady of dominion
+  assigned_to:
+  - fig:3
+  basis: The Countess follows the bier in grief and is told her possessions and dominions
+    depend on defending the fountain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:6
+  label: deceased husband and former fountain defender
+  assigned_to:
+  - fig:4
+  basis: He is the Countess's slain husband, and Luned refers to the former defender
+    of the fountain.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:7
+  label: mourners and bier-bearers
+  assigned_to:
+  - fig:5
+  basis: The procession includes armed hosts, women, ecclesiastics, trumpets, and
+    barons supporting the bier.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: needed fountain defender
+  assigned_to:
+  - fig:6
+  basis: Luned says only a knight of Arthur's household can defend the fountain and
+    that she will seek such a warrior.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: funeral bier with tapers
+  literal_form: Bier under a white linen veil, with wax tapers burning beside and
+    around it.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood-stained mourning attire
+  literal_form: Yellow hair stained with blood, torn yellow satin dress, and violent
+    hand-striking by the Countess.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire for warming water
+  literal_form: A fire kindled by the maiden to warm water for Owain's washing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: washing water
+  literal_form: Warm water in a pot, ivory goblet, and silver basin used to wash Owain's
+    head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fountain to be defended
+  literal_form: The fountain whose defense is said to be necessary for maintaining
+    the Countess's dominions.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: grooming implements
+  literal_form: White linen towel, ivory goblet, silver basin, and razor with ivory
+    haft and gold rivets.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Owain views the funeral procession
+  summary: From a chamber window, Owain sees a crowded funeral procession with armed
+    hosts, ecclesiastics, a veiled bier with tapers, and the grieving lady following
+    it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The Countess is identified
+  summary: The maiden tells Owain that the grieving lady is the Countess of the Fountain,
+    her mistress, and the wife of the man Owain killed; Owain declares love for her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Luned prepares and serves Owain
+  summary: Luned warms water, washes and shaves Owain, dries him, feeds him, and tells
+    him to sleep while she goes to woo for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Luned confronts the mourning Countess
+  summary: Luned visits the grieving Countess, challenges her mourning and her estimate
+    of her dead husband, is threatened with punishment, then is called back and asked
+    for advice.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Advice to seek a fountain defender
+  summary: Luned tells the Countess that her possessions and dominions depend on warfare
+    and on defending the fountain, and proposes finding a knight or warrior from Arthur's
+    Court.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: public mourning for a slain lord
+  taxonomy_refs: []
+  basis: The passage centers on a grand funeral procession with a bier, clergy, armed
+    hosts, barons, and the Countess's extreme grief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly name the corpse in the bier, though the
+    surrounding dialogue identifies the Countess's husband as newly slain.
+- id: motif:2
+  label: sudden love for the widow of the slain opponent
+  taxonomy_refs: []
+  basis: Owain falls in love with the Countess immediately after seeing her mourn;
+    she is identified as the wife of the man Owain slew the previous day.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents love and intended wooing, but no marriage or reconciliation
+    is completed within this extract.
+- id: motif:3
+  label: female mediator engineers courtship
+  taxonomy_refs: []
+  basis: Luned tends to Owain, says she will woo for him, and strategically argues
+    with the Countess until the Countess asks for advice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The successful outcome of the wooing is not shown in the provided passage.
+- id: motif:4
+  label: washing and grooming before a courtship mission
+  taxonomy_refs: []
+  basis: Before Luned leaves to woo for Owain, she kindles fire, warms water, washes
+    and shaves him, dries him, and serves him a meal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes practical service and hospitality; any ritual or
+    initiatory meaning is not explicit.
+- id: motif:5
+  label: defense of a water-place tied to dominion
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Luned states that the Countess cannot maintain her dominions unless the fountain
+    is defended, and that a knight of Arthur's household is needed for this defense.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The link to the broad taxonomy family 'royal_legitimacy' is interpretive;
+    the passage speaks directly of preserving possessions and dominions, not formal
+    accession or coronation.
+- id: motif:6
+  label: quest for an Arthurian champion
+  taxonomy_refs: []
+  basis: Luned proposes going to Arthur's Court and says misfortune should befall
+    her if she returns without a warrior able to guard the fountain as well as or
+    better than the former defender.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: Within this extract, the proposed journey has not yet taken place.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the future warrior Luned seeks with the former
+    defender by assigning both the same function of guarding the fountain.
+  claim_level: same_function
+  target: former and prospective defenders of the fountain
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal functional comparison within the passage, not evidence
+    of historical relationship between traditions.
+- id: claim:2
+  claim: By naming Arthur's household and Arthur's Court as the source of the needed
+    defender, the passage connects the local fountain-defense problem to an Arthurian
+    courtly champion pattern.
+  claim_level: same_function
+  target: Arthurian court-knight defender pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage itself mentions Arthur's household and Court,
+    but no external Arthurian comparanda are supplied here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 713-723
+  quote_or_summary: Owain sees armed hosts, women, ecclesiastics singing, trumpets,
+    a bier under a white linen veil, burning wax tapers, and barons supporting the
+    bier.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 724-735
+  quote_or_summary: Owain sees a lady following the train with blood-stained yellow
+    hair, torn yellow satin dress, loud cries, and violent hand-striking; he immediately
+    becomes possessed by love for her.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 736-745
+  quote_or_summary: The maiden identifies the lady as the Countess of the Fountain,
+    her mistress, and wife of the man Owain slew yesterday; Owain says she is the
+    woman he loves best, and the maiden says she will also love him.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 746-757
+  quote_or_summary: The maid kindles fire, warms water, places a white towel around
+    Owain's neck, washes his head with warm water from an ivory goblet and silver
+    basin, shaves him with an ivory-and-gold razor, dries him, and brings food.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 758-770
+  quote_or_summary: The maiden tells Owain to sleep while she goes to woo for him;
+    at the Castle she finds mourning and a Countess too grief-stricken to answer,
+    then challenges the Countess's mourning.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 771-782
+  quote_or_summary: The Countess threatens Luned with execution or banishment over
+    her comparison, Luned departs, and the Countess follows, coughs, beckons her back,
+    and asks her to declare what is advantageous.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 783-797
+  quote_or_summary: Luned says the Countess can preserve her possessions only by warfare
+    and arms; unless she can defend the fountain she cannot maintain her dominions;
+    only a knight of Arthur's household can defend it, so Luned will seek a warrior
+    at Arthur's Court.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    involving dominion, courtship, and Arthurian champion patterns are cautious and
+    should be reviewed against the wider tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy references were limited to supplied available refs; several motif labels are left without taxonomy refs where the supplied taxonomy did not directly match the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l713-l797
+  passage_sha256=b619be3f9928952086a85972e7eca0295203865258b584eee2335656ef9fd4d2
+

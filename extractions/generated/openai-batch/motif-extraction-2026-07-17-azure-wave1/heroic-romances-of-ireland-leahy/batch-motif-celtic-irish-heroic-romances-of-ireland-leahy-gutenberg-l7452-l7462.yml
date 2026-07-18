@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7452-l7462
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 61 / PAGE 62 / PAGE 63 / PAGE 65; lines 7452-7462
+  start: '7452'
+  end: '7462'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A commentary passage gives a doubtful translation of Labraid's answer to
+    three invocations. In the translated speech he denies pride or arrogance, addresses
+    a lady, and says that they will come to a fight involving many hard spears and
+    red swords. The editor notes uncertainty about several words, including Anbi.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents Labraid's answer to three invocations.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor states that the translation is doubtful and that many words are
+    marked unknown by Windisch.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the supplied translation, the speaker denies having pride or arrogance
+    and addresses a lady.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The translated speech says that the group will come to a fight involving many
+    hard spears and red swords in right fists.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor states that he can make nothing of the word Anbi.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Labraid
+  description: Named as the figure whose answer to the three invocations is being
+    translated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: lady
+  description: The addressed recipient in the translated speech, called "O lady."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Echaid Juil (?)
+  description: A name appearing uncertainly in the doubtful translated phrase "the
+    one heart of Echaid Juil (?)."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: answering speaker
+  assigned_to:
+  - fig:1
+  basis: Labraid is explicitly named as giving an answer to three invocations.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed lady
+  assigned_to:
+  - fig:2
+  basis: The translated speech directly addresses "O lady."
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: uncertain named referent
+  assigned_to:
+  - fig:3
+  basis: The name appears with a question mark in a doubtful translation and has no
+    clear action in the passage.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spears
+  literal_form: very many and very hard spears
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: red swords
+  literal_form: red swords in right fists
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Doubtful answer to invocations
+  summary: A translated answer attributed to Labraid responds to three invocations,
+    denies pride or arrogance, addresses a lady, and announces an approaching fight
+    with spears and swords.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: answer to repeated invocations
+  taxonomy_refs: []
+  basis: The passage frames Labraid's speech as an answer to three invocations.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a commentary note and the translation is explicitly doubtful.
+- id: motif:2
+  label: announcement of impending battle
+  taxonomy_refs: []
+  basis: The translated speech says that the group will come to a fight with many
+    hard spears and red swords.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wording belongs to a translation described as doubtful, with unknown
+    words noted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7452-7454
+  quote_or_summary: The passage says Labraid's answer to three invocations appears
+    to run as translated, but the translation is doubtful and many words are marked
+    unknown by Windisch.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 7454-7458
+  quote_or_summary: '"I have no pride or arrogance, O lady"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 7458-7461
+  quote_or_summary: '"we shall come to a fight of very many and very hard spears,
+    of plying of red swords in right fists"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 7461-7462
+  quote_or_summary: The editor repeats the denial of pride in the translated speech
+    and says he can make nothing of Anbi.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is limited by the passage's own warning that the translation
+    is doubtful and contains unknown words. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol refs were assigned because the passage supports only general speech and battle imagery, and the translation is explicitly uncertain.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7452-l7462
+  passage_sha256=d82cb2e30cf7c36c1f18e92e9d4281d8ae737052129a7a01bd2562dabe4e552e
+

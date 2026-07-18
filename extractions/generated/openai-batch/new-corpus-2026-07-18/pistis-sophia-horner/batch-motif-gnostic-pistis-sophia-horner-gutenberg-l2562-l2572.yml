@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l2562-l2572
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 2562-2572
+  start: '2562'
+  end: '2572'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The disciples are greatly afraid and disturbed after seeing something.
+    Jesus, described as merciful and sweet-hearted, reassures them not to fear. The
+    disciples ask him to draw back his light of glory so they can stand, saying their
+    eyes are darkened and the whole World is disturbed by the great light from him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The disciples see something and become greatly afraid and disturbed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jesus is described as merciful and sweet of heart.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jesus observes the disciples' disturbance and speaks words of reassurance
+    to them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Jesus tells the disciples to be confident of heart and not to fear.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The disciples ask the Lord to draw away his light of glory to himself so that
+    they may be able to stand.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The disciples say their eyes are darkened and that they are disturbed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The disciples say all the World was disturbed by the great light coming from
+    Jesus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: the disciples
+  description: A group who see something, fear greatly, are disturbed, hear Jesus'
+    word, and ask him to draw away his light of glory.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Jesus
+  description: Described as merciful and sweet of heart; he sees the disciples' disturbance,
+    reassures them, and is associated with a light of glory and great light.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: all the World
+  description: Said by the disciples to have been disturbed by the great light coming
+    from Jesus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: fearful witnesses
+  assigned_to:
+  - fig:1
+  basis: They see something, fear greatly, and are disturbed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reassuring speaker
+  assigned_to:
+  - fig:2
+  basis: Jesus speaks to the disturbed disciples and tells them to be confident and
+    not fear.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: petitioners affected by light
+  assigned_to:
+  - fig:1
+  basis: They ask for the light of glory to be drawn away so they can stand, saying
+    their eyes are darkened.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: source of overwhelming light
+  assigned_to:
+  - fig:2
+  basis: The disciples refer to Jesus' light of glory and the great light which comes
+    from him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: cosmic recipient of disturbance
+  assigned_to:
+  - fig:3
+  basis: The disciples say all the World was disturbed by the great light.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: light of glory
+  literal_form: Jesus' light of glory, also called the great light which comes from
+    him
+  associated_figures:
+  - fig:2
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: darkened eyes
+  literal_form: The disciples' eyes are darkened by the light
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: confident heart
+  literal_form: Jesus' phrase urging the disciples to be confident of heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Disciples disturbed and reassured
+  summary: After seeing something, the disciples become greatly afraid and disturbed.
+    Jesus sees their disturbance and tells them to be confident and not to fear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Petition to draw back the light
+  summary: The disciples ask Jesus to draw back his light of glory so they can stand,
+    explaining that their eyes are darkened and that the whole World has been disturbed
+    by his great light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: overwhelming divine light disturbing witnesses
+  taxonomy_refs: []
+  basis: Jesus' light of glory is described as so intense that the disciples cannot
+    stand, their eyes are darkened, and the World is disturbed.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not name a formal motif family; the label is a descriptive
+    motif candidate.
+- id: motif:2
+  label: fearful disciples reassured by divine speaker
+  taxonomy_refs: []
+  basis: The disciples become afraid and disturbed, and Jesus responds by telling
+    them to be confident and not fear.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a local narrative pattern rather than a taxonomy-linked motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2562-2566
+  quote_or_summary: 'The disciples, having seen these things, feared greatly and were
+    disturbed; Jesus, merciful and sweet of heart, said: “Be confident of heart, I
+    am, fear not.”'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2567-2572
+  quote_or_summary: The disciples ask the Lord to draw away his light of glory so
+    they can stand, saying their eyes are darkened and the whole World is disturbed
+    by the great light from him.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source text summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly identifies figures, reactions, speech, and imagery of
+    overwhelming light. Motif labels are descriptive and not linked to the supplied
+    taxonomy because no listed motif family is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make or clearly imply a comparison to another tradition or corpus.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l2562-l2572
+  passage_sha256=806446b97bce30d7d3e9e0614c33e4b70455fa75e4e82d072eaeb04f8a5a940e
+

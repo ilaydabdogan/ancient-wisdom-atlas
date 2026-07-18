@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2153-l2190
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: ANOTHER VERSION OF THE SAME FABLE / CLOUD-EATING / LION'S ILLNESS / JACKAL,
+    DOVE, AND HERON; lines 2153-2190
+  start: '2153'
+  end: '2190'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Jackal coerces Dove into giving up her young by claiming he can fly up
+    to Dove's rock. Heron advises Dove that Jackal cannot fly. After Dove refuses
+    Jackal again and names Heron as the adviser, Jackal tricks Heron into showing
+    how he bends his neck in wind and rain, then strikes and breaks Heron's neck.
+    The tale ends by explaining why Heron's neck is bent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jackal comes to Dove, who lives on the top of a rock, and asks for one of
+    Dove's little ones.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dove initially refuses, but Jackal says he will fly up to her if she does
+    not give him the young one, and Dove throws one down to him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jackal comes back another day, demands another little one, and Dove gives
+    it to him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Heron asks why Dove is crying, and Dove says Jackal has taken away her little
+    ones.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Heron tells Dove that Jackal cannot fly and admonishes her to give no more
+    young ones to Jackal.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When Jackal returns and asks for another little one, Dove refuses and says
+    Heron told her Jackal cannot fly up.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Jackal says he will catch Heron.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: At the banks of the water, Jackal asks Heron how he stands when wind, storm,
+    and rain come.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Heron demonstrates by bending his neck to one side and then downward.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Jackal beats Heron on the neck and breaks his neck in the middle.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage states that since that day Heron's neck is bent.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: Animal figure who demands Dove's young, claims he can fly up, later
+    questions Heron and breaks Heron's neck.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Dove
+  description: Animal figure who lives on the top of a rock, gives Jackal young ones,
+    cries, receives Heron's advice, and later refuses Jackal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Heron
+  description: Animal figure who advises Dove that Jackal cannot fly and is later
+    tricked and injured by Jackal; his bent neck is explained by the story.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Dove's little ones
+  description: Dove's young ones, demanded and taken by Jackal.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: demander and aggressor
+  assigned_to:
+  - fig:1
+  basis: Jackal demands Dove's young and later strikes Heron, breaking his neck.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:2
+  label: deceiver or trickster
+  assigned_to:
+  - fig:1
+  basis: Jackal claims he can fly up to Dove and later uses questions to make Heron
+    demonstrate vulnerable neck positions.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: parental victim
+  assigned_to:
+  - fig:2
+  basis: Dove's young are taken by Jackal, and Dove cries because of this loss.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: adviser
+  assigned_to:
+  - fig:3
+  basis: Heron tells Dove that Jackal cannot fly and advises her to give no more young
+    ones.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: injured etiological figure
+  assigned_to:
+  - fig:3
+  basis: Heron's broken neck is linked to the statement that Heron's neck has been
+    bent since that day.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: offspring taken by Jackal
+  assigned_to:
+  - fig:4
+  basis: The little ones are requested, thrown down, and given to Jackal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: top of a rock
+  literal_form: Dove's dwelling place on the top of a rock.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Dove's young ones
+  literal_form: The little ones demanded and taken by Jackal.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: banks of the water
+  literal_form: The water-bank setting where Jackal questions Heron.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: bent neck
+  literal_form: Heron's neck, bent after Jackal breaks it.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Jackal coerces Dove into surrendering young
+  summary: Jackal comes to Dove at the top of a rock, demands one of her little ones,
+    claims he will fly up, and receives a young one; he later returns and receives
+    another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Heron advises Dove
+  summary: Heron asks why Dove cries, hears that Jackal has taken her young, tells
+    Dove that Jackal cannot fly, and tells her not to give any more.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dove refuses Jackal after Heron's advice
+  summary: Jackal again asks Dove for a little one, but Dove refuses and says Heron
+    told her Jackal cannot fly; Jackal says he will catch Heron.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Jackal tricks and injures Heron
+  summary: At the banks of the water, Jackal asks Heron how he stands in wind, storm,
+    and rain; Heron bends his neck in demonstration, and Jackal strikes and breaks
+    it. The passage then explains Heron's bent neck.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: trickster gains victims through false threat
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal obtains Dove's young by threatening to fly up to Dove's rock, though
+    Heron later says Jackal cannot fly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call Jackal a trickster; the label is
+    inferred from actions within the passage.
+- id: motif:2
+  label: adviser exposes deceiver's limitation
+  taxonomy_refs:
+  - wisdom
+  basis: Heron explains to Dove that Jackal cannot fly and instructs her not to give
+    more young ones.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wisdom classification is broad and based only on Heron's practical
+    advice.
+- id: motif:3
+  label: trickster elicits a demonstration to attack a vulnerable body part
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal asks Heron to show how he bends his neck in weather, then beats and
+    breaks Heron's neck.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No external tale type is assigned; this is a passage-level motif description.
+- id: motif:4
+  label: origin of an animal's physical trait
+  taxonomy_refs: []
+  basis: The narrative concludes that since Jackal broke Heron's neck, Heron's neck
+    is bent.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No matching taxonomy reference was supplied for etiological animal-trait
+    tales.
+comparison_claims:
+- id: claim:1
+  claim: The closing explanation functions like an etiological animal-trait tale because
+    it accounts for why Heron's neck is bent.
+  claim_level: same_function
+  target: etiological animal-trait tale pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison only; it does not imply historical
+    contact, common inheritance, or a specific external tale type.
+- id: claim:2
+  claim: Jackal's use of false threat and strategic questioning supports comparison
+    with a broad trickster-deception motif family.
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The taxonomy label is broad, and the passage itself provides no external
+    comparative context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2153-2157
+  quote_or_summary: Title names Jackal, Dove, and Heron; Jackal comes to Dove, who
+    lives on the top of a rock, and asks for one of her little ones.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2158-2163
+  quote_or_summary: Dove refuses; Jackal demands the young one and says he will fly
+    up, so Dove throws one down to him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 2164-2170
+  quote_or_summary: Jackal returns another day and receives another little one; Heron
+    asks why Dove cries, and Dove says Jackal has taken away her little ones.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 2171-2176
+  quote_or_summary: Dove explains Jackal's threat to fly up; Heron says Jackal cannot
+    fly and tells Dove to give no more young ones.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 2177-2180
+  quote_or_summary: Jackal asks again for a little one; Dove refuses and says Heron
+    told her Jackal could not fly up; Jackal says he will catch Heron.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 2181-2187
+  quote_or_summary: At the banks of the water, Jackal asks Heron how he stands in
+    wind, storm, and rain; Heron demonstrates by bending his neck sideways and downward.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 2188-2190
+  quote_or_summary: Jackal beats Heron on the neck, breaks it in the middle, and the
+    passage states that since that day Heron's neck is bent.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear in the supplied passage. Motif labels are cautious
+    and limited to available taxonomy or passage-supported functional patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external tale-type indexes or comparative sources were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2153-l2190
+  passage_sha256=4bd89d9aabe9510de66e3db760a0a5ce3d2d98b3f23dc8fc49223e7d75eb5093
+

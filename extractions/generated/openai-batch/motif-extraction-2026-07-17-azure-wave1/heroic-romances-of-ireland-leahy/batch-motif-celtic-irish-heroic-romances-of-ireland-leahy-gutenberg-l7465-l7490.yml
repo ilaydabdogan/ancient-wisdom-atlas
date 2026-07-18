@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7465-l7490
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 62 / PAGE 63 / PAGE 65 / PAGE 66; lines 7465-7490
+  start: '7465'
+  end: '7490'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“unearthly women show themselves” and “they have subdued thee, / and they
+    have imprisoned thee”"
+  summary: The passage gives an English rendering of a rhetoric in which a hero lies
+    in sick-bed sleep after being overcome by unearthly women from the fiery plain
+    of Trogach. The addressed man is urged to rouse himself from a sickness glossed
+    as sent by fairy women, recover lost vigor among chariot-riding heroes, and rise
+    in response to what Labraid's power has indicated.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A hero is described as lying in the sleep of a sick-bed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Unearthly women, identified as women of the people of the fiery plain of Trogach,
+    are said to show themselves.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The women are said to have subdued and imprisoned the addressed hero; a following
+    phrase is translated tentatively as chasing him away.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: The addressed man is urged to rouse himself from a “contest of distress,”
+    glossed as the sickness sent by the fairy women.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressed hero is said to have lost his vigor among heroes who ride in
+    chariots.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The addressed man is told to rise up so that he may be great, after reference
+    to what Labraid's power has indicated.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: addressed hero or man
+  description: A hero/man addressed in the rhetoric, described as lying in sick-bed
+    sleep, having lost vigor, and being urged to rise.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unearthly women or fairy women
+  description: Women of the people of the fiery plain of Trogach; the gloss calls
+    them fairy women who sent the sickness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: heroes who ride in chariots
+  description: A group of chariot-riding heroes among whom the addressed hero's vigor
+    is said to be gone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Labraid
+  description: Named figure referred to through “Labraid's power,” which has indicated
+    something in the rhetoric.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sick-bed hero
+  assigned_to:
+  - fig:1
+  basis: The addressed hero is described as lying in the sleep of a sick-bed.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: figure urged to rise
+  assigned_to:
+  - fig:1
+  basis: The rhetoric commands the addressed man to rouse himself and rise up.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: supernatural female afflicters or captors
+  assigned_to:
+  - fig:2
+  basis: The women are unearthly/fairy women who subdue and imprison the hero and
+    are linked by the gloss to his sickness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: chariot-riding heroic group
+  assigned_to:
+  - fig:3
+  basis: They are explicitly described as heroes who ride in chariots.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: named possessor of indicating power
+  assigned_to:
+  - fig:4
+  basis: The passage refers to “Labraid's power” as having indicated something.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sick-bed
+  literal_form: the sleep of a sick-bed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fiery plain of Trogach
+  literal_form: the fiery plain of Trogach
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: chariots
+  literal_form: heroes who ride in chariots
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hero in sick-bed sleep after encounter with unearthly women
+  summary: A hero lies in a sick-bed sleep while unearthly women from the fiery plain
+    of Trogach are said to have subdued and imprisoned him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Exhortation to rouse and rise
+  summary: The addressed man is urged to rouse himself from distress or sickness,
+    recover from lost vigor among chariot-riding heroes, and rise in connection with
+    what Labraid's power has indicated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: supernatural women impose sickness and captivity on a hero
+  taxonomy_refs: []
+  basis: The rhetoric says unearthly women have subdued and imprisoned the hero, and
+    the gloss identifies the distress as sickness sent by fairy women.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The translation includes tentative phrases and is presented as a rendering
+    of rhetoric rather than a straightforward narrative scene.
+- id: motif:2
+  label: hero exhorted to rise from debilitating sickness
+  taxonomy_refs: []
+  basis: The addressed man is told to rouse himself from distress, after being described
+    as having lost vigor, and is commanded to rise so that he may be great.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not itself describe an actual recovery; it records an
+    exhortation.
+- id: motif:3
+  label: otherworldly women associated with a fiery plain
+  taxonomy_refs: []
+  basis: The women are called unearthly and are identified as women of the people
+    of the fiery plain of Trogach.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the place-name and fiery attribute but does not further
+    explain the locale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: note
+  locator: 7465-7467
+  quote_or_summary: The editor notes that Thurneysen does not translate the rhetoric
+    and introduces the supplied English rendering.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 7468-7475
+  quote_or_summary: The rendering says it is unprofitable for a hero to lie in sick-bed
+    sleep; unearthly women from the fiery plain of Trogach show themselves and have
+    subdued and imprisoned him, with a tentative phrase about chasing him away.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized with short phrases.
+- id: ev:3
+  type: quote
+  locator: 7477-7486
+  quote_or_summary: 'The address urges: “Rouse thyself from the contest of distress,”
+    glossed as “the sickness sent by the fairy women,” says the hero''s vigor is gone
+    among chariot-riding heroes, refers to “Labraid''s power,” and commands him to
+    rise.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: note
+  locator: 7488-7490
+  quote_or_summary: A note says “Chased thee away” is a tentative translation of “condot
+    ellat,” perhaps connected with “do-ellaim.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is itself a tentative translation of rhetoric and includes several
+    uncertain glosses; extraction is limited to explicit wording and editor notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparison claims were added because the passage does not itself compare this scene to another text or tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7465-l7490
+  passage_sha256=f05e0f4ee3e777df2bbf806bba56f487d9ed8f751ce68490972f91c6f8567109
+

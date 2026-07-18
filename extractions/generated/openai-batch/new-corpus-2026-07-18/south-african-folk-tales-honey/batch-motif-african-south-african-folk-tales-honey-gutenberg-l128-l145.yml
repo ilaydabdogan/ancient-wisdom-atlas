@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l128-l145
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: CROCODILE'S TREASON                         64 / THE STORY OF A DAM                          73
+    / JACKAL AND MONKEY                           84 / LION'S SHARE                                87;
+    lines 128-145
+  start: '128'
+  end: '145'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment lists nine tale titles with page numbers, including
+    titles involving Lion, Jackal, Little Jackal, Lioness, Ostrich, Crocodile, a dam,
+    water, Rabbits, Monkey, and Lion's share.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The contents list a tale titled "THE LION AND JACKAL" on page 48.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list a tale titled "THE HUNT OF LION AND JACKAL" on page 53.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list a tale titled "THE STORY OF LION AND LITTLE JACKAL" on page
+    56.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list a tale titled "THE LIONESS AND THE OSTRICH" on page 62.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The contents list a tale titled "CROCODILE'S TREASON" on page 64.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The contents list a tale titled "THE STORY OF A DAM" on page 73.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The contents list a tale titled "THE DANCE FOR WATER OR RABBITS' TRIUMPH"
+    on page 79.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The contents list a tale titled "JACKAL AND MONKEY" on page 84.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The contents list a tale titled "LION'S SHARE" on page 87.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: Animal figure named in multiple tale titles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+- id: fig:2
+  name_or_label: Jackal
+  description: Animal figure named in tale titles with Lion and Monkey.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: Little Jackal
+  description: Animal figure named in a tale title with Lion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Lioness
+  description: Animal figure named in a tale title with Ostrich.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ostrich
+  description: Animal figure named in a tale title with Lioness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Crocodile
+  description: Animal figure named in a tale title concerning treason.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Rabbits
+  description: Animal group named in a tale title mentioning triumph.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Monkey
+  description: Animal figure named in a tale title with Jackal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: named title figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Each assigned figure is explicitly named in one or more listed tale titles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: Water
+  literal_form: water
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: Dam
+  literal_form: dam
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Table-of-contents list of tale titles
+  summary: The passage lists tale titles and page numbers, including animal-pair titles
+    and titles mentioning a dam, water, triumph, treason, and share.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Lion and jackal paired in tale titles
+  taxonomy_refs: []
+  basis: Three listed titles pair Lion with Jackal or Little Jackal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage is a table of contents only; it does not provide the narrative
+    actions or relationships within the tales.
+- id: motif:2
+  label: Animal hunt title
+  taxonomy_refs: []
+  basis: One listed title names a hunt involving Lion and Jackal.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Only the title is available; no hunt episode is described in the passage.
+- id: motif:3
+  label: Crocodile associated with treason in title
+  taxonomy_refs: []
+  basis: One listed title is "CROCODILE'S TREASON."
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage gives no narrative details about the treason.
+- id: motif:4
+  label: Dance for water and rabbits' triumph title
+  taxonomy_refs: []
+  basis: One listed title mentions a dance for water and Rabbits' triumph.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage gives only a title, so the nature of the dance, water-seeking,
+    and triumph is unspecified.
+- id: motif:5
+  label: Lion's share title
+  taxonomy_refs: []
+  basis: One listed title is "LION'S SHARE."
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The title alone does not state what is shared or what occurs in the tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 128
+  quote_or_summary: '"THE LION AND JACKAL                         48"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: quote
+  locator: line 130
+  quote_or_summary: '"THE HUNT OF LION AND JACKAL                 53"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: quote
+  locator: line 132
+  quote_or_summary: '"THE STORY OF LION AND LITTLE JACKAL         56"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: quote
+  locator: line 134
+  quote_or_summary: '"THE LIONESS AND THE OSTRICH                 62"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: quote
+  locator: line 136
+  quote_or_summary: '"CROCODILE''S TREASON                         64"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:6
+  type: quote
+  locator: line 138
+  quote_or_summary: '"THE STORY OF A DAM                          73"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:7
+  type: quote
+  locator: lines 140-141
+  quote_or_summary: '"THE DANCE FOR WATER OR RABBITS'' / TRIUMPH                                   79"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:8
+  type: quote
+  locator: line 143
+  quote_or_summary: '"JACKAL AND MONKEY                           84"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:9
+  type: quote
+  locator: line 145
+  quote_or_summary: '"LION''S SHARE                                87"'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is a contents list.
+    Motif candidates are low confidence because no narrative passages are included.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided table-of-contents lines were used; no assumptions were made from the later tale narratives.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l128-l145
+  passage_sha256=aafe77f7db1306fe6ad507dbbf6a792e87598e4c7d354f61edee84de22361f65
+

@@ -1,0 +1,547 @@
+---
+record_id: batch.motif.egyptian-book-of-the-dead-budge-gutenberg-l556-l650
+source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+passage_locator:
+  label: CHAPTER IV / CHAPTER V / CHAPTER VI / CHAPTER VII; lines 556-650
+  start: '556'
+  end: '650'
+  translation: The Book of the Dead
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the Judgment of Osiris in the Book of the Dead:
+    the deceased enters the Hall of Maati, addresses Osiris and the Forty-Two gods,
+    declares moral innocence through a series of negative confessions, and is associated
+    with the weighing of the heart in scales under Anubis, with Amemit present to
+    consume the hearts of the condemned.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Egyptians associated the Last Judgment with the weighing
+    of the heart in a pair of scales.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heart, named ab, is described as the symbol of emotions, desires, and
+    passions, and as connected with the ka or double/personality.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The deceased enters the Hall of Maati, where Osiris sits in judgment, and
+    addresses the Great God, Lord of Maati.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The deceased says he knows the name of the god and the names of the Forty-Two
+    who live with him in the Hall of Maati.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The deceased brings maat, glossed in the passage as truth or integrity, and
+    declares that he has destroyed sin and is pure.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The confession includes denials of harming people, oppressing kin, causing
+    hunger or weeping, committing or ordering murder, defrauding temples, stealing
+    offerings, sexual pollution, and tampering with measures or scales.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The confession includes denials of taking milk from children, driving cattle
+    from pasture, snaring birds of the gods, stopping water, cutting a canal dam,
+    extinguishing a fire when it should burn, and altering offerings.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Osiris is described as seated at one end of the Hall of Maati, accompanied
+    by the two goddesses of Law and Truth and by the Forty-Two gods who assist him.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Each of the Forty-Two gods is said to represent one of the nomes of Egypt
+    and to have a symbolic name.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Before entering the Hall, the deceased repeats the magical names of the doors
+    of the Hall.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Inside the Hall, the Forty-Two gods are arranged in two rows, twenty-one on
+    each side.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Near Osiris are the Great Scales, which are under the charge of Anpu, identified
+    as Anubis.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Amemit, called the Eater of the Dead, is described as a monster who eats the
+    hearts of the wicked condemned in the Judgment of Osiris.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: The deceased advances along the Hall, addresses each of the Forty-Two gods
+    by name, and denies having committed a particular sin.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The passage notes that later Egyptologists called the second part of Chapter
+    CXXV the Negative Confession.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the deceased
+  description: The speaker who enters the Hall of Maati, addresses Osiris and the
+    Forty-Two gods, brings maat, and denies sins.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Osiris
+  description: The god seated in judgment in the Hall of Maati; addressed as Great
+    God, Lord of Maati, and accompanied by goddesses and assisting gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the Forty-Two gods
+  description: Gods living with Osiris in the Hall of Maati; they keep ward over sinners,
+    assist Osiris, represent the nomes of Egypt, and are addressed individually by
+    the deceased.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: the two goddesses of Law and Truth
+  description: Two goddesses who accompany Osiris in the Hall of Maati.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Anpu / Anubis
+  description: The deity placed in charge of the Great Scales near Osiris.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Amemit, the Eater of the Dead
+  description: A monster present near the Great Scales who eats the hearts of the
+    wicked condemned in the Judgment of Osiris.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceased confessor
+  assigned_to:
+  - fig:1
+  basis: The deceased speaks the declarations of innocence and says he has brought
+    maat and destroyed sin.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: entrant into the judgment hall
+  assigned_to:
+  - fig:1
+  basis: The deceased enters the Hall of Maati after repeating the magical names of
+    its doors.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: divine judge
+  assigned_to:
+  - fig:2
+  basis: Osiris is seated in the Hall of Maati where judgment takes place.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: divine assessors
+  assigned_to:
+  - fig:3
+  basis: The Forty-Two gods assist Osiris and receive individual declarations from
+    the deceased.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: wardens over sinners
+  assigned_to:
+  - fig:3
+  basis: The deceased describes the Forty-Two as keeping ward over sinners and feeding
+    on their blood on the day of estimating characters.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: companions of Osiris
+  assigned_to:
+  - fig:4
+  basis: The two goddesses of Law and Truth accompany Osiris in the Hall of Maati.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: guardian of the scales
+  assigned_to:
+  - fig:5
+  basis: The Great Scales are said to be under the charge of Anpu, Anubis.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: devourer of condemned hearts
+  assigned_to:
+  - fig:6
+  basis: Amemit is identified as the Eater of the Dead, the monster who consumes the
+    hearts of the wicked condemned in judgment.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: heart as moral and vital center
+  literal_form: the heart, ab
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: weighing scales of judgment
+  literal_form: pair of scales / Great Scales
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: Hall of Maati
+  literal_form: judgment hall in which Osiris sits
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: maat
+  literal_form: truth or integrity brought by the deceased
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: milk in moral denial
+  literal_form: milk from the mouths of children
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: water that should flow
+  literal_form: water and canal flow
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: fire that should burn
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: forty-two divine assessors
+  literal_form: the number Forty-Two applied to gods and nomes
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Framing of the heart-weighing judgment
+  summary: The passage explains that the Last Judgment is associated with weighing
+    the heart in scales and describes the heart as symbolically tied to the inner
+    life and the ka.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Entrance and address in the Hall of Maati
+  summary: The deceased enters the Hall of Maati, addresses Osiris, claims knowledge
+    of divine names, brings maat, and begins the declaration of innocence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Negative confession of moral innocence
+  summary: The deceased recites denials of many wrongs, including violence, oppression,
+    ritual theft, sexual pollution, false measures, and interference with milk, water,
+    fire, animals, and offerings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Divine court arranged around Osiris
+  summary: Osiris sits at one end of the Hall with the goddesses of Law and Truth
+    and the Forty-Two gods; the Great Scales are near him under Anubis, and Amemit
+    waits as devourer of condemned hearts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Address to each of the Forty-Two gods
+  summary: After entering the Hall, the deceased advances and addresses each god by
+    name, pairing each address with a denial of a particular sin.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: afterlife judgment by weighing the heart
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly connects the Last Judgment with weighing the heart
+    in scales and places Osiris, Anubis, the Great Scales, and Amemit within the judgment
+    scene.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage summarizes and translates Egyptian funerary material through
+    Budge's framing.
+- id: motif:2
+  label: negative confession before divine assessors
+  taxonomy_refs:
+  - divine_judgment
+  basis: The deceased declares innocence before Osiris and the Forty-Two gods by denying
+    specific sins.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The label Negative Confession is identified as an Egyptological title
+    and described as somewhat inexact by the passage.
+- id: motif:3
+  label: ritual knowledge of names enabling afterlife passage
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The deceased claims knowledge of Osiris's name and the names of the Forty-Two
+    and repeats the magical names of the Hall's doors before entering.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the actions but does not fully explain the mechanics
+    or outcome of the name-knowledge.
+- id: motif:4
+  label: devouring of the condemned heart
+  taxonomy_refs: []
+  basis: Amemit is described as the monster who eats the hearts of the wicked condemned
+    in the Judgment of Osiris.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No exact available taxonomy family was supplied for this motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage links the heart-weighing judgment with other Book of the Dead
+    spells composed to preserve the heart, suggesting a shared function concerning
+    the heart's postmortem integrity.
+  claim_level: same_function
+  target: Book PER-T EM HRU Chapters XXVI-XXXB, heart-preservation spells
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only mentions these spells briefly and does not quote or
+    summarize their contents.
+- id: claim:2
+  claim: The passage states that the symbolic or artificial names of the Forty-Two
+    gods resemble names in the Book of Him that is in the Tuat and the Book of Gates
+    in their probable priestly formation period and artificial character.
+  claim_level: linguistic_similarity
+  target: Book of Him that is in the Tuat and Book of Gates
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial-historical comparison within the passage, not
+    a demonstrated narrative motif comparison.
+- id: claim:3
+  claim: The passage compares the textual judgment scene with illustrated papyri of
+    the Book of the Dead, where vignettes of the heart-weighing receive prominence.
+  claim_level: visual_similarity
+  target: illustrated papyri of the Book of the Dead
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim remains within the same textual and iconographic corpus as
+    described by the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 556-650; opening discussion of Chapter VII
+  quote_or_summary: The passage says the Last Judgment was associated with weighing
+    the heart in scales; the heart, ab, symbolized emotions, desires, and passions
+    and was linked with the ka, with spells composed for its preservation.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 556-650; first quoted address in Chapter CXXV
+  quote_or_summary: The deceased enters the Hall of Maati where Osiris sits in judgment,
+    addresses the Great God, Lord of Maati, says he knows the god's name and the names
+    of the Forty-Two, and says he has brought maat and destroyed sin.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 556-650; sequence of negative declarations
+  quote_or_summary: The deceased denies many offenses, including oppression, murder,
+    causing hunger or tears, theft from gods or temples, sexual pollution, false measures,
+    taking children's milk, stopping water, cutting a canal dam, extinguishing fire,
+    and altering offerings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 556-650; description of the second part of Chapter CXXV
+  quote_or_summary: Osiris is seen seated at one end of the Hall of Maati with the
+    two goddesses of Law and Truth and the Forty-Two gods, each representing a nome
+    of Egypt and having a symbolic name.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 556-650; description of Hall entry, scales, Anubis, and Amemit
+  quote_or_summary: After repeating the magical names of the Hall's doors, the deceased
+    enters and sees the gods in two rows of twenty-one; near Osiris are the Great
+    Scales under Anpu/Anubis and Amemit, who eats condemned wicked hearts.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 556-650; examples of addresses to individual gods
+  quote_or_summary: The deceased advances along the Hall, addresses each of the Forty-Two
+    gods by name, and denies a corresponding sin, such as sinning, robbing, killing,
+    plundering divine property, lying, or ignoring Law/Truth.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:7
+  type: summary
+  locator: lines 556-650; closing editorial note
+  quote_or_summary: The passage says many names of the Forty-Two gods were probably
+    priestly inventions comparable in period to names in the Book of Him that is in
+    the Tuat and the Book of Gates, and notes that the section is commonly called
+    the Negative Confession.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Comparison claims are limited
+    to internal comparisons explicitly made or implied by the passage's own editorial
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied available motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:egyptian-book-of-the-dead-budge-gutenberg__l556-l650
+  passage_sha256=9e139f1b4faa94b5a69f736789233594d96ce460b0b38536c71bbab129f476f6
+

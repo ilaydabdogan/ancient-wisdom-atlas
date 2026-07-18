@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l5021-l5090
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XX. / CHAPTER XXI. / CHAPTER XXII. / CHAPTER I.; lines 5021-5090
+  start: '5021'
+  end: '5090'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Thomas introduces an account of childhood actions and miracles of Jesus.
+    At five years old, after rain, Jesus plays near a stream with other boys, makes
+    overflowed water clear by his word, forms twelve sparrows from clay on the Sabbath,
+    and commands them to fly away. Witnesses are astonished and report the miracle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thomas, identified as an Israelite, presents the account as childhood actions
+    and miracles of Christ after his birth in Bethlehem.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child Jesus is described as five years old.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After a shower of rain, Jesus plays with other Hebrew boys by a running stream
+    where water has overflowed into little lakes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The water becomes clear and useful again after Jesus acts by word, and the
+    waters are said to obey him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jesus takes soft clay from the bank of the stream and forms twelve sparrows
+    from it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A Jew observes the clay-sparrow making on the Sabbath and reports it to Joseph
+    as Sabbath profanation.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Joseph comes to the place and asks Jesus why he is doing what is not lawful
+    on the Sabbath day.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Jesus claps his hands, calls to the sparrows, and commands them to fly away
+    and remember him while they live.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The sparrows fly away making a noise.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The Jews who see the event are astonished and tell their chief persons about
+    the miracle.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thomas
+  description: An Israelite narrator who says he makes known the childhood actions
+    and miracles of Christ.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Child Jesus
+  description: A five-year-old child described as Lord and God Jesus Christ, performing
+    miracles near a stream and with clay sparrows.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Other Hebrew boys
+  description: Boys playing with Jesus by the running stream.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: A certain Jew
+  description: A witness who sees Jesus forming clay sparrows on the Sabbath and reports
+    it to Joseph.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Joseph
+  description: Jesus's father in the passage, who is told of the Sabbath action and
+    questions Jesus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: The Jews
+  description: Witnesses who see the sparrows fly away, are astonished, and report
+    the event to chief persons.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Chief persons
+  description: Persons to whom the astonished Jews report the miracle.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Sparrows
+  description: Twelve sparrows formed from soft clay that fly away after Jesus commands
+    them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: narrator-witness
+  assigned_to:
+  - fig:1
+  basis: Thomas introduces the account and says he himself was astonished.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: miraculous child
+  assigned_to:
+  - fig:2
+  basis: Jesus is a five-year-old performing acts described as miracles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:3
+  label: commander of elements and living creatures
+  assigned_to:
+  - fig:2
+  basis: The water obeys his word, and the sparrows fly after his command.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:4
+  label: play companions
+  assigned_to:
+  - fig:3
+  basis: They are described as boys playing with Jesus by the stream.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: witnesses and reporters
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The certain Jew reports to Joseph, and the Jews report the miracle to chief
+    persons.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: parental questioner
+  assigned_to:
+  - fig:5
+  basis: Joseph comes to the place and questions Jesus about Sabbath lawfulness.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: reported authorities
+  assigned_to:
+  - fig:7
+  basis: The chief persons receive the report from the Jews.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: animated clay creatures
+  assigned_to:
+  - fig:8
+  basis: The sparrows are formed from clay and then fly away making noise.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Rainwater and stream
+  literal_form: Water from rain, a running stream, overflowed banks, and little lakes
+    made clear and useful.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Soft clay
+  literal_form: Soft clay taken from the bank of the stream.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Twelve sparrows
+  literal_form: Twelve sparrows formed from clay and later flying away.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: Sabbath day
+  literal_form: The day on which Jesus forms the clay sparrows and is accused of doing
+    what is not lawful.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Clapping hands
+  literal_form: Jesus claps together the palms of his hands before calling to the
+    sparrows.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Commanding word
+  literal_form: Jesus acts upon water by word and speaks a command to the sparrows.
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: Introduction to childhood miracles
+  summary: Thomas introduces a report of the childhood actions and miracles of Christ
+    after his birth in Bethlehem.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Water cleared after rain
+  summary: At five years old, Jesus plays with other boys by a stream after rain and
+    makes the standing overflowed water clear and useful by his word.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Clay sparrows formed on the Sabbath
+  summary: Jesus forms twelve sparrows from soft clay by the stream; a Jew sees this
+    and reports to Joseph that Jesus has profaned the Sabbath.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Clay sparrows fly away
+  summary: After Joseph questions him, Jesus claps his hands and commands the sparrows
+    to fly away; they fly off making a noise, and witnesses report the miracle.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Miraculous child performs signs
+  taxonomy_refs:
+  - miraculous_child
+  basis: The passage frames the events as childhood miracles of Christ and describes
+    Jesus at five years old clearing water and animating sparrows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif label is based on the passage's explicit childhood-miracle framing;
+    broader theological interpretation is not added.
+- id: motif:2
+  label: Command over water by word
+  taxonomy_refs: []
+  basis: Water made unclear by rain and overflow becomes clear and useful again after
+    Jesus acts by word, with the water said to obey him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No specific taxonomy motif for command over water is supplied; the available
+    symbol reference is water only.
+- id: motif:3
+  label: Animation of formed clay creatures
+  taxonomy_refs: []
+  basis: Jesus forms twelve sparrows from soft clay, commands them, and they fly away
+    making noise.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage describes animation but does not explicitly name a creation
+    motif family from the available taxonomy.
+- id: motif:4
+  label: Miracle performed in Sabbath-law conflict
+  taxonomy_refs:
+  - divine_judgment
+  basis: A witness and Joseph frame the clay-sparrow making as unlawful Sabbath activity,
+    after which the sparrows fly away as a miracle.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The passage contains conflict over Sabbath law, but it does not explicitly
+    describe judgment; taxonomy assignment is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5021-5036
+  quote_or_summary: Thomas, an Israelite, says he makes known to Gentile brethren
+    the childhood actions and miracles of Christ after his birth in Bethlehem, at
+    which he was astonished.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5037-5047
+  quote_or_summary: When Jesus is five years old, after a rain shower, he plays with
+    other Hebrew boys by a running stream where overflowed water stands in little
+    lakes.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5048-5052
+  quote_or_summary: The water instantly becomes clear and useful again after Jesus
+    acts by his word, and the water is said to obey him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5053-5059
+  quote_or_summary: Jesus takes soft clay from the stream bank and forms twelve sparrows
+    while other boys are playing with him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5060-5070
+  quote_or_summary: A certain Jew sees Jesus forming clay sparrows on the Sabbath
+    and tells Joseph that his boy has made twelve sparrows and profaned the Sabbath.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5071-5078
+  quote_or_summary: Joseph comes to the place, sees Jesus, and asks why he is doing
+    what is not lawful on the Sabbath day.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5079-5085
+  quote_or_summary: Jesus claps his hands, calls to the sparrows, and tells them to
+    go and fly away, adding that while they live they should remember him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5086-5090
+  quote_or_summary: The sparrows fly away making a noise; the Jews are astonished
+    and tell their chief persons about the strange miracle done by Jesus.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    links are limited to available refs and are partly tentative where the taxonomy
+    lacks exact labels for clay animation or Sabbath-law conflict. No comparison claims
+    were made because the passage itself does not compare traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external parallels or non-supplied taxonomy IDs added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l5021-l5090
+  passage_sha256=e036492cc70b3d7e08bf7a5817ff2ac039228de0d087a04254e0c8770fcafbb5
+

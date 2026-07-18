@@ -1,0 +1,536 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l4222-l4314
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: SMITH SOUND. / TRADE AND INTERCOURSE BETWEEN THE TRIBES. / LIST OF THE CENTRAL
+    ESKIMO TRIBES. / SEAL, WALRUS, AND WHALE HUNTING.; lines 4222-4314
+  start: '4222'
+  end: '4314'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Central Eskimo walrus, whale, narwhal, and white
+    whale hunting methods, including cooperative and solitary walrus hunting on ice,
+    dangers of being dragged into the sea, Hall’s Frobisher Bay observation, whaling
+    from kayaks and skin boats with harpoons, lines, floats, and lances, and driving
+    white whales into shallow water with stones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two hunters may approach a walrus with one hidden behind the other so that
+    they appear as one.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the spear is thrown, hunters hold the line wound around their arms to
+    create friction and exhaust the walrus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A hunter can secure the spear and line in the ice and brace it with the foot,
+    but the line may cut on sharp ice, the thin ice may break, or the line may entangle
+    the hunter’s arm and pull him into the sea.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A lone hunter who strikes a walrus may brace his feet against a hummock, creating
+    a direct contest of strength with the animal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In solitary walrus hunting, the hunter may be dragged to the edge of the ice
+    or under the ice before giving up the hold.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hall’s Frobisher Bay description has the hunter hide among broken drifting
+    ice, throw the spear, slip the line coil from his head, fasten the line to the
+    ice, and lance the walrus when it resurfaces.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Walrus swimming under extensive new ice may drown when repeatedly frightened
+    down each time they try to surface to breathe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Whales are hunted from kayaks with a large float attached to the harpoon head;
+    many kayak boatmen try to harpoon the whale, which is then tired by blood loss
+    and resistance from attached gear and killed with lances.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In skin-boat whaling, the crew consists entirely of men; a skilled boatman
+    steers, and a harpooner stands in the bow watching for a chance to strike.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The described whaling weapon has a long heavy shaft, bone point, and a heavy
+    harpoon head with an iron edge; when the whale is struck, the head and edge disengage
+    from the shaft and enter the flesh.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: In skin-boat whaling, a long line, the niutang, and five large floats are
+    kept ready and thrown overboard after the harpoon is fast to the whale; the whale
+    is followed and lanced when it comes up to breathe.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Narwhal and white whale are hunted in the same way as walrus and right whale.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: When white whales enter shallow summer bays, people in boats and kayaks throw
+    stones to frighten them into the shallowest part, where they can be harpooned.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Walrus hunter or hunters
+  description: Hunters who approach, spear, hold the line, brace on ice, and may be
+    dragged by a walrus; includes paired and solitary hunting situations.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Walrus
+  description: Powerful sea mammal pursued with spear, line, and lance; it may drag
+    the hunter toward or under the ice and may drown under new ice if frightened down
+    from breathing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Whale
+  description: Sea mammal pursued from kayaks or skin boats, harpooned with attached
+    floats and lines, tired out, and lanced when surfacing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Kayak boatmen
+  description: A large number of kayak hunters pursue the whale and each attempts
+    to drive a harpoon into it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Skin-boat crew
+  description: All-male whaling crew using paddles, with a skilled steersman and a
+    bow harpooner.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Narwhal and white whale
+  description: Sea mammals hunted like walrus and right whale; white whales may be
+    driven into shallow water with stones before being harpooned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: hunter or harpooner
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: The passage describes people approaching, striking, harpooning, and lancing
+    walrus or whales.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: hunted sea mammal
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: Walrus, whales, narwhal, and white whale are the animals pursued, harpooned,
+    tired, or driven into shallows.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:3
+  label: tethered contestant
+  assigned_to:
+  - fig:1
+  basis: The hunter holds or secures a line attached to the walrus and may be dragged
+    to the ice edge or into the water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: steersman
+  assigned_to:
+  - fig:5
+  basis: In the skin boat a skillful boatman steers while the harpooner stands in
+    the bow.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: bow harpooner
+  assigned_to:
+  - fig:5
+  basis: The harpooner stands in the bow and watches for the opportunity to strike
+    the whale.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Harpoon, spear, and line
+  literal_form: Hunting weapon and attached line used to strike and hold walrus or
+    whale.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Ice edge, floe, and hummock
+  literal_form: Ice surface, broken drifting ice, sharp ice edge, thin ice, and hummock
+    used as hunting setting or brace point.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Sea or water
+  literal_form: Water into which walrus plunge and into which hunters may be dragged.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: Floats, buoys, and niutang
+  literal_form: Large float, buoys, niutang, and five large floats attached to whaling
+    lines to resist and tire the whale.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: Kayak and skin boat
+  literal_form: Boats used to pursue whales, narwhal, and white whale.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:6
+  label: Stones
+  literal_form: Stones thrown to frighten white whales into shallow water.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Shallow bay
+  literal_form: Summer bay entered by white whales and used as a place where they
+    can be driven into shallow water.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Paired walrus approach and line hold
+  summary: Two hunters approach a walrus as if they were one person, throw a spear,
+    and hold the line to exhaust the animal while risking breakage of ice or entanglement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Solitary walrus strength contest
+  summary: A lone hunter who has struck a walrus may brace against a hummock and struggle
+    against the animal, sometimes being dragged to the ice edge or under the ice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hall’s Frobisher Bay walrus hunt
+  summary: A hunter hides among broken drifting ice, strikes the walrus, fastens the
+    line to the ice, waits for the animal to surface, and kills it with a lance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Whaling from kayaks
+  summary: Many kayak boatmen pursue a whale, try to harpoon it, tire it with blood
+    loss and resistance from attached gear, and kill it with lances.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Whaling from skin boats
+  summary: An all-male crew paddles a skin boat; a steersman guides it, a bow harpooner
+    strikes the whale, and floats and niutang are released to tire it before lancing.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: White whale drive into shallows
+  summary: When white whales enter a shallow summer bay, people in boats and kayaks
+    throw stones to frighten them into the shallowest part, where they are harpooned.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Hunters appearing as one before striking prey
+  taxonomy_refs: []
+  basis: The passage states that two walrus hunters approach with one hidden behind
+    the other so that they appear as one.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is presented as a practical hunting technique, not as a mythic narrative
+    motif.
+- id: motif:2
+  label: Tethered contest between hunter and powerful sea animal
+  taxonomy_refs: []
+  basis: The hunter holds or anchors a line attached to the walrus or whale; the struggle
+    can exhaust the animal but can also pull the hunter toward the water or under
+    the ice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage is ethnographic and technical; comparative mythological significance
+    is not established by the passage.
+- id: motif:3
+  label: Floats or buoys tire the sea animal after harpooning
+  taxonomy_refs: []
+  basis: Whale-hunting descriptions repeatedly emphasize floats, buoys, and niutang
+    attached to the line to resist and tire the whale before it is lanced.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a hunting-method pattern rather than a symbolic interpretation.
+- id: motif:4
+  label: Driving aquatic animals into shallow confinement
+  taxonomy_refs: []
+  basis: White whales entering shallow bays are frightened with stones into the shallowest
+    part, where they are harpooned.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No broader narrative or ritual interpretation is supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: Hall’s Frobisher Bay walrus-hunting account is presented as functionally
+    comparable to the preceding walrus-hunting technique, with concealment on ice,
+    a thrown spear or harpoon, an anchored line, and lancing when the walrus surfaces.
+  claim_level: same_function
+  target: Frobisher Bay walrus hunt described by Hall compared with the preceding
+    Central Eskimo walrus-hunt description
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to the passage and concerns hunting method;
+    it does not establish a mythological motif, historical contact, or common inheritance.
+- id: claim:2
+  claim: The passage explicitly states that narwhal and white whale are hunted in
+    the same way as walrus and right whale.
+  claim_level: same_function
+  target: Narwhal and white whale hunting compared with walrus and right-whale hunting
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to practical hunting procedure and does not imply
+    symbolic or mythological equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4222-4242
+  quote_or_summary: Two hunters approach a walrus as one, throw a spear, hold the
+    line wound around their arms, anchor the spear and line in the ice, and face dangers
+    from sharp or breaking ice and entanglement that can pull the hunter into the
+    water.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4244-4255
+  quote_or_summary: A lone walrus hunter may brace against a hummock in a contest
+    of strength with the walrus and may be dragged to the ice edge or under the ice
+    before releasing the hold.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4257-4268
+  quote_or_summary: Hall’s Frobisher Bay account describes a hunter with a coiled
+    line about his neck hiding among broken drifting ice, striking the walrus, fastening
+    the line to the ice with a spear through a loop, and dispatching the resurfacing
+    walrus with a long lance.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4270-4271
+  quote_or_summary: Walrus under extensive new ice may drown when frightened down
+    whenever they attempt to surface to breathe.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4273-4281
+  quote_or_summary: Whaling was formerly favored; whales are pursued in kayaks or
+    skin boats. In kayak hunting, a large float is attached to the harpoon head, many
+    kayaks pursue the whale, and the animal is tired by blood loss and resistance
+    from niutang and floats before being killed with lances.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4283-4302
+  quote_or_summary: Skin-boat whaling uses paddles and an all-male crew; a skilled
+    boatman steers and a bow harpooner strikes. The described heavy whaling weapon
+    has a long shaft, bone point, and separable head and edge that enter the whale’s
+    flesh.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 4304-4312
+  quote_or_summary: The skin boat carries a coiled harpoon line, niutang, and five
+    large floats ready to be thrown overboard when the harpoon is fast to the whale;
+    the gear tires the whale, which is followed and lanced when it surfaces to breathe.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: line 4314
+  quote_or_summary: Narwhal and white whale are hunted like walrus and right whale;
+    white whales entering shallow summer bays are frightened with stones from boats
+    and kayaks into the shallowest part, where they are harpooned.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is detailed and technical.
+    Motif labels are treated as practical recurrent patterns rather than mythological
+    interpretations; no taxonomy motif families were assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic narrative, ritual explanation, or symbolic exegesis is present in the supplied passage; symbols are therefore recorded as literal objects, places, and media only.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l4222-l4314
+  passage_sha256=d395c7e118e7ed81a502a36ed381d101b0c946d83a071552579c3168df7da151
+

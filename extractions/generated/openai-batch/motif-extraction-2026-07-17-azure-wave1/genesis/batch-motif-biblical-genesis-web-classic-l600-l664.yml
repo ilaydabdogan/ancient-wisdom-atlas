@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.biblical-genesis-web-classic-l600-l664
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Footnotes / Chapter 8 / Chapter 9 / Chapter 10; lines 600-664
+  start: '600'
+  end: '664'
+  translation: Genesis
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Sons were born to them after the flood.
+  summary: Genesis 10 presents the generations of Noah’s sons after the flood, listing
+    descendants of Japheth, Ham, and Shem, associating peoples with lands, languages,
+    families, and nations, describing Nimrod as a mighty hunter and kingdom/city founder,
+    and concluding that the nations divided from Noah’s families after the flood.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage frames itself as the history of the generations of Noah’s sons,
+    with sons born to them after the flood.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Japheth’s sons and descendants are listed, and the text says related nations
+    were divided in their lands, languages, families, and nations.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ham’s line is listed through Cush, Mizraim, Put, and Canaan, with further
+    descendants named.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:4
+  text: Cush is said to become the father of Nimrod, who is described as a mighty
+    one in the earth and a mighty hunter before Yahweh.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Nimrod’s kingdom is said to begin in cities in Shinar, and he is associated
+    with going into Assyria and building cities there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Shem’s descendants are listed, with Eber highlighted; Peleg is named because
+    the earth was divided in his days, and Joktan’s descendants and dwelling range
+    are described.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:7
+  text: The conclusion states that the families of Noah’s sons, by their generations
+    and nations, are the source from which nations divided in the earth after the
+    flood.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: The passage repeatedly organizes peoples by families, languages, lands, and
+    nations.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: Named as the father whose sons’ generations are being traced; the nations
+    are said to divide from the families of his sons after the flood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: fig:2
+  name_or_label: Shem
+  description: A son of Noah whose descendants are listed; he is also described as
+    the father of all the children of Eber.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Ham
+  description: A son of Noah whose descendants include Cush, Mizraim, Put, and Canaan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: Japheth
+  description: A son of Noah whose sons and descendants are listed, with nations divided
+    by lands and languages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: fig:5
+  name_or_label: Cush
+  description: A descendant of Ham and father of Nimrod.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Nimrod
+  description: Son of Cush; described as a mighty one in the earth, a mighty hunter
+    before Yahweh, and associated with the beginning of a kingdom and the building
+    of cities.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Canaan
+  description: A son of Ham whose descendants and the spread and border of the Canaanite
+    families are described.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:8
+  name_or_label: Eber
+  description: A descendant in Shem’s line; two sons, Peleg and Joktan, are born to
+    him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: Peleg
+  description: A son of Eber whose name is explained by the statement that the earth
+    was divided in his days.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Joktan
+  description: A son of Eber whose sons are listed, along with the range of their
+    dwelling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: post-flood ancestor
+  assigned_to:
+  - fig:1
+  basis: The chapter traces the generations of Noah’s sons after the flood and concludes
+    that nations divided from their families.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:2
+  label: Noah’s sons with post-flood descendants
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Shem, Ham, and Japheth are named as Noah’s sons, and their descendants are
+    organized into families, lands, languages, and nations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:3
+  label: genealogical lineage ancestor
+  assigned_to:
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:10
+  basis: Each is presented through fatherhood or descent lists that organize later
+    families or peoples.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: mighty hunter before Yahweh
+  assigned_to:
+  - fig:6
+  basis: The passage explicitly calls Nimrod a mighty hunter before Yahweh and preserves
+    a saying about him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: kingdom founder and city builder
+  assigned_to:
+  - fig:6
+  basis: The text names the beginning of Nimrod’s kingdom and associates him with
+    building cities in Assyria.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: time-marker for earth’s division
+  assigned_to:
+  - fig:9
+  basis: Peleg’s name is explained by the statement that in his days the earth was
+    divided.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: flood
+  literal_form: the flood
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:2
+  label: mountain of the east
+  literal_form: the mountain of the east
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Post-flood genealogy announced
+  summary: The passage opens by identifying the generations of Noah’s sons and stating
+    that sons were born to them after the flood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Japheth’s descendants and divided nations
+  summary: Japheth’s descendants are named, and the text says related island nations
+    are divided by lands, languages, families, and nations.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ham’s descendants, Nimrod, and Canaanite spread
+  summary: Ham’s descendants are listed; Cush fathers Nimrod, Nimrod is described
+    as mighty and associated with a kingdom and city building, and the Canaanite families
+    are said to spread abroad with described borders.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Shem’s descendants and division in Peleg’s days
+  summary: Shem’s line is traced through Eber; Peleg is associated with the earth
+    being divided in his days, and Joktan’s descendants and eastern dwelling range
+    are given.
+  figure_refs:
+  - fig:2
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: 'Conclusion: nations from Noah’s families'
+  summary: The passage concludes that the families of Noah’s sons, by generations
+    and nations, are the source from which nations divided in the earth after the
+    flood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: post-flood renewal through descendants and nations
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage repeatedly locates the births, families, and national divisions
+    after the flood and concludes that nations divided from Noah’s sons in the earth
+    after the flood.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: high
+  cautions: This passage does not narrate the flood itself; it presents the genealogical
+    aftermath.
+- id: motif:2
+  label: division of peoples by land, language, family, and nation
+  taxonomy_refs: []
+  basis: The descendants are organized by lands, languages, families, and nations,
+    with repeated concluding formulas and a note that the earth was divided in Peleg’s
+    days.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No direct taxonomy reference for a table-of-nations or ethnolinguistic
+    division motif is supplied.
+- id: motif:3
+  label: mighty hunter as kingdom and city founder
+  taxonomy_refs:
+  - culture_hero
+  basis: Nimrod is called a mighty hunter before Yahweh, his kingdom is said to begin
+    in named cities, and he is associated with building additional cities.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not call Nimrod a hero or attribute inventions or benefactions
+    to him; the culture-hero link is based only on founding and building functions.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a flood-and-renewal pattern insofar as it describes post-flood
+    descendants and the division of nations from Noah’s family after the flood.
+  claim_level: same_motif
+  target: flood_and_renewal
+  evidence_refs:
+  - ev:1
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The flood and rescue narrative are outside this selected passage; this
+    excerpt gives the genealogical aftermath rather than the catastrophe itself.
+- id: claim:2
+  claim: Nimrod has a function comparable to a culture-founder figure because the
+    passage combines exceptional prowess with the beginning of a kingdom and city
+    building.
+  claim_level: same_function
+  target: culture_hero
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides no explicit heroic evaluation, civilizing gift,
+    or detailed narrative cycle for Nimrod.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Genesis 10:1
+  quote_or_summary: "“the generations of the sons of Noah” and “Sons were born to
+    them after the flood.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: Genesis 10:2-5
+  quote_or_summary: Japheth’s sons and descendants are listed; the text states that
+    related island nations were divided in their lands, languages, families, and nations.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:3
+  type: summary
+  locator: Genesis 10:6-7
+  quote_or_summary: Ham’s sons are named as Cush, Mizraim, Put, and Canaan, followed
+    by descendants of Cush and Raamah.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:4
+  type: quote
+  locator: Genesis 10:8-9
+  quote_or_summary: Cush fathers Nimrod; Nimrod “began to be a mighty one in the earth”
+    and is called “a mighty hunter before Yahweh.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: Genesis 10:10-12
+  quote_or_summary: The beginning of Nimrod’s kingdom is located at Babel, Erech,
+    Accad, and Calneh in Shinar; he goes into Assyria and builds Nineveh, Rehoboth
+    Ir, Calah, and Resen.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:6
+  type: summary
+  locator: Genesis 10:13-20
+  quote_or_summary: Mizraim’s and Canaan’s descendants are listed; the Canaanite families
+    spread abroad, their border is described, and Ham’s sons are summarized by families,
+    languages, lands, and nations.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:7
+  type: summary
+  locator: Genesis 10:21-24
+  quote_or_summary: Children are born to Shem, described in relation to Eber; Shem’s
+    sons and Aram’s sons are named, and the line from Arpachshad to Shelah to Eber
+    is given.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:8
+  type: summary
+  locator: Genesis 10:25-30
+  quote_or_summary: Eber has two sons, Peleg and Joktan; Peleg is associated with
+    the earth being divided in his days, and Joktan’s sons and dwelling range toward
+    the mountain of the east are given.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; summarized.
+- id: ev:9
+  type: quote
+  locator: Genesis 10:31-32
+  quote_or_summary: Shem’s sons are summarized by families, languages, lands, and
+    nations; “The nations divided from these in the earth after the flood.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain World English Bible Classic; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Genealogical and geographic data are explicit. Motif labels are mostly straightforward
+    for post-flood renewal and people-division, while the culture-hero comparison
+    for Nimrod is functional and requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied Genesis 10 passage and metadata were used. Taxonomy references are limited to the provided motif and symbol lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-genesis-web-classic__l600-l664
+  passage_sha256=af63b34ada2888f4df0197db986ea83e39365406a4e30a6b96338ccedef30e41
+

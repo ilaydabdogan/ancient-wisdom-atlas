@@ -1,0 +1,570 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l1296-l1387
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 1296-1387
+  start: '1296'
+  end: '1387'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first concludes an episode in which a king sacrifices his two
+    children to restore Faithful John from stone, after which John restores the children.
+    It then begins “The Good Bargain,” where a peasant misreads frogs’ croaking and
+    dogs’ barking as financial dealings, loses his money and meat, seeks justice,
+    and makes the king’s daughter laugh, gaining her as wife.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king kills his two children, smears their blood on the stone, and Faithful
+    John returns to life and health.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Faithful John reattaches the children’s heads, rubs their wounds with their
+    blood, and the children become whole again and resume playing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king hides Faithful John and the two children in a cupboard before the
+    queen enters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The queen, though terrified, says they owe Faithful John the sacrifice because
+    of his fidelity; the king then reveals that John and the children are alive.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A peasant sells a cow for seven thalers, hears frogs crying near a pond, interprets
+    their cry as a dispute about seven versus eight, and counts out his money to them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The peasant throws all his money into the water for the frogs to count, but
+    the frogs continue crying and do not return it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The peasant brings meat from another cow to town, hears a greyhound and other
+    dogs barking, and leaves the meat with them while expecting payment within three
+    days.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After no payment arrives, the peasant demands money from the butcher, who
+    drives him out with a broomstick.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The peasant petitions the king; the king’s daughter laughs, and the king says
+    the peasant may marry her because she had never laughed so heartily before and
+    had been promised to whoever could make her laugh.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King in the Faithful John episode
+  description: A king who sacrifices his own children to restore Faithful John and
+    later reveals the restored servant and children to the queen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Faithful John
+  description: A faithful figure restored from stone to life, who then restores the
+    king’s children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: The two little sons / children
+  description: The king’s two children, beheaded for the restoration of Faithful John
+    and then restored to life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Queen
+  description: The king’s wife, who says they owe Faithful John the sacrifice and
+    then sees John and the children restored.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Peasant / countryman
+  description: A peasant who sells a cow, misinterprets frogs and dogs as parties
+    to bargains, loses money and meat, and petitions the king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Frogs
+  description: Frogs near the pond whose repeated cry is interpreted by the peasant
+    as a statement about his money.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Large greyhound
+  description: A large greyhound at the head of the dogs, treated by the peasant as
+    responsible for payment for the meat.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Troop of dogs
+  description: Dogs gathered before the town gate who bark and fall upon the meat
+    left by the peasant.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Butcher
+  description: A butcher from whom the peasant demands payment; he drives the peasant
+    out with a broomstick.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: King in The Good Bargain
+  description: A king who hears the peasant’s complaint while seated with his daughter
+    and offers the daughter in marriage after she laughs.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: King’s daughter
+  description: The king’s daughter, who laughs heartily at the peasant’s account and
+    is offered to him as wife.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: sacrificing father and restorer of servant
+  assigned_to:
+  - fig:1
+  basis: He kills his children and uses their blood to restore Faithful John.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: revived faithful servant and child-restorer
+  assigned_to:
+  - fig:2
+  basis: He returns from stone to life and restores the beheaded children.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacrificed and restored children
+  assigned_to:
+  - fig:3
+  basis: They are killed, then made whole again and resume playing.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: consenting mother
+  assigned_to:
+  - fig:4
+  basis: She accepts the proposed sacrifice as owed to Faithful John, despite terror.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: naive trader and claimant
+  assigned_to:
+  - fig:5
+  basis: He treats animal sounds as bargains, loses goods, and seeks payment and justice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: misconstrued animal interlocutors
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Their croaks or barks are interpreted by the peasant as meaningful claims
+    or promises.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: supposed animal surety
+  assigned_to:
+  - fig:7
+  basis: The peasant treats the large greyhound as responsible for payment for the
+    meat.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: refusing tradesman who expels claimant
+  assigned_to:
+  - fig:9
+  basis: He rejects the peasant’s demand and drives him away with a broomstick.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: royal arbiter and reward giver
+  assigned_to:
+  - fig:10
+  basis: He hears the complaint, denies legal remedy, and offers his daughter as wife.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: laughing princess and promised bride
+  assigned_to:
+  - fig:11
+  basis: Her laughter fulfills the king’s promise that she will marry whoever makes
+    her laugh.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: children’s blood
+  literal_form: Blood from the sacrificed children, smeared on the stone and rubbed
+    on wounds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stone
+  literal_form: The stone to which life returns when smeared with blood, after which
+    Faithful John stands alive.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sword
+  literal_form: The king’s sword used to cut off the children’s heads.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: great cupboard
+  literal_form: A cupboard in which the king hides Faithful John and the two children.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: pond water
+  literal_form: The pond water into which the peasant throws his money for the frogs.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: seven thalers
+  literal_form: The money received for the cow, counted by the peasant and thrown
+    into the pond.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: cow meat
+  literal_form: Meat from the slaughtered cow, unloaded and left for the dogs.
+  associated_figures:
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: broomstick
+  literal_form: A broomstick used by the butcher to drive out the peasant.
+  associated_figures:
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: princess’s laughter
+  literal_form: The king’s daughter laughs heartily at the peasant’s story.
+  associated_figures:
+  - fig:5
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Sacrifice and restoration of Faithful John and the children
+  summary: The king beheads his children, uses their blood to restore Faithful John
+    from stone, and Faithful John restores the children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Queen’s consent and revelation
+  summary: The king hides the restored figures, asks the queen about Faithful John,
+    hears her accept the sacrifice, and then reveals that John and the children are
+    alive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Peasant and frogs at the pond
+  summary: The peasant treats the frogs’ cry as a disagreement about his seven thalers,
+    throws the money into the water, and leaves angry when it is not returned.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Peasant and dogs at the town gate
+  summary: The peasant interprets the dogs’ barking as a request and promise, leaves
+    the meat for them, and expects payment from the large greyhound.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Complaint, laughter, and marriage reward
+  summary: After the butcher drives him out, the peasant petitions the king; the daughter
+    laughs, and the king offers her as wife according to a prior promise.
+  figure_refs:
+  - fig:5
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice of children to restore a faithful servant
+  taxonomy_refs:
+  - sacrifice
+  - resurrection
+  - death_rebirth
+  basis: The king kills his children and uses their blood to bring Faithful John back
+    from stone to life.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The preceding cause of Faithful John’s petrification lies outside the
+    supplied passage.
+- id: motif:2
+  label: Restoration of beheaded children by blood and reattachment
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: Faithful John replaces the children’s heads, rubs the wounds with blood,
+    and they become whole again immediately.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents the restoration directly; no broader ritual explanation
+    is supplied.
+- id: motif:3
+  label: Spousal consent to costly sacrifice for a benefactor
+  taxonomy_refs:
+  - sacrifice
+  basis: The king tells the queen that Faithful John can be restored only at the cost
+    of their sons, and she agrees they owe it to him.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The king has already performed the act before asking; the scene functions
+    as confirmation rather than actual deliberation.
+- id: motif:4
+  label: Animal sounds misread as human bargaining speech
+  taxonomy_refs: []
+  basis: The peasant interprets frogs’ croaking as disagreement about numbers and
+    dogs’ barking as promises concerning meat and payment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state that the animals truly speak; the pattern depends
+    on the peasant’s interpretation.
+- id: motif:5
+  label: Naive bargain causes loss of goods
+  taxonomy_refs: []
+  basis: The peasant loses his thalers to the pond and his cow meat to the dogs after
+    treating animal cries as transactional speech.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The phrase “bargain” is supported by the tale title and actions, but no
+    formal bargain with a human party occurs.
+- id: motif:6
+  label: Making a princess laugh and receiving her as wife
+  taxonomy_refs: []
+  basis: The king’s daughter laughs heartily at the peasant, and the king says she
+    was promised to whoever could make her laugh.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives the promise but not its origin or earlier conditions.
+- id: motif:7
+  label: Fortune gained through a failed quest for justice
+  taxonomy_refs: []
+  basis: The king says he cannot provide justice for the peasant’s losses, yet the
+    peasant gains the daughter as wife because of the laughter his complaint causes.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a narrative pattern inferred from the immediate outcome, not named
+    by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1296-1304
+  quote_or_summary: The king kills the children, smears their blood on the stone,
+    Faithful John returns to life, and John restores the children by reattaching their
+    heads and using their blood.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1305-1318
+  quote_or_summary: The king hides Faithful John and the children, asks the queen
+    about Faithful John, hears her accept the sacrifice, and then reveals that John
+    and the children are restored.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1322-1333
+  quote_or_summary: The peasant sells a cow for seven thalers, passes a pond, hears
+    frogs crying, disputes their apparent count, and counts out the money.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1334-1345
+  quote_or_summary: Angry at the frogs, the peasant throws the money into the water
+    for them to count; they continue crying and do not return the money.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1347-1368
+  quote_or_summary: The peasant brings cow meat to town, a greyhound and other dogs
+    bark at it, and he leaves the meat with them while expecting payment in three
+    days.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1370-1376
+  quote_or_summary: No one pays the peasant; he demands money from the butcher, who
+    treats it as a joke, becomes angry, and drives him out with a broomstick.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1376-1387
+  quote_or_summary: The peasant seeks an audience at the palace, tells the king his
+    complaint, makes the king’s daughter laugh, and is offered her as wife because
+    of the king’s promise.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct. Motif labels are passage-based, but some taxonomy
+    mapping is approximate because the passage spans the end of one tale and the beginning
+    of another. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied range contains two distinct narrative units: the conclusion of a Faithful John episode and the opening of “The Good Bargain.” They are separated in scenes and motif candidates.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l1296-l1387
+  passage_sha256=f18a01901832dde93b12b751dddadd0e1e5264c4a92969c63b0cbaf2a0e8f648
+

@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l4732-l4768
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: THE HOMEWARD JOURNEY.--THE TWO QUEENS. / XXIX. / BEOWULF AND HIGELAC. / BEOWULF
+    NARRATES HIS ADVENTURES TO HIGELAC.; lines 4732-4768
+  start: '4732'
+  end: '4768'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Beowulf recounts that a female foe carried off a corpse beneath a mountain-brook
+    flood. Hrothgar, deeply grieved, asked Beowulf to risk himself in the sea-currents
+    and promised rewards. Beowulf found the cruel depth-warder, fought amid gore-filled
+    waters, cut off Grendel's mother's head in a hall at the bottom with a sword-edge,
+    escaped alive, and afterward received many jewels from the kinsman of Healfdene.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female foe carried a corpse beneath the mountain-brook's flood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hrothgar was described as suffering extreme grief after the corpse was carried
+    off.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Hrothgar asked Beowulf to show prowess, risk his safety in the sea-currents,
+    and accomplish mighty deeds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Beowulf found a cruel and horrible depth-warder in the flood-current.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Beowulf and the depth-warder fought hand-to-hand while the currents seethed
+    with clotted gore.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Beowulf cut off Grendel's mother's head in the hall at the bottom with a sword-edge.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Beowulf barely escaped her clutches alive and says he was not doomed then.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Afterward, the warden of earlmen and kinsman of Healfdene gave Beowulf many
+    jewels.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Beowulf
+  description: First-person narrator who is asked to risk himself, finds the depth-warder,
+    beheads Grendel's mother, escapes alive, and receives jewels.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hrothgar / land-prince / kinsman of Healfdene
+  description: Ruler grieved by the carrying off of the corpse, asks Beowulf for aid,
+    promises much, and later gives jewels.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Grendel's mother / depth-warder
+  description: Female adversary associated with the flood-current; described as a
+    cruel, horrible depth-warder whose head Beowulf cuts off.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Unnamed corpse
+  description: A corpse carried off beneath the mountain-brook's flood.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: heroic fighter
+  assigned_to:
+  - fig:1
+  basis: Beowulf is asked to display prowess, finds the depth-warder, fights, beheads
+    Grendel's mother, and escapes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: grieving requester
+  assigned_to:
+  - fig:2
+  basis: Hrothgar suffers great grief and asks Beowulf to risk himself in the sea-currents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: reward-giver
+  assigned_to:
+  - fig:2
+  basis: The warden of earlmen, kinsman of Healfdene, gives jewels afterward.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: underwater adversary
+  assigned_to:
+  - fig:3
+  basis: The adversary is found in the flood-current as a cruel depth-warder and is
+    fought by Beowulf.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: corpse-carrier
+  assigned_to:
+  - fig:3
+  basis: The passage says a female foe carried off the corpse beneath the mountain-brook's
+    flood before identifying the adversary as Grendel's mother in the same narrated
+    episode.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:6
+  label: recipient of reward
+  assigned_to:
+  - fig:1
+  basis: Beowulf receives jewels after the fight.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: carried-off dead body
+  assigned_to:
+  - fig:4
+  basis: The corpse is carried off beneath the flood.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water-depth setting
+  literal_form: Mountain-brook's flood, sea-currents' eddies, and flood-current's
+    depth
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mountain-brook
+  literal_form: Mountain-brook's flood
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hall at the bottom
+  literal_form: Hall at the bottom where Grendel's mother is beheaded
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sword-edge
+  literal_form: Huge-reaching sword-edge used to cut off the head
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: jewels
+  literal_form: Jewels in quantity bestowed afterward
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: gore-filled currents
+  literal_form: Currents seething with clotted gore
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Corpse carried beneath the flood and Hrothgar's plea
+  summary: A female foe carries a corpse beneath the mountain-brook flood. Hrothgar
+    is deeply grieved and asks Beowulf to risk himself in the sea-currents, promising
+    much.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fight with the depth-warder
+  summary: Beowulf finds the cruel depth-warder in the flood-current. The two fight
+    hand-to-hand amid gore-filled currents, and Beowulf cuts off Grendel's mother's
+    head in the hall at the bottom with a sword-edge.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Escape and reward
+  summary: Beowulf says he barely escaped the adversary's clutches alive, and afterward
+    the kinsman of Healfdene gives him many jewels.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hero enters hostile watery depth to confront a monster
+  taxonomy_refs:
+  - hero_descent
+  basis: Beowulf is asked to risk himself in sea-currents, finds a depth-warder in
+    the flood-current, and fights in a bottom hall.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents an underwater or depth setting, not an explicit underworld
+    or afterlife realm.
+- id: motif:2
+  label: Monster-slaying by beheading
+  taxonomy_refs: []
+  basis: Beowulf cuts off Grendel's mother's head with a sword-edge during the bottom-hall
+    encounter.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly names monster-slaying or beheading.
+- id: motif:3
+  label: Survival and return from lethal monster encounter
+  taxonomy_refs:
+  - return
+  basis: Beowulf says he barely wrested his life from the adversary's clutches and
+    was not doomed, followed by his receipt of jewels afterward.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage summarizes survival after the encounter but does not narrate
+    a full homeward route.
+- id: motif:4
+  label: Reward after heroic exploit
+  taxonomy_refs: []
+  basis: After the dangerous deed, the warden of earlmen gives Beowulf jewels in quantity.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The exchange is royal reward-giving in the passage; it is not explicitly
+    marked as sacred.
+comparison_claims:
+- id: claim:1
+  claim: 'At the motif-family level, the episode fits a hero-descent pattern: a heroic
+    figure enters or engages a perilous watery depth, encounters a depth-guardian
+    adversary, fights in a bottom hall, and survives.'
+  claim_level: same_motif
+  target: hero_descent
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly describe an underworld, afterlife realm,
+    or cosmic descent; the descent-like movement is into an underwater monster setting.
+- id: claim:2
+  claim: The escape followed by public reward can be cautiously compared to a return
+    pattern in which the hero survives a lethal encounter and re-enters the social
+    order with treasure.
+  claim_level: same_function
+  target: return
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage includes survival and later reward but not a detailed travel
+    narrative of the return itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4732-4734
+  quote_or_summary: '"She the corpse had offcarried ... ''Neath mountain-brook''s
+    flood."'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 4734-4741
+  quote_or_summary: Hrothgar is described as suffering the saddest pains, and he asks
+    Beowulf to display prowess, risk his safety in sea-currents, and accomplish mighty
+    deeds, promising much.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: 4744-4751
+  quote_or_summary: Beowulf found the "flood-current's cruel, Horrible depth-warder";
+    the two fought hand-to-hand, and the currents seethed with clotted gore.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 4751-4757
+  quote_or_summary: Beowulf cuts off Grendel's mother's head in the hall at the bottom
+    with a sword-edge and says he barely wrested his life from her clutches.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: 4759-4761
+  quote_or_summary: The warden of earlmen, kinsman of Healfdene, afterward gives Beowulf
+    jewels in quantity.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif alignment
+    is limited to the available taxonomy and should be checked by a human reviewer,
+    especially the scope of hero_descent and return.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Editorial headings and footnotes were not used as primary evidence for motifs except where the main passage itself supplies the narrative content.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l4732-l4768
+  passage_sha256=f82920578b3d94a655f77e913d7e715cf1205fe5fd49b7fc0096770dc098e382
+

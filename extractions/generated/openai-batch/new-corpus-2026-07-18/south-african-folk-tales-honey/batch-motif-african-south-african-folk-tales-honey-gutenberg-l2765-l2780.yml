@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2765-l2780
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: LION'S DEFEAT / THE ORIGIN OF DEATH / ANOTHER VERSION OF THE SAME FABLE /
+    A THIRD VERSION OF THE SAME FABLE; lines 2765-2780
+  start: '2765'
+  end: '2780'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“as she (the Moon) died away and rose again, so mankind should die and rise
+    again.”"
+  summary: The Moon sends the Hare to tell human beings that they should die and rise
+    again like the Moon. The Hare gives the opposite message, saying that humans should
+    die and not rise again. The Moon wounds the Hare’s upper lip with a hatchet, explaining
+    the hare-lip; the Hare scratches the Moon’s face, explaining the Moon’s dark spots
+    as scars.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Moon sends the Hare to earth with a message for Men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The intended message says that because the Moon dies away and rises again,
+    mankind should die and rise again.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hare delivers an altered message that Man should die and rise no more.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the Hare returns, the Moon questions him about the message he delivered.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Moon becomes enraged, takes up a hatchet, and wounds the Hare’s upper
+    lip when the blow falls short of splitting his head.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage explains the visible hare-lip as resulting from the Moon’s blow.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Hare scratches the Moon’s face with his claws.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage explains the dark spots on the Moon as scars from the Hare’s scratches.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The heading identifies the passage as a third version of the same fable.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Moon
+  description: A personified female Moon who sends the Hare with a message, questions
+    him, wounds him with a hatchet, and bears dark spots described as scars.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: The Hare
+  description: Messenger sent by the Moon; he alters the message to mankind, is wounded
+    on the upper lip, and scratches the Moon’s face.
+  role_refs:
+  - role:2
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Men / mankind / Man
+  description: Human recipients of the Hare’s message concerning death and rising
+    again or not rising again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: sender of the life-and-death message
+  assigned_to:
+  - fig:1
+  basis: The Moon sends the Hare to inform Men about dying and rising again.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: altering messenger
+  assigned_to:
+  - fig:2
+  basis: The Hare delivers a message different from the one given by the Moon, either
+    through forgetfulness or malice.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human recipients of the message
+  assigned_to:
+  - fig:3
+  basis: The message is explicitly addressed to Men or mankind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: punisher of the messenger
+  assigned_to:
+  - fig:1
+  basis: The Moon becomes enraged at the Hare and strikes at him with a hatchet.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: marked animal figure
+  assigned_to:
+  - fig:2
+  basis: The Hare’s upper lip is cut, and this is given as the origin of the hare-lip.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: mutual wounders
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Moon wounds the Hare’s lip, and the Hare scratches the Moon’s face.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Moon’s dying away and rising again
+  literal_form: The Moon dies away and rises again.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: altered death message
+  literal_form: The Hare’s delivered statement that Man should die and rise no more.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hatchet
+  literal_form: A hatchet taken up by the Moon to split the Hare’s head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hare-lip
+  literal_form: The Hare’s severely cut upper lip, presented as the cause of the visible
+    hare-lip.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: dark spots on the Moon
+  literal_form: Dark spots on the Moon’s surface described as scars from the Hare’s
+    scratches.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Moon sends the Hare with a resurrection message
+  summary: The Moon sends the Hare to earth to tell Men that mankind should die and
+    rise again as the Moon does.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hare alters the message to final death
+  summary: 'The Hare tells mankind the opposite message: that Man should die and rise
+    no more.'
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Moon wounds the Hare
+  summary: The Hare returns, the Moon learns what happened, becomes enraged, and wounds
+    the Hare’s upper lip with a hatchet, explaining the hare-lip.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hare scars the Moon
+  summary: The wounded Hare scratches the Moon’s face, and the visible dark spots
+    on the Moon are explained as those scars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: failed or inverted message of human resurrection
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The Moon’s intended message grants mankind death followed by rising again,
+    but the Hare delivers the opposite message that Man should die and rise no more.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage states the altered message but does not further narrate human
+    death taking effect beyond the message itself.
+- id: motif:2
+  label: lunar dying-and-returning as model for human fate
+  taxonomy_refs:
+  - dying_and_returning
+  - death_rebirth
+  basis: The intended analogy explicitly compares mankind’s dying and rising again
+    to the Moon’s dying away and rising again.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The motif appears as the content of a message rather than as a completed
+    human resurrection episode.
+- id: motif:3
+  label: etiological explanation of the hare-lip
+  taxonomy_refs: []
+  basis: The passage says the Moon’s hatchet cut the Hare’s upper lip and gives this
+    as the reason for the visible hare-lip.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this animal-mark etiology.
+- id: motif:4
+  label: etiological explanation of lunar spots as scars
+  taxonomy_refs: []
+  basis: The Hare scratches the Moon’s face, and the passage identifies the Moon’s
+    dark spots as scars from that event.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this lunar-mark etiology.
+- id: motif:5
+  label: ambiguous messenger failure through forgetfulness or malice
+  taxonomy_refs: []
+  basis: The Hare’s alteration of the message is attributed to either forgetfulness
+    or malice.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage offers two possible motives and does not decide between error
+    and deliberate deception.
+comparison_claims:
+- id: claim:1
+  claim: The heading explicitly positions this passage as a third version of the same
+    fable within the source.
+  claim_level: same_motif
+  target: the surrounding versions of the same fable identified by the source heading
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage does not include the contents of the other versions,
+    so only the source’s own variant label is supported.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2767-2769
+  quote_or_summary: The Moon sends the Hare to tell Men that “as she (the Moon) died
+    away and rose again, so mankind should die and rise again.”
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2769-2772
+  quote_or_summary: The Hare, “either out of forgetfulness or malice,” tells mankind
+    that as the Moon rose and died away, “Man should die and rise no more.”
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: 2772-2776
+  quote_or_summary: The Hare returns; the Moon questions him, learns what message
+    was delivered, becomes enraged, takes up a hatchet, and cuts the Hare’s upper
+    lip, which explains the hare-lip.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2776-2780
+  quote_or_summary: The Hare, angered by his treatment, scratches the Moon’s face
+    with his claws; the dark spots on the Moon are identified as scars from that event.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: '2765'
+  quote_or_summary: 'Heading: “A THIRD VERSION OF THE SAME FABLE.”'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit about figures, sequence, and etiologies. Motif candidates
+    are directly grounded in the stated messages and explanations; the comparison
+    claim is limited to the heading’s statement that this is a third version.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external motif index identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2765-l2780
+  passage_sha256=06fa9a9da985230dd25967f68971df20e5b63735495657e97e8500ec84bffb01
+

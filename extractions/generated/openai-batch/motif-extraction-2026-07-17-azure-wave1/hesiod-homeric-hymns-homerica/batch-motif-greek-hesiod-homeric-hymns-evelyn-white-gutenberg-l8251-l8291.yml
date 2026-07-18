@@ -1,0 +1,601 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l8251-l8291
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE TELEGONY / HOMERICA / THE EXPEDITION OF AMPHIARAUS / THE TAKING OF OECHALIA;
+    lines 8251-8291
+  start: '8251'
+  end: '8291'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives fragmentary notices about Homeric and related poems.
+    Homer is said to have recited the Expedition of Amphiaraus and Hymns to the Gods
+    in a tanner''s yard. Notices on the Taking of Oechalia connect Eurytus, Iole,
+    and Heracles'' sack of Oechalia, and discuss rival attributions of the poem to
+    Homer or Creophylus. Another fragment notes a verse shared with Odyssey xiv.343.
+    A further fragment records disagreement over the number of Eurytus'' sons. The
+    final fragment gives Creophylus'' version of Medea''s story: she poisons Creon
+    in Corinth, flees to Athens, leaves her young sons at Hera Acraea''s altar, and
+    Creon''s relatives kill them and blame Medea.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Homer is described as sitting in a tanner's yard and reciting poetry to people
+    there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poems named in the recitation are the Expedition of Amphiaraus to Thebes
+    and the Hymns to the Gods.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Eurytus and his daughter Iole are named as subjects connected with the Taking
+    of Oechalia.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Heracles is said to have sacked Oechalia for Iole's sake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One account says Creophylus of Samos hosted Homer and received the attribution
+    of the Taking of Oechalia as a reward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An opposed account says Creophylus wrote the poem and Homer lent his name
+    in return for entertainment.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Callimachus' quoted lines describe the poem as the work of a Samian host of
+    Homer, singing of Eurytus' woes and golden-haired Ioleia, while being reputed
+    one of Homer's works.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: A verse about ragged garments is said to occur both at Odyssey xiv.343 and
+    in the Taking of Oechalia.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: 'There is disagreement over the number of Eurytus'' sons: Hesiod gives four
+    sons by Antioche, while Creophylus gives two.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: In the account attributed to Creophylus, Medea lives in Corinth and poisons
+    Creon, the city's ruler.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Medea flees to Athens because she fears Creon's friends and kinsfolk.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Medea's sons are described as too young to accompany her, so she leaves them
+    at the altar of Hera Acraea.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Medea expects the children's father to see to their safety.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Creon's relatives kill Medea's sons and spread the story that Medea killed
+    both her children and Creon.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Poet said to recite in a tanner's yard; also hosted by Creophylus in
+    rival attribution accounts concerning the Taking of Oechalia.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: People in the tanner's yard
+  description: Unnamed audience to whom Homer recites poetry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Amphiaraus
+  description: Named in the title Expedition of Amphiaraus to Thebes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The gods
+  description: Named in the title Hymns to the Gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Creophylus of Samos
+  description: Samian host of Homer in one account; possible author or recipient of
+    attribution of the Taking of Oechalia; also cited as giving two sons of Eurytus
+    and as source of a Medea account.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Eurytus
+  description: Father of Iole; subject of woes in the Taking of Oechalia; father whose
+    number of sons is disputed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: Iole / Ioleia
+  description: Daughter of Eurytus, called golden-haired Ioleia in the quoted Callimachus
+    lines; Heracles sacks Oechalia for her sake.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Heracles
+  description: Sacks Oechalia for Iole's sake.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Hesiod
+  description: Cited as saying Eurytus and Antioche had four sons.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Antioche
+  description: Named with Eurytus as parent of four sons in Hesiod's version.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Sons of Eurytus
+  description: Their number is disputed between Hesiod's four and Creophylus' two.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Medea
+  description: In Creophylus' account, lives in Corinth, poisons Creon, flees to Athens,
+    leaves her sons at Hera Acraea's altar, and is blamed for their deaths by Creon's
+    relatives.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+- id: fig:13
+  name_or_label: Creon
+  description: Ruler of Corinth poisoned by Medea; his relatives later kill Medea's
+    sons and spread blame against her.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:5
+- id: fig:14
+  name_or_label: Creon's friends, kinsfolk, and relatives
+  description: Group feared by Medea; Creon's relatives kill Medea's sons and spread
+    the story blaming Medea.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:5
+- id: fig:15
+  name_or_label: Medea's sons
+  description: Young children unable to accompany Medea; left at Hera Acraea's altar;
+    killed by Creon's relatives.
+  role_refs:
+  - role:14
+  evidence_refs:
+  - ev:5
+- id: fig:16
+  name_or_label: Father of Medea's sons
+  description: Unnamed father whom Medea expects to see to the children's safety.
+  role_refs:
+  - role:15
+  evidence_refs:
+  - ev:5
+- id: fig:17
+  name_or_label: Hera Acraea
+  description: Deity whose altar is the place where Medea leaves her sons.
+  role_refs:
+  - role:16
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: poet-reciter and attributed author
+  assigned_to:
+  - fig:1
+  basis: Homer recites poetry and is involved in rival accounts of attribution of
+    the Taking of Oechalia.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: audience
+  assigned_to:
+  - fig:2
+  basis: The people in the tanner's yard are the recipients of Homer's recitation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named poetic subject
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Amphiaraus and the gods are named in poem titles recited by Homer.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: host and possible authorial claimant
+  assigned_to:
+  - fig:5
+  basis: Creophylus hosts Homer in one account and is linked to rival authorship or
+    attribution of the Taking of Oechalia.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: father and sufferer in Oechalia tradition
+  assigned_to:
+  - fig:6
+  basis: Eurytus is father of Iole, subject of woes, and father of disputed sons.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: daughter connected to city sack
+  assigned_to:
+  - fig:7
+  basis: Iole is Eurytus' daughter and Oechalia is sacked for her sake.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: sacker of Oechalia
+  assigned_to:
+  - fig:8
+  basis: Heracles is explicitly said to sack Oechalia.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: textual authority for variant tradition
+  assigned_to:
+  - fig:5
+  - fig:9
+  basis: Hesiod and Creophylus are cited for differing numbers of Eurytus' sons; Creophylus
+    is also cited for the Medea account.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: mother in genealogy
+  assigned_to:
+  - fig:10
+  basis: Antioche is named with Eurytus as mother of four sons in Hesiod's version.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: disputed offspring group
+  assigned_to:
+  - fig:11
+  basis: The number of Eurytus' sons differs between Hesiod and Creophylus.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: poisoner, fugitive, and accused mother
+  assigned_to:
+  - fig:12
+  basis: Medea poisons Creon, flees to Athens, leaves her sons at an altar, and is
+    accused in the story spread by Creon's relatives.
+  evidence_refs:
+  - ev:5
+- id: role:12
+  label: poisoned city ruler
+  assigned_to:
+  - fig:13
+  basis: Creon is ruler of Corinth and is poisoned by Medea.
+  evidence_refs:
+  - ev:5
+- id: role:13
+  label: hostile kin group and killers
+  assigned_to:
+  - fig:14
+  basis: Medea fears Creon's friends and kinsfolk; his relatives kill her sons and
+    spread blame against her.
+  evidence_refs:
+  - ev:5
+- id: role:14
+  label: children left at altar and killed
+  assigned_to:
+  - fig:15
+  basis: Medea's young sons are left at Hera Acraea's altar and killed by Creon's
+    relatives.
+  evidence_refs:
+  - ev:5
+- id: role:15
+  label: expected protector
+  assigned_to:
+  - fig:16
+  basis: Medea thinks the children's father will see to their safety.
+  evidence_refs:
+  - ev:5
+- id: role:16
+  label: sanctuary deity
+  assigned_to:
+  - fig:17
+  basis: The altar where Medea leaves her sons belongs to Hera Acraea.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: altar of Hera Acraea
+  literal_form: altar
+  associated_figures:
+  - fig:12
+  - fig:15
+  - fig:17
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: ragged garments
+  literal_form: ragged garments
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Oechalia as sacked city
+  literal_form: Oechalia
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Homer recites in the tanner's yard
+  summary: Homer sits in a tanner's yard and recites the Expedition of Amphiaraus
+    to Thebes and the Hymns to the Gods to those present.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Oechalia tradition summarized
+  summary: The fragment links Eurytus and his daughter Iole with Heracles' sack of
+    Oechalia for Iole's sake.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hospitality and attribution of the Taking of Oechalia
+  summary: 'Rival accounts explain the poem''s attribution: either Creophylus hosted
+    Homer and received attribution as a reward, or Creophylus wrote it and Homer lent
+    his name in return for entertainment.'
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Shared verse notice
+  summary: A verse about ragged garments is said to appear both in Odyssey xiv.343
+    and in the Taking of Oechalia.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Variant genealogy of Eurytus' sons
+  summary: 'A scholion reports disagreement over the number of Eurytus'' sons: Hesiod
+    gives four sons by Antioche, while Creophylus gives two.'
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:6
+  label: Medea poisons Creon and flees
+  summary: In Creophylus' account, Medea poisons Creon while living in Corinth and
+    flees to Athens out of fear of his friends and kinsfolk.
+  figure_refs:
+  - fig:5
+  - fig:12
+  - fig:13
+  - fig:14
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:7
+  label: Medea's sons at Hera's altar
+  summary: Medea leaves her young sons at Hera Acraea's altar, expecting their father
+    to protect them, but Creon's relatives kill them and circulate the story that
+    Medea killed them and Creon.
+  figure_refs:
+  - fig:12
+  - fig:13
+  - fig:14
+  - fig:15
+  - fig:16
+  - fig:17
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: city sack for the sake of a woman
+  taxonomy_refs: []
+  basis: Heracles sacks Oechalia for the sake of Iole, daughter of Eurytus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage says only 'for whose sake'; it does not detail desire, abduction,
+    marriage, or recovery.
+- id: motif:2
+  label: hospitality exchanged for poetic attribution
+  taxonomy_refs: []
+  basis: Rival accounts connect Creophylus' hospitality or entertainment of Homer
+    with attribution or naming of the Taking of Oechalia.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a literary-biographical pattern in the fragment, not a mythic
+    action within the Oechalia story.
+- id: motif:3
+  label: flight after poisoning a ruler
+  taxonomy_refs:
+  - departure
+  basis: Medea poisons Creon, ruler of Corinth, and then flees to Athens because she
+    fears his friends and kinsfolk.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link is limited to the literal departure or flight; no formal
+    initiation or quest departure is stated.
+- id: motif:4
+  label: children left at a divine altar for protection
+  taxonomy_refs: []
+  basis: Medea leaves her young sons at the altar of Hera Acraea, thinking their father
+    will see to their safety.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents Medea's expectation of safety but does not state
+    that the altar successfully protects the children.
+- id: motif:5
+  label: false blame for child killing
+  taxonomy_refs: []
+  basis: Creon's relatives kill Medea's sons and spread the story that Medea killed
+    her children as well as Creon.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a reported variant attributed to Creophylus and may differ from
+    other Medea traditions not included in this passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage reports a direct textual overlap: a verse found at Odyssey xiv.343
+    is also found in the Taking of Oechalia.'
+  claim_level: linguistic_similarity
+  target: Odyssey xiv.343 and the Taking of Oechalia
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to a single verse notice and does not by itself
+    establish authorship, date, or historical transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'THE EXPEDITION OF AMPHIARAUS, Fragment #1; requested lines 8251-8257'
+  quote_or_summary: Pseudo-Herodotus' Life of Homer says Homer sat in a tanner's yard
+    and recited the Expedition of Amphiaraus to Thebes and Hymns to the Gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 'THE TAKING OF OECHALIA, Fragment #1; requested lines 8259-8271'
+  quote_or_summary: The fragment names Eurytus, Iole, Heracles' sack of Oechalia,
+    and rival accounts of the poem's attribution to Homer or Creophylus, including
+    Callimachus' notice about the Samian host of Homer.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 'THE TAKING OF OECHALIA, Fragment #2; requested lines 8273-8275'
+  quote_or_summary: '"Ragged garments, even those which now you see" is identified
+    as a verse also found at Odyssey xiv.343 and in the Taking of Oechalia.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: 'THE TAKING OF OECHALIA, Fragment #3; requested lines 8277-8279'
+  quote_or_summary: 'A scholion reports disagreement over Eurytus'' sons: Hesiod gives
+    Eurytus and Antioche four sons, while Creophylus gives two.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 'THE TAKING OF OECHALIA, Fragment #4; requested lines 8281-8291'
+  quote_or_summary: Creophylus' account says Medea poisoned Creon in Corinth, fled
+    to Athens, left her young sons at Hera Acraea's altar, and Creon's relatives killed
+    them and blamed Medea for their deaths and Creon's.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is fragmentary and much of it concerns literary attribution rather
+    than full mythic narrative. Motif labels are therefore conservative and tied closely
+    to explicit statements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where the passage explicitly supported a close match.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l8251-l8291
+  passage_sha256=c61b28b5276fb8b8eeae1260cdbb8eb0a28b6ac40b6e314f254a5b9c72165cdc
+

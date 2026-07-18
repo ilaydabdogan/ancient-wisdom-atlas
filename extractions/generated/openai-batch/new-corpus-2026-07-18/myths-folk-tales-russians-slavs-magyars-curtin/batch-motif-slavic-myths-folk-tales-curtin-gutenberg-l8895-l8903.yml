@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l8895-l8903
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: THE ENCHANTED PRINCESS. / VASSILISSA THE CUNNING AND THE TSAR OF THE SEA.
+    / CHEKH MYTHS AND FOLK-TALES. / BOYISLAV, YOUNGEST OF TWELVE.; lines 8895-8903
+  start: '8895'
+  end: '8903'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: After general delight in Boyislav, the king reflects and orders the three
+    princes who accompanied Boyislav to Black Island to be thrown to lions, which
+    kill them. Festivities follow; Boyislav and his wife go to White Island, while
+    the liberated prince, his wife, and his sisters go to Black Island and celebrate
+    their wedding and liberation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The people present are delighted with Boyislav, while the king is thoughtful
+    and seems to ponder important matters.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king summons the three princes who went with Boyislav to Black Island.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king commands that the three princes be thrown to the lions.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lions tear the three princes to pieces immediately.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: New festivities occur after the execution of the three princes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Boyislav goes with his wife to White Island.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The liberated prince goes with his wife and sisters to Black Island.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At Black Island, the liberated prince, his wife, and his sisters celebrate
+    both a wedding and their liberation.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Boyislav
+  description: A figure admired by all present; he later goes with his wife to White
+    Island.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the king
+  description: A ruler who reflects and orders the three princes thrown to the lions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the three princes
+  description: Three princes who went with Boyislav to Black Island and are thrown
+    to the lions by the king's command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the lions
+  description: Animals that tear the three princes to pieces.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Boyislav's wife
+  description: Boyislav's wife, who goes with him to White Island.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the liberated prince
+  description: A prince described as liberated; he goes with his wife and sisters
+    to Black Island and celebrates a wedding and liberation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: the liberated prince's wife
+  description: The wife of the liberated prince; she goes with him and his sisters
+    to Black Island.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: the liberated prince's sisters
+  description: Sisters of the liberated prince who go with him and his wife to Black
+    Island.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: admired central figure
+  assigned_to:
+  - fig:1
+  basis: All are described as delighted with Boyislav, and he departs with his wife
+    after the festivities.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: judging ruler
+  assigned_to:
+  - fig:2
+  basis: The king reflects and commands the execution of the three princes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: condemned princes
+  assigned_to:
+  - fig:3
+  basis: The three princes are summoned and ordered to be thrown to the lions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: agents of execution
+  assigned_to:
+  - fig:4
+  basis: The lions kill the three princes after the king's command.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wife accompanying husband
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Boyislav's wife accompanies him to White Island; the liberated prince's wife
+    accompanies him to Black Island.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: liberated royal figure
+  assigned_to:
+  - fig:6
+  basis: The passage calls him the liberated prince and says he celebrates liberation.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: female kin accompanying liberated prince
+  assigned_to:
+  - fig:8
+  basis: The sisters accompany the liberated prince and his wife to Black Island.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Black Island
+  literal_form: island
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: White Island
+  literal_form: island
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: lions
+  literal_form: animals used in execution
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wedding and liberation celebration
+  literal_form: festive rite or celebration
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: King orders punishment of the three princes
+  summary: After delight in Boyislav, the king reflects, summons the three princes
+    who went to Black Island with Boyislav, and orders them thrown to lions; the lions
+    kill them immediately.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Final festivities and island departures
+  summary: New festivities follow. Boyislav and his wife go to White Island, while
+    the liberated prince, his wife, and his sisters go to Black Island and celebrate
+    a wedding and liberation.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Ruler punishes treacherous or culpable companions after the hero's success
+  taxonomy_refs: []
+  basis: The king summons the three princes associated with Boyislav's earlier journey
+    and orders them killed by lions after general delight in Boyislav.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state the princes' offense within this excerpt; culpability
+    must be verified from surrounding context.
+- id: motif:2
+  label: Liberation followed by wedding celebration
+  taxonomy_refs: []
+  basis: The liberated prince, his wife, and his sisters celebrate at once their wedding
+    and their liberation on Black Island.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the celebration but does not describe ritual details.
+- id: motif:3
+  label: Post-crisis settlement on named islands
+  taxonomy_refs: []
+  basis: After the festivities, Boyislav and his wife go to White Island, and the
+    liberated prince with his wife and sisters goes to Black Island.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not clarify whether these are returns, new residences,
+    or politically assigned realms.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8895-8896
+  quote_or_summary: All present are delighted with Boyislav; the king is thoughtful
+    and appears to ponder important matters.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8896-8899
+  quote_or_summary: The king summons the three princes who accompanied Boyislav to
+    Black Island and orders them thrown to lions, which tear them to pieces immediately.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8901-8902
+  quote_or_summary: New festivities occur; afterward Boyislav goes with his wife to
+    White Island.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8902-8903
+  quote_or_summary: The liberated prince goes with his wife and sisters to Black Island,
+    where they celebrate both their wedding and their liberation.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    this short passage lacks preceding context explaining the three princes' guilt
+    and the status of the islands.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy refs were assigned because the passage does not clearly support the available motif-family or symbol taxonomy labels without additional context.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l8895-l8903
+  passage_sha256=3307652115bbb715df22fae07657bb345b5bb50f7ed01f22d89c9e5f3b9b1b34
+

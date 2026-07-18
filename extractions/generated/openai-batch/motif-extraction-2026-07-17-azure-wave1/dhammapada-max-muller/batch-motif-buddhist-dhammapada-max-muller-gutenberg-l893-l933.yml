@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.buddhist-dhammapada-max-muller-gutenberg-l893-l933
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Chapter XII. Self / Chapter XIII. The World / Chapter XV. Happiness / Chapter
+    XVI. Pleasure; lines 893-933
+  start: '893'
+  end: '933'
+  translation: Dhammapada, a Collection of Verses
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Verses warn that vanity and attachment to pleasure lead away from meditation
+    and produce grief, fear, loss, and fetters. They praise virtue, intelligence,
+    justice, truth, and desire for Nirvana, describe such a person as carried upward
+    by the stream, and compare good works receiving a departed doer of good to relatives
+    greeting a returning friend.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who gives himself to vanity, neglects meditation, forgets the real
+    aim of life, and grasps at pleasure will later envy one who has exerted himself
+    in meditation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage instructs that one should not seek what is pleasant or unpleasant,
+    because not seeing the pleasant and seeing the unpleasant are both described as
+    pain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that loss of the beloved is evil and that those who love
+    nothing and hate nothing have no fetters.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pleasure, affection, lust, love, and greed are each said to produce grief
+    and fear; freedom from each is said to remove grief and fear.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A person possessing virtue and intelligence, being just, speaking truth, and
+    doing his own business is said to be held dear by the world.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A person in whom desire for the Ineffable, identified parenthetically as Nirvana,
+    has arisen, who is satisfied in mind, and whose thoughts are not bewildered by
+    love, is called urdhvamsrotas, glossed as carried upwards by the stream.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Kinsmen, friends, and lovers salute a man who has been long away and returns
+    safely from afar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Good works are said to receive a person who has done good and gone from this
+    world to the other, as kinsmen receive a friend on return.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Person attached to vanity and pleasure
+  description: A person who gives himself to vanity, neglects meditation, forgets
+    the real aim of life, and grasps at pleasure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Meditation-exerting person
+  description: A person who has exerted himself in meditation and is envied by the
+    pleasure-grasping person.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Person free from attachment
+  description: A person free from pleasure, affection, lust, love, or greed, and one
+    who loves nothing and hates nothing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Virtuous and truthful person
+  description: A person possessing virtue and intelligence, acting justly, speaking
+    truth, and doing his own business.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Nirvana-oriented person
+  description: A person with desire for the Ineffable or Nirvana, satisfied in mind,
+    not bewildered by love, and called urdhvamsrotas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Returned man from afar
+  description: A man who has been long away and returns safe from afar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Kinsmen, friends, and lovers
+  description: People who salute the man returning safely from afar.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Good works
+  description: The good works of a person who has done good, described as receiving
+    him after he has gone from this world to the other.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Doer of good gone to the other world
+  description: A person who has done good and has gone from this world to the other.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Attachment-bound neglecter of meditation
+  assigned_to:
+  - fig:1
+  basis: The passage describes this person as giving himself to vanity, neglecting
+    meditation, and grasping at pleasure.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Meditative exemplar
+  assigned_to:
+  - fig:2
+  basis: This person has exerted himself in meditation and is contrasted with the
+    pleasure-grasping person.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Freed from grief, fear, and fetters
+  assigned_to:
+  - fig:3
+  basis: The passage states that absence of love and hate leaves no fetters, and freedom
+    from pleasure and related attachments leaves neither grief nor fear.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: World-honored ethical person
+  assigned_to:
+  - fig:4
+  basis: The world is said to hold dear the person marked by virtue, intelligence,
+    justice, truth, and proper conduct.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Upward-stream Nirvana seeker
+  assigned_to:
+  - fig:5
+  basis: The person with desire for Nirvana, mental satisfaction, and thoughts not
+    bewildered by love is called carried upwards by the stream.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Returning traveler
+  assigned_to:
+  - fig:6
+  basis: The man has been long away and returns safely from afar.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Receivers or welcomers
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Kinsmen, friends, and lovers salute the returning man; good works similarly
+    receive the doer of good after departure from this world.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: Good person after death or departure
+  assigned_to:
+  - fig:9
+  basis: The figure is described as one who has done good and gone from this world
+    to the other.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Fetters
+  literal_form: fetters
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Beloved subject to loss
+  literal_form: the beloved
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Upward stream
+  literal_form: stream carrying upwards
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: This world and the other
+  literal_form: from this world to the other
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Good works as receivers
+  literal_form: good works receive him
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vanity contrasted with meditation
+  summary: A person devoted to vanity and pleasure, rather than meditation, is said
+    to end by envying the person who has practiced meditation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Renunciation of pleasant and unpleasant attachments
+  summary: The passage warns against seeking pleasant or unpleasant experiences, loving
+    anything, and attachment to pleasure, affection, lust, love, and greed, because
+    these are linked with pain, grief, fear, and fetters.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The ethical person held dear
+  summary: A virtuous, intelligent, just, truthful person who attends to his own business
+    is said to be held dear by the world.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Desire for Nirvana and the upward stream
+  summary: A person whose desire for Nirvana has arisen, whose mind is satisfied,
+    and whose thoughts are not confused by love is named as one carried upwards by
+    the stream.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Return greeting and reception by good works
+  summary: The greeting of a man returning safely from afar by kinsmen, friends, and
+    lovers is used as a comparison for good works receiving the doer of good who has
+    gone to the other world.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Detachment from pleasure removes grief and fear
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly states that pleasure, affection, lust, love, and greed
+    produce grief and fear, while freedom from them removes grief and fear.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethical teaching rather than a narrative myth episode.
+- id: motif:2
+  label: Freedom from fetters through absence of love and hate
+  taxonomy_refs:
+  - wisdom
+  basis: Those who love nothing and hate nothing are said to have no fetters.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The fetter image is brief and doctrinal; the passage does not narrate
+    a literal binding or release event.
+- id: motif:3
+  label: Upward movement toward Nirvana
+  taxonomy_refs:
+  - ascent
+  basis: The Nirvana-oriented person is called urdhvamsrotas, glossed as carried upwards
+    by the stream.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The upward stream is a translated doctrinal epithet and may be metaphorical
+    rather than a full ascent narrative.
+- id: motif:4
+  label: Afterlife reception by one’s good works
+  taxonomy_refs:
+  - afterlife_journey_map
+  - return
+  basis: A person who has done good and gone from this world to the other is received
+    by his good works, explicitly compared to kinsmen receiving a returning friend.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a compact simile of postmortem reception, not a detailed
+    afterlife itinerary.
+- id: motif:5
+  label: Virtue, truth, and justice make one beloved by the world
+  taxonomy_refs:
+  - wisdom
+  basis: The world is said to hold dear the person possessing virtue and intelligence,
+    acting justly, speaking truth, and doing his own business.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a moral maxim rather than a mythic plot.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares good works receiving a good person after
+    he goes to the other world with kinsmen receiving a friend who returns safely
+    from afar.
+  claim_level: same_function
+  target: returning-friend reception pattern applied to afterlife reception by deeds
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage; it does not establish historical
+    contact with any external tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XVI, verse 209; lines 893-899
+  quote_or_summary: A person devoted to vanity rather than meditation, forgetting
+    the real aim of life and grasping at pleasure, will later envy one who has exerted
+    himself in meditation.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg Max Müller translation
+    metadata supplied as public_domain.
+- id: ev:2
+  type: summary
+  locator: Chapter XVI, verses 210-211; lines 900-907
+  quote_or_summary: The passage advises against seeking pleasant or unpleasant things,
+    says loss of the beloved is evil, and states that those who love nothing and hate
+    nothing have no fetters.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg Max Müller translation
+    metadata supplied as public_domain.
+- id: ev:3
+  type: summary
+  locator: Chapter XVI, verses 212-216; lines 908-922
+  quote_or_summary: Pleasure, affection, lust, love, and greed are each said to bring
+    grief and fear; freedom from each is said to mean knowing neither grief nor fear.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg Max Müller translation
+    metadata supplied as public_domain.
+- id: ev:4
+  type: summary
+  locator: Chapter XVI, verse 217; lines 923-925
+  quote_or_summary: A person possessing virtue and intelligence, who is just, speaks
+    truth, and does his own business, is held dear by the world.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg Max Müller translation
+    metadata supplied as public_domain.
+- id: ev:5
+  type: quote
+  locator: Chapter XVI, verse 218; lines 926-929
+  quote_or_summary: '"called urdhvamsrotas (carried upwards by the stream)"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg Max Müller translation
+    metadata supplied as public_domain.
+- id: ev:6
+  type: summary
+  locator: Chapter XVI, verses 219-220; lines 930-933
+  quote_or_summary: Kinsmen, friends, and lovers salute a man returning safely from
+    afar; likewise, good works receive the one who has done good and gone from this
+    world to the other, as kinsmen receive a returning friend.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; Project Gutenberg Max Müller translation
+    metadata supplied as public_domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    because the passage is a set of moral verses rather than a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added. Available taxonomy references were used only where directly supported by the passage wording.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:buddhist-dhammapada-max-muller-gutenberg__l893-l933
+  passage_sha256=8279e23eb895b9951a67844eedc028e5df94a57b9415730e043f73e732acbd4a
+

@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l6935-l6942
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: DOMESTIC OCCUPATIONS AND AMUSEMENTS. / VISITING. / SOCIAL CUSTOMS IN SUMMER.
+    / SOCIAL ORDER AND LAWS.; lines 6935-6942
+  start: '6935'
+  end: '6942'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a feud custom in which a murderer may visit and temporarily
+    live with the relatives of his victim, despite their right to kill him in revenge.
+    After being welcomed, he may later be challenged to wrestle and killed if defeated;
+    if he wins, he may kill someone from the opposing party. He may also be ambushed
+    and killed while hunting.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage frames the described behavior as a method of carrying on a feud.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A murderer may visit the relatives of his victim while knowing they are permitted
+    to kill him in revenge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The visiting murderer is kindly welcomed and may live quietly with them for
+    weeks or months.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The murderer may later be suddenly challenged to a wrestling match.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: If the murderer is defeated in the wrestling match, he is killed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the murderer wins the wrestling match, he may kill one of the opposite
+    party.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The murderer may also be suddenly attacked and killed by companions while
+    hunting.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: murderer
+  description: A person who has killed a victim and visits the victim's relatives
+    during a feud.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: victim
+  description: The murdered person whose relatives are involved in the feud.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: relatives of the victim
+  description: Relatives who may kill the murderer in revenge, welcome him, and are
+    associated with the opposite party in the feud.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: companions while hunting
+  description: Companions who may suddenly attack and slay the murderer during a hunt.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: murderer in feud
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the central figure as a murderer involved in a feud.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: murdered victim
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the relatives of the murderer's victim.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: avenging relatives and hosts
+  assigned_to:
+  - fig:3
+  basis: The relatives are allowed to kill the murderer in revenge but also kindly
+    welcome him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: wrestling challenger or challenged combatant
+  assigned_to:
+  - fig:1
+  basis: The murderer is suddenly challenged to wrestle and the result determines
+    possible killing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: hunting attackers
+  assigned_to:
+  - fig:4
+  basis: Companions may suddenly attack and slay the murderer while hunting.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: wrestling match
+  literal_form: A wrestling match used as a confrontation in the feud sequence.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: hunting setting
+  literal_form: A hunt during which the murderer may be attacked by companions.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Murderer visits victim's relatives
+  summary: A murderer comes to the relatives of his victim even though they are allowed
+    to kill him in revenge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Temporary welcome and residence
+  summary: The murderer is kindly welcomed and may live quietly among the victim's
+    relatives for weeks or months.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Wrestling challenge
+  summary: The murderer is suddenly challenged to a wrestling match; defeat results
+    in his death, while victory may allow him to kill someone from the opposite party.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Hunting ambush
+  summary: During hunting, the murderer may be suddenly attacked by companions and
+    slain.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: blood-feud revenge after temporary hospitality
+  taxonomy_refs: []
+  basis: The murderer may be welcomed and live quietly among the victim's relatives
+    before being killed in revenge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is ethnographic description rather than a mythic narrative;
+    the label is a passage-level pattern, not a supplied taxonomy match.
+- id: motif:2
+  label: wrestling contest determines feud killing
+  taxonomy_refs: []
+  basis: A sudden wrestling challenge can lead to the murderer's death if he loses,
+    or to his killing of an opposing party member if he wins.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No broader mythological interpretation or taxonomy reference is directly
+    supported by the passage.
+- id: motif:3
+  label: revenge ambush during hunt
+  taxonomy_refs: []
+  basis: The murderer may be suddenly attacked and slain by companions while hunting.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives this as a social practice within feud conduct, not as
+    a symbolic hunting motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6935-6936
+  quote_or_summary: The passage introduces the conduct as a method of carrying on
+    a feud and says it is foreign to the author's feelings.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6936-6938
+  quote_or_summary: "“a murderer will come to visit the relatives of his victim ...
+    allowed to kill him in revenge”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 6939-6940
+  quote_or_summary: "“He is kindly welcomed and sometimes lives quietly for weeks
+    and months.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 6940-6941
+  quote_or_summary: He is suddenly challenged to a wrestling match, and if defeated
+    is killed.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6941-6942
+  quote_or_summary: If he is victorious in the wrestling match, he may kill one of
+    the opposite party.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 6942
+  quote_or_summary: While hunting, he may be suddenly attacked by his companions and
+    slain.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal social-sequence extraction is well supported by the passage. Motif
+    labels are candidate pattern descriptions only; no supplied taxonomy motif clearly
+    applies. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were assigned because the passage does not directly support them.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l6935-l6942
+  passage_sha256=0f5718e4c34c5e6ba24129bf47de5f1eaf82e46a4dacc104db7c239c0785ce30
+

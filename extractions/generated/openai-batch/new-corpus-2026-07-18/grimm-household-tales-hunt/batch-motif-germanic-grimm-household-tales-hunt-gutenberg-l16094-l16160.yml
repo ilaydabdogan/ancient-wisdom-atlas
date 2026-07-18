@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l16094-l16160
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 16094-16160
+  start: '16094'
+  end: '16160'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A king refuses to give his youngest daughter until her elder sisters marry,
+    so the king''s son flees with her. During pursuit, the daughter changes him and
+    herself into successive forms: briar and rose, church and priest, fish-pond and
+    fish. Her parents fail to recover her; her mother gives her three walnuts for
+    times of need. The couple reaches the prince''s home territory, but after his
+    mother kisses him he forgets his bride, who waits in the village and then takes
+    service in the castle mill.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The King says he cannot give away his youngest daughter until the two eldest
+    daughters are married.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King's son goes by night to the King's daughter and runs away with her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the daughter sees her father behind them, she changes the King's son
+    into a briar and herself into a rose sheltered in the bush.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The father tries to gather the rose, but the thorn pricks his finger and he
+    returns home without the daughter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Queen tells the King that if he had gathered the rose, the briar would
+    have had to come too.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: On the second pursuit, the daughter changes the King's son into a church and
+    herself into a priest standing in the pulpit and preaching.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The father listens to the sermon and again returns home without the daughter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The Queen says the King should have brought the priest, and she goes herself
+    to pursue the couple.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: When the daughter sees her mother coming, she changes the King's son into
+    a fish-pond and herself into a fish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The mother tries to catch the fish, drinks up the whole pond, becomes ill,
+    and vomits the pond out again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The mother gives her daughter three walnuts and says they can help her in
+    her greatest need.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The couple arrives near the castle from which the King's son came, and he
+    leaves the daughter in the village while he goes for a carriage and attendants.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: At the castle, the King's son's mother kisses him; he forgets what happened
+    and what he was about to do.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: The King's son's mother orders the horses taken out of the carriage, and everyone
+    returns into the house.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:15
+  text: The maiden waits in the village, but no one comes; she then takes service
+    in the castle mill and cleans tubs by the pond every afternoon.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King's son
+  description: The young royal man who flees with the King's daughter, is transformed
+    during the pursuit, returns to his own castle, and then forgets the bride he left
+    in the village.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: King's daughter / maiden
+  description: The youngest daughter who flees with the King's son, performs the successive
+    transformations, receives three walnuts from her mother, waits in the village,
+    and later works in the castle mill.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: King, father of the daughter
+  description: The father who refuses the marriage until the elder daughters marry,
+    pursues the couple, and fails to recover his daughter after the briar-rose and
+    church-priest transformations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Queen, mother of the daughter
+  description: The mother who advises the King how he should have acted, pursues the
+    couple herself, fails to catch the fish, and gives her daughter three walnuts.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Mother of the King's son
+  description: The woman at the King's son's castle who kisses him when he is about
+    to enter the carriage; after this he forgets his bride and she orders the horses
+    removed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: eloping bridegroom and pursued fugitive
+  assigned_to:
+  - fig:1
+  basis: He runs away with the King's daughter and is repeatedly transformed while
+    the parents pursue them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: transforming bride and pursued fugitive
+  assigned_to:
+  - fig:2
+  basis: She flees with the King's son and initiates each transformation to avoid
+    her parents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: pursuing father
+  assigned_to:
+  - fig:3
+  basis: He pursues the couple twice and attempts, unsuccessfully, to recover his
+    daughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: pursuing mother and adviser
+  assigned_to:
+  - fig:4
+  basis: She advises the King how to capture the transformed pair and then goes herself
+    to pursue them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: giver of needful objects
+  assigned_to:
+  - fig:4
+  basis: After failing to recover the daughter, she gives her three walnuts said to
+    help in greatest need.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: homecoming mother linked to forgetting
+  assigned_to:
+  - fig:5
+  basis: Her kiss immediately precedes the King's son's forgetting of his bride and
+    errand; she then stops the carriage preparation.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: briar with one rose
+  literal_form: A briar bush with one rose on it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: church and preaching priest
+  literal_form: A church with a priest standing in the pulpit and preaching
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fish-pond and fish
+  literal_form: A large fish-pond with a fish leaping and peeping out of the water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: three walnuts
+  literal_form: Three walnuts given to the daughter for her greatest need
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: maternal kiss
+  literal_form: A kiss given by the King's son's mother as he is about to enter the
+    carriage
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Refused marriage and night flight
+  summary: The King delays giving his youngest daughter in marriage, and the King's
+    son flees with her by night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Briar and rose concealment
+  summary: During the father's pursuit, the daughter changes the pair into a briar
+    and rose; the father is pricked and returns home without her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Church and priest concealment
+  summary: During the second pursuit, the daughter changes the pair into a church
+    and preaching priest; the father listens and returns home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Fish-pond escape and gift of walnuts
+  summary: The Queen pursues the pair; the daughter changes them into a fish-pond
+    and fish. The Queen drinks and vomits the pond, gives up the pursuit, and gives
+    her daughter three walnuts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:5
+  label: Forgotten bride near the prince's castle
+  summary: The King's son leaves the maiden in the village while he goes for a carriage.
+    After his mother kisses him, he forgets his bride, the carriage is canceled, and
+    the maiden enters mill service by the pond.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: transformational flight from pursuers
+  taxonomy_refs:
+  - shapeshifter
+  basis: 'The fleeing pair avoid pursuit through repeated changes of form: briar and
+    rose, church and priest, fish-pond and fish.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the source of the daughter's transforming
+    power; the taxonomy reference is limited to the evident shapeshifting pattern.
+- id: motif:2
+  label: failed capture of concealed transformed figures
+  taxonomy_refs: []
+  basis: 'The pursuers fail when they do not or cannot seize the transformed counterpart:
+    the father fails to take the rose or priest, and the mother cannot catch the fish.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a pattern within the passage; no external comparative label is
+    supplied by the text.
+- id: motif:3
+  label: gift objects for greatest need
+  taxonomy_refs: []
+  basis: The Queen gives the daughter three walnuts and says they can help when she
+    is in her greatest need.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The present passage gives the objects and their promised function but
+    does not yet show their later use.
+- id: motif:4
+  label: forgotten bride after homecoming kiss
+  taxonomy_refs: []
+  basis: When the King's son returns to his castle, his mother's kiss immediately
+    precedes his forgetting of both past events and his plan to fetch the bride.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the sequence but does not explicitly state whether the
+    kiss is magical, intentional, or merely the occasion of forgetting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16094-16109
+  quote_or_summary: The King delays giving his youngest daughter; the King's son flees
+    with her at night. When the father pursues, the daughter changes him into a briar
+    and herself into a rose; the thorn pricks the father and he returns home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 16110-16124
+  quote_or_summary: The Queen says the King should have gathered the rose. The father
+    pursues again; the daughter changes the King's son into a church and herself into
+    a preaching priest. The father listens to the sermon and returns home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 16125-16141
+  quote_or_summary: The Queen decides to go herself. The daughter sees her mother
+    coming and changes the King's son into a fish-pond and herself into a fish. The
+    Queen tries to catch the fish, drinks the pond, becomes ill, and vomits it out
+    again.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 16142-16150
+  quote_or_summary: The Queen gives up and gives her daughter three walnuts for greatest
+    need. The young couple travels to the region of the King's son's castle; he leaves
+    her in the village while he goes to fetch a carriage and attendants.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 16151-16160
+  quote_or_summary: At the castle, people rejoice at the King's son's return. As he
+    is about to enter the carriage, his mother kisses him; he forgets everything and
+    his errand. His mother cancels the carriage, while the maiden waits in the village
+    and later works in the castle mill by the pond.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage and metadata. Motif candidates
+    are limited to patterns directly visible in the passage; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not name an external tradition or explicit comparative target.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l16094-l16160
+  passage_sha256=b175ad5b1bca2eaaa8237961860d3ecd2c86a66b4edc96def25190a075535e50
+

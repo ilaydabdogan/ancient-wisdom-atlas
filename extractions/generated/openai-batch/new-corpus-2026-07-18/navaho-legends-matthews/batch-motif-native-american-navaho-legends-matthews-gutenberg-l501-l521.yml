@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l501-l521
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: RACIAL AFFINITY--APPEARANCE. / PORTRAITS. / CRANIA. / LANGUAGE.; lines 501-521
+  start: '501'
+  end: '521'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: the Origin Legend declares it is a mixed language
+  summary: The passage classifies the Navaho language as mainly Athapascan, cites
+    Bancroft on the wide geographic spread of Athapascan or Tinneh dialects, uses
+    a tree image to describe that spread, and notes that the Origin Legend calls the
+    language mixed, possibly reflecting additions from other linguistic stocks.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the Navaho language belongs mainly to the Athapascan
+    family.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bancroft is cited as describing Athapascan or Tinneh dialects as spread from
+    Alaska to Sonora and Chihuahua.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cited description compares the Athapascan linguistic line to a great tree,
+    with the Rocky Mountain range as trunk, southwestern deserts as roots, and northern
+    oceanic borders as branches.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the Origin Legend declares the Navaho language to be mixed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage suggests that additions to the tribe from other stocks probably
+    added words of alien origin, but says these additions are not yet known.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Navaho
+  description: The people whose language is discussed as mainly Athapascan and described
+    by the Origin Legend as mixed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Athapascans or Tinneh
+  description: A linguistic people or group whose dialects are described as widely
+    diffused across North America.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hubert Howe Bancroft
+  description: The cited author whose work is quoted for the description of Athapascan
+    or Tinneh diffusion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: language-bearing people
+  assigned_to:
+  - fig:1
+  basis: The passage discusses the Navaho language and its classification.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: widely diffused linguistic group
+  assigned_to:
+  - fig:2
+  basis: The passage cites Bancroft on the extensive diffusion of Athapascan or Tinneh
+    dialects.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cited authority
+  assigned_to:
+  - fig:3
+  basis: Bancroft is named as the source of the quoted description.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: great tree image
+  literal_form: A great tree whose trunk is the Rocky Mountain range, roots encompass
+    the deserts of Arizona and New Mexico, and branches touch northern oceanic borders.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  - mountain
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Linguistic classification and diffusion
+  summary: The passage classifies the Navaho language as mainly Athapascan and cites
+    a geographic description of Athapascan or Tinneh diffusion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mixed-language statement
+  summary: The passage reports that the Origin Legend calls the language mixed and
+    suggests that contact with other stocks may have introduced additional words.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 501-503
+  quote_or_summary: The passage states that the Navaho language undoubtedly belongs
+    mainly to the Athapascan family.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 503-512
+  quote_or_summary: Bancroft is cited on the Athapascans or Tinneh, whose dialects
+    are described as extending from Alaska to Sonora and Chihuahua.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 512-517
+  quote_or_summary: '"like a great tree whose trunk is the Rocky Mountain range, whose
+    roots encompass the deserts of Arizona and New Mexico, and whose branches touch
+    the borders of Hudson Bay and of the Arctic and Pacific Oceans."'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 517-518
+  quote_or_summary: '"the Origin Legend declares it is a mixed language"'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 518-521
+  quote_or_summary: The passage reasons that accessions from other stocks probably
+    added words of alien origin, though these additions are not yet known and require
+    further study.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is primarily ethnographic and linguistic rather than myth-narrative.
+    The tree image is extracted as a literal rhetorical image, not as evidence for
+    a mythic motif. No candidate motifs or comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No motif family was assigned because the passage does not narrate a mythic action or explicitly support a comparative motif claim.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l501-l521
+  passage_sha256=7db89ac30e52cb220d8b67db508df9378ac4d554e3d3ebb3ae076de1f220fae1
+

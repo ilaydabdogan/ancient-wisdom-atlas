@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l866-l906
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: A JACKAL AND A WOLF / THE LION, THE JACKAL, AND THE MAN / THE WORLD'S REWARD
+    / THE LION AND JACKAL; lines 866-906
+  start: '866'
+  end: '906'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Mrs. Tiger visits Jackal to ask after the little tigers in his care. Jackal
+    prevents the children from seeing her, arranges for Mrs. Tiger to view them one
+    by one from a concealed position, and compensates for the missing firstborn by
+    showing another cub twice. This repeated deception continues weekly until the
+    youngest cub is shown seven times. On a later visit, Mrs. Tiger finds the estate
+    deserted and a letter claiming that the Jackals have gone on a picnic with the
+    children and then to Jackalsdance for New Year as part of their education.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jackal sees Mrs. Tiger approaching from a distance and goes out to meet her
+    according to neighborly custom.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mrs. Tiger asks Jackal whether the children are well, happy, and not causing
+    him too much trouble.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jackal tells Mrs. Tiger not to speak loudly, saying the children might hear
+    her, become tearful, and want to return with her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mrs. Tiger says she wants to see the children, and Jackal proposes lifting
+    them to a window one by one so she can see them without being seen.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After drinking coffee and talking, Jackal takes Mrs. Tiger to a door looking
+    out on the back yard and shows the children one by one.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the viewing, the children are unable to see Mrs. Tiger.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Jackal lifts the sixth little tiger twice because the firstborn had been prepared
+    in pickle for a Sunday meal the day before.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The same Saturday viewing arrangement continues until the youngest little
+    tiger is lifted seven times in succession.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When Mrs. Tiger returns the next week, the estate is silent and appears deserted.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Mrs. Tiger finds a letter near the front door saying that the writers have
+    gone on a picnic with the children and then to Jackalsdance for New Year, allegedly
+    for the children’s progressive education.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: Host who meets Mrs. Tiger, answers her questions about the children,
+    controls how she views them, repeats the display of a child, and is associated
+    with the deserted estate and explanatory letter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Mrs. Tiger / Tiger's wife
+  description: Visitor and mother figure who asks about the little tigers, wants to
+    see them, views them from a concealed position, and later finds the estate deserted
+    with a letter near the door.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Mrs. Jackal
+  description: Jackal’s wife, present with Jackal and Mrs. Tiger while they drink
+    coffee and converse before the viewing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: little tigers / small team / children
+  description: Children whose welfare Mrs. Tiger asks about; they are displayed one
+    by one, cannot see Mrs. Tiger, and include a firstborn, a sixth little tiger,
+    and the youngest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive host or caretaker
+  assigned_to:
+  - fig:1
+  basis: Jackal reassures Mrs. Tiger, prevents direct contact, controls the viewing,
+    repeats one child to replace the missing firstborn, and is connected to the later
+    absence of the household.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: concerned visiting mother
+  assigned_to:
+  - fig:2
+  basis: Mrs. Tiger asks after the children, requests to see them, returns again,
+    and responds to the deserted estate by finding the letter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: household participant
+  assigned_to:
+  - fig:3
+  basis: Mrs. Jackal sits with Jackal and Mrs. Tiger drinking coffee and talking before
+    the arranged viewing.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: children under Jackal's care
+  assigned_to:
+  - fig:4
+  basis: The children are the subject of Mrs. Tiger’s inquiry, are shown one by one,
+    and are said by the letter to be traveling with the household.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: concealed viewing point
+  literal_form: window or door looking out on the back yard
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: pickled firstborn as meal
+  literal_form: firstborn little tiger prepared in pickle for the Sunday meal
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sevenfold repeated display
+  literal_form: the youngest little tiger lifted seven times in succession
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: letter explaining absence
+  literal_form: letter found in the grass near the front door
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mrs. Tiger arrives and asks about the children
+  summary: Jackal sees Mrs. Tiger approaching, greets her, and hears her ask whether
+    the children are well and manageable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jackal proposes concealed viewing
+  summary: Jackal discourages loud speech and direct contact, then offers to show
+    the children to Mrs. Tiger one by one from a position where they cannot see her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Back-yard display and substitution
+  summary: After coffee and conversation, Jackal brings Mrs. Tiger to a door and displays
+    the children, lifting the sixth little tiger twice because the firstborn is unavailable,
+    having been prepared in pickle for a meal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Weekly repetition of the deception
+  summary: The same procedure occurs each Saturday until the youngest little tiger
+    must be lifted seven times in a row.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Deserted estate and explanatory letter
+  summary: Mrs. Tiger returns to find the estate silent and deserted, then finds a
+    letter claiming that the household has gone away with the children for a picnic,
+    New Year travel, and education.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deceptive caretaker conceals the loss of children
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal acts as host or caretaker, prevents direct contact between Mrs. Tiger
+    and the children, controls her view of them, and uses repeated display to conceal
+    that the firstborn is absent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage demonstrates deception
+    by Jackal but does not explicitly use a formal motif label.
+- id: motif:2
+  label: substitution by repeated display
+  taxonomy_refs: []
+  basis: A missing child is concealed by lifting another little tiger twice, and later
+    by lifting the youngest seven times in succession.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this episode-level pattern.
+- id: motif:3
+  label: false explanation after disappearance
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After the estate appears deserted, a letter claims that the household has
+    gone away with the children for benign purposes such as a picnic, holiday travel,
+    and education.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the letter’s content but does not explicitly identify
+    its writer in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 866-873
+  quote_or_summary: Jackal sees Mrs. Tiger approaching, goes out to meet her, and
+    she asks whether the children are well, happy, and not too much trouble.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 874-884
+  quote_or_summary: Jackal urges Mrs. Tiger not to speak loudly, says the children
+    might want to return with her, and proposes showing them one by one at a window
+    without letting them see her.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 885-893
+  quote_or_summary: After coffee, Jackal takes Mrs. Tiger to a door facing the back
+    yard; he shows the children one by one, lifting the sixth little tiger twice because
+    the firstborn had been prepared in pickle for the Sunday meal.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 894-896
+  quote_or_summary: The same event occurs every Saturday until the youngest little
+    tiger has to be lifted seven times in succession.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 897-906
+  quote_or_summary: Mrs. Tiger returns the next week, finds the estate silent and
+    deserted, and discovers a letter near the front door claiming that the household
+    has gone on a picnic with the children and then to Jackalsdance for New Year as
+    part of their education.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif assignments
+    are cautious because the taxonomy options are broad and no external tale-type
+    comparison was used. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l866-l906
+  passage_sha256=be7af942a3f9ef88b3cec9d2a499be04fdcfc1d602aac4dd130ab43dcb2de96f
+

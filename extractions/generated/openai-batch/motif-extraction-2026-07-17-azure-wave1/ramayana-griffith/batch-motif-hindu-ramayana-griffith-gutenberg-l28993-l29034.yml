@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l28993-l29034
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XII. The Heavenly Bow. / Canto XVI. Winter. / Canto XVIII. The Mutilation.
+    / Canto XIX. The Rousing Of Khara.; lines 28993-29034
+  start: '28993'
+  end: '29034'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Fourteen giant foes attack Ráma with weapons. Ráma breaks their javelins
+    with arrows, then kills the fourteen with further arrows. The wounded Śúrpaṇakhá
+    sees her champions die, flees to her brother Khara, laments at his feet, and reports
+    the defeat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fourteen fierce figures threaten Ráma and rush at him with scimitar and spear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The giant crew throws levelled spears against Ráma, who is called the matchless
+    hero and son of Raghu.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Ráma bends his bow and sends twice seven shafts to meet the thrown javelins,
+    cutting them apart.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ráma grows angry, draws fourteen fresh bright arrows, and shoots them at the
+    fourteen foes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The arrows pierce the fiends’ breasts, bury themselves in the earth, and the
+    fiends fall dead with mangled, blood-covered bodies.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:6
+  text: The passage compares Ráma’s shooting of arrows to Indra casting the levin.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The arrows entering the earth are compared to serpents moving through an ant-hill.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Śúrpaṇakhá sees her champions die, flees back to her brother’s home with drying
+    wounds, and is in pain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Śúrpaṇakhá bends at Khara’s feet, weeps, and tells him the outcome of the
+    fight and the fall of her giant champions.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ráma, son of Raghu
+  description: The matchless hero who uses a bow and arrows against the fourteen giant
+    foes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: The fierce fourteen / giant crew / fiends
+  description: Fourteen armed giant foes who rush at Ráma, throw spears, and are killed
+    by his arrows.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Śúrpaṇakhá
+  description: A demon or monster who sees her champions die, flees wounded to her
+    brother’s home, weeps, and reports the defeat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Khara
+  description: Śúrpaṇakhá’s brother, at whose feet she bends while reporting the defeat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Indra
+  description: Named only in a simile comparing Ráma’s arrow-shot to Indra casting
+    the levin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: heroic archer-defender
+  assigned_to:
+  - fig:1
+  basis: Ráma is called the matchless hero and counters the giant crew with bow and
+    arrows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: armed attackers
+  assigned_to:
+  - fig:2
+  basis: The fourteen rush at Ráma with scimitar and spear and throw spears at him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: slain champions
+  assigned_to:
+  - fig:2
+  basis: The arrows pierce the fiends, and Śúrpaṇakhá later reports her giant champions’
+    fall.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: wounded witness and messenger
+  assigned_to:
+  - fig:3
+  basis: Śúrpaṇakhá sees the champions die, flees with wounds, laments, and tells
+    Khara what happened.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: brother receiving lament
+  assigned_to:
+  - fig:4
+  basis: Khara is identified as Śúrpaṇakhá’s brother, and she bends at his feet while
+    reporting the fight.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine simile comparator
+  assigned_to:
+  - fig:5
+  basis: Indra is invoked in a comparison for the way Ráma shoots arrows.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bow and arrows
+  literal_form: Ráma’s bow, twice seven shafts, and fourteen fresh sunbright arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: attacker weapons
+  literal_form: scimitar, spear, and javelins carried or thrown by the giant crew
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fourteen
+  literal_form: fourteen foes and fourteen arrows, also phrased as twice seven shafts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: serpent-through-ant-hill image
+  literal_form: arrows buried in the earth compared to serpents creeping through an
+    ant-hill
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: uprooted trees image
+  literal_form: the slain fiends compared to trees uprooted by a stormy blast
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: plant-gum tears image
+  literal_form: Śúrpaṇakhá’s tears compared to trickling drops of oozy gum from a
+    plant
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Indra’s levin
+  literal_form: the levin cast by Indra in the simile for Ráma’s arrows
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Fourteen giants attack and Ráma counters
+  summary: The fourteen armed giants rush Ráma and throw spears; Ráma bends his bow
+    and cuts apart their javelins with arrows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ráma kills the fourteen foes
+  summary: Ráma’s anger grows; he shoots fourteen bright arrows, which pierce the
+    fiends and leave them dead on the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Śúrpaṇakhá reports the defeat to Khara
+  summary: Śúrpaṇakhá flees wounded to her brother’s home, bends at Khara’s feet,
+    weeps, and tells him of the bloody fight and the fall of her champions.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: single heroic archer defeats a band of monstrous attackers
+  taxonomy_refs: []
+  basis: Ráma alone counters the weapons of the fourteen giant foes and kills them
+    with arrows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a combat episode, not a complete independent mythic
+    cycle.
+- id: motif:2
+  label: number-matched counterstroke
+  taxonomy_refs: []
+  basis: The number fourteen is applied to the foes and to Ráma’s fresh arrows, with
+    an earlier phrasing of twice seven shafts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly explain symbolic significance for the
+    number.
+- id: motif:3
+  label: wounded demon messenger appeals to brother after defeat
+  taxonomy_refs:
+  - sibling_pair
+  basis: Śúrpaṇakhá flees wounded to her brother Khara, laments at his feet, and reports
+    the defeat of her champions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The sibling relationship is explicit, but the passage alone does not establish
+    a broader sibling-pair mythic structure.
+- id: motif:4
+  label: serpent imagery for deadly missiles
+  taxonomy_refs:
+  - serpent
+  basis: The arrows that pass through the fiends and bury themselves in earth are
+    compared to serpents creeping through an ant-hill.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The serpent appears as a simile rather than as an acting serpent figure.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens Ráma’s arrow-shot to Indra casting the levin.
+  claim_level: visual_similarity
+  target: Indra casting the levin
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is a local poetic simile and does not identify Ráma
+    with Indra or establish a broader shared episode.
+- id: claim:2
+  claim: The passage explicitly likens the arrows entering the earth to serpents moving
+    through an ant-hill.
+  claim_level: visual_similarity
+  target: serpent movement through an ant-hill
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is imagistic; no literal serpent action occurs in the
+    episode.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28993-28998
+  quote_or_summary: "“the fierce fourteen” raise “scimitar and spear” and rush at
+    Ráma."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 28997-29002
+  quote_or_summary: The giant crew throws spears; Ráma bends his bow, sends twice
+    seven shafts, and cuts every javelin apart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: approximately lines 29004-29018
+  quote_or_summary: Ráma grows furious, draws fourteen fresh sunbright arrows, and
+    shoots them at the giant crew.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: approximately lines 29025-29029
+  quote_or_summary: The demon sees her champions die and flees with drying wounds
+    back to her brother’s home.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: approximately lines 29030-29034
+  quote_or_summary: Śúrpaṇakhá bends at Khara’s feet, weeps, and tells him of the
+    bloody fray and her champions’ fall.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; summary from supplied passage.
+- id: ev:6
+  type: quote
+  locator: approximately lines 29017-29024
+  quote_or_summary: Arrows enter earth “As serpents through an ant-hill creep”; fiends
+    fall like uprooted trees.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: approximately lines 29013-29016
+  quote_or_summary: "“As Indra casts the levin, so / Shot forth his arrows at the
+    foe.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain translation; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The combat sequence and reporting scene are explicit. Motif labels are conservative;
+    taxonomy links are limited to clearly present sibling and serpent elements, with
+    cautions for figurative or partial usage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Line locators within the supplied range are approximate where stanza wrapping and blank lines may affect exact numbering.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l28993-l29034
+  passage_sha256=9c2df7c49e17c25213a1e2de3d928f64d154a328d641302e168a3843bd67335d
+

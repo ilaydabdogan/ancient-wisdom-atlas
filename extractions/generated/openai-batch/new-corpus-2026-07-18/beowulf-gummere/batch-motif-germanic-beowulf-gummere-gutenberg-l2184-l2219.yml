@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l2184-l2219
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: HROTHGAR AND BEOWULF. / VIII. / UNFERTH TAUNTS BEOWULF. / BEOWULF SILENCES
+    UNFERTH.--GLEE IS HIGH.; lines 2184-2219
+  start: '2184'
+  end: '2219'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"Take thou in charge now the noblest of houses; / Be mindful of honor, exhibiting
+    prowess, / Watch ''gainst the foeman!"'
+  summary: After courtly rejoicing, Hrothgar prepares to sleep as darkness falls and
+    the hall's monstrous foe is expected. Hrothgar entrusts the Danish hall to Beowulf
+    alone, instructing him to guard it, act with honor and prowess, and survive the
+    coming danger.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Courtly discussion, shouting, and happiness are heard in the building before
+    Hrothgar seeks sleep.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hrothgar knows that the horrid hell-monster in the hall-building has a fight
+    determined.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sunlight is no longer visible; darkness has descended, and shadowy shapes
+    move around under heaven.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The liegemen rise and Hrothgar and Beowulf exchange formal salutations.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hrothgar gives the wassail-hall to Beowulf's care and keeping.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: Hrothgar says he has entrusted the hall of the Danemen to no one else but
+    Beowulf since he could raise hand and buckler.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Hrothgar commands Beowulf to take charge of the noblest house, remember honor,
+    show prowess, watch against the foe, and survive the adventure.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hrothgar / Healfdene's son
+  description: The Danish ruler who retires to sleep and entrusts the hall to Beowulf.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Beowulf
+  description: The hero addressed by Hrothgar and placed in charge of guarding the
+    hall.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: horrid hell-monster / foeman
+  description: The hostile being associated with the hall-building and the expected
+    fight.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: liegemen / heroes / conquerors
+  description: The courtly company in the building who rejoice, rise, and exchange
+    greetings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: retiring ruler
+  assigned_to:
+  - fig:1
+  basis: Hrothgar, Healfdene's son, goes to seek sleep as night falls.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: entruster of the hall
+  assigned_to:
+  - fig:1
+  basis: Hrothgar gives the wassail-hall to Beowulf's care and says he has entrusted
+    it to no one else.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: appointed hall-guardian
+  assigned_to:
+  - fig:2
+  basis: Beowulf is told to take charge of the house and watch against the foe.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: honor-bound hero
+  assigned_to:
+  - fig:2
+  basis: Hrothgar tells Beowulf to be mindful of honor and exhibit prowess.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: expected monstrous foe
+  assigned_to:
+  - fig:3
+  basis: The passage identifies a hell-monster in the hall-building and a foe against
+    whom Beowulf must watch.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: courtly warrior company
+  assigned_to:
+  - fig:4
+  basis: The group is described through courtly discussion, conquerors' shouting,
+    happiness, and formal rising and saluting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: entrusted hall
+  literal_form: the hall-building / wassail-hall / hall of the Danemen / noblest of
+    houses
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: night darkness
+  literal_form: sunlight no longer visible; lowering darkness over all
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hand and buckler
+  literal_form: Hrothgar's raised hand and buckler
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Courtly joy before night danger
+  summary: The hall is filled with courtly speech, shouting, and happiness until Hrothgar
+    goes to sleep; darkness falls and the monster-threat is anticipated.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hrothgar entrusts the hall to Beowulf
+  summary: The liegemen rise, Hrothgar and Beowulf exchange salutations, and Hrothgar
+    places the hall under Beowulf's care, charging him to watch against the foe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: hero appointed to guard a threatened hall
+  taxonomy_refs: []
+  basis: Hrothgar entrusts the Danish hall to Beowulf alone and commands him to take
+    charge and watch against the foe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage establishes the appointment and warning, but the actual combat
+    occurs outside this line range.
+- id: motif:2
+  label: nightfall before monstrous attack
+  taxonomy_refs: []
+  basis: The passage links loss of sunlight and descending darkness with the known
+    presence of the hell-monster and the expected fight.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The monster does not yet appear in direct action within this passage.
+- id: motif:3
+  label: royal charge to an honor-bound warrior
+  taxonomy_refs: []
+  basis: Hrothgar formally instructs Beowulf to remember honor, show prowess, defend
+    the hall, and survive the adventure.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader royal succession or legitimacy claim is made in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2184-2192
+  quote_or_summary: The hall resounds with courtly discussion and heroes' joy until
+    Hrothgar seeks sleep; the hell-monster is expected, sunlight is gone, darkness
+    descends, and shadowy shapes move around.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2194-2196
+  quote_or_summary: The liegemen rise; Hrothgar and Beowulf salute one another, and
+    Hrothgar gives the wassail-hall to Beowulf's care and keeping.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 2197-2203
+  quote_or_summary: '"Not to any one else have I ever entrusted, / But thee and thee
+    only, the hall of the Danemen... Take thou in charge now the noblest of houses...
+    Watch ''gainst the foeman!"'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates
+    and should be reviewed against the broader Beowulf episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol refs were assigned because the available taxonomy list does not directly name the hall-guarding or night-monster-watch pattern attested in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l2184-l2219
+  passage_sha256=0c18df8acd40a3d1deb85dcba5ca45073bde1a70960aad32a012644046c70068
+

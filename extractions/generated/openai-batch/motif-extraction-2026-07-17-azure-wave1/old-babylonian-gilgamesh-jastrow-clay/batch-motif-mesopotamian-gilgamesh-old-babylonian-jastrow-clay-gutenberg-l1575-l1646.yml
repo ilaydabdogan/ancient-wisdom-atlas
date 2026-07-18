@@ -1,0 +1,588 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l1575-l1646
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: Part III / PREFATORY NOTE / INTRODUCTION. / VIII.; lines 1575-1646
+  start: '1575'
+  end: '1646'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage interprets Gilgamesh's search for renewal of life as a quest
+    for immortality, links the Deluge episode with divine favor and seasonal rainy
+    imagery, notes independent Sumerian and Akkadian deluge traditions, summarizes
+    the episode of the rejuvenating plant stolen by a serpent, and describes the twelfth
+    tablet's teaching that there is no escape from the netherworld.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gilgamesh's search for renewal of life is described as man's longing for eternal
+    life, with the sun-god's waning power and winter used as images of aging and death.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A favorite of the gods is said to have escaped a destructive deluge in which
+    all mankind perished, and Gilgamesh seeks him to learn the secret of eternal life.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Utnapishtim is described as a human survivor of the Deluge who enjoys immortal
+    life among the gods and tells Gilgamesh the story of universal destruction.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that only those singled out by the special favor of the
+    gods can live forever at the distant source of the streams; the rest of mankind
+    must face death.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Deluge story is associated with the eleventh tablet and the eleventh month,
+    the month of rain curse, while Gilgamesh's rejection of Ishtar is associated with
+    the sixth tablet and the sixth month.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage reports that Sumerian and Akkadian deluge stories exist without
+    reference or connection to Gilgamesh.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Utnapishtim tells Gilgamesh of a magic plant growing in deep water that can
+    restore old age to youth, and Gilgamesh finds and plucks it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Gilgamesh intends to take the plant back to Erech for general benefit, but
+    while he bathes in a cool cistern a serpent snatches the plant, leaving his purpose
+    unachieved.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The twelfth tablet is described as teaching that there is no escape from the
+    netherworld after life ends, and that burial and care of the dead can secure only
+    a relatively comfortable rest.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Gilgamesh invokes Enkidu's shade, which rises from the lower world and gives
+    a discouraging reply to Gilgamesh's request to tell the law of the earth.
+  category: action
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Hero whose wanderings and searches are used to illustrate longing for
+    eternal life; he seeks Utnapishtim, finds the plant, loses it, returns to Erech,
+    and invokes Enkidu's shade.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Utnapishtim / survivor of the Deluge
+  description: Human survivor of the Deluge who enjoys immortal life among the gods
+    and tells Gilgamesh about the catastrophe and the rejuvenating plant.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: gods
+  description: Divine beings whose special favor singles out some for immortal life;
+    Utnapishtim is described as living among them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Utnapishtim's wife
+  description: At her request, Utnapishtim decides to tell Gilgamesh about the magic
+    plant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: serpent
+  description: A serpent comes along while Gilgamesh bathes and snatches the rejuvenating
+    plant from him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Enkidu's shade
+  description: The shade of Enkidu is invoked by Gilgamesh, rises from the lower world,
+    and replies that it cannot tell what Gilgamesh asks.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Ishtar
+  description: Goddess whose rejection by Gilgamesh is mentioned as an episode recounted
+    in the sixth tablet.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: sun-god
+  description: The sun-god's waning power after midsummer is used as an image for
+    human weakening after the meridian of life.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: seeker of immortality
+  assigned_to:
+  - fig:1
+  basis: Gilgamesh's wanderings and search for life are described as a quest for immortality,
+    and he seeks the survivor to learn the secret of eternal life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: immortal flood survivor
+  assigned_to:
+  - fig:2
+  basis: Utnapishtim is called the survivor of the Deluge, human yet enjoying immortal
+    life among the gods.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine favoring powers
+  assigned_to:
+  - fig:3
+  basis: The passage says only those singled out by the special favor of the gods
+    can live forever.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: revealers of plant knowledge
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: At his wife's request, Utnapishtim decides to tell Gilgamesh about the magic
+    plant.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: snatcher of the plant
+  assigned_to:
+  - fig:5
+  basis: The serpent snatches the plant from Gilgamesh.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: netherworld shade-messenger
+  assigned_to:
+  - fig:6
+  basis: Enkidu's shade rises from the lower world and responds to Gilgamesh's request.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:7
+  label: rejected goddess
+  assigned_to:
+  - fig:7
+  basis: The passage refers to Gilgamesh's rejection of Ishtar.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: waning solar figure
+  assigned_to:
+  - fig:8
+  basis: The sun-god's waning power is used in the passage's seasonal image of decline.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: destructive deluge
+  literal_form: destructive deluge / catastrophe bringing universal destruction
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: source of the streams
+  literal_form: distant "source of the streams"
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rejuvenating plant
+  literal_form: magic plant growing in deep water with the power of restoring old
+    age to youth
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: serpent
+  literal_form: serpent that snatches the plant
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: cool cistern
+  literal_form: cool cistern where Gilgamesh stops to bathe
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: netherworld / lower world
+  literal_form: nether world / lower world to which all must go after life
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: winter as death
+  literal_form: winter is death
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Seasonal framing of Gilgamesh's quest
+  summary: The passage frames Gilgamesh's search for renewal as a human longing for
+    eternal life, using the waning sun and winter as images of decline and death.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gilgamesh seeks the immortal flood survivor
+  summary: Gilgamesh hears of a divinely favored survivor of a destructive deluge,
+    seeks him out, and encounters Utnapishtim, who tells of the catastrophe and illustrates
+    the limits of mortal life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Tablet-month placement and independent deluge traditions
+  summary: The passage associates the Deluge and Ishtar-rejection episodes with particular
+    tablets and months, and notes Sumerian and Akkadian deluge stories independent
+    of Gilgamesh.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Search for the plant and loss to the serpent
+  summary: Utnapishtim tells Gilgamesh about the rejuvenating plant; Gilgamesh finds
+    and plucks it, plans to bring it to Erech, but loses it when a serpent snatches
+    it while he bathes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Enkidu's shade and the law of the earth
+  summary: The passage describes a didactic netherworld episode in which Gilgamesh
+    invokes Enkidu's shade, which rises from the lower world but says it cannot tell
+    what Gilgamesh asks.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: quest for eternal life
+  taxonomy_refs:
+  - mystical_quest
+  basis: Gilgamesh's search for renewal is explicitly described as a search for life
+    and a quest for immortality.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an introductory interpretation rather than a primary narrative
+    excerpt.
+- id: motif:2
+  label: divinely favored survivor of a world-destroying flood
+  taxonomy_refs:
+  - flood_and_renewal
+  - divine_beloved
+  basis: A favorite of the gods survives a destructive deluge in which mankind perishes,
+    and Utnapishtim is described as living immortally among the gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage emphasizes survival and immortality; renewal after the flood
+    is less directly described.
+- id: motif:3
+  label: myths aligned with seasonal calendar months
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links the Deluge tablet to the rainy-season month and the Ishtar-rejection
+    tablet to the end of summer, while suggesting the two tales may have formed part
+    of a cycle distributed among the months.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage uses tentative language and states that the Gilgamesh Epic
+    itself does not form such a cycle.
+- id: motif:4
+  label: rejuvenating plant found in deep water
+  taxonomy_refs:
+  - mystical_quest
+  basis: Gilgamesh searches for and finds a magic plant growing in deep water that
+    can restore old age to youth.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The plant restores youth from old age; the passage does not say it grants
+    full immortality.
+- id: motif:5
+  label: serpent takes the life-restoring plant
+  taxonomy_refs:
+  - serpent
+  basis: A serpent snatches the rejuvenating plant while Gilgamesh bathes, and Gilgamesh
+    returns with his purpose unachieved.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not state the serpent's motive or any transformation
+    resulting from the theft.
+- id: motif:6
+  label: no escape from the netherworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The twelfth tablet is described as illustrating the belief that there is
+    no escape from the netherworld after death.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy label is approximate; the passage gives a doctrine
+    of finality rather than a detailed map of an afterlife journey.
+- id: motif:7
+  label: summoned shade withholds knowledge of the dead
+  taxonomy_refs:
+  - wisdom
+  - afterlife_journey_map
+  basis: Gilgamesh asks Enkidu's shade to tell the law of the earth, but the shade
+    answers, 'I cannot tell.'
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The shade responds to a request for knowledge, but the passage gives only
+    a brief excerpt of the exchange.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Deluge tale existed independently of the Gilgamesh
+    Epic in a Sumerian text and in Akkadian fragments.
+  claim_level: same_motif
+  target: Sumerian and Akkadian deluge stories without Gilgamesh
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage summarizes scholarly publications and does not provide
+    the contents of those independent texts.
+- id: claim:2
+  claim: The passage cautiously suggests that the Deluge episode and the Ishtar-rejection
+    episode may have belonged to a seasonal cycle of myths distributed among months.
+  claim_level: same_function
+  target: seasonally distributed myth-cycle pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The same passage says the Gilgamesh Epic does not form such a cycle
+    and that the episodes were artificially attached to the hero's adventures.
+- id: claim:3
+  claim: The passage reads the Deluge story as a nature myth symbolizing the rainy
+    season's destruction of life in nature.
+  claim_level: archetypal_reading
+  target: rainy-season destruction pattern
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the passage author's interpretation, not a claim directly voiced
+    by a character in the epic.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1575-1583
+  quote_or_summary: Gilgamesh's search for renewal of life is viewed as longing for
+    eternal life; the waning sun-god and winter are used as images of decline and
+    death.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1583-1589
+  quote_or_summary: A favorite of the gods escapes a destructive deluge in which mankind
+    perishes; Gilgamesh hears of him and seeks the secret of eternal life; the deluge
+    is interpreted as a rainy-season nature myth.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1589-1597
+  quote_or_summary: Gilgamesh meets the survivor of the Deluge, who is human but immortal
+    among the gods; Utnapishtim tells of universal destruction, and only those favored
+    by the gods can live forever at the source of the streams.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1599-1608
+  quote_or_summary: The Deluge is placed in the eleventh tablet/month of rain curse;
+    Gilgamesh's rejection of Ishtar is placed in the sixth tablet/month; the passage
+    suggests the tales may have belonged to a monthly cycle but says the Epic does
+    not form such a cycle.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1608-1613
+  quote_or_summary: The passage cites a Sumerian text and Akkadian fragments containing
+    deluge stories without reference or connection to the Gilgamesh Epic.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: 1615-1621
+  quote_or_summary: Utnapishtim, moved by pity and at his wife's request, tells Gilgamesh
+    of a magic plant in deep water that restores old age to youth; Gilgamesh finds
+    and plucks it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:7
+  type: summary
+  locator: 1621-1625
+  quote_or_summary: Gilgamesh plans to take the plant to Erech for everyone, stops
+    to bathe in a cool cistern, and a serpent snatches the plant, so he returns with
+    his purpose unachieved.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:8
+  type: summary
+  locator: 1627-1633
+  quote_or_summary: The twelfth tablet is described as didactic and as illustrating
+    belief that there is no escape from the netherworld; proper burial and care of
+    the dead can secure only a fairly comfortable rest.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:9
+  type: summary
+  locator: 1633-1639
+  quote_or_summary: Enkidu is reintroduced; his shade is invoked by Gilgamesh, rises
+    from the lower world, and Gilgamesh asks him to tell the law of the earth that
+    he has experienced.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; neutral summary based on supplied passage.
+- id: ev:10
+  type: quote
+  locator: 1641-1643
+  quote_or_summary: '"I cannot tell thee, my friend, I cannot tell."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; brief excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a public-domain introductory discussion summarizing epic episodes
+    and scholarly interpretations. Literal episode extraction is strong, while taxonomy
+    mapping and comparative claims are more tentative because several motifs are presented
+    through the editor's interpretive framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used; extraction is limited to the supplied passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l1575-l1646
+  passage_sha256=f5baa655fc9c29e8ba1fd841485ec90d4b850a1108a54fca218c05a93515883d
+

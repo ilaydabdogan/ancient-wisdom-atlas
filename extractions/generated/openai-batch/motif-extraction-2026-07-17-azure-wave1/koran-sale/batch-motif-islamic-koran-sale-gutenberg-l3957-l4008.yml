@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3957-l4008
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION I. / SECTION II. / SECTION III / SECTION IV.; lines 3957-4008
+  start: '3957'
+  end: '4008'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes Islamic teachings, as presented by Sale, on the
+    number and rank of prophets, the six prophets who brought new dispensations, Muhammad's
+    appeal to earlier scriptures, belief in resurrection and future judgment, and
+    the grave examination of the dead by angels named Monker and Nakr.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage reports two traditions for the number of prophets: 224,000 or
+    124,000, with 313 apostles among them.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The apostles are described as being sent with special commissions to reclaim
+    mankind from infidelity and superstition.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Six named figures are said to have brought new laws or dispensations that
+    successively abrogated preceding ones: Adam, Noah, Abraham, Moses, Jesus, and
+    Mohammed.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that Muslims believe the prophets were generally free from
+    great sins and consequential errors and professed one religion, Islam, despite
+    different laws and institutions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage reports a hierarchy among prophets, giving first place to revealers
+    and establishers of new dispensations and the next place to apostles.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says Islamic tradition includes some scriptural patriarchs and
+    other named persons among prophets, and also includes names not appearing in scripture.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that Mohammed acknowledged the divine authority of the
+    Pentateuch, Psalms, and Gospel and appealed to their consonancy with the Koran
+    and to alleged prophecies about himself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that Mohammed charged Jews and Christians with suppressing
+    passages that bore witness to him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage identifies belief in a general resurrection and future judgment
+    as an article of faith required by the Koran.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Before resurrection and judgment, the passage describes an intermediate state
+    of body and soul after death.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: When a corpse is laid in the grave, an angel receives it and announces the
+    coming of two examiners.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The two examiners are described as black, livid angels of terrible appearance
+    named Monker and Nakr.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The examiners order the dead person to sit upright and question him about
+    faith in the unity of God and the mission of Mohammed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: If the dead person answers rightly, the body is allowed to rest in peace and
+    is refreshed by the air of paradise.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: If the dead person does not answer rightly, the examiners beat him on the
+    temples with iron maces until he cries out in anguish.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: God is described as sending prophets into the world and as the one
+    whose unity is tested in the grave examination.
+  role_refs:
+  - role:1
+  - role:11
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Prophets
+  description: A large class of divinely sent figures, counted in two traditions as
+    224,000 or 124,000.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Apostles
+  description: A subset of 313 prophets sent with special commissions to reclaim mankind
+    from infidelity and superstition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Adam, Noah, Abraham, Moses, Jesus, and Mohammed
+  description: Six figures named as bringers of new laws or dispensations that successively
+    abrogated the preceding ones.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Mohammed
+  description: Named among the six dispensation-bringers; also described as appealing
+    to earlier scriptures as evidence of his mission and as the figure whose mission
+    is tested in the grave examination.
+  role_refs:
+  - role:4
+  - role:5
+  - role:11
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Jews and Christians
+  description: Communities whom Mohammed is said to have charged with stifling passages
+    that bore witness to him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Followers of Mohammed
+  description: Described as producing texts from Old and New Testament copies to support
+    Mohammed's cause.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Corpse or dead person
+  description: The deceased body laid in the grave, received by an angel, ordered
+    to sit upright, examined, and either refreshed or punished.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Receiving angel
+  description: An angel who receives the corpse in the grave and gives notice of the
+    coming of the two examiners.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Monker and Nakr
+  description: Two black livid angels of terrible appearance who examine the dead
+    person and punish wrong answers.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: sender of prophets
+  assigned_to:
+  - fig:1
+  basis: God is described as sending prophets into the world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divinely sent prophets
+  assigned_to:
+  - fig:2
+  basis: The passage counts prophets sent by God and describes shared prophetic attributes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: commissioned apostles
+  assigned_to:
+  - fig:3
+  basis: Apostles are described as prophets with special commissions to reclaim mankind.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: bringers of new dispensations
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The six named figures are said to have brought new laws or dispensations.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: scripturally argued prophet
+  assigned_to:
+  - fig:5
+  basis: Mohammed is described as appealing to earlier scriptures and alleged prophecies
+    concerning himself.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: accused suppressors of witness passages
+  assigned_to:
+  - fig:6
+  basis: Jews and Christians are said to be charged with stifling passages that bore
+    witness to Mohammed.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: textual advocates
+  assigned_to:
+  - fig:7
+  basis: Mohammed's followers are described as producing Old and New Testament texts
+    to support his cause.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: postmortem examinee
+  assigned_to:
+  - fig:8
+  basis: The dead person is ordered to sit upright and is questioned about faith.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: grave receiver and herald
+  assigned_to:
+  - fig:9
+  basis: The angel receives the corpse and announces the coming examiners.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: grave examiners and punishers
+  assigned_to:
+  - fig:10
+  basis: Monker and Nakr examine the dead person and beat him if he answers wrongly.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:11
+  label: objects of required confession
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The examination concerns the unity of God and the mission of Mohammed.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: numbered prophetic multitude
+  literal_form: 224,000 or 124,000 prophets, with 313 apostles
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: six dispensational lawgivers
+  literal_form: six named figures who brought new laws or dispensations
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: grave
+  literal_form: the grave in which the corpse is laid and examined
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: air of paradise
+  literal_form: air of paradise refreshing the body that answers rightly
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: iron maces
+  literal_form: iron maces used to beat the dead person's temples after a wrong answer
+  associated_figures:
+  - fig:8
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Prophetic enumeration and hierarchy
+  summary: The passage describes a large number of prophets, a smaller number of apostles,
+    six new-dispensation bringers, and a hierarchy that ranks dispensation-revealers
+    above apostles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Relation to earlier scriptures
+  summary: The passage connects Islamic prophetology to biblical figures and says
+    Mohammed appealed to the Pentateuch, Psalms, and Gospel as consonant with the
+    Koran and as witnessing to his mission.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Article of resurrection and future judgment
+  summary: The passage identifies general resurrection and future judgment as required
+    belief, then introduces the intermediate state of body and soul after death.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Grave examination of the dead
+  summary: A corpse laid in the grave is received by an angel, warned of two examiners,
+    questioned by Monker and Nakr about faith, and then either refreshed by paradise's
+    air or beaten with iron maces.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: vast lineage of divinely sent prophets
+  taxonomy_refs: []
+  basis: The passage reports large traditional counts of prophets, a subset of apostles,
+    and a hierarchy among prophetic figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a doctrinal enumeration rather than a narrative episode; no taxonomy
+    family directly matches it.
+- id: motif:2
+  label: successive revelation through new dispensations
+  taxonomy_refs: []
+  basis: Six named figures are described as bringing new laws or dispensations that
+    successively abrogate earlier ones.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage uses the language of laws and dispensations, not an explicit
+    covenant formula.
+- id: motif:3
+  label: general resurrection and future judgment
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The passage directly names belief in a general resurrection and future judgment
+    as an article required by the Koran.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is an expository summary and does not narrate the final judgment
+    itself.
+- id: motif:4
+  label: postmortem examination in the grave
+  taxonomy_refs:
+  - divine_judgment
+  basis: The dead person is examined by two angels concerning faith, with consequences
+    based on the answer.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The examination is described as part of an intermediate state before the
+    final resurrection and judgment.
+- id: motif:5
+  label: after-death reward or punishment based on confession
+  taxonomy_refs:
+  - divine_judgment
+  basis: A right answer brings rest and the air of paradise; a wrong answer brings
+    beating with iron maces.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives only the opening of the punishment description and is
+    interrupted by the line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage directly supports comparison with the broad motif families of
+    resurrection and divine judgment because it explicitly names general resurrection
+    and future judgment.
+  claim_level: same_motif
+  target: 'available motif families: resurrection; divine_judgment'
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The source passage is a doctrinal summary rather than a full eschatological
+    narrative.
+- id: claim:2
+  claim: The grave examination by Monker and Nakr functions as a postmortem judgment
+    pattern within the passage, since supernatural examiners question the dead and
+    assign immediate reward or punishment.
+  claim_level: same_function
+  target: postmortem examination or divine-judgment pattern
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not compare this scene to an external tradition; the
+    comparison is limited to functional motif classification.
+- id: claim:3
+  claim: The passage explicitly relates Islamic prophetology to Jewish and Christian
+    scriptural traditions by naming biblical figures and saying Mohammed appealed
+    to the Pentateuch, Psalms, and Gospel.
+  claim_level: same_function
+  target: Jewish and Christian scriptural prophet traditions
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is Sale's summary and includes polemical claims; it does
+    not establish detailed one-to-one equivalence for every figure or text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3959-3965
+  quote_or_summary: Two traditions count 224,000 or 124,000 prophets; 313 are apostles
+    with special commissions; six named figures brought new laws or dispensations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain text as supplied from Project Gutenberg/Sale translation.
+- id: ev:2
+  type: summary
+  locator: lines 3965-3971
+  quote_or_summary: Muslims are said to believe prophets were free from great sins,
+    professed Islam, differed in laws and institutions, and were ranked by degrees.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain text as supplied from Project Gutenberg/Sale translation.
+- id: ev:3
+  type: summary
+  locator: lines 3972-3981
+  quote_or_summary: The passage says Islamic tradition reckons various scriptural
+    patriarchs and other figures as prophets, including some under Koranic names and
+    some whose names do not appear in scripture.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain text as supplied from Project Gutenberg/Sale translation.
+- id: ev:4
+  type: summary
+  locator: lines 3982-3988
+  quote_or_summary: Mohammed is described as acknowledging the Pentateuch, Psalms,
+    and Gospel, appealing to their consonancy with the Koran and to prophecies about
+    himself, and charging Jews and Christians with suppressing witness passages.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain text as supplied from Project Gutenberg/Sale translation.
+- id: ev:5
+  type: summary
+  locator: lines 3989-3993
+  quote_or_summary: The Koran is said to require belief in general resurrection and
+    future judgment; the passage then introduces teachings about the intermediate
+    state of body and soul after death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain text as supplied from Project Gutenberg/Sale translation.
+- id: ev:6
+  type: summary
+  locator: lines 3994-3998
+  quote_or_summary: A corpse laid in the grave is received by an angel, warned of
+    two examiners, and then questioned by Monker and Nakr about God's unity and Mohammed's
+    mission.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain text as supplied from Project Gutenberg/Sale translation.
+- id: ev:7
+  type: summary
+  locator: lines 3999-4001
+  quote_or_summary: A right answer lets the body rest in peace and be refreshed by
+    paradise's air; a wrong answer brings blows to the temples with iron maces.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain text as supplied from Project Gutenberg/Sale translation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about resurrection, judgment, prophetic hierarchy,
+    and grave examination. Some motif labels are classificatory and should be reviewed
+    because the source is an expository translator's introduction rather than a primary
+    narrative scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs applied; the passage contains grave, air of paradise, and iron maces, but not the provided symbol refs cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3957-l4008
+  passage_sha256=6913967b9e2511b3b4ed544eb3fda62580f430fcf1fd099f02b69d14544676af
+

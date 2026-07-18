@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l5093-l5199
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XXI. / CHAPTER XXII. / CHAPTER I. / CHAPTER II.; lines 5093-5199
+  start: '5093'
+  end: '5199'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The boy Jesus punishes boys and accusers through spoken words that immediately
+    take effect: one boy withers after scattering water Jesus had gathered, another
+    dies after rushing against Jesus, and accusers become blind. Jesus later partially
+    heals the withered boy at others'' request, and Joseph rebukes him by pulling
+    his ear.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The son of Annas the scribe scatters waters that Jesus had gathered into lakes,
+    using a willow bough.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jesus becomes angry and says the boy will wither like a tree and bear no leaves,
+    branches, or fruit.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boy immediately becomes withered all over.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the request of those present, Jesus heals the withered boy but leaves a
+    small member withered as a warning.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A second boy runs into Jesus' shoulder; Jesus says he will go no farther,
+    and the boy immediately falls down dead.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Witnesses say that whatever Jesus says immediately comes to pass.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Parents of the dead boy complain to Joseph that Jesus kills their children
+    and should be taught to bless rather than curse or be made to leave.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Joseph privately instructs Jesus about injuring the people and causing hatred
+    and prosecution.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Jesus says those who made accusations will suffer everlasting punishment,
+    and the accusers immediately become blind.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Joseph pulls Jesus by the ear, after which Jesus becomes angry and tells Joseph
+    to trouble him no more.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: boy Jesus
+  description: A boy whose spoken words cause withering, death, blindness, and partial
+    healing in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: son of Annas the scribe
+  description: A boy standing with Joseph who scatters waters Jesus had gathered and
+    then becomes withered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Joseph
+  description: Joseph receives complaints about Jesus, instructs him, and pulls him
+    by the ear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: parents of the withered boy
+  description: They lament their son's condition, carry him to Joseph, and accuse
+    Joseph of keeping a son guilty of such actions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+- id: fig:5
+  name_or_label: second boy
+  description: A boy who runs into Jesus' shoulder and immediately falls down dead
+    after Jesus speaks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: parents of the dead boy
+  description: They complain to Joseph that Jesus kills their children and should
+    be taught to bless rather than curse or should depart.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: accusers of Jesus
+  description: Those who accused Jesus become blind immediately after Jesus speaks
+    of their punishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: witnesses
+  description: People who see the events are afraid and say that Jesus' words immediately
+    come to pass.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:12
+roles:
+- id: role:1
+  label: miraculous child
+  assigned_to:
+  - fig:1
+  basis: Jesus is repeatedly identified as a boy, and his words immediately produce
+    extraordinary effects.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:2
+  label: speaker of effective blessing and curse
+  assigned_to:
+  - fig:1
+  basis: The passage contrasts blessing and cursing and reports that Jesus' words
+    produce immediate effects, including healing, death, and blindness.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:3
+  label: recipient of punitive speech
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: One boy withers after Jesus' speech, and another dies after Jesus' speech.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: guardian or parental authority
+  assigned_to:
+  - fig:3
+  basis: Joseph is addressed by complaining parents, instructs Jesus, and physically
+    rebukes him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:5
+  label: complaining parents
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Parents bring complaints to Joseph about harms done to their children.
+  evidence_refs:
+  - ev:7
+  - ev:11
+- id: role:6
+  label: accusers punished with blindness
+  assigned_to:
+  - fig:7
+  basis: Those who accused Jesus become blind immediately after Jesus' declaration
+    of punishment.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: fearful witnesses
+  assigned_to:
+  - fig:8
+  basis: Witnesses respond with fear, confusion, and amazement and comment on the
+    power of Jesus' speech.
+  evidence_refs:
+  - ev:6
+  - ev:12
+symbols:
+- id: sym:1
+  label: water gathered into lakes
+  literal_form: waters gathered into lakes, then scattered
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: willow bough
+  literal_form: bough of a willow tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: withering tree comparison
+  literal_form: withering as a tree without leaves, branches, or fruit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: blindness
+  literal_form: accusers become blind
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: ear-pulling rebuke
+  literal_form: Joseph plucks Jesus by the ear
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Scattering of waters and withering of the boy
+  summary: The son of Annas scatters waters Jesus had gathered; Jesus angrily declares
+    he will wither, and the boy immediately withers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Partial healing as warning
+  summary: After the parents complain to Joseph, Jesus heals the withered boy at the
+    request of those present but leaves a small member withered as a warning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: scene:3
+  label: Death of the boy in the street
+  summary: A boy rushes against Jesus' shoulder; Jesus says the boy will go no farther,
+    and the boy immediately dies. Witnesses and parents respond with fear and complaint.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Joseph's instruction and punishment of accusers
+  summary: Joseph instructs Jesus privately. Jesus replies that the accusers will
+    suffer punishment, and they immediately become blind.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Joseph's physical rebuke
+  summary: Joseph pulls Jesus by the ear, after which Jesus becomes angry and warns
+    Joseph not to trouble him further.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: miraculous child whose words immediately take effect
+  taxonomy_refs:
+  - miraculous_child
+  basis: The passage repeatedly identifies Jesus as a boy and reports that his speech
+    immediately causes withering, death, blindness, and partial healing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage emphasizes punitive speech as much as childhood wonder-working;
+    the taxonomy reference captures only the child-wonder aspect.
+- id: motif:2
+  label: punitive curse with immediate bodily effect
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jesus' angry declarations are followed immediately by the boy's withering,
+    another boy's death, and accusers' blindness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: The passage does not explicitly frame each act as divine judgment; the
+    classification is based on punitive consequences following Jesus' speech.
+- id: motif:3
+  label: partial restoration leaving a mark as warning
+  taxonomy_refs: []
+  basis: Jesus heals the withered boy but leaves a small member withered so that the
+    observers may take warning.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this specific pattern.
+- id: motif:4
+  label: blessing versus curse under communal pressure
+  taxonomy_refs: []
+  basis: The dead boy's parents tell Joseph to teach Jesus to bless and not curse
+    or else depart with him.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The motif is based on a complaint within the passage, not on a full blessing
+    scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5093-5108
+  quote_or_summary: The son of Annas the scribe, standing with Joseph, takes a willow
+    bough and scatters waters that Jesus had gathered into lakes.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5109-5118
+  quote_or_summary: Jesus becomes angry and tells the boy he will wither like a tree
+    and bear no leaves, branches, or fruit.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5119-5120
+  quote_or_summary: The boy immediately becomes withered all over.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5128-5134
+  quote_or_summary: At the request of those present, Jesus heals the withered boy
+    but leaves a small member withered as a warning.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5135-5144
+  quote_or_summary: A boy runs into Jesus' shoulder; Jesus angrily says he will go
+    no farther, and the boy instantly falls down dead.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5145-5149
+  quote_or_summary: Witnesses ask where the boy was born, since everything he says
+    presently comes to pass.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5150-5160
+  quote_or_summary: The dead boy's parents complain to Joseph that he should teach
+    Jesus to bless and not curse or depart, because Jesus kills their children.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5161-5167
+  quote_or_summary: Joseph privately instructs Jesus, asking why he does things that
+    injure people and cause hatred and prosecution.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5168-5176
+  quote_or_summary: Jesus says the people who spoke against him will suffer everlasting
+    punishment, and those who accused him immediately become blind.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 5182-5199
+  quote_or_summary: Joseph sees the action, pulls Jesus by the ear, and Jesus, angry,
+    tells him to be easy, says they will not be found if sought, and tells him not
+    to trouble him anymore.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 5121-5127
+  quote_or_summary: The parents of the withered boy lament his misfortune, carry him
+    to Joseph, and accuse Joseph of keeping a son guilty of such actions.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 5177-5181
+  quote_or_summary: Observers are afraid and confused, saying that whatever Jesus
+    says, good or bad, immediately comes to pass.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about characters, actions, and immediate effects
+    of speech. Motif labels beyond the supplied miraculous-child and divine-judgment
+    taxonomy require review because the passage itself does not provide an interpretive
+    framework.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. No comparison claims were added because the passage does not itself make an explicit cross-textual or inter-traditional comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l5093-l5199
+  passage_sha256=c3dc7cff469d522d1f6cc2c9792c025ecc6b3a5baeaf612e70c022807c911ca9
+

@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l23922-l24015
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 23922-24015
+  start: '23922'
+  end: '24015'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A rich man is morally questioned by the voice at the door of his heart
+    and admits greed and lack of charity. A poor neighbor asks him for grain; the
+    rich man gives more than requested on condition that the poor man watch his grave
+    for three nights after death. The rich man dies soon after. The poor man keeps
+    his promise; on the third night a fearless discharged soldier joins him. At midnight
+    the Evil One appears to claim the dead man, threatens the watchers, then offers
+    gold. The soldier negotiates for enough gold to fill one boot and secretly cuts
+    the boot sole so it will not fill.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The rich man is standing and surveying his riches when a knock occurs at the
+    door of his heart rather than at the door of his room.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A voice asks the rich man whether he has helped his family, considered the
+    poor, shared bread with the hungry, and been content with what he has.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The rich man's heart answers that he has been hard and pitiless, has shown
+    no kindness to his family, has turned away beggars, has neglected God, and has
+    desired ever more wealth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A poor neighbor with many hungry children asks the rich man to lend him four
+    measures of corn.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The rich man offers eight measures of corn as a gift rather than a loan, on
+    condition that the poor man watch by his grave for three nights after his death.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The rich man dies after three days, is buried, and the poor man decides to
+    keep his promise because he accepted the corn and had given his word.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The first two nights of grave-watching pass quietly in the churchyard, with
+    the moon above the grave and an owl flying past.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: On the third evening the poor man meets a scarred, discharged soldier who
+    says he is afraid of nothing and has no shelter.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The soldier agrees to help keep watch at the grave and says that whatever
+    they encounter, good or bad, they will share between them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: At midnight the Evil One appears bodily before the two watchers, claims the
+    man in the grave, and threatens to wring their necks if they do not leave.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The soldier refuses to obey or fear the Evil One and says that the watchers
+    will remain seated there.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The Devil offers a bag of money to make the watchers leave; the soldier asks
+    instead for as much gold as will go into one of his boots.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: While the Devil is away fetching gold, the soldier cuts the sole from his
+    left boot and places the boot in grass at the edge of a half-overgrown hole.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the rich man
+  description: A wealthy man who surveys his riches, admits hardness and greed through
+    his heart's answer, gives corn to his poor neighbor on a condition, dies after
+    three days, and is buried.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the poor neighbor / peasant
+  description: A poor man with many children who asks for corn, accepts the condition
+    to watch the rich man's grave, and keeps the promise for three nights.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the discharged soldier
+  description: A scarred paid-off soldier in an old cloak and riding-boots who says
+    he fears nothing, helps keep watch, defies the Evil One, and cuts the sole from
+    his boot for the gold bargain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: the Evil One / the Devil
+  description: A supernatural figure who appears bodily at midnight, claims the dead
+    rich man, threatens the watchers, then tries to bribe them with money and fetches
+    gold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: wealthy sinner and conditional giver
+  assigned_to:
+  - fig:1
+  basis: The figure is rich, admits cruelty and greed, gives corn on the condition
+    of a grave vigil, dies, and is claimed by the Evil One.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: needy petitioner and promise-keeper
+  assigned_to:
+  - fig:2
+  basis: The figure asks for food for starving children and later keeps his promise
+    to watch the grave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: fearless helper and tricking negotiator
+  assigned_to:
+  - fig:3
+  basis: The soldier says he is afraid of nothing, joins the grave watch, refuses
+    the Evil One's threats, negotiates for bootful gold, and alters the boot.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: supernatural claimant and tempter with gold
+  assigned_to:
+  - fig:4
+  basis: The Evil One says the dead man belongs to him, threatens the watchers, and
+    then offers money to make them leave.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: door of the heart
+  literal_form: A knock at the door of the rich man's heart, contrasted with the door
+    of his room.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bread and corn as food for the hungry
+  literal_form: Bread mentioned in the heart's questions and eight measures of corn
+    given to the poor neighbor.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: water rising above the head
+  literal_form: The poor man's speech image of standing like one who feels water rising
+    above his head.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: grave and churchyard
+  literal_form: The buried rich man's grave-mound in the churchyard, where the three-night
+    watch occurs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: moon and owl at the grave
+  literal_form: The moon above the grave and an owl flying past and crying during
+    the night watch.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: boot with cut sole
+  literal_form: The soldier's left riding-boot with its sole cut off and set over
+    a half-overgrown hole.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: bag of gold
+  literal_form: A bag of money or gold offered and fetched by the Devil as a bribe.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Moral questioning at the door of the heart
+  summary: While the rich man surveys his wealth, a knock at his heart is followed
+    by questions about charity and contentment, and the heart confesses greed and
+    pitilessness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Corn granted in exchange for a grave-watch promise
+  summary: A poor neighbor asks for corn for his starving children; the rich man gives
+    eight measures as a present on condition that the neighbor watch his grave for
+    three nights after death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Death, burial, and first two quiet nights
+  summary: The rich man dies after three days and is buried. The poor man remembers
+    his promise and watches by the grave; the first two nights pass quietly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The soldier joins the third-night watch
+  summary: On the third evening the poor man meets a discharged soldier, who is fearless,
+    has no shelter, and agrees to keep watch with him and share whatever happens.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: scene:5
+  label: The Evil One confronts the watchers and is drawn into a gold bargain
+  summary: At midnight the Evil One appears, claims the dead man, threatens the watchers,
+    then offers money. The soldier resists, bargains for a bootful of gold, and cuts
+    the boot sole to prepare a trick.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: inner moral reckoning of the greedy rich man
+  taxonomy_refs:
+  - divine_judgment
+  basis: The rich man is questioned at the door of his heart about charity and contentment,
+    admits greed and neglect of God, soon dies, and is later claimed by the Evil One.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly identify the questioning voice as divine
+    judgment; the motif assignment rests on the moral interrogation, confession, death,
+    and supernatural claim.
+- id: motif:2
+  label: food gift bound to a grave-vigil promise
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The poor man receives eight measures of corn and in return promises to watch
+    the giver's grave for three nights, a promise he keeps despite fear and uncertainty.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exchange is narrated as a condition and promise; its sacred quality
+    is implied mainly by the grave setting and later supernatural encounter, not directly
+    named.
+- id: motif:3
+  label: three-night vigil at a grave
+  taxonomy_refs: []
+  basis: The poor man promises to watch the rich man's grave for three nights; two
+    nights pass quietly, while the third brings a supernatural confrontation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference from the supplied list fits this grave-watch
+    pattern exactly.
+- id: motif:4
+  label: fearless helper faces a supernatural threat
+  taxonomy_refs: []
+  basis: The soldier declares he is afraid of nothing, agrees to help keep watch,
+    and refuses the Evil One's threats at midnight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage emphasizes fearlessness, but does not frame the event as an
+    initiation or formal quest.
+- id: motif:5
+  label: tricking the Devil with an unfillable boot
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The soldier negotiates with the Devil for as much gold as will fit in a boot,
+    then cuts off the boot's sole and places it over a hole so the measure will not
+    fill normally.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The trick is only beginning within the supplied passage; the outcome is
+    not included in this excerpt.
+- id: motif:6
+  label: Devil's bribery with gold
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Devil shifts from threats to an offer of money in exchange for the watchers
+    leaving the grave, and fetches gold to satisfy the soldier's negotiated condition.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The exchange is explicit, but the supplied taxonomy term is broader than
+    the exact bribery episode.
+comparison_claims:
+- id: claim:1
+  claim: The soldier explicitly likens himself to the youngster who went forth to
+    learn how to shiver, supporting a cautious comparison at the level of fearless
+    behavior in the face of uncanny or dangerous situations.
+  claim_level: same_function
+  target: the tale-pattern of the fearless youth who goes forth to learn fear, named
+    in the soldier's speech
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only the soldier's brief allusion and does not
+    include the full compared tale; the similarity supported here is fearlessness,
+    not a complete shared plot.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23922-24015; opening moral-questioning episode
+  quote_or_summary: The rich man surveys his riches; a knock occurs at the door of
+    his heart, and a voice asks about charity, family, the poor, hunger, and contentment.
+    The heart answers that he has been hard, pitiless, unkind, neglectful of God,
+    and never satisfied with wealth.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 23922-24015; poor neighbor's petition and corn condition
+  quote_or_summary: The poor neighbor with hungry children asks for four measures
+    of corn. The rich man says he will give eight as a present if the poor man will
+    watch by his grave for three nights after his death.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 23922-24015; death, burial, and first two nights
+  quote_or_summary: After three days the rich man suddenly dies and is buried. The
+    poor man remembers his promise, goes to the churchyard, and watches by the grave;
+    the first two nights pass safely and quietly, with moon and owl imagery.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 23922-24015; third evening meeting with soldier
+  quote_or_summary: On the third evening the poor man feels uneasy and meets an unfamiliar
+    scarred man, a paid-off soldier in an old cloak and riding-boots, who says he
+    is afraid of nothing and has no shelter; he agrees to help keep watch and share
+    whatever happens.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 23922-24015; midnight appearance of the Evil One
+  quote_or_summary: At midnight a shrill whistling is heard and the Evil One appears
+    bodily, says the man in the grave belongs to him, and threatens the watchers.
+    The soldier refuses obedience and fear and says they will remain there.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 23922-24015; Devil's bribe and soldier's boot demand
+  quote_or_summary: The Devil decides money is the best way to get hold of the two
+    watchers, offers a bag of money, and the soldier demands as much as will go into
+    one of his boots. The Devil goes to fetch more gold from a money-changer.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 23922-24015; cut-sole boot preparation
+  quote_or_summary: When the Devil vanishes, the soldier removes his left boot, cuts
+    off the sole with the peasant's knife, and places it in high grass by the grave
+    at the edge of a half-overgrown hole. The Devil returns with a small bag of gold
+    and is told to pour it in.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: quote
+  locator: 23922-24015; soldier's self-comparison
+  quote_or_summary: "“I am like the youngster who went forth to learn how to shiver”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif taxonomy assignments
+    are cautious where the available taxonomy does not exactly name the grave-watch
+    or unfillable-boot episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external tale-type or motif-index identifiers were added. The only comparison claim is based on the passage's own allusion to the youngster who went forth to learn how to shiver.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l23922-l24015
+  passage_sha256=ae1a442ef5fcdf1684d127e1541ad10deac352a8fdd98af62ab0c1ef3dbf6678
+

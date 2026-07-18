@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2664-l2711
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2664-2711
+  start: '2664'
+  end: '2711'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"if they set the sun against him on his right hand, and the moon on his
+    left, he would not leave his enterprise"'
+  summary: The passage narrates early conversions, Mohammed's disclosure of his mission
+    to his kin through a gathering arranged by Ali, Ali's acceptance as helper and
+    deputy, public preaching that provokes opposition, Abu Tleb's protection of Mohammed,
+    and persecution that leads some followers to flee to Ethiopia.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Six chief companions and a few more were converted over a period of three
+    years.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mohammed made his mission public after reporting that God had commanded him
+    to admonish his near relations.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mohammed directed Ali to prepare an entertainment and invite the sons and
+    descendants of Abd'almotalleb.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: About forty invitees came; Abu Laheb caused the first gathering to break up
+    before Mohammed spoke, leading to a second invitation the next day.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the second gathering Mohammed offered his kindred happiness in this life
+    and the next, said God had commanded him to call them, and asked who would assist
+    him and become his brother and vicegerent.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ali rose after the others hesitated, declared himself Mohammed's assistant,
+    and threatened those who would oppose him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Mohammed embraced Ali, told those present to hear and obey Ali as his deputy,
+    and the company laughed at the result.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Mohammed began public preaching; when he reproached the people and their fathers
+    for idolatry and perverseness, they declared themselves his enemies.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Abu Tleb protected Mohammed, was pressured by the Koreish to desert him, and
+    warned Mohammed of danger before promising continued support.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: Mohammed answered that even if the sun were set against him on his right hand
+    and the moon on his left, he would not leave his enterprise.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Koreish used force and ill-treatment against Mohammed's followers, making
+    Mecca unsafe for some of them.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: In the fifth year of the mission, sixteen followers, four of them women, fled
+    into Ethiopia; Othmn Ebn Affn and his wife Rakah are named among them.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Mission proclaimer who calls his kin, preaches publicly, persists despite
+    opposition, and allows endangered followers to seek refuge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Ali
+  description: Directed to prepare the entertainment; later rises as Mohammed's assistant
+    and is embraced and named deputy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Abu Laheb
+  description: One of Mohammed's uncles who causes the first kin gathering to break
+    up before Mohammed can speak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sons and descendants of Abd'almotalleb
+  description: Kin group invited to the entertainment; about forty attend and initially
+    hesitate when Mohammed asks for assistance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Abu Tleb
+  description: Mohammed's uncle and protector, pressured by the Koreish to desert
+    him, who ultimately promises to stand by him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: GOD Almighty
+  description: Named as the one who commands Mohammed to call his kin unto him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:7
+  name_or_label: Koreish
+  description: Collective opponents who pressure Abu Tleb and later use force and
+    ill-treatment against Mohammed's followers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:8
+  name_or_label: Mohammed's followers without protectors
+  description: Followers treated injuriously and permitted to seek refuge elsewhere
+    when Mecca becomes unsafe.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Othmn Ebn Affn and Rakah
+  description: A husband and wife named among those who fled into Ethiopia.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: mission proclaimer and public preacher
+  assigned_to:
+  - fig:1
+  basis: Mohammed announces the mission, addresses kin, preaches publicly, and refuses
+    to abandon the enterprise.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: assistant, brother, vicegerent, and deputy
+  assigned_to:
+  - fig:2
+  basis: Ali accepts the request for assistance and is embraced and named as deputy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: disrupting uncle
+  assigned_to:
+  - fig:3
+  basis: Abu Laheb causes the first assembled company to break up before Mohammed
+    speaks.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: invited kin audience
+  assigned_to:
+  - fig:4
+  basis: The descendants of Abd'almotalleb are invited to the entertainment and hear
+    Mohammed's appeal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: protector and supportive uncle
+  assigned_to:
+  - fig:5
+  basis: Abu Tleb protects Mohammed and promises to stand by him after warning him
+    of danger.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: divine source of command
+  assigned_to:
+  - fig:6
+  basis: God is said to command Mohammed to admonish and call his relations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:7
+  label: hostile collective opposition
+  assigned_to:
+  - fig:7
+  basis: The Koreish solicit and threaten Abu Tleb and later use force and ill-treatment.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:8
+  label: persecuted refugees
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: Some followers are treated injuriously and flee to Ethiopia, including the
+    named couple.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: kinship entertainment
+  literal_form: An entertainment prepared by Ali for the sons and descendants of Abd'almotalleb.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: embrace of appointment
+  literal_form: Mohammed embracing Ali after Ali declares his assistance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sun and moon image
+  literal_form: The sun against Mohammed's right hand and the moon on his left in
+    Mohammed's statement of resolve.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Ethiopia as refuge destination
+  literal_form: Ethiopia, the place to which sixteen followers flee.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: reported group numbers
+  literal_form: About forty kin at the gathering; sixteen refugees, four of whom were
+    women.
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+scenes:
+- id: scene:1
+  label: Kin gathering arranged and repeated
+  summary: Mohammed directs Ali to prepare an entertainment for his kin; about forty
+    attend, but Abu Laheb disrupts the first meeting, so the invitation is repeated
+    the next day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Appeal for an assistant and Ali's appointment
+  summary: Mohammed addresses his kin, asks for an assistant who will be his brother
+    and vicegerent, and Ali alone accepts; Mohammed embraces him and tells the assembly
+    to obey him as deputy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Public preaching and protection by Abu Tleb
+  summary: Mohammed preaches publicly, provokes hostility by condemning idolatry,
+    faces pressure through Abu Tleb, and declares that even the sun and moon would
+    not make him abandon the enterprise; Abu Tleb promises support.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Persecution and flight to Ethiopia
+  summary: The Koreish mistreat Mohammed's followers, Mecca becomes unsafe for some,
+    and sixteen followers, including Othmn Ebn Affn and Rakah, flee into Ethiopia.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: prophetic summons to kin
+  taxonomy_refs: []
+  basis: Mohammed reports a divine command to admonish his near relations, gathers
+    them, and calls them to God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a later translated historical-prose account; the motif
+    label is descriptive and not a claim about historical origin.
+- id: motif:2
+  label: single helper chosen from a hesitant assembly
+  taxonomy_refs: []
+  basis: The assembled kin hesitate, while Ali alone rises and accepts the role of
+    assistant, brother, vicegerent, and deputy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Authority language is explicit, but broader dynastic or succession implications
+    are not developed in this excerpt.
+- id: motif:3
+  label: steadfast mission despite impossible cosmic pressure
+  taxonomy_refs: []
+  basis: Mohammed says he would not leave his enterprise even if the sun were set
+    against him on one side and the moon on the other.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The sun-and-moon language is a rhetorical image in the passage; no further
+    cosmological narrative is provided.
+- id: motif:4
+  label: persecution-induced refuge flight
+  taxonomy_refs:
+  - departure
+  basis: Because followers are mistreated and Mecca becomes unsafe, Mohammed permits
+    unprotected followers to seek refuge, and sixteen flee to Ethiopia.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The excerpt gives departure and refuge but does not narrate a return or
+    full journey cycle.
+- id: motif:5
+  label: kinsman protector against communal hostility
+  taxonomy_refs: []
+  basis: Abu Tleb protects Mohammed, resists pressure from the Koreish, and promises
+    to stand by him against enemies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage frames this as familial and political protection rather than
+    a supernatural rescue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2664-2711; opening conversion and mission-disclosure sentences
+  quote_or_summary: Six chief companions and a few more are converted over three years;
+    Mohammed then makes his mission no longer secret after reporting a command from
+    God to admonish his near relations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2664-2711; kin invitation episode
+  quote_or_summary: Mohammed directs Ali to prepare an entertainment and invite Abd'almotalleb's
+    descendants; about forty come, Abu Laheb breaks up the first meeting, and a second
+    invitation follows the next day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 2664-2711; Mohammed's speech to kin
+  quote_or_summary: Mohammed says he offers his kindred happiness in this life and
+    the next, that God commanded him to call them, and asks who will assist him and
+    become his brother and vicegerent.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2664-2711; Ali's response and appointment
+  quote_or_summary: Ali rises after others hesitate, declares himself assistant, threatens
+    opponents, is embraced by Mohammed, and is presented as deputy to be obeyed; the
+    company laughs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2664-2711; beginning of public preaching
+  quote_or_summary: Mohammed preaches publicly; opposition arises when he reproaches
+    the people and their fathers for idolatry, obstinacy, and perverseness, but Abu
+    Tleb protects him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 2664-2711; Koreish pressure Abu Tleb
+  quote_or_summary: The Koreish urge Abu Tleb to desert Mohammed and threaten an open
+    rupture; Abu Tleb warns Mohammed against continuing because of the danger.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:7
+  type: quote
+  locator: lines 2664-2711; sun and moon resolve statement
+  quote_or_summary: Mohammed says that if they set the sun against him on his right
+    hand and the moon on his left, he would not leave his enterprise; Abu Tleb then
+    promises to stand by him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 2664-2711; mistreatment of followers
+  quote_or_summary: The Koreish use force and ill-treatment against Mohammed's followers,
+    making it unsafe for them to remain in Mecca; Mohammed permits those without protectors
+    to seek refuge elsewhere.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 2664-2711; flight to Ethiopia
+  quote_or_summary: In the fifth year of the mission, sixteen followers, four of them
+    women, flee into Ethiopia; Othmn Ebn Affn and his wife Rakah are included among
+    them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based only on the supplied passage. Candidate motifs
+    are descriptive narrative patterns. No external comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs fit the passage's sun, moon, feast, or Ethiopia imagery; these are recorded with empty taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2664-l2711
+  passage_sha256=b02810ec176ff2ec38e6d3036c1470014582b979ddd25c5974d24056b0803312
+

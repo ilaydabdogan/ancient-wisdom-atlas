@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38966-l38988
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER C. / ENTITLED, THE WAR-HORSES
+    WHICH RUN SWIFTLY; WHERE IT WAS REVEALED IS DISPUTED. / IN THE NAME OF THE MOST
+    MERCIFUL GOD.; lines 38966-38988
+  start: '38966'
+  end: '38988'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens with an invocation over swift war-horses in battle, then
+    states that man is ungrateful to his Lord and loves worldly good excessively.
+    It closes by referring to a day when what is in graves and in men's breasts will
+    be disclosed, and the Lord will be fully informed concerning them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter is titled as concerning war-horses which run swiftly, and the
+    place of revelation is stated to be disputed.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: War-horses are described as running swiftly to battle with a panting noise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The horses are described as striking fire by dashing their hoofs against stones.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The horses make a sudden early-morning incursion on the enemy, raise dust,
+    and pass through adverse troops.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Man is described as ungrateful to his Lord, as witness to that condition,
+    and as immoderate in love of worldly good.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A future moment is described when that which is in the graves shall be taken
+    forth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: That which is in men's breasts shall be brought to light.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: On that day, the Lord will be fully informed concerning them.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: war-horses
+  description: War-horses running swiftly to battle, striking fire from stones, raising
+    dust, and passing through adverse troops.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: man
+  description: Generic human subject described as ungrateful to his Lord and immoderate
+    in the love of worldly good.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: LORD
+  description: The Lord of man, said to be fully informed concerning them on that
+    day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: enemy / adverse troops
+  description: The enemy and adverse troops through whose midst the horses pass.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: battle horses
+  assigned_to:
+  - fig:1
+  basis: They run to battle, strike fire with their hoofs, make an incursion, raise
+    dust, and pass through opposing troops.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: human moral subject
+  assigned_to:
+  - fig:2
+  basis: Man is explicitly described in relation to ingratitude, self-witness, and
+    excessive love of worldly good.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: divine Lord and knower
+  assigned_to:
+  - fig:3
+  basis: The Lord is named as man's Lord and as fully informed concerning them on
+    the disclosed day.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: opposing troops
+  assigned_to:
+  - fig:4
+  basis: The horses make an incursion on the enemy and pass through the midst of adverse
+    troops.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: war-horses
+  literal_form: war-horses running swiftly to battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: hoof-struck fire
+  literal_form: fire struck by hoofs against stones
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: battle dust
+  literal_form: dust raised during the incursion
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: graves
+  literal_form: graves from which what is inside shall be taken forth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: men's breasts
+  literal_form: men's breasts whose contents are brought to light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Swift war-horse incursion
+  summary: War-horses run swiftly to battle, strike fire from stones with their hoofs,
+    make an early-morning incursion, raise dust, and pass through adverse troops.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Human ingratitude and worldly attachment
+  summary: Man is described as ungrateful to his Lord, aware of it, and excessive
+    in love of worldly good.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Disclosure on that day
+  summary: The passage asks whether man knows of the day when what is in graves will
+    be taken forth, what is in men's breasts will be brought to light, and the Lord
+    will be fully informed concerning them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine disclosure and judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links the exposure of graves and inner contents with the Lord
+    being fully informed concerning people on that day.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage states disclosure and divine knowledge; it does not describe
+    a courtroom, sentence, or explicit punishment within this excerpt.
+- id: motif:2
+  label: taking forth from graves
+  taxonomy_refs:
+  - resurrection
+  basis: The passage refers to a time when what is in the graves shall be taken forth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The excerpt uses the phrase 'that which is in the graves' and does not
+    elaborate the mechanics or sequence of resurrection in this passage alone.
+- id: motif:3
+  label: war-horse raid sequence
+  taxonomy_refs: []
+  basis: 'The opening lines present a compact sequence of martial horse imagery: swift
+    running, hoof-sparks, morning incursion, dust, and passage through adverse troops.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied motif-family taxonomy reference specifically covers war-horse
+    raid imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38966-38970
+  quote_or_summary: The chapter is labeled Chapter C, entitled 'The War-Horses Which
+    Run Swiftly'; where it was revealed is disputed; it opens in the name of the most
+    merciful God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 38972-38972
+  quote_or_summary: "“war-horses which run swiftly to the battle, with a panting noise”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 38973-38974
+  quote_or_summary: "“strike fire, by dashing their hoofs against the stones”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 38975-38978
+  quote_or_summary: The horses make a sudden incursion on the enemy early in the morning,
+    raise dust, and pass through the midst of the adverse troops.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 38979-38981
+  quote_or_summary: Man is said to be ungrateful to his Lord, to be witness thereof,
+    and to be immoderate in the love of worldly good.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; summary used.
+- id: ev:6
+  type: quote
+  locator: lines 38982-38983
+  quote_or_summary: "“that which is in the graves shall be taken forth”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; short quotation used.
+- id: ev:7
+  type: quote
+  locator: line 38984
+  quote_or_summary: "“that which is in men's breasts shall be brought to light”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; short quotation used.
+- id: ev:8
+  type: quote
+  locator: line 38985
+  quote_or_summary: "“their LORD will, on that day, be fully informed concerning them”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata supplied; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is strongest
+    for divine judgment and weaker for resurrection because the excerpt is brief.
+    No comparison claims were made because the passage itself does not explicitly
+    compare traditions or motif families beyond the supplied taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to the provided lists.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38966-l38988
+  passage_sha256=4d4c4a59b97a104ec5ae594166172154b42c0915750374cb4cd3e3c4df5402c3
+

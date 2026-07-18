@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2025-l2037
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: 'FOOTNOTES: / LION''S SHARE / JACKAL''S BRIDE / THE STORY OF HARE; lines
+    2025-2037'
+  start: '2025'
+  end: '2037'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The hare asks a bushbuck whether he may take a piece of meat. After the
+    bushbuck refuses, the hare takes and eats all the meat, whistles in a particular
+    way, and a hailstorm kills the bushbuck. The hare makes a mantle from the bushbuck's
+    skin. He then goes into the forest to get weapons; monkeys throw leaves on him,
+    come down when called, and are killed by him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hare asks the bushbuck whether he may take a little piece of meat, and
+    the bushbuck tells him not to do it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hare takes the meat and eats all of it despite the bushbuck's refusal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hare whistles in a particular manner, and a hailstorm falls and kills
+    the bushbuck.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hare takes the bushbuck's skin and makes a mantle for himself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hare goes into the forest to procure weapons for fighting and cuts a stick.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Monkeys throw leaves upon the hare while he is cutting a stick.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The hare calls the monkeys to come down and beat him; when they come down,
+    he kills them all with his weapons.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: hare
+  description: Animal figure who asks for meat, takes and eats it, whistles to bring
+    hail, makes a mantle from bushbuck skin, seeks weapons, and kills monkeys.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: bushbuck
+  description: Animal figure who refuses the hare permission to take meat, is killed
+    by hail, and whose skin is made into a mantle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: monkeys
+  description: Animal figures who throw leaves on the hare, come down when called,
+    and are killed by him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: meat requester and taker
+  assigned_to:
+  - fig:1
+  basis: The hare asks for a piece of meat, is refused, then takes and eats all the
+    meat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: refuser and victim of hail
+  assigned_to:
+  - fig:2
+  basis: The bushbuck refuses the hare's request and is then killed by a hailstorm
+    after the hare whistles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: killer and weapon user
+  assigned_to:
+  - fig:1
+  basis: The hare causes the bushbuck's death through a hailstorm and later kills
+    the monkeys with weapons.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: leaf-throwers and victims
+  assigned_to:
+  - fig:3
+  basis: The monkeys throw leaves on the hare, come down when called, and are killed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: meat
+  literal_form: a little piece of meat; all the meat eaten by the hare
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: whistle and hailstorm
+  literal_form: a particular whistle followed by a storm of hail
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bushbuck-skin mantle
+  literal_form: the skin of the bushbuck made into a mantle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: forest weapons and stick
+  literal_form: forest, weapons for fighting, and a stick cut by the hare
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: leaves
+  literal_form: leaves thrown by monkeys upon the hare
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Refused request for meat and taking of it
+  summary: The hare asks the bushbuck for meat, is told not to take it, but takes
+    and eats all of it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Whistled hail kills the bushbuck
+  summary: After eating the meat, the hare whistles in a particular way; a hailstorm
+    falls and kills the bushbuck, and the hare makes himself a mantle from the bushbuck's
+    skin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Forest encounter with monkeys
+  summary: The hare goes into the forest for weapons and cuts a stick. Monkeys throw
+    leaves on him, come down when he calls them, and are killed by him with his weapons.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Refusal ignored and food taken
+  taxonomy_refs: []
+  basis: The bushbuck refuses the hare permission to take meat, but the hare takes
+    and eats all of it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not identify the meat as sacred or ritually marked.
+- id: motif:2
+  label: Animal trickster boundary violation with lethal consequences
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hare violates the bushbuck's refusal, uses a whistle-associated hailstorm
+    to kill the bushbuck, and later engineers a confrontation in which he kills the
+    monkeys.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call the hare a trickster; the taxonomy
+    assignment is based on the described pattern of boundary-crossing animal behavior.
+- id: motif:3
+  label: Weather summoned by special sound
+  taxonomy_refs: []
+  basis: The hare whistles in a particular manner, after which a hailstorm falls and
+    kills the bushbuck.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives no explanation of the whistle's nature beyond its particular
+    manner.
+- id: motif:4
+  label: Skin of killed animal made into garment
+  taxonomy_refs: []
+  basis: After the bushbuck is killed, the hare takes its skin and makes a mantle
+    for himself.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No further ritual or social meaning for the mantle is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2025-2028
+  quote_or_summary: The hare asks the bushbuck if he may take a little piece of meat,
+    and the bushbuck answers that he must not do it.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2029-2031
+  quote_or_summary: The hare takes and eats all the meat, whistles in a particular
+    manner, and a hailstorm falls and kills the bushbuck.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2031-2032
+  quote_or_summary: The hare takes the bushbuck's skin and makes himself a mantle.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2034-2037
+  quote_or_summary: The hare goes into the forest to obtain weapons, cuts a stick,
+    is pelted with leaves by monkeys, calls them down, and kills them with his weapons.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate pattern descriptions; only the trickster_boundary taxonomy reference
+    is used, with caution because the passage does not explicitly label the hare as
+    a trickster. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs were limited to the provided available list.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2025-l2037
+  passage_sha256=03f8dca7e032ce22510080843c41cb126d06d18a27d2f07d9c88392dfd4efbbb
+

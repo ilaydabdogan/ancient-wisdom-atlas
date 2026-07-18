@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.biblical-deuteronomy-web-classic-l2069-l2098
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+passage_locator:
+  label: Footnotes / Chapter 33 / Footnotes / Chapter 34; lines 2069-2098
+  start: '2069'
+  end: '2098'
+  translation: Deuteronomy
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Footnotes report a manuscript variant for Deuteronomy 33:2 and identify
+    a reference in 33:16 as the burning bush of Exodus. Chapter 34 narrates Moses'
+    ascent to Mount Nebo/Pisgah, Yahweh showing him the land, Yahweh's statement about
+    the ancestral oath and Moses not crossing over, Moses' death and burial, Israel's
+    mourning, Joshua's wisdom after Moses' hand-laying, and a final statement about
+    Moses' unmatched prophetic status.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote reports a manuscript variant for 33:2 in which an unidentified
+    figure comes with myriads of holy ones from the south and from mountain slopes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote identifies the referent of 33:16 as the burning bush of Exodus
+    3:3-4.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Moses goes up from the plains of Moab to Mount Nebo, to the top of Pisgah
+    opposite Jericho.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yahweh shows Moses a broad extent of land, including Gilead, Naphtali, Ephraim
+    and Manasseh, Judah, the Western Sea, the south, Jericho, and Zoar.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Yahweh says the land is what he swore to Abraham, Isaac, and Jacob to give
+    to their offspring, and says Moses may see it but not go over there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Moses dies in the land of Moab according to Yahweh's word.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says Moses is buried in a valley in Moab opposite Beth Peor, and
+    that no one knows where his tomb is.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Moses is described as one hundred twenty years old at death, with undimmed
+    eye and strength not gone.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The children of Israel weep for Moses in the plains of Moab for thirty days.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Joshua son of Nun is full of the spirit of wisdom because Moses laid his hands
+    on him, and the children of Israel listen to him.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage states that no prophet like Moses has arisen in Israel, and that
+    Yahweh knew Moses face to face.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The passage summarizes signs, wonders, mighty hand, and awesome deeds associated
+    with Moses in Egypt and before Israel.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: Servant of Yahweh who ascends Mount Nebo/Pisgah, sees the land, dies
+    in Moab, is mourned, lays hands on Joshua, and is described as an unmatched prophet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Yahweh
+  description: Deity who shows Moses the land, speaks about the sworn land promise
+    and Moses' non-entry, commands through Moses, and is said to have known Moses
+    face to face.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Children of Israel
+  description: Community that mourns Moses, listens to Joshua, and witnesses Moses'
+    deeds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Joshua son of Nun
+  description: Figure full of the spirit of wisdom after Moses laid hands on him;
+    Israel listens to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Abraham, Isaac, and Jacob
+  description: Ancestral figures to whom Yahweh swore that the land would be given
+    to their offspring.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Pharaoh and his servants
+  description: Ruler and attendants in Egypt named as recipients or witnesses of signs
+    and wonders sent through Moses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: myriads of holy ones
+  description: Holy beings mentioned in the manuscript-variant footnote for 33:2.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: servant of Yahweh and unique prophet
+  assigned_to:
+  - fig:1
+  basis: Moses is called the servant of Yahweh, dies according to Yahweh's word, and
+    is described as a prophet unlike any other in Israel.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:2
+  label: divine revealer and oath speaker
+  assigned_to:
+  - fig:2
+  basis: Yahweh shows the land to Moses and speaks about the land sworn to the ancestors
+    and Moses' non-entry.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mourning and obedient community
+  assigned_to:
+  - fig:3
+  basis: The children of Israel mourn Moses for thirty days and then listen to Joshua
+    as Yahweh commanded Moses.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: wisdom-endowed leader after Moses
+  assigned_to:
+  - fig:4
+  basis: Joshua is full of the spirit of wisdom because Moses laid hands on him, and
+    the children of Israel listen to him.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: ancestral recipients of sworn land promise
+  assigned_to:
+  - fig:5
+  basis: Yahweh says he swore to Abraham, Isaac, and Jacob to give the land to their
+    offspring.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Egyptian recipients of signs and wonders
+  assigned_to:
+  - fig:6
+  basis: The passage says Yahweh sent Moses to perform signs and wonders in Egypt,
+    to Pharaoh and his servants and land.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: holy entourage in manuscript variant
+  assigned_to:
+  - fig:7
+  basis: The footnote's variant reading mentions myriads of holy ones accompanying
+    an unidentified figure.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: mountain ascent place
+  literal_form: Mount Nebo, top of Pisgah opposite Jericho
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: land shown and promised
+  literal_form: The land from Gilead to Dan, Naphtali, Ephraim and Manasseh, Judah
+    to the Western Sea, the south, Jericho, and Zoar
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: uncrossed boundary
+  literal_form: Moses sees the land with his eyes but shall not go over there
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hidden tomb
+  literal_form: Burial in a valley in Moab opposite Beth Peor; no man knows where
+    the tomb is
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: thirty days of mourning
+  literal_form: Thirty days of weeping in the plains of Moab
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: laying on of hands
+  literal_form: Moses laid his hands on Joshua
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: burning bush
+  literal_form: The burning bush of Exodus 3:3-4, identified in a footnote to 33:16
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: face-to-face knowledge
+  literal_form: Yahweh knew Moses face to face
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Footnote textual identifications
+  summary: The passage's footnotes report a variant involving myriads of holy ones
+    and identify a reference as the burning bush of Exodus 3:3-4.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moses ascends and views the land
+  summary: Moses goes up from the plains of Moab to Mount Nebo/Pisgah, and Yahweh
+    shows him the surrounding and distant lands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Yahweh speaks about the sworn land and non-entry
+  summary: Yahweh identifies the land as the one sworn to Abraham, Isaac, and Jacob
+    for their offspring, and tells Moses he may see it but not cross over.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Death and hidden burial of Moses
+  summary: Moses dies in Moab according to Yahweh's word; the passage reports his
+    burial in a valley opposite Beth Peor and the unknown location of his tomb, while
+    noting his age and vigor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Mourning and Joshua's acceptance
+  summary: Israel mourns Moses for thirty days; Joshua is full of the spirit of wisdom
+    because Moses laid hands on him, and Israel listens to Joshua.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Retrospective on Moses' prophetic uniqueness
+  summary: The passage states that no prophet like Moses has arisen in Israel, describes
+    Yahweh knowing him face to face, and recalls signs, wonders, mighty hand, and
+    awesome deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: mountain ascent to final vision
+  taxonomy_refs:
+  - ascent
+  basis: Moses goes up to Mount Nebo/Pisgah, where Yahweh shows him the land before
+    his death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents ascent and vision but does not describe an otherworld
+    journey.
+- id: motif:2
+  label: ancestral land oath reaffirmed
+  taxonomy_refs:
+  - covenant
+  basis: Yahweh says the land is what he swore to Abraham, Isaac, and Jacob to give
+    to their offspring.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The selected passage uses oath language; it does not use the word covenant
+    here.
+- id: motif:3
+  label: leader sees destination but does not enter
+  taxonomy_refs:
+  - departure
+  basis: Moses is allowed to see the land with his eyes but is told he will not go
+    over there, and then dies in Moab.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The reason for Moses' non-entry is not supplied in this selected passage.
+- id: motif:4
+  label: hidden grave of a revered leader
+  taxonomy_refs: []
+  basis: The passage says Moses is buried in Moab opposite Beth Peor, but no one knows
+    the location of his tomb.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain why the tomb location is unknown.
+- id: motif:5
+  label: succession through hand-laying and wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Joshua is full of the spirit of wisdom because Moses laid his hands on him,
+    and Israel listens to him.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage states the relationship between hand-laying, wisdom, and acceptance
+    but gives no extended ritual description.
+- id: motif:6
+  label: unique wonder-working prophet known by the deity
+  taxonomy_refs: []
+  basis: Moses is described as a prophet unlike any other in Israel, known by Yahweh
+    face to face, and associated with signs, wonders, and awesome deeds.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a retrospective summary rather than a detailed narrative of the
+    wonders.
+- id: motif:7
+  label: burning bush cross-reference
+  taxonomy_refs: []
+  basis: A footnote identifies the referent of 33:16 as the burning bush of Exodus
+    3:3-4.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Only the footnote is present in this line range; the burning bush narrative
+    itself is not included.
+comparison_claims:
+- id: claim:1
+  claim: The footnote explicitly links the Deuteronomy 33:16 reference to the burning
+    bush episode of Exodus 3:3-4.
+  claim_level: same_motif
+  target: Exodus 3:3-4 burning bush
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is based only on the supplied footnote; the Exodus passage
+    text is not included here.
+- id: claim:2
+  claim: The passage compares Moses with other prophets in Israel and states that
+    none like him has arisen.
+  claim_level: same_function
+  target: prophets in Israel after Moses
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No other prophets are named in the selected passage; the comparison
+    is internal to this passage's statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 33:2 footnote; lines 2069-2071
+  quote_or_summary: another manuscript reads “He came with myriads of holy ones from
+    the south, from his mountain slopes.”
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:2
+  type: quote
+  locator: 33:16 footnote; line 2072
+  quote_or_summary: i.e., the burning bush of Exodus 3:3-4.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:3
+  type: summary
+  locator: Deuteronomy 34:1-3; lines 2076-2080
+  quote_or_summary: Moses goes from the plains of Moab up to Mount Nebo/Pisgah opposite
+    Jericho, and Yahweh shows him the land from Gilead and Dan through named regions
+    as far as Zoar.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:4
+  type: summary
+  locator: Deuteronomy 34:4; line 2082
+  quote_or_summary: Yahweh says this is the land sworn to Abraham, Isaac, and Jacob
+    for their offspring; Moses has been caused to see it but will not go over there.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:5
+  type: summary
+  locator: Deuteronomy 34:5-6; lines 2084-2086
+  quote_or_summary: Moses, servant of Yahweh, dies in Moab according to Yahweh's word;
+    the passage reports burial in a valley opposite Beth Peor and says no one knows
+    his tomb.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:6
+  type: summary
+  locator: Deuteronomy 34:7; line 2088
+  quote_or_summary: Moses is one hundred twenty years old when he dies; his eye is
+    not dim and his strength is not gone.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:7
+  type: summary
+  locator: Deuteronomy 34:8; line 2090
+  quote_or_summary: The children of Israel weep for Moses in the plains of Moab for
+    thirty days, until the mourning period ends.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:8
+  type: summary
+  locator: Deuteronomy 34:9; line 2092
+  quote_or_summary: Joshua son of Nun is full of the spirit of wisdom because Moses
+    laid his hands on him; Israel listens to him and does as Yahweh commanded Moses.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+- id: ev:9
+  type: summary
+  locator: Deuteronomy 34:10-12; lines 2094-2098
+  quote_or_summary: No prophet like Moses has arisen in Israel; Yahweh knew him face
+    to face, and Moses is associated with signs, wonders, mighty hand, and awesome
+    deeds in Egypt and before Israel.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md
+  rights_note: Public domain source metadata; World English Bible Classic passage
+    supplied by user.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied passage. Motif labels are cautious;
+    some taxonomy mappings, especially covenant and departure, require review because
+    the passage uses oath, death, and non-entry language rather than formal motif
+    terminology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The burial actor in Deuteronomy 34:6 is left neutral in observations because the pronoun is not further resolved within the extraction.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-deuteronomy-web-classic__l2069-l2098
+  passage_sha256=f736da01dfda389ed10fc15523130b495c68cf3e2dd2999d68d30af4ce84c17c
+

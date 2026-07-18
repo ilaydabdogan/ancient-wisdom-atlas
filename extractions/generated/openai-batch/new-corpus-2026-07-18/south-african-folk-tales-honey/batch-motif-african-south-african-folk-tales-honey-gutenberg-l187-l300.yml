@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l187-l300
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: A FOURTH VERSION OF THE SAME FABLE         146 / LITERATURE ON SOUTH-AFRICAN
+    FOLK-LORE      148 / SOUTH-AFRICAN FOLK-TALES / INTRODUCTION; lines 187-300
+  start: '187'
+  end: '300'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains a table-of-contents segment naming several animal
+    and death-origin tales, followed by the introduction to the collection. The introduction
+    describes the tales as South-African folklore, mainly from Bushmen traditions,
+    with some Hottentot, Zulu, Dutch, European, and French influence. It emphasizes
+    translation, preservation, and difficulty tracing origins. Near the end, it introduces
+    a Kaffir-related story given by Bain about the distribution of animals after creation
+    and names Teco as the Supreme Being who possessed stock and property.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The table-of-contents segment lists 'The Origin of Death,' additional versions
+    of the same fable, and a Zulu version of the legend of the 'Origin of Death.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The introduction states that many tales had appeared in English collections
+    before 1880, others were translated from Dutch, and a few came from childhood
+    remembrance.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The introduction identifies the tales as South-African folklore, mainly from
+    the Bushmen, with some types taken over by Hottentots or Zulus and a few from
+    the Dutch; it also notes European, especially French, influence in some Dutch-derived
+    tales.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The compiler says the collection was intended to keep animal stories apart
+    from stories with mythological or religious significance, and to keep it free
+    from tales in which humans take part.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The introduction says several versions of the same story are included and
+    arranged, where possible, according to their importance in relation to the original.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that tracing the origin of the stories is difficult because
+    many distinct and primitive races lived together in South Africa.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Bushmen are described as a wandering primitive race of small men, painters
+    and sculptors, hunters and herdsmen, with reasoning, adaptability, justice, and
+    pride.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The introduction says some Bushmen stories are mythological, but it is uncertain
+    whether this is due to Hottentot influence.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A quoted South-African Folklore Journal statement describes South-African
+    folklore as plain and primitive, focused largely on everyday life, moral qualities,
+    and nature imagery rather than palaces, jewels, or grandeur.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage says Bain gives a story related by a Kaffir that shows the distribution
+    of animals after creation.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The beginning of the referenced story identifies Teco, in Kaffir, as the Supreme
+    Being and says Teco had every description of stock and property.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Teco
+  description: Named as the Supreme Being in Kaffir; said to have every description
+    of stock and property.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: Supreme Being
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Teco as the Supreme Being.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Animals after creation
+  literal_form: animals
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: Stock and property
+  literal_form: every description of stock and property
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Referenced post-creation distribution of animals
+  summary: The introduction says Bain reports a Kaffir-related story that shows the
+    distribution of animals after creation.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+- id: scene:2
+  label: Teco introduced as Supreme Being with possessions
+  summary: The referenced story begins by identifying Teco as the Supreme Being and
+    saying Teco possessed every description of stock and property.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Origin of death variants
+  taxonomy_refs: []
+  basis: The table-of-contents segment names 'The Origin of Death,' further versions
+    of the same fable, and a Zulu version of the same legend.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only titles are present in this passage; no narrative details of the death-origin
+    fable are provided.
+- id: motif:2
+  label: Distribution of animals after creation
+  taxonomy_refs: []
+  basis: The introduction explicitly says the Bain story shows the distribution of
+    animals after creation.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage summarizes the story topic but does not yet narrate the distribution
+    itself.
+- id: motif:3
+  label: Supreme being as owner of stock and property
+  taxonomy_refs: []
+  basis: Teco is named as the Supreme Being and described as having every description
+    of stock and property.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage provides only the opening identification and possession statement,
+    without further action or mythic function.
+comparison_claims:
+- id: claim:1
+  claim: The table of contents presents multiple versions of an 'Origin of Death'
+    fable, including a Zulu version, indicating the collection treats these as related
+    variants of the same legend.
+  claim_level: same_motif
+  target: Origin of Death fable variants in the collection
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on titles and editorial labeling only; the passage
+    gives no narrative comparison of the variants.
+- id: claim:2
+  claim: The introduction reports cross-tradition movement or influence among Bushmen,
+    Hottentot, Zulu, Dutch, European, and French sources within the collection.
+  claim_level: historical_contact
+  target: Reported source and influence relationships among traditions represented
+    in South-African Folk-Tales
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives editorial and ethnographic assertions, not passage-level
+    proof for any single tale's transmission history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 187-198
+  quote_or_summary: Table-of-contents entries list 'The Origin of Death,' further
+    versions of the same fable, and a Zulu version of the legend of the 'Origin of
+    Death.'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 211-217
+  quote_or_summary: The introduction says many tales appeared in English collections
+    before 1880, others were translated from Dutch, and a few came from childhood
+    remembrance; it also states the tales are kept close to the original as translation
+    allows.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 217-221
+  quote_or_summary: The tales are described as South-African folklore, mainly from
+    the Bushmen, with some types taken over by Hottentots or Zulus, a few from the
+    Dutch, and some European, especially French, influence.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 223-228
+  quote_or_summary: The compiler states that the collection keeps animal stories separate
+    from tales with mythological or religious significance and from tales in which
+    humans take part.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 230-237
+  quote_or_summary: The introduction says several versions of the same story are included
+    and arranged by importance to the original where possible, and that tracing origins
+    is difficult because many distinct races lived together.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 239-250
+  quote_or_summary: The Bushmen are described as ancient, small, wandering, artistic,
+    hunting and herding people; the passage also says some stories are mythological
+    and that Hottentot influence is uncertain.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 280-287
+  quote_or_summary: A South-African Folklore Journal quotation describes South-African
+    folklore as plain, primitive, focused on everyday life, moral qualities, and nature
+    imagery, rather than grand or magnificent materials.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 289-295
+  quote_or_summary: The introduction says Bain gives a story related by a Kaffir showing
+    the distribution of animals after creation, while noting it could not become typically
+    Kaffir until after European contact.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 297-300
+  quote_or_summary: '"Teco, in Kaffir, is the Supreme Being. Teco had every description
+    of stock and property."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quote used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly an introduction and editorial framing, not a full mythic
+    narrative. Motif candidates are therefore limited to story titles and the brief
+    opening of a referenced creation-distribution tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy reference was assigned because the supported motifs in this passage do not clearly match the supplied taxonomy IDs without overinterpretation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l187-l300
+  passage_sha256=df93a227c333fc1ffc0ec444f41b36070287f0c542777e90ccb452869e65acb0
+

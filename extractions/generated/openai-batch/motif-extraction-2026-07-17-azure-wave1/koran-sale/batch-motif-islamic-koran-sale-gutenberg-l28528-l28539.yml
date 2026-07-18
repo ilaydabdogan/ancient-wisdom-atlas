@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l28528-l28539
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXVII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXVIII.
+    / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 28528-28539
+  start: '28528'
+  end: '28539'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The addressed recipient is told that the Koran was delivered through the
+    mercy of the Lord, warned not to assist unbelievers or be turned from God's signs,
+    instructed to invite people to the Lord and avoid idolatry, and reminded that
+    all things perish except God, to whom judgment belongs and before whom people
+    will be assembled on the last day.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The book of the Koran is described as having been delivered to the addressed
+    recipient through the mercy of the Lord.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed recipient is instructed not to assist unbelievers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed recipient is warned not to let others turn him aside from the
+    signs of God after they have been sent down to him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The addressed recipient is instructed to invite people to the Lord and not
+    to be an idolater.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage declares that no god exists except the true God.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says everything shall perish except God.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says judgment belongs to God and that people will be assembled
+    before him on the last day.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: addressed recipient
+  description: The person addressed as having received the book of the Koran and being
+    commanded to invite others to the Lord.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the Lord / true God
+  description: The divine figure whose mercy delivers the Koran, whose signs are sent
+    down, who alone is to be invoked, and to whom judgment belongs.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: unbelievers
+  description: A group whom the addressed recipient is warned not to assist and who
+    may turn him aside from God's signs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: men / people to be invited
+  description: People whom the addressed recipient is told to invite unto the Lord.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine giver of revelation
+  assigned_to:
+  - fig:2
+  basis: The Koran is said to have been delivered to the addressed recipient through
+    the Lord's mercy, and God's signs are said to have been sent down.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipient and inviter
+  assigned_to:
+  - fig:1
+  basis: The addressed person receives the book and is commanded to invite people
+    to the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: opposing unbelievers
+  assigned_to:
+  - fig:3
+  basis: They are named as unbelievers whom the addressed recipient must not assist
+    and who may turn him aside from God's signs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine judge
+  assigned_to:
+  - fig:2
+  basis: Judgment is said to belong to God, before whom people will be assembled at
+    the last day.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: invitees
+  assigned_to:
+  - fig:4
+  basis: The addressed recipient is instructed to invite people unto the Lord.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: revealed book
+  literal_form: the book of the Koran
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sent-down signs
+  literal_form: the signs of God sent down to the addressed recipient
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: last day assembly
+  literal_form: assembly before God at the last day
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: revelation and admonition
+  summary: The addressed recipient is reminded that the Koran came through the Lord's
+    mercy and is warned not to help unbelievers or be turned aside from God's sent-down
+    signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: monotheistic summons and final judgment
+  summary: The addressed recipient is told to invite people to the Lord, avoid idolatry,
+    invoke no god besides the true God, and remember that all things perish except
+    God, who holds judgment and before whom people will be assembled on the last day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine judgment and final assembly
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that judgment belongs to God and that people will be assembled
+    before him at the last day.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives a concise doctrinal statement rather than a developed
+    narrative of judgment.
+- id: motif:2
+  label: revelation of sacred book by divine mercy
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is described as delivered to the addressed recipient through the
+    Lord's mercy, and God's signs are said to have been sent down.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no exact 'revelation' motif; 'wisdom' is a
+    broad fit and should be reviewed.
+- id: motif:3
+  label: exclusive devotion to one God
+  taxonomy_refs: []
+  basis: The passage forbids idolatry and invoking any other god together with the
+    true God.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific available taxonomy reference exactly names monotheistic exclusivity.
+- id: motif:4
+  label: perishing creation and enduring deity
+  taxonomy_refs: []
+  basis: The passage says everything shall perish except God.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No exact available taxonomy reference is supplied for this doctrinal motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28528-28530
+  quote_or_summary: '"the book of the Koran should be delivered unto thee... through
+    the mercy of thy LORD"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 28530-28531
+  quote_or_summary: '"Be not therefore assisting to the unbelievers"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 28532-28534
+  quote_or_summary: The addressee is warned not to be turned aside from the signs
+    of God after they have been sent down to him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 28534-28535
+  quote_or_summary: '"invite men unto thy LORD. And be not thou an idolater"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 28536-28537
+  quote_or_summary: '"there is no god but he"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 28537-28538
+  quote_or_summary: '"Everything shall perish, except himself"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 28538-28539
+  quote_or_summary: '"unto him belongeth judgment: and before him shall ye be assembled
+    at the last day"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the passage. Motif mapping is
+    limited by the available taxonomy, which lacks exact labels for revelation and
+    monotheistic exclusivity. No comparison claims were added because the passage
+    itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l28528-l28539
+  passage_sha256=8435f7b0df903f9bf4d92162231b15ce8a92464ad0b13f5057ab675e7dfd6d55
+

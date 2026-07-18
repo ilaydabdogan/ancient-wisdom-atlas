@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l2606-l2710
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION. / COMMENTARY ON THE
+    PENNSYLVANIA TABLET.; lines 2606-2710
+  start: '2606'
+  end: '2710'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A philological commentary on the Pennsylvania Tablet explains words and
+    phrases connected with Gish/Gilgamesh seeking interpretation of a dream, nighttime
+    phrasing, the starry heaven, a heavenly 'mass of Anu' interpreted as a meteor,
+    and the designation of Uruk/Erech as a city of plazas, a walled city, and a land
+    or district.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary states that a verbal expression indicates Gish's aim to obtain
+    an interpretation for his dream.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary glosses a phrase as 'in this my night,' meaning in the course
+    of the speaker's night.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary interprets a compound term as 'starry heaven' or 'the stars
+    in heaven.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary identifies 'mass of Anu' as a designation for a meteor described
+    as coming from Anu, the god of heaven.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary treats 'Erech of the plazas,' 'Erech walled,' and 'Erech land'
+    as synonymous designations of Uruk/Erech.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentary says Erech was regarded in Babylonian traditions as having
+    once been 'the city,' the capital of the entire Euphrates Valley.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The commentary notes that parallel Assyrian passages using a cited phrase
+    refer to Enkidu.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gish / Gilgamesh
+  description: Named in the commentary as the figure whose aim is to secure an interpretation
+    for his dream.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Anu
+  description: Named as the god of heaven and personification of the heavens in connection
+    with the phrase 'mass of Anu.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Enkidu
+  description: Named as the figure referred to in parallel Assyrian passages cited
+    by the commentary.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: dreamer seeking interpretation
+  assigned_to:
+  - fig:1
+  basis: The commentary says Gish aims to secure an interpretation for his dream.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: god of heaven
+  assigned_to:
+  - fig:2
+  basis: The commentary explicitly describes Anu as the god of heaven and personification
+    of the heavens.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: referenced figure in parallel passages
+  assigned_to:
+  - fig:3
+  basis: The commentary states that two Assyrian parallel passages refer to Enkidu.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dream requiring interpretation
+  literal_form: dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: sym:2
+  label: starry heaven
+  literal_form: stars in heaven / starry heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mass of Anu / meteor
+  literal_form: meteor or mass from heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Uruk/Erech as city of plazas
+  literal_form: Erech of the plazas; walled Erech; Erech land
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Dream interpretation context
+  summary: The commentary explains that Gish seeks an interpretation for his dream
+    and discusses terms connected with sleep and dream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: scene:2
+  label: Celestial imagery in the commented passage
+  summary: The commentary explains wording for the starry heaven and for a heavenly
+    'mass of Anu' interpreted as a meteor.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Designation of Uruk/Erech
+  summary: The commentary discusses several designations of Uruk/Erech and presents
+    the city as a major capital or dwelling place par excellence in Babylonian tradition.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: dream sought for interpretation
+  taxonomy_refs:
+  - wisdom
+  basis: Gish is described as seeking an interpretation for his dream, and the commentary
+    links related vocabulary with sleep and dream.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  confidence: medium
+  cautions: The passage is commentary rather than a full narrative episode; the taxonomy
+    link to wisdom is broad and should be reviewed.
+- id: motif:2
+  label: heavenly sign or meteor from a sky god
+  taxonomy_refs: []
+  basis: The commentary identifies the 'mass of Anu' as a meteor coming from the god
+    of heaven and connects the passage with the starry heaven.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text explains a phrase philologically and does not narrate the full
+    omen or its effects in this excerpt.
+- id: motif:3
+  label: preeminent city or dwelling place par excellence
+  taxonomy_refs: []
+  basis: The commentary describes Uruk/Erech with honorific urban designations and
+    says it was regarded as 'the city,' the capital of the entire Euphrates Valley.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: low
+  cautions: This is primarily an urban and philological note, not a clearly developed
+    mythic scene.
+comparison_claims:
+- id: claim:1
+  claim: The commentary states that several expressions in the Pennsylvania Tablet
+    have parallels in the Assyrian version, including dream/night phrasing, starry-heaven
+    wording, a heavenly mass, and designations of Uruk/Erech.
+  claim_level: linguistic_similarity
+  target: Assyrian version of the Gilgamesh Epic
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is philological and textual; it does not by itself establish
+    a separate shared mythic motif beyond the cited wording and imagery.
+- id: claim:2
+  claim: The commentary compares the Babylonian expression for the plaza or suburbs
+    of the city with the Hebrew phrase Rehoboth Ir in Genesis 10:11.
+  claim_level: linguistic_similarity
+  target: Genesis 10:11, Rehoboth Ir
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns urban terminology rather than a narrative motif.
+- id: claim:3
+  claim: The commentary notes a Hebrew parallel in Isaiah 1:14 for the wording discussed
+    at line 9.
+  claim_level: linguistic_similarity
+  target: Isaiah 1:14 Hebrew phrase cited in the commentary
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only a brief lexical comparison, with no developed
+    symbolic or narrative pattern.
+evidence:
+- id: ev:1
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 1
+  quote_or_summary: The verb expression is said to show Gish's aim 'to secure an interpretation
+    for his dream.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 3
+  quote_or_summary: The phrase is glossed as 'in this my night,' meaning in the course
+    of the speaker's night, with parallels cited in the Assyrian version and Yale
+    tablet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 6
+  quote_or_summary: The commentary says the compound term should be taken as 'starry
+    heaven' or 'the stars in heaven.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt and summary from provided passage.
+- id: ev:4
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 7
+  quote_or_summary: "'Mass of Anu' is explained as a meteor or mass from Anu, described
+    as the god of heaven and personification of the heavens."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: commentary on Pennsylvania Tablet, lines 10 and 28
+  quote_or_summary: The commentary discusses Uruk/Erech terms and says 'Erech of the
+    plazas,' 'Erech walled,' and 'Erech land' are to be regarded as synonymous.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt and summary from provided passage.
+- id: ev:6
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 18
+  quote_or_summary: The commentary cites Assyrian version parallels and states that
+    both passages refer to Enkidu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 28
+  quote_or_summary: The commentary says Erech was the seat of the second oldest dynasty
+    according to Babylonian traditions and was regarded as 'the city,' the capital
+    of the entire Euphrates Valley.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt and summary from provided passage.
+- id: ev:8
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 9
+  quote_or_summary: The commentary states that a phrase at line 9 has a parallel in
+    a Hebrew phrase from Isaiah 1:14.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 28
+  quote_or_summary: The commentary compares Rehoboth Ir in Genesis 10:11 with Babylonian
+    ri-bi-tu mati as a phrase for the outside or suburbs of the city.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:10
+  type: summary
+  locator: commentary on Pennsylvania Tablet, line 24
+  quote_or_summary: The commentary relates a verb form to a root underlying words
+    for sleep and dream.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:11
+  type: summary
+  locator: commentary on Pennsylvania Tablet, lines 1, 3, 6, 7, 10, 26, 28
+  quote_or_summary: The commentary repeatedly cites Assyrian version parallels for
+    wording in the Pennsylvania Tablet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The excerpt is philological commentary rather than continuous mythic narrative,
+    so motif extraction is limited and candidate motifs require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy symbol references were assigned because none of the available symbol IDs directly match the extracted dream, starry-heaven, meteor, or city imagery.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l2606-l2710
+  passage_sha256=3e8f8be2554f1a07599e47bd2ce1fde02c2e172e6d27d01ca5d30adbfbdd363d
+

@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l6211-l6281
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: XXXIX. / THE DEAD FOES.--WIGLAF'S BITTER TAUNTS. / THE MESSENGER OF DEATH.
+    / THE MESSENGER'S RETROSPECT.; lines 6211-6281
+  start: '6211'
+  end: '6281'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A grieving war-troop goes beneath Eagle's Cape and sees the dead king,
+    described as their ring-giver and Wielder of Weders. They also see the dead fire-spewing
+    dragon, its den and cavern associations, and the ancient treasure around it. The
+    hoard is described as long-buried, magic-guarded, and accessible only by the will
+    of Ruling-God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The war-troop arose and went sadly beneath Eagle's Cape.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The troop was weeping and woful as they went to view the wonder.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They saw a soulless body lying on the sand, on a slaughter-bed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The dead body is identified as the one who had given them rings in former
+    days.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The dead king is called warlike, good, and Wielder of Weders.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The troop beheld a worm lying on the field before them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The worm is described as a foeman and a fire-spewing dragon, ghostly and grisly
+    in terror.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The dragon was scorched in the fire and measured fifty feet as it lay there.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: The dragon had come forth at night to rejoice in the air and then returned
+    to its den; in death it would no longer enjoy earth-hollowed caverns.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:10
+  text: Beakers, vessels, dishes, and dear-valued weapons stood or lay around the
+    dragon.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The weapons were eaten with iron-rust, and the treasure had rested in earth's
+    bosom for a thousand winters.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:12
+  text: The ancient gold or mighty bequest was guarded with magic, and no earlman
+    could touch the ring-hall unless Ruling-God granted access.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: war-troop
+  description: The group that arises, goes beneath Eagle's Cape, weeps, and looks
+    upon the dead king and dragon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: dead king / Wielder of Weders
+  description: A soulless king lying on the sand, formerly a ring-giver to the troop,
+    described as good and warlike.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: worm / fire-spewing dragon
+  description: A dead foeman lying on the field, fire-spewing, scorched, fifty feet
+    long, associated with a den and earth-hollowed caverns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ruling-God / Sooth-king of Victories
+  description: The divine figure who alone can grant to mortals the opening of the
+    treasure and is called earth-folk's protector.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mourning witnesses
+  assigned_to:
+  - fig:1
+  basis: The troop goes sadly, weeping and woful, to look at the dead figures.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead lord and ring-giver
+  assigned_to:
+  - fig:2
+  basis: The dead king is described as the one who had given rings to the troop and
+    as Wielder of Weders.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dead dragon-foe
+  assigned_to:
+  - fig:3
+  basis: The worm is called the foeman before them and the fire-spewing dragon, lying
+    dead on the field.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine grantor of treasure access
+  assigned_to:
+  - fig:4
+  basis: The passage says no earlman could touch the treasure unless Ruling-God gave
+    permission to open it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Eagle's Cape
+  literal_form: Topographic place beneath which the troop goes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sand and slaughter-bed
+  literal_form: The place where the king's soulless body lies.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: serpent-dragon
+  literal_form: The worm on the field, described as a fire-spewing dragon.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire
+  literal_form: The dragon is fire-spewing and scorched in fire.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: den and earth-hollowed caverns
+  literal_form: The dragon's den and caverns to which it had returned.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: magic-guarded ancient hoard
+  literal_form: Beakers, vessels, dishes, weapons, and ancient gold guarded with magic
+    and called a ring-hall.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mourners view the dead king
+  summary: The war-troop goes beneath Eagle's Cape in grief and sees the dead ring-giving
+    king lying on the sand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The dead dragon is displayed
+  summary: The troop sees the worm or fire-spewing dragon lying dead on the field,
+    scorched, fifty feet long, and associated with nocturnal movement between air
+    and den.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ancient treasure under magic and divine restriction
+  summary: Objects and weapons of the hoard lie around the dragon; the ancient gold
+    is described as long-buried, magic-guarded, and accessible only by divine permission.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Grieving retainers behold a dead ring-giving king
+  taxonomy_refs: []
+  basis: The war-troop mourns and sees the dead king who had given them rings.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local heroic-epic pattern in the passage; no external taxonomy
+    match is asserted.
+- id: motif:2
+  label: Slain fire-spewing dragon or serpent foe
+  taxonomy_refs:
+  - serpent
+  basis: The dead creature is called a worm and a fire-spewing dragon, lying as a
+    foeman before the troop.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is limited to the serpent/dragon family; the passage
+    does not itself make a broader comparative claim.
+- id: motif:3
+  label: Dragon associated with den, cavern, and treasure
+  taxonomy_refs:
+  - serpent
+  basis: The dragon is linked with its den and earth-hollowed caverns, while treasure
+    objects stand and lie around it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the dragon and hoard together, but does not explain
+    the full origin or acquisition of the hoard in this excerpt.
+- id: motif:4
+  label: Magic-guarded ancient treasure with divine access control
+  taxonomy_refs: []
+  basis: The hoard is described as guarded with magic, and only Ruling-God can grant
+    a mortal permission to open it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied motif-family taxonomy precisely matches this treasure-access
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6211-6218; passage verse lines 90-93
+  quote_or_summary: The troop goes beneath Eagle's Cape, weeping, and sees on the
+    sand the soulless ring-giver, the warlike Wielder of Weders.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain; Project Gutenberg / Gummere translation.
+- id: ev:2
+  type: quote
+  locator: lines 6223-6230; passage verse lines 95-102
+  quote_or_summary: The worm lies on the field before them, called the fire-spewing
+    dragon; it is scorched, fifty feet long, and formerly moved between night air
+    and its den or earth-hollowed caverns.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain; Project Gutenberg / Gummere translation.
+- id: ev:3
+  type: summary
+  locator: lines 6231-6235; passage verse lines 103-106
+  quote_or_summary: Beakers, vessels, dishes, and weapons lie around the dragon; the
+    weapons are rust-eaten and the hoard has rested in the earth for a thousand winters.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain; Project Gutenberg / Gummere translation.
+- id: ev:4
+  type: quote
+  locator: lines 6238-6246; passage verse lines 107-112
+  quote_or_summary: The mighty bequest is guarded with magic; no earlman can touch
+    the ring-hall unless Ruling-God, earth-folk's protector, grants permission to
+    open the treasure.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain; Project Gutenberg / Gummere translation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is clear for the death scene, dragon, hoard, and divine
+    restriction. Motif labels are cautious and passage-local. No comparison claims
+    were generated because the passage provides no explicit comparative or historical-contact
+    basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Editorial headings and footnotes were not treated as independent narrative events; they were used only insofar as they align with the translated passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l6211-l6281
+  passage_sha256=1f5907c4f8fdc673f20518dbd23502a8a5f00aefcc49cd0cf3956486538fac62
+

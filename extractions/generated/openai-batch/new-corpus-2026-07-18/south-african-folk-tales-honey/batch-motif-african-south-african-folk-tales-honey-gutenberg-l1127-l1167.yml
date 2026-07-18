@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l1127-l1167
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: TINK-TINKJE / THE LION AND JACKAL / LION AND JACKAL / THE HUNT OF LION AND
+    JACKAL; lines 1127-1167
+  start: '1127'
+  end: '1167'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Lion and Jackal hunt an eland. Jackal hits it, but Lion claims the shot.
+    Jackal secretly creates a false blood trail, returns to the carcass, removes the
+    fat, then evades Lion's accusation with deferential speech. Lion orders Jackal
+    to deliver the fat to Lioness and take the lungs to his own family, but Jackal
+    reverses the delivery, mocks Lion's children with the lungs, and leaves with his
+    own family.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lion and Jackal lie in wait for Eland; Lion shoots with a bow and misses,
+    while Jackal hits the target.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lion says that Jackal did not shoot anything and claims that he himself hit
+    the eland; Jackal answers by addressing Lion as father and agreeing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After they go home to return later, Jackal secretly turns back, injures his
+    nose so that blood runs onto the eland spoor, and follows the track in order to
+    cheat Lion.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jackal returns by another way to the dead eland, creeps into the carcass,
+    and cuts out all the fat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lion follows Jackal's blood-stained spoor while thinking it is eland blood,
+    then discovers he has been deceived.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lion finds Jackal in the dead eland's carcass, seizes him by the tail, pulls
+    him out, and asks why Jackal cheats him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Jackal denies cheating Lion and says he prepared the fat for Lion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Lion tells Jackal to carry the fat to Lioness and gives him lungs to take
+    to Jackal's own wife and children.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Jackal gives the fat to his own wife and children instead of to Lioness, and
+    gives the lungs to Lioness.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Jackal pelts Lion's little children with the lungs and addresses them as children
+    of the big-pawed one.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Jackal tells Lioness that he is going to help Lion, but goes far away with
+    his own wife and children.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: A hunting companion of Jackal who misses the eland, claims the hit,
+    follows the false spoor, accuses Jackal, and orders distribution of fat and lungs.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Jackal
+  description: A hunting companion of Lion who hits the eland, makes a false blood
+    trail, removes the fat, denies cheating, misdelivers the food, mocks Lion's children,
+    and leaves with his family.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Eland
+  description: The hunted animal whose dead carcass is later entered by Jackal and
+    used as the source of fat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Lioness / Lion's wife
+  description: The intended recipient of the fat, who instead receives the lungs from
+    Jackal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Jackal's wife and children
+  description: Jackal's household, designated by Lion as recipients of the lungs but
+    given the fat by Jackal; they later go far away with Jackal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Lion's little children
+  description: Children of Lion who are pelted by Jackal with the lungs and mocked
+    as children of the big-pawed one.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Hunting companions
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Lion and Jackal lie in wait for Eland together at the start of the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Deceiver / trickster actor
+  assigned_to:
+  - fig:2
+  basis: Jackal creates a false blood trail, removes the fat, denies cheating, reverses
+    Lion's food distribution, and leaves after another false statement.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Deceived stronger opponent
+  assigned_to:
+  - fig:1
+  basis: Lion follows the false blood-stained spoor, realizes the deception, and accuses
+    Jackal of cheating him.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Hunted prey and carcass
+  assigned_to:
+  - fig:3
+  basis: Eland is shot in the hunt and later appears as the dead carcass from which
+    Jackal cuts fat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Household food recipients
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Lion directs Jackal to carry fat to Lioness and lungs to Jackal's own wife
+    and children, but Jackal reverses the delivery.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: Mocked children of the rival
+  assigned_to:
+  - fig:6
+  basis: Jackal pelts Lion's little children with lungs and calls them children of
+    the big-pawed one.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Bow
+  literal_form: Lion's bow used in the hunt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Blood-stained spoor
+  literal_form: Blood from Jackal's injured nose placed on the spoor of the eland
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Dead eland carcass
+  literal_form: The carcass of the eland into which Jackal creeps
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Fat
+  literal_form: Fat cut from the eland carcass and redirected by Jackal to his own
+    household
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Lungs
+  literal_form: Lungs given by Lion for Jackal's household but delivered to Lioness
+    and used to pelt Lion's children
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hunt and disputed shot
+  summary: Lion and Jackal wait for Eland; Lion misses with a bow, Jackal hits, and
+    Lion claims the successful shot while Jackal outwardly agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: False spoor and removal of fat
+  summary: After they leave, Jackal secretly creates a blood-marked false trail with
+    his nose, returns to the dead eland, enters the carcass, and cuts out the fat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Discovery and disputed excuse
+  summary: Lion follows the false trail, realizes the deception, finds Jackal in the
+    carcass, pulls him out by the tail, and challenges him; Jackal denies cheating
+    and claims the fat was prepared for Lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Food distribution reversed and flight
+  summary: Lion orders Jackal to bring fat to Lioness and lungs to Jackal's family,
+    but Jackal gives the fat to his own household, gives the lungs to Lioness, pelts
+    Lion's children with the lungs, and leaves with his own family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Trickster deceives a stronger animal companion
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal repeatedly deceives Lion through false agreement, a staged blood trail,
+    denial of cheating, reversed food delivery, and departure after a false statement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy label is applied because the passage presents Jackal's deception
+    of Lion; no broader comparative claim is made here.
+- id: motif:2
+  label: False trail made with blood
+  taxonomy_refs: []
+  basis: Jackal injures his own nose to put blood on the eland spoor so Lion will
+    follow it believing it is eland blood.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literal narrative pattern in the passage, not linked to a supplied
+    taxonomy reference.
+- id: motif:3
+  label: Misappropriation of shared hunt spoils
+  taxonomy_refs: []
+  basis: Jackal removes the eland fat, says it was prepared for Lion, is ordered to
+    deliver it to Lioness, but gives it to his own wife and children instead.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents ordinary hunting spoils rather than a sacred object,
+    so no sacred-theft taxonomy reference is assigned.
+- id: motif:4
+  label: Deferential kinship address masking deception
+  taxonomy_refs: []
+  basis: Jackal addresses Lion as father, agrees with Lion's claim, later denies cheating
+    while again calling him father, and tells Lioness he is going to help his father
+    before leaving.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Kinship terms may be formulaic address; the passage does not explain their
+    social meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1129-1134
+  quote_or_summary: Lion and Jackal lie in wait for Eland; Lion shoots with a bow
+    and misses, Jackal hits, Lion claims the hit, and Jackal answers deferentially
+    that Lion has hit.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1136-1141
+  quote_or_summary: After they go home to return later, Jackal secretly turns back,
+    makes his nose bleed onto the eland spoor to cheat Lion, returns by another way
+    to the dead eland, creeps into the carcass, and cuts out all the fat.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1143-1149
+  quote_or_summary: Lion follows Jackal's blood-stained spoor thinking it is eland
+    blood, realizes the deception, returns on Jackal's spoor, finds him in the carcass,
+    seizes him by the tail, pulls him out, and asks why he cheats him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1151-1156
+  quote_or_summary: Jackal denies cheating and says he prepared the fat for Lion;
+    Lion tells him to carry the fat to Lioness and gives him the lungs to take to
+    his own wife and children.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1158-1166
+  quote_or_summary: Jackal gives the fat to his own wife and children, gives the lungs
+    to Lioness, pelts Lion's little children with the lungs while mocking them as
+    big-pawed ones, says he is going to help Lion, and instead goes far away with
+    his wife and children.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are limited to patterns directly present in the passage; no comparison claims
+    are asserted because the passage itself does not make an explicit cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied symbol taxonomy items are directly present in this passage; symbol taxonomy references are therefore left empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l1127-l1167
+  passage_sha256=0566a8947abcfc08e8c5febae49831114bcc43b2051153905a4c547b1045533f
+

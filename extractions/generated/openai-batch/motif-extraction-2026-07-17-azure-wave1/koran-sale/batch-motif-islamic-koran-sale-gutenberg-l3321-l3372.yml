@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l3321-l3372
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: PRELIMINARY DISCOURSE / SECTION I. / SECTION II. / SECTION III; lines 3321-3372
+  start: '3321'
+  end: '3372'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys conjectural interpretations of the Arabic initial letters
+    A.L.M.; describes the Koran as elegant, pure, inimitable, and a permanent miracle;
+    recounts Mohammed's challenge to eloquent Arabs to produce a comparable chapter;
+    and begins an example involving Labid's poem and the second chapter of the Koran
+    displayed at the temple of Mecca.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Five chapters, including the second, are said to begin with the letters A.L.M.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several interpretations are reported for A.L.M., including phrases about God,
+    perfection, goodness, wisdom, and the sequence 'Allah, Gabriel, Mohammed.'
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: One interpretation connects A, L, and M to the throat, palate, and lips, and
+    treats them as marking beginning, middle, and end.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Another interpretation uses the letters' numerical value, seventy-one, to
+    predict the establishment of the religion preached in the Koran.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A learned Christian conjecture attributes the letters to an amanuensis writing
+    at Mohammed's command, and compares them with letters attributed to a Jewish scribe
+    in the nineteenth chapter.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Koran is described as written with great elegance and purity in the dialect
+    of Koreish and as the standard of Arabic.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The more orthodox are said to believe the Koran inimitable by any human pen
+    and to present this as a permanent miracle and proof of divine origin.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Mohammed is said to have appealed to this miracle and challenged eloquent
+    men in Arabia to produce even a single comparable chapter.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A poem by Labid Ebn Raba was fixed on the gate of the temple of Mecca, and
+    the second chapter of the Koran was later fixed up beside it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / Allah
+  description: Named in reported interpretations of A.L.M. as gracious, glorified,
+    wise, beginning, middle, end, and as author in the sequence 'Allah, Gabriel, Mohammed.'
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Gabriel
+  description: Named in one reported interpretation of A.L.M. as the revealer of the
+    Koran.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mohammed
+  description: Named as preacher of the Koran in one interpretation; also described
+    as appealing to the Koran's miracle and challenging eloquent Arabs.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Unnamed amanuensis
+  description: A conjectured copyist said by a learned Christian to have set down
+    the letters for 'at the command of Mohammed.'
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Unnamed Jewish scribe
+  description: A scribe conjectured to have written five letters prefixed to the nineteenth
+    chapter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Learned Christian
+  description: Unnamed Christian scholar who offers a conjecture about the origin
+    of the letters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Koreish
+  description: The Arab tribe whose dialect is described as noble, polite, and used
+    in the Koran.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Eloquent men in Arabia
+  description: A collective audience said to have been publicly challenged to produce
+    a comparable chapter.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Labid Ebn Raba
+  description: A poet described as one of the greatest wits in Arabia in Mohammed's
+    time.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine author in reported interpretation
+  assigned_to:
+  - fig:1
+  basis: 'One interpretation glosses A.L.M. as ''Allah, Gabriel, Mohammed,'' with
+    the following roles: author, revealer, and preacher of the Koran.'
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: revealer in reported interpretation
+  assigned_to:
+  - fig:2
+  basis: Gabriel is named as the revealer in the reported sequence 'Allah, Gabriel,
+    Mohammed.'
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: preacher in reported interpretation
+  assigned_to:
+  - fig:3
+  basis: Mohammed is named as the preacher in the reported sequence 'Allah, Gabriel,
+    Mohammed.'
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: beginning-middle-end figure in interpretation
+  assigned_to:
+  - fig:1
+  basis: One interpretation says the letters signify that God is the beginning, middle,
+    and end.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mission claimant and challenger
+  assigned_to:
+  - fig:3
+  basis: The passage says Mohammed appealed to the Koran's miracle to confirm his
+    mission and challenged eloquent Arabs to produce a comparable chapter.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: conjectured scribe
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage reports conjectures involving an amanuensis and a Jewish scribe
+    writing letter groups.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: external conjecturer
+  assigned_to:
+  - fig:6
+  basis: The passage attributes one conjecture about the letters to a learned Christian.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: dialect source
+  assigned_to:
+  - fig:7
+  basis: The Koran is described as written in the dialect of the tribe of Koreish.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: challenged literary audience
+  assigned_to:
+  - fig:8
+  basis: Mohammed is said to have challenged eloquent men in Arabia to produce a comparable
+    chapter.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: esteemed poet
+  assigned_to:
+  - fig:9
+  basis: Labid Ebn Raba is described as one of the greatest wits in Arabia, whose
+    poem received a place at the temple gate.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: A.L.M. initial letters
+  literal_form: The letters A.L.M. at the beginnings of several chapters.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: speech organs sequence
+  literal_form: A assigned to the lower throat, L to the palate, and M to the lips.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: number seventy-one
+  literal_form: The total numerical value assigned to A, L, and M.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: inimitable Koran
+  literal_form: The Koran as an elegant text said to be inimitable by any human pen.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: single comparable chapter
+  literal_form: A single chapter proposed as the unit of comparison in Mohammed's
+    challenge.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: temple of Mecca gate
+  literal_form: The gate of the temple of Mecca where Labid's poem and then the second
+    chapter of the Koran were fixed up.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Labid's poem
+  literal_form: A poem by Labid Ebn Raba fixed on the gate of the temple of Mecca.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Conjectures about A.L.M.
+  summary: The passage lists multiple proposed meanings for the initial letters A.L.M.,
+    including theological, angelic-prophetic, bodily-speech, numerical, and scribal
+    explanations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Koran as linguistic standard and miracle
+  summary: The Koran is described as linguistically elegant, in the dialect of Koreish,
+    the standard of Arabic, and believed by the more orthodox to be inimitable and
+    divinely originated.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Challenge to produce a comparable chapter
+  summary: Mohammed is said to have used the Koran's inimitability to confirm his
+    mission and to challenge eloquent Arabs to produce even one comparable chapter.
+  figure_refs:
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Poem and Koran chapter at the temple of Mecca
+  summary: Labid's esteemed poem is described as fixed on the temple gate at Mecca,
+    after which the second chapter of the Koran was fixed up beside it.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: mysterious sacred initials with multiple interpretations
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gathers several attempts to decode A.L.M. through theological
+    phrases, named figures, speech organs, number value, and scribal abbreviation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents conjectures and emphasizes disagreement; it does
+    not settle one interpretation.
+- id: motif:2
+  label: sacred text as inimitable miracle
+  taxonomy_refs:
+  - wisdom
+  basis: The Koran is described as inimitable by human writing, a permanent miracle,
+    and sufficient evidence of divine origin.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a doctrinal and literary claim reported in the preliminary discourse,
+    not a narrative episode.
+- id: motif:3
+  label: public challenge to rival divine speech
+  taxonomy_refs:
+  - wisdom
+  basis: Mohammed is said to challenge Arabia's eloquent men to produce even a single
+    chapter comparable with the Koran.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage reports the challenge generally and does not include a full
+    contest narrative.
+- id: motif:4
+  label: sacred-site display of competing compositions
+  taxonomy_refs: []
+  basis: The passage describes Labid's poem displayed on the gate of the temple of
+    Mecca and the second chapter of the Koran later displayed beside it.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The excerpt stops before the reported outcome of the example is completed.
+- id: motif:5
+  label: miracle compared with raising the dead
+  taxonomy_refs:
+  - resurrection
+  basis: The passage says the Koran's inimitability was insisted on as a permanent
+    miracle greater than raising the dead.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Raising the dead appears only as a comparison, not as an event narrated
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Koran's inimitability as a miracle with
+    the miracle of raising the dead, calling the former greater.
+  claim_level: same_function
+  target: miracle of raising the dead
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is rhetorical within the discourse; no resurrection
+    story is narrated here.
+- id: claim:2
+  claim: The passage presents the Koran's chapter challenge and Labid's displayed
+    poem as functioning within a literary competition or comparison setting.
+  claim_level: same_function
+  target: public poetic display and competition at the temple of Mecca
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt ends before completing the Labid example, so the competitive
+    outcome is not available in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3321-3327
+  quote_or_summary: The passage says five chapters, including the second, begin with
+    A.L.M. and lists proposed expansions such as statements that God is gracious,
+    glorified, source of perfection and good, or most wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 3327-3332
+  quote_or_summary: '"Allah, Gabriel, Mohammed," the author, revealer, and preacher
+    of the Koran.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 3332-3340
+  quote_or_summary: An interpretation assigns A to the lower throat, L to the palate,
+    and M to the lips, making them signify beginning, middle, and end; another uses
+    their total numerical value of seventy-one to predict the establishment of the
+    Koranic religion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3340-3347
+  quote_or_summary: A learned Christian conjectures that A.L.M. was set down by an
+    amanuensis as an abbreviation for 'at the command of Mohammed,' and compares this
+    with letters prefixed to the nineteenth chapter attributed to a Jewish scribe.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3348-3356
+  quote_or_summary: The Koran is described as elegant and pure in the dialect of Koreish,
+    as the standard of Arabic, and as believed by the more orthodox to be inimitable
+    by human pen, a permanent miracle greater than raising the dead, and proof of
+    divine origin.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3357-3364
+  quote_or_summary: Mohammed is said to have chiefly appealed to this miracle for
+    confirmation of his mission and to have publicly challenged Arabia's eloquent
+    men to produce even one comparable chapter.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3365-3372
+  quote_or_summary: 'The passage begins an example: Labid Ebn Raba''s poem was fixed
+    on the gate of the temple of Mecca as an honored performance, and the second chapter
+    of the Koran was later fixed up beside it.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels for inimitable scripture
+    and sacred initials are passage-based, but taxonomy alignment is broad and should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is a preliminary discourse by the translator/editor and reports multiple views; claims should not be treated as direct Qur'anic narrative.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l3321-l3372
+  passage_sha256=336b0410c7713dee6aa97aa1110f6af0f07da5a2a0daa18889f763b04d834d6d
+

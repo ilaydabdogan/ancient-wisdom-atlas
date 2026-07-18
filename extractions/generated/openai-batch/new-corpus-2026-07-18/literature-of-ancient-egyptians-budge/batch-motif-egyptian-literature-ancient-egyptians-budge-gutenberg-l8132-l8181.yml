@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l8132-l8181
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: HYMN TO OSIRIS / HYMN TO SHU / CHAPTER XIII / MORAL AND PHILOSOPHICAL LITERATURE;
+    lines 8132-8181
+  start: '8132'
+  end: '8181'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: The poor have become rich, and the rich poor.
+  summary: The passage presents Apuur's account of social disorder, legal rejection,
+    royal displacement, exposed royal secrets, reversals of wealth and status, neglected
+    or endangered tombs, hunger, family violence, exhortations to destroy enemies
+    of the sacred palace and restore divine service, and an anticipated king described
+    as a shepherd of mankind who would restore order and prosperity. The editor notes
+    a resemblance to Hebrew prophetic descriptions and to Psalm lxxx. 1's Shepherd
+    of Israel.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Documents are stolen, serfs become their own masters, and court-house laws
+    are rejected, trampled publicly, and broken in the street.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A party of miserable men has removed the king, and secrets of the Kings of
+    the South and of the North have been revealed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: People formerly unable to make coffins or huts are described as having large
+    tombs, treasuries, and walled habitations, while tomb occupants are cast into
+    the desert.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The rich spend the night thirsty, beggars have brimming bowls, fine clothing
+    is exchanged for rags, and formerly unclothed people wear fine linen.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The poor have become rich and the rich poor; noble ladies sell their children
+    for beds, sleep on the ground, and go hungry while butchers are sated.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A man is slain beside his brother, and the brother flees to save his own life.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Apuur addresses his hearers in short exhortations beginning with a command
+    to destroy the enemies of the sacred palace or Court.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The hearers are told to remember cult duties, including burning incense, pouring
+    libations, offering geese, eating natron, making white bread, setting up poles
+    on temples and stelae inside them, purifying temples, and removing an unclean
+    priest from office.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Apuur seems to foretell a king who will restore order and prosperity to the
+    land and make cool what is hot.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The anticipated king is described as the shepherd of mankind, without evil
+    in his heart, gathering scattered herds and acting against evils.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The passage asks where the anticipated figure is, whether he is sleeping,
+    and states that his might is not seen.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The editor explicitly compares Apuur's indictment with descriptions in the
+    Hebrew Prophets and compares the shepherd of mankind with the Shepherd of Israel
+    in Psalm lxxx. 1.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Apuur
+  description: Speaker or sage who entreats his hearers and appears to foretell a
+    restoring king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Apuur's hearers
+  description: The addressed audience urged to destroy enemies of the sacred palace
+    and perform duties connected with divine service.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the removed king
+  description: The king said to have been removed by a party of miserable men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: anticipated king / shepherd of mankind
+  description: Future royal figure expected to restore order and prosperity, gather
+    scattered herds, and suppress evils.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: formerly poor or low-status people
+  description: Serfs, poor people, beggars, and persons formerly unable to provide
+    coffins or huts who are described as becoming masters or gaining wealth and dwellings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: formerly rich and noble people
+  description: Rich people and noble ladies described as thirsty, poor, hungry, clothed
+    in rags, selling children, or sleeping on the ground.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: priests
+  description: Priests are mentioned in instructions to purify temples and remove
+    an unclean priest from office.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: the gods
+  description: Divine recipients of service, offerings, incense, and libations in
+    Apuur's exhortations.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: admonishing speaker
+  assigned_to:
+  - fig:1
+  basis: Apuur entreats his hearers and appears to foretell a future king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: addressed ritual and political agents
+  assigned_to:
+  - fig:2
+  basis: The hearers are commanded to destroy palace enemies and remember duties for
+    divine service.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: displaced royal authority
+  assigned_to:
+  - fig:3
+  basis: The king is said to have been removed and royal secrets revealed.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: anticipated restorer ruler
+  assigned_to:
+  - fig:4
+  basis: The coming king is expected to restore order and prosperity and is called
+    shepherd of mankind.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: inverted low-status group
+  assigned_to:
+  - fig:5
+  basis: Serfs and poor people are described as becoming masters, rich, or possessors
+    of tombs, treasuries, and dwellings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: inverted high-status group
+  assigned_to:
+  - fig:6
+  basis: Rich and noble persons are described as poor, hungry, thirsty, dispossessed,
+    or degraded.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: ritual officiants subject to purity rules
+  assigned_to:
+  - fig:7
+  basis: The passage mentions making the priest purify temples and removing the unclean
+    priest.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: recipients of cult service
+  assigned_to:
+  - fig:8
+  basis: The duties listed are performed in connection with service of the gods and
+    offerings to the gods.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: court laws and stolen documents
+  literal_form: court-house laws and documents
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacred palace or Court
+  literal_form: the sacred palace or Court named in the exhortation to destroy its
+    enemies
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mortuary goods and tombs
+  literal_form: coffins, tombs, tomb occupants, desert, and treasury
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cult offerings and purifiers
+  literal_form: incense, libations, geese, natron, and white bread
+  associated_figures:
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: temple fixtures
+  literal_form: poles on temples and stelae inside them
+  associated_figures:
+  - fig:2
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: shepherd and herds
+  literal_form: the shepherd of mankind and his few, scattered herds
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: hot made cool
+  literal_form: making cool that which is hot
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: absent pilot
+  literal_form: the statement that there is no pilot in their moment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Legal and royal disorder
+  summary: Documents are stolen, serfs become masters, laws are rejected, the king
+    is removed, and royal secrets are revealed.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Social reversal and distress
+  summary: Low-status people gain wealth or dwellings while rich and noble people
+    lose comfort, food, clothing, and security; familial violence is reported.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Exhortation to palace defense and cult restoration
+  summary: Apuur tells his hearers to destroy enemies of the sacred palace and perform
+    ritual duties for the gods, including offerings, purification, and temple maintenance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Foretelling and absence of the restorer
+  summary: Apuur seems to anticipate a king who will restore order, act as shepherd
+    of mankind, gather scattered herds, repress evil, and whose present absence or
+    hidden might is questioned.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: social chaos and inversion after royal collapse
+  taxonomy_refs:
+  - chaos
+  basis: The passage describes rejected laws, stolen documents, removal of the king,
+    revealed royal secrets, reversal of rich and poor, tomb displacement, hunger,
+    and violence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The chaos is social and political in the passage, not a personified cosmic
+    chaos being.
+- id: motif:2
+  label: restoring shepherd king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A future king is expected to restore order and prosperity and is called the
+    shepherd of mankind who gathers scattered herds and suppresses evils.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The figure is unnamed in this excerpt, and the passage is described as
+    seeming to foretell him rather than giving a complete accession narrative.
+- id: motif:3
+  label: restoration of cult service
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Apuur exhorts hearers to perform offerings and temple-related duties for
+    the gods, including incense, libations, geese, natron, bread, purification, and
+    priestly purity.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage lists ritual duties but does not explicitly state a reciprocal
+    exchange between humans and gods.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports that many parts of Apuur's indictment resemble
+    Hebrew prophetic descriptions of the state of Israel and her people.
+  claim_level: same_function
+  target: writings of the Hebrew Prophets
+  evidence_refs:
+  - ev:5
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial comparison within the supplied text; the excerpt
+    does not demonstrate historical contact or quote the specific Hebrew prophetic
+    passages.
+- id: claim:2
+  claim: The passage itself states that the Egyptian phrase 'shepherd of mankind'
+    forcibly recalls the appeal to the 'Shepherd of Israel' in Psalm lxxx. 1.
+  claim_level: linguistic_similarity
+  target: Psalm lxxx. 1, 'Shepherd of Israel'
+  evidence_refs:
+  - ev:5
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the wording and function noted by the editor;
+    it should not be taken as evidence of direct borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8132-8139
+  quote_or_summary: Documents are stolen, serfs become masters, court laws are rejected
+    and trampled, poor people break them in the street, a party of miserable men removes
+    the king, and royal secrets are revealed.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 8139-8153
+  quote_or_summary: The passage lists reversals involving coffins, tombs, treasuries,
+    houses, food, clothing, rich and poor, noble ladies, beds, hunger, butchers, and
+    a man slain beside his fleeing brother.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 8156-8168
+  quote_or_summary: Apuur entreats his hearers with exhortations beginning 'Destroy
+    the enemies of the sacred palace (or Court)' and commands duties for divine service,
+    including incense, libations, geese offerings, natron, white bread, temple poles,
+    stelae, purification, and removal of an unclean priest.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quoted phrase from public domain passage
+    embedded in summary.
+- id: ev:4
+  type: summary
+  locator: 8168-8179
+  quote_or_summary: After text breaks, Apuur seems to foretell a king who will restore
+    order and prosperity, cool what is hot, be shepherd of mankind, gather few scattered
+    herds, repress and destroy evils, while questions are raised about his absence
+    and unseen might.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 8179-8181
+  quote_or_summary: The editor states that Apuur's indictment resembles Hebrew prophetic
+    descriptions and that the 'shepherd of mankind' recalls the 'Shepherd of Israel'
+    in Psalm lxxx. 1.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quoted phrases from public domain passage
+    embedded in summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear but partly consists of secondary summary and contains
+    reported breaks and uncertain words in the translated text. Motif assignments
+    are limited to patterns directly supported by the supplied excerpt and available
+    taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No historical-contact claim is made. Comparison claims are restricted to the editor's explicit comparison in the provided passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l8132-l8181
+  passage_sha256=8266043045335281d221f42067d4060632e2034127001e1f03d51cb3a7808594
+

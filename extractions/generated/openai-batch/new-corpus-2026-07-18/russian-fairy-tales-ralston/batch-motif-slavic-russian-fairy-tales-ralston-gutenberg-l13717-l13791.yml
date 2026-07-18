@@ -1,0 +1,595 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l13717-l13791
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'MAGIC AND WITCHCRAFT. / FOOTNOTES: / CHAPTER V. / GHOST STORIES.; lines
+    13717-13791'
+  start: '13717'
+  end: '13791'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage surveys regional beliefs about vampires and related revenants:
+    how they attack, how their presence is detected, how they may be destroyed, what
+    causes vampirism, and why some folk-tale enemies must be struck only once.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Little-Russian belief says a vampire with numb crossed hands uses steel-like
+    teeth to gnaw through obstacles, then kills babies before older household members.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fine salt scattered on a room floor can reveal the vampire's footsteps leading
+    back to its grave, where it is found with rosy cheeks and a bloody mouth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Kashoube Vieszcy wakes in the grave and gnaws its own hands and feet;
+    as it gnaws, its relatives and neighbors sicken and die.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Vieszcy may rise at midnight, destroy cattle, sound a belfry bell whose
+    hearers soon die, or suck blood from sleepers, leaving a small wound over the
+    heart.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Lusatian Wends hold that when a corpse chews its shroud or sucks its own
+    breast, its kin will soon die.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Wallachian murony can take the form of a dog, cat, toad, or blood-sucking
+    insect, and when exhumed shows recent nail growth and blood streaming from facial
+    openings.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In a Russian story, a stranger takes blood from a youth and an old man into
+    pails by striking their backs open, then drinks the blood.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Anti-vampire directions include driving a stake through the corpse, with aspen
+    or thorn named as materials in different places.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says fire and decapitation with a grave-digger's shovel are the
+    only certain methods of destroying a vampire, while some staked vampires resist
+    or remove the stake.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Possible causes of vampirism include being a wizard, witch, suicide, violently
+    killed person, cursed person, vampire victim, corpse crossed by an animal, bird
+    flying over a corpse, or offspring of an unholy union.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: A stake must be driven through the vampire by a single blow; a second blow
+    would restore it to life, and this is linked to folk-tale warnings not to strike
+    magic foes more than once.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: vampire or murderous corpse
+  description: A dead body or revenant that wakes or rises from the grave and harms
+    the living.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Vieszcy
+  description: The Kashoube name given in the passage for the vampire that wakes in
+    its grave and gnaws its hands and feet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: murony
+  description: A Wallachian being described as between a werewolf and a vampire, able
+    to assume animal or insect forms.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: stranger in the Russian story
+  description: A stranger who leads a peasant to sleepers, opens their backs, collects
+    their blood in pails, and drinks it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: peasant witness
+  description: A peasant conducted by the stranger into the house where two sleepers
+    lie.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: old man and youth
+  description: Two sleepers in the house whose blood is drawn into pails and drunk
+    by the stranger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: folk-tale heroes
+  description: Heroes mentioned as being warned not to strike their magic foes more
+    than one stroke.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: nocturnal blood-taking or death-bringing revenant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The figures wake or rise from the grave, suck blood, cause sickness or death,
+    or drink blood from victims.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: shapeshifting being
+  assigned_to:
+  - fig:3
+  basis: The murony is said to take the form of a dog, cat, toad, or blood-sucking
+    insect.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: human witness or companion
+  assigned_to:
+  - fig:5
+  basis: The peasant is conducted by the stranger and observes the blood-draining
+    scene.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: corpse to be neutralized
+  assigned_to:
+  - fig:1
+  basis: The passage gives methods for depriving the vampire corpse of power, including
+    staking, burning, and decapitation.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: sleeping victims
+  assigned_to:
+  - fig:6
+  basis: The old man and youth lie asleep and have blood drawn from them.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: one-stroke actor
+  assigned_to:
+  - fig:7
+  basis: Folk-tale heroes are warned not to strike magic foes more than once.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: grave
+  literal_form: grave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: steel-like teeth
+  literal_form: teeth like steel used to gnaw through obstacles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: salt trail
+  literal_form: fine salt scattered on the floor to trace footsteps
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: blood in pails
+  literal_form: blood flowing from victims into pails and drunk
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: deathly bell
+  literal_form: belfry bell sounded by the vampire; hearers soon die
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: animal and insect forms
+  literal_form: dog, cat, toad, or blood-sucking insect forms
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: aspen or thorn stake
+  literal_form: stake driven through the vampire's body
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:8
+  label: fire
+  literal_form: fire used to consume the vampire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: grave-digger's shovel
+  literal_form: shovel used to chop off the vampire's head
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: single blow
+  literal_form: one blow or one stroke; a second blow restores life
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:11
+  label: corpse-crossing animal
+  literal_form: cat or other animal crossing a corpse, or bird flying above it
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Regional vampire predation and detection
+  summary: Little-Russian, Kashoube, and Lusatian Wend beliefs describe vampires or
+    corpses gnawing, killing kin or neighbors, sucking blood, leaving wounds, and
+    being traced to the grave with salt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Wallachian murony forms and exhumed body
+  summary: The murony is described as vampire-like and werewolf-like, capable of animal
+    or insect forms, and marked after exhumation by nail growth and streaming blood.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Russian house blood-draining episode
+  summary: A peasant is brought by a stranger into a house with an old man and a youth
+    asleep; the stranger opens their backs, fills pails with blood, drinks, and leaves
+    before daylight.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Neutralizing or destroying the vampire
+  summary: The passage lists staking with aspen or thorn, burning, and decapitation
+    with a grave-digger's shovel, while noting examples where staked vampires were
+    not destroyed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Origins and one-stroke rule
+  summary: The passage lists causes of vampirism and states that the vampire must
+    be staked with one blow, connecting this to folk-tale warnings against striking
+    magic foes a second time.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: harmful revenant returning from the grave
+  taxonomy_refs: []
+  basis: Several traditions describe a corpse or vampire waking, rising, returning
+    to its grave, or needing destruction after harming the living.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage treats these as vampire beliefs, but no formal external motif
+    index number is supplied.
+- id: motif:2
+  label: blood-draining nocturnal attacker
+  taxonomy_refs: []
+  basis: The Vieszcy sucks blood from sleepers, and the Russian story depicts a stranger
+    draining and drinking blood from two sleepers.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly name the stranger as a vampire in the
+    quoted story, though it presents the story as an account of vampire operation.
+- id: motif:3
+  label: corpse gnawing itself or its burial covering causes deaths among kin
+  taxonomy_refs: []
+  basis: The Kashoube Vieszcy gnaws its own hands and feet while relatives and neighbors
+    die, and the Lusatian Wend corpse chewing its shroud or sucking its breast foretells
+    kin deaths.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The causal mechanism is reported as belief, not explained.
+- id: motif:4
+  label: tracking a revenant to the grave with salt
+  taxonomy_refs: []
+  basis: Fine salt on the floor reveals the vampire's footsteps leading back to the
+    grave.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only one regional form is described in this passage.
+- id: motif:5
+  label: shapeshifting vampire-like being
+  taxonomy_refs:
+  - shapeshifter
+  basis: The murony can assume forms of a dog, cat, toad, or blood-sucking insect.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes the murony specifically, not all vampires in the
+    survey.
+- id: motif:6
+  label: revenant destroyed or neutralized by special violence to the corpse
+  taxonomy_refs: []
+  basis: The passage gives staking, burning, and decapitation with a grave-digger's
+    shovel as means to deprive the vampire of power or destroy it.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage also reports cases where staking alone did not work.
+- id: motif:7
+  label: contagious or accidental transformation into vampire
+  taxonomy_refs: []
+  basis: A vampire's victim may become a vampire, and animal movement across a corpse
+    or bird flight above it may turn the dead into a vampire.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage says these are beliefs in some countries, without specifying
+    all locations.
+- id: motif:8
+  label: monstrous birth from unholy union
+  taxonomy_refs: []
+  basis: Some people are said to be destined from birth to be vampires as offspring
+    of an unholy union, the Evil One, or a temporarily animated corpse.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives multiple variants but does not narrate a full birth
+    story.
+- id: motif:9
+  label: single blow required against a magical enemy
+  taxonomy_refs: []
+  basis: The stake must be driven through the vampire by one blow because a second
+    would restore it to life, and folk-tale heroes are warned not to strike magic
+    foes more than once.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The link to broader folk-tales is stated by the author in explanatory
+    form rather than shown through a full tale in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Little-Russian, Kashoube, Lusatian Wend, Wallachian,
+    Bohemian, Istrian, and Russian materials as related regional variants of a vampire
+    or revenant complex.
+  claim_level: same_motif
+  target: Slavic and neighboring vampire/revenant traditions summarized in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a collector's comparative summary and does not by itself
+    prove historical contact, common inheritance, or uniform belief.
+- id: claim:2
+  claim: The Wallachian murony fits the passage-level pattern of a shapeshifting supernatural
+    predator because it can assume several animal and insect forms.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the murony is described this way; the passage does not state that
+    every vampire form shapeshifts.
+- id: claim:3
+  claim: The author explicitly connects the vampire staking rule of one blow only
+    with the wider folk-tale warning that heroes must not strike magical foes more
+    than once.
+  claim_level: same_function
+  target: one-stroke rule in folk-tales involving magic foes
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives the comparison as an explanation and does not provide
+    separate full examples of those hero tales.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13717-13724
+  quote_or_summary: 'Little-Russian belief: a vampire with numb crossed hands uses
+    steel-like teeth, kills babies before older household members, and can be traced
+    by salt footprints to its grave, where it has rosy cheeks and a bloody mouth.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13725-13736
+  quote_or_summary: 'Kashoube belief: the Vieszcy wakes in the grave, gnaws hands
+    and feet, causes relations and neighbors to die, may rise at midnight to kill
+    cattle or ring a deathly bell, and usually sucks blood from sleepers, leaving
+    a small wound over the heart.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13736-13739
+  quote_or_summary: 'Lusatian Wend belief: a corpse chewing its shroud or sucking
+    its own breast means its kin will soon follow it to the grave.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13739-13744
+  quote_or_summary: 'Wallachian belief: a murony, described as between werewolf and
+    vampire, can become a dog, cat, toad, or blood-sucking insect; when exhumed it
+    has newly grown nails and blood streaming from eyes, ears, nose, and mouth.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13745-13754
+  quote_or_summary: 'Russian story: a peasant is led by a stranger into a house with
+    an old man and youth asleep; the stranger strikes their backs open, fills pails
+    with their blood, drinks, and leaves as daylight begins.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13755-13765
+  quote_or_summary: Anti-vampire measures include driving an aspen or thorn stake
+    through the corpse; examples are given of staked vampires resisting, and certain
+    destruction is said to require fire or decapitation with a grave-digger's shovel.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13767-13781
+  quote_or_summary: Causes of vampirism include wizardry, witchcraft, suicide, violent
+    death, curses, being slain by a vampire, an animal crossing the corpse, a bird
+    flying over it, or being born from an unholy union involving the Evil One or an
+    animated corpse.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13781-13791
+  quote_or_summary: The passage states that a vampire must be transfixed by one blow
+    because a second would restore it to life, and connects this to folk-tale warnings
+    that heroes must not strike magic foes more than once despite voices urging them
+    to strike again.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction relies only on the supplied passage. Motif labels are descriptive
+    rather than formal index identifications except for the supplied shapeshifter
+    and symbol taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external motif index numbers or unsupported historical-contact claims were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l13717-l13791
+  passage_sha256=d08f9a9673c4f55651dab1f3e756f36730946091b828e30efa0a8982d906fe47
+

@@ -1,0 +1,588 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l3551-l3629
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 3551-3629
+  start: '3551'
+  end: '3629'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person voyager undertakes a second sea journey, is left asleep
+    on an uninhabited island, finds a giant roc egg, ties himself to the roc’s foot,
+    is carried through the air, and is deposited in a steep valley filled with diamonds
+    and huge serpents. He shelters overnight in a cave and is startled the next day
+    by something falling nearby.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator procures goods and embarks for a second voyage with other merchants.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The voyagers land at a place with fruit trees and springs but no houses or
+    people.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator eats, drinks wine, and falls asleep near a clear brook while
+    his companions gather flowers and fruit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When he wakes, the narrator is alone and sees the ship disappearing under
+    sail.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator climbs a tall tree, looks toward sea and land, and sees a distant
+    huge dazzling white object.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The white object is smooth, soft, very large, without foothold or opening,
+    and at least fifty paces around.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A bird of extraordinary size appears like a dark cloud, and the narrator recalls
+    sailors’ reports of a bird called a roc.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The narrator concludes that the white object is the roc’s egg, and the bird
+    settles on it and covers it with its wings.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:9
+  text: The narrator binds himself to the roc’s foot with the linen of his turban,
+    hoping to be carried away in the morning.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: At dawn the roc rises with the narrator, carries him so high that he can no
+    longer see the earth, then descends swiftly to solid ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: After the narrator frees himself, the roc kills a huge snake with its beak,
+    seizes it, and flies away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The narrator finds himself in a deep, narrow valley surrounded by steep rocky
+    mountains that cannot be climbed.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The valley ground is strewn with diamonds, some of astonishing size.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: The valley also contains many huge snakes; the narrator believes they hide
+    by day in rock caverns and come out at night because of the roc.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:15
+  text: At dusk the narrator enters a small cave, blocks the entrance with a stone,
+    eats, and tries to sleep while serpents hiss outside.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:16
+  text: In the morning, after the serpents retreat, the narrator leaves the cave,
+    wanders again, treats the diamonds as useless to him, and is startled when something
+    falls nearby with a thud.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: first-person voyager
+  description: The narrator who undertakes the voyage, is left on the island, attaches
+    himself to the roc, and enters the valley.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: merchant companions
+  description: Honourable merchants who travel with the narrator and wander on the
+    island gathering flowers and fruit before the ship departs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: roc
+  description: A bird of extraordinary size, previously known to the narrator from
+    sailors’ reports, which broods over its egg, carries the narrator unknowingly,
+    and kills a huge snake.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: huge snake killed by the roc
+  description: A huge snake pounced on and killed by the roc after the narrator reaches
+    solid ground.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: valley serpents
+  description: Large serpents in the valley, described as able to swallow an elephant,
+    hiding in caverns by day and crawling at night.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: sailors who spoke of the roc
+  description: Sailors whom the narrator remembers as having spoken of a wonderful
+    bird called a roc.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: voyager
+  assigned_to:
+  - fig:1
+  basis: He procures goods and embarks for a second sea journey.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: stranded survivor
+  assigned_to:
+  - fig:1
+  basis: He wakes alone after the ship has gone and seeks escape.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: escape-seeker
+  assigned_to:
+  - fig:1
+  basis: He ties himself to the roc’s foot hoping the bird will carry him away.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: traveling companions
+  assigned_to:
+  - fig:2
+  basis: They accompany the narrator on the voyage and gather flowers and fruit on
+    the island.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: giant brooding bird
+  assigned_to:
+  - fig:3
+  basis: The roc settles on its egg and covers it with its wings to keep it warm.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: aerial carrier
+  assigned_to:
+  - fig:3
+  basis: The roc rises into the air while the narrator is bound to its foot and carries
+    him away.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: snake predator
+  assigned_to:
+  - fig:3
+  basis: The roc kills a huge snake with its beak and carries it away.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: prey
+  assigned_to:
+  - fig:4
+  basis: The huge snake is killed and seized by the roc.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: nocturnal threat
+  assigned_to:
+  - fig:5
+  basis: The serpents come out at night and hiss around the narrator’s cave.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:10
+  label: reported informants
+  assigned_to:
+  - fig:6
+  basis: The narrator remembers sailors’ prior speech about the roc.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: abundant uninhabited island
+  literal_form: An island-like landing place covered with fruit trees and springs
+    of excellent water but without houses or people.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lookout tree
+  literal_form: A tall tree climbed by the narrator to look toward the sea and land.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: roc egg
+  literal_form: A huge dazzling white, smooth, soft object identified as the roc’s
+    egg.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: giant roc
+  literal_form: A bird of extraordinary size, first appearing like a huge black cloud.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: turban tether
+  literal_form: The narrator’s turban linen used to bind himself to the roc’s foot.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: mountain-ringed valley
+  literal_form: A deep narrow valley surrounded by steep rocky mountains towering
+    into the clouds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: diamonds
+  literal_form: Diamonds strewn on the valley floor, some of astonishing size.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:8
+  label: serpents
+  literal_form: Huge snakes and hissing serpents in the valley and caverns.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:9
+  label: cave refuge
+  literal_form: A little cave whose entrance the narrator blocks with a stone at night.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Second voyage and deserted landing
+  summary: The narrator sails with merchants, lands at an uninhabited fertile place,
+    eats and sleeps near water, and later wakes to find the ship gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Discovery of the roc egg
+  summary: After climbing a tree and seeing a white object, the narrator approaches
+    it, notes its size and texture, sees a huge bird, and identifies the object as
+    the roc’s egg.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Aerial removal by the roc
+  summary: The narrator binds himself to the roc’s foot; at dawn the bird carries
+    him upward and then down to solid ground, after which it kills and carries off
+    a huge snake.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Valley of diamonds and serpents
+  summary: The narrator finds himself trapped in a steep mountain-ringed valley where
+    diamonds lie on the ground and enormous serpents hide by day and emerge at night.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Night refuge and morning disturbance
+  summary: The narrator shelters in a cave while serpents hiss outside, leaves after
+    morning silence, wanders among diamonds, and is startled by an unidentified object
+    falling nearby.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: commercial sea departure
+  taxonomy_refs:
+  - departure
+  basis: The narrator prepares goods and embarks on a second voyage with other merchants.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The departure is literal commercial travel; the passage does not state
+    a ritual or sacred departure.
+- id: motif:2
+  label: abandoned sleeper on a deserted island
+  taxonomy_refs: []
+  basis: The narrator falls asleep on an uninhabited fertile landing place and wakes
+    to find himself alone with the ship gone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No external tale-type comparison is asserted from this passage alone.
+- id: motif:3
+  label: giant bird egg encounter
+  taxonomy_refs: []
+  basis: The narrator finds a huge white object, then identifies it as the egg of
+    the roc when the giant bird appears and broods over it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The egg is presented as an animal egg; the passage does not support reading
+    it as a cosmic egg.
+- id: motif:4
+  label: escape by giant bird flight
+  taxonomy_refs:
+  - ascent
+  basis: The narrator binds himself to the roc’s foot and is carried high into the
+    air before being set down elsewhere.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The ascent is physical and practical, not explicitly heavenly or spiritual.
+- id: motif:5
+  label: descent into inaccessible treasure valley
+  taxonomy_refs:
+  - hero_descent
+  basis: After being carried upward, the narrator descends rapidly with the roc into
+    a deep, narrow, mountain-bound valley filled with diamonds and danger.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The valley is not called an underworld; the descent is accidental rather
+    than a chosen heroic quest.
+- id: motif:6
+  label: serpent-haunted valley
+  taxonomy_refs:
+  - serpent
+  basis: The valley contains huge snakes that hide in caverns by day, come out at
+    night, and terrify the narrator.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents dangerous animals; it does not state a cultic or
+    moral symbolism for the serpents.
+- id: motif:7
+  label: cave refuge through the night
+  taxonomy_refs: []
+  basis: The narrator survives the night by entering a small cave and blocking the
+    entrance with a stone while serpents move outside.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The cave functions as shelter in this passage; no initiation meaning is
+    explicit.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links the encountered giant bird and egg to an already-known
+    roc motif through the narrator’s memory of sailors’ reports.
+  claim_level: same_motif
+  target: in-story sailors’ tradition of a wonderful bird called the roc
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal narrative comparison only; it does not establish
+    any external historical transmission or source relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3551-3560
+  quote_or_summary: The narrator prepares goods, embarks on a second voyage with merchants,
+    lands at a fertile uninhabited place with fruit trees, springs, and a brook, then
+    falls asleep while companions gather flowers and fruit.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 3562-3572
+  quote_or_summary: The narrator wakes alone, sees the ship disappearing, seeks escape,
+    climbs a tall tree, and notices a distant huge dazzling white object inland.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3574-3586
+  quote_or_summary: The white object is described as an immense smooth soft ball without
+    an opening; a huge bird appears, and the narrator recalls sailors speaking of
+    a wonderful bird called a roc and infers that the object is its egg.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence with brief phrase.
+- id: ev:4
+  type: summary
+  locator: 3588-3603
+  quote_or_summary: The roc settles on the egg, covers it with its wings, and at dawn
+    carries the narrator upward after he ties himself to its foot with his turban;
+    after descending, the roc kills and carries off a huge snake.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 3605-3615
+  quote_or_summary: The narrator is in a deep narrow valley enclosed by steep mountains,
+    with diamonds on the ground and enormous snakes that hide in rock caverns by day
+    and come out at night, apparently because of the roc.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 3617-3621
+  quote_or_summary: At dusk the narrator enters a little cave, blocks its entrance
+    with a stone, eats, lies down, and hears serpents crawling and hissing through
+    the night.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 3622-3629
+  quote_or_summary: In the morning, after the serpents retreat, the narrator leaves
+    the cave, wanders the valley, kicks diamonds aside as useless to him, sits on
+    a rock, and is startled when something falls nearby with a thud.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious; several are plain descriptive motifs rather than asserted taxonomy
+    matches. The only comparison claim is internal to the passage, based on the narrator’s
+    memory of sailors’ reports.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated later events were used. The unidentified falling object at the end of the passage is not interpreted beyond its literal description.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l3551-l3629
+  passage_sha256=2bab4d3697b8b925999ae1730a713dafc543521b93be81a9fe5a127b2c4848ec
+

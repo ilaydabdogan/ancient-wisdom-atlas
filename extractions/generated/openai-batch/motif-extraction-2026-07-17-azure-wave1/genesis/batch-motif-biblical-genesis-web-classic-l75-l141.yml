@@ -1,0 +1,587 @@
+---
+record_id: batch.motif.biblical-genesis-web-classic-l75-l141
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Genesis / Chapter 1; lines 75-141
+  start: '75'
+  end: '141'
+  translation: World English Bible Classic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Genesis 1 narrates God creating the heavens and the earth and ordering
+    a formless, dark, watery initial state over six days: light and darkness, sky,
+    land and seas, vegetation, celestial lights, aquatic and airborne creatures, land
+    animals, and humankind. God blesses living creatures and humans, gives humans
+    dominion and plant food, and sees all that was made as very good.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: God creates the heavens and the earth at the beginning of the passage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The earth is described as formless and empty, with darkness on the deep and
+    God’s Spirit hovering over the waters.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God creates light by speech, divides light from darkness, names light day
+    and darkness night, and the first day is marked by evening and morning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: God makes an expanse that divides waters below from waters above, names the
+    expanse sky, and the second day is marked by evening and morning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: God gathers waters under the sky so dry land appears, names dry land earth
+    and gathered waters seas, and causes seed-bearing vegetation and fruit trees to
+    grow on the third day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God makes lights in the sky to divide day from night, mark seasons, days,
+    and years, give light on the earth, and rule day and night on the fourth day.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: God creates sea creatures, water-swarming living creatures, and winged birds,
+    then blesses them to be fruitful and multiply on the fifth day.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: God makes land animals, livestock, and creeping things after their kinds on
+    the sixth day.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: God says to make man in God’s image and likeness with dominion over sea, sky,
+    and land creatures; God creates man as male and female, blesses them, and commands
+    them to multiply, fill the earth, subdue it, and have dominion.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: God gives seed-bearing herbs and fruit trees to humans for food, gives green
+    herbs to animals and birds for food, sees everything made as very good, and the
+    sixth day is marked by evening and morning.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The creator who speaks, makes, divides, names, sees goodness, blesses
+    living beings, and gives food.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: God’s Spirit
+  description: God’s Spirit is described as hovering over the surface of the waters
+    in the initial condition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Humankind, male and female
+  description: Man is created in God’s image; male and female are created, blessed,
+    commanded to multiply and fill the earth, given dominion, and given plants and
+    fruit trees for food.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Water and sky creatures
+  description: Large sea creatures, living creatures in the waters, and winged birds
+    are created after their kinds and blessed to multiply.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Land creatures
+  description: Livestock, creeping things, and animals of the earth are made after
+    their kinds and are included among creatures given green herbs for food.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:6
+  name_or_label: Two great lights and stars
+  description: The greater light, lesser light, and stars are made and set in the
+    sky to give light, divide light from darkness, and rule over day and night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Divine creator and speaker
+  assigned_to:
+  - fig:1
+  basis: God creates and repeatedly commands creation by speech.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: Cosmic separator and namer
+  assigned_to:
+  - fig:1
+  basis: God divides light from darkness and waters from waters, and names day, night,
+    sky, earth, and seas.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Blesser and provisioner
+  assigned_to:
+  - fig:1
+  basis: God blesses creatures and humans and gives plants for food.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:4
+  label: Hovering spirit over waters
+  assigned_to:
+  - fig:2
+  basis: God’s Spirit hovers over the surface of the waters.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Appointed celestial rulers and time markers
+  assigned_to:
+  - fig:6
+  basis: The lights mark seasons, days, and years, give light, and rule day and night.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Image-bearing dominion holders
+  assigned_to:
+  - fig:3
+  basis: Humankind is made in God’s image and given dominion over living creatures
+    and the earth.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: Blessed multipliers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Water and sky creatures and humans are blessed and told to be fruitful and
+    multiply.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:8
+  label: Created animal kinds
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Water, sky, and land creatures are created or made after their kinds.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Waters, deep, and seas
+  literal_form: The deep, waters above and below the expanse, gathered waters, and
+    seas.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: Light and day
+  literal_form: Light created by God, named day, and later governed by the greater
+    light.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: Darkness and night
+  literal_form: Darkness over the deep, named night, divided from light, and later
+    governed by the lesser light.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Expanse or sky
+  literal_form: The expanse in the middle of the waters, named sky, where birds fly
+    and lights are set.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: Dry land and earth
+  literal_form: Dry land appearing from gathered waters, named earth, producing vegetation
+    and living creatures.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: Fruit trees and seed-bearing plants
+  literal_form: Grass, herbs yielding seed, fruit trees bearing fruit with seed, and
+    green herbs for food.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: sym:7
+  label: Celestial lights and stars
+  literal_form: The greater light, lesser light, and stars set in the expanse of the
+    sky.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Image and likeness
+  literal_form: The stated image and likeness of God in which man is made.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Beginning, primordial waters, and first day
+  summary: God creates the heavens and the earth; the earth is formless, dark, and
+    watery, God’s Spirit hovers over the waters, and God creates and names light and
+    darkness as day and night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: 'Second day: expanse dividing waters'
+  summary: God makes an expanse to divide waters below from waters above and names
+    the expanse sky.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: 'Third day: land, seas, and vegetation'
+  summary: God gathers waters, makes dry land appear, names earth and seas, and causes
+    seed-bearing vegetation and fruit trees to grow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: 'Fourth day: lights in the sky'
+  summary: God makes and sets celestial lights and stars in the sky to give light,
+    divide day and night, rule day and night, and mark seasons, days, and years.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: 'Fifth day: sea creatures and birds'
+  summary: God creates water creatures, large sea creatures, and winged birds, sees
+    that they are good, and blesses them to multiply.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: 'Sixth day: land animals, humankind, food, and final evaluation'
+  summary: God makes land creatures, creates humankind male and female in God’s image
+    with dominion, blesses humans, gives plants and fruit trees for food, gives green
+    herbs to animals, and sees all creation as very good.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Ordered creation from formless dark waters
+  taxonomy_refs:
+  - chaos
+  basis: The passage begins with earth as formless and empty, darkness on the deep,
+    and waters present before God orders creation through divisions and naming.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not personify chaos or describe combat with a chaos-being;
+    the taxonomy reference is used only for the unformed watery-dark initial condition.
+- id: motif:2
+  label: Creation by divine speech
+  taxonomy_refs: []
+  basis: Multiple stages begin with God saying a command, followed by the stated result
+    or creation event.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names this motif.
+- id: motif:3
+  label: Cosmic ordering through separations and named pairs
+  taxonomy_refs:
+  - duality
+  basis: God divides light from darkness, waters above from waters below, and dry
+    land from gathered waters, then gives names to major domains.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The duality reference is structural; the passage does not present an ethical
+    or rival-power dualism.
+- id: motif:4
+  label: Celestial ordering of time and seasonal cycles
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The lights in the sky are assigned to divide day and night and to mark seasons,
+    days, and years; the passage also marks days by evening and morning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: The passage states time-marking functions but does not narrate a seasonal
+    myth cycle.
+- id: motif:5
+  label: Blessing of fruitfulness and multiplication
+  taxonomy_refs: []
+  basis: Water and sky creatures are blessed to be fruitful and multiply, and humans
+    receive a similar blessing and command.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names this motif.
+- id: motif:6
+  label: Humanity made in divine image with dominion
+  taxonomy_refs: []
+  basis: The passage states that humankind is created in God’s image and likeness
+    and given dominion over fish, birds, livestock, the earth, and creeping things.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage does not specify kingship, ritual status, or later theological
+    interpretation beyond the stated image, likeness, blessing, and dominion.
+- id: motif:7
+  label: Primordial plant food provision
+  taxonomy_refs: []
+  basis: God gives seed-bearing herbs and fruit-bearing trees to humans for food and
+    green herbs to animals and birds.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: This is a recurring creation element in the passage, but no supplied motif
+    taxonomy directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Genesis 1:1
+  quote_or_summary: God creates the heavens and the earth in the beginning.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: Genesis 1:2
+  quote_or_summary: The earth is formless and empty; darkness is on the deep, and
+    God’s Spirit hovers over the waters.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:3
+  type: summary
+  locator: Genesis 1:3-5
+  quote_or_summary: God speaks light into being, sees it as good, divides light from
+    darkness, names day and night, and the first day is marked by evening and morning.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:4
+  type: summary
+  locator: Genesis 1:6-8
+  quote_or_summary: God makes an expanse to divide waters above and below, names it
+    sky, and the second day is marked by evening and morning.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:5
+  type: summary
+  locator: Genesis 1:9-13
+  quote_or_summary: God gathers waters, reveals dry land, names earth and seas, creates
+    seed-bearing vegetation and fruit trees, sees goodness, and the third day is marked.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:6
+  type: summary
+  locator: Genesis 1:14-19
+  quote_or_summary: God makes lights in the sky for signs, seasons, days, years, illumination,
+    rule over day and night, and division of light and darkness; the fourth day is
+    marked.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:7
+  type: summary
+  locator: Genesis 1:20-23
+  quote_or_summary: God creates water creatures, large sea creatures, and winged birds,
+    sees goodness, blesses them to multiply, and the fifth day is marked.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:8
+  type: summary
+  locator: Genesis 1:24-25
+  quote_or_summary: 'God commands and makes land creatures: livestock, creeping things,
+    and animals of the earth after their kinds, and sees goodness.'
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:9
+  type: summary
+  locator: Genesis 1:26-28
+  quote_or_summary: God says to make man in God’s image and likeness with dominion;
+    God creates man male and female, blesses them, and commands multiplication, filling,
+    subduing, and dominion.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+- id: ev:10
+  type: summary
+  locator: Genesis 1:29-31
+  quote_or_summary: God gives seed-bearing plants and fruit trees to humans for food,
+    green herbs to animals and birds, sees everything made as very good, and the sixth
+    day is marked.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain; World English Bible Classic per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is high confidence because the passage is explicit and
+    sequential. Motif candidates are conservative and limited to supplied taxonomy
+    where directly supportable; chaos and duality are used descriptively, not as personified
+    combat or ethical dualism. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied Genesis 1 passage and metadata were used; no external comparative claims were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-genesis-web-classic__l75-l141
+  passage_sha256=0fdf98d3df830f707fbdd4e83ac307cab618a13edcb9abb09d14fa7f946af1da
+

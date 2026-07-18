@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l5646-l5658
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: BEOWULF SEEKS THE DRAGON.--BEOWULF'S REMINISCENCES. / XXXV. / XXXVI. / WIGLAF
+    THE TRUSTY.--BEOWULF IS DESERTED BY FRIENDS AND BY SWORD.; lines 5646-5658
+  start: '5646'
+  end: '5658'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"I intend to share with him my equipments of defence."'
+  summary: The passage is a philological note on disputed wording in Beowulf. It reports
+    variant readings and proposed renderings, including an interpretation that a speaker
+    intends to share defensive equipment with another person, and another rendering
+    concerning a sword that excelled in battle-stroke.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note states that the phrase "Brand ... burnie" is much disputed and that
+    some critics assume a gap of at least two half-verses.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note identifies "Úrum" as a peculiar form, "Byrdu-scrúd" as a crux, and
+    reports suggested alternative readings including "býwdu-scrúd" as "splendid vestments"
+    and "béon" for "bám."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note concludes that, regardless of individual word choices, the disputed
+    passage means that an unnamed speaker intends to share defensive equipment with
+    another male person.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A second note reports B.'s proposed rendering of a clause about a sword excelling
+    in stroke every sword carried to the strife, even the strongest sword.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The second note says B. reads "Þone" for "Þonne" as a relative pronoun.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: B.
+  description: A cited commentator or editor associated with suggested readings and
+    a proposed rendering.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed first-person speaker
+  description: The paraphrased meaning uses an unnamed "I" who intends to share equipment
+    of defence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed recipient
+  description: The paraphrased meaning refers to "him" as the person with whom the
+    speaker intends to share defensive equipment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: philological proposer or renderer
+  assigned_to:
+  - fig:1
+  basis: The note says B. suggests one reading and would render another clause in
+    a particular way.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: intended sharer of defensive equipment
+  assigned_to:
+  - fig:2
+  basis: 'The paraphrased meaning is first-person: the speaker intends to share defensive
+    equipment.'
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: intended recipient of defensive equipment
+  assigned_to:
+  - fig:3
+  basis: The paraphrased meaning says the equipment is to be shared "with him."
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: defensive equipment
+  literal_form: equipments of defence
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sword
+  literal_form: a sword that excelled in stroke every sword carried to the strife
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: splendid vestments
+  literal_form: suggested reading "býwdu-scrúd" = "splendid vestments"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Philological note on disputed defensive-equipment passage
+  summary: The note reviews disputed forms and suggested readings, then states that
+    the passage must mean that a speaker intends to share defensive equipment with
+    another person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Proposed rendering of sword comparison
+  summary: A second note gives B.'s rendering of a passage about an exceptionally
+    effective sword and records an emended relative-pronoun reading.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sharing defensive equipment
+  taxonomy_refs: []
+  basis: The note states that the disputed passage means a speaker intends to share
+    equipment of defence with another person.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is a philological note rather than a narrative episode, and
+    no sacred or ritual exchange is stated.
+- id: motif:2
+  label: exceptional battle sword
+  taxonomy_refs: []
+  basis: B.'s proposed rendering describes a sword that excelled in stroke every sword
+    carried to strife, even the strongest.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives only a proposed rendering of a disputed clause, without
+    full narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5646-5652
+  quote_or_summary: The note says "Brand ... burnie" is disputed; some critics assume
+    a textual gap; "Úrum" and "Byrdu-scrúd" are discussed; B. suggests "býwdu-scrúd"
+    meaning "splendid vestments"; and "béon" is suggested for "bám."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 5652-5654
+  quote_or_summary: '"Whatever the individual words, the passage must mean, \"I intend
+    to share with him my equipments of defence.\""'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 5656-5658
+  quote_or_summary: B. would render the clause as a statement about something that
+    excelled in stroke every sword carried to strife, even the strongest sword; he
+    reads "Þone" for "Þonne" as a relative pronoun.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is critical apparatus and translation commentary, not a self-contained
+    mythic narrative. Literal extraction is relatively secure, but motif identification
+    is weak and needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy entries are not directly supported by the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l5646-l5658
+  passage_sha256=73f3dee144f0075fa37b53b34c29ef792494831344084824629b75b9565b8640
+

@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l4769-l4792
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: KAALA AND KAAIALII / A LEGEND OF LANAI / THE TOMB OF PUUPEHE / A LEGEND OF
+    LANAI; lines 4769-4792
+  start: '4769'
+  end: '4792'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“I shall drink with Aipuhi, / The great shark of Manele.”"
+  summary: A lament addresses Puupehe with questions about her whereabouts and possible
+    food and water offerings. After the lament, Makakehau leaps from a rock into the
+    surf, dies in the breakers, and is buried by witnesses in the kupapau of Manele.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses Puupehe and asks whether she is in the cave of Malauea.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker mentions bringing sweet mountain water and several foods, including
+    uwau, pala, ohelo, honu, hala, and kalo.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the bird and fish are bitter and the mountain water is sour,
+    and says he will drink it no more.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says he will drink with Aipuhi, identified as the great shark
+    of Manele.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Makakehau stops his sad wail and leaps from the rock into the boiling surge
+    at its base.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Makakehau’s body is crushed in the breakers.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: People who witness the event recover the mangled corpse and bury it with respect
+    in the kupapau of Manele.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Puupehe
+  description: Person addressed in the lament and asked whether she is in the cave
+    of Malauea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Makakehau
+  description: The one whose sad wail ceases before he leaps from the rock and dies
+    in the breakers.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Aipuhi
+  description: Named as the great shark of Manele with whom the speaker says he will
+    drink.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: witnessing people
+  description: People who see the event, secure the corpse, and bury it with respect.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: addressed absent figure
+  assigned_to:
+  - fig:1
+  basis: Puupehe is directly addressed with the question of where she is.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lamenting speaker
+  assigned_to:
+  - fig:2
+  basis: The prose identifies Makakehau’s preceding speech as a sad wail.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: self-destructive leaper
+  assigned_to:
+  - fig:2
+  basis: Makakehau leaps from the rock into the surf and is crushed in the breakers.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: named shark companion
+  assigned_to:
+  - fig:3
+  basis: The lament says the speaker will drink with Aipuhi, the great shark of Manele.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: witness-buriers
+  assigned_to:
+  - fig:4
+  basis: The people who beheld the scene secure and bury Makakehau’s corpse.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: cave of Malauea
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain water
+  literal_form: sweet water; water of the mountain; mountain water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: shared drinking gourd
+  literal_form: gourd used for dipping together
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: great shark of Manele
+  literal_form: shark named Aipuhi
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: rock and boiling surge
+  literal_form: rock above boiling surf and breakers
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: kupapau of Manele
+  literal_form: burial place or tomb at Manele
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lament addressing Puupehe
+  summary: A speaker asks where Puupehe is, imagines her in the cave of Malauea, names
+    water and food offerings, rejects the taste of bird, fish, and mountain water,
+    and declares he will drink with Aipuhi the shark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Leap, death, and burial
+  summary: After the lament, Makakehau leaps from a rock into the boiling surge, his
+    body is crushed in the breakers, and witnesses bury the corpse respectfully in
+    the kupapau of Manele.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: lament followed by self-destruction at the sea
+  taxonomy_refs: []
+  basis: The passage moves from Makakehau’s sad wail to his leap from a rock into
+    the surf, where he dies.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly state Makakehau’s motive beyond the preceding
+    lament.
+- id: motif:2
+  label: address to an absent figure with imagined offerings
+  taxonomy_refs: []
+  basis: The lament repeatedly addresses Puupehe and asks whether the speaker should
+    bring water and foods or share a gourd.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage alone does not specify Puupehe’s condition or relationship
+    to Makakehau.
+- id: motif:3
+  label: turn from ordinary sustenance to a shark companion
+  taxonomy_refs: []
+  basis: The speaker rejects bird, fish, and mountain water and says he will drink
+    with Aipuhi, the great shark of Manele.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The meaning of drinking with the shark is not explained in the passage.
+- id: motif:4
+  label: respectful burial after violent death
+  taxonomy_refs: []
+  basis: Witnesses recover Makakehau’s mangled corpse and bury it with respect in
+    the kupapau of Manele.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe burial rites beyond respectful burial.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4769-4771
+  quote_or_summary: "“Where are you O Puupehe? / Are you in the cave of Malauea?”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4772-4778
+  quote_or_summary: The lament asks about bringing sweet mountain water and foods
+    including uwau, pala, ohelo, honu, hala, and kalo, and about dipping in a gourd
+    together.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4779-4781
+  quote_or_summary: "“The bird and the fish are bitter, / And the mountain water is
+    sour. / I shall drink it no more.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4782-4783
+  quote_or_summary: "“I shall drink with Aipuhi, / The great shark of Manele.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4784-4787
+  quote_or_summary: Makakehau ceases his sad wail, leaps from the rock into the boiling
+    surge, and his body is crushed in the breakers.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4787-4789
+  quote_or_summary: The people who witness the scene secure the mangled corpse and
+    bury it with respect in the kupapau of Manele.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the passage. Motif labels are descriptive
+    and not asserted as taxonomy matches. No comparison claims are made because the
+    passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata; no external tradition-level context added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l4769-l4792
+  passage_sha256=cc7f79918a8df2522ff9fa242206de4ce8738855f630706181b967c56c019108
+

@@ -1,0 +1,454 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l2925-l2974
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAP. II. / CHAPTER III. / CHAPTER IV. / CHAPTER V.; lines 2925-2974
+  start: '2925'
+  end: '2974'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Joseph and Mary fear retaliation after hearing that an idol has fallen
+    and been destroyed. They recall Herod's attempt to kill Jesus and the slaughter
+    of infants, then go toward robbers' secret places. The robbers hear a great noise
+    like a king with an army, horses, and trumpets, flee in fear, and leave prisoners
+    and booty behind. The prisoners free one another, take their bags, see Joseph
+    and Mary, and ask where the king is whose approach frightened the robbers. Joseph
+    replies that he will come after them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Joseph and Mary hear that an idol has fallen down and been destroyed, and
+    they become afraid and tremble.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joseph and Mary recall that Herod intended to kill Jesus and slew infants
+    at Bethlehem and nearby for that purpose.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Joseph and Mary say the Egyptians may burn them with fire if they hear that
+    the idol is broken and fallen down.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Joseph and Mary go to the secret places of robbers who rob travelers, take
+    carriages and clothes, and carry travelers away bound.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The thieves hear a great noise like the noise of a king with a great army,
+    many horses, and sounding trumpets.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The thieves are frightened by the noise, leave their booty behind, and flee
+    in haste.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The prisoners rise, loosen one another's bonds, take their bags, and go away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The freed prisoners see Joseph and Mary coming and ask where the king is whose
+    approach the robbers heard.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Joseph answers that the king will come after them.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Joseph
+  description: Joseph travels with Mary, fears danger after the idol falls, goes toward
+    the robbers' secret places, and answers the freed prisoners.
+  role_refs:
+  - role:1
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Mary
+  description: Mary travels with Joseph, fears danger after the idol falls, goes toward
+    the robbers' secret places, and is seen by the freed prisoners.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Jesus
+  description: Jesus is named as the one whom Herod intended to kill.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Herod
+  description: Herod is described as intending to kill Jesus and slaying infants at
+    Bethlehem and the neighborhood for that purpose.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the Egyptians
+  description: The Egyptians are feared by Joseph and Mary as possible retaliators
+    who may burn them with fire if they learn that the idol is broken and fallen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: robbers or thieves
+  description: Robbers dwell in secret places, rob travelers, bind and carry them
+    away, then flee after hearing a great noise.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: prisoners
+  description: The prisoners are bound captives of the robbers who free one another
+    after the robbers flee.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: the king heard or asked about
+  description: A king with a great army is evoked by the noise heard by the robbers
+    and is later asked about by the freed prisoners; he is not directly seen in the
+    passage.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: fearful departing travelers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Joseph and Mary fear danger after the idol falls and go from there toward
+    the robbers' secret places.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: target of Herod's intended killing
+  assigned_to:
+  - fig:3
+  basis: The passage states that Herod intended to kill Jesus.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ruler who sought to kill Jesus and slew infants
+  assigned_to:
+  - fig:4
+  basis: Herod is described as intending to kill Jesus and slaying infants at Bethlehem
+    and nearby.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: feared retaliators
+  assigned_to:
+  - fig:5
+  basis: Joseph and Mary fear the Egyptians will burn them with fire if they hear
+    about the fallen idol.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: bandits and captors
+  assigned_to:
+  - fig:6
+  basis: The robbers rob travelers of goods and clothing and carry them away bound.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: frightened fugitives
+  assigned_to:
+  - fig:6
+  basis: The thieves hear a great noise, become frightened, abandon booty, and flee.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: freed captives
+  assigned_to:
+  - fig:7
+  basis: The prisoners loosen one another's bonds and leave after the robbers flee.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: perceived royal pursuer
+  assigned_to:
+  - fig:8
+  basis: The noise is likened to a king with a great army, and the prisoners ask where
+    that king is; Joseph says he will come after them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:9
+  label: answering witness
+  assigned_to:
+  - fig:1
+  basis: Joseph answers the prisoners' question about the king.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fallen idol
+  literal_form: an idol fallen down, broken, and destroyed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire as threatened punishment
+  literal_form: fire by which Joseph and Mary fear the Egyptians may burn them
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: secret places of robbers
+  literal_form: secret places or haunts where robbers are located
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: great royal-army noise
+  literal_form: a great noise like a king with a great army, many horses, and sounding
+    trumpets
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: bonds
+  literal_form: bonds from which the prisoners loosen one another
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fear after the idol falls
+  summary: Joseph and Mary hear that the idol has fallen and been destroyed, fear
+    retaliation from the Egyptians, and recall Herod's attempt to kill Jesus and the
+    slaughter of infants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Robbers routed by a great noise
+  summary: Joseph and Mary go toward the secret places of robbers. The thieves hear
+    a noise like a king with a great army, horses, and trumpets, become frightened,
+    abandon their booty, and flee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Prisoners freed and ask about the king
+  summary: The prisoners free one another from their bonds, take their bags, leave,
+    and ask Joseph and Mary where the king is whose approach frightened the robbers.
+    Joseph says he will come after them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Departure under threat
+  taxonomy_refs:
+  - departure
+  basis: The chapter heading states that Joseph and Mary leave Egypt, and the passage
+    narrates their fear of retaliation and movement away from the place of danger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as one episode in a larger journey; the supplied
+    range does not include the full surrounding itinerary.
+- id: motif:2
+  label: Child targeted by ruler and infants slain
+  taxonomy_refs: []
+  basis: Joseph and Mary recall that Herod intended to kill Jesus and slew infants
+    at Bethlehem and nearby for that purpose.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The massacre is recalled in speech rather than narrated directly in this
+    passage.
+- id: motif:3
+  label: Enemies flee from unseen royal-army sound
+  taxonomy_refs: []
+  basis: The robbers hear a great noise like a king with an army, horses, and trumpets,
+    become frightened, abandon their booty, and flee; the prisoners later ask about
+    that king.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly identify the source of the noise or state
+    that the sound is supernatural.
+- id: motif:4
+  label: Captives released when captors flee
+  taxonomy_refs: []
+  basis: After the thieves flee, the prisoners loosen one another's bonds, take their
+    bags, and leave safely.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The rescue mechanism is tied to the preceding unexplained noise, whose
+    source is not clarified in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER V heading and v.1; within lines 2925-2974
+  quote_or_summary: The heading says Joseph and Mary leave Egypt. Joseph and Mary
+    hear the idol has fallen and been destroyed, fear and tremble, and recall Herod's
+    intent to kill Jesus and the slaughter of infants at Bethlehem and nearby.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:2
+  type: quote
+  locator: CHAPTER V.2; within lines 2925-2974
+  quote_or_summary: "“the Egyptians if they come to hear that this idol is broken
+    and fallen down, will burn us with fire.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: CHAPTER V.3; within lines 2925-2974
+  quote_or_summary: Joseph and Mary go to the secret places of robbers who rob travelers
+    of carriages and clothes and carry them away bound.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:4
+  type: summary
+  locator: CHAPTER V.4; within lines 2925-2974
+  quote_or_summary: The thieves hear a great noise like a king with a great army,
+    many horses, and sounding trumpets, become frightened, leave their booty behind,
+    and flee in haste.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: summary
+  locator: CHAPTER V.5a; within lines 2925-2974
+  quote_or_summary: The prisoners rise, loosen each other's bonds, take their bags,
+    and go away.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:6
+  type: summary
+  locator: CHAPTER V.5b; within lines 2925-2974
+  quote_or_summary: The freed prisoners see Joseph and Mary and ask where the king
+    is whose approach the robbers heard, causing the robbers to leave them so that
+    they are safe.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:7
+  type: quote
+  locator: CHAPTER V.6; within lines 2925-2974
+  quote_or_summary: Joseph answered, “He will come after us.”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    where the source of the great noise is not explained. No comparison claims were
+    made because the passage itself does not explicitly support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external taxonomy identifiers beyond the supplied available refs were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l2925-l2974
+  passage_sha256=d12a007305c8fd0bc9f86d42c3c4ae50c08204a091bdd9e444ddaf2a6bbcce13
+

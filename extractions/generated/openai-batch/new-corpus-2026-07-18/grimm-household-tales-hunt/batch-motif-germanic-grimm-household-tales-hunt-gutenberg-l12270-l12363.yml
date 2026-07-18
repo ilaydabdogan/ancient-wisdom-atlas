@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l12270-l12363
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 12270-12363
+  start: '12270'
+  end: '12363'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The Lord, traveling at night in common clothing, asks for lodging first
+    at a rich man's large house and is refused, then is welcomed by a poor couple
+    who share food and their bed. In the morning he grants the poor couple three wishes,
+    including eternal happiness, health and daily bread, and a new house. The rich
+    man later learns what happened, regrets refusing the traveler, pursues him, and
+    asks for wishes too; the Lord warns him that such wishes will not be to his advantage
+    but permits them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The Lord is described as walking on earth among humans, becoming tired and
+    overtaken by darkness before reaching an inn, and seeing two houses facing each
+    other: one large and beautiful, one small and poor.'
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lord, in common clothing, asks the rich man for a night's lodging; the
+    rich man looks him over, refuses, gives reasons about full rooms and possible
+    poverty, and shuts the window.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The poor man promptly opens his small house and invites the traveler to stay
+    because it is already dark.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The poor man's wife welcomes the traveler, prepares potatoes on the fire,
+    milks the goat, and the couple shares coarse food with the guest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The poor couple offers their own bed to the traveler and lies on straw on
+    the ground after the traveler initially resists taking the bed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the morning the poor couple makes breakfast for the guest, and the Lord
+    offers them three wishes because they are kind and good.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The poor man asks for eternal happiness, health for the couple during life,
+    and daily bread; after the Lord suggests a new house as the third wish, the poor
+    man accepts, and the Lord changes the old house into a new one and blesses them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The rich man sees a new clean-looking house with red tiles and bright windows
+    where the old hut had stood and sends his wife to learn what happened.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The rich man's wife hears from the poor man that a traveler granted the poor
+    couple wishes and a new house, then reports this to her husband.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The rich man regrets having sent the traveler away; his wife advises him to
+    ride after the traveler and ask for three wishes.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The rich man catches up with the Lord on horseback, speaks pleasantly, offers
+    an excuse for not lodging him, asks for three wishes, and receives permission
+    after a warning that it will not be to his advantage.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Lord / traveler
+  description: A divine figure traveling on earth among humans, wearing common clothes,
+    asking for lodging, receiving hospitality from the poor couple, and granting wishes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Rich man
+  description: Owner of the large beautiful house who refuses the traveler lodging,
+    later sees the poor neighbor's transformed house, regrets his refusal, pursues
+    the Lord, and asks for wishes.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Poor man
+  description: Owner of the small poor house who welcomes the traveler, shares food
+    and lodging, asks for wishes, and receives blessing and a new house.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Poor man's wife
+  description: The poor man's wife welcomes the traveler, prepares food and milk,
+    and proposes giving the guest the couple's bed while they sleep on straw.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Rich man's wife
+  description: The rich man's wife investigates the transformed house, reports the
+    poor couple's reward, and advises her husband to pursue the traveler.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: divine visitor
+  assigned_to:
+  - fig:1
+  basis: The passage says the Lord walked on earth among humans and came as a traveler
+    seeking lodging.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: guest seeking lodging
+  assigned_to:
+  - fig:1
+  basis: He asks first the rich man and then the poor man for a night's lodging.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: wish-granter and blesser
+  assigned_to:
+  - fig:1
+  basis: He grants the poor couple three wishes, changes their house, blesses them,
+    and later permits the rich man to make wishes.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: inhospitable householder
+  assigned_to:
+  - fig:2
+  basis: He refuses the traveler lodging and shuts the window, leaving him outside.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: hospitable hosts
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: They invite the traveler in, welcome him, share food, and give him their
+    bed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: reward recipient
+  assigned_to:
+  - fig:3
+  basis: He asks for wishes on behalf of himself and his wife, and their old house
+    is changed into a new one.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: regretful pursuer
+  assigned_to:
+  - fig:2
+  basis: After learning of the poor couple's reward, he regrets his refusal and rides
+    after the traveler to ask for wishes.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: messenger and adviser
+  assigned_to:
+  - fig:5
+  basis: She asks the poor man what happened, reports it to her husband, and tells
+    him to catch the traveler and ask for wishes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: contrasted houses
+  literal_form: 'Two facing houses: one large and beautiful, one small and poor; later
+    the poor house becomes a new clean-looking house with red tiles and bright windows.'
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: common clothes
+  literal_form: The Lord wears common clothes and does not look as though he has much
+    money.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire
+  literal_form: The poor man's wife puts potatoes on the fire.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: milk
+  literal_form: The poor man's wife milks the goat so they may have a little milk
+    with the meal.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bed and straw
+  literal_form: The poor couple gives the traveler their bed and lies on straw on
+    the ground.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: three wishes
+  literal_form: The Lord offers the poor couple three wishes and later permits the
+    rich man to form three wishes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:7
+  label: daily bread
+  literal_form: The poor man asks that the couple may have their daily bread as long
+    as they live.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: horse
+  literal_form: The rich man rides a horse to catch up with the Lord.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: The Lord reaches two houses at night
+  summary: The Lord, tired and overtaken by darkness while traveling on earth, comes
+    upon two facing houses belonging to a rich man and a poor man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The rich man refuses lodging
+  summary: The Lord asks the rich man for lodging, but the rich man judges his appearance,
+    refuses him, and shuts the window.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The poor couple hosts the traveler
+  summary: The poor man invites the traveler in, the wife welcomes him, food and milk
+    are prepared, and the couple shares a modest meal with him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The poor couple gives up their bed
+  summary: The poor couple insists that the weary traveler sleep in their bed while
+    they sleep on straw on the ground.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Three wishes and transformed house
+  summary: In the morning, the Lord offers the poor couple three wishes, grants eternal
+    happiness, health, daily bread, and a new house, blesses them, and departs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: The rich household learns of the reward
+  summary: The rich man sees the new house, sends his wife to inquire, and learns
+    through her that the poor couple's hospitality led to wishes and a new house.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:7
+  label: The rich man pursues the Lord
+  summary: The rich man regrets refusing the traveler, rides after the Lord, offers
+    an excuse, and asks for wishes; the Lord warns him but allows three wishes to
+    be formed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine traveler tests hospitality
+  taxonomy_refs:
+  - divine_judgment
+  basis: A divine figure appears as a common traveler seeking lodging; the rich man
+    refuses while the poor couple welcomes him, and the later outcomes differ according
+    to their actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly use the word 'test'; the pattern is inferred
+    from the divine visitor's request and differential response.
+- id: motif:2
+  label: hospitality rewarded by divine gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The poor couple provides lodging, food, and their own bed to the traveler,
+    and the Lord grants wishes, a new house, and blessing in return.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exchange is narrative and moral rather than a formal ritual exchange.
+- id: motif:3
+  label: three granted wishes
+  taxonomy_refs: []
+  basis: The Lord offers the poor couple three wishes and later says that three wishes
+    formed by the rich man will be fulfilled.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: Only the granting and permission to wish are covered in this excerpt;
+    later consequences for the rich man's wishes are outside the supplied passage.
+- id: motif:4
+  label: poor household elevated after kindness
+  taxonomy_refs: []
+  basis: The small poor house is transformed into a new clean-looking house after
+    the poor couple's welcome of the traveler.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage frames the change as fulfillment of a wish, not as social
+    elevation beyond the new house and requested provisions.
+- id: motif:5
+  label: greedy or belated imitation of another's reward
+  taxonomy_refs: []
+  basis: After the rich man learns that his poor neighbor received wishes, he regrets
+    sending the traveler away and pursues the Lord to obtain wishes for himself.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The excerpt stops before the rich man's wishes are formed, so any adverse
+    result is only foreshadowed by the Lord's warning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12270-12275
+  quote_or_summary: The Lord walks on earth among humans, becomes tired after dark,
+    and comes to two facing houses, one large and beautiful and one small and poor.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12277-12288
+  quote_or_summary: The Lord asks the rich man for a night's lodging; seeing his common
+    clothes, the rich man refuses and shuts the window.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12290-12301
+  quote_or_summary: The poor man invites the traveler in; the poor man's wife welcomes
+    him, prepares potatoes on the fire, milks the goat, and the couple shares their
+    coarse food with him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12302-12312
+  quote_or_summary: At bedtime the poor couple insists that the traveler sleep in
+    their bed while they lie on straw on the ground.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12314-12328
+  quote_or_summary: In the morning the Lord offers three wishes; the poor man asks
+    for eternal happiness, health, and daily bread, accepts a new house as the third
+    wish, and the Lord changes the house and blesses them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12330-12336
+  quote_or_summary: The rich man sees a new clean-looking house with red tiles and
+    bright windows where the poor hut used to be and sends his wife to investigate.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12338-12349
+  quote_or_summary: The rich man's wife learns and reports that the traveler granted
+    the poor couple wishes and a new house; the rich man regrets refusing the traveler,
+    and his wife tells him to pursue the man and ask for wishes.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 12351-12363
+  quote_or_summary: The rich man catches up with the Lord on horseback, excuses his
+    earlier refusal, asks for three wishes, and is told that wishes will be fulfilled
+    though not to his advantage.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied public-domain passage. Motif
+    labels involving testing and judgment are cautious because the excerpt implies
+    them through narrative structure rather than naming them explicitly. No comparison
+    claims were made because the passage itself does not compare traditions or motif
+    families beyond the local narrative pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated tale continuations were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l12270-l12363
+  passage_sha256=638bb7e39e6dae26b92916d6be2c0bf0c5ccb068649a6276f8267ca03605bdf6
+

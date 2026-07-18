@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9135-l9150
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: KALOPALING. / THE UISSUIT. / KIVIUNG. / ORIGIN OF THE NARWHAL.; lines 9135-9150
+  start: '9135'
+  end: '9150'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A young man carries his wounded sister wrapped in hares’ skins and wanders
+    for many days. They reach the hut of Iqignang. The hungry young man asks to eat
+    from deer meat at the entrance, but Iqignang tells him not to, and he stops. Iqignang
+    treats the siblings kindly, marries the recovered girl, and gives his former wife
+    to the young man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young man wraps his sister in hares’ skins, places her on his back, and
+    travels onward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young man wanders over the land for many days before reaching a hut where
+    Iqignang lives.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Because he is hungry, the young man asks whether he may eat a morsel from
+    the deer meat stored at the hut entrance.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Iqignang tells him not to eat the deer meat, and the young man stops after
+    having taken a small amount.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Iqignang is described as very kind to the brother and sister.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the girl recovers from her wounds, Iqignang marries her.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Iqignang gives his former wife to the young man.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: young man / brother
+  description: A young man who carries his sister, wanders over the land, asks for
+    food at Iqignang’s hut, stops when told not to eat, and later receives Iqignang’s
+    former wife.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: sister / girl
+  description: The young man’s sister, carried in hares’ skins; she recovers from
+    wounds and marries Iqignang.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Iqignang
+  description: A named man living in a hut; he forbids the young man to eat the deer
+    meat, is kind to the siblings, marries the recovered girl, and gives his former
+    wife to the young man.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Iqignang’s former wife
+  description: A former wife of Iqignang who is given to the young man.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: brother and caretaker
+  assigned_to:
+  - fig:1
+  basis: He is identified through the sister relationship and carries his sister on
+    his back.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hungry traveler and food-requester
+  assigned_to:
+  - fig:1
+  basis: He wanders for many days, becomes hungry, and asks for a morsel of deer meat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: wounded sister
+  assigned_to:
+  - fig:2
+  basis: She is the young man’s sister and is later said to have recovered from her
+    wounds.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: recovered bride of Iqignang
+  assigned_to:
+  - fig:2
+  basis: After recovery from wounds, she is married by Iqignang.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: hut-dwelling host
+  assigned_to:
+  - fig:3
+  basis: Iqignang lives in the hut reached by the travelers and is described as kind
+    to them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: food prohibitor
+  assigned_to:
+  - fig:3
+  basis: Iqignang tells the hungry young man not to eat the deer meat.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: former wife transferred to young man
+  assigned_to:
+  - fig:4
+  basis: The passage states that Iqignang gave his former wife to the young man.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: protective wrapping of hares’ skins
+  literal_form: hares’ skins
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hut dwelling
+  literal_form: hut
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stored deer meat at entrance
+  literal_form: stock of deer meat put up in the entrance of the hut
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Carrying the sister through the land
+  summary: The young man wraps his sister in hares’ skins, carries her on his back,
+    and travels for many days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Food request and prohibition at Iqignang’s hut
+  summary: At Iqignang’s hut, the hungry young man asks to eat some stored deer meat,
+    but Iqignang tells him not to, and the young man stops.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Kindness, recovery, and marriages
+  summary: Iqignang treats the brother and sister kindly, marries the girl after she
+    recovers from her wounds, and gives his former wife to the young man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sibling pair in hardship and travel
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage centers on a brother caring for and transporting his wounded
+    sister during a long journey, followed by their reception by Iqignang.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is an excerpt and does not provide the preceding cause of
+    the sister’s wounds or the larger narrative outcome.
+- id: motif:2
+  label: Food prohibition obeyed at a host’s dwelling
+  taxonomy_refs: []
+  basis: The hungry young man asks for deer meat, is told not to eat it, and immediately
+    stops after having taken a little.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The reason for the prohibition and any consequences are not stated in
+    this passage.
+- id: motif:3
+  label: Marriage arrangement with spouse transfer
+  taxonomy_refs: []
+  basis: Iqignang marries the recovered sister and gives his former wife to the young
+    man.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not frame the transfer as sacred exchange or provide
+    broader cultural explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9135-9136
+  quote_or_summary: The young man cautiously wraps his sister in hares’ skins, puts
+    her on his back, and travels onward.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 9136-9138
+  quote_or_summary: He wanders over the land for many days and reaches a hut where
+    a man named Iqignang lives.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: 9138-9144
+  quote_or_summary: The hungry young man asks to eat from the deer meat at the hut
+    entrance; Iqignang answers, “Don’t eat it, don’t eat it,” and the young man stops
+    after having taken a little.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short quotation used for speech evidence.
+- id: ev:4
+  type: summary
+  locator: 9144-9148
+  quote_or_summary: Iqignang is very kind to the brother and sister; after the girl
+    recovers from her wounds, he marries her and gives his former wife to the young
+    man.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited by the
+    short excerpt and lack of surrounding narrative context. No comparison claims
+    were generated because the passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Footnote material in the passage points to an external full text but is not used for motif extraction here.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9135-l9150
+  passage_sha256=febd42a4165c9c4641bb9ce9f31e61399fb754ae45f4cdacb08c04be7cee1268
+

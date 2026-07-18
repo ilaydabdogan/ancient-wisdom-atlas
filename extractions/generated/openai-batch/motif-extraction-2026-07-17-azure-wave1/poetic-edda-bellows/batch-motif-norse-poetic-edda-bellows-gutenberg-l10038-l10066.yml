@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l10038-l10066
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: GROAS SPELL / II. FJOLSVINNSMOL / THE LAY OF FJOLSVITH / NOTES; lines 10038-10066
+  start: '10038'
+  end: '10066'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes identify Loki as builder of a hall with help from nine
+    dwarfs; discuss dwarf-name attestations and manuscript variants; explain Lyfjaberg
+    as the Hill of Healing; infer Mengloth as a healing goddess possibly related to
+    Frigg; note Eir as Mengloth's handmaiden and a healing figure; translate several
+    names; and gloss Solbjart and the words of Urth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note states that Loki is the only god named and that he built the hall
+    with the aid of nine dwarfs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that Jari, Dori, and Ori appear in the Voluspo catalogue of
+    dwarfs, and that Delling appears in Hovamol and Vafthruthnismol, with uncertainty
+    about the latter reference.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note states that other dwarf names do not appear elsewhere and that manuscripts
+    differ in the forms of many names.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Lyfjaberg is glossed as Hill of Healing; the note says manuscripts vary on
+    the name and that the editor follows Bugge's suggestion.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note says the stanza implies Mengloth is a goddess of healing and perhaps
+    a hypostasis of Frigg.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The note states that Eir appears as one of Mengloth's handmaidens and that
+    Snorri identifies Eir as a Norse Hygeia.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The note gives approximate renderings for a group of names, including Helper,
+    Help-Breather, Folk-Guardian, Shining, White, Blithe, Peaceful, Kindly, and Gold-Giver.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The note says one manuscript omits stanzas 55 and 56.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The note says the first line of stanza 56 is based on a conjectural emendation.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Solbjart is glossed as Sun-Bright and described as not elsewhere mentioned.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The words of Urth are glossed as the decrees of fate.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The note on stanza 65 cross-references Lyfjaberg to stanza 52 and its note.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Loki
+  description: A god named in the note as builder of the hall.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: nine dwarfs
+  description: Dwarfs who aid Loki in building the hall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Jari, Dori, and Ori
+  description: Named dwarfs said to appear in the Voluspo catalogue of dwarfs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Delling
+  description: Name said to appear in Hovamol and Vafthruthnismol, with caution that
+    the Vafthruthnismol instance may refer to someone else.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Mengloth
+  description: Described by the note as implied to be a goddess of healing and perhaps
+    a hypostasis of Frigg.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Frigg
+  description: Named as the goddess of whom Mengloth may be a hypostasis, according
+    to the note.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Eir
+  description: Named as one of Mengloth's handmaidens and, according to Snorri, a
+    Norse Hygeia.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Solbjart
+  description: Glossed as Sun-Bright and described as not elsewhere mentioned.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Urth
+  description: Named in the phrase glossed as the words of Urth, meaning the decrees
+    of fate.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named god
+  assigned_to:
+  - fig:1
+  basis: The note calls Loki the one god named.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hall builder
+  assigned_to:
+  - fig:1
+  basis: The note says Loki was the builder of the hall.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: building helpers
+  assigned_to:
+  - fig:2
+  basis: The note says the hall was built with the aid of nine dwarfs.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: catalogued dwarf names
+  assigned_to:
+  - fig:3
+  basis: The note says these names appear in the Voluspo catalogue of dwarfs.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: cross-attested name
+  assigned_to:
+  - fig:4
+  basis: The note says Delling appears in Hovamol and Vafthruthnismol, while cautioning
+    that the latter may refer to someone else.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: healing goddess
+  assigned_to:
+  - fig:5
+  basis: The note says the stanza implies Mengloth is a goddess of healing.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: possible hypostasis of Frigg
+  assigned_to:
+  - fig:5
+  basis: The note says Mengloth is perhaps a hypostasis of Frigg.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: possible source identity for Mengloth
+  assigned_to:
+  - fig:6
+  basis: Frigg is named in the note as the goddess with whom Mengloth may be identified
+    as a hypostasis.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: handmaiden of Mengloth
+  assigned_to:
+  - fig:7
+  basis: The note says Eir appears as one of Mengloth's handmaidens.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: healing figure
+  assigned_to:
+  - fig:7
+  basis: The note says Snorri identifies Eir as a Norse Hygeia.
+  evidence_refs:
+  - ev:2
+- id: role:11
+  label: otherwise unattested named figure
+  assigned_to:
+  - fig:8
+  basis: The note says Solbjart is not elsewhere mentioned.
+  evidence_refs:
+  - ev:6
+- id: role:12
+  label: fate authority
+  assigned_to:
+  - fig:9
+  basis: The words of Urth are glossed as decrees of fate.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hall
+  literal_form: hall
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: nine dwarf helpers
+  literal_form: nine dwarfs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Hill of Healing
+  literal_form: Lyfjaberg (Hill of Healing)
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:4
+  label: words of Urth
+  literal_form: words of Urth / decrees of fate
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Sun-Bright name
+  literal_form: Solbjart (Sun-Bright)
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hall built by Loki with dwarf aid
+  summary: The note attributes the building of a hall to Loki, assisted by nine dwarfs,
+    and discusses related dwarf-name attestations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Healing hill and healing female figures
+  summary: The note glosses Lyfjaberg as Hill of Healing, interprets Mengloth as a
+    healing goddess possibly related to Frigg, and identifies Eir as a handmaiden
+    and healing figure.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: scene:3
+  label: Name glosses and fate decrees
+  summary: The notes translate several names, identify Solbjart as Sun-Bright, and
+    gloss the words of Urth as decrees of fate.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine hall construction with dwarf aid
+  taxonomy_refs: []
+  basis: Loki is named as the hall's builder, and nine dwarfs aid in the construction.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an editorial note rather than the underlying stanza; no
+    wider narrative context is supplied here.
+- id: motif:2
+  label: healing hill presided over by healing goddess
+  taxonomy_refs: []
+  basis: Lyfjaberg is glossed as Hill of Healing, and the note says Mengloth is implied
+    to be a goddess of healing.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The healing role is explicitly editorially inferred from the stanza, which
+    is not included in this passage.
+- id: motif:3
+  label: healing goddess with handmaiden retinue
+  taxonomy_refs: []
+  basis: Eir appears as one of Mengloth's handmaidens, and the note connects Eir with
+    healing through Snorri's identification of her as a Norse Hygeia.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The note mentions Eir as one handmaiden and refers to stanza 54 names,
+    but the full retinue scene is not present in the excerpt.
+- id: motif:4
+  label: fate expressed as divine words or decrees
+  taxonomy_refs: []
+  basis: The note glosses the words of Urth as the decrees of fate.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only a gloss is provided; no narrative action involving Urth is included
+    in the passage.
+- id: motif:5
+  label: goddess as possible hypostasis of another goddess
+  taxonomy_refs: []
+  basis: The note says Mengloth may be a hypostasis of Frigg.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is an editorial possibility, not a narrative statement in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The note links Jari, Dori, and Ori to the Voluspo catalogue of dwarfs by
+    shared name occurrence.
+  claim_level: linguistic_similarity
+  target: Voluspo dwarf catalogue, stanzas 13 and 15
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This supports name overlap only; it does not by itself establish a
+    shared episode or motif.
+- id: claim:2
+  claim: The note links the name Delling to Hovamol and Vafthruthnismol, while warning
+    that the Vafthruthnismol occurrence may refer to someone else.
+  claim_level: linguistic_similarity
+  target: Hovamol 161 and Vafthruthnismol 25
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The passage explicitly flags referential uncertainty for one occurrence.
+- id: claim:3
+  claim: The note compares Eir's healing function with Snorri's account by calling
+    Eir the Norse Hygeia.
+  claim_level: same_function
+  target: Snorri, Gylfaginning 35; Hygeia analogy
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is mediated by the editor's note; no Greek Hygeia narrative
+    or Snorri passage is provided in the excerpt.
+- id: claim:4
+  claim: The note directs the reader to compare the Lyfjaberg stanza with stanza 32.
+  claim_level: same_motif
+  target: Fjolsvinnsmol stanza 32
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The compared stanza is not included, so the nature of the shared motif
+    cannot be verified from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10038-10044; note 50
+  quote_or_summary: Loki is named as the hall builder with aid from nine dwarfs; Jari,
+    Dori, Ori, and Delling are cross-referenced to other Eddic texts; manuscript name
+    variants are noted.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10046-10052; note 52
+  quote_or_summary: Lyfjaberg is glossed as Hill of Healing; Mengloth is inferred
+    as a healing goddess and perhaps a hypostasis of Frigg; Eir is one of Mengloth's
+    handmaidens and is compared with Hygeia through Snorri.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10054-10057; note 54
+  quote_or_summary: Manuscripts and editions vary in the names; approximate renderings
+    include Helper, Help-Breather, Folk-Guardian, Shining, White, Blithe, Peaceful,
+    Kindly, and Gold-Giver.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: line 10059; note 55
+  quote_or_summary: One manuscript omits stanzas 55 and 56.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: line 10061; note 56
+  quote_or_summary: The first line is based on a conjectural emendation.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10063-10064; note 63
+  quote_or_summary: Solbjart is glossed as Sun-Bright and not elsewhere mentioned;
+    the words of Urth are glossed as decrees of fate.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: line 10066; note 65
+  quote_or_summary: Lyfjaberg is cross-referenced to stanza 52 and its note.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial commentary and textual notes, not the full mythic
+    verses; extraction is strongest for named figures, glosses, and explicit cross-references,
+    while motif candidates require review against the underlying stanzas.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available motif-family taxonomy refs were assigned because the passage does not directly support them with sufficient specificity.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l10038-l10066
+  passage_sha256=f254b62d690827632bce87d8797b880070123f166d7d7e8e64caf0909673afae
+

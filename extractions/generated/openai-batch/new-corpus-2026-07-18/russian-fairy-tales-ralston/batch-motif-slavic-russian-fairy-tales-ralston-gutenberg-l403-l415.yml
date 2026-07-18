@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l403-l415
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: XVII. KOSHCHEI THE DEATHLESS                                    111 / XVIII.
+    THE WATER SNAKE                                           126 / XIX. THE WATER
+    KING AND VASILISSA THE WISE                     130 / XX. THE BABA YAGA                                             148;
+    lines 403-415
+  start: '403'
+  end: '415'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents excerpt lists seven tale titles with page numbers:
+    Ivan Popyalof, The Norka, Marya Morevna, Koshchei the Deathless, The Water Snake,
+    The Water King and Vasilissa the Wise, and The Baba Yaga.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents list of tale titles with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed titles include Ivan Popyalof, The Norka, and Marya Morevna.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The listed titles include Koshchei the Deathless, The Water Snake, The Water
+    King and Vasilissa the Wise, and The Baba Yaga.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One title names a snake associated with water.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One title names a king associated with water and Vasilissa described as wise.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One title describes Koshchei as deathless.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ivan Popyalof
+  description: Named in a tale title.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: The Norka
+  description: Named in a tale title.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Marya Morevna
+  description: Named in a tale title.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Koshchei the Deathless
+  description: Named in a tale title and described as deathless.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: The Water Snake
+  description: Named in a tale title as a snake associated with water.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: The Water King
+  description: Named in a tale title as a king associated with water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Vasilissa the Wise
+  description: Named in a tale title and described as wise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: The Baba Yaga
+  description: Named in a tale title.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Deathless figure
+  assigned_to:
+  - fig:4
+  basis: The title calls Koshchei “the Deathless.”
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: Water-associated king
+  assigned_to:
+  - fig:6
+  basis: The title calls the figure “the Water King.”
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Wise figure
+  assigned_to:
+  - fig:7
+  basis: The title calls Vasilissa “the Wise.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Water
+  literal_form: water
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Serpent or snake
+  literal_form: snake
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Wisdom
+  literal_form: wise
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Deathlessness
+  literal_form: deathless
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Water-associated serpent figure
+  taxonomy_refs:
+  - serpent
+  basis: The table of contents includes the title “The Water Snake,” directly combining
+    a water association with a snake figure.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only a title is provided; no narrative action or function is available
+    in this passage.
+- id: motif:2
+  label: Wise named figure
+  taxonomy_refs:
+  - wisdom
+  basis: The table of contents includes the title “The Water King and Vasilissa the
+    Wise,” explicitly describing Vasilissa as wise.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only a title is provided; the passage does not show any acts of wisdom.
+- id: motif:3
+  label: Deathless named figure
+  taxonomy_refs: []
+  basis: The table of contents includes the title “Koshchei the Deathless,” explicitly
+    applying deathlessness to Koshchei.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: Only a title is provided; the passage does not describe death, resurrection,
+    immortality mechanics, or narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 403-415
+  quote_or_summary: The excerpt lists seven contents entries with Roman numerals XIV
+    through XX and page numbers.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 403-407
+  quote_or_summary: The contents entries include XIV. Ivan Popyalof, XV. The Norka,
+    and XVI. Marya Morevna.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 409-415
+  quote_or_summary: The contents entries include XVII. Koshchei the Deathless, XVIII.
+    The Water Snake, XIX. The Water King and Vasilissa the Wise, and XX. The Baba
+    Yaga.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 411
+  quote_or_summary: "“THE WATER SNAKE”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: line 413
+  quote_or_summary: "“THE WATER KING AND VASILISSA THE WISE”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: line 409
+  quote_or_summary: "“KOSHCHEI THE DEATHLESS”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is only a table-of-contents excerpt. Names, attributes, and title
+    words can be extracted literally, but narrative motifs cannot be established beyond
+    title-level candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself provides no comparative or narrative context beyond tale titles.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l403-l415
+  passage_sha256=ed37982416733e89416eb078a2a7170cb957e6d75426867f2cb050c1dd42628f
+

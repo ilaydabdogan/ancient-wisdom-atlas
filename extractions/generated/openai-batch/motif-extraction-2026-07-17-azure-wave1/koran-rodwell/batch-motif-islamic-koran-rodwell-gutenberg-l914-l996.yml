@@ -1,0 +1,535 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l914-l996
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: PUBLIC SERVICES, / AND EMINENT LITERARY ATTAINMENTS, / THE TRANSLATOR. /
+    PREFACE; lines 914-996
+  start: '914'
+  end: '996'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A prefatory passage evaluates the Koran's theology, moral force, historical
+    effects among Arabians and Muslims, and later legendary accretions, then explains
+    the translator's Arabic base text, prior translations consulted, naming conventions,
+    recurring religious terms, and refusal to reproduce the original rhymes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the Koran deserves praise for its conceptions of Divine nature,
+    including Power, Knowledge, universal Providence, Unity, and trust in the One
+    God of Heaven and Earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Koran contains visions and legends and also embodies
+    moral earnestness and sententious oracular wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes sixth-century occupants of an arid peninsula becoming
+    votaries and propagators of a new creed and associates later conquests with drought,
+    famine, desire of conquest, and religious convictions.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says shepherds and wandering Bedouins of Arabia were transformed
+    into founders of empires, builders of cities, and collectors of libraries.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage credits the Koran with changes in Arabian customs and beliefs,
+    including suppression of idolatries, substitution of Allah's worship, abolition
+    of child murder, extinction of superstitious usages, and reduction of wives to
+    a fixed standard.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The passage says medieval Europe owed knowledge of dialectic philosophy, medicine,
+    and architecture to Arabian writers and that Muslims linked the West and East
+    for imported articles.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that much fable and legend was built upon the basis of
+    the Koran but says Muhammad is not answerable for those accretions or for later
+    excesses of his followers.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The translator says the Arabic text used was Fluegel's edition and that several
+    translations and Maracci's work were collated.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The translator says proper names are usually rendered as in English Scripture
+    and gives examples pairing English and Arabic forms.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The translator identifies recurring terms such as Companions of the fire,
+    People of the Book, tanzyl, zikr, and saha, and explains their renderings.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The translator says he has not attempted to represent the rhymes of the original
+    and refers to Burton's version of the Fatthah as a specimen.
+  category: other
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: The Koran
+  description: The text under evaluation and translation, described as containing
+    theological conceptions, moral earnestness, oracular wisdom, laws, religious teaching,
+    and principles linked to historical change.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Allah / One God of Heaven and Earth
+  description: The one God whose Power, Knowledge, Providence, and Unity are praised
+    and whose worship is said to replace worship of powers of nature and genii.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Muhammad
+  description: Named as the author in the preface's evaluation and as not answerable
+    for later fable, legend, or excesses; Sale is cited as saying his real virtues
+    should not be denied.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Arabians / shepherds and wandering Bedouins
+  description: Occupants of the Arabian peninsula described as becoming votaries and
+    propagators of a new creed and as transformed into empire founders, city builders,
+    and library collectors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Muslims
+  description: Described as victorious in relation to Eastern churches and as a connecting
+    link between West and East in the movement of knowledge and goods.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Powers of nature and genii
+  description: Former objects of worship mentioned as being replaced by the worship
+    of Allah.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: People of the Book
+  description: A recurring term glossed as Jews, Christians, and Sabeites.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Scriptural proper-name examples
+  description: 'Names listed as English Scripture forms alongside Arabic forms: Noah/Nuh,
+    Lot/Lut, Moses/Musa, Abraham/Ibrahym, Pharaoh/Firaun, Aaron/Harun, Jesus/Isa,
+    and John/Yahia.'
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: Text under assessment and translation
+  assigned_to:
+  - fig:1
+  basis: The passage evaluates the Koran's theology and moral qualities and later
+    describes the Arabic text and translations used.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:2
+  label: Divine being and object of worship
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the One God of Heaven and Earth and to the substitution
+    of Allah's worship for other objects of worship.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: Attributed author and moral subject of prefatory judgment
+  assigned_to:
+  - fig:3
+  basis: The passage connects the Koran with its author and discusses Muhammad's responsibility
+    and virtues.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: Source of principles linked to historical energy
+  assigned_to:
+  - fig:1
+  basis: The Koran is said to underlie a vast energy and contain the principles that
+    are its springs of action.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Recipients and propagators of the new creed
+  assigned_to:
+  - fig:4
+  basis: The passage says Arabians became votaries and warlike propagators and were
+    transformed into founders and builders.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Victorious and mediating community
+  assigned_to:
+  - fig:5
+  basis: Muslims are described in relation to the overthrow of Eastern churches and
+    as a connecting link between West and East.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Superseded worship beings
+  assigned_to:
+  - fig:6
+  basis: The powers of nature and genii are named as prior objects of worship replaced
+    by worship of Allah.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Scriptural community label
+  assigned_to:
+  - fig:7
+  basis: People of the Book is glossed as Jews, Christians, and Sabeites.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: Proper-name equivalence examples
+  assigned_to:
+  - fig:8
+  basis: The translator lists English Scripture names and Arabic forms to explain
+    his naming convention.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: The word "fire" in the phrase "Companions of the fire"
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+- id: sym:2
+  label: The Hour
+  literal_form: saha, described as the Hour of present or final judgment
+  associated_figures: []
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:10
+- id: sym:3
+  label: Downsending / Revelation
+  literal_form: tanzyl, glossed as literal downsending or Revelation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:4
+  label: Remembrance of God's name
+  literal_form: zikr, described as remembrance or repeated mention of God's name as
+    devotion
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Theological and moral appraisal of the Koran
+  summary: The preface praises the Koran's conception of divine attributes and one
+    God while also noting legends, ritual, and moral-oracular teaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Transformation and expansion of Arabians
+  summary: The passage presents Arabians and Bedouins as transformed by the new creed
+    into propagators, conquerors, empire founders, city builders, and library collectors.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Replacement of older worship and social practices
+  summary: The passage attributes to the Koran the suppression of idolatries, the
+    substitution of Allah's worship for powers of nature and genii, and several social
+    reforms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Later legend and judgment of Muhammad
+  summary: The passage distinguishes later fable, legend, and follower excesses from
+    Muhammad's responsibility and cites Sale on recognizing Muhammad's virtues.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Translation conventions and recurring terms
+  summary: The translator explains the base Arabic text, sources consulted, scriptural
+    name renderings, and recurring terms involving fire, revelation, remembrance,
+    and judgment.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Oracular wisdom in a sacred text
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says the Koran embodies noble moral earnestness and
+    sententious oracular wisdom.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a prefatory evaluation, not a narrative wisdom episode.
+- id: motif:2
+  label: Divine unity and universal providence
+  taxonomy_refs: []
+  basis: The passage emphasizes divine Power, Knowledge, Providence, Unity, and trust
+    in the One God of Heaven and Earth.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is doctrinal description; no specific narrative motif from the available
+    taxonomy directly matches it.
+- id: motif:3
+  label: Divine judgment with fire and the Hour
+  taxonomy_refs:
+  - divine_judgment
+  basis: The translator identifies recurring terms including Companions of the fire
+    and the Hour of present or final judgment.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage gives glossary-like translation notes and does not narrate
+    a judgment scene.
+- id: motif:4
+  label: Revelation as downsending
+  taxonomy_refs: []
+  basis: The passage discusses Revelation as a term, glossing tanzyl as downsending
+    or Revelation and elsewhere calling the Koran an accession of Truth in a qualified
+    sense.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  confidence: medium
+  cautions: The passage mentions revelation terminology but does not narrate a revelation
+    event.
+- id: motif:5
+  label: Religious reform replacing older worship
+  taxonomy_refs: []
+  basis: The passage says worship of Allah replaced worship of powers of nature and
+    genii and that idolatries and superstitious usages were suppressed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a historical-theological reform pattern rather than a developed
+    mythic narrative in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly maps Arabic Quranic names to names familiar from English
+    Scripture, supporting a linguistic correspondence with the biblical/scriptural
+    naming tradition.
+  claim_level: linguistic_similarity
+  target: English Scripture proper names and Arabic forms, including Noah/Nuh, Lot/Lut,
+    Moses/Musa, Abraham/Ibrahym, Pharaoh/Firaun, Aaron/Harun, Jesus/Isa, and John/Yahia
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns translation nomenclature only; the excerpt does
+    not compare individual stories involving these figures.
+- id: claim:2
+  claim: The phrase People of the Book is glossed as a category including Jews, Christians,
+    and Sabeites, supporting a shared scriptural-community category across nearby
+    traditions.
+  claim_level: same_function
+  target: People of the Book as a category for Jews, Christians, and Sabeites
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies a glossary identification, not a detailed comparative
+    motif analysis.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 914-918
+  quote_or_summary: 'The Koran is praised for conceptions of Divine nature: Power,
+    Knowledge, universal Providence, Unity, and belief in the One God of Heaven and
+    Earth.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 918-923
+  quote_or_summary: The passage says the Koran contains visions, legends, ceremony,
+    and justifications of certain practices, while also embodying moral earnestness
+    and sententious oracular wisdom.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 923-934
+  quote_or_summary: The passage describes Arabians becoming votaries and warlike propagators
+    of a new creed, conquering named regions, and being transformed from shepherds
+    and Bedouins into empire founders, city builders, and library collectors.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 934-939
+  quote_or_summary: The Koran is said to underlie a vast energy, contain principles
+    that are its springs of action, and be judged by changes introduced into customs
+    and beliefs.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: 939-948
+  quote_or_summary: Named changes include suppression of idolatries, substitution
+    of Allah's worship for powers of nature and genii, abolition of child murder,
+    extinction of superstitious usages, and reduction of wives to a fixed standard;
+    the passage calls this an accession of Truth, though not Revelation in the Christian
+    sense.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: 948-955
+  quote_or_summary: The passage deplores the overthrow of Eastern churches but says
+    medieval Europe owed knowledge of dialectic philosophy, medicine, and architecture
+    to Arabian writers and that Muslims linked West and East for goods.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:7
+  type: summary
+  locator: 955-964
+  quote_or_summary: The passage says a mass of fable and legend grew on the Koran's
+    basis but that Muhammad is not answerable for it or for later excesses; it cites
+    Sale on not denying Muhammad's real virtues.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:8
+  type: summary
+  locator: 965-976
+  quote_or_summary: The translation is said to be made from Fluegel's Arabic text,
+    with translations by Sale, Ullmann, Wahl, Hammer von Purgstall, Kasimirski, and
+    Maracci collated; other reference works are named.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:9
+  type: summary
+  locator: 976-984
+  quote_or_summary: The translator says proper names are usually given as in English
+    Scripture and lists English/Arabic pairings including Noah/Nuh, Lot/Lut, Moses/Musa,
+    Abraham/Ibrahym, Pharaoh/Firaun, Aaron/Harun, Jesus/Isa, and John/Yahia.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:10
+  type: summary
+  locator: 984-992
+  quote_or_summary: Recurring terms include Companions of the fire; People of the
+    Book, glossed as Jews, Christians and Sabeites; tanzyl as downsending or Revelation;
+    zikr as remembrance or repetition of God's name; and saha as the Hour of present
+    or final judgment.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+- id: ev:11
+  type: summary
+  locator: 993-996
+  quote_or_summary: The translator says he has not tried to represent the rhymes of
+    the original and refers to Burton's version of the Fatthah or opening chapter
+    as a specimen.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source; metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translator's preface and historical-theological commentary
+    rather than a narrative mythic episode. Literal extraction is strong, while motif
+    assignments are cautious because most evidence is doctrinal, evaluative, or glossary-like.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Motif taxonomy references were limited to available refs directly supported by the excerpt.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l914-l996
+  passage_sha256=52c8fd62f7deacc784cfbc58a303a16a026963929557128714f82ef1b5459146
+

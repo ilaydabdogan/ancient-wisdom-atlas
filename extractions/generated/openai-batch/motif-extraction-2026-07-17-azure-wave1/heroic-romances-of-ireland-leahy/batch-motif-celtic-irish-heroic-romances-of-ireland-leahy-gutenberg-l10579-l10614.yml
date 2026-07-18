@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l10579-l10614
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PART II / LITERAL TRANSLATION / THE RAID FOR DARTAID'S CATTLE / INTRODUCTION;
+    lines 10579-10614
+  start: '10579'
+  end: '10614'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction identifies manuscript sources for The Raid for Dartaid's
+    Cattle, explains how variants from the Yellow Book of Lecan are represented, notes
+    a Book of the Dun Cow fragment, and characterizes the tale as a simple example
+    of fairy vengeance. It also notes similarities between the troop's appearance
+    and descriptions in two other Irish tales, mentions the tale's Munster connection,
+    and identifies Orlam as the hero at the end of the tale and as one of Cuchulain's
+    earliest victims in the Tain bo Cualgne.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an introduction to a tale titled The Raid for Dartaid's Cattle.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The tale is said to be transmitted in two versions used by Windisch: Egerton
+    1782, dated 1414, and the Yellow Book of Lecan, dated to the fourteenth century.'
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prose version described here incorporates additions from the Yellow Book
+    of Lecan in brackets and marks uncertain renderings with question marks.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The opening of the story is said to appear in the eleventh-century Book of
+    the Dun Cow and to agree closely with the two later texts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The story is characterized as simple, straightforward, and a good example
+    of fairy vengeance.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The description of the troop's appearance is said to recall similar descriptions
+    in the Tain bo Fraich and in the Courtship of Ferb.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The tale is described as noticeable for its connection with the province of
+    Munster.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Orlam is identified as the hero of the end of the tale and as one of Cuchulain's
+    earliest victims in the Tain bo Cualgne.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Dartaid
+  description: Named in the tale title as associated with the cattle that are raided.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Orlam
+  description: Identified as the hero of the end of the tale and as one of Cuchulain's
+    earliest victims in the Tain bo Cualgne.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: Cuchulain
+  description: Named in relation to Orlam, who is described as one of Cuchulain's
+    earliest victims in the Tain bo Cualgne.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: the troop
+  description: A troop whose appearance is described in the tale; the introduction
+    says this description recalls similar descriptions in other Irish tales.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named cattle-associated figure
+  assigned_to:
+  - fig:1
+  basis: The title names Dartaid in connection with cattle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hero at the end of the tale
+  assigned_to:
+  - fig:2
+  basis: The introduction explicitly calls Orlam the hero of the end of the tale.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: victim of Cuchulain in another tale
+  assigned_to:
+  - fig:2
+  basis: Orlam is described as one of Cuchulain's earliest victims in the Tain bo
+    Cualgne.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: associated slayer in the Tain bo Cualgne
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Orlam as one of Cuchulain's earliest victims.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: appearing troop
+  assigned_to:
+  - fig:4
+  basis: The passage refers to a description of the appearance of the troop.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Dartaid's cattle
+  literal_form: cattle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: fairy vengeance
+  taxonomy_refs: []
+  basis: The introduction explicitly characterizes the story as a good example of
+    fairy vengeance.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not narrate the vengeance episode or identify the fairy
+    agents in detail.
+- id: motif:2
+  label: cattle raid
+  taxonomy_refs: []
+  basis: The title identifies the tale as a raid for Dartaid's cattle.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the title but does not summarize the raid event itself.
+- id: motif:3
+  label: distinctive troop appearance
+  taxonomy_refs: []
+  basis: The passage highlights the description of the troop's appearance and compares
+    it with similar descriptions in other Irish tales.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: No details of the troop's appearance are provided in this introduction.
+comparison_claims:
+- id: claim:1
+  claim: The introduction states that the description of the troop's appearance recalls
+    similar descriptions in the Tain bo Fraich and the Courtship of Ferb.
+  claim_level: visual_similarity
+  target: troop-appearance descriptions in the Tain bo Fraich and the Courtship of
+    Ferb
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage asserts the resemblance but does not quote or describe
+    the compared passages.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10579-10581
+  quote_or_summary: 'Title: "THE RAID FOR DARTAID''S CATTLE".'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 10583-10589
+  quote_or_summary: 'The introduction says Windisch gives the tale from two versions:
+    Egerton 1782, dated 1414, and the Yellow Book of Lecan, from the fourteenth century.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10591-10600
+  quote_or_summary: The passage explains that additions from the Yellow Book of Lecan
+    are translated into the prose version, uncertain renderings are marked, variants
+    are footnoted, and insertions from Y.B.L. are bracketed.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10602-10606
+  quote_or_summary: The opening of the story is said to be in the eleventh-century
+    Book of the Dun Cow, and the fragment is said to agree closely with the two later
+    texts.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 10608-10609
+  quote_or_summary: The story is described as "simple and straightforward" and "a
+    good example of fairy vengeance".
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 10609-10611
+  quote_or_summary: The description of the troop's appearance is said to recall similar
+    descriptions in the Tain bo Fraich and in the Courtship of Ferb.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 10611-10613
+  quote_or_summary: The tale is described as noteworthy for its connection with Munster,
+    while most heroic tales are said to be connected with the other three provinces.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 10613-10614
+  quote_or_summary: Orlam is identified as the hero at the end of the tale and as
+    one of Cuchulain's earliest victims in the Tain bo Cualgne.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The introduction provides strong evidence for textual transmission, named
+    figures, and the stated fairy-vengeance characterization, but it gives little
+    narrative detail about the raid, vengeance, or troop appearance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not include fairy vengeance, cattle raid, cattle, or troop appearance.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l10579-l10614
+  passage_sha256=dec3cbab6598a9b17ae5f059ace3cffe62722c81a7ea2e78914c2c1910d0ec3e
+

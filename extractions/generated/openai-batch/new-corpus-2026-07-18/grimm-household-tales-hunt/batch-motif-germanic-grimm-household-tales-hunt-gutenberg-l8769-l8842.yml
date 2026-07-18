@@ -1,0 +1,562 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8769-l8842
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8769-8842
+  start: '8769'
+  end: '8842'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A hungry sheep-dog leaves a master who lets him starve. A sparrow befriends
+    him and gets him meat and bread. After the dog sleeps on the highway, a waggoner
+    ignores the sparrow’s warning and kills the dog with his cart. The sparrow then
+    retaliates by spilling the waggoner’s wine, causing the deaths of his three horses,
+    gathering birds to eat his corn at home, and finally threatening the waggoner’s
+    life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sheep-dog has a master who lets him suffer hunger, and the dog leaves sadly.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the road the dog meets a sparrow, who addresses him as brother and promises
+    to satisfy his hunger in town.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At a butcher’s shop, the sparrow pecks and pulls at meat until it falls, and
+    the dog devours it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The sparrow obtains additional meat and then bread or buns for the dog, who
+    eats until satisfied.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Outside town, the dog lies down on the road or wheel track and falls asleep,
+    while the sparrow sits on a branch.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A waggoner driving a cart with three horses and two barrels of wine is warned
+    by the sparrow not to drive over the dog.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The waggoner ignores the warning, drives the cart over the sleeping dog, and
+    the wheels kill the dog.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The sparrow calls the dead dog his brother and says the killing will cost
+    the waggoner his cart and horses.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The sparrow removes bungs from the wine barrels or casks, causing the wine
+    to run out or be spilt.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: The sparrow pecks out the eyes of the waggoner’s horses; when the waggoner
+    swings an axe at the sparrow, he hits and kills his own horses.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:11
+  text: After the losses, the sparrow says he will make the waggoner unfortunate in
+    his home.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: At home, the waggoner’s wife reports that the malicious bird has gathered
+    birds to eat their corn; the waggoner finds thousands of birds in the loft and
+    the sparrow among them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The sparrow tells the waggoner that the misfortune will cost him his life
+    as well, and then flies out.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: sheep-dog
+  description: A hungry dog who leaves a bad master, is fed by the sparrow, sleeps
+    on the road, and is killed by the waggoner’s cart.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: sparrow
+  description: A bird who befriends and feeds the dog, warns the waggoner, avenges
+    the dog’s death by damaging the waggoner’s goods and horses, gathers birds at
+    the home, and threatens the waggoner’s life.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: waggoner / driver
+  description: A man driving a cart with horses and wine barrels; he ignores the sparrow’s
+    warning, kills the dog, and then suffers escalating losses.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: three horses
+  description: The three horses pulling the waggoner’s cart; their eyes are pecked
+    by the sparrow, and they are killed by the driver’s axe blows.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: waggoner’s wife
+  description: The wife who tells the waggoner that a malicious bird has come into
+    the house and gathered birds to devour the corn.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: gathered birds
+  description: Thousands of birds sitting in the loft, eating or having eaten the
+    corn, gathered by the sparrow according to the wife.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: dog’s master
+  description: The unnamed master who lets the sheep-dog suffer hunger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: neglectful owner
+  assigned_to:
+  - fig:7
+  basis: The master lets the sheep-dog suffer hunger.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hungry departing and killed companion
+  assigned_to:
+  - fig:1
+  basis: The dog leaves because of hunger, is fed by the sparrow, and is later killed
+    on the road.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: cross-species brother or companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The sparrow addresses the dog as brother and later calls him his brother
+    dog after the dog is killed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: food-providing helper
+  assigned_to:
+  - fig:2
+  basis: The sparrow gets meat and bread for the hungry dog.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: avenger and retaliator
+  assigned_to:
+  - fig:2
+  basis: After the dog is killed, the sparrow declares that it will cost the waggoner
+    and then causes losses to wine, horses, corn, and threatens life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: killer of the sleeping dog
+  assigned_to:
+  - fig:3
+  basis: The waggoner ignores the warning and drives over the dog, killing him.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: target of escalating misfortune
+  assigned_to:
+  - fig:3
+  basis: The waggoner loses wine, horses, corn, and is threatened with death after
+    killing the dog.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:8
+  label: draft animals and property casualties
+  assigned_to:
+  - fig:4
+  basis: The horses pull the cart, are blinded by the sparrow, and are killed by the
+    driver’s axe blows.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:9
+  label: domestic reporter
+  assigned_to:
+  - fig:5
+  basis: The wife reports the bird’s arrival in the house and the birds’ attack on
+    the corn.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: summoned consuming flock
+  assigned_to:
+  - fig:6
+  basis: Birds gathered in the loft consume the household corn.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: meat and bread
+  literal_form: Food obtained by the sparrow from butcher’s and baker’s shops for
+    the hungry dog.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: road, highway, and wheel track
+  literal_form: The outdoor route where the dog sleeps and where the cart wheels kill
+    him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cart with wine barrels
+  literal_form: The waggoner’s cart laden with two barrels or casks of wine, whose
+    bungs the sparrow removes.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: three horses
+  literal_form: The three horses attached to the cart, successively blinded by the
+    sparrow and killed by the driver.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: axe
+  literal_form: The driver’s weapon used against the sparrow, but striking the horses
+    instead.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: corn in the loft
+  literal_form: Household grain stores eaten by the gathered birds.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: gathered bird flock
+  literal_form: Thousands of birds assembled in the loft around the sparrow.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Departure and feeding in town
+  summary: The hungry sheep-dog leaves his master, meets the sparrow, and is fed with
+    meat and bread obtained by the sparrow in town.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sleep and killing on the highway
+  summary: The dog sleeps on the road. The sparrow warns the waggoner, but the waggoner
+    drives over the dog and kills him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Retaliation against wine and horses
+  summary: The sparrow spills the wine by removing bungs and causes the driver to
+    kill his own horses while trying to strike the bird.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Misfortune in the home
+  summary: The driver returns home, where his wife reports that the bird has gathered
+    other birds to eat the corn; the loft is filled with birds and the sparrow sits
+    among them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Final life-threat
+  summary: The sparrow tells the waggoner that the misfortune will cost him his life
+    as well, and flies out.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Mistreated animal departs from a neglectful owner
+  taxonomy_refs: []
+  basis: The sheep-dog is hungry because of his master and leaves sadly.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a literal narrative setup; no broader taxonomy assignment is made.
+- id: motif:2
+  label: Animal helper feeds a hungry companion through cunning theft
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The sparrow leads the dog to shops and pecks meat and bread down for him
+    without being observed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage shows cunning animal action, but the available taxonomy label
+    is broad and the stolen food is not marked as sacred.
+- id: motif:3
+  label: Cross-species brother-companion pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The sparrow repeatedly calls the dog brother and later describes the dead
+    dog as his brother dog.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The kinship term may be a form of address rather than literal siblinghood.
+- id: motif:4
+  label: Avenging animal companion punishes the killer
+  taxonomy_refs: []
+  basis: After the waggoner kills the dog, the sparrow declares a cost and inflicts
+    losses on the waggoner’s cart, wine, horses, corn, and threatens his life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents retaliation, but the final threatened death is not
+    completed within the provided passage.
+- id: motif:5
+  label: Small bird defeats a human opponent through repeated evasion and misdirection
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The sparrow repeatedly escapes the driver’s axe blows, while the driver’s
+    attempted strikes kill his own horses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The bird’s actions are trickster-like, but the passage does not explicitly
+    identify the sparrow as a trickster figure.
+- id: motif:6
+  label: Escalating misfortune moves from road to household stores
+  taxonomy_refs: []
+  basis: The losses progress from the road and cart to the home, where gathered birds
+    consume the corn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This describes the sequence inside this passage without asserting a specific
+    external motif index.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8769-8780
+  quote_or_summary: The dog suffers hunger under a bad master, leaves, meets a sparrow
+    on the road, and the sparrow promises food and knocks meat down at a butcher’s
+    shop.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8781-8790
+  quote_or_summary: The sparrow obtains another piece of meat and then bread or buns
+    for the dog, who eats and agrees to walk outside town.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8791-8804
+  quote_or_summary: The dog sleeps on the road; a waggoner with three horses and two
+    barrels of wine ignores the sparrow’s warning and drives over the dog, killing
+    him; the sparrow says this will cost the waggoner cart and horses.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8805-8814
+  quote_or_summary: The sparrow removes a bung so wine runs out, then pecks out one
+    horse’s eyes; the driver tries to strike the sparrow with an axe but kills the
+    horse.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8815-8829
+  quote_or_summary: The sparrow spills the second cask of wine and repeats the attack
+    on the remaining horses; the driver’s axe blows kill the horses, and the sparrow
+    says he will bring misfortune into the home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8831-8839
+  quote_or_summary: At home, the wife reports that the malicious bird has gathered
+    birds to devour the corn; the driver sees thousands of birds in the loft and the
+    sparrow among them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8841-8842
+  quote_or_summary: The sparrow tells the waggoner that the misfortune will cost his
+    life as well, then flies out.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the provided passage. Motif labels
+    are descriptive and should be human-reviewed, especially the broad taxonomy mappings
+    to sibling_pair and trickster_boundary. No comparison claims are made because
+    the passage does not itself provide an explicit external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were assigned; none of the supplied symbol refs are directly central in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8769-l8842
+  passage_sha256=2aa6e7aed0ba2615aaaf70a3f7db0daa2efdf98bfba719791a44d8f27282b3bb
+

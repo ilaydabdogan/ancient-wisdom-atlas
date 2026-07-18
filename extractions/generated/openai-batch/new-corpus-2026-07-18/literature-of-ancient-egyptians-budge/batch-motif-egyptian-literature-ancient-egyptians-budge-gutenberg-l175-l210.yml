@@ -1,0 +1,569 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l175-l210
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: E.A. WALLIS BUDGE, M.A., LITT.D. / PREFACE / E.A. WALLIS BUDGE. / CONTENTS;
+    lines 175-210
+  start: '175'
+  end: '210'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives Budge's signature and date, then a table of contents
+    listing chapters on Thoth and writing materials, Pyramid Texts and funerary topics,
+    magician stories, the Book of the Dead, and later Graeco-Roman Books of the Dead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes Budge's name, the British Museum as place, and the date
+    April 17, 1914, before the contents list.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chapter I identifies Thoth as the author of Egyptian literature and lists
+    writing materials including papyrus, ink, ink-pot, and palette.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Chapter II is titled The Pyramid Texts and lists sections on Opening the Mouth,
+    funerary offerings, hymns to the sky-goddess and sun-god, the King in Heaven,
+    and the hunting and slaughter of gods by the King.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Chapter III is a set of stories of magicians from the Ancient Empire, including
+    Ubaaner and the Wax Crocodile, Tchatchamankh and the Gold Ornament, Teta restoring
+    life to dead animals, and Rut-tetet with the Three Sons of Ra.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Chapter IV lists the Book of the Dead with a summary of chapters, hymns, litany,
+    extracts, and The Great Judgment.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Chapter V lists Graeco-Roman Books of the Dead, including the Book of Breathings,
+    Book of Traversing Eternity, Lamentations and Festival Songs of Isis and Nephthys,
+    and a book concerning the spirit of Osiris.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Thoth
+  description: Named in a chapter title as the author of Egyptian literature.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sky-goddess
+  description: Named in a Pyramid Texts section title as a recipient or subject of
+    hymns.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Sun-god
+  description: Named in a Pyramid Texts section title as a recipient or subject of
+    hymns.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: King
+  description: Named in Pyramid Texts section titles as being in heaven and as hunting
+    and slaughtering gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Gods
+  description: Named as the beings hunted and slaughtered by the King in a Pyramid
+    Texts section title.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Magicians
+  description: Collective figures named in the chapter title Stories of Magicians
+    Who Lived under the Ancient Empire.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Ubaaner
+  description: Named in the contents title Ubaaner and the Wax Crocodile.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Tchatchamankh
+  description: Named in the contents title The Magician Tchatchamankh and the Gold
+    Ornament.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Teta
+  description: Named in the contents title Teta, who restored Life to Dead Animals.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Dead animals
+  description: Named as beings to whom Teta restored life.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Rut-tetet
+  description: Named in the contents title Rut-tetet and the Three Sons of Ra.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Three Sons of Ra
+  description: Named as a group in the contents title Rut-tetet and the Three Sons
+    of Ra.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:13
+  name_or_label: Ra
+  description: Named through the relationship phrase Three Sons of Ra.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:14
+  name_or_label: Isis
+  description: Named in titles for Lamentations and Festival Songs of Isis and Nephthys.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:15
+  name_or_label: Nephthys
+  description: Named in titles for Lamentations and Festival Songs of Isis and Nephthys.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:16
+  name_or_label: Osiris
+  description: Named in the title The Book of Making Splendid the Spirit of Osiris.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named literary author
+  assigned_to:
+  - fig:1
+  basis: The chapter title calls Thoth the author of Egyptian literature.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: hymned deity
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: A section title refers to hymns to the sky-goddess and sun-god.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: heavenly king and hunter of gods
+  assigned_to:
+  - fig:4
+  basis: Section titles name the King in Heaven and the hunting and slaughter of the
+    gods by the King.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: targets of royal hunting and slaughter
+  assigned_to:
+  - fig:5
+  basis: The title The Hunting and Slaughter of the Gods by the King names the gods
+    as targets.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: featured in magician-story section
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The chapter heading is Stories of Magicians, followed by stories naming these
+    figures or the collective magicians.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: restorer of life
+  assigned_to:
+  - fig:9
+  basis: The title says Teta restored life to dead animals.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: recipients of restored life
+  assigned_to:
+  - fig:10
+  basis: The title says dead animals received restored life from Teta.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: sons of Ra
+  assigned_to:
+  - fig:12
+  basis: The phrase Three Sons of Ra states the relationship.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: named divine parent
+  assigned_to:
+  - fig:13
+  basis: The phrase Three Sons of Ra names Ra as the parent in the title.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: figures associated with lamentations and festival songs
+  assigned_to:
+  - fig:14
+  - fig:15
+  basis: The contents list Lamentations and Festival Songs of Isis and Nephthys.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: figure whose spirit is made splendid
+  assigned_to:
+  - fig:16
+  basis: The title The Book of Making Splendid the Spirit of Osiris names Osiris in
+    this context.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: writing materials
+  literal_form: Papyrus, ink, ink-pot, palette, and related materials.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: opening the mouth
+  literal_form: The Book of Opening the Mouth.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: funerary offerings
+  literal_form: The Liturgy of Funerary Offerings.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: heaven
+  literal_form: The King in Heaven.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: wax crocodile
+  literal_form: A wax crocodile named in a story title.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: gold ornament
+  literal_form: A gold ornament named in a story title.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Book of the Dead
+  literal_form: The Book of the Dead as a named corpus in the contents.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: great judgment
+  literal_form: The Great Judgment as a named Book of the Dead section.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: traversing eternity
+  literal_form: The Book of Traversing Eternity.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: spirit of Osiris
+  literal_form: The spirit of Osiris in the title The Book of Making Splendid the
+    Spirit of Osiris.
+  associated_figures:
+  - fig:16
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Contents heading after preface signature
+  summary: The passage moves from Budge's signature and date to a contents list.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chapter I contents entry
+  summary: A chapter title presents Thoth as author of Egyptian literature and links
+    the chapter to writing materials.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pyramid Texts contents cluster
+  summary: The Pyramid Texts are listed with ritual, hymnic, heavenly, and royal-violent
+    section titles.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Magician-story contents cluster
+  summary: A chapter on Ancient Empire magicians lists stories involving a wax crocodile,
+    a gold ornament, restored life for dead animals, and the Three Sons of Ra.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  - fig:13
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Book of the Dead contents cluster
+  summary: The Book of the Dead is listed with summary chapters, hymns, litany, extracts,
+    and The Great Judgment.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Graeco-Roman dead-book contents cluster
+  summary: The contents list later Books of the Dead, including Breathings, Traversing
+    Eternity, ritual songs of Isis and Nephthys, and a book about the spirit of Osiris.
+  figure_refs:
+  - fig:14
+  - fig:15
+  - fig:16
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine authorship and written wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The chapter title identifies Thoth as the author of Egyptian literature and
+    associates the topic with writing materials.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a contents entry, not the full myth or argument about Thoth.
+- id: motif:2
+  label: funerary ritual and afterlife texts
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The contents list Pyramid Texts, Opening the Mouth, funerary offerings, the
+    Book of the Dead, and Graeco-Roman Books of the Dead.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The contents titles indicate afterlife and funerary material, but do not
+    provide narrative details.
+- id: motif:3
+  label: king in heaven and royal violence against gods
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Pyramid Texts section titles name The King in Heaven and The Hunting and
+    Slaughter of the Gods by the King.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the titles are present; the passage does not explain the ritual or
+    theological function.
+- id: motif:4
+  label: restoration of life to dead animals
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: A story title states that Teta restored life to dead animals.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The contents title states the action, but no story details are provided.
+- id: motif:5
+  label: great judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Book of the Dead section list includes The Great Judgment.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The contents title supplies the motif label without describing the judgment
+    scene.
+- id: motif:6
+  label: divine parent-child relationship
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The contents list includes Rut-tetet and the Three Sons of Ra, naming sons
+    in relation to Ra.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the relationship phrase only; it does not narrate parentage
+    or birth.
+- id: motif:7
+  label: traversing eternity
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Graeco-Roman Books of the Dead section includes The Book of Traversing
+    Eternity.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The title suggests an eternal traversal but provides no route, agents,
+    or episodes.
+- id: motif:8
+  label: lamentations and festival songs of named deities
+  taxonomy_refs: []
+  basis: The Graeco-Roman Books of the Dead section lists Lamentations of Isis and
+    Nephthys and Festival Songs of Isis and Nephthys.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only titles and does not specify the content or relationship
+    of the figures.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 175-180
+  quote_or_summary: Budge's name, British Museum, date April 17, 1914, and the CONTENTS
+    heading appear before the list.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 181-183
+  quote_or_summary: '"THOTH, THE AUTHOR OF EGYPTIAN LITERATURE. WRITING MATERIALS,
+    PAPYRUS, INK AND INK-POT, PALETTE, &c."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 185-191
+  quote_or_summary: Chapter II, The Pyramid Texts, lists Opening the Mouth, funerary
+    offerings, hymns to the sky-goddess and sun-god, the King in Heaven, and the hunting
+    and slaughter of gods by the King.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 193-198
+  quote_or_summary: 'Chapter III lists magician stories: Ubaaner and the Wax Crocodile;
+    Tchatchamankh and the Gold Ornament; Teta restoring life to dead animals; Rut-tetet
+    and the Three Sons of Ra.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 200-204
+  quote_or_summary: Chapter IV, The Book of the Dead, lists Summary of Chapters, Hymns,
+    Litany, Extracts, and The Great Judgment.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 206-210
+  quote_or_summary: 'Chapter V lists Graeco-Roman Books of the Dead: Book of Breathings,
+    Book of Traversing Eternity, Lamentations and Festival Songs of Isis and Nephthys,
+    and The Book of Making Splendid the Spirit of Osiris.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative passage, so extraction
+    is based on explicit titles only. Motif candidates are therefore preliminary and
+    require review against the full chapters.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not provide comparative discussion beyond contents titles.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l175-l210
+  passage_sha256=9aec86b4ed4ad4b87607c4a5f97c8c031ac0344faf553fbadd9ca115fae87444
+

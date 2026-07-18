@@ -1,0 +1,134 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l65-l86
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: 'PISTIS SOPHIA / LITERALLY TRANSLATED FROM THE COPTIC BY GEORGE HORNER /
+    LONDON / NEW YORK AND TORONTO: THE MACMILLAN CO.; lines 65-86'
+  start: '65'
+  end: '86'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: PISTIS SOPHIA
+  summary: The passage is a title page for Pistis Sophia. It identifies George Horner
+    as translator from the Coptic, F. Legge as writer of the introduction, London
+    and New York/Toronto publishers, and notes printing in Great Britain in 1924.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents the work's title as Pistis Sophia.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the work was literally translated from the Coptic
+    by George Horner.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the work has an introduction by F. Legge, F.S.A.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists London as associated with the Society for Promoting Christian
+    Knowledge and New York and Toronto with The Macmillan Co.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage notes that the book was printed in Great Britain and gives the
+    year 1924.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: George Horner
+  description: Named as the person who literally translated the work from the Coptic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: F. Legge, F.S.A.
+  description: Named as the person who wrote the introduction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: translator from Coptic
+  assigned_to:
+  - fig:1
+  basis: The title page says the work was literally translated from the Coptic by
+    George Horner.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: introduction author
+  assigned_to:
+  - fig:2
+  basis: The title page says the work has an introduction by F. Legge, F.S.A.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 65-86
+  quote_or_summary: '"PISTIS SOPHIA"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 65-86
+  quote_or_summary: '"LITERALLY TRANSLATED FROM THE COPTIC BY GEORGE HORNER"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 65-86
+  quote_or_summary: '"WITH AN INTRODUCTION BY F. LEGGE, F.S.A."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 65-86
+  quote_or_summary: The title page lists London with the Society for Promoting Christian
+    Knowledge and New York and Toronto with The Macmillan Co.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 65-86
+  quote_or_summary: The title page gives 1924 and states that the book was printed
+    in Great Britain.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: This passage is bibliographic front matter rather than mythic narrative;
+    no symbols, scenes, motifs, or comparison claims are supported by the provided
+    lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythological motif extraction was possible from this title-page passage alone.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l65-l86
+  passage_sha256=4755d01ff680381c9ec0f37c45ef8af0db853c6320cdf71c0e8c13caeb7f4134
+

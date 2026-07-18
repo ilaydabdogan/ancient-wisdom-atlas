@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.gnostic-pistis-sophia-horner-gutenberg-l6077-l6085
+source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+passage_locator:
+  label: THE FIFTH DOCUMENT ... 193 / INDEX OF PSALMS AND ODES ... 201 / GENERAL INDEX
+    ... 203 / INTRODUCTION; lines 6077-6085
+  start: '6077'
+  end: '6085'
+  translation: Pistis Sophia
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person speaker says he would take the addressees to the place of
+    those who have received the inheritance and mysteries of the Light. The addressees
+    would see the glory of the light, and the Land of the Light is described through
+    comparisons to the sun in the human world and to a speck of dust when viewed from
+    a great distance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions the Treasury of the Light.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker says he would take the addressees to the Place of those
+    who received the Inheritance and the mysteries of the Light.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A group is described as having received the Inheritance and the mysteries
+    of the Light.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The addressees are told they will see the glory of the light.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Land of the Light is compared, for the addressees, to the light of the
+    sun in the world of mankind.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When viewed from a great distance, the Land of the Light is said to be reckoned
+    as a speck of dust, despite its great size.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The speaker who says he would take the addressees to the place associated
+    with the Light.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: you / ye
+  description: The addressees who would be taken to the place of the Light and would
+    see its glory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: those who received the Inheritance
+  description: A group associated with receiving the Inheritance and the mysteries
+    of the Light.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: guide or conveyer to the Light-place
+  assigned_to:
+  - fig:1
+  basis: The speaker says he would take the addressees to the Place of those who received
+    the Inheritance and mysteries of the Light.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressees of promised vision
+  assigned_to:
+  - fig:2
+  basis: The addressees are told they would be taken to the Light-place and would
+    see the glory of the light.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: recipients of inheritance and mysteries
+  assigned_to:
+  - fig:3
+  basis: The passage names this group as those who received the Inheritance and the
+    mysteries of the Light.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Treasury of the Light
+  literal_form: treasury associated with Light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Place of those who received the Inheritance
+  literal_form: place associated with recipients of inheritance and mysteries
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Inheritance and mysteries of the Light
+  literal_form: inheritance and mysteries received by a group
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Land of the Light
+  literal_form: land or realm of Light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: light of the sun
+  literal_form: sunlight in the world of mankind used as a comparison
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: speck of dust
+  literal_form: tiny speck used as a comparison for distant perception
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Promised conveyance to the Light-place
+  summary: The speaker says he would take the addressees to the place of those who
+    received the Inheritance and the mysteries of the Light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vision and scale of the Land of the Light
+  summary: The addressees are told they will see the glory of the light. The Land
+    of the Light is compared to sunlight in the human world and, from great distance,
+    to a speck of dust.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: guided approach to a radiant otherworld
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker describes taking the addressees to a place associated with the
+    Light, its mysteries, and a vision of glory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is conditional and does not explicitly describe a completed
+    journey or quest.
+- id: motif:2
+  label: initiatory inheritance of mysteries
+  taxonomy_refs:
+  - initiation
+  basis: The passage identifies a group as recipients of the Inheritance and the mysteries
+    of the Light, and places the addressees in relation to that realm.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The addressees are not explicitly said in this excerpt to receive the
+    mysteries themselves.
+- id: motif:3
+  label: transcendent realm expressed through cosmic scale comparisons
+  taxonomy_refs: []
+  basis: The Land of the Light is described through comparisons to sunlight in the
+    human world and to a speck of dust when viewed from immense distance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this scale-comparison
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6077-6079
+  quote_or_summary: The speaker mentions the Treasury of the Light and says he would
+    take the addressees to the Place of those who received the Inheritance and the
+    mysteries of the Light.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:2
+  type: quote
+  locator: 6079-6082
+  quote_or_summary: "“ye (will) see the glory of the light” and the Land of the Light
+    will be reckoned “as the light of the sun” in the world of mankind."
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:3
+  type: summary
+  locator: 6082-6085
+  quote_or_summary: If the addressees look upon the Land of the Light from a great
+    distance, it will be reckoned as a speck of dust because of its distance and greatness.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based only on the supplied lines. Motif labels are cautious
+    because the passage is a short conditional speech and does not narrate a completed
+    journey.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a specific comparison with another text, tradition, or motif family beyond the supplied taxonomy candidates.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:gnostic-pistis-sophia-horner-gutenberg__l6077-l6085
+  passage_sha256=347c85097853b6aa0925edd200a851179b1c3fcbff7c070dfd6038b2362edc92
+

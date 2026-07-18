@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l1243-l1313
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: INTRODUCTION / C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC;
+    lines 1243-1313
+  start: '1243'
+  end: '1313'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Peredur as the youngest surviving son of Earl Evrawc
+    after his father and six brothers are slain. His mother removes him to wilderness
+    seclusion and keeps horses and arms from him. Peredur misidentifies hinds as hornless
+    goats, later misidentifies knights as angels, learns from Owain about knights
+    and their equipment, prepares an improvised mount, and receives his mother's instructions
+    before riding toward Arthur's Court.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Earl Evrawc owns the Earldom of the North and has seven sons.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Evrawc and six of his sons are slain in wars and encounters; Peredur, the
+    youngest, is too young to have gone with them.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Peredur's mother leaves the inhabited country for deserts and unfrequented
+    wildernesses, allowing only women, boys, and men unequal to fighting to accompany
+    her, and forbidding horses or arms near Peredur.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Peredur goes daily into the forest and diverts himself by flinging sticks
+    and staves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Peredur sees goats with two hinds nearby, thinks the hinds are goats that
+    have lost their horns, and drives the hinds and goats together into the goat house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Three named knights, Gwalchmai, Geneir Gwystyl, and Owain, come along the
+    horse-road on the borders of the forest while pursuing a knight connected with
+    Arthur's Court.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Peredur's mother calls the approaching knights angels, and Peredur says he
+    will go and become an angel with them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Peredur tells Owain that he does not know what a knight is, asks about the
+    saddle, accoutrements, horses, and arms, and Owain explains their use.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Peredur returns and says the figures were honorable knights rather than angels;
+    his mother swoons.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Peredur takes a bony piebald horse used for carrying supplies, presses a pack
+    into the form of a saddle, and imitates horse trappings with twisted twigs.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Peredur's mother counsels him to go to Arthur's Court and gives instructions
+    about churches, food and drink, outcries, jewels, and fair women.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Earl Evrawc
+  description: Owner of the Earldom of the North, father of seven sons, slain in warfare.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Peredur
+  description: Youngest son of Evrawc, raised apart from warfare and later drawn toward
+    knighthood and Arthur's Court.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Peredur's mother / the Countess
+  description: Peredur's mother, described as scheming, thoughtful, and solicitous
+    for her only surviving son and his possessions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Gwalchmai son of Gwyar
+  description: One of the three knights seen coming along the horse-road on the borders
+    of the forest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Geneir Gwystyl
+  description: One of the three knights seen coming along the horse-road on the borders
+    of the forest.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Owain son of Urien
+  description: One of the three knights; he questions Peredur and explains knightly
+    equipment to him.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Unnamed knight who divided the apples in Arthur's Court
+  description: A knight whom Owain and his companions are pursuing; he is identified
+    only by the prior act of dividing apples in Arthur's Court.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Slain martial father
+  assigned_to:
+  - fig:1
+  basis: Evrawc maintains himself by tournaments, wars, and combats, and is slain
+    in such encounters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Young surviving son and departing youth
+  assigned_to:
+  - fig:2
+  basis: Peredur is the youngest son, survives because he is too young for war, later
+    equips himself and asks leave to ride forth.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:3
+  label: Protective isolating mother and counselor
+  assigned_to:
+  - fig:3
+  basis: She removes Peredur to wilderness, keeps arms and horses from him, and later
+    counsels him before departure.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: Arthurian knights encountered at the forest border
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The three named knights appear together on the horse-road at the border of
+    the forest.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Instructor in knightly equipment
+  assigned_to:
+  - fig:6
+  basis: Owain answers Peredur's questions about saddle, accoutrements, horses, arms,
+    and their uses.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Pursued knight linked to Arthur's Court
+  assigned_to:
+  - fig:7
+  basis: The passage says Owain is following the track of the knight who divided the
+    apples in Arthur's Court.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Wilderness seclusion
+  literal_form: deserts, unfrequented wildernesses, and forest outside the inhabited
+    country
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Withheld horses and arms
+  literal_form: horses and arms kept away from Peredur lest he set his mind on them
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Hinds mistaken for hornless goats
+  literal_form: two hinds among the goats, interpreted by Peredur as goats that had
+    lost their horns
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Knightly equipment explained
+  literal_form: saddle, accoutrements, horses, and arms shown and explained by Owain
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Improvised mount and trappings
+  literal_form: bony piebald horse, pack shaped as a saddle, and twisted twigs imitating
+    trappings
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Arthur's Court as destination
+  literal_form: the Court of Arthur, described by Peredur's mother as the place of
+    the best, boldest, and most bountiful men
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Departure instructions
+  literal_form: church, Paternoster, meat and drink, outcry of a woman, fair jewel,
+    and fair woman named in the mother's counsel
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Loss of father and brothers and removal to wilderness
+  summary: After Evrawc and six sons are slain, Peredur's mother removes her youngest
+    surviving son from inhabited country and keeps him away from warfare, horses,
+    and arms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Peredur misidentifies hinds in the forest
+  summary: Peredur, raised in seclusion, mistakes two hinds for hornless goats and
+    drives them with the goats into the goat house.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Encounter with the three knights
+  summary: Three knights arrive on the forest-border road; Peredur first accepts his
+    mother's description of them as angels, then meets them and learns from Owain
+    what a knight and knightly equipment are.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Peredur prepares to ride forth
+  summary: Peredur reports that the men are honorable knights, his mother swoons,
+    and he equips himself with a rough horse and improvised trappings before receiving
+    her counsel to go to Arthur's Court.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Protected youth hidden from martial knowledge
+  taxonomy_refs: []
+  basis: Peredur's mother removes him from inhabited society, surrounds him with noncombatants,
+    and forbids horses or arms near him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the mother's protective strategy but does not present
+    a named motif or explicit comparative frame.
+- id: motif:2
+  label: Naive misrecognition of animals and knights
+  taxonomy_refs: []
+  basis: Peredur mistakes hinds for hornless goats and later approaches knights after
+    his mother calls them angels.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a repeated local pattern of misrecognition within the passage;
+    broader symbolic interpretation is not supplied by the text.
+- id: motif:3
+  label: First instruction in the signs and equipment of knighthood
+  taxonomy_refs:
+  - initiation
+  basis: Peredur does not know what a knight is and asks Owain about the saddle, accoutrements,
+    horses, arms, and their uses.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supports an initial instructional moment, but a complete initiation
+    sequence extends beyond this excerpt.
+- id: motif:4
+  label: Hero's departure toward a renowned court
+  taxonomy_refs:
+  - departure
+  basis: Peredur prepares a horse and his mother instructs him to go to Arthur's Court
+    before he rides forth.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The actual arrival at Arthur's Court is not included in this passage.
+- id: motif:5
+  label: Maternal counsel before departure
+  taxonomy_refs:
+  - wisdom
+  basis: Before Peredur leaves, his mother gives a series of rules concerning worship,
+    taking sustenance, responding to outcry, jewels, and women.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The counsel is explicit, but its moral or practical status is not evaluated
+    within this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1243-1251
+  quote_or_summary: Evrawc owns the Earldom of the North, has seven sons, and is slain
+    in wars and combats along with six sons; Peredur is the youngest and survives
+    because he is too young for war.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 1252-1259
+  quote_or_summary: Peredur's mother, solicitous for her only son, leaves inhabited
+    country for deserts and wildernesses, brings only noncombatants, and prevents
+    horses or arms from being brought near Peredur.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1260-1272
+  quote_or_summary: Peredur plays in the forest by flinging sticks, sees goats with
+    two hinds, thinks the hinds are goats that lost their horns, and drives hinds
+    and goats into the goat house, astonishing the others.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 1273-1285
+  quote_or_summary: Three knights, Gwalchmai, Geneir Gwystyl, and Owain, appear on
+    the horse-road while pursuing a knight from Arthur's Court; Peredur's mother calls
+    them angels, and Peredur goes to meet them.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 1286-1294
+  quote_or_summary: Owain identifies a knight as someone like himself; Peredur asks
+    about the saddle, accoutrements, horses, and arms, and Owain explains their uses.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 1295-1305
+  quote_or_summary: Peredur tells his mother the men are honorable knights, not angels;
+    she swoons, and Peredur takes a bony piebald horse and imitates saddle and trappings
+    with a pack and twisted twigs.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 1306-1313
+  quote_or_summary: Peredur's mother asks if he desires to ride forth and counsels
+    him to go to Arthur's Court, pray at churches, take food if needed, go toward
+    outcries especially of women, take fair jewels and give them away, and court fair
+    women.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies only on the supplied passage. Motif labels are passage-level
+    candidates and require human review; no comparison claims were made because the
+    passage itself does not provide an explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were assigned; listed symbols are literal passage elements rather than asserted interpretive symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l1243-l1313
+  passage_sha256=1758934d148cbd577a26b6413f89a20020fb7381691538c425d8ebb8bb78f07e
+

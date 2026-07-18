@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l195-l286
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: The Iliad / CONCLUDING NOTE. / INTRODUCTION.; lines 195-286
+  start: '195'
+  end: '286'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Scepticism is as much the result of knowledge, as knowledge is of scepticism.
+  summary: The passage argues that knowledge and scepticism are mutually related,
+    that historical and traditional claims should be tested by probability, consistency,
+    and human experience, and that the lives or authorial status of major figures
+    such as Homer, Socrates, and Shakespere are surrounded by uncertainty and debate.
+    It then describes modern scepticism about Homeric tradition and notes that biographies
+    of Homer are partly forgeries or imaginative works, before mentioning a Life of
+    Homer attributed to Herodotus.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that scepticism results from knowledge and knowledge results
+    from scepticism.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says education requires forgetting, setting aside old notions,
+    embracing fresh ones, and unlearning previously acquired knowledge.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says history and tradition are subjected to sceptical handling,
+    with statements watched, motives analyzed, and evidence tested by probability
+    and consistency.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says historical characters should be judged by human experience,
+    their relation to surrounding people, and the general bearing of the whole narrative
+    rather than only by the probability of details.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Homer, Socrates, and Shakespere are named as major contributors to intellectual
+    enlightenment whose histories have generated extensive discussion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Socrates is known through differing presentations by Plato
+    and Xenophon, leaving the reader uncertain after examining both.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage describes a recent expedient of denying the personal or real existence
+    of figures whose lives or conditions strain belief, and it uses Alexander the
+    Great, Romulus, Herodotus, Florian, and Numa Pompilius as examples in that discussion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says scepticism about Homer has reached a point where any theory
+    may be believed if written tradition about the author or authors of the Iliad
+    and Odyssey is rejected.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says professed biographies of Homer are partly forgeries and partly
+    products of ingenuity and imagination, and mentions a Life of Homer attributed
+    to Herodotus.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Homer
+  description: Named as one of three figures who contributed greatly to intellectual
+    enlightenment; associated with disputed written tradition about the author or
+    authors of the Iliad and Odyssey; the subject of biographies described as partly
+    forged or imaginative.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Socrates
+  description: Named as one of three figures who contributed greatly to intellectual
+    enlightenment; described as known through contradictory accounts by Plato and
+    Xenophon.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Shakespere
+  description: Named as one of three figures who contributed greatly to intellectual
+    enlightenment; his personality is said to be accepted with less controversy than
+    other matters, including authorship of plays.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Plato
+  description: Named as one of the writers through whom Socrates is known, with a
+    portrayal differing from Xenophon's.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Xenophon
+  description: Named as one of the writers through whom Socrates is known, with a
+    portrayal differing from Plato's.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Alexander the Great
+  description: Named in a comparison about questioning the existence of ancient figures.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Romulus
+  description: Named in a comparison about belief and disbelief in ancient figures.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Herodotus
+  description: Named as a source whose related facts may be denied, and as the figure
+    to whom a Life of Homer has been attributed.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:9
+  name_or_label: Florian
+  description: Named as the writer whose pen idealized Numa Pompilius.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Numa Pompilius
+  description: Named as a good-natured old king idealized by Florian.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Influential intellectual figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage groups Homer, Socrates, and Shakespere as three figures who contributed
+    greatly to the intellectual enlightenment of mankind.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Subject of biographical or authorship controversy
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage says the histories of these figures have produced extensive discussion,
+    with doubt surrounding Socrates and Shakespere and especially Homeric tradition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Writer or transmitter within contested tradition
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  basis: Plato and Xenophon transmit differing accounts of Socrates; Herodotus is
+    discussed as a source and as the attributed author of a Life of Homer; Florian
+    is described as idealizing Numa Pompilius.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:4
+  label: Ancient figure used as example in argument about belief
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:10
+  basis: Alexander the Great, Romulus, and Numa Pompilius are used in examples about
+    questioning existence or accepting idealized accounts.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Figure connected with Homeric biographical tradition
+  assigned_to:
+  - fig:1
+  - fig:8
+  basis: The passage discusses biographies of Homer and a Life of Homer attributed
+    to Herodotus.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Ocean of discussion
+  literal_form: A boundless ocean of discussion
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Touchstone of scepticism
+  literal_form: A touchstone used to test credulity and partiality
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Thrown-overboard written tradition
+  literal_form: Throwing overboard written tradition about the author or authors of
+    the Iliad and Odyssey
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Scepticism as historical method
+  summary: The passage presents scepticism and knowledge as mutually related, then
+    describes historical and traditional claims as tested by scepticism, probability,
+    consistency, and human experience.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Uncertain biographies of major intellectual figures
+  summary: The passage groups Homer, Socrates, and Shakespere as highly influential
+    but poorly known figures whose histories have produced extensive debate; it also
+    contrasts the accounts of Socrates by Plato and Xenophon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Examples of belief and disbelief in ancient figures
+  summary: The passage discusses the habit of denying the existence of figures whose
+    lives strain belief, using Alexander the Great, Romulus, Herodotus, Florian, and
+    Numa Pompilius as examples within the argument.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Homeric tradition under sceptical review
+  summary: The passage says Homeric scepticism permits theories only after rejecting
+    written tradition about the author or authors of the Iliad and Odyssey, and it
+    describes Homeric biographies as partly forged or imaginative before mentioning
+    a Life of Homer attributed to Herodotus.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Knowledge through scepticism and unlearning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly links scepticism and knowledge and describes learning
+    as a process of setting aside old notions and unlearning previous knowledge.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an abstract intellectual pattern in introductory prose, not a
+    mythic narrative episode.
+- id: motif:2
+  label: Contested historicity of revered cultural figures
+  taxonomy_refs: []
+  basis: The passage groups Homer, Socrates, and Shakespere as highly influential
+    figures whose histories are uncertain and extensively debated, and later discusses
+    scepticism about ancient figures and Homeric tradition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage concerns historiography and literary criticism rather than
+    a traditional tale motif.
+- id: motif:3
+  label: Unreliable or rejected tradition
+  taxonomy_refs: []
+  basis: The passage says written tradition about Homeric authorship is thrown overboard
+    by modern theories and that professed biographies of Homer are partly forgeries
+    or imaginative works.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The pattern is stated directly, but its relevance as a comparative mythology
+    motif requires human review.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Homer, Socrates, and Shakespere as influential
+    figures whose lives or histories are unusually disputed.
+  claim_level: same_function
+  target: Biographical uncertainty around influential intellectual figures
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is literary-historiographical; it does not claim historical
+    contact, common inheritance, or equivalence of mythic episodes.
+- id: claim:2
+  claim: The passage uses Alexander the Great, Romulus, and Numa Pompilius as contrasting
+    examples in an argument about credulity and scepticism toward ancient figures
+    and sources.
+  claim_level: same_function
+  target: Ancient figures used as examples for testing historical belief
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate myths about these figures or compare specific
+    story motifs.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 197-204
+  quote_or_summary: '"Scepticism is as much the result of knowledge, as knowledge
+    is of scepticism"; learning requires setting aside old notions and unlearning
+    prior knowledge.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 206-235
+  quote_or_summary: The passage describes progress and healthy scepticism as testing
+    history and tradition through scrutiny of statements, motives, probability, consistency,
+    and human experience.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 237-253
+  quote_or_summary: Homer, Socrates, and Shakespere are named as major contributors
+    to intellectual enlightenment whose histories have produced a "boundless ocean
+    of discussion"; Socrates is described through differing accounts by Plato and
+    Xenophon.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 255-267
+  quote_or_summary: The passage describes denying the existence of figures whose lives
+    strain belief, mentioning Strauss, Alexander the Great, Romulus, Herodotus, Florian,
+    and Numa Pompilius in examples about scepticism and historical evidence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 269-278
+  quote_or_summary: The passage says scepticism about Homer permits any theory if
+    written tradition about the author or authors of the Iliad and Odyssey is thrown
+    overboard; testimony is described as consigned to denial and oblivion.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 280-286
+  quote_or_summary: The passage says professed biographies of Homer are partly forgeries
+    and partly works of ingenuity and imagination, and mentions a Life of Homer attributed
+    to Herodotus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain; source metadata marks full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository introduction rather than mythic narrative. Named
+    figures, argumentative patterns, and metaphoric symbols are directly supported,
+    but motif classification is interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No Iliadic narrative episode occurs in this passage. Symbols are rhetorical images in the introduction, not necessarily traditional mythic symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l195-l286
+  passage_sha256=3324d30df8355283cf6bb4a771f990765b4721c03d9658d9c32521b5bd246e47
+

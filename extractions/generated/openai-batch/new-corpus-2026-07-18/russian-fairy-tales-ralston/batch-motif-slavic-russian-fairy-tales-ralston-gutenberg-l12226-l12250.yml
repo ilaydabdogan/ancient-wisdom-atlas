@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l12226-l12250
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'SOZH AND DNIEPER. / FOOTNOTES: / CHAPTER IV. / MAGIC AND WITCHCRAFT.; lines
+    12226-12250'
+  start: '12226'
+  end: '12250'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: she laid the cross upon him. He fell down and died.
+  summary: The excerpt concludes a Russian skazka scene in which a woman uses a cross
+    against a male figure at the third confrontation, after which money is found in
+    a coffin. A footnote compares this to a West Highland tale in which a youngest
+    sister watches a dead man who rises three times, strikes him with a stick, and
+    later receives treasure.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Russian skazka scene repeats a second time and reaches a third confrontation
+    as a male figure is about to rush at a woman.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman lays a cross upon the male figure, and he falls down and dies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman looks into the coffin and sees a large amount of money there.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The father-in-law wanted the money taken away with him, or obtained only by
+    someone who could surpass him in cunning.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: In the West Highland tale, a youngest sister takes service in a house where
+    a corpse lies and sits sewing while watching the dead man.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The dead man rises and grins repeatedly; when he rises the third time, the
+    youngest sister strikes him with a stick.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The stick sticks to the dead man, and the hand sticks to the stick.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The youngest sister eventually receives gold, silver, and a vessel of cordial
+    and returns home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: The commentator states that the West Highland scene somewhat resembles the
+    lykewake in the Russian skazka and contrasts the obscurity of the Celtic tale
+    with the clarity of the Slavonic one.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed woman in the Russian skazka
+  description: A woman who lays a cross upon a male figure during the third confrontation
+    and then looks into the coffin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed male figure in the Russian skazka
+  description: A male figure who is about to rush at the woman and then falls down
+    and dies when the cross is laid upon him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: father-in-law in the Russian skazka
+  description: The father-in-law wanted the coffin money taken away with him, or obtained
+    only by someone who could outdo him in cunning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: youngest sister in the West Highland tale
+  description: A youngest sister who takes service in a house with a corpse, watches
+    the dead man while sewing, strikes him with a stick, and later receives treasure.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: dead man in the West Highland tale
+  description: A corpse or dead man who rises and grins repeatedly while being watched.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: woman using a cross against a threatening figure
+  assigned_to:
+  - fig:1
+  basis: She lays the cross upon the male figure as he is about to rush at her.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: threatening male figure
+  assigned_to:
+  - fig:2
+  basis: He is described as about to rush at the woman before the cross is laid upon
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: would-be controller of treasure
+  assigned_to:
+  - fig:3
+  basis: The father-in-law wanted the money taken away with him or obtained only by
+    someone more cunning.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: corpse-watcher
+  assigned_to:
+  - fig:4
+  basis: She sits to watch the dead man in a house where a corpse lies.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: animated dead man
+  assigned_to:
+  - fig:5
+  basis: The dead man rises and grins repeatedly during the watch.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: recipient of treasure
+  assigned_to:
+  - fig:4
+  basis: She eventually gets gold, silver, and a vessel of cordial and returns home.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cross
+  literal_form: a cross laid upon the male figure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coffin with money
+  literal_form: a coffin containing much money
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: third-time repetition
+  literal_form: the third time; repeated rising or confrontation culminating on the
+    third occurrence
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: stick
+  literal_form: a stick used to strike the dead man, which then sticks to the dead
+    man and hand
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: treasure reward
+  literal_form: a peck of gold, a peck of silver, and a vessel of cordial
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Russian skazka third confrontation at the coffin
+  summary: After repeated encounters, the woman faces a male figure a third time,
+    lays a cross upon him, and he dies; she then finds money in the coffin, with a
+    note that the father-in-law wanted the money controlled by cunning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: West Highland corpse-watch
+  summary: A youngest sister watches a dead man in a house; the dead man rises and
+    grins three times, she strikes him with a stick, and later obtains gold, silver,
+    and cordial before returning home.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: night watch over a dangerous dead man
+  taxonomy_refs: []
+  basis: The Russian scene is identified as a lykewake, and the compared West Highland
+    tale centers on a girl watching a dead man who becomes active.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt begins mid-narrative, and the Russian wake setting is supplied
+    mainly by the commentator's description.
+- id: motif:2
+  label: third encounter resolves the confrontation
+  taxonomy_refs: []
+  basis: Both the Russian excerpt and the West Highland comparison mark the decisive
+    action as occurring on the third time.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The exact first two Russian repetitions are outside the provided line
+    range.
+- id: motif:3
+  label: protective cross defeats a threatening figure
+  taxonomy_refs: []
+  basis: The woman lays the cross upon the male figure as he is about to rush at her,
+    and he falls down and dies.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the cross's origin or any explicit theological
+    interpretation.
+- id: motif:4
+  label: treasure gained after an encounter with the dead
+  taxonomy_refs: []
+  basis: The Russian scene has money in a coffin, and the West Highland tale ends
+    with gold, silver, and cordial being obtained after the corpse-watch episode.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The treasure circumstances are parallel but not identical.
+- id: motif:5
+  label: cunning as condition for obtaining treasure
+  taxonomy_refs: []
+  basis: The father-in-law wanted the money to be obtained only by someone who could
+    outdo him in cunning.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief closing explanation, and the full contest
+    of cunning is not present in the provided range.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents the West Highland tale 'The Girl and the
+    Dead Man' as somewhat resembling the Russian skazka's lykewake, especially through
+    a female watcher, an active dead man or corpse, repeated third-time action, confrontation,
+    and treasure afterward.
+  claim_level: same_function
+  target: West Highland tale 'The Girl and the Dead Man' compared with the Russian
+    skazka lykewake scene
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The commentator says the resemblance is only partial, calls the Celtic
+    tale obscure, and does not claim historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12226-12232
+  quote_or_summary: In the Russian skazka excerpt, the third confrontation occurs
+    as he is about to rush at her; she lays a cross on him, he dies, and she finds
+    money in the coffin; the father-in-law wanted the money controlled by cunning.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 12235-12246
+  quote_or_summary: The West Highland tale 'The Girl and the Dead Man' has a youngest
+    sister watching a dead man in a house; the dead man rises and grins three times,
+    she strikes him with a stick, and she eventually receives gold, silver, and cordial.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 12233-12250
+  quote_or_summary: The commentator says the West Highland scene somewhat resembles
+    the lykewake in the Russian skazka and then contrasts the obscurity of the Celtic
+    tale with the lucidity of the Slavonic tale.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The line range is clear for the included actions, but it begins mid-scene.
+    The identity relation between the attacking male figure and the father-in-law
+    is not resolved from the provided excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy references were applied because the passage supports literal motifs such as cross, corpse-watch, and third-time repetition more directly than the supplied motif-family IDs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l12226-l12250
+  passage_sha256=30512d2117923f07913f52efe71ade2ddab22c39cc6aac9d8b484ebc1911a741
+

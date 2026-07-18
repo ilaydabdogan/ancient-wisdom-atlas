@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l551-l573
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: CONTENTS OF PART I. / INTRODUCTION. / LEGENDS AND MYTHS OF THE / ABORIGINAL
+    TRIBES OF GUIANA.; lines 551-573
+  start: '551'
+  end: '573'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An introductory verse passage describes an unnamed man whose own language
+    is initially hard to understand, who later hears Christian truths in that language
+    and prays to God, and from whom the narrator hears legends about an old obeyed
+    “word,” good and bad spirits, sorcerers, warriors, and chiefly a grave old legend
+    of the one who made all things.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed male figure speaks his own tongue, but it is described as difficult
+    to understand, even with signs made by head or hand.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After time passes, the same figure hears truths belonging to Christian faith
+    in his own tongue.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The figure prays to God for the first time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The first-person narrator says he heard the group’s legends from this figure.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator associates these legends with an old superstitious “word” that
+    the figure had formerly obeyed.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The figure tells of good and bad spirits.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The figure tells of sorcerers and bold warriors.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The chief legend is described as grave and old and concerns “HIM who all things
+    made.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed Indigenous informant
+  description: An unnamed male figure who speaks his own tongue, later hears Christian
+    truths in it, prays to God, and tells the narrator legends.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: first-person narrator
+  description: The speaker who says he heard the legends from the unnamed figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: God
+  description: The divine figure to whom the unnamed man first prays after hearing
+    Christian truths.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: good and bad spirits
+  description: Spirits described as good and bad, among the subjects told by the unnamed
+    figure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: sorcerers
+  description: Sorcerers mentioned among the subjects told by the unnamed figure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: bold warriors
+  description: Warriors described as bold, mentioned among the subjects told by the
+    unnamed figure.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: HIM who all things made
+  description: A maker of all things, presented as the subject of the chief grave
+    old legend.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: speaker in his own language
+  assigned_to:
+  - fig:1
+  basis: The passage says he spoke his own tongue and later heard Christian truths
+    in that tongue.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: legend teller
+  assigned_to:
+  - fig:1
+  basis: The narrator says he heard the legends from him, and that he told of spirits,
+    sorcerers, warriors, and the chief old legend.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: recipient of legends
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker states that he heard the legends from the unnamed
+    figure.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: object of prayer
+  assigned_to:
+  - fig:3
+  basis: The passage says the figure first prayed to God.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: opposed spirit beings
+  assigned_to:
+  - fig:4
+  basis: The passage mentions spirits classified as good and bad.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: sorcerous figures
+  assigned_to:
+  - fig:5
+  basis: The passage states that the figure told of sorcerers.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: warrior figures
+  assigned_to:
+  - fig:6
+  basis: The passage states that the figure told of bold warriors.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: creator or maker figure
+  assigned_to:
+  - fig:7
+  basis: The figure is identified as the one who made all things.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: old superstitious word
+  literal_form: old superstitious “word”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: signs with head or hand
+  literal_form: signs with head or hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Language barrier and signs
+  summary: The unnamed figure’s own language is hard to understand, though communication
+    is helped by signs made with head or hand.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Christian instruction and first prayer
+  summary: After time passes, the figure hears Christian truths in his own tongue
+    and prays to God for the first time.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Transmission of legends
+  summary: The narrator hears legends from the figure, including an old obeyed “word,”
+    good and bad spirits, sorcerers, warriors, and especially a grave old legend of
+    the maker of all things.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Good and bad spirits
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly states that the figure told of spirits good and bad.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage only lists the beings in an introductory frame and does not
+    narrate a full mythic episode involving them.
+- id: motif:2
+  label: All-making creator figure
+  taxonomy_refs: []
+  basis: The passage identifies the chief grave old legend as concerning “HIM who
+    all things made.”
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The maker figure is mentioned only as the subject of a legend; the passage
+    does not provide the legend’s events.
+- id: motif:3
+  label: Obedience to an old sacred or superstitious word
+  taxonomy_refs: []
+  basis: The passage refers to an old superstitious “word” that the figure formerly
+    obeyed.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The meaning and function of the “word” are not explained in the passage,
+    so this should remain tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 555-559
+  quote_or_summary: "“when he spoke his own sweet tongue” it was “Too hard ... to
+    understand,” though “helped by signs with head or hand.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 561-562
+  quote_or_summary: "“Time passed : he heard in his own tongue / Truths which to Christian
+    faith belong.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: line 564
+  quote_or_summary: "“Then, first, to God he prayed.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 565-568
+  quote_or_summary: "“And I from him their legends heard, / With that old superstitious
+    ‘word’ / Which he before obeyed.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 569-570
+  quote_or_summary: "“Of spirits good and bad he told ; / Of sorcerers and warriors
+    bold ;”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 571-573
+  quote_or_summary: "“But chief, this legend, grave and old, / Of HIM who all things
+    made.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif candidates are limited because
+    this passage is an introductory framing excerpt that lists legendary subjects
+    rather than narrating the myths themselves. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage appears to be a missionary-frame introduction to later legends; Christian references and Indigenous legendary materials are kept distinct where the passage does not explicitly identify them.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l551-l573
+  passage_sha256=865461ec06e2cbddeff79a491b2cfb210e3d87f8eefeea41504024c43637a22d
+

@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l5614-l5673
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 1 19 / CONCLUSION. / ABORIGINAL TRIBES OF GUIANA.
+    12 1 / CONTENTS OF PART IV.; lines 5614-5673
+  start: '5614'
+  end: '5673'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Legends of the Acawoios.
+  summary: The passage is a contents page and introductory note for Part IV. It lists
+    mythological, historical, warlike, and Kanaima-related Acawoio legends, then gives
+    brief geographic and ethnographic notes on Acawoio settlements and their reported
+    connections with neighboring Macusis and Arecunas.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Part IV is organized into mythological legends, historical and warlike legends,
+    and Kanaima-related material.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed mythological legend section includes headings for the first man
+    and animals, a primitive state, a monkey's exploit, mishaps, and the end of the
+    primitive state.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The listed historical and warlike legend section includes material about war
+    with the Caribs, civil strife, and blood feuds.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Acawoio clans are described as extending from the vicinity of Mount Roraima
+    eastward to the Berbice and northward to the Orinoco.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Macusis and Arecunas are described as closely connected with the Acawoios
+    in language and probably in origin.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that little is known of the history of these races beyond
+    what family traditions may supply.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Schomburgk is cited as thinking that the Macusis formerly lived on the Orinoco
+    and that the Arecunas formerly dwelt on the Uaupes or Ucayari, a tributary of
+    the Rio Negro.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Acawoio clans
+  description: Clans whose settlements are described geographically and whose legends
+    are introduced.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Macusis
+  description: Neighbors described as closely connected with the Acawoios in language
+    and probably in origin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Arecunas
+  description: Neighbors described as closely connected with the Acawoios in language
+    and probably in origin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Caribs
+  description: A people named in the contents heading for war with the Caribs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Schomburgk
+  description: A cited authority whose views about former Macusi and Arecuna locations
+    are reported.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named tradition-bearing group
+  assigned_to:
+  - fig:1
+  basis: The passage introduces 'Legends of the Acawoios' and describes Acawoio clan
+    settlements.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: settled clans
+  assigned_to:
+  - fig:1
+  basis: The passage describes the extent of Acawoio clan settlements.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: closely connected neighboring peoples
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Macusis and Arecunas are called neighbors closely connected with the
+    Acawoios in language and probably origin.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: named war opponents in contents heading
+  assigned_to:
+  - fig:4
+  basis: The contents list includes a section titled 'Their War with the Caribs.'
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: cited historical authority
+  assigned_to:
+  - fig:5
+  basis: Schomburgk is cited for views about former Macusi and Arecuna locations.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mount Roraima
+  literal_form: mountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Berbice, Orinoco, Uaupes/Ucayari, and Rio Negro waterways
+  literal_form: rivers or tributary waterways named as geographic reference points
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Contents outline for Acawoio legends
+  summary: The passage lists categories and titles for Part IV, including mythological
+    legends, warlike and historical legends, civil strife, Kanaima, and blood revenge.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Geographic and ethnographic introduction
+  summary: The passage describes Acawoio settlement range and notes linguistic and
+    probable origin connections with Macusis and Arecunas, while also reporting limited
+    historical knowledge and Schomburgk's claims about former locations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: first human and animals in a primitive-state myth cycle
+  taxonomy_refs: []
+  basis: The contents list a mythological section titled 'The First Man and Animals'
+    with subsections on a primitive state and the end of the primitive state.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is only a table-of-contents title; the passage does not narrate the
+    myth itself.
+- id: motif:2
+  label: monkey exploit
+  taxonomy_refs: []
+  basis: The contents list a mythological subsection titled 'The Monkey's Exploit.'
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only the title is present; no action or narrative details are given.
+- id: motif:3
+  label: war with neighboring people
+  taxonomy_refs: []
+  basis: The contents list a historical and warlike legend section titled 'Their War
+    with the Caribs.'
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage provides headings only and does not describe the episodes.
+- id: motif:4
+  label: blood revenge and Kanaima
+  taxonomy_refs: []
+  basis: The contents list a section called 'Kanaima' and entries titled 'Blood Revenge.'
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not define Kanaima or narrate the revenge episodes.
+- id: motif:5
+  label: ancestral migration or former dwelling traditions
+  taxonomy_refs: []
+  basis: The passage reports claims that the Macusis formerly lived on the Orinoco
+    and the Arecunas formerly dwelt on the Uaupes or Ucayari.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is presented as historical or ethnographic information, not as a
+    narrated mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Acawoios are closely connected with the Macusis
+    and Arecunas in language and probably in origin.
+  claim_level: linguistic_similarity
+  target: Macusis and Arecunas as neighboring peoples connected to the Acawoios
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is brief and does not provide linguistic data or narrative
+    comparison; the claim of common origin is explicitly qualified as probable.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5614-5647
+  quote_or_summary: 'The contents page lists Part IV sections: mythological legends
+    including ''The First Man and Animals,'' ''Primitive State,'' ''The Monkey''s
+    Exploit,'' ''Mishaps,'' and ''End of Primitive State''; historical and warlike
+    legends including war with the Caribs, civil strife, blood feuds; and Kanaima
+    with blood revenge entries.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: 5649-5651
+  quote_or_summary: '"The settlements of the Acawoio clans extend from the vicinity
+    of Mount Roraima eastward to the Berbice, and to the Orinoco on the north."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: 5653-5655
+  quote_or_summary: The passage says the Macusis and Arecunas, with branches and subdivisions,
+    are closely connected with the Acawoios in language and probably in origin.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 5657-5665
+  quote_or_summary: The passage says little is known of the history of these races
+    beyond family traditions; it reports Schomburgk's view that the Macusis formerly
+    lived on the Orinoco and that the Arecunas formerly dwelt on the Uaupes or Ucayari,
+    a tributary of the Rio Negro.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: '5673'
+  quote_or_summary: '"Legends of the Acawoios."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is mainly a table of contents and ethnographic introduction,
+    so motif candidates are based on headings rather than narrative episodes. Geographic
+    and group-relationship extraction is more secure than motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative episode is present in this line range; interpretation has been limited to headings and explicit ethnographic statements.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l5614-l5673
+  passage_sha256=278ded8f867fbfcc271259be868990e134b375b63dde7616b44b7cc193b990a7
+

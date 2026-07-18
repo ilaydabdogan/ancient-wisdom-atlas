@@ -1,0 +1,671 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l6609-l6693
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 6609-6693
+  start: '6609'
+  end: '6693'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage concludes an episode in which Thumbling is swallowed by a
+    fox, bargains for release by promising the fowls in his father’s yard, and returns
+    home. It then begins “Fitcher’s Bird”: a wizard disguises himself as a poor beggar,
+    abducts the first two daughters of a household, gives each keys and an egg, forbids
+    entry into one room, and kills them after they enter the bloody chamber. The third
+    sister hides the egg safely, enters the forbidden room, finds her sisters dismembered,
+    reassembles them, and they come back to life.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thumbling meets a fox in open country, and the fox snaps him up.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thumbling persuades the fox to release him by promising all the cocks and
+    hens in his father’s yard.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fox carries Thumbling home, and the father gives the fox all the fowls.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A wizard takes the form of a poor man, begs at houses, and catches pretty
+    girls who are not seen again.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The wizard appears at the house of a man with three daughters, carrying a
+    basket, and abducts the eldest daughter by touching her so that she must jump
+    into the basket.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The wizard carries the eldest daughter to a magnificent house in a dark forest
+    and gives her access to the house except for one room, which is forbidden on pain
+    of death.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The wizard gives the eldest daughter keys and an egg, instructing her to keep
+    the egg with her because loss of it would bring misfortune.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The eldest daughter opens the forbidden room and sees a bloody basin with
+    dead, dismembered human beings, along with a block of wood and a gleaming axe.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The egg falls into the bloody basin; although she washes it, bloodstains reappear
+    and cannot be removed.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The wizard detects the red spots on the egg and key, drags the eldest daughter
+    to the chamber, beheads her, cuts her in pieces, and throws her into the basin.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The wizard abducts the second daughter in the same manner, and she also opens
+    the bloody chamber and is killed.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The third sister hides the egg carefully before examining the house and entering
+    the forbidden room.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The third sister finds both sisters murdered and cut in pieces in the basin,
+    reassembles their limbs, and the two sisters return to life.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Thumbling / the little tailor
+  description: A small son and traveler who is swallowed by a fox, bargains for release,
+    and returns to his father with money.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Fox
+  description: An animal who snaps up Thumbling, releases him after a bargain, carries
+    him home, and receives the father’s fowls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Thumbling’s father
+  description: The father who receives Thumbling home and gives the fox all the fowls.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Wizard
+  description: A wizard who can take the form of a poor man, begs at houses, abducts
+    girls, imposes a forbidden-room test, and kills the first two sisters.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:11
+- id: fig:5
+  name_or_label: Eldest daughter
+  description: The first daughter abducted by the wizard; she opens the forbidden
+    room, stains the egg, and is killed and dismembered.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:6
+  name_or_label: Second daughter
+  description: The second daughter abducted by the wizard; she opens the bloody chamber
+    and is killed like her sister.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:11
+- id: fig:7
+  name_or_label: Third sister / third daughter
+  description: The third daughter abducted by the wizard; she hides the egg, enters
+    the forbidden room, and restores her sisters by reassembling their limbs.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:12
+  - ev:13
+- id: fig:8
+  name_or_label: Dead human beings in the chamber
+  description: Human beings lying dead and cut to pieces in the bloody basin in the
+    forbidden room.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: diminutive traveler
+  assigned_to:
+  - fig:1
+  basis: Thumbling has been traveling and is described returning from his travels.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: bargainer for release
+  assigned_to:
+  - fig:1
+  basis: He offers the fox the fowls in his father’s yard in exchange for release.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: animal captor and carrier
+  assigned_to:
+  - fig:2
+  basis: The fox snaps Thumbling up, later lets him go, and carries him home.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: loving parent who pays the animal demand
+  assigned_to:
+  - fig:3
+  basis: The father willingly gives the fox all the fowls when he sees his son again.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: shapeshifting abductor
+  assigned_to:
+  - fig:4
+  basis: The wizard takes the form of a poor man, begs, and abducts girls.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: killer and keeper of the forbidden chamber
+  assigned_to:
+  - fig:4
+  basis: He forbids the room on pain of death and kills daughters who enter it.
+  evidence_refs:
+  - ev:6
+  - ev:10
+  - ev:11
+- id: role:7
+  label: abducted daughter
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each daughter is taken by the wizard from her father’s house.
+  evidence_refs:
+  - ev:5
+  - ev:11
+  - ev:12
+- id: role:8
+  label: forbidden-room transgressor and victim
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The first two daughters enter the forbidden chamber and are killed.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+- id: role:9
+  label: clever sister and restorer
+  assigned_to:
+  - fig:7
+  basis: The third sister first secures the egg and then reassembles her sisters,
+    after which they live again.
+  evidence_refs:
+  - ev:12
+  - ev:13
+- id: role:10
+  label: dismembered victims
+  assigned_to:
+  - fig:8
+  basis: The forbidden room contains dead human beings cut to pieces in the basin.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fox
+  literal_form: A fox that swallows Thumbling, bargains for fowls, and carries him
+    home.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: basket
+  literal_form: A basket carried by the beggar-shaped wizard; the eldest daughter
+    is forced into it after his touch.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: dark forest house
+  literal_form: A magnificent house standing in the midst of a dark forest.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: keys and little forbidden-room key
+  literal_form: Keys to the house, including a little key that opens the forbidden
+    room.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:12
+- id: sym:5
+  label: egg entrusted to the girl
+  literal_form: An egg given to the abducted daughter to preserve and carry continually;
+    it becomes marked with blood after falling into the basin.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:12
+- id: sym:6
+  label: forbidden bloody chamber
+  literal_form: The room forbidden on pain of death, containing a bloody basin, dismembered
+    bodies, a block, and an axe.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:13
+- id: sym:7
+  label: bloody basin
+  literal_form: A great bloody basin in the middle of the forbidden room containing
+    dead, dismembered human beings.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:13
+- id: sym:8
+  label: block and gleaming axe
+  literal_form: A block of wood and a gleaming axe beside the bloody basin.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: sym:9
+  label: three daughters
+  literal_form: A man’s three pretty daughters, each approached in sequence by the
+    wizard.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:11
+  - ev:12
+scenes:
+- id: scene:1
+  label: Thumbling’s bargain with the fox and return home
+  summary: In open country, a fox swallows Thumbling. Thumbling asks to be released
+    and promises the fox his father’s fowls. The fox releases him, carries him home,
+    and receives the fowls from the father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Wizard abducts the eldest daughter
+  summary: A wizard disguised as a poor beggar comes to a house with three daughters,
+    touches the eldest when she brings bread, forces her into his basket, and carries
+    her to his house in a dark forest.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Forbidden-room test of the eldest daughter
+  summary: The wizard gives the eldest daughter keys and an egg, forbids one room
+    on pain of death, and leaves. She opens the room, sees the bloody chamber, and
+    stains the egg with blood that cannot be washed off.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Punishment of the first two daughters
+  summary: The wizard sees the bloody marks, kills and dismembers the eldest daughter,
+    and throws her into the basin. He then abducts the second daughter, who also enters
+    the chamber and is killed.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:5
+  label: Third sister restores the murdered sisters
+  summary: The third sister secures the egg before examining the house. In the forbidden
+    room she finds her murdered sisters, gathers and orders their limbs, and both
+    come back to life.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Animal swallows tiny traveler and releases him after a bargain
+  taxonomy_refs: []
+  basis: Thumbling is swallowed by a fox and secures release by promising the fox
+    his father’s poultry.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference exactly matches this animal-bargain episode.
+- id: motif:2
+  label: Return home after travels
+  taxonomy_refs:
+  - return
+  basis: After the fox releases him, Thumbling is carried home and gives his father
+    money earned on his travels.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is only the closing portion of the tale episode, not the full return
+    arc.
+- id: motif:3
+  label: Wizard disguised as poor beggar abducts girls
+  taxonomy_refs:
+  - shapeshifter
+  basis: The wizard takes the form of a poor man, begs at houses, and abducts the
+    daughters by touch and basket.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:11
+  confidence: high
+  cautions: The passage supports disguise or form-taking; it does not explain the
+    wizard’s origin or wider powers.
+- id: motif:4
+  label: Forbidden room whose opening reveals lethal secret
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The wizard gives keys but forbids one room on pain of death; entering reveals
+    a bloody chamber of dismembered victims.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage frames the act as forbidden entry and discovery rather than
+    explicit acquisition of named knowledge.
+- id: motif:5
+  label: Test object that betrays disobedience
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The egg is entrusted to the daughter, becomes bloodstained after entry into
+    the forbidden room, and exposes the transgression to the wizard.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The egg is an ordeal or proof object in this passage; no broader egg taxonomy
+    is provided in the available references.
+- id: motif:6
+  label: Clever youngest sister succeeds where elder sisters fail
+  taxonomy_refs: []
+  basis: The first two sisters enter the chamber while carrying the egg and are killed,
+    but the third sister first hides the egg carefully and survives the test long
+    enough to restore them.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  confidence: high
+  cautions: The available taxonomy includes sibling_pair, but the passage concerns
+    three sisters, so no exact taxonomy reference is assigned.
+- id: motif:7
+  label: Dismembered victims restored to life by reassembly
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The third sister gathers the murdered sisters’ limbs in order; the limbs
+    move and unite, and the sisters open their eyes and are alive again.
+  evidence_refs:
+  - ev:13
+  confidence: high
+  cautions: The passage describes revival after reassembly but gives no explicit ritual
+    explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6609-6615
+  quote_or_summary: Thumbling leaves the house, meets a fox in open country, and the
+    fox snaps him up; Thumbling calls from the fox’s throat asking to be set free.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 6615-6621
+  quote_or_summary: The fox agrees to release Thumbling if promised the fowls in his
+    father’s yard; Thumbling promises all the cocks and hens.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 6621-6628
+  quote_or_summary: The fox releases Thumbling, carries him home, and the father gives
+    the fox all the fowls; Thumbling gives his father a kreuzer earned on his travels.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 6632-6636
+  quote_or_summary: At the start of “Fitcher’s Bird,” a wizard takes the form of a
+    poor man, begs at houses, and catches pretty girls who are never seen again.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 6636-6644
+  quote_or_summary: The wizard, appearing as a weak beggar with a basket, comes to
+    a man’s house with three daughters; when the eldest brings bread, his touch forces
+    her to jump into the basket, and he carries her away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: 6644-6652
+  quote_or_summary: The wizard takes the eldest daughter to a magnificent house in
+    a dark forest, grants her access to the house, but forbids one room opened by
+    a little key on pain of death.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: 6652-6656
+  quote_or_summary: The wizard gives her an egg and commands her to preserve it and
+    carry it continually, warning that great misfortune would arise from losing it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: 6657-6667
+  quote_or_summary: After exploring the house, the eldest daughter opens the forbidden
+    door and sees a great bloody basin with dead human beings cut to pieces, beside
+    a wooden block and gleaming axe.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: 6667-6671
+  quote_or_summary: The egg falls into the bloody basin; she removes and washes it,
+    but the blood appears again and cannot be scrubbed away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: 6672-6682
+  quote_or_summary: The wizard returns, asks for the key and egg, sees red spots,
+    declares her life ended, drags her to the chamber, beheads her, cuts her in pieces,
+    and throws her into the basin.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: 6683-6690
+  quote_or_summary: The wizard fetches the second daughter in the same beggar form;
+    she opens the bloody chamber and is killed when he returns.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:12
+  type: summary
+  locator: 6690-6693
+  quote_or_summary: The wizard brings the third sister, who is clever and crafty;
+    after receiving the keys and egg, she first puts the egg away carefully before
+    examining the house and entering the forbidden room.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+- id: ev:13
+  type: summary
+  locator: '6693'
+  quote_or_summary: In the forbidden room, the third sister finds her two sisters
+    murdered and cut in pieces, gathers their limbs in order, and the limbs unite
+    so both maidens open their eyes and live again.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    assignment is limited to available references and avoids exact tale-type claims.
+    No comparison claims are made because the passage itself does not compare this
+    material with another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied line range contains the end of one tale episode followed by the opening of “Fitcher’s Bird”; scenes and motif candidates keep these portions separate where possible.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l6609-l6693
+  passage_sha256=96061e9f6926b90145c825624dd54b94435bbd62bb90d7946e201e0dab4215ea
+

@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l13548-l13636
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: BIBLIOGRAPHIC NOTES. / BY FREDERICK WEBB HODGE. / SONG OF THE APPROACH OF
+    THE WAR GODS. / SONG OF THE WAR GODS.; lines 13548-13636
+  start: '13548'
+  end: '13636'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: SONG OF THE APPROACH OF THE WAR GODS.
+  summary: The passage lists musical examples and song titles, including songs of
+    the War Gods, a Daylight Song, songs of the Naakhaí or dance of the last night
+    of the Night Chant, and songs in the Farm of Hastséhogan. It also includes brief
+    comments on composition, meter, pitch-relations, and rhythm.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists a song titled "Song of the Approach of the War Gods."
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists a song titled "Song of the War Gods."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists a "Twelfth Yikaígin or Daylight Song."
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists songs of the Naakhaí, described as the dance of the last
+    night of the Night Chant.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One song of the Naakhaí is attributed as composed by Thomas Torlino.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Several listed songs are identified as occurring in the Farm of Hastséhogan.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Music notation is indicated for the listed songs, but the passage does not
+    provide song lyrics.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage includes editorial comments on metrical problems, pitch-relations,
+    and uncertainty between double and triple rhythm.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: War Gods
+  description: Divine or named beings referenced in the song titles "Song of the Approach
+    of the War Gods" and "Song of the War Gods."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Thomas Torlino
+  description: Named composer of one song of the Naakhaí.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Hastséhogan
+  description: Named in the phrase "Farm of Hastséhogan" in several song titles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: War Gods named in song titles
+  assigned_to:
+  - fig:1
+  basis: The headings name the War Gods in titles for songs of approach and of the
+    War Gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Composer
+  assigned_to:
+  - fig:2
+  basis: The passage states that one song of the Naakhaí was composed by Thomas Torlino.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Named possessor or associated figure of a ritual setting
+  assigned_to:
+  - fig:3
+  basis: The listed song titles place multiple songs in the "Farm of Hastséhogan."
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Catalogue of ceremonial songs and musical examples
+  summary: The passage presents a sequence of numbered song headings with music notation,
+    including songs involving the War Gods, Daylight Song, Naakhaí songs, and songs
+    in the Farm of Hastséhogan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Approach of war gods
+  taxonomy_refs: []
+  basis: A song title explicitly names the approach of the War Gods.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only a title is present; no narrative action or lyrics are supplied in
+    this passage.
+- id: motif:2
+  label: Ceremonial last-night dance song
+  taxonomy_refs: []
+  basis: The Naakhaí is identified as the dance of the last night of the Night Chant,
+    and songs of the Naakhaí are listed.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage supplies headings rather than ritual description or song text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13548-13636
+  quote_or_summary: '"SONG OF THE APPROACH OF THE WAR GODS."'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 13548-13636
+  quote_or_summary: '"SONG OF THE WAR GODS."'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 13548-13636
+  quote_or_summary: '"TWELFTH YIKAÍGIN OR DAYLIGHT SONG."'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 13548-13636
+  quote_or_summary: '"A SONG OF THE NAAKHAÍ, OR DANCE OF THE LAST NIGHT OF THE NIGHT
+    CHANT."'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 13548-13636
+  quote_or_summary: '"A SONG OF THE NAAKHAÍ. Composed by Thomas Torlino."'
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 13548-13636
+  quote_or_summary: The passage lists several numbered songs as seventh, tenth and
+    eleventh, fifteenth, twenty-second, twenty-third, and twenty-fifth songs in the
+    Farm of Hastséhogan.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 13548-13636
+  quote_or_summary: Music notation is indicated after the song headings in the passage.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 13548-13636
+  quote_or_summary: Editorial notes state that one song poses metrical problems and
+    that another singer's howling makes pitch-relations and rhythm difficult to determine.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily a catalogue of song titles and musical notation
+    references. Motif extraction is limited because no lyrics or narrative content
+    are included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not directly match the minimal title-level content in this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l13548-l13636
+  passage_sha256=96d967d32f0d03f48ca862db22f49b86232b7bcbb8898e8181866513c3502495
+

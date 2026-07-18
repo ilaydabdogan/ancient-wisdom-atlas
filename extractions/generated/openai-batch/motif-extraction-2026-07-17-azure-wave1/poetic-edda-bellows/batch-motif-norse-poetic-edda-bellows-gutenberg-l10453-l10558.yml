@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l10453-l10558
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: VLUNDARKVITHA / THE LAY OF VLUND / INTRODUCTORY NOTE / NOTES; lines 10453-10558
+  start: '10453'
+  end: '10558'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes to the Lay of Vlund discuss the prose introduction, the
+    swan-maidens episode, disputed identification of the swan-maidens as Valkyries,
+    Vlund as an elf, magical associations of Finns, mythical places, possible manuscript
+    lacunae including the theft of swan-garments, the stolen ring given to Bothvild,
+    and Nithuth's capture and accusation of Vlund.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nithuth is identified in the prose as a king of Sweden, while the poem calls
+    him lord of the Njars.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the story's scene has moved from Saxon lands into the Northeast.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The prose introduction is described as partly concerning a swan-maidens episode.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor states that the poem gives little basis for identifying the three
+    swan-maidens as Valkyries and notes that this identification was nevertheless
+    not uncommon.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The three maidens are named Hlathguth, Hervor, and Olrun, and the note says
+    these names do not appear in Valkyrie lists.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Bothvild is identified as Vlund's victim in the latter part of the poem.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The poem is said to call Vlund an elf, while the prose introduction makes
+    his father a king of the Finns.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: obs:8
+  text: The note says the Finns, meaning dwellers in Lapland, were generally credited
+    with magic powers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Ulfdalir, Ulfsjar, and Valland are described as mythical places without historical
+    identification.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Myrkwood is described as a stock name for a magic, dark forest.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The notes mention a possible lost additional stanza describing the theft of
+    swan-garments.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: One ring stolen by Nithuth's men is given to Bothvild and is said to cause
+    her undoing.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Nithuth comes with his men to capture Vlund and charges him with having stolen
+    his treasure.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Nithuth
+  description: Identified in the prose as a king of Sweden; in the poem called lord
+    of the Njars; comes with his men to capture Vlund and accuse him of stealing treasure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:2
+  name_or_label: Vlund
+  description: Central figure of the lay; the poem identifies him as belonging to
+    the race of elves; he is captured by Nithuth and accused of stealing treasure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Bothvild
+  description: Described as Vlund's victim in the latter part of the poem; receives
+    the ring stolen by Nithuth's men, which causes her undoing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: fig:4
+  name_or_label: Three swan-maidens
+  description: A group in the swan-maidens episode; the editor says their identification
+    as Valkyries is doubtful in this poem.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hlathguth
+  description: One of the three named maidens; her name is said not to appear in Valkyrie
+    lists.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hervor
+  description: One of the three named maidens; also identified in a later note as
+    Hlothver's daughter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:7
+  name_or_label: Olrun
+  description: One of the three named maidens; her name is said not to appear in Valkyrie
+    lists.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Valkyries
+  description: A mythic category with which the swan-maidens are identified by the
+    prose annotator, though the editor doubts this identification for the poem.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Nithuth's men
+  description: Men who steal one ring and later accompany Nithuth when he comes to
+    capture Vlund.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: king, captor, and accuser
+  assigned_to:
+  - fig:1
+  basis: The notes identify Nithuth as a king and say he comes with men to capture
+    Vlund and accuse him of stolen treasure.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:2
+  label: elf figure and accused captive
+  assigned_to:
+  - fig:2
+  basis: The notes say the poem identifies Vlund as an elf and that Nithuth captures
+    and accuses him.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:3
+  label: victim and recipient of stolen ring
+  assigned_to:
+  - fig:3
+  basis: Bothvild is called Vlund's victim and receives the ring stolen by Nithuth's
+    men.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:4
+  label: swan-maidens with disputed Valkyrie identity
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The notes describe a swan-maidens episode, name the three maidens, and state
+    that their Valkyrie identity is uncertain.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: disputed mythic identification
+  assigned_to:
+  - fig:8
+  basis: The annotator identifies the swan-maidens as Valkyries, but the editor says
+    the poem itself gives little support.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: agents of theft and capture
+  assigned_to:
+  - fig:9
+  basis: Nithuth's men steal the ring and accompany Nithuth when he captures Vlund.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: swan-garments
+  literal_form: Garments associated with the swan-maidens; a possible lost stanza
+    is said to have described their theft.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: stolen ring
+  literal_form: One ring stolen by Nithuth's men and given to Bothvild.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: Myrkwood
+  literal_form: A magic, dark forest described as a stock name.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: elf identity
+  literal_form: Vlund is identified as belonging to the race of elves.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: mythical place names
+  literal_form: Ulfdalir, Ulfsjar, and Valland are described as mythical places without
+    historical identification.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Swan-maidens episode
+  summary: The prose introduction is said to concern a swan-maidens episode involving
+    three named maidens whose identification as Valkyries is disputed by the editor.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: scene:2
+  label: Possible theft of swan-garments
+  summary: The notes report that an additional lost stanza may have described the
+    theft of swan-garments after an early line of the poem.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Stolen ring given to Bothvild
+  summary: Nithuth's men steal one ring, and the ring is given to Bothvild, where
+    it becomes the cause of her undoing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+- id: scene:4
+  label: Capture and accusation of Vlund
+  summary: Nithuth arrives with his men to capture Vlund and accuses him of stealing
+    treasure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:10
+- id: scene:5
+  label: Mythic and magic settings
+  summary: The notes identify several places as mythical and describe Myrkwood as
+    a stock magic, dark forest name.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Swan-maidens and swan-garment theft
+  taxonomy_refs:
+  - shapeshifter
+  basis: The notes describe a swan-maidens episode and mention a possible lost stanza
+    about the theft of swan-garments.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage is editorial commentary and treats the swan-garment theft
+    as a possible lost stanza; it does not narrate the full episode.
+- id: motif:2
+  label: Disputed swan-maiden and Valkyrie identification
+  taxonomy_refs: []
+  basis: The editor states that the annotator identifies the swan-maidens as Valkyries,
+    while the poem itself gives only weak support and the maidens' names are absent
+    from Valkyrie lists.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a motif-identification issue raised by the editor, not an explicit
+    narrative action in the poem.
+- id: motif:3
+  label: Fateful stolen ring
+  taxonomy_refs:
+  - sacred_theft
+  basis: One ring is stolen by Nithuth's men, given to Bothvild, and said to cause
+    her undoing.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage calls the ring stolen and consequential but does not explicitly
+    call it sacred or magical.
+- id: motif:4
+  label: Capture of an elf figure by a king
+  taxonomy_refs: []
+  basis: Vlund is identified as an elf, and Nithuth comes with his men to capture
+    and accuse him.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: The passage gives only summary notes, not the full capture narrative.
+- id: motif:5
+  label: Magic dark forest setting
+  taxonomy_refs: []
+  basis: Myrkwood is described as a stock name for a magic, dark forest.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage identifies the setting type but does not narrate events within
+    the forest.
+- id: motif:6
+  label: Magical northern people attribution
+  taxonomy_refs: []
+  basis: The note says the Finns, understood as dwellers in Lapland, were generally
+    credited with magic powers, and the prose introduction makes Vlund's father a
+    king of the Finns.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an editorial cultural attribution rather than a directly narrated
+    magical act.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously links the swan-maidens with the Valkyrie motif but
+    also reports strong editorial doubt that the poem itself intended that identification.
+  claim_level: same_motif
+  target: Valkyrie figures in Norse tradition, with Helreith Brynhildar 7 cited by
+    the note
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: 'The same evidence provides the comparison and the caution: the editor
+    says the identification was not uncommon but that this poem has little support
+    for it and the names are absent from Valkyrie lists.'
+- id: claim:2
+  claim: The passage presents Myrkwood as a recurring magic dark forest name within
+    the nearby Norse corpus.
+  claim_level: same_function
+  target: Myrkwood as cited in Lokasenna 42
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only states that Myrkwood is a stock name and cites another
+    occurrence; it does not compare narrative details.
+- id: claim:3
+  claim: The passage suggests that the Vlund story has southern or Saxon/German affiliations
+    while the prose introduction gives it northern local color.
+  claim_level: historical_contact
+  target: Saxon lands, southern origin, and German-story affiliations mentioned in
+    relation to the Vlund legend
+  evidence_refs:
+  - ev:1
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial historical-literary observation in the notes,
+    not direct evidence from the narrative itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10453-10558, Prose note on Nithuth and setting
+  quote_or_summary: Nithuth is identified as a king of Sweden in the prose and as
+    lord of the Njars in the poem; the note says the scene has moved from Saxon lands
+    into the Northeast.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 10453-10558, Prose note on swan-maidens and Valkyries
+  quote_or_summary: The introduction is said to concern the swan-maidens episode;
+    the editor doubts the identification of the swan-maidens as Valkyries, though
+    notes it was not uncommon and cites Helreith Brynhildar 7; the three names are
+    Hlathguth, Hervor, and Olrun.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 10453-10558, Prose note on Bothvild
+  quote_or_summary: Bothvild is glossed as Warlike Maid and described as Vlund's victim
+    in the latter part of the poem.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 10453-10558, Prose note on Vlund and Finns
+  quote_or_summary: The note says the prose idea that Vlund's father was king of the
+    Finns is later than the poem, which calls Vlund an elf; Finns or dwellers in Lapland
+    were generally credited with magic powers.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 10453-10558, Prose note on place names
+  quote_or_summary: Ulfdalir, Ulfsjar, and Valland are described as mythical places
+    without historical identification.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 10453-10558, Note 1 on Myrkwood
+  quote_or_summary: Myrkwood is described as a stock name for a magic, dark forest,
+    with Lokasenna 42 cited for comparison.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 10453-10558, Note 1 on possible lost lines
+  quote_or_summary: The note says lines may have been lost, including a possible additional
+    stanza describing the theft of the swan-garments after line 4.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 10453-10558, Note 13
+  quote_or_summary: The note says the poem identifies Vlund as belonging to the race
+    of elves and identifies Hlothver's daughter as Hervor.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 10453-10558, Note 11
+  quote_or_summary: The one ring stolen by Nithuth's men is given to Bothvild and
+    proves the cause of her undoing.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 10453-10558, Note 15
+  quote_or_summary: Nithuth comes with his men to capture Vlund and charges him with
+    having stolen his treasure.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 10453-10558, Prose note on southern origin and German stories
+  quote_or_summary: The note says the name Hlothver suggests the southern origin of
+    the story and mentions names appearing in poems based on German stories; it also
+    says the annotator may have added northern local color.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial commentary rather than the poem's continuous narrative.
+    Literal details are mostly clear, but some motif candidates depend on the editor's
+    discussion of possible lacunae or disputed identifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to supplied motif-family options and left empty where unsupported.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l10453-l10558
+  passage_sha256=4bf65130b14ea456132098e23725f30f8b6dd61799d7fdda0a0622a0ae0414d1
+

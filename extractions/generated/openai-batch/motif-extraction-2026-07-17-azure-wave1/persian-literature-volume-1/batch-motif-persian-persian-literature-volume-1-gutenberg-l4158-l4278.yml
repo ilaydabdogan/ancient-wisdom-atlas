@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l4158-l4278
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: GARSHSP / KAI-KOBD / KAI-KS / THE SEVEN LABORS OF RUSTEM; lines 4158-4278
+  start: '4158'
+  end: '4278'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: THE SEVEN LABORS OF RUSTEM
+  summary: 'The passage recounts the first three stages of Rustem''s journey toward
+    Mzindern: a forest episode in which Rakush kills a lion while Rustem sleeps; a
+    desert episode in which Rustem prays, follows a sheep to water, and recovers;
+    and a midnight episode in which Rakush repeatedly warns Rustem of a dragon-serpent,
+    then helps him kill it.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Rustem travels rapidly into a forest, catches a wild ass, lights a fire with
+    sparks struck from his spear, roasts the animal, lets Rakush graze, and sleeps
+    with his sword under his head.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fierce lion attacks Rakush while Rustem sleeps; Rakush kills the lion with
+    teeth and heels.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rustem wakes, sees the dead lion, and reproaches Rakush for fighting alone
+    instead of warning him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the second stage, Rustem and Rakush enter a waterless desert with burning
+    sand and suffer severe thirst.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rustem prays to Heaven for protection while engaged in an enterprise to release
+    Kai-ks and the Persian army from demons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rustem sees a sheep, follows it, reaches a fountain, thanks God, drinks, then
+    kills a gor, lights a fire, roasts it, and eats.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Rustem instructs Rakush not to fight dangerous enemies alone but to warn him
+    loudly if one appears.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At midnight in the third stage, an eighty-yard dragon-serpent emerges from
+    the forest and threatens the sleeping champion and horse.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Rakush repeatedly wakes Rustem by neighing and beating the ground, but the
+    dragon-serpent vanishes before Rustem can see it at first.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Rustem, angered by the repeated alarms, threatens Rakush, but Rakush remains
+    close and warns him again when the dragon-serpent returns.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: When light reveals the dragon-serpent, Rustem draws his sword; Rakush tears
+    the monster's scaly hide, and Rustem cuts off its head.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After the dragon-serpent is killed, Rustem thanks the Omnipotent and says
+    that power and might proceed from God.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rustem
+  description: The champion travelling toward Mzindern, hunting, praying, sleeping,
+    instructing Rakush, and fighting the dragon-serpent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Rakush
+  description: Rustem's favorite horse and companion; he kills the lion, warns Rustem
+    of danger, and helps attack the dragon-serpent.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Fierce lion
+  description: A lion that appears during the first night and attacks Rakush before
+    being killed by him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sheep
+  description: A passing sheep that Rustem regards as a harbinger of good and follows
+    to a fountain of water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Monstrous dragon-serpent
+  description: An eighty-yard serpent-like monster from the forest, so fierce that
+    elephants, demons, and lions avoid its lair; it attacks during the third stage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Kai-ks and the Persian army
+  description: The king and army whom Rustem is trying to release from the power of
+    demons.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Demons
+  description: Beings said to hold Kai-ks and the Persian army in their power; also
+    named among dangerous enemies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: God / Heaven / Almighty / Omnipotent
+  description: The divine power to whom Rustem prays in the desert and gives thanks
+    after reaching water and after killing the dragon-serpent.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: journeying champion and rescuer
+  assigned_to:
+  - fig:1
+  basis: Rustem travels through staged ordeals while undertaking the release of Kai-ks
+    and the Persian army, and he personally fights the dragon-serpent.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: protective steed and warning companion
+  assigned_to:
+  - fig:2
+  basis: Rakush kills the lion, warns Rustem by neighing and striking the ground,
+    and helps tear the dragon-serpent's hide.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:3
+  label: beast adversary
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The lion attacks Rakush, and the dragon-serpent emerges as a deadly monster
+    that threatens horse and hero.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:4
+  label: animal guide to water
+  assigned_to:
+  - fig:4
+  basis: Rustem follows the sheep and arrives at a fountain during his desert thirst.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: captives to be released
+  assigned_to:
+  - fig:6
+  basis: Rustem's enterprise is described as the release of Kai-ks and the Persian
+    army from demons.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: demonic captors
+  assigned_to:
+  - fig:7
+  basis: The demons are said to have Kai-ks and the Persian army in their power.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: invoked divine helper and source of power
+  assigned_to:
+  - fig:8
+  basis: Rustem prays for protection, gives thanks for preservation, and credits power
+    and might to the Omnipotent.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Cooking fires lit by Rustem, and desert sand described as burning
+    like fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: A fountain reached after Rustem follows the sheep in the desert.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: serpent
+  literal_form: The monstrous dragon-serpent, eighty yards long, with scaly hide.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: sword
+  literal_form: Rustem's sword, kept under his head while sleeping and drawn against
+    the dragon-serpent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:5
+  label: wilderness ordeal
+  literal_form: Forest, reeds, waterless desert, burning sand, and night darkness
+    along Rustem's road to Mzindern.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: 'First stage: forest rest and lion attack'
+  summary: Rustem enters a forest, cooks game, sleeps with his sword under his head,
+    and Rakush kills a lion that attacks him; Rustem then rebukes Rakush for fighting
+    without warning him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: 'Second stage: desert thirst and fountain'
+  summary: Rustem and Rakush suffer thirst in a burning desert; Rustem prays for protection,
+    follows a sheep to a fountain, thanks God, drinks, hunts, cooks, and eats.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: 'Third stage: Rakush''s repeated warnings'
+  summary: A dragon-serpent emerges at midnight; Rakush repeatedly wakes Rustem, but
+    the monster disappears before Rustem can see it until light finally reveals the
+    danger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Dragon-serpent combat and thanksgiving
+  summary: Rustem draws his sword against the revealed dragon-serpent; Rakush tears
+    its scaly hide, Rustem cuts off its head, and Rustem thanks the Omnipotent for
+    victory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: staged heroic labors on a journey
+  taxonomy_refs:
+  - initiation
+  basis: The passage is explicitly organized as the first, second, and third stages
+    of the Seven Labors, each presenting Rustem with a distinct ordeal on the road
+    to Mzindern.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy link to initiation is broad; the passage describes labors
+    and ordeals but does not state a formal initiation rite.
+- id: motif:2
+  label: protective animal companion saves or warns the hero
+  taxonomy_refs: []
+  basis: Rakush kills the lion while Rustem sleeps, repeatedly warns him of the dragon-serpent,
+    and assists in the final combat.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No external comparison is asserted; this is an internal passage pattern.
+- id: motif:3
+  label: heroic combat with dragon-serpent
+  taxonomy_refs:
+  - serpent
+  basis: The third stage centers on an enormous dragon-serpent that attacks at night
+    and is killed by Rustem with Rakush's help.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage names the monster a dragon-serpent, but further cosmological
+    meaning is not stated in the excerpt.
+- id: motif:4
+  label: water found in a deadly desert through an animal sign
+  taxonomy_refs: []
+  basis: Rustem suffers near-fatal thirst in a waterless desert, sees a sheep, follows
+    it, and reaches a fountain, after which he gives thanks to God.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The sheep is called a harbinger of good, but the passage does not explicitly
+    call it supernatural.
+- id: motif:5
+  label: prayer and thanksgiving during heroic ordeal
+  taxonomy_refs: []
+  basis: Rustem prays for divine protection in the desert and thanks the Omnipotent
+    after survival and victory over the dragon-serpent.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage presents Rustem's devotional speech but does not elaborate
+    a theological doctrine beyond divine protection and power.
+- id: motif:6
+  label: rescue quest for captives held by demons
+  taxonomy_refs: []
+  basis: Rustem's journey is framed as an enterprise to release Kai-ks and the Persian
+    army, who are in the power of demons.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The rescue itself is not completed within the supplied passage; it is
+    stated as the motive for the journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4158-4177
+  quote_or_summary: 'First stage: Rustem enters a forest, hunts a wild ass, lights
+    a fire with spear-sparks, eats, lets Rakush graze, sleeps with his sword under
+    his head, and a fierce lion attacks Rakush, who kills it.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 4178-4199
+  quote_or_summary: Rustem wakes to the dead lion, reproaches Rakush for fighting
+    alone rather than warning him, sleeps until dawn, and continues toward Mzindern.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 4200-4227
+  quote_or_summary: 'Second stage: Rustem and Rakush suffer thirst in a waterless
+    burning desert; Rustem prays for protection while seeking to release Kai-ks and
+    the Persian army from demons; he follows a sheep to a fountain and thanks God.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 4228-4237
+  quote_or_summary: Rustem kills a gor, lights a fire, roasts and eats it, then tells
+    Rakush not to risk his life in combat but to sound a warning if an enemy appears.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 4238-4267
+  quote_or_summary: 'Third stage: at midnight an eighty-yard dragon-serpent emerges
+    from the forest; Rakush repeatedly wakes Rustem by neighing and striking the ground,
+    but the dragon vanishes until providential light reveals it.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 4268-4278
+  quote_or_summary: Rustem draws his sword against the dragon-serpent; Rakush tears
+    its scaly hide, Rustem cuts off its head, the plain is covered with blood, and
+    Rustem thanks the Omnipotent, saying power and might proceed from God.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are strongest
+    for the animal helper, dragon-serpent combat, desert water, and prayer/thanksgiving
+    patterns; the initiation taxonomy mapping for staged labors is broader and needs
+    human review. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations, figures, roles, symbols, scenes, and motif candidates cite internal evidence from the supplied passage. Comparison claims are empty because the passage itself does not establish a specific external comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l4158-l4278
+  passage_sha256=c969b0e32cb31a1ba9d24bab107e8c0959b0ee5e89edf07128240097cf5f246c
+

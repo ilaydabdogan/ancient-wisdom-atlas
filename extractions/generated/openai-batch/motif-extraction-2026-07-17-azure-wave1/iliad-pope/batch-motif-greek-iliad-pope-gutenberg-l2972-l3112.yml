@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l2972-l3112
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: THE CONTENTION OF ACHILLES AND AGAMEMNON. / BOOK II. / ARGUMENT. / THE TRIAL
+    OF THE ARMY, AND CATALOGUE OF THE FORCES.; lines 2972-3112
+  start: '2972'
+  end: '3112'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Jupiter... sends a deceitful vision to Agamemnon
+  summary: Book II opens with Jupiter deciding to honor Achilles by sending a deceptive
+    night dream to Agamemnon. The dream, appearing in the form of Nestor, tells Agamemnon
+    that Troy can now be taken and urges him to arm the Greeks. Agamemnon believes
+    the vision, dresses with royal and martial insignia, summons the leaders, reports
+    the dream, and proposes first to test the army by suggesting a return across the
+    sea while the chiefs restrain them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Jupiter remains awake while mortals and other immortals sleep.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jupiter commands a deluding night dream to go to Agamemnon's tent.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dream is instructed to tell Agamemnon to lead the Greek army to battle
+    and that Troy is now given to him to destroy.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The dream appears over Agamemnon's head in the figure of Nestor, described
+    as wise and aged.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The dream urges Agamemnon to wake and presents its message as a command from
+    Jove.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After speaking, the phantom vanishes into air and night.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Agamemnon believes he will sack Troy, but the narrator states that he does
+    not know the future suffering and deaths planned by Jove and fate.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Agamemnon dresses in a vest, mantle, sandals, sword, and a sceptre described
+    as immortal and a gift of gods.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: At morning Agamemnon sends heralds to summon the army and goes to Nestor's
+    ship to call a council of peers.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Agamemnon reports the dream to the assembled chiefs and says its form was
+    like Nestor.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Agamemnon proposes to test the troops, worn by nine years of unsuccessful
+    war, by suggesting return across the sea while the chiefs restrain them.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Jupiter / Jove
+  description: The ever-wakeful god who sends the deluding dream and whose command
+    the dream claims to bear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Agamemnon / Atrides / Atreus' son
+  description: The Greek king who receives the dream, believes its message, arms himself,
+    summons leaders, and proposes a test of the army.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:3
+  name_or_label: Deluding Dream / phantom / vision of the night
+  description: An empty phantom sent by Jupiter that appears in Nestor's form and
+    gives Agamemnon a deceptive message.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Nestor / Pylian sage
+  description: The aged, wise Pylian figure whose appearance is assumed by the dream;
+    he is also found by Agamemnon in his black ship when the council is called.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Thetis' son / Achilles
+  description: The absent warrior for whose honor Jupiter bends his care, according
+    to the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Grecian leaders and army
+  description: The leaders sleep in tents, are later summoned by heralds, and are
+    to be roused for battle and tested about returning.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:9
+  - ev:11
+- id: fig:7
+  name_or_label: Juno
+  description: A goddess whose suit is cited in the dream's claim that heavenly factions
+    have ended.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine sender of deceptive vision
+  assigned_to:
+  - fig:1
+  basis: Jupiter orders a deluding dream to go to Agamemnon.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deceived royal recipient
+  assigned_to:
+  - fig:2
+  basis: Agamemnon receives the dream's message and is described as elated and blind
+    to the future.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: commander testing the army
+  assigned_to:
+  - fig:2
+  basis: Agamemnon plans to test the troops by proposing return while chiefs restrain
+    them.
+  evidence_refs:
+  - ev:11
+- id: role:4
+  label: deceptive messenger
+  assigned_to:
+  - fig:3
+  basis: The dream is called deluding and gives a message that deceives the king.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: borrowed wise elder form
+  assigned_to:
+  - fig:4
+  basis: The phantom is clothed in the figure of the Pylian sage, renowned for wisdom
+    and age.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: honored absent hero
+  assigned_to:
+  - fig:5
+  basis: Jupiter acts to honor Thetis' son by bringing woes on the Greeks.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: army subject to command and trial
+  assigned_to:
+  - fig:6
+  basis: The army is summoned, urged toward battle, and to be tested after years of
+    war.
+  evidence_refs:
+  - ev:9
+  - ev:11
+symbols:
+- id: sym:1
+  label: deceptive dream-vision
+  literal_form: empty phantom / vision of the night / dream divine
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: sym:2
+  label: assumed form of Nestor
+  literal_form: the dream clothed in the figure of the Pylian sage
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: golden wing
+  literal_form: golden wing spread around the dream's temples
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: god-given sceptre
+  literal_form: massy sceptre, unstained, immortal, and the gift of gods
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Troy's towers and wall
+  literal_form: lofty towers of wide-extended Troy and devoted wall of Ilion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: return across the sea
+  literal_form: measure back the main
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Night council of Jupiter and the dream
+  summary: While mortals and most immortals sleep, Jupiter decides to honor Achilles
+    by sending a deluding dream to Agamemnon.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dream over Agamemnon
+  summary: The dream descends to Agamemnon, assumes Nestor's form, and tells him that
+    Jove commands him to lead the Greeks because Troy can now be destroyed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Agamemnon's mistaken confidence
+  summary: The phantom vanishes, and Agamemnon forms plans for taking Troy, though
+    the narrator notes that he does not know the hardships and deaths still fated.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Royal arming and morning summons
+  summary: Agamemnon dresses in royal and martial garments, takes up the divine sceptre,
+    sends heralds to summon the troops, and gathers a council at Nestor's ship.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Report of the dream and proposed test
+  summary: Agamemnon tells the chiefs about the dream and proposes that he will suggest
+    a return across the sea to test the war-worn troops, while the chiefs hold them
+    back.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: deceptive divine dream sent to a ruler
+  taxonomy_refs: []
+  basis: A god sends a deluding night vision to Agamemnon, and the dream gives him
+    a false or misleading assurance of imminent victory.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage states the dream is deluding and that Agamemnon is blind to
+    Jove and fate, but it does not fully narrate the later consequences within this
+    excerpt.
+- id: motif:2
+  label: divine command transmitted through a night messenger
+  taxonomy_refs: []
+  basis: The dream presents itself as bearing Jove's command and urges the sleeping
+    king to wake and lead the army.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The messenger is deceptive; the content should not be treated as a straightforward
+    divine oracle.
+- id: motif:3
+  label: assumption of a trusted elder's form
+  taxonomy_refs:
+  - wisdom
+  basis: The phantom appears in the form of Nestor, who is described as wise and revered
+    for age, to persuade Agamemnon.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  confidence: medium
+  cautions: The available taxonomy only partly fits through the association of Nestor
+    with wisdom; no specific shapeshifter reference is applied because the passage
+    describes a phantom clothed in another figure rather than a named shapeshifter.
+- id: motif:4
+  label: king's stratagem to test a weary army
+  taxonomy_refs: []
+  basis: Agamemnon proposes to test the Greeks, worn by nine years of war, by speaking
+    of return while other chiefs prevent the retreat.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: In this line range the stratagem is proposed but not yet carried out.
+- id: motif:5
+  label: god-given emblem of royal authority
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Agamemnon arms himself with a sceptre described as immortal and a gift of
+    gods before summoning leaders and addressing council.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not explicitly explain the sceptre's political meaning;
+    the taxonomy reference is based only on its royal context and divine origin.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2972-3112
+  quote_or_summary: '"All, but the ever-wakeful eyes of Jove"; he bends his care "To
+    honour Thetis son" and plunge the Greeks into war''s woes.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 2972-3112
+  quote_or_summary: '"Then bids an empty phantom rise to sight" and commands: "Fly
+    hence, deluding Dream!... To Agamemnons ample tent repair."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 2972-3112
+  quote_or_summary: The dream is told to bid Agamemnon arm the Greeks and declare
+    that "tis given him to destroy / The lofty towers" of Troy.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 2972-3112
+  quote_or_summary: The illusion descends over Atrides' head, "Clothed in the figure
+    of the Pylian sage," with a "golden wing."
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 2972-3112
+  quote_or_summary: The dream says, "Monarch, awake! tis Joves command I bear" and
+    tells him to trust the vision from Jove.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 2972-3112
+  quote_or_summary: '"The phantom said; then vanishd from his sight, / Resolves to
+    air, and mixes with the night."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 2972-3112
+  quote_or_summary: Agamemnon imagines he will sack Troy, but the narrator states
+    he is blind to what Jove and fate intend and to the grief and slain still to come.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2972-3112
+  quote_or_summary: Agamemnon dresses in vest, mantle, sandals, sword, and takes a
+    massy sceptre described as unstained, immortal, and a gift of gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2972-3112
+  quote_or_summary: At morning Agamemnon sends heralds to summon the bands, goes to
+    the fleet, finds Nestor in his black ship, and calls a council of peers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 2972-3112
+  quote_or_summary: Agamemnon tells the chiefs that a divine dream appeared in Nestor's
+    form and repeats its message that Jove commands the Greeks to battle and Troy's
+    fall is imminent.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 2972-3112
+  quote_or_summary: Agamemnon proposes first to "try" the troops, "Worn with nine
+    years of unsuccessful war," by urging them to "measure back the main" while the
+    chiefs detain them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions and figures are explicit in the passage. Motif labels are
+    candidate abstractions and require review, especially taxonomy alignment for wisdom
+    and royal legitimacy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative claim beyond its own Greek epic context.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l2972-l3112
+  passage_sha256=a5a39f966f7db0e1c1385f28ac86e23383b2137be2cad213e7e344a9e0f11879
+

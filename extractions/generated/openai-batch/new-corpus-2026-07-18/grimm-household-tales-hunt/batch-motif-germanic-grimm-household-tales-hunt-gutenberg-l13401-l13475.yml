@@ -1,0 +1,575 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l13401-l13475
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 13401-13475
+  start: '13401'
+  end: '13475'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A queen''s impatient wish changes her young daughter into a raven. The
+    bewitched king''s daughter tells a man how to deliver her: he must refuse food
+    and drink from an aged woman and remain awake on a heap of tan for three appointed
+    afternoon visits. The man repeatedly accepts drink or wine, falls asleep, and
+    fails to wake when the raven arrives. On the third failed attempt, the raven leaves
+    inexhaustible provisions, a named gold ring, and a letter directing him to the
+    golden castle of Stromberg, then departs there.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A queen has a very young daughter who must be carried.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the queen says she wishes the child were a raven and would fly away,
+    the child is changed into a raven and flies into a dark forest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man traveling through the forest hears the raven crying and follows the
+    voice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The raven says she is a king's daughter by birth, is bewitched, and can be
+    set free by the man.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The raven instructs the man to go to a forest house where an aged woman will
+    offer meat and drink, but he must accept nothing because eating or drinking will
+    make him sleep and prevent the deliverance.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man is told to stand on a great heap of tan in the garden behind the house
+    and wait for the raven for three afternoons at two o'clock.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The raven says her carriage will come first with four white horses, then with
+    four chestnut horses, and finally with four black horses.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: On the first day the aged woman persuades the man to drink from a glass; he
+    then falls into a sleep on the tan heap, and the raven arrives with four white
+    horses but cannot wake him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: On the second day the aged woman again persuades the man to drink; he falls
+    into a heavy sleep, and the raven arrives with four brown horses but cannot wake
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: On the third day the aged woman sets food and wine before the man; he drinks
+    a deep draught, falls asleep, and the raven arrives with four black horses, a
+    black coachman, and everything else black.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The raven shakes and calls to the sleeping man on each visit, but he does
+    not wake.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:12
+  text: After the third failure, the raven leaves a loaf, a piece of meat, and a bottle
+    of wine that will never grow less, along with a gold ring bearing her name and
+    a letter.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The letter says the man cannot deliver her there but may still come to the
+    golden castle of Stromberg; the raven then drives there in her carriage.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Queen
+  description: Mother of the young daughter; she speaks the wish that the child were
+    a raven and would fly away.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King's daughter / raven
+  description: A young royal daughter changed into a raven; she says she is bewitched,
+    gives instructions for her deliverance, arrives in carriages, and later leaves
+    gifts and a letter.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Man traveling through the forest
+  description: A man who hears the raven, receives the deliverance instructions, repeatedly
+    accepts drink or wine, and sleeps through the appointed visits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Aged woman in the forest house
+  description: An aged woman who offers the man food and drink and persuades him to
+    drink despite his refusal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Black coachman
+  description: The coachman present with the raven's third carriage, described along
+    with everything else as black.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Mother whose utterance changes the child
+  assigned_to:
+  - fig:1
+  basis: The queen wishes the child were a raven, and the child is immediately changed
+    into a raven.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Bewitched royal daughter seeking release
+  assigned_to:
+  - fig:2
+  basis: The raven identifies herself as a king's daughter by birth, says she is bewitched,
+    and says the man can set her free.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Prospective deliverer under an abstinence and wakefulness condition
+  assigned_to:
+  - fig:3
+  basis: The man is instructed not to accept food or drink and to remain awake at
+    the appointed place and time in order to deliver the raven.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Offerer and persuader with food and drink
+  assigned_to:
+  - fig:4
+  basis: The aged woman repeatedly offers food or drink and persuades the man until
+    he drinks.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Third-day carriage driver
+  assigned_to:
+  - fig:5
+  basis: On the third visit, the coachman accompanying the black horses is described
+    as black.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Giver of provisions, token, and written direction
+  assigned_to:
+  - fig:2
+  basis: After the third failed vigil, the raven leaves inexhaustible food and wine,
+    a gold ring with her name, and a letter naming the golden castle of Stromberg.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Raven form
+  literal_form: The child is changed into a raven.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Dark forest
+  literal_form: A dark forest where the raven stays and where the man hears her crying.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Forest house
+  literal_form: A house farther into the forest where an aged woman sits.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Prohibited food and drink
+  literal_form: Meat, drink, food, and wine offered by the aged woman; accepting them
+    is linked to sleep and failed deliverance.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Heap of tan
+  literal_form: A great heap of tan in the garden behind the house where the man must
+    stand and wait.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: Carriage and four horses of changing colors
+  literal_form: The raven's carriage comes with four white horses, then with four
+    brown or chestnut horses, and finally with four black horses.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: Black coachman and black carriage setting
+  literal_form: On the third visit the horses are black, the coachman is black, and
+    everything else is black.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Non-diminishing provisions
+  literal_form: A loaf, a piece of meat, and a bottle of wine that may be consumed
+    without ever growing less.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: Gold ring with engraved name
+  literal_form: A gold ring taken from the raven's finger and put on the man's, with
+    her name engraved on it.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:10
+  label: Letter of instruction
+  literal_form: A letter explaining the gifts and directing the man to the golden
+    castle of Stromberg if he is still willing to deliver her.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:11
+  label: Golden castle of Stromberg
+  literal_form: The destination named in the letter and reached by the raven's carriage
+    at the end of the passage.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Queen's wish and raven transformation
+  summary: The queen wishes her restless young daughter were a raven and would fly
+    away; the child is transformed into a raven and disappears into a dark forest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Forest encounter and deliverance conditions
+  summary: A man hears the raven in the forest. She identifies herself as a bewitched
+    king's daughter and instructs him to refuse food and drink from an aged woman,
+    wait on the tan heap, and remain awake for three afternoon visits.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: First failed vigil
+  summary: The aged woman persuades the man to drink; he sleeps on the tan heap, and
+    the raven arrives with four white horses but cannot wake him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Second failed vigil
+  summary: The aged woman again persuades the man to drink. He falls into a heavy
+    sleep, and the raven arrives with four brown horses but cannot wake him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Third failed vigil with black arrival
+  summary: The man drinks wine after smelling it, sleeps as if he were a stone, and
+    the raven arrives with four black horses, a black coachman, and everything else
+    black, but cannot wake him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Gifts and departure to Stromberg
+  summary: The raven leaves inexhaustible provisions, a gold ring with her name, and
+    a letter directing the man to the golden castle of Stromberg, then drives there
+    in her carriage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  - sym:11
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Bewitched royal child in bird form
+  taxonomy_refs:
+  - shapeshifter
+  basis: A royal child is changed into a raven after the queen's wish, and the raven
+    later states that she is a bewitched king's daughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The transformation is involuntary enchantment rather than voluntary shape-changing.
+- id: motif:2
+  label: Deliverance trial failed through sleep-inducing food or drink
+  taxonomy_refs:
+  - initiation
+  basis: The deliverance depends on refusing food and drink and staying awake; the
+    man repeatedly accepts drink or wine and sleeps through the raven's visits.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage frames the task as a deliverance condition; assigning it to
+    initiation is a functional motif-family reading.
+- id: motif:3
+  label: Quest to free an enchanted princess at a remote golden castle
+  taxonomy_refs:
+  - mystical_quest
+  basis: The raven says the man can set her free and, after the failed vigils, leaves
+    a letter directing him to the golden castle of Stromberg if he is still willing
+    to deliver her.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage only sets up the onward journey; the outcome lies outside
+    the supplied range.
+- id: motif:4
+  label: Threefold appointed visits with color sequence
+  taxonomy_refs: []
+  basis: The raven announces and enacts three afternoon carriage visits, marked by
+    four white horses, then brown/chestnut horses, and finally black horses with an
+    all-black arrival.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No external comparative taxonomy is asserted for the color sequence.
+- id: motif:5
+  label: Inexhaustible provisions and identifying ring as quest aids
+  taxonomy_refs: []
+  basis: After the third failure, the raven gives the man food and wine that never
+    diminish, a ring engraved with her name, and a letter naming the next destination.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the later use of these objects within the
+    supplied range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13401-13410
+  quote_or_summary: A queen's impatient wish that her child were a raven is immediately
+    followed by the child's transformation into a raven and flight into a dark forest.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 13410-13413
+  quote_or_summary: A man hears the raven in the forest; the bird says she is a king's
+    daughter by birth, is bewitched, and can be set free by him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 13413-13422
+  quote_or_summary: The raven instructs the man to go to a forest house with an aged
+    woman, accept no meat or drink, and wait awake on the tan heap for three two-o'clock
+    carriage visits with white, chestnut, and black horses.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 13423-13442
+  quote_or_summary: The man promises not to eat or drink, but the aged woman persuades
+    him to drink; he falls asleep on the tan heap, and the raven arrives with four
+    white horses, shakes and calls him, but cannot wake him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 13442-13451
+  quote_or_summary: On the second day the aged woman again persuades the man to drink;
+    he falls into heavy sleep, and the raven arrives with four brown horses but cannot
+    wake him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 13452-13464
+  quote_or_summary: On the third day the man drinks wine after smelling it, sleeps
+    soundly, and the raven arrives with four black horses, a black coachman, and everything
+    else black; she cannot wake him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 13464-13473
+  quote_or_summary: The raven leaves a non-diminishing loaf, meat, and bottle of wine,
+    places on him a gold ring engraved with her name, and leaves a letter directing
+    him to the golden castle of Stromberg if he is still willing to deliver her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 13473-13475
+  quote_or_summary: After leaving the gifts, the raven seats herself in her carriage
+    and drives to the golden castle of Stromberg.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage-level extraction uses only the supplied text. The initial instruction
+    says the second team of horses will be chestnut, while the actual second arrival
+    is described as brown; both are represented literally where relevant. No comparison
+    claims are made because the passage itself does not provide an explicit comparative
+    frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata indicates public-domain English text. Taxonomy refs are limited to the provided motif-family list; no provided symbol taxonomy entries matched the passage literally.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l13401-l13475
+  passage_sha256=98f1fbbf53560c341d9d06cdad3f3b55f634bebc3dd01a36179a0b7ff715aa42
+

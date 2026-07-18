@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l7663-l7702
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 167 / ABORIGINAL TRIBES OF GUIANA. 169. / ABORIGINAL
+    TRIBES OF GUIANA. 171 / LEGEND OF THE HAIARRI ROOT.; lines 7663-7702
+  start: '7663'
+  end: '7702'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“My blood will take root, and avengers abound.”"
+  summary: A father discovers that fish die wherever his son swims. The fish conspire
+    to kill the boy on a log after he leaves the water. Spined fish wound him, and
+    a sting-ray’s wound is fatal. As the father carries him through the forest, the
+    dying youth says his blood will become strange plants and avengers. The Haiarri
+    root is then found; when bruised and washed in pools or small streams, it makes
+    fish prey.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old man catches fish in the river and takes his boy with him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The father observes that fish die wherever the boy swims, and the fish can
+    be safely eaten after cooking.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The father continues taking the boy to bathe, and the fish decide to kill
+    the young swimmer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fish avoid attacking the boy in the water and choose an old log where
+    he basks in the sun after swimming.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Fish with spines spring over the youth and wound him; the sting-ray’s wound
+    is described as fatal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: While the father carries his son through the forest, the dying youth sees
+    his blood fall and says strange plants will appear from it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Haiarri root is said to have been found from this event; when bruised
+    and washed in pools or small streams, it makes fish prey.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The closing lines ask the hearer to consider what the fish gained when the
+    roots are used, and when anger tempts one to slay an enemy.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: old man / father
+  description: A father who often catches fish in the river, takes his boy with him,
+    observes the effect of the boy’s swimming, and later carries his dying son through
+    the forest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: boy / young swimmer / dying youth
+  description: The son whose swimming causes fish to die; he is ambushed after swimming
+    and, while dying, says his blood will take root and produce avengers.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the fish
+  description: A collective group that notices the father’s practice, resolves to
+    kill the young swimmer, and later becomes prey through the Haiarri root.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: fish with spines
+  description: Fish with spines that spring over the youth on the log and strike their
+    spines into him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: sting-ray
+  description: The deadly sting-ray whose wound is described as worse than the others
+    and fatal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: fisherman father
+  assigned_to:
+  - fig:1
+  basis: He often catches fish, takes his boy to the river, and later carries the
+    dying youth.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: fish-killing swimmer
+  assigned_to:
+  - fig:2
+  basis: Fish die wherever the boy swims.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: plotting animal adversaries
+  assigned_to:
+  - fig:3
+  basis: The fish resolve to kill the boy and plan an ambush outside the water.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: spined attackers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The spined fish and sting-ray wound the youth on the log, with the sting-ray’s
+    wound fatal.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: source of avenging plant
+  assigned_to:
+  - fig:2
+  basis: The dying youth says his blood will take root and that avengers will abound.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Haiarri root
+  literal_form: A root that is bruised and washed in pools or small streams to make
+    fish prey.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: blood taking root
+  literal_form: The dying youth’s blood drops on the ground and is said to take root
+    as strange plants.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: river and pools
+  literal_form: River water where the boy swims and pools or small streams where the
+    Haiarri root is washed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: old log
+  literal_form: An old log chosen by the fish as the place to kill the boy when he
+    basks in the sun.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: spines and sting
+  literal_form: The spines of fish and the sting of the sting-ray used to wound the
+    youth.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Discovery of the boy’s effect on fish
+  summary: A father takes his boy fishing and notices that fish die wherever the boy
+    swims; the cooked fish are safe to eat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fish ambush on the log
+  summary: The fish decide to kill the boy, avoid attacking him in the water, and
+    ambush him on an old log after swimming; spined fish wound him and the sting-ray’s
+    wound is fatal.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dying prophecy of the blood-root
+  summary: As the father carries the dying youth through the forest, the youth says
+    strange plants will appear where his blood falls and that his blood will take
+    root as avengers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Finding and use of the Haiarri root
+  summary: The Haiarri root is presented as originating from the event and as a means
+    of making fish prey when bruised and washed in pools or streams; the closing lines
+    frame the fish’s action as self-defeating.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: useful plant arising from a slain youth’s blood
+  taxonomy_refs:
+  - death_rebirth
+  basis: The dying youth says his blood will take root as strange plants, and the
+    Haiarri root is then identified as the resulting plant used against fish.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes blood becoming a plant, not the youth’s personal
+    resurrection or return.
+- id: motif:2
+  label: animal enemies plot revenge against a dangerous human
+  taxonomy_refs: []
+  basis: The fish recognize that the boy’s swimming kills them and resolve to kill
+    him by ambushing him outside the water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The fish are presented collectively; individual planning figures are not
+    named.
+- id: motif:3
+  label: etiological origin of a fishing poison or fish-taking root
+  taxonomy_refs: []
+  basis: The passage explicitly explains how the Haiarri root was found and how it
+    is used to make fish prey.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the root’s efficacy but does not detail preparation
+    beyond bruising and washing.
+- id: motif:4
+  label: violent attack produces an avenger against the attackers
+  taxonomy_refs: []
+  basis: The fish kill the youth, but his blood becomes a root that later makes fish
+    prey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The closing moral suggests the attack was self-defeating, but the mechanism
+    is expressed through the root rather than a named avenger figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7663-7670
+  quote_or_summary: An old man often catches fish in the river and brings his boy;
+    the father observes that fish die wherever the boy swims, and the cooked fish
+    can be eaten safely.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7671-7680
+  quote_or_summary: The father takes the boy to bathe daily; the fish resolve to kill
+    him, avoid attacking in water, and choose an old log where he basks after swimming.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7681-7688
+  quote_or_summary: Fish with spines leap over the youth and strike him; the sting-ray’s
+    wound is described as the worst and fatal.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 7689-7696
+  quote_or_summary: 'The dying youth sees his blood drop and says strange plants will
+    appear: “My blood will take root, and avengers abound.”'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7697-7702
+  quote_or_summary: The Haiarri root is said to have been found; when bruised and
+    washed in pools or small streams, it makes fish prey, followed by an admonition
+    about killing foes in anger.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-based; the
+    death_rebirth taxonomy reference is cautious because the passage describes transformation
+    of blood into a root rather than explicit rebirth of the youth. No separate comparison
+    claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims left empty because the passage provides no explicit cross-text or nearby-corpus comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l7663-l7702
+  passage_sha256=df90adc63bc5ddc164e84f27f10dcd0c9e53ee019f6a1a3e8e199da17f43f3f5
+

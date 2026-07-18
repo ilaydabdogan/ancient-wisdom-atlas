@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l34613-l34766
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XLIII. The Wondrous Deer. / Canto XLVI. The Guest. / Canto LI. The
+    Combat. / Canto LX. Lakshman Reproved.; lines 34613-34766
+  start: '34613'
+  end: '34766'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Rama returns toward his leafy dwelling after ominous bodily signs, fears
+    harm to Sita, finds the dwelling empty, and searches the surrounding forest. He
+    questions trees, plants, animals, and Lakshman about Sita, imagines several possible
+    causes for her absence, and laments that giants may have slain or devoured her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rama experiences throbbing in his left eye, loss of strength, shaking, and
+    interprets these as dreadful signs before crying out that no harm should befall
+    his spouse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rama reaches his dwelling and finds it desolate, with Sita absent from the
+    cottage.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The surrounding natural setting is described as mourning: trees shed leaves,
+    birds and deer mourn, flowers droop, and silvan deities have fled.'
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rama asks whether Sita is dead, carried away, lost, eaten by a giant, gathering
+    fruit and blossoms, or fetching water from a pool or rill.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rama searches groves and glades, then rushes among hills, trees, and rills
+    while lamenting.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rama addresses many named trees and plants, asking whether they have seen
+    Sita and linking their blossoms, fruit, branches, or scent with her appearance
+    or affections.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Rama asks a deer, an elephant, and a tiger whether they have seen Sita.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rama imagines seeing Sita partly hidden by a tree or bush and asks her to
+    stop fleeing or mocking him.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: Rama concludes that his words are vain and imagines Sita lost or slain, with
+    giants feeding on or rending her body while he was absent.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Rama addresses Lakshman and asks whether Sita is in sight and where she is.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Rama continues searching through groves, woods, hills, glades, rocks, brooks,
+    and cascades for many hours, without finding Sita.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rama
+  description: The speaker and mourner who returns to the cottage, finds Sita absent,
+    questions the forest beings, and searches for her.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Sita
+  description: Rama's spouse and consort, absent from the dwelling and repeatedly
+    sought in the forest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Lakshman
+  description: Addressed by Rama as one of mighty arm and asked whether Sita is in
+    sight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Trees and plants of the grove
+  description: Kadamba, Bel, Arjun, Basil, Tila, Asoka, Palm, Rose-apple, Cassia,
+    Jasmin, Mango, Sal, and other plants are addressed by Rama as possible witnesses
+    to Sita's whereabouts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Forest animals
+  description: Deer, elephant, and tiger are addressed by Rama as possible witnesses
+    to Sita's whereabouts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Giants or fiends
+  description: Rama imagines that giants or fiends may have seized, slain, eaten,
+    or torn Sita.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:7
+  name_or_label: Silvan deities
+  description: Deities of the woodland are described as having fled the desolate spot.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: searching husband
+  assigned_to:
+  - fig:1
+  basis: Rama fears harm to his spouse, finds the cottage empty, and searches many
+    forest locations for Sita.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:2
+  label: mourner or lamenting seeker
+  assigned_to:
+  - fig:1
+  basis: Rama repeatedly cries out in grief, laments, and roams like one distraught.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: missing consort
+  assigned_to:
+  - fig:2
+  basis: Sita is absent from the dwelling, and Rama repeatedly asks where his spouse
+    or consort is.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:4
+  label: addressed companion
+  assigned_to:
+  - fig:3
+  basis: Rama directly asks Lakshman whether Sita is visible and where she is.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: questioned witness
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Rama asks trees, plants, and animals whether they have seen Sita.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: imagined predator or abductor
+  assigned_to:
+  - fig:6
+  basis: Rama speculates that a hungry giant may have taken Sita as prey and later
+    imagines giants or fiends eating or rending her.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:7
+  label: departed woodland presence
+  assigned_to:
+  - fig:7
+  basis: The silvan deities are said to have fled the place where the light was dead.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mourning forest
+  literal_form: Trees, birds, deer, flowers, and the empty bower around the cottage
+    are described as grieving or drooping after Sita's disappearance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: addressed trees and plants
+  literal_form: Named trees and plants in the grove are treated as possible witnesses
+    able to answer Rama's questions about Sita.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: ominous bodily sign
+  literal_form: Rama's left eye throbs, his strength leaves him, and his body shakes
+    before he discovers Sita's absence.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: empty dwelling
+  literal_form: The leafy cot or hermit dwelling is found desolate and bare, without
+    Sita.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: waters of the search
+  literal_form: Pool, rill, wave, brook, and cascade appear as possible places Sita
+    may have gone or as locations searched by Rama.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ominous return to the cottage
+  summary: Rama experiences alarming bodily signs, fears for Sita, hastens home, and
+    finds the dwelling empty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Desolate forest around the empty bower
+  summary: The forest around the dwelling is described as drooping and mourning, with
+    silvan deities gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Speculation about Sita's fate
+  summary: Rama asks whether Sita is dead, taken away, lost, eaten by a giant, gathering
+    forest produce, or drawing water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Questioning trees, plants, and animals
+  summary: Rama addresses named trees, plants, a deer, an elephant, and a tiger, asking
+    them whether they have seen Sita.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Mistaken vision and fear of violent death
+  summary: Rama imagines seeing Sita hidden by a tree or bush, then laments that she
+    may be lost or slain and that giants may have consumed or torn her body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Continued search with Lakshman named
+  summary: Rama asks Lakshman where Sita is and continues searching woods, hills,
+    rocks, brooks, and cascades for many hours without success.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: missing or possibly stolen beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: Sita is absent from the dwelling; Rama fears she may be dead, torn away,
+    lost, or taken as prey by a giant, and his search centers on recovering or locating
+    his consort.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage itself presents Rama's fear and uncertainty; it does not directly
+    narrate the abduction or confirm who took Sita.
+- id: motif:2
+  label: lamenting search through wilderness
+  taxonomy_refs: []
+  basis: Rama searches grove, glade, hill, tree, rill, rock, brook, and cascade while
+    repeatedly lamenting and questioning beings of the forest.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly matches this search-and-lament
+    pattern.
+- id: motif:3
+  label: nature as witness to loss
+  taxonomy_refs: []
+  basis: The trees, birds, deer, flowers, and deities of the forest are represented
+    as responding to Sita's absence, and Rama asks trees, plants, and animals whether
+    they have seen her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied taxonomy motif
+    family.
+- id: motif:4
+  label: ominous sign before disaster
+  taxonomy_refs: []
+  basis: Before finding Sita absent, Rama experiences bodily omens and explicitly
+    fears that harm may have come to his spouse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to omens.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage has the same broad narrative function as a stolen-beloved pattern:
+    the beloved is missing, the spouse fears violent seizure, and the loss initiates
+    an urgent search.'
+  claim_level: same_function
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage records Rama's perception and search, not the abduction
+    event itself; the cause of Sita's absence remains unconfirmed within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 34613-34622
+  quote_or_summary: Rama approaches his leafy dwelling, suffers throbbing of the left
+    eye, loss of strength, and shaking, treats them as dreadful omens, and prays that
+    no ill befall his spouse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 34623-34640
+  quote_or_summary: Rama hastens to the dwelling, finds it desolate and Sita absent;
+    trees, birds, deer, and flowers appear to mourn, and silvan deities have fled.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 34641-34652
+  quote_or_summary: Rama wonders whether Sita is dead, carried away, lost, prey to
+    a giant, gathering fruit and blossoms, or drawing water, and he searches groves
+    and glades.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 34653-34708
+  quote_or_summary: Rama asks many trees and plants, including Kadamba, Bel, Arjun,
+    Basil, Tila, Asoka, Palm, Rose-apple, Cassia, Jasmin, Mango, and Sal, whether
+    they have seen Sita.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 34709-34726
+  quote_or_summary: Rama asks a deer, elephant, and tiger whether they have seen Sita
+    and imagines seeing her partly hidden by a tree.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 34727-34751
+  quote_or_summary: Rama asks the imagined Sita to stay, then laments that she may
+    be lost or slain and imagines giants or fiends feeding on and rending her body
+    while he was absent.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: lines 34752-34766
+  quote_or_summary: Rama asks Lakshman whether Sita is in sight, asks where his consort
+    is, and continues searching wood, hill, glade, rock, brook, and cascade for many
+    hours without finding her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is well supported by the supplied passage. Motif assignment
+    to stolen_beloved is cautious because this excerpt contains Rama's fear and search
+    but not the narrated act of abduction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used; long quotations avoided in favor of public-domain summaries.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l34613-l34766
+  passage_sha256=3cc14fc8a1db07ac1b47b0ffcac4ba462e8104f4d6c52c1e03cc9c5fa8882c20
+

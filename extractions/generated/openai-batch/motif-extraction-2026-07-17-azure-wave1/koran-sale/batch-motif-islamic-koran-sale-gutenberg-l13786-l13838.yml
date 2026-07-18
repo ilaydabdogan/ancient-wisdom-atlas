@@ -1,0 +1,534 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l13786-l13838
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER IV. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER V. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 13786-13838
+  start: '13786'
+  end: '13838'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage includes editorial notes on intervals between prophets and
+    Israelite wilderness traditions, then relates the story of the two sons of Adam:
+    their offerings, Cain’s threat, Abel’s refusal to retaliate, Cain’s killing of
+    Abel, and God’s sending of a raven to show how to hide the brother’s shame. It
+    then states a command to the children of Israel equating unjust killing of one
+    soul with killing all mankind and saving one soul with saving all mankind, followed
+    by warnings, punishments, and an exception for repentance.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening notes define an interval between prophets without new revelation
+    and refer to Israelite deliverance, Red Sea division, cloud guidance, quails and
+    manna, giants, Caleb and Joshua, and desert wandering.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrative introduces the two sons of Adam and says that both offered an
+    offering; one offering was accepted and the other was not.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cain says to his brother that he will kill him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Abel answers that God accepts the offering of the pious and says he will not
+    stretch out his hand to kill Cain because he fears God.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Abel says Cain would bear both his own iniquity and Abel’s iniquity and become
+    a companion of hell fire.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Cain’s soul permits him to slay his brother; he kills him and is counted among
+    those who perish.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: God sends a raven that scratches the earth to show Cain how to hide his brother’s
+    shame.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Cain laments that he cannot be like the raven and becomes one of those who
+    repent.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'The passage states a command to the children of Israel: unjustly slaying
+    one soul is as slaying all mankind, and saving one soul is as saving all mankind.'
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage says apostles came with evident miracles, many became transgressors,
+    and those who fight God and his apostle and act corruptly are subject to severe
+    punishment unless they repent before being overcome.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: God accepts offerings, is feared as Lord of all creatures, sends the
+    raven, commands the children of Israel, and is described as forgiving and merciful.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Cain
+  description: Cain’s offering is not accepted; he threatens and kills his brother,
+    sees the raven’s act, laments, and repents.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Abel
+  description: Abel is Cain’s brother; his offering is accepted, he refuses to retaliate,
+    and he is slain by Cain.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: raven
+  description: A raven sent by God scratches the earth to show how Cain should hide
+    his brother’s shame.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: children of Israel
+  description: The children of Israel are the group to whom the command about slaying
+    or saving a soul is addressed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: apostles
+  description: Apostles formerly came with evident miracles.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: those who fight against God and his apostle
+  description: They fight against God and his apostle and study to act corruptly in
+    the earth; specified punishments and an exception for repentance are described.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: divine judge and lawgiver
+  assigned_to:
+  - fig:1
+  basis: God accepts one offering, sends the raven, commands the children of Israel,
+    and is connected with punishment, forgiveness, and mercy.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: rejected offerer and fratricidal brother
+  assigned_to:
+  - fig:2
+  basis: Cain’s offering is not accepted; he threatens and kills his brother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: accepted offerer and non-retaliating victim
+  assigned_to:
+  - fig:3
+  basis: Abel’s offering is accepted; he refuses to kill Cain and is then slain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: divinely sent animal instructor
+  assigned_to:
+  - fig:4
+  basis: God sends the raven, and its scratching of the earth shows Cain how to hide
+    his brother’s shame.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: recipients of divine command
+  assigned_to:
+  - fig:5
+  basis: The command about killing or saving one soul is stated as commanded to the
+    children of Israel.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: miracle-bearing messengers
+  assigned_to:
+  - fig:6
+  basis: The apostles formerly came with evident miracles.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: corrupt adversaries subject to punishment or repentance
+  assigned_to:
+  - fig:7
+  basis: The passage describes punishment for those who fight God and his apostle
+    and act corruptly, with an exception for repentance.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: sibling pair, the two sons of Adam
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage calls the story the history of the two sons of Adam and identifies
+    Cain and Abel as brothers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: accepted and rejected offerings
+  literal_form: offerings offered by the two sons of Adam; accepted from one and not
+    from the other
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  - divine_judgment
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hell fire
+  literal_form: Abel’s phrase that Cain would become a companion of hell fire
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  - divine_judgment
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: raven scratching the earth
+  literal_form: a raven sent by God scratches the earth as an example for Cain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: brother’s shame hidden in the earth
+  literal_form: the shame of Cain’s brother, to be hidden after the raven scratches
+    the earth
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: one soul and all mankind
+  literal_form: one slain or saved soul equated with all mankind in the command to
+    the children of Israel
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: divided Red Sea
+  literal_form: the Red Sea divided in the opening note on Israelite deliverance
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  - departure
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Editorial notes on prophetic interval and wilderness deliverance
+  summary: The opening notes define an interval without new revelation and recall
+    deliverance from Egyptian bondage, the divided Red Sea, cloud guidance, quails
+    and manna, giants, named scouts, and desert wandering.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offerings and Cain’s threat
+  summary: The two sons of Adam offer offerings; one is accepted and the other is
+    not. Cain threatens to kill Abel, and Abel responds that God accepts the pious
+    and that he will not retaliate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fratricide and raven instruction
+  summary: Cain kills Abel. God sends a raven that scratches the earth to show Cain
+    how to hide his brother’s shame; Cain laments and repents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Command about life and punishment for corruption
+  summary: The passage states the command to the children of Israel about slaying
+    or saving a soul, then describes apostles with miracles, later transgression,
+    punishments for those who fight God and his apostle, and the exception for repentance.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Accepted and rejected sibling offerings
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  - divine_judgment
+  - sibling_pair
+  basis: Two brothers offer offerings; one is accepted and the other is not, leading
+    to Cain’s threat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify the material content or ritual details of
+    the offerings.
+- id: motif:2
+  label: Fratricide within a sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  - divine_judgment
+  basis: Cain kills his brother Abel after the offering contrast and threat.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The extraction does not add details from other Cain-and-Abel traditions
+    outside this passage.
+- id: motif:3
+  label: Divinely sent animal teaches concealment or burial practice
+  taxonomy_refs:
+  - wisdom
+  basis: God sends a raven, whose scratching of the earth shows Cain how to hide his
+    brother’s shame.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy has no exact animal-instructor or burial-discovery
+    motif; the closest supported family is wisdom.
+- id: motif:4
+  label: Value of one life equated with all humanity
+  taxonomy_refs:
+  - divine_judgment
+  basis: The command to the children of Israel equates unjustly slaying one soul with
+    slaying all mankind and saving one soul with saving all mankind.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a moral-legal formula in the passage rather than a narrative episode.
+- id: motif:5
+  label: Punishment for corruption tempered by repentance
+  taxonomy_refs:
+  - divine_judgment
+  basis: Severe punishments are named for those who fight God and his apostle and
+    act corruptly, with forgiveness and mercy for those who repent before being overcome.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage is legal and admonitory; no individual repentance episode
+    is narrated in this section except Cain’s remorse.
+- id: motif:6
+  label: Deliverance through divided waters and wilderness guidance
+  taxonomy_refs:
+  - departure
+  basis: The opening note recalls God dividing the Red Sea, guiding by a cloud, and
+    feeding with quails and manna after deliverance from Egyptian bondage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif appears in editorial notes attached to the line range, not
+    in the main Cain-and-Abel narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Cain-and-Abel, or two-sons-of-Adam, fratricide pattern
+    in which one brother kills the other after unequal divine acceptance of offerings.
+  claim_level: same_motif
+  target: Cain-and-Abel / two-sons-of-Adam fratricide pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No external version is quoted or used; the claim is limited to the
+    pattern explicitly narrated here.
+- id: claim:2
+  claim: The offerings function as a sacrifice or sacred-exchange motif because divine
+    acceptance and non-acceptance of offerings precipitate the conflict.
+  claim_level: same_function
+  target: sacrifice and sacred_exchange motif families
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not state what the offerings consisted of or describe
+    the ritual procedure.
+- id: claim:3
+  claim: 'The raven episode functions as an animal-instructor wisdom pattern: a divinely
+    sent animal demonstrates an action that Cain then recognizes as instructive.'
+  claim_level: same_function
+  target: animal instructor / wisdom pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The available taxonomy only supports the broader wisdom category, not
+    a specific raven or burial-instruction motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13786-13805; opening notes f-l within supplied passage
+  quote_or_summary: Notes define al-Fatra and recall deliverance from Egyptian bondage,
+    the divided Red Sea, cloud guidance, quails and manna, giants, Caleb and Joshua,
+    and desert wandering.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13786-13838; CHAPTER V, verse 30 opening
+  quote_or_summary: "“the two sons of Adam... offered their offering... accepted from
+    one... not... the other”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 13786-13838; CHAPTER V, verse 30, Cain and Abel speech
+  quote_or_summary: "“Cain said... I will certainly kill thee... I will not stretch
+    forth my hand against thee”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 13786-13838; CHAPTER V, verse 30, Abel speech
+  quote_or_summary: "“bear my iniquity and thine own... become a companion of hell
+    fire”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 13786-13838; CHAPTER V, verse 30, killing of Abel
+  quote_or_summary: "“his soul suffered him to slay his brother, and he slew him”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 13786-13838; CHAPTER V, verse 30, raven episode
+  quote_or_summary: "“GOD sent a raven, which scratched the earth, to show him how
+    he should hide”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 13786-13838; command to the children of Israel
+  quote_or_summary: "“he who slayeth a soul... as if he had slain all mankind” / “saveth
+    a soul alive”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 13786-13838; closing legal-admonitory section
+  quote_or_summary: Apostles came with evident miracles; many transgressed; those
+    who fight God and his apostle and act corruptly face punishments, except those
+    who repent before being overcome.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The Cain-Abel narrative and legal statements are explicit. Some motif labels,
+    especially the raven as wisdom and the Red Sea note as departure, use broad taxonomy
+    categories and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Opening editorial notes were included as passage evidence but kept distinct from the main Cain-and-Abel narrative.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l13786-l13838
+  passage_sha256=822dddac41f2dbb4dc8308885f9bf3a8a84cebedc901c23e1bbea85338a4c3a7
+

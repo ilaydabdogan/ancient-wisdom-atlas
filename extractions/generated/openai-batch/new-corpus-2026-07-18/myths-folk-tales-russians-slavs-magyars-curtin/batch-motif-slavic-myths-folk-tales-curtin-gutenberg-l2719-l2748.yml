@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.slavic-myths-folk-tales-curtin-gutenberg-l2719-l2748
+source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+passage_locator:
+  label: RUSSIAN MYTHS AND FOLK-TALES. / THE THREE KINGDOMS,--THE COPPER, THE SILVER,
+    AND THE GOLDEN. / IVAN TSAREVICH, THE FIRE-BIRD, AND THE GRAY WOLF. / THE FEATHER
+    OF BRIGHT FINIST THE FALCON.; lines 2719-2748
+  start: '2719'
+  end: '2748'
+  translation: Myths and Folk-tales of the Russians, Western Slavs, and Magyars
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A simpleton asks the Tsar to have the other sons-in-law remove boots, gloves,
+    and shirts, revealing missing toes, fingers, and strips cut from their backs;
+    he produces these as proof and tells the whole story. The Tsar gives him the kingdom
+    and has the deceiving sons-in-law shot. The simpleton then summons a blue-brown
+    cunning bay horse in an open field, passes into one ear and out the other, becomes
+    a hero and beauty, and returns to live with his Tsarevna and gain wealth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tsar orders the other sons-in-law to remove boots, gloves, and shirts
+    after the simpleton prompts him.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The exposed men each have a missing toe, a missing finger, and a strip cut
+    from the back the width of two fingers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The simpleton has the toes, fingers, and back-strips and uses them while telling
+    the whole story.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The Tsar gives the simpleton the whole kingdom.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Tsar has the other sons-in-law shot because they had deceived him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In an open field, the simpleton cries out a summons to the blue-brown, cunning
+    bay horse.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The horse runs to the simpleton, and the ground trembles.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The simpleton creeps into one ear of the horse and out of the other, after
+    which he becomes a hero and a beauty.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The simpleton comes home and begins to live with his Tsarevna and win wealth.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Tsar
+  description: Royal figure who orders the exposures, recognizes the proof, gives
+    the simpleton the kingdom, and has the deceiving sons-in-law shot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the simpleton
+  description: Figure who produces the toes, fingers, and straps, tells the whole
+    story, receives the kingdom, summons the horse, is transformed, and lives with
+    his Tsarevna.
+  role_refs:
+  - role:2
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the other sons-in-law
+  description: Men with missing toes, fingers, and back-strips; the passage says they
+    had deceived the Tsar and were shot.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: blue-brown, cunning bay horse
+  description: Summoned steed that runs to the simpleton, shakes the ground, and enables
+    his transformation when he passes through its ears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: the Tsarevna
+  description: The simpleton’s Tsarevna, with whom he lives after returning home.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal judge and reward-giver
+  assigned_to:
+  - fig:1
+  basis: The Tsar orders the uncovering of evidence, recognizes the affair as true,
+    gives the kingdom, and punishes the deceivers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: vindicated claimant
+  assigned_to:
+  - fig:2
+  basis: The simpleton produces body parts matching the exposed injuries and tells
+    the whole story, after which he is rewarded.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: deceiving rivals
+  assigned_to:
+  - fig:3
+  basis: The other sons-in-law bear the matching injuries and are explicitly said
+    to have deceived the Tsar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: magical steed helper
+  assigned_to:
+  - fig:4
+  basis: The horse appears when summoned and is the means by which the simpleton becomes
+    a hero and beauty.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: transformed hero
+  assigned_to:
+  - fig:2
+  basis: After passing through the horse’s ears, the simpleton becomes a hero and
+    a beauty.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: royal son-in-law or husband
+  assigned_to:
+  - fig:2
+  basis: He is identified in relation to the Tsarevna and returns to live with her.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Tsarevna spouse
+  assigned_to:
+  - fig:5
+  basis: The passage says the simpleton lives with his Tsarevna after returning home.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: body parts as proof
+  literal_form: toes, fingers, and strips cut from the back
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: concealing garments removed for revelation
+  literal_form: boots, gloves, and shirts removed to expose missing body parts and
+    back-strips
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: magical steed transformation passage
+  literal_form: the horse’s ears, entered through one and exited through the other
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: open field summoning place
+  literal_form: open field where the simpleton cries out to summon the horse
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Exposure of concealed injuries
+  summary: At the simpleton’s urging, the Tsar has the other sons-in-law remove boots,
+    gloves, and shirts, revealing injuries that match the toes, fingers, and straps
+    held by the simpleton.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Royal judgment and reward
+  summary: After the simpleton tells the whole story, the Tsar gives him the kingdom
+    and has the deceiving sons-in-law shot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Summoning and transformation by horse
+  summary: The simpleton goes to an open field, summons the blue-brown cunning bay
+    horse, passes through the horse’s ears, and becomes a hero and beauty.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Return to domestic prosperity
+  summary: The transformed simpleton returns home, lives with his Tsarevna, and wins
+    wealth.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: truth proved by matching mutilation tokens
+  taxonomy_refs: []
+  basis: The simpleton produces toes, fingers, and back-strips that correspond to
+    concealed injuries on the other sons-in-law, establishing his account before the
+    Tsar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level motif label; no supplied taxonomy family directly
+    names this recognition-by-token pattern.
+- id: motif:2
+  label: false rivals exposed and punished
+  taxonomy_refs: []
+  basis: The other sons-in-law are revealed as deceivers and are shot by order of
+    the Tsar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage identifies deception and punishment but does not provide a
+    broader comparative frame.
+- id: motif:3
+  label: royal legitimacy through vindication and reward
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the simpleton’s story is confirmed, the Tsar grants him the whole kingdom.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows royal transfer as reward, but does not describe succession
+    law or enthronement ritual.
+- id: motif:4
+  label: transformation through magical animal passage
+  taxonomy_refs:
+  - shapeshifter
+  - initiation
+  basis: The simpleton summons the horse, enters one ear and exits the other, and
+    becomes a hero and beauty.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The transformation is explicit, but the passage does not state that the
+    horse itself shapeshifts or that the action is a formal initiation.
+- id: motif:5
+  label: return with spouse and wealth
+  taxonomy_refs:
+  - return
+  basis: After the judgment and transformation, the simpleton comes home, lives with
+    his Tsarevna, and wins wealth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a return-home ending, but not a detailed journey-return
+    structure within this excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2719-2724
+  quote_or_summary: The Tsar asks for boots to be removed; he sees a missing toe,
+    and the simpleton produces the toes.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2725-2730
+  quote_or_summary: Gloves are removed; the Tsar sees a missing finger, and the simpleton
+    produces the fingers.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2731-2737
+  quote_or_summary: Shirts are removed; each man has a two-finger-width strip cut
+    from his back, and the simpleton produces the straps and tells the whole story.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2738-2741
+  quote_or_summary: The Tsar rewards the simpleton with the whole kingdom and has
+    the other sons-in-law shot because they deceived him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2742-2746
+  quote_or_summary: The simpleton summons the “blue-brown, cunning bay”; the horse
+    runs, the ground trembles, and he passes through the steed’s ears and becomes
+    a hero and beauty.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; short excerpt phrase included.
+- id: ev:6
+  type: summary
+  locator: lines 2747-2748
+  quote_or_summary: The simpleton comes home, lives with his Tsarevna, and wins wealth.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for the supplied passage. Motif labels
+    are candidate-level and should be reviewed, especially taxonomy mappings for transformation
+    and royal legitimacy. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references limited to the available list and applied only as candidate motif mappings.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-myths-folk-tales-curtin-gutenberg__l2719-l2748
+  passage_sha256=5ece5bd204889d11cacc6ff8fd551132e1393955e892a970fe88e02f9af671e4
+

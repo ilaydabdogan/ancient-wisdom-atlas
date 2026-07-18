@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7493-l7528
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 63 / PAGE 65 / PAGE 66 / PAGE 67; lines 7493-7528
+  start: '7493'
+  end: '7528'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage comments on Thurneysen's translation of Emer's lament, lists
+    several lines that the editor considers important, notes Laeg's recurring familiarity
+    with the land of the fairies in the Literary form of the story, contrasts this
+    with the Antiquarian form, and identifies several Ulster heroes and Culann, the
+    Smith of Conor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists selected lines from Emer's lament, including references
+    to Ulster, a Druid lifting a weight, Furbaide, a hound searching through solid
+    earth, the Sid of Train, the hound of the Smith of Conor, and a horseman of the
+    plains.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Laeg is said to have familiarity with the land of the fairies in the first
+    verse of the poem.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the Literary form of the story, Laeg speaks of the land of Labraid as known
+    to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the same description, Labraid recognizes Laeg by his five-folded purple
+    mantle.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The five-folded purple mantle is described as seeming to have been a characteristic
+    fairy gift.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the end of the tale, Laeg seems to be the only one to recognize Manannan.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the Antiquarian form gives no indication that Laeg
+    is familiar with the fairy country.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Furbaide is identified as a son of Conor and as one of the eighteen leaders
+    assembling on the Hill of Slane in the Tain bo Cuailgne.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Smith of Conor is identified as Culann, from whom Cuchulain got his name.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Emer
+  description: Associated with the lament discussed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Laeg
+  description: A figure said to be familiar with the land of the fairies, known to
+    Labraid by a purple mantle, and apparently the only one to recognize Manannan
+    at the end of the tale.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Labraid
+  description: Associated with a land known to Laeg and said to recognize Laeg by
+    his five-folded purple mantle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Manannan
+  description: A figure whom Laeg seems to be the only one to recognize at the end
+    of the tale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Furbaide
+  description: Named in Emer's lament and identified as a son of Conor and one of
+    the eighteen leaders on the Hill of Slane in the Tain bo Cuailgne.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: Conor
+  description: Father of Furbaide and associated with Culann as the Smith of Conor.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Culann
+  description: Identified as the Smith of Conor, from whom Cuchulain got his name.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Cuchulain
+  description: Said to have received his name from Culann.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Druid
+  description: Mentioned in a cited line as one who lifts a weight.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: lament-associated figure
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the poem discussed as Emer's lament.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fairy-country familiar
+  assigned_to:
+  - fig:2
+  basis: Laeg is said to have familiarity with the land of the fairies and to call
+    Labraid's land known to him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recognizer of Manannan
+  assigned_to:
+  - fig:2
+  basis: Laeg seems at the end of the tale to be the only one to recognize Manannan.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recognizer by mantle
+  assigned_to:
+  - fig:3
+  basis: Labraid recognizes Laeg by his five-folded purple mantle.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recognized figure
+  assigned_to:
+  - fig:4
+  basis: Manannan is recognized by Laeg at the end of the tale.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Ulster hero allusion
+  assigned_to:
+  - fig:5
+  basis: Furbaide is named among heroes alluded to and identified as Conor's son and
+    a leader in the Tain bo Cuailgne.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:7
+  label: father and royal associate
+  assigned_to:
+  - fig:6
+  basis: Conor is named as Furbaide's father and as the person associated with the
+    Smith of Conor.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: Smith of Conor
+  assigned_to:
+  - fig:7
+  basis: The passage explicitly identifies the Smith of Conor as Culann.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: name-derived hero
+  assigned_to:
+  - fig:8
+  basis: Cuchulain is said to have got his name from Culann.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: ritual specialist mentioned in lament
+  assigned_to:
+  - fig:9
+  basis: A cited line says a Druid was found to lift the weight.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: land of the fairies
+  literal_form: fairy country / land of the fairies
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: land of Labraid
+  literal_form: land of Labraid
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: five-folded purple mantle
+  literal_form: five-folded purple mantle
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: characteristic fairy gift
+  literal_form: five-folded purple mantle as fairy gift
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hound of the Smith of Conor
+  literal_form: hound associated with the Smith of Conor
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:6
+  label: Hill of Slane
+  literal_form: Hill of Slane
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Selected images from Emer's lament
+  summary: The passage cites lines from Emer's lament involving Ulster, a Druid lifting
+    a weight, Furbaide, a searching hound, the Sid of Train, the hound of the Smith
+    of Conor, and a horseman of the plains.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:9
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Laeg's familiarity with fairy country
+  summary: The note states that Laeg is repeatedly presented in the Literary form
+    as familiar with the land of the fairies, including the land of Labraid.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recognition by purple mantle
+  summary: Labraid recognizes Laeg by a five-folded purple mantle, described as seeming
+    to be a characteristic fairy gift.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Recognition of Manannan and version contrast
+  summary: Laeg appears to be the only one to recognize Manannan at the end of the
+    tale, while the Antiquarian form lacks any indication of Laeg's familiarity with
+    the fairy country.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Ulster hero identifications
+  summary: The passage identifies Furbaide as Conor's son and a leader at the Hill
+    of Slane, and identifies the Smith of Conor as Culann, from whom Cuchulain got
+    his name.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: familiarity with fairy country
+  taxonomy_refs: []
+  basis: Laeg is repeatedly described as familiar with the land of the fairies and
+    with the land of Labraid in the Literary form of the story.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is an editorial note and does not narrate the full episode.
+- id: motif:2
+  label: recognition through an otherworldly gift
+  taxonomy_refs: []
+  basis: Labraid recognizes Laeg by a five-folded purple mantle that is described
+    as seeming to be a characteristic fairy gift.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The mantle's status as a fairy gift is expressed cautiously in the passage
+    with 'seems.'
+- id: motif:3
+  label: single recognizer of an otherworldly figure
+  taxonomy_refs: []
+  basis: Laeg seems to be the only one to recognize Manannan at the end of the tale.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage says 'seems,' and gives no full narrative context for the
+    recognition.
+- id: motif:4
+  label: heroic name derived from smith association
+  taxonomy_refs: []
+  basis: The passage identifies Culann as the Smith of Conor and says that Cuchulain
+    got his name from Culann, in connection with the lament's reference to the hound
+    of the Smith of Conor.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only a brief explanatory identification, not the full
+    naming story.
+comparison_claims:
+- id: claim:1
+  claim: The Literary form presents Laeg as familiar with the fairy country, while
+    the Antiquarian form is said to lack this indication.
+  claim_level: same_motif
+  target: Literary and Antiquarian forms of the story
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a version-level contrast reported by the editor; the supplied
+    passage does not include the full wording of either form.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7493-7509
+  quote_or_summary: The passage cites selected lines from Emer's lament, including
+    references to Ulster, a Druid, Furbaide, a hound searching through earth, the
+    Sid of Train, the hound of the Smith of Conor, and a horseman of the plains.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7510-7516
+  quote_or_summary: The note says Laeg has familiarity with the land of the fairies
+    in the poem and that, in the Literary form, he calls the land of Labraid known
+    to him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7515-7518
+  quote_or_summary: Labraid recognizes Laeg by his five-folded purple mantle, which
+    is described as seeming to be a characteristic fairy gift.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7518-7521
+  quote_or_summary: Laeg seems to be the only one to recognize Manannan at the end
+    of the tale; the Antiquarian form gives no indication of Laeg's familiarity with
+    the fairy country.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7522-7526
+  quote_or_summary: The passage states that most alluded Ulster heroes are well known;
+    Furbaide is Conor's son and one of eighteen leaders who assemble on the Hill of
+    Slane in the Tain bo Cuailgne.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7527-7528
+  quote_or_summary: The Smith of Conor is identified as Culann, from whom Cuchulain
+    got his name.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly editorial commentary, not continuous narrative; motif
+    candidates are therefore based on explicit reported elements and should be human-reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy refs were assigned because the passage supports fairy-country, recognition, and naming motifs more directly than the supplied motif-family labels.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7493-l7528
+  passage_sha256=a8679069ec5b7c0cc4fc7b9d58658154aa3f50dd2cabdf4d2afabd3a2ab32009
+

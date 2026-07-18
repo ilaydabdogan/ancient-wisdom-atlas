@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l474-l564
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: LI. THE HASTY WORD                                            370 / RUSSIAN
+    FOLK-TALES. / CHAPTER I. / INTRODUCTORY.; lines 474-564
+  start: '474'
+  end: '564'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Somewhat like the fortunes of Cinderella have been those of the popular tale
+    itself.
+  summary: The introductory passage compares Cinderella's rise from neglect to honor
+    with the changing status of popular tales. It then summarizes differing scholarly
+    explanations of folk-tale origins, including nature-myth, apologue, primeval wisdom,
+    medieval history, common Indo-European inheritance, and Oriental importation,
+    before stating that the book will examine Russian folk-tales as found rather than
+    decide their ultimate origin.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cinderella is described as a despised and flouted younger sister who sits
+    unnoticed by the hearth, furtively visits glittering halls, and is eventually
+    moved to a place of honor.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage explicitly compares the fortunes of Cinderella with the fortunes
+    of the popular tale.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The popular tale is personified as having dwelt by the hearths of common people,
+    been ignored by social superiors, been classed as nursery stories and old wives'
+    tales, and finally been brought from the peasant's hut into public light and honor.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Scholars are said to hold differing views of the folk-tale's origin, including
+    nature-myth, apologue or parable, primeval wisdom, medieval history, and prehistoric
+    mythic speculation.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The passage presents two broad hypotheses for many European stories: common
+    Aryan or Indo-European inheritance and foreign Oriental importation through translation,
+    travel, religious, military, or imperial contact.'
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: The author states that the discussion will treat the Russian folk-tale as
+    found and examine its characteristics rather than explore its birthplace or original
+    meaning.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Cinderella
+  description: A well-known inhabitant of Fairy-land and popular tales, described
+    here as a despised younger sister who rises from hearth-side neglect to honor.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The popular tale
+  description: The genre is personified as moving from common hearths and peasant
+    huts to scholarly recognition and high honor.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Scholars and critics of folk-tales
+  description: They tend and honor the folk-tale and offer differing theories concerning
+    its origin and meaning.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Possible transmitters in the importation hypothesis
+  description: Pilgrims, merchants, emissaries of heretical sects, Crusaders, Arabs
+    in Spain, and Tartars in old Russia are named as possible agents or contexts for
+    tale transmission into Europe.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: neglected younger heroine
+  assigned_to:
+  - fig:1
+  basis: Cinderella is called the despised and flouted younger sister who sits unnoticed
+    beside the hearth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: restored-to-honor exemplar
+  assigned_to:
+  - fig:1
+  basis: Cinderella is said to move from an obscure nook to the place of honor due
+    to her merits.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: personified neglected genre
+  assigned_to:
+  - fig:2
+  basis: The popular tale is described as dwelling beside common hearths and being
+    ignored or devalued.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Cinderella-like analogue
+  assigned_to:
+  - fig:2
+  basis: The passage says the popular tale's fortunes were somewhat like Cinderella's.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: interpreters and guardians
+  assigned_to:
+  - fig:3
+  basis: Scholars are said to tend the folk-tale, honor it, and debate its origin.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: hypothetical transmission agents
+  assigned_to:
+  - fig:4
+  basis: The passage lists these groups in describing how Oriental fancies might have
+    entered Europe.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hearth
+  literal_form: hearth / hearths
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: pippal trees
+  literal_form: pippal trees of India
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cinderella's rise from neglect
+  summary: Cinderella sits unnoticed beside the hearth, visits splendid halls, and
+    is later moved from obscurity to honor.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The folk-tale's rise in status
+  summary: The popular tale is described as moving from common hearths and peasant
+    huts, through dismissive classification as nursery stories, into public light
+    and scholarly honor.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Scholarly theories of folk-tale origin
+  summary: The passage reports scholarly disagreement over whether folk-tales are
+    nature-myths, apologues, relics of primeval wisdom, traces of medieval history,
+    inherited Indo-European traditions, or imported Oriental narratives.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Declared focus on Russian folk-tales as found
+  summary: The author states an intention to examine Russian folk-tales' principal
+    characteristics rather than decide their birthplace or original meaning.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Despised younger heroine elevated to honor
+  taxonomy_refs: []
+  basis: Cinderella is described as a despised younger sister who moves from hearth-side
+    obscurity to a place of honor.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage mentions this familiar tale pattern as an introductory example,
+    not as a Russian tale narrated in full.
+- id: motif:2
+  label: Neglected hearth-side tale raised to recognition
+  taxonomy_refs: []
+  basis: The popular tale is personified as neglected among common people and later
+    elevated to scholarly and quasi-royal recognition, explicitly by comparison with
+    Cinderella.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an authorial metaphor about folklore's status rather than an independent
+    narrative episode.
+- id: motif:3
+  label: Folk-tale as relic of primeval wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage reports a scholarly view that some folk-tales may be regarded
+    as relics of primeval wisdom traceable to prehistoric myths about the material
+    or spiritual world.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is reported as one interpretive theory among several, not enacted
+    as a narrative motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes an authorial comparison between Cinderella's rise from
+    neglect to honor and the changing status of the popular tale.
+  claim_level: same_function
+  target: Cinderella rise-from-neglect pattern applied to the folk-tale genre
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is metaphorical and does not claim shared origin between
+    individual tales.
+- id: claim:2
+  claim: The passage reports the common-inheritance hypothesis that many European
+    stories were common in germ to Aryan tribes before migration and belong to an
+    Indo-European heirloom.
+  claim_level: common_inheritance
+  target: European Märchen and Indo-European or Indian tale traditions
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs:
+  - ev:6
+  confidence: uncertain
+  limitations: Presented as one of two conflicting hypotheses; the passage does not
+    decide the question.
+- id: claim:3
+  claim: The passage reports a historical-contact hypothesis that many European popular
+    tales are Oriental importations introduced through translations, travelers, religious
+    emissaries, Crusaders, Arabs in Spain, or Tartars in old Russia.
+  claim_level: historical_contact
+  target: European popular tales and Oriental narrative traditions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:5
+  confidence: uncertain
+  limitations: Presented as an alternative hypothesis, not demonstrated for any specific
+    tale in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 486-492
+  quote_or_summary: Cinderella is described as the despised younger sister who sits
+    beside the hearth, visits glittering halls, and is finally transferred from obscurity
+    to honor.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+- id: ev:2
+  type: quote
+  locator: lines 492-493
+  quote_or_summary: '"Somewhat like the fortunes of Cinderella have been those of
+    the popular tale itself."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 493-507
+  quote_or_summary: The popular tale is described as dwelling by common hearths, being
+    ignored or treated as nursery stories and old wives' tales, and later being brought
+    from the peasant's hut into public light and recognized as of royal lineage.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+- id: ev:4
+  type: summary
+  locator: lines 508-524
+  quote_or_summary: Scholars are said to honor the folk-tale while differing about
+    whether it is nature-myth, apologue, primeval wisdom, medieval history, or a trace
+    of prehistoric mythic philosophy.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+- id: ev:5
+  type: quote
+  locator: lines 534-540
+  quote_or_summary: '"were common in germ at least to the Aryan tribes before their
+    migration" and belonged to a "common inheritance."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+- id: ev:6
+  type: summary
+  locator: lines 541-549
+  quote_or_summary: The competing hypothesis treats many European tales as Oriental
+    fancies introduced through translations, pilgrims, merchants, sect emissaries,
+    Crusaders, Arabs in Spain, or Tartars in old Russia.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+- id: ev:7
+  type: quote
+  locator: lines 550-554
+  quote_or_summary: The passage quotes a claim about stories told "with almost the
+    same words" in the Thuringian forest, Norwegian villages, and under the pippal
+    trees of India.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+- id: ev:8
+  type: summary
+  locator: lines 560-564
+  quote_or_summary: The author says the discussion will deal with the Russian folk-tale
+    as found and examine its principal characteristics rather than explore its birthplace
+    or original meaning.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain Project Gutenberg text; source metadata marks full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is introductory and critical rather than a full tale. Literal
+    extraction is strong, while motif candidates are partly metaphorical or reported
+    scholarly theories and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to provided available references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l474-l564
+  passage_sha256=e3f5e4d1f1c8e10e900b9e0d6f8a3485faad066d4acf444bc5e94959cefdc74a
+

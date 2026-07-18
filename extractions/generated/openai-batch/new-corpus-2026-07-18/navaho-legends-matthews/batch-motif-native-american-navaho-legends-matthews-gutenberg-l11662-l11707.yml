@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.native-american-navaho-legends-matthews-gutenberg-l11662-l11707
+source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+passage_locator:
+  label: MALE. / FEMALE. / NAVAHO MUSIC. / BY PROF. JOHN COMFORT FILLMORE.; lines
+    11662-11707
+  start: '11662'
+  end: '11707'
+  translation: Navaho Legends
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a musicological argument that Navaho songs and many
+    other folk-song traditions are organized by simple harmonic lines. It discusses
+    rhythm as preceding tone-production while harmonic perception shapes melody, cites
+    prior publication on Navajo songs, and introduces a slow “Dove Song” with music
+    credited to Christian Barthelmess and transcribed sung syllables.
+  language: English with transcribed Navajo song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The writer states that Navaho music exhibits the harmonic phenomenon under
+    discussion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The writer lists many other folk-song traditions and says they are built on
+    simple harmonic lines, imply harmony, and are intelligible to diverse peoples.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The writer reports having taken down many songs from the lips of native singers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mr. Wallascheck is cited for the view that rhythmic impulse precedes musical
+    tones and that sonant rhythm helps initiate tone-production.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The writer says that once tone-production begins through rhythm, it proceeds
+    according to laws of harmonic perception.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Navaho songs are described as strong corroboration of the harmonic-perception
+    principle, with many said to contain only chord tones.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A note says Navajo poetry and music had already been discussed in The Land
+    of Sunshine, and that the following music, except the Dove Song, was written by
+    Professor Fillmore.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage introduces “273. Dove Song,” marks it slow, credits its music
+    to Christian Barthelmess, and gives transcribed song syllables.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Navahoes / Navaho singers
+  description: Collective people whose songs are analyzed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Professor Fillmore
+  description: Named scholar associated with discussion of Navajo poetry and music
+    and credited with writing the music that follows, except for the Dove Song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mr. Wallascheck
+  description: Cited authority on rhythmic impulse and tone-production.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Christian Barthelmess
+  description: Credited as the musician for the Dove Song.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: source community for analyzed songs
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly refers to Navaho songs as evidence for the musicological
+    argument.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: musicological writer and music contributor
+  assigned_to:
+  - fig:2
+  basis: The note says Professor Fillmore and the author discussed Navajo songs and
+    that Fillmore wrote the following music except the Dove Song.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: cited theorist of rhythmic impulse
+  assigned_to:
+  - fig:3
+  basis: The passage cites Mr. Wallascheck on rhythmic impulse preceding musical tones.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: credited musician for Dove Song
+  assigned_to:
+  - fig:4
+  basis: The Dove Song entry states that its music is by Christian Barthelmess.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Dove
+  literal_form: The title “DOVE SONG.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cross-cultural harmonic comparison
+  summary: The writer compares Navaho songs with many other folk-song traditions and
+    states that they share simple harmonic lines and underlying formative principles.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rhythm and harmonic perception theory
+  summary: The passage presents a sequence in which rhythm initiates tone-production
+    and harmonic perception shapes the resulting melody, with Navaho songs offered
+    as corroboration.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Publication note and Dove Song entry
+  summary: A bibliographic note credits prior discussion and music authorship, then
+    the passage introduces the slow Dove Song with transcribed sung syllables.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Harmonic shaping of folk melody
+  taxonomy_refs: []
+  basis: The passage repeatedly states that Navaho and other folk songs are built
+    on simple harmonic lines and shaped by harmonic perception.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a musicological pattern, not a narrative myth motif; no mythic
+    episode is present in this passage.
+- id: motif:2
+  label: Rhythmic impulse initiating song
+  taxonomy_refs: []
+  basis: The passage says rhythmic impulse precedes musical tones and starts tone-production
+    before harmonic perception shapes melody.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an analytical account of musical formation, not a symbolic or
+    narrative motif.
+- id: motif:3
+  label: 'Animal-named song: Dove Song'
+  taxonomy_refs: []
+  basis: The section title identifies a “Dove Song” and provides its musical marking
+    and transcribed syllables.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no translation or narrative explanation of the dove
+    image, so symbolic interpretation is not supported here.
+comparison_claims:
+- id: claim:1
+  claim: The passage claims that Navaho songs and numerous other folk-song traditions
+    share simple harmonic lines and underlying formative principles.
+  claim_level: same_function
+  target: Omaha, Kwakiutl, Otoe, Pawnee, Sioux, Winnebago, Iroquois, Mexican Indian,
+    Zuñi, Australian, African, Malay, Chinese, Japanese, Hindoo, Arab, Turkish, and
+    European folk-songs
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This records the passage’s own musicological comparison; the excerpt
+    does not provide musical notation or independent verification for each tradition
+    listed.
+- id: claim:2
+  claim: 'The passage claims that Navaho songs corroborate a principle the writer
+    had earlier reached from Omaha music: rhythm initiates tone-production and harmonic
+    perception shapes melody.'
+  claim_level: same_function
+  target: Omaha music and Navaho songs
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns musical structure, not mythic narrative content;
+    the excerpt does not include the underlying Omaha examples.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11662-11672
+  quote_or_summary: The writer says Navaho music exhibits the discussed chordal feature
+    and compares it with many folk-song traditions, stating that all are built on
+    simple harmonic lines, imply harmony, and reflect the same underlying formative
+    principles.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: 11673-11689
+  quote_or_summary: Mr. Wallascheck is cited on rhythmic impulse preceding tones;
+    the writer argues that rhythm starts tone-production, harmonic perception guides
+    it, and Navaho songs strongly corroborate this because many contain only chord
+    tones.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: 11690-11696
+  quote_or_summary: A bracketed note cites The Land of Sunshine articles titled “Songs
+    of the Navajos” and says all following music except the Dove Song was written
+    by Professor Fillmore.
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:4
+  type: quote
+  locator: 11698-11707
+  quote_or_summary: "“273. DOVE SONG.” The entry says “Music by Christian Barthelmess,”
+    marks the song “Slow,” and gives transcribed syllables beginning “Wos wos nai-di-la
+    a a.”"
+  source_text_path: texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md
+  rights_note: Public domain; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif candidates and comparisons are
+    musicological rather than narrative-mythic, so they should be reviewed for atlas
+    inclusion criteria.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; the dove appears only as a song title in this excerpt.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-navaho-legends-matthews-gutenberg__l11662-l11707
+  passage_sha256=716e21d3fe2594ff5677367572cff9620668700fdac2368aa02c4f956b3ea008
+

@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l1230-l1236
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Chapter 12 / Chapter 13 / Footnotes / Chapter 14; lines 1230-1236
+  start: '1230'
+  end: '1236'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: But they presumed to go up to the top of the mountain.
+  summary: A warning says not to go up because Yahweh is not with the people and enemies
+    are ahead. The people nevertheless go up the mountain while Moses and the ark
+    of Yahweh’s covenant remain in camp. Amalekites and Canaanites then come down
+    and defeat them as far as Hormah.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A warning tells the addressed group not to go up because Yahweh is not among
+    them and they would be struck down before enemies.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The warning names Amalekites and Canaanites as being before the addressed
+    group and says they will fall by the sword because they turned back from following
+    Yahweh.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The group presumed to go up to the top of the mountain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ark of Yahweh’s covenant and Moses did not depart from the camp.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Amalekites and Canaanites associated with the mountain came down, struck the
+    group, and beat them down as far as Hormah.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yahweh
+  description: Named as not being among the addressed group and as not being with
+    them; the ark is called the ark of Yahweh’s covenant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Addressed group / those who went up
+  description: The group warned not to go up, said to have turned back from following
+    Yahweh, and later described as presuming to go up the mountain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Amalekites
+  description: Named as enemies before the addressed group and later as attackers
+    who came down and struck them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Canaanites
+  description: Named as enemies before the addressed group; Canaanites living in the
+    mountain are described as coming down and striking them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Moses
+  description: Moses is said not to have departed from the camp when the group went
+    up the mountain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: absent divine ally
+  assigned_to:
+  - fig:1
+  basis: The speech states that Yahweh is not among the group and will not be with
+    them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: warned mountain-climbers
+  assigned_to:
+  - fig:2
+  basis: The group is warned not to go up but nevertheless presumes to go to the top
+    of the mountain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: enemy attackers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Amalekites and Canaanites are named as enemies before the group and later
+    strike and beat them down.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: leader remaining in camp
+  assigned_to:
+  - fig:5
+  basis: Moses is explicitly said not to have departed from the camp.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: The top of the mountain to which the group goes up; Canaanites are
+    described as living in that mountain.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: ark of Yahweh’s covenant
+  literal_form: The ark of Yahweh’s covenant remains in the camp and does not accompany
+    the group up the mountain.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sword
+  literal_form: The warning says the group will fall by the sword.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: camp
+  literal_form: The camp from which Moses and the ark of Yahweh’s covenant do not
+    depart.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: warning against going up
+  summary: The addressed group is warned not to go up because Yahweh is not among
+    them, enemies are before them, and they will fall by the sword after turning back
+    from following Yahweh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: presumed ascent without Moses and the ark
+  summary: The group presumes to go up to the top of the mountain, while Moses and
+    the ark of Yahweh’s covenant remain in the camp.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: defeat by mountain enemies
+  summary: Amalekites and Canaanites associated with the mountain come down, strike
+    the group, and beat them down as far as Hormah.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: presumptuous ascent to a mountain
+  taxonomy_refs:
+  - ascent
+  basis: The group is warned not to go up, but they presume to go to the top of the
+    mountain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The ascent is a military movement in the narrative; the passage does not
+    frame it as mystical or cosmological ascent.
+- id: motif:2
+  label: defeat after loss of divine presence
+  taxonomy_refs:
+  - divine_judgment
+  basis: The warning links impending defeat to Yahweh not being with the group and
+    to their having turned back from following Yahweh; the enemies then defeat them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage states that enemies strike the group; it does not explicitly
+    say Yahweh directly strikes them.
+- id: motif:3
+  label: covenant object not accompanying the people
+  taxonomy_refs:
+  - covenant
+  basis: When the group goes up the mountain, the ark of Yahweh’s covenant remains
+    in the camp with Moses.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage notes the ark’s non-departure but does not further explain
+    its ritual or symbolic function here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Numbers 14:42; lines 1230-1231
+  quote_or_summary: "“Don’t go up, for Yahweh isn’t among you; that way you won’t
+    be struck down before your enemies.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source text; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: Numbers 14:43; lines 1232-1233
+  quote_or_summary: The speech says Amalekites and Canaanites are before the group,
+    that they will fall by the sword because they turned back from following Yahweh,
+    and that Yahweh will not be with them.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: Numbers 14:44; lines 1234-1235
+  quote_or_summary: The group presumes to go up to the top of the mountain, but the
+    ark of Yahweh’s covenant and Moses do not depart from the camp.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: Numbers 14:45; line 1236
+  quote_or_summary: Amalekites and Canaanites who lived in the mountain come down,
+    strike the group, and beat them down as far as Hormah.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif labels are conservative
+    and limited to available taxonomy references supported by the passage. No comparison
+    claims are made because the passage itself provides no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata; no external context added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l1230-l1236
+  passage_sha256=4b054150d394633148c07cef1803b9281117d5c693648111340bced3a1c00a97
+

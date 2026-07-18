@@ -1,0 +1,500 @@
+---
+record_id: batch.motif.egyptian-book-of-the-dead-budge-gutenberg-l742-l789
+source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+passage_locator:
+  label: CHAPTER IV / CHAPTER V / CHAPTER VI / CHAPTER VII; lines 742-789
+  start: '742'
+  end: '789'
+  translation: The Book of the Dead
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Thoth announces that the heart of the deceased Ani has been weighed and
+    found true. The Great Company of the Gods confirms the verdict, denies Amemit
+    mastery over him, and grants offerings and a dwelling in the Field of Offerings.
+    The narrator explains the title “true of voice” and the identification of the
+    deceased as Osiris. Horus leads Ani before Osiris, where Ani denies sin and asks
+    to join the favored ones; under Osiris’s favor he becomes a sahu, or spirit-body,
+    and enters the Kingdom of Osiris.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thoth states before the gods that the heart of Osiris has been weighed, that
+    his soul has testified, and that his case is true according to the Great Balance.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thoth states that no wickedness was found in the deceased, including no theft
+    of temple offerings, crooked action, or vilification of people while on earth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Great Company of the Gods confirms Thoth’s truthful verdict and identifies
+    the scribe Ani as true of voice.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gods declare that Amemit, the Eater of the Dead, shall not have mastery
+    over Ani.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The gods grant Ani offerings, an appearance before Osiris, and an abiding
+    homestead in the Field of Offerings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage explains that the deceased is called Osiris and that “true of
+    voice” means innocent and acquitted.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that Ani’s heart exactly counterbalanced Truth and that
+    the beam of the Great Balance remained horizontal.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Ani passes from the Great Balance to the end of the Hall of Maati, where Osiris
+    is seated.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Horus, son of Isis, takes Ani by the hand, leads him before Osiris, and speaks
+    on Ani’s behalf.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Horus states that Ani’s heart is righteous, that it has come forth from the
+    Balance, and that Thoth has written the judgment.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Ani kneels in adoration before Osiris, denies sin, lying, and duplicity, and
+    asks to be like the favored ones in Osiris’s train.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Under Osiris’s favor, Ani becomes a sahu, or spirit-body, and passes into
+    the Kingdom of Osiris.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thoth
+  description: Judge of Truth among the Great Company of the Gods, dwelling in Khemenu;
+    he announces and writes the verdict.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Great Company of the Gods
+  description: The divine assembly in the presence of Osiris that confirms Thoth’s
+    verdict and grants Ani afterlife privileges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Osiris / Un-Nefer
+  description: The god seated at the end of the Hall of Maati; Ani appears before
+    him and receives favor under which he becomes a spirit-body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Ani
+  description: The deceased scribe called Osiris Ani, declared true of voice, led
+    before Osiris, and transformed into a sahu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Amemit
+  description: The Eater of the Dead, named as not having mastery over Ani after the
+    verdict.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Horus, son of Isis
+  description: He takes Ani by the hand, leads him to Osiris, and presents Ani’s righteous
+    judgment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine judge and recorder of judgment
+  assigned_to:
+  - fig:1
+  basis: Thoth declares the weighing verdict and is said to have set down the judgment
+    in writing.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: divine confirming assembly
+  assigned_to:
+  - fig:2
+  basis: The gods confirm Thoth’s words, declare Ani true of voice, and grant afterlife
+    benefits.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: enthroned afterlife lord
+  assigned_to:
+  - fig:3
+  basis: Osiris is seated in the Hall of Maati, receives Ani, and under his favor
+    Ani enters the Kingdom of Osiris.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: vindicated deceased
+  assigned_to:
+  - fig:4
+  basis: Ani is declared true of voice, passes from the Balance to Osiris, denies
+    sin, and becomes a spirit-body.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:5
+  label: thwarted eater of the dead
+  assigned_to:
+  - fig:5
+  basis: The gods state that Amemit shall not have mastery over Ani.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: divine escort and presenter
+  assigned_to:
+  - fig:6
+  basis: Horus takes Ani by the hand, leads him forward, and presents his righteous
+    heart to Osiris.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Great Balance
+  literal_form: The balance on which Ani’s heart is weighed and found to counterbalance
+    Truth.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: heart
+  literal_form: Ani’s heart, weighed in the Balance and described as righteous.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Truth
+  literal_form: The measure or counterweight against which Ani’s heart is weighed.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: offerings of food, bread, and beer
+  literal_form: Food offerings, including bread and beer, granted to Ani before Osiris.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: Field of Offerings
+  literal_form: The afterlife place where Ani is granted an abiding homestead.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Hall of Maati
+  literal_form: The hall through which Ani passes to reach the seated Osiris.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: sahu
+  literal_form: The spirit-body form into which Ani becomes under the favor of Osiris.
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Kingdom of Osiris
+  literal_form: The realm into which Ani passes after becoming a sahu.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Thoth announces the weighing verdict
+  summary: Thoth tells the gods that Ani’s heart has been weighed, his soul has testified,
+    and no wrongdoing has been found.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The gods confirm Ani’s acquittal
+  summary: The Great Company of the Gods confirms Thoth’s verdict, declares Ani true
+    of voice, denies Amemit mastery over him, and grants offerings and a dwelling
+    in the Field of Offerings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Narrator explains true of voice and the balanced heart
+  summary: The passage explains that the deceased is called Osiris, that true of voice
+    means innocent and acquitted, and that Ani’s heart exactly counterbalanced Truth.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Horus leads Ani before Osiris
+  summary: Ani moves from the Great Balance to the Hall of Maati; Horus takes him
+    by the hand, presents him to Osiris, and asks that he receive bread and beer and
+    be like the Followers of Horus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Ani adores Osiris and enters the Kingdom
+  summary: Ani kneels before Osiris, denies sin and falsehood, asks to be among the
+    favored ones, becomes a sahu, and enters the Kingdom of Osiris.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: judgment of the dead by divine weighing
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage centers on the weighing of Ani’s heart, Thoth’s verdict, divine
+    confirmation, and the declaration that Ani is true of voice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents an Egyptian afterlife judgment scene; no broader
+    cross-cultural link is asserted here.
+- id: motif:2
+  label: afterlife passage into a blessed realm
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Ani moves from the Great Balance through the Hall of Maati to Osiris, receives
+    offerings and a homestead in the Field of Offerings, and passes into the Kingdom
+    of Osiris.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The extracted motif is limited to the stages named in this passage.
+- id: motif:3
+  label: post-judgment transformation into spirit-body
+  taxonomy_refs:
+  - resurrection
+  basis: After acquittal and favor from Osiris, Ani becomes a sahu, or spirit-body,
+    and enters Osiris’s kingdom; the passage also speaks of immortality bestowed on
+    one who has done no evil.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage names transformation into a spirit-body and immortality, but
+    does not describe bodily resurrection in detail.
+- id: motif:4
+  label: divine escort before the afterlife ruler
+  taxonomy_refs: []
+  basis: Horus takes Ani by the hand, leads him forward, and presents his righteous
+    judgment before Osiris.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No external motif-family taxonomy reference is assigned.
+- id: motif:5
+  label: negative declaration of innocence
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ani’s innocence is expressed through denials of wickedness, theft, crooked
+    action, vilification, sin, lying, and duplicity.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: This is treated as part of the judgment complex rather than a separate
+    taxonomy family.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly assimilates Ani to Osiris by calling the deceased
+    “Osiris” and explaining that Ani resembled the god in purity of word and deed.
+  claim_level: same_function
+  target: Osiris-identification of the deceased within this Book of the Dead passage
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal textual identification in the passage, not evidence
+    for historical contact or comparison outside the Egyptian corpus.
+- id: claim:2
+  claim: The passage compares Ani’s desired and granted afterlife status to that of
+    the Followers of Horus.
+  claim_level: same_function
+  target: Followers of Horus as a model for blessed afterlife status
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives the comparison as a desired status; it does not define
+    the Followers of Horus in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 742-748
+  quote_or_summary: Thoth, Judge of Truth, tells the gods that the heart has been
+    weighed, the soul has testified, the case is true, and no wickedness or earthly
+    wrongdoing has been found.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 749-758
+  quote_or_summary: The Great Company of the Gods confirms Thoth’s truthful words,
+    declares Osiris Ani true of voice, states that Amemit shall not have mastery over
+    him, and grants food offerings, appearance before Osiris, and a homestead in the
+    Field of Offerings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 759-772
+  quote_or_summary: The narrator explains that Ani is declared true of voice like
+    Osiris; the deceased is called Osiris; true of voice means innocent and acquitted;
+    Ani’s heart counterbalanced Truth with the Balance beam horizontal; immortality
+    is bestowed on one judged to have done no evil.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 773-782
+  quote_or_summary: Ani passes from the Great Balance to the end of the Hall of Maati,
+    where Osiris is seated; Horus takes him by the hand, presents him to Osiris, states
+    that his heart is righteous and judgment written by Thoth, and asks for bread
+    and beer before Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 783-789
+  quote_or_summary: Ani kneels in adoration before Osiris, denies sin, knowing lies,
+    and duplicity, asks to be like the favored ones in Osiris’s train, becomes a sahu
+    or spirit-body, and passes into the Kingdom of Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage directly names the figures,
+    actions, and afterlife stages. Motif taxonomy assignments are cautious, especially
+    the use of “resurrection” for sahu transformation and immortality.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Available symbol taxonomy terms were not applied because none of the listed symbol refs are directly present in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:egyptian-book-of-the-dead-budge-gutenberg__l742-l789
+  passage_sha256=f1623d67c5492b839a9eb2716a1e0403a8056299d0e3198e580d7ee4292314ef
+

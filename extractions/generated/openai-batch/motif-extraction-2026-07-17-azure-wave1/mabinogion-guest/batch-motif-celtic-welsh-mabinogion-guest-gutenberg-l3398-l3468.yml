@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l3398-l3468
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC / GERAINT
+    THE SON OF ERBIN; lines 3398-3468
+  start: '3398'
+  end: '3468'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Geraint and Enid travel across a plain toward a vast wood. Five armed horsemen
+    plan to seize their horses, arms, and Enid; Enid warns Geraint despite his command
+    of silence, and Geraint defeats the horsemen. He burdens Enid with the captured
+    horses and armour. Night overtakes them near the wood; Geraint sleeps in his armour
+    while Enid watches the horses. At dawn they travel through open country by meadows
+    and a river, then meet a youth from a city who offers Geraint bread, meat, and
+    wine intended for mowers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Geraint commands Enid to remain silent even though she says she may hear threatening
+    words from people in the wilderness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Geraint and Enid travel from a copse-wood across a vast, dreary open plain
+    toward a very large wood.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Five armed horsemen emerge from the wood and discuss taking the horses, arms,
+    and the lady from the single knight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Enid is distressed by the horsemen's words and turns back to warn Geraint.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Geraint rebukes Enid for doing what he forbade her to do.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Geraint overcomes all five horsemen, places five suits of armour on saddles,
+    ties the reins of twelve horses together, and gives them into Enid's charge.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Night overtakes Geraint and Enid at the deep, vast wood; Geraint says they
+    should stop and wait for day.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Geraint sleeps in his armour and orders Enid to watch the horses and not sleep.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: At dawn they leave the wood for open country with meadows, mowers, and a river
+    where the horses drink.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: They meet a slender youth with a satchel, a small blue pitcher, and a bowl;
+    he says he comes from the city ahead.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The youth offers Geraint a breakfast of bread, meat, and wine that had been
+    sent for the mowers, and Geraint accepts.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Geraint
+  description: A knight addressed as lord; he commands Enid's silence, defeats five
+    armed horsemen, sleeps in armour, and accepts food from the youth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Enid / the maiden / the lady
+  description: Geraint's female companion; she rides ahead with the horses, hears
+    the raiders' threat, warns Geraint, manages captured horses, and keeps watch while
+    he sleeps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Five armed horsemen
+  description: Five eager, bold, strong horsemen mounted on armed chargers; they plan
+    to seize horses, arms, and Enid, and are defeated by Geraint.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Slender stripling / youth from the city
+  description: A youth met beyond the river, carrying a satchel, a small blue pitcher,
+    and a bowl; he offers Geraint the mowers' breakfast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Mowers
+  description: People mowing the meadows in the open country; the breakfast carried
+    by the youth was sent for them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:9
+roles:
+- id: role:1
+  label: commanding warrior-knight
+  assigned_to:
+  - fig:1
+  basis: Geraint gives commands, rebukes Enid for speaking, defeats five armed attackers,
+    and directs the movement and rest of the journey.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: warned and burdened companion
+  assigned_to:
+  - fig:2
+  basis: Enid warns Geraint of the raiders despite his command and is then given charge
+    of the captured horses and armour; she also watches while he sleeps.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: would-be raiders
+  assigned_to:
+  - fig:3
+  basis: The five horsemen plan to take the travelers' horses, arms, and lady from
+    the single knight.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: provision-offering youth
+  assigned_to:
+  - fig:4
+  basis: The youth carries food and drink and offers Geraint bread, meat, and wine
+    after learning he had lacked provisions.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:5
+  label: field laborers and intended recipients of food
+  assigned_to:
+  - fig:5
+  basis: The mowers are working in the meadows, and the breakfast offered to Geraint
+    had been sent for them.
+  evidence_refs:
+  - ev:7
+  - ev:9
+symbols:
+- id: sym:1
+  label: vast wood and wilderness
+  literal_form: A copse-wood, a vast dreary plain, and a deep, vast wood with no visible
+    end or boundary on most sides.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: horses, arms, and captured equipment
+  literal_form: Horses, chargers, arms, five suits of armour, saddles, and tied reins
+    of twelve horses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: river water
+  literal_form: A river before the travelers, where the horses bend down and drink
+    the water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: blue pitcher, bowl, and satchel
+  literal_form: A satchel around the youth's neck, a small blue pitcher in his hand,
+    and a bowl on the mouth of the pitcher.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: bread, meat, and wine
+  literal_form: Breakfast sent for the mowers, described as bread, meat, and wine.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Journey under command of silence
+  summary: Geraint tells Enid to keep silent, and the pair travel onward from a copse-wood
+    across a dreary plain toward a vast wood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Threat from five horsemen and Geraint's victory
+  summary: Five armed horsemen emerge from the wood and plan to seize the travelers'
+    goods and Enid. Enid warns Geraint; he rebukes her but then defeats all five and
+    gathers their equipment and horses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Night halt and vigil
+  summary: At night by the deep wood, Geraint stops the journey, sleeps in his armour,
+    and orders Enid to remain awake watching the horses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Morning river crossing and offered meal
+  summary: At dawn the travelers leave the wood, pass meadows and a river, meet a
+    youth from the city carrying vessels, and accept his offer of bread, meat, and
+    wine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Companion warned to be silent but compelled to warn of danger
+  taxonomy_refs: []
+  basis: Geraint forbids Enid to speak; after overhearing the armed horsemen's threat,
+    she warns him despite the command and is rebuked.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state that Enid's warning is necessary for Geraint's
+    victory.
+- id: motif:2
+  label: Single knight defeats multiple would-be raiders
+  taxonomy_refs: []
+  basis: Five armed horsemen plan to take the travelers' horses, arms, and lady, but
+    Geraint overcomes all five.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a chivalric combat pattern in the passage; no supernatural element
+    is stated.
+- id: motif:3
+  label: Captured spoils become a burden for the companion
+  taxonomy_refs: []
+  basis: After defeating the horsemen, Geraint loads five suits of armour onto saddles,
+    ties together twelve horses, and gives them into Enid's charge.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage shows the burden literally but does not explicitly interpret
+    it as a trial.
+- id: motif:4
+  label: Night vigil while the armed hero sleeps
+  taxonomy_refs: []
+  basis: Geraint sleeps in his armour and orders Enid to watch the horses and not
+    sleep during the night halt.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The vigil is described practically; broader ritual or initiatory significance
+    is not stated.
+- id: motif:5
+  label: Provision-bearer offers food after wilderness deprivation
+  taxonomy_refs: []
+  basis: A youth with a satchel, pitcher, and bowl observes that Geraint lacked meat
+    and drink overnight and offers him bread, meat, and wine.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The food is ordinary breakfast sent for mowers; the passage does not identify
+    the exchange as sacred or magical.
+- id: motif:6
+  label: Movement from wilderness danger to cultivated land and water
+  taxonomy_refs: []
+  basis: The travelers move from a dreary plain and deep wood, where danger and night
+    occur, into open country with meadows, mowers, and a river.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a spatial transition in the passage; no explicit cosmological
+    geography is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3398-3403
+  quote_or_summary: Geraint tells Enid that he wants silence; she says she may hear
+    fierce threatening words from strange people in the wilderness, but he orders
+    her to hold her peace.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 3404-3410
+  quote_or_summary: Enid goes forward with the horses; the travelers pass from the
+    copse-wood over a vast dreary plain and see a large wood with no visible end or
+    boundary except the nearer side.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 3410-3417
+  quote_or_summary: Five well-armed horsemen on powerful chargers come from the wood
+    and say they can easily take the horses, arms, and lady from the single doleful
+    knight.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 3418-3427
+  quote_or_summary: Enid is grieved by the horsemen's speech, warns Geraint, and is
+    met with his angry rebuke that she is doing what he forbade.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 3427-3433
+  quote_or_summary: Geraint defeats all five men, puts their five suits of armour
+    on saddles, ties the reins of twelve horses together, and gives them into Enid's
+    charge.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 3433-3450
+  quote_or_summary: They reach the deep, vast wood and night overtakes them; Geraint
+    decides to halt, sleeps in his armour from weariness, and orders Enid to watch
+    the horses without sleeping until dawn.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 3450-3457
+  quote_or_summary: At dawn Geraint sends Enid ahead with the horses; they leave the
+    wood, come to open country with meadows and mowers, and the horses drink from
+    a river before ascending a steep bank.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 3457-3462
+  quote_or_summary: Beyond the river they meet a slender youth with a satchel around
+    his neck, something inside it, a small blue pitcher, and a bowl; he says he comes
+    from the city ahead.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: lines 3462-3468
+  quote_or_summary: 'The youth says Geraint had neither meat nor drink the night before
+    and offers him the breakfast sent for the mowers: bread, meat, and wine; Geraint
+    accepts and blesses him.'
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to directly observable narrative patterns; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make or clearly support an explicit cross-textual comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l3398-l3468
+  passage_sha256=cd1e7c15cb093811475cae6c4a8d11db2b3482736fb13db33265a8a552242bfb
+

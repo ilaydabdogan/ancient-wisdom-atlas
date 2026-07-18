@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l22658-l22694
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: COMMAND XII. / SIMILITUDE I. / SIMILITUDE II. / SIMILITUDE III.; lines 22658-22694
+  start: '22658'
+  end: '22694'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The speaker presents a similitude: leafless trees in winter all appear
+    dry and alike, so in the present world the righteous and wicked cannot be distinguished
+    from one another.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a comparison between great trees in winter and the
+    inability to distinguish righteous people from wicked people in the present world.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator is shown many trees whose leaves have been shed and which seem
+    withered and alike.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The interpreting speaker asks whether the narrator sees the trees, and the
+    narrator answers that they look like dry trees.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The interpreting speaker says the trees are like the men who live in the present
+    world.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The interpreting speaker says the righteous and unrighteous are not known
+    from one another, but are all alike in the present world.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The present world is described as winter to righteous men because they are
+    not known and dwell among sinners.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In winter, trees without leaves cannot be discerned as dry or green; this
+    is restated as an analogy for righteous and wicked people not being discerned
+    from each other.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: narrator or vision recipient
+  description: The first-person speaker who is shown the trees and replies to the
+    interpreting speaker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: interpreting speaker addressed as Sir
+  description: An unnamed speaker who shows the trees, asks about them, and explains
+    their similitude.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: righteous men
+  description: People described as righteous, not known in the present world, and
+    dwelling among sinners.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: wicked, unrighteous, or sinners
+  description: People contrasted with the righteous and described as wicked, unrighteous,
+    or sinners in the present world.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: vision recipient and questioner
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker is shown trees, answers what he sees, and asks why
+    the trees are like dried trees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: teacher or interpreter of the similitude
+  assigned_to:
+  - fig:2
+  basis: The speaker shows the trees and explains their meaning as a similitude for
+    people in the present world.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: righteous but presently indistinguishable
+  assigned_to:
+  - fig:3
+  basis: The righteous are said not to be known from the unrighteous in the present
+    world.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: unrighteous or wicked contrasted with the righteous
+  assigned_to:
+  - fig:4
+  basis: The wicked and unrighteous are named as the counterpart group from whom the
+    righteous cannot presently be discerned.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: winter trees
+  literal_form: leafless trees in winter that appear dry and alike
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: winter
+  literal_form: winter season
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: dry and green trees indistinguishable
+  literal_form: trees without leaves whose dry or green state cannot be discerned
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: present world as winter
+  literal_form: the present world compared to winter
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Vision of alike leafless trees
+  summary: The narrator is shown many trees without leaves; they seem withered, dry,
+    and alike.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Interpretation of the winter-tree similitude
+  summary: The interpreting speaker explains that leafless trees in winter represent
+    people in the present world, where righteous and wicked people are not discerned
+    from each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Righteous and wicked indistinguishable in the present world
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly contrasts righteous and wicked or unrighteous people
+    while saying they cannot presently be discerned from each other.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe a later judgment, separation, or revelation
+    of identities within this excerpt.
+- id: motif:2
+  label: Winter tree similitude for hidden moral condition
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Leafless trees in winter, all appearing dry, are used to explain how righteous
+    and wicked people appear alike in the present world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Only winter is developed in the passage; no full seasonal cycle or renewal
+    sequence is stated.
+- id: motif:3
+  label: Instruction through interpreted vision or similitude
+  taxonomy_refs:
+  - wisdom
+  basis: An interpreting speaker shows the narrator trees and explains their meaning
+    as a moral similitude.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt presents teaching through analogy, but it does not name wisdom
+    as an abstract figure or doctrine.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the winter-tree image functions as an analogy for a seasonal-state
+    pattern in which outward appearance conceals an inner distinction.
+  claim_level: same_function
+  target: seasonal_cycle motif family, limited to winter imagery
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses winter imagery only; it does not narrate spring, renewal,
+    or a complete seasonal cycle.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22658-22662
+  quote_or_summary: 'Heading-level similitude: great trees in winter cannot be distinguished
+    from dry trees, just as the righteous cannot be distinguished from the wicked
+    in the present world.'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 22664-22672
+  quote_or_summary: '"he showed me many trees whose leaves were shed" and they "look
+    like dry trees."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 22674-22682
+  quote_or_summary: The speaker explains that the trees are like men living in the
+    present world, where the righteous and unrighteous are not known from one another
+    and all are alike.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 22684-22687
+  quote_or_summary: '"this world is as the winter to the righteous men" because they
+    are not known and dwell among sinners.'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 22689-22694
+  quote_or_summary: In winter, leafless trees look alike so that dry and green cannot
+    be discerned; likewise, in the present world righteous and wicked people are not
+    discerned from each other.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal content is clear and repetitive. Motif classification is cautious
+    because the excerpt is an explicit moral similitude rather than a full mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons or taxonomy identifiers beyond the supplied available taxonomy references were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l22658-l22694
+  passage_sha256=61163b1f08673dcddc0fc477a71b2f6035a385c65e103b7f7f92b881a5c56fbf
+

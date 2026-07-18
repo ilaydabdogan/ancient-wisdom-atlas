@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.hindu-yoga-sutras-johnston-gutenberg-l1008-l1123
+source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+passage_locator:
+  label: INTRODUCTION TO BOOK I / BOOK I / INTRODUCTION TO BOOK II / BOOK II; lines
+    1008-1123
+  start: '1008'
+  end: '1123'
+  translation: 'The Yoga Sutras of Patanjali: The Book of the Spiritual Man'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the psychic self as miserable because desire, fear,
+    birth, death, and repeated mental impressions perpetuate dissatisfaction. It states
+    that pain should be prevented by cutting the root of absorption in the psychical
+    self. The cause of bondage is the association of the Seer with things seen; things
+    seen consist of qualities and layers that provide experience and prepare liberation.
+    The Seer is pure vision but looks through the mind. When unwisdom and this association
+    end, the Seer attains pure being and great liberation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The psychic self is described as miserable because it waxes and wanes, birth
+    entails death, expectation is shadowed by fear, and restlessness prevents satisfaction.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Desire is compared to fire that is not quenched by oil; the satisfaction of
+    desire is said to seed renewed desire.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that pain should be warded off before it arrives, by cutting
+    the root of absorption in the psychical self and fixing the heart on the eternal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cause of what must be warded off is identified as the Seer’s absorption
+    in things seen; the cure is named liberation.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Things seen are said to have manifestation, action, and inertia as properties,
+    to form the basis of elements and sense-powers, and to make for experience and
+    liberation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The Three Potencies are described as having grades or layers: defined, undefined,
+    with distinctive mark, and without distinctive mark.'
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Seer is described as pure vision, yet as looking through the vesture of
+    the mind while enfolded and enmeshed by the psychical man.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Things seen are said to exist for the Seer, while disaster comes when the
+    psychical man attempts to live on his own account.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: For one who reaches the goal, things seen are said to have fallen away, but
+    they continue for others who remain under illusion.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The association of the Seer with things seen is said to produce realization
+    of both the nature of things seen and the nature of the Seer; life is described
+    as educative across many lives.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The cause of the association is identified as the darkness of unwisdom, and
+    ending this darkness is identified as great liberation and the Seer’s attainment
+    of pure being.
+  category: sequence
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: psychic self / psychical man
+  description: The personal or psychical self described as restless, desirous, divided,
+    and as the layer through which the spiritual man is enmeshed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Seer / spiritual man / Soul
+  description: The pure witnessing consciousness whose deepest nature is pure vision,
+    who looks through the mind, gains experience, and attains pure being through liberation.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+- id: fig:3
+  name_or_label: things seen / phenomena
+  description: The total field of seen phenomena, including material and psychical
+    worlds, described as existing for the Seer’s experience and liberation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Three Potencies
+  description: The properties or potencies of manifestation, action, and inertia,
+    with defined and undefined grades or layers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: afflicted desiring self
+  assigned_to:
+  - fig:1
+  basis: The psychical self is described as miserable, restless, unsatisfied, driven
+    by desire, and divided against itself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pure witnessing consciousness
+  assigned_to:
+  - fig:2
+  basis: The Seer is explicitly called pure vision, though looking through the mind.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: object and instrument of experience and liberation
+  assigned_to:
+  - fig:3
+  basis: Things seen are said to provide experience, prepare liberation, and exist
+    for the Seer.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:4
+  label: constituent qualities of phenomena
+  assigned_to:
+  - fig:4
+  basis: Manifestation, action, and inertia are presented as properties of things
+    seen and as layers of the Three Potencies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: bound one to be liberated
+  assigned_to:
+  - fig:2
+  basis: The spiritual man is described as enmeshed by the psychical man, with the
+    task of setting this prisoner free and attaining pure being.
+  evidence_refs:
+  - ev:6
+  - ev:11
+symbols:
+- id: sym:1
+  label: fire of desire
+  literal_form: Fire not quenched by oil
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: veil or vesture of mind
+  literal_form: Vesture, coloured veil, veil and disguise
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:11
+- id: sym:3
+  label: darkness of unwisdom
+  literal_form: Darkness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:4
+  label: mirror of life
+  literal_form: Mirror in which the Soul learns to know its own face
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: buried temple and prisoner
+  literal_form: Prisoner to be freed; buried temple cleared of dust
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: revealed king and kingdom
+  literal_form: A King in the house of the Father entering his kingdom
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Misery of the psychic self
+  summary: The psychical self is described as miserable through restlessness, desire,
+    fear, death, repeated impressions, and inner division.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Diagnosis of preventable pain
+  summary: Pain is to be warded off before it comes by cutting absorption in the psychical
+    self; the cause is the Seer’s absorption in things seen, and the cure is liberation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Phenomena and the Three Potencies
+  summary: Things seen are classified by manifestation, action, and inertia, and by
+    layered grades of the Three Potencies; they provide experience and liberation
+    for the soul.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: The Seer looking through mind
+  summary: The Seer is pure vision but looks through the vesture of mind while enfolded
+    by the psychical man; the stated task is to free this prisoner.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Veil removed and life as education
+  summary: For one who reaches the goal, the world seen through illusion falls away,
+    though it remains for others; through many lives, the Soul learns the world and
+    itself as in a mirror.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: End of unwisdom and great liberation
+  summary: The darkness of unwisdom is identified as the cause of association; ending
+    it brings great liberation, pure being, and the image of the spiritual man revealed
+    as a king.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Desire intensified by satisfaction
+  taxonomy_refs: []
+  basis: The passage states that desire is not quenched by satisfying desire and that
+    each satisfied desire seeds renewed desire.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a philosophical image rather than a narrative episode.
+- id: motif:2
+  label: Duality of Seer and seen
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly distinguishes the Seer or spiritual man from things
+    seen, the psychical man, and the mind through which the Seer looks.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The duality is doctrinal and metaphysical, not a paired mythic character
+    structure.
+- id: motif:3
+  label: Liberation through ending ignorance and false association
+  taxonomy_refs:
+  - mystical_quest
+  basis: Pain is traced to absorption of the Seer in things seen; ending unwisdom
+    and the association yields great liberation and pure being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage gives a philosophical path and goal, not a plotted quest narrative.
+- id: motif:4
+  label: Wisdom through life experience and self-knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Life is called educative; across many lives the Soul learns the laws of the
+    world and thereby learns to know itself.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The wisdom motif is expressed as metaphysical instruction rather than
+    as a tale of a sage or culture hero.
+- id: motif:5
+  label: Fall through unwisdom and redemption after learning
+  taxonomy_refs: []
+  basis: The passage names the association caused by unwisdom as a fall through which
+    experience comes, and says that when lessons are learned the day of redemption
+    is at hand.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The words fall and redemption occur in the commentary, but the passage
+    does not present a full mythic fall-and-return narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly connects its diagnosis of misery and liberation with
+    Sankhya, calling Sankhya the intellectual counterpart of Yoga and identifying
+    the root problem as absorption of consciousness in the psychical man and things
+    that beguile him.
+  claim_level: same_function
+  target: Sankhya system as presented in the passage alongside Yoga
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an intra-passage doctrinal comparison, not evidence for historical
+    contact beyond the passage’s own statement.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1008-1123; opening paragraph before sutra 16
+  quote_or_summary: The psychic self is called misery; desire is likened to fire not
+    quenched by oil, and satisfied desire is said to seed new desire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1008-1123; sutra 16 and commentary
+  quote_or_summary: Pain is to be warded off before it comes; the commentary says
+    the root is absorption in the psychical self and the heart should be fixed on
+    the eternal.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 1008-1123; sutra 17 and commentary
+  quote_or_summary: The cause to be warded off is the absorption of the Seer in things
+    seen; the commentary relates this to Sankhya and names liberation as the cure.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 1008-1123; sutra 18 and commentary
+  quote_or_summary: Things seen have manifestation, action, and inertia; they underlie
+    elements and sense-powers and serve experience and liberation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 1008-1123; sutra 19 and commentary
+  quote_or_summary: 'The Three Potencies have grades or layers: defined, undefined,
+    with distinctive mark, and without distinctive mark, applied to physical and psychical
+    strata.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 1008-1123; sutra 20 and commentary
+  quote_or_summary: The Seer is pure vision but looks through the mind’s vesture;
+    the spiritual man is described as enfolded by the psychical man, like a prisoner
+    or buried temple to be freed and cleared.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:7
+  type: summary
+  locator: lines 1008-1123; sutra 21 and commentary
+  quote_or_summary: Things seen exist for the Seer or Soul; disaster comes when the
+    psychical man tries to live for himself alone.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:8
+  type: summary
+  locator: lines 1008-1123; sutra 22 and commentary
+  quote_or_summary: For one who has reached the goal, things seen have fallen away;
+    for others the coloured veil of illusion remains and the world remains coloured
+    by it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:9
+  type: summary
+  locator: lines 1008-1123; sutra 23 and commentary
+  quote_or_summary: Association with things seen enables realization of both things
+    seen and the Seer; life is educative, and the Soul learns itself through the mirror
+    of life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:10
+  type: summary
+  locator: lines 1008-1123; sutra 24 and commentary
+  quote_or_summary: The cause of association is the darkness of unwisdom, defined
+    as absorption in personal life and things seen by personal life; this is called
+    a fall through which experience and learning come.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:11
+  type: summary
+  locator: lines 1008-1123; sutra 25 and commentary
+  quote_or_summary: Ending unwisdom ends the association and is the great liberation;
+    the Seer attains pure being, and the spiritual man removes the psychical veil
+    and is revealed as a king entering his kingdom.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md
+  rights_note: Public domain source metadata; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal doctrinal elements are clear in the supplied passage. Motif mapping
+    is cautious because the text is philosophical commentary rather than narrative
+    mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Conceptual entities such as Seer, things seen, and Three Potencies are recorded as figures because the passage assigns them stable roles and relationships.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:hindu-yoga-sutras-johnston-gutenberg__l1008-l1123
+  passage_sha256=d9f467ad77a0e697a6ccaf12797d5a7b77ec90fe0cfd3e455a672b6dc6dc9abd
+

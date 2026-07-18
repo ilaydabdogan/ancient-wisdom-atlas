@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l7652-l7721
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE COYOTE AND THE BEETLE / HOW THE COYOTE DANCED WITH THE BLACKBIRDS / HOW
+    THE TURTLE OUT HUNTING DUPED THE COYOTE / THE COYOTE AND THE LOCUST; lines 7652-7721
+  start: '7652'
+  end: '7721'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Locust, expecting trouble from Coyote, molts and makes a lifelike decoy
+    by filling his shed skin with a quartz stone and sealing it to the tree. Coyote
+    returns after forgetting a song, demands that the silent decoy sing, threatens
+    it, then bites it and breaks his teeth on the stone. The narrator explains this
+    as the origin of broken-looking coyote teeth and as a defensive custom of locusts
+    leaving counterparts on trees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Locust dislikes the Coyote and decides to trick him and teach him to mind
+    his own affairs.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Locust holds to the bark, splits his back, removes his old skin, selects
+    a light-colored clear quartz stone, places it inside the skin, and seals the back
+    with pitch.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Locust leaves the filled skin as an exact counterfeit on the bark and
+    flies to a neighboring tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Coyote returns to the tree after losing his song and asks the Locust to
+    sing it again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Coyote says gray-backed Ground-pigeons startled him and caused him to
+    forget the song.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The apparent Locust gives no reply to the Coyote's requests.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Coyote shows his teeth and threatens to snap up the Locust if it does
+    not sing after four more requests.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Coyote bites the Locust skin and the stone inside it, breaking and displacing
+    his teeth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the injury, the Coyote rolls in the sand, howls, snarls, wriggles, runs
+    away, and later laps water at a brook.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: At the brook the Coyote sees the damaged condition of his teeth, described
+    as matching what is seen in coyotes' mouths.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The narrator states that Coyote's descendants inherited his broken teeth.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The narrator states that locusts sometimes protect themselves from attention
+    by skinning themselves and leaving counterparts on trees.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Locust
+  description: An insect who plans a trick, sheds his old skin, turns it into a stone-filled
+    counterfeit, and flies to another tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: The Coyote
+  description: An animal who returns for a lost song, threatens the silent decoy,
+    bites it, and injures his teeth.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Gray-backed Ground-pigeons
+  description: Birds mentioned in Coyote's speech as having flown up under him and
+    startled him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Defensive trickster and lesson-giver
+  assigned_to:
+  - fig:1
+  basis: The Locust decides to trick Coyote and teach him to mind his own affairs,
+    then prepares and leaves a counterfeit body.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Aggressive requester and dupe
+  assigned_to:
+  - fig:2
+  basis: The Coyote asks for the song, receives no answer, threatens with his teeth,
+    and bites the decoy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Reported cause of song loss
+  assigned_to:
+  - fig:3
+  basis: The Coyote says the Ground-pigeons startled him so that he forgot the song.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Ancestral source of bodily trait
+  assigned_to:
+  - fig:2
+  basis: The narrator says all of Coyote's descendants inherited his broken teeth.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Molted-skin decoy
+  literal_form: The Locust's shed skin, filled with quartz and sealed with pitch,
+    left as an exact counterfeit on the bark.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Quartz stone inside the skin
+  literal_form: A light-colored clear quartz stone placed inside the Locust's empty
+    skin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: Tree and bark
+  literal_form: The bark and tree where the Locust clings, leaves the counterfeit,
+    and where Coyote returns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Broken teeth
+  literal_form: Coyote's teeth are crushed, driven into the gums, or crowded outward
+    into tusk-like form.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: Brook water
+  literal_form: Water at the first brook where Coyote laps to relieve pain and sees
+    his mouth's condition.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Locust prepares the counterfeit
+  summary: The Locust sheds his old skin, fills it with a quartz stone, seals it with
+    pitch, and leaves it on the tree bark before flying away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Coyote returns for the lost song
+  summary: The Coyote returns to the tree, says Ground-pigeons startled him and made
+    him forget the song, and asks the apparent Locust to sing again.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Coyote threatens the silent decoy
+  summary: The apparent Locust does not answer; the Coyote becomes angry, shows his
+    teeth, and repeatedly threatens to snap it up if it will not sing.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Coyote bites the stone-filled skin
+  summary: The Coyote bites the counterfeit Locust and breaks or displaces his teeth
+    on the stone inside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Pain, brook, and etiological explanation
+  summary: The Coyote runs away in pain, laps water at a brook, sees his damaged teeth,
+    and the narrator explains that coyotes inherited this dental condition while locusts
+    retain a protective decoy practice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Decoy made from shed skin deceives an attacker
+  taxonomy_refs: []
+  basis: The Locust creates a lifelike counterpart from his shed skin and a quartz
+    stone; Coyote mistakes it for the Locust and bites it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the decoy pattern directly; no broader taxonomy reference
+    is assigned.
+- id: motif:2
+  label: Meddling anger punished through trickery
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The narrator says Coyote did not mind his own business or restrain his anger;
+    his attempt to bite the Locust results in broken teeth.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents a moralized animal
+    trick rather than an explicit comparative classification.
+- id: motif:3
+  label: Origin of coyote teeth
+  taxonomy_refs: []
+  basis: The passage explains the damaged appearance of coyote teeth as inherited
+    from this ancient Coyote's bite on the stone-filled skin.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an etiological reading based on the narrator's explicit explanation.
+- id: motif:4
+  label: Origin of locust defensive counterpart
+  taxonomy_refs: []
+  basis: The narrator says locusts still protect themselves by skinning themselves
+    and leaving counterparts on trees when their songs attract attention.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is limited to the behavior described in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7652-7662
+  quote_or_summary: Locust decides to trick Coyote, clings to bark, sheds his old
+    skin, selects a clear light quartz stone, places it in the skin, and seals the
+    back with pitch.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7662-7665
+  quote_or_summary: Locust leaves his exact counterfeit attached to the bark and flies
+    away to a neighboring tree.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7666-7674
+  quote_or_summary: Coyote returns after losing the song, says gray-backed Ground-pigeons
+    startled him, and asks the Locust to sing again.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7675-7689
+  quote_or_summary: The apparent Locust gives no reply; Coyote grows angry, displays
+    his teeth, and threatens to snap it up if it does not sing after repeated requests.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7690-7697
+  quote_or_summary: Coyote snaps the Locust skin from the bough, bites it hard, breaks
+    and displaces his teeth on the stone, drops the stone, and writhes in pain.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 7697-7703
+  quote_or_summary: Coyote runs off, laps water at a brook to ease the pain, and sees
+    the dental condition described as visible in coyotes' mouths.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 7705-7718
+  quote_or_summary: The narrator states that ancient Coyote failed to mind his own
+    business or restrain anger, bit a Locust skin with a stone inside, and passed
+    broken teeth to descendants; locusts still protect themselves by leaving counterparts
+    on trees.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are passage-level candidates; only the broad trickster_boundary taxonomy reference
+    is used, and no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims intentionally left empty because the passage does not itself compare this story to another corpus or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l7652-l7721
+  passage_sha256=9a08e78ab8adc0f0d1c45818d598318f65788bd51f2eb3d63b12e9bc3acb8baf
+

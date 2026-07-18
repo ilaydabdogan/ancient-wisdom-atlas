@@ -1,0 +1,545 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l2945-l3043
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: BAFFIN LAND. / WESTERN SHORE OF HUDSON BAY. / BOOTHIA FELIX AND BACK RIVER.
+    / SMITH SOUND.; lines 2945-3043
+  start: '2945'
+  end: '3043'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Ethnographic-geographical passage describing inhabitants of Ellesmere Land
+    and North Greenlanders, then explaining how Eskimo winter, spring, and summer
+    settlements are distributed according to floes, smooth or rough ice, open water,
+    hunting opportunities, deer distribution, and landforms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The inhabitants of Umingman Nuna, identified as Ellesmere Land, are said probably
+    to live on the southern shore near western Jones Sound and to travel around the
+    island by Hayes Sound.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: North Greenlanders are described as living in the sounds of the peninsula
+    between Melville Bay and Kane Basin.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: North Greenlanders hunt seals on smooth floes and pursue walrus at floe edges.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: North Greenlanders make fall deposits of blubber and meat and live on them
+    during winter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: North Greenlanders pursue seals in winter with the harpoon and hunt reindeer
+    in summer on mountains adjoining the inland ice.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that tribes are settled wherever extensive floes provide
+    good winter sealing grounds.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Rough or hummocky ice makes winter sealing difficult because breathing holes
+    are hard to find and travel is laborious.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Places where smooth ice forms are described as places where natives either
+    are settled or have been settled.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Several western districts, including southwest Baffin Land, Fury and Hecla
+    Strait, Repulse Bay, Wager River, Chesterfield Inlet, Pelly Bay, Boothia Peninsula
+    bays, and the mouth of Back River, are named as important places for Eskimo distribution
+    because of large floes or frozen hunting grounds.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Only a few districts are said to have nearby open water that favors winter
+    walrus hunting, and all such districts also have neighboring floes for seal hunting
+    with the harpoon.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: 'The passage explicitly gives two requirements for winter settlements: an
+    extensive floe and smooth ice.'
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: In spring, hunters visit regions deserted during winter, travel by light dog
+    sledges over rough ice and along fjord and island shores, and disperse from large
+    winter settlements.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: Spring movements are connected with young sealing, preparation of kayaks for
+    visiting the floe edge, and hunting bears and returning birds.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The selection of new spring settlements remains dependent on the state of
+    the ice.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:15
+  text: After the ice breaks up, deer distribution regulates summer settlement locations;
+    winter settlement is governed by ice, while summer settlement also depends on
+    land orography.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Inhabitants of Umingman Nuna / Ellesmere Land
+  description: A population said probably to live on the southern shore near western
+    Jones Sound and to travel around Ellesmere Land by Hayes Sound.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: North Greenlanders
+  description: People living in the sounds between Melville Bay and Kane Basin, hunting
+    seals and walrus, storing fall blubber and meat, and hunting reindeer in summer.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Eskimo natives and tribes in the surveyed districts
+  description: Collective reference to the Eskimo groups whose winter, spring, and
+    summer settlements are described as distributed according to floes, smooth ice,
+    open water, hunting grounds, deer, and landforms.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: winter seal hunters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: North Greenlanders pursue seals in winter with the harpoon, and winter settlements
+    generally depend on floes and smooth ice for sealing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:2
+  label: walrus hunters at floe edges or open water
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: North Greenlanders pursue walrus at floe edges, and a few districts favor
+    winter walrus hunting through proximity to open water.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: seasonal travelers and dispersed spring hunters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes winter, spring, and summer movements, including spring
+    dispersal from winter settlements and travel over rough ice.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:4
+  label: summer deer or reindeer hunters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: North Greenlanders hunt reindeer in summer, and after ice break-up deer distribution
+    regulates summer settlements more generally.
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: role:5
+  label: island travelers
+  assigned_to:
+  - fig:1
+  basis: The inhabitants of Umingman Nuna are reported to travel all around Ellesmere
+    Land by Hayes Sound.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: winter settlement groups dependent on floe and smooth ice
+  assigned_to:
+  - fig:3
+  basis: The passage states that extensive floes and smooth ice are generally required
+    for winter settlements.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: extensive floe and smooth ice
+  literal_form: winter floes and smooth sea ice
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: rough or hummocky ice
+  literal_form: rough ice, hummocky ice, high hummocks
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: open water and floe edge
+  literal_form: open water near floes and floe edges
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: harpoon
+  literal_form: harpoon used for winter seal hunting
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: dog sledge
+  literal_form: light dog sledges used in spring travel
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: kayak
+  literal_form: kayaks prepared for visiting the floe edge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: mountains and orography
+  literal_form: mountains adjoining inland ice and the orography of the land
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: sym:8
+  label: deer and reindeer
+  literal_form: reindeer hunted in summer; deer distribution regulating summer settlements
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: sym:9
+  label: stored blubber and meat
+  literal_form: fall deposits of blubber and meat for winter subsistence
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ellesmere Land and North Greenland setting
+  summary: The passage places the inhabitants of Ellesmere Land and North Greenland
+    in specific Arctic coastal and sound environments, describing travel around Ellesmere
+    Land and North Greenlander seal, walrus, storage, and reindeer practices.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Winter settlement distribution by floe and ice condition
+  summary: Winter settlements are explained as occurring where extensive floes and
+    smooth ice make sealing feasible, while rough or hummocky ice discourages winter
+    settlement and makes hunting difficult.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: Western floe districts and open-water walrus districts
+  summary: The passage names western Arctic bays, inlets, and river mouths as important
+    for Eskimo distribution and identifies a few districts where open water supports
+    winter walrus hunting alongside nearby seal-hunting floes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Spring dispersal from winter settlements
+  summary: In spring, hunters spread from large winter settlements, use light dog
+    sledges to cross rough ice and shores, prepare kayaks for floe-edge visits, and
+    hunt young seals, bears, and returning birds.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Summer settlement after ice break-up
+  summary: After break-up of the ice, summer settlement location is regulated by deer
+    distribution and the orography of the land, contrasting with the decisive importance
+    of ice in winter.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: seasonal settlement and hunting cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage distinguishes winter settlements governed by floes and smooth
+    ice, spring dispersal and hunting, and summer settlement governed by deer distribution
+    and landforms.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is an ethnographic subsistence and settlement pattern, not a myth
+    narrative motif in the passage.
+- id: motif:2
+  label: ice-conditioned winter habitation
+  taxonomy_refs: []
+  basis: Winter habitation is repeatedly linked to extensive floes and smooth ice,
+    while rough ice hinders hunting and discourages settlement.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: No symbolic or mythological meaning for ice is stated; the pattern is
+    ecological and practical.
+- id: motif:3
+  label: stored autumn food sustaining winter life
+  taxonomy_refs: []
+  basis: North Greenlanders store fall blubber and meat and live on those deposits
+    during winter.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives this as a subsistence practice for North Greenlanders
+    only, not as a narrative motif.
+- id: motif:4
+  label: floe-edge and open-water hunting zone
+  taxonomy_refs: []
+  basis: Walrus hunting is associated with floe edges and with a few winter districts
+    near open water, all of which also have neighboring floes for seal hunting.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The pattern is locally ecological and occupational; no mythic function
+    is described.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that North Greenlanders' habits and implements resemble
+    those of the Central Eskimo more than those of Greenlanders generally.
+  claim_level: same_function
+  target: Central Eskimo habits and implements, contrasted with Greenlanders
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the author's broad ethnographic comparison; the passage gives
+    no detailed examples of the implements and does not compare myths or narrative
+    motifs.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2945-2955
+  quote_or_summary: The author introduces the natives of Ellesmere Land and North
+    Greenland, says North Greenlanders resemble Central Eskimo in habits and implements,
+    and reports that Umingman Nuna inhabitants probably live near western Jones Sound
+    and travel around the island by Hayes Sound.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2957-2964
+  quote_or_summary: North Greenlanders live between Melville Bay and Kane Basin, hunt
+    seals on smooth floes, pursue walrus at floe edges, store fall blubber and meat
+    for winter, use the harpoon for winter seals, and hunt summer reindeer on mountains
+    near inland ice.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2968-2984
+  quote_or_summary: The passage states that tribes are settled where extensive floes
+    afford good winter sealing grounds and gives examples of groups distributed around
+    bays, sounds, and floes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2984-3002
+  quote_or_summary: Davis Strait ice is often rough or hummocky; sealing on rough
+    ice is difficult, and places with smooth ice are the places where natives settle
+    or have settled, unlike long unsheltered shores with hummocky ice.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3004-3012
+  quote_or_summary: Farther west, large frozen floes and bays around southwest Baffin
+    Land, Fury and Hecla Strait, Repulse Bay, Wager River, Chesterfield Inlet, Pelly
+    Bay, Boothia Peninsula, and Back River are named as important for Eskimo distribution.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3014-3020
+  quote_or_summary: Only a few districts have open water favoring winter walrus hunting,
+    and all have neighboring floes where seals may be hunted with the harpoon.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3022-3024
+  quote_or_summary: 'The passage says that winter settlements generally require two
+    conditions: an extensive floe and smooth ice.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3026-3035
+  quote_or_summary: In spring, formerly deserted regions are visited; hunters use
+    light dog sledges over rough ice and shores, disperse from winter settlements,
+    practice young sealing, prepare kayaks for floe-edge visits, and hunt bears and
+    returning birds.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3037-3040
+  quote_or_summary: Although spring food sources and hunting methods require families
+    to disperse widely, selection of new settlements remains dependent on the state
+    of the ice.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:10
+  type: summary
+  locator: lines 3041-3043
+  quote_or_summary: After ice break-up, deer distribution regulates summer settlement;
+    winter location depends decisively on ice, while summer location also depends
+    on land orography.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ethnographic observations are strongly supported. Motif candidates
+    are best treated as settlement/subsistence patterns rather than mythic motifs.
+    The single comparison claim is explicitly reported but broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No myth narrative, divine figures, or explicit symbolic interpretation appears in the passage; extraction emphasizes literal seasonal and environmental patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l2945-l3043
+  passage_sha256=0a598687d976afbfec28ad516f60d04d6a8ff0e7963891fcee95d2f3922f3d69
+

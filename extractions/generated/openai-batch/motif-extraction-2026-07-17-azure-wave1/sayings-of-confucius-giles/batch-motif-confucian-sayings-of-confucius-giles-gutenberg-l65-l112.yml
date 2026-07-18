@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l65-l112
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: L. CRANMER-BYNG / NEW YORK / E. P. DUTTON AND COMPANY / CONTENTS; lines 65-112
+  start: '65'
+  end: '112'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: THE SAYINGS OF CONFUCIUS
+  summary: The passage is title and front matter for The Sayings of Confucius, identifying
+    it as a new translation of part of the Confucian Analects with introduction and
+    notes by Lionel Giles, part of The Wisdom of the East Series, and listing contents
+    such as introduction, disciples, government, virtue, and sayings about or by Confucius
+    and his disciples.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage gives the title as The Sayings of Confucius.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The work is described as a new translation of the greater part of the Confucian
+    Analects with introduction and notes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lionel Giles is named on the title page with an academic degree and an institutional
+    affiliation at the British Museum.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The work is placed in The Wisdom of the East Series, edited by L. Cranmer-Byng
+    and Dr. S. A. Kapadia.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The publication information names New York, E. P. Dutton and Company, and
+    the year 1910.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The contents list includes sections on introduction, principal disciples,
+    government and public affairs, individual virtue, Confucius' estimate of others,
+    Confucius on himself, miscellaneous sayings, personalia, Confucius as seen by
+    others, and sayings of the disciples.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: Named in the title and multiple contents headings as the subject associated
+    with sayings and assessments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Lionel Giles
+  description: Named on the title page, with academic credentials and a British Museum
+    affiliation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: L. Cranmer-Byng
+  description: Named as an editor of The Wisdom of the East Series.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Dr. S. A. Kapadia
+  description: Named as an editor of The Wisdom of the East Series.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named subject of sayings and contents headings
+  assigned_to:
+  - fig:1
+  basis: Confucius appears in the title and in contents headings concerning his own
+    sayings, self-presentation, and how others saw him.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: named title-page contributor
+  assigned_to:
+  - fig:2
+  basis: Lionel Giles is named prominently on the title page after the description
+    of the translation with introduction and notes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: series editor
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both names appear under the line identifying the series as edited by them.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page and contents framing
+  summary: The passage frames the work as a translated collection of sayings connected
+    with Confucius, identifies contributors and series editors, gives publication
+    information, and lists the main sections of the book.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wisdom sayings and ethical instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The title identifies the work as sayings of Confucius, the series title uses
+    the term Wisdom, and the contents include topics such as individual virtue, government,
+    and disciples.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This passage is front matter and a contents list rather than a narrative
+    or mythic episode; the motif assignment is based on bibliographic framing and
+    listed topics only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 65-67
+  quote_or_summary: '"THE SAYINGS OF CONFUCIUS"'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 69-75
+  quote_or_summary: The title page describes the work as a new translation of the
+    greater part of the Confucian Analects with introduction and notes.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 77-83
+  quote_or_summary: Lionel Giles, M.A. (Oxon.), is named with an affiliation as Assistant
+    in the Department of Oriental Books and Manuscripts of the British Museum.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 85-93
+  quote_or_summary: The work is identified as part of The Wisdom of the East Series,
+    edited by L. Cranmer-Byng and Dr. S. A. Kapadia.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 95-101
+  quote_or_summary: Publication information gives New York, E. P. Dutton and Company,
+    and 1910.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 103-112
+  quote_or_summary: The contents list includes Introduction, List of the Principal
+    Disciples, Government and Public Affairs, Individual Virtue, Confucius' Estimate
+    of Others, Confucius on Himself, Miscellaneous Sayings, Personalia, Confucius
+    as Seen by Others, and Sayings of the Disciples.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies on front matter and contents only. No narrative scene,
+    mythic episode, or explicit comparative claim appears in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l65-l112
+  passage_sha256=90ede19e4a34accf38c0a70f5c6de02816d547c6f245285f6126b0a9b50abf82
+

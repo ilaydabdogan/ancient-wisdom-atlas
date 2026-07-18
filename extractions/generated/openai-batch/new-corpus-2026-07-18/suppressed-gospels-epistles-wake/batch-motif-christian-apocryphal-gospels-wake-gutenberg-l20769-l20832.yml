@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l20769-l20832
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: VISION I. / VISION II. / VISION III. / VISION IV.; lines 20769-20832
+  start: '20769'
+  end: '20832'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A shepherd sent by a venerable messenger identifies himself as the narrator's
+    appointed guardian, changes shape, reassures the narrator, and commands him to
+    write Commands and Similitudes. The passage states that those who observe these
+    teachings with a pure mind will receive what the Lord promised, while those who
+    do not repent and continue in sin will be punished. The shepherd is identified
+    as the angel of repentance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the narrator returns the speaker's salutation, the speaker sits beside
+    him and says he has been sent to dwell with him for the remaining days of his
+    life.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator thinks the speaker has come to try him and asks who he is.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker identifies himself as the shepherd to whose care the narrator
+    has been delivered.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While speaking, the shepherd's shape changes, and the narrator recognizes
+    him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator becomes ashamed, fearful, and saddened because he had spoken
+    foolishly to the shepherd.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The shepherd tells the narrator not to be ashamed and says he is sent to show
+    again things the narrator has seen before, especially those useful to him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The shepherd commands the narrator to write his Commands and Similitudes first,
+    so that frequent reading will help him keep them in memory.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator writes the Commands and Similitudes as the shepherd instructs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage says that those who hear, observe, walk according to, and exercise
+    themselves in the teachings with a pure mind will receive promised things from
+    the Lord.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage says that those who hear but do not repent and continue to add
+    to their sins will be punished.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The final sentence identifies the Shepherd as the angel of repentance and
+    says he commanded the narrator to write all these things.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person recipient who speaks with the shepherd and writes the
+    Commands and Similitudes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: The Shepherd / angel of repentance
+  description: A shepherd appointed to the narrator's care; he changes shape, reassures
+    the narrator, delivers commands, and orders writing.
+  role_refs:
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Venerable messenger
+  description: The messenger by whom the shepherd says he was sent.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The Lord
+  description: The Lord from whom promised things are to be received; the following
+    sentence says punishment will come from him for those who do not repent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recipient and writer
+  assigned_to:
+  - fig:1
+  basis: The narrator receives the shepherd's speech and writes the Commands and Similitudes
+    as instructed.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: appointed guardian
+  assigned_to:
+  - fig:2
+  basis: The shepherd says the narrator has been delivered to his care and that he
+    is to dwell with the narrator for the rest of his life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: angel of repentance
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly calls the Shepherd the angel of repentance.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: sender
+  assigned_to:
+  - fig:3
+  basis: The shepherd says he was sent by the venerable messenger.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: promiser and punisher
+  assigned_to:
+  - fig:4
+  basis: The passage says the obedient will receive what the Lord promised, while
+    the unrepentant who add sins will be punished by him.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: instructor and commander
+  assigned_to:
+  - fig:2
+  basis: The shepherd says he will deliver commands and commands the narrator to write
+    the Commands and Similitudes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: Changed shape
+  literal_form: The shepherd's shape changes while he is speaking, after which the
+    narrator recognizes him.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Commands and Similitudes
+  literal_form: Teachings that the shepherd commands the narrator to write and reread
+    for memory.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Pure mind
+  literal_form: A stated condition for receiving promised things after hearing and
+    observing the teachings.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arrival and identification of the shepherd
+  summary: A speaker sits by the narrator, says he is sent to dwell with him, and
+    identifies himself as the shepherd appointed to the narrator's care.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Changed shape and recognition
+  summary: The shepherd's shape changes; the narrator recognizes him and responds
+    with shame, fear, and sadness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Command to write and remember
+  summary: The shepherd reassures the narrator, says he will show useful things again,
+    and commands him to write Commands and Similitudes for repeated reading and memory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Conditional promise and punishment
+  summary: The passage states that observant hearers with a pure mind will receive
+    the Lord's promised things, while unrepentant hearers who add sins will be punished;
+    the shepherd is identified as the angel of repentance.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Angelic shepherd instructs a visionary to write teachings
+  taxonomy_refs:
+  - wisdom
+  basis: The shepherd, later identified as the angel of repentance, delivers commands
+    and orders the narrator to write Commands and Similitudes for reading and memory.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage does not explicitly
+    use the word wisdom.
+- id: motif:2
+  label: Revealed identity through changed form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The shepherd's shape changes while he speaks, and the narrator then recognizes
+    him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a single change of shape and does not elaborate
+    a broader shapeshifter episode.
+- id: motif:3
+  label: Repentance, obedience, and divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts promised reward for those who observe the teachings
+    with punishment for those who do not repent and continue in sin.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No formal judgment scene is narrated; the judgment element appears as
+    a conditional statement.
+- id: motif:4
+  label: Guardian companion sent for the remainder of life
+  taxonomy_refs: []
+  basis: The shepherd says he is sent to dwell with the narrator for the remaining
+    days of his life and identifies himself as the one to whose care the narrator
+    was delivered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference directly matches this guardian-companion
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20769-20775; verse 2
+  quote_or_summary: The narrator returns a salutation; the speaker sits beside him
+    and says he was sent by a venerable messenger to dwell with the narrator for the
+    rest of his life.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20776-20787; verse 3
+  quote_or_summary: The narrator asks the speaker's identity, and the speaker answers
+    that he is the shepherd to whose care the narrator has been delivered.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 20788-20797; verse 4
+  quote_or_summary: '"his shape was changed"; the narrator recognizes him and becomes
+    ashamed, fearful, and saddened.'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 20798-20807; verse 5
+  quote_or_summary: The shepherd tells the narrator not to be ashamed, says he will
+    strengthen his mind through commands, and says he is sent to show again things
+    the narrator had seen before, especially useful things.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20808-20821; verses 6-7
+  quote_or_summary: The shepherd tells the narrator to write his Commands and Similitudes
+    first so that repeated reading will help memory; the narrator writes them as instructed.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 20822-20830; verses 8-9
+  quote_or_summary: Those who hear and observe the teachings with a pure mind will
+    receive what the Lord promised; those who do not repent and continue adding sins
+    will be punished.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 20831-20832; verse 10
+  quote_or_summary: '"that Shepherd, the angel of repentance, commanded me to write."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious and limited to the provided taxonomy where directly supportable.
+    No comparison claims are made beyond candidate motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external textual or historical claims are included.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l20769-l20832
+  passage_sha256=e6d3e2916c93862df617d75b5a42abdc2295ff54e6775e3d26480cd7a866d1b5
+

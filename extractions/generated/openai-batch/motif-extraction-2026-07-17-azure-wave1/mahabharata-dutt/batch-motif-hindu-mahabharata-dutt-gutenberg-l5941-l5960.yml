@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.hindu-mahabharata-dutt-gutenberg-l5941-l5960
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+passage_locator:
+  label: BOOK IX / DRONA-BADHA / BOOK X / KARNA-BADHA; lines 5941-5960
+  start: '5941'
+  end: '5960'
+  translation: Maha-bharata
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Vengeance fired the son of Drona 'gainst the royal Drupad's son!
+  summary: After Drona and Drupad are dead, Aswa-thaman enters the enemy tents at
+    midnight, kills Dhrista-dyumna and Sikhandin, smothers Draupadi's sleeping children
+    before dawn, then goes to the dying Duryodhan, who blesses him and dies comforted
+    by vengeance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Drona and Drupad are described as sleeping because their earthly task was
+    done.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The son of Drona is described as fired by vengeance against Drupad's son.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The setting is a silent battlefield at midnight, with shadows, faint planets,
+    dying warriors, and slain warriors.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The son of Drona enters the enemy tents softly and noiselessly after dark
+    omens.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dhrista-dyumna and Sikhandin, princes of Panchala, fall beneath Aswa-thaman's
+    hand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Draupadi's children, also identified as Drupad's sleeping grandsons, are smothered
+    before dawn.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the slaughter, Aswa-thaman goes to the place where Duryodhan lies dying
+    beside limpid waters.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Duryodhan blesses Aswa-thaman with his failing breath and dies happy, cheered
+    by vengeance.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Drona
+  description: A dead warrior whose earthly task is described as done; father of the
+    avenging son.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Drupad
+  description: A dead royal figure whose earthly task is described as done; father
+    of Drupad's son and grandfather of the sleeping children.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Aswa-thaman / son of Drona
+  description: The vengeful son of Drona who enters the enemy tents, kills named Panchala
+    princes and Draupadi's children, then visits dying Duryodhan.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Dhrista-dyumna
+  description: A prince of Panchala who falls beneath Aswa-thaman's hand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sikhandin
+  description: A prince of Panchala who falls beneath Aswa-thaman's hand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Draupadi's children / Drupad's sleeping grandsons
+  description: Sleeping children smothered before dawn by the arm of vengeance.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Draupadi
+  description: Referenced as the mother of the children who are killed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Duryodhan
+  description: Lies dying beside limpid waters, blesses Aswa-thaman, and dies happy
+    because vengeance has cheered him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: dead warrior whose earthly task is done
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that Drona and Drupad slept because their earthly task
+    was done.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father of avenger
+  assigned_to:
+  - fig:1
+  basis: The avenger is identified as the son of Drona.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: vengeful avenger and killer
+  assigned_to:
+  - fig:3
+  basis: The son of Drona is fired by vengeance, enters the tents, kills named princes
+    and sleeping children, and is later blessed by Duryodhan.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: Panchala prince victim
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Dhrista-dyumna and Sikhandin are named as princes of Panchala who fall beneath
+    Aswa-thaman's hand.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sleeping child victim
+  assigned_to:
+  - fig:6
+  basis: The children are described as sleeping and are smothered before dawn.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: mother referenced through slain children
+  assigned_to:
+  - fig:7
+  basis: The children are identified as fair Draupadi's children.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: hero as named by Duryodhan's blessing
+  assigned_to:
+  - fig:3
+  basis: Duryodhan blesses 'the hero' after Aswa-thaman completes the slaughter.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: dying ally comforted by vengeance
+  assigned_to:
+  - fig:8
+  basis: Duryodhan lies dying, blesses Aswa-thaman, and dies happy because vengeance
+    cheers him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: midnight battlefield shadows
+  literal_form: sable shadows of midnight over the silent battlefield
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: dark omens
+  literal_form: omens described as dark and dread
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: limpid waters
+  literal_form: clear waters beside which Duryodhan lies dying
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dead elders and the ignition of vengeance
+  summary: Drona and Drupad are said to have completed their earthly task, and Drona's
+    son is moved by vengeance against Drupad's son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nocturnal entry into enemy tents
+  summary: At midnight on a silent battlefield, the vengeful son of Drona enters the
+    enemy tents softly and without noise after dark omens.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Killing of Panchala princes
+  summary: Dhrista-dyumna and Sikhandin, princes of Panchala, are killed by Aswa-thaman.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Smothering of sleeping children before dawn
+  summary: Aswa-thaman's vengeance reaches the place where Draupadi's children, Drupad's
+    sleeping grandsons, lie, and they are smothered before dawn.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Duryodhan's blessing and death
+  summary: After the slaughter, Aswa-thaman goes to dying Duryodhan beside the waters;
+    Duryodhan blesses him and dies happy because vengeance has cheered him.
+  figure_refs:
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: vengeful son avenges a fallen father
+  taxonomy_refs: []
+  basis: Drona is dead or finished with earthly action, and his son is explicitly
+    fired by vengeance before attacking Drupad's line.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames vengeance clearly but does not describe all prior causes
+    within this excerpt.
+- id: motif:2
+  label: night raid on sleeping enemies
+  taxonomy_refs: []
+  basis: The action occurs at midnight; Aswa-thaman enters enemy tents silently and
+    kills or smothers victims, including sleeping children, before dawn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the raid in compressed poetic form rather than tactical
+    detail.
+- id: motif:3
+  label: slaughter of descendants as vengeance
+  taxonomy_refs: []
+  basis: Drupad's grandsons, identified as Draupadi's children, are killed as part
+    of the vengeance after the killing of Panchala princes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not expand on the children's individual identities.
+- id: motif:4
+  label: dying ruler comforted by completed vengeance
+  taxonomy_refs: []
+  basis: Duryodhan blesses Aswa-thaman and dies happy after the vengeance has been
+    carried out.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Duryodhan's status as ruler or ally is only implied by his name and the
+    context supplied in the passage label; the passage itself shows him as dying and
+    receiving the avenger.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5941-5942
+  quote_or_summary: '"Drona slept and gallant Drupad, for their earthly task was done";
+    vengeance fires Drona''s son against Drupad''s son.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 5943-5944
+  quote_or_summary: Midnight shadows fall over the silent battlefield; faint planets
+    shine over the dying and slain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5945-5946
+  quote_or_summary: The vengeful son of Drona, moved by dark and dreadful omens, steals
+    softly and noiselessly into the enemy tents.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 5947-5948
+  quote_or_summary: '"Dhrista-dyumna and Sikhandin, princes of Panchala''s land, /
+    Fell beneath" Aswa-thaman''s hand.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 5949-5950
+  quote_or_summary: Where Drupad's sleeping grandsons, Draupadi's children, lie, vengeance
+    smothers them before dawn.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5951-5952
+  quote_or_summary: After the slaughter, Aswa-thaman goes to the place where Duryodhan
+    lies dying beside clear waters.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5953-5954
+  quote_or_summary: Duryodhan blesses the hero with his failing breath; joy of vengeance
+    cheers him, and he dies happy.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for figures, actions, and sequence. Motif labels
+    are candidate descriptive patterns without broader historical comparison. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the explicitly available symbol 'water'; no motif-family taxonomy ID was assigned because the passage does not clearly support one from the available list.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-mahabharata-dutt-gutenberg__l5941-l5960
+  passage_sha256=63eb0ae25ba87499ddbdfabe2c55a293b6fca8b7995a30e6b9c06623afaa7688
+

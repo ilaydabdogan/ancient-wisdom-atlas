@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l2113-l2148
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XXI. THE HUNTER AND THE TORTOISE / XXII. THE TAIL OF THE PRINCESS ELEPHANT
+    / XXIII. KWOFI AND THE GODS / XXIV. THE LION AND THE WOLF; lines 2113-2148
+  start: '2113'
+  end: '2148'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“not a sheep—but a lion”"
+  summary: A wolf repeatedly kills an old woman's sheep until only one remains. A
+    lion offers to punish the wolf, takes the sheep's usual place while the sheep
+    is moved, and is attacked by the wolf. A fox sees by lightning that the supposed
+    sheep is a lion and flees. The wolf apologizes, but the lion kills him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old lady owns a flock of sheep known for their fatness.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wolf hears of the sheep and decides to eat them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf comes night after night and kills sheep until only one sheep remains.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The woman grieves over the danger to the last sheep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A lion asks why the woman is sad and offers to punish the wolf.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The lion goes to the place where the sheep is usually kept, while the sheep
+    is moved elsewhere.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: On the way to the cottage, the wolf meets a fox and invites him to come along.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The wolf rushes upon the animal in the sheep's usual sleeping place while
+    the fox waits behind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A bright flash of lightning lets the fox see that the wolf is attacking a
+    lion instead of a sheep.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The fox runs away while shouting, “Look at his face! Look at his face!”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The wolf realizes his mistake, apologizes, and is killed by the lion.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: old lady / old dame
+  description: Owner of the sheep flock; she grieves when the wolf reduces the flock
+    to one sheep.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: flock of sheep / last remaining sheep
+  description: A well-fed flock famous for fatness; after repeated attacks only one
+    sheep remains and is moved away from its usual place.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: wolf
+  description: A wolf who kills the old woman's sheep, invites the fox to join him,
+    attacks the lion while mistaking him for a sheep, apologizes, and is put to death.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: lion
+  description: A lion who offers to punish the wolf, occupies the sheep's usual place,
+    is attacked by the wolf, refuses the wolf's apologies, and kills him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: fox
+  description: A fox met by the wolf on the road; he follows at a distance, sees by
+    lightning that the animal is a lion, warns by shouting, and flees.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: aggrieved owner
+  assigned_to:
+  - fig:1
+  basis: She owns the flock, loses sheep to the wolf, and grieves over the last sheep.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: prey / threatened property
+  assigned_to:
+  - fig:2
+  basis: The sheep are the wolf's targets; the final sheep is moved away from danger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: predatory thief
+  assigned_to:
+  - fig:3
+  basis: The wolf repeatedly steals up to the cottage and kills sheep.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: protective avenger
+  assigned_to:
+  - fig:4
+  basis: The lion offers to punish the wolf and kills him after the mistaken attack.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: cautious witness and escapee
+  assigned_to:
+  - fig:5
+  basis: The fox waits behind, recognizes the lion by lightning, shouts a warning,
+    and runs away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: deceived attacker
+  assigned_to:
+  - fig:3
+  basis: The wolf attacks what he believes is a sheep, but it is the lion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fat sheep flock
+  literal_form: the old woman's well-fed sheep and the last remaining sheep
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: usual sheep-place as trap location
+  literal_form: the place where the sheep was generally kept or slept
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: revealing lightning flash
+  literal_form: a bright flash of lightning
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: face as sign of true identity
+  literal_form: the lion's face noticed during the flash and named in the fox's cry
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Wolf reduces the flock
+  summary: The old woman has a famous fat flock, but a wolf comes at night and kills
+    the sheep until only one remains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lion takes the sheep's place
+  summary: The lion hears the woman's complaint, offers to punish the wolf, and occupies
+    the usual sheep-place while the sheep is moved elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wolf and fox approach the cottage
+  summary: The wolf meets the fox, invites him to join, and the two go to the sheep's
+    sleeping place, where the wolf attacks the animal while the fox stays back.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lightning reveals the lion
+  summary: A flash of lightning reveals to the fox that the supposed sheep is a lion,
+    and the fox runs away shouting about the lion's face.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Wolf is killed
+  summary: The wolf sees his mistake and apologizes, but the lion refuses his explanations
+    and puts him to death.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Predator trapped by substituted guardian
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The lion takes the place where the sheep usually sleeps; the wolf attacks
+    him under the mistaken belief that he is attacking a sheep, and is killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy family is broad; the passage shows protective deception
+    or substitution rather than naming a formal trickster figure.
+- id: motif:2
+  label: Powerful helper avenges the vulnerable owner
+  taxonomy_refs: []
+  basis: The lion hears the old woman's grief, offers to punish the wolf, and kills
+    him after he attacks.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern, not linked here to a specific external
+    motif index number.
+- id: motif:3
+  label: Danger revealed by sudden light
+  taxonomy_refs: []
+  basis: A bright flash of lightning reveals to the fox that the attacked animal is
+    a lion rather than a sheep.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The lightning functions literally as illumination in the passage; any
+    broader symbolic reading would require external comparison.
+- id: motif:4
+  label: Cautious companion escapes doomed predator
+  taxonomy_refs: []
+  basis: The fox stays behind, sees the lion, flees, and survives while the wolf is
+    killed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not state the fox's later fate beyond his flight.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2113-2125
+  quote_or_summary: An old lady owns a very fine flock of sheep; a wicked wolf hears
+    of them, kills sheep night after night, and leaves only one sheep, causing the
+    woman grief.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 2126-2132
+  quote_or_summary: A lion comes to the village, asks why the woman is sad, offers
+    to punish the wolf, and goes to the place where the sheep is usually kept while
+    the sheep is moved elsewhere.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 2133-2140
+  quote_or_summary: The wolf meets a fox on the way, invites him along, and rushes
+    on the animal in the sheep's usual sleeping place while the fox waits a little
+    behind.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 2140-2144
+  quote_or_summary: A lightning flash shows the fox that the wolf is attacking “not
+    a sheep—but a lion”; the fox runs away shouting, “Look at his face!”
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:5
+  type: summary
+  locator: lines 2145-2148
+  quote_or_summary: During the flash the wolf sees his mistake, makes humble apologies,
+    but the lion refuses to listen and puts him to death.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and passage-level; only one broad available taxonomy reference is used, with caution.
+    No comparison claims are made because the passage itself provides no explicit
+    cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or motif indexes were used beyond the supplied taxonomy reference list.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l2113-l2148
+  passage_sha256=014933593cbbe76ee1e588bb237eed27665ea931469db8bb6add0eba47585f93
+

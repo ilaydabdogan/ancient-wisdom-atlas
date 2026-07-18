@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l1950-l2021
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: ORTHOGRAPHY. / DISTRIBUTION OF THE TRIBES. / GENERAL OBSERVATIONS. / BAFFIN
+    LAND.; lines 1950-2021
+  start: '1950'
+  end: '2021'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes walrus distribution, seasonal hunting and provisioning
+    around Cumberland Sound and Davis Strait, settlement use at Ukiadliving, and overland
+    or ice routes shaped by water, snow, ice, fjords, capes, and isthmuses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Walrus are described as absent from the upper part of the sound but abundant
+    farther south; local names are cited as evidence that walrus were formerly found
+    more widely in the sound.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before Cumberland Sound freezes, the Eskimo of Ugjuktung hunt walrus at specified
+    islands and bury the killed animals under stones as a stock of provisions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the Saumingmiut avoid winter want through stored walrus provisions,
+    while also sealing or traveling overland to another hunting area.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Young sealing near Ugjuktung is said to be of little importance because bears
+    visit the fjords and frighten seals away.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In March, people go bear hunting or move up the sound to join the Kingnaitmiut
+    during young sealing; in spring the settlement is abandoned as many go to Davis
+    Strait.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ukiadliving has stone foundations that are frequently rebuilt and used as
+    dwellings.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At Ukiadliving, walrus are hunted in summer and fall, winter sealing is done
+    on the floe, and spring bears pursue pupping seals; bear meat and skins are valued.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: One longer route to Cumberland Sound starts near Ukiadliving, follows a river,
+    ascends inland ice, and reaches valleys and passes; this is described as the only
+    overland route in the passage that crosses inland ice.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Several travel routes avoid capes, projecting points, or open water by using
+    short isthmuses, passes, bays, or difficult peninsula crossings.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: On Davis Strait, route choice depends on snow and ice conditions; if routes
+    are impracticable, travel is delayed until spring conditions improve.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A pass from Exeter Sound to Padli Fjord cannot be used until June because
+    of deep snow, while nearby peninsulas can be crossed by narrow isthmuses.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Walrus
+  description: Animals formerly said to have been found throughout the sound, now
+    absent from the upper sound but hunted in southern and eastern-coast locations
+    for provisions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Eskimo of Ugjuktung
+  description: People who hunt walrus before freeze-up, store the animals under stones,
+    go sealing, travel overland, and later move seasonally.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Saumingmiut
+  description: Group described as avoiding winter want through stored provisions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kingnaitmiut
+  description: Group joined by others during the time of young sealing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Inhabitants of Ukiadliving
+  description: People associated with the east-coast settlement of Ukiadliving, walrus
+    hunting, winter sealing, spring bear harvests, and travel routes toward Exeter
+    Sound.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Bears
+  description: Animals that visit fjords and frighten seals away; in spring they visit
+    land and islands to pursue pupping seals, and old bears and cubs are killed for
+    meat and skins.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Seals and pupping seals
+  description: Animals hunted by people and pursued or frightened by bears; pupping
+    seals are identified as pregnant or parturient seals.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: hunters and travelers
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The passage describes these people hunting walrus, sealing, bear hunting,
+    moving between settlements, and using overland or ice routes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: winter-provisioned group
+  assigned_to:
+  - fig:3
+  basis: The Saumingmiut are said not to suffer want during winter because of stored
+    provisions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seasonal host or aggregation group
+  assigned_to:
+  - fig:4
+  basis: Others move up the sound to join the Kingnaitmiut during young sealing.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: hunted animal or provision source
+  assigned_to:
+  - fig:1
+  - fig:6
+  - fig:7
+  basis: Walrus are killed and stored, seals are hunted, and bears or cubs are killed
+    for meat and skins.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: nonhuman predator affecting hunting conditions
+  assigned_to:
+  - fig:6
+  basis: Bears frighten seals away and pursue pupping seals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: prey of bears and humans
+  assigned_to:
+  - fig:7
+  basis: Seals are hunted by people and are also frightened or pursued by bears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: water as travel obstacle
+  literal_form: Water around capes, points, and passages that prevents or redirects
+    winter travel.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: inland ice route
+  literal_form: Inland ice ascended and crossed by sledges on one overland route.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: stones and stone foundations
+  literal_form: Stones covering buried walrus provisions and stone foundations reconstructed
+    as dwellings.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: isthmus or pass
+  literal_form: Short isthmuses and passes used to cross peninsulas or avoid difficult
+    coastlines.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Walrus distribution and place-name memory
+  summary: The passage contrasts current walrus absence in the upper sound with abundance
+    farther south and reports local names as evidence of former walrus presence.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ugjuktung seasonal provisioning and movement
+  summary: Before freeze-up, walrus are hunted and stored under stones; winter includes
+    stored provisions, sealing, or overland travel; March and spring bring bear hunting,
+    aggregation with the Kingnaitmiut, and movement toward Davis Strait.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ukiadliving hunting cycle
+  summary: At Ukiadliving, rebuilt stone foundations serve as dwellings, walrus are
+    hunted in summer and fall, sealing occurs in winter, and spring bear hunting yields
+    meat and skins.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Longer route to Cumberland Sound
+  summary: A route from near Ukiadliving follows a river, ascends inland ice, reaches
+    valleys and passes, and uses isthmuses or crossings to avoid capes, points, and
+    water.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Davis Strait and Exeter Sound routes
+  summary: Travelers use difficult overland routes, rough ice, fjords, passes, and
+    narrow isthmuses; snow, ice, water, and seasonal timing determine whether passage
+    is possible.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Seasonal hunting, provisioning, and movement cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly organizes walrus hunting, sealing, bear hunting, settlement
+    abandonment, and travel by fall, winter, March, spring, summer, and June conditions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an ethnographic subsistence and travel pattern rather than a mythic
+    narrative episode.
+- id: motif:2
+  label: Environmental passage through ice, water, passes, and isthmuses
+  taxonomy_refs: []
+  basis: Routes are described as depending on inland ice, floe conditions, water-washed
+    capes, passes, and narrow isthmuses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: No available taxonomy motif exactly matches this literal travel-route
+    pattern; it should not be treated as evidence for a mythic journey motif without
+    further context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1950-1958
+  quote_or_summary: Walrus are absent from the upper sound, abundant farther south,
+    and said by tradition and place names to have formerly occurred more widely.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1960-1974
+  quote_or_summary: Ugjuktung people hunt walrus before freeze-up, bury kills under
+    stones, use the stock for winter provisions, seal or travel overland, face bear
+    disturbance of seals, and move seasonally in March and spring.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1976-1986
+  quote_or_summary: Ukiadliving has rebuilt stone foundations; walrus are hunted in
+    summer and fall, winter sealing occurs on the floe, and spring bears pursue pupping
+    seals while bear meat and skins are prized.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1988-2004
+  quote_or_summary: A longer route to Cumberland Sound begins near Ukiadliving, follows
+    a river, ascends inland ice, crosses valleys and passes, and uses isthmuses or
+    difficult roads to avoid water and capes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2006-2017
+  quote_or_summary: Davis Strait travel uses isthmuses and routes affected by snow,
+    ice, rough hummocks, and water-washed Cape Walsingham; passage by Ituatukan is
+    preferred when conditions allow.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2019-2021
+  quote_or_summary: A short pass connects Exeter Sound and Padli Fjord but deep snow
+    prevents passage until June; nearby peninsulas can be crossed by narrow isthmuses.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal geographic and seasonal observations are clear. Motif candidates
+    are limited because the passage is ethnographic and non-narrative. No comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Interpretive claims were minimized; symbols are treated as literal recurrent objects or environmental features rather than mythic symbolism.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l1950-l2021
+  passage_sha256=d33962d3c78556f934d430e55aa9534c509cb7f972027719509cbc4509ce4054
+

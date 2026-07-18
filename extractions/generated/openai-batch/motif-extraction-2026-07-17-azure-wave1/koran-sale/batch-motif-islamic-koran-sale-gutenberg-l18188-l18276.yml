@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l18188-l18276
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER VIII. / IN THE NAME OF THE
+    MOST MERCIFUL GOD. / CHAPTER IX.; lines 18188-18276
+  start: '18188'
+  end: '18276'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Do ye expect any other should befall us, than one of the two most excellent
+    things; either victory or martyrdom?
+  summary: 'The passage addresses an opposing or hypocritical group: it contrasts
+    victory or martyrdom with divine punishment, rejects unwilling pious contributions
+    from unbelievers, describes wealth and children as a worldly punishment for them,
+    depicts them as fearing and seeking refuge, criticizes complaints over alms, prescribes
+    eligible alms recipients, and answers an insult against the prophet.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks whether anything can be expected for the faithful other than
+    victory or martyrdom.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker expects God to punish the addressed group either directly or through
+    the hands of the faithful.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: obs:3
+  text: Money expended in pious uses, whether voluntarily or under constraint, is
+    said not to be accepted from the wicked group.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Their contributions are said to be rejected because they do not believe in
+    God and his apostle, pray sluggishly, and expend unwillingly.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Their riches and children are described as things by which God intends to
+    punish them in this world while their souls depart as unbelievers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: They swear by God that they belong to the addressed community, but the passage
+    states that they are not of it and are people who stand in fear.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: If they find a place of refuge, caves, or a retreating hole, they turn toward
+    it and hasten there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Some of them spread ill reports about the prophet concerning the distribution
+    of alms; they are pleased if they receive a share and angry if they do not.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'The passage presents a more fitting response: to be pleased with what God
+    and the apostle gave and to make supplications to God.'
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: 'Alms are assigned to named recipient categories: the poor, needy, collectors
+    and distributors, reconciled hearts, captives to be redeemed, insolvent debtors,
+    the advancement of God''s religion, and the traveller.'
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Some injure the prophet by saying he is an ear; the answer calls him an ear
+    of good, one who believes in God, gives credit to the faithful, and is a mercy
+    to believers.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: A note explains the category of those whose hearts are reconciled as former
+    enemies who embraced Mohammedism and entered amity with the faithful.
+  category: other
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: God
+  description: God is invoked as the source of punishment, support, abundance, and
+    the ordinance concerning alms; God is called knowing and wise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: The apostle / prophet
+  description: The apostle or prophet is associated with distribution and giving,
+    is injured by hostile speech, and is defended as an ear of good and a mercy to
+    believers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: The faithful speaker-group
+  description: The speaker-group expects victory or martyrdom and may be the means
+    by which God punishes the opposing group.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:4
+  name_or_label: Wicked or hypocritical opposing group
+  description: This group is described as unbelieving, sluggish in prayer, unwilling
+    in expenditure, fearful, seeking refuge, and complaining about alms distribution.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Eligible alms recipients
+  description: The listed recipients include the poor, needy, alms workers, those
+    whose hearts are reconciled, captives, insolvent debtors, the cause of God's religion,
+    and travellers.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:12
+roles:
+- id: role:1
+  label: Divine judge, provider, and ordinance-giver
+  assigned_to:
+  - fig:1
+  basis: God is said to punish, support and give abundance, and ordain the distribution
+    of alms.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:2
+  label: Prophetic distributor and mercy to believers
+  assigned_to:
+  - fig:2
+  basis: The prophet is linked to distribution of alms, giving with God, and being
+    an ear of good and mercy to believers.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:3
+  label: Faithful combatant community
+  assigned_to:
+  - fig:3
+  basis: The speaker-group treats victory and martyrdom as the two possible outcomes
+    and may act as the instrument of punishment.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:4
+  label: Hypocritical or unbelieving community-claimants
+  assigned_to:
+  - fig:4
+  basis: The group swears it belongs to the community but is described as unbelieving,
+    fearful, unwilling, and resentful over alms.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Entitled recipient of alms
+  assigned_to:
+  - fig:5
+  basis: The passage lists categories to whom alms are to be distributed.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: Reconciled former enemy category
+  assigned_to:
+  - fig:5
+  basis: A note explains the reconciled-hearts category as former enemies who embraced
+    Mohammedism and entered amity with the faithful.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: Two excellent outcomes
+  literal_form: Victory or martyrdom
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Alms and pious expenditure
+  literal_form: Money expended in pious uses; alms distributed by ordinance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: Riches and children
+  literal_form: The possessions and children of the unbelieving group
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Cave refuge
+  literal_form: A place of refuge, caves, or a retreating hole
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: The ear
+  literal_form: The hostile saying that the prophet is an ear, answered as an ear
+    of good
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Victory or martyrdom contrasted with punishment
+  summary: The faithful speaker-group names victory or martyrdom as its two expected
+    outcomes and expects punishment for the opposing group from God or through faithful
+    hands.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: scene:2
+  label: Rejected pious contributions and worldly punishment
+  summary: The passage states that the opposing group's pious expenditures are not
+    accepted because of unbelief and unwillingness, and that their riches and children
+    serve as worldly punishment.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: False belonging and flight to refuge
+  summary: The group swears it belongs to the community while being described as fearful
+    and eager to flee to refuges, caves, or holes.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Complaint and ordinance of alms
+  summary: Some complain about the prophet's distribution of alms; the passage then
+    gives proper reliance on God and names the categories to whom alms are to be distributed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Insult against the prophet answered
+  summary: Some injure the prophet by calling him an ear, and the reply reframes him
+    as an ear of good, a believer in God, giver of credit to the faithful, and mercy
+    to believers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Divine punishment of unbelief and hypocrisy
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is expected to punish the opposing group, and their wealth and children
+    are described as instruments of worldly punishment while they remain unbelievers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:10
+  confidence: high
+  cautions: The passage is juridical and exhortative rather than a narrative judgment
+    scene.
+- id: motif:2
+  label: Pious giving accepted or rejected according to faith and willingness
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage says pious expenditure is not accepted from the wicked or unbelieving,
+    and it gives an ordinance for alms distribution.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy link is broad; the passage concerns alms law and sincerity
+    rather than a mythic exchange bargain.
+- id: motif:3
+  label: Victory or martyrdom as blessed alternatives
+  taxonomy_refs:
+  - sacrifice
+  basis: The faithful speaker-group treats victory and martyrdom as the two excellent
+    possible outcomes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Martyrdom is named, but the passage does not describe a ritual sacrifice.
+- id: motif:4
+  label: Outward oath versus inward unbelief
+  taxonomy_refs:
+  - duality
+  basis: The group swears that it belongs to the community, while the passage states
+    that it does not and describes fear and concealed infidelity in the note.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  confidence: medium
+  cautions: The duality is moral and communal, not a cosmic dualism.
+- id: motif:5
+  label: Flight to hidden refuge
+  taxonomy_refs: []
+  basis: The fearful group is described as hastening toward refuges, caves, or retreating
+    holes if it can find them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a behavioral image within polemic; no broader taxonomy family
+    is supplied beyond the cave symbol.
+comparison_claims:
+- id: claim:1
+  claim: A commentarial note links the complaint over the prophet's distribution to
+    reports about the distribution of spoils at Honein, where a critic objected to
+    gifts among Meccans; this supports a cautious same-function comparison between
+    alms-distribution complaint and spoils-distribution complaint.
+  claim_level: same_function
+  target: Sale's note on the Honein spoils-distribution tradition
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note gives alternative identifications for the complaining person
+    and frames the matter historically rather than as an explicit mythic motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18188-18276; paragraph beginning 'Say, Do ye expect'
+  quote_or_summary: The faithful expect 'one of the two most excellent things; either
+    victory or martyrdom,' while expecting God to punish the opposing group.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 18188-18276; paragraphs on pious expenditure and contributions
+  quote_or_summary: The passage says pious expenditure, whether voluntary or constrained,
+    will not be accepted from wicked people because they do not believe in God and
+    his apostle, pray sluggishly, and spend unwillingly.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18188-18276; paragraph beginning 'Let not therefore their riches'
+  quote_or_summary: Riches and children are not to cause marvel; God intends to punish
+    them by these things in this world, and their souls depart while they are unbelievers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18188-18276; paragraph beginning 'They swear by GOD'
+  quote_or_summary: They swear by God that they are of the community, yet the passage
+    says they are not of it and are people who stand in fear.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 18188-18276; paragraph beginning 'If they find a place of refuge'
+  quote_or_summary: They would turn and hasten toward 'a place of refuge, or caves,
+    or a retreating hole.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 18188-18276; paragraph beginning 'There is of them also'
+  quote_or_summary: Some spread ill reports about the prophet's distribution of alms;
+    if they receive part of it they are pleased, but if not they are angry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 18188-18276; paragraph beginning 'But if they had been pleased'
+  quote_or_summary: 'A more proper response is described: to be pleased with what
+    God and the apostle gave, to call God their support, and to make supplications
+    to God.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 18188-18276; verse marker 60, paragraph beginning 'Alms are to be
+    distributed'
+  quote_or_summary: Alms are to be distributed to the poor, needy, alms workers, reconciled
+    hearts, captives, insolvent debtors, the advancement of God's religion, and the
+    traveller; this is called an ordinance from God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 18188-18276; paragraph beginning 'There are some of them who injure
+    the prophet'
+  quote_or_summary: Some injure the prophet by saying he is an ear; the answer says
+    he is an ear of good, believes in God, gives credit to the faithful, and is mercy
+    to believers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 18188-18276; notes d and f
+  quote_or_summary: Sale's notes gloss punishment as either a signal judgment from
+    heaven or punishment through believers, and gloss the fearful group as hypocritically
+    concealing infidelity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 18188-18276; note g
+  quote_or_summary: Sale's note identifies the complainant about distribution as Abu'l
+    Jowdh or, according to others, Ebn Dhi'lkhowaisara, who faulted the prophet's
+    distribution of spoils at Honein among Meccans.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 18188-18276; note k
+  quote_or_summary: Sale's note explains 'those whose hearts are reconciled' as former
+    enemies who embraced Mohammedism and entered amity with the faithful, with gifts
+    made to gain and confirm them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is strong for the supplied English passage. Motif mapping
+    is cautious because the passage is primarily exhortative, legal, and polemical
+    rather than mythic narrative. The comparison claim depends on a commentarial note
+    with alternative identifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l18188-l18276
+  passage_sha256=cd1b3a2be8c960ad56940448dbfde3a4abe824f822c9b300ebf85def15fb5eda
+

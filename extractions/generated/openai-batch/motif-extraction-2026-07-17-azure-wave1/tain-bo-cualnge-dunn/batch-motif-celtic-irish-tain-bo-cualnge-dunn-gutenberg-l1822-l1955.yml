@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l1822-l1955
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: WORKS ON THE TAIN BO CUALNGE / THE PILLOW-TALK / THIS IS THE ROUTE OF THE
+    TAIN / THE MARCH OF THE HOST; lines 1822-1955
+  start: '1822'
+  end: '1955'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Fergus defends allied contingents in Medb's army, disperses the Galian
+    among the host, and is chosen to go ahead for tidings because of his former kingship
+    and exile from Ulster. While leading the host, he sends warnings to the Ulstermen
+    and delays the army out of affection for his kin. Medb rebukes him for the devious
+    route and threatens to replace him. Fergus remains in front and warns the host
+    to beware of Cuchulain, described through martial animal and fire imagery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fergus says he is allied with Ulster-related and Munster forces, is surety
+    for them, and would give battle in the camp rather than forsake them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fergus describes the host as seventeen cantreds plus additional followers
+    and identifies the Galian as an eighteenth division; he proposes dispersing the
+    Galian so that no five of them are in one place, and Medb accepts this.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The troops set out and march according to tribes, stems, districts, kings,
+    lords, and captains, with separate routes and halting heights.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The host decides Fergus is the proper person to seek advance tidings because
+    he had been king in Ulster and later lived in exile and enmity from Ulster.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After being entrusted with the lead, Fergus feels affection for his Ulster
+    kin, leads the troops astray in a great north-and-south circuit, sends warnings
+    to the Ulstermen, and delays the host until Ulster can gather an army.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Medb notices the devious route, rebukes Fergus in verse, reports Ailill's
+    fear of betrayal, and threatens to find another guide if Fergus shows love to
+    their foes.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Fergus says he will no longer be in the van of the troops, but the narrative
+    states that he nevertheless keeps his place there.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: At Cul Silinne, Fergus warns the men of Erin to guard against Cuchulain and
+    describes him with hostile and fiery martial epithets.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Fergus son of Ross the Red
+  description: An Ulster exile in Medb's company; he is surety for allied warriors,
+    chosen to seek tidings, leads the host astray, warns Ulster, and warns the host
+    about Cuchulain.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Medb
+  description: Queen in whose company the kings and queens travel; she accepts the
+    dispersal of the Galian and rebukes Fergus for the devious route.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Ailill
+  description: Named by Medb as fearing that Fergus may betray the host.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: The Galian / division of Leinstermen
+  description: A cantred or division within the host that Fergus distributes among
+    the men of Erin so that fewer than five are in any one place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: The men of Erin / Medb's host
+  description: The large army organized by provinces, tribes, rulers, troops, and
+    bands, and later warned to guard against Cuchulain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:6
+  name_or_label: The Ulstermen / Ultonians
+  description: Fergus's kin and former people; they are said to be in their Pains
+    except Cuchulain and Sualtaim, and Fergus sends them warnings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Cuchulain son of Sualtaim / the Blacksmith's Hound
+  description: An Ulster figure whom Fergus hopes to avoid and later announces as
+    a coming danger to the men of Erin.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: Protector and surety of allied warriors
+  assigned_to:
+  - fig:1
+  basis: Fergus says he is bond, surety, and guarantee for the warriors and will not
+    forsake them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Queen and army commander who rebukes the guide
+  assigned_to:
+  - fig:2
+  basis: Medb accepts the arrangement concerning the Galian and later challenges Fergus's
+    leadership of the route.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: Advance guide and seeker of tidings
+  assigned_to:
+  - fig:1
+  basis: The lead of the way is entrusted to Fergus because of his Ulster knowledge
+    and history.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Potentially concentrated contingent dispersed through the host
+  assigned_to:
+  - fig:4
+  basis: Fergus distributes the Galian among the men of Erin so that no five are together
+    in one place.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Marching invading host
+  assigned_to:
+  - fig:5
+  basis: The passage describes the host setting out, marching by divisions, and receiving
+    Fergus's warning about Cuchulain.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:6
+  label: Warned kin and threatened homeland group
+  assigned_to:
+  - fig:6
+  basis: Fergus feels affection for his Ulster kindred and sends warnings to the Ulstermen
+    while delaying the host.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Approaching champion and feared adversary
+  assigned_to:
+  - fig:7
+  basis: Fergus seeks to avoid Cuchulain and warns the host that Cuchulain will come
+    upon them.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:8
+  label: Suspicious allied king
+  assigned_to:
+  - fig:3
+  basis: Medb says Ailill fears Fergus may betray the host.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Devious route or great circuit
+  literal_form: A north-and-south circuitous route by which Fergus leads the host
+    astray.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Blacksmith's Hound epithet
+  literal_form: The epithet used for Cuchulain, glossed in the passage note as Cuchulain.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Flaming torch image
+  literal_form: A flaming torch used among Fergus's descriptions of Cuchulain.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Rapacious lion image
+  literal_form: A rapacious lion used among Fergus's descriptions of Cuchulain.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Fergus defends allies and disperses the Galian
+  summary: Fergus insists on his guarantee for allied warriors and proposes dispersing
+    the Galian among the army; Medb accepts, and Fergus carries out the distribution.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The host sets out and appoints Fergus to scout ahead
+  summary: The troops march by social and military divisions, then decide that Fergus
+    should seek advance tidings because of his history as an Ulster king and exile.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fergus delays the host and Medb rebukes him
+  summary: Fergus guides the host on a devious circuit, sends warnings to Ulster,
+    and delays the army; Medb accuses him of misdirection and threatens to replace
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Warning at Cul Silinne concerning Cuchulain
+  summary: After the provinces pass the night at Cul Silinne, Fergus warns the host
+    that Cuchulain will come against them and describes him through fierce martial
+    imagery.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Guide misdirects an army to protect kin
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Fergus is entrusted with leading the way but, out of affection for Ulster,
+    leads the host astray, warns Ulster, and delays the army.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage frames the act as kin-affection and divided loyalty rather
+    than as explicit trickster identity or supernatural boundary-crossing.
+- id: motif:2
+  label: Ordered departure and march of a great host
+  taxonomy_refs:
+  - departure
+  basis: The passage describes the army setting out and arranging its march by tribes,
+    leaders, bands, routes, and halting places.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a military hosting scene; the available taxonomy term is broader
+    than the literal logistics described.
+- id: motif:3
+  label: Dangerous champion announced before combat
+  taxonomy_refs: []
+  basis: Fergus warns the host that Cuchulain will come upon them and names him with
+    threatening epithets such as vanquisher of multitudes, mangler of great hosts,
+    and flaming torch.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage anticipates Cuchulain's threat but does not narrate the ensuing
+    combat in this excerpt.
+- id: motif:4
+  label: Dispersal of a powerful contingent to prevent dominance
+  taxonomy_refs: []
+  basis: Fergus disperses the Galian among the men of Erin so that no five are together
+    and so that they do not hold their earlier strong position in battle order.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as military-political management rather than
+    an explicitly sacred or supernatural motif.
+- id: motif:5
+  label: Divided loyalty of an exile between host and homeland
+  taxonomy_refs: []
+  basis: Fergus serves in Medb's company but has Ulster kinship ties, remembers his
+    exile, and acts to warn and delay on behalf of Ulster.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a narrative role pattern rather than a taxonomy-supported mythic
+    motif in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1822-1955; Fergus's opening speech
+  quote_or_summary: Fergus says he has allied under-kings and Ulster-related youths
+    with him, is bond and surety for them, will give battle if needed, and will not
+    forsake them.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1822-1955; discussion and action concerning the Galian
+  quote_or_summary: Fergus describes the host's divisions, including the Galian, and
+    says he will distribute the Galian so that no five are in one place; Medb agrees,
+    and Fergus does so.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1822-1955; beginning of the march
+  quote_or_summary: The troops set out, marching by tribes, stems, districts, kings,
+    lords, and captains, with separate routes and halting heights.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1822-1955; counsel on who should seek tidings
+  quote_or_summary: The host chooses Fergus to seek tidings because he had been king
+    of Ulster and then lived away from Ulster in exile and enmity after Conchobar's
+    usurpation and the murder of the sons of Usnech.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1822-1955; Fergus entrusted with the lead
+  quote_or_summary: The lead is entrusted to Fergus; affection for his Ulster kindred
+    comes over him, so he leads the troops astray in a great circuit, sends warnings
+    to the Ulstermen, and delays the host until Ulster can gather an army.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1822-1955; Medb and Fergus exchange verses
+  quote_or_summary: Medb asks why Fergus has led them on a devious way, says Ailill
+    fears betrayal, and threatens to find another guide if Fergus shows love to their
+    enemies; Fergus denies treacherous purpose and mentions avoiding Cuchulain, the
+    Blacksmith's Hound.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 1822-1955; after Medb's rebuke
+  quote_or_summary: Fergus says he will be in the van no longer and tells Medb to
+    find another guide, but the narrative says he kept his place in the van.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 1822-1955; night at Cul Silinne
+  quote_or_summary: The four provinces pass the night at Cul Silinne; Fergus becomes
+    anxious about Cuchulain and warns the men of Erin to guard against him, describing
+    him as a rapacious lion, doom of foes, vanquisher of multitudes, mangler of great
+    hosts, and flaming torch.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal events and figures are clear in the passage. Motif labels are cautious
+    because much of the excerpt concerns military logistics and political loyalty
+    rather than explicitly named mythic motifs. No external comparison claims were
+    generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided available_taxonomy_refs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l1822-l1955
+  passage_sha256=21b11c5528ab4881cb0300fdc8f4d55369315681ba982c025812f11886250096
+

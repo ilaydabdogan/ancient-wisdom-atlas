@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l26758-l26800
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: ENTITLED, THE TRUE BELIEVERS; REVEALED AT MECCA. / IN THE NAME OF THE MOST
+    MERCIFUL GOD. / CHAPTER XXIV. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 26758-26800
+  start: '26758'
+  end: '26800'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“on a certain day they shall be assembled before him; and he shall declare
+    unto them that which they have done”"
+  summary: The passage instructs believers to exchange salutations when entering houses,
+    to remain with the apostle during communal affairs unless granted leave, to treat
+    the apostle’s summons or address with special respect, and warns those who resist
+    his command of calamity or future punishment. It closes by affirming that all
+    in heaven and earth belongs to God, that God knows human actions, and that people
+    will be assembled before him and told what they have done.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: People entering houses are instructed to salute one another on God’s part
+    with a blessed and welcome salutation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: True believers are described as those who believe in God and his apostle and
+    do not leave an assembly with the apostle on an affair until they have obtained
+    his permission.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When believers ask leave to depart for their own business, the apostle is
+    told to grant leave to whom he thinks fit and to ask God’s pardon for them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage warns against treating the calling of the apostle like ordinary
+    calling among people.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: God is said to know those who privately withdraw from the assembly while taking
+    shelter behind one another.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Those who withstand the apostle’s command are warned of possible calamity
+    in this world or grievous punishment in the life to come.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Everything in heaven and on earth is said to belong to God, who knows what
+    people are doing.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: On a certain day, people will be assembled before God, and he will declare
+    to them what they have done.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A note explains that, if nobody is in the house, one may salute oneself with
+    words of peace, and angels will return the salutation.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine being who declares signs, grants pardon, owns what is in
+    heaven and earth, knows human actions, and before whom people will be assembled.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the apostle
+  description: The apostle with whom believers assemble, whose permission is required
+    for departure, and whose calling or address is not to be treated as ordinary.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: true believers
+  description: Those who believe in God and his apostle and seek permission before
+    leaving the apostle’s assembly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: those who privately withdraw or withstand command
+  description: People who withdraw secretly from the assembly or resist the apostle’s
+    command and are warned of calamity or punishment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: angels
+  description: In the explanatory note, angels return the salutation when a person
+    enters an empty house and greets oneself with peace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine revealer and pardoner
+  assigned_to:
+  - fig:1
+  basis: God declares signs so that people may understand and is described as gracious
+    and merciful when the apostle asks pardon for those who depart with leave.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: apostolic authority in assembly
+  assigned_to:
+  - fig:2
+  basis: Believers are instructed not to depart from an affair with the apostle until
+    they have obtained leave, and the apostle may grant leave as he thinks fit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: obedient believers
+  assigned_to:
+  - fig:3
+  basis: True believers are those who believe in God and the apostle and ask leave
+    before departing from the apostle’s assembly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine owner, knower, and judge
+  assigned_to:
+  - fig:1
+  basis: Everything in heaven and earth belongs to God; God knows what people do;
+    and people will be assembled before him and told their deeds.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: disobedient or evasive participants
+  assigned_to:
+  - fig:4
+  basis: The passage describes people who privately withdraw from the assembly and
+    warns those who withstand the apostle’s command.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: responders to salutation
+  assigned_to:
+  - fig:5
+  basis: The note says angels return the salutation when an empty house is greeted
+    with peace.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: house entry salutation
+  literal_form: salutation when entering houses
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:2
+  label: assembly with the apostle
+  literal_form: communal gathering on an affair with the apostle
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: heaven and earth
+  literal_form: whatever is in heaven and on earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: day of assembly before God
+  literal_form: a certain day when people are assembled before God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Salutation upon entering houses
+  summary: The passage instructs people entering houses to offer one another a blessed
+    and welcome salutation on God’s part; a note adds a formula for an empty house
+    and says angels return the salutation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: scene:2
+  label: Permission to leave the apostle’s assembly
+  summary: True believers are defined by belief in God and the apostle and by remaining
+    in an assembly with the apostle until receiving leave; the apostle may grant leave
+    and ask pardon for them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Warning against disregard of the apostle’s command
+  summary: The passage warns not to treat the apostle’s calling like ordinary calling,
+    notes that God knows those who privately withdraw, and warns command-resisters
+    of worldly calamity or punishment in the life to come.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Final assembly before God
+  summary: The passage affirms God’s ownership of heaven and earth and knowledge of
+    deeds, then says people will be assembled before God and told what they have done.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine judgment by assembly and declaration of deeds
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says people will be assembled before God, who will declare what
+    they have done, and warns of punishment in the life to come for those who withstand
+    command.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage is primarily legal and communal instruction; the judgment
+    motif appears in the closing warning and eschatological statement.
+- id: motif:2
+  label: divine knowledge of hidden conduct
+  taxonomy_refs:
+  - wisdom
+  basis: God is described as knowing those who privately withdraw and as knowing all
+    human actions.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The available taxonomy has only a broad 'wisdom' category; the passage
+    more specifically emphasizes divine omniscience and accountability.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26758-26760
+  quote_or_summary: "“when ye enter any houses, salute one another ... with a blessed
+    and a welcome salutation”; God declares signs so people may understand."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 26761-26764
+  quote_or_summary: True believers believe in God and his apostle and do not depart
+    from an affair assembled with him until they obtain leave.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 26764-26768
+  quote_or_summary: When believers ask leave to depart for their own business, the
+    apostle may grant leave to those he thinks fit and ask God’s pardon for them;
+    God is gracious and merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 26769-26770, 26784-26796
+  quote_or_summary: The passage and note say the apostle’s calling or address is not
+    to be treated like ordinary calling between people, and interpretations include
+    obeying summons, revering prayer, or using honorable forms of address.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 26770-26772
+  quote_or_summary: "“GOD knoweth such of you as privately withdraw themselves from
+    the assembly, taking shelter behind one another.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 26772-26775
+  quote_or_summary: Those who withstand the apostle’s command are warned to beware
+    lest calamity befall them in this world or grievous punishment in the life to
+    come.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 26776-26777
+  quote_or_summary: Whatever is in heaven and on earth belongs to God, and God knows
+    what people are doing.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 26777-26779
+  quote_or_summary: "“on a certain day they shall be assembled before him; and he
+    shall declare unto them that which they have done”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: summary
+  locator: 26781-26783
+  quote_or_summary: A note says that if nobody is in the house, one should say peace
+    be on us and on the righteous servants of God, and angels will return the salutation.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the supplied passage and notes. Motif assignment is
+    limited to clearly supported available taxonomy, especially divine judgment; no
+    comparative claims were added because the passage itself does not establish an
+    external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or non-supplied comparisons were used. Taxonomy references were limited to available motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l26758-l26800
+  passage_sha256=9c4b377e13d7dae9883132d6445c74cf7d1045cea9d62ff8d3b147e3f2eeec51
+

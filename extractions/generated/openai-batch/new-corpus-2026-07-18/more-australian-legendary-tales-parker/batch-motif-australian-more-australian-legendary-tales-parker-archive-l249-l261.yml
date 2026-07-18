@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.australian-more-australian-legendary-tales-parker-archive-l249-l261
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+passage_locator:
+  label: EVER-WILLING  ASSISTANCE   IN / MY  FOLK-LORE  QUEST / BEEREEUN    THE    MIRAGE    MAKER
+    3 / BOHRAH    THE    KANGAROO    AND    DINEWAN    THE    EMU       ...  I3; lines
+    249-261
+  start: '249'
+  end: '261'
+  translation: More Australian Legendary Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A contents-style list of tale titles and page references, including titles
+    about Beereeun the mirage maker, Bohrah the kangaroo and Dinewan the emu, Gheeger
+    Gheeger the cold west wind, Bilber and Mayrah, Bralgah the dancing bird, the making
+    of the sun, and Sturi's desert pea as the blood flower.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents-like list of tale titles with page markers.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Beereeun is identified in a title as the mirage maker.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bohrah is identified as the kangaroo and is paired in a title with Dinewan,
+    identified as the emu.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Gheeger Gheeger is identified in a title as the cold west wind.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Bilber and Mayrah appear together as paired names in one title.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Bralgah is identified in a title as the dancing bird.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One title states that the sun was made.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: One title identifies Sturi's desert pea with the blood flower.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Beereeun
+  description: Named in the title as the mirage maker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Bohrah
+  description: Named in the title as the kangaroo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dinewan
+  description: Named in the title as the emu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Gheeger Gheeger
+  description: Named in the title as the cold west wind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Bilber
+  description: Named in a title paired with Mayrah.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Mayrah
+  description: Named in a title paired with Bilber.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Bralgah
+  description: Named in the title as the dancing bird.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mirage maker
+  assigned_to:
+  - fig:1
+  basis: The title identifies Beereeun as the mirage maker.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: kangaroo figure
+  assigned_to:
+  - fig:2
+  basis: The title identifies Bohrah as the kangaroo.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: emu figure
+  assigned_to:
+  - fig:3
+  basis: The title identifies Dinewan as the emu.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cold west wind figure
+  assigned_to:
+  - fig:4
+  basis: The title identifies Gheeger Gheeger as the cold west wind.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: named title figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Bilber and Mayrah appear as named figures in a shared title without further
+    description in this passage.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: dancing bird figure
+  assigned_to:
+  - fig:7
+  basis: The title identifies Bralgah as the dancing bird.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mirage
+  literal_form: mirage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: kangaroo
+  literal_form: kangaroo
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: emu
+  literal_form: emu
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cold west wind
+  literal_form: cold west wind
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dancing bird
+  literal_form: dancing bird
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sun
+  literal_form: sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: Sturi's desert pea / blood flower
+  literal_form: desert pea; blood flower
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: named figure as maker of mirage
+  taxonomy_refs: []
+  basis: A title names Beereeun as the mirage maker.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the title is present; no narrative details explain the making of
+    the mirage.
+- id: motif:2
+  label: paired animal figures, kangaroo and emu
+  taxonomy_refs: []
+  basis: A title pairs Bohrah the kangaroo with Dinewan the emu.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives no action or relationship beyond the title pairing.
+- id: motif:3
+  label: named cold west wind
+  taxonomy_refs: []
+  basis: A title identifies Gheeger Gheeger as the cold west wind.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The title may indicate a personified natural force, but the passage does
+    not provide narrative context.
+- id: motif:4
+  label: making of the sun
+  taxonomy_refs: []
+  basis: A title states 'How the Sun Was Made.'
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The title supports an origin or making theme, but the passage contains
+    no details of the process or agents involved.
+- id: motif:5
+  label: flower identified with blood
+  taxonomy_refs: []
+  basis: A title identifies Sturi's desert pea as the blood flower.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage gives only the title and does not explain the association
+    between the plant and blood.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 249-261
+  quote_or_summary: The passage lists tale titles with page references in a contents-like
+    format.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: '249'
+  quote_or_summary: BEEREEUN THE MIRAGE MAKER 3
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: '251'
+  quote_or_summary: BOHRAH THE KANGAROO AND DINEWAN THE EMU ... I3
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: '253'
+  quote_or_summary: GHEEGER GHEEGER, THE COLD WEST WIND ... I5
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: '255'
+  quote_or_summary: BILBER AND MAYRAH ... I9
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: quote
+  locator: '257'
+  quote_or_summary: BRALGAH THE DANCING BIRD ... 21
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:7
+  type: quote
+  locator: '259'
+  quote_or_summary: HOW THE SUN WAS MADE ... 28
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:8
+  type: quote
+  locator: '261'
+  quote_or_summary: STURI'S DESERT PEA, THE BLOOD FLOWER ... 3I
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited by the fact that the passage is a table of contents
+    rather than narrative text. Figures, roles, symbols, and motif candidates are
+    based only on title wording. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. No taxonomy references were assigned because the available taxonomy did not contain direct matches supported by the title-only evidence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-more-australian-legendary-tales-parker-archive__l249-l261
+  passage_sha256=a4ee074ac92d99d267e893ad3cde219dc22cbf301334e1d9d2ef56b2279d9b92
+

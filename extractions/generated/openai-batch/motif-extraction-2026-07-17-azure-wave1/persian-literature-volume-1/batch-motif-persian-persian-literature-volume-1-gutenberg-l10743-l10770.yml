@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l10743-l10770
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: SSEN AND AFRSIYB / THE EXPEDITION OF GDARZ / THE DEATH OF AFRSIYB / THE DEATH
+    OF KAI-KHOSRU; lines 10743-10770
+  start: '10743'
+  end: '10770'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: he went into the fountain, and vanished!
+  summary: Kai-khosru reaches a promised fountain, bathes, warns his companions to
+    leave before a deadly snowstorm, enters the fountain, and vanishes without a trace.
+    The companions remain, sleep, and are killed by snow; Gdarz later sends a messenger
+    who finds them dead.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Khosru took leave of named companions, but some were unwilling to go back
+    and continued with him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Khosru arrived at the promised fountain and bathed in it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Khosru told his followers that it was time for separation and warned that
+    snow and tempestuous wind would make them perish if they stayed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Khosru entered the fountain and vanished, leaving no visible trace on the
+    water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After the king disappeared, his followers lamented; Frburz then proposed food
+    and rest, and those who remained ate a little and slept.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A great wind arose, snow fell, and the earth was covered in white.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The warriors and soldiers who had accompanied Kai-khosru to the fountain,
+    including Ts, Frburz, and Gw, were overwhelmed in snow while asleep; no man survived.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Gdarz had returned about halfway along the road; after receiving no news,
+    he sent a person to investigate, and the messenger found the companions lifeless
+    under the snow.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Khosru / Kai-khosru
+  description: The king who reaches the promised fountain, bathes, warns his followers,
+    enters the fountain, and vanishes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Followers, warriors, and soldiers of Kai-khosru
+  description: The group accompanying Kai-khosru to the fountain; they remain after
+    being told to go, lament his disappearance, sleep, and are overwhelmed by snow.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Gdarz
+  description: A named companion from whom Khosru takes leave; he later returns about
+    halfway on the road and sends someone to learn why the others are delayed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:4
+  name_or_label: Frburz
+  description: A follower who suggests eating and resting after the disappearance,
+    and who is later named among those overwhelmed by snow.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: Ts
+  description: A named warrior or companion listed among those overwhelmed by the
+    snow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Gw
+  description: A named companion listed at the leave-taking and among those overwhelmed
+    by the snow.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:7
+  name_or_label: Messenger sent by Gdarz
+  description: The person sent by Gdarz to investigate the delay; he finds the companions
+    stiff and lifeless under the snow.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: vanishing king
+  assigned_to:
+  - fig:1
+  basis: The passage calls him king and describes his disappearance after entering
+    the fountain.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: warning speaker
+  assigned_to:
+  - fig:1
+  basis: He tells the followers to depart and warns them of snow, wind, and death.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: persistent companions
+  assigned_to:
+  - fig:2
+  basis: They are unwilling to go back and remain despite Kai-khosru's instruction
+    to leave.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: sleeping companions overtaken by snow
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Those who remained ate, slept, and were then overwhelmed by snow; Frburz
+    is specifically named among them.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: returned sender of inquiry
+  assigned_to:
+  - fig:3
+  basis: Gdarz returns about halfway on the road and later sends a person to determine
+    why the others have not returned.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: named dead under snow
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Ts, Frburz, and Gw are named among those overwhelmed in snow, and no man
+    survived.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: discovering messenger
+  assigned_to:
+  - fig:7
+  basis: The messenger proceeds to the fatal place and finds the companions lifeless
+    beneath the snow.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: promised mysterious fountain
+  literal_form: A promised fountain in which Kai-khosru bathes and into which he vanishes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: snow and tempestuous wind
+  literal_form: Heavy showers of snow, a great wind, and drifts that overwhelm the
+    sleepers.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: unmarked wave after disappearance
+  literal_form: No trace remains and no dimple appears on the wave after Kai-khosru
+    vanishes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Leave-taking and arrival at the fountain
+  summary: Khosru takes leave of named companions; some continue with him, and he
+    arrives at the promised fountain and bathes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Warning and disappearance
+  summary: Kai-khosru tells the followers to depart before fatal snow and wind, enters
+    the fountain, and vanishes without visible trace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Sleep and death in snow
+  summary: After lamentation, the remaining companions eat and sleep; a wind and snowstorm
+    arise, and the companions are overwhelmed in snow with no survivors.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Gdarz sends a messenger
+  summary: Gdarz, who had returned halfway, sends a person to investigate the delay;
+    the messenger finds the companions stiff and lifeless beneath the snow.
+  figure_refs:
+  - fig:3
+  - fig:7
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Voluntary royal departure by vanishing into water
+  taxonomy_refs:
+  - departure
+  basis: Kai-khosru announces separation, enters the fountain, and disappears without
+    a trace.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state the destination or metaphysical meaning of
+    the disappearance.
+- id: motif:2
+  label: Fulfilled warning of fatal storm
+  taxonomy_refs: []
+  basis: Kai-khosru warns that snow and wind will kill the followers if they remain;
+    after they stay and sleep, snow and wind overwhelm them.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage presents warning and fulfillment but does not explicitly label
+    the storm as divine punishment or judgment.
+- id: motif:3
+  label: Retinue perishing during sleep at a liminal place
+  taxonomy_refs: []
+  basis: The companions remain near the mysterious fountain after the king vanishes,
+    sleep, and are buried under snow with no survivors.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The term 'liminal' is an interpretive label based on the passage's transition,
+    separation, disappearance, and fatal aftermath; the passage itself does not use
+    that terminology.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10743-10770
+  quote_or_summary: Khosru takes leave of Gdarz, Gw, Ts, and Gustahem, but some are
+    unwilling to go back and continue with him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 10743-10770
+  quote_or_summary: He soon arrived at the promised fountain, in which he bathed.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:3
+  type: summary
+  locator: lines 10743-10770
+  quote_or_summary: Kai-khosru says it is time for separation, tells the followers
+    to go quickly, and warns that snow and tempestuous wind will make them perish.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10743-10770
+  quote_or_summary: he went into the fountain, and vanished; the passage says no trace
+    was left and no dimple appeared on the wave.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:5
+  type: summary
+  locator: lines 10743-10770
+  quote_or_summary: After the disappearance, the followers lament; Frburz suggests
+    food and rest, and those who remained eat a little and fall asleep.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10743-10770
+  quote_or_summary: A great wind arises, snow falls, and the earth is clothed in white.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 10743-10770
+  quote_or_summary: The warriors and soldiers, including Ts, Frburz, and Gw, are overwhelmed
+    in drifts of snow while asleep; "Not a man survived."
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:8
+  type: summary
+  locator: lines 10743-10770
+  quote_or_summary: Gdarz had returned about halfway; after no tidings came, he sent
+    a person to investigate, and the messenger found the companions stiff and lifeless
+    under the snow.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are explicit in the passage. Motif labels
+    are conservative; comparison claims are omitted because the passage itself does
+    not make an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names are retained in the spellings supplied by the passage text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l10743-l10770
+  passage_sha256=96603e5911a8d274d1b605a98f542f22106d65c018f73a45913c0992e4513f42
+

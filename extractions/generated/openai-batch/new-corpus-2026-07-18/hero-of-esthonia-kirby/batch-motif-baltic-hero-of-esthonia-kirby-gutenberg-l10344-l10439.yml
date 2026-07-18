@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l10344-l10439
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE THREE WISHES. / THE WITCH-BRIDE. / THE STEPMOTHER. / THE FISHERMAN AND
+    HIS WIFE.; lines 10344-10439
+  start: '10344'
+  end: '10439'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Sleepy Tony's mermaid consort is absent every Thursday for a fast-day.
+    After repeated refusals and warnings, Tony suspects a secret lover, isolates himself,
+    and spies through a gap into her locked chamber. He sees that the chamber is a
+    deep water tank and that she is a mermaid, woman above and fish below. She later
+    returns in mourning, says his folly has ended their happiness, and after a crash
+    he wakes on the sea-shore in his old ragged clothes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sleepy Tony cannot find his consort on Thursday, and waiting-maids entertain
+    him with music, dancing, food, and drink during her absence.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mermaid returns after the cock has crowed three times, and the same Thursday
+    absence repeats.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sleepy Tony asks to fast with the mermaid on Thursdays, but she refuses and
+    says she cannot and dare not take him with her on those days.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sleepy Tony begins to suspect that the mermaid has another lover, and he knows
+    of a room where she hides on Thursdays, but its door is locked and its windows
+    are covered by double curtains.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The mermaid denies any secret love or fault against Sleepy Tony and warns
+    that his coming near her on fast-days would end their love and happiness.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Sleepy Tony dismisses the waiting-maids on a Thursday and hopes to inspect
+    the secret fasting chamber while alone.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Sleepy Tony finds a slight gap near the window and sees that the chamber is
+    a deep square water tank in which the mermaid swims with a woman's upper body
+    and a fish's lower body.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After seeing the mermaid in the chamber, Sleepy Tony withdraws in distress
+    and wishes he could erase the sight from memory.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The mermaid does not return at the usual cockcrow; in the morning she appears
+    in black mourning garments, weeps, says their happy life is ended, and tells Tony
+    he must return to his former condition.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A crash occurs, Sleepy Tony is stunned, and when he recovers he is on the
+    sea-shore by the rock where he first bonded with the mermaid, wearing his old
+    ragged clothes.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Sleepy Tony
+  description: The human consort of the mermaid who becomes suspicious, spies into
+    the secret chamber, and is returned to his former condition.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: the mermaid / fair one
+  description: Sleepy Tony's beloved consort, absent on Thursday fast-days; in the
+    secret chamber she is seen as a beautiful woman from head to middle and fish-like
+    below.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: waiting-maids
+  description: Attendants who amuse Sleepy Tony during the mermaid's Thursday absences
+    and later are dismissed by him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: human consort
+  assigned_to:
+  - fig:1
+  basis: Sleepy Tony lives with the mermaid as his beloved consort.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mermaid spouse keeping fast-days
+  assigned_to:
+  - fig:2
+  basis: The mermaid is absent on Thursdays and calls them her fast-days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: seeker who breaks the prohibition by spying
+  assigned_to:
+  - fig:1
+  basis: Sleepy Tony seeks the secret of the chamber and looks through a gap despite
+    repeated warnings.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:4
+  label: prohibition-giver and departing beloved
+  assigned_to:
+  - fig:2
+  basis: The mermaid refuses Tony access to her fast-days, warns of the consequences,
+    and later departs after the prohibition is broken.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: role:5
+  label: attendants
+  assigned_to:
+  - fig:3
+  basis: The waiting-maids sing, play, dance, serve food and drink, and are ordered
+    away by Tony.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: Thursday fast-days
+  literal_form: Recurring Thursday absence and fasting period of the mermaid
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: sealed secret chamber
+  literal_form: A room with a locked door and double-curtained windows, later viewed
+    through a slight gap
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: water-filled tank
+  literal_form: A floorless square chamber filled with water many feet deep
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: hybrid mermaid body
+  literal_form: A beautiful woman from head to middle, fish-like below the navel with
+    scales, fins, and broad tail
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: three cockcrows
+  literal_form: The cock crowing three times before the mermaid's expected return
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:6
+  label: mourning dress and veiled face
+  literal_form: Black mourning garments and a thin silk handkerchief over the mermaid's
+    face
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: sea-shore rock
+  literal_form: The shore rock where the mermaid had first entered the bond of friendship
+    with Sleepy Tony
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Repeated Thursday separation
+  summary: On Thursdays the mermaid is absent, while waiting-maids entertain Sleepy
+    Tony; she returns after three cockcrows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Suspicion and warning
+  summary: Sleepy Tony suspects a secret lover and wants access to the mermaid's fast-days,
+    but she denies wrongdoing and warns that his approach would end their happiness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Spying into the chamber
+  summary: After dismissing the attendants, Sleepy Tony discovers a gap in the curtains
+    and sees the mermaid swimming in a water-filled chamber with a fish's lower body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Farewell and return to former condition
+  summary: The mermaid appears in mourning, says Tony's folly has ended their life
+    together, and after a crash he wakes on the sea-shore in old ragged clothes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Forbidden access to the spouse's secret
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The mermaid repeatedly forbids Sleepy Tony to accompany or approach her on
+    fast-days and warns that doing so would destroy their happiness; he nevertheless
+    spies into the chamber.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage emphasizes forbidden approach and sight rather than an abstract
+    quest for knowledge.
+- id: motif:2
+  label: Concealed aquatic spouse revealed by spying
+  taxonomy_refs: []
+  basis: Sleepy Tony discovers that the secret chamber is a water tank and sees his
+    mermaid consort's woman-and-fish body.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No active transformation is described in this passage; the figure is revealed
+    as mermaid-like rather than shown changing shape.
+- id: motif:3
+  label: Broken condition ends enchanted marriage and prosperity
+  taxonomy_refs: []
+  basis: After Tony spies, the mermaid says their happy life is ended and he must
+    return to his former condition; he wakes at the sea-shore in old ragged clothes.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage does not explain the mechanism of the collapse beyond the
+    mermaid's farewell and the sudden crash.
+- id: motif:4
+  label: Periodic separation marked by fast-days
+  taxonomy_refs: []
+  basis: The couple lives together six days of the week, while each Thursday is reserved
+    for the mermaid's absence and fast-day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The reason for the fast-days is not explained within the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10344-10352
+  quote_or_summary: Sleepy Tony cannot find his consort on Thursday; waiting-maids
+    amuse him with singing, playing, dancing, food, and drink.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10352-10357
+  quote_or_summary: After supper, when the cock has crowed three times, the fair one
+    returns; the same thing happens on later Thursdays.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 10357-10364
+  quote_or_summary: 'The mermaid refuses Tony''s request to join her fast-days: "I
+    cannot and dare not yield to your wish to take you with me on my fast-days."'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10365-10377
+  quote_or_summary: Tony grows suspicious that the mermaid has another lover; he knows
+    the room where she hides, but the door is locked and the windows are covered by
+    double curtains.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 10378-10391
+  quote_or_summary: The mermaid denies secret love or fault and warns, "It cannot
+    be, for it would put an end to our love and happiness for ever."
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 10392-10409
+  quote_or_summary: On a Thursday Tony dismisses the waiting-maids, remains alone,
+    and hopes to inspect the secret fasting chamber for a crack through which to spy.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 10410-10422
+  quote_or_summary: Tony finds a small gap near the window and sees a floorless square
+    tank filled with water, where the mermaid swims; she is woman above and fish below
+    with scales, fins, and tail.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 10423-10425
+  quote_or_summary: Tony draws back confounded and sorrowful and wishes he could blot
+    the sight from his memory.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 10426-10435
+  quote_or_summary: The mermaid does not return at the usual time; in the morning
+    she appears in black mourning clothes, weeps, says Tony has ended their happy
+    life by folly, and bids farewell.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 10436-10439
+  quote_or_summary: A crash comes, Tony is stunned, and later wakes on the sea-shore
+    beside the rock where the bond with the mermaid began, dressed in his old ragged
+    clothes.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are evidence-based
+    but use broad labels; no external text-to-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All claims are limited to the provided passage and source metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l10344-l10439
+  passage_sha256=d9550531637e5fb286dc51c7d7c3bdb86599ec94e76728faf51ef3e2ca1d74b5
+

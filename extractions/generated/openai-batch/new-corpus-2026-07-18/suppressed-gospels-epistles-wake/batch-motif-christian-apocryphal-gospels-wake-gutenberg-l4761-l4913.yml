@@ -1,0 +1,544 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l4761-l4913
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER XVIII. / CHAPTER XIX. / CHAPTER XX. / CHAPTER XXI.; lines 4761-4913
+  start: '4761'
+  end: '4913'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: At age twelve, Jesus remains in the Jerusalem temple among learned men
+    after the feast. He questions and answers doctors, a rabbi, an astronomer, and
+    a philosopher on scripture, law, astronomy, physics, metaphysics, and the human
+    body and soul. A philosopher worships him and declares discipleship. Mary and
+    Joseph find him after three days of searching; Jesus speaks of being in his father's
+    house, returns to Nazareth, obeys them, and grows in wisdom and favor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jesus is described as twelve years old and brought to Jerusalem for a feast;
+    after the feast he remains behind in the temple.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jesus sits among the doctors, elders, and learned men of Israel, proposing
+    questions and giving answers.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: Jesus asks whose son the Messiah is and raises a question about David calling
+    him Lord in the spirit.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A principal rabbi asks whether Jesus has read books, and Jesus answers that
+    he has read both books and the things contained in books.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jesus explains the books of the law, precepts, statutes, and mysteries in
+    the prophetic books, described as beyond the mind of any creature.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An astronomer asks whether Jesus has studied astronomy, and Jesus describes
+    spheres, heavenly bodies, their aspects, motions, sizes, prognostications, and
+    other matters described as undiscovered by human reason.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A philosopher skilled in physic and natural philosophy asks whether Jesus
+    has studied physic, and Jesus explains physics, metaphysics, natural powers, bodily
+    humours, anatomy, soul-body operation, faculties, and composition and dissolution.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The philosopher rises, worships Jesus, and says he will be Jesus's disciple
+    and servant.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Mary enters after walking about for three days with Joseph while seeking Jesus.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Mary says that she and Jesus's father have been in pain seeking him; Jesus
+    replies that he ought to be employed in his father's house, and they do not understand
+    his words.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: The doctors ask Mary whether Jesus is her son and then call her happy for
+    having borne such a son.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Jesus returns with Mary and Joseph to Nazareth, obeys them, Mary keeps the
+    events in mind, and Jesus grows in stature, wisdom, and favor with God and man.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Lord Jesus
+  description: A twelve-year-old who remains in the temple, questions and answers
+    learned men, explains scriptural, astronomical, physical, and metaphysical matters,
+    is worshipped by a philosopher, returns to Nazareth, obeys Mary and Joseph, and
+    grows in wisdom and favor.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:2
+  name_or_label: doctors, elders, and learned men of Israel
+  description: Learned men in the temple among whom Jesus sits, asks questions, and
+    gives answers; they later ask Mary whether Jesus is her son and praise her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: principal Rabbi
+  description: A rabbi who asks Jesus whether he has read books and marvels at his
+    knowledge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: astronomer
+  description: An astronomer present in the temple who asks Jesus whether he has studied
+    astronomy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: philosopher skilled in physic and natural philosophy
+  description: A philosopher who asks Jesus whether he has studied physic, hears his
+    explanations, worships him, and declares himself Jesus's disciple and servant.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Lady St. Mary
+  description: Jesus's mother, who searches for him with Joseph for three days, finds
+    him among the doctors, questions him, is praised by the doctors, and keeps these
+    things in her mind.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Joseph
+  description: Mary's companion in the three-day search for Jesus; Mary refers to
+    him in speech as Jesus's father.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: twelve-year-old learned teacher
+  assigned_to:
+  - fig:1
+  basis: Jesus is twelve, remains among learned men, asks and answers questions, and
+    explains matters described as beyond ordinary creaturely or human understanding.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: learned questioners and witnesses
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The doctors, rabbi, astronomer, and philosopher question Jesus or witness
+    his answers in the temple setting.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: professing disciple and servant
+  assigned_to:
+  - fig:5
+  basis: The philosopher worships Jesus and states that he will be Jesus's disciple
+    and servant.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: searching parents or guardians
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Mary and Joseph are described as walking about for three days seeking Jesus;
+    Mary says she and Jesus's father have been seeking him in pain.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: praised mother
+  assigned_to:
+  - fig:6
+  basis: The doctors identify Mary as Jesus's mother and call her happy for bearing
+    such a son.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: obedient returning son
+  assigned_to:
+  - fig:1
+  basis: Jesus returns with Mary and Joseph to Nazareth and obeys them in all things.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: temple
+  literal_form: the Jerusalem temple where Jesus remains among doctors, elders, and
+    learned men
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: books
+  literal_form: books and the things contained in books, including law, precepts,
+    statutes, and prophetic mysteries
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spheres and heavenly bodies
+  literal_form: the number of the spheres and heavenly bodies, their aspects, motions,
+    size, and prognostications
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: three-day search
+  literal_form: three days walking about with Joseph, seeking Jesus
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: father's house
+  literal_form: Jesus's statement that he ought to be employed in his father's house
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Twelve-year-old Jesus in the temple among learned men
+  summary: After the Jerusalem feast, Jesus remains behind in the temple among doctors,
+    elders, and learned men, asking questions and giving answers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Scriptural disputation with rabbi and doctors
+  summary: Jesus questions the learned men about the Messiah and David, answers the
+    rabbi about books, and explains law and prophetic mysteries beyond creaturely
+    understanding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Astronomical instruction
+  summary: An astronomer asks Jesus about astronomy, and Jesus gives an account of
+    spheres, heavenly bodies, aspects, motions, sizes, and prognostications.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Physics and metaphysics instruction followed by worship
+  summary: A philosopher asks Jesus about physic; Jesus explains physics, metaphysics,
+    nature, the body, the soul, and human faculties, after which the philosopher worships
+    him and declares discipleship.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Mary and Joseph find Jesus after searching
+  summary: Mary enters after seeking Jesus for three days with Joseph, sees him among
+    the doctors, asks why he has caused them pain, and hears his answer about his
+    father's house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Return to Nazareth
+  summary: The doctors praise Mary, Jesus returns with Mary and Joseph to Nazareth
+    and obeys them, Mary keeps the events in mind, and Jesus grows in stature, wisdom,
+    and favor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: precociously wise sacred child instructs elders
+  taxonomy_refs:
+  - miraculous_child
+  - wisdom
+  basis: At twelve, Jesus teaches and answers learned adults on scripture, law, astronomy,
+    physics, and metaphysics, with his knowledge repeatedly described as beyond ordinary
+    creaturely or human reach.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly call the event a miracle; the motif is
+    inferred from the extraordinary child wisdom described.
+- id: motif:2
+  label: learned adult submits to the child teacher
+  taxonomy_refs:
+  - wisdom
+  basis: After Jesus's explanations, the philosopher worships him and declares that
+    he will be Jesus's disciple and servant.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the philosopher's response but does not narrate a longer
+    discipleship sequence.
+- id: motif:3
+  label: divine father-house saying misunderstood by parents
+  taxonomy_refs:
+  - divine_parent_child
+  basis: When Mary says she and Jesus's father have been seeking him, Jesus answers
+    that he ought to be employed in his father's house, and they do not understand
+    his words.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage uses the phrase 'my father's house' but does not elaborate
+    the theology within this excerpt.
+- id: motif:4
+  label: temporary separation, search, and return
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Jesus remains behind after the feast; Mary and Joseph seek him for three
+    days, find him in the temple, and he returns with them to Nazareth.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The separation is brief and domestic rather than a full quest or exile
+    narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage is explicitly presented by its editorial note as comparable to
+    Luke ii.42's account of the twelve-year-old Jesus at Jerusalem, while claiming
+    to provide fuller details of the disputed subjects.
+  claim_level: same_motif
+  target: Luke ii.42 child Jesus at Jerusalem/temple episode
+  evidence_refs:
+  - ev:11
+  - ev:1
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared Lucan passage is not included in the supplied passage
+    text; the claim rests on the editorial comparison note and the shared age-and-Jerusalem
+    framing within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER XXI.1-2
+  quote_or_summary: At twelve years old Jesus is brought to Jerusalem for the feast;
+    after the feast he remains in the temple among doctors, elders, and learned men,
+    proposing questions and giving answers.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: CHAPTER XXI.3-4
+  quote_or_summary: Jesus asks whose son the Messiah is, receives the answer 'the
+    son of David,' and asks why David in the spirit calls him Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized with brief phrases.
+- id: ev:3
+  type: summary
+  locator: CHAPTER XXI.5-8
+  quote_or_summary: A principal rabbi asks whether Jesus has read books; Jesus says
+    he has read books and their contents, then explains law, precepts, statutes, and
+    prophetic mysteries beyond the mind of any creature; the rabbi marvels at his
+    knowledge.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: CHAPTER XXI.9-10
+  quote_or_summary: An astronomer asks whether Jesus has studied astronomy; Jesus
+    tells him the number of spheres and heavenly bodies, their aspects, progressive
+    and retrograde motion, size, prognostications, and other matters not discovered
+    by human reason.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: CHAPTER XXI.11-20
+  quote_or_summary: A philosopher skilled in physic and natural philosophy asks Jesus
+    about physic; Jesus explains physics, metaphysics, powers of nature, bodily humours,
+    anatomy, soul-body operation, sensations, faculties, speech, anger, desire, composition,
+    and dissolution, all described as beyond creaturely understanding.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: CHAPTER XXI.21
+  quote_or_summary: The philosopher rises, worships Jesus, and says that from then
+    on he will be Jesus's disciple and servant.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: CHAPTER XXI.22-23
+  quote_or_summary: Mary enters after three days walking about with Joseph seeking
+    Jesus; she sees him among the doctors asking and answering questions, and says
+    she and his father have suffered much pain seeking him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: CHAPTER XXI.24-25
+  quote_or_summary: Jesus replies that they should have known he ought to be employed
+    in his father's house; they do not understand his words.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: CHAPTER XXI.26
+  quote_or_summary: The doctors ask Mary whether Jesus is her son; when she says he
+    is, they call Mary happy for having borne such a son.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: CHAPTER XXI.27-29
+  quote_or_summary: Jesus returns with Mary and Joseph to Nazareth and obeys them;
+    Mary keeps the events in her mind; Jesus grows in stature and wisdom and favor
+    with God and man.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:11
+  type: note
+  locator: CHAPTER XXI editorial heading note
+  quote_or_summary: The heading note says to compare Luke ii.42 and states that Luke's
+    account is deficient in the details given here about the subjects disputed upon.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    require review, especially divine-parent and departure/return classifications.
+    The comparison claim is limited to the supplied editorial note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied CHAPTER XXI passage and metadata were used; no external Luke text or additional apocryphal context was consulted.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l4761-l4913
+  passage_sha256=410c620609c89339e0171fe3cbc209205ef8daf749dcf3c3677d706484eed93f
+

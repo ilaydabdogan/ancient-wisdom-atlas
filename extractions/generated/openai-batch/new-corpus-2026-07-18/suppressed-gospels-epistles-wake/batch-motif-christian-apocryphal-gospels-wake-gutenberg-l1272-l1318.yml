@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l1272-l1318
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER. II. / CHAPTER III. / CHAPTER IV. / CHAPTER V.; lines 1272-1318
+  start: '1272'
+  end: '1318'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Joachim remains at home for a day, then brings offerings and consults the
+    plate on the priest's forehead to learn whether the Lord is propitious. No sin
+    is found in him; he says the Lord has taken away his sins and returns from the
+    temple justified. After nine months Anna gives birth to a girl, responds with
+    praise, later nurses the child after her purification, and names her Mary.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Joachim abides the first day in his house and on the next day brings offerings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joachim says that if the Lord is propitious to him, the plate on the priest's
+    forehead should make it manifest.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Joachim consults the plate worn by the priest and sees that sin is not found
+    in him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Joachim says he now knows the Lord is propitious to him and has taken away
+    all his sins.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Joachim goes down from the temple of the Lord justified and returns to his
+    own house.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When nine months are fulfilled to Anna, she gives birth and asks the midwife
+    what she has brought forth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The midwife tells Anna that she has brought forth a girl.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Anna says that the Lord has magnified her soul that day and lays the child
+    in bed.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the days of Anna's purification are accomplished, she gives suck to
+    the child and names her Mary.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Joachim
+  description: Person who brings offerings, consults the priestly plate, is found
+    without sin, and returns home justified.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the Lord
+  description: Divine figure whose propitiousness is sought and whom Joachim says
+    has taken away his sins; Anna also praises the Lord for magnifying her soul.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the priest
+  description: Priestly figure who wears the plate on his forehead that Joachim consults.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Anna
+  description: Woman whose nine months are fulfilled, who gives birth to a girl, praises
+    the Lord, nurses the child, and names her Mary.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the midwife
+  description: Birth attendant who tells Anna that the newborn is a girl.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Mary / the child
+  description: Newborn girl brought forth by Anna, later nursed and named Mary.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: offerer and petitioner
+  assigned_to:
+  - fig:1
+  basis: Joachim brings offerings and asks for a sign that the Lord is propitious.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: justified person
+  assigned_to:
+  - fig:1
+  basis: The plate reveals that sin is not found in him, and he leaves the temple
+    justified.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: divine evaluator and forgiver
+  assigned_to:
+  - fig:2
+  basis: Joachim seeks manifestation of the Lord's propitiousness and says the Lord
+    has taken away his sins; Anna attributes her magnified soul to the Lord.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: bearer of ritual plate
+  assigned_to:
+  - fig:3
+  basis: The priest wears the plate that Joachim consults.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: mother and namer
+  assigned_to:
+  - fig:4
+  basis: Anna gives birth, nurses the child, and names her Mary.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: birth witness
+  assigned_to:
+  - fig:5
+  basis: The midwife identifies the newborn as a girl in response to Anna's question.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: newborn daughter
+  assigned_to:
+  - fig:6
+  basis: The child is identified as a girl, nursed, and named Mary.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: consulted priestly plate
+  literal_form: the plate on the priest's forehead / the plate which the priest wore
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: offerings
+  literal_form: offerings brought by Joachim
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: temple of the Lord
+  literal_form: the temple of the Lord
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: nine months fulfilled
+  literal_form: nine months were fulfilled to Anna
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: nursing the child
+  literal_form: gave suck to the child
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Joachim's offering and consultation of the plate
+  summary: Joachim brings offerings and asks that the priestly forehead plate reveal
+    whether the Lord is propitious; he consults the plate and finds no sin in himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Joachim leaves the temple justified
+  summary: Joachim declares that the Lord is propitious and has taken away his sins,
+    then goes down from the temple justified and returns home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Anna's childbirth, nursing, and naming of Mary
+  summary: After nine months Anna gives birth; the midwife says the child is a girl.
+    Anna praises the Lord, lays the child in bed, later nurses her after purification,
+    and names her Mary.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual sign of divine judgment and absolution
+  taxonomy_refs:
+  - divine_judgment
+  basis: A priestly plate is consulted to manifest whether the Lord is propitious;
+    the sign shows no sin in Joachim, who says the Lord has taken away his sins and
+    leaves justified.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the mechanics or wider ritual context of
+    the plate.
+- id: motif:2
+  label: birth and naming of a divinely acknowledged child
+  taxonomy_refs:
+  - sacred_birth
+  basis: Anna gives birth after nine months, praises the Lord for magnifying her soul,
+    later nurses the child and names her Mary.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The supplied passage presents the birth with divine praise but does not
+    itself describe an extraordinary conception or explicitly state the child's sacred
+    status.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter V.1-2 / lines 1272-1284
+  quote_or_summary: Joachim stays home the first day, brings offerings the next day,
+    and says the plate on the priest's forehead should manifest whether the Lord is
+    propitious to him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: Chapter V.3 / lines 1285-1291
+  quote_or_summary: Joachim consults the plate worn by the priest and sees that sin
+    is not found in him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: Chapter V.4-5 / lines 1292-1303
+  quote_or_summary: Joachim says the Lord is propitious and has taken away all his
+    sins; he then leaves the temple of the Lord justified and returns to his house.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: Chapter V.6-7 / lines 1304-1312
+  quote_or_summary: When nine months are fulfilled to Anna, she gives birth, asks
+    the midwife what she has brought forth, and is told it is a girl.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: Chapter V.8-9 / lines 1313-1318
+  quote_or_summary: Anna says the Lord has magnified her soul, lays the child in bed,
+    and after the days of purification nurses the child and names her Mary.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labeling
+    is cautious, especially for sacred birth, because the passage gives divine praise
+    but limited explicit explanation. No comparison claims are made because the passage
+    does not itself invoke another tradition or comparative pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported or cautiously supportable.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l1272-l1318
+  passage_sha256=0a46da4d0a016afb43d507950e009c898c76c97bf80e8591c6a092e8f420a2b7
+

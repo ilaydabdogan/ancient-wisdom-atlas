@@ -1,0 +1,463 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l6094-l6122
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: FIRST STORY / SECOND STORY / FIRST STORY / SECOND STORY; lines 6094-6122
+  start: '6094'
+  end: '6122'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor servant-girl finds an unreadable letter that proves to be an invitation
+    from elves to stand as godmother at a child's christening. Three elves lead her
+    to their hollow mountain dwelling, where she sees small but splendid furnishings
+    and performs the godmother role. She stays what she believes to be three days,
+    is entertained and given money, then returns home to find strangers in the house;
+    seven years have passed and her former masters have died.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes a poor servant-girl who is industrious and cleanly,
+    sweeps the house every day, and empties the sweepings on a heap before the door.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The servant-girl finds a letter on the heap, cannot read it, puts her broom
+    in the corner, and takes the letter to her master and mistress.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The letter is an invitation from elves asking the girl to hold a child for
+    them at its christening.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After persuasion and being told that such an invitation should not be refused,
+    the servant-girl consents.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Three elves conduct the servant-girl to a hollow mountain where the little
+    folks live.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Inside the mountain, everything is small, elegant, and beautiful; the baby's
+    mother lies in an ebony bed ornamented with pearls, with gold-embroidered coverlets,
+    an ivory cradle, and a gold bath nearby.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The servant-girl stands as godmother and then wants to go home again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The little elves urgently ask her to stay three days; she stays, is entertained,
+    and passes the time in pleasure and gaiety.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Before leading her out of the mountain, the elves fill her pockets with money.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: When she returns home, she takes up the broom still standing in the corner
+    and begins to sweep; strangers come out of the house and ask who she is and what
+    business she has there.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The time she thought was three days in the mountains has actually been seven
+    years, and her former masters have died.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: poor servant-girl
+  description: An industrious and cleanly servant-girl who sweeps the house, finds
+    the elves' letter, serves as godmother, visits the hollow mountain, receives money,
+    and returns after seven years have passed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: master and mistress
+  description: The servant-girl's master and mistress, to whom she takes the letter;
+    they are later said to have died during her absence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: elves / little folks / little men
+  description: Supernatural small beings who send the invitation, conduct the girl
+    to the hollow mountain, host her, ask her to stay three days, give her money,
+    and lead her out again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: elf child / baby
+  description: The child whom the servant-girl is asked to hold at its christening;
+    the baby has an ivory cradle and a gold bath in the mountain dwelling.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: baby's mother
+  description: The baby's mother lies in a black ebony bed ornamented with pearls,
+    with gold-embroidered coverlets.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: strangers from the house
+  description: Strangers who come out of the house after the servant-girl returns
+    and ask who she is and what business she has there.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: domestic servant
+  assigned_to:
+  - fig:1
+  basis: She is identified as a poor servant-girl who sweeps the house every day.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: invited godmother
+  assigned_to:
+  - fig:1
+  basis: The elves invite her to hold a child at its christening, and she stands as
+    godmother.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: supernatural inviters, guides, and hosts
+  assigned_to:
+  - fig:3
+  basis: The elves issue the invitation, conduct her to the hollow mountain, entertain
+    her, reward her, and lead her out.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: christening child
+  assigned_to:
+  - fig:4
+  basis: The invitation asks the servant-girl to hold a child at its christening.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: mother of the child
+  assigned_to:
+  - fig:5
+  basis: The passage identifies the baby's mother in the mountain dwelling.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: former employers
+  assigned_to:
+  - fig:2
+  basis: They are the master and mistress to whom the girl takes the letter, and they
+    are said to have died during her absence.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:7
+  label: strangers in the returned household
+  assigned_to:
+  - fig:6
+  basis: They come out of the house and question the returning servant-girl.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: elves' letter of invitation
+  literal_form: letter found on the sweepings heap; invitation from the elves
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: broom left in the corner
+  literal_form: broom placed in the corner before departure and taken up again after
+    return
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: hollow mountain dwelling
+  literal_form: hollow mountain where the little folks lived
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: christening
+  literal_form: child's christening at which the servant-girl stands as godmother
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:5
+  label: small splendid furnishings
+  literal_form: black ebony bed with pearls, gold-embroidered coverlets, ivory cradle,
+    and gold bath
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: money given by the elves
+  literal_form: pockets filled quite full of money
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: three days and seven years
+  literal_form: the servant-girl thinks she stayed three days, but seven years have
+    passed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Domestic discovery of the elves' invitation
+  summary: The servant-girl finds a letter on the heap of sweepings, cannot read it,
+    takes it to her master and mistress, and learns that it is an invitation from
+    elves to hold a child at its christening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Consent and escort to the hollow mountain
+  summary: After persuasion, the servant-girl consents, and three elves lead her to
+    the hollow mountain where the little folks live.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Christening and splendid mountain dwelling
+  summary: Inside the mountain the servant-girl sees small but splendid objects, including
+    the baby's mother's decorated bed, an ivory cradle, and a gold bath, and she stands
+    as godmother.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hospitality, reward, and exit from the mountain
+  summary: The elves ask the servant-girl to stay three days; she stays happily, and
+    before her departure they fill her pockets with money and lead her out of the
+    mountain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Return after seven years
+  summary: The servant-girl returns home, takes up the broom as if resuming work,
+    is questioned by strangers, and learns by the narration that seven years have
+    passed and her former masters have died.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Human invited to serve at a supernatural christening
+  taxonomy_refs: []
+  basis: The elves send a letter asking the servant-girl to hold a child at its christening,
+    and she later stands as godmother.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list has no specific christening or godparent motif;
+    this label is descriptive.
+- id: motif:2
+  label: Guided departure to a hidden mountain dwelling
+  taxonomy_refs:
+  - departure
+  basis: Three elves come and conduct the consenting servant-girl away from her home
+    to a hollow mountain where the little folks live.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a departure into an elf dwelling, not an explicitly
+    heroic, cosmic, or initiatory journey.
+- id: motif:3
+  label: Supernatural hospitality and reward for human ritual service
+  taxonomy_refs:
+  - sacred_exchange
+  basis: After the servant-girl serves as godmother and stays with the elves, they
+    entertain her and fill her pockets with money before sending her home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exchange is implied by sequence rather than stated as a formal bargain;
+    'sacred_exchange' is a broad taxonomy fit because the service occurs at a christening.
+- id: motif:4
+  label: Return from supernatural realm with time dilation
+  taxonomy_refs:
+  - return
+  basis: The servant-girl believes she has spent three days with the little men in
+    the mountains, but on return seven years have passed and her former masters have
+    died.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The time discrepancy is explicit, but the passage does not explain its
+    mechanism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6096-6102
+  quote_or_summary: A poor servant-girl who sweeps the house finds a letter on the
+    sweepings heap, cannot read it, takes it to her master and mistress, and learns
+    it is an invitation from elves to hold a child at its christening.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:2
+  type: summary
+  locator: 6103-6106
+  quote_or_summary: After persuasion and being told that such an invitation should
+    not be refused, she consents; three elves come and conduct her to a hollow mountain
+    where the little folks live.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:3
+  type: summary
+  locator: 6107-6110
+  quote_or_summary: The mountain dwelling is small but beautiful; the baby's mother
+    lies in an ornate ebony bed with pearls and gold coverlets, and the baby has an
+    ivory cradle and gold bath; the girl stands as godmother.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:4
+  type: summary
+  locator: 6111-6115
+  quote_or_summary: The little elves ask her to stay three days; she stays happily,
+    and when she leaves they fill her pockets with money and lead her out of the mountain.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:5
+  type: summary
+  locator: 6116-6121
+  quote_or_summary: Returning home, she takes up the broom still in the corner and
+    begins to sweep; strangers question her, and the narration states that the three
+    days she perceived were seven years, during which her former masters died.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious and descriptive; taxonomy mappings are broad where used. No comparison
+    claims are asserted because the passage does not itself compare this story to
+    another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external tale-type or motif-index identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l6094-l6122
+  passage_sha256=d4a6338e5344751b491f17381527cc56af729c155434dba37ffdba0b0ba16e8b
+

@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l7072-l7084
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: DEIFIED FISH SUPERSTITION / STORY OF THE ANAE-HOLO / MYTH OF THE HILU / THE
+    HOU, OR SNORING FISH; lines 7072-7084
+  start: '7072'
+  end: '7084'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: will be heard to snore as if it were a human being
+  summary: The passage describes the hou as a small, beautifully colored fish living
+    in shallow water. On a quiet, still night, people fishing with torches may hear
+    it snore while it sleeps, like a human being. Certain sharks sleeping in shallow
+    water are also said to make the same sound. The passage closes by noting that
+    the islands have many fish and many associated stories.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The hou lives in shallow water.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hou is described as a small, beautifully colored fish.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On a quiet, still night, someone fishing with torches may get close to where
+    the hou is sleeping.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sleeping hou is said to snore as if it were a human being.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Certain sharks sleeping in shallow water are also said to produce the same
+    snoring habit at times.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says there are many fish in the islands and other stories connected
+    with them.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: hou
+  description: A small, beautifully colored fish that lives in shallow water and is
+    said to snore while sleeping.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: certain sharks
+  description: Sharks sleeping in shallow water that are also said at times to make
+    the same snoring sound.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: torch fisher
+  description: An unnamed person fishing with torches on a quiet, still night who
+    may come close to the sleeping hou.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: snoring fish
+  assigned_to:
+  - fig:1
+  basis: The hou is identified as a fish and is said to snore while sleeping.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: parallel snoring sea animal
+  assigned_to:
+  - fig:2
+  basis: Certain sharks are said to share the same snoring habit while sleeping in
+    shallow water.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: human observer or fisher
+  assigned_to:
+  - fig:3
+  basis: The passage describes a person fishing with torches who may hear the hou
+    snore.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: shallow water
+  literal_form: shallow water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: torches
+  literal_form: torches used while fishing at night
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: human-like snoring
+  literal_form: snoring as if human
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Night fishing near the sleeping hou
+  summary: On a quiet, still night, a person fishing with torches may come close to
+    a sleeping hou in shallow water and hear it snore like a human being.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sharks with the same habit
+  summary: Certain sharks, when sleeping in shallow water, are also said to make the
+    same kind of snoring sound at times.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Fish or sea animal with human-like sleep sound
+  taxonomy_refs: []
+  basis: The hou is said to snore while sleeping as if it were human, and certain
+    sharks are said to share the same habit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports an unusual animal behavior but does not present a
+    developed mythic narrative or identify a broader named motif family.
+- id: motif:2
+  label: Night fisher hears uncanny animal sound
+  taxonomy_refs: []
+  basis: The event occurs during torch fishing on a quiet, still night, when a person
+    approaches the sleeping hou and hears it snore.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a descriptive belief or anecdote rather than a full
+    story sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the hou and certain sharks by saying both may
+    snore while sleeping in shallow water.
+  claim_level: same_function
+  target: certain sharks sleeping in shallow water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the passage only; no broader
+    historical or cross-cultural relationship is asserted.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7072-7076
+  quote_or_summary: "“The hou lives in shallow water”; it is “a small, beautifully
+    colored fish.”"
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: 7074-7077
+  quote_or_summary: When fishing with torches on a quiet night, if one gets close
+    to the sleeping hou, it “will be heard to snore as if it were a human being.”
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: 7077-7079
+  quote_or_summary: Certain sharks sleeping in shallow water can also be heard at
+    times making the same snoring habit.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 7081-7084
+  quote_or_summary: The passage states that many kinds of fish are known to the islands
+    and that other stories are connected with them.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are descriptive because
+    the passage is brief and does not name a formal motif. The comparison claim is
+    limited to the passage’s internal comparison between hou and sharks.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family was assigned; the available 'shapeshifter' motif is not supported because the passage describes human-like snoring, not transformation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l7072-l7084
+  passage_sha256=bd1afb01a56f3a783b637536a7ed8b256ec82eb3b003e1859f3c45b86619c280
+

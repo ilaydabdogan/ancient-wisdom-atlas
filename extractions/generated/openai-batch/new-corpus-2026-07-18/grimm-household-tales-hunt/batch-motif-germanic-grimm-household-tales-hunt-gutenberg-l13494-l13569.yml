@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l13494-l13569
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 13494-13569
+  start: '13494'
+  end: '13569'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed man enters a giant’s dwelling, avoids being eaten by offering
+    inexhaustible food, and asks for the golden castle of Stromberg. Two giants consult
+    maps; the second locates the castle and carries the man near it. The man reaches
+    a golden castle on a glass mountain where a bewitched King’s daughter lives, but
+    he cannot climb to her. After waiting a year, he encounters three robbers fighting
+    over a door-opening stick, an invisibility mantle, and a horse that can ride anywhere.
+    He takes the objects, rides up the glass mountain, enters the castle invisibly,
+    drops the maiden’s ring into her cup, and is recognized as her liberator. She
+    says he has set her free and that they will marry the next day.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A giant threatens to eat the man because he has nothing else to eat, but agrees
+    not to devour him when the man offers enough food to satisfy him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man possesses bread, wine, and meat described as never coming to an end.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man asks where the golden castle of Stromberg is, and the first giant
+    searches maps that include towns, villages, and houses but does not find it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The giant’s brother searches further maps, including older maps, and the golden
+    castle of Stromberg is eventually found many thousand miles away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The giant’s brother says he has two hours to carry the man near the castle
+    before returning home to suckle a child.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The golden castle of Stromberg stands on a glass mountain, and the bewitched
+    maiden drives in her carriage around the castle before going inside.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man repeatedly slips down when trying to climb the glass mountain, then
+    builds a hut below and waits there for a year.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Three robbers are beating each other over a stick, a mantle, and a horse they
+    have found.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The stick opens doors when struck against them, the mantle makes its wearer
+    invisible, and the horse can ride everywhere, including up the glass mountain.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The man tests the three objects, becomes invisible to the robbers, beats them,
+    and rides up the glass mountain.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: At the castle, the man strikes the shut door with the stick, and the door
+    springs open.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: While invisible, the man throws the maiden’s ring into her golden cup of wine;
+    she recognizes the ring as a sign that the man who is to free her is present.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The maiden later sees the man, says he has set her free, and says they will
+    celebrate their wedding the next day.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: unnamed man
+  description: An unnamed man who carries inexhaustible provisions, seeks the golden
+    castle of Stromberg, obtains three magical objects, and frees the King’s daughter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: first giant
+  description: A giant who initially threatens to eat the man, then eats the man’s
+    provisions and searches maps for the golden castle of Stromberg.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: giant’s brother
+  description: A second giant who searches older maps, locates the golden castle of
+    Stromberg, and carries the man toward it before returning to suckle a child.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: bewitched maiden / King’s daughter
+  description: A bewitched maiden, later called the King’s daughter, who lives at
+    the golden castle on the glass mountain, recognizes her ring, and says the man
+    has freed her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: three robbers
+  description: Three robbers who fight over a door-opening stick, an invisibility
+    mantle, and a horse that can ride everywhere.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: child mentioned by the giant’s brother
+  description: A child whom the giant’s brother says he must return home to suckle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questing rescuer
+  assigned_to:
+  - fig:1
+  basis: The man seeks the golden castle, gains the objects needed to reach it, and
+    is told by the maiden that he has set her free.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: role:2
+  label: giant host and map-searcher
+  assigned_to:
+  - fig:2
+  basis: The giant first threatens the man, then eats his food and searches maps for
+    the castle.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: giant guide, carrier, and caregiver
+  assigned_to:
+  - fig:3
+  basis: The giant’s brother locates the castle, carries the man toward it, and says
+    he must return to suckle a child.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: bewitched King’s daughter to be freed
+  assigned_to:
+  - fig:4
+  basis: She is described as bewitched, recognizes the ring, and says the man has
+    set her free.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: role:5
+  label: contesting possessors of magical objects
+  assigned_to:
+  - fig:5
+  basis: The three robbers fight over the stick, mantle, and horse and allow the man
+    to test them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: dependent child mentioned as reason for return
+  assigned_to:
+  - fig:6
+  basis: The giant’s brother gives the child as the reason he must return home after
+    two hours.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: inexhaustible provisions
+  literal_form: bread, wine, and meat which would never come to an end
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: maps of distant places
+  literal_form: maps containing towns, villages, houses, and eventually the golden
+    castle of Stromberg
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: golden castle of Stromberg
+  literal_form: a golden castle located many thousand miles away and standing on a
+    glass mountain
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: glass mountain
+  literal_form: the glass mountain on which the golden castle stands
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: door-opening stick
+  literal_form: a stick that makes a door spring open when struck against it
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: invisibility mantle
+  literal_form: a mantle that makes the wearer invisible
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: horse that rides everywhere
+  literal_form: a horse on which a man can ride everywhere, even up the glass mountain
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:8
+  label: recognition ring
+  literal_form: the ring the maiden had given the man, thrown into her cup
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: golden cup of wine
+  literal_form: a golden cup full of wine standing before the maiden
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: giant’s dwelling and map search
+  summary: The man enters the giant’s dwelling, avoids being eaten by feeding the
+    giant with inexhaustible provisions, and asks about the golden castle of Stromberg;
+    the giant searches maps but does not find it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: older maps and giant transport
+  summary: The giant’s brother comes home, searches older maps until the castle is
+    found far away, carries the man near it for two hours, and returns home to suckle
+    a child.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: arrival below the glass mountain
+  summary: The man reaches the golden castle on the glass mountain, sees the bewitched
+    maiden, fails to climb because he slips down, and waits below in a hut for a year.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: robbers’ quarrel over three magical objects
+  summary: The man encounters three robbers fighting over a stick, mantle, and horse;
+    he tests the objects, becomes invisible, beats the robbers, and rides away with
+    them.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: entry into the castle and recognition
+  summary: Using the horse, stick, and mantle, the man reaches and enters the castle
+    invisibly, drops the maiden’s ring into her golden cup, is recognized, and is
+    told he has set her free and will marry her.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: inexhaustible food averts a giant’s devouring threat
+  taxonomy_refs: []
+  basis: The man avoids being eaten by offering bread, wine, and meat that never run
+    out, satisfying the giant.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents the episode literally as practical feeding and does
+    not name a broader motif family.
+- id: motif:2
+  label: quest for a remote enchanted castle
+  taxonomy_refs:
+  - mystical_quest
+  basis: The man asks for the golden castle of Stromberg, learns it is many thousand
+    miles away, travels to it, and seeks the bewitched maiden there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage does not explicitly call the
+    journey mystical.
+- id: motif:3
+  label: giant helpers locate and bridge an impossible distance
+  taxonomy_refs: []
+  basis: The giants consult maps to locate the remote castle, and one giant carries
+    the man close enough to continue alone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives no explicit moral or ritual meaning for the giants’
+    assistance.
+- id: motif:4
+  label: inaccessible glass mountain overcome by magical horse
+  taxonomy_refs:
+  - ascent
+  basis: The man cannot climb the glass mountain by ordinary means but later rides
+    up it on a horse that can travel everywhere.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The ascent taxonomy is applied to the literal upward crossing of the mountain;
+    the passage does not state a symbolic interpretation.
+- id: motif:5
+  label: three magical objects taken from quarrelling robbers
+  taxonomy_refs: []
+  basis: Three robbers fight over a stick, mantle, and horse; the man tests them,
+    uses invisibility, beats the robbers, and keeps the objects.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state whether the robbers originally owned the objects
+    lawfully.
+- id: motif:6
+  label: recognition by ring dropped into a cup
+  taxonomy_refs: []
+  basis: The man throws the ring given by the maiden into her golden cup, and she
+    identifies it as the ring indicating her liberator’s presence.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the earlier giving of the ring within this
+    excerpt.
+- id: motif:7
+  label: liberation of bewitched maiden followed by promised wedding
+  taxonomy_refs: []
+  basis: After recognizing the man, the King’s daughter says he has set her free and
+    that they will celebrate their wedding the next day.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No external wedding or sacred-marriage interpretation is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13494-13513
+  quote_or_summary: The giant threatens to eat the man, the man offers inexhaustible
+    bread, wine, and meat, and the giant searches maps for the golden castle of Stromberg
+    without finding it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 13514-13527
+  quote_or_summary: The giant’s brother returns, searches older maps until the castle
+    is found many thousand miles away, carries the man near it for two hours, and
+    must return to suckle a child.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 13528-13540
+  quote_or_summary: The man arrives at the golden castle on a glass mountain, sees
+    the bewitched maiden driving around it, fails to climb because he slips, builds
+    a hut below, and waits there for a year.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 13541-13553
+  quote_or_summary: Three robbers fight over a stick that opens doors, a mantle that
+    makes the wearer invisible, and a horse able to ride everywhere, even up the glass
+    mountain.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 13554-13559
+  quote_or_summary: The man tests the three objects, becomes invisible, beats the
+    robbers, and rides up the glass mountain.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: 13560-13564
+  quote_or_summary: At the castle the man strikes the shut door with the stick so
+    it opens, enters invisibly, and reaches the hall where the maiden sits with a
+    golden cup of wine.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: 13564-13567
+  quote_or_summary: The man throws the maiden’s ring into the cup; she recognizes
+    it and says the man who is to set her free must be present, though searchers do
+    not find him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:8
+  type: summary
+  locator: 13567-13569
+  quote_or_summary: The man is seen at the door, takes the King’s daughter in his
+    arms, and she says he has set her free and that they will celebrate their wedding
+    tomorrow.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about figures, objects, and actions. Motif labels
+    are candidate groupings based only on this excerpt and available taxonomy references;
+    no external tale-type or cross-tradition comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to those supplied in the request; comparison_claims left empty because the excerpt itself does not support an external comparative claim.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l13494-l13569
+  passage_sha256=6903b16ccf73eac509bc176d0e559958db6ca80e4afa81a5c73d28ba2cc56278
+

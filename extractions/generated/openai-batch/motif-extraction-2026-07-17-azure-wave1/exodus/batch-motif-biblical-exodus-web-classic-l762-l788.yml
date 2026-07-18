@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.biblical-exodus-web-classic-l762-l788
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Chapter 10 / Footnotes / Chapter 11 / Chapter 12; lines 762-788
+  start: '762'
+  end: '788'
+  translation: Exodus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A mixed multitude and the children of Israel depart from Egypt with livestock,
+    bake unleavened cakes because they were hurried out, and are said to have left
+    after four hundred thirty years. The night is to be observed to Yahweh through
+    generations. Yahweh gives Moses and Aaron Passover regulations concerning who
+    may eat, circumcision, eating in one house, not carrying meat outside, and not
+    breaking bones. Israel obeys, and Yahweh brings them out by their armies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mixed multitude goes up with the departing group, accompanied by flocks,
+    herds, and much livestock.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They bake unleavened cakes from dough brought out of Egypt because they were
+    thrust out, could not wait, and had not prepared food.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The children of Israel are said to have lived in Egypt for four hundred thirty
+    years before Yahweh’s armies go out from Egypt.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The night of departure is designated as a night to be much observed to Yahweh
+    by the children of Israel throughout their generations.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Yahweh speaks to Moses and Aaron and gives an ordinance of the Passover restricting
+    who may eat it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Passover meat must be eaten in one house, not carried outside the house,
+    and its bones must not be broken.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A foreign resident who wishes to keep the Passover must have all his males
+    circumcised; then he may keep it as one born in the land, while no uncircumcised
+    person may eat it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The children of Israel do as Yahweh commanded Moses and Aaron, and Yahweh
+    brings them out of Egypt by their armies that same day.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: mixed multitude
+  description: A mixed multitude that goes up with the departing group, with flocks,
+    herds, and much livestock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: children of Israel / congregation of Israel / Yahweh’s armies
+  description: The group that lived in Egypt for four hundred thirty years, keeps
+    the Passover, does as commanded, and is brought out of Egypt by Yahweh.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Yahweh
+  description: The deity who brings the children of Israel out of Egypt and speaks
+    the Passover ordinance to Moses and Aaron.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Moses
+  description: One of the two recipients of Yahweh’s Passover command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: Aaron
+  description: One of the two recipients of Yahweh’s Passover command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: foreigner, hired servant, and resident stranger
+  description: Legal categories mentioned in the Passover ordinance, with restrictions
+    and conditional inclusion for a circumcised resident stranger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: servant bought for money
+  description: A servant who may eat the Passover after circumcision.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: departing group
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The mixed multitude goes up with them, and Yahweh’s armies go out from Egypt.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine deliverer and lawgiver
+  assigned_to:
+  - fig:3
+  basis: Yahweh brings the children of Israel out of Egypt and gives the Passover
+    ordinance to Moses and Aaron.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:3
+  label: recipients of divine command
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Yahweh says the ordinance to Moses and Aaron, and Israel acts as Yahweh commanded
+    them.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: ritual-observing congregation
+  assigned_to:
+  - fig:2
+  basis: The children of Israel are to observe the night through generations, and
+    all the congregation of Israel shall keep the Passover.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: conditional or restricted Passover participant
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The ordinance excludes some foreigners and hired servants, permits a circumcised
+    purchased servant, and permits a circumcised resident stranger to keep the Passover.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: unleavened cakes
+  literal_form: Unleavened cakes baked from dough brought out of Egypt.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: observed night
+  literal_form: The night of Yahweh to be much observed for bringing Israel out of
+    Egypt.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Passover meal
+  literal_form: The Passover food or meat governed by the ordinance about who may
+    eat it.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: one house
+  literal_form: The single house in which the Passover must be eaten and from which
+    the meat must not be carried out.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: unbroken bones
+  literal_form: The bones of the Passover meat, which are not to be broken.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: circumcision requirement
+  literal_form: Circumcision of a servant or resident stranger’s males as a condition
+    for eating or keeping the Passover.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: four hundred thirty years
+  literal_form: The stated duration of the children of Israel’s residence in Egypt
+    before departure.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: departure with mixed multitude and hurried bread
+  summary: A mixed multitude accompanies the departing people with livestock, and
+    the group bakes unleavened cakes from dough brought out of Egypt because they
+    were hurried out without prepared food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: departure after four hundred thirty years
+  summary: After four hundred thirty years in Egypt, Yahweh’s armies go out from Egypt,
+    and the night is established as a night to be observed to Yahweh through Israel’s
+    generations.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Passover ordinance and participation rules
+  summary: Yahweh gives Moses and Aaron rules for the Passover, including restrictions
+    on foreigners and hired servants, circumcision as a condition for some participants,
+    eating in one house, not carrying meat outside, and not breaking bones.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: obedience and final statement of deliverance
+  summary: The children of Israel do as Yahweh commanded Moses and Aaron, and Yahweh
+    brings them out of Egypt by their armies that same day.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: collective departure from Egypt
+  taxonomy_refs:
+  - departure
+  basis: The passage repeatedly describes the group going up or going out from Egypt
+    and Yahweh bringing the children of Israel out by their armies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The extraction is limited to the departure language in this passage and
+    does not infer details from earlier or later Exodus material.
+- id: motif:2
+  label: hurried departure marked by unleavened bread
+  taxonomy_refs:
+  - departure
+  basis: The unleavened cakes are explained as resulting from being thrust out of
+    Egypt, being unable to wait, and lacking prepared food.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a direct practical explanation; additional ritual or
+    symbolic interpretation is not inferred here.
+- id: motif:3
+  label: ritual commemoration through generations
+  taxonomy_refs: []
+  basis: The night of Yahweh is to be much observed by all the children of Israel
+    throughout their generations.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the supplied motif list
+    has no exact ritual-commemoration category.
+- id: motif:4
+  label: boundary-regulated sacred meal
+  taxonomy_refs: []
+  basis: The Passover ordinance states who may eat, requires circumcision for certain
+    participants, requires eating in one house, and forbids taking meat outside or
+    breaking bones.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The phrase 'sacred meal' is a descriptive motif label based on the Passover
+    ordinance; the passage itself uses 'Passover' and 'ordinance' rather than this
+    category name.
+- id: motif:5
+  label: obedience to divine command
+  taxonomy_refs: []
+  basis: The children of Israel do as Yahweh commanded Moses and Aaron.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy reference is exact for this motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with the supplied 'departure' motif
+    family because it centers on a collective exit from Egypt under Yahweh’s agency.
+  claim_level: same_motif
+  target: departure
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level motif grouping only; it does not imply historical
+    contact, common inheritance, or comparison with any external text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Exodus 12:38; lines 762-763
+  quote_or_summary: A mixed multitude goes up with them, accompanied by flocks, herds,
+    and much livestock.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+- id: ev:2
+  type: summary
+  locator: Exodus 12:39; lines 764-766
+  quote_or_summary: They bake unleavened cakes from dough brought out of Egypt because
+    they were thrust out, could not wait, and had not prepared food.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+- id: ev:3
+  type: summary
+  locator: Exodus 12:40-41; lines 767-770
+  quote_or_summary: The children of Israel lived in Egypt four hundred thirty years;
+    at the end of that period Yahweh’s armies went out from Egypt.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+- id: ev:4
+  type: summary
+  locator: Exodus 12:42; lines 771-772
+  quote_or_summary: The night is to be much observed to Yahweh for bringing them out
+    of Egypt, and observed by the children of Israel through their generations.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+- id: ev:5
+  type: summary
+  locator: Exodus 12:43-45; lines 773-778
+  quote_or_summary: 'Yahweh tells Moses and Aaron the Passover ordinance: no foreigner
+    may eat it; a purchased servant may eat after circumcision; a foreigner and hired
+    servant may not eat it.'
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+- id: ev:6
+  type: summary
+  locator: Exodus 12:46-47; lines 779-781
+  quote_or_summary: The Passover must be eaten in one house; the meat must not be
+    carried outside; its bones must not be broken; all the congregation of Israel
+    shall keep it.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+- id: ev:7
+  type: summary
+  locator: Exodus 12:48-49; lines 782-785
+  quote_or_summary: A resident stranger who wants to keep the Passover must have all
+    his males circumcised; then he may keep it as one born in the land. No uncircumcised
+    person may eat it, and one law applies to native and stranger.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+- id: ev:8
+  type: summary
+  locator: Exodus 12:50-51; lines 786-788
+  quote_or_summary: All the children of Israel do as Yahweh commanded Moses and Aaron,
+    and that same day Yahweh brings them out of Egypt by their armies.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain per source metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is explicit about departure, ritual observance, Passover restrictions,
+    and obedience. Motif labels without taxonomy references are descriptive and should
+    be reviewed by a human.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external cross-cultural or historical claims are made.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-exodus-web-classic__l762-l788
+  passage_sha256=7ce938b27077d84e65f0e2cdc71ed522762818e2f7a4950b70a7240cb53a2c0e
+

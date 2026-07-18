@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l9049-l9073
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: FIFTEENTH ADVENTURE / SIXTEENTH ADVENTURE / SEVENTEENTH ADVENTURE / EIGHTEENTH
+    ADVENTURE; lines 9049-9073
+  start: '9049'
+  end: '9073'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: God in heaven knoweth / that of guilt I've naught / In the death of Siegfried
+  summary: Gernot denies guilt in Siegfried's death and expresses sympathy. Giselher
+    gives safe escort to a monarch and warriors returning to Netherland. Kriemhild
+    continues to lament and is comforted only by Giselher. Brunhild shows haughty
+    indifference to Kriemhild's grief, and the narrator foreshadows that Kriemhild
+    will later cause Brunhild sorrow.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gernot speaks kindly and says that God knows he has no guilt in Siegfried's
+    death.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gernot says he had not heard who was hostile to Siegfried and says he may
+    share in the sorrow.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Giselher furnishes a safe escort and leads the monarch with his warriors out
+    of the country to Netherland, their home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The greeting to kin in Netherland is described as joyless.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kriemhild laments day after day, and no one comforts her except Giselher.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Giselher is described as faithful and good to Kriemhild.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Brunhild sits in a haughty mood and shows little regard or pity for Kriemhild's
+    weeping.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator states that Lady Kriemhild will later be a cause of sore sorrow
+    to Brunhild.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gernot
+  description: A royal knight who speaks kindly, denies guilt in Siegfried's death,
+    and expresses sympathy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Siegfried
+  description: A deceased figure whose death is the subject of Gernot's denial of
+    guilt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Giselher
+  description: A young knight who provides safe escort and later comforts Kriemhild;
+    he is described as faithful and good to her.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Kriemhild
+  description: A lady who laments day after day, is comforted by Giselher, is disregarded
+    by Brunhild, and is foreshadowed as a future cause of Brunhild's sorrow.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the monarch with his warriors
+  description: An unnamed monarch and his warriors are escorted by Giselher to Netherland,
+    their home.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: kin in Netherland
+  description: Kin at Netherland to whom the returning group comes; their greeting
+    is described as joyless.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Brunhild
+  description: A fair queen who sits haughtily, shows no pity for Kriemhild's weeping,
+    and is foreshadowed as one who will suffer sorrow caused by Kriemhild.
+  role_refs:
+  - role:7
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: speaker denying guilt
+  assigned_to:
+  - fig:1
+  basis: Gernot says that God knows he has no guilt in Siegfried's death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased figure named in dispute
+  assigned_to:
+  - fig:2
+  basis: Siegfried is named as the dead person in Gernot's speech about guilt and
+    hostility.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: safe escort provider
+  assigned_to:
+  - fig:3
+  basis: Giselher furnishes safe escort and leads the party to Netherland.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mourner
+  assigned_to:
+  - fig:4
+  basis: Kriemhild is heard plaining day after day.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: comforter
+  assigned_to:
+  - fig:3
+  basis: Giselher is the one who comforts Kriemhild and is faithful and good to her.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: homeward travelers
+  assigned_to:
+  - fig:5
+  basis: The monarch with his warriors are led to Netherland, their home.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: unsympathetic queen
+  assigned_to:
+  - fig:7
+  basis: Brunhild sits haughtily and shows no pity for Kriemhild's weeping.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: future cause of sorrow
+  assigned_to:
+  - fig:4
+  basis: The narrator says Lady Kriemhild will later be a cause of sore sorrow to
+    Brunhild.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: receiving kin
+  assigned_to:
+  - fig:6
+  basis: The returning party comes to their kin in Netherland, where the greeting
+    is joyless.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: future sufferer of sorrow
+  assigned_to:
+  - fig:7
+  basis: The narrator says Kriemhild will later cause sorrow to Brunhild.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Netherland home
+  literal_form: Netherland their home
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Gernot's denial and sympathy
+  summary: Gernot speaks kindly, denies guilt in Siegfried's death, says he did not
+    know who was hostile to Siegfried, and expresses a share in the sorrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Safe escort to Netherland
+  summary: Giselher safely escorts the unnamed monarch and warriors out of the country
+    to Netherland, where their greeting among kin is joyless.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kriemhild's continuing lament
+  summary: Kriemhild laments day after day, and only Giselher comforts her; he is
+    described as faithful and good to her.
+  figure_refs:
+  - fig:4
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Brunhild's indifference and foreshadowed sorrow
+  summary: Brunhild sits haughtily and shows no pity for Kriemhild's weeping; the
+    narrator adds that Kriemhild will later cause Brunhild sorrow.
+  figure_refs:
+  - fig:7
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Protestation of innocence over a hero's death
+  taxonomy_refs: []
+  basis: Gernot invokes God as witness and denies guilt in Siegfried's death while
+    speaking about the unknown hostile parties.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage records Gernot's denial and sympathy, not an independent judgment
+    of guilt or innocence.
+- id: motif:2
+  label: Safe escort and homeward return
+  taxonomy_refs:
+  - return
+  basis: Giselher provides safe escort and leads the monarch and warriors to Netherland,
+    explicitly called their home.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt shows a local narrative return, but not a full return-cycle
+    structure by itself.
+- id: motif:3
+  label: Persistent mourning with a single faithful comforter
+  taxonomy_refs: []
+  basis: Kriemhild laments day after day and is comforted only by Giselher, who is
+    described as faithful and good.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe resolution of the grief.
+- id: motif:4
+  label: Haughty refusal of pity followed by reversed sorrow
+  taxonomy_refs: []
+  basis: Brunhild shows no pity for Kriemhild's grief, and the narrator foreshadows
+    that Kriemhild will later cause Brunhild sorrow.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The future sorrow is only briefly foreshadowed; the passage does not explain
+    its manner or cause beyond naming Kriemhild.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: stanza 1097 within lines 9049-9073
+  quote_or_summary: 'Gernot says: "God in heaven knoweth / that of guilt I''ve naught
+    / In the death of Siegfried" and adds that he had not heard who was hostile to
+    him.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: stanza 1098 within lines 9049-9073
+  quote_or_summary: Giselher furnishes safe escort and leads the monarch with warriors
+    out of the country to Netherland, their home; the greeting among kin there is
+    joyless.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: stanza 1099 within lines 9049-9073
+  quote_or_summary: Kriemhild is heard plaining day after day; none comforts her except
+    Giselher, who is faithful and good to her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: stanza 1100, opening lines within lines 9049-9073
+  quote_or_summary: Queen Brunhild sits in a haughty mood, takes little regard of
+    Kriemhild's weeping, and shows her no pity.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: stanza 1100, final line within lines 9049-9073
+  quote_or_summary: '"Anon was Lady Kriemhild / eke cause to her of sorrow sore."'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied public-domain passage. Motif
+    labels are candidate narrative patterns; only the homeward-return motif is linked
+    to an available taxonomy ref, and that link is limited to this excerpt's literal
+    return home. No comparison claims were generated because the passage itself provides
+    no explicit comparative basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures, taxonomy references, or comparative claims were added beyond what the supplied passage and metadata support.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l9049-l9073
+  passage_sha256=175d905ab5e6f2f1414b0cd3dd84fdc9ba50c3350793353de7db8a353f238b53
+

@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l66-l100
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: LITERATURE / OF THE / ANCIENT EGYPTIANS / E.A. WALLIS BUDGE, M.A., LITT.D.;
+    lines 66-100
+  start: '66'
+  end: '100'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: The Elysian Fields of the Egyptians according to the Papyrus of Ani.
+  summary: The passage is a title-page and frontispiece caption for Budge's The Literature
+    of the Ancient Egyptians. The frontispiece describes Egyptian Elysian Fields from
+    the Papyrus of Ani, including Ani adoring gods, reaping and ploughing in the Other
+    World, and an abode of perfect spirits with magical boats.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The work is titled The Literature of the Ancient Egyptians and is attributed
+    to E. A. Wallis Budge.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The frontispiece is identified as showing the Elysian Fields of the Egyptians
+    according to the Papyrus of Ani.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ani is described as adoring the gods of Sekhet-Aaru.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ani is described as reaping and ploughing in the Other World.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The frontispiece includes the abode of the perfect spirits and magical boats.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: E. A. Wallis Budge
+  description: Named author of the work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ani
+  description: A figure shown in the frontispiece adoring gods, reaping, and ploughing
+    in the Other World.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: gods of Sekhet-Aaru
+  description: Divine figures adored by Ani in the frontispiece caption.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: perfect spirits
+  description: Spirits associated with an abode shown in the frontispiece caption.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  basis: The title page names E. A. Wallis Budge as author.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: afterlife participant
+  assigned_to:
+  - fig:2
+  basis: Ani is shown acting in the Other World and before gods of Sekhet-Aaru.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: adored deities
+  assigned_to:
+  - fig:3
+  basis: The caption states that Ani is adoring the gods of Sekhet-Aaru.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: inhabitants of an abode
+  assigned_to:
+  - fig:4
+  basis: The caption names an abode of the perfect spirits.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Elysian Fields of the Egyptians
+  literal_form: afterlife fields
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Other World
+  literal_form: afterlife realm
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: magical boats
+  literal_form: boats
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: agricultural work in the Other World
+  literal_form: reaping and ploughing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ani adoring the gods of Sekhet-Aaru
+  summary: Ani is shown adoring the gods of Sekhet-Aaru in the Egyptian Elysian Fields.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ani working in the Other World
+  summary: Ani is shown reaping and ploughing in the Other World.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Abode of perfect spirits and magical boats
+  summary: The frontispiece includes the abode of the perfect spirits and magical
+    boats.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mapped or depicted afterlife realm
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The frontispiece caption lists named areas and activities in the Egyptian
+    Elysian Fields and Other World, including Sekhet-Aaru, agricultural labor, an
+    abode of spirits, and magical boats.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a caption rather than a narrative journey; the taxonomy
+    match is based on the depicted afterlife layout and listed stations.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 66-100
+  quote_or_summary: Title page names The Literature of the Ancient Egyptians by E.
+    A. Wallis Budge, published in London by J. M. Dent & Sons Limited in 1914.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 93-94
+  quote_or_summary: "“The Elysian Fields of the Egyptians according to the Papyrus
+    of Ani.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 95-96
+  quote_or_summary: "“Ani adoring the gods of Sekhet-Aaru.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 97-98
+  quote_or_summary: "“Ani reaping in the Other World” and “Ani ploughing in the Other
+    World.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 99-100
+  quote_or_summary: "“The abode of the perfect spirits, and the magical boats.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and largely captional. Literal extraction is straightforward;
+    motif assignment is limited by the absence of narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative argument beyond the descriptive phrase “Elysian Fields of the Egyptians.”
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l66-l100
+  passage_sha256=5895a27f328bfbb56bb5f538128bb1421d39a27bf6b776cfd2fee2f27b5d33ce
+

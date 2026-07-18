@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l431-l444
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: XXX. SOZH AND DNIEPER                                          216 / XXXII.
+    FROST                                                     221 / XXXIII. THE BLIND
+    MAN AND THE CRIPPLE                             246 / XXXIV. PRINCESS HELENA THE
+    FAIR                                  262; lines 431-444
+  start: '431'
+  end: '444'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents segment lists tale entries XXVIII through XXXIV with
+    titles and page numbers: The Leshy; Vazuza and Volga; Sozh and Dnieper; The Metamorphosis
+    of the Dnieper, the Volga, and the Dvina; Frost; The Blind Man and the Cripple;
+    and Princess Helena the Fair.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents sequence listing seven numbered tale entries
+    with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One entry is titled "The Leshy" and is associated with page 213.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One entry is titled "Vazuza and Volga" and is associated with page 215.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One entry is titled "Sozh and Dnieper" and is associated with page 216.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One entry is titled "The Metamorphosis of the Dnieper, the Volga, and the
+    Dvina" and is associated with page 217.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One entry is titled "Frost" and is associated with page 221.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One entry is titled "The Blind Man and the Cripple" and is associated with
+    page 246.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: One entry is titled "Princess Helena the Fair" and is associated with page
+    262.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Leshy
+  description: Named in the title of entry XXVIII.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Vazuza
+  description: Named as one of two title subjects in entry XXIX.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Volga
+  description: Named in entry XXIX and again in the metamorphosis title of entry XXXI.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Sozh
+  description: Named as one of two title subjects in entry XXX.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Dnieper
+  description: Named in entry XXX and again in the metamorphosis title of entry XXXI.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Dvina
+  description: Named in the metamorphosis title of entry XXXI.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Frost
+  description: Named in the title of entry XXXII.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Blind Man
+  description: Descriptive title subject in entry XXXIII.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Cripple
+  description: Descriptive title subject in entry XXXIII.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Princess Helena the Fair
+  description: Named title subject in entry XXXIV, designated as a princess and called
+    "the Fair."
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: title subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: Each figure or entity is named in one or more tale titles in the table of
+    contents.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: paired title subject
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  basis: The titles "Vazuza and Volga," "Sozh and Dnieper," and "The Blind Man and
+    the Cripple" use paired title formulations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:3
+  label: subject of metamorphosis title
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: The title of entry XXXI names the Dnieper, Volga, and Dvina in connection
+    with "Metamorphosis."
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: princess
+  assigned_to:
+  - fig:10
+  basis: The title designates Helena as "Princess."
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: blind man
+  assigned_to:
+  - fig:8
+  basis: The title uses the label "The Blind Man."
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: cripple
+  assigned_to:
+  - fig:9
+  basis: The title uses the label "the Cripple."
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: metamorphosis of named entities
+  taxonomy_refs:
+  - shapeshifter
+  basis: Entry XXXI is titled "The Metamorphosis of the Dnieper, the Volga, and the
+    Dvina."
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only the table-of-contents title is available; the passage does not describe
+    the transformation, its agent, cause, direction, or whether it involves voluntary
+    shapeshifting.
+- id: motif:2
+  label: paired title figures or entities
+  taxonomy_refs:
+  - duality
+  basis: 'Several titles present two named or described subjects joined by "and":
+    Vazuza and Volga; Sozh and Dnieper; the Blind Man and the Cripple.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: low
+  cautions: The evidence is limited to title wording; paired wording does not by itself
+    establish a mythic duality motif.
+- id: motif:3
+  label: paired differently described human figures
+  taxonomy_refs: []
+  basis: Entry XXXIII is titled "The Blind Man and the Cripple," presenting two descriptive
+    human labels in a paired title.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage gives no narrative action or relationship beyond the title.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 431-444
+  quote_or_summary: Table-of-contents segment listing entries XXVIII through XXXIV
+    with titles and page numbers.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:2
+  type: quote
+  locator: line 431
+  quote_or_summary: '"XXVIII. THE LESHY                                                 213"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:3
+  type: quote
+  locator: line 433
+  quote_or_summary: '"XXIX. VAZUZA AND VOLGA                                          215"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:4
+  type: quote
+  locator: line 435
+  quote_or_summary: '"XXX. SOZH AND DNIEPER                                          216"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:5
+  type: quote
+  locator: lines 437-438
+  quote_or_summary: '"XXXI. THE METAMORPHOSIS OF THE DNIEPER, THE / VOLGA, AND THE
+    DVINA                                      217"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:6
+  type: quote
+  locator: line 440
+  quote_or_summary: '"XXXII. FROST                                                     221"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:7
+  type: quote
+  locator: line 442
+  quote_or_summary: '"XXXIII. THE BLIND MAN AND THE CRIPPLE                             246"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+- id: ev:8
+  type: quote
+  locator: line 444
+  quote_or_summary: '"XXXIV. PRINCESS HELENA THE FAIR                                  262"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; excerpt use allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is only a table of contents, so title extraction is straightforward,
+    but motif identification is necessarily tentative and lacks narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes or symbolic objects are described in the provided passage. Symbols and comparison claims are therefore left empty.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l431-l444
+  passage_sha256=6ed529bce85f242d8d930911108aaa48e0743436c2e4b8e361cd7ab0da3e0abf
+

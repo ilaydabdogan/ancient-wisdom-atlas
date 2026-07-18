@@ -1,0 +1,485 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l3941-l4017
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: EDICT AGAINST THE BLACKS / CAMPAIGN OF THOTHMES II IN THE SUDAN / CAPTURE
+    OF MEGIDDO BY THOTHMES III / SUMMARY OF THE REIGN OF RAMESES III; lines 3941-4017
+  start: '3941'
+  end: '4017'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The royal speaker recounts defeating and enslaving foreign groups in Egypt,
+    dedicating their herds to Amen, building a fortified desert well, sending maritime
+    and desert expeditions to Punt, Aataka, and the turquoise desert, receiving precious
+    goods and foreign homage, and presenting offerings to Egyptian deities including
+    Hathor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Foreign groups, including the Labu, Mashuashau, and others, are described
+    as having occupied towns and riverbanks in Egypt before being crushed, slaughtered,
+    and driven from the border by the royal speaker.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Captives, including chiefs, women, and children, are carried away; chiefs
+    are placed in fortresses under the royal name, branded with the royal name, and
+    made slaves, while flocks and herds are assigned to the House of Amen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The royal speaker makes a large desert well at Aina with a wall, buttresses,
+    bastions, cedar doors, and copper bolts.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Large and small sea-going boats with crews and officers are loaded with Egyptian
+    products and sent to the Great Sea toward Punt; they return safely with products,
+    myrrh, and other goods from the Land of the God.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The sons or children of the chief of the Land of the God go before their offerings,
+    arrive at Coptos, and perform acts of prostration before the royal speaker.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The royal speaker gives the foreign offerings to the gods of the land to propitiate
+    the two gods before him each morning.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Envoys are sent to the copper workings in the desert of Aataka; copper is
+    loaded into sea-going boats, brought safely to Egypt, piled as ingots, and displayed
+    as wondrous things.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Inspectors and overseers are sent to the turquoise desert of Hathor; offerings
+    are laid before the goddess, and fine turquoises are brought to the royal speaker.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Royal first-person speaker / My Majesty
+  description: 'The speaker describes actions during his reign: defeating foreign
+    groups, assigning captives and livestock, building a well, dispatching expeditions,
+    receiving offerings, and giving offerings to gods.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Labu, Mashuashau, and allied named groups
+  description: Foreign groups said to have dwelt in and occupied Egyptian towns before
+    being defeated by the royal speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Captured chiefs, women, children, flocks, and herds
+  description: Prisoners and possessions taken after the defeat; chiefs and families
+    are made slaves, and herds are assigned to Amen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Amen
+  description: A deity whose house receives the captured flocks and herds as livestock
+    forever.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Boat crews, officers, captains, and mates
+  description: Personnel who man and inspect large and small boats sent with Egyptian
+    goods toward Punt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Sons or children of the chief of the Land of the God
+  description: Foreign elite children who accompany offerings toward Egypt and perform
+    prostration before the royal speaker.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Envoys, inspectors, and overseers
+  description: Officials dispatched to copper workings in Aataka and to the turquoise
+    desert.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Hathor, lady of the turquoise
+  description: A goddess associated with the turquoise desert, before whom silver,
+    gold, textiles, and other offerings are laid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Gods of this land and the two gods before the royal speaker
+  description: Deities to whom the royal speaker gives foreign offerings for propitiation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal actor and expedition sponsor
+  assigned_to:
+  - fig:1
+  basis: The first-person ruler claims military victory, construction, dispatch of
+    expeditions, receipt of goods, and dedication of offerings.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: defeated and enslaved opponents or captives
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The foreign groups are defeated and expelled, and their chiefs, women, and
+    children are carried off and made slaves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: divine recipient of goods
+  assigned_to:
+  - fig:4
+  - fig:8
+  - fig:9
+  basis: Amen receives herds, Hathor receives precious offerings, and the gods receive
+    foreign offerings for propitiation.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:4
+  label: expedition personnel
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Crews and officers operate boats, while envoys, inspectors, and overseers
+    are sent to resource regions.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:5
+  label: foreign offering bearers and supplicants
+  assigned_to:
+  - fig:6
+  basis: The children of the foreign chiefs go before offerings and bow, smell the
+    earth, and roll on the ground before the royal speaker.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: royal name brand
+  literal_form: Branding with the royal speaker's name
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fortified desert well
+  literal_form: A large well in the desert of Aina with wall, bastions, cedar doors,
+    and copper bolts
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water routes and boats
+  literal_form: Sea-going boats, smaller boats, the Great Sea, and river-barges used
+    to move goods
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: mountain of Qebtit / Coptos
+  literal_form: The mountain of Qebtit, identified in the passage with Coptos, where
+    boats arrive and goods are transferred
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: offerings and wondrous goods
+  literal_form: Myrrh, products of the Land of the God, copper ingots, turquoises,
+    silver, gold, byssus, and linen
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: House of Amen
+  literal_form: The House of Amen receiving captured flocks and herds as livestock
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Defeat and subjugation of foreign groups in Egypt
+  summary: The royal speaker recounts that Libyan, Mashuashau, and other groups occupied
+    Egyptian lands and were defeated, slaughtered, expelled, captured, branded, and
+    enslaved; their animals are assigned to Amen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Construction of a desert well
+  summary: The royal speaker describes making a large fortified well in the desert
+    of Aina with architectural and metal fittings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Punt expedition and foreign homage
+  summary: Boats are sent by sea toward Punt, return safely with myrrh and wondrous
+    goods, and the children of foreign chiefs accompany offerings to Egypt and prostrate
+    themselves before the royal speaker, who gives offerings to the gods.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Copper expedition to Aataka
+  summary: Envoys go to copper workings in Aataka, obtain copper in vast quantities,
+    return safely, and display the ingots in Egypt.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Turquoise expedition to Hathor's desert
+  summary: Inspectors and overseers go to the turquoise desert associated with Hathor,
+    present precious offerings to the goddess, and bring fine turquoises to the royal
+    speaker.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: royal conquest and subjugation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The ruler presents military victory over foreign occupiers, enslavement of
+    captives under his name, and dedication of captured wealth to Amen as accomplishments
+    of his reign.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is royal inscriptional self-presentation rather than a myth
+    narrative; the taxonomy link is based on royal ideology in the passage.
+- id: motif:2
+  label: royal procurement of distant precious goods
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The ruler emphasizes sending successful expeditions to Punt, Aataka, and
+    the turquoise desert, returning safely with myrrh, copper, turquoise, and other
+    wondrous materials.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage frames these as royal achievements; no explicit mythic journey
+    pattern is stated.
+- id: motif:3
+  label: offerings to gods for divine propitiation
+  taxonomy_refs:
+  - sacred_exchange
+  - royal_legitimacy
+  basis: Captured herds are assigned to Amen, foreign offerings are given to the gods
+    to propitiate them, and valuables are laid before Hathor.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The exchange is cultic and royal; the passage does not describe a reciprocal
+    divine response.
+- id: motif:4
+  label: submission of foreign elites before the king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Children of foreign chiefs bring or precede offerings and perform gestures
+    of abasement before the royal speaker.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motif is derived from royal display language; the exact political
+    status of the foreign figures is not elaborated beyond the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3941-3954
+  quote_or_summary: Foreign groups including the Labu, Mashuashau, Asbatau, Qaiqashau,
+    Shaiu, Hasau, and Baqanau are said to have occupied Egyptian towns and riverbanks;
+    the royal speaker says he crushed, slaughtered, and drove them from Egypt's border.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3954-3963
+  quote_or_summary: The remainder of the defeated people are carried away as prisoners;
+    chiefs are placed in fortresses, branded with the royal name, and made slaves
+    along with wives and children; herds are brought into the House of Amen.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3967-3973
+  quote_or_summary: The royal speaker makes a large well in the desert of Aina with
+    a high girdle wall, buttresses or foundations, bastions, cedar doors, and copper
+    bolts and sockets.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3973-3986
+  quote_or_summary: Large and small sea-going boats with crews and officers are loaded
+    with Egyptian products, sent to the Red Sea toward Punt, suffer no disaster, and
+    are laden with products of the Land of the God and vast quantities of myrrh.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3986-3997
+  quote_or_summary: The sons or children of chiefs of the Land of the God go before
+    offerings toward Egypt; the goods arrive at the mountain of Qebtit/Coptos, are
+    transported by desert and river, and the chiefs' children adore the royal face,
+    smell the earth, and roll on the ground.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3997-3999
+  quote_or_summary: The royal speaker gives the offerings to all the gods of the land
+    to propitiate the two gods before him every morning.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4001-4010
+  quote_or_summary: Envoys are sent to the copper workings in the desert of Aataka;
+    copper is loaded by tens of thousands of measures into sea-going boats, brought
+    safely to Egypt, piled as ingots, compared in color to refined gold, and displayed
+    as wonderful things.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4012-4017
+  quote_or_summary: Inspectors and overseers are sent to the turquoise desert of Hathor,
+    lady of the turquoise; offerings of silver, gold, byssus, linen, and many other
+    things are laid before her, and fine turquoises are brought to the royal speaker.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as a royal account of conquest, expeditions, and offerings.
+    Motif labels are cautious because the passage is historical/inscriptional royal
+    rhetoric rather than an explicit mythic tale. No passage-supported cross-tradition
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage does not itself support a specific comparison beyond candidate motif classification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l3941-l4017
+  passage_sha256=f1f081a52d899f5220b251acb30ed132ba6daefa6978ac7ad9120fa0783c17dc
+

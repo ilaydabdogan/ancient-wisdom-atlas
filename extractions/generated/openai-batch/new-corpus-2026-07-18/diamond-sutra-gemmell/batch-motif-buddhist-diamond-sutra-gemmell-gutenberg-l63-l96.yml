@@ -1,0 +1,167 @@
+---
+record_id: batch.motif.buddhist-diamond-sutra-gemmell-gutenberg-l63-l96
+source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+passage_locator:
+  label: The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita / PRAJNA-PARAMITA
+    / WILLIAM GEMMELL; lines 63-96
+  start: '63'
+  end: '96'
+  translation: The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: THE DIAMOND SUTRA (CHIN-KANG-CHING) OR PRAJNA-PARAMITA
+  summary: The passage is front matter for the work, giving the title and alternative
+    titles, stating that it was translated from Chinese with introduction and notes
+    by William Gemmell, showing the Chinese title characters, listing London publication
+    details for 1912, and dedicating the volume to William Niven, Esq.
+  language: English with Chinese title characters
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents the title as The Diamond Sutra, with Chin-Kang-Ching
+    and Prajna-Paramita as alternate title forms.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the work was translated from the Chinese with an introduction
+    and notes by William Gemmell.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage includes Chinese characters for the title.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage gives London publication details and the year 1912.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The volume is respectfully inscribed to William Niven, Esq., identified as
+    the author's friend.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: William Gemmell
+  description: Named as responsible for the translation from Chinese, introduction,
+    and notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: William Niven, Esq.
+  description: Named as the friend to whom the volume is inscribed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Kegan Paul, Trench, Trübner & Co., Ltd.
+  description: Named in the publication imprint with a London address.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: translator and provider of introduction and notes
+  assigned_to:
+  - fig:1
+  basis: The passage states that the text was translated from Chinese with an introduction
+    and notes by William Gemmell.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dedicatee and friend
+  assigned_to:
+  - fig:2
+  basis: The inscription names William Niven as the author's friend and recipient
+    of the dedication.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: publisher or imprint
+  assigned_to:
+  - fig:3
+  basis: The passage lists the company name with the London address in the publication
+    details.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Title page and dedication
+  summary: The front matter identifies the work, its translation and editorial attribution,
+    publication details, and dedication to the author's friend.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 63-96
+  quote_or_summary: '"THE DIAMOND SUTRA (CHIN-KANG-CHING) OR PRAJNA-PARAMITA"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 63-96
+  quote_or_summary: The title page states that the work was translated from Chinese
+    with an introduction and notes by William Gemmell.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 63-96
+  quote_or_summary: '"金剛經"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 63-96
+  quote_or_summary: The imprint gives London, Kegan Paul, Trench, Trübner & Co., Ltd.,
+    Broadway House, 68-74 Carter Lane, E.C., and the year 1912.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 63-96
+  quote_or_summary: The volume is respectfully inscribed to the author's friend William
+    Niven, Esq.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is paratextual front matter rather than a narrative or doctrinal
+    passage. No motif, symbol, or comparison claims were extracted because the supplied
+    lines do not provide sufficient motif-bearing content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Available taxonomy refs were not applied because the passage does not itself support a specific motif-family assignment.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:buddhist-diamond-sutra-gemmell-gutenberg__l63-l96
+  passage_sha256=a145e9c42f75f6ef26879da09f054e09d83a34bdf3feab9fc2aff1306a5ca2c5
+

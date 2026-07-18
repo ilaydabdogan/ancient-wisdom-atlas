@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.celtic-welsh-mabinogion-guest-gutenberg-l2773-l2812
+source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC / GERAINT
+    THE SON OF ERBIN; lines 2773-2812
+  start: '2773'
+  end: '2812'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Geraint, uncertain where to lodge, approaches a ruined palace outside the
+    town. A ragged hoary-headed man invites him in. In the chamber Geraint sees an
+    elderly woman in worn satin and a beautiful maiden in worn garments. The maiden
+    tends Geraint and his horse, fetches mead, meat, and bread from the town, and
+    serves the meal while Geraint sits between the man and his wife.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Geraint waits to determine whether the knight will remain in the Castle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Geraint sees an old ruined palace near the town, with a decaying hall, one
+    chamber, and a marble-stone bridge leading to it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A hoary-headed man in tattered garments is seated on the bridge.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hoary-headed man asks why Geraint is thoughtful; Geraint says he does
+    not know where to go that night; the man invites him forward and promises the
+    best that can be procured.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Geraint enters the hall, dismounts, leaves his horse there, and goes to the
+    upper chamber with the hoary-headed man.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the chamber is an old decrepit woman seated on a cushion, wearing old tattered
+    satin garments; Geraint thinks she must once have been very fair.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Beside the old woman is a maiden wearing an old worn vest and veil; Geraint
+    sees her as exceptionally comely, graceful, and beautiful.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The hoary-headed man says the maiden is the only attendant for Geraint's horse;
+    she agrees to serve both Geraint and the horse.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The maiden disarrays Geraint and provides the horse with straw and corn.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The maiden goes to the town to bring the best food and liquor she can find.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The maiden returns with a youth carrying a costrel of purchased mead and a
+    quarter of a young bullock; she carries white bread and manchet bread.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The maiden says she could not obtain better provisions and would not have
+    been trusted with better; Geraint says the provisions are good enough.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The meat is boiled, Geraint sits between the hoary-headed man and his wife,
+    the maiden serves them, and they eat and drink.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Geraint
+  description: A youth and chieftain who seeks lodging, enters the ruined palace,
+    and is served as a guest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: unnamed knight at the Castle
+  description: A knight whose decision to remain in the Castle is watched by Geraint
+    at the start of the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: hoary-headed man
+  description: An elderly man in tattered garments, seated on the marble bridge, who
+    invites Geraint in and directs the maiden.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: old decrepit woman
+  description: An elderly woman seated on a cushion in old tattered satin garments;
+    she is later identified by the narration as the wife of the hoary-headed man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: maiden
+  description: A beautiful maiden in old worn garments who tends Geraint and his horse,
+    fetches provisions from town, and serves the meal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: youth carrying provisions
+  description: A youth who returns from the town with the maiden, carrying a costrel
+    full of purchased mead and a quarter of a young bullock.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Geraint's horse
+  description: Geraint's horse, left in the hall and later supplied by the maiden
+    with straw and corn.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: lodging-seeking guest
+  assigned_to:
+  - fig:1
+  basis: Geraint says he does not know where to go that night and accepts lodging
+    and food.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: observed knight
+  assigned_to:
+  - fig:2
+  basis: Geraint watches to see whether this knight will remain in the Castle.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: elder host and household head
+  assigned_to:
+  - fig:3
+  basis: He invites Geraint forward, leads him inside, and commands the maiden to
+    tend the horse and procure food and liquor.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: wife of the host
+  assigned_to:
+  - fig:4
+  basis: The seating description places Geraint between the hoary-headed man and his
+    wife, corresponding to the elderly woman in the chamber.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: maiden attendant and server
+  assigned_to:
+  - fig:5
+  basis: She tends Geraint and his horse, fetches provisions, and serves the meal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: provision bearer
+  assigned_to:
+  - fig:6
+  basis: He bears a costrel of mead and a quarter of a young bullock on his back.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: guest's mount receiving care
+  assigned_to:
+  - fig:7
+  basis: The horse is left in the hall and is supplied with straw and corn by the
+    maiden.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: ruined palace
+  literal_form: An old palace in ruins with a hall falling to decay and one chamber.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: marble-stone bridge
+  literal_form: A bridge of marble-stone leading to the single chamber, where the
+    hoary-headed man sits.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: worn and tattered garments
+  literal_form: Tattered garments on the hoary-headed man, old tattered satin on the
+    woman, and an old worn vest and veil on the maiden.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: hospitality provisions
+  literal_form: Purchased mead, a quarter of a young bullock, white bread, and manchet
+    bread brought for the meal.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: horse fodder
+  literal_form: Straw and corn furnished to Geraint's horse by the maiden.
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Geraint approaches the ruined palace
+  summary: After watching the knight, Geraint looks for a place to go and approaches
+    a ruined palace outside the town, where he sees a marble bridge and an elderly
+    ragged man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invitation and entry into the chamber
+  summary: The hoary-headed man asks why Geraint is troubled, invites him to receive
+    the best available hospitality, and leads him inside after Geraint leaves his
+    horse in the hall.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Geraint sees the women of the household
+  summary: In the chamber Geraint sees an elderly woman in old tattered satin and
+    a beautiful maiden in worn clothing.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The maiden tends guest and horse
+  summary: At the man's direction, the maiden agrees to serve Geraint and his horse,
+    disarrays Geraint, and gives the horse straw and corn.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Meal procured and served
+  summary: The maiden fetches mead, meat, and bread from town, returns with a youth
+    carrying provisions, and serves the meal after the meat is boiled.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hospitality to a lodging-seeking stranger
+  taxonomy_refs: []
+  basis: Geraint lacks lodging; the hoary-headed man invites him in, provisions are
+    procured, and the household eats and drinks with him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive motif label; the passage does not explicitly mark
+    the hospitality as sacred or supernatural.
+- id: motif:2
+  label: poverty or ruin surrounding apparent former or hidden nobility and beauty
+  taxonomy_refs: []
+  basis: The dwelling is ruined, the garments are old and tattered, yet the elderly
+    woman is described as once very fair and the maiden as exceptionally beautiful.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage implies contrast between poverty and beauty, but does not
+    explicitly state noble status or concealment.
+- id: motif:3
+  label: maiden as attendant, provider, and server for guest
+  taxonomy_refs: []
+  basis: The maiden is the only attendant for the horse, tends both guest and horse,
+    fetches provisions, and serves the meal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a local narrative pattern rather than a matched external taxonomy
+    motif.
+- id: motif:4
+  label: refuge in a decayed dwelling outside town
+  taxonomy_refs: []
+  basis: Geraint, not knowing where to go, approaches an old palace in ruins at a
+    distance from the town and receives lodging there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the ruined palace as a lodging place, but no further
+    symbolic meaning is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2773-2780
+  quote_or_summary: Geraint confirms the knight will remain in the Castle, then sees
+    an old ruined palace near the town, with a decaying hall, one chamber, and a marble-stone
+    bridge.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:2
+  type: summary
+  locator: 2780-2789
+  quote_or_summary: A hoary-headed man in tattered garments sits on the bridge, asks
+    why Geraint is thoughtful, hears that he has no place to go, invites him in, and
+    leads him into the hall and upper chamber while Geraint leaves his horse in the
+    hall.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:3
+  type: summary
+  locator: 2789-2795
+  quote_or_summary: In the chamber Geraint sees an old decrepit woman on a cushion
+    in old tattered satin and a beautiful maiden in an old, worn vest and veil.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:4
+  type: summary
+  locator: 2795-2800
+  quote_or_summary: The hoary-headed man says the maiden is the only attendant for
+    Geraint's horse; she agrees to serve Geraint and the horse, disarrays Geraint,
+    and gives the horse straw and corn.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:5
+  type: summary
+  locator: 2800-2808
+  quote_or_summary: The maiden is sent to town for the best food and liquor available
+    and returns with a youth carrying purchased mead and a quarter of young bullock;
+    she carries white bread and manchet bread and says she could obtain no better.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:6
+  type: summary
+  locator: 2808-2812
+  quote_or_summary: The meat is boiled; Geraint sits between the hoary-headed man
+    and his wife; the maiden serves them; they eat and drink.
+  source_text_path: texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary prepared for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are descriptive and not matched to supplied taxonomy refs. No comparison claims
+    are made because the passage itself does not establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol refs are directly attested in this passage; symbol entries therefore use empty taxonomy_refs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-welsh-mabinogion-guest-gutenberg__l2773-l2812
+  passage_sha256=f9c6c830cb3b2fe80ae6fc3821b5dfbd80fbdbabd5df6ea3c7e75380db35a2a9
+

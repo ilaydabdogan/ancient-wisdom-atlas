@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l15174-l15268
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / SIGRDRIFUMOL / THE BALLAD OF THE VICTORY-BRINGER / INTRODUCTORY NOTE;
+    lines 15174-15268
+  start: '15174'
+  end: '15268'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The introductory note describes Sigrdrifumol as a fragmentary and chaotic
+    section following Fafnismol in Codex Regius. It discusses missing manuscript material,
+    title problems around Sigrdrifa/Brynhild, the compiler''s mixed prose-and-verse
+    Sigurth narrative, and probable component fragments: Sigurth finding Brynhild,
+    Brynhild teaching magic runes, a magic draught, rune-chant material, and numbered
+    counsels resembling Hovamol/Loddfafnismol. Brynhild is characterized here as a
+    battle-maid and supernatural dispenser of wisdom.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sigrdrifumol is said to follow the Fafnismol in the Codex Regius without
+    a marked break or separate title, and the note describes it as highly chaotic
+    within the Eddic collection.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The end of the section is lost because a folio is missing from Regius; later
+    paper manuscripts supply additional material, but the conclusion remains obscure.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says the title Sigrdrifumol depends on an annotator mistaking the
+    epithet sigrdrifa, applied to Brynhild as a bringer of victory, for a proper name.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The compiler is described as telling the story of Sigurth in mixed prose and
+    verse, using available verse and filling gaps with prose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The surviving Sigrdrifumol section is described as a patchwork or collection
+    of fragments rather than a single distinct poem.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note identifies the probable basis of the material as a poem concerning
+    Sigurth's finding of Brynhild.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Some stanzas are said probably to include Brynhild teaching Sigurth magic
+    runes, while other rune-lore passages were attracted from other sources.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: One attracted passage is described as involving the administration of a magic
+    draught, with the note cautioning that it was not necessarily administered by
+    Brynhild or to Sigurth.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Beginning with stanza 22, the fragment contains numbered counsels that the
+    note says closely resemble Loddfafnismol in Hovamol and have nothing to do with
+    Brynhild.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Brynhild is described in this section as a battle-maid and supernatural dispenser
+    of wisdom, without the later identity of daughter of Buthli and rival of Guthrun.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Brynhild / Sigrdrifa
+  description: Brynhild is said to have been mislabeled as Sigrdrifa through an epithet
+    meaning bringer of victory; in the Sigrdrifumol material she is connected with
+    Sigurth's finding of her, possible rune instruction, and the roles of battle-maid
+    and supernatural dispenser of wisdom.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: Sigurth
+  description: Sigurth is the central heroic figure in the compiler's mixed prose-and-verse
+    story; the note says the underlying poem dealt with his finding of Brynhild and
+    that some stanzas probably had Brynhild teaching him magic runes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: victory-bringer epithet bearer
+  assigned_to:
+  - fig:1
+  basis: The note says sigrdrifa was an epithet rightly applied to Brynhild as a bringer
+    of victory.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: battle-maid
+  assigned_to:
+  - fig:1
+  basis: The note explicitly says Brynhild appears here simply as a battle-maid.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: supernatural dispenser of wisdom and possible rune-teacher
+  assigned_to:
+  - fig:1
+  basis: The note describes Brynhild as a supernatural dispenser of wisdom and says
+    some stanzas probably have her teaching Sigurth magic runes.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:4
+  label: finder and recipient of instruction
+  assigned_to:
+  - fig:2
+  basis: The note says the base poem dealt with Sigurth finding Brynhild, and that
+    some stanzas probably have Brynhild teaching him magic runes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: magic runes
+  literal_form: magic runes taught by Brynhild to Sigurth in some probable stanzas
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:2
+  label: magic draught
+  literal_form: a magic draught administered in one attracted stanza
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: numbered counsels
+  literal_form: a numbered set of counsels beginning with stanza 22
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: rune-chant
+  literal_form: a curious rune-chant in stanzas 15-17
+  associated_figures: []
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sigurth finds Brynhild
+  summary: The note identifies the probable original basis of the section as a poem
+    about Sigurth finding Brynhild.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Brynhild teaches magic runes
+  summary: Some of the rune-lore stanzas are said probably to show Brynhild teaching
+    Sigurth magic runes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Magic draught administered
+  summary: A stanza from another source is described as involving a magic draught;
+    the participants are uncertain in the note.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Numbered counsels
+  summary: The fragment from stanza 22 onward contains numbered counsels resembling
+    Loddfafnismol and judged unrelated to Brynhild.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: supernatural wisdom instruction through runes
+  taxonomy_refs:
+  - wisdom
+  basis: Brynhild is characterized as a supernatural dispenser of wisdom, and some
+    stanzas probably depict her teaching Sigurth magic runes.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The note also says the section is fragmentary and that rune-lore passages
+    may have been accreted from other sources.
+- id: motif:2
+  label: hero finds battle-maid wisdom-giver
+  taxonomy_refs:
+  - wisdom
+  basis: The note identifies an underlying poem about Sigurth finding Brynhild and
+    describes Brynhild as a battle-maid and supernatural dispenser of wisdom.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: The passage is an editorial introduction rather than the primary narrative;
+    only a small set of stanzas is confidently tied to the original poem.
+- id: motif:3
+  label: magic draught administration
+  taxonomy_refs: []
+  basis: The note identifies stanza 5 as containing a magic draught administered in
+    an attracted rune-lore passage.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The note explicitly says the draught was not necessarily administered
+    by Brynhild or to Sigurth, so its narrative context is uncertain.
+- id: motif:4
+  label: didactic numbered counsels
+  taxonomy_refs:
+  - wisdom
+  basis: The note describes a numbered sequence of counsels from stanza 22 onward,
+    comparing it to Loddfafnismol in Hovamol.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The note states that this material has nothing to do with Brynhild and
+    may be better placed in Hovamol.
+comparison_claims:
+- id: claim:1
+  claim: The numbered counsels in the Sigrdrifumol fragment closely resemble the Loddfafnismol
+    section of Hovamol in function and character.
+  claim_level: same_function
+  target: Loddfafnismol / Hovamol stanzas 111-138
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an editorial comparison of didactic counsel material, not proof
+    of a shared original poem.
+- id: claim:2
+  claim: The note reports that many critics connect stanza 1 of Sigrdrifumol with
+    Helreith Brynildar stanzas 6-10 as possibly belonging to the same earlier Sigurth-Brynhild
+    poem.
+  claim_level: common_inheritance
+  target: Helreith Brynildar stanzas 6-10
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The claim is reported as a critical argument; the provided passage
+    does not supply the underlying evidence beyond metrical distinction and editorial
+    judgment.
+- id: claim:3
+  claim: The Sigrdrifumol material is textually related to the Volsungasaga tradition,
+    since the note says a similar form lay before the saga authors and that eighteen
+    stanzas are quoted there.
+  claim_level: historical_contact
+  target: Volsungasaga
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a textual-transmission claim from the note, not a direct motif-equivalence
+    claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15174-15268, paragraph 1
+  quote_or_summary: Sigrdrifumol follows Fafnismol in Codex Regius without a break
+    or separate title and is described as the most chaotic poem in the Eddic collection.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 15174-15268, paragraph 1
+  quote_or_summary: The end is lost because the fifth folio is missing from Regius;
+    later paper manuscripts complete and add stanzas, but the conclusion remains obscure.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 15174-15268, paragraph 2
+  quote_or_summary: The note says an annotator mistook sigrdrifa, an epithet applied
+    to Brynhild as bringer of victory, for a proper name; the editor translates the
+    epithet rather than treating it as a name.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 15174-15268, paragraph 3
+  quote_or_summary: The compiler is said to have told Sigurth's story in mixed prose
+    and verse, using verse found available and filling gaps with prose; the divisions
+    and titles are called arbitrary and misleading.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 15174-15268, paragraph 4
+  quote_or_summary: The surviving section is called a patchwork; its basis is identified
+    as a poem about Sigurth finding Brynhild, though only stanzas 2-4 and 20-21 are
+    confidently identified from it.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 15174-15268, paragraph 4
+  quote_or_summary: Stanzas 6-12 may include Brynhild teaching Sigurth magic runes;
+    similar rune-lore passages include a magic draught in stanza 5, a rune-chant in
+    stanzas 15-17, and other stanzas.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 15174-15268, paragraph 4
+  quote_or_summary: From stanza 22 to the end is a set of numbered counsels closely
+    resembling Loddfafnismol in Hovamol stanzas 111-138 and said to have nothing to
+    do with Brynhild.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 15174-15268, paragraph 5
+  quote_or_summary: The note says all of the story, dialogue, and characterization
+    are in stanzas 1-4 and 20-21 and in the prose notes accompanying the first four
+    stanzas.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: 15174-15268, paragraph 6
+  quote_or_summary: Brynhild, described as disguised by the annotator as Sigrdrifa,
+    appears simply as a battle-maid and supernatural dispenser of wisdom, with no
+    trace of her as Buthli's daughter or Guthrun's rival.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: 15174-15268, paragraph 4
+  quote_or_summary: The note says stanza 1 differs metrically from stanzas 2-4 and
+    20-21, and that many critics argue Helreith Brynildar stanzas 6-10 belonged originally
+    to the same poem as Sigrdrifumol stanza 1.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:11
+  type: summary
+  locator: 15174-15268, paragraph 2
+  quote_or_summary: The note says a similar form of the stanza collection seems to
+    have lain before the authors of Volsungasaga, where eighteen stanzas are quoted.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial introductory note rather than a primary mythic
+    episode. It clearly identifies several narrative and symbolic components, but
+    repeatedly stresses textual fragmentation, interpolation, and uncertainty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No unsupported taxonomy IDs were added beyond supplied available references. The extraction keeps textual-condition observations separate from candidate mythic motifs.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l15174-l15268
+  passage_sha256=dd084f559beb1179ba63702bd4fcc8a74e60d92301b4ef551149a7d2aaf4f977
+

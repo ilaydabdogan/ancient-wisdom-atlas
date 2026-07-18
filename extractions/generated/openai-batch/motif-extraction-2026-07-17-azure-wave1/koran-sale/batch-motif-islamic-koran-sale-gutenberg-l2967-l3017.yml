@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l2967-l3017
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: THE KORAN. / PRELIMINARY DISCOURSE / SECTION I. / SECTION II.; lines 2967-3017
+  start: '2967'
+  end: '3017'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage narrates Mohammed's arrival and settlement at Medina, the building
+    of a place of worship and a house on disputed ground, competing accounts of how
+    that ground was obtained, subsequent raids against the Koreish, the Battle of
+    Bedr, later expeditions, and the financing of forces through alms and a fifth
+    of plunder.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ali followed the arriving group to the city three days later, after settling
+    affairs at Mecca.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After Mohammed arrived at Medina, his first described act was to build a temple
+    for religious worship and a house for himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The building site is described as a parcel of ground formerly used for camels,
+    or according to another account as a burying-ground, and as belonging to Sahal
+    and Soheil, orphan sons of Amru.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Dr. Prideaux is reported as alleging violent dispossession of the orphans,
+    while Mohammedan writers are reported as saying that the ground was offered as
+    a present or actually purchased, with money paid by Abu Becr.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Once securely settled at Medina, Mohammed is described as able to defend himself
+    and attack enemies, and as sending small parties to make reprisals on the Koreish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The first party is described as nine men who intercepted and plundered a Koreish
+    caravan and took two prisoners.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Battle of Bedr, fought in the second year of the Hejra, is described as
+    establishing Mohammed's affairs and as the foundation of later greatness.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage reports a reckoning of twenty-seven expeditions in which Mohammed
+    was personally present, nine involving battle, plus other expeditions in which
+    he was not present.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Mohammed's forces are said to have been maintained partly by followers' contributions
+    called Zact or alms, whose payment the passage says he made a main article of
+    religion.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The forces are also said to have been maintained partly by ordering a fifth
+    part of plunder into the public treasury, with the passage saying this was represented
+    as divine direction.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Central figure who arrives at Medina, builds a place of worship and
+    house, sends parties against the Koreish, wins at Bedr, is associated with later
+    expeditions, and maintains forces through alms and plunder.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ali
+  description: Follower who arrives at the city three days later after settling affairs
+    at Mecca.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sahal and Soheil, sons of Amru
+  description: Orphan owners of the ground on which Mohammed built, according to the
+    passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Abu Becr
+  description: Person said to have paid the money for the ground in one account reported
+    by the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Koreish
+  description: Tribe described as enemies and as owners of a caravan intercepted and
+    plundered by Mohammed's first party.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Mohammed's followers and forces
+  description: Followers who contribute Zact or alms, and forces maintained through
+    those contributions and a fifth of plunder.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Dr. Prideaux
+  description: Critic reported as denouncing the acquisition of the Medina ground
+    as violent dispossession and injustice.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Mohammedan writers and historians
+  description: Source group reported as giving a different account of the land acquisition,
+    including gift or purchase versions.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: settler and founder of worship site
+  assigned_to:
+  - fig:1
+  basis: The passage says that after arriving at Medina Mohammed built a temple for
+    worship and a house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: later-arriving follower
+  assigned_to:
+  - fig:2
+  basis: Ali is said to have followed to the city three days later.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: orphan landowners
+  assigned_to:
+  - fig:3
+  basis: The ground is said to have belonged to Sahal and Soheil, sons of Amru, who
+    were orphans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: payer for the ground
+  assigned_to:
+  - fig:4
+  basis: One reported account says the ground was bought and the money was paid by
+    Abu Becr.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: military-religious leader
+  assigned_to:
+  - fig:1
+  basis: The passage describes Mohammed sending parties against the Koreish, gaining
+    Bedr, and maintaining forces.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: enemy tribe and raid target
+  assigned_to:
+  - fig:5
+  basis: The Koreish are described as enemies and as the tribe whose caravan was intercepted
+    and plundered.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: contributors and maintained forces
+  assigned_to:
+  - fig:6
+  basis: Followers contribute alms, and the forces are maintained through those contributions
+    and a fifth of plunder.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: critical accuser
+  assigned_to:
+  - fig:7
+  basis: Dr. Prideaux is reported as representing the land acquisition as injustice
+    and violent dispossession.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: defending source group
+  assigned_to:
+  - fig:8
+  basis: Mohammedan writers and historians are reported as giving an account in which
+    the land was offered or bought.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: place of worship
+  literal_form: Temple for religious worship built after arrival at Medina.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: house of the leader
+  literal_form: House built by Mohammed for himself at Medina.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: contested ground
+  literal_form: Parcel of ground formerly used for camels or as a burying-ground,
+    owned by two orphans, and obtained by gift or purchase according to reported accounts.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: caravan and plunder
+  literal_form: Koreish caravan intercepted and plundered by a first party of nine
+    men.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Zact or alms
+  literal_form: Contributions of followers used to maintain forces and made a main
+    article of religion, according to the passage.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: fifth part of plunder and public treasury
+  literal_form: A fifth part of plunder ordered into the public treasury for maintaining
+    forces.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Arrival and building at Medina
+  summary: After arriving at Medina, Mohammed builds a place of worship and a house
+    on a parcel of ground; Ali arrives three days later according to the opening sentence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Disputed acquisition of the building ground
+  summary: The passage reports a critical accusation that Mohammed dispossessed orphans,
+    then gives alternate Muslim accounts in which the ground was offered as a present
+    or actually purchased with money paid by Abu Becr.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reprisals, caravan raid, and Bedr
+  summary: After becoming secure at Medina, Mohammed sends small parties against the
+    Koreish; the first party plunders a caravan and takes prisoners, and the later
+    Battle of Bedr is described as foundational to his success.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Expeditions and maintenance of forces
+  summary: The passage summarizes numerous expeditions and describes the forces as
+    supported by followers' alms and a fifth part of plunder placed in the public
+    treasury.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: foundation of a worship center after relocation
+  taxonomy_refs: []
+  basis: The passage presents Mohammed's first act after arrival at Medina as building
+    a temple for religious worship and a house.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a historical-narrative pattern in the passage, not an explicitly
+    mythic or cross-cultural motif.
+- id: motif:2
+  label: contested sacred-site land acquisition
+  taxonomy_refs: []
+  basis: The ground for the worship site is described as orphan-owned and disputed
+    between an accusation of dispossession and accounts of gift or purchase.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage reports polemical and apologetic accounts; it does not resolve
+    the event beyond the narrator's preferred version.
+- id: motif:3
+  label: small-band raid preceding foundational victory
+  taxonomy_refs: []
+  basis: A first party of nine men raids a caravan, followed in the narrative by the
+    Battle of Bedr, which is described as the foundation of Mohammed's later greatness.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is inferred from narrative sequence and emphasis; the passage
+    is summarizing history rather than framing a heroic myth.
+- id: motif:4
+  label: religiously framed support of armed forces
+  taxonomy_refs: []
+  basis: The passage says forces were maintained by alms made a main religious article
+    and by a fifth of plunder placed in the public treasury under claimed divine direction.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage contains the author's polemical wording; extraction should
+    not treat the author's judgment as an independent fact.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2967-2972
+  quote_or_summary: Ali follows after three days; Mohammed's first act after arriving
+    at Medina is to build a temple for religious worship and a house on ground formerly
+    used for camels or as a burying-ground.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2972-2988
+  quote_or_summary: The ground is attributed to Sahal and Soheil, orphan sons of Amru.
+    Dr. Prideaux alleges violent dispossession, while Mohammedan writers and historians
+    report either an offered gift or an actual purchase, with money paid by Abu Becr.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2989-2996
+  quote_or_summary: Secure at Medina, Mohammed sends small parties against the Koreish;
+    a first party of nine men plunders a caravan and takes two prisoners. The Battle
+    of Bedr in the second year of the Hejra is described as foundational to later
+    greatness.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2997-3003
+  quote_or_summary: The narrator declines details of later battles and expeditions,
+    but reports a reckoning of twenty-seven expeditions with Mohammed personally present,
+    nine involving battle, plus others in his absence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3003-3008
+  quote_or_summary: Mohammed's forces are said to be maintained partly by followers'
+    contributions called Zact or alms and partly by a fifth part of plunder brought
+    into the public treasury, with claimed divine direction.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an English preliminary discourse with polemical historical
+    commentary, not a primary Qur'anic narrative passage. Literal extraction is fairly
+    direct, while motif labels remain candidate patterns requiring review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cross-tradition comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l2967-l3017
+  passage_sha256=30dfdabc7b9b30e57383b689ffd222194704713829446e1cbf41b1c6142d2a10
+

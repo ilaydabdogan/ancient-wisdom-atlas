@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l21470-l21482
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XIII. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XIV. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 21470-21482
+  start: '21470'
+  end: '21482'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of translator notes interpreting a statement about
+    not tasting death or not being raised after death to judgment; identifying the
+    Adites and Thamudites; referring to histories, monuments, and traditions of terrible
+    judgments that befell them; and describing a Muslim expectation that at the last
+    day the earth will become white and level, or silver, and the heavens gold.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'A note gives two possible meanings: that the addressed people should not
+    taste death and continue in the world forever, or that they should not be raised
+    after death to judgment.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note identifies the referenced peoples as the Adites and Thamudites.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note says evidence concerning those peoples includes histories revealed
+    in the Koran, remaining monuments such as the houses of the Thamudites, and preserved
+    traditions of terrible judgments that befell them.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note says Muslims suppose that at the last day the earth will become white
+    and even, or according to some, silver, and the heavens gold.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: addressed people
+  description: People addressed in the note concerning death, continuation in the
+    world, and being raised after death to judgment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Adites and Thamudites
+  description: Named peoples identified by the note and associated with histories,
+    monuments, traditions, and terrible judgments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Muslims
+  description: The group described as supposing a last-day transformation of earth
+    and heavens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mortals subject to death or judgment
+  assigned_to:
+  - fig:1
+  basis: The note mentions tasting death and being raised after death to judgment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: peoples remembered through judgment traditions
+  assigned_to:
+  - fig:2
+  basis: The note names the Adites and Thamudites and refers to traditions of terrible
+    judgments that befell them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: interpreting believers
+  assigned_to:
+  - fig:3
+  basis: The note attributes the last-day expectation to Muslims.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: death
+  literal_form: tasting death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: raising after death to judgment
+  literal_form: being raised after death to judgment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: monuments of former peoples
+  literal_form: remaining monuments, including houses of the Thamudites
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: transformed last-day earth
+  literal_form: earth becoming white and even, or silver
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: golden heavens
+  literal_form: heavens of gold
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Death and posthumous judgment interpretation
+  summary: The note interprets a statement as referring either to endless continuation
+    in the world without death or to not being raised after death to judgment.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Former peoples and remembered judgments
+  summary: The Adites and Thamudites are identified, and their histories, monuments,
+    and preserved traditions are presented as reminders of terrible judgments that
+    befell them.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Last-day cosmic transformation
+  summary: The note describes a belief that at the last day the earth and heavens
+    will be transformed in appearance or substance.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: resurrection to judgment after death
+  taxonomy_refs:
+  - resurrection
+  - divine_judgment
+  basis: The note explicitly mentions being raised after death to judgment.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a translator note rather than the primary narrative verse.
+- id: motif:2
+  label: judgment on former peoples remembered through ruins and tradition
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note links the Adites and Thamudites with histories, monuments, traditions,
+    and terrible judgments that befell them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The word 'divine' is not stated in the excerpt, though the passage context
+    concerns Koranic judgments.
+- id: motif:3
+  label: last-day transformation of cosmos
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note describes an expectation for the last day in which the earth becomes
+    white and even or silver, and the heavens gold.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Available taxonomy has no specific cosmic-transformation or eschaton motif
+    family; classification under divine judgment is broad.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21470-21471
+  quote_or_summary: 'A note explains possible meanings: not tasting death and continuing
+    in the world forever, or not being raised after death to judgment.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: line 21472
+  quote_or_summary: A note identifies the peoples as the Adites and Thamudites.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21473-21477
+  quote_or_summary: A note refers to histories revealed in the Koran, remaining monuments
+    such as houses of the Thamudites, and traditions of terrible judgments that befell
+    those peoples.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21478-21480
+  quote_or_summary: A note says Muslims suppose that at the last day the earth will
+    become white and level, or silver, and the heavens gold.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The excerpt is mainly commentary and footnotes, not a full narrative passage.
+    Literal features are clear, but motif assignment is necessarily broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative claim beyond internal references to Koranic histories and traditions.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l21470-l21482
+  passage_sha256=7d9152e33eb5d4b17045e66e2f8b00cd986fc35c0844ba89bc4b79a89191dcf0
+

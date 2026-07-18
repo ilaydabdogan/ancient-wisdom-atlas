@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l287-l351
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: The Koran (Al-Qur'an) / INTRODUCTION; lines 287-351
+  start: '287'
+  end: '351'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Introductory commentary discusses the Koran's literary style, Muhammad's
+    temperament and circumstances, Muslim reception of the Koran as a miracle, and
+    Rodwell's translation and chronological arrangement of the Suras.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the Koran's literary form is unusual; its finest passages
+    are compared to the voice of ancient Hebrew prophets, while some European readers
+    criticize repetition and wild or fantastic qualities.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Muhammed is described as an untutored but fervent Arab prophet who struggles
+    amid obstacles to assimilate great truths and communicate a message to his fellow-tribesmen.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Muhammed's knowledge is described as coming largely from hearsay stories and
+    traditions, and the literary works he had heard are described as rhapsodies of
+    early Arabian minstrels.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Moslems are said to regard the Koran as the finest book among men, true in
+    matter, perfect in manner, and miraculous; the passage also notes the appeal of
+    its cadences and rhyming discourse endings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rodwell's rendering is praised for carrying the atmosphere of Muhammed's world
+    and for using a quasi-verse form with irregular rhythmic flow where suitable.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Rodwell's chronological arrangement is said to let the reader trace the development
+    of the prophet's mind from early inspiration to the later roles of warrior, politician,
+    and founder of an empire.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Muhammed
+  description: Described as an Arab prophet with a message, limited formal learning,
+    and later roles as warrior, politician, and founder of an empire.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Moslems
+  description: The community described as regarding the Koran as perfect and miraculous.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Rodwell
+  description: Translator and editor whose rendering and chronological arrangement
+    of the Suras are praised.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Ancient Hebrew prophets
+  description: A collective group used as a stylistic comparison for the Koran's finest
+    passages.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Early Arabian minstrels
+  description: A collective group whose rhapsodies are described as the literary compositions
+    Muhammed had heard.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: prophet and message-bearer
+  assigned_to:
+  - fig:1
+  basis: Muhammed is described as trying to assimilate great truths and impart the
+    message within him to fellow-tribesmen.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: warrior, politician, and founder
+  assigned_to:
+  - fig:1
+  basis: The chronological arrangement is said to trace his development toward the
+    role of warrior, politician, and founder of an empire.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: believing evaluators of the sacred book
+  assigned_to:
+  - fig:2
+  basis: Moslems are said to consider the Koran perfect and miraculous.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: translator and arranger
+  assigned_to:
+  - fig:3
+  basis: Rodwell's rendering and chronological arrangement of Suras are specifically
+    praised.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: prophetic stylistic comparator
+  assigned_to:
+  - fig:4
+  basis: The passage says the Koran's finest passages sound akin to the voice of ancient
+    Hebrew prophets.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: oral poetic background
+  assigned_to:
+  - fig:5
+  basis: The passage describes early Arabian minstrels' rhapsodies as the literary
+    compositions Muhammed had heard.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: The Koran as book and miracle
+  literal_form: book / discourses / Suras of the Koran, regarded by Moslems as a miracle
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Inner message and great truths
+  literal_form: the message within Muhammed and the great truths borne in upon him
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Assessment of Koranic style
+  summary: The introduction characterizes the Koran's style as unusual, compares its
+    finest passages to ancient Hebrew prophetic voice, and records criticisms of repetition
+    and wildness.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prophet amid obstacles and oral traditions
+  summary: Muhammed is portrayed as a fervent prophet with little learning, struggling
+    to formulate and deliver a message while drawing on hearsay traditions and the
+    sound-world of Arabian minstrels.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Muslim reception of the Koran
+  summary: Moslems are said to regard the Koran's matter as true, its style as perfect,
+    and the book itself as miraculous.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rodwell's translation and chronological ordering
+  summary: Rodwell's translation is praised for preserving atmosphere and rhythm,
+    and his chronological arrangement is said to trace the development of the prophet's
+    mind.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Prophetic inspiration and message-bearing
+  taxonomy_refs:
+  - wisdom
+  basis: Muhammed is described as receiving or realizing great truths and carrying
+    a message to his fellow-tribesmen; the passage also refers to an early flush of
+    inspiration.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is editorial commentary rather than a narrative revelation scene;
+    the passage does not describe a specific divine encounter.
+- id: motif:2
+  label: Sacred book as miracle
+  taxonomy_refs: []
+  basis: The passage states that Moslems considered the Koran, even in style alone,
+    to be nothing less than a miracle.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif is based on reported Muslim reception in the introduction, not
+    on a quoted Qur'anic passage.
+- id: motif:3
+  label: Prophet becoming founder of a community or empire
+  taxonomy_refs:
+  - culture_hero
+  basis: The chronological arrangement is said to show the prophet's development from
+    inspiration toward the role of warrior, politician, and founder of an empire.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The available wording is historical and political; identification with
+    a culture-hero motif is tentative.
+- id: motif:4
+  label: Oral poetic tradition shaping sacred speech
+  taxonomy_refs: []
+  basis: The passage links the form of the Koran to Muhammed's exposure to early Arabian
+    minstrel rhapsodies and to his oral stock of stories and traditions.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a literary-development pattern rather than a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the finest passages of the Koran to the voice
+    of ancient Hebrew prophets.
+  claim_level: linguistic_similarity
+  target: ancient Hebrew prophetic speech
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to literary voice or style; it does not claim
+    shared motifs, direct borrowing, or historical contact.
+- id: claim:2
+  claim: The passage compares early Arabian minstrel rhapsodies to Ossianic rhapsodic
+    poetry as a literary analogy.
+  claim_level: linguistic_similarity
+  target: Ossian / Ossian-like rhapsodic poetry
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns literary character and listening background;
+    it does not establish a shared mythic tradition or historical connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 287-298
+  quote_or_summary: The Koran's literary form is described as unlike known forms;
+    in its finest passages it seems to have a voice akin to ancient Hebrew prophets,
+    while European criticism notes repetition and wild or fantastic qualities.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 300-317
+  quote_or_summary: Muhammed is described as an untutored but fervent mind, surrounded
+    by obstacles, trying to assimilate great truths and impart his message; his knowledge
+    is said to come from hearsay stories and traditions, and his heard literary models
+    from early Arabian minstrels, compared to Ossian.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 319-327
+  quote_or_summary: Moslems are said to consider the Koran the finest book, true in
+    matter and perfect in manner; its cadences and rhyming discourse endings appeal
+    to them, and the book is described as viewed by them as a miracle.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 329-340
+  quote_or_summary: Rodwell's translation is praised as one of the best, conveying
+    the atmosphere of Muhammed's world, the flavour of the East, and some of the Arabic's
+    rhythmic charm through a quasi-verse form.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 342-348
+  quote_or_summary: Rodwell's chronological arrangement of the Suras is said to rest
+    mainly on historical and literary evidence and to let readers trace the prophet's
+    mind from early inspiration to the later role of warrior, politician, and founder
+    of an empire.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain Project Gutenberg source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is introductory literary and historical commentary, not a primary
+    mythic narrative. Literal extraction is strong; motif assignments are more tentative
+    where they convert commentary into motif labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs are directly present in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l287-l351
+  passage_sha256=045f39f1c17f703e47a06b080a6d889beea0665533ecf900797a22961c270122
+

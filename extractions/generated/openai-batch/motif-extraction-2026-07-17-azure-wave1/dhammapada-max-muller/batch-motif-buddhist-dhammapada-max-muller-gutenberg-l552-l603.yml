@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.buddhist-dhammapada-max-muller-gutenberg-l552-l603
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Chapter IV. Flowers / Chapter V. The Fool / Chapter VIII. The Thousands /
+    Chapter IX. Evil; lines 552-603
+  start: '552'
+  end: '603'
+  translation: Dhammapada, a Collection of Verses, translated by F. Max Müller
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ethical instruction on avoiding evil, repeating good
+    deeds, and understanding that deeds ripen into pain or happiness. It uses similes
+    of a water-pot filled drop by drop, a merchant avoiding a dangerous road, poison,
+    and dust thrown against the wind. It states that beings are reborn or go to hell,
+    heaven, or Nirvana according to conduct and freedom from desire, and that no place
+    in sky, sea, or mountain cleft frees one from an evil deed or death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person is instructed to hasten toward good and keep thought away from evil.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Repeated sin is discouraged, and repeated good action is encouraged.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pain is described as the outcome of evil, and happiness as the outcome of
+    good.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Evil and good deeds are described as ripening, after which the doer experiences
+    corresponding evil or happy days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A water-pot filled by falling drops is used to describe gradual accumulation
+    of evil in a fool and good in a wise man.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A man is told to avoid evil deeds like a wealthy merchant with few companions
+    avoids a dangerous road and like a life-loving man avoids poison.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Poison is said not to affect a hand without a wound, and evil is said not
+    to apply to one who does not commit evil.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Evil done against a harmless, pure, innocent person is said to fall back on
+    the offender like dust thrown against the wind.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Some people are said to be born again; evil-doers go to hell, righteous people
+    go to heaven, and those free from worldly desires attain Nirvana.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: No place in the sky, the sea, or mountain clefts is said to free a person
+    from an evil deed.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: No place in the sky, the sea, or mountain clefts is said to be beyond death's
+    power over the mortal.
+  category: setting
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: a man / moral agent
+  description: A generic person addressed by the ethical instructions to avoid evil
+    and do good.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: evil-doer
+  description: One who commits evil and experiences evil after the evil deed has ripened.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:3
+  name_or_label: good man / righteous people
+  description: Those who do good, experience happy days after good deeds ripen, and
+    are said to go to heaven.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: fool
+  description: One who becomes full of evil little by little and upon whom evil may
+    fall back.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: wise man
+  description: One who becomes full of good little by little.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: merchant
+  description: A merchant with few companions carrying much wealth who avoids a dangerous
+    road.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: harmless, pure, and innocent person
+  description: A person whom the offender harms or offends, causing evil to fall back
+    upon the offender.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: those free from worldly desires
+  description: People described as attaining Nirvana.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: the mortal
+  description: A mortal person whom death can overcome.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+- id: fig:10
+  name_or_label: death
+  description: Death is described as able to overcome the mortal in every place named.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: ethical addressee
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly addresses a generic man with instructions about good
+    and evil conduct.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: doer of evil
+  assigned_to:
+  - fig:2
+  basis: The evil-doer is associated with deeds that ripen into evil and with going
+    to hell.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:3
+  label: doer of good
+  assigned_to:
+  - fig:3
+  basis: The good man and righteous people are associated with ripened good deeds,
+    happy days, and heaven.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: fool accumulating evil
+  assigned_to:
+  - fig:4
+  basis: The fool is said to become full of evil little by little and to receive returning
+    evil when offending an innocent person.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: wise accumulator of good
+  assigned_to:
+  - fig:5
+  basis: The wise man is said to become full of good little by little.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: cautious traveler with wealth
+  assigned_to:
+  - fig:6
+  basis: The merchant avoids a dangerous road because he has few companions and much
+    wealth.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: innocent harmed person
+  assigned_to:
+  - fig:7
+  basis: The person is described as harmless, pure, and innocent, and is the target
+    of offense.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: desire-free attainer of Nirvana
+  assigned_to:
+  - fig:8
+  basis: Those free from worldly desires are said to attain Nirvana.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: subject to death
+  assigned_to:
+  - fig:9
+  basis: The mortal is described as one whom death can overcome.
+  evidence_refs:
+  - ev:10
+- id: role:10
+  label: inescapable death
+  assigned_to:
+  - fig:10
+  basis: Death is said to overcome the mortal in any location named.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: ripened deed
+  literal_form: An evil or good deed described as ripening before its result is seen.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water-drops filling a water-pot
+  literal_form: Falling water-drops gradually fill a water-pot.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: dangerous road
+  literal_form: A dangerous road avoided by a merchant carrying much wealth with few
+    companions.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: poison
+  literal_form: Poison avoided by a man who loves life and touched by an unwounded
+    hand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: dust thrown against the wind
+  literal_form: Light dust thrown upward against the wind and returning toward the
+    thrower.
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: hell, heaven, and Nirvana
+  literal_form: Hell, heaven, and Nirvana named as destinations or attainments for
+    different persons.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: sky, sea, and mountain clefts
+  literal_form: Sky, midst of the sea, and clefts of the mountains named as places
+    where one might try to escape.
+  associated_figures:
+  - fig:1
+  - fig:9
+  taxonomy_refs:
+  - water
+  - mountain
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Instruction to avoid evil and repeat good
+  summary: A generic person is told to move quickly toward good, keep thought from
+    evil, avoid repeating sin, and repeat good action.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ripening of deeds
+  summary: Evil and good deeds are described as producing later experiences once they
+    have ripened.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Gradual filling of the water-pot
+  summary: The filling of a water-pot by drops is used for the gradual accumulation
+    of evil by the fool and good by the wise man.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Avoidance of danger and poison
+  summary: Evil deeds are compared to hazards avoided by a wealthy merchant on a dangerous
+    road and by a man avoiding poison; an unwounded hand is not affected by poison.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Evil returning to the offender
+  summary: When a harmless, pure, innocent person is offended, the evil is said to
+    return to the fool like dust thrown against the wind.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Destinies after conduct and desire
+  summary: People are described as being born again or going to hell, heaven, or Nirvana
+    according to evil-doing, righteousness, or freedom from worldly desires.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: No hiding place from evil deed or death
+  summary: Sky, sea, and mountain clefts are named as places that still do not free
+    a person from an evil deed or from death overcoming the mortal.
+  figure_refs:
+  - fig:1
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: deeds ripen into consequences
+  taxonomy_refs: []
+  basis: The passage states that evil and good deeds have outcomes and that their
+    results become visible after the deeds ripen.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives an ethical causal pattern but does not use a supplied
+    taxonomy term specifically for karma.
+- id: motif:2
+  label: incremental accumulation of good and evil
+  taxonomy_refs:
+  - wisdom
+  basis: The fool and the wise man are contrasted through the image of a water-pot
+    filled drop by drop, showing gradual accumulation of evil or good.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference 'wisdom' is broad; the passage itself frames the
+    contrast in terms of fool and wise man.
+- id: motif:3
+  label: evil rebounds on the offender
+  taxonomy_refs: []
+  basis: Evil done against a harmless, pure, innocent person is said to fall back
+    upon the fool like dust thrown against the wind.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No narrower supplied taxonomy reference matches this image directly.
+- id: motif:4
+  label: post-mortem destinies according to conduct and desire
+  taxonomy_refs:
+  - afterlife_journey_map
+  - death_rebirth
+  basis: The passage states that some are born again, evil-doers go to hell, righteous
+    people go to heaven, and those free from worldly desires attain Nirvana.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: "'Death_rebirth' is directly supported by rebirth language; 'afterlife_journey_map'
+    is approximate because the passage lists destinations rather than narrating a
+    journey."
+- id: motif:5
+  label: inescapability of death and moral consequence
+  taxonomy_refs: []
+  basis: The passage states that no place in sky, sea, or mountain clefts frees a
+    person from an evil deed or from death overcoming the mortal.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage describes inescapability but does not connect it to a supplied
+    divine-judgment taxonomy term.
+- id: motif:6
+  label: avoidance of evil as avoidance of physical danger
+  taxonomy_refs:
+  - wisdom
+  basis: Evil deeds are compared to dangers avoided by a merchant on a dangerous road
+    and by a man avoiding poison.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference 'wisdom' is broad; the motif is expressed through
+    practical ethical similes.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter IX, verse 116; lines 552-603
+  quote_or_summary: A man should hasten toward good and keep thought away from evil;
+    slothful good action lets the mind delight in evil.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:2
+  type: summary
+  locator: Chapter IX, verses 117-118; lines 552-603
+  quote_or_summary: A man should not repeat or delight in sin; pain follows evil.
+    A man should repeat and delight in good; happiness follows good.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:3
+  type: summary
+  locator: Chapter IX, verses 119-120; lines 552-603
+  quote_or_summary: The evil-doer may see happiness until the evil deed ripens, and
+    the good man may see evil days until the good deed ripens; after ripening, corresponding
+    results appear.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:4
+  type: summary
+  locator: Chapter IX, verses 121-122; lines 552-603
+  quote_or_summary: Falling water-drops fill a water-pot; likewise the fool becomes
+    full of evil and the wise man full of good little by little.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:5
+  type: summary
+  locator: Chapter IX, verse 123; lines 552-603
+  quote_or_summary: A man should avoid evil deeds as a merchant with few companions
+    and much wealth avoids a dangerous road, and as one who loves life avoids poison.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:6
+  type: summary
+  locator: Chapter IX, verse 124; lines 552-603
+  quote_or_summary: Poison does not affect an unwounded hand, and there is no evil
+    for one who does not commit evil.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:7
+  type: summary
+  locator: Chapter IX, verse 125; lines 552-603
+  quote_or_summary: If a man offends a harmless, pure, innocent person, the evil falls
+    back on the fool like light dust thrown against the wind.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:8
+  type: summary
+  locator: Chapter IX, verse 126; lines 552-603
+  quote_or_summary: Some people are born again; evil-doers go to hell, righteous people
+    go to heaven, and those free from worldly desires attain Nirvana.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:9
+  type: summary
+  locator: Chapter IX, verse 127; lines 552-603
+  quote_or_summary: No spot in the sky, sea, or mountain clefts is known where a man
+    is freed from an evil deed.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+- id: ev:10
+  type: summary
+  locator: Chapter IX, verse 128; lines 552-603
+  quote_or_summary: No spot in the sky, sea, or mountain clefts is known where death
+    could not overcome the mortal.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain source text; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the supplied English passage. Motif taxonomy
+    assignments are conservative; several central patterns lack exact supplied taxonomy
+    references. No comparison claims were made because the passage does not itself
+    establish an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Source metadata identifies the text as public domain and full text as allowed. The supplied locator label mentions multiple chapters, but the passage text provided contains Chapter IX, 'Evil,' verses 116-128.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:buddhist-dhammapada-max-muller-gutenberg__l552-l603
+  passage_sha256=f1e9d07da5498523b7d4db5c0018bed499f06c0c3b049c019e2d216b3e177f13
+

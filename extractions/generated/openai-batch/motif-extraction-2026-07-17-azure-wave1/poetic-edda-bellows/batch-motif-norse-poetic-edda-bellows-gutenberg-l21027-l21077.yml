@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l21027-l21077
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: HAMTHESMOL / THE BALLAD OF HAMTHER / INTRODUCTORY NOTE / NOTES; lines 21027-21077
+  start: '21027'
+  end: '21077'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial notes on stanzas 23-31 and prose for the Ballad of Hamther discuss
+    manuscript ordering, possible interpolations, and narrative details: Hamther and
+    Sorli as Gjuki''s grandsons; their wounding but not killing Jormunrek; a Volsungasaga
+    variant in which Othin advises that they be killed with stones because iron will
+    not wound them; Erp''s implied absence; and references to Norns and wolves.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The phrase translated as Gjuki's heirs is explained as probably referring
+    to Hamther and Sorli as Gjuki's grandsons.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hamther and Sorli wound Jormunrek by cutting off his hands and feet, but they
+    do not kill him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Volsungasaga variant says that advice to kill Hamther and Sorli with stones,
+    because iron will not wound them, comes from Othin.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the Volsungasaga note, Othin enters the hall as an old man with one eye.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says that the speaker of stanza 27 must be Sorli rather than Hamther,
+    although some editors divide the lines between them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hamther's reference to Erp is explained as meaning that Erp would have killed
+    Jormunrek if he had been with the two brothers.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Norns are glossed as fates, and the original word is said to mean goddesses
+    of ill fortune.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The phrase hounds of the Norns is glossed as wolves.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Several notes describe manuscript stanza division, editorial rearrangement,
+    suspected interpolation, or possible textual gaps.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Hamther
+  description: One of Gjuki's grandsons; a brother paired with Sorli in the attack
+    on Jormunrek.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Sorli
+  description: One of Gjuki's grandsons; a brother paired with Hamther in the attack
+    on Jormunrek.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Gjuki
+  description: Ancestor whose grandsons are identified as Hamther and Sorli in the
+    note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Jormunrek
+  description: The figure wounded by Hamther and Sorli, who cut off his hands and
+    feet but do not kill him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Othin
+  description: In the Volsungasaga variant, he enters the hall as an old one-eyed
+    man and gives advice about killing Hamther and Sorli.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Erp
+  description: A figure whose absence is said to explain why Jormunrek was wounded
+    rather than killed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Norns
+  description: Fates, glossed as goddesses of ill fortune.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Hounds of the Norns / wolves
+  description: The phrase hounds of the Norns is glossed as wolves.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note calls Hamther and Sorli the two brothers.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: attackers who wound Jormunrek
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They cut off Jormunrek's hands and feet but do not kill him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: probable speaker in stanza 27
+  assigned_to:
+  - fig:2
+  basis: The note says the speaker must be Sorli and not Hamther.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ancestor
+  assigned_to:
+  - fig:3
+  basis: Hamther and Sorli are identified as Gjuki's grandsons.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: wounded ruler or victim
+  assigned_to:
+  - fig:4
+  basis: Jormunrek is wounded by Hamther and Sorli, who cut off his hands and feet.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: one-eyed adviser
+  assigned_to:
+  - fig:5
+  basis: Othin enters the hall as an old man with one eye and gives advice about killing
+    Hamther and Sorli.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: absent potential killer
+  assigned_to:
+  - fig:6
+  basis: The note says Erp would have killed Jormunrek if he had been with Hamther
+    and Sorli.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: fates or ill-fortune goddesses
+  assigned_to:
+  - fig:7
+  basis: The Norns are glossed as fates and as goddesses of ill fortune.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: wolves named as hounds of the Norns
+  assigned_to:
+  - fig:8
+  basis: The note glosses hounds of the Norns as wolves.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: stones as killing instrument
+  literal_form: stones
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: iron unable to wound
+  literal_form: iron
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: one eye
+  literal_form: old man with one eye
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: severed hands and feet
+  literal_form: hands and feet cut off
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Norns as fates
+  literal_form: Norns / goddesses of ill fortune
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: hounds of the Norns
+  literal_form: wolves
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hamther and Sorli wound Jormunrek
+  summary: Hamther and Sorli cut off Jormunrek's hands and feet, wounding but not
+    killing him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Othin advises a stone killing in the Volsungasaga variant
+  summary: In a cited Volsungasaga variant, Othin appears in a hall as an old one-eyed
+    man and advises that Hamther and Sorli be killed with stones because iron will
+    not wound them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Erp's absent aid
+  summary: Hamther's statement about Erp is explained to mean that Erp would have
+    killed Jormunrek if he had been with the two brothers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Norns and their hounds
+  summary: The notes gloss the Norns as fates or goddesses of ill fortune and gloss
+    the hounds of the Norns as wolves.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: brothers acting as an avenging pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: Hamther and Sorli are described as the two brothers acting together against
+    Jormunrek.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage is an editorial note and does not itself provide the full
+    narrative motive for the attack.
+- id: motif:2
+  label: vulnerability to stones but not iron
+  taxonomy_refs: []
+  basis: The Volsungasaga variant says Hamther and Sorli should be killed with stones
+    because iron will not wound them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This detail is cited as a Volsungasaga comparison rather than as the direct
+    reading of the Hamthesmol stanza in this passage.
+- id: motif:3
+  label: one-eyed divine or disguised adviser
+  taxonomy_refs:
+  - wisdom
+  basis: Othin enters the hall as an old man with one eye and provides advice about
+    how Hamther and Sorli can be killed.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no specific one-eyed-disguised-god motif; the
+    wisdom reference is limited to the advisory function.
+- id: motif:4
+  label: fate and ill fortune personified
+  taxonomy_refs: []
+  basis: The Norns are identified as fates and as goddesses of ill fortune, with wolves
+    glossed as their hounds.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives glosses rather than a full mythic episode involving
+    the Norns.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares Hamther and Sorli's wounding but not killing
+    of Jormunrek with the version told by Jordanes.
+  claim_level: same_motif
+  target: Jordanes' version of the Hamther and Sorli / Jormunrek story
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies only the shared outcome of wounding without killing,
+    not a detailed comparison of the entire Jordanes narrative.
+- id: claim:2
+  claim: The passage compares the Hamthesmol material with a Volsungasaga variant
+    in which Othin advises that Hamther and Sorli be killed with stones because iron
+    will not wound them.
+  claim_level: same_motif
+  target: Volsungasaga variant of the Hamther and Sorli episode
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The cited detail is explicitly said to come from the Volsungasaga;
+    the passage does not state that the same advice appears in the Hamthesmol text
+    itself.
+- id: claim:3
+  claim: The notes report direct textual overlap with the Volsungasaga, stating that
+    lines 1-2 of stanza 28 are quoted there.
+  claim_level: linguistic_similarity
+  target: Volsungasaga quotation of Hamthesmol stanza 28 lines 1-2
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not reproduce the quoted lines, so the exact wording
+    cannot be assessed from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21027-21031
+  quote_or_summary: The note on stanza 23 says the original has 'the well-born of
+    Gjuki' and that the phrase apparently refers to Hamther and Sorli as Gjuki's grandsons.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 21041-21045
+  quote_or_summary: '"As in the story told by Jordanes, Hamther and Sorli succeed
+    in wounding Jormunrek (here they cut off his hands and feet), but do not kill
+    him."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 21046-21051
+  quote_or_summary: The note says the Volsungasaga attributes to Othin the advice
+    to kill Hamther and Sorli with stones because iron will not wound them; Othin
+    enters the hall as an old one-eyed man.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 21052-21058
+  quote_or_summary: The note on stanza 27 says a manuscript introduction names Hamther,
+    but the speaker in this case must be Sorli, though some editors divide lines between
+    Hamther and Sorli.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 21060-21069
+  quote_or_summary: The note says most editors regard stanzas 28-30 as a speech by
+    Hamther; lines 1-2 are quoted in the Volsungasaga; Hamther means that Erp would
+    have killed Jormunrek if he had been with the two brothers.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: lines 21068-21070
+  quote_or_summary: '"Norns: the fates; the word used in the original means the goddesses
+    of ill fortune."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: quote
+  locator: lines 21071-21073
+  quote_or_summary: '"Hounds of the Norns: wolves."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:8
+  type: summary
+  locator: lines 21030-21039
+  quote_or_summary: The notes on stanzas 23-24 describe manuscript order, editorial
+    rearrangement, and attempts to reconstruct a four-line stanza from two lines.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 21041-21059
+  quote_or_summary: The notes on stanzas 25-27 mention possible interpolation, stanza-boundary
+    markings in the manuscript, and uncertainty about the speaker of stanza 27.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: lines 21071-21077
+  quote_or_summary: The notes on stanzas 29-31 identify stanza 29 as likely interpolated,
+    suggest a possible gap after stanza 30, and call stanza 31 apparently a fragment.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The record is based on editorial notes rather than the full poetic passage.
+    Literal figure and motif extraction is strongest where the notes summarize narrative
+    content directly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were applied because the available symbol list does not include stones, iron, wolves, one eye, or Norns.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l21027-l21077
+  passage_sha256=3454eac21bc395415ec4c6aed7e3d724285727402eba2b7ae61aa298c9cde3ee
+

@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l404-l439
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: CONTENTS / ILLUSTRATIONS / ESKIMO FOLK-TALES / THE TWO FRIENDS WHO SET OFF
+    TO TRAVEL ROUND THE WORLD; lines 404-439
+  start: '404'
+  end: '439'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"The world is great indeed,"'
+  summary: A tale tells of two newly married men who set off in opposite directions
+    to travel around the world and learn its nature. Over a very long journey they
+    have children, grow old, and are eventually led by their children. When they meet
+    again, their drinking horns have been worn down to handles from repeated use,
+    and they conclude that the world is very great.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two men desire to travel around the world so they can tell others what it
+    is like.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator frames the story as belonging to a time when people were many,
+    contrasting it with a present of decline, sickness, and the narrator's inability
+    to stand.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The two men have each newly taken a wife and have no children at the start.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Each man makes a musk-ox horn cup from one side of the same beast's head.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two men depart from one another, take different routes, travel with sledges,
+    and choose land to live on each summer.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The journey lasts long enough for the men to have children, for the men to
+    grow old, and for their children also to grow old.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the men are too old to walk, their children lead them.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:8
+  text: When the two men meet again, their drinking horns have been worn down until
+    only the handles remain.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The men state that the world is great, and the passage closes by repeating
+    that the world is great.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the two friends / two men
+  description: Two newly married men who set out by different routes to travel around
+    the world and later meet again as old men.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: wives of the two men
+  description: Each traveler has newly taken a wife at the beginning of the journey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: children of the travelers
+  description: Children born during the long journey who grow old and lead their aged
+    parents.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: storyteller narrator
+  description: A first-person narrator who says people are fewer now, sickness has
+    come, and the narrator cannot stand.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: world travelers
+  assigned_to:
+  - fig:1
+  basis: The men want to travel around the world and set out by different ways.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: new husbands at departure
+  assigned_to:
+  - fig:1
+  basis: Each of the two men has newly taken a wife and has no children at the start.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: aged parents at reunion
+  assigned_to:
+  - fig:1
+  basis: By the end of the journey, the men are old and led by their children.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: wives
+  assigned_to:
+  - fig:2
+  basis: The passage states that each man had newly taken a wife.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: guiding children
+  assigned_to:
+  - fig:3
+  basis: The children lead the parents when the parents are too old to walk.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: impaired storyteller
+  assigned_to:
+  - fig:4
+  basis: The narrator speaks in first person and describes being unable to stand.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: paired musk-ox horn cups
+  literal_form: Cups of musk-ox horn, each made from one side of the same beast's
+    head.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sledges
+  literal_form: Sledges used by the travelers on their routes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water drunk along the way
+  literal_form: Water repeatedly drunk from the horn cups during the journey.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: worn drinking horns
+  literal_form: Drinking horns reduced to handles from repeated use and scraping against
+    the ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: great world
+  literal_form: The world traveled around and described as great.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Story frame of former abundance and present decline
+  summary: The narrator introduces a time when people were many and contrasts it with
+    a present marked by fewer people, evil, sickness, and personal incapacity.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Preparation and departure
+  summary: Two newly married men without children make paired musk-ox horn cups, separate
+    from each other, and begin traveling by different routes with sledges.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Life-spanning journey
+  summary: The world journey continues for so long that the men have children, grow
+    old, and are eventually led by their children.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Reunion after circling the world
+  summary: The two men meet again, their drinking horns worn down to handles by repeated
+    drinking of water, and they declare that the world is great.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: world-circling journey by separated companions
+  taxonomy_refs:
+  - departure
+  basis: Two men set out to travel around the world, separate onto different routes,
+    and eventually meet again after a long journey.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy supports the departure aspect; it does not provide
+    a specific taxonomy item for circumnavigation.
+- id: motif:2
+  label: paired companions taking opposite paths and reuniting
+  taxonomy_refs:
+  - duality
+  basis: The passage emphasizes two men, paired cups from the same animal head, travel
+    away from each other by different ways, and later reunion.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The men are friends, not stated to be twins or siblings; the duality label
+    is based only on the passage's paired structure.
+- id: motif:3
+  label: journey measured by bodily aging and worn objects
+  taxonomy_refs: []
+  basis: The journey's length is shown by the aging of parents and children and by
+    drinking horns worn down to handles through use.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific supplied taxonomy reference matches this motif.
+- id: motif:4
+  label: knowledge of the world's vastness gained through travel
+  taxonomy_refs:
+  - wisdom
+  basis: The men set out to learn the manner of the world and conclude after reunion
+    that the world is great.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a brief conclusion rather than an extended teaching
+    or explicit wisdom discourse.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 404-409
+  quote_or_summary: The title names two friends who travel around the world; the opening
+    says two men desire to travel around the world to tell others what it is like.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 411-414
+  quote_or_summary: The narrator says the story belongs to days when people were many,
+    while now people grow fewer, evil and sickness have come, and the narrator cannot
+    stand.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 416-421
+  quote_or_summary: The two men are newly married and childless, make musk-ox horn
+    cups from the same beast's head, separate onto different routes, travel with sledges,
+    and choose summer lands.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 423-426
+  quote_or_summary: The journey takes a long time; the men have children, grow old,
+    their children grow old, and the children lead the parents when they can no longer
+    walk.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 428-432
+  quote_or_summary: The two men meet; their drinking horns have only the handles left
+    from repeated drinking and scraping while filling them; they say the world is
+    great indeed.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 434-437
+  quote_or_summary: The men started young and are now old men led by their children;
+    the passage concludes that the world is great.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the provided passage. Motif taxonomy
+    matches are limited because the supplied taxonomy lacks a specific world-circumnavigation
+    or long-journey-worn-object category. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied refs and only where directly supportable.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l404-l439
+  passage_sha256=e969000e5eda0b931b712d7df4eb7a12b6dc25b17966d31e97b8a6af5d2271f6
+

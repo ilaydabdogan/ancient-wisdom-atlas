@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8925-l8955
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER X. / CHAPTER XI. / CHAPTER XII. / CHAPTER XIII.; lines 8925-8955
+  start: '8925'
+  end: '8955'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"ANNAEUS SENECA to PAUL Greeting."'
+  summary: Annaeus Seneca greets Paul, comments on Paul's allegorical and mystical
+    writings, advises against excessive rhetorical ornament, urges use of true Latin
+    and just words, and closes with a dated farewell.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is framed as a letter from Annaeus Seneca to Paul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Seneca greets Paul with a wish of happiness and calls him dear.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Seneca says Paul has written many volumes in an allegorical and mystical style.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Seneca says the matters entrusted to Paul do not need rhetorical flourishes
+    but only proper elegance.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Seneca recalls Paul saying that affected style can injure subjects and weaken
+    the matters treated.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Seneca asks Paul to respect true Latin and choose just words in order to manage
+    a noble trust.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The letter ends with a farewell and a consular date.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Annaeus Seneca
+  description: Named sender of the letter to Paul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Paul
+  description: Named recipient addressed as the writer of many allegorical and mystical
+    volumes and as one entrusted with weighty matters.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: letter sender and adviser
+  assigned_to:
+  - fig:1
+  basis: Seneca is named as sender and gives advice about style, Latin, and word choice.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: letter recipient
+  assigned_to:
+  - fig:2
+  basis: Paul is named as the person greeted and addressed by Seneca.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: writer entrusted with weighty matters
+  assigned_to:
+  - fig:2
+  basis: Paul is described as having written many volumes and as bearing a noble trust
+    involving mighty matters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Epistolary counsel on style and language
+  summary: Seneca addresses Paul in a letter, praises or acknowledges the seriousness
+    of Paul's writings, warns against excessive ornamented style, and urges careful
+    Latin and word choice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom counsel on proper speech
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents advisory speech about avoiding affected style and choosing
+    true Latin and just words for serious matters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: This is primarily epistolary rhetorical advice rather than a narrative
+    mythic episode; the taxonomy link to wisdom is broad and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8925-8955, heading
+  quote_or_summary: '"ANNAEUS SENECA to PAUL Greeting."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 8925-8955, Chapter XIII.1
+  quote_or_summary: '"ALL happiness to you, my dearest Paul."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 8925-8955, Chapter XIII.2
+  quote_or_summary: Paul has "written many volumes in an allegorical and mystical
+    style."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 8925-8955, Chapter XIII.2
+  quote_or_summary: Seneca says the mighty matters committed to Paul require no rhetorical
+    flourishes, only proper elegance.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8925-8955, Chapter XIII.3
+  quote_or_summary: Seneca remembers Paul saying that an affected style injures subjects
+    and lessens the force of the matters discussed.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 8925-8955, Chapter XIII.4
+  quote_or_summary: Seneca asks Paul "to have respect to true Latin, and to choose
+    just words" so he may manage the noble trust reposed in him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 8925-8955, Chapter XIII.5
+  quote_or_summary: The letter closes with a farewell and is dated to the fifth of
+    the nones of July, in the consulship of Leo and Savinus.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal epistolary content is straightforward. Motif identification is limited
+    because the passage contains rhetorical advice rather than a clear mythic narrative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text and metadata. No symbols or comparison claims were extracted because the passage does not provide clear symbolic objects or comparative links.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8925-l8955
+  passage_sha256=5694fdbcbe34b4942362eab8943f8f07492e9c0c3b40142d3f929722e312db03
+

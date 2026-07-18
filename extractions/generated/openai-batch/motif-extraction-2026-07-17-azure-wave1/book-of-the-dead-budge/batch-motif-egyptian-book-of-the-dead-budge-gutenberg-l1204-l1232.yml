@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.egyptian-book-of-the-dead-budge-gutenberg-l1204-l1232
+source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+passage_locator:
+  label: CHAPTER VII / CHAPTER VIII / CHAPTER IX / FOOTNOTES; lines 1204-1232
+  start: '1204'
+  end: '1232'
+  translation: The Book of the Dead
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of footnotes citing antiquarian sources, papyri, hieroglyphs,
+    the Pyramid of Pepi I, and explanatory glosses. The glosses identify Truth or
+    Law in a double aspect, names and titles of Osiris, a title for God, an unnamed
+    figure called the firstborn son of Osiris in one legend, and a declaration of
+    keeping Moral and Divine Law.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several footnotes cite publications, plates, and antiquarian references concerning
+    Egyptian materials.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note describes a papyrus roll found at Thebes in a royal tomb, nearly
+    30 feet long, brought to Strassburg by Poussielgue, and sold to M. Cadet.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One footnote consists of a marker for hieroglyphs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One note states that Papyrus Harris No. 1 is the longest papyrus in the world
+    and gives its measurements.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One note cites lines 664 and 662 of the Pyramid of Pepi I.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One note glosses a term as Truth or Law in a double aspect.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Two notes identify a name and a title as belonging to Osiris, including the
+    title Beneficent Being.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: One note glosses a title as the Lord to the uttermost limit of everything,
+    or God.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: One note states that an unnamed male figure was, according to one legend,
+    the firstborn son of Osiris.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: One note glosses a statement as a first-person declaration of having kept
+    Moral and Divine Law.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: Named in footnotes as the possessor of a name and title; also named
+    as the father of an unnamed firstborn son in one legend.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: God
+  description: Identified by a footnote with the title Lord to the uttermost limit
+    of everything.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: unnamed antecedent of footnote [9]
+  description: The supplied passage does not identify this male figure by name; it
+    states only that, according to one legend, he was the firstborn son of Osiris.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Poussielgue
+  description: A paymaster in Napoleon's Army in Egypt who brought the Thebes papyrus
+    to Strassburg and sold it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: M. Cadet
+  description: The buyer of the Thebes papyrus from Poussielgue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Osiris title-bearer
+  assigned_to:
+  - fig:1
+  basis: The notes state that one term is a name of Osiris and that Beneficent Being
+    is a title of Osiris.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: father of a firstborn son
+  assigned_to:
+  - fig:1
+  basis: A note states that an unnamed male figure was the firstborn son of Osiris
+    according to one legend.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: cosmic lord
+  assigned_to:
+  - fig:2
+  basis: A note glosses a title as Lord to the uttermost limit of everything, or God.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: firstborn son of Osiris
+  assigned_to:
+  - fig:3
+  basis: The note directly describes the unnamed antecedent as firstborn son of Osiris
+    in one legend.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: papyrus transporter and seller
+  assigned_to:
+  - fig:4
+  basis: The note says Poussielgue brought the papyrus to Strassburg and sold it to
+    M. Cadet.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: papyrus purchaser
+  assigned_to:
+  - fig:5
+  basis: The note says Poussielgue sold the papyrus to M. Cadet.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Thebes papyrus roll
+  literal_form: A papyrus roll found at Thebes in a tomb of the kings, nearly 30 feet
+    in length.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hieroglyphs
+  literal_form: A footnote marker reading [Hieroglyphs].
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Papyrus Harris No. 1
+  literal_form: A papyrus described as measuring 133 feet by 1 foot 4 1/2 inches.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Truth or Law in double aspect
+  literal_form: Truth, or Law, in a double aspect.
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: 'divine parent-child relation: firstborn son of Osiris'
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage states that an unnamed male figure was, according to one legend,
+    the firstborn son of Osiris.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The antecedent of 'He' is not present in the supplied passage, and the
+    statement appears only as a footnote gloss rather than a narrative episode.
+- id: motif:2
+  label: dual aspect of Truth or Law
+  taxonomy_refs:
+  - duality
+  basis: A footnote gloss explicitly describes Truth or Law as having a double aspect.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage gives only a brief explanatory note; it does not provide a
+    narrative scene or fuller symbolic context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1204-1210, footnote [1]
+  quote_or_summary: Footnote [1] cites Journal de Trvoux, Caylus, Denon, and Description
+    de l'gypte with plates and volume references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 1211-1216, footnote [2]
+  quote_or_summary: Footnote [2] describes a papyrus roll found at Thebes in a tomb
+    of the kings, nearly 30 feet long, brought to Strassburg by Poussielgue, and sold
+    to M. Cadet.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:3
+  type: quote
+  locator: line 1218, footnote [3]
+  quote_or_summary: "[Hieroglyphs]."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 1220-1222, footnote [4]
+  quote_or_summary: Footnote [4] states that Papyrus Harris No. 1 is the longest papyrus
+    in the world and gives its dimensions as 133 feet by 1 foot 4 1/2 inches.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:5
+  type: citation
+  locator: line 1224, footnote [5]
+  quote_or_summary: Pyramid of Pepi I, lines 664 and 662.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:6
+  type: quote
+  locator: line 1226, footnote [6]
+  quote_or_summary: I.e., Truth, or Law, in a double aspect.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: footnotes [7] and [11], within lines 1204-1232
+  quote_or_summary: Footnote [7] says a term is a name of Osiris; footnote [11] says
+    Beneficent Being is a title of Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:8
+  type: quote
+  locator: footnote [8], within lines 1204-1232
+  quote_or_summary: I.e., the "Lord to the uttermost limit of everything," or God.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:9
+  type: quote
+  locator: footnote [9], within lines 1204-1232
+  quote_or_summary: He was according to one legend the firstborn son of Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:10
+  type: quote
+  locator: footnote [10], within lines 1204-1232
+  quote_or_summary: I.e., I have kept the Moral and Divine Law.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal footnote content is clear, but motif extraction is limited because
+    the supplied passage contains footnotes rather than a narrative scene. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No external identifications were added for the unnamed antecedent in footnote [9].
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:egyptian-book-of-the-dead-budge-gutenberg__l1204-l1232
+  passage_sha256=cdc7c05ee6019692d0726eb9d9ff5fab91c7017013266a673328b9c1caf97130
+

@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.biblical-numbers-web-classic-l2298-l2330
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+passage_locator:
+  label: Chapter 28 / Footnotes / Chapter 29 / Chapter 30; lines 2298-2330
+  start: '2298'
+  end: '2330'
+  translation: Numbers
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: he shall not break his word
+  summary: Numbers 30 states rules for vows and oaths made to Yahweh. A man’s vow
+    stands. A young woman’s vow in her father’s house may stand or be voided depending
+    on her father’s response. A married woman’s vow may stand or be voided depending
+    on her husband’s response. A widow’s or divorced woman’s vow stands. The passage
+    closes by identifying these as Yahweh’s statutes concerning husband and wife,
+    father and daughter.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Moses speaks to the heads of the tribes of Israel and presents the matter
+    as commanded by Yahweh.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man who vows to Yahweh or swears an oath to bind his soul with a bond must
+    not break his word and must do what proceeds from his mouth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A young woman in her father’s house who vows to Yahweh is bound by the vow
+    if her father hears it and says nothing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the father forbids the young woman’s vow on the day he hears it, her vows
+    and pledges do not stand, and Yahweh will forgive her.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A woman who has a husband has her vows and pledges stand if her husband hears
+    them and says nothing on the day he hears them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the husband forbids the vow on the day he hears it, he makes the vow and
+    rash utterance void, and Yahweh will forgive her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The vow of a widow or divorced woman stands against her.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In the husband’s house, a husband’s silence or failure to disallow establishes
+    the woman’s vows; his making them null and void on the day he hears them prevents
+    them from standing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The husband may establish or void every vow and binding oath to afflict the
+    soul; if he says nothing from day to day, he establishes the vows.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: If the husband makes the vows null and void after hearing them, he bears her
+    iniquity.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The closing statement identifies the rules as statutes commanded by Yahweh
+    to Moses between a man and wife and between a father and daughter in her youth
+    in her father’s house.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Moses
+  description: Speaker who communicates Yahweh’s command to the heads of the tribes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: Yahweh
+  description: Divine source of the command and the one said to forgive when a father
+    or husband voids certain vows.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: heads of the tribes of the children of Israel
+  description: Audience addressed by Moses at the opening of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: man who vows to Yahweh
+  description: A male vow-maker whose vow or oath must not be broken.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: young woman in her father’s house
+  description: A female vow-maker whose vow or pledge may stand or be forbidden by
+    her father on the day he hears it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:6
+  name_or_label: father
+  description: The father may allow a daughter’s vows to stand by silence or void
+    them by forbidding them on the day he hears them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:7
+  name_or_label: woman with a husband
+  description: A female vow-maker whose vows or rash utterances may stand or be made
+    void depending on her husband’s response.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: husband
+  description: The husband may establish or make void his wife’s vows and may bear
+    iniquity if he voids them after hearing them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: widow or divorced woman
+  description: A woman whose vow stands against her without mention of fatherly or
+    husbandly nullification.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine commander and forgiver
+  assigned_to:
+  - fig:2
+  basis: The statutes are said to be commanded by Yahweh, and Yahweh is said to forgive
+    the woman when a father or husband voids certain vows.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:2
+  label: mediating speaker
+  assigned_to:
+  - fig:1
+  basis: Moses speaks Yahweh’s command to the tribal heads.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:3
+  label: tribal addressee
+  assigned_to:
+  - fig:3
+  basis: The heads of the tribes are the direct audience of Moses’ speech.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: vow-maker bound by speech
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:9
+  basis: The passage repeatedly describes persons making vows, pledges, or oaths that
+    bind the soul and may stand unless voided under specified conditions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: paternal authority over daughter’s vow
+  assigned_to:
+  - fig:6
+  basis: The father’s silence lets the daughter’s vow stand, while his forbidding
+    it on the day he hears makes it not stand.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: marital authority over wife’s vow
+  assigned_to:
+  - fig:8
+  basis: The husband may establish or void his wife’s vows, and his silence from day
+    to day establishes them.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:7
+  label: independent vow-bearer
+  assigned_to:
+  - fig:9
+  basis: The vow of a widow or divorced woman is said to stand against her.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: vow, oath, pledge, and bond
+  literal_form: vow to Yahweh; oath; pledge; bond binding the soul
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: mouth and lips as source of obligation
+  literal_form: what proceeds out of the mouth; rash utterance of the lips; what proceeded
+    out of her lips
+  associated_figures:
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: silence after hearing
+  literal_form: father or husband hears and says nothing; husband holds his peace
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: household setting of authority
+  literal_form: father’s house; husband’s house
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: afflicting the soul
+  literal_form: binding oath to afflict the soul
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Yahweh’s command delivered through Moses
+  summary: Moses addresses the heads of Israel’s tribes with statutes presented as
+    Yahweh’s command.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: A man’s vow to Yahweh
+  summary: A man who vows or swears to Yahweh must keep what he has spoken.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: A daughter’s vow in her father’s house
+  summary: A young woman’s vow stands if her father remains silent when he hears it;
+    if he forbids it that day, the vow does not stand and Yahweh forgives her.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: A wife’s vow under her husband’s response
+  summary: A woman’s vow or utterance stands if her husband remains silent when he
+    hears it; he may void it on the day he hears it, and later nullification brings
+    iniquity on him.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Widow or divorced woman’s vow
+  summary: The vow of a widow or divorced woman stands against her.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: binding vow to a deity
+  taxonomy_refs: []
+  basis: The passage describes vows to Yahweh and oaths that bind the soul and must
+    be kept unless specific household authorities void them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is legal instruction rather than narrative myth; no broader
+    taxonomy motif is explicitly named.
+- id: motif:2
+  label: spoken word as binding obligation
+  taxonomy_refs: []
+  basis: The text links vows to what proceeds from the mouth or lips and treats such
+    utterances as obligations that stand or can be made void.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a ritual-legal pattern, not a story episode.
+- id: motif:3
+  label: household authority establishes or voids vows
+  taxonomy_refs: []
+  basis: The father’s or husband’s hearing, silence, forbidding, or voiding determines
+    whether certain women’s vows stand.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif label abstracts a legal rule from the passage; it should not
+    be generalized beyond the cited text without review.
+- id: motif:4
+  label: divine forgiveness after authorized nullification
+  taxonomy_refs: []
+  basis: When a father or husband voids certain vows on the day he hears them, the
+    passage states that Yahweh will forgive the woman.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The nature of the forgiven offense is not elaborated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Numbers 30:1; lines 2298-2300
+  quote_or_summary: Moses speaks to the heads of the tribes of Israel, saying that
+    this is what Yahweh commanded.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:2
+  type: quote
+  locator: Numbers 30:2; lines 2301-2302
+  quote_or_summary: A man who vows to Yahweh or swears an oath to bind his soul with
+    a bond must not break his word and must do what proceeds from his mouth.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; short excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: Numbers 30:3-5; lines 2303-2308
+  quote_or_summary: A young woman in her father’s house who vows to Yahweh is bound
+    if her father hears and says nothing; if he forbids her vow that day, it does
+    not stand and Yahweh will forgive her.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:4
+  type: summary
+  locator: Numbers 30:6-8; lines 2309-2315
+  quote_or_summary: If a woman has a husband, his silence on the day he hears her
+    vows lets them stand; if he forbids them that day, he voids them and Yahweh will
+    forgive her.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:5
+  type: quote
+  locator: Numbers 30:9; line 2316
+  quote_or_summary: The vow of a widow or divorced woman stands against her.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:6
+  type: summary
+  locator: Numbers 30:10-12; lines 2317-2322
+  quote_or_summary: If a woman vowed in her husband’s house, the husband’s silence
+    or failure to disallow lets the vows stand; if he makes them null and void on
+    the day he hears them, what proceeded from her lips concerning the vows does not
+    stand and Yahweh will forgive her.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:7
+  type: summary
+  locator: Numbers 30:13-15; lines 2323-2329
+  quote_or_summary: The husband may establish or void every vow and binding oath to
+    afflict the soul; silence from day to day establishes them, but if he later makes
+    them null and void, he bears her iniquity.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:8
+  type: summary
+  locator: Numbers 30:16; line 2330
+  quote_or_summary: The passage closes by identifying these as Yahweh’s statutes commanded
+    to Moses between man and wife and between father and daughter in her youth in
+    her father’s house.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/numbers.md
+  rights_note: Public domain source metadata supplied; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    cautious because the passage is ritual-legal instruction rather than narrative
+    mythology. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the supplied taxonomy list does not include a direct vow/oath/household-authority category and the passage does not explicitly invoke the listed symbol forms.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-numbers-web-classic__l2298-l2330
+  passage_sha256=dd5e63d7e5773ca2564b27dc196540b6fd7493700c97a030a98abbc08c94e1d3
+

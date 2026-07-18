@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l1699-l1760
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: 'THE STORY OF A DAM / THE DANCE FOR WATER OR RABBIT''S TRIUMPH / FOOTNOTES:
+    / JACKAL AND MONKEY; lines 1699-1760'
+  start: '1699'
+  end: '1760'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A jackal repeatedly steals lambs from a Boer's kraal and is caught in a
+    noose trap. He convinces Monkey that the trap is pleasurable swinging, so Monkey
+    frees him and takes his place. Jackal runs away, Boer finds Monkey in the trap,
+    rejects Monkey's claim that Jackal was the thief, and shoots Monkey dead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jackal repeatedly enters the Boer's kraal through the sliding door in the
+    evening and steals a fat young lamb.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Boer sets a wip or noose at the door, and Jackal is caught around the body
+    and suspended in the air.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Monkey sees Jackal from a stone kopje, descends, sits on the wall, and mocks
+    Jackal for being caught.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Jackal denies being caught and tells Monkey that he is swinging for pleasure
+    and health.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Monkey frees Jackal and adjusts the noose around his own body.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Jackal lets go, laughs that Monkey is in the wip, refuses Monkey's requests
+    for release, and runs away.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: Boer finds Monkey in the trap and accuses him of stealing the lambs.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Monkey denies the theft and says Jackal is responsible, but Boer does not
+    accept the denial.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Boer raises his gun, aims, and shoots Monkey dead.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Jackal
+  description: Animal figure who steals lambs, is caught in the noose, persuades Monkey
+    to take his place, and escapes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Monkey
+  description: Animal figure who sees and mocks Jackal, is persuaded to enter the
+    noose, is accused of stealing, and is killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: Boer
+  description: Owner of the kraal who sets the trap, finds Monkey in it, accuses Monkey,
+    and shoots him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: thief and deceiver
+  assigned_to:
+  - fig:1
+  basis: Jackal steals lambs and later uses speech to persuade Monkey to take the
+    noose.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: trapped escapee
+  assigned_to:
+  - fig:1
+  basis: Jackal is caught in the noose but escapes after Monkey frees him.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: duped substitute and victim
+  assigned_to:
+  - fig:2
+  basis: Monkey takes Jackal's place in the noose and is killed after Boer finds him
+    there.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:4
+  label: trap-setter and punisher
+  assigned_to:
+  - fig:3
+  basis: Boer sets the wip, accuses the trapped Monkey, and shoots him.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: wip or noose trap
+  literal_form: A noose set at the kraal door that catches a body and suspends it
+    in the air.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: kraal door
+  literal_form: The sliding door of the Boer's kraal, through which Jackal enters
+    and at which the trap is set.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: stolen lamb
+  literal_form: A fat young lamb stolen from the Boer's kraal.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:4
+  label: gun
+  literal_form: The gun Boer carries and uses to shoot Monkey.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:5
+  label: stone kopje and kraal wall
+  literal_form: The elevated places from which Monkey observes Jackal and then sits
+    while mocking him.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Repeated theft and capture
+  summary: Jackal repeatedly steals lambs from the Boer's kraal until Boer sets a
+    noose trap at the door and Jackal is caught.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Monkey mocks the trapped Jackal
+  summary: Monkey observes Jackal hanging in the trap, descends, sits on the wall,
+    and mocks him; Jackal claims he is swinging for pleasure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Exchange of places in the noose
+  summary: Jackal persuades Monkey to free him and enter the noose; Monkey is then
+    suspended while Jackal laughs and refuses to help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Boer kills Monkey
+  summary: Boer arrives, assumes Monkey is the lamb thief, dismisses Monkey's claim
+    that Jackal is responsible, and shoots Monkey dead.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: trickster escapes a trap by substitution
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal is caught in a noose but persuades Monkey to take his place and then
+    escapes.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available taxonomy reference is broad; the passage itself supports
+    the trickster and substitution pattern but not any specific external tale type.
+- id: motif:2
+  label: boundary theft from an enclosure
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Jackal repeatedly crosses the kraal door to steal lambs, and the trap is
+    set at that entry point.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The boundary is literal and practical; no sacred or cosmological boundary
+    is indicated.
+- id: motif:3
+  label: wrongful punishment of the substitute
+  taxonomy_refs: []
+  basis: Monkey is found in the trap, accused of Jackal's theft, denied belief when
+    he names Jackal, and killed.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: Monkey is a deceived substitute rather than the lamb thief, but the passage
+    does not explicitly frame him as morally innocent.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode can be cautiously compared to a trickster-boundary motif function:
+    Jackal crosses a property boundary to steal, is trapped at that boundary, and
+    escapes by deceptive speech and substitution.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a broad motif family only; the passage
+    provides no evidence for historical contact, common inheritance, or a specific
+    external analogue.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1699-1760
+  quote_or_summary: The passage includes a footnote followed by the tale heading identifying
+    the episode as Jackal and Monkey.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summarized citation.
+- id: ev:2
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Jackal repeatedly goes in the evening to the Boer's kraal, enters
+    through the sliding door, and steals a fat young lamb.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+- id: ev:3
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Boer sets a wip at the door; Jackal is caught around the body
+    by the noose and hangs in the air unable to touch the ground.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+- id: ev:4
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Monkey sees the situation from a stone kopje, comes down, sits
+    on the wall, and mocks Jackal for being caught.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+- id: ev:5
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Jackal says he is not caught, claims that swinging is enjoyable
+    and strengthening, and urges Monkey to try it.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+- id: ev:6
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Monkey eventually believes Jackal, frees him, and adjusts the
+    noose around his own body; Jackal lets go and laughs that Monkey is now in the
+    wip.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+- id: ev:7
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Monkey asks Jackal to free him, while Jackal says Boer is coming
+    with a gun and runs away.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+- id: ev:8
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Boer finds Monkey in the wip, accuses him of stealing the lambs,
+    and rejects Monkey's statement that Jackal did it.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+- id: ev:9
+  type: summary
+  locator: lines 1699-1760
+  quote_or_summary: Boer raises his gun, aims, and shoots Monkey dead.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public-domain source metadata; summary generated.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The action sequence and figures are explicit in the passage. Motif labels
+    require human review because only broad taxonomy references are available and
+    the passage supplies no external comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied line-range passage and metadata. The footnote on black beeswax appears in the passage but is not integrated into the Jackal and Monkey action sequence.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l1699-l1760
+  passage_sha256=0b1668225b0635e1d25ac0c872f8c464b911a4c61c6af3b20df883ec316bfe38
+

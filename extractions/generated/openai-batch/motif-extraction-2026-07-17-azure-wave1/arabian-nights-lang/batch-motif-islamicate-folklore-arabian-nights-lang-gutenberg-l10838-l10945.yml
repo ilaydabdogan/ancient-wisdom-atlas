@@ -1,0 +1,584 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l10838-l10945
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 10838-10945
+  start: '10838'
+  end: '10945'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Prince Perviz follows his lost brother on the quest for the Talking Bird,
+    Singing Tree, and Golden Water. He leaves Princess Parizade a pearl chaplet that
+    will signal his fate, meets the dervish, ignores the warning not to heed the mountain
+    voices, turns back, and is changed into black stone. Parizade sees the omen, disguises
+    herself as a man, reaches the dervish, learns the dangers, proposes blocking her
+    ears with cotton, and receives the guiding ball.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prince Perviz says his brother must have died by accident or lack of precaution
+    and announces that he will start on the same quest the next day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before departing, Perviz gives Princess Parizade a chaplet of a hundred pearls
+    and says stuck beads will show that his brother's fate has befallen him.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:3
+  text: On the twentieth day of his journey, Perviz meets the dervish and asks where
+    the Talking Bird, the Singing Tree, and the Golden Water may be found.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dervish says Perviz's elder brother has been changed into a black stone
+    like others on the same errand, warns Perviz not to heed pursuing voices up the
+    mountain, and gives him a ball.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the foot of the mountain, Perviz hears a threatening man's voice, draws
+    his sword, turns, and he and his horse become two black stones.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Princess Parizade tells the beads daily and at night; when the first pearl
+    remains fixed, she understands the sign and sets out for the mountain disguised
+    as a man.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Parizade reaches the dervish on the twentieth day and asks about the Talking
+    Bird, Singing Tree, and Golden Water.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The dervish identifies Parizade as a woman by her voice despite her manly
+    dress and warns her that the adventure may lead to a cruel death.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The dervish describes the mountain dangers as clamorous voices, black stones
+    that were once living men, difficult climbing, and the need not to look behind
+    until the cage is grasped.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Parizade proposes stopping her ears with cotton so she cannot hear the voices;
+    the dervish says she is the first to suggest this means, acknowledges possible
+    success, and gives her the ball.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Prince Perviz
+  description: Princess Parizade's remaining brother; he undertakes the same quest
+    as his elder brother, receives the dervish's warning, turns toward the threatening
+    voice, and is changed with his horse into black stones.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Princess Parizade
+  description: Perviz's sister; she monitors the pearl chaplet, recognizes the fixed
+    bead as a sign of Perviz's fate, disguises herself as a man, seeks the dervish,
+    and proposes using cotton against the voices.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: The dervish
+  description: A holy dervish at a waypoint near the mountain; he warns seekers, explains
+    prior transformations into black stones, and gives balls from his bag.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Prince Bahman
+  description: Perviz's elder brother and prior seeker; the dervish says he has been
+    changed into a black stone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Mountain voices
+  description: Unseen voices on the mountain that pursue or startle seekers; one man's
+    voice threatens Perviz near his ear.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: questing prince
+  assigned_to:
+  - fig:1
+  basis: Perviz decides to start on the same quest for the wondrous objects and travels
+    to the dervish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: questing princess in male disguise
+  assigned_to:
+  - fig:2
+  basis: Parizade sets out for the mountain disguised as a man after the pearl omen
+    and questions the dervish about the three objects.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: dervish guide and warner
+  assigned_to:
+  - fig:3
+  basis: The dervish warns Perviz and Parizade about the dangers, gives directions
+    indirectly, and gives each a ball.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:4
+  label: petrified or failed seeker
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The dervish says Bahman has become a black stone, and Perviz is later changed
+    into black stone after turning toward the voice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: supernatural obstacle
+  assigned_to:
+  - fig:5
+  basis: The voices pursue seekers up the mountain and cause Perviz to forget the
+    dervish's warning and turn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:6
+  label: strategic problem-solver
+  assigned_to:
+  - fig:2
+  basis: Parizade reasons that cotton in her ears will prevent her from hearing the
+    voices; the dervish says no previous seeker has suggested this means.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: pearl chaplet as fate-token
+  literal_form: A chaplet of a hundred pearls whose beads normally slip; if they stick,
+    they signal that Perviz has suffered his brother's fate.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Talking Bird
+  literal_form: A Talking Bird sought as one of three wondrous treasures, later associated
+    with a cage that must be grasped.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: Singing Tree
+  literal_form: A Singing Tree sought as one of the three wondrous treasures.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: Golden Water
+  literal_form: Golden Water sought as one of the three wondrous treasures.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:5
+  label: dangerous mountain
+  literal_form: A mountain that must be climbed while ignoring voices and not looking
+    behind.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: black stones
+  literal_form: Black stones that were once living men; Perviz and his horse also
+    become two black stones.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:7
+  label: dervish's ball
+  literal_form: A ball from the dervish's bag given to questers; Parizade flings it
+    before her.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: sym:8
+  label: cotton-stopped ears
+  literal_form: Cotton used by Parizade to stop her ears so that the voices cannot
+    be heard.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:9
+  label: cage
+  literal_form: The cage that must be grasped before the seeker looks behind.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Perviz departs with pearl omen
+  summary: Perviz resolves to follow his brother on the quest and gives Parizade a
+    hundred-pearl chaplet that will signal if the same fate befalls him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Perviz receives the dervish's warning
+  summary: Perviz reaches the dervish, asks for the three wondrous objects, hears
+    that Bahman became a black stone, receives warning about the voices and mountain,
+    and is given a ball.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Perviz turns and is petrified
+  summary: At the mountain, Perviz hears a threatening voice, turns with his sword
+    drawn, and he and his horse become black stones.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Parizade reads the token and departs
+  summary: Parizade sees the first pearl remain fixed, recognizes Perviz's fate, and
+    leaves the next morning for the mountain in male disguise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Parizade's consultation and countermeasure
+  summary: Parizade questions the dervish, learns the dangers and rule not to look
+    behind, proposes cotton in her ears against the voices, and receives the ball.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: quest for three wondrous treasures
+  taxonomy_refs:
+  - mystical_quest
+  basis: Perviz and Parizade seek the Talking Bird, Singing Tree, and Golden Water,
+    and both ask the dervish how to reach them.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy label is broad; the passage gives the objects and quest but
+    not their full meaning.
+- id: motif:2
+  label: mountain trial requiring self-control and obedience
+  taxonomy_refs:
+  - ascent
+  - initiation
+  basis: The seeker must climb the mountain, ignore voices, and not look behind until
+    the cage is grasped; Perviz fails by turning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage presents a dangerous test; reading it as initiation is interpretive.
+- id: motif:3
+  label: petrification of failed seekers
+  taxonomy_refs: []
+  basis: The dervish says prior seekers, including Bahman, became black stones, and
+    Perviz and his horse become black stones after he turns.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly matches petrification.
+- id: motif:4
+  label: life-token reveals absent kinsman's fate
+  taxonomy_refs: []
+  basis: Perviz gives Parizade the pearl chaplet and tells her that stuck beads will
+    show his fate; the first pearl remains fixed when he is lost.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage identifies the token's function but does not explain its mechanism.
+- id: motif:5
+  label: sibling succession in a dangerous quest
+  taxonomy_refs:
+  - sibling_pair
+  - departure
+  basis: Perviz follows his elder brother's failed quest, and Parizade then departs
+    after Perviz is lost.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy references are broad; the passage concerns multiple siblings
+    rather than a single fixed pair.
+- id: motif:6
+  label: practical countermeasure against supernatural voices
+  taxonomy_refs:
+  - wisdom
+  basis: Parizade reasons that blocking her ears with cotton will prevent the voices
+    from frightening her; the dervish says no previous seeker has proposed this means.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage has not yet shown the outcome of Parizade's plan.
+- id: motif:7
+  label: guide provides a path-finding ball
+  taxonomy_refs: []
+  basis: The dervish gives a ball to Perviz and later gives one to Parizade, who flings
+    it before her to go onward.
+  evidence_refs:
+  - ev:3
+  - ev:10
+  confidence: high
+  cautions: The passage does not fully describe how the ball guides the traveler.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10842-10853
+  quote_or_summary: Perviz rejects the idea that the old woman deceived them, says
+    he will start on the same quest, and gives Parizade a hundred-pearl chaplet whose
+    stuck beads will signal that his brother's fate has befallen him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: 10855-10861
+  quote_or_summary: On the twentieth day, Perviz meets the dervish where Bahman had
+    met him, asks about the Talking Bird, Singing Tree, and Golden Water, and is told
+    that a similar young man recently passed and never returned.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: 10863-10872
+  quote_or_summary: Perviz identifies the previous seeker as his elder brother; the
+    dervish says the brother is changed into a black stone, warns Perviz not to heed
+    clamorous voices up the mountain, and gives him a ball.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 10874-10882
+  quote_or_summary: Perviz reaches the mountain, hears a threatening voice near his
+    ear, forgets the dervish's advice, draws his sword, turns, and becomes a black
+    stone with his horse.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: 10884-10892
+  quote_or_summary: Parizade checks the beads daily and nightly; when the first pearl
+    remains fixed as Perviz falls, she sets out the next morning for the mountain
+    disguised as a man.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: 10894-10900
+  quote_or_summary: Parizade travels as far each day as her brothers, reaches the
+    dervish on the twentieth day, and asks whether he has heard of the Talking Bird,
+    Singing Tree, and Golden Water nearby.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:7
+  type: summary
+  locator: 10902-10914
+  quote_or_summary: The dervish recognizes Parizade despite her male dress by her
+    voice, says the three objects surpass description, and warns that the adventure
+    risks cruel death.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:8
+  type: summary
+  locator: 10916-10926
+  quote_or_summary: Parizade asks to hear the difficulties; the dervish describes
+    clamorous voices, black stones that were once living men, mountain-climbing dangers,
+    and the rule not to look behind until the cage is grasped.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:9
+  type: summary
+  locator: 10928-10939
+  quote_or_summary: Parizade restates the need to ignore the voices and not look behind,
+    proposes putting cotton in her ears so she cannot hear them, and the dervish says
+    she is the first to suggest such a means, though the risk remains great.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:10
+  type: summary
+  locator: 10941-10945
+  quote_or_summary: Parizade says she feels she will succeed, asks the way, and the
+    dervish gives her the ball, which she throws before her.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    use only available broad taxonomy where directly relevant. No external comparison
+    claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata; comparison_claims left empty because the passage does not itself establish an external tradition comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l10838-l10945
+  passage_sha256=497a7e36f933e38fa30d3c785cd778c4c0bc530fb5a0656f569a07d20c1bfb58
+

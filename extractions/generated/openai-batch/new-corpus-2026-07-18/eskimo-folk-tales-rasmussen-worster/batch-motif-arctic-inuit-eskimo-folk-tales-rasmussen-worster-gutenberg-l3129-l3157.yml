@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l3129-l3157
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: THE MAN WHO TOOK A VIXEN TO WIFE / THE GREAT BEAR / THE MAN WHO BECAME A
+    STAR / THE WOMAN WITH THE IRON TAIL; lines 3129-3157
+  start: '3129'
+  end: '3157'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man-eating woman with an iron tail kills sleeping guests by dropping
+    onto them. A visiting man stays awake, moves aside, and causes her to break her
+    tail on a stone. She pursues him to his kayak; both utter hostile wishes whose
+    words have power. His utterance makes her fall, and he rows away. With her tail
+    broken, she kills no one afterward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman is described as having an iron tail and as an eater of men.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When a stranger visited, the woman waited until the guest slept, jumped up,
+    and dropped onto the sleeper so that the tail pierced the victim.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A visiting man lay down but was not asleep when the woman attempted the same
+    attack.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man moved aside, causing the woman to fall onto a stone and break her
+    tail.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man fled to his kayak, and the woman ran after him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman cried out a wish that she could thrust her knife into the man.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator states that the woman’s words had power and that they nearly
+    upset the man.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The man answered with a wish that he could send his harpoon through her, and
+    the power of his words made her fall down.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The man rowed away, and the woman never killed anyone afterward because her
+    tail was broken.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: woman with the iron tail
+  description: A woman with an iron tail who eats men, kills sleeping guests by piercing
+    them with her tail, pursues the visiting man, and is stopped after her tail is
+    broken.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: visiting man
+  description: A man who visits the woman’s house, avoids her attack by remaining
+    awake and moving aside, flees to his kayak, answers her powerful words with his
+    own, and rows away.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: man-eating attacker and dangerous host
+  assigned_to:
+  - fig:1
+  basis: She receives strangers and kills sleeping guests by dropping onto them with
+    her iron tail.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intended victim who escapes
+  assigned_to:
+  - fig:2
+  basis: He lies down in her house but remains awake, moves aside during the attack,
+    flees to his kayak, and rows away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: speaker of efficacious hostile words
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures speak hostile wishes; the passage says the woman’s words nearly
+    upset the man and the man’s words make her fall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: iron tail
+  literal_form: iron tail
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: stone
+  literal_form: stone on which the woman falls and breaks her tail
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: kayak
+  literal_form: kayak used by the man in his flight and departure
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: knife
+  literal_form: knife the woman wishes to thrust into the man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: harpoon
+  literal_form: harpoon the man wishes to send through the woman
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: powerful words
+  literal_form: spoken hostile wishes that produce physical effects
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: description of the lethal host
+  summary: The woman is introduced as an eater of men with an iron tail, and her method
+    of killing sleeping guests is described.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: failed night attack and broken tail
+  summary: A visiting man remains awake and moves aside when she drops onto him, so
+    she lands on a stone and breaks her tail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: flight and powerful utterances
+  summary: The man flees to his kayak while the woman pursues him. She speaks a wish
+    involving her knife, nearly upsetting him, and he replies with a harpoon wish
+    that makes her fall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: escape and end of killings
+  summary: The man rows away, and the woman no longer kills anyone because her tail
+    is broken.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: man-eating woman with weaponized tail
+  taxonomy_refs: []
+  basis: The passage describes a woman who eats men and kills sleeping guests by piercing
+    them with an iron tail.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this specific literal
+    pattern.
+- id: motif:2
+  label: intended victim survives by remaining awake and moving aside
+  taxonomy_refs: []
+  basis: The visiting man is not asleep during the attack and avoids being struck,
+    causing the attacker to fall elsewhere.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not say whether the man intentionally feigned sleep or
+    merely remained awake.
+- id: motif:3
+  label: attacker disabled by failed attack against a hard object
+  taxonomy_refs: []
+  basis: When the man moves aside, the woman falls on a stone and breaks the iron
+    tail that had been her killing instrument.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a single incident rather than an explicitly
+    named tale type.
+- id: motif:4
+  label: spoken hostile wishes have physical force
+  taxonomy_refs: []
+  basis: The woman’s words nearly upset the man, and the man’s answering words make
+    her fall down.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states the power of the words but does not explain its source
+    or ritual context.
+- id: motif:5
+  label: escape by kayak from a pursuing dangerous being
+  taxonomy_refs: []
+  basis: After the woman’s tail breaks, the man flees to his kayak while she runs
+    after him, and he eventually rows away.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The kayak functions literally as an escape vehicle; broader symbolic or
+    comparative significance is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3129-3135
+  quote_or_summary: The tale introduces a woman with an iron tail who eats men and
+    kills sleeping guests by jumping up and dropping onto them so that the tail pierces
+    them.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 3137-3143
+  quote_or_summary: A man comes to her house and lies down; when she attacks, he is
+    not asleep and moves aside, so she lands on a stone and breaks her tail.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 3145-3149
+  quote_or_summary: The man flees to his kayak, the woman follows, and she cries out
+    that she wishes she could thrust her knife into him.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 3151-3154
+  quote_or_summary: Her words nearly upset the man because they have power; he answers
+    with a wish to send his harpoon through her, and his words make her fall.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 3156-3157
+  quote_or_summary: The man rows away, and the woman never kills anyone afterward
+    because her tail is broken.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the provided passage. Motif candidates
+    are descriptive rather than linked to supplied taxonomy families. No comparison
+    claims are made because the passage itself does not support a cross-text or historical
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy symbols and motif families were not assigned because none were directly supported by the passage wording.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l3129-l3157
+  passage_sha256=3d75d0544f96120d6f4fc1df3123ac49ec57fab85ffdfe199a70c25b6aeec836
+

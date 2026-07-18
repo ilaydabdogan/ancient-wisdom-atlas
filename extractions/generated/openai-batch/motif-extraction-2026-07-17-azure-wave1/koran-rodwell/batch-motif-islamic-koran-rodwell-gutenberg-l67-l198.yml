@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.islamic-koran-rodwell-gutenberg-l67-l198
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+passage_locator:
+  label: The Koran (Al-Qur'an); lines 67-198
+  start: '67'
+  end: '198'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains title and translation metadata, a table mapping this
+    edition's sura numbers to Arabic-text sura numbers and titles, and a brief biographical
+    note on Mohammed including birth at Mecca, the hijra to Medina, and death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as The Koran and names Rev. J. M. Rodwell
+    as translator from the Arabic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage presents a table mapping sura numbers in this edition to Arabic-text
+    sura numbers and titles.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The table includes title entries using place or object terms such as “The
+    Mountain” and “The Cave.”
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A biographical note states that Mohammed was born at Mecca in A.D. 567 or
+    569.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note states that Mohammed's flight, or hijra, to Medina took place on
+    16 June 622 and marks the beginning of the Mohammedan era.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note states that Mohammed died on 7 June 632.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mohammed
+  description: Named in the biographical note as born at Mecca, associated with the
+    hijra to Medina, and deceased on 7 June 632.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  basis: The final paragraph gives birth, migration, and death details for Mohammed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: figure in flight or hijra
+  assigned_to:
+  - fig:1
+  basis: The note explicitly refers to Mohammed's flight, or hijra, to Medina.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: 'title term: Mountain'
+  literal_form: The Mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: 'title term: Cave'
+  literal_form: The Cave
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sura title catalogue
+  summary: The passage lists suras by this edition's numbering, Arabic-text numbering,
+    and title.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Brief Mohammed biography
+  summary: The final paragraph gives a concise chronology of Mohammed's birth at Mecca,
+    hijra to Medina, and death.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: flight or departure to a new city
+  taxonomy_refs:
+  - departure
+  basis: The passage explicitly states that Mohammed's flight, or hijra, to Medina
+    took place on 16 June 622 and marked the beginning of the Mohammedan era.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is a brief historical-biographical notice, not a developed mythic
+    narrative; the motif label is limited to the literal departure/flight described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 67-72
+  quote_or_summary: "“The Koran”; “TRANSLATED FROM THE ARABIC BY THE REV. J.M. RODWELL”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:2
+  type: summary
+  locator: lines 76-191, table portion within supplied passage
+  quote_or_summary: The table is headed with columns for sura number in this edition,
+    sura number in the Arabic text, and title, followed by numbered title entries.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: table entries within lines 67-198
+  quote_or_summary: Entries include “44   52      The Mountain” and “69   18      The
+    Cave.”
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:4
+  type: quote
+  locator: final paragraph within lines 67-198
+  quote_or_summary: "“MOHAMMED was born at Mecca in A.D. 567 or 569.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:5
+  type: quote
+  locator: final paragraph within lines 67-198
+  quote_or_summary: "“His flight (hijra) to Medina, which marks the beginning of the
+    Mohammedan era, took place on 16th June 622.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:6
+  type: quote
+  locator: final paragraph within lines 67-198
+  quote_or_summary: "“He died on 7th June 632.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-rodwell.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is straightforward for metadata, table entries, and the biographical
+    note. Motif identification is weak because the passage is not a narrative passage
+    and provides only a brief historical statement of the hijra.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This passage is primarily front matter and table-of-contents material. Symbols extracted from sura titles are title terms only and should not be read as narrative symbolic functions without consulting the suras themselves.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-rodwell-gutenberg__l67-l198
+  passage_sha256=422a92ebb5ebcc7fca318fd460f35910e5bd0e0193c93ad8d6b4895989c2f68d
+

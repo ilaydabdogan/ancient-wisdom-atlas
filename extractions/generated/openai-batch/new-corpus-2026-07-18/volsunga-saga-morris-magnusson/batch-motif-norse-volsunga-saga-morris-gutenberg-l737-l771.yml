@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.norse-volsunga-saga-morris-gutenberg-l737-l771
+source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+passage_locator:
+  label: 'SELECTED BIBLIOGRAPHY: / RECOMMENDED READING-- / INTRODUCTION / H. HALLIDAY
+    SPARLING.; lines 737-771'
+  start: '737'
+  end: '771'
+  translation: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: This passage consists of endnotes. It gives etymological and bibliographic
+    notes, includes a genealogical chain involving Ingiald, Thora, Sigurd Snake-I'-th'-eye,
+    Ragnar Lodbrok, Aslaug, Sigurd, and Brynhild, and says that this genealogy is
+    probably mythical. It also recommends works on comparative mythology, notes references
+    to Scandinavian poetry, and explains the epithet Snake-tongue as referring to
+    biting satire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An endnote derives Viking from Icelandic forms connected with a bay or creek
+    and belonging to freebooters.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An endnote states that “West over the Sea” refers to the British Isles.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An endnote gives a descent chain for an unnamed male figure and explicitly
+    calls the genealogy quite mythical.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An endnote explains Landtaking-book, landnam, and landnamsmenn through terms
+    for taking land and early settlers.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An endnote recommends two books by Andrew Lang to readers interested in comparative
+    mythology.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An endnote says pirates appear in English State papers as plundering along
+    the coasts of the British Isles, especially Ireland.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: An endnote directs readers to Corpus Poeticum Borealis for old Scandinavian
+    poetry extant in Icelandic.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: An endnote explains Snake-tongue as a name arising from biting satire.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: An endnote mentions Sigurd the Volsung and says it seems to have become nearly
+    forgotten in the century referred to by the editor’s note.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Unnamed male figure in endnote 4
+  description: The pronoun “He” is the subject whose descent is listed and whose genealogy
+    is described as quite mythical.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Ingiald
+  description: Named as the father of the unnamed male figure and as son of Thora.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Thora
+  description: Named in the genealogy as parent of Ingiald and daughter of Sigurd
+    Snake-I'-th'-eye.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sigurd Snake-I'-th'-eye
+  description: Named in the genealogy as father of Thora and son of Ragnar Lodbrok
+    by Aslaug.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ragnar Lodbrok
+  description: Named in the genealogy as father of Sigurd Snake-I'-th'-eye by Aslaug.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Aslaug
+  description: Named in the genealogy as mother of Sigurd Snake-I'-th'-eye and daughter
+    of Sigurd by Brynhild.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sigurd
+  description: Named in the genealogy as father of Aslaug by Brynhild.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Brynhild
+  description: Named in the genealogy as mother of Aslaug.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: subject of a mythical genealogy
+  assigned_to:
+  - fig:1
+  basis: The endnote lists the figure’s ancestry and then states that the genealogy
+    is quite mythical.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: father in genealogy
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: The passage uses son/daughter formulas identifying these figures as fathers
+    within the descent chain.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mother or female parent in genealogy
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:8
+  basis: The passage places these female figures in parent-child relations within
+    the descent chain.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: child or descendant in genealogy
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  basis: The genealogy names these figures as sons or daughters of earlier figures
+    in the chain.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: bearer of snake epithet
+  assigned_to:
+  - fig:4
+  basis: The named figure is called Sigurd Snake-I'-th'-eye.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: snake-eye epithet
+  literal_form: Snake-I'-th'-eye
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: snake-tongue epithet
+  literal_form: Snake-tongue
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: mythical ancestral genealogy
+  taxonomy_refs: []
+  basis: The passage presents a multi-generation descent chain and explicitly says
+    that the genealogy is probably mythical.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an endnote rather than a narrative episode; it does not
+    explain the function of the genealogy.
+- id: motif:2
+  label: snake-associated epithets
+  taxonomy_refs:
+  - serpent
+  basis: The passage contains the epithet Snake-I'-th'-eye in a genealogy and separately
+    explains Snake-tongue as a satirical epithet.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: low
+  cautions: The passage gives snake language in names or epithets only; it does not
+    describe an actual serpent figure or serpent episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 739-742
+  quote_or_summary: Endnote 1 derives Viking from Icelandic Vikingr, vik, and ingr,
+    associating the term with a bay or creek and freebooters.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 743
+  quote_or_summary: "“West over the Sea” is the word for the British Isles."
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 745-748
+  quote_or_summary: 'Endnote 4 lists an ancestry: the unnamed figure is son of Ingiald;
+    Ingiald is son of Thora; Thora is daughter of Sigurd Snake-I''-th''-eye; he is
+    son of Ragnar Lodbrok by Aslaug; Aslaug is daughter of Sigurd by Brynhild; the
+    note says the genealogy is quite mythical.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 754-758
+  quote_or_summary: Endnote 7 explains Landtaking-book, landnam, at nema land, and
+    landnamsmenn as terms related to landtaking and early settlers.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 759-763
+  quote_or_summary: Endnote 8 recommends Andrew Lang’s Custom and Myth and Myth, Ritual,
+    and Religion to readers interested in comparative mythology.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 765-767
+  quote_or_summary: Endnote 10 says these pirates appear in English State papers as
+    plundering along the coasts of the British Isles, especially Ireland.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 768-769
+  quote_or_summary: Endnote 11 points to Corpus Poeticum Borealis for old Scandinavian
+    poetry extant in Icelandic.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: line 770
+  quote_or_summary: "“Snake-tongue--so called from his biting satire.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: line 771
+  quote_or_summary: Endnote 13 refers to Sigurd the Volsung and says it seems to have
+    become all but forgotten in the century mentioned.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a set of endnotes rather than a mythic narrative. Genealogy
+    and snake epithets are extractable, but motif identification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were extracted because the passage only mentions comparative mythology bibliographically and does not itself compare traditions or motifs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-volsunga-saga-morris-gutenberg__l737-l771
+  passage_sha256=92f8a56c53ed776740d003d588f9189edef4382653bd1c7d2a7ddbdd171024ce
+

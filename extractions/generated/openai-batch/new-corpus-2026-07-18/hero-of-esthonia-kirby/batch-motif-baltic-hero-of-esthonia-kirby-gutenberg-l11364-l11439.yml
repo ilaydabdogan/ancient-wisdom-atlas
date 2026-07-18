@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l11364-l11439
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE SONG-GOD'S DEPARTURE. / JUTTA. / THE TWELVE DAUGHTERS. / THE FAITHLESS
+    FISHERMAN.; lines 11364-11439
+  start: '11364'
+  end: '11439'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Man is created to sustain himself by toil and thrift.”"
+  summary: Hans rests at a smokeless fire with three men in white garments, drinks
+    from the man with the fir staff, and falls asleep. He wakes in a strange place,
+    follows a noise to a cavern, and enters a huge smithy where small smiths work
+    under the staff-bearing master. The master shows Hans vast gold and silver treasures
+    in seven caverns; Hans cannot lift even one bar. When Hans asks why the treasures
+    are kept underground, the master says mankind would perish from sloth if no one
+    needed to work.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Three men in white linen garments sit at a fire in a summer-like area while
+    storm sounds are heard farther away.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fire spreads bright light but gives off no smoke.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man with the fir staff offers Hans a drink from a flask, speaks with his
+    companions in a foreign language, and Hans falls asleep.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hans wakes in a strange place where there is neither wood nor fire; he hears
+    a distant noise and feels the ground tremble.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hans follows the noise to a cavern entrance where a fire is shining.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Inside the cavern is a huge smithy with bellows and anvils, with seven workmen
+    standing around each anvil.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The smiths are described as knee-high, with heads larger than their bodies,
+    leather aprons, and hammers more than twice as large as themselves.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The staff-bearing friend is seated on a high bench, now dressed in a black
+    sooty coat with a leather belt, and signals to the workmen with his fir staff.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Gold and silver lie everywhere; the master offers Hans gold bars, but Hans
+    cannot move even one bar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The master leads Hans through successive treasure rooms to a seventh cavern
+    as large as a church and filled with gold and silver.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Hans asks why the treasures are stored where humans cannot benefit from them;
+    the master answers that giving them to mankind would make the world perish from
+    sloth because humans are meant to sustain themselves by toil and thrift.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Hans
+  description: A human visitor called “tall Hans' son”; he rests by the fire, sleeps,
+    wakes in a strange place, enters the cavern smithy, views the treasure, tries
+    unsuccessfully to lift a gold bar, and asks why the treasure is stored underground.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Man with the fir staff / master of the smithy
+  description: A staff-bearing stranger who brings Hans to the fire, offers him drink,
+    later appears as the master of the smithy, supervises the smiths, owns or controls
+    the treasures, and explains why they are withheld from mankind.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Companions at the fire
+  description: The companions of the man with the fir staff; they sit at the fire
+    in white linen garments and converse with him in a foreign language.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Little smiths / workmen
+  description: Small smithy workers standing around the anvils; they have oversized
+    heads, wear leather aprons, wield huge hammers, drink from a can, and work under
+    the master's signals.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: mortal visitor
+  assigned_to:
+  - fig:1
+  basis: Hans is brought to the unusual fire, sleeps, wakes elsewhere, enters the
+    cavern, and is shown the treasure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: host and guide
+  assigned_to:
+  - fig:2
+  basis: The staff-bearing man brings Hans to shelter, gives him drink, and later
+    leads him through treasure chambers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:3
+  label: smithy master and treasure keeper
+  assigned_to:
+  - fig:2
+  basis: He sits above the smithy work, signals the workmen, offers treasure, and
+    explains why the treasures cannot be handed over to humans.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: fire-side companions
+  assigned_to:
+  - fig:3
+  basis: They sit with the staff-bearing man at the fire and converse with him in
+    a language Hans cannot understand.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: smithy workers
+  assigned_to:
+  - fig:4
+  basis: They stand at anvils, wield hammers, drink from a can, and pause from their
+    work when allowed to rest.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: smokeless fire
+  literal_form: A bright fire that casts light but throws up no smoke.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: summer-like circle in storm
+  literal_form: For thirty paces or more around the fire, moss is dry, herbage green,
+    and grass full of insects, while wind and storm rage farther away.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cavern smithy
+  literal_form: A cavern containing a huge smithy with bellows, anvils, fire, and
+    workmen.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - cave
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: fir staff
+  literal_form: The staff carried by Hans' friend and used to signal the workmen.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: gold and silver treasure
+  literal_form: Bars and heaps of gold and silver stored underground in treasure chambers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: sevenfold arrangement
+  literal_form: Seven workmen stand around each anvil, and the treasure chambers culminate
+    in a seventh cavern.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:7
+  label: warming drink
+  literal_form: A drink from the staff-bearing man's flask that tastes excellent and
+    warms Hans' heart.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Shelter at the smokeless fire
+  summary: Hans is with three white-clothed men at a fire in a summer-like patch amid
+    surrounding storm. The staff-bearing man offers Hans drink, and Hans falls asleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Awakening and approach to the cavern
+  summary: Hans wakes in a strange place without wood or fire, hears noise and feels
+    the ground tremble, then follows the noise to a cavern entrance with a shining
+    fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The underground smithy
+  summary: Hans enters a huge cavern smithy where small smiths work at anvils with
+    oversized hammers while the staff-bearing master supervises from a bench.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Treasure caverns and explanation
+  summary: The master shows Hans gold and silver treasures, offers him bars he cannot
+    lift, leads him through seven treasure caverns, and explains that the wealth is
+    withheld so mankind will not perish from sloth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Mortal guest at an unnatural fire
+  taxonomy_refs: []
+  basis: Hans is received at a fire that creates a summer-like circle amid storm and
+    gives light without smoke; he drinks and sleeps there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly identify the hosts or the fire as divine
+    or magical, though the described conditions are extraordinary.
+- id: motif:2
+  label: Hidden cavern smithy with diminutive smiths
+  taxonomy_refs: []
+  basis: Hans reaches a cavern containing a huge smithy staffed by small workmen with
+    oversized heads and huge hammers under a master’s supervision.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No external smithing tradition is named in the passage.
+- id: motif:3
+  label: Underground treasure shown but not possessed
+  taxonomy_refs: []
+  basis: The master shows Hans immense gold and silver wealth and offers bars, but
+    Hans cannot move even one of them.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives a physical inability to lift the bar, not an explicit
+    prohibition or curse.
+- id: motif:4
+  label: Treasure withheld for human moral order
+  taxonomy_refs:
+  - wisdom
+  basis: The master answers Hans' question by saying the treasures cannot be given
+    to mankind because a world without the need to work would perish from sloth; he
+    states that humans are made to live by toil and thrift.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The wisdom classification is based on an explicit moral explanation within
+    the passage, not on a named wisdom genre.
+- id: motif:5
+  label: Sevenfold treasure chambers
+  taxonomy_refs: []
+  basis: The smithy has seven workmen around each anvil, and the master leads Hans
+    through rooms until they reach the seventh treasure cavern.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage presents the number seven literally but does not explain its
+    significance.
+- id: motif:6
+  label: Unplanned passage into an extraordinary underground realm
+  taxonomy_refs:
+  - mystical_quest
+  basis: After sleeping at the strange fire, Hans wakes in an unfamiliar place and
+    follows tremors and noise into a cavern smithy and treasure realm.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: low
+  cautions: Hans does not explicitly undertake a quest; the taxonomy reference is
+    tentative and based only on the sequence of sleep, displacement, entry, and revelation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11364-11439, paragraph 1
+  quote_or_summary: Three men in white linen sit at a fire in a summer-like area while
+    storm sounds are heard farther away; the fire gives bright light but no smoke,
+    and the stranger invites Hans to rest there.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11364-11439, paragraph 1
+  quote_or_summary: Hans thanks the stranger, lies near the fire, receives a drink
+    from the man with the fir staff, hears him converse with companions in an unknown
+    language, and falls asleep.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 11364-11439, paragraph 2
+  quote_or_summary: Hans wakes in a strange place with neither wood nor fire, hears
+    a distant noise, feels the ground tremble, and follows the noise to a cavern entrance
+    where fire is shining.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 11364-11439, paragraph 2
+  quote_or_summary: Inside the cavern is a huge smithy with bellows and anvils; seven
+    workmen stand around each anvil, and the small smiths have oversized heads and
+    wield hammers larger than themselves.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 11364-11439, paragraph 2
+  quote_or_summary: Hans' friend with the fir staff sits on a high bench in a black
+    sooty coat and leather belt, with a can at his feet, signaling the workmen with
+    his staff and later calling Hans forward.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 11364-11439, paragraph 3
+  quote_or_summary: Gold and silver lie everywhere; the master offers Hans gold bars
+    as a remembrance, but Hans cannot move even one, and the master says he cannot
+    carry off the least of the treasures.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 11364-11439, paragraph 4
+  quote_or_summary: The master leads Hans through successive treasure rooms to the
+    seventh, as large as a church and filled with gold and silver from floor to ceiling.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: lines 11364-11439, final paragraph
+  quote_or_summary: 'Hans asks why the treasures are kept underground; the master
+    answers that he cannot give them to mankind because the world would perish from
+    sloth, adding: “Man is created to sustain himself by toil and thrift.”'
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    taxonomy use is conservative. No comparison claims were added because the passage
+    itself does not name an external tradition or comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are grounded in the supplied line range; no external folklore parallels were asserted.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l11364-l11439
+  passage_sha256=a9435e469a42c7d7ed76c2a9df660f9dd6deaf374413ff9356648b7839d5ffe1
+

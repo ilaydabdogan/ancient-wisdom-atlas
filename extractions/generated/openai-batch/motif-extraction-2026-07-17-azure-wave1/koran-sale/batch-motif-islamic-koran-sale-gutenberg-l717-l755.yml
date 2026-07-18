@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l717-l755
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: LIFE OF GEORGE SALE. / R. A. DAVENPORT. / INTRODUCTION / TO THE READER.;
+    lines 717-755
+  start: '717'
+  end: '755'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“hide his prize in his sleeve” ... “that celestial treasure”"
+  summary: The passage recounts a preface-story about Fra Marino discovering and removing
+    a Gospel of Barnabas manuscript from Pope Sixtus V's library, converting after
+    reading it, and then gives Sale's critique that the text adapts Gospel material
+    to support Mohammedan claims and anomalously applies the title Messiah to Mohammed
+    rather than Jesus.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The work is said to have been translated from Italian by an Arragonian Moslem
+    named Mostafa de Aranda.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The preface says Fra Marino, a Christian monk, discovered the original manuscript
+    and sought the Gospel of Barnabas after reading a writing of Irenus that cited
+    it against St. Paul.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The preface attributes Fra Marino's close access to Pope Sixtus V to God's
+    mercy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: While Fra Marino and the Pope were in the Pope's library, the Pope fell asleep,
+    and the first book Fra Marino took down was the gospel he wanted.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fra Marino hid the book in his sleeve, left with it, and became a convert
+    to Mohammedism by reading it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Gospel of Barnabas is described as containing a complete history of Jesus
+    Christ from birth to ascension, with many circumstances found in the four Gospels.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says many Gospel circumstances in the Barnabas text are altered
+    to favor the Mohammedan system.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says Mohammed is spoken of and foretold by name as messenger of
+    God and great prophet who would perfect the dispensation of Jesus.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The narrator judges the Barnabas text to be a forgery and suggests it may
+    have been prepared by a renegade Christian or affected by translation faults.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: The passage says Mohammed is given the title Messiah in several places, while
+    the narrator says the Koran and Mohammedans reserve that title for Jesus.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The narrator returns to his own work, admits that his translation has faults,
+    and asks readers to excuse publication delay caused by professional obligations.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Mostafa de Aranda
+  description: An Arragonian Moslem named as translator of the work from Italian.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fra Marino
+  description: A Christian monk who claims to have discovered the original manuscript,
+    found the desired gospel in the Pope's library, removed it, and converted after
+    reading it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Pope Sixtus V
+  description: The Pope whose library contains the book and who falls asleep during
+    the discovery episode.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: God
+  description: Named in the preface-story as mercifully enabling Fra Marino's intimacy
+    with Pope Sixtus V.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Jesus Christ
+  description: Subject of the Gospel of Barnabas history from birth to ascension;
+    described by the narrator as the proper bearer of the title Messiah or Christ
+    in the Koran and Mohammedan usage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Mohammed
+  description: Named in the Barnabas text, according to the passage, as messenger
+    of God and great prophet; also said to receive the title Messiah in that text.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: named translator
+  assigned_to:
+  - fig:1
+  basis: The passage says the work was translated from Italian by Mostafa de Aranda.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: monastic discoverer and seeker of sacred text
+  assigned_to:
+  - fig:2
+  basis: Fra Marino is called a Christian monk and discoverer of the original manuscript
+    who desired to find the Gospel of Barnabas.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: concealed remover and convert
+  assigned_to:
+  - fig:2
+  basis: Fra Marino hides the book in his sleeve, leaves with it, and becomes a convert
+    by reading it.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: sleeping library-holder
+  assigned_to:
+  - fig:3
+  basis: Pope Sixtus V is present in his library and falls asleep when Fra Marino
+    finds the book.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: providential enabler
+  assigned_to:
+  - fig:4
+  basis: The preface-story says God mercifully made Fra Marino intimate with the Pope.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: sacred-history subject and Messiah title bearer
+  assigned_to:
+  - fig:5
+  basis: The Barnabas text is said to narrate Jesus from birth to ascension, and the
+    narrator says Messiah/Christ is appropriated to Jesus in the Koran.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:7
+  label: foretold messenger and prophet
+  assigned_to:
+  - fig:6
+  basis: The passage says Mohammed is foretold by name as messenger of God and great
+    prophet.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: disputed recipient of Messiah title
+  assigned_to:
+  - fig:6
+  basis: The narrator says the Barnabas text gives Mohammed the title Messiah in several
+    places, contrary to Islamic usage as he describes it.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Gospel of Barnabas manuscript
+  literal_form: An original manuscript or book identified as the Gospel of Barnabas
+    and called a celestial treasure in the preface-story.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Pope's library
+  literal_form: The Pope's library where the desired book is found while the Pope
+    sleeps.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: concealing sleeve
+  literal_form: Fra Marino's sleeve used to hide the book when leaving the library.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Messiah title
+  literal_form: The title Messiah, al Mash, or Christ, contested between its application
+    to Jesus and its alleged application to Mohammed in the Barnabas text.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Search for the Gospel of Barnabas
+  summary: Fra Marino reads a writing that cites the Gospel of Barnabas and becomes
+    eager to find that gospel.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Library discovery and concealed removal
+  summary: In Pope Sixtus V's library, after the Pope falls asleep, Fra Marino finds
+    the desired gospel, hides it in his sleeve, leaves with it, and later converts
+    through reading it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Contents and critique of the Barnabas text
+  summary: The Barnabas text is described as a life of Jesus incorporating Gospel
+    material, altering it in favor of the Mohammedan system, foretelling Mohammed,
+    and assigning him the title Messiah; the narrator calls the work a forgery.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred text theft from religious library
+  taxonomy_refs:
+  - sacred_theft
+  basis: Fra Marino finds the desired gospel in the Pope's library, hides it in his
+    sleeve, and carries it away as a celestial treasure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The episode is reported as a preface-story and is retold within Sale's
+    critical discussion, not as Qur'anic narrative.
+- id: motif:2
+  label: providential discovery of a sought sacred book
+  taxonomy_refs: []
+  basis: The preface-story says God made Fra Marino intimate with the Pope, and the
+    first book he takes down in the library is the gospel he sought.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The providential framing belongs to the reported preface; the narrator
+    does not endorse the story.
+- id: motif:3
+  label: conversion through reading a recovered sacred text
+  taxonomy_refs: []
+  basis: Fra Marino is said to become a convert to Mohammedism by reading the gospel
+    he removed from the library.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The conversion claim is internal to the reported discovery narrative.
+- id: motif:4
+  label: earlier sacred history foretells later prophet
+  taxonomy_refs: []
+  basis: The Barnabas text is said to include passages where Mohammed is named and
+    foretold as messenger of God and the prophet who would perfect Jesus's dispensation.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The narrator presents this as evidence of interpolation and forgery rather
+    than as accepted tradition.
+- id: motif:5
+  label: contested messianic title
+  taxonomy_refs: []
+  basis: The passage says the Barnabas text gives Mohammed the title Messiah, while
+    the narrator says the title belongs to Jesus in the Koran and Muslim usage.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a textual and theological title-dispute rather than a fully developed
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the Barnabas text with the four canonical Gospels by
+    saying it contains many of the same circumstances but alters them to favor the
+    Mohammedan system.
+  claim_level: same_function
+  target: Four canonical Gospels / Gospel narrative material
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the narrator's report and does not identify
+    specific shared episodes in this excerpt.
+- id: claim:2
+  claim: The passage contrasts the Barnabas text's application of the Messiah title
+    to Mohammed with the narrator's statement that the Koran and Mohammedans apply
+    Messiah or Christ to Jesus and never to Mohammed.
+  claim_level: linguistic_similarity
+  target: Koranic and Mohammedan usage of Messiah / al Mash / Christ
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a reported terminological comparison within Sale's polemical
+    assessment; no external verification is supplied in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 717-719
+  quote_or_summary: "“translated from the Italian, by an Arragonian Moslem, named
+    Mostafa de Aranda.”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 719-724
+  quote_or_summary: The preface says Fra Marino, a Christian monk and discoverer of
+    the original manuscript, read a writing of Irenus against St. Paul citing the
+    Gospel of St. Barnabas and became eager to find it.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 724-728
+  quote_or_summary: The preface says God made Fra Marino intimate with Pope Sixtus
+    V; in the Pope's library, the Pope fell asleep, and the first book Fra Marino
+    took down was the gospel he sought.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: 728-731
+  quote_or_summary: "“hide his prize in his sleeve” and leave “carrying with him that
+    celestial treasure,” by reading which he became a convert to Mohammedism."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 731-735
+  quote_or_summary: The Gospel of Barnabas is said to contain a complete history of
+    Jesus from birth to ascension, with many circumstances from the four Gospels altered
+    to favor the Mohammedan system.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: 735-738
+  quote_or_summary: The text is said to include interpolations in which Mohammed is
+    named and foretold as messenger of God and great prophet who would perfect the
+    dispensation of Jesus; the narrator calls the work a barefaced forgery.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: 738-746
+  quote_or_summary: The narrator says Mohammed is given the title Messiah in several
+    places, while in the Koran and Mohammedan usage Messiah or Christ is appropriated
+    to Jesus and never to Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: 747-755
+  quote_or_summary: The narrator returns to his own work, says his translation is
+    not free from faults, asks knowledgeable readers for fair treatment, and explains
+    delay by professional obligations.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a clear prose passage, but the strongest motif
+    material is a reported preface-story embedded in Sale's critical introduction
+    rather than mythic narrative from the Koran itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were directly supported by this passage. The motif ref sacred_theft is used for the literal concealment and removal of the sacred book.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l717-l755
+  passage_sha256=157223693217b55445ebfd68dcca520a077e1a6bf93bd69f79a5228c5b0be73c
+

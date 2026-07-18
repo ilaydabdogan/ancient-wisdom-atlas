@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l166-l188
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: THE COCK AND THE MOUSE                                           411 / THE
+    GIANT CLOUD-SWALLOWER                                        423 / LIST OF PLATES
+    / THE YOUTH AND HIS EAGLE                                 34; lines 166-188
+  start: '166'
+  end: '188'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table-of-contents and list-of-plates segment. It lists
+    several tale titles and then plate titles with page numbers, including a portrait,
+    a youth with an eagle, views or places associated with Zuñi, a burro train, and
+    Thunder Mountain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists tale titles with page numbers, including titles naming a
+    cock and mouse, a giant cloud-swallower, and a maiden, the Sun, and boys.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: A list of plates follows the tale-title entries and uses a page-number column.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:3
+  text: One plate entry names Frank Hamilton Cushing as the subject of a portrait.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: One plate entry is titled as a youth with his eagle and is assigned page 34.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: Plate entries include Zuñi viewed from the south, Waíhusiwa, a burro train
+    in a Zuñi street, and Thunder Mountain from Zuñi.
+  category: setting
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Cock
+  description: Named in the tale title “The Cock and the Mouse.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mouse
+  description: Named in the tale title “The Cock and the Mouse.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Giant Cloud-Swallower
+  description: Named in the tale title “The Giant Cloud-Swallower.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Maiden
+  description: 'Named in the tale title “The Maiden the Sun Made Love To, and Her
+    Boys: or the Origin of Anger.”'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Sun
+  description: Named in the tale title as making love to the maiden.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Boys
+  description: 'Named in the tale title “The Maiden the Sun Made Love To, and Her
+    Boys: or the Origin of Anger.”'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Frank Hamilton Cushing
+  description: Named as the subject of a portrait plate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Youth
+  description: Named in the plate title “The Youth and His Eagle.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Eagle
+  description: Named in the plate title “The Youth and His Eagle.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: tale-title entity
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These figures are named only within listed tale titles in this passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: plate subject
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These figures are named as subjects in entries under the list of plates.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: The Sun named in a tale title involving a maiden and her boys.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Eagle
+  literal_form: An eagle named with a youth in a plate title.
+  associated_figures:
+  - fig:9
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Thunder Mountain
+  literal_form: A mountain named in the plate title “Thunder Mountain from Zuñi.”
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 166
+  quote_or_summary: "“THE COCK AND THE MOUSE                                           411”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: line 168
+  quote_or_summary: "“THE GIANT CLOUD-SWALLOWER                                        423”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: summary
+  locator: lines 170-172
+  quote_or_summary: The listed tale title names a maiden, the Sun, her boys, and the
+    origin of anger.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 174-176
+  quote_or_summary: The passage begins a “LIST OF PLATES” with a page-number column.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 177
+  quote_or_summary: A plate entry lists a portrait of Frank Hamilton Cushing as the
+    frontispiece.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 180
+  quote_or_summary: "“THE YOUTH AND HIS EAGLE                                 34”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:7
+  type: quote
+  locator: line 182
+  quote_or_summary: "“ZUÑI FROM THE SOUTH                                     64”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:8
+  type: quote
+  locator: line 184
+  quote_or_summary: "“WAÍHUSIWA                                               92”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:9
+  type: summary
+  locator: line 186
+  quote_or_summary: A plate entry lists a burro train in a Zuñi street on page 132.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: line 188
+  quote_or_summary: "“THUNDER MOUNTAIN FROM ZUÑI                             174”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source; short excerpt used for identification.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a contents/list-of-plates segment rather than a narrative
+    episode. Named entities and plate subjects can be extracted literally, but there
+    is insufficient narrative evidence for motif or comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were recorded because the passage provides only titles and plate entries, not narrative actions or symbolic explanations.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l166-l188
+  passage_sha256=7450d95ec23885dee8cb30e75f00e81ca7258457d59fe5c27f58c0d7d0ba47c6
+

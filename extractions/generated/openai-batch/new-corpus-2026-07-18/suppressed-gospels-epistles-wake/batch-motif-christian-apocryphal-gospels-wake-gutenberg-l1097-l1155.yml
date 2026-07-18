@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l1097-l1155
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER VIII. / REFERENCES TO MARY'S GOSPEL / CHAPTER I. / CHAPTER. II.;
+    lines 1097-1155
+  start: '1097'
+  end: '1155'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Anna, wife of Joachim, mourns her barrenness and widowhood. Her maid Judith
+    urges her not to mourn during a feast, offers her a hood, and reproaches her barrenness
+    as God having shut her womb. Anna, troubled, puts on her wedding garment, goes
+    into her garden, sits under a laurel-tree, and prays that God bless her as Sarah
+    was blessed with Isaac.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Anna identifies herself as mourning both widowhood and barrenness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Judith tells Anna that the feast of the Lord has come and that mourning is
+    unlawful at that time.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Judith offers Anna a hood, saying it suits Anna's greater character and is
+    not fit for a servant to wear.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Anna rejects Judith's approach, says the Lord has humbled her, and fears the
+    hood may be a reproach connected to her sin.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Judith says she cannot wish Anna a greater curse than that God has shut up
+    her womb so she should not be a mother in Israel.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Anna, exceedingly troubled, puts on her wedding garment and goes to walk in
+    her garden about three o'clock in the afternoon.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Anna sees a laurel-tree, sits under it, and prays to the Lord.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Anna asks the God of her fathers to bless her and regard her prayer as he
+    blessed Sarah's womb and gave Sarah a son, Isaac.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Anna
+  description: Wife of Joachim; mourns widowhood and barrenness; prays for blessing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Joachim
+  description: Named as Anna's husband in the chapter heading.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: Judith
+  description: Anna's maid, who speaks to Anna about mourning, the hood, and barrenness.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the Lord / God of my fathers
+  description: Divine addressee of Anna's prayer; described in speech as having humbled
+    Anna and shut up her womb.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Sarah
+  description: Named by Anna as one whose womb God blessed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Isaac
+  description: Named by Anna as the son given to Sarah.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: barren mourner
+  assigned_to:
+  - fig:1
+  basis: Anna says she mourns for barrenness, and Judith says God shut up Anna's womb.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: prayer petitioner
+  assigned_to:
+  - fig:1
+  basis: Anna sits under a laurel-tree and prays for blessing.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: husband
+  assigned_to:
+  - fig:2
+  basis: The heading identifies Anna as the wife of Joachim.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: maid servant
+  assigned_to:
+  - fig:3
+  basis: Judith is identified as Anna's maid and refers to herself as a servant.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: reproving speaker
+  assigned_to:
+  - fig:3
+  basis: Judith challenges Anna's mourning and calls her barrenness a curse.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: divine addressee and giver of blessing
+  assigned_to:
+  - fig:4
+  basis: Anna prays to the Lord and asks God to bless her as Sarah was blessed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: precedent of blessed womb
+  assigned_to:
+  - fig:5
+  basis: Anna names Sarah as one whose womb God blessed.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: given son
+  assigned_to:
+  - fig:6
+  basis: Anna says God gave Sarah a son, Isaac.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: laurel-tree
+  literal_form: A laurel-tree in Anna's garden under which she sits to pray.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: womb
+  literal_form: Anna's womb is described by Judith as shut up; Sarah's womb is described
+    by Anna as blessed.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: wedding garment
+  literal_form: The garment Anna puts on before walking in her garden.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: hood
+  literal_form: A hood offered by Judith to Anna and rejected by Anna.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: feast of the Lord
+  literal_form: A feast during which Judith says mourning is unlawful.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Anna mourns barrenness and widowhood
+  summary: Anna is distressed and says she will mourn for widowhood and barrenness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Judith challenges Anna's mourning
+  summary: Judith urges Anna not to afflict herself during the feast, offers a hood,
+    and speaks of Anna's barrenness as a curse.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Anna prays under the laurel-tree
+  summary: Anna puts on her wedding garment, goes into her garden, sits beneath a
+    laurel-tree, and asks God to bless her as Sarah was blessed with Isaac.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: barren woman petitions God for a child
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Anna is described as barren, reproached as not being a mother in Israel,
+    and prays that God bless her as Sarah was blessed with Isaac.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage contains the petition and biblical precedent but does not
+    yet narrate conception or birth.
+- id: motif:2
+  label: prayer beneath a tree
+  taxonomy_refs: []
+  basis: Anna sees a laurel-tree, sits beneath it, and prays to the Lord.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents the tree as a setting for prayer; it does not explicitly
+    assign symbolic meaning to the tree.
+- id: motif:3
+  label: ritualized suspension of mourning during sacred feast
+  taxonomy_refs: []
+  basis: Judith states that the feast of the Lord has come and that it is unlawful
+    for anyone to mourn.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is grounded in Judith's speech within the passage; broader ritual
+    context is not supplied here.
+comparison_claims:
+- id: claim:1
+  claim: Anna's prayer explicitly frames her desired blessing through the Sarah-and-Isaac
+    precedent of a blessed womb and divinely given son.
+  claim_level: same_motif
+  target: Sarah and Isaac birth precedent
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made within Anna's speech, but the passage does not
+    narrate Anna's own conception or childbirth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1097-1107
+  quote_or_summary: Anna, wife of Joachim, is distressed and says she will mourn for
+    widowhood and barrenness.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1108-1114
+  quote_or_summary: Judith, Anna's maid, says the feast of the Lord has come and that
+    mourning is unlawful.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1115-1121
+  quote_or_summary: Judith offers Anna a hood, saying a servant should not wear it
+    but it suits Anna's greater character.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1122-1129
+  quote_or_summary: Anna tells Judith to depart, says the Lord has greatly humbled
+    her, and fears the hood is a reproach concerning her sin.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1130-1137
+  quote_or_summary: Judith says she cannot wish Anna a greater curse than that God
+    has shut up her womb so she should not be a mother in Israel.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1138-1143
+  quote_or_summary: Anna is exceedingly troubled, puts on her wedding garment, and
+    goes to walk in her garden about three o'clock in the afternoon.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1144-1147
+  quote_or_summary: Anna sees a laurel-tree, sits under it, and prays to the Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1148-1155
+  quote_or_summary: Anna asks the God of her fathers to bless her and regard her prayer
+    as he blessed Sarah's womb and gave Sarah a son, Isaac.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: chapter synopsis, lines 1097-1100
+  quote_or_summary: The synopsis identifies Anna as the wife of Joachim and states
+    that she mourns barrenness, is reproached by Judith, sits under a laurel tree,
+    and prays to the Lord.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif labels are cautious
+    because the passage gives the prayer and precedent but not the later outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unprovided context used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l1097-l1155
+  passage_sha256=ee1081a649bbf88dcf146fa0efc352a7db8b792d6c3331ddde44adb2e8b5a337
+

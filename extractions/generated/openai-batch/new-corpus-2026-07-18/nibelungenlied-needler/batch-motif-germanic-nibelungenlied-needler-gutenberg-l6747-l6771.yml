@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l6747-l6771
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: NINTH ADVENTURE / TENTH ADVENTURE / ELEVENTH ADVENTURE / TWELFTH ADVENTURE;
+    lines 6747-6771
+  start: '6747'
+  end: '6771'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Hoard of the Nibelungen / beneath his hand doth lie.
+  summary: Hagen remarks that an unnamed man may give freely from a vast Nibelungen
+    hoard, wishing it might come to Burgundy. The king's retainers prepare for arriving
+    guests by building seats and stands and preparing abundant food under named officials
+    and servants.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hagen says that an unnamed man could give from his treasure and still not
+    fully distribute it even if he lived forever.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hagen states that the Hoard of the Nibelungen lies under the unnamed man's
+    control.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hagen expresses a wish that the hoard might come into the land of Burgundy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The king's retainers are glad that the guests are coming.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The men of three monarchs work early and late and build many seats for a high
+    festivity.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hunold and Sindold have little leisure and, according to their offices, arrange
+    many stands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ortwein helps Hunold and Sindold and receives Gunther's thanks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Rumold the High Steward works busily among those serving him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Many pots, pans, and kettles are used while plentiful food is prepared for
+    those who are coming.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hagen
+  description: A speaker who comments on the Nibelungen hoard and Burgundy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unnamed holder of the treasure
+  description: An unnamed male figure referred to by Hagen as having the Nibelungen
+    hoard under his hand.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King's retainers
+  description: A collective group glad about the guests' coming.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Guests
+  description: The expected arrivals for whom preparations are made.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Men of three monarchs
+  description: A collective group working early and late to prepare seats for the
+    festivity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hunold
+  description: A valiant knight occupied with official preparations, including stands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sindold
+  description: A doughty thane occupied with official preparations, including stands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ortwein
+  description: A helper in the preparations who receives Gunther's thanks.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Gunther
+  description: A named figure who gives thanks to Ortwein.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Rumold the High Steward
+  description: A high steward busily directing or working among those serving him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Servants under Rumold
+  description: Those who serve under Rumold in preparing food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker about treasure
+  assigned_to:
+  - fig:1
+  basis: Hagen speaks about the treasure and the Nibelungen hoard.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: holder of hoard
+  assigned_to:
+  - fig:2
+  basis: Hagen says the Hoard of the Nibelungen lies beneath this unnamed man's hand.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: festival preparer
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:11
+  basis: These figures or groups are described as building seats, arranging stands,
+    helping, or preparing provisions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: expected guest
+  assigned_to:
+  - fig:4
+  basis: The guests are coming, and preparations are made for those coming.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: helper thanked by Gunther
+  assigned_to:
+  - fig:8
+  basis: Ortwein helps and receives Gunther's thanks.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: giver of thanks
+  assigned_to:
+  - fig:9
+  basis: Gunther thanks Ortwein for his help.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: high steward overseeing provisions
+  assigned_to:
+  - fig:10
+  basis: Rumold is named High Steward and works busily among those serving him as
+    food is prepared.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Nibelungen hoard
+  literal_form: Hoard of the Nibelungen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: festival seating
+  literal_form: many seats and many stands built for the high festivity
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: cooking vessels for abundance
+  literal_form: many pots, pans, and kettles used for plentiful victuals
+  associated_figures:
+  - fig:10
+  - fig:11
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hagen comments on the Nibelungen hoard
+  summary: Hagen describes an enormous treasure controlled by an unnamed man and wishes
+    it might come to Burgundy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparations for a high festivity
+  summary: Retainers and the men of three monarchs prepare for arriving guests by
+    building seats and arranging stands, with Hunold, Sindold, Ortwein, and Gunther
+    named in relation to the work.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Provisioning the guests
+  summary: Rumold the High Steward and those serving him prepare abundant food using
+    many large cooking vessels for those coming.
+  figure_refs:
+  - fig:4
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: vast hoard desired by another land
+  taxonomy_refs: []
+  basis: The passage describes the Nibelungen hoard as so great it could not be fully
+    distributed and includes Hagen's wish that it come to Burgundy.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage identifies the hoard and desire for it but does not narrate
+    its transfer in this excerpt.
+- id: motif:2
+  label: royal hospitality through large-scale preparation
+  taxonomy_refs: []
+  basis: The passage emphasizes collective labor by retainers, officials, and servants
+    to prepare seats, stands, and abundant food for arriving guests.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a social and ceremonial pattern rather than a named taxonomy motif
+    in the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: stanza 774 within lines 6747-6771
+  quote_or_summary: Hagen says the treasure could not be fully given away and that
+    the Hoard of the Nibelungen lies under an unnamed man's hand; he wishes it might
+    come to Burgundy.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; concise summary with short quoted phrase in canonical_text.
+- id: ev:2
+  type: summary
+  locator: stanza 775 within lines 6747-6771
+  quote_or_summary: The king's retainers are glad the guests are coming; the men of
+    three monarchs work early and late, building many seats for the high festivity.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: stanza 776 within lines 6747-6771
+  quote_or_summary: Hunold and Sindold have little leisure and arrange many stands
+    as their offices require; Ortwein helps and receives Gunther's thanks.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: stanza 777 within lines 6747-6771
+  quote_or_summary: Rumold the High Steward works among those serving him; many pots,
+    pans, and kettles are present, and plentiful food is prepared for those coming.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied stanza text. Motif
+    labels are descriptive and not tied to supplied taxonomy refs. No comparison claims
+    were made because the passage itself does not support a specific cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; available taxonomy symbols did not match literal passage objects, so no taxonomy symbol refs were assigned.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l6747-l6771
+  passage_sha256=8fa0d689ffd6670a6bfb89bbeba031d97b05e0143b695e1d97256509645ab1f8
+

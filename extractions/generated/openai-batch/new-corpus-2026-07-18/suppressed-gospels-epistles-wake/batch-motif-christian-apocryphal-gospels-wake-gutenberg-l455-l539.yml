@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l455-l539
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: THE GOSPEL OF THE BIRTH OF MARY. / CHAPTER I. / CHAPTER II. / CHAPTER III.;
+    lines 455-539
+  start: '455'
+  end: '539'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An angel appears to Anna and announces that she will bear a daughter named
+    Mary, blessed above all women and devoted to temple service. The angel also foretells
+    that Mary, remaining a virgin, will bring forth the Lord, the Saviour of the world.
+    Anna is told to go to Jerusalem's golden gate as a sign, where she meets Joachim.
+    They rejoice, praise the Lord, return home, and Anna conceives and bears Mary.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An angel appears to Anna and tells her not to fear or think the apparition
+    is a spirit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The angel says he has offered Anna's prayers and alms before God and has been
+    sent to announce that a daughter named Mary will be born to her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The announced daughter is described as blessed above all women and full of
+    the grace of the Lord from birth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Mary is said to remain in her father's house during three years of weaning
+    and then to be devoted to the Lord's service in the temple.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mary is said to serve the Lord night and day with fasting and prayer, abstain
+    from every unclean thing, and never know any man.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The angel foretells that Mary, as a virgin not knowing man, will bring forth
+    a son described as the Lord and Saviour of the world.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Anna is instructed to go up to Jerusalem to the golden gate, where meeting
+    her husband will serve as a sign of the angel's message.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Anna and Joachim go to the predicted place and meet one another there.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Anna and Joachim rejoice, give thanks and praise to the Lord, and return home
+    expecting the promise of God.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Anna conceives, bears a daughter, and the parents name her Mary according
+    to the angel's command.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the angel
+  description: The angel who appears to Anna, says he has offered her prayers and
+    alms before God, announces Mary's birth, and gives Anna a confirming sign.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Anna
+  description: Joachim's wife; recipient of the angelic message; commanded to go to
+    Jerusalem; later conceives and bears Mary.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Joachim
+  description: Anna's husband, whom Anna is told she will meet at the golden gate;
+    he meets Anna and is one of the parents who name Mary.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Mary
+  description: The daughter promised to Anna, born and named Mary; described as blessed,
+    full of grace, devoted to temple service, virginal, and future mother of the Lord.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:5
+  name_or_label: God / the Lord
+  description: The divine figure before whom prayers and alms are offered, whom Mary
+    will serve, and whom Anna and Joachim praise.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:6
+  name_or_label: the future son / the Lord / Saviour of the world
+  description: The son whom Mary is foretold to bring forth while a virgin; described
+    as the Lord and Saviour of the world.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: angelic messenger
+  assigned_to:
+  - fig:1
+  basis: The angel appears to Anna, says he has been sent, announces Mary's birth,
+    and gives a sign.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: recipient of annunciation
+  assigned_to:
+  - fig:2
+  basis: Anna receives the angel's announcement about the daughter who will be born
+    to her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: husband met as confirming sign
+  assigned_to:
+  - fig:3
+  basis: The angel says Anna will meet her husband at Jerusalem's golden gate as a
+    sign.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: promised and born daughter
+  assigned_to:
+  - fig:4
+  basis: Mary is announced as Anna's future daughter and is later born and named.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:5
+  label: virgin temple-servant and future mother
+  assigned_to:
+  - fig:4
+  basis: Mary is described as dedicated to temple service, abstinent from uncleanness,
+    never knowing man, and destined to bring forth the Lord.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: parents of Mary
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Anna conceives and bears the daughter, and the parents name her Mary.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: divine recipient of prayer, service, and praise
+  assigned_to:
+  - fig:5
+  basis: Prayers and alms are offered before God; Mary is to serve the Lord; Anna
+    and Joachim praise the Lord.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:8
+  label: future saviour child
+  assigned_to:
+  - fig:6
+  basis: The passage says Mary will bring forth a son, the Lord, described as the
+    Saviour of the world.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden gate as sign
+  literal_form: the golden gate at Jerusalem, described as gilt with gold
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: temple service
+  literal_form: the temple where Mary is to serve the Lord
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Angelic annunciation to Anna
+  summary: The angel appears to Anna, identifies himself as sent after offering her
+    prayers and alms before God, announces Mary's birth, describes Mary's consecrated
+    life, and foretells Mary's future virgin motherhood of the Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Meeting at the golden gate
+  summary: Anna is told to go to Jerusalem's golden gate as a sign, and Anna and Joachim
+    meet at the place specified in the angel's prediction.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Thanksgiving, return, and Mary's birth
+  summary: Anna and Joachim rejoice at seeing each other, thank and praise the Lord,
+    return home expecting God's promise, and later become parents of a daughter named
+    Mary.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Angelic annunciation of a promised child
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: An angel announces that Anna will bear a daughter named Mary, blessed above
+    all women and full of grace, and the announced birth is later fulfilled.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: The supplied excerpt does not itself include a fuller infertility or conception
+    background; the motif identification rests on the angelic promise and fulfillment
+    within this passage.
+- id: motif:2
+  label: Virgin birth of the Lord and Saviour foretold
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Mary is described as never knowing man, yet destined as a virgin to bring
+    forth the Lord, the Saviour of the world.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This passage gives the prophecy, not the later birth narrative itself.
+- id: motif:3
+  label: Child dedicated to temple purity and service
+  taxonomy_refs: []
+  basis: Mary is to be devoted to the service of the Lord in the temple, serve night
+    and day with fasting and prayer, abstain from unclean things, and remain virginal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a mapped taxonomy motif from
+    the supplied list.
+- id: motif:4
+  label: Confirming sign at a named threshold
+  taxonomy_refs: []
+  basis: 'The angel gives Anna a sign: at Jerusalem''s golden gate she will meet her
+    husband; the meeting occurs at the predicted place.'
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage explicitly calls the event a sign, but broader symbolic interpretation
+    of the gate is not supplied by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter III.1 within lines 455-539
+  quote_or_summary: The angel appears to Anna and tells her not to fear or think the
+    apparition is a spirit.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: Chapter III.2 within lines 455-539
+  quote_or_summary: The angel says he has offered Anna's prayers and alms before God
+    and has been sent to tell her that a daughter named Mary will be born and blessed
+    above all women.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: Chapter III.3 within lines 455-539
+  quote_or_summary: Mary is described as full of the Lord's grace from birth, remaining
+    three years in her father's house during weaning, and then being devoted to the
+    Lord's service in the temple.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: Chapter III.4 within lines 455-539
+  quote_or_summary: Mary is to serve the Lord night and day in fasting and prayer,
+    abstain from every unclean thing, and never know any man.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: Chapter III.5 within lines 455-539
+  quote_or_summary: Mary, described as a virgin not knowing any man, is foretold to
+    bring forth a son, the Lord, whose grace, name, and works make him the Saviour
+    of the world.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: Chapter III.6-7 within lines 455-539
+  quote_or_summary: Anna is told to go to Jerusalem to the golden gate, where meeting
+    her husband will be a sign confirming the angel's message.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: Chapter III.8 within lines 455-539
+  quote_or_summary: Following the angel's command, both leave their places and meet
+    at the place specified in the angel's prediction.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: Chapter III.9-10 within lines 455-539
+  quote_or_summary: Anna and Joachim rejoice at seeing each other, give thanks to
+    the Lord who exalts the humble, praise the Lord, return home, and live in expectation
+    of God's promise.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: Chapter III.11 within lines 455-539
+  quote_or_summary: Anna conceives and bears a daughter, and the parents name her
+    Mary according to the angel's command.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif candidates
+    use only the supplied taxonomy where applicable. No comparison claims were made
+    because the passage does not itself compare traditions or texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l455-l539
+  passage_sha256=33639f0464b877ef8ffb228b367cc1c36999120995c250be1b5f97e734c25726
+

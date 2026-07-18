@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8793-l8824
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: INTRODUCTION / PERSONS IN THE STORY / MORTALS / IMMORTALS; lines 8793-8824
+  start: '8793'
+  end: '8824'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a dramatis personae list dividing figures into mortals and
+    immortals. It names rulers of Connaught, their daughter, Fraech/Froech with mixed
+    Connaught and fairy parentage, an Ulster champion, captive Irish women, followers,
+    Fraech's fairy mother, the Queen of the Fairies, and fairy harpers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a list of persons in the story divided under the headings
+    MORTALS and IMMORTALS.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ailill is identified as King of Connaught, Medb as Queen of Connaught, and
+    Findbar as their daughter.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Froech/Fraech is listed among mortals and described as the son of a Connaught
+    man and a fairy mother.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Conall Cernach is identified as champion of Ulster.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Two Irish women are described as being in captivity in the Alps north of Lombardy.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Lothar is identified as a follower of Fraech, and Bicne as a follower of Conall.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Befind is listed among immortals and identified as Fraech's fairy mother.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Boand is listed among immortals, identified as Befind's sister, and called
+    Queen of the Fairies.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Three fairy harpers are listed among the immortals.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ailill
+  description: King of Connaught, listed among the mortals.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Medb / Maev
+  description: Queen of Connaught, listed among the mortals.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Findbar / Finnabar
+  description: Daughter of Ailill and Medb, listed among the mortals.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Froech / Fraech
+  description: Listed among the mortals; son of a Connaught man and a fairy mother.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Conall Cernach / Conall the Victorious
+  description: Champion of Ulster, listed among the mortals.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:6
+  name_or_label: Two Irish women
+  description: Two Irish women in captivity in the Alps north of Lombardy, listed
+    among the mortals.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:7
+  name_or_label: Lothar / Lothur
+  description: Follower of Fraech, listed among the mortals.
+  role_refs:
+  - role:1
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:8
+  name_or_label: Bicne
+  description: Follower of Conall, listed among the mortals.
+  role_refs:
+  - role:1
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:9
+  name_or_label: Befind
+  description: Fraech's fairy mother, listed among the immortals.
+  role_refs:
+  - role:2
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:10
+  name_or_label: Boand
+  description: Sister to Befind and Queen of the Fairies, listed among the immortals.
+  role_refs:
+  - role:2
+  - role:11
+  - role:12
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:11
+  name_or_label: Three fairy harpers
+  description: Three fairy harpers, listed among the immortals.
+  role_refs:
+  - role:2
+  - role:13
+  evidence_refs:
+  - ev:1
+  - ev:9
+roles:
+- id: role:1
+  label: mortal figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: These figures appear under the MORTALS heading.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: immortal figure
+  assigned_to:
+  - fig:9
+  - fig:10
+  - fig:11
+  basis: These figures appear under the IMMORTALS heading.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: King of Connaught
+  assigned_to:
+  - fig:1
+  basis: Ailill is identified as King of Connaught.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Queen of Connaught
+  assigned_to:
+  - fig:2
+  basis: Medb is identified as Queen of Connaught.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: daughter of Ailill and Medb
+  assigned_to:
+  - fig:3
+  basis: Findbar is described as their daughter after Ailill and Medb are named.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: mortal son of a fairy mother
+  assigned_to:
+  - fig:4
+  basis: Froech/Fraech is listed among mortals and described as son of a Connaught
+    man and a fairy mother.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: champion of Ulster
+  assigned_to:
+  - fig:5
+  basis: Conall Cernach is identified as champion of Ulster.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: captive Irish women
+  assigned_to:
+  - fig:6
+  basis: The two Irish women are described as being in captivity in the Alps north
+    of Lombardy.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: follower
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Lothar is a follower of Fraech, and Bicne is a follower of Conall.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: fairy mother of Fraech
+  assigned_to:
+  - fig:9
+  basis: Befind is identified as Fraech's fairy mother.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: Queen of the Fairies
+  assigned_to:
+  - fig:10
+  basis: Boand is identified as Queen of the Fairies.
+  evidence_refs:
+  - ev:8
+- id: role:12
+  label: sister of Befind
+  assigned_to:
+  - fig:10
+  basis: Boand is described as sister to Befind.
+  evidence_refs:
+  - ev:8
+- id: role:13
+  label: fairy harpers
+  assigned_to:
+  - fig:11
+  basis: The three figures are identified as fairy harpers.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Alps
+  literal_form: Alps, north of Lombardy
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: mortal figure with fairy or immortal parentage
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Froech/Fraech is listed as mortal while described as son of a Connaught man
+    and a fairy mother; Befind, his fairy mother, is listed among the immortals.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage says fairy and immortal, not deity; the taxonomy reference
+    is therefore a cautious fit rather than an exact equivalence.
+- id: motif:2
+  label: captivity in a distant mountain region
+  taxonomy_refs: []
+  basis: Two Irish women are identified as being in captivity in the Alps north of
+    Lombardy.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is only a cast-list note; the passage gives no narrative action,
+    captor, rescue episode, or symbolic explanation.
+- id: motif:3
+  label: sister relationship among fairy immortals
+  taxonomy_refs:
+  - sibling_pair
+  basis: Boand is identified as sister to Befind, and both are placed within the immortal/fairy
+    category.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The passage establishes sibling relationship but does not present a sibling-pair
+    episode or shared action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8793-8824
+  quote_or_summary: The passage is headed PERSONS IN THE STORY and divides the named
+    figures into MORTALS and IMMORTALS.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: MORTALS section, lines 8793-8824
+  quote_or_summary: Ailill is King of Connaught; Medb/Maev is Queen of Connaught;
+    Findbar/Finnabar is their daughter.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: MORTALS section, lines 8793-8824
+  quote_or_summary: Froech/Fraech is described as son of a Connaught man and a fairy
+    mother.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: MORTALS section, lines 8793-8824
+  quote_or_summary: Conall Cernach, also called Conall the Victorious, is identified
+    as champion of Ulster.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: MORTALS section, lines 8793-8824
+  quote_or_summary: Two Irish women are described as being in captivity in the Alps,
+    north of Lombardy.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: MORTALS section, lines 8793-8824
+  quote_or_summary: Lothar/Lothur is a follower of Fraech, and Bicne is a follower
+    of Conall.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: IMMORTALS section, lines 8793-8824
+  quote_or_summary: Befind is identified as Fraech's fairy mother and appears under
+    the IMMORTALS heading.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: IMMORTALS section, lines 8793-8824
+  quote_or_summary: Boand is identified as sister to Befind and Queen of the Fairies.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: IMMORTALS section, lines 8793-8824
+  quote_or_summary: Three fairy harpers are listed among the immortals.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Named figures and relationships are explicit in the cast list. Motif candidates
+    are limited because the passage is not a narrative scene and gives no developed
+    action. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage is a character list rather than a narrative episode; scenes and comparison claims are therefore left empty.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8793-l8824
+  passage_sha256=ba788fac031b2ddf5a57b72a70f6468cddb8c9219e1679b5a23d5ee12d0361ed
+

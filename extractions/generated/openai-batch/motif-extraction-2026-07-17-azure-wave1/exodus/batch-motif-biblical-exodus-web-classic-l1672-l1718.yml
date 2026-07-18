@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.biblical-exodus-web-classic-l1672-l1718
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Footnotes / Chapter 26 / Footnotes / Chapter 27; lines 1672-1718
+  start: '1672'
+  end: '1718'
+  translation: Exodus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes a footnote defining the cubit, then gives second-person
+    instructions for constructing the altar and court of the tabernacle and for maintaining
+    a continual lamp with oil in the Tent of Meeting before Yahweh and before the
+    covenant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote defines a cubit as the length from the tip of the middle finger
+    to the elbow on a man's arm, about 18 inches or 46 centimeters.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The altar is specified as acacia wood, square, five cubits long and wide,
+    and three cubits high.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The altar has horns on its four corners, made of one piece with it, and is
+    overlaid with bronze.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bronze altar vessels include pots for ashes, shovels, basins, meat hooks,
+    and fire pans.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The altar is equipped with a bronze network grating, bronze rings, and acacia-wood
+    poles overlaid with bronze for carrying.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The altar is to be hollow with planks and made according to what has been
+    shown to the addressee on the mountain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The court of the tabernacle is described with fine twined linen hangings,
+    bronze sockets, silver hooks and fillets, fixed dimensions, and an embroidered
+    gate screen of blue, purple, scarlet, and fine twined linen.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The instruments of the tabernacle and the pins of the tabernacle and court
+    are to be bronze.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The children of Israel are commanded to bring pure beaten olive oil for the
+    light, so that a lamp burns continually.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Aaron and his sons are to keep the lamp in order from evening to morning in
+    the Tent of Meeting, outside the veil before the covenant, before Yahweh, as a
+    perpetual statute for Israel's generations.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Unnamed second-person addressee
+  description: The directly addressed recipient of the instructions, told to make
+    the altar and court, command the children of Israel, and follow what was shown
+    on the mountain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Children of Israel
+  description: The group commanded to bring pure beaten olive oil for the light.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Aaron and his sons
+  description: The persons assigned to keep the lamp in order from evening to morning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Yahweh
+  description: The deity before whom the lamp is kept in order.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: commanded recipient and implementer
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly uses second-person commands to make the altar and
+    court, to command the children of Israel, and to use a mountain-shown pattern.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: lamp custodians
+  assigned_to:
+  - fig:3
+  basis: Aaron and his sons are instructed to keep the lamp in order from evening
+    to morning.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: oil providers
+  assigned_to:
+  - fig:2
+  basis: The children of Israel are commanded to bring pure beaten olive oil for the
+    light.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: deity before whom service is performed
+  assigned_to:
+  - fig:4
+  basis: The lamp is kept in order before Yahweh.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bronze-overlaid acacia altar
+  literal_form: A square altar of acacia wood overlaid with bronze, with specified
+    dimensions.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: altar horns at four corners
+  literal_form: Horns made on the four corners of the altar, of one piece with it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bronze fire and ash implements
+  literal_form: Bronze pots for ashes, shovels, basins, meat hooks, and fire pans.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mountain-shown pattern
+  literal_form: The mountain where the addressee was shown how the altar should be
+    made.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: tabernacle court boundary and gate
+  literal_form: Fine linen hangings, pillars, sockets, and an embroidered gate screen
+    enclosing the court.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: continual lamp and olive oil
+  literal_form: Pure beaten olive oil for a light, causing a lamp to burn continually.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: veil before the covenant
+  literal_form: The veil in the Tent of Meeting, outside of which the lamp is kept,
+    before the covenant.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Altar construction and transport instructions
+  summary: The addressee is instructed to make a bronze-overlaid acacia altar with
+    horns, vessels, grating, rings, and poles, and to follow the pattern shown on
+    the mountain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Tabernacle court construction instructions
+  summary: The addressee is instructed to make the court of the tabernacle with linen
+    hangings, pillars, sockets, metal fittings, and a colored embroidered gate screen.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Continual lamp maintenance
+  summary: The children of Israel are to bring olive oil for the lamp, and Aaron and
+    his sons are to keep it in order from evening to morning before Yahweh in the
+    Tent of Meeting, outside the veil before the covenant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacrificial altar apparatus
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes an altar with ash-removal vessels, meat hooks, fire
+    pans, grating, and carrying equipment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes equipment but does not narrate an actual sacrifice.
+- id: motif:2
+  label: covenant-centered ritual service
+  taxonomy_refs:
+  - covenant
+  basis: The lamp service is located in the Tent of Meeting outside the veil before
+    the covenant and before Yahweh, and is described as a perpetual statute for Israel's
+    generations.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage is procedural instruction, not a covenant-making narrative.
+- id: motif:3
+  label: mountain-revealed ritual pattern
+  taxonomy_refs: []
+  basis: The altar is to be made as it was shown to the addressee on the mountain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The mountain reference is brief and does not describe the revelation event
+    within this passage.
+- id: motif:4
+  label: continual sacred light
+  taxonomy_refs: []
+  basis: Pure beaten olive oil is required so that a lamp burns continually, with
+    Aaron and his sons keeping it in order from evening to morning before Yahweh.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No broader interpretation of the lamp is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26:2 footnote / lines 1672-1674
+  quote_or_summary: A cubit is defined as the length from fingertip to elbow, about
+    18 inches or 46 centimeters.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain WEB Classic passage supplied with full-text allowed metadata.
+- id: ev:2
+  type: summary
+  locator: Exodus 27:1-3 / lines 1678-1682
+  quote_or_summary: Instructions describe a square acacia-wood altar overlaid with
+    bronze, with horns on four corners and bronze vessels including ash pots, shovels,
+    basins, meat hooks, and fire pans.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain WEB Classic passage supplied with full-text allowed metadata.
+- id: ev:3
+  type: summary
+  locator: Exodus 27:4-8 / lines 1684-1692
+  quote_or_summary: Instructions add a bronze network grating, rings, bronze-overlaid
+    poles for carrying, a hollow plank form, and the note that the altar is to be
+    made as shown on the mountain.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain WEB Classic passage supplied with full-text allowed metadata.
+- id: ev:4
+  type: summary
+  locator: Exodus 27:9-18 / lines 1694-1712
+  quote_or_summary: Instructions specify the tabernacle court's linen hangings, pillars,
+    bronze sockets, silver hooks and fillets, dimensions, and embroidered gate screen
+    of blue, purple, scarlet, and fine twined linen.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain WEB Classic passage supplied with full-text allowed metadata.
+- id: ev:5
+  type: summary
+  locator: Exodus 27:19 / line 1714
+  quote_or_summary: All instruments of the tabernacle service and all pins of the
+    tabernacle and court are to be bronze.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain WEB Classic passage supplied with full-text allowed metadata.
+- id: ev:6
+  type: summary
+  locator: Exodus 27:20 / line 1716
+  quote_or_summary: The children of Israel are to bring pure beaten olive oil for
+    the light, to cause a lamp to burn continually.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain WEB Classic passage supplied with full-text allowed metadata.
+- id: ev:7
+  type: summary
+  locator: Exodus 27:21 / line 1718
+  quote_or_summary: In the Tent of Meeting, outside the veil before the covenant,
+    Aaron and his sons keep the lamp in order from evening to morning before Yahweh
+    as a perpetual statute for Israel's generations.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public-domain WEB Classic passage supplied with full-text allowed metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The material details and figures are explicit. Motif labeling is cautious
+    because the passage is mostly technical instruction and contains few interpretive
+    statements. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The line range includes a cubit footnote and Exodus 27:1-21.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-exodus-web-classic__l1672-l1718
+  passage_sha256=3c6d9fcaf5b86c9d80122b0c41bbd9c890d987ecb4a6f5e27371fda07b04b72f
+

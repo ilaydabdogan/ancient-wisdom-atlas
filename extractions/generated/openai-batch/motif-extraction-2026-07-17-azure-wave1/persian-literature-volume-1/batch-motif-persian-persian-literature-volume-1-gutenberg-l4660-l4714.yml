@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l4660-l4714
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: GARSHSP / KAI-KOBD / KAI-KS / THE SEVEN LABORS OF RUSTEM; lines 4660-4714
+  start: '4660'
+  end: '4714'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Ks defeats the King of Hmvern, seeks marriage with the king’s daughter
+    Sdveh, and marries her after her father reluctantly agrees. The King of Hmvern
+    later invites Ks as a guest despite Sdveh’s warning, entertains him for seven
+    days, then has soldiers seize Ks and his warriors and imprison them in a remote
+    fortress on a high mountain. Sdveh refuses separation from her husband and is
+    sent to the same dungeon. The passage closes with a reflection on worldly fickleness
+    and treachery among kin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ks directs his forces against the King of Hmvern and overpowers him after
+    resistance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the battle, Ks is told that the Shh has a daughter named Sdveh who is
+    described as very beautiful.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ks sends a messenger offering himself as Sdveh’s husband.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sdveh’s father says his daughter and property are the two valuable things
+    in his life, but he cannot oppose the wishes of his powerful conqueror.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sdveh consents to the marriage proposal, and within a week she is sent with
+    soldiers, a large cavalcade, and female attendants.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ks admires Sdveh when she descends from her litter, and the marriage rites
+    are performed without delay.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Shh of Hmvern plots to regain Sdveh and be revenged upon Ks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Sdveh warns Ks not to trust her father’s invitation, which she understands
+    as treacherous.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Ks accepts the invitation and goes with his bride and famous warriors to the
+    city, where they are lavishly entertained for seven days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: On the night after the seven days of feasting, trumpets and a war-cry are
+    heard and soldiers enter the scene.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Ks and his principal warriors are seized and carried to a remote fortress
+    on a high mountain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The captives are guarded by a thousand valiant men, while Ks’s tents are plundered
+    and his treasure taken.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: Sdveh is inconsolable, refuses her father’s entreaties, and declares that
+    she prefers death to separation from her husband.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Sdveh is conveyed to the same dungeon as the captive king.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:15
+  text: The closing reflection states that worldly friendship, pleasure, and blood
+    ties do not stop human passion and treachery.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ks
+  description: A king who defeats the King of Hmvern, marries Sdveh, accepts a dangerous
+    invitation, and is later imprisoned.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Shh or King of Hmvern
+  description: Defeated ruler and Sdveh’s father; he reluctantly gives his daughter
+    in marriage, then plots to regain her and revenge himself on Ks.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sdveh
+  description: Daughter of the Shh of Hmvern; she consents to marry Ks, warns him
+    against her father’s invitation, and chooses imprisonment rather than separation
+    from her husband.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Messenger
+  description: The intermediary through whom Ks offers marriage to Sdveh.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ks’s famous or principal warriors
+  description: Warriors who accompany Ks to Hmvern and are seized and imprisoned with
+    him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Soldiers and guards of Hmvern
+  description: Soldiers who intrude after the banquet and seize Ks and his warriors;
+    the captives are guarded by a thousand valiant men.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: conquering king
+  assigned_to:
+  - fig:1
+  basis: Ks overpowers the King of Hmvern and is described as a king of great power.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: defeated ruler
+  assigned_to:
+  - fig:2
+  basis: The King of Hmvern resists Ks but is overpowered and asks for quarter.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: treacherous host and father-in-law
+  assigned_to:
+  - fig:2
+  basis: He invites Ks as a guest while plotting to regain Sdveh and take revenge,
+    then has Ks seized after hospitality.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: bride and daughter
+  assigned_to:
+  - fig:3
+  basis: Sdveh is the Shh’s daughter and is sent to Ks as a bride.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: captives
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Ks and his principal warriors are seized and imprisoned in a remote mountain
+    fortress.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: warning and loyal wife
+  assigned_to:
+  - fig:3
+  basis: Sdveh warns Ks against the invitation and later declares she prefers death
+    to separation from him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: marriage envoy
+  assigned_to:
+  - fig:4
+  basis: The messenger carries Ks’s marriage offer to Sdveh’s father.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: captors and guards
+  assigned_to:
+  - fig:6
+  basis: Soldiers seize Ks and his warriors, and the captives are guarded by a thousand
+    valiant men.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: high mountain fortress
+  literal_form: A remote fortress situated on a high mountain where Ks and his warriors
+    are imprisoned.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: bridal cavalcade
+  literal_form: A procession including soldiers, a thousand horses and mules, a thousand
+    camels, and numerous female attendants accompanying Sdveh.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seven-day banquet
+  literal_form: Seven days of sumptuous entertainment, magnificence, and hilarity
+    before the seizure of Ks.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dungeon
+  literal_form: The place where Sdveh is sent to join the captive king after refusing
+    separation.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Defeat of Hmvern and marriage proposal
+  summary: Ks defeats the King of Hmvern, hears of Sdveh’s beauty, and sends a messenger
+    to offer marriage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sdveh’s bridal arrival and marriage
+  summary: Sdveh consents, travels with a rich escort, and is married to Ks according
+    to the laws of the country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Treachery planned under hospitality
+  summary: The Shh of Hmvern plots to regain Sdveh and revenge himself; Sdveh warns
+    Ks, but Ks accepts the invitation and is entertained for seven days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Seizure after the feast
+  summary: After seven days, trumpets and a war-cry signal the entrance of soldiers;
+    Ks and his principal warriors are seized, imprisoned in a remote high mountain
+    fortress, and deprived of treasure.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Sdveh joins the captive king
+  summary: Sdveh refuses to be separated from her husband, declares a preference for
+    death, and is sent to the same dungeon; the passage reflects on treachery and
+    the instability of worldly ties.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: marriage alliance following conquest
+  taxonomy_refs: []
+  basis: The defeated ruler gives his daughter in marriage to the conquering king
+    after acknowledging he cannot oppose him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents political pressure and marriage, but does not explicitly
+    describe the marriage as sacred or as conferring legitimacy.
+- id: motif:2
+  label: treacherous hospitality and feast-trap
+  taxonomy_refs: []
+  basis: The father-in-law invites Ks as a guest, entertains him lavishly for seven
+    days, and then has him seized by soldiers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives no external comparison; the motif label is descriptive
+    of the episode only.
+- id: motif:3
+  label: ignored warning before danger
+  taxonomy_refs: []
+  basis: Sdveh warns Ks not to trust the invitation, but he accepts it and is later
+    captured.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state that the warning is prophetic, only that Sdveh
+    apprehends mischief and disaster.
+- id: motif:4
+  label: captivity in a remote mountain stronghold
+  taxonomy_refs: []
+  basis: Ks and his principal warriors are taken to a remote fortress situated on
+    a high mountain and guarded there.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The mountain is a literal setting; no explicit cosmological meaning is
+    stated in the passage.
+- id: motif:5
+  label: loyal spouse choosing captivity
+  taxonomy_refs: []
+  basis: Sdveh refuses separation from Ks, says she prefers death, and is sent to
+    the same dungeon.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage emphasizes conjugal loyalty, but does not frame it as a ritual
+    or divine test.
+- id: motif:6
+  label: father attempts to reclaim married daughter
+  taxonomy_refs: []
+  basis: The Shh of Hmvern plots to regain possession of Sdveh after she has been
+    married to Ks.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage uses language of regaining possession, but the daughter herself
+    remains loyal to her husband; this is not enough to assign a more specific stolen-beloved
+    taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4660-4668
+  quote_or_summary: Ks leaves Rustem’s principality to fight the King of Hmvern and
+    allied or hostile rulers; the King of Hmvern resists but is overpowered and asks
+    for quarter.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4668-4695
+  quote_or_summary: Ks hears of Sdveh’s beauty, sends a marriage proposal, receives
+    reluctant consent from her father and willing consent from Sdveh, and marries
+    her after her lavish escort arrives.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4696-4705
+  quote_or_summary: The Shh of Hmvern plots to regain Sdveh and avenge himself; he
+    invites Ks as a guest, Sdveh warns against treachery, and Ks nevertheless attends
+    with his bride and warriors for seven days of sumptuous feasting.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4705-4710
+  quote_or_summary: After the feasting, trumpets and a war-cry are heard; soldiers
+    seize Ks and his principal warriors, carry them to a remote high mountain fortress
+    guarded by a thousand men, and plunder his tents and treasure.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4710-4714
+  quote_or_summary: Sdveh is inconsolable, rejects her father’s entreaties, says she
+    prefers death to separation from her husband, and is conveyed to the same dungeon.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: '4714'
+  quote_or_summary: "“Treachery still laughs at kindred”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the supplied passage. Motif candidates are
+    descriptive and mostly not mapped to supplied motif-family taxonomy because the
+    passage does not explicitly support those broader classifications. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names are retained in the form supplied by the passage text.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l4660-l4714
+  passage_sha256=b14bbd61eb819f955e88247c8e346694fb671245266b78c1fa300283cc43245e
+

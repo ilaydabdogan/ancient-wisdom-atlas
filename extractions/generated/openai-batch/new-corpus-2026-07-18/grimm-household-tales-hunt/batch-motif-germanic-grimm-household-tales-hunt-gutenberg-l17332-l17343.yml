@@ -1,0 +1,174 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l17332-l17343
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 17332-17343
+  start: '17332'
+  end: '17343'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three brothers live together in one house, practice their trades successfully,
+    remain happy into old age, and after one dies the other two grieve, fall ill,
+    and die soon after; all three are buried in the same grave because of their cleverness
+    and mutual love.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The brothers are described as loving one another very much.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All three brothers stay together in the house and follow their trades.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The brothers earn a great deal of money because they have learned their trades
+    well and are clever.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: They live together happily until they grow old.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: After one brother falls sick and dies, the other two grieve intensely, fall
+    ill, and die soon after.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: All three brothers are laid in the same grave.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: the three brothers
+  description: A group of three brothers who live together, work at their trades,
+    love one another, and are buried together.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: brothers
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies them as brothers and says all three remain
+    together.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: skilled tradesmen
+  assigned_to:
+  - fig:1
+  basis: They follow trades they have learned well and earn much money.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: mutual mourners
+  assigned_to:
+  - fig:1
+  basis: When one brother dies, the other two grieve so strongly that they fall ill
+    and die soon after.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: same grave
+  literal_form: grave
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Shared life and work
+  summary: The three brothers remain together in one house, practice their trades
+    successfully, earn money, and live happily into old age.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Deaths and common burial
+  summary: One brother dies after illness; the other two grieve, become ill, die soon
+    after, and all three are placed in the same grave.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: brothers united in life and death
+  taxonomy_refs: []
+  basis: The passage emphasizes the brothers' lifelong co-residence, affection, shared
+    prosperity, nearly consecutive deaths, and burial in one grave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy includes sibling_pair, but the passage concerns
+    three brothers rather than a pair, so no taxonomy reference is assigned.
+- id: motif:2
+  label: death from grief after kin's death
+  taxonomy_refs: []
+  basis: After one brother dies, the remaining two grieve so severely that they also
+    become ill and die soon afterward.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a direct narrative sequence but does not frame the deaths
+    as supernatural.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17332-17337
+  quote_or_summary: The brothers love one another, stay together in the house, practice
+    their trades well, earn much money, and live happily until old age.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 17337-17343
+  quote_or_summary: One brother falls sick and dies; the other two grieve, fall ill,
+    die soon after, and all three are laid in the same grave because of their cleverness
+    and love.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    mapped to taxonomy because the passage concerns three brothers and a common grave
+    rather than a listed exact motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line, '125 The Devil and his Grandmother,' appears to be the next tale title and was not treated as part of the extracted scene.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l17332-l17343
+  passage_sha256=22af75229d53cba5187439c2a5606559c33f9da20875ff0be518e9059b01b7e0
+

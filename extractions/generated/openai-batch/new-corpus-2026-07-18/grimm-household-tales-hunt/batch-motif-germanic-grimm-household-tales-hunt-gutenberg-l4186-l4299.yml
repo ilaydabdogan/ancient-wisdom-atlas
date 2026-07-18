@@ -1,0 +1,555 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l4186-l4299
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 4186-4299
+  start: '4186'
+  end: '4299'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Little Red-Cap meets a wolf in the wood while carrying cake and wine to
+    her sick grandmother. The wolf learns the grandmother’s location, diverts Red-Cap
+    from the path with flowers and birds, reaches the house first, devours the grandmother,
+    and impersonates her in bed. Red-Cap arrives, questions the disguised wolf’s strange
+    features, and is swallowed. A huntsman finds the sleeping wolf, cuts open its
+    stomach, releases Red-Cap and the grandmother alive, and the wolf dies after stones
+    are placed in its body. The grandmother revives, and Red-Cap resolves not to leave
+    the path again when forbidden by her mother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The grandmother lives in the wood, about half a league from the village.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Little Red-Cap enters the wood, meets a wolf, does not know he is wicked,
+    and is not afraid of him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Little Red-Cap carries cake and wine for her sick grandmother.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Little Red-Cap says the grandmother’s house stands under three large oak-trees,
+    with nut-trees below.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wolf thinks that he wants to eat both Little Red-Cap and the old woman
+    and decides to act craftily.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wolf draws Little Red-Cap’s attention to flowers and birds; she leaves
+    the path to pick flowers and goes deeper into the wood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wolf reaches the grandmother’s house first, pretends to be Little Red-Cap,
+    and is admitted.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wolf devours the grandmother, puts on her clothes and cap, lies in her
+    bed, and draws the curtains.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Little Red-Cap finds the cottage door open, feels uneasy, and sees what appears
+    to be her grandmother looking strange in bed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Little Red-Cap asks about the figure’s large ears, eyes, hands, and mouth;
+    the final answer says the mouth is for eating her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The wolf leaps from the bed and swallows Little Red-Cap.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A huntsman hears loud snoring, enters the house, finds the wolf in the bed,
+    and chooses to cut open the sleeping wolf rather than shoot him.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Little Red-Cap and the grandmother come out of the wolf alive after the huntsman
+    cuts open its stomach.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: Little Red-Cap fetches great stones, the wolf’s body is filled with them,
+    and the wolf dies when he tries to run away.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:15
+  text: Afterward the huntsman takes the wolf’s skin, the grandmother eats and drinks
+    the provisions and revives, and Little Red-Cap vows not to leave the path alone
+    when her mother has forbidden it.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Little Red-Cap
+  description: A young girl carrying cake and wine to her sick grandmother; she leaves
+    the path, is swallowed by the wolf, is rescued alive, and resolves not to leave
+    the path again when forbidden.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Wolf
+  description: A talking wolf described as wicked and crafty; he diverts Little Red-Cap,
+    devours the grandmother, impersonates her, swallows Little Red-Cap, and dies after
+    stones are placed in his body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Grandmother
+  description: A sick aged woman living in the wood; she is devoured by the wolf,
+    later comes out alive, and revives after eating cake and drinking wine.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Huntsman
+  description: A passerby who hears snoring, finds the wolf, cuts open the wolf’s
+    stomach, releases Little Red-Cap and the grandmother, and takes the wolf’s skin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Mother
+  description: An offstage mother whose prohibition against Little Red-Cap leaving
+    the path is recalled at the end.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: child errand-bearer
+  assigned_to:
+  - fig:1
+  basis: Little Red-Cap is going to her grandmother’s and carries cake and wine for
+    her.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deceiver-predator
+  assigned_to:
+  - fig:2
+  basis: The wolf plans to catch both victims, distracts Little Red-Cap, impersonates
+    her and the grandmother, and swallows both grandmother and child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: sick elder recipient and victim
+  assigned_to:
+  - fig:3
+  basis: The grandmother is sick and weak, is meant to receive food and drink, and
+    is devoured by the wolf.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: rescuer and punisher
+  assigned_to:
+  - fig:4
+  basis: The huntsman finds the wolf, cuts him open instead of shooting, and thereby
+    releases Little Red-Cap and the grandmother.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: surviving swallowed victim
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Little Red-Cap and the grandmother emerge alive from the wolf after his stomach
+    is cut open.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: forbidding parent
+  assigned_to:
+  - fig:5
+  basis: Little Red-Cap recalls that her mother had forbidden her to leave the path
+    and run into the wood.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Wood
+  literal_form: the wood where the grandmother lives and where Little Red-Cap meets
+    the wolf
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Path
+  literal_form: the path Little Red-Cap leaves and later vows not to leave alone
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:3
+  label: Oak-trees and nut-trees
+  literal_form: three large oak-trees with nut-trees below the grandmother’s house
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Cake and wine
+  literal_form: cake and wine carried in Little Red-Cap’s apron for the sick grandmother
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:5
+  label: Flowers and nosegay
+  literal_form: flowers that Little Red-Cap gathers after the wolf points them out
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Bedside disguise
+  literal_form: grandmother’s clothes, cap, bed, and curtains used by the wolf
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: Wolf’s stomach as dark enclosure
+  literal_form: the wolf’s stomach, described by Little Red-Cap as dark inside
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Stones in the wolf’s body
+  literal_form: great stones used to fill the wolf’s body before he dies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: Wolf skin
+  literal_form: the wolf’s skin drawn off and taken home by the huntsman
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Encounter and questioning in the wood
+  summary: Little Red-Cap meets the wolf in the wood and tells him that she is going
+    to her grandmother with cake and wine, also describing the location of the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Diversion from the path
+  summary: The wolf privately plans to catch both Little Red-Cap and the grandmother,
+    then distracts Little Red-Cap with flowers and birds until she runs from the path
+    into the wood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Attack and impersonation at the grandmother’s house
+  summary: The wolf reaches the house first, pretends to be Little Red-Cap, enters,
+    devours the grandmother, and disguises himself in her clothes and bed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Bedside questions and swallowing of Red-Cap
+  summary: Little Red-Cap enters the cottage, feels uneasy, questions the disguised
+    wolf’s strange features, and is swallowed after the wolf reveals his intent to
+    eat her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Huntsman’s rescue and wolf’s death
+  summary: The huntsman finds the sleeping wolf, cuts open his stomach with scissors,
+    releases Little Red-Cap and the grandmother alive, and the wolf dies after his
+    body is filled with stones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Aftermath and vow
+  summary: The huntsman takes the wolf’s skin, the grandmother revives with the cake
+    and wine, and Little Red-Cap resolves not to leave the path alone against her
+    mother’s command.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:9
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Predator diverts a child from the path
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolf acts craftily, draws Little Red-Cap’s attention to flowers and birds,
+    and she runs from the path into the wood; the final vow explicitly returns to
+    the rule about not leaving the path.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports deception and boundary-crossing
+    but does not name a formal motif category.
+- id: motif:2
+  label: Swallowed victims released alive from a monster’s body
+  taxonomy_refs:
+  - death_rebirth
+  basis: The huntsman cuts open the wolf’s stomach, after which Little Red-Cap and
+    the grandmother come out alive from the dark interior.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage says both victims are alive; it does not state that they died
+    and were resurrected, so the death_rebirth alignment is approximate.
+- id: motif:3
+  label: Impostor disguised as a relative in bed
+  taxonomy_refs: []
+  basis: After devouring the grandmother, the wolf puts on her clothes and cap, lies
+    in her bed, draws the curtains, and answers Little Red-Cap as if he were the grandmother.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference precisely covers disguise by clothing and
+    impersonation.
+- id: motif:4
+  label: Predator punished by stones placed in its body
+  taxonomy_refs: []
+  basis: Little Red-Cap fetches great stones, the wolf’s body is filled with them,
+    and their weight causes the wolf to fall down dead when he tries to run away.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this punitive device.
+comparison_claims:
+- id: claim:1
+  claim: The wolf’s crafty diversion of Little Red-Cap from the path supports a same-function
+    comparison with a trickster-boundary pattern.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a broad motif family only; it does
+    not imply historical contact or a specific external analogue.
+- id: claim:2
+  claim: The release of Little Red-Cap and the grandmother alive from inside the wolf
+    supports a cautious same-function comparison with death-and-return or rebirth-like
+    emergence patterns.
+  claim_level: same_function
+  target: death_rebirth motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not say the victims died, so the comparison is limited
+    to enclosure, cutting open, and living emergence rather than literal resurrection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4186-4189
+  quote_or_summary: The grandmother lives in the wood; Little Red-Cap enters the wood,
+    meets a wolf, and does not know he is wicked or fear him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4197-4208
+  quote_or_summary: Little Red-Cap says she is going to her grandmother, carrying
+    cake and wine for the sick grandmother, whose house is under three large oak-trees
+    with nut-trees below.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4210-4226
+  quote_or_summary: The wolf plans to eat Little Red-Cap and the old woman, acts craftily,
+    points out flowers and birds, and Little Red-Cap leaves the path to gather flowers,
+    going deeper into the wood.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4228-4242
+  quote_or_summary: The wolf runs to the grandmother’s house, pretends to be Little
+    Red-Cap, enters after being told to lift the latch, devours the grandmother, and
+    dresses in her clothes and cap before lying in bed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4244-4254
+  quote_or_summary: Little Red-Cap returns from picking flowers, goes to the cottage,
+    finds the door open, feels uneasy, receives no answer, and sees the grandmother’s
+    cap pulled over a strange-looking face in bed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 4256-4273
+  quote_or_summary: Little Red-Cap asks about the figure’s large ears, eyes, hands,
+    and mouth; after the answer that the mouth is to eat her, the wolf leaps from
+    bed and swallows her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 4275-4291
+  quote_or_summary: The huntsman hears snoring, finds the wolf in bed, cuts open the
+    sleeping wolf’s stomach with scissors, frees Little Red-Cap and the grandmother
+    alive, and the wolf dies after stones are placed inside his body.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 4293-4297
+  quote_or_summary: The huntsman takes the wolf’s skin; the grandmother eats the cake
+    and drinks the wine and revives; Little Red-Cap vows never to leave the path alone
+    into the wood when her mother has forbidden it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage supplies clear sequence, figures, and objects. Taxonomy alignments
+    are broad and should be checked by a human reviewer, especially death_rebirth
+    and trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction limited to the supplied public-domain passage and metadata; no external tale-type or motif-index identifiers were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l4186-l4299
+  passage_sha256=987365eb9768e38a2c6aa6efd1650ba2852b2812ee9fad426021dc98c2a2d0fa
+

@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l38436-l38573
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXX. Kabandha. / BOOK IV. / Canto V. The League. / Canto VI. The Tokens.;
+    lines 38436-38573
+  start: '38436'
+  end: '38573'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Sugriva recounts how Bali pursued the demon Mayavi into a cave, ordered
+    Sugriva to wait outside, and was presumed dead after blood flowed from the cavern.
+    Sugriva sealed the entrance and returned to Kishkindha, where he says the citizens
+    made him king against his will. Bali later emerged, accused Sugriva of betrayal,
+    banished him, and took his wife. Sugriva asks Rama for aid, and Rama promises
+    to kill Bali, free Sugriva's captive wife, and restore his kingdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sugriva says he obeyed Bali's order and stayed by the cave for a year.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sugriva says he saw blood rush from the cavern, sealed the entrance with a
+    stone or mountain crag, and returned to Kishkindha.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sugriva says citizens and lords saw his distress and made him king against
+    his will.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sugriva says he offered the kingdom back to Bali and supplicated him with
+    joined hands and bowed head.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bali recounts that Mayavi came by night to Kishkindha's gate, challenged him,
+    fled, and entered a cave.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Bali says he told Sugriva to remain at the cave mouth until he killed the
+    foe.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Bali says he searched for a year, killed Mayavi and the demon's kinsmen, and
+    that the monster's blood filled the cavern and colored the portal.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Bali says he found the cave closed, called Sugriva's name without reply, and
+    broke through the rock barrier.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Bali accused Sugriva of barring him in with rocks in order to win the realm
+    for himself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Bali left Sugriva a single robe, sent him into banishment, and took Sugriva's
+    wife from his side.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Sugriva says he roams in fear or dwells on Rishyamuka hill while grieving
+    for his consort.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Sugriva asks Rama to hear his prayer and restrain Bali, whom he fears and
+    calls his oppressor.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: Rama promises that his arrows will pierce Bali's heart, that he will free
+    Sugriva's captive wife, and that he will return the kingdom to Sugriva.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: After Rama speaks, Sugriva rejoices, and courage returns to him.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Sugriva
+  description: Brother of Bali; he says he kept watch at the cave, was made king against
+    his will, was banished, lost his wife, and asks Rama for assistance.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Bali
+  description: Sugriva addresses him as the rightful king; he pursues Mayavi into
+    the cave, later returns, accuses Sugriva, banishes him, and takes his wife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Mayavi
+  description: A demon or fiend who comes by night to Kishkindha's gate, challenges
+    Bali, flees into a cave, and is slain there by Bali.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Rama / Raghu's son
+  description: The good and brave son of Raghu who answers Sugriva and promises to
+    kill Bali, free Sugriva's captive wife, and restore his kingdom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Sugriva's wife or consort
+  description: Sugriva says she was torn from his side; Rama calls her Sugriva's captive
+    wife and promises to free her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: Citizens, lords, and subjects of Kishkindha
+  description: They see Sugriva's distress, make him king against his will, and later
+    gather when summoned by Bali.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: watching brother and petitioner
+  assigned_to:
+  - fig:1
+  basis: Sugriva says he kept watch at the cave in obedience and later asks Rama for
+    help against Bali.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: temporary guardian king and exile
+  assigned_to:
+  - fig:1
+  basis: Sugriva says the kingdom lay in his guardian hands, that he was made king
+    against his will, and that Bali later banished him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: returning king, demon-slayer, and accuser
+  assigned_to:
+  - fig:2
+  basis: Bali kills Mayavi in the cave, returns after the entrance is sealed, accuses
+    Sugriva of betrayal, and punishes him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: demonic challenger
+  assigned_to:
+  - fig:3
+  basis: Mayavi is described as a fiend and foe who challenges Bali, flees to a cave,
+    and is slain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: promised restorer and avenger
+  assigned_to:
+  - fig:4
+  basis: Rama promises to kill Bali, release Sugriva's wife, and give Sugriva back
+    his kingdom.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: seized captive wife
+  assigned_to:
+  - fig:5
+  basis: Sugriva says his wife was torn from his side, and Rama calls her captive
+    wife.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:7
+  label: kingmaking subjects
+  assigned_to:
+  - fig:6
+  basis: Sugriva says the citizens and lords made him king when the city lacked its
+    ruler.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: Dark cavern or cave where Mayavi flees, Bali enters, and Sugriva waits
+    at the mouth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: blood from the cavern
+  literal_form: A stream or crimson tide of blood rushing from the cavern and dyeing
+    the portal.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: stone or mountain crag barrier
+  literal_form: A stone or crag from a high mountain used to bar the cave entrance;
+    Bali later breaks through rock.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: royal shade and chouries
+  literal_form: Regal shade and chouries offered back to the rightful lord as royal
+    objects.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Rama's shafts
+  literal_form: Unfailing arrows or shafts promised to pierce Bali's heart.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Rishyamuka hill
+  literal_form: Hill where Sugriva says he dwells while fearing Bali and grieving
+    for his consort.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sugriva explains his return from the cave
+  summary: Sugriva tells Bali that he waited for a year, saw blood flowing from the
+    cave, sealed the entrance, returned to Kishkindha, and was made king against his
+    will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bali's public accusation
+  summary: Before assembled subjects, Bali recounts Mayavi's challenge, the pursuit
+    into the cave, his order that Sugriva wait, the killing of the demon, and his
+    discovery that the cave had been sealed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Banishment and loss of wife
+  summary: Bali rejects Sugriva's plea, sends him into exile with only one robe, takes
+    his wife, and Sugriva lives in fear on the land or at Rishyamuka hill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Rama's promise of restoration
+  summary: Sugriva asks Rama for help; Rama promises that his arrows will kill Bali
+    and that he will free Sugriva's wife and restore his kingdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: rival brothers and disputed kingship
+  taxonomy_refs:
+  - sibling_pair
+  - royal_legitimacy
+  basis: The conflict is between brothers; Sugriva says he held the kingdom unwillingly
+    as a trust, while Bali accuses him of sealing the cave to gain the realm and then
+    banishes him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives competing accounts by the brothers; it does not resolve
+    factual guilt within this excerpt.
+- id: motif:2
+  label: cave pursuit, blood sign, and blocked return
+  taxonomy_refs:
+  - hero_descent
+  basis: Bali pursues a demon into a dark cave, remains hidden for a year, kills the
+    demon, and returns to find the entrance sealed after blood from the cave led Sugriva
+    to depart.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a martial pursuit into a cavern, not an explicit
+    underworld or initiatory descent.
+- id: motif:3
+  label: stolen or captive beloved linked to restoration
+  taxonomy_refs:
+  - stolen_beloved
+  - royal_legitimacy
+  basis: Sugriva's wife is taken from him, and Rama promises both to free the captive
+    wife and return the kingdom.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage names the wife only by relationship, not by personal name.
+- id: motif:4
+  label: protective pledge of armed assistance
+  taxonomy_refs:
+  - covenant
+  basis: Sugriva asks Rama for aid against Bali, and Rama answers with a promise to
+    kill Bali and restore Sugriva's wife and kingdom.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The excerpt contains Rama's pledge but does not include a fully reciprocal
+    agreement in the quoted range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38436-38573, Sugriva's explanation of the cave watch
+  quote_or_summary: Sugriva says he kept watch by the cave for a year, saw blood rush
+    from the cavern, sealed the entrance with a stone or mountain crag, and returned
+    to Kishkindha.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 38436-38573, Sugriva's plea over kingship
+  quote_or_summary: Sugriva says citizens and lords made him king against his will;
+    he offers the kingdom back to Bali and supplicates him with joined hands and bowed
+    head.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 38436-38573, Bali's account before his subjects
+  quote_or_summary: Bali tells the assembled subjects that Mayavi came by night to
+    Kishkindha's gate, challenged him, fled into a cave, and that he ordered Sugriva
+    to remain at the cave mouth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 38436-38573, Bali's account of the cave and accusation
+  quote_or_summary: Bali says he searched for a year, killed Mayavi and his kinsmen,
+    saw the cavern filled with blood, found the cave closed, broke through rock, and
+    accused Sugriva of trapping him to gain the realm.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 38436-38573, Sugriva's banishment and exile
+  quote_or_summary: Bali leaves Sugriva a single robe, banishes him, takes his wife,
+    and Sugriva says he roams in fear or dwells on Rishyamuka hill while grieving
+    for his consort.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 38436-38573, Sugriva's request to Rama
+  quote_or_summary: Sugriva says the hate between the brothers arose without his fault
+    and asks Rama, whom he calls swift to save, to restrain Bali's arm.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 38436-38573, Rama's reply
+  quote_or_summary: Rama promises that his unfailing arrows will pierce wicked Bali's
+    heart, says he knows Sugriva's grief through equal suffering, and vows to free
+    the captive wife and give back the kingdom.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 38436-38573, closing response
+  quote_or_summary: Sugriva rejoices after Rama speaks; his eye brightens, his heart
+    grows bold, and he continues his tale.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain Griffith translation via Project Gutenberg; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly identifies figures, actions, and repeated objects. Motif
+    assignments are limited to supplied taxonomy terms and remain candidates; no external
+    comparisons were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction treats only the supplied line range and metadata as evidence; no external Ramayana context is used.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l38436-l38573
+  passage_sha256=18051b5918a414817eea2ba8d7e9989d144e60f6b1b825eec5007a76f99f14b8
+

@@ -1,0 +1,780 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l8148-l8267
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 8148-8267
+  start: '8148'
+  end: '8267'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Aladdin commands the genie to build a magnificent palace for his marriage
+    to the Sultan's daughter. The Sultan admires the palace, attempts unsuccessfully
+    to finish one jeweled window, and then sees it completed by Aladdin through the
+    genie. Aladdin gains public favor and military rank. In Africa, the magician learns
+    that Aladdin survived the cave and prospers through the lamp. He travels to China,
+    tricks the princess's household into exchanging the magic lamp for a new one,
+    and commands the genie to carry the palace and princess to Africa. The Sultan
+    finds the palace gone, accepts the vizir's explanation of enchantment, and orders
+    Aladdin brought in chains for execution.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Aladdin refuses to proceed without first building a palace suitable for the
+    princess and commands the genie to build it of marble, precious stones, gold,
+    silver, and jeweled windows, leaving one window unfinished.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The palace is finished by the next day, and the genie shows Aladdin that the
+    orders have been carried out, including a velvet carpet laid between Aladdin's
+    palace and the Sultan's palace.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aladdin's mother, slaves, musicians, and the princess participate in the wedding
+    procession, and Aladdin and the princess feast and dance after the wedding.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The Sultan enters the hall with twenty-four jeweled windows and asks whether
+    the unfinished window was left that way by accident.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Aladdin says the unfinished window was left for the Sultan to complete; the
+    Sultan's jewelers and his own jewels are insufficient, and the genie later finishes
+    the window at Aladdin's command.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The vizir hints that the completed palace window is the work of enchantment.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Aladdin wins the hearts of the people, is made captain of the Sultan's armies,
+    wins battles, and remains modest and courteous.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The African magician uses magic arts to discover that Aladdin escaped the
+    cave, married a princess, and lives in honor and wealth.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The magician infers that Aladdin's success depends on the lamp, travels to
+    China, sees the palace, and determines to obtain the lamp and ruin Aladdin.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: While Aladdin is away hunting, the magician offers new lamps for old, and
+    the princess unknowingly authorizes a slave to exchange the magic lamp for a new
+    one.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: At night the magician rubs the lamp; the genie appears and, at the magician's
+    command, carries the magician, the palace, and the princess to a lonely place
+    in Africa.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The Sultan sees that Aladdin's palace is gone, sends mounted men to fetch
+    Aladdin in chains, and orders the executioner to cut off Aladdin's head.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: The people who love Aladdin follow armed after he is seized, intending to
+    see that he comes to no harm.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Aladdin
+  description: A man who commands the genie to build a palace, marries the princess,
+    gains public favor and military office, and is later seized for execution after
+    the palace disappears.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:11
+- id: fig:2
+  name_or_label: Genie of the lamp
+  description: A supernatural servant who builds and completes the palace at Aladdin's
+    command and later transports the palace and princess at the magician's command.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: Sultan
+  description: The princess's father and ruler who admires the palace, tries to complete
+    its window, embraces Aladdin after the window is finished, and later orders Aladdin's
+    execution.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:11
+- id: fig:4
+  name_or_label: Princess
+  description: The Sultan's daughter who marries Aladdin, unknowingly permits the
+    exchange of the magic lamp, and is carried away inside the palace to Africa.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Aladdin's mother
+  description: She goes to the palace with slaves, is honored by the princess, and
+    accompanies the princess on the carpet to Aladdin's palace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: African magician
+  description: A magician far away in Africa who discovers Aladdin's prosperity, travels
+    to China, tricks the household into giving him the lamp, and commands the genie
+    to move the palace and princess to Africa.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Vizir
+  description: An envious counselor who attributes the palace marvels and later the
+    palace's disappearance to enchantment.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: fig:8
+  name_or_label: Slaves of the household
+  description: Attendants who accompany Aladdin's mother and the princess; some later
+    report the lamp-seller's offer and carry out the lamp exchange.
+  role_refs:
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:9
+  name_or_label: Jewelers
+  description: The Sultan's jewelers are commanded to finish the unfinished window
+    but report that they cannot find enough jewels.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: People and crowd
+  description: People praise the palace, jeer at the lamp-seller, love Aladdin, and
+    later follow armed when he is seized.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:11
+  name_or_label: Executioner
+  description: The executioner makes Aladdin kneel, blindfolds him, and raises a scimitar
+    to strike.
+  role_refs:
+  - role:13
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: Royal bridegroom and palace patron
+  assigned_to:
+  - fig:1
+  basis: Aladdin commissions the palace for the princess and marries her there.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Favored military servant of the Sultan
+  assigned_to:
+  - fig:1
+  basis: Aladdin is made captain of the Sultan's armies and wins battles for him.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: Supernatural builder and transporter
+  assigned_to:
+  - fig:2
+  basis: The genie builds and completes the palace and later carries the palace and
+    princess to Africa.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:10
+- id: role:4
+  label: Royal father and judge
+  assigned_to:
+  - fig:3
+  basis: The Sultan gives the princess in marriage, evaluates the palace, and later
+    orders Aladdin's punishment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:11
+- id: role:5
+  label: Royal bride and transported wife
+  assigned_to:
+  - fig:4
+  basis: The princess marries Aladdin and is later carried to Africa inside the palace.
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: role:6
+  label: Wedding attendants and kin escort
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: Aladdin's mother and the slaves accompany the princess during the wedding
+    movement between palaces.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: Deceptive antagonist
+  assigned_to:
+  - fig:6
+  basis: The magician seeks the lamp, obtains it through a false exchange, and commands
+    the palace's removal.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:8
+  label: Accuser and accused in royal punishment scene
+  assigned_to:
+  - fig:3
+  - fig:1
+  basis: The Sultan has Aladdin fetched in chains and orders his execution after the
+    palace disappears.
+  evidence_refs:
+  - ev:11
+- id: role:9
+  label: Envious interpreter of enchantment
+  assigned_to:
+  - fig:7
+  basis: The vizir hints that the palace marvel is enchantment and later explains
+    the disappearance the same way.
+  evidence_refs:
+  - ev:5
+  - ev:11
+- id: role:10
+  label: Unwitting agents of exchange
+  assigned_to:
+  - fig:4
+  - fig:8
+  basis: The princess, not knowing the lamp's value, orders a slave to exchange it
+    with the lamp-seller.
+  evidence_refs:
+  - ev:9
+- id: role:11
+  label: Insufficient artisans
+  assigned_to:
+  - fig:9
+  basis: The jewelers cannot find enough jewels to complete the unfinished window.
+  evidence_refs:
+  - ev:5
+- id: role:12
+  label: Public witnesses and supporters
+  assigned_to:
+  - fig:10
+  basis: The people discuss the palace, jeer at the lamp-seller, love Aladdin, and
+    follow armed after his arrest.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: role:13
+  label: Royal execution agent
+  assigned_to:
+  - fig:11
+  basis: The executioner prepares to behead Aladdin at the Sultan's order.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: Magic lamp
+  literal_form: An old lamp left on a cornice; it summons the genie when rubbed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+- id: sym:2
+  label: Marvelous palace
+  literal_form: A palace of finest marble, jasper, agate, precious stones, gold and
+    silver walls, jeweled lattices, stables, horses, grooms, and slaves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:10
+  - ev:11
+- id: sym:3
+  label: Unfinished window
+  literal_form: One window in the hall of twenty-four windows is intentionally left
+    unfinished and later completed by the genie.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Jewels of the palace
+  literal_form: Diamonds, rubies, emeralds, jasper, agate, and other precious stones
+    used in the palace and its windows.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Velvet carpet between palaces
+  literal_form: A velvet carpet laid from Aladdin's palace to the Sultan's palace
+    for the wedding movement.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: New lamps for old
+  literal_form: A dozen copper lamps in a basket offered in exchange for old lamps.
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:8
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Cave
+  literal_form: The cave from which the magician learns Aladdin had escaped rather
+    than perishing.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Chains and scimitar
+  literal_form: Chains placed on Aladdin and the executioner's raised scimitar.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Commissioning the palace
+  summary: Aladdin tells the genie to build an ornate palace for the princess, specifying
+    its materials, hall, dome, windows, stables, horses, grooms, and slaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Palace completed and wedding procession
+  summary: The genie completes the palace by the next day; Aladdin's mother and the
+    princess proceed with attendants over the carpet, and the wedding feast and dancing
+    follow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The unfinished window
+  summary: The Sultan marvels at the jeweled hall, asks about the unfinished window,
+    attempts to have it completed by jewelers, and sees it finished after Aladdin
+    commands the genie.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Aladdin's public rise
+  summary: Aladdin gains the people's affection, becomes captain of the Sultan's armies,
+    wins battles, and lives peacefully for several years.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Magician discovers Aladdin's survival
+  summary: The African magician uses magic to learn that Aladdin escaped the cave,
+    married the princess, and prospers through the lamp; he travels to China and investigates
+    the palace.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Deceptive lamp exchange
+  summary: During Aladdin's hunting absence, the magician offers new lamps for old,
+    and the princess's household unknowingly trades away the magic lamp.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:8
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Removal to Africa
+  summary: The magician rubs the lamp, summons the genie, and orders the genie to
+    transport the palace and the princess to a lonely place in Africa.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:10
+- id: scene:8
+  label: Aladdin condemned
+  summary: The Sultan sees the palace has vanished, accepts the vizir's explanation
+    of enchantment, has Aladdin brought in chains, and orders his execution while
+    the people follow armed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Supernatural construction of a palace
+  taxonomy_refs: []
+  basis: The genie completes an elaborate palace overnight according to Aladdin's
+    specifications.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family exactly names a genie-built palace.
+- id: motif:2
+  label: Impossible or excessive adornment completed by magic
+  taxonomy_refs: []
+  basis: The Sultan's jewelers and treasury cannot complete the unfinished jeweled
+    window, but the genie completes it at Aladdin's command.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a display of supernatural capacity rather
+    than an explicit formal test.
+- id: motif:3
+  label: Deceptive exchange of a magic object
+  taxonomy_refs: []
+  basis: The magician obtains the magic lamp by offering new lamps for old while the
+    princess does not know the old lamp's value.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage supports deception and exchange, but it does not describe
+    a ritual or sacred transaction.
+- id: motif:4
+  label: Stolen bride carried away with dwelling
+  taxonomy_refs:
+  - stolen_beloved
+  basis: After obtaining the lamp, the magician commands the genie to carry the palace
+    and the princess to Africa.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The beloved is transported with the palace rather than seized in a direct
+    physical abduction scene.
+- id: motif:5
+  label: Royal elevation through marriage, marvel, and service
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Aladdin marries the princess, owns a wonder-palace admired by the Sultan,
+    wins public affection, and becomes captain of the Sultan's armies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage shows royal favor and status but not succession to kingship.
+- id: motif:6
+  label: Wrongful condemnation after a magical disappearance
+  taxonomy_refs: []
+  basis: When the palace vanishes, the Sultan blames Aladdin, has him brought in chains,
+    and orders his execution.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The passage ends before the sentence is carried out or reversed.
+comparison_claims:
+- id: claim:1
+  claim: The removal of the princess by the antagonist after he gains control of the
+    lamp supports a same-motif comparison with the supplied stolen_beloved family.
+  claim_level: same_motif
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The scene involves magical relocation of the palace containing the
+    princess rather than a separately narrated capture of the beloved.
+- id: claim:2
+  claim: Aladdin's palace, marriage to the princess, public favor, and appointment
+    as captain support a same-function comparison with royal_legitimacy patterns of
+    status formation.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not show coronation, dynastic succession, or explicit
+    legal legitimization.
+- id: claim:3
+  claim: The lamp episode has the same function as a deceptive exchange or theft of
+    an empowered object, with possible comparison to exchange/theft motif families,
+    but the passage does not make the transaction sacred.
+  claim_level: same_function
+  target: deceptive exchange or theft of empowered object; possible relation to sacred_exchange
+    and sacred_theft families
+  evidence_refs:
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The available taxonomy labels include sacred elements that are not
+    explicit in the passage; the evidence supports deception, exchange, and loss of
+    the magic lamp.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8148-8267; opening palace-command passage
+  quote_or_summary: Aladdin says he must build a palace fit for the princess and commands
+    the genie to build it of marble, precious stones, gold, silver, and jeweled windows,
+    with one window left unfinished.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8148-8267; palace completion and procession passage
+  quote_or_summary: The palace is finished by the next day, and the genie has carried
+    out the orders, including the velvet carpet from Aladdin's palace to the Sultan's.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8148-8267; wedding passage
+  quote_or_summary: The princess goes to Aladdin's palace with Aladdin's mother and
+    slaves, sees Aladdin, consents to obey her father, marries him, feasts, and dances
+    with him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8148-8267; Sultan visits the hall
+  quote_or_summary: The Sultan enters the hall with twenty-four jeweled windows, calls
+    it a wonder, and asks why one window was left unfinished.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8148-8267; completion of the window
+  quote_or_summary: The jewelers cannot find enough jewels, the Sultan's jewels are
+    insufficient, Aladdin has their work undone, and the genie finishes the window;
+    the vizir hints it is enchantment.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8148-8267; Aladdin's prosperity passage
+  quote_or_summary: Aladdin wins the hearts of the people, becomes captain of the
+    Sultan's armies, wins battles, and remains modest and courteous for several years.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 8148-8267; magician in Africa passage
+  quote_or_summary: The magician in Africa uses magic arts to discover that Aladdin
+    escaped the cave, married a princess, and lives in honor and wealth, and he infers
+    this was done by means of the lamp.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 8148-8267; magician reaches China
+  quote_or_summary: The magician travels to the capital of China, hears people speak
+    of Prince Aladdin's palace as a wonder of the world, sees it, and decides to get
+    the lamp and ruin Aladdin.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: 8148-8267; lamp exchange passage
+  quote_or_summary: The magician cries, "New lamps for old!"; the princess, not knowing
+    the old lamp's value, tells a slave to exchange it for a new lamp.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quote used.
+- id: ev:10
+  type: summary
+  locator: 8148-8267; night after lamp exchange
+  quote_or_summary: At night the magician rubs the lamp, the genie appears, and at
+    the magician's command carries him, the palace, and the princess inside it to
+    a lonely place in Africa.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 8148-8267; disappearance and condemnation passage
+  quote_or_summary: The Sultan sees the palace is gone, the vizir attributes it to
+    enchantment, thirty mounted men bring Aladdin in chains, the people follow armed,
+    and the executioner prepares to behead Aladdin.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif labels involving
+    supplied taxonomy families are cautious where the taxonomy term is broader than
+    the literal episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or comparisons outside the supplied passage and available taxonomy were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l8148-l8267
+  passage_sha256=2ad14e47262f8451351b853153bc6b322716a559b7ee859dc10a1912f292d16d
+

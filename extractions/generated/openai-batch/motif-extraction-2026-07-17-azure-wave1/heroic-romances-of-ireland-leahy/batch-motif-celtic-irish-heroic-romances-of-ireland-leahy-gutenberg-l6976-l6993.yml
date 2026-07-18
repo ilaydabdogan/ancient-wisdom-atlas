@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6976-l6993
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 27 / PAGE 28. / PAGE 29 / PAGE 30; lines 6976-6993
+  start: '6976'
+  end: '6993'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'A set of translator/editor notes glosses several phrases: a line about
+    receiving what seemed good, a phrase translated as anger for anger, a note involving
+    Eochaid and reproach or debt, a manuscript reading about a forest over Breg or
+    Darbrech with trees, and a conjectural restoration of a phrase about the book
+    of Drom Snechta from a torn manuscript.'
+  language: English with Irish terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives a literal rendering of a phrase translated as “All things
+    that seemed good” as being accustomed to get what seemed good to the addressee,
+    followed by an Irish phrase.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage glosses “Anger for anger” with the Irish phrase “bara fri bure”
+    and directs comparison with the word “bura” in Meyer’s Contributions.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage explains the wording about Eochaid standing in someone’s debt
+    as meaning that there might be a cause of reproach for him to Eochaid.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage discusses a manuscript phrase rendered as “Forest that is over
+    Breg,” reads an abbreviated form as “dar Breg,” and cites a rendering about covering
+    Darbrech with trees.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that the phrase about the book of Drom Snechta is a conjectural
+    restoration by Mrs. Hutton because the manuscript L.U. is torn at that point.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eochaid
+  description: Named in the line 25 note as the person to whom a cause of reproach
+    would exist.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Professor Rhys
+  description: Cited as rendering the phrase concerning Darbrech and trees.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Mrs. Hutton
+  description: Credited with conjecturally restoring words in the torn L.U. manuscript.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: party in reproach or debt relation
+  assigned_to:
+  - fig:1
+  basis: The note clarifies a phrase as referring to a cause of reproach for someone
+    to Eochaid.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cited renderer of textual phrase
+  assigned_to:
+  - fig:2
+  basis: The note states that Professor Rhys renders the phrase as covering Darbrech
+    with trees.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: conjectural restorer of torn manuscript wording
+  assigned_to:
+  - fig:3
+  basis: The note says the restoration is a conjecture by Mrs. Hutton because L.U.
+    is torn at that point.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: forest or trees
+  literal_form: "“Forest that is over Breg” / “to cover Darbrech with trees”"
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly directs a linguistic comparison between the phrase “bara
+    fri bure” and the word “bura” in Meyer’s Contributions.
+  claim_level: linguistic_similarity
+  target: the word “bura” in Meyer’s Contributions
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only the direction to compare; it does not provide
+    the compared entry or any mythological implication.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6978-6979; PAGE 30, Line 1 note
+  quote_or_summary: The note gives a literal rendering of “All things that seemed
+    good” as being accustomed to get what seemed good to the addressee, with the Irish
+    phrase “adethaind ni bad maith.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 6981-6982; PAGE 30, Line 3 note
+  quote_or_summary: "“Anger for anger,” bara fri bure. Compare the word bura in Meyer’s
+    Contributions."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6984-6985; PAGE 30, Line 25 note
+  quote_or_summary: The note says “In order that Eochaid should stand in his debt”
+    is literally “that there might be cause of reproach for him to Eochaid.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6987-6989; PAGE 30, Line 32 note
+  quote_or_summary: The note discusses “Forest that is over Breg,” manuscript “fid
+    dar bre,” the reading “dar Breg,” and Professor Rhys’s rendering “to cover Darbrech
+    with trees.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized with short quoted phrases
+    from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6991-6993; PAGE 30, Line 33 note
+  quote_or_summary: The note says the phrase about the book of Drom Snechta is a conjecture
+    by Mrs. Hutton restoring words in torn L.U.; the visible words appear as “amal
+    atbert lebor drums.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is scholarly line-note commentary rather than a narrative episode.
+    Literal extraction is straightforward, but no mythological motif candidate is
+    securely supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate mythology motif was assigned. The only comparison claim retained is the passage’s explicit linguistic comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6976-l6993
+  passage_sha256=eb567576c706024ff01061c95ae716d7348486adf009a2e79afad2715074489a
+

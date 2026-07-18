@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l2699-l2778
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: GENERAL OBSERVATIONS. / BAFFIN LAND. / WESTERN SHORE OF HUDSON BAY. / BOOTHIA
+    FELIX AND BACK RIVER.; lines 2699-2778
+  start: '2699'
+  end: '2778'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives an ethnographic summary of Inuit/Eskimo seasonal residence,
+    travel, fishing, hunting, food storage, and observed traces around Lake Netchillik,
+    Boothia, Spence Bay, Josephine Bay, King William Land, and related areas. It also
+    compares some winter practices with southern Baffin Land groups and reports M'Clintock's
+    1859 observations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that reports are incomplete because the group was seen only
+    a few times by an expedition.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Winter residences are described or inferred at Okavit near Lake Netchillik,
+    Lake Avatutiaq, and Lake Owen, with subsistence from stored blubber or salmon
+    and from musk oxen.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: At Inugsulik near the head of Spence Bay, codfish caught through ice holes
+    were the principal food, while sealing was less important there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Deposited kayaks on the west shore of Boothia as far as Josephine Bay are
+    used as evidence that the group resorted to that region during deer hunting season.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Different parties moved to Netchillik, remained in Tom's Bay, arrived at Victoria
+    Harbor, or left westward during the spring and summer sequence described for 1831.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The generalized seasonal pattern includes winter seal hunting at breathing
+    holes, early spring breakup of settlements, early fishing west of Melville Peninsula,
+    codfish subsistence on Boothia, and productive salmon fisheries.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Deer are hunted while swimming across lakes, and musk oxen are hunted in northern
+    granite hills.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: From another winter resort, Tukia is visited in summer to collect pyrite or
+    native iron used for kindling fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: M'Clintock met families in 1859 who traveled along the shore, hunted seals,
+    knew the coast as far as Bellot Strait, and were later seen returning toward Netchillik.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Deserted snow huts, sledge tracks, and a settlement on King William Land are
+    reported; one party had not communicated with mainland Boothia villages since
+    the preceding fall.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Described Boothia/Netchillik Inuit or Eskimo families and tribe
+  description: Collective families and parties associated with Netchillik, Boothia,
+    Spence Bay, Josephine Bay, King William Land, and surrounding travel routes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Southern tribes of Baffin Land
+  description: Nearby groups cited as living similarly in large bays on the eastern
+    side of the isthmus, especially in winter seal hunting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: M'Clintock
+  description: Traveler who visited King William Land in 1859, met families, observed
+    abandoned snow huts and sledge tracks, and reported routes and coastal knowledge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seasonal hunters, fishers, and travelers
+  assigned_to:
+  - fig:1
+  basis: The passage describes wintering places, spring and summer movements, fishing,
+    sealing, deer hunting, musk ox hunting, and collection of fire-kindling material.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: nearby comparative subsistence group
+  assigned_to:
+  - fig:2
+  basis: The passage states that the natives in the large bays on the eastern side
+    of the isthmus live like the southern tribes of Baffin Land in winter sealing
+    practices.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: external observer and reporter
+  assigned_to:
+  - fig:3
+  basis: M'Clintock is named as the traveler who met several families, saw their return
+    journey, found huts and tracks, and reported a settlement.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ice openings for subsistence
+  literal_form: holes cut through ice for codfish and seal breathing holes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: travel traces
+  literal_form: deposited kayaks, marks on islands, deserted snow huts, and sledge
+    tracks
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: pyrite or native iron for kindling fire
+  literal_form: pyrite or native iron collected on Tukia and used for kindling fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lakes, bays, and river fisheries
+  literal_form: Lake Netchillik, Spence Bay, Josephine Bay, Lake Avatutiaq, Lake Owen,
+    Tom's Bay, and listed salmon rivers and fisheries
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: winter and spring stations from early reports
+  summary: The group is described as wintering near Lake Netchillik, later appearing
+    at Spence Bay and Josephine Bay, catching codfish through the ice, and using the
+    west shore of Boothia during deer hunting season.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 1830-1831 wintering and departures
+  summary: Some groups winter at Lake Avatutiaq or Lake Owen, live on salmon, musk
+    oxen, codfish, salmon, and seals, and then move toward Netchillik, Tom's Bay,
+    Victoria Harbor, or westward.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: general seasonal subsistence pattern
+  summary: The author generalizes that winter seal hunting, early spring settlement
+    breakup, early fishing, codfish and salmon fisheries, deer hunting in lakes, musk
+    ox hunting in hills, and summer pyrite collection structure the tribe's yearly
+    life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: M'Clintock's 1859 observations
+  summary: M'Clintock meets families near Cape Adelaide, observes their coastal travel
+    and sealing, records their knowledge of coast names, and finds deserted snow huts,
+    tracks, and a settlement on King William Land.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal subsistence and travel cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly organizes residence, food, travel, and resource use
+    by winter, spring, summer, and hunting or fishing seasons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern, not a myth narrative; the
+    motif label should be reviewed for fit with comparative mythology taxonomy.
+- id: motif:2
+  label: life through ice openings
+  taxonomy_refs: []
+  basis: Codfish are caught through holes cut in the ice, and winter sealing is pursued
+    at seal breathing holes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as practical subsistence behavior; no ritual
+    or narrative symbolism is stated.
+- id: motif:3
+  label: material traces mark absent community movement
+  taxonomy_refs: []
+  basis: Deposited kayaks, island marks, deserted snow huts, and sledge tracks are
+    used by observers to infer where people had traveled or lived.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is mainly an observational inference pattern from travel reports,
+    not an emic mythic motif.
+- id: motif:4
+  label: seasonal collection of fire-kindling stone
+  taxonomy_refs: []
+  basis: The passage notes a summer visit to Tukia to collect pyrite or native iron
+    used for kindling fire.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives no sacred or narrative significance for fire, pyrite,
+    or native iron beyond their practical use.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the natives in the large bays on the eastern
+    side of the isthmus with the southern tribes of Baffin Land, saying they live
+    similarly by pursuing seals at breathing holes during winter and breaking up settlements
+    early in spring.
+  claim_level: same_function
+  target: southern tribes of Baffin Land winter subsistence pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the ethnographic subsistence and settlement
+    pattern stated in the passage; it does not establish a shared mythic motif.
+- id: claim:2
+  claim: The passage states that codfish is an important food on Boothia and for other
+    tribes of the region, while farther east it is of no importance.
+  claim_level: same_function
+  target: other regional tribes' codfish subsistence pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a regional dietary comparison within the author's account;
+    it includes an internal contrast with farther eastern groups.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2699-2717
+  quote_or_summary: Reports are incomplete; wintering at Okavit near Lake Netchillik
+    is noted, possible stored blubber is inferred, late May and June stations at Spence
+    Bay and Josephine Bay are described, codfish are caught through ice holes, and
+    deposited kayaks indicate resort to west Boothia in deer hunting season.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2718-2733
+  quote_or_summary: For 1830-1831, groups winter at Lake Avatutiaq or Lake Owen, live
+    on salmon stocks, musk oxen, codfish, salmon, and seals, and move toward Netchillik,
+    Tom's Bay, Victoria Harbor, or westward through spring and summer.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2734-2752
+  quote_or_summary: 'The author generalizes the tribe''s life: winter seal hunting
+    at breathing holes resembles southern Baffin Land tribes; settlements break up
+    early in spring; fishing begins early; codfish, salmon, deer, musk ox, and summer
+    collection of pyrite or native iron for fire are described.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2753-2756
+  quote_or_summary: Dease and Simpson and Rae did not meet the natives directly, though
+    Rae saw their marks on islands of Acland Bay.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2757-2778
+  quote_or_summary: M'Clintock met families near Cape Adelaide in 1859; they had traveled
+    along the shore, hunted seals, knew coast names, returned toward Netchillik, and
+    left evidence including deserted snow huts, sledge tracks, and a settlement on
+    King William Land.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic details are clear. Motif candidates are more tentative
+    because the passage is not a mythic narrative but a subsistence and travel-pattern
+    description.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No mythic figures or sacred narrative events are present in the supplied passage. Extracted motifs are behavioral and ecological patterns grounded in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l2699-l2778
+  passage_sha256=517945ee71dda5044ca1719011896afce0f188b6e1337313f9812b76d8caba6c
+

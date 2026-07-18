@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l6116-l6129
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE SLEDGE AND DOGS. / HABITATIONS AND DRESS. / THE HOUSE. / CLOTHING, DRESSING
+    OF THE HAIR, AND TATTOOING.; lines 6116-6129
+  start: '6116'
+  end: '6129'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes buckles used to carry needlecases or similar implements
+    at the girdle, frequent use of head ornaments, and women's tattooing practices,
+    including age, methods, pigments, body parts tattooed, and reference to illustrated
+    patterns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Buckles are described as carrying needlecases or similar implements at the
+    girdle, with an eye tied to the girdle and a button fastened to the implement.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Head ornaments are described as frequently used and sometimes beautifully
+    finished.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Women are described as adorning their faces by tattooing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tattooing is said to be done when women are about twelve years of age.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tattooing methods described are passing soot-covered needle and thread
+    under the skin or making punctures with tattooing instruments rubbed with coloring
+    substance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The coloring substance is described as a mixture of Fucus juice and soot,
+    or gunpowder, producing a blue color.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The body parts generally tattooed are the face, arms, hands, thighs, and breasts.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The tattoo patterns are referred to illustrations in Figs. 515 and 516.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women are described as adorning their faces through tattooing, with
+    several body parts generally tattooed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: tattooed/adorned persons
+  assigned_to:
+  - fig:1
+  basis: The passage states that women adorn their faces by tattooing and lists body
+    parts generally tattooed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: girdle buckles for implements
+  literal_form: buckles used to carry needlecases or similar implements at the girdle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: head ornaments
+  literal_form: head ornaments, sometimes beautifully finished
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tattoo patterns
+  literal_form: tattoo marks or patterns on the face, arms, hands, thighs, and breasts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: blue tattoo pigment
+  literal_form: mixture of Fucus juice and soot, or gunpowder, producing a blue color
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Utility buckles and head ornaments
+  summary: The passage describes buckles for carrying needlecases or similar implements
+    at the girdle and notes frequent use of head ornaments.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Women's tattooing practice
+  summary: Women are described as receiving or having tattoos at about twelve years
+    of age, made with soot-covered thread or puncture methods, producing blue designs
+    on multiple body parts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: age-marked female tattooing and adornment
+  taxonomy_refs: []
+  basis: The passage links women's tattooing with adornment, an approximate age of
+    twelve years, specified techniques, blue pigment, and repeated body locations
+    or patterns.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is ethnographic description and does not state a mythic, ritual,
+    initiatory, or symbolic interpretation for the tattooing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6116-6118
+  quote_or_summary: Fig. 514 represents buckles used to carry needlecases or similar
+    implements at the girdle; the eye is tied to the girdle and the button fastened
+    to the implement.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 6118-6119
+  quote_or_summary: Head ornaments are said to be in frequent use and sometimes beautifully
+    finished.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 6121-6126
+  quote_or_summary: Women adorn their faces by tattooing, done around twelve years
+    of age by soot-covered needle and thread under the skin or by puncture with instruments
+    rubbed with Fucus juice and soot or gunpowder, producing a blue color.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 6126-6129
+  quote_or_summary: The face, arms, hands, thighs, and breasts are generally tattooed,
+    and the patterns are shown in Figs. 515 and 516.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Material culture and body-adornment details are explicit. Motif interpretation
+    is limited because the passage gives no mythic or ritual explanation. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not explicitly support one.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l6116-l6129
+  passage_sha256=57c895d945d879d9b24b6ad4607b0397ea3140b603524851d5bdc2b68b2d3398
+

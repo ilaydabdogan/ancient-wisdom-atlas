@@ -1,0 +1,528 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l5021-l5114
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: THE AUTOBIOGRAPHY OF HERKHUF / THE AUTOBIOGRAPHY OF AMENI AMENEMHAT / THE
+    AUTOBIOGRAPHY OF THETHA / THE AUTOBIOGRAPHY OF TEHUTI, THE ERPA; lines 5021-5114
+  start: '5021'
+  end: '5114'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"I performed the office of chief mouth, giving orders."'
+  summary: The passage introduces Tehuti, an hereditary chief and director connected
+    with tribute metals and public works, then gives his first-person account of praising
+    Amen-Ra for Hatshepset and Thothmes III and directing artificers who made temple,
+    shrine, gate, throne, boat, obelisk, altar, and ritual objects for Amen-Ra under
+    Maatkara/Hatshepset.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Tehuti is introduced as an hereditary chief, duke, and director of a government
+    department that kept tribute gold and silver brought to Thebes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tehuti controlled distribution of gold and silver in connection with the Public
+    Works Department.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The text begins with thanks and praise to Amen-Ra for the life, strength,
+    and health of Maatkara/Hatshepset and Menkheperra/Thothmes III.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tehuti repeatedly says he performed the office of chief mouth and gave orders.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Tehuti directed artificers working on a great boat called Userhatamen, overlaid
+    or inlaid with very good gold of the mountains.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Several works are described as made by Maatkara in connection with monuments
+    made for Amen-Ra, called his father.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Tehuti directed work on the God-house, the horizon of the god, and a great
+    throne made of silver-gold of the mountains.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Tehuti directed work on Tcheser-Tcheseru, described in the footnote as Hatshepset's
+    temple at Der al-Bahari, whose great doors were copper inlaid with silver-gold
+    figures.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Tehuti directed work on the House of Amen, whose pavement was inlaid with
+    gold and silver blocks and whose beauties were compared to the horizon of heaven.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Tehuti directed work on a great shrine of ebony from Nubia with a base and
+    steps made of translucent alabaster from Het-nub.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Tehuti directed work on two great obelisks, each one hundred and eight cubits
+    high, plated with silver-gold, whose brilliance filled all Egypt.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Tehuti directed work on holy necklaces, pectorals, large talismans, altar-stands,
+    store-chests, gates, doors, and a granite Great Throne and God-house.
+  category: object
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Tehuti
+  description: An hereditary chief, duke, and director who speaks in the first person
+    and says he directed artificers and gave orders.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Amen-Ra
+  description: The King of the Gods, Lord of the Thrones of the Two Lands, praised
+    for royal life, strength, and health and named as recipient of monuments.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Maatkara / Hatshepset
+  description: Named as King of the South and North; the passage attributes many works
+    and monuments for Amen-Ra to Maatkara.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:10
+- id: fig:4
+  name_or_label: Menkheperra / Thothmes III
+  description: Named with Maatkara in the opening praise for royal life, stability,
+    serenity, and health.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Artificers
+  description: Workers repeatedly said to be directed by Tehuti on sacred and royal
+    construction projects.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:6
+  name_or_label: Ra
+  description: Named as the standard of enduring life in formulae saying the rulers
+    or Amen-Ra are endowed with life like Ra forever.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: hereditary chief and duke
+  assigned_to:
+  - fig:1
+  basis: The introduction calls Tehuti an hereditary chief and a Duke.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: director of artificers and public works resources
+  assigned_to:
+  - fig:1
+  basis: The passage says Tehuti controlled distribution of tribute metals and repeatedly
+    directed artificers while giving orders.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: praised god
+  assigned_to:
+  - fig:2
+  basis: The text begins with thanks and praise to Amen-Ra for the rulers' life, strength,
+    and health.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine recipient of monuments
+  assigned_to:
+  - fig:2
+  basis: Repeated entries say works were made as monuments for Amen-Ra.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: royal maker of monuments
+  assigned_to:
+  - fig:3
+  basis: The works are repeatedly described as made by Maatkara in connection with
+    monuments for Amen-Ra.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+- id: role:6
+  label: royal beneficiary of divine praise
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Amen-Ra is praised for the life, strength, health, stability, and serenity
+    of Maatkara and Menkheperra.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: craft workers
+  assigned_to:
+  - fig:5
+  basis: The artificers are the workers engaged on the listed construction and ritual-object
+    projects.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:11
+- id: role:8
+  label: model of perpetual divine life
+  assigned_to:
+  - fig:6
+  basis: The passage uses the formula 'like Ra for ever' for enduring life.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: great boat Userhatamen
+  literal_form: great boat of the head of the river, called Userhatamen, inlaid or
+    overlaid with gold
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: gold and silver-gold of the mountains
+  literal_form: gold and silver-gold from the mountains used to cover or make sacred
+    works
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+- id: sym:3
+  label: God-house and horizon of the god
+  literal_form: God-house described as the horizon of the god
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: sacred doors and gates
+  literal_form: temple doors and a holy gate made or plated with copper, bronze, cedar,
+    and silver-gold figures
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:11
+- id: sym:5
+  label: two great obelisks
+  literal_form: two obelisks, each one hundred and eight cubits high, plated with
+    silver-gold
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: holy necklaces, pectorals, and talismans
+  literal_form: ritual ornaments and large talismans of silver-gold and precious stones
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:7
+  label: shrine with steps
+  literal_form: great ebony shrine with broad high base and steps of translucent alabaster
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Introduction of Tehuti's office
+  summary: The passage identifies Tehuti as a noble official who oversaw tribute metals
+    and their distribution for public works.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Praise to Amen-Ra for the rulers
+  summary: The text gives thanks and praise to Amen-Ra for the life and health of
+    Maatkara/Hatshepset and Menkheperra/Thothmes III, who are described with solar
+    life formulae.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Direction of sacred construction
+  summary: Tehuti says he gave orders and directed artificers on the great boat, God-house,
+    throne, shrine of Truth, Tcheser-Tcheseru, Khakhut, the House of Amen, and other
+    sanctuaries and doors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Creation of ritual objects and tall monuments
+  summary: Tehuti directs work on a shrine, necklaces, pectorals, talismans, obelisks,
+    a holy gate, altar-stands, store-chests, and a granite Great Throne and God-house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: royal temple construction as divine legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links royal life and health from Amen-Ra with Maatkara's construction
+    of many monuments for Amen-Ra, while Tehuti administers the works.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The passage is an official autobiographical building account, not a narrative
+    myth; the legitimacy reading is based on royal-divine formulae and monument dedication
+    within the passage.
+- id: motif:2
+  label: royal child or servant making monuments for divine father
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Several works are described as made by Maatkara in connection with monuments
+    for 'his father Amen-Ra.'
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage uses the phrase 'father Amen-Ra' but does not narrate a birth
+    or parent-child episode.
+- id: motif:3
+  label: sacred adornment and offering of precious materials to a deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The listed works for Amen-Ra use gold, silver-gold, precious stones, cedar,
+    copper, bronze, ebony, alabaster, and granite in temples, gates, shrines, altar-stands,
+    and talismans.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The passage describes dedication and manufacture, but does not explicitly
+    state a reciprocal exchange beyond praise for royal life and monument-making.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti is introduced as an hereditary chief, duke, and director
+    of the department keeping tribute gold and silver brought to Thebes, controlling
+    their distribution for public works.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 5021-5114
+  quote_or_summary: The text gives 'Thanks ... to Amen-[Ra, the King of the Gods]'
+    for the life, strength, health, stability, and serenity of Maatkara and Menkheperra,
+    'like Ra for ever.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 5021-5114
+  quote_or_summary: '"I performed the office of chief mouth, giving orders."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed artificers working on the great boat of the head
+    of the river, called Userhatamen, which was inlaid or overlaid with the best gold
+    of the mountains and whose splendour illumined Egypt.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 5021-5114
+  quote_or_summary: Works are repeatedly said to be made by Maatkara 'in connection
+    with the monuments which he made for his father Amen-Ra, Lord of the Thrones of
+    the Two Lands.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed artificers on the God-house, the horizon of the
+    god, and the great throne made of very good silver-gold of the mountains.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed works of Tcheser-Tcheseru, the Temple of Millions
+    of Years; its great doors were copper inlaid with silver-gold figures. A footnote
+    identifies Tcheser-Tcheseru as Hatshepset's temple at Der al-Bahari.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed works of the House of Amen, whose pavement was
+    inlaid with blocks of gold and silver and whose beauties were like those of the
+    horizon of heaven.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed work on a great shrine made of ebony from Nubia
+    with a broad high base and steps made of translucent alabaster from Het-nub.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed works connected with two great obelisks, each
+    one hundred and eight cubits high, plated with silver-gold; their brilliance filled
+    all Egypt.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed work on holy necklaces, pectorals, large talismans,
+    the holy gate Amen-shefit, altar-stands, and store-chests, using silver-gold,
+    precious stones, copper, and other materials.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:12
+  type: summary
+  locator: lines 5021-5114
+  quote_or_summary: Tehuti directed works of the Great Throne and God-house, built
+    of granite and described as lasting like firmly fixed pillars of the sky.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a formal official inscription focused on office, construction,
+    and dedication; literal extraction is strong, while motif assignment is cautious
+    because narrative mythic action is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative link to another tradition or motif family beyond internal royal-divine building patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l5021-l5114
+  passage_sha256=dcebcc8a3c26147c6740fc20c736f8ac717a60da9e7367bb58ec9f42798fbe04
+

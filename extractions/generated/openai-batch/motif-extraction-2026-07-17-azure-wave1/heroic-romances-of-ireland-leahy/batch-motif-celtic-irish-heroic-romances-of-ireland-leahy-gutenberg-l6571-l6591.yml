@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6571-l6591
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 8 / PAGE 9 / PAGE 10 / PAGE 11; lines 6571-6591
+  start: '6571'
+  end: '6591'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a literal translation of a quatrain: Fuamnach, wife
+    of Mider, is called ignorant; Sigmall and Bri with its trees in Bri Leth are connected
+    with a full trial and are said to have been burned by means of Manannan. The following
+    notes question the rendering of “Labraid the Tracker” and discuss a grammatical
+    difficulty in the phrase translated “That he desired full knowledge of.”'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage labels the quatrain as a literal translation.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fuamnach is identified as the wife of Mider.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fuamnach is described as ignorant.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Sigmall and Bri with its trees are placed in relation to Bri Leth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Sigmall and Bri with its trees are said to have been burned by means of Manannan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The literal translation associates the burning passage with the phrase “a
+    full trial.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:7
+  text: The editor says the rendering “Labraid the Tracker” is very doubtful and notes
+    that the text gives Labradae Luircc.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The editor says the Irish wording behind “That he desired full knowledge of”
+    is grammatically problematic and proposes alternative forms meaning that he or
+    they might know.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Fuamnach
+  description: Named in the quatrain as the wife of Mider and described as ignorant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mider
+  description: Named as the person whose wife is Fuamnach.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Manannan
+  description: Named in the phrase saying the burning occurred by means of Manannan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Labraid / Labradae Luircc
+  description: Mentioned in an editorial note where “Labraid the Tracker” is called
+    a doubtful rendering of Labradae Luircc.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: wife
+  assigned_to:
+  - fig:1
+  basis: Fuamnach is called the wife of Mider.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: spouse relation target
+  assigned_to:
+  - fig:2
+  basis: Mider is named through Fuamnach’s identification as his wife.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named means or agent of burning
+  assigned_to:
+  - fig:3
+  basis: The quatrain says the burning was by means of Manannan.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: doubtful rendered name in editorial note
+  assigned_to:
+  - fig:4
+  basis: The note discusses “Labraid the Tracker” as a doubtful rendering of Labradae
+    Luircc.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: trees
+  literal_form: trees associated with Bri
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sigmall and Bri
+  literal_form: named entities or places described with trees in Bri Leth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Bri Leth
+  literal_form: named place or setting in the quatrain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Quatrain on Fuamnach and the burning in Bri Leth
+  summary: The quatrain names Fuamnach as ignorant and as wife of Mider, then describes
+    Sigmall and Bri with trees in Bri Leth as connected with a full trial and as burned
+    by means of Manannan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial notes on doubtful translation
+  summary: The notes flag a doubtful rendering of “Labraid the Tracker” and a grammatical
+    difficulty in another translated phrase.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: burning of named places and trees by a named agent
+  taxonomy_refs: []
+  basis: The quatrain says Sigmall and Bri with its trees in Bri Leth were burned
+    by means of Manannan.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The quatrain is presented in a compressed literal translation, and the
+    exact relationship among Sigmall, Bri, Bri Leth, the trial, and the burning is
+    unclear.
+- id: motif:2
+  label: trial associated with destructive burning
+  taxonomy_refs: []
+  basis: The literal translation links the phrase “a full trial” with the statement
+    that Sigmall and Bri with trees were burned.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The syntax of the literal translation is difficult, so the nature of the
+    trial or ordeal cannot be securely inferred from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6571-6578
+  quote_or_summary: 'Literal translation of a quatrain: Fuamnach, wife of Mider, is
+    called ignorant; Sigmall and Bri with trees in Bri Leth are associated with a
+    full trial and were burned by means of Manannan.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6580-6582
+  quote_or_summary: 'Editorial note: “Labraid the Tracker” is described as a very
+    doubtful rendering; the text gives Labradae Luircc.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6584-6591
+  quote_or_summary: 'Editorial note: the Irish behind “That he desired full knowledge
+    of” is said to be grammatically problematic, with suggested alternatives meaning
+    that he or they might know.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited by the short, compressed quatrain and the passage’s
+    focus on translation notes. No comparison claims were made because the passage
+    itself does not support an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference was applied only to the literal mention of trees.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6571-l6591
+  passage_sha256=c6889e01678e4289a38832b0bca4793a68a65de8ee5cf08f95dcd18ea526c3c4
+

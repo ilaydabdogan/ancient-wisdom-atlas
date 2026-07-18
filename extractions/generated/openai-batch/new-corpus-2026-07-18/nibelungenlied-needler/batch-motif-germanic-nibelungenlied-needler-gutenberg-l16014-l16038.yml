@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l16014-l16038
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: THIRTY-SECOND ADVENTURE / THIRTY-THIRD ADVENTURE / THIRTY-FOURTH ADVENTURE
+    / THIRTY-FIFTH ADVENTURE; lines 16014-16038
+  start: '16014'
+  end: '16038'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A large body of knights enters the house and is cut down by the Burgundians.
+    After the fighting stops, blood flows from the slain through holes and corbels.
+    The Burgundians rest and put down their weapons, while the Fiddler remains at
+    the door in case more combatants arrive. King Etzel, his spouse, maidens, and
+    ladies lament, and the passage states that many more warriors are doomed to fall
+    before the strangers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: More than a thousand knights come into the house, where sword-blades flash
+    and no one of their number is soon seen alive.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the tumult ceases, blood from slain men flows through leak-holes and
+    along corbels.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The men of Rhineland/Burgundy are named as the ones who caused the deaths
+    by many blows.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Burgundians sit down to rest and lay aside shield and broadsword.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The valiant Fiddler remains standing before the door, waiting in case anyone
+    seeks further combat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: King Etzel and his spouse lament, and maidens and fair ladies are tormented
+    by sorrow.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says death had sworn such an ending and that many more warriors
+    were doomed to fall before the strangers.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Knights entering the house
+  description: A group described as four beyond a thousand knights who come into the
+    house and are not soon seen alive.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Men of Burgundy / Rhineland
+  description: The Burgundian/Rhineland men who survive the fighting, rest, and are
+    credited with dealing many blows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: The valiant Fiddler
+  description: A Burgundian figure who stands before the door waiting for any further
+    combatant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: King Etzel
+  description: A king who laments after the slaughter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Etzel's spouse
+  description: The spouse of King Etzel, who laments after the slaughter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Maidens and fair ladies
+  description: Women who are afflicted with sorrow after the deaths.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Many warriors
+  description: Warriors said to be doomed to fall before the strangers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: entering combatants
+  assigned_to:
+  - fig:1
+  basis: They come into the house amid flashing sword-blades.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victorious killers in the passage
+  assigned_to:
+  - fig:2
+  basis: The passage credits the men of Rhineland with the deaths caused by many blows
+    and shows them resting afterward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: threshold guard awaiting renewed combat
+  assigned_to:
+  - fig:3
+  basis: The Fiddler stands before the door in case anyone seeks more combat.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: fallen or doomed warriors
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The knights are not seen alive, and other warriors are said to be doomed
+    to fall.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: mourners
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Etzel, his spouse, maidens, and fair ladies lament or suffer sorrow.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: house as battle enclosure
+  literal_form: house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flashing sword-blades
+  literal_form: sword-blades glinting and swinging
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: blood flowing from the slain
+  literal_form: blood flowing through leak-holes and along corbels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: laid-aside shield and broadsword
+  literal_form: shield and mighty broadsword laid from the hand
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: door vigil
+  literal_form: the Fiddler standing before the door
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Slaughter inside the house
+  summary: More than a thousand knights enter the house; sword-blades flash, and none
+    of those knights are soon seen living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stillness and blood after combat
+  summary: The noise of combat ceases, and blood from slain men flows through architectural
+    openings; the passage attributes this to blows dealt by the Rhineland men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Burgundian rest and Fiddler's watch
+  summary: The Burgundians rest and set aside their weapons, while the Fiddler remains
+    at the door prepared for any renewed combat.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Lament and doom of more warriors
+  summary: Etzel, his spouse, maidens, and ladies lament; the passage states that
+    death had sworn such an ending and that many more warriors were doomed to fall
+    before the strangers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Mass killing in an enclosed hall or house
+  taxonomy_refs: []
+  basis: A large group enters the house, sword-blades flash, and none of that group
+    is soon left alive.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage calls the space a house; it does not provide a broader ritual
+    or cosmological framing.
+- id: motif:2
+  label: Blood-filled aftermath of battle
+  taxonomy_refs: []
+  basis: After the tumult stops, the passage dwells on blood flowing from the slain
+    through holes and along corbels.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a battle-aftermath image rather than a taxonomically matched mythic
+    symbol in the supplied list.
+- id: motif:3
+  label: Warrior sentinel at the threshold after slaughter
+  taxonomy_refs: []
+  basis: The Fiddler stands before the door after the Burgundians rest, waiting for
+    any further combatant.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a literal guard action; any threshold symbolism would
+    require interpretation beyond the passage.
+- id: motif:4
+  label: Communal lament after warrior deaths
+  taxonomy_refs: []
+  basis: King Etzel, his spouse, maidens, and fair ladies lament and suffer sorrow
+    after the deaths.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify formal mourning rites.
+- id: motif:5
+  label: Doomed fall before strangers
+  taxonomy_refs: []
+  basis: The passage states that death had sworn such an ending and that many warriors
+    were doomed to fall before the strangers.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording invokes doom poetically; it does not identify a divine judgment
+    scene or named supernatural agent beyond death personified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: stanza 2077; lines 16014-16017
+  quote_or_summary: More than a thousand knights come into the house; sword-blades
+    glint and swing; none of the entering group is soon seen alive; the men of Burgundy
+    are named.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: stanza 2078; lines 16021-16024
+  quote_or_summary: The tumult stops; blood flows through leak-holes and along corbels
+    from men laid low; the men of Rhineland are credited with the deadly blows.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: stanza 2079; lines 16028-16031
+  quote_or_summary: The Burgundians rest and put aside shield and broadsword; the
+    Fiddler remains before the door in case anyone seeks further combat.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: stanza 2080; lines 16035-16038
+  quote_or_summary: King Etzel and his spouse lament; maidens and ladies are tormented
+    by sorrow; the passage says death had sworn such an ending and that many warriors
+    were doomed to fall before the strangers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and untaxonomized because the supplied taxonomy does not contain
+    a precise battle-hall slaughter or lament category. No comparison claims were
+    generated because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the provided passage text and metadata; no external Nibelungenlied context added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l16014-l16038
+  passage_sha256=b9014d988418c017053c3f8d614e4bb258a5aa7da6865c4098b33f1c966c9672
+

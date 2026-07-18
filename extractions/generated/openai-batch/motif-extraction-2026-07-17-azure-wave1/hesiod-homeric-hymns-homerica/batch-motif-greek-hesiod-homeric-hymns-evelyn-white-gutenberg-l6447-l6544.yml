@@ -1,0 +1,606 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l6447-l6544
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: II. TO DEMETER / III. TO DELIAN APOLLO / TO PYTHIAN APOLLO / IV. TO HERMES;
+    lines 6447-6544
+  start: '6447'
+  end: '6544'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Hermes and Apollo bring their quarrel over Apollo’s cattle before Zeus
+    on Olympus. Apollo accuses the newborn Hermes of stealing and hiding the cattle
+    by cunning means. Hermes denies guilt with deceptive speech. Zeus laughs, orders
+    Hermes to reveal the cattle, and the two gods go to Pylos and the Alpheus ford.
+    Apollo sees cowhides near the cave and tries to bind Hermes, but the bands fail
+    and grow from the ground, covering the cattle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hermes and Apollo dispute over the cattle and go to Olympus, where judgement
+    is set before Zeus and the divine assembly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Zeus asks Apollo why he has come driving a great spoil with a newborn child
+    who looks like a herald.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Apollo accuses Hermes of stealing his cows from their meadow, driving them
+    toward Pylos, and leaving unusual double tracks.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Apollo says Hermes returned by crafty turns and lay in a dim cave in his cradle,
+    then denied seeing or hearing about the cattle.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Hermes denies the theft before Zeus, emphasizes that he was born only yesterday,
+    and claims Apollo threatened him with Tartarus.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Hermes keeps his swaddling-clothes on his arm and gives sidelong glances while
+    denying guilt.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Zeus laughs at Hermes’ cunning denial and orders both gods to agree, search
+    for the cattle, and have Hermes reveal where they are hidden.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Hermes and Apollo go to sandy Pylos, the ford of Alpheus, and a byre; Hermes
+    enters a cave in the rock and begins to drive out the cattle.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: Apollo sees cowhides on the rock and asks how newborn Hermes was able to flay
+    two cows.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: Apollo twists withes to bind Hermes, but the bands do not hold; the osiers
+    fall away, grow from the ground, intertwine, and cover the cattle.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Hermes / the Cyllenian / Slayer of Argus
+  description: A newborn divine child, son of Zeus and Maia, accused of stealing Apollo’s
+    cattle, denying guilt, and later revealing the hidden cattle.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Apollo / Phoebus Apollo / God of the Silver Bow / son of Leto
+  description: A divine son of Zeus and Leto who accuses Hermes of stealing his cattle
+    and attempts to bind him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Zeus / Son of Cronos
+  description: The father of Hermes and Apollo, presiding at Olympus, asking Apollo
+    about the matter, laughing at Hermes’ denial, and ordering Hermes to reveal the
+    cattle.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Immortal assembly on Olympus
+  description: The deathless gods gathered on snowy Olympus after Dawn for the council
+    before which the matter is brought.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Mortal witness
+  description: An unnamed mortal man who notices Hermes driving the cattle toward
+    Pylos.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Apollo’s cattle / cows
+  description: Cows stolen from Apollo’s meadow, driven toward Pylos, hidden, and
+    later covered by growing osier bands.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+  - ev:11
+roles:
+- id: role:1
+  label: accused divine cattle-thief
+  assigned_to:
+  - fig:1
+  basis: Apollo describes Hermes as a newborn robber who stole his cows and hid them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: cunning denier
+  assigned_to:
+  - fig:1
+  basis: Hermes denies knowledge of the cattle while Zeus observes his cunning denial.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:3
+  label: accuser and cattle-owner
+  assigned_to:
+  - fig:2
+  basis: Apollo brings the complaint to Zeus and says his cows were stolen from their
+    meadow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: would-be binder
+  assigned_to:
+  - fig:2
+  basis: Apollo twists withes intending to bind Hermes.
+  evidence_refs:
+  - ev:11
+- id: role:5
+  label: divine judge
+  assigned_to:
+  - fig:3
+  basis: The quarrel comes before Zeus at Olympus where judgement is set, and Zeus
+    orders the search and disclosure of the cattle.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:6
+  label: divine father
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Hermes and Apollo are called children of Zeus, and Hermes addresses Zeus
+    as father.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:7
+  label: council witnesses
+  assigned_to:
+  - fig:4
+  basis: The immortals gather on Olympus when the dispute is brought before Zeus.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:8
+  label: human observer
+  assigned_to:
+  - fig:5
+  basis: Apollo reports that a mortal man noticed Hermes driving the cattle toward
+    Pylos.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: stolen livestock
+  assigned_to:
+  - fig:6
+  basis: Apollo’s cows are the property said to have been stolen, hidden, and later
+    revealed.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: scales of judgement
+  literal_form: scales of judgement set on Olympus for Hermes and Apollo
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cave hiding place
+  literal_form: dim cave and cave in the rock where Hermes lies in his cradle and
+    later drives out cattle
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:3
+  label: stolen cattle
+  literal_form: Apollo’s cows taken from the meadow and hidden near Pylos
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: unusual tracks
+  literal_form: double tracks and footprints that become untraceable over hard ground
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: swaddling-clothes
+  literal_form: swaddling-clothes kept upon Hermes’ arm while he denies guilt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Alpheus ford and seashore route
+  literal_form: shore of the loud-roaring sea, sandy Pylos, and ford of Alpheus
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:7
+  label: binding withes that grow
+  literal_form: osier withes intended as bands, which fail to bind Hermes and grow
+    from the ground over the cattle
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:8
+  label: Olympus divine court
+  literal_form: top of fragrant Olympus and snowy Olympus where the gods assemble
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:9
+  label: Tartarus threat
+  literal_form: wide Tartarus, mentioned by Hermes as Apollo’s threatened punishment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dispute brought to Olympus
+  summary: Hermes and Apollo continue their quarrel over the cattle and arrive at
+    Olympus before Zeus, where judgement is set and the immortal assembly gathers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Apollo’s accusation
+  summary: Apollo identifies Hermes as a newborn robber, describes the cattle theft
+    from the meadow, the route toward Pylos, the strange tracks, and Hermes’ concealment
+    in a cave with a false denial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Hermes’ denial before Zeus
+  summary: Hermes addresses Zeus as father, denies driving the cows or crossing the
+    threshold, invokes his newborn status, and says Apollo threatened him with Tartarus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Zeus orders disclosure
+  summary: Zeus laughs at Hermes’ cunning denial and commands both gods to search
+    for the cattle, with Hermes leading and showing where they are hidden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Return to the hidden cattle
+  summary: Hermes and Apollo travel to Pylos and the Alpheus ford; Hermes goes to
+    the rock cave and begins driving out the cattle while Apollo sees cowhides on
+    the rock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:6
+  label: Failed binding and growing osiers
+  summary: Apollo attempts to bind Hermes with withes, but the bands do not hold and
+    instead grow and intertwine over the cattle, astonishing Apollo.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:7
+  - sym:3
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: theft of divine cattle
+  taxonomy_refs:
+  - sacred_theft
+  basis: Apollo reports that Hermes stole his cows, drove them away, hid them, and
+    later reveals their location under Zeus’ command.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage presents accusation, denial, and recovery; it does not include
+    the entire theft episode outside this excerpt.
+- id: motif:2
+  label: trickster newborn deceives elder god
+  taxonomy_refs:
+  - trickster_boundary
+  - miraculous_child
+  basis: Hermes is described as newborn or born yesterday, yet is accused of theft,
+    misleading tracks, hiding in a cave, false denial, and evasion of binding.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:11
+  confidence: high
+  cautions: The role is inferred from actions and speech in the passage, not from
+    an explicit label 'trickster' in the translation.
+- id: motif:3
+  label: divine judgement over a quarrel
+  taxonomy_refs:
+  - divine_judgment
+  basis: The gods assemble on Olympus, scales of judgement are set, Zeus hears the
+    matter and orders Hermes to reveal the cattle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage shows Zeus’ ruling action, not a formal sentence or punishment.
+- id: motif:4
+  label: divine father mediates between divine children
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hermes and Apollo are called children of Zeus; Hermes appeals to Zeus as
+    father, and Zeus resolves the dispute between them.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage emphasizes legal mediation more than family emotion.
+- id: motif:5
+  label: miraculous child with premature power
+  taxonomy_refs:
+  - miraculous_child
+  basis: Zeus and Hermes’ own speech mark Hermes as newly born, while Apollo reports
+    acts beyond ordinary infancy and wonders how he flayed two cows.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage does not narrate Hermes’ birth itself, only the extraordinary
+    actions attributed to him immediately afterward.
+- id: motif:6
+  label: failed binding of a divine trickster
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Apollo’s attempt to bind Hermes fails, and the binding withes grow away from
+    Hermes and cover the cattle.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The taxonomy reference is based on Hermes’ broader trickster behavior
+    within the passage; the binding episode itself is a specific magical escape.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: ll. 313-326 / source lines 6447-6457
+  quote_or_summary: Hermes and Apollo dispute each article of their quarrel, then
+    come to the top of Olympus before Zeus, where scales of judgement are set for
+    them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: ll. 313-326 / source lines 6458-6460
+  quote_or_summary: The immortals gather in assembly on snowy Olympus after the hour
+    of gold-throned Dawn.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: ll. 327-332 / source lines 6461-6467
+  quote_or_summary: Hermes and Apollo stand at Zeus’ knees; Zeus asks Apollo why he
+    comes driving a great spoil with a newborn child who has the look of a herald.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: ll. 333-364 / source lines 6468-6493
+  quote_or_summary: Apollo calls Hermes a child and burgling robber, says he stole
+    Apollo’s cows, drove them toward Pylos, made strange double tracks, and was noticed
+    by a mortal man.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: ll. 333-364 / source lines 6493-6502
+  quote_or_summary: Apollo says Hermes quietly shut up the cattle, returned by crafty
+    turns, lay in his cradle in a dim cave, and denied seeing or hearing about the
+    cattle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: ll. 368-386 / source lines 6506-6520
+  quote_or_summary: Hermes tells Zeus he speaks truth, denies driving Apollo’s cows
+    or crossing the threshold, says he was born yesterday, reveres Helios and the
+    gods, and claims Apollo threatened him with Tartarus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: ll. 387-396 / source lines 6521-6524
+  quote_or_summary: Hermes speaks while giving sidelong glances and keeping his swaddling-clothes
+    on his arm.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: ll. 387-396 / source lines 6524-6531
+  quote_or_summary: Zeus laughs at his evil-plotting child cunningly denying guilt,
+    commands both gods to search for the cattle, and orders Hermes to show where they
+    are hidden.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: ll. 397-404 / source lines 6532-6538
+  quote_or_summary: Hermes and Apollo go to sandy Pylos, reach the ford of Alpheus,
+    and arrive at fields and a byre; Hermes goes to a cave in the rock and begins
+    driving out the cattle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:10
+  type: summary
+  locator: ll. 397-408 / source lines 6538-6542
+  quote_or_summary: Apollo sees cowhides on the sheer rock and asks how newborn Hermes
+    could flay two cows.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:11
+  type: summary
+  locator: ll. 409-414 / source lines 6543-6544 and passage continuation
+  quote_or_summary: Apollo twists withes to bind Hermes, but the bands do not hold;
+    the osiers fall away, grow from the ground, intertwine, and cover the cattle by
+    Hermes’ will.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    use only the provided taxonomy references and remain draft classifications for
+    human review. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage text and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l6447-l6544
+  passage_sha256=8d900973767f723e176246eef3515b01cf52eb3dea3c9216225462fa9bb23b61
+

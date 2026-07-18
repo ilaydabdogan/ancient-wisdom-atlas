@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l7940-l8113
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: THIRTEENTH ADVENTURE / FOURTEENTH ADVENTURE / FIFTEENTH ADVENTURE / SIXTEENTH
+    ADVENTURE; lines 7940-8113
+  start: '7940'
+  end: '8113'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A royal hunting party gathers after the horn call. Siegfried captures an
+    untamed bear alive, rides to the camp richly armed and dressed, releases the bear
+    for sport, and then kills it when it runs through the camp. The company sits to
+    eat on a meadow, but wine is not brought; the narration notes hidden treachery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hounds and huntsmen make a great din in the forest, and a hunting horn summons
+    the hunters to the meeting place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Siegfried sights an untamed bear and proposes bringing it to the camp-fire
+    for sport.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Siegfried overtakes the bear on foot, captures it alive, binds it, and fastens
+    it to his saddle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Siegfried rides into camp carrying a spear, wearing a sword, horn, rich hunting
+    garments, quiver, bow, mantle, and the sword Balmung.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the camp, Siegfried loosens the bear; dogs howl, the bear runs through
+    the camp-fires, servants flee, kettles are overturned, and food falls into ashes.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hunters and dogs pursue the bear, but only Siegfried overtakes it; he kills
+    it with his sword at one blow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The noble company sits on a meadow for the meal and is served abundant food,
+    but no butler brings wine.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The narration states that treachery is hidden in secret among the otherwise
+    well-served company.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: A noble knight and spouse of Kriemhild who captures the bear, displays
+    rich hunting gear and weapons, and kills the bear.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Gunther / the king
+  description: The king who orders the hunters to be warned for refreshment and later
+    orders the dogs to be loosed against the bear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Hunters and huntsmen
+  description: The hunting party with hounds, horns, bows, and spears; they gather
+    at camp and pursue the bear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Untamed bear
+  description: A savage bear that Siegfried captures alive, brings to camp, releases,
+    and kills.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Hounds / dogs
+  description: Dogs used in the hunt; they howl at the bear and later pursue it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Noble company / knights and serving-men
+  description: The assembled men at the camp and meal, including knights and servants
+    who react to the released bear.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: heroic huntsman
+  assigned_to:
+  - fig:1
+  basis: Siegfried alone captures and later overtakes the untamed bear, and the passage
+    calls him a huntsman and man of might.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: bear-captor and bear-slayer
+  assigned_to:
+  - fig:1
+  basis: He binds the bear alive and later kills it with a single sword blow.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: royal host of the hunt
+  assigned_to:
+  - fig:2
+  basis: The king summons the hunters for refreshment and gives commands during the
+    camp scene.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: hunting party
+  assigned_to:
+  - fig:3
+  basis: The hunters release hounds, answer the horn, bring game to camp, and pursue
+    the bear.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: captured wild prey
+  assigned_to:
+  - fig:4
+  basis: The bear is described as untamed, captured, bound, released, pursued, and
+    killed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:6
+  label: hunting animals
+  assigned_to:
+  - fig:5
+  basis: The dogs are used in packs during the hunt and pursue the bear after it is
+    released.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:7
+  label: camp company and feast participants
+  assigned_to:
+  - fig:6
+  basis: Knights, serving-men, and the noble company occupy the camp and sit to the
+    meal after the hunt.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: untamed bear
+  literal_form: bear
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: hunting horn
+  literal_form: horn blown to summon or answer the hunters; Siegfried also wears a
+    glittering horn
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: camp-fire and flaming brands
+  literal_form: camp-fire; flaming brands scattered when the bear runs through camp
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Balmung
+  literal_form: Siegfried's broad, sharp sword named Balmung
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hunting hounds
+  literal_form: packs of hounds and leashed dogs
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: withheld wine service
+  literal_form: absence of butlers bringing wine after food is served
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Horn call after the hunt
+  summary: The forest hunt resounds with hounds and huntsmen; the king has a horn
+    blown to summon the hunters to refreshment, and Siegfried's huntsman answers it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Siegfried captures the bear alive
+  summary: Siegfried sees an untamed bear, releases a hound, pursues the bear on foot,
+    catches it, binds it, and fastens it to his saddle for sport at camp.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Siegfried's richly equipped arrival
+  summary: Siegfried rides into camp with the bear and is described with spear, sword,
+    horn, rich garments, quiver, bow, mantle, and Balmung.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The released bear disrupts the camp
+  summary: Siegfried releases the bear; dogs howl, the bear runs through camp-fires,
+    servants flee, kettles overturn, and food is scattered in ashes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Siegfried kills the bear
+  summary: Hunters pursue the bear with dogs, bow, and spear, but only Siegfried can
+    overtake it; he kills it with his sword at one blow and it is carried back to
+    camp.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Meal without wine and hidden treachery
+  summary: The noble company sits to a well-supplied meal on a meadow, but wine is
+    not brought; the narration notes secret treachery.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: heroic mastery of a wild beast
+  taxonomy_refs: []
+  basis: Siegfried alone captures an untamed bear alive, brings it to camp, and later
+    kills it with one sword blow after others cannot overtake it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level heroic pattern rather than a mapped taxonomy motif
+    in the supplied list.
+- id: motif:2
+  label: dangerous sport with a captive animal
+  taxonomy_refs: []
+  basis: Siegfried intentionally brings the bound bear to the camp-fire for sport,
+    then releases it, causing disorder among servants, food, fires, and dogs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the act as merry sport, but broader narrative purpose
+    should be reviewed in context.
+- id: motif:3
+  label: feast shadowed by hidden treachery
+  taxonomy_refs: []
+  basis: The company receives abundant food, yet the passage notes secret treachery
+    and emphasizes that wine is not brought.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The specific treacherous plan is not described within this excerpt; interpretation
+    depends on adjacent context.
+- id: motif:4
+  label: exceptional hero marked by splendid weapons and garments
+  taxonomy_refs: []
+  basis: Siegfried's appearance is elaborately described through rich clothing, quiver,
+    bow, horn, spear, and the named sword Balmung.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an epic characterization pattern, not necessarily a mythological
+    motif family from the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: stanzas 941-945
+  quote_or_summary: The forest echoes with hounds and huntsmen; the king has a horn
+    blown to summon the hunters to refreshment, and Siegfried's huntsman answers the
+    call.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:2
+  type: summary
+  locator: stanzas 946-950
+  quote_or_summary: Siegfried sees an untamed bear, proposes bringing it to the camp-fire
+    for sport, releases a hound, pursues the bear, captures it alive, binds it, and
+    fastens it to his saddle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:3
+  type: summary
+  locator: stanzas 951-956
+  quote_or_summary: Siegfried rides in stately hunting gear with spear, sword, glittering
+    horn, black silk tunic, sable cap, rich quiver, bow, otter-fur mantle, golden
+    seams, the sword Balmung, and gold-socketed arrows.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:4
+  type: summary
+  locator: stanzas 957-960
+  quote_or_summary: At camp, men take Siegfried's horse; he loosens the bear's bonds
+    and muzzle, dogs howl, the bear runs through the camp-fires, servants flee, kettles
+    overturn, food scatters into ashes, and the king orders dogs loosed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:5
+  type: summary
+  locator: stanzas 961-963
+  quote_or_summary: Hunters pursue the bear with bow and spear, but none can overtake
+    it except Siegfried, who kills it with his sword at one blow; witnesses call him
+    a man of might.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:6
+  type: summary
+  locator: stanzas 963-966
+  quote_or_summary: The noble company sits on a meadow and receives abundant food;
+    the narration says secret treachery is lurking, and Siegfried remarks that no
+    butlers bring wine.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summary derived from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the supplied passage. Motif candidates
+    are descriptive passage-level patterns and need human review for taxonomy alignment.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. Available taxonomy symbol ref 'fire' was applied only to the literal camp-fire image; no broader comparative claims were inferred.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l7940-l8113
+  passage_sha256=f711c8c0d18b8956cfd2b1378e1eb7247297052766593bdef536c7ed0a572cdf
+

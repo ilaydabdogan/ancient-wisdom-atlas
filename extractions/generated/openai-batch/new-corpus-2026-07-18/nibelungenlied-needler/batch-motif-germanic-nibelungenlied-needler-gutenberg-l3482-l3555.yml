@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l3482-l3555
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: SECOND ADVENTURE / THIRD ADVENTURE. / FOURTH ADVENTURE / FIFTH ADVENTURE;
+    lines 3482-3555
+  start: '3482'
+  end: '3555'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"Thou shalt let them freely / journey hence again"'
+  summary: The passage recounts a ransom offer for two defeated lords, Siegfried's
+    advice to release them on a pledge of friendship instead of taking the ransom,
+    a distribution of treasure, a courteous leave-taking, and Siegfried's delayed
+    departure from Gunther's court because Giselher persuades him to stay and because
+    he can see Kriemhild. The narrator links Siegfried's love for Kriemhild with later
+    sorrow and death.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two lords offer a ransom described as as much ruddy gold as five hundred horses
+    might bear, in order to be set free.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Siegfried says accepting the ransom would be foolish and advises that the
+    lords be allowed to depart freely.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Siegfried advises that the two lords give their hands as a pledge of friendship
+    and refrain afterward from leading hostile armies against the addressee and his
+    land.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The advice is followed; the offered gold is refused, and battle-weary warriors
+    desire to see their friends again.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Treasure is carried on shields and distributed generously to friends, with
+    each receiving five hundred marks or more; Gunther follows Gernot's counsel in
+    this matter.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At the leave-taking, warriors appear reverently before Kriemhild and before
+    Queen Ute, Kriemhild's mother.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the strangers ride away, Gunther remains at home with noble friends
+    who appear daily at court before Kriemhild.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Siegfried wants to depart because he despairs of gaining what his heart desires,
+    but Giselher persuades him to remain.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Giselher asks Siegfried to stay as Gunther's guest, live merrily, and see
+    many fair ladies.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Siegfried cancels his departure, leaves the steeds at rest, and has the shields
+    taken away, yielding to Giselher's entreaties.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Siegfried remains because of friendship and because he can see Kriemhild;
+    the narrator says Kriemhild's beauty makes him stay, that love oppresses him,
+    and that through it he is doomed to a mournful death.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: A noble, doughty, and gallant hero who advises release instead of ransom,
+    intends to depart, and then remains because of Giselher's entreaties and Kriemhild's
+    presence.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Two ransom-offering lords
+  description: Two unnamed lords whose freedom is at issue; they offer a great ransom
+    and are to pledge friendship by giving the hand and refraining from future hostile
+    armies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: King Gunther
+  description: A king at whose court Siegfried is asked to stay; he follows Gernot's
+    counsel in the treasure distribution and remains at home after the strangers depart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Gernot
+  description: A keen knight whose counsel Gunther follows in the distribution of
+    treasure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Kriemhild
+  description: A fair maiden before whom warriors appear reverently; Siegfried remains
+    where he can see her, and her beauty is said to make him stay.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:6
+  name_or_label: Queen Ute
+  description: Kriemhild's mother, seated near her during the warriors' reverent leave-taking.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Giselher
+  description: Gunther's brother, who asks Siegfried to remain as a guest and succeeds
+    in winning him to stay.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Warriors, thanes, and departing strangers
+  description: Battle-weary warriors and gallant thanes who receive treasure, take
+    leave before Kriemhild and Ute, and ride away.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Counselor for release by pledge
+  assigned_to:
+  - fig:1
+  basis: Siegfried advises rejecting the ransom, allowing the lords to depart, and
+    requiring hand-pledges of friendship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Released former enemies under pledge
+  assigned_to:
+  - fig:2
+  basis: The lords seek freedom by ransom and are to refrain from future hostile armies
+    after giving hands in friendship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Host king and treasure distributor
+  assigned_to:
+  - fig:3
+  basis: Gunther follows Gernot's counsel in distributing treasure and hosts Siegfried
+    at his court.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:4
+  label: Counsel-giving knight
+  assigned_to:
+  - fig:4
+  basis: The passage says Gunther followed Gernot's counsel in the treasure distribution.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Fair maiden and beloved presence
+  assigned_to:
+  - fig:5
+  basis: Kriemhild receives reverence at court, and Siegfried stays where he can see
+    her; her beauty causes him to remain.
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: role:6
+  label: Queen mother
+  assigned_to:
+  - fig:6
+  basis: Ute is identified as Kriemhild's mother and as a queen seated nearby.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Persuader of the departing hero
+  assigned_to:
+  - fig:7
+  basis: Giselher asks Siegfried to remain and wins him to stay.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:8
+  label: Love-stricken guest hero
+  assigned_to:
+  - fig:1
+  basis: Siegfried remains at the court for friendship and Kriemhild, and the narrator
+    says love oppresses him.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:9
+  label: Departing warriors and gift recipients
+  assigned_to:
+  - fig:8
+  basis: The warriors receive treasure, appear reverently before the courtly women,
+    and ride away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Ransom gold
+  literal_form: Ruddy gold as much as five hundred horses might bear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hand pledge
+  literal_form: Each lord giving the hand in pledge of friendship
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Treasure-laden shields
+  literal_form: Shields laden with treasure carried forth for distribution
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Rested steeds and stored shields
+  literal_form: Steeds left at rest and shields taken away after Siegfried cancels
+    departure
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Ransom offer and Siegfried's counsel
+  summary: A large gold ransom is proposed for two lords, but Siegfried advises that
+    accepting it would be foolish and that the lords should instead be released under
+    hand-pledges of friendship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ransom refused and treasure distributed
+  summary: The advice is followed, the ransom gold is not desired, and treasure carried
+    on shields is distributed generously to friends according to Gernot's counsel
+    followed by Gunther.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Courteous leave-taking before Kriemhild and Ute
+  summary: Warriors and thanes take leave reverently before Kriemhild and Queen Ute,
+    and the strangers ride away while Gunther remains with noble friends at court.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Siegfried's departure delayed
+  summary: Siegfried prepares to leave because he despairs of gaining his desire,
+    but Giselher urges him to stay as Gunther's guest, and Siegfried agrees to rest
+    the steeds and put away the shields.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Siegfried remains for Kriemhild
+  summary: Siegfried stays in the country because of friendship and because he can
+    see Kriemhild; the narrator attributes his stay to her beauty and connects his
+    oppressive love with a later mournful death.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Ransom refused in favor of pledged release
+  taxonomy_refs: []
+  basis: The proposed ransom of gold is rejected; Siegfried counsels free release
+    in exchange for future restraint and a hand-pledge of friendship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents a political or chivalric settlement; it does not
+    describe a sacred or supernatural exchange.
+- id: motif:2
+  label: Hand-pledge sealing peace
+  taxonomy_refs: []
+  basis: The two lords are to give their hands as a pledge of friendship and to refrain
+    from hostile armies thereafter.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The ritual or legal status of the gesture is not explained beyond the
+    wording of the pledge.
+- id: motif:3
+  label: Lavish distribution of treasure after conflict
+  taxonomy_refs: []
+  basis: Treasure is borne on shields and distributed widely to friends after the
+    ransom is refused.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify the full source of the treasure beyond the
+    immediate distribution scene.
+- id: motif:4
+  label: Hero's delayed departure
+  taxonomy_refs:
+  - departure
+  basis: Siegfried plans to depart, but Giselher persuades him to remain; Siegfried
+    rests the steeds and puts away the shields.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is an interrupted or postponed departure, not a completed journey
+    in the passage.
+- id: motif:5
+  label: Hero detained by sight of the beloved
+  taxonomy_refs: []
+  basis: Siegfried remains where he can see Kriemhild, and the narrator says her surpassing
+    beauty makes him stay.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: Kriemhild is not presented as divine or supernatural in this passage.
+- id: motif:6
+  label: Love foreshadowing the hero's death
+  taxonomy_refs: []
+  basis: The narrator says love for Kriemhild oppresses Siegfried and that by it he
+    is doomed to die mournfully.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage foreshadows death but does not narrate the death itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3482-3489
+  quote_or_summary: The lords offer what five hundred horses might bear of ruddy gold
+    to be freed; Siegfried replies that taking it would be foolish.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:2
+  type: quote
+  locator: stanza 315
+  quote_or_summary: 'Siegfried advises: "Thou shalt let them freely / journey hence
+    again" and requires that each "in pledge of friendship" give the hand and refrain
+    from hostile armies.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; concise quotation used.
+- id: ev:3
+  type: summary
+  locator: stanza 316
+  quote_or_summary: The advice is followed; the ransom offer is answered by saying
+    no one desires the gold, while battle-weary warriors long to see friends again.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: stanza 317
+  quote_or_summary: Many shields laden with treasure are brought forth; treasure is
+    distributed generously, and Gunther follows the counsel of Gernot.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: stanza 318
+  quote_or_summary: At the leave-taking, warriors appear reverently before Kriemhild
+    and before her mother Queen Ute, and are graciously dismissed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: stanza 319
+  quote_or_summary: The lodging-places become empty after the strangers ride away;
+    Gunther remains at home with noble friends who appear daily at court before Kriemhild.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: stanza 320
+  quote_or_summary: Siegfried also wishes to depart, despairing of gaining the thing
+    on which his heart is set; Giselher, Gunther's brother, wins him to stay.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: stanza 321
+  quote_or_summary: Giselher asks Siegfried to abide as guest with King Gunther and
+    says, "Here dwell fair ladies many."
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; concise quotation used.
+- id: ev:9
+  type: summary
+  locator: stanza 322
+  quote_or_summary: Siegfried agrees to desist from departure, leave the steeds at
+    rest, and have the shields taken away, yielding to Giselher's entreaties.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: stanzas 323-324
+  quote_or_summary: Siegfried stays for friendship and because he can see Kriemhild;
+    her beauty makes him remain, love oppresses him, and the narrator says this love
+    dooms him to a mournful death.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are passage-level
+    and mostly non-taxonomic; no comparison claims were added because the passage
+    itself supplies no explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs were applied, since none of the listed symbols occur literally in the passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l3482-l3555
+  passage_sha256=91751315c84b66c546a00861c3853fe80a502e086320595c30c065bd60c67522
+

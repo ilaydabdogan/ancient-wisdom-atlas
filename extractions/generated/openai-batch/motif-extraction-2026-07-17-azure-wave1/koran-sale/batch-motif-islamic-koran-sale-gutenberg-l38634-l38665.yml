@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38634-l38665
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCII. / ENTITLED, THE NIGHT;
+    REVEALED AT MECCA. / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38634-38665
+  start: '38634'
+  end: '38665'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The chapter swears by night, day, and the creator of male and female, then
+    contrasts different human endeavors. The obedient and God-fearing are led toward
+    happiness, while the covetous worldly denier is led toward misery and hellfire.
+    Divine direction and both present and future life belong to God. The passage warns
+    of fierce fire for the most wretched and promises removal from it and future satisfaction
+    for the one who avoids idolatry and rebellion and gives alms for the sake of the
+    Lord.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage invokes night covering all things with darkness, day shining forth,
+    and the creator of male and female.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that human endeavor is different.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One who is obedient, fears God, and professes the most excellent truth is
+    promised facilitation of the way to happiness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One who is covetous, absorbed in this world, and denies the most excellent
+    truth is promised facilitation of the way to misery.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The riches of the covetous denier are said not to profit him when he falls
+    headlong into hell.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The divine speaker says direction of mankind belongs to the speaker, as do
+    the life to come and the present life.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage threatens a fiercely burning fire, entered only by the most wretched
+    who disbelieved and turned back.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The one who strictly avoids idolatry and rebellion, gives substance in alms,
+    and gives for the sake of the Lord is removed far from the fire and later satisfied
+    with reward.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God / the Lord Most High
+  description: Named as the Most Merciful God and the Lord Most High; the passage
+    attributes creation, guidance, ownership of present and future life, warning,
+    removal from fire, and reward to the divine speaker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: obedient God-fearing giver
+  description: A person described as obedient, fearing God, professing the truth,
+    avoiding idolatry and rebellion, and giving substance in alms for the sake of
+    the Lord.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: covetous worldly denier / most wretched
+  description: A person described as covetous, taken up with this world, denying the
+    truth, disbelieving, turning back, and entering the burning fire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: divine creator, guide, judge, and rewarder
+  assigned_to:
+  - fig:1
+  basis: The passage names God, refers to creation of male and female, says direction
+    and both lives belong to the divine speaker, threatens fire, and promises removal
+    and reward.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: righteous recipient of happiness and reward
+  assigned_to:
+  - fig:2
+  basis: The obedient and God-fearing person who professes truth and gives alms for
+    the Lord is promised the way to happiness, removal from fire, and satisfaction
+    with reward.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: worldly disbeliever subject to misery and fire
+  assigned_to:
+  - fig:3
+  basis: The covetous worldly denier is assigned the way to misery; riches do not
+    profit him in hell, and the most wretched disbeliever enters the burning fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: night
+  literal_form: Night covering all things with darkness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: day
+  literal_form: Day shining forth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: male and female
+  literal_form: The male and the female created by God
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: fiercely burning fire
+  literal_form: Fire which burns fiercely
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hell
+  literal_form: Hell into which the denier falls headlong
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: riches and alms
+  literal_form: Riches that do not profit the denier; substance given in alms by the
+    righteous person
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Oath by cosmic alternations and created sexes
+  summary: The passage opens by invoking night, day, and the creator of male and female
+    before stating that human endeavor differs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Contrasted ways to happiness and misery
+  summary: The obedient believer is promised an facilitated way to happiness, while
+    the covetous worldly denier is promised an facilitated way to misery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Threat of fire and reward of the almsgiver
+  summary: The passage warns that the most wretched disbeliever will enter the fierce
+    fire, while the person who avoids idolatry and rebellion and gives alms for the
+    Lord will be removed from it and satisfied with reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: contrasted pairs and moral duality
+  taxonomy_refs:
+  - duality
+  basis: The passage juxtaposes night and day, male and female, happiness and misery,
+    present life and life to come, and righteous and wretched human types.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents ethical and cosmological contrasts; it does not narrate
+    a mythic conflict between paired beings.
+- id: motif:2
+  label: divine judgment by fire and reward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The divine speaker claims direction of mankind, warns of fierce fire for
+    disbelievers, and promises removal from fire and future satisfaction for the righteous
+    giver.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The judgment is stated as warning and promise rather than narrated as
+    an enacted judgment scene.
+- id: motif:3
+  label: almsgiving for divine reward
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The righteous person gives substance in alms not for recompense from others
+    but for the sake of the Lord, and is afterward satisfied with reward.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage explicitly rejects ordinary recompense; the motif is therefore
+    better read as pious giving and divine reward than as a reciprocal bargain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 38634-38640
+  quote_or_summary: Opening title and invocation; the passage swears by night covering
+    all things with darkness, by day shining forth, and by the creator of male and
+    female.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 38641-38647
+  quote_or_summary: 'Human endeavor is described as different: the obedient, God-fearing
+    professor of truth is led toward happiness, while the covetous worldly denier
+    is led toward misery.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 38648-38650
+  quote_or_summary: The denier's riches will not profit him when he falls headlong
+    into hell; direction of mankind, the life to come, and the present life belong
+    to the divine speaker.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 38651-38654
+  quote_or_summary: The passage threatens a fiercely burning fire, entered only by
+    the most wretched, who have disbelieved and turned back.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 38655-38660
+  quote_or_summary: The one who avoids idolatry and rebellion, gives substance in
+    alms, and gives for the sake of the Lord rather than recompense will be removed
+    from the fire and satisfied with reward.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied public-domain passage. Motif labels are
+    limited to the supplied taxonomy where directly supported. No separate comparison
+    claims are made because the passage does not itself compare this material with
+    another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  All observations and motif candidates are passage-level and evidence-linked; taxonomy references are used only where the supplied taxonomy directly fits the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38634-l38665
+  passage_sha256=1e4bbedb6d06b2277cea1ac6973d255a486e7b840fa4a9711e538a315519fa32
+

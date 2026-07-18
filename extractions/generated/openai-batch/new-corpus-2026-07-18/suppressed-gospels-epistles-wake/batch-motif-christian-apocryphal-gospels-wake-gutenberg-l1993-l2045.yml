@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l1993-l2045
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER X. / CHAPTER XI. / CHAP. XII. / CHAPTER XIII.; lines 1993-2045
+  start: '1993'
+  end: '2045'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Joseph leaves an unnamed woman and his sons in a cave and goes to Bethlehem
+    to seek a Hebrew midwife. As he travels, he observes clouds, birds, working people,
+    sheep, a shepherd, and kids at water all suspended in stillness or interrupted
+    motion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Joseph leaves an unnamed woman and his sons in the cave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joseph goes out to seek a Hebrew midwife in the village of Bethlehem.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Joseph looks into the air and sees clouds described as astonished and birds
+    stopped in mid-flight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Working people sit around a spread table with their hands on it but do not
+    move to eat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some people have meat in their mouths or raised hands, but the described motions
+    toward eating do not complete; their faces are fixed upward.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dispersed sheep stand still.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A shepherd raises his hand to strike the sheep, and the hand remains raised.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Kids stand with their mouths touching river water but do not drink.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Joseph
+  description: First-person observer who leaves the cave and goes to seek a Hebrew
+    midwife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed woman in the cave
+  description: Referred to only as “her”; left in the cave by Joseph.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Joseph's sons
+  description: Joseph's sons, left in the cave with the unnamed woman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Hebrew midwife
+  description: A Hebrew midwife in the village of Bethlehem whom Joseph goes to seek.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: clouds
+  description: Clouds in the air, described as astonished.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: fowls of the air
+  description: Birds stopped in the midst of their flight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: working people
+  description: People sitting around a spread table, motionless and not eating.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: sheep
+  description: Dispersed sheep that stand still.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: shepherd
+  description: A shepherd whose raised hand remains held up.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: kids
+  description: Young goats with mouths touching river water but not drinking.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seeker and first-person observer
+  assigned_to:
+  - fig:1
+  basis: Joseph leaves the cave to seek a midwife and narrates what he sees while
+    going.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: figures left in the cave
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that Joseph leaves the unnamed woman and his sons in the
+    cave.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sought Hebrew midwife
+  assigned_to:
+  - fig:4
+  basis: Joseph goes to Bethlehem to seek a Hebrew midwife.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: immobilized observed figures or phenomena
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: Clouds, birds, people, sheep, a shepherd, and kids are all described in suspended
+    or halted states.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Bethlehem village
+  literal_form: village of Bethlehem
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stopped flight in the air
+  literal_form: astonished clouds and fowls stopped in mid-flight
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: spread table and uneaten food
+  literal_form: table spread, meat in mouths, hands not completing eating motions
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: suspended hands and upward faces
+  literal_form: hands held in place and faces fixed upwards
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: still flock and shepherd
+  literal_form: dispersed sheep standing still and shepherd's raised hand remaining
+    up
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: river water not drunk
+  literal_form: river water touched by kids' mouths but not drunk
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Joseph leaves the cave to seek a midwife
+  summary: Joseph leaves the unnamed woman and his sons in a cave and goes toward
+    Bethlehem to seek a Hebrew midwife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aerial stillness
+  summary: While traveling, Joseph looks upward and sees astonished clouds and birds
+    stopped in mid-flight.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Human stillness at the table
+  summary: Joseph sees working people seated around a spread table, with eating motions
+    interrupted and faces fixed upward.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pastoral and river stillness
+  summary: Joseph observes sheep standing still, a shepherd's raised hand held in
+    place, and kids touching river water without drinking.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: universal stillness or suspended motion
+  taxonomy_refs: []
+  basis: 'The passage repeatedly describes natural, human, and animal actions halted:
+    birds stop in flight, people do not eat, sheep and a shepherd remain fixed, and
+    kids do not drink.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not explicitly explain the cause or theological meaning
+    of the stillness.
+- id: motif:2
+  label: midwife quest at a cave setting
+  taxonomy_refs:
+  - sacred_birth
+  basis: Joseph leaves figures in a cave and goes to Bethlehem to seek a Hebrew midwife.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not narrate the birth itself or identify a child; the
+    sacred-birth taxonomy link is based only on the midwife search and cave setting
+    in this passage.
+- id: motif:3
+  label: interrupted consumption at food and water
+  taxonomy_refs: []
+  basis: People with food do not complete eating, and kids touching river water do
+    not drink.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a local pattern within the broader stillness scene, not a separately
+    explained motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: CHAPTER XIII.1; lines 1993-2045
+  quote_or_summary: "“leaving her and his sons in the cave, Joseph went forth to seek
+    a Hebrew midwife in the village of Bethlehem.”"
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: CHAPTER XIII.2; lines 1993-2045
+  quote_or_summary: Joseph sees “the clouds astonished” and “the fowls of the air
+    stopping in the midst of their flight.”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: CHAPTER XIII.3-7; lines 1993-2045
+  quote_or_summary: Joseph sees working people around a spread table; their eating
+    motions remain incomplete, and their faces are fixed upward.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: CHAPTER XIII.8-9; lines 1993-2045
+  quote_or_summary: Joseph sees dispersed sheep standing still and a shepherd's hand
+    remaining raised as if to strike them.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: CHAPTER XIII.10; lines 1993-2045
+  quote_or_summary: Joseph sees kids “with their mouths close to the water, and touching
+    it, but they did not drink.”
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is clear from the passage. The universal-stillness pattern
+    is strongly supported; the sacred-birth taxonomy link is more cautious because
+    only the midwife search, not the birth itself, appears in the excerpt. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names such as Mary or Jesus are not supplied in the excerpt and were not added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l1993-l2045
+  passage_sha256=ac5505a26a744c5dfd520f44655d2c9b1812432a8d774df21505491f09ef4dd3
+

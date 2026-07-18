@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l12213-l12244
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE DRIVING OF THE CATTLE OF FLIDAIS / LITERAL TRANSLATION / THE APPARITION
+    OF THE GREAT QUEEN TO CUCHULAIN / INTRODUCTION; lines 12213-12244
+  start: '12213'
+  end: '12244'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: THE APPARITION OF THE GREAT QUEEN TO CUCHULAIN
+  summary: The introduction identifies the tale and its manuscript witnesses, notes
+    earlier editions and translations, describes a difficult song attributed to the
+    Morrigan, discusses the uncertain title, and summarizes identifications of the
+    woman as the Morrigan, the Great Queen, or Badb in related manuscript and Tain
+    bo Cualnge contexts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage title presents the episode as an apparition of the Great Queen
+    to Cuchulain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tale is said to be preserved in the Yellow Book of Lecan and Egerton 1782,
+    the same manuscripts named for two other cattle-driving tales.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A song is said to be sung by the Morrigan to Cuchulain; the editor says it
+    is difficult and corrupt and can only be understood as a jeering account of the
+    War of Cualgne.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The title Tain bo Regamna is said not to be connected with anything in the
+    tale as given; Windisch conjectures a title meaning the Driving of the Cow of
+    the Great Queen or Morrigan.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Morrigan is described as one of three goddesses of war and as the chief
+    among them; the three are named as Morrigan, Badb, and Macha.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Morrigan is also described as the wife of the Dagda, who is called the
+    chief god of the pagan Irish.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Yellow Book version calls the woman Badb, while the account in the Tain
+    bo Cualnge is said to agree with the Egerton version in calling her the Morrigan
+    or the Great Queen.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says that prophecies associated with this tale are fulfilled in
+    an account in the Tain bo Cualnge.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Named in the title as the figure to whom the Great Queen appears; also
+    named as the addressee of the Morrigan's song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Morrigan / the Great Queen
+  description: Named as the singer of a song to Cuchulain, identified with the Great
+    Queen in the conjectured title and at the end of the Egerton version, described
+    as chief among the three goddesses of war, and called wife of the Dagda.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Badb
+  description: Named as one of the three goddesses of war; the Yellow Book version
+    is said to call the woman Badb.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Macha
+  description: Named as one of the three goddesses of war.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Dagda
+  description: Described as the chief god of the pagan Irish and as the husband of
+    the Morrigan.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of apparition and song
+  assigned_to:
+  - fig:1
+  basis: The title names Cuchulain as the one to whom the Great Queen appears, and
+    the introduction says the Morrigan sings to Cuchulain.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: apparition figure
+  assigned_to:
+  - fig:2
+  basis: The title presents an apparition of the Great Queen, and the introduction
+    identifies the woman as the Morrigan or Great Queen in related textual witnesses.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: war goddess
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage names Morrigan, Badb, and Macha as the three goddesses of war.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: chief among war goddesses
+  assigned_to:
+  - fig:2
+  basis: The Morrigan is described as the chief of the three goddesses of war.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: divine spouse
+  assigned_to:
+  - fig:2
+  basis: The Morrigan is described as the wife of the Dagda.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: variant identification of the woman
+  assigned_to:
+  - fig:3
+  basis: The Yellow Book version is said to call the woman Badb, while other accounts
+    identify her as Morrigan or Great Queen.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: chief god
+  assigned_to:
+  - fig:5
+  basis: The Dagda is called the chief god of the pagan Irish.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Cow of the Great Queen
+  literal_form: The conjectured title Tain bo Morrigna, glossed as the Driving of
+    the Cow of the Great Queen or Morrigan.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: triad of war goddesses
+  literal_form: 'The named set of three goddesses of war: Morrigan, Badb, and Macha.'
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Great Queen epithet
+  literal_form: The name or epithet Great Queen, associated with the Morrigan in the
+    passage.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: editorial source framing
+  summary: The introduction states that the tale is preserved in the Yellow Book of
+    Lecan and Egerton 1782 and describes previous editions and translations.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: apparition and taunting song referenced
+  summary: The title frames the tale as the Great Queen's apparition to Cuchulain,
+    and the introduction refers to a song sung by the Morrigan to him, interpreted
+    by the editor as a jeering account of the War of Cualgne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:3
+  label: identification of the woman as war goddess
+  summary: The introduction discusses the uncertain cattle-driving title and identifies
+    the woman across witnesses as Morrigan, Great Queen, or Badb; it also defines
+    the Morrigan's place among the war goddesses and her relation to the Dagda.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine female apparition to a hero
+  taxonomy_refs: []
+  basis: The passage title explicitly frames the episode as an apparition of the Great
+    Queen to Cuchulain, and the introduction links the Great Queen with the Morrigan.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The excerpt is an introduction and does not narrate the apparition itself.
+- id: motif:2
+  label: war goddess triad
+  taxonomy_refs: []
+  basis: The Morrigan, Badb, and Macha are named as three goddesses of war, with Morrigan
+    described as their chief.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only an editorial description of the triad, not a narrated
+    episode involving all three.
+- id: motif:3
+  label: goddess speech as mockery or prophecy context
+  taxonomy_refs: []
+  basis: The introduction says the Morrigan sings to Cuchulain and that the song appears
+    to be a jeering account of the War of Cualgne; it also refers to prophecies fulfilled
+    in the Tain bo Cualnge.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The song is described as difficult and corrupt, and the excerpt does not
+    provide the prophecy content.
+- id: motif:4
+  label: divine cow or cattle-driving association
+  taxonomy_refs: []
+  basis: Windisch's conjectured title is glossed as the Driving of the Cow of the
+    Great Queen or Morrigan.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage explicitly says the transmitted title is not connected with
+    anything in the tale as given, and the cow-title is presented as conjectural.
+comparison_claims:
+- id: claim:1
+  claim: The introduction links this tale with an account in the Tain bo Cualnge,
+    stating that the prophecies are fulfilled there and that the account agrees with
+    the Egerton version in identifying the woman as the Morrigan or the Great Queen.
+  claim_level: same_function
+  target: Tain bo Cualnge account in the Leabhar na h-Uidhri facsimile, pp. 74 and
+    77
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not quote or summarize the relevant Tain bo Cualnge
+    episode beyond the fulfilled prophecies and the woman's name or epithet.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12213-12217
+  quote_or_summary: 'Title: "THE APPARITION OF THE GREAT QUEEN TO CUCHULAIN"; tale
+    label: "TAIN BO REGAMNA."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 12218-12226
+  quote_or_summary: The tale is said to be given by the Yellow Book of Lecan and Egerton
+    1782; Windisch's edition and Miss Hull's English translation are noted.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 12227-12231
+  quote_or_summary: The introduction says the Morrigan sings a song to Cuchulain;
+    the editor finds the Irish difficult and corrupt and understands it only as a
+    jeering account of the War of Cualgne.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 12232-12237
+  quote_or_summary: The title Tain bo Regamna is said not to connect with the tale
+    as given; Windisch conjectures Tain bo Morrigna, glossed as the Driving of the
+    Cow of the Great Queen or Morrigan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 12237-12240
+  quote_or_summary: The Morrigan is described as one of three goddesses of war, chief
+    among Morrigan, Badb, and Macha, and as wife of the Dagda, chief god of the pagan
+    Irish.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 12240-12244
+  quote_or_summary: The Yellow Book version calls the woman Badb, while the Tain bo
+    Cualnge account where the prophecies are fulfilled agrees with the Egerton version
+    in calling her the Morrigan or the Great Queen.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial introduction rather than the narrative episode
+    itself, so figure identifications are clear but motifs are mostly inferred from
+    titles and editorial summaries.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage supports war-goddess, apparition, prophecy, and cattle-title patterns but not the provided taxonomy IDs directly.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l12213-l12244
+  passage_sha256=7f6334117e0a9ea5a57d80e8fd1fdb30e5e9784e6cef17c4df3f33d1000bad4b
+

@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l5171-l5215
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: I. THE FIRST PEOPLE. / ABORIGINAL TRIBES OF GUIANA. 105 / ABORIGINAL TRIBES
+    OF GUIANA. 109 / LEGENDS AND MYTHS OF THE; lines 5171-5215
+  start: '5171'
+  end: '5215'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"On them let your traffic be."'
+  summary: The passage says rocks and cliffs were charmed away, making the earth more
+    suitable for habitation. Amalivaca advises people to settle near streams and use
+    waterways for communication and traffic. The people reply that tidal travel is
+    easy but upriver travel beyond the tide is hard, and they ask Amalivaca to use
+    his skill to remedy this difficulty.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Many rocks and cliffs are said to have been charmed away by a power not fully
+    identified within this excerpt.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The removal of rocks and cliffs is presented as making the earth more suitable
+    for habitation.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A speaker advises that communication should exist with all surrounding places.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker contrasts carrying loads on a forest path or road with the easing
+    of heavy burdens when a canoe bears them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker tells each man to make his clearing near a stream, fix his home
+    there, and use streams for traffic.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Men who hear the advice address Amalivaca and say travel is easy with falling
+    or rising tide because they can obey the current in either direction.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The men say that, when going upward beyond tidal power, they receive no help
+    and experience heavy work, weariness, and toil.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The men ask Amalivaca to exert his wondrous skill and remedy the difficulty
+    of travel beyond the tidal reach.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Amalivaca
+  description: Named figure addressed by the men; associated in the passage with advice
+    and requested to use wondrous skill.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: men who heard Amalivaca
+  description: People who hear the advice, describe tidal and upriver travel, and
+    ask Amalivaca for help.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: unidentified powerful agents
+  description: The passage says rocks and cliffs were charmed away by “their power,”
+    but the excerpt does not identify the antecedent of “their.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: adviser asked to remedy travel difficulty
+  assigned_to:
+  - fig:1
+  basis: Amalivaca is addressed by the men after the advice about waterways, and they
+    ask him to exert his wondrous skill to remedy the problem.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:2
+  label: listeners and petitioners
+  assigned_to:
+  - fig:2
+  basis: The men hear the advice, explain their difficulty with upriver travel, and
+    request aid.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: land-transforming agents
+  assigned_to:
+  - fig:3
+  basis: Rocks and cliffs are said to have been charmed away by “their power,” though
+    the agents are not named in the excerpt.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: streams and tidal waters
+  literal_form: streams, falling tide, rising tide, current, tidal power
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: canoe
+  literal_form: canoe bearing heavy burdens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rocks and cliffs
+  literal_form: many rocks and cliffs charmed away
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: clearing near a stream
+  literal_form: clearing and home fixed near some stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Landscape made habitable
+  summary: Rocks and cliffs are said to be charmed away, making the earth more suitable
+    for habitation.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Advice to settle and travel by streams
+  summary: Amalivaca advises that communication should be established and that people
+    should make clearings near streams, fix homes there, and use waterways and canoes
+    to ease transport.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Petition about travel beyond the tide
+  summary: The men reply that tidal travel is easy but upriver travel beyond tidal
+    help is difficult, and they ask Amalivaca to use his skill to remedy the problem.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: land made suitable for human habitation by supernatural alteration
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage states that rocks and cliffs were charmed away and that the earth
+    thereby became more suitable for habitation.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not clearly identify the agents of the landscape alteration;
+    assigning this to a culture-hero pattern requires review.
+- id: motif:2
+  label: culture figure instructs people in settlement and transport
+  taxonomy_refs:
+  - culture_hero
+  basis: Amalivaca is connected with advice to settle near streams, establish homes,
+    and use waterways for traffic; the people then ask him to apply wondrous skill
+    to a practical travel problem.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage is a missionary verse retelling, and the broader narrative
+    context is not included here.
+- id: motif:3
+  label: waterways as ordered routes of communication and traffic
+  taxonomy_refs: []
+  basis: The speaker explicitly directs that streams should be used for traffic and
+    explains that canoes lighten heavy burdens.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific external taxonomy reference is available beyond the literal
+    water symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5171-5178
+  quote_or_summary: "“Many rocks and cliffs” were “charmed away,” and the earth was
+    thus made “Much more suitable” for habitation."
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5179-5182
+  quote_or_summary: The speaker says, “Communication / There must be with all around.”
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5183-5190
+  quote_or_summary: The speaker says that on a forest path each person must carry
+    a load, but when a canoe carries burdens, heavy burdens become light.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:4
+  type: quote
+  locator: lines 5191-5198
+  quote_or_summary: The speaker tells each man to make a clearing near a stream, fix
+    his home there, and says, “On them let your traffic be.”
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5199-5207
+  quote_or_summary: Men who heard the advice address Amalivaca and say that with falling
+    or rising tide their course is easy and they can go with the current either way.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:6
+  type: summary
+  locator: lines 5208-5213
+  quote_or_summary: The men say that after passing the tidal power while going upward,
+    there is no help; the work is heavy and marked by weariness and toil.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:7
+  type: quote
+  locator: lines 5214-5215
+  quote_or_summary: The men ask, “Now exert thy wondrous skill — / Strive to remedy
+    this ill.”
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment to culture_hero is
+    plausible because Amalivaca gives practical ordering advice and is asked for wondrous
+    skill, but the line about rocks and cliffs has an unclear antecedent within this
+    excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparison to another tradition or corpus.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l5171-l5215
+  passage_sha256=d94ef368a9ac5b8d2999f347902a153a8ad73b66813e0df4dacfb28a2b7038cf
+

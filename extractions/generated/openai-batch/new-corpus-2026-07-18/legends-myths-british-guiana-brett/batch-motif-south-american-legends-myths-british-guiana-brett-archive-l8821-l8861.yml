@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l8821-l8861
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: ABORIGINAL TRIBES OF GUIANA. 191 / ABORIGINAL TRIBES OF GUIANA. 193 / ABORIGINAL
+    TRIBES OF GUIANA. 195 / LEGENDS AND MYTHS OF THE; lines 8821-8861
+  start: '8821'
+  end: '8861'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A man pursuing his bewitched wife recalls that she ate pears whose seeds
+    sprouted after rain. He travels toward the rising sun, thinks he is nearing earth's
+    limit and the sky, finds his wife's and a tapir's footprints, sees them walking
+    together, then shoots Wailya through the heart before Wailya can change form and
+    cuts off his head.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman who had saved the man's life said that a sorcerer had bewitched his
+    wife and was a man in brutish form.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man remembered that his wife had taken pears and eaten them by the way;
+    rains effaced her steps and caused the seeds to sprout and grow where they lay.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man went on sadly and wearily toward the rising sun and thought earth's
+    limit and the sky were near.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man found the small footprints of his wife and the clear footprints of
+    a tapir.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The man saw his wife and the tapir walking together, absorbed in cheerful
+    talk.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The man shot Wailya through the heart before Wailya could change form, then
+    cut off his head; the ground where he lay was warm with blood.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A sad and worn man seeking his wife, following signs, and killing Wailya.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the wife
+  description: The man's wife, described as bewitched; she had eaten pears by the
+    way, left small footprints, and was seen walking with the tapir.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: she who saved his life
+  description: A female figure who saved the man's life and told him that a sorcerer
+    had bewitched his wife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Wailya / sorcerer in brutish form
+  description: A sorcerer described as a man in brutish form, associated in the sequence
+    with the tapir walking with the wife, able to change form, and killed by the man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: seeking husband and avenger
+  assigned_to:
+  - fig:1
+  basis: He seeks his wife, follows her and the tapir's tracks, then shoots and beheads
+    Wailya.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: bewitched wife
+  assigned_to:
+  - fig:2
+  basis: She is explicitly called the man's wife and is said to have been bewitched
+    by a sorcerer.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rescuer and informant
+  assigned_to:
+  - fig:3
+  basis: She had saved the man's life and gave him information about the sorcerer
+    and his wife.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: sorcerer-antagonist in animal or brutish form
+  assigned_to:
+  - fig:4
+  basis: The passage calls the antagonist a sorcerer, a man in brutish form, and shows
+    Wailya unable to change form before being killed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: pears and sprouting seeds
+  literal_form: Pears eaten by the wife; their seeds sprout and grow after rain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: rain
+  literal_form: Rains that efface the wife's steps and cause seeds to sprout.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rising sun
+  literal_form: The direction toward which the man travels.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth's limit and near sky
+  literal_form: The man thinks earth's limit is near and that the sky is coming nearer.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: tapir or brutish form
+  literal_form: The tapir's footprints and the tapir walking with the wife, in context
+    of a man in brutish form and Wailya's ability to change form.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: heart, head, and blood
+  literal_form: Wailya is shot through the heart, beheaded, and the ground is warm
+    with his blood.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Information about the bewitched wife and remembered trail
+  summary: The man recalls that a life-saving woman told him his wife was bewitched
+    by a sorcerer in brutish form, and he thinks of the pears his wife ate and the
+    seeds that sprouted after rain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pursuit toward the rising sun
+  summary: The man travels sadly toward the rising sun, believes he is nearing earth's
+    limit and the sky, then finds the footprints of his wife and a tapir and sees
+    them walking together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Killing of Wailya
+  summary: The man shoots Wailya through the heart before he can change form and then
+    cuts off his head.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: bewitched wife sought by husband
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The man's wife is said to be bewitched by a sorcerer, and the man continues
+    toward her, follows her traces, and finds her with the tapir figure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage says the wife is bewitched; it does not explicitly state in
+    this excerpt that she was abducted or stolen.
+- id: motif:2
+  label: sorcerer in animal or brutish form who can change shape
+  taxonomy_refs:
+  - shapeshifter
+  basis: The antagonist is described as a man in brutish form, is associated with
+    the tapir in the pursuit scene, and is killed before he can change form.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact relationship between the names Wailya, the sorcerer, and the
+    tapir is inferred from the immediate passage sequence.
+- id: motif:3
+  label: journey toward the world edge
+  taxonomy_refs:
+  - mystical_quest
+  basis: The man travels toward the rising sun and thinks earth's limit and the sky
+    are near while pursuing his task.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the travel as pursuit of the wife; a broader mystical
+    quest or cosmological journey is not fully developed in this excerpt.
+- id: motif:4
+  label: trail discovered through growth and footprints
+  taxonomy_refs: []
+  basis: The wife’s eaten pears leave seeds that sprout after rain, and the man later
+    finds the small footprints of his wife and the tapir's footprints.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly say the sprouting seeds guide him in this
+    excerpt, though they are presented as remembered traces.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8821-8826
+  quote_or_summary: The man’s hope revives because the woman who saved his life had
+    said that a sorcerer had bewitched his wife, a man in brutish form.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8827-8832
+  quote_or_summary: The man thinks of his wife taking and eating pears; rains efface
+    her steps and cause the pear seeds to sprout and grow where they lay.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8835-8841
+  quote_or_summary: Sad and worn, the man continues toward the rising sun and says
+    that earth's limit and the sky must be near and his task soon done.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8842-8848
+  quote_or_summary: The man finds his wife’s small footprints and the tapir's clear
+    footprints, then sees the two walking together and absorbed in cheerful talk.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8849-8861
+  quote_or_summary: The man shoots Wailya through the heart before Wailya can change
+    form, cuts off his head, and the ground is warm with his blood.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear about the pursuit, enchantment, tapir/Wailya sequence,
+    and killing. Some role and motif labels depend on interpreting the verse sequence
+    that links the sorcerer, tapir, and Wailya.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the excerpt itself does not provide explicit cross-textual or inter-traditional comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l8821-l8861
+  passage_sha256=0522010848aea883858bc6e2ce1591fdb0c4d185a53e4eb006e0b893c9233658
+

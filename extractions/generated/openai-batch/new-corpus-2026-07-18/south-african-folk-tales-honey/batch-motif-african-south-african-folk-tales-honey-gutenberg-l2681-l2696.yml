@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2681-l2696
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: LION WHO THOUGHT HIMSELF WISER THAN HIS MOTHER / LION WHO TOOK A WOMAN'S
+    SHAPE / WHY HAS JACKAL A LONG BLACK STRIPE ON HIS BACK? / HORSE CURSED BY SUN;
+    lines 2681-2696
+  start: '2681'
+  end: '2696'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: '"Behold, this is the judgment which I pass upon thee," said Sun.'
+  summary: Sun is said to have once been on earth and to have tried to ride Horse.
+    Horse could not bear Sun's weight, so Ox carried Sun instead. Sun then cursed
+    Horse with a certain time of dying and an unsatisfied appetite, and Horse's time
+    of dying began from that day.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that Sun was once on earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sun caught Horse in order to ride it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Horse was unable to bear Sun's weight.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ox took Horse's place and carried Sun on its back.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Sun pronounced a curse or judgment on Horse because Horse could not carry
+    Sun's weight.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The curse gives Horse a certain time of dying and states that Horse will eat
+    day and night without its heart's desire being at rest.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage concludes that Horse's certain time of dying commenced from that
+    day.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: A personified Sun who is said to have been on earth, tried to ride
+    Horse, was carried by Ox, and pronounced judgment on Horse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Horse
+  description: An animal caught by Sun to be ridden; it could not bear Sun's weight
+    and was cursed with a certain time of dying and continuing appetite.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ox
+  description: An animal that took Horse's place and carried Sun on its back.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: judge and curse-pronouncer
+  assigned_to:
+  - fig:1
+  basis: Sun explicitly states the curse and calls it the judgment he passes on Horse.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: intended rider
+  assigned_to:
+  - fig:1
+  basis: Sun catches Horse to ride it and is then carried by Ox.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: failed bearer
+  assigned_to:
+  - fig:2
+  basis: Horse cannot bear Sun's weight.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: cursed animal
+  assigned_to:
+  - fig:2
+  basis: Horse is cursed by Sun and its certain time of dying begins from that day.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: substitute bearer
+  assigned_to:
+  - fig:3
+  basis: Ox takes Horse's place and carries Sun on its back.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Sun on earth
+  literal_form: Personified Sun present on earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: spoken curse or judgment
+  literal_form: Sun's spoken curse giving Horse a certain time of dying and restless
+    appetite
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Failed and substituted carrying of Sun
+  summary: Sun is on earth, catches Horse to ride it, but Horse cannot bear Sun's
+    weight; Ox takes Horse's place and carries Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sun's curse on Horse
+  summary: Sun curses Horse with a certain time of dying and an unsatisfied appetite,
+    and the passage states that Horse's time of dying began from that day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine or celestial judgment through curse
+  taxonomy_refs:
+  - divine_judgment
+  basis: Sun pronounces a curse on Horse and explicitly names it as a judgment.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage identifies Sun as the judging speaker, but it does not elaborate
+    a broader theology or court scene.
+- id: motif:2
+  label: Etiological curse explaining Horse's mortality and restless appetite
+  taxonomy_refs: []
+  basis: The passage explains that because Horse could not carry Sun's weight, Horse
+    was cursed with a certain time of dying and continued unsatisfied grazing, beginning
+    from that day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The extracted motif is functional and local to this passage; no external
+    motif index number is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared at the motif-family level to divine
+    judgment narratives because a celestial figure explicitly passes judgment in the
+    form of a curse.
+  claim_level: same_motif
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a classification claim only; the passage provides no evidence
+    for historical contact or dependence.
+- id: claim:2
+  claim: The passage functions like an etiological animal-origin tale by explaining
+    a present condition of Horse as beginning after a mythic event.
+  claim_level: same_function
+  target: etiological animal-origin pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the etiological function, but no specific external
+    comparator or nearby corpus parallel is provided.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2681-2685
+  quote_or_summary: Sun was once on earth, caught Horse to ride it, but Horse could
+    not bear Sun's weight; Ox then took Horse's place and carried Sun.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2685-2694
+  quote_or_summary: '"This is thy curse, that thou hast a (certain) time of dying"
+    and "Behold, this is the judgment which I pass upon thee," said Sun.'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: line 2696
+  quote_or_summary: Since that day, Horse's certain time of dying commenced.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based entirely on the supplied passage. Comparison claims are
+    limited to motif-family and functional classification, not historical relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were applied because the available symbol list does not include Sun, horse, ox, curse, or judgment.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2681-l2696
+  passage_sha256=9899f03cca6e1519cadab45ee5bfecdc00167113a2b4d1df44cfffa28f31e216
+

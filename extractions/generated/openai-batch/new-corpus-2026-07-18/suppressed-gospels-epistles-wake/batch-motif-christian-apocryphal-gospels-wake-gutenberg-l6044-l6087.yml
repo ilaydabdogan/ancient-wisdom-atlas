@@ -1,0 +1,465 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l6044-l6087
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER II. / CHAPTER III. / CHAPTER IV. / CHAP. V.; lines 6044-6087
+  start: '6044'
+  end: '6087'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A nobleman reports that Jesus healed his dying son by word. Other Jewish
+    witnesses acclaim Jesus as the Son of God, say that he cures diseases and that
+    devils are subject to him, and attribute such power to God. Others report that
+    Jesus raised Lazarus after four days in the grave. Pilate trembles and asks what
+    profit there would be in shedding innocent blood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A certain nobleman says that his son in Capernaum was at the point of death
+    and that he asked Jesus to come down and heal him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jesus tells the nobleman to go his way because his son lives.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The nobleman's son is said to have been cured from that hour.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Many Jews, both men and women, say that Jesus is truly the Son of God.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speakers say that Jesus cures all diseases only by his word and that devils
+    are altogether subject to him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some speakers say that this power can proceed only from God.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pilate asks why devils are not subject to the Jewish doctors.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Others tell Pilate that Jesus raised Lazarus from the dead after Lazarus had
+    been four days in his grave.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The governor hears this, trembles, and asks the Jewish multitude what profit
+    there would be in shedding innocent blood.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: certain nobleman
+  description: A nobleman who says he had a dying son in Capernaum and sought Jesus'
+    help.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: nobleman's son
+  description: The nobleman's son, described as near death and then cured from the
+    hour of Jesus' word.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Jesus
+  description: Jesus is approached for healing, speaks the healing word, is acclaimed
+    as Son of God, is said to cure diseases by word, have devils subject to him, and
+    have raised Lazarus.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: many Jews, men and women
+  description: Jewish men and women who cry out testimony about Jesus' identity and
+    power; others report Lazarus' raising to Pilate.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Pilate / the governor
+  description: Pilate questions the Jews about devils and their doctors, then trembles
+    after hearing the report about Lazarus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Jewish doctors
+  description: Doctors mentioned in Pilate's question about why devils are not subject
+    to them.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: devils
+  description: Devils are said to be altogether subject to Jesus and not subject to
+    the doctors in Pilate's question.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: Lazarus
+  description: A man reported to have been raised from the dead after four days in
+    his grave.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: God
+  description: God is named by speakers as the only possible source of the power to
+    subject devils and perform such works.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: petitioner-parent
+  assigned_to:
+  - fig:1
+  basis: The nobleman seeks Jesus' help for his son, who is at the point of death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: endangered and healed child
+  assigned_to:
+  - fig:2
+  basis: The son is described as near death and then cured from the hour of Jesus'
+    word.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: healer by word and miracle worker
+  assigned_to:
+  - fig:3
+  basis: Jesus' word is followed by the son's cure; witnesses say he cures diseases
+    by word and raised Lazarus from the dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: acclaimed Son of God and divine agent
+  assigned_to:
+  - fig:3
+  basis: Witnesses call Jesus the Son of God and say his power proceeds from God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: public witnesses and speakers
+  assigned_to:
+  - fig:4
+  basis: Many Jews speak publicly about Jesus' identity, power, and the Lazarus report.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: governor and interrogator
+  assigned_to:
+  - fig:5
+  basis: Pilate questions the Jews and trembles after hearing the report about Lazarus.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:7
+  label: doctors invoked in contrast
+  assigned_to:
+  - fig:6
+  basis: Pilate asks why devils are not subject to the Jewish doctors.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: subject spirits
+  assigned_to:
+  - fig:7
+  basis: Devils are said to be subject to Jesus, and their subjection is described
+    as a power proceeding from God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:9
+  label: raised dead person
+  assigned_to:
+  - fig:8
+  basis: Lazarus is reported to have been raised from the dead after four days in
+    his grave.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: source of power in testimony
+  assigned_to:
+  - fig:9
+  basis: Speakers say the power to subject devils and perform such acts can proceed
+    only from God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: healing word
+  literal_form: Jesus' spoken command and the claim that he cures diseases only by
+    his word
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: four days in the grave
+  literal_form: Lazarus is said to have been four days in his grave before being raised
+  associated_figures:
+  - fig:8
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: innocent blood
+  literal_form: Pilate's phrase about shedding innocent blood
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Nobleman's son healed at a distance
+  summary: A nobleman reports asking Jesus to heal his dying son; Jesus tells him
+    that his son lives, and the son is cured from that hour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Public acclamation of Jesus' power
+  summary: Many Jewish men and women acclaim Jesus as Son of God and say that he cures
+    diseases by word and has devils subject to him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pilate questions the doctors' lack of power over devils
+  summary: Pilate asks why devils are not subject to the Jewish doctors, and speakers
+    answer that such power proceeds only from God.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Lazarus report and Pilate's warning
+  summary: Others report that Jesus raised Lazarus after four days in the grave; the
+    governor trembles and questions the value of shedding innocent blood.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: remote healing by authoritative word
+  taxonomy_refs: []
+  basis: The nobleman asks Jesus to come heal his dying son; Jesus instead speaks
+    that the son lives, and the son is cured from that hour.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No exact available taxonomy reference for verbal or remote healing is
+    supplied.
+- id: motif:2
+  label: divine sonship attested by miraculous power
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Witnesses call Jesus the Son of God and connect his powers to God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives an acclamation and attribution of power, not an extended
+    parent-child narrative.
+- id: motif:3
+  label: divine power over devils
+  taxonomy_refs: []
+  basis: Witnesses say devils are subject to Jesus, and some say the power of subjecting
+    devils can proceed only from God.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports testimony about subjection of devils rather than narrating
+    a specific exorcism scene.
+- id: motif:4
+  label: raising the dead after four days
+  taxonomy_refs:
+  - resurrection
+  basis: Others say Jesus raised Lazarus from the dead after Lazarus had been four
+    days in his grave.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a brief reported claim, not the full Lazarus episode.
+- id: motif:5
+  label: innocent blood warning before violence
+  taxonomy_refs: []
+  basis: Pilate trembles and asks what profit there would be in shedding innocent
+    blood.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not fully narrate the threatened act in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The report that Lazarus was raised from the dead after four days in the grave
+    supports classification with a resurrection motif family.
+  claim_level: same_motif
+  target: resurrection
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family classification from a brief report, not a full
+    comparison with another narrative.
+- id: claim:2
+  claim: The acclamation of Jesus as Son of God and the attribution of his power to
+    God support a cautious functional link to a divine parent-child motif family.
+  claim_level: same_function
+  target: divine_parent_child
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses divine-sonship language but does not describe a birth,
+    genealogy, or direct parent-child interaction.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6044-6052; verse 38
+  quote_or_summary: A nobleman says his son in Capernaum lay at the point of death
+    and that he asked Jesus, who had come into Galilee, to come heal him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 6053-6057; verses 39-40
+  quote_or_summary: Jesus says, "Go thy way, thy son liveth"; the son is cured from
+    that hour.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6058-6065; verse 41
+  quote_or_summary: Many Jews, men and women, say Jesus is truly the Son of God, cures
+    all diseases only by his word, and has devils subject to him.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6066-6077; verses 42-44
+  quote_or_summary: Some say the power can proceed only from God; Pilate asks why
+    devils are not subject to their doctors; others answer that subjecting devils
+    can proceed only from God.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6078-6082; verse 45
+  quote_or_summary: Others tell Pilate that Jesus raised Lazarus from the dead after
+    Lazarus had been four days in his grave.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 6083-6087; verse 46
+  quote_or_summary: The governor hears this, trembles, and asks the Jewish multitude
+    what profit there would be in shedding innocent blood.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events and speakers are clear in the supplied passage. Motif labels
+    are mostly direct, but some taxonomy mapping, especially divine_parent_child,
+    is cautious and requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or source-dependence claims are made.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l6044-l6087
+  passage_sha256=ea1c473351210134c2bb98c157f5b4b490df1bcd6ae0f9b3de53174f796215e6
+

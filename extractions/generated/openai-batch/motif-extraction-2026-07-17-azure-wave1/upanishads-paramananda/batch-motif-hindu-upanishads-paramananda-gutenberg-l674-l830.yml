@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l674-l830
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: OM!  PEACE!  PEACE!  PEACE! / XVIII / OM! PEACE! PEACE! PEACE! / Part First;
+    lines 674-830
+  start: '674'
+  end: '830'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage opens the first part of the Katha Upanishad narrative: Vahasrava
+    performs a sacrifice and gives away depleted cows; his son Nachiketas questions
+    the adequacy of the gift and is angrily promised to Death. Nachiketas goes to
+    Yama''s abode, waits three nights without food or drink, is received as a Brahmana
+    guest, and receives three boons. His first boon concerns reconciliation with his
+    father; his second asks Death to teach the fire-sacrifice leading to heaven.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vahasrava undertakes the Viswajit sacrifice seeking heavenly rewards and makes
+    a gift of all he possesses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nachiketas is identified as Vahasrava's son, and faith or Shraddha enters
+    him while the offerings are being distributed.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: 'The cows being offered are described as exhausted: they have drunk water,
+    eaten grass, given milk for the last time, and lost vigor.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Nachiketas states that a giver of such cows goes to joyless realms.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Nachiketas asks his father three times to whom he will be given, and the father
+    replies that he will give him to Death.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Nachiketas reflects on human mortality using the image of grain that decays
+    and springs up again.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Nachiketas goes to the abode of Death; Yama is absent, and the boy waits three
+    days without food or drink.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A household member says that a Brahmana guest enters houses like fire and
+    that this fire should be quenched by an offering, including water.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: obs:9
+  text: Yama returns, salutes Nachiketas as a Brahmana and revered guest, and offers
+    him three boons because he remained three nights without food.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Nachiketas chooses as his first boon that his father become free from anxiety
+    and anger and welcome him when he is sent back; Yama grants this.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Nachiketas describes heaven as free from fear, Death, old age, hunger, thirst,
+    and grief, and asks Death to teach the fire-sacrifice leading there as his second
+    boon.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Nachiketas' father, named Vahasrava/Gautama/Auddalaki Aruni in the
+    passage
+  description: He performs the Viswajit sacrifice, gives depleted cows, angrily says
+    he gives Nachiketas to Death, and is the object of Nachiketas' first boon for
+    reconciliation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Nachiketas
+  description: A young son filled with Shraddha who questions the sacrifice, is pledged
+    to Death, goes to Yama's abode, waits three nights unfed, and asks boons from
+    Death.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Yama, Death, Vaivaswata
+  description: The Lord or Ruler of Death; he is absent when Nachiketas arrives, returns,
+    receives him as a guest, grants three boons, and is said to know the fire-sacrifice
+    leading to heaven.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Unnamed member of Yama's household
+  description: A household member informs Yama that a Brahmana guest has remained
+    without food and asks that water be brought.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: father
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Vahasrava as having a son named Nachiketas and later
+    has Nachiketas call Gautama his father.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: sacrificer and giver
+  assigned_to:
+  - fig:1
+  basis: He performs the Viswajit sacrifice and gives away possessions, including
+    depleted cows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: son, pupil, and offered gift
+  assigned_to:
+  - fig:2
+  basis: Nachiketas is the son who questions whether he too should be given, and his
+    father says he gives him to Death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Brahmana guest and boon-seeker
+  assigned_to:
+  - fig:2
+  basis: Yama addresses him as a Brahmana and revered guest after three unfed nights,
+    and Nachiketas chooses boons.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: Lord or Ruler of Death
+  assigned_to:
+  - fig:3
+  basis: The father's reply gives Nachiketas to Death, and the commentary identifies
+    Yama as Lord or Ruler of Death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: host, boon-granter, and teacher of hidden rite
+  assigned_to:
+  - fig:3
+  basis: Yama receives the guest, offers three boons, grants the first, and is said
+    to know the fire-sacrifice leading to heaven.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: household informant
+  assigned_to:
+  - fig:4
+  basis: An unnamed household member reports Nachiketas' presence and urges Yama to
+    bring water for the guest.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: depleted cows and spent milk
+  literal_form: Cows that have drunk, eaten, and given milk for the last time and
+    have lost vigor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: abode of Death
+  literal_form: The dwelling place of Yama where Nachiketas waits
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: fire
+  literal_form: A Brahmana guest compared to fire; also the fire-sacrifice that leads
+    to heaven
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: water
+  literal_form: Water requested for the arriving Brahmana guest; also part of the
+    description of the depleted cows
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: three nights and three boons
+  literal_form: Nachiketas waits three nights without food; Yama offers three boons
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: grain that decays and springs up
+  literal_form: The mortal is compared to grain that decays and springs up again
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: heavenly realm
+  literal_form: A realm without fear, Death, old age, hunger, thirst, or grief
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Questioned sacrifice
+  summary: Vahasrava performs the Viswajit sacrifice and distributes offerings; Nachiketas
+    observes that the cows being given are exhausted and questions the merit of such
+    gifts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Son pledged to Death
+  summary: Nachiketas asks his father three times to whom he will be given, and the
+    irritated father says he gives him to Death; Nachiketas reflects on his worth
+    and on mortality.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Waiting at Death's house
+  summary: Nachiketas goes to Yama's abode while Yama is absent and waits three days
+    without food or drink; a household member warns that an unfed Brahmana guest is
+    like fire and asks that water be brought.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: scene:4
+  label: Hospitality repaid with boons
+  summary: Yama returns, salutes Nachiketas as a revered Brahmana guest, and offers
+    three boons; Nachiketas asks first for his father's peace and recognition, and
+    Yama grants it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Request for the heaven-leading fire-sacrifice
+  summary: Nachiketas describes heaven as beyond fear, Death, old age, hunger, thirst,
+    and grief, then asks Death to teach the fire-sacrifice that leads there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: improper sacrifice corrected by demand for a worthier gift
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The father gives depleted cows in a sacrifice requiring complete giving;
+    Nachiketas questions the gifts and is then offered to Death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage includes both translated verse and explanatory commentary;
+    the full ritual context is not developed in this excerpt.
+- id: motif:2
+  label: youth sent to the abode of Death
+  taxonomy_refs:
+  - departure
+  - afterlife_journey_map
+  basis: Nachiketas is promised to Death, goes to Yama's abode, and waits there before
+    receiving boons.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt gives destination and threshold scene, but not a detailed
+    itinerary or full map of the afterlife.
+- id: motif:3
+  label: unfed holy guest endangers the household and receives compensation
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A Brahmana guest is likened to fire; failure to feed such a guest destroys
+    hopes, merit, sons, and cattle, and Yama compensates Nachiketas with three boons.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The danger of the neglected guest is stated as a general rule and applied
+    to Nachiketas by the household scene.
+- id: motif:4
+  label: three nights answered by three boons
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Nachiketas' three nights without food are directly answered by Yama's offer
+    of three boons.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No broader numerological interpretation is asserted in the passage.
+- id: motif:5
+  label: seeker asks Death for sacred knowledge of the heaven-leading fire
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: Nachiketas asks Death, who knows the rite, to teach the fire-sacrifice that
+    leads to heaven and freedom from death.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The requested teaching begins after this excerpt; this passage contains
+    the request, not the full instruction.
+- id: motif:6
+  label: death and rebirth compared to grain
+  taxonomy_refs:
+  - death_rebirth
+  - seasonal_cycle
+  basis: Nachiketas' speech compares mortals to grain that decays and springs up again,
+    explicitly glossed as rebirth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives an analogy for mortal recurrence, not a narrative resurrection
+    of Nachiketas in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the treatment of Nachiketas at Yama's house
+    within an ancient Vedic guest-hospitality pattern in which a holy guest represents
+    God and must be ritually received.
+  claim_level: same_function
+  target: ancient Vedic holy-guest hospitality pattern
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies a general Vedic explanation but does not cite
+    a specific parallel text or separate narrative example.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 674-830; Part First I
+  quote_or_summary: Vahasrava, desiring heavenly rewards at the Viswajit sacrifice,
+    gives away all he possesses and has a son named Nachiketas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 674-830; Part First II-III and commentary
+  quote_or_summary: The cows have drunk water, eaten grass, and given milk for the
+    last time; Nachiketas says one who gives them goes to joyless realms.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; short excerpt summarized from passage.
+- id: ev:3
+  type: summary
+  locator: lines 674-830; Part First IV and commentary
+  quote_or_summary: Nachiketas asks his father repeatedly to whom he will be given;
+    the father replies that he gives him to Death, identified in commentary as Yama,
+    Lord of Death.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 674-830; Part First V-VI and commentary
+  quote_or_summary: Nachiketas weighs his worth and says mortals decay like grain
+    and spring up again; the commentary says he persuades his father to send him to
+    Yama.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; short excerpt summarized from passage.
+- id: ev:5
+  type: summary
+  locator: lines 674-830; transition after VI and Part First VII-VIII
+  quote_or_summary: Nachiketas goes to Death's abode while Yama is absent and waits
+    three days without food or drink; a household member says a Brahmana guest is
+    like fire and should be received with water.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 674-830; Part First IX-XI
+  quote_or_summary: Yama salutes Nachiketas as a revered Brahmana guest and offers
+    three boons; Nachiketas asks for his father's peace and recognition, and Yama
+    grants it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 674-830; Part First XII-XIII
+  quote_or_summary: Nachiketas describes heaven as free from fear, Death, old age,
+    hunger, thirst, and grief, and asks Death to teach the fire-sacrifice leading
+    to heaven as his second boon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 674-830; commentary after VIII
+  quote_or_summary: The commentary states that, according to ancient Vedic ideal,
+    a guest represents God and should be received with reverence, including water
+    to wash the feet.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the supplied passage. Motif assignments
+    use only available taxonomy references and remain draft-level because several
+    motifs are broad comparative categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Name variants for Nachiketas' father are preserved as they appear in the supplied passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l674-l830
+  passage_sha256=83770268c17abf49014fc6c33f47eb68f64437086dd635e9fa6a2214f38266f1
+

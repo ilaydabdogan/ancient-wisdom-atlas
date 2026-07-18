@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l923-l959
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: OM! PEACE! PEACE! PEACE! / Part First / XVIII / XXIII; lines 923-959
+  start: '923'
+  end: '959'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“O Nachiketas, do not ask regarding death.”"
+  summary: Yama offers Nachiketas long-lived descendants, wealth, rulership, pleasures,
+    maidens, chariots, music, and long life if he will not ask about death. The commentary
+    states that Yama is testing whether Nachiketas is free from mortal desires and
+    ready for knowledge of the Hereafter. Nachiketas refuses the offers as fleeting
+    and tells Death to keep the chariots, dance, and music.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yama tells Nachiketas to ask for sons and grandsons who live a hundred years,
+    many cattle, elephants, gold, horses, extensive lands, and as many autumns of
+    life as he desires.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yama offers Nachiketas wealth, long life, rulership over the wide earth, and
+    enjoyment of all desires.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yama offers objects of desire difficult for mortals to obtain, including lovely
+    maidens with chariots and musical instruments, and tells Nachiketas not to ask
+    regarding death.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage commentary states that Nachiketas’ third boon concerns the great
+    Hereafter and that Yama tests him before granting such knowledge.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage commentary states that Nachiketas remains firm in his resolution
+    to know the secret of life and death.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Nachiketas addresses Death and says the offered things are fleeting, weaken
+    the senses, and that even the longest life is short.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Nachiketas tells Death to keep the chariots, dance, and music.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yama / Death
+  description: Speaker named Yama; addressed by Nachiketas as Death; offers boons
+    and withholds the question regarding death as part of a test.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Nachiketas
+  description: Recipient of Yama’s offers; asks the third boon about the Hereafter;
+    remains firm and rejects the offered pleasures and long life.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: boon-offering death figure
+  assigned_to:
+  - fig:1
+  basis: Yama offers descendants, wealth, rulership, pleasures, and long life, and
+    is addressed as Death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: tester of readiness for knowledge
+  assigned_to:
+  - fig:1
+  basis: The commentary explicitly says Yama tested Nachiketas to see whether he was
+    ready to receive knowledge about the Hereafter.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: seeker of knowledge about death and the Hereafter
+  assigned_to:
+  - fig:2
+  basis: Nachiketas’ third boon concerns the great Hereafter, and he remains resolved
+    to know the secret of life and death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: refuser of mortal desires
+  assigned_to:
+  - fig:2
+  basis: Nachiketas rejects long life and entertainments as fleeting and tells Death
+    to keep the chariots, dance, and music.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: long life and descendants
+  literal_form: sons and grandsons living a hundred years; many autumns; long life
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: material wealth and earthly dominion
+  literal_form: cattle, elephants, gold, horses, lands of vast extent, rulership over
+    the wide earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sensory pleasures and entertainments
+  literal_form: lovely maidens, chariots, musical instruments, dance, and music
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: question of death and the Hereafter
+  literal_form: regarding death; the great Hereafter; the great secret of life and
+    death
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Yama offers worldly boons instead of the death question
+  summary: Yama invites Nachiketas to choose descendants, wealth, land, rulership,
+    pleasures, and long life, and tells him not to ask about death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Commentary frames the offers as a test
+  summary: The commentary states that the third boon concerns the Hereafter and that
+    Yama tests Nachiketas to see whether he is free from mortal desires and ready
+    for such knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Nachiketas refuses fleeting pleasures
+  summary: Nachiketas says the offers are fleeting, weaken the senses, and that even
+    long life is short; he tells Death to keep the chariots, dance, and music.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: worldly boons rejected for knowledge of death
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: Nachiketas is offered wealth, long life, rulership, and pleasures instead
+    of asking about death, but he remains resolved to know the secret of life and
+    death and rejects the offers as fleeting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt presents the choice and refusal, but does not include the
+    later teaching itself.
+- id: motif:2
+  label: initiatory test through temptation
+  taxonomy_refs:
+  - initiation
+  basis: The commentary explicitly states that Yama tests Nachiketas’ readiness for
+    higher knowledge by offering mortal-plane happiness and desire objects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames this as a test of worthiness, not a formal ritual initiation.
+- id: motif:3
+  label: transient mortal goods contrasted with higher knowledge
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: Yama offers long life and desires, while Nachiketas names them fleeting and
+    holds to the question of death and the Hereafter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The contrast is explicit, but the broader philosophical resolution lies
+    outside the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXIII; lines 923-929
+  quote_or_summary: Yama tells Nachiketas to ask for sons and grandsons who live a
+    hundred years, cattle, elephants, gold, horses, extensive lands, and as many autumns
+    of life as he desires.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: XXIV; lines 931-936
+  quote_or_summary: Yama offers wealth, long life, rulership over the wide earth,
+    and enjoyment of all desires.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: quote
+  locator: XXV; lines 938-946
+  quote_or_summary: 'Yama offers rare mortal desires, maidens with chariots and musical
+    instruments, and says: “O Nachiketas, do not ask regarding death.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; brief quote used.
+- id: ev:4
+  type: summary
+  locator: Commentary following XXV; lines 948-956
+  quote_or_summary: The commentary says the third boon concerned the great Hereafter,
+    that such knowledge is for those freed from mortal desires, that Yama tested Nachiketas,
+    and that the boy remained firm in seeking the secret of life and death.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:5
+  type: quote
+  locator: XXVI; lines 958-959
+  quote_or_summary: 'Nachiketas says the offered things are fleeting, weaken the senses,
+    and that even long life is short; he adds: “Keep thou thy chariots, dance and
+    music.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source metadata; brief quote used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided passage. Motif labels are candidate
+    classifications using the supplied taxonomy; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external texts or traditions were used for comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l923-l959
+  passage_sha256=d94e085ceccfb6bc67cf270064a87f9dfb66d39422d26bd45dd321257d74ed4f
+

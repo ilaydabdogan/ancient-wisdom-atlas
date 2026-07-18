@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l510-l598
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: E. P. DUTTON AND COMPANY / CONTENTS / EDITORIAL NOTE / INTRODUCTION; lines
+    510-598
+  start: '510'
+  end: '598'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage defends Confucius against charges that he failed to teach religion
+    and encouraged selfishness. It presents Confucian teaching as moral instruction
+    grounded in human nature, altruism, and virtue for its own sake, contrasting this
+    with religious systems that motivate conduct through supernatural or afterlife
+    rewards and punishments. It also identifies the Confucian term _jn_ with social
+    good or altruistic virtue.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mr. Jennings is described as saying Confucius cannot be blamed for giving
+    no impulse to religion, yet also faults him for reserve about important matters
+    and for holding back the religion of the ancients.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Confucius disliked discussing religion, did not profess to
+    teach it, and refrained because he knew nothing of such matters and wanted to
+    avoid hypocrisy and fraud.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mr. Jennings is quoted as accusing Confucius' teaching of selfishness; the
+    passage rejects the accusation as weakly supported and refers to Yen Hui and Tsng
+    Tz in response.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Confucius' moral teaching is described as neither utilitarian nor religious
+    and as not based on expectation of profit or happiness in this world or the next.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The maxim 'virtue for virtue's sake' is described as the corner-stone of Confucius'
+    ethics and the mainspring of his career.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Confucianism is said to make no promise of blessings in this life or the next
+    and to have succeeded without supernatural elements other than ancestor-worship,
+    which Confucius accepted as a prevailing custom rather than as essential doctrine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage contrasts the Way preached by the Chinese sage with Christianity
+    and Mahometanism by saying it lacks afterlife punishment and reward, and contrasts
+    it with Buddhism by mentioning Nirvana and successive rebirths.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Confucius' system is said to be based on knowledge of human nature; human
+    instincts are described as social and fundamentally good, while _jn_ is associated
+    with altruism and social good.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: The central teacher discussed in the passage; portrayed as avoiding
+    religious instruction, teaching morality, accepting ancestor-worship as custom,
+    and grounding his system in human nature and altruism.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Mr. Jennings
+  description: A critic quoted as faulting Confucius for reserve about religion and
+    for alleged selfishness in his teaching.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Dr. Legge
+  description: Mentioned as someone whose error Mr. Jennings had previously rebuked.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Yen Hui
+  description: A disciple said to have profited most from the Master's teaching and
+    to have best exemplified it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Tsng Tz
+  description: His remarks on p. 128 are referenced as an answer concerning whether
+    Yen Hui showed alleged self-satisfaction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Comte
+  description: Named in connection with the law of the Three States and positivist
+    thought.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Mr. Carey Hall
+  description: Cited as having pointed out that Confucius may be regarded as a forerunner
+    of Comte in positivist thought.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ethical teacher and sage
+  assigned_to:
+  - fig:1
+  basis: Confucius is described as teaching morality, preaching the Way, and grounding
+    his system in human nature and altruism.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: critic of Confucius
+  assigned_to:
+  - fig:2
+  basis: Mr. Jennings is quoted as making accusations about Confucius' reserve and
+    alleged selfishness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: scholar used as critical parallel
+  assigned_to:
+  - fig:3
+  basis: Dr. Legge is mentioned as someone in whose rebuked error Mr. Jennings is
+    said to fall.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: disciple exemplar
+  assigned_to:
+  - fig:4
+  basis: Yen Hui is called the disciple who profited most from the Master's teaching
+    and best exemplified it.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: cited commentator or reference authority
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Tsng Tz is referenced for remarks on Yen Hui; Mr. Carey Hall is referenced
+    for an article comparing Confucius with Comte.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: positivist comparison figure
+  assigned_to:
+  - fig:6
+  basis: Comte is named in relation to the law of the Three States and positivist
+    thought.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Defense against criticism over religion
+  summary: The passage reports Mr. Jennings' criticism that Confucius held back religious
+    teaching and replies that Confucius did not profess to teach religion because
+    he did not claim knowledge of it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rebuttal of the selfishness accusation
+  summary: The passage reports an accusation that Confucius' teaching made followers
+    self-satisfied and counters it by referring to Yen Hui as a disciple who best
+    exemplified the teaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Virtue without promised reward
+  summary: The passage describes Confucian ethics as virtue for its own sake, not
+    grounded in profit, happiness, supernatural reward, or afterlife punishment, and
+    compares this with Christianity, Mahometanism, and Buddhism.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Altruism and _jn_
+  summary: The passage presents Confucius' system as based on human nature, social
+    instincts, altruism, and the term _jn_ understood as social good.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Comparison with Comtean positivism
+  summary: The passage says Confucianism may be viewed through Comte's law of the
+    Three States and cites Carey Hall's claim that Confucius may be regarded as a
+    forerunner of Comte's positivist thought.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom teaching grounded in ethical conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents Confucius as a sage-like ethical teacher whose sayings
+    emphasize virtue, knowledge of human nature, altruism, and social good.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is an editorial/philosophical passage rather than a mythic narrative,
+    so the motif is thematic rather than plot-based.
+- id: motif:2
+  label: virtue pursued without supernatural reward
+  taxonomy_refs: []
+  basis: The passage repeatedly states that Confucian ethics is not based on profit,
+    happiness, blessings, afterlife reward, or afterlife punishment, but on virtue
+    for its own sake.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This label is a candidate ethical pattern, not a supplied taxonomy family.
+- id: motif:3
+  label: altruistic social good
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says human instincts are social and good, that Confucian sayings
+    insist on altruism, and that _jn_ implies social good.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The motif is inferred from explicit ethical description, not from a narrative
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage contrasts Confucianism with Christianity and Mahometanism by
+    saying the Confucian Way lacks the afterlife punishment and reward used as religious
+    sanctions.
+  claim_level: same_function
+  target: Christianity and Mahometanism as religious-ethical systems with afterlife
+    sanction and reward
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is the editor's broad comparison and does not quote source
+    passages from Christianity or Islam.
+- id: claim:2
+  claim: The passage contrasts Confucianism with Buddhism by saying Buddhism offers
+    Nirvana to the pure and successive rebirths to those who fall short, whereas Confucianism
+    is presented as lacking afterlife reward or punishment.
+  claim_level: same_function
+  target: Buddhism as a religious-ethical system involving Nirvana and rebirth
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is brief and generalized; it serves the editor's argument
+    about motivation for moral conduct.
+- id: claim:3
+  claim: The passage reports a comparison in which Confucius may be regarded as a
+    forerunner of Comte in positivist thought.
+  claim_level: same_function
+  target: Comte's positivist mode of thought
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage attributes the comparison to Mr. Carey Hall but provides
+    no details from Hall's article or from Comte beyond the named law of the Three
+    States.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 510-527
+  quote_or_summary: Mr. Jennings criticizes Confucius for reserve about important
+    matters and for holding back the religion of the ancients; the passage replies
+    that Confucius disliked discussing religion and did not profess to teach it.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 529-539
+  quote_or_summary: Mr. Jennings accuses Confucius' teaching of selfishness; the passage
+    rejects the evidence and refers to Yen Hui, the disciple said to have profited
+    most from and best exemplified the Master's teaching, and to Tsng Tz's remarks.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 541-563
+  quote_or_summary: Confucius' moral teaching is described as pure, neither utilitarian
+    nor religious, not based on profit or happiness in this life or the next; 'virtue
+    for virtue's sake' is presented as central, and ancestor-worship as a harmless
+    custom rather than essential doctrine.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized with a short quoted phrase from supplied
+    passage.
+- id: ev:4
+  type: summary
+  locator: lines 564-574
+  quote_or_summary: The passage says the Way preached by the Chinese sage lacks afterlife
+    punishment and reward, unlike Christianity and Mahometanism, and notes that Buddhism
+    offers Nirvana and teaches successive rebirths; it also states that supernaturalism
+    introduces a motive beyond virtue for its own sake.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 575-580
+  quote_or_summary: The passage invokes Comte's law of the Three States and reports
+    Carey Hall's view that Confucius may be regarded as a forerunner of Comte in positivist
+    thought.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 582-598
+  quote_or_summary: Confucius' system is described as based on knowledge of human
+    nature, with human instincts called social and good; the passage emphasizes altruism,
+    acting socially, and _jn_ as implying social good and a compendium of goodness.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is argumentative editorial prose rather than mythic narrative.
+    Literal claims and named comparisons are clear, but motif extraction is thematic
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbols such as cave, fire, milk, mountain, serpent, tree, or water appear in this passage; symbols are therefore left empty.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l510-l598
+  passage_sha256=4e032b0997fa06bd430e2774773b4bcf2edf033eec50fcec49d0d81e0d4a21f5
+

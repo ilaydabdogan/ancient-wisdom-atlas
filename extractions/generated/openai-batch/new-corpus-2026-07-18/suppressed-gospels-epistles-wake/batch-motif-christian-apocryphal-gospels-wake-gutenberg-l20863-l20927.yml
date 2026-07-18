@@ -1,0 +1,438 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l20863-l20927
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: VISION III. / VISION IV. / COMMAND I. / COMMAND II.; lines 20863-20927
+  start: '20863'
+  end: '20927'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker commands the recipient to be innocent, avoid speaking or listening
+    to slander, keep peace with a brother, practice holy constancy, give alms simply
+    and without discrimination to all in want, and maintain sincere repentance and
+    a pure heart. The passage states that those who receive alms will account to God
+    for their reception and purpose.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker tells the recipient to be innocent and without disguise, likening
+    this state to an infant without malice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker commands the recipient not to speak evil of anyone and not willingly
+    to hear evil speech about others.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that one who hears and believes slander shares in the sin
+    of the one who speaks evil.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Detraction is described as pernicious, inconstant, evil, never continuing
+    in peace, and always in discord.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The recipient is told to refrain from detraction, keep peace with a brother,
+    put on holy constancy, and do good from his labours.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The recipient is instructed to give to all who are in want, without distinction
+    and without doubting the recipient.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says God wants giving to all from his own gifts.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Those who receive alms are said to give an account to God for why they received
+    and for what end.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: The giver is described as innocent when he fulfills his duty from God without
+    choosing whom to give to and whom not to give to.
+  category: attribute
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:10
+  text: The speaker concludes that keeping the command will support sincere repentance,
+    good coming to the recipient's house, and a pure heart.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker
+  description: The one who delivers COMMAND II to the recipient.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: fig:2
+  name_or_label: recipient addressed as me/thou
+  description: The addressee who is commanded to avoid detraction, give to all in
+    want, and keep a pure heart.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:10
+- id: fig:3
+  name_or_label: God
+  description: The divine figure from whom gifts and duty are said to come, and to
+    whom receivers give account.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: brother
+  description: A brother toward whom peace is to be kept and against whom evil speech
+    may be believed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: one who speaks evil
+  description: A person whose slander can implicate the hearer who believes it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: those in want / receivers
+  description: People to whom gifts are to be given; receivers are said to account
+    to God for receiving and for their purpose.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: command-giver
+  assigned_to:
+  - fig:1
+  basis: The speaker delivers commands and says he has delivered this command into
+    the recipient.
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: role:2
+  label: moral recipient
+  assigned_to:
+  - fig:2
+  basis: The addressee is instructed in innocence, speech, almsgiving, repentance,
+    and purity of heart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:10
+- id: role:3
+  label: divine source and judge of accounts
+  assigned_to:
+  - fig:3
+  basis: God is said to give gifts, assign duty, desire giving to all, and receive
+    account from those who receive.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: neighbor/brother toward whom peace is required
+  assigned_to:
+  - fig:4
+  basis: The brother is the person about whom slander may be believed and with whom
+    peace is to be kept.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: almsgiver
+  assigned_to:
+  - fig:2
+  basis: The recipient is directly instructed to give without distinction to all in
+    want.
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: role:6
+  label: slanderer
+  assigned_to:
+  - fig:5
+  basis: The one who speaks evil is associated with sin, and the hearer may become
+    a partaker of that sin.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: alms recipient accountable to God
+  assigned_to:
+  - fig:6
+  basis: Those who receive are said to give account to God for why they received and
+    for what end.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: infant as image of innocence
+  literal_form: infant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pure heart
+  literal_form: pure heart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:3
+  label: holy constancy as something to put on
+  literal_form: holy constancy
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: God's gifts
+  literal_form: gifts
+  associated_figures:
+  - fig:3
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+scenes:
+- id: scene:1
+  label: Command to avoid detraction
+  summary: The speaker instructs the recipient to be innocent, avoid speaking or hearing
+    evil, and keep peace with a brother because hearing and believing slander shares
+    in sin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Command to give alms simply
+  summary: The speaker instructs the recipient to put on holy constancy, do good from
+    his labours, and give without distinction to all in want.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Accountability for receiving and innocence of the giver
+  summary: The passage states that receivers will account to God, while the giver
+    who gives without choosing recipients fulfills a duty from God and remains innocent.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Concluding promise of sincere repentance and pure heart
+  summary: The speaker concludes that keeping the command supports sincere repentance,
+    good coming to the house, and a pure heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: moral wisdom instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is structured as a command teaching conduct concerning innocence,
+    speech, peace, almsgiving, repentance, and purity of heart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:10
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is ethical instruction rather
+    than a narrative myth episode.
+- id: motif:2
+  label: divine accountability for gifts received
+  taxonomy_refs:
+  - divine_judgment
+  basis: Receivers are said to give account to God for why they received and for what
+    end, especially when receiving without real need.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage emphasizes moral accountability rather than a developed judgment
+    scene.
+- id: motif:3
+  label: sacred giving without discrimination
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Almsgiving is presented as a duty from God using God's own gifts, to be done
+    simply and without choosing among recipients.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The passage does not present an explicit reciprocal exchange; the motif
+    label is inferred from religiously framed giving.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: COMMAND II.1; lines 20863-20927
+  quote_or_summary: The speaker tells the recipient to be innocent and without disguise,
+    like an infant who knows no malice.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: COMMAND II.2; lines 20863-20927
+  quote_or_summary: The recipient is told not to speak evil of anyone and not willingly
+    to hear evil spoken of others.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: COMMAND II.3; lines 20863-20927
+  quote_or_summary: If the recipient hears and believes slander, he becomes a partaker
+    in the sin of the speaker against the brother.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: COMMAND II.4; lines 20863-20927
+  quote_or_summary: Detraction is described as a pernicious, inconstant, evil spirit
+    associated with discord; the recipient is told to refrain from it and keep peace
+    with his brother.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: COMMAND II.5; lines 20863-20927
+  quote_or_summary: The recipient is told to put on holy constancy, in which there
+    are no sins and all is full of joy, and to do good from his labours.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: COMMAND II.6; lines 20863-20927
+  quote_or_summary: The recipient is told to give without distinction to all who are
+    in want, without doubting to whom he gives.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: COMMAND II.7; lines 20863-20927
+  quote_or_summary: The passage says God wants giving to all from his gifts, and that
+    those who receive shall give account to God.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: COMMAND II.8; lines 20863-20927
+  quote_or_summary: Those who receive without real need will give account for it,
+    but the giver will be innocent.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: COMMAND II.9; lines 20863-20927
+  quote_or_summary: The giver has fulfilled a duty received from God by not choosing
+    whom to give to and whom not to give to, doing the service with simplicity and
+    to God's glory.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: COMMAND II.10; lines 20863-20927
+  quote_or_summary: The speaker tells the recipient to keep the command so that repentance
+    may be sincere, good may come to the house, and the recipient may have a pure
+    heart.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied COMMAND II passage. Motif assignments
+    are broad because the passage is ethical instruction rather than mythic narrative.
+    No comparison claims were made because the supplied passage does not itself support
+    a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy items directly match the passage; symbol entries therefore use passage-specific images without taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l20863-l20927
+  passage_sha256=d3c83128dae5010c9e779f997ba0bfb335bd50f5e4b904e1bf37c2c7b98410cd
+

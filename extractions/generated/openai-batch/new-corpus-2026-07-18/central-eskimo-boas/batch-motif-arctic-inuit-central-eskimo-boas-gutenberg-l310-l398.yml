@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l310-l398
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: THE CENTRAL ESKIMO. / DR. FRANZ BOAS / CONTENTS. / ILLUSTRATIONS.; lines
+    310-398
+  start: '310'
+  end: '398'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: Qailertetang, a masked figure; The man in the moon comes down to help Qaudjaqdjuq;
+    Qaudjuqdjuaq killing his enemies
+  summary: The passage is an illustrations list from The Central Eskimo. It enumerates
+    material objects, house plans, clothing, games, a singing house, a masked figure,
+    a grave lamp, and several illustration captions connected with Qaudjaqdjuq/Qaudjuqdjuaq
+    and the man in the moon.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists many illustrated tools, vessels, ornaments, house plans,
+    clothing items, games, and maps with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes driftwood described as used in kindling fire.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The list includes qaggi or singing house diagrams and plans.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The list includes Qailertetang described as a masked figure.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The list includes a model of a lamp from a grave in Cumberland Sound.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The list gives a sequence in which Qaudjaqdjuq is maltreated by enemies, the
+    man in the moon comes down to help him, the man in the moon whips him, Qaudjaqdjuq
+    becomes Qaudjuqdjuaq, and Qaudjuqdjuaq kills his enemies.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: obs:7
+  text: The list includes Tumiujang, described as the lamp of the Tornit.
+  category: object
+  evidence_refs:
+  - ev:11
+- id: obs:8
+  text: One listed game, tingmiujang, is explicitly described as similar to dice.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Qailertetang
+  description: A masked figure named in an illustration caption.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Qaudjaqdjuq
+  description: A figure who is maltreated by enemies and helped by the man in the
+    moon before becoming Qaudjuqdjuaq.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Qaudjuqdjuaq
+  description: The later named form of Qaudjaqdjuq who is shown killing his enemies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: The man in the moon
+  description: A figure who comes down to help Qaudjaqdjuq and is also shown whipping
+    Qaudjaqdjuq.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Enemies of Qaudjaqdjuq/Qaudjuqdjuaq
+  description: Enemies who maltreat Qaudjaqdjuq and are later killed by Qaudjuqdjuaq.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: fig:6
+  name_or_label: Tornit
+  description: A group associated with Tumiujang, described as their lamp.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: masked figure
+  assigned_to:
+  - fig:1
+  basis: The caption identifies Qailertetang as a masked figure.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: maltreated figure receiving aid
+  assigned_to:
+  - fig:2
+  basis: Qaudjaqdjuq is said to be maltreated by enemies and then helped by the man
+    in the moon.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: avenger against enemies
+  assigned_to:
+  - fig:3
+  basis: Qaudjuqdjuaq is shown killing his enemies after Qaudjaqdjuq has become Qaudjuqdjuaq.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:4
+  label: celestial helper
+  assigned_to:
+  - fig:4
+  basis: The man in the moon comes down to help Qaudjaqdjuq.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: disciplining figure
+  assigned_to:
+  - fig:4
+  basis: The man in the moon is shown whipping Qaudjaqdjuq.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: hostile opponents
+  assigned_to:
+  - fig:5
+  basis: The enemies maltreat Qaudjaqdjuq and are later killed by Qaudjuqdjuaq.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:7
+  label: associated people or beings
+  assigned_to:
+  - fig:6
+  basis: The caption names the Tornit as associated with the lamp Tumiujang.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: fire-kindling driftwood
+  literal_form: Driftwood used in kindling fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: masked figure
+  literal_form: Qailertetang, a masked figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: grave lamp
+  literal_form: Model of lamp from a grave in Cumberland Sound
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: lamp of the Tornit
+  literal_form: Tumiujang, or lamp of the Tornit
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:11
+- id: sym:5
+  label: moon figure
+  literal_form: The man in the moon
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: qaggi or singing house
+  literal_form: Qaggi or singing house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Illustrated material culture catalogue
+  summary: The passage lists illustrated Central Eskimo objects and structures, including
+    boats, sledges, house plans, clothing, games, a singing house, lamps, and maps.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Masked figure caption
+  summary: Qailertetang is identified in the illustrations list as a masked figure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Grave lamp caption
+  summary: A model of a lamp from a grave in Cumberland Sound is listed among the
+    illustrations.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Qaudjaqdjuq sequence
+  summary: A sequence of illustration captions presents Qaudjaqdjuq being maltreated,
+    aided and whipped by the man in the moon, becoming Qaudjuqdjuaq, and killing his
+    enemies.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Lamp of the Tornit caption
+  summary: Tumiujang is listed as the lamp of the Tornit.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Celestial helper descends to aid a maltreated figure
+  taxonomy_refs: []
+  basis: The caption states that the man in the moon comes down to help Qaudjaqdjuq
+    after Qaudjaqdjuq is maltreated by enemies.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage is only an illustration list and gives no full narrative context.
+- id: motif:2
+  label: Ordeal or punishment preceding changed identity
+  taxonomy_refs:
+  - initiation
+  basis: The captions place whipping by the man in the moon before the statement that
+    Qaudjaqdjuq has become Qaudjuqdjuaq.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: low
+  cautions: The relation between whipping and transformation is inferred from caption
+    order only; the passage does not explain causality.
+- id: motif:3
+  label: Reversal against enemies after transformation
+  taxonomy_refs: []
+  basis: The sequence moves from Qaudjaqdjuq being maltreated by enemies to Qaudjuqdjuaq
+    killing his enemies after becoming Qaudjuqdjuaq.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage does not provide the surrounding tale or motives beyond the
+    captions.
+- id: motif:4
+  label: Masked figure
+  taxonomy_refs: []
+  basis: Qailertetang is explicitly captioned as a masked figure.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No ritual, narrative, or symbolic function is stated in this passage.
+- id: motif:5
+  label: Lamp associated with grave or other beings
+  taxonomy_refs: []
+  basis: The list includes a lamp from a grave in Cumberland Sound and the lamp of
+    the Tornit.
+  evidence_refs:
+  - ev:5
+  - ev:11
+  confidence: low
+  cautions: The passage lists objects only and does not explain their mythic or ritual
+    meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares tingmiujang to dice by describing it as a game
+    similar to dice.
+  claim_level: same_function
+  target: dice game
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison of games in an illustration caption,
+    not a mythological motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 310-398
+  quote_or_summary: Illustration captions list tools, boats, sledges, houses, clothing,
+    games, a singing house, lamps, story illustrations, and maps.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 316
+  quote_or_summary: "“Driftwood used in kindling fire”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 371-374
+  quote_or_summary: Captions list diagrams or plans of qaggi, described as singing
+    houses.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 375
+  quote_or_summary: "“Qailertetang, a masked figure”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: line 376
+  quote_or_summary: "“Model of lamp from a grave in Cumberland Sound”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: line 377
+  quote_or_summary: "“Qaudjaqdjuq is maltreated by his enemies”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: line 378
+  quote_or_summary: "“The man in the moon comes down to help Qaudjaqdjuq”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: line 379
+  quote_or_summary: "“The man in the moon whipping Qaudjaqdjuq”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: line 380
+  quote_or_summary: "“Qaudjaqdjuq has become Qaudjuqdjuaq”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: line 381
+  quote_or_summary: "“Qaudjuqdjuaq killing his enemies”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: quote
+  locator: line 382
+  quote_or_summary: "“Tumiujang, or lamp of the Tornit”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:12
+  type: quote
+  locator: lines 362-363
+  quote_or_summary: "“Figures used in playing tingmiujang, a game similar to dice”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Extraction of literal captions is high confidence. Motif identification is
+    limited because the passage is an illustration list rather than a full mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references were applied sparingly; the passage provides minimal narrative context.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l310-l398
+  passage_sha256=13b95e2ca6d74552b150a4eb8d059239f8495838acc6cbde244d37cd36eb7b90
+

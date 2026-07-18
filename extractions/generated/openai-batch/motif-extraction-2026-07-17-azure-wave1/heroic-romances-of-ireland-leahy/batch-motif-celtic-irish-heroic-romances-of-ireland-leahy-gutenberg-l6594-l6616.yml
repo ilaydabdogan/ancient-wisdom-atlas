@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6594-l6616
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 10 / PAGE 11 / PAGE 12 / PAGE 13; lines 6594-6616
+  start: '6594'
+  end: '6616'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of editorial notes on translation choices: a doubtful
+    rendering concerning officers responsible for roads; wording for a bright purple
+    mantle; wording for a snow-white comparison; and a note explaining a formula in
+    which Etain serves as the standard by which beauty is compared, with parallels
+    cited from other Irish texts.'
+  language: English, with Irish phrases
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A rendering about officers who had care of roads is marked as very doubtful,
+    and the Irish phrase is supplied.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A female referent is described in connection with a bright purple mantle,
+    and the note says the sense of the word glossed as “curling” is uncertain.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note distinguishes two different Irish words used for “mantle” in adjacent
+    lines.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A comparison is clarified as meaning “as white as the snow,” not “whiter than
+    the snow.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Etain is identified as the standard or test to which beauty must be compared.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note cites parallels from “Courtship of Emer” and another Irish Texts
+    passage for the beauty-comparison formula.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Etain
+  description: Named as the test or standard to which all beauty must be compared.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed female figure
+  description: The female referent of “her” around whom a bright purple mantle is
+    described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Officers responsible for roads
+  description: A group described in a doubtful rendering as officers who had the care
+    of roads.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: exemplary standard of beauty
+  assigned_to:
+  - fig:1
+  basis: The note states that Etain is the test to which all beauty must be compared.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: wearer or associated figure of a bright purple mantle
+  assigned_to:
+  - fig:2
+  basis: The note refers to a bright purple mantle around “her.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: road-care officers
+  assigned_to:
+  - fig:3
+  basis: The doubtful rendering describes officers who had the care of the roads.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bright purple mantle
+  literal_form: A bright purple mantle described as being around a female figure;
+    the word glossed as “curling” is uncertain.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: snow-white comparison
+  literal_form: The phrase is clarified as “as white as the snow.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: beauty measured against an exemplary woman
+  taxonomy_refs: []
+  basis: The note explains that Etain functions as the test or standard to which all
+    beauty must be compared, and it cites comparable Irish textual phrasing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is editorial commentary rather than a narrative scene; the
+    pattern is a descriptive or formulaic comparison, not a full narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious linguistic comparison between the Etain beauty-standard
+    formula and cited passages in “Courtship of Emer” and Irish Texts.
+  claim_level: linguistic_similarity
+  target: "“Courtship of Emer” and Irish Texts iii p. 356 l. 4 as cited in the note"
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the editor’s cited comparison is available in the supplied passage;
+    the surrounding parallel passages are not provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: PAGE 12, line 9 note
+  quote_or_summary: The note says the rendering “His officers who had the care of
+    the roads” is very doubtful and gives the Irish phrase tarraluing sligeth.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation and summary used.
+- id: ev:2
+  type: summary
+  locator: PAGE 12, lines 29-30 notes
+  quote_or_summary: The note discusses a “bright purple mantle” around “her,” uncertainty
+    over a word glossed as “curling,” and distinguishes the mantle words brat and
+    folai.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation and summary used.
+- id: ev:3
+  type: summary
+  locator: PAGE 13, line 3 note
+  quote_or_summary: The note clarifies that the expression means “as white as the
+    snow,” not “whiter than the snow.”
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation and summary used.
+- id: ev:4
+  type: quote
+  locator: PAGE 13, line 17 note
+  quote_or_summary: "“Etain is the test to which all beauty must be compared.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: PAGE 13, line 17 note
+  quote_or_summary: The note compares the phrase cach cruth co hEtain, coem cach co
+    hEtain with a passage in “Courtship of Emer” and another example in Irish Texts.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but the passage is a set of translation
+    notes rather than narrative content; motif identification is therefore limited
+    to a formulaic beauty-comparison pattern explicitly discussed in the note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the supplied passage does not directly support one.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6594-l6616
+  passage_sha256=f69447484a5fb170941aaefe52f4bea7b504a4b6d8a6929bc72f450a586d43ca
+

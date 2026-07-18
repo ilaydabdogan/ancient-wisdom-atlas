@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l7348-l7359
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'INTRODUCTORY. / FOOTNOTES: / CHAPTER II. / MYTHOLOGICAL.; lines 7348-7359'
+  start: '7348'
+  end: '7359'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“the Witch and her near relation the Baba Yaga ... the Snake, Koshchei,
+    and other similar beings”"
+  summary: The passage summarizes previously discussed supernatural antagonistic figures
+    in Russian fairy-tale material, naming the Witch, Baba Yaga, the Snake, Koshchei,
+    and similar beings as embodiments or personifications of evil, then announces
+    a shift to less frequently used mythical beings and personifications of abstract
+    ideas.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage names the Witch and Baba Yaga as related figures.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names the Snake, Koshchei, and similar beings as masculine embodiments
+    of the same spirit of evil personified in the Witch and Baba Yaga.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author states that previously quoted stories are sufficient to give a
+    general idea of these figures' moral and physical attributes.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author says these forms are constantly introduced into the skazka-drama.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author announces a turn toward supernatural figures and mythical beings
+    that the regular story mentions less often.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage describes some less frequently used beings as personifications
+    of abstract ideas.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Witch
+  description: A supernatural figure named as related to Baba Yaga and as a personification
+    of a spirit of evil.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Baba Yaga
+  description: Named as the near relation of the Witch and as a personification of
+    a spirit of evil.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Snake
+  description: Named as a masculine embodiment of the spirit of evil personified in
+    the Witch and Baba Yaga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Koshchei
+  description: Named as a masculine embodiment of the spirit of evil personified in
+    the Witch and Baba Yaga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Other similar beings
+  description: Unnamed beings grouped with the Snake and Koshchei as masculine embodiments
+    of evil.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Less frequent supernatural figures
+  description: Supernatural or mythical beings less often brought into the regular
+    story and sometimes described as personifications of abstract ideas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: female evil personification
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Witch and Baba Yaga are described as figures in whom a spirit of evil
+    is personified.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: masculine embodiment of evil
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The Snake, Koshchei, and similar beings are explicitly described as masculine
+    embodiments of the same spirit of evil.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: less frequent mythical personification
+  assigned_to:
+  - fig:6
+  basis: The passage introduces supernatural figures not often used in the regular
+    story, including personifications of abstract ideas.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Snake
+  literal_form: Snake
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Authorial transition from common antagonistic figures to less frequent mythical
+    beings
+  summary: The author summarizes the Witch, Baba Yaga, the Snake, Koshchei, and similar
+    beings as familiar forms in the skazka-drama, then shifts attention to less frequently
+    appearing supernatural figures and personifications of abstract ideas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Serpent as embodiment of evil
+  taxonomy_refs:
+  - serpent
+  basis: The Snake is named among masculine embodiments of the spirit of evil.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a literary-critical summary rather than a full narrative
+    episode; no specific serpent action is described.
+- id: motif:2
+  label: Supernatural antagonist as personified evil
+  taxonomy_refs: []
+  basis: The Witch, Baba Yaga, the Snake, Koshchei, and similar beings are grouped
+    as forms or embodiments of a spirit of evil.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is an abstract classification supplied by the author; the passage
+    does not narrate an encounter with these beings.
+- id: motif:3
+  label: Personification of abstract ideas in fairy-tale machinery
+  taxonomy_refs: []
+  basis: The passage explicitly introduces mythical beings and personifications of
+    abstract ideas that help set the conventional machinery of the story in motion.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not name the specific abstract ideas or describe their
+    narrative actions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7348-7352
+  quote_or_summary: "“the Witch and her near relation the Baba Yaga ... masculine
+    embodiments of that spirit of evil ... the Snake, Koshchei, and other similar
+    beings”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 7352-7354
+  quote_or_summary: The author says the stories already quoted are enough to provide
+    a general idea of these figures' moral and physical attributes.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 7354-7359
+  quote_or_summary: The author turns from forms constantly introduced into the skazka-drama
+    to supernatural and mythical beings less often used in regular stories, including
+    personifications of abstract ideas.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The named figures and authorial classifications are explicit, but motif extraction
+    is limited because the passage is expository and does not contain a narrative
+    event.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage does not itself support a concrete cross-traditional or intertextual comparison.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l7348-l7359
+  passage_sha256=3b2546846b8f0be2a37480d7a25c156210cf203a95b32bb473f9deda9def4413
+

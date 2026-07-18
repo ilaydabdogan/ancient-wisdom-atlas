@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l11434-l11517
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 11434-11517
+  start: '11434'
+  end: '11517'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Brother Lustig, a discharged soldier, shares his small bread and money
+    with St. Peter, who repeatedly appears as a beggar in different shapes. Later
+    St. Peter appears as a discharged soldier and travels with him. St. Peter heals
+    a dying peasant without asking reward, but Brother Lustig urges acceptance of
+    a lamb. In a wood, Brother Lustig cooks the lamb, eats its heart before St. Peter
+    returns, and falsely claims that lambs have no heart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After a war, Brother Lustig is discharged with only a small loaf of contract-bread
+    and four kreuzers.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: St. Peter places himself in Brother Lustig’s way as a poor beggar, then again
+    as beggars in other shapes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Brother Lustig gives each of three beggar appearances one quarter of his bread
+    and one kreuzer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: St. Peter later meets Brother Lustig in the appearance of a discharged soldier
+    and proposes that they travel together and share what he earns by medicine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At a peasant’s house, St. Peter heals a man who is sick unto death using a
+    salve from his pocket.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: St. Peter repeatedly refuses reward, while Brother Lustig urges him to accept
+    something because they are in need.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A woman offers a lamb; St. Peter accepts only on the condition that Brother
+    Lustig carry it.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In a wood, Brother Lustig kills, cooks, and boils the lamb while St. Peter
+    walks away, telling him not to begin eating before his return.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Brother Lustig finds the lamb’s heart, calls it the best part, tastes it,
+    and eats it all.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: When St. Peter asks for the heart, Brother Lustig pretends to search and claims
+    that a lamb has no heart.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: St. Peter states that every animal has a heart but then accepts Brother Lustig’s
+    explanation and lets him eat the lamb alone.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Brother Lustig
+  description: A discharged soldier who gives alms, travels with St. Peter, carries
+    and cooks the lamb, eats the lamb’s heart, and denies that the lamb had a heart.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: St. Peter
+  description: Identified as St. Peter and the apostle; he appears in several beggar
+    shapes and then as a discharged soldier, heals a sick man, refuses reward, and
+    asks for the lamb’s heart.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Sick peasant husband
+  description: A man lying sick unto death who is healed by St. Peter and rises in
+    perfect health.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Peasant wife
+  description: The wife of the sick man, crying loudly; she later offers a lamb as
+    reward.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: discharged soldier
+  assigned_to:
+  - fig:1
+  basis: Brother Lustig receives his dismissal after the war and departs with bread
+    and money.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: saint in disguise
+  assigned_to:
+  - fig:2
+  basis: St. Peter appears in the road as beggars in different shapes and later as
+    a discharged soldier.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: almsgiver
+  assigned_to:
+  - fig:1
+  basis: Brother Lustig gives bread and money to three beggar appearances despite
+    his own poverty.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deceiver over food
+  assigned_to:
+  - fig:1
+  basis: Brother Lustig eats the lamb’s heart and then claims that lambs have no heart.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: healer
+  assigned_to:
+  - fig:2
+  basis: St. Peter uses a salve and heals the dying peasant in a moment.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: healed sick man
+  assigned_to:
+  - fig:3
+  basis: The peasant husband is near death and then is restored to perfect health.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: reward-giver
+  assigned_to:
+  - fig:4
+  basis: The wife offers a lamb as a reward after the healing.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bread divided as alms
+  literal_form: small loaf divided into four parts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: kreuzers given as alms
+  literal_form: four kreuzers, three of which are given to beggar appearances
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: salve
+  literal_form: salve taken from St. Peter’s pocket
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: lamb
+  literal_form: lamb offered as reward, carried, cooked, and eaten
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: lamb heart
+  literal_form: heart of the cooked lamb
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: fire for cooking
+  literal_form: fire lit by Brother Lustig to cook the lamb
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: wood
+  literal_form: wood where the lamb is cooked
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Discharged soldier meets disguised beggars
+  summary: Brother Lustig leaves military service with scant provisions and gives
+    portions of his bread and money to three appearances of St. Peter as beggars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Companionship with disguised soldier
+  summary: St. Peter appears as a discharged soldier, asks for food and drink, and
+    invites Brother Lustig to travel with him and share earnings from medicine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Healing at the peasant house
+  summary: St. Peter heals a man near death; the household offers reward, and Brother
+    Lustig urges St. Peter to accept something.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Acceptance of the lamb
+  summary: The peasant wife brings a lamb; St. Peter accepts it only if Brother Lustig
+    carries it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Cooking and concealing the lamb heart
+  summary: In a wood, Brother Lustig cooks the lamb, eats the heart before St. Peter
+    returns, and claims that lambs have no heart when St. Peter asks for it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: saint or holy figure in beggar disguise receives alms
+  taxonomy_refs:
+  - sacred_exchange
+  basis: St. Peter appears repeatedly as a beggar, and Brother Lustig gives him scarce
+    bread and money.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage shows giving to a disguised holy figure, but does not yet
+    state a direct supernatural reward for the alms.
+- id: motif:2
+  label: holy companion as miraculous healer
+  taxonomy_refs: []
+  basis: St. Peter, traveling with Brother Lustig, heals a dying peasant immediately
+    with a salve.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly names miraculous healing apart
+    from broader families not specific to this event.
+- id: motif:3
+  label: disguise or change of appearance
+  taxonomy_refs:
+  - shapeshifter
+  basis: St. Peter assumes several beggar shapes and later the appearance of a discharged
+    soldier.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes assumed appearances, not an extended transformation
+    episode.
+- id: motif:4
+  label: food deception after forbidden or delayed eating
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Brother Lustig is told not to begin eating until St. Peter returns, but he
+    eats the lamb’s heart and invents an explanation that lambs have no heart.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy fit is interpretive; the passage presents deception around
+    food but does not label Brother Lustig as a trickster.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11434-11440
+  quote_or_summary: After the war, Brother Lustig is discharged with a small loaf
+    of contract-bread and four kreuzers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11440-11456
+  quote_or_summary: St. Peter appears three times as a beggar in different shapes,
+    and Brother Lustig gives each appearance a quarter of bread and one kreuzer.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11456-11472
+  quote_or_summary: St. Peter appears as a discharged soldier, asks for bread and
+    drink, and proposes traveling together while sharing what he earns through medicine.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11473-11488
+  quote_or_summary: At a peasant house, St. Peter heals a man sick unto death with
+    a salve and refuses reward while Brother Lustig urges him to accept something.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11488-11496
+  quote_or_summary: The peasant wife brings a lamb; St. Peter accepts only if Brother
+    Lustig carries it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11496-11506
+  quote_or_summary: In a wood, St. Peter tells Brother Lustig not to begin eating
+    before his return; Brother Lustig kills the lamb, lights a fire, and boils the
+    meat in a kettle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11506-11510
+  quote_or_summary: Before St. Peter returns, Brother Lustig cuts up the cooked lamb,
+    finds the heart, calls it the best part, and eats it all.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 11510-11517
+  quote_or_summary: St. Peter asks for the heart; Brother Lustig pretends to search
+    and says no heart is present, claiming that a lamb has no heart. St. Peter says
+    every animal has a heart, then lets Brother Lustig eat alone.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the supplied passage. Motif taxonomy matches
+    are cautious, especially for trickster_boundary and shapeshifter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added; comparison_claims is empty because the passage itself does not explicitly compare this episode to another text or tradition.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l11434-l11517
+  passage_sha256=036d52930b1e35785e710374644d5dfbab06e66e7146d3bfab08de069d634c35
+

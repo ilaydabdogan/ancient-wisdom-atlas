@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l821-l951
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: ABBREVIATIONS USED IN THE NOTES. / BIBLIOGRAPHY OF TRANSLATIONS. / GLOSSARY
+    OF PROPER NAMES. / LIST OF WORDS AND PHRASES NOT IN GENERAL USE.; lines 821-951
+  start: '821'
+  end: '951'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A glossary listing uncommon words and phrases used in the translation,
+    with definitions for social ranks, weapons, armor, maritime terms, burial landscape,
+    fate, and divine epithets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a list of words and phrases described as not in general use.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The glossary defines several social or personal status terms, including prince
+    or nobleman, son or child, man or hero, nobleman or brave man, retainer or vassal,
+    and youth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The glossary defines several martial terms, including armor, sword, sword-hilt
+    or handle, shield, stroke or blow, and success in war.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The glossary defines several water or maritime terms, including stream, vessel
+    or ship, ocean or sea, sea, and a poetic term for sea as a road for sails.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The glossary defines a barrow as a mound, rounded hill, or funeral mound.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The glossary defines phrases and words associated with divinity and fate:
+    one phrase denotes God, one word means ruler and is often used of God, one word
+    means fate or Providence, and one word means fated or doomed.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The glossary defines a nicker as a sea-beast and uncanny as ill-featured or
+    grizzly.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named as the referent of the phrase “Glory of Kings” and as a frequent
+    use of the word “Wielder” and compounds such as “Wielder of Glory” and “Wielder
+    of Worship.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine ruler referent in glossary
+  assigned_to:
+  - fig:1
+  basis: The glossary states that “Glory of Kings” means God and that “Wielder” means
+    ruler and is often used of God.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: barrow or funeral mound
+  literal_form: Mound, rounded hill, funeral-mound.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: water and sea terms
+  literal_form: Stream; ocean; sea; vessel or ship; sail-road as sea.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sea-beast
+  literal_form: Nicker, defined as sea-beast.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: sword
+  literal_form: Bill and brand as sword; heft as handle or hilt used by synecdoche
+    for sword.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: armor and shield
+  literal_form: Battle-sark and burnie as armor; targe or target as shield.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 821-823
+  quote_or_summary: "“LIST OF WORDS AND PHRASES NOT IN GENERAL USE.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 821-951; entries ATHELING, BAIRN, CARLE, EARL, HENCHMAN, YOUNKER
+  quote_or_summary: 'The glossary defines social or personal terms: atheling as prince
+    or nobleman; bairn as son or child; carle as man or hero; earl as nobleman or
+    brave man; henchman as retainer or vassal; younker as youth.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; definitions summarized.
+- id: ev:3
+  type: summary
+  locator: lines 821-951; entries BATTLE-SARK, BILL, BRAND, BURNIE, HEFT, TARGE/TARGET,
+    SWINGE, WAR-SPEED
+  quote_or_summary: The glossary defines martial terms including armor, sword, hilt
+    or handle used for sword, shield, stroke or blow, and success in war.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; definitions summarized.
+- id: ev:4
+  type: summary
+  locator: lines 821-951; entries BURN, FLOAT, HOLM, MERE, SAIL-ROAD
+  quote_or_summary: 'The glossary defines water and maritime terms: burn as stream;
+    float as vessel or ship; holm as ocean or curved surface of the sea; mere as sea;
+    sail-road as sea.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; definitions summarized.
+- id: ev:5
+  type: quote
+  locator: lines 821-951; entry BARROW
+  quote_or_summary: "“BARROW.--Mound, rounded hill, funeral-mound.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short glossary entry quoted.
+- id: ev:6
+  type: summary
+  locator: lines 821-951; entries GLORY OF KINGS, WIELDER, WEIRD, FEY
+  quote_or_summary: The glossary defines “Glory of Kings” as God; “Wielder” as ruler,
+    often used of God and in compounds such as “Wielder of Glory” and “Wielder of
+    Worship”; “Weird” as Fate or Providence; and “Fey” as fated or doomed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; definitions summarized.
+- id: ev:7
+  type: summary
+  locator: lines 821-951; entries NICKER, UNCANNY
+  quote_or_summary: The glossary defines nicker as sea-beast and uncanny as ill-featured
+    or grizzly.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; definitions summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a glossary, not a narrative episode. Extraction is limited
+    to lexical items, referents, and concrete symbolic forms explicitly defined in
+    the passage; no candidate motifs or comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No narrative scenes or motif candidates were extracted because the supplied passage contains glossary definitions rather than an episode or mythic action.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l821-l951
+  passage_sha256=424d44c96853f275e35e60d85ffa2bead91623ebac610d2acaa09e4ca3712af0
+

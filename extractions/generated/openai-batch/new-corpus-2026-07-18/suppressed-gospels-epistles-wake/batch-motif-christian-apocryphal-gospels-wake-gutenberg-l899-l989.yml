@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l899-l989
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER V. / CHAPTER VI. / CHAPTER VII. / CHAPTER VIII.; lines 899-989
+  start: '899'
+  end: '989'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Joseph returns from Judaea to Galilee intending to marry the betrothed
+    Virgin, discovers that she is pregnant, considers ending the agreement privately,
+    receives an angelic message in sleep explaining that the child is from the Holy
+    Ghost and will be the Son of God named Jesus/Saviour, marries her chastely, takes
+    her to Bethlehem, and the Virgin gives birth to Jesus Christ.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Joseph goes from Judaea to Galilee intending to marry the Virgin who was betrothed
+    to him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Joseph perceives that the Virgin is with child and becomes uneasy and doubtful
+    about what to do.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Joseph is described as just and pious, unwilling to expose or defame the Virgin,
+    and he plans privately to end the agreement and send her away.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An angel of the Lord appears to Joseph in his sleep and tells him not to fear
+    or suspect the Virgin, and not to be afraid to take her as wife.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The angel states that what is begotten in the Virgin is not the work of man
+    but the Holy Ghost.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The angel states that the Virgin will bring forth the Son of God, to be called
+    Jesus, interpreted as Saviour, who will save his people from their sins.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Joseph obeys the angel, marries the Virgin, does not know her, and keeps her
+    in chastity.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: As the ninth month from conception approaches, Joseph takes his wife and necessary
+    things to Bethlehem, the city from which he came.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: While they are in Bethlehem, the days are fulfilled for the Virgin to give
+    birth.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The Virgin brings forth her first-born son, identified as Lord Jesus Christ.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Joseph
+  description: A man betrothed to the Virgin; described as just and pious; addressed
+    by the angel as son of David; he receives the dream message, marries the Virgin
+    chastely, and takes her to Bethlehem.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: The Virgin
+  description: Joseph's betrothed; perceived to be with child; described by the angel
+    as the only Virgin who shall bring forth the Son of God; later gives birth to
+    her first-born son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Angel of the Lord
+  description: A messenger who appears to Joseph in his sleep and gives instructions
+    and an explanation of the Virgin's pregnancy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Holy Ghost
+  description: Identified by the angel as the source of what is begotten in the Virgin,
+    in contrast to the work of man.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jesus Christ / Son of God / Saviour
+  description: The child the Virgin will bring forth; to be named Jesus, interpreted
+    as Saviour; said to save his people from sins; born as her first-born son and
+    identified as Lord Jesus Christ.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: Betrothed husband and chaste spouse
+  assigned_to:
+  - fig:1
+  basis: Joseph is betrothed to the Virgin, marries her after the angel's command,
+    and does not know her.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: Just and pious protector
+  assigned_to:
+  - fig:1
+  basis: Joseph is described as just and pious and unwilling to expose or defame the
+    Virgin.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Recipient of dream revelation
+  assigned_to:
+  - fig:1
+  basis: The angel appears to Joseph in his sleep and addresses him with instructions.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Virgin mother
+  assigned_to:
+  - fig:2
+  basis: The Virgin is with child and is said to bring forth the Son of God and later
+    her first-born son.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:5
+  label: Divine messenger
+  assigned_to:
+  - fig:3
+  basis: The angel of the Lord appears in sleep and speaks the explanation and command
+    to Joseph.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: Divine agent of conception
+  assigned_to:
+  - fig:4
+  basis: The child begotten in the Virgin is said not to be the work of man but the
+    Holy Ghost.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Salvific divine child
+  assigned_to:
+  - fig:5
+  basis: The child is called Son of God, Jesus/Saviour, and one who will save his
+    people from sins.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: Angelic dream message
+  literal_form: The angel of the Lord appears to Joseph in his sleep and speaks to
+    him.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Virgin conception by the Holy Ghost
+  literal_form: The Virgin is with child, and the angel says what is begotten in her
+    is not the work of man but the Holy Ghost.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  - divine_parent_child
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Name Jesus as Saviour
+  literal_form: The angel says the child shall be called Jesus, that is, Saviour.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Bethlehem birth setting
+  literal_form: Bethlehem, the city from which Joseph came, where the time for the
+    Virgin's birth is fulfilled.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Return to Galilee and discovery of pregnancy
+  summary: Joseph goes from Judaea to Galilee to marry the betrothed Virgin and discovers
+    that she is with child.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Joseph's private deliberation
+  summary: Because he is just and pious and does not wish to expose or defame the
+    Virgin, Joseph plans a private end to their agreement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Angelic explanation in sleep
+  summary: An angel appears to Joseph in sleep, tells him not to fear taking the Virgin
+    as wife, and explains that the child is from the Holy Ghost and will be called
+    Jesus/Saviour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Chaste marriage
+  summary: Joseph follows the angel's command, marries the Virgin, and keeps her in
+    chastity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Journey to Bethlehem and birth
+  summary: Near the ninth month, Joseph takes his wife and necessary things to Bethlehem,
+    where the time for birth is fulfilled and the Virgin gives birth to Jesus Christ.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Sacred birth through divine conception
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  - divine_parent_child
+  basis: The angel says the Virgin's pregnancy is not the work of man but the Holy
+    Ghost, and that she will bring forth the Son of God, later born as Jesus Christ.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage presents the conception and birth within Christian theological
+    language; the extraction does not infer details beyond the supplied text.
+- id: motif:2
+  label: Angelic dream annunciation
+  taxonomy_refs: []
+  basis: An angel appears to Joseph in sleep and delivers reassurance, instruction,
+    and an explanation of the child.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly names dream annunciation.
+- id: motif:3
+  label: Chaste marriage preserving virginity
+  taxonomy_refs:
+  - sacred_birth
+  basis: Joseph marries the Virgin after the angel's command but does not know her
+    and keeps her in chastity.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a passage-level pattern associated with the birth narrative; it
+    is narrower than the broad taxonomy family.
+- id: motif:4
+  label: Merciful private dismissal avoided by divine message
+  taxonomy_refs: []
+  basis: Joseph plans privately to end the agreement to avoid exposing or defaming
+    the Virgin, but the angelic message changes his course.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The motif label is descriptive and not linked to a supplied taxonomy family.
+- id: motif:5
+  label: Salvific naming of the child
+  taxonomy_refs: []
+  basis: The angel instructs that the child shall be named Jesus, interpreted as Saviour,
+    because he will save his people from sins.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to salvific naming.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the birth of the first-born son with what 'the
+    holy Evangelists have taught,' indicating comparison to an Evangelist nativity
+    tradition.
+  claim_level: same_motif
+  target: The holy Evangelists' teaching about the birth of Jesus Christ, as referenced
+    in the passage
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name specific evangelists, books, or parallel
+    verses, so the comparison is limited to the explicit internal reference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER VIII.1-2
+  quote_or_summary: Joseph goes from Judaea to Galilee intending to marry the Virgin
+    betrothed to him; nearly three months have passed since the betrothal.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: summary
+  locator: CHAPTER VIII.3-5
+  quote_or_summary: The Virgin is plainly with child; Joseph perceives it and becomes
+    uneasy and doubtful about what course to take.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:3
+  type: summary
+  locator: CHAPTER VIII.6-7
+  quote_or_summary: Joseph is called just and pious, unwilling to expose or defame
+    the Virgin, and plans privately to end the agreement and send her away.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:4
+  type: summary
+  locator: CHAPTER VIII.8-9
+  quote_or_summary: The angel of the Lord appears to Joseph in his sleep, addresses
+    him as son of David, and tells him not to suspect the Virgin or fear taking her
+    as wife.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:5
+  type: quote
+  locator: CHAPTER VIII.10-11
+  quote_or_summary: The angel says the child is "not the work of man, but the Holy
+    Ghost" and that the Virgin will bring forth the Son of God named Jesus, or Saviour,
+    who will save his people from sins.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation and summary used.
+- id: ev:6
+  type: quote
+  locator: CHAPTER VIII.12
+  quote_or_summary: Joseph marries the Virgin according to the angel's command and
+    "did not know her, but kept her in chastity."
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short quotation and summary used.
+- id: ev:7
+  type: summary
+  locator: CHAPTER VIII.13-14
+  quote_or_summary: Near the ninth month from conception, Joseph takes his wife and
+    necessary things to Bethlehem, his city of origin, and the days for her bringing
+    forth are fulfilled there.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:8
+  type: summary
+  locator: CHAPTER VIII.15
+  quote_or_summary: The Virgin brings forth her first-born son, identified as Lord
+    Jesus Christ, with the passage stating this is as the holy Evangelists have taught.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source metadata; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The principal narrative elements are explicit. Motif labels are descriptive
+    and taxonomy use is limited to supplied families that directly fit the divine
+    conception and sacred birth material. The comparison claim rests only on the passage's
+    own reference to the holy Evangelists.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external gospel parallels or unsupplied names are added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l899-l989
+  passage_sha256=3b0006badc165ceb125676ef107df8e7d87edb6e9413d00281847511f2bc8a79
+

@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l14705-l14770
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 14705-14770
+  start: '14705'
+  end: '14770'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Cook, little pot, cook” ... “Stop, little pot”"
+  summary: The passage contains the tale of a poor girl who receives a pot that produces
+    porridge by command, and whose mother causes an uncontrolled overflow by not knowing
+    the stopping command. It then begins the tale “Wise Folks,” in which a peasant
+    named Hans leaves his wife Trina to sell three cows only for a fixed price, and
+    she accepts a pledge that leaves her with only one cow and no money.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A poor but good little girl lives alone with her mother, and they have nothing
+    left to eat.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child goes into the forest and meets an aged woman who knows of her sorrow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The aged woman gives the child a little pot that cooks sweet porridge when
+    addressed with one formula and stops cooking when addressed with another formula.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The pot frees the girl and her mother from poverty and hunger because they
+    can eat porridge whenever they choose.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the girl is away, her mother uses the cooking command, eats until satisfied,
+    and then cannot stop the pot because she does not know the stopping word.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The porridge rises over the edge of the pot and fills the kitchen, the house,
+    the next house, and the whole street.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The unchecked porridge causes great distress, and no one knows how to stop
+    it until the child returns.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The child says the stopping formula, the pot ceases cooking, and anyone wishing
+    to return to town must eat a way back.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A peasant named Hans takes a hazel-stick, prepares to travel for three days,
+    and instructs his wife Trina to sell their three cows only for two hundred thalers.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Hans warns Trina that if she does anything foolish, he will beat her with
+    the stick.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A cattle-dealer agrees to the stated price, drives the cows out, but says
+    he has forgotten his money-belt when Trina asks for payment.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The cattle-dealer takes two cows and leaves one cow as security for later
+    payment.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Trina believes she has managed the sale cleverly because she kept the smallest
+    cow, which eats the least.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: Hans becomes enraged, lifts his stick, then refrains from the promised beating
+    and says he will search the highways for three days to find someone stupider than
+    Trina.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: poor little girl
+  description: A good child who lives with her mother, receives the pot, and knows
+    the stopping formula.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: girl's mother
+  description: The child's mother, who uses the cooking formula while the girl is
+    away but does not know the stopping word.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: aged woman
+  description: An old woman in the forest who is aware of the child's sorrow and presents
+    her with the little pot.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hans the peasant
+  description: A peasant who travels for three days, instructs his wife about selling
+    three cows, threatens punishment, and later goes to seek someone stupider.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: Trina
+  description: Hans's wife, who allows the cattle-dealer to take two cows without
+    payment while keeping one cow as security.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: cattle-dealer
+  description: A buyer who agrees to the price for the cows, says he has forgotten
+    his money-belt, takes two cows, and leaves one as security.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: three cows
+  description: The animals Hans wants sold for two hundred thalers; two are taken
+    by the cattle-dealer and one is left as security.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: needy child
+  assigned_to:
+  - fig:1
+  basis: The girl lives with her mother and has nothing left to eat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: knower of the stopping formula
+  assigned_to:
+  - fig:1
+  basis: The child returns and stops the pot by saying the correct formula.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: mistaken user of magic object
+  assigned_to:
+  - fig:2
+  basis: The mother starts the pot but does not know the word to stop it.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: supernatural or unusual helper
+  assigned_to:
+  - fig:3
+  basis: The aged woman knows the child's sorrow and gives her the pot with special
+    commands.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: departing owner and instructor
+  assigned_to:
+  - fig:4
+  basis: Hans leaves for three days and gives Trina instructions for selling the cows.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: judge of folly
+  assigned_to:
+  - fig:4
+  basis: Hans calls Trina the stupidest goose and decides to search for someone still
+    stupider before punishing her.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: foolish bargain-maker
+  assigned_to:
+  - fig:5
+  basis: Trina accepts one cow as security after the buyer takes two cows without
+    paying.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: buyer without immediate payment
+  assigned_to:
+  - fig:6
+  basis: The cattle-dealer agrees to the price but says he has forgotten his money-belt
+    and leaves one cow as security.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: sale goods and pledge
+  assigned_to:
+  - fig:7
+  basis: The three cows are the goods to be sold; two are taken and one is left as
+    security.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: little porridge pot
+  literal_form: A little pot that cooks sweet porridge and stops cooking when given
+    the proper spoken commands.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: sweet porridge
+  literal_form: Food produced by the pot; it becomes abundant enough to fill buildings
+    and the street.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: command formulas
+  literal_form: The phrases used to start and stop the pot's cooking.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: forest meeting place
+  literal_form: The forest where the child meets the aged woman and receives the pot.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: hazel-stick
+  literal_form: The stick Hans carries and threatens to use if Trina acts foolishly.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: sym:6
+  label: two hundred thalers
+  literal_form: The minimum price Hans sets for the three cows.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: one cow as security
+  literal_form: The smallest cow kept by Trina as pledge after the cattle-dealer takes
+    the other two cows.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Gift of the magic pot
+  summary: A hungry child goes into the forest, meets an aged woman, and receives
+    a pot that can cook and stop by spoken commands.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Relief from hunger
+  summary: The child brings the pot home, and she and her mother are freed from poverty
+    and hunger by eating sweet porridge as often as they choose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Uncontrolled porridge overflow
+  summary: While the child is absent, the mother starts the pot but cannot stop it;
+    porridge fills domestic and town spaces and causes distress.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Return and stopping command
+  summary: The child comes home, speaks the stopping formula, and the pot stops; people
+    must eat their way back through the porridge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Hans's departure instructions
+  summary: Hans prepares to travel for three days, instructs Trina about selling the
+    cows, and threatens punishment with his stick if she acts foolishly.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Sale without payment
+  summary: The cattle-dealer agrees to buy the cows, but after saying he has forgotten
+    his money-belt, he takes two cows and leaves one as security.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: Search for someone stupider
+  summary: Hans returns, hears Trina's account, calls her extremely stupid, refrains
+    from immediate punishment, and goes out to seek someone still stupider.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: magic vessel that produces food by command
+  taxonomy_refs: []
+  basis: The aged woman gives the child a pot that cooks sweet porridge when addressed
+    with the proper words.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage identifies the pot's function but gives no origin for its
+    power.
+- id: motif:2
+  label: uncontrolled abundance caused by missing stopping knowledge
+  taxonomy_refs: []
+  basis: The mother can start the pot but does not know the stopping word, causing
+    porridge to overflow into the house and street.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a food-overflow episode, not a literal water flood.
+- id: motif:3
+  label: rescuer returns with the needed formula
+  taxonomy_refs:
+  - return
+  basis: The child returns home and ends the crisis by speaking the stopping formula.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the episode is a practical return rather
+    than a long heroic return cycle.
+- id: motif:4
+  label: foolish sale through inadequate pledge
+  taxonomy_refs: []
+  basis: Trina lets the buyer take two of three cows without payment and treats the
+    remaining cow as good security.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not explicitly state whether the cattle-dealer intends
+    fraud.
+- id: motif:5
+  label: quest to find someone more foolish
+  taxonomy_refs:
+  - wisdom
+  basis: Hans decides to search the highways for three days to see whether anyone
+    is still stupider than Trina.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy reference is broad and concerns wisdom/folly rather than
+    sacred wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14705-14707
+  quote_or_summary: A poor good little girl lives alone with her mother, and they
+    have nothing left to eat.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: summary
+  locator: 14707-14713
+  quote_or_summary: In the forest, an aged woman aware of the child's sorrow gives
+    her a little pot controlled by the commands “Cook, little pot, cook” and “Stop,
+    little pot.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:3
+  type: summary
+  locator: 14713-14716
+  quote_or_summary: The girl takes the pot home, and she and her mother are freed
+    from poverty and hunger by eating sweet porridge whenever they choose.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: 14716-14727
+  quote_or_summary: The mother starts the pot while the girl is away, cannot stop
+    it, and the porridge fills the kitchen, house, next house, and street, causing
+    distress.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:5
+  type: summary
+  locator: 14727-14731
+  quote_or_summary: When only one house remains, the child returns, says “Stop, little
+    pot,” the pot stops, and people must eat their way back to town.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:6
+  type: summary
+  locator: 14735-14748
+  quote_or_summary: Hans the peasant leaves for three days, tells Trina to sell three
+    cows only for two hundred thalers, and threatens to beat her with a hazel-stick
+    if she acts foolishly.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:7
+  type: summary
+  locator: 14750-14761
+  quote_or_summary: The cattle-dealer agrees to the price, drives the cows out, says
+    he forgot his money-belt, and proposes taking two cows while leaving one as security.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:8
+  type: summary
+  locator: 14761-14768
+  quote_or_summary: Trina lets him go with the cows and later tells Hans she has kept
+    the smallest cow as security because it eats the least.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:9
+  type: summary
+  locator: 14768-14770
+  quote_or_summary: Hans becomes enraged, lifts his stick, calls Trina extremely stupid,
+    and says he will search the highways for three days for someone stupider before
+    deciding whether to punish her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate descriptions;
+    broad taxonomy links are used sparingly and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage spans the end of a magic-pot tale and the beginning of “104 Wise Folks,” so scenes and motifs are separated by tale episode.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l14705-l14770
+  passage_sha256=26cf254151af547f819c3bcd9d9dda63f2c876049e7319a16a33916f78e89283
+

@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l11708-l11720
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE TWELVE DAUGHTERS. / THE FAITHLESS FISHERMAN. / THE COMPASSIONATE WOODCUTTER.
+    / THE WONDERFUL HAYCOCK.; lines 11708-11720
+  start: '11708'
+  end: '11720'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: when a cock crew in the village, the haycock vanished
+  summary: A girl crossing a frozen heath at night is harried by an unbound moving
+    haycock until a cock crows, after which the haycock disappears. The girl reaches
+    home exhausted and dies within a week. Later cries for help are heard on the heath,
+    and people ensure haycocks are tied so evil spirits cannot interfere with them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed girl goes home across a frozen heath on an autumn evening and shivers
+    despite walking quickly.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A moving haycock without a band pesters the girl, presses closely against
+    her, and pricks her face with hay until midnight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When a cock crows in the village, the haycock vanishes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The girl reaches home exhausted and dies within a week.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Afterward, people say cries for help have been heard from the heath at night.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: People are careful to tie every haycock with a band, because a secured haycock
+    is said to be safe from evil spirit interference.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed girl
+  description: A girl walking home across the frozen heath who is pursued by the moving
+    haycock and later dies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: moving haycock without a band
+  description: An unbound haycock that moves, presses upon the girl, pricks her face
+    with hay, and vanishes at cockcrow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: village cock
+  description: A cock in the village whose crow is followed by the haycock's disappearance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: people
+  description: The community who report night cries from the heath and are careful
+    to tie haycocks with bands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: evil spirit
+  description: A type of harmful being said to be unable to interfere with a haycock
+    when it is secured with a band.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: endangered traveler
+  assigned_to:
+  - fig:1
+  basis: The girl crosses the frozen heath, is harried by the moving haycock, reaches
+    home exhausted, and dies soon after.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: nocturnal pursuer or apparition
+  assigned_to:
+  - fig:2
+  basis: The unbound haycock moves after the girl at night, presses on her, and vanishes
+    after cockcrow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: cockcrow marker
+  assigned_to:
+  - fig:3
+  basis: The cock's crow in the village immediately precedes the haycock's disappearance.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: community witness and ritual actor
+  assigned_to:
+  - fig:4
+  basis: People report later cries from the heath and maintain the practice of tying
+    haycocks.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: interfering harmful spirit
+  assigned_to:
+  - fig:5
+  basis: The passage states that a secured haycock cannot be interfered with by an
+    evil spirit.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: unbound haycock
+  literal_form: moving haycock without a band
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: binding band
+  literal_form: band used to tie a haycock
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: cockcrow
+  literal_form: cock crowing in the village
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: night heath cries
+  literal_form: cries for help heard from the heath by night
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Night pursuit on the frozen heath
+  summary: On an autumn evening, a girl crossing the frozen heath is followed and
+    physically harried by a moving unbound haycock until midnight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cockcrow and disappearance
+  summary: A village cock crows, the haycock vanishes, and the girl reaches home exhausted
+    before dying within a week.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Aftermath and protective tying practice
+  summary: People say cries for help are heard from the heath at night and carefully
+    tie haycocks with bands to prevent evil spirit interference.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: nocturnal animated object harasses traveler
+  taxonomy_refs: []
+  basis: A moving unbound haycock pursues and presses upon a girl crossing the heath
+    at night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly state whether the haycock is animated
+    by the evil spirit named later.
+- id: motif:2
+  label: cockcrow dispels nocturnal apparition
+  taxonomy_refs: []
+  basis: The haycock vanishes when a cock crows in the village.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the sequence but does not directly explain the mechanism
+    of the disappearance.
+- id: motif:3
+  label: protective binding prevents spirit interference
+  taxonomy_refs: []
+  basis: People tie every haycock with a band, and the passage states that a secured
+    haycock cannot be interfered with by an evil spirit.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as local practice and explanation, without further
+    ritual details.
+- id: motif:4
+  label: haunted place marked by cries after death
+  taxonomy_refs: []
+  basis: After the girl's death, cries for help are said to be heard from the heath
+    by night.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not identify the source of the cries.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11708-11712
+  quote_or_summary: A girl goes home across a frozen heath on an autumn evening and
+    shivers though she walks quickly.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 11712-11715
+  quote_or_summary: A moving haycock without a band pesters the girl, presses closely
+    on her, and pricks her face with hay until midnight.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: quote
+  locator: lines 11715-11718
+  quote_or_summary: "“when a cock crew in the village, the haycock vanished,” and
+    the girl came home exhausted and died within a week."
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 11718-11719
+  quote_or_summary: Since then, people say cries for help have been heard from the
+    heath at night.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 11719-11720
+  quote_or_summary: People are careful to tie every haycock with a band; if secured,
+    no evil spirit can interfere with it.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive rather
+    than taxonomy-linked because the supplied taxonomy does not include exact categories
+    for animated haycock, cockcrow, or protective binding. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned because none matched the passage closely enough without overinterpretation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l11708-l11720
+  passage_sha256=731d69eb874ac2da5650ae96a8c802652d259847c6ef347e89b8422228b3088b
+

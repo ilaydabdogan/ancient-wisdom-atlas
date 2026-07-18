@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l18972-l19059
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXXVII. The Coats Of Bark. / Canto XLVI. The Halt. / Canto XLIX. The
+    Crossing Of The Rivers. / Canto LXII. Dasaratha Consoled.; lines 18972-19059
+  start: '18972'
+  end: '19059'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“The fifth long night has now begun / Since the wild woods have lodged my
+    son”"
+  summary: Dasaratha, anguished after Kausalya's stern words, remembers a past deed
+    involving an arrow shot at a sound and mourns his son. He asks Kausalya for grace
+    with joined hands. Kausalya weeps, takes his hands, asks forgiveness, and speaks
+    about duty and the force of sorrow. She says her son has spent five nights in
+    the wild woods. Her words soothe the king, evening falls, and he sleeps.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The monarch hears the queen's stern speech, is oppressed by anguish, becomes
+    faint and distraught, and then regains consciousness while Kausalya stands by
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The monarch remembers a dire deed: an arrow was sent at a sound without wrongful
+    intent; he also mourns his son and is described as suffering two griefs.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The monarch casts his eyes to the ground, joins his hands as a suppliant,
+    asks Kausalya for grace, and asks that she not speak bitter words to him in his
+    distress.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kausalya's eyes fill with tears; she clasps the monarch's suppliant hands,
+    lays them on her head, and asks forgiveness.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kausalya says that her rash words came from anguish and that sorrow can bend
+    the strongest soul and override scriptural control.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Kausalya says the fifth night has begun since the wild woods lodged her son,
+    that each day appears like a year, and that grief grows like an ocean increased
+    by floods.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: As Kausalya's words of wisdom are spoken, the sun goes down, darkness comes
+    over the landscape, the monarch is partly relieved, and he sleeps.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dasaratha, the monarch
+  description: The king named in the canto title; he is anguished, remembers a past
+    deed, mourns his son, supplicates Kausalya, and later sleeps after being soothed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Kausalya
+  description: The queen standing by the king; she weeps, clasps his hands, asks forgiveness,
+    speaks about duty and sorrow, and consoles him with words of wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: The son in the wild woods
+  description: The absent son mourned by the king and Kausalya; Kausalya says the
+    wild woods have lodged him for five nights.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: grieving monarch and father
+  assigned_to:
+  - fig:1
+  basis: The monarch is oppressed by anguish, mourns his son, and is said to be prey
+    to two griefs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: suppliant husband
+  assigned_to:
+  - fig:1
+  basis: He joins his hands, asks Kausalya for grace, and speaks tremblingly to her.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: penitent wife and consoler
+  assigned_to:
+  - fig:2
+  basis: Kausalya asks forgiveness after weeping and later speaks words of wisdom
+    that partly relieve the king.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: absent forest-dwelling son
+  assigned_to:
+  - fig:3
+  basis: The son is not present in the scene but is mourned and described as lodged
+    in the wild woods for five nights.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols:
+- id: sym:1
+  label: joined suppliant hands
+  literal_form: Joined hands used in supplication, clasped by Kausalya and laid on
+    her head.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: tears and swelling waters
+  literal_form: Tears compared to falling water, and grief compared to an ocean swollen
+    by rushing floods.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: wild woods
+  literal_form: The wild woods that have lodged the absent son for five nights.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: sunset and darkness
+  literal_form: The sun goes down and darkness comes over the landscape before the
+    king sleeps.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Dasaratha's recollection and supplication
+  summary: The king recovers from grief, remembers the deed of sending an arrow at
+    a sound, mourns his son, and asks Kausalya for grace with joined hands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Kausalya's apology and teaching on sorrow
+  summary: Kausalya weeps, takes the king's hands, asks forgiveness, and explains
+    that her harsh words came from anguish and from grief over her son in the woods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Evening consolation and rest
+  summary: Kausalya's words of wisdom partly soothe the king; sunset and darkness
+    come, and the weary monarch sleeps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: grieving royal parent after a son's forest departure
+  taxonomy_refs:
+  - departure
+  basis: The king mourns his son, and Kausalya says the fifth night has begun since
+    the wild woods lodged her son.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage refers to the son's forest absence but does not narrate the
+    departure itself.
+- id: motif:2
+  label: consolatory wisdom in familial grief
+  taxonomy_refs:
+  - wisdom
+  basis: Kausalya speaks about duty and the power of sorrow, and the text calls her
+    speech words of wisdom that relieve the king in part.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage presents wisdom as practical
+    consolation rather than an extended wisdom teaching.
+- id: motif:3
+  label: remorse for an unintended harmful deed
+  taxonomy_refs: []
+  basis: The monarch remembers a dire deed in which his arrow was sent at a sound
+    while he was guiltless of wrongful intent, and the memory adds to his grief.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage alludes to the deed but does not narrate its full circumstances
+    or outcome.
+- id: motif:4
+  label: supplication and pardon between spouses
+  taxonomy_refs: []
+  basis: Dasaratha asks Kausalya for grace with joined hands, and Kausalya responds
+    by clasping his hands and asking forgiveness herself.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level interpersonal pattern rather than a specialized
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18972-18985
+  quote_or_summary: Canto title identifies Dasaratha; the monarch hears the queen's
+    stern speech, is anguished and faint, then regains consciousness and sees Kausalya
+    beside him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 18986-18993
+  quote_or_summary: The king remembers the deed when, “guiltless of the wrong intent,
+    / His arrow at a sound was sent,” and he mourns his son as one prey to two griefs.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 18994-19009
+  quote_or_summary: The king joins suppliant hands, asks Kausalya for grace, praises
+    her gentleness, and asks her not to launch bitter words at him while distressed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19011-19022
+  quote_or_summary: Kausalya listens, weeps like new-fallen water, clasps the king's
+    suppliant hands and lays them on her head, then asks forgiveness at his feet.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19023-19038
+  quote_or_summary: Kausalya speaks of the duties of a wife, says her rash words broke
+    from anguish, and declares that sorrow bends even the strongest spirit.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 19039-19046
+  quote_or_summary: "“The fifth long night has now begun / Since the wild woods have
+    lodged my son”; Kausalya says each day seems a year and compares her swelling
+    grief to an ocean increased by floods."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 19048-19055
+  quote_or_summary: Kausalya's gentle words of wisdom fall as the sun sets and darkness
+    comes; her soothing words partly relieve the king, who yields to sleep.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    several patterns are alluded to indirectly or are broad. No passage-internal basis
+    was found for a separate comparative claim, so comparison_claims is empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used; no external Ramayana context was added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l18972-l19059
+  passage_sha256=9a6cf2165bb6ed3b6fa05ec2dfa86a2d1a9102a868ca370b0fd7d833278ed5b8
+

@@ -1,0 +1,462 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l5692-l5804
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER I. / CHAPTER II. / CHAPTER III. / CHAPTER IV.; lines 5692-5804
+  start: '5692'
+  end: '5804'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: I find not any one fault in Jesus.
+  summary: Pilate questions the accusations against Jesus, repeatedly states that
+    he finds no death-worthy fault, and resists crucifixion. The Jews and their authorities
+    accuse Jesus of blasphemy, cite his saying about destroying and rebuilding the
+    temple, demand crucifixion, and say he deserves death because he declares himself
+    Son of God and King. Jesus says Moses and the prophets prophesied his suffering
+    and resurrection.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pilate leaves Jesus in the hall and tells the Jews that he finds no fault
+    in Jesus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Jews report that Jesus said he could destroy the temple of God and build
+    it up again in three days.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When Pilate asks what temple is meant, the Jews identify it as the temple
+    associated with Solomon and forty-six years of building.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pilate declares himself innocent of Jesus' blood and privately tells the elders,
+    scribes, priests, and Levites that he has found no death-worthy charge concerning
+    healing sick persons or breaking the sabbath.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The priests and Levites answer that a blasphemer is worthy of death and say
+    Jesus has blasphemed against the Lord.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Jesus tells Pilate to act according to what is written and says Moses and
+    the prophets have prophesied concerning his suffering and resurrection.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Jews react to Jesus' statement by calling it blasphemy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Pilate suggests that the Jews try Jesus under their own law; the Jews mention
+    thirty-nine stripes, stoning for blasphemy, and their lack of authority to put
+    anyone to death.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Jews say they desire Jesus to be crucified because he deserves the death
+    of the cross.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Pilate says it is not fit for Jesus to be crucified and proposes that he be
+    whipped and sent away.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Pilate sees many Jews in tears and says to the chief priests that not all
+    the people desire Jesus' death.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The elders answer that they came so Jesus should die and give as the reason
+    that he declares himself to be the Son of God and a King.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pilate
+  description: Governor who questions the charges, states that he finds no fault in
+    Jesus, speaks privately with Jewish authorities, questions Jesus, and resists
+    crucifixion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Jesus
+  description: Accused man left in the hall before Pilate; he speaks of what is written
+    and says Moses and the prophets prophesied his suffering and resurrection; others
+    accuse him of declaring himself Son of God and King.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: The Jews
+  description: Collective interlocutors who accuse Jesus before Pilate, react to his
+    words as blasphemy, discuss legal penalties, and request crucifixion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Jewish religious authorities
+  description: Elders, scribes, priests, Levites, and chief priests addressed by Pilate;
+    priests and Levites assert that blasphemy deserves death, and elders insist Jesus
+    should die.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Many Jews in tears / people not desiring death
+  description: A visible subset of the people present whom Pilate sees weeping, prompting
+    his statement that not all desire Jesus' death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Moses and the prophets
+  description: Authorities cited by Jesus as having prophesied concerning his suffering
+    and resurrection.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: adjudicating governor
+  assigned_to:
+  - fig:1
+  basis: Pilate questions accusations, declares no fault, proposes alternatives to
+    crucifixion, and addresses both Jesus and the accusers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: accused defendant and prophecy speaker
+  assigned_to:
+  - fig:2
+  basis: Jesus is held before Pilate and answers that what is written should be done,
+    naming suffering and resurrection as prophesied.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: accusers seeking death or crucifixion
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Jews and their authorities present accusations of blasphemy, demand crucifixion,
+    and state that Jesus should die.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: mourners or dissenting public subset
+  assigned_to:
+  - fig:5
+  basis: Pilate sees many Jews in tears and says all the people do not desire Jesus'
+    death.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: cited prophetic authorities
+  assigned_to:
+  - fig:6
+  basis: Jesus names Moses and the prophets as having prophesied concerning his suffering
+    and resurrection.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: temple of God / Solomon's temple
+  literal_form: A temple that Jesus is accused of saying he could destroy and build
+    up again in three days; the accusers identify it with Solomon's temple and forty-six
+    years of building.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: three days
+  literal_form: The stated period in which the temple would be built up again.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blood-guilt speech
+  literal_form: Pilate says he is innocent of Jesus' blood; the Jews say Jesus' blood
+    is upon them and their children.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: thirty-nine stripes
+  literal_form: A legal punishment named by the Jews as what their law obliges for
+    Jesus before further blasphemy is considered.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: stoning
+  literal_form: A death penalty the Jews mention for blasphemy against the Lord.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: cross / crucifixion
+  literal_form: The desired manner of death named by the Jews and resisted by Pilate.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: No-fault finding and temple accusation
+  summary: Pilate tells the Jews he finds no fault in Jesus, and the Jews respond
+    by citing Jesus' saying about destroying and rebuilding the temple in three days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Private warning and blasphemy charge
+  summary: Pilate privately tells Jewish authorities that he has found no death-worthy
+    charge, while priests and Levites answer that blasphemy deserves death and accuse
+    Jesus of blasphemy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Written prophecy and legal alternatives
+  summary: Pilate questions Jesus; Jesus invokes what is written and the prophecies
+    of Moses and the prophets. The Jews call this blasphemy, and discussion turns
+    to Jewish legal punishments and limits on execution.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Demand for crucifixion and divided crowd
+  summary: The Jews demand crucifixion; Pilate says crucifixion is not fit and suggests
+    whipping and release. He notices many Jews in tears, but the elders insist that
+    Jesus should die because he declares himself Son of God and King.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: prophesied suffering and resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: Jesus states that Moses and the prophets prophesied concerning his suffering
+    and resurrection.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not identify the specific Mosaic or prophetic texts.
+- id: motif:2
+  label: innocent accused person pressed toward execution
+  taxonomy_refs: []
+  basis: Pilate repeatedly says he finds no fault or that crucifixion is not fit,
+    while the accusers demand Jesus' death and crucifixion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents a legal-political dispute; broader theological meaning
+    is not stated in this excerpt.
+- id: motif:3
+  label: blood-guilt denial and acceptance
+  taxonomy_refs: []
+  basis: Pilate declares himself innocent of Jesus' blood, and the Jews answer that
+    his blood is upon them and their children.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The extraction records the speech pattern only and does not extend it
+    beyond the passage.
+- id: motif:4
+  label: divine sonship and kingship as capital accusation
+  taxonomy_refs:
+  - divine_parent_child
+  - royal_legitimacy
+  basis: The elders say Jesus should die because he declares himself to be the Son
+    of God and a King.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The claim is reported by accusers as the reason for death; the passage
+    does not independently adjudicate the titles.
+- id: motif:5
+  label: temple destroyed and rebuilt in three days
+  taxonomy_refs: []
+  basis: The Jews accuse Jesus of saying he could destroy the temple of God and build
+    it again in three days.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain whether the temple saying is literal, metaphorical,
+    or connected to another referent.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Jesus' suffering and resurrection as already
+    prophesied in the Mosaic and prophetic writings named by Jesus.
+  claim_level: same_motif
+  target: Moses and the prophets, as cited within the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No individual earlier text is named or quoted, so the comparison is
+    limited to the passage's internal assertion of prophetic correspondence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: CHAPTER IV.1
+  quote_or_summary: 'Pilate tells the Jews: "I find not any one fault in Jesus."'
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: CHAPTER IV.2-4
+  quote_or_summary: The Jews say Jesus claimed he could destroy the temple of God
+    and rebuild it in three days; when Pilate asks what temple, they identify it as
+    Solomon's temple, forty-six years in building.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: CHAPTER IV.5-7
+  quote_or_summary: Pilate declares himself innocent of Jesus' blood and privately
+    tells the elders, scribes, priests, and Levites that he found no death-worthy
+    charge; priests and Levites answer that blasphemy against the Lord is worthy of
+    death.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: CHAPTER IV.8-12
+  quote_or_summary: Pilate asks Jesus what he should do; Jesus answers according to
+    what is written and says Moses and the prophets prophesied concerning his suffering
+    and resurrection; the Jews call this blasphemy.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: CHAPTER IV.13-16
+  quote_or_summary: Pilate suggests trial under Jewish law; the Jews mention thirty-nine
+    stripes, stoning for blasphemy, their lack of authority to put anyone to death,
+    and their desire that Jesus be crucified as deserving the death of the cross.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: CHAPTER IV.17-21
+  quote_or_summary: Pilate says Jesus should not be crucified but whipped and sent
+    away; seeing many Jews in tears, he says not all desire Jesus' death; the elders
+    answer that Jesus should die because he declares himself Son of God and King.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for legal-dialogue extraction. Motif labels beyond explicit
+    resurrection, sonship, kingship, blood, temple, and crucifixion are kept cautious.
+    No available taxonomy symbol refs are literally present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. The broader locator label names multiple chapters, but the supplied passage text is CHAPTER IV only.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l5692-l5804
+  passage_sha256=6dd5ee432f1f9dec49e71b94e0025b8fe640786f1ded2808636bc5ff5a6cfed3
+

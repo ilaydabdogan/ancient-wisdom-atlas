@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.buddhist-dhammapada-max-muller-gutenberg-l62-l110
+source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+passage_locator:
+  label: Dhammapada, a Collection of Verses / THE DHAMMAPADA; lines 62-110
+  start: '62'
+  end: '110'
+  translation: Dhammapada, a Collection of Verses
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter for the Dhammapada translation, followed by a contents list
+    naming twenty-six chapters, including topics such as Twin Verses, Earnestness,
+    Thought, Flowers, Fool, Wise Man, Buddha, The Way, Elephant, Thirst, Bhikshu,
+    and Brahmana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as The Dhammapada and as a collection of verses
+    that is one of the canonical books of the Buddhists.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the text was translated from Pali by F. Max Muller.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note says that the introduction, notes, and index have been omitted.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage presents a contents list numbered from Chapter 1 through Chapter
+    26.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some chapter titles are abstract or ethical topics, including Earnestness,
+    Thought, Evil, Punishment, Old Age, Self, Anger, Impurity, and The Way.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:6
+  text: Some chapter titles are person-type labels, including The Fool, The Wise Man,
+    The Venerable, The Buddha, The Bhikshu, and The Brahmana.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Buddha (the Awakened)
+  description: Listed as the title of Chapter 14.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: The Wise Man (Pandita)
+  description: Listed as the title of Chapter 6.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: The Fool
+  description: Listed as the title of Chapter 5.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: The Bhikshu (Mendicant)
+  description: Listed as the title of Chapter 25.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: The Brahmana (Arhat)
+  description: Listed as the title of Chapter 26.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: The Venerable (Arhat)
+  description: Listed as the title of Chapter 7.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Awakened one
+  assigned_to:
+  - fig:1
+  basis: The chapter title glosses Buddha as "the Awakened."
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: Wise person
+  assigned_to:
+  - fig:2
+  basis: The chapter title names "The Wise Man (Pandita)."
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Foolish person
+  assigned_to:
+  - fig:3
+  basis: The chapter title names "The Fool."
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Mendicant
+  assigned_to:
+  - fig:4
+  basis: The chapter title glosses Bhikshu as "Mendicant."
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: Arhat designation
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Both chapter titles include the parenthetical designation "Arhat."
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: Brahmana designation
+  assigned_to:
+  - fig:5
+  basis: The chapter title names "The Brahmana."
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: Venerable designation
+  assigned_to:
+  - fig:6
+  basis: The chapter title names "The Venerable."
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Flowers
+  literal_form: The chapter title "Flowers."
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Elephant
+  literal_form: The chapter title "The Elephant."
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Wisdom and folly contrast
+  taxonomy_refs:
+  - wisdom
+  basis: The contents list includes adjacent chapter topics "The Fool" and "The Wise
+    Man (Pandita)," establishing contrasting person-type headings at the title level.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is a table of contents only; it does not narrate an encounter,
+    transformation, or teaching episode.
+- id: motif:2
+  label: Paired or twin structure
+  taxonomy_refs:
+  - duality
+  basis: Chapter 1 is titled "The Twin Verses," indicating a paired structure at the
+    heading level.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives only the title and does not describe the nature of the
+    pairing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 64-68
+  quote_or_summary: '"THE DHAMMAPADA"; "A Collection of Verses Being One of the Canonical
+    Books of the Buddhists"; "Translated from Pali by F. Max Muller."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: quote
+  locator: '78'
+  quote_or_summary: '"[Note: The introduction, notes and index have been omitted.]"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: summary
+  locator: 80-107
+  quote_or_summary: The contents section lists Chapter 1 through Chapter 26, ending
+    with Chapter 26, "The Brahmana (Arhat)."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain; full text allowed.
+- id: ev:4
+  type: quote
+  locator: 82-85
+  quote_or_summary: '"Chapter 1: The Twin Verses"; "Chapter 2: On Earnestness"; "Chapter
+    3: Thought"; "Chapter 4: Flowers."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain; full text allowed.
+- id: ev:5
+  type: quote
+  locator: 86-89
+  quote_or_summary: '"Chapter 5: The Fool"; "Chapter 6: The Wise Man (Pandita)"; "Chapter
+    7: The Venerable (Arhat)"; "Chapter 8: The Thousands."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain; full text allowed.
+- id: ev:6
+  type: quote
+  locator: 95-101
+  quote_or_summary: '"Chapter 14: The Buddha (the Awakened)"; "Chapter 17: Anger";
+    "Chapter 18: Impurity"; "Chapter 20: The Way."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain; full text allowed.
+- id: ev:7
+  type: quote
+  locator: 104-107
+  quote_or_summary: '"Chapter 23: The Elephant"; "Chapter 24: Thirst"; "Chapter 25:
+    The Bhikshu (Mendicant)"; "Chapter 26 The Brahmana (Arhat)."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is front matter
+    and a contents list. Motif candidates are weak because they derive only from chapter
+    titles, not from narrative content. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The passage is not a narrative excerpt; figures, symbols, and motifs are extracted only from chapter headings and should be treated as provisional.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:buddhist-dhammapada-max-muller-gutenberg__l62-l110
+  passage_sha256=14cbc8cc0b21f7880ab31ebf624a9966a43d5a2ff01da9d824c95bbdf162c0c9
+

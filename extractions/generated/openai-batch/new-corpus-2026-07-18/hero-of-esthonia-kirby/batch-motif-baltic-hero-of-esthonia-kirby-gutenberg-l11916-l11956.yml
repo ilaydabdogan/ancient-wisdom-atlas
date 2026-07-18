@@ -1,0 +1,475 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l11916-l11956
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: THE COMPASSIONATE WOODCUTTER. / THE WONDERFUL HAYCOCK. / THE MAGIC EGG. /
+    EMMU LAKE AND VIRTS LAKE.; lines 11916-11956
+  start: '11916'
+  end: '11956'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts how Vanaisa created Emmu Lake for human refreshment,
+    withdrew its water because of human wickedness, later restored water through springs,
+    and how the Blue Spring near Villina hill is ritually opened or closed to affect
+    rain and drought. It also describes failed attempts to measure the Blue Spring,
+    ending with a bleeding human head and a warning voice from below.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Soon after Creation, Vanaisa formed Emmu Lake to supply people with refreshing
+    water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Because of human wickedness, Vanaisa caused the lake water to be absorbed
+    by a waterspout, leaving only dirty, unrefreshing rain-water or melted snow in
+    the old lake, then called Virts Lake.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After people had somewhat improved, Vanaisa took pity on them and made narrow
+    channels in the earth so that waters of the old Emmu Lake could flow as springs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A cold stone is put into the springs in spring and replaced by a warm stone
+    in autumn to moderate the springs' temperature.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Blue Spring rises in a swamp at the foot of Villina hill near the church
+    of Lais and is named for its colour.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Blue Spring is said to be able to produce rain or drought and thereby
+    cause dearth or plenty.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In drought, three widows of the same name must go to the spring on a Sunday
+    during service-time, carrying specified tools, bread, and a hymn-book, to clean
+    and enlarge the opening.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: If too much rain falls, the spring must be closed to a mere crevice, which
+    is said to work at once.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Three widows named Anna once opened the spring too wide, and a dreadful rain
+    spread over the country.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Women who failed to finish cleaning the spring during church-time sometimes
+    found the work fruitless.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: People tried to find the spring's depth by lowering a stone on a cord, but
+    the cord came back without the stone.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: When a kettle filled with stones was lowered, a bleeding human head was drawn
+    up instead, and a voice from the depths warned that another attempt would make
+    all sink.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vanaisa
+  description: A named being who forms Emmu Lake, withdraws its water, and later restores
+    its water through springs.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: men / people
+  description: The human community for whom Emmu Lake was made, whose wickedness leads
+    to loss of the lake water and whose later improvement leads to pity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: three widows of the same name
+  description: Ritual actors required to clean and enlarge the Blue Spring during
+    drought; a later example names three widows called Anna.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: women cleaning the spring
+  description: Women whose unfinished work during church-time is said to be fruitless.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: people attempting to measure the Blue Spring
+  description: People who lower objects into the spring to find its depth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: voice from the depths
+  description: An unseen speaker from the depths of the Blue Spring that warns against
+    another attempt to measure it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: creator of lake and springs
+  assigned_to:
+  - fig:1
+  basis: Vanaisa forms Emmu Lake and later forms channels through which its waters
+    flow as springs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: controller of water withdrawal and restoration
+  assigned_to:
+  - fig:1
+  basis: Vanaisa causes the lake water to be absorbed and later takes pity and restores
+    water by springs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: human recipients and moral cause of water loss
+  assigned_to:
+  - fig:2
+  basis: The lake is intended for people, but their wickedness leads to loss of water;
+    their improvement precedes restoration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: ritual spring-workers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Widows or women clean, enlarge, or work at the spring under specified ritual
+    conditions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: depth investigators
+  assigned_to:
+  - fig:5
+  basis: People lower a stone and then a kettle of stones into the Blue Spring to
+    find its depth.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: supernatural warning speaker
+  assigned_to:
+  - fig:6
+  basis: A voice from the depths warns that another attempt will make all sink.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Emmu Lake / Virts Lake
+  literal_form: A lake first created as Emmu Lake for refreshing water, later left
+    dirty and called Virts Lake.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: waterspout absorbing lake water
+  literal_form: A waterspout by which all water of Emmu Lake is absorbed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: underground spring channels
+  literal_form: Narrow channels in the earth through which waters of the old Emmu
+    Lake flow as springs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: seasonal stones in springs
+  literal_form: A cold stone placed in spring and a warm stone replacing it in autumn.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Blue Spring
+  literal_form: A blue-coloured spring in a swamp near Villina hill and Lais, said
+    to produce rain or drought.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: ritual tools and devotional items
+  literal_form: Spade, hoe, rake, cake of bread, and hymn-book taken by each widow
+    to the spring.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: spring opening or crevice
+  literal_form: The opening of the spring, enlarged in drought and closed to a crevice
+    in excessive rain.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: bleeding human head from the spring
+  literal_form: A bleeding human head drawn up after a kettle filled with stones is
+    lowered into the spring.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: unknown depth of the Blue Spring
+  literal_form: The unmeasured depth of the Blue Spring, guarded by a warning voice.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Creation, loss, and partial restoration of Emmu Lake
+  summary: Vanaisa creates Emmu Lake for refreshing water, removes its water because
+    of human wickedness, and later restores its waters through springs after human
+    improvement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seasonal moderation of spring water
+  summary: Cold and warm stones are placed in the springs in different seasons to
+    keep them from becoming too warm or too cold.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ritual regulation of the Blue Spring
+  summary: The Blue Spring is said to affect rain and drought; three widows must enlarge
+    it during drought, while the spring must be narrowed during excessive rain.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Spring opened too wide
+  summary: Three widows named Anna open the Blue Spring too widely, after which dreadful
+    rain spreads over the country; unfinished church-time work is ineffective.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Attempt to measure the Blue Spring
+  summary: People try to measure the Blue Spring with a stone and then with a kettle
+    of stones; instead of the kettle they retrieve a bleeding human head and hear
+    a warning from the depths.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine withdrawal and restoration of life-giving water
+  taxonomy_refs:
+  - divine_judgment
+  basis: Vanaisa removes Emmu Lake's water because of human wickedness and later restores
+    its water through springs after people improve.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents causation by Vanaisa but does not describe a formal
+    judgment scene.
+- id: motif:2
+  label: Sacred spring controls rain and drought
+  taxonomy_refs: []
+  basis: The Blue Spring is said to produce rain or drought and to be ritually enlarged
+    or narrowed to affect weather.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available motif-family taxonomy item precisely names weather-controlling
+    springs.
+- id: motif:3
+  label: Specified ritual actors, timing, and implements for water rite
+  taxonomy_refs: []
+  basis: During drought, three widows of the same name must go during Sunday service-time
+    with tools, bread, and a hymn-book to clean and enlarge the spring.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the symbolic meaning of the number, widowhood,
+    names, or items.
+- id: motif:4
+  label: Dangerous attempt to know the depth of a supernatural spring
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: People try to measure the spring's depth, lose the first weight, draw up
+    a bleeding human head, and are warned by a voice not to attempt again.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a warning against further attempts, but does not explicitly
+    frame the depth as forbidden knowledge before the attempts.
+- id: motif:5
+  label: Ominous substitution from watery depths
+  taxonomy_refs: []
+  basis: A kettle filled with stones is lowered into the spring, but a bleeding human
+    head is drawn up instead.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the head or explain its origin.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11916-11925
+  quote_or_summary: Vanaisa forms Emmu Lake after Creation to furnish refreshing water;
+    because of human wickedness he causes its water to be absorbed by a waterspout,
+    leaving dirty water in what is called Virts Lake.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 11925-11931
+  quote_or_summary: Vanaisa takes pity after people improve, creates earth channels
+    for old Emmu Lake waters to flow as springs, and seasonal cold or warm stones
+    are placed in the springs to moderate temperature.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 11935-11945
+  quote_or_summary: The Blue Spring at the foot of Villina hill near Lais is said
+    to cause rain or drought; in drought three widows of the same name must clean
+    and enlarge it during Sunday service-time with specified items, while excessive
+    rain is addressed by closing the spring to a crevice.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 11947-11951
+  quote_or_summary: Three widows named Anna open the spring too wide and dreadful
+    rain spreads; women who do not finish cleaning the spring during church-time find
+    the work fruitless.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 11951-11956
+  quote_or_summary: People try to measure the Blue Spring by lowering a stone and
+    then a kettle of stones; the stone is lost, a bleeding human head is drawn up,
+    and a voice from the depths warns that another attempt will make all sink, leaving
+    the depth unknown.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal entities and events are explicit in the supplied passage. Motif taxonomy
+    alignment is cautious because the available taxonomy lacks exact entries for weather-controlling
+    springs and depth-sounding taboos.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The supplied passage includes two adjacent legend sections, 'Emmu Lake and Virts Lake' and 'The Blue Spring'; extraction treats them as one passage-level record because they share the provided line range.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l11916-l11956
+  passage_sha256=6bfae12c8733c1cf1cf9c29da042b7fbf0cb4dfd25927577ba36dc3106b9e46c
+

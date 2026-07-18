@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l5334-l5427
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: THE AUTOBIOGRAPHY OF TEHUTI, THE ERPA / CHAPTER X / TALES OF TRAVEL AND ADVENTURE
+    / THE STORY OF SANEHAT; lines 5334-5427
+  start: '5334'
+  end: '5427'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the Story of Sanehat and narrates Sanehat's account
+    of a king's death and heavenly ascent, palace mourning, secret messages to the
+    royal son Usertsen, Sanehat's frightened flight from the palace, covert travel
+    through borderlands and desert, a near-fatal thirst ordeal, rescue by a desert
+    caravan with water and warmed milk, and his later reception by Ammuiansha of Upper
+    Thennu, to whom he gives a deceptive account of his arrival.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sanehat identifies himself as a member of the royal bodyguard and servant
+    connected with the royal household.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king is described as drawing near to his horizon, ascending into heaven,
+    being invited to the Disk, and causing public mourning at the King's House.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Before the king's death, an army had been sent to the Land of the Themehu
+    under the command of the king's eldest son Usertsen, who was returning with captives
+    and animals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: High officers send messengers to the royal son in the western country and
+    advise him to return secretly with his bodyguard without letting the army know.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sanehat hears the speaking voice, becomes afraid and physically shaken, and
+    flees while seeking a hidden route away from the Palace.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sanehat travels through named places, crosses a river in a rudderless boat
+    with the help of the west wind, passes by the Red Mountain, and reaches a frontier
+    fortress.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sanehat hides in scrub during the day to avoid watchmen and marches again
+    at night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At the Lake of Kamur, Sanehat is overwhelmed by thirst, suffers intensely,
+    and says that this is the taste of death.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Desert Satiu see Sanehat; a caravan master who had been in Egypt recognizes
+    him, gives him water, warms milk for him, and lets him travel with the caravan
+    in safety.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Ammuiansha, Shekh of Upper Thennu, receives Sanehat, says he will hear the
+    language of Egypt, and asks whether the king's departure from the Palace to the
+    horizon caused his arrival.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Sanehat replies to Ammuiansha with words of deceit and says that he does not
+    know how he came into the country, perhaps by the Providence of God.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sanehat
+  description: Royal bodyguard member and narrator who flees from the Palace and travels
+    through foreign lands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Sehetepabra
+  description: King of the South and North, identified in the passage's footnote as
+    Amenemhat II; his death is described as ascent to heaven and invitation to the
+    Disk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Usertsen
+  description: Eldest son of the king, called a beautiful god, commander of the army
+    sent to the Land of the Themehu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: High officers of the Palace and their messengers
+  description: Officials and messengers who communicate the king's death to the royal
+    son and urge secrecy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Watchmen of the fortress
+  description: Watchmen on the top of the fortress at Anebuheq, whom Sanehat avoids
+    by crouching in scrub during the day.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Master of the caravan
+  description: A desert caravan leader who had been in Egypt, recognizes Sanehat,
+    gives him water, warms milk for him, and lets him travel with the caravan.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Satiu of the desert
+  description: Desert people who see Sanehat shortly before the caravan master recognizes
+    him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Ammuiansha
+  description: Shekh of Upper Thennu who takes Sanehat aside, speaks to him, and questions
+    him about his arrival.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: fugitive narrator and royal servant
+  assigned_to:
+  - fig:1
+  basis: Sanehat names himself as a royal bodyguard member and then narrates his flight
+    and travel.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deceased and heavenly ascending king
+  assigned_to:
+  - fig:2
+  basis: The king's death is expressed as approaching the horizon, ascending into
+    heaven, and being invited to the Disk.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: royal son and military commander
+  assigned_to:
+  - fig:3
+  basis: Usertsen is described as the eldest son commanding the army returning from
+    the Land of the Themehu.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: secret royal communicators
+  assigned_to:
+  - fig:4
+  basis: They send messages to the royal son and instruct secrecy about the king's
+    death.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: frontier watchers
+  assigned_to:
+  - fig:5
+  basis: Sanehat hides from the watchmen on the fortress.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: desert rescuer and caravan host
+  assigned_to:
+  - fig:6
+  basis: The caravan master recognizes Sanehat and provides water, warmed milk, and
+    safe travel with the caravan.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: desert witnesses
+  assigned_to:
+  - fig:7
+  basis: The Satiu of the desert see Sanehat during his thirst ordeal.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: foreign host and questioner
+  assigned_to:
+  - fig:8
+  basis: Ammuiansha takes Sanehat aside, promises Egyptian speech, and questions why
+    he came.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: horizon and Disk
+  literal_form: The king's approach to the horizon, ascent into heaven, and invitation
+    to the Disk.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: closed Great Gates
+  literal_form: The two Great Gates are shut fast during palace mourning.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rudderless boat
+  literal_form: An usekht boat without a rudder, moved by the west wind across the
+    river.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Red Mountain
+  literal_form: The pass of the goddess Herit, Lady of the Red Mountain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: water
+  literal_form: Water given to Sanehat by the caravan master during his thirst ordeal.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: warmed milk
+  literal_form: Milk warmed for Sanehat by the caravan master after he is found in
+    the desert.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: scrub hiding-place
+  literal_form: Thickets and scrub used by Sanehat to avoid being seen during his
+    flight.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Royal death and mourning
+  summary: Sanehat presents his court identity and describes the king's death as a
+    heavenly ascent, followed by silence, bowed hearts, shut gates, motionless officials,
+    and mourning people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Secret message to the royal son
+  summary: While Usertsen is returning from a campaign, palace officials send messengers
+    to tell him what happened in the royal abode and to urge a quiet return with his
+    bodyguard.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sanehat's panic and flight
+  summary: After hearing the voice speaking, Sanehat becomes frightened, flees, seeks
+    concealment in thickets, and avoids the Palace because he fears violence there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Covert border travel
+  summary: Sanehat crosses the river in a rudderless boat, travels through named passes
+    and border areas, and hides by day from fortress watchmen before marching at night.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Desert thirst and rescue
+  summary: At the Lake of Kamur Sanehat nearly dies of thirst, then is seen by desert
+    people and aided by a caravan master who gives him water and warmed milk and lets
+    him travel safely.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Reception by Ammuiansha
+  summary: After reaching Qetem, Sanehat is taken aside by Ammuiansha, who questions
+    whether the king's departure caused his arrival; Sanehat answers deceptively and
+    mentions possible divine providence.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Crisis-triggered departure and exile
+  taxonomy_refs:
+  - departure
+  basis: The king's death and secret communications are followed by Sanehat's panic,
+    flight from the Palace, concealed travel, and residence in foreign regions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives a narrative flight and foreign sojourn; it does not
+    yet narrate a completed return.
+- id: motif:2
+  label: Royal ascent after death
+  taxonomy_refs:
+  - ascent
+  basis: 'The king''s death is expressed through ascent imagery: he draws near to
+    the horizon, ascends into heaven, is invited to the Disk, and mingles with his
+    maker.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage applies the imagery specifically to the king's death and divinized
+    status; no broader afterlife itinerary is described here.
+- id: motif:3
+  label: Hidden passage through border danger
+  taxonomy_refs: []
+  basis: Sanehat uses thickets, nighttime movement, a rudderless river crossing, and
+    scrub concealment to avoid visibility at the frontier fortress.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches the literal border-evasion
+    pattern.
+- id: motif:4
+  label: Desert ordeal relieved by life-giving drink
+  taxonomy_refs: []
+  basis: Sanehat suffers extreme thirst and calls it the taste of death, then receives
+    water and warmed milk from the caravan master and continues safely.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents the rescue materially through caravan aid; it does
+    not explicitly describe ritual rebirth.
+- id: motif:5
+  label: Foreign host recognizes and questions the exile
+  taxonomy_refs: []
+  basis: Ammuiansha knows Sanehat's character through Egyptian testimony, offers the
+    comfort of hearing Egyptian speech, and questions the cause of his arrival.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a narrative hospitality and interrogation pattern; no explicit
+    mythological taxonomy label is provided.
+- id: motif:6
+  label: Royal transition under secrecy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The royal son's return is arranged by private messengers after the king's
+    death, and the army is not to be informed openly.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage implies controlled succession circumstances but does not narrate
+    coronation or formal legitimation within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5348-5367 within supplied range 5334-5427
+  quote_or_summary: Sanehat identifies himself as royal bodyguard and servant; the
+    king Sehetepabra is described as approaching the horizon, ascending into heaven,
+    being invited to the Disk, and the royal house mourns with shut gates and bowed
+    hearts.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation minimized by summary.
+- id: ev:2
+  type: summary
+  locator: lines 5368-5382 within supplied range 5334-5427
+  quote_or_summary: An army under the eldest son Usertsen returns from the Land of
+    the Themehu; palace officers send messengers to inform him and tell him to return
+    with his bodyguard without the army generally knowing.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation minimized by summary.
+- id: ev:3
+  type: summary
+  locator: lines 5383-5393 within supplied range 5334-5427
+  quote_or_summary: Sanehat hears the voice speaking, is overcome by fear and trembling,
+    flees, seeks a hiding place in thickets, and avoids appearing in the Palace because
+    he fears violence there.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation minimized by summary.
+- id: ev:4
+  type: summary
+  locator: lines 5394-5406 within supplied range 5334-5427
+  quote_or_summary: Sanehat travels through named places, crosses the river in an
+    usekht boat without a rudder by the west wind, passes the goddess Herit of the
+    Red Mountain, reaches Anebuheq fortress, and hides from watchmen by day before
+    marching at night.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation minimized by summary.
+- id: ev:5
+  type: summary
+  locator: lines 5407-5417 within supplied range 5334-5427
+  quote_or_summary: At the Lake of Kamur, Sanehat suffers overwhelming thirst and
+    calls it the taste of death; desert Satiu see him, a caravan master recognizes
+    him, gives him water, warms milk, and he travels safely with the caravan.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation minimized by summary.
+- id: ev:6
+  type: summary
+  locator: lines 5418-5427 within supplied range 5334-5427
+  quote_or_summary: Ammuiansha, Shekh of Upper Thennu, takes Sanehat aside, says he
+    will hear the language of Egypt, asks whether the king's departure to the horizon
+    caused his arrival, and Sanehat replies deceitfully while mentioning possible
+    Providence of God.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; quotation minimized by summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate-level and require human review, especially where taxonomy mapping
+    is interpretive. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage and metadata. Available taxonomy refs applied only where directly supported by literal passage details.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l5334-l5427
+  passage_sha256=006f69209776787daa4ec037ab514aef4e04e01aa8027988a81612877a8591e2
+

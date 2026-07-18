@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.hindu-upanishads-paramananda-gutenberg-l1705-l1722
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+passage_locator:
+  label: XVIII / XXIII / Part Third / Part Fourth; lines 1705-1722
+  start: '1705'
+  end: '1722'
+  translation: The Upanishads
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A teacher explains the effulgent and unchanging nature of the Soul after
+    death. Verse XIV compares divided perception to rainwater running from a mountain
+    top over rocks in many directions. Verse XV compares the Self of an illumined
+    Knower becoming one with the Supreme to pure water poured into pure water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The teacher defines the Soul as effulgent, with light pure like a flame without
+    smoke.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The teacher answers Nachiketas' question about what happens after death by
+    saying that no real change takes place because the Soul is ever the same.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rain water falling on a mountain top runs down over rocks on all sides.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A person who sees difference between visible forms runs after them in various
+    directions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pure water poured into pure water becomes one.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Self of an illumined Knower becomes one with the Supreme.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: teacher
+  description: The teacher defines the nature of the Soul and answers Nachiketas'
+    question about death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Soul
+  description: Described as effulgent, pure like a flame without smoke, ever the same,
+    and undergoing no real change after death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Nachiketas / Gautama
+  description: The questioner addressed as Gautama and identified in the prose note
+    as Nachiketas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: one who sees difference
+  description: A generalized person who sees difference between visible forms and
+    runs after them in various directions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: illumined Knower
+  description: A Knower whose Self becomes one with the Supreme.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Supreme
+  description: The Supreme with which the Self of an illumined Knower becomes one.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: teacher-expositor
+  assigned_to:
+  - fig:1
+  basis: The prose note says the teacher defines the Soul and answers a question.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioner about death
+  assigned_to:
+  - fig:3
+  basis: The prose note says Nachiketas asked what happens after death.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: unchanging effulgent soul
+  assigned_to:
+  - fig:2
+  basis: The Soul is described as pure like a smokeless flame and ever the same after
+    death.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: differentiating perceiver
+  assigned_to:
+  - fig:4
+  basis: Verse XIV describes one who sees difference between visible forms and pursues
+    them in many directions.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: illumined knower
+  assigned_to:
+  - fig:5
+  basis: Verse XV names the illumined Knower in relation to the Self becoming one
+    with the Supreme.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: object of Self-union
+  assigned_to:
+  - fig:6
+  basis: Verse XV says the Self of an illumined Knower becomes one with the Supreme.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: smokeless flame
+  literal_form: a flame without smoke
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rain water descending from mountain
+  literal_form: rain water falling on the mountain top and running down over rocks
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pure water becoming one
+  literal_form: pure water poured into pure water
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Teaching on the Soul after death
+  summary: The teacher describes the Soul as pure like a smokeless flame and says
+    it undergoes no real change after death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rainwater and divided perception
+  summary: Rainwater running from a mountain top over rocks is used as a comparison
+    for one who sees differences among visible forms and pursues them in many directions.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pure water and Self-Supreme union
+  summary: Pure water poured into pure water becoming one is used as a comparison
+    for the Self of an illumined Knower becoming one with the Supreme.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Self becoming one with the Supreme
+  taxonomy_refs:
+  - annihilation_union
+  basis: Verse XV directly compares pure water becoming one with pure water to the
+    Self of an illumined Knower becoming one with the Supreme.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames union positively as oneness; it does not describe destruction
+    or bodily annihilation.
+- id: motif:2
+  label: unchanging Soul after death
+  taxonomy_refs: []
+  basis: The prose note says the teacher answers the question of what happens after
+    death by declaring that no real change takes place because the Soul is ever the
+    same.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe an afterlife journey, destination, judgment,
+    or map.
+- id: motif:3
+  label: illumined knowledge of non-difference
+  taxonomy_refs:
+  - wisdom
+  basis: Verse XIV contrasts seeing difference and running after visible forms with
+    Verse XV's statement that the Self of an illumined Knower becomes one with the
+    Supreme.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage implies a contrast between divided perception and illumined
+    oneness, but it does not narrate how wisdom is acquired.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1705-1708
+  quote_or_summary: The teacher defines the Soul's effulgent nature as pure like a
+    flame without smoke and says that after death no real change occurs because the
+    Soul is ever the same.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: XIV; lines 1712-1716
+  quote_or_summary: Rain water falling on a mountain top runs down over rocks on all
+    sides; similarly, one who sees difference between visible forms runs after them
+    in various directions.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: XV; lines 1720-1722
+  quote_or_summary: '"as pure water poured into pure water becomes one"; likewise
+    the Self of an illumined Knower becomes one with the Supreme.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif mapping is strongest for Self-Supreme
+    union and unchanging Soul after death; the wisdom mapping is broader and therefore
+    medium confidence. No cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-upanishads-paramananda-gutenberg__l1705-l1722
+  passage_sha256=b6f4541d88dcb195ba7fec999c1b001bbb3abf1b65e52dafb0092920741c6bd9
+

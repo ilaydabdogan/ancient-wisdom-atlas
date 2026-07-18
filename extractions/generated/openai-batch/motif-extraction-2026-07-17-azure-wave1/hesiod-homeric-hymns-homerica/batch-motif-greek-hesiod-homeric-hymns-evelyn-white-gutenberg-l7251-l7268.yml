@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l7251-l7268
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: XX. TO HEPHAESTUS / XXI. TO APOLLO / XXII. TO POSEIDON / XXIII. TO THE SON
+    OF CRONOS, MOST HIGH; lines 7251-7268
+  start: '7251'
+  end: '7268'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains two short hymnic invocations. Poseidon is praised
+    as a great god connected with the earth, sea, deep, Helicon, Aegae, horses, and
+    ships, and is asked to help voyagers. Zeus is praised as the chief, greatest,
+    all-seeing lord and fulfiller, who whispers words of wisdom to Themis, and is
+    asked to be gracious.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker begins to sing about Poseidon and calls him a great god.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Poseidon is described as mover or holder of the earth and as connected with
+    the sea and the deep.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Poseidon is called lord of Helicon and wide Aegae.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'The gods allotted Poseidon a two-fold office: to be a tamer of horses and
+    a saviour of ships.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The speaker hails Poseidon and asks him to be kindly in heart and help those
+    who voyage in ships.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker says he will sing of Zeus, described as chiefest among the gods,
+    greatest, all-seeing, lord of all, and fulfiller.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Zeus whispers words of wisdom to Themis while Themis sits leaning toward him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Zeus is addressed as the all-seeing Son of Cronos and is asked to be gracious.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Poseidon
+  description: A great god described as mover and holder of the earth, god of the
+    deep, lord of Helicon and wide Aegae, tamer of horses, and saviour of ships.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Zeus / Son of Cronos
+  description: Chiefest and greatest among the gods, all-seeing, lord of all, fulfiller,
+    and speaker of wisdom to Themis.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Themis
+  description: A divine figure who sits leaning toward Zeus while he whispers words
+    of wisdom to her.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Cronos
+  description: Named through the epithet identifying Zeus as the Son of Cronos.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: earth-and-sea deity
+  assigned_to:
+  - fig:1
+  basis: Poseidon is called mover or holder of the earth and god of the deep, with
+    reference to the sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: holder of allotted two-fold office
+  assigned_to:
+  - fig:1
+  basis: The passage says the gods allotted Poseidon the offices of tamer of horses
+    and saviour of ships.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: requested helper of voyagers
+  assigned_to:
+  - fig:1
+  basis: The hymn asks Poseidon to be kindly and help those who voyage in ships.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: supreme all-seeing divine ruler
+  assigned_to:
+  - fig:2
+  basis: Zeus is described as chiefest among the gods, greatest, all-seeing, lord
+    of all, and fulfiller.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: speaker of wisdom
+  assigned_to:
+  - fig:2
+  basis: Zeus whispers words of wisdom to Themis.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of request for grace
+  assigned_to:
+  - fig:2
+  basis: The hymn asks Zeus to be gracious.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: recipient of whispered wisdom
+  assigned_to:
+  - fig:3
+  basis: Themis sits leaning toward Zeus as he whispers words of wisdom to her.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: named parental referent
+  assigned_to:
+  - fig:4
+  basis: Zeus is addressed as the Son of Cronos.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sea and deep
+  literal_form: fruitless sea; deep; voyage in ships
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: horses
+  literal_form: horses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ships and voyaging
+  literal_form: ships; those who voyage in ships
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: words of wisdom
+  literal_form: whispered words of wisdom
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: leaning posture
+  literal_form: Themis sits leaning toward Zeus
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Invocation to Poseidon
+  summary: The hymn praises Poseidon with titles and domains involving earth, sea,
+    the deep, Helicon, Aegae, horses, and ships, then asks him to aid voyagers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invocation to Zeus, Son of Cronos
+  summary: The hymn praises Zeus as supreme and all-seeing, describes him whispering
+    wisdom to Themis, and asks him to be gracious.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: earth-shaking and sea-associated god
+  taxonomy_refs: []
+  basis: Poseidon is described as mover or holder of the earth and as god of the deep,
+    with direct references to sea and ships.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an epithetic hymnic pattern rather than a developed narrative
+    episode.
+- id: motif:2
+  label: divine patronage of ships and voyagers
+  taxonomy_refs: []
+  basis: Poseidon is allotted the office of saviour of ships and is asked to help
+    those who voyage in ships.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a prayer and divine title, not a specific rescue narrative.
+- id: motif:3
+  label: supreme all-seeing divine ruler
+  taxonomy_refs: []
+  basis: Zeus is called chiefest among the gods, greatest, all-seeing, lord of all,
+    and fulfiller.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states divine attributes without narrating a judgment or ruling
+    action.
+- id: motif:4
+  label: divine transmission of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Zeus whispers words of wisdom to Themis as she leans toward him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The content of the wisdom is not given.
+- id: motif:5
+  label: divine parent-child epithet
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Zeus is identified by the epithet Son of Cronos.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The parent-child relationship appears only as an epithet; no interaction
+    between Zeus and Cronos is narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XXII. To Poseidon, ll. 1-5; source lines 7251-7256
+  quote_or_summary: Poseidon is praised as a great god, mover of the earth and sea,
+    god of the deep, lord of Helicon and Aegae, with a two-fold office as tamer of
+    horses and saviour of ships.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: XXII. To Poseidon, ll. 6-7; source lines 7258-7259
+  quote_or_summary: Poseidon is hailed as Holder of the Earth and dark-haired lord,
+    and is asked to be kindly and help those who voyage in ships.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: XXIII. To the Son of Cronos, Most High, ll. 1-3; source lines 7261-7265
+  quote_or_summary: Zeus is praised as chiefest, greatest, all-seeing, lord of all,
+    and fulfiller; he whispers words of wisdom to Themis as she sits leaning toward
+    him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: XXIII. To the Son of Cronos, Most High, l. 4; source lines 7267-7268
+  quote_or_summary: The hymn asks the all-seeing Son of Cronos, most excellent and
+    great, to be gracious.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The figures, attributes, and hymnic requests are explicit in the supplied
+    passage. Motif candidates are cautious because the passage is a set of brief hymnic
+    invocations rather than extended narrative. No cross-text comparison claims were
+    generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage text and metadata were used. The passage locator label mentions Hymns XX-XXIII, but the supplied passage text includes only Hymns XXII-XXIII.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l7251-l7268
+  passage_sha256=64aeb6a0709577e800938cc1b186325ee1a5e469c8d918b949d2dcc4a53344c5
+

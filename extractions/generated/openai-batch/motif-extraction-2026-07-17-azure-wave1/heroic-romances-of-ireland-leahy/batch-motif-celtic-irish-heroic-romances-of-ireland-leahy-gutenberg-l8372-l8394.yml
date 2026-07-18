@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l8372-l8394
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 124 / PAGE 126 / PAGE 127 / PAGE 128; lines 8372-8394
+  start: '8372'
+  end: '8394'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial note on O'Curry's rendering of a dialogue between
+    Ferdia and his servant, followed by the last stanza of a poem in which an addressee
+    is said to have praised a man and in which those who praise the man in his sight
+    are described as not attacking him. A further note gives a line comparing motion
+    to a hawk darting up from a furrow, with a variant reading from O'Curry and the
+    Irish word claiss.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a dialogue between Ferdia and his servant and gives
+    corrections or alternatives to O'Curry's rendering of two lines.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poem's speaker addresses a 'thou' who is said not to be without rewards
+    because he has praised or extolled another male figure.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stanza says that people who extol the man when he is in their sight do
+    not come to attack him and are called cowardly churls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A later line is glossed as a comparison to a hawk darting up from a furrow,
+    with O'Curry's variant reading 'from the top of a cliff' and the Irish word given
+    as claiss.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ferdia
+  description: Named participant in the referenced dialogue with his servant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ferdia's servant
+  description: The servant named only by relationship to Ferdia in the referenced
+    dialogue.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: unnamed addressee of the poem
+  description: The person addressed as 'thou' and said to have praised or extolled
+    another figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed praised man
+  description: The male figure referred to as 'him' or 'the man' who is praised or
+    extolled and is not attacked by those extolling him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: dialogue participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note refers to a dialogue between Ferdia and his servant.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: servant
+  assigned_to:
+  - fig:2
+  basis: The figure is identified by the passage as Ferdia's servant.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressee who has praised another
+  assigned_to:
+  - fig:3
+  basis: The stanza addresses 'thou' and says this addressee has praised and extolled
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: praised man not attacked by extollers
+  assigned_to:
+  - fig:4
+  basis: The stanza says people extol the man when he is in their sight but do not
+    come to attack him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: hawk darting upward
+  literal_form: A hawk darting up from the furrow; O'Curry's variant gives the top
+    of a cliff.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: editorial note on Ferdia-servant dialogue
+  summary: The passage notes corrections or alternatives for lines in O'Curry's rendering
+    of a dialogue between Ferdia and his servant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: poetic rebuke of praise without attack
+  summary: The poem addresses someone who has praised a man, then says those who extol
+    that man in his sight do not attack him and are cowardly.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: hawk simile line note
+  summary: The passage gives a line comparing movement to a hawk darting up from a
+    furrow and records a variant reading involving a cliff.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: praise substituted for combat
+  taxonomy_refs: []
+  basis: The stanza contrasts people who extol the man in his presence with their
+    failure to come to attack him.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a short stanza fragment with limited narrative context;
+    no supplied taxonomy motif family is directly supported.
+- id: motif:2
+  label: hawk simile for sudden upward motion
+  taxonomy_refs: []
+  basis: The note preserves the image of a hawk darting up from a furrow, with a variant
+    cliff reading.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The surrounding action to which the simile applies is not included in
+    the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8372-8376
+  quote_or_summary: The note says O'Curry's rendering of the dialogue between Ferdia
+    and his servant should read 'a deed of prophecy' rather than 'a deferred deed'
+    in one line, and gives another line as 'With his proud sport.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt summarized with brief quoted phrases.
+- id: ev:2
+  type: summary
+  locator: lines 8378-8388
+  quote_or_summary: The last stanza says the addressee seems to have rewards because
+    he has praised 'him'; it asks why he has extolled him since leaving home and says
+    those who extol the man in his sight do not attack him but are cowardly churls.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8390-8394
+  quote_or_summary: Line 34 is given as 'As a hawk darts up from the furrow'; O'Curry
+    gives 'from the top of a cliff,' and the Irish word is stated to be claiss.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short excerpt quoted for identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is largely editorial
+    and fragmentary, so motif identification is cautious and comparison claims are
+    not made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif family or listed symbol taxonomy reference was assigned because the supplied passage does not directly support one.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l8372-l8394
+  passage_sha256=df0020510f17acf621a8dad5cf37890b3d1a994c1988025c6bde2cc1308dc966
+

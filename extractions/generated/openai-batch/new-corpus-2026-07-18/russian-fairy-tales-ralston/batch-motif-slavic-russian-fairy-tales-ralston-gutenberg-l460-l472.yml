@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l460-l472
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: XLV. THE COFFIN-LID                                            314 / XLVI.
+    THE TWO CORPSES                                           316 / XLVII. THE DOG
+    AND THE CORPSE                                    317 / XLVIII. THE SOLDIER AND
+    THE VAMPIRE                               318; lines 460-472
+  start: '460'
+  end: '472'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents segment lists tale numbers XLII through XLVIII with
+    titles and page numbers, including titles involving a gravestone, a shroud, a
+    coffin-lid, corpses, a dog, a soldier, and a vampire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents-style list of numbered tale titles with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The listed titles include death-associated objects or beings: a gravestone,
+    a shroud, a coffin-lid, corpses, and a vampire.'
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: One title pairs a dog with a corpse.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One title pairs a soldier with a vampire.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Two friends
+  description: Figures named only in the title “The Two Friends.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dog
+  description: Animal named only in the title “The Dog and the Corpse.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Corpse
+  description: Dead body named in titles including “The Two Corpses” and “The Dog
+    and the Corpse.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Soldier
+  description: Human figure named only in the title “The Soldier and the Vampire.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Vampire
+  description: Vampire figure named only in the title “The Soldier and the Vampire.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: title-named figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These figures or beings are named in the listed tale titles, but no narrative
+    actions are provided in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: gravestone
+  literal_form: gravestone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shroud
+  literal_form: shroud
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: coffin-lid
+  literal_form: coffin-lid
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: corpse
+  literal_form: corpse or corpses
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: vampire
+  literal_form: vampire
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Contents list of death-related tale titles
+  summary: The passage lists several adjacent tale titles, many of which name funerary
+    objects, corpses, or a vampire.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cluster of death, burial, corpse, and vampire tale headings
+  taxonomy_refs: []
+  basis: Adjacent contents entries name a gravestone, shroud, coffin-lid, corpses,
+    and a vampire, suggesting a local grouping of death- or burial-associated tale
+    material in the collection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage provides only titles and page numbers, not narrative content;
+    no specific plot motif can be confirmed from this excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 460-464
+  quote_or_summary: "“XLII. THE RIDE ON THE GRAVESTONE ... XLIII. THE TWO FRIENDS”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 466-468
+  quote_or_summary: "“XLIV. THE SHROUD ... XLV. THE COFFIN-LID”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 470-471
+  quote_or_summary: "“XLVI. THE TWO CORPSES ... XLVII. THE DOG AND THE CORPSE”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: line 472
+  quote_or_summary: "“XLVIII. THE SOLDIER AND THE VAMPIRE”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is based on a table-of-contents excerpt rather than a narrative
+    passage. The named objects and figures are clear, but motif identification is
+    limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were assigned because the available motif families and symbol refs do not directly match the title-only evidence without interpretation.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l460-l472
+  passage_sha256=fd77b998bf47087bd344e5fc943ffd86db746cf04f80b3b666ae825dba536bb9
+

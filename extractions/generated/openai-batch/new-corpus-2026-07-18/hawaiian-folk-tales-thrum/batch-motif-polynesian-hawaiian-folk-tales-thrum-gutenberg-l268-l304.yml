@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.polynesian-hawaiian-folk-tales-thrum-gutenberg-l268-l304
+source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+passage_locator:
+  label: T. G. T. / T. G. T. / CONTENTS / ILLUSTRATIONS; lines 268-304
+  start: '268'
+  end: '304'
+  translation: 'Hawaiian Folk Tales: A Collection of Native Legends'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an illustrations list naming images of Hawaiian people,
+    landscapes, cultural practices, a rain god, dwellings, feasting, fishing, surf,
+    and related page references.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed "ILLUSTRATIONS" and lists illustration captions with
+    page references or frontispiece placement.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The listed captions include Hawaiian people or roles: a girl of the old regime,
+    a Hawaiian arrayed in feather cloak and helmet, and a fisherman using a throw-net.'
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The listed captions include named or described Hawaiian places and landscapes,
+    including Wainiha Valley, Olokele Gulch, Koolau palis, Nuuanu Pali, Manoa Valley,
+    a lava cascade, and coast surf.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:4
+  text: The listed captions include hula as both a ceremony and a dance.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:5
+  text: One illustration caption names Kuumana as the Rain God of Kau.
+  category: attribute
+  evidence_refs:
+  - ev:10
+- id: obs:6
+  text: The listed captions include a grass house, preparation of a feast, surf-riding,
+    and fishing with a throw-net.
+  category: action
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hawaiian Girl of the Old Regime
+  description: A captioned illustration subject described as a Hawaiian girl of the
+    old regime.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Hawaiian arrayed in feather cloak and helmet
+  description: A captioned illustration subject described as a Hawaiian wearing a
+    feather cloak and helmet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Kuumana
+  description: Named in a caption as the Rain God of Kau.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+- id: fig:4
+  name_or_label: Hawaiian Fisherman
+  description: A captioned illustration subject described as a Hawaiian fisherman
+    using a throw-net.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: girl of the old regime
+  assigned_to:
+  - fig:1
+  basis: The caption identifies the subject as a Hawaiian girl of the old regime.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: person wearing feather cloak and helmet
+  assigned_to:
+  - fig:2
+  basis: The caption identifies a Hawaiian arrayed in feather cloak and helmet.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: rain god of Kau
+  assigned_to:
+  - fig:3
+  basis: The caption names Kuumana as the Rain God of Kau.
+  evidence_refs:
+  - ev:10
+- id: role:4
+  label: fisherman using throw-net
+  assigned_to:
+  - fig:4
+  basis: The caption identifies the subject as a Hawaiian fisherman using the throw-net.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: feather cloak and helmet
+  literal_form: Feather cloak and helmet
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hula ceremony and dance
+  literal_form: The Ceremony of the Hula; The Hula Dance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: rain god
+  literal_form: Kuumana, the Rain God of Kau
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:4
+  label: grass house
+  literal_form: A Grass House of the Olden Time
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:5
+  label: throw-net
+  literal_form: Throw-net used by a Hawaiian fisherman
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: surf
+  literal_form: The Favorite Sport of Surf-Riding; Coast Surf Scene
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+- id: sym:7
+  label: lava cascade
+  literal_form: A Lava Cascade
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Illustrations list
+  summary: The passage presents a list of illustration captions for the volume, including
+    people, landscapes, cultural practices, a deity caption, house, feast, fishing,
+    and surf scenes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 268-304
+  quote_or_summary: The passage is an illustrations section listing captions and page
+    references.
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 270-272
+  quote_or_summary: '"Hawaiian Girl of the Old Regime Frontispiece"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: line 286
+  quote_or_summary: '"Hawaiian Arrayed in Feather Cloak and Helmet 150"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: quote
+  locator: line 300
+  quote_or_summary: '"Hawaiian Fisherman Using the Throw-Net 246"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: quote
+  locator: lines 274-276
+  quote_or_summary: '"A Lava Cascade 40"; "View in Wainiha Valley, Kauai 66"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: quote
+  locator: lines 278-280
+  quote_or_summary: '"Scene in Olokele Gulch, Makaweli, Kauai 86"; "The Deep Blue
+    Palis of Koolau"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: quote
+  locator: lines 282-284
+  quote_or_summary: '"Scene from the Road over Nuuanu Pali 112"; "View at the Head
+    of Manoa Valley, Oahu 120"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:8
+  type: quote
+  locator: line 302
+  quote_or_summary: '"Coast Surf Scene 262"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:9
+  type: quote
+  locator: lines 288-290
+  quote_or_summary: '"The Ceremony of the Hula 158"; "The Hula Dance 162"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:10
+  type: quote
+  locator: line 292
+  quote_or_summary: '"Kuumana, the Rain God of Kau 196"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:11
+  type: quote
+  locator: lines 294-296
+  quote_or_summary: '"A Grass House of the Olden Time 210"; "Making Ready the Feast
+    228"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+- id: ev:12
+  type: quote
+  locator: lines 284 and 302
+  quote_or_summary: '"The Favorite Sport of Surf-Riding 130"; "Coast Surf Scene 262"'
+  source_text_path: texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is an illustration list rather than a narrative passage; literal
+    subjects are clear, but motif extraction is limited and no candidate narrative
+    motifs or comparison claims are supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were recorded because the supplied passage gives captions only and does not present narrative actions or comparative statements.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:polynesian-hawaiian-folk-tales-thrum-gutenberg__l268-l304
+  passage_sha256=0cb79c2c4ec38dceddd5a573f71f350ad5f37ee66bcf59ed1b830d9b00cab532
+

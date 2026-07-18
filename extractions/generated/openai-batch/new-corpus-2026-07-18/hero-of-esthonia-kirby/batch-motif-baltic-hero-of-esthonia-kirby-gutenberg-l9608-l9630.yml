@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.baltic-hero-of-esthonia-kirby-gutenberg-l9608-l9630
+source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+passage_locator:
+  label: CINDERELLA. / THE DRAGON-SLAYER. / THE ENVIOUS SISTERS. / THE GIFTED BROTHERS.;
+    lines 9608-9630
+  start: '9608'
+  end: '9630'
+  translation: The Hero of Esthonia and Other Studies in the Romantic Literature of
+    That Country
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Sharpeye arranges and completes a difficult shooting feat involving an
+    apple held by a distant man on a mountain. He declines an immediate betrothal
+    proposal, returns to his brothers, and the brothers cast lots for the princess.
+    The lot falls to Sharpeye, who marries her, while his brothers return home and
+    become wealthy. An editorial note mentions an unexplained reference to the brothers
+    as Swedes and compares the tale with the Swift-footed Princess story.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sharpeye goes to the palace, and the shooting feat is arranged for the following
+    morning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess declares that she would part with all she possessed to ensure
+    Sharpeye's success.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man holding the apple is positioned on a mountain and appears very small
+    from the shooting location.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The apple-holder holds the apple in his mouth rather than by the stalk because
+    he fears for his safety.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sharpeye strikes the apple in the middle and removes flesh from both cheeks
+    of the apple-holder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sharpeye declines the king's proposal to betroth him to the princess immediately.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sharpeye returns to his brothers, who rejoice in the success and cast lots
+    for the princess.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The lot falls to Sharpeye; he marries the princess, and his two brothers return
+    home, buy large estates, and live like princes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: An editorial note says the brothers are once called Swedes, with no reason
+    given.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: An editorial comparison identifies another similar story, the Swift-footed
+    Princess, where feats, including a race against a princess, are performed by gifted
+    servants in the train of a prince seeking marriage.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sharpeye
+  description: The marksman who undertakes the shooting feat, later receives the lot
+    for the princess, and marries her.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The princess
+  description: The king's daughter connected with the betrothal and marriage outcome;
+    she expresses support for Sharpeye's success.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The king
+  description: The ruler who proposes immediate betrothal of Sharpeye to his daughter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The apple-holder on the mountain
+  description: A man who holds the apple in his mouth during the shooting feat and
+    is grazed on both cheeks by Sharpeye's shot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Sharpeye's two brothers
+  description: Sharpeye's brothers who rejoice in the success, participate in casting
+    lots for the princess, and later return home wealthy.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: successful marksman
+  assigned_to:
+  - fig:1
+  basis: Sharpeye hits the apple precisely in the middle during the arranged shooting
+    feat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: winning suitor and husband
+  assigned_to:
+  - fig:1
+  basis: After the lot falls to him, Sharpeye marries the princess.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: royal marriage partner
+  assigned_to:
+  - fig:2
+  basis: The princess is the proposed bride and is later married by Sharpeye after
+    the lot falls to him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: royal proposer of betrothal
+  assigned_to:
+  - fig:3
+  basis: The king proposes that Sharpeye be betrothed to his daughter immediately.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: dangerous-target holder
+  assigned_to:
+  - fig:4
+  basis: The man holds the apple on the mountain and is injured when the apple is
+    struck.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: brothers dividing the reward by lot
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Sharpeye returns to his brothers; they rejoice and cast lots for the princess,
+    and the lot falls to Sharpeye.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: apple target
+  literal_form: An apple held in the mouth of a man on the mountain and struck in
+    the middle by Sharpeye.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mountain
+  literal_form: The mountain on which the apple-holder stands during the shooting
+    feat.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: arrow shot
+  literal_form: The arrow with which Sharpeye strikes the apple and grazes the holder's
+    cheeks.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lots
+  literal_form: Lots cast by the brothers to determine who receives the princess.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Arrangement of the shooting feat
+  summary: Sharpeye goes to the palace, the shooting feat is scheduled, and the princess
+    voices strong support for his success.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Apple shot on the mountain
+  summary: A distant man on a mountain holds an apple in his mouth for safety; Sharpeye
+    hits the apple in the middle and grazes both cheeks of the holder.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Betrothal declined and princess assigned by lot
+  summary: Sharpeye declines immediate betrothal, returns to his brothers, and joins
+    them in casting lots for the princess; the lot falls to Sharpeye, who marries
+    her, while the other brothers become wealthy landowners.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: difficult shooting feat for royal marriage
+  taxonomy_refs: []
+  basis: The passage connects Sharpeye's arranged shooting feat with the king's proposed
+    betrothal and the eventual marriage to the princess.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt gives only the final feat and outcome; broader tale context
+    is not included here.
+- id: motif:2
+  label: apple target held by a living person
+  taxonomy_refs: []
+  basis: The target is an apple held in a man's mouth; Sharpeye strikes the apple
+    while grazing the holder's cheeks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader symbolic meaning is stated in the passage.
+- id: motif:3
+  label: princess assigned by lot among successful brothers
+  taxonomy_refs: []
+  basis: After the success, the brothers cast lots for the princess; the lot falls
+    to Sharpeye, who marries her.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the rules or rationale for casting lots.
+- id: motif:4
+  label: gifted helper group gains a royal reward
+  taxonomy_refs: []
+  basis: 'Sharpeye and his brothers share in the success: Sharpeye marries the princess,
+    while the two brothers return home with wealth and estates.'
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This excerpt names Sharpeye's feat directly but does not detail the other
+    brothers' gifts.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies the Swift-footed Princess as a similar story
+    in which a prince seeks marriage to a princess through feats, including a race,
+    carried out by gifted servants; this is functionally comparable to the feat-based
+    royal marriage outcome in the Sharpeye passage.
+  claim_level: same_function
+  target: Swift-footed Princess (Kreutzwald)
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The comparison is based on a brief editorial note. The feat types
+    and actor arrangement differ: this passage centers on Sharpeye and his brothers,
+    while the compared story is summarized as involving gifted servants in a prince''s
+    train.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9608-9612
+  quote_or_summary: Sharpeye goes to the palace; the shooting feat is set for the
+    following morning; the princess says she would give all she possessed to secure
+    his success.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:2
+  type: summary
+  locator: 9612-9617
+  quote_or_summary: The apple-holder stands on a mountain, appears very small at a
+    distance, and holds the apple in his mouth rather than by the stalk because he
+    fears for his safety.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:3
+  type: summary
+  locator: 9618-9620
+  quote_or_summary: Sharpeye strikes the apple in the middle and carries away flesh
+    from both cheeks of the apple-holder.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:4
+  type: summary
+  locator: 9621-9623
+  quote_or_summary: Sharpeye declines the king's immediate proposal to betroth him
+    to the king's daughter and returns to his brothers.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:5
+  type: summary
+  locator: 9623-9627
+  quote_or_summary: The brothers rejoice, cast lots for the princess, and the lot
+    falls to Sharpeye; he marries the princess, and the other two brothers return
+    home, buy estates, and live like princes.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:6
+  type: summary
+  locator: 9628-9629
+  quote_or_summary: An editorial note says the brothers are once spoken of as Swedes,
+    without explanation.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+- id: ev:7
+  type: summary
+  locator: 9629-9630
+  quote_or_summary: An editorial note compares another similar story, the Swift-footed
+    Princess, where feats including a race against a princess are performed by gifted
+    servants in the train of the prince who seeks her in marriage.
+  source_text_path: texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md
+  rights_note: Public domain; source metadata indicates full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative details are explicit in the passage. Motif labels are descriptive
+    rather than linked to supplied motif-family taxonomy. The comparison claim is
+    supported by the passage's editorial note but remains broad.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Page markers and footnote markers in the supplied passage were not treated as narrative elements.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:baltic-hero-of-esthonia-kirby-gutenberg__l9608-l9630
+  passage_sha256=843e9e0e0cb29190afe488b57955c2b4ca36c8eb4665d576bc85f09674b29d20
+

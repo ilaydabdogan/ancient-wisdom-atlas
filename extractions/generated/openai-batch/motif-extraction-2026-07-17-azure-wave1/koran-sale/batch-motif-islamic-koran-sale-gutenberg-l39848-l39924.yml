@@ -1,0 +1,637 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39848-l39924
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / FINIS / AN INDEX / OF THE; lines
+    39848-39924
+  start: '39848'
+  end: '39924'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: An English index segment listing persons, places, doctrines, and narrative
+    topics under H and I, including punished angels, guarded heavens, hell and its
+    apartments, idolatry, infidels at the last day, Adam bringing iron utensils from
+    paradise, Isaac's promised birth, and episodes concerning the Israelites.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hart and Mart are identified as two angels with a story and punishment.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heavens are described as guarded by angels; the heavens and earth manifest
+    God's wisdom; the heavens will fall at the last day.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Hell is associated with torments, unbelievers, people who choose worldly pomp,
+    hoarders of money, exemption for believers, being dragged toward God's tribunal
+    at the last day, and being filled.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Al Hwiyat and Al Hotama are named as apartments in hell.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Idolaters are compared to brutes and to a spider; idolatry is described as
+    heinous and unpardonable if not repented of.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Idols are described as insignificant, as witnesses against their worshippers,
+    and as worshipped by the antediluvians.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Infidels are said to appear at the last day, drink boiling water, have some
+    notion of a future state, and be unconvinced by miracles if unconvinced by the
+    Koran.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Iron is described as useful, and some iron utensils are said to have been
+    brought by Adam down from paradise.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Isaac is listed as promised, with his birth also noted.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The Israelites are associated with Pharaoh killing their males, passage through
+    the Red Sea, miraculous feeding in the wilderness, worship of the golden calf,
+    punishment, a red cow sacrifice command, a demand to see God, refusal to enter
+    the Holy Land, desire for a king, and being cursed by David and Jesus.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Hart and Mart
+  description: Two angels whose story and punishment are indexed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Angels guarding the heavens
+  description: Angels are associated with guarding the heavens.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: God
+  description: God's wisdom is manifested by the heavens and earth; hell is dragged
+    toward God's tribunal at the last day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Unbelievers / infidels
+  description: Unbelievers are assigned a portion in hell; infidels appear at the
+    last day and drink boiling water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Believers
+  description: Believers are described as not being hurt by hell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Idols
+  description: Idols are called insignificant, are said to appear as witnesses against
+    their worshippers, and were worshipped by antediluvians.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Antediluvians
+  description: They are listed as worshippers of idols.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Adam
+  description: Adam is associated with bringing some iron utensils down from paradise.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Isaac
+  description: Isaac is listed as promised, and his birth is noted.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+- id: fig:10
+  name_or_label: Israelites
+  description: The Israelites are associated with oppression by Pharaoh, Red Sea passage,
+    wilderness feeding, golden calf worship, punishments, red cow sacrifice, demand
+    to see God, refusal of the Holy Land, desire for a king, and curse by David and
+    Jesus.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+- id: fig:11
+  name_or_label: Pharaoh
+  description: Pharaoh is listed as slaying Israelite males.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:10
+- id: fig:12
+  name_or_label: David and Jesus
+  description: David and Jesus are listed as cursing the Israelites.
+  role_refs:
+  - role:12
+  evidence_refs:
+  - ev:10
+- id: fig:13
+  name_or_label: Idolaters
+  description: Idolaters are compared to brutes and to a spider and are associated
+    with a sentence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: punished angels
+  assigned_to:
+  - fig:1
+  basis: The index identifies Hart and Mart as two angels and mentions their punishment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: celestial guardians
+  assigned_to:
+  - fig:2
+  basis: The heavens are said to be guarded by angels.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine judge and source of wisdom
+  assigned_to:
+  - fig:3
+  basis: The heavens and earth manifest God's wisdom, and hell is dragged toward God's
+    tribunal at the last day.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: condemned unbelieving group
+  assigned_to:
+  - fig:4
+  - fig:13
+  basis: Unbelievers and idolaters are associated with hell, the last day, boiling
+    water, and sentences.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: protected believers
+  assigned_to:
+  - fig:5
+  basis: Hell is said not to hurt believers.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: witnessing cult objects
+  assigned_to:
+  - fig:6
+  basis: Idols are said to appear as witnesses against their worshippers.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: primordial idol worshippers
+  assigned_to:
+  - fig:7
+  basis: The antediluvians are listed as worshippers of idols.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: paradise-to-earth object bearer
+  assigned_to:
+  - fig:8
+  basis: Adam is associated with bringing iron utensils down from paradise.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: promised child
+  assigned_to:
+  - fig:9
+  basis: Isaac is listed as promised and born.
+  evidence_refs:
+  - ev:9
+- id: role:10
+  label: tested and punished community
+  assigned_to:
+  - fig:10
+  basis: The Israelites are associated with commands, transgressions, worship of the
+    golden calf, and repeated punishments.
+  evidence_refs:
+  - ev:10
+- id: role:11
+  label: oppressor
+  assigned_to:
+  - fig:11
+  basis: Pharaoh is associated with slaying Israelite males.
+  evidence_refs:
+  - ev:10
+- id: role:12
+  label: curse pronouncers
+  assigned_to:
+  - fig:12
+  basis: David and Jesus are listed as cursing the Israelites.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Guarded heavens
+  literal_form: The heavens guarded by angels and destined to fall at the last day
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Hell and its apartments
+  literal_form: Hell, including named apartments Al Hwiyat and Al Hotama
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: God's tribunal
+  literal_form: A tribunal toward which hell is dragged at the last day
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Boiling water
+  literal_form: Boiling water drunk by infidels
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Witnessing idols
+  literal_form: Idols that appear as witnesses against worshippers
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Red Sea
+  literal_form: The Red Sea crossed by the Israelites
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: Golden calf
+  literal_form: The golden calf worshipped by the Israelites
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: Red cow
+  literal_form: A red cow commanded for sacrifice
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: Iron utensils from paradise
+  literal_form: Iron utensils brought by Adam down from paradise
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: Paradise
+  literal_form: Paradise as the place from which Adam brought iron utensils
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:11
+  label: Holy Land
+  literal_form: The Holy Land refused by the Israelites
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Punishment of Hart and Mart
+  summary: Two angels, Hart and Mart, are indexed with their story and punishment.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Last-day heaven and hell imagery
+  summary: The heavens are guarded by angels and will fall at the last day; hell is
+    linked to torments, named apartments, unbelievers, protection of believers, God's
+    tribunal, and being filled.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: Idols witness against worshippers
+  summary: Idols are described as insignificant but also as appearing as witnesses
+    against their worshippers; antediluvians are said to have worshipped idols.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:13
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Adam brings iron from paradise
+  summary: Iron is described as useful, and some iron utensils are said to have been
+    brought by Adam from paradise.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Promise and birth of Isaac
+  summary: Isaac is listed as promised, and his birth is noted.
+  figure_refs:
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Israelite deliverance, rebellion, and punishment
+  summary: The Israelites are linked with Pharaoh's violence, Red Sea passage, wilderness
+    feeding, longing for Egypt, golden calf worship, punishments, Jericho, red cow
+    sacrifice, demand to see God, refusal to enter the Holy Land, desire for a king,
+    and curse by David and Jesus.
+  figure_refs:
+  - fig:3
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:11
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment at the last day
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage indexes hell as the portion of unbelievers, infidels appearing
+    at the last day, hell dragged toward God's tribunal, and idols witnessing against
+    worshippers.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is an index summary and does not give the full narrative or
+    doctrinal context.
+- id: motif:2
+  label: Afterlife topography with punitive hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Hell has named apartments, torments, and differentiated relation to unbelievers
+    and believers; infidels drink boiling water and have a notion of a future state.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The evidence supports afterlife geography and punishment, but not an actual
+    journey through the afterlife.
+- id: motif:3
+  label: Cosmic collapse at the last day
+  taxonomy_refs: []
+  basis: The heavens are said to fall at the last day, and hell is moved toward God's
+    tribunal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No more detailed destruction sequence is present in this index excerpt.
+- id: motif:4
+  label: Divine wisdom manifested in the cosmos
+  taxonomy_refs:
+  - wisdom
+  basis: The heavens and earth are said to manifest God's wisdom.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states the motif in index form only.
+- id: motif:5
+  label: Commanded red cow sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The Israelites are listed as commanded to sacrifice a red cow.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The index excerpt does not provide the ritual details or narrative setting.
+- id: motif:6
+  label: Miraculous water crossing and wilderness provision
+  taxonomy_refs: []
+  basis: The Israelites are said to pass the Red Sea and be miraculously fed in the
+    wilderness.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No taxonomy motif family in the supplied list directly names the Red Sea
+    crossing.
+- id: motif:7
+  label: Promised birth of Isaac
+  taxonomy_refs:
+  - sacred_birth
+  basis: Isaac is listed as promised, and his birth is noted.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage does not state the promise-giver or miraculous details.
+- id: motif:8
+  label: Sacred object transfer from paradise
+  taxonomy_refs: []
+  basis: Some iron utensils are said to have been brought by Adam down from paradise.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage does not narrate how or why the utensils were brought.
+- id: motif:9
+  label: Idols as witnesses against worshippers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index says idols will appear as witnesses against their worshippers.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain the mechanism or courtroom setting beyond
+    the witness role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 39856
+  quote_or_summary: '"Hart and Mart, two angels, their story and punishment"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 39860, 39875
+  quote_or_summary: Al Hwiyat and Al Hotama are each identified as names of apartments
+    in hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 39862-39863
+  quote_or_summary: The heavens are associated with Mohammedan belief, guarded by
+    angels, manifest God's wisdom together with earth, and will fall at the last day.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 39865-39869
+  quote_or_summary: Hell torments are described; hell is the portion of unbelievers,
+    does not hurt believers, is dragged toward God's tribunal at the last day, and
+    is then filled.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 39882
+  quote_or_summary: '"Hypocrites described ... their sentence"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 39884-39888
+  quote_or_summary: Idolaters are compared to brutes and a spider; idolatry is heinous
+    and unpardonable if not repented of; idols are insignificant, witnesses against
+    worshippers, and worshipped by antediluvians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 39898-39903
+  quote_or_summary: Infidels appear at the last day, drink boiling water, are not
+    convinced by miracles if not convinced by the Koran, have some notion of a future
+    state, and are restricted from Mecca.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 39907-39909
+  quote_or_summary: Irem is listed as the city of Ad; iron is useful, and some iron
+    utensils were brought by Adam down from paradise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+- id: ev:9
+  type: quote
+  locator: line 39910
+  quote_or_summary: '"Isaac promised ... his birth"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; short excerpt.
+- id: ev:10
+  type: summary
+  locator: lines 39914-39922
+  quote_or_summary: The Israelites are linked with Pharaoh killing their males, Red
+    Sea passage, wilderness feeding, Egyptian herbs, golden calf worship, punishments,
+    Jericho, red cow sacrifice, demand to see God, refusal of the Holy Land, desire
+    for a king, and curse by David and Jesus.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain Project Gutenberg source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an index excerpt, so extraction is based on condensed topic
+    entries rather than full narrative passages. No external comparative claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims were left empty because the passage does not itself make a tradition-level comparison.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39848-l39924
+  passage_sha256=aa16488b0d1227454cfceb1c57bf20ac744434ee99aad7972e6d5c1ecab38b97
+

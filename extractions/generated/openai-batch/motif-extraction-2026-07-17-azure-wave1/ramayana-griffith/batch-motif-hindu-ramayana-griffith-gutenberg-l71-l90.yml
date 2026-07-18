@@ -1,0 +1,133 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l71-l90
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: The Ramayan of Valmiki / CONTENTS; lines 71-90
+  start: '71'
+  end: '90'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Title-page and contents-front matter for Ralph T. H. Griffith's English
+    verse translation of The Ramayan of Valmiki, listing translator credentials, publishers
+    in London and Benares, dates 1870-1874, and the heading CONTENTS.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents the title as The Ramayan of Valmiki.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The work is described as translated into English verse.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ralph T. H. Griffith, M.A. is named as the translator and as Principal of
+    the Benares College.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: London and Benares publication lines are given, with the dates 1870-1874.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage ends with the heading CONTENTS.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Valmiki
+  description: Named in the title phrase identifying the Ramayan as of Valmiki.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ralph T. H. Griffith
+  description: Named as translator into English verse and identified with the credential
+    M.A. and office Principal of the Benares College.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: title-associated named figure
+  assigned_to:
+  - fig:1
+  basis: The title names the work as The Ramayan of Valmiki.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator
+  assigned_to:
+  - fig:2
+  basis: The passage states that the work was translated into English verse by Ralph
+    T. H. Griffith.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 71-73
+  quote_or_summary: "# The Ramayan of Valmiki ... The RÁMÁYAN of VÁLMÍKI"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 75-77
+  quote_or_summary: Translated into English Verse ... by
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 79-81
+  quote_or_summary: Ralph T. H. Griffith, M.A. / Principal of the Benares College
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 83-87
+  quote_or_summary: 'Publication lines list London: Trübner & Co.; Benares: E. J.
+    Lazarus and Co.; and the dates 1870-1874.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: line 90
+  quote_or_summary: CONTENTS
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is front matter rather than narrative mythic content; no motifs,
+    symbols, scenes, or comparison claims are supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate mythological motifs were extracted because the supplied passage contains only title-page and contents-front matter.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l71-l90
+  passage_sha256=3fca9b45766fcaa7f49d0d79785e50f359341c01f5a8dc8b3f54fa9cbb916751
+

@@ -1,0 +1,536 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7085-l7136
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 37 / PAGE 38 / PAGE 41 / PAGE 42; lines 7085-7136
+  start: '7085'
+  end: '7136'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Translator's notes discuss a manuscript variant about oxen, identify Clan
+    Dedad and related heroic groupings, analyze Ket's seven claimed victories with
+    differentiated wounds, compare Irish wound-detailing with Homeric, Arthurian,
+    Norse, Germanic, and Icelandic materials, and cross-reference several Ulster figures
+    in other Irish tales.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note reports a reading of forty oxen as side-dishes and a Rawlinson manuscript
+    variant of sixty oxen to drag it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Clan Dedad is identified as a Munster hero clan with its fortress in Tara
+    Luachra.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Clan Rury is identified as an Ulster clan with its stronghold at Emain Macha,
+    corresponding to Clan Dedad.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Curoi of Munster is described as seeming to have been a rival hero to Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ket is said to claim seven victories over rivals or their relations.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The seven victories are said to involve varied methods, with no two wounds
+    the same.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says this detailed variation in wounds distinguishes several old
+    Irish romances from less elaborate folk-tales.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The note compares Irish wound detail with Homer, Malory, the Volsunga Saga,
+    the Niebelungenlied, Dietrich saga material, and Icelandic sagas.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: Six of Ket's seven rivals are named among eighteen Ulster chiefs gathered
+    on the Hill of Slane before the final battle of the Tain.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Laegaire, Cuscrid, Eogan mac Durthacht, and Celtchar mac Uitechar are tied
+    to other Irish tales in the note.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ket
+  description: Figure whose seven claimed victories are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Ket's rivals or their relations
+  description: The opponents or related targets whom Ket claims to have conquered;
+    six of the seven rivals are associated with the Hill of Slane list.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Clan Dedad
+  description: Munster hero clan with fortress in Tara Luachra.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Clan Rury
+  description: Ulster hero clan with stronghold at Emain Macha; described as corresponding
+    to Clan Dedad.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Curoi of Munster
+  description: Munster hero described as seeming to have been a rival to Cuchulain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Cuchulain
+  description: Hero to whom Curoi is described as a rival; also named in cross-references
+    to other tales.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:7
+  name_or_label: Eighteen Ulster chiefs at the Hill of Slane
+  description: Group in the Tain list said to include six of Ket's seven rivals.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Laegaire / Leary
+  description: Named as a figure appearing with Cuchulain and Conall in the Feast
+    of Bricriu and the Courtship of Emer.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Cuscrid
+  description: Named as a figure appearing with Cuchulain and Conall in the early
+    part of the Sick-bed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Eogan mac Durthacht
+  description: Identified as the slayer of the sow of Usnach in the old version of
+    that tale.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Celtchar mac Uitechar
+  description: Identified as the Master of the Magic Spear in the Bruiden da Derga
+    and as having minor romances personal to himself.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:12
+  name_or_label: Conall
+  description: Named with Cuchulain in references to the Feast of Bricriu, the Courtship
+    of Emer, and the Sick-bed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: claimant of martial victories
+  assigned_to:
+  - fig:1
+  basis: Ket is said to claim seven victories over rivals or their relations.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: defeated rivals or related targets
+  assigned_to:
+  - fig:2
+  basis: The note describes Ket's conquered rivals or their relations and later links
+    six rivals to the Ulster chief list.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: Munster hero clan
+  assigned_to:
+  - fig:3
+  basis: Clan Dedad is explicitly called the Munster hero clan.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Ulster hero clan
+  assigned_to:
+  - fig:4
+  basis: Clan Rury is described as the more famous Ulster counterpart with stronghold
+    at Emain Macha.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: rival hero
+  assigned_to:
+  - fig:5
+  basis: Curoi of Munster is described as seeming to have been a rival hero to Cuchulain.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: heroic rival counterpart
+  assigned_to:
+  - fig:6
+  basis: Cuchulain is the figure to whom Curoi is compared as a rival hero.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Ulster chief-list group
+  assigned_to:
+  - fig:7
+  basis: The note describes eighteen Ulster chiefs gathered on the Hill of Slane before
+    the final battle of the Tain.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: recurring Irish-tale figure
+  assigned_to:
+  - fig:8
+  - fig:9
+  - fig:12
+  basis: These figures are named as prominent or paired in other Irish tales cited
+    by the note.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: slayer
+  assigned_to:
+  - fig:10
+  basis: Eogan mac Durthacht is identified as the slayer of the sow of Usnach.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: master of magic spear
+  assigned_to:
+  - fig:11
+  basis: Celtchar mac Uitechar is identified as the Master of the Magic Spear.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: oxen provision
+  literal_form: forty oxen as side-dishes; Rawlinson variant of sixty oxen to drag
+    it
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: spear wound
+  literal_form: pierced through with a spear
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: varied wounds
+  literal_form: seven victories in which no two wounds are the same
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: magic spear
+  literal_form: the Magic Spear associated with Celtchar mac Uitechar
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Hill of Slane
+  literal_form: gathering place of Ulster chiefs before the final battle of the Tain
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Manuscript variant on oxen
+  summary: The note records a main reading involving forty oxen and a Rawlinson manuscript
+    variant involving sixty oxen.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hero-clan mapping
+  summary: Clan Dedad is mapped to Munster and Tara Luachra, Clan Rury to Ulster and
+    Emain Macha, and Curoi is described as a possible rival to Cuchulain.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ket's differentiated victories
+  summary: Ket's seven claimed victories over rivals or their relations are described
+    as distinct in their wounds and methods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Comparative combat-description note
+  summary: The note compares Irish detailed wound descriptions with Homeric detail
+    and with less detailed or less prominent examples in Arthurian, Norse, Germanic,
+    and Icelandic materials.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Ulster intertextual cross-reference
+  summary: The note links six of Ket's seven rivals to an Ulster chief list and names
+    several figures as prominent in other Irish tales.
+  figure_refs:
+  - fig:2
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: feast abundance counted in oxen
+  taxonomy_refs: []
+  basis: The note preserves a reading of forty oxen as side-dishes and a variant of
+    sixty oxen to drag the item.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is a textual note with limited surrounding narrative context.
+- id: motif:2
+  label: rival heroic clans and paired champions
+  taxonomy_refs: []
+  basis: Clan Dedad and Clan Rury are presented as corresponding Munster and Ulster
+    hero clans, and Curoi is described as seeming to be a rival to Cuchulain.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wording about Curoi is tentative in the passage.
+- id: motif:3
+  label: heroic boast catalogue of seven victories
+  taxonomy_refs: []
+  basis: Ket is said to claim seven victories over rivals or their relations.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is commentary summarizing a feature of the tale rather than
+    quoting the full boast sequence.
+- id: motif:4
+  label: individualized wound detail in battle narrative
+  taxonomy_refs: []
+  basis: The note emphasizes that no two of Ket's seven claimed wounds are the same
+    and treats this as a notable feature of several Irish romances.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The extracted motif reflects the translator's note and may need verification
+    against the underlying tale passage.
+- id: motif:5
+  label: magical weapon mastery
+  taxonomy_refs: []
+  basis: Celtchar mac Uitechar is identified as the Master of the Magic Spear in another
+    Irish tale.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a cross-reference rather than a developed scene in the supplied
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between Irish individualized wound
+    descriptions and Homeric detailed wound descriptions.
+  claim_level: same_motif
+  target: Homeric detailed wound descriptions
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a general literary comparison, not specific Homeric
+    line-by-line parallels.
+- id: claim:2
+  claim: The passage notes that some Icelandic sagas resemble the Irish material in
+    detailed killing or wound description, though the feature is said to be less prominent
+    there.
+  claim_level: same_motif
+  target: Icelandic sagas, including Laxdale Saga and others
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note names examples only broadly and says the resemblance is not
+    as prominent as in the Irish material.
+- id: claim:3
+  claim: The passage raises, without deciding, a possible introduction of Homeric
+    methods into Irish wound descriptions.
+  claim_level: historical_contact
+  target: Homeric methods and Irish descriptions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: uncertain
+  limitations: 'The same note also offers an alternative explanation: the sharpness
+    and clarity of early Irish descriptive detail.'
+- id: claim:4
+  claim: The passage contrasts Irish detailed wound description with Arthurian and
+    Norse/Germanic heroic narratives where combat deaths are usually described with
+    less specific detail.
+  claim_level: same_function
+  target: Malory's Arthurian knights, Volsunga Saga, Niebelungenlied, and Dietrich
+    saga material
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is primarily a contrast in descriptive elaboration, not a claim
+    that the same motif is equally present.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7085-7089 / PAGE 41 Line 8
+  quote_or_summary: The note explains a reading of forty oxen as side-dishes and reports
+    a Rawlinson manuscript variant of sixty oxen to drag it.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7091-7096 / PAGE 41 Line 33
+  quote_or_summary: Clan Dedad is identified as the Munster hero clan with fortress
+    Tara Luachra; Clan Rury is identified as the Ulster counterpart with stronghold
+    Emain Macha; Curoi of Munster is described as seeming to be a rival hero to Cuchulain.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7100-7108 / PAGE 42 Line 20
+  quote_or_summary: The note discusses 'Pierced through with a spear,' says Ket claims
+    seven victories over rivals or their relations, and emphasizes that the wounds
+    vary so that no two are the same, recalling Homeric detail and distinguishing
+    several old Irish romances from less elaborate folk-tales.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; brief quoted phrase and concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7108-7121 / PAGE 42 Line 20
+  quote_or_summary: The note contrasts the Irish detail with Malory, the Volsunga
+    Saga, the Niebelungenlied, Dietrich saga material, and most other sagas, while
+    saying some Icelandic sagas resemble the Irish feature but less prominently.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7121-7127 / PAGE 42 Line 20
+  quote_or_summary: 'The note says the Irish Tale of Troy shows the feature and offers
+    two possible explanations: early Irish sharpness of detail or introduction of
+    Homeric methods into Irish descriptions.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 7128-7132 / PAGE 42 continuation
+  quote_or_summary: Six of Ket's seven rivals are said to be among the eighteen Ulster
+    chiefs gathered on the Hill of Slane before the final battle of the Tain; Angus
+    is the exception named here.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 7132-7136 / PAGE 42 continuation
+  quote_or_summary: The note states that Fergus mac Lets and Feidlimid are mentioned
+    elsewhere in the tale, and that Laegaire, Cuscrid, Eogan mac Durthacht, and Celtchar
+    mac Uitechar are prominent in other tales, with Celtchar identified as Master
+    of the Magic Spear.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly translator commentary, so extraction of literal claims
+    is strong, while motif labeling should be reviewed against the underlying tale
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif-family or symbol IDs were assigned because the supplied taxonomy list does not directly include oxen, spear, wound catalogue, or heroic clan rivalry.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7085-l7136
+  passage_sha256=5bd1e937bb8f48660ef58680ffe76efd0b841c78b92ece705c950f3c0ffb3b3c
+

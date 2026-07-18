@@ -1,0 +1,597 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l28985-l29042
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER XXIX. / IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XXX. / IN
+    THE NAME OF THE MOST MERCIFUL GOD.; lines 28985-29042
+  start: '28985'
+  end: '29042'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents divine signs in creation, human diversity, sleep,
+    provision, lightning, rain, the reviving of dead earth, and the stability of heaven
+    and earth. It states that God will call humans out of the earth, that God creates
+    and restores life, rejects associating partners with God through a comparison
+    from human ownership, commands adherence to true religion and prayer, criticizes
+    sectarian division, and describes people calling on the Lord in adversity but
+    associating other deities after mercy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The creation of the heavens and the earth, and the variety of human languages
+    and complexions, are described as signs for people of understanding.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sleeping by night and day and seeking provision from God's abundance are described
+    as signs for people who hearken.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lightning is shown as both terrifying and hopeful of rain; water is sent from
+    heaven and quickens the earth after it has been dead.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The heaven and earth are said to stand firm at God's command; later, when
+    God calls from the earth at one summons, the addressed people come forth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Whoever is in the heavens and on earth is described as subject and obedient
+    to God.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God is described as originally producing a creature and afterwards restoring
+    that creature to life.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A comparison asks whether possessed slaves are partners in the owners' bestowed
+    substance, equal sharers with them, or feared as one fears peers.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Those who attribute companions to God are described as acting unjustly, following
+    their own lusts without knowledge, and having no helper if God causes them to
+    err.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The addressed audience is instructed to be orthodox, set the face toward the
+    true religion, turn to God, fear him, remain constant at prayer, and not be idolaters.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Those who make a schism in religion are described as divided into various
+    sects, each rejoicing in its own opinion.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: When adversity befalls people, they call upon their Lord; after tasting mercy,
+    some associate other deities with their Lord and are warned that they will know
+    the consequence.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: A question asks whether any authority has been sent down that speaks of the
+    false gods associated with God.
+  category: speech
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: The deity whose signs are listed, who creates, commands, sends water,
+    revives the earth, calls humans forth, produces and restores life, gives mercy,
+    and rejects associated partners.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: Humans / mankind / addressed audience
+  description: People whose languages, complexions, sleep, provision-seeking, prayer,
+    adversity, and future coming forth from the earth are described.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:11
+- id: fig:3
+  name_or_label: People of understanding / people who hearken
+  description: Recipients for whom the signs are said to be meaningful.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Those who attribute companions to God / idolaters
+  description: People described as acting unjustly by associating companions or other
+    deities with God.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:5
+  name_or_label: Slaves possessed by right hands
+  description: Human slaves used in the comparison about whether they would share
+    equally in their owners' substance.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: False gods / other deities / companions
+  description: Deities or companions associated with God by some people; the passage
+    questions whether any authority has been sent down concerning them.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+  - ev:11
+  - ev:12
+- id: fig:7
+  name_or_label: Various sects
+  description: Groups formed by schism in religion, each rejoicing in its own opinion.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: creator and restorer of life
+  assigned_to:
+  - fig:1
+  basis: The passage says God originally produces a creature and later restores it
+    to life.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: sender of water and reviver of dead earth
+  assigned_to:
+  - fig:1
+  basis: God sends down water from heaven and quickens the earth after it has been
+    dead.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: commander and summoner from the earth
+  assigned_to:
+  - fig:1
+  basis: Heaven and earth stand at command, and humans come forth when called from
+    the earth at one summons.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: created and addressed recipients
+  assigned_to:
+  - fig:2
+  basis: The passage addresses human languages, complexions, sleep, provision-seeking,
+    religious conduct, adversity, and future coming forth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:11
+- id: role:5
+  label: future resurrected from earth
+  assigned_to:
+  - fig:2
+  basis: The addressed people are said to come forth when called out of the earth.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: interpreters of signs
+  assigned_to:
+  - fig:3
+  basis: The signs are described as signs for people of understanding, people who
+    hearken, and people who understand.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:7
+  label: associators of divine companions
+  assigned_to:
+  - fig:4
+  basis: They attribute companions or other deities to God and are warned against
+    idolatry.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: role:8
+  label: parable figures in ownership comparison
+  assigned_to:
+  - fig:5
+  basis: The slaves are used in the comparison about equal partnership in substance.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: unauthorized associated deities
+  assigned_to:
+  - fig:6
+  basis: The passage calls them false gods or other deities associated with the Lord
+    and asks whether any authority descended concerning them.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:10
+  label: schismatic religious groups
+  assigned_to:
+  - fig:7
+  basis: The passage describes divided sects, each rejoicing in its own opinion.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: water from heaven
+  literal_form: Water sent down from heaven that quickens dead earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: lightning
+  literal_form: Lightning shown to people, producing terror and hope of rain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heavens and earth
+  literal_form: Created heavens and earth, standing firm at command.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: dead earth quickened
+  literal_form: The earth after death being made alive by descending water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: one summons from the earth
+  literal_form: A single call by which people come forth from the earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: face toward true religion
+  literal_form: The commanded orientation of setting the face toward the true religion.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: authority sent down
+  literal_form: An authority that would speak of false gods, presented as absent or
+    questioned.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Catalog of divine signs in creation and daily life
+  summary: The passage lists creation, human linguistic and physical diversity, sleep,
+    provision-seeking, lightning, rain, and revived earth as signs for understanding
+    people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Divine command, resurrection, and restoration
+  summary: Heaven and earth stand firm by command; humans will come forth from the
+    earth at one summons, and God is described as producing and restoring life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Ownership comparison against divine partners
+  summary: A comparison from human slave ownership asks whether slaves would be equal
+    partners in owners' substance, as part of an argument against attributing companions
+    to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Instruction toward true religion and warning against schism
+  summary: The audience is instructed to turn to God, pray, avoid idolatry, and not
+    be among those divided into sects that rejoice in their own opinions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Adversity, mercy, and renewed association of deities
+  summary: People call upon their Lord in adversity, but after tasting mercy some
+    associate other deities with him; the passage warns of later consequences and
+    questions any authority for the false gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Divine signs in cosmos and human life
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly calls created phenomena and human experiences signs
+    for those who understand or hearken.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is used broadly; the passage emphasizes recognition
+    of signs rather than a wisdom quest narrative.
+- id: motif:2
+  label: Rain revives dead earth
+  taxonomy_refs:
+  - death_rebirth
+  basis: Water descends from heaven and quickens the earth after it has been dead.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The motif is expressed as natural renewal under divine action, not as
+    a personified dying-and-returning figure.
+- id: motif:3
+  label: Human resurrection from the earth by divine summons
+  taxonomy_refs:
+  - resurrection
+  basis: The passage says that when God calls people out of the earth at one summons,
+    they come forth, and that God restores creatures to life.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The details of judgment scenes or afterlife geography are not elaborated
+    in this passage.
+- id: motif:4
+  label: Divine judgment and consequence for idolatry
+  taxonomy_refs:
+  - divine_judgment
+  basis: Those who associate other deities are warned that hereafter they will know
+    the consequence, and those led astray are said to have no helper.
+  evidence_refs:
+  - ev:8
+  - ev:11
+  confidence: medium
+  cautions: The passage gives warning language but does not describe a full tribunal
+    or judgment scene.
+- id: motif:5
+  label: Rejection of divine partners through human ownership analogy
+  taxonomy_refs: []
+  basis: The passage argues against attributing companions to God by comparing the
+    idea to owned slaves being equal partners in the owners' substance.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a rhetorical comparison internal to the passage rather than a
+    named taxonomy motif.
+- id: motif:6
+  label: Adversity prayer followed by relapse after mercy
+  taxonomy_refs: []
+  basis: People call upon the Lord in adversity, but after mercy some associate other
+    deities with him.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The passage presents a behavioral pattern, not a developed narrative cycle
+    with named characters.
+- id: motif:7
+  label: Religious schism and sectarian self-satisfaction
+  taxonomy_refs: []
+  basis: Those who make a schism in religion are divided into various sects, each
+    rejoicing in its own opinion.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: No specific sects are named in the passage.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the quickening of dead earth by water and the future
+    coming forth of humans from the earth both function as images of life restored
+    from a death-like state by divine action.
+  claim_level: same_function
+  target: rain-revived dead earth and human resurrection from the earth
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal functional comparison only; it does not claim historical
+    contact, common inheritance, or identity with motifs outside the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28985-28987
+  quote_or_summary: Creation of the heavens and earth, and variety of human languages
+    and complexions, are signs for people of understanding.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:2
+  type: summary
+  locator: lines 28988-28990
+  quote_or_summary: Sleeping by night and day and seeking provision from God's abundance
+    are signs for people who hearken.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:3
+  type: summary
+  locator: lines 28991-28994
+  quote_or_summary: Lightning brings terror and hope of rain; water descends from
+    heaven and revives the earth after death.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:4
+  type: summary
+  locator: lines 28995-28998
+  quote_or_summary: Heaven and earth stand firm by command; when called out of the
+    earth at one summons, the addressed people come forth.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:5
+  type: summary
+  locator: lines 28999-29000
+  quote_or_summary: All who are in the heavens and on earth are subject and obedient
+    to God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:6
+  type: summary
+  locator: lines 29001-29003
+  quote_or_summary: God originally produces a creature and afterwards restores it
+    to life; he is described as mighty and wise.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:7
+  type: summary
+  locator: lines 29004-29008
+  quote_or_summary: A comparison from human ownership asks whether possessed slaves
+    are equal partners in owners' bestowed substance or feared like peers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:8
+  type: summary
+  locator: lines 29009-29012
+  quote_or_summary: Those who attribute companions to God act unjustly and follow
+    lusts without knowledge; those God causes to err have no helper.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:9
+  type: summary
+  locator: lines 29013-29018
+  quote_or_summary: The audience is commanded to set the face toward the true religion,
+    turn to God, fear him, keep prayer, and avoid idolatry.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:10
+  type: summary
+  locator: lines 29019-29021
+  quote_or_summary: Those who make a schism in religion are divided into various sects,
+    each rejoicing in its own opinion.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:11
+  type: summary
+  locator: lines 29022-29027
+  quote_or_summary: In adversity people call on their Lord; after mercy, some associate
+    other deities with him and are warned they will know the consequence.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+- id: ev:12
+  type: summary
+  locator: lines 29028-29030
+  quote_or_summary: The passage asks whether any authority has been sent down that
+    speaks of the false gods associated with God.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text metadata supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on the supplied English passage and line metadata. Motif
+    taxonomy assignments are limited to available refs and remain draft pending human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or comparisons were used; translator footnotes in the supplied passage were not separately extracted except where the main passage text supported the field.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l28985-l29042
+  passage_sha256=701ef2a2691f18b5be8388f9cd6cd8f788e59589b42ee1025153930ac1cff0ff
+

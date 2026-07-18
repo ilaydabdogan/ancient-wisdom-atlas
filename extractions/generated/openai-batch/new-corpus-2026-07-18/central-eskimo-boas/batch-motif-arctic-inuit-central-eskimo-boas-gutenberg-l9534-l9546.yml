@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9534-l9546
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: II. QAUDJAQDJUQ. / IGIMARASUGDJUQDJUAQ THE CANNIBAL. / THE WOMAN AND THE
+    SPIRIT OF THE SINGING HOUSE. / THE CONSTELLATION UDLEQDJUN.; lines 9534-9546
+  start: '9534'
+  end: '9546'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three men take a young boy on a bear hunt by sledge. During the pursuit,
+    the bear and sledge rise upward; the boy falls from the sledge while trying to
+    retrieve a mitten and sees the men ascend and become stars. The bear, pursuers,
+    and sledge are identified with named stars or parts of Orion, while the boy returns
+    to the village and reports the loss of the men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three men go bear hunting with a sledge and take a young boy with them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the edge of the floe, the hunters see a bear and pursue it, but cannot
+    get closer despite the dogs running fast.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bear is lifted up and the sledge follows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boy loses one mitten and falls from the sledge while trying to pick it
+    up.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After falling, the boy sees the men ascend higher and higher and become stars.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The bear is identified as Nanuqdjung, Betelgeuse; the pursuers as Udleqdjun,
+    Orion’s belt; and the sledge as Kamutiqdjung, Orion’s sword.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The men continue the pursuit, while the boy returns to the village and tells
+    how they were lost.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: three men / pursuers
+  description: Three men who go bear hunting, pursue the bear, ascend, become Udleqdjun,
+    and continue the pursuit.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: young boy
+  description: A young boy taken on the hunt who falls from the sledge, witnesses
+    the ascent, returns to the village, and reports the loss of the men.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: bear
+  description: The bear pursued by the hunters; it is lifted up and becomes the star
+    Nanuqdjung, identified as Betelgeuse.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: bear hunters and pursuers
+  assigned_to:
+  - fig:1
+  basis: The men go bear hunting and pursue the bear; they are later named as the
+    pursuers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: child witness and reporter
+  assigned_to:
+  - fig:2
+  basis: The boy falls from the sledge, sees the men ascend, returns to the village,
+    and tells what happened.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: hunted bear transformed into star
+  assigned_to:
+  - fig:3
+  basis: The bear is pursued, lifted up, and identified as Nanuqdjung, Betelgeuse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:4
+  label: participants in continuing celestial pursuit
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The pursuers and bear are identified with stars, and the men continue the
+    pursuit up to the present.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Nanuqdjung / Betelgeuse
+  literal_form: The bear identified as the star Nanuqdjung, Betelgeuse.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Udleqdjun / Orion’s belt
+  literal_form: The pursuers identified as Udleqdjun, Orion’s belt.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Kamutiqdjung / Orion’s sword
+  literal_form: The sledge identified as Kamutiqdjung, Orion’s sword.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: lost mitten
+  literal_form: One mitten lost by the boy before he falls from the sledge.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bear hunt at the floe edge
+  summary: Three men and a young boy travel by sledge for bear hunting; at the floe
+    edge they see a bear and pursue it without gaining on it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lifting, fall, and ascent
+  summary: The bear is lifted up and the sledge follows. The boy loses a mitten, falls
+    from the sledge, and sees the men ascending and becoming stars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Constellation identification and report
+  summary: The bear, pursuers, and sledge are identified with named stars or parts
+    of Orion; the men continue pursuing, while the boy returns to the village and
+    reports their loss.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Skyward ascent of hunt participants
+  taxonomy_refs:
+  - ascent
+  basis: The bear is lifted up, the sledge follows, and the men ascend higher and
+    higher.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy ref captures the upward movement, but not the specific
+    constellation-origin outcome.
+- id: motif:2
+  label: 'Catasterism: earthly hunt transformed into stars'
+  taxonomy_refs: []
+  basis: The men become stars, and the bear, pursuers, and sledge are identified with
+    Betelgeuse, Orion’s belt, and Orion’s sword.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific catasterism taxonomy ref was supplied; the label is descriptive.
+- id: motif:3
+  label: Endless celestial pursuit
+  taxonomy_refs: []
+  basis: The passage says the men continue the pursuit up to the present day after
+    being identified with stars.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Descriptive motif only; no external parallel or historical connection
+    is asserted.
+- id: motif:4
+  label: Separated child witness returns with report
+  taxonomy_refs: []
+  basis: The boy is separated by falling from the sledge, witnesses the ascent, and
+    returns to tell the village how the men were lost.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: This may be a narrative function within the passage rather than a distinct
+    recurring motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a constellation-origin or catasterism pattern, because terrestrial
+    figures and an object are transformed or identified as named stars and parts of
+    Orion.
+  claim_level: same_motif
+  target: constellation-origin / catasterism pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage itself gives no external parallel, transmission history,
+    or comparison with another named tradition.
+- id: claim:2
+  claim: The passage aligns with the broad ascent motif family, since the bear, sledge,
+    and men move upward into the sky before the star identifications.
+  claim_level: same_motif
+  target: 'available motif family: ascent'
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Ascent is only one component of the passage; the passage’s more specific
+    emphasis is the origin of named stars and constellations.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9536-9537
+  quote_or_summary: "“Three men went bear hunting with a sledge and took a young boy
+    with them.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 9537-9539
+  quote_or_summary: At the edge of the floe, the party sees a bear and pursues it;
+    the dogs run fast but cannot get nearer.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 9539-9540
+  quote_or_summary: "“the bear was lifted up and their sledge followed.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 9540-9541
+  quote_or_summary: "“the boy lost one of his mittens and in the attempt to pick it
+    up fell from the sledge.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 9541-9542
+  quote_or_summary: "“he saw the men ascending higher and higher, finally being transformed
+    into stars.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 9542-9544
+  quote_or_summary: "“The bear became the star Nanuqdjung (Betelgeuse); the pursuers,
+    Udleqdjun (Orion’s belt); and the sledge, Kamutiqdjung (Orion’s sword).”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: 9544-9546
+  quote_or_summary: "“The men continue the pursuit up to this day; the boy, however,
+    returned to the village and told how the men were lost.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is short and explicit about actions, transformations, and star
+    identifications. Comparison claims are limited to broad motif-pattern alignment
+    and do not assert historical contact or external parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only supplied passage text, locator, source metadata, and available taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9534-l9546
+  passage_sha256=d1185a7254305c2e1a398dc2980fd14fba3414b65822893f441214e4c596de3a
+

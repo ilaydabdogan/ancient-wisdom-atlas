@@ -1,0 +1,552 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l3875-l4040
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: COMMENTARY ON THE PENNSYLVANIA TABLET. / YALE TABLET. / TRANSLITERATION.
+    / TRANSLATION.; lines 3875-4040
+  start: '3875'
+  end: '4040'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Fragmentary passage in which Gish kneels at the rampart of Erech before
+    Shamash, asks for protection and safe return, speaks of an untrodden road, receives
+    weapons, and is counseled by elders. The elders advise provisioning, Enkidu’s
+    guidance toward Huwawa’s forest, divine help from Shamash and Lugal-banda, and
+    water-libations. Enkidu reassures Gish, and they proceed on the road to Huwawa.
+    The following commentary notes restorations and parallels with the Assyrian version
+    of the Huwawa episode.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gish kneels before Shamash at the rampart of Erech and asks for protection
+    and return to Erech if he saves his life.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gish describes a road he has never trodden and promises praise and honor to
+    the deity if he succeeds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Weapons are brought and placed in hand, including bow, quiver, hatchet, and
+    possibly lance.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The elders ask about Gish’s return and counsel him not to rely on strength
+    alone, to provide food, and to let Enkidu go before him because Enkidu knows the
+    road to the forest entrance.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The elders invoke Shamash to carry out the endeavor, reveal the prophecy,
+    track the closed path, and level the road and mountain.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The elders invoke Lugal-banda to convey a heartening word at night, stand
+    by Gish in the endeavor, and take note of the ritual water offerings.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: Instructions are given to wash feet in the river of Huwawa, dig a well, maintain
+    pure water for libation, and pour goblets of water to Shamash.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Enkidu tells Gish not to be afraid and to trust him; the two proceed on the
+    road to Huwawa.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A later fragment again names Gish and Enkidu and includes a prayer that a
+    god show the road.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The commentary repeatedly cites Assyrian-version parallels and restorations
+    for lines in the Huwawa episode.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Gish
+  description: The central traveler who kneels before Shamash, speaks of an untrodden
+    road, receives weapons and counsel, and proceeds with Enkidu toward Huwawa.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Shamash
+  description: Deity addressed by Gish and invoked by the elders for protection, guidance,
+    fulfillment of the endeavor, and receipt of water libations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Enkidu
+  description: Companion of Gish who knows the road to the forest entrance, is advised
+    to go before him, and reassures him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: elders
+  description: Advisers who approach Gish and give practical, ritual, and divine-invocation
+    counsel for the road.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Lugal-banda
+  description: Invoked figure asked to convey a joyful word at night, stand by Gish
+    in the endeavor, and take note of the libation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Huwawa
+  description: Figure associated with the forest entrance, a river, and the destination
+    of the road; the commentary mentions a possible parallel about overcoming Huwawa,
+    the terrible.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:7
+  name_or_label: masters
+  description: Persons who bring or place weapons for Gish in the arming sequence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: supplicant to Shamash
+  assigned_to:
+  - fig:1
+  basis: Gish kneels before Shamash and asks for protection and safe return.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: traveler on an unfamiliar road
+  assigned_to:
+  - fig:1
+  basis: Gish speaks of an untrodden road and proceeds toward Huwawa with Enkidu.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: invoked protective deity and libation recipient
+  assigned_to:
+  - fig:2
+  basis: Shamash is asked for protection, guidance, road-leveling, success, and receives
+    water libations.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:4
+  label: companion-guide who goes before
+  assigned_to:
+  - fig:3
+  basis: The elders say Enkidu knows the way and should go before; Enkidu tells Gish
+    to trust him.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: elder counselors
+  assigned_to:
+  - fig:4
+  basis: The elders approach Gish and counsel him about strength, food, Enkidu’s guidance,
+    divine aid, and libation practice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: invoked helper
+  assigned_to:
+  - fig:5
+  basis: Lugal-banda is asked to convey a word at night, stand by the endeavor, and
+    note the libation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: forest-associated destination or opponent
+  assigned_to:
+  - fig:6
+  basis: The road leads to Huwawa and the forest entrance; the commentary notes a
+    possible parallel about overcoming Huwawa, the terrible.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+- id: role:8
+  label: weapon suppliers
+  assigned_to:
+  - fig:7
+  basis: The masters bring or place weapons during the preparation sequence.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rampart of Erech
+  literal_form: city rampart where Gish kneels and seeks return
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: untrodden road or closed path
+  literal_form: road never trodden, closed path, road to Huwawa
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: weapons
+  literal_form: bow, quiver, hatchet, and possibly lance
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: forest entrance of Huwawa
+  literal_form: entrance of the forest on the way to Huwawa
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: mountain
+  literal_form: mountain to be leveled for Gish’s foot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: ritual water
+  literal_form: river, well, pure water, goblets of water, and libation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: food provision
+  literal_form: food for the road
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:8
+  label: thrones
+  literal_form: thrones promised in Gish’s vow of honor to the deity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Prayer at the rampart of Erech
+  summary: Gish kneels before Shamash at the rampart, announces his intention to go,
+    and asks for protection and safe return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vow and arming for the road
+  summary: Gish speaks of an untrodden road and vows praise if successful; weapons
+    are brought and placed for him before the journey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Elders’ counsel before departure
+  summary: The elders counsel Gish about his return, warn against relying only on
+    strength, advise food and Enkidu’s guidance, and invoke Shamash and Lugal-banda
+    for the journey.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Enkidu reassures Gish on the road to Huwawa
+  summary: Enkidu tells Gish not to fear and to trust him, and the pair proceed toward
+    Huwawa; a later fragment again asks that the road be shown.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: departure from the city after divine petition
+  taxonomy_refs:
+  - departure
+  basis: Gish prays at Erech’s rampart for protection and return, receives preparations,
+    and takes the road.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage is fragmentary, but the sequence of petition, preparation,
+    and road-taking is clear.
+- id: motif:2
+  label: divinely guided hazardous road
+  taxonomy_refs:
+  - mystical_quest
+  basis: The road is unfamiliar or closed; Enkidu knows the way, while Shamash is
+    invoked to track the closed path and level the road and mountain.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The text does not explicitly label the journey as a quest; the motif label
+    is inferred from the journey pattern and divine-guidance language.
+- id: motif:3
+  label: companion-guide who goes before
+  taxonomy_refs: []
+  basis: The elders say Enkidu should go before because he knows the road, and Enkidu
+    reassures Gish to trust him.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: No external taxonomy reference is assigned because the available motif
+    list has no exact companion-guide category.
+- id: motif:4
+  label: water libation for divine support
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The elders instruct washing, digging a well, keeping pure water for libation,
+    and pouring goblets of water to Shamash, with Lugal-banda taking note.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The ritual action is explicit, but any exchange relation between offering
+    and divine aid remains implicit.
+- id: motif:5
+  label: wise counsel against relying on strength alone
+  taxonomy_refs:
+  - wisdom
+  basis: The elders directly warn Gish not to rely on his strength and give practical
+    counsel for food, guidance, and ritual conduct.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The wisdom motif is broad; the passage gives counsel rather than a formal
+    wisdom teaching.
+comparison_claims:
+- id: claim:1
+  claim: The commentary connects this Old Babylonian Huwawa-journey material with
+    the Assyrian Gilgamesh version through repeated cited restorations and parallels,
+    supporting a cautious claim of shared Huwawa-episode tradition.
+  claim_level: same_motif
+  target: Assyrian version of the Gilgamesh Huwawa episode cited in the commentary
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison depends on editorial commentary and restorations; the
+    underlying lines are fragmentary.
+- id: claim:2
+  claim: The commentary proposes a possible parallel for lines about overcoming Huwawa,
+    the terrible, suggesting shared wording or theme with the cited Assyrian version.
+  claim_level: linguistic_similarity
+  target: Assyrian version passage cited in the note on lines 96-98
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs:
+  - ev:9
+  confidence: low
+  limitations: The note itself says the parallel is only possible and mentions an
+    alternate restoration, so the claim is uncertain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3875-3891, opening fragment before Col. VI
+  quote_or_summary: At Erech’s rampart, Gish kneels before Shamash, says he will go,
+    asks to be brought back if he saves his life, and requests protection.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 3902-3910, Col. VI opening
+  quote_or_summary: Gish is identified in broken lines, speaks of a road never trodden
+    and uncertain food, and vows to praise and honor the deity if he succeeds.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3911-3921, Col. VI arming sequence
+  quote_or_summary: Masters bring weapons; bow and quiver are placed in hand; he takes
+    a hatchet, and a lance may be in his girdle before the road is taken.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 3922-3933, Col. VI elders’ counsel
+  quote_or_summary: The elders ask how long until Gish returns to Erech and advise
+    him not to rely on strength, to provide food, and to let Enkidu go before because
+    he knows the road to the forest entrance.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 3934-3943, Col. VI invocations
+  quote_or_summary: The elders invoke Shamash to carry out the endeavor, reveal the
+    prophecy, track the closed path, and level road and mountain; they invoke Lugal-banda
+    to convey a joyful night word and stand by Gish.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 3944-3951, Col. VI water and libation instructions
+  quote_or_summary: The elders instruct washing feet in the river of Huwawa, digging
+    a well, keeping pure water for libation, pouring goblets of water to Shamash,
+    and having Lugal-banda take note.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:7
+  type: summary
+  locator: lines 3952-3958, Col. VI Enkidu speech and departure
+  quote_or_summary: Enkidu tells Gish that since he is resolved to take the road,
+    he should not be afraid and should trust him; they proceed on the road to Huwawa.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:8
+  type: summary
+  locator: lines 3962-3973, L.E. fragment
+  quote_or_summary: A fragment includes speech to Gish, a prayer that a god show the
+    road, and the names Gish and Enkidu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:9
+  type: summary
+  locator: lines 3975-4040, commentary notes
+  quote_or_summary: The commentary cites several Assyrian-version parallels and restorations
+    for this Huwawa material, including a possible parallel about overcoming Huwawa,
+    the terrible, and notes the phrase for one who goes in advance or leader.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source metadata; full text use allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is highly fragmentary and includes editorial restorations. Literal
+    journey, counsel, invocation, arming, and libation elements are clear enough for
+    draft extraction; motif labels and comparison claims require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy references were added beyond the supplied available motif families and symbols.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l3875-l4040
+  passage_sha256=97dd7e8a3b2644ff5db49dd705bf9fde299effa715af47b04f6663144e44d31c
+

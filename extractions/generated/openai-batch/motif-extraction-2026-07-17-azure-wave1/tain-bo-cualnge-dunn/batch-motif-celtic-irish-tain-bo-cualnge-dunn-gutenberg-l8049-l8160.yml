@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.celtic-irish-tain-bo-cualnge-dunn-gutenberg-l8049-l8160
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+passage_locator:
+  label: THE YOUTHFUL EXPLOITS OF CUCHULAIN / THE SLAYING OF ORLAM / THE PROPOSALS
+    / THE DEATH OF FORGEMEN; lines 8049-8160
+  start: '8049'
+  end: '8160'
+  translation: The Ancient Irish Epic Tale Tain Bo Cualnge
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: After Cuchulain becomes exhausted and thirsty, the Morrigan comes from
+    the fairy dwellings disguised as an old hag milking a three-teated cow. She gives
+    him three milkings; after he drinks and blesses her, the wounds he had caused
+    are healed. She reveals herself, then later appears as a royston crow on a bramble,
+    giving rise to a place-name. Medb sends a hundred armed bodyguard warriors against
+    Cuchulain, and he kills them at a ford, producing further place-name explanations
+    connected with gore and blood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Great weariness and thirst came over Cuchulain after the night and his exhaustion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Morrigan, daughter of Emmas, came from the fairy dwellings in the guise
+    of an old hag, described as wasted-kneed, long-legged, blind, and lame.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The disguised Morrigan milked a tawny, three-teated milch cow before Cuchulain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that she came in this fashion to obtain redress from Cuchulain,
+    because those wounded by him did not recover unless he aided their healing.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cuchulain begged for three milkings, drank each one, and pronounced healing
+    wishes or blessings after drinking.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: After the three drinks and blessings, the Morrigan's eye, head, and leg were
+    made whole, and the queen was healed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: The Morrigan then addressed Cuchulain by name and said he had claimed she
+    would never get healing from him; Cuchulain replied that he would not have healed
+    her if he had known it was she.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Morrigan later alighted in the form of a royston crow on a bramble, and
+    Cuchulain called the bird's appearance ominous in that place.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Medb ordered a hundred armed warriors of her bodyguard to attack Cuchulain
+    at the same time, and Cuchulain killed them.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage explains several place-names from the crow's bramble, the slaughter,
+    and the abundance of gore and blood flowing with the river.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Exhausted and thirsty warrior who receives milk, pronounces blessings,
+    heals the Morrigan, comments on the crow, and kills the attacking bodyguard warriors.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: The Morrigan, daughter of Emmas
+  description: Figure from the fairy dwellings who appears as an old hag milking a
+    cow, receives healing through Cuchulain's words, reveals herself, and later appears
+    as a royston crow.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Tawny three-teated milch cow
+  description: Cow milked by the Morrigan in front of Cuchulain; its three teats supply
+    the three milkings.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Medb
+  description: Ruler who orders a hundred armed warriors of her bodyguard to attack
+    Cuchulain and comments on the dishonour of her people's slaughter.
+  role_refs:
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Ailill
+  description: Speaker who replies to Medb that this is not the first destruction
+    from Cuchulain.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Hundred armed warriors of Medb's bodyguard
+  description: Group ordered by Medb to assail Cuchulain; they fall by Cuchulain's
+    hand at the ford.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: exhausted thirsty recipient of milk
+  assigned_to:
+  - fig:1
+  basis: Cuchulain is overcome by weariness and thirst, asks for milk, and drinks
+    from each milking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: unwitting healer through blessing
+  assigned_to:
+  - fig:1
+  basis: Cuchulain's wishes and blessings after drinking the milk heal the Morrigan,
+    though he says afterward he would not have done so had he known her identity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: disguised seeker of redress
+  assigned_to:
+  - fig:2
+  basis: The passage says the Morrigan came in this fashion so that she might have
+    redress from Cuchulain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: giver of milk
+  assigned_to:
+  - fig:2
+  basis: She milks the cow's three teats and gives the milkings to Cuchulain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: bird-form figure associated with omen
+  assigned_to:
+  - fig:2
+  basis: She alights in the form of a royston crow, and Cuchulain calls the bird's
+    appearance ominous.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: source of three milkings
+  assigned_to:
+  - fig:3
+  basis: The cow is three-teated and is milked three times for Cuchulain to drink.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:7
+  label: commander of attack
+  assigned_to:
+  - fig:4
+  basis: Medb orders the hundred armed bodyguard warriors to assail Cuchulain.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: slayer of attacking warriors
+  assigned_to:
+  - fig:1
+  basis: Cuchulain attacks the hundred warriors and they fall by his hand.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: speaker reacting to slaughter
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Medb calls the slaughter dishonourable, and Ailill replies that it is not
+    the first destruction caused by Cuchulain.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: mass attackers
+  assigned_to:
+  - fig:6
+  basis: The hundred armed warriors are sent simultaneously against Cuchulain and
+    are killed.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: Three milkings from the cow's three teats, drunk by Cuchulain before
+    he pronounces blessings that heal the Morrigan.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: three-teated cow
+  literal_form: A tawny, three-teated milch cow milked by the Morrigan before Cuchulain.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: old hag guise
+  literal_form: The Morrigan's appearance as an old hag with wasted knees, long legs,
+    blindness, and lameness.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: royston crow on bramble
+  literal_form: The Morrigan in the form of a royston crow alighting on a bramble
+    at Grelach Dolair.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: gory ford and river
+  literal_form: A ford and stream named for the abundance of gore and blood that went
+    with the river's flow.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: The Morrigan appears as a milking hag
+  summary: An exhausted and thirsty Cuchulain sees the Morrigan, daughter of Emmas,
+    come from the fairy dwellings disguised as an old hag milking a tawny three-teated
+    cow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Three milkings and healing blessings
+  summary: Cuchulain asks for and drinks three milkings. After each drink he speaks
+    a healing wish or blessing, and the Morrigan's eye, head, and leg are healed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Recognition after healing
+  summary: The Morrigan reveals that she has received the healing Cuchulain said she
+    would not get; Cuchulain answers that he would not have healed her if he had known
+    her identity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Crow on the bramble
+  summary: The Morrigan appears as a royston crow on a bramble, Cuchulain calls the
+    bird ominous, and the passage explains the place-name Crow's Bramble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Slaughter of Medb's bodyguard at the ford
+  summary: Medb sends a hundred armed bodyguard warriors against Cuchulain. He kills
+    them, and the passage explains place-names associated with destruction, gore,
+    and blood in the river.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Supernatural figure changes guise or form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Morrigan first comes in the guise of an old hag and later alights in
+    the form of a royston crow.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage describes the guises/forms directly but does not generalize
+    the episode into a formal motif category.
+- id: motif:2
+  label: Unwitting healing through reciprocal milk and blessing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The disguised Morrigan gives Cuchulain milk when he is thirsty; his spoken
+    blessings and healing wishes after drinking cure her wounds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exchange is explicit, but the classification as sacred exchange is
+    interpretive; the passage frames it mainly as redress and healing.
+- id: motif:3
+  label: Etiological naming from supernatural appearance and battle gore
+  taxonomy_refs: []
+  basis: The passage explains names such as Crow's Bramble, Gory Ford, and River of
+    Gore from the Morrigan's crow appearance and the slaughter at the ford.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to place-name etiology.
+- id: motif:4
+  label: Lone hero destroys a massed attacking force
+  taxonomy_refs: []
+  basis: Medb sends a hundred armed bodyguard warriors at once, and Cuchulain kills
+    them all at the ford.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to this heroic combat
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The Morrigan's old-hag guise and later crow form have the same functional
+    pattern as a shapeshifter motif family.
+  claim_level: same_function
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional motif comparison only; the passage does not support
+    claims about diffusion, origin, or relationship to other traditions.
+- id: claim:2
+  claim: The repeated explanations of names from events in the passage function as
+    a place-name etiology pattern.
+  claim_level: same_function
+  target: place-name etiology pattern
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the passage's internal naming explanations
+    and does not assert connection to an external corpus or historical tradition.
+- id: claim:3
+  claim: The milk-and-blessing healing episode can be cautiously compared by function
+    to a sacred exchange pattern.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage presents the episode as the Morrigan obtaining redress
+    from Cuchulain; because Cuchulain acts unknowingly, the exchange is not an openly
+    negotiated sacred transaction.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8049-8058
+  quote_or_summary: Cuchulain is overcome by weariness and thirst; the Morrigan, daughter
+    of Emmas, comes from the fairy dwellings in the guise of an old hag and milks
+    a tawny, three-teated cow before him.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8058-8069
+  quote_or_summary: The Morrigan comes in this fashion to obtain redress, since those
+    wounded by Cuchulain need his aid to recover; Cuchulain asks for a milking, drinks
+    it, blesses the old woman, and one of her eyes becomes whole.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8069-8084
+  quote_or_summary: Cuchulain receives and drinks milk from the second and third teats,
+    speaks further healing wishes and blessings, and the Morrigan's head and leg are
+    healed; the queen is healed forthwith.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8084-8097
+  quote_or_summary: The Morrigan tells Cuchulain that he had said she would never
+    receive healing or succour from him; Cuchulain replies that had he known it was
+    she, he would never have healed her.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8098-8106
+  quote_or_summary: The Morrigan alights in the form of a royston crow on a bramble
+    at Grelach Dolair; Cuchulain calls the bird's appearance ominous, and the passage
+    derives the name Crow's Bramble from it.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8108-8117
+  quote_or_summary: Medb orders a hundred armed warriors of her bodyguard to assail
+    Cuchulain together; Cuchulain attacks them all and they fall by his hand at Ath
+    Ceit Cuile.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8117-8129
+  quote_or_summary: Medb laments the dishonour of her people's slaughter, Ailill says
+    it is not the first destruction caused by Cuchulain, and the passage explains
+    names including Gory Ford and River of Gore from the blood and gore flowing with
+    the river.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal episode extraction is well supported by the supplied passage. Motif
+    labels involving shapeshifting and place-name etiology are directly supported;
+    sacred-exchange framing is more interpretive and needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external parallels or historical-contact claims were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-tain-bo-cualnge-dunn-gutenberg__l8049-l8160
+  passage_sha256=1292a7810fcd69bc6ac130708f1982c7a2475f0e2b939480d4d533f1ca642278
+

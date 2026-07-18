@@ -1,0 +1,224 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7785-l7805
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 76 / PAGE 78 / PAGE 79 / PAGE 81; lines 7785-7805
+  start: '7785'
+  end: '7805'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: |-
+    I am she who will go on a journey
+    which is best for me on account of strong compulsion;
+  summary: The passage is an editorial and translation note. It gives a literal rendering
+    of one line with evaluative contrasts, identifies a poem in which Fand resigns
+    Cuchulain, supplies a translation of its first verse in which the female speaker
+    must journey under compulsion though she would rather remain, and notes a doubtful
+    Old Irish word that may mean the speaker was greatly glowing.
+  language: English with Old Irish terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A translation note gives a literal rendering of a line that evaluates red,
+    new, lofty, known, absent, and accustomed things.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prose note identifies the referenced poem as one in which Fand resigns
+    Cuchulain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first-person speaker says she will go on a journey because of strong compulsion
+    and that the journey is best for her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says another has abundance of fame and that it would be dearer
+    to her to remain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says the Old Irish word iran is doubtful and suggests the line may
+    mean that the speaker was greatly glowing.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fand / first-person female speaker
+  description: Named in the note as Fand in connection with the poem; the translated
+    verse has a first-person female speaker who will go on a compelled journey and
+    would prefer to remain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Cuchulain
+  description: Named as the figure whom Fand resigns in the referenced poem.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: unnamed other
+  description: An unnamed other is said by the speaker to have abundance of fame.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: resigning and compelled departing speaker
+  assigned_to:
+  - fig:1
+  basis: The note identifies the poem as one in which Fand resigns Cuchulain, and
+    the verse speaker says she will go on a journey under strong compulsion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: figure resigned by Fand
+  assigned_to:
+  - fig:2
+  basis: The prose note explicitly states that Fand resigns Cuchulain.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: unnamed other associated with fame
+  assigned_to:
+  - fig:3
+  basis: The verse says there is abundance of fame to another.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: journey image
+  literal_form: journey
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - departure
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: possible glowing self-description
+  literal_form: I myself was greatly glowing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: red and white evaluative contrast
+  literal_form: red; white/new
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Fand's resignation verse
+  summary: In the translated verse associated with Fand's resignation of Cuchulain,
+    the first-person speaker says she must go on a journey because of strong compulsion,
+    while acknowledging another's fame and saying she would rather remain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: compelled departure on a journey
+  taxonomy_refs:
+  - departure
+  basis: The speaker says she will go on a journey because of strong compulsion.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a translation note and gives only a brief excerpt of the
+    poem, not the full narrative context.
+- id: motif:2
+  label: renunciation or separation from a named beloved/hero
+  taxonomy_refs: []
+  basis: The note identifies the poem as one in which Fand resigns Cuchulain, and
+    the translated verse says the speaker would prefer to remain despite being compelled
+    to go.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe the circumstances or consequences of the
+    resignation.
+- id: motif:3
+  label: valuation of the absent over the accustomed
+  taxonomy_refs: []
+  basis: The literal rendering says that what is absent is revered and what is accustomed
+    is failure, within a sequence of evaluative contrasts.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is an aphoristic or poetic pattern in a translation note, not a developed
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7785-7789
+  quote_or_summary: '"fair is each red, white is each new, beautiful each lofty, sour
+    is each known, revered is each thing absent, failure is each thing accustomed."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 7790-7791
+  quote_or_summary: '"the poem in which Fand resigns Cuchulain"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:3
+  type: quote
+  locator: lines 7793-7798
+  quote_or_summary: '"I am she who will go on a journey / which is best for me on
+    account of strong compulsion; / though there is to another abundance of her fame,
+    / (and) it were dearer to me to remain."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:4
+  type: note
+  locator: lines 7800-7805
+  quote_or_summary: The note says that iran is doubtful and that, if read as a form
+    with an intensitive prefix, the line may be translated "I myself was greatly glowing."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source metadata; short quotation allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is limited by the passage's nature as editorial translation
+    commentary rather than continuous narrative. No cross-tradition comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference is limited to the explicit journey/departure language in the translated verse.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7785-l7805
+  passage_sha256=e5d5e071dfd3b7d61222a2ac8a8b1ad487e8cbe523ab2d5d01cc610eecc6e157
+

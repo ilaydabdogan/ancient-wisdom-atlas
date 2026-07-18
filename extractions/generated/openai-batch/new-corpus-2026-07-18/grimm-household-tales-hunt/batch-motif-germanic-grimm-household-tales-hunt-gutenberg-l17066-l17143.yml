@@ -1,0 +1,553 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l17066-l17143
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 17066-17143
+  start: '17066'
+  end: '17143'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: An old witch compels a girl to help steal a huntsman's wishing-cloak. The
+    girl lures him to Garnet Mountain, where he is put to sleep and robbed. Abandoned
+    there, the huntsman overhears giants and uses a cloud to escape to a walled cabbage
+    garden. He discovers one kind of cabbage changes him into an ass and another restores
+    his human form, then takes both kinds and returns in disguise toward the girl's
+    castle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The old witch says they already have the bird's heart and must also take the
+    wishing-cloak from the huntsman; she strikes and threatens the girl until the
+    girl obeys.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The girl stands at the window as if sorrowful and tells the huntsman she longs
+    for the precious stones on Garnet Mountain, which birds can reach but a man cannot.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The huntsman draws the girl under his mantle, wishes himself to Garnet Mountain,
+    and arrives there with her; they gather precious stones.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Through the old woman's sorcery, the huntsman's eyes grow heavy; he rests
+    with his head in the maiden's lap and falls asleep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: While the huntsman sleeps, the maiden removes the mantle from his shoulders,
+    wraps herself in it, takes garnets and stones, and wishes herself home.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The huntsman wakes and perceives that his sweetheart has betrayed him and
+    left him alone on the wild mountain.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Three wild and monstrous giants approach; the huntsman pretends to sleep,
+    and the giants' speech reveals that a cloud at the summit can carry him away.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The huntsman climbs to the summit; a cloud catches him up, carries him through
+    the heavens, and lowers him into a walled cabbage garden.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Hungry in the garden, the huntsman eats one kind of cabbage and grows four
+    legs, a large head, and two thick ears, becoming an ass.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: After eating a different kind of cabbage, the huntsman feels another change
+    and resumes his human shape.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The next morning the huntsman takes one head of the bad cabbages and one of
+    the good ones, intending to recover what is his and punish treachery.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The huntsman finds the sweetheart's castle, dyes his face brown, asks for
+    shelter, and tells the witch he is a king's messenger carrying the most delicious
+    salad.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: old witch
+  description: An old woman with sorceries who wants the wishing-cloak, compels the
+    girl, and later questions the disguised huntsman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:12
+- id: fig:2
+  name_or_label: girl / maiden / sweetheart
+  description: The huntsman's beloved, who obeys the witch, lures the huntsman to
+    Garnet Mountain, and steals the mantle while he sleeps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: huntsman
+  description: A man possessing the wishing-cloak, betrayed and stranded on Garnet
+    Mountain, transported by a cloud, transformed by cabbages, and returning in disguise.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:4
+  name_or_label: three wild and monstrous giants
+  description: Mountain-dwelling giants who approach the pretending huntsman and speak
+    about the cloud at the summit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: coercive magical antagonist
+  assigned_to:
+  - fig:1
+  basis: The old witch demands the wishing-cloak, strikes and threatens the girl,
+    and uses sorcery to make the huntsman sleepy.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: coerced accomplice and betraying beloved
+  assigned_to:
+  - fig:2
+  basis: The girl acts under the witch's pressure, feigns sorrow, accompanies the
+    huntsman, and steals the mantle and stones while he sleeps.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: betrayed protagonist and magical-object holder
+  assigned_to:
+  - fig:3
+  basis: The huntsman uses the mantle to travel, is robbed by his sweetheart, is stranded,
+    and later seeks to recover what is his.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:11
+- id: role:4
+  label: dangerous mountain inhabitants and inadvertent informants
+  assigned_to:
+  - fig:4
+  basis: The giants threaten or dismiss the huntsman, but their speech reveals that
+    a cloud at the summit can carry him away.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: disguised returner
+  assigned_to:
+  - fig:3
+  basis: After taking both kinds of cabbage, the huntsman seeks the castle, dyes his
+    face, and presents himself under a false identity.
+  evidence_refs:
+  - ev:11
+  - ev:12
+symbols:
+- id: sym:1
+  label: bird's heart
+  literal_form: The bird's heart said by the witch to be already in their possession.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wishing-cloak / mantle
+  literal_form: A rare mantle that carries those under it to the wished-for place
+    and is stolen from the huntsman.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Garnet Mountain
+  literal_form: A mountain where precious stones grow and where the huntsman is abandoned.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: garnets and precious stones
+  literal_form: Costly stones glistening on Garnet Mountain and gathered by the huntsman
+    and girl.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: cloud transport
+  literal_form: A cloud at the summit that catches the huntsman, carries him through
+    the heavens, and lowers him into a garden.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: walled cabbage garden
+  literal_form: A great cabbage-garden girt round by walls, where the cloud sets the
+    huntsman down.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: bad cabbage
+  literal_form: A kind of cabbage whose leaves change the huntsman into an ass when
+    eaten.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:11
+- id: sym:8
+  label: good cabbage
+  literal_form: A different kind of cabbage that restores the huntsman from ass shape
+    to human shape.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+scenes:
+- id: scene:1
+  label: witch's plan and feigned longing
+  summary: The witch demands the wishing-cloak and forces the girl to lure the huntsman
+    by pretending to long for Garnet Mountain's stones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: journey to Garnet Mountain and theft of the mantle
+  summary: The huntsman transports himself and the girl to Garnet Mountain with the
+    mantle; after sorcery-induced sleep, the girl steals the mantle and stones and
+    returns home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: abandonment among giants and cloud escape
+  summary: The huntsman wakes betrayed on the mountain, pretends to sleep before three
+    giants, hears about the summit cloud, and uses it to leave the mountain.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: cabbage transformation and restoration
+  summary: In the walled garden, the huntsman eats one cabbage and becomes an ass,
+    then eats another kind and becomes human again.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: return in disguise with cabbages
+  summary: The huntsman takes both transforming and restorative cabbages, finds the
+    castle, darkens his face, and claims to be a king's messenger with rare salad.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: theft of a magical garment through betrayal
+  taxonomy_refs: []
+  basis: The witch and girl target the wishing-cloak; the girl lures the huntsman,
+    waits until he sleeps, removes the mantle, and returns home with it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage calls the item wonderful and rare, but does not classify it
+    within any supplied taxonomy family.
+- id: motif:2
+  label: wish-powered transport garment
+  taxonomy_refs: []
+  basis: The huntsman uses the mantle to wish himself and the girl to Garnet Mountain,
+    and the girl later uses it to wish herself home.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives the function of the object but no broader comparative
+    label.
+- id: motif:3
+  label: hostile beings inadvertently reveal escape route
+  taxonomy_refs: []
+  basis: The giants discuss what will happen if the huntsman climbs higher, thereby
+    revealing that the summit cloud can carry him away.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The huntsman intentionally listens, but the passage does not present a
+    named tale-type or external comparison.
+- id: motif:4
+  label: cloud-borne rescue or transport from mountain
+  taxonomy_refs: []
+  basis: After hearing the giants, the huntsman climbs to the summit and is carried
+    away by a cloud through the heavens to a garden.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The cloud functions as transport in this passage; wider symbolic interpretation
+    is not explicit.
+- id: motif:5
+  label: transforming and restorative food
+  taxonomy_refs:
+  - shapeshifter
+  basis: One kind of cabbage changes the huntsman into an ass, while another kind
+    changes him back into a human.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The transformation is food-induced rather than an innate shapeshifting
+    power.
+- id: motif:6
+  label: disguised return to punish treachery
+  taxonomy_refs:
+  - return
+  basis: The huntsman takes the cabbages, seeks the sweetheart's castle, alters his
+    appearance, and presents himself under a false identity.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: medium
+  cautions: The passage states his intention to recover his own and punish treachery,
+    but the outcome lies beyond the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The cabbage episode fits a cautious motif-family comparison with shapeshifter
+    patterns because ingestion changes the huntsman from human to ass and another
+    ingestion restores human form.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the transformation pattern, but it does not indicate
+    historical contact, common inheritance, or an innate shapeshifter identity.
+- id: claim:2
+  claim: The huntsman's movement back toward the sweetheart's castle after betrayal
+    can be compared functionally with a return pattern.
+  claim_level: same_function
+  target: return motif family
+  evidence_refs:
+  - ev:11
+  - ev:12
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only the beginning of the return is included; the supplied passage
+    does not show the completion of recovery or punishment.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17066-17074
+  quote_or_summary: The witch says they have the bird's heart but must also take the
+    wishing-cloak; she strikes and threatens the girl until she obeys.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 17074-17083
+  quote_or_summary: The girl pretends sorrow at the window and says she longs for
+    precious stones on Garnet Mountain, which only birds can reach.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 17083-17090
+  quote_or_summary: The huntsman draws the girl under his mantle, wishes them to Garnet
+    Mountain, and they gather glistening precious stones.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 17090-17096
+  quote_or_summary: The old woman's sorceries make the huntsman sleepy; he rests with
+    his head in the maiden's lap and falls asleep.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 17096-17100
+  quote_or_summary: The maiden removes the mantle from the sleeping huntsman's shoulders,
+    wraps herself in it, takes stones, and wishes herself home.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 17101-17107
+  quote_or_summary: The huntsman wakes, realizes his sweetheart betrayed him, and
+    remains alone on the wild mountain in sorrow.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 17107-17120
+  quote_or_summary: Three wild monstrous giants come by; the huntsman pretends to
+    sleep, and their speech reveals that clouds at the summit will carry him away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 17120-17128
+  quote_or_summary: The huntsman climbs to the summit; a cloud catches him up, carries
+    him through the heavens, and lowers him into a walled cabbage garden.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 17129-17138
+  quote_or_summary: Hungry in the cabbage garden, the huntsman eats cabbage leaves
+    and changes into an ass with four legs, a large head, and thick ears.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: lines 17138-17143
+  quote_or_summary: The huntsman eats a different kind of cabbage and changes back
+    into his former human shape.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:11
+  type: summary
+  locator: lines 17144-17152
+  quote_or_summary: The next morning he takes one bad and one good cabbage, intending
+    to recover his own and punish treachery, then seeks the sweetheart's castle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:12
+  type: summary
+  locator: lines 17152-17164
+  quote_or_summary: He darkens his face, asks for shelter, and tells the witch he
+    is a king's messenger carrying the most delicious salad.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Passage events are clear, but internal sub-line locators are approximate
+    within the supplied line range, and comparison claims are limited to taxonomy-level
+    pattern matching from the supplied references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Evidence locators beyond the given range are approximate subdivisions of the supplied excerpt.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l17066-l17143
+  passage_sha256=b8857df50a76f68a690b2de6e3ed26ba5e107b5a986a9cd8b8508ca4f1e5f0f6
+

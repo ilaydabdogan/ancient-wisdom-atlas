@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l2923-l3018
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION. / COMMENTARY ON THE
+    PENNSYLVANIA TABLET.; lines 2923-3018
+  start: '2923'
+  end: '3018'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: To convert him into a civilized man, the hair is removed.
+  summary: 'The supplied commentary interprets Pennsylvania Tablet lines 107-114 and
+    related parallels: Enkidu is described as hairy like an animal, hair removal makes
+    him civilized, later lines concern lions, shepherds, a weapon identified as a
+    dagger-like sibbaru, and Enkidu as guardian or shepherd of flocks. The passage
+    also discusses possible linguistic parallels for hair terminology in Isaiah and
+    Babylonian sources.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Enkidu is described as covered all over his body with hair and compared to
+    an animal.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says the removal of Enkidu's hair converts him into a civilized
+    man.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The commentary identifies the plural la-bi in line 109 as lions and the verb
+    from garu as meaning to attack.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The night shepherds can rest because Enkidu has killed the lions; they are
+    described as shepherds who had watched the flocks during the night.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary identifies sib-ba-ri as a special weapon and, by reference
+    to seal cylinders, presumes it to be a dagger used by Enkidu when killing lions
+    and other animals.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The shepherds can sleep quietly after Enkidu becomes the guardian of the flocks;
+    an Assyrian version is cited where Enkidu is called a shepherd.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The commentary proposes that a difficult Hebrew term in Isaiah 7:20 may be
+    a loan-word related to Akkadian suhur and discusses hair and shaving glosses.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Enkidu
+  description: A hair-covered, animal-like figure whose hair is removed; later described
+    as killing lions and becoming guardian or shepherd of flocks.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Night shepherds
+  description: Shepherds accustomed to watching the flocks at night who can rest or
+    sleep after Enkidu kills the lions and guards the flocks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Lions
+  description: Animals identified by the commentary as la-bi; they are said to attack
+    and to have been killed by Enkidu.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Flocks
+  description: The flocks watched by night shepherds and later guarded by Enkidu.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Hair-covered animal-like man
+  assigned_to:
+  - fig:1
+  basis: Enkidu is described as covered all over with hair and like an animal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Civilized man after hair removal
+  assigned_to:
+  - fig:1
+  basis: The commentary states that removing Enkidu's hair converts him into a civilized
+    man.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Lion-killer
+  assigned_to:
+  - fig:1
+  basis: The night shepherds rest after Enkidu killed the lions, and seal cylinders
+    are cited depicting Enkidu killing lions and other animals.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Guardian or shepherd of flocks
+  assigned_to:
+  - fig:1
+  basis: The passage says Enkidu becomes the guardian of the flocks and cites an Assyrian
+    version calling him a shepherd.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Night watchers of flocks
+  assigned_to:
+  - fig:2
+  basis: The shepherds are described as those accustomed to watch the flocks during
+    the night.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Attacking animals or threat to flocks
+  assigned_to:
+  - fig:3
+  basis: The commentary identifies the animals as lions and connects the relevant
+    verb with attacking; Enkidu's killing of them allows shepherds to rest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: Protected flocks
+  assigned_to:
+  - fig:4
+  basis: The flocks are watched by night shepherds and later guarded by Enkidu.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: Body hair
+  literal_form: Hair covering Enkidu's body, removed as part of his conversion into
+    a civilized man.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Lions
+  literal_form: Lions identified in line 109 and killed by Enkidu.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Sibbaru weapon or dagger
+  literal_form: A special weapon, presumed to be a dagger, associated with Enkidu
+    killing lions and other animals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Flocks
+  literal_form: Flocks watched by shepherds during the night and later guarded by
+    Enkidu.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hair removal and civilizing transformation
+  summary: Enkidu, described as hairy all over and animal-like, has his hair removed
+    so that he becomes a civilized man.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lion killing and protection of flocks
+  summary: After Enkidu kills the lions, the night shepherds can rest or sleep, and
+    Enkidu is described as guardian or shepherd of the flocks; a dagger-like weapon
+    is associated with the lion-killing image.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hairy wild man civilized by removal of hair
+  taxonomy_refs: []
+  basis: The passage explicitly links Enkidu's animal-like bodily hair with his pre-civilized
+    state and says that removing the hair converts him into a civilized man.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is commentary and does not give the full narrative scene;
+    no supplied taxonomy family exactly names this hair-removal civilizing motif.
+- id: motif:2
+  label: Lion-slayer protects shepherds and flocks
+  taxonomy_refs: []
+  basis: The passage states that Enkidu killed the lions, allowing night shepherds
+    to rest, and identifies him as guardian of the flocks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The details are reconstructed through commentary on individual lines rather
+    than a continuous quoted narrative.
+- id: motif:3
+  label: Hero becomes shepherd or guardian after transformation
+  taxonomy_refs: []
+  basis: After the civilizing transformation and lion killing, Enkidu is described
+    as guardian of flocks and compared with an Assyrian version where he is called
+    a shepherd.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: Some supporting readings and parallels in the commentary involve restorations
+    and fragmentary evidence.
+comparison_claims:
+- id: claim:1
+  claim: The commentary proposes a linguistic similarity or possible borrowing between
+    Akkadian suhur/suhuru and a Hebrew term in Isaiah 7:20 in a context of hair and
+    shaving.
+  claim_level: linguistic_similarity
+  target: Isaiah 7:20 hair/shaving terminology
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: This is a philological comparison rather than a mythic motif comparison;
+    the commentary itself notes an objection involving the H-to-K change and frames
+    the proposal cautiously.
+- id: claim:2
+  claim: The commentary compares the Pennsylvania Tablet's Enkidu as guardian of flocks
+    with the Assyrian Gilgamesh tradition where Enkidu is called a shepherd, indicating
+    a similar function.
+  claim_level: same_function
+  target: Assyrian version of Gilgamesh, including Tablet II, 3a, 4 and possible fragment
+    K 8574 parallels
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The fragmentary parallel is uncertain; the commentary notes blurred
+    writing and possible alternative readings.
+- id: claim:3
+  claim: The commentary uses seal-cylinder images of Enkidu killing lions and other
+    animals with a dagger to support identifying sibbaru as the weapon in the tablet
+    passage.
+  claim_level: visual_similarity
+  target: Seal cylinders depicting Enkidu killing lions and other animals
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The visual comparison is reported through the commentary and is used
+    specifically for weapon identification, not for establishing a broader historical
+    motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2956-2959 within supplied range
+  quote_or_summary: Enkidu is described as covered "all over his body with hair" like
+    an animal; "To convert him into a civilized man, the hair is removed."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2965-2969 within supplied range
+  quote_or_summary: Line 109 is interpreted as referring to lions, not panthers, and
+    the associated verb is derived from garu, "to attack."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2971-2977 within supplied range
+  quote_or_summary: The "shepherds of the night" could rest because Enkidu had killed
+    the lions; they were shepherds accustomed to watching flocks at night.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2979-2984 within supplied range
+  quote_or_summary: Sib-ba-ri is interpreted as a special weapon; seal cylinders showing
+    Enkidu killing lions and other animals with a dagger are cited as support for
+    identifying it as a dagger.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2986-3001 within supplied range
+  quote_or_summary: The shepherds can sleep after Enkidu becomes the "guardian" of
+    the flocks; the Assyrian version is cited as calling Enkidu a nakid, "shepherd."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2928-2954 within supplied range
+  quote_or_summary: The commentary cautiously proposes that a difficult word in Isaiah
+    7:20 may be a loan-word from Akkadian suhur/suhuru in a hair/shaving context,
+    while noting an H-to-K phonetic objection.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 3006-3016 within supplied range
+  quote_or_summary: The commentary discusses a possible Assyrian fragment parallel
+    to Pennsylvania Tablet lines 111-114, but notes that the tiny fragment is blurred
+    and readings such as sib-ba-ri are uncertain.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily scholarly commentary rather than a continuous primary
+    narrative. Literal elements are clear, but several line readings and parallels
+    are explicitly conjectural or based on fragmentary evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No supplied taxonomy symbol IDs were assigned because the passage's key literal items are hair, lions, weapon/dagger, flocks, and shepherds, none of which match the provided symbol list. Candidate motifs are therefore left without taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l2923-l3018
+  passage_sha256=5d4e27e42c612880cc891f330affb8a66a005852d81723357426017392c94c81
+

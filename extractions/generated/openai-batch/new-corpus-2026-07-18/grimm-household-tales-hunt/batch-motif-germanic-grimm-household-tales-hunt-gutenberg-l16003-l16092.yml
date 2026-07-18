@@ -1,0 +1,562 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l16003-l16092
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 16003-16092
+  start: '16003'
+  end: '16092'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Earth-workers, come forth.”"
+  summary: 'The youngest King’s daughter repeatedly comforts the King’s son, persuades
+    him to eat, combs his hair until he sleeps, and uses a knotted handkerchief struck
+    three times on the earth to summon earth-workers. The earth-workers complete three
+    tasks: clearing a forest, cleansing and stocking a fish-pond, and clearing a briar-covered
+    mountain while building a furnished castle on it.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The King says that one of the girls must take food to the King’s son; the
+    two eldest refuse, so the youngest is forced to go.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the forest, the youngest daughter asks the King’s son how he is doing,
+    persuades him to eat despite his expectation that he will die, and offers to comb
+    his hair.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After she combs his hair, the King’s son becomes weary and falls asleep.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The King’s daughter knots her handkerchief, strikes the earth three times,
+    speaks the command for earth-workers to come forth, and little earth-men appear
+    asking what she commands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The earth-men gather their kindred, clear the forest, lay the wood in heaps
+    within three hours, report completion, and disappear after the King’s daughter
+    dismisses them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: 'After the forest is reported done, the King says he still cannot give his
+    daughter as wife and sets a new task: the fish-pond must be cleared of mud, made
+    mirror-bright, filled with every kind of fish, and completed by six o’clock.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At the fish-pond, the King’s son breaks the shovel and hoe in the mud and
+    becomes troubled, saying that he will certainly lose his head.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: For the fish-pond task, the youngest daughter again brings food, persuades
+    the King’s son to eat, combs his hair until he sleeps, summons earth-workers with
+    the knotted handkerchief and three strikes on the ground, and commands them to
+    clean and stock the pond.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The earth-workers complete the fish-pond in two hours, report that they have
+    done as commanded, and leave after the King’s daughter dismisses them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: 'The King acknowledges the fish-pond task but says he still cannot give his
+    daughter, and sets a third task: clear briars from a mountain and build a strong
+    furnished castle on top by six o’clock.'
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: For the mountain task, the King gives the King’s son a glass axe and glass
+    gimlet; the axe breaks when used on the first briar, and the gimlet cannot be
+    used.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The King’s son waits for his dearest to help him; she brings food at midday,
+    he eats, lets her comb his hair, and falls asleep.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:13
+  text: The King’s daughter again summons the earth-men, commands them to clear the
+    briars and build a furnished castle, and they complete the work before disappearing
+    at her dismissal.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: When the King’s son wakes and sees the completed work, he is very happy.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: King
+  description: Royal figure who sets tasks and says he cannot yet give his daughter
+    as wife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: King’s son
+  description: Youth assigned the tasks; his tools break, he fears death or failure,
+    falls asleep after the daughter combs his hair, and wakes to completed tasks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: youngest King’s daughter
+  description: Youngest daughter who brings food, persuades the King’s son to eat,
+    combs his hair, summons and dismisses earth-workers, and commands the tasks to
+    be completed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: two eldest girls
+  description: The two eldest refuse to take food to the King’s son.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: little earth-men / Earth-workers
+  description: Small earth-associated workers who come forth when summoned, ask what
+    the King’s daughter commands, gather their kindred, complete tasks, report back,
+    and disappear when dismissed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: task-setter withholding marriage
+  assigned_to:
+  - fig:1
+  basis: The King repeatedly says he cannot yet give his daughter and assigns further
+    tasks.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:2
+  label: task-bound suitor
+  assigned_to:
+  - fig:2
+  basis: The King’s son is assigned labor tasks connected with receiving the King’s
+    daughter as wife and reports their completion.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: helper and commander of earth-workers
+  assigned_to:
+  - fig:3
+  basis: The youngest daughter feeds and comforts the King’s son, puts him to sleep
+    by combing his hair, and commands the earth-workers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:4
+  label: prospective bride
+  assigned_to:
+  - fig:3
+  basis: The King says he cannot yet give his daughter to the King’s son as wife while
+    setting further tasks.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:5
+  label: refusing elder girls
+  assigned_to:
+  - fig:4
+  basis: The two eldest state that they will not take food to him.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: summoned laborers
+  assigned_to:
+  - fig:5
+  basis: The earth-workers appear at the King’s daughter’s command and complete the
+    forest, fish-pond, and castle tasks.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: food brought at noon or midday
+  literal_form: something to eat
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: hair-combing sleep gesture
+  literal_form: combing the King’s son’s hair until he sleeps
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: knotted white handkerchief
+  literal_form: white handkerchief with a knot tied in it
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: triple striking of the earth
+  literal_form: striking the earth or ground three times with the knotted handkerchief
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: earth or ground as emergence point
+  literal_form: earth or ground from which earth-workers come forth
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: sym:6
+  label: great forest to be cleared
+  literal_form: great forest cut down with wood laid in heaps
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:7
+  label: breaking glass tools
+  literal_form: glass shovel, hoe, glass axe, and glass gimlet associated with failed
+    labor attempts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:8
+  label: fish-pond made mirror-bright
+  literal_form: fish-pond cleared of mud, clear enough to reflect people, and filled
+    with every kind of fish
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:9
+  label: briar-covered mountain
+  literal_form: great mountain with briars to be cut down
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:10
+  label: furnished castle on the mountain
+  literal_form: strong castle on the mountain with furniture and fittings inside
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Forest task completed while the King’s son sleeps
+  summary: The youngest daughter brings food to the King’s son in the forest, persuades
+    him to eat, combs his hair until he sleeps, summons earth-workers, and commands
+    them to cut down the great forest and heap the wood. They complete the work and
+    disappear when dismissed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fish-pond task set and completed
+  summary: After the forest is done, the King sets the fish-pond task. The King’s
+    son’s tools break in the mud, but the youngest daughter repeats the feeding, combing,
+    sleep, and summoning sequence. The earth-workers clean the pond, make it reflective,
+    and fill it with fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Briar mountain cleared and castle built
+  summary: The King sets a third task requiring briars to be cut from a mountain and
+    a furnished castle to be built on top. The King’s son’s glass tools fail; the
+    youngest daughter again feeds him, combs him to sleep, summons the earth-men,
+    and commands them to clear the briars and build the castle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: three escalating bride-winning labor trials
+  taxonomy_refs:
+  - initiation
+  basis: 'The King repeatedly withholds his daughter and requires the King’s son to
+    complete successive tasks: clearing a forest, cleansing a fish-pond, and clearing
+    a mountain while building a furnished castle.'
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage frames the trials as conditions for marriage, but it does
+    not explicitly describe a formal initiation; the taxonomy reference is broad.
+- id: motif:2
+  label: helper maiden completes the suitor’s tasks through hidden workers
+  taxonomy_refs: []
+  basis: The youngest daughter provides comfort and food, combs the King’s son to
+    sleep, summons earth-workers, and commands them to complete each labor task.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The label summarizes a passage-internal pattern; no external tale-type
+    comparison is asserted.
+- id: motif:3
+  label: summoning earth-workers by knotted cloth and triple earth-strike
+  taxonomy_refs: []
+  basis: The King’s daughter repeatedly ties or uses a knot in her handkerchief, strikes
+    the earth or ground three times, and calls the earth-workers to appear; she later
+    dismisses them with the handkerchief.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage supports the repeated ritualized action, but no supplied taxonomy
+    reference directly matches it.
+- id: motif:4
+  label: labor accomplished while the beneficiary sleeps
+  taxonomy_refs: []
+  basis: In each task sequence, the King’s son falls asleep after the daughter combs
+    his hair and wakes after the earth-workers have completed the work.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage does not explain whether the sleep is magical or ordinary;
+    only the repeated sleep-and-completion sequence is recorded.
+- id: motif:5
+  label: fragile tools and impossible-seeming royal tasks
+  taxonomy_refs: []
+  basis: The King gives glass implements or tools that break or cannot be used, and
+    the King’s son becomes miserable or fears losing his head before receiving aid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage does not use the word impossible; difficulty is inferred from
+    tool failure, deadlines, and the King’s son’s distress.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16003-16013
+  quote_or_summary: The King orders one girl to take food; the two eldest refuse,
+    the youngest goes to the forest, speaks kindly to the King’s son, persuades him
+    to eat, and says she will comb his hair.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16015-16025
+  quote_or_summary: The daughter combs his hair so he sleeps, knots her handkerchief,
+    strikes the earth three times, summons earth-workers, orders the forest cut and
+    wood heaped, receives their report, and dismisses them.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 16026-16034
+  quote_or_summary: The King’s son reports the forest done; the King says he cannot
+    yet give his daughter as wife and sets the fish-pond task, with mud to be cleared,
+    fish added, and completion by six o’clock using a glass shovel.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 16035-16045
+  quote_or_summary: At the fish-pond the shovel and hoe break in the mud; the King’s
+    son is troubled and fears losing his head. The youngest daughter brings food,
+    persuades him to eat, combs his hair, and he sleeps.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 16045-16056
+  quote_or_summary: The daughter uses the knotted handkerchief to strike the ground
+    three times and summon earth-workers, orders the fish-pond cleaned, reflective,
+    and stocked with fish; the earth-workers finish in two hours, report, and are
+    dismissed.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 16058-16062
+  quote_or_summary: The King’s son wakes to find the fish-pond complete, comes to
+    the house at six, and tells the King it is done.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 16064-16076
+  quote_or_summary: 'The King says he still cannot give his daughter and sets another
+    task: clear briars from a mountain and build a strong furnished castle on top.
+    He gives a glass axe and glass gimlet; the axe breaks and the gimlet cannot be
+    used, so the King’s son waits for help.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 16077-16092
+  quote_or_summary: At midday the daughter brings food; the King’s son eats, has his
+    hair combed, and sleeps. She summons earth-men, commands the briars cut and a
+    furnished castle built, receives their report, dismisses them, and the King’s
+    son wakes happy.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is clear from repeated passage actions. Motif candidates
+    are passage-internal and cautious; only the broad initiation taxonomy is used.
+    No comparison claims were added because the passage itself provides no explicit
+    cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external tale-type, ATU, or comparative claims were inferred beyond the supplied passage and available taxonomy references.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l16003-l16092
+  passage_sha256=8899ee24c6a21ec5cf8539a621d3a644c5a8c39368eb5cbdd0ba56b1a8cacca5
+

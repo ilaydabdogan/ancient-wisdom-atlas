@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.native-american-zuni-folk-tales-cushing-gutenberg-l7422-l7528
+source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+passage_locator:
+  label: HOW THE COYOTES TRIED TO STEAL THE CHILDREN OF THE SACRED DANCE / THE COYOTE
+    AND THE BEETLE / HOW THE COYOTE DANCED WITH THE BLACKBIRDS / HOW THE TURTLE OUT
+    HUNTING DUPED THE COYOTE; lines 7422-7528
+  start: '7422'
+  end: '7528'
+  translation: Zuni Folk Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“Ingenuity enabled me to kill a deer. Ingenuity enabled me to retain the
+    deer.”"
+  summary: The Coyote finds the Turtle in a tree with the deer meat. The Turtle persuades
+    the Coyote family to lie below for ribs, drops the ribs onto them, and kills most
+    of them. One cub escapes; another hungry cub is lured into the tree, eats, is
+    sent toward pitch described as water, falls, and dies. The tale ends by explaining
+    marks on the descendants of the escaped cub.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Coyote sees the pack of meat in the top of a tree with the Turtle resting
+    on it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Coyote accuses the Turtle of stealing meat from the deer that the Coyote
+    says he killed; the Coyote's family agrees with the accusation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Turtle says he hauled the meat into the tree to keep it from being stolen
+    and tells the Coyotes to arrange themselves below so he can throw down ribs.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Coyotes lie on their backs under the branch and reach toward the meat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Turtle drops a pair of ribs from the branch onto the Coyotes, crushing
+    the wind out of them and killing most of them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two little cubs escape the falling ribs; one runs away and the other remains
+    hungry at a distance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Turtle invites the hungry cub up into the tree for a feast and helps him
+    climb by grabbing his top-knot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The hungry cub eats until overfull and asks for water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Turtle points to pitch at the end of a pine branch and calls it a drop
+    of water from a tree spring.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The cub walks onto the swaying branch toward the supposed water, loses his
+    balance, falls to the ground, and is killed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The Turtle states that ingenuity enabled him to kill a deer and retain the
+    deer.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The escaped little Coyote has numerous descendants who are described as having
+    pimples on their faces and blotches inside their lips.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: old Turtle
+  description: A Turtle who is in the tree with the meat, drops ribs onto the Coyotes,
+    helps one cub climb, and directs him toward pitch described as water.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the Coyote
+  description: The Coyote who says he killed the deer, accuses the Turtle of stealing
+    the meat, and is among the Coyotes struck by the falling ribs.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Coyote family
+  description: The wife, children, parents, brothers, and sisters addressed or referred
+    to in the passage; most lie below the tree and are killed by the falling ribs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: escaped little Coyote
+  description: One of two little cubs who survive the falling ribs; he runs away and
+    later has numerous descendants.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: hungry little Coyote
+  description: The other surviving cub, who returns hungry, climbs the tree, eats
+    meat, seeks water, and falls to his death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive planner
+  assigned_to:
+  - fig:1
+  basis: The Turtle arranges the Coyotes below the branch, drops ribs on them, and
+    later calls pitch water to lure a cub onto a branch.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: ingenuity speaker
+  assigned_to:
+  - fig:1
+  basis: The Turtle explicitly says ingenuity enabled him to kill and retain the deer.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: claimant hunter
+  assigned_to:
+  - fig:2
+  basis: The Coyote says he killed the deer and that the Turtle stole the meat.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: victims beneath the tree
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Coyotes lie beneath the tree to receive ribs and are struck when the
+    Turtle drops them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: escaped ancestor
+  assigned_to:
+  - fig:4
+  basis: One little Coyote runs away and is later said to have numerous descendants.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:6
+  label: hungry duped climber
+  assigned_to:
+  - fig:5
+  basis: The surviving hungry cub climbs into the tree, eats, follows the Turtle's
+    directions toward supposed water, and falls.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree as elevated place of meat and danger
+  literal_form: tree / pine tree branches
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: deer meat and ribs
+  literal_form: pack of meat and pair of ribs
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: false water
+  literal_form: pitch described as a gleaming drop of water
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: descendant markings
+  literal_form: pimples on faces and blotches inside lips
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Coyote discovers Turtle with the meat
+  summary: The Coyote sees the Turtle in the tree on the pack of meat and accuses
+    him of stealing the meat from the deer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ribs dropped on the Coyote family
+  summary: The Turtle tells the Coyotes to lie beneath the tree for ribs, then drops
+    the ribs onto them, killing most and leaving two cubs alive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hungry cub climbs and feasts
+  summary: The Turtle invites the hungry surviving cub into the tree, helps him climb,
+    and the cub eats until he is overfull.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pitch mistaken for water and fatal fall
+  summary: The Turtle identifies pitch as water from a tree spring; the cub goes out
+    on the branch toward it, loses balance, falls, and dies.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Explanation of descendants' markings
+  summary: The escaped little Coyote is said to have many descendants with facial
+    pimples and lip blotches.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: trickster retains contested food through deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Turtle is accused of taking the meat, tells the Coyotes he is protecting
+    it, arranges them below the tree, and uses the ribs to kill them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage concerns contested deer meat; it does not present the theft
+    as sacred.
+- id: motif:2
+  label: false promise of nourishment leads to death
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Turtle invites the hungry cub to feast, then describes pitch as water
+    and sends him onto a branch, where he falls and dies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The deception is explicit in the passage because the text states the supposed
+    water was really pitch.
+- id: motif:3
+  label: ingenuity as means of victory
+  taxonomy_refs:
+  - wisdom
+  basis: The Turtle concludes by saying ingenuity enabled him to kill a deer and retain
+    the deer.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is the Turtle's own statement within the tale, not necessarily an
+    external moral judgment.
+- id: motif:4
+  label: etiological origin of animal markings
+  taxonomy_refs: []
+  basis: The tale ends by connecting the escaped little Coyote's descendants with
+    pimples on their faces and blotches inside their lips.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly names etiological animal-trait
+    explanations.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7422-7528, opening discovery and accusation
+  quote_or_summary: The Coyote sees the meat in the top of the tree with the Turtle
+    resting on it, then says, “I killed that deer; you only helped me skin him; and
+    here you have stolen all the meat.”
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 7422-7528, Turtle offers ribs
+  quote_or_summary: The Turtle says he hauled the meat up to keep it from being stolen
+    and tells the Coyotes to spread out, lie on their backs, and prepare to catch
+    ribs.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7422-7528, falling ribs
+  quote_or_summary: The Turtle drops the ribs from the branch; they fall across the
+    Coyotes' bodies, leaving most dead, while two little cubs survive.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7422-7528, cub climbs and eats
+  quote_or_summary: The Turtle invites the hungry surviving cub up to feast, helps
+    him climb by the top-knot, and the cub eats until he is overfull and asks for
+    water.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 7422-7528, false water and fall
+  quote_or_summary: The Turtle points to a supposed “drop of water” at the end of
+    a pine branch, though the text says “It was really pitch”; the cub goes farther
+    out, loses balance, falls, and is killed.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 7422-7528, Turtle's conclusion
+  quote_or_summary: "“Ingenuity enabled me to kill a deer. Ingenuity enabled me to
+    retain the deer.”"
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 7422-7528, etiological ending
+  quote_or_summary: The text says one little Coyote ran away, had numerous descendants,
+    and that since then they have pimples where mustaches grow and blotches inside
+    their lips like dogs.
+  source_text_path: texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and figures are explicit in the passage. Motif labels are
+    cautious and limited to the supplied taxonomy where supported. No comparison claims
+    were added because the passage does not itself compare to another tradition or
+    corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to provided motif families and symbols.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:native-american-zuni-folk-tales-cushing-gutenberg__l7422-l7528
+  passage_sha256=bfa3f685e18b0baaf007772e2ee8550131988cbd4ad631c669f6bbe1dba357e2
+

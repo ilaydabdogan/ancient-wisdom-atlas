@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg-l3328-l3367
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+passage_locator:
+  label: PENNSYLVANIA TABLET. / TRANSLITERATION. / TRANSLATION. / COMMENTARY ON THE
+    PENNSYLVANIA TABLET.; lines 3328-3367
+  start: '3328'
+  end: '3367'
+  translation: An Old Babylonian Version of the Gilgamesh Epic
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Commentary on the Pennsylvania Tablet explains readings concerning Gilgamesh
+    as unique, Ninsun as Gilgamesh's mother with the title "wild cow of the stall,"
+    Enkidu's reassurance that Gilgamesh is destined for kingship decreed by Enlil,
+    a parallel in which Enlil designates Humbaba/Huwawa to inspire terror, and source-critical
+    notes about Enlil, Marduk, and a conjectural colophon reading.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary says that the term applied to Gish/Gilgamesh designates him
+    as "unique," not as an ordinary man.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary identifies "wild cow of the stall" as a title for Ninsun and
+    identifies Ninsun as Gilgamesh's mother.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary says Enkidu comforts his rival by telling him that he is destined
+    for a career above that of the ordinary man.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary says Gilgamesh is to be a king and, in the ancient sense, a
+    representative of the deity, with kingship decreed for him by Enlil.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary says Humbaba or Huwawa is designated by Enlil to inspire terror
+    among men.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The commentary treats Enlil's position as evidence for an early origin of
+    the epic before Hammurabi and says that a Hammurabi-period origin would have introduced
+    Marduk instead of Enlil.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The commentary says the colophon term may indicate that the copy was enlarged,
+    but it explicitly marks the proposed restoration as conjectural.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gish / Gilgamesh
+  description: Called unique; described as Enkidu's rival; said to be destined above
+    the ordinary man and for kingship decreed by Enlil.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Enkidu
+  description: Described as comforting his rival by telling him of his exceptional
+    destiny.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Ninsun
+  description: Identified as Gilgamesh's mother and associated with the title "wild
+    cow of the stall."
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Enlil
+  description: Said to decree kingship for Gilgamesh and to designate Humbaba/Huwawa
+    to inspire terror; also described as the patron deity of Nippur and general head
+    of the pantheon in the commentary's source-critical argument.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Hu(m)baba / Huwawa
+  description: Said to be designated by Enlil to inspire terror among men.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: unique figure
+  assigned_to:
+  - fig:1
+  basis: The commentary says the term applied to Gish designates him as unique.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: destined king
+  assigned_to:
+  - fig:1
+  basis: The commentary says he is destined above ordinary men and that kingship is
+    decreed for him by Enlil.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: representative of deity
+  assigned_to:
+  - fig:1
+  basis: The commentary says he is to be a king in the ancient sense as representative
+    of the deity.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: comforting rival
+  assigned_to:
+  - fig:2
+  basis: The commentary says Enkidu comforts his rival by telling him his destiny.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mother with bovine title
+  assigned_to:
+  - fig:3
+  basis: The commentary calls Ninsun Gilgamesh's mother and notes the title "wild
+    cow of the stall."
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: decreeing divine authority
+  assigned_to:
+  - fig:4
+  basis: Enlil decrees Gilgamesh's kingship and designates Humbaba/Huwawa for a terror-inspiring
+    function.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: terror-inspiring appointee
+  assigned_to:
+  - fig:5
+  basis: The commentary says Humbaba/Huwawa is designated by Enlil to inspire terror
+    among men.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wild cow of the stall
+  literal_form: Bovine title or epithet applied to Ninsun.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Enkidu reassures Gilgamesh about royal destiny
+  summary: The commentary describes Enkidu comforting Gilgamesh by telling him that
+    he is destined for a career beyond ordinary men and for kingship decreed by Enlil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Enlil appoints Humbaba/Huwawa to inspire terror
+  summary: In a cited parallel, the commentary says Enlil designates Humbaba/Huwawa
+    to inspire terror among men.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Ninsun's maternal title is glossed
+  summary: The commentary notes the title "wild cow of the stall" for Ninsun and identifies
+    her as Gilgamesh's mother.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Divinely decreed kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The commentary says Gilgamesh is to be king and that kingship is decreed
+    for him by Enlil.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is extracted from scholarly commentary on the tablet rather than
+    from a continuous quoted narrative passage.
+- id: motif:2
+  label: Exceptional destiny above ordinary men
+  taxonomy_refs: []
+  basis: Gilgamesh is described as unique and as destined for a career above that
+    of the ordinary man.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy does not contain a direct category for heroic exceptional
+    status; no broader hero-type classification is assigned.
+- id: motif:3
+  label: Divine appointment of a terror-inspiring being
+  taxonomy_refs: []
+  basis: The commentary says Enlil designates Humbaba/Huwawa to inspire terror among
+    men.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif is mentioned as a cited parallel from other Gilgamesh witnesses,
+    not as the main Pennsylvania Tablet episode in this passage.
+- id: motif:4
+  label: Maternal bovine epithet
+  taxonomy_refs: []
+  basis: Ninsun, identified as Gilgamesh's mother, bears the title "wild cow of the
+    stall."
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supplies the epithet but does not explain its symbolic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Enlil's decree of Gilgamesh's kingship with
+    Enlil's designation of Humbaba/Huwawa to inspire terror, supporting a same-function
+    comparison in which Enlil assigns mythic roles or offices.
+  claim_level: same_function
+  target: Humbaba/Huwawa designation in the Assyrian version Tablet IV and Yale tablet
+    line 137, as cited by the commentary
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives the comparison through commentary and citation, not
+    through a full quotation of the parallel tablet text.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3328-3329
+  quote_or_summary: '"istn" applied to Gish designates him as "unique," not as "an
+    ordinary man."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 3331-3334
+  quote_or_summary: The commentary notes the title "wild cow of the stall" for Ninsun
+    and refers to Ninsun as Gilgamesh's mother.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized with a short phrase.
+- id: ev:3
+  type: summary
+  locator: lines 3336-3345
+  quote_or_summary: Enkidu comforts his rival by saying he is destined above ordinary
+    men; the commentary says he is to be king, a representative of deity, with kingship
+    decreed by Enlil.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3345-3348
+  quote_or_summary: The commentary states that Humbaba/Huwawa is similarly designated
+    by Enlil to inspire terror among men, citing the Assyrian version and Yale tablet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3348-3357
+  quote_or_summary: The commentary says Enlil's position points to an origin when
+    the patron deity of Nippur was acknowledged as head of the pantheon, before Hammurabi;
+    otherwise Marduk would have appeared instead of Enlil.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3359-3367
+  quote_or_summary: The commentary discusses a broken colophon line, proposes that
+    the term may indicate the copy was enlarged, and marks the restoration as conjectural
+    while hoping for more Old Babylonian tablets.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly philological and source-critical commentary rather
+    than a continuous mythic narrative, but it contains clear statements about figures,
+    divine decree, royal destiny, and one explicit comparison to another Gilgamesh
+    witness.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external knowledge was used beyond the supplied passage and available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:mesopotamian-gilgamesh-old-babylonian-jastrow-clay-gutenberg__l3328-l3367
+  passage_sha256=8474663beb792f4fa5391da185b43fa1e75b9820eb5ced43661510cfbb02b63c
+

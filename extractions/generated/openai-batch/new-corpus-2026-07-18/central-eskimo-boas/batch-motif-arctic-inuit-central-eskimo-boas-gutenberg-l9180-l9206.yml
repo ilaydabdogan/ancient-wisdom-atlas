@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l9180-l9206
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: KIVIUNG. / ORIGIN OF THE NARWHAL. / THE VISITOR. / THE FUGITIVE WOMEN.; lines
+    9180-9206
+  start: '9180'
+  end: '9206'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“two women without the company of any men lived all by themselves and were
+    never in want”"
+  summary: Two pregnant women quarrel with their husbands, leave their kin, settle
+    at Igdluqdjuaq, build a house from whale ribs, sod, and turf, and sustain themselves
+    through trapping, scavenged sea-mammal carcasses, deer, and salmon. Their fathers
+    later find them living comfortably and return home with the story. The visible
+    house remains explain the place-name Igdluqdjuaq, “The Large House.”
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two women who were pregnant quarreled with their husbands and fled from their
+    families and friends in order to live by themselves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After a long journey, the women reached Igdluqdjuaq in summer and decided
+    to remain there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The women found sod, turf, and large whale ribs on the beach and built a firm
+    house by filling a bone structure with sod and turf.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The women made traps and caught enough foxes to provide skins for their clothing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: They ate meat from drifted seal or whale carcasses and burned the blubber.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Near the hut was a deep, narrow deer pass where they stretched a rope so passing
+    deer became entangled and strangled.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A salmon creek near the house also supplied abundant food.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: In winter the women’s fathers came searching for their lost daughters; the
+    women cried when they saw the sledge because they did not want to return to their
+    husbands.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fathers were glad to find the women comfortable, stayed two nights, and
+    returned home to report that two women lived alone without men and were never
+    in want.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The house was said still to be visible, and the place was called Igdluqdjuaq,
+    meaning “The Large House.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: two pregnant women
+  description: Two women with child who flee from husbands, families, and friends,
+    settle at Igdluqdjuaq, build a house, and obtain food and clothing resources by
+    themselves.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: husbands of the women
+  description: The husbands with whom the pregnant women quarrel; the women are later
+    unwilling to return to them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: fathers of the women
+  description: The fathers who search for their daughters in winter, visit their house,
+    and report the story at home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: fugitives from marital households
+  assigned_to:
+  - fig:1
+  basis: The women quarrel with their husbands and flee from families and friends
+    to live by themselves.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-sufficient household builders and providers
+  assigned_to:
+  - fig:1
+  basis: They build a house and secure clothing and food through fox traps, sea-mammal
+    carcasses, deer, and salmon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: absent husbands
+  assigned_to:
+  - fig:2
+  basis: They are present as the spouses from whom the women flee and to whom the
+    women do not wish to return.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: searching kin and witnesses
+  assigned_to:
+  - fig:3
+  basis: The fathers come searching, find the women comfortable, stay two nights,
+    and report the women’s independent life.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Igdluqdjuaq / The Large House
+  literal_form: A house built from whale ribs, sod, and turf at Igdluqdjuaq, later
+    remembered in the place-name meaning “The Large House.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: rope across the deer pass
+  literal_form: A rope stretched across a deep, narrow deer pass to entangle and strangle
+    deer.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: salmon creek
+  literal_form: A creek near the house that furnished abundant salmon food.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Quarrel and flight
+  summary: Two pregnant women quarrel with their husbands and leave their families
+    and friends to live independently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Settlement at Igdluqdjuaq
+  summary: The women arrive at Igdluqdjuaq in summer, find building materials on the
+    beach, and construct a sturdy house from whale ribs, sod, and turf.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Independent subsistence
+  summary: The women obtain skins and food through fox trapping, drifted carcasses,
+    deer caught at a roped pass, and a nearby salmon creek.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fathers find the women
+  summary: The women’s fathers come in winter, find the women comfortable, stay two
+    nights, and return home with the report that the two women lived without men and
+    lacked nothing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Place-name explanation
+  summary: The still-visible house is given as the reason the place is called Igdluqdjuaq,
+    “The Large House.”
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Flight from husbands and kin
+  taxonomy_refs:
+  - departure
+  basis: The passage centers on two pregnant women leaving husbands, families, and
+    friends after a quarrel in order to live by themselves.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy ref “departure” is broad; the passage frames the
+    act as domestic flight rather than a formal heroic journey.
+- id: motif:2
+  label: Self-sufficient female pair living without men
+  taxonomy_refs:
+  - survivor_pair
+  basis: The fathers report that two women lived by themselves without male company
+    and were never in want, after the passage details their independent housing and
+    subsistence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The pair are not survivors of a world catastrophe or disaster in this
+    passage; the taxonomy ref is used only for the paired independent survival pattern.
+- id: motif:3
+  label: Visible remains explain a place-name
+  taxonomy_refs: []
+  basis: The narrative ends by saying the house may still be seen and that the place
+    is therefore called Igdluqdjuaq, “The Large House.”
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy ref directly matches an etiological place-name motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9180-9184
+  quote_or_summary: "“two women who were with child quarreled with their husbands
+    and fled from their families and friends to live by themselves.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 9184-9191
+  quote_or_summary: The women arrive at Igdluqdjuaq in summer, find sod, turf, and
+    large whale ribs on the beach, and build a sturdy house of bones filled with sod
+    and turf.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 9191-9200
+  quote_or_summary: They obtain fox skins with traps, eat meat from drifted seal or
+    whale carcasses and burn blubber, catch deer with a rope across a narrow pass,
+    and draw food from a nearby salmon creek.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 9201-9205
+  quote_or_summary: In winter their fathers search for them; the women cry because
+    they do not want to return to their husbands; the fathers stay two nights and
+    report that two women live without men and are never in want.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 9205-9206
+  quote_or_summary: "“the house may still be seen and therefore the place is called
+    Igdluqdjuaq (The Large House).”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif taxonomy
+    assignments are cautious because the available motif family list is broad and
+    does not include a direct place-name or autonomous-household category. No external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external traditions or unsupported comparisons added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l9180-l9206
+  passage_sha256=0ae31e44e266f7305a3bb81e2f1622d272c2686bd0fdd9c44c059bcb7c120214
+

@@ -1,0 +1,529 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l8868-l8941
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 8868-8941
+  start: '8868'
+  end: '8941'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Frederick leaves Catherine to prepare food and drink. Catherine loses a
+    sausage to the dog, lets the beer cask empty into the cellar, and spreads flour
+    over the spilled beer. Frederick then hides their gold under a cow's manger while
+    calling it counters. Catherine tells pedlars where the counters are; they take
+    the gold and leave earthenware, which she damages and displays as decoration.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Frederick and Catherine are described as married young people living together.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Frederick goes to plough and asks Catherine to have meat and a fresh drink
+    ready when he returns.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Catherine begins frying a sausage with butter on the fire, then leaves it
+    there while she goes to the cellar to draw beer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dog takes the sausage from the pan, and Catherine chases it into the field
+    before giving up.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Because Catherine has not turned the tap, beer keeps running until the cask
+    is empty and the cellar is filled with spilled beer.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Catherine brings flour from the garret, knocks over the can, and spreads meal
+    over the cellar floor.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Catherine tells Frederick the sequence of losses, and Frederick says she should
+    not have let the sausage, beer, and flour be lost.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Frederick changes thalers into gold, calls them counters, puts them in a pot,
+    and buries them under the cow's manger while warning Catherine to stay away.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Pedlars come with cheap earthen bowls and pots, and Catherine offers them
+    the yellow counters because she says she has no money.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Catherine directs the pedlars to dig under the cow's manger, saying she herself
+    is not allowed to go there.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The rogues dig up the gold, run away, and leave pots and bowls in the house.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Catherine knocks the bottoms out of the pots and places them as ornaments
+    on the paling around the house.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: Frederick says the counters were pure gold and all their wealth; Catherine
+    replies that he should have forewarned her.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Frederick
+  description: A man married to Catherine; he goes ploughing, asks for food and drink,
+    later hides gold, and rebukes Catherine for the losses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:2
+  name_or_label: Catherine / Kate
+  description: Frederick's wife; she prepares the meal, leaves tasks unattended, speaks
+    with pedlars, and treats the hidden gold as counters.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Spitz dog
+  description: The dog that is not fastened up, takes the sausage in its mouth, and
+    runs through the field with it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Pedlars / rogues
+  description: Travelling sellers with earthen bowls and pots; after Catherine tells
+    them where the yellow counters are, they dig up the gold, flee, and leave their
+    wares behind.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: husband who instructs and later corrects
+  assigned_to:
+  - fig:1
+  basis: Frederick gives Catherine household instructions, later says she should not
+    have lost the food, drink, flour, and gold.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:10
+- id: role:2
+  label: wife managing household tasks
+  assigned_to:
+  - fig:2
+  basis: Catherine is left to prepare meat and drink and handles the cellar, flour,
+    and kitchen goods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: literal keeper of a prohibition
+  assigned_to:
+  - fig:2
+  basis: Frederick tells Catherine not to go to the buried gold, and she later says
+    the pedlars had to dig it out because she was not allowed to go there herself.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:4
+  label: animal that removes food
+  assigned_to:
+  - fig:3
+  basis: The dog takes the sausage from the pan and carries it away.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: rogues who take hidden gold
+  assigned_to:
+  - fig:4
+  basis: The passage calls them rogues after they dig up the pure gold, take it, and
+    run away.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: pedlars with earthenware
+  assigned_to:
+  - fig:4
+  basis: They enter the village with cheap earthen bowls and pots and ask Catherine
+    if she wants to bargain.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: cooking fire
+  literal_form: fire under the frying-pan
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sausage in the frying-pan
+  literal_form: sausage frying with butter in a pan
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: running beer
+  literal_form: beer running from the cask through the tap into the can and then into
+    the cellar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: flour spread over beer
+  literal_form: sack of fine wheat flour or meal thrown and strewn over the cellar
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: hidden gold called counters
+  literal_form: gold changed from thalers and described to Catherine as counters for
+    games
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: sym:6
+  label: cow's manger hiding place
+  literal_form: stable location under the cow's manger where the pot of gold is buried
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: earthen bowls and pots
+  literal_form: cheap earthen bowls and pots left by the pedlars
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:8
+  label: paling decorated with damaged pots
+  literal_form: paling around the house with bottomless pots set on it as ornaments
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Meal preparation and the dog's theft
+  summary: Frederick leaves to plough after asking for food and drink. Catherine fries
+    a sausage, leaves it to draw beer, and the dog takes the sausage away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Beer flood and flour remedy
+  summary: While Catherine chases the dog, the beer continues running until the cask
+    is empty. She tries to handle the spill by using flour from the garret and spreads
+    meal over the cellar.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Frederick's return and rebuke
+  summary: Catherine reports the loss of sausage, beer, and flour. Frederick tells
+    her that she should not have done these things and decides to look after matters
+    more closely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Gold hidden as counters
+  summary: Frederick changes thalers into gold, calls them counters, buries them in
+    a pot under the cow's manger, and warns Catherine not to go there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Pedlars take the gold
+  summary: Pedlars arrive with earthenware. Catherine offers them the yellow counters
+    and directs them to the hiding place. They dig up the gold and run away, leaving
+    their pots and bowls.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: Earthenware ornaments and final revelation
+  summary: Catherine damages the pots and uses them as fence ornaments. Frederick
+    returns, learns that the gold was traded away, and says it was all their wealth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: cascading domestic mishap
+  taxonomy_refs: []
+  basis: A sequence of unattended tasks leads from frying a sausage to drawing beer,
+    chasing the dog, losing all the beer, and wasting flour in the attempted cleanup.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a comic folktale pattern in the passage; no broader mythological
+    taxonomy mapping is asserted.
+- id: motif:2
+  label: loss concealed by a larger loss
+  taxonomy_refs: []
+  basis: Catherine tries to prevent Frederick from noticing the spilled beer by using
+    the stored flour, but the action consumes the flour as well.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The label summarizes the plot function and does not claim a specific external
+    motif index.
+- id: motif:3
+  label: disguised wealth misunderstood as ordinary counters
+  taxonomy_refs: []
+  basis: Frederick calls the gold counters for games; Catherine later offers the yellow
+    counters to pedlars, and Frederick reveals they were pure gold and all their wealth.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The passage supports misunderstanding of named objects; it does not present
+    a sacred or supernatural object.
+- id: motif:4
+  label: prohibition obeyed in form but defeated in effect
+  taxonomy_refs: []
+  basis: Catherine is told to stay away from the buried counters, so she sends the
+    pedlars to dig them out and later says she did not go there herself.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: This is an interpretive plot-pattern label based on the literal wording
+    of the prohibition and response.
+- id: motif:5
+  label: rogues profit from naive disclosure
+  taxonomy_refs: []
+  basis: The pedlars learn from Catherine where the yellow counters are, dig up the
+    gold, and run away with it.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The term naive is inferred from Catherine's treatment of gold as counters;
+    the passage explicitly calls the pedlars rogues.
+- id: motif:6
+  label: misuse of acquired household goods as decoration
+  taxonomy_refs: []
+  basis: After the pedlars leave pots and bowls, Catherine knocks the bottoms out
+    of every pot and sets them as ornaments on the house paling.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a local plot motif from the passage rather than a mapped taxonomy
+    item.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8868-8873
+  quote_or_summary: Frederick and Catherine are married young people; Frederick leaves
+    to plough and asks Catherine to prepare meat and a fresh drink.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8874-8881
+  quote_or_summary: Catherine takes a sausage from the chimney, fries it with butter
+    on the fire, then goes to the cellar with a can to draw beer.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8882-8890
+  quote_or_summary: Catherine remembers the dog is loose; the Spitz has already taken
+    the sausage, and she chases it into the field before saying what is gone is gone.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8891-8894
+  quote_or_summary: The beer continues running because Catherine has not turned the
+    tap, and the whole cask empties into the cellar.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 8895-8906
+  quote_or_summary: Catherine fetches fine wheat flour from the garret, throws it
+    down, knocks over the can, strews meal over the cellar, and is pleased by the
+    result.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 8906-8916
+  quote_or_summary: Frederick returns; Catherine recounts the sausage, beer, and flour
+    losses, and Frederick says she should not have done these things.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 8917-8921
+  quote_or_summary: Frederick changes thalers into gold, calls them counters, buries
+    them in a pot under the cow's manger, and warns Catherine to keep away.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 8922-8931
+  quote_or_summary: Pedlars with cheap earthenware arrive; Catherine offers yellow
+    counters and directs them to the stable; the rogues dig up the gold, flee, and
+    leave pots and bowls.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: lines 8931-8934
+  quote_or_summary: Catherine knocks the bottoms out of the pots and sets them as
+    ornaments on the paling around the house.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+- id: ev:10
+  type: summary
+  locator: lines 8934-8941
+  quote_or_summary: Frederick sees the decorations; Catherine explains the bargain
+    for the counters, and Frederick says the counters were pure gold and all their
+    wealth.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied public-domain passage. Motif labels
+    describe local plot patterns; no external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text, tradition, or named motif family.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l8868-l8941
+  passage_sha256=fce4b7a43f0a1e8d7a2cb2fced551b1b3377bc316547477e03e32615465e4b32
+

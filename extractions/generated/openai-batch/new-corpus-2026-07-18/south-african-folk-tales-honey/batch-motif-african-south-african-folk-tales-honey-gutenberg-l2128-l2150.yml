@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2128-l2150
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE WHITE MAN AND SNAKE / ANOTHER VERSION OF THE SAME FABLE / CLOUD-EATING
+    / LION'S ILLNESS; lines 2128-2150
+  start: '2128'
+  end: '2150'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Lion is ill and receives visitors. Jackal stays away after noticing that
+    the tracks of visitors do not turn back. Hyena accuses Jackal and brings him to
+    Lion. Jackal says he consulted a witch doctor, who prescribed wearing Hyena's
+    warm skin as medicine. Lion follows the advice, skins Hyena, and puts on the skin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lion is described as ill, and others go to see him in his suffering.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jackal does not go to see Lion because the traces of those who visited did
+    not turn back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hyena accuses Jackal of not wanting to come and look at Lion's suffering.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Lion sends Hyena to catch Jackal, and Hyena brings Jackal to Lion.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lion asks Jackal why he did not come to see him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Jackal says he went to consult a witch doctor about medicine for Lion's pain.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jackal reports that the doctor advised Lion to take Hyena, draw off her skin,
+    and wear it while warm in order to recover.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Lion follows Jackal's advice, seizes Hyena, draws her skin over her ears while
+    she howls, and puts the skin on.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lion
+  description: An ill figure who receives visitors, questions Jackal, and acts on
+    Jackal's reported medical advice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Jackal
+  description: A figure who avoids visiting Lion after observing non-returning tracks,
+    is brought by Hyena, and gives Lion a reported remedy involving Hyena's skin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Hyena
+  description: A figure who accuses Jackal, catches and brings Jackal to Lion, and
+    is then skinned by Lion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: witch doctor
+  description: A reported healer whom Jackal says he consulted and who is said to
+    prescribe Hyena's warm skin as medicine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ill authority receiving visitors
+  assigned_to:
+  - fig:1
+  basis: Lion is ill, receives visits, sends Hyena to catch Jackal, and later acts
+    on Jackal's advice.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: cautious speaker who redirects danger
+  assigned_to:
+  - fig:2
+  basis: Jackal avoids Lion after reading the tracks and later gives a speech that
+    shifts Lion's action toward Hyena.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: accuser and punished captor
+  assigned_to:
+  - fig:3
+  basis: Hyena accuses Jackal, catches him for Lion, and is then seized and skinned.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: reported medical adviser
+  assigned_to:
+  - fig:4
+  basis: Jackal says the witch doctor advised using Hyena's warm skin as medicine
+    for Lion.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: non-returning tracks
+  literal_form: traces of visitors going to Lion that did not turn back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: warm Hyena skin as medicine
+  literal_form: Hyena's skin drawn off and worn while still warm
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ill Lion and Jackal's absence
+  summary: Lion is ill and others visit him, but Jackal stays away because the tracks
+    of visitors do not return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hyena accuses and captures Jackal
+  summary: Hyena accuses Jackal before Lion, and Lion sends Hyena to catch and bring
+    Jackal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Jackal gives the reported remedy
+  summary: When questioned, Jackal says he consulted a witch doctor who prescribed
+    Hyena's warm skin as a cure for Lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Lion uses Hyena's skin
+  summary: Lion seizes Hyena, removes her skin while she howls, and puts it on.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: danger recognized from tracks that do not return
+  taxonomy_refs:
+  - wisdom
+  basis: Jackal infers danger from the fact that visitors' traces go to Lion but do
+    not turn back.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage gives a practical
+    inference rather than an explicit teaching about wisdom.
+- id: motif:2
+  label: trickster-like reversal against an accuser
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After Hyena accuses and captures Jackal, Jackal's reported remedy causes
+    Lion to punish Hyena instead.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call Jackal a trickster; the label is
+    inferred from the reversal of danger through speech.
+- id: motif:3
+  label: animal skin used as curative covering
+  taxonomy_refs: []
+  basis: Jackal reports a prescription that Lion should wear Hyena's skin while it
+    is still warm, and Lion puts it on.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as Jackal's report and Lion's action; it does
+    not confirm the cure's effectiveness.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2128-2131
+  quote_or_summary: Lion is ill, and others go to see him in his suffering.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2131-2133
+  quote_or_summary: Jackal does not visit because the traces of those who went to
+    see Lion did not turn back.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2133-2139
+  quote_or_summary: Hyena accuses Jackal of refusing to visit Lion; Lion sends Hyena
+    to catch Jackal, and Hyena brings him.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2141-2148
+  quote_or_summary: Jackal says he consulted a witch doctor, who advised that Lion
+    should take Hyena, remove her skin, and wear it warm to recover.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2149-2150
+  quote_or_summary: Lion follows the advice, takes Hyena, draws her skin over her
+    ears while she howls, and puts it on.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the passage. Motif labels are cautious
+    and should be reviewed, especially the broad taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this tale to another text, tradition, or motif family beyond the extracted candidate motif patterns.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2128-l2150
+  passage_sha256=ba03512657db4e4d29c1cb4fd047ee20e44524ed3d8152cd425096f85d3fc354
+

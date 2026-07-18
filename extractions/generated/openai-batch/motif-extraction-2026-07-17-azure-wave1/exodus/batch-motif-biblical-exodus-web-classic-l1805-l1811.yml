@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.biblical-exodus-web-classic-l1805-l1811
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+passage_locator:
+  label: Footnotes / Chapter 27 / Footnotes / Chapter 28; lines 1805-1811
+  start: '1805'
+  end: '1811'
+  translation: Exodus
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage commands the making of garments for Aaron's sons, the vesting
+    and consecration of Aaron and his sons for priestly ministry, the provision of
+    linen pants to cover nakedness, and the wearing of these garments when entering
+    sacred spaces so that they do not bear iniquity and die. The rule is declared
+    a perpetual statute for Aaron and his offspring.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tunics, sashes, and headbands are to be made for Aaron's sons for glory and
+    beauty.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The garments are to be put on Aaron and his sons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aaron and his sons are to be anointed, consecrated, and sanctified so that
+    they may minister in the priest's office.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Linen pants are to be made to cover naked flesh from the waist to the thighs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Aaron and his sons are to wear the garments when entering the Tent of Meeting
+    or approaching the altar to minister in the holy place.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The stated purpose of wearing the garments in sacred service is that they
+    do not bear iniquity and die.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The rule is described as a statute forever for Aaron and his offspring after
+    him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Aaron
+  description: Aaron is named as the brother of the addressee and is to be vested,
+    anointed, consecrated, sanctified, and included in the priestly statute.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Aaron's sons
+  description: Aaron's sons are to receive tunics, sashes, headbands, linen pants,
+    vesting, anointing, consecration, and sanctification for priestly ministry.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Addressee of the command
+  description: The second-person addressee is instructed to make garments, put them
+    on Aaron and his sons, and anoint, consecrate, and sanctify them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: priestly minister
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Aaron and his sons are consecrated and sanctified so that they may minister
+    in the priest's office and in the holy place.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: recipient of vesting and consecration
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage commands that garments be put on Aaron and his sons and that
+    they be anointed, consecrated, and sanctified.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: garment recipients
+  assigned_to:
+  - fig:2
+  basis: Tunics, sashes, headbands, and linen pants are specifically commanded for
+    Aaron's sons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: ritual actor commanded to make and apply garments
+  assigned_to:
+  - fig:3
+  basis: The addressee is instructed to make the garments, put them on Aaron and his
+    sons, and perform anointing and consecration actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: priestly garments
+  literal_form: tunics, sashes, headbands, and linen pants
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: linen covering for naked flesh
+  literal_form: linen pants reaching from waist to thighs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: sacred service spaces
+  literal_form: Tent of Meeting, altar, and holy place
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: anointing and consecration actions
+  literal_form: anoint, consecrate, and sanctify
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Making priestly garments
+  summary: The addressee is commanded to make tunics, sashes, headbands, and linen
+    pants for Aaron's sons, including garments described as for glory and beauty and
+    garments to cover naked flesh.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Vesting and consecrating Aaron and his sons
+  summary: The addressee is commanded to put the garments on Aaron and his sons, anoint
+    them, consecrate them, and sanctify them for priestly ministry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Garments required for sacred ministry
+  summary: Aaron and his sons are to wear the garments when entering the Tent of Meeting
+    or approaching the altar to minister in the holy place, so that they do not bear
+    iniquity and die; the rule is perpetual for Aaron and his offspring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual investiture into sacred office
+  taxonomy_refs:
+  - initiation
+  basis: The passage links vesting, anointing, consecrating, and sanctifying Aaron
+    and his sons with their entry into priestly ministry.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage concerns priestly ordination rather than a narrative initiation
+    trial.
+- id: motif:2
+  label: sacred garments protecting against ritual danger
+  taxonomy_refs: []
+  basis: The garments must be worn when entering the Tent of Meeting or approaching
+    the altar, with the stated consequence that failure would involve bearing iniquity
+    and death.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states a ritual requirement and consequence, but does not
+    narrate an instance of punishment.
+- id: motif:3
+  label: hereditary priestly statute
+  taxonomy_refs: []
+  basis: The rule is declared to be a statute forever for Aaron and his offspring
+    after him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a legal or ritual prescription; broader hereditary-priesthood
+    patterning would require adjacent textual evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1805-1806 / Exodus 28:40
+  quote_or_summary: '"You shall make tunics for Aaron''s sons. You shall make sashes
+    for them. You shall make headbands for them, for glory and for beauty."'
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1807-1808 / Exodus 28:41
+  quote_or_summary: '"You shall put them on Aaron your brother, and on his sons with
+    him, and shall anoint them, and consecrate them, and sanctify them, that they
+    may minister to me in the priest''s office."'
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1809-1810 / Exodus 28:42
+  quote_or_summary: '"You shall make them linen pants to cover their naked flesh.
+    They shall reach from the waist even to the thighs."'
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: line 1811 / Exodus 28:43
+  quote_or_summary: Aaron and his sons must wear the garments when entering the Tent
+    of Meeting or approaching the altar to minister in the holy place, so that they
+    do not bear iniquity and die; this is a perpetual statute for Aaron and his offspring.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/exodus.md
+  rights_note: Public domain source text summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif assignments are limited
+    to ritual-investiture and sacred-garment patterns supported within the excerpt.
+    No cross-text comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available symbol taxonomy refs applied; none of the supplied symbol refs appear literally in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-exodus-web-classic__l1805-l1811
+  passage_sha256=8bf08cb81d2397e45a3a02261be72c2d2d2e8774bdb63f07dbd65c18216188b9
+

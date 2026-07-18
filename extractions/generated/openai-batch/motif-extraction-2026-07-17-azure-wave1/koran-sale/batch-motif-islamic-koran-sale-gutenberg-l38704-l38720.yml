@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l38704-l38720
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER XCIV. / ENTITLED, HAVE WE
+    NOT OPENED; REVEALED AT MECCA / IN THE NAME OF THE MOST MERCIFUL GOD.; lines 38704-38720
+  start: '38704'
+  end: '38720'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: Verily a difficulty shall be attended with ease.
+  summary: The passage addresses a singular hearer, recalls divine relief and elevation
+    granted to him, states twice that difficulty is accompanied by ease, and instructs
+    him after preaching to labor in God's service and supplicate to the Lord.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A first-person plural speaker asks whether the addressee's breast has been
+    opened.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee's burden is described as eased, after having galled his back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressee's reputation is described as raised for him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The statement that difficulty is attended with ease is repeated twice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After ending his preaching, the addressee is instructed to labor in service
+    to God in return for God's favors.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The addressee is instructed to make supplication to his Lord.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the addressee
+  description: A singular figure addressed as “thou” and “thy,” associated with preaching,
+    burden, reputation, labor, and supplication.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: God / LORD
+  description: Named as God and LORD; the addressee is told to serve God and supplicate
+    to his LORD.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: addressed preacher
+  assigned_to:
+  - fig:1
+  basis: The addressee is told what to do when he has ended his preaching.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: recipient of service and supplication
+  assigned_to:
+  - fig:2
+  basis: The passage commands service to God and supplication to the LORD.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: recipient of relief and elevation
+  assigned_to:
+  - fig:1
+  basis: The addressee is described as having his breast opened, burden eased, and
+    reputation raised.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: opened breast
+  literal_form: breast opened
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: burden on the back
+  literal_form: burden that galled the back
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: difficulty attended with ease
+  literal_form: repeated saying that difficulty is attended with ease
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: supplication to the Lord
+  literal_form: supplication made unto the LORD
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: recalled relief and elevation
+  summary: The speaker recalls the addressee's opened breast, eased burden, and raised
+    reputation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: hardship accompanied by ease
+  summary: The passage repeats that difficulty is attended with ease.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: service and supplication after preaching
+  summary: The addressee is told that after ending his preaching he should labor in
+    God's service in return for favors and supplicate to his Lord.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine relief from burden
+  taxonomy_refs: []
+  basis: The addressee's burden is said to be eased after galling his back.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the prior burden in detail.
+- id: motif:2
+  label: hardship accompanied by relief
+  taxonomy_refs:
+  - wisdom
+  basis: The passage twice states that difficulty is attended with ease, functioning
+    as a concise maxim within the passage.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference “wisdom” is broad; the passage itself
+    uses a repeated aphoristic statement but does not name a wisdom genre.
+- id: motif:3
+  label: service in return for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The addressee is told to labor to serve God in return for God's favors.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exchange is devotional rather than a negotiated bargain; the taxonomy
+    fit should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 38710
+  quote_or_summary: "“HAVE we not opened thy breast”"
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 38711-38712
+  quote_or_summary: The addressee's burden is eased; the burden had galled his back.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: line 38713
+  quote_or_summary: The addressee's reputation is raised for him.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 38714-38715
+  quote_or_summary: "“Verily a difficulty shall be attended with ease.” The statement
+    is repeated twice."
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 38716-38717
+  quote_or_summary: When the addressee has ended his preaching, he is to labor to
+    serve God in return for God's favors.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: line 38718
+  quote_or_summary: The addressee is told to make supplication to his LORD.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are limited
+    by the short passage and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; no external identifications were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l38704-l38720
+  passage_sha256=df81bed835cc84b7e95c9b3dda87e3b3476a09ef9a187e3fd9deab7798424e8a
+

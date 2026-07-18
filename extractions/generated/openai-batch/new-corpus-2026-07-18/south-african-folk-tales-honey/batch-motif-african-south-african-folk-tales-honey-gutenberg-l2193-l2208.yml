@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2193-l2208
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: CLOUD-EATING / LION'S ILLNESS / JACKAL, DOVE, AND HERON / COCK AND JACKAL;
+    lines 2193-2208
+  start: '2193'
+  end: '2208'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Jackal catches Cock. Cock delays his killing by asking Jackal to pray first
+    and instructing him to fold his hands and close his eyes. When Jackal complies,
+    Cock flies away and mocks him; Jackal is left speechless after being outwitted.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jackal overtakes and catches Cock.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cock asks Jackal to pray before killing him, saying this is what the white
+    man does.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jackal asks Cock how prayer is performed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cock tells Jackal that prayer involves folded hands, and Jackal folds his
+    hands and prays.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cock tells Jackal that he should not look about and should shut his eyes;
+    Jackal does so.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cock flies away while reproaching Jackal.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Jackal is left sitting speechless because he has been outdone.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cock
+  description: A cock who is caught by Jackal and escapes after instructing Jackal
+    to pray with folded hands and closed eyes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Jackal
+  description: A jackal who catches Cock, follows Cock's prayer instructions, and
+    is left speechless after Cock escapes.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the white man
+  description: A referenced example for the manner of praying; not present as an acting
+    figure in the scene.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: captured prey
+  assigned_to:
+  - fig:1
+  basis: Cock is caught by Jackal before he speaks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver who escapes
+  assigned_to:
+  - fig:1
+  basis: Cock gives instructions that cause Jackal to close his eyes, then flies away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: captor
+  assigned_to:
+  - fig:2
+  basis: Jackal overtakes and catches Cock and is expected to kill him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: duped listener
+  assigned_to:
+  - fig:2
+  basis: Jackal follows Cock's instructions and is described as outdone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: cited model of prayer
+  assigned_to:
+  - fig:3
+  basis: Cock refers to the white man as someone who prays before killing.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: folded hands
+  literal_form: hands folded in prayer
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: closed eyes
+  literal_form: eyes shut during prayer
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prayer before killing
+  literal_form: praying before Cock is killed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: flight escape
+  literal_form: Cock flies away
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jackal catches Cock
+  summary: Jackal overtakes and catches Cock, and Cock asks him to pray before killing
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cock instructs Jackal in prayer
+  summary: Cock explains the gestures of prayer; Jackal folds his hands, prays, and
+    shuts his eyes as instructed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cock escapes and Jackal is outdone
+  summary: After Jackal shuts his eyes, Cock flies away and mocks him, leaving Jackal
+    speechless.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: captured animal tricks captor into disabling himself
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Cock, while captured, persuades Jackal to fold his hands and close his eyes,
+    enabling Cock's escape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents animal trickery
+    but does not explicitly name a trickster category.
+- id: motif:2
+  label: ritual instruction used as deception
+  taxonomy_refs: []
+  basis: Cock invokes prayer practice and gives ritual gestures that function to distract
+    and immobilize Jackal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state that prayer itself is sacred or symbolic beyond
+    its use in the escape trick.
+- id: motif:3
+  label: mockery after escape
+  taxonomy_refs: []
+  basis: Cock reproaches Jackal after flying away, and Jackal is left speechless because
+    he has been outdone.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern rather than a mapped taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2193-2197
+  quote_or_summary: Jackal overtakes and catches Cock; Cock asks Jackal to pray before
+    killing him, as the white man does.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2198-2202
+  quote_or_summary: Jackal asks how prayer is done; Cock says hands are folded, and
+    Jackal folds his hands and prays.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2202-2205
+  quote_or_summary: Cock tells Jackal not to look around and to shut his eyes; Jackal
+    does so.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2205-2207
+  quote_or_summary: Cock flew away, saying, "You rogue! do you also pray?"
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: line 2208
+  quote_or_summary: Jackal sits speechless because he has been outdone.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage gives an animal trickster episode but no explicit comparative framework.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims added because the passage itself does not explicitly support comparison to another named text, tradition, or motif family beyond broad candidate motif classification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2193-l2208
+  passage_sha256=bcf8c73b0f8140d7c76c30e8d7379a01d351f720739f457d42ac38d92693c83c
+

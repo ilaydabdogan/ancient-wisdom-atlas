@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.greek-iliad-pope-gutenberg-l1764-l1850
+source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+passage_locator:
+  label: CONCLUDING NOTE. / INTRODUCTION. / THEODORE ALOIS BUCKLEY. / POPES PREFACE
+    TO THE ILIAD OF HOMER; lines 1764-1850
+  start: '1764'
+  end: '1850'
+  translation: The Iliad
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage from Pope''s preface discusses how a translator should render
+    Homer into English: avoid both servile literalism and rash paraphrase, preserve
+    the poem''s spirit and ''fire,'' follow Homer''s alternation of plain and elevated
+    style, retain noble simplicity, draw cautiously on Scripture-like diction, preserve
+    moral and proverbial sayings plainly, avoid modern terminology, and handle compound
+    epithets and repetitions with care.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a literal translation cannot fully do justice to an
+    excellent Greek original, but that rash paraphrase can also lose the spirit of
+    antiquity.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the translator should chiefly preserve the poem's 'fire'
+    and should not try to make the author greater than the author is in any particular
+    place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage presents Homer as a guide who teaches when to be plain and when
+    to be poetical or figurative, and it describes translators as followers who may
+    either strain too violently or creep too servilely after him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage identifies noble simplicity as perfected in Scripture and Homer,
+    and says Homer's style resembles the sacred books more than that of any other
+    writer.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says Homer's moral sentences and proverbial speeches should be
+    rendered plainly because their unadorned gravity and shortness give them a venerable,
+    almost oracular quality.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage allows cautious use of Greekisms and old words after Milton's
+    manner, but rejects modern terms of war and government such as platoon, campaign,
+    and junto.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage names compound epithets and repetitions as distinctive marks of
+    Homer's diction, and gives 'cloud-compelling Jove' as an example of an acceptable
+    English compound epithet.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Homer / the author
+  description: The poet whose Greek original, style, diction, simplicity, moral sayings,
+    epithets, and repetitions are discussed as the model for translation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: translator(s) of Homer
+  description: The persons addressed as responsible for rendering Homer into English
+    while preserving his spirit, style, simplicity, and diction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Divine Spirit
+  description: The agent said to have used intelligible and common words in the inspired
+    writings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Milton
+  description: A poetic model named in connection with the possible use of Greekisms
+    and old words.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Jove
+  description: A divine name appearing in the example compound epithet 'cloud-compelling
+    Jove.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: poetic model and teacher
+  assigned_to:
+  - fig:1
+  basis: The passage says Homer teaches when to be plain or figurative and should
+    be followed in his footsteps.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: preserver of original spirit
+  assigned_to:
+  - fig:2
+  basis: The translator is instructed to take only necessary liberties and preserve
+    the spirit and fire of the original.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: inspirer of plain sacred diction
+  assigned_to:
+  - fig:3
+  basis: The Divine Spirit is said to have used words intelligible and common to people
+    of the time and region.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: model for antique poetic diction
+  assigned_to:
+  - fig:4
+  basis: Milton is named as a model for Greekisms and old words if used without too
+    much affectation.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: example subject of compound epithet
+  assigned_to:
+  - fig:5
+  basis: Jove is named in the example 'cloud-compelling Jove' while discussing Homeric
+    compound epithets.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire of the poem
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: light and darkness in antiquity
+  literal_form: darkness and light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: following Homer's footsteps
+  literal_form: footsteps
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: marks or moles of diction
+  literal_form: marks or moles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: oracular proverbial speech
+  literal_form: oracular gravity and shortness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Risks of translation method
+  summary: The prefacer weighs literal translation against paraphrase and argues that
+    only necessary liberties should be taken to transmit the spirit of the Greek original.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preserving Homeric fire and following Homer
+  summary: The translator is told to preserve the poem's fire and follow Homer's example
+    in plain, lofty, and figurative diction without either exaggeration or servility.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Homeric and scriptural simplicity
+  summary: The passage links noble simplicity with Scripture and Homer, says Homer
+    resembles the sacred books, and advises the translator to use some Old Testament-like
+    expressions while avoiding terms reserved for divinity and mystery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Plain moral sayings and antique diction
+  summary: The prefacer advises preserving the plainness of Homeric moral and proverbial
+    speech, allows cautious Miltonic archaism, and rejects modern military or governmental
+    terms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Homeric epithets and repetitions
+  summary: The passage identifies compound epithets and repetitions as recognizable
+    features of Homer and discusses which compound epithets can be retained in English,
+    including the example 'cloud-compelling Jove.'
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: venerable oracular wisdom speech
+  taxonomy_refs:
+  - wisdom
+  basis: Homeric moral sentences and proverbial speeches are described as venerable
+    and almost oracular because of their plain gravity and shortness.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a literary-critical observation in a preface, not a narrative
+    myth episode.
+- id: motif:2
+  label: preservation of animating poetic fire
+  taxonomy_refs: []
+  basis: The translator is instructed to preserve the poem's fire and spirit rather
+    than distort the ancient author through either literal dullness or modernizing
+    paraphrase.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The 'fire' is a metaphor for poetic force; it is not presented as a literal
+    mythic fire.
+- id: motif:3
+  label: sacred plain speech as model for poetic diction
+  taxonomy_refs:
+  - wisdom
+  basis: The passage associates Scripture and Homer with pure noble simplicity and
+    says sacred writings use common intelligible words, making this plain style a
+    model for translation.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage makes a stylistic and theological comparison, not a direct
+    mythological motif claim.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly claims a stylistic resemblance between Homer and Scripture
+    or the sacred books, especially in noble simplicity and certain expressions associated
+    with the Old Testament.
+  claim_level: linguistic_similarity
+  target: Scripture / Old Testament sacred books
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is the prefacer's literary judgment; it does not establish shared
+    narrative motifs, historical contact, or common inheritance.
+- id: claim:2
+  claim: The passage compares Homer's moral and proverbial speeches to oracular utterance
+    in function, because they are brief, grave, venerable, and unadorned.
+  claim_level: same_function
+  target: oracular speech pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The wording 'as I may say, oracular' marks an analogy rather than a
+    firm classification.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1764-1777
+  quote_or_summary: The passage says literal translation cannot fully do justice to
+    the Greek original, while rash paraphrase risks losing the ancient spirit; necessary
+    liberties should support the original spirit and poetic style.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1778-1782
+  quote_or_summary: The translator should principally regard 'the fire of the poem'
+    and preserve it without trying to be more than the author is.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 1783-1804
+  quote_or_summary: The passage says Homer teaches when to be plain and when poetical
+    or figurative; translators should follow his footsteps and avoid both inflated
+    fustian and dull flatness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1806-1819
+  quote_or_summary: Pure noble simplicity is said to be perfected in Scripture and
+    Homer; the Divine Spirit used intelligible common words, and Homer's style is
+    said to resemble the sacred books, encouraging some Old Testament-like phrasing
+    while avoiding expressions reserved for divinity and mystery.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1821-1828
+  quote_or_summary: Homer's moral sentences and proverbial speeches should be expressed
+    plainly; their unadorned gravity and shortness are described as venerable and
+    almost oracular.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1830-1838
+  quote_or_summary: The passage allows some Greekisms and old words after Milton's
+    manner if not affected, but rejects modern war and government terms such as platoon,
+    campaign, and junto except where unavoidable.
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1840-1850
+  quote_or_summary: Compound epithets and repetitions are called distinctive marks
+    of Homer; some compounds may be retained in English, including the example 'cloud-compelling
+    Jove.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/iliad-pope.md
+  rights_note: Public domain source; summarized with short public-domain phrase.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a literary-critical preface rather than a myth narrative.
+    Literal extraction is clear; motif candidates are necessarily cautious and mostly
+    concern symbolic language, wisdom speech, and stylistic comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated taxonomy identifiers were used. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-iliad-pope-gutenberg__l1764-l1850
+  passage_sha256=8aea78f404696b8681a1423a5dfe5a8d5b5a2607f87ec2078928a6f727168f80
+

@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.norse-volsunga-saga-morris-gutenberg-l8287-l8346
+source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+passage_locator:
+  label: THE SONG OF ATLI. / THE WHETTING OF GUDRUN. / THE LAY OF HAMDIR / THE LAMENT
+    OF ODDRUN.; lines 8287-8346
+  start: '8287'
+  end: '8346'
+  translation: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Oddrun recounts that Hogni's heart was cut out and another man, identified
+    as Gunnar later in the passage, was cast into a worm-close. Gunnar played his
+    harp expecting Oddrun's help. Oddrun heard the harp, prepared bondmaids, and crossed
+    the sound by ship toward Atli's dwelling, but Atli's mother came out and delivered
+    a fatal sting to Gunnar's heart. Oddrun then laments her love for the slain hero
+    and the ill-fates she has told.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hogni's heart is cut out.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Another man is cast into the worm-close.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wise-hearted king plays the harp-strings while expecting the speaker to
+    come to his help.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker hears the harp-strings singing of sore trouble while she is away
+    at Geirmund and Hlesey is mentioned as the place from which the sound is heard.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker orders bondmaids to be ready and travels by ship over the sound
+    toward Atli's dwelling in order to save the king's life.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Atli's mother comes crawling out and delivers a grave sting into Gunnar's
+    heart, leaving no help for him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The endnote states that Atli's mother took the form of the only adder not
+    lulled to sleep by Gunnar's harp-playing and slew him.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Oddrun addresses a gold-clad woman, says she loved the sword-swift battle-hero
+    as herself, and closes her account of many ill-fates.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hogni
+  description: Named person whose heart is cut out.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gunnar
+  description: The king and hero associated with the harp-playing, the worm-close,
+    and the fatal sting to the heart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Oddrun
+  description: First-person speaker who hears the harp, attempts to save the king,
+    laments him, and identifies the speech as Oddrun's greeting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Bondmaids
+  description: Female attendants whom the speaker orders to be ready swiftly before
+    the voyage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Atli
+  description: Named figure whose dwelling is the destination seen by the rescuers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Atli's mother
+  description: A crawling figure who stings Gunnar; the endnote identifies her as
+    taking adder form.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Geirmund
+  description: Named figure or place associated with the speaker's absence and feasting.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Gold-clad woman
+  description: Addressee who has sat and listened to Oddrun's account.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: heart-extraction victim
+  assigned_to:
+  - fig:1
+  basis: The passage says Hogni's heart is cut out.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imperiled harp-playing king
+  assigned_to:
+  - fig:2
+  basis: The king plays harp-strings expecting help and is later named as Gunnar when
+    stung in the heart.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: would-be rescuer and narrator
+  assigned_to:
+  - fig:3
+  basis: The speaker hears the harp, commands preparations, crosses the sound to save
+    the king, and the speech closes as Oddrun's greeting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:4
+  label: attendants ordered to prepare
+  assigned_to:
+  - fig:4
+  basis: The speaker bids the bondmaids be ready swiftly.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: dwelling namesake
+  assigned_to:
+  - fig:5
+  basis: The rescuers see Atli's dwelling after crossing the sound.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: serpent-form killer
+  assigned_to:
+  - fig:6
+  basis: Atli's mother crawls out and stings Gunnar; the endnote states that she took
+    adder form and slew him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: listener and addressee
+  assigned_to:
+  - fig:8
+  basis: Oddrun addresses a gold-clad woman who has listened to the account.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: heart
+  literal_form: The heart cut from Hogni and the heart of Gunnar struck by the sting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: worm-close and adder
+  literal_form: A worm-close into which a man is cast; an adder-form taken by Atli's
+    mother in the endnote.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: harp-strings
+  literal_form: The harp-strings swept by the king and heard by Oddrun as singing
+    of sore trouble.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: ship over the sound
+  literal_form: A ship traveling over the sound toward Atli's dwelling.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Atli's dwelling
+  literal_form: The dwelling seen by the rescuers after crossing the sound.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hogni's heart cut and the other cast into the worm-close
+  summary: Hogni's heart is cut out, and another man is cast into the worm-close.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gunnar plays the harp for aid
+  summary: The wise-hearted king plays the harp-strings while expecting the speaker
+    to come to his help.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Oddrun hears and sets out
+  summary: Oddrun hears the harp-strings from afar, orders bondmaids ready, and crosses
+    the sound by ship toward Atli's dwelling to save the king.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Atli's mother kills Gunnar
+  summary: Atli's mother comes crawling out and fatally stings Gunnar in the heart;
+    the endnote identifies her as an adder-form killer not lulled by Gunnar's harp-playing.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Oddrun's lament and close of speech
+  summary: Oddrun addresses the gold-clad woman, wonders how she still lives, declares
+    love for the slain hero, and closes her account of ill-fates.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Serpent enclosure and fatal adder
+  taxonomy_refs:
+  - serpent
+  basis: The passage places the victim in a worm-close and states that Atli's mother,
+    in adder form according to the endnote, delivers the fatal sting to Gunnar.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The poem uses the term worm-close, while the endnote supplies the explicit
+    adder identification.
+- id: motif:2
+  label: Harp-music under mortal threat
+  taxonomy_refs: []
+  basis: The king plays the harp-strings while in danger, expects the speaker's help,
+    and the speaker hears the harp-strings as announcing sore trouble.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a connection between harp-playing and attempted aid,
+    but it does not fully explain whether the music is an intentional message, magical
+    action, or both.
+- id: motif:3
+  label: Belated rescue voyage
+  taxonomy_refs: []
+  basis: Oddrun hears the distress, orders bondmaids ready, and travels by ship over
+    the sound to save the king, but Gunnar is fatally stung before help remains possible.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the rescue attempt but not a broader formulaic pattern
+    beyond this episode.
+- id: motif:4
+  label: Heart extraction before death sequence
+  taxonomy_refs: []
+  basis: The passage begins with Hogni's heart being cut out before the account turns
+    to Gunnar's imprisonment and death.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the violent act but does not state a ritual or symbolic
+    function for it.
+- id: motif:5
+  label: Lament for slain beloved and ill-fate
+  taxonomy_refs: []
+  basis: Oddrun says she loved the sword-swift hero as herself and frames the account
+    as one of many ill-fates.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a passage-level motif candidate based on speech content, without
+    an explicit supplied taxonomy match.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8287-8294
+  quote_or_summary: Hogni's heart is cut out, and another man is cast into the worm-close.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8295-8304
+  quote_or_summary: The wise-hearted king sweeps the harp-strings and expects the
+    speaker to come to his aid.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8305-8314
+  quote_or_summary: The speaker is away at Geirmund and hears, even from Hlesey, the
+    harp-strings singing of sore trouble.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8315-8324
+  quote_or_summary: The speaker bids the bondmaids be ready, seeks to save the king's
+    life, and has a ship cross the sound until Atli's dwelling is visible.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8325-8334
+  quote_or_summary: Atli's mother comes crawling out and delivers a grave sting in
+    Gunnar's heart, leaving no help for him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: endnote (1), lines 8343-8346
+  quote_or_summary: The endnote explains that Atli's mother took the form of the one
+    adder not lulled by Gunnar's harp-playing and slew him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8335-8342
+  quote_or_summary: Oddrun addresses a gold-clad woman, wonders how she still lives,
+    says she loved the battle-bright, sword-swift hero as herself, and closes her
+    account of ill-fates.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal episode is clearly stated, including an explanatory endnote for
+    the adder. Motif labels beyond the supplied serpent taxonomy are cautious passage-level
+    candidates. No external historical or cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. Figure identifications are limited to names and labels present in the passage; Geirmund is retained with uncertainty in description because the passage alone does not clarify whether the name denotes a person or place.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-volsunga-saga-morris-gutenberg__l8287-l8346
+  passage_sha256=1336afbc49a314b6a0a42b00612daf00bd058a440bf4b2cd873c9841bd781f9f
+

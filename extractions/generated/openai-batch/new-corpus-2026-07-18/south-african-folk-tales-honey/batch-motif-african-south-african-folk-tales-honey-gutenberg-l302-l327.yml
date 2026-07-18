@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l302-l327
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: A FOURTH VERSION OF THE SAME FABLE         146 / LITERATURE ON SOUTH-AFRICAN
+    FOLK-LORE      148 / SOUTH-AFRICAN FOLK-TALES / INTRODUCTION; lines 302-327
+  start: '302'
+  end: '327'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Three created nations are appointed to appear before the Teco for apportionment.
+    The Hottentots follow a honey bird and are denounced to live without stock; the
+    Kaffirs shout over cattle and are denounced to possess only cattle; the Whites
+    wait patiently and receive cattle, horses, sheep, and other property.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage names three created nations: the Whites, the Amakosa or Kaffirs,
+    and the Amalouw or Hottentots.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A day is appointed for the nations to appear before the Teco to receive what
+    he apportions to each tribe.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: While the groups assemble, a honey bird or honey guide passes by, and all
+    the Hottentots run after it while whistling and making a characteristic noise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Teco remonstrates with the Hottentots and then denounces them as a vagrant
+    race that must live on wild roots and honey beer and possess no stock.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When herds of cattle are brought, the Kaffirs become excited and claim particular
+    cows and bulls.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Teco, angered by the Kaffirs' shouts and unruly behavior, denounces them
+    as a restless people who will only possess cattle.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Whites wait patiently until they receive cattle, horses, sheep, and all
+    sorts of property.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An old Kaffir states that the Whites have everything, the Kaffirs have only
+    cattle, and the Hottentots have nothing.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Teco
+  description: The authority before whom the nations appear and from whom they receive
+    apportionments; he remonstrates with and denounces groups for their behavior.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: The Whites
+  description: One of the three created nations; they wait patiently and receive livestock
+    and other property.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: The Amakosa or Kaffirs
+  description: One of the three created nations; they become excited over cattle,
+    are denounced as restless, and are said to have only cattle.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: The Amalouw or Hottentots
+  description: One of the three created nations; they follow the honey bird and are
+    denounced as vagrant, without stock.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Honey bird or honey guide
+  description: A bird that comes fluttering by during the assembly; the Hottentots
+    run after it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: apportioning authority
+  assigned_to:
+  - fig:1
+  basis: The nations are appointed to appear before the Teco to receive what he apportions,
+    and he issues denunciations affecting what groups possess.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: recipient nation or tribe
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The three named nations are to receive what the Teco apportions to each tribe.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: distracted followers of the honey guide
+  assigned_to:
+  - fig:4
+  basis: All the Hottentots run after the honey bird during the assembly.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: unruly cattle claimants
+  assigned_to:
+  - fig:3
+  basis: The Kaffirs shout claims over cattle and are described as unruly by the narrator's
+    account of the Teco's reaction.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: patient recipients of broad property
+  assigned_to:
+  - fig:2
+  basis: The Whites wait patiently until they receive cattle, horses, sheep, and all
+    sorts of property.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: animal guide that diverts attention
+  assigned_to:
+  - fig:5
+  basis: The honey bird or honey guide passes by and the Hottentots follow it away
+    from the assembly.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: honey bird or honey guide
+  literal_form: A honey bird that comes fluttering by during the appointed assembly.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wild roots and honey beer
+  literal_form: Foods named in the Teco's denunciation of the Hottentots.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cattle
+  literal_form: Herds of cattle, including black-and-white and red cows and a black
+    bull, claimed by the Kaffirs and later received by the Whites among other property.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: horses, sheep, and all sorts of property
+  literal_form: Additional livestock and property received by the Whites.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Appointment before the Teco and pursuit of the honey guide
+  summary: Three created nations are to appear before the Teco for apportionment.
+    During the assembly the Hottentots run after a honey bird, and the Teco denounces
+    them to live without stock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cattle brought before the Kaffirs
+  summary: Herds of cattle are brought; the Kaffirs shout claims over specific animals,
+    and the Teco denounces them as a restless people who will possess only cattle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Patient waiting and final distribution
+  summary: The Whites wait patiently and receive cattle, horses, sheep, and other
+    property. An old Kaffir summarizes the unequal distribution among Whites, Kaffirs,
+    and Hottentots.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: appointed apportionment among peoples
+  taxonomy_refs: []
+  basis: The passage centers on three created nations appearing before the Teco on
+    an appointed day to receive allocations for each tribe.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not state who created the nations or provide details
+    of the creation act.
+- id: motif:2
+  label: conduct-based allotment or judgment of groups
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Teco responds to the Hottentots' and Kaffirs' behavior with denunciations
+    that determine their forms of subsistence or property, while the Whites' patient
+    waiting precedes a fuller allotment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The Teco functions as a judging apportioner, but the passage itself does
+    not explicitly call him divine.
+- id: motif:3
+  label: animal distraction leading to loss of wealth
+  taxonomy_refs: []
+  basis: The Hottentots follow the honey bird during the assembly and are consequently
+    denounced to possess no stock.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The bird is not described as intentional, deceptive, or supernatural;
+    the causal framing is limited to the sequence narrated.
+- id: motif:4
+  label: patience rewarded with abundant property
+  taxonomy_refs: []
+  basis: The Whites wait patiently and receive cattle, horses, sheep, and all sorts
+    of property, in contrast to the other groups' reduced allocations.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the sequence but does not give an explicit moral beyond
+    the reported distribution.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 302-305
+  quote_or_summary: Three nations are named as created, and a day is appointed for
+    them to appear before the Teco to receive what he apportions to each tribe.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 305-311
+  quote_or_summary: A honey bird or honey guide passes by; all the Hottentots follow
+    it. The Teco remonstrates and then denounces them as vagrant, to live on wild
+    roots and honey beer and possess no stock.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 313-318
+  quote_or_summary: When cattle are brought, the Kaffirs excitedly claim specific
+    animals. The Teco, provoked by their shouts and unruly behavior, denounces them
+    as restless and limited to cattle ownership.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 320-324
+  quote_or_summary: The Whites wait patiently and receive cattle, horses, sheep, and
+    all sorts of property; an old Kaffir observes that Whites have everything, Kaffirs
+    only cattle, and Hottentots nothing.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the provided passage. Motif labels are
+    cautious because the passage gives an etiological allocation story but does not
+    explicitly define the Teco's divine status or the honey bird's intention.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Historical ethnonyms and colonial-era labels are retained only as they appear in the passage metadata and text; interpretation is limited to the supplied passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l302-l327
+  passage_sha256=bea563f2f60d19c7bb2e87049c17ddc1b5f88b39ad2da999b5493edb3d6b475b
+

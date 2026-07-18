@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.maya-quiche-popol-vuh-spence-gutenberg-l1159-l1203
+source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+passage_locator:
+  label: BOOK II. COMMENTED UPON / THE HARRYING OF XIBALBA / BOOK III. COMMENTED UPON
+    / EVIDENCE OF METRICAL COMPOSITION; lines 1159-1203
+  start: '1159'
+  end: '1203'
+  translation: The Popol Vuh
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues that the Popol Vuh shows signs of original metrical
+    or chant composition. It gives a K'iche excerpt and English translation involving
+    dawn, an old man, darkness, repeated leg-spreading, an opossum, and the people's
+    saying. The commentary connects such passages with memorized chants, dance timing,
+    and the term nugum tzih, translated as “garlands of words.”
+  language: English, with K'iche excerpt
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator states that passages in the Popol Vuh show a metrical tendency
+    and may indicate original composition in metre.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A K'iche excerpt is presented, followed by an English translation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: In the translated excerpt, a question asks whether dawn is about to occur,
+    and an old man answers yes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old man spreads his legs; darkness appears again; he spreads his legs
+    four times.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The translated excerpt says that the opossum now spreads his legs, and attributes
+    the saying to the people.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentary discusses the excerpt's metrical qualities, including scanning
+    and alternation of sustained feet with pyrrhics.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Father Coto is cited as observing that the natives told long stories and repeated
+    chants while keeping time to dances.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says these chants were called nugum tzih, translated as “garlands
+    of words.”
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The note gives pronunciation guidance for x, ch, and c in K'iche.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: old man
+  description: A figure in the translated excerpt who answers a question about dawn
+    and repeatedly spreads his legs.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: opossum
+  description: A figure in the translated excerpt who spreads his legs after the old
+    man does so.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: people
+  description: The translated excerpt attributes the saying to “the people.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Father Coto
+  description: A missionary cited for observing native storytelling, chant repetition,
+    and dance timing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: natives
+  description: People described as fond of telling long stories and repeating chants
+    while keeping time to dances.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Baron Nordenskjold
+  description: An observer cited in connection with continuing dance practices in
+    the Aymara country.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: native compiler of the Popol Vuh
+  description: The compiler is described as apparently unable to recollect the precise
+    rhythm of the whole work.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: respondent
+  assigned_to:
+  - fig:1
+  basis: The old man answers yes to the question about dawn.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: gesture performer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both the old man and the opossum are said to spread their legs.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: attributed speakers
+  assigned_to:
+  - fig:3
+  basis: The translated excerpt ends with “Say the people.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: missionary commentator
+  assigned_to:
+  - fig:4
+  basis: Father Coto is named as a missionary who observes native storytelling and
+    chant practices.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: storytellers and chanters
+  assigned_to:
+  - fig:5
+  basis: The natives are described as telling long stories and repeating chants.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: comparative observer
+  assigned_to:
+  - fig:6
+  basis: Baron Nordenskjold is cited for a recent observation in the Aymara country.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: compiler
+  assigned_to:
+  - fig:7
+  basis: The native compiler of the Popol Vuh is mentioned in relation to recollection
+    of rhythm.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dawn
+  literal_form: dawn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: darkness
+  literal_form: darkness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fourfold repetition
+  literal_form: four times
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: leg-spreading gesture
+  literal_form: spreading apart the legs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: garlands of words
+  literal_form: nugum tzih, or “garlands of words”
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: translated metrical excerpt
+  summary: A brief translated chant-like passage asks whether dawn is near; the old
+    man answers, spreads his legs, darkness returns, the old man repeats the gesture
+    four times, and the opossum performs the same gesture, with the saying attributed
+    to the people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: commentary on metrical and dance performance
+  summary: The commentary treats the Popol Vuh as having signs of metrical composition
+    and relates chants to memorization, dance timing, and the term nugum tzih.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: metrical chant composition
+  taxonomy_refs: []
+  basis: The passage explicitly argues that the Popol Vuh was originally composed
+    in metre and that many passages attest an odic character.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is a commentary claim about form and performance, not a narrative
+    mythic motif within the translated story itself.
+- id: motif:2
+  label: dance-timed chant performance
+  taxonomy_refs: []
+  basis: The passage cites native chants kept in time with dances and links this practice
+    to memorized storytelling and repeated chants.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage reports this as external commentary and does not describe
+    a full ritual performance scene from the Popol Vuh narrative.
+- id: motif:3
+  label: repeated gesture before dawn and returning darkness
+  taxonomy_refs: []
+  basis: The translated excerpt combines an impending dawn, repeated leg-spreading
+    by the old man, renewed darkness, and the opossum repeating the gesture.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The excerpt is brief and embedded as evidence of metre; its larger narrative
+    context and symbolic function are not supplied in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the metrical qualities of the Popol Vuh with a broader
+    pattern of dance-poetry characterized by alternation of sustained feet and pyrrhics.
+  claim_level: same_function
+  target: dance-poetry as characterized by the commentator
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim reflects the commentator's broad and outdated terminology;
+    the passage does not provide detailed comparative examples.
+- id: claim:2
+  claim: The passage compares native chant-and-dance practices associated with the
+    Popol Vuh to practices among American aboriginal peoples and to observations from
+    the Aymara country.
+  claim_level: same_function
+  target: American aboriginal and Aymara chant/dance practices as cited in the commentary
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is made by the commentary rather than demonstrated with
+    primary examples; it should be reviewed because of broad generalization and period
+    terminology.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1159-1165
+  quote_or_summary: The section titled “Evidence of Metrical Composition” says there
+    is evidence that the Popol Vuh was originally composed in metre and that passages
+    show a decided metrical tendency.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1166-1174
+  quote_or_summary: A K'iche-language excerpt is presented as an example of metrical
+    tendency.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1176-1184
+  quote_or_summary: "“Is the dawn about to be? / Yes, answered the old man. / Then
+    he spread apart his legs. / Again the darkness appeared. / Four times the old
+    man spread his legs. / Now the opossum spreads his legs” — “Say the people.”"
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 1186-1193
+  quote_or_summary: The commentary states that the first and fifth lines have scansion
+    features and that the others resemble alternation of sustained feet with pyrrhics,
+    described as characteristic of dance-poetry.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1193-1199
+  quote_or_summary: Father Coto is cited as saying the natives told long stories and
+    repeated chants while keeping time in dances; the passage compares this with broader
+    American aboriginal practices and mentions Baron Nordenskjold's observations in
+    the Aymara country.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1199-1202
+  quote_or_summary: The passage says these chants were called “nugum tzih,” or “garlands
+    of words,” and that many passages attest the work's original odic character.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 1202-1203
+  quote_or_summary: The note explains pronunciation of x, ch, and c in K'iche.
+  source_text_path: texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is primarily literary commentary on metre and performance, with
+    only a short embedded narrative excerpt. Motif and comparison extraction is therefore
+    limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif family was assigned because the passage does not clearly support one of the supplied motif-family refs. Available symbol refs such as fire, water, tree, cave, mountain, serpent, and milk are not present in this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:maya-quiche-popol-vuh-spence-gutenberg__l1159-l1203
+  passage_sha256=90ca0554caed56ab1f46b9e53ea37cec189de51611f04a49f3cab4e20b88ff16
+

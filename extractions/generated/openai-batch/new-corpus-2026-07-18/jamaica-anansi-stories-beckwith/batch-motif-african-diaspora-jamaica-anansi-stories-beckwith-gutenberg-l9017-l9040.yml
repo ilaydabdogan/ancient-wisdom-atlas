@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.african-diaspora-jamaica-anansi-stories-beckwith-gutenberg-l9017-l9040
+source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+passage_locator:
+  label: LIES. / XVII. / PHILOSOPHY. / XVIII.; lines 9017-9040
+  start: '9017'
+  end: '9040'
+  translation: Jamaica Anansi Stories
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contains two brief ''Lies'' anecdotes involving water: one
+    in which a duck eats a gourd and leaves the water hanging on a tree, and another
+    in which the speaker passes through a ten-barbed-wire fence with a pan of water
+    on the head without spilling a drop. It then gives a ''Philosophy'' saying that
+    if life could be bought with money, the rich would live and poor people like the
+    speaker would have to die.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker and the speaker's father go to the ground to work and carry a
+    gourd of water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gourd of water is hung on a tree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When they return to look for the gourd, a duck has eaten the gourd and left
+    the water hanging on the tree.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says they carried a pan of water on their head while going through
+    a ten-barbed-wire fence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says they ran through the fence without spilling any water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker addresses a man and imagines that if life could be bought with
+    money, rich people would live and poor people like the speaker would have to die.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person narrator of the anecdotes and philosophical saying.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: speaker's father
+  description: The speaker's father, who goes with the speaker to the ground to work.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: duck
+  description: A duck that is said to eat the gourd and leave the water hanging on
+    the tree.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: rich people
+  description: People imagined as able to live if life were something money could
+    buy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: poor people like the speaker
+  description: People imagined as having to die if life could be bought with money.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: addressed man
+  description: The person addressed by the speaker as 'dear man' in the philosophical
+    saying.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first-person teller
+  assigned_to:
+  - fig:1
+  basis: The passage is narrated in the first person across the anecdotes and saying.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: work companion
+  assigned_to:
+  - fig:2
+  basis: The father accompanies the speaker to the ground to work.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: impossible actor
+  assigned_to:
+  - fig:3
+  basis: The duck is described as eating the gourd while leaving the water hanging
+    on the tree.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: hypothetical beneficiaries of wealth
+  assigned_to:
+  - fig:4
+  basis: The saying states that rich people would live if life could be bought with
+    money.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: hypothetical disadvantaged poor
+  assigned_to:
+  - fig:5
+  basis: The saying states that poor people like the speaker would have to die if
+    life could be bought with money.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: addressee
+  assigned_to:
+  - fig:6
+  basis: The speaker directly addresses 'me dear man.'
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: gourd of water
+  literal_form: gourd containing water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree
+  literal_form: tree from which the gourd is hung and where the water remains hanging
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pan of water
+  literal_form: pan of water carried on the speaker's head
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ten-barbed-wire fence
+  literal_form: ten-barbed-wire fence passed through by the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: money
+  literal_form: money imagined as a possible price for life
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: life
+  literal_form: life imagined as a thing that money could buy
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Duck leaves water hanging on tree
+  summary: The speaker and father take a gourd of water to work, hang it on a tree,
+    and later find that a duck has eaten the gourd but left the water hanging there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Unspilled pan through fence
+  summary: The speaker carries a pan of water on the head, runs through a ten-barbed-wire
+    fence, and claims that no water spills.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Philosophical saying about life and money
+  summary: The speaker tells an addressed man that if life could be bought, the rich
+    would live and poor people like the speaker would die.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: impossible lie or tall-tale reversal
+  taxonomy_refs: []
+  basis: The section heading is 'LIES,' and the anecdotes present physically impossible
+    claims about water remaining suspended after a gourd is eaten and water not spilling
+    while passing through a barbed-wire fence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage supplies a genre heading and examples, but no external tale-type
+    or motif index reference is provided.
+- id: motif:2
+  label: wisdom saying on wealth and mortality
+  taxonomy_refs:
+  - wisdom
+  basis: The section heading is 'PHILOSOPHY,' and the saying reflects on life, money,
+    rich people, poor people, and death.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to 'wisdom' is broad; the passage gives an aphoristic
+    reflection rather than a developed mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9017-9025
+  quote_or_summary: Under 'LIES. XVI.', the speaker and father go to work with a gourd
+    of water, hang it on a tree, and later see a duck has eaten the gourd while leaving
+    the water hanging on the tree.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 9027-9030
+  quote_or_summary: Under 'XVII.', the speaker says they carried a pan of water on
+    the head, ran through a ten-barbed-wire fence, and did not spill a drop.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 9032-9040
+  quote_or_summary: Under 'PHILOSOPHY. XVIII.', the speaker says that if life were
+    something money could buy, rich people would live and poor people like the speaker
+    would have to die.
+  source_text_path: texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is limited to the passage
+    headings and broad available taxonomy; no comparison claims are made because the
+    passage itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unstated tale-type identifiers were used.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-diaspora-jamaica-anansi-stories-beckwith-gutenberg__l9017-l9040
+  passage_sha256=abc501eb80454ce527875b122a2c082e183f9dc83ca48da5857c061924192c74
+

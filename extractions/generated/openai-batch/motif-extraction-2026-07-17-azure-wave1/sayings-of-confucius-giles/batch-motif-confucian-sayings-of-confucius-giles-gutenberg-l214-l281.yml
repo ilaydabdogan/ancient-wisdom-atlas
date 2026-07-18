@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.confucian-sayings-of-confucius-giles-gutenberg-l214-l281
+source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+passage_locator:
+  label: E. P. DUTTON AND COMPANY / CONTENTS / EDITORIAL NOTE / INTRODUCTION; lines
+    214-281
+  start: '214'
+  end: '281'
+  translation: The Sayings of Confucius
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage assesses James Legge’s translation and scholarship on the Confucian
+    Canon. It credits him with raising foreign study of Confucian doctrine and compiling
+    a coherent account of Confucius’s life, while criticizing his ethical judgments,
+    missionary assumptions, and overly rigid translation of Chinese terms. It emphasizes
+    the importance, attributed to Confucius, of defining terms and making words correspond
+    to things.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Before Legge’s work, the state of foreign understanding of Confucian doctrine
+    is described as burdened by ignorance and error.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Legge translated the Confucian Canon and supplied extensive prolegomena, notes,
+    and appendices.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that Legge’s publication raised Chinese scholarship to
+    a higher plane and helped foreign study of Confucian doctrine begin in earnest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Confucius’s sayings are described as being studied in relation to the events
+    of his life rather than as isolated fragments of conversation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Legge used Chinese sources, especially the Analects and Ss-ma Chien’s biography,
+    to compile an account of Confucius’s life, work, and wanderings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that there remain disputed minor points and long blanks
+    in Confucius’s life, but that the chronology and leading events are largely settled.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage distinguishes Legge’s strength in hard facts from weakness in
+    drawing inferences, summarizing ethics, and judging Confucius’s character.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Legge is said to have had oral help from native scholars and access to standard
+    commentaries, yet the passage claims he missed the core of Confucian doctrine.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage characterizes Legge as a Christian missionary before being a scientific
+    student and attributes to him a foregone conclusion that Confucianism was inferior
+    to Christianity.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage says Legge tended to render Chinese words rigidly with single
+    English equivalents and often ignored delicate shades of meaning.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Some Chinese terms are described as having no absolute English equivalent
+    and as requiring contextual circumlocution.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The passage says Confucius recognized the importance of defining terms and
+    making words harmonise with things.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Legge
+  description: Translator of the Confucian Canon, compiler of an account of Confucius’s
+    life, and a scholar criticized for missionary assumptions and rigid translation
+    methods.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Confucius
+  description: The Teacher, Master, and sage whose sayings, life, character, and doctrines
+    are discussed; he is associated here with having no foregone conclusions and with
+    defining terms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: native scholars
+  description: Scholars who gave Legge oral help in translating sayings in the Analects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ss-ma Chien
+  description: Biographer whose account of Confucius is named as one of Legge’s chief
+    Chinese sources.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: editorial narrator
+  description: The writer who proposes to re-examine and modify Legge’s judgments
+    and notes that examples of translation failure will be given later.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: translator and sinologue
+  assigned_to:
+  - fig:1
+  basis: Legge translated the Confucian Canon and is called a great sinologue.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: sage teacher
+  assigned_to:
+  - fig:2
+  basis: Confucius is called the great Teacher, Master, and sage, and his sayings
+    and doctrines are central to the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: missionary interpreter with prior assumption
+  assigned_to:
+  - fig:1
+  basis: The passage says Legge was a Christian missionary first and had a foregone
+    conclusion about Confucianism’s inferiority to Christianity.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: oral scholarly assistants
+  assigned_to:
+  - fig:3
+  basis: Native scholars are said to have provided Legge with oral help in translation.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: biographical source author
+  assigned_to:
+  - fig:4
+  basis: Ss-ma Chien’s biography is named as one of the chief sources for Legge’s
+    account of Confucius.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: critical commentator
+  assigned_to:
+  - fig:5
+  basis: The narrator says Legge’s judgments need re-examination and that later examples
+    of failure will be noted.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: obliterating sands of time
+  literal_form: sands of time
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rotten foundations
+  literal_form: foundations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: transplanted words and native soil
+  literal_form: words transplanted from native soil
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Legge’s scholarship raises the study of Confucius
+  summary: Legge’s completed translation and scholarly apparatus are credited with
+    removing ignorance and allowing Confucius’s figure and sayings to be studied in
+    relation to his life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Compilation of Confucius’s life from Chinese sources
+  summary: Legge uses the Analects, Ss-ma Chien’s biography, and other Chinese sources
+    to compile a coherent account of Confucius’s life, work, and wanderings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Critique of Legge’s interpretation
+  summary: The passage argues that Legge’s judgments about Confucian ethics and Confucius’s
+    character should be re-examined, despite his scholarly tools and assistance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Missionary preconception blocks understanding
+  summary: Legge’s missionary identity and prior conviction of Christianity’s superiority
+    are presented as obstacles to his understanding of Confucianism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Translation requires defining terms
+  summary: The passage criticizes rigid word-for-word translation and argues that
+    terms without direct equivalents must be handled contextually and carefully, invoking
+    Confucius’s concern with defining terms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sage wisdom through right naming
+  taxonomy_refs:
+  - wisdom
+  basis: Confucius is presented as Teacher, Master, and sage, and the passage links
+    his teaching to the importance of defining terms and aligning words with things.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is an editorial discussion of doctrine and translation, not a mythic
+    narrative episode.
+- id: motif:2
+  label: recovery of an obscured teacher from historical obscurity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says Legge’s work helped the figure of the great Teacher emerge
+    from the obliterating sands of time and allowed his sayings to be studied with
+    the events of his life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The motif is based on scholarly-historical imagery rather than a traditional
+    mythic scene.
+- id: motif:3
+  label: misunderstanding caused by prior belief
+  taxonomy_refs: []
+  basis: The passage attributes Legge’s failure to grasp the essence of Confucian
+    doctrine to a missionary purpose and a foregone conclusion about Christianity’s
+    superiority.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a critical interpretive pattern in the introduction; it is not
+    tied to a listed taxonomy family except indirectly through wisdom and interpretation.
+- id: motif:4
+  label: translation as transplantation
+  taxonomy_refs: []
+  basis: The passage describes words as being transplanted from their native soil
+    into a very different linguistic environment and requiring delicacy and care.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is metaphorical language about translation rather than a narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 214-228
+  quote_or_summary: Legge’s translation and apparatus are credited with raising Chinese
+    scholarship, removing ignorance and error, and allowing Confucius’s sayings and
+    figure to be studied in relation to his life.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 229-238
+  quote_or_summary: Legge used Chinese sources, especially the Analects and Ss-ma
+    Chien’s biography, to compile a coherent account of Confucius’s life, work, and
+    wanderings, while some blanks and minor disputes remain.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 239-252
+  quote_or_summary: The passage says Legge was on firm ground with facts but went
+    astray in inference, ethical summary, and judgment of Confucius, despite native
+    scholarly help and commentaries.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 253-261
+  quote_or_summary: The passage explains Legge’s error by saying he was first a Christian
+    missionary and had the prior conviction that Confucianism must be inferior to
+    Christianity; Confucius is contrasted as having no foregone conclusions.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 262-272
+  quote_or_summary: Legge is criticized for treating Chinese words as rigid and uniformly
+    translatable, while some Chinese terms are said to lack absolute English equivalents
+    and require contextual rendering.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 273-281
+  quote_or_summary: The passage says bad equivalents distort meaning and vitiate judgments,
+    presents an object lesson on defining terms and harmonising words with things,
+    and compares translation to transplanting words from native soil.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction of figures and observations is straightforward. Motif candidates
+    are cautious because the passage is scholarly introduction rather than mythic
+    narration. No formal comparison claims were extracted because the passage’s Confucianism-Christianity
+    comparison is evaluative and polemical rather than a clear motif-family comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No listed symbol taxonomy refs are directly present in this passage; symbolic entries are limited to explicit metaphorical images in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:confucian-sayings-of-confucius-giles-gutenberg__l214-l281
+  passage_sha256=779f26d6fc08b4c012e5ccb02447256b341b0a984c2e234895f88e53a6e61a49
+

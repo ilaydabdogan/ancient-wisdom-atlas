@@ -1,0 +1,554 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l7254-l7327
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 7254-7327
+  start: '7254'
+  end: '7327'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl flees into the forest to seek her brothers and finds six swans who
+    shed their skins and are revealed as her brothers. They explain that they can
+    be human only briefly each evening and can be freed only if she remains silent
+    and does not laugh for six years while sewing six shirts of starwort. She undertakes
+    the task, is discovered in a tree by huntsmen, and is brought to a king who marries
+    her despite her silence. The king's mother steals the queen's newborn children
+    and accuses her of being a man-eater; after the third accusation, the silent queen
+    is sentenced to death by fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The girl decides she can no longer stay where she is and leaves at night to
+    seek her brothers in the forest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After prolonged walking, she finds a forest-hut with a room containing six
+    little beds and hides under one of them.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Six swans enter through the window, shed feathers and swan skins, and the
+    maiden recognizes them as her brothers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The brothers say the hut is a shelter for robbers and that the girl cannot
+    safely remain there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The brothers say they can lay aside their swan skins and have human form for
+    only one quarter of an hour each evening before becoming swans again.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: 'The brothers state the conditions for freeing them: for six years the sister
+    must neither speak nor laugh and must sew six little shirts of starwort; one spoken
+    word would ruin the work.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The maiden resolves to deliver her brothers even if it costs her life, sits
+    on a tree in the forest, gathers starwort, and begins sewing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The maiden remains silent and keeps her attention on her sewing work.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:9
+  text: The king's huntsmen find the maiden in the tree, question her, and receive
+    no spoken answer; she throws down ornaments and clothing items to them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The huntsmen climb the tree, bring the maiden down, and lead her before the
+    king, who also receives no answer from her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The king covers the maiden with his mantle, takes her to his castle, dresses
+    her richly, seats her by him, and marries her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The king's mother is dissatisfied with the marriage and speaks against the
+    mute young queen.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: After each of three births, the old woman steals the newborn child; after
+    the first birth she smears the sleeping queen's mouth with blood and accuses her
+    of being a man-eater.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: After the third stolen child and accusation, the queen makes no verbal defence,
+    and the king delivers her to justice; she is sentenced to death by fire.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: poor girl / maiden / little sister / young Queen
+  description: A sister who seeks her six brothers, undertakes the silent sewing task
+    to free them, is later married to the king, and remains unable to speak in her
+    defence when accused.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: six brothers / six swans
+  description: The maiden's six brothers, who appear as swans, shed swan skins briefly
+    to regain human form, and require six starwort shirts and six years of the sister's
+    silence to be freed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: King of the country
+  description: A king hunting in the forest who has the silent maiden brought to him,
+    marries her, initially disbelieves accusations against her, and later delivers
+    her to justice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: huntsmen
+  description: The king's huntsmen who find the maiden in the tree, question her,
+    climb the tree, and bring her down to the king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: King's mother / old woman / false step-mother
+  description: The king's mother, described as wicked and dissatisfied with the marriage,
+    who steals the queen's children and accuses the queen of being a man-eater.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the Queen's newborn children
+  description: The queen's first child, second beautiful boy, and third newborn child,
+    each taken away by the old woman.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seeking sister
+  assigned_to:
+  - fig:1
+  basis: She leaves at night and goes into the forest to seek her brothers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: enchanted brothers in swan form
+  assigned_to:
+  - fig:2
+  basis: They appear as six swans, lay aside swan skins briefly, and then return to
+    swan form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: silent deliverer through sewing task
+  assigned_to:
+  - fig:1
+  basis: She undertakes the conditions of silence, no laughter, and sewing starwort
+    shirts to free her brothers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: royal husband and judge
+  assigned_to:
+  - fig:3
+  basis: He marries the silent maiden and later, after repeated accusations, delivers
+    her to justice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: hostile royal mother and accuser
+  assigned_to:
+  - fig:5
+  basis: She opposes the marriage, steals children, smears blood, and accuses the
+    queen of being a man-eater.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: discovering hunters
+  assigned_to:
+  - fig:4
+  basis: They discover the maiden in the tree, question her, and bring her to the
+    king.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: stolen newborns
+  assigned_to:
+  - fig:6
+  basis: The old woman takes away each of the queen's children after birth.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: forest
+  literal_form: The forest through which the maiden travels, where the hut and later
+    the tree episode occur.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: forest-hut / robber shelter
+  literal_form: A forest-hut with six little beds, later described by the brothers
+    as a shelter for robbers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: swan skins
+  literal_form: The brothers' swan skins, which can be laid aside for brief human
+    form and then resumed as swan form.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: six
+  literal_form: Six swans/brothers, six little beds, six years of silence, and six
+    little shirts of starwort.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: starwort shirts
+  literal_form: Six little shirts of starwort that the sister must sew for her brothers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: tree
+  literal_form: The tree on which the maiden sits in the forest and from which the
+    huntsmen fetch her down.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: silence and no laughter
+  literal_form: The condition that the sister must neither speak nor laugh for six
+    years; she remains mute before the huntsmen, king, and accusations.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:8
+  label: ornaments and garments thrown down
+  literal_form: The golden necklace, girdle, garters, and other clothing items the
+    maiden throws down while remaining in the tree.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: blood-smeared mouth
+  literal_form: Blood smeared on the sleeping queen's mouth by the old woman before
+    the accusation of man-eating.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: fire sentence
+  literal_form: The sentence that the queen should suffer death by fire.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Flight into the forest and recognition of swan-brothers
+  summary: The girl flees to seek her brothers, enters a forest-hut, hides under a
+    bed, and sees six swans shed skins; she recognizes them as her brothers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Conditions for freeing the brothers
+  summary: The brothers explain that they can be human only briefly each evening and
+    that their sister can free them only by six years of silence and sewing six starwort
+    shirts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Silent maiden discovered and married by the king
+  summary: The maiden sits in a tree sewing and refusing speech; huntsmen bring her
+    to the king, who takes her to his castle and marries her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Stolen children, false accusation, and fire sentence
+  summary: The king's mother steals the queen's children and accuses the silent queen
+    of man-eating; after the third accusation, the queen is sentenced to death by
+    fire.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:7
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal-skin transformation into swan form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The brothers appear as swans, shed swan skins to regain human form briefly,
+    and then fly away again as swans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the transformation state and time limit but does
+    not explain the original cause of enchantment in this excerpt.
+- id: motif:2
+  label: rescue of enchanted siblings through imposed labor
+  taxonomy_refs: []
+  basis: The sister is told that freeing her six brothers requires six years of silence
+    and sewing six starwort shirts, and she resolves to complete the task.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy includes sibling_pair, but this passage concerns
+    a sibling group rather than a pair, so no taxonomy reference is assigned.
+- id: motif:3
+  label: speech taboo during a magical task
+  taxonomy_refs: []
+  basis: The sister must neither speak nor laugh for six years, and one word would
+    cause all her work to be lost; she later remains silent even under questioning
+    and accusation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states the condition directly; broader ritual or legal meanings
+    are not inferred.
+- id: motif:4
+  label: quest to free enchanted kin
+  taxonomy_refs:
+  - mystical_quest
+  basis: The girl leaves to seek her brothers and undertakes a difficult, magical
+    rescue task in the forest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage frames a rescue and deliverance
+    task rather than using explicit quest terminology beyond seeking her brothers.
+- id: motif:5
+  label: self-sacrificial endurance for kin
+  taxonomy_refs:
+  - sacrifice
+  basis: The maiden resolves to deliver her brothers even if it costs her life and
+    continues the sewing and silence despite hardship and accusations.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is not a ritual sacrifice in the passage; the motif is limited to
+    self-risk and endurance for others.
+- id: motif:6
+  label: false accusation of cannibalism against a silent wife
+  taxonomy_refs: []
+  basis: The old woman steals the queen's children, smears the queen's mouth with
+    blood, and accuses her of being a man-eater while the queen cannot defend herself
+    with speech.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No external tale-type comparison is asserted here.
+- id: motif:7
+  label: hostile mother-in-law steals newborn children
+  taxonomy_refs: []
+  basis: The king's mother opposes the marriage and removes the queen's children after
+    each birth, using the thefts to accuse her.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage calls the figure the king's mother and also uses the phrase
+    false step-mother; the role is kept to the literal actions in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7254-7265
+  quote_or_summary: The girl leaves to seek her brothers, enters a forest-hut with
+    six little beds, and sees six swans shed feathers and swan skins; she recognizes
+    them as her brothers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7266-7279
+  quote_or_summary: The brothers warn that the hut is a robber shelter; they can lay
+    aside swan skins and be human for only one quarter hour each evening. Freeing
+    them requires six years without speech or laughter and sewing six starwort shirts;
+    one spoken word would lose all the work. They then fly away as swans.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7281-7286
+  quote_or_summary: The maiden resolves to deliver her brothers even at the cost of
+    her life, sits on a tree in the forest, gathers starwort, begins sewing, and neither
+    speaks nor laughs.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7287-7309
+  quote_or_summary: The king's huntsmen find the maiden in the tree and question her;
+    she does not answer and throws down ornaments and clothing. They bring her to
+    the king, who also receives no answer, covers her with his mantle, takes her to
+    his castle, and marries her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7311-7327
+  quote_or_summary: The king's mother speaks against the mute queen, steals each of
+    her three children, smears blood on her mouth after the first birth, and accuses
+    her of being a man-eater. The queen keeps sewing and offers no verbal defence;
+    after the third accusation she is sentenced to death by fire.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif candidates
+    are limited to directly attested patterns and available taxonomy references; no
+    cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No figures or comparisons beyond the supplied passage and provided taxonomy references were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l7254-l7327
+  passage_sha256=ba16ccf3f957682958b0fcf06354f5896e95fb9b972a9d86735c2bd982a3cde1
+

@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l8144-l8258
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: NOTES / RIGSTHULA / THE SONG OF RIG / INTRODUCTORY NOTE; lines 8144-8258
+  start: '8144'
+  end: '8258'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introductory note describes the Rigsthula as an incomplete poem preserved
+    in Codex Wormanius, explaining on a mythological basis the origins of social castes
+    and praising kingship. It discusses possible Danish royal context, Celtic influence,
+    and uncertainty over whether Rig should be identified with Heimdall or Othin.
+    The narrative opening says a god named Heimdall went by a seashore, came to a
+    dwelling, and called himself Rig. In the first stanzas, Rig travels, enters a
+    dwelling where Ai and Edda sit by the hearth, speaks wisely, receives food from
+    Edda, and lies down in bed with the two others on either side.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the Rigsthula is not in the principal codices and is preserved
+    in Codex Wormanius, where the manuscript is incomplete and the poem's end is lacking.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note characterizes the poem as a cultural poem that explains the origins
+    of thralls, peasants, and warriors on a mythological basis.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says that from the warriors springs one destined to become a king,
+    and that the poem praises the royal estate.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says the manuscript breaks off just as the connection between the
+    mythical Young Kon and a particular monarch is about to be established.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that the name Rig is almost certainly of Celtic origin and
+    that the poem shows Celtic literary influence while remaining stylistically Norse.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note reports an annotator's identification of Rig with Heimdall, but also
+    says the identification is weakly warranted and that Othin may have been intended.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The prose preface says a god named Heimdall traveled along a seashore, came
+    to a dwelling, and called himself Rig.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The first stanza describes Rig as an aged, wise, mighty, and strong god traveling
+    by green ways.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Rig enters a dwelling where there is a fire on the floor, and Ai and Edda
+    sit by the hearth in olden dress.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Rig speaks wise words and sits in the middle of the room with the others on
+    either side.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Edda brings a thick husk-filled loaf, sets food on the table, and there is
+    broth and boiled calf's flesh for the meal.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Rig prepares to sleep and lies in the bed with the two others on either side.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Rig
+  description: A god in the poem, described as aged, wise, mighty, and strong; the
+    prose frame says the god Heimdall called himself Rig, while the note discusses
+    uncertainty about this identification.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: Heimdall
+  description: Named in the prose frame as the god who traveled by the seashore and
+    called himself Rig; the note says the identification of Rig with Heimdall is disputed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ai
+  description: One of the two hoary persons sitting by the hearth in olden dress when
+    Rig enters the dwelling.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:4
+  name_or_label: Edda
+  description: One of the two hoary persons sitting by the hearth in olden dress;
+    she brings bread and sets food for the meal.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:5
+  name_or_label: Young Kon
+  description: A mythical figure mentioned in the note as the one whose connection
+    to a particular monarch would have been established after the surviving manuscript
+    breaks off.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Othin
+  description: Named in the note as the god whom the poet may have had in mind instead
+    of Heimdall when tracing royal origins to the chief of the gods.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named god in the Rig frame
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The prose preface says a god named Heimdall came to a dwelling and called
+    himself Rig; the note says this identification is disputed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: wise divine traveler
+  assigned_to:
+  - fig:1
+  basis: Rig is described as going by green ways and as aged, wise, mighty, and strong;
+    he also knows wise words to speak.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:3
+  label: elder hearth-dweller
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ai and Edda are described as hoary persons sitting by the hearth in olden
+    dress.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: provider of the meal
+  assigned_to:
+  - fig:4
+  basis: Edda brings bread and sets food on the table for the meal.
+  evidence_refs:
+  - ev:10
+- id: role:5
+  label: bed companion in the opening episode
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: When Rig lies in the bed, the others are on either side.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: mythological agent in social-origin poem
+  assigned_to:
+  - fig:1
+  basis: The note says the poem explains the origins of social castes on a mythological
+    basis, and the opening narrative centers on Rig's visits.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:7
+  label: mythical prospective royal figure
+  assigned_to:
+  - fig:5
+  basis: The note says Young Kon is the mythical figure whose connection to a monarch
+    is about to be established when the manuscript breaks off.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: possible intended chief god behind Rig
+  assigned_to:
+  - fig:6
+  basis: The note states that the poet may have had Othin rather than Heimdall in
+    mind in order to trace royal origins to the chief of the gods.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seashore
+  literal_form: A seashore along which the god travels before reaching a dwelling.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: dwelling and door
+  literal_form: A dwelling with a door on its posts that Rig enters.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: fire and hearth
+  literal_form: A fire on the floor and a hearth where Ai and Edda sit.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: bread and meal
+  literal_form: A thick husk-filled loaf, broth in a bowl, and boiled calf's flesh.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: bed
+  literal_form: The bed in which Rig lies with the others on either side.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: 'Prose frame: god reaches a dwelling by the seashore'
+  summary: Old stories say that a god named Heimdall went along a seashore, came to
+    a dwelling, and called himself Rig.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:2
+  label: Rig enters the hearth dwelling
+  summary: Rig goes forward, enters a dwelling, and finds Ai and Edda sitting by the
+    hearth near a fire.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Wise speech and seating arrangement
+  summary: Rig speaks wise words and sits in the middle of the room with the two others
+    on either side.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+- id: scene:4
+  label: Meal and sleep in the dwelling
+  summary: Edda brings and sets out food; later Rig prepares to sleep and lies in
+    the bed with the two others on either side.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: scene:5
+  label: Introductory account of caste and royal origins
+  summary: The note frames the whole poem as explaining social castes mythologically
+    and as praising the royal estate through a line culminating in a king.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mythological origin of social classes
+  taxonomy_refs:
+  - culture_hero
+  basis: The introductory note says the poem explains the origins of thralls, peasants,
+    and warriors on a mythological basis.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The supplied excerpt contains the introductory statement and opening episode,
+    but not the later caste-origin births or outcomes.
+- id: motif:2
+  label: divine grounding of kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The note says a future king springs from the warrior class, the poem praises
+    the royal estate, and the intended connection to a monarch was about to be established
+    when the manuscript broke off.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The manuscript lacks the ending, and the specific intended monarch and
+    divine identification are debated in the note.
+- id: motif:3
+  label: divine traveler received in a human dwelling
+  taxonomy_refs: []
+  basis: The prose and first stanzas describe a god called Rig traveling, entering
+    a dwelling, speaking wisely, receiving food, and sleeping there with the inhabitants.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: No later consequence of the visit is included in this passage excerpt.
+- id: motif:4
+  label: wise god associated with hidden or alternate name
+  taxonomy_refs:
+  - wisdom
+  basis: The prose says Heimdall called himself Rig, while the stanzas repeatedly
+    mark Rig as wise and able to speak wise words.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The introductory note warns that the Heimdall-Rig identification is uncertain
+    and may not reflect the poet's intention.
+comparison_claims:
+- id: claim:1
+  claim: The introductory note argues that the poem shows Celtic linguistic and literary
+    influence while retaining a broadly Norse style.
+  claim_level: historical_contact
+  target: Celtic traditions of Ireland and the Western Isles in relation to Norse
+    poetic tradition
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note describes scholarly dispute over the extent of Celtic influence
+    and does not prove a Celtic home for the poem.
+- id: claim:2
+  claim: The note makes a cautious linguistic comparison by stating that the name
+    Rig is almost certainly of Celtic origin.
+  claim_level: linguistic_similarity
+  target: Celtic origin of the name Rig
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports the translator's assessment but does not provide
+    the linguistic evidence itself.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Introductory Note, manuscript discussion
+  quote_or_summary: The poem is absent from the principal codices, appears on the
+    last sheet of Codex Wormanius, and the manuscript is incomplete so the end is
+    lacking.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Introductory Note, cultural poem and castes
+  quote_or_summary: The note says the Rigsthula is a cultural poem explaining, on
+    a mythological basis, the origins of thralls, peasants, and warriors; from the
+    warriors comes one destined to become king, making the poem a praise of the royal
+    estate.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Introductory Note, Young Kon and monarch
+  quote_or_summary: The manuscript breaks off just as the connection between the mythical
+    Young Kon and the monarch in question is about to be established.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Introductory Note, Celtic influence
+  quote_or_summary: The note says Rig is almost certainly a Celtic name, that the
+    poet had picked up Celtic words and literary spirit, and that the poem's overall
+    style remains vigorously Norse.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Introductory Note, Rig identification
+  quote_or_summary: The note says a late annotator identifies Rig with Heimdall, but
+    the poem itself gives little warrant for this; the editor suggests the poet may
+    have had Othin in mind to trace royalty to the chief of the gods.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Prose preface before stanza 1
+  quote_or_summary: Old stories say that a god named Heimdall went along a seashore,
+    came to a dwelling, and called himself Rig.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: Stanza 1
+  quote_or_summary: "“Of old the god, the aged and wise, / Mighty and strong did Rig
+    go striding.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: Stanza 2
+  quote_or_summary: Rig comes to a dwelling, enters, sees a fire on the floor, and
+    finds two hoary ones, Ai and Edda, sitting by the hearth in olden dress.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Stanza 3
+  quote_or_summary: Rig knows wise words to speak, sits in the middle of the room,
+    and the others are on either side.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: Stanza 4
+  quote_or_summary: Edda brings a heavy thick loaf swollen with husks, sets food on
+    the table, and there is broth in a bowl and boiled calf's flesh.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: Stanza 5
+  quote_or_summary: Rig rises, prepares to sleep, lies in the bed, and the others
+    are on either side.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the introductory note and first five stanzas.
+    Motif candidates involving caste origins and kingship rely on the supplied introductory
+    description rather than the full missing or later poem sequence. Comparisons to
+    Celtic influence are reported by the note and are marked with limitations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the provided passage and metadata were used. Interpretive claims about sexual union or later births were avoided because they are not stated in the supplied stanzas, though the introductory note frames the poem as a caste-origin myth.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l8144-l8258
+  passage_sha256=abd38ceb9f19a7a3af4c8e10dfd257196f4dddb4e689e3f3ede2c20257068f55
+

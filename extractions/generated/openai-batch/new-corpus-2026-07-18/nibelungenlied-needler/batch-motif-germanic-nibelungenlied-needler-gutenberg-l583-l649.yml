@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.germanic-nibelungenlied-needler-gutenberg-l583-l649
+source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+passage_locator:
+  label: II. THE NIBELUNGENLIED. / THE NIBELUNGENLIED. / THE NIBELUNGENLIED / I. THE
+    NIBELUNGEN SAGA; lines 583-649
+  start: '583'
+  end: '649'
+  translation: The Nibelungenlied
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the development of the Nibelungen saga: a nature-myth
+    is said to become a hero-saga centered on Siegfried; Burgundian historical disaster
+    and Attila''s death are reshaped into saga; and the Burgundian-Attila material
+    is joined with the Siegfried-Nibelungen material before later transmission northward
+    and eventual German written form.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a nature-myth was transformed into a hero-saga, with
+    the liberating power of light humanized as Siegfried.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The earliest localized form of the saga is placed among the Rhine Franks near
+    Cologne.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Siegfried is said to be born by the Rhine, to win the Nibelungen hoard there,
+    to find the sleeping valkyrie in Frankenland, and to enter service with the Nibelungen
+    kings and wed their sister.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Burgundians are described as an East Germanic tribe that settled on the
+    west bank of the Rhine about Worms in 413.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Burgundians are said to have suffered defeat in 435 and to have been practically
+    annihilated by the Huns in 437, with twenty thousand falling in battle and the
+    remainder scattered southward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that the destruction of the Burgundians was later ascribed
+    in fiction to Attila himself.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Attila is described as dying mysteriously after his wedding to the German
+    princess Ildico, found in bed in a pool of blood after a hemorrhage.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage reports a belief that Attila was killed by his wife, with the
+    imagined motive of revenge for German kinsmen who had perished through him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage states that Hildiko becomes the sister of the Burgundian kings
+    Gundahari, Godomar, and Gislahari, and that her deed becomes vengeance for Attila's
+    destruction of her brothers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The passage states that the Burgundian-Attila historical saga and the Siegfried
+    saga were brought together, identifying the Burgundian kings and their sister
+    with the Nibelungen kings and their sister.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Siegfried
+  description: A light-hero into whom the liberating power of light is said to have
+    been humanized; born by the Rhine, winner of the Nibelungen hoard, finder of the
+    sleeping valkyrie, and bridegroom of the Nibelungen kings' sister.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rhine Franks
+  description: A West Germanic tribe near Cologne among whom the passage locates the
+    earliest form of the saga and the transformation from nature-myth to hero-saga.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Burgundians
+  description: An East Germanic tribe settled near Worms, later nearly annihilated
+    by the Huns according to the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Huns
+  description: The people said to have practically annihilated the Burgundians in
+    437.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Attila
+  description: A conqueror to whom the Burgundian destruction was later ascribed in
+    fiction; he dies mysteriously after wedding Ildico/Hildiko.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Ildico / Hildiko
+  description: A German princess named as Attila's bride; later belief and saga make
+    her the wife who kills Attila and the sister of the Burgundian kings seeking vengeance.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Gundahari, Godomar, and Gislahari
+  description: The Burgundian kings whom Hildiko becomes the sister of in the saga
+    development described in the passage.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: Nibelungen kings and their sister
+  description: Figures of the localized Siegfried saga with whom the three Burgundian
+    kings and their sister were identified.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:9
+  name_or_label: sleeping valkyrie
+  description: A valkyrie whom Siegfried is said to find in Frankenland.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: light-hero
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Siegfried the humanized form of the liberating
+    power of light.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hoard-winner and bridegroom
+  assigned_to:
+  - fig:1
+  basis: The passage says Siegfried wins the Nibelungen hoard and weds the Nibelungen
+    kings' sister.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: saga-localizing people
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the Rhine Franks as the people among whom the transformation
+    from nature-myth to hero-saga took place and among whom the saga is earliest localized.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: annihilated people
+  assigned_to:
+  - fig:3
+  basis: The passage says the Burgundians were practically annihilated by the Huns
+    in 437.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: destroyer or attributed destroyer
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Huns are said to have annihilated the Burgundians historically, while
+    fiction later ascribed the feat to Attila.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: mysteriously dead ruler
+  assigned_to:
+  - fig:5
+  basis: The passage describes Attila's mysterious death after his wedding to Ildico/Hildiko.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: bride associated with ruler's death
+  assigned_to:
+  - fig:6
+  basis: Ildico/Hildiko is named as the bride after whose wedding Attila is found
+    dead, and later belief says he perished at his wife's hands.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: avenger of kinsmen
+  assigned_to:
+  - fig:6
+  basis: The passage says imagination found her motive in vengeance for German kinsmen,
+    and saga made her deed vengeance for her brothers.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: identified royal sibling group
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage states that the three Burgundian kings and their sister were
+    identified with the three Nibelungen kings and their sister.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Rhine
+  literal_form: river region / Rhine
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Nibelungen hoard
+  literal_form: treasure hoard
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: pool of blood
+  literal_form: blood around Attila's body in bed
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Nature-myth becomes Siegfried hero-saga
+  summary: A nature-myth is described as becoming a hero-saga in which the liberating
+    power of light is humanized as Siegfried among the Rhine Franks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Siegfried's Rhine-centered heroic acts
+  summary: Siegfried is located by the Rhine, wins the Nibelungen hoard, finds a sleeping
+    valkyrie in Frankenland, serves the Nibelungen kings, and marries their sister.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Destruction of the Burgundians
+  summary: The Burgundians settle near Worms and are later nearly annihilated by the
+    Huns, with many killed and the survivors scattered.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Attila's death and Hildiko's vengeance in saga development
+  summary: Attila's mysterious death after his wedding to Ildico/Hildiko is reshaped
+    into a story in which his wife kills him to avenge German kinsmen, then specifically
+    her Burgundian brothers.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Union of Burgundian-Attila and Siegfried-Nibelungen saga material
+  summary: The passage describes the historical Burgundian-Attila saga and the Siegfried
+    saga being brought together by identifying Burgundian royal siblings with Nibelungen
+    royal siblings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: light-hero humanization of nature force
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage states that a nature-myth became a hero-saga and that the liberating
+    power of light was humanized in Siegfried.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an introductory scholarly interpretation rather than a
+    narrative episode; the available taxonomy has no specific light-hero category.
+- id: motif:2
+  label: hero wins treasure hoard
+  taxonomy_refs: []
+  basis: The passage says Siegfried wins the Nibelungen hoard by the Rhine.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a brief summary and does not narrate the winning
+    of the hoard.
+- id: motif:3
+  label: sleeping valkyrie found by hero
+  taxonomy_refs: []
+  basis: The passage says Siegfried finds the sleeping valkyrie in Frankenland.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The figure is mentioned only in passing, without details of awakening,
+    rescue, or relationship.
+- id: motif:4
+  label: annihilation of a people reshaped into saga
+  taxonomy_refs: []
+  basis: The Burgundian destruction by the Huns is described as producing a profound
+    impression and being mingled with fiction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a tradition-history pattern in the passage, not a narrated mythic
+    scene.
+- id: motif:5
+  label: wife avenges kin by killing husband
+  taxonomy_refs: []
+  basis: The passage reports the belief that Attila perished at his wife's hands and
+    that Hildiko's deed was vengeance for her brothers destroyed by Attila.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as later belief and saga development, not as
+    confirmed history.
+- id: motif:6
+  label: marriage followed by ruler's mysterious death
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Attila is found dead on the morning after his wedding with Ildico/Hildiko.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not frame the wedding as sacred; the taxonomy reference
+    is only a broad and uncertain fit because marriage is central to the death episode.
+- id: motif:7
+  label: fusion of heroic and historical saga cycles
+  taxonomy_refs: []
+  basis: The passage states that the Burgundian-Attila saga and Siegfried saga were
+    brought together through identification of royal figures.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a motif-pattern of saga formation rather than an internal narrative
+    event.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares stages of saga development by describing a nature-myth
+    transformed into a hero-saga centered on Siegfried.
+  claim_level: same_function
+  target: nature-myth and hero-saga forms of the Siegfried material
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not give the underlying nature-myth narrative, so
+    the functional comparison remains dependent on the author's summary.
+- id: claim:2
+  claim: The passage links the Burgundian-Attila saga with the Siegfried-Nibelungen
+    saga through later identification of corresponding royal sibling groups.
+  claim_level: same_motif
+  target: Burgundian royal siblings and Nibelungen royal siblings
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports a literary-historical fusion but does not provide
+    full narrative parallels.
+- id: claim:3
+  claim: The passage says that the Burgundian-Attila saga, at a described stage of
+    development, corresponds to the outline of the saga in the Edda and then moved
+    northward to Norway and Iceland.
+  claim_level: historical_contact
+  target: Edda version of the Burgundian-Attila saga
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage refers to an earlier outline not included here and does
+    not present direct Edda text in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 583-591
+  quote_or_summary: A nature-myth becomes a hero-saga; the light-hero Siegfried is
+    localized among the Rhine Franks, born by the Rhine, wins the Nibelungen hoard,
+    finds the sleeping valkyrie in Frankenland, serves the Nibelungen kings, and marries
+    their sister.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 593-611
+  quote_or_summary: The Burgundians settle near Worms on the Rhine, suffer a reverse
+    in 435, and are practically annihilated by the Huns in 437, with twenty thousand
+    killed and the rest scattered.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 613-633
+  quote_or_summary: The Burgundian disaster is mingled with fiction and ascribed to
+    Attila; Attila dies mysteriously after marrying Ildico/Hildiko; later belief makes
+    his wife his killer, motivated by vengeance for German kinsmen, and saga makes
+    her sister of the Burgundian kings avenging her brothers.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 635-649
+  quote_or_summary: The passage describes the union of the Burgundian-Attila historical
+    saga with the Siegfried saga, identifying the Burgundian kings and their sister
+    with the Nibelungen kings and their sister, and notes northward transmission and
+    later German transformation.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly introduction summarizing saga development rather
+    than a primary narrative episode. Literal extraction is strong, while taxonomy
+    mapping is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only provided passage and metadata were used. Taxonomy references were included only where the fit was plausible from the passage and left empty where unsupported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-nibelungenlied-needler-gutenberg__l583-l649
+  passage_sha256=cb6d89a9d25499a9c0cd48f835b542ee4559869cb7f36a07781995c278654607
+

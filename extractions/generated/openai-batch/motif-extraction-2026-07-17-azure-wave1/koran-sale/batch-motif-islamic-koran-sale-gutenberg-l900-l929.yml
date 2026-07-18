@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l900-l929
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: OF THE / SECTIONS OF THE PRELIMINARY DISCOURSE / A TABLE OF THE CHAPTERS
+    / THE KORAN.; lines 900-929
+  start: '900'
+  end: '929'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A table segment lists Qur'an chapters 89 through 114 with English titles,
+    verse counts, and page numbers, followed by the beginning of the next heading.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table of chapters, listing chapter numbers 89 through 114
+    with titles, verse counts, and page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The listed titles include clustered light and time-of-day terms: The Daybreak,
+    The Sun, The Night, The Brightness, and The Afternoon.'
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: 'The listed titles include natural or bodily images: The Fig, Congealed Blood,
+    and The Earthquake.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: 'The listed titles include animal or animal-group images: The War Horses which
+    run swiftly and The Elephant.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: 'The listed titles include proper names or human categories: Koreish, The
+    Unbelievers, Abu Laheb, Men, and The Slanderer.'
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:6
+  text: Several listed titles are abstract, conceptual, or action-oriented, including
+    Evidence, Striking, Emulous Desire of Multiplying, Necessaries, Assistance, and
+    The Declaration of God's Unity.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Abu Laheb
+  description: Proper-name chapter title for chapter 111, listed with 5 verses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Koreish
+  description: Proper-name chapter title for chapter 106, listed with 4 verses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: The Unbelievers
+  description: Collective human category used as the chapter 109 title, listed with
+    6 verses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Men
+  description: Collective human category used as the chapter 114 title, listed with
+    6 verses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: The Slanderer
+  description: Descriptive actor label used as the chapter 104 title, listed with
+    9 verses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: proper-name title referent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The table uses Abu Laheb and Koreish as chapter titles.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: collective human title referent
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The table uses The Unbelievers and Men as chapter titles.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: descriptive actor title referent
+  assigned_to:
+  - fig:5
+  basis: The table uses The Slanderer as a chapter title.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Daybreak
+  literal_form: 'Chapter title: The Daybreak, appearing for chapters 89 and 113.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Sun
+  literal_form: 'Chapter title: The Sun.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Night
+  literal_form: 'Chapter title: The Night.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Brightness
+  literal_form: 'Chapter title: The Brightness.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Afternoon
+  literal_form: 'Chapter title: The Afternoon.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Fig
+  literal_form: 'Chapter title: The Fig.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Congealed Blood
+  literal_form: 'Chapter title: Congealed Blood.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: Earthquake
+  literal_form: 'Chapter title: The Earthquake.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: War horses
+  literal_form: 'Chapter title: The War Horses which run swiftly.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:10
+  label: Elephant
+  literal_form: 'Chapter title: The Elephant.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:11
+  label: Territory
+  literal_form: 'Chapter title: The Territory.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Light and time-of-day title cluster
+  taxonomy_refs:
+  - duality
+  basis: The table places or repeats titles naming daybreak, sun, night, brightness,
+    and afternoon within the listed chapter sequence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: This is only a title-level pattern in a table of contents; the passage
+    provides no narrative action, explicit opposition, or doctrinal explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 900-929
+  quote_or_summary: The table segment lists chapters 89-114 with their titles, verse
+    counts, and page numbers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 900-929, entries 89 and 113
+  quote_or_summary: Entries 89 and 113 are both titled The Daybreak, with 30 and 5
+    verses respectively.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 900-929, entries 91-93 and 103
+  quote_or_summary: Entries 91, 92, 93, and 103 are titled The Sun, The Night, The
+    Brightness, and The Afternoon.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 900-929, entries 95-96 and 99
+  quote_or_summary: Entries 95, 96, and 99 are titled The Fig, Congealed Blood, and
+    The Earthquake.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 900-929, entries 100 and 105
+  quote_or_summary: Entry 100 is titled The War Horses which run swiftly, and entry
+    105 is titled The Elephant.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 900-929, entries 106, 109, 111, and 114
+  quote_or_summary: Entries 106, 109, 111, and 114 are titled Koreish, The Unbelievers,
+    Abu Laheb, and Men.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 900-929, entries 97-98, 101-102, 104, 107-108, 110, and 112
+  quote_or_summary: The table includes titles Al Kadr, The Evidence, The Striking,
+    The Emulous Desire of Multiplying, The Slanderer, Necessaries, Al Cawthar, Assistance,
+    and The Declaration of God's Unity.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:8
+  type: summary
+  locator: lines 900-929, entries 90 and 94
+  quote_or_summary: Entry 90 is titled The Territory, and entry 94 is titled Have
+    we not Opened.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is tabular. Motif
+    identification is limited because the passage gives chapter titles only, not narrative
+    or exposition. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage is a table-of-contents segment rather than a narrative passage; symbols and motif candidates are therefore title-level only.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l900-l929
+  passage_sha256=c17881ff6cc058066fbfe003fb43c01fa6d11b146085161e05ef77d26f6f2428
+

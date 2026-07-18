@@ -1,0 +1,467 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l7880-l7959
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: HYMN TO OSIRIS / HYMN TO SHU / CHAPTER XIII / MORAL AND PHILOSOPHICAL LITERATURE;
+    lines 7880-7959
+  start: '7880'
+  end: '7959'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Egyptian moral-philosophical text in which a man
+    weary of life debates suicide with his soul. The soul argues about burial, funerary
+    rites, fire, the kingdom of the dead, and the uncertainty of offerings after death,
+    then urges the man to pursue happiness and banish care. The man rejects this advice,
+    says death is preferable to life, compares his name to foul smells, and laments
+    a society without loyalty, righteousness, contentment, or true friends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The document is described as a mutilated papyrus copy recording a conversation
+    between a suffering man and his soul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man is weary of the world and wishes to kill himself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man discusses the question of suicide with his soul as if the soul were
+    distinct from him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The soul initially restrains the man by saying that no one would bury him
+    properly or perform funerary ceremonies.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The soul advises self-destruction by fire, but then draws back because it
+    fears the suffering of such a bodily death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The man asks the soul to perform his last rites, and the soul refuses, saying
+    it does not wish to depart to the kingdom of the dead.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The soul describes burial as connected with mourning, tears, separation from
+    the house, being cast on a hill, and not seeing the sun again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The soul contrasts wealthy tombs and pyramids with bare offering slabs, saying
+    fine burial does not ensure continuing food offerings.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The soul describes Corvée workers dying near canals, partly on land and water,
+    drowned and eaten by fish, or bloated under the sun.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The soul ends with the advice to follow the day of happiness and banish care.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The man rejects the soul's advice and says death would be preferable to life.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The man laments social disorder, saying brothers are bad, friends lack love,
+    people seize neighbors' goods, righteousness is absent, and evil has struck the
+    land.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the man who was tired of life
+  description: A man who has suffered misfortunes, is weary of the world, debates
+    suicide with his soul, rejects the counsel to enjoy life, and laments society.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the man's soul
+  description: The man's soul is treated as a distinct interlocutor; it warns about
+    burial, suggests fire, fears bodily suffering, refuses last rites, objects to
+    death, and advises happiness.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: relations, friends, kinsfolk, and offering providers
+  description: A collective group described as absent or unreliable; relatives and
+    friends have forsaken the man or may fail to provide funerary offerings for the
+    dead.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: deceased people of the Corvée
+  description: Wretched laborers used as examples of bodies left by canals, partly
+    on land and water, drowned and eaten by fish, or bloated in the sun.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: wealthily buried deceased
+  description: People with granite tombs and pyramid-like funerary monuments who lie
+    in state, but whose offering slabs may still be bare.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: weary sufferer considering suicide
+  assigned_to:
+  - fig:1
+  basis: The passage says the man suffered misfortunes, was weary of life, and wished
+    to kill himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: personified soul as debating companion
+  assigned_to:
+  - fig:2
+  basis: The man discusses suicide with his soul as if it were a distinct being.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: advisor who both proposes and resists death
+  assigned_to:
+  - fig:2
+  basis: The soul advises fire but draws back, refuses last rites, and objects to
+    death in any form.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: social lamenter
+  assigned_to:
+  - fig:1
+  basis: The man rejects hedonistic advice and condemns family, friends, neighbors,
+    and the land as corrupt.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: absent or unreliable funerary support
+  assigned_to:
+  - fig:3
+  basis: The soul's warning depends on the lack of someone to bury the man and on
+    the uncertainty of kin making offerings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: examples of neglected or exposed dead
+  assigned_to:
+  - fig:4
+  basis: The Corvée dead are described as lying by canals, in water, eaten by fish,
+    or bloated by the sun.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: examples of honored burial without guaranteed offerings
+  assigned_to:
+  - fig:5
+  basis: The passage describes granite tombs, pyramids, and offering slabs that may
+    nevertheless be bare.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire as proposed means of self-destruction
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: proper burial and funerary ceremonies
+  literal_form: burial, last rites, funerary ceremonies, and offerings
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tomb, pyramid, and offering slab
+  literal_form: granite tombs, funerary monuments in the form of pyramids, and slabs
+    set to receive offerings
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hill and lost sight of the sun
+  literal_form: a person torn from his house, thrown upon a hill, and never going
+    up again to see the sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: canal water and fish around exposed bodies
+  literal_form: canal banks, land and water, bodies in water, and fish eating the
+    dead
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: day of happiness
+  literal_form: the advice to follow after the day of happiness and banish care
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Man and soul debate suicide
+  summary: A weary man speaks with his soul as a separate interlocutor about whether
+    he should kill himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Soul argues over burial, fire, and last rites
+  summary: The soul warns that no one will bury the man, advises death by fire, then
+    recoils from that death and refuses to perform last rites or go to the kingdom
+    of the dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Soul's examples of burial and neglected bodies
+  summary: The soul describes burial as sorrowful, questions the value of fine tombs
+    and offerings, and gives examples of exposed Corvée dead by canals and water.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Counsel to happiness and rejection by the man
+  summary: The soul advises the man to pursue happiness and banish care, but the man
+    rejects this view and states that death is preferable to life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Complaint against corrupt society
+  summary: The man describes bad brothers, loveless friends, theft, shameless hearts,
+    absence of righteous people, and evil without end in the land.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dialogue with one's own soul
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The central action is a debate between the man and his soul, explicitly treated
+    as if the soul were distinct from the man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is mediated through an English translation and editorial summary
+    rather than a full continuous primary-text quotation.
+- id: motif:2
+  label: proper burial as a condition for secure death
+  taxonomy_refs: []
+  basis: The soul's first objection to suicide is that no one would bury the man properly
+    or perform funerary ceremonies; later it questions whether tombs and offerings
+    actually secure continuing existence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage discusses funerary rites and offerings, but does not give
+    a detailed afterlife journey map.
+- id: motif:3
+  label: self-destruction by fire and recoil from bodily suffering
+  taxonomy_refs: []
+  basis: The soul proposes death by fire, apparently because ashes require no further
+    care, but then fears the sufferings of such a death for the body.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The fire episode is reported in summary by the translator/editor, and
+    no broader ritual or mythic fire pattern is established in the passage.
+- id: motif:4
+  label: carpe diem counsel against concern for death
+  taxonomy_refs:
+  - wisdom
+  basis: The soul concludes with the advice to follow happiness and banish care, and
+    the passage glosses this as making oneself happy and not being troubled by present
+    or future concerns.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage attributes this outlook broadly to Egyptians, but that broader
+    cultural claim is not independently demonstrated here.
+- id: motif:5
+  label: world-weariness and complaint against a corrupt age
+  taxonomy_refs:
+  - wisdom
+  basis: The man says death is preferable to life and describes a society of bad brothers,
+    loveless friends, theft, shameless hearts, lack of righteous men, and pervasive
+    evil.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a moral and philosophical complaint rather than a narrative mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the soul's advice to pursue happiness and banish
+    care with the saying in St. Luke xii.19, 'Take thine ease, eat, drink, and be
+    merry,' presenting both as similar counsel to enjoy life.
+  claim_level: same_function
+  target: St. Luke xii.19, the rich man speaking to his soul
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is made by the translator/editor in the supplied passage;
+    it does not demonstrate historical contact or dependence, and the biblical passage
+    is not analyzed independently here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7880-7959, opening description of the document
+  quote_or_summary: A mutilated papyrus copy is said to record a conversation between
+    a man who suffered grievous misfortunes, was weary of the world, and wished to
+    kill himself, and his soul.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; supplied passage summarized.
+- id: ev:2
+  type: summary
+  locator: 7880-7959, account of the man and soul's debate over death
+  quote_or_summary: The man debates suicide with his soul as a distinct being; the
+    soul warns about the lack of proper burial, advises destruction by fire, then
+    fears that death, refuses last rites, and objects to going to the kingdom of the
+    dead.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; supplied passage summarized.
+- id: ev:3
+  type: summary
+  locator: 7880-7959, soul's speech on burial and offerings
+  quote_or_summary: The soul says burial brings mourning and separation, describes
+    being cast on a hill and not seeing the sun, questions fine tombs and bare offering
+    slabs, and contrasts them with Corvée dead by canals, water, fish, and sun.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; supplied passage summarized.
+- id: ev:4
+  type: quote
+  locator: 7880-7959, soul's closing advice and editor's comparison
+  quote_or_summary: '"Follow after the day of happiness, and banish care"; the passage
+    compares this to "Take thine ease, eat, drink, and be merry" in St. Luke xii.19.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7880-7959, man's rejection of the soul's advice
+  quote_or_summary: The advice is not acceptable to the man; he answers in rhythmic
+    language that death would be preferable to life and compares his name with foul
+    smells of birds, fish, marshes, and crocodiles.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; supplied passage summarized.
+- id: ev:6
+  type: quote
+  locator: 7880-7959, man's social complaint
+  quote_or_summary: '"Brothers are bad, and the friends of to-day lack love"; the
+    man also says hearts are shameless, neighbors'' goods are seized, no righteous
+    men are left, and evil has smitten the land.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short excerpt and summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is in English and provides clear narrative and thematic statements,
+    but it is an anthology translation/editorial summary with embedded excerpts; motif
+    taxonomy mapping is therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The passage label in the request names neighboring section headings, but the supplied text concerns the so-called Talk of a Man Who Was Tired of Life with His Soul.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l7880-l7959
+  passage_sha256=6f6f2bd57a04a19190db916ace6d4bcf92f1d08406cf8c5f28220ec2980b7303
+

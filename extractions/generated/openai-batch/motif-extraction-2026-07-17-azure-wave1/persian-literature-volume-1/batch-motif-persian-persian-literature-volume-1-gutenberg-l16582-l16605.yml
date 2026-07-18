@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l16582-l16605
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: CXXIX / CXXXIV / CXXXV / CXLVI; lines 16582-16605
+  start: '16582'
+  end: '16605'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A lyric speaker addresses a beautiful beloved who has seized the heart,
+    describes sighs and the beloved's sharp dart, uses ruby and night-star comparisons
+    for beauty, offers the soul after the heart has been taken, and ends by addressing
+    Hfiz with an instruction to cling and sever all ties after entering Love's holy
+    bane.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker addresses a second-person figure whose grace and shape have ravished
+    the speaker's heart.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed figure is said to care for no one, while no soul can escape
+    from that figure.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker describes alternation between drawing sighs from the heart and
+    experiencing the addressed figure's sharp dart.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says words cannot represent all the ills endured from the heart.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker discusses commending the addressed figure's sweet lips to rivals
+    through ruby imagery.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The addressed figure's beauty is described as increasing each day, so that
+    the night-star is no longer an adequate comparison.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker says the addressed figure has taken the speaker's heart and asks
+    that the soul be taken too.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The final lines address Hfiz, say his foot has entered Love's holy bane, and
+    instruct him to hold a skirt and sever all ties.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: poetic speaker / Hfiz
+  description: First-person speaker who says the heart is ravished and reft, endures
+    ills, and is explicitly addressed as Hfiz in the closing lines.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: addressed beloved
+  description: Second-person addressee described through grace, shape, sweet lips,
+    beauty, a sharp dart, and the taking of the speaker's heart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: rivals
+  description: A plural group mentioned as possible recipients of speech commending
+    the addressed figure's lips.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: suffering lover-speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker's heart is ravished and reft, and the speaker describes sighs,
+    ills, grief, and offering the soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: captivating beloved
+  assigned_to:
+  - fig:2
+  basis: The addressee ravishes the heart, is associated with beauty and sweet lips,
+    and is said to be inescapable to souls.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: one entering Love and renouncing ties
+  assigned_to:
+  - fig:1
+  basis: Hfiz is told that his foot has made its way into Love's holy bane and is
+    instructed to sever all ties.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: rival audience
+  assigned_to:
+  - fig:3
+  basis: The passage names rivals in connection with the speaker's possible praise
+    of the beloved's lips.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heart
+  literal_form: heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: sharp dart
+  literal_form: thy sharp dart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ruby lips comparison
+  literal_form: sweet lips by the ruby's tent gemmed
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: night-star comparison
+  literal_form: night-star
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: soul
+  literal_form: my soul
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Love's holy bane
+  literal_form: Love's holy bane
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: holding the skirt and severing ties
+  literal_form: his skirt with thy hand; all ties
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Address to the beloved and heart-pain
+  summary: The speaker addresses the beloved as one who has ravished the heart and
+    describes sighs, a sharp dart, and ills endured from the heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Beauty compared through precious and celestial images
+  summary: The speaker treats the beloved's lips through ruby imagery and says the
+    beloved's increasing beauty surpasses comparison with the night-star.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Surrender and renunciation in Love
+  summary: The speaker says the beloved has taken the heart and asks that the soul
+    be taken too; the closing address to Hfiz instructs him to cling and sever all
+    ties after entering Love's holy bane.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inescapable beloved who seizes the heart
+  taxonomy_refs:
+  - divine_beloved
+  basis: The addressee ravishes the speaker's heart, is said to be inescapable to
+    souls, and has taken the heart while the speaker offers the soul.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: low
+  cautions: The beloved is not explicitly identified as divine; the taxonomy reference
+    is tentative and based on absolutized language and the holy Love context.
+- id: motif:2
+  label: love as wound and grief
+  taxonomy_refs: []
+  basis: The passage uses the beloved's sharp dart, sighs, ills of the heart, and
+    grief language for the speaker's condition.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a lyric pain motif rather than a full mythic episode.
+- id: motif:3
+  label: entry into Love followed by renunciation
+  taxonomy_refs:
+  - mystical_quest
+  - initiation
+  - departure
+  basis: Hfiz is told his foot has made its way into Love's holy bane and is instructed
+    to lay hold of the skirt and sever all ties from that day.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives an exhortation and threshold image, not a developed
+    journey narrative.
+- id: motif:4
+  label: surrender of heart and soul
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker says the beloved has taken the heart and invites the taking of
+    the soul as well.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage states self-surrender imagery but does not explicitly describe
+    union or annihilation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16584-16586
+  quote_or_summary: '"O thou who hast ravished my heart"; the addressee is also said
+    to be one from whom no soul can escape.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt permitted.
+- id: ev:2
+  type: summary
+  locator: lines 16588-16590
+  quote_or_summary: The speaker draws sighs from the heart, names the addressee's
+    sharp dart, and says words cannot represent the heart's ills.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:3
+  type: summary
+  locator: lines 16592-16596
+  quote_or_summary: The speaker discusses ruby imagery for the beloved's sweet lips,
+    mentions rivals, and says the beloved's increasing beauty surpasses the night-star
+    as comparison.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:4
+  type: quote
+  locator: lines 16598-16600
+  quote_or_summary: '"My heart hast thou reft: take my soul!" followed by language
+    of grief and a collector.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt permitted.
+- id: ev:5
+  type: quote
+  locator: lines 16602-16605
+  quote_or_summary: '"O Hfiz, in Love''s holy bane"; Hfiz is told to hold a skirt
+    and sever all ties.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short excerpt permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward for the short lyric. Motif mapping
+    is more tentative because the passage is devotional/lyric rather than narrative,
+    and the beloved is not explicitly identified as divine. No explicit cross-text
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line-specific evidence locators are inferred from the supplied stable line range and passage wrapping. No available symbol taxonomy refs directly matched the passage images.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l16582-l16605
+  passage_sha256=b9f1a72d629dc71d80b92e7c9ad8ba20f5e729ef7c0e18c0ae53ba629cbfbf19
+

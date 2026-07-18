@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l108-l126
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: THE WORLD'S REWARD                          28 / THE LION AND THE JACKAL                     33
+    / TINK-TINKJE                                 42 / THE LION AND JACKAL                         45;
+    lines 108-126
+  start: '108'
+  end: '126'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents excerpt lists ten tale titles with page numbers, including
+    titles naming Monkey, Tiger, Ram, Jackal, Wolf, Lion, Man, and Tink-Tinkje.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents segment listing ten titles with page numbers
+    from 10 to 45.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jackal is named in six listed titles.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+- id: obs:3
+  text: Wolf is named in two listed titles, both with Jackal.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:4
+  text: Lion is named with Jackal in three listed titles; one of those titles also
+    names Man.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:11
+- id: obs:5
+  text: The title “THE MONKEY'S FIDDLE” uses a possessive form linking Monkey with
+    a fiddle.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: "“TINK-TINKJE” appears as a standalone listed title with page number 42."
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Monkey
+  description: Animal named in the possessive title “THE MONKEY'S FIDDLE.”
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Tiger
+  description: Animal named with Ram and Jackal in a listed title.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ram
+  description: Animal named with Tiger and Jackal in a listed title.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Jackal
+  description: Animal named in six listed titles, paired or grouped with Tiger, Ram,
+    Wolf, Lion, and Man.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+- id: fig:5
+  name_or_label: Wolf
+  description: Animal named in two listed titles with Jackal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Lion
+  description: Animal named in three listed titles with Jackal; one title also names
+    Man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:11
+- id: fig:7
+  name_or_label: Man
+  description: Human figure named in a listed title with Lion and Jackal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: title-named animal
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each assigned figure is an animal noun appearing in one or more listed titles.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+- id: role:2
+  label: recurring title figure
+  assigned_to:
+  - fig:4
+  basis: Jackal appears across six titles in the excerpt.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+- id: role:3
+  label: title-named human
+  assigned_to:
+  - fig:7
+  basis: Man is named in the title “THE LION, THE JACKAL, AND THE MAN.”
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: possessive title figure
+  assigned_to:
+  - fig:1
+  basis: The title “THE MONKEY'S FIDDLE” uses the possessive form for Monkey.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fiddle
+  literal_form: fiddle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: recurring jackal-centered animal-title pattern
+  taxonomy_refs: []
+  basis: Jackal is the only named figure recurring across six titles, where it is
+    paired or grouped with other animals and once with Man.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:11
+  confidence: low
+  cautions: The excerpt provides only titles and page numbers, not narrative actions
+    or character functions; this is a title-level pattern rather than a verified narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 108-126
+  quote_or_summary: Table-of-contents excerpt listing ten tale titles with page numbers
+    from 10 through 45.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short title references used.
+- id: ev:2
+  type: quote
+  locator: line 108
+  quote_or_summary: THE LOST MESSAGE                            10
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: line 110
+  quote_or_summary: THE MONKEY'S FIDDLE                         14
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: line 112
+  quote_or_summary: THE TIGER, THE RAM, AND THE JACKAL          19
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: line 114
+  quote_or_summary: THE JACKAL AND THE WOLF                     22
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: line 116
+  quote_or_summary: A JACKAL AND A WOLF                         24
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: line 118
+  quote_or_summary: THE LION, THE JACKAL, AND THE MAN           25
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: line 120
+  quote_or_summary: THE WORLD'S REWARD                          28
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: line 122
+  quote_or_summary: THE LION AND THE JACKAL                     33
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: line 124
+  quote_or_summary: TINK-TINKJE                                 42
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: quote
+  locator: line 126
+  quote_or_summary: THE LION AND JACKAL                         45
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is a table of contents.
+    Motif identification is limited because no narrative content is present. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference is assigned; the passage does not provide enough narrative detail to support a trickster, sacred, or cosmological classification.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l108-l126
+  passage_sha256=87e0a635a94d500d31f61cd6131b61680ffa8b9732b94e1363fc5b74085054fb
+

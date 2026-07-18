@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l11858-l11958
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 11858-11958
+  start: '11858'
+  end: '11958'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Hans exchanges a heavy lump of gold for a horse; after being thrown from
+    the horse, he exchanges it for a cow. When the cow gives no milk and kicks him,
+    a butcher offers a pig for the cow. A lad carrying a goose then warns Hans that
+    the pig may be stolen, and Hans trades the pig for the goose.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hans says the lump he carries is gold, but it hurts his shoulder and prevents
+    him from holding his head straight; the rider proposes exchanging a horse for
+    it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hans rides the horse, urges it faster with the call taught by the rider, and
+    is thrown into a ditch; a countryman driving a cow stops the horse.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hans says he prefers the countryman’s cow because one can walk behind it and
+    have milk, butter, and cheese; he exchanges the horse for the cow.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hans eats at an inn, continues toward his mother’s village, becomes thirsty
+    on a hot moor, ties the cow to a withered tree, and tries to milk it into his
+    leather cap.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cow gives no milk and kicks Hans on the head; a butcher helps him up,
+    gives him a drink, and says the cow is old and fit only for ploughing or slaughter.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: Hans praises the value of a young pig for meat and sausages; the butcher exchanges
+    the pig for the cow.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A lad carrying a fat white goose says he is taking it to a christening-feast.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The lad warns that a pig has been stolen from the mayor’s sty and that Hans
+    may be imprisoned if caught with it; Hans, terrified, asks the lad to take the
+    pig and leave the goose.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The lad takes the pig’s cord and drives the pig quickly away along a by-path.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hans
+  description: A traveler on the road who repeatedly trades what he has and interprets
+    the trades as good fortune.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: rider
+  description: A mounted man who offers Hans a horse in exchange for the lump of gold
+    and tells him how to urge the horse onward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: horse or mare
+  description: The animal Hans receives for the gold; when urged faster, it trots
+    sharply and throws him into a ditch.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: countryman
+  description: A man driving a cow along the road; he stops the horse and exchanges
+    his cow for Hans’s horse.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: cow
+  description: The animal Hans receives for the horse; Hans expects dairy products
+    from it, but it gives no milk and kicks him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: butcher
+  description: A man with a wheel-barrow containing a young pig; he helps Hans, gives
+    him a drink, explains the cow’s uselessness for milk, and exchanges the pig for
+    the cow.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: young pig
+  description: The animal lying in the butcher’s wheel-barrow and later given to Hans
+    in exchange for the cow.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:8
+  name_or_label: lad
+  description: A boy carrying a white goose who warns Hans that the pig may be stolen
+    and then takes the pig in exchange for the goose.
+  role_refs:
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: white goose
+  description: A fattened white goose carried under the lad’s arm for a christening-feast
+    and left with Hans in exchange for the pig.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: traveling exchanger
+  assigned_to:
+  - fig:1
+  basis: Hans moves along the road and successively gives up gold, horse, cow, and
+    pig in exchange for other goods or animals.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: exchange counterpart
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: Each figure participates in one of Hans’s exchanges.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:3
+  label: dangerous mount
+  assigned_to:
+  - fig:3
+  basis: The horse throws Hans into a ditch after he urges it into a sharp trot.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: roadside helper
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The countryman stops the horse after Hans falls, and the butcher helps Hans
+    up and gives him a drink.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: contented evaluator of bargains
+  assigned_to:
+  - fig:1
+  basis: Hans repeatedly expresses delight or good luck about his bargains and thinks
+    that everything is going as he wished.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:6
+  label: failed dairy animal
+  assigned_to:
+  - fig:5
+  basis: Hans expects milk from the cow, but it gives none and is described by the
+    butcher as an old beast unsuitable for milk.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: meat animal and object of theft warning
+  assigned_to:
+  - fig:7
+  basis: Hans values the pig for meat and sausages, and the lad later warns that such
+    a pig may have been stolen.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:8
+  label: alarm-giving exchange partner
+  assigned_to:
+  - fig:8
+  basis: The lad frightens Hans by warning of theft suspicion and possible confinement,
+    after which Hans offers him the pig for the goose.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: feast animal
+  assigned_to:
+  - fig:9
+  basis: The goose is described as fattened for eight weeks and being taken to a christening-feast.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: heavy gold lump
+  literal_form: lump of gold
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: horse as traded mount
+  literal_form: horse or mare
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: expected dairy abundance
+  literal_form: milk, butter, and cheese from the cow
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: withered tree
+  literal_form: withered tree used to tie the cow
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: pig as meat and risk object
+  literal_form: young pig, meat, sausages, and alleged stolen pig
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:6
+  label: white goose for christening feast
+  literal_form: fat white goose carried to a christening-feast
+  associated_figures:
+  - fig:1
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: dark hole threat
+  literal_form: being shut up in the dark hole
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: gold exchanged for horse
+  summary: Hans complains that the gold is a painful burden, and the rider offers
+    his horse in exchange for it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: fall from horse and horse exchanged for cow
+  summary: Hans urges the horse onward, is thrown into a ditch, meets a countryman
+    with a cow, and trades the horse for the cow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: failed milking on the moor
+  summary: On a hot moor Hans tries to milk the cow, tying it to a withered tree and
+    using his cap as a vessel, but the cow gives no milk and kicks him.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: cow exchanged for pig
+  summary: A butcher helps Hans, says the cow is too old for milk, and exchanges a
+    young pig for the cow after Hans praises pork and sausages.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: pig exchanged for goose after theft warning
+  summary: A lad with a goose warns Hans that the pig may be stolen and that he could
+    be confined; frightened, Hans gives up the pig for the goose, and the lad drives
+    the pig away by a side path.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: chain of successive exchanges
+  taxonomy_refs: []
+  basis: 'The passage presents a sequence of trades: gold for horse, horse for cow,
+    cow for pig, and pig for goose.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The supplied taxonomy has no exact chain-exchange motif reference, so
+    no taxonomy ID is assigned.
+- id: motif:2
+  label: loss reinterpreted as good luck
+  taxonomy_refs: []
+  basis: Hans repeatedly responds to disadvantage or danger by deciding that the next
+    object is preferable and by describing his bargains as fortunate.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive passage-level motif, not a claim about the whole
+    tale.
+- id: motif:3
+  label: animal utility proves unreliable
+  taxonomy_refs: []
+  basis: The horse throws Hans, the cow produces no milk and kicks him, and the pig
+    becomes associated with a threat of theft suspicion.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The pig’s theft status is only reported by the lad and is not confirmed
+    within the passage.
+- id: motif:4
+  label: fear-induced exchange
+  taxonomy_refs: []
+  basis: The lad’s warning that Hans might be caught with a stolen pig and shut up
+    in a dark hole causes Hans to give up the pig for the goose.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not confirm whether the warning is true or deceptive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11858-11866
+  quote_or_summary: Hans complains that the gold lump is painful to carry; the rider
+    offers to exchange his horse for it, and Hans agrees.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 11867-11879
+  quote_or_summary: Hans rides the horse, urges it with the rider’s call, is thrown
+    into a ditch, and the horse is stopped by a countryman driving a cow.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 11880-11894
+  quote_or_summary: Hans says a cow is preferable because it can be walked behind
+    and can provide milk, butter, and cheese; the countryman exchanges the cow for
+    the horse.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 11895-11913
+  quote_or_summary: After eating at an inn and crossing a hot moor, Hans tries to
+    milk the cow while it is tied to a withered tree, but receives no milk and is
+    kicked on the head.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 11914-11931
+  quote_or_summary: A butcher helps Hans, gives him a drink, says the cow is old and
+    unsuitable for milk, and exchanges a young pig for the cow after Hans praises
+    pork and sausages.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 11932-11943
+  quote_or_summary: A lad carrying a fat white goose says he is taking it to a christening-feast;
+    Hans tells him of his good luck and bargains.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:7
+  type: summary
+  locator: lines 11944-11958
+  quote_or_summary: The lad warns Hans that the pig may be stolen from the mayor and
+    that Hans could be shut in a dark hole; Hans trades the pig for the goose, and
+    the lad drives the pig away by a side path.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    descriptive and passage-level; no external comparative claim or folktale-index
+    identification is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Subrange line locators are approximate divisions within the supplied canonical line range.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l11858-l11958
+  passage_sha256=3a4fab77223419f128baaf1661df58f233376f3b03a22d2ec0c9b47628cc7d69
+

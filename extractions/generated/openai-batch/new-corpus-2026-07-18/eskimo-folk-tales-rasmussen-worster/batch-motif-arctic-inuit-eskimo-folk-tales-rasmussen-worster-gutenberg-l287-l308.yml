@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l287-l308
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: Eskimo Folk-Tales / INTRODUCTION; lines 287-308
+  start: '287'
+  end: '308'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“This regret for the passing of ‘the former age’...”"
+  summary: 'The passage describes how explanatory comments in Eskimo folk-tales distinguish
+    old times from new. It identifies two attitudes toward the past: condescension
+    toward forefathers as ignorant and regret for a former age of greater skill, strength,
+    virtue, courage, or magic power. The editor presents this regret as a poetic and
+    human trait.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Explanatory comments may be inserted into stories, stating that something
+    happened in the old days or that men thought so in the olden time.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that there is a general recognition of the difference between
+    old times and new.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One described attitude is condescension toward forefathers, presented as the
+    view that they were ignorant folk.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The opposite attitude mourns present degeneration from earlier days when men
+    were skilful kayak rowers or when things could still be done by magic power.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The former age is described as an age of greater strength, virtue, courage,
+    skill, or as a Golden Age of Romance.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says this regret gives Eskimo hunters a place among the poets
+    of the world.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Forefathers or men of the olden time
+  description: People of the earlier age, described through present attitudes as either
+    ignorant forefathers or as men capable of skill and magic power.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Present-day Eskimo hunters
+  description: The passage describes poor Eskimo hunters who preserve or express regret
+    for the former age and are thereby placed among the poets of the world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Ancestral people of the former age
+  assigned_to:
+  - fig:1
+  basis: The passage refers to forefathers, men in the olden time, and earlier days
+    when men had notable skill or magic power.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Modern bearers of regret for the past
+  assigned_to:
+  - fig:2
+  basis: The passage associates Eskimo hunters with regret for the passing of the
+    former age and describes that regret as poetic.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Kayak
+  literal_form: "‘kayaks’"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Former age
+  literal_form: "“the former age” / “Golden Age of Romance”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanations of old days
+  summary: Stories may include explanatory statements that locate events or beliefs
+    in the old days or olden time.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Old time contrasted with new time
+  summary: 'The passage contrasts two attitudes toward the past: contempt for ignorant
+    forefathers and mourning for a more capable earlier age.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Regret for the former age as poetic theme
+  summary: Regret for the passing of the former age is described as the point where
+    the stories reach a high poetic level and as a trait linking Eskimo hunters with
+    poets more broadly.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Old time versus new time
+  taxonomy_refs: []
+  basis: The passage explicitly describes a recognized difference between old times
+    and new and shows contrasting attitudes toward that difference.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is extracted from editorial introduction rather than from an individual
+    tale episode.
+- id: motif:2
+  label: Nostalgia for a stronger or magical former age
+  taxonomy_refs: []
+  basis: The passage describes mourning present degeneration from earlier days of
+    greater skill and magic power, then names regret for the former age as a central
+    poetic trait.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is stated as a general interpretive pattern in the introduction,
+    not as a narrative event in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames regret for the former age as comparable to a Golden
+    Age pattern.
+  claim_level: archetypal_reading
+  target: Golden Age / former-age nostalgia pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the editor’s phrasing in an introduction; the passage does
+    not provide a full tale narrative or evidence for historical relationship with
+    another tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 287-289
+  quote_or_summary: "“This happened in the old days,” or “So men thought in the olden
+    time.”"
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 289-295
+  quote_or_summary: 'The passage notes a “difference between old times and new” and
+    cites the attitude: “So our forefathers used to do, for they were ignorant folk.”'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 295-298
+  quote_or_summary: The opposite view mourns degeneration from earlier days “when
+    men were yet skilful rowers in ‘kayaks,’” or when things could still be done “by
+    magic power.”
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 300-304
+  quote_or_summary: The passage describes “regret for the passing of ‘the former age’”
+    as regret for an age of greater strength, virtue, courage, skill, or “the Golden
+    Age of Romance.”
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 304-307
+  quote_or_summary: The passage says this human trait gives poor Eskimo hunters, despite
+    hardship, a place among the poets of the world.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the introductory passage. Motif identification
+    is moderate because the passage is editorial commentary rather than a tale episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned, because the passage’s main pattern is former-age nostalgia rather than one of the supplied taxonomy families.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l287-l308
+  passage_sha256=0ecb2e5e3db21d149240b95d27be9ed2f3ab3265d7aafb9dbf192ff9d820b5b7
+

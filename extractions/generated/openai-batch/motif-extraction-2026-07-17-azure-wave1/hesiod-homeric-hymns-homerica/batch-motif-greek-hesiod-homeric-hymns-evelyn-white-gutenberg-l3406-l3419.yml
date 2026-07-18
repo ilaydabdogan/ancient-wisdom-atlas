@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.greek-hesiod-homeric-hymns-evelyn-white-gutenberg-l3406-l3419
+source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+passage_locator:
+  label: THE PRECEPTS OF CHIRON / THE GREAT WORKS / THE IDAEAN DACTYLS / THE THEOGONY;
+    lines 3406-3419
+  start: '3406'
+  end: '3419'
+  translation: Hesiod, the Homeric Hymns, and Homerica
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage names Circe and Calypso as goddesses joined with Odysseus and
+    lists their children. Circe's children are associated with rule over the Tyrenians
+    in holy islands. The passage then generalizes these cases as immortal goddesses
+    lying with mortal men and bearing children like gods, before invoking the Muses
+    of Olympus to sing of women.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Circe is identified as the daughter of Helius, who is described as Hyperion's
+    son.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Circe loved Odysseus and bore Agrius, Latinus, and Telegonus; Telegonus' birth
+    is linked to the will of golden Aphrodite.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The children just named are followed by the statement that they ruled over
+    the famous Tyrenians far away in a recess of the holy islands.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Calypso is called a bright goddess, was joined to Odysseus in sweet love,
+    and bore Nausithous and Nausinous.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage summarizes the preceding cases as immortal goddesses who lay with
+    mortal men and bore children like gods.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sweet-voiced Muses of Olympus, daughters of aegis-holding Zeus, are asked
+    to sing of the company of women.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Circe
+  description: Daughter of Helius; loved Odysseus; bore Agrius, Latinus, and Telegonus;
+    included among immortal goddesses who lay with mortal men.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Helius
+  description: Named as Circe's father and as Hyperion's son.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hyperion
+  description: Named as father of Helius.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Odysseus
+  description: Called steadfast; loved by Circe and joined to Calypso; the mortal
+    male partner in the births named in the passage.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Agrius
+  description: Named as a child born by Circe in the Odysseus episode; included among
+    children like gods.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:6
+  name_or_label: Latinus
+  description: Named as a faultless and strong child born by Circe in the Odysseus
+    episode; included among children like gods.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:7
+  name_or_label: Telegonus
+  description: Named as a child brought forth by Circe by the will of golden Aphrodite;
+    included among children like gods.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:8
+  name_or_label: Aphrodite
+  description: Called golden; her will is linked to Telegonus' birth.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Tyrenians
+  description: A famous people said to be ruled over far away in a recess of the holy
+    islands.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:10
+  name_or_label: Calypso
+  description: Called the bright goddess; joined to Odysseus in sweet love; bore Nausithous
+    and Nausinous; included among immortal goddesses who lay with mortal men.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:11
+  name_or_label: Nausithous
+  description: Named as a child borne by Calypso to Odysseus; included among children
+    like gods.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:12
+  name_or_label: Nausinous
+  description: Named as a child borne by Calypso to Odysseus; included among children
+    like gods.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:13
+  name_or_label: Muses of Olympus
+  description: Sweet-voiced daughters of Zeus who are invoked to sing of the company
+    of women.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:14
+  name_or_label: Zeus
+  description: Described as holding the aegis and as father of the Muses.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: immortal goddess
+  assigned_to:
+  - fig:1
+  - fig:10
+  basis: The passage classifies the preceding women as immortal goddesses who lay
+    with mortal men.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: mortal beloved or consort
+  assigned_to:
+  - fig:4
+  basis: Odysseus is the male partner loved by Circe and joined to Calypso; the passage
+    classifies the male partners as mortal men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mother of named children
+  assigned_to:
+  - fig:1
+  - fig:10
+  basis: Circe bears Agrius, Latinus, and Telegonus; Calypso bears Nausithous and
+    Nausinous.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: father or male parent of named children
+  assigned_to:
+  - fig:4
+  basis: The children are borne in connection with Odysseus, and Calypso is said to
+    have borne children to him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: godlike offspring
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:11
+  - fig:12
+  basis: The passage says immortal goddesses bore children like unto gods after naming
+    these children.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: ruler over Tyrenians
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The plural statement that they ruled follows the list of Circe's children
+    by Odysseus.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: genealogical father or ancestor
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:14
+  basis: Helius is named as Circe's father, Hyperion as Helius' father, and Zeus as
+    father of the Muses.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:8
+  label: divine will associated with birth
+  assigned_to:
+  - fig:8
+  basis: Telegonus is brought forth by the will of golden Aphrodite.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: ruled people
+  assigned_to:
+  - fig:9
+  basis: The Tyrenians are the people over whom the named rulers rule.
+  evidence_refs:
+  - ev:1
+- id: role:10
+  label: invoked singers
+  assigned_to:
+  - fig:13
+  basis: The Muses are addressed and asked to sing of the company of women.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: holy islands
+  literal_form: recess of the holy islands
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Olympus
+  literal_form: Olympus
+  associated_figures:
+  - fig:13
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: aegis
+  literal_form: aegis held by Zeus
+  associated_figures:
+  - fig:14
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Circe, Odysseus, and the Tyrenian rulers
+  summary: Circe's lineage is given; she loves Odysseus, bears Agrius, Latinus, and
+    Telegonus, and the named children are associated with rule over the Tyrenians
+    in the holy islands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Calypso and Odysseus
+  summary: Calypso is joined to Odysseus in sweet love and bears Nausithous and Nausinous.
+  figure_refs:
+  - fig:4
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Catalogue summary of divine-mortal unions
+  summary: The passage states that these are immortal goddesses who lay with mortal
+    men and bore children like gods.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Invocation to the Muses
+  summary: The Muses of Olympus, daughters of Zeus, are invoked to sing of the company
+    of women.
+  figure_refs:
+  - fig:13
+  - fig:14
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Immortal goddess and mortal man as lovers
+  taxonomy_refs:
+  - divine_beloved
+  basis: Circe and Calypso are each linked in love with Odysseus, and the passage
+    explicitly groups the cases as immortal goddesses lying with mortal men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states love or union, not formal marriage.
+- id: motif:2
+  label: Divine-mortal offspring like gods
+  taxonomy_refs:
+  - divine_parent_child
+  - sacred_birth
+  basis: The passage names children born from the unions of immortal goddesses with
+    Odysseus and then describes such children as like unto gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The births are catalogued rather than narrated in detail; no miraculous
+    birth episode is described.
+- id: motif:3
+  label: God-descended rulers over a distant people
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The offspring of Circe and Odysseus are connected with rule over the famous
+    Tyrenians in the holy islands.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage says they ruled but does not explicitly frame the genealogy
+    as political legitimation or succession.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself treats the Circe-Odysseus and Calypso-Odysseus episodes
+    as instances of the same pattern: immortal goddesses with mortal men producing
+    godlike children.'
+  claim_level: same_motif
+  target: internal catalogue pattern of immortal goddess–mortal man union producing
+    godlike offspring
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the passage; it does not establish
+    comparison with an external tradition or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: source lines 3406-3410; internal ll. 1011-1016
+  quote_or_summary: Circe, daughter of Helius and granddaughter of Hyperion, loves
+    Odysseus, bears Agrius, Latinus, and Telegonus, and the named children are said
+    to rule the Tyrenians in the holy islands; Telegonus' birth is linked to Aphrodite's
+    will.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary only.
+- id: ev:2
+  type: summary
+  locator: source lines 3412-3413; internal ll. 1017-1018
+  quote_or_summary: Calypso, called a bright goddess, is joined to Odysseus in sweet
+    love and bears Nausithous and Nausinous.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary only.
+- id: ev:3
+  type: summary
+  locator: source lines 3415-3416; internal ll. 1019-1020
+  quote_or_summary: The passage identifies the preceding figures as immortal goddesses
+    who lay with mortal men and bore children like gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary only.
+- id: ev:4
+  type: summary
+  locator: source lines 3418-3419; internal ll. 1021-1022
+  quote_or_summary: The sweet-voiced Muses of Olympus, daughters of aegis-holding
+    Zeus, are invoked to sing of the company of women.
+  source_text_path: texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md
+  rights_note: Public domain translation; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif tagging is strongest for divine-mortal
+    union and divine-parent offspring; royal-legitimacy tagging is weaker because
+    the passage only states rule, not explicit legitimating function.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. No external mythological comparisons were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:greek-hesiod-homeric-hymns-evelyn-white-gutenberg__l3406-l3419
+  passage_sha256=1f78e91c1817fbc421acc92b54e03ab98721cd3651e46528ac23e6f824223261
+

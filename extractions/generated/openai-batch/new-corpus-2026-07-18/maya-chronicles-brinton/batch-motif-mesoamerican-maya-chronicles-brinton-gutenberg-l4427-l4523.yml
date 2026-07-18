@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.mesoamerican-maya-chronicles-brinton-gutenberg-l4427-l4523
+source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+passage_locator:
+  label: 'NOTES. / FOOTNOTES: / IV. THE MAYA KATUNS. / TEXT.; lines 4427-4523'
+  start: '4427'
+  end: '4523'
+  translation: The Maya Chronicles
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: U kahlay katunob utial ahYtzaob mayakatun u kaba lae.
+  summary: The passage is a Maya-language annalistic list organized by named Katun
+    Ahau periods. It associates particular katuns with places, named persons or groups,
+    the arrival of Spaniards, named bishops, and the year 1519.
+  language: Yucatec Maya with Spanish names and date forms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens by identifying the text as a record of katuns connected
+    with ahYtzaob and a named mayakatun.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage repeatedly lists named katun periods using numeral terms followed
+    by “ahau,” such as Lahca ahau, Lahun ahau, Uaxac ahau, and Uac ahau.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several entries include the repeated form “paxci” or related forms in connection
+    with named places or groups, including AhYtzmal, Chichen, Mayapan, and uincob.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: A Uaxac Ahau entry includes multiple place or settlement names, including
+    Chakanputun, Zaclactun, and Mayapan.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Hun Ahau entry names Mayapan and includes the phrases “halach uinic tutul”
+    and “Batabilob cabe.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Several katun entries are paired with place names, including Otzmal, Zizal,
+    Kancaba, hunnacthi, atikuhe, chacalna, and euan.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A Buluc Ahau entry names Ahpula Napotxiu and also refers to “españolesob”
+    and the year 1519.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Later entries refer to bishops, including Fray Francisco Toral and an Obispo
+    de Landa.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: ahYtzaob / AhYtza
+  description: A named group or people appearing in the opening line and later katun
+    entries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Hun Nac Ceel
+  description: A named individual appearing in an entry that also names AhYtzmal,
+    Kinich Kakmo, and Pop Hol Chan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Kinich Kakmo
+  description: A named figure appearing in the AhYtzmal-related entry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Pop Hol Chan
+  description: A named figure appearing with Kinich Kakmo in the AhYtzmal-related
+    entry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ahpula Napotxiu
+  description: A named individual in the Buluc Ahau entry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: españolesob
+  description: A group identified by the Spanish-derived term for Spaniards in the
+    Buluc Ahau entry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Fray Francisco Toral
+  description: A named bishop in a Bolon Ahau entry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Obispo de Landa
+  description: A named bishop in a later katun entry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: named community in katun record
+  assigned_to:
+  - fig:1
+  basis: The opening line connects the katun record with ahYtzaob, and later entries
+    refer to AhYtza.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: named individual in annal entry
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Hun Nac Ceel and Ahpula Napotxiu are named in specific katun entries.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: named figures associated with AhYtzmal phrase
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Kinich Kakmo and Pop Hol Chan appear together in the entry mentioning AhYtzmal.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: foreign group named in dated entry
+  assigned_to:
+  - fig:6
+  basis: The Buluc Ahau entry contains the term “españolesob” and the date 1519.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: bishop
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Both figures are introduced with the title “Obispo” or identified in a bishop-related
+    entry.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Katun Ahau sequence
+  literal_form: Repeated numbered Ahau period names organizing the annal entries
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Dated year marker
+  literal_form: The written year “1519” in the Buluc Ahau entry
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Opening katun record and initial sequence
+  summary: The text identifies itself as a katun record and begins listing named Katun
+    Ahau periods in sequence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: AhYtzmal and Chichen-related entries
+  summary: Early entries connect katun names with phrases involving AhYtzmal, Hun
+    Nac Ceel, Kinich Kakmo, Pop Hol Chan, AhYtza, and Chichen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mayapan and office-bearing figures
+  summary: A Hun Ahau entry names Mayapan and includes references to halach uinic
+    tutul, Batabilob cabe, and several groups or settlements.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Katuns paired with place names
+  summary: Several katun entries are paired with named places such as Otzmal, Zizal,
+    Kancaba, atikuhe, chacalna, and euan.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Buluc Ahau entry with Spaniards and 1519
+  summary: A Buluc Ahau entry names Ahpula Napotxiu and records the presence or arrival
+    of Spaniards with the written year 1519.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Bishop entries
+  summary: Later katun entries mention Bishop Fray Francisco Toral and Obispo de Landa.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: chronicle organized by calendrical katun cycle
+  taxonomy_refs: []
+  basis: The passage is structured as a sequence of Katun Ahau names, with annal entries
+    attached to particular periods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a formal chronicle pattern rather than a mythic narrative motif
+    in the supplied passage.
+- id: motif:2
+  label: place-centered historical disruption or transition tied to named time periods
+  taxonomy_refs: []
+  basis: Multiple entries pair named katun periods with place names and repeated forms
+    such as “paxci,” especially around Chichen and Mayapan.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is not supplied with a translation, so the exact action indicated
+    by “paxci” is not interpreted here.
+- id: motif:3
+  label: foreign arrival recorded within sacred-historical chronology
+  taxonomy_refs: []
+  basis: The Buluc Ahau entry includes “españolesob” and the year 1519 within the
+    katun sequence.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The entry is historical-annalistic; no broader mythological comparison
+    is made from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4427-4431
+  quote_or_summary: "“U kahlay katunob utial ahYtzaob mayakatun u kaba lae.”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4435-4453
+  quote_or_summary: The passage lists sequential Katun Ahau names, including Lahca
+    ahau, Lahun ahau, Uaxac ahau, Uac ahau, Can ahau, Cabil ahau, and others.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4449-4456
+  quote_or_summary: "“Hoo ahau; paxci u cah yahau ahYtzmal kinich kakmo y pop hol
+    chan tumenel hun nac ceel.”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 4458-4466
+  quote_or_summary: A Hun Ahau entry mentions AhYtza and Chichen; a Uaxac Ahau entry
+    names AhYtza, Zaclactun Mayapan, and Chakanputun.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4479-4483
+  quote_or_summary: "“Hun ahau: paxci peten tan cah mayapan ... lukci halach uinic
+    tutul y u Batabilob cabe.”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 4485-4497
+  quote_or_summary: 'Entries pair katun names with places: Otzmal, Zizal, Kancaba,
+    hunnacthi, atikuhe, chacalna, and euan.'
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 4499-4505
+  quote_or_summary: "“Buluc ahau ... Ahpula Napotxiu ... yax hulciob españolesob ...
+    D^o 1519 a^s.”"
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 4507-4515
+  quote_or_summary: A Bolon Ahau entry names Obispo Fray Francisco Toral; a later
+    entry refers to Obispo de Landa and another bishop-related phrase.
+  source_text_path: texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily Yucatec Maya annal text without an accompanying
+    translation in the supplied excerpt. Names, calendrical structure, Spanish terms,
+    and dates are extractable, but actions and roles are kept cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No cross-tradition comparison claims were added because the supplied passage itself does not support them.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:mesoamerican-maya-chronicles-brinton-gutenberg__l4427-l4523
+  passage_sha256=29ec2e9a934be16e4dddd6f26fcb102679ccb0a8b4ff443bca41c86ecf22e2d0
+

@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l1305-l1317
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: BEOWULF. / THE LIFE AND DEATH OF SCYLD. / SCYLD'S SUCCESSORS.--HROTHGAR'S
+    GREAT MEAD-HALL. / GRENDEL THE MURDERER.; lines 1305-1317
+  start: '1305'
+  end: '1317'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'An editorial note lists alternative interpretations of a difficult Beowulf
+    passage: Grendel may have frequented Heorot as a demon but could not rule the
+    Danes because of hostility to God; Hrothgar may have grieved that Grendel did
+    not appear before his throne for gifts; or the Creator may have prevented Grendel
+    from devastating the hall and made his visit fatal.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an editorial note listing multiple interpretations of a difficult
+    passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One interpretation says Grendel frequented Heorot as a demon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One interpretation says Grendel could not become ruler of the Danes because
+    of his hostility to God.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another interpretation says Hrothgar was grieved that Grendel had not appeared
+    before his throne to receive presents.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Another interpretation says Grendel was not permitted to devastate the hall
+    because of the Creator, and that God wished his visit to be fatal to him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The note reports an alternate rendering: “Nor had he any desire to do so.”'
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Grendel
+  description: Named figure described in the interpretations as frequenting Heorot
+    as a demon, unable to rule the Danes, absent from Hrothgar's throne, and prevented
+    from devastating the hall.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Danes
+  description: People whom Grendel could not become ruler of in one interpretation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hrothgar
+  description: Figure said in one interpretation to be grieved that Grendel did not
+    appear before his throne to receive presents.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: God / Creator
+  description: Divine figure named as the reason Grendel could not rule or devastate
+    the hall, and as wishing Grendel's visit to be fatal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: demon figure
+  assigned_to:
+  - fig:1
+  basis: The note explicitly describes Grendel as frequenting Heorot “as a demon.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: people not ruled by hostile figure
+  assigned_to:
+  - fig:2
+  basis: The note says Grendel could not become ruler of the Danes.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: throne-holder associated with gifts
+  assigned_to:
+  - fig:3
+  basis: The note says Hrothgar was grieved that Grendel had not appeared before his
+    throne to receive presents.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: would-be devastator of the hall
+  assigned_to:
+  - fig:1
+  basis: The note says Grendel was not permitted to devastate the hall.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: divine restrainer
+  assigned_to:
+  - fig:4
+  basis: The note attributes Grendel's inability to rule or devastate the hall to
+    God/the Creator, and says God wished the visit to be fatal.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Heorot / hall
+  literal_form: Heorot, the hall
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: throne
+  literal_form: Hrothgar's throne
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: presents
+  literal_form: presents to be received
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Alternative interpretations of Grendel and Heorot
+  summary: 'The note offers several possible readings: Grendel''s demonic presence
+    at Heorot without rulership over the Danes; Hrothgar''s grief over Grendel not
+    appearing before the throne for gifts; and divine prevention of Grendel''s devastation
+    of the hall, making his visit fatal.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine restraint of a hostile demon
+  taxonomy_refs:
+  - divine_judgment
+  basis: One interpretation says Grendel could not rule because of hostility to God,
+    and another says the Creator prevented him from devastating the hall and intended
+    his visit to be fatal.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is an editorial note reporting interpretations, not a continuous
+    narrative episode; the divine-judgment taxonomy is a cautious fit based on the
+    note's wording.
+- id: motif:2
+  label: Demon threat to a communal hall
+  taxonomy_refs: []
+  basis: The note describes Grendel as a demon frequenting Heorot and as a figure
+    who might devastate the hall.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not narrate the attack directly; it summarizes interpretive
+    possibilities.
+- id: motif:3
+  label: Failed reception before a ruler's throne
+  taxonomy_refs: []
+  basis: One interpretation says Hrothgar grieved that Grendel did not appear before
+    his throne to receive presents.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is only one reported interpretation of a difficult passage and may
+    reflect a philological reading rather than a stable narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1305-1317
+  quote_or_summary: The note introduces “this difficult passage” and says multiple
+    interpretations are given.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 1305-1317
+  quote_or_summary: "“Though Grendel has frequented Heorot as a demon, he could not
+    become ruler of the Danes, on account of his hostility to God.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1305-1317
+  quote_or_summary: "“Hrothgar was much grieved that Grendel had not appeared before
+    his throne to receive presents.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 1305-1317
+  quote_or_summary: "“He was not permitted to devastate the hall, on account of the
+    Creator; i.e. God wished to make his visit fatal to him.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1305-1317
+  quote_or_summary: "“Nor had he any desire to do so.”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited because the supplied passage is an editorial/philological
+    note with alternative interpretations rather than a direct narrative excerpt.
+    No comparison claims were made because the passage itself provides no cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to a cautious divine_judgment candidate supported by the note's references to God/the Creator.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l1305-l1317
+  passage_sha256=22a57ce429c093e6aa12fecd802cc2a56aa3308d57996c47513c64e06a9ca236
+

@@ -1,0 +1,574 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l2296-l2398
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 2296-2398
+  start: '2296'
+  end: '2398'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator returns to the tailor, is confronted by an old man who reveals
+    himself as a genius descended from Eblis, and is carried to an enchanted palace
+    where the wounded princess of the Ebony Isle is accused of being his lover. Both
+    deny knowing one another and refuse to kill each other when ordered. The genius
+    mutilates the princess, threatens to transform the narrator into an animal, and
+    agrees to hear the narrator’s embedded tale of an envious neighbor and a virtuous
+    man who becomes a dervish.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tailor tells the narrator that an old man has brought back his hatchet
+    and slippers, and the narrator reacts with fear and trembling.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man identifies himself as a genius and as the son of the daughter
+    of Eblis, prince of the genii.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The genius seizes the narrator, carries him rapidly through the air, descends
+    to earth, opens the ground with his foot, and brings him to an enchanted palace.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The princess of the Ebony Isle is lying on the ground covered with blood and
+    weeping.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The genius accuses the princess of knowing the narrator as her lover, but
+    she denies having seen him before.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The genius orders the princess to cut off the narrator’s head; she refuses,
+    saying she is weak and that he is innocent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator denies knowing the princess, is ordered to cut off her head,
+    takes the sabre, then throws it down and refuses the command.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The genius cuts off one of the princess’s hands, and she raises the other
+    hand to wave farewell before the narrator loses consciousness.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The genius says he may spare the narrator’s life by changing him into a dog,
+    an ass, a lion, or a bird.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The narrator pleads for pardon and introduces a story about a man who forgave
+    an envious neighbor.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: In the embedded story, one neighbor hates and envies another so intensely
+    that the envied man sells his house and moves away.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The envied man buys a place outside the capital with a garden, a court, and
+    an old well, becomes a dervish, creates cells for other dervishes, and gains a
+    reputation for virtue.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person speaker who is seized by the genius, tested with the sabre,
+    threatened with transformation, and begins the embedded story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Tailor host
+  description: The narrator’s host, who reports that an old man has brought the narrator’s
+    hatchet and slippers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Old man / genius
+  description: An old man who reveals himself as a genius descended from Eblis; he
+    abducts the narrator, interrogates the princess and narrator, mutilates the princess,
+    and threatens transformation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Princess of the Ebony Isle
+  description: A beautiful princess found in the enchanted palace, wounded and weeping;
+    she denies knowing the narrator and refuses to kill him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Envious man
+  description: A neighbor in the embedded story who hates and envies the other man.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Man who was envied / good man
+  description: The neighbor who is envied, moves away, buys a place near the capital,
+    becomes a dervish, and gains fame for virtue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Other dervishes
+  description: Dervishes established in small cells in the good man’s house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: Captive and tested speaker
+  assigned_to:
+  - fig:1
+  basis: The narrator is seized, transported to the palace, commanded to kill the
+    princess, and threatened with animal transformation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: Supernatural captor and punisher
+  assigned_to:
+  - fig:3
+  basis: The genius abducts the narrator, accuses the princess, commands killings,
+    cuts off her hand, and threatens transformation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Accused wounded woman who protects the narrator
+  assigned_to:
+  - fig:4
+  basis: The princess is wounded, denies knowing the narrator, and refuses to kill
+    him despite the genius’s command.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Host and messenger
+  assigned_to:
+  - fig:2
+  basis: The tailor hosts the narrator and tells him about the old man who returned
+    the hatchet and slippers.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Envious neighbor
+  assigned_to:
+  - fig:5
+  basis: The embedded story states that one neighbor hated and bitterly envied the
+    other.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: Envied virtuous dervish
+  assigned_to:
+  - fig:6
+  basis: The envied man leaves, adopts the robe of a dervish, gathers other dervishes,
+    and becomes known for virtue.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:7
+  label: Ascetic followers
+  assigned_to:
+  - fig:7
+  basis: Other dervishes are established in cells within the good man’s house.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: Recovered hatchet and slippers
+  literal_form: The narrator’s hatchet and slippers, recovered and brought by the
+    old man.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Opened ground
+  literal_form: The ground opens when the genius raps it with his foot.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Enchanted palace
+  literal_form: The palace reached after the ground opens, where the princess is found
+    wounded.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Sword or sabre
+  literal_form: A blade drawn by the genius and used in commands to behead; later
+    used by the genius to cut off the princess’s hand.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Severed hand and farewell gesture
+  literal_form: One hand of the princess is cut off, while her other hand is lifted
+    to wave farewell.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Animal transformation choices
+  literal_form: The genius names dog, ass, lion, and bird as possible forms for the
+    narrator.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Old well
+  literal_form: An old well standing in the centre of the court at the good man’s
+    new place.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Dervish robe and cells
+  literal_form: The robe of a dervish and small cells made in the house for dervishes.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Return to the tailor and recovered objects
+  summary: The narrator returns in distress, and the tailor reports that an old man
+    has brought the narrator’s hatchet and slippers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abduction to the enchanted palace
+  summary: The old man reveals himself as a genius, carries the narrator through the
+    air, opens the ground, and arrives at the enchanted palace where the princess
+    lies wounded.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Interrogation and denial
+  summary: The genius accuses the princess and narrator of being lovers; both deny
+    knowing one another.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Commands to behead and refusals
+  summary: The genius orders the princess to kill the narrator and then orders the
+    narrator to kill the princess; each refuses.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:5
+  label: Mutilation and threat of transformation
+  summary: The genius cuts off the princess’s hand, the narrator faints, and the genius
+    later threatens to transform him into an animal instead of killing him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Plea through an embedded tale
+  summary: The narrator asks for pardon and introduces the story of a forgiving man
+    and his envious neighbor, which the genius agrees to hear.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Beginning of the story of the envious man
+  summary: The embedded tale begins with two neighbors, one envious and one envied;
+    the envied man moves away, buys a place near the capital, becomes a dervish, and
+    gathers other dervishes.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Forced descent to an enchanted hidden palace
+  taxonomy_refs:
+  - hero_descent
+  basis: A supernatural being carries the narrator through the air, descends, opens
+    the ground, and brings him into an enchanted palace.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The movement is forced abduction rather than a voluntary quest or explicit
+    underworld descent.
+- id: motif:2
+  label: Refusal to kill an innocent beloved under coercion
+  taxonomy_refs:
+  - sacrifice
+  basis: The princess refuses to kill the narrator, and the narrator refuses to kill
+    the princess, even when obedience might save him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The sacrificial element is based on the narrator’s stated willingness
+    to risk himself; the passage does not describe a formal ritual sacrifice.
+- id: motif:3
+  label: Jealous supernatural punishment for alleged betrayal
+  taxonomy_refs: []
+  basis: The genius accuses the princess of betrayal involving the narrator and punishes
+    her by cutting off her hand.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The exact relationship between the genius and the princess is not stated
+    in this passage.
+- id: motif:4
+  label: Threatened animal transformation by a supernatural being
+  taxonomy_refs:
+  - shapeshifter
+  basis: The genius threatens to spare the narrator’s life only by changing him into
+    a dog, an ass, a lion, or a bird.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The transformation is threatened but not enacted within the supplied passage.
+- id: motif:5
+  label: Moral exemplum used as a plea for mercy
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator asks the genius to pardon him and offers the story of the forgiving
+    man and his envious neighbor as an example.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: Only the opening of the embedded story appears in this passage.
+- id: motif:6
+  label: Envious neighbor causes virtuous departure and ascetic withdrawal
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: In the embedded tale, the envied man leaves because of another man’s hatred
+    and envy, then adopts a dervish life and becomes famed for virtue.
+  evidence_refs:
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The later resolution of the embedded tale is outside the supplied line
+    range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2296-2308
+  quote_or_summary: The tailor says an old man has brought the narrator’s hatchet
+    and slippers; the narrator changes color and trembles before the old man enters
+    with the objects.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2310-2318
+  quote_or_summary: The old man declares himself a genius descended from Eblis, seizes
+    the narrator, flies up and down, opens the ground with his foot, and arrives at
+    an enchanted palace where the princess lies bloody and weeping.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2320-2332
+  quote_or_summary: The genius calls the princess a traitress, asks whether the narrator
+    is her lover, and orders her to cut off his head; she denies knowing him and refuses
+    to kill an innocent man.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2334-2347
+  quote_or_summary: The narrator denies knowing the princess; when told to cut off
+    her head, he takes the sabre, signals reassurance to her, then throws it down
+    and refuses the cruel command.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 2349-2359
+  quote_or_summary: The genius says both have chosen to brave him, cuts off one of
+    the princess’s hands, and she raises the other to wave farewell; the narrator
+    loses consciousness.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 2359-2362
+  quote_or_summary: The genius says he could kill the narrator but will instead be
+    merciful by changing him into a dog, an ass, a lion, or a bird, whichever he prefers.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 2364-2370
+  quote_or_summary: The narrator begs the genius to pardon him as a good man forgave
+    an envious neighbor; the genius becomes interested and asks to hear the story.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 2372-2383
+  quote_or_summary: 'The embedded tale begins: two men live in neighboring houses,
+    one hates and envies the other, and the envied man sells his house and moves to
+    the capital.'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 2383-2392
+  quote_or_summary: The envied man buys a small place near the capital with a large
+    garden, a fair-sized court, and an old well in the center.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:10
+  type: summary
+  locator: 2393-2398
+  quote_or_summary: The good man puts on the robe of a dervish, divides his house
+    into cells, establishes other dervishes there, and gains fame for virtue.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments are cautious, especially where an action is threatened rather than
+    completed or where the embedded story is incomplete. No comparison claims are
+    made because the passage itself does not explicitly support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only supplied passage text and metadata were used. Comparison claims were left empty by rule because no explicit comparative claim appears in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l2296-l2398
+  passage_sha256=c555f90392bdd9e6703dc835eb4b3126ab3232d05c5df3a18bb31c2f0d0d10f0
+

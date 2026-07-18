@@ -1,0 +1,77 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l39515-l39524
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / FINIS / AN INDEX / OF THE; lines
+    39515-39524
+  start: '39515'
+  end: '39524'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: |-
+    FINIS
+
+    AN INDEX
+  summary: The passage is a paratextual ending and heading that marks the finish of
+    the main text and introduces an index of principal matters contained in the Koran
+    and its notes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contains the word marking the end of a text.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage introduces an index.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index is described as covering principal matters contained in the Koran
+    and the notes thereon.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '39515'
+  quote_or_summary: '"FINIS"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: 39517-39524
+  quote_or_summary: '"AN INDEX / OF THE / PRINCIPAL MATTERS CONTAINED IN THE KORAN
+    / AND THE NOTES THEREON."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is paratextual and contains no narrative figures, mythic scenes,
+    symbols, or comparative motif claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the supplied passage is only an ending marker and index heading.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l39515-l39524
+  passage_sha256=0f70eff41f67b0a4d91f3fb513c82f73ff5da7ed848221b379f98f27dd1fc2ea
+

@@ -1,0 +1,526 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l10196-l10292
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 10196-10292
+  start: '10196'
+  end: '10292'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"Look at me, princess, and you will see that I am no doctor, but the Prince
+    of Persia, who has come to set you free."'
+  summary: The Sultan of Cashmere seeks physicians to cure the Princess of Bengal's
+    apparent madness. The princess has been feigning madness to avoid a forced marriage.
+    Prince Firouz Schah hears of her condition, reaches Cashmere, disguises himself
+    as a physician, observes her secretly, gains private access, reveals himself by
+    whispering, and learns that she has maintained the deception out of fidelity to
+    him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Sultan of Cashmere summons court doctors to consult about the princess's
+    condition and orders that they be introduced into her chamber one by one according
+    to rank.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess anticipates that a pulse examination would reveal her good health,
+    so she responds to approaching physicians with violent paroxysms that prevent
+    them from touching her; she accepts potions she believes harmless.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the court doctors fail, the Sultan calls city doctors, physicians from
+    other towns, and foreign physicians from neighboring states, offering expenses
+    and a reward, but none succeeds.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Prince Firouz Schah, while wandering sadly, hears in an Indian city that the
+    Princess of Bengal went mad on the day she was to marry the Sultan of Cashmere;
+    he travels to Cashmere and seeks details at an inn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The prince obtains a doctor's robe and uses his travel-grown beard to present
+    himself as a physician who possesses effective secret remedies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Sultan tells the disguised prince that the sight of a doctor enrages the
+    princess, then leads him to a room under the roof with an opening through which
+    he can observe her unseen.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The prince sees the princess reclining on a sofa with tears in her eyes and
+    singing softly about her sad destiny and the beloved from whom she has been deprived.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After observing her, the prince reports that her condition is not incurable
+    and says that he must see and speak with her alone.
+  category: speech
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: When the princess sees the physician's robe, she reacts with fury and insults
+    him; the prince then whispers that he is not a doctor but the Prince of Persia
+    who has come to free her.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: At the sound of his voice, the princess becomes calm and joyful; the prince
+    explains his despair, his oath to follow her, and his discovery of her in Cashmere.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The princess explains that she played the part of a mad woman to avoid marriage
+    to the Sultan, who had not asked her consent, and that she would rather die than
+    be forced into that union and break faith with the prince she loved.
+  category: speech
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Sultan of Cashmere
+  description: Ruler who summons physicians, offers rewards for a cure, controls access
+    to the princess, and is identified as the unwanted marriage partner.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:11
+- id: fig:2
+  name_or_label: Princess of Bengal
+  description: Princess who appears mad, feigns violent symptoms, sings of her lost
+    beloved, recognizes the prince by his voice, and explains that she resisted forced
+    marriage.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Prince Firouz Schah / Prince of Persia
+  description: Wandering prince who hears of the princess, travels to Cashmere, disguises
+    himself as a physician, observes her, reveals himself privately, and plans rescue.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Physicians and doctors
+  description: Court, city, regional, and foreign physicians who are asked to diagnose
+    or cure the princess but fail.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Chief usher
+  description: Palace official who receives the disguised prince and assures him that
+    the Sultan will welcome him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ruler seeking a cure
+  assigned_to:
+  - fig:1
+  basis: He summons physicians and offers rewards for anyone who can cure the princess.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: feigned patient and strategic resister
+  assigned_to:
+  - fig:2
+  basis: She performs madness to avoid examination and later explains that she played
+    the mad woman to escape the marriage.
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: role:3
+  label: faithful beloved
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The princess refuses to break faith with the prince she loves, and the prince
+    recounts his oath to follow her over the world.
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: role:4
+  label: disguised rescuer
+  assigned_to:
+  - fig:3
+  basis: He dresses as a physician, gains access, reveals himself privately, and says
+    he has come to set the princess free.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+- id: role:5
+  label: failed healers
+  assigned_to:
+  - fig:4
+  basis: Multiple groups of physicians are unable to cure the princess because the
+    cure depends on the princess herself.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: palace intermediary
+  assigned_to:
+  - fig:5
+  basis: The chief usher receives the disguised prince and facilitates his approach
+    to the Sultan.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: unwanted suitor
+  assigned_to:
+  - fig:1
+  basis: The princess says she was forced toward marriage with the Sultan without
+    her consent and calls the situation one from which she must be rescued.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: physician's robe
+  literal_form: doctor's robe worn by the prince as professional disguise
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: long beard
+  literal_form: beard grown during the prince's travels, used to make his assumed
+    profession credible
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: hidden observation opening
+  literal_form: opening in a room under the roof through which the princess can be
+    observed unseen
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: performed madness
+  literal_form: violent paroxysms and the part of a mad woman
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: sym:5
+  label: tears and lamenting song
+  literal_form: tears in the princess's eyes and a soft song bewailing separation
+    from the one she loves
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: recognizing voice
+  literal_form: the prince's whispered voice, after which the princess becomes calm
+    and joyful
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Medical consultations and feigned symptoms
+  summary: The Sultan brings physicians to the princess, but she prevents examination
+    by performing violent madness; successive physicians fail to cure her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The wandering prince hears the report
+  summary: Prince Firouz Schah hears that the Princess of Bengal has gone mad before
+    a marriage to the Sultan of Cashmere, then goes to Cashmere to investigate and
+    devise rescue.
+  figure_refs:
+  - fig:3
+  - fig:2
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Disguise and hidden observation
+  summary: The prince assumes the outward signs of a physician, gains palace access,
+    and is allowed to observe the princess unseen through an opening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Private recognition
+  summary: The prince receives permission to speak to the princess alone; after she
+    reacts to the physician's robe, he whispers his true identity and she becomes
+    calm and joyful.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: Explanation of resistance to forced marriage
+  summary: The prince recounts his search and asks her story; the princess explains
+    that she feigned madness to avoid a non-consensual marriage and preserve faith
+    with him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: feigned madness to avoid forced marriage
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The princess deliberately performs madness so physicians cannot expose her
+    health and later states that she did so to escape marriage to the Sultan without
+    her consent.
+  evidence_refs:
+  - ev:2
+  - ev:11
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage shows strategic deception,
+    but no explicit trickster figure or boundary-crossing category is named.
+- id: motif:2
+  label: disguised physician gains access to captive beloved
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The prince disguises himself as a physician to enter the palace, privately
+    reveals himself to the princess, and seeks to rescue her from the Sultan's control.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage frames the princess as threatened by forced marriage and needing
+    rescue, but within this excerpt it does not narrate the original abduction or
+    taking.
+- id: motif:3
+  label: recognition of the beloved by voice
+  taxonomy_refs: []
+  basis: The princess becomes calm and joyful at the sound of the prince's whispered
+    voice after he reveals that he is not a doctor.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: No wider taxonomy reference is assigned from the available list.
+- id: motif:4
+  label: faithful lover's world-ranging search oath
+  taxonomy_refs: []
+  basis: The prince recounts his despair, his oath to follow the princess over the
+    world, and his joy at finding her in Cashmere.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage mentions the oath and search in summary form rather than narrating
+    the whole journey.
+- id: motif:5
+  label: public medicine fails where private knowledge succeeds
+  taxonomy_refs:
+  - wisdom
+  basis: Many physicians fail because the cure depends on the princess herself; the
+    prince, knowing the emotional cause, identifies the madness as feigned and gains
+    a private interview.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage emphasizes recognition and
+    personal knowledge more than formal wisdom teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10196-10201
+  quote_or_summary: The Sultan of Cashmere summons court doctors to consult on the
+    princess's sad state and orders them introduced into her chamber one by one.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10203-10211
+  quote_or_summary: The princess knows a pulse check would reveal her good health
+    and feigned madness, so she breaks into violent paroxysms when doctors approach
+    and accepts potions she believes harmless.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 10213-10224
+  quote_or_summary: The Sultan seeks city, regional, and foreign physicians, offering
+    expenses and a reward, but none is successful because the cure depends on the
+    princess herself.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10226-10234
+  quote_or_summary: Prince Firouz Schah, wandering sadly, hears in India that the
+    Princess of Bengal went mad on the day she was to marry the Sultan of Cashmere;
+    he travels to Cashmere and learns more at an inn.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10236-10247
+  quote_or_summary: The prince obtains a doctor's robe, relies on his long beard to
+    look like a physician, approaches the palace, and claims secret remedies; the
+    chief usher says the Sultan will welcome him.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 10249-10254
+  quote_or_summary: The Sultan notes that seeing a doctor sends the princess into
+    rage and leads the disguised prince to an upper room with an opening from which
+    he may observe her unseen.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:7
+  type: summary
+  locator: lines 10256-10265
+  quote_or_summary: The prince sees the princess on a sofa, tearful and singing of
+    her sad destiny and deprived beloved; he concludes that her madness is feigned
+    from love and asks to speak with her alone.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:8
+  type: summary
+  locator: lines 10266-10267
+  quote_or_summary: The Sultan consents and orders that the supposed physician be
+    ushered into the princess's apartment.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:9
+  type: quote
+  locator: lines 10268-10273
+  quote_or_summary: 'After the princess reacts furiously to the physician''s robe,
+    the prince whispers: "I am no doctor, but the Prince of Persia, who has come to
+    set you free."'
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quote used.
+- id: ev:10
+  type: summary
+  locator: lines 10275-10286
+  quote_or_summary: At the sound of his voice the princess becomes calm and joyful;
+    the prince recounts his despair, his oath to follow her over the world, his discovery
+    of her in Cashmere, and his wish to devise a rescue from the Sultan's tyranny.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+- id: ev:11
+  type: summary
+  locator: lines 10288-10292 through passage end
+  quote_or_summary: The princess explains that she played a mad woman to escape marriage
+    with the Sultan, who had not asked her consent, and that she would rather die
+    than be forced into the union and break faith with the prince she loved.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    assignments are cautious because the available taxonomy list is broad and not
+    all passage patterns have exact taxonomy matches. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Line subranges are approximate within the supplied stable passage locator; the extraction uses only the provided passage and metadata.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l10196-l10292
+  passage_sha256=2ec3c2958720aa79c28350d7c1dc4664c06740910df3cf3f9812986cdf77f03c
+

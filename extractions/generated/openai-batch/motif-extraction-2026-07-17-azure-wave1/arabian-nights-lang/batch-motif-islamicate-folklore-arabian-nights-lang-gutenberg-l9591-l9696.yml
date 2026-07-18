@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.islamicate-folklore-arabian-nights-lang-gutenberg-l9591-l9696
+source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+passage_locator:
+  label: The Arabian Nights Entertainments; lines 9591-9696
+  start: '9591'
+  end: '9696'
+  translation: The Arabian Nights Entertainments
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: During the Persian New Year feast at Schiraz, an Indian appears before
+    the King of Persia with a richly harnessed horse that looks real. He says the
+    horse can carry a rider to any wished-for place in moments, then proves it by
+    flying to a nearby mountain and returning with a palm leaf. The king wishes to
+    obtain the horse. The Indian says he may part with it only for something of equal
+    value, since he received it from its inventor in exchange for his only daughter,
+    and he asks for the princess's hand. Prince Firouz Schah objects, but the king
+    asks him to test the horse. The prince mounts before learning how to return, turns
+    the screw, and disappears into the air. The Indian warns that the prince did not
+    learn the return procedure, and the king responds in fear and anger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is the Feast of the New Year in the Kingdom of Persia, with the
+    king in the city of Schiraz at sunset.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Indian appears before the king's throne leading a richly harnessed horse
+    that looks like a real horse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Indian says the horse can take a mounted rider to a wished-for place,
+    however distant, in a few moments.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king orders the Indian to bring back a palm leaf from the foot of a mountain
+    about three leagues from Schiraz.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Indian turns a screw in the horse's neck; the horse rises into the air,
+    vanishes from sight, and the Indian returns with the palm leaf.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the demonstration, the king wants to possess the horse and asks the
+    Indian to name a price.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Indian says the horse was made by an inventor and given to him in exchange
+    for his only daughter, under an oath not to part with it except for something
+    of equal value.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The king offers the Indian rule over a city, but the Indian asks instead for
+    the hand of the king's daughter.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The courtiers laugh, and Prince Firouz Schah becomes angry at the Indian's
+    demand.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The prince urges the king to reject the bargain, while the king emphasizes
+    the horse's value and asks the prince to examine and test it.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Before the Indian finishes explaining how to guide the horse, the prince turns
+    the screw and is carried out of sight.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: After the prince does not return, the Indian says the prince had not learned
+    how to return to the starting place; the king reacts with fear and anger.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: King of Persia
+  description: The monarch in Schiraz during the New Year feast; he orders the horse's
+    demonstration, desires to acquire it, considers the Indian's demand, and is father
+    of the prince and princess.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Indian horse owner
+  description: An Indian who appears before the throne with the horse, demonstrates
+    its power, states the terms under which he may part with it, and later warns that
+    the prince did not learn how to return.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Prince Firouz Schah
+  description: The heir apparent; he objects to the proposed bargain, mounts the horse
+    for a trial, turns the screw before instruction is complete, and disappears from
+    sight.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Princess, daughter of the King of Persia
+  description: The king's daughter, requested by the Indian as the exchange price
+    for the horse; she does not appear or speak in this passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Indian's only daughter
+  description: The Indian says she was given to the inventor in exchange for the horse.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Inventor of the horse
+  description: The person said by the Indian to have constructed the horse and given
+    it to him in exchange for his only daughter.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Courtiers
+  description: Members of the court who laugh when they hear the Indian's request
+    for the princess's hand.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: festival monarch and judge of marvels
+  assigned_to:
+  - fig:1
+  basis: The king presides at the New Year feast and assesses the horse after its
+    demonstration.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: owner-demonstrator of the marvellous horse
+  assigned_to:
+  - fig:2
+  basis: The Indian presents the horse, explains its use, and demonstrates its speed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: royal heir and test rider
+  assigned_to:
+  - fig:3
+  basis: Prince Firouz Schah is identified as heir apparent and is asked to test the
+    horse.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: proposed royal bride in exchange
+  assigned_to:
+  - fig:4
+  basis: The Indian asks for the hand of the king's daughter as the price of the horse.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: bargainer for equal value
+  assigned_to:
+  - fig:2
+  basis: The Indian refuses ordinary payment and says he may yield the horse only
+    for something of equal value.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: father and potential grantor of marriage
+  assigned_to:
+  - fig:1
+  basis: The king is addressed as father of the princess and considers the demand
+    before the prince objects.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: objector to unequal or insolent bargain
+  assigned_to:
+  - fig:3
+  basis: The prince is angered by the demand and urges the king to reject it.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: prior exchange daughter
+  assigned_to:
+  - fig:5
+  basis: The Indian says his only daughter was exchanged for the horse.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: maker of the marvellous object
+  assigned_to:
+  - fig:6
+  basis: The Indian says the horse was constructed by an inventor.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: court witnesses
+  assigned_to:
+  - fig:7
+  basis: The courtiers hear the Indian's demand and laugh.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: marvellous horse
+  literal_form: A richly harnessed horse, lifelike in appearance, able to carry a
+    rider through the air to a wished-for place.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: neck screw control
+  literal_form: A screw placed in the horse's neck, close to the saddle, turned to
+    set the horse in motion.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: distant mountain
+  literal_form: A huge mountain about three leagues from Schiraz, towering into the
+    sky.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: palm leaf token
+  literal_form: The leaf of a palm growing at the foot of the distant mountain, retrieved
+    as proof of the horse's power.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: equal-value oath
+  literal_form: A solemn oath not to part with the horse except for an object of equal
+    value.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Presentation at the New Year feast
+  summary: At sunset during the Persian New Year festival in Schiraz, an Indian appears
+    before the king with a richly harnessed lifelike horse and claims it surpasses
+    the day's wonders.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Demonstration flight to the mountain
+  summary: The king tells the Indian to fetch a palm leaf from a mountain near Schiraz;
+    the Indian turns the screw, flies out of sight, and returns quickly with the leaf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Negotiation for the horse
+  summary: The king asks to buy the horse. The Indian explains its prior exchange
+    for his daughter and asks for the princess's hand after the king offers rule over
+    a city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Prince's objection and trial
+  summary: The courtiers laugh, Prince Firouz Schah objects to the proposed bargain,
+    and the king asks him to examine and test the horse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Premature ascent and missing return instruction
+  summary: The prince mounts before the Indian finishes the instructions, turns the
+    screw, and vanishes; after waiting, the Indian warns that the prince did not learn
+    how to return, and the king becomes afraid and angry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Marvellous flying conveyance controlled by a rider
+  taxonomy_refs:
+  - ascent
+  basis: The horse carries a mounted rider into the air and can take him to a wished-for
+    distant place in moments.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage says the horse was constructed and controlled by a screw;
+    it does not specify a supernatural being or spell as its source of motion.
+- id: motif:2
+  label: Proof of marvel by retrieval of a distant token
+  taxonomy_refs: []
+  basis: The king tests the horse by ordering a palm leaf from a mountain several
+    leagues away, and the Indian returns with it quickly.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The token retrieval functions as a demonstration in this passage; no broader
+    quest is completed here.
+- id: motif:3
+  label: Wonderful object exchanged for daughter or princess
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Indian says the horse came to him in exchange for his only daughter and
+    asks to give it up only in exchange for the king's daughter.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the matter as value, oath, and marriage exchange; it
+    does not explicitly call the exchange sacred.
+- id: motif:4
+  label: Premature departure without return knowledge
+  taxonomy_refs:
+  - ascent
+  - departure
+  basis: The prince activates the horse before receiving full instructions and disappears,
+    after which the Indian says he does not know how to return.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage ends before the prince's fate or later return is known.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9591-9598
+  quote_or_summary: At the New Year feast in Persia, the king is in Schiraz at sunset
+    when an Indian appears before the throne leading a richly harnessed horse that
+    looks real.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 9609-9614
+  quote_or_summary: The Indian says he has only to mount the horse and wish himself
+    in a special place, however distant, and he will be there in a few moments.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: 9620-9630
+  quote_or_summary: The king orders the Indian to bring a palm leaf from a mountain
+    about three leagues away; the Indian turns a screw in the horse's neck, the horse
+    bounds into the air, and he returns with the leaf.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9631-9648
+  quote_or_summary: The king wants to possess the horse and asks its price; the Indian
+    says it was made by an inventor and given to him in exchange for his only daughter,
+    with an oath not to part with it except for something of equal value.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 9649-9657
+  quote_or_summary: After the king offers city rule, the Indian says he can deliver
+    the horse only "in exchange for the hand of the princess your daughter."
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:6
+  type: summary
+  locator: 9658-9676
+  quote_or_summary: The courtiers laugh, Prince Firouz Schah is angered and urges
+    rejection of the bargain, while the king calls the horse the Seventh Wonder of
+    the World and asks the prince to examine and test it.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 9677-9682
+  quote_or_summary: The Indian begins to help the prince mount and explain how to
+    guide the horse, but before he finishes the prince turns the screw and is carried
+    out of sight.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 9683-9694
+  quote_or_summary: After waiting for the prince to return, the Indian says the prince
+    had not allowed him to explain how to return to the starting place; the king asks
+    angrily why he did not call the prince back.
+  source_text_path: texts/public-domain/islamicate-folklore/project-gutenberg/arabian-nights-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif candidates
+    are passage-level and cautious; no external comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage does not itself establish a link to another text or tradition.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamicate-folklore-arabian-nights-lang-gutenberg__l9591-l9696
+  passage_sha256=eb679d5944aa94853098840ad7845ef318caf4262c1d3fb1b97930df9c14745a
+

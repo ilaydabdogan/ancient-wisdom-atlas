@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l7878-l7936
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: SECTION VI. / OF THE INSTITUTIONS OF THE KORAN IN CIVIL AFFAIRS. / SECTION
+    VII. / SECTION VIII.; lines 7878-7936
+  start: '7878'
+  end: '7936'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: A theological passage discusses divine creation of good and bad persons,
+    human moral awareness, rejection of the Jabarian view, and the Sunni view that
+    human power and choice are limited and dependent on God’s power and will. It cites
+    Solomon, Christian Pauline language about clay and vessels, and al-Ghazali on
+    the hidden difficulty of free will.
+  language: English and Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a cited position that God could have created all persons
+    good but chose to create both good and bad, with absolute will and perfect choice
+    belonging to God rather than to human beings.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A saying attributed to Solomon states that life and death, good and evil,
+    riches and poverty are from God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Christian Pauline saying is cited in which clay addresses the potter about
+    making one vessel for honor and another for dishonor.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The human being is described as having a sense or consciousness for knowing
+    whether an act is good or bad, which becomes the basis for glory or punishment.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Jabarian opinion is rejected as contrary to human consciousness of power
+    and choice, to God’s justice, and to laws with attached rewards and punishments.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The third opinion, identified with the Zunis or Sonnites, says that human
+    beings have a limited power dependent on God’s power and will, and that deliberation
+    about doing good or evil makes them worthy of punishment or reward.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: God’s wisdom is said to know future things, non-future things, and impossible
+    things, while God’s power concerns only what is possible.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: All that exists and moves, whether in heaven or on earth, is said to depend
+    on God’s power, with no other absolute power besides God’s.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Human power and will are compared to straw moved by the motion of the sea
+    in relation to God’s power.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: In a homicide example, the passage says the external act and election are
+    attributed to the human being under law, while the internal efficacy is not attributed
+    to the human being.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Al-Ghazali is cited as saying that the point of free will is so hidden, deep,
+    and obscure that writing and reasoning are insufficient to express it, and that
+    speakers on the matter stand confused at the shore of a vast sea.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The divine creator and source of absolute power, will, wisdom, justice,
+    laws, rewards, and punishments in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Human being
+  description: A created being described as having limited power, will, external action,
+    election, and consciousness of good and evil.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Solomon
+  description: Named as the speaker in Proverbs of a saying that life and death, good
+    and evil, riches and poverty come from God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Saint Paul
+  description: Named as a Christian apostolic authority whose epistles are cited for
+    the clay, potter, and vessels image.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Jabarians
+  description: A theological group whose opinion is rejected in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Zunis or Sonnites
+  description: A theological group whose third opinion is described as true in the
+    passage, affirming limited human power dependent on God.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sidi Abo Hamet Elgaceli / Abu Hamed al-Ghazali
+  description: A cited wise authority who describes the point of free will as hidden
+    and difficult to express.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Divine creator and absolute power
+  assigned_to:
+  - fig:1
+  basis: The passage attributes creation, absolute will, perfect choice, and absolute
+    power to God.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Divine judge and lawgiver
+  assigned_to:
+  - fig:1
+  basis: God’s justice, laws, rewards, and punishments are invoked in the discussion
+    of human observance and transgression.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Limited moral agent
+  assigned_to:
+  - fig:2
+  basis: The human being is described as possessing limited power, consciousness,
+    deliberation, external action, and election, while depending on God’s power.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: Cited wisdom or scriptural authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:7
+  basis: Solomon, Paul, and al-Ghazali are each cited as authorities in support or
+    explanation of the theological issue.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: Rejected theological position
+  assigned_to:
+  - fig:5
+  basis: The Jabarian opinion is explicitly rejected as inconsistent with human consciousness
+    and divine justice.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Affirmed Sunni theological position
+  assigned_to:
+  - fig:6
+  basis: The third opinion of the Zunis or Sonnites is described as true and is then
+    explained.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Clay, potter, and vessels
+  literal_form: Clay questioning a potter about making one vessel for honor and another
+    for dishonor.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Contrasting pairs from Solomon
+  literal_form: Life and death; good and evil; riches and poverty.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Straw moved by the sea
+  literal_form: Straw moved by the motion of the sea, used in the passage’s comparison
+    of human power and will to divine power.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Shore of a vast sea
+  literal_form: Speakers on free will standing confused at the shore of a great and
+    spacious sea.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Divine creation and cited scriptural analogies
+  summary: The passage states that God could have created all persons good but chose
+    to create good and bad, then cites Solomon on paired conditions coming from God
+    and Paul’s clay-and-potter vessel image.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Human consciousness and rejection of the Jabarian view
+  summary: Human moral consciousness is described as the basis for glory or punishment,
+    and the Jabarian opinion is rejected as contrary to human power, choice, divine
+    justice, and divine laws with rewards and punishments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sunni account of limited human power
+  summary: The third opinion of the Zunis or Sonnites affirms that human power exists
+    but is limited and dependent on God’s power and will, while human deliberation
+    about good and evil grounds punishment or reward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dependence of all motion on divine power
+  summary: The passage says all beings and motions in heaven and earth depend on God’s
+    power, and compares human power and will to straw moved by the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Homicide example and the hidden point of free will
+  summary: A homicide example distinguishes human culpability under law and external
+    choice from internal efficacy, and al-Ghazali is cited on the profound obscurity
+    of the point of free will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment through law, reward, and punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage links divine justice and law to rewards and punishments, and
+    says human consciousness and deliberation about good or evil make the human being
+    worthy of punishment or reward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is doctrinal exposition rather than a narrative judgment scene.
+- id: motif:2
+  label: Divine wisdom and omnipotent ordering of possibles
+  taxonomy_refs:
+  - wisdom
+  basis: God’s wisdom is described as knowing future, non-future, and impossible things,
+    while God’s power sustains everything possible that exists or moves.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The motif is abstract and theological, not a personified wisdom narrative.
+- id: motif:3
+  label: Human free will under divine power
+  taxonomy_refs: []
+  basis: The Sunni opinion described in the passage affirms a limited human power
+    dependent on God’s will and power, while preserving human deliberation, external
+    action, and culpability.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family exactly names free will or predestination.
+- id: motif:4
+  label: Duality of good and evil, life and death
+  taxonomy_refs:
+  - duality
+  basis: The passage lists paired opposites from Solomon and repeatedly frames human
+    deliberation around doing good or evil.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not present a dualistic cosmology; the opposites are
+    subordinated to God’s single power and will.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly brings a Christian Pauline clay-potter-vessels image
+    into the discussion of divine prerogative and unequal created outcomes.
+  claim_level: same_function
+  target: Pauline epistles’ clay, potter, and vessels image as cited in the passage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The exact biblical reference and wording are not verified outside the
+    supplied passage.
+- id: claim:2
+  claim: The passage explicitly aligns its theological claim with a Solomonic proverb-like
+    saying that life and death, good and evil, riches and poverty come from God.
+  claim_level: same_function
+  target: Solomonic Proverbs tradition as cited in the passage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The extraction relies only on the passage’s attribution to Solomon
+    and does not verify the proverb externally.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7878-7888
+  quote_or_summary: A cited position says God could have created all good but chose
+    to create good and bad; Solomon is cited on life/death, good/evil, riches/poverty
+    coming from God; Christians are said to cite Paul on clay, potter, and vessels
+    for honor or dishonor.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7888-7895
+  quote_or_summary: The human being is said to have consciousness for knowing good
+    and bad acts; the Jabarian opinion is rejected as contrary to human power and
+    choice, God’s justice, and laws with rewards and punishments.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7895-7908
+  quote_or_summary: The third opinion of the Zunis or Sonnites affirms limited human
+    power dependent on God’s power and will; deliberation about good or evil makes
+    humans worthy of punishment or reward; divine wisdom knows what is future, non-future,
+    and impossible.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7908-7923
+  quote_or_summary: God’s power is said to concern what is possible, and all that
+    exists or moves in heaven or earth depends on God’s power; human power is compared
+    to straw moved by the motion of the sea.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7923-7932
+  quote_or_summary: In a homicide example, the act is attributed to God’s eternal
+    power internally, while human culpability is assigned with respect to commandments
+    and law; the human receives the external act and election, not the internal efficacy.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7932-7936
+  quote_or_summary: Al-Ghazali is cited as saying the point of free will is indivisible,
+    secret, hidden, deep, and obscure; writing and reasons cannot express it, and
+    all who speak of it remain confused at the shore of a vast sea.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; excerpt summarized.
+- id: ev:7
+  type: citation
+  locator: line 7936
+  quote_or_summary: 'Source note: Al Shahrest. apud Poc. Spec. p. 258.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; brief citation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The figures and doctrinal claims are explicit, but the passage is a theological/commentarial
+    discussion rather than a mythic narrative; motif assignment is therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used. Latin names and terminology are retained as supplied in the passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l7878-l7936
+  passage_sha256=ba743f597cc87c09e328094f6f818f1812b21f62ad417977193764c9d074b4a7
+

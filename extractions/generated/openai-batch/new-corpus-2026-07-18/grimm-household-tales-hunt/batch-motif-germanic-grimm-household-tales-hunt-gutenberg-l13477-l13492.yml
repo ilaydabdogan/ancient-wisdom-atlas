@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l13477-l13492
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 13477-13492
+  start: '13477'
+  end: '13492'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: he entered into a dark forest, and walked for fourteen days
+  summary: An unnamed man wakes, realizes he may have failed to free a woman, reads
+    a letter explaining events, and sets out for the golden castle of Stromberg. Unable
+    to find it, he wanders into a dark forest for fourteen days, follows a glimmering
+    light, and reaches a small-looking house guarded or fronted by a great giant,
+    whom he fears.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man awakes, is sad, and says that a female figure has likely driven by
+    and that he has not set her free.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man sees things lying beside him and reads a letter describing how everything
+    happened.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man sets out intending to go to the golden castle of Stromberg, but he
+    does not know where it is.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After walking about the world for a long time, the man enters a dark forest
+    and walks there for fourteen days without finding his way out.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The man becomes tired in the evening, lies down in a thicket, and falls asleep.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: On the next evening, as he is about to lie down beneath bushes, he hears howling
+    and crying that prevent him from sleeping.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: At the time when people light candles, the man sees a glimmering light and
+    goes toward it.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The man reaches a house that seems very small because a great giant is standing
+    in front of it.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The man thinks that if he enters and the giant sees him, it will probably
+    cost him his life.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: Unnamed male figure who wakes, reads the letter, sets out for the golden
+    castle of Stromberg, wanders in a dark forest, follows a light, and fears the
+    giant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: the female figure to be freed
+  description: Female figure referred to by the man as having likely driven by and
+    as not having been set free by him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: great giant
+  description: A great giant stands in front of the small-seeming house; the man fears
+    being seen by him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: lost questing traveler
+  assigned_to:
+  - fig:1
+  basis: He sets out toward the golden castle of Stromberg without knowing where it
+    is, then becomes unable to find his way out of the dark forest.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: unfreed sought figure
+  assigned_to:
+  - fig:2
+  basis: The man states that she has likely driven by and that he has not set her
+    free.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dangerous figure at house entrance
+  assigned_to:
+  - fig:3
+  basis: The giant stands before the house, and the man thinks being seen by him may
+    cost him his life.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: letter explaining events
+  literal_form: letter lying beside the man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: golden castle of Stromberg
+  literal_form: golden castle destination
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dark forest
+  literal_form: dark forest, thicket, and bushes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: fourteen days
+  literal_form: fourteen-day duration of wandering in the forest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: glimmering candlelight
+  literal_form: one glimmering light seen when people light candles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: small-seeming house
+  literal_form: house that seems very small beside the giant
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Awakening, letter, and renewed journey
+  summary: The man wakes in distress, believes he has failed to free the female figure,
+    reads the letter left beside him, and leaves for the golden castle of Stromberg
+    though he does not know its location.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Lost wandering in the dark forest
+  summary: After long wandering, the man enters a dark forest and spends fourteen
+    days there without finding a way out, sleeping in a thicket when exhausted.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Crying, candlelight, and the giant's house
+  summary: The man hears howling and crying, follows a glimmering light, reaches a
+    small-seeming house, and fears the great giant standing before it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Quest toward an unknown golden castle after failed rescue
+  taxonomy_refs:
+  - departure
+  - mystical_quest
+  basis: The man believes he has failed to free the female figure, reads the letter,
+    and sets out for the golden castle of Stromberg despite not knowing its location.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only the beginning and wandering phase of the quest;
+    the destination and rescue outcome are not included here.
+- id: motif:2
+  label: Prolonged lost wandering in a dark forest
+  taxonomy_refs: []
+  basis: The man enters a dark forest, walks there for fourteen days, and cannot find
+    his way out.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No explicit ritual or initiatory interpretation is stated in the passage.
+- id: motif:3
+  label: Distant light leading to a perilous house
+  taxonomy_refs: []
+  basis: The man follows a glimmering light and reaches a house associated with a
+    great giant whom he fears may kill him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage does not yet state what happens inside the house or whether
+    the giant actively threatens him.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13477-13479
+  quote_or_summary: The man awakes, is sad, and says, “She has certainly driven by,
+    and I have not set her free.”
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 13479-13481
+  quote_or_summary: He notices objects beside him and reads a letter explaining how
+    everything happened.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: 13481-13483
+  quote_or_summary: He intends “to go to the golden castle of Stromberg,” but does
+    not know where it is.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 13483-13485
+  quote_or_summary: After long walking, he enters a dark forest, walks for fourteen
+    days, and still cannot find his way out.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: summary
+  locator: 13485-13487
+  quote_or_summary: In the evening he is tired, lies down in a thicket, and falls
+    asleep.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:6
+  type: summary
+  locator: 13487-13489
+  quote_or_summary: The next evening, as he is about to lie beneath bushes, he hears
+    howling and crying that keep him from sleeping.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: summary
+  locator: 13489-13490
+  quote_or_summary: At the time people light candles, he sees a glimmering light and
+    goes toward it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+- id: ev:8
+  type: quote
+  locator: 13490-13492
+  quote_or_summary: He comes to a house that seems very small because “a great giant
+    was standing” in front of it.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:9
+  type: summary
+  locator: '13492'
+  quote_or_summary: He thinks that entering and being seen by the giant will likely
+    cost him his life.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are candidate descriptions based on passage-level events; no external comparisons
+    are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself cite another tradition or explicit comparative frame.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l13477-l13492
+  passage_sha256=c6d2cc848475226e3a03f4778c09a5b4f56253cd364c47b0955e291fbf79a4ef
+

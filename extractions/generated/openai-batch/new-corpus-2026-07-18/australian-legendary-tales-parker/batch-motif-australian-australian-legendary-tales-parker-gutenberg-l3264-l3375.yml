@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.australian-australian-legendary-tales-parker-gutenberg-l3264-l3375
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+passage_locator:
+  label: INTRODUCTION / ANDREW LANG. / APPENDIX / DINEWAN BOOLLARHNAH GOOMBLEGUBBON;
+    lines 3264-3375
+  start: '3264'
+  end: '3375'
+  translation: 'Australian Legendary Tales: folk-lore of the Noongahburrahs as told
+    to the Piccaninnies'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: DINEWAN BOOLLARHNAH GOOMBLEGUBBON
+  summary: An appendix frames the passage as a native-form specimen of a tale, included
+    at Dr. E. B. Tylor's suggestion. The native-form text is headed with the names
+    Dinewan and Goomblegubbon and contains repeated named dialogue. A closing note
+    by Mrs. Parker says the original teller was unavailable, but another older woman
+    retold the tale almost the same, except for one immaterial descriptive touch.
+  language: English framing note and transcribed native-form tale text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The editor and publisher state that they accepted Dr. E. B. Tylor's suggestion
+    to include a specimen of the tales in their native form.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The native-form tale is headed with the names Dinewan and Goomblegubbon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The body of the native-form text repeatedly names Dinewan and Goomblegubbon
+    and includes multiple quoted speech passages associated with those names by the
+    surrounding narration and punctuation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The native-form section includes the quoted sound or utterance “Boom, boom.”
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Mrs. Parker reports that the first teller was away, and that another old woman
+    of the pre-white era retold the tale almost the same, with only one immaterial
+    descriptive touch omitted.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dinewan
+  description: Named figure in the title and native-form tale text.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Goomblegubbon
+  description: Named figure in the title and native-form tale text.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Dr. E. B. Tylor
+  description: Person whose suggestion led to inclusion of a native-form specimen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Editor and Publisher
+  description: They accepted the suggestion to include a native-form specimen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Mrs. Parker
+  description: Writer of the closing note about retelling and comparison of versions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: first teller of the tale
+  description: An unnamed old woman who first told Mrs. Parker the tale and was away
+    at the time of the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: second teller of the tale
+  description: An unnamed old woman of the pre-white era who retold the tale to Mrs.
+    Parker.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named tale figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both names appear in the tale heading and throughout the native-form narrative.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dialogue-associated figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both names appear near quoted speech blocks in the native-form text.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: suggestion maker for native-form specimen
+  assigned_to:
+  - fig:3
+  basis: The introductory note attributes the suggestion to Dr. E. B. Tylor.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: acceptors of suggestion
+  assigned_to:
+  - fig:4
+  basis: The introductory note says the editor and publisher gratefully accepted the
+    suggestion.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: writer of transmission note
+  assigned_to:
+  - fig:5
+  basis: The closing note is introduced as written by Mrs. Parker.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: first oral teller
+  assigned_to:
+  - fig:6
+  basis: Mrs. Parker says this woman first told her the tale.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: reteller and variant witness
+  assigned_to:
+  - fig:7
+  basis: Mrs. Parker says this second woman retold the tale and that it was almost
+    the same.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial framing of native-form specimen
+  summary: The editor and publisher explain that the appendix provides a native-form
+    specimen of the tales at Dr. E. B. Tylor's suggestion.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Native-form tale of Dinewan and Goomblegubbon
+  summary: The main passage presents a native-form tale headed by Dinewan and Goomblegubbon,
+    with repeated naming and quoted speech, but without an English translation in
+    this passage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Mrs. Parker's note on oral retelling
+  summary: Mrs. Parker reports that another old woman retold the tale when the first
+    teller was unavailable, and that the retelling was nearly the same.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3264-3268
+  quote_or_summary: The appendix opens with an editorial statement that Dr. E. B.
+    Tylor suggested including a specimen of the tales in their native form, and that
+    the editor and publisher accepted.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 3269-3271
+  quote_or_summary: "“DINEWAN BOOLLARHNAH GOOMBLEGUBBON”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 3271-3371
+  quote_or_summary: The native-form tale text repeatedly names Dinewan and Goomblegubbon
+    and contains multiple quoted speech passages marked by quotation marks and punctuation.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3372-3375
+  quote_or_summary: Mrs. Parker states that the first old woman teller was away, but
+    another old woman of the pre-white era retold the tale; she says it was almost
+    the same except for one immaterial descriptive touch.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 3358-3359
+  quote_or_summary: "“Boom, boom.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is primarily an untranslated native-form text with English editorial
+    framing. Named figures and transmission details can be extracted, but motif or
+    symbol assignment would require translation or external knowledge not supplied
+    here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No candidate motifs, taxonomy symbols, or comparison claims were assigned because the supplied passage does not provide an English translation of the tale's narrative content.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:australian-australian-legendary-tales-parker-gutenberg__l3264-l3375
+  passage_sha256=1702614ef1ba5d1c385adb3ac6d38d11cd6209aa194f1fd23f8016ab41cc20d8
+

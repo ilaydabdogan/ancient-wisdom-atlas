@@ -1,0 +1,480 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg-l1644-l1723
+source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+passage_locator:
+  label: QUJAVARSSUK / KUNIGSEQ / THE WOMAN WHO HAD A BEAR AS A FOSTER-SON / IMARASUGSSUAQ,
+    WHO ATE HIS WIVES; lines 1644-1723
+  start: '1644'
+  end: '1723'
+  translation: Eskimo Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: It is said that the great Imarasugssuaq was wont to eat his wives.
+  summary: Imarasugssuaq fattens and tries to kill his wife Misana, who survives by
+    licking snow, deceives him with a clothing dummy, transforms into a piece of wood
+    by means of her amulet, escapes to her brothers, and later sees him die while
+    her brothers hold him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Imarasugssuaq is said to eat his wives.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He fattens wives by feeding them salmon and giving them nothing to drink;
+    he begins doing this to Misana.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Misana is identified as the sister of many brothers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: While Imarasugssuaq is away in his kayak, Misana licks drifted snow and becomes
+    lighter and better able to move.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Misana stuffs her breeches and tunic so that they look like a human being
+    and instructs the dummy to answer and shriek.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Misana digs a hole at the back of the house and hides in it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Imarasugssuaq harpoons the dummy wife with a great bird-spear and then sees
+    no blood, only stuffed-out clothes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Misana flees, and Imarasugssuaq pursues her.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Misana says her amulet is a piece of wood and is changed into a piece of wood;
+    after Imarasugssuaq leaves to fetch an axe, she changes back into a woman.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When Imarasugssuaq stabs the piece of wood with his knife, Misana feels only
+    a little stinging pain.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Misana reaches her brothers' house and hides behind skin hangings.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The brothers mock Imarasugssuaq with the statement that men say he eats his
+    wives, and Misana says from hiding that she ran away because he tried to kill
+    her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:13
+  text: The brothers seize Imarasugssuaq so that Misana may kill him, but her knife
+    only grazes his skin and her fingers lose power; he is then seen to be already
+    dead.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Imarasugssuaq
+  description: A great man who is said to eat his wives, fattens Misana, harpoons
+    the dummy wife, pursues Misana, and dies at the brothers' house.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Misana
+  description: The sister of many brothers and wife of Imarasugssuaq; she is fattened,
+    restores her mobility by licking snow, deceives her husband with a dummy, transforms
+    into wood, escapes to her brothers, and attempts to stab him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Many brothers of Misana
+  description: Misana's brothers; they mock Imarasugssuaq, hear Misana's accusation,
+    and hold him so she may kill him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Former wives of Imarasugssuaq
+  description: Women whom Imarasugssuaq is said to have eaten; the passage also says
+    he had just lost his wife in the usual way before marrying Misana.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: wife-eating husband
+  assigned_to:
+  - fig:1
+  basis: The passage says Imarasugssuaq was accustomed to eating his wives.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pursuer and attacker
+  assigned_to:
+  - fig:1
+  basis: He harpoons the dummy wife, searches for Misana, pursues her, and stabs her
+    wood form.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: imperiled wife and escapee
+  assigned_to:
+  - fig:2
+  basis: Misana is fattened by her husband, regains mobility, uses a dummy, hides,
+    and flees to her brothers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: transforming fugitive
+  assigned_to:
+  - fig:2
+  basis: Misana changes into a piece of wood by speaking of her amulet and later changes
+    back into a woman.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: protective avenging kin
+  assigned_to:
+  - fig:3
+  basis: The brothers mock Imarasugssuaq, receive Misana's accusation, and hold him
+    so she may kill him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: prior victims
+  assigned_to:
+  - fig:4
+  basis: The passage states that Imarasugssuaq was wont to eat his wives and had just
+    lost a wife in the usual way.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: salmon diet
+  literal_form: salmon given as food while withholding drink
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: snow as drink
+  literal_form: drifted snow licked by Misana
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: clothing dummy
+  literal_form: breeches and tunic stuffed to look like a human being
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: bird-spear
+  literal_form: great bird-spear used to harpoon the dummy wife
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wood amulet and wood form
+  literal_form: amulet described as a piece of wood; Misana changes into a piece of
+    wood
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: knife and axe
+  literal_form: knife used to stab the wood and later to try to kill Imarasugssuaq;
+    axe fetched by Imarasugssuaq
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: skin hangings
+  literal_form: skin hangings behind which Misana hides
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Imarasugssuaq fattens Misana
+  summary: After losing a former wife, Imarasugssuaq marries Misana and begins feeding
+    her salmon without giving her drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Misana restores mobility with snow
+  summary: While her husband is away in his kayak, Misana crawls to the entrance and
+    licks drifted snow until she becomes able to move again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Misana prepares the dummy and hiding place
+  summary: Misana stuffs clothing into a dummy, instructs it how to respond, and hides
+    in a hole at the back of the house.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Imarasugssuaq attacks the dummy
+  summary: Imarasugssuaq returns, hears the dummy's answer, harpoons it with his bird-spear,
+    and discovers only stuffed-out clothes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Flight and transformation into wood
+  summary: Misana flees, is pursued, changes into a piece of wood through her amulet,
+    is stabbed with little pain, then changes back and escapes to her brothers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Accusation at the brothers' house
+  summary: Misana hides behind skin hangings while Imarasugssuaq approaches; her brothers
+    mock him, and Misana states that she ran because he tried to kill her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Attempted killing and Imarasugssuaq's death
+  summary: The brothers hold Imarasugssuaq for Misana to kill, but her knife only
+    grazes him and her fingers lose power; he is found already dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wife-eating husband fattens wives before killing
+  taxonomy_refs: []
+  basis: Imarasugssuaq is said to eat wives and to fatten them on salmon while withholding
+    drink, including Misana.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the practice directly but gives details mainly for
+    Misana rather than for each former wife.
+- id: motif:2
+  label: captive wife secretly restores strength with forbidden drink
+  taxonomy_refs: []
+  basis: Misana is denied drink, secretly licks snow while her husband is away, and
+    becomes able to move and escape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes snow-licking literally; broader symbolic or ritual
+    significance is not stated.
+- id: motif:3
+  label: dummy substitute deceives violent pursuer
+  taxonomy_refs: []
+  basis: Misana creates a stuffed clothing figure that answers and shrieks, causing
+    Imarasugssuaq to harpoon it instead of her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain whether the dummy's speech is magical or
+    a narrative convention.
+- id: motif:4
+  label: temporary transformation into an inert object for concealment
+  taxonomy_refs:
+  - shapeshifter
+  basis: Misana changes into a piece of wood when pursued, avoids being recognized,
+    and later changes back into a woman.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The transformation is defensive and amulet-linked; the passage does not
+    portray Misana as a habitual shapeshifter.
+- id: motif:5
+  label: threatened sister returns to brothers for protection and vengeance
+  taxonomy_refs: []
+  basis: Misana flees to her brothers, reveals that Imarasugssuaq tried to kill her,
+    and the brothers seize him so she may kill him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The death occurs while Misana's stabbing attempt fails, so the exact mechanism
+    of vengeance is not fully explicit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1644-1652
+  quote_or_summary: Imarasugssuaq is said to eat his wives; he fattens them by giving
+    them salmon and no drink. After losing a wife, he marries Misana, the sister of
+    many brothers, and begins fattening her.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 1654-1665
+  quote_or_summary: While Imarasugssuaq is away in his kayak, the fattened Misana
+    crawls to the entrance, licks drifted snow, feels lighter, and repeats this until
+    she can move about again.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 1667-1679
+  quote_or_summary: Misana stuffs her breeches and tunic to look like a human being,
+    instructs the dummy to say it is too fat to move and to shriek when harpooned,
+    then digs a hole behind the house and hides in it.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 1680-1690
+  quote_or_summary: Imarasugssuaq orders the birds brought up, receives the dummy's
+    answer, harpoons the dummy wife with his great bird-spear, and discovers no blood,
+    only stuffed-out clothes.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 1692-1706
+  quote_or_summary: Misana flees and is pursued. Remembering her amulet as a piece
+    of wood, she changes into wood; Imarasugssuaq cannot identify her, stabs the wood
+    with a knife, goes to fetch an axe, and she changes back and flees to her brothers.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 1708-1719
+  quote_or_summary: At her brothers' house Misana hides behind skin hangings. Imarasugssuaq
+    approaches weeping. The brothers mock him by saying men say he eats his wives,
+    and Misana answers from behind the hangings that she ran because he tried to kill
+    her.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 1720-1723
+  quote_or_summary: The brothers seize Imarasugssuaq so Misana may kill him; her knife
+    only grazes his skin because her fingers lose power, and then they see that he
+    is already dead.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear narrative actions and figures. Motif labels are candidates
+    and should be checked by a human reviewer, especially the taxonomy use of shapeshifter
+    and water.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this tale to another text, tradition, or named motif family beyond the taxonomy-supported candidate motif.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-eskimo-folk-tales-rasmussen-worster-gutenberg__l1644-l1723
+  passage_sha256=c81ffd7097808e0920ec72de632d56c3eb23777164e7b219440a3a959f8d7afc
+

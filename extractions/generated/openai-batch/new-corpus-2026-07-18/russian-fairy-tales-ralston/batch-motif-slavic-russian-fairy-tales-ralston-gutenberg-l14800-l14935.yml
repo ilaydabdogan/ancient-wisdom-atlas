@@ -1,0 +1,563 @@
+---
+record_id: batch.motif.slavic-russian-fairy-tales-ralston-gutenberg-l14800-l14935
+source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+passage_locator:
+  label: 'GHOST STORIES. / FOOTNOTES: / CHAPTER VI. / LEGENDS.; lines 14800-14935'
+  start: '14800'
+  end: '14935'
+  translation: 'Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A Pope travels with an old man, steals the old man's undiminishing loaves,
+    and denies the theft. In one kingdom the pair cure a dying princess by cutting
+    her apart, washing the pieces, reassembling them, and having the old man breathe
+    life into her. After receiving royal rewards, the Pope greedily tries to repeat
+    the cure alone in another kingdom, fails, faces execution, seeks the old man's
+    help, and again denies having eaten the loaves when questioned.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Pope and the stranger agree to eat the stranger's loaves first and save
+    the Pope's biscuits for later; the loaves do not get smaller as they eat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the old man falls asleep, the Pope takes the loaves from the old man's
+    pocket, nibbles them, and denies eating them when asked.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The travelers come to a country where the King's daughter is at the point
+    of death.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The King has promised half his kingdom and possessions to whoever cures his
+    daughter, but execution to anyone who undertakes the cure and fails.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The two travelers present themselves as doctors and ask for a private room,
+    a tub of water, a sharp sword, and a big table.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The first Princess is laid on the table, cut into pieces, washed and rinsed
+    in water, reassembled, and revived after the old man breathes on the pieces.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The King comes to the door, invokes the Father, Son, and Holy Ghost, and receives
+    the Princess alive and well.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The King offers valuables; the old man takes only a small amount with a thumb
+    and two fingers, while the Pope takes whole handfuls and fills his wallet.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The old man proposes burying the money and making another cure; the travelers
+    reach another country with another King's daughter at the point of death under
+    the same reward-and-penalty conditions.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Evil One prompts the envious Pope to attempt the cure without the old
+    man so that he can take all the gold and silver himself.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The Pope imitates the earlier procedure on the second Princess, continuing
+    despite her screams, but his breathing on the pieces produces no restoration.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The second King sees the failed result and orders the Pope to the gallows;
+    the Pope begs for time to fetch the old man.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The Pope tells the old man that he is guilty and that the Devil got hold of
+    him, but when the old man asks who ate his loaves, the Pope again denies eating
+    them.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the Pope
+  description: A traveling companion who steals the old man's loaves, denies it, takes
+    much royal reward, attempts a cure alone, fails, and faces hanging.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the old man / stranger
+  description: Owner of the undiminishing loaves and the traveler who successfully
+    restores the first Princess by reassembling her pieces and breathing on them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: first King's daughter / first Princess
+  description: A royal daughter at the point of death who is cut apart, washed, reassembled,
+    and restored alive and well.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: first King
+  description: A king who offers half his kingdom and possessions for his daughter's
+    cure, supplies the requested objects, and rewards the successful doctors.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: second King's daughter / second Princess
+  description: A second royal daughter at the point of death who is cut up by the
+    Pope during his failed imitation of the cure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: second King
+  description: A king who has announced the same reward and penalty and orders the
+    failed doctor to the gallows.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: the Evil One
+  description: A figure named as afflicting the envious Pope and suggesting that he
+    perform the cure alone for wealth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: traveling companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Pope and the old man travel together after the meal and proceed from
+    country to country.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: miraculous healer / restorer
+  assigned_to:
+  - fig:2
+  basis: The old man's breath makes the princess's reassembled pieces stick together
+    and restores her alive and well.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: greedy failed imitator
+  assigned_to:
+  - fig:1
+  basis: The Pope steals the loaves, takes large handfuls of reward, and tries to
+    repeat the cure alone for all the wealth, but fails.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: royal patient
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Each King's daughter is described as being at the point of death and is the
+    subject of an attempted cure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: royal patron and judge
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Each King offers reward for a cure and threatens or imposes death for failure.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:6
+  label: tempter
+  assigned_to:
+  - fig:7
+  basis: The Evil One is said to afflict the Pope and suggest the greedy solo cure.
+  evidence_refs:
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: undiminishing loaves
+  literal_form: loaves that are eaten but get no smaller
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tub of water
+  literal_form: a tub of water used to wash and rinse the princesses' pieces
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: sharp sword
+  literal_form: a sharp sword used to cut the princesses into pieces
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: restoring breath
+  literal_form: breath or puff directed at the reassembled pieces
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: gold and silver reward
+  literal_form: gold and silver valuables taken after the first cure and desired by
+    the Pope in the second attempt
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: gallows and stake penalty
+  literal_form: execution by hanging or having the head chopped off and displayed
+    on a stake
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: The loaves are eaten, stolen, and denied
+  summary: The travelers eat the old man's loaves, which do not diminish; the Pope
+    later steals them and denies the theft.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First royal cure
+  summary: In the first kingdom, the travelers claim to be doctors, receive a private
+    room and instruments, and restore the dying Princess through cutting, washing,
+    reassembly, and the old man's breath.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Reward after successful cure
+  summary: The first King offers valuables; the old man takes little, while the Pope
+    greedily fills his wallet with gold and silver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Second kingdom and temptation
+  summary: The travelers reach a second kingdom with the same healing challenge, and
+    the Evil One prompts the Pope to attempt the cure alone for wealth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Failed imitation of the cure
+  summary: The Pope repeats the cutting, washing, reassembling, and breathing procedure
+    on the second Princess, but the pieces do not come alive.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Gallows appeal and renewed denial
+  summary: After the failed cure, the King orders the Pope to the gallows; the Pope
+    seeks the old man's help, admits guilt over the failed cure, but still denies
+    having eaten the loaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: miraculous inexhaustible food stolen and denied
+  taxonomy_refs: []
+  basis: The loaves are eaten without diminishing, then the Pope secretly takes them
+    and denies responsibility when questioned.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage shows the loaves as wondrous and stolen, but does not explicitly
+    call them sacred or explain their origin.
+- id: motif:2
+  label: dismemberment, washing, reassembly, and restoration to life
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The first Princess is cut into pieces, washed and rinsed, reassembled, and
+    restored alive and well when the old man breathes on her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The King describes the task as a cure for someone at the point of death;
+    the passage does not explicitly frame it as theological resurrection.
+- id: motif:3
+  label: failed imitation of a miraculous act by a greedy observer
+  taxonomy_refs: []
+  basis: After seeing the old man's cure and desiring all the reward, the Pope attempts
+    the same procedure alone, but his breath has no effect and he faces execution.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage attributes the attempt to envy and the Evil One, but does
+    not provide an explicit moral explanation for the failed mechanics beyond the
+    Pope's inability.
+- id: motif:4
+  label: royal healing task with reward and death penalty
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Both Kings offer half their kingdom and possessions to the successful healer
+    and death to the one who fails.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The exchange is explicitly royal and contractual; its classification as
+    sacred exchange is tentative.
+- id: motif:5
+  label: diabolic prompting of greed
+  taxonomy_refs: []
+  basis: The Evil One is named as afflicting the envious Pope and suggesting that
+    he perform the cure alone to take all the gold and silver.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage states the prompting directly but gives little description
+    of the Evil One's form or mode of action.
+comparison_claims:
+- id: claim:1
+  claim: 'The second royal-healing episode internally repeats the first episode''s
+    pattern of a dying princess, royal reward-and-penalty terms, requested instruments,
+    cutting, washing, reassembly, and breath, but changes the performer and outcome:
+    the old man succeeds, while the Pope''s imitation fails.'
+  claim_level: same_function
+  target: the first royal-healing scene within the same passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal structural comparison only; it does not establish
+    relationship to an external tale type or historical tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14800-14818
+  quote_or_summary: The Pope and stranger eat the stranger's loaves, which do not
+    get smaller; after the old man sleeps, the Pope takes and nibbles the loaves,
+    then denies eating them.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 14819-14843
+  quote_or_summary: The travelers reach a country where the King's daughter is near
+    death; the King promises half his kingdom and possessions for a cure and execution
+    for failure; the travelers claim to be doctors and request a private apartment,
+    tub of water, sharp sword, and big table.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 14844-14856
+  quote_or_summary: In the private room they cut the Princess into small pieces, wash
+    and rinse the pieces in water, reassemble them, and the old man's breath makes
+    the pieces unite; after a final puff she quivers and rises alive and well.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 14857-14874
+  quote_or_summary: The King invokes the Father, Son, and Holy Ghost at the door,
+    is told the Princess is cured, sees her alive and well, and offers gold and silver;
+    the old man takes little, while the Pope takes large handfuls into his wallet.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 14875-14891
+  quote_or_summary: The old man suggests burying the money and making another cure;
+    they reach another country with the same royal challenge; the Evil One prompts
+    the envious Pope to attempt the cure alone to obtain all the gold and silver.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 14892-14910
+  quote_or_summary: The Pope asks for the same private room, water, table, and sword;
+    he cuts up the Princess despite her screams, washes and reassembles the pieces,
+    and breathes on them, but nothing happens.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 14911-14924
+  quote_or_summary: The next morning the King sees the unsuccessful treatment and
+    orders the doctor to the gallows; the Pope begs for time to fetch the old man,
+    saying the old man will cure the Princess.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: 14925-14935
+  quote_or_summary: The Pope finds the old man, says he is guilty and that the Devil
+    got hold of him, and asks for help; at the gallows the old man asks who ate his
+    loaves, and the Pope again denies it.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the provided passage. Motif labels are conservative;
+    taxonomy links are used only where the passage clearly supports them or where
+    noted as tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external tale-type, historical-contact, or cross-tradition claims were added.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:slavic-russian-fairy-tales-ralston-gutenberg__l14800-l14935
+  passage_sha256=2356cb0bce5fda4c86b79182ae6e2bce62bb26cf22662e5d798811c9957890fc
+

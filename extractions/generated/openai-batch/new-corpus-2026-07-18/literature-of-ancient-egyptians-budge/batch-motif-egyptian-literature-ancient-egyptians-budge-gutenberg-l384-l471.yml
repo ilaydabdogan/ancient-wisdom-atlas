@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.egyptian-literature-ancient-egyptians-budge-gutenberg-l384-l471
+source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+passage_locator:
+  label: STELE ON WHICH IS CUT THE SPEECH OF AMEN-RA                          107
+    / STELE ON WHICH IS CUT THE AUTOBIOGRAPHY OF THAIEMHETEP               150 / THE
+    LITERATURE OF THE ANCIENT EGYPTIANS / CHAPTER I; lines 384-471
+  start: '384'
+  end: '471'
+  translation: The Literature of the Ancient Egyptians
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: "“invocations to Thoth, the inventor of the art of writing”"
+  summary: 'The passage describes Egyptian writing materials and techniques: stone,
+    wood, skin, papyrus, papyrus manufacture, scribal palettes, inks, paints, reeds,
+    and examples of religious or funerary writing. It also notes inscriptions invoking
+    gods and Thoth, and includes a footnote comparing paper-polishing by some Mesopotamian
+    scribes.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Stone, wood, skin, and papyrus are named as common Egyptian writing substances,
+    with early writing traced in black or red fluid ink and later writing cut into
+    stone after the use of metals became known.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A rubric to Book of the Dead chapter LXIV is reported as saying the text was
+    found cut on a block of southern alabaster during Menkaura’s reign.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Wooden coffins in the British Museum are described as having interiors covered
+    with religious texts written in ink; documents written on skin or parchment are
+    described as few.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Papyrus is described as growing in Lower Egyptian swamps, marshes, and shallow
+    pools formed by the annual Nile flood; the passage states that it no longer grows
+    in Egypt but grows in the Egyptian Sudan.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Papyrus sheets are described as made from thin inner-stem strips laid lengthwise
+    and crosswise, joined with glue and water or gum, pressed, sun-dried, and polished.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Papyrus rolls could be made by adding sheet to sheet; the passage gives British
+    Museum roll examples including the Harris Papyrus and a copy of the Book of the
+    Dead.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The scribe mixed paints on a palette with hollows for ink or paint and a central
+    groove for writing reeds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Palette inscriptions are said to give the owner’s name and to contain prayers
+    to gods for funerary offerings or invocations to Thoth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Black ink and colored paints are described by their material ingredients,
+    and writing reeds are described as pens with bruised ends or, in later times,
+    cut ends.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A footnote says some scribes in Mesopotamia polish rough paper on a board
+    with a glass bottle before writing on it.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ancient Egyptians
+  description: Collective group described as using and making writing materials including
+    stone, wood, skin, and papyrus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Scribe
+  description: Generic writing practitioner who mixes paints, uses a palette, keeps
+    writing reeds, and writes with ink and paints.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Thoth
+  description: Named in palette invocations as the inventor of the art of writing.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Gods
+  description: Collective divine recipients of prayers for funerary offerings in palette
+    inscriptions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: maker and user of writing materials
+  assigned_to:
+  - fig:1
+  basis: The passage attributes use of multiple writing materials and papyrus manufacture
+    to the Egyptians.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: scribe and writing-tool user
+  assigned_to:
+  - fig:2
+  basis: The scribe is described as mixing paints, using a palette, and writing with
+    reeds and inks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: divine inventor of writing
+  assigned_to:
+  - fig:3
+  basis: Thoth is explicitly called the inventor of the art of writing.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine recipient of prayers or invocations
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Palette inscriptions contain prayers to gods for funerary offerings and invocations
+    to Thoth.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Papyrus writing support
+  literal_form: Papyrus plant, sheet, and roll used as writing material.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Stone and alabaster inscription
+  literal_form: Writing cut into stone, including a reported alabaster block bearing
+    a Book of the Dead chapter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Coffin religious texts
+  literal_form: Wooden coffin interiors covered with religious texts written in ink.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Scribal palette and reeds
+  literal_form: Palette with ink hollows and a groove for writing reeds used as pens.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Nile water as adhesive
+  literal_form: Nile water, glue and water, or gum used to join papyrus strips.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Palette prayers and Thoth invocations
+  literal_form: Inscriptions on palettes containing prayers for funerary offerings
+    and invocations to Thoth.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Writing supports and religious examples
+  summary: The passage lists Egyptian writing supports and gives examples of cut stone
+    writing, religious texts on coffins, and papyrus documents.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Papyrus habitat and manufacture
+  summary: Papyrus is described as a marsh plant associated with Nile flood pools,
+    and its stems are processed into layered, joined, pressed, dried, and polished
+    sheets that can become rolls.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Scribal palette, pigments, reeds, and invocations
+  summary: The scribe’s tools and pigments are described, including palettes with
+    inscriptions naming owners, prayers to gods, and invocations to Thoth as inventor
+    of writing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine invention of writing
+  taxonomy_refs:
+  - wisdom
+  - culture_hero
+  basis: The passage states that palette inscriptions may invoke Thoth and identifies
+    him as inventor of the art of writing.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief attribution, not a full mythic narrative
+    about the invention of writing.
+- id: motif:2
+  label: Funerary textual piety
+  taxonomy_refs: []
+  basis: The passage links writing materials with religious texts on coffin interiors
+    and with palette prayers to gods for funerary offerings.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate an afterlife journey, judgment, or ritual
+    performance; it only describes textual objects and inscriptions.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a limited same-function comparison between Egyptian
+    papyrus-sheet polishing and a footnoted Mesopotamian practice of polishing rough
+    paper before writing.
+  claim_level: same_function
+  target: Mesopotamian scribal paper-polishing practice noted in the footnote
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a technical comparison of writing-surface preparation only;
+    it does not establish mythic borrowing, historical contact, or shared symbolic
+    meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 384-408
+  quote_or_summary: Egyptian writing substances are listed as stone, wood, skin, and
+    papyrus; examples include cut stone, a reported alabaster Book of the Dead chapter,
+    coffin texts, and early papyrus documents.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 410-439
+  quote_or_summary: Papyrus habitat, plant uses, sheet manufacture, adhesive materials
+    including Nile water or gum, drying, polishing, and roll lengths are described.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: quote
+  locator: lines 441-453
+  quote_or_summary: Palette inscriptions may contain “prayers to the gods for funerary
+    offerings, or invocations to Thoth, the inventor of the art of writing.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 454-468
+  quote_or_summary: Ink, colored paints, pigment ingredients, writing reeds, later
+    cut reed pens, and boxes for reeds are described.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: Footnote 1, lines 470-471
+  quote_or_summary: The footnote states that some scribes in Mesopotamia polish rough
+    paper on a board with a glass bottle before writing.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly technical and historical rather than narrative mythology.
+    Motif candidates are therefore limited to explicit divine, funerary, and scribal-religious
+    elements in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources were used; extraction is limited to the supplied passage and metadata.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:egyptian-literature-ancient-egyptians-budge-gutenberg__l384-l471
+  passage_sha256=470bebd5983fb8f1a4bd1eb9373fe1874732559840e4553b8d1a7e5e72e35e2d
+

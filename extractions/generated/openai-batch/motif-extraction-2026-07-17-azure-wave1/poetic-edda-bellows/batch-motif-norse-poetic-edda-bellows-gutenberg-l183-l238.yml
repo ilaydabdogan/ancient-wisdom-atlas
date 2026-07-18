@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.norse-poetic-edda-bellows-gutenberg-l183-l238
+source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+passage_locator:
+  label: ESTABLISHED BY NIELS POULSON / THIS VOLUME IS ENDOWED IN PART BY CHARLES
+    S. PETERSON OF CHICAGO / ACKNOWLEDGEMENT / GENERAL INTRODUCTION; lines 183-238
+  start: '183'
+  end: '238'
+  translation: The Poetic Edda
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction explains the scarcity and inadequacy of earlier translations
+    of the Poetic Edda, presents the work as a major storehouse of Germanic mythology
+    and literature, and briefly identifies thematic contents including world creation
+    and destruction in the Voluspo, wisdom counsels in the Hovamol, comic characterization
+    in the Lokasenna, ballad form in the Thrymskvitha, and the heroic story of Sigurth,
+    Brynhild, and Atli as a Norse parallel to the German Nibelungenlied.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Poetic Edda had been difficult for general readers
+    and literature students to access, especially in complete and adequately annotated
+    English metrical form.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage calls the Poetic Edda the original storehouse of Germanic mythology
+    and a major literary monument of Germanic antiquity.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the Voluspo includes a conception of the creation and ultimate
+    destruction of the world.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says parts of the Hovamol contain wise counsels comparable to
+    the Biblical Book of Proverbs.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage characterizes the Lokasenna as a comedy with vivid characterization
+    and often broad humor.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage characterizes the Thrymskvitha as one of the finest ballads in
+    the world.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the hero poems give the oldest and most vivid extant form
+    of the story of Sigurth, Brynhild, and Atli.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage identifies the story of Sigurth, Brynhild, and Atli as the Norse
+    parallel to the German Nibelungenlied.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage describes the poems as preserved from a period before the pen
+    and printing-press replaced the poet-singer and oral tradition.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sigurth
+  description: Named as one of the figures in the story preserved in the hero poems.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Brynhild
+  description: Named as one of the figures in the story preserved in the hero poems.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Atli
+  description: Named as one of the figures in the story preserved in the hero poems.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named figure in cited hero-poem story
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage identifies the hero poems as giving the story of Sigurth, Brynhild,
+    and Atli.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Voluspo world creation and destruction reference
+  summary: The introduction identifies the Voluspo as containing a literary conception
+    of the world's creation and ultimate destruction.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Heroic story reference
+  summary: The introduction identifies the hero poems as preserving the story of Sigurth,
+    Brynhild, and Atli and relates it to the German Nibelungenlied.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: world creation and final destruction
+  taxonomy_refs: []
+  basis: The passage says the Voluspo contains a conception of the creation and ultimate
+    destruction of the world.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a topical description and does not specify mechanism,
+    agents, renewal, fire, or sequence.
+- id: motif:2
+  label: wisdom counsel collection
+  taxonomy_refs:
+  - wisdom
+  basis: The passage identifies parts of the Hovamol as a collection of wise counsels.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not quote or summarize any individual counsel.
+- id: motif:3
+  label: heroic legend of Sigurth, Brynhild, and Atli
+  taxonomy_refs: []
+  basis: The passage identifies the hero poems as preserving the story of Sigurth,
+    Brynhild, and Atli in its oldest and most vivid extant form.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage names the story and figures but gives no plot events or symbolic
+    objects.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the wise counsels in parts of the Hovamol with the Biblical
+    Book of Proverbs.
+  claim_level: same_function
+  target: Biblical Book of Proverbs
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is presented as a general literary-functional comparison;
+    the passage does not identify shared sayings, direct influence, or historical
+    contact.
+- id: claim:2
+  claim: The passage identifies the story of Sigurth, Brynhild, and Atli as the Norse
+    parallel to the German Nibelungenlied.
+  claim_level: same_motif
+  target: German Nibelungenlied
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage asserts a parallel but does not provide detailed plot correspondences
+    or evidence for transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 183-212
+  quote_or_summary: The introduction says the Poetic Edda had been less readily available
+    than other important literary works and lacked a complete, adequately annotated
+    English metrical translation based on a critical text.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 214-219
+  quote_or_summary: "“the Poetic Edda is the original storehouse of Germanic mythology”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 221-223
+  quote_or_summary: The mythological poems are said to include, in the Voluspo, a
+    vast conception of the creation and ultimate destruction of the world.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 223-224
+  quote_or_summary: Parts of the Hovamol are described as a collection of wise counsels
+    comparable with much of the Biblical Book of Proverbs.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 224-226
+  quote_or_summary: The Lokasenna is described as a comedy with vivid characterization
+    and broad humor, and the Thrymskvitha as one of the finest ballads in the world.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 226-228
+  quote_or_summary: The hero poems are said to give the story of Sigurth, Brynhild,
+    and Atli in its oldest and most vivid extant form, as the Norse parallel to the
+    German Nibelungenlied.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 229-234
+  quote_or_summary: The collection is described as preserving remarkable poems from
+    the period before pen and printing-press replaced the poet-singer and oral tradition,
+    and the translation aims to make their dramatic force and imagery better known.
+  source_text_path: texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: This is an introductory critical passage rather than a narrative myth passage.
+    Motif extraction is limited to the passage's own topical descriptions and explicit
+    comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage does not present any of the available symbol forms as a narrative or symbolic object. No world-destroying-fire taxonomy ref was assigned because fire is not mentioned in this passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:norse-poetic-edda-bellows-gutenberg__l183-l238
+  passage_sha256=d3fb59be484ab23d4b9d27f72ddda646c5787a821ff745975f6e782fa32ff177
+

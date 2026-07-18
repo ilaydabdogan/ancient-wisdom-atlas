@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l6889-l7047
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 6889-7047
+  start: '6889'
+  end: '7047'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A singing bird repeats a song about being killed, eaten, and having its
+    bones gathered beneath a juniper-tree. It trades repeated performances of the
+    song for a gold chain, red shoes, and a millstone, then returns with these objects
+    to the father’s house, where the father, mother, and Marlinchen react differently
+    as the bird begins to sing again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A bird sits singing on a goldsmith’s roof while the goldsmith is making a
+    gold chain in his workshop.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goldsmith praises the bird’s singing; the bird refuses to repeat the song
+    without payment and receives the gold chain in its right claw before singing again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bird’s repeated song says that the speaker’s mother killed the speaker,
+    the father ate the speaker, and Marlinchen gathered the bones, tied them in a
+    silken handkerchief, and laid them beneath the juniper-tree.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the shoemaker’s house, the shoemaker calls his wife, daughter, children,
+    and apprentices to see the bird; they observe its beauty, red and green feathers,
+    gold-like neck, and star-like eyes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The shoemaker gives the bird a pair of red shoes in exchange for another performance
+    of the song; the bird takes the shoes in its left claw.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the mill, twenty miller’s men are working on a stone while the mill makes
+    repeated sounds; they stop working progressively as the bird sings the song line
+    by line.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The bird asks for the millstone in exchange for another song; the twenty millers
+    raise the stone with a beam, and the bird places its neck through the hole so
+    that the stone sits like a collar.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After singing at the mill, the bird flies toward its father’s house carrying
+    the chain in its right claw, the shoes in its left claw, and the millstone around
+    its neck.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: In the father’s house, the father, mother, and Marlinchen sit at dinner; the
+    father says he feels happy, the mother says she feels uneasy, and Marlinchen weeps.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: When the bird seats itself on the roof and then on the juniper tree, the father
+    associates its arrival with happiness and an old friend, while the mother reports
+    anxiety and physical distress.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:11
+  text: As the bird sings from the juniper tree, the mother stops her ears and shuts
+    her eyes, while the father praises the bird’s song and notices warmth and a cinnamon-like
+    smell.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: singing bird
+  description: A beautiful bird that sings from roofs and trees, has red and green
+    feathers, a gold-like neck, star-like eyes, and carries a chain, shoes, and millstone.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: goldsmith
+  description: An artisan in a workshop making a gold chain; he asks the bird to repeat
+    its song and gives it the chain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: shoemaker
+  description: A listener who calls others to see the bird and gives it red shoes
+    in exchange for another song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: shoemaker’s wife, children, and apprentices
+  description: A group called outside by the shoemaker to look at the bird.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: twenty miller’s men
+  description: Twenty workers at the mill who stop work while the bird sings and raise
+    the millstone for the bird.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: father
+  description: A man at dinner in the house to which the bird returns; the bird’s
+    song names the father as the one who ate the speaker, and he responds happily
+    to the bird.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:7
+  name_or_label: mother
+  description: A woman at dinner in the father’s house; the bird’s song names the
+    mother as the one who killed the speaker, and she reacts with anxiety and distress.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Marlinchen
+  description: The sister named in the bird’s song as gathering the bones; she is
+    present at dinner and weeps.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:2
+  - ev:7
+roles:
+- id: role:1
+  label: singing barterer
+  assigned_to:
+  - fig:1
+  basis: The bird repeatedly refuses to sing twice for nothing and requests objects
+    before repeating the song.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: speaker of death-and-bones song
+  assigned_to:
+  - fig:1
+  basis: The bird sings a first-person song ending with the identification, “what
+    a beautiful bird am I,” after reporting killing, eating, and bone-gathering.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: artisan listener and giver
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both the goldsmith and shoemaker praise the bird’s song and give crafted
+    goods in exchange for repetition.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: summoned onlookers
+  assigned_to:
+  - fig:4
+  basis: The shoemaker calls his household and apprentices outside to look at the
+    bird.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: collective workers and givers of millstone
+  assigned_to:
+  - fig:5
+  basis: The miller’s men stop work to listen and then raise the millstone for the
+    bird after agreeing it may have it if it sings again.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: family hearers at the father’s house
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The father, mother, and Marlinchen are seated at dinner when the bird returns
+    and begins to sing nearby.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: father named in song as eater
+  assigned_to:
+  - fig:6
+  basis: The bird’s song states, “My father he ate me,” and the father later praises
+    the bird’s singing.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:8
+  label: mother named in song as killer
+  assigned_to:
+  - fig:7
+  basis: The bird’s song states, “My mother she killed me,” and the mother reacts
+    by stopping her ears and shutting her eyes.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:9
+  label: sister named as bone-gatherer and mourner
+  assigned_to:
+  - fig:8
+  basis: The song names Marlinchen as gathering the bones, and the dinner scene depicts
+    her weeping.
+  evidence_refs:
+  - ev:2
+  - ev:7
+symbols:
+- id: sym:1
+  label: singing bird
+  literal_form: A beautiful bird singing from roofs, a lime-tree, and the juniper
+    tree.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: death-and-bones song
+  literal_form: A repeated song about mother killing, father eating, sister gathering
+    bones, and the speaker becoming or identifying as a beautiful bird.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gold chain
+  literal_form: A gold chain made by the goldsmith and given to the bird, which carries
+    it in its right claw.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:4
+  label: red shoes
+  literal_form: A pair of red shoes brought from the shoemaker’s garret and carried
+    by the bird in its left claw.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: millstone collar
+  literal_form: A millstone lifted by the twenty millers and placed around the bird’s
+    neck like a collar.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: juniper tree
+  literal_form: The tree beneath which the song says the bones were laid, and the
+    tree on which the bird sits at the father’s house.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:7
+  label: bones in silken handkerchief
+  literal_form: Bones gathered by Marlinchen, tied in a silken handkerchief, and laid
+    beneath the juniper-tree according to the song.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: storm, fire, and lightning imagery around the mother
+  literal_form: The mother says a storm seems to be coming and that she has fire in
+    her veins; when the bird sings, her ears roar like a storm and her eyes burn and
+    flash like lightning.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Goldsmith exchange
+  summary: The bird sings on the goldsmith’s roof; the goldsmith asks for another
+    song, gives the bird a gold chain, and receives the repeated song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shoemaker exchange
+  summary: The bird sings on the shoemaker’s roof; the shoemaker summons his household,
+    gives the bird red shoes, and hears the song again.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mill exchange
+  summary: At the mill, the bird sings while the twenty miller’s men stop work progressively;
+    they give it the millstone, which it wears as a collar before singing again.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Return to father’s house
+  summary: The bird flies to its father’s house carrying the chain, shoes, and millstone;
+    the family is at dinner, and the bird begins singing from the juniper tree as
+    the father, mother, and Marlinchen respond differently.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: murdered-and-eaten speaker revealed through bird song
+  taxonomy_refs:
+  - death_rebirth
+  basis: The song repeatedly connects killing, eating, bones gathered under a juniper-tree,
+    and the refrain identifying the singer as a beautiful bird.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt supplies the song and the bird’s performance, but the actual
+    transformation or revival event is not narrated within this supplied passage.
+- id: motif:2
+  label: song exchanged for valuable objects
+  taxonomy_refs: []
+  basis: The bird refuses to repeat its song for nothing and receives a gold chain,
+    red shoes, and a millstone before singing again.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a descriptive motif candidate; no external tale-type identification
+    is made.
+- id: motif:3
+  label: progressive enchantment or arrest of workers by song
+  taxonomy_refs: []
+  basis: At the mill, groups of workers stop hewing as successive lines of the bird’s
+    song are sung, until the last worker stops too.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly call the effect magical; it only narrates
+    the workers stopping to listen.
+- id: motif:4
+  label: return home carrying acquired objects
+  taxonomy_refs:
+  - return
+  basis: After obtaining the chain, shoes, and millstone, the bird flies to its father’s
+    house carrying all three objects.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The purpose and outcome of the return are not completed in the supplied
+    excerpt.
+- id: motif:5
+  label: sister gathers bones and mourns
+  taxonomy_refs:
+  - sibling_pair
+  basis: The song names Marlinchen as the sister who gathered the bones, and the dinner
+    scene shows her weeping.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The sibling relationship is stated in the song; the full earlier narrative
+    is outside this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6889-6910; goldsmith episode
+  quote_or_summary: The goldsmith hears the bird singing on his roof, praises it,
+    and asks for the song again; the bird says it will not sing twice for nothing
+    and asks for the golden chain, which it takes in its right claw before singing.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6904-6910 and repeated in the passage
+  quote_or_summary: 'The repeated song says: mother killed the speaker, father ate
+    the speaker, sister Marlinchen gathered the bones, tied them in a silken handkerchief,
+    laid them beneath the juniper-tree, and ends with the refrain “what a beautiful
+    bird am I.”'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; short quoted phrase from supplied
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 6912-6946; shoemaker episode
+  quote_or_summary: The bird flies to the shoemaker’s roof and sings; the shoemaker
+    summons his wife, daughter, children, and apprentices, who see its red and green
+    feathers, gold-like neck, and star-like eyes. The bird receives red shoes in exchange
+    for singing again.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6947-6982; mill song episode
+  quote_or_summary: The bird flies to a mill, sits on a lime-tree, and sings line
+    by line while twenty miller’s men stop working in successive groups until the
+    last one stops and asks to hear the song again.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6983-7004; millstone exchange
+  quote_or_summary: The bird asks for the millstone before repeating the song. The
+    twenty millers raise the stone with a beam; the bird puts its neck through the
+    hole, wears it like a collar, returns to the tree, and sings again.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7005-7008; flight to father’s house
+  quote_or_summary: After singing at the mill, the bird spreads its wings and flies
+    to its father’s house with the chain in its right claw, the shoes in its left,
+    and the millstone around its neck.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 7009-7021; family dinner and first reactions
+  quote_or_summary: The father, mother, and Marlinchen sit at dinner. The father says
+    he feels light-hearted and happy; the mother says she feels uneasy as if a heavy
+    storm were coming; Marlinchen weeps. The father later says he feels as if about
+    to see an old friend, while the mother says she is anxious, her teeth chatter,
+    and she feels fire in her veins.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 7022-7047; bird on juniper tree
+  quote_or_summary: The bird sits on the juniper tree and begins the song. At “My
+    mother she killed me,” the mother stops her ears and shuts her eyes; her ears
+    roar like a violent storm and her eyes burn and flash like lightning. After “My
+    father he ate me,” the father praises the bird’s splendid song, the warm sun,
+    and a cinnamon-like smell.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain Project Gutenberg text; short quoted phrases and summary
+    from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif candidates are
+    cautious because the excerpt begins after earlier events and ends before the tale’s
+    resolution. No separate comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  This record treats the supplied line range as a partial passage and does not infer events beyond it.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l6889-l7047
+  passage_sha256=9e2bbd7d43cbbdc1c0ba81c7e259ecaaff69a1469454c64c9308d4f74fe4bd5f
+

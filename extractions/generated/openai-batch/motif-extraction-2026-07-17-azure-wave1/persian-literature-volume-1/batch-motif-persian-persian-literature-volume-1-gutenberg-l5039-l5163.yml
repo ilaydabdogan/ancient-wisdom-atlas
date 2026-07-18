@@ -1,0 +1,533 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l5039-l5163
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: THE SEVEN LABORS OF RUSTEM / INVASION OF IRN BY AFRSIYB / THE RETURN OF KAI-KS
+    / STORY OF SOHRB; lines 5039-5163
+  start: '5039'
+  end: '5163'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"And sire and son provoke each other''s fate; / And kindred blood by kindred
+    hands is shed"'
+  summary: The passage opens the story of Sohrab with a reflection on mortality, strife,
+    and kin-slaying. Rustem goes hunting in the wilds of Turan, eats beside a stream,
+    and falls asleep. His horse Rakush wanders free and is captured by horsemen after
+    killing several of them. Rustem wakes, laments the loss, follows the hoof-tracks
+    to Samengan, confronts the king, and accepts hospitality after the king promises
+    to recover Rakush if he is within the realm. Rustem attends a banquet and sleeps
+    in a perfumed couch.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator frames the tale as sorrowful and reflects that human life ends
+    in dust, while strife and kin violence continue.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rustem rises at dawn, goes armed for the chase in Turan's wilds, and rides
+    his matchless steed through glens and woods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rustem hunts wild asses with darts, then rests near a stream under trees.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rustem makes a fire with the point of his arrow, roasts severed meat on a
+    bough, eats, drinks from the stream, and sleeps.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rakush wanders from Rustem without arms or mail on his body and grazes or
+    seeks water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A band of horsemen sees Rakush, tries to seize him, and loses several men
+    to his steel-clad hoofs before trapping him with a noose.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The horsemen carry Rakush away and admire his beauty, size, and strain.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rustem wakes, misses his favorite horse, grieves, and begins walking toward
+    Samengan.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Rustem says he fears being mocked by Turks for losing the trophy from the
+    champion knight while he slept.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Rustem carries his weapons, harness, saddle gear, bridle, and mail, then follows
+    the tracks of his charger.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: At Samengan, the king receives Rustem on foot with friendship and homage.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: Rustem angrily demands the return of his plundered steed and threatens vengeance
+    if the horse is kept in fetters.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:13
+  text: The king says Rustem's wishes will not be denied, promises that the known
+    courser will be his again if within the realm, and invites him to hospitality.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:14
+  text: Rustem's wrath subsides; the king summons chiefs and warriors, and a banquet
+    with wine, song, and music is held.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:15
+  text: A perfumed couch is prepared for Rustem, who sleeps deeply and forgets the
+    sorrows of the journey.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Rustem
+  description: The champion and son of Zal; he hunts in Turan, loses Rakush, follows
+    the horse's track to Samengan, confronts the king, and accepts hospitality.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Rakush
+  description: Rustem's favorite and matchless horse, renowned for speed, form, beauty,
+    majestic size, and immortal strain; captured after wandering from Rustem.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Band of horsemen
+  description: Horsemen near the woodland chase who see Rakush, attempt to seize him,
+    suffer deaths, noose him, and carry him away.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: King of Samengan
+  description: The ruler who receives Rustem as an honored guest, answers his demand,
+    promises to restore Rakush if possible, and offers hospitality.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Chiefs and warriors of Samengan
+  description: Local chiefs and warriors convened by the king for the banquet after
+    Rustem's arrival.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: champion
+  assigned_to:
+  - fig:1
+  basis: The passage calls Rustem the Champion and describes him as a renowned warrior
+    carrying sword, shield, mail, and other gear.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: Rustem arms himself for the chase and hunts wild asses before resting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: bereaved seeker of stolen horse
+  assigned_to:
+  - fig:1
+  basis: Rustem wakes to find Rakush missing, grieves, follows the hoof-tracks, and
+    demands the horse's return.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: hero's companion horse
+  assigned_to:
+  - fig:2
+  basis: Rakush is called Rustem's favorite horse and loved companion of his glorious
+    course.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: captured prize
+  assigned_to:
+  - fig:2
+  basis: The horsemen identify Rakush as superior game, noose him, bear him off, and
+    admire him as a valuable steed.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: horse-captors
+  assigned_to:
+  - fig:3
+  basis: The horsemen rush to seize Rakush, noose him, and carry him away.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: host king
+  assigned_to:
+  - fig:4
+  basis: The king receives Rustem as a guest, calls him honored, and invites him to
+    share hospitable fare.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: promiser of restitution
+  assigned_to:
+  - fig:4
+  basis: The king promises that if Rakush is within his reign, the courser will be
+    Rustem's again.
+  evidence_refs:
+  - ev:9
+- id: role:9
+  label: banquet attendees
+  assigned_to:
+  - fig:5
+  basis: The chiefs and warriors are convened by the king and appear in the banquet
+    scene.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire raised by Rustem with his arrow point to cook meat beside the
+    stream.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: The stream or sparkling flood where Rustem drinks and where Rakush
+    may seek the cooling tide.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: tree shade
+  literal_form: Embowering trees near a stream that provide shade for Rustem's rest;
+    a bough is used to cook the meat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: noose
+  literal_form: A noose flung around Rakush's neck by the horsemen.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hoof-tracks
+  literal_form: The broad impressions of Rakush's feet that Rustem follows toward
+    Samengan.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: banquet wine-cups
+  literal_form: China wine-cups on the banquet board, with sparkling wine, song, and
+    music.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Sorrowful prologue to the story
+  summary: The narrator introduces the tale as one of sorrow, mortality, strife, and
+    kin bloodshed.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rustem hunts and rests in Turan
+  summary: At dawn Rustem rides into the wilds, hunts, prepares food by a stream under
+    trees, drinks, and falls asleep.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Capture of Rakush
+  summary: While Rustem sleeps, Rakush wanders free; a band of horsemen attempts to
+    seize him, suffers casualties, nooses him, and takes him away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Rustem follows the lost horse's trail
+  summary: Rustem wakes, laments the loss of Rakush, gathers and carries his gear,
+    finds the hoof-tracks, and follows them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Confrontation and hospitality at Samengan
+  summary: Rustem reaches Samengan, is received by the king, demands his horse, hears
+    the king's promise of restitution, and accepts hospitality.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Banquet and sleep
+  summary: The king convenes chiefs and warriors; Rustem's anger eases during a banquet
+    with wine, music, and song, after which he sleeps on a perfumed couch.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Sorrowful kin-slaying foreshadowing
+  taxonomy_refs: []
+  basis: The opening explicitly frames the tale with sire and son provoking each other's
+    fate and kindred blood shed by kindred hands.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Within this passage the kin-slaying is presented as prologue and foreshadowing,
+    not yet enacted.
+- id: motif:2
+  label: Hero loses and seeks his exceptional horse
+  taxonomy_refs:
+  - departure
+  basis: Rustem's matchless horse is captured while he sleeps; Rustem departs on foot,
+    follows the hoof-tracks, and seeks restitution in Samengan.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The available taxonomy does not include a specific 'stolen horse' motif;
+    'departure' is used only for the hero's forced movement into the next episode.
+- id: motif:3
+  label: Host king pacifies warrior guest
+  taxonomy_refs: []
+  basis: The king receives Rustem with honor, answers his anger by promising to recover
+    Rakush, and turns the situation toward banquet hospitality.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a passage-level social pattern rather than a mapped taxonomy motif.
+- id: motif:4
+  label: Heroic rest creates vulnerability
+  taxonomy_refs: []
+  basis: Rustem falls asleep after hunting and eating; during this sleep his horse
+    wanders away and is captured.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is inferred from the sequence of actions in the passage; no
+    external motif index is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5039-5056
+  quote_or_summary: The prologue says human life ends in dust and that 'sire and son
+    provoke each other's fate' and 'kindred blood by kindred hands is shed.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5057-5068
+  quote_or_summary: At dawn Rustem rises, arms himself for the chase, rides his matchless
+    steed through Turan's wilds, and hunts wild asses.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5069-5079
+  quote_or_summary: Rustem rests in shade near a stream, raises a fire with his arrow
+    point, cooks meat on a bough, eats, drinks from the stream, and sleeps.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5080-5087
+  quote_or_summary: Rakush, renowned for speed and form, ranges over the plain without
+    arms or mail and grazes or seeks the cooling water.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5088-5104
+  quote_or_summary: A band of horsemen sees Rakush, tries to seize him, suffers deaths
+    from his hoofs, casts a noose around his neck, carries him away, and admires his
+    beauty and size.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5105-5118
+  quote_or_summary: Rustem wakes, misses his favorite horse, grieves, walks toward
+    Samengan, and laments that Turks will mock him for losing the champion's trophy
+    while he slept.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 5119-5127
+  quote_or_summary: Rustem gathers his weapons and gear, carries harness, bridle,
+    and mail, finds the hoof impressions of his charger, and follows them with alternating
+    grief and hope.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 5128-5140
+  quote_or_summary: Rustem reaches the regal city; the king receives him on foot,
+    but Rustem angrily says he traced the horse to the town and demands the plundered
+    steed.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 5141-5153
+  quote_or_summary: The king calls Rustem honored guest, urges him to set anger aside,
+    promises Rakush will be returned if within the realm, and invites him to hospitable
+    fare.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 5154-5160
+  quote_or_summary: Rustem's wrath is subdued; the king summons chiefs and warriors,
+    and a banquet with China wine-cups, song, music, and wine restores social joy.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 5161-5163
+  quote_or_summary: When rest time comes, a couch perfumed with rose and musk is prepared,
+    and Rustem sleeps deeply, forgetting the sorrows of the way.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and figures are explicit in the passage. Motif labels are
+    passage-level candidates; only 'departure' is mapped cautiously to the supplied
+    taxonomy. No comparison claims were added because the passage itself does not
+    explicitly compare this episode to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Diacritics and transliterations follow the provided text forms where possible, including Rustem, Rakush, Turan, Samengan, and Zal.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l5039-l5163
+  passage_sha256=2fb8a744119eb2a83aea0443553185aa35afe0dc6902ebce42295ff533e6842d
+

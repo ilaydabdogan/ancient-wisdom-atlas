@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.persian-persian-literature-volume-1-gutenberg-l10574-l10636
+source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+passage_locator:
+  label: BARZ, AND HIS CONFLICT WITH RUSTEM / SSEN AND AFRSIYB / THE EXPEDITION OF
+    GDARZ / THE DEATH OF AFRSIYB; lines 10574-10636
+  start: '10574'
+  end: '10636'
+  translation: Persian Literature, Volume 1
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Afrsiyb, abandoned while fleeing Kai-khosru, hides in a cave. Hm, a mountain-dwelling
+    ascetic of the race of Feridn, hears his lament, lures him from the cave by a
+    seeming spiritual summons, strikes and binds him, and delivers him to Kai-khosru.
+    Kai-khosru rewards Hm, recalls the murder of Saiwush, summons Gerswaz, and has
+    Afrsiyb and Gerswaz beheaded. Kai-khosru returns to Irn and is praised for avenging
+    his father.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Afrsiyb is pursued by Kai-khosru, loses his remaining followers, and retires
+    alone into a cave hoping to remain undiscovered.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hm, of the race of Feridn, lives a religious life on a neighboring mountain
+    above Afrsiyb's cave.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hm hears a lament in Turkish below him and infers from the words that the
+    speaker is Afrsiyb.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At morning Hm calls at the cave mouth, and Afrsiyb, thinking the call spiritual,
+    comes out.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Hm recognizes Afrsiyb, strikes him on the forehead, fells him, and binds his
+    hands behind his back.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hm tells Afrsiyb that he suffered from Afrsiyb's persecutions, prayed for
+    his ruin, and believes God has delivered Afrsiyb into his hands.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Afrsiyb asks Hm to kill him rather than take him to Kai-khosru, but Hm brings
+    him to the Persian king.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Kai-khosru receives Afrsiyb with exultation, rewards Hm, recalls the basin
+    and dagger used in Saiwush's murder, summons Gerswaz, and has Afrsiyb and Gerswaz
+    beheaded.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After the executions, Kai-khosru returns to Irn; Rustem proceeds to his own
+    principality; Kai-ks welcomes the conqueror and praises the revenge for Saiwush.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Afrsiyb
+  description: A pursued and abandoned monarch who hides in a cave, is captured by
+    Hm, delivered to Kai-khosru, and executed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Kai-khosru
+  description: The Persian king who pursues Afrsiyb, receives him as prisoner, rewards
+    Hm, orders Afrsiyb and Gerswaz executed, and is later praised for avenging Saiwush.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Hm
+  description: A strong and brave man of the race of Feridn who lives religiously
+    on a mountain, identifies and captures Afrsiyb, and brings him to Kai-khosru.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Gerswaz
+  description: Called treacherous in the passage; he is summoned so that he and Afrsiyb
+    may suffer the same fate together.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Saiwush
+  description: Kai-khosru's murdered father, whose death is recalled through the basin
+    and dagger and is avenged by the executions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: Rustem
+  description: After the catastrophe, he is left to proceed to his own principality.
+  role_refs: []
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Kai-ks
+  description: He quits his palace to welcome back the conqueror and praise the deeds
+    done.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: fallen fugitive monarch
+  assigned_to:
+  - fig:1
+  basis: Afrsiyb is pursued, abandoned, hides in a cave, is bound, and is executed.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:2
+  label: mountain ascetic captor
+  assigned_to:
+  - fig:3
+  basis: Hm lives a religious life on the neighboring mountain, identifies Afrsiyb,
+    captures him, and delivers him to Kai-khosru.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: pursuing avenger king
+  assigned_to:
+  - fig:2
+  basis: Kai-khosru pursues Afrsiyb, receives him as prisoner, orders the executions,
+    and is praised for revenging Saiwush.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: role:4
+  label: treacherous co-victim
+  assigned_to:
+  - fig:4
+  basis: Gerswaz is called treacherous and is summoned to die with Afrsiyb.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: murdered father whose death is avenged
+  assigned_to:
+  - fig:5
+  basis: Saiwush's murder is recalled, and Kai-khosru is praised for revenging his
+    father's murder.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: praised conqueror
+  assigned_to:
+  - fig:2
+  basis: The return to Irn is followed by praise for valor, deeds, and revenge for
+    Saiwush.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: royal welcomer and praiser
+  assigned_to:
+  - fig:7
+  basis: Kai-ks leaves his palace, welcomes the conqueror, kisses him, and praises
+    him.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: cave refuge
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: neighboring mountain dwelling
+  literal_form: mountain
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: basin and dagger of prior murder
+  literal_form: basin and dagger
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: fetters or bound hands
+  literal_form: hands secured behind the back
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Flight and hiding of Afrsiyb
+  summary: Afrsiyb is pursued through Mikrn, abandoned by followers, and retreats
+    into a cave for concealment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hm hears the lament
+  summary: From his mountain dwelling above the cave, Hm hears a Turkish lament, recognizes
+    the likely identity of Afrsiyb, and waits until morning.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Lure and capture at the cave mouth
+  summary: Hm calls to Afrsiyb as if from an invisible sphere; Afrsiyb exits, is struck
+    down, and is bound.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Complaint, accusation, and delivery
+  summary: Afrsiyb asks why he has been treated cruelly; Hm answers with accusations
+    of tyranny and says God has delivered Afrsiyb into his hands, then takes him to
+    Kai-khosru despite Afrsiyb's plea for immediate death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Retaliatory execution
+  summary: Kai-khosru receives Afrsiyb, rewards Hm, recalls the objects used in Saiwush's
+    murder, summons Gerswaz, and has both prisoners beheaded.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Return and praise
+  summary: Kai-khosru returns to Irn, Rustem departs to his principality, and Kai-ks
+    welcomes and praises the conqueror for valor and vengeance.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: fallen king hiding in a cave
+  taxonomy_refs: []
+  basis: Afrsiyb, formerly addressed as king of Trn and Chn, loses power and followers
+    and hides alone in a cave.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage presents the cave primarily as a hiding place; broader symbolic
+    interpretation should be reviewed.
+- id: motif:2
+  label: divine or providential delivery of a tyrant for punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Hm says he prayed for Afrsiyb's ruin and that God has delivered Afrsiyb into
+    his hands; Afrsiyb is then delivered to Kai-khosru and executed for past wrongs.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The execution is carried out by human agents and framed by vengeance;
+    the divine-judgment reading rests mainly on Hm's speech.
+- id: motif:3
+  label: vengeance for murdered father
+  taxonomy_refs: []
+  basis: Kai-khosru remembers the murder of Saiwush and is praised for revenging the
+    cruel murder of his father.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage emphasizes revenge rather than a formal legal or ritual process.
+- id: motif:4
+  label: same-fate retaliation for earlier murder
+  taxonomy_refs: []
+  basis: Kai-khosru recalls the basin and dagger used in Saiwush's murder and orders
+    Afrsiyb and Gerswaz to suffer the same fate together.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The exact earlier death is only alluded to in this passage; details of
+    the parallel depend on surrounding narrative.
+- id: motif:5
+  label: victim of persecution becomes captor of persecutor
+  taxonomy_refs: []
+  basis: Hm says he fled Afrsiyb's persecutions and later captures Afrsiyb when the
+    fugitive king is vulnerable.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a role reversal within the episode, not necessarily a named external
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The episode can be cautiously compared by function to a divine-judgment pattern
+    in which a violent ruler is isolated, providentially delivered to an injured party,
+    and punished for prior bloodshed.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe a formal divine tribunal or direct divine
+    execution; the judgment language comes from Hm's interpretation of events.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10574-10583
+  quote_or_summary: Afrsiyb is pursued by Kai-khosru, denied refuge, abandoned by
+    his retinue, and retires into a cave to remain unseen.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10585-10590
+  quote_or_summary: Hm, of the race of Feridn, is described as strong and brave, living
+    a religious life on a neighboring mountain, with his dwelling above Afrsiyb's
+    cave.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10590-10600
+  quote_or_summary: Hm hears a lament in Turkish about the lost pomp and power of
+    the king of Trn and Chn, infers that the speaker is Afrsiyb, and calls at the
+    cave mouth at dawn.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10600-10605
+  quote_or_summary: Afrsiyb thinks Hm's call is spiritual, exits the cave, is recognized,
+    struck on the forehead, felled, and bound with his hands behind his back.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10606-10618
+  quote_or_summary: Hm answers Afrsiyb by accusing him of sacrificing princes and
+    breaking hearts, saying he himself fled Afrsiyb's persecutions and that God has
+    delivered Afrsiyb into his hands after his prayers.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 10618-10622
+  quote_or_summary: Afrsiyb tells Hm of his misfortunes and asks to be killed rather
+    than conveyed to Kai-khosru, but Hm brings him to the Persian king.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 10622-10629
+  quote_or_summary: Kai-khosru receives Afrsiyb, rewards Hm, remembers the basin and
+    dagger used in Saiwush's murder, summons Gerswaz, and has Afrsiyb and Gerswaz
+    beheaded like two goats.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized with brief source phrasing.
+- id: ev:8
+  type: summary
+  locator: 10631-10636
+  quote_or_summary: After the executions, Kai-khosru returns to Irn, Rustem proceeds
+    to his principality, and Kai-ks welcomes and praises the conqueror for valor,
+    deeds, and avenging Saiwush.
+  source_text_path: texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal event extraction is strong for the supplied English passage. Motif
+    and taxonomy assignments are cautious, especially where the passage frames events
+    as both vengeance and divine delivery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Names are retained in the passage's simplified spelling where possible. No external narrative details were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:persian-persian-literature-volume-1-gutenberg__l10574-l10636
+  passage_sha256=e90fddfc9eee09de3bd4e412790d6f0169aff96c84c40d4230dc56036c68a4c8
+

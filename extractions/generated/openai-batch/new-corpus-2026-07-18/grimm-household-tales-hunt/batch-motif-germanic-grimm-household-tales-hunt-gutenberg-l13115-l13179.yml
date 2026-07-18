@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l13115-l13179
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: SECOND STORY / FIRST STORY / SECOND STORY / THIRD STORY; lines 13115-13179
+  start: '13115'
+  end: '13179'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The disliked youngest brother, Hans, coerces an earth mannikin into revealing
+    where the King’s daughters are hidden. The mannikin shows a dry well and warns
+    that Hans’s companions will betray him. The elder brothers fail to descend, but
+    Hans is lowered to the bottom, kills many-headed dragons guarding three princesses,
+    sends the princesses up in a basket, and avoids betrayal by sending up a stone
+    in his place. His brothers cut the rope, think him dead, take the princesses away,
+    and claim the rescue before the King.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The elder brothers dislike the youngest and call him Stupid Hans.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A little mannikin begs Hans for bread, lets it fall, and asks Hans to pick
+    it up; Hans refuses and beats him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mannikin identifies himself as an earth mannikin and offers to show Hans
+    where the King’s daughters are.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The mannikin shows Hans a deep well without water.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mannikin warns that Hans’s companions will not deal honourably with him
+    and says Hans must deliver the King’s children alone.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Hans is instructed to descend in a large basket with a hanger and a bell;
+    below are three rooms, each containing a princess with a many-headed dragon whose
+    heads she must comb and trim.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The eldest and second brother each descend only a short distance and ring
+    to be drawn up, while Hans lets himself be lowered to the bottom.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hans cuts off the nine heads of the first dragon while the first princess
+    has the heads on her lap; she embraces and kisses him and hangs a pure-gold stomacher
+    around his neck.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Hans also delivers the second princess from a five-headed dragon and the youngest
+    princess from a four-headed dragon.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Hans sends the princesses up in the basket, then places a great stone in the
+    basket instead of entering it himself.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The brothers above cut the rope, causing the basket with the stone to fall,
+    and they think Hans is dead.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The brothers run away with the three princesses, make them promise to say
+    that the brothers delivered them, and each demands a princess in marriage from
+    the King.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: After Hans reports the mannikin’s disclosure, the two brothers become very
+    angry.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hans / Stupid Hans / the youngest huntsman
+  description: The disliked youngest brother who encounters the mannikin, descends
+    into the well, kills the dragons, rescues the princesses, and avoids the attempted
+    rope-cutting betrayal.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Little mannikin / elf / earth mannikin
+  description: A small being who asks for bread, is beaten by Hans, identifies himself
+    as an earth mannikin, reveals the location of the King’s daughters, warns Hans,
+    gives instructions, and vanishes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Two elder brothers / companions / false brothers
+  description: Hans’s two brothers or companions who dislike him, avoid the dangerous
+    descent, become angry at his discovery, cut the basket rope, take the princesses
+    away, and claim the rescue.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Three King’s daughters / princesses
+  description: Three princesses in rooms below the well, each associated with a many-headed
+    dragon; after Hans rescues them, they are drawn up in the basket and later made
+    to promise a false account.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Many-headed dragons
+  description: 'Dragons below the well: one with nine heads, one with five heads,
+    and one with four heads; the princesses comb their heads before Hans cuts them
+    off.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: The King
+  description: Father of the three daughters; the false brothers come before him and
+    each demands a princess in marriage.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Disliked youngest brother
+  assigned_to:
+  - fig:1
+  basis: The passage says the others do not like the youngest and call him Stupid
+    Hans.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Dragon-slayer and rescuer
+  assigned_to:
+  - fig:1
+  basis: Hans descends to the bottom, cuts off the dragons’ heads, and delivers the
+    princesses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Warned target of betrayal
+  assigned_to:
+  - fig:1
+  basis: The mannikin warns Hans about his companions, and Hans later remembers the
+    warning and substitutes a stone for himself.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: Earth mannikin informant and guide
+  assigned_to:
+  - fig:2
+  basis: The mannikin identifies himself as an earth mannikin, shows the well, warns
+    Hans, and provides descent instructions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: Treacherous brothers and false claimants
+  assigned_to:
+  - fig:3
+  basis: The brothers avoid the danger, cut the rope when they think Hans is in the
+    basket, take the princesses away, and claim the rescue.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:6
+  label: Royal captives to be rescued
+  assigned_to:
+  - fig:4
+  basis: Each princess is in a lower room with a many-headed dragon, and Hans delivers
+    them and sends them up in the basket.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:7
+  label: Many-headed monster opponents
+  assigned_to:
+  - fig:5
+  basis: The dragons are the beings whose heads Hans must cut off to free the princesses.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:8
+  label: Royal father and marriage authority
+  assigned_to:
+  - fig:6
+  basis: The princesses’ father is the King, and the brothers demand princesses in
+    marriage from him.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Deep dry well
+  literal_form: A deep well with no water in it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Large basket
+  literal_form: A large basket used to lower and raise people through the well
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: Bell
+  literal_form: A bell carried in the basket to signal those above
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: Hanger
+  literal_form: Hans’s hanger, carried below and used to cut off dragon heads
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: Many-headed dragons
+  literal_form: Dragons with nine, five, and four heads
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: Pure-gold stomacher
+  literal_form: A stomacher made of pure gold, hung by the first princess around Hans’s
+    neck
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Great stone
+  literal_form: A great stone placed in the basket as a substitute for Hans
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Cut rope
+  literal_form: The rope of the basket, cut by the false brothers above
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Bread encounter and disclosure
+  summary: The mannikin asks for bread, drops it, demands that Hans pick it up, and
+    after Hans beats him, reveals that he knows where the King’s daughters are.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Revelation of the well and descent instructions
+  summary: The mannikin shows Hans the waterless well, warns him against his companions,
+    and describes the basket descent, the three rooms, the princesses, and the many-headed
+    dragons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failed elder descents and Hans’s full descent
+  summary: The brothers draw lots at the well; the eldest and second brother each
+    ring to be drawn up after going only a short distance, while Hans is lowered to
+    the bottom.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Dragon-slaying and liberation of the princesses
+  summary: Hans enters the lower rooms, cuts off the heads of the nine-headed, five-headed,
+    and four-headed dragons, and receives gratitude from the princesses, including
+    a gold stomacher from the first princess.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Princesses drawn up and betrayal by the brothers
+  summary: Hans sends the three princesses up in the basket, places a stone in the
+    basket for his own turn, and the brothers cut the rope, take the princesses away,
+    and claim the rescue before the King.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Hero descends into a well to rescue captives
+  taxonomy_refs:
+  - hero_descent
+  basis: Hans is lowered in a basket to the bottom of a deep dry well, enters lower
+    rooms, and rescues the princesses from dragons.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents a descent into an underground or lower space but
+    does not explicitly call it an underworld or afterlife journey.
+- id: motif:2
+  label: Despised youngest succeeds where elder brothers fail
+  taxonomy_refs: []
+  basis: The youngest is disliked and called Stupid Hans; the two elder brothers retreat
+    from the descent, while Hans reaches the bottom and completes the rescue.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names the youngest-sibling pattern.
+- id: motif:3
+  label: Many-headed dragon combat frees royal captives
+  taxonomy_refs: []
+  basis: Three princesses are each in a room with a many-headed dragon, and Hans cuts
+    off the dragons’ heads to deliver them.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The supplied symbol taxonomy includes serpent, but the passage names dragons
+    rather than serpents; no serpent taxonomy reference is assigned.
+- id: motif:4
+  label: False companions claim the rescuer’s deed
+  taxonomy_refs: []
+  basis: After the princesses are drawn up, the brothers cut the rope, think Hans
+    dead, force the princesses to support their false claim, and demand marriage rewards.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage excerpt ends before any later correction or return, so only
+    the betrayal and false claim are extracted.
+- id: motif:5
+  label: Supernatural informant gives location and warning after a food encounter
+  taxonomy_refs: []
+  basis: The mannikin asks for bread, then after conflict tells Hans where the daughters
+    are, shows the well, and warns him about his companions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not frame the bread episode as a formal test; the information
+    follows coercion by beating.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13115-13132
+  quote_or_summary: Hans is disliked and called Stupid Hans; a little mannikin begs
+    for bread, drops it, demands help, is beaten by Hans, and offers to tell where
+    the King’s daughters are.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13132-13141
+  quote_or_summary: The mannikin shows a deep well without water, warns Hans that
+    his companions are not honourable, says Hans must act alone, and describes the
+    basket, hanger, bell, three rooms, princesses, and many-headed dragons.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13142-13150
+  quote_or_summary: Hans tells his brothers about the mannikin’s visit and disclosure,
+    and the brothers become very angry.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13151-13158
+  quote_or_summary: At the well, the eldest and second brother each descend only briefly
+    and ring to be drawn up; Hans then lets himself be lowered to the bottom.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13159-13165
+  quote_or_summary: Hans enters the first room, finds a princess combing nine dragon
+    heads, cuts the heads off, and receives embraces, kisses, and a pure-gold stomacher
+    from her.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13166-13169
+  quote_or_summary: Hans delivers the second princess from a five-headed dragon and
+    the youngest princess from a four-headed dragon; the princesses rejoice and embrace
+    him.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13169-13179
+  quote_or_summary: Hans rings for the princesses to be drawn up, sends them up in
+    the basket, substitutes a stone for himself, and the false brothers cut the rope,
+    take the princesses away, force a false promise, and demand marriages from the
+    King.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are evidence-based
+    but remain preliminary; no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Taxonomy references are limited to the supplied available taxonomy. Dragon imagery is not mapped to the supplied serpent symbol because the passage names dragons, not serpents.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l13115-l13179
+  passage_sha256=32ca439625aef29d0a9c67027760865e5c23bf9258e237e7123860ec68d68a1c
+

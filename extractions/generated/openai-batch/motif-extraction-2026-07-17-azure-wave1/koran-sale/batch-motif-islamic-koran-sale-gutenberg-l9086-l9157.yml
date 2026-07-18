@@ -1,0 +1,572 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l9086-l9157
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER I. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER II. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 9086-9157
+  start: '9086'
+  end: '9157'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains notes on quails, a commanded city entry, Moses' stone
+    or rock, and water from that rock, followed by verses stating that righteous believers
+    from several communities will be rewarded, that God accepted a covenant and raised
+    Mount Sinai over the addressed people, that mercy prevented their destruction
+    after they turned back, and that Sabbath transgressors were changed into apes
+    as an example and warning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Quails are described by eastern writers as a peculiar kind found only in Yaman
+    and brought by a south wind in great numbers to the Israelites' desert camp.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The birds are called Salw in Arabic, are compared in the note to Hebrew Salwim,
+    and are said by Arabs to have no bones and to be eaten whole.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some commentators identify the city in the related note as Jericho, while
+    others identify it as Jerusalem.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Arabic word Hittaton is said by some to signify a profession of God's
+    unity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: According to Jallalo'ddin, the commanded word was mockingly changed, and the
+    people entered the city in an indecent posture instead of a humble one.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A pestilence is said to have carried off nearly 70,000 of them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A stone is described as one Moses brought from Mount Sinai and as the stone
+    associated with a story in which it fled away with his garments while he washed.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stone or rock is described in differing accounts as white marble shaped
+    like a man's head and as a large red granite mass near Mount Horeb.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The water from the rock is described as issuing from twelve places according
+    to the twelve tribes of Israel; another traveler is cited as observing twenty-four
+    holes in the stone.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Those who believe, those who Judaize, Christians, and Sabians are said to
+    receive reward with their Lord if they believe in God and the last day and do
+    what is right.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: God is said to have accepted the covenant and lifted the mountain of Sinai
+    over the addressed people while commanding them to receive and remember the given
+    law.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After the addressed people turned back, God's indulgence and mercy are said
+    to have prevented their destruction.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Those who transgressed on the Sabbath day were commanded to be changed into
+    apes and were made an example and a warning.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: The divine figure who rewards, accepts the covenant, gives the law,
+    shows mercy, and commands punishment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Israelites / addressed nation
+  description: The people associated with the desert camp, the twelve tribes, the
+    covenant at Sinai, and the addressed nation in the later verses.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Moses
+  description: The prophet associated in the note with a stone brought from Mount
+    Sinai and a story about the stone carrying away his garments.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Those who believe, those who Judaize, Christians, and Sabians
+  description: Religious communities named as receiving reward if they believe in
+    God and the last day and do what is right.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Sabbath transgressors
+  description: Members of the addressed nation who transgressed on the Sabbath day
+    and were changed into apes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: People in the city-entry note
+  description: The unnamed people said to have altered the commanded word and mocked
+    the humble posture required for city entry.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine covenant-giver and rewarder
+  assigned_to:
+  - fig:1
+  basis: God is linked with reward for the righteous and with accepting the covenant
+    and giving the law.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: divine mercy and judgment actor
+  assigned_to:
+  - fig:1
+  basis: God's indulgence and mercy avert destruction, and the Sabbath transgressors
+    are punished by a divine command.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: covenant recipients
+  assigned_to:
+  - fig:2
+  basis: The addressed people receive the law after God accepts their covenant and
+    raises Sinai over them.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: prophet associated with sacred stone
+  assigned_to:
+  - fig:3
+  basis: The note identifies the stone as one Moses brought from Mount Sinai and links
+    it to a story about Moses washing.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: righteous reward recipients
+  assigned_to:
+  - fig:4
+  basis: The named communities are promised reward if they believe in God and the
+    last day and do what is right.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: punished exemplars
+  assigned_to:
+  - fig:5
+  basis: The Sabbath transgressors are changed into apes and made an example and warning.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: desert provision recipients
+  assigned_to:
+  - fig:2
+  basis: Quails are brought to the Israelites' desert camp, and water from the rock
+    is described according to the twelve tribes of Israel.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:8
+  label: disobedient command-alterers
+  assigned_to:
+  - fig:6
+  basis: The note says they mockingly altered the commanded word and posture, and
+    a pestilence followed.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: quails / Salw
+  literal_form: Wind-borne birds brought in great numbers to the Israelites' camp
+    in the desert.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: south wind
+  literal_form: A south wind that brings the quails from Yaman to the desert camp.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stone or rock of Moses
+  literal_form: A stone said to have been brought by Moses from Mount Sinai and later
+    described as a large rock near Horeb.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: water from the rock
+  literal_form: Water issuing from twelve places of the rock according to the number
+    of the tribes of Israel.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mountain of Sinai
+  literal_form: The mountain lifted over the covenant recipients.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: law and covenant
+  literal_form: The covenant accepted by God and the law commanded to be received,
+    kept, and remembered.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: apes
+  literal_form: The animal form into which Sabbath transgressors are changed.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: Sabbath day
+  literal_form: The day on which the punished group transgressed.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: Hittaton formula
+  literal_form: An Arabic word in the city-entry command, interpreted by some as a
+    profession of God's unity.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Desert provision and rock-water notes
+  summary: The notes describe quails brought by wind to the Israelites' desert camp
+    and water issuing from the rock in relation to the twelve tribes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: City-entry command altered
+  summary: Commentarial notes identify a city, explain the commanded word Hittaton,
+    report a mocking alteration of the command, and mention a pestilence.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reward for righteous communities
+  summary: Named religious communities are promised reward with their Lord and freedom
+    from fear or grief if they believe in God and the last day and act rightly.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Covenant under lifted Sinai
+  summary: God accepts the covenant, lifts Mount Sinai over the addressed people,
+    and commands them to receive and remember the given law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Sabbath transgressors transformed
+  summary: The people who transgressed on the Sabbath are changed into apes and made
+    an example for contemporaries and later people.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Wind-borne desert provision of birds
+  taxonomy_refs: []
+  basis: Quails are brought by a south wind in great numbers to the Israelites' camp
+    in the desert.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is drawn from a footnote rather than from the translated verse
+    portion in this line range.
+- id: motif:2
+  label: Water from rock apportioned by tribes
+  taxonomy_refs: []
+  basis: The rock is described as issuing water from twelve places according to the
+    twelve tribes of Israel.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this through commentary and traveler reports; the
+    immediate verse text about striking the rock is not included in the supplied range.
+- id: motif:3
+  label: Covenant under an uplifted sacred mountain
+  taxonomy_refs:
+  - covenant
+  basis: God accepts the covenant, lifts the mountain of Sinai over the people, and
+    commands them to receive and keep the law.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage supports a covenant motif directly; any broader cosmic-mountain
+    reading would require evidence outside this excerpt.
+- id: motif:4
+  label: Mercy averts destruction after covenant failure
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the people turn back, God's indulgence and mercy are said to prevent
+    their destruction.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The verse emphasizes mercy as much as judgment, so the divine-judgment
+    taxonomy fit is partial.
+- id: motif:5
+  label: Transgressors transformed into animals as warning
+  taxonomy_refs:
+  - divine_judgment
+  - shapeshifter
+  basis: Sabbath transgressors are commanded to become apes and are made an example
+    and warning.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The change is punitive and involuntary; it should not be treated as voluntary
+    shapeshifting without further evidence.
+- id: motif:6
+  label: Righteous reward across named communities
+  taxonomy_refs:
+  - divine_judgment
+  basis: Believers, those who Judaize, Christians, and Sabians are promised reward
+    with their Lord if they believe in God and the last day and do right.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states reward and absence of fear or grief, but does not give
+    a detailed afterlife journey or judgment scene.
+- id: motif:7
+  label: Mocked sacred command followed by plague
+  taxonomy_refs:
+  - divine_judgment
+  basis: The note reports that a commanded word and humble posture were mockingly
+    altered, followed by a pestilence that killed many.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is preserved in a translator's note and depends on commentarial attribution.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares the Arabic bird name Salw with the Hebrew Salwim.
+  claim_level: linguistic_similarity
+  target: Hebrew Salwim
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the translator's or cited note's linguistic comparison; the
+    excerpt provides no independent philological analysis.
+- id: claim:2
+  claim: The quail provision is linked in the notes to nearby biblical wilderness
+    traditions through citations to Psalm 78 and Numbers 11.
+  claim_level: same_motif
+  target: Hebrew Bible wilderness quail tradition
+  evidence_refs:
+  - ev:1
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The biblical passages are cited but not quoted in the supplied excerpt.
+- id: claim:3
+  claim: The water-from-rock note compares or debates a relationship with Hebrew Bible
+    traditions of the rock at Horeb and the twelve wells at Elim.
+  claim_level: same_motif
+  target: Hebrew Bible Horeb rock and Elim wells traditions
+  evidence_refs:
+  - ev:4
+  - ev:9
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The passage reports a dispute about possible conflation and includes
+    traveler observations; it does not establish historical dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9086-9091
+  quote_or_summary: Eastern writers say peculiar quails from Yaman were brought by
+    a south wind to the Israelites' desert camp; Arabs call them Salw, compare the
+    name with Hebrew Salwim, and say the birds have no bones.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9092-9100
+  quote_or_summary: Commentarial notes identify the city as Jericho or Jerusalem,
+    discuss Hittaton, report a mocking alteration of the command and posture, and
+    mention a pestilence killing nearly 70,000.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9101-9112
+  quote_or_summary: A stone is said to have been brought by Moses from Mount Sinai
+    and connected with a garment story; it is described as white marble by commentators
+    and as a large red granite rock near Horeb by travelers.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9113-9136
+  quote_or_summary: The note discusses whether the water of the rock at Horeb is confused
+    with Elim's wells, then cites accounts that water issued from twelve places according
+    to the tribes of Israel and that twenty-four holes can be counted in the stone.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 9144-9147
+  quote_or_summary: '"whoever believeth in GOD, and the last day, and doth that which
+    is right, they shall have their reward with their LORD"'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 9148-9151
+  quote_or_summary: '"we accepted your covenant, and lifted up the mountain of Sinai
+    over you" and commanded them to receive and remember the law.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation with summary.
+- id: ev:7
+  type: summary
+  locator: lines 9152-9153
+  quote_or_summary: After the people turned back, God's indulgence and mercy are said
+    to have kept them from certain destruction.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 9153-9157
+  quote_or_summary: '"Be ye changed into apes"; the Sabbath transgressors are made
+    an example and a warning.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; short quotation with summary.
+- id: ev:9
+  type: citation
+  locator: lines 9138-9142
+  quote_or_summary: The notes cite Psalm 78:26, Numbers 11:5, Exodus 15:27, and Numbers
+    33:9 among other sources.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source metadata; citation summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage combines translated Qur'anic verses with explanatory footnotes.
+    Motifs based on the verse text are stronger; motifs based on footnotes and traveler
+    reports require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy identifiers beyond the supplied motif-family and symbol references were added.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l9086-l9157
+  passage_sha256=c3021cf57933c59dbcfd9656ce79bb0e5cd9575a72656789bd3de9181d839fd3
+

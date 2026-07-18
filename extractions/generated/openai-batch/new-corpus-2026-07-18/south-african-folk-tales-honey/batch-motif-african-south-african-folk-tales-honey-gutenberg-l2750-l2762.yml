@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.african-south-african-folk-tales-honey-gutenberg-l2750-l2762
+source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+passage_locator:
+  label: HORSE CURSED BY SUN / LION'S DEFEAT / THE ORIGIN OF DEATH / ANOTHER VERSION
+    OF THE SAME FABLE; lines 2750-2762
+  start: '2750'
+  end: '2762'
+  translation: South-African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: The Moon dies, and rises to life again.
+  summary: The Moon sends the Hare to tell humans that, as the Moon dies and returns
+    to life, humans will also die and return to life. The Hare instead tells humans
+    that they will die and not return to life. The Moon questions and beats the Hare,
+    splitting his mouth; the Hare flees and is still fleeing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Moon is described as dying and rising to life again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Moon instructs the Hare to tell Men that they also shall die and rise
+    to life again.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The Hare tells Men the opposite message: that they shall die and not rise
+    to life again.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After returning, the Hare reports to the Moon what he told Men.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Moon strikes the Hare on the mouth with a stick, and the blow slits the
+    Hare's mouth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Hare flees and is said to be still fleeing.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: A personified Moon who dies, rises to life again, sends the Hare with
+    a message, questions the Hare, and beats him with a stick.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hare
+  description: Messenger sent by the Moon; he gives Men a message of death without
+    return, is beaten on the mouth, and flees.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Men
+  description: Human recipients of the Hare's message about death and not rising to
+    life again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Dying-and-returning speaker
+  assigned_to:
+  - fig:1
+  basis: The passage says the Moon dies and rises to life again.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Messenger
+  assigned_to:
+  - fig:2
+  basis: The Moon tells the Hare to go to Men and deliver a message.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Message recipients
+  assigned_to:
+  - fig:3
+  basis: Men are the audience to whom the Hare delivers the message.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: Punisher
+  assigned_to:
+  - fig:1
+  basis: The Moon takes a stick and beats the Hare on his mouth.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Punished fleeing figure
+  assigned_to:
+  - fig:2
+  basis: The Hare is beaten, his mouth is slit, and he flees.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Moon's return to life
+  literal_form: The Moon dying and rising to life again
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Life-and-death message
+  literal_form: Spoken message concerning whether humans will die and rise again or
+    die and not rise again
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Stick
+  literal_form: A stick used by the Moon to beat the Hare
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Slit mouth of the Hare
+  literal_form: The Hare's mouth slit by the Moon's blow
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Moon sends the Hare with a resurrection message
+  summary: The Moon, who dies and rises to life again, instructs the Hare to tell
+    Men that they too will die and rise to life again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hare delivers the opposite message
+  summary: The Hare goes to Men and says that they will die and not rise to life again.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Moon questions and punishes the Hare
+  summary: The Hare returns and repeats his altered message to the Moon; the Moon
+    strikes him on the mouth with a stick, slitting it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Hare flees
+  summary: After being struck, the Hare flees and is said to be still fleeing.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Death and return to life
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The Moon dies and rises to life again, and the original message says humans
+    should likewise die and rise to life again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the pattern literally for the Moon and as an intended
+    message for humans, but humans do not receive that message correctly.
+- id: motif:2
+  label: Origin of human mortality through a misdelivered message
+  taxonomy_refs: []
+  basis: The Moon sends a message of dying and rising again, but the Hare tells Men
+    they will die and not rise to life again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly state subsequent human history, but the
+    delivered message directly concerns human death without return.
+- id: motif:3
+  label: Punishment of the failed messenger
+  taxonomy_refs: []
+  basis: After confirming what the Hare said, the Moon beats him on the mouth with
+    a stick.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state the Hare's motive for changing the message.
+- id: motif:4
+  label: Etiology of the Hare's slit mouth and continuing flight
+  taxonomy_refs: []
+  basis: The blow from the Moon slits the Hare's mouth, after which the Hare flees
+    and is still fleeing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the physical mark and ongoing flight but does not add
+    further explanation beyond these statements.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2750-2762
+  quote_or_summary: '"The Moon dies, and rises to life again."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: lines 2750-2762
+  quote_or_summary: 'The Moon tells the Hare to go to Men and say: "Like as I die
+    and rise to life again, so you also shall die and rise to life again."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: lines 2750-2762
+  quote_or_summary: 'The Hare tells Men: "Like as I die and do not rise to life again,
+    so you shall also die, and not rise to life again."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 2750-2762
+  quote_or_summary: When the Hare returns, the Moon asks what he said, and the Hare
+    repeats the message of dying and not rising again.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 2750-2762
+  quote_or_summary: The Moon takes a stick and beats the Hare on the mouth, which
+    is slit by the blow.
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: lines 2750-2762
+  quote_or_summary: '"The Hare fled, and is still fleeing."'
+  source_text_path: texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is short and explicit about figures, actions, and life/death
+    messages. No external comparison claims were made because the passage itself gives
+    no detailed comparative target beyond the heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage and metadata; available taxonomy references applied only where directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-south-african-folk-tales-honey-gutenberg__l2750-l2762
+  passage_sha256=23a40fe943fc13a2cb1f8ca762d9eff9743be6ad2b7f0dd94b45e12cb34395c8
+

@@ -1,0 +1,614 @@
+---
+record_id: batch.motif.arctic-inuit-central-eskimo-boas-gutenberg-l6578-l6646
+source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+passage_locator:
+  label: CLOTHING, DRESSING OF THE HAIR, AND TATTOOING. / SOCIAL AND RELIGIOUS LIFE.
+    / DOMESTIC OCCUPATIONS AND AMUSEMENTS. / VISITING.; lines 6578-6646
+  start: '6578'
+  end: '6646'
+  translation: The Central Eskimo
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes winter, spring, and summer visiting practices among
+    Central Eskimo communities: short winter hospitality visits, longer spring sledge
+    journeys to neighboring groups, return journeys, shorter seasonal visits, use
+    of snow goggles, and summer boat travel with household goods, children, dogs,
+    provisions, and recurring camping places.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After winter ice consolidates, settlements have frequent visits, trading excursions,
+    and visitor arrivals.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hosts unload the visitor's sledge, feed the dogs, lead the visitor into the
+    hut, serve choice meat, and the hostess arranges the visitor's clothing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Longer journeys are deferred until spring, planned in advance, and may involve
+    moving household goods from winter villages while leaving boats in a friend's
+    care.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On spring sledge journeys, tent poles and goods are loaded on the sledge;
+    the driver walks alongside; women lead the way; and dogs pull more willingly when
+    someone is ahead.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At night, only items needed for a small tent and cooking are removed, and
+    the pitu is fastened to an eye cut in the ice to protect the sledge from dogs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After about three days of travel, travelers make a longer halt, unload the
+    sledge, unharness dogs, and men hunt for food for dogs and people.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Travelers may settle with visiting friends for a whole year, establish their
+    own hut, and retrace the journey home the following spring.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: During spring travel, snow goggles are used to protect against snow blindness;
+    modern wooden goggles have a shade and narrow eye slits, and an older design is
+    described as ivory.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: Summer long journeys may be made by several families traveling together in
+    boats, though spring journeys are said to be more frequent because the open season
+    is short.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: In boat travel, women pull the oars, a man steers with a paddle, kayaks are
+    towed, children and dogs lie in the boat, and provisions are kept in a central
+    tub.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: Night camps during boat travel are made at known recurring places with smooth
+    sloping beach, fresh water, and dry gravelly tent sites.
+  category: setting
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Hosts
+  description: People who receive visitors by caring for the sledge, dogs, visitor,
+    food service, and clothing order.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Visitors or traveling families
+  description: Friends or families who visit settlements, travel by sledge or boat,
+    stay with friends, and sometimes return in a later season.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:3
+  name_or_label: Hostess
+  description: The woman of the host household who puts the visitor's clothing in
+    order.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Women travelers
+  description: Women who lead the way during sledge travel and pull the oars during
+    boat travel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: fig:5
+  name_or_label: Driver
+  description: The person who walks alongside the sledge during spring travel.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Men hunters
+  description: Men who go hunting during a longer halt to procure food for the dogs
+    and the travelers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Dogs
+  description: Dogs pull the sledge, are fed by the host, and travel in or near sledges
+    and boats.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:11
+- id: fig:8
+  name_or_label: Friends visited
+  description: Friends with whom travelers settle during longer visits or live for
+    a month or two on shorter visits.
+  role_refs:
+  - role:1
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: Receiver of guests
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:8
+  basis: The passage describes hosts and visited friends receiving visitors and providing
+    hospitality or shared settlement.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: role:2
+  label: Guest or visitor
+  assigned_to:
+  - fig:2
+  basis: Visitors arrive at villages, are welcomed, and may live with friends for
+    short or extended periods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: role:3
+  label: Travel leader or rower
+  assigned_to:
+  - fig:4
+  basis: Women lead the way in sledge travel and do the pulling at the oars during
+    boat travel.
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: role:4
+  label: Sledge driver
+  assigned_to:
+  - fig:5
+  basis: The driver is described walking alongside the sledge.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Food provider during halt
+  assigned_to:
+  - fig:6
+  basis: Men hunt during a longer halt to obtain food for dogs and people.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Seasonal traveler
+  assigned_to:
+  - fig:2
+  basis: Families undertake winter, spring, or summer visits, including long journeys
+    and returns.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:10
+- id: role:7
+  label: Draft or traveling animal
+  assigned_to:
+  - fig:7
+  basis: Dogs pull sledges, are fed, and require protection from the loaded sledge
+    or travel in boats.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:11
+- id: role:8
+  label: Temporary co-resident
+  assigned_to:
+  - fig:8
+  basis: Visited friends host travelers for a whole year or for a month or two.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Sledge
+  literal_form: Loaded sledge used for winter and spring travel
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Hut or snow house
+  literal_form: Dwelling entered by visitors or left at the beginning of spring travel
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: Choice meat
+  literal_form: Food served to the visitor during hospitality
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Tent poles and tent
+  literal_form: Portable tent equipment loaded for journeys and erected at night or
+    settlement points
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:12
+- id: sym:5
+  label: Pitu
+  literal_form: Item removed and fastened to an eye cut into the ice to protect the
+    sledge from dogs
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Snow goggles
+  literal_form: Wooden or ivory eye protection with shade and narrow slits used against
+    snow blindness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Boat
+  literal_form: Boat carrying tent poles, skin covers, household goods, children,
+    dogs, provisions, and towing kayaks
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: sym:8
+  label: Fresh water at camping places
+  literal_form: Fresh water available at recurring night camp sites during boat travel
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+- id: sym:9
+  label: Known camping places
+  literal_form: Repeatedly visited sites with smooth sloping beach, fresh water, and
+    dry gravelly tent ground
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Winter arrival and hospitality
+  summary: After the ice consolidates, visitors arrive between settlements and are
+    received by hosts who care for their sledge, dogs, food, and clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Preparing and departing for spring journey
+  summary: Families plan longer spring journeys, leave snow houses in April or May,
+    load goods and tent poles on sledges, and begin travel while boats remain behind
+    with a friend.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Night halt and sledge protection
+  summary: At night travelers remove only what is needed for a small tent and cooking,
+    and fasten the pitu into the ice to guard the sledge from dogs.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Longer halt and hunting
+  summary: After several days, travelers unload, unharness dogs, and men hunt to obtain
+    food before the journey continues.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Settlement with visited friends and return
+  summary: Travelers reach friends, establish their own hut, spend a year with them,
+    and return home the next spring; shorter visits may last one or two months.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:6
+  label: Snow-goggle use in spring travel
+  summary: Spring travelers use snow goggles to prevent snow blindness, including
+    wooden modern forms and an ivory older form.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Summer boat travel and recurring camps
+  summary: Several families may travel by boat with household goods, children, dogs,
+    provisions, and kayaks; women row, a man steers, and tents are erected at known
+    sites with beach, water, and gravelly ground.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: Seasonal visiting and hospitality
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links visiting practices to winter ice, spring travel, and summer
+    boat journeys, and describes ritualized practical hospitality for arriving visitors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:10
+  confidence: medium
+  cautions: This is an ethnographic social pattern rather than a narrative mythic
+    motif; the taxonomy reference is limited to the explicit seasonal organization
+    of travel.
+- id: motif:2
+  label: Departure for a long journey
+  taxonomy_refs:
+  - departure
+  basis: Families leave snow houses in spring, load goods on sledges, and start a
+    long journey to visit neighboring friends or groups.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes ordinary travel logistics, not a mythic hero departure.
+- id: motif:3
+  label: Return after extended absence
+  taxonomy_refs:
+  - return
+  basis: After living with friends for a year, travelers retrace their journey to
+    their homes in the following spring; shorter journeys also end with return around
+    June.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The return is literal seasonal travel, not a supernatural or heroic return
+    pattern.
+- id: motif:4
+  label: Mutual aid during visits
+  taxonomy_refs: []
+  basis: Visitors are welcomed and fed by hosts, and while visiting they help their
+    friends provide for their families.
+  evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: high
+  cautions: No explicit sacred or mythological interpretation is stated in the passage.
+- id: motif:5
+  label: Protective travel equipment against environmental danger
+  taxonomy_refs: []
+  basis: The passage describes snow goggles used in spring travel to prevent snow
+    blindness and a pitu used to protect the sledge from dogs during night halts.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: This is a practical material-culture pattern, not necessarily symbolic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 1
+  quote_or_summary: After winter ice consolidates, intercourse between settlements
+    becomes lively; friends visit, trading excursions occur, and visitors arrive every
+    few days.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 1
+  quote_or_summary: 'Visitors are welcomed hospitably: the host unloads the sledge
+    and feeds the dogs; the visitor is led into the hut, served choice meat, and the
+    hostess orders the visitor''s clothing.'
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 2
+  quote_or_summary: Longer journeys are planned for spring; families bring possessions
+    to the winter village if visiting a neighboring tribe, leave snow houses in April
+    or May, load tent poles and goods on sledges, and leave boats with a friend.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 2
+  quote_or_summary: On the first day travelers go about twelve miles; due to heavy
+    loads, people sit on sledges only to rest; the driver walks beside the sledge,
+    women lead the way, and dogs pull better with someone ahead.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 2
+  quote_or_summary: At night the sledge is not unloaded except for tent and cooking
+    needs; the pitu is taken out and fastened to an eye cut in the ice with a spear
+    end to protect the sledge from dogs.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 2
+  quote_or_summary: After about three days a longer halt is made; the sledge is unloaded,
+    dogs unharnessed, and men hunt for food for the dogs and themselves.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 2
+  quote_or_summary: Travelers eventually reach the friends they came to visit, establish
+    their own hut, spend a whole year with them, and retrace the journey home the
+    following spring; very long journeys may last years.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 3
+  quote_or_summary: A two-hundred-mile round journey may be completed in one season;
+    travelers leave goods behind, live with friends for a month or two, return about
+    June, and help friends provide for their families.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 4
+  quote_or_summary: During spring travel, Eskimo use snow goggles against snow blindness;
+    modern ones are wooden with shade and narrow eye slits, while an older specimen
+    is ivory.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 5
+  quote_or_summary: Long summer journeys are sometimes made by several families traveling
+    together in boats, but spring journeys are more frequent because the open season
+    is short in many parts of Northeastern America.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 6
+  quote_or_summary: During boat travel, household goods are stowed in the bottom;
+    women row, a man steers, kayaks are towed, children and dogs lie in the boat,
+    and a central tub holds provisions.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 6578-6646, VISITING, paragraph 6
+  quote_or_summary: At night tents are erected at suitable, familiar places, generally
+    the same places, with smooth sloping beach, fresh water, and dry gravelly ground
+    for tents.
+  source_text_path: texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is descriptive ethnography rather than myth narrative. Literal
+    extraction is strong; motif labels are cautious and mostly social or travel-pattern
+    based.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another text, tradition, or motif family beyond available taxonomy-style labels for candidate motifs.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:arctic-inuit-central-eskimo-boas-gutenberg__l6578-l6646
+  passage_sha256=16ea3fb335f85a4a0b3201bd8ddbf1bc1dd8cc0019b5d4966f899b5da9e52f4f
+

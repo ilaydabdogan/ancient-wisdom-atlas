@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l57270-l57284
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto CXXVI. Bharat Consoled. / Canto CXXIX. The Meeting With Bharat. / Canto
+    CXXX. The Consecration. / APPENDIX.; lines 57270-57284
+  start: '57270'
+  end: '57284'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Vishnu, after promising the gods, seeks a human birthplace, divides himself
+    into four parts, and chooses King Dasharatha as father. Divine beings praise him
+    and ask him to destroy Ravana, who is described as a proud devastator and enemy
+    of Indra who troubles ascetics. After Ravana's destruction, Vishnu is to return
+    to heaven.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vishnu gives a promise to the gods and seeks a birthplace among humans.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vishnu divides himself into four parts and chooses Dasharatha, sovereign of
+    men, as his father.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Divine sages, Gandharvas, Rudras, and Apsaras praise Vishnu in excellent strains.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The praising divine beings ask Vishnu to root up or destroy Ravana.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Ravana is described as proud, fervid in energy, a devastator, an enemy of
+    Indra, a cause of universal lamentation, and a terror to devout ascetics.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The speakers ask that Ravana be destroyed together with his army and friends.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After destroying Ravana, Vishnu is asked to dismiss sorrow and return to heaven,
+    described as free from stain and sin and protected by the sovereign of celestial
+    powers.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage identifies this section as containing the plan for Ravana's death.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vishnu
+  description: A divine figure described as ardent in the work, lotus-eyed, destroyer
+    of Madhu, who seeks birth among humans, divides himself into four parts, and is
+    asked to destroy Ravana and return to heaven.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the gods
+  description: Divine recipients of Vishnu's promise before he seeks a human birthplace.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Dasharatha
+  description: The sovereign of men whom Vishnu chooses as his father.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: divine sages
+  description: A group who, with other divine beings, praise Vishnu and call for Ravana's
+    destruction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Gandharvas
+  description: A group named among those who praise Vishnu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Rudras
+  description: A group named among those who praise Vishnu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Apsaras
+  description: A group named among those who praise Vishnu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ravana
+  description: A powerful figure described as proud, devastating, an enemy of Indra,
+    a cause of lamentation, and a terror to ascetics; he is the intended target of
+    destruction.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: Indra
+  description: Named as the deity whose enemy Ravana is said to be.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: holy ascetics / devout Tapaswis
+  description: Ascetic figures whom Ravana is said to annoy and terrify.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine being seeking human birth
+  assigned_to:
+  - fig:1
+  basis: Vishnu seeks a birthplace among humans and chooses a human father.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: appointed destroyer of Ravana
+  assigned_to:
+  - fig:1
+  basis: The divine speakers praise Vishnu and ask him to destroy Ravana and return
+    to heaven.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: divine recipients of promise
+  assigned_to:
+  - fig:2
+  basis: The passage says Vishnu has given a promise to the gods.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: chosen human father and king
+  assigned_to:
+  - fig:3
+  basis: Dasharatha is called sovereign of men and chosen as Vishnu's father.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: celestial praisers and petitioners
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These divine groups praise Vishnu and voice the request to destroy Ravana.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: devastating antagonist marked for destruction
+  assigned_to:
+  - fig:8
+  basis: Ravana is described as a devastator who causes lamentation and is to be destroyed
+    with his army and friends.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: enemy named in Ravana's description
+  assigned_to:
+  - fig:9
+  basis: Ravana is described as the enemy of Indra.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: afflicted ascetics
+  assigned_to:
+  - fig:10
+  basis: Ravana is said to annoy the holy ascetics and terrify devout Tapaswis.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fourfold self-division
+  literal_form: Vishnu divides himself into four parts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: human birthplace
+  literal_form: A birth-place among men sought by Vishnu.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: heaven
+  literal_form: Heaven, described as a place free from stain and sin and protected
+    by the sovereign of celestial powers.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: lotus-like eyes
+  literal_form: Vishnu's eyes are compared to the lotus and lotus petals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Vishnu prepares for human birth
+  summary: After promising the gods, Vishnu seeks a birthplace among humans, divides
+    himself into four parts, and chooses Dasharatha as his father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Celestial petition for Ravana's destruction
+  summary: Divine sages, Gandharvas, Rudras, and Apsaras praise Vishnu and ask him
+    to destroy Ravana, described as a destructive enemy who troubles ascetics.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Return to heaven after the task
+  summary: The speakers say that after Ravana and his forces are destroyed, Vishnu
+    should dismiss sorrow and return to heaven.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine birth among humans
+  taxonomy_refs:
+  - sacred_birth
+  basis: Vishnu seeks a birthplace among humans and chooses Dasharatha as father.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the plan for birth but does not narrate the actual
+    birth.
+- id: motif:2
+  label: deity divided into multiple parts
+  taxonomy_refs: []
+  basis: Vishnu divides himself into four parts before choosing his human father.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly names fourfold divine division.
+- id: motif:3
+  label: divine-human parent relation
+  taxonomy_refs:
+  - divine_parent_child
+  basis: A divine figure chooses a human king as father for his intended birth among
+    humans.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage names the chosen father but does not yet describe the child
+    after birth.
+- id: motif:4
+  label: divine destruction of a world-troubling enemy
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ravana is described as causing universal lamentation and troubling ascetics,
+    and the divine beings ask Vishnu to destroy him with his army and friends.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage frames a divine plan and petition, not the completed judgment
+    or battle.
+- id: motif:5
+  label: return to heaven after earthly mission
+  taxonomy_refs:
+  - return
+  basis: After destroying Ravana, Vishnu is instructed to dismiss sorrow and return
+    to heaven.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The return is anticipated in speech rather than narrated as occurring.
+- id: motif:6
+  label: miraculous child planned by deity
+  taxonomy_refs:
+  - miraculous_child
+  basis: Vishnu's planned human birth and fourfold self-division imply an extraordinary
+    birth event.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe the child's birth or childhood directly.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 57270-57271
+  quote_or_summary: After giving a promise to the gods, Vishnu seeks a birthplace
+    among humans.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 57271-57274
+  quote_or_summary: Vishnu divides himself into four parts, is described with lotus-like
+    eyes, and chooses Dasharatha, sovereign of men, as his father.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 57274-57278
+  quote_or_summary: Divine sages, Gandharvas, Rudras, and Apsaras praise the destroyer
+    of Madhu and ask him to root up Ravana, described as proud, devastating, and an
+    enemy of Indra.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 57278-57281
+  quote_or_summary: Ravana is said to cause universal lamentation, annoy holy ascetics,
+    terrify devout Tapaswis, and is to be destroyed with his army and friends.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 57281-57284
+  quote_or_summary: After destroying Ravana, Vishnu is to dismiss sorrow and return
+    to heaven; the passage closes by calling the section the plan for Ravana's death.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about Vishnu's planned human birth, fourfold division,
+    Ravana's destruction, and return to heaven. Motif labels are candidate classifications
+    and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external comparisons were added; taxonomy references are limited to the supplied list.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l57270-l57284
+  passage_sha256=0144e0df2cc8fc54c9d02cd49325da6b2f80f60ca9b41a2530592309dfe09dd0
+

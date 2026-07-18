@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l6996-l7025
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: PAGE 28. / PAGE 29 / PAGE 30 / PAGE 31; lines 6996-7025
+  start: '6996'
+  end: '7025'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial note on an obscure rhetorical passage, giving
+    an Irish text attributed to Strachan, an apparent rendering with red oxen or companies,
+    trees, wattles, a woman, vengeance, sovereignty, childbirth, Tethba, Meath, and
+    a causeway over a moor. The note tentatively suggests that the oxen may be transformed
+    people of Mider's race, but reports Strachan's disagreement and says part of the
+    passage is untranslatable.
+  language: English with embedded Irish text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor states that the rhetoric is very obscure and that much of it cannot
+    be translated.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The apparent rendering includes very red oxen, a heavy troop or troops, the
+    placing of trees, twisted wattles, weary hands, and an eye that slants aside because
+    of one woman.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The apparent rendering addresses a second person with vengeance, heavy oxen
+    or companies, sovereignty over white men, sorrow, childbirth, rushes over Tethba,
+    clearing stones from Meath, and a causeway over a moor.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note tentatively proposes that the oxen were transformed people of Mider's
+    race, based on readings glossed as really men and heavy oxen.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage records Strachan's disagreement with the oxen interpretation and
+    says a later portion seems untranslatable.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: red oxen or heavy companies
+  description: An ambiguous collective rendered as very red oxen and heavy oxen in
+    one interpretation, but as heavy companies in Strachan's alternative reading.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: one woman
+  description: A woman mentioned as the cause for an eye slanting aside in the apparent
+    rendering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mider's race
+  description: A group named in the editorial note as the possible race from which
+    the oxen were transformed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ambiguous collective
+  assigned_to:
+  - fig:1
+  basis: The apparent rendering has oxen and troops, while Strachan prefers heavy
+    companies for one disputed phrase.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: possible transformed people
+  assigned_to:
+  - fig:1
+  basis: The editor tentatively says the oxen appear to have been transformed people,
+    but this is philologically disputed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: female cause or occasion
+  assigned_to:
+  - fig:2
+  basis: The apparent rendering says the eye slants aside because of one woman.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: possible source group of transformation
+  assigned_to:
+  - fig:3
+  basis: The editor connects the possible transformed oxen with Mider's race.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: red oxen
+  literal_form: very red oxen; heavy oxen in one tentative rendering
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: trees and wattles
+  literal_form: placing of trees; twisted wattles
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: causeway over moor
+  literal_form: causeway over a moor
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stones and rushes of named regions
+  literal_form: rushes over Tethba; clearing of stones from Meath
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Apparent rendering of obscure rhetoric
+  summary: The rendered rhetoric presents red oxen or troops, tree-placing and wattles,
+    weary hands, a woman connected with a slanting eye, and further phrases concerning
+    vengeance, sovereignty, childbirth, Tethba, Meath, and a causeway over a moor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Editorial interpretation and caution
+  summary: The editor proposes that the oxen may be transformed people of Mider's
+    race, but reports Strachan's alternative reading and notes that part of the passage
+    seems untranslatable.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: possible human-to-ox transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The note tentatively says the oxen were transformed people of Mider's race.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: uncertain
+  cautions: The passage itself is obscure; Strachan disputes the oxen reading and
+    interprets the disputed term as heavy companies.
+- id: motif:2
+  label: sovereignty named in obscure rhetoric
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The apparent rendering includes a phrase about splendour of sovereignty over
+    white men.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The phrase is fragmentary and does not present a clear royal-legitimation
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6996-6998
+  quote_or_summary: The editor states that the rhetoric is very obscure, much cannot
+    be translated, and the text is given according to Strachan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:2
+  type: summary
+  locator: 7009-7016
+  quote_or_summary: The apparent rendering includes very red oxen, a heavy troop or
+    troops, tree-placing, twisted wattles, weary hands, and an eye that slants aside
+    because of one woman.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:3
+  type: summary
+  locator: 7017-7021
+  quote_or_summary: The apparent rendering mentions vengeance, heavy oxen, sovereignty
+    over white men, sorrow, childbirth, rushes over Tethba, clearing stones from Meath,
+    and a causeway over a moor.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:4
+  type: summary
+  locator: 7021-7023
+  quote_or_summary: The editor tentatively says the oxen seem to have been transformed
+    people of Mider's race, based on readings interpreted as really men and heavy
+    oxen.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: summary
+  locator: 7024-7025
+  quote_or_summary: Strachan disagrees with the oxen interpretation, reading the term
+    as heavy companies, and the note says a later portion seems untranslatable.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain Project Gutenberg text; summarized.
+confidence:
+  extraction: low
+  motif_candidates: uncertain
+  comparison_claims: high
+  notes: The source passage explicitly emphasizes obscurity, partial untranslatability,
+    and disagreement about key terms, especially whether the collective is oxen or
+    companies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No comparison claims were generated because the passage does not itself support comparison to another text, tradition, or motif family beyond tentative internal motif classification.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l6996-l7025
+  passage_sha256=861a92fb52c67fc4a31bfe62c21ea6bd3009d307a7696faaae413edc1b215fd0
+

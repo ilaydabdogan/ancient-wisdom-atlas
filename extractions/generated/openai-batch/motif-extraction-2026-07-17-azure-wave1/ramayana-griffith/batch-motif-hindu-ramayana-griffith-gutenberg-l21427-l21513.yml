@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l21427-l21513
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto LXXV. The Abjuration. / Canto LXXVI. The Funeral. / Canto LXXVII. The
+    Gathering Of The Ashes. / Canto LXXX. The Way Prepared.; lines 21427-21513
+  start: '21427'
+  end: '21513'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Skilled workers, guides, guilds, and star-readers go before Bharat's host
+    to prepare an imperial road and camp. They clear and level difficult ground, bridge
+    ravines, cut channels, dig wells and tanks, place altars, and ornament the route
+    with trees, banners, flowers, and sandal-water. Bharat's camp and road are described
+    with royal and celestial comparisons, including Mandar, heavenly cars, Indra's
+    metropolis, and the night sky.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Specialized artisans, guides, and guild workers go forward with tools and
+    implements before the multitude.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The multitude advances in a triumphant mood and is likened to a sea under
+    the full moon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Workers cut through bush and creepers, fell stumps and trees, remove stones,
+    and also raise tall trees in desert places.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Workers remove plants and shrubs, level valleys and steeps, fill pits and
+    holes with stones, mud, and clay, bridge ravines, and pound the soil fine.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Workers cut passages through the ground and lead a rushing flood through a
+    new-cut bed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In dry places, workers sink wells and tanks and place altars around them.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The road and stations are ornamented with plaster, trees, banners, birds,
+    sandal-water, and flowers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Workmen act according to Bharat's will and command to embellish his camping
+    place in pleasant, fruit-tree-filled spots.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Star-readers determine lucky signs and hours and raise the tented shade where
+    Bharat stays.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Bharat's camp is described with level ground, a broad deep moat, streets,
+    palaces, a wall, roads, banners, mansions, and doves.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: 'The road and camps are compared to divine or celestial images: the Gods''
+    heavenly pathway, Mandar, heavenly cars, Indra''s metropolis, and the night sky
+    with moon and constellations.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Skilled workmen and craftsmen
+  description: A collective group including joiners, machine workers, spade workers,
+    wheel framers, engine handlers, well-sinkers, brickmakers, builders, tree-cutters,
+    bamboo workers, and other skilled laborers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Guides of the way
+  description: People whose eyes had previously seen the way and who guide the workers
+    forward.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bharat
+  description: The high-souled prince whose will and command direct the work and whose
+    tent, camp, and royal road are prepared.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Star-readers
+  description: People who read the stars and know lucky signs and hours, and who raise
+    Bharat's tented shade.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Mighty multitude or host
+  description: The large advancing host for whom the imperial road and camps are prepared.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+roles:
+- id: role:1
+  label: Road-makers and infrastructure builders
+  assigned_to:
+  - fig:1
+  basis: They use tools and specialized crafts to clear, level, bridge, channel water,
+    dig wells and tanks, and decorate the route.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Way-guides
+  assigned_to:
+  - fig:2
+  basis: They had seen the way before and guide those moving forward.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Royal beneficiary and commander
+  assigned_to:
+  - fig:3
+  basis: The workmen act to do Bharat's will and, as he commanded, prepare his camping
+    place, tent, and royal road.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: Auspicious-time specialists
+  assigned_to:
+  - fig:4
+  basis: They read the stars, know lucky signs and hours, and raise the tented shade
+    for Bharat.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Advancing royal host
+  assigned_to:
+  - fig:5
+  basis: The multitude advances in triumph, and the passage calls the prepared road
+    the host's imperial road and the prince's royal road.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+symbols:
+- id: sym:1
+  label: Tree
+  literal_form: Trees felled as obstacles, trees raised in desert lands, bloomy trees
+    over the road, and fruit trees around Bharat's camping place.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Water
+  literal_form: A rushing flood led through a new-cut bed, wells and tanks in dry
+    spots, and fragrant sandal-water used in decoration.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Royal and heavenly road
+  literal_form: The prepared route is called an imperial road and the prince's royal
+    road, and it is compared to the Gods' heavenly pathway.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: Mandar mountain
+  literal_form: Bharat's camp is compared to Mandar in towering pride.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Celestial city and sky
+  literal_form: The camps are compared to heavenly cars, Indra's metropolis, and heaven
+    at night filled with the moon and constellations.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Workers and guides advance before the host
+  summary: Skilled tradespeople, guilds, and guides who know the way go forward with
+    tools and implements while the mighty multitude advances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Roadway cut through difficult terrain
+  summary: The workers clear vegetation, fell and raise trees, remove stones, level
+    uneven land, fill holes, bridge ravines, and prepare the road surface.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Waterworks and ornamented stations
+  summary: Workers cut water passages, lead a flood into a new bed, dig wells and
+    tanks in dry places, place altars, and adorn the road with trees, banners, birds,
+    sandal-water, and flowers.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Bharat's camp and royal road beautified
+  summary: Workmen following Bharat's command prepare his camping place; star-readers
+    raise his tent at an auspicious time; the camp and road are described with royal,
+    mountain, and celestial imagery.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Royal road prepared for a prince's host
+  taxonomy_refs:
+  - royal_legitimacy
+  - departure
+  basis: A large host advances while specialized workers prepare an imperial road
+    and the prince's royal road under Bharat's authority.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage displays royal command and procession, but it does not explicitly
+    argue a legal or dynastic claim.
+- id: motif:2
+  label: Transformation of difficult landscape into ordered passage
+  taxonomy_refs:
+  - departure
+  basis: Bushes, stones, trees, valleys, pits, ravines, and hard soil are altered
+    so that a usable route can be made for onward movement.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is primarily a literal engineering scene; broader journey symbolism
+    should be treated cautiously.
+- id: motif:3
+  label: Sacralized water station in the waste
+  taxonomy_refs: []
+  basis: In dry places, wells and tanks are made, altars are placed around them, and
+    the stations are decorated with fragrant water and flowers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The altars and adornment support sacralization, but the passage gives
+    no detailed ritual action.
+- id: motif:4
+  label: Royal encampment imaged as celestial city and mountain
+  taxonomy_refs:
+  - cosmic_mountain
+  - royal_legitimacy
+  basis: Bharat's camp and road are compared to Mandar, heavenly cars, Indra's metropolis,
+    the Gods' heavenly pathway, and a moonlit, star-filled sky.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The comparisons are poetic similes; the passage does not describe an actual
+    ascent or cosmological construction.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents the prepared imperial road through a visual
+    comparison to the Gods' heavenly pathway.
+  claim_level: visual_similarity
+  target: Divine or heavenly pathway imagery within the passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is a poetic simile within the text and does not establish
+    historical contact or broader typological equivalence.
+- id: claim:2
+  claim: The passage compares Bharat's camp to Mandar, heavenly cars, Indra's metropolis,
+    and the moonlit sky, supporting a cautious comparison to celestial-city imagery.
+  claim_level: visual_similarity
+  target: Celestial royal city and cosmic-mountain imagery within Sanskrit epic-style
+    description
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the supplied passage is used; the claim rests on explicit similes
+    rather than external corpus comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21427-21448
+  quote_or_summary: Workers skilled in many trades, along with guides who had seen
+    the way, go forward with tools; the mighty multitude advances in triumph, compared
+    to the sea under the full moon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:2
+  type: summary
+  locator: 21449-21466
+  quote_or_summary: The route is cleared of bush, creepers, stumps, stones, trees,
+    plants, shrubs, pits, holes, ravines, and uneven ground; trees are also raised
+    in desert places.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:3
+  type: summary
+  locator: 21467-21474
+  quote_or_summary: Passages are cut through the ground; a rushing flood is led through
+    a new bed; wells and tanks are sunk in dry places.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:4
+  type: summary
+  locator: 21475-21484
+  quote_or_summary: Altars are placed near the waterworks, and the route is adorned
+    with plaster, trees, banners, birds, sandal-water, and flowers; the host's imperial
+    road is compared to the Gods' heavenly pathway.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:5
+  type: summary
+  locator: 21485-21490
+  quote_or_summary: Chosen workmen carry out high-souled Bharat's will and, as he
+    commanded, beautify his camping place in pleasant spots with fruit-bearing trees.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:6
+  type: summary
+  locator: 21491-21494
+  quote_or_summary: Star-readers who know lucky signs and hours carefully raise the
+    tented shade where Bharat stays.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:7
+  type: summary
+  locator: 21495-21506
+  quote_or_summary: The camp has level ground, a broad moat, streets, palaces, walls,
+    roads, banners, mansions, and doves; it is compared to Mandar and to heavenly
+    cars.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:8
+  type: summary
+  locator: 21507-21513
+  quote_or_summary: Each camp is said to match Indra's metropolis, and the prince's
+    royal road is compared to a bright night sky filled with moon and constellations.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain source metadata; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is strongly supported by the supplied passage. Motif
+    and comparison labels are cautious because the passage is descriptive and uses
+    poetic similes rather than explicit mythological exposition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used; comparison claims are limited to explicit similes in the supplied passage.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l21427-l21513
+  passage_sha256=364cf22dc3d5ee6361fe1ede3fda4a19254c7fc3404c9825ca5703642c0368f5
+

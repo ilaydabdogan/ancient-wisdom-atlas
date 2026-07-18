@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.christian-apocryphal-gospels-wake-gutenberg-l8731-l8768
+source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+passage_locator:
+  label: CHAPTER V. / CHAPTER VI. / CHAPTER VII. / CHAPTER VIII.; lines 8731-8768
+  start: '8731'
+  end: '8768'
+  translation: The suppressed Gospels and Epistles of the original New Testament of
+    Jesus the Christ, Complete
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: Paul writes to Seneca, warning him that speaking to the emperor in favor
+    of Paul's religion is dangerous because the emperor remains a worshipper of heathen
+    gods. Paul asks Seneca not to risk offending his master out of affection for him,
+    and comments on possible reactions from the emperor and empress.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a letter from Paul to Seneca.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Paul states that the emperor admires and favors Paul's religion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Paul advises Seneca not to suffer injury by showing favor to Paul and his
+    group.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Paul describes Seneca's declaration to the emperor as dangerous because it
+    opposed the emperor's religion and mode of worship.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The emperor is described as a worshipper of heathen gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Paul supposes Seneca acted from great respect for him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Paul asks Seneca not to repeat such action, lest affection for Paul offend
+    Seneca's master.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Paul says the emperor's anger will not harm Paul and his group if the emperor
+    remains heathen, and that absence of anger will not benefit them.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Paul says the empress's reaction depends on whether she acts worthy of her
+    character or acts as a woman.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Paul
+  description: Sender of the letter; he gives advice and cautions Seneca about risking
+    imperial offense.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Seneca
+  description: Recipient of the letter; he is described as having spoken to the emperor
+    and as showing affection or respect toward Paul.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the emperor
+  description: A ruler described as admiring and favoring Paul's religion while also
+    worshipping heathen gods; Seneca may offend him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the empress
+  description: A female imperial figure whose possible anger or lack of anger is discussed
+    at the end of the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: heathen gods
+  description: The gods worshipped by the emperor according to Paul.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: advising letter-sender
+  assigned_to:
+  - fig:1
+  basis: Paul sends the greeting and gives Seneca warnings and instructions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: letter-recipient
+  assigned_to:
+  - fig:2
+  basis: The letter is addressed to Seneca.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: imperial intermediary at risk
+  assigned_to:
+  - fig:2
+  basis: Seneca is said to have declared something to the emperor and is warned that
+    favoring Paul may offend his master.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: pagan imperial authority
+  assigned_to:
+  - fig:3
+  basis: The emperor is called a worshipper of heathen gods and Seneca's master, whose
+    anger is considered.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: possible offended imperial consort
+  assigned_to:
+  - fig:4
+  basis: Paul discusses whether the empress will be angry or affronted.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: objects of imperial worship
+  assigned_to:
+  - fig:5
+  basis: The emperor is described as a worshipper of heathen gods.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heathen gods
+  literal_form: gods worshipped by the emperor
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Paul warns Seneca about imperial risk
+  summary: Paul acknowledges the emperor's favorable attitude toward Paul's religion
+    but warns Seneca that openly declaring such matters to a heathen-worshipping emperor
+    is dangerous and may cause injury or offense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Assessment of imperial anger
+  summary: Paul states that the emperor's anger or lack of anger will not materially
+    affect Paul and his group, and then comments on the possible reaction of the empress.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: prudent counsel before hostile or divided authority
+  taxonomy_refs:
+  - wisdom
+  basis: Paul urges Seneca to avoid a dangerous action and to be careful not to offend
+    his master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage contains practical admonition rather than an explicit wisdom
+    teaching or proverb.
+- id: motif:2
+  label: minority religion before pagan imperial power
+  taxonomy_refs: []
+  basis: Paul's religion is contrasted with the emperor's heathen worship, and Seneca's
+    favorable disclosure to the emperor is treated as dangerous.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an epistolary situation rather than a full narrative persecution
+    scene.
+- id: motif:3
+  label: religious opposition between two forms of worship
+  taxonomy_refs:
+  - duality
+  basis: Paul says Seneca declared something contrary to the emperor's religion and
+    way of worship, while the emperor is a worshipper of heathen gods.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The duality is doctrinal and social; the passage does not elaborate a
+    cosmic or metaphysical dualism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: CHAPTER VIII heading
+  quote_or_summary: 'The passage begins: ''PAUL to SENECA Greeting.'''
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: CHAPTER VIII.1
+  quote_or_summary: Paul says the emperor admires and favors Paul's religion, but
+    advises Seneca not to risk injury by showing favor to Paul and his group.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: CHAPTER VIII.2
+  quote_or_summary: Paul says Seneca made a dangerous declaration to the emperor because
+    it opposed the emperor's religion and worship; the emperor is described as a worshipper
+    of heathen gods.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: CHAPTER VIII.3
+  quote_or_summary: Paul says he does not know Seneca's exact intention but supposes
+    the act came from great respect for Paul.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: CHAPTER VIII.4
+  quote_or_summary: Paul asks Seneca not to do this in the future and warns him to
+    be careful lest affection for Paul offend his master.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: CHAPTER VIII.5
+  quote_or_summary: Paul says the emperor's anger will not harm Paul and his group
+    if the emperor remains heathen, and that absence of anger will not help them.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: CHAPTER VIII.6
+  quote_or_summary: Paul says the empress will not be angry if she acts worthy of
+    her character, but will be affronted if she acts as a woman.
+  source_text_path: texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The letter's literal content is clear. Motif labels are cautious because
+    the passage is advisory and epistolary, with limited narrative imagery. No comparison
+    claims were made because the passage itself does not explicitly compare traditions
+    or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No available taxonomy symbol refs such as cave, fire, milk, mountain, serpent, tree, or water appear in the provided passage. The symbol entry for heathen gods uses no taxonomy ref.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:christian-apocryphal-gospels-wake-gutenberg__l8731-l8768
+  passage_sha256=ef38fd74838000ee7758f27eadd2afb1a1d66001b1ca88fecad7296a03dc478f
+

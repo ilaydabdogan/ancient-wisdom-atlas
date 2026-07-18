@@ -1,0 +1,508 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l5363-l5482
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 5363-5482
+  start: '5363'
+  end: '5482'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage begins with the close of a preceding tale, where Peter removes
+    a tailor from heaven and the tailor goes to Wait-a-bit. It then gives the title
+    of tale 36 and opens with a tailor, his three sons, and a milk-giving goat. Each
+    son pastures the goat, but the goat gives contradictory reports: she says to the
+    son that she has eaten enough, then tells the father she has had no food. The
+    father beats and drives out each son. When the father pastures the goat himself
+    and hears the same contradiction, he realizes he expelled his sons without cause,
+    shaves the goat''s head as a mark, whips her, and she runs away.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Peter takes a tailor out of heaven; the tailor has torn shoes and blistered
+    feet, takes a stick, and goes to Wait-a-bit, where good soldiers sit and make
+    merry.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tale title names the Wishing-Table, the Gold-Ass, and the Cudgel in the
+    Sack.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A tailor has three sons and one goat; the goat supports the household with
+    milk and must be taken to pasture daily by the sons in turn.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The eldest son takes the goat to the churchyard, asks whether she has eaten
+    enough, hears her say she has, and brings her home; the goat then tells the father
+    she found no food, and the father beats and drives out the son with a yard-measure.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The second son takes the goat to a garden fence with good herbs; after the
+    goat repeats the same satisfied answer to him and unsatisfied answer to the father,
+    the father drives him out with the yard-measure.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The third son takes the goat to bushes with fine leaves; after the same contradictory
+    answers, the father beats him with the yard-measure and he leaves the house.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The old tailor feeds the goat himself at green hedges and among milfoil; the
+    goat first says she has eaten enough, then says in the stable that she has found
+    no leaves.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The tailor realizes he drove away his three sons without cause, shaves the
+    goat's head with a razor after lathering it, whips her, and the goat runs away.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Peter
+  description: A figure who is obliged to take the tailor out of heaven again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: tailor removed from heaven
+  description: An unnamed tailor with torn shoes and blistered feet who takes a stick
+    and goes to Wait-a-bit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old tailor father
+  description: A tailor with three sons and one goat; he questions the goat, punishes
+    his sons, later tests the goat himself, and punishes the goat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: goat
+  description: A milk-giving household goat who is pastured, gives verbal answers,
+    reports differently to the sons and father, and runs away after being shaved and
+    whipped.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: eldest son
+  description: The first son to pasture the goat; he reports the goat has eaten enough
+    and is driven out after the goat contradicts him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: second son
+  description: The second son to pasture the goat; he reports the goat has eaten enough
+    and is driven out after the goat contradicts him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: third son
+  description: The third son to pasture the goat; he tries to do the thing well, reports
+    the goat has eaten enough, and is beaten out of the house after the goat contradicts
+    him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: heavenly remover
+  assigned_to:
+  - fig:1
+  basis: Peter is said to take the tailor out of heaven again.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: expelled traveler
+  assigned_to:
+  - fig:2
+  basis: The tailor is removed from heaven and goes to Wait-a-bit with torn shoes,
+    blistered feet, and a stick.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: father-householder and punisher
+  assigned_to:
+  - fig:3
+  basis: The old tailor owns the household goat, questions it, beats and expels the
+    sons, and later punishes the goat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:4
+  label: milk-giving household animal
+  assigned_to:
+  - fig:4
+  basis: The goat supports the household with her milk and is taken daily to pasture.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: contradictory speaking animal
+  assigned_to:
+  - fig:4
+  basis: The goat repeatedly tells her herder she has eaten enough and then tells
+    the tailor she has not been satisfied.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: pasture-taking sons driven from home
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each son takes the goat to pasture in turn and is driven out after the goat's
+    contrary report.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: The goat's milk supports the tailor and his three sons.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: yard-measure
+  literal_form: The tailor takes the yard-measure from the wall and uses it to beat
+    or drive out his sons.
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: graves and churchyard refrain
+  literal_form: The goat's complaint repeatedly says she leapt among the graves and
+    found no food or leaves.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: razor and shaved head mark
+  literal_form: The tailor fetches a razor, lathers the goat's head, and shaves it
+    clean as a mark.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: horsewhip
+  literal_form: The tailor brings a horsewhip and cuts the goat with it until she
+    runs away.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: title-named objects and being
+  literal_form: Wishing-Table, Gold-Ass, and Cudgel in the Sack are named in the title.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Removal from heaven to Wait-a-bit
+  summary: Peter removes the tailor from heaven; the tailor, physically worn, takes
+    a stick and goes to Wait-a-bit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Household dependent on a milk goat
+  summary: The old tailor, his three sons, and one goat are introduced; the goat's
+    milk sustains them, so she is pastured daily by the sons in turn.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Eldest son's pasture duty and expulsion
+  summary: The eldest son feeds the goat in the churchyard, hears her say she is satisfied,
+    but the goat tells the father she found no food; the father beats and drives him
+    out.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Second son's pasture duty and expulsion
+  summary: The second son feeds the goat at a garden fence, but the goat repeats the
+    contradictory reports, and the father drives him out with the yard-measure.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Third son's pasture duty and expulsion
+  summary: The third son feeds the goat among bushes with fine leaves; the goat again
+    contradicts him, and the father beats him out of the house.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Father's test and punishment of the goat
+  summary: The tailor feeds the goat himself, hears the same contradiction, realizes
+    his sons were driven away without cause, shaves the goat's head, whips her, and
+    she runs away.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: deceptive speaking animal gives false reports
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The goat speaks and repeatedly gives one answer to the sons and the opposite
+    answer to the father, causing wrongful punishment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The broad taxonomy reference is tentative; the passage shows deception
+    by a speaking animal but does not name a trickster type.
+- id: motif:2
+  label: threefold repetition of a household trial
+  taxonomy_refs: []
+  basis: Three sons each take the goat to pasture in turn; each episode repeats the
+    question, the goat's satisfied answer, her contrary complaint to the father, and
+    the son's expulsion.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a structural narrative pattern in the excerpt rather than a supplied
+    taxonomy category.
+- id: motif:3
+  label: wrongful expulsion after false accusation
+  taxonomy_refs:
+  - departure
+  basis: Each son is driven from home because the goat's complaint makes the father
+    believe the son has neglected her; the father later sees he drove them away without
+    cause.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage contains expulsion/departure, but the excerpt does not yet
+    show the sons' subsequent journeys.
+- id: motif:4
+  label: deception exposed by repeated self-test
+  taxonomy_refs: []
+  basis: After all three sons are expelled, the father pastures the goat himself and
+    receives the same contrary report, revealing the goat's behavior.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No external motif index reference is supplied.
+- id: motif:5
+  label: marking and punishment of offending animal
+  taxonomy_refs: []
+  basis: Once the tailor identifies the goat as the cause, he says he will mark her,
+    shaves her head, whips her, and she runs away.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage presents the action literally; broader symbolic interpretation
+    would require comparison outside the supplied text.
+- id: motif:6
+  label: expulsion from heaven to another place
+  taxonomy_refs:
+  - afterlife_journey_map
+  - departure
+  basis: In the opening sentence from the preceding tale, Peter removes the tailor
+    from heaven and the tailor goes to Wait-a-bit.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is a brief fragment from a preceding tale within the line range;
+    little context is present in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5363-5366
+  quote_or_summary: Peter is obliged to take the tailor out of heaven; the tailor
+    has torn shoes and blistered feet, takes a stick, and goes to Wait-a-bit where
+    good soldiers sit and make merry.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:2
+  type: quote
+  locator: line 5368
+  quote_or_summary: "“36 The Wishing-Table, the Gold-Ass, and the Cudgel in the Sack”"
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 5370-5374
+  quote_or_summary: The tailor has “three sons, and only one goat,” and “the goat
+    supported the whole of them with her milk”; the sons take her to pasture in turn.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; short excerpt and summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5373-5396
+  quote_or_summary: The eldest son feeds the goat in the churchyard; she says she
+    has eaten enough, then tells the father she found no food among the graves, after
+    which the father beats and drives out the son with the yard-measure.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5398-5419
+  quote_or_summary: The second son feeds the goat at a garden fence with good herbs;
+    the goat repeats the satisfied answer to him and the unsatisfied complaint to
+    the father, who drives the son out with the yard-measure.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5421-5443
+  quote_or_summary: The third son feeds the goat among bushes with fine leaves; after
+    the goat's contrary report to the father, the father calls the sons liars and
+    beats the third son until he leaves the house.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 5445-5463
+  quote_or_summary: The old tailor feeds the goat himself at green hedges and among
+    milfoil; she says she has eaten enough, but in the stable again claims she found
+    no leaves.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 5465-5473
+  quote_or_summary: The tailor sees that he drove away his three sons without cause,
+    says he will mark the goat, shaves her head with a razor, whips her, and she runs
+    away in haste.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious and broad; no comparison claims were made because the passage itself
+    does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The line range contains the end of a preceding tale before the title and opening of tale 36; that transition is preserved in observations and given a low-confidence motif only where directly supported.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l5363-l5482
+  passage_sha256=e81623ace8c6b437a40da186f0bf4389611f704503d85b91d16740337baea595
+

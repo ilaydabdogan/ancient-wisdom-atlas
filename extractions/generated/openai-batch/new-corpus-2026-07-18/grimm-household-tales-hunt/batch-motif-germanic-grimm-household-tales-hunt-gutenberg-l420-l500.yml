@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.germanic-grimm-household-tales-hunt-gutenberg-l420-l500
+source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+passage_locator:
+  label: Household Tales by Brothers Grimm / CONTENTS; lines 420-500
+  start: '420'
+  end: '500'
+  translation: Household Tales by Brothers Grimm
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A cat persuades a mouse to live with her and store a pot of fat beneath
+    a church altar for winter. The cat repeatedly lies that she has been asked to
+    serve as godmother, secretly eats the fat in three stages, and gives the supposed
+    christening names as Top-off, Half-done, and All-gone. When winter comes, the
+    mouse discovers the empty pot, accuses the cat, and is swallowed by her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cat and a mouse agree to live and keep house together after the cat speaks
+    of love and friendship.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cat says they need winter provisions and warns that the mouse cannot safely
+    go everywhere because of traps.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A pot of fat is bought and placed beneath the altar in a church as a protected
+    store for future need.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The cat falsely says she has been asked to be godmother at a christening,
+    and the mouse agrees to look after the house alone.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the first absence, the cat goes to the church, licks the top off the pot
+    of fat, and later says the child was named Top-off.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: On the second absence, the cat again claims a godmother duty, goes to the
+    church, eats half the pot of fat, and later says the child was named Half-done.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: On the third absence, the cat repeats the excuse, empties the pot of fat,
+    and later says the child was named All-gone.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When winter arrives and outside food is no longer available, the mouse proposes
+    going to the stored pot of fat.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The cat and mouse find the pot still in place but empty, and the mouse realizes
+    the cat consumed it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After the mouse says All-gone, the cat springs on her, seizes her, and swallows
+    her.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The passage ends with a narrator’s generalizing statement that this is the
+    way of the world.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: cat
+  description: A speaking cat who lives with the mouse, claims friendship, invents
+    godmother excuses, eats the shared pot of fat, and finally swallows the mouse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: mouse
+  description: A speaking mouse who agrees to live with the cat, trusts the cat’s
+    excuses, keeps house during the cat’s absences, discovers the empty pot, accuses
+    the cat, and is swallowed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: deceptive predatory housemate
+  assigned_to:
+  - fig:1
+  basis: The cat uses false godmother stories to leave the house, secretly consumes
+    the shared food, and then eats the mouse when exposed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: trusting victimized housemate
+  assigned_to:
+  - fig:2
+  basis: The mouse accepts the partnership, agrees to the cat’s repeated absences,
+    discovers the theft only in winter, and is swallowed after speaking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: stored pot of fat
+  literal_form: A pot of fat bought as winter provision and hidden beneath the church
+    altar.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: church altar hiding place
+  literal_form: The church, specifically beneath the altar, chosen because no one
+    is expected to dare taking anything from there.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: false christening and godmother pretext
+  literal_form: The cat’s repeated claim that she must serve as godmother at a christening.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: revealing names of consumption stages
+  literal_form: The names Top-off, Half-done, and All-gone, given by the cat as names
+    of supposed christened children.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: winter scarcity
+  literal_form: Winter arrives and there is no longer anything to be found outside.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: partnership and hidden provision
+  summary: The cat and mouse set up a household, buy a pot of fat for winter, and
+    place it beneath the altar in the church.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: first false godmother visit
+  summary: The cat claims a christening obligation, leaves the mouse at home, eats
+    the top of the fat, and returns with the name Top-off.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: second false godmother visit
+  summary: The cat repeats the godmother excuse, eats half the pot of fat, and reports
+    the name Half-done.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: third false godmother visit
+  summary: The cat invokes a third christening, while the mouse voices concern over
+    the odd names; the cat empties the pot and reports the name All-gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: winter discovery and swallowing of the mouse
+  summary: In winter the pair go to the stored pot, find it empty, and the mouse accuses
+    the cat before the cat swallows her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deceptive partner consumes shared provision
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The cat uses false social-religious obligations to leave the shared household
+    and secretly eat the provision reserved for both animals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is functional; the passage presents an animal deceiver
+    rather than an explicitly mythic trickster.
+- id: motif:2
+  label: false friend revealed as predator
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The cat begins as a professed friend and housemate of the mouse, but ultimately
+    threatens and swallows the mouse when the theft is exposed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports the false-friend and predator-prey pattern internally;
+    no external motif index number is supplied.
+- id: motif:3
+  label: threefold repetition with escalating disclosure
+  taxonomy_refs: []
+  basis: The cat’s three trips correspond to three stages of eating the fat, and the
+    names Top-off, Half-done, and All-gone progressively reveal the stages.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pattern rather than one of the supplied named taxonomy
+    families.
+- id: motif:4
+  label: theft from a protected sacred place
+  taxonomy_refs:
+  - sacred_theft
+  basis: The pot is hidden beneath the church altar because the place is considered
+    protected, yet the cat goes there and consumes the stored fat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The stolen object is a household food store, not a sacred object; the
+    sacred aspect is the storage location.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison to a threefold repetition pattern because
+    the cat herself says good things go in threes and the deception unfolds through
+    three visits and three names.
+  claim_level: same_function
+  target: threefold repetition pattern in folktale narration
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: No external corpus parallels are provided in the passage; the claim
+    is limited to functional patterning.
+- id: claim:2
+  claim: The cat’s manipulation of friendship, household trust, and christening language
+    can be cautiously compared by function to the supplied trickster_boundary motif
+    family.
+  claim_level: same_function
+  target: trickster_boundary
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not label the cat as a trickster, and the comparison
+    does not establish historical contact or common inheritance.
+- id: claim:3
+  claim: The eating of the stored pot from beneath the altar can be cautiously compared
+    by function to sacred_theft because a protected religious place is violated.
+  claim_level: same_function
+  target: sacred_theft
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The object taken is not itself described as sacred; the stronger literal
+    pattern is theft of a shared food store.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 420-431
+  quote_or_summary: The cat persuades the mouse to keep house together, says winter
+    provisions are needed, and the pot of fat is placed beneath the church altar for
+    safety.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 431-450
+  quote_or_summary: The cat falsely claims a cousin’s child needs a godmother, goes
+    to the church, licks the top of the fat, and later gives the supposed child’s
+    name as Top-off.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 452-462
+  quote_or_summary: The cat repeats the godmother excuse, this time for a child with
+    a white ring around its neck, and devours half the pot of fat before saying the
+    child was named Half-done.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 464-481
+  quote_or_summary: The cat says all good things go in threes, claims a third godmother
+    invitation, empties the pot of fat, and later reports the name All-gone while
+    the mouse becomes suspicious.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 483-495
+  quote_or_summary: When winter comes, the mouse suggests going to the stored pot;
+    they find it empty, and the mouse accuses the cat of eating it during the godmother
+    visits.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 495-499
+  quote_or_summary: The cat tells the mouse to be silent; when the mouse says All-gone,
+    the cat springs on her, seizes her, swallows her, and the narrator closes with
+    a generalizing moral.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md
+  rights_note: Public domain source; summary based on provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for figures, actions, objects, and sequence. Motif taxonomy
+    assignments are functional and require human review, especially sacred_theft.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  The final line naming 'Our Lady’s Child' appears to introduce the next tale or section and was not used for motif extraction from this passage.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-grimm-household-tales-hunt-gutenberg__l420-l500
+  passage_sha256=7325ba5f62f47f017531c9de2800d33c211418b8f68174535e9c1f720ae7fc4c
+

@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.biblical-genesis-web-classic-l2068-l2092
+source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+passage_locator:
+  label: Chapter 29 / Chapter 30 / Footnotes / Chapter 31; lines 2068-2092
+  start: '2068'
+  end: '2092'
+  translation: Genesis
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: "“Now come, let’s make a covenant, you and I. Let it be for a witness between
+    me and you.”"
+  summary: Laban and Jacob make a covenant marked by a stone pillar and heap, invoke
+    divine witness and judgment, set a boundary against mutual harm, share sacrifice
+    and bread on the mountain, and then Laban blesses his family and departs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Laban claims the daughters, children, flocks, and visible goods as his, then
+    asks what he can do to his daughters or their children.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Laban proposes that he and Jacob make a covenant to serve as a witness between
+    them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jacob sets up a stone as a pillar.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jacob tells his relatives to gather stones; they make a heap and eat beside
+    it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Laban and Jacob give different names to the stone heap, and Laban says the
+    heap is a witness between them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Laban invokes Yahweh to watch between him and Jacob when they are absent from
+    one another.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Laban warns against afflicting his daughters or taking additional wives, stating
+    that God is witness between him and Jacob.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Laban identifies the heap and pillar as a boundary and witness that neither
+    party will cross to harm the other.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Laban invokes the God of Abraham, the God of Nahor, and the God of their father
+    to judge between them; Jacob swears by the fear of Isaac.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Jacob offers a sacrifice on the mountain, calls his relatives to eat bread,
+    and they stay all night on the mountain.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: In the morning Laban kisses and blesses his sons and daughters, then departs
+    and returns to his place.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Laban
+  description: Speaker who proposes the covenant, names the heap, invokes divine witness
+    and judgment, sets boundary terms, blesses his children, and departs.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: Jacob
+  description: Covenant party who sets up the stone pillar, has relatives gather stones,
+    calls the heap Galeed, swears by the fear of Isaac, and offers sacrifice on the
+    mountain.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Jacob's relatives
+  description: Group told by Jacob to gather stones; they make a heap and later eat
+    bread on the mountain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: fig:4
+  name_or_label: Daughters and children
+  description: Family members named by Laban in his speech and included in the covenant
+    concern about affliction and additional wives.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:11
+- id: fig:5
+  name_or_label: Yahweh / God
+  description: Divine witness and judge invoked by Laban in the covenant speech.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: God of Abraham, God of Nahor, God of their father
+  description: Divine names invoked by Laban to judge between the parties.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Fear of Isaac
+  description: Name by which Jacob swears after Laban invokes divine judgment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: covenant party
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Laban proposes a covenant between himself and Jacob.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: marker setter
+  assigned_to:
+  - fig:2
+  basis: Jacob sets up a stone pillar and directs relatives to gather stones for a
+    heap.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: divine witness or judge
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Yahweh is asked to watch, God is called witness, the God of Abraham and Nahor
+    is asked to judge, and Jacob swears by the fear of Isaac.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:4
+  label: ritual meal participants
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The relatives eat by the heap and later eat bread after Jacob's sacrifice
+    on the mountain.
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: role:5
+  label: boundary-term speaker
+  assigned_to:
+  - fig:1
+  basis: Laban states that the heap and pillar witness that neither party will cross
+    to harm the other.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: protected family members named in oath terms
+  assigned_to:
+  - fig:4
+  basis: Laban names his daughters and their children and warns against afflicting
+    his daughters or taking additional wives.
+  evidence_refs:
+  - ev:1
+  - ev:7
+symbols:
+- id: sym:1
+  label: stone pillar
+  literal_form: A stone set up by Jacob as a pillar.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: stone heap
+  literal_form: Gathered stones made into a heap beside which the parties eat and
+    which is called a witness.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:3
+  label: covenant witness marker
+  literal_form: The heap and pillar are named as witnesses between Laban and Jacob
+    and as markers neither may cross for harm.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:4
+  label: mountain
+  literal_form: The mountain where Jacob offers sacrifice, the relatives eat bread,
+    and the group stays overnight.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: shared bread
+  literal_form: Bread eaten by Jacob's relatives after the sacrifice on the mountain.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Laban proposes covenant after claiming family and goods
+  summary: Laban speaks to Jacob, claims kin and property as his, and proposes a covenant
+    to stand as witness between them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Stone pillar and heap are established
+  summary: Jacob sets up a stone pillar, directs relatives to gather stones into a
+    heap, and the group eats there; the heap receives names from Laban and Jacob and
+    is identified as witness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Divine witness and boundary oath
+  summary: Laban invokes Yahweh and God as witness, warns against harming his daughters
+    or taking additional wives, and defines the heap and pillar as a boundary against
+    mutual harm; divine judgment is invoked and Jacob swears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Sacrifice, meal, and departure
+  summary: Jacob offers sacrifice on the mountain, calls relatives to eat bread, and
+    they stay overnight; in the morning Laban kisses and blesses his sons and daughters
+    before departing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: covenant sealed by witness markers and divine oath
+  taxonomy_refs:
+  - covenant
+  basis: The passage explicitly describes a covenant between Laban and Jacob, marked
+    by a heap and pillar as witnesses and accompanied by invocations of Yahweh/God
+    as witness or judge.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The extraction identifies only the passage's explicit covenant pattern;
+    broader legal or ritual parallels are not inferred here.
+- id: motif:2
+  label: boundary marker against mutual harm
+  taxonomy_refs:
+  - covenant
+  basis: The heap and pillar are named as witnesses that neither Laban nor Jacob will
+    cross the marked boundary to harm the other.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is treated as a covenant sub-pattern rather than a separate taxonomy
+    family.
+- id: motif:3
+  label: covenant meal with sacrifice
+  taxonomy_refs:
+  - covenant
+  basis: After the covenant speech and witness markers, Jacob offers sacrifice on
+    the mountain and calls his relatives to eat bread.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage places the sacrifice and meal after the covenant terms, but
+    it does not explicitly state that the meal itself seals the covenant.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Genesis 31:43; lines 2068-2069
+  quote_or_summary: Laban says the daughters, children, flocks, and all visible goods
+    are his, and asks what he can do to his daughters or their children.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: Genesis 31:44; line 2070
+  quote_or_summary: "“Now come, let’s make a covenant, you and I. Let it be for a
+    witness between me and you.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: Genesis 31:45; line 2071
+  quote_or_summary: Jacob takes a stone and sets it up as a pillar.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Genesis 31:46; line 2072
+  quote_or_summary: Jacob tells his relatives to gather stones; they make a heap and
+    eat there by it.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Genesis 31:47-48; lines 2073-2075
+  quote_or_summary: Laban names the heap Jegar Sahadutha, Jacob names it Galeed, and
+    Laban says the heap is a witness between them that day.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: Genesis 31:49; line 2076
+  quote_or_summary: "“Yahweh watch between me and you, when we are absent one from
+    another.”"
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: summary
+  locator: Genesis 31:50; line 2077
+  quote_or_summary: Laban warns Jacob not to afflict his daughters or take additional
+    wives and says God is witness between them.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Genesis 31:51-52; lines 2078-2079
+  quote_or_summary: Laban points to the heap and pillar between them and states that
+    they witness neither party will cross them to harm the other.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Genesis 31:53; line 2080
+  quote_or_summary: Laban invokes the God of Abraham, the God of Nahor, and the God
+    of their father to judge between them; Jacob swears by the fear of Isaac.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: Genesis 31:54; line 2081
+  quote_or_summary: Jacob offers sacrifice on the mountain, calls his relatives to
+    eat bread, and they stay all night on the mountain.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: Genesis 31:55; line 2082
+  quote_or_summary: In the morning Laban kisses and blesses his sons and daughters,
+    then departs and returns to his place.
+  source_text_path: texts/public-domain/biblical/world-english-bible-classic/genesis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage explicitly supports covenant, witness-marker, boundary, sacrifice,
+    and meal observations. No passage-internal comparative claim is made, so comparison_claims
+    is empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy refs are limited to the provided available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:biblical-genesis-web-classic__l2068-l2092
+  passage_sha256=be692709e806b26e5474bfd2dc0816141fe18085a4b9f30daadb03e3ca15c483
+

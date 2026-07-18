@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.germanic-beowulf-gummere-gutenberg-l1566-l1658
+source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+passage_locator:
+  label: GRENDEL THE MURDERER. / BEOWULF GOES TO HROTHGAR'S ASSISTANCE. / THE GEATS
+    REACH HEOROT. / BEOWULF INTRODUCES HIMSELF AT THE PALACE.; lines 1566-1658
+  start: '1566'
+  end: '1658'
+  translation: 'Beowulf: An Anglo-Saxon Epic Poem'
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A company of armed Geats approaches Hrothgar's palace, sets shields and
+    weapons against the wall, and is questioned by a Danish servant about origin and
+    purpose. Beowulf identifies himself and his party as Hygelac's companions and
+    asks to speak with Hrothgar. Wulfgar conveys the request to Hrothgar and urges
+    courteous reception, noting the visitors' worthy appearance and Beowulf's rank.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The party approaches the palace together in warlike equipment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Geatish party sets wide war-shields against the wall and turns toward
+    the benches.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lances with ash shafts and iron edges stand together in a cluster.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A proud-mooded Danish hero asks the armed strangers about their borders, lineage,
+    and purpose.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Danish questioner states that he serves King Hrothgar.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Danish questioner says he has not seen so many far-traveled men of more
+    courageous appearance and judges that they seek Hrothgar from valor and greatness
+    of soul, not as outlaws.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Beowulf replies that the company are Hygelac's mates and names himself Beowulf.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Beowulf asks that he may tell his commission to Hrothgar, the son of Healfdene,
+    if an audience is granted.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Wulfgar says he will ask Hrothgar about Beowulf's journey and report the king's
+    answer.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Wulfgar goes to where Hrothgar sits, old and hoary, attended by his earlmen.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Wulfgar tells Hrothgar that Geatish men have come over the waters from far
+    lands and that their foremost man is called Beowulf.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Wulfgar urges Hrothgar not to refuse a friendly answer and says the visitors
+    seem worthy of honor in their war-gear.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Beowulf
+  description: Foremost among the visiting Geatish battle-champions; identifies himself
+    by name and as one of Hygelac's mates.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Geatish companions / Hygelac's mates
+  description: Armed visitors from the Geats who accompany Beowulf to Hrothgar's palace.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: Danish hero / Hrothgar's servant
+  description: A proud-mooded hero who questions the strangers and states that he
+    is Hrothgar's servant and liegeman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Wulfgar
+  description: Prince of the Wendels, known for boldness, prowess, and prudence; acts
+    as messenger between Beowulf and Hrothgar.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Hrothgar
+  description: King of the Scyldings and lord of the Danes; sits attended by earlmen
+    and is asked to receive the visitors.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:6
+  name_or_label: Hygelac
+  description: Named as the lord or associate whose mates the visitors are.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Healfdene's son
+  description: Designation applied to Hrothgar by Beowulf when requesting to tell
+    his commission.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named spokesman
+  assigned_to:
+  - fig:1
+  basis: Beowulf answers the questioner, names himself, and asks for access to Hrothgar.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: visiting Geatish warrior
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The visitors are described as Geatish men or Hygelac's mates, equipped for
+    war and newly arrived.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:9
+- id: role:3
+  label: foremost in rank among visitors
+  assigned_to:
+  - fig:1
+  basis: Wulfgar says the foremost in rank among the battle-champions bears the name
+    Beowulf.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: armed retinue
+  assigned_to:
+  - fig:2
+  basis: The company approaches together, sets shields by the wall, and carries lances
+    and armor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: gatekeeping questioner
+  assigned_to:
+  - fig:3
+  basis: The Danish hero questions the champions about origin, equipment, and purpose
+    before they reach Hrothgar.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: intermediary messenger
+  assigned_to:
+  - fig:4
+  basis: Wulfgar offers to ask Hrothgar about Beowulf's journey and to return the
+    answer.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: counseling thane
+  assigned_to:
+  - fig:4
+  basis: Wulfgar addresses Hrothgar and urges him to give the visitors a friendly
+    answer.
+  evidence_refs:
+  - ev:10
+- id: role:8
+  label: Danish king and audience-giver
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Hrothgar is the king to whom Beowulf seeks to present his commission and
+    from whom an answer is requested.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: role:9
+  label: ring-giver lord
+  assigned_to:
+  - fig:5
+  basis: Wulfgar calls Hrothgar the giver of rings and friend-lord of the Danes.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: lord associated with visiting warriors
+  assigned_to:
+  - fig:6
+  basis: Beowulf says the visitors are Hygelac's mates.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: war-gear of the visitors
+  literal_form: war-burnies, ring-swords, battle-shields, helmets, lances, armor
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:10
+- id: sym:2
+  label: shields set against the hall wall
+  literal_form: wide-fashioned war-shields and battle-shields placed against the building
+    wall
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water route of arrival
+  literal_form: the way of the waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: ring-giving kingship
+  literal_form: Hrothgar called the giver of rings
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Armed approach to the palace
+  summary: The Geatish party approaches Hrothgar's palace along a glistening road,
+    with armor and weapons sounding and shining.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Weapons set aside at the hall
+  summary: The visitors set their shields against the wall; their armor rattles and
+    their lances stand clustered together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Questioning of the strangers
+  summary: A Danish servant of Hrothgar asks the armed strangers where they come from
+    and why they seek the king, while also praising their courageous appearance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Beowulf's self-introduction and petition
+  summary: Beowulf identifies himself and his company as Hygelac's mates and requests
+    permission to tell his commission to Hrothgar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Wulfgar conveys the request to Hrothgar
+  summary: Wulfgar goes to Hrothgar, describes the Geatish arrivals and Beowulf's
+    rank, and recommends that the king answer them courteously.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: armed strangers arrive at a royal hall and are formally questioned
+  taxonomy_refs: []
+  basis: The visitors arrive in war-gear, set their arms by the hall, and are asked
+    by a royal servant about their origin, lineage, and purpose.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no supplied taxonomy
+    motif family directly names it.
+- id: motif:2
+  label: heroic self-identification before royal audience
+  taxonomy_refs: []
+  basis: Beowulf answers the questioner, gives his name and affiliation with Hygelac,
+    and asks to present a commission to Hrothgar.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives only the introduction and request, not the full audience
+    or mission outcome.
+- id: motif:3
+  label: mediated access to the king
+  taxonomy_refs: []
+  basis: Wulfgar acts between the strangers and Hrothgar, saying he will ask the king
+    and report the answer, then urges Hrothgar to receive them well.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  confidence: high
+  cautions: The motif is procedural and courtly rather than mythological in a narrow
+    sense.
+- id: motif:4
+  label: visible warlike nobility judged from appearance
+  taxonomy_refs: []
+  basis: Both the Danish questioner and Wulfgar infer valor, rank, or worthiness from
+    the visitors' courageous bearing and war-trappings.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  confidence: medium
+  cautions: The interpretation depends on repeated evaluative speech about appearance;
+    the passage does not state a formal recognition ritual.
+- id: motif:5
+  label: arrival over water from far lands
+  taxonomy_refs:
+  - departure
+  basis: Wulfgar reports that Geatish men have been wafted over the waters from far
+    lands to Hrothgar's hall.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The passage describes arrival rather than the original departure; the
+    supplied taxonomy reference is only loosely applicable.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1566-1572
+  quote_or_summary: The highway glistens; the armed party approaches the palace together,
+    with war-burnies, ring-swords, and armor described.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1573-1578
+  quote_or_summary: At the building wall the visitors set their wide war-shields and
+    battle-shields, then turn toward the benches as their battle-sarks rattle.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1579-1584
+  quote_or_summary: The seamen's lances stand clustered, with ash shafts and iron
+    edges, while the armor-clad troop is decked with weapons.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1585-1591
+  quote_or_summary: A proud-mooded hero asks the champions about the lands from which
+    they bring shields, burnies, helmets, and lances, and says he is Hrothgar's servant
+    and liegeman.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1592-1597
+  quote_or_summary: The questioner says he has not found so many far-land men of more
+    courageous mien and thinks they seek Hrothgar from valor and greatness of soul,
+    not as outlaws.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: quote
+  locator: lines 1598-1605
+  quote_or_summary: '"Higelac''s mates are we; / Beowulf hight I"; Beowulf asks to
+    tell his commission to Hrothgar, the bairn of Healfdene, if granted a greeting.'
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:7
+  type: summary
+  locator: lines 1606-1613
+  quote_or_summary: Wulfgar, prince of the Wendels and known for boldness, prowess,
+    and prudence, says he will ask Hrothgar, the friend-lord of the Danes and giver
+    of rings, about Beowulf's journey and report the answer.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:8
+  type: summary
+  locator: lines 1614-1619
+  quote_or_summary: Wulfgar hurries to where Hrothgar sits, old and hoary, attended
+    by earlmen, and stands at the shoulder of the Danish lord.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:9
+  type: summary
+  locator: lines 1620-1626
+  quote_or_summary: Wulfgar tells Hrothgar that Geatish folk have come over the waters
+    from far lands and that the foremost battle-champion is titled Beowulf.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+- id: ev:10
+  type: summary
+  locator: lines 1627-1634
+  quote_or_summary: Wulfgar says the visitors request a conference, asks Hrothgar
+    not to refuse a friendly answer, and says they seem worthy of honor in war-trappings,
+    with a doughty atheling at their head.
+  source_text_path: texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Figures, actions, and courtly roles are explicit in the passage. Motif labels
+    are descriptive and local because the supplied taxonomy contains no close category
+    for hall-entry, gatekeeping, or heroic self-introduction; no comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Footnotes in the passage were not used to add narrative content beyond noting variant translation possibilities where relevant to evidence boundaries.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:germanic-beowulf-gummere-gutenberg__l1566-l1658
+  passage_sha256=bc73582093ef7fe18890c9136bd0cd619e7a12467c8f13278762266935528ad5
+

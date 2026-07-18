@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.hindu-ramayana-griffith-gutenberg-l33386-l33466
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+passage_locator:
+  label: Canto XXVIII. Khara Dismounted. / Canto XLIII. The Wondrous Deer. / Canto
+    XLVI. The Guest. / Canto LI. The Combat.; lines 33386-33466
+  start: '33386'
+  end: '33466'
+  translation: The Ramayan of Valmiki
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: Jaṭāyus attacks Rāvaṇ as Rāvaṇ holds the Maithil lady. The vulture wounds
+    Rāvaṇ, tears away his arms, and continues fighting, but Rāvaṇ cuts him down with
+    a sword. The lady mourns the fallen bird, says he died for her sake, notes that
+    birds and deer show the path of her captor, and calls on Rāma and Lakṣmaṇ to rescue
+    her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jaṭāyus swoops down upon the giant’s back after addressing him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jaṭāyus wounds the giant with talons, beak, wings, and feet, and tears the
+    giant king’s hair.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rāvaṇ holds the Maithil lady with a left arm while striking at Jaṭāyus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jaṭāyus tears away ten of Rāvaṇ’s left arms, and ten others grow from Rāvaṇ’s
+    body.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the battle rages between the lord of giants and the
+    noblest of birds.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rāvaṇ seizes a sword and strikes Jaṭāyus’s wings, side, feet, and throat;
+    Jaṭāyus falls nearly dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Maithil lady goes to the fallen vulture, embraces his neck, and weeps
+    over him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Maithil lady says birds and deer show the path taken by her captor.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Maithil lady says the royal bird flew to her aid and lies dead for her
+    sake.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Maithil lady calls on Rāma and Lakṣmaṇ to hear and rescue her.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jaṭāyus
+  description: A royal vulture, described as best of birds, noblest of the birds of
+    air, broad-winged rover of the skies, and the lady’s true ally.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Rāvaṇ
+  description: The giant, fiend, lord of giants, and lord of Laṅkā’s island who holds
+    the Maithil lady and fights Jaṭāyus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The Maithil dame
+  description: The lady held by Rāvaṇ; she mourns Jaṭāyus, calls Rāvaṇ her captor,
+    and appeals to Rāma and Lakṣmaṇ.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Rāma
+  description: Absent figure invoked by the Maithil lady as “my Rāma” and asked to
+    hasten to her aid.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Lakṣmaṇ
+  description: Absent figure invoked by the Maithil lady and asked not to delay in
+    saving her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: faithful bird champion
+  assigned_to:
+  - fig:1
+  basis: Jaṭāyus fights Rāvaṇ for the lady’s sake and is called her champion and true
+    ally.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: captor and adversary
+  assigned_to:
+  - fig:2
+  basis: Rāvaṇ holds the Maithil lady, is called her captor, fights Jaṭāyus, and slays
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: captive lamenting woman
+  assigned_to:
+  - fig:3
+  basis: The Maithil lady is held by Rāvaṇ, laments over Jaṭāyus, and asks Rāma and
+    Lakṣmaṇ to rescue her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: absent rescuer invoked in speech
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Maithil lady calls on Rāma and Lakṣmaṇ to hear and rescue her.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: fallen ally
+  assigned_to:
+  - fig:1
+  basis: The lady sees Jaṭāyus fallen, embraces him, and says he was slain for her
+    sake.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: royal vulture ally
+  literal_form: vulture / bird of air
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: renewed ten arms
+  literal_form: ten severed left arms replaced by ten others
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: serpent simile for emerging arms
+  literal_form: dread serpents gliding from a hillock side
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: extinguished flame image
+  literal_form: ashes and a flame that has died away
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: animals marking the captor’s path
+  literal_form: birds and deer deserting the brakes and showing the path
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Jaṭāyus battles Rāvaṇ
+  summary: Jaṭāyus attacks Rāvaṇ while Rāvaṇ holds the Maithil lady. The vulture wounds
+    Rāvaṇ and tears away his arms, but Rāvaṇ continues the fight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rāvaṇ cuts down Jaṭāyus
+  summary: Rāvaṇ uses a sword to strike Jaṭāyus’s wings, side, feet, and throat, leaving
+    the vulture fallen and nearly dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:3
+  label: The Maithil lady mourns and calls for rescue
+  summary: The Maithil lady embraces and weeps over Jaṭāyus, says he died for her
+    sake, observes signs of her captor’s path, and calls on Rāma and Lakṣmaṇ to rescue
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: captured beloved calls for rescue
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The Maithil lady is held by Rāvaṇ, calls him her captor, and appeals to Rāma
+    and Lakṣmaṇ to rescue her.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage shows captivity and the appeal for rescue, but the initial
+    abduction event itself is not included in this excerpt.
+- id: motif:2
+  label: loyal bird ally fights and falls for the captive
+  taxonomy_refs: []
+  basis: Jaṭāyus flies to the lady’s aid, fights Rāvaṇ, is cut down, and is mourned
+    as her champion and true ally.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference is supplied for this animal-ally combat
+    pattern.
+- id: motif:3
+  label: monstrous adversary regenerates severed limbs
+  taxonomy_refs: []
+  basis: After Jaṭāyus tears away ten of Rāvaṇ’s left arms, ten other arms grow from
+    Rāvaṇ’s body.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the limb renewal literally, but does not identify a
+    broader motif family for it.
+- id: motif:4
+  label: animals indicate the captor’s path
+  taxonomy_refs: []
+  basis: The Maithil lady states that birds and deer desert the brakes and show the
+    path taken by her captor.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports this within the lady’s speech; it does not narrate
+    a separate tracking scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 33386-33397
+  quote_or_summary: Jaṭāyus swoops onto the giant’s back and attacks with talons,
+    beak, wings, and feet, tearing flesh and hair.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 33402-33413
+  quote_or_summary: Rāvaṇ holds the Maithil lady with one left arm; Jaṭāyus tears
+    away ten left arms, and ten others grow from Rāvaṇ’s body, compared to serpents
+    from a hillock.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 33416-33425
+  quote_or_summary: The battle is described as between the lord of giants and the
+    noblest bird; Jaṭāyus fights faithfully, but Rāvaṇ cuts his wings, side, feet,
+    and throat with a sword, and he falls nearly dead.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 33426-33443
+  quote_or_summary: The lady sees her champion fallen, goes to his side as if grieving
+    a kinsman, embraces his neck, and weeps over the royal bird slain by Rāvaṇ.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 33447-33464
+  quote_or_summary: The Maithil lady laments over Jaṭāyus, says birds and deer show
+    the path of her captor, says the royal bird flew to her aid and lies slain for
+    her sake, and calls Rāma and Lakṣmaṇ to rescue her.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 33430-33435
+  quote_or_summary: The fallen vulture’s back is compared to a dark cloud, his breast
+    to pale grey, and his appearance to ashes after a flame has died away.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md
+  rights_note: Public domain; source metadata states full text and training use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the figure, action, and scene extraction. Motif
+    labels are limited to patterns evident in the excerpt and the supplied taxonomy;
+    no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Some recorded symbols are explicit similes or images in the English passage rather than independent ritual or mythic objects.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:hindu-ramayana-griffith-gutenberg__l33386-l33466
+  passage_sha256=1b1cd8d65312bae6a7bf16457d0fb4711ff5ad233ac4afbe2846f143ba35503c
+

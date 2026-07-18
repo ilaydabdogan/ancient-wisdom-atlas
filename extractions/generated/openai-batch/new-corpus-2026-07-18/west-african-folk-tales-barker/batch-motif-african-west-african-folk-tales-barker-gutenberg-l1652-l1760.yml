@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.african-west-african-folk-tales-barker-gutenberg-l1652-l1760
+source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+passage_locator:
+  label: XVI. HOW BEASTS AND SERPENTS FIRST CAME INTO THE WORLD / XVIII. WHY THE MOON
+    AND THE STARS RECEIVE THEIR LIGHT FROM THE SUN / II. MISCELLANEOUS TALES / XIX.
+    OHIA AND THE THIEVING DEER; lines 1652-1760
+  start: '1652'
+  end: '1760'
+  translation: West African Folk-Tales
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor man, Ohia, and his wife Awirehu attempt to earn money by making
+    palm wine from a farmer's palm-trees. Their wine is repeatedly stolen and their
+    pots broken. Ohia keeps watch, discovers a bush-deer stealing the wine, chases
+    it to a hilltop gathering of quadrupeds ruled by King Tiger, and explains his
+    case. The animals judge Deer guilty. King Tiger compensates Ohia with the ability
+    to understand animal speech, under a prohibition against revealing the power,
+    and Ohia returns home to prosperity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ohia and his wife Awirehu are described as poor and repeatedly unfortunate.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ohia proposes to cut palm-trees, collect their sap as palm wine, have Awirehu
+    sell it at market, and divide the proceeds with a wealthy farmer.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The farmer agrees to the proposal and supplies earthen pots for collecting
+    sap.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On several attempts, Ohia finds the palm wine gone and the earthen pots broken.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: While guarding the trees at night, Ohia sees that the thief is a bush-deer
+    carrying a large jar and emptying wine from the pots into it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ohia chases the deer over many miles to a high hill and climbs after it to
+    the summit.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At the hilltop Ohia finds a large gathering of quadrupeds, with Deer appearing
+    before King Tiger.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: King Tiger first orders Ohia brought forward for punishment as an intruder,
+    then allows him to explain his presence.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: After hearing Ohia, the quadrupeds judge Deer guilty and Ohia blameless; Deer
+    had received money from King Tiger to buy palm wine but instead stole Ohia's wine
+    and kept the money.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: King Tiger gives Ohia the power to understand the conversations of all animals,
+    with the condition that Ohia must not tell anyone about it on pain of instant
+    death.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After Ohia returns home, the palm wine is no longer interfered with, and Ohia
+    and Awirehu become prosperous and happy.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ohia
+  description: A poor man, husband of Awirehu; he works the palm-trees, discovers
+    the theft, chases Deer, speaks before the animal conference, and receives the
+    power to understand animals.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Awirehu
+  description: Ohia's wife; she is to carry palm wine to market and later shares Ohia's
+    improved prosperity.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:3
+  name_or_label: Wealthy farmer
+  description: A nearby wealthy farmer who agrees to Ohia's palm-wine plan and provides
+    earthen pots for collecting sap.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Bush-deer / Deer
+  description: The animal thief who steals Ohia's palm wine into a large jar, breaks
+    the pots, flees to the animal gathering, and is judged guilty for stealing the
+    wine while keeping King Tiger's money.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: King Tiger
+  description: The ruler at the quadrupeds' meeting; he presides over Ohia's case,
+    accepts the animals' judgment, apologizes to Ohia, and grants him a conditional
+    power.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Gathering of quadrupeds
+  description: A large animal conference at the summit of the hill; the quadrupeds
+    listen to Ohia and agree that Deer is guilty and Ohia blameless.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: impoverished married pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Ohia and Awirehu are introduced as a poor and unlucky couple.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: palm-wine worker and seller
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Ohia is to prepare the palm wine, and Awirehu is to take it to market and
+    sell it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: material helper and contracting farmer
+  assigned_to:
+  - fig:3
+  basis: The farmer agrees to the work arrangement and supplies pots because Ohia
+    is too poor to buy them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: thief and deceiver
+  assigned_to:
+  - fig:4
+  basis: Deer steals the wine, breaks the pots, and is later revealed to have kept
+    money meant for buying palm wine.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: animal ruler and judge
+  assigned_to:
+  - fig:5
+  basis: King Tiger commands proceedings at the animal meeting, hears Ohia's explanation,
+    and gives the compensating gift.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: animal adjudicating assembly
+  assigned_to:
+  - fig:6
+  basis: The quadrupeds listen to Ohia's account and unanimously agree that Deer is
+    guilty and Ohia blameless.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: recipient of animal-speech power under secrecy condition
+  assigned_to:
+  - fig:1
+  basis: Ohia receives the power to understand animal conversations, with a prohibition
+    against disclosing it.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: palm-trees
+  literal_form: palm-trees cut and set up to produce sap for palm wine
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: palm wine / sweet sap
+  literal_form: sap collected from palm-trees and prepared as palm wine
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: earthen pots
+  literal_form: earthen pots placed under the palm-trees to catch sap, later found
+    broken
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Deer's large jar
+  literal_form: a large jar carried on Deer's head and used to collect stolen wine
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: high hill and summit
+  literal_form: the high hill climbed by Deer and Ohia, ending at the summit where
+    the quadrupeds meet
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: lighted torch
+  literal_form: a lighted torch carried by Ohia before cock-crow when he goes to collect
+    the wine
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Poverty and palm-wine arrangement
+  summary: Ohia and Awirehu, after repeated misfortune, arrange with a wealthy farmer
+    to make and sell palm wine from palm-trees, sharing the proceeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Repeated thefts and night watch
+  summary: Ohia repeatedly finds the wine stolen and pots broken; he keeps watch at
+    night and discovers Deer stealing the wine into a jar.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Chase to the hilltop animal conference
+  summary: Ohia chases Deer for many miles, climbs a high hill after it, and reaches
+    a summit gathering of quadrupeds presided over by King Tiger.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Hearing and judgment among the quadrupeds
+  summary: Ohia explains his troubles and pursuit; the animals decide that Deer is
+    guilty and Ohia is blameless, and King Tiger's payments to Deer are revealed.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Conditional gift and prosperous return
+  summary: King Tiger compensates Ohia with the power to understand animal speech,
+    forbids him to reveal it on pain of death, and Ohia returns home to renewed prosperity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Animal theft of livelihood substance
+  taxonomy_refs: []
+  basis: The palm wine that should provide Ohia and Awirehu's income is repeatedly
+    stolen, and Deer is caught stealing it from the pots.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The stolen substance is economically valuable but is not described as
+    sacred, so no sacred-theft taxonomy is applied.
+- id: motif:2
+  label: Deceptive animal intermediary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Deer receives money from King Tiger to buy palm wine but steals Ohia's wine
+    instead and keeps the money.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage presents Deer as a thief and deceiver; it does not explicitly
+    call Deer a trickster.
+- id: motif:3
+  label: Pursuit and ascent to hidden animal assembly
+  taxonomy_refs:
+  - ascent
+  basis: Ohia follows Deer over many miles and climbs a high hill to a summit where
+    a conference of quadrupeds is taking place.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The ascent is literal and narrative-functional; the passage does not describe
+    it as cosmic or initiatory.
+- id: motif:4
+  label: Animal court adjudicates a human grievance
+  taxonomy_refs: []
+  basis: King Tiger and the quadrupeds hear Ohia's explanation, judge Deer guilty,
+    declare Ohia blameless, and apologize to him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an animal-king judgment scene, not an explicitly divine judgment
+    scene.
+- id: motif:5
+  label: Gift of animal-language understanding with secrecy taboo
+  taxonomy_refs:
+  - wisdom
+  - forbidden_knowledge
+  basis: King Tiger gives Ohia the power to understand all animal conversations but
+    forbids him to tell anyone about the power on pain of instant death.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The knowledge is allowed to be possessed; the prohibition applies specifically
+    to revealing the power.
+- id: motif:6
+  label: Reversal from misfortune to prosperity after animal-world encounter
+  taxonomy_refs: []
+  basis: After the judgment and gift, Ohia's wine is no longer disturbed and the couple
+    becomes prosperous and happy.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not explain the exact mechanism by which understanding
+    animal speech brings wealth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1656-1668 within supplied range
+  quote_or_summary: Ohia and Awirehu are a poor, unlucky couple; Ohia proposes to
+    tap a wealthy farmer's palm-trees for palm wine, Awirehu will sell it, and proceeds
+    will be divided among the three.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1670-1679 within supplied range
+  quote_or_summary: The farmer agrees and supplies earthen pots; Ohia and Awirehu
+    prepare the trees and pots, and Ohia goes before cock-crow with a lighted torch
+    to collect the wine.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1681-1707 within supplied range
+  quote_or_summary: Ohia repeatedly finds the pots broken and the wine gone; after
+    several failed attempts, he resolves to find and punish the culprit.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1709-1717 within supplied range
+  quote_or_summary: Ohia keeps watch at night and sees a bush-deer carrying a large
+    jar, pouring wine from Ohia's pots into it, and breaking the emptied pots.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1718-1729 within supplied range
+  quote_or_summary: Ohia chases Deer for many miles to a high hill, climbs after it
+    to the summit, and finds a large gathering of quadrupeds with Deer before King
+    Tiger.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1731-1747 within supplied range
+  quote_or_summary: Ohia explains his misfortunes and the chase; the quadrupeds agree
+    Deer is guilty and Ohia blameless, and it is revealed that Deer had kept King
+    Tiger's money instead of buying palm wine.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1748-1752 within supplied range
+  quote_or_summary: King Tiger compensates Ohia with the power to understand all animal
+    conversations, but imposes the condition that Ohia must never tell anyone about
+    the power on pain of instant death.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1754-1760 within supplied range
+  quote_or_summary: Ohia returns home, works at the palm-trees again, the wine is
+    no longer disturbed, and Ohia and Awirehu become prosperous and happy.
+  source_text_path: texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are candidate-level;
+    taxonomy matches are used only where the passage gives direct support or close
+    functional support. No passage-supported external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Evidence sublocators are approximate line ranges within the supplied canonical passage range.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:african-west-african-folk-tales-barker-gutenberg__l1652-l1760
+  passage_sha256=ae9cde7293961f2d0414ae2ce78111a00d5c585364d60a2e598341072a7cf110
+

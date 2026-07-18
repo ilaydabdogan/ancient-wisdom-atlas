@@ -1,0 +1,657 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l13631-l13701
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: CHAPTER IV. / IN THE NAME OF THE MOST MERCIFUL GOD / CHAPTER V. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 13631-13701
+  start: '13631'
+  end: '13701'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for lawful food, trained hunting animals, reciprocal
+    food relations and marriage with recipients of earlier scripture, ritual washing
+    or clean-sand substitution before prayer, remembrance of covenant, just witness,
+    divine reward and punishment, and divine restraint of attackers. The notes gloss
+    some legal terms and give variant occasion stories involving Mohammed, attackers,
+    and Gabriel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lawful food is described as good things, including what trained animals of
+    prey catch, provided God's name is commemorated over it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The food of those who were given scripture is lawful for the addressed believers,
+    and the believers' food is lawful for them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Marriage is permitted with free believing women and free women from those
+    who received scripture before, with dower and chaste conduct rather than fornication
+    or concubinage.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Renouncing faith is said to make a person's work vain and to place that person
+    among those who perish in the next life.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Before prayer, believers are instructed to wash faces and hands, rub heads
+    and feet, and wash all over after sexual pollution.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When water is unavailable under specified conditions, believers are instructed
+    to use fine clean sand on faces and hands; the stated purpose is purification
+    without undue difficulty.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Believers are told to remember God's favor and covenant, associated with the
+    words, "We have heard, and will obey."
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Believers are commanded to act justly as witnesses before God and not let
+    hatred lead them to wrongdoing.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Those who believe and do right are promised pardon and a great reward, while
+    those who disbelieve and accuse the signs of falsehood are called companions of
+    hell.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Believers are told to remember that God restrained the hands of men who intended
+    to attack them.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: A note explains the covenant phrase as an inauguration formula and as an oath
+    of fidelity taken by Mohammed's followers at al Akaba.
+  category: other
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The explanatory note gives several possible occasion stories for the restrained
+    attack, including idolaters near Osfn, a Koreidha plot using a millstone, and
+    a desert Arab drawing a sword near Mohammed.
+  category: sequence
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: GOD
+  description: Named as the one who teaches skill, accounts swiftly, purifies, makes
+    or recalls covenant, promises reward, assigns hell, and restrains attackers.
+  role_refs:
+  - role:1
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: true believers
+  description: The addressed community receiving instructions about lawful food, prayer
+    purification, covenant remembrance, justice, and trust in God.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: those to whom the scriptures were given
+  description: A group whose food is lawful for believers and whose free women may
+    be married under stated conditions; the note glosses them as Jews or Christians.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: free women eligible for marriage
+  description: Free believing women and free women from earlier scripture-receiving
+    communities, mentioned in connection with dower and chastity.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: disbelievers and accusers of signs
+  description: Those who do not believe and accuse the signs of falsehood, described
+    as companions of hell.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: hostile men or attackers
+  description: Men who designed to stretch their hands against believers; the notes
+    include idolaters, Koreidha plotters, and a desert Arab attacker as variant explanations.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:12
+  - ev:13
+- id: fig:7
+  name_or_label: Mohammed
+  description: Appears in the notes as the leader connected with the al Akaba oath
+    and as the protected person in the attack narratives.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:10
+  - ev:12
+  - ev:13
+- id: fig:8
+  name_or_label: Gabriel
+  description: Appears in explanatory notes as warning Mohammed of treachery or striking
+    a sword from an attacker's hand.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:12
+  - ev:13
+roles:
+- id: role:1
+  label: divine lawgiver and purifier
+  assigned_to:
+  - fig:1
+  basis: God is named in the rules for lawful food and purification and is said to
+    desire purification rather than difficulty.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: addressed worshipping community
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly addresses true believers and instructs them in food,
+    prayer preparation, and conduct.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: scripture-recipient community in lawful relations
+  assigned_to:
+  - fig:3
+  basis: Their food is lawful for believers, believers' food is lawful for them, and
+    marriage to their free women is allowed under conditions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: covenant-bound witnesses
+  assigned_to:
+  - fig:2
+  basis: Believers are reminded of covenantal obedience and told to act justly as
+    witnesses before God.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: afterlife judge and rewarder
+  assigned_to:
+  - fig:1
+  basis: God promises pardon and reward to believers and identifies disbelieving accusers
+    with hell; renunciation leads to loss in the next life.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:6
+  label: divine protector
+  assigned_to:
+  - fig:1
+  basis: God is said to have restrained the hands of attackers; the notes give variants
+    in which God or Gabriel prevents harm.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:12
+  - ev:13
+- id: role:7
+  label: condemned unbelievers
+  assigned_to:
+  - fig:5
+  basis: They are described as disbelieving, accusing signs of falsehood, and being
+    companions of hell.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: lawful marriage partners under conditions
+  assigned_to:
+  - fig:4
+  basis: The passage allows marriage with these women when dower is assigned and chaste
+    conduct is observed.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: restrained aggressors
+  assigned_to:
+  - fig:6
+  basis: The verse and notes describe persons intending violence whose plans are prevented.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:12
+  - ev:13
+- id: role:10
+  label: protected prophet or leader in notes
+  assigned_to:
+  - fig:7
+  basis: The notes connect Mohammed with an oath of fidelity and with attack narratives
+    in which he is protected.
+  evidence_refs:
+  - ev:10
+  - ev:12
+  - ev:13
+- id: role:11
+  label: angelic messenger or intervener in notes
+  assigned_to:
+  - fig:8
+  basis: The notes say Gabriel warned Mohammed in one plot and knocked away the sword
+    in another.
+  evidence_refs:
+  - ev:12
+  - ev:13
+symbols:
+- id: sym:1
+  label: trained hunting animal
+  literal_form: Animals of prey trained to catch game for believers.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water for ablution
+  literal_form: Water used to wash faces, hands, heads, feet, and the whole body after
+    pollution.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: fine clean sand
+  literal_form: Fine clean sand rubbed on faces and hands when water is not found.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: covenant formula
+  literal_form: The covenant words, "We have heard, and will obey," with the note's
+    explanation as an oath formula.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: sym:5
+  label: restrained hands
+  literal_form: Hands intended to be stretched against believers but restrained from
+    hurting them.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: hell
+  literal_form: The place or condition named in the phrase "companions of hell."
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: tree with hanging arms
+  literal_form: A tree under which Mohammed rests after hanging up his arms in one
+    explanatory story.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:13
+- id: sym:8
+  label: sword
+  literal_form: A sword drawn by a desert Arab and then beaten from his hand in the
+    explanatory note.
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:9
+  label: millstone
+  literal_form: A millstone intended to be thrown upon Mohammed in one explanatory
+    note variant.
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: Lawful food and hunting
+  summary: The passage permits good things for food and game caught by trained animals,
+    with God's name commemorated over it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Food and marriage with scripture recipients
+  summary: Food relations with recipients of scripture are made reciprocal, and marriage
+    with specified free women is permitted under dower and chastity conditions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Purification before prayer
+  summary: Believers preparing for prayer wash specified body parts or, when water
+    is unavailable, use clean sand as a substitute purification.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Covenant and just witness
+  summary: Believers are reminded of covenantal obedience and commanded to maintain
+    justice as witnesses before God, even against hatred.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Reward, loss, and hell
+  summary: The passage contrasts pardon and great reward for believers who do right
+    with vain works, perishing in the next life, and hell for unbelieving accusers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: scene:6
+  label: Divine restraint of attackers
+  summary: Believers are told to remember that God restrained men who intended to
+    harm them and to trust in God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Explanatory attack traditions
+  summary: The notes provide variant stories in which intended attacks on Mohammed
+    or believers are prevented, including plots by idolaters, a Koreidha millstone
+    plot, and a sword episode under a tree involving Gabriel.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Ritual purification before prayer
+  taxonomy_refs: []
+  basis: The passage prescribes washing before prayer and a clean-sand substitute
+    when water is unavailable.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy has a water symbol but no specific ablution or
+    purification motif family.
+- id: motif:2
+  label: Covenant of obedience
+  taxonomy_refs:
+  - covenant
+  basis: Believers are reminded of God's covenant with them and of the obedience formula,
+    with a note connecting the words to an oath of fidelity.
+  evidence_refs:
+  - ev:6
+  - ev:10
+  confidence: high
+  cautions: The main verse frames the covenant with God; the note adds a historical
+    explanation involving Mohammed's followers.
+- id: motif:3
+  label: Divine judgment with reward and hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts pardon and great reward for right-believing action
+    with vain works, perishing in the next life, and companionship of hell for disbelieving
+    accusers.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage states judgment outcomes but does not narrate an afterlife
+    journey.
+- id: motif:4
+  label: Divine protection from attempted attack
+  taxonomy_refs: []
+  basis: God is said to restrain attackers' hands; the notes give variants in which
+    hostile plans against Mohammed or believers are defeated, sometimes through Gabriel.
+  evidence_refs:
+  - ev:9
+  - ev:11
+  - ev:12
+  - ev:13
+  confidence: high
+  cautions: The explanatory note reports multiple variant occasions rather than a
+    single fixed narrative.
+- id: motif:5
+  label: Sacred boundary-making for food and marriage
+  taxonomy_refs: []
+  basis: The passage marks lawful foods, lawful hunting practice, reciprocal food
+    relations with scripture recipients, and permitted marriage conditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is primarily legal instruction; its motif status should be reviewed
+    by a human cataloger.
+- id: motif:6
+  label: Justice as witness before God
+  taxonomy_refs: []
+  basis: Believers are commanded to witness justly before God and not let hatred produce
+    wrongdoing.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is an ethical admonition rather than a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13631-13636
+  quote_or_summary: Lawful food includes good things and what trained animals of prey
+    catch; God's name is to be commemorated over the catch, and God is swift in account.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 13637-13643 and note x
+  quote_or_summary: Food of those given scripture is lawful reciprocally; marriage
+    is allowed with free believing women and free women from earlier scripture recipients
+    under dower and chastity conditions. Note x glosses the group as Jews or Christians.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 13643-13644
+  quote_or_summary: Whoever renounces the faith has vain work and will be among those
+    who perish in the next life.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 13645-13649
+  quote_or_summary: Believers preparing to pray wash faces and hands, rub heads and
+    feet, and wash all over after sexual pollution.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 13649-13653
+  quote_or_summary: If sick, traveling, after privy use, after touching women, and
+    without water, believers use fine clean sand on faces and hands; God desires purification
+    and not difficulty.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:6
+  type: quote
+  locator: lines 13654-13656
+  quote_or_summary: '"Remember the favor of GOD towards you, and his covenant... when
+    ye said, We have heard, and will obey."'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 13657-13659
+  quote_or_summary: Believers are told to observe justice as witnesses before God
+    and not let hatred cause wrong; justice is nearer to piety.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 13660-13663
+  quote_or_summary: God promises pardon and a great reward to those who believe and
+    do right; disbelievers who accuse signs of falsehood are companions of hell.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:9
+  type: summary
+  locator: lines 13664-13666
+  quote_or_summary: Believers are told to remember God's favor when men planned to
+    stretch their hands against them, but God restrained their hands from hurting
+    them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; full text allowed in supplied metadata.
+- id: ev:10
+  type: note
+  locator: note y
+  quote_or_summary: The note explains "We have heard, and will obey" as an inauguration
+    formula and as the oath of fidelity Mohammed's followers took to him at al Akaba.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; note summarized.
+- id: ev:11
+  type: note
+  locator: note z, first occasion story
+  quote_or_summary: One note story says idolaters near Osfn planned an attack at evening
+    prayer after missing noon prayer, but God defeated their design by revealing the
+    verse of fear.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; note summarized.
+- id: ev:12
+  type: note
+  locator: note z, Koreidha story
+  quote_or_summary: Another note story says Koreidha Jews plotted to throw a millstone
+    on Mohammed; God withheld the attacker's hand and Gabriel warned Mohammed.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; note summarized.
+- id: ev:13
+  type: note
+  locator: note z, desert Arab story
+  quote_or_summary: A third note story says Mohammed rested under a tree with his
+    arms hung up; a desert Arab drew a sword, Gabriel struck it from his hand, and
+    the Arab then professed Mohammedism.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain; note summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Main legal and admonitory content is explicit. Motif labels are candidate-level
+    because several items are legal or ethical instructions rather than developed
+    narratives. No comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Translator/commentator notes in the supplied passage are treated as evidence of explanatory tradition and are distinguished from the main translated scripture in evidence records.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l13631-l13701
+  passage_sha256=be345e618aaabfb904c90f820ff51542cdba04434b0ae98071ab8603e5692687
+

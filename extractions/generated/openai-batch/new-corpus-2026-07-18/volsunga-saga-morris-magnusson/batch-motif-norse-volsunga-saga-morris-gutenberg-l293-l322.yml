@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.norse-volsunga-saga-morris-gutenberg-l293-l322
+source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+passage_locator:
+  label: 'WITH EXCERPTS FROM THE POETIC EDDA / SELECTED BIBLIOGRAPHY: / RECOMMENDED
+    READING-- / INTRODUCTION; lines 293-322'
+  start: '293'
+  end: '322'
+  translation: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic
+    Edda
+  notes: Generated from OpenAI Batch run new-corpus-2026-07-18; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Icelandic settlement custom in which a new chief
+    lets hallowed high-seat pillars drift ashore to indicate where to settle, then
+    hallows and organizes the land with fire, boundaries, buildings, and a temple.
+    It then summarizes population, pastoral economy, trade, seasonal labor, and climate.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A new-coming chief nearing shore leaves the choice of settlement place to
+    the gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hallowed pillars from the high seat are carried from the old abode, thrown
+    overboard with rites, and allowed to drift by wind and wave until they come ashore.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The land next to the beach where the pillars land is viewed from the nearest
+    hill-summit before the homestead place is chosen.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The land is hallowed by encircling it with fire, divided among the band, and
+    marked with boundary-signs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Houses, a walled home-field, and a temple are built as the settlement takes
+    shape.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage reports that in 1100 there were 4500 franklins and about 50,000
+    people, with a large Celtic admixture.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mode of life is described as mainly pastoral, with flocks and herds as
+    chief resources and limited grain cultivation.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Fishing and fowling help coastal communities, while most folk live by sheep
+    and cattle.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The people produce food and clothing, export wool, cloth, horn, and dried
+    fish, and import materials such as wood, iron, honey, wine, and grain.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: 'Work is divided by seasons: outdoor work fills summer days, while winter
+    is used for weaving and indoor crafts.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The island is described as touching the polar circle, with Reykjavik having
+    a mean temperature of 39 degrees.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: new-coming chief
+  description: A chief arriving by ship who follows a ritualized procedure for choosing
+    where to settle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the gods
+  description: Unnamed gods to whom the chief leaves the decision of where he will
+    settle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the band
+  description: The group among whom the hallowed land is parcelled after the settlement
+    site is chosen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Icelanders / folk
+  description: The people described as living mainly by pastoral resources, coastal
+    work, trade, and seasonal labor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: settlement leader
+  assigned_to:
+  - fig:1
+  basis: The chief arrives by ship and initiates the procedure that determines the
+    settlement and homestead site.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine determiners of settlement place
+  assigned_to:
+  - fig:2
+  basis: The chief leaves the place of settlement to the gods.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: settling group receiving parcels of land
+  assigned_to:
+  - fig:3
+  basis: After the land is hallowed, it is parcelled among the band.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: pastoral and seasonal community
+  assigned_to:
+  - fig:4
+  basis: The people are described through flocks, herds, coastal work, production,
+    trade, and seasonal crafts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: hallowed high-seat pillars
+  literal_form: Pillars carried from the old abode and thrown overboard with rites
+    to drift ashore.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wind and wave
+  literal_form: Natural forces that carry the pillars until they come ashore.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hill-summit
+  literal_form: Nearest hill-summit from which the land next to the beach is viewed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: encircling fire
+  literal_form: Fire used to encircle and hallow the land.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: boundary-signs
+  literal_form: Markers used to mark out the parceled land.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: temple
+  literal_form: A temple put up as part of the formation of the settlement.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: seasonal division of work
+  literal_form: Summer outdoor work and winter indoor crafts.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ship arrival and divine site-selection
+  summary: As a chief approaches shore, hallowed high-seat pillars from the old abode
+    are cast into the water with rites and allowed to drift ashore, leaving the settlement
+    choice to the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Viewing, hallowing, and founding the settlement
+  summary: The land near the pillars' landing place is viewed from a hill-summit;
+    the homestead site is chosen, the land is encircled with fire, divided, marked
+    by boundaries, and built up with houses, home-field, and temple.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pastoral economy and seasonal labor
+  summary: The passage describes Icelandic life as largely pastoral, supplemented
+    by fishing, fowling, limited cultivation, trade, and a seasonal division between
+    summer outdoor labor and winter indoor crafts.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divinely guided settlement by drifting sacred objects
+  taxonomy_refs: []
+  basis: The chief leaves the settlement location to the gods by casting hallowed
+    high-seat pillars into the water and accepting where they come ashore as determinative
+    for the settlement area.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an introductory cultural description rather than a narrative episode
+    from the saga plot.
+- id: motif:2
+  label: land hallowed by encircling fire before settlement
+  taxonomy_refs: []
+  basis: The selected land is explicitly hallowed by being encircled with fire before
+    it is parceled, bounded, and built upon.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a ritual action but does not explain its theology or
+    mythic origin.
+- id: motif:3
+  label: seasonal cycle of communal labor
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Life and work are described as allotted by seasonal change, with summer outdoor
+    work and winter indoor crafts.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage frames this as social and economic description, not as a mythic
+    seasonal drama.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 293-297
+  quote_or_summary: A new chief arriving by ship leaves settlement choice to the gods;
+    hallowed high-seat pillars from the old home are thrown overboard with rites and
+    drift by wind and wave until they come ashore.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 297-302
+  quote_or_summary: The land by the beach where the pillars land is viewed from a
+    hill-summit; the homestead is chosen, the land is encircled with fire, divided,
+    marked with boundary-signs, and built up with houses, home-field, and temple.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 302-304
+  quote_or_summary: 'The passage gives figures for 1100: 4500 franklins, about 50,000
+    people, and a strong Celtic infusion in much of the population.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 304-313
+  quote_or_summary: The mode of life is described as mainly pastoral, with limited
+    cultivated land and flocks and herds as chief resources; coastal fishing and fowling
+    help, but most people live by sheep and cattle.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 314-320
+  quote_or_summary: The people produce food and clothing, export goods such as wool,
+    cloth, horn, and dried fish, import needed materials, and divide work by season
+    between summer outdoor labor and winter indoor crafts.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 320-322
+  quote_or_summary: The climate is described as milder than might be expected for
+    an island touching the polar circle; Reykjavik's mean temperature is given as
+    39 degrees.
+  source_text_path: texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is introductory and cultural-historical rather than a mythic narrative.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Passage describes Icelandic settlement and subsistence customs in the introduction to the source edition; it is not a Volsunga Saga narrative episode.
+  batch_run_id=new-corpus-2026-07-18
+  custom_id=motif_extract:norse-volsunga-saga-morris-gutenberg__l293-l322
+  passage_sha256=bb137002c2bf8fc05ab3bce2cda7d0cd3db1320d5554845870894bab60feb819
+

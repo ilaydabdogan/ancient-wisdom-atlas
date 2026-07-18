@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.islamic-koran-sale-gutenberg-l19342-l19366
+source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+passage_locator:
+  label: IN THE NAME OF THE MOST MERCIFUL GOD. / CHAPTER IX. / CHAPTER X. / IN THE
+    NAME OF THE MOST MERCIFUL GOD.; lines 19342-19366
+  start: '19342'
+  end: '19366'
+  translation: The Koran (Al-Qur'an)
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: ''
+  summary: The passage warns the addressed audience about a terrible judgment like
+    those that befell earlier people, states that God delivers apostles and true believers,
+    rejects idol worship, affirms exclusive worship of God, warns against invoking
+    powerless beings besides God, describes God as sole giver of harm, good, and bounty,
+    and instructs the prophet to follow revelation patiently until God judges.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The audience is asked whether they expect a terrible judgment like judgments
+    that befell earlier people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A command tells the audience to wait for the outcome, while the speaker also
+    waits; God will deliver the apostles and those who believe.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The speaker tells the men of Mecca that he does not worship their idols besides
+    God, but worships God, who will cause them to die.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker is instructed to set his face toward the true religion, to be
+    orthodox, and not to attribute companions to God.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker is warned not to invoke, besides God, anything that can neither
+    profit nor hurt him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: God is described as the only one who can relieve hurt and as one whose intended
+    good and bounty cannot be kept back.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Truth is said to have come from the Lord; whoever is directed benefits his
+    own soul, and whoever errs harms only his own soul.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The prophet is commanded to follow what is revealed to him and to persevere
+    patiently until God judges.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: men of Mecca / addressed audience
+  description: The audience addressed as men of Mecca and as persons who may doubt
+    the speaker's religion or wait for the issue.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: GOD
+  description: God is described as deliverer, cause of death, sole reliever of hurt,
+    giver of good and bounty, gracious and merciful, and best judge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: prophet / speaker
+  description: The speaker is commanded to say declarations, reject idol worship,
+    worship God, follow revelation, and persevere.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: apostles
+  description: Apostles whom God will deliver.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: true believers
+  description: Those who believe and are described as due for deliverance from God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: those who have gone before them
+  description: Earlier people upon whom judgments have fallen.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: admonished audience
+  assigned_to:
+  - fig:1
+  basis: They are addressed in warnings and proclamations about judgment, doubt, truth,
+    guidance, and error.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: role:2
+  label: divine judge and deliverer
+  assigned_to:
+  - fig:2
+  basis: God delivers apostles and believers, controls death, hurt, good, and bounty,
+    and is called the best judge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+- id: role:3
+  label: prophetic proclaimer and recipient of revelation
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly commands the speaker to say its message and identifies
+    him as the prophet who must follow revelation.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: delivered apostles
+  assigned_to:
+  - fig:4
+  basis: The passage says God will deliver the apostles.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: delivered true believers
+  assigned_to:
+  - fig:5
+  basis: The passage says it is a justice due from God to deliver the true believers.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: prior recipients of judgment
+  assigned_to:
+  - fig:6
+  basis: They are described only as those before the audience upon whom judgments
+    have fallen.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: idols worshiped besides God
+  literal_form: the idols which ye worship, besides GOD
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: face set toward true religion
+  literal_form: Set thy face towards the true religion
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Warning of judgment and promised deliverance
+  summary: The audience is warned about a terrible judgment like earlier judgments,
+    told to wait for the issue, and told that God will deliver the apostles and true
+    believers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rejection of idols and orientation to true religion
+  summary: The speaker rejects the idols worshiped by the men of Mecca, affirms worship
+    of God, and is commanded to turn toward true religion and avoid associating companions
+    with God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Divine power, guidance, and final judging
+  summary: God is described as the only reliever of hurt and giver of good; truth
+    has come from the Lord; guidance and error affect each soul; the prophet is told
+    to follow revelation until God judges.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divine judgment after warning
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage warns of a terrible judgment like earlier judgments and concludes
+    by instructing the prophet to wait until God judges.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: high
+  cautions: The passage does not describe the execution of the judgment in narrative
+    detail.
+- id: motif:2
+  label: deliverance of messengers and believers
+  taxonomy_refs:
+  - divine_judgment
+  basis: In the context of expected judgment, God is said to deliver the apostles
+    and those who believe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage states the deliverance as a principle, not as a narrated rescue
+    event.
+- id: motif:3
+  label: rejection of idols and exclusive divine agency
+  taxonomy_refs: []
+  basis: The speaker refuses worship of idols besides God, warns against invoking
+    anything besides God, and affirms God as sole reliever of hurt and giver of good.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference directly names this pattern.
+- id: motif:4
+  label: revelatory guidance and personal accountability
+  taxonomy_refs: []
+  basis: Truth is said to have come from the Lord; guidance benefits the guided soul,
+    error harms the erring soul, and the prophet must follow revelation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a doctrinal pattern rather than a developed narrative motif in
+    the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens the expected judgment facing the audience to
+    judgments that befell earlier people, suggesting recurrence of a divine-judgment
+    pattern within the passage's own frame of reference.
+  claim_level: same_motif
+  target: judgments which have fallen on those who have gone before them
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The earlier peoples and specific judgment episodes are not named in
+    this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19342-19344
+  quote_or_summary: '"some terrible judgment, like unto the judgments which have fallen
+    on those who have gone before them"; the audience is told to wait for the issue.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: 19345-19346
+  quote_or_summary: '"then will we deliver our apostles and those who believe"; delivering
+    true believers is described as justice due from God.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: 19347-19350
+  quote_or_summary: '"I worship not the idols which ye worship, besides GOD; but I
+    worship GOD, who will cause you to die".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: 19351-19353
+  quote_or_summary: '"Set thy face towards the true religion" and do not be among
+    those who attribute companions to God.'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: 19354-19356
+  quote_or_summary: '"neither invoke, besides GOD, that which can neither profit thee
+    nor hurt thee".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: 19357-19360
+  quote_or_summary: If God afflicts with hurt, none but God can relieve it; if God
+    wills good, none can keep back his bounty; God is gracious and merciful.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: 19361-19363
+  quote_or_summary: Truth has come from the Lord; whoever is directed benefits his
+    own soul, and whoever errs errs against the same; the speaker is no guardian over
+    them.
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: quote
+  locator: 19364-19366
+  quote_or_summary: '"follow that which is revealed unto thee" and "persevere with
+    patience, until GOD shall judge".'
+  source_text_path: texts/public-domain/islamic/project-gutenberg/koran-sale.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage directly supports divine judgment, deliverance, idol rejection,
+    and revelatory guidance patterns. Broader motif labels beyond divine judgment
+    are less taxonomically specific and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:islamic-koran-sale-gutenberg__l19342-l19366
+  passage_sha256=72062177b2f4c4a486b4eb89e6cca5c1a12da68e0ed80acb6b06e2a9b65ef31b
+

@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.celtic-irish-heroic-romances-of-ireland-leahy-gutenberg-l7971-l7986
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+passage_locator:
+  label: THE EXILE OF THE SONS OF USNACH / PAGE 91 / PAGE 93 / PAGE 95; lines 7971-7986
+  start: '7971'
+  end: '7986'
+  translation: Heroic Romances of Ireland
+  notes: Generated from OpenAI Batch run motif-extraction-2026-07-17-azure-wave1;
+    human review required.
+canonical_text:
+  quote: '"Release me, O my wife!"'
+  summary: A translator's note discusses whether the vocative addressed to Deirdre
+    should be read as “wife” rather than “woman,” and suggests that Naisi's use of
+    the term marks acceptance of Deirdre's offer. A second note states that modern
+    place names such as Ballyshannon and the Mountain of Howth were inserted by the
+    translator and do not correspond to words in the Irish text.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note gives the phrase “Release me, O my wife!” and the Irish “eirgg uaim
+    a ben.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note suggests that the vocative “ben” should be understood as “wife,”
+    not “woman.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note states that the term occurs in seven other places in Windisch's Dictionary
+    and means “wife” in six of them.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note suggests that Naisi's naming Deirdre as “wife” accepts her offer
+    because no other sign of acceptance is indicated.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says subsequent action shows Deirdre is regarded as Naisi's wife
+    afterwards.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note says “Near to Ballyshannon” and “which men to-day call the Mountain
+    of Howth” are modern place-name insertions without corresponding Irish words.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Naisi
+  description: A male figure who, according to the note, addresses Deirdre as “wife”
+    and thereby accepts her offer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Deirdre
+  description: A female figure addressed as “wife” and afterward regarded as Naisi's
+    wife according to the note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: husband or accepting spouse
+  assigned_to:
+  - fig:1
+  basis: The note interprets Naisi's address to Deirdre as “wife” as acceptance of
+    her offer.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wife
+  assigned_to:
+  - fig:2
+  basis: The note states that Deirdre is addressed as “wife” and later regarded as
+    Naisi's wife.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Acceptance through address as wife
+  summary: The note interprets Naisi's words to Deirdre as accepting her offer by
+    calling her “wife,” with later action treating her as his wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Translator's insertion of modern place names
+  summary: The note identifies modern place names inserted in translation and states
+    that they have no corresponding words in the Irish text.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: marital acceptance by verbal address
+  taxonomy_refs: []
+  basis: The passage explicitly proposes that Naisi accepts Deirdre's offer by addressing
+    her as “wife,” with no other sign of acceptance indicated.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a translator's interpretive note rather than a full narrative
+    episode, and it does not describe a ritual marriage or sacred-marriage context.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the meaning of the vocative “ben” here with its usage in
+    other entries and related Irish texts, where it usually means “wife.”
+  claim_level: linguistic_similarity
+  target: uses of “ben” in Windisch's Dictionary, including references to “Sick-bed”
+    and “Fled Bricrend”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The comparison is lexical rather than mythic; one cited case is abbreviated
+    and may be read differently.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7971-7974
+  quote_or_summary: "“Release me, O my wife!” / “eirgg uaim a ben”; the note suggests
+    the vocative “ben” is “wife,” not “woman.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:2
+  type: summary
+  locator: 7974-7978
+  quote_or_summary: The note states that “ben” occurs in seven other places in Windisch's
+    Dictionary, meaning wife in six; it also discusses examples from “Sick-bed” and
+    “Fled Bricrend,” noting uncertainty in the abbreviated case.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 7979-7982
+  quote_or_summary: The note suggests that Naisi accepts Deirdre's offer by calling
+    her “wife,” since no other sign of acceptance is indicated, and later action treats
+    her as his wife.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 7983-7986
+  quote_or_summary: The note says that “Near to Ballyshannon” and “which men to-day
+    call the Mountain of Howth” are modern place-name insertions with no corresponding
+    words in the Irish.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily philological and editorial commentary. Extraction
+    is reliable for named figures and relationship interpretation, but motif identification
+    is limited because the narrative context is not fully present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-18'
+notes: |-
+  No taxonomy motif or symbol refs assigned because the passage does not support a sacred, ritual, or symbolic reading beyond the literal marital address and editorial place-name note.
+  batch_run_id=motif-extraction-2026-07-17-azure-wave1
+  custom_id=motif_extract:celtic-irish-heroic-romances-of-ireland-leahy-gutenberg__l7971-l7986
+  passage_sha256=20415d226498ec6b23a269eeab7b1b60d5567badc3d2eaa7e2ab239ea8cf41db
+
